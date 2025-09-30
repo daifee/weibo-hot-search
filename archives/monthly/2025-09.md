@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 14:37:45
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 14:50:51
 </p>
 </blockquote>
 <p>
@@ -3903,6 +3903,12 @@ iG醒醒（热度：964601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%83%BD%E4%B8%8D%E8%83%BD%E5%88%AB%E6%94%BE%E5%81%87%E4%BA%86%23" target="weibo">
+韩国人能不能别放假了（热度：963566）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8D%97%E7%90%86%E5%B7%A5%E6%A0%A1%E5%86%85%E8%BD%A6%E7%A5%B8%E9%81%87%E9%9A%BE%E8%80%85%E5%90%8C%E5%AD%A6%E5%8F%91%E5%A3%B0%23" target="weibo">
 华南理工校内车祸遇难者同学发声（热度：962864）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17Promini首曝（热度：777010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%AC%A3%E4%BB%BB%E5%BD%AC%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%23" target="weibo">
 蒋欣任彬再见爱人（热度：747749）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9A%B9%E7%BD%97%E7%8C%AB%E5%B0%8F%E8%B1%86%E6%B3%A5%E5%8E%BB%E4%B8%96%23" target="weibo">
-暹罗猫小豆泥去世（热度：747279）
 </a>
 </li>
 

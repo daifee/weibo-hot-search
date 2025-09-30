@@ -1,6 +1,6 @@
 {
   "startTime": 1759163197632,
-  "endTime": 1759214265235,
+  "endTime": 1759215051283,
   "band_list": [
     {
       "raw_hot": 2403665,
@@ -33,6 +33,14 @@
       "onboard_time": 1759198581,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 963566,
+      "num": 1154170,
+      "word": "韩国人能不能别放假了",
+      "onboard_time": 1759213460,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 957513,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 840029,
-      "num": 212660,
+      "num": 223984,
       "word": "李晨 短剧狗不演我演",
       "onboard_time": 1759208120,
       "rank": 15,
@@ -107,7 +115,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 712381,
+      "raw_hot": 738582,
       "num": 1113981,
       "word": "西贝厨师说生鸡内脏被下水道冲走了",
       "onboard_time": 1759210040,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 661018,
-      "num": 208173,
+      "num": 222546,
       "word": "小沈阳叫沈佳润美美孩孩宝",
       "onboard_time": 1759206381,
       "rank": 36,
@@ -139,8 +147,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 632681,
+      "num": 632681,
+      "word": "得力CEO道歉",
+      "onboard_time": 1759212801,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 632570,
-      "num": 206011,
+      "num": 219919,
       "word": "第一批外国女婿已经开始回农村了",
       "onboard_time": 1759214000,
       "rank": 13,
@@ -179,8 +195,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 512387,
-      "num": 204731,
+      "raw_hot": 519129,
+      "num": 222101,
       "word": "娜扎答应了我的求婚",
       "onboard_time": 1759208000,
       "rank": 32,
@@ -251,6 +267,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 449729,
+      "num": 218699,
+      "word": "肖战谍报上不封顶杀青",
+      "onboard_time": 1759211900,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 449709,
       "num": 449709,
       "word": "涉电诈中国女孩曾让闺蜜去埃及陪她",
@@ -283,14 +307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 434163,
-      "num": 202579,
-      "word": "肖战谍报上不封顶杀青",
-      "onboard_time": 1759211900,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 430604,
       "num": 258841,
       "word": "技能五子棋 要爆了",
@@ -307,14 +323,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 372783,
-      "num": 201819,
-      "word": "韩国人能不能别放假了",
-      "onboard_time": 1759213460,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 366144,
       "num": 366144,
       "word": "K签增设近两月为何突然引发关注",
@@ -328,14 +336,6 @@
       "word": "中国K字签证要守三关",
       "onboard_time": 1759187118,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 350757,
-      "num": 350757,
-      "word": "得力CEO道歉",
-      "onboard_time": 1759212801,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -539,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232659,
+      "num": 232659,
+      "word": "泡泡玛特新品16倍溢价黄牛犯了愁",
+      "onboard_time": 1759211600,
+      "rank": 9,
+      "category": "休闲,民生新闻"
+    },
+    {
       "raw_hot": 230788,
       "num": 197041,
       "word": "王力宏夸肖战",
@@ -579,14 +587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211336,
-      "num": 211336,
-      "word": "泡泡玛特新品16倍溢价黄牛犯了愁",
-      "onboard_time": 1759211600,
-      "rank": 9,
-      "category": "休闲,民生新闻"
-    },
-    {
       "raw_hot": 198706,
       "num": 198706,
       "word": "一笑随歌",
@@ -611,12 +611,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 192922,
+      "num": 192922,
+      "word": "孙颖莎说混双要找到最好的感觉",
+      "onboard_time": 1759214419,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192295,
       "num": 192295,
       "word": "邓超 不准把我P掉",
       "onboard_time": 1759201820,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187567,
+      "num": 187567,
+      "word": "孙颖莎发球被裁判提醒",
+      "onboard_time": 1759213160,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187396,
+      "num": 187396,
+      "word": "黄金",
+      "onboard_time": 1759214662,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 184713,
@@ -635,12 +659,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 180380,
-      "num": 180380,
-      "word": "孙颖莎发球被裁判提醒",
-      "onboard_time": 1759213160,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 180854,
+      "num": 180854,
+      "word": "王一博空气吉他正确弹法",
+      "onboard_time": 1759214300,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 179402,
@@ -675,12 +699,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 166353,
+      "num": 166353,
+      "word": "贺峻霖被掰成贺峻雨林了",
+      "onboard_time": 1759214662,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165185,
       "num": 165185,
       "word": "美人余全阵容官宣",
       "onboard_time": 1759202659,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164202,
+      "num": 164202,
+      "word": "辛芷蕾回应庆余年3",
+      "onboard_time": 1759213460,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 163121,
@@ -707,20 +747,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 158517,
-      "num": 158517,
-      "word": "辛芷蕾回应庆余年3",
-      "onboard_time": 1759213460,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 158376,
       "num": 144849,
       "word": "董璇张维伊婚礼 长辈加桌",
       "onboard_time": 1759143740,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157363,
+      "num": 157363,
+      "word": "沈佳润 大大方方",
+      "onboard_time": 1759214120,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 156940,
@@ -1035,6 +1075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129067,
+      "num": 129067,
+      "word": "4600亿大牛股遭套现近23亿",
+      "onboard_time": 1759213941,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 128618,
       "num": 152771,
       "word": "第12个烈士纪念日",
@@ -1057,14 +1105,6 @@
       "onboard_time": 1759204701,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 128407,
-      "num": 128407,
-      "word": "4600亿大牛股遭套现近23亿",
-      "onboard_time": 1759213941,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 128008,
@@ -1203,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115789,
+      "num": 115789,
+      "word": "黄磊各种药不离身",
+      "onboard_time": 1759211481,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115778,
       "num": 115778,
       "word": "小酒窝很小的时候就会安慰董璇了",
@@ -1251,28 +1299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111882,
-      "num": 111882,
-      "word": "沈佳润 大大方方",
-      "onboard_time": 1759214120,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 111585,
       "num": 111585,
       "word": "莎头组合混双出战",
       "onboard_time": 1759196420,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 111413,
-      "num": 111413,
-      "word": "黄磊各种药不离身",
-      "onboard_time": 1759211481,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 110961,
@@ -1347,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105612,
+      "num": 105612,
+      "word": "有车主提前一天出发还是堵路上",
+      "onboard_time": 1759215020,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104799,
       "num": 104799,
       "word": "曝ASI没有金玉良缘",
@@ -1363,6 +1403,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 104041,
+      "num": 104041,
+      "word": "猫 妈妈比死神先到一步",
+      "onboard_time": 1759214961,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 103174,
       "num": 103174,
       "word": "2024年社保基金投资收益率8.1%",
@@ -1377,6 +1425,14 @@
       "onboard_time": 1759160781,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102013,
+      "num": 121600,
+      "word": "埃及失联女孩闺蜜无心插柳救自己",
+      "onboard_time": 1759213820,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99326,
@@ -1473,6 +1529,14 @@
       "onboard_time": 1759211720,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93285,
+      "num": 127565,
+      "word": "中国陆地航母集结",
+      "onboard_time": 1759209982,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 92216,
@@ -1635,16 +1699,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 69316,
-      "num": 119763,
-      "word": "埃及失联女孩闺蜜无心插柳救自己",
-      "onboard_time": 1759213820,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69266,
-      "num": 119055,
+      "raw_hot": 70618,
+      "num": 121876,
       "word": "张晚意情绪满分技术零分",
       "onboard_time": 1759213881,
       "rank": 39,
@@ -1652,11 +1708,19 @@
     },
     {
       "raw_hot": 68718,
-      "num": 600205,
+      "num": 635938,
       "word": "盛世中国如你所愿",
       "onboard_time": 1759163180,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 68427,
+      "num": 122045,
+      "word": "国庆机票怎么贵成这样了",
+      "onboard_time": 1759214599,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67642,
@@ -1784,6 +1848,14 @@
       "word": "警方回应女童上托班耳朵疑被撕裂",
       "onboard_time": 1759183995,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55403,
+      "num": 122362,
+      "word": "拼假",
+      "onboard_time": 1759215020,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
