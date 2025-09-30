@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 22:25:36
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 22:42:27
 </p>
 </blockquote>
 <p>
@@ -5313,6 +5313,12 @@ CEO出轨女同事其丈夫发声（热度：824142）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%87%E5%BA%A6%E5%8C%BB%E7%BE%8E%E9%9D%A2%E9%83%A8%E9%A6%92%E5%8C%96%E9%85%B7%E4%BC%BC%E9%9D%A2%E5%85%B7%E4%BA%BA%23" target="weibo">
+女子过度医美面部馒化酷似面具人（热度：816904）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9C%9F%E7%A8%B3%23" target="weibo">
 刘宇宁真稳（热度：816875）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17Promini首曝（热度：777010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E6%92%9E%E5%88%B0%E5%88%98%E5%98%89%E7%8E%B2%E5%90%8E%E7%9B%B8%E8%A7%86%E4%B8%80%E7%AC%91%23" target="weibo">
 张柏芝撞到刘嘉玲后相视一笑（热度：754880）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9020%20%E8%83%96%E5%A6%9E%23" target="weibo">
-运20 胖妞（热度：754801）
 </a>
 </li>
 

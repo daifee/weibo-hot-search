@@ -1,6 +1,6 @@
 {
   "startTime": 1759163197632,
-  "endTime": 1759242336207,
+  "endTime": 1759243347233,
   "band_list": [
     {
       "raw_hot": 2873193,
@@ -179,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 816904,
+      "num": 525576,
+      "word": "女子过度医美面部馒化酷似面具人",
+      "onboard_time": 1759240341,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 813058,
       "num": 813058,
       "word": "鸡排哥整治黄牛",
@@ -236,19 +244,11 @@
     },
     {
       "raw_hot": 730346,
-      "num": 258352,
+      "num": 259486,
       "word": "黄灿灿说不会结婚了",
       "onboard_time": 1759230442,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 712495,
-      "num": 525576,
-      "word": "女子过度医美面部馒化酷似面具人",
-      "onboard_time": 1759240341,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 687922,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 598379,
-      "num": 249474,
+      "num": 249575,
       "word": "巴黎偶遇迪丽热巴邓为",
       "onboard_time": 1759231642,
       "rank": 26,
@@ -356,15 +356,23 @@
     },
     {
       "raw_hot": 595868,
-      "num": 238575,
+      "num": 243358,
       "word": "心动8如益CP官宣",
       "onboard_time": 1759232424,
       "rank": 14,
       "category": "综艺"
     },
     {
+      "raw_hot": 591349,
+      "num": 262627,
+      "word": "王乐晨卢远回应",
+      "onboard_time": 1759241661,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 582946,
-      "num": 253677,
+      "num": 256268,
       "word": "妻子查看亡夫遗物发现婚外情录音",
       "onboard_time": 1759233860,
       "rank": 17,
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 474816,
-      "num": 242355,
+      "num": 248629,
       "word": "曝方媛已产下第三胎",
       "onboard_time": 1759241541,
       "rank": 20,
@@ -579,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 412293,
+      "num": 412293,
+      "word": "台湾是中国领土一部分",
+      "onboard_time": 1759235480,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 407138,
       "num": 407138,
       "word": "以色列就空袭多哈向卡塔尔道歉",
@@ -593,6 +609,14 @@
       "onboard_time": 1759211600,
       "rank": 9,
       "category": "休闲,民生新闻"
+    },
+    {
+      "raw_hot": 392402,
+      "num": 392402,
+      "word": "菲律宾7.0级左右地震",
+      "onboard_time": 1759242442,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 376765,
@@ -617,14 +641,6 @@
       "onboard_time": 1759213460,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 355818,
-      "num": 355818,
-      "word": "台湾是中国领土一部分",
-      "onboard_time": 1759235480,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 352919,
@@ -715,14 +731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 308318,
-      "num": 245534,
-      "word": "王乐晨卢远回应",
-      "onboard_time": 1759241661,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 307867,
       "num": 225189,
       "word": "野火月亮 白鹿",
@@ -811,6 +819,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 289883,
+      "num": 247531,
+      "word": "张维伊回应继女改口",
+      "onboard_time": 1759243163,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288365,
       "num": 288365,
       "word": "特朗普说承认巴勒斯坦国是愚蠢行为",
@@ -849,6 +865,14 @@
       "onboard_time": 1759224381,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 268267,
+      "num": 268267,
+      "word": "网友吐槽顺丰速孕车贴让人不适",
+      "onboard_time": 1759240821,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262069,
@@ -987,6 +1011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220832,
+      "num": 220832,
+      "word": "K签",
+      "onboard_time": 1759240521,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219678,
       "num": 219678,
       "word": "行程图",
@@ -1024,14 +1056,6 @@
       "word": "台湾老人强行要年轻人让座被踹懵",
       "onboard_time": 1759226061,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204613,
-      "num": 204613,
-      "word": "K签",
-      "onboard_time": 1759240521,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1113,6 +1137,14 @@
       "onboard_time": 1759231341,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188258,
+      "num": 188258,
+      "word": "张一山新剧到底几天没睡觉",
+      "onboard_time": 1759242380,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 187396,
@@ -1227,6 +1259,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 172672,
+      "num": 172672,
+      "word": "心动的信号8售后",
+      "onboard_time": 1759241961,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172556,
       "num": 120956,
       "word": "蛋糕不同意周深33岁",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1759188680,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 159956,
+      "num": 159956,
+      "word": "曝S15陪练团名单",
+      "onboard_time": 1759241422,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 159309,
@@ -1427,14 +1475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 150669,
-      "num": 150669,
-      "word": "心动的信号8售后",
-      "onboard_time": 1759241961,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150655,
       "num": 150655,
       "word": "男子含着烟头吃饭敲诈面馆",
@@ -1513,14 +1553,6 @@
       "onboard_time": 1759224621,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146045,
-      "num": 146045,
-      "word": "曝S15陪练团名单",
-      "onboard_time": 1759241422,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 145856,
@@ -1753,6 +1785,14 @@
       "onboard_time": 1759207281,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 133407,
+      "num": 133407,
+      "word": "AG对战KSG",
+      "onboard_time": 1759243222,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 133085,
@@ -2940,7 +2980,7 @@
     },
     {
       "raw_hot": 79826,
-      "num": 205933,
+      "num": 221530,
       "word": "郭艾伦要跳一万遍李斯丹妮的winner",
       "onboard_time": 1759242082,
       "rank": 27,
@@ -2993,14 +3033,6 @@
       "onboard_time": 1759150040,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 77075,
-      "num": 140286,
-      "word": "网友吐槽顺丰速孕车贴让人不适",
-      "onboard_time": 1759240821,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76739,
@@ -3227,6 +3259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58840,
+      "num": 157249,
+      "word": "国庆看升旗的人已经在排队了",
+      "onboard_time": 1759242082,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57989,
       "num": 130187,
       "word": "辛芷蕾回应中女",
@@ -3248,6 +3288,14 @@
       "word": "拼假",
       "onboard_time": 1759215020,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55014,
+      "num": 157004,
+      "word": "新人花近3万在海底捞办50桌婚宴",
+      "onboard_time": 1759243283,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -3291,7 +3339,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 46446,
+      "raw_hot": 46758,
       "num": 156713,
       "word": "吉林奶头山村更名为头山村",
       "onboard_time": 1759241841,
@@ -3329,6 +3377,14 @@
       "onboard_time": 1759172834,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43646,
+      "num": 152254,
+      "word": "莎头只为冲击总决赛资格",
+      "onboard_time": 1759243222,
+      "rank": 38,
+      "category": "体育,其它"
     },
     {
       "raw_hot": 43389,
@@ -3419,6 +3475,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 37304,
+      "num": 157825,
+      "word": "欧莱雅大秀台前幕后",
+      "onboard_time": 1759241241,
+      "rank": 34,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 36996,
       "num": 166858,
       "word": "周也时装周首次走秀",
@@ -3467,28 +3531,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 31550,
-      "num": 157249,
-      "word": "国庆看升旗的人已经在排队了",
-      "onboard_time": 1759242082,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29873,
       "num": 225290,
       "word": "在郑州被文化自信燃到了",
       "onboard_time": 1759219339,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27589,
-      "num": 157691,
-      "word": "欧莱雅大秀台前幕后",
-      "onboard_time": 1759241241,
-      "rank": 34,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 26357,

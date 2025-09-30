@@ -1,0 +1,410 @@
+{
+  "runTime": 1759243347233,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 850923,
+        "num": 1136147,
+        "word": "堵车",
+        "onboard_time": 1759226240,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497274,
+        "num": 497274,
+        "word": "女子提前出发睡服务区省1400元",
+        "onboard_time": 1759231461,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34747,
+        "num": 459749,
+        "word": "国庆中秋假期安全提示",
+        "onboard_time": 1759238962,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 816904,
+        "num": 450637,
+        "word": "女子过度医美面部馒化酷似面具人",
+        "onboard_time": 1759240341,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438644,
+        "num": 438644,
+        "word": "被骗100万女孩要去英国找婆婆后续",
+        "onboard_time": 1759235422,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412293,
+        "num": 412293,
+        "word": "台湾是中国领土一部分",
+        "onboard_time": 1759235480,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 392402,
+        "num": 392402,
+        "word": "菲律宾7.0级左右地震",
+        "onboard_time": 1759242442,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 301166,
+        "num": 301166,
+        "word": "中方关于联大第2758号决议的立场文件",
+        "onboard_time": 1759234882,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 281029,
+        "num": 281029,
+        "word": "王楚钦被判发球遮挡",
+        "onboard_time": 1759231642,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268267,
+        "num": 268267,
+        "word": "网友吐槽顺丰速孕车贴让人不适",
+        "onboard_time": 1759240821,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 903559,
+        "num": 266430,
+        "word": "乐远cp选择不成为情侣",
+        "onboard_time": 1759230981,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 766366,
+        "num": 265157,
+        "word": "文咏珊官宣当妈",
+        "onboard_time": 1759225341,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 591349,
+        "num": 262627,
+        "word": "王乐晨卢远回应",
+        "onboard_time": 1759241661,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 557318,
+        "num": 261200,
+        "word": "户晨风全网销号",
+        "onboard_time": 1759236383,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 549580,
+        "num": 259486,
+        "word": "黄灿灿说不会结婚了",
+        "onboard_time": 1759230442,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513820,
+        "num": 258285,
+        "word": "王力宏鹿晗 演唱会循环",
+        "onboard_time": 1759239262,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 501971,
+        "num": 256268,
+        "word": "妻子查看亡夫遗物发现婚外情录音",
+        "onboard_time": 1759233860,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 469341,
+        "num": 254941,
+        "word": "王菊怎么瘦成这样了",
+        "onboard_time": 1759233380,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 436749,
+        "num": 251535,
+        "word": "辛柏青复工",
+        "onboard_time": 1759237882,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331042,
+        "num": 249575,
+        "word": "巴黎偶遇迪丽热巴邓为",
+        "onboard_time": 1759231642,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449089,
+        "num": 248629,
+        "word": "曝方媛已产下第三胎",
+        "onboard_time": 1759241541,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289883,
+        "num": 247531,
+        "word": "张维伊回应继女改口",
+        "onboard_time": 1759243163,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245698,
+        "num": 245698,
+        "word": "得力集团发致歉声明",
+        "onboard_time": 1759225941,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243358,
+        "num": 243358,
+        "word": "心动8如益CP官宣",
+        "onboard_time": 1759232424,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222321,
+        "num": 222321,
+        "word": "刘美含食物中毒坐轮椅",
+        "onboard_time": 1759217541,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75465,
+        "num": 221530,
+        "word": "郭艾伦要跳一万遍李斯丹妮的winner",
+        "onboard_time": 1759242082,
+        "rank": 25,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 220832,
+        "num": 220832,
+        "word": "K签",
+        "onboard_time": 1759240521,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215091,
+        "num": 215091,
+        "word": "车车车车车高速公路车车车车车",
+        "onboard_time": 1759240221,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204931,
+        "num": 204931,
+        "word": "乌鲁木齐地震",
+        "onboard_time": 1759233021,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 200385,
+        "num": 200385,
+        "word": "心动的信号",
+        "onboard_time": 1759231101,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188258,
+        "num": 188258,
+        "word": "张一山新剧到底几天没睡觉",
+        "onboard_time": 1759242380,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172672,
+        "num": 172672,
+        "word": "心动的信号8售后",
+        "onboard_time": 1759241961,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161093,
+        "num": 161093,
+        "word": "第一批堵车人堵成鸳鸯锅",
+        "onboard_time": 1759236021,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159956,
+        "num": 159956,
+        "word": "曝S15陪练团名单",
+        "onboard_time": 1759241422,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159383,
+        "num": 159383,
+        "word": "赴山海豆瓣开分5.9分",
+        "onboard_time": 1759236802,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37304,
+        "num": 157825,
+        "word": "欧莱雅大秀台前幕后",
+        "onboard_time": 1759241241,
+        "rank": 35,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 55014,
+        "num": 157004,
+        "word": "新人花近3万在海底捞办50桌婚宴",
+        "onboard_time": 1759243283,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56801,
+        "num": 153377,
+        "word": "园方回应幼儿园开进一辆坦克",
+        "onboard_time": 1759242202,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43646,
+        "num": 152254,
+        "word": "莎头只为冲击总决赛资格",
+        "onboard_time": 1759243222,
+        "rank": 38,
+        "category": "体育,其它"
+      },
+      {
+        "raw_hot": 25713,
+        "num": 149906,
+        "word": "义乌一张饼装下整个地球村",
+        "onboard_time": 1759240941,
+        "rank": 39,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 58840,
+        "num": 146561,
+        "word": "国庆看升旗的人已经在排队了",
+        "onboard_time": 1759242082,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146174,
+        "num": 146174,
+        "word": "休想换走我的高铁F座",
+        "onboard_time": 1759223961,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133407,
+        "num": 133407,
+        "word": "AG对战KSG",
+        "onboard_time": 1759243222,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132551,
+        "num": 132551,
+        "word": "雅安地震",
+        "onboard_time": 1759241841,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 130702,
+        "num": 130702,
+        "word": "孙涵清刘子晗烟花下拥吻",
+        "onboard_time": 1759232782,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46758,
+        "num": 130647,
+        "word": "吉林奶头山村更名为头山村",
+        "onboard_time": 1759241841,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130613,
+        "num": 130613,
+        "word": "90后女律师偷30多次蛋糕盒饭获刑",
+        "onboard_time": 1759240761,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126616,
+        "num": 126616,
+        "word": "12306回应卧铺动车全是单间",
+        "onboard_time": 1759223300,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123827,
+        "num": 123827,
+        "word": "王楚钦鹰眼挑战失败",
+        "onboard_time": 1759230622,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119730,
+        "num": 119730,
+        "word": "K签并非所谓的无门槛开放",
+        "onboard_time": 1759241361,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#向全国各族人民致以节日祝贺#"
+    }
+  }
+}
