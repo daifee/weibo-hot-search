@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 13:25:01
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 13:41:55
 </p>
 </blockquote>
 <p>
@@ -5043,6 +5043,12 @@ iPhone17Pro线下展出真机已满身划痕（热度：844516）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%A8%20%E7%9F%AD%E5%89%A7%E7%8B%97%E4%B8%8D%E6%BC%94%E6%88%91%E6%BC%94%23" target="weibo">
+李晨 短剧狗不演我演（热度：840029）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%BF%E8%8C%B6%E9%A4%90%E5%8E%85%E6%8B%86%E6%8E%89%E7%8E%B0%E5%81%9A%E6%8B%9B%E7%89%8C%23" target="weibo">
 绿茶餐厅拆掉现做招牌（热度：839573）
 </a>
@@ -6005,12 +6011,6 @@ iPhone17Promini首曝（热度：777010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%B9%E7%BD%97%E7%8C%AB%E5%B0%8F%E8%B1%86%E6%B3%A5%E5%8E%BB%E4%B8%96%23" target="weibo">
 暹罗猫小豆泥去世（热度：747279）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E7%9C%89%E9%AA%A8%E6%89%93%E4%BC%9E%23" target="weibo">
-张婧仪眉骨打伞（热度：747014）
 </a>
 </li>
 

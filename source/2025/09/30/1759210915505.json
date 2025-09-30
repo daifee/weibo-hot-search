@@ -1,0 +1,410 @@
+{
+  "runTime": 1759210915505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 840952,
+        "num": 1134552,
+        "word": "青岛保时捷女销售9月再夺销冠",
+        "onboard_time": 1759204521,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 745268,
+        "num": 745268,
+        "word": "得力集团辞退跛脚员工",
+        "onboard_time": 1759206499,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24813,
+        "num": 493319,
+        "word": "盛世中国如你所愿",
+        "onboard_time": 1759163180,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354365,
+        "num": 354365,
+        "word": "涉电诈中国女孩曾让闺蜜去埃及陪她",
+        "onboard_time": 1759204822,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336498,
+        "num": 336498,
+        "word": "国庆提前出发的大聪明已堵路上",
+        "onboard_time": 1759207582,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266216,
+        "num": 266216,
+        "word": "网友称因跛脚在入职当天被得力辞退",
+        "onboard_time": 1759208301,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259872,
+        "num": 259872,
+        "word": "医院隐翅虫皮炎患者接诊量翻倍",
+        "onboard_time": 1759199359,
+        "rank": 6,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 236220,
+        "num": 236220,
+        "word": "孙颖莎vs朱思冰",
+        "onboard_time": 1759209261,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218285,
+        "num": 218285,
+        "word": "西贝厨师说生鸡内脏被下水道冲走了",
+        "onboard_time": 1759210040,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211209,
+        "num": 211209,
+        "word": "多吃清道夫食物可预防血管斑块",
+        "onboard_time": 1759201099,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1076415,
+        "num": 209545,
+        "word": "苏醒道歉",
+        "onboard_time": 1759196120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 840029,
+        "num": 208739,
+        "word": "李晨 短剧狗不演我演",
+        "onboard_time": 1759208120,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 476748,
+        "num": 208736,
+        "word": "佟丽娅问小酒窝朵朵般配不",
+        "onboard_time": 1759203740,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206876,
+        "num": 206876,
+        "word": "日本引进5万印度人才引发抗议",
+        "onboard_time": 1759202239,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 447000,
+        "num": 205959,
+        "word": "董璇妥协",
+        "onboard_time": 1759199538,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411733,
+        "num": 204907,
+        "word": "孟子义李昀锐从早亲到晚",
+        "onboard_time": 1759201339,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24719,
+        "num": 203467,
+        "word": "即将迎来Jonathan的Dior女装首秀",
+        "onboard_time": 1759208661,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 334813,
+        "num": 201738,
+        "word": "娜扎答应了我的求婚",
+        "onboard_time": 1759208000,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278447,
+        "num": 199846,
+        "word": "终于知道她为什么叫靓靓了",
+        "onboard_time": 1759205540,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41976,
+        "num": 198367,
+        "word": "宋佳圣罗兰造型太权威了",
+        "onboard_time": 1759208721,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 491151,
+        "num": 196855,
+        "word": "失联6天中国女孩因涉嫌参与电诈被捕",
+        "onboard_time": 1759193121,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 412301,
+        "num": 195191,
+        "word": "纤维粒 夏思齐我出来了",
+        "onboard_time": 1759207699,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 251223,
+        "num": 194315,
+        "word": "肖战被摄像怼脸拍三分钟",
+        "onboard_time": 1759204701,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 236139,
+        "num": 193058,
+        "word": "黄磊戴呼吸机睡觉",
+        "onboard_time": 1759189700,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230864,
+        "num": 191098,
+        "word": "准新娘称金价再涨三金手镯变耳环",
+        "onboard_time": 1759202120,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78404,
+        "num": 189967,
+        "word": "胡兵瞿颖巴黎合体",
+        "onboard_time": 1759208721,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 228292,
+        "num": 188573,
+        "word": "小沈阳叫沈佳润美美孩孩宝",
+        "onboard_time": 1759206381,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217330,
+        "num": 186553,
+        "word": "技能五子棋 要爆了",
+        "onboard_time": 1759203381,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213993,
+        "num": 185430,
+        "word": "千万要少吃外面的烤鱼",
+        "onboard_time": 1759194740,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184713,
+        "num": 184713,
+        "word": "王一博拿到了国际D照",
+        "onboard_time": 1759207942,
+        "rank": 29,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 163121,
+        "num": 163121,
+        "word": "柯爱林下车",
+        "onboard_time": 1759210401,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162737,
+        "num": 162737,
+        "word": "替烈士看看今天的中国",
+        "onboard_time": 1759206680,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142598,
+        "num": 142598,
+        "word": "入青云定档",
+        "onboard_time": 1759202060,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140840,
+        "num": 140840,
+        "word": "侯明昊问代拍赚多少钱一个月",
+        "onboard_time": 1759208781,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103681,
+        "num": 140066,
+        "word": "高德预测今晚零点十大最繁忙高速",
+        "onboard_time": 1759206261,
+        "rank": 34,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 139390,
+        "num": 139390,
+        "word": "泡泡玛特盲盒飙到1499元遭疯抢",
+        "onboard_time": 1759195040,
+        "rank": 35,
+        "category": "休闲,民生新闻"
+      },
+      {
+        "raw_hot": 135244,
+        "num": 135244,
+        "word": "第一批丁克夫妻离世遗产留给谁",
+        "onboard_time": 1759157364,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132469,
+        "num": 132469,
+        "word": "林昀儒2比3宇田幸矢",
+        "onboard_time": 1759209860,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33404,
+        "num": 129396,
+        "word": "杜海涛伦敦上语言学校",
+        "onboard_time": 1759210581,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89801,
+        "num": 128091,
+        "word": "检票停止女子大闹要求放行",
+        "onboard_time": 1759210280,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127269,
+        "num": 127269,
+        "word": "中国K字签证要守三关",
+        "onboard_time": 1759187118,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124794,
+        "num": 124794,
+        "word": "尼日利亚男子挑战头顶4袋水泥身亡",
+        "onboard_time": 1759203921,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124459,
+        "num": 124459,
+        "word": "白鹿敖瑞鹏录制跑男",
+        "onboard_time": 1759204999,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121630,
+        "num": 121630,
+        "word": "对弈竞猜",
+        "onboard_time": 1759210521,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120639,
+        "num": 120639,
+        "word": "宝见受你一靠子",
+        "onboard_time": 1759206499,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120229,
+        "num": 120229,
+        "word": "短剧女主谈男主抛下剧组哄女友",
+        "onboard_time": 1759208181,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118337,
+        "num": 118337,
+        "word": "恋综最生猛女嘉宾出现了",
+        "onboard_time": 1759207699,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113869,
+        "num": 113869,
+        "word": "为卖牛给活牛注200多斤水",
+        "onboard_time": 1759206921,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45623,
+        "num": 111063,
+        "word": "日媒称不能靠排名衡量中国选手实力",
+        "onboard_time": 1759209201,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110961,
+        "num": 110961,
+        "word": "90花十二花神拟人群像",
+        "onboard_time": 1759210881,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士纪念日向人民英雄敬献花篮#"
+    }
+  }
+}

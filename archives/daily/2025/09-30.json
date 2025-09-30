@@ -1,6 +1,6 @@
 {
   "startTime": 1759163197632,
-  "endTime": 1759209901504,
+  "endTime": 1759210915505,
   "band_list": [
     {
       "raw_hot": 2403665,
@@ -75,6 +75,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 840029,
+      "num": 212660,
+      "word": "李晨 短剧狗不演我演",
+      "onboard_time": 1759208120,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 775466,
       "num": 248014,
       "word": "第一批丁克夫妻离世遗产留给谁",
@@ -89,6 +97,14 @@
       "onboard_time": 1759201099,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 745268,
+      "num": 745268,
+      "word": "得力集团辞退跛脚员工",
+      "onboard_time": 1759206499,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 639429,
@@ -129,14 +145,6 @@
       "onboard_time": 1759202239,
       "rank": 3,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 575049,
-      "num": 575049,
-      "word": "得力集团辞退跛脚员工",
-      "onboard_time": 1759206499,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 530317,
@@ -267,6 +275,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 336498,
+      "num": 336498,
+      "word": "国庆提前出发的大聪明已堵路上",
+      "onboard_time": 1759207582,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 334813,
+      "num": 201738,
+      "word": "娜扎答应了我的求婚",
+      "onboard_time": 1759208000,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334561,
       "num": 334561,
       "word": "以色列承诺不再攻击卡塔尔",
@@ -299,14 +323,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 314731,
-      "num": 212660,
-      "word": "李晨 短剧狗不演我演",
-      "onboard_time": 1759208120,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 306338,
       "num": 145317,
       "word": "张予曦出个国怎么美成这样",
@@ -321,14 +337,6 @@
       "onboard_time": 1759144041,
       "rank": 0,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 303248,
-      "num": 303248,
-      "word": "国庆提前出发的大聪明已堵路上",
-      "onboard_time": 1759207582,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 303151,
@@ -387,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266216,
+      "num": 266216,
+      "word": "网友称因跛脚在入职当天被得力辞退",
+      "onboard_time": 1759208301,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262069,
       "num": 262069,
       "word": "明家犯罪集团11人死刑",
@@ -401,14 +417,6 @@
       "onboard_time": 1759200920,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 258622,
-      "num": 258622,
-      "word": "网友称因跛脚在入职当天被得力辞退",
-      "onboard_time": 1759208301,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 256544,
@@ -435,20 +443,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251223,
+      "num": 195931,
+      "word": "肖战被摄像怼脸拍三分钟",
+      "onboard_time": 1759204701,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 244354,
       "num": 120980,
       "word": "5岁男童小区景观池触电身亡",
       "onboard_time": 1759157782,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 243451,
-      "num": 195931,
-      "word": "肖战被摄像怼脸拍三分钟",
-      "onboard_time": 1759204701,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 241537,
@@ -467,6 +475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 236220,
+      "num": 236220,
+      "word": "孙颖莎vs朱思冰",
+      "onboard_time": 1759209261,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230788,
       "num": 197041,
       "word": "王力宏夸肖战",
@@ -481,6 +497,14 @@
       "onboard_time": 1759153822,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 228292,
+      "num": 193262,
+      "word": "小沈阳叫沈佳润美美孩孩宝",
+      "onboard_time": 1759206381,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 225308,
@@ -507,20 +531,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218285,
+      "num": 218285,
+      "word": "西贝厨师说生鸡内脏被下水道冲走了",
+      "onboard_time": 1759210040,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198706,
       "num": 198706,
       "word": "一笑随歌",
       "onboard_time": 1759203079,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 196657,
-      "num": 196657,
-      "word": "孙颖莎vs朱思冰",
-      "onboard_time": 1759209261,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 194906,
@@ -539,20 +563,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 193262,
-      "num": 193262,
-      "word": "小沈阳叫沈佳润美美孩孩宝",
-      "onboard_time": 1759206381,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 192295,
       "num": 192295,
       "word": "邓超 不准把我P掉",
       "onboard_time": 1759201820,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184713,
+      "num": 184713,
+      "word": "王一博拿到了国际D照",
+      "onboard_time": 1759207942,
+      "rank": 31,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 184391,
@@ -603,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163121,
+      "num": 163121,
+      "word": "柯爱林下车",
+      "onboard_time": 1759210401,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161156,
       "num": 161156,
       "word": "入青云黄粱一梦群像预告",
@@ -617,14 +649,6 @@
       "onboard_time": 1759188680,
       "rank": 31,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 159759,
-      "num": 159759,
-      "word": "王一博拿到了国际D照",
-      "onboard_time": 1759207942,
-      "rank": 31,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 158376,
@@ -665,14 +689,6 @@
       "onboard_time": 1759161921,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 151275,
-      "num": 151275,
-      "word": "娜扎答应了我的求婚",
-      "onboard_time": 1759208000,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 151063,
@@ -867,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132469,
+      "num": 132469,
+      "word": "林昀儒2比3宇田幸矢",
+      "onboard_time": 1759209860,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132232,
       "num": 132232,
       "word": "这才是真正的放假吧",
@@ -1019,12 +1043,28 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 121630,
+      "num": 121630,
+      "word": "对弈竞猜",
+      "onboard_time": 1759210521,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120760,
       "num": 120760,
       "word": "LPL冠军臻彩",
       "onboard_time": 1759205661,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120229,
+      "num": 120229,
+      "word": "短剧女主谈男主抛下剧组哄女友",
+      "onboard_time": 1759208181,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 119737,
@@ -1091,12 +1131,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111478,
-      "num": 111478,
-      "word": "林昀儒2比3宇田幸矢",
-      "onboard_time": 1759209860,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 110961,
+      "num": 110961,
+      "word": "90花十二花神拟人群像",
+      "onboard_time": 1759210881,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 110255,
@@ -1137,14 +1177,6 @@
       "onboard_time": 1759207520,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106722,
-      "num": 106722,
-      "word": "短剧女主谈男主抛下剧组哄女友",
-      "onboard_time": 1759208181,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 106514,
@@ -1315,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89801,
+      "num": 128091,
+      "word": "检票停止女子大闹要求放行",
+      "onboard_time": 1759210280,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89313,
       "num": 122872,
       "word": "高铁宝妈教娃骂滚家教碎一地",
@@ -1385,6 +1425,14 @@
       "onboard_time": 1759157963,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78404,
+      "num": 193318,
+      "word": "胡兵瞿颖巴黎合体",
+      "onboard_time": 1759208721,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 77436,
@@ -1497,14 +1545,6 @@
       "onboard_time": 1759187599,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 62897,
-      "num": 193318,
-      "word": "胡兵瞿颖巴黎合体",
-      "onboard_time": 1759208721,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 62249,
@@ -1651,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41976,
+      "num": 198367,
+      "word": "宋佳圣罗兰造型太权威了",
+      "onboard_time": 1759208721,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 39752,
       "num": 46393,
       "word": "技能五子棋",
@@ -1683,20 +1731,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 37237,
-      "num": 197426,
-      "word": "宋佳圣罗兰造型太权威了",
-      "onboard_time": 1759208721,
-      "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 34343,
       "num": 180707,
       "word": "烈士纪念日号角吹响",
       "onboard_time": 1759199419,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33404,
+      "num": 129396,
+      "word": "杜海涛伦敦上语言学校",
+      "onboard_time": 1759210581,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 31744,
