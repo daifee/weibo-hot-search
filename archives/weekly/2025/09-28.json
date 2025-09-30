@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759232238362,
+  "endTime": 1759236821921,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1726549,
-      "num": 189464,
+      "num": 224960,
       "word": "乐远cp选择不成为情侣",
       "onboard_time": 1759230981,
       "rank": 25,
@@ -483,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 931505,
+      "num": 221346,
+      "word": "王菊怎么瘦成这样了",
+      "onboard_time": 1759233380,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 926112,
       "num": 1148178,
       "word": "九三阅兵礼宾车正陆续返还车主",
@@ -651,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 809386,
+      "num": 809386,
+      "word": "女子提前出发睡服务区省1400元",
+      "onboard_time": 1759231461,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 802989,
       "num": 539110,
       "word": "万达",
@@ -748,7 +764,7 @@
     },
     {
       "raw_hot": 730346,
-      "num": 192466,
+      "num": 215284,
       "word": "黄灿灿说不会结婚了",
       "onboard_time": 1759230442,
       "rank": 22,
@@ -1043,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598379,
+      "num": 220055,
+      "word": "巴黎偶遇迪丽热巴邓为",
+      "onboard_time": 1759231642,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 598077,
       "num": 598077,
       "word": "日本引进5万印度人才引发抗议",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1759157123,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 595868,
+      "num": 217494,
+      "word": "心动8如益CP官宣",
+      "onboard_time": 1759232424,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 594470,
@@ -1395,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 494436,
+      "num": 494436,
+      "word": "王楚钦被判发球遮挡",
+      "onboard_time": 1759231642,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 493572,
       "num": 493572,
       "word": "王楚钦vs张禹珍",
@@ -1593,6 +1633,14 @@
       "onboard_time": 1759069406,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 455720,
+      "num": 455720,
+      "word": "中方关于联大第2758号决议的立场文件",
+      "onboard_time": 1759234882,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 450957,
@@ -1931,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 372253,
+      "num": 206269,
+      "word": "孙涵清刘子晗烟花下拥吻",
+      "onboard_time": 1759232782,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370885,
       "num": 370885,
       "word": "南京大屠杀在世幸存者仅存25位",
@@ -1977,6 +2033,14 @@
       "onboard_time": 1759069286,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 362486,
+      "num": 212134,
+      "word": "妻子查看亡夫遗物发现婚外情录音",
+      "onboard_time": 1759233860,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 361893,
@@ -2523,6 +2587,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260305,
+      "num": 260305,
+      "word": "台湾是中国领土一部分",
+      "onboard_time": 1759235480,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 259164,
+      "num": 259164,
+      "word": "被骗100万女孩要去英国找婆婆后续",
+      "onboard_time": 1759235422,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256544,
       "num": 256544,
       "word": "白鹿敖瑞鹏录制跑男",
@@ -2545,6 +2625,14 @@
       "onboard_time": 1759106361,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 255135,
+      "num": 255135,
+      "word": "乌鲁木齐地震",
+      "onboard_time": 1759233021,
+      "rank": 8,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 251223,
@@ -2777,14 +2865,6 @@
       "onboard_time": 1759058601,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 229422,
-      "num": 187781,
-      "word": "巴黎偶遇迪丽热巴邓为",
-      "onboard_time": 1759231642,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 227905,
@@ -3107,6 +3187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200499,
+      "num": 200499,
+      "word": "户晨风全网销号",
+      "onboard_time": 1759236383,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 199997,
       "num": 219243,
       "word": "peanut不要哭",
@@ -3129,6 +3217,14 @@
       "onboard_time": 1759072527,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 199525,
+      "num": 199525,
+      "word": "赴山海豆瓣开分5.9分",
+      "onboard_time": 1759236802,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 199473,
@@ -3219,6 +3315,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 195650,
+      "num": 195650,
+      "word": "肖战后面的豌豆射手是谁呀",
+      "onboard_time": 1759234882,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195445,
       "num": 195445,
       "word": "屠洪刚 宝刀未老",
@@ -3233,14 +3337,6 @@
       "onboard_time": 1759119323,
       "rank": 28,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 194983,
-      "num": 187689,
-      "word": "王楚钦被判发球遮挡",
-      "onboard_time": 1759231642,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 194907,
@@ -3731,14 +3827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178189,
-      "num": 178189,
-      "word": "女子提前出发睡服务区省1400元",
-      "onboard_time": 1759231461,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178046,
       "num": 178046,
       "word": "iG战胜JDG",
@@ -3873,6 +3961,14 @@
       "onboard_time": 1759187179,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172346,
+      "num": 172346,
+      "word": "JDG战胜TTG",
+      "onboard_time": 1759236441,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 172221,
@@ -4481,6 +4577,14 @@
       "onboard_time": 1759117040,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 153445,
+      "num": 153445,
+      "word": "孙颖莎递话筒给王楚钦",
+      "onboard_time": 1759233741,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 153421,
@@ -5515,6 +5619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130302,
+      "num": 130302,
+      "word": "孙颖莎道出出战北满混双关键原因",
+      "onboard_time": 1759235361,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130006,
       "num": 120629,
       "word": "运动一年从250斤瘦到135斤",
@@ -5777,6 +5889,14 @@
       "onboard_time": 1759145241,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127373,
+      "num": 127373,
+      "word": "王楚钦说慢慢进入莎头节奏",
+      "onboard_time": 1759236142,
+      "rank": 34,
+      "category": "体育,其它"
     },
     {
       "raw_hot": 127090,
@@ -6283,6 +6403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119999,
+      "num": 119999,
+      "word": "加拿大拒签八成印度学生",
+      "onboard_time": 1759233981,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 119828,
       "num": 119828,
       "word": "章子怡大光明",
@@ -6387,6 +6515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118193,
+      "num": 118193,
+      "word": "刘涛 什么衣服这么难看",
+      "onboard_time": 1759227079,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118040,
       "num": 118040,
       "word": "国庆节朋友圈这三张照片不能晒",
@@ -6481,14 +6617,6 @@
       "onboard_time": 1759033942,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 116123,
-      "num": 116123,
-      "word": "刘涛 什么衣服这么难看",
-      "onboard_time": 1759227079,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 116083,
@@ -7267,6 +7395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 104588,
+      "num": 148372,
+      "word": "6岁男孩养兔子染真菌永久秃发",
+      "onboard_time": 1759231941,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104521,
       "num": 104521,
       "word": "陈垣宇3比2奥恰洛夫",
@@ -7931,6 +8067,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 93962,
+      "num": 93962,
+      "word": "日本网友3年来带着冰墩墩旅游睡觉",
+      "onboard_time": 1759234701,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93285,
       "num": 127565,
       "word": "中国陆地航母集结",
@@ -7969,6 +8113,14 @@
       "onboard_time": 1759221740,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 92150,
+      "num": 92150,
+      "word": "第一批堵车人堵成鸳鸯锅",
+      "onboard_time": 1759236021,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91869,
@@ -8187,11 +8339,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 87806,
+      "num": 87806,
+      "word": "小猫会伸手要抱抱",
+      "onboard_time": 1759236621,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87742,
       "num": 141037,
       "word": "外卖大战又一批受害者出现了",
       "onboard_time": 1759119201,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87612,
+      "num": 87612,
+      "word": "拉拽鸡排哥男子道歉",
+      "onboard_time": 1759236621,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -8283,12 +8451,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85891,
+      "num": 92679,
+      "word": "王楚钦说挑战是为了缓和节奏",
+      "onboard_time": 1759235602,
+      "rank": 43,
+      "category": "体育,其它"
+    },
+    {
       "raw_hot": 85860,
       "num": 145780,
       "word": "李沁这款朋友到底谁在拥有",
       "onboard_time": 1759036221,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85189,
+      "num": 146804,
+      "word": "高速服务区已全是泡面人",
+      "onboard_time": 1759231822,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85179,
@@ -8513,14 +8697,6 @@
       "onboard_time": 1758977601,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 80527,
-      "num": 146804,
-      "word": "高速服务区已全是泡面人",
-      "onboard_time": 1759231822,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80512,
@@ -8843,14 +9019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67122,
-      "num": 148372,
-      "word": "6岁男孩养兔子染真菌永久秃发",
-      "onboard_time": 1759231941,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66863,
       "num": 123738,
       "word": "张凌赫王楚然嘟嘴吻戏",
@@ -9011,6 +9179,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 61818,
+      "num": 209266,
+      "word": "国庆天安门广场6点11分升旗",
+      "onboard_time": 1759235842,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61793,
       "num": 77145,
       "word": "张凌赫或将出演归鸾",
@@ -9065,6 +9241,14 @@
       "onboard_time": 1759163717,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 60398,
+      "num": 200005,
+      "word": "被篮球之夜西装杀帅晕了",
+      "onboard_time": 1759234342,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 60274,
@@ -9641,6 +9825,14 @@
       "onboard_time": 1759025960,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40442,
+      "num": 210889,
+      "word": "人机共驾更安心",
+      "onboard_time": 1759235782,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 40271,

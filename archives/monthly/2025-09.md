@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 19:37:18
+本榜单时间：2025/09/01 00:28:51 ~ 2025/09/30 20:53:41
 </p>
 </blockquote>
 <p>
@@ -4173,6 +4173,12 @@ AirPods Pro3（热度：944535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%8A%E6%80%8E%E4%B9%88%E7%98%A6%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%23" target="weibo">
+王菊怎么瘦成这样了（热度：931505）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%23" target="weibo">
 西贝（热度：930525）
 </a>
@@ -5391,6 +5397,12 @@ CEO出轨女同事其丈夫发声（热度：824142）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%8F%90%E5%89%8D%E5%87%BA%E5%8F%91%E7%9D%A1%E6%9C%8D%E5%8A%A1%E5%8C%BA%E7%9C%811400%E5%85%83%23" target="weibo">
+女子提前出发睡服务区省1400元（热度：809386）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%90%B3%E6%80%80%E5%AD%95%E9%AB%98%E7%83%A7%E7%88%B6%E6%AF%8D%E7%9C%8B%E6%9C%9B%E5%8F%AA%E5%BE%85%E4%BA%8615%E5%88%86%E9%92%9F%23" target="weibo">
 王琳怀孕高烧父母看望只待了15分钟（热度：809172）
 </a>
@@ -5999,18 +6011,6 @@ iPhone17Promini首曝（热度：777010）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9020%20%E8%83%96%E5%A6%9E%23" target="weibo">
 运20 胖妞（热度：754801）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%20%E7%BD%97%E6%B0%B8%E6%B5%A9%23" target="weibo">
-西贝 罗永浩（热度：753063）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%85%20%E8%81%9A%E9%85%AF%E7%BA%A4%E7%BB%B4%23" target="weibo">
-女装 聚酯纤维（热度：752425）
 </a>
 </li>
 
