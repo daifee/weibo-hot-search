@@ -1,0 +1,410 @@
+{
+  "runTime": 1759228104318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 736574,
+        "num": 1117851,
+        "word": "华南理工大学通报",
+        "onboard_time": 1759217121,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 687922,
+        "num": 687922,
+        "word": "12306回应卧铺动车全是单间",
+        "onboard_time": 1759223300,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7553,
+        "num": 528436,
+        "word": "近代以来有约2000万名烈士为国捐躯",
+        "onboard_time": 1759188680,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 499274,
+        "num": 499274,
+        "word": "得力集团发致歉声明",
+        "onboard_time": 1759225941,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449335,
+        "num": 449335,
+        "word": "鸡排哥整治黄牛",
+        "onboard_time": 1759217360,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285980,
+        "num": 285980,
+        "word": "中国造出会消失的心脏支架",
+        "onboard_time": 1759221981,
+        "rank": 5,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 284711,
+        "num": 284711,
+        "word": "韩国人能不能别放假了",
+        "onboard_time": 1759213460,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 275031,
+        "num": 275031,
+        "word": "Peanut官宣今年退役",
+        "onboard_time": 1759224381,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214509,
+        "num": 214509,
+        "word": "孙颖莎王楚钦混双训练默契依旧",
+        "onboard_time": 1759226240,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193719,
+        "num": 193719,
+        "word": "王楚钦孙颖莎vs萨林格尔帕德",
+        "onboard_time": 1759227319,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2873193,
+        "num": 192724,
+        "word": "文咏珊官宣当妈",
+        "onboard_time": 1759225341,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710272,
+        "num": 190672,
+        "word": "刘美含食物中毒坐轮椅",
+        "onboard_time": 1759217541,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571500,
+        "num": 188696,
+        "word": "张维伊没有亲小酒窝",
+        "onboard_time": 1759217901,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437240,
+        "num": 187872,
+        "word": "苏醒道歉",
+        "onboard_time": 1759196120,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37861,
+        "num": 186384,
+        "word": "把成功归功于运气更容易接受失败",
+        "onboard_time": 1759227319,
+        "rank": 14,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 358240,
+        "num": 183464,
+        "word": "姐弟恋已升级为姨弟恋",
+        "onboard_time": 1759226539,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351804,
+        "num": 182492,
+        "word": "王者荣耀",
+        "onboard_time": 1759224560,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 321605,
+        "num": 179472,
+        "word": "如何把水硕水博堵在K签门外",
+        "onboard_time": 1759220601,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247548,
+        "num": 178466,
+        "word": "娜扎答应了我的求婚",
+        "onboard_time": 1759208000,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220098,
+        "num": 177131,
+        "word": "李晨 短剧狗不演我演",
+        "onboard_time": 1759208120,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175820,
+        "num": 175820,
+        "word": "鸡排家族10月1日出10个摊位",
+        "onboard_time": 1759219223,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473354,
+        "num": 175533,
+        "word": "K签证会让外国人抢走我们的饭碗吗",
+        "onboard_time": 1759219880,
+        "rank": 21,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 403135,
+        "num": 175515,
+        "word": "K签证引争议症结在于公平焦虑",
+        "onboard_time": 1759215320,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209592,
+        "num": 175229,
+        "word": "台湾老人强行要年轻人让座被踹懵",
+        "onboard_time": 1759226061,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173954,
+        "num": 173954,
+        "word": "张檬让父母消毒后抱孩子",
+        "onboard_time": 1759220720,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160735,
+        "num": 160735,
+        "word": "纤维粒 夏思齐我出来了",
+        "onboard_time": 1759207699,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160369,
+        "num": 160369,
+        "word": "肖战谍报上不封顶杀青",
+        "onboard_time": 1759211900,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158475,
+        "num": 158475,
+        "word": "堵车",
+        "onboard_time": 1759226240,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145856,
+        "num": 145856,
+        "word": "陈都灵送关晓彤粉色围巾",
+        "onboard_time": 1759222820,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140807,
+        "num": 140807,
+        "word": "网友称因跛脚在入职当天被得力辞退",
+        "onboard_time": 1759208301,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233703,
+        "num": 140157,
+        "word": "得力CEO道歉",
+        "onboard_time": 1759212801,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132616,
+        "num": 132616,
+        "word": "这就是练了三百年的身材么",
+        "onboard_time": 1759227682,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 132317,
+        "num": 132317,
+        "word": "自我介绍公布对象",
+        "onboard_time": 1759226360,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118340,
+        "num": 118340,
+        "word": "K签增设近两月为何突然引发关注",
+        "onboard_time": 1759211961,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93171,
+        "num": 116395,
+        "word": "雷佳音13岁女儿身高",
+        "onboard_time": 1759227799,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116123,
+        "num": 116123,
+        "word": "刘涛 什么衣服这么难看",
+        "onboard_time": 1759227079,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113109,
+        "num": 113109,
+        "word": "野火月亮 白鹿",
+        "onboard_time": 1759217360,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50460,
+        "num": 110952,
+        "word": "深圳人的国庆打开方式有点超前",
+        "onboard_time": 1759227981,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109639,
+        "num": 109639,
+        "word": "天价月饼都降价了",
+        "onboard_time": 1759223242,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108688,
+        "num": 108688,
+        "word": "肖战微指破三亿",
+        "onboard_time": 1759227862,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105330,
+        "num": 105330,
+        "word": "第一批外国女婿已经开始回农村了",
+        "onboard_time": 1759214000,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104873,
+        "num": 104873,
+        "word": "张雨绮出个国怎么美成这样",
+        "onboard_time": 1759227622,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99346,
+        "num": 99346,
+        "word": "男子三次找师傅开女生门锁",
+        "onboard_time": 1759225159,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91703,
+        "num": 98721,
+        "word": "得力集团将依规依纪问责涉事人员",
+        "onboard_time": 1759226721,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98096,
+        "num": 98096,
+        "word": "两名俄士兵在坦克残骸下生存60天",
+        "onboard_time": 1759219223,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94667,
+        "num": 94667,
+        "word": "许昆林任辽宁省委书记",
+        "onboard_time": 1759224080,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89418,
+        "num": 89418,
+        "word": "一笑随歌定档",
+        "onboard_time": 1759224621,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84421,
+        "num": 84421,
+        "word": "美国得州上空疑出现黑色UFO",
+        "onboard_time": 1759224260,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82948,
+        "num": 82948,
+        "word": "西贝门店回应生鸡内脏被冲走",
+        "onboard_time": 1759227442,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81033,
+        "num": 81033,
+        "word": "12年金店销售直言不敢囤黄金",
+        "onboard_time": 1759224981,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向人民英雄敬献花篮#"
+    }
+  }
+}

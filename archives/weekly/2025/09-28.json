@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759225244717,
+  "endTime": 1759228104318,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -17,6 +17,14 @@
       "onboard_time": 1759073545,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 2873193,
+      "num": 192724,
+      "word": "文咏珊官宣当妈",
+      "onboard_time": 1759225341,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2403665,
@@ -771,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 687922,
+      "num": 687922,
+      "word": "12306回应卧铺动车全是单间",
+      "onboard_time": 1759223300,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 677050,
       "num": 910845,
       "word": "航班提前15小时起飞惊呆乘客",
@@ -1267,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 499274,
+      "num": 499274,
+      "word": "得力集团发致歉声明",
+      "onboard_time": 1759225941,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 498805,
       "num": 238091,
       "word": "时代少年团 幻梦都破碎",
@@ -1659,14 +1683,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 417810,
-      "num": 417810,
-      "word": "12306回应卧铺动车全是单间",
-      "onboard_time": 1759223300,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 415589,
       "num": 215701,
       "word": "中国话还得SHE",
@@ -1721,6 +1737,14 @@
       "onboard_time": 1759143441,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 403135,
+      "num": 175515,
+      "word": "K签证引争议症结在于公平焦虑",
+      "onboard_time": 1759215320,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 401427,
@@ -1915,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358240,
+      "num": 183464,
+      "word": "姐弟恋已升级为姨弟恋",
+      "onboard_time": 1759226539,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356024,
       "num": 169761,
       "word": "辛芷蕾回应庆余年3",
@@ -1953,6 +1985,14 @@
       "onboard_time": 1759187118,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 351804,
+      "num": 188815,
+      "word": "王者荣耀",
+      "onboard_time": 1759224560,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 351274,
@@ -2347,6 +2387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275031,
+      "num": 275031,
+      "word": "Peanut官宣今年退役",
+      "onboard_time": 1759224381,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 264356,
       "num": 178262,
       "word": "邓超腿受伤",
@@ -2667,14 +2715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 227113,
-      "num": 188815,
-      "word": "王者荣耀",
-      "onboard_time": 1759224560,
-      "rank": 18,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 225506,
       "num": 177521,
       "word": "周柯宇战至巅峰",
@@ -2803,6 +2843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214509,
+      "num": 214509,
+      "word": "孙颖莎王楚钦混双训练默契依旧",
+      "onboard_time": 1759226240,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213879,
       "num": 179553,
       "word": "王凯两年后一出手就是daddy级别",
@@ -2849,6 +2897,14 @@
       "onboard_time": 1759065084,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209592,
+      "num": 175229,
+      "word": "台湾老人强行要年轻人让座被踹懵",
+      "onboard_time": 1759226061,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208861,
@@ -3131,6 +3187,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 193719,
+      "num": 193719,
+      "word": "王楚钦孙颖莎vs萨林格尔帕德",
+      "onboard_time": 1759227319,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193377,
       "num": 171264,
       "word": "管泽元感人金句致敬詹姆斯",
@@ -3329,14 +3393,6 @@
       "onboard_time": 1759118780,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 186656,
-      "num": 186656,
-      "word": "Peanut官宣今年退役",
-      "onboard_time": 1759224381,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 186624,
@@ -4123,6 +4179,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 158475,
+      "num": 158475,
+      "word": "堵车",
+      "onboard_time": 1759226240,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158452,
       "num": 158452,
       "word": "华南理工学生称肇事司机系本校老师",
@@ -4273,14 +4337,6 @@
       "onboard_time": 1759117040,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 153580,
-      "num": 153580,
-      "word": "K签证引争议症结在于公平焦虑",
-      "onboard_time": 1759215320,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153421,
@@ -4537,6 +4593,14 @@
       "onboard_time": 1759119323,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 145856,
+      "num": 145856,
+      "word": "陈都灵送关晓彤粉色围巾",
+      "onboard_time": 1759222820,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 145764,
@@ -5139,6 +5203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132616,
+      "num": 132616,
+      "word": "这就是练了三百年的身材么",
+      "onboard_time": 1759227682,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 132469,
       "num": 132469,
       "word": "林昀儒2比3宇田幸矢",
@@ -5161,6 +5233,14 @@
       "onboard_time": 1759024521,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132317,
+      "num": 132317,
+      "word": "自我介绍公布对象",
+      "onboard_time": 1759226360,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 132232,
@@ -6195,6 +6275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116123,
+      "num": 116123,
+      "word": "刘涛 什么衣服这么难看",
+      "onboard_time": 1759227079,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116083,
       "num": 116083,
       "word": "私域直播盯上老年人钱包",
@@ -6659,6 +6747,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 108688,
+      "num": 108688,
+      "word": "肖战微指破三亿",
+      "onboard_time": 1759227862,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108665,
       "num": 108665,
       "word": "91助手全面停止服务",
@@ -6745,14 +6841,6 @@
       "onboard_time": 1759122681,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106567,
-      "num": 106567,
-      "word": "陈都灵送关晓彤粉色围巾",
-      "onboard_time": 1759222820,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 106559,
@@ -6913,6 +7001,14 @@
       "onboard_time": 1759126102,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104873,
+      "num": 104873,
+      "word": "张雨绮出个国怎么美成这样",
+      "onboard_time": 1759227622,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 104859,
@@ -7259,6 +7355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99346,
+      "num": 99346,
+      "word": "男子三次找师傅开女生门锁",
+      "onboard_time": 1759225159,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99282,
       "num": 99282,
       "word": "陈楚生一开口湾区变江湖",
@@ -7507,14 +7611,6 @@
       "category": "休闲,民生新闻"
     },
     {
-      "raw_hot": 95287,
-      "num": 95287,
-      "word": "男子三次找师傅开女生门锁",
-      "onboard_time": 1759225159,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94874,
       "num": 94874,
       "word": "院人来到了最适合他们的综艺",
@@ -7627,6 +7723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 93171,
+      "num": 116395,
+      "word": "雷佳音13岁女儿身高",
+      "onboard_time": 1759227799,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92644,
       "num": 145619,
       "word": "二十届四中全会10月20日至23日召开",
@@ -7673,6 +7777,14 @@
       "onboard_time": 1759196840,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 91703,
+      "num": 98721,
+      "word": "得力集团将依规依纪问责涉事人员",
+      "onboard_time": 1759226721,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91684,
@@ -7995,6 +8107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84421,
+      "num": 106850,
+      "word": "美国得州上空疑出现黑色UFO",
+      "onboard_time": 1759224260,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 84365,
       "num": 98920,
       "word": "韩国高分外卖长啥样",
@@ -8033,6 +8153,14 @@
       "onboard_time": 1759225100,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82948,
+      "num": 82948,
+      "word": "西贝门店回应生鸡内脏被冲走",
+      "onboard_time": 1759227442,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82690,
@@ -8113,6 +8241,14 @@
       "onboard_time": 1759186877,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81033,
+      "num": 188749,
+      "word": "12年金店销售直言不敢囤黄金",
+      "onboard_time": 1759224981,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80859,
@@ -9003,6 +9139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 50460,
+      "num": 110952,
+      "word": "深圳人的国庆打开方式有点超前",
+      "onboard_time": 1759227981,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50041,
       "num": 294718,
       "word": "辛巴关联公司被税务催报",
@@ -9227,14 +9371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 41638,
-      "num": 106850,
-      "word": "美国得州上空疑出现黑色UFO",
-      "onboard_time": 1759224260,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 40483,
       "num": 664237,
       "word": "10月1日客流或超3.4亿人次",
@@ -9321,6 +9457,14 @@
       "onboard_time": 1759117520,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37861,
+      "num": 186384,
+      "word": "把成功归功于运气更容易接受失败",
+      "onboard_time": 1759227319,
+      "rank": 14,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 37753,
@@ -9424,14 +9568,6 @@
       "word": "医生说活不过2岁的男孩上小学了",
       "onboard_time": 1759055479,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32908,
-      "num": 188749,
-      "word": "12年金店销售直言不敢囤黄金",
-      "onboard_time": 1759224981,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
