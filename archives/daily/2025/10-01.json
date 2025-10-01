@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759293826428,
+  "endTime": 1759296312256,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 879796,
-      "num": 879796,
+      "num": 1122753,
       "word": "山姆99.9元零食 好特卖39.9",
       "onboard_time": 1759289900,
       "rank": 13,
@@ -81,6 +81,14 @@
       "onboard_time": 1759281199,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 759795,
+      "num": 249925,
+      "word": "主办方请沈佳润就好她爹会跟着去的",
+      "onboard_time": 1759291041,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 742367,
@@ -203,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 420821,
+      "num": 420821,
+      "word": "妈妈给男孩喝了一口糖竟致呕吐晕厥",
+      "onboard_time": 1759292900,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 417008,
       "num": 417008,
       "word": "堵车",
@@ -249,6 +265,14 @@
       "onboard_time": 1759288639,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 360112,
+      "num": 360112,
+      "word": "小米汽车销量",
+      "onboard_time": 1759294280,
+      "rank": 6,
+      "category": "汽车"
     },
     {
       "raw_hot": 358777,
@@ -339,6 +363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 254763,
+      "num": 254763,
+      "word": "女子救下20楼坠落女童后不敢看评论",
+      "onboard_time": 1759294819,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253942,
       "num": 253942,
       "word": "女子过度医美面部馒化酷似面具人",
@@ -353,14 +385,6 @@
       "onboard_time": 1759230442,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247273,
-      "num": 247273,
-      "word": "主办方请沈佳润就好她爹会跟着去的",
-      "onboard_time": 1759291041,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 245692,
@@ -379,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 238749,
+      "num": 203834,
+      "word": "陈小春两个儿子近照",
+      "onboard_time": 1759293560,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237025,
       "num": 205837,
       "word": "户晨风",
@@ -393,14 +425,6 @@
       "onboard_time": 1759242442,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 224722,
-      "num": 224722,
-      "word": "妈妈给男孩喝了一口糖竟致呕吐晕厥",
-      "onboard_time": 1759292900,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 216553,
@@ -425,6 +449,14 @@
       "onboard_time": 1759236383,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 213887,
+      "num": 213887,
+      "word": "三婚就是比前两次会挑时候",
+      "onboard_time": 1759290440,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 213699,
@@ -491,12 +523,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 189712,
-      "num": 189712,
-      "word": "三婚就是比前两次会挑时候",
-      "onboard_time": 1759290440,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 184981,
+      "num": 184981,
+      "word": "西贝取消25分钟上菜沙漏计时",
+      "onboard_time": 1759293922,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182826,
@@ -505,14 +537,6 @@
       "onboard_time": 1759281080,
       "rank": 20,
       "category": "数码"
-    },
-    {
-      "raw_hot": 180469,
-      "num": 180469,
-      "word": "陈小春两个儿子近照",
-      "onboard_time": 1759293560,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 179113,
@@ -555,6 +579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165635,
+      "num": 165635,
+      "word": "梁靖崑3比1林高远",
+      "onboard_time": 1759294221,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163228,
       "num": 163228,
       "word": "妻子查看亡夫遗物发现婚外情录音",
@@ -563,12 +595,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161102,
+      "num": 161102,
+      "word": "林高远梁靖崑",
+      "onboard_time": 1759294519,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160684,
       "num": 160684,
       "word": "鸡排哥",
       "onboard_time": 1759282758,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158511,
+      "num": 158511,
+      "word": "杨幂游玩plog",
+      "onboard_time": 1759295959,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 156584,
@@ -584,6 +632,14 @@
       "word": "曝方媛已产下第三胎",
       "onboard_time": 1759241541,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146781,
+      "num": 146781,
+      "word": "小酒窝在天安门举国旗拍照",
+      "onboard_time": 1759293140,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -635,6 +691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140012,
+      "num": 140012,
+      "word": "山姆回应同款零食好特卖便宜60元",
+      "onboard_time": 1759292361,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139185,
       "num": 139185,
       "word": "容祖儿晒与肖战王力宏合照",
@@ -651,6 +715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135305,
+      "num": 135305,
+      "word": "张维伊婚后状态",
+      "onboard_time": 1759295419,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134830,
       "num": 134830,
       "word": "西贝客服回应降价",
@@ -659,27 +731,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132917,
-      "num": 132917,
-      "word": "小酒窝在天安门举国旗拍照",
-      "onboard_time": 1759293140,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131879,
       "num": 131879,
       "word": "车车车车车高速公路车车车车车",
       "onboard_time": 1759240221,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131283,
-      "num": 131283,
-      "word": "山姆回应同款零食好特卖便宜60元",
-      "onboard_time": 1759292361,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -721,6 +777,14 @@
       "onboard_time": 1759283601,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123487,
+      "num": 123487,
+      "word": "什么是假性友谊",
+      "onboard_time": 1759295001,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 123163,
@@ -787,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108466,
+      "num": 108466,
+      "word": "干搓洗头法简直是油头救星",
+      "onboard_time": 1759293320,
+      "rank": 47,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 107516,
       "num": 107516,
       "word": "周震南说自己是被迫当R1SE队长的",
@@ -835,12 +907,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 101860,
-      "num": 101860,
-      "word": "干搓洗头法简直是油头救星",
-      "onboard_time": 1759293320,
-      "rank": 47,
-      "category": "休闲"
+      "raw_hot": 101787,
+      "num": 123857,
+      "word": "零跑月销破6万创新势力新纪录",
+      "onboard_time": 1759293981,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 101335,
@@ -859,12 +931,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 100581,
+      "num": 100581,
+      "word": "王楚钦中国大满贯一天三赛",
+      "onboard_time": 1759295360,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100252,
       "num": 100252,
       "word": "鹿晗回应力宏鹿晗联合厉害",
       "onboard_time": 1759286960,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 99395,
+      "num": 99395,
+      "word": "范丞丞反差",
+      "onboard_time": 1759295419,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 99347,
@@ -913,6 +1001,14 @@
       "onboard_time": 1759289780,
       "rank": 43,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 88229,
+      "num": 121370,
+      "word": "杨博文又在飞机上写作业了",
+      "onboard_time": 1759295121,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 88210,
@@ -1251,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52867,
+      "num": 120957,
+      "word": "张予曦 今天的发型希望大家不要生气",
+      "onboard_time": 1759296020,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50648,
       "num": 168778,
       "word": "西贝部分菜品降幅超20%",
@@ -1321,6 +1425,14 @@
       "onboard_time": 1759274118,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37387,
+      "num": 144420,
+      "word": "文化人讲脱口秀就是高级",
+      "onboard_time": 1759295959,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 36293,
