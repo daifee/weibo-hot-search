@@ -1,0 +1,410 @@
+{
+  "runTime": 1759297270192,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 651085,
+        "num": 1104173,
+        "word": "山姆99.9元零食 好特卖39.9",
+        "onboard_time": 1759289900,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507818,
+        "num": 507818,
+        "word": "女子救下20楼坠落女童后不敢看评论",
+        "onboard_time": 1759294819,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21244,
+        "num": 499637,
+        "word": "家书中满溢炽热家国情怀",
+        "onboard_time": 1759292000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 498967,
+        "num": 498967,
+        "word": "鸡排哥被男子扯拽衣服要求站高点演讲",
+        "onboard_time": 1759276819,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430323,
+        "num": 430323,
+        "word": "妈妈给男孩喝了一口糖竟致呕吐晕厥",
+        "onboard_time": 1759292900,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353516,
+        "num": 353516,
+        "word": "美政府关门",
+        "onboard_time": 1759292419,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 337589,
+        "num": 337589,
+        "word": "小米汽车销量",
+        "onboard_time": 1759294280,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 313000,
+        "num": 313000,
+        "word": "广东一地发现首例钻石血",
+        "onboard_time": 1759278139,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259315,
+        "num": 259315,
+        "word": "国庆",
+        "onboard_time": 1759248741,
+        "rank": 8,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 99991,
+        "num": 255141,
+        "word": "王楚钦vs雷德齐姆斯基",
+        "onboard_time": 1759296621,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 744821,
+        "num": 249759,
+        "word": "曝阮经天和小20岁女友交往超一年",
+        "onboard_time": 1759291101,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 655078,
+        "num": 245587,
+        "word": "主办方请沈佳润就好她爹会跟着去的",
+        "onboard_time": 1759291041,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32475,
+        "num": 237735,
+        "word": "看升旗是中国人专属仪式感",
+        "onboard_time": 1759293260,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369964,
+        "num": 233189,
+        "word": "内娱把三生三世拍出花了",
+        "onboard_time": 1759290560,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293403,
+        "num": 226664,
+        "word": "王乐晨道歉",
+        "onboard_time": 1759248381,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284453,
+        "num": 216396,
+        "word": "这居然是周峻纬",
+        "onboard_time": 1759290320,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215295,
+        "num": 215295,
+        "word": "意大利宣布不再为加沙救援船队护航",
+        "onboard_time": 1759287979,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205691,
+        "num": 205691,
+        "word": "迪奥巴黎时装周",
+        "onboard_time": 1759288457,
+        "rank": 17,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 197561,
+        "num": 197561,
+        "word": "彭高",
+        "onboard_time": 1759281199,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182371,
+        "num": 182371,
+        "word": "全红婵水花消失术为祖国庆生",
+        "onboard_time": 1759283539,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264629,
+        "num": 181742,
+        "word": "翁青雅彭高分手的根本原因",
+        "onboard_time": 1759296681,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204920,
+        "num": 180562,
+        "word": "陈小春两个儿子近照",
+        "onboard_time": 1759293560,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178601,
+        "num": 178601,
+        "word": "西贝取消25分钟上菜沙漏计时",
+        "onboard_time": 1759293922,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158557,
+        "num": 158557,
+        "word": "三婚就是比前两次会挑时候",
+        "onboard_time": 1759290440,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156664,
+        "num": 156664,
+        "word": "林高远赛后抚摸球台",
+        "onboard_time": 1759296441,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158613,
+        "num": 155718,
+        "word": "彭高和翁青雅刚官宣一个月就分手",
+        "onboard_time": 1759288340,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153793,
+        "num": 153793,
+        "word": "杨幂游玩plog",
+        "onboard_time": 1759295959,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151335,
+        "num": 151335,
+        "word": "陈赫张子萱挽手逛街",
+        "onboard_time": 1759292302,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144553,
+        "num": 144553,
+        "word": "张予曦 今天的发型希望大家不要生气",
+        "onboard_time": 1759296020,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139405,
+        "num": 139405,
+        "word": "皮蛋是外国人最讨厌食物第二名",
+        "onboard_time": 1759296621,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129751,
+        "num": 129751,
+        "word": "张维伊婚后状态",
+        "onboard_time": 1759295419,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127568,
+        "num": 127568,
+        "word": "短剧太奶奶3有自己的道明寺",
+        "onboard_time": 1759296861,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122565,
+        "num": 122565,
+        "word": "什么是假性友谊",
+        "onboard_time": 1759295001,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120659,
+        "num": 120659,
+        "word": "山姆回应同款零食好特卖便宜60元",
+        "onboard_time": 1759292361,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36404,
+        "num": 119857,
+        "word": "西贝嫩烤大黄鱼仍使用冷冻食材",
+        "onboard_time": 1759297161,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95186,
+        "num": 118838,
+        "word": "零跑月销破6万创新势力新纪录",
+        "onboard_time": 1759293981,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 44815,
+        "num": 118244,
+        "word": "文化人讲脱口秀就是高级",
+        "onboard_time": 1759295959,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29644,
+        "num": 116536,
+        "word": "国庆节国乒19场比赛",
+        "onboard_time": 1759296320,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89447,
+        "num": 115870,
+        "word": "活牛被商贩从嘴里强注200斤水",
+        "onboard_time": 1759296681,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115410,
+        "num": 115410,
+        "word": "景德镇连夜招大学生上任鸡排保镖",
+        "onboard_time": 1759287260,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113729,
+        "num": 113729,
+        "word": "小酒窝在天安门举国旗拍照",
+        "onboard_time": 1759293140,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9113,
+        "num": 113421,
+        "word": "有人深圳出发15小时还没出广东",
+        "onboard_time": 1759297161,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113200,
+        "num": 113200,
+        "word": "林高远梁靖崑",
+        "onboard_time": 1759294519,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112344,
+        "num": 112344,
+        "word": "我爱你中国",
+        "onboard_time": 1759275559,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108975,
+        "num": 108975,
+        "word": "男子口袋翻出旧彩票中1.28亿",
+        "onboard_time": 1759288280,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108825,
+        "num": 108825,
+        "word": "周深唱出了刺杀小说家2的内核力量",
+        "onboard_time": 1759288041,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108396,
+        "num": 108396,
+        "word": "6小时的路程开了一晚上还剩6小时",
+        "onboard_time": 1759295841,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104273,
+        "num": 104273,
+        "word": "男生郑州东站15秒极限换乘",
+        "onboard_time": 1759288639,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104034,
+        "num": 104034,
+        "word": "阮经天经纪人回应恋情",
+        "onboard_time": 1759296441,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102769,
+        "num": 102769,
+        "word": "梁靖崑3比1林高远",
+        "onboard_time": 1759294221,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
