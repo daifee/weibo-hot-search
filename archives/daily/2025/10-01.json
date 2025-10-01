@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759310918040,
+  "endTime": 1759311679642,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -123,6 +123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 756562,
+      "num": 1121049,
+      "word": "2亿烂尾楼改酒店3688元套房被订",
+      "onboard_time": 1759307720,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 742367,
       "num": 877129,
       "word": "国庆",
@@ -155,12 +163,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 659927,
+      "num": 659927,
+      "word": "蜜雪冰城门店 老鼠横行",
+      "onboard_time": 1759308980,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 648272,
       "num": 187446,
       "word": "翁青雅彭高分手的根本原因",
       "onboard_time": 1759296681,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 637256,
+      "num": 158552,
+      "word": "网传将门毒后确定迪丽热巴",
+      "onboard_time": 1759307720,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 629922,
@@ -195,14 +219,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 583124,
-      "num": 158552,
-      "word": "网传将门毒后确定迪丽热巴",
-      "onboard_time": 1759307720,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 570592,
       "num": 237157,
       "word": "乐远cp选择不成为情侣",
@@ -233,14 +249,6 @@
       "onboard_time": 1759308261,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 527134,
-      "num": 1084341,
-      "word": "2亿烂尾楼改酒店3688元套房被订",
-      "onboard_time": 1759307720,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 518812,
@@ -355,14 +363,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 403170,
-      "num": 403170,
-      "word": "蜜雪冰城门店 老鼠横行",
-      "onboard_time": 1759308980,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 392984,
       "num": 392984,
       "word": "服装店称因logo相似被小米起诉",
@@ -459,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318690,
+      "num": 158468,
+      "word": "韩国举行大规模阅兵仪式",
+      "onboard_time": 1759302080,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 318182,
       "num": 318182,
       "word": "王楚钦3比2雷德齐姆斯基",
@@ -472,6 +480,22 @@
       "word": "新人花近3万在海底捞办50桌婚宴",
       "onboard_time": 1759243283,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305594,
+      "num": 305594,
+      "word": "郑州方特跳楼机高空悬停七八分钟",
+      "onboard_time": 1759308681,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 297749,
+      "num": 157823,
+      "word": "鸡排哥周边摊主发声",
+      "onboard_time": 1759308501,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -499,14 +523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 279856,
-      "num": 158468,
-      "word": "韩国举行大规模阅兵仪式",
-      "onboard_time": 1759302080,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 270941,
       "num": 270941,
       "word": "台湾是中国领土一部分",
@@ -521,14 +537,6 @@
       "onboard_time": 1759282700,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 256552,
-      "num": 157823,
-      "word": "鸡排哥周边摊主发声",
-      "onboard_time": 1759308501,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 255819,
@@ -627,7 +635,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 222904,
+      "raw_hot": 225327,
       "num": 157924,
       "word": "严浩翔定妆剧照",
       "onboard_time": 1759307419,
@@ -691,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206346,
+      "num": 141967,
+      "word": "刺杀小说家",
+      "onboard_time": 1759310660,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205954,
       "num": 183138,
       "word": "男子口袋翻出旧彩票中1.28亿",
@@ -747,6 +763,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 189500,
+      "num": 156690,
+      "word": "麻辣鸡和CardiB线下约架",
+      "onboard_time": 1759308681,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182826,
       "num": 171091,
       "word": "iPhone11ProMax被列为复古产品",
@@ -763,28 +787,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175947,
-      "num": 156690,
-      "word": "麻辣鸡和CardiB线下约架",
-      "onboard_time": 1759308681,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175379,
       "num": 175379,
       "word": "爱奇艺10月待播剧综",
       "onboard_time": 1759291820,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 172441,
-      "num": 172441,
-      "word": "郑州方特跳楼机高空悬停七八分钟",
-      "onboard_time": 1759308681,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169130,
@@ -849,6 +857,14 @@
       "onboard_time": 1759294221,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164863,
+      "num": 137071,
+      "word": "邓为Dior看秀造型",
+      "onboard_time": 1759311561,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 163228,
@@ -953,6 +969,14 @@
       "onboard_time": 1759293140,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146596,
+      "num": 160233,
+      "word": "南部战区有效应对侵权挑衅",
+      "onboard_time": 1759309400,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 146083,
@@ -1083,12 +1107,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 135551,
-      "num": 160233,
-      "word": "南部战区有效应对侵权挑衅",
-      "onboard_time": 1759309400,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 136217,
+      "num": 136217,
+      "word": "原来100%纯棉不一定是纯棉",
+      "onboard_time": 1759310601,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 135305,
@@ -1187,6 +1211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123516,
+      "num": 123516,
+      "word": "蜜雪冰城门店回应多只老鼠横行",
+      "onboard_time": 1759311080,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123487,
       "num": 123487,
       "word": "什么是假性友谊",
@@ -1275,14 +1307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113677,
-      "num": 113677,
-      "word": "原来100%纯棉不一定是纯棉",
-      "onboard_time": 1759310601,
-      "rank": 32,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 113253,
       "num": 113253,
       "word": "湖南国补",
@@ -1315,6 +1339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111587,
+      "num": 111587,
+      "word": "断糖30天的身体变化",
+      "onboard_time": 1759310000,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111193,
       "num": 111193,
       "word": "蔡文静扛住了G社镜头",
@@ -1329,6 +1361,14 @@
       "onboard_time": 1759299320,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109789,
+      "num": 109789,
+      "word": "二婚妻子不满丈夫摆烂打牌怒卖房",
+      "onboard_time": 1759311080,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109549,
@@ -1395,14 +1435,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 107064,
-      "num": 107064,
-      "word": "刺杀小说家",
-      "onboard_time": 1759310660,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 106988,
       "num": 106988,
       "word": "令人心动的offer",
@@ -1425,6 +1457,14 @@
       "onboard_time": 1759245443,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105876,
+      "num": 105876,
+      "word": "任嘉伦官宣加盟NBA名人赛",
+      "onboard_time": 1759309280,
+      "rank": 37,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 104986,
@@ -1507,14 +1547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100524,
-      "num": 100524,
-      "word": "断糖30天的身体变化",
-      "onboard_time": 1759310000,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 100252,
       "num": 100252,
       "word": "鹿晗回应力宏鹿晗联合厉害",
@@ -1537,6 +1569,14 @@
       "onboard_time": 1759292361,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 98389,
+      "num": 98389,
+      "word": "蔡文静在巴黎火成这样了",
+      "onboard_time": 1759311441,
+      "rank": 42,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 97793,
@@ -1955,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68517,
+      "num": 423409,
+      "word": "国庆升旗高清大图",
+      "onboard_time": 1759309280,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 67766,
       "num": 67766,
       "word": "肖战用人民日报的图",
@@ -2073,14 +2121,6 @@
       "onboard_time": 1759275137,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 55612,
-      "num": 348547,
-      "word": "国庆升旗高清大图",
-      "onboard_time": 1759309280,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 54156,
@@ -2227,6 +2267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 34404,
+      "num": 104986,
+      "word": "景德镇鸡排保镖已上线",
+      "onboard_time": 1759310121,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33405,
       "num": 118518,
       "word": "特朗普称将与哈佛达成协议",
@@ -2243,20 +2291,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32553,
-      "num": 104986,
-      "word": "景德镇鸡排保镖已上线",
-      "onboard_time": 1759310121,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32323,
       "num": 864905,
       "word": "国庆中秋假期安全提示",
       "onboard_time": 1759238962,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31227,
+      "num": 103410,
+      "word": "现场齐喊王楚钦你最棒",
+      "onboard_time": 1759311381,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 29644,
@@ -2339,20 +2387,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21556,
+      "num": 105076,
+      "word": "100名游客托举1650平方米国旗",
+      "onboard_time": 1759310179,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20597,
       "num": 26197,
       "word": "蒯曼说陈垣宇是年轻小将",
       "onboard_time": 1759270095,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20503,
-      "num": 105076,
-      "word": "100名游客托举1650平方米国旗",
-      "onboard_time": 1759310179,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19058,
