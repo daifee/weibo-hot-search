@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759318617485,
+  "endTime": 1759323204175,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1055083,
+      "num": 219119,
+      "word": "陶白白前妻与现任同游西藏",
+      "onboard_time": 1759317620,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1028081,
       "num": 819215,
       "word": "蜜雪冰城门店 老鼠横行",
@@ -81,6 +89,14 @@
       "onboard_time": 1759306521,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 957621,
+      "num": 1153219,
+      "word": "金价",
+      "onboard_time": 1759317381,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 900556,
@@ -121,6 +137,14 @@
       "onboard_time": 1759247721,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 814211,
+      "num": 214883,
+      "word": "卢远 王乐晨",
+      "onboard_time": 1759319360,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 804582,
@@ -203,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 643295,
+      "num": 213041,
+      "word": "迪奥二零二六春夏秀",
+      "onboard_time": 1759322781,
+      "rank": 14,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 637256,
       "num": 225986,
       "word": "网传将门毒后确定迪丽热巴",
@@ -212,7 +244,7 @@
     },
     {
       "raw_hot": 631704,
-      "num": 127624,
+      "num": 205520,
       "word": "金马奖",
       "onboard_time": 1759314260,
       "rank": 30,
@@ -331,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 484795,
+      "num": 210338,
+      "word": "迪丽热巴 芭比娃娃",
+      "onboard_time": 1759323141,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 477643,
       "num": 226477,
       "word": "许我耀眼云合31.7%",
@@ -377,6 +417,14 @@
       "onboard_time": 1759304781,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 445430,
+      "num": 445430,
+      "word": "央视国庆晚会",
+      "onboard_time": 1759318461,
+      "rank": 1,
+      "category": "演出"
     },
     {
       "raw_hot": 430323,
@@ -459,6 +507,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 365186,
+      "num": 365186,
+      "word": "鸡排哥周边摊主发声",
+      "onboard_time": 1759308501,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 361572,
+      "num": 361572,
+      "word": "第一天出去旅游的人已经老实",
+      "onboard_time": 1759311982,
+      "rank": 29,
+      "category": "幽默,旅游"
+    },
+    {
       "raw_hot": 360112,
       "num": 360112,
       "word": "小米汽车销量",
@@ -523,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321908,
+      "num": 207756,
+      "word": "何老师第一次在密逃被吓到",
+      "onboard_time": 1759316301,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318690,
       "num": 231292,
       "word": "韩国举行大规模阅兵仪式",
@@ -544,14 +616,6 @@
       "word": "新人花近3万在海底捞办50桌婚宴",
       "onboard_time": 1759243283,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 297749,
-      "num": 165266,
-      "word": "鸡排哥周边摊主发声",
-      "onboard_time": 1759308501,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -609,6 +673,14 @@
       "onboard_time": 1759282700,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 257259,
+      "num": 257259,
+      "word": "陈垣宇vsF勒布伦",
+      "onboard_time": 1759321101,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 255819,
@@ -699,6 +771,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 231550,
+      "num": 200476,
+      "word": "浪姐 JYP",
+      "onboard_time": 1759321041,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227673,
       "num": 157583,
       "word": "27岁真的还很年轻很年轻",
@@ -779,14 +859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 212695,
-      "num": 129786,
-      "word": "何老师第一次在密逃被吓到",
-      "onboard_time": 1759316301,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212278,
       "num": 212278,
       "word": "王乐晨卢远回应",
@@ -843,6 +915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200365,
+      "num": 200365,
+      "word": "满街五星红旗是中国的浪漫",
+      "onboard_time": 1759321579,
+      "rank": 22,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 196263,
       "num": 140338,
       "word": "禁止挺胸夹背",
@@ -875,20 +955,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 193915,
+      "num": 193915,
+      "word": "短剧男主不接受大尺度吻戏擅自离组",
+      "onboard_time": 1759320442,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189500,
       "num": 156690,
       "word": "麻辣鸡和CardiB线下约架",
       "onboard_time": 1759308681,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 184627,
-      "num": 112116,
-      "word": "陶白白前妻与现任同游西藏",
-      "onboard_time": 1759317620,
-      "rank": 38,
-      "category": "网红"
     },
     {
       "raw_hot": 184433,
@@ -977,6 +1057,14 @@
       "onboard_time": 1759231642,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165704,
+      "num": 131288,
+      "word": "梁王发博的物料一模一样",
+      "onboard_time": 1759322600,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 165635,
@@ -1171,6 +1259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 142811,
+      "num": 142811,
+      "word": "王腾小红书账号注销",
+      "onboard_time": 1759322841,
+      "rank": 26,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 141342,
       "num": 141342,
       "word": "王楚钦挥拳庆祝",
@@ -1209,14 +1305,6 @@
       "onboard_time": 1759292361,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139625,
-      "num": 139625,
-      "word": "第一天出去旅游的人已经老实",
-      "onboard_time": 1759311982,
-      "rank": 29,
-      "category": "幽默,旅游"
     },
     {
       "raw_hot": 139405,
@@ -1281,6 +1369,14 @@
       "onboard_time": 1759310601,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 135796,
+      "num": 135796,
+      "word": "吴邪私家笔记2立项了",
+      "onboard_time": 1759322481,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 135305,
@@ -1419,6 +1515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124055,
+      "num": 124055,
+      "word": "陈垣宇决胜局憾负",
+      "onboard_time": 1759322542,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123487,
       "num": 123487,
       "word": "什么是假性友谊",
@@ -1467,6 +1571,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119363,
+      "num": 119363,
+      "word": "鸡排哥再现招牌名场面",
+      "onboard_time": 1759319180,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119152,
+      "num": 119152,
+      "word": "金价见证历史",
+      "onboard_time": 1759321280,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 118249,
+      "num": 118249,
+      "word": "贺峻霖到时候番位你咋安排",
+      "onboard_time": 1759322781,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117597,
       "num": 117597,
       "word": "左航抽屉变装",
@@ -1483,20 +1611,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116930,
+      "num": 389670,
+      "word": "新中国成立76周年",
+      "onboard_time": 1759307541,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 116499,
       "num": 116499,
       "word": "张极 打火极",
       "onboard_time": 1759305499,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115315,
-      "num": 389670,
-      "word": "新中国成立76周年",
-      "onboard_time": 1759307541,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 115164,
@@ -1513,6 +1641,14 @@
       "onboard_time": 1759249160,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113876,
+      "num": 113876,
+      "word": "对祖国的爱永远滚烫赤诚",
+      "onboard_time": 1759318221,
+      "rank": 36,
+      "category": "正能量"
     },
     {
       "raw_hot": 113872,
@@ -1811,6 +1947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99555,
+      "num": 99555,
+      "word": "习惯侧睡的人今晚换个姿势",
+      "onboard_time": 1759322781,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 99395,
       "num": 99395,
       "word": "范丞丞反差",
@@ -1833,14 +1977,6 @@
       "onboard_time": 1759312760,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 99291,
-      "num": 99291,
-      "word": "金价",
-      "onboard_time": 1759317381,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 97793,
@@ -1867,6 +2003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96583,
+      "num": 96583,
+      "word": "时代少年团在电影里开演唱会",
+      "onboard_time": 1759316541,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 96521,
       "num": 96521,
       "word": "中国核聚变装置BEST主机全面开建",
@@ -1889,14 +2033,6 @@
       "onboard_time": 1759309881,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94999,
-      "num": 96529,
-      "word": "时代少年团在电影里开演唱会",
-      "onboard_time": 1759316541,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 94918,
@@ -1963,6 +2099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91542,
+      "num": 91542,
+      "word": "山西一商场现10米巨人雕塑价值百万",
+      "onboard_time": 1759320500,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91474,
       "num": 91474,
       "word": "向阳而生奔赴未来",
@@ -1993,6 +2137,14 @@
       "onboard_time": 1759315521,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89799,
+      "num": 89799,
+      "word": "黎姿119平豪宅出租月租8.3万港元",
+      "onboard_time": 1759323023,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 89754,
@@ -2131,6 +2283,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84370,
+      "num": 84370,
+      "word": "王楚钦为救球奋不顾身",
+      "onboard_time": 1759320381,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83039,
+      "num": 83039,
+      "word": "黄友政温瑞博3比2陈颢桦黄镇廷",
+      "onboard_time": 1759322781,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82786,
       "num": 82786,
       "word": "风林火山",
@@ -2217,6 +2385,30 @@
       "onboard_time": 1759231101,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79191,
+      "num": 79191,
+      "word": "降价的西贝与出圈的鸡排哥",
+      "onboard_time": 1759322181,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78857,
+      "num": 78857,
+      "word": "王楚钦对手因回抛被罚1分",
+      "onboard_time": 1759322961,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78245,
+      "num": 78245,
+      "word": "王力宏穿龙鳞唱天地龙鳞",
+      "onboard_time": 1759323141,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 78096,
