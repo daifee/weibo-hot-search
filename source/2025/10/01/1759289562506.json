@@ -1,0 +1,410 @@
+{
+  "runTime": 1759289562506,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1053705,
+        "num": 1168592,
+        "word": "鸡排哥被男子扯拽衣服要求站高点演讲",
+        "onboard_time": 1759276819,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 813968,
+        "num": 813968,
+        "word": "全红婵水花消失术为祖国庆生",
+        "onboard_time": 1759283539,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65648,
+        "num": 689120,
+        "word": "网警提醒双节这些陷阱要绕行",
+        "onboard_time": 1759288399,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 576498,
+        "num": 576498,
+        "word": "国庆",
+        "onboard_time": 1759248741,
+        "rank": 3,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 535417,
+        "num": 535417,
+        "word": "广东一地发现首例钻石血",
+        "onboard_time": 1759278139,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321553,
+        "num": 321553,
+        "word": "意大利宣布不再为加沙救援船队护航",
+        "onboard_time": 1759287979,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304319,
+        "num": 304319,
+        "word": "服装店称因logo相似被小米起诉",
+        "onboard_time": 1759282342,
+        "rank": 6,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 243900,
+        "num": 243900,
+        "word": "景德镇连夜招大学生上任鸡排保镖",
+        "onboard_time": 1759287260,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243601,
+        "num": 243601,
+        "word": "男生郑州东站15秒极限换乘",
+        "onboard_time": 1759288639,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227016,
+        "num": 227016,
+        "word": "我爱你中国",
+        "onboard_time": 1759275559,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 542777,
+        "num": 225541,
+        "word": "彭高",
+        "onboard_time": 1759281199,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330444,
+        "num": 223243,
+        "word": "TF家族男团在湖南秋晚三代同台",
+        "onboard_time": 1759285759,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 422976,
+        "num": 221312,
+        "word": "王乐晨道歉",
+        "onboard_time": 1759248381,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328188,
+        "num": 221181,
+        "word": "给长辈买冰皮月饼一定要说明吃法",
+        "onboard_time": 1759280181,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29048,
+        "num": 218661,
+        "word": "篮球之夜名场面哪帧戳中你",
+        "onboard_time": 1759287739,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316352,
+        "num": 215815,
+        "word": "迪奥巴黎时装周",
+        "onboard_time": 1759288457,
+        "rank": 15,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 255819,
+        "num": 213774,
+        "word": "周深唱出了刺杀小说家2的内核力量",
+        "onboard_time": 1759288041,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213699,
+        "num": 213699,
+        "word": "祝新中国生日快乐",
+        "onboard_time": 1759275258,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180380,
+        "num": 180380,
+        "word": "白宫宣布政府即将关门",
+        "onboard_time": 1759282700,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164845,
+        "num": 164845,
+        "word": "张维伊回应继女改口",
+        "onboard_time": 1759243163,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293589,
+        "num": 164828,
+        "word": "彭高和翁青雅刚官宣一个月就分手",
+        "onboard_time": 1759288340,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205954,
+        "num": 164734,
+        "word": "男子口袋翻出旧彩票中1.28亿",
+        "onboard_time": 1759288280,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 165046,
+        "num": 164624,
+        "word": "孩子嫌弃奶奶身上有味道妈妈严肃教育",
+        "onboard_time": 1759283239,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431369,
+        "num": 164607,
+        "word": "K签证",
+        "onboard_time": 1759285580,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164547,
+        "num": 164547,
+        "word": "王乐晨前女友",
+        "onboard_time": 1759275378,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126980,
+        "num": 126980,
+        "word": "吴倩回到了赵默笙时期",
+        "onboard_time": 1759274417,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124281,
+        "num": 124281,
+        "word": "乐远cp选择不成为情侣",
+        "onboard_time": 1759230981,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122884,
+        "num": 122884,
+        "word": "中华人民共和国成立76周年",
+        "onboard_time": 1759251618,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110212,
+        "num": 110212,
+        "word": "iPhone11ProMax被列为复古产品",
+        "onboard_time": 1759281080,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105977,
+        "num": 105977,
+        "word": "户晨风",
+        "onboard_time": 1759277298,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 103969,
+        "num": 103969,
+        "word": "鸡排哥",
+        "onboard_time": 1759282758,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88356,
+        "num": 102770,
+        "word": "宋亚轩说无比帅气的丁行者棒棒",
+        "onboard_time": 1759288521,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102174,
+        "num": 102174,
+        "word": "当事人确认爬泰山导盲犬被接回基地",
+        "onboard_time": 1759289299,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100252,
+        "num": 100252,
+        "word": "鹿晗回应力宏鹿晗联合厉害",
+        "onboard_time": 1759286960,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97939,
+        "num": 97939,
+        "word": "电影刺杀小说家2",
+        "onboard_time": 1759286540,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95644,
+        "num": 95644,
+        "word": "一耳光打走女儿母亲花光积蓄找10年",
+        "onboard_time": 1759243522,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93629,
+        "num": 93629,
+        "word": "菲律宾地震已致22死数百伤",
+        "onboard_time": 1759285580,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 93530,
+        "num": 93530,
+        "word": "当普通家族里出现了第一个研究生",
+        "onboard_time": 1759287199,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92314,
+        "num": 92314,
+        "word": "菲律宾6.9级地震",
+        "onboard_time": 1759242442,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89370,
+        "num": 89370,
+        "word": "小酒窝祝祖国生日快乐",
+        "onboard_time": 1759286420,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87894,
+        "num": 87894,
+        "word": "张晚意马思纯 埃及法老和他的宠妃",
+        "onboard_time": 1759274479,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84895,
+        "num": 84895,
+        "word": "顺丰速运回应顺丰速孕低俗车贴",
+        "onboard_time": 1759245740,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44481,
+        "num": 84414,
+        "word": "宋雨琦包场支持范丞丞王安宇",
+        "onboard_time": 1759288219,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84370,
+        "num": 84370,
+        "word": "金饰克价涨到1132元",
+        "onboard_time": 1759285220,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82706,
+        "num": 82706,
+        "word": "新中国成立七十六周年",
+        "onboard_time": 1759275079,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29519,
+        "num": 81612,
+        "word": "刘宇演唱会上海站官宣",
+        "onboard_time": 1759259594,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81493,
+        "num": 81493,
+        "word": "王俊凯NBA名人赛C位海报",
+        "onboard_time": 1759274357,
+        "rank": 46,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 77859,
+        "num": 77859,
+        "word": "罗予彤哭着求黄灿灿分手",
+        "onboard_time": 1759274417,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72135,
+        "num": 72135,
+        "word": "再看孙颖莎亚运夺金依旧很燃",
+        "onboard_time": 1759289299,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71814,
+        "num": 71814,
+        "word": "罗永浩呼吁全行业消灭误导大小字",
+        "onboard_time": 1759281859,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#向全国各族人民致以节日祝贺#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759288701489,
+  "endTime": 1759289562506,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 767308,
-      "num": 221792,
+      "num": 225541,
       "word": "彭高",
       "onboard_time": 1759281199,
       "rank": 10,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 698670,
-      "num": 220320,
+      "num": 221181,
       "word": "给长辈买冰皮月饼一定要说明吃法",
       "onboard_time": 1759280181,
       "rank": 11,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 453444,
-      "num": 150857,
+      "num": 164607,
       "word": "K签证",
       "onboard_time": 1759285580,
       "rank": 20,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 346043,
-      "num": 166575,
+      "num": 223243,
       "word": "TF家族男团在湖南秋晚三代同台",
       "onboard_time": 1759285759,
       "rank": 13,
@@ -211,12 +211,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321553,
+      "num": 321553,
+      "word": "意大利宣布不再为加沙救援船队护航",
+      "onboard_time": 1759287979,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 316352,
+      "num": 215815,
+      "word": "迪奥巴黎时装周",
+      "onboard_time": 1759288457,
+      "rank": 28,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 309928,
       "num": 309928,
       "word": "新人花近3万在海底捞办50桌婚宴",
       "onboard_time": 1759243283,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293589,
+      "num": 164828,
+      "word": "彭高和翁青雅刚官宣一个月就分手",
+      "onboard_time": 1759288340,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 290364,
@@ -243,6 +267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 255819,
+      "num": 213774,
+      "word": "周深唱出了刺杀小说家2的内核力量",
+      "onboard_time": 1759288041,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 253942,
       "num": 253942,
       "word": "女子过度医美面部馒化酷似面具人",
@@ -259,11 +291,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243900,
+      "num": 243900,
+      "word": "景德镇连夜招大学生上任鸡排保镖",
+      "onboard_time": 1759287260,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243842,
       "num": 243842,
       "word": "我爱你中国",
       "onboard_time": 1759275559,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243601,
+      "num": 243601,
+      "word": "男生郑州东站15秒极限换乘",
+      "onboard_time": 1759288639,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -307,12 +355,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 213699,
+      "num": 213699,
+      "word": "祝新中国生日快乐",
+      "onboard_time": 1759275258,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212278,
       "num": 212278,
       "word": "王乐晨卢远回应",
       "onboard_time": 1759241661,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205954,
+      "num": 164734,
+      "word": "男子口袋翻出旧彩票中1.28亿",
+      "onboard_time": 1759288280,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 201055,
@@ -329,22 +393,6 @@
       "onboard_time": 1759275378,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192254,
-      "num": 192254,
-      "word": "祝新中国生日快乐",
-      "onboard_time": 1759275258,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 189887,
-      "num": 189887,
-      "word": "意大利宣布不再为加沙救援船队护航",
-      "onboard_time": 1759287979,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 182826,
@@ -411,30 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150867,
-      "num": 150867,
-      "word": "男生郑州东站15秒极限换乘",
-      "onboard_time": 1759288639,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150584,
-      "num": 150584,
-      "word": "景德镇连夜招大学生上任鸡排保镖",
-      "onboard_time": 1759287260,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147399,
-      "num": 147399,
-      "word": "周深唱出了刺杀小说家2的内核力量",
-      "onboard_time": 1759288041,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 146083,
       "num": 135689,
       "word": "张晚意马思纯 埃及法老和他的宠妃",
@@ -483,14 +507,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 140485,
-      "num": 140485,
-      "word": "男子口袋翻出旧彩票中1.28亿",
-      "onboard_time": 1759288280,
-      "rank": 26,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 139185,
       "num": 139185,
       "word": "容祖儿晒与肖战王力宏合照",
@@ -505,14 +521,6 @@
       "onboard_time": 1759286540,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 136086,
-      "num": 136086,
-      "word": "迪奥巴黎时装周",
-      "onboard_time": 1759288457,
-      "rank": 28,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 134830,
@@ -561,14 +569,6 @@
       "onboard_time": 1759283601,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124212,
-      "num": 124212,
-      "word": "彭高和翁青雅刚官宣一个月就分手",
-      "onboard_time": 1759288340,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 123163,
@@ -635,12 +635,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 102174,
+      "num": 102174,
+      "word": "当事人确认爬泰山导盲犬被接回基地",
+      "onboard_time": 1759289299,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101051,
       "num": 94039,
       "word": "普通女生苦练化妆技术的下场",
       "onboard_time": 1759248741,
       "rank": 41,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 100252,
+      "num": 100252,
+      "word": "鹿晗回应力宏鹿晗联合厉害",
+      "onboard_time": 1759286960,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 97793,
@@ -665,14 +681,6 @@
       "onboard_time": 1759273878,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 91537,
-      "num": 91537,
-      "word": "鹿晗回应力宏鹿晗联合厉害",
-      "onboard_time": 1759286960,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 91474,
@@ -811,6 +819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 72135,
+      "num": 72135,
+      "word": "再看孙颖莎亚运夺金依旧很燃",
+      "onboard_time": 1759289299,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71313,
       "num": 71313,
       "word": "葬送的芙莉莲辛芙结婚了",
@@ -872,6 +888,14 @@
       "word": "一条微博祝福祖国",
       "onboard_time": 1759274118,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65648,
+      "num": 689120,
+      "word": "网警提醒双节这些陷阱要绕行",
+      "onboard_time": 1759288399,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1003,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44481,
+      "num": 109493,
+      "word": "宋雨琦包场支持范丞丞王安宇",
+      "onboard_time": 1759288219,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 41325,
       "num": 41325,
       "word": "王力宏鹿晗隔老远就开始弯腰",
@@ -1035,6 +1067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29519,
+      "num": 111484,
+      "word": "刘宇演唱会上海站官宣",
+      "onboard_time": 1759259594,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 29132,
       "num": 29132,
       "word": "上海市西初中学生午餐选择自由",
@@ -1043,8 +1083,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27087,
-      "num": 161558,
+      "raw_hot": 29048,
+      "num": 218661,
       "word": "篮球之夜名场面哪帧戳中你",
       "onboard_time": 1759287739,
       "rank": 14,
@@ -1057,14 +1097,6 @@
       "onboard_time": 1759256656,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 24847,
-      "num": 111484,
-      "word": "刘宇演唱会上海站官宣",
-      "onboard_time": 1759259594,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 24335,
@@ -1081,14 +1113,6 @@
       "onboard_time": 1759270095,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19769,
-      "num": 676870,
-      "word": "网警提醒双节这些陷阱要绕行",
-      "onboard_time": 1759288399,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16459,
@@ -1121,14 +1145,6 @@
       "onboard_time": 1759263554,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13993,
-      "num": 109493,
-      "word": "宋雨琦包场支持范丞丞王安宇",
-      "onboard_time": 1759288219,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 13818,
