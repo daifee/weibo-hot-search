@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759275391045,
+  "endTime": 1759284043403,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -307,6 +307,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 1143185,
+      "num": 1182909,
+      "word": "广东一地发现首例钻石血",
+      "onboard_time": 1759278139,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1098368,
       "num": 359624,
       "word": "张维伊回应继女改口",
@@ -417,6 +425,14 @@
       "onboard_time": 1759189700,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 968198,
+      "num": 968198,
+      "word": "鸡排哥被男子扯拽衣服要求站高点演讲",
+      "onboard_time": 1759276819,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 967166,
@@ -779,6 +795,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 767308,
+      "num": 221792,
+      "word": "彭高",
+      "onboard_time": 1759281199,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 745268,
       "num": 745268,
       "word": "得力集团辞退跛脚员工",
@@ -848,6 +872,14 @@
       "word": "官员买500斤散装白酒放单位公务接待",
       "onboard_time": 1759029620,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 713569,
+      "num": 713569,
+      "word": "西贝临时调整价格",
+      "onboard_time": 1759282520,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -1457,6 +1489,14 @@
       "onboard_time": 1759056680,
       "rank": 4,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 509520,
+      "num": 220320,
+      "word": "给长辈买冰皮月饼一定要说明吃法",
+      "onboard_time": 1759280181,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 507711,
@@ -2092,7 +2132,7 @@
     },
     {
       "raw_hot": 389578,
-      "num": 127191,
+      "num": 150172,
       "word": "罗予彤哭着求黄灿灿分手",
       "onboard_time": 1759274417,
       "rank": 12,
@@ -2236,7 +2276,7 @@
     },
     {
       "raw_hot": 358777,
-      "num": 126077,
+      "num": 188016,
       "word": "吴倩回到了赵默笙时期",
       "onboard_time": 1759274417,
       "rank": 13,
@@ -2859,6 +2899,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 248842,
+      "num": 248842,
+      "word": "白宫宣布政府即将关门",
+      "onboard_time": 1759282700,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 248403,
       "num": 248403,
       "word": "花海送皮肤",
@@ -2979,6 +3027,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237025,
+      "num": 205837,
+      "word": "户晨风",
+      "onboard_time": 1759277298,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 236994,
+      "num": 236994,
+      "word": "服装店称因logo相似被小米起诉",
+      "onboard_time": 1759282342,
+      "rank": 7,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 236364,
       "num": 280636,
       "word": "湖南卫视中秋之夜官宣阵容",
@@ -3096,6 +3160,14 @@
       "word": "明家犯罪集团致14死6伤",
       "onboard_time": 1759176313,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223374,
+      "num": 223374,
+      "word": "我爱你中国",
+      "onboard_time": 1759275559,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -3627,6 +3699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192254,
+      "num": 192254,
+      "word": "祝新中国生日快乐",
+      "onboard_time": 1759275258,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192252,
       "num": 162512,
       "word": "肖战出道9周年",
@@ -3891,12 +3971,28 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 183267,
+      "num": 183267,
+      "word": "王乐晨前女友",
+      "onboard_time": 1759275378,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182968,
       "num": 182968,
       "word": "李承铉朱志鑫纯英文对话",
       "onboard_time": 1759241063,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182826,
+      "num": 171091,
+      "word": "iPhone11ProMax被列为复古产品",
+      "onboard_time": 1759281080,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 182584,
@@ -4779,6 +4875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156584,
+      "num": 156584,
+      "word": "菲律宾地震26死147伤",
+      "onboard_time": 1759277358,
+      "rank": 21,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 156482,
       "num": 156482,
       "word": "网红唐飞机曾两次坠机仍未停飞",
@@ -5172,7 +5276,7 @@
     },
     {
       "raw_hot": 146083,
-      "num": 123814,
+      "num": 135689,
       "word": "张晚意马思纯 埃及法老和他的宠妃",
       "onboard_time": 1759274479,
       "rank": 24,
@@ -5235,6 +5339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145407,
+      "num": 145407,
+      "word": "K签证是否是过度紧张",
+      "onboard_time": 1759280780,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145373,
       "num": 145373,
       "word": "33阑尾失踪",
@@ -5281,6 +5393,14 @@
       "onboard_time": 1759036401,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144686,
+      "num": 144686,
+      "word": "罗永浩呼吁全行业消灭误导大小字",
+      "onboard_time": 1759281859,
+      "rank": 25,
+      "category": "互联网"
     },
     {
       "raw_hot": 144595,
@@ -5361,6 +5481,14 @@
       "onboard_time": 1759076301,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142858,
+      "num": 142858,
+      "word": "失去半个舌头会对面容有影响",
+      "onboard_time": 1759274118,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 142775,
@@ -5585,6 +5713,14 @@
       "onboard_time": 1759122622,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136952,
+      "num": 136952,
+      "word": "中华人民共和国成立76周年",
+      "onboard_time": 1759251618,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136932,
@@ -6307,6 +6443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126676,
+      "num": 126676,
+      "word": "如益cp官宣后发文",
+      "onboard_time": 1759279159,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126498,
       "num": 126498,
       "word": "许昆林任辽宁省委书记",
@@ -6345,6 +6489,14 @@
       "onboard_time": 1759138641,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 125650,
+      "num": 125650,
+      "word": "孩子嫌弃奶奶身上有味道妈妈严肃教育",
+      "onboard_time": 1759283239,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125305,
@@ -6417,6 +6569,14 @@
       "onboard_time": 1759063583,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 124721,
+      "num": 124721,
+      "word": "放假第一天来自王楚钦的早安",
+      "onboard_time": 1759283601,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 124643,
@@ -6609,14 +6769,6 @@
       "onboard_time": 1759123581,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 122101,
-      "num": 69317,
-      "word": "失去半个舌头会对面容有影响",
-      "onboard_time": 1759274118,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 122030,
@@ -7259,6 +7411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112125,
+      "num": 112125,
+      "word": "西贝客服回应降价",
+      "onboard_time": 1759283900,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112119,
       "num": 112119,
       "word": "肖战笑什么",
@@ -7273,6 +7433,14 @@
       "onboard_time": 1759207520,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111885,
+      "num": 111885,
+      "word": "27岁发现自己年龄有点严肃了",
+      "onboard_time": 1759277659,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 111851,
@@ -8339,6 +8507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96712,
+      "num": 96712,
+      "word": "新中国成立七十六周年",
+      "onboard_time": 1759275079,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96709,
       "num": 96709,
       "word": "王源洗澡时也要记下灵感",
@@ -9059,6 +9235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 83378,
+      "num": 83378,
+      "word": "王俊凯NBA名人赛C位海报",
+      "onboard_time": 1759274357,
+      "rank": 29,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 83008,
       "num": 83008,
       "word": "谁家男女主初遇互抽47鞭",
@@ -9219,14 +9403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79979,
-      "num": 79979,
-      "word": "王俊凯NBA名人赛C位海报",
-      "onboard_time": 1759274357,
-      "rank": 29,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 79967,
       "num": 79967,
       "word": "第一份工作对人生选择的影响",
@@ -9257,6 +9433,14 @@
       "onboard_time": 1759242082,
       "rank": 27,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 79531,
+      "num": 79531,
+      "word": "8天布置了800天的作业量",
+      "onboard_time": 1759276999,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 79485,
@@ -9361,6 +9545,14 @@
       "onboard_time": 1759014137,
       "rank": 31,
       "category": "电竞,体育"
+    },
+    {
+      "raw_hot": 75701,
+      "num": 75701,
+      "word": "鹿晗画了泪痣",
+      "onboard_time": 1759273878,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 75105,
@@ -9499,6 +9691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71313,
+      "num": 71313,
+      "word": "葬送的芙莉莲辛芙结婚了",
+      "onboard_time": 1759283300,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 71260,
       "num": 196313,
       "word": "中国汽车需要更多的担当",
@@ -9531,14 +9731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69997,
-      "num": 69997,
-      "word": "中华人民共和国成立76周年",
-      "onboard_time": 1759251618,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 69614,
       "num": 69614,
       "word": "6旬老人浑身酸痛确诊罕见神经梅毒",
@@ -9553,6 +9745,14 @@
       "onboard_time": 1759163180,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 68689,
+      "num": 68689,
+      "word": "张本美和说哥哥有赢肯定有输",
+      "onboard_time": 1759280899,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 68645,
@@ -9593,6 +9793,14 @@
       "onboard_time": 1759064424,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67766,
+      "num": 67766,
+      "word": "肖战用人民日报的图",
+      "onboard_time": 1759253176,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 67652,
@@ -9664,6 +9872,14 @@
       "word": "日媒称不能靠排名衡量中国选手实力",
       "onboard_time": 1759209201,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64338,
+      "num": 64338,
+      "word": "塞斯库里加盟勇士",
+      "onboard_time": 1759281019,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -9777,14 +9993,6 @@
       "onboard_time": 1759076242,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62327,
-      "num": 62327,
-      "word": "祝新中国生日快乐",
-      "onboard_time": 1759275258,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62054,
@@ -9915,14 +10123,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 59733,
-      "num": 59733,
-      "word": "肖战用人民日报的图",
-      "onboard_time": 1759253176,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 59725,
       "num": 132567,
       "word": "毛不易大合唱",
@@ -10007,14 +10207,6 @@
       "num": 118441,
       "word": "女子称退票被要求证明外公是外公",
       "onboard_time": 1759127060,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58256,
-      "num": 58256,
-      "word": "新中国成立七十六周年",
-      "onboard_time": 1759275079,
       "rank": 38,
       "category": "民生新闻"
     },
@@ -10171,14 +10363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 53849,
-      "num": 53849,
-      "word": "王乐晨前女友",
-      "onboard_time": 1759275378,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 53759,
       "num": 53759,
       "word": "国庆文案",
@@ -10220,7 +10404,7 @@
     },
     {
       "raw_hot": 53354,
-      "num": 572378,
+      "num": 828720,
       "word": "国庆中秋假期安全提示",
       "onboard_time": 1759238962,
       "rank": 2,
@@ -11259,6 +11443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19364,
+      "num": 64174,
+      "word": "刘宇演唱会上海站官宣",
+      "onboard_time": 1759259594,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 19178,
       "num": 137608,
       "word": "男子被砍后反杀凶手案最新进展",
@@ -11297,14 +11489,6 @@
       "onboard_time": 1759172474,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 16482,
-      "num": 56146,
-      "word": "刘宇演唱会上海站官宣",
-      "onboard_time": 1759259594,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 16459,
