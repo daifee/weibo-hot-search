@@ -1,0 +1,410 @@
+{
+  "runTime": 1759308424415,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 415544,
+        "num": 1066487,
+        "word": "有人西贝点单200元实付0元",
+        "onboard_time": 1759306521,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408715,
+        "num": 408715,
+        "word": "女子救下20楼坠落女童后不敢看评论",
+        "onboard_time": 1759294819,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89917,
+        "num": 389670,
+        "word": "新中国成立76周年",
+        "onboard_time": 1759307541,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 380784,
+        "num": 380784,
+        "word": "鸡排哥被男子扯拽衣服要求站高点演讲",
+        "onboard_time": 1759276819,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330633,
+        "num": 330633,
+        "word": "吴艳妮假期重回90公斤",
+        "onboard_time": 1759301841,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198094,
+        "num": 198094,
+        "word": "山姆99.9元零食 好特卖39.9",
+        "onboard_time": 1759289900,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177798,
+        "num": 177798,
+        "word": "美政府关门",
+        "onboard_time": 1759292419,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169227,
+        "num": 169227,
+        "word": "妈妈给男孩喝了一口糖竟致呕吐晕厥",
+        "onboard_time": 1759292900,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115850,
+        "num": 168132,
+        "word": "马龙带俩娃参加斯巴达好快乐",
+        "onboard_time": 1759300940,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100784,
+        "num": 167179,
+        "word": "辛纳中网夺冠",
+        "onboard_time": 1759305680,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 959444,
+        "num": 163398,
+        "word": "迪奥 迪丽热巴",
+        "onboard_time": 1759302080,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 734191,
+        "num": 161665,
+        "word": "蒋欣经纪人看完天塌了",
+        "onboard_time": 1759300700,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567580,
+        "num": 159996,
+        "word": "王楚钦再被判发球遮挡冤不冤",
+        "onboard_time": 1759303581,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 449066,
+        "num": 157984,
+        "word": "董卿 超有气质的漂亮姐姐",
+        "onboard_time": 1759304781,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412880,
+        "num": 155601,
+        "word": "国庆档票房前3",
+        "onboard_time": 1759301901,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 289164,
+        "num": 154329,
+        "word": "张予曦 今天的发型希望大家不要生气",
+        "onboard_time": 1759296020,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285064,
+        "num": 152556,
+        "word": "旺仔来了个销冠",
+        "onboard_time": 1759298600,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271034,
+        "num": 151067,
+        "word": "曝阮经天和小20岁女友交往超一年",
+        "onboard_time": 1759291101,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244766,
+        "num": 148617,
+        "word": "巴基斯坦男孩枪杀4名亲人被判100年",
+        "onboard_time": 1759305200,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 211166,
+        "num": 146450,
+        "word": "严浩翔定妆剧照",
+        "onboard_time": 1759307419,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222319,
+        "num": 145116,
+        "word": "韩国举行大规模阅兵仪式",
+        "onboard_time": 1759302080,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202004,
+        "num": 141794,
+        "word": "网传将门毒后确定迪丽热巴",
+        "onboard_time": 1759307720,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196263,
+        "num": 140338,
+        "word": "禁止挺胸夹背",
+        "onboard_time": 1759304180,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 182894,
+        "num": 138831,
+        "word": "27岁真的还很年轻很年轻",
+        "onboard_time": 1759307480,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137412,
+        "num": 137412,
+        "word": "19岁擅自离组短剧男主道歉",
+        "onboard_time": 1759298181,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77372,
+        "num": 131107,
+        "word": "社区回应两世仇村迎来世纪大和解",
+        "onboard_time": 1759306881,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130578,
+        "num": 130578,
+        "word": "短剧太奶奶3有自己的道明寺",
+        "onboard_time": 1759296861,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114209,
+        "num": 114209,
+        "word": "丁禹兮的马受惊失控",
+        "onboard_time": 1759300520,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109549,
+        "num": 109549,
+        "word": "辛芷蕾武训透着古早武侠味",
+        "onboard_time": 1759308320,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104847,
+        "num": 104847,
+        "word": "XG新阵容",
+        "onboard_time": 1759305860,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137127,
+        "num": 104742,
+        "word": "国庆七天赚到一个月生活费",
+        "onboard_time": 1759307419,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104437,
+        "num": 104437,
+        "word": "刘宇宁那英版我爱你中国",
+        "onboard_time": 1759299680,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101593,
+        "num": 101593,
+        "word": "内娱把三生三世拍出花了",
+        "onboard_time": 1759290560,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98967,
+        "num": 98967,
+        "word": "许凯只有我在大胆地害怕",
+        "onboard_time": 1759302920,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96201,
+        "num": 96201,
+        "word": "难道3和4之间还有整数",
+        "onboard_time": 1759307840,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95697,
+        "num": 95697,
+        "word": "张极 打火极",
+        "onboard_time": 1759305499,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94137,
+        "num": 94137,
+        "word": "朱一龙与89岁志愿军老兵观影",
+        "onboard_time": 1759299500,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87545,
+        "num": 93973,
+        "word": "男子自驾21小时称下次乖乖坐高铁",
+        "onboard_time": 1759306161,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80897,
+        "num": 93794,
+        "word": "2亿烂尾楼改酒店3688元套房被订",
+        "onboard_time": 1759307720,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41002,
+        "num": 93445,
+        "word": "蜜雪冰城门店被曝多只老鼠横行",
+        "onboard_time": 1759307181,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46084,
+        "num": 93116,
+        "word": "谁懂一人有难全家出动的含金量",
+        "onboard_time": 1759307120,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93009,
+        "num": 93009,
+        "word": "有人深圳出发15小时还没出广东",
+        "onboard_time": 1759297161,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91580,
+        "num": 91580,
+        "word": "张泽禹 舌钉",
+        "onboard_time": 1759308261,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89314,
+        "num": 89314,
+        "word": "Jiejie恢复自由人身份",
+        "onboard_time": 1759304359,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80183,
+        "num": 88105,
+        "word": "美防长宣布不许留须批评肥胖官兵",
+        "onboard_time": 1759307000,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32810,
+        "num": 87662,
+        "word": "网友曝鸡排哥童年照片被指不妥",
+        "onboard_time": 1759307000,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87343,
+        "num": 87343,
+        "word": "黄友政陈熠3比0日本组合",
+        "onboard_time": 1759306820,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86551,
+        "num": 86551,
+        "word": "章若楠也用AI修图",
+        "onboard_time": 1759301721,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82226,
+        "num": 82226,
+        "word": "有综艺让中国菜扬眉吐气了",
+        "onboard_time": 1759308320,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82036,
+        "num": 82036,
+        "word": "鸡排家族有专属工作服了",
+        "onboard_time": 1759305621,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样谈爱国#"
+    }
+  }
+}
