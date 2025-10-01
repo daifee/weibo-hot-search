@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759304371724,
+  "endTime": 1759307628969,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -1171,6 +1171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 629922,
+      "num": 147922,
+      "word": "王楚钦再被判发球遮挡冤不冤",
+      "onboard_time": 1759303581,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 615736,
       "num": 615736,
       "word": "林允 水光后的针眼挺吓人",
@@ -2163,6 +2171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 411765,
+      "num": 127124,
+      "word": "董卿 超有气质的漂亮姐姐",
+      "onboard_time": 1759304781,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 409504,
       "num": 272600,
       "word": "漂亮的妈 争气的娃",
@@ -2241,6 +2257,14 @@
       "onboard_time": 1759119922,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 394351,
+      "num": 141737,
+      "word": "国庆档票房前3",
+      "onboard_time": 1759301901,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 394338,
@@ -2329,6 +2353,14 @@
       "onboard_time": 1759061662,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 382031,
+      "num": 382031,
+      "word": "吴艳妮假期重回90公斤",
+      "onboard_time": 1759301841,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 380102,
@@ -2745,14 +2777,6 @@
       "onboard_time": 1759113680,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 305157,
-      "num": 305157,
-      "word": "吴艳妮假期重回90公斤",
-      "onboard_time": 1759301841,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 302499,
@@ -3771,6 +3795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200369,
+      "num": 125290,
+      "word": "巴基斯坦男孩枪杀4名亲人被判100年",
+      "onboard_time": 1759305200,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 199997,
       "num": 219243,
       "word": "peanut不要哭",
@@ -4009,6 +4041,14 @@
       "onboard_time": 1759028959,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192981,
+      "num": 192981,
+      "word": "有人西贝点单200元实付0元",
+      "onboard_time": 1759306521,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192922,
@@ -4409,14 +4449,6 @@
       "onboard_time": 1759154841,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180591,
-      "num": 147922,
-      "word": "王楚钦再被判发球遮挡冤不冤",
-      "onboard_time": 1759303581,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 180439,
@@ -4985,6 +5017,14 @@
       "onboard_time": 1759110980,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163592,
+      "num": 125040,
+      "word": "严浩翔定妆剧照",
+      "onboard_time": 1759307419,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 163121,
@@ -5987,14 +6027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141737,
-      "num": 141737,
-      "word": "国庆档票房前3",
-      "onboard_time": 1759301901,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 141468,
       "num": 141468,
       "word": "李斯丹妮鼻子上贴了12颗金钻",
@@ -6089,6 +6121,14 @@
       "onboard_time": 1759301001,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140217,
+      "num": 124259,
+      "word": "XG新阵容",
+      "onboard_time": 1759305860,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 140153,
@@ -6465,6 +6505,14 @@
       "onboard_time": 1759063462,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133292,
+      "num": 133292,
+      "word": "辛纳中网夺冠",
+      "onboard_time": 1759305680,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 133085,
@@ -7443,6 +7491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120781,
+      "num": 120781,
+      "word": "禁止挺胸夹背",
+      "onboard_time": 1759304180,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 120760,
       "num": 120760,
       "word": "LPL冠军臻彩",
@@ -7745,6 +7801,14 @@
       "onboard_time": 1758987322,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116499,
+      "num": 116499,
+      "word": "张极 打火极",
+      "onboard_time": 1759305499,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 116477,
@@ -8289,6 +8353,14 @@
       "onboard_time": 1759127901,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109436,
+      "num": 109436,
+      "word": "27岁真的还很年轻很年轻",
+      "onboard_time": 1759307480,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 109419,
@@ -9867,6 +9939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 88161,
+      "num": 88161,
+      "word": "鸡排家族有专属工作服了",
+      "onboard_time": 1759305621,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87806,
       "num": 87806,
       "word": "小猫会伸手要抱抱",
@@ -9947,6 +10027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86358,
+      "num": 86358,
+      "word": "感觉车站有一亿人",
+      "onboard_time": 1759307360,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86314,
       "num": 132619,
       "word": "第一次见剧宣害羞成这样的男女主",
@@ -10011,6 +10099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85851,
+      "num": 85851,
+      "word": "国庆七天赚到一个月生活费",
+      "onboard_time": 1759307419,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85440,
       "num": 85440,
       "word": "8天布置了800天的作业量",
@@ -10041,6 +10137,14 @@
       "onboard_time": 1758978020,
       "rank": 46,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 85123,
+      "num": 85123,
+      "word": "方家翊带75岁父亲到江西方家村寻根",
+      "onboard_time": 1759304600,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 85039,
@@ -10121,6 +10225,14 @@
       "onboard_time": 1759116319,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 83035,
+      "num": 83035,
+      "word": "黄友政陈熠3比0日本组合",
+      "onboard_time": 1759306820,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 83008,
@@ -10409,6 +10521,14 @@
       "onboard_time": 1759223360,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77562,
+      "num": 77562,
+      "word": "张天爱大白桃身而为贼我很抱歉",
+      "onboard_time": 1759306460,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 77525,
@@ -10737,6 +10857,14 @@
       "onboard_time": 1759037842,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66788,
+      "num": 117086,
+      "word": "谁懂一人有难全家出动的含金量",
+      "onboard_time": 1759307120,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 65938,
@@ -12011,6 +12139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32985,
+      "num": 88371,
+      "word": "蜜雪冰城门店被曝多只老鼠横行",
+      "onboard_time": 1759307181,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32312,
       "num": 122356,
       "word": "北大毕业生选择去职校当老师",
@@ -12048,6 +12184,14 @@
       "word": "在郑州被文化自信燃到了",
       "onboard_time": 1759219339,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29846,
+      "num": 88646,
+      "word": "网友曝鸡排哥童年照片被指不妥",
+      "onboard_time": 1759307000,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -12459,6 +12603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20556,
+      "num": 125810,
+      "word": "社区回应两世仇村迎来世纪大和解",
+      "onboard_time": 1759306881,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20438,
       "num": 763523,
       "word": "我把美丽中国唱给你听",
@@ -12611,6 +12763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14038,
+      "num": 89139,
+      "word": "美防长宣布不许留须批评肥胖官兵",
+      "onboard_time": 1759307000,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 13818,
       "num": 18191,
       "word": "中国每一秒都在前进",
@@ -12715,6 +12875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 7165,
+      "num": 382412,
+      "word": "新中国成立76周年",
+      "onboard_time": 1759307541,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 513,
       "num": 611167,
       "word": "我们皆是护旗手",
@@ -12768,6 +12936,9 @@
     },
     {
       "word": "#追光的你#"
+    },
+    {
+      "word": "#中国一定行中国一定能#"
     }
   ]
 }
