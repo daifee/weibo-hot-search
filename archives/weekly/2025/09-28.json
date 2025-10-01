@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759344508771,
+  "endTime": 1759346458248,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -7075,6 +7075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135537,
+      "num": 68657,
+      "word": "陈伟霆称开始不敢接霸总戏",
+      "onboard_time": 1759340297,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135366,
       "num": 135366,
       "word": "国庆中秋OOTD",
@@ -8513,14 +8521,6 @@
       "onboard_time": 1759129281,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 118943,
-      "num": 68657,
-      "word": "陈伟霆称开始不敢接霸总戏",
-      "onboard_time": 1759340297,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 118707,
@@ -14011,6 +14011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22567,
+      "num": 44972,
+      "word": "阅兵后劲太太太大了",
+      "onboard_time": 1759343356,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22473,
       "num": 32464,
       "word": "00后女大学生帮老人收完玉米就跑",
@@ -14187,6 +14195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 17935,
+      "num": 23710,
+      "word": "国旗护卫队升旗手王皓天亮相",
+      "onboard_time": 1759337421,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 17834,
       "num": 122348,
       "word": "多名网友称公司发半块月饼当福利",
@@ -14201,14 +14217,6 @@
       "onboard_time": 1759172474,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 17021,
-      "num": 44972,
-      "word": "阅兵后劲太太太大了",
-      "onboard_time": 1759343356,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16680,
