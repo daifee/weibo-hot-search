@@ -1,6 +1,6 @@
 {
   "startTime": 1759336314340,
-  "endTime": 1759340414139,
+  "endTime": 1759343782198,
   "band_list": [
     {
       "raw_hot": 917837,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151160,
+      "num": 118113,
+      "word": "在王力宏演唱会被鹿晗认出来了",
+      "onboard_time": 1759332679,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 150034,
       "num": 129966,
       "word": "迪奥大秀",
@@ -211,12 +219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137031,
-      "num": 118113,
-      "word": "在王力宏演唱会被鹿晗认出来了",
-      "onboard_time": 1759332679,
-      "rank": 26,
-      "category": "演出"
+      "raw_hot": 140878,
+      "num": 100650,
+      "word": "高铁1分钟换乘",
+      "onboard_time": 1759338797,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114644,
@@ -249,6 +257,14 @@
       "onboard_time": 1759327702,
       "rank": 27,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 97477,
+      "num": 68657,
+      "word": "陈伟霆称开始不敢接霸总戏",
+      "onboard_time": 1759340297,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 94700,
@@ -387,14 +403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56617,
-      "num": 100650,
-      "word": "高铁1分钟换乘",
-      "onboard_time": 1759338797,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55087,
       "num": 68568,
       "word": "贺峻霖到时候番位你咋安排",
@@ -475,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30231,
-      "num": 68657,
-      "word": "陈伟霆称开始不敢接霸总戏",
-      "onboard_time": 1759340297,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 26868,
       "num": 68546,
       "word": "惠英红出发巴黎时装周少年感",
@@ -496,6 +496,22 @@
       "word": "对祖国的爱永远滚烫赤诚",
       "onboard_time": 1759318221,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 17052,
+      "num": 44985,
+      "word": "严浩翔 试试我的新相机",
+      "onboard_time": 1759329562,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 17021,
+      "num": 44972,
+      "word": "阅兵后劲太太太大了",
+      "onboard_time": 1759343356,
+      "rank": 48,
       "category": "国内时政"
     }
   ],
