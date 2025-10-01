@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759311679642,
+  "endTime": 1759314465040,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -587,6 +587,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 900556,
+      "num": 1144089,
+      "word": "郑州方特跳楼机高空悬停七八分钟",
+      "onboard_time": 1759308681,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 889022,
       "num": 1142243,
       "word": "青岛保时捷女销售9月再夺销冠",
@@ -763,12 +771,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 811383,
+      "num": 811383,
+      "word": "蜜雪冰城门店 老鼠横行",
+      "onboard_time": 1759308980,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 809386,
       "num": 809386,
       "word": "女子提前出发睡服务区省1400元",
       "onboard_time": 1759231461,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 808399,
+      "num": 221268,
+      "word": "许我耀眼",
+      "onboard_time": 1758980002,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 804582,
@@ -939,14 +963,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 720602,
-      "num": 221268,
-      "word": "许我耀眼",
-      "onboard_time": 1758980002,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 717967,
       "num": 292922,
       "word": "官员买500斤散装白酒放单位公务接待",
@@ -1097,14 +1113,6 @@
       "onboard_time": 1759206381,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 659927,
-      "num": 659927,
-      "word": "蜜雪冰城门店 老鼠横行",
-      "onboard_time": 1759308980,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 655054,
@@ -2067,6 +2075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 446685,
+      "num": 147763,
+      "word": "许我耀眼云合31.7%",
+      "onboard_time": 1759313540,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 443278,
       "num": 443278,
       "word": "河北天空",
@@ -2531,6 +2547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 358600,
+      "num": 358600,
+      "word": "您已进入鸡排大道请打开您的塑料袋",
+      "onboard_time": 1759312820,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356024,
       "num": 169761,
       "word": "辛芷蕾回应庆余年3",
@@ -2716,7 +2740,7 @@
     },
     {
       "raw_hot": 318690,
-      "num": 158468,
+      "num": 189512,
       "word": "韩国举行大规模阅兵仪式",
       "onboard_time": 1759302080,
       "rank": 20,
@@ -2819,20 +2843,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307068,
+      "num": 147309,
+      "word": "小众但是月入过万的工作",
+      "onboard_time": 1759312221,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 306350,
       "num": 306350,
       "word": "千里寻椰回应被烧伤",
       "onboard_time": 1759113680,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 305594,
-      "num": 305594,
-      "word": "郑州方特跳楼机高空悬停七八分钟",
-      "onboard_time": 1759308681,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 302499,
@@ -2937,6 +2961,14 @@
       "onboard_time": 1759150461,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292524,
+      "num": 143681,
+      "word": "二婚妻子不满丈夫摆烂打牌怒卖房",
+      "onboard_time": 1759311080,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290947,
@@ -3769,6 +3801,14 @@
       "onboard_time": 1759107741,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207610,
+      "num": 140419,
+      "word": "杨超越找工作找到女团去了",
+      "onboard_time": 1759314140,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 207411,
@@ -5043,6 +5083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166328,
+      "num": 138539,
+      "word": "蜜雪冰城门店回应多只老鼠横行",
+      "onboard_time": 1759311080,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166056,
       "num": 155821,
       "word": "唱跳都不基础的朵朵",
@@ -5121,6 +5169,14 @@
       "onboard_time": 1759110980,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163595,
+      "num": 121879,
+      "word": "金马奖",
+      "onboard_time": 1759314260,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 163121,
@@ -6147,6 +6203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141643,
+      "num": 141643,
+      "word": "我国有望2030年用核聚变发电",
+      "onboard_time": 1759313479,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141468,
       "num": 141468,
       "word": "李斯丹妮鼻子上贴了12颗金钻",
@@ -6419,6 +6483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136667,
+      "num": 136667,
+      "word": "郑州方特回应跳楼机高空载客悬停",
+      "onboard_time": 1759311740,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136436,
       "num": 136436,
       "word": "英国寄来的猫咪听不懂中文",
@@ -6601,6 +6673,14 @@
       "onboard_time": 1759135581,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133655,
+      "num": 133655,
+      "word": "蔡文静在巴黎火成这样了",
+      "onboard_time": 1759311441,
+      "rank": 42,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 133539,
@@ -7203,6 +7283,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 126213,
+      "num": 126213,
+      "word": "王楚钦发球被罚分未被干扰",
+      "onboard_time": 1759312461,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126202,
       "num": 126202,
       "word": "李昀锐半裸镜头",
@@ -7403,14 +7491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123516,
-      "num": 123516,
-      "word": "蜜雪冰城门店回应多只老鼠横行",
-      "onboard_time": 1759311080,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123487,
       "num": 123487,
       "word": "什么是假性友谊",
@@ -7553,6 +7633,22 @@
       "onboard_time": 1758977842,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121881,
+      "num": 121881,
+      "word": "第一天出去旅游的人已经老实",
+      "onboard_time": 1759311982,
+      "rank": 29,
+      "category": "幽默,旅游"
+    },
+    {
+      "raw_hot": 121791,
+      "num": 121791,
+      "word": "王楚钦林诗栋vs卡尔森法尔克",
+      "onboard_time": 1759314081,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 121749,
@@ -7801,6 +7897,14 @@
       "onboard_time": 1759129281,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 118796,
+      "num": 118796,
+      "word": "网传肖战小城良方10月10号锦州开机",
+      "onboard_time": 1759312461,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 118707,
@@ -8443,20 +8547,20 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 109991,
+      "num": 109991,
+      "word": "李沁花少灵珠新剧魔丸",
+      "onboard_time": 1759312700,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109917,
       "num": 109917,
       "word": "余承东祝用户节日快乐",
       "onboard_time": 1759115839,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 109789,
-      "num": 109789,
-      "word": "二婚妻子不满丈夫摆烂打牌怒卖房",
-      "onboard_time": 1759311080,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 109682,
@@ -9211,6 +9315,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 101754,
+      "num": 101754,
+      "word": "Knight说自己职业打不到30岁",
+      "onboard_time": 1759312520,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101626,
       "num": 157041,
       "word": "央视给孙颖莎整活了",
@@ -9265,6 +9377,14 @@
       "onboard_time": 1759130540,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101181,
+      "num": 101181,
+      "word": "金靖一句话让关晓彤陷入自我怀疑",
+      "onboard_time": 1759311799,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 101160,
@@ -9403,6 +9523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99296,
+      "num": 99296,
+      "word": "时代少年团周边",
+      "onboard_time": 1759312760,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99282,
       "num": 99282,
       "word": "陈楚生一开口湾区变江湖",
@@ -9459,14 +9587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98389,
-      "num": 98389,
-      "word": "蔡文静在巴黎火成这样了",
-      "onboard_time": 1759311441,
-      "rank": 42,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 98350,
       "num": 106861,
       "word": "第一次见全是单间的卧铺动车",
@@ -9513,6 +9633,14 @@
       "onboard_time": 1759193360,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 97846,
+      "num": 97846,
+      "word": "沈皓明承认弟弟是私生子",
+      "onboard_time": 1759314440,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 97795,
@@ -9833,6 +9961,22 @@
       "onboard_time": 1759209982,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 92990,
+      "num": 92990,
+      "word": "第一次想用恐怖来形容天赋",
+      "onboard_time": 1759312342,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 92683,
+      "num": 92683,
+      "word": "杭州西湖断桥再现最美人墙",
+      "onboard_time": 1759313241,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92644,
@@ -10883,6 +11027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73031,
+      "num": 423409,
+      "word": "国庆升旗高清大图",
+      "onboard_time": 1759309280,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72993,
       "num": 124145,
       "word": "北大哲学系系主任谈文科无用论",
@@ -11041,14 +11193,6 @@
       "onboard_time": 1759029499,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 68517,
-      "num": 423409,
-      "word": "国庆升旗高清大图",
-      "onboard_time": 1759309280,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 68427,
@@ -11971,6 +12115,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 46040,
+      "num": 103180,
+      "word": "王楚钦小脸憋得鼓鼓的",
+      "onboard_time": 1759313899,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44815,
       "num": 144420,
       "word": "文化人讲脱口秀就是高级",
@@ -12312,6 +12464,14 @@
       "word": "西贝嫩烤大黄鱼仍使用冷冻食材",
       "onboard_time": 1759297161,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36314,
+      "num": 90575,
+      "word": "鸡排侄也来给鸡排哥帮忙了",
+      "onboard_time": 1759312820,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
