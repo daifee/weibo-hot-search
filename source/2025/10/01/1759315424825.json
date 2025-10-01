@@ -1,0 +1,410 @@
+{
+  "runTime": 1759315424825,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 889660,
+        "num": 1142345,
+        "word": "郑州方特跳楼机高空悬停七八分钟",
+        "onboard_time": 1759308681,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 819215,
+        "num": 819215,
+        "word": "蜜雪冰城门店 老鼠横行",
+        "onboard_time": 1759308980,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74441,
+        "num": 675090,
+        "word": "国庆升旗高清大图",
+        "onboard_time": 1759309280,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 543221,
+        "num": 543221,
+        "word": "您已进入鸡排大道请打开您的塑料袋",
+        "onboard_time": 1759312820,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532982,
+        "num": 532982,
+        "word": "小众但是月入过万的工作",
+        "onboard_time": 1759312221,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 339504,
+        "num": 339504,
+        "word": "2亿烂尾楼改酒店3688元套房被订",
+        "onboard_time": 1759307720,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235779,
+        "num": 235779,
+        "word": "我国有望2030年用核聚变发电",
+        "onboard_time": 1759313479,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231292,
+        "num": 231292,
+        "word": "韩国举行大规模阅兵仪式",
+        "onboard_time": 1759302080,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 227242,
+        "num": 227242,
+        "word": "鸡排哥被男子扯拽衣服要求站高点演讲",
+        "onboard_time": 1759276819,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208266,
+        "num": 227151,
+        "word": "国庆档票房前3",
+        "onboard_time": 1759301901,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1023919,
+        "num": 227018,
+        "word": "许我耀眼",
+        "onboard_time": 1759312042,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 920508,
+        "num": 226874,
+        "word": "迪奥 迪丽热巴",
+        "onboard_time": 1759302080,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 531495,
+        "num": 226632,
+        "word": "蒋欣经纪人看完天塌了",
+        "onboard_time": 1759300700,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 477643,
+        "num": 226477,
+        "word": "许我耀眼云合31.7%",
+        "onboard_time": 1759313540,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286083,
+        "num": 226330,
+        "word": "二婚妻子不满丈夫摆烂打牌怒卖房",
+        "onboard_time": 1759311080,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273134,
+        "num": 226227,
+        "word": "张泽禹 舌钉",
+        "onboard_time": 1759308261,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429148,
+        "num": 225986,
+        "word": "网传将门毒后确定迪丽热巴",
+        "onboard_time": 1759307720,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225957,
+        "num": 225957,
+        "word": "蜜雪冰城门店回应多只老鼠横行",
+        "onboard_time": 1759311080,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223244,
+        "num": 223244,
+        "word": "王楚钦再被判发球遮挡冤不冤",
+        "onboard_time": 1759303581,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185907,
+        "num": 218607,
+        "word": "杨超越找工作找到女团去了",
+        "onboard_time": 1759314140,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217589,
+        "num": 217589,
+        "word": "两小时剔骨80个鸡腿手都剔流血了",
+        "onboard_time": 1759314680,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213220,
+        "num": 213220,
+        "word": "沈皓明承认弟弟是私生子",
+        "onboard_time": 1759314440,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181889,
+        "num": 181889,
+        "word": "王楚钦林诗栋vs卡尔森法尔克",
+        "onboard_time": 1759314081,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165266,
+        "num": 165266,
+        "word": "鸡排哥周边摊主发声",
+        "onboard_time": 1759308501,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144055,
+        "num": 144055,
+        "word": "西贝降价首日不到12点满座",
+        "onboard_time": 1759314680,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139625,
+        "num": 139625,
+        "word": "第一天出去旅游的人已经老实",
+        "onboard_time": 1759311982,
+        "rank": 25,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 138172,
+        "num": 138172,
+        "word": "解放军位黄岩岛领海领空战备警巡",
+        "onboard_time": 1759309400,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137452,
+        "num": 137452,
+        "word": "网传肖战小城良方10月10号锦州开机",
+        "onboard_time": 1759312461,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132951,
+        "num": 132951,
+        "word": "女子救下20楼坠落女童后不敢看评论",
+        "onboard_time": 1759294819,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127739,
+        "num": 127739,
+        "word": "27岁真的还很年轻很年轻",
+        "onboard_time": 1759307480,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 455928,
+        "num": 127624,
+        "word": "金马奖",
+        "onboard_time": 1759314260,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127438,
+        "num": 127438,
+        "word": "麻辣鸡和CardiB线下约架",
+        "onboard_time": 1759308681,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115164,
+        "num": 115164,
+        "word": "闫妮魏大勋 国庆最忙的俩人",
+        "onboard_time": 1759314980,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114589,
+        "num": 114589,
+        "word": "安静公主瘦了好多",
+        "onboard_time": 1759315102,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114443,
+        "num": 114443,
+        "word": "蔡文静在巴黎火成这样了",
+        "onboard_time": 1759311441,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 105624,
+        "num": 105624,
+        "word": "刺杀小说家",
+        "onboard_time": 1759310660,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104738,
+        "num": 104738,
+        "word": "21岁瘦了30斤的真实感受",
+        "onboard_time": 1759314501,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104005,
+        "num": 104005,
+        "word": "董卿 超有气质的漂亮姐姐",
+        "onboard_time": 1759304781,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70487,
+        "num": 103565,
+        "word": "马龙樊振东奥运神同步",
+        "onboard_time": 1759315340,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101991,
+        "num": 103244,
+        "word": "GALA鼓励粉丝",
+        "onboard_time": 1759315102,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103239,
+        "num": 103239,
+        "word": "郑州方特回应跳楼机高空载客悬停",
+        "onboard_time": 1759311740,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103076,
+        "num": 103076,
+        "word": "断糖30天的身体变化",
+        "onboard_time": 1759310000,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102951,
+        "num": 102951,
+        "word": "曝阮经天和小20岁女友交往超一年",
+        "onboard_time": 1759291101,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101283,
+        "num": 101283,
+        "word": "李沁花少灵珠新剧魔丸",
+        "onboard_time": 1759312700,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101254,
+        "num": 101254,
+        "word": "金晨被胡先煦抓来跳技能五子棋了",
+        "onboard_time": 1759315340,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92214,
+        "num": 92214,
+        "word": "严浩翔定妆剧照",
+        "onboard_time": 1759307419,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51686,
+        "num": 90659,
+        "word": "王楚钦小脸憋得鼓鼓的",
+        "onboard_time": 1759313899,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89679,
+        "num": 89679,
+        "word": "发朋友圈之前先屏蔽掉你喜欢的人",
+        "onboard_time": 1759313661,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89292,
+        "num": 89292,
+        "word": "张予曦 今天的发型希望大家不要生气",
+        "onboard_time": 1759296020,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88812,
+        "num": 88812,
+        "word": "Knight说自己职业打不到30岁",
+        "onboard_time": 1759312520,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国一定行中国一定能#"
+    }
+  }
+}
