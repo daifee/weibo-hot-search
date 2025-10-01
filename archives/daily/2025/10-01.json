@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759290982997,
+  "endTime": 1759292990154,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -48,6 +48,14 @@
       "word": "K字签证不能与移民划等号",
       "onboard_time": 1759247721,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 859774,
+      "num": 859774,
+      "word": "山姆99.9元零食 好特卖39.9",
+      "onboard_time": 1759289900,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -99,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 656206,
+      "num": 271683,
+      "word": "曝阮经天和小20岁女友交往超一年",
+      "onboard_time": 1759291101,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 628788,
       "num": 238126,
       "word": "张维伊回应继女改口",
@@ -121,6 +137,14 @@
       "onboard_time": 1759230981,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 502234,
+      "num": 502234,
+      "word": "意大利宣布不再为加沙救援船队护航",
+      "onboard_time": 1759287979,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 474998,
@@ -147,20 +171,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 449072,
+      "num": 252769,
+      "word": "这居然是周峻纬",
+      "onboard_time": 1759290320,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 445222,
+      "num": 251056,
+      "word": "内娱把三生三世拍出花了",
+      "onboard_time": 1759290560,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 429669,
       "num": 429669,
       "word": "校方称9人轮流睡8张床最公平",
       "onboard_time": 1759243522,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 417775,
-      "num": 417775,
-      "word": "意大利宣布不再为加沙救援船队护航",
-      "onboard_time": 1759287979,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 417008,
@@ -219,16 +251,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 357881,
-      "num": 251733,
-      "word": "山姆99.9元零食 好特卖39.9",
-      "onboard_time": 1759289900,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 346043,
-      "num": 232078,
+      "num": 241909,
       "word": "TF家族男团在湖南秋晚三代同台",
       "onboard_time": 1759285759,
       "rank": 13,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 296499,
-      "num": 183460,
+      "num": 201467,
       "word": "彭高和翁青雅刚官宣一个月就分手",
       "onboard_time": 1759288340,
       "rank": 34,
@@ -281,6 +305,14 @@
       "onboard_time": 1759275559,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 274464,
+      "num": 274464,
+      "word": "美政府关门",
+      "onboard_time": 1759292419,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 270941,
@@ -345,6 +377,14 @@
       "onboard_time": 1759242442,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 216553,
+      "num": 216553,
+      "word": "林高远vs梁靖崑",
+      "onboard_time": 1759291340,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 214147,
@@ -419,6 +459,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 193804,
+      "num": 193804,
+      "word": "当事人确认爬泰山导盲犬被接回基地",
+      "onboard_time": 1759289299,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190328,
+      "num": 190328,
+      "word": "主办方请沈佳润就好她爹会跟着去的",
+      "onboard_time": 1759291041,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 182826,
       "num": 171091,
       "word": "iPhone11ProMax被列为复古产品",
@@ -427,12 +483,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 182468,
-      "num": 182468,
-      "word": "当事人确认爬泰山导盲犬被接回基地",
-      "onboard_time": 1759289299,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 179113,
+      "num": 179113,
+      "word": "北电第一选择挑战中传第一",
+      "onboard_time": 1759292061,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175379,
+      "num": 175379,
+      "word": "爱奇艺10月待播剧综",
+      "onboard_time": 1759291820,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 167385,
@@ -441,6 +505,14 @@
       "onboard_time": 1759245261,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166815,
+      "num": 166815,
+      "word": "三婚就是比前两次会挑时候",
+      "onboard_time": 1759290440,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 166567,
@@ -457,14 +529,6 @@
       "onboard_time": 1759231642,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164962,
-      "num": 164962,
-      "word": "这居然是周峻纬",
-      "onboard_time": 1759290320,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 163228,
@@ -496,6 +560,14 @@
       "word": "曝方媛已产下第三胎",
       "onboard_time": 1759241541,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152519,
+      "num": 152519,
+      "word": "陈赫张子萱挽手逛街",
+      "onboard_time": 1759292302,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -579,12 +651,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129761,
+      "num": 129761,
+      "word": "我爱你中国是信念也是誓言",
+      "onboard_time": 1759290258,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126676,
       "num": 126676,
       "word": "如益cp官宣后发文",
       "onboard_time": 1759279159,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125719,
+      "num": 125719,
+      "word": "山姆回应同款零食好特卖便宜60元",
+      "onboard_time": 1759292361,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125663,
@@ -635,14 +723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 119467,
-      "num": 119467,
-      "word": "内娱把三生三世拍出花了",
-      "onboard_time": 1759290560,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114015,
       "num": 114015,
       "word": "陈哲远真不拿我当外人",
@@ -659,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113253,
+      "num": 113253,
+      "word": "湖南国补",
+      "onboard_time": 1759290381,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111885,
       "num": 111885,
       "word": "27岁发现自己年龄有点严肃了",
@@ -667,20 +755,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110561,
+      "num": 110561,
+      "word": "西贝",
+      "onboard_time": 1759291521,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109334,
+      "num": 109334,
+      "word": "妈妈给男孩喝了一口糖竟致呕吐晕厥",
+      "onboard_time": 1759292900,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107516,
+      "num": 107516,
+      "word": "周震南说自己是被迫当R1SE队长的",
+      "onboard_time": 1759291521,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106663,
+      "num": 106663,
+      "word": "檀健次要进组了",
+      "onboard_time": 1759291521,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105906,
       "num": 105906,
       "word": "全红婵发跳水动态",
       "onboard_time": 1759245443,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105380,
-      "num": 105380,
-      "word": "湖南国补",
-      "onboard_time": 1759290381,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 103728,
@@ -699,6 +811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 101335,
+      "num": 101335,
+      "word": "祝福伟大祖国繁荣富强",
+      "onboard_time": 1759291641,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 101051,
       "num": 94039,
       "word": "普通女生苦练化妆技术的下场",
@@ -707,20 +827,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 100397,
-      "num": 100397,
-      "word": "我爱你中国是信念也是誓言",
-      "onboard_time": 1759290258,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 100252,
       "num": 100252,
       "word": "鹿晗回应力宏鹿晗联合厉害",
       "onboard_time": 1759286960,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 99347,
+      "num": 99347,
+      "word": "特朗普考虑让战列舰回归海军",
+      "onboard_time": 1759292361,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97793,
@@ -769,14 +889,6 @@
       "onboard_time": 1759232424,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87118,
-      "num": 101076,
-      "word": "三婚就是比前两次会挑时候",
-      "onboard_time": 1759290440,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 86415,
@@ -977,6 +1089,14 @@
       "onboard_time": 1759253176,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67762,
+      "num": 102315,
+      "word": "美国男子杀孔雀后寄信描述烹煮过程",
+      "onboard_time": 1759291400,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 67652,
@@ -1195,12 +1315,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27793,
+      "num": 671219,
+      "word": "家书中满溢炽热家国情怀",
+      "onboard_time": 1759292000,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26300,
       "num": 30045,
       "word": "王源新歌唱出家国情怀",
       "onboard_time": 1759256656,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 25147,
+      "num": 201973,
+      "word": "十一假期天气图鉴",
+      "onboard_time": 1759291941,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24335,
@@ -1233,6 +1369,14 @@
       "onboard_time": 1759246822,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15831,
+      "num": 111565,
+      "word": "钟楚曦短发大背头",
+      "onboard_time": 1759292659,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 14446,
@@ -1270,6 +1414,9 @@
   "hotgov_list": [
     {
       "word": "#向全国各族人民致以节日祝贺#"
+    },
+    {
+      "word": "#追光的你#"
     }
   ]
 }
