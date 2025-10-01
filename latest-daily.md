@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/02 00:31:54 ~ 2025/10/02 01:23:15
+本榜单时间：2025/10/02 00:31:54 ~ 2025/10/02 01:40:14
 </p>
 </blockquote>
 <p>
@@ -69,14 +69,14 @@ G3754次列车因买短乘长超员临停（热度：644464）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AE%A9%E8%AE%B0%E8%80%85%E6%8F%90%E9%97%AE%E5%AD%99%E9%A2%96%E8%8E%8E%23" target="weibo">
-王楚钦让记者提问孙颖莎（热度：333864）
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%96%B9%E7%89%B9%E9%81%93%E6%AD%89%23" target="weibo">
+郑州方特道歉（热度：337216）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%96%B9%E7%89%B9%E9%81%93%E6%AD%89%23" target="weibo">
-郑州方特道歉（热度：316845）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AE%A9%E8%AE%B0%E8%80%85%E6%8F%90%E9%97%AE%E5%AD%99%E9%A2%96%E8%8E%8E%23" target="weibo">
+王楚钦让记者提问孙颖莎（热度：333864）
 </a>
 </li>
 
@@ -123,6 +123,12 @@ G3754次列车因买短乘长超员临停（热度：644464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%A4%A7%E9%81%93%E4%B8%BA%E8%BF%8E%E5%9B%BD%E5%BA%86%E6%8A%8A%E8%B7%AF%E9%93%BA%E5%B9%B3%E4%BA%86%23" target="weibo">
+鸡排大道为迎国庆把路铺平了（热度：216875）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E8%A3%81%E5%88%A4%E6%9C%80%E5%A4%A7%23" target="weibo">
 王楚钦说裁判最大（热度：203419）
 </a>
@@ -165,14 +171,8 @@ G3754次列车因买短乘长超员临停（热度：644464）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%A4%A7%E9%81%93%E4%B8%BA%E8%BF%8E%E5%9B%BD%E5%BA%86%E6%8A%8A%E8%B7%AF%E9%93%BA%E5%B9%B3%E4%BA%86%23" target="weibo">
-鸡排大道为迎国庆把路铺平了（热度：122747）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E9%B9%BF%E6%99%97%E8%AE%A4%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
-在王力宏演唱会被鹿晗认出来了（热度：118113）
+在王力宏演唱会被鹿晗认出来了（热度：137031）
 </a>
 </li>
 
@@ -213,14 +213,14 @@ iG与T1决定TES抽签池（热度：94700）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E4%B9%90%E8%BF%9Ccp%23" target="weibo">
-偶遇乐远cp（热度：84612）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%87%8C%E6%99%A8%E4%BA%94%E7%82%B9%E5%A4%A9%E5%AE%89%E9%97%A8%E7%9C%8B%E5%8D%87%E6%97%97%23" target="weibo">
+卢昱晓凌晨五点天安门看升旗（热度：86845）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%87%8C%E6%99%A8%E4%BA%94%E7%82%B9%E5%A4%A9%E5%AE%89%E9%97%A8%E7%9C%8B%E5%8D%87%E6%97%97%23" target="weibo">
-卢昱晓凌晨五点天安门看升旗（热度：82217）
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E4%B9%90%E8%BF%9Ccp%23" target="weibo">
+偶遇乐远cp（热度：84612）
 </a>
 </li>
 
@@ -303,6 +303,12 @@ iG与T1决定TES抽签池（热度：94700）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%811%E5%88%86%E9%92%9F%E6%8D%A2%E4%B9%98%23" target="weibo">
+高铁1分钟换乘（热度：56617）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%88%B0%E6%97%B6%E5%80%99%E7%95%AA%E4%BD%8D%E4%BD%A0%E5%92%8B%E5%AE%89%E6%8E%92%23" target="weibo">
 贺峻霖到时候番位你咋安排（热度：55087）
 </a>
@@ -334,25 +340,43 @@ iG与T1决定TES抽签池（热度：94700）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%9B%B4%E8%A8%80%E8%AF%B4%E4%B8%8D%E5%8A%A8%E8%AF%9D%E4%BA%86%23" target="weibo">
-王楚钦直言说不动话了（热度：44437）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%811%E5%88%86%E9%92%9F%E6%8D%A2%E4%B9%98%23" target="weibo">
-高铁1分钟换乘（热度：39206）
+王楚钦直言说不动话了（热度：44612）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BD%AE%E6%B5%81%E7%BB%B4%E6%8C%81%E9%B8%A1%E6%8E%92%E5%93%A5%E6%91%8A%E4%BD%8D%E7%A7%A9%E5%BA%8F%23" target="weibo">
-12名大学生轮流维持鸡排哥摊位秩序（热度：33312）
+12名大学生轮流维持鸡排哥摊位秩序（热度：35503）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A9%AC%E5%A5%96%23" target="weibo">
 金马奖（热度：31698）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%8D%8E%E6%99%A8%E5%AE%87%E5%85%B1%E5%BB%BA%E7%81%AB%E6%98%9F%E4%B9%8C%E6%89%98%E9%82%A6%23" target="weibo">
+和华晨宇共建火星乌托邦（热度：31691）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BD%8E%E4%BB%B7%E4%B9%B02500%E5%85%83%E8%A5%BF%E8%B4%9D%E4%BB%A3%E9%87%91%E5%88%B8%E6%97%A0%E6%B3%95%E7%94%A8%23" target="weibo">
+男子低价买2500元西贝代金券无法用（热度：30751）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E7%A7%B0%E5%BC%80%E5%A7%8B%E4%B8%8D%E6%95%A2%E6%8E%A5%E9%9C%B8%E6%80%BB%E6%88%8F%23" target="weibo">
+陈伟霆称开始不敢接霸总戏（热度：30231）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%E5%87%BA%E5%8F%91%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%E5%B0%91%E5%B9%B4%E6%84%9F%23" target="weibo">
+惠英红出发巴黎时装周少年感（热度：26868）
 </a>
 </li>
 

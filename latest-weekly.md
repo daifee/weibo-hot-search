@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/10/02 01:23:15
+本榜单时间：2025/09/28 00:27:59 ~ 2025/10/02 01:40:14
 </p>
 </blockquote>
 <p>
@@ -2199,6 +2199,12 @@ TF家族男团在湖南秋晚三代同台（热度：346043）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%96%B9%E7%89%B9%E9%81%93%E6%AD%89%23" target="weibo">
+郑州方特道歉（热度：337216）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%8F%90%E5%89%8D%E5%87%BA%E5%8F%91%E7%9A%84%E5%A4%A7%E8%81%AA%E6%98%8E%E5%B7%B2%E5%A0%B5%E8%B7%AF%E4%B8%8A%23" target="weibo">
 国庆提前出发的大聪明已堵路上（热度：336498）
 </a>
@@ -2285,12 +2291,6 @@ TF家族男团在湖南秋晚三代同台（热度：346043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%868%E5%A4%A9%E5%AE%89%E6%8E%92%23" target="weibo">
 中秋国庆8天安排（热度：317649）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%96%B9%E7%89%B9%E9%81%93%E6%AD%89%23" target="weibo">
-郑州方特道歉（热度：316845）
 </a>
 </li>
 
@@ -2993,6 +2993,12 @@ iG与T1决定TES抽签池（热度：224054）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%B0%8F%E6%97%B6%E5%89%94%E9%AA%A880%E4%B8%AA%E9%B8%A1%E8%85%BF%E6%89%8B%E9%83%BD%E5%89%94%E6%B5%81%E8%A1%80%E4%BA%86%23" target="weibo">
 两小时剔骨80个鸡腿手都剔流血了（热度：217589）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%A4%A7%E9%81%93%E4%B8%BA%E8%BF%8E%E5%9B%BD%E5%BA%86%E6%8A%8A%E8%B7%AF%E9%93%BA%E5%B9%B3%E4%BA%86%23" target="weibo">
+鸡排大道为迎国庆把路铺平了（热度：216875）
 </a>
 </li>
 
@@ -5211,6 +5217,12 @@ WTT北满混双头号种子爆冷出局（热度：139310）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E9%B9%BF%E6%99%97%E8%AE%A4%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
+在王力宏演唱会被鹿晗认出来了（热度：137031）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E4%B8%8D%E9%80%82%E5%90%88%E5%BD%93%E8%80%81%E5%B8%88%E9%80%82%E5%90%88%E5%BD%93%E8%80%81%E5%85%AC%23" target="weibo">
 刘宇宁不适合当老师适合当老公（热度：136953）
 </a>
@@ -6117,12 +6129,6 @@ Dior春夏秀明星阵容（热度：123093）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%A4%A7%E9%81%93%E4%B8%BA%E8%BF%8E%E5%9B%BD%E5%BA%86%E6%8A%8A%E8%B7%AF%E9%93%BA%E5%B9%B3%E4%BA%86%23" target="weibo">
-鸡排大道为迎国庆把路铺平了（热度：122747）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B3%E6%AF%941%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85%23" target="weibo">
 林诗栋3比1户上隼辅（热度：122653）
 </a>
@@ -6413,12 +6419,6 @@ LPL冠军臻彩（热度：120760）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%20%E4%BB%80%E4%B9%88%E8%A1%A3%E6%9C%8D%E8%BF%99%E4%B9%88%E9%9A%BE%E7%9C%8B%23" target="weibo">
 刘涛 什么衣服这么难看（热度：118193）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E9%B9%BF%E6%99%97%E8%AE%A4%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
-在王力宏演唱会被鹿晗认出来了（热度：118113）
 </a>
 </li>
 
@@ -9549,6 +9549,12 @@ NBA媒体日（热度：59886）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%811%E5%88%86%E9%92%9F%E6%8D%A2%E4%B9%98%23" target="weibo">
+高铁1分钟换乘（热度：56617）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E7%8B%A0%E6%89%B9%E9%9E%AD%E6%89%93%E5%BF%AB%E7%89%9B%E6%98%AF%E8%81%8C%E5%9C%BA%E9%9C%B8%E5%87%8C%23" target="weibo">
 官方狠批鞭打快牛是职场霸凌（热度：56606）
 </a>
@@ -9867,14 +9873,14 @@ JDG秋季赛夺冠（热度：56505）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%8C%85%E5%9C%BA%E6%94%AF%E6%8C%81%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%8E%8B%E5%AE%89%E5%AE%87%23" target="weibo">
-宋雨琦包场支持范丞丞王安宇（热度：44481）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%9B%B4%E8%A8%80%E8%AF%B4%E4%B8%8D%E5%8A%A8%E8%AF%9D%E4%BA%86%23" target="weibo">
+王楚钦直言说不动话了（热度：44612）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%9B%B4%E8%A8%80%E8%AF%B4%E4%B8%8D%E5%8A%A8%E8%AF%9D%E4%BA%86%23" target="weibo">
-王楚钦直言说不动话了（热度：44437）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%8C%85%E5%9C%BA%E6%94%AF%E6%8C%81%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%8E%8B%E5%AE%89%E5%AE%87%23" target="weibo">
+宋雨琦包场支持范丞丞王安宇（热度：44481）
 </a>
 </li>
 
@@ -10023,12 +10029,6 @@ JDG秋季赛夺冠（热度：56505）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%811%E5%88%86%E9%92%9F%E6%8D%A2%E4%B9%98%23" target="weibo">
-高铁1分钟换乘（热度：39206）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23BV%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A6%96%E7%A7%80%23" target="weibo">
 BV设计师首秀（热度：39147）
 </a>
@@ -10137,6 +10137,12 @@ BV设计师首秀（热度：39147）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BD%AE%E6%B5%81%E7%BB%B4%E6%8C%81%E9%B8%A1%E6%8E%92%E5%93%A5%E6%91%8A%E4%BD%8D%E7%A7%A9%E5%BA%8F%23" target="weibo">
+12名大学生轮流维持鸡排哥摊位秩序（热度：35503）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%89%E4%B9%8C%E4%B8%80%E5%BC%A0%E9%A5%BC%E8%A3%85%E4%B8%8B%E6%95%B4%E4%B8%AA%E5%9C%B0%E7%90%83%E6%9D%91%23" target="weibo">
 义乌一张饼装下整个地球村（热度：35380）
 </a>
@@ -10203,12 +10209,6 @@ BV设计师首秀（热度：39147）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2312%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BD%AE%E6%B5%81%E7%BB%B4%E6%8C%81%E9%B8%A1%E6%8E%92%E5%93%A5%E6%91%8A%E4%BD%8D%E7%A7%A9%E5%BA%8F%23" target="weibo">
-12名大学生轮流维持鸡排哥摊位秩序（热度：33312）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%9B%9D%E9%B8%A1%E6%8E%92%E5%93%A5%E7%AB%A5%E5%B9%B4%E7%85%A7%E7%89%87%E8%A2%AB%E6%8C%87%E4%B8%8D%E5%A6%A5%23" target="weibo">
 网友曝鸡排哥童年照片被指不妥（热度：32810）
 </a>
@@ -10233,8 +10233,26 @@ BV设计师首秀（热度：39147）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%8D%8E%E6%99%A8%E5%AE%87%E5%85%B1%E5%BB%BA%E7%81%AB%E6%98%9F%E4%B9%8C%E6%89%98%E9%82%A6%23" target="weibo">
+和华晨宇共建火星乌托邦（热度：31691）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%BA%E9%BD%90%E5%96%8A%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%BD%A0%E6%9C%80%E6%A3%92%23" target="weibo">
 现场齐喊王楚钦你最棒（热度：31227）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BD%8E%E4%BB%B7%E4%B9%B02500%E5%85%83%E8%A5%BF%E8%B4%9D%E4%BB%A3%E9%87%91%E5%88%B8%E6%97%A0%E6%B3%95%E7%94%A8%23" target="weibo">
+男子低价买2500元西贝代金券无法用（热度：30751）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E7%A7%B0%E5%BC%80%E5%A7%8B%E4%B8%8D%E6%95%A2%E6%8E%A5%E9%9C%B8%E6%80%BB%E6%88%8F%23" target="weibo">
+陈伟霆称开始不敢接霸总戏（热度：30231）
 </a>
 </li>
 
@@ -10325,6 +10343,12 @@ BV米兰时装周明星状态（热度：30091）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E8%B7%B3angel%E8%88%9E%E4%BA%86%23" target="weibo">
 章若楠跳angel舞了（热度：27086）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%E5%87%BA%E5%8F%91%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%E5%B0%91%E5%B9%B4%E6%84%9F%23" target="weibo">
+惠英红出发巴黎时装周少年感（热度：26868）
 </a>
 </li>
 

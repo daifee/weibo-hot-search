@@ -1,6 +1,6 @@
 {
   "startTime": 1759336314340,
-  "endTime": 1759339395544,
+  "endTime": 1759340414139,
   "band_list": [
     {
       "raw_hot": 917837,
@@ -75,20 +75,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 337216,
+      "num": 337216,
+      "word": "郑州方特道歉",
+      "onboard_time": 1759335621,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 333864,
       "num": 333864,
       "word": "王楚钦让记者提问孙颖莎",
       "onboard_time": 1759332500,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 316845,
-      "num": 316845,
-      "word": "郑州方特道歉",
-      "onboard_time": 1759335621,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 301656,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216875,
+      "num": 216875,
+      "word": "鸡排大道为迎国庆把路铺平了",
+      "onboard_time": 1759336099,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203419,
       "num": 203419,
       "word": "王楚钦说裁判最大",
@@ -203,15 +211,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122747,
-      "num": 122747,
-      "word": "鸡排大道为迎国庆把路铺平了",
-      "onboard_time": 1759336099,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118113,
+      "raw_hot": 137031,
       "num": 118113,
       "word": "在王力宏演唱会被鹿晗认出来了",
       "onboard_time": 1759332679,
@@ -267,20 +267,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86845,
+      "num": 86845,
+      "word": "卢昱晓凌晨五点天安门看升旗",
+      "onboard_time": 1759324641,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84612,
       "num": 84612,
       "word": "偶遇乐远cp",
       "onboard_time": 1759330702,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 82217,
-      "num": 82217,
-      "word": "卢昱晓凌晨五点天安门看升旗",
-      "onboard_time": 1759324641,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 74669,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 67015,
-      "num": 68530,
+      "num": 68773,
       "word": "邓为靠脸生扛刁钻镜头",
       "onboard_time": 1759330820,
       "rank": 40,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 65424,
-      "num": 68529,
+      "num": 93060,
       "word": "中国正式成为安第斯共同体观察员国",
       "onboard_time": 1759336159,
       "rank": 43,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 64195,
-      "num": 68529,
+      "num": 68805,
       "word": "许我耀眼预告",
       "onboard_time": 1759328782,
       "rank": 41,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 58126,
-      "num": 68526,
+      "num": 68855,
       "word": "南昌烟花",
       "onboard_time": 1759324641,
       "rank": 45,
@@ -387,8 +387,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56617,
+      "num": 100650,
+      "word": "高铁1分钟换乘",
+      "onboard_time": 1759338797,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55087,
-      "num": 68525,
+      "num": 68568,
       "word": "贺峻霖到时候番位你咋安排",
       "onboard_time": 1759322781,
       "rank": 47,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 52609,
-      "num": 68524,
+      "num": 68615,
       "word": "许我耀眼花海海报",
       "onboard_time": 1759328423,
       "rank": 48,
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 49687,
-      "num": 63263,
+      "num": 68880,
       "word": "刺杀小说家在刺杀谁",
       "onboard_time": 1759326681,
       "rank": 46,
@@ -420,31 +428,23 @@
     },
     {
       "raw_hot": 48436,
-      "num": 51825,
+      "num": 68876,
       "word": "淘宝闪购",
       "onboard_time": 1759337959,
       "rank": 33,
       "category": "互联网"
     },
     {
-      "raw_hot": 44437,
-      "num": 51817,
+      "raw_hot": 44612,
+      "num": 68908,
       "word": "王楚钦直言说不动话了",
       "onboard_time": 1759337897,
       "rank": 34,
       "category": "体育"
     },
     {
-      "raw_hot": 39206,
-      "num": 51798,
-      "word": "高铁1分钟换乘",
-      "onboard_time": 1759338797,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33312,
-      "num": 51781,
+      "raw_hot": 35503,
+      "num": 68819,
       "word": "12名大学生轮流维持鸡排哥摊位秩序",
       "onboard_time": 1759337421,
       "rank": 43,
@@ -452,11 +452,43 @@
     },
     {
       "raw_hot": 31698,
-      "num": 51768,
+      "num": 68636,
       "word": "金马奖",
       "onboard_time": 1759314260,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 31691,
+      "num": 68756,
+      "word": "和华晨宇共建火星乌托邦",
+      "onboard_time": 1759339577,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 30751,
+      "num": 68702,
+      "word": "男子低价买2500元西贝代金券无法用",
+      "onboard_time": 1759339517,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30231,
+      "num": 68657,
+      "word": "陈伟霆称开始不敢接霸总戏",
+      "onboard_time": 1759340297,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 26868,
+      "num": 68546,
+      "word": "惠英红出发巴黎时装周少年感",
+      "onboard_time": 1759339996,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 21736,
