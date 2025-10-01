@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759303543618,
+  "endTime": 1759304371724,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -11,20 +11,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1514553,
+      "num": 159173,
+      "word": "迪奥 迪丽热巴",
+      "onboard_time": 1759302080,
+      "rank": 10,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1396497,
       "num": 254026,
       "word": "王乐晨道歉",
       "onboard_time": 1759248381,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1301514,
-      "num": 159173,
-      "word": "迪奥 迪丽热巴",
-      "onboard_time": 1759302080,
-      "rank": 10,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1143185,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1015104,
+      "num": 179980,
+      "word": "蒋欣经纪人看完天塌了",
+      "onboard_time": 1759300700,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 879796,
       "num": 1122753,
       "word": "山姆99.9元零食 好特卖39.9",
@@ -73,14 +81,6 @@
       "onboard_time": 1759247721,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 819898,
-      "num": 179980,
-      "word": "蒋欣经纪人看完天塌了",
-      "onboard_time": 1759300700,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 804582,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 648272,
+      "num": 187446,
+      "word": "翁青雅彭高分手的根本原因",
+      "onboard_time": 1759296681,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 628788,
       "num": 238126,
       "word": "张维伊回应继女改口",
@@ -179,15 +187,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 549944,
-      "num": 235653,
-      "word": "张予曦 今天的发型希望大家不要生气",
-      "onboard_time": 1759296020,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 548808,
+      "raw_hot": 555665,
       "num": 231379,
       "word": "旺仔来了个销冠",
       "onboard_time": 1759298600,
@@ -195,12 +195,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 535154,
-      "num": 187446,
-      "word": "翁青雅彭高分手的根本原因",
-      "onboard_time": 1759296681,
-      "rank": 20,
-      "category": "作品衍生"
+      "raw_hot": 549944,
+      "num": 235653,
+      "word": "张予曦 今天的发型希望大家不要生气",
+      "onboard_time": 1759296020,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 518812,
@@ -403,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305157,
+      "num": 305157,
+      "word": "吴艳妮假期重回90公斤",
+      "onboard_time": 1759301841,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296499,
       "num": 216568,
       "word": "彭高和翁青雅刚官宣一个月就分手",
@@ -440,6 +448,14 @@
       "word": "白宫宣布政府即将关门",
       "onboard_time": 1759282700,
       "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 261894,
+      "num": 151541,
+      "word": "韩国举行大规模阅兵仪式",
+      "onboard_time": 1759302080,
+      "rank": 20,
       "category": "国际时政"
     },
     {
@@ -571,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209798,
-      "num": 151541,
-      "word": "韩国举行大规模阅兵仪式",
-      "onboard_time": 1759302080,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 205954,
       "num": 183138,
       "word": "男子口袋翻出旧彩票中1.28亿",
@@ -619,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195333,
-      "num": 150404,
-      "word": "吴艳妮假期重回90公斤",
-      "onboard_time": 1759301841,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194054,
       "num": 183344,
       "word": "全国最好吃的10个高铁站",
@@ -643,6 +643,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 180591,
+      "num": 147922,
+      "word": "王楚钦再被判发球遮挡冤不冤",
+      "onboard_time": 1759303581,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179113,
       "num": 179113,
       "word": "北电第一选择挑战中传第一",
@@ -657,6 +665,14 @@
       "onboard_time": 1759291820,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169130,
+      "num": 169130,
+      "word": "马龙带俩娃参加斯巴达好快乐",
+      "onboard_time": 1759300940,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 168406,
@@ -676,7 +692,7 @@
     },
     {
       "raw_hot": 167993,
-      "num": 149735,
+      "num": 150256,
       "word": "刘宇宁那英版我爱你中国",
       "onboard_time": 1759299680,
       "rank": 34,
@@ -779,6 +795,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147817,
+      "num": 147817,
+      "word": "丁禹兮的马受惊失控",
+      "onboard_time": 1759300520,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147025,
+      "num": 147025,
+      "word": "章若楠也用AI修图",
+      "onboard_time": 1759301721,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146781,
       "num": 146781,
       "word": "小酒窝在天安门举国旗拍照",
@@ -793,14 +825,6 @@
       "onboard_time": 1759274479,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145760,
-      "num": 145760,
-      "word": "丁禹兮的马受惊失控",
-      "onboard_time": 1759300520,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 145708,
@@ -851,6 +875,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141737,
+      "num": 141737,
+      "word": "国庆档票房前3",
+      "onboard_time": 1759301901,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 141342,
+      "num": 141342,
+      "word": "王楚钦挥拳庆祝",
+      "onboard_time": 1759303220,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141062,
       "num": 141062,
       "word": "中华人民共和国成立76周年",
@@ -875,14 +915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139479,
-      "num": 139479,
-      "word": "章若楠也用AI修图",
-      "onboard_time": 1759301721,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139405,
       "num": 139405,
       "word": "皮蛋是外国人最讨厌食物第二名",
@@ -897,14 +929,6 @@
       "onboard_time": 1759245561,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 137458,
-      "num": 161651,
-      "word": "马龙带俩娃参加斯巴达好快乐",
-      "onboard_time": 1759300940,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 137354,
@@ -1019,14 +1043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122117,
-      "num": 122117,
-      "word": "国庆档票房前3",
-      "onboard_time": 1759301901,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 122076,
       "num": 122076,
       "word": "辛柏青复工",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1759300579,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121068,
+      "num": 126412,
+      "word": "看到李家三口同框又落泪了",
+      "onboard_time": 1759302920,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 119612,
@@ -1131,20 +1155,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 109210,
-      "num": 109210,
-      "word": "王楚钦挥拳庆祝",
-      "onboard_time": 1759303220,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109071,
       "num": 109071,
       "word": "梁靖崑祝福林高远",
       "onboard_time": 1759299621,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108748,
+      "num": 108748,
+      "word": "Jiejie恢复自由人身份",
+      "onboard_time": 1759304359,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 108466,
@@ -1251,6 +1275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 101109,
+      "num": 108505,
+      "word": "许凯只有我在大胆地害怕",
+      "onboard_time": 1759302920,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101051,
       "num": 94039,
       "word": "普通女生苦练化妆技术的下场",
@@ -1315,12 +1347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95639,
-      "num": 108505,
-      "word": "许凯只有我在大胆地害怕",
-      "onboard_time": 1759302920,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 94918,
+      "num": 94918,
+      "word": "猫猫顶起两苹果已打败99%的猫猫",
+      "onboard_time": 1759302740,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 94544,
@@ -1331,12 +1363,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 94476,
-      "num": 94476,
-      "word": "猫猫顶起两苹果已打败99%的猫猫",
-      "onboard_time": 1759302740,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 93939,
+      "num": 148726,
+      "word": "李现现身中网决赛",
+      "onboard_time": 1759304060,
+      "rank": 21,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 91474,
@@ -1345,6 +1377,14 @@
       "onboard_time": 1759284140,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90668,
+      "num": 90668,
+      "word": "美政府为何老关门",
+      "onboard_time": 1759304242,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89754,
@@ -1435,6 +1475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 80667,
+      "num": 80667,
+      "word": "林昀儒高承睿男双退赛",
+      "onboard_time": 1759303641,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80144,
       "num": 131120,
       "word": "90后女律师偷30多次蛋糕盒饭获刑",
@@ -1505,14 +1553,6 @@
       "onboard_time": 1759245681,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 74859,
-      "num": 126412,
-      "word": "看到李家三口同框又落泪了",
-      "onboard_time": 1759302920,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 74106,

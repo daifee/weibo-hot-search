@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759303543618,
+  "endTime": 1759304371724,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1514553,
+      "num": 159173,
+      "word": "迪奥 迪丽热巴",
+      "onboard_time": 1759302080,
+      "rank": 10,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 1511359,
       "num": 1511359,
       "word": "清华通报多名师生参与黄牛活动牟利",
@@ -233,14 +241,6 @@
       "onboard_time": 1759225941,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1301514,
-      "num": 159173,
-      "word": "迪奥 迪丽热巴",
-      "onboard_time": 1759302080,
-      "rank": 10,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1299361,
@@ -377,6 +377,14 @@
       "onboard_time": 1759061362,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1015104,
+      "num": 179980,
+      "word": "蒋欣经纪人看完天塌了",
+      "onboard_time": 1759300700,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1013867,
@@ -721,14 +729,6 @@
       "onboard_time": 1759118960,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 819898,
-      "num": 179980,
-      "word": "蒋欣经纪人看完天塌了",
-      "onboard_time": 1759300700,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 816904,
@@ -1099,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 648272,
+      "num": 187446,
+      "word": "翁青雅彭高分手的根本原因",
+      "onboard_time": 1759296681,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 648043,
       "num": 232767,
       "word": "姐弟恋已升级为姨弟恋",
@@ -1411,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 555665,
+      "num": 231379,
+      "word": "旺仔来了个销冠",
+      "onboard_time": 1759298600,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 554801,
       "num": 391778,
       "word": "李现 怎么在国外还追星",
@@ -1467,14 +1483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 548808,
-      "num": 231379,
-      "word": "旺仔来了个销冠",
-      "onboard_time": 1759298600,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 548663,
       "num": 293246,
       "word": "赵丽颖工作室取消行程图",
@@ -1513,14 +1521,6 @@
       "onboard_time": 1759033461,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 535154,
-      "num": 187446,
-      "word": "翁青雅彭高分手的根本原因",
-      "onboard_time": 1759296681,
-      "rank": 20,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 533151,
@@ -2747,6 +2747,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 305157,
+      "num": 305157,
+      "word": "吴艳妮假期重回90公斤",
+      "onboard_time": 1759301841,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302499,
       "num": 302499,
       "word": "两名俄士兵在坦克残骸下生存60天",
@@ -3041,6 +3049,14 @@
       "onboard_time": 1759026679,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 261894,
+      "num": 151541,
+      "word": "韩国举行大规模阅兵仪式",
+      "onboard_time": 1759302080,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 261703,
@@ -3611,14 +3627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209798,
-      "num": 151541,
-      "word": "韩国举行大规模阅兵仪式",
-      "onboard_time": 1759302080,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 209592,
       "num": 187991,
       "word": "台湾老人强行要年轻人让座被踹懵",
@@ -3905,14 +3913,6 @@
       "onboard_time": 1759065503,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195333,
-      "num": 150404,
-      "word": "吴艳妮假期重回90公斤",
-      "onboard_time": 1759301841,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 195190,
@@ -4411,6 +4411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180591,
+      "num": 147922,
+      "word": "王楚钦再被判发球遮挡冤不冤",
+      "onboard_time": 1759303581,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180439,
       "num": 180439,
       "word": "东北孩子回老家只要4个小时了",
@@ -4739,6 +4747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 169130,
+      "num": 169130,
+      "word": "马龙带俩娃参加斯巴达好快乐",
+      "onboard_time": 1759300940,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169016,
       "num": 169016,
       "word": "刘萧旭 我长这个烂样子怎么会有私生",
@@ -4804,7 +4820,7 @@
     },
     {
       "raw_hot": 167993,
-      "num": 149735,
+      "num": 150256,
       "word": "刘宇宁那英版我爱你中国",
       "onboard_time": 1759299680,
       "rank": 34,
@@ -5635,6 +5651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147817,
+      "num": 147817,
+      "word": "丁禹兮的马受惊失控",
+      "onboard_time": 1759300520,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147401,
       "num": 147401,
       "word": "贺峻霖无奈",
@@ -5649,6 +5673,14 @@
       "onboard_time": 1759119501,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147025,
+      "num": 147025,
+      "word": "章若楠也用AI修图",
+      "onboard_time": 1759301721,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 146781,
@@ -5721,14 +5753,6 @@
       "onboard_time": 1759134741,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 145760,
-      "num": 145760,
-      "word": "丁禹兮的马受惊失控",
-      "onboard_time": 1759300520,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 145708,
@@ -5963,6 +5987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141737,
+      "num": 141737,
+      "word": "国庆档票房前3",
+      "onboard_time": 1759301901,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141468,
       "num": 141468,
       "word": "李斯丹妮鼻子上贴了12颗金钻",
@@ -5977,6 +6009,14 @@
       "onboard_time": 1759200140,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141342,
+      "num": 141342,
+      "word": "王楚钦挥拳庆祝",
+      "onboard_time": 1759303220,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 141257,
@@ -6091,14 +6131,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 139479,
-      "num": 139479,
-      "word": "章若楠也用AI修图",
-      "onboard_time": 1759301721,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 139405,
       "num": 139405,
       "word": "皮蛋是外国人最讨厌食物第二名",
@@ -6160,14 +6192,6 @@
       "word": "郑钦文回应中网退赛",
       "onboard_time": 1759156161,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 137458,
-      "num": 161651,
-      "word": "马龙带俩娃参加斯巴达好快乐",
-      "onboard_time": 1759300940,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -7323,14 +7347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122117,
-      "num": 122117,
-      "word": "国庆档票房前3",
-      "onboard_time": 1759301901,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 122030,
       "num": 122030,
       "word": "国庆订单被强制取消后房费涨3倍",
@@ -7409,6 +7425,14 @@
       "onboard_time": 1759076960,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121068,
+      "num": 126412,
+      "word": "看到李家三口同框又落泪了",
+      "onboard_time": 1759302920,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 120957,
@@ -8275,14 +8299,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 109210,
-      "num": 109210,
-      "word": "王楚钦挥拳庆祝",
-      "onboard_time": 1759303220,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 109071,
       "num": 109071,
       "word": "梁靖崑祝福林高远",
@@ -8297,6 +8313,14 @@
       "onboard_time": 1759055000,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108748,
+      "num": 108748,
+      "word": "Jiejie恢复自由人身份",
+      "onboard_time": 1759304359,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 108708,
@@ -9003,6 +9027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 101109,
+      "num": 108505,
+      "word": "许凯只有我在大胆地害怕",
+      "onboard_time": 1759302920,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101071,
       "num": 101071,
       "word": "当幼儿园开始抢2岁宝宝",
@@ -9363,14 +9395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95639,
-      "num": 108505,
-      "word": "许凯只有我在大胆地害怕",
-      "onboard_time": 1759302920,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95410,
       "num": 95410,
       "word": "国庆宝宝我们来接你上车喽",
@@ -9393,6 +9417,14 @@
       "onboard_time": 1759198459,
       "rank": 47,
       "category": "休闲,民生新闻"
+    },
+    {
+      "raw_hot": 94918,
+      "num": 94918,
+      "word": "猫猫顶起两苹果已打败99%的猫猫",
+      "onboard_time": 1759302740,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 94874,
@@ -9467,14 +9499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94476,
-      "num": 94476,
-      "word": "猫猫顶起两苹果已打败99%的猫猫",
-      "onboard_time": 1759302740,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 94425,
       "num": 94425,
       "word": "参加阅兵式的礼宾车归还时加满油",
@@ -9521,6 +9545,14 @@
       "onboard_time": 1759024941,
       "rank": 46,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 93939,
+      "num": 148726,
+      "word": "李现现身中网决赛",
+      "onboard_time": 1759304060,
+      "rank": 21,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 93285,
@@ -9681,6 +9713,14 @@
       "onboard_time": 1759239442,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90668,
+      "num": 90668,
+      "word": "美政府为何老关门",
+      "onboard_time": 1759304242,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90549,
@@ -10219,6 +10259,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 80667,
+      "num": 80667,
+      "word": "林昀儒高承睿男双退赛",
+      "onboard_time": 1759303641,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80596,
       "num": 132702,
       "word": "肖战出发澳门湾区升明月",
@@ -10417,14 +10465,6 @@
       "onboard_time": 1759163058,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 74859,
-      "num": 126412,
-      "word": "看到李家三口同框又落泪了",
-      "onboard_time": 1759302920,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 74662,

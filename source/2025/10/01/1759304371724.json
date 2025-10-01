@@ -1,0 +1,410 @@
+{
+  "runTime": 1759304371724,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 517316,
+        "num": 1082770,
+        "word": "女子救下20楼坠落女童后不敢看评论",
+        "onboard_time": 1759294819,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435880,
+        "num": 435880,
+        "word": "鸡排哥被男子扯拽衣服要求站高点演讲",
+        "onboard_time": 1759276819,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21641,
+        "num": 326561,
+        "word": "家书中满溢炽热家国情怀",
+        "onboard_time": 1759292000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 305157,
+        "num": 305157,
+        "word": "吴艳妮假期重回90公斤",
+        "onboard_time": 1759301841,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288109,
+        "num": 288109,
+        "word": "王楚钦3比2雷德齐姆斯基",
+        "onboard_time": 1759300159,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248267,
+        "num": 248267,
+        "word": "山姆99.9元零食 好特卖39.9",
+        "onboard_time": 1759289900,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202521,
+        "num": 202521,
+        "word": "妈妈给男孩喝了一口糖竟致呕吐晕厥",
+        "onboard_time": 1759292900,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169130,
+        "num": 169130,
+        "word": "马龙带俩娃参加斯巴达好快乐",
+        "onboard_time": 1759300940,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156019,
+        "num": 156019,
+        "word": "广东一地发现首例钻石血",
+        "onboard_time": 1759278139,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140608,
+        "num": 155647,
+        "word": "美政府关门",
+        "onboard_time": 1759292419,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1514553,
+        "num": 155355,
+        "word": "迪奥 迪丽热巴",
+        "onboard_time": 1759302080,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1015104,
+        "num": 154558,
+        "word": "蒋欣经纪人看完天塌了",
+        "onboard_time": 1759300700,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648272,
+        "num": 153708,
+        "word": "翁青雅彭高分手的根本原因",
+        "onboard_time": 1759296681,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 555665,
+        "num": 153244,
+        "word": "旺仔来了个销冠",
+        "onboard_time": 1759298600,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 359914,
+        "num": 152887,
+        "word": "张予曦 今天的发型希望大家不要生气",
+        "onboard_time": 1759296020,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342072,
+        "num": 152088,
+        "word": "曝阮经天和小20岁女友交往超一年",
+        "onboard_time": 1759291101,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258682,
+        "num": 151877,
+        "word": "19岁擅自离组短剧男主道歉",
+        "onboard_time": 1759298181,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219807,
+        "num": 151265,
+        "word": "短剧太奶奶3有自己的道明寺",
+        "onboard_time": 1759296861,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162121,
+        "num": 150256,
+        "word": "刘宇宁那英版我爱你中国",
+        "onboard_time": 1759299680,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42062,
+        "num": 149877,
+        "word": "炸鸡主理人Wa一声登场",
+        "onboard_time": 1759300641,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 261894,
+        "num": 149060,
+        "word": "韩国举行大规模阅兵仪式",
+        "onboard_time": 1759302080,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93939,
+        "num": 148726,
+        "word": "李现现身中网决赛",
+        "onboard_time": 1759304060,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 180591,
+        "num": 147922,
+        "word": "王楚钦再被判发球遮挡冤不冤",
+        "onboard_time": 1759303581,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147817,
+        "num": 147817,
+        "word": "丁禹兮的马受惊失控",
+        "onboard_time": 1759300520,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147025,
+        "num": 147025,
+        "word": "章若楠也用AI修图",
+        "onboard_time": 1759301721,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141737,
+        "num": 141737,
+        "word": "国庆档票房前3",
+        "onboard_time": 1759301901,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141342,
+        "num": 141342,
+        "word": "王楚钦挥拳庆祝",
+        "onboard_time": 1759303220,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128997,
+        "num": 128997,
+        "word": "老乡鸡拯救了一个破碎的小女孩",
+        "onboard_time": 1759299621,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127193,
+        "num": 127193,
+        "word": "内娱把三生三世拍出花了",
+        "onboard_time": 1759290560,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122611,
+        "num": 122611,
+        "word": "主办方请沈佳润就好她爹会跟着去的",
+        "onboard_time": 1759291041,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148024,
+        "num": 122152,
+        "word": "十个勤天月饼礼盒被指割韭菜",
+        "onboard_time": 1759297400,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121068,
+        "num": 121068,
+        "word": "看到李家三口同框又落泪了",
+        "onboard_time": 1759302920,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108748,
+        "num": 108748,
+        "word": "Jiejie恢复自由人身份",
+        "onboard_time": 1759304359,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109705,
+        "num": 108683,
+        "word": "朱一龙与89岁志愿军老兵观影",
+        "onboard_time": 1759299500,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108595,
+        "num": 108595,
+        "word": "龚俊田曦薇将演攻玉",
+        "onboard_time": 1759299621,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102243,
+        "num": 102243,
+        "word": "周深唱出了刺杀小说家2的内核力量",
+        "onboard_time": 1759288041,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102235,
+        "num": 102235,
+        "word": "王乐晨道歉",
+        "onboard_time": 1759248381,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101109,
+        "num": 101109,
+        "word": "许凯只有我在大胆地害怕",
+        "onboard_time": 1759302920,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100900,
+        "num": 100900,
+        "word": "蔡文静扛住了G社镜头",
+        "onboard_time": 1759302320,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 99953,
+        "num": 99953,
+        "word": "捅了美猴王的窝了",
+        "onboard_time": 1759302860,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 44053,
+        "num": 99522,
+        "word": "王楚钦绝妙手感应对搏杀",
+        "onboard_time": 1759303160,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99110,
+        "num": 99110,
+        "word": "陈小春两个儿子近照",
+        "onboard_time": 1759293560,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94918,
+        "num": 94918,
+        "word": "猫猫顶起两苹果已打败99%的猫猫",
+        "onboard_time": 1759302740,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93822,
+        "num": 93822,
+        "word": "国庆",
+        "onboard_time": 1759248741,
+        "rank": 43,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 92490,
+        "num": 93768,
+        "word": "终于有剧拍出了成年人婚姻的美",
+        "onboard_time": 1759302860,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93755,
+        "num": 93755,
+        "word": "有人深圳出发15小时还没出广东",
+        "onboard_time": 1759297161,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92157,
+        "num": 92157,
+        "word": "刘诗诗去看陈昊宇演唱会了",
+        "onboard_time": 1759301480,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90668,
+        "num": 90668,
+        "word": "美政府为何老关门",
+        "onboard_time": 1759304242,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90665,
+        "num": 90665,
+        "word": "彭高",
+        "onboard_time": 1759281199,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80667,
+        "num": 80667,
+        "word": "林昀儒高承睿男双退赛",
+        "onboard_time": 1759303641,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#向全国各族人民致以节日祝贺#"
+    }
+  }
+}
