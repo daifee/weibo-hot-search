@@ -1,0 +1,410 @@
+{
+  "runTime": 1759325745617,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 634345,
+        "num": 1101495,
+        "word": "第一天出去旅游的人已经老实",
+        "onboard_time": 1759311982,
+        "rank": 0,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 358388,
+        "num": 358388,
+        "word": "央视国庆晚会",
+        "onboard_time": 1759318461,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43935,
+        "num": 319860,
+        "word": "对祖国的爱永远滚烫赤诚",
+        "onboard_time": 1759318221,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1387129,
+        "num": 313823,
+        "word": "金价",
+        "onboard_time": 1759317381,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 305410,
+        "num": 305410,
+        "word": "鸡排哥周边摊主发声",
+        "onboard_time": 1759308501,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223379,
+        "num": 223379,
+        "word": "樊振东点赞外交部微博",
+        "onboard_time": 1759325421,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211473,
+        "num": 211473,
+        "word": "我国有望2030年用核聚变发电",
+        "onboard_time": 1759313479,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194168,
+        "num": 194168,
+        "word": "2亿烂尾楼改酒店3688元套房被订",
+        "onboard_time": 1759307720,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185800,
+        "num": 185800,
+        "word": "满街五星红旗是中国的浪漫",
+        "onboard_time": 1759321579,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 176006,
+        "num": 176006,
+        "word": "南昌烟花",
+        "onboard_time": 1759324641,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2087689,
+        "num": 174857,
+        "word": "迪丽热巴 芭比娃娃",
+        "onboard_time": 1759323141,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1325596,
+        "num": 174716,
+        "word": "迪奥大秀",
+        "onboard_time": 1759323742,
+        "rank": 11,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 1113859,
+        "num": 173007,
+        "word": "林心如回应与陈妍希陈晓结亲家",
+        "onboard_time": 1759323321,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 734518,
+        "num": 171735,
+        "word": "陶白白前妻与现任同游西藏",
+        "onboard_time": 1759317620,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 702495,
+        "num": 170873,
+        "word": "许我耀眼",
+        "onboard_time": 1759312042,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 617985,
+        "num": 169808,
+        "word": "卢远 王乐晨",
+        "onboard_time": 1759319360,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509208,
+        "num": 167971,
+        "word": "迪奥 迪丽热巴",
+        "onboard_time": 1759302080,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 167955,
+        "num": 167955,
+        "word": "陈垣宇vsF勒布伦",
+        "onboard_time": 1759321101,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300103,
+        "num": 167905,
+        "word": "您已进入鸡排大道请打开您的塑料袋",
+        "onboard_time": 1759312820,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294849,
+        "num": 167854,
+        "word": "小众但是月入过万的工作",
+        "onboard_time": 1759312221,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324098,
+        "num": 167802,
+        "word": "习惯侧睡的人今晚换个姿势",
+        "onboard_time": 1759322781,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 247774,
+        "num": 167754,
+        "word": "张颂文 这不神经病吗",
+        "onboard_time": 1759323742,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235134,
+        "num": 167687,
+        "word": "何老师第一次在密逃被吓到",
+        "onboard_time": 1759316301,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209634,
+        "num": 167627,
+        "word": "浪姐 JYP",
+        "onboard_time": 1759321041,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206196,
+        "num": 167607,
+        "word": "金马奖",
+        "onboard_time": 1759314260,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167562,
+        "num": 167562,
+        "word": "许我耀眼云合31.7%",
+        "onboard_time": 1759313540,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164985,
+        "num": 164985,
+        "word": "蒋欣经纪人看完天塌了",
+        "onboard_time": 1759300700,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163080,
+        "num": 163080,
+        "word": "贺峻霖到时候番位你咋安排",
+        "onboard_time": 1759322781,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160353,
+        "num": 160353,
+        "word": "短剧男主不接受大尺度吻戏擅自离组",
+        "onboard_time": 1759320442,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132624,
+        "num": 132624,
+        "word": "金价见证历史",
+        "onboard_time": 1759321280,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128924,
+        "num": 128924,
+        "word": "黄子弘凡 黄太子合体",
+        "onboard_time": 1759324280,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123678,
+        "num": 123678,
+        "word": "张康乐晒猫",
+        "onboard_time": 1759324341,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122240,
+        "num": 122240,
+        "word": "卢昱晓凌晨五点天安门看升旗",
+        "onboard_time": 1759324641,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121775,
+        "num": 121775,
+        "word": "王力宏穿龙鳞唱天地龙鳞",
+        "onboard_time": 1759323141,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120775,
+        "num": 120775,
+        "word": "黎姿119平豪宅出租月租8.3万港元",
+        "onboard_time": 1759323023,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116463,
+        "num": 116463,
+        "word": "红裙毛利兰",
+        "onboard_time": 1759324280,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 116224,
+        "num": 116224,
+        "word": "沈皓明承认弟弟是私生子",
+        "onboard_time": 1759314440,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111281,
+        "num": 111281,
+        "word": "邓为中世纪古堡王子",
+        "onboard_time": 1759325121,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78989,
+        "num": 110968,
+        "word": "看志愿军3反击太解气了",
+        "onboard_time": 1759324941,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110745,
+        "num": 110745,
+        "word": "山西一商场现10米巨人雕塑价值百万",
+        "onboard_time": 1759320500,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105008,
+        "num": 105008,
+        "word": "安静公主瘦了好多",
+        "onboard_time": 1759315102,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 101279,
+        "num": 101279,
+        "word": "国庆",
+        "onboard_time": 1759316301,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98107,
+        "num": 98107,
+        "word": "新中国成立76周年",
+        "onboard_time": 1759307541,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95846,
+        "num": 95846,
+        "word": "吴邪私家笔记2立项了",
+        "onboard_time": 1759322481,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87859,
+        "num": 87859,
+        "word": "你们可以用指甲剥生鸡蛋吗",
+        "onboard_time": 1759325481,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82205,
+        "num": 82205,
+        "word": "王腾小红书账号注销",
+        "onboard_time": 1759322841,
+        "rank": 45,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 78312,
+        "num": 78312,
+        "word": "梁王发博的物料一模一样",
+        "onboard_time": 1759322600,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77907,
+        "num": 77907,
+        "word": "超15万名美国政府雇员离职",
+        "onboard_time": 1759325661,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 77537,
+        "num": 77537,
+        "word": "鸡排哥再现招牌名场面",
+        "onboard_time": 1759319180,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74679,
+        "num": 74679,
+        "word": "薛之谦咪豆音乐节",
+        "onboard_time": 1759323861,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

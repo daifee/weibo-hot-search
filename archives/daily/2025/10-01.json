@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759324050973,
+  "endTime": 1759325745617,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -11,7 +11,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1542957,
+      "raw_hot": 2087689,
       "num": 210338,
       "word": "迪丽热巴 芭比娃娃",
       "onboard_time": 1759323141,
@@ -35,20 +35,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1387129,
+      "num": 1188328,
+      "word": "金价",
+      "onboard_time": 1759317381,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 1325596,
+      "num": 174716,
+      "word": "迪奥大秀",
+      "onboard_time": 1759323742,
+      "rank": 20,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 1322444,
       "num": 227018,
       "word": "许我耀眼",
       "onboard_time": 1759312042,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1177052,
-      "num": 1188328,
-      "word": "金价",
-      "onboard_time": 1759317381,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 1143185,
@@ -65,6 +73,14 @@
       "onboard_time": 1759276819,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1113859,
+      "num": 173007,
+      "word": "林心如回应与陈妍希陈晓结亲家",
+      "onboard_time": 1759323321,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 1055083,
@@ -249,6 +265,14 @@
       "onboard_time": 1759307720,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 634345,
+      "num": 1101495,
+      "word": "第一天出去旅游的人已经老实",
+      "onboard_time": 1759311982,
+      "rank": 29,
+      "category": "幽默,旅游"
     },
     {
       "raw_hot": 631704,
@@ -499,14 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 378607,
-      "num": 378607,
-      "word": "第一天出去旅游的人已经老实",
-      "onboard_time": 1759311982,
-      "rank": 29,
-      "category": "幽默,旅游"
-    },
-    {
       "raw_hot": 375258,
       "num": 375258,
       "word": "男生郑州东站15秒极限换乘",
@@ -579,12 +595,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 325729,
-      "num": 161471,
-      "word": "林心如回应与陈妍希陈晓结亲家",
-      "onboard_time": 1759323321,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 324098,
+      "num": 167802,
+      "word": "习惯侧睡的人今晚换个姿势",
+      "onboard_time": 1759322781,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 322499,
@@ -715,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247774,
+      "num": 167754,
+      "word": "张颂文 这不神经病吗",
+      "onboard_time": 1759323742,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245692,
       "num": 215567,
       "word": "陈赫张子萱挽手逛街",
@@ -753,14 +777,6 @@
       "onboard_time": 1759293560,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 237484,
-      "num": 160598,
-      "word": "迪奥大秀",
-      "onboard_time": 1759323742,
-      "rank": 20,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 237025,
@@ -817,6 +833,14 @@
       "onboard_time": 1759307419,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223379,
+      "num": 223379,
+      "word": "樊振东点赞外交部微博",
+      "onboard_time": 1759325421,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 217589,
@@ -1011,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176006,
+      "num": 176006,
+      "word": "南昌烟花",
+      "onboard_time": 1759324641,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175379,
       "num": 175379,
       "word": "爱奇艺10月待播剧综",
@@ -1020,7 +1052,7 @@
     },
     {
       "raw_hot": 171372,
-      "num": 159614,
+      "num": 163080,
       "word": "贺峻霖到时候番位你咋安排",
       "onboard_time": 1759322781,
       "rank": 34,
@@ -1451,14 +1483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132780,
-      "num": 132780,
-      "word": "习惯侧睡的人今晚换个姿势",
-      "onboard_time": 1759322781,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 132770,
       "num": 160064,
       "word": "老乡鸡拯救了一个破碎的小女孩",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1759315340,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132624,
+      "num": 132624,
+      "word": "金价见证历史",
+      "onboard_time": 1759321280,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 131879,
@@ -1497,6 +1529,14 @@
       "onboard_time": 1759290258,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128924,
+      "num": 128924,
+      "word": "黄子弘凡 黄太子合体",
+      "onboard_time": 1759324280,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 126676,
@@ -1563,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123678,
+      "num": 123678,
+      "word": "张康乐晒猫",
+      "onboard_time": 1759324341,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123487,
       "num": 123487,
       "word": "什么是假性友谊",
@@ -1576,6 +1624,14 @@
       "word": "小酒窝祝祖国生日快乐",
       "onboard_time": 1759286420,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122240,
+      "num": 122240,
+      "word": "卢昱晓凌晨五点天安门看升旗",
+      "onboard_time": 1759324641,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1603,6 +1659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120775,
+      "num": 120775,
+      "word": "黎姿119平豪宅出租月租8.3万港元",
+      "onboard_time": 1759323023,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119612,
       "num": 119612,
       "word": "当普通家族里出现了第一个研究生",
@@ -1617,22 +1681,6 @@
       "onboard_time": 1759319180,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119336,
-      "num": 119336,
-      "word": "黎姿119平豪宅出租月租8.3万港元",
-      "onboard_time": 1759323023,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 119152,
-      "num": 119152,
-      "word": "金价见证历史",
-      "onboard_time": 1759321280,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 117597,
@@ -1667,6 +1715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116463,
+      "num": 116463,
+      "word": "红裙毛利兰",
+      "onboard_time": 1759324280,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 115164,
       "num": 115164,
       "word": "闫妮魏大勋 国庆最忙的俩人",
@@ -1684,7 +1740,7 @@
     },
     {
       "raw_hot": 113876,
-      "num": 113876,
+      "num": 319860,
       "word": "对祖国的爱永远滚烫赤诚",
       "onboard_time": 1759318221,
       "rank": 36,
@@ -1739,6 +1795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111281,
+      "num": 111281,
+      "word": "邓为中世纪古堡王子",
+      "onboard_time": 1759325121,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111193,
       "num": 111193,
       "word": "蔡文静扛住了G社镜头",
@@ -1753,6 +1817,14 @@
       "onboard_time": 1759299320,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110745,
+      "num": 110745,
+      "word": "山西一商场现10米巨人雕塑价值百万",
+      "onboard_time": 1759320500,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109991,
@@ -2139,14 +2211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92308,
-      "num": 92308,
-      "word": "山西一商场现10米巨人雕塑价值百万",
-      "onboard_time": 1759320500,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91474,
       "num": 91474,
       "word": "向阳而生奔赴未来",
@@ -2233,6 +2297,14 @@
       "onboard_time": 1759305621,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87859,
+      "num": 87859,
+      "word": "你们可以用指甲剥生鸡蛋吗",
+      "onboard_time": 1759325481,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 87545,
@@ -2435,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78989,
+      "num": 110968,
+      "word": "看志愿军3反击太解气了",
+      "onboard_time": 1759324941,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 78857,
       "num": 78857,
       "word": "王楚钦对手因回抛被罚1分",
@@ -2457,6 +2537,14 @@
       "onboard_time": 1759293260,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77907,
+      "num": 77907,
+      "word": "超15万名美国政府雇员离职",
+      "onboard_time": 1759325661,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 77562,
@@ -2689,14 +2777,6 @@
       "onboard_time": 1759232782,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 58988,
-      "num": 102658,
-      "word": "张颂文 这不神经病吗",
-      "onboard_time": 1759323742,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 58815,

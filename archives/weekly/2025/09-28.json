@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759324050973,
+  "endTime": 1759325745617,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -41,6 +41,14 @@
       "onboard_time": 1759110199,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2087689,
+      "num": 210338,
+      "word": "迪丽热巴 芭比娃娃",
+      "onboard_time": 1759323141,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1952918,
@@ -105,14 +113,6 @@
       "onboard_time": 1759061721,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1542957,
-      "num": 210338,
-      "word": "迪丽热巴 芭比娃娃",
-      "onboard_time": 1759323141,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1521923,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1387129,
+      "num": 1188328,
+      "word": "金价",
+      "onboard_time": 1759127479,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1372394,
       "num": 388018,
       "word": "今年最爆的剧",
@@ -241,6 +249,14 @@
       "onboard_time": 1759217541,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1325596,
+      "num": 174716,
+      "word": "迪奥大秀",
+      "onboard_time": 1759323742,
+      "rank": 20,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 1322444,
@@ -299,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1177052,
-      "num": 1188328,
-      "word": "金价",
-      "onboard_time": 1759127479,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 1176992,
       "num": 355130,
       "word": "差点没认出苗苗",
@@ -353,6 +361,14 @@
       "onboard_time": 1759276819,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1113859,
+      "num": 173007,
+      "word": "林心如回应与陈妍希陈晓结亲家",
+      "onboard_time": 1759323321,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 1098368,
@@ -1249,6 +1265,14 @@
       "onboard_time": 1759143740,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 634345,
+      "num": 1101495,
+      "word": "第一天出去旅游的人已经老实",
+      "onboard_time": 1759311982,
+      "rank": 29,
+      "category": "幽默,旅游"
     },
     {
       "raw_hot": 632570,
@@ -2507,14 +2531,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 378607,
-      "num": 378607,
-      "word": "第一天出去旅游的人已经老实",
-      "onboard_time": 1759311982,
-      "rank": 29,
-      "category": "幽默,旅游"
-    },
-    {
       "raw_hot": 376765,
       "num": 376765,
       "word": "K签增设近两月为何突然引发关注",
@@ -2811,20 +2827,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 325729,
-      "num": 161471,
-      "word": "林心如回应与陈妍希陈晓结亲家",
-      "onboard_time": 1759323321,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 325194,
       "num": 189180,
       "word": "瘦了15斤的面部折叠度",
       "onboard_time": 1759223121,
       "rank": 17,
       "category": "情感,运动健身"
+    },
+    {
+      "raw_hot": 324098,
+      "num": 167802,
+      "word": "习惯侧睡的人今晚换个姿势",
+      "onboard_time": 1759322781,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 322499,
@@ -3387,6 +3403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247774,
+      "num": 167754,
+      "word": "张颂文 这不神经病吗",
+      "onboard_time": 1759323742,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245692,
       "num": 215567,
       "word": "陈赫张子萱挽手逛街",
@@ -3513,14 +3537,6 @@
       "onboard_time": 1759206680,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 237484,
-      "num": 160598,
-      "word": "迪奥大秀",
-      "onboard_time": 1759323742,
-      "rank": 20,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 237041,
@@ -3697,6 +3713,14 @@
       "onboard_time": 1759176313,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223379,
+      "num": 223379,
+      "word": "樊振东点赞外交部微博",
+      "onboard_time": 1759325421,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 222729,
@@ -4875,6 +4899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 176006,
+      "num": 176006,
+      "word": "南昌烟花",
+      "onboard_time": 1759324641,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175905,
       "num": 175905,
       "word": "黄晓明回青岛下料就是猛",
@@ -5036,7 +5068,7 @@
     },
     {
       "raw_hot": 171372,
-      "num": 159614,
+      "num": 163080,
       "word": "贺峻霖到时候番位你咋安排",
       "onboard_time": 1759322781,
       "rank": 34,
@@ -6987,14 +7019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132780,
-      "num": 132780,
-      "word": "习惯侧睡的人今晚换个姿势",
-      "onboard_time": 1759322781,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 132770,
       "num": 160064,
       "word": "老乡鸡拯救了一个破碎的小女孩",
@@ -7009,6 +7033,14 @@
       "onboard_time": 1759315340,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132624,
+      "num": 132624,
+      "word": "金价见证历史",
+      "onboard_time": 1759321280,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 132616,
@@ -7312,6 +7344,14 @@
       "word": "小酒窝朵朵 娃娃亲",
       "onboard_time": 1759229961,
       "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128924,
+      "num": 128924,
+      "word": "黄子弘凡 黄太子合体",
+      "onboard_time": 1759324280,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -7715,6 +7755,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 123678,
+      "num": 123678,
+      "word": "张康乐晒猫",
+      "onboard_time": 1759324341,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123641,
       "num": 142753,
       "word": "丁程鑫现身刺杀小说家2首映",
@@ -7867,6 +7915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122240,
+      "num": 122240,
+      "word": "卢昱晓凌晨五点天安门看升旗",
+      "onboard_time": 1759324641,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122030,
       "num": 122030,
       "word": "国庆订单被强制取消后房费涨3倍",
@@ -7961,6 +8017,14 @@
       "onboard_time": 1759136181,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120775,
+      "num": 120775,
+      "word": "黎姿119平豪宅出租月租8.3万港元",
+      "onboard_time": 1759323023,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 120760,
@@ -8099,14 +8163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119336,
-      "num": 119336,
-      "word": "黎姿119平豪宅出租月租8.3万港元",
-      "onboard_time": 1759323023,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119312,
       "num": 133081,
       "word": "陈浚铭婴儿时期看过TFBOYS演唱会",
@@ -8121,14 +8177,6 @@
       "onboard_time": 1759034963,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 119152,
-      "num": 119152,
-      "word": "金价见证历史",
-      "onboard_time": 1759321280,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 119128,
@@ -8313,6 +8361,14 @@
       "onboard_time": 1759220120,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116463,
+      "num": 116463,
+      "word": "红裙毛利兰",
+      "onboard_time": 1759324280,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 116147,
@@ -8500,7 +8556,7 @@
     },
     {
       "raw_hot": 113876,
-      "num": 113876,
+      "num": 319860,
       "word": "对祖国的爱永远滚烫赤诚",
       "onboard_time": 1759318221,
       "rank": 36,
@@ -8707,6 +8763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111281,
+      "num": 111281,
+      "word": "邓为中世纪古堡王子",
+      "onboard_time": 1759325121,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111205,
       "num": 111205,
       "word": "咱家的战舰怎么看都好看",
@@ -8769,6 +8833,14 @@
       "onboard_time": 1759299320,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110745,
+      "num": 110745,
+      "word": "山西一商场现10米巨人雕塑价值百万",
+      "onboard_time": 1759320500,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110633,
@@ -10347,14 +10419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 92308,
-      "num": 92308,
-      "word": "山西一商场现10米巨人雕塑价值百万",
-      "onboard_time": 1759320500,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92251,
       "num": 92251,
       "word": "李在明没给尹锡悦送中秋礼物",
@@ -10665,6 +10729,14 @@
       "onboard_time": 1759305621,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87859,
+      "num": 87859,
+      "word": "你们可以用指甲剥生鸡蛋吗",
+      "onboard_time": 1759325481,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 87806,
@@ -11275,6 +11347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78989,
+      "num": 110968,
+      "word": "看志愿军3反击太解气了",
+      "onboard_time": 1759324941,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 78857,
       "num": 78857,
       "word": "王楚钦对手因回抛被罚1分",
@@ -11321,6 +11401,14 @@
       "onboard_time": 1759015821,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 77907,
+      "num": 77907,
+      "word": "超15万名美国政府雇员离职",
+      "onboard_time": 1759325661,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 77585,
@@ -12065,14 +12153,6 @@
       "onboard_time": 1759101079,
       "rank": 35,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 58988,
-      "num": 102658,
-      "word": "张颂文 这不神经病吗",
-      "onboard_time": 1759323742,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 58974,
