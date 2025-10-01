@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759323204175,
+  "endTime": 1759324050973,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -9,6 +9,14 @@
       "onboard_time": 1759240521,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1542957,
+      "num": 210338,
+      "word": "迪丽热巴 芭比娃娃",
+      "onboard_time": 1759323141,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1514553,
@@ -33,6 +41,14 @@
       "onboard_time": 1759312042,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1177052,
+      "num": 1188328,
+      "word": "金价",
+      "onboard_time": 1759317381,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 1143185,
@@ -89,14 +105,6 @@
       "onboard_time": 1759306521,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 957621,
-      "num": 1153219,
-      "word": "金价",
-      "onboard_time": 1759317381,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 900556,
@@ -363,14 +371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 484795,
-      "num": 210338,
-      "word": "迪丽热巴 芭比娃娃",
-      "onboard_time": 1759323141,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 477643,
       "num": 226477,
       "word": "许我耀眼云合31.7%",
@@ -499,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 378607,
+      "num": 378607,
+      "word": "第一天出去旅游的人已经老实",
+      "onboard_time": 1759311982,
+      "rank": 29,
+      "category": "幽默,旅游"
+    },
+    {
       "raw_hot": 375258,
       "num": 375258,
       "word": "男生郑州东站15秒极限换乘",
@@ -513,14 +521,6 @@
       "onboard_time": 1759308501,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 361572,
-      "num": 361572,
-      "word": "第一天出去旅游的人已经老实",
-      "onboard_time": 1759311982,
-      "rank": 29,
-      "category": "幽默,旅游"
     },
     {
       "raw_hot": 360112,
@@ -577,6 +577,14 @@
       "onboard_time": 1759225341,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325729,
+      "num": 161471,
+      "word": "林心如回应与陈妍希陈晓结亲家",
+      "onboard_time": 1759323321,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 322499,
@@ -745,6 +753,14 @@
       "onboard_time": 1759293560,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237484,
+      "num": 160598,
+      "word": "迪奥大秀",
+      "onboard_time": 1759323742,
+      "rank": 20,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 237025,
@@ -1003,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171372,
+      "num": 159614,
+      "word": "贺峻霖到时候番位你咋安排",
+      "onboard_time": 1759322781,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169130,
       "num": 169130,
       "word": "马龙带俩娃参加斯巴达好快乐",
@@ -1153,6 +1177,14 @@
       "onboard_time": 1759298960,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149885,
+      "num": 149885,
+      "word": "王力宏穿龙鳞唱天地龙鳞",
+      "onboard_time": 1759323141,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 149047,
@@ -1419,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132780,
+      "num": 132780,
+      "word": "习惯侧睡的人今晚换个姿势",
+      "onboard_time": 1759322781,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 132770,
       "num": 160064,
       "word": "老乡鸡拯救了一个破碎的小女孩",
@@ -1579,20 +1619,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119336,
+      "num": 119336,
+      "word": "黎姿119平豪宅出租月租8.3万港元",
+      "onboard_time": 1759323023,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119152,
       "num": 119152,
       "word": "金价见证历史",
       "onboard_time": 1759321280,
       "rank": 33,
       "category": "财经"
-    },
-    {
-      "raw_hot": 118249,
-      "num": 118249,
-      "word": "贺峻霖到时候番位你咋安排",
-      "onboard_time": 1759322781,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 117597,
@@ -1771,6 +1811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108082,
+      "num": 108082,
+      "word": "薛之谦咪豆音乐节",
+      "onboard_time": 1759323861,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 107516,
       "num": 107516,
       "word": "周震南说自己是被迫当R1SE队长的",
@@ -1900,7 +1948,7 @@
     },
     {
       "raw_hot": 101335,
-      "num": 101335,
+      "num": 385899,
       "word": "祝福伟大祖国繁荣富强",
       "onboard_time": 1759291641,
       "rank": 48,
@@ -1945,14 +1993,6 @@
       "onboard_time": 1759286960,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 99555,
-      "num": 99555,
-      "word": "习惯侧睡的人今晚换个姿势",
-      "onboard_time": 1759322781,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 99395,
@@ -2099,8 +2139,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91542,
-      "num": 91542,
+      "raw_hot": 92308,
+      "num": 92308,
       "word": "山西一商场现10米巨人雕塑价值百万",
       "onboard_time": 1759320500,
       "rank": 40,
@@ -2139,14 +2179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89799,
-      "num": 89799,
-      "word": "黎姿119平豪宅出租月租8.3万港元",
-      "onboard_time": 1759323023,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89754,
       "num": 89754,
       "word": "秦彻战损daddy",
@@ -2161,6 +2193,14 @@
       "onboard_time": 1759313661,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89569,
+      "num": 89569,
+      "word": "王楚钦为救球奋不顾身",
+      "onboard_time": 1759320381,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 89447,
@@ -2283,12 +2323,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 84370,
-      "num": 84370,
-      "word": "王楚钦为救球奋不顾身",
-      "onboard_time": 1759320381,
-      "rank": 43,
-      "category": "体育"
+      "raw_hot": 84748,
+      "num": 84748,
+      "word": "爸姓古妈姓顾孩子被AI取名古菇顾",
+      "onboard_time": 1759322001,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83039,
@@ -2401,14 +2441,6 @@
       "onboard_time": 1759322961,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78245,
-      "num": 78245,
-      "word": "王力宏穿龙鳞唱天地龙鳞",
-      "onboard_time": 1759323141,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 78096,
@@ -2657,6 +2689,14 @@
       "onboard_time": 1759232782,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 58988,
+      "num": 102658,
+      "word": "张颂文 这不神经病吗",
+      "onboard_time": 1759323742,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 58815,
@@ -3063,6 +3103,9 @@
     },
     {
       "word": "#总书记这样谈爱国#"
+    },
+    {
+      "word": "#做一个光荣自豪的中国人#"
     }
   ]
 }

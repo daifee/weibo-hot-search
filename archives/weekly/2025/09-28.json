@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759323204175,
+  "endTime": 1759324050973,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -105,6 +105,14 @@
       "onboard_time": 1759061721,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1542957,
+      "num": 210338,
+      "word": "迪丽热巴 芭比娃娃",
+      "onboard_time": 1759323141,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1521923,
@@ -289,6 +297,14 @@
       "onboard_time": 1759226240,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1177052,
+      "num": 1188328,
+      "word": "金价",
+      "onboard_time": 1759127479,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 1176992,
@@ -521,14 +537,6 @@
       "onboard_time": 1759240821,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 957621,
-      "num": 1153219,
-      "word": "金价",
-      "onboard_time": 1759127479,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 957513,
@@ -1875,14 +1883,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 484795,
-      "num": 210338,
-      "word": "迪丽热巴 芭比娃娃",
-      "onboard_time": 1759323141,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 484317,
       "num": 484317,
       "word": "乌鲁木齐地震",
@@ -2507,6 +2507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 378607,
+      "num": 378607,
+      "word": "第一天出去旅游的人已经老实",
+      "onboard_time": 1759311982,
+      "rank": 29,
+      "category": "幽默,旅游"
+    },
+    {
       "raw_hot": 376765,
       "num": 376765,
       "word": "K签增设近两月为何突然引发关注",
@@ -2609,14 +2617,6 @@
       "onboard_time": 1759064906,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 361572,
-      "num": 361572,
-      "word": "第一天出去旅游的人已经老实",
-      "onboard_time": 1759311982,
-      "rank": 29,
-      "category": "幽默,旅游"
     },
     {
       "raw_hot": 360820,
@@ -2808,6 +2808,14 @@
       "word": "马思纯花少的衣服穿去了向往的生活",
       "onboard_time": 1759055361,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 325729,
+      "num": 161471,
+      "word": "林心如回应与陈妍希陈晓结亲家",
+      "onboard_time": 1759323321,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -3505,6 +3513,14 @@
       "onboard_time": 1759206680,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 237484,
+      "num": 160598,
+      "word": "迪奥大秀",
+      "onboard_time": 1759323742,
+      "rank": 20,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 237041,
@@ -5019,6 +5035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171372,
+      "num": 159614,
+      "word": "贺峻霖到时候番位你咋安排",
+      "onboard_time": 1759322781,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171199,
       "num": 153087,
       "word": "华南理工大学相关人士发声",
@@ -5897,6 +5921,14 @@
       "onboard_time": 1759152441,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149885,
+      "num": 149885,
+      "word": "王力宏穿龙鳞唱天地龙鳞",
+      "onboard_time": 1759323141,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 149715,
@@ -6953,6 +6985,14 @@
       "onboard_time": 1759111279,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132780,
+      "num": 132780,
+      "word": "习惯侧睡的人今晚换个姿势",
+      "onboard_time": 1759322781,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 132770,
@@ -8059,6 +8099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119336,
+      "num": 119336,
+      "word": "黎姿119平豪宅出租月租8.3万港元",
+      "onboard_time": 1759323023,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119312,
       "num": 133081,
       "word": "陈浚铭婴儿时期看过TFBOYS演唱会",
@@ -8129,14 +8177,6 @@
       "onboard_time": 1759040900,
       "rank": 42,
       "category": "美食"
-    },
-    {
-      "raw_hot": 118249,
-      "num": 118249,
-      "word": "贺峻霖到时候番位你咋安排",
-      "onboard_time": 1759322781,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 118225,
@@ -8963,6 +9003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108082,
+      "num": 108082,
+      "word": "薛之谦咪豆音乐节",
+      "onboard_time": 1759323861,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108068,
       "num": 108068,
       "word": "易烊千玺狂野时代国内首映",
@@ -9612,7 +9660,7 @@
     },
     {
       "raw_hot": 101335,
-      "num": 101335,
+      "num": 385899,
       "word": "祝福伟大祖国繁荣富强",
       "onboard_time": 1759291641,
       "rank": 48,
@@ -9737,14 +9785,6 @@
       "onboard_time": 1759041922,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99555,
-      "num": 99555,
-      "word": "习惯侧睡的人今晚换个姿势",
-      "onboard_time": 1759322781,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 99456,
@@ -10307,6 +10347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92308,
+      "num": 92308,
+      "word": "山西一商场现10米巨人雕塑价值百万",
+      "onboard_time": 1759320500,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92251,
       "num": 92251,
       "word": "李在明没给尹锡悦送中秋礼物",
@@ -10369,14 +10417,6 @@
       "onboard_time": 1759219761,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 91542,
-      "num": 91542,
-      "word": "山西一商场现10米巨人雕塑价值百万",
-      "onboard_time": 1759320500,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91474,
@@ -10475,14 +10515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89799,
-      "num": 89799,
-      "word": "黎姿119平豪宅出租月租8.3万港元",
-      "onboard_time": 1759323023,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89754,
       "num": 89754,
       "word": "秦彻战损daddy",
@@ -10513,6 +10545,14 @@
       "onboard_time": 1759070485,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89569,
+      "num": 89569,
+      "word": "王楚钦为救球奋不顾身",
+      "onboard_time": 1759320381,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 89506,
@@ -10859,6 +10899,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 84748,
+      "num": 84748,
+      "word": "爸姓古妈姓顾孩子被AI取名古菇顾",
+      "onboard_time": 1759322001,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84664,
       "num": 87773,
       "word": "王楚钦入选全国体育系统先进个人",
@@ -10889,14 +10937,6 @@
       "onboard_time": 1759224260,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 84370,
-      "num": 84370,
-      "word": "王楚钦为救球奋不顾身",
-      "onboard_time": 1759320381,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 84365,
@@ -11257,14 +11297,6 @@
       "onboard_time": 1759208721,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 78245,
-      "num": 78245,
-      "word": "王力宏穿龙鳞唱天地龙鳞",
-      "onboard_time": 1759323141,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 78096,
@@ -12033,6 +12065,14 @@
       "onboard_time": 1759101079,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 58988,
+      "num": 102658,
+      "word": "张颂文 这不神经病吗",
+      "onboard_time": 1759323742,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 58974,
@@ -13782,6 +13822,9 @@
     },
     {
       "word": "#总书记这样谈爱国#"
+    },
+    {
+      "word": "#做一个光荣自豪的中国人#"
     }
   ]
 }

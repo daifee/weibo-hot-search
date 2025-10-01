@@ -1,0 +1,410 @@
+{
+  "runTime": 1759324050973,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1177052,
+        "num": 1188328,
+        "word": "金价",
+        "onboard_time": 1759317381,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 409570,
+        "num": 409570,
+        "word": "央视国庆晚会",
+        "onboard_time": 1759318461,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14961,
+        "num": 385899,
+        "word": "祝福伟大祖国繁荣富强",
+        "onboard_time": 1759291641,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 378607,
+        "num": 378607,
+        "word": "第一天出去旅游的人已经老实",
+        "onboard_time": 1759311982,
+        "rank": 3,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 331808,
+        "num": 331808,
+        "word": "鸡排哥周边摊主发声",
+        "onboard_time": 1759308501,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251269,
+        "num": 251269,
+        "word": "我国有望2030年用核聚变发电",
+        "onboard_time": 1759313479,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246671,
+        "num": 246671,
+        "word": "小众但是月入过万的工作",
+        "onboard_time": 1759312221,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219097,
+        "num": 219097,
+        "word": "陈垣宇vsF勒布伦",
+        "onboard_time": 1759321101,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183105,
+        "num": 183105,
+        "word": "满街五星红旗是中国的浪漫",
+        "onboard_time": 1759321579,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 163382,
+        "num": 163382,
+        "word": "2亿烂尾楼改酒店3688元套房被订",
+        "onboard_time": 1759307720,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1542957,
+        "num": 163314,
+        "word": "迪丽热巴 芭比娃娃",
+        "onboard_time": 1759323141,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 944921,
+        "num": 162936,
+        "word": "陶白白前妻与现任同游西藏",
+        "onboard_time": 1759317620,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 56400,
+        "num": 162658,
+        "word": "国庆升旗高清大图",
+        "onboard_time": 1759309280,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 904051,
+        "num": 162450,
+        "word": "许我耀眼",
+        "onboard_time": 1759312042,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 746364,
+        "num": 162100,
+        "word": "卢远 王乐晨",
+        "onboard_time": 1759319360,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 812708,
+        "num": 162013,
+        "word": "迪奥 迪丽热巴",
+        "onboard_time": 1759302080,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 429307,
+        "num": 161600,
+        "word": "您已进入鸡排大道请打开您的塑料袋",
+        "onboard_time": 1759312820,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325729,
+        "num": 161471,
+        "word": "林心如回应与陈妍希陈晓结亲家",
+        "onboard_time": 1759323321,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267908,
+        "num": 161242,
+        "word": "何老师第一次在密逃被吓到",
+        "onboard_time": 1759316301,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254686,
+        "num": 160827,
+        "word": "金马奖",
+        "onboard_time": 1759314260,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237484,
+        "num": 160598,
+        "word": "迪奥大秀",
+        "onboard_time": 1759323742,
+        "rank": 20,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 232741,
+        "num": 160507,
+        "word": "许我耀眼云合31.7%",
+        "onboard_time": 1759313540,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228741,
+        "num": 160115,
+        "word": "蒋欣经纪人看完天塌了",
+        "onboard_time": 1759300700,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220117,
+        "num": 159984,
+        "word": "浪姐 JYP",
+        "onboard_time": 1759321041,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171372,
+        "num": 159614,
+        "word": "贺峻霖到时候番位你咋安排",
+        "onboard_time": 1759322781,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159484,
+        "num": 159484,
+        "word": "短剧男主不接受大尺度吻戏擅自离组",
+        "onboard_time": 1759320442,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149885,
+        "num": 149885,
+        "word": "王力宏穿龙鳞唱天地龙鳞",
+        "onboard_time": 1759323141,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139480,
+        "num": 139480,
+        "word": "安静公主瘦了好多",
+        "onboard_time": 1759315102,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132780,
+        "num": 132780,
+        "word": "习惯侧睡的人今晚换个姿势",
+        "onboard_time": 1759322781,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130807,
+        "num": 130807,
+        "word": "吴邪私家笔记2立项了",
+        "onboard_time": 1759322481,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126501,
+        "num": 126501,
+        "word": "国庆档票房前3",
+        "onboard_time": 1759301901,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119336,
+        "num": 119336,
+        "word": "黎姿119平豪宅出租月租8.3万港元",
+        "onboard_time": 1759323023,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118823,
+        "num": 118823,
+        "word": "沈皓明承认弟弟是私生子",
+        "onboard_time": 1759314440,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 493609,
+        "num": 118711,
+        "word": "迪奥二零二六春夏秀",
+        "onboard_time": 1759322781,
+        "rank": 33,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 118280,
+        "num": 118280,
+        "word": "金价见证历史",
+        "onboard_time": 1759321280,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115754,
+        "num": 115754,
+        "word": "王腾小红书账号注销",
+        "onboard_time": 1759322841,
+        "rank": 35,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 114894,
+        "num": 114894,
+        "word": "梁王发博的物料一模一样",
+        "onboard_time": 1759322600,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108082,
+        "num": 108082,
+        "word": "薛之谦咪豆音乐节",
+        "onboard_time": 1759323861,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104129,
+        "num": 104129,
+        "word": "杨超越找工作找到女团去了",
+        "onboard_time": 1759314140,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58988,
+        "num": 102658,
+        "word": "张颂文 这不神经病吗",
+        "onboard_time": 1759323742,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101900,
+        "num": 101900,
+        "word": "新中国成立76周年",
+        "onboard_time": 1759307541,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99284,
+        "num": 99284,
+        "word": "对祖国的爱永远滚烫赤诚",
+        "onboard_time": 1759318221,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 92709,
+        "num": 92709,
+        "word": "鸡排哥再现招牌名场面",
+        "onboard_time": 1759319180,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92308,
+        "num": 92308,
+        "word": "山西一商场现10米巨人雕塑价值百万",
+        "onboard_time": 1759320500,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89569,
+        "num": 89569,
+        "word": "王楚钦为救球奋不顾身",
+        "onboard_time": 1759320381,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87729,
+        "num": 87729,
+        "word": "蜜雪冰城门店回应多只老鼠横行",
+        "onboard_time": 1759311080,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84748,
+        "num": 84748,
+        "word": "爸姓古妈姓顾孩子被AI取名古菇顾",
+        "onboard_time": 1759322001,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84023,
+        "num": 84023,
+        "word": "时代少年团在电影里开演唱会",
+        "onboard_time": 1759316541,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83813,
+        "num": 83813,
+        "word": "陈垣宇决胜局憾负",
+        "onboard_time": 1759322542,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83189,
+        "num": 83189,
+        "word": "27岁真的还很年轻很年轻",
+        "onboard_time": 1759307480,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#做一个光荣自豪的中国人#"
+    }
+  }
+}
