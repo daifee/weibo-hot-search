@@ -1,6 +1,6 @@
 {
   "startTime": 1759336314340,
-  "endTime": 1759353763584,
+  "endTime": 1759354615096,
   "band_list": [
     {
       "raw_hot": 917837,
@@ -483,20 +483,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27891,
+      "num": 27891,
+      "word": "国旗护卫队升旗手王皓天亮相",
+      "onboard_time": 1759337421,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26868,
       "num": 68546,
       "word": "惠英红出发巴黎时装周少年感",
       "onboard_time": 1759339996,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26617,
-      "num": 26617,
-      "word": "国旗护卫队升旗手王皓天亮相",
-      "onboard_time": 1759337421,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 22567,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 12621,
-      "num": 18844,
+      "num": 18971,
       "word": "志愿军主题曲我爱你中国",
       "onboard_time": 1759341617,
       "rank": 44,
