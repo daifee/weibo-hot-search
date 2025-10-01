@@ -1,0 +1,410 @@
+{
+  "runTime": 1759303543618,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 547212,
+        "num": 1087554,
+        "word": "女子救下20楼坠落女童后不敢看评论",
+        "onboard_time": 1759294819,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402442,
+        "num": 402442,
+        "word": "鸡排哥被男子扯拽衣服要求站高点演讲",
+        "onboard_time": 1759276819,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26318,
+        "num": 336377,
+        "word": "家书中满溢炽热家国情怀",
+        "onboard_time": 1759292000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 318182,
+        "num": 318182,
+        "word": "王楚钦3比2雷德齐姆斯基",
+        "onboard_time": 1759300159,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251658,
+        "num": 251658,
+        "word": "山姆99.9元零食 好特卖39.9",
+        "onboard_time": 1759289900,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199155,
+        "num": 199155,
+        "word": "妈妈给男孩喝了一口糖竟致呕吐晕厥",
+        "onboard_time": 1759292900,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162320,
+        "num": 162320,
+        "word": "广东一地发现首例钻石血",
+        "onboard_time": 1759278139,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133014,
+        "num": 161651,
+        "word": "马龙带俩娃参加斯巴达好快乐",
+        "onboard_time": 1759300940,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131371,
+        "num": 161002,
+        "word": "美政府关门",
+        "onboard_time": 1759292419,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101299,
+        "num": 160064,
+        "word": "老乡鸡拯救了一个破碎的小女孩",
+        "onboard_time": 1759299621,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1301514,
+        "num": 159173,
+        "word": "迪奥 迪丽热巴",
+        "onboard_time": 1759302080,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 819898,
+        "num": 158552,
+        "word": "蒋欣经纪人看完天塌了",
+        "onboard_time": 1759300700,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548808,
+        "num": 157917,
+        "word": "旺仔来了个销冠",
+        "onboard_time": 1759298600,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 535154,
+        "num": 156639,
+        "word": "翁青雅彭高分手的根本原因",
+        "onboard_time": 1759296681,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 379141,
+        "num": 156445,
+        "word": "张予曦 今天的发型希望大家不要生气",
+        "onboard_time": 1759296020,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355438,
+        "num": 155475,
+        "word": "曝阮经天和小20岁女友交往超一年",
+        "onboard_time": 1759291101,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338715,
+        "num": 154811,
+        "word": "西贝取消25分钟上菜沙漏计时",
+        "onboard_time": 1759293922,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281034,
+        "num": 153436,
+        "word": "19岁擅自离组短剧男主道歉",
+        "onboard_time": 1759298181,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241221,
+        "num": 153321,
+        "word": "短剧太奶奶3有自己的道明寺",
+        "onboard_time": 1759296861,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41127,
+        "num": 151813,
+        "word": "炸鸡主理人Wa一声登场",
+        "onboard_time": 1759300641,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 209798,
+        "num": 151541,
+        "word": "韩国举行大规模阅兵仪式",
+        "onboard_time": 1759302080,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195333,
+        "num": 150404,
+        "word": "吴艳妮假期重回90公斤",
+        "onboard_time": 1759301841,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167993,
+        "num": 149735,
+        "word": "刘宇宁那英版我爱你中国",
+        "onboard_time": 1759299680,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149287,
+        "num": 149287,
+        "word": "主办方请沈佳润就好她爹会跟着去的",
+        "onboard_time": 1759291041,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43872,
+        "num": 147791,
+        "word": "王曼昱3比0巴特拉",
+        "onboard_time": 1759301780,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146715,
+        "num": 146715,
+        "word": "内娱把三生三世拍出花了",
+        "onboard_time": 1759290560,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145760,
+        "num": 145760,
+        "word": "丁禹兮的马受惊失控",
+        "onboard_time": 1759300520,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139479,
+        "num": 139479,
+        "word": "章若楠也用AI修图",
+        "onboard_time": 1759301721,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133310,
+        "num": 133310,
+        "word": "十个勤天月饼礼盒被指割韭菜",
+        "onboard_time": 1759297400,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74859,
+        "num": 126412,
+        "word": "看到李家三口同框又落泪了",
+        "onboard_time": 1759302920,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125225,
+        "num": 125225,
+        "word": "龚俊田曦薇将演攻玉",
+        "onboard_time": 1759299621,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122473,
+        "num": 122473,
+        "word": "朱一龙与89岁志愿军老兵观影",
+        "onboard_time": 1759299500,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122117,
+        "num": 122117,
+        "word": "国庆档票房前3",
+        "onboard_time": 1759301901,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118420,
+        "num": 118420,
+        "word": "王乐晨道歉",
+        "onboard_time": 1759248381,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117582,
+        "num": 117582,
+        "word": "终于有剧拍出了成年人婚姻的美",
+        "onboard_time": 1759302860,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111731,
+        "num": 111731,
+        "word": "彭高",
+        "onboard_time": 1759281199,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111193,
+        "num": 111193,
+        "word": "蔡文静扛住了G社镜头",
+        "onboard_time": 1759302320,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 109210,
+        "num": 109210,
+        "word": "王楚钦挥拳庆祝",
+        "onboard_time": 1759303220,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65841,
+        "num": 108594,
+        "word": "王楚钦绝妙手感应对搏杀",
+        "onboard_time": 1759303160,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95639,
+        "num": 108505,
+        "word": "许凯只有我在大胆地害怕",
+        "onboard_time": 1759302920,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108460,
+        "num": 108460,
+        "word": "捅了美猴王的窝了",
+        "onboard_time": 1759302860,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103478,
+        "num": 103478,
+        "word": "刘诗诗去看陈昊宇演唱会了",
+        "onboard_time": 1759301480,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101815,
+        "num": 101815,
+        "word": "周深唱出了刺杀小说家2的内核力量",
+        "onboard_time": 1759288041,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99261,
+        "num": 99261,
+        "word": "陈小春两个儿子近照",
+        "onboard_time": 1759293560,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94476,
+        "num": 94476,
+        "word": "猫猫顶起两苹果已打败99%的猫猫",
+        "onboard_time": 1759302740,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93780,
+        "num": 93780,
+        "word": "林高远让人泪目的一幕",
+        "onboard_time": 1759299261,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84887,
+        "num": 93574,
+        "word": "王楚钦vs雷德齐姆斯基",
+        "onboard_time": 1759296621,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93438,
+        "num": 93438,
+        "word": "国庆",
+        "onboard_time": 1759248741,
+        "rank": 47,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 91630,
+        "num": 91630,
+        "word": "迪奥巴黎时装周",
+        "onboard_time": 1759288457,
+        "rank": 48,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 88257,
+        "num": 88257,
+        "word": "有人深圳出发15小时还没出广东",
+        "onboard_time": 1759297161,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

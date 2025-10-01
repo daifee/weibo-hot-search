@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759301418669,
+  "endTime": 1759303543618,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -17,6 +17,14 @@
       "onboard_time": 1759248381,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1301514,
+      "num": 159173,
+      "word": "迪奥 迪丽热巴",
+      "onboard_time": 1759302080,
+      "rank": 10,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1143185,
@@ -65,6 +73,14 @@
       "onboard_time": 1759247721,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 819898,
+      "num": 179980,
+      "word": "蒋欣经纪人看完天塌了",
+      "onboard_time": 1759300700,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 804582,
@@ -169,6 +185,22 @@
       "onboard_time": 1759296020,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 548808,
+      "num": 231379,
+      "word": "旺仔来了个销冠",
+      "onboard_time": 1759298600,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 535154,
+      "num": 187446,
+      "word": "翁青雅彭高分手的根本原因",
+      "onboard_time": 1759296681,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 518812,
@@ -331,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 347724,
-      "num": 187446,
-      "word": "翁青雅彭高分手的根本原因",
-      "onboard_time": 1759296681,
-      "rank": 20,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 346043,
       "num": 241909,
       "word": "TF家族男团在湖南秋晚三代同台",
@@ -363,12 +387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 311801,
-      "num": 231379,
-      "word": "旺仔来了个销冠",
-      "onboard_time": 1759298600,
-      "rank": 16,
-      "category": "幽默"
+      "raw_hot": 318182,
+      "num": 318182,
+      "word": "王楚钦3比2雷德齐姆斯基",
+      "onboard_time": 1759300159,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 309928,
@@ -449,14 +473,6 @@
       "onboard_time": 1759292302,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238865,
-      "num": 238865,
-      "word": "王楚钦3比2雷德齐姆斯基",
-      "onboard_time": 1759300159,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 238825,
@@ -555,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209798,
+      "num": 151541,
+      "word": "韩国举行大规模阅兵仪式",
+      "onboard_time": 1759302080,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 205954,
       "num": 183138,
       "word": "男子口袋翻出旧彩票中1.28亿",
@@ -595,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195333,
+      "num": 150404,
+      "word": "吴艳妮假期重回90公斤",
+      "onboard_time": 1759301841,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194054,
       "num": 183344,
       "word": "全国最好吃的10个高铁站",
@@ -609,14 +641,6 @@
       "onboard_time": 1759281080,
       "rank": 20,
       "category": "数码"
-    },
-    {
-      "raw_hot": 179980,
-      "num": 179980,
-      "word": "蒋欣经纪人看完天塌了",
-      "onboard_time": 1759300700,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 179113,
@@ -649,6 +673,14 @@
       "onboard_time": 1759298901,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167993,
+      "num": 149735,
+      "word": "刘宇宁那英版我爱你中国",
+      "onboard_time": 1759299680,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 167385,
@@ -763,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145760,
+      "num": 145760,
+      "word": "丁禹兮的马受惊失控",
+      "onboard_time": 1759300520,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145708,
       "num": 145708,
       "word": "贺峻霖踢馆选择庞铮",
@@ -835,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139479,
+      "num": 139479,
+      "word": "章若楠也用AI修图",
+      "onboard_time": 1759301721,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139405,
       "num": 139405,
       "word": "皮蛋是外国人最讨厌食物第二名",
@@ -852,7 +900,7 @@
     },
     {
       "raw_hot": 137458,
-      "num": 137458,
+      "num": 161651,
       "word": "马龙带俩娃参加斯巴达好快乐",
       "onboard_time": 1759300940,
       "rank": 28,
@@ -884,7 +932,7 @@
     },
     {
       "raw_hot": 132770,
-      "num": 132770,
+      "num": 160064,
       "word": "老乡鸡拯救了一个破碎的小女孩",
       "onboard_time": 1759299621,
       "rank": 33,
@@ -904,14 +952,6 @@
       "word": "我爱你中国是信念也是誓言",
       "onboard_time": 1759290258,
       "rank": 39,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 128024,
-      "num": 128024,
-      "word": "刘宇宁那英版我爱你中国",
-      "onboard_time": 1759299680,
-      "rank": 34,
       "category": "电影"
     },
     {
@@ -963,14 +1003,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 123657,
-      "num": 123657,
-      "word": "丁禹兮的马受惊失控",
-      "onboard_time": 1759300520,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123487,
       "num": 123487,
       "word": "什么是假性友谊",
@@ -985,6 +1017,14 @@
       "onboard_time": 1759286420,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122117,
+      "num": 122117,
+      "word": "国庆档票房前3",
+      "onboard_time": 1759301901,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 122076,
@@ -1017,6 +1057,14 @@
       "onboard_time": 1759301001,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117582,
+      "num": 117582,
+      "word": "终于有剧拍出了成年人婚姻的美",
+      "onboard_time": 1759302860,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 114015,
@@ -1067,12 +1115,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111193,
+      "num": 111193,
+      "word": "蔡文静扛住了G社镜头",
+      "onboard_time": 1759302320,
+      "rank": 36,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 110803,
       "num": 110803,
       "word": "我家没有很多钱但有很多爱",
       "onboard_time": 1759299320,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109210,
+      "num": 109210,
+      "word": "王楚钦挥拳庆祝",
+      "onboard_time": 1759303220,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 109071,
@@ -1089,6 +1153,14 @@
       "onboard_time": 1759293320,
       "rank": 47,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 108460,
+      "num": 108460,
+      "word": "捅了美猴王的窝了",
+      "onboard_time": 1759302860,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 108396,
@@ -1153,6 +1225,14 @@
       "onboard_time": 1759285220,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 103478,
+      "num": 103478,
+      "word": "刘诗诗去看陈昊宇演唱会了",
+      "onboard_time": 1759301480,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 101787,
@@ -1235,12 +1315,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95639,
+      "num": 108505,
+      "word": "许凯只有我在大胆地害怕",
+      "onboard_time": 1759302920,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94544,
       "num": 94544,
       "word": "统计称今年A股股民人均赚2.22万",
       "onboard_time": 1759273878,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 94476,
+      "num": 94476,
+      "word": "猫猫顶起两苹果已打败99%的猫猫",
+      "onboard_time": 1759302740,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 91474,
@@ -1411,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74859,
+      "num": 126412,
+      "word": "看到李家三口同框又落泪了",
+      "onboard_time": 1759302920,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 74106,
       "num": 74106,
       "word": "蒙特利尔林孝埈打卡点",
@@ -1505,6 +1609,14 @@
       "onboard_time": 1759274118,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65841,
+      "num": 108594,
+      "word": "王楚钦绝妙手感应对搏杀",
+      "onboard_time": 1759303160,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 65648,
@@ -1673,6 +1785,14 @@
       "onboard_time": 1759288219,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 43872,
+      "num": 147791,
+      "word": "王曼昱3比0巴特拉",
+      "onboard_time": 1759301780,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 41325,
