@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/02 06:23:15
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/02 06:39:33
 </p>
 </blockquote>
 <p>
@@ -2589,6 +2589,12 @@ AG对战KSG（热度：68928）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BD%AE%E6%B5%81%E7%BB%B4%E6%8C%81%E9%B8%A1%E6%8E%92%E5%93%A5%E6%91%8A%E4%BD%8D%E7%A7%A9%E5%BA%8F%23" target="weibo">
+12名大学生轮流维持鸡排哥摊位秩序（热度：40021）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E7%82%B8%E4%B8%8D%E5%AE%8C%E6%A0%B9%E6%9C%AC%E7%82%B8%E4%B8%8D%E5%AE%8C%23" target="weibo">
 鸡排哥炸不完根本炸不完（热度：39247）
 </a>
@@ -2597,6 +2603,12 @@ AG对战KSG（热度：68928）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%8D%E5%A5%BD%E6%8B%89%E7%9A%84%E7%90%83%E6%88%91%E5%B0%B1%E6%8B%89%23" target="weibo">
 孙颖莎不好拉的球我就拉（热度：38083）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E5%8D%87%E6%97%97%E6%89%8B%E7%8E%8B%E7%9A%93%E5%A4%A9%E4%BA%AE%E7%9B%B8%23" target="weibo">
+国旗护卫队升旗手王皓天亮相（热度：37304）
 </a>
 </li>
 
@@ -2619,20 +2631,8 @@ AG对战KSG（热度：68928）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2312%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BD%AE%E6%B5%81%E7%BB%B4%E6%8C%81%E9%B8%A1%E6%8E%92%E5%93%A5%E6%91%8A%E4%BD%8D%E7%A7%A9%E5%BA%8F%23" target="weibo">
-12名大学生轮流维持鸡排哥摊位秩序（热度：35503）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E9%B8%A1%E6%8E%92%E4%BF%9D%E9%95%96%E5%B7%B2%E4%B8%8A%E7%BA%BF%23" target="weibo">
 景德镇鸡排保镖已上线（热度：34404）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E5%8D%87%E6%97%97%E6%89%8B%E7%8E%8B%E7%9A%93%E5%A4%A9%E4%BA%AE%E7%9B%B8%23" target="weibo">
-国旗护卫队升旗手王皓天亮相（热度：33458）
 </a>
 </li>
 
@@ -2769,6 +2769,12 @@ AG对战KSG（热度：68928）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E6%98%8C%E6%94%BF%E5%BA%9C%E9%A3%9F%E5%A0%82%E5%8F%88%E8%A2%AB%E8%BF%91%E4%B8%89%E5%8D%83%E6%B8%B8%E5%AE%A2%E6%8C%A4%E7%98%AB%E4%BA%86%23" target="weibo">
+荣昌政府食堂又被近三千游客挤瘫了（热度：17621）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E5%9B%9E%E5%BA%94%E6%91%86%E4%BB%B7%E5%80%BC%E7%99%BE%E4%B8%8710%E7%B1%B3%E9%AB%98%E5%B7%A8%E4%BA%BA%E9%9B%95%E5%83%8F%23" target="weibo">
 商场回应摆价值百万10米高巨人雕像（热度：16680）
 </a>
@@ -2787,6 +2793,12 @@ AG对战KSG（热度：68928）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%97%E6%84%BF%E5%86%9B%E4%B8%BB%E9%A2%98%E6%9B%B2%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD%23" target="weibo">
+志愿军主题曲我爱你中国（热度：15575）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E9%99%8D%E6%97%97%E5%90%8E%E9%AB%98%E5%94%B1%E7%A5%96%E5%9B%BD%E4%B8%8D%E4%BC%9A%E5%BF%98%E8%AE%B0%23" target="weibo">
 国旗护卫队降旗后高唱祖国不会忘记（热度：14446）
 </a>
@@ -2795,12 +2807,6 @@ AG对战KSG（热度：68928）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8C%91%E6%88%98%E8%81%94%E5%A4%A7%E7%AC%AC2758%E5%8F%B7%E5%86%B3%E8%AE%AE%E5%8D%81%E5%88%86%E8%8D%92%E8%B0%AC%23" target="weibo">
 挑战联大第2758号决议十分荒谬（热度：14384）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%97%E6%84%BF%E5%86%9B%E4%B8%BB%E9%A2%98%E6%9B%B2%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD%23" target="weibo">
-志愿军主题曲我爱你中国（热度：14126）
 </a>
 </li>
 
