@@ -1,0 +1,410 @@
+{
+  "runTime": 1759332384789,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 361276,
+        "num": 1057804,
+        "word": "王楚钦孙颖莎vs陈垣宇蒯曼",
+        "onboard_time": 1759325902,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307711,
+        "num": 307711,
+        "word": "第一天出去旅游的人已经老实",
+        "onboard_time": 1759311982,
+        "rank": 1,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 31498,
+        "num": 301648,
+        "word": "对祖国的爱永远滚烫赤诚",
+        "onboard_time": 1759318221,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300728,
+        "num": 300728,
+        "word": "网友为鸡排哥的用油吵翻了天",
+        "onboard_time": 1759328904,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212657,
+        "num": 212657,
+        "word": "王楚钦孙颖莎采访",
+        "onboard_time": 1759331481,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1628768,
+        "num": 211994,
+        "word": "G3754次列车因买短乘长超员临停",
+        "onboard_time": 1759326923,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 922049,
+        "num": 211563,
+        "word": "12306回应列车超员报警临停",
+        "onboard_time": 1759325902,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494991,
+        "num": 211510,
+        "word": "台逼人让座被踹老人竟是通缉犯",
+        "onboard_time": 1759328602,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211119,
+        "num": 211119,
+        "word": "鸡排哥周边摊主发声",
+        "onboard_time": 1759308501,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141515,
+        "num": 211040,
+        "word": "央视国庆晚会",
+        "onboard_time": 1759318461,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1044297,
+        "num": 207963,
+        "word": "迪丽热巴 芭比娃娃",
+        "onboard_time": 1759323141,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 642362,
+        "num": 207462,
+        "word": "林心如回应与陈妍希陈晓结亲家",
+        "onboard_time": 1759323321,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 636796,
+        "num": 204808,
+        "word": "许我耀眼热度",
+        "onboard_time": 1759329203,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499722,
+        "num": 203739,
+        "word": "杜淳妻子因易梦玲想整容",
+        "onboard_time": 1759327821,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202604,
+        "num": 202604,
+        "word": "王楚钦说裁判最大",
+        "onboard_time": 1759331782,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 479157,
+        "num": 201777,
+        "word": "迪丽热巴邝玲玲Orm同框",
+        "onboard_time": 1759328721,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462294,
+        "num": 200917,
+        "word": "许我耀眼",
+        "onboard_time": 1759312042,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 453879,
+        "num": 200475,
+        "word": "薛之谦说有点不敢接音乐节了",
+        "onboard_time": 1759330101,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 430692,
+        "num": 199880,
+        "word": "卢昱晓凌晨五点天安门看升旗",
+        "onboard_time": 1759324641,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351923,
+        "num": 198861,
+        "word": "陶白白前妻与现任同游西藏",
+        "onboard_time": 1759317620,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 630222,
+        "num": 198174,
+        "word": "金价",
+        "onboard_time": 1759317381,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 369390,
+        "num": 197286,
+        "word": "习惯侧睡的人今晚换个姿势",
+        "onboard_time": 1759322781,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 353146,
+        "num": 196439,
+        "word": "张颂文 这不神经病吗",
+        "onboard_time": 1759323742,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285830,
+        "num": 194971,
+        "word": "卢远 王乐晨",
+        "onboard_time": 1759319360,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274325,
+        "num": 194193,
+        "word": "迪奥大秀",
+        "onboard_time": 1759323742,
+        "rank": 24,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 193998,
+        "num": 193998,
+        "word": "南昌烟花",
+        "onboard_time": 1759324641,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186962,
+        "num": 186962,
+        "word": "王楚钦用手撑住腰部",
+        "onboard_time": 1759331122,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169451,
+        "num": 169451,
+        "word": "南非驻法大使跳楼前发诀别短信",
+        "onboard_time": 1759329262,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159907,
+        "num": 159907,
+        "word": "14亿中国人心同此愿",
+        "onboard_time": 1759327702,
+        "rank": 28,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 96068,
+        "num": 158610,
+        "word": "佩特罗下令撤换驻华外交官",
+        "onboard_time": 1759331059,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158075,
+        "num": 158075,
+        "word": "iG与T1决定TES抽签池",
+        "onboard_time": 1759328542,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141362,
+        "num": 141362,
+        "word": "刘雯迪奥走秀",
+        "onboard_time": 1759329203,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 136397,
+        "num": 136397,
+        "word": "邓为靠脸生扛刁钻镜头",
+        "onboard_time": 1759330820,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128154,
+        "num": 128154,
+        "word": "樊振东点赞外交部微博",
+        "onboard_time": 1759325421,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124916,
+        "num": 124916,
+        "word": "短剧男主不接受大尺度吻戏擅自离组",
+        "onboard_time": 1759320442,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122577,
+        "num": 122577,
+        "word": "许我耀眼预告",
+        "onboard_time": 1759328782,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122577,
+        "num": 122577,
+        "word": "偶遇乐远cp",
+        "onboard_time": 1759330702,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119139,
+        "num": 119139,
+        "word": "大王发毛不易生日照",
+        "onboard_time": 1759331721,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118921,
+        "num": 118921,
+        "word": "浪姐 JYP",
+        "onboard_time": 1759321041,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117880,
+        "num": 117880,
+        "word": "您已进入鸡排大道请打开您的塑料袋",
+        "onboard_time": 1759312820,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116107,
+        "num": 116107,
+        "word": "刘端端跨界的权威性我后知后觉",
+        "onboard_time": 1759331662,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110364,
+        "num": 110364,
+        "word": "南京梧桐大道人有亿点点多",
+        "onboard_time": 1759326980,
+        "rank": 41,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 108507,
+        "num": 108507,
+        "word": "李沁张雅钦夏梦跳Fancy",
+        "onboard_time": 1759329021,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108196,
+        "num": 108196,
+        "word": "周也dior看秀造型",
+        "onboard_time": 1759325962,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 107675,
+        "num": 107675,
+        "word": "金马奖",
+        "onboard_time": 1759314260,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102006,
+        "num": 102006,
+        "word": "鸡排哥旁边摊位凭鸡排立减2元",
+        "onboard_time": 1759328061,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90578,
+        "num": 90578,
+        "word": "严浩翔 试试我的新相机",
+        "onboard_time": 1759329562,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86812,
+        "num": 86812,
+        "word": "刘轩丞到达巴黎",
+        "onboard_time": 1759332200,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86056,
+        "num": 86056,
+        "word": "我国有望2030年用核聚变发电",
+        "onboard_time": 1759313479,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82076,
+        "num": 82076,
+        "word": "2025中网",
+        "onboard_time": 1759331541,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

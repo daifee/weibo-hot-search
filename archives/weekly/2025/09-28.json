@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759329878750,
+  "endTime": 1759332384789,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -88,6 +88,14 @@
       "word": "K签证",
       "onboard_time": 1759020502,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1628768,
+      "num": 1025201,
+      "word": "G3754次列车因买短乘长超员临停",
+      "onboard_time": 1759326923,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -424,14 +432,6 @@
       "word": "蜜雪冰城门店 老鼠横行",
       "onboard_time": 1759308980,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1025201,
-      "num": 1025201,
-      "word": "G3754次列车因买短乘长超员临停",
-      "onboard_time": 1759326923,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -1060,7 +1060,7 @@
     },
     {
       "raw_hot": 705961,
-      "num": 705961,
+      "num": 1057804,
       "word": "王楚钦孙颖莎vs陈垣宇蒯曼",
       "onboard_time": 1759325902,
       "rank": 7,
@@ -1296,6 +1296,14 @@
       "word": "网传将门毒后确定迪丽热巴",
       "onboard_time": 1759307720,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 636796,
+      "num": 204808,
+      "word": "许我耀眼热度",
+      "onboard_time": 1759329203,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1851,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 499722,
+      "num": 230339,
+      "word": "杜淳妻子因易梦玲想整容",
+      "onboard_time": 1759327821,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498805,
       "num": 238091,
       "word": "时代少年团 幻梦都破碎",
@@ -1897,6 +1913,14 @@
       "onboard_time": 1759063162,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 494991,
+      "num": 314289,
+      "word": "台逼人让座被踹老人竟是通缉犯",
+      "onboard_time": 1759328602,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 494536,
@@ -2171,6 +2195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 453879,
+      "num": 200475,
+      "word": "薛之谦说有点不敢接音乐节了",
+      "onboard_time": 1759330101,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 450957,
       "num": 219758,
       "word": "千万要少吃外面的烤鱼",
@@ -2305,6 +2337,14 @@
       "onboard_time": 1759130840,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 430692,
+      "num": 237472,
+      "word": "卢昱晓凌晨五点天安门看升旗",
+      "onboard_time": 1759324641,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 430604,
@@ -2473,14 +2513,6 @@
       "onboard_time": 1759119922,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 395353,
-      "num": 237472,
-      "word": "卢昱晓凌晨五点天安门看升旗",
-      "onboard_time": 1759324641,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 394338,
@@ -2963,14 +2995,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 314289,
-      "num": 314289,
-      "word": "台逼人让座被踹老人竟是通缉犯",
-      "onboard_time": 1759328602,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 311204,
       "num": 311204,
       "word": "乱港分子罗冠聪入境新加坡被拘",
@@ -3057,6 +3081,14 @@
       "onboard_time": 1759072463,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 300728,
+      "num": 300728,
+      "word": "网友为鸡排哥的用油吵翻了天",
+      "onboard_time": 1759328904,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 299941,
@@ -3707,14 +3739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 230339,
-      "num": 230339,
-      "word": "杜淳妻子因易梦玲想整容",
-      "onboard_time": 1759327821,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229980,
       "num": 439085,
       "word": "卖女孩的红烧肉 店名争议",
@@ -3971,6 +3995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212657,
+      "num": 212657,
+      "word": "王楚钦孙颖莎采访",
+      "onboard_time": 1759331481,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212521,
       "num": 212521,
       "word": "唐仁健受贿2.68亿余元",
@@ -4137,6 +4169,14 @@
       "onboard_time": 1759299621,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202604,
+      "num": 202604,
+      "word": "王楚钦说裁判最大",
+      "onboard_time": 1759331782,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 202491,
@@ -4385,14 +4425,6 @@
       "onboard_time": 1759201339,
       "rank": 32,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 194788,
-      "num": 194788,
-      "word": "许我耀眼热度",
-      "onboard_time": 1759329203,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 194453,
@@ -4665,6 +4697,14 @@
       "onboard_time": 1759072827,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 186962,
+      "num": 186962,
+      "word": "王楚钦用手撑住腰部",
+      "onboard_time": 1759331122,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 186898,
@@ -5217,6 +5257,14 @@
       "onboard_time": 1759044202,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169451,
+      "num": 169451,
+      "word": "南非驻法大使跳楼前发诀别短信",
+      "onboard_time": 1759329262,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 169200,
@@ -6867,6 +6915,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136397,
+      "num": 136397,
+      "word": "邓为靠脸生扛刁钻镜头",
+      "onboard_time": 1759330820,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136284,
       "num": 136284,
       "word": "郑钦文团队不支持参加中网",
@@ -8035,6 +8091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122577,
+      "num": 122577,
+      "word": "偶遇乐远cp",
+      "onboard_time": 1759330702,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122563,
       "num": 122563,
       "word": "苏醒说未必跑调但难听好笑",
@@ -8089,14 +8153,6 @@
       "onboard_time": 1758977842,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121780,
-      "num": 121780,
-      "word": "网友为鸡排哥的用油吵翻了天",
-      "onboard_time": 1759328904,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121749,
@@ -8339,6 +8395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119139,
+      "num": 119139,
+      "word": "大王发毛不易生日照",
+      "onboard_time": 1759331721,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119128,
       "num": 108293,
       "word": "佟丽娅被小酒窝迷住了",
@@ -8553,6 +8617,14 @@
       "onboard_time": 1759033942,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116107,
+      "num": 116107,
+      "word": "刘端端跨界的权威性我后知后觉",
+      "onboard_time": 1759331662,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 116083,
@@ -9049,6 +9121,14 @@
       "onboard_time": 1759072404,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 110364,
+      "num": 110364,
+      "word": "南京梧桐大道人有亿点点多",
+      "onboard_time": 1759326980,
+      "rank": 48,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 110255,
@@ -10195,14 +10275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98224,
-      "num": 98224,
-      "word": "南京梧桐大道人有亿点点多",
-      "onboard_time": 1759326980,
-      "rank": 48,
-      "category": "民生新闻,旅游"
-    },
-    {
       "raw_hot": 98018,
       "num": 98018,
       "word": "小米手机维修备件价格公布",
@@ -10337,6 +10409,14 @@
       "onboard_time": 1759307840,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96068,
+      "num": 158610,
+      "word": "佩特罗下令撤换驻华外交官",
+      "onboard_time": 1759331059,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96036,
@@ -11035,6 +11115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86812,
+      "num": 86812,
+      "word": "刘轩丞到达巴黎",
+      "onboard_time": 1759332200,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86544,
       "num": 86544,
       "word": "王楚钦孙颖莎知己知彼迎来开门红",
@@ -11385,6 +11473,14 @@
       "onboard_time": 1759137740,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82076,
+      "num": 82076,
+      "word": "2025中网",
+      "onboard_time": 1759163479,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 82006,
@@ -12139,28 +12235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64182,
-      "num": 68696,
-      "word": "2025中网",
-      "onboard_time": 1759163479,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 64132,
       "num": 67463,
       "word": "有这个全自动洗头机你愿意天天洗头吗",
       "onboard_time": 1759284080,
       "rank": 48,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 64064,
-      "num": 120394,
-      "word": "南非驻法大使跳楼前发诀别短信",
-      "onboard_time": 1759329262,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 63887,

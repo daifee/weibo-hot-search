@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759329878750,
+  "endTime": 1759332384789,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -17,6 +17,14 @@
       "onboard_time": 1759323141,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1628768,
+      "num": 1025201,
+      "word": "G3754次列车因买短乘长超员临停",
+      "onboard_time": 1759326923,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1523643,
@@ -104,14 +112,6 @@
       "word": "蜜雪冰城门店 老鼠横行",
       "onboard_time": 1759308980,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1025201,
-      "num": 1025201,
-      "word": "G3754次列车因买短乘长超员临停",
-      "onboard_time": 1759326923,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 705961,
-      "num": 705961,
+      "num": 1057804,
       "word": "王楚钦孙颖莎vs陈垣宇蒯曼",
       "onboard_time": 1759325902,
       "rank": 7,
@@ -304,6 +304,14 @@
       "word": "网传将门毒后确定迪丽热巴",
       "onboard_time": 1759307720,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 636796,
+      "num": 204808,
+      "word": "许我耀眼热度",
+      "onboard_time": 1759329203,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -427,12 +435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 499722,
+      "num": 230339,
+      "word": "杜淳妻子因易梦玲想整容",
+      "onboard_time": 1759327821,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498140,
       "num": 308785,
       "word": "内娱把三生三世拍出花了",
       "onboard_time": 1759290560,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 494991,
+      "num": 314289,
+      "word": "台逼人让座被踹老人竟是通缉犯",
+      "onboard_time": 1759328602,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 477643,
@@ -457,6 +481,14 @@
       "onboard_time": 1759288457,
       "rank": 28,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 453879,
+      "num": 200475,
+      "word": "薛之谦说有点不敢接音乐节了",
+      "onboard_time": 1759330101,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 453444,
@@ -489,6 +521,14 @@
       "onboard_time": 1759318461,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 430692,
+      "num": 237472,
+      "word": "卢昱晓凌晨五点天安门看升旗",
+      "onboard_time": 1759324641,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 430323,
@@ -537,14 +577,6 @@
       "onboard_time": 1759243462,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 395353,
-      "num": 237472,
-      "word": "卢昱晓凌晨五点天安门看升旗",
-      "onboard_time": 1759324641,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 392984,
@@ -699,19 +731,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 314289,
-      "num": 314289,
-      "word": "台逼人让座被踹老人竟是通缉犯",
-      "onboard_time": 1759328602,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 309928,
       "num": 309928,
       "word": "新人花近3万在海底捞办50桌婚宴",
       "onboard_time": 1759243283,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300728,
+      "num": 300728,
+      "word": "网友为鸡排哥的用油吵翻了天",
+      "onboard_time": 1759328904,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -875,14 +907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 230339,
-      "num": 230339,
-      "word": "杜淳妻子因易梦玲想整容",
-      "onboard_time": 1759327821,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227673,
       "num": 157583,
       "word": "27岁真的还很年轻很年轻",
@@ -979,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212657,
+      "num": 212657,
+      "word": "王楚钦孙颖莎采访",
+      "onboard_time": 1759331481,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212278,
       "num": 212278,
       "word": "王乐晨卢远回应",
@@ -1043,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202604,
+      "num": 202604,
+      "word": "王楚钦说裁判最大",
+      "onboard_time": 1759331782,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201055,
       "num": 168562,
       "word": "孩子嫌弃奶奶身上有味道妈妈严肃教育",
@@ -1083,14 +1123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194788,
-      "num": 194788,
-      "word": "许我耀眼热度",
-      "onboard_time": 1759329203,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 194453,
       "num": 194453,
       "word": "14亿中国人心同此愿",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1759308681,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186962,
+      "num": 186962,
+      "word": "王楚钦用手撑住腰部",
+      "onboard_time": 1759331122,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 184433,
@@ -1169,6 +1209,14 @@
       "onboard_time": 1759328302,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169451,
+      "num": 169451,
+      "word": "南非驻法大使跳楼前发诀别短信",
+      "onboard_time": 1759329262,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 169130,
@@ -1563,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136397,
+      "num": 136397,
+      "word": "邓为靠脸生扛刁钻镜头",
+      "onboard_time": 1759330820,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136217,
       "num": 136217,
       "word": "原来100%纯棉不一定是纯棉",
@@ -1787,20 +1843,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122577,
+      "num": 122577,
+      "word": "偶遇乐远cp",
+      "onboard_time": 1759330702,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122076,
       "num": 122076,
       "word": "辛柏青复工",
       "onboard_time": 1759237882,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121780,
-      "num": 121780,
-      "word": "网友为鸡排哥的用油吵翻了天",
-      "onboard_time": 1759328904,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121698,
@@ -1841,6 +1897,14 @@
       "onboard_time": 1759319180,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119139,
+      "num": 119139,
+      "word": "大王发毛不易生日照",
+      "onboard_time": 1759331721,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 118059,
@@ -1897,6 +1961,14 @@
       "onboard_time": 1759328423,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116107,
+      "num": 116107,
+      "word": "刘端端跨界的权威性我后知后觉",
+      "onboard_time": 1759331662,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 115386,
@@ -2001,6 +2073,14 @@
       "onboard_time": 1759299320,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110364,
+      "num": 110364,
+      "word": "南京梧桐大道人有亿点点多",
+      "onboard_time": 1759326980,
+      "rank": 48,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 110100,
@@ -2291,14 +2371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98224,
-      "num": 98224,
-      "word": "南京梧桐大道人有亿点点多",
-      "onboard_time": 1759326980,
-      "rank": 48,
-      "category": "民生新闻,旅游"
-    },
-    {
       "raw_hot": 97793,
       "num": 97793,
       "word": "乌鲁木齐地震",
@@ -2345,6 +2417,14 @@
       "onboard_time": 1759307840,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96068,
+      "num": 158610,
+      "word": "佩特罗下令撤换驻华外交官",
+      "onboard_time": 1759331059,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95515,
@@ -2547,6 +2627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86812,
+      "num": 86812,
+      "word": "刘轩丞到达巴黎",
+      "onboard_time": 1759332200,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86415,
       "num": 79337,
       "word": "美国博主谈中国在外网的口碑",
@@ -2689,6 +2777,14 @@
       "onboard_time": 1759326261,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 82076,
+      "num": 82076,
+      "word": "2025中网",
+      "onboard_time": 1759331541,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 81693,
@@ -3001,14 +3097,6 @@
       "onboard_time": 1759284080,
       "rank": 48,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 64064,
-      "num": 120394,
-      "word": "南非驻法大使跳楼前发诀别短信",
-      "onboard_time": 1759329262,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 63517,
