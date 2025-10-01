@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759328807756,
+  "endTime": 1759329878750,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2087689,
-      "num": 241538,
+      "num": 242780,
       "word": "迪丽热巴 芭比娃娃",
       "onboard_time": 1759323141,
       "rank": 16,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1523643,
+      "num": 1523643,
+      "word": "12306回应列车超员报警临停",
+      "onboard_time": 1759325902,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1521923,
       "num": 1443869,
       "word": "女子称子宫被装监听器起诉医院",
@@ -177,14 +185,6 @@
       "onboard_time": 1759067665,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1415793,
-      "num": 1415793,
-      "word": "12306回应列车超员报警临停",
-      "onboard_time": 1759325902,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1396704,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 1113859,
-      "num": 240781,
+      "num": 241206,
       "word": "林心如回应与陈妍希陈晓结亲家",
       "onboard_time": 1759323321,
       "rank": 17,
@@ -424,6 +424,14 @@
       "word": "蜜雪冰城门店 老鼠横行",
       "onboard_time": 1759308980,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1025201,
+      "num": 1025201,
+      "word": "G3754次列车因买短乘长超员临停",
+      "onboard_time": 1759326923,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -1147,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 670385,
+      "num": 238574,
+      "word": "迪丽热巴邝玲玲Orm同框",
+      "onboard_time": 1759328721,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 669649,
       "num": 565214,
       "word": "被骗100万女孩要去英国找婆婆后续",
@@ -1292,7 +1308,7 @@
     },
     {
       "raw_hot": 632850,
-      "num": 177926,
+      "num": 215967,
       "word": "张颂文 这不神经病吗",
       "onboard_time": 1759323742,
       "rank": 39,
@@ -1579,14 +1595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 558082,
-      "num": 238574,
-      "word": "迪丽热巴邝玲玲Orm同框",
-      "onboard_time": 1759328721,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 555665,
       "num": 231379,
       "word": "旺仔来了个销冠",
@@ -1809,14 +1817,6 @@
       "onboard_time": 1759055600,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 506512,
-      "num": 506512,
-      "word": "G3754次列车因买短乘长超员临停",
-      "onboard_time": 1759326923,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 503134,
@@ -2380,7 +2380,7 @@
     },
     {
       "raw_hot": 412394,
-      "num": 174037,
+      "num": 212488,
       "word": "习惯侧睡的人今晚换个姿势",
       "onboard_time": 1759322781,
       "rank": 37,
@@ -2473,6 +2473,14 @@
       "onboard_time": 1759119922,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 395353,
+      "num": 237472,
+      "word": "卢昱晓凌晨五点天安门看升旗",
+      "onboard_time": 1759324641,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 394338,
@@ -2891,6 +2899,14 @@
       "category": "情感,运动健身"
     },
     {
+      "raw_hot": 323084,
+      "num": 323084,
+      "word": "南昌烟花",
+      "onboard_time": 1759324641,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322499,
       "num": 322499,
       "word": "顺丰速运回应顺丰速孕低俗车贴",
@@ -2945,6 +2961,14 @@
       "onboard_time": 1759202120,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 314289,
+      "num": 314289,
+      "word": "台逼人让座被踹老人竟是通缉犯",
+      "onboard_time": 1759328602,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 311204,
@@ -3081,14 +3105,6 @@
       "onboard_time": 1758971661,
       "rank": 8,
       "category": "健康医疗,科学科普"
-    },
-    {
-      "raw_hot": 294781,
-      "num": 294781,
-      "word": "南昌烟花",
-      "onboard_time": 1759324641,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 294641,
@@ -3587,14 +3603,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 237472,
-      "num": 237472,
-      "word": "卢昱晓凌晨五点天安门看升旗",
-      "onboard_time": 1759324641,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237041,
       "num": 237041,
       "word": "王曼昱vs何卓佳",
@@ -3699,6 +3707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230339,
+      "num": 230339,
+      "word": "杜淳妻子因易梦玲想整容",
+      "onboard_time": 1759327821,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229980,
       "num": 439085,
       "word": "卖女孩的红烧肉 店名争议",
@@ -3769,6 +3785,14 @@
       "onboard_time": 1759176313,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224054,
+      "num": 224054,
+      "word": "iG与T1决定TES抽签池",
+      "onboard_time": 1759328542,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 222729,
@@ -4059,6 +4083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206319,
+      "num": 206319,
+      "word": "王力宏Alin浪漫对唱Foreverlove",
+      "onboard_time": 1759329082,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 205954,
       "num": 183138,
       "word": "男子口袋翻出旧彩票中1.28亿",
@@ -4073,6 +4105,14 @@
       "onboard_time": 1759134741,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204785,
+      "num": 204785,
+      "word": "王楚钦孙颖莎3比0陈垣宇蒯曼",
+      "onboard_time": 1759329262,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 203458,
@@ -4347,6 +4387,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 194788,
+      "num": 194788,
+      "word": "许我耀眼热度",
+      "onboard_time": 1759329203,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194453,
+      "num": 194453,
+      "word": "14亿中国人心同此愿",
+      "onboard_time": 1759327702,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 194239,
       "num": 194239,
       "word": "如何看待中国增设K字签证",
@@ -4611,14 +4667,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 187285,
-      "num": 187285,
-      "word": "14亿中国人心同此愿",
-      "onboard_time": 1759327702,
-      "rank": 19,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 186898,
       "num": 186898,
       "word": "苹果将推出iPhone17e",
@@ -4785,14 +4833,6 @@
       "onboard_time": 1759111701,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 181695,
-      "num": 125588,
-      "word": "iG与T1决定TES抽签池",
-      "onboard_time": 1759328542,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 181375,
@@ -4992,14 +5032,6 @@
       "word": "老太太碰瓷小女生",
       "onboard_time": 1758991339,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175456,
-      "num": 242881,
-      "word": "台逼人让座被踹老人竟是通缉犯",
-      "onboard_time": 1759328602,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -5347,6 +5379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166667,
+      "num": 166667,
+      "word": "许我耀眼预告",
+      "onboard_time": 1759328782,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166567,
       "num": 124493,
       "word": "蓝盈莹米兰非遗木屐时装秀",
@@ -5491,6 +5531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162320,
+      "num": 162320,
+      "word": "严浩翔 试试我的新相机",
+      "onboard_time": 1759329562,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161932,
       "num": 161932,
       "word": "官方回应卖女孩的红烧肉店名争议",
@@ -5513,6 +5561,14 @@
       "onboard_time": 1759028420,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161772,
+      "num": 161772,
+      "word": "刘雯迪奥走秀",
+      "onboard_time": 1759329203,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 161690,
@@ -5577,14 +5633,6 @@
       "onboard_time": 1759032021,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 161127,
-      "num": 161127,
-      "word": "杜淳妻子因易梦玲想整容",
-      "onboard_time": 1759327821,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 161102,
@@ -7443,6 +7491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129013,
+      "num": 129013,
+      "word": "李沁张雅钦夏梦跳Fancy",
+      "onboard_time": 1759329021,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128945,
       "num": 128945,
       "word": "小酒窝朵朵 娃娃亲",
@@ -8035,6 +8091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121780,
+      "num": 121780,
+      "word": "网友为鸡排哥的用油吵翻了天",
+      "onboard_time": 1759328904,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121749,
       "num": 121749,
       "word": "宝马召回超过33万辆汽车",
@@ -8619,6 +8683,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 114457,
+      "num": 114457,
+      "word": "外媒拍的邓为看秀视频",
+      "onboard_time": 1759328661,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114436,
       "num": 133266,
       "word": "肖战刘宇宁刘雨昕等歌唱曲目",
@@ -8668,7 +8740,7 @@
     },
     {
       "raw_hot": 113876,
-      "num": 554187,
+      "num": 615303,
       "word": "对祖国的爱永远滚烫赤诚",
       "onboard_time": 1759318221,
       "rank": 36,
@@ -9009,6 +9081,14 @@
       "onboard_time": 1759312700,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109923,
+      "num": 113262,
+      "word": "鸡排哥旁边摊位凭鸡排立减2元",
+      "onboard_time": 1759328061,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109917,
@@ -10115,6 +10195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98224,
+      "num": 98224,
+      "word": "南京梧桐大道人有亿点点多",
+      "onboard_time": 1759326980,
+      "rank": 48,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 98018,
       "num": 98018,
       "word": "小米手机维修备件价格公布",
@@ -10129,14 +10217,6 @@
       "onboard_time": 1759193360,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 97898,
-      "num": 97898,
-      "word": "许我耀眼预告",
-      "onboard_time": 1759328782,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 97795,
@@ -10521,14 +10601,6 @@
       "onboard_time": 1759312342,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 92802,
-      "num": 92802,
-      "word": "外媒拍的邓为看秀视频",
-      "onboard_time": 1759328661,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 92683,
@@ -11859,14 +11931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70206,
-      "num": 113262,
-      "word": "鸡排哥旁边摊位凭鸡排立减2元",
-      "onboard_time": 1759328061,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70103,
       "num": 112427,
       "word": "沈阳天后名不虚传",
@@ -12089,6 +12153,14 @@
       "onboard_time": 1759284080,
       "rank": 48,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 64064,
+      "num": 120394,
+      "word": "南非驻法大使跳楼前发诀别短信",
+      "onboard_time": 1759329262,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 63887,
