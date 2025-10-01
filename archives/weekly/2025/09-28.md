@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/10/01 23:40:50
+本榜单时间：2025/09/28 00:27:59 ~ 2025/10/02 00:31:54
 </p>
 </blockquote>
 <p>
@@ -621,6 +621,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E4%B8%BA%E6%95%91%E7%99%8C%E7%97%87%E5%84%BF%E5%AD%90%E5%9C%A8%E5%8C%BB%E9%99%A2%E8%A7%92%E8%90%BD%E5%81%9A%E5%90%83%E6%92%AD%23" target="weibo">
+母亲为救癌症儿子在医院角落做吃播（热度：827667）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E8%A7%82%E4%BC%97%E7%BC%98%23" target="weibo">
 沈佳润观众缘（热度：821805）
 </a>
@@ -743,6 +749,12 @@ K签证会让外国人抢走我们的饭碗吗（热度：792823）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232%E4%BA%BF%E7%83%82%E5%B0%BE%E6%A5%BC%E6%94%B9%E9%85%92%E5%BA%973688%E5%85%83%E5%A5%97%E6%88%BF%E8%A2%AB%E8%AE%A2%23" target="weibo">
 2亿烂尾楼改酒店3688元套房被订（热度：756562）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E7%83%AD%E5%BA%A6%23" target="weibo">
+许我耀眼热度（热度：754830）
 </a>
 </li>
 
@@ -899,12 +911,6 @@ K签证会让外国人抢走我们的饭碗吗（热度：792823）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B6%85%E8%8E%B2%E7%AA%A6%E9%AA%81%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E4%BA%86%E5%90%97%23" target="weibo">
 何超莲窦骁领结婚证了吗（热度：665616）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E7%83%AD%E5%BA%A6%23" target="weibo">
-许我耀眼热度（热度：664657）
 </a>
 </li>
 
@@ -1353,6 +1359,12 @@ K签证会让外国人抢走我们的饭碗吗（热度：792823）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B8%BA%E9%B8%A1%E6%8E%92%E5%93%A5%E7%9A%84%E7%94%A8%E6%B2%B9%E5%90%B5%E7%BF%BB%E4%BA%86%E5%A4%A9%23" target="weibo">
+网友为鸡排哥的用油吵翻了天（热度：515693）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E7%BB%99%E8%82%96%E6%88%98%E4%B8%A2%E7%8E%A9%E5%81%B6%23" target="weibo">
 工作人员给肖战丢玩偶（热度：514880）
 </a>
@@ -1655,12 +1667,6 @@ K签证引争议症结在于公平焦虑（热度：466980）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%85%B3%E4%BA%8E%E8%81%94%E5%A4%A7%E7%AC%AC2758%E5%8F%B7%E5%86%B3%E8%AE%AE%E7%9A%84%E7%AB%8B%E5%9C%BA%E6%96%87%E4%BB%B6%23" target="weibo">
 中方关于联大第2758号决议的立场文件（热度：455720）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B8%BA%E9%B8%A1%E6%8E%92%E5%93%A5%E7%9A%84%E7%94%A8%E6%B2%B9%E5%90%B5%E7%BF%BB%E4%BA%86%E5%A4%A9%23" target="weibo">
-网友为鸡排哥的用油吵翻了天（热度：453969）
 </a>
 </li>
 
@@ -1995,6 +2001,12 @@ K签增设近两月为何突然引发关注（热度：376765）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E6%9C%89%E5%9C%A8%E5%8A%AA%E5%8A%9B%E6%8E%A5%E4%BD%8F%E6%B3%BC%E5%A4%A9%E6%B5%81%E9%87%8F%23" target="weibo">
+景德镇有在努力接住泼天流量（热度：376408）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E9%83%91%E5%B7%9E%E4%B8%9C%E7%AB%9915%E7%A7%92%E6%9E%81%E9%99%90%E6%8D%A2%E4%B9%98%23" target="weibo">
 男生郑州东站15秒极限换乘（热度：375258）
 </a>
@@ -2003,6 +2015,12 @@ K签增设近两月为何突然引发关注（热度：376765）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87vs%E8%AF%BA%E6%96%AF%E7%A7%91%E5%A8%83%23" target="weibo">
 郑钦文vs诺斯科娃（热度：373783）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%A7%89%E6%9C%89%E4%B8%80%E4%BA%BF%E4%BA%BA%E5%9C%A8%E7%BB%B4%E6%B8%AF%E7%9C%8B%E7%83%9F%E8%8A%B1%23" target="weibo">
+感觉有一亿人在维港看烟花（热度：372360）
 </a>
 </li>
 
@@ -2201,6 +2219,12 @@ TF家族男团在湖南秋晚三代同台（热度：346043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E5%81%9A%E8%80%81%E6%88%BF%E5%AD%90%E5%BE%AE%E7%BC%A9%E6%A8%A1%E5%9E%8B%E5%B9%B4%E5%85%A5500%E4%B8%87%23" target="weibo">
 男生做老房子微缩模型年入500万（热度：334070）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AE%A9%E8%AE%B0%E8%80%85%E6%8F%90%E9%97%AE%E5%AD%99%E9%A2%96%E8%8E%8E%23" target="weibo">
+王楚钦让记者提问孙颖莎（热度：333864）
 </a>
 </li>
 
@@ -2445,12 +2469,6 @@ TF家族男团在湖南秋晚三代同台（热度：346043）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AE%A9%E8%AE%B0%E8%80%85%E6%8F%90%E9%97%AE%E5%AD%99%E9%A2%96%E8%8E%8E%23" target="weibo">
-王楚钦让记者提问孙颖莎（热度：287583）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A4%E7%BB%B4%E7%B2%92%20%E5%A4%8F%E6%80%9D%E9%BD%90%23" target="weibo">
 纤维粒 夏思齐（热度：287522）
 </a>
@@ -2651,6 +2669,12 @@ GEN战胜HLE（热度：251190）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%8F%91%E7%90%83%E5%8F%88%E8%A2%AB%E6%8F%90%E9%86%92%23" target="weibo">
 孙颖莎发球又被提醒（热度：248217）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%BE%97%E5%8A%9B%E8%BE%9E%E9%80%80%E8%B7%9B%E8%84%9A%E5%91%98%E5%B7%A5%E5%86%8D%E5%8F%91%E5%A3%B0%23" target="weibo">
+被得力辞退跛脚员工再发声（热度：246867）
 </a>
 </li>
 
@@ -3947,12 +3971,6 @@ JDG战胜TTG（热度：172346）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%A1%E7%AC%94%E5%B0%8F%E6%96%B0%E5%92%8C%E9%98%BF%E5%91%86%E7%96%91%E4%BC%BC%E9%97%B9%E6%8E%B0%23" target="weibo">
 蜡笔小新和阿呆疑似闹掰（热度：171045）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%A7%89%E6%9C%89%E4%B8%80%E4%BA%BF%E4%BA%BA%E5%9C%A8%E7%BB%B4%E6%B8%AF%E7%9C%8B%E7%83%9F%E8%8A%B1%23" target="weibo">
-感觉有一亿人在维港看烟花（热度：171032）
 </a>
 </li>
 
@@ -6951,6 +6969,12 @@ Rookie 隔6年了（热度：112714）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E9%B9%BF%E6%99%97%E8%AE%A4%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
+在王力宏演唱会被鹿晗认出来了（热度：109509）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E9%A6%96%E8%BD%AE%E7%B2%BE%E5%BD%A9%E9%95%9C%E5%A4%B4%23" target="weibo">
 王曼昱首轮精彩镜头（热度：109473）
 </a>
@@ -8271,6 +8295,12 @@ AG对战EDGM（热度：89610）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BA%BD%E7%BA%A6%E4%B8%80%E9%AB%98%E5%B1%82%E5%85%AC%E5%AF%93%E6%A5%BC%E9%83%A8%E5%88%86%E5%80%92%E5%A1%8C%23" target="weibo">
+美国纽约一高层公寓楼部分倒塌（热度：88531）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E7%9C%8B%E5%88%B0%E5%AD%99%E4%BF%AA%E7%85%A7%E7%89%87%E5%B0%B1%E6%B2%A1%E6%B3%95%E5%B7%A5%E4%BD%9C%E4%BA%86%23" target="weibo">
 邓超看到孙俪照片就没法工作了（热度：88436）
 </a>
@@ -8979,6 +9009,12 @@ Ruler哭了（热度：87347）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%96%B9%E7%89%B9%E9%81%93%E6%AD%89%23" target="weibo">
+郑州方特道歉（热度：72625）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%B5%B7%E6%BB%A9%E5%BF%AB%E6%88%90%E5%8C%97%E7%BE%8E%E7%89%88%E6%81%92%E6%B2%B3%23" target="weibo">
 加拿大海滩快成北美版恒河（热度：72445）
 </a>
@@ -9447,6 +9483,12 @@ NBA媒体日（热度：59886）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%BC%8F%E6%88%90%E4%B8%BA%E5%AE%89%E7%AC%AC%E6%96%AF%E5%85%B1%E5%90%8C%E4%BD%93%E8%A7%82%E5%AF%9F%E5%91%98%E5%9B%BD%23" target="weibo">
+中国正式成为安第斯共同体观察员国（热度：58300）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E9%80%80%E7%A5%A8%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%81%E6%98%8E%E5%A4%96%E5%85%AC%E6%98%AF%E5%A4%96%E5%85%AC%23" target="weibo">
 女子称退票被要求证明外公是外公（热度：58298）
 </a>
@@ -9617,6 +9659,12 @@ JDG秋季赛夺冠（热度：56505）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E9%83%BD%E5%9C%A8%E5%81%B6%E9%81%87%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
 全国都在偶遇樊振东（热度：51852）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A53%E5%B9%B4%E5%89%8D%E7%9A%84%E8%A7%86%E9%A2%91%23" target="weibo">
+鸡排哥3年前的视频（热度：51812）
 </a>
 </li>
 
@@ -9905,12 +9953,6 @@ JDG秋季赛夺冠（热度：56505）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%85%E8%B4%9D%E5%B0%94%E8%BF%99%E6%98%AF%E7%BA%A2%E6%AF%AF%E4%B8%8D%E6%98%AF%E6%81%8B%E7%BB%BC%23" target="weibo">
 包贝尔这是红毯不是恋综（热度：41655）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E9%B9%BF%E6%99%97%E8%AE%A4%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
-在王力宏演唱会被鹿晗认出来了（热度：41451）
 </a>
 </li>
 

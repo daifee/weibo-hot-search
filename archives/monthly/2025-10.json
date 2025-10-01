@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759333250398,
+  "endTime": 1759336314340,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 827667,
+      "num": 184312,
+      "word": "母亲为救癌症儿子在医院角落做吃播",
+      "onboard_time": 1759333399,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 814211,
       "num": 237981,
       "word": "卢远 王乐晨",
@@ -227,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 754830,
+      "num": 204808,
+      "word": "许我耀眼热度",
+      "onboard_time": 1759329203,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 742367,
       "num": 877129,
       "word": "国庆",
@@ -273,14 +289,6 @@
       "onboard_time": 1759328721,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 664657,
-      "num": 204808,
-      "word": "许我耀眼热度",
-      "onboard_time": 1759329203,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 662256,
@@ -419,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 515693,
+      "num": 1072635,
+      "word": "网友为鸡排哥的用油吵翻了天",
+      "onboard_time": 1759328904,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 502234,
       "num": 502234,
       "word": "意大利宣布不再为加沙救援船队护航",
@@ -481,14 +497,6 @@
       "onboard_time": 1759288457,
       "rank": 28,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 453969,
-      "num": 1072635,
-      "word": "网友为鸡排哥的用油吵翻了天",
-      "onboard_time": 1759328904,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 453879,
@@ -619,11 +627,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 376408,
+      "num": 818576,
+      "word": "景德镇有在努力接住泼天流量",
+      "onboard_time": 1759334121,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 375258,
       "num": 375258,
       "word": "男生郑州东站15秒极限换乘",
       "onboard_time": 1759288639,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 372360,
+      "num": 372360,
+      "word": "感觉有一亿人在维港看烟花",
+      "onboard_time": 1759332441,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -707,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333864,
+      "num": 333864,
+      "word": "王楚钦让记者提问孙颖莎",
+      "onboard_time": 1759332500,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 323084,
       "num": 323084,
       "word": "南昌烟花",
@@ -769,14 +801,6 @@
       "onboard_time": 1759233380,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 287583,
-      "num": 153123,
-      "word": "王楚钦让记者提问孙颖莎",
-      "onboard_time": 1759332500,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 285973,
@@ -849,6 +873,14 @@
       "onboard_time": 1759230442,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246867,
+      "num": 109521,
+      "word": "被得力辞退跛脚员工再发声",
+      "onboard_time": 1759334000,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245692,
@@ -1217,14 +1249,6 @@
       "onboard_time": 1759322781,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171032,
-      "num": 171032,
-      "word": "感觉有一亿人在维港看烟花",
-      "onboard_time": 1759332441,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 170869,
@@ -2139,6 +2163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109509,
+      "num": 109508,
+      "word": "在王力宏演唱会被鹿晗认出来了",
+      "onboard_time": 1759332679,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 109071,
       "num": 109071,
       "word": "梁靖崑祝福林高远",
@@ -2603,6 +2635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88531,
+      "num": 95978,
+      "word": "美国纽约一高层公寓楼部分倒塌",
+      "onboard_time": 1759333581,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 88229,
       "num": 121370,
       "word": "杨博文又在飞机上写作业了",
@@ -3003,6 +3043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 72625,
+      "num": 72625,
+      "word": "郑州方特道歉",
+      "onboard_time": 1759335621,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72227,
       "num": 78993,
       "word": "就爱王楚钦这股劲儿",
@@ -3179,6 +3227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58300,
+      "num": 68529,
+      "word": "中国正式成为安第斯共同体观察员国",
+      "onboard_time": 1759336159,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58154,
       "num": 56507,
       "word": "第一次看到狗回头睡脖子是悬空的",
@@ -3217,6 +3273,14 @@
       "onboard_time": 1759274598,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51812,
+      "num": 68524,
+      "word": "鸡排哥3年前的视频",
+      "onboard_time": 1759334299,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51686,
@@ -3305,14 +3369,6 @@
       "onboard_time": 1759301780,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41451,
-      "num": 93305,
-      "word": "在王力宏演唱会被鹿晗认出来了",
-      "onboard_time": 1759332679,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 41325,
