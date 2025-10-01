@@ -1,0 +1,410 @@
+{
+  "runTime": 1759353763584,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 86427,
+        "num": 130564,
+        "word": "景德镇有在努力接住泼天流量",
+        "onboard_time": 1759334121,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60562,
+        "num": 60562,
+        "word": "南非驻法大使跳楼前发诀别短信",
+        "onboard_time": 1759329262,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11541,
+        "num": 51894,
+        "word": "对祖国的爱永远滚烫赤诚",
+        "onboard_time": 1759318221,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50223,
+        "num": 50223,
+        "word": "郑州方特道歉",
+        "onboard_time": 1759335621,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40984,
+        "num": 40984,
+        "word": "鸡排大道为迎国庆把路铺平了",
+        "onboard_time": 1759336099,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37695,
+        "num": 37695,
+        "word": "美国纽约一高层公寓楼部分倒塌",
+        "onboard_time": 1759333581,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31687,
+        "num": 31687,
+        "word": "中国正式成为安第斯共同体观察员国",
+        "onboard_time": 1759336159,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 28434,
+        "num": 28434,
+        "word": "王楚钦让记者提问孙颖莎",
+        "onboard_time": 1759332500,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26617,
+        "num": 26617,
+        "word": "国旗护卫队升旗手王皓天亮相",
+        "onboard_time": 1759337421,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24367,
+        "num": 24367,
+        "word": "高铁1分钟换乘",
+        "onboard_time": 1759338797,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71303,
+        "num": 24340,
+        "word": "短剧男主不接受大尺度吻戏擅自离组",
+        "onboard_time": 1759320442,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65167,
+        "num": 24292,
+        "word": "林心如回应与陈妍希陈晓结亲家",
+        "onboard_time": 1759323321,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48680,
+        "num": 24246,
+        "word": "陈伟霆称开始不敢接霸总戏",
+        "onboard_time": 1759340297,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48455,
+        "num": 24212,
+        "word": "在王力宏演唱会被鹿晗认出来了",
+        "onboard_time": 1759332679,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40099,
+        "num": 24161,
+        "word": "杜淳妻子因易梦玲想整容",
+        "onboard_time": 1759327821,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33922,
+        "num": 24149,
+        "word": "迪丽热巴 芭比娃娃",
+        "onboard_time": 1759323141,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33373,
+        "num": 24110,
+        "word": "陶白白前妻与现任同游西藏",
+        "onboard_time": 1759317620,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 29707,
+        "num": 24044,
+        "word": "许我耀眼热度",
+        "onboard_time": 1759329203,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28769,
+        "num": 24019,
+        "word": "薛之谦说有点不敢接音乐节了",
+        "onboard_time": 1759330101,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23991,
+        "num": 23991,
+        "word": "迪奥大秀",
+        "onboard_time": 1759323742,
+        "rank": 19,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 62659,
+        "num": 23502,
+        "word": "被得力辞退跛脚员工再发声",
+        "onboard_time": 1759334000,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49063,
+        "num": 22866,
+        "word": "金价",
+        "onboard_time": 1759317381,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41803,
+        "num": 22314,
+        "word": "习惯侧睡的人今晚换个姿势",
+        "onboard_time": 1759322781,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 35608,
+        "num": 22211,
+        "word": "张颂文 这不神经病吗",
+        "onboard_time": 1759323742,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21673,
+        "num": 21673,
+        "word": "许我耀眼",
+        "onboard_time": 1759312042,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20701,
+        "num": 20701,
+        "word": "12名大学生轮流维持鸡排哥摊位秩序",
+        "onboard_time": 1759337421,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20381,
+        "num": 20381,
+        "word": "卢远 王乐晨",
+        "onboard_time": 1759319360,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19116,
+        "num": 19116,
+        "word": "特朗普说美国正遭遇内部入侵",
+        "onboard_time": 1759330820,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20536,
+        "num": 19115,
+        "word": "国庆档",
+        "onboard_time": 1759351514,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16119,
+        "num": 19093,
+        "word": "邓为靠脸生扛刁钻镜头",
+        "onboard_time": 1759330820,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14945,
+        "num": 19080,
+        "word": "刺杀小说家在刺杀谁",
+        "onboard_time": 1759326681,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14927,
+        "num": 19072,
+        "word": "孙颖莎说大头做得非常好",
+        "onboard_time": 1759336339,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14919,
+        "num": 19061,
+        "word": "王楚钦直言说不动话了",
+        "onboard_time": 1759337897,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14788,
+        "num": 19045,
+        "word": "iG与T1决定TES抽签池",
+        "onboard_time": 1759328542,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14635,
+        "num": 19034,
+        "word": "卢昱晓凌晨五点天安门看升旗",
+        "onboard_time": 1759324641,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14355,
+        "num": 19016,
+        "word": "浪姐 JYP",
+        "onboard_time": 1759321041,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13908,
+        "num": 19004,
+        "word": "迪丽热巴邝玲玲Orm同框",
+        "onboard_time": 1759328721,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13675,
+        "num": 19004,
+        "word": "惠英红出发巴黎时装周少年感",
+        "onboard_time": 1759339996,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13253,
+        "num": 18987,
+        "word": "刘雯迪奥走秀",
+        "onboard_time": 1759329203,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 12891,
+        "num": 18972,
+        "word": "阅兵后劲太太太大了",
+        "onboard_time": 1759343356,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12815,
+        "num": 18955,
+        "word": "王楚钦孙颖莎vs陈垣宇蒯曼",
+        "onboard_time": 1759325902,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12391,
+        "num": 18945,
+        "word": "14亿中国人心同此愿",
+        "onboard_time": 1759327702,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 12070,
+        "num": 18935,
+        "word": "商场回应摆价值百万10米高巨人雕像",
+        "onboard_time": 1759344316,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11616,
+        "num": 18916,
+        "word": "王楚钦说裁判最大",
+        "onboard_time": 1759331782,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11596,
+        "num": 18913,
+        "word": "男子低价买2500元西贝代金券无法用",
+        "onboard_time": 1759339517,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11573,
+        "num": 18898,
+        "word": "许我耀眼预告",
+        "onboard_time": 1759328782,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11432,
+        "num": 18887,
+        "word": "大王发毛不易生日照",
+        "onboard_time": 1759331721,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11236,
+        "num": 18877,
+        "word": "第一天出去旅游的人已经老实",
+        "onboard_time": 1759311982,
+        "rank": 47,
+        "category": "幽默,旅游"
+      },
+      {
+        "raw_hot": 11119,
+        "num": 18860,
+        "word": "许我耀眼花海海报",
+        "onboard_time": 1759328423,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10676,
+        "num": 18844,
+        "word": "志愿军主题曲我爱你中国",
+        "onboard_time": 1759341617,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#做一个光荣自豪的中国人#"
+    }
+  }
+}

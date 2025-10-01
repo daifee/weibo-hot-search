@@ -1,6 +1,6 @@
 {
   "startTime": 1759336314340,
-  "endTime": 1759351250517,
+  "endTime": 1759353763584,
   "band_list": [
     {
       "raw_hot": 917837,
@@ -491,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26617,
+      "num": 26617,
+      "word": "国旗护卫队升旗手王皓天亮相",
+      "onboard_time": 1759337421,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22567,
       "num": 44972,
       "word": "阅兵后劲太太太大了",
@@ -507,12 +515,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 19634,
-      "num": 26125,
-      "word": "国旗护卫队升旗手王皓天亮相",
-      "onboard_time": 1759337421,
-      "rank": 38,
-      "category": "国内时政"
+      "raw_hot": 20536,
+      "num": 19115,
+      "word": "国庆档",
+      "onboard_time": 1759351514,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 17752,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 12621,
-      "num": 17632,
+      "num": 18844,
       "word": "志愿军主题曲我爱你中国",
       "onboard_time": 1759341617,
       "rank": 44,

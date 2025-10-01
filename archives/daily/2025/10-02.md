@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/02 00:31:54 ~ 2025/10/02 04:40:50
+本榜单时间：2025/10/02 00:31:54 ~ 2025/10/02 05:22:43
 </p>
 </blockquote>
 <p>
@@ -381,6 +381,12 @@ iG与T1决定TES抽签池（热度：94700）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E5%8D%87%E6%97%97%E6%89%8B%E7%8E%8B%E7%9A%93%E5%A4%A9%E4%BA%AE%E7%9B%B8%23" target="weibo">
+国旗护卫队升旗手王皓天亮相（热度：26617）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E5%90%8E%E5%8A%B2%E5%A4%AA%E5%A4%AA%E5%A4%AA%E5%A4%A7%E4%BA%86%23" target="weibo">
 阅兵后劲太太太大了（热度：22567）
 </a>
@@ -393,8 +399,8 @@ iG与T1决定TES抽签池（热度：94700）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E5%8D%87%E6%97%97%E6%89%8B%E7%8E%8B%E7%9A%93%E5%A4%A9%E4%BA%AE%E7%9B%B8%23" target="weibo">
-国旗护卫队升旗手王皓天亮相（热度：19634）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%A1%A3%23" target="weibo">
+国庆档（热度：20536）
 </a>
 </li>
 
