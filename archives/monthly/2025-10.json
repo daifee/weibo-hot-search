@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759308424415,
+  "endTime": 1759310918040,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -57,6 +57,14 @@
       "onboard_time": 1759300700,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1007842,
+      "num": 1066487,
+      "word": "有人西贝点单200元实付0元",
+      "onboard_time": 1759306521,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 879796,
@@ -187,6 +195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 583124,
+      "num": 158552,
+      "word": "网传将门毒后确定迪丽热巴",
+      "onboard_time": 1759307720,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 570592,
       "num": 237157,
       "word": "乐远cp选择不成为情侣",
@@ -209,6 +225,22 @@
       "onboard_time": 1759296020,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 535788,
+      "num": 159268,
+      "word": "张泽禹 舌钉",
+      "onboard_time": 1759308261,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 527134,
+      "num": 1084341,
+      "word": "2亿烂尾楼改酒店3688元套房被订",
+      "onboard_time": 1759307720,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 518812,
@@ -276,7 +308,7 @@
     },
     {
       "raw_hot": 449066,
-      "num": 157984,
+      "num": 158938,
       "word": "董卿 超有气质的漂亮姐姐",
       "onboard_time": 1759304781,
       "rank": 13,
@@ -307,16 +339,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 415544,
-      "num": 1066487,
-      "word": "有人西贝点单200元实付0元",
-      "onboard_time": 1759306521,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 412880,
-      "num": 155601,
+      "num": 289596,
       "word": "国庆档票房前3",
       "onboard_time": 1759301901,
       "rank": 32,
@@ -329,6 +353,14 @@
       "onboard_time": 1759243462,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 403170,
+      "num": 403170,
+      "word": "蜜雪冰城门店 老鼠横行",
+      "onboard_time": 1759308980,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 392984,
@@ -467,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279856,
+      "num": 158468,
+      "word": "韩国举行大规模阅兵仪式",
+      "onboard_time": 1759302080,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 270941,
       "num": 270941,
       "word": "台湾是中国领土一部分",
@@ -483,12 +523,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 261894,
-      "num": 151541,
-      "word": "韩国举行大规模阅兵仪式",
-      "onboard_time": 1759302080,
+      "raw_hot": 256552,
+      "num": 157823,
+      "word": "鸡排哥周边摊主发声",
+      "onboard_time": 1759308501,
       "rank": 20,
-      "category": "国际时政"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 255819,
@@ -523,8 +563,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244911,
+      "num": 244911,
+      "word": "解放军位黄岩岛领海领空战备警巡",
+      "onboard_time": 1759309400,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 244766,
-      "num": 148617,
+      "num": 157390,
       "word": "巴基斯坦男孩枪杀4名亲人被判100年",
       "onboard_time": 1759305200,
       "rank": 21,
@@ -569,6 +617,22 @@
       "onboard_time": 1759242442,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 227673,
+      "num": 157583,
+      "word": "27岁真的还很年轻很年轻",
+      "onboard_time": 1759307480,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 222904,
+      "num": 157924,
+      "word": "严浩翔定妆剧照",
+      "onboard_time": 1759307419,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 216553,
@@ -627,14 +691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211166,
-      "num": 146450,
-      "word": "严浩翔定妆剧照",
-      "onboard_time": 1759307419,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205954,
       "num": 183138,
       "word": "男子口袋翻出旧彩票中1.28亿",
@@ -648,14 +704,6 @@
       "word": "龚俊田曦薇将演攻玉",
       "onboard_time": 1759299621,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 202004,
-      "num": 141794,
-      "word": "网传将门毒后确定迪丽热巴",
-      "onboard_time": 1759307720,
-      "rank": 21,
       "category": "剧集"
     },
     {
@@ -699,14 +747,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 182894,
-      "num": 138831,
-      "word": "27岁真的还很年轻很年轻",
-      "onboard_time": 1759307480,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 182826,
       "num": 171091,
       "word": "iPhone11ProMax被列为复古产品",
@@ -723,12 +763,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175947,
+      "num": 156690,
+      "word": "麻辣鸡和CardiB线下约架",
+      "onboard_time": 1759308681,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175379,
       "num": 175379,
       "word": "爱奇艺10月待播剧综",
       "onboard_time": 1759291820,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172441,
+      "num": 172441,
+      "word": "郑州方特跳楼机高空悬停七八分钟",
+      "onboard_time": 1759308681,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169130,
@@ -835,6 +891,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 156520,
+      "num": 156520,
+      "word": "赚三薪",
+      "onboard_time": 1759306760,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153792,
       "num": 153792,
       "word": "曝方媛已产下第三胎",
@@ -857,6 +921,14 @@
       "onboard_time": 1759298960,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149047,
+      "num": 149047,
+      "word": "刘轩丞超绝不经意展示新手机",
+      "onboard_time": 1759309819,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 147817,
@@ -1004,11 +1076,19 @@
     },
     {
       "raw_hot": 137127,
-      "num": 104742,
+      "num": 105172,
       "word": "国庆七天赚到一个月生活费",
       "onboard_time": 1759307419,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 135551,
+      "num": 160233,
+      "word": "南部战区有效应对侵权挑衅",
+      "onboard_time": 1759309400,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135305,
@@ -1195,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113677,
+      "num": 113677,
+      "word": "原来100%纯棉不一定是纯棉",
+      "onboard_time": 1759310601,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 113253,
       "num": 113253,
       "word": "湖南国补",
@@ -1299,6 +1387,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107098,
+      "num": 107098,
+      "word": "美防长宣布不许留须批评肥胖官兵",
+      "onboard_time": 1759307000,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 107064,
+      "num": 107064,
+      "word": "刺杀小说家",
+      "onboard_time": 1759310660,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 106988,
       "num": 106988,
       "word": "令人心动的offer",
@@ -1321,6 +1425,14 @@
       "onboard_time": 1759245443,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104986,
+      "num": 104985,
+      "word": "董璇小酒窝合体跳技能五子棋",
+      "onboard_time": 1759308681,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 104034,
@@ -1395,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100524,
+      "num": 100524,
+      "word": "断糖30天的身体变化",
+      "onboard_time": 1759310000,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100252,
       "num": 100252,
       "word": "鹿晗回应力宏鹿晗联合厉害",
@@ -1451,6 +1571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95515,
+      "num": 104987,
+      "word": "北航回应90后美女副教授走红",
+      "onboard_time": 1759309881,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94918,
       "num": 94918,
       "word": "猫猫顶起两苹果已打败99%的猫猫",
@@ -1475,14 +1603,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 91580,
-      "num": 91580,
-      "word": "张泽禹 舌钉",
-      "onboard_time": 1759308261,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 91474,
       "num": 91474,
       "word": "向阳而生奔赴未来",
@@ -1497,6 +1617,14 @@
       "onboard_time": 1759304242,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90487,
+      "num": 90487,
+      "word": "光明集团将接手绿捷校园餐业务",
+      "onboard_time": 1759308921,
+      "rank": 44,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 89917,
@@ -1643,28 +1771,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80897,
-      "num": 93794,
-      "word": "2亿烂尾楼改酒店3688元套房被订",
-      "onboard_time": 1759307720,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80667,
       "num": 80667,
       "word": "林昀儒高承睿男双退赛",
       "onboard_time": 1759303641,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80183,
-      "num": 89139,
-      "word": "美防长宣布不许留须批评肥胖官兵",
-      "onboard_time": 1759307000,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 80144,
@@ -1689,6 +1801,14 @@
       "onboard_time": 1759274598,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 79854,
+      "num": 79854,
+      "word": "鸡排保镖",
+      "onboard_time": 1759308021,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79640,
@@ -1769,6 +1889,14 @@
       "onboard_time": 1759241422,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 72227,
+      "num": 78993,
+      "word": "就爱王楚钦这股劲儿",
+      "onboard_time": 1759310719,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 72135,
@@ -1947,6 +2075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 55612,
+      "num": 348547,
+      "word": "国庆升旗高清大图",
+      "onboard_time": 1759309280,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 54156,
       "num": 54156,
       "word": "小猫睡得不知天地为何物了",
@@ -2107,6 +2243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32553,
+      "num": 104986,
+      "word": "景德镇鸡排保镖已上线",
+      "onboard_time": 1759310121,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32323,
       "num": 864905,
       "word": "国庆中秋假期安全提示",
@@ -2163,6 +2307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26616,
+      "num": 79196,
+      "word": "鸡排哥淡淡的霸总话术为何火出圈",
+      "onboard_time": 1759309221,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26300,
       "num": 30045,
       "word": "王源新歌唱出家国情怀",
@@ -2193,6 +2345,14 @@
       "onboard_time": 1759270095,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20503,
+      "num": 105076,
+      "word": "100名游客托举1650平方米国旗",
+      "onboard_time": 1759310179,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19058,
