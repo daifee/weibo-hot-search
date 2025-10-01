@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759285345915,
+  "endTime": 1759288701489,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1068610,
-      "num": 1068610,
+      "num": 1169062,
       "word": "鸡排哥被男子扯拽衣服要求站高点演讲",
       "onboard_time": 1759276819,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 866855,
+      "num": 866855,
+      "word": "全红婵水花消失术为祖国庆生",
+      "onboard_time": 1759283539,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 860737,
@@ -115,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 453444,
+      "num": 150857,
+      "word": "K签证",
+      "onboard_time": 1759285580,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 429669,
       "num": 429669,
       "word": "校方称9人轮流睡8张床最公平",
@@ -171,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346043,
+      "num": 166575,
+      "word": "TF家族男团在湖南秋晚三代同台",
+      "onboard_time": 1759285759,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 343147,
       "num": 229749,
       "word": "文咏珊官宣当妈",
@@ -211,6 +235,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 262421,
+      "num": 262421,
+      "word": "白宫宣布政府即将关门",
+      "onboard_time": 1759282700,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 253942,
       "num": 253942,
       "word": "女子过度医美面部馒化酷似面具人",
@@ -227,12 +259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 248842,
-      "num": 248842,
-      "word": "白宫宣布政府即将关门",
-      "onboard_time": 1759282700,
-      "rank": 6,
-      "category": "国际时政"
+      "raw_hot": 243842,
+      "num": 243842,
+      "word": "我爱你中国",
+      "onboard_time": 1759275559,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238825,
@@ -259,14 +291,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 223374,
-      "num": 223374,
-      "word": "我爱你中国",
-      "onboard_time": 1759275559,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 214147,
       "num": 214147,
       "word": "中方关于联大第2758号决议的立场文件",
@@ -291,12 +315,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198183,
+      "raw_hot": 201055,
       "num": 168562,
       "word": "孩子嫌弃奶奶身上有味道妈妈严肃教育",
       "onboard_time": 1759283239,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195688,
+      "num": 183267,
+      "word": "王乐晨前女友",
+      "onboard_time": 1759275378,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 192254,
@@ -307,12 +339,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183267,
-      "num": 183267,
-      "word": "王乐晨前女友",
-      "onboard_time": 1759275378,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 189887,
+      "num": 189887,
+      "word": "意大利宣布不再为加沙救援船队护航",
+      "onboard_time": 1759287979,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 182826,
@@ -355,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160684,
+      "num": 160684,
+      "word": "鸡排哥",
+      "onboard_time": 1759282758,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156584,
       "num": 156584,
       "word": "菲律宾地震26死147伤",
@@ -371,6 +411,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150867,
+      "num": 150867,
+      "word": "男生郑州东站15秒极限换乘",
+      "onboard_time": 1759288639,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150584,
+      "num": 150584,
+      "word": "景德镇连夜招大学生上任鸡排保镖",
+      "onboard_time": 1759287260,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147399,
+      "num": 147399,
+      "word": "周深唱出了刺杀小说家2的内核力量",
+      "onboard_time": 1759288041,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146083,
       "num": 135689,
       "word": "张晚意马思纯 埃及法老和他的宠妃",
@@ -385,6 +449,14 @@
       "onboard_time": 1759280780,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144974,
+      "num": 144974,
+      "word": "宋亚轩说无比帅气的丁行者棒棒",
+      "onboard_time": 1759288521,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 144686,
@@ -411,12 +483,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140485,
+      "num": 140485,
+      "word": "男子口袋翻出旧彩票中1.28亿",
+      "onboard_time": 1759288280,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 139185,
       "num": 139185,
       "word": "容祖儿晒与肖战王力宏合照",
       "onboard_time": 1759245561,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137354,
+      "num": 137354,
+      "word": "电影刺杀小说家2",
+      "onboard_time": 1759286540,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 136086,
+      "num": 136086,
+      "word": "迪奥巴黎时装周",
+      "onboard_time": 1759288457,
+      "rank": 28,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 134830,
@@ -435,20 +531,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130435,
-      "num": 130435,
-      "word": "鸡排哥",
-      "onboard_time": 1759282758,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126676,
       "num": 126676,
       "word": "如益cp官宣后发文",
       "onboard_time": 1759279159,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125663,
+      "num": 125663,
+      "word": "菲律宾地震已致22死数百伤",
+      "onboard_time": 1759285580,
+      "rank": 33,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 124919,
@@ -467,12 +563,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124212,
+      "num": 124212,
+      "word": "彭高和翁青雅刚官宣一个月就分手",
+      "onboard_time": 1759288340,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 123163,
+      "num": 123163,
+      "word": "小酒窝祝祖国生日快乐",
+      "onboard_time": 1759286420,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122076,
       "num": 122076,
       "word": "辛柏青复工",
       "onboard_time": 1759237882,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119612,
+      "num": 119612,
+      "word": "当普通家族里出现了第一个研究生",
+      "onboard_time": 1759287199,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 114015,
@@ -545,6 +665,14 @@
       "onboard_time": 1759273878,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 91537,
+      "num": 91537,
+      "word": "鹿晗回应力宏鹿晗联合厉害",
+      "onboard_time": 1759286960,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 91474,
@@ -915,12 +1043,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27087,
+      "num": 161558,
+      "word": "篮球之夜名场面哪帧戳中你",
+      "onboard_time": 1759287739,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26300,
       "num": 30045,
       "word": "王源新歌唱出家国情怀",
       "onboard_time": 1759256656,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 24847,
+      "num": 111484,
+      "word": "刘宇演唱会上海站官宣",
+      "onboard_time": 1759259594,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 24335,
@@ -939,12 +1083,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20503,
-      "num": 85393,
-      "word": "刘宇演唱会上海站官宣",
-      "onboard_time": 1759259594,
-      "rank": 29,
-      "category": "演出"
+      "raw_hot": 19769,
+      "num": 676870,
+      "word": "网警提醒双节这些陷阱要绕行",
+      "onboard_time": 1759288399,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16459,
@@ -977,6 +1121,14 @@
       "onboard_time": 1759263554,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13993,
+      "num": 109493,
+      "word": "宋雨琦包场支持范丞丞王安宇",
+      "onboard_time": 1759288219,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 13818,
