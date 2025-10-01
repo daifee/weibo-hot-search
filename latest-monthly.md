@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/02 04:28:23
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/02 04:40:50
 </p>
 </blockquote>
 <p>
@@ -2751,14 +2751,14 @@ AG对战KSG（热度：68928）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2376%E7%A7%92%E6%8E%A5%E5%8A%9B%E8%A1%A8%E7%99%BD%E7%A5%96%E5%9B%BD%23" target="weibo">
-76秒接力表白祖国（热度：19058）
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E5%8D%87%E6%97%97%E6%89%8B%E7%8E%8B%E7%9A%93%E5%A4%A9%E4%BA%AE%E7%9B%B8%23" target="weibo">
+国旗护卫队升旗手王皓天亮相（热度：19634）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E5%8D%87%E6%97%97%E6%89%8B%E7%8E%8B%E7%9A%93%E5%A4%A9%E4%BA%AE%E7%9B%B8%23" target="weibo">
-国旗护卫队升旗手王皓天亮相（热度：18632）
+<a href="https://s.weibo.com/weibo?q=%2376%E7%A7%92%E6%8E%A5%E5%8A%9B%E8%A1%A8%E7%99%BD%E7%A5%96%E5%9B%BD%23" target="weibo">
+76秒接力表白祖国（热度：19058）
 </a>
 </li>
 
@@ -2795,6 +2795,12 @@ AG对战KSG（热度：68928）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%AF%8F%E4%B8%80%E7%A7%92%E9%83%BD%E5%9C%A8%E5%89%8D%E8%BF%9B%23" target="weibo">
 中国每一秒都在前进（热度：13818）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%97%E6%84%BF%E5%86%9B%E4%B8%BB%E9%A2%98%E6%9B%B2%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD%23" target="weibo">
+志愿军主题曲我爱你中国（热度：12621）
 </a>
 </li>
 

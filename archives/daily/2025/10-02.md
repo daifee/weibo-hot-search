@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/02 00:31:54 ~ 2025/10/02 04:28:23
+本榜单时间：2025/10/02 00:31:54 ~ 2025/10/02 04:40:50
 </p>
 </blockquote>
 <p>
@@ -394,7 +394,7 @@ iG与T1决定TES抽签池（热度：94700）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E5%8D%87%E6%97%97%E6%89%8B%E7%8E%8B%E7%9A%93%E5%A4%A9%E4%BA%AE%E7%9B%B8%23" target="weibo">
-国旗护卫队升旗手王皓天亮相（热度：18632）
+国旗护卫队升旗手王皓天亮相（热度：19634）
 </a>
 </li>
 
@@ -407,6 +407,12 @@ iG与T1决定TES抽签池（热度：94700）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E5%9B%9E%E5%BA%94%E6%91%86%E4%BB%B7%E5%80%BC%E7%99%BE%E4%B8%8710%E7%B1%B3%E9%AB%98%E5%B7%A8%E4%BA%BA%E9%9B%95%E5%83%8F%23" target="weibo">
 商场回应摆价值百万10米高巨人雕像（热度：16680）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%97%E6%84%BF%E5%86%9B%E4%B8%BB%E9%A2%98%E6%9B%B2%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD%23" target="weibo">
+志愿军主题曲我爱你中国（热度：12621）
 </a>
 </li>
 
