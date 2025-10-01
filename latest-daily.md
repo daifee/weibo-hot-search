@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/02 00:31:54 ~ 2025/10/02 06:39:33
+本榜单时间：2025/10/02 00:31:54 ~ 2025/10/02 07:22:55
 </p>
 </blockquote>
 <p>
@@ -105,6 +105,12 @@ G3754次列车因买短乘长超员临停（热度：644464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%A4%A7%E5%B0%BA%E5%BA%A6%E5%90%BB%E6%88%8F%E6%93%85%E8%87%AA%E7%A6%BB%E7%BB%84%23" target="weibo">
+短剧男主不接受大尺度吻戏擅自离组（热度：275923）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%BE%97%E5%8A%9B%E8%BE%9E%E9%80%80%E8%B7%9B%E8%84%9A%E5%91%98%E5%B7%A5%E5%86%8D%E5%8F%91%E5%A3%B0%23" target="weibo">
 被得力辞退跛脚员工再发声（热度：265094）
 </a>
@@ -129,6 +135,18 @@ G3754次列车因买短乘长超员临停（热度：644464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%9D%9E%E9%A9%BB%E6%B3%95%E5%A4%A7%E4%BD%BF%E8%B7%B3%E6%A5%BC%E5%89%8D%E5%8F%91%E8%AF%80%E5%88%AB%E7%9F%AD%E4%BF%A1%23" target="weibo">
+南非驻法大使跳楼前发诀别短信（热度：212385）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E7%A7%B0%E5%BC%80%E5%A7%8B%E4%B8%8D%E6%95%A2%E6%8E%A5%E9%9C%B8%E6%80%BB%E6%88%8F%23" target="weibo">
+陈伟霆称开始不敢接霸总戏（热度：209488）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E8%A3%81%E5%88%A4%E6%9C%80%E5%A4%A7%23" target="weibo">
 王楚钦说裁判最大（热度：203419）
 </a>
@@ -147,12 +165,6 @@ G3754次列车因买短乘长超员临停（热度：644464）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%9D%9E%E9%A9%BB%E6%B3%95%E5%A4%A7%E4%BD%BF%E8%B7%B3%E6%A5%BC%E5%89%8D%E5%8F%91%E8%AF%80%E5%88%AB%E7%9F%AD%E4%BF%A1%23" target="weibo">
-南非驻法大使跳楼前发诀别短信（热度：182703）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%20%E8%BF%99%E4%B8%8D%E7%A5%9E%E7%BB%8F%E7%97%85%E5%90%97%23" target="weibo">
 张颂文 这不神经病吗（热度：173864）
 </a>
@@ -161,12 +173,6 @@ G3754次列车因买短乘长超员临停（热度：644464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E9%B9%BF%E6%99%97%E8%AE%A4%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
 在王力宏演唱会被鹿晗认出来了（热度：151160）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%A4%A7%E5%B0%BA%E5%BA%A6%E5%90%BB%E6%88%8F%E6%93%85%E8%87%AA%E7%A6%BB%E7%BB%84%23" target="weibo">
-短剧男主不接受大尺度吻戏擅自离组（热度：150958）
 </a>
 </li>
 
@@ -189,8 +195,8 @@ G3754次列车因买短乘长超员临停（热度：644464）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E7%A7%B0%E5%BC%80%E5%A7%8B%E4%B8%8D%E6%95%A2%E6%8E%A5%E9%9C%B8%E6%80%BB%E6%88%8F%23" target="weibo">
-陈伟霆称开始不敢接霸总戏（热度：135537）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%8B%92%E7%BB%9D%E7%BE%8E%E5%9B%BD%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E4%BA%94%E4%BA%94%E5%88%86%E8%A6%81%E6%B1%82%23" target="weibo">
+台湾拒绝美国芯片制造五五分要求（热度：116520）
 </a>
 </li>
 
@@ -231,6 +237,12 @@ iG与T1决定TES抽签池（热度：94700）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BD%AE%E6%B5%81%E7%BB%B4%E6%8C%81%E9%B8%A1%E6%8E%92%E5%93%A5%E6%91%8A%E4%BD%8D%E7%A7%A9%E5%BA%8F%23" target="weibo">
+12名大学生轮流维持鸡排哥摊位秩序（热度：86837）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E4%B9%90%E8%BF%9Ccp%23" target="weibo">
 偶遇乐远cp（热度：84612）
 </a>
@@ -245,6 +257,12 @@ iG与T1决定TES抽签池（热度：94700）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%8E%8B%E5%8F%91%E6%AF%9B%E4%B8%8D%E6%98%93%E7%94%9F%E6%97%A5%E7%85%A7%23" target="weibo">
 大王发毛不易生日照（热度：72130）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%BC%8F%E6%88%90%E4%B8%BA%E5%AE%89%E7%AC%AC%E6%96%AF%E5%85%B1%E5%90%8C%E4%BD%93%E8%A7%82%E5%AF%9F%E5%91%98%E5%9B%BD%23" target="weibo">
+中国正式成为安第斯共同体观察员国（热度：71861）
 </a>
 </li>
 
@@ -275,12 +293,6 @@ iG与T1决定TES抽签池（热度：94700）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E9%9D%A0%E8%84%B8%E7%94%9F%E6%89%9B%E5%88%81%E9%92%BB%E9%95%9C%E5%A4%B4%23" target="weibo">
 邓为靠脸生扛刁钻镜头（热度：67015）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%BC%8F%E6%88%90%E4%B8%BA%E5%AE%89%E7%AC%AC%E6%96%AF%E5%85%B1%E5%90%8C%E4%BD%93%E8%A7%82%E5%AF%9F%E5%91%98%E5%9B%BD%23" target="weibo">
-中国正式成为安第斯共同体观察员国（热度：65424）
 </a>
 </li>
 
@@ -351,14 +363,20 @@ iG与T1决定TES抽签池（热度：94700）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2312%E5%90%8D%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%BD%AE%E6%B5%81%E7%BB%B4%E6%8C%81%E9%B8%A1%E6%8E%92%E5%93%A5%E6%91%8A%E4%BD%8D%E7%A7%A9%E5%BA%8F%23" target="weibo">
-12名大学生轮流维持鸡排哥摊位秩序（热度：40021）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E6%98%8C%E6%94%BF%E5%BA%9C%E9%A3%9F%E5%A0%82%E5%8F%88%E8%A2%AB%E8%BF%91%E4%B8%89%E5%8D%83%E6%B8%B8%E5%AE%A2%E6%8C%A4%E7%98%AB%E4%BA%86%23" target="weibo">
+荣昌政府食堂又被近三千游客挤瘫了（热度：37465）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E5%8D%87%E6%97%97%E6%89%8B%E7%8E%8B%E7%9A%93%E5%A4%A9%E4%BA%AE%E7%9B%B8%23" target="weibo">
 国旗护卫队升旗手王皓天亮相（热度：37304）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BD%8E%E4%BB%B7%E4%B9%B02500%E5%85%83%E8%A5%BF%E8%B4%9D%E4%BB%A3%E9%87%91%E5%88%B8%E6%97%A0%E6%B3%95%E7%94%A8%23" target="weibo">
+男子低价买2500元西贝代金券无法用（热度：31700）
 </a>
 </li>
 
@@ -375,8 +393,8 @@ iG与T1决定TES抽签池（热度：94700）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BD%8E%E4%BB%B7%E4%B9%B02500%E5%85%83%E8%A5%BF%E8%B4%9D%E4%BB%A3%E9%87%91%E5%88%B8%E6%97%A0%E6%B3%95%E7%94%A8%23" target="weibo">
-男子低价买2500元西贝代金券无法用（热度：30751）
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E5%90%8E%E5%8A%B2%E5%A4%AA%E5%A4%AA%E5%A4%AA%E5%A4%A7%E4%BA%86%23" target="weibo">
+阅兵后劲太太太大了（热度：27905）
 </a>
 </li>
 
@@ -387,8 +405,14 @@ iG与T1决定TES抽签池（热度：94700）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E5%90%8E%E5%8A%B2%E5%A4%AA%E5%A4%AA%E5%A4%AA%E5%A4%A7%E4%BA%86%23" target="weibo">
-阅兵后劲太太太大了（热度：22567）
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E5%9B%9E%E5%BA%94%E6%91%86%E4%BB%B7%E5%80%BC%E7%99%BE%E4%B8%8710%E7%B1%B3%E9%AB%98%E5%B7%A8%E4%BA%BA%E9%9B%95%E5%83%8F%23" target="weibo">
+商场回应摆价值百万10米高巨人雕像（热度：25668）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%8C%E5%B3%B0%E5%88%86%E4%BA%AB%E5%92%8C%E8%82%96%E6%88%98%E7%9A%84%E4%BA%92%E5%8A%A8%23" target="weibo">
+凌峰分享和肖战的互动（热度：24806）
 </a>
 </li>
 
@@ -407,18 +431,6 @@ iG与T1决定TES抽签池（热度：94700）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%20%E8%AF%95%E8%AF%95%E6%88%91%E7%9A%84%E6%96%B0%E7%9B%B8%E6%9C%BA%23" target="weibo">
 严浩翔 试试我的新相机（热度：17752）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E6%98%8C%E6%94%BF%E5%BA%9C%E9%A3%9F%E5%A0%82%E5%8F%88%E8%A2%AB%E8%BF%91%E4%B8%89%E5%8D%83%E6%B8%B8%E5%AE%A2%E6%8C%A4%E7%98%AB%E4%BA%86%23" target="weibo">
-荣昌政府食堂又被近三千游客挤瘫了（热度：17621）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E5%9B%9E%E5%BA%94%E6%91%86%E4%BB%B7%E5%80%BC%E7%99%BE%E4%B8%8710%E7%B1%B3%E9%AB%98%E5%B7%A8%E4%BA%BA%E9%9B%95%E5%83%8F%23" target="weibo">
-商场回应摆价值百万10米高巨人雕像（热度：16680）
 </a>
 </li>
 

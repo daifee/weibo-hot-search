@@ -1,6 +1,6 @@
 {
   "startTime": 1759336314340,
-  "endTime": 1759358373588,
+  "endTime": 1759360975753,
   "band_list": [
     {
       "raw_hot": 917837,
@@ -123,6 +123,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 275923,
+      "num": 89572,
+      "word": "短剧男主不接受大尺度吻戏擅自离组",
+      "onboard_time": 1759320442,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265094,
       "num": 134827,
       "word": "被得力辞退跛脚员工再发声",
@@ -155,6 +163,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212385,
+      "num": 212385,
+      "word": "南非驻法大使跳楼前发诀别短信",
+      "onboard_time": 1759329262,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 209488,
+      "num": 78852,
+      "word": "陈伟霆称开始不敢接霸总戏",
+      "onboard_time": 1759340297,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203419,
       "num": 203419,
       "word": "王楚钦说裁判最大",
@@ -179,14 +203,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 182703,
-      "num": 182703,
-      "word": "南非驻法大使跳楼前发诀别短信",
-      "onboard_time": 1759329262,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 173864,
       "num": 130828,
       "word": "张颂文 这不神经病吗",
@@ -201,14 +217,6 @@
       "onboard_time": 1759332679,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 150958,
-      "num": 89572,
-      "word": "短剧男主不接受大尺度吻戏擅自离组",
-      "onboard_time": 1759320442,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 150034,
@@ -228,19 +236,19 @@
     },
     {
       "raw_hot": 140878,
-      "num": 103299,
+      "num": 108186,
       "word": "高铁1分钟换乘",
       "onboard_time": 1759338797,
       "rank": 39,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135537,
-      "num": 68657,
-      "word": "陈伟霆称开始不敢接霸总戏",
-      "onboard_time": 1759340297,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 116520,
+      "num": 116520,
+      "word": "台湾拒绝美国芯片制造五五分要求",
+      "onboard_time": 1759359737,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114644,
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86837,
+      "num": 86837,
+      "word": "12名大学生轮流维持鸡排哥摊位秩序",
+      "onboard_time": 1759337421,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84612,
       "num": 84612,
       "word": "偶遇乐远cp",
@@ -313,6 +329,14 @@
       "onboard_time": 1759331721,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71861,
+      "num": 93060,
+      "word": "中国正式成为安第斯共同体观察员国",
+      "onboard_time": 1759336159,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 71239,
@@ -353,14 +377,6 @@
       "onboard_time": 1759330820,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 65424,
-      "num": 93060,
-      "word": "中国正式成为安第斯共同体观察员国",
-      "onboard_time": 1759336159,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 64195,
@@ -451,11 +467,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40021,
-      "num": 68819,
-      "word": "12名大学生轮流维持鸡排哥摊位秩序",
-      "onboard_time": 1759337421,
-      "rank": 43,
+      "raw_hot": 37465,
+      "num": 37465,
+      "word": "荣昌政府食堂又被近三千游客挤瘫了",
+      "onboard_time": 1759357155,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -465,6 +481,14 @@
       "onboard_time": 1759337421,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31700,
+      "num": 68702,
+      "word": "男子低价买2500元西贝代金券无法用",
+      "onboard_time": 1759339517,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31698,
@@ -483,12 +507,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 30751,
-      "num": 68702,
-      "word": "男子低价买2500元西贝代金券无法用",
-      "onboard_time": 1759339517,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 27905,
+      "num": 44972,
+      "word": "阅兵后劲太太太大了",
+      "onboard_time": 1759343356,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26868,
@@ -499,12 +523,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 22567,
-      "num": 44972,
-      "word": "阅兵后劲太太太大了",
-      "onboard_time": 1759343356,
-      "rank": 48,
-      "category": "国内时政"
+      "raw_hot": 25668,
+      "num": 37461,
+      "word": "商场回应摆价值百万10米高巨人雕像",
+      "onboard_time": 1759344316,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24806,
+      "num": 37460,
+      "word": "凌峰分享和肖战的互动",
+      "onboard_time": 1759360457,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 21736,
@@ -529,22 +561,6 @@
       "onboard_time": 1759329562,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 17621,
-      "num": 27361,
-      "word": "荣昌政府食堂又被近三千游客挤瘫了",
-      "onboard_time": 1759357155,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16680,
-      "num": 37283,
-      "word": "商场回应摆价值百万10米高巨人雕像",
-      "onboard_time": 1759344316,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15575,
