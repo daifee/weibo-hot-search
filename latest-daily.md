@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/02 00:31:54 ~ 2025/10/02 05:36:55
+本榜单时间：2025/10/02 00:31:54 ~ 2025/10/02 06:23:15
 </p>
 </blockquote>
 <p>
@@ -189,6 +189,12 @@ G3754次列车因买短乘长超员临停（热度：644464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%A4%A7%E5%B0%BA%E5%BA%A6%E5%90%BB%E6%88%8F%E6%93%85%E8%87%AA%E7%A6%BB%E7%BB%84%23" target="weibo">
+短剧男主不接受大尺度吻戏擅自离组（热度：133507）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%87%BA%E5%8E%BB%E6%97%85%E6%B8%B8%E7%9A%84%E4%BA%BA%E5%B7%B2%E7%BB%8F%E8%80%81%E5%AE%9E%23" target="weibo">
 第一天出去旅游的人已经老实（热度：114644）
 </a>
@@ -215,12 +221,6 @@ G3754次列车因买短乘长超员临停（热度：644464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iG%E4%B8%8ET1%E5%86%B3%E5%AE%9ATES%E6%8A%BD%E7%AD%BE%E6%B1%A0%23" target="weibo">
 iG与T1决定TES抽签池（热度：94700）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%A4%A7%E5%B0%BA%E5%BA%A6%E5%90%BB%E6%88%8F%E6%93%85%E8%87%AA%E7%A6%BB%E7%BB%84%23" target="weibo">
-短剧男主不接受大尺度吻戏擅自离组（热度：89572）
 </a>
 </li>
 
@@ -357,6 +357,12 @@ iG与T1决定TES抽签池（热度：94700）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E5%8D%87%E6%97%97%E6%89%8B%E7%8E%8B%E7%9A%93%E5%A4%A9%E4%BA%AE%E7%9B%B8%23" target="weibo">
+国旗护卫队升旗手王皓天亮相（热度：33458）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A9%AC%E5%A5%96%23" target="weibo">
 金马奖（热度：31698）
 </a>
@@ -371,12 +377,6 @@ iG与T1决定TES抽签池（热度：94700）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BD%8E%E4%BB%B7%E4%B9%B02500%E5%85%83%E8%A5%BF%E8%B4%9D%E4%BB%A3%E9%87%91%E5%88%B8%E6%97%A0%E6%B3%95%E7%94%A8%23" target="weibo">
 男子低价买2500元西贝代金券无法用（热度：30751）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%97%97%E6%8A%A4%E5%8D%AB%E9%98%9F%E5%8D%87%E6%97%97%E6%89%8B%E7%8E%8B%E7%9A%93%E5%A4%A9%E4%BA%AE%E7%9B%B8%23" target="weibo">
-国旗护卫队升旗手王皓天亮相（热度：27891）
 </a>
 </li>
 
@@ -400,7 +400,7 @@ iG与T1决定TES抽签池（热度：94700）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%A1%A3%23" target="weibo">
-国庆档（热度：20536）
+国庆档（热度：21060）
 </a>
 </li>
 
@@ -418,7 +418,7 @@ iG与T1决定TES抽签池（热度：94700）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%97%E6%84%BF%E5%86%9B%E4%B8%BB%E9%A2%98%E6%9B%B2%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD%23" target="weibo">
-志愿军主题曲我爱你中国（热度：12621）
+志愿军主题曲我爱你中国（热度：14126）
 </a>
 </li>
 

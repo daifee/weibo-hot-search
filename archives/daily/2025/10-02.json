@@ -1,6 +1,6 @@
 {
   "startTime": 1759336314340,
-  "endTime": 1759354615096,
+  "endTime": 1759357395088,
   "band_list": [
     {
       "raw_hot": 917837,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133507,
+      "num": 89572,
+      "word": "短剧男主不接受大尺度吻戏擅自离组",
+      "onboard_time": 1759320442,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114644,
       "num": 147519,
       "word": "第一天出去旅游的人已经老实",
@@ -273,14 +281,6 @@
       "onboard_time": 1759328542,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 89572,
-      "num": 89572,
-      "word": "短剧男主不接受大尺度吻戏擅自离组",
-      "onboard_time": 1759320442,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 86845,
@@ -459,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33458,
+      "num": 41807,
+      "word": "国旗护卫队升旗手王皓天亮相",
+      "onboard_time": 1759337421,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31698,
       "num": 68636,
       "word": "金马奖",
@@ -481,14 +489,6 @@
       "onboard_time": 1759339517,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27891,
-      "num": 27891,
-      "word": "国旗护卫队升旗手王皓天亮相",
-      "onboard_time": 1759337421,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26868,
@@ -515,8 +515,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20536,
-      "num": 19115,
+      "raw_hot": 21060,
+      "num": 24036,
       "word": "国庆档",
       "onboard_time": 1759351514,
       "rank": 28,
@@ -539,8 +539,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12621,
-      "num": 18971,
+      "raw_hot": 14126,
+      "num": 24025,
       "word": "志愿军主题曲我爱你中国",
       "onboard_time": 1759341617,
       "rank": 44,
