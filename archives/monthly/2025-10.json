@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759317726839,
+  "endTime": 1759318617485,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1028081,
+      "num": 819215,
+      "word": "蜜雪冰城门店 老鼠横行",
+      "onboard_time": 1759308980,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1023575,
       "num": 314666,
       "word": "曝阮经天和小20岁女友交往超一年",
@@ -72,14 +80,6 @@
       "word": "有人西贝点单200元实付0元",
       "onboard_time": 1759306521,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 922962,
-      "num": 819215,
-      "word": "蜜雪冰城门店 老鼠横行",
-      "onboard_time": 1759308980,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -243,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 594000,
+      "num": 285640,
+      "word": "西贝降价首日不到12点满座",
+      "onboard_time": 1759314680,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 584638,
       "num": 584638,
       "word": "美政府关门",
@@ -267,8 +275,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 555238,
-      "num": 555238,
+      "raw_hot": 555369,
+      "num": 555369,
       "word": "小众但是月入过万的工作",
       "onboard_time": 1759312221,
       "rank": 14,
@@ -651,14 +659,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 243473,
-      "num": 243473,
-      "word": "西贝降价首日不到12点满座",
-      "onboard_time": 1759314680,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 238825,
       "num": 238825,
       "word": "女子提前出发睡服务区省1400元",
@@ -779,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212695,
+      "num": 129786,
+      "word": "何老师第一次在密逃被吓到",
+      "onboard_time": 1759316301,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212278,
       "num": 212278,
       "word": "王乐晨卢远回应",
@@ -873,6 +881,14 @@
       "onboard_time": 1759308681,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184627,
+      "num": 112116,
+      "word": "陶白白前妻与现任同游西藏",
+      "onboard_time": 1759317620,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 184433,
@@ -1331,12 +1347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129786,
-      "num": 129786,
-      "word": "何老师第一次在密逃被吓到",
-      "onboard_time": 1759316301,
+      "raw_hot": 131751,
+      "num": 111552,
+      "word": "刘宇宁给呆米的工作报酬",
+      "onboard_time": 1759318100,
       "rank": 29,
-      "category": "综艺"
+      "category": "艺人"
     },
     {
       "raw_hot": 129761,
@@ -1475,20 +1491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115315,
+      "num": 389670,
+      "word": "新中国成立76周年",
+      "onboard_time": 1759307541,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115164,
       "num": 115164,
       "word": "闫妮魏大勋 国庆最忙的俩人",
       "onboard_time": 1759314980,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114190,
-      "num": 389670,
-      "word": "新中国成立76周年",
-      "onboard_time": 1759307541,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 114015,
@@ -1819,8 +1835,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 99148,
-      "num": 99148,
+      "raw_hot": 99291,
+      "num": 99291,
       "word": "金价",
       "onboard_time": 1759317381,
       "rank": 37,
@@ -1875,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94999,
+      "num": 96529,
+      "word": "时代少年团在电影里开演唱会",
+      "onboard_time": 1759316541,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 94918,
       "num": 94918,
       "word": "猫猫顶起两苹果已打败99%的猫猫",
@@ -1889,6 +1913,22 @@
       "onboard_time": 1759273878,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 94154,
+      "num": 94154,
+      "word": "苏新皓刀马刀马老教师",
+      "onboard_time": 1759318281,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 93967,
+      "num": 93967,
+      "word": "CNN拍的美国将军大会",
+      "onboard_time": 1759315460,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 93939,
@@ -1945,6 +1985,14 @@
       "onboard_time": 1759308921,
       "rank": 44,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 89869,
+      "num": 89869,
+      "word": "司机为省过路费龟速行驶被交警喊话",
+      "onboard_time": 1759315521,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89754,
@@ -2043,14 +2091,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 86202,
-      "num": 86202,
-      "word": "CNN拍的美国将军大会",
-      "onboard_time": 1759315460,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 85440,
       "num": 85440,
       "word": "8天布置了800天的作业量",
@@ -2107,6 +2147,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82221,
+      "num": 103565,
+      "word": "马龙樊振东奥运神同步",
+      "onboard_time": 1759315340,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 82191,
+      "num": 82191,
+      "word": "又到了收猫的季节",
+      "onboard_time": 1759318221,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 81693,
+      "num": 93992,
+      "word": "老外排队四小时吃上鸡排直接飙中文",
+      "onboard_time": 1759317800,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80667,
       "num": 80667,
       "word": "林昀儒高承睿男双退赛",
@@ -2155,6 +2219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78096,
+      "num": 78096,
+      "word": "此生无悔种花家",
+      "onboard_time": 1759317741,
+      "rank": 48,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 78032,
       "num": 293383,
       "word": "看升旗是中国人专属仪式感",
@@ -2177,6 +2249,14 @@
       "onboard_time": 1759306881,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77249,
+      "num": 77249,
+      "word": "今天刷屏的一句话",
+      "onboard_time": 1759318401,
+      "rank": 49,
+      "category": "正能量"
     },
     {
       "raw_hot": 76824,
@@ -2275,28 +2355,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70487,
-      "num": 103565,
-      "word": "马龙樊振东奥运神同步",
-      "onboard_time": 1759315340,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 69614,
       "num": 69614,
       "word": "6旬老人浑身酸痛确诊罕见神经梅毒",
       "onboard_time": 1759258755,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69234,
-      "num": 96529,
-      "word": "时代少年团在电影里开演唱会",
-      "onboard_time": 1759316541,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 68928,
@@ -2483,6 +2547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48773,
+      "num": 94039,
+      "word": "服务区充电桩 排队取号充电",
+      "onboard_time": 1759318401,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48563,
       "num": 56848,
       "word": "雨果说王楚钦实力最强",
@@ -2641,14 +2713,6 @@
       "onboard_time": 1759296320,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29566,
-      "num": 96630,
-      "word": "陶白白前妻与现任同游西藏",
-      "onboard_time": 1759317620,
-      "rank": 38,
-      "category": "网红"
     },
     {
       "raw_hot": 29519,
