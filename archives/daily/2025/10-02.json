@@ -1,6 +1,6 @@
 {
   "startTime": 1759336314340,
-  "endTime": 1759360975753,
+  "endTime": 1759361804815,
   "band_list": [
     {
       "raw_hot": 917837,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 559567,
+      "num": 899530,
+      "word": "小米汽车突然自己开走",
+      "onboard_time": 1759361537,
+      "rank": 0,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 501857,
       "num": 818576,
       "word": "景德镇有在努力接住泼天流量",
@@ -51,7 +59,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 398642,
+      "raw_hot": 401419,
       "num": 140650,
       "word": "林心如回应与陈妍希陈晓结亲家",
       "onboard_time": 1759323321,
@@ -107,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290202,
+      "num": 93072,
+      "word": "短剧男主不接受大尺度吻戏擅自离组",
+      "onboard_time": 1759320442,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 279981,
       "num": 138085,
       "word": "薛之谦说有点不敢接音乐节了",
@@ -121,14 +137,6 @@
       "onboard_time": 1759317620,
       "rank": 17,
       "category": "网红"
-    },
-    {
-      "raw_hot": 275923,
-      "num": 89572,
-      "word": "短剧男主不接受大尺度吻戏擅自离组",
-      "onboard_time": 1759320442,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 265094,
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223059,
+      "num": 223059,
+      "word": "南非驻法大使跳楼前发诀别短信",
+      "onboard_time": 1759329262,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 216875,
       "num": 216875,
       "word": "鸡排大道为迎国庆把路铺平了",
@@ -163,16 +179,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 212385,
-      "num": 212385,
-      "word": "南非驻法大使跳楼前发诀别短信",
-      "onboard_time": 1759329262,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 209488,
-      "num": 78852,
+      "raw_hot": 213523,
+      "num": 90233,
       "word": "陈伟霆称开始不敢接霸总戏",
       "onboard_time": 1759340297,
       "rank": 44,
@@ -203,6 +211,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 186012,
+      "num": 186012,
+      "word": "珍古道尔去世",
+      "onboard_time": 1759361117,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 184619,
+      "num": 118113,
+      "word": "在王力宏演唱会被鹿晗认出来了",
+      "onboard_time": 1759332679,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173864,
       "num": 130828,
       "word": "张颂文 这不神经病吗",
@@ -211,12 +235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151160,
-      "num": 118113,
-      "word": "在王力宏演唱会被鹿晗认出来了",
-      "onboard_time": 1759332679,
-      "rank": 26,
-      "category": "演出"
+      "raw_hot": 160598,
+      "num": 160598,
+      "word": "台湾拒绝美国芯片制造五五分要求",
+      "onboard_time": 1759359737,
+      "rank": 5,
+      "category": "国际时政"
     },
     {
       "raw_hot": 150034,
@@ -241,14 +265,6 @@
       "onboard_time": 1759338797,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116520,
-      "num": 116520,
-      "word": "台湾拒绝美国芯片制造五五分要求",
-      "onboard_time": 1759359737,
-      "rank": 5,
-      "category": "国际时政"
     },
     {
       "raw_hot": 114644,
@@ -283,6 +299,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 97589,
+      "num": 72503,
+      "word": "迪丽热巴外媒镜头",
+      "onboard_time": 1759361718,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96838,
+      "num": 96838,
+      "word": "12名大学生轮流维持鸡排哥摊位秩序",
+      "onboard_time": 1759337421,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94700,
       "num": 94700,
       "word": "iG与T1决定TES抽签池",
@@ -297,14 +329,6 @@
       "onboard_time": 1759324641,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86837,
-      "num": 86837,
-      "word": "12名大学生轮流维持鸡排哥摊位秩序",
-      "onboard_time": 1759337421,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84612,
@@ -379,11 +403,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66717,
+      "num": 66717,
+      "word": "警方通报女子酒后观赛大声喧哗",
+      "onboard_time": 1759361537,
+      "rank": 27,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 64195,
       "num": 68805,
       "word": "许我耀眼预告",
       "onboard_time": 1759328782,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 59017,
+      "num": 59017,
+      "word": "沈皓明承认弟弟是私生子",
+      "onboard_time": 1759314440,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -419,6 +459,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57560,
+      "num": 57560,
+      "word": "Dior大秀G社生图",
+      "onboard_time": 1759361178,
+      "rank": 31,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 57171,
+      "num": 57171,
+      "word": "孙颖莎兼职裁判",
+      "onboard_time": 1759361058,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55087,
       "num": 68568,
       "word": "贺峻霖到时候番位你咋安排",
@@ -451,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 48846,
+      "num": 48846,
+      "word": "巴萨1比2巴黎",
+      "onboard_time": 1759361537,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48436,
       "num": 68876,
       "word": "淘宝闪购",
@@ -467,20 +531,60 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37465,
-      "num": 37465,
+      "raw_hot": 43221,
+      "num": 43221,
       "word": "荣昌政府食堂又被近三千游客挤瘫了",
       "onboard_time": 1759357155,
       "rank": 44,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37304,
+      "raw_hot": 41983,
+      "num": 41983,
+      "word": "美元指数已大跌近10%",
+      "onboard_time": 1759360997,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 38872,
+      "num": 38872,
+      "word": "米津玄师画了天使恶魔",
+      "onboard_time": 1759361537,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 38498,
       "num": 41807,
       "word": "国旗护卫队升旗手王皓天亮相",
       "onboard_time": 1759337421,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38180,
+      "num": 38180,
+      "word": "珍古道尔传奇的一生",
+      "onboard_time": 1759361718,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 34930,
+      "num": 34930,
+      "word": "王鹤棣录咸鱼飞升团综哭了",
+      "onboard_time": 1759361598,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 34000,
+      "num": 34000,
+      "word": "美军罕见召集驻扎全球的数百名将领",
+      "onboard_time": 1759361178,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 31700,
@@ -539,7 +643,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21736,
+      "raw_hot": 21817,
       "num": 352006,
       "word": "对祖国的爱永远滚烫赤诚",
       "onboard_time": 1759318221,
