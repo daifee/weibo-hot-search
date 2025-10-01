@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759315424825,
+  "endTime": 1759317726839,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -27,6 +27,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1322444,
+      "num": 227018,
+      "word": "许我耀眼",
+      "onboard_time": 1759312042,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1143185,
       "num": 1182909,
       "word": "广东一地发现首例钻石血",
@@ -41,14 +49,6 @@
       "onboard_time": 1759276819,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1023919,
-      "num": 227018,
-      "word": "许我耀眼",
-      "onboard_time": 1759312042,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 1023575,
@@ -75,11 +75,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 922962,
+      "num": 819215,
+      "word": "蜜雪冰城门店 老鼠横行",
+      "onboard_time": 1759308980,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 900556,
       "num": 1144089,
       "word": "郑州方特跳楼机高空悬停七八分钟",
       "onboard_time": 1759308681,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 889597,
+      "num": 1142335,
+      "word": "您已进入鸡排大道请打开您的塑料袋",
+      "onboard_time": 1759312820,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -103,14 +119,6 @@
       "num": 860737,
       "word": "K字签证不能与移民划等号",
       "onboard_time": 1759247721,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 819215,
-      "num": 819215,
-      "word": "蜜雪冰城门店 老鼠横行",
-      "onboard_time": 1759308980,
       "rank": 1,
       "category": "民生新闻"
     },
@@ -203,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 631704,
+      "num": 127624,
+      "word": "金马奖",
+      "onboard_time": 1759314260,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 629922,
       "num": 223244,
       "word": "王楚钦再被判发球遮挡冤不冤",
@@ -251,6 +267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 555238,
+      "num": 555238,
+      "word": "小众但是月入过万的工作",
+      "onboard_time": 1759312221,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 549944,
       "num": 235653,
       "word": "张予曦 今天的发型希望大家不要生气",
@@ -259,28 +283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 543221,
-      "num": 543221,
-      "word": "您已进入鸡排大道请打开您的塑料袋",
-      "onboard_time": 1759312820,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 535788,
       "num": 226227,
       "word": "张泽禹 舌钉",
       "onboard_time": 1759308261,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 532982,
-      "num": 532982,
-      "word": "小众但是月入过万的工作",
-      "onboard_time": 1759312221,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 518812,
@@ -337,14 +345,6 @@
       "onboard_time": 1759288457,
       "rank": 28,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 455928,
-      "num": 127624,
-      "word": "金马奖",
-      "onboard_time": 1759314260,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 453444,
@@ -483,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347079,
+      "num": 226330,
+      "word": "二婚妻子不满丈夫摆烂打牌怒卖房",
+      "onboard_time": 1759311080,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346043,
       "num": 241909,
       "word": "TF家族男团在湖南秋晚三代同台",
@@ -547,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 292524,
-      "num": 226330,
-      "word": "二婚妻子不满丈夫摆烂打牌怒卖房",
-      "onboard_time": 1759311080,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 290364,
       "num": 222313,
       "word": "王菊怎么瘦成这样了",
@@ -571,12 +571,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278048,
+      "num": 225957,
+      "word": "蜜雪冰城门店回应多只老鼠横行",
+      "onboard_time": 1759311080,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270941,
       "num": 270941,
       "word": "台湾是中国领土一部分",
       "onboard_time": 1759235480,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 268368,
+      "num": 268368,
+      "word": "我国有望2030年用核聚变发电",
+      "onboard_time": 1759313479,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262421,
@@ -635,6 +651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 243473,
+      "num": 243473,
+      "word": "西贝降价首日不到12点满座",
+      "onboard_time": 1759314680,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238825,
       "num": 238825,
       "word": "女子提前出发睡服务区省1400元",
@@ -675,14 +699,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 235779,
-      "num": 235779,
-      "word": "我国有望2030年用核聚变发电",
-      "onboard_time": 1759313479,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 227673,
       "num": 157583,
       "word": "27岁真的还很年轻很年轻",
@@ -691,12 +707,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 225957,
-      "num": 225957,
-      "word": "蜜雪冰城门店回应多只老鼠横行",
-      "onboard_time": 1759311080,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 227133,
+      "num": 213220,
+      "word": "沈皓明承认弟弟是私生子",
+      "onboard_time": 1759314440,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 225327,
@@ -755,14 +771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213220,
-      "num": 213220,
-      "word": "沈皓明承认弟弟是私生子",
-      "onboard_time": 1759314440,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 212866,
       "num": 212866,
       "word": "当事人确认爬泰山导盲犬被接回基地",
@@ -777,6 +785,14 @@
       "onboard_time": 1759241661,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207812,
+      "num": 207812,
+      "word": "王楚钦林诗栋vs卡尔森法尔克",
+      "onboard_time": 1759314081,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 207610,
@@ -859,20 +875,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184433,
+      "num": 184433,
+      "word": "安静公主瘦了好多",
+      "onboard_time": 1759315102,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 182826,
       "num": 171091,
       "word": "iPhone11ProMax被列为复古产品",
       "onboard_time": 1759281080,
       "rank": 20,
       "category": "数码"
-    },
-    {
-      "raw_hot": 181889,
-      "num": 181889,
-      "word": "王楚钦林诗栋vs卡尔森法尔克",
-      "onboard_time": 1759314081,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 179113,
@@ -1043,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148035,
+      "num": 148035,
+      "word": "敖子逸叫错张集骏名字",
+      "onboard_time": 1759316541,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147817,
       "num": 147817,
       "word": "丁禹兮的马受惊失控",
@@ -1121,14 +1145,6 @@
       "onboard_time": 1759281859,
       "rank": 25,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 144055,
-      "num": 144055,
-      "word": "西贝降价首日不到12点满座",
-      "onboard_time": 1759314680,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142858,
@@ -1227,6 +1243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136889,
+      "num": 123119,
+      "word": "王楚钦林诗栋会师袁励岑徐瑛彬",
+      "onboard_time": 1759316960,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136667,
       "num": 136667,
       "word": "郑州方特回应跳楼机高空载客悬停",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1759295419,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135154,
+      "num": 135154,
+      "word": "王楚钦林诗栋3比0法尔克卡尔森",
+      "onboard_time": 1759316481,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 134830,
@@ -1283,12 +1315,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132684,
+      "num": 132684,
+      "word": "金晨被胡先煦抓来跳技能五子棋了",
+      "onboard_time": 1759315340,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131879,
       "num": 131879,
       "word": "车车车车车高速公路车车车车车",
       "onboard_time": 1759240221,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129786,
+      "num": 129786,
+      "word": "何老师第一次在密逃被吓到",
+      "onboard_time": 1759316301,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 129761,
@@ -1435,12 +1483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114589,
-      "num": 114589,
-      "word": "安静公主瘦了好多",
-      "onboard_time": 1759315102,
-      "rank": 33,
-      "category": "网红"
+      "raw_hot": 114190,
+      "num": 389670,
+      "word": "新中国成立76周年",
+      "onboard_time": 1759307541,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 114015,
@@ -1667,6 +1715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102241,
+      "num": 102241,
+      "word": "王曼昱蒯曼3比0杜凯琹朱成竹",
+      "onboard_time": 1759316362,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101991,
       "num": 103244,
       "word": "GALA鼓励粉丝",
@@ -1697,14 +1753,6 @@
       "onboard_time": 1759291641,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 101254,
-      "num": 101254,
-      "word": "金晨被胡先煦抓来跳技能五子棋了",
-      "onboard_time": 1759315340,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 101181,
@@ -1771,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99148,
+      "num": 99148,
+      "word": "金价",
+      "onboard_time": 1759317381,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 97793,
       "num": 97793,
       "word": "乌鲁木齐地震",
@@ -1793,6 +1849,14 @@
       "onboard_time": 1759275079,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96521,
+      "num": 96521,
+      "word": "中国核聚变装置BEST主机全面开建",
+      "onboard_time": 1759316362,
+      "rank": 40,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 96201,
@@ -1835,6 +1899,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 93465,
+      "num": 93465,
+      "word": "3个人点9份菜只花58元",
+      "onboard_time": 1759315941,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92990,
       "num": 92990,
       "word": "第一次想用恐怖来形容天赋",
@@ -1873,14 +1945,6 @@
       "onboard_time": 1759308921,
       "rank": 44,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 89917,
-      "num": 389670,
-      "word": "新中国成立76周年",
-      "onboard_time": 1759307541,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 89754,
@@ -1979,6 +2043,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 86202,
+      "num": 86202,
+      "word": "CNN拍的美国将军大会",
+      "onboard_time": 1759315460,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85440,
       "num": 85440,
       "word": "8天布置了800天的作业量",
@@ -2008,6 +2080,14 @@
       "word": "方家翊带75岁父亲到江西方家村寻根",
       "onboard_time": 1759304600,
       "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 84787,
+      "num": 84787,
+      "word": "放假家里蹲",
+      "onboard_time": 1759317500,
+      "rank": 48,
       "category": "情感"
     },
     {
@@ -2209,6 +2289,14 @@
       "onboard_time": 1759258755,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69234,
+      "num": 96529,
+      "word": "时代少年团在电影里开演唱会",
+      "onboard_time": 1759316541,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 68928,
@@ -2553,6 +2641,14 @@
       "onboard_time": 1759296320,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29566,
+      "num": 96630,
+      "word": "陶白白前妻与现任同游西藏",
+      "onboard_time": 1759317620,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 29519,
