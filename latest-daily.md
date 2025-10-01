@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/02 00:31:54 ~ 2025/10/02 02:36:22
+本榜单时间：2025/10/02 00:31:54 ~ 2025/10/02 02:48:28
 </p>
 </blockquote>
 <p>
@@ -183,6 +183,12 @@ G3754次列车因买短乘长超员临停（热度：644464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E7%A7%B0%E5%BC%80%E5%A7%8B%E4%B8%8D%E6%95%A2%E6%8E%A5%E9%9C%B8%E6%80%BB%E6%88%8F%23" target="weibo">
+陈伟霆称开始不敢接霸总戏（热度：118943）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%87%BA%E5%8E%BB%E6%97%85%E6%B8%B8%E7%9A%84%E4%BA%BA%E5%B7%B2%E7%BB%8F%E8%80%81%E5%AE%9E%23" target="weibo">
 第一天出去旅游的人已经老实（热度：114644）
 </a>
@@ -203,12 +209,6 @@ G3754次列车因买短乘长超员临停（热度：644464）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2314%E4%BA%BF%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%BF%83%E5%90%8C%E6%AD%A4%E6%84%BF%23" target="weibo">
 14亿中国人心同此愿（热度：106558）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E7%A7%B0%E5%BC%80%E5%A7%8B%E4%B8%8D%E6%95%A2%E6%8E%A5%E9%9C%B8%E6%80%BB%E6%88%8F%23" target="weibo">
-陈伟霆称开始不敢接霸总戏（热度：97477）
 </a>
 </li>
 
@@ -395,6 +395,12 @@ iG与T1决定TES抽签池（热度：94700）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E5%90%8E%E5%8A%B2%E5%A4%AA%E5%A4%AA%E5%A4%AA%E5%A4%A7%E4%BA%86%23" target="weibo">
 阅兵后劲太太太大了（热度：17021）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E5%9B%9E%E5%BA%94%E6%91%86%E4%BB%B7%E5%80%BC%E7%99%BE%E4%B8%8710%E7%B1%B3%E9%AB%98%E5%B7%A8%E4%BA%BA%E9%9B%95%E5%83%8F%23" target="weibo">
+商场回应摆价值百万10米高巨人雕像（热度：16680）
 </a>
 </li>
 

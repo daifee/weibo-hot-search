@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/10/02 02:36:22
+本榜单时间：2025/09/28 00:27:59 ~ 2025/10/02 02:48:28
 </p>
 </blockquote>
 <p>
@@ -6399,6 +6399,12 @@ LPL冠军臻彩（热度：120760）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E7%A7%B0%E5%BC%80%E5%A7%8B%E4%B8%8D%E6%95%A2%E6%8E%A5%E9%9C%B8%E6%80%BB%E6%88%8F%23" target="weibo">
+陈伟霆称开始不敢接霸总戏（热度：118943）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%BC%9F%E5%85%89%E8%A2%AB%E6%99%92%E5%BE%97%E6%B2%A1%E6%9C%89%E5%85%89%E4%BA%86%23" target="weibo">
 高伟光被晒得没有光了（热度：118707）
 </a>
@@ -7805,12 +7811,6 @@ K字签证不是中国版H1B（热度：99018）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%96%E6%8E%92%E7%AC%AC%E4%B8%80%E5%BC%95%E5%85%A8%E5%9C%BA%E6%AC%A2%E5%91%BC%23" target="weibo">
 王楚钦世排第一引全场欢呼（热度：97795）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E7%A7%B0%E5%BC%80%E5%A7%8B%E4%B8%8D%E6%95%A2%E6%8E%A5%E9%9C%B8%E6%80%BB%E6%88%8F%23" target="weibo">
-陈伟霆称开始不敢接霸总戏（热度：97477）
 </a>
 </li>
 
@@ -10667,6 +10667,12 @@ BV米兰时装周明星状态（热度：30091）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E5%90%8E%E5%8A%B2%E5%A4%AA%E5%A4%AA%E5%A4%AA%E5%A4%A7%E4%BA%86%23" target="weibo">
 阅兵后劲太太太大了（热度：17021）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E5%9B%9E%E5%BA%94%E6%91%86%E4%BB%B7%E5%80%BC%E7%99%BE%E4%B8%8710%E7%B1%B3%E9%AB%98%E5%B7%A8%E4%BA%BA%E9%9B%95%E5%83%8F%23" target="weibo">
+商场回应摆价值百万10米高巨人雕像（热度：16680）
 </a>
 </li>
 

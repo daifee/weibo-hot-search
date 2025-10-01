@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759343782198,
+  "endTime": 1759344508771,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -1612,7 +1612,7 @@
     },
     {
       "raw_hot": 140878,
-      "num": 100650,
+      "num": 103299,
       "word": "高铁1分钟换乘",
       "onboard_time": 1759338797,
       "rank": 39,
@@ -1993,6 +1993,14 @@
       "onboard_time": 1759331721,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118943,
+      "num": 68657,
+      "word": "陈伟霆称开始不敢接霸总戏",
+      "onboard_time": 1759340297,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 118059,
@@ -2473,14 +2481,6 @@
       "onboard_time": 1759233021,
       "rank": 39,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 97477,
-      "num": 68657,
-      "word": "陈伟霆称开始不敢接霸总戏",
-      "onboard_time": 1759340297,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 97084,
@@ -3657,6 +3657,14 @@
       "onboard_time": 1759343356,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16680,
+      "num": 37283,
+      "word": "商场回应摆价值百万10米高巨人雕像",
+      "onboard_time": 1759344316,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16459,
