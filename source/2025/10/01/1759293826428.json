@@ -1,0 +1,410 @@
+{
+  "runTime": 1759293826428,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 901549,
+        "num": 1144247,
+        "word": "鸡排哥被男子扯拽衣服要求站高点演讲",
+        "onboard_time": 1759276819,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 879796,
+        "num": 879796,
+        "word": "山姆99.9元零食 好特卖39.9",
+        "onboard_time": 1759289900,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29296,
+        "num": 639344,
+        "word": "家书中满溢炽热家国情怀",
+        "onboard_time": 1759292000,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 584638,
+        "num": 584638,
+        "word": "美政府关门",
+        "onboard_time": 1759292419,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 409908,
+        "num": 409908,
+        "word": "景德镇连夜招大学生上任鸡排保镖",
+        "onboard_time": 1759287260,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377303,
+        "num": 377303,
+        "word": "广东一地发现首例钻石血",
+        "onboard_time": 1759278139,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371571,
+        "num": 371571,
+        "word": "国庆",
+        "onboard_time": 1759248741,
+        "rank": 6,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 367940,
+        "num": 367940,
+        "word": "意大利宣布不再为加沙救援船队护航",
+        "onboard_time": 1759287979,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 356987,
+        "num": 356987,
+        "word": "全红婵水花消失术为祖国庆生",
+        "onboard_time": 1759283539,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319953,
+        "num": 319953,
+        "word": "男生郑州东站15秒极限换乘",
+        "onboard_time": 1759288639,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1023575,
+        "num": 314666,
+        "word": "曝阮经天和小20岁女友交往超一年",
+        "onboard_time": 1759291101,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498140,
+        "num": 308785,
+        "word": "内娱把三生三世拍出花了",
+        "onboard_time": 1759290560,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78032,
+        "num": 293383,
+        "word": "看升旗是中国人专属仪式感",
+        "onboard_time": 1759293260,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443370,
+        "num": 283778,
+        "word": "这居然是周峻纬",
+        "onboard_time": 1759290320,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392621,
+        "num": 277347,
+        "word": "彭高",
+        "onboard_time": 1759281199,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375019,
+        "num": 266078,
+        "word": "迪奥巴黎时装周",
+        "onboard_time": 1759288457,
+        "rank": 15,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 362352,
+        "num": 254026,
+        "word": "王乐晨道歉",
+        "onboard_time": 1759248381,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247273,
+        "num": 247273,
+        "word": "主办方请沈佳润就好她爹会跟着去的",
+        "onboard_time": 1759291041,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224722,
+        "num": 224722,
+        "word": "妈妈给男孩喝了一口糖竟致呕吐晕厥",
+        "onboard_time": 1759292900,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19058,
+        "num": 218139,
+        "word": "76秒接力表白祖国",
+        "onboard_time": 1759293140,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253383,
+        "num": 216568,
+        "word": "彭高和翁青雅刚官宣一个月就分手",
+        "onboard_time": 1759288340,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245692,
+        "num": 215567,
+        "word": "陈赫张子萱挽手逛街",
+        "onboard_time": 1759292302,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212866,
+        "num": 212866,
+        "word": "当事人确认爬泰山导盲犬被接回基地",
+        "onboard_time": 1759289299,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197110,
+        "num": 197110,
+        "word": "林高远vs梁靖崑",
+        "onboard_time": 1759291340,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189712,
+        "num": 189712,
+        "word": "三婚就是比前两次会挑时候",
+        "onboard_time": 1759290440,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186880,
+        "num": 186880,
+        "word": "TF家族男团在湖南秋晚三代同台",
+        "onboard_time": 1759285759,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180469,
+        "num": 180469,
+        "word": "陈小春两个儿子近照",
+        "onboard_time": 1759293560,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178259,
+        "num": 178259,
+        "word": "给长辈买冰皮月饼一定要说明吃法",
+        "onboard_time": 1759280181,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157627,
+        "num": 157627,
+        "word": "男子口袋翻出旧彩票中1.28亿",
+        "onboard_time": 1759288280,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36293,
+        "num": 151273,
+        "word": "刺杀小说家2双向穿越双向救赎",
+        "onboard_time": 1759293560,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147631,
+        "num": 147631,
+        "word": "北电第一选择挑战中传第一",
+        "onboard_time": 1759292061,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144495,
+        "num": 144495,
+        "word": "我爱你中国",
+        "onboard_time": 1759275559,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133351,
+        "num": 133351,
+        "word": "服装店称因logo相似被小米起诉",
+        "onboard_time": 1759282342,
+        "rank": 32,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 132917,
+        "num": 132917,
+        "word": "小酒窝在天安门举国旗拍照",
+        "onboard_time": 1759293140,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131283,
+        "num": 131283,
+        "word": "山姆回应同款零食好特卖便宜60元",
+        "onboard_time": 1759292361,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124481,
+        "num": 124481,
+        "word": "祝新中国生日快乐",
+        "onboard_time": 1759275258,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118445,
+        "num": 118445,
+        "word": "孩子嫌弃奶奶身上有味道妈妈严肃教育",
+        "onboard_time": 1759283239,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115137,
+        "num": 115137,
+        "word": "周深唱出了刺杀小说家2的内核力量",
+        "onboard_time": 1759288041,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29148,
+        "num": 114219,
+        "word": "钟楚曦短发大背头",
+        "onboard_time": 1759292659,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39247,
+        "num": 113810,
+        "word": "鸡排哥炸不完根本炸不完",
+        "onboard_time": 1759293622,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113744,
+        "num": 113744,
+        "word": "爱奇艺10月待播剧综",
+        "onboard_time": 1759291820,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111858,
+        "num": 111858,
+        "word": "西贝",
+        "onboard_time": 1759291521,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110942,
+        "num": 110942,
+        "word": "戴向宇陈紫函旅行遇海啸不躲反追",
+        "onboard_time": 1759289600,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109928,
+        "num": 109928,
+        "word": "王乐晨前女友",
+        "onboard_time": 1759275378,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106988,
+        "num": 106988,
+        "word": "令人心动的offer",
+        "onboard_time": 1759293380,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104866,
+        "num": 104866,
+        "word": "湖南国补",
+        "onboard_time": 1759290381,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104016,
+        "num": 104016,
+        "word": "中华人民共和国成立76周年",
+        "onboard_time": 1759251618,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101860,
+        "num": 101860,
+        "word": "干搓洗头法简直是油头救星",
+        "onboard_time": 1759293320,
+        "rank": 47,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 99765,
+        "num": 99765,
+        "word": "iPhone11ProMax被列为复古产品",
+        "onboard_time": 1759281080,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 98850,
+        "num": 98850,
+        "word": "祝福伟大祖国繁荣富强",
+        "onboard_time": 1759291641,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

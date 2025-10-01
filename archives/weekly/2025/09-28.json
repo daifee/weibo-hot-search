@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759292990154,
+  "endTime": 1759293826428,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1396497,
-      "num": 253948,
+      "num": 254026,
       "word": "王乐晨道歉",
       "onboard_time": 1759248381,
       "rank": 13,
@@ -353,6 +353,14 @@
       "onboard_time": 1759066463,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1023575,
+      "num": 314666,
+      "word": "曝阮经天和小20岁女友交往超一年",
+      "onboard_time": 1759291101,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1016696,
@@ -587,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 879796,
+      "num": 879796,
+      "word": "山姆99.9元零食 好特卖39.9",
+      "onboard_time": 1759289900,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 868086,
       "num": 1138893,
       "word": "车超强奸故意杀人案再审宣判",
@@ -624,14 +640,6 @@
       "word": "K字签证不能与移民划等号",
       "onboard_time": 1759247721,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 859774,
-      "num": 859774,
-      "word": "山姆99.9元零食 好特卖39.9",
-      "onboard_time": 1759289900,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -820,7 +828,7 @@
     },
     {
       "raw_hot": 767308,
-      "num": 274145,
+      "num": 277347,
       "word": "彭高",
       "onboard_time": 1759281199,
       "rank": 10,
@@ -1041,14 +1049,6 @@
       "onboard_time": 1759206381,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 656206,
-      "num": 271683,
-      "word": "曝阮经天和小20岁女友交往超一年",
-      "onboard_time": 1759291101,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 655054,
@@ -1313,6 +1313,14 @@
       "onboard_time": 1759125560,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 584638,
+      "num": 584638,
+      "word": "美政府关门",
+      "onboard_time": 1759292419,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 584269,
@@ -1595,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 498140,
+      "num": 308785,
+      "word": "内娱把三生三世拍出花了",
+      "onboard_time": 1759290560,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 498022,
       "num": 498022,
       "word": "中方决定增设K字签证",
@@ -1732,7 +1748,7 @@
     },
     {
       "raw_hot": 467123,
-      "num": 264214,
+      "num": 266078,
       "word": "迪奥巴黎时装周",
       "onboard_time": 1759288457,
       "rank": 28,
@@ -1908,7 +1924,7 @@
     },
     {
       "raw_hot": 449072,
-      "num": 252769,
+      "num": 283778,
       "word": "这居然是周峻纬",
       "onboard_time": 1759290320,
       "rank": 26,
@@ -1921,14 +1937,6 @@
       "onboard_time": 1758965180,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 445222,
-      "num": 251056,
-      "word": "内娱把三生三世拍出花了",
-      "onboard_time": 1759290560,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 443278,
@@ -2668,7 +2676,7 @@
     },
     {
       "raw_hot": 296499,
-      "num": 201467,
+      "num": 216568,
       "word": "彭高和翁青雅刚官宣一个月就分手",
       "onboard_time": 1759288340,
       "rank": 34,
@@ -2867,14 +2875,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 274464,
-      "num": 274464,
-      "word": "美政府关门",
-      "onboard_time": 1759292419,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 264356,
       "num": 178262,
       "word": "邓超腿受伤",
@@ -3041,6 +3041,22 @@
       "onboard_time": 1759229482,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247273,
+      "num": 247273,
+      "word": "主办方请沈佳润就好她爹会跟着去的",
+      "onboard_time": 1759291041,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 245692,
+      "num": 215567,
+      "word": "陈赫张子萱挽手逛街",
+      "onboard_time": 1759292302,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 245451,
@@ -3275,6 +3291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 224722,
+      "num": 224722,
+      "word": "妈妈给男孩喝了一口糖竟致呕吐晕厥",
+      "onboard_time": 1759292900,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222729,
       "num": 215333,
       "word": "胡彦斌月光 爷青回",
@@ -3417,6 +3441,14 @@
       "onboard_time": 1759156764,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212866,
+      "num": 212866,
+      "word": "当事人确认爬泰山导盲犬被接回基地",
+      "onboard_time": 1759289299,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 212521,
@@ -3803,14 +3835,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 193804,
-      "num": 193804,
-      "word": "当事人确认爬泰山导盲犬被接回基地",
-      "onboard_time": 1759289299,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 193377,
       "num": 171264,
       "word": "管泽元感人金句致敬詹姆斯",
@@ -3963,12 +3987,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 190328,
-      "num": 190328,
-      "word": "主办方请沈佳润就好她爹会跟着去的",
-      "onboard_time": 1759291041,
-      "rank": 22,
-      "category": "演出"
+      "raw_hot": 189712,
+      "num": 189712,
+      "word": "三婚就是比前两次会挑时候",
+      "onboard_time": 1759290440,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 189670,
@@ -4249,6 +4273,14 @@
       "onboard_time": 1759154841,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180469,
+      "num": 180469,
+      "word": "陈小春两个儿子近照",
+      "onboard_time": 1759293560,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 180439,
@@ -4689,14 +4721,6 @@
       "onboard_time": 1759027040,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166815,
-      "num": 166815,
-      "word": "三婚就是比前两次会挑时候",
-      "onboard_time": 1759290440,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 166567,
@@ -5241,14 +5265,6 @@
       "onboard_time": 1759033040,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152519,
-      "num": 152519,
-      "word": "陈赫张子萱挽手逛街",
-      "onboard_time": 1759292302,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 152490,
@@ -6179,6 +6195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132917,
+      "num": 132917,
+      "word": "小酒窝在天安门举国旗拍照",
+      "onboard_time": 1759293140,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132815,
       "num": 132815,
       "word": "曹操万灵伏威皮肤",
@@ -6281,6 +6305,14 @@
       "onboard_time": 1759128260,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131283,
+      "num": 131283,
+      "word": "山姆回应同款零食好特卖便宜60元",
+      "onboard_time": 1759292361,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131051,
@@ -6713,14 +6745,6 @@
       "onboard_time": 1759138641,
       "rank": 36,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 125719,
-      "num": 125719,
-      "word": "山姆回应同款零食好特卖便宜60元",
-      "onboard_time": 1759292361,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125663,
@@ -7691,6 +7715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111858,
+      "num": 111858,
+      "word": "西贝",
+      "onboard_time": 1759291521,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111851,
       "num": 111851,
       "word": "2025ASI亚洲邀请赛抽签",
@@ -7793,14 +7825,6 @@
       "onboard_time": 1759145423,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110561,
-      "num": 110561,
-      "word": "西贝",
-      "onboard_time": 1759291521,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110525,
@@ -7907,14 +7931,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 109334,
-      "num": 109334,
-      "word": "妈妈给男孩喝了一口糖竟致呕吐晕厥",
-      "onboard_time": 1759292900,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108757,
       "num": 117832,
       "word": "美国签证费暴涨66倍",
@@ -8009,6 +8025,14 @@
       "onboard_time": 1759149561,
       "rank": 43,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 106988,
+      "num": 106988,
+      "word": "令人心动的offer",
+      "onboard_time": 1759293380,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 106875,
@@ -8497,6 +8521,14 @@
       "onboard_time": 1759217061,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101860,
+      "num": 101860,
+      "word": "干搓洗头法简直是油头救星",
+      "onboard_time": 1759293320,
+      "rank": 47,
+      "category": "休闲"
     },
     {
       "raw_hot": 101805,
@@ -9849,6 +9881,14 @@
       "onboard_time": 1759208721,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 78032,
+      "num": 293383,
+      "word": "看升旗是中国人专属仪式感",
+      "onboard_time": 1759293260,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78017,
@@ -11211,6 +11251,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 39247,
+      "num": 113810,
+      "word": "鸡排哥炸不完根本炸不完",
+      "onboard_time": 1759293622,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39147,
       "num": 259347,
       "word": "BV设计师首秀",
@@ -11328,6 +11376,14 @@
       "word": "中国今年出了三位A类影后",
       "onboard_time": 1759034242,
       "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 36293,
+      "num": 151273,
+      "word": "刺杀小说家2双向穿越双向救赎",
+      "onboard_time": 1759293560,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -11467,6 +11523,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29296,
+      "num": 671219,
+      "word": "家书中满溢炽热家国情怀",
+      "onboard_time": 1759292000,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 29148,
+      "num": 114219,
+      "word": "钟楚曦短发大背头",
+      "onboard_time": 1759292659,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29132,
       "num": 29132,
       "word": "上海市西初中学生午餐选择自由",
@@ -11505,14 +11577,6 @@
       "onboard_time": 1759034963,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27793,
-      "num": 671219,
-      "word": "家书中满溢炽热家国情怀",
-      "onboard_time": 1759292000,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 27558,
@@ -11899,6 +11963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19058,
+      "num": 218139,
+      "word": "76秒接力表白祖国",
+      "onboard_time": 1759293140,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18899,
       "num": 119779,
       "word": "李沁回复七老童心",
@@ -11945,14 +12017,6 @@
       "onboard_time": 1759246822,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15831,
-      "num": 111565,
-      "word": "钟楚曦短发大背头",
-      "onboard_time": 1759292659,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 15353,
