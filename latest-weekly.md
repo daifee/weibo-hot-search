@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/10/01 14:37:33
+本榜单时间：2025/09/28 00:27:59 ~ 2025/10/01 14:50:18
 </p>
 </blockquote>
 <p>
@@ -1875,6 +1875,18 @@ LV首尔开餐厅3只牛肉饺子243元（热度：370395）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E5%A4%AA%E5%A5%B6%E5%A5%B63%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E9%81%93%E6%98%8E%E5%AF%BA%23" target="weibo">
+短剧太奶奶3有自己的道明寺（热度：350271）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E6%93%85%E8%87%AA%E7%A6%BB%E7%BB%84%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E9%81%93%E6%AD%89%23" target="weibo">
+19岁擅自离组短剧男主道歉（热度：350234）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BF%81%E9%9D%92%E9%9B%85%E5%BD%AD%E9%AB%98%E5%88%86%E6%89%8B%E7%9A%84%E6%A0%B9%E6%9C%AC%E5%8E%9F%E5%9B%A0%23" target="weibo">
 翁青雅彭高分手的根本原因（热度：347724）
 </a>
@@ -1901,12 +1913,6 @@ TF家族男团在湖南秋晚三代同台（热度：346043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8Evs%E8%90%A8%E6%9E%97%E6%A0%BC%E5%B0%94%E5%B8%95%E5%BE%B7%23" target="weibo">
 王楚钦孙颖莎vs萨林格尔帕德（热度：345068）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E6%93%85%E8%87%AA%E7%A6%BB%E7%BB%84%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E9%81%93%E6%AD%89%23" target="weibo">
-19岁擅自离组短剧男主道歉（热度：341991）
 </a>
 </li>
 
@@ -1985,6 +1991,12 @@ TF家族男团在湖南秋晚三代同台（热度：346043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%86%E6%96%B0%E5%A8%98%E7%A7%B0%E9%87%91%E4%BB%B7%E5%86%8D%E6%B6%A8%E4%B8%89%E9%87%91%E6%89%8B%E9%95%AF%E5%8F%98%E8%80%B3%E7%8E%AF%23" target="weibo">
 准新娘称金价再涨三金手镯变耳环（热度：316745）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%BA%E4%BB%94%E6%9D%A5%E4%BA%86%E4%B8%AA%E9%94%80%E5%86%A0%23" target="weibo">
+旺仔来了个销冠（热度：311801）
 </a>
 </li>
 
@@ -2301,12 +2313,6 @@ Peanut官宣今年退役（热度：275031）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E5%A4%AA%E5%A5%B6%E5%A5%B63%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E9%81%93%E6%98%8E%E5%AF%BA%23" target="weibo">
-短剧太奶奶3有自己的道明寺（热度：252077）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E5%B1%B1%E6%B5%B7%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%865.9%E5%88%86%23" target="weibo">
 赴山海豆瓣开分5.9分（热度：252036）
 </a>
@@ -2415,6 +2421,12 @@ GEN战胜HLE（热度：251190）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%942%E9%9B%B7%E5%BE%B7%E9%BD%90%E5%A7%86%E6%96%AF%E5%9F%BA%23" target="weibo">
+王楚钦3比2雷德齐姆斯基（热度：238865）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%80%80%E9%92%B0%E5%97%93%E5%AD%90%23" target="weibo">
 徐怀钰嗓子（热度：238851）
 </a>
@@ -2501,12 +2513,6 @@ GEN战胜HLE（热度：251190）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B%E4%B9%9F%E8%A6%81%E7%BC%B4%E4%B8%AA%E7%A8%8E%E4%BA%86%23" target="weibo">
 外卖骑手也要缴个税了（热度：231749）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%BA%E4%BB%94%E6%9D%A5%E4%BA%86%E4%B8%AA%E9%94%80%E5%86%A0%23" target="weibo">
-旺仔来了个销冠（热度：231379）
 </a>
 </li>
 
@@ -3303,6 +3309,12 @@ iPhone11ProMax被列为复古产品（热度：182826）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%AC%A3%E7%BB%8F%E7%BA%AA%E4%BA%BA%E7%9C%8B%E5%AE%8C%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
+蒋欣经纪人看完天塌了（热度：179980）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone%E5%BE%88%E5%AE%B9%E6%98%93%E8%A2%AB%E9%81%97%E5%BF%98%E7%9A%84%E5%8A%9F%E8%83%BD%23" target="weibo">
 iPhone很容易被遗忘的功能（热度：179939）
 </a>
@@ -3551,6 +3563,12 @@ JDG战胜TTG（热度：172346）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%9C%BC%E5%A6%86%23" target="weibo">
 汪苏泷眼妆（热度：168418）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E6%9C%88%E9%A5%BC%E7%A4%BC%E7%9B%92%E8%A2%AB%E6%8C%87%E5%89%B2%E9%9F%AD%E8%8F%9C%23" target="weibo">
+十个勤天月饼礼盒被指割韭菜（热度：168406）
 </a>
 </li>
 
@@ -3917,12 +3935,6 @@ A股新能源领涨市场（热度：157185）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EDG%E5%AE%98%E5%AE%A3Muggle%E7%A6%BB%E9%98%9F%23" target="weibo">
 EDG官宣Muggle离队（热度：157032）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E6%9C%88%E9%A5%BC%E7%A4%BC%E7%9B%92%E8%A2%AB%E6%8C%87%E5%89%B2%E9%9F%AD%E8%8F%9C%23" target="weibo">
-十个勤天月饼礼盒被指割韭菜（热度：156849）
 </a>
 </li>
 
@@ -4503,6 +4515,12 @@ K签门槛（热度：140535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%87%BA%E5%8F%91%E5%B7%B4%E9%BB%8E%E4%BA%86%23" target="weibo">
+王俊凯出发巴黎了（热度：140428）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E9%98%9F%E4%B8%96%E5%B7%A1%E8%B5%9B%E5%8F%82%E8%B5%9B%E5%90%8D%E5%8D%95%23" target="weibo">
 中国短道速滑队世巡赛参赛名单（热度：140153）
 </a>
@@ -4577,6 +4595,12 @@ WTT北满混双头号种子爆冷出局（热度：139310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BD%91%E9%80%80%E8%B5%9B%23" target="weibo">
 郑钦文回应中网退赛（热度：137605）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E5%B8%A6%E4%BF%A9%E5%A8%83%E5%8F%82%E5%8A%A0%E6%96%AF%E5%B7%B4%E8%BE%BE%E5%A5%BD%E5%BF%AB%E4%B9%90%23" target="weibo">
+马龙带俩娃参加斯巴达好快乐（热度：137458）
 </a>
 </li>
 
@@ -5337,6 +5361,12 @@ KPL（热度：124643）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E7%9A%84%E9%A9%AC%E5%8F%97%E6%83%8A%E5%A4%B1%E6%8E%A7%23" target="weibo">
+丁禹兮的马受惊失控（热度：123657）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E7%8E%B0%E8%BA%AB%E5%88%BA%E6%9D%80%E5%B0%8F%E8%AF%B4%E5%AE%B62%E9%A6%96%E6%98%A0%23" target="weibo">
 丁程鑫现身刺杀小说家2首映（热度：123641）
 </a>
@@ -5697,6 +5727,12 @@ LPL冠军臻彩（热度：120760）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A6%E8%88%AA%E6%8A%BD%E5%B1%89%E5%8F%98%E8%A3%85%23" target="weibo">
+左航抽屉变装（热度：117597）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E6%9E%AB%E4%B9%9F%E5%88%B0%E4%BA%86%E5%BD%AD%E6%98%B1%E7%95%85%E6%9D%A5%E5%90%91%E5%BE%80%E7%9A%84%E5%B9%B4%E7%BA%AA%23" target="weibo">
 张子枫也到了彭昱畅来向往的年纪（热度：117564）
 </a>
@@ -5717,12 +5753,6 @@ LPL冠军臻彩（热度：120760）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E5%8C%85%E6%8F%BDLCK%E6%94%B6%E8%A7%86%E7%8E%87%E5%89%8D%E4%BA%94%23" target="weibo">
 T1包揽LCK收视率前五（热度：117240）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%942%E9%9B%B7%E5%BE%B7%E9%BD%90%E5%A7%86%E6%96%AF%E5%9F%BA%23" target="weibo">
-王楚钦3比2雷德齐姆斯基（热度：117137）
 </a>
 </li>
 
@@ -6855,6 +6885,12 @@ K字签证不是中国版H1B（热度：99018）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23WTT%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E6%B7%B7%E5%8F%8C%E6%99%8B%E7%BA%A7%23" target="weibo">
+WTT中国大满贯混双晋级（热度：97084）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%85%B3%E9%97%A8%E5%80%92%E8%AE%A1%E6%97%B6%23" target="weibo">
 美国政府关门倒计时（热度：97061）
 </a>
@@ -7049,12 +7085,6 @@ K字签证不是中国版H1B（热度：99018）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%99%86%E5%9C%B0%E8%88%AA%E6%AF%8D%E9%9B%86%E7%BB%93%23" target="weibo">
 中国陆地航母集结（热度：93285）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E7%9A%84%E9%A9%AC%E5%8F%97%E6%83%8A%E5%A4%B1%E6%8E%A7%23" target="weibo">
-丁禹兮的马受惊失控（热度：93239）
 </a>
 </li>
 
@@ -8403,6 +8433,12 @@ JDG秋季赛夺冠（热度：56505）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%B8%E9%B8%A1%E4%B8%BB%E7%90%86%E4%BA%BAWa%E4%B8%80%E5%A3%B0%E7%99%BB%E5%9C%BA%23" target="weibo">
+炸鸡主理人Wa一声登场（热度：51686）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%BC%8F%E8%B1%AA%E5%8D%8E%E6%89%8D%E6%98%AF%E9%A1%B6%E6%B5%81%23" target="weibo">
 中式豪华才是顶流（热度：51436）
 </a>
@@ -8579,12 +8615,6 @@ JDG秋季赛夺冠（热度：56505）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%85%E6%B8%B8%E5%9F%BA%E7%A1%80%E6%97%85%E6%B8%B8%E6%90%AD%E5%AD%90%E5%B0%B1%E4%B8%8D%E5%9F%BA%E7%A1%80%23" target="weibo">
 旅游基础旅游搭子就不基础（热度：44057）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%82%B8%E9%B8%A1%E4%B8%BB%E7%90%86%E4%BA%BAWa%E4%B8%80%E5%A3%B0%E7%99%BB%E5%9C%BA%23" target="weibo">
-炸鸡主理人Wa一声登场（热度：44042）
 </a>
 </li>
 
