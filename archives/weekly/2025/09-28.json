@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759284043403,
+  "endTime": 1759285345915,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -331,6 +331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1068610,
+      "num": 1068610,
+      "word": "鸡排哥被男子扯拽衣服要求站高点演讲",
+      "onboard_time": 1759276819,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1060024,
       "num": 294878,
       "word": "前妻需连续72小时向李阳公开道歉",
@@ -425,14 +433,6 @@
       "onboard_time": 1759189700,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 968198,
-      "num": 968198,
-      "word": "鸡排哥被男子扯拽衣服要求站高点演讲",
-      "onboard_time": 1759276819,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 967166,
@@ -723,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 804582,
+      "num": 804582,
+      "word": "西贝临时调整价格",
+      "onboard_time": 1759282520,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 802989,
       "num": 539110,
       "word": "万达",
@@ -875,14 +883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 713569,
-      "num": 713569,
-      "word": "西贝临时调整价格",
-      "onboard_time": 1759282520,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 706608,
       "num": 276736,
       "word": "两名失联15岁少女已找到",
@@ -897,6 +897,14 @@
       "onboard_time": 1759236021,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 698670,
+      "num": 220320,
+      "word": "给长辈买冰皮月饼一定要说明吃法",
+      "onboard_time": 1759280181,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 696384,
@@ -1489,14 +1497,6 @@
       "onboard_time": 1759056680,
       "rank": 4,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 509520,
-      "num": 220320,
-      "word": "给长辈买冰皮月饼一定要说明吃法",
-      "onboard_time": 1759280181,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 507711,
@@ -2097,6 +2097,14 @@
       "onboard_time": 1759067845,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 392984,
+      "num": 392984,
+      "word": "服装店称因logo相似被小米起诉",
+      "onboard_time": 1759282342,
+      "rank": 7,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 392739,
@@ -3035,14 +3043,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 236994,
-      "num": 236994,
-      "word": "服装店称因logo相似被小米起诉",
-      "onboard_time": 1759282342,
-      "rank": 7,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 236364,
       "num": 280636,
       "word": "湖南卫视中秋之夜官宣阵容",
@@ -3521,6 +3521,14 @@
       "onboard_time": 1759004773,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 198183,
+      "num": 168562,
+      "word": "孩子嫌弃奶奶身上有味道妈妈严肃教育",
+      "onboard_time": 1759283239,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197843,
@@ -5555,6 +5563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141062,
+      "num": 141062,
+      "word": "中华人民共和国成立76周年",
+      "onboard_time": 1759251618,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 140795,
       "num": 140795,
       "word": "淘宝闪购 范丞丞",
@@ -5715,14 +5731,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136952,
-      "num": 136952,
-      "word": "中华人民共和国成立76周年",
-      "onboard_time": 1759251618,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 136932,
       "num": 136932,
       "word": "ally拒绝恋综导演邀请",
@@ -5824,6 +5832,14 @@
       "word": "一人一句纪念我们的5098",
       "onboard_time": 1759197800,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134830,
+      "num": 134830,
+      "word": "西贝客服回应降价",
+      "onboard_time": 1759283900,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -6489,14 +6505,6 @@
       "onboard_time": 1759138641,
       "rank": 36,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 125650,
-      "num": 125650,
-      "word": "孩子嫌弃奶奶身上有味道妈妈严肃教育",
-      "onboard_time": 1759283239,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125305,
@@ -7411,14 +7419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112125,
-      "num": 112125,
-      "word": "西贝客服回应降价",
-      "onboard_time": 1759283900,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112119,
       "num": 112119,
       "word": "肖战笑什么",
@@ -8033,6 +8033,14 @@
       "onboard_time": 1759156042,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103548,
+      "num": 103548,
+      "word": "金饰克价涨到1132元",
+      "onboard_time": 1759285220,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 103519,
@@ -8835,6 +8843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 91474,
+      "num": 91474,
+      "word": "向阳而生奔赴未来",
+      "onboard_time": 1759284140,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91194,
       "num": 91194,
       "word": "胡歌章子怡秀场同框",
@@ -9091,6 +9107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86226,
+      "num": 86226,
+      "word": "王俊凯NBA名人赛C位海报",
+      "onboard_time": 1759274357,
+      "rank": 29,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 86013,
       "num": 96998,
       "word": "肖战湾区升明月整晚的音乐舞台图",
@@ -9137,6 +9161,22 @@
       "onboard_time": 1759036221,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85440,
+      "num": 85440,
+      "word": "8天布置了800天的作业量",
+      "onboard_time": 1759276999,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 85352,
+      "num": 85352,
+      "word": "张晚意马思纯什么设定都这么配",
+      "onboard_time": 1759283360,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 85179,
@@ -9233,14 +9273,6 @@
       "onboard_time": 1759116319,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 83378,
-      "num": 83378,
-      "word": "王俊凯NBA名人赛C位海报",
-      "onboard_time": 1759274357,
-      "rank": 29,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 83008,
@@ -9433,14 +9465,6 @@
       "onboard_time": 1759242082,
       "rank": 27,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 79531,
-      "num": 79531,
-      "word": "8天布置了800天的作业量",
-      "onboard_time": 1759276999,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 79485,
@@ -9905,6 +9929,14 @@
       "onboard_time": 1759163479,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64132,
+      "num": 67463,
+      "word": "有这个全自动洗头机你愿意天天洗头吗",
+      "onboard_time": 1759284080,
+      "rank": 48,
+      "category": "休闲"
     },
     {
       "raw_hot": 63887,
@@ -10404,7 +10436,7 @@
     },
     {
       "raw_hot": 53354,
-      "num": 828720,
+      "num": 864905,
       "word": "国庆中秋假期安全提示",
       "onboard_time": 1759238962,
       "rank": 2,
@@ -10465,6 +10497,14 @@
       "onboard_time": 1759009394,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 50648,
+      "num": 168778,
+      "word": "西贝部分菜品降幅超20%",
+      "onboard_time": 1759284738,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50604,
@@ -11395,6 +11435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20503,
+      "num": 85393,
+      "word": "刘宇演唱会上海站官宣",
+      "onboard_time": 1759259594,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 20438,
       "num": 763523,
       "word": "我把美丽中国唱给你听",
@@ -11440,14 +11488,6 @@
       "word": "姚晓棠刘宇合唱追光",
       "onboard_time": 1759074563,
       "rank": 43,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 19364,
-      "num": 64174,
-      "word": "刘宇演唱会上海站官宣",
-      "onboard_time": 1759259594,
-      "rank": 29,
       "category": "演出"
     },
     {

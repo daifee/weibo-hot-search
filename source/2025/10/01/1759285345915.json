@@ -1,0 +1,410 @@
+{
+  "runTime": 1759285345915,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1117033,
+        "num": 1178725,
+        "word": "广东一地发现首例钻石血",
+        "onboard_time": 1759278139,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1068610,
+        "num": 1068610,
+        "word": "鸡排哥被男子扯拽衣服要求站高点演讲",
+        "onboard_time": 1759276819,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22380,
+        "num": 864905,
+        "word": "国庆中秋假期安全提示",
+        "onboard_time": 1759238962,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 804582,
+        "num": 804582,
+        "word": "西贝临时调整价格",
+        "onboard_time": 1759282520,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 687378,
+        "num": 687378,
+        "word": "国庆",
+        "onboard_time": 1759248741,
+        "rank": 4,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 392984,
+        "num": 392984,
+        "word": "服装店称因logo相似被小米起诉",
+        "onboard_time": 1759282342,
+        "rank": 5,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 296344,
+        "num": 296344,
+        "word": "第一批堵车人堵成鸳鸯锅",
+        "onboard_time": 1759236021,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204119,
+        "num": 204119,
+        "word": "一耳光打走女儿母亲花光积蓄找10年",
+        "onboard_time": 1759243522,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197318,
+        "num": 197318,
+        "word": "我爱你中国",
+        "onboard_time": 1759275559,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191517,
+        "num": 191517,
+        "word": "白宫宣布政府即将关门",
+        "onboard_time": 1759282700,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 759214,
+        "num": 191062,
+        "word": "彭高",
+        "onboard_time": 1759281199,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 698670,
+        "num": 189067,
+        "word": "给长辈买冰皮月饼一定要说明吃法",
+        "onboard_time": 1759280181,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186618,
+        "num": 186618,
+        "word": "祝新中国生日快乐",
+        "onboard_time": 1759275258,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458903,
+        "num": 186310,
+        "word": "王乐晨道歉",
+        "onboard_time": 1759248381,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370790,
+        "num": 185825,
+        "word": "张维伊回应继女改口",
+        "onboard_time": 1759243163,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197870,
+        "num": 184431,
+        "word": "吴倩回到了赵默笙时期",
+        "onboard_time": 1759274417,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180041,
+        "num": 180041,
+        "word": "校方称9人轮流睡8张床最公平",
+        "onboard_time": 1759243522,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178825,
+        "num": 178825,
+        "word": "户晨风",
+        "onboard_time": 1759277298,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 170292,
+        "num": 170292,
+        "word": "乐远cp选择不成为情侣",
+        "onboard_time": 1759230981,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50648,
+        "num": 168778,
+        "word": "西贝部分菜品降幅超20%",
+        "onboard_time": 1759284738,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198183,
+        "num": 168562,
+        "word": "孩子嫌弃奶奶身上有味道妈妈严肃教育",
+        "onboard_time": 1759283239,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179632,
+        "num": 168441,
+        "word": "iPhone11ProMax被列为复古产品",
+        "onboard_time": 1759281080,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168258,
+        "num": 168258,
+        "word": "王乐晨前女友",
+        "onboard_time": 1759275378,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141062,
+        "num": 141062,
+        "word": "中华人民共和国成立76周年",
+        "onboard_time": 1759251618,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134950,
+        "num": 134950,
+        "word": "张晚意马思纯 埃及法老和他的宠妃",
+        "onboard_time": 1759274479,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134830,
+        "num": 134830,
+        "word": "西贝客服回应降价",
+        "onboard_time": 1759283900,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128366,
+        "num": 128366,
+        "word": "K签证是否是过度紧张",
+        "onboard_time": 1759280780,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115562,
+        "num": 115562,
+        "word": "罗予彤哭着求黄灿灿分手",
+        "onboard_time": 1759274417,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113516,
+        "num": 113516,
+        "word": "罗永浩呼吁全行业消灭误导大小字",
+        "onboard_time": 1759281859,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108711,
+        "num": 108711,
+        "word": "顺丰速运回应顺丰速孕低俗车贴",
+        "onboard_time": 1759245740,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103548,
+        "num": 103548,
+        "word": "金饰克价涨到1132元",
+        "onboard_time": 1759285220,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103181,
+        "num": 103181,
+        "word": "如益cp官宣后发文",
+        "onboard_time": 1759279159,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97737,
+        "num": 97737,
+        "word": "27岁发现自己年龄有点严肃了",
+        "onboard_time": 1759277659,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97438,
+        "num": 97438,
+        "word": "菲律宾地震26死147伤",
+        "onboard_time": 1759277358,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 91474,
+        "num": 91474,
+        "word": "向阳而生奔赴未来",
+        "onboard_time": 1759284140,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90671,
+        "num": 90671,
+        "word": "失去半个舌头会对面容有影响",
+        "onboard_time": 1759274118,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 87480,
+        "num": 87480,
+        "word": "曝方媛已产下第三胎",
+        "onboard_time": 1759241541,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86226,
+        "num": 86226,
+        "word": "王俊凯NBA名人赛C位海报",
+        "onboard_time": 1759274357,
+        "rank": 37,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 85440,
+        "num": 85440,
+        "word": "8天布置了800天的作业量",
+        "onboard_time": 1759276999,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20503,
+        "num": 85393,
+        "word": "刘宇演唱会上海站官宣",
+        "onboard_time": 1759259594,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85352,
+        "num": 85352,
+        "word": "张晚意马思纯什么设定都这么配",
+        "onboard_time": 1759283360,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84844,
+        "num": 84844,
+        "word": "菲律宾6.9级地震",
+        "onboard_time": 1759242442,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83185,
+        "num": 83185,
+        "word": "新中国成立七十六周年",
+        "onboard_time": 1759275079,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72950,
+        "num": 72950,
+        "word": "户晨风全网销号",
+        "onboard_time": 1759236383,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 72932,
+        "num": 72932,
+        "word": "车车车车车高速公路车车车车车",
+        "onboard_time": 1759240221,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72069,
+        "num": 72069,
+        "word": "鹿晗画了泪痣",
+        "onboard_time": 1759273878,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70158,
+        "num": 70158,
+        "word": "肖战看沈佳润舞台直拍",
+        "onboard_time": 1759243462,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68425,
+        "num": 68425,
+        "word": "鸡排哥",
+        "onboard_time": 1759282758,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64132,
+        "num": 67463,
+        "word": "有这个全自动洗头机你愿意天天洗头吗",
+        "onboard_time": 1759284080,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 61706,
+        "num": 67058,
+        "word": "张本美和说哥哥有赢肯定有输",
+        "onboard_time": 1759280899,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#向全国各族人民致以节日祝贺#"
+    }
+  }
+}

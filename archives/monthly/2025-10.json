@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759284043403,
+  "endTime": 1759285345915,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -27,8 +27,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 968198,
-      "num": 968198,
+      "raw_hot": 1068610,
+      "num": 1068610,
       "word": "鸡排哥被男子扯拽衣服要求站高点演讲",
       "onboard_time": 1759276819,
       "rank": 1,
@@ -40,6 +40,14 @@
       "word": "K字签证不能与移民划等号",
       "onboard_time": 1759247721,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 804582,
+      "num": 804582,
+      "word": "西贝临时调整价格",
+      "onboard_time": 1759282520,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -59,20 +67,20 @@
       "category": "国内时政,民生新闻"
     },
     {
-      "raw_hot": 713569,
-      "num": 713569,
-      "word": "西贝临时调整价格",
-      "onboard_time": 1759282520,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 701518,
       "num": 922242,
       "word": "第一批堵车人堵成鸳鸯锅",
       "onboard_time": 1759236021,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 698670,
+      "num": 220320,
+      "word": "给长辈买冰皮月饼一定要说明吃法",
+      "onboard_time": 1759280181,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 662256,
@@ -97,14 +105,6 @@
       "onboard_time": 1759230981,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 509520,
-      "num": 220320,
-      "word": "给长辈买冰皮月饼一定要说明吃法",
-      "onboard_time": 1759280181,
-      "rank": 11,
-      "category": "幽默"
     },
     {
       "raw_hot": 474998,
@@ -137,6 +137,14 @@
       "onboard_time": 1759243462,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 392984,
+      "num": 392984,
+      "word": "服装店称因logo相似被小米起诉",
+      "onboard_time": 1759282342,
+      "rank": 7,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 392946,
@@ -243,14 +251,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 236994,
-      "num": 236994,
-      "word": "服装店称因logo相似被小米起诉",
-      "onboard_time": 1759282342,
-      "rank": 7,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 236438,
       "num": 236438,
       "word": "菲律宾6.9级地震",
@@ -289,6 +289,14 @@
       "onboard_time": 1759241661,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198183,
+      "num": 168562,
+      "word": "孩子嫌弃奶奶身上有味道妈妈严肃教育",
+      "onboard_time": 1759283239,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192254,
@@ -395,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 141062,
+      "num": 141062,
+      "word": "中华人民共和国成立76周年",
+      "onboard_time": 1759251618,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139185,
       "num": 139185,
       "word": "容祖儿晒与肖战王力宏合照",
@@ -403,12 +419,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 136952,
-      "num": 136952,
-      "word": "中华人民共和国成立76周年",
-      "onboard_time": 1759251618,
-      "rank": 36,
-      "category": "国内时政"
+      "raw_hot": 134830,
+      "num": 134830,
+      "word": "西贝客服回应降价",
+      "onboard_time": 1759283900,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131879,
@@ -433,14 +449,6 @@
       "onboard_time": 1759279159,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 125650,
-      "num": 125650,
-      "word": "孩子嫌弃奶奶身上有味道妈妈严肃教育",
-      "onboard_time": 1759283239,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124919,
@@ -483,14 +491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112125,
-      "num": 112125,
-      "word": "西贝客服回应降价",
-      "onboard_time": 1759283900,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111885,
       "num": 111885,
       "word": "27岁发现自己年龄有点严肃了",
@@ -505,6 +505,14 @@
       "onboard_time": 1759245443,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103548,
+      "num": 103548,
+      "word": "金饰克价涨到1132元",
+      "onboard_time": 1759285220,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 101051,
@@ -539,6 +547,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 91474,
+      "num": 91474,
+      "word": "向阳而生奔赴未来",
+      "onboard_time": 1759284140,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88210,
       "num": 88210,
       "word": "心动8如益CP官宣",
@@ -563,20 +579,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86226,
+      "num": 86226,
+      "word": "王俊凯NBA名人赛C位海报",
+      "onboard_time": 1759274357,
+      "rank": 29,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 85440,
+      "num": 85440,
+      "word": "8天布置了800天的作业量",
+      "onboard_time": 1759276999,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 85352,
+      "num": 85352,
+      "word": "张晚意马思纯什么设定都这么配",
+      "onboard_time": 1759283360,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85268,
       "num": 85268,
       "word": "王力宏鹿晗 演唱会循环",
       "onboard_time": 1759239262,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 83378,
-      "num": 83378,
-      "word": "王俊凯NBA名人赛C位海报",
-      "onboard_time": 1759274357,
-      "rank": 29,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 80144,
@@ -601,14 +633,6 @@
       "onboard_time": 1759231101,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79531,
-      "num": 79531,
-      "word": "8天布置了800天的作业量",
-      "onboard_time": 1759276999,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 76824,
@@ -731,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64132,
+      "num": 67463,
+      "word": "有这个全自动洗头机你愿意天天洗头吗",
+      "onboard_time": 1759284080,
+      "rank": 48,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 63517,
       "num": 63517,
       "word": "女子点自提咖啡却强行要求店员配送",
@@ -811,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50648,
+      "num": 168778,
+      "word": "西贝部分菜品降幅超20%",
+      "onboard_time": 1759284738,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48563,
       "num": 56848,
       "word": "雨果说王楚钦实力最强",
@@ -860,7 +900,7 @@
     },
     {
       "raw_hot": 32323,
-      "num": 828720,
+      "num": 864905,
       "word": "国庆中秋假期安全提示",
       "onboard_time": 1759238962,
       "rank": 2,
@@ -899,8 +939,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 19364,
-      "num": 64174,
+      "raw_hot": 20503,
+      "num": 85393,
       "word": "刘宇演唱会上海站官宣",
       "onboard_time": 1759259594,
       "rank": 29,
