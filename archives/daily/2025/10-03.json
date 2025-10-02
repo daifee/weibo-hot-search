@@ -1,6 +1,6 @@
 {
   "startTime": 1759422668020,
-  "endTime": 1759430138280,
+  "endTime": 1759430774156,
   "band_list": [
     {
       "raw_hot": 710844,
@@ -460,11 +460,19 @@
     },
     {
       "raw_hot": 23636,
-      "num": 37582,
+      "num": 40462,
       "word": "宁艺卓灰色紧身衣",
       "onboard_time": 1759426937,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17995,
+      "num": 40454,
+      "word": "9个快乐生活法则建议收藏",
+      "onboard_time": 1759421120,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17649,
