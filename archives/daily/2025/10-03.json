@@ -1,6 +1,6 @@
 {
   "startTime": 1759422668020,
-  "endTime": 1759426712650,
+  "endTime": 1759430138280,
   "band_list": [
     {
       "raw_hot": 710844,
@@ -323,6 +323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 67278,
+      "num": 72221,
+      "word": "大连地铁发生意外故障停运一小时",
+      "onboard_time": 1759425317,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66977,
       "num": 85463,
       "word": "王楚钦说精力体力已经到了极限",
@@ -451,12 +459,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27964,
-      "num": 72221,
-      "word": "大连地铁发生意外故障停运一小时",
-      "onboard_time": 1759425317,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 23636,
+      "num": 37582,
+      "word": "宁艺卓灰色紧身衣",
+      "onboard_time": 1759426937,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17649,
+      "num": 37478,
+      "word": "草蜢刘惜君都来看林忆莲了",
+      "onboard_time": 1759430116,
+      "rank": 48,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
