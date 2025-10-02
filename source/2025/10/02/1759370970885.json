@@ -1,0 +1,410 @@
+{
+  "runTime": 1759370970885,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1352947,
+        "num": 1352947,
+        "word": "鸡排哥手臂布满烫伤疤",
+        "onboard_time": 1759364538,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1194949,
+        "num": 1194949,
+        "word": "珍古道尔去世",
+        "onboard_time": 1759361117,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 19104,
+        "num": 907143,
+        "word": "对祖国的爱永远滚烫赤诚",
+        "onboard_time": 1759318221,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 871020,
+        "num": 871020,
+        "word": "9人轮流睡8张床学生已实现1人1铺",
+        "onboard_time": 1759364898,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440619,
+        "num": 440619,
+        "word": "鸡排哥 疲惫",
+        "onboard_time": 1759368621,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278660,
+        "num": 278660,
+        "word": "景德镇有在努力接住泼天流量",
+        "onboard_time": 1759334121,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241273,
+        "num": 241273,
+        "word": "被15秒3次敬礼暖到",
+        "onboard_time": 1759365859,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 228518,
+        "num": 228518,
+        "word": "清清转辅助",
+        "onboard_time": 1759362139,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191695,
+        "num": 191695,
+        "word": "久哲",
+        "onboard_time": 1759362798,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155636,
+        "num": 155636,
+        "word": "打卡快乐十一",
+        "onboard_time": 1759361478,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 398321,
+        "num": 155620,
+        "word": "Dior连发4条迪丽热巴",
+        "onboard_time": 1759364000,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 278550,
+        "num": 154211,
+        "word": "林心如回应与陈妍希陈晓结亲家",
+        "onboard_time": 1759323321,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265953,
+        "num": 153612,
+        "word": "外国网红纷纷沉迷中国修容大法",
+        "onboard_time": 1759367120,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 263552,
+        "num": 153116,
+        "word": "陈伟霆回应好命哥",
+        "onboard_time": 1759366759,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255935,
+        "num": 152474,
+        "word": "娜扎好美",
+        "onboard_time": 1759365499,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 245935,
+        "num": 151488,
+        "word": "六小龄童 猴子猴孙这么多",
+        "onboard_time": 1759369279,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204577,
+        "num": 150494,
+        "word": "王乐晨",
+        "onboard_time": 1759369339,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189210,
+        "num": 149684,
+        "word": "迪丽热巴外媒镜头",
+        "onboard_time": 1759361718,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173832,
+        "num": 148861,
+        "word": "陈伟霆称开始不敢接霸总戏",
+        "onboard_time": 1759340297,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172634,
+        "num": 148094,
+        "word": "在王力宏演唱会被鹿晗认出来了",
+        "onboard_time": 1759332679,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 263087,
+        "num": 148001,
+        "word": "原来月经量少不是坏事",
+        "onboard_time": 1759364178,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185608,
+        "num": 147066,
+        "word": "皮肤上这种小红点可能是血管瘤",
+        "onboard_time": 1759368860,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146577,
+        "num": 146577,
+        "word": "台湾拒绝美国芯片制造五五分要求",
+        "onboard_time": 1759359737,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141433,
+        "num": 141433,
+        "word": "Dior大秀G社生图",
+        "onboard_time": 1759361178,
+        "rank": 23,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 56774,
+        "num": 129000,
+        "word": "珍古道尔是出现在教科书上的传奇",
+        "onboard_time": 1759369519,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128005,
+        "num": 128005,
+        "word": "特朗普放狠话称要做不可逆转之事",
+        "onboard_time": 1759368379,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123821,
+        "num": 123821,
+        "word": "国庆中秋假期第2天",
+        "onboard_time": 1759367538,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122578,
+        "num": 122578,
+        "word": "被得力辞退跛脚员工再发声",
+        "onboard_time": 1759334000,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118355,
+        "num": 118355,
+        "word": "中网看台上的董卿",
+        "onboard_time": 1759368199,
+        "rank": 28,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 117915,
+        "num": 117915,
+        "word": "环保少女再次被以军扣押",
+        "onboard_time": 1759370780,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103901,
+        "num": 103901,
+        "word": "许我耀眼热度",
+        "onboard_time": 1759329203,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103752,
+        "num": 103752,
+        "word": "林孝埈刀刻般的肌肉线条",
+        "onboard_time": 1759370000,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101881,
+        "num": 101881,
+        "word": "毕正明的证明 黑马",
+        "onboard_time": 1759370180,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101531,
+        "num": 101531,
+        "word": "杜淳妻子因易梦玲想整容",
+        "onboard_time": 1759327821,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100921,
+        "num": 100921,
+        "word": "一笑随歌开播",
+        "onboard_time": 1759370000,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63754,
+        "num": 100121,
+        "word": "里斯本丸纪念日登上英国大屏",
+        "onboard_time": 1759370900,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99440,
+        "num": 99440,
+        "word": "荣昌政府食堂一顿蒸550斤米饭",
+        "onboard_time": 1759363638,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98856,
+        "num": 98856,
+        "word": "台风麦德姆已生成",
+        "onboard_time": 1759370539,
+        "rank": 37,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 98759,
+        "num": 98759,
+        "word": "薛之谦说有点不敢接音乐节了",
+        "onboard_time": 1759330101,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28662,
+        "num": 93665,
+        "word": "国庆首日上迪游客半天玩3项目",
+        "onboard_time": 1759370900,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92016,
+        "num": 92016,
+        "word": "课本上的传奇女子",
+        "onboard_time": 1759370659,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90374,
+        "num": 90374,
+        "word": "许我耀眼热度破31000",
+        "onboard_time": 1759368500,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84727,
+        "num": 84727,
+        "word": "泰国山竹榴莲26小时直达中国市场",
+        "onboard_time": 1759370239,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77735,
+        "num": 77735,
+        "word": "迪奥大秀",
+        "onboard_time": 1759323742,
+        "rank": 43,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 72257,
+        "num": 72257,
+        "word": "王鹤棣录咸鱼飞升团综哭了",
+        "onboard_time": 1759361598,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71577,
+        "num": 71577,
+        "word": "郑钦文现身武汉",
+        "onboard_time": 1759370479,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71448,
+        "num": 71448,
+        "word": "章若楠出发巴黎了",
+        "onboard_time": 1759365739,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 70641,
+        "num": 70641,
+        "word": "国庆中秋假期后4天或有台风来袭",
+        "onboard_time": 1759367299,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 68643,
+        "num": 68643,
+        "word": "许妍其实是沈皓明养的龙舌兰",
+        "onboard_time": 1759369880,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67812,
+        "num": 67812,
+        "word": "王楚钦说不知道裁判是什么判断",
+        "onboard_time": 1759367779,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#做一个光荣自豪的中国人#"
+    }
+  }
+}
