@@ -1,6 +1,6 @@
 {
   "startTime": 1759336314340,
-  "endTime": 1759389818874,
+  "endTime": 1759390595690,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -19,8 +19,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1368020,
-      "num": 150074,
+      "raw_hot": 1390411,
+      "num": 156563,
       "word": "迪丽热巴鞋跟断了",
       "onboard_time": 1759387281,
       "rank": 11,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1021121,
-      "num": 137501,
+      "num": 154755,
       "word": "马頔李纯孩子可以叫马思纯",
       "onboard_time": 1759389321,
       "rank": 15,
@@ -291,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 356347,
+      "num": 155899,
+      "word": "男子身家千万因无子被骂哭了一夜",
+      "onboard_time": 1759386500,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 354347,
       "num": 354347,
       "word": "金价又刷新纪录了",
@@ -299,12 +307,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 352249,
-      "num": 149585,
-      "word": "男子身家千万因无子被骂哭了一夜",
-      "onboard_time": 1759386500,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 349579,
+      "num": 155556,
+      "word": "狗子因为太胖而躲过一劫",
+      "onboard_time": 1759387102,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 347582,
@@ -323,6 +331,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 341689,
+      "num": 152297,
+      "word": "蜜雪冰城要卖啤酒了",
+      "onboard_time": 1759385542,
+      "rank": 21,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 337216,
       "num": 337216,
       "word": "郑州方特道歉",
@@ -337,6 +353,14 @@
       "onboard_time": 1759332500,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329397,
+      "num": 329397,
+      "word": "金价太高有人囤金条为两儿子打算",
+      "onboard_time": 1759388359,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 326609,
@@ -369,14 +393,6 @@
       "onboard_time": 1759327821,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301358,
-      "num": 301358,
-      "word": "金价太高有人囤金条为两儿子打算",
-      "onboard_time": 1759388359,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 300650,
@@ -427,6 +443,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 276626,
+      "num": 155306,
+      "word": "管乐三连怼祝绪丹",
+      "onboard_time": 1759388960,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269957,
       "num": 178577,
       "word": "中网看台上的董卿",
@@ -449,14 +473,6 @@
       "onboard_time": 1759386500,
       "rank": 30,
       "category": "游戏,互联网"
-    },
-    {
-      "raw_hot": 267162,
-      "num": 146643,
-      "word": "蜜雪冰城要卖啤酒了",
-      "onboard_time": 1759385542,
-      "rank": 21,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 265094,
@@ -489,6 +505,14 @@
       "onboard_time": 1759376360,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 256409,
+      "num": 154639,
+      "word": "今年三大平台爆剧",
+      "onboard_time": 1759387941,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 255935,
@@ -587,14 +611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 222079,
-      "num": 139092,
-      "word": "狗子因为太胖而躲过一劫",
-      "onboard_time": 1759387102,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 217790,
       "num": 149684,
       "word": "迪丽热巴外媒镜头",
@@ -611,12 +627,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216157,
+      "num": 216157,
+      "word": "两客机在纽约机场相撞",
+      "onboard_time": 1759387881,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 212117,
       "num": 169634,
       "word": "皮肤上这种小红点可能是血管瘤",
       "onboard_time": 1759368860,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 208529,
+      "num": 153923,
+      "word": "李晟生日没有感动全是尴尬",
+      "onboard_time": 1759386380,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 203454,
@@ -665,14 +697,6 @@
       "onboard_time": 1759385961,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197334,
-      "num": 135054,
-      "word": "李晟生日没有感动全是尴尬",
-      "onboard_time": 1759386380,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 196522,
@@ -729,14 +753,6 @@
       "onboard_time": 1759378881,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177149,
-      "num": 131988,
-      "word": "今年三大平台爆剧",
-      "onboard_time": 1759387941,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 175053,
@@ -844,7 +860,7 @@
     },
     {
       "raw_hot": 163680,
-      "num": 131922,
+      "num": 151511,
       "word": "田曦薇护食",
       "onboard_time": 1759385901,
       "rank": 33,
@@ -857,14 +873,6 @@
       "onboard_time": 1759359737,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 159229,
-      "num": 159229,
-      "word": "两客机在纽约机场相撞",
-      "onboard_time": 1759387881,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 159064,
@@ -964,7 +972,7 @@
     },
     {
       "raw_hot": 144846,
-      "num": 144846,
+      "num": 157062,
       "word": "第五人格赛事",
       "onboard_time": 1759389442,
       "rank": 9,
@@ -1043,14 +1051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132125,
-      "num": 132125,
-      "word": "管乐三连怼祝绪丹",
-      "onboard_time": 1759388960,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 132102,
       "num": 132102,
       "word": "毕正明的证明 黑马",
@@ -1115,6 +1115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127130,
+      "num": 127130,
+      "word": "英国博主在飞猪公开课现场哭了",
+      "onboard_time": 1759390341,
+      "rank": 25,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 126290,
       "num": 126290,
       "word": "马思纯G社生图好明媚的美",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1759385181,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122509,
+      "num": 122509,
+      "word": "鸡排哥称有摊主假冒已故父亲",
+      "onboard_time": 1759389981,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121531,
@@ -1259,6 +1275,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107003,
+      "num": 107003,
+      "word": "戚薇贴创可贴看秀",
+      "onboard_time": 1759389560,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 106638,
+      "num": 106638,
+      "word": "黄友政陈熠3比1袁励岑王艺迪",
+      "onboard_time": 1759389621,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106558,
       "num": 106558,
       "word": "14亿中国人心同此愿",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1759370000,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103461,
+      "num": 103461,
+      "word": "宋亚轩用自己照片当壁纸",
+      "onboard_time": 1759390462,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 102724,
@@ -1387,14 +1427,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 94104,
-      "num": 94104,
-      "word": "黄友政陈熠3比1袁励岑王艺迪",
-      "onboard_time": 1759389621,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 92543,
       "num": 92543,
       "word": "许我耀眼热度破31000",
@@ -1409,14 +1441,6 @@
       "onboard_time": 1759378100,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92479,
-      "num": 88360,
-      "word": "戚薇贴创可贴看秀",
-      "onboard_time": 1759389560,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 92016,
@@ -1531,6 +1555,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82691,
+      "num": 93028,
+      "word": "王铮亮 人老脾气大",
+      "onboard_time": 1759389740,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 81963,
+      "num": 81963,
+      "word": "徐志胜被庞铮虐哭了",
+      "onboard_time": 1759389981,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80566,
       "num": 80566,
       "word": "隐翅虫",
@@ -1571,6 +1611,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 75305,
+      "num": 75305,
+      "word": "黄友政陈熠晋级混双决赛",
+      "onboard_time": 1759390580,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75081,
       "num": 75081,
       "word": "上戏学霸日播12小时赚钱救父",
@@ -1579,12 +1627,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74850,
-      "num": 93028,
-      "word": "王铮亮 人老脾气大",
-      "onboard_time": 1759389740,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 74823,
+      "num": 74823,
+      "word": "孙颖莎以为王晓彤要暂停",
+      "onboard_time": 1759390580,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 74669,
@@ -1755,8 +1803,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59414,
-      "num": 134436,
+      "raw_hot": 60467,
+      "num": 153144,
       "word": "十一当天有3.6亿人用高德",
       "onboard_time": 1759388600,
       "rank": 17,
@@ -1825,6 +1873,14 @@
       "onboard_time": 1759361178,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 55145,
+      "num": 122510,
+      "word": "高速抢电",
+      "onboard_time": 1759390402,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55087,
@@ -1987,6 +2043,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 33862,
+      "num": 153569,
+      "word": "Dior多机位带你全方位看秀",
+      "onboard_time": 1759388661,
+      "rank": 18,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 32257,
       "num": 690929,
       "word": "网警提醒5种网络安全风险需警惕",
@@ -2049,14 +2113,6 @@
       "onboard_time": 1759339996,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26163,
-      "num": 132776,
-      "word": "Dior多机位带你全方位看秀",
-      "onboard_time": 1759388661,
-      "rank": 18,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 25668,
