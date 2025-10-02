@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759440111128,
+  "endTime": 1759441014313,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -6683,6 +6683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39191,
+      "num": 21941,
+      "word": "英皇欠钱的最大受益人",
+      "onboard_time": 1759438574,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39049,
       "num": 183363,
       "word": "蔡明用AQ把自己照顾的很好",
@@ -7011,14 +7019,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 21705,
-      "num": 21705,
-      "word": "英皇欠钱的最大受益人",
-      "onboard_time": 1759438574,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 21556,
       "num": 105076,
       "word": "100名游客托举1650平方米国旗",
@@ -7107,12 +7107,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 14450,
+      "raw_hot": 15241,
       "num": 21751,
       "word": "尹锡悦不得保释",
       "onboard_time": 1759436595,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14902,
+      "num": 18221,
+      "word": "电影频道首播射雕英雄传侠之大者",
+      "onboard_time": 1759438273,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 14749,
+      "num": 18221,
+      "word": "双休7千单休9千怎么选",
+      "onboard_time": 1759439174,
+      "rank": 48,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 14446,
@@ -7155,14 +7171,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 12598,
-      "num": 18221,
-      "word": "电影频道首播射雕英雄传侠之大者",
-      "onboard_time": 1759438273,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 12575,
       "num": 21880,
       "word": "咪豆音乐节",
@@ -7171,20 +7179,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 11901,
-      "num": 18221,
-      "word": "双休7千单休9千怎么选",
-      "onboard_time": 1759439174,
-      "rank": 48,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 11212,
       "num": 126718,
       "word": "刺小导演拍摄时代少年团演唱会全程",
       "onboard_time": 1759376719,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 10460,
+      "num": 17713,
+      "word": "于适稳稳地帮六公主完美救场",
+      "onboard_time": 1759440974,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 10245,
