@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759387014194,
+  "endTime": 1759387720250,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -1067,6 +1067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 758636,
+      "num": 758636,
+      "word": "鸡排哥太累没说话被指没有情绪价值",
+      "onboard_time": 1759382720,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 756562,
       "num": 1121049,
       "word": "2亿烂尾楼改酒店3688元套房被订",
@@ -1153,14 +1161,6 @@
       "onboard_time": 1759311982,
       "rank": 29,
       "category": "幽默,旅游"
-    },
-    {
-      "raw_hot": 706796,
-      "num": 706796,
-      "word": "鸡排哥太累没说话被指没有情绪价值",
-      "onboard_time": 1759382720,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 706608,
@@ -1937,6 +1937,14 @@
       "onboard_time": 1759043060,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 520612,
+      "num": 150074,
+      "word": "迪丽热巴鞋跟断了",
+      "onboard_time": 1759387281,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 518812,
@@ -3491,6 +3499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290215,
+      "num": 149585,
+      "word": "男子身家千万因无子被骂哭了一夜",
+      "onboard_time": 1759386500,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290202,
       "num": 193915,
       "word": "短剧男主不接受大尺度吻戏擅自离组",
@@ -3667,6 +3683,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 268271,
+      "num": 148787,
+      "word": "万达电影发文致歉",
+      "onboard_time": 1759386500,
+      "rank": 30,
+      "category": "游戏,互联网"
+    },
+    {
+      "raw_hot": 267162,
+      "num": 146643,
+      "word": "蜜雪冰城要卖啤酒了",
+      "onboard_time": 1759385542,
+      "rank": 21,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 265094,
       "num": 134827,
       "word": "被得力辞退跛脚员工再发声",
@@ -3809,14 +3841,6 @@
       "onboard_time": 1759288041,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 252548,
-      "num": 147109,
-      "word": "男子身家千万因无子被骂哭了一夜",
-      "onboard_time": 1759386500,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 252036,
@@ -4507,14 +4531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211436,
-      "num": 143925,
-      "word": "蜜雪冰城要卖啤酒了",
-      "onboard_time": 1759385542,
-      "rank": 21,
-      "category": "民生新闻,美食"
-    },
-    {
       "raw_hot": 210324,
       "num": 218258,
       "word": "张帅vs阿尼西莫娃",
@@ -4825,6 +4841,14 @@
       "onboard_time": 1759040001,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197361,
+      "num": 197361,
+      "word": "蒯曼无缘中国大满贯八强",
+      "onboard_time": 1759385961,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 196522,
@@ -5595,14 +5619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 176414,
-      "num": 126627,
-      "word": "万达电影发文致歉",
-      "onboard_time": 1759386500,
-      "rank": 30,
-      "category": "游戏,互联网"
-    },
-    {
       "raw_hot": 176380,
       "num": 176380,
       "word": "杨幂 自驾重走丝绸之路",
@@ -6041,6 +6057,14 @@
       "onboard_time": 1759027040,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166756,
+      "num": 146220,
+      "word": "张艺兴张子枫进门局促感不像演的",
+      "onboard_time": 1759386560,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 166730,
@@ -6819,6 +6843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150450,
+      "num": 150450,
+      "word": "蒯曼2比3申裕斌",
+      "onboard_time": 1759387281,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149968,
       "num": 149968,
       "word": "李现说自己素颜不好看",
@@ -6923,6 +6955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148916,
+      "num": 145605,
+      "word": "李沁鸡腿姑娘爆改鸭梨夫人",
+      "onboard_time": 1759387160,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148900,
       "num": 148900,
       "word": "TTG对战JDG",
@@ -6953,14 +6993,6 @@
       "onboard_time": 1759205540,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 148488,
-      "num": 148488,
-      "word": "蒯曼无缘中国大满贯八强",
-      "onboard_time": 1759385961,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 148150,
@@ -7291,12 +7323,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 142952,
-      "num": 142952,
-      "word": "张艺兴张子枫进门局促感不像演的",
-      "onboard_time": 1759386560,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 142945,
+      "num": 142945,
+      "word": "Wolves对战北京WBG",
+      "onboard_time": 1759387221,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 142858,
@@ -8571,6 +8603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126716,
+      "num": 126716,
+      "word": "田曦薇护食",
+      "onboard_time": 1759385901,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126697,
       "num": 126697,
       "word": "A股放量200亿",
@@ -8617,6 +8657,14 @@
       "onboard_time": 1759138521,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 126290,
+      "num": 126290,
+      "word": "马思纯G社生图好明媚的美",
+      "onboard_time": 1759386320,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 126213,
@@ -9201,6 +9249,14 @@
       "onboard_time": 1759379422,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119853,
+      "num": 119853,
+      "word": "李晟生日没有感动全是尴尬",
+      "onboard_time": 1759386380,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 119828,
@@ -10123,14 +10179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109572,
-      "num": 109572,
-      "word": "田曦薇护食",
-      "onboard_time": 1759385901,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109570,
       "num": 109570,
       "word": "孙颖莎说大头做得非常好",
@@ -10160,14 +10208,6 @@
       "word": "井迪直播",
       "onboard_time": 1759162460,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 109499,
-      "num": 105074,
-      "word": "李晟生日没有感动全是尴尬",
-      "onboard_time": 1759386380,
-      "rank": 35,
       "category": "综艺"
     },
     {
@@ -10515,6 +10555,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 105810,
+      "num": 105810,
+      "word": "狗子因为太胖而躲过一劫",
+      "onboard_time": 1759387102,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105806,
       "num": 105806,
       "word": "全红婵梁伟铿王欣瑜入选先进个人",
@@ -10681,14 +10729,6 @@
       "onboard_time": 1759126701,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104517,
-      "num": 104517,
-      "word": "马思纯G社生图好明媚的美",
-      "onboard_time": 1759386320,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 104499,
@@ -11152,6 +11192,14 @@
       "word": "眠狼樊振东全运会应援插图",
       "onboard_time": 1759041922,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99610,
+      "num": 147167,
+      "word": "林诗栋晋级中国大满贯8强",
+      "onboard_time": 1759387160,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -12859,6 +12907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79358,
+      "num": 79358,
+      "word": "官方回应高速上SUV低速乱窜",
+      "onboard_time": 1759387701,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79291,
       "num": 118558,
       "word": "女子国内非法集资400多亿潜逃英国",
@@ -14011,6 +14067,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 55719,
+      "num": 136876,
+      "word": "专家建议设立里斯本丸沉船纪念日",
+      "onboard_time": 1759385061,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55689,
       "num": 131179,
       "word": "男子穿女装向路人喷洒不明液体",
@@ -14128,14 +14192,6 @@
       "word": "博主播鸡排哥11天称收益不够买2鸡排",
       "onboard_time": 1759383321,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51883,
-      "num": 126766,
-      "word": "专家建议设立里斯本丸沉船纪念日",
-      "onboard_time": 1759385061,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -14836,7 +14892,7 @@
     },
     {
       "raw_hot": 36304,
-      "num": 128742,
+      "num": 146113,
       "word": "Jonathan开启Dior新时代",
       "onboard_time": 1759385061,
       "rank": 27,
@@ -15579,6 +15635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18696,
+      "num": 100853,
+      "word": "周也穿秋裤去巴黎时装周",
+      "onboard_time": 1759386620,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 18610,
       "num": 114951,
       "word": "穿普拉达的女王2把秀场变片场了",
@@ -15665,14 +15729,6 @@
       "onboard_time": 1759263554,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14261,
-      "num": 100853,
-      "word": "周也穿秋裤去巴黎时装周",
-      "onboard_time": 1759386620,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 13818,
