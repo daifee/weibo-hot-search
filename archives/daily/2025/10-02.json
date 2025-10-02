@@ -1,6 +1,6 @@
 {
   "startTime": 1759336314340,
-  "endTime": 1759405039453,
+  "endTime": 1759409333710,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 877364,
+      "num": 1140378,
+      "word": "提醒在韩中国游客注意人身安全",
+      "onboard_time": 1759401381,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 876578,
       "num": 876578,
       "word": "张继科蹲地拍照下一秒落水",
@@ -171,6 +179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 760783,
+      "num": 760783,
+      "word": "我驻韩使馆就反华游行表明严正立场",
+      "onboard_time": 1759403361,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 758636,
       "num": 1117090,
       "word": "鸡排哥太累没说话被指没有情绪价值",
@@ -184,6 +200,22 @@
       "word": "许我耀眼热度",
       "onboard_time": 1759329203,
       "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 698430,
+      "num": 187056,
+      "word": "做手术前一定要多问一句",
+      "onboard_time": 1759398560,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 696815,
+      "num": 185227,
+      "word": "许我耀眼16",
+      "onboard_time": 1759405042,
+      "rank": 12,
       "category": "剧集"
     },
     {
@@ -329,6 +361,14 @@
       "onboard_time": 1759377140,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 453166,
+      "num": 181942,
+      "word": "大城小爱",
+      "onboard_time": 1759407442,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 446686,
@@ -491,6 +531,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324526,
+      "num": 177746,
+      "word": "张艺兴官宣独立音乐人邓泽鸣",
+      "onboard_time": 1759404682,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 320121,
+      "num": 174751,
+      "word": "人人人人人人鸡排哥人人人人人人",
+      "onboard_time": 1759405702,
+      "rank": 20,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 318956,
       "num": 195686,
       "word": "女子中百万大奖后隐瞒男友4个多月",
@@ -555,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292982,
+      "num": 176786,
+      "word": "时代峰峻工作人员 没走成而已",
+      "onboard_time": 1759403001,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290202,
       "num": 94776,
       "word": "短剧男主不接受大尺度吻戏擅自离组",
@@ -569,14 +633,6 @@
       "onboard_time": 1759378340,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 289582,
-      "num": 289582,
-      "word": "提醒在韩中国游客注意人身安全",
-      "onboard_time": 1759401381,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 282628,
@@ -643,6 +699,14 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 268091,
+      "num": 173845,
+      "word": "李在明指挥权志龙开飞机",
+      "onboard_time": 1759407080,
+      "rank": 21,
+      "category": "海外新闻,艺人"
+    },
+    {
       "raw_hot": 265094,
       "num": 134827,
       "word": "被得力辞退跛脚员工再发声",
@@ -681,14 +745,6 @@
       "onboard_time": 1759365499,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 246822,
-      "num": 184560,
-      "word": "做手术前一定要多问一句",
-      "onboard_time": 1759398560,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 242417,
@@ -803,14 +859,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 221503,
-      "num": 174125,
-      "word": "时代峰峻工作人员 没走成而已",
-      "onboard_time": 1759403001,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220205,
       "num": 220205,
       "word": "鸡排哥最大受益者 正新鸡排",
@@ -867,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201683,
+      "num": 169912,
+      "word": "邓为入选26巴黎时装周最佳街拍",
+      "onboard_time": 1759408343,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201331,
       "num": 201331,
       "word": "久哲",
@@ -915,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196921,
+      "num": 196921,
+      "word": "甘肃陇西3.7级地震",
+      "onboard_time": 1759404920,
+      "rank": 27,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 196522,
       "num": 85641,
       "word": "警方通报女子酒后观赛大声喧哗",
@@ -937,6 +1001,14 @@
       "onboard_time": 1759403241,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 194840,
+      "num": 194840,
+      "word": "已确认1555.3万条育儿补贴申报信息",
+      "onboard_time": 1759405102,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194620,
@@ -987,12 +1059,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184440,
+      "num": 167026,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1759406843,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 183824,
       "num": 183824,
       "word": "梁靖崑无缘中国大满贯八强",
       "onboard_time": 1759380322,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182455,
+      "num": 182455,
+      "word": "KPL",
+      "onboard_time": 1759408102,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 182212,
@@ -1075,6 +1163,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 166993,
+      "num": 166993,
+      "word": "偷偷藏不住",
+      "onboard_time": 1759404802,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166756,
       "num": 146220,
       "word": "张艺兴张子枫进门局促感不像演的",
@@ -1121,6 +1217,14 @@
       "onboard_time": 1759385721,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164198,
+      "num": 164198,
+      "word": "陈伟霆我二十来岁就跟着你了",
+      "onboard_time": 1759408703,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 163680,
@@ -1251,6 +1355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147356,
+      "num": 147356,
+      "word": "李在明痛批反华集会有损国格",
+      "onboard_time": 1759406421,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 146955,
       "num": 146955,
       "word": "蔡徐坤背影",
@@ -1265,6 +1377,14 @@
       "onboard_time": 1759378642,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146421,
+      "num": 146421,
+      "word": "深圳地铁列车自己洗澡睡觉",
+      "onboard_time": 1759409060,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146162,
@@ -1299,11 +1419,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 143871,
-      "num": 143871,
+      "raw_hot": 144119,
+      "num": 144119,
       "word": "白敬亭王安宇你俩怎么笑成这样",
       "onboard_time": 1759404442,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 143035,
+      "num": 143035,
+      "word": "王橹杰台历",
+      "onboard_time": 1759406121,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1313,14 +1441,6 @@
       "onboard_time": 1759387221,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 142912,
-      "num": 118385,
-      "word": "我驻韩使馆就反华游行表明严正立场",
-      "onboard_time": 1759403361,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 142199,
@@ -1363,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139471,
+      "num": 139471,
+      "word": "林更新成毅水下戏路透",
+      "onboard_time": 1759407802,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139315,
       "num": 139315,
       "word": "人人人人广州塔人人人人",
@@ -1371,20 +1499,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139057,
-      "num": 139057,
-      "word": "甘肃陇西3.7级地震",
-      "onboard_time": 1759404920,
-      "rank": 27,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 138438,
       "num": 138438,
       "word": "周启豪0比3雨果",
       "onboard_time": 1759404862,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136580,
+      "num": 136580,
+      "word": "肖战唱完歌以为自己下班了",
+      "onboard_time": 1759404442,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 134892,
@@ -1433,6 +1561,14 @@
       "onboard_time": 1759378041,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130811,
+      "num": 130811,
+      "word": "曾舜晞直播",
+      "onboard_time": 1759409181,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 130574,
@@ -1507,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124805,
+      "num": 124805,
+      "word": "张晚意银发挑染",
+      "onboard_time": 1759407922,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 124710,
       "num": 124710,
       "word": "于正辣评短剧妆造",
@@ -1539,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121160,
+      "num": 121160,
+      "word": "王楚钦四冠王",
+      "onboard_time": 1759409122,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120286,
       "num": 120286,
       "word": "谁把宫保鸡丁给我摆成漂亮饭了",
@@ -1563,12 +1715,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 119144,
-      "num": 119144,
-      "word": "肖战唱完歌以为自己下班了",
-      "onboard_time": 1759404442,
-      "rank": 31,
-      "category": "演出"
+      "raw_hot": 118502,
+      "num": 118502,
+      "word": "贺峻霖录制期间抽空赶作业",
+      "onboard_time": 1759407982,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 118466,
@@ -1603,12 +1755,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112802,
-      "num": 112802,
-      "word": "张艺兴官宣独立音乐人邓泽鸣",
-      "onboard_time": 1759404682,
-      "rank": 33,
-      "category": "音乐"
+      "raw_hot": 113537,
+      "num": 113537,
+      "word": "石洵瑶0比3朱芊曦",
+      "onboard_time": 1759409242,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 112801,
@@ -1699,6 +1851,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 108828,
+      "num": 108828,
+      "word": "丁禹兮是教科书级别的自救",
+      "onboard_time": 1759406061,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108664,
       "num": 135910,
       "word": "男子开飞机15分钟回老家过国庆",
@@ -1721,6 +1881,14 @@
       "onboard_time": 1759397060,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108339,
+      "num": 108339,
+      "word": "地球超新鲜第二季",
+      "onboard_time": 1759406481,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 107359,
@@ -1795,20 +1963,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104497,
+      "num": 104497,
+      "word": "侯明昊音乐节",
+      "onboard_time": 1759405102,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 104236,
       "num": 104236,
       "word": "麦克阿瑟3比0北京国安",
       "onboard_time": 1759400301,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104204,
-      "num": 104204,
-      "word": "偷偷藏不住",
-      "onboard_time": 1759404802,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 104095,
@@ -1857,6 +2025,14 @@
       "onboard_time": 1759370000,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100910,
+      "num": 123164,
+      "word": "严浩翔和王嘉尔合照激动到手抖",
+      "onboard_time": 1759408881,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 100605,
@@ -2315,6 +2491,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 80613,
+      "num": 105824,
+      "word": "石破茂 日本最佳眼镜佩戴者奖",
+      "onboard_time": 1759407680,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 80566,
       "num": 80566,
       "word": "隐翅虫",
@@ -2353,6 +2537,14 @@
       "onboard_time": 1759397180,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77820,
+      "num": 104813,
+      "word": "全局BP对Faker最大的影响",
+      "onboard_time": 1759407621,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 77762,
@@ -2688,6 +2880,14 @@
       "word": "高速抢电",
       "onboard_time": 1759390402,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55123,
+      "num": 123385,
+      "word": "高速堵车有人在路上打起羽毛球",
+      "onboard_time": 1759408224,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
