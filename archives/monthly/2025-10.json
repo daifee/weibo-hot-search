@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759383591568,
+  "endTime": 1759387014194,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 844329,
+      "num": 1135092,
+      "word": "鸡排哥代购每份加价20元",
+      "onboard_time": 1759379721,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 814211,
       "num": 237981,
       "word": "卢远 王乐晨",
@@ -337,6 +345,14 @@
       "onboard_time": 1759311982,
       "rank": 29,
       "category": "幽默,旅游"
+    },
+    {
+      "raw_hot": 706796,
+      "num": 706796,
+      "word": "鸡排哥太累没说话被指没有情绪价值",
+      "onboard_time": 1759382720,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 705961,
@@ -491,14 +507,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 579116,
-      "num": 1092658,
-      "word": "鸡排哥代购每份加价20元",
-      "onboard_time": 1759379721,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 572264,
       "num": 572264,
       "word": "发现了隐翅虫",
@@ -625,6 +633,14 @@
       "onboard_time": 1759290560,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 495308,
+      "num": 495308,
+      "word": "希腊全国罢工",
+      "onboard_time": 1759379122,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 494991,
@@ -801,14 +817,6 @@
       "onboard_time": 1759274417,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 382182,
-      "num": 382182,
-      "word": "希腊全国罢工",
-      "onboard_time": 1759379122,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 382031,
@@ -1027,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 306422,
+      "num": 183124,
+      "word": "董璇张维伊婚礼合影站位",
+      "onboard_time": 1759381223,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296499,
       "num": 216568,
       "word": "彭高和翁青雅刚官宣一个月就分手",
@@ -1187,6 +1203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252548,
+      "num": 147109,
+      "word": "男子身家千万因无子被骂哭了一夜",
+      "onboard_time": 1759386500,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245692,
       "num": 215567,
       "word": "陈赫张子萱挽手逛街",
@@ -1283,14 +1307,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 235251,
-      "num": 183124,
-      "word": "董璇张维伊婚礼合影站位",
-      "onboard_time": 1759381223,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 232261,
       "num": 173974,
       "word": "丁禹兮控停暴冲马匹",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1759328542,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 223184,
+      "num": 223184,
+      "word": "宗馥莉心腹严学峰被调查",
+      "onboard_time": 1759380503,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223059,
@@ -1475,6 +1499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 211436,
+      "num": 143925,
+      "word": "蜜雪冰城要卖啤酒了",
+      "onboard_time": 1759385542,
+      "rank": 21,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 207812,
       "num": 207812,
       "word": "王楚钦林诗栋vs卡尔森法尔克",
@@ -1521,14 +1553,6 @@
       "onboard_time": 1759329262,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203705,
-      "num": 203705,
-      "word": "宗馥莉心腹严学峰被调查",
-      "onboard_time": 1759380503,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203454,
@@ -1723,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 176414,
+      "num": 126627,
+      "word": "万达电影发文致歉",
+      "onboard_time": 1759386500,
+      "rank": 30,
+      "category": "游戏,互联网"
+    },
+    {
       "raw_hot": 175379,
       "num": 175379,
       "word": "爱奇艺10月待播剧综",
@@ -1907,6 +1939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164993,
+      "num": 143022,
+      "word": "不建议你提前开始买秋装",
+      "onboard_time": 1759385721,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 164863,
       "num": 137071,
       "word": "邓为Dior看秀造型",
@@ -1920,14 +1960,6 @@
       "word": "妻子查看亡夫遗物发现婚外情录音",
       "onboard_time": 1759233860,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162653,
-      "num": 162653,
-      "word": "鸡排哥太累没说话被指没有情绪价值",
-      "onboard_time": 1759382720,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -2091,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148488,
+      "num": 148488,
+      "word": "蒯曼无缘中国大满贯八强",
+      "onboard_time": 1759385961,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148035,
       "num": 148035,
       "word": "敖子逸叫错张集骏名字",
@@ -2185,6 +2225,14 @@
       "onboard_time": 1759281859,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 142952,
+      "num": 142952,
+      "word": "张艺兴张子枫进门局促感不像演的",
+      "onboard_time": 1759386560,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 142858,
@@ -2531,6 +2579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129157,
+      "num": 129157,
+      "word": "古偶吻戏已升级为咬戏",
+      "onboard_time": 1759384941,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129013,
       "num": 129013,
       "word": "李沁张雅钦夏梦跳Fancy",
@@ -2569,6 +2625,14 @@
       "onboard_time": 1759312461,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126082,
+      "num": 126082,
+      "word": "李沁女将军人设",
+      "onboard_time": 1759385181,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 125911,
@@ -2667,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121531,
+      "num": 144597,
+      "word": "孙颖莎晋级中国大满贯8强",
+      "onboard_time": 1759384761,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121068,
       "num": 126412,
       "word": "看到李家三口同框又落泪了",
@@ -2681,6 +2753,14 @@
       "onboard_time": 1759323023,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120286,
+      "num": 120286,
+      "word": "谁把宫保鸡丁给我摆成漂亮饭了",
+      "onboard_time": 1759386261,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 119887,
@@ -2963,6 +3043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109572,
+      "num": 109572,
+      "word": "田曦薇护食",
+      "onboard_time": 1759385901,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109570,
       "num": 109570,
       "word": "孙颖莎说大头做得非常好",
@@ -2977,6 +3065,14 @@
       "onboard_time": 1759308320,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109499,
+      "num": 105074,
+      "word": "李晟生日没有感动全是尴尬",
+      "onboard_time": 1759386380,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 109071,
@@ -3107,6 +3203,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 105547,
+      "num": 105547,
+      "word": "张智霖 美人穿破布都是美人",
+      "onboard_time": 1759385420,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105096,
       "num": 105096,
       "word": "千万不要因为自己乱花钱而焦虑",
@@ -3129,6 +3233,14 @@
       "onboard_time": 1759314501,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104517,
+      "num": 104517,
+      "word": "马思纯G社生图好明媚的美",
+      "onboard_time": 1759386320,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 104034,
@@ -3321,6 +3433,14 @@
       "onboard_time": 1759233021,
       "rank": 39,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 97317,
+      "num": 97317,
+      "word": "杨羚蔚瞒着父母参加offer7",
+      "onboard_time": 1759385961,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 97311,
@@ -3547,6 +3667,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 90287,
+      "num": 90287,
+      "word": "迪丽热巴邓文迪合影",
+      "onboard_time": 1759383681,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89869,
       "num": 89869,
       "word": "司机为省过路费龟速行驶被交警喊话",
@@ -3748,7 +3876,7 @@
     },
     {
       "raw_hot": 84762,
-      "num": 141917,
+      "num": 145022,
       "word": "高德领进门胖几斤看个人",
       "onboard_time": 1759383381,
       "rank": 30,
@@ -3769,6 +3897,14 @@
       "onboard_time": 1759370239,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84351,
+      "num": 84351,
+      "word": "陈哲远第一集就嘶哈嘶哈了",
+      "onboard_time": 1759384761,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 84331,
@@ -3995,6 +4131,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 76766,
+      "num": 76766,
+      "word": "李沁按头入水戏反复拍4遍",
+      "onboard_time": 1759386801,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76729,
       "num": 76729,
       "word": "四代台历",
@@ -4041,6 +4185,14 @@
       "onboard_time": 1759245681,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75081,
+      "num": 75081,
+      "word": "上戏学霸日播12小时赚钱救父",
+      "onboard_time": 1759386741,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 74441,
@@ -4411,6 +4563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51883,
+      "num": 126766,
+      "word": "专家建议设立里斯本丸沉船纪念日",
+      "onboard_time": 1759385061,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51812,
       "num": 68524,
       "word": "鸡排哥3年前的视频",
@@ -4657,6 +4817,14 @@
       "onboard_time": 1759312820,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36304,
+      "num": 128742,
+      "word": "Jonathan开启Dior新时代",
+      "onboard_time": 1759385061,
+      "rank": 27,
+      "category": "时尚"
     },
     {
       "raw_hot": 36293,
@@ -4937,6 +5105,14 @@
       "onboard_time": 1759263554,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14261,
+      "num": 100853,
+      "word": "周也穿秋裤去巴黎时装周",
+      "onboard_time": 1759386620,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 13818,
