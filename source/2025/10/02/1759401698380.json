@@ -1,0 +1,410 @@
+{
+  "runTime": 1759401698380,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1388369,
+        "num": 1388369,
+        "word": "社保补贴",
+        "onboard_time": 1759396880,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 817765,
+        "num": 817765,
+        "word": "冒牌鸡排哥连人带车被劝返",
+        "onboard_time": 1759400120,
+        "rank": 1,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 32694,
+        "num": 420807,
+        "word": "打卡快乐十一",
+        "onboard_time": 1759361478,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361327,
+        "num": 361327,
+        "word": "微信时间能切换显示方式",
+        "onboard_time": 1759391661,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 282116,
+        "num": 282116,
+        "word": "有人出发2天还没到目的地",
+        "onboard_time": 1759395381,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254609,
+        "num": 254609,
+        "word": "酒店一天办11场婚宴拱门快摆不下了",
+        "onboard_time": 1759399820,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209199,
+        "num": 209199,
+        "word": "女幼师遇害案凶手已被执行死刑",
+        "onboard_time": 1759394240,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158972,
+        "num": 158972,
+        "word": "年轻人旅游基础打卡就不基础",
+        "onboard_time": 1759398560,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 130667,
+        "num": 157728,
+        "word": "女子称登泰山是被人潮传送上去的",
+        "onboard_time": 1759392681,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123969,
+        "num": 156715,
+        "word": "国庆假期第二天",
+        "onboard_time": 1759377379,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1100102,
+        "num": 154981,
+        "word": "穆祉丞啥意思",
+        "onboard_time": 1759398801,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 859376,
+        "num": 154531,
+        "word": "对沈佳润是小孩有了实感",
+        "onboard_time": 1759396762,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 752673,
+        "num": 153267,
+        "word": "李纯马頔结婚",
+        "onboard_time": 1759378822,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 664405,
+        "num": 151413,
+        "word": "迪丽热巴鞋跟断了",
+        "onboard_time": 1759387281,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275707,
+        "num": 149226,
+        "word": "女子中百万大奖后隐瞒男友4个多月",
+        "onboard_time": 1759394240,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 265669,
+        "num": 147891,
+        "word": "管乐三连怼祝绪丹",
+        "onboard_time": 1759388960,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147610,
+        "num": 147610,
+        "word": "丁程鑫首部主演电影票房破亿",
+        "onboard_time": 1759400781,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132969,
+        "num": 132969,
+        "word": "鹿晗又闷声干大事了",
+        "onboard_time": 1759396102,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104917,
+        "num": 132500,
+        "word": "陈凯歌说这场胜利给新中国撑了腰",
+        "onboard_time": 1759400061,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41879,
+        "num": 132487,
+        "word": "黄龄为妈妈健康出游能有多操心",
+        "onboard_time": 1759398200,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318091,
+        "num": 132487,
+        "word": "马頔 李纯真好看呀",
+        "onboard_time": 1759401560,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132487,
+        "num": 132486,
+        "word": "高度近视眼一定要防止视网膜脱落",
+        "onboard_time": 1759398020,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131874,
+        "num": 131874,
+        "word": "今年三大平台爆剧",
+        "onboard_time": 1759387941,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132964,
+        "num": 131318,
+        "word": "男子身家千万因无子被骂哭了一夜",
+        "onboard_time": 1759386500,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219494,
+        "num": 128471,
+        "word": "轻断食从130斤瘦到90斤",
+        "onboard_time": 1759396341,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 205129,
+        "num": 126976,
+        "word": "艺人音乐节坐地起价",
+        "onboard_time": 1759380743,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199851,
+        "num": 124728,
+        "word": "专家建议鸡排哥不要用大豆油",
+        "onboard_time": 1759390820,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168794,
+        "num": 123519,
+        "word": "内娱26位女明星主演热度破万剧集",
+        "onboard_time": 1759398380,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122055,
+        "num": 122055,
+        "word": "日本代官山偶遇周杰伦昆凌",
+        "onboard_time": 1759399700,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120740,
+        "num": 120740,
+        "word": "蔡徐坤背影",
+        "onboard_time": 1759400001,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104659,
+        "num": 104659,
+        "word": "菠萝蜜一家满门忠烈",
+        "onboard_time": 1759400601,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102744,
+        "num": 102744,
+        "word": "穆祉丞高会",
+        "onboard_time": 1759399401,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99208,
+        "num": 99208,
+        "word": "叶童 硬撑罢了",
+        "onboard_time": 1759398140,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98655,
+        "num": 98655,
+        "word": "提醒在韩中国游客注意人身安全",
+        "onboard_time": 1759401381,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97790,
+        "num": 97790,
+        "word": "给老人免费修草坪被美国警察逮捕",
+        "onboard_time": 1759400781,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97055,
+        "num": 97055,
+        "word": "蜜雪冰城要卖啤酒了",
+        "onboard_time": 1759385542,
+        "rank": 35,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 92016,
+        "num": 92016,
+        "word": "展轩音乐节首秀",
+        "onboard_time": 1759392681,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91429,
+        "num": 91429,
+        "word": "男孩劝阻无效母亲大闹赛场被抬离",
+        "onboard_time": 1759400420,
+        "rank": 37,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 91298,
+        "num": 91298,
+        "word": "麦克阿瑟3比0北京国安",
+        "onboard_time": 1759400301,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91247,
+        "num": 91247,
+        "word": "农村大集摆地摊5小时入5971元",
+        "onboard_time": 1759397421,
+        "rank": 39,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 89382,
+        "num": 89382,
+        "word": "王耀庆贾静雯复刻35年前旧照",
+        "onboard_time": 1759399159,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88852,
+        "num": 88852,
+        "word": "做手术前一定要多问一句",
+        "onboard_time": 1759398560,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88799,
+        "num": 88799,
+        "word": "当分水果时同事不在工位",
+        "onboard_time": 1759401142,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86589,
+        "num": 86589,
+        "word": "宋亚轩用自己照片当壁纸",
+        "onboard_time": 1759390462,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85223,
+        "num": 85223,
+        "word": "唐嫣欧豪央视秋晚剧透",
+        "onboard_time": 1759401620,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84637,
+        "num": 84637,
+        "word": "成毅两京十五日落水戏",
+        "onboard_time": 1759397840,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80869,
+        "num": 80869,
+        "word": "孙怡带女儿回老家",
+        "onboard_time": 1759397780,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77311,
+        "num": 77311,
+        "word": "发现了隐翅虫",
+        "onboard_time": 1759373419,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75417,
+        "num": 75417,
+        "word": "王楚钦这个动作好萌",
+        "onboard_time": 1759401560,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75243,
+        "num": 75243,
+        "word": "第一次对糖油混合物有了清晰的认知",
+        "onboard_time": 1759400900,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的明天必将更加美好#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1759336314340,
-  "endTime": 1759400748436,
+  "endTime": 1759401698380,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -75,8 +75,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1063233,
-      "num": 151073,
+      "raw_hot": 1100102,
+      "num": 154981,
       "word": "穆祉丞啥意思",
       "onboard_time": 1759398801,
       "rank": 10,
@@ -145,6 +145,14 @@
       "onboard_time": 1759379721,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 817765,
+      "num": 817765,
+      "word": "冒牌鸡排哥连人带车被劝返",
+      "onboard_time": 1759400120,
+      "rank": 4,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 788716,
@@ -451,6 +459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 318091,
+      "num": 132487,
+      "word": "马頔 李纯真好看呀",
+      "onboard_time": 1759401560,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311990,
       "num": 158091,
       "word": "原来月经量少不是坏事",
@@ -520,6 +536,14 @@
       "word": "女幼师遇害案凶手已被执行死刑",
       "onboard_time": 1759394240,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282116,
+      "num": 282116,
+      "word": "有人出发2天还没到目的地",
+      "onboard_time": 1759395381,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -609,6 +633,14 @@
       "onboard_time": 1759365499,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 254609,
+      "num": 254609,
+      "word": "酒店一天办11场婚宴拱门快摆不下了",
+      "onboard_time": 1759399820,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242417,
@@ -755,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204658,
-      "num": 204658,
-      "word": "冒牌鸡排哥连人带车被劝返",
-      "onboard_time": 1759400120,
-      "rank": 4,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 203454,
       "num": 203454,
       "word": "时代少年团纪录片",
@@ -883,14 +907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182709,
-      "num": 182709,
-      "word": "有人出发2天还没到目的地",
-      "onboard_time": 1759395381,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182212,
       "num": 182212,
       "word": "林心如谈邱泽许玮甯儿子",
@@ -921,14 +937,6 @@
       "onboard_time": 1759323742,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173660,
-      "num": 173660,
-      "word": "酒店一天办11场婚宴拱门快摆不下了",
-      "onboard_time": 1759399820,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171606,
@@ -1051,6 +1059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158972,
+      "num": 158972,
+      "word": "年轻人旅游基础打卡就不基础",
+      "onboard_time": 1759398560,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 158734,
       "num": 158734,
       "word": "看完之后觉得9块9一杯还是贵了",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1759380202,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 151757,
-      "num": 151757,
-      "word": "年轻人旅游基础打卡就不基础",
-      "onboard_time": 1759398560,
-      "rank": 8,
-      "category": "旅游"
     },
     {
       "raw_hot": 151229,
@@ -1145,6 +1153,14 @@
       "onboard_time": 1759387160,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147610,
+      "num": 147610,
+      "word": "丁程鑫首部主演电影票房破亿",
+      "onboard_time": 1759400781,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 146955,
@@ -1387,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122055,
+      "num": 122055,
+      "word": "日本代官山偶遇周杰伦昆凌",
+      "onboard_time": 1759399700,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121531,
       "num": 144597,
       "word": "孙颖莎晋级中国大满贯8强",
@@ -1401,14 +1425,6 @@
       "onboard_time": 1759386261,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120235,
-      "num": 120235,
-      "word": "日本代官山偶遇周杰伦昆凌",
-      "onboard_time": 1759399700,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 119887,
@@ -1460,7 +1476,7 @@
     },
     {
       "raw_hot": 111806,
-      "num": 111806,
+      "num": 132500,
       "word": "陈凯歌说这场胜利给新中国撑了腰",
       "onboard_time": 1759400061,
       "rank": 33,
@@ -1611,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104659,
+      "num": 104659,
+      "word": "菠萝蜜一家满门忠烈",
+      "onboard_time": 1759400601,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 104236,
       "num": 104236,
       "word": "麦克阿瑟3比0北京国安",
@@ -1683,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99208,
+      "num": 99208,
+      "word": "叶童 硬撑罢了",
+      "onboard_time": 1759398140,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98856,
       "num": 98856,
       "word": "台风麦德姆已生成",
@@ -1707,12 +1739,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 98655,
+      "num": 98655,
+      "word": "提醒在韩中国游客注意人身安全",
+      "onboard_time": 1759401381,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98450,
       "num": 98450,
       "word": "李沁这段确定不是喜剧么",
       "onboard_time": 1759391781,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97790,
+      "num": 97790,
+      "word": "给老人免费修草坪被美国警察逮捕",
+      "onboard_time": 1759400781,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 97317,
@@ -1737,14 +1785,6 @@
       "onboard_time": 1759393641,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97007,
-      "num": 97007,
-      "word": "叶童 硬撑罢了",
-      "onboard_time": 1759398140,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 96838,
@@ -1851,6 +1891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 91429,
+      "num": 146823,
+      "word": "男孩劝阻无效母亲大闹赛场被抬离",
+      "onboard_time": 1759400420,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91103,
       "num": 91103,
       "word": "迪丽热巴临场应变能力",
@@ -1889,6 +1937,22 @@
       "onboard_time": 1759396639,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88852,
+      "num": 88852,
+      "word": "做手术前一定要多问一句",
+      "onboard_time": 1759398560,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 88799,
+      "num": 88799,
+      "word": "当分水果时同事不在工位",
+      "onboard_time": 1759401142,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 88406,
@@ -1937,6 +2001,14 @@
       "onboard_time": 1759394180,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85223,
+      "num": 85223,
+      "word": "唐嫣欧豪央视秋晚剧透",
+      "onboard_time": 1759401620,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 84887,
@@ -2043,14 +2115,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 80130,
-      "num": 146823,
-      "word": "男孩劝阻无效母亲大闹赛场被抬离",
-      "onboard_time": 1759400420,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79358,
       "num": 79358,
       "word": "官方回应高速上SUV低速乱窜",
@@ -2115,12 +2179,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 75417,
+      "num": 75417,
+      "word": "王楚钦这个动作好萌",
+      "onboard_time": 1759401560,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75305,
       "num": 75305,
       "word": "黄友政陈熠晋级混双决赛",
       "onboard_time": 1759390580,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75243,
+      "num": 75243,
+      "word": "第一次对糖油混合物有了清晰的认知",
+      "onboard_time": 1759400900,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 75081,
