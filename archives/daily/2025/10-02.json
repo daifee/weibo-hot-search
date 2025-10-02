@@ -1,6 +1,6 @@
 {
   "startTime": 1759336314340,
-  "endTime": 1759409333710,
+  "endTime": 1759410215382,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1021121,
-      "num": 179339,
+      "num": 180511,
       "word": "马頔李纯孩子可以叫马思纯",
       "onboard_time": 1759389321,
       "rank": 15,
@@ -115,19 +115,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 936520,
+      "num": 1149843,
+      "word": "提醒在韩中国游客注意人身安全",
+      "onboard_time": 1759401381,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 917837,
       "num": 184312,
       "word": "母亲为救癌症儿子在医院角落做吃播",
       "onboard_time": 1759333399,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 877364,
-      "num": 1140378,
-      "word": "提醒在韩中国游客注意人身安全",
-      "onboard_time": 1759401381,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -163,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 793686,
+      "num": 793686,
+      "word": "我驻韩使馆就反华游行表明严正立场",
+      "onboard_time": 1759403361,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 788716,
       "num": 298706,
       "word": "迪丽热巴把G社变站姐了",
@@ -177,14 +185,6 @@
       "onboard_time": 1759402760,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 760783,
-      "num": 760783,
-      "word": "我驻韩使馆就反华游行表明严正立场",
-      "onboard_time": 1759403361,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 758636,
@@ -203,20 +203,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 698430,
-      "num": 187056,
-      "word": "做手术前一定要多问一句",
-      "onboard_time": 1759398560,
-      "rank": 41,
-      "category": "健康医疗"
+      "raw_hot": 733769,
+      "num": 189361,
+      "word": "大城小爱",
+      "onboard_time": 1759407442,
+      "rank": 15,
+      "category": "演出"
     },
     {
-      "raw_hot": 696815,
-      "num": 185227,
+      "raw_hot": 712723,
+      "num": 187977,
       "word": "许我耀眼16",
       "onboard_time": 1759405042,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 699135,
+      "num": 187208,
+      "word": "做手术前一定要多问一句",
+      "onboard_time": 1759398560,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 690662,
@@ -363,14 +371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 453166,
-      "num": 181942,
-      "word": "大城小爱",
-      "onboard_time": 1759407442,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 446686,
       "num": 194651,
       "word": "专家建议鸡排哥不要用大豆油",
@@ -459,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 355195,
+      "num": 183605,
+      "word": "张艺兴官宣独立音乐人邓泽鸣",
+      "onboard_time": 1759404682,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 354347,
       "num": 354347,
       "word": "金价又刷新纪录了",
@@ -531,16 +539,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324526,
-      "num": 177746,
-      "word": "张艺兴官宣独立音乐人邓泽鸣",
-      "onboard_time": 1759404682,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 320121,
-      "num": 174751,
+      "num": 180885,
       "word": "人人人人人人鸡排哥人人人人人人",
       "onboard_time": 1759405702,
       "rank": 20,
@@ -612,7 +612,7 @@
     },
     {
       "raw_hot": 292982,
-      "num": 176786,
+      "num": 181915,
       "word": "时代峰峻工作人员 没走成而已",
       "onboard_time": 1759403001,
       "rank": 26,
@@ -675,6 +675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 270561,
+      "num": 183177,
+      "word": "李在明指挥权志龙开飞机",
+      "onboard_time": 1759407080,
+      "rank": 21,
+      "category": "海外新闻,艺人"
+    },
+    {
       "raw_hot": 269957,
       "num": 178577,
       "word": "中网看台上的董卿",
@@ -699,14 +707,6 @@
       "category": "游戏,互联网"
     },
     {
-      "raw_hot": 268091,
-      "num": 173845,
-      "word": "李在明指挥权志龙开飞机",
-      "onboard_time": 1759407080,
-      "rank": 21,
-      "category": "海外新闻,艺人"
-    },
-    {
       "raw_hot": 265094,
       "num": 134827,
       "word": "被得力辞退跛脚员工再发声",
@@ -721,6 +721,14 @@
       "onboard_time": 1759366759,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263369,
+      "num": 263369,
+      "word": "已确认1555.3万条育儿补贴申报信息",
+      "onboard_time": 1759405102,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262848,
@@ -891,6 +899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 209016,
+      "num": 179406,
+      "word": "陈伟霆我二十来岁就跟着你了",
+      "onboard_time": 1759408703,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208529,
       "num": 153923,
       "word": "李晟生日没有感动全是尴尬",
@@ -913,6 +929,14 @@
       "onboard_time": 1759331782,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203230,
+      "num": 203230,
+      "word": "深圳地铁列车自己洗澡睡觉",
+      "onboard_time": 1759409060,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201683,
@@ -1003,14 +1027,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 194840,
-      "num": 194840,
-      "word": "已确认1555.3万条育儿补贴申报信息",
-      "onboard_time": 1759405102,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 194620,
       "num": 194620,
       "word": "美国纽约一高层公寓楼部分倒塌",
@@ -1060,7 +1076,7 @@
     },
     {
       "raw_hot": 184440,
-      "num": 167026,
+      "num": 168685,
       "word": "太湖湾音乐节",
       "onboard_time": 1759406843,
       "rank": 26,
@@ -1219,14 +1235,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164198,
-      "num": 164198,
-      "word": "陈伟霆我二十来岁就跟着你了",
-      "onboard_time": 1759408703,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163680,
       "num": 151511,
       "word": "田曦薇护食",
@@ -1235,11 +1243,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161932,
+      "num": 161932,
+      "word": "王楚钦四冠王",
+      "onboard_time": 1759409122,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160598,
       "num": 160598,
       "word": "台湾拒绝美国芯片制造五五分要求",
       "onboard_time": 1759359737,
       "rank": 5,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 159554,
+      "num": 159554,
+      "word": "李在明痛批反华集会有损国格",
+      "onboard_time": 1759406421,
+      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -1265,6 +1289,14 @@
       "onboard_time": 1759377560,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 154973,
+      "num": 154973,
+      "word": "曾舜晞直播",
+      "onboard_time": 1759409181,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 154919,
@@ -1355,14 +1387,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 147356,
-      "num": 147356,
-      "word": "李在明痛批反华集会有损国格",
-      "onboard_time": 1759406421,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 146955,
       "num": 146955,
       "word": "蔡徐坤背影",
@@ -1379,20 +1403,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146421,
-      "num": 146421,
-      "word": "深圳地铁列车自己洗澡睡觉",
-      "onboard_time": 1759409060,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 146162,
       "num": 146162,
       "word": "第一次看到这么多明星演短剧",
       "onboard_time": 1759392141,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145657,
+      "num": 145657,
+      "word": "张晚意银发挑染",
+      "onboard_time": 1759407922,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 145424,
@@ -1411,12 +1435,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144959,
+      "num": 144959,
+      "word": "一笑随歌热度",
+      "onboard_time": 1759409661,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144846,
       "num": 157062,
       "word": "第五人格赛事",
       "onboard_time": 1759389442,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144122,
+      "num": 144122,
+      "word": "林更新成毅水下戏路透",
+      "onboard_time": 1759407802,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 144119,
@@ -1475,6 +1515,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 140473,
+      "num": 140473,
+      "word": "肖战唱完歌以为自己下班了",
+      "onboard_time": 1759404442,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139811,
       "num": 139811,
       "word": "博主11天日播6小时鸡排哥零收益",
@@ -1483,12 +1531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139471,
-      "num": 139471,
-      "word": "林更新成毅水下戏路透",
-      "onboard_time": 1759407802,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 139559,
+      "num": 139559,
+      "word": "薛之谦音乐节",
+      "onboard_time": 1759409482,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 139315,
@@ -1505,14 +1553,6 @@
       "onboard_time": 1759404862,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136580,
-      "num": 136580,
-      "word": "肖战唱完歌以为自己下班了",
-      "onboard_time": 1759404442,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 134892,
@@ -1563,14 +1603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130811,
-      "num": 130811,
-      "word": "曾舜晞直播",
-      "onboard_time": 1759409181,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130574,
       "num": 130574,
       "word": "如果你经常侧睡导致肩膀内扣",
@@ -1619,6 +1651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127561,
+      "num": 127561,
+      "word": "巴黎地铁偶遇戚薇",
+      "onboard_time": 1759409781,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127130,
       "num": 127130,
       "word": "英国博主在飞猪公开课现场哭了",
@@ -1641,14 +1681,6 @@
       "onboard_time": 1759385181,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124805,
-      "num": 124805,
-      "word": "张晚意银发挑染",
-      "onboard_time": 1759407922,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 124710,
@@ -1683,14 +1715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121160,
-      "num": 121160,
-      "word": "王楚钦四冠王",
-      "onboard_time": 1759409122,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120286,
       "num": 120286,
       "word": "谁把宫保鸡丁给我摆成漂亮饭了",
@@ -1705,6 +1729,14 @@
       "onboard_time": 1759379422,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119593,
+      "num": 133525,
+      "word": "张杰杭州演唱会",
+      "onboard_time": 1759410082,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 119364,
@@ -1739,12 +1771,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115935,
+      "num": 115935,
+      "word": "高会",
+      "onboard_time": 1759410021,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114644,
       "num": 147519,
       "word": "第一天出去旅游的人已经老实",
       "onboard_time": 1759311982,
       "rank": 8,
       "category": "幽默,旅游"
+    },
+    {
+      "raw_hot": 114365,
+      "num": 129399,
+      "word": "严浩翔和王嘉尔合照激动到手抖",
+      "onboard_time": 1759408881,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 113814,
@@ -1891,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108204,
+      "num": 108204,
+      "word": "狗被车碾压因太胖逃过一劫主人发声",
+      "onboard_time": 1759409421,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107359,
       "num": 107359,
       "word": "王楚钦11比4安宰贤",
@@ -2027,14 +2083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100910,
-      "num": 123164,
-      "word": "严浩翔和王嘉尔合照激动到手抖",
-      "onboard_time": 1759408881,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100605,
       "num": 100605,
       "word": "芒果新老主持人颜值",
@@ -2137,6 +2185,14 @@
       "onboard_time": 1759337421,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96059,
+      "num": 105824,
+      "word": "石破茂 日本最佳眼镜佩戴者奖",
+      "onboard_time": 1759407680,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95918,
@@ -2491,14 +2547,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 80613,
-      "num": 105824,
-      "word": "石破茂 日本最佳眼镜佩戴者奖",
-      "onboard_time": 1759407680,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 80566,
       "num": 80566,
       "word": "隐翅虫",
@@ -2513,6 +2561,14 @@
       "onboard_time": 1759400241,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 79833,
+      "num": 133663,
+      "word": "小酒窝也没抢到星星人",
+      "onboard_time": 1759409421,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 79358,

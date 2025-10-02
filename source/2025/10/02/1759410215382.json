@@ -1,0 +1,410 @@
+{
+  "runTime": 1759410215382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 936520,
+        "num": 1149843,
+        "word": "提醒在韩中国游客注意人身安全",
+        "onboard_time": 1759401381,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 793686,
+        "num": 793686,
+        "word": "我驻韩使馆就反华游行表明严正立场",
+        "onboard_time": 1759403361,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19420,
+        "num": 500338,
+        "word": "打卡快乐十一",
+        "onboard_time": 1759361478,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442425,
+        "num": 442425,
+        "word": "社保补贴",
+        "onboard_time": 1759396880,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 344830,
+        "num": 344830,
+        "word": "中国驻韩国大使馆严正发声",
+        "onboard_time": 1759402940,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 263369,
+        "num": 263369,
+        "word": "已确认1555.3万条育儿补贴申报信息",
+        "onboard_time": 1759405102,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244175,
+        "num": 244175,
+        "word": "高度近视眼一定要防止视网膜脱落",
+        "onboard_time": 1759398020,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203230,
+        "num": 203230,
+        "word": "深圳地铁列车自己洗澡睡觉",
+        "onboard_time": 1759409060,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191647,
+        "num": 191647,
+        "word": "王楚钦vs安宰贤",
+        "onboard_time": 1759401921,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162593,
+        "num": 191046,
+        "word": "酒店一天办11场婚宴拱门快摆不下了",
+        "onboard_time": 1759399820,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 773100,
+        "num": 190369,
+        "word": "陈赫问张子萱需不需要打码",
+        "onboard_time": 1759402760,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 733769,
+        "num": 189361,
+        "word": "大城小爱",
+        "onboard_time": 1759407442,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 712723,
+        "num": 187977,
+        "word": "许我耀眼16",
+        "onboard_time": 1759405042,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 699135,
+        "num": 187208,
+        "word": "做手术前一定要多问一句",
+        "onboard_time": 1759398560,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 543036,
+        "num": 186507,
+        "word": "穆祉丞啥意思",
+        "onboard_time": 1759398801,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409857,
+        "num": 185283,
+        "word": "李纯马頔结婚",
+        "onboard_time": 1759378822,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373948,
+        "num": 184921,
+        "word": "对沈佳润是小孩有了实感",
+        "onboard_time": 1759396762,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355195,
+        "num": 183605,
+        "word": "张艺兴官宣独立音乐人邓泽鸣",
+        "onboard_time": 1759404682,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270561,
+        "num": 183177,
+        "word": "李在明指挥权志龙开飞机",
+        "onboard_time": 1759407080,
+        "rank": 18,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 257098,
+        "num": 181915,
+        "word": "时代峰峻工作人员 没走成而已",
+        "onboard_time": 1759403001,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290477,
+        "num": 180885,
+        "word": "人人人人人人鸡排哥人人人人人人",
+        "onboard_time": 1759405702,
+        "rank": 20,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 213727,
+        "num": 180511,
+        "word": "马頔李纯孩子可以叫马思纯",
+        "onboard_time": 1759389321,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209016,
+        "num": 179406,
+        "word": "陈伟霆我二十来岁就跟着你了",
+        "onboard_time": 1759408703,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178796,
+        "num": 178796,
+        "word": "迪丽热巴鞋跟断了",
+        "onboard_time": 1759387281,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168685,
+        "num": 168685,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1759406843,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162026,
+        "num": 162026,
+        "word": "甘肃陇西3.7级地震",
+        "onboard_time": 1759404920,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 161932,
+        "num": 161932,
+        "word": "王楚钦四冠王",
+        "onboard_time": 1759409122,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159554,
+        "num": 159554,
+        "word": "李在明痛批反华集会有损国格",
+        "onboard_time": 1759406421,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158653,
+        "num": 158653,
+        "word": "偷偷藏不住",
+        "onboard_time": 1759404802,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154973,
+        "num": 154973,
+        "word": "曾舜晞直播",
+        "onboard_time": 1759409181,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148939,
+        "num": 148939,
+        "word": "广西百色洪水",
+        "onboard_time": 1759403542,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 145657,
+        "num": 145657,
+        "word": "张晚意银发挑染",
+        "onboard_time": 1759407922,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144959,
+        "num": 144959,
+        "word": "一笑随歌热度",
+        "onboard_time": 1759409661,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144122,
+        "num": 144122,
+        "word": "林更新成毅水下戏路透",
+        "onboard_time": 1759407802,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142044,
+        "num": 142044,
+        "word": "专家建议鸡排哥不要用大豆油",
+        "onboard_time": 1759390820,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140473,
+        "num": 140473,
+        "word": "肖战唱完歌以为自己下班了",
+        "onboard_time": 1759404442,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139559,
+        "num": 139559,
+        "word": "薛之谦音乐节",
+        "onboard_time": 1759409482,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135112,
+        "num": 135112,
+        "word": "白敬亭王安宇你俩怎么笑成这样",
+        "onboard_time": 1759404442,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79833,
+        "num": 133663,
+        "word": "小酒窝也没抢到星星人",
+        "onboard_time": 1759409421,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119593,
+        "num": 133525,
+        "word": "张杰杭州演唱会",
+        "onboard_time": 1759410082,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133419,
+        "num": 133419,
+        "word": "王橹杰台历",
+        "onboard_time": 1759406121,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114365,
+        "num": 129399,
+        "word": "严浩翔和王嘉尔合照激动到手抖",
+        "onboard_time": 1759408881,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127561,
+        "num": 127561,
+        "word": "巴黎地铁偶遇戚薇",
+        "onboard_time": 1759409781,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123078,
+        "num": 123078,
+        "word": "轻断食从130斤瘦到90斤",
+        "onboard_time": 1759396341,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 115935,
+        "num": 115935,
+        "word": "高会",
+        "onboard_time": 1759410021,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108204,
+        "num": 108204,
+        "word": "狗被车碾压因太胖逃过一劫主人发声",
+        "onboard_time": 1759409421,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106861,
+        "num": 106861,
+        "word": "丁禹兮是教科书级别的自救",
+        "onboard_time": 1759406061,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103738,
+        "num": 103738,
+        "word": "内娱26位女明星主演热度破万剧集",
+        "onboard_time": 1759398380,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101734,
+        "num": 101734,
+        "word": "地球超新鲜第二季",
+        "onboard_time": 1759406481,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96059,
+        "num": 96059,
+        "word": "石破茂 日本最佳眼镜佩戴者奖",
+        "onboard_time": 1759407680,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的明天必将更加美好#"
+    }
+  }
+}
