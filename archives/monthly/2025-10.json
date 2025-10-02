@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759410215382,
+  "endTime": 1759411986103,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1190318,
-      "num": 206851,
+      "num": 226146,
       "word": "对沈佳润是小孩有了实感",
       "onboard_time": 1759396762,
       "rank": 12,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 1100102,
-      "num": 207332,
+      "num": 226375,
       "word": "穆祉丞啥意思",
       "onboard_time": 1759398801,
       "rank": 10,
@@ -259,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 929148,
+      "num": 227486,
+      "word": "许我耀眼16",
+      "onboard_time": 1759405042,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 917837,
       "num": 184312,
       "word": "母亲为救癌症儿子在医院角落做吃播",
@@ -281,6 +289,14 @@
       "onboard_time": 1759312820,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 879839,
+      "num": 227379,
+      "word": "做手术前一定要多问一句",
+      "onboard_time": 1759398560,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 879796,
@@ -331,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 849435,
+      "num": 227000,
+      "word": "陈赫问张子萱需不需要打码",
+      "onboard_time": 1759402760,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 844329,
       "num": 1135092,
       "word": "鸡排哥代购每份加价20元",
@@ -377,14 +401,6 @@
       "onboard_time": 1759373599,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 777689,
-      "num": 200424,
-      "word": "陈赫问张子萱需不需要打码",
-      "onboard_time": 1759402760,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 767308,
@@ -436,19 +452,11 @@
     },
     {
       "raw_hot": 733769,
-      "num": 189361,
+      "num": 226846,
       "word": "大城小爱",
       "onboard_time": 1759407442,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 712723,
-      "num": 187977,
-      "word": "许我耀眼16",
-      "onboard_time": 1759405042,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 706971,
@@ -473,14 +481,6 @@
       "onboard_time": 1759236021,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 699135,
-      "num": 187208,
-      "word": "做手术前一定要多问一句",
-      "onboard_time": 1759398560,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 698670,
@@ -633,6 +633,14 @@
       "onboard_time": 1759373419,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 571681,
+      "num": 571681,
+      "word": "王楚钦孙颖莎vs雨果高桥布鲁娜",
+      "onboard_time": 1759410381,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 570592,
@@ -1003,6 +1011,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380579,
+      "num": 380579,
+      "word": "李在明痛批反华集会有损国格",
+      "onboard_time": 1759406421,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 377485,
+      "num": 225579,
+      "word": "张艺兴官宣独立音乐人邓泽鸣",
+      "onboard_time": 1759404682,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 375258,
       "num": 375258,
       "word": "男生郑州东站15秒极限换乘",
@@ -1083,14 +1107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 355195,
-      "num": 183605,
-      "word": "张艺兴官宣独立音乐人邓泽鸣",
-      "onboard_time": 1759404682,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 354347,
       "num": 354347,
       "word": "金价又刷新纪录了",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1759311080,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346679,
+      "num": 225446,
+      "word": "李在明指挥权志龙开飞机",
+      "onboard_time": 1759407080,
+      "rank": 21,
+      "category": "海外新闻,艺人"
     },
     {
       "raw_hot": 346043,
@@ -1220,7 +1244,7 @@
     },
     {
       "raw_hot": 320121,
-      "num": 180885,
+      "num": 224645,
       "word": "人人人人人人鸡排哥人人人人人人",
       "onboard_time": 1759405702,
       "rank": 20,
@@ -1308,7 +1332,7 @@
     },
     {
       "raw_hot": 292982,
-      "num": 181915,
+      "num": 224344,
       "word": "时代峰峻工作人员 没走成而已",
       "onboard_time": 1759403001,
       "rank": 26,
@@ -1344,6 +1368,14 @@
       "word": "我爱你中国",
       "onboard_time": 1759275559,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282871,
+      "num": 282871,
+      "word": "深圳地铁列车自己洗澡睡觉",
+      "onboard_time": 1759409060,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1385,14 +1417,6 @@
       "onboard_time": 1759235480,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 270561,
-      "num": 183177,
-      "word": "李在明指挥权志龙开飞机",
-      "onboard_time": 1759407080,
-      "rank": 21,
-      "category": "海外新闻,艺人"
     },
     {
       "raw_hot": 269957,
@@ -1505,6 +1529,14 @@
       "onboard_time": 1759230442,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248371,
+      "num": 224455,
+      "word": "陈伟霆我二十来岁就跟着你了",
+      "onboard_time": 1759408703,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 245692,
@@ -1659,6 +1691,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 227681,
+      "num": 227681,
+      "word": "王曼昱vs早田希娜",
+      "onboard_time": 1759410202,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227673,
       "num": 157583,
       "word": "27岁真的还很年轻很年轻",
@@ -1747,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216970,
+      "num": 216970,
+      "word": "许妍卸妆",
+      "onboard_time": 1759411941,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216875,
       "num": 216875,
       "word": "鸡排大道为迎国庆把路铺平了",
@@ -1827,14 +1875,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 209016,
-      "num": 179406,
-      "word": "陈伟霆我二十来岁就跟着你了",
-      "onboard_time": 1759408703,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208529,
       "num": 153923,
       "word": "李晟生日没有感动全是尴尬",
@@ -1891,20 +1931,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204103,
+      "num": 204103,
+      "word": "WTT",
+      "onboard_time": 1759411461,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203454,
       "num": 203454,
       "word": "时代少年团纪录片",
       "onboard_time": 1759379180,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203230,
-      "num": 203230,
-      "word": "深圳地铁列车自己洗澡睡觉",
-      "onboard_time": 1759409060,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202662,
@@ -2059,6 +2099,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 194039,
+      "num": 194039,
+      "word": "张晚意银发挑染",
+      "onboard_time": 1759407922,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191408,
       "num": 179677,
       "word": "成毅两京十五日落水戏",
@@ -2163,12 +2211,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 180487,
+      "num": 180487,
+      "word": "一笑随歌热度",
+      "onboard_time": 1759409661,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179675,
       "num": 179675,
       "word": "赵晴又有新剧了",
       "onboard_time": 1759397180,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179650,
+      "num": 179650,
+      "word": "王楚钦四冠王",
+      "onboard_time": 1759409122,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 179113,
@@ -2435,14 +2499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 161932,
-      "num": 161932,
-      "word": "王楚钦四冠王",
-      "onboard_time": 1759409122,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161772,
       "num": 161772,
       "word": "刘雯迪奥走秀",
@@ -2472,14 +2528,6 @@
       "word": "台湾拒绝美国芯片制造五五分要求",
       "onboard_time": 1759359737,
       "rank": 5,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 159554,
-      "num": 159554,
-      "word": "李在明痛批反华集会有损国格",
-      "onboard_time": 1759406421,
-      "rank": 30,
       "category": "国际时政"
     },
     {
@@ -2513,6 +2561,14 @@
       "onboard_time": 1759295959,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156792,
+      "num": 156792,
+      "word": "林更新成毅水下戏路透",
+      "onboard_time": 1759407802,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 156584,
@@ -2739,14 +2795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 145657,
-      "num": 145657,
-      "word": "张晚意银发挑染",
-      "onboard_time": 1759407922,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 145507,
       "num": 145507,
       "word": "朱一龙与89岁志愿军老兵观影",
@@ -2779,14 +2827,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144959,
-      "num": 144959,
-      "word": "一笑随歌热度",
-      "onboard_time": 1759409661,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 144846,
       "num": 157062,
       "word": "第五人格赛事",
@@ -2803,12 +2843,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 144122,
-      "num": 144122,
-      "word": "林更新成毅水下戏路透",
-      "onboard_time": 1759407802,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 144215,
+      "num": 144215,
+      "word": "高会",
+      "onboard_time": 1759410021,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 144119,
@@ -2945,6 +2985,14 @@
       "onboard_time": 1759409482,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139460,
+      "num": 139460,
+      "word": "狗被车碾压因太胖逃过一劫主人发声",
+      "onboard_time": 1759409421,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139405,
@@ -3123,6 +3171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132935,
+      "num": 138248,
+      "word": "王曼昱3比0早田希娜",
+      "onboard_time": 1759410442,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132770,
       "num": 160064,
       "word": "老乡鸡拯救了一个破碎的小女孩",
@@ -3177,6 +3233,14 @@
       "onboard_time": 1759372700,
       "rank": 25,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 130379,
+      "num": 133663,
+      "word": "小酒窝也没抢到星星人",
+      "onboard_time": 1759409421,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130156,
@@ -3323,12 +3387,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 125251,
+      "num": 125251,
+      "word": "政府食堂20元简餐火了",
+      "onboard_time": 1759410502,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124919,
       "num": 124919,
       "word": "乐远cp返场",
       "onboard_time": 1759244062,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124845,
+      "num": 133989,
+      "word": "智能马桶喷出开水女子被烫伤",
+      "onboard_time": 1759411101,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124721,
@@ -3476,7 +3556,7 @@
     },
     {
       "raw_hot": 119593,
-      "num": 133525,
+      "num": 140128,
       "word": "张杰杭州演唱会",
       "onboard_time": 1759410082,
       "rank": 39,
@@ -3595,14 +3675,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 115935,
-      "num": 115935,
-      "word": "高会",
-      "onboard_time": 1759410021,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115386,
       "num": 115386,
       "word": "刺杀小说家在刺杀谁",
@@ -3657,6 +3729,14 @@
       "onboard_time": 1759372159,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113589,
+      "num": 113589,
+      "word": "向鹏3比1科顿",
+      "onboard_time": 1759411581,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 113537,
@@ -3769,6 +3849,14 @@
       "onboard_time": 1759374319,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 110909,
+      "num": 110909,
+      "word": "万一重生了请记住以下时间节点",
+      "onboard_time": 1759411761,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 110803,
@@ -3929,14 +4017,6 @@
       "onboard_time": 1759406481,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108204,
-      "num": 108204,
-      "word": "狗被车碾压因太胖逃过一劫主人发声",
-      "onboard_time": 1759409421,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108082,
@@ -4699,6 +4779,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 90353,
+      "num": 125384,
+      "word": "泰国男子找回手机相册惊现尸骨照",
+      "onboard_time": 1759411941,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 90287,
       "num": 90287,
       "word": "迪丽热巴邓文迪合影",
@@ -5203,14 +5291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79833,
-      "num": 133663,
-      "word": "小酒窝也没抢到星星人",
-      "onboard_time": 1759409421,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 79640,
       "num": 79640,
       "word": "心动的信号",
@@ -5649,6 +5729,14 @@
       "onboard_time": 1759303160,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65840,
+      "num": 225082,
+      "word": "广西紧急预拨1000万元救灾",
+      "onboard_time": 1759410802,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65648,

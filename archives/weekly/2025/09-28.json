@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759410215382,
+  "endTime": 1759411986103,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 1190318,
-      "num": 206851,
+      "num": 226146,
       "word": "对沈佳润是小孩有了实感",
       "onboard_time": 1759396762,
       "rank": 12,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 1100102,
-      "num": 207332,
+      "num": 226375,
       "word": "穆祉丞啥意思",
       "onboard_time": 1759398801,
       "rank": 10,
@@ -755,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 929148,
+      "num": 227486,
+      "word": "许我耀眼16",
+      "onboard_time": 1759405042,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 926112,
       "num": 1148178,
       "word": "九三阅兵礼宾车正陆续返还车主",
@@ -835,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 879839,
+      "num": 227379,
+      "word": "做手术前一定要多问一句",
+      "onboard_time": 1759398560,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 879796,
       "num": 1122753,
       "word": "山姆99.9元零食 好特卖39.9",
@@ -905,6 +921,14 @@
       "onboard_time": 1759247721,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 849435,
+      "num": 227000,
+      "word": "陈赫问张子萱需不需要打码",
+      "onboard_time": 1759402760,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 848890,
@@ -1099,14 +1123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 777689,
-      "num": 200424,
-      "word": "陈赫问张子萱需不需要打码",
-      "onboard_time": 1759402760,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 777058,
       "num": 1124329,
       "word": "网红称婆婆吃邻居送的蘑菇中毒身亡",
@@ -1212,7 +1228,7 @@
     },
     {
       "raw_hot": 733769,
-      "num": 189361,
+      "num": 226846,
       "word": "大城小爱",
       "onboard_time": 1759407442,
       "rank": 15,
@@ -1251,14 +1267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 712723,
-      "num": 187977,
-      "word": "许我耀眼16",
-      "onboard_time": 1759405042,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 706971,
       "num": 1113115,
       "word": "第一天出去旅游的人已经老实",
@@ -1289,14 +1297,6 @@
       "onboard_time": 1759236021,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 699135,
-      "num": 187208,
-      "word": "做手术前一定要多问一句",
-      "onboard_time": 1759398560,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 698670,
@@ -1849,6 +1849,14 @@
       "onboard_time": 1759239262,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 571681,
+      "num": 571681,
+      "word": "王楚钦孙颖莎vs雨果高桥布鲁娜",
+      "onboard_time": 1759410381,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 571648,
@@ -3003,12 +3011,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380579,
+      "num": 380579,
+      "word": "李在明痛批反华集会有损国格",
+      "onboard_time": 1759406421,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 380102,
       "num": 380102,
       "word": "中共中央政治局9月29日召开会议",
       "onboard_time": 1759129222,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 377485,
+      "num": 225579,
+      "word": "张艺兴官宣独立音乐人邓泽鸣",
+      "onboard_time": 1759404682,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 376765,
@@ -3211,14 +3235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 355195,
-      "num": 183605,
-      "word": "张艺兴官宣独立音乐人邓泽鸣",
-      "onboard_time": 1759404682,
-      "rank": 33,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 354347,
       "num": 354347,
       "word": "金价又刷新纪录了",
@@ -3289,6 +3305,14 @@
       "onboard_time": 1759311080,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346679,
+      "num": 225446,
+      "word": "李在明指挥权志龙开飞机",
+      "onboard_time": 1759407080,
+      "rank": 21,
+      "category": "海外新闻,艺人"
     },
     {
       "raw_hot": 346200,
@@ -3460,7 +3484,7 @@
     },
     {
       "raw_hot": 320121,
-      "num": 180885,
+      "num": 224645,
       "word": "人人人人人人鸡排哥人人人人人人",
       "onboard_time": 1759405702,
       "rank": 20,
@@ -3716,7 +3740,7 @@
     },
     {
       "raw_hot": 292982,
-      "num": 181915,
+      "num": 224344,
       "word": "时代峰峻工作人员 没走成而已",
       "onboard_time": 1759403001,
       "rank": 26,
@@ -3843,6 +3867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282871,
+      "num": 282871,
+      "word": "深圳地铁列车自己洗澡睡觉",
+      "onboard_time": 1759409060,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282628,
       "num": 282628,
       "word": "女幼师遇害案凶手已被执行死刑",
@@ -3921,14 +3953,6 @@
       "onboard_time": 1759392681,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 270561,
-      "num": 183177,
-      "word": "李在明指挥权志龙开飞机",
-      "onboard_time": 1759407080,
-      "rank": 21,
-      "category": "海外新闻,艺人"
     },
     {
       "raw_hot": 269957,
@@ -4169,6 +4193,14 @@
       "onboard_time": 1759126280,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 248371,
+      "num": 224455,
+      "word": "陈伟霆我二十来岁就跟着你了",
+      "onboard_time": 1759408703,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 248217,
@@ -4515,6 +4547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227681,
+      "num": 227681,
+      "word": "王曼昱vs早田希娜",
+      "onboard_time": 1759410202,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227673,
       "num": 157583,
       "word": "27岁真的还很年轻很年轻",
@@ -4715,6 +4755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 216970,
+      "num": 216970,
+      "word": "许妍卸妆",
+      "onboard_time": 1759411941,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216875,
       "num": 216875,
       "word": "鸡排大道为迎国庆把路铺平了",
@@ -4859,14 +4907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209016,
-      "num": 179406,
-      "word": "陈伟霆我二十来岁就跟着你了",
-      "onboard_time": 1759408703,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208861,
       "num": 176050,
       "word": "朱珠扛住了G社镜头",
@@ -4971,6 +5011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204103,
+      "num": 204103,
+      "word": "WTT",
+      "onboard_time": 1759231101,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203458,
       "num": 203458,
       "word": "于适清唱",
@@ -4985,14 +5033,6 @@
       "onboard_time": 1759379180,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 203230,
-      "num": 203230,
-      "word": "深圳地铁列车自己洗澡睡觉",
-      "onboard_time": 1759409060,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202971,
@@ -5361,6 +5401,14 @@
       "onboard_time": 1759290440,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 194039,
+      "num": 194039,
+      "word": "张晚意银发挑染",
+      "onboard_time": 1759407922,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 193835,
@@ -5907,6 +5955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180487,
+      "num": 180487,
+      "word": "一笑随歌热度",
+      "onboard_time": 1759409661,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180439,
       "num": 180439,
       "word": "东北孩子回老家只要4个小时了",
@@ -5937,6 +5993,14 @@
       "onboard_time": 1759397180,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179650,
+      "num": 179650,
+      "word": "王楚钦四冠王",
+      "onboard_time": 1759409122,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 179402,
@@ -6611,14 +6675,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164965,
-      "num": 164965,
-      "word": "WTT",
-      "onboard_time": 1759231101,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 164863,
       "num": 137071,
       "word": "邓为Dior看秀造型",
@@ -6697,14 +6753,6 @@
       "onboard_time": 1759090514,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161932,
-      "num": 161932,
-      "word": "王楚钦四冠王",
-      "onboard_time": 1759409122,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 161862,
@@ -6883,14 +6931,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 159554,
-      "num": 159554,
-      "word": "李在明痛批反华集会有损国格",
-      "onboard_time": 1759406421,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 159326,
       "num": 159326,
       "word": "国庆去合肥还是意大利",
@@ -7009,6 +7049,14 @@
       "onboard_time": 1759232061,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156792,
+      "num": 156792,
+      "word": "林更新成毅水下戏路透",
+      "onboard_time": 1759407802,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 156584,
@@ -7643,14 +7691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145657,
-      "num": 145657,
-      "word": "张晚意银发挑染",
-      "onboard_time": 1759407922,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 145634,
       "num": 145634,
       "word": "王楚钦说曾一度看不到希望",
@@ -7729,14 +7769,6 @@
       "onboard_time": 1759288521,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 144959,
-      "num": 144959,
-      "word": "一笑随歌热度",
-      "onboard_time": 1759409661,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 144912,
@@ -7819,12 +7851,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144122,
-      "num": 144122,
-      "word": "林更新成毅水下戏路透",
-      "onboard_time": 1759407802,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 144215,
+      "num": 144215,
+      "word": "高会",
+      "onboard_time": 1759410021,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 144119,
@@ -8129,6 +8161,14 @@
       "onboard_time": 1759409482,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139460,
+      "num": 139460,
+      "word": "狗被车碾压因太胖逃过一劫主人发声",
+      "onboard_time": 1759409421,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139405,
@@ -8627,6 +8667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132935,
+      "num": 138248,
+      "word": "王曼昱3比0早田希娜",
+      "onboard_time": 1759410442,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132815,
       "num": 132815,
       "word": "曹操万灵伏威皮肤",
@@ -8825,6 +8873,14 @@
       "onboard_time": 1759149981,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 130379,
+      "num": 133663,
+      "word": "小酒窝也没抢到星星人",
+      "onboard_time": 1759409421,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130302,
@@ -9339,6 +9395,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 125251,
+      "num": 125251,
+      "word": "政府食堂20元简餐火了",
+      "onboard_time": 1759410502,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125039,
       "num": 125039,
       "word": "十代铁三角演了九门",
@@ -9393,6 +9457,14 @@
       "onboard_time": 1759123521,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124845,
+      "num": 133989,
+      "word": "智能马桶喷出开水女子被烫伤",
+      "onboard_time": 1759411101,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124844,
@@ -9908,7 +9980,7 @@
     },
     {
       "raw_hot": 119593,
-      "num": 133525,
+      "num": 140128,
       "word": "张杰杭州演唱会",
       "onboard_time": 1759410082,
       "rank": 39,
@@ -10227,14 +10299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115935,
-      "num": 115935,
-      "word": "高会",
-      "onboard_time": 1759410021,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115902,
       "num": 150275,
       "word": "万达集团被执行总金额超53亿元",
@@ -10457,6 +10521,14 @@
       "onboard_time": 1759025960,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 113589,
+      "num": 113589,
+      "word": "向鹏3比1科顿",
+      "onboard_time": 1759411581,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 113587,
@@ -10737,6 +10809,14 @@
       "onboard_time": 1759128621,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110909,
+      "num": 110909,
+      "word": "万一重生了请记住以下时间节点",
+      "onboard_time": 1759411761,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 110864,
@@ -11081,14 +11161,6 @@
       "onboard_time": 1759406481,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108204,
-      "num": 108204,
-      "word": "狗被车碾压因太胖逃过一劫主人发声",
-      "onboard_time": 1759409421,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108147,
@@ -12995,6 +13067,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 90353,
+      "num": 125384,
+      "word": "泰国男子找回手机相册惊现尸骨照",
+      "onboard_time": 1759411941,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 90287,
       "num": 90287,
       "word": "迪丽热巴邓文迪合影",
@@ -13979,14 +14059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79833,
-      "num": 133663,
-      "word": "小酒窝也没抢到星星人",
-      "onboard_time": 1759409421,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 79826,
       "num": 221530,
       "word": "郭艾伦要跳一万遍李斯丹妮的winner",
@@ -14697,6 +14769,14 @@
       "onboard_time": 1759303160,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65840,
+      "num": 225082,
+      "word": "广西紧急预拨1000万元救灾",
+      "onboard_time": 1759410802,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65717,
