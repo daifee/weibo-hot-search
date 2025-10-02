@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759411986103,
+  "endTime": 1759412643065,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -395,6 +395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 788814,
+      "num": 1126210,
+      "word": "王楚钦孙颖莎vs雨果高桥布鲁娜",
+      "onboard_time": 1759410381,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 788716,
       "num": 298706,
       "word": "迪丽热巴把G社变站姐了",
@@ -635,14 +643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 571681,
-      "num": 571681,
-      "word": "王楚钦孙颖莎vs雨果高桥布鲁娜",
-      "onboard_time": 1759410381,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 570592,
       "num": 237157,
       "word": "乐远cp选择不成为情侣",
@@ -835,6 +835,22 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 459776,
+      "num": 216970,
+      "word": "许妍卸妆",
+      "onboard_time": 1759411941,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 457974,
+      "num": 457974,
+      "word": "李在明痛批反华集会有损国格",
+      "onboard_time": 1759406421,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 453879,
       "num": 200475,
       "word": "薛之谦说有点不敢接音乐节了",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1759369279,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 380579,
-      "num": 380579,
-      "word": "李在明痛批反华集会有损国格",
-      "onboard_time": 1759406421,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 377485,
@@ -1299,6 +1307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308011,
+      "num": 308011,
+      "word": "深圳地铁列车自己洗澡睡觉",
+      "onboard_time": 1759409060,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306422,
       "num": 183124,
       "word": "董璇张维伊婚礼合影站位",
@@ -1368,14 +1384,6 @@
       "word": "我爱你中国",
       "onboard_time": 1759275559,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 282871,
-      "num": 282871,
-      "word": "深圳地铁列车自己洗澡睡觉",
-      "onboard_time": 1759409060,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -1787,14 +1795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 216970,
-      "num": 216970,
-      "word": "许妍卸妆",
-      "onboard_time": 1759411941,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 216875,
       "num": 216875,
       "word": "鸡排大道为迎国庆把路铺平了",
@@ -1923,6 +1923,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 205381,
+      "num": 189978,
+      "word": "王楚钦四冠王",
+      "onboard_time": 1759409122,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204785,
       "num": 204785,
       "word": "王楚钦孙颖莎3比0陈垣宇蒯曼",
@@ -2017,6 +2025,14 @@
       "onboard_time": 1759403481,
       "rank": 16,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 198636,
+      "num": 198636,
+      "word": "特斯拉汉堡销量碾压麦当劳",
+      "onboard_time": 1759412304,
+      "rank": 9,
+      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 197361,
@@ -2225,14 +2241,6 @@
       "onboard_time": 1759397180,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179650,
-      "num": 179650,
-      "word": "王楚钦四冠王",
-      "onboard_time": 1759409122,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 179113,
@@ -2499,6 +2507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162258,
+      "num": 162258,
+      "word": "智能马桶喷出开水女子被烫伤",
+      "onboard_time": 1759411101,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161772,
       "num": 161772,
       "word": "刘雯迪奥走秀",
@@ -2601,6 +2617,14 @@
       "onboard_time": 1759390462,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154828,
+      "num": 154828,
+      "word": "泰国男子找回手机相册惊现尸骨照",
+      "onboard_time": 1759411941,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 153792,
@@ -3027,6 +3051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137772,
+      "num": 137772,
+      "word": "林俊杰新歌首唱",
+      "onboard_time": 1759412482,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137452,
       "num": 137452,
       "word": "网传肖战小城良方10月10号锦州开机",
@@ -3089,6 +3121,14 @@
       "onboard_time": 1759322481,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135329,
+      "num": 135329,
+      "word": "乐山想下班了12分钟进两球",
+      "onboard_time": 1759411881,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 135305,
@@ -3315,6 +3355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128880,
+      "num": 128880,
+      "word": "孙颖莎升国旗海报",
+      "onboard_time": 1759412304,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128005,
       "num": 128005,
       "word": "特朗普放狠话称要做不可逆转之事",
@@ -3401,14 +3449,6 @@
       "onboard_time": 1759244062,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124845,
-      "num": 133989,
-      "word": "智能马桶喷出开水女子被烫伤",
-      "onboard_time": 1759411101,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124721,
@@ -3617,6 +3657,14 @@
       "onboard_time": 1759301001,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117593,
+      "num": 117593,
+      "word": "陈哲远扛住了朱大灯的镜头",
+      "onboard_time": 1759412181,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 117582,
@@ -4777,14 +4825,6 @@
       "onboard_time": 1759397360,
       "rank": 35,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 90353,
-      "num": 125384,
-      "word": "泰国男子找回手机相册惊现尸骨照",
-      "onboard_time": 1759411941,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 90287,
