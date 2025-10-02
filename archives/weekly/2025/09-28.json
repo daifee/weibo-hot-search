@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759447365580,
+  "endTime": 1759448187459,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -1172,7 +1172,7 @@
     },
     {
       "raw_hot": 778997,
-      "num": 778997,
+      "num": 858088,
       "word": "章莹颖男友协助章父直播回应新恋情",
       "onboard_time": 1759417162,
       "rank": 3,
@@ -4307,6 +4307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 248880,
+      "num": 104119,
+      "word": "李纯马頔回复王菊",
+      "onboard_time": 1759421301,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248403,
       "num": 248403,
       "word": "花海送皮肤",
@@ -5027,14 +5035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209876,
-      "num": 104119,
-      "word": "李纯马頔回复王菊",
-      "onboard_time": 1759421301,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209592,
       "num": 187991,
       "word": "台湾老人强行要年轻人让座被踹懵",
@@ -5241,6 +5241,14 @@
       "onboard_time": 1759050680,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201279,
+      "num": 86884,
+      "word": "英皇欠钱的最大受益人",
+      "onboard_time": 1759438574,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 201055,
@@ -6499,6 +6507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171198,
+      "num": 86174,
+      "word": "导演看了花少5才选择了王安宇",
+      "onboard_time": 1759446738,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171045,
       "num": 171045,
       "word": "蜡笔小新和阿呆疑似闹掰",
@@ -6817,14 +6833,6 @@
       "onboard_time": 1759322600,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165656,
-      "num": 77918,
-      "word": "英皇欠钱的最大受益人",
-      "onboard_time": 1759438574,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 165635,
@@ -8579,14 +8587,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 136925,
-      "num": 74399,
-      "word": "导演看了花少5才选择了王安宇",
-      "onboard_time": 1759446738,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136889,
       "num": 123119,
       "word": "王楚钦林诗栋会师袁励岑徐瑛彬",
@@ -10289,6 +10289,14 @@
       "onboard_time": 1759189040,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 119636,
+      "num": 119636,
+      "word": "导致视力下降的真实原因",
+      "onboard_time": 1759447277,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 119612,
@@ -13651,6 +13659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88278,
+      "num": 86106,
+      "word": "印度妇女用纱丽掩人耳目偷走金项链",
+      "onboard_time": 1759447277,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 88229,
       "num": 121370,
       "word": "杨博文又在飞机上写作业了",
@@ -14507,6 +14523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79458,
+      "num": 54897,
+      "word": "陈赫一家四口瑞士度假",
+      "onboard_time": 1759447757,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79419,
       "num": 129263,
       "word": "1674元机票提前改签扣1029元手续费",
@@ -14731,6 +14755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 76260,
+      "num": 76260,
+      "word": "大连地铁发生意外故障停运一小时",
+      "onboard_time": 1759425317,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76002,
       "num": 76002,
       "word": "周柯宇战至巅峰4总决赛FMVP",
@@ -14769,14 +14801,6 @@
       "onboard_time": 1759273878,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 75551,
-      "num": 74317,
-      "word": "大连地铁发生意外故障停运一小时",
-      "onboard_time": 1759425317,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75417,
@@ -15059,14 +15083,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 71219,
-      "num": 49238,
-      "word": "印度妇女用纱丽掩人耳目偷走金项链",
-      "onboard_time": 1759447277,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 70641,
       "num": 70641,
       "word": "国庆中秋假期后4天或有台风来袭",
@@ -15113,6 +15129,22 @@
       "onboard_time": 1759258755,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69205,
+      "num": 69205,
+      "word": "一款外军战机被赶走再没回来过",
+      "onboard_time": 1759447277,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 68896,
+      "num": 68896,
+      "word": "双休7千单休9千怎么选",
+      "onboard_time": 1759439174,
+      "rank": 48,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 68718,
@@ -15185,14 +15217,6 @@
       "onboard_time": 1759064424,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67874,
-      "num": 67874,
-      "word": "导致视力下降的真实原因",
-      "onboard_time": 1759447277,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 67812,
@@ -15659,6 +15683,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 59111,
+      "num": 86994,
+      "word": "运动三个月不胖和好瘦的区别",
+      "onboard_time": 1759448117,
+      "rank": 15,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 59010,
       "num": 72235,
       "word": "南京DNA音乐节",
@@ -15785,14 +15817,6 @@
       "onboard_time": 1759026919,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 57328,
-      "num": 57328,
-      "word": "双休7千单休9千怎么选",
-      "onboard_time": 1759439174,
-      "rank": 48,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 57171,
@@ -16043,14 +16067,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 53332,
-      "num": 53332,
-      "word": "一款外军战机被赶走再没回来过",
-      "onboard_time": 1759447277,
-      "rank": 28,
-      "category": "军事"
-    },
-    {
       "raw_hot": 53265,
       "num": 162892,
       "word": "太吾绘卷将深度适配鸿蒙",
@@ -16129,6 +16145,14 @@
       "onboard_time": 1759138160,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51397,
+      "num": 51397,
+      "word": "白宫裁员",
+      "onboard_time": 1759445355,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51174,
@@ -16387,6 +16411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44624,
+      "num": 44624,
+      "word": "王楚钦回应与安宰贤搭档男双",
+      "onboard_time": 1759448117,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44612,
       "num": 68908,
       "word": "王楚钦直言说不动话了",
@@ -16603,20 +16635,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40268,
+      "num": 40268,
+      "word": "蔡徐坤国际认可度",
+      "onboard_time": 1759447338,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 39550,
       "num": 66908,
       "word": "朱一龙下车路透封神",
       "onboard_time": 1759080557,
       "rank": 45,
       "category": "艺人,汽车"
-    },
-    {
-      "raw_hot": 39533,
-      "num": 39533,
-      "word": "白宫裁员",
-      "onboard_time": 1759445355,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 39247,
@@ -16737,6 +16769,14 @@
       "onboard_time": 1759274118,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37989,
+      "num": 40261,
+      "word": "王俊凯小说男主身材比例",
+      "onboard_time": 1759447338,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 37853,
@@ -16865,14 +16905,6 @@
       "onboard_time": 1759424777,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 34465,
-      "num": 39515,
-      "word": "蔡徐坤国际认可度",
-      "onboard_time": 1759447338,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 34404,
@@ -17241,14 +17273,6 @@
       "onboard_time": 1759344316,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25420,
-      "num": 39449,
-      "word": "王俊凯小说男主身材比例",
-      "onboard_time": 1759447338,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 25147,
@@ -17715,6 +17739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 14703,
+      "num": 41522,
+      "word": "咪豆音乐节",
+      "onboard_time": 1759427656,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 14676,
       "num": 16177,
       "word": "无限暖暖",
@@ -17761,14 +17793,6 @@
       "onboard_time": 1759268054,
       "rank": 45,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 13801,
-      "num": 28153,
-      "word": "咪豆音乐节",
-      "onboard_time": 1759427656,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 13670,

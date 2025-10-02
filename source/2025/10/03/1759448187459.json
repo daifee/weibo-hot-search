@@ -1,0 +1,410 @@
+{
+  "runTime": 1759448187459,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 300552,
+        "num": 858088,
+        "word": "章莹颖男友协助章父直播回应新恋情",
+        "onboard_time": 1759417162,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269533,
+        "num": 269533,
+        "word": "陈泽",
+        "onboard_time": 1759419200,
+        "rank": 1,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 30499,
+        "num": 240911,
+        "word": "国庆中秋假期游玩好去处",
+        "onboard_time": 1759414222,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216989,
+        "num": 216989,
+        "word": "泰山山顶宾馆提供99元坐席可过夜",
+        "onboard_time": 1759417042,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187923,
+        "num": 187923,
+        "word": "人人人人人人鸡排哥人人人人人人",
+        "onboard_time": 1759405702,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 149778,
+        "num": 149778,
+        "word": "王楚钦卡壳半天蹦出来一句他老婆",
+        "onboard_time": 1759415541,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119636,
+        "num": 119636,
+        "word": "导致视力下降的真实原因",
+        "onboard_time": 1759447277,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106825,
+        "num": 106825,
+        "word": "香港人盯上内地医保",
+        "onboard_time": 1759417821,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88094,
+        "num": 88094,
+        "word": "我驻韩使馆就反华游行表明严正立场",
+        "onboard_time": 1759403361,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61307,
+        "num": 87987,
+        "word": "提醒在韩中国游客注意人身安全",
+        "onboard_time": 1759401381,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496103,
+        "num": 87886,
+        "word": "章莹颖男友已开始新恋情",
+        "onboard_time": 1759417704,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248880,
+        "num": 87750,
+        "word": "李纯马頔回复王菊",
+        "onboard_time": 1759421301,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247309,
+        "num": 87466,
+        "word": "许妍卸妆",
+        "onboard_time": 1759411941,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213845,
+        "num": 87315,
+        "word": "在中国居住了5年的印度女子",
+        "onboard_time": 1759415302,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 208413,
+        "num": 87176,
+        "word": "泰国男子找回手机相册惊现尸骨照",
+        "onboard_time": 1759411941,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 59111,
+        "num": 86994,
+        "word": "运动三个月不胖和好瘦的区别",
+        "onboard_time": 1759448117,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 201279,
+        "num": 86884,
+        "word": "英皇欠钱的最大受益人",
+        "onboard_time": 1759438574,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117125,
+        "num": 86773,
+        "word": "成龙王力宏亲了",
+        "onboard_time": 1759414522,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108215,
+        "num": 86590,
+        "word": "迪丽热巴ins",
+        "onboard_time": 1759418422,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101806,
+        "num": 86356,
+        "word": "对沈佳润是小孩有了实感",
+        "onboard_time": 1759396762,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171198,
+        "num": 86174,
+        "word": "导演看了花少5才选择了王安宇",
+        "onboard_time": 1759446738,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88278,
+        "num": 86106,
+        "word": "印度妇女用纱丽掩人耳目偷走金项链",
+        "onboard_time": 1759447277,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85990,
+        "num": 85990,
+        "word": "多位名人自曝戴呼吸机睡觉",
+        "onboard_time": 1759412241,
+        "rank": 22,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 76260,
+        "num": 76260,
+        "word": "大连地铁发生意外故障停运一小时",
+        "onboard_time": 1759425317,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75006,
+        "num": 75006,
+        "word": "于适稳稳地帮六公主完美救场",
+        "onboard_time": 1759440974,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72093,
+        "num": 72093,
+        "word": "智能马桶喷出开水女子被烫伤",
+        "onboard_time": 1759411101,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69205,
+        "num": 69205,
+        "word": "一款外军战机被赶走再没回来过",
+        "onboard_time": 1759447277,
+        "rank": 26,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 68896,
+        "num": 68896,
+        "word": "双休7千单休9千怎么选",
+        "onboard_time": 1759439174,
+        "rank": 27,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 57766,
+        "num": 57766,
+        "word": "中国驻韩国大使馆严正发声",
+        "onboard_time": 1759402940,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55021,
+        "num": 55021,
+        "word": "女子假期外出3C充电宝在家自爆",
+        "onboard_time": 1759417342,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79458,
+        "num": 54897,
+        "word": "陈赫一家四口瑞士度假",
+        "onboard_time": 1759447757,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52157,
+        "num": 52157,
+        "word": "特斯拉汉堡销量碾压麦当劳",
+        "onboard_time": 1759412304,
+        "rank": 31,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 51397,
+        "num": 51397,
+        "word": "白宫裁员",
+        "onboard_time": 1759445355,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 46796,
+        "num": 46796,
+        "word": "陈伟霆我二十来岁就跟着你了",
+        "onboard_time": 1759408703,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44624,
+        "num": 44624,
+        "word": "王楚钦回应与安宰贤搭档男双",
+        "onboard_time": 1759448117,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50190,
+        "num": 44118,
+        "word": "陈赫问张子萱需不需要打码",
+        "onboard_time": 1759402760,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45754,
+        "num": 43984,
+        "word": "许我耀眼腾讯热度破32000",
+        "onboard_time": 1759416381,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42744,
+        "num": 42744,
+        "word": "中方向美方明确提出四不",
+        "onboard_time": 1759418121,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41853,
+        "num": 41853,
+        "word": "许魏洲被cpf贴脸",
+        "onboard_time": 1759414462,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14703,
+        "num": 41522,
+        "word": "咪豆音乐节",
+        "onboard_time": 1759427656,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41386,
+        "num": 41386,
+        "word": "许我耀眼",
+        "onboard_time": 1759415903,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40752,
+        "num": 40752,
+        "word": "肖战唱完歌以为自己下班了",
+        "onboard_time": 1759404442,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40268,
+        "num": 40268,
+        "word": "蔡徐坤国际认可度",
+        "onboard_time": 1759447338,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37989,
+        "num": 40261,
+        "word": "王俊凯小说男主身材比例",
+        "onboard_time": 1759447338,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33315,
+        "num": 40254,
+        "word": "李纯马頔结婚",
+        "onboard_time": 1759378822,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33290,
+        "num": 40240,
+        "word": "孙颖莎说和大头想打好的决心一致",
+        "onboard_time": 1759419502,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32989,
+        "num": 40231,
+        "word": "王楚钦说和孙颖莎沟通非常高效",
+        "onboard_time": 1759420400,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32509,
+        "num": 40224,
+        "word": "许妍晕倒名场面幕后",
+        "onboard_time": 1759416443,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31738,
+        "num": 40206,
+        "word": "大城小爱",
+        "onboard_time": 1759407442,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31344,
+        "num": 40196,
+        "word": "蔡徐坤全球首穿含金量",
+        "onboard_time": 1759412661,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#为祖国发展繁荣而不懈奋斗#"
+    }
+  }
+}

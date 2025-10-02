@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759447365580,
+  "endTime": 1759448187459,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 778997,
-      "num": 778997,
+      "num": 858088,
       "word": "章莹颖男友协助章父直播回应新恋情",
       "onboard_time": 1759417162,
       "rank": 3,
@@ -1651,6 +1651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248880,
+      "num": 104119,
+      "word": "李纯马頔回复王菊",
+      "onboard_time": 1759421301,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248371,
       "num": 224455,
       "word": "陈伟霆我二十来岁就跟着你了",
@@ -2003,14 +2011,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 209876,
-      "num": 104119,
-      "word": "李纯马頔回复王菊",
-      "onboard_time": 1759421301,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208529,
       "num": 153923,
       "word": "李晟生日没有感动全是尴尬",
@@ -2113,6 +2113,14 @@
       "onboard_time": 1759362798,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 201279,
+      "num": 86884,
+      "word": "英皇欠钱的最大受益人",
+      "onboard_time": 1759438574,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 201055,
@@ -2483,6 +2491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171198,
+      "num": 86174,
+      "word": "导演看了花少5才选择了王安宇",
+      "onboard_time": 1759446738,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170869,
       "num": 125440,
       "word": "王楚钦孙颖莎赛前对练",
@@ -2633,14 +2649,6 @@
       "onboard_time": 1759322600,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165656,
-      "num": 77918,
-      "word": "英皇欠钱的最大受益人",
-      "onboard_time": 1759438574,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 165635,
@@ -3315,14 +3323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 136925,
-      "num": 74399,
-      "word": "导演看了花少5才选择了王安宇",
-      "onboard_time": 1759446738,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136889,
       "num": 123119,
       "word": "王楚钦林诗栋会师袁励岑徐瑛彬",
@@ -3865,6 +3865,14 @@
       "onboard_time": 1759379422,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119636,
+      "num": 119636,
+      "word": "导致视力下降的真实原因",
+      "onboard_time": 1759447277,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 119612,
@@ -5267,6 +5275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 88278,
+      "num": 86106,
+      "word": "印度妇女用纱丽掩人耳目偷走金项链",
+      "onboard_time": 1759447277,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 88229,
       "num": 121370,
       "word": "杨博文又在飞机上写作业了",
@@ -5731,6 +5747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79458,
+      "num": 54897,
+      "word": "陈赫一家四口瑞士度假",
+      "onboard_time": 1759447757,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79358,
       "num": 79358,
       "word": "官方回应高速上SUV低速乱窜",
@@ -5875,6 +5899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 76260,
+      "num": 76260,
+      "word": "大连地铁发生意外故障停运一小时",
+      "onboard_time": 1759425317,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76037,
       "num": 76037,
       "word": "刘些宁扛住了外网镜头",
@@ -5913,14 +5945,6 @@
       "onboard_time": 1759273878,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 75551,
-      "num": 74317,
-      "word": "大连地铁发生意外故障停运一小时",
-      "onboard_time": 1759425317,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75417,
@@ -6083,14 +6107,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 71219,
-      "num": 49238,
-      "word": "印度妇女用纱丽掩人耳目偷走金项链",
-      "onboard_time": 1759447277,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 70925,
       "num": 70925,
       "word": "王楚钦被判发球遮挡",
@@ -6131,12 +6147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69205,
+      "num": 69205,
+      "word": "一款外军战机被赶走再没回来过",
+      "onboard_time": 1759447277,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 68928,
       "num": 68928,
       "word": "AG对战KSG",
       "onboard_time": 1759243222,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 68896,
+      "num": 68896,
+      "word": "双休7千单休9千怎么选",
+      "onboard_time": 1759439174,
+      "rank": 48,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 68689,
@@ -6161,14 +6193,6 @@
       "onboard_time": 1759369519,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 67874,
-      "num": 67874,
-      "word": "导致视力下降的真实原因",
-      "onboard_time": 1759447277,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 67812,
@@ -6331,6 +6355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 59111,
+      "num": 86994,
+      "word": "运动三个月不胖和好瘦的区别",
+      "onboard_time": 1759448117,
+      "rank": 15,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 59010,
       "num": 72235,
       "word": "南京DNA音乐节",
@@ -6401,14 +6433,6 @@
       "onboard_time": 1759414222,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57328,
-      "num": 57328,
-      "word": "双休7千单休9千怎么选",
-      "onboard_time": 1759439174,
-      "rank": 48,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 57171,
@@ -6507,14 +6531,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 53332,
-      "num": 53332,
-      "word": "一款外军战机被赶走再没回来过",
-      "onboard_time": 1759447277,
-      "rank": 28,
-      "category": "军事"
-    },
-    {
       "raw_hot": 53071,
       "num": 53071,
       "word": "欧冠联赛",
@@ -6553,6 +6569,14 @@
       "onboard_time": 1759313899,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51397,
+      "num": 51397,
+      "word": "白宫裁员",
+      "onboard_time": 1759445355,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 50648,
@@ -6667,6 +6691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44624,
+      "num": 44624,
+      "word": "王楚钦回应与安宰贤搭档男双",
+      "onboard_time": 1759448117,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44612,
       "num": 68908,
       "word": "王楚钦直言说不动话了",
@@ -6731,12 +6763,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39533,
-      "num": 39533,
-      "word": "白宫裁员",
-      "onboard_time": 1759445355,
-      "rank": 37,
-      "category": "国际时政"
+      "raw_hot": 40268,
+      "num": 40268,
+      "word": "蔡徐坤国际认可度",
+      "onboard_time": 1759447338,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 39247,
@@ -6795,6 +6827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37989,
+      "num": 40261,
+      "word": "王俊凯小说男主身材比例",
+      "onboard_time": 1759447338,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37853,
       "num": 107577,
       "word": "景区NPC带数百游客攻打县城",
@@ -6849,14 +6889,6 @@
       "onboard_time": 1759424777,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 34465,
-      "num": 39515,
-      "word": "蔡徐坤国际认可度",
-      "onboard_time": 1759447338,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 34404,
@@ -7051,14 +7083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25420,
-      "num": 39449,
-      "word": "王俊凯小说男主身材比例",
-      "onboard_time": 1759447338,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25147,
       "num": 201973,
       "word": "十一假期天气图鉴",
@@ -7195,6 +7219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 14703,
+      "num": 41522,
+      "word": "咪豆音乐节",
+      "onboard_time": 1759427656,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 14446,
       "num": 18179,
       "word": "国旗护卫队降旗后高唱祖国不会忘记",
@@ -7225,14 +7257,6 @@
       "onboard_time": 1759268054,
       "rank": 45,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 13801,
-      "num": 28153,
-      "word": "咪豆音乐节",
-      "onboard_time": 1759427656,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 13419,
