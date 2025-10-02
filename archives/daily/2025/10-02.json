@@ -1,6 +1,6 @@
 {
   "startTime": 1759336314340,
-  "endTime": 1759374680418,
+  "endTime": 1759376246019,
   "band_list": [
     {
       "raw_hot": 1352947,
@@ -43,12 +43,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 847227,
+      "num": 225521,
+      "word": "偏头痛 喝可乐",
+      "onboard_time": 1759372639,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 754830,
       "num": 144821,
       "word": "许我耀眼热度",
       "onboard_time": 1759329203,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 710418,
+      "num": 224996,
+      "word": "迪丽热巴把G社变站姐了",
+      "onboard_time": 1759373599,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 644464,
@@ -65,14 +81,6 @@
       "onboard_time": 1759328904,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 613311,
-      "num": 179446,
-      "word": "迪丽热巴把G社变站姐了",
-      "onboard_time": 1759373599,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 585931,
@@ -107,16 +115,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 496920,
-      "num": 179303,
-      "word": "偏头痛 喝可乐",
-      "onboard_time": 1759372639,
-      "rank": 16,
-      "category": "情感"
+      "raw_hot": 492964,
+      "num": 492964,
+      "word": "韩国阅兵式跆拳道表演出现失误",
+      "onboard_time": 1759374620,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 434111,
-      "num": 177861,
+      "num": 219995,
       "word": "Dior连发4条迪丽热巴",
       "onboard_time": 1759364000,
       "rank": 10,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 381971,
-      "num": 178924,
+      "num": 220839,
       "word": "六小龄童 猴子猴孙这么多",
       "onboard_time": 1759369279,
       "rank": 32,
@@ -147,12 +155,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 361343,
+      "num": 224286,
+      "word": "者来女回复",
+      "onboard_time": 1759374079,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 347582,
       "num": 135390,
       "word": "金价",
       "onboard_time": 1759317381,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 346897,
+      "num": 346897,
+      "word": "西贝冷冻大黄鱼用X光去刺",
+      "onboard_time": 1759373899,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 337216,
@@ -172,7 +196,7 @@
     },
     {
       "raw_hot": 326609,
-      "num": 178685,
+      "num": 222281,
       "word": "王乐晨",
       "onboard_time": 1759369339,
       "rank": 34,
@@ -203,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292290,
+      "num": 292290,
+      "word": "金价又刷新纪录了",
+      "onboard_time": 1759372039,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 290202,
       "num": 94776,
       "word": "短剧男主不接受大尺度吻戏擅自离组",
@@ -225,6 +257,14 @@
       "onboard_time": 1759317620,
       "rank": 17,
       "category": "网红"
+    },
+    {
+      "raw_hot": 276727,
+      "num": 222026,
+      "word": "刘亦菲新狗狗",
+      "onboard_time": 1759374920,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 269957,
@@ -348,11 +388,19 @@
     },
     {
       "raw_hot": 212117,
-      "num": 168866,
+      "num": 169634,
       "word": "皮肤上这种小红点可能是血管瘤",
       "onboard_time": 1759368860,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 211544,
+      "num": 211544,
+      "word": "发现了隐翅虫",
+      "onboard_time": 1759373419,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203419,
@@ -395,6 +443,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 190168,
+      "num": 190168,
+      "word": "倪妮夏露合照",
+      "onboard_time": 1759375580,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189418,
       "num": 189418,
       "word": "国庆中秋假期第2天",
@@ -403,12 +459,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179524,
-      "num": 179524,
-      "word": "金价又刷新纪录了",
-      "onboard_time": 1759372039,
-      "rank": 22,
-      "category": "财经"
+      "raw_hot": 187352,
+      "num": 187352,
+      "word": "关晓彤不用你告诉我什么是真的",
+      "onboard_time": 1759374979,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 174453,
+      "num": 174453,
+      "word": "朋友圈先私密几天后再公开",
+      "onboard_time": 1759374499,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 173864,
@@ -419,16 +483,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171169,
-      "num": 128951,
-      "word": "发现了隐翅虫",
-      "onboard_time": 1759373419,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169293,
-      "num": 122381,
+      "num": 137788,
       "word": "是谁把小狗忘记在高岗高速服务区了",
       "onboard_time": 1759373358,
       "rank": 30,
@@ -459,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161286,
+      "num": 161286,
+      "word": "去年的鸡排哥",
+      "onboard_time": 1759374079,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160598,
       "num": 160598,
       "word": "台湾拒绝美国芯片制造五五分要求",
@@ -483,14 +547,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 148775,
-      "num": 148775,
-      "word": "者来女回复",
-      "onboard_time": 1759374079,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145424,
       "num": 125394,
       "word": "许我耀眼",
@@ -499,8 +555,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142062,
-      "num": 138530,
+      "raw_hot": 142199,
+      "num": 142199,
       "word": "全国多地国庆突降大雪",
       "onboard_time": 1759374139,
       "rank": 28,
@@ -547,6 +603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121271,
+      "num": 121271,
+      "word": "你叫王影璐 你又叫李昀锐",
+      "onboard_time": 1759376059,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119364,
       "num": 119364,
       "word": "发现了相亲最高效的办法",
@@ -555,8 +619,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 116809,
-      "num": 116809,
+      "raw_hot": 116872,
+      "num": 116872,
       "word": "陈妍希夸小海豚太漂亮了",
       "onboard_time": 1759373358,
       "rank": 33,
@@ -579,12 +643,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112940,
+      "num": 112940,
+      "word": "奶皮子拿铁",
+      "onboard_time": 1759373839,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 111013,
       "num": 111013,
       "word": "女设计师聊运20又笑又哭",
       "onboard_time": 1759374319,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 110188,
+      "num": 110188,
+      "word": "王楚钦说我是人不是机器",
+      "onboard_time": 1759375760,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 109570,
@@ -603,20 +683,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 109176,
-      "num": 109176,
-      "word": "去年的鸡排哥",
-      "onboard_time": 1759374079,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106895,
-      "num": 106895,
-      "word": "朋友圈先私密几天后再公开",
-      "onboard_time": 1759374499,
-      "rank": 39,
-      "category": "情感"
+      "raw_hot": 107073,
+      "num": 107073,
+      "word": "特朗普签令袭击卡塔尔就是威胁美国",
+      "onboard_time": 1759376059,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106558,
@@ -635,6 +707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101919,
+      "num": 101919,
+      "word": "特斯拉市值一夜增加3489亿",
+      "onboard_time": 1759375640,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 100921,
       "num": 100921,
       "word": "一笑随歌开播",
@@ -651,14 +731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99340,
-      "num": 99340,
-      "word": "西贝冷冻大黄鱼用X光去刺",
-      "onboard_time": 1759373899,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98856,
       "num": 98856,
       "word": "台风麦德姆已生成",
@@ -668,7 +740,7 @@
     },
     {
       "raw_hot": 98717,
-      "num": 165331,
+      "num": 188536,
       "word": "七旬守岛人一生救下十余人",
       "onboard_time": 1759374319,
       "rank": 21,
@@ -683,12 +755,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97162,
+      "num": 97162,
+      "word": "鸡排哥累到失去表情管理",
+      "onboard_time": 1759374920,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96838,
       "num": 96838,
       "word": "12名大学生轮流维持鸡排哥摊位秩序",
       "onboard_time": 1759337421,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96362,
+      "num": 96362,
+      "word": "王曼昱蒯曼vs长崎美柚申裕斌",
+      "onboard_time": 1759373479,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 94700,
@@ -723,20 +811,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 91826,
-      "num": 91826,
-      "word": "王曼昱蒯曼vs长崎美柚申裕斌",
-      "onboard_time": 1759373479,
+      "raw_hot": 91763,
+      "num": 110330,
+      "word": "景德镇把椅子都借鸡排哥了",
+      "onboard_time": 1759375099,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 89013,
-      "num": 89013,
-      "word": "韩国阅兵式跆拳道表演出现失误",
-      "onboard_time": 1759374620,
-      "rank": 49,
-      "category": "国际时政"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87204,
@@ -777,14 +857,6 @@
       "onboard_time": 1759361598,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 83502,
-      "num": 83502,
-      "word": "奶皮子拿铁",
-      "onboard_time": 1759373839,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 83319,
@@ -939,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65127,
+      "num": 107013,
+      "word": "俄罗斯石脑油最大买家是台湾",
+      "onboard_time": 1759374558,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 64195,
       "num": 68805,
       "word": "许我耀眼预告",
@@ -953,14 +1033,6 @@
       "onboard_time": 1759370900,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 59775,
-      "num": 107013,
-      "word": "俄罗斯石脑油最大买家是台湾",
-      "onboard_time": 1759374558,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 59017,
@@ -1068,7 +1140,7 @@
     },
     {
       "raw_hot": 46439,
-      "num": 130676,
+      "num": 139752,
       "word": "飞猪带B太在东极岛化身守岛人",
       "onboard_time": 1759374319,
       "rank": 29,
