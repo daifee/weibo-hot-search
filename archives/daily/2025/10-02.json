@@ -1,6 +1,6 @@
 {
   "startTime": 1759336314340,
-  "endTime": 1759401698380,
+  "endTime": 1759404034936,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -9,6 +9,14 @@
       "onboard_time": 1759378822,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1658733,
+      "num": 1658733,
+      "word": "冒牌鸡排哥连人带车被劝返",
+      "onboard_time": 1759400120,
+      "rank": 4,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1655850,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1390411,
-      "num": 197734,
+      "num": 202703,
       "word": "迪丽热巴鞋跟断了",
       "onboard_time": 1759387281,
       "rank": 11,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1190318,
-      "num": 197496,
+      "num": 206851,
       "word": "对沈佳润是小孩有了实感",
       "onboard_time": 1759396762,
       "rank": 12,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1100102,
-      "num": 154981,
+      "num": 207332,
       "word": "穆祉丞啥意思",
       "onboard_time": 1759398801,
       "rank": 10,
@@ -147,14 +155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 817765,
-      "num": 817765,
-      "word": "冒牌鸡排哥连人带车被劝返",
-      "onboard_time": 1759400120,
-      "rank": 4,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 788716,
       "num": 298706,
       "word": "迪丽热巴把G社变站姐了",
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 690662,
-      "num": 197208,
+      "num": 199033,
       "word": "管乐三连怼祝绪丹",
       "onboard_time": 1759388960,
       "rank": 19,
@@ -259,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 528355,
+      "num": 528355,
+      "word": "王楚钦vs安宰贤",
+      "onboard_time": 1759401921,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 527474,
       "num": 276528,
       "word": "者来女回复",
@@ -315,6 +323,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 430858,
+      "num": 200424,
+      "word": "陈赫问张子萱需不需要打码",
+      "onboard_time": 1759402760,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 414442,
       "num": 195521,
       "word": "今年三大平台爆剧",
@@ -345,6 +361,14 @@
       "onboard_time": 1759376059,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 392773,
+      "num": 392773,
+      "word": "酒店一天办11场婚宴拱门快摆不下了",
+      "onboard_time": 1759399820,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 381971,
@@ -443,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330738,
+      "num": 330738,
+      "word": "高度近视眼一定要防止视网膜脱落",
+      "onboard_time": 1759398020,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 326609,
       "num": 258702,
       "word": "王乐晨",
@@ -460,7 +492,7 @@
     },
     {
       "raw_hot": 318091,
-      "num": 132487,
+      "num": 158116,
       "word": "马頔 李纯真好看呀",
       "onboard_time": 1759401560,
       "rank": 20,
@@ -635,14 +667,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 254609,
-      "num": 254609,
-      "word": "酒店一天办11场婚宴拱门快摆不下了",
-      "onboard_time": 1759399820,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 242417,
       "num": 242417,
       "word": "戚薇大光明紧身衣圣体",
@@ -689,6 +713,14 @@
       "onboard_time": 1759328721,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 232572,
+      "num": 232572,
+      "word": "中国驻韩国大使馆严正发声",
+      "onboard_time": 1759402940,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 232261,
@@ -779,6 +811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 208994,
+      "num": 208994,
+      "word": "提醒在韩中国游客注意人身安全",
+      "onboard_time": 1759401381,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208529,
       "num": 153923,
       "word": "李晟生日没有感动全是尴尬",
@@ -819,12 +859,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199727,
+      "num": 146776,
+      "word": "内娱26位女明星主演热度破万剧集",
+      "onboard_time": 1759398380,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198942,
       "num": 198942,
       "word": "去年的鸡排哥",
       "onboard_time": 1759374079,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198660,
+      "num": 198660,
+      "word": "巴黎时装周",
+      "onboard_time": 1759403481,
+      "rank": 16,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 197361,
@@ -849,6 +905,14 @@
       "onboard_time": 1759319360,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195622,
+      "num": 195622,
+      "word": "蔡徐坤 mugler",
+      "onboard_time": 1759403241,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 194620,
@@ -881,14 +945,6 @@
       "onboard_time": 1759374979,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 186025,
-      "num": 146776,
-      "word": "内娱26位女明星主演热度破万剧集",
-      "onboard_time": 1759398380,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 184995,
@@ -996,7 +1052,7 @@
     },
     {
       "raw_hot": 166730,
-      "num": 609861,
+      "num": 692737,
       "word": "打卡快乐十一",
       "onboard_time": 1759361478,
       "rank": 9,
@@ -1041,6 +1097,14 @@
       "onboard_time": 1759385901,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161942,
+      "num": 161942,
+      "word": "做手术前一定要多问一句",
+      "onboard_time": 1759398560,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 160598,
@@ -1171,14 +1235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146740,
-      "num": 146740,
-      "word": "高度近视眼一定要防止视网膜脱落",
-      "onboard_time": 1759398020,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 146508,
       "num": 146508,
       "word": "一笑随歌",
@@ -1227,11 +1283,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142912,
+      "num": 118385,
+      "word": "我驻韩使馆就反华游行表明严正立场",
+      "onboard_time": 1759403361,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 142199,
       "num": 142199,
       "word": "全国多地国庆突降大雪",
       "onboard_time": 1759374139,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142032,
+      "num": 142032,
+      "word": "西贝凉糕4块16元6块26元",
+      "onboard_time": 1759402340,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -1331,6 +1403,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 130146,
+      "num": 130146,
+      "word": "时代峰峻工作人员 没走成而已",
+      "onboard_time": 1759403001,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129973,
       "num": 141579,
       "word": "王楚钦林诗栋3比0徐瑛彬袁励岑",
@@ -1403,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122130,
+      "num": 122130,
+      "word": "广西百色洪水",
+      "onboard_time": 1759403542,
+      "rank": 28,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 122055,
       "num": 122055,
       "word": "日本代官山偶遇周杰伦昆凌",
@@ -1441,6 +1529,14 @@
       "onboard_time": 1759372159,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 118466,
+      "num": 118466,
+      "word": "林高远下个赛场见",
+      "onboard_time": 1759401921,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 117482,
@@ -1539,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108951,
+      "num": 108951,
+      "word": "菠萝蜜一家满门忠烈",
+      "onboard_time": 1759400601,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 108664,
       "num": 135910,
       "word": "男子开飞机15分钟回老家过国庆",
@@ -1625,14 +1729,6 @@
       "onboard_time": 1759385420,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104659,
-      "num": 104659,
-      "word": "菠萝蜜一家满门忠烈",
-      "onboard_time": 1759400601,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 104236,
@@ -1739,14 +1835,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 98655,
-      "num": 98655,
-      "word": "提醒在韩中国游客注意人身安全",
-      "onboard_time": 1759401381,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98450,
       "num": 98450,
       "word": "李沁这段确定不是喜剧么",
@@ -1833,6 +1921,14 @@
       "onboard_time": 1759369038,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 93777,
+      "num": 93777,
+      "word": "林高远一言为定",
+      "onboard_time": 1759403421,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 92543,
@@ -1939,12 +2035,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88852,
-      "num": 88852,
-      "word": "做手术前一定要多问一句",
-      "onboard_time": 1759398560,
-      "rank": 41,
-      "category": "健康医疗"
+      "raw_hot": 89517,
+      "num": 89517,
+      "word": "网红以假换真偷朋友包包首饰600万",
+      "onboard_time": 1759402821,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88799,
@@ -1985,6 +2081,14 @@
       "onboard_time": 1759395920,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85997,
+      "num": 85997,
+      "word": "秦臆博原型爆火后请发小当助理",
+      "onboard_time": 1759403181,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 85789,
@@ -2059,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84327,
+      "num": 84327,
+      "word": "Dior大秀藏了多少彩蛋",
+      "onboard_time": 1759403902,
+      "rank": 43,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 83908,
       "num": 83908,
       "word": "全球坚韧船队覆灭",
@@ -2073,6 +2185,14 @@
       "onboard_time": 1759369880,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83027,
+      "num": 83027,
+      "word": "第一次对糖油混合物有了清晰的认知",
+      "onboard_time": 1759400900,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 82658,
@@ -2121,6 +2241,14 @@
       "onboard_time": 1759387701,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78840,
+      "num": 78639,
+      "word": "杨迪模仿鸡排哥",
+      "onboard_time": 1759402102,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 78770,
@@ -2193,14 +2321,6 @@
       "onboard_time": 1759390580,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75243,
-      "num": 75243,
-      "word": "第一次对糖油混合物有了清晰的认知",
-      "onboard_time": 1759400900,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 75081,

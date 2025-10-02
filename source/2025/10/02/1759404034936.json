@@ -1,0 +1,410 @@
+{
+  "runTime": 1759404034936,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1658733,
+        "num": 1658733,
+        "word": "冒牌鸡排哥连人带车被劝返",
+        "onboard_time": 1759400120,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 924635,
+        "num": 924635,
+        "word": "社保补贴",
+        "onboard_time": 1759396880,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30646,
+        "num": 692737,
+        "word": "打卡快乐十一",
+        "onboard_time": 1759361478,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 528355,
+        "num": 528355,
+        "word": "王楚钦vs安宰贤",
+        "onboard_time": 1759401921,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392773,
+        "num": 392773,
+        "word": "酒店一天办11场婚宴拱门快摆不下了",
+        "onboard_time": 1759399820,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330738,
+        "num": 330738,
+        "word": "高度近视眼一定要防止视网膜脱落",
+        "onboard_time": 1759398020,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232572,
+        "num": 232572,
+        "word": "中国驻韩国大使馆严正发声",
+        "onboard_time": 1759402940,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228152,
+        "num": 228152,
+        "word": "微信时间能切换显示方式",
+        "onboard_time": 1759391661,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 223038,
+        "num": 223038,
+        "word": "有人出发2天还没到目的地",
+        "onboard_time": 1759395381,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208994,
+        "num": 208994,
+        "word": "提醒在韩中国游客注意人身安全",
+        "onboard_time": 1759401381,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1009597,
+        "num": 207332,
+        "word": "穆祉丞啥意思",
+        "onboard_time": 1759398801,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 688157,
+        "num": 206851,
+        "word": "对沈佳润是小孩有了实感",
+        "onboard_time": 1759396762,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644866,
+        "num": 204722,
+        "word": "李纯马頔结婚",
+        "onboard_time": 1759378822,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467655,
+        "num": 202703,
+        "word": "迪丽热巴鞋跟断了",
+        "onboard_time": 1759387281,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430858,
+        "num": 200424,
+        "word": "陈赫问张子萱需不需要打码",
+        "onboard_time": 1759402760,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 234260,
+        "num": 199033,
+        "word": "管乐三连怼祝绪丹",
+        "onboard_time": 1759388960,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198660,
+        "num": 198660,
+        "word": "巴黎时装周",
+        "onboard_time": 1759403481,
+        "rank": 16,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 195622,
+        "num": 195622,
+        "word": "蔡徐坤 mugler",
+        "onboard_time": 1759403241,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161942,
+        "num": 161942,
+        "word": "做手术前一定要多问一句",
+        "onboard_time": 1759398560,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 158832,
+        "num": 158832,
+        "word": "女子中百万大奖后隐瞒男友4个多月",
+        "onboard_time": 1759394240,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 263305,
+        "num": 158116,
+        "word": "马頔 李纯真好看呀",
+        "onboard_time": 1759401560,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203703,
+        "num": 150918,
+        "word": "专家建议鸡排哥不要用大豆油",
+        "onboard_time": 1759390820,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199727,
+        "num": 146414,
+        "word": "内娱26位女明星主演热度破万剧集",
+        "onboard_time": 1759398380,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164283,
+        "num": 144470,
+        "word": "轻断食从130斤瘦到90斤",
+        "onboard_time": 1759396341,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 142032,
+        "num": 142032,
+        "word": "西贝凉糕4块16元6块26元",
+        "onboard_time": 1759402340,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154533,
+        "num": 137451,
+        "word": "艺人音乐节坐地起价",
+        "onboard_time": 1759380743,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130146,
+        "num": 130146,
+        "word": "时代峰峻工作人员 没走成而已",
+        "onboard_time": 1759403001,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128355,
+        "num": 128355,
+        "word": "女幼师遇害案凶手已被执行死刑",
+        "onboard_time": 1759394240,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122130,
+        "num": 122130,
+        "word": "广西百色洪水",
+        "onboard_time": 1759403542,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 118466,
+        "num": 118466,
+        "word": "林高远下个赛场见",
+        "onboard_time": 1759401921,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142912,
+        "num": 118385,
+        "word": "我驻韩使馆就反华游行表明严正立场",
+        "onboard_time": 1759403361,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117944,
+        "num": 117944,
+        "word": "男子身家千万因无子被骂哭了一夜",
+        "onboard_time": 1759386500,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116684,
+        "num": 116684,
+        "word": "日本代官山偶遇周杰伦昆凌",
+        "onboard_time": 1759399700,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108951,
+        "num": 108951,
+        "word": "菠萝蜜一家满门忠烈",
+        "onboard_time": 1759400601,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 70808,
+        "num": 101498,
+        "word": "陈凯歌说这场胜利给新中国撑了腰",
+        "onboard_time": 1759400061,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98801,
+        "num": 98801,
+        "word": "蜜雪冰城要卖啤酒了",
+        "onboard_time": 1759385542,
+        "rank": 35,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 97315,
+        "num": 97315,
+        "word": "鹿晗又闷声干大事了",
+        "onboard_time": 1759396102,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95102,
+        "num": 95102,
+        "word": "麦克阿瑟3比0北京国安",
+        "onboard_time": 1759400301,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93777,
+        "num": 93777,
+        "word": "林高远一言为定",
+        "onboard_time": 1759403421,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89517,
+        "num": 89517,
+        "word": "网红以假换真偷朋友包包首饰600万",
+        "onboard_time": 1759402821,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87924,
+        "num": 87924,
+        "word": "今年三大平台爆剧",
+        "onboard_time": 1759387941,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85997,
+        "num": 85997,
+        "word": "秦臆博原型爆火后请发小当助理",
+        "onboard_time": 1759403181,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 85389,
+        "num": 85389,
+        "word": "蔡徐坤背影",
+        "onboard_time": 1759400001,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84327,
+        "num": 84327,
+        "word": "Dior大秀藏了多少彩蛋",
+        "onboard_time": 1759403902,
+        "rank": 43,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 83709,
+        "num": 83709,
+        "word": "女子称登泰山是被人潮传送上去的",
+        "onboard_time": 1759392681,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83574,
+        "num": 83574,
+        "word": "给老人免费修草坪被美国警察逮捕",
+        "onboard_time": 1759400781,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83027,
+        "num": 83027,
+        "word": "第一次对糖油混合物有了清晰的认知",
+        "onboard_time": 1759400900,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78952,
+        "num": 78952,
+        "word": "叶童 硬撑罢了",
+        "onboard_time": 1759398140,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78653,
+        "num": 78653,
+        "word": "年轻人旅游基础打卡就不基础",
+        "onboard_time": 1759398560,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 78840,
+        "num": 78639,
+        "word": "杨迪模仿鸡排哥",
+        "onboard_time": 1759402102,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的明天必将更加美好#"
+    }
+  }
+}
