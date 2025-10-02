@@ -1,0 +1,410 @@
+{
+  "runTime": 1759374680418,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1177157,
+        "num": 1188345,
+        "word": "鸡排哥手臂布满烫伤疤",
+        "onboard_time": 1759364538,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 779454,
+        "num": 779454,
+        "word": "鸡排哥 疲惫",
+        "onboard_time": 1759368621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32257,
+        "num": 661956,
+        "word": "网警提醒5种网络安全风险需警惕",
+        "onboard_time": 1759371080,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 584436,
+        "num": 584436,
+        "word": "环保少女再次被以军扣押",
+        "onboard_time": 1759370780,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 575539,
+        "num": 575539,
+        "word": "9人轮流睡8张床学生已实现1人1铺",
+        "onboard_time": 1759364898,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 556195,
+        "num": 556195,
+        "word": "珍古道尔去世",
+        "onboard_time": 1759361117,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 265164,
+        "num": 265164,
+        "word": "外国网红纷纷沉迷中国修容大法",
+        "onboard_time": 1759367120,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 195583,
+        "num": 195583,
+        "word": "景德镇有在努力接住泼天流量",
+        "onboard_time": 1759334121,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183650,
+        "num": 183650,
+        "word": "清清转辅助",
+        "onboard_time": 1759362139,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179524,
+        "num": 179524,
+        "word": "金价又刷新纪录了",
+        "onboard_time": 1759372039,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 613311,
+        "num": 179446,
+        "word": "迪丽热巴把G社变站姐了",
+        "onboard_time": 1759373599,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 496920,
+        "num": 179303,
+        "word": "偏头痛 喝可乐",
+        "onboard_time": 1759372639,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335024,
+        "num": 178924,
+        "word": "六小龄童 猴子猴孙这么多",
+        "onboard_time": 1759369279,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326609,
+        "num": 178685,
+        "word": "王乐晨",
+        "onboard_time": 1759369339,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235409,
+        "num": 178577,
+        "word": "中网看台上的董卿",
+        "onboard_time": 1759368199,
+        "rank": 14,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 178448,
+        "num": 178448,
+        "word": "国庆中秋假期第2天",
+        "onboard_time": 1759367538,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274402,
+        "num": 177861,
+        "word": "Dior连发4条迪丽热巴",
+        "onboard_time": 1759364000,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 232261,
+        "num": 173974,
+        "word": "丁禹兮控停暴冲马匹",
+        "onboard_time": 1759373839,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206891,
+        "num": 173286,
+        "word": "陈伟霆回应好命哥",
+        "onboard_time": 1759366759,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35659,
+        "num": 169685,
+        "word": "里斯本丸纪念日登上英国大屏",
+        "onboard_time": 1759370900,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206985,
+        "num": 168866,
+        "word": "皮肤上这种小红点可能是血管瘤",
+        "onboard_time": 1759368860,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98717,
+        "num": 165331,
+        "word": "七旬守岛人一生救下十余人",
+        "onboard_time": 1759374319,
+        "rank": 21,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 165019,
+        "num": 165019,
+        "word": "王楚钦林诗栋vs徐瑛彬袁励岑",
+        "onboard_time": 1759373540,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162185,
+        "num": 162185,
+        "word": "这部电影把我的眼睛养得很好",
+        "onboard_time": 1759373899,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158091,
+        "num": 158091,
+        "word": "原来月经量少不是坏事",
+        "onboard_time": 1759364178,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148775,
+        "num": 148775,
+        "word": "者来女回复",
+        "onboard_time": 1759374079,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144892,
+        "num": 144892,
+        "word": "打卡快乐十一",
+        "onboard_time": 1759361478,
+        "rank": 26,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 138934,
+        "num": 138934,
+        "word": "陈伟霆 老钱",
+        "onboard_time": 1759373959,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142062,
+        "num": 138530,
+        "word": "全国多地国庆突降大雪",
+        "onboard_time": 1759374139,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46439,
+        "num": 130676,
+        "word": "飞猪带B太在东极岛化身守岛人",
+        "onboard_time": 1759374319,
+        "rank": 29,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 171169,
+        "num": 128951,
+        "word": "发现了隐翅虫",
+        "onboard_time": 1759373419,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169293,
+        "num": 122381,
+        "word": "是谁把小狗忘记在高岗高速服务区了",
+        "onboard_time": 1759373358,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120318,
+        "num": 120318,
+        "word": "如果你经常侧睡导致肩膀内扣",
+        "onboard_time": 1759372700,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 116809,
+        "num": 116809,
+        "word": "陈妍希夸小海豚太漂亮了",
+        "onboard_time": 1759373358,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116189,
+        "num": 116189,
+        "word": "毕正明的证明 黑马",
+        "onboard_time": 1759370180,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111013,
+        "num": 111013,
+        "word": "女设计师聊运20又笑又哭",
+        "onboard_time": 1759374319,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109176,
+        "num": 109176,
+        "word": "去年的鸡排哥",
+        "onboard_time": 1759374079,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37853,
+        "num": 107577,
+        "word": "景区NPC带数百游客攻打县城",
+        "onboard_time": 1759374379,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59775,
+        "num": 107013,
+        "word": "俄罗斯石脑油最大买家是台湾",
+        "onboard_time": 1759374558,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106895,
+        "num": 106895,
+        "word": "朋友圈先私密几天后再公开",
+        "onboard_time": 1759374499,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104757,
+        "num": 104757,
+        "word": "素颜逛街买衣服才是最优解",
+        "onboard_time": 1759372159,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102817,
+        "num": 102817,
+        "word": "久哲",
+        "onboard_time": 1759362798,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101113,
+        "num": 101113,
+        "word": "发现了相亲最高效的办法",
+        "onboard_time": 1759372159,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100673,
+        "num": 100673,
+        "word": "林心如回应与陈妍希陈晓结亲家",
+        "onboard_time": 1759323321,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99340,
+        "num": 99340,
+        "word": "西贝冷冻大黄鱼用X光去刺",
+        "onboard_time": 1759373899,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98344,
+        "num": 98344,
+        "word": "鸡排哥附近商户称营业额破了纪录",
+        "onboard_time": 1759373479,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95495,
+        "num": 95495,
+        "word": "被得力辞退跛脚员工再发声",
+        "onboard_time": 1759334000,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92907,
+        "num": 92907,
+        "word": "被15秒3次敬礼暖到",
+        "onboard_time": 1759365859,
+        "rank": 47,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 90728,
+        "num": 90728,
+        "word": "许我耀眼热度破31000",
+        "onboard_time": 1759368500,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89013,
+        "num": 89013,
+        "word": "韩国阅兵式跆拳道表演出现失误",
+        "onboard_time": 1759374620,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
