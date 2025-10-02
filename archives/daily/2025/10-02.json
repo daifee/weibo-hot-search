@@ -1,6 +1,6 @@
 {
   "startTime": 1759336314340,
-  "endTime": 1759415147524,
+  "endTime": 1759416163242,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1530425,
+      "num": 216970,
+      "word": "许妍卸妆",
+      "onboard_time": 1759411941,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1506515,
       "num": 1506515,
       "word": "社保补贴",
@@ -43,14 +51,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1406400,
-      "num": 216970,
-      "word": "许妍卸妆",
-      "onboard_time": 1759411941,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1390411,
       "num": 202703,
       "word": "迪丽热巴鞋跟断了",
@@ -65,6 +65,22 @@
       "onboard_time": 1759364538,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1312417,
+      "num": 196624,
+      "word": "成龙王力宏亲了",
+      "onboard_time": 1759414522,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1302673,
+      "num": 1302673,
+      "word": "人人人人人人鸡排哥人人人人人人",
+      "onboard_time": 1759405702,
+      "rank": 20,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1230126,
@@ -219,14 +235,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 775354,
-      "num": 1124056,
-      "word": "人人人人人人鸡排哥人人人人人人",
-      "onboard_time": 1759405702,
-      "rank": 20,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 758636,
       "num": 1117090,
       "word": "鸡排哥太累没说话被指没有情绪价值",
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520819,
+      "num": 192013,
+      "word": "许我耀眼",
+      "onboard_time": 1759312042,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 517394,
       "num": 265821,
       "word": "倪妮夏露合照",
@@ -377,6 +393,14 @@
       "onboard_time": 1759334121,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 500672,
+      "num": 267042,
+      "word": "王楚钦卡壳半天蹦出来一句他老婆",
+      "onboard_time": 1759415541,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 495308,
@@ -425,6 +449,14 @@
       "onboard_time": 1759364000,
       "rank": 10,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 431824,
+      "num": 195943,
+      "word": "宋亚轩第一个售罄",
+      "onboard_time": 1759413862,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 414442,
@@ -497,6 +529,14 @@
       "onboard_time": 1759374499,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 358972,
+      "num": 193667,
+      "word": "智能马桶喷出开水女子被烫伤",
+      "onboard_time": 1759411101,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 356347,
@@ -651,14 +691,6 @@
       "category": "游戏,电影"
     },
     {
-      "raw_hot": 293503,
-      "num": 195943,
-      "word": "宋亚轩第一个售罄",
-      "onboard_time": 1759413862,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 293189,
       "num": 293189,
       "word": "目击者曝46岁女球迷酒后扰序细节",
@@ -689,6 +721,14 @@
       "onboard_time": 1759378340,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 284700,
+      "num": 192218,
+      "word": "许魏洲被cpf贴脸",
+      "onboard_time": 1759414462,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 282628,
@@ -803,14 +843,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 249653,
-      "num": 193667,
-      "word": "智能马桶喷出开水女子被烫伤",
-      "onboard_time": 1759411101,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 248371,
       "num": 224455,
       "word": "陈伟霆我二十来岁就跟着你了",
@@ -833,14 +865,6 @@
       "onboard_time": 1759365859,
       "rank": 6,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 240475,
-      "num": 192218,
-      "word": "许魏洲被cpf贴脸",
-      "onboard_time": 1759414462,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 239929,
@@ -875,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234838,
+      "num": 187734,
+      "word": "多位名人自曝戴呼吸机睡觉",
+      "onboard_time": 1759412241,
+      "rank": 25,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 232261,
       "num": 173974,
       "word": "丁禹兮控停暴冲马匹",
@@ -897,14 +929,6 @@
       "onboard_time": 1759340297,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 231423,
-      "num": 191400,
-      "word": "成龙王力宏亲了",
-      "onboard_time": 1759414522,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 230849,
@@ -1171,20 +1195,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187734,
-      "num": 187734,
-      "word": "多位名人自曝戴呼吸机睡觉",
-      "onboard_time": 1759412241,
-      "rank": 25,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 187352,
       "num": 187352,
       "word": "关晓彤不用你告诉我什么是真的",
       "onboard_time": 1759374979,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186096,
+      "num": 168042,
+      "word": "在中国居住了5年的印度女子",
+      "onboard_time": 1759415302,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 184995,
@@ -1243,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180352,
+      "num": 180352,
+      "word": "王楚钦孙颖莎3比0雨果高桥布鲁娜",
+      "onboard_time": 1759415541,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179675,
       "num": 179675,
       "word": "赵晴又有新剧了",
@@ -1280,6 +1312,14 @@
       "word": "王艺迪终结对桥本帆乃香三连败",
       "onboard_time": 1759413021,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171716,
+      "num": 171716,
+      "word": "WTT大满贯",
+      "onboard_time": 1759415302,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -1571,12 +1611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145424,
-      "num": 135886,
-      "word": "许我耀眼",
-      "onboard_time": 1759312042,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 145777,
+      "num": 145777,
+      "word": "蔡徐坤全球首穿含金量",
+      "onboard_time": 1759412661,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 145088,
@@ -1593,14 +1633,6 @@
       "onboard_time": 1759389442,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 144304,
-      "num": 144304,
-      "word": "蔡徐坤全球首穿含金量",
-      "onboard_time": 1759412661,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 144215,
@@ -1683,6 +1715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140105,
+      "num": 140105,
+      "word": "王楚钦回应连续一日三赛",
+      "onboard_time": 1759415241,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139811,
       "num": 139811,
       "word": "博主11天日播6小时鸡排哥零收益",
@@ -1755,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133509,
+      "num": 131381,
+      "word": "第五人格医生",
+      "onboard_time": 1759414642,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 133269,
       "num": 133269,
       "word": "台湾观众就这样爱上了照镜辞",
@@ -1777,6 +1825,14 @@
       "onboard_time": 1759410442,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132788,
+      "num": 132788,
+      "word": "母亲回应玉米堆垮塌孩子被埋",
+      "onboard_time": 1759415062,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132102,
@@ -1907,12 +1963,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122869,
-      "num": 122869,
-      "word": "母亲回应玉米堆垮塌孩子被埋",
-      "onboard_time": 1759415062,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 122559,
+      "num": 122559,
+      "word": "徐杰因感染带状疱疹无缘粤澳赛",
+      "onboard_time": 1759413742,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 122509,
@@ -1929,14 +1985,6 @@
       "onboard_time": 1759399700,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121585,
-      "num": 121585,
-      "word": "第五人格医生",
-      "onboard_time": 1759414642,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 121531,
@@ -1977,6 +2025,14 @@
       "onboard_time": 1759372159,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119178,
+      "num": 132967,
+      "word": "张艺兴林俊杰又合唱了",
+      "onboard_time": 1759415721,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 118502,
@@ -2147,6 +2203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109464,
+      "num": 109464,
+      "word": "鸡排哥",
+      "onboard_time": 1759416142,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109250,
       "num": 109250,
       "word": "原来这道菜在国外这么火",
@@ -2305,6 +2369,14 @@
       "onboard_time": 1759370000,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102854,
+      "num": 102854,
+      "word": "狼队对战EDGM",
+      "onboard_time": 1759415782,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 102724,
@@ -3163,6 +3235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58013,
+      "num": 381989,
+      "word": "国庆中秋假期游玩好去处",
+      "onboard_time": 1759414222,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57912,
       "num": 68526,
       "word": "您已进入鸡排大道请打开您的塑料袋",
@@ -3209,6 +3289,14 @@
       "onboard_time": 1759408224,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55097,
+      "num": 133186,
+      "word": "王艺迪借鉴孙颖莎和桥本的比赛",
+      "onboard_time": 1759416021,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 55087,
@@ -3289,14 +3377,6 @@
       "onboard_time": 1759396762,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 48020,
-      "num": 381989,
-      "word": "国庆中秋假期游玩好去处",
-      "onboard_time": 1759414222,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46439,
