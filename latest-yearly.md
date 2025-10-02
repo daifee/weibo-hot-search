@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/10/02 12:29:34
+本榜单时间：2025/01/01 00:26:38 ~ 2025/10/02 12:41:53
 </p>
 </blockquote>
 <p>
@@ -1545,6 +1545,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E9%A9%AC%E9%A0%94%E7%BB%93%E5%A9%9A%23" target="weibo">
+李纯马頔结婚（热度：6668945）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%20%E5%A6%82%E5%90%AC%E4%BB%99%E4%B9%90%E8%80%B3%E6%9A%82%E6%98%8E%23" target="weibo">
 单依纯 如听仙乐耳暂明（热度：6624460）
 </a>
@@ -1805,12 +1811,6 @@ ALin秒了（热度：6171972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%A0%A9%E5%AE%81%20%E7%81%B0%E6%8C%87%E7%94%B2%23" target="weibo">
 田栩宁 灰指甲（热度：4633697）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BE%9D%E7%BA%AF%20%E8%88%9E%E5%A6%B9%E5%A8%98%23" target="weibo">
-单依纯 舞妹娘（热度：4626866）
 </a>
 </li>
 

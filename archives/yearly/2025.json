@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1759379374094,
+  "endTime": 1759380113318,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2043,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6668945,
+      "num": 6668945,
+      "word": "李纯马頔结婚",
+      "onboard_time": 1759378822,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6624460,
       "num": 6624460,
       "word": "单依纯 如听仙乐耳暂明",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1753109902,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4626866,
-      "num": 4626866,
-      "word": "单依纯 舞妹娘",
-      "onboard_time": 1752239303,
-      "rank": 25,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

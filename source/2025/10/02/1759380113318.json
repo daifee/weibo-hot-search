@@ -1,0 +1,410 @@
+{
+  "runTime": 1759380113318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 947971,
+        "num": 1151675,
+        "word": "鸡排哥手臂布满烫伤疤",
+        "onboard_time": 1759364538,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 705455,
+        "num": 705455,
+        "word": "珍古道尔去世",
+        "onboard_time": 1759361117,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74138,
+        "num": 513702,
+        "word": "国庆假期第二天",
+        "onboard_time": 1759377379,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 491202,
+        "num": 491202,
+        "word": "韩国阅兵式跆拳道表演出现失误",
+        "onboard_time": 1759374620,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 475829,
+        "num": 475829,
+        "word": "发现了隐翅虫",
+        "onboard_time": 1759373419,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301314,
+        "num": 301314,
+        "word": "恋与深空",
+        "onboard_time": 1759377978,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 234889,
+        "num": 234889,
+        "word": "环保少女再次被以军扣押",
+        "onboard_time": 1759370780,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215467,
+        "num": 215467,
+        "word": "韩75万公务员工作文件丢失且无备份",
+        "onboard_time": 1759376360,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 210760,
+        "num": 210760,
+        "word": "鸡排哥 疲惫",
+        "onboard_time": 1759368621,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166730,
+        "num": 210719,
+        "word": "打卡快乐十一",
+        "onboard_time": 1759361478,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 6668945,
+        "num": 6668945,
+        "word": "李纯马頔结婚",
+        "onboard_time": 1759378822,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 760056,
+        "num": 210383,
+        "word": "刘亦菲新狗狗",
+        "onboard_time": 1759374920,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 550674,
+        "num": 210327,
+        "word": "偏头痛 喝可乐",
+        "onboard_time": 1759372639,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 480650,
+        "num": 210155,
+        "word": "西贝冷冻大黄鱼用X光去刺",
+        "onboard_time": 1759373899,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471058,
+        "num": 209986,
+        "word": "迪丽热巴把G社变站姐了",
+        "onboard_time": 1759373599,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 440784,
+        "num": 209876,
+        "word": "倪妮夏露合照",
+        "onboard_time": 1759375580,
+        "rank": 15,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 403902,
+        "num": 209768,
+        "word": "曝王乐晨是为了气前女友跑去上综艺",
+        "onboard_time": 1759377140,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385261,
+        "num": 209593,
+        "word": "者来女回复",
+        "onboard_time": 1759374079,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363603,
+        "num": 209460,
+        "word": "你叫王影璐 你又叫李昀锐",
+        "onboard_time": 1759376059,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296322,
+        "num": 209290,
+        "word": "恋与深空 万达电影",
+        "onboard_time": 1759379002,
+        "rank": 19,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 367084,
+        "num": 209238,
+        "word": "朋友圈先私密几天后再公开",
+        "onboard_time": 1759374499,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295157,
+        "num": 209025,
+        "word": "刘亦菲国庆自驾游",
+        "onboard_time": 1759377320,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38864,
+        "num": 208915,
+        "word": "Dior春夏秀精彩回顾",
+        "onboard_time": 1759377920,
+        "rank": 22,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 237712,
+        "num": 208800,
+        "word": "董璇介绍张维伊兄弟给好友",
+        "onboard_time": 1759378401,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217164,
+        "num": 208613,
+        "word": "万达电影App崩了",
+        "onboard_time": 1759378340,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 208594,
+        "num": 208594,
+        "word": "戚薇大光明紧身衣圣体",
+        "onboard_time": 1759378279,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203454,
+        "num": 203454,
+        "word": "时代少年团纪录片",
+        "onboard_time": 1759379180,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160980,
+        "num": 193820,
+        "word": "9人轮流睡8张床学生已实现1人1铺",
+        "onboard_time": 1759364898,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110029,
+        "num": 193502,
+        "word": "董子健 把我爹放心上把我按地上",
+        "onboard_time": 1759378761,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49916,
+        "num": 193368,
+        "word": "媒体评飞猪公开课是旅行版TED",
+        "onboard_time": 1759377920,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 193343,
+        "num": 193343,
+        "word": "王乐晨",
+        "onboard_time": 1759369339,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182212,
+        "num": 182212,
+        "word": "林心如谈邱泽许玮甯儿子",
+        "onboard_time": 1759378881,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179337,
+        "num": 179337,
+        "word": "金价又刷新纪录了",
+        "onboard_time": 1759372039,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153109,
+        "num": 153109,
+        "word": "让血糖飙升的3种素菜",
+        "onboard_time": 1759379180,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 62181,
+        "num": 150169,
+        "word": "王曼昱蒯曼女双进四强",
+        "onboard_time": 1759378219,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149191,
+        "num": 149191,
+        "word": "姚安娜穿蜡染旗袍走村T",
+        "onboard_time": 1759379662,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145721,
+        "num": 145721,
+        "word": "Dior连发4条迪丽热巴",
+        "onboard_time": 1759364000,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 141579,
+        "num": 141579,
+        "word": "让高铁商务座亏钱的人出现了",
+        "onboard_time": 1759377860,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125673,
+        "num": 140558,
+        "word": "希腊全国罢工",
+        "onboard_time": 1759379122,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 44970,
+        "num": 139981,
+        "word": "杨博文被同学贴脸开大",
+        "onboard_time": 1759379542,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139811,
+        "num": 139811,
+        "word": "博主11天日播6小时鸡排哥零收益",
+        "onboard_time": 1759379721,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139315,
+        "num": 139315,
+        "word": "人人人人广州塔人人人人",
+        "onboard_time": 1759376419,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136250,
+        "num": 136250,
+        "word": "去年的鸡排哥",
+        "onboard_time": 1759374079,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135886,
+        "num": 135886,
+        "word": "许我耀眼",
+        "onboard_time": 1759376839,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133269,
+        "num": 133269,
+        "word": "台湾观众就这样爱上了照镜辞",
+        "onboard_time": 1759380022,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127429,
+        "num": 127429,
+        "word": "鸡排哥代购每份加价20元",
+        "onboard_time": 1759379721,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126925,
+        "num": 126925,
+        "word": "李一桐 我那体制内女友",
+        "onboard_time": 1759377680,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119887,
+        "num": 119887,
+        "word": "年轻人放假越来越不喜欢凑热闹",
+        "onboard_time": 1759379422,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119034,
+        "num": 119034,
+        "word": "电影志愿军再现细菌战毒气战",
+        "onboard_time": 1759377320,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115923,
+        "num": 115923,
+        "word": "看完之后觉得9块9一杯还是贵了",
+        "onboard_time": 1759377560,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给天津大学全体师生回信#"
+    }
+  }
+}

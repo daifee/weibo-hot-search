@@ -1,10 +1,10 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759379374094,
+  "endTime": 1759380113318,
   "band_list": [
     {
-      "raw_hot": 3448768,
-      "num": 268782,
+      "raw_hot": 6668945,
+      "num": 6668945,
       "word": "李纯马頔结婚",
       "onboard_time": 1759378822,
       "rank": 10,
@@ -827,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 367084,
+      "num": 251839,
+      "word": "朋友圈先私密几天后再公开",
+      "onboard_time": 1759374499,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 365186,
       "num": 365186,
       "word": "鸡排哥周边摊主发声",
@@ -897,14 +905,6 @@
       "onboard_time": 1759285759,
       "rank": 13,
       "category": "演出"
-    },
-    {
-      "raw_hot": 345206,
-      "num": 251839,
-      "word": "朋友圈先私密几天后再公开",
-      "onboard_time": 1759374499,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 343147,
@@ -1003,6 +1003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296322,
+      "num": 249408,
+      "word": "恋与深空 万达电影",
+      "onboard_time": 1759379002,
+      "rank": 23,
+      "category": "游戏,电影"
+    },
+    {
       "raw_hot": 290364,
       "num": 222313,
       "word": "王菊怎么瘦成这样了",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1759275559,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 278466,
-      "num": 249408,
-      "word": "恋与深空 万达电影",
-      "onboard_time": 1759379002,
-      "rank": 23,
-      "category": "游戏,电影"
     },
     {
       "raw_hot": 278048,
@@ -1211,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 237712,
+      "num": 254454,
+      "word": "董璇介绍张维伊兄弟给好友",
+      "onboard_time": 1759378401,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237025,
       "num": 205837,
       "word": "户晨风",
@@ -1347,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215467,
+      "num": 215467,
+      "word": "韩75万公务员工作文件丢失且无备份",
+      "onboard_time": 1759376360,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 214147,
       "num": 214147,
       "word": "中方关于联大第2758号决议的立场文件",
@@ -1459,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203454,
+      "num": 203454,
+      "word": "时代少年团纪录片",
+      "onboard_time": 1759379180,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202662,
       "num": 202662,
       "word": "龚俊田曦薇将演攻玉",
@@ -1497,14 +1521,6 @@
       "onboard_time": 1759374079,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 197364,
-      "num": 197364,
-      "word": "韩75万公务员工作文件丢失且无备份",
-      "onboard_time": 1759376360,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 196522,
@@ -1563,14 +1579,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 193340,
-      "num": 193340,
-      "word": "时代少年团纪录片",
-      "onboard_time": 1759379180,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189500,
       "num": 156690,
       "word": "麻辣鸡和CardiB线下约架",
@@ -1619,6 +1627,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 182212,
+      "num": 182212,
+      "word": "林心如谈邱泽许玮甯儿子",
+      "onboard_time": 1759378881,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179113,
       "num": 179113,
       "word": "北电第一选择挑战中传第一",
@@ -1644,19 +1660,11 @@
     },
     {
       "raw_hot": 175053,
-      "num": 192316,
+      "num": 193502,
       "word": "董子健 把我爹放心上把我按地上",
       "onboard_time": 1759378761,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 173238,
-      "num": 173238,
-      "word": "林心如谈邱泽许玮甯儿子",
-      "onboard_time": 1759378881,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 171372,
@@ -1745,6 +1753,14 @@
       "onboard_time": 1759245261,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166730,
+      "num": 210719,
+      "word": "打卡快乐十一",
+      "onboard_time": 1759361478,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 166667,
@@ -1899,20 +1915,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 155636,
-      "num": 155636,
-      "word": "打卡快乐十一",
-      "onboard_time": 1759361478,
-      "rank": 9,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 153792,
       "num": 153792,
       "word": "曝方媛已产下第三胎",
       "onboard_time": 1759241541,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153109,
+      "num": 153109,
+      "word": "让血糖飙升的3种素菜",
+      "onboard_time": 1759379180,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 152484,
@@ -1952,6 +1968,14 @@
       "word": "李一桐 我那体制内女友",
       "onboard_time": 1759377680,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 149191,
+      "num": 149191,
+      "word": "姚安娜穿蜡染旗袍走村T",
+      "onboard_time": 1759379662,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -2131,6 +2155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139811,
+      "num": 139811,
+      "word": "博主11天日播6小时鸡排哥零收益",
+      "onboard_time": 1759379721,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139405,
       "num": 139405,
       "word": "皮蛋是外国人最讨厌食物第二名",
@@ -2139,12 +2171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 139375,
-      "num": 139375,
-      "word": "让血糖飙升的3种素菜",
-      "onboard_time": 1759379180,
-      "rank": 46,
-      "category": "健康医疗"
+      "raw_hot": 139315,
+      "num": 139315,
+      "word": "人人人人广州塔人人人人",
+      "onboard_time": 1759376419,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139185,
@@ -2267,20 +2299,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 133436,
-      "num": 133436,
-      "word": "人人人人广州塔人人人人",
-      "onboard_time": 1759376419,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133292,
       "num": 167179,
       "word": "辛纳中网夺冠",
       "onboard_time": 1759305680,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133269,
+      "num": 133269,
+      "word": "台湾观众就这样爱上了照镜辞",
+      "onboard_time": 1759380022,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 132983,
@@ -2411,6 +2443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127429,
+      "num": 127429,
+      "word": "鸡排哥代购每份加价20元",
+      "onboard_time": 1759379721,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126676,
       "num": 126676,
       "word": "如益cp官宣后发文",
@@ -2433,6 +2473,14 @@
       "onboard_time": 1759299081,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125673,
+      "num": 149620,
+      "word": "希腊全国罢工",
+      "onboard_time": 1759379122,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 125663,
@@ -2537,6 +2585,14 @@
       "onboard_time": 1759323023,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119887,
+      "num": 119887,
+      "word": "年轻人放假越来越不喜欢凑热闹",
+      "onboard_time": 1759379422,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119612,
@@ -2697,14 +2753,6 @@
       "onboard_time": 1759373479,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112651,
-      "num": 254454,
-      "word": "董璇介绍张维伊兄弟给好友",
-      "onboard_time": 1759378401,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 112238,
@@ -3209,14 +3257,6 @@
       "onboard_time": 1759307840,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 96154,
-      "num": 149620,
-      "word": "希腊全国罢工",
-      "onboard_time": 1759379122,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 96068,
@@ -3867,6 +3907,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 74138,
+      "num": 647430,
+      "word": "国庆假期第二天",
+      "onboard_time": 1759377379,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74106,
       "num": 74106,
       "word": "蒙特利尔林孝埈打卡点",
@@ -3996,7 +4044,7 @@
     },
     {
       "raw_hot": 68537,
-      "num": 192510,
+      "num": 193368,
       "word": "媒体评飞猪公开课是旅行版TED",
       "onboard_time": 1759377920,
       "rank": 29,
@@ -4131,12 +4179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60084,
-      "num": 647430,
-      "word": "国庆假期第二天",
-      "onboard_time": 1759377379,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 62181,
+      "num": 257063,
+      "word": "王曼昱蒯曼女双进四强",
+      "onboard_time": 1759378219,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 58815,
@@ -4177,14 +4225,6 @@
       "onboard_time": 1759275137,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 55859,
-      "num": 257063,
-      "word": "王曼昱蒯曼女双进四强",
-      "onboard_time": 1759378219,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 55539,
@@ -4313,6 +4353,14 @@
       "onboard_time": 1759374319,
       "rank": 29,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 44970,
+      "num": 139981,
+      "word": "杨博文被同学贴脸开大",
+      "onboard_time": 1759379542,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 44815,

@@ -1,10 +1,10 @@
 {
   "startTime": 1759336314340,
-  "endTime": 1759379374094,
+  "endTime": 1759380113318,
   "band_list": [
     {
-      "raw_hot": 3448768,
-      "num": 268782,
+      "raw_hot": 6668945,
+      "num": 6668945,
       "word": "李纯马頔结婚",
       "onboard_time": 1759378822,
       "rank": 10,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 367084,
+      "num": 251839,
+      "word": "朋友圈先私密几天后再公开",
+      "onboard_time": 1759374499,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 354347,
       "num": 354347,
       "word": "金价又刷新纪录了",
@@ -249,14 +257,6 @@
       "onboard_time": 1759377978,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 345206,
-      "num": 251839,
-      "word": "朋友圈先私密几天后再公开",
-      "onboard_time": 1759374499,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 337216,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296322,
+      "num": 249408,
+      "word": "恋与深空 万达电影",
+      "onboard_time": 1759379002,
+      "rank": 23,
+      "category": "游戏,电影"
+    },
+    {
       "raw_hot": 290202,
       "num": 94776,
       "word": "短剧男主不接受大尺度吻戏擅自离组",
@@ -329,14 +337,6 @@
       "onboard_time": 1759330101,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 278466,
-      "num": 249408,
-      "word": "恋与深空 万达电影",
-      "onboard_time": 1759379002,
-      "rank": 23,
-      "category": "游戏,电影"
     },
     {
       "raw_hot": 278047,
@@ -419,6 +419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 237712,
+      "num": 254454,
+      "word": "董璇介绍张维伊兄弟给好友",
+      "onboard_time": 1759378401,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235163,
       "num": 132422,
       "word": "迪丽热巴邝玲玲Orm同框",
@@ -475,12 +483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215467,
+      "num": 215467,
+      "word": "韩75万公务员工作文件丢失且无备份",
+      "onboard_time": 1759376360,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 212117,
       "num": 169634,
       "word": "皮肤上这种小红点可能是血管瘤",
       "onboard_time": 1759368860,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 203454,
+      "num": 203454,
+      "word": "时代少年团纪录片",
+      "onboard_time": 1759379180,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 203419,
@@ -507,14 +531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197364,
-      "num": 197364,
-      "word": "韩75万公务员工作文件丢失且无备份",
-      "onboard_time": 1759376360,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 196522,
       "num": 85641,
       "word": "警方通报女子酒后观赛大声喧哗",
@@ -539,14 +555,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 193340,
-      "num": 193340,
-      "word": "时代少年团纪录片",
-      "onboard_time": 1759379180,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189418,
       "num": 189418,
       "word": "国庆中秋假期第2天",
@@ -563,8 +571,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182212,
+      "num": 182212,
+      "word": "林心如谈邱泽许玮甯儿子",
+      "onboard_time": 1759378881,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175053,
-      "num": 192316,
+      "num": 193502,
       "word": "董子健 把我爹放心上把我按地上",
       "onboard_time": 1759378761,
       "rank": 30,
@@ -577,14 +593,6 @@
       "onboard_time": 1759323742,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173238,
-      "num": 173238,
-      "word": "林心如谈邱泽许玮甯儿子",
-      "onboard_time": 1759378881,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 170060,
@@ -617,6 +625,14 @@
       "onboard_time": 1759361178,
       "rank": 31,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 166730,
+      "num": 210719,
+      "word": "打卡快乐十一",
+      "onboard_time": 1759361478,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 165583,
@@ -659,12 +675,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 155636,
-      "num": 155636,
-      "word": "打卡快乐十一",
-      "onboard_time": 1759361478,
-      "rank": 9,
-      "category": "旅游"
+      "raw_hot": 153109,
+      "num": 153109,
+      "word": "让血糖飙升的3种素菜",
+      "onboard_time": 1759379180,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 151229,
@@ -691,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149191,
+      "num": 149191,
+      "word": "姚安娜穿蜡染旗袍走村T",
+      "onboard_time": 1759379662,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146508,
       "num": 146508,
       "word": "一笑随歌",
@@ -700,7 +724,7 @@
     },
     {
       "raw_hot": 145424,
-      "num": 125394,
+      "num": 135886,
       "word": "许我耀眼",
       "onboard_time": 1759312042,
       "rank": 25,
@@ -723,12 +747,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139375,
-      "num": 139375,
-      "word": "让血糖飙升的3种素菜",
-      "onboard_time": 1759379180,
-      "rank": 46,
-      "category": "健康医疗"
+      "raw_hot": 139811,
+      "num": 139811,
+      "word": "博主11天日播6小时鸡排哥零收益",
+      "onboard_time": 1759379721,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139315,
+      "num": 139315,
+      "word": "人人人人广州塔人人人人",
+      "onboard_time": 1759376419,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134814,
@@ -739,12 +771,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133436,
-      "num": 133436,
-      "word": "人人人人广州塔人人人人",
-      "onboard_time": 1759376419,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 133269,
+      "num": 133269,
+      "word": "台湾观众就这样爱上了照镜辞",
+      "onboard_time": 1759380022,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 132983,
@@ -803,6 +835,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127429,
+      "num": 127429,
+      "word": "鸡排哥代购每份加价20元",
+      "onboard_time": 1759379721,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125673,
+      "num": 149620,
+      "word": "希腊全国罢工",
+      "onboard_time": 1759379122,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 119887,
+      "num": 119887,
+      "word": "年轻人放假越来越不喜欢凑热闹",
+      "onboard_time": 1759379422,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119364,
       "num": 119364,
       "word": "发现了相亲最高效的办法",
@@ -833,14 +889,6 @@
       "onboard_time": 1759373479,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112651,
-      "num": 254454,
-      "word": "董璇介绍张维伊兄弟给好友",
-      "onboard_time": 1759378401,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 111013,
@@ -961,14 +1009,6 @@
       "onboard_time": 1759337421,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96154,
-      "num": 149620,
-      "word": "希腊全国罢工",
-      "onboard_time": 1759379122,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 94700,
@@ -1107,6 +1147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 74138,
+      "num": 647430,
+      "word": "国庆假期第二天",
+      "onboard_time": 1759377379,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73812,
       "num": 73812,
       "word": "西梅汁式恋爱",
@@ -1180,7 +1228,7 @@
     },
     {
       "raw_hot": 68537,
-      "num": 192510,
+      "num": 193368,
       "word": "媒体评飞猪公开课是旅行版TED",
       "onboard_time": 1759377920,
       "rank": 29,
@@ -1251,12 +1299,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 60084,
-      "num": 647430,
-      "word": "国庆假期第二天",
-      "onboard_time": 1759377379,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 62181,
+      "num": 257063,
+      "word": "王曼昱蒯曼女双进四强",
+      "onboard_time": 1759378219,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 59017,
@@ -1304,14 +1352,6 @@
       "word": "孙颖莎兼职裁判",
       "onboard_time": 1759361058,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 55859,
-      "num": 257063,
-      "word": "王曼昱蒯曼女双进四强",
-      "onboard_time": 1759378219,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -1377,6 +1417,14 @@
       "onboard_time": 1759374319,
       "rank": 29,
       "category": "互联网,网红"
+    },
+    {
+      "raw_hot": 44970,
+      "num": 139981,
+      "word": "杨博文被同学贴脸开大",
+      "onboard_time": 1759379542,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 44612,
