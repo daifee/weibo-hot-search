@@ -1,0 +1,410 @@
+{
+  "runTime": 1759400748436,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1506515,
+        "num": 1506515,
+        "word": "社保补贴",
+        "onboard_time": 1759396880,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413989,
+        "num": 413989,
+        "word": "微信时间能切换显示方式",
+        "onboard_time": 1759391661,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 18847,
+        "num": 326761,
+        "word": "打卡快乐十一",
+        "onboard_time": 1759361478,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273235,
+        "num": 273235,
+        "word": "女幼师遇害案凶手已被执行死刑",
+        "onboard_time": 1759394240,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204658,
+        "num": 204658,
+        "word": "冒牌鸡排哥连人带车被劝返",
+        "onboard_time": 1759400120,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 184995,
+        "num": 184995,
+        "word": "女子称登泰山是被人潮传送上去的",
+        "onboard_time": 1759392681,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182709,
+        "num": 182709,
+        "word": "有人出发2天还没到目的地",
+        "onboard_time": 1759395381,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173660,
+        "num": 173660,
+        "word": "酒店一天办11场婚宴拱门快摆不下了",
+        "onboard_time": 1759399820,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151757,
+        "num": 151757,
+        "word": "年轻人旅游基础打卡就不基础",
+        "onboard_time": 1759398560,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 116452,
+        "num": 151433,
+        "word": "国庆假期第二天",
+        "onboard_time": 1759377379,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1063233,
+        "num": 151073,
+        "word": "穆祉丞啥意思",
+        "onboard_time": 1759398801,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1009570,
+        "num": 150643,
+        "word": "对沈佳润是小孩有了实感",
+        "onboard_time": 1759396762,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 855017,
+        "num": 149877,
+        "word": "李纯马頔结婚",
+        "onboard_time": 1759378822,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 744476,
+        "num": 149527,
+        "word": "迪丽热巴鞋跟断了",
+        "onboard_time": 1759387281,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318956,
+        "num": 148835,
+        "word": "女子中百万大奖后隐瞒男友4个多月",
+        "onboard_time": 1759394240,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 290179,
+        "num": 148303,
+        "word": "管乐三连怼祝绪丹",
+        "onboard_time": 1759388960,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153798,
+        "num": 147763,
+        "word": "今年三大平台爆剧",
+        "onboard_time": 1759387941,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 303973,
+        "num": 147434,
+        "word": "王菊晒和李纯在婚姻登记处合照",
+        "onboard_time": 1759382181,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146955,
+        "num": 146955,
+        "word": "蔡徐坤背影",
+        "onboard_time": 1759400001,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45093,
+        "num": 146943,
+        "word": "黄龄为妈妈健康出游能有多操心",
+        "onboard_time": 1759398200,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240576,
+        "num": 146926,
+        "word": "艺人音乐节坐地起价",
+        "onboard_time": 1759380743,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 230306,
+        "num": 146885,
+        "word": "轻断食从130斤瘦到90斤",
+        "onboard_time": 1759396341,
+        "rank": 21,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 96125,
+        "num": 146849,
+        "word": "发现了隐翅虫",
+        "onboard_time": 1759373419,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80130,
+        "num": 146823,
+        "word": "男孩劝阻无效母亲大闹赛场被抬离",
+        "onboard_time": 1759400420,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221636,
+        "num": 146800,
+        "word": "专家建议鸡排哥不要用大豆油",
+        "onboard_time": 1759390820,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186025,
+        "num": 146776,
+        "word": "内娱26位女明星主演热度破万剧集",
+        "onboard_time": 1759398380,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166417,
+        "num": 146755,
+        "word": "穆祉丞高会",
+        "onboard_time": 1759399401,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146740,
+        "num": 146740,
+        "word": "高度近视眼一定要防止视网膜脱落",
+        "onboard_time": 1759398020,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145088,
+        "num": 145088,
+        "word": "鹿晗又闷声干大事了",
+        "onboard_time": 1759396102,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143464,
+        "num": 143464,
+        "word": "男子身家千万因无子被骂哭了一夜",
+        "onboard_time": 1759386500,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120235,
+        "num": 120235,
+        "word": "日本代官山偶遇周杰伦昆凌",
+        "onboard_time": 1759399700,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113894,
+        "num": 113894,
+        "word": "展轩音乐节首秀",
+        "onboard_time": 1759392681,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112765,
+        "num": 112765,
+        "word": "蜜雪冰城要卖啤酒了",
+        "onboard_time": 1759385542,
+        "rank": 32,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 111806,
+        "num": 111806,
+        "word": "陈凯歌说这场胜利给新中国撑了腰",
+        "onboard_time": 1759400061,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1121779,
+        "num": 111600,
+        "word": "景区回应张继科落水",
+        "onboard_time": 1759391360,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111246,
+        "num": 111246,
+        "word": "孙怡带女儿回老家",
+        "onboard_time": 1759397780,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105376,
+        "num": 105376,
+        "word": "成毅两京十五日落水戏",
+        "onboard_time": 1759397840,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454417,
+        "num": 105118,
+        "word": "张继科蹲地拍照下一秒落水",
+        "onboard_time": 1759391360,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104236,
+        "num": 104236,
+        "word": "麦克阿瑟3比0北京国安",
+        "onboard_time": 1759400301,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102417,
+        "num": 102417,
+        "word": "农村大集摆地摊5小时入5971元",
+        "onboard_time": 1759397421,
+        "rank": 39,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 97007,
+        "num": 97007,
+        "word": "叶童 硬撑罢了",
+        "onboard_time": 1759398140,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91609,
+        "num": 91609,
+        "word": "王耀庆贾静雯复刻35年前旧照",
+        "onboard_time": 1759399159,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74974,
+        "num": 91160,
+        "word": "娜扎面对闪光灯不眨眼挑战",
+        "onboard_time": 1759399341,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90979,
+        "num": 90979,
+        "word": "姚冠宇真的染了粉发",
+        "onboard_time": 1759400061,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90562,
+        "num": 90562,
+        "word": "宋亚轩用自己照片当壁纸",
+        "onboard_time": 1759390462,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90412,
+        "num": 90412,
+        "word": "静安路疑似抄袭房思琪",
+        "onboard_time": 1759397360,
+        "rank": 45,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 44073,
+        "num": 80580,
+        "word": "高速堵车的原因竟是路面撒满活鱼",
+        "onboard_time": 1759399040,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80381,
+        "num": 80381,
+        "word": "迪丽热巴临场应变能力",
+        "onboard_time": 1759394781,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80355,
+        "num": 80355,
+        "word": "国庆出游照我就这样发",
+        "onboard_time": 1759400241,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 75851,
+        "num": 75851,
+        "word": "旅游只需要J人和听话的P人",
+        "onboard_time": 1759399159,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

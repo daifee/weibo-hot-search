@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759397994188,
+  "endTime": 1759400748436,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -57,6 +57,14 @@
       "onboard_time": 1759302080,
       "rank": 10,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1506515,
+      "num": 1506515,
+      "word": "社保补贴",
+      "onboard_time": 1759396880,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1445744,
@@ -161,6 +169,14 @@
       "onboard_time": 1759323321,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1063233,
+      "num": 151073,
+      "word": "穆祉丞啥意思",
+      "onboard_time": 1759398801,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1055083,
@@ -531,14 +547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 588717,
-      "num": 588717,
-      "word": "社保补贴",
-      "onboard_time": 1759396880,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 584638,
       "num": 584638,
       "word": "美政府关门",
@@ -835,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 413989,
+      "num": 413989,
+      "word": "微信时间能切换显示方式",
+      "onboard_time": 1759391661,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 412880,
       "num": 289596,
       "word": "国庆档票房前3",
@@ -889,14 +905,6 @@
       "onboard_time": 1759274417,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 386116,
-      "num": 386116,
-      "word": "微信时间能切换显示方式",
-      "onboard_time": 1759391661,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 382031,
@@ -1115,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318956,
+      "num": 195686,
+      "word": "女子中百万大奖后隐瞒男友4个多月",
+      "onboard_time": 1759394240,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 318690,
       "num": 231292,
       "word": "韩国举行大规模阅兵仪式",
@@ -1209,14 +1225,6 @@
       "onboard_time": 1759275559,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 282971,
-      "num": 195686,
-      "word": "女子中百万大奖后隐瞒男友4个多月",
-      "onboard_time": 1759394240,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 282628,
@@ -1499,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230306,
+      "num": 178650,
+      "word": "轻断食从130斤瘦到90斤",
+      "onboard_time": 1759396341,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 227673,
       "num": 157583,
       "word": "27岁真的还很年轻很年轻",
@@ -1659,14 +1675,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 211721,
-      "num": 178650,
-      "word": "轻断食从130斤瘦到90斤",
-      "onboard_time": 1759396341,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 208529,
       "num": 153923,
       "word": "李晟生日没有感动全是尴尬",
@@ -1721,6 +1729,14 @@
       "onboard_time": 1759329262,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204658,
+      "num": 204658,
+      "word": "冒牌鸡排哥连人带车被劝返",
+      "onboard_time": 1759400120,
+      "rank": 4,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 203454,
@@ -1883,6 +1899,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186025,
+      "num": 146776,
+      "word": "内娱26位女明星主演热度破万剧集",
+      "onboard_time": 1759398380,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184995,
+      "num": 198951,
+      "word": "女子称登泰山是被人潮传送上去的",
+      "onboard_time": 1759392681,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184433,
       "num": 184433,
       "word": "安静公主瘦了好多",
@@ -1907,20 +1939,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 182709,
+      "num": 182709,
+      "word": "有人出发2天还没到目的地",
+      "onboard_time": 1759395381,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182212,
       "num": 182212,
       "word": "林心如谈邱泽许玮甯儿子",
       "onboard_time": 1759378881,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 180178,
-      "num": 198951,
-      "word": "女子称登泰山是被人潮传送上去的",
-      "onboard_time": 1759392681,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179675,
@@ -1961,6 +1993,14 @@
       "onboard_time": 1759378761,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173660,
+      "num": 173660,
+      "word": "酒店一天办11场婚宴拱门快摆不下了",
+      "onboard_time": 1759399820,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171606,
@@ -2097,6 +2137,14 @@
       "onboard_time": 1759270756,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 166417,
+      "num": 146755,
+      "word": "穆祉丞高会",
+      "onboard_time": 1759399401,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 166186,
@@ -2307,6 +2355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151757,
+      "num": 151757,
+      "word": "年轻人旅游基础打卡就不基础",
+      "onboard_time": 1759398560,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 151229,
       "num": 151229,
       "word": "让高铁商务座亏钱的人出现了",
@@ -2387,12 +2443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146955,
+      "num": 146955,
+      "word": "蔡徐坤背影",
+      "onboard_time": 1759400001,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146781,
       "num": 146781,
       "word": "小酒窝在天安门举国旗拍照",
       "onboard_time": 1759293140,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146740,
+      "num": 146740,
+      "word": "高度近视眼一定要防止视网膜脱落",
+      "onboard_time": 1759398020,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 146596,
@@ -2449,6 +2521,14 @@
       "onboard_time": 1759280780,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145088,
+      "num": 145088,
+      "word": "鹿晗又闷声干大事了",
+      "onboard_time": 1759396102,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 144974,
@@ -2593,14 +2673,6 @@
       "onboard_time": 1759245561,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 139004,
-      "num": 139004,
-      "word": "鹿晗又闷声干大事了",
-      "onboard_time": 1759396102,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 137452,
@@ -3067,6 +3139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120235,
+      "num": 120235,
+      "word": "日本代官山偶遇周杰伦昆凌",
+      "onboard_time": 1759399700,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119887,
       "num": 119887,
       "word": "年轻人放假越来越不喜欢凑热闹",
@@ -3267,6 +3347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111806,
+      "num": 111806,
+      "word": "陈凯歌说这场胜利给新中国撑了腰",
+      "onboard_time": 1759400061,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111587,
       "num": 111587,
       "word": "断糖30天的身体变化",
@@ -3280,6 +3368,14 @@
       "word": "邓为中世纪古堡王子",
       "onboard_time": 1759325121,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 111246,
+      "num": 111246,
+      "word": "孙怡带女儿回老家",
+      "onboard_time": 1759397780,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -3579,6 +3675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104236,
+      "num": 104236,
+      "word": "麦克阿瑟3比0北京国安",
+      "onboard_time": 1759400301,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104095,
       "num": 104095,
       "word": "刘宇宁魔童降世",
@@ -3633,6 +3737,14 @@
       "onboard_time": 1759376660,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 102417,
+      "num": 102417,
+      "word": "农村大集摆地摊5小时入5971元",
+      "onboard_time": 1759397421,
+      "rank": 34,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 102241,
@@ -3841,6 +3953,14 @@
       "onboard_time": 1759393641,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97007,
+      "num": 97007,
+      "word": "叶童 硬撑罢了",
+      "onboard_time": 1759398140,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 96838,
@@ -4059,6 +4179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91609,
+      "num": 91609,
+      "word": "王耀庆贾静雯复刻35年前旧照",
+      "onboard_time": 1759399159,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 91474,
       "num": 91474,
       "word": "向阳而生奔赴未来",
@@ -4075,6 +4203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90979,
+      "num": 90979,
+      "word": "姚冠宇真的染了粉发",
+      "onboard_time": 1759400061,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 90668,
       "num": 90668,
       "word": "美政府为何老关门",
@@ -4089,6 +4225,14 @@
       "onboard_time": 1759308921,
       "rank": 44,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 90412,
+      "num": 90412,
+      "word": "静安路疑似抄袭房思琪",
+      "onboard_time": 1759397360,
+      "rank": 35,
+      "category": "读书作家"
     },
     {
       "raw_hot": 90287,
@@ -4411,14 +4555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 82680,
-      "num": 82680,
-      "word": "农村大集摆地摊5小时入5971元",
-      "onboard_time": 1759397421,
-      "rank": 34,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 82658,
       "num": 92762,
       "word": "樊振东背着小书包",
@@ -4491,14 +4627,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 81608,
-      "num": 81608,
-      "word": "静安路疑似抄袭房思琪",
-      "onboard_time": 1759397360,
-      "rank": 35,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 80667,
       "num": 80667,
       "word": "林昀儒高承睿男双退赛",
@@ -4515,11 +4643,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80355,
+      "num": 80355,
+      "word": "国庆出游照我就这样发",
+      "onboard_time": 1759400241,
+      "rank": 48,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 80144,
       "num": 131120,
       "word": "90后女律师偷30多次蛋糕盒饭获刑",
       "onboard_time": 1759240761,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80130,
+      "num": 146823,
+      "word": "男孩劝阻无效母亲大闹赛场被抬离",
+      "onboard_time": 1759400420,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -4707,6 +4851,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 75851,
+      "num": 75851,
+      "word": "旅游只需要J人和听话的P人",
+      "onboard_time": 1759399159,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 75701,
       "num": 75701,
       "word": "鹿晗画了泪痣",
@@ -4737,6 +4889,14 @@
       "onboard_time": 1759386741,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74974,
+      "num": 91160,
+      "word": "娜扎面对闪光灯不眨眼挑战",
+      "onboard_time": 1759399341,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 74918,
@@ -5035,14 +5195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60905,
-      "num": 72627,
-      "word": "有人出发2天还没到目的地",
-      "onboard_time": 1759395381,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60467,
       "num": 153144,
       "word": "十一当天有3.6亿人用高德",
@@ -5145,14 +5297,6 @@
       "onboard_time": 1759274538,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 53570,
-      "num": 78715,
-      "word": "孙怡带女儿回老家",
-      "onboard_time": 1759397780,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 53071,
@@ -5283,6 +5427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 45093,
+      "num": 146943,
+      "word": "黄龄为妈妈健康出游能有多操心",
+      "onboard_time": 1759398200,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44970,
       "num": 139981,
       "word": "杨博文被同学贴脸开大",
@@ -5313,6 +5465,14 @@
       "onboard_time": 1759288219,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 44073,
+      "num": 80580,
+      "word": "高速堵车的原因竟是路面撒满活鱼",
+      "onboard_time": 1759399040,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43872,
