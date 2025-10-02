@@ -1,0 +1,410 @@
+{
+  "runTime": 1759405039453,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1728253,
+        "num": 1728253,
+        "word": "冒牌鸡排哥连人带车被劝返",
+        "onboard_time": 1759400120,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 808029,
+        "num": 808029,
+        "word": "社保补贴",
+        "onboard_time": 1759396880,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25684,
+        "num": 662729,
+        "word": "打卡快乐十一",
+        "onboard_time": 1759361478,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540093,
+        "num": 540093,
+        "word": "中国驻韩国大使馆严正发声",
+        "onboard_time": 1759402940,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 486599,
+        "num": 486599,
+        "word": "酒店一天办11场婚宴拱门快摆不下了",
+        "onboard_time": 1759399820,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427215,
+        "num": 427215,
+        "word": "王楚钦vs安宰贤",
+        "onboard_time": 1759401921,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326540,
+        "num": 326540,
+        "word": "高度近视眼一定要防止视网膜脱落",
+        "onboard_time": 1759398020,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 289582,
+        "num": 289582,
+        "word": "提醒在韩中国游客注意人身安全",
+        "onboard_time": 1759401381,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208055,
+        "num": 208055,
+        "word": "有人出发2天还没到目的地",
+        "onboard_time": 1759395381,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189072,
+        "num": 189072,
+        "word": "王楚钦3比0安宰贤",
+        "onboard_time": 1759404261,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1008792,
+        "num": 188765,
+        "word": "穆祉丞啥意思",
+        "onboard_time": 1759398801,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 777689,
+        "num": 188609,
+        "word": "陈赫问张子萱需不需要打码",
+        "onboard_time": 1759402760,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 652368,
+        "num": 188335,
+        "word": "对沈佳润是小孩有了实感",
+        "onboard_time": 1759396762,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590363,
+        "num": 188079,
+        "word": "李纯马頔结婚",
+        "onboard_time": 1759378822,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187776,
+        "num": 187776,
+        "word": "微信时间能切换显示方式",
+        "onboard_time": 1759391661,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 395799,
+        "num": 187395,
+        "word": "迪丽热巴鞋跟断了",
+        "onboard_time": 1759387281,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246822,
+        "num": 184560,
+        "word": "做手术前一定要多问一句",
+        "onboard_time": 1759398560,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227188,
+        "num": 181596,
+        "word": "广西百色洪水",
+        "onboard_time": 1759403542,
+        "rank": 17,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 402275,
+        "num": 179339,
+        "word": "马頔李纯孩子可以叫马思纯",
+        "onboard_time": 1759389321,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221503,
+        "num": 174125,
+        "word": "时代峰峻工作人员 没走成而已",
+        "onboard_time": 1759403001,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201377,
+        "num": 172846,
+        "word": "管乐三连怼祝绪丹",
+        "onboard_time": 1759388960,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171170,
+        "num": 171170,
+        "word": "巴黎时装周",
+        "onboard_time": 1759403481,
+        "rank": 21,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 169762,
+        "num": 169762,
+        "word": "内娱26位女明星主演热度破万剧集",
+        "onboard_time": 1759398380,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168860,
+        "num": 168860,
+        "word": "专家建议鸡排哥不要用大豆油",
+        "onboard_time": 1759390820,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152995,
+        "num": 152995,
+        "word": "轻断食从130斤瘦到90斤",
+        "onboard_time": 1759396341,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 149156,
+        "num": 149156,
+        "word": "蔡徐坤 mugler",
+        "onboard_time": 1759403241,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 143871,
+        "num": 143871,
+        "word": "白敬亭王安宇你俩怎么笑成这样",
+        "onboard_time": 1759404442,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139057,
+        "num": 139057,
+        "word": "甘肃陇西3.7级地震",
+        "onboard_time": 1759404920,
+        "rank": 27,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 138438,
+        "num": 138438,
+        "word": "周启豪0比3雨果",
+        "onboard_time": 1759404862,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135881,
+        "num": 135881,
+        "word": "艺人音乐节坐地起价",
+        "onboard_time": 1759380743,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129765,
+        "num": 129765,
+        "word": "女子中百万大奖后隐瞒男友4个多月",
+        "onboard_time": 1759394240,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119144,
+        "num": 119144,
+        "word": "肖战唱完歌以为自己下班了",
+        "onboard_time": 1759404442,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114883,
+        "num": 114883,
+        "word": "日本代官山偶遇周杰伦昆凌",
+        "onboard_time": 1759399700,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112802,
+        "num": 112802,
+        "word": "张艺兴官宣独立音乐人邓泽鸣",
+        "onboard_time": 1759404682,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112760,
+        "num": 112760,
+        "word": "林高远七个字回应球迷",
+        "onboard_time": 1759404081,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107487,
+        "num": 107487,
+        "word": "男子身家千万因无子被骂哭了一夜",
+        "onboard_time": 1759386500,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107359,
+        "num": 107359,
+        "word": "王楚钦11比4安宰贤",
+        "onboard_time": 1759404321,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104204,
+        "num": 104204,
+        "word": "偷偷藏不住",
+        "onboard_time": 1759404802,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103015,
+        "num": 103015,
+        "word": "西贝凉糕4块16元6块26元",
+        "onboard_time": 1759402340,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100605,
+        "num": 100605,
+        "word": "芒果新老主持人颜值",
+        "onboard_time": 1759404201,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97052,
+        "num": 97052,
+        "word": "蜜雪冰城要卖啤酒了",
+        "onboard_time": 1759385542,
+        "rank": 40,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 93293,
+        "num": 93293,
+        "word": "菠萝蜜一家满门忠烈",
+        "onboard_time": 1759400601,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 93053,
+        "num": 93053,
+        "word": "女幼师遇害案凶手已被执行死刑",
+        "onboard_time": 1759394240,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92042,
+        "num": 92042,
+        "word": "网红以假换真偷朋友包包首饰600万",
+        "onboard_time": 1759402821,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53925,
+        "num": 90567,
+        "word": "陈凯歌说这场胜利给新中国撑了腰",
+        "onboard_time": 1759400061,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89709,
+        "num": 89709,
+        "word": "鹿晗又闷声干大事了",
+        "onboard_time": 1759396102,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83788,
+        "num": 83788,
+        "word": "我驻韩使馆就反华游行表明严正立场",
+        "onboard_time": 1759403361,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 83739,
+        "num": 83739,
+        "word": "国庆节在海外看到中国红",
+        "onboard_time": 1759399641,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83091,
+        "num": 83091,
+        "word": "穆祉丞高会",
+        "onboard_time": 1759399401,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81894,
+        "num": 81894,
+        "word": "馒头月饼出现了",
+        "onboard_time": 1759404981,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的明天必将更加美好#"
+    }
+  }
+}
