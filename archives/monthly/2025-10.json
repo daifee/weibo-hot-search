@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759397168704,
+  "endTime": 1759397994188,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -129,6 +129,14 @@
       "onboard_time": 1759380743,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1190318,
+      "num": 197496,
+      "word": "对沈佳润是小孩有了实感",
+      "onboard_time": 1759396762,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1143185,
@@ -523,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 588717,
+      "num": 588717,
+      "word": "社保补贴",
+      "onboard_time": 1759396880,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 584638,
       "num": 584638,
       "word": "美政府关门",
@@ -569,14 +585,6 @@
       "onboard_time": 1759361537,
       "rank": 0,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 559511,
-      "num": 197496,
-      "word": "对沈佳润是小孩有了实感",
-      "onboard_time": 1759396762,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 555665,
@@ -1203,6 +1211,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 282971,
+      "num": 195686,
+      "word": "女子中百万大奖后隐瞒男友4个多月",
+      "onboard_time": 1759394240,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 282628,
+      "num": 282628,
+      "word": "女幼师遇害案凶手已被执行死刑",
+      "onboard_time": 1759394240,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 278048,
       "num": 225957,
       "word": "蜜雪冰城门店回应多只老鼠横行",
@@ -1217,14 +1241,6 @@
       "onboard_time": 1759392681,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 271842,
-      "num": 195686,
-      "word": "女子中百万大奖后隐瞒男友4个多月",
-      "onboard_time": 1759394240,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 270941,
@@ -1377,14 +1393,6 @@
       "onboard_time": 1759365859,
       "rank": 6,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 240475,
-      "num": 240475,
-      "word": "女幼师遇害案凶手已被执行死刑",
-      "onboard_time": 1759394240,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 239929,
@@ -1547,6 +1555,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 220205,
+      "num": 220205,
+      "word": "鸡排哥最大受益者 正新鸡排",
+      "onboard_time": 1759389442,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217790,
       "num": 149684,
       "word": "迪丽热巴外媒镜头",
@@ -1641,6 +1657,14 @@
       "onboard_time": 1759368860,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 211721,
+      "num": 178650,
+      "word": "轻断食从130斤瘦到90斤",
+      "onboard_time": 1759396341,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 208529,
@@ -1747,14 +1771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199694,
-      "num": 199694,
-      "word": "鸡排哥最大受益者 正新鸡排",
-      "onboard_time": 1759389442,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 198942,
       "num": 198942,
       "word": "去年的鸡排哥",
@@ -1827,6 +1843,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 191408,
+      "num": 179677,
+      "word": "成毅两京十五日落水戏",
+      "onboard_time": 1759397840,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189500,
       "num": 156690,
       "word": "麻辣鸡和CardiB线下约架",
@@ -1889,6 +1913,22 @@
       "onboard_time": 1759378881,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 180178,
+      "num": 198951,
+      "word": "女子称登泰山是被人潮传送上去的",
+      "onboard_time": 1759392681,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179675,
+      "num": 179675,
+      "word": "赵晴又有新剧了",
+      "onboard_time": 1759397180,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 179113,
@@ -2036,7 +2076,7 @@
     },
     {
       "raw_hot": 166730,
-      "num": 210719,
+      "num": 609861,
       "word": "打卡快乐十一",
       "onboard_time": 1759361478,
       "rank": 9,
@@ -2411,14 +2451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145109,
-      "num": 103078,
-      "word": "轻断食从130斤瘦到90斤",
-      "onboard_time": 1759396341,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 144974,
       "num": 144974,
       "word": "宋亚轩说无比帅气的丁行者棒棒",
@@ -2569,14 +2601,6 @@
       "onboard_time": 1759396102,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137670,
-      "num": 198951,
-      "word": "女子称登泰山是被人潮传送上去的",
-      "onboard_time": 1759392681,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137452,
@@ -3395,6 +3419,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 108463,
+      "num": 108463,
+      "word": "严浩翔 我更愿意做出题人",
+      "onboard_time": 1759397060,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108460,
       "num": 108460,
       "word": "捅了美猴王的窝了",
@@ -3955,14 +3987,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 93729,
-      "num": 93729,
-      "word": "社保补贴",
-      "onboard_time": 1759396880,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93465,
       "num": 93465,
       "word": "3个人点9份菜只花58元",
@@ -4387,6 +4411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 82680,
+      "num": 82680,
+      "word": "农村大集摆地摊5小时入5971元",
+      "onboard_time": 1759397421,
+      "rank": 34,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 82658,
       "num": 92762,
       "word": "樊振东背着小书包",
@@ -4459,6 +4491,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 81608,
+      "num": 81608,
+      "word": "静安路疑似抄袭房思琪",
+      "onboard_time": 1759397360,
+      "rank": 35,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 80667,
       "num": 80667,
       "word": "林昀儒高承睿男双退赛",
@@ -4473,14 +4513,6 @@
       "onboard_time": 1759373179,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80314,
-      "num": 80314,
-      "word": "严浩翔 我更愿意做出题人",
-      "onboard_time": 1759397060,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 80144,
@@ -4555,6 +4587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78770,
+      "num": 78770,
+      "word": "泰山游客多到看不见路",
+      "onboard_time": 1759397180,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78096,
       "num": 78096,
       "word": "此生无悔种花家",
@@ -4577,6 +4617,14 @@
       "onboard_time": 1759325661,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 77762,
+      "num": 86531,
+      "word": "龚俊李沁各大晚会都需要的气氛组",
+      "onboard_time": 1759396581,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 77562,
@@ -4643,6 +4691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75929,
+      "num": 75929,
+      "word": "人你的世界太复杂咪先睡了",
+      "onboard_time": 1759397600,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 75888,
       "num": 75888,
       "word": "章若楠出发巴黎了",
@@ -4673,14 +4729,6 @@
       "onboard_time": 1759245681,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75088,
-      "num": 86531,
-      "word": "龚俊李沁各大晚会都需要的气氛组",
-      "onboard_time": 1759396581,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 75081,
@@ -5099,6 +5147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 53570,
+      "num": 78715,
+      "word": "孙怡带女儿回老家",
+      "onboard_time": 1759397780,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53071,
       "num": 53071,
       "word": "欧冠联赛",
@@ -5185,6 +5241,14 @@
       "onboard_time": 1759290740,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48061,
+      "num": 86558,
+      "word": "张峻豪唱了爱是一场浩大的冒险",
+      "onboard_time": 1759396762,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 47365,
@@ -5641,14 +5705,6 @@
       "onboard_time": 1759386620,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 17239,
-      "num": 86558,
-      "word": "张峻豪唱了爱是一场浩大的冒险",
-      "onboard_time": 1759396762,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 16459,

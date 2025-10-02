@@ -1,0 +1,410 @@
+{
+  "runTime": 1759397994188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1354236,
+        "num": 1354236,
+        "word": "景区回应张继科落水",
+        "onboard_time": 1759391360,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 669815,
+        "num": 669815,
+        "word": "张继科蹲地拍照下一秒落水",
+        "onboard_time": 1759391360,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34000,
+        "num": 609861,
+        "word": "打卡快乐十一",
+        "onboard_time": 1759361478,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588717,
+        "num": 588717,
+        "word": "社保补贴",
+        "onboard_time": 1759396880,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380228,
+        "num": 380228,
+        "word": "微信时间能切换显示方式",
+        "onboard_time": 1759391661,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 282628,
+        "num": 282628,
+        "word": "女幼师遇害案凶手已被执行死刑",
+        "onboard_time": 1759394240,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220205,
+        "num": 220205,
+        "word": "鸡排哥最大受益者 正新鸡排",
+        "onboard_time": 1759389442,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180178,
+        "num": 180178,
+        "word": "女子称登泰山是被人潮传送上去的",
+        "onboard_time": 1759392681,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137277,
+        "num": 180159,
+        "word": "发现了隐翅虫",
+        "onboard_time": 1759373419,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112438,
+        "num": 180126,
+        "word": "国庆假期第二天",
+        "onboard_time": 1759377379,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1190318,
+        "num": 180046,
+        "word": "对沈佳润是小孩有了实感",
+        "onboard_time": 1759396762,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1087277,
+        "num": 180014,
+        "word": "李纯马頔结婚",
+        "onboard_time": 1759378822,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 709505,
+        "num": 179988,
+        "word": "迪丽热巴鞋跟断了",
+        "onboard_time": 1759387281,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421287,
+        "num": 179919,
+        "word": "管乐三连怼祝绪丹",
+        "onboard_time": 1759388960,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394775,
+        "num": 179896,
+        "word": "鸡排哥太累没说话被指没有情绪价值",
+        "onboard_time": 1759382720,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282971,
+        "num": 179832,
+        "word": "女子中百万大奖后隐瞒男友4个多月",
+        "onboard_time": 1759394240,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 394406,
+        "num": 179792,
+        "word": "王菊晒和李纯在婚姻登记处合照",
+        "onboard_time": 1759382181,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229770,
+        "num": 179748,
+        "word": "今年三大平台爆剧",
+        "onboard_time": 1759387941,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191408,
+        "num": 179677,
+        "word": "成毅两京十五日落水戏",
+        "onboard_time": 1759397840,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179675,
+        "num": 179675,
+        "word": "赵晴又有新剧了",
+        "onboard_time": 1759397180,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351548,
+        "num": 179655,
+        "word": "艺人音乐节坐地起价",
+        "onboard_time": 1759380743,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224606,
+        "num": 179302,
+        "word": "专家建议鸡排哥不要用大豆油",
+        "onboard_time": 1759390820,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211721,
+        "num": 178650,
+        "word": "轻断食从130斤瘦到90斤",
+        "onboard_time": 1759396341,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 2156,
+        "num": 178342,
+        "word": "满街五星红旗是中国的浪漫",
+        "onboard_time": 1759321579,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178297,
+        "num": 178297,
+        "word": "展轩音乐节首秀",
+        "onboard_time": 1759392681,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 170433,
+        "num": 170433,
+        "word": "男子身家千万因无子被骂哭了一夜",
+        "onboard_time": 1759386500,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140019,
+        "num": 140019,
+        "word": "蜜雪冰城要卖啤酒了",
+        "onboard_time": 1759385542,
+        "rank": 26,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 132700,
+        "num": 132700,
+        "word": "鹿晗又闷声干大事了",
+        "onboard_time": 1759396102,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117312,
+        "num": 117312,
+        "word": "金价太高有人囤金条为两儿子打算",
+        "onboard_time": 1759388359,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108463,
+        "num": 108463,
+        "word": "严浩翔 我更愿意做出题人",
+        "onboard_time": 1759397060,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104491,
+        "num": 104491,
+        "word": "鸡排哥手臂布满烫伤疤",
+        "onboard_time": 1759364538,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101538,
+        "num": 101538,
+        "word": "宋亚轩用自己照片当壁纸",
+        "onboard_time": 1759390462,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99638,
+        "num": 99638,
+        "word": "狗子因为太胖而躲过一劫",
+        "onboard_time": 1759387102,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83927,
+        "num": 83927,
+        "word": "迪丽热巴临场应变能力",
+        "onboard_time": 1759394781,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82680,
+        "num": 82680,
+        "word": "农村大集摆地摊5小时入5971元",
+        "onboard_time": 1759397421,
+        "rank": 34,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 81608,
+        "num": 81608,
+        "word": "静安路疑似抄袭房思琪",
+        "onboard_time": 1759397360,
+        "rank": 35,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 168289,
+        "num": 81155,
+        "word": "鸡排哥代购每份加价20元",
+        "onboard_time": 1759379721,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80581,
+        "num": 80581,
+        "word": "买短乘长致高铁临停能全怪乘客吗",
+        "onboard_time": 1759396639,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78770,
+        "num": 78770,
+        "word": "泰山游客多到看不见路",
+        "onboard_time": 1759397180,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53570,
+        "num": 78715,
+        "word": "孙怡带女儿回老家",
+        "onboard_time": 1759397780,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78672,
+        "num": 78672,
+        "word": "江苏一酒店屋面局部倾塌4人被救",
+        "onboard_time": 1759392921,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48061,
+        "num": 77995,
+        "word": "张峻豪唱了爱是一场浩大的冒险",
+        "onboard_time": 1759396762,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77762,
+        "num": 77762,
+        "word": "龚俊李沁各大晚会都需要的气氛组",
+        "onboard_time": 1759396581,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75929,
+        "num": 75929,
+        "word": "人你的世界太复杂咪先睡了",
+        "onboard_time": 1759397600,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75550,
+        "num": 75550,
+        "word": "第一次看到这么多明星演短剧",
+        "onboard_time": 1759392141,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74431,
+        "num": 74431,
+        "word": "确认被爱后面相全都变了",
+        "onboard_time": 1759392740,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70859,
+        "num": 70859,
+        "word": "赵樱子家三代女性同框合唱",
+        "onboard_time": 1759393461,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70732,
+        "num": 70732,
+        "word": "两客机在纽约机场相撞",
+        "onboard_time": 1759387881,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69404,
+        "num": 69404,
+        "word": "樊振东背着小书包",
+        "onboard_time": 1759393941,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68265,
+        "num": 68265,
+        "word": "王晓彤没叫暂停就是整理下头发",
+        "onboard_time": 1759395920,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的明天必将更加美好#"
+    }
+  }
+}
