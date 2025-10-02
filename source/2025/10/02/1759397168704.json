@@ -1,0 +1,410 @@
+{
+  "runTime": 1759397168704,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1655850,
+        "num": 1655850,
+        "word": "景区回应张继科落水",
+        "onboard_time": 1759391360,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 876578,
+        "num": 876578,
+        "word": "张继科蹲地拍照下一秒落水",
+        "onboard_time": 1759391360,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1231,
+        "num": 451760,
+        "word": "追光的你",
+        "onboard_time": 1759377079,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386116,
+        "num": 386116,
+        "word": "微信时间能切换显示方式",
+        "onboard_time": 1759391661,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 240475,
+        "num": 240475,
+        "word": "女幼师遇害案凶手已被执行死刑",
+        "onboard_time": 1759394240,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199694,
+        "num": 199694,
+        "word": "鸡排哥最大受益者 正新鸡排",
+        "onboard_time": 1759389442,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142093,
+        "num": 199472,
+        "word": "发现了隐翅虫",
+        "onboard_time": 1759373419,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134812,
+        "num": 199284,
+        "word": "鸡排哥手臂布满烫伤疤",
+        "onboard_time": 1759364538,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119892,
+        "num": 198951,
+        "word": "女子称登泰山是被人潮传送上去的",
+        "onboard_time": 1759392681,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100820,
+        "num": 198686,
+        "word": "国庆假期第二天",
+        "onboard_time": 1759377379,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1190984,
+        "num": 198077,
+        "word": "李纯马頔结婚",
+        "onboard_time": 1759378822,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 765744,
+        "num": 197734,
+        "word": "迪丽热巴鞋跟断了",
+        "onboard_time": 1759387281,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559511,
+        "num": 197496,
+        "word": "对沈佳润是小孩有了实感",
+        "onboard_time": 1759396762,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514315,
+        "num": 197208,
+        "word": "管乐三连怼祝绪丹",
+        "onboard_time": 1759388960,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410798,
+        "num": 196988,
+        "word": "鸡排哥太累没说话被指没有情绪价值",
+        "onboard_time": 1759382720,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453055,
+        "num": 196380,
+        "word": "王菊晒和李纯在婚姻登记处合照",
+        "onboard_time": 1759382181,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50196,
+        "num": 196071,
+        "word": "Dior秀场已经nextlevel了",
+        "onboard_time": 1759392440,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 271842,
+        "num": 195686,
+        "word": "女子中百万大奖后隐瞒男友4个多月",
+        "onboard_time": 1759394240,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 268943,
+        "num": 195521,
+        "word": "今年三大平台爆剧",
+        "onboard_time": 1759387941,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216251,
+        "num": 195208,
+        "word": "鸡排哥代购每份加价20元",
+        "onboard_time": 1759379721,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395175,
+        "num": 194932,
+        "word": "艺人音乐节坐地起价",
+        "onboard_time": 1759380743,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 308989,
+        "num": 194651,
+        "word": "专家建议鸡排哥不要用大豆油",
+        "onboard_time": 1759390820,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209898,
+        "num": 194262,
+        "word": "展轩音乐节首秀",
+        "onboard_time": 1759392681,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194017,
+        "num": 194017,
+        "word": "男子身家千万因无子被骂哭了一夜",
+        "onboard_time": 1759386500,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94405,
+        "num": 160201,
+        "word": "两客机在纽约机场相撞",
+        "onboard_time": 1759387881,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142394,
+        "num": 142394,
+        "word": "蜜雪冰城要卖啤酒了",
+        "onboard_time": 1759385542,
+        "rank": 25,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 139004,
+        "num": 139004,
+        "word": "鹿晗又闷声干大事了",
+        "onboard_time": 1759396102,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136201,
+        "num": 136201,
+        "word": "金价太高有人囤金条为两儿子打算",
+        "onboard_time": 1759388359,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119327,
+        "num": 119327,
+        "word": "狗子因为太胖而躲过一劫",
+        "onboard_time": 1759387102,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106960,
+        "num": 106960,
+        "word": "宋亚轩用自己照片当壁纸",
+        "onboard_time": 1759390462,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145109,
+        "num": 103078,
+        "word": "轻断食从130斤瘦到90斤",
+        "onboard_time": 1759396341,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 95076,
+        "num": 95076,
+        "word": "张继科回应拍瀑布时突然落水",
+        "onboard_time": 1759396221,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93729,
+        "num": 93729,
+        "word": "社保补贴",
+        "onboard_time": 1759396880,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91103,
+        "num": 91103,
+        "word": "迪丽热巴临场应变能力",
+        "onboard_time": 1759394781,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90533,
+        "num": 90533,
+        "word": "第一次看到这么多明星演短剧",
+        "onboard_time": 1759392141,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89652,
+        "num": 89652,
+        "word": "买短乘长致高铁临停能全怪乘客吗",
+        "onboard_time": 1759396639,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87380,
+        "num": 87380,
+        "word": "确认被爱后面相全都变了",
+        "onboard_time": 1759392740,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86988,
+        "num": 86988,
+        "word": "江苏一酒店屋面局部倾塌4人被救",
+        "onboard_time": 1759392921,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17239,
+        "num": 86558,
+        "word": "张峻豪唱了爱是一场浩大的冒险",
+        "onboard_time": 1759396762,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 75088,
+        "num": 86531,
+        "word": "龚俊李沁各大晚会都需要的气氛组",
+        "onboard_time": 1759396581,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86530,
+        "num": 86530,
+        "word": "王晓彤没叫暂停就是整理下头发",
+        "onboard_time": 1759395920,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80979,
+        "num": 80979,
+        "word": "赵樱子家三代女性同框合唱",
+        "onboard_time": 1759393461,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80314,
+        "num": 80314,
+        "word": "严浩翔 我更愿意做出题人",
+        "onboard_time": 1759397060,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78990,
+        "num": 78990,
+        "word": "全球坚韧船队覆灭",
+        "onboard_time": 1759394601,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 76893,
+        "num": 76893,
+        "word": "樊振东背着小书包",
+        "onboard_time": 1759393941,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76417,
+        "num": 76417,
+        "word": "樊振东孙颖莎等健儿加油海报",
+        "onboard_time": 1759393641,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46368,
+        "num": 75784,
+        "word": "邓超演技",
+        "onboard_time": 1759395441,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 75224,
+        "num": 75224,
+        "word": "李晟生日没有感动全是尴尬",
+        "onboard_time": 1759386380,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73453,
+        "num": 73453,
+        "word": "于正辣评短剧妆造",
+        "onboard_time": 1759391060,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60905,
+        "num": 72627,
+        "word": "有人出发2天还没到目的地",
+        "onboard_time": 1759395381,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国的明天必将更加美好#"
+    }
+  }
+}
