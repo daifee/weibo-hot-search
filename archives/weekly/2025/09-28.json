@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759376246019,
+  "endTime": 1759376792359,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -555,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 968445,
+      "num": 305830,
+      "word": "偏头痛 喝可乐",
+      "onboard_time": 1759372639,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 967166,
       "num": 1154746,
       "word": "黄金价格飙涨",
@@ -811,14 +819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 847227,
-      "num": 225521,
-      "word": "偏头痛 喝可乐",
-      "onboard_time": 1759372639,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 843457,
       "num": 305787,
       "word": "疯狂动物城2内地定档",
@@ -953,6 +953,14 @@
       "onboard_time": 1759128141,
       "rank": 10,
       "category": "演出"
+    },
+    {
+      "raw_hot": 788716,
+      "num": 298706,
+      "word": "迪丽热巴把G社变站姐了",
+      "onboard_time": 1759373599,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 787358,
@@ -1097,14 +1105,6 @@
       "onboard_time": 1759029620,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 710418,
-      "num": 224996,
-      "word": "迪丽热巴把G社变站姐了",
-      "onboard_time": 1759373599,
-      "rank": 10,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 706971,
@@ -1475,6 +1475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 603657,
+      "num": 284153,
+      "word": "刘亦菲新狗狗",
+      "onboard_time": 1759374920,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 602661,
       "num": 602661,
       "word": "月饼名字是把配料表抄上去了吧",
@@ -1625,6 +1633,14 @@
       "onboard_time": 1759114459,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 583769,
+      "num": 583769,
+      "word": "韩国阅兵式跆拳道表演出现失误",
+      "onboard_time": 1759374620,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 582946,
@@ -1859,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 518602,
+      "num": 276528,
+      "word": "者来女回复",
+      "onboard_time": 1759374079,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 517190,
       "num": 353757,
       "word": "肖战看沈佳润舞台直拍",
@@ -2035,14 +2059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 492964,
-      "num": 492964,
-      "word": "韩国阅兵式跆拳道表演出现失误",
-      "onboard_time": 1759374620,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 490772,
       "num": 225438,
       "word": "张檬让父母消毒后抱孩子",
@@ -2128,6 +2144,14 @@
       "word": "医院隐翅虫皮炎患者接诊量翻倍",
       "onboard_time": 1759199359,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 468639,
+      "num": 468639,
+      "word": "西贝冷冻大黄鱼用X光去刺",
+      "onboard_time": 1759373899,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -2716,7 +2740,7 @@
     },
     {
       "raw_hot": 381971,
-      "num": 220839,
+      "num": 239996,
       "word": "六小龄童 猴子猴孙这么多",
       "onboard_time": 1759369279,
       "rank": 32,
@@ -2859,14 +2883,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 361343,
-      "num": 224286,
-      "word": "者来女回复",
-      "onboard_time": 1759374079,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 360820,
       "num": 360820,
       "word": "王健林还剩什么资产",
@@ -2915,6 +2931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 354347,
+      "num": 354347,
+      "word": "金价又刷新纪录了",
+      "onboard_time": 1759372039,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 352919,
       "num": 220158,
       "word": "中国K字签证要守三关",
@@ -2960,14 +2984,6 @@
       "word": "二婚妻子不满丈夫摆烂打牌怒卖房",
       "onboard_time": 1759311080,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 346897,
-      "num": 346897,
-      "word": "西贝冷冻大黄鱼用X光去刺",
-      "onboard_time": 1759373899,
-      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -3076,7 +3092,7 @@
     },
     {
       "raw_hot": 326609,
-      "num": 222281,
+      "num": 258702,
       "word": "王乐晨",
       "onboard_time": 1759369339,
       "rank": 34,
@@ -3161,6 +3177,14 @@
       "onboard_time": 1759202120,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 314112,
+      "num": 314112,
+      "word": "发现了隐翅虫",
+      "onboard_time": 1759373419,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 311990,
@@ -3339,14 +3363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 292290,
-      "num": 292290,
-      "word": "金价又刷新纪录了",
-      "onboard_time": 1759372039,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 290947,
       "num": 290947,
       "word": "暗河传",
@@ -3499,14 +3515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 276727,
-      "num": 222026,
-      "word": "刘亦菲新狗狗",
-      "onboard_time": 1759374920,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 275031,
       "num": 275031,
       "word": "Peanut官宣今年退役",
@@ -3537,6 +3545,14 @@
       "onboard_time": 1759313479,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265821,
+      "num": 265821,
+      "word": "倪妮夏露合照",
+      "onboard_time": 1759375580,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 265094,
@@ -4251,6 +4267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214350,
+      "num": 205829,
+      "word": "朋友圈先私密几天后再公开",
+      "onboard_time": 1759374499,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213887,
       "num": 213887,
       "word": "三婚就是比前两次会挑时候",
@@ -4329,14 +4353,6 @@
       "onboard_time": 1759070064,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211544,
-      "num": 211544,
-      "word": "发现了隐翅虫",
-      "onboard_time": 1759373419,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 210324,
@@ -4441,6 +4457,14 @@
       "onboard_time": 1759288280,
       "rank": 26,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 205686,
+      "num": 205686,
+      "word": "你叫王影璐 你又叫李昀锐",
+      "onboard_time": 1759376059,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 205099,
@@ -4601,6 +4625,14 @@
       "onboard_time": 1759140682,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198942,
+      "num": 198942,
+      "word": "去年的鸡排哥",
+      "onboard_time": 1759374079,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198706,
@@ -4945,14 +4977,6 @@
       "onboard_time": 1759069225,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 190168,
-      "num": 190168,
-      "word": "倪妮夏露合照",
-      "onboard_time": 1759375580,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 189670,
@@ -5451,14 +5475,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 174453,
-      "num": 174453,
-      "word": "朋友圈先私密几天后再公开",
-      "onboard_time": 1759374499,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 174412,
       "num": 170755,
       "word": "欧阳娜娜LV看秀造型",
@@ -5609,6 +5625,14 @@
       "onboard_time": 1759328302,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170060,
+      "num": 170060,
+      "word": "陈伟霆 老钱",
+      "onboard_time": 1759373959,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 169517,
@@ -6025,14 +6049,6 @@
       "onboard_time": 1759233741,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161286,
-      "num": 161286,
-      "word": "去年的鸡排哥",
-      "onboard_time": 1759374079,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161267,
@@ -7211,14 +7227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138934,
-      "num": 138934,
-      "word": "陈伟霆 老钱",
-      "onboard_time": 1759373959,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 138532,
       "num": 138532,
       "word": "哄女友生存手册",
@@ -7475,6 +7483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134814,
+      "num": 134814,
+      "word": "陈妍希夸小海豚太漂亮了",
+      "onboard_time": 1759373358,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134621,
       "num": 134621,
       "word": "猫 帮我把乳牙收起来",
@@ -7587,6 +7603,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 133425,
+      "num": 133425,
+      "word": "人人人人广州塔人人人人",
+      "onboard_time": 1759376419,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133407,
       "num": 133407,
       "word": "AG对战KSG",
@@ -7625,6 +7649,14 @@
       "onboard_time": 1759148840,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132983,
+      "num": 132983,
+      "word": "王楚钦说我是人不是机器",
+      "onboard_time": 1759375760,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 132953,
@@ -7841,6 +7873,14 @@
       "onboard_time": 1759235361,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130156,
+      "num": 130156,
+      "word": "奶皮子拿铁",
+      "onboard_time": 1759373839,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 130006,
@@ -8659,14 +8699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121271,
-      "num": 121271,
-      "word": "你叫王影璐 你又叫李昀锐",
-      "onboard_time": 1759376059,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121159,
       "num": 121159,
       "word": "杜华董璇为好友庆生",
@@ -9043,14 +9075,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 116872,
-      "num": 116872,
-      "word": "陈妍希夸小海豚太漂亮了",
-      "onboard_time": 1759373358,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116597,
       "num": 132912,
       "word": "邓超好六这集我在春晚看过",
@@ -9379,19 +9403,19 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 112940,
-      "num": 112940,
-      "word": "奶皮子拿铁",
-      "onboard_time": 1759373839,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 112874,
       "num": 112874,
       "word": "天价月饼都降价了",
       "onboard_time": 1759223242,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112801,
+      "num": 112801,
+      "word": "鸡排哥附近商户称营业额破了纪录",
+      "onboard_time": 1759373479,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -9635,20 +9659,20 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 110275,
+      "num": 110275,
+      "word": "韩75万公务员工作文件丢失且无备份",
+      "onboard_time": 1759376360,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 110255,
       "num": 110255,
       "word": "男生回应做老房子微缩模型年入百万",
       "onboard_time": 1759196901,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110188,
-      "num": 110188,
-      "word": "王楚钦说我是人不是机器",
-      "onboard_time": 1759375760,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 110100,
@@ -9811,6 +9835,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 108571,
+      "num": 108571,
+      "word": "鸡排哥累到失去表情管理",
+      "onboard_time": 1759374920,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108466,
       "num": 123150,
       "word": "请时代少年团像请了观众群演",
@@ -9905,6 +9937,14 @@
       "onboard_time": 1759149561,
       "rank": 43,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 107135,
+      "num": 107135,
+      "word": "特斯拉市值一夜增加3489亿",
+      "onboard_time": 1759375640,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 107098,
@@ -10387,6 +10427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102724,
+      "num": 102724,
+      "word": "月饼界的爱马仕一粒售价40元",
+      "onboard_time": 1759376660,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 102527,
       "num": 213181,
       "word": "中外顶流跨越千年为孔子团建",
@@ -10489,14 +10537,6 @@
       "onboard_time": 1759217061,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101919,
-      "num": 101919,
-      "word": "特斯拉市值一夜增加3489亿",
-      "onboard_time": 1759375640,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 101805,
@@ -10804,7 +10844,7 @@
     },
     {
       "raw_hot": 98717,
-      "num": 188536,
+      "num": 205839,
       "word": "七旬守岛人一生救下十余人",
       "onboard_time": 1759374319,
       "rank": 21,
@@ -10824,14 +10864,6 @@
       "word": "第一次见全是单间的卧铺动车",
       "onboard_time": 1759220900,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98344,
-      "num": 98344,
-      "word": "鸡排哥附近商户称营业额破了纪录",
-      "onboard_time": 1759373479,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -10891,12 +10923,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 97162,
-      "num": 97162,
-      "word": "鸡排哥累到失去表情管理",
-      "onboard_time": 1759374920,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 97311,
+      "num": 97311,
+      "word": "王曼昱蒯曼vs长崎美柚申裕斌",
+      "onboard_time": 1759373479,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 97084,
@@ -10993,14 +11025,6 @@
       "onboard_time": 1759131320,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 96362,
-      "num": 96362,
-      "word": "王曼昱蒯曼vs长崎美柚申裕斌",
-      "onboard_time": 1759373479,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 96249,
@@ -13804,7 +13828,7 @@
     },
     {
       "raw_hot": 46439,
-      "num": 139752,
+      "num": 141557,
       "word": "飞猪带B太在东极岛化身守岛人",
       "onboard_time": 1759374319,
       "rank": 29,
@@ -14356,7 +14380,7 @@
     },
     {
       "raw_hot": 32257,
-      "num": 683034,
+      "num": 690929,
       "word": "网警提醒5种网络安全风险需警惕",
       "onboard_time": 1759371080,
       "rank": 2,
@@ -15113,6 +15137,14 @@
       "onboard_time": 1759006394,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 11212,
+      "num": 126718,
+      "word": "刺小导演拍摄时代少年团演唱会全程",
+      "onboard_time": 1759376719,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 10430,
