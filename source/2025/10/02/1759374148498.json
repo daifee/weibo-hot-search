@@ -1,0 +1,410 @@
+{
+  "runTime": 1759374148498,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1207442,
+        "num": 1207442,
+        "word": "鸡排哥手臂布满烫伤疤",
+        "onboard_time": 1759364538,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 864980,
+        "num": 864980,
+        "word": "鸡排哥 疲惫",
+        "onboard_time": 1759368621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30845,
+        "num": 683034,
+        "word": "网警提醒5种网络安全风险需警惕",
+        "onboard_time": 1759371080,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610345,
+        "num": 610345,
+        "word": "9人轮流睡8张床学生已实现1人1铺",
+        "onboard_time": 1759364898,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 605086,
+        "num": 605086,
+        "word": "珍古道尔去世",
+        "onboard_time": 1759361117,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 492803,
+        "num": 492803,
+        "word": "环保少女再次被以军扣押",
+        "onboard_time": 1759370780,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 268522,
+        "num": 268522,
+        "word": "外国网红纷纷沉迷中国修容大法",
+        "onboard_time": 1759367120,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 197762,
+        "num": 197762,
+        "word": "景德镇有在努力接住泼天流量",
+        "onboard_time": 1759334121,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189418,
+        "num": 189418,
+        "word": "国庆中秋假期第2天",
+        "onboard_time": 1759367538,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179017,
+        "num": 179017,
+        "word": "清清转辅助",
+        "onboard_time": 1759362139,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 421663,
+        "num": 177709,
+        "word": "迪丽热巴把G社变站姐了",
+        "onboard_time": 1759373599,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 381971,
+        "num": 177221,
+        "word": "六小龄童 猴子猴孙这么多",
+        "onboard_time": 1759369279,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275696,
+        "num": 175231,
+        "word": "王乐晨",
+        "onboard_time": 1759369339,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269957,
+        "num": 173676,
+        "word": "中网看台上的董卿",
+        "onboard_time": 1759368199,
+        "rank": 13,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 233110,
+        "num": 171237,
+        "word": "陈伟霆回应好命哥",
+        "onboard_time": 1759366759,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298788,
+        "num": 169607,
+        "word": "Dior连发4条迪丽热巴",
+        "onboard_time": 1759364000,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 212536,
+        "num": 168464,
+        "word": "偏头痛 喝可乐",
+        "onboard_time": 1759372639,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167916,
+        "num": 167916,
+        "word": "丁禹兮控停暴冲马匹",
+        "onboard_time": 1759373839,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165583,
+        "num": 165583,
+        "word": "这部电影把我的眼睛养得很好",
+        "onboard_time": 1759373899,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40729,
+        "num": 162969,
+        "word": "里斯本丸纪念日登上英国大屏",
+        "onboard_time": 1759370900,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212117,
+        "num": 159564,
+        "word": "皮肤上这种小红点可能是血管瘤",
+        "onboard_time": 1759368860,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179666,
+        "num": 151022,
+        "word": "原来月经量少不是坏事",
+        "onboard_time": 1759364178,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143864,
+        "num": 150572,
+        "word": "金价又刷新纪录了",
+        "onboard_time": 1759372039,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146133,
+        "num": 146133,
+        "word": "打卡快乐十一",
+        "onboard_time": 1759361478,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 132102,
+        "num": 132102,
+        "word": "毕正明的证明 黑马",
+        "onboard_time": 1759370180,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130574,
+        "num": 130574,
+        "word": "如果你经常侧睡导致肩膀内扣",
+        "onboard_time": 1759372700,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 126190,
+        "num": 126190,
+        "word": "陈伟霆 老钱",
+        "onboard_time": 1759373959,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119364,
+        "num": 119364,
+        "word": "发现了相亲最高效的办法",
+        "onboard_time": 1759372159,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119120,
+        "num": 119120,
+        "word": "林心如回应与陈妍希陈晓结亲家",
+        "onboard_time": 1759323321,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113814,
+        "num": 113814,
+        "word": "素颜逛街买衣服才是最优解",
+        "onboard_time": 1759372159,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146275,
+        "num": 112762,
+        "word": "是谁把小狗忘记在高岗高速服务区了",
+        "onboard_time": 1759373358,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109080,
+        "num": 109080,
+        "word": "被15秒3次敬礼暖到",
+        "onboard_time": 1759365859,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 108978,
+        "num": 108978,
+        "word": "发现了隐翅虫",
+        "onboard_time": 1759373419,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103683,
+        "num": 103683,
+        "word": "陈妍希夸小海豚太漂亮了",
+        "onboard_time": 1759373358,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103682,
+        "num": 103682,
+        "word": "久哲",
+        "onboard_time": 1759362798,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103547,
+        "num": 103547,
+        "word": "娜扎好美",
+        "onboard_time": 1759365499,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 98317,
+        "num": 98317,
+        "word": "特朗普放狠话称要做不可逆转之事",
+        "onboard_time": 1759368379,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94507,
+        "num": 94507,
+        "word": "被得力辞退跛脚员工再发声",
+        "onboard_time": 1759334000,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91826,
+        "num": 91826,
+        "word": "王曼昱蒯曼vs长崎美柚申裕斌",
+        "onboard_time": 1759373479,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89596,
+        "num": 89596,
+        "word": "鸡排哥附近商户称营业额破了纪录",
+        "onboard_time": 1759373479,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88259,
+        "num": 88259,
+        "word": "许我耀眼热度破31000",
+        "onboard_time": 1759368500,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83502,
+        "num": 83502,
+        "word": "奶皮子拿铁",
+        "onboard_time": 1759373839,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 83319,
+        "num": 83319,
+        "word": "许妍其实是沈皓明养的龙舌兰",
+        "onboard_time": 1759369880,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80566,
+        "num": 80566,
+        "word": "隐翅虫",
+        "onboard_time": 1759373179,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79834,
+        "num": 79834,
+        "word": "在王力宏演唱会被鹿晗认出来了",
+        "onboard_time": 1759332679,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79456,
+        "num": 79456,
+        "word": "者来女回复",
+        "onboard_time": 1759374079,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76738,
+        "num": 76738,
+        "word": "西贝冷冻大黄鱼用X光去刺",
+        "onboard_time": 1759373899,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76516,
+        "num": 76516,
+        "word": "以军被指向加沙救援船队发射水炮",
+        "onboard_time": 1759374079,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75753,
+        "num": 75753,
+        "word": "去年的鸡排哥",
+        "onboard_time": 1759374079,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73920,
+        "num": 73920,
+        "word": "Dior大秀G社生图",
+        "onboard_time": 1759361178,
+        "rank": 49,
+        "category": "时尚,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#做一个光荣自豪的中国人#"
+    }
+  }
+}
