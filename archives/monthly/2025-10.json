@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759393935778,
+  "endTime": 1759394759032,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -25,6 +25,14 @@
       "onboard_time": 1759323141,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1651052,
+      "num": 1651052,
+      "word": "景区回应张继科落水",
+      "onboard_time": 1759391360,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1628768,
@@ -105,14 +113,6 @@
       "onboard_time": 1759312042,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1314012,
-      "num": 1314012,
-      "word": "景区回应张继科落水",
-      "onboard_time": 1759391360,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1230126,
@@ -755,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 446686,
+      "num": 155556,
+      "word": "专家建议鸡排哥不要用大豆油",
+      "onboard_time": 1759390820,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 445430,
       "num": 445430,
       "word": "央视国庆晚会",
@@ -865,14 +873,6 @@
       "onboard_time": 1759274417,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 386788,
-      "num": 155556,
-      "word": "专家建议鸡排哥不要用大豆油",
-      "onboard_time": 1759390820,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 382031,
@@ -1147,6 +1147,14 @@
       "category": "游戏,电影"
     },
     {
+      "raw_hot": 293189,
+      "num": 293189,
+      "word": "目击者曝46岁女球迷酒后扰序细节",
+      "onboard_time": 1759389560,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290364,
       "num": 222313,
       "word": "王菊怎么瘦成这样了",
@@ -1185,6 +1193,14 @@
       "onboard_time": 1759311080,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272388,
+      "num": 156759,
+      "word": "展轩音乐节首秀",
+      "onboard_time": 1759392681,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 270941,
@@ -1593,14 +1609,6 @@
       "onboard_time": 1759368860,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 209192,
-      "num": 156759,
-      "word": "展轩音乐节首秀",
-      "onboard_time": 1759392681,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 208529,
@@ -2099,14 +2107,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 161527,
-      "num": 161527,
-      "word": "目击者曝46岁女球迷酒后扰序细节",
-      "onboard_time": 1759389560,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161102,
       "num": 161102,
       "word": "林高远梁靖崑",
@@ -2539,6 +2539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 137340,
+      "num": 132095,
+      "word": "鸡排哥最大受益者 正新鸡排",
+      "onboard_time": 1759389442,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137127,
       "num": 105172,
       "word": "国庆七天赚到一个月生活费",
@@ -2601,6 +2609,14 @@
       "onboard_time": 1759316481,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134892,
+      "num": 647430,
+      "word": "国庆假期第二天",
+      "onboard_time": 1759377379,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134830,
@@ -2681,14 +2697,6 @@
       "onboard_time": 1759370180,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 132095,
-      "num": 132095,
-      "word": "鸡排哥最大受益者 正新鸡排",
-      "onboard_time": 1759389442,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131879,
@@ -2793,14 +2801,6 @@
       "onboard_time": 1759324280,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128198,
-      "num": 647430,
-      "word": "国庆假期第二天",
-      "onboard_time": 1759377379,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128005,
@@ -3459,6 +3459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105885,
+      "num": 105885,
+      "word": "关晓彤碎钻裙",
+      "onboard_time": 1759394120,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105876,
       "num": 105876,
       "word": "任嘉伦官宣加盟NBA名人赛",
@@ -3593,6 +3601,14 @@
       "onboard_time": 1759312520,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101693,
+      "num": 101693,
+      "word": "女子中百万大奖后隐瞒男友4个多月",
+      "onboard_time": 1759394240,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 101335,
@@ -3939,6 +3955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92536,
+      "num": 92536,
+      "word": "广州香港街头好多大湾鸡",
+      "onboard_time": 1759392141,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92499,
       "num": 146579,
       "word": "董璇温柔的脸放好狠的话",
@@ -4033,6 +4057,14 @@
       "onboard_time": 1759296681,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88406,
+      "num": 88406,
+      "word": "桃晚安",
+      "onboard_time": 1759394601,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 88229,
@@ -4139,6 +4171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 85705,
+      "num": 85705,
+      "word": "紧急撤回一个孙颖莎",
+      "onboard_time": 1759394180,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85632,
       "num": 85632,
       "word": "王曼昱这也行啊",
@@ -4243,6 +4283,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 83908,
+      "num": 83908,
+      "word": "全球坚韧船队覆灭",
+      "onboard_time": 1759394601,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83319,
       "num": 83319,
       "word": "许妍其实是沈皓明养的龙舌兰",
@@ -4265,6 +4313,14 @@
       "onboard_time": 1759290860,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 82658,
+      "num": 92762,
+      "word": "樊振东背着小书包",
+      "onboard_time": 1759393941,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 82226,
@@ -4321,6 +4377,14 @@
       "onboard_time": 1759317800,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81617,
+      "num": 81617,
+      "word": "这个秋天我去马路上和我的青春见面",
+      "onboard_time": 1759394661,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 80667,
@@ -4731,6 +4795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67264,
+      "num": 92767,
+      "word": "女幼师遇害案凶手已被执行死刑",
+      "onboard_time": 1759394240,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66788,
       "num": 117086,
       "word": "谁懂一人有难全家出动的含金量",
@@ -4915,20 +4987,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54319,
+      "num": 159518,
+      "word": "Dior秀场已经nextlevel了",
+      "onboard_time": 1759392440,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 54156,
       "num": 54156,
       "word": "小猫睡得不知天地为何物了",
       "onboard_time": 1759275079,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 54107,
-      "num": 159518,
-      "word": "Dior秀场已经nextlevel了",
-      "onboard_time": 1759392440,
-      "rank": 13,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 53759,
@@ -5220,7 +5292,7 @@
     },
     {
       "raw_hot": 35334,
-      "num": 86440,
+      "num": 92796,
       "word": "罗意威大秀明星阵容",
       "onboard_time": 1759392440,
       "rank": 49,
@@ -5540,7 +5612,7 @@
     },
     {
       "raw_hot": 1349,
-      "num": 551065,
+      "num": 555241,
       "word": "追光的你",
       "onboard_time": 1759377079,
       "rank": 2,
