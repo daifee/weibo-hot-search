@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759444765536,
+  "endTime": 1759447365580,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 709468,
-      "num": 709468,
+      "num": 748400,
       "word": "陈泽",
       "onboard_time": 1759419200,
       "rank": 6,
@@ -2003,6 +2003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 209876,
+      "num": 104119,
+      "word": "李纯马頔回复王菊",
+      "onboard_time": 1759421301,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208529,
       "num": 153923,
       "word": "李晟生日没有感动全是尴尬",
@@ -2153,14 +2161,6 @@
       "onboard_time": 1759374079,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198777,
-      "num": 104119,
-      "word": "李纯马頔回复王菊",
-      "onboard_time": 1759421301,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 198660,
@@ -2633,6 +2633,14 @@
       "onboard_time": 1759322600,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165656,
+      "num": 77918,
+      "word": "英皇欠钱的最大受益人",
+      "onboard_time": 1759438574,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 165635,
@@ -3307,6 +3315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 136925,
+      "num": 74399,
+      "word": "导演看了花少5才选择了王安宇",
+      "onboard_time": 1759446738,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136889,
       "num": 123119,
       "word": "王楚钦林诗栋会师袁励岑徐瑛彬",
@@ -3752,14 +3768,6 @@
       "word": "小酒窝祝祖国生日快乐",
       "onboard_time": 1759286420,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 122979,
-      "num": 43129,
-      "word": "英皇欠钱的最大受益人",
-      "onboard_time": 1759438574,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -5907,12 +5915,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75551,
+      "num": 74317,
+      "word": "大连地铁发生意外故障停运一小时",
+      "onboard_time": 1759425317,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75417,
       "num": 75417,
       "word": "王楚钦这个动作好萌",
       "onboard_time": 1759401560,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75406,
+      "num": 75406,
+      "word": "于适稳稳地帮六公主完美救场",
+      "onboard_time": 1759440974,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 75305,
@@ -6059,6 +6083,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 71219,
+      "num": 49238,
+      "word": "印度妇女用纱丽掩人耳目偷走金项链",
+      "onboard_time": 1759447277,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 70925,
       "num": 70925,
       "word": "王楚钦被判发球遮挡",
@@ -6131,6 +6163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 67874,
+      "num": 67874,
+      "word": "导致视力下降的真实原因",
+      "onboard_time": 1759447277,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 67812,
       "num": 67812,
       "word": "王楚钦说不知道裁判是什么判断",
@@ -6160,14 +6200,6 @@
       "word": "一条微博祝福祖国",
       "onboard_time": 1759274118,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67278,
-      "num": 72221,
-      "word": "大连地铁发生意外故障停运一小时",
-      "onboard_time": 1759425317,
-      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -6371,6 +6403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57328,
+      "num": 57328,
+      "word": "双休7千单休9千怎么选",
+      "onboard_time": 1759439174,
+      "rank": 48,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 57171,
       "num": 57171,
       "word": "孙颖莎兼职裁判",
@@ -6465,6 +6505,14 @@
       "onboard_time": 1759274538,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 53332,
+      "num": 53332,
+      "word": "一款外军战机被赶走再没回来过",
+      "onboard_time": 1759447277,
+      "rank": 28,
+      "category": "军事"
     },
     {
       "raw_hot": 53071,
@@ -6643,14 +6691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43978,
-      "num": 40007,
-      "word": "双休7千单休9千怎么选",
-      "onboard_time": 1759439174,
-      "rank": 48,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 43872,
       "num": 147791,
       "word": "王曼昱3比0巴特拉",
@@ -6689,6 +6729,14 @@
       "onboard_time": 1759307181,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39533,
+      "num": 39533,
+      "word": "白宫裁员",
+      "onboard_time": 1759445355,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39247,
@@ -6795,20 +6843,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 34730,
-      "num": 34730,
-      "word": "于适稳稳地帮六公主完美救场",
-      "onboard_time": 1759440974,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 34636,
       "num": 72227,
       "word": "大三学生练成火箭军排面担当",
       "onboard_time": 1759424777,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34465,
+      "num": 39515,
+      "word": "蔡徐坤国际认可度",
+      "onboard_time": 1759447338,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 34404,
@@ -7003,6 +7051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25420,
+      "num": 39449,
+      "word": "王俊凯小说男主身材比例",
+      "onboard_time": 1759447338,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25147,
       "num": 201973,
       "word": "十一假期天气图鉴",
@@ -7033,6 +7089,14 @@
       "onboard_time": 1759426937,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23544,
+      "num": 39442,
+      "word": "电影频道首播射雕英雄传侠之大者",
+      "onboard_time": 1759438273,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 21556,
@@ -7081,14 +7145,6 @@
       "onboard_time": 1759386620,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 18125,
-      "num": 28208,
-      "word": "电影频道首播射雕英雄传侠之大者",
-      "onboard_time": 1759438273,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 17995,

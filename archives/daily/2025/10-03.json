@@ -1,6 +1,6 @@
 {
   "startTime": 1759422668020,
-  "endTime": 1759444765536,
+  "endTime": 1759447365580,
   "band_list": [
     {
       "raw_hot": 710844,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 709468,
-      "num": 709468,
+      "num": 748400,
       "word": "陈泽",
       "onboard_time": 1759419200,
       "rank": 3,
@@ -115,7 +115,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198777,
+      "raw_hot": 209876,
       "num": 104119,
       "word": "李纯马頔回复王菊",
       "onboard_time": 1759421301,
@@ -131,12 +131,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176159,
+      "raw_hot": 183030,
+      "num": 140888,
+      "word": "泰国男子找回手机相册惊现尸骨照",
+      "onboard_time": 1759411941,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 177790,
       "num": 148701,
       "word": "在中国居住了5年的印度女子",
       "onboard_time": 1759415302,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 165656,
+      "num": 77918,
+      "word": "英皇欠钱的最大受益人",
+      "onboard_time": 1759438574,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 151247,
@@ -155,26 +171,18 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140888,
-      "num": 140888,
-      "word": "泰国男子找回手机相册惊现尸骨照",
-      "onboard_time": 1759411941,
-      "rank": 22,
-      "category": "海外新闻"
+      "raw_hot": 136925,
+      "num": 74399,
+      "word": "导演看了花少5才选择了王安宇",
+      "onboard_time": 1759446738,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 133871,
       "num": 133871,
       "word": "李纯马頔结婚",
       "onboard_time": 1759378822,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 122979,
-      "num": 43129,
-      "word": "英皇欠钱的最大受益人",
-      "onboard_time": 1759438574,
       "rank": 23,
       "category": "艺人"
     },
@@ -291,12 +299,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75551,
+      "num": 74317,
+      "word": "大连地铁发生意外故障停运一小时",
+      "onboard_time": 1759425317,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75406,
+      "num": 75406,
+      "word": "于适稳稳地帮六公主完美救场",
+      "onboard_time": 1759440974,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73516,
       "num": 85510,
       "word": "王楚钦说和孙颖莎沟通非常高效",
       "onboard_time": 1759420400,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73365,
+      "num": 85480,
+      "word": "许妍晕倒名场面幕后",
+      "onboard_time": 1759416443,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 72491,
@@ -315,12 +347,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 70223,
-      "num": 85480,
-      "word": "许妍晕倒名场面幕后",
-      "onboard_time": 1759416443,
-      "rank": 39,
-      "category": "剧集"
+      "raw_hot": 71219,
+      "num": 49238,
+      "word": "印度妇女用纱丽掩人耳目偷走金项链",
+      "onboard_time": 1759447277,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 67874,
+      "num": 67874,
+      "word": "导致视力下降的真实原因",
+      "onboard_time": 1759447277,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 67636,
@@ -329,14 +369,6 @@
       "onboard_time": 1759418121,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 67278,
-      "num": 72221,
-      "word": "大连地铁发生意外故障停运一小时",
-      "onboard_time": 1759425317,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66977,
@@ -419,12 +451,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 57328,
+      "num": 57328,
+      "word": "双休7千单休9千怎么选",
+      "onboard_time": 1759439174,
+      "rank": 48,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 56792,
       "num": 71760,
       "word": "王楚钦孙颖莎光速下班的快乐谁懂",
       "onboard_time": 1759422978,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53332,
+      "num": 53332,
+      "word": "一款外军战机被赶走再没回来过",
+      "onboard_time": 1759447277,
+      "rank": 28,
+      "category": "军事"
     },
     {
       "raw_hot": 49811,
@@ -435,14 +483,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 43978,
-      "num": 40007,
-      "word": "双休7千单休9千怎么选",
-      "onboard_time": 1759439174,
-      "rank": 48,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 40442,
       "num": 72249,
       "word": "林俊杰新歌首唱",
@@ -451,12 +491,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 34730,
-      "num": 34730,
-      "word": "于适稳稳地帮六公主完美救场",
-      "onboard_time": 1759440974,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 39533,
+      "num": 39533,
+      "word": "白宫裁员",
+      "onboard_time": 1759445355,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34636,
@@ -467,6 +507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34465,
+      "num": 39515,
+      "word": "蔡徐坤国际认可度",
+      "onboard_time": 1759447338,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 31837,
       "num": 71670,
       "word": "张艺兴林俊杰合唱为你揭晓",
@@ -475,7 +523,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 30752,
+      "raw_hot": 31635,
       "num": 358035,
       "word": "国庆中秋假期游玩好去处",
       "onboard_time": 1759414222,
@@ -491,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25420,
+      "num": 39449,
+      "word": "王俊凯小说男主身材比例",
+      "onboard_time": 1759447338,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 23636,
       "num": 40462,
       "word": "宁艺卓灰色紧身衣",
@@ -499,8 +555,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 18125,
-      "num": 28208,
+      "raw_hot": 23544,
+      "num": 39442,
       "word": "电影频道首播射雕英雄传侠之大者",
       "onboard_time": 1759438273,
       "rank": 45,
