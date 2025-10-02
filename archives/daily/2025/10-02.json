@@ -1,6 +1,6 @@
 {
   "startTime": 1759336314340,
-  "endTime": 1759382638832,
+  "endTime": 1759383591568,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -8,6 +8,14 @@
       "word": "李纯马頔结婚",
       "onboard_time": 1759378822,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1445744,
+      "num": 183483,
+      "word": "王菊晒和李纯在婚姻登记处合照",
+      "onboard_time": 1759382181,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -27,7 +35,7 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1128002,
+      "raw_hot": 1195057,
       "num": 183720,
       "word": "艺人音乐节坐地起价",
       "onboard_time": 1759380743,
@@ -139,6 +147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 579116,
+      "num": 1092658,
+      "word": "鸡排哥代购每份加价20元",
+      "onboard_time": 1759379721,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 572264,
       "num": 572264,
       "word": "发现了隐翅虫",
@@ -153,14 +169,6 @@
       "onboard_time": 1759361537,
       "rank": 0,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 552106,
-      "num": 552106,
-      "word": "鸡排哥代购每份加价20元",
-      "onboard_time": 1759379721,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 546948,
@@ -227,19 +235,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382182,
+      "num": 382182,
+      "word": "希腊全国罢工",
+      "onboard_time": 1759379122,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 381971,
       "num": 239996,
       "word": "六小龄童 猴子猴孙这么多",
       "onboard_time": 1759369279,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 377171,
-      "num": 183483,
-      "word": "王菊晒和李纯在婚姻登记处合照",
-      "onboard_time": 1759382181,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -385,14 +393,6 @@
       "onboard_time": 1759367120,
       "rank": 23,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 268195,
-      "num": 268195,
-      "word": "希腊全国罢工",
-      "onboard_time": 1759379122,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 265094,
@@ -547,6 +547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 203705,
+      "num": 203705,
+      "word": "宗馥莉心腹严学峰被调查",
+      "onboard_time": 1759380503,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203454,
       "num": 203454,
       "word": "时代少年团纪录片",
@@ -569,6 +577,14 @@
       "onboard_time": 1759362798,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199972,
+      "num": 171561,
+      "word": "董卿儿子长这么大了",
+      "onboard_time": 1759381462,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 198942,
@@ -627,14 +643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182869,
-      "num": 182869,
-      "word": "宗馥莉心腹严学峰被调查",
-      "onboard_time": 1759380503,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182212,
       "num": 182212,
       "word": "林心如谈邱泽许玮甯儿子",
@@ -659,12 +667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171561,
-      "num": 171561,
-      "word": "董卿儿子长这么大了",
-      "onboard_time": 1759381462,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 171606,
+      "num": 141905,
+      "word": "张峻豪演唱会",
+      "onboard_time": 1759382661,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 170060,
@@ -729,6 +737,14 @@
       "onboard_time": 1759373540,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162653,
+      "num": 162653,
+      "word": "鸡排哥太累没说话被指没有情绪价值",
+      "onboard_time": 1759382720,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160598,
@@ -836,7 +852,7 @@
     },
     {
       "raw_hot": 140870,
-      "num": 140870,
+      "num": 142640,
       "word": "小米17系列销量破百万",
       "onboard_time": 1759382062,
       "rank": 37,
@@ -1011,6 +1027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108664,
+      "num": 135910,
+      "word": "男子开飞机15分钟回老家过国庆",
+      "onboard_time": 1759382421,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108571,
       "num": 108571,
       "word": "鸡排哥累到失去表情管理",
@@ -1163,11 +1187,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87461,
-      "num": 135910,
-      "word": "男子开飞机15分钟回老家过国庆",
-      "onboard_time": 1759382421,
-      "rank": 38,
+      "raw_hot": 88660,
+      "num": 647430,
+      "word": "国庆假期第二天",
+      "onboard_time": 1759377379,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -1188,19 +1212,19 @@
     },
     {
       "raw_hot": 85789,
-      "num": 647430,
-      "word": "国庆假期第二天",
-      "onboard_time": 1759377379,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85789,
       "num": 163025,
       "word": "邓超内收式疯批演技",
       "onboard_time": 1759377860,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 84762,
+      "num": 141917,
+      "word": "高德领进门胖几斤看个人",
+      "onboard_time": 1759383381,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 84727,
@@ -1379,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65432,
+      "num": 143153,
+      "word": "莫雷加德无缘男单8强",
+      "onboard_time": 1759382720,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65344,
       "num": 65344,
       "word": "刘萧旭 祝我们都好",
@@ -1489,6 +1521,14 @@
       "onboard_time": 1759328423,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52076,
+      "num": 126346,
+      "word": "博主播鸡排哥11天称收益不够买2鸡排",
+      "onboard_time": 1759383321,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51812,
@@ -1697,6 +1737,14 @@
       "onboard_time": 1759318221,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21297,
+      "num": 123275,
+      "word": "西贝这次降价求生能成功吗",
+      "onboard_time": 1759383381,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21060,
