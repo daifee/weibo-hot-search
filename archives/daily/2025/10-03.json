@@ -1,6 +1,6 @@
 {
   "startTime": 1759422668020,
-  "endTime": 1759423554872,
+  "endTime": 1759425651399,
   "band_list": [
     {
       "raw_hot": 710844,
@@ -9,6 +9,14 @@
       "onboard_time": 1759417704,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 709468,
+      "num": 709468,
+      "word": "陈泽",
+      "onboard_time": 1759419200,
+      "rank": 3,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 707965,
@@ -41,14 +49,6 @@
       "onboard_time": 1759416262,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 468258,
-      "num": 468258,
-      "word": "陈泽",
-      "onboard_time": 1759419200,
-      "rank": 3,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 448721,
@@ -112,6 +112,14 @@
       "word": "对沈佳润是小孩有了实感",
       "onboard_time": 1759396762,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198777,
+      "num": 104119,
+      "word": "李纯马頔回复王菊",
+      "onboard_time": 1759421301,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -185,14 +193,6 @@
       "onboard_time": 1759403361,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 105855,
-      "num": 104119,
-      "word": "李纯马頔回复王菊",
-      "onboard_time": 1759421301,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 105306,
@@ -416,6 +416,30 @@
       "word": "张晚意银发挑染",
       "onboard_time": 1759407922,
       "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 40442,
+      "num": 71755,
+      "word": "林俊杰新歌首唱",
+      "onboard_time": 1759412482,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 34636,
+      "num": 71696,
+      "word": "大三学生练成火箭军排面担当",
+      "onboard_time": 1759424777,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 31837,
+      "num": 71670,
+      "word": "张艺兴林俊杰合唱为你揭晓",
+      "onboard_time": 1759425197,
+      "rank": 48,
       "category": "演出"
     },
     {

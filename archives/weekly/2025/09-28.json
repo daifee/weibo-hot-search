@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759423554872,
+  "endTime": 1759425651399,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -1331,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 709468,
+      "num": 709468,
+      "word": "陈泽",
+      "onboard_time": 1759419200,
+      "rank": 6,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 706971,
       "num": 1113115,
       "word": "第一天出去旅游的人已经老实",
@@ -2465,14 +2473,6 @@
       "onboard_time": 1759199359,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 468258,
-      "num": 468258,
-      "word": "陈泽",
-      "onboard_time": 1759419200,
-      "rank": 6,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 467673,
@@ -5345,6 +5345,14 @@
       "onboard_time": 1759374079,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198777,
+      "num": 104119,
+      "word": "李纯马頔回复王菊",
+      "onboard_time": 1759421301,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 198706,
@@ -11763,14 +11771,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 105855,
-      "num": 104119,
-      "word": "李纯马頔回复王菊",
-      "onboard_time": 1759421301,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105806,
       "num": 105806,
       "word": "全红婵梁伟铿王欣瑜入选先进个人",
@@ -16787,6 +16787,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 34636,
+      "num": 71696,
+      "word": "大三学生练成火箭军排面担当",
+      "onboard_time": 1759424777,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34404,
       "num": 104986,
       "word": "景德镇鸡排保镖已上线",
@@ -16881,6 +16889,14 @@
       "onboard_time": 1759371080,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31837,
+      "num": 71670,
+      "word": "张艺兴林俊杰合唱为你揭晓",
+      "onboard_time": 1759425197,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 31744,
