@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759387720250,
+  "endTime": 1759389818874,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -251,6 +251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1368020,
+      "num": 150074,
+      "word": "迪丽热巴鞋跟断了",
+      "onboard_time": 1759387281,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1363406,
       "num": 1363406,
       "word": "明家犯罪集团11人死刑",
@@ -480,6 +488,14 @@
       "word": "曝阮经天和小20岁女友交往超一年",
       "onboard_time": 1759291101,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1021121,
+      "num": 137501,
+      "word": "马頔李纯孩子可以叫马思纯",
+      "onboard_time": 1759389321,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -1068,7 +1084,7 @@
     },
     {
       "raw_hot": 758636,
-      "num": 758636,
+      "num": 1117090,
       "word": "鸡排哥太累没说话被指没有情绪价值",
       "onboard_time": 1759382720,
       "rank": 9,
@@ -1937,14 +1953,6 @@
       "onboard_time": 1759043060,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 520612,
-      "num": 150074,
-      "word": "迪丽热巴鞋跟断了",
-      "onboard_time": 1759387281,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 518812,
@@ -3051,6 +3059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 352249,
+      "num": 149585,
+      "word": "男子身家千万因无子被骂哭了一夜",
+      "onboard_time": 1759386500,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 351804,
       "num": 225260,
       "word": "王者荣耀",
@@ -3387,6 +3403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 301358,
+      "num": 301358,
+      "word": "金价太高有人囤金条为两儿子打算",
+      "onboard_time": 1759388359,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301231,
       "num": 218083,
       "word": "周深题词器",
@@ -3496,14 +3520,6 @@
       "word": "校园跑APP遭大学生吐槽",
       "onboard_time": 1759140802,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 290215,
-      "num": 149585,
-      "word": "男子身家千万因无子被骂哭了一夜",
-      "onboard_time": 1759386500,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -4339,6 +4355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222079,
+      "num": 139092,
+      "word": "狗子因为太胖而躲过一劫",
+      "onboard_time": 1759387102,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221948,
       "num": 221948,
       "word": "周也dior看秀造型",
@@ -4849,6 +4873,14 @@
       "onboard_time": 1759385961,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197334,
+      "num": 135054,
+      "word": "李晟生日没有感动全是尴尬",
+      "onboard_time": 1759386380,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 196522,
@@ -5611,6 +5643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177149,
+      "num": 131988,
+      "word": "今年三大平台爆剧",
+      "onboard_time": 1759387941,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176564,
       "num": 176564,
       "word": "闫妮在台下偷喝茅台了吧",
@@ -6219,6 +6259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163680,
+      "num": 131922,
+      "word": "田曦薇护食",
+      "onboard_time": 1759385901,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163121,
       "num": 163121,
       "word": "柯爱林下车",
@@ -6457,6 +6505,14 @@
       "onboard_time": 1759239322,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159229,
+      "num": 159229,
+      "word": "两客机在纽约机场相撞",
+      "onboard_time": 1759387881,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 159215,
@@ -7217,6 +7273,14 @@
       "onboard_time": 1759022121,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144846,
+      "num": 144846,
+      "word": "第五人格赛事",
+      "onboard_time": 1759389442,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 144812,
@@ -8107,6 +8171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132125,
+      "num": 132125,
+      "word": "管乐三连怼祝绪丹",
+      "onboard_time": 1759388960,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132102,
       "num": 132102,
       "word": "毕正明的证明 黑马",
@@ -8297,6 +8369,14 @@
       "onboard_time": 1759314980,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129789,
+      "num": 139479,
+      "word": "ivl",
+      "onboard_time": 1759388840,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 129761,
@@ -8601,14 +8681,6 @@
       "onboard_time": 1759052540,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126716,
-      "num": 126716,
-      "word": "田曦薇护食",
-      "onboard_time": 1759385901,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 126697,
@@ -9249,14 +9321,6 @@
       "onboard_time": 1759379422,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119853,
-      "num": 119853,
-      "word": "李晟生日没有感动全是尴尬",
-      "onboard_time": 1759386380,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 119828,
@@ -10555,14 +10619,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 105810,
-      "num": 105810,
-      "word": "狗子因为太胖而躲过一劫",
-      "onboard_time": 1759387102,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 105806,
       "num": 105806,
       "word": "全红婵梁伟铿王欣瑜入选先进个人",
@@ -11363,6 +11419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98237,
+      "num": 98237,
+      "word": "鸡排哥最大受益者 正新鸡排",
+      "onboard_time": 1759389442,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98018,
       "num": 98018,
       "word": "小米手机维修备件价格公布",
@@ -11755,6 +11819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94104,
+      "num": 94104,
+      "word": "黄友政陈熠3比1袁励岑王艺迪",
+      "onboard_time": 1759389621,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94087,
       "num": 112605,
       "word": "十一放假前的状态belike",
@@ -11865,6 +11937,14 @@
       "onboard_time": 1759239442,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92479,
+      "num": 88360,
+      "word": "戚薇贴创可贴看秀",
+      "onboard_time": 1759389560,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 92251,
@@ -12464,6 +12544,14 @@
       "word": "或许这就是分开的意义",
       "onboard_time": 1759236922,
       "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 84887,
+      "num": 84887,
+      "word": "ccd中发现已经去世的小狗",
+      "onboard_time": 1759389501,
+      "rank": 45,
       "category": "情感"
     },
     {
@@ -13128,6 +13216,14 @@
       "word": "上戏学霸日播12小时赚钱救父",
       "onboard_time": 1759386741,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 74850,
+      "num": 93028,
+      "word": "王铮亮 人老脾气大",
+      "onboard_time": 1759389740,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -13867,6 +13963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 59414,
+      "num": 134436,
+      "word": "十一当天有3.6亿人用高德",
+      "onboard_time": 1759388600,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 59405,
       "num": 59405,
       "word": "早餐吃不对影响全天血糖",
@@ -14105,6 +14209,14 @@
       "onboard_time": 1759215020,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55003,
+      "num": 93474,
+      "word": "蒋一侨微商女强人",
+      "onboard_time": 1759388960,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 54357,
@@ -15251,6 +15363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 26163,
+      "num": 132776,
+      "word": "Dior多机位带你全方位看秀",
+      "onboard_time": 1759388661,
+      "rank": 18,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 25817,
       "num": 189324,
       "word": "陈震每一年都觉得前几十年白活了",
@@ -15809,6 +15929,14 @@
       "onboard_time": 1759155621,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10245,
+      "num": 92651,
+      "word": "去澳门看丝路展一眼千年",
+      "onboard_time": 1759388541,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9936,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1759389818874,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 731817,
+        "num": 1117090,
+        "word": "鸡排哥太累没说话被指没有情绪价值",
+        "onboard_time": 1759382720,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363580,
+        "num": 363580,
+        "word": "鸡排哥代购每份加价20元",
+        "onboard_time": 1759379721,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46409,
+        "num": 309809,
+        "word": "国庆假期第二天",
+        "onboard_time": 1759377379,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 301358,
+        "num": 301358,
+        "word": "金价太高有人囤金条为两儿子打算",
+        "onboard_time": 1759388359,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232418,
+        "num": 232418,
+        "word": "鸡排哥手臂布满烫伤疤",
+        "onboard_time": 1759364538,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223840,
+        "num": 223840,
+        "word": "希腊全国罢工",
+        "onboard_time": 1759379122,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 210111,
+        "num": 210111,
+        "word": "发现了隐翅虫",
+        "onboard_time": 1759373419,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161924,
+        "num": 161924,
+        "word": "蒯曼无缘中国大满贯八强",
+        "onboard_time": 1759385961,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159229,
+        "num": 159229,
+        "word": "两客机在纽约机场相撞",
+        "onboard_time": 1759387881,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144846,
+        "num": 144846,
+        "word": "第五人格赛事",
+        "onboard_time": 1759389442,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1803900,
+        "num": 143509,
+        "word": "李纯马頔结婚",
+        "onboard_time": 1759378822,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1368020,
+        "num": 142252,
+        "word": "迪丽热巴鞋跟断了",
+        "onboard_time": 1759387281,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352249,
+        "num": 141422,
+        "word": "男子身家千万因无子被骂哭了一夜",
+        "onboard_time": 1759386500,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129789,
+        "num": 139479,
+        "word": "ivl",
+        "onboard_time": 1759388840,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 222079,
+        "num": 139092,
+        "word": "狗子因为太胖而躲过一劫",
+        "onboard_time": 1759387102,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1021121,
+        "num": 137501,
+        "word": "马頔李纯孩子可以叫马思纯",
+        "onboard_time": 1759389321,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197334,
+        "num": 135054,
+        "word": "李晟生日没有感动全是尴尬",
+        "onboard_time": 1759386380,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 59414,
+        "num": 134436,
+        "word": "十一当天有3.6亿人用高德",
+        "onboard_time": 1759388600,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 26163,
+        "num": 132776,
+        "word": "Dior多机位带你全方位看秀",
+        "onboard_time": 1759388661,
+        "rank": 18,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 132125,
+        "num": 132125,
+        "word": "管乐三连怼祝绪丹",
+        "onboard_time": 1759388960,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122836,
+        "num": 132108,
+        "word": "珍古道尔去世",
+        "onboard_time": 1759361117,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 886875,
+        "num": 132063,
+        "word": "艺人音乐节坐地起价",
+        "onboard_time": 1759380743,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 266622,
+        "num": 132047,
+        "word": "蜜雪冰城要卖啤酒了",
+        "onboard_time": 1759385542,
+        "rank": 22,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 177149,
+        "num": 131988,
+        "word": "今年三大平台爆剧",
+        "onboard_time": 1759387941,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114510,
+        "num": 131981,
+        "word": "韩国阅兵式跆拳道表演出现失误",
+        "onboard_time": 1759374620,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163680,
+        "num": 131922,
+        "word": "田曦薇护食",
+        "onboard_time": 1759385901,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151548,
+        "num": 131907,
+        "word": "刘亦菲国庆自驾游",
+        "onboard_time": 1759377320,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131880,
+        "num": 131880,
+        "word": "朋友圈先私密几天后再公开",
+        "onboard_time": 1759374499,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126809,
+        "num": 126809,
+        "word": "张艺兴张子枫进门局促感不像演的",
+        "onboard_time": 1759386560,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126280,
+        "num": 126280,
+        "word": "董璇张维伊婚礼合影站位",
+        "onboard_time": 1759381223,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122417,
+        "num": 122417,
+        "word": "万达电影发文致歉",
+        "onboard_time": 1759386500,
+        "rank": 30,
+        "category": "游戏,互联网"
+      },
+      {
+        "raw_hot": 105990,
+        "num": 105990,
+        "word": "李沁鸡腿姑娘爆改鸭梨夫人",
+        "onboard_time": 1759387160,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100295,
+        "num": 100295,
+        "word": "迪丽热巴把G社变站姐了",
+        "onboard_time": 1759373599,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 100154,
+        "num": 100154,
+        "word": "马思纯G社生图好明媚的美",
+        "onboard_time": 1759386320,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98237,
+        "num": 98237,
+        "word": "鸡排哥最大受益者 正新鸡排",
+        "onboard_time": 1759389442,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94104,
+        "num": 94104,
+        "word": "黄友政陈熠3比1袁励岑王艺迪",
+        "onboard_time": 1759389621,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27216,
+        "num": 93728,
+        "word": "Jonathan开启Dior新时代",
+        "onboard_time": 1759385061,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 55003,
+        "num": 93474,
+        "word": "蒋一侨微商女强人",
+        "onboard_time": 1759388960,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74850,
+        "num": 93028,
+        "word": "王铮亮 人老脾气大",
+        "onboard_time": 1759389740,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10245,
+        "num": 92651,
+        "word": "去澳门看丝路展一眼千年",
+        "onboard_time": 1759388541,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92547,
+        "num": 92547,
+        "word": "曝王乐晨是为了气前女友跑去上综艺",
+        "onboard_time": 1759377140,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88366,
+        "num": 88366,
+        "word": "不建议你提前开始买秋装",
+        "onboard_time": 1759385721,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92479,
+        "num": 88360,
+        "word": "戚薇贴创可贴看秀",
+        "onboard_time": 1759389560,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87013,
+        "num": 87013,
+        "word": "偏头痛 喝可乐",
+        "onboard_time": 1759372639,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85329,
+        "num": 85329,
+        "word": "Wolves对战北京WBG",
+        "onboard_time": 1759387221,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84887,
+        "num": 84887,
+        "word": "ccd中发现已经去世的小狗",
+        "onboard_time": 1759389501,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83099,
+        "num": 83099,
+        "word": "李沁女将军人设",
+        "onboard_time": 1759385181,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82507,
+        "num": 82507,
+        "word": "刘亦菲新狗狗",
+        "onboard_time": 1759374920,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82230,
+        "num": 82230,
+        "word": "打卡快乐十一",
+        "onboard_time": 1759361478,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 78086,
+        "num": 78086,
+        "word": "官方回应高速上SUV低速乱窜",
+        "onboard_time": 1759387701,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给天津大学全体师生回信#"
+    }
+  }
+}

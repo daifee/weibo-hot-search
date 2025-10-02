@@ -1,6 +1,6 @@
 {
   "startTime": 1759336314340,
-  "endTime": 1759387720250,
+  "endTime": 1759389818874,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -16,6 +16,14 @@
       "word": "王菊晒和李纯在婚姻登记处合照",
       "onboard_time": 1759382181,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1368020,
+      "num": 150074,
+      "word": "迪丽热巴鞋跟断了",
+      "onboard_time": 1759387281,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -41,6 +49,14 @@
       "onboard_time": 1759380743,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1021121,
+      "num": 137501,
+      "word": "马頔李纯孩子可以叫马思纯",
+      "onboard_time": 1759389321,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 993932,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 758636,
-      "num": 758636,
+      "num": 1117090,
       "word": "鸡排哥太累没说话被指没有情绪价值",
       "onboard_time": 1759382720,
       "rank": 9,
@@ -195,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 520612,
-      "num": 150074,
-      "word": "迪丽热巴鞋跟断了",
-      "onboard_time": 1759387281,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 517394,
       "num": 265821,
       "word": "倪妮夏露合照",
@@ -291,6 +299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 352249,
+      "num": 149585,
+      "word": "男子身家千万因无子被骂哭了一夜",
+      "onboard_time": 1759386500,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347582,
       "num": 135390,
       "word": "金价",
@@ -355,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301358,
+      "num": 301358,
+      "word": "金价太高有人囤金条为两儿子打算",
+      "onboard_time": 1759388359,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300650,
       "num": 138308,
       "word": "12306回应列车超员报警临停",
@@ -369,14 +393,6 @@
       "onboard_time": 1759379002,
       "rank": 23,
       "category": "游戏,电影"
-    },
-    {
-      "raw_hot": 290215,
-      "num": 149585,
-      "word": "男子身家千万因无子被骂哭了一夜",
-      "onboard_time": 1759386500,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 290202,
@@ -571,6 +587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 222079,
+      "num": 139092,
+      "word": "狗子因为太胖而躲过一劫",
+      "onboard_time": 1759387102,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217790,
       "num": 149684,
       "word": "迪丽热巴外媒镜头",
@@ -643,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197334,
+      "num": 135054,
+      "word": "李晟生日没有感动全是尴尬",
+      "onboard_time": 1759386380,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196522,
       "num": 85641,
       "word": "警方通报女子酒后观赛大声喧哗",
@@ -697,6 +729,14 @@
       "onboard_time": 1759378881,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177149,
+      "num": 131988,
+      "word": "今年三大平台爆剧",
+      "onboard_time": 1759387941,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 175053,
@@ -803,12 +843,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163680,
+      "num": 131922,
+      "word": "田曦薇护食",
+      "onboard_time": 1759385901,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160598,
       "num": 160598,
       "word": "台湾拒绝美国芯片制造五五分要求",
       "onboard_time": 1759359737,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 159229,
+      "num": 159229,
+      "word": "两客机在纽约机场相撞",
+      "onboard_time": 1759387881,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 159064,
@@ -907,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144846,
+      "num": 144846,
+      "word": "第五人格赛事",
+      "onboard_time": 1759389442,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142945,
       "num": 142945,
       "word": "Wolves对战北京WBG",
@@ -979,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132125,
+      "num": 132125,
+      "word": "管乐三连怼祝绪丹",
+      "onboard_time": 1759388960,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132102,
       "num": 132102,
       "word": "毕正明的证明 黑马",
@@ -1019,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129789,
+      "num": 139479,
+      "word": "ivl",
+      "onboard_time": 1759388840,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 129157,
       "num": 129157,
       "word": "古偶吻戏已升级为咬戏",
@@ -1033,14 +1113,6 @@
       "onboard_time": 1759368379,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 126716,
-      "num": 126716,
-      "word": "田曦薇护食",
-      "onboard_time": 1759385901,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 126290,
@@ -1081,14 +1153,6 @@
       "onboard_time": 1759379422,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119853,
-      "num": 119853,
-      "word": "李晟生日没有感动全是尴尬",
-      "onboard_time": 1759386380,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 119364,
@@ -1203,14 +1267,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 105810,
-      "num": 105810,
-      "word": "狗子因为太胖而躲过一劫",
-      "onboard_time": 1759387102,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 105547,
       "num": 105547,
       "word": "张智霖 美人穿破布都是美人",
@@ -1275,6 +1331,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 98237,
+      "num": 98237,
+      "word": "鸡排哥最大受益者 正新鸡排",
+      "onboard_time": 1759389442,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97317,
       "num": 97317,
       "word": "杨羚蔚瞒着父母参加offer7",
@@ -1323,6 +1387,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 94104,
+      "num": 94104,
+      "word": "黄友政陈熠3比1袁励岑王艺迪",
+      "onboard_time": 1759389621,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92543,
       "num": 92543,
       "word": "许我耀眼热度破31000",
@@ -1337,6 +1409,14 @@
       "onboard_time": 1759378100,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92479,
+      "num": 88360,
+      "word": "戚薇贴创可贴看秀",
+      "onboard_time": 1759389560,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 92016,
@@ -1393,6 +1473,14 @@
       "onboard_time": 1759377860,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 84887,
+      "num": 84887,
+      "word": "ccd中发现已经去世的小狗",
+      "onboard_time": 1759389501,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 84762,
@@ -1488,6 +1576,14 @@
       "word": "上戏学霸日播12小时赚钱救父",
       "onboard_time": 1759386741,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 74850,
+      "num": 93028,
+      "word": "王铮亮 人老脾气大",
+      "onboard_time": 1759389740,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1659,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59414,
+      "num": 134436,
+      "word": "十一当天有3.6亿人用高德",
+      "onboard_time": 1759388600,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 59017,
       "num": 59017,
       "word": "沈皓明承认弟弟是私生子",
@@ -1728,6 +1832,14 @@
       "word": "贺峻霖到时候番位你咋安排",
       "onboard_time": 1759322781,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 55003,
+      "num": 93474,
+      "word": "蒋一侨微商女强人",
+      "onboard_time": 1759388960,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1939,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26163,
+      "num": 132776,
+      "word": "Dior多机位带你全方位看秀",
+      "onboard_time": 1759388661,
+      "rank": 18,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 25668,
       "num": 37461,
       "word": "商场回应摆价值百万10米高巨人雕像",
@@ -2009,6 +2129,14 @@
       "onboard_time": 1759376719,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 10245,
+      "num": 92651,
+      "word": "去澳门看丝路展一眼千年",
+      "onboard_time": 1759388541,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
