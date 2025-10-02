@@ -1,6 +1,6 @@
 {
   "startTime": 1759422668020,
-  "endTime": 1759422668020,
+  "endTime": 1759423554872,
   "band_list": [
     {
       "raw_hot": 710844,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 468258,
+      "num": 468258,
+      "word": "陈泽",
+      "onboard_time": 1759419200,
+      "rank": 3,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 448721,
       "num": 217058,
       "word": "许妍卸妆",
@@ -59,20 +67,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 348677,
-      "num": 348677,
-      "word": "陈泽",
-      "onboard_time": 1759419200,
-      "rank": 3,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 314255,
       "num": 314255,
       "word": "王楚钦卡壳半天蹦出来一句他老婆",
       "onboard_time": 1759415541,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287331,
+      "num": 287331,
+      "word": "章莹颖男友协助章父直播回应新恋情",
+      "onboard_time": 1759417162,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 287150,
@@ -91,14 +99,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 264129,
-      "num": 264129,
-      "word": "章莹颖男友协助章父直播回应新恋情",
-      "onboard_time": 1759417162,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 245836,
       "num": 245836,
       "word": "香港人盯上内地医保",
@@ -107,7 +107,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 209000,
+      "raw_hot": 237453,
       "num": 209000,
       "word": "对沈佳润是小孩有了实感",
       "onboard_time": 1759396762,
@@ -187,16 +187,24 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 103554,
-      "num": 94786,
+      "raw_hot": 105855,
+      "num": 104119,
       "word": "李纯马頔回复王菊",
       "onboard_time": 1759421301,
       "rank": 28,
       "category": "艺人"
     },
     {
-      "raw_hot": 102674,
-      "num": 102674,
+      "raw_hot": 105306,
+      "num": 105306,
+      "word": "孙颖莎说和大头想打好的决心一致",
+      "onboard_time": 1759419502,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103342,
+      "num": 103342,
       "word": "穆祉丞啥意思",
       "onboard_time": 1759398801,
       "rank": 25,
@@ -211,12 +219,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 95243,
-      "num": 95243,
+      "raw_hot": 96294,
+      "num": 96294,
       "word": "多位名人自曝戴呼吸机睡觉",
       "onboard_time": 1759412241,
       "rank": 27,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 93852,
+      "num": 235253,
+      "word": "中国驻韩国大使馆严正发声",
+      "onboard_time": 1759402940,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 93609,
@@ -233,14 +249,6 @@
       "onboard_time": 1759404802,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 91681,
-      "num": 235253,
-      "word": "中国驻韩国大使馆严正发声",
-      "onboard_time": 1759402940,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 89692,
@@ -267,12 +275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85511,
-      "num": 85511,
-      "word": "孙颖莎说和大头想打好的决心一致",
-      "onboard_time": 1759419502,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 77888,
+      "num": 85484,
+      "word": "肖战唱完歌以为自己下班了",
+      "onboard_time": 1759404442,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 73516,
@@ -297,14 +305,6 @@
       "onboard_time": 1759405042,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 70783,
-      "num": 85484,
-      "word": "肖战唱完歌以为自己下班了",
-      "onboard_time": 1759404442,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 70223,
@@ -363,7 +363,15 @@
       "category": "海外新闻,财经"
     },
     {
-      "raw_hot": 58416,
+      "raw_hot": 59010,
+      "num": 71810,
+      "word": "南京DNA音乐节",
+      "onboard_time": 1759423039,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 58634,
       "num": 85432,
       "word": "林高远说不会离开赛场",
       "onboard_time": 1759419801,
@@ -395,7 +403,23 @@
       "category": "演出"
     },
     {
-      "raw_hot": 26881,
+      "raw_hot": 56792,
+      "num": 71760,
+      "word": "王楚钦孙颖莎光速下班的快乐谁懂",
+      "onboard_time": 1759422978,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49811,
+      "num": 71669,
+      "word": "张晚意银发挑染",
+      "onboard_time": 1759407922,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 30752,
       "num": 358035,
       "word": "国庆中秋假期游玩好去处",
       "onboard_time": 1759414222,

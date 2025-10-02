@@ -1,0 +1,410 @@
+{
+  "runTime": 1759423554872,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 499328,
+        "num": 740048,
+        "word": "人人人人人人鸡排哥人人人人人人",
+        "onboard_time": 1759405702,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 468258,
+        "num": 468258,
+        "word": "陈泽",
+        "onboard_time": 1759419200,
+        "rank": 1,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 30752,
+        "num": 354515,
+        "word": "国庆中秋假期游玩好去处",
+        "onboard_time": 1759414222,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304183,
+        "num": 304183,
+        "word": "泰山山顶宾馆提供99元坐席可过夜",
+        "onboard_time": 1759417042,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287331,
+        "num": 287331,
+        "word": "章莹颖男友协助章父直播回应新恋情",
+        "onboard_time": 1759417162,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265602,
+        "num": 265602,
+        "word": "王楚钦卡壳半天蹦出来一句他老婆",
+        "onboard_time": 1759415541,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230722,
+        "num": 230722,
+        "word": "香港人盯上内地医保",
+        "onboard_time": 1759417821,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109627,
+        "num": 229821,
+        "word": "我驻韩使馆就反华游行表明严正立场",
+        "onboard_time": 1759403361,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108768,
+        "num": 221088,
+        "word": "提醒在韩中国游客注意人身安全",
+        "onboard_time": 1759401381,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93852,
+        "num": 217331,
+        "word": "中国驻韩国大使馆严正发声",
+        "onboard_time": 1759402940,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 627760,
+        "num": 210445,
+        "word": "成龙王力宏亲了",
+        "onboard_time": 1759414522,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 616309,
+        "num": 204189,
+        "word": "迪丽热巴ins",
+        "onboard_time": 1759418422,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 573906,
+        "num": 197656,
+        "word": "章莹颖男友已开始新恋情",
+        "onboard_time": 1759417704,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376176,
+        "num": 188265,
+        "word": "许妍卸妆",
+        "onboard_time": 1759411941,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250584,
+        "num": 183411,
+        "word": "陈赫问张子萱需不需要打码",
+        "onboard_time": 1759402760,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256700,
+        "num": 178356,
+        "word": "许我耀眼腾讯热度破32000",
+        "onboard_time": 1759416381,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237453,
+        "num": 171532,
+        "word": "对沈佳润是小孩有了实感",
+        "onboard_time": 1759396762,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169326,
+        "num": 169326,
+        "word": "智能马桶喷出开水女子被烫伤",
+        "onboard_time": 1759411101,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136528,
+        "num": 136528,
+        "word": "大城小爱",
+        "onboard_time": 1759407442,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135020,
+        "num": 135020,
+        "word": "许我耀眼",
+        "onboard_time": 1759415903,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158011,
+        "num": 134332,
+        "word": "在中国居住了5年的印度女子",
+        "onboard_time": 1759415302,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133113,
+        "num": 133113,
+        "word": "李纯马頔结婚",
+        "onboard_time": 1759378822,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123284,
+        "num": 123284,
+        "word": "泰国男子找回手机相册惊现尸骨照",
+        "onboard_time": 1759411941,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120128,
+        "num": 120128,
+        "word": "许魏洲被cpf贴脸",
+        "onboard_time": 1759414462,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105306,
+        "num": 105306,
+        "word": "孙颖莎说和大头想打好的决心一致",
+        "onboard_time": 1759419502,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 575008,
+        "num": 104470,
+        "word": "鸡排哥回应被指购置多套房产",
+        "onboard_time": 1759416262,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105855,
+        "num": 104119,
+        "word": "李纯马頔回复王菊",
+        "onboard_time": 1759421301,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103342,
+        "num": 103342,
+        "word": "穆祉丞啥意思",
+        "onboard_time": 1759398801,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96294,
+        "num": 96294,
+        "word": "多位名人自曝戴呼吸机睡觉",
+        "onboard_time": 1759412241,
+        "rank": 28,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 89106,
+        "num": 89106,
+        "word": "偷偷藏不住",
+        "onboard_time": 1759404802,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87744,
+        "num": 87744,
+        "word": "陈伟霆我二十来岁就跟着你了",
+        "onboard_time": 1759408703,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83798,
+        "num": 83798,
+        "word": "宋亚轩第一个售罄",
+        "onboard_time": 1759413862,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77888,
+        "num": 77888,
+        "word": "肖战唱完歌以为自己下班了",
+        "onboard_time": 1759404442,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 73884,
+        "num": 73884,
+        "word": "女子假期外出3C充电宝在家自爆",
+        "onboard_time": 1759417342,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71892,
+        "num": 71892,
+        "word": "一笑随歌热度",
+        "onboard_time": 1759409661,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69114,
+        "num": 71881,
+        "word": "内娱纯恨cp赛道",
+        "onboard_time": 1759417221,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66548,
+        "num": 71876,
+        "word": "中方向美方明确提出四不",
+        "onboard_time": 1759418121,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66321,
+        "num": 71862,
+        "word": "王楚钦说和孙颖莎沟通非常高效",
+        "onboard_time": 1759420400,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65294,
+        "num": 71843,
+        "word": "许我耀眼16",
+        "onboard_time": 1759405042,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62049,
+        "num": 71817,
+        "word": "蔡徐坤全球首穿含金量",
+        "onboard_time": 1759412661,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59010,
+        "num": 71810,
+        "word": "南京DNA音乐节",
+        "onboard_time": 1759423039,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 58634,
+        "num": 71794,
+        "word": "林高远说不会离开赛场",
+        "onboard_time": 1759419801,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57876,
+        "num": 71774,
+        "word": "许妍晕倒名场面幕后",
+        "onboard_time": 1759416443,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56792,
+        "num": 71760,
+        "word": "王楚钦孙颖莎光速下班的快乐谁懂",
+        "onboard_time": 1759422978,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55693,
+        "num": 71751,
+        "word": "特斯拉汉堡销量碾压麦当劳",
+        "onboard_time": 1759412304,
+        "rank": 44,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 52353,
+        "num": 71739,
+        "word": "张碧晨开场唱了我爱你中国",
+        "onboard_time": 1759419920,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52133,
+        "num": 71716,
+        "word": "中国队提前包揽大满贯混双冠亚军",
+        "onboard_time": 1759417162,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52081,
+        "num": 71699,
+        "word": "王楚钦说精力体力已经到了极限",
+        "onboard_time": 1759417403,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50153,
+        "num": 71699,
+        "word": "曾志伟借牛在在嘲讽向佐演技",
+        "onboard_time": 1759419560,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49811,
+        "num": 71669,
+        "word": "张晚意银发挑染",
+        "onboard_time": 1759407922,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#为祖国发展繁荣而不懈奋斗#"
+    }
+  }
+}
