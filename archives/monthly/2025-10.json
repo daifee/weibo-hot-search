@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759361804815,
+  "endTime": 1759369694346,
   "band_list": [
     {
       "raw_hot": 2379627,
@@ -73,6 +73,22 @@
       "onboard_time": 1759312042,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1259496,
+      "num": 1259496,
+      "word": "鸡排哥手臂布满烫伤疤",
+      "onboard_time": 1759364538,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1230126,
+      "num": 1230126,
+      "word": "珍古道尔去世",
+      "onboard_time": 1759361117,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1143185,
@@ -249,6 +265,14 @@
       "onboard_time": 1759248741,
       "rank": 0,
       "category": "国内时政,民生新闻"
+    },
+    {
+      "raw_hot": 730955,
+      "num": 730955,
+      "word": "9人轮流睡8张床学生已实现1人1铺",
+      "onboard_time": 1759364898,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 706971,
@@ -555,6 +579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 434111,
+      "num": 151930,
+      "word": "Dior连发4条迪丽热巴",
+      "onboard_time": 1759364000,
+      "rank": 10,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 430692,
       "num": 237472,
       "word": "卢昱晓凌晨五点天安门看升旗",
@@ -795,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 311990,
+      "num": 130484,
+      "word": "原来月经量少不是坏事",
+      "onboard_time": 1759364178,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 309928,
       "num": 309928,
       "word": "新人花近3万在海底捞办50桌婚宴",
@@ -931,6 +971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 239929,
+      "num": 239929,
+      "word": "清清转辅助",
+      "onboard_time": 1759362139,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 238825,
       "num": 238825,
       "word": "女子提前出发睡服务区省1400元",
@@ -971,12 +1019,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 232082,
+      "num": 148675,
+      "word": "在王力宏演唱会被鹿晗认出来了",
+      "onboard_time": 1759332679,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 231661,
+      "num": 145293,
+      "word": "陈伟霆称开始不敢接霸总戏",
+      "onboard_time": 1759340297,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231550,
       "num": 200476,
       "word": "浪姐 JYP",
       "onboard_time": 1759321041,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227971,
+      "num": 227971,
+      "word": "被15秒3次敬礼暖到",
+      "onboard_time": 1759365859,
+      "rank": 6,
+      "category": "正能量"
     },
     {
       "raw_hot": 227673,
@@ -1025,6 +1097,14 @@
       "onboard_time": 1759325962,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 217790,
+      "num": 140033,
+      "word": "迪丽热巴外媒镜头",
+      "onboard_time": 1759361718,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 217589,
@@ -1081,14 +1161,6 @@
       "onboard_time": 1759275258,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213523,
-      "num": 90233,
-      "word": "陈伟霆称开始不敢接霸总戏",
-      "onboard_time": 1759340297,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 212866,
@@ -1163,12 +1235,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204722,
+      "num": 142958,
+      "word": "娜扎好美",
+      "onboard_time": 1759365499,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 202662,
       "num": 202662,
       "word": "龚俊田曦薇将演攻玉",
       "onboard_time": 1759299621,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201331,
+      "num": 201331,
+      "word": "久哲",
+      "onboard_time": 1759362798,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 201055,
@@ -1185,6 +1273,14 @@
       "onboard_time": 1759321579,
       "rank": 22,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 196522,
+      "num": 85641,
+      "word": "警方通报女子酒后观赛大声喧哗",
+      "onboard_time": 1759361537,
+      "rank": 27,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 196263,
@@ -1251,22 +1347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186012,
-      "num": 186012,
-      "word": "珍古道尔去世",
-      "onboard_time": 1759361117,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 184619,
-      "num": 118113,
-      "word": "在王力宏演唱会被鹿晗认出来了",
-      "onboard_time": 1759332679,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 184433,
       "num": 184433,
       "word": "安静公主瘦了好多",
@@ -1305,6 +1385,14 @@
       "onboard_time": 1759291820,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173325,
+      "num": 130468,
+      "word": "皮肤上这种小红点可能是血管瘤",
+      "onboard_time": 1759368860,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 171372,
@@ -1353,6 +1441,14 @@
       "onboard_time": 1759299680,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167518,
+      "num": 136447,
+      "word": "Dior大秀G社生图",
+      "onboard_time": 1759361178,
+      "rank": 31,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 167385,
@@ -1459,12 +1555,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 159519,
+      "num": 131030,
+      "word": "陈伟霆回应好命哥",
+      "onboard_time": 1759366759,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158511,
       "num": 158511,
       "word": "杨幂游玩plog",
       "onboard_time": 1759295959,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156764,
+      "num": 133822,
+      "word": "鸡排哥 疲惫",
+      "onboard_time": 1759368621,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156584,
@@ -1481,6 +1593,14 @@
       "onboard_time": 1759306760,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154257,
+      "num": 154257,
+      "word": "打卡快乐十一",
+      "onboard_time": 1759361478,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 153792,
@@ -1835,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130372,
+      "num": 130372,
+      "word": "外国网红纷纷沉迷中国修容大法",
+      "onboard_time": 1759367120,
+      "rank": 23,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 129794,
       "num": 129794,
       "word": "闫妮魏大勋 国庆最忙的俩人",
@@ -1873,6 +2001,14 @@
       "onboard_time": 1759324280,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127477,
+      "num": 94711,
+      "word": "中网看台上的董卿",
+      "onboard_time": 1759368199,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 126676,
@@ -2107,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114187,
+      "num": 114187,
+      "word": "国庆中秋假期第2天",
+      "onboard_time": 1759367538,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114015,
       "num": 114015,
       "word": "陈哲远真不拿我当外人",
@@ -2116,7 +2260,7 @@
     },
     {
       "raw_hot": 113876,
-      "num": 615303,
+      "num": 923220,
       "word": "对祖国的爱永远滚烫赤诚",
       "onboard_time": 1759318221,
       "rank": 36,
@@ -2499,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98480,
+      "num": 98480,
+      "word": "特朗普放狠话称要做不可逆转之事",
+      "onboard_time": 1759368379,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97793,
       "num": 97793,
       "word": "乌鲁木齐地震",
@@ -2507,12 +2659,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 97589,
-      "num": 72503,
-      "word": "迪丽热巴外媒镜头",
-      "onboard_time": 1759361718,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 97121,
+      "num": 97121,
+      "word": "荣昌政府食堂一顿蒸550斤米饭",
+      "onboard_time": 1759363638,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97084,
@@ -2611,12 +2763,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94296,
+      "num": 94296,
+      "word": "六小龄童 猴子猴孙这么多",
+      "onboard_time": 1759369279,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 94233,
+      "num": 94233,
+      "word": "WF2025",
+      "onboard_time": 1759369038,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 94154,
       "num": 94154,
       "word": "苏新皓刀马刀马老教师",
       "onboard_time": 1759318281,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93981,
+      "num": 93981,
+      "word": "王乐晨",
+      "onboard_time": 1759369339,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 93967,
@@ -2657,6 +2833,14 @@
       "onboard_time": 1759313241,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92543,
+      "num": 92543,
+      "word": "许我耀眼热度破31000",
+      "onboard_time": 1759368500,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 91474,
@@ -2771,6 +2955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87204,
+      "num": 87204,
+      "word": "小狗渡海只为干架",
+      "onboard_time": 1759368919,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86812,
       "num": 86812,
       "word": "刘轩丞到达巴黎",
@@ -2865,6 +3057,14 @@
       "onboard_time": 1759322001,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84331,
+      "num": 84331,
+      "word": "王鹤棣录咸鱼飞升团综哭了",
+      "onboard_time": 1759361598,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 84258,
@@ -3083,6 +3283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75888,
+      "num": 75888,
+      "word": "章若楠出发巴黎了",
+      "onboard_time": 1759365739,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 75701,
       "num": 75701,
       "word": "鹿晗画了泪痣",
@@ -3115,6 +3323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73812,
+      "num": 73812,
+      "word": "西梅汁式恋爱",
+      "onboard_time": 1759364059,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 72650,
       "num": 72650,
       "word": "曝S15陪练团名单",
@@ -3145,6 +3361,14 @@
       "onboard_time": 1759336159,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 71317,
+      "num": 94394,
+      "word": "珍古道尔是出现在教科书上的传奇",
+      "onboard_time": 1759369519,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 71313,
@@ -3203,6 +3427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68150,
+      "num": 68150,
+      "word": "95岁老兵回忆开坦克用脚指挥队列",
+      "onboard_time": 1759369519,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 67766,
       "num": 67766,
       "word": "肖战用人民日报的图",
@@ -3235,14 +3467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 66717,
-      "num": 66717,
-      "word": "警方通报女子酒后观赛大声喧哗",
-      "onboard_time": 1759361537,
-      "rank": 27,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 65841,
       "num": 108594,
       "word": "王楚钦绝妙手感应对搏杀",
@@ -3257,6 +3481,14 @@
       "onboard_time": 1759288399,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65344,
+      "num": 65344,
+      "word": "刘萧旭 祝我们都好",
+      "onboard_time": 1759362620,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 64338,
@@ -3323,14 +3555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 57560,
-      "num": 57560,
-      "word": "Dior大秀G社生图",
-      "onboard_time": 1759361178,
-      "rank": 31,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 57171,
       "num": 57171,
       "word": "孙颖莎兼职裁判",
@@ -3345,6 +3569,14 @@
       "onboard_time": 1759275137,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 55539,
+      "num": 55539,
+      "word": "美军罕见召集驻扎全球的数百名将领",
+      "onboard_time": 1759361178,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 54156,
@@ -3587,28 +3819,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 34930,
-      "num": 34930,
-      "word": "王鹤棣录咸鱼飞升团综哭了",
-      "onboard_time": 1759361598,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 34404,
       "num": 104986,
       "word": "景德镇鸡排保镖已上线",
       "onboard_time": 1759310121,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34000,
-      "num": 34000,
-      "word": "美军罕见召集驻扎全球的数百名将领",
-      "onboard_time": 1759361178,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 33405,

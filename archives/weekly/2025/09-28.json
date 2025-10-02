@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759361804815,
+  "endTime": 1759369694346,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -313,6 +313,22 @@
       "onboard_time": 1759017321,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1259496,
+      "num": 1259496,
+      "word": "鸡排哥手臂布满烫伤疤",
+      "onboard_time": 1759364538,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1230126,
+      "num": 1230126,
+      "word": "珍古道尔去世",
+      "onboard_time": 1759361117,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1214864,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1759029499,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 730955,
+      "num": 730955,
+      "word": "9人轮流睡8张床学生已实现1人1铺",
+      "onboard_time": 1759364898,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 730346,
@@ -2347,6 +2371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434111,
+      "num": 151930,
+      "word": "Dior连发4条迪丽热巴",
+      "onboard_time": 1759364000,
+      "rank": 10,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 433365,
       "num": 433365,
       "word": "车超无罪",
@@ -3059,6 +3091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 311990,
+      "num": 130484,
+      "word": "原来月经量少不是坏事",
+      "onboard_time": 1759364178,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 311204,
       "num": 311204,
       "word": "乱港分子罗冠聪入境新加坡被拘",
@@ -3675,6 +3715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239929,
+      "num": 239929,
+      "word": "清清转辅助",
+      "onboard_time": 1759362139,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 238851,
       "num": 238851,
       "word": "徐怀钰嗓子",
@@ -3779,6 +3827,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 232082,
+      "num": 148675,
+      "word": "在王力宏演唱会被鹿晗认出来了",
+      "onboard_time": 1759332679,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 231771,
       "num": 208643,
       "word": "被凌峰老爷子唱哭",
@@ -3793,6 +3849,14 @@
       "onboard_time": 1759041200,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231661,
+      "num": 145293,
+      "word": "陈伟霆称开始不敢接霸总戏",
+      "onboard_time": 1759340297,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 231550,
@@ -3817,6 +3881,14 @@
       "onboard_time": 1759058601,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227971,
+      "num": 227971,
+      "word": "被15秒3次敬礼暖到",
+      "onboard_time": 1759365859,
+      "rank": 6,
+      "category": "正能量"
     },
     {
       "raw_hot": 227905,
@@ -3995,6 +4067,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 217790,
+      "num": 140033,
+      "word": "迪丽热巴外媒镜头",
+      "onboard_time": 1759361718,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217589,
       "num": 217589,
       "word": "两小时剔骨80个鸡腿手都剔流血了",
@@ -4065,14 +4145,6 @@
       "onboard_time": 1759275258,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213523,
-      "num": 90233,
-      "word": "陈伟霆称开始不敢接霸总戏",
-      "onboard_time": 1759340297,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 213297,
@@ -4243,6 +4315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204722,
+      "num": 142958,
+      "word": "娜扎好美",
+      "onboard_time": 1759365499,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 203458,
       "num": 203458,
       "word": "于适清唱",
@@ -4289,6 +4369,14 @@
       "onboard_time": 1759024941,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201331,
+      "num": 201331,
+      "word": "久哲",
+      "onboard_time": 1759362798,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 201283,
@@ -4401,6 +4489,14 @@
       "onboard_time": 1759040001,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196522,
+      "num": 85641,
+      "word": "警方通报女子酒后观赛大声喧哗",
+      "onboard_time": 1759361537,
+      "rank": 27,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 196263,
@@ -4811,14 +4907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186012,
-      "num": 186012,
-      "word": "珍古道尔去世",
-      "onboard_time": 1759361117,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 185998,
       "num": 185998,
       "word": "周深动情演唱故乡的云",
@@ -4873,14 +4961,6 @@
       "onboard_time": 1759207942,
       "rank": 31,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 184619,
-      "num": 118113,
-      "word": "在王力宏演唱会被鹿晗认出来了",
-      "onboard_time": 1759332679,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 184433,
@@ -5219,6 +5299,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 173325,
+      "num": 130468,
+      "word": "皮肤上这种小红点可能是血管瘤",
+      "onboard_time": 1759368860,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 173255,
       "num": 173255,
       "word": "年总大师精英擂台开战",
@@ -5489,6 +5577,14 @@
       "onboard_time": 1759196299,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 167518,
+      "num": 136447,
+      "word": "Dior大秀G社生图",
+      "onboard_time": 1759361178,
+      "rank": 31,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 167455,
@@ -5875,6 +5971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159519,
+      "num": 131030,
+      "word": "陈伟霆回应好命哥",
+      "onboard_time": 1759366759,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159326,
       "num": 159326,
       "word": "国庆去合肥还是意大利",
@@ -5969,6 +6073,14 @@
       "onboard_time": 1759232061,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156764,
+      "num": 133822,
+      "word": "鸡排哥 疲惫",
+      "onboard_time": 1759368621,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156584,
@@ -6081,6 +6193,14 @@
       "onboard_time": 1759041561,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 154257,
+      "num": 154257,
+      "word": "打卡快乐十一",
+      "onboard_time": 1759361478,
+      "rank": 9,
+      "category": "旅游"
     },
     {
       "raw_hot": 154124,
@@ -7507,6 +7627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130372,
+      "num": 130372,
+      "word": "外国网红纷纷沉迷中国修容大法",
+      "onboard_time": 1759367120,
+      "rank": 23,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 130302,
       "num": 130302,
       "word": "孙颖莎道出出战北满混双关键原因",
@@ -7809,6 +7937,14 @@
       "onboard_time": 1759206921,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127477,
+      "num": 94711,
+      "word": "中网看台上的董卿",
+      "onboard_time": 1759368199,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 127459,
@@ -8907,6 +9043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114187,
+      "num": 114187,
+      "word": "国庆中秋假期第2天",
+      "onboard_time": 1759367538,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114180,
       "num": 114180,
       "word": "A股午后突变",
@@ -8932,7 +9076,7 @@
     },
     {
       "raw_hot": 113876,
-      "num": 615303,
+      "num": 923220,
       "word": "对祖国的爱永远滚烫赤诚",
       "onboard_time": 1759318221,
       "rank": 36,
@@ -10371,6 +10515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98480,
+      "num": 98480,
+      "word": "特朗普放狠话称要做不可逆转之事",
+      "onboard_time": 1759368379,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 98350,
       "num": 106861,
       "word": "第一次见全是单间的卧铺动车",
@@ -10427,20 +10579,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 97589,
-      "num": 72503,
-      "word": "迪丽热巴外媒镜头",
-      "onboard_time": 1759361718,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97353,
       "num": 97353,
       "word": "领导以为的工作量vs实际的工作量",
       "onboard_time": 1759057460,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97121,
+      "num": 97121,
+      "word": "荣昌政府食堂一顿蒸550斤米饭",
+      "onboard_time": 1759363638,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97084,
@@ -10739,12 +10891,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94296,
+      "num": 94296,
+      "word": "六小龄童 猴子猴孙这么多",
+      "onboard_time": 1759369279,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94293,
       "num": 94293,
       "word": "官员买500斤白酒放单位公务接待",
       "onboard_time": 1759190900,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94233,
+      "num": 94233,
+      "word": "WF2025",
+      "onboard_time": 1759369038,
+      "rank": 33,
+      "category": "动漫"
     },
     {
       "raw_hot": 94198,
@@ -10785,6 +10953,14 @@
       "onboard_time": 1759024941,
       "rank": 46,
       "category": "综艺,电竞"
+    },
+    {
+      "raw_hot": 93981,
+      "num": 93981,
+      "word": "王乐晨",
+      "onboard_time": 1759369339,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 93967,
@@ -10857,6 +11033,14 @@
       "onboard_time": 1759057342,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 92543,
+      "num": 92543,
+      "word": "许我耀眼热度破31000",
+      "onboard_time": 1759368500,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 92498,
@@ -11251,6 +11435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87204,
+      "num": 87204,
+      "word": "小狗渡海只为干架",
+      "onboard_time": 1759368919,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86945,
       "num": 86945,
       "word": "觉得以前的东西好有质感啊",
@@ -11481,6 +11673,14 @@
       "onboard_time": 1759024159,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 84331,
+      "num": 84331,
+      "word": "王鹤棣录咸鱼飞升团综哭了",
+      "onboard_time": 1759361598,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 84258,
@@ -11979,6 +12179,14 @@
       "category": "电竞,体育"
     },
     {
+      "raw_hot": 75888,
+      "num": 75888,
+      "word": "章若楠出发巴黎了",
+      "onboard_time": 1759365739,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 75701,
       "num": 75701,
       "word": "鹿晗画了泪痣",
@@ -12033,6 +12241,14 @@
       "onboard_time": 1759249760,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73812,
+      "num": 73812,
+      "word": "西梅汁式恋爱",
+      "onboard_time": 1759364059,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 73794,
@@ -12155,6 +12371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71317,
+      "num": 94394,
+      "word": "珍古道尔是出现在教科书上的传奇",
+      "onboard_time": 1759369519,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 71313,
       "num": 71313,
       "word": "葬送的芙莉莲辛芙结婚了",
@@ -12251,6 +12475,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 68150,
+      "num": 68150,
+      "word": "95岁老兵回忆开坦克用脚指挥队列",
+      "onboard_time": 1759369519,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 68137,
       "num": 343243,
       "word": "菲律宾发布海啸预警",
@@ -12307,14 +12539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 66717,
-      "num": 66717,
-      "word": "警方通报女子酒后观赛大声喧哗",
-      "onboard_time": 1759361537,
-      "rank": 27,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 65938,
       "num": 126367,
       "word": "深圳4天中出两次10000000元大奖",
@@ -12361,6 +12585,14 @@
       "onboard_time": 1759202479,
       "rank": 19,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 65344,
+      "num": 65344,
+      "word": "刘萧旭 祝我们都好",
+      "onboard_time": 1759362620,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 65321,
@@ -12739,14 +12971,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 57560,
-      "num": 57560,
-      "word": "Dior大秀G社生图",
-      "onboard_time": 1759361178,
-      "rank": 31,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 57545,
       "num": 239948,
       "word": "和孟子义一起喜提缤果S",
@@ -12857,6 +13081,14 @@
       "onboard_time": 1759032140,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55539,
+      "num": 55539,
+      "word": "美军罕见召集驻扎全球的数百名将领",
+      "onboard_time": 1759361178,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 55490,
@@ -13635,14 +13867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34930,
-      "num": 34930,
-      "word": "王鹤棣录咸鱼飞升团综哭了",
-      "onboard_time": 1759361598,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 34897,
       "num": 34897,
       "word": "台风博罗依最新路径来了",
@@ -13673,14 +13897,6 @@
       "onboard_time": 1759069164,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34000,
-      "num": 34000,
-      "word": "美军罕见召集驻扎全球的数百名将领",
-      "onboard_time": 1759361178,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 33666,
