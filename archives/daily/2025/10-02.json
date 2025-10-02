@@ -1,7 +1,15 @@
 {
   "startTime": 1759336314340,
-  "endTime": 1759376792359,
+  "endTime": 1759379374094,
   "band_list": [
+    {
+      "raw_hot": 3448768,
+      "num": 268782,
+      "word": "李纯马頔结婚",
+      "onboard_time": 1759378822,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1352947,
       "num": 1352947,
@@ -17,6 +25,14 @@
       "onboard_time": 1759361117,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 993932,
+      "num": 284153,
+      "word": "刘亦菲新狗狗",
+      "onboard_time": 1759374920,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 968445,
@@ -67,6 +83,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 686257,
+      "num": 468639,
+      "word": "西贝冷冻大黄鱼用X光去刺",
+      "onboard_time": 1759373899,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 644464,
       "num": 142307,
       "word": "G3754次列车因买短乘长超员临停",
@@ -81,14 +105,6 @@
       "onboard_time": 1759328904,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 603657,
-      "num": 284153,
-      "word": "刘亦菲新狗狗",
-      "onboard_time": 1759374920,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 585931,
@@ -115,6 +131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 572264,
+      "num": 572264,
+      "word": "发现了隐翅虫",
+      "onboard_time": 1759373419,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 559567,
       "num": 899530,
       "word": "小米汽车突然自己开走",
@@ -123,11 +147,19 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 518602,
+      "raw_hot": 527474,
       "num": 276528,
       "word": "者来女回复",
       "onboard_time": 1759374079,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 517394,
+      "num": 265821,
+      "word": "倪妮夏露合照",
+      "onboard_time": 1759375580,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -139,12 +171,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 468639,
-      "num": 468639,
-      "word": "西贝冷冻大黄鱼用X光去刺",
-      "onboard_time": 1759373899,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 484736,
+      "num": 259870,
+      "word": "曝王乐晨是为了气前女友跑去上综艺",
+      "onboard_time": 1759377140,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 434111,
@@ -155,12 +187,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 412874,
+      "num": 258629,
+      "word": "刘亦菲国庆自驾游",
+      "onboard_time": 1759377320,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 401419,
       "num": 154211,
       "word": "林心如回应与陈妍希陈晓结亲家",
       "onboard_time": 1759323321,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 396129,
+      "num": 253591,
+      "word": "你叫王影璐 你又叫李昀锐",
+      "onboard_time": 1759376059,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 381971,
@@ -195,6 +243,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 347168,
+      "num": 347168,
+      "word": "恋与深空",
+      "onboard_time": 1759377978,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 345206,
+      "num": 251839,
+      "word": "朋友圈先私密几天后再公开",
+      "onboard_time": 1759374499,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 337216,
       "num": 337216,
       "word": "郑州方特道歉",
@@ -217,14 +281,6 @@
       "onboard_time": 1759369339,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 314112,
-      "num": 314112,
-      "word": "发现了隐翅虫",
-      "onboard_time": 1759373419,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 311990,
@@ -259,12 +315,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289684,
+      "num": 269858,
+      "word": "万达电影App崩了",
+      "onboard_time": 1759378340,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 279981,
       "num": 138085,
       "word": "薛之谦说有点不敢接音乐节了",
       "onboard_time": 1759330101,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 278466,
+      "num": 249408,
+      "word": "恋与深空 万达电影",
+      "onboard_time": 1759379002,
+      "rank": 23,
+      "category": "游戏,电影"
     },
     {
       "raw_hot": 278047,
@@ -289,14 +361,6 @@
       "onboard_time": 1759367120,
       "rank": 23,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 265821,
-      "num": 265821,
-      "word": "倪妮夏露合照",
-      "onboard_time": 1759375580,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 265094,
@@ -329,6 +393,14 @@
       "onboard_time": 1759365499,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 242417,
+      "num": 242417,
+      "word": "戚薇大光明紧身衣圣体",
+      "onboard_time": 1759378279,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 241273,
@@ -403,28 +475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 214350,
-      "num": 205829,
-      "word": "朋友圈先私密几天后再公开",
-      "onboard_time": 1759374499,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 212117,
       "num": 169634,
       "word": "皮肤上这种小红点可能是血管瘤",
       "onboard_time": 1759368860,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 205686,
-      "num": 205686,
-      "word": "你叫王影璐 你又叫李昀锐",
-      "onboard_time": 1759376059,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 203419,
@@ -451,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197364,
+      "num": 197364,
+      "word": "韩75万公务员工作文件丢失且无备份",
+      "onboard_time": 1759376360,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 196522,
       "num": 85641,
       "word": "警方通报女子酒后观赛大声喧哗",
@@ -475,6 +539,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 193340,
+      "num": 193340,
+      "word": "时代少年团纪录片",
+      "onboard_time": 1759379180,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189418,
       "num": 189418,
       "word": "国庆中秋假期第2天",
@@ -491,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175053,
+      "num": 192316,
+      "word": "董子健 把我爹放心上把我按地上",
+      "onboard_time": 1759378761,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173864,
       "num": 130828,
       "word": "张颂文 这不神经病吗",
@@ -499,12 +579,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173238,
+      "num": 173238,
+      "word": "林心如谈邱泽许玮甯儿子",
+      "onboard_time": 1759378881,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170060,
       "num": 170060,
       "word": "陈伟霆 老钱",
       "onboard_time": 1759373959,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169365,
+      "num": 169365,
+      "word": "娜扎演嫦娥完全是神仙级别的",
+      "onboard_time": 1759378219,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 169293,
@@ -547,6 +643,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 159064,
+      "num": 159064,
+      "word": "电影志愿军再现细菌战毒气战",
+      "onboard_time": 1759377320,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 158734,
+      "num": 158734,
+      "word": "看完之后觉得9块9一杯还是贵了",
+      "onboard_time": 1759377560,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 155636,
       "num": 155636,
       "word": "打卡快乐十一",
@@ -555,12 +667,36 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 151229,
+      "num": 151229,
+      "word": "让高铁商务座亏钱的人出现了",
+      "onboard_time": 1759377860,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150034,
       "num": 129966,
       "word": "迪奥大秀",
       "onboard_time": 1759323742,
       "rank": 24,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 149559,
+      "num": 149559,
+      "word": "李一桐 我那体制内女友",
+      "onboard_time": 1759377680,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146508,
+      "num": 146508,
+      "word": "一笑随歌",
+      "onboard_time": 1759378642,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 145424,
@@ -587,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139375,
+      "num": 139375,
+      "word": "让血糖飙升的3种素菜",
+      "onboard_time": 1759379180,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 134814,
       "num": 134814,
       "word": "陈妍希夸小海豚太漂亮了",
@@ -595,8 +739,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133425,
-      "num": 133425,
+      "raw_hot": 133436,
+      "num": 133436,
       "word": "人人人人广州塔人人人人",
       "onboard_time": 1759376419,
       "rank": 33,
@@ -619,6 +763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131444,
+      "num": 146813,
+      "word": "王曼昱蒯曼3比0长崎美柚申裕斌",
+      "onboard_time": 1759378041,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130574,
       "num": 130574,
       "word": "如果你经常侧睡导致肩膀内扣",
@@ -633,6 +785,14 @@
       "onboard_time": 1759373839,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 129973,
+      "num": 141579,
+      "word": "王楚钦林诗栋3比0徐瑛彬袁励岑",
+      "onboard_time": 1759377978,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 128005,
@@ -675,20 +835,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112651,
+      "num": 254454,
+      "word": "董璇介绍张维伊兄弟给好友",
+      "onboard_time": 1759378401,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111013,
       "num": 111013,
       "word": "女设计师聊运20又笑又哭",
       "onboard_time": 1759374319,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 110275,
-      "num": 110275,
-      "word": "韩75万公务员工作文件丢失且无备份",
-      "onboard_time": 1759376360,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 109570,
@@ -803,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96154,
+      "num": 149620,
+      "word": "希腊全国罢工",
+      "onboard_time": 1759379122,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 94700,
       "num": 94700,
       "word": "iG与T1决定TES抽签池",
@@ -825,6 +993,14 @@
       "onboard_time": 1759368500,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92499,
+      "num": 146579,
+      "word": "董璇温柔的脸放好狠的话",
+      "onboard_time": 1759378100,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 92016,
@@ -857,6 +1033,14 @@
       "onboard_time": 1759324641,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85789,
+      "num": 163025,
+      "word": "邓超内收式疯批演技",
+      "onboard_time": 1759377860,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 84727,
@@ -995,6 +1179,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 68537,
+      "num": 192510,
+      "word": "媒体评飞猪公开课是旅行版TED",
+      "onboard_time": 1759377920,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 68531,
       "num": 68531,
       "word": "王楚钦说自己老了",
@@ -1059,6 +1251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 60084,
+      "num": 647430,
+      "word": "国庆假期第二天",
+      "onboard_time": 1759377379,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59017,
       "num": 59017,
       "word": "沈皓明承认弟弟是私生子",
@@ -1104,6 +1304,14 @@
       "word": "孙颖莎兼职裁判",
       "onboard_time": 1759361058,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 55859,
+      "num": 257063,
+      "word": "王曼昱蒯曼女双进四强",
+      "onboard_time": 1759378219,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -1201,6 +1409,14 @@
       "onboard_time": 1759361537,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 38869,
+      "num": 250251,
+      "word": "Dior春夏秀精彩回顾",
+      "onboard_time": 1759377920,
+      "rank": 22,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 38498,
@@ -1345,6 +1561,9 @@
     },
     {
       "word": "#做一个光荣自豪的中国人#"
+    },
+    {
+      "word": "#习近平给天津大学全体师生回信#"
     }
   ]
 }
