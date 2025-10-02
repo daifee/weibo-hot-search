@@ -1,0 +1,410 @@
+{
+  "runTime": 1759415147524,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 775354,
+        "num": 1124056,
+        "word": "人人人人人人鸡排哥人人人人人人",
+        "onboard_time": 1759405702,
+        "rank": 0,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 523544,
+        "num": 523544,
+        "word": "王楚钦孙颖莎vs雨果高桥布鲁娜",
+        "onboard_time": 1759410381,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48020,
+        "num": 381989,
+        "word": "国庆中秋假期游玩好去处",
+        "onboard_time": 1759414222,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372660,
+        "num": 372660,
+        "word": "李在明痛批反华集会有损国格",
+        "onboard_time": 1759406421,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 365279,
+        "num": 365279,
+        "word": "提醒在韩中国游客注意人身安全",
+        "onboard_time": 1759401381,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291148,
+        "num": 291148,
+        "word": "深圳地铁列车自己洗澡睡觉",
+        "onboard_time": 1759409060,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291059,
+        "num": 291059,
+        "word": "我驻韩使馆就反华游行表明严正立场",
+        "onboard_time": 1759403361,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250299,
+        "num": 250299,
+        "word": "社保补贴",
+        "onboard_time": 1759396880,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207949,
+        "num": 207949,
+        "word": "高度近视眼一定要防止视网膜脱落",
+        "onboard_time": 1759398020,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205680,
+        "num": 205680,
+        "word": "中国驻韩国大使馆严正发声",
+        "onboard_time": 1759402940,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1406400,
+        "num": 204686,
+        "word": "许妍卸妆",
+        "onboard_time": 1759411941,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 743782,
+        "num": 204201,
+        "word": "陈赫问张子萱需不需要打码",
+        "onboard_time": 1759402760,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 558597,
+        "num": 203229,
+        "word": "泰国男子找回手机相册惊现尸骨照",
+        "onboard_time": 1759411941,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 464427,
+        "num": 201918,
+        "word": "大城小爱",
+        "onboard_time": 1759407442,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 440046,
+        "num": 200740,
+        "word": "许我耀眼16",
+        "onboard_time": 1759405042,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425580,
+        "num": 199798,
+        "word": "对沈佳润是小孩有了实感",
+        "onboard_time": 1759396762,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379962,
+        "num": 198769,
+        "word": "做手术前一定要多问一句",
+        "onboard_time": 1759398560,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 367434,
+        "num": 197317,
+        "word": "李纯马頔结婚",
+        "onboard_time": 1759378822,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323632,
+        "num": 197023,
+        "word": "穆祉丞啥意思",
+        "onboard_time": 1759398801,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293503,
+        "num": 195943,
+        "word": "宋亚轩第一个售罄",
+        "onboard_time": 1759413862,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270303,
+        "num": 194155,
+        "word": "张艺兴官宣独立音乐人邓泽鸣",
+        "onboard_time": 1759404682,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249653,
+        "num": 193667,
+        "word": "智能马桶喷出开水女子被烫伤",
+        "onboard_time": 1759411101,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240475,
+        "num": 192218,
+        "word": "许魏洲被cpf贴脸",
+        "onboard_time": 1759414462,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231423,
+        "num": 191400,
+        "word": "成龙王力宏亲了",
+        "onboard_time": 1759414522,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190886,
+        "num": 190886,
+        "word": "陈伟霆我二十来岁就跟着你了",
+        "onboard_time": 1759408703,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187734,
+        "num": 187734,
+        "word": "多位名人自曝戴呼吸机睡觉",
+        "onboard_time": 1759412241,
+        "rank": 25,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 181303,
+        "num": 181303,
+        "word": "林俊杰新歌首唱",
+        "onboard_time": 1759412482,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178668,
+        "num": 178668,
+        "word": "莎头组合顺利晋级决赛",
+        "onboard_time": 1759414522,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172273,
+        "num": 172273,
+        "word": "王艺迪终结对桥本帆乃香三连败",
+        "onboard_time": 1759413021,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157402,
+        "num": 157402,
+        "word": "王楚钦孙颖莎11比3雨果高桥布鲁娜",
+        "onboard_time": 1759413742,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200410,
+        "num": 157162,
+        "word": "孙颖莎说找到配合最好时的感觉",
+        "onboard_time": 1759414581,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159548,
+        "num": 156115,
+        "word": "陈俊菘回应首进大满贯八强",
+        "onboard_time": 1759414222,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129914,
+        "num": 154970,
+        "word": "成龙陪王力宏唱需要人陪",
+        "onboard_time": 1759413802,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154596,
+        "num": 154596,
+        "word": "李在明指挥权志龙开飞机",
+        "onboard_time": 1759407080,
+        "rank": 33,
+        "category": "海外新闻,艺人"
+      },
+      {
+        "raw_hot": 154483,
+        "num": 154483,
+        "word": "特斯拉汉堡销量碾压麦当劳",
+        "onboard_time": 1759412304,
+        "rank": 34,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 144304,
+        "num": 144304,
+        "word": "蔡徐坤全球首穿含金量",
+        "onboard_time": 1759412661,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143134,
+        "num": 143134,
+        "word": "小酒窝也没抢到星星人",
+        "onboard_time": 1759409421,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137536,
+        "num": 137536,
+        "word": "王楚钦四冠王",
+        "onboard_time": 1759409122,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137451,
+        "num": 137451,
+        "word": "王楚钦爆冲美学",
+        "onboard_time": 1759414760,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136223,
+        "num": 136223,
+        "word": "张晚意银发挑染",
+        "onboard_time": 1759407922,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129583,
+        "num": 129583,
+        "word": "一笑随歌热度",
+        "onboard_time": 1759409661,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122869,
+        "num": 122869,
+        "word": "母亲回应玉米堆垮塌孩子被埋",
+        "onboard_time": 1759415062,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122146,
+        "num": 122146,
+        "word": "肖战唱完歌以为自己下班了",
+        "onboard_time": 1759404442,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121585,
+        "num": 121585,
+        "word": "第五人格医生",
+        "onboard_time": 1759414642,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121012,
+        "num": 121012,
+        "word": "狗被车碾压因太胖逃过一劫主人发声",
+        "onboard_time": 1759409421,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118023,
+        "num": 118023,
+        "word": "王曼昱晋级女单8强",
+        "onboard_time": 1759415062,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116884,
+        "num": 116884,
+        "word": "莎头速速速胜",
+        "onboard_time": 1759414942,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115901,
+        "num": 115901,
+        "word": "林更新成毅水下戏路透",
+        "onboard_time": 1759407802,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115690,
+        "num": 115690,
+        "word": "专家建议鸡排哥不要用大豆油",
+        "onboard_time": 1759390820,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86666,
+        "num": 111699,
+        "word": "邓为在巴黎丢了套衣服",
+        "onboard_time": 1759413382,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#为祖国发展繁荣而不懈奋斗#"
+    }
+  }
+}
