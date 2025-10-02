@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759419652511,
+  "endTime": 1759422668020,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -571,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 679763,
+      "num": 245521,
+      "word": "迪丽热巴ins",
+      "onboard_time": 1759418422,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 670385,
       "num": 238574,
       "word": "迪丽热巴邝玲玲Orm同框",
@@ -651,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 611759,
+      "num": 562180,
+      "word": "鸡排哥回应被指购置多套房产",
+      "onboard_time": 1759416262,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 604353,
       "num": 604353,
       "word": "景德镇连夜招大学生上任鸡排保镖",
@@ -705,14 +721,6 @@
       "onboard_time": 1759230981,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 562180,
-      "num": 562180,
-      "word": "鸡排哥回应被指购置多套房产",
-      "onboard_time": 1759416262,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 559567,
@@ -1099,14 +1107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 388570,
-      "num": 245521,
-      "word": "迪丽热巴ins",
-      "onboard_time": 1759418422,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 382031,
       "num": 382031,
       "word": "吴艳妮假期重回90公斤",
@@ -1241,6 +1241,14 @@
       "onboard_time": 1759387102,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 348677,
+      "num": 348677,
+      "word": "陈泽",
+      "onboard_time": 1759419200,
+      "rank": 6,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 347168,
@@ -1651,12 +1659,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 247579,
-      "num": 247579,
-      "word": "陈泽",
-      "onboard_time": 1759419200,
-      "rank": 6,
-      "category": "游戏,网红"
+      "raw_hot": 245836,
+      "num": 245836,
+      "word": "香港人盯上内地医保",
+      "onboard_time": 1759417821,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245692,
@@ -4443,14 +4451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106444,
-      "num": 245068,
-      "word": "香港人盯上内地医保",
-      "onboard_time": 1759417821,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 105906,
       "num": 105906,
       "word": "全红婵发跳水动态",
@@ -4561,6 +4561,14 @@
       "onboard_time": 1759290920,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 103554,
+      "num": 94786,
+      "word": "李纯马頔回复王菊",
+      "onboard_time": 1759421301,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 103548,
@@ -5396,7 +5404,7 @@
     },
     {
       "raw_hot": 85434,
-      "num": 85434,
+      "num": 85447,
       "word": "曾志伟借牛在在嘲讽向佐演技",
       "onboard_time": 1759419560,
       "rank": 47,
@@ -5963,6 +5971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73516,
+      "num": 85510,
+      "word": "王楚钦说和孙颖莎沟通非常高效",
+      "onboard_time": 1759420400,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72772,
       "num": 104650,
       "word": "王楚钦大脑飞速加载中",
@@ -5977,6 +5993,14 @@
       "onboard_time": 1759241422,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 72491,
+      "num": 85499,
+      "word": "中国队提前包揽大满贯混双冠亚军",
+      "onboard_time": 1759417162,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 72227,
@@ -6243,6 +6267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61161,
+      "num": 85446,
+      "word": "国庆日出",
+      "onboard_time": 1759420820,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60467,
       "num": 153144,
       "word": "十一当天有3.6亿人用高德",
@@ -6267,12 +6299,44 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58416,
+      "num": 85432,
+      "word": "林高远说不会离开赛场",
+      "onboard_time": 1759419801,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58154,
       "num": 56507,
       "word": "第一次看到狗回头睡脖子是悬空的",
       "onboard_time": 1759272077,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 58141,
+      "num": 85423,
+      "word": "刘雯时隔13年重回Dior秀场",
+      "onboard_time": 1759420759,
+      "rank": 47,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 58099,
+      "num": 85417,
+      "word": "王楚钦说雨果的打法非常凶狠",
+      "onboard_time": 1759422500,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58063,
+      "num": 85406,
+      "word": "张碧晨开场唱了我爱你中国",
+      "onboard_time": 1759419920,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 58013,
