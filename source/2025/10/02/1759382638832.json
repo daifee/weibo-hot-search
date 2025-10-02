@@ -1,0 +1,410 @@
+{
+  "runTime": 1759382638832,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 738492,
+        "num": 1118158,
+        "word": "鸡排哥手臂布满烫伤疤",
+        "onboard_time": 1759364538,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552106,
+        "num": 552106,
+        "word": "鸡排哥代购每份加价20元",
+        "onboard_time": 1759379721,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85789,
+        "num": 388923,
+        "word": "国庆假期第二天",
+        "onboard_time": 1759377379,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 366328,
+        "num": 366328,
+        "word": "珍古道尔去世",
+        "onboard_time": 1759361117,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 358789,
+        "num": 358789,
+        "word": "发现了隐翅虫",
+        "onboard_time": 1759373419,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326703,
+        "num": 326703,
+        "word": "韩国阅兵式跆拳道表演出现失误",
+        "onboard_time": 1759374620,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 268195,
+        "num": 268195,
+        "word": "希腊全国罢工",
+        "onboard_time": 1759379122,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 257808,
+        "num": 257808,
+        "word": "韩75万公务员工作文件丢失且无备份",
+        "onboard_time": 1759376360,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 230849,
+        "num": 230849,
+        "word": "孙颖莎vs王晓彤",
+        "onboard_time": 1759381521,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183824,
+        "num": 183824,
+        "word": "梁靖崑无缘中国大满贯八强",
+        "onboard_time": 1759380322,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6220225,
+        "num": 6220225,
+        "word": "李纯马頔结婚",
+        "onboard_time": 1759378822,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1128002,
+        "num": 183720,
+        "word": "艺人音乐节坐地起价",
+        "onboard_time": 1759380743,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 564397,
+        "num": 183701,
+        "word": "刘亦菲新狗狗",
+        "onboard_time": 1759374920,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 546948,
+        "num": 183649,
+        "word": "刘亦菲国庆自驾游",
+        "onboard_time": 1759377320,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411934,
+        "num": 183570,
+        "word": "偏头痛 喝可乐",
+        "onboard_time": 1759372639,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168498,
+        "num": 183532,
+        "word": "梁靖崑2比3松岛辉空",
+        "onboard_time": 1759381281,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377171,
+        "num": 183483,
+        "word": "王菊晒和李纯在婚姻登记处合照",
+        "onboard_time": 1759382181,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27810,
+        "num": 183430,
+        "word": "一秒代入Dior春夏秀第一视角",
+        "onboard_time": 1759381521,
+        "rank": 17,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 39049,
+        "num": 183363,
+        "word": "蔡明用AQ把自己照顾的很好",
+        "onboard_time": 1759380443,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338427,
+        "num": 183331,
+        "word": "曝王乐晨是为了气前女友跑去上综艺",
+        "onboard_time": 1759377140,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25675,
+        "num": 183291,
+        "word": "Dior春夏秀精彩回顾",
+        "onboard_time": 1759377920,
+        "rank": 20,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 315591,
+        "num": 183226,
+        "word": "迪丽热巴把G社变站姐了",
+        "onboard_time": 1759373599,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 283753,
+        "num": 183156,
+        "word": "倪妮夏露合照",
+        "onboard_time": 1759375580,
+        "rank": 22,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 235251,
+        "num": 183124,
+        "word": "董璇张维伊婚礼合影站位",
+        "onboard_time": 1759381223,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258766,
+        "num": 183059,
+        "word": "者来女回复",
+        "onboard_time": 1759374079,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256034,
+        "num": 183001,
+        "word": "万达电影App崩了",
+        "onboard_time": 1759378340,
+        "rank": 25,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 252909,
+        "num": 182962,
+        "word": "你叫王影璐 你又叫李昀锐",
+        "onboard_time": 1759376059,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239749,
+        "num": 182880,
+        "word": "朋友圈先私密几天后再公开",
+        "onboard_time": 1759374499,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182869,
+        "num": 182869,
+        "word": "宗馥莉心腹严学峰被调查",
+        "onboard_time": 1759380503,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95918,
+        "num": 181904,
+        "word": "谁教檀健次粉丝这样宣传的",
+        "onboard_time": 1759382242,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181028,
+        "num": 181028,
+        "word": "董璇介绍张维伊兄弟给好友",
+        "onboard_time": 1759378401,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174400,
+        "num": 174400,
+        "word": "环保少女再次被以军扣押",
+        "onboard_time": 1759370780,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171561,
+        "num": 171561,
+        "word": "董卿儿子长这么大了",
+        "onboard_time": 1759381462,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162072,
+        "num": 162072,
+        "word": "王乐晨",
+        "onboard_time": 1759369339,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156130,
+        "num": 156130,
+        "word": "鸡排哥 疲惫",
+        "onboard_time": 1759368621,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152259,
+        "num": 152259,
+        "word": "谁给高圆圆剪的刘海",
+        "onboard_time": 1759380202,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145905,
+        "num": 145905,
+        "word": "打卡快乐十一",
+        "onboard_time": 1759361478,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 140870,
+        "num": 140870,
+        "word": "小米17系列销量破百万",
+        "onboard_time": 1759382062,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 87461,
+        "num": 135910,
+        "word": "男子开飞机15分钟回老家过国庆",
+        "onboard_time": 1759382421,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135875,
+        "num": 135875,
+        "word": "林心如谈邱泽许玮甯儿子",
+        "onboard_time": 1759378881,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129144,
+        "num": 129144,
+        "word": "恋与深空 万达电影",
+        "onboard_time": 1759379002,
+        "rank": 40,
+        "category": "游戏,电影"
+      },
+      {
+        "raw_hot": 125831,
+        "num": 125831,
+        "word": "让高铁商务座亏钱的人出现了",
+        "onboard_time": 1759377860,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122991,
+        "num": 122991,
+        "word": "9人轮流睡8张床学生已实现1人1铺",
+        "onboard_time": 1759364898,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120668,
+        "num": 120668,
+        "word": "Dior连发4条迪丽热巴",
+        "onboard_time": 1759364000,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 117482,
+        "num": 117482,
+        "word": "陈幸同3比2李昱谆",
+        "onboard_time": 1759382421,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116665,
+        "num": 116665,
+        "word": "恋与深空",
+        "onboard_time": 1759377978,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115302,
+        "num": 115302,
+        "word": "戚薇大光明紧身衣圣体",
+        "onboard_time": 1759378279,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112165,
+        "num": 112165,
+        "word": "时代少年团纪录片",
+        "onboard_time": 1759379180,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111562,
+        "num": 111562,
+        "word": "许我耀眼",
+        "onboard_time": 1759376839,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111052,
+        "num": 111052,
+        "word": "快30了对年龄很难有实感",
+        "onboard_time": 1759381341,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给天津大学全体师生回信#"
+    }
+  }
+}

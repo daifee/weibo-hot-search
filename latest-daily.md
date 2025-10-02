@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/02 00:31:54 ~ 2025/10/02 12:41:53
+本榜单时间：2025/10/02 00:31:54 ~ 2025/10/02 13:23:58
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8F%8D%E5%8F%A4%E9%81%93%E5%B0%94%E5%8E%BB%E4%B8%96%23" target="weibo">
 珍古道尔去世（热度：1230126）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%89%BA%E4%BA%BA%E9%9F%B3%E4%B9%90%E8%8A%82%E5%9D%90%E5%9C%B0%E8%B5%B7%E4%BB%B7%23" target="weibo">
+艺人音乐节坐地起价（热度：1128002）
 </a>
 </li>
 
@@ -123,6 +129,18 @@ G3754次列车因买短乘长超员临停（热度：644464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E4%BB%A3%E8%B4%AD%E6%AF%8F%E4%BB%BD%E5%8A%A0%E4%BB%B720%E5%85%83%23" target="weibo">
+鸡排哥代购每份加价20元（热度：552106）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%9B%BD%E5%BA%86%E8%87%AA%E9%A9%BE%E6%B8%B8%23" target="weibo">
+刘亦菲国庆自驾游（热度：546948）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%85%E6%9D%A5%E5%A5%B3%E5%9B%9E%E5%A4%8D%23" target="weibo">
 者来女回复（热度：527474）
 </a>
@@ -153,12 +171,6 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E5%9B%BD%E5%BA%86%E8%87%AA%E9%A9%BE%E6%B8%B8%23" target="weibo">
-刘亦菲国庆自驾游（热度：412874）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E5%9B%9E%E5%BA%94%E4%B8%8E%E9%99%88%E5%A6%8D%E5%B8%8C%E9%99%88%E6%99%93%E7%BB%93%E4%BA%B2%E5%AE%B6%23" target="weibo">
 林心如回应与陈妍希陈晓结亲家（热度：401419）
 </a>
@@ -173,6 +185,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%B0%8F%E9%BE%84%E7%AB%A5%20%E7%8C%B4%E5%AD%90%E7%8C%B4%E5%AD%99%E8%BF%99%E4%B9%88%E5%A4%9A%23" target="weibo">
 六小龄童 猴子猴孙这么多（热度：381971）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%8A%E6%99%92%E5%92%8C%E6%9D%8E%E7%BA%AF%E5%9C%A8%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E5%A4%84%E5%90%88%E7%85%A7%23" target="weibo">
+王菊晒和李纯在婚姻登记处合照（热度：377171）
 </a>
 </li>
 
@@ -285,6 +303,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%8C%E8%85%8A%E5%85%A8%E5%9B%BD%E7%BD%A2%E5%B7%A5%23" target="weibo">
+希腊全国罢工（热度：268195）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%BE%97%E5%8A%9B%E8%BE%9E%E9%80%80%E8%B7%9B%E8%84%9A%E5%91%98%E5%B7%A5%E5%86%8D%E5%8F%91%E5%A3%B0%23" target="weibo">
 被得力辞退跛脚员工再发声（热度：265094）
 </a>
@@ -299,6 +323,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%A0%E6%83%AF%E4%BE%A7%E7%9D%A1%E7%9A%84%E4%BA%BA%E4%BB%8A%E6%99%9A%E6%8D%A2%E4%B8%AA%E5%A7%BF%E5%8A%BF%23" target="weibo">
 习惯侧睡的人今晚换个姿势（热度：262848）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A975%E4%B8%87%E5%85%AC%E5%8A%A1%E5%91%98%E5%B7%A5%E4%BD%9C%E6%96%87%E4%BB%B6%E4%B8%A2%E5%A4%B1%E4%B8%94%E6%97%A0%E5%A4%87%E4%BB%BD%23" target="weibo">
+韩75万公务员工作文件丢失且无备份（热度：257808）
 </a>
 </li>
 
@@ -333,6 +363,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E5%BC%A0%E7%BB%B4%E4%BC%8A%E5%A9%9A%E7%A4%BC%E5%90%88%E5%BD%B1%E7%AB%99%E4%BD%8D%23" target="weibo">
+董璇张维伊婚礼合影站位（热度：235251）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%82%9D%E7%8E%B2%E7%8E%B2Orm%E5%90%8C%E6%A1%86%23" target="weibo">
 迪丽热巴邝玲玲Orm同框（热度：235163）
 </a>
@@ -357,6 +393,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E6%99%93%E5%BD%A4%23" target="weibo">
+孙颖莎vs王晓彤（热度：230849）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%9D%9E%E9%A9%BB%E6%B3%95%E5%A4%A7%E4%BD%BF%E8%B7%B3%E6%A5%BC%E5%89%8D%E5%8F%91%E8%AF%80%E5%88%AB%E7%9F%AD%E4%BF%A1%23" target="weibo">
 南非驻法大使跳楼前发诀别短信（热度：223059）
 </a>
@@ -371,12 +413,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%A4%A7%E9%81%93%E4%B8%BA%E8%BF%8E%E5%9B%BD%E5%BA%86%E6%8A%8A%E8%B7%AF%E9%93%BA%E5%B9%B3%E4%BA%86%23" target="weibo">
 鸡排大道为迎国庆把路铺平了（热度：216875）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A975%E4%B8%87%E5%85%AC%E5%8A%A1%E5%91%98%E5%B7%A5%E4%BD%9C%E6%96%87%E4%BB%B6%E4%B8%A2%E5%A4%B1%E4%B8%94%E6%97%A0%E5%A4%87%E4%BB%BD%23" target="weibo">
-韩75万公务员工作文件丢失且无备份（热度：215467）
 </a>
 </li>
 
@@ -441,6 +477,18 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91%E6%97%A0%E7%BC%98%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%85%AB%E5%BC%BA%23" target="weibo">
+梁靖崑无缘中国大满贯八强（热度：183824）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E5%BF%83%E8%85%B9%E4%B8%A5%E5%AD%A6%E5%B3%B0%E8%A2%AB%E8%B0%83%E6%9F%A5%23" target="weibo">
+宗馥莉心腹严学峰被调查（热度：182869）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E8%B0%88%E9%82%B1%E6%B3%BD%E8%AE%B8%E7%8E%AE%E7%94%AF%E5%84%BF%E5%AD%90%23" target="weibo">
 林心如谈邱泽许玮甯儿子（热度：182212）
 </a>
@@ -459,6 +507,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%8D%BF%E5%84%BF%E5%AD%90%E9%95%BF%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86%23" target="weibo">
+董卿儿子长这么大了（热度：171561）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%20%E8%80%81%E9%92%B1%23" target="weibo">
 陈伟霆 老钱（热度：170060）
 </a>
@@ -473,6 +527,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%AF%E8%B0%81%E6%8A%8A%E5%B0%8F%E7%8B%97%E5%BF%98%E8%AE%B0%E5%9C%A8%E9%AB%98%E5%B2%97%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E4%BA%86%23" target="weibo">
 是谁把小狗忘记在高岗高速服务区了（热度：169293）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%912%E6%AF%943%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA%23" target="weibo">
+梁靖崑2比3松岛辉空（热度：168498）
 </a>
 </li>
 
@@ -525,6 +585,12 @@ Dior大秀G社生图（热度：167518）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E9%AB%98%E5%9C%86%E5%9C%86%E5%89%AA%E7%9A%84%E5%88%98%E6%B5%B7%23" target="weibo">
+谁给高圆圆剪的刘海（热度：152259）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%A9%E9%AB%98%E9%93%81%E5%95%86%E5%8A%A1%E5%BA%A7%E4%BA%8F%E9%92%B1%E7%9A%84%E4%BA%BA%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
 让高铁商务座亏钱的人出现了（热度：151229）
 </a>
@@ -569,6 +635,12 @@ Dior大秀G社生图（热度：167518）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%811%E5%88%86%E9%92%9F%E6%8D%A2%E4%B9%98%23" target="weibo">
 高铁1分钟换乘（热度：140878）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317%E7%B3%BB%E5%88%97%E9%94%80%E9%87%8F%E7%A0%B4%E7%99%BE%E4%B8%87%23" target="weibo">
+小米17系列销量破百万（热度：140870）
 </a>
 </li>
 
@@ -639,18 +711,6 @@ Dior大秀G社生图（热度：167518）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E4%BB%A3%E8%B4%AD%E6%AF%8F%E4%BB%BD%E5%8A%A0%E4%BB%B720%E5%85%83%23" target="weibo">
-鸡排哥代购每份加价20元（热度：127429）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%8C%E8%85%8A%E5%85%A8%E5%9B%BD%E7%BD%A2%E5%B7%A5%23" target="weibo">
-希腊全国罢工（热度：125673）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%94%BE%E5%81%87%E8%B6%8A%E6%9D%A5%E8%B6%8A%E4%B8%8D%E5%96%9C%E6%AC%A2%E5%87%91%E7%83%AD%E9%97%B9%23" target="weibo">
 年轻人放假越来越不喜欢凑热闹（热度：119887）
 </a>
@@ -659,6 +719,12 @@ Dior大秀G社生图（热度：167518）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E4%BA%86%E7%9B%B8%E4%BA%B2%E6%9C%80%E9%AB%98%E6%95%88%E7%9A%84%E5%8A%9E%E6%B3%95%23" target="weibo">
 发现了相亲最高效的办法（热度：119364）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B9%B8%E5%90%8C3%E6%AF%942%E6%9D%8E%E6%98%B1%E8%B0%86%23" target="weibo">
+陈幸同3比2李昱谆（热度：117482）
 </a>
 </li>
 
@@ -677,6 +743,12 @@ Dior大秀G社生图（热度：167518）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E9%99%84%E8%BF%91%E5%95%86%E6%88%B7%E7%A7%B0%E8%90%A5%E4%B8%9A%E9%A2%9D%E7%A0%B4%E4%BA%86%E7%BA%AA%E5%BD%95%23" target="weibo">
 鸡排哥附近商户称营业额破了纪录（热度：112801）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB30%E4%BA%86%E5%AF%B9%E5%B9%B4%E9%BE%84%E5%BE%88%E9%9A%BE%E6%9C%89%E5%AE%9E%E6%84%9F%23" target="weibo">
+快30了对年龄很难有实感（热度：111052）
 </a>
 </li>
 
@@ -771,6 +843,12 @@ Dior大秀G社生图（热度：167518）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%95%99%E6%AA%80%E5%81%A5%E6%AC%A1%E7%B2%89%E4%B8%9D%E8%BF%99%E6%A0%B7%E5%AE%A3%E4%BC%A0%E7%9A%84%23" target="weibo">
+谁教檀健次粉丝这样宣传的（热度：95918）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iG%E4%B8%8ET1%E5%86%B3%E5%AE%9ATES%E6%8A%BD%E7%AD%BE%E6%B1%A0%23" target="weibo">
 iG与T1决定TES抽签池（热度：94700）
 </a>
@@ -807,6 +885,12 @@ WF2025（热度：94233）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BC%80%E9%A3%9E%E6%9C%BA15%E5%88%86%E9%92%9F%E5%9B%9E%E8%80%81%E5%AE%B6%E8%BF%87%E5%9B%BD%E5%BA%86%23" target="weibo">
+男子开飞机15分钟回老家过国庆（热度：87461）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E6%B8%A1%E6%B5%B7%E5%8F%AA%E4%B8%BA%E5%B9%B2%E6%9E%B6%23" target="weibo">
 小狗渡海只为干架（热度：87204）
 </a>
@@ -815,6 +899,12 @@ WF2025（热度：94233）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%87%8C%E6%99%A8%E4%BA%94%E7%82%B9%E5%A4%A9%E5%AE%89%E9%97%A8%E7%9C%8B%E5%8D%87%E6%97%97%23" target="weibo">
 卢昱晓凌晨五点天安门看升旗（热度：86845）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E7%AC%AC%E4%BA%8C%E5%A4%A9%23" target="weibo">
+国庆假期第二天（热度：85789）
 </a>
 </li>
 
@@ -869,12 +959,6 @@ WF2025（热度：94233）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%AA%E5%A7%90%20JYP%23" target="weibo">
 浪姐 JYP（热度：74669）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E7%AC%AC%E4%BA%8C%E5%A4%A9%23" target="weibo">
-国庆假期第二天（热度：74138）
 </a>
 </li>
 
@@ -1101,6 +1185,12 @@ WF2025（热度：94233）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%98%8E%E7%94%A8AQ%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%85%A7%E9%A1%BE%E7%9A%84%E5%BE%88%E5%A5%BD%23" target="weibo">
+蔡明用AQ把自己照顾的很好（热度：39049）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%88%E7%94%BB%E4%BA%86%E5%A4%A9%E4%BD%BF%E6%81%B6%E9%AD%94%23" target="weibo">
 米津玄师画了天使恶魔（热度：38872）
 </a>
@@ -1163,6 +1253,12 @@ Dior春夏秀精彩回顾（热度：38869）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%85%E5%85%B5%E5%90%8E%E5%8A%B2%E5%A4%AA%E5%A4%AA%E5%A4%AA%E5%A4%A7%E4%BA%86%23" target="weibo">
 阅兵后劲太太太大了（热度：27905）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A7%92%E4%BB%A3%E5%85%A5Dior%E6%98%A5%E5%A4%8F%E7%A7%80%E7%AC%AC%E4%B8%80%E8%A7%86%E8%A7%92%23" target="weibo">
+一秒代入Dior春夏秀第一视角（热度：27810）
 </a>
 </li>
 

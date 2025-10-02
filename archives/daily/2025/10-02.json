@@ -1,6 +1,6 @@
 {
   "startTime": 1759336314340,
-  "endTime": 1759380113318,
+  "endTime": 1759382638832,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -25,6 +25,14 @@
       "onboard_time": 1759361117,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1128002,
+      "num": 183720,
+      "word": "艺人音乐节坐地起价",
+      "onboard_time": 1759380743,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 993932,
@@ -147,6 +155,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 552106,
+      "num": 552106,
+      "word": "鸡排哥代购每份加价20元",
+      "onboard_time": 1759379721,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 546948,
+      "num": 258629,
+      "word": "刘亦菲国庆自驾游",
+      "onboard_time": 1759377320,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 527474,
       "num": 276528,
       "word": "者来女回复",
@@ -187,14 +211,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 412874,
-      "num": 258629,
-      "word": "刘亦菲国庆自驾游",
-      "onboard_time": 1759377320,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 401419,
       "num": 154211,
       "word": "林心如回应与陈妍希陈晓结亲家",
@@ -216,6 +232,14 @@
       "word": "六小龄童 猴子猴孙这么多",
       "onboard_time": 1759369279,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 377171,
+      "num": 183483,
+      "word": "王菊晒和李纯在婚姻登记处合照",
+      "onboard_time": 1759382181,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -363,6 +387,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 268195,
+      "num": 268195,
+      "word": "希腊全国罢工",
+      "onboard_time": 1759379122,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 265094,
       "num": 134827,
       "word": "被得力辞退跛脚员工再发声",
@@ -385,6 +417,14 @@
       "onboard_time": 1759322781,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 257808,
+      "num": 257808,
+      "word": "韩75万公务员工作文件丢失且无备份",
+      "onboard_time": 1759376360,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 255935,
@@ -427,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235251,
+      "num": 183124,
+      "word": "董璇张维伊婚礼合影站位",
+      "onboard_time": 1759381223,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235163,
       "num": 132422,
       "word": "迪丽热巴邝玲玲Orm同框",
@@ -459,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230849,
+      "num": 230849,
+      "word": "孙颖莎vs王晓彤",
+      "onboard_time": 1759381521,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223059,
       "num": 223059,
       "word": "南非驻法大使跳楼前发诀别短信",
@@ -481,14 +537,6 @@
       "onboard_time": 1759336099,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215467,
-      "num": 215467,
-      "word": "韩75万公务员工作文件丢失且无备份",
-      "onboard_time": 1759376360,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 212117,
@@ -571,6 +619,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183824,
+      "num": 183824,
+      "word": "梁靖崑无缘中国大满贯八强",
+      "onboard_time": 1759380322,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 182869,
+      "num": 182869,
+      "word": "宗馥莉心腹严学峰被调查",
+      "onboard_time": 1759380503,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182212,
       "num": 182212,
       "word": "林心如谈邱泽许玮甯儿子",
@@ -592,6 +656,14 @@
       "word": "张颂文 这不神经病吗",
       "onboard_time": 1759323742,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171561,
+      "num": 171561,
+      "word": "董卿儿子长这么大了",
+      "onboard_time": 1759381462,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -617,6 +689,14 @@
       "onboard_time": 1759373358,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168498,
+      "num": 183532,
+      "word": "梁靖崑2比3松岛辉空",
+      "onboard_time": 1759381281,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 167518,
@@ -683,6 +763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 152259,
+      "num": 152259,
+      "word": "谁给高圆圆剪的刘海",
+      "onboard_time": 1759380202,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151229,
       "num": 151229,
       "word": "让高铁商务座亏钱的人出现了",
@@ -745,6 +833,14 @@
       "onboard_time": 1759338797,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140870,
+      "num": 140870,
+      "word": "小米17系列销量破百万",
+      "onboard_time": 1759382062,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 139811,
@@ -835,22 +931,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 127429,
-      "num": 127429,
-      "word": "鸡排哥代购每份加价20元",
-      "onboard_time": 1759379721,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125673,
-      "num": 149620,
-      "word": "希腊全国罢工",
-      "onboard_time": 1759379122,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 119887,
       "num": 119887,
       "word": "年轻人放假越来越不喜欢凑热闹",
@@ -865,6 +945,14 @@
       "onboard_time": 1759372159,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 117482,
+      "num": 117482,
+      "word": "陈幸同3比2李昱谆",
+      "onboard_time": 1759382421,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 114644,
@@ -889,6 +977,14 @@
       "onboard_time": 1759373479,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111052,
+      "num": 111052,
+      "word": "快30了对年龄很难有实感",
+      "onboard_time": 1759381341,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 111013,
@@ -1011,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95918,
+      "num": 181904,
+      "word": "谁教檀健次粉丝这样宣传的",
+      "onboard_time": 1759382242,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 94700,
       "num": 94700,
       "word": "iG与T1决定TES抽签池",
@@ -1059,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87461,
+      "num": 135910,
+      "word": "男子开飞机15分钟回老家过国庆",
+      "onboard_time": 1759382421,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87204,
       "num": 87204,
       "word": "小狗渡海只为干架",
@@ -1073,6 +1185,14 @@
       "onboard_time": 1759324641,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85789,
+      "num": 647430,
+      "word": "国庆假期第二天",
+      "onboard_time": 1759377379,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85789,
@@ -1145,14 +1265,6 @@
       "onboard_time": 1759321041,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 74138,
-      "num": 647430,
-      "word": "国庆假期第二天",
-      "onboard_time": 1759377379,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73812,
@@ -1451,6 +1563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 39049,
+      "num": 183363,
+      "word": "蔡明用AQ把自己照顾的很好",
+      "onboard_time": 1759380443,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38872,
       "num": 38872,
       "word": "米津玄师画了天使恶魔",
@@ -1537,6 +1657,14 @@
       "onboard_time": 1759343356,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27810,
+      "num": 183430,
+      "word": "一秒代入Dior春夏秀第一视角",
+      "onboard_time": 1759381521,
+      "rank": 17,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 26868,
