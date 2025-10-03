@@ -1,6 +1,6 @@
 {
   "startTime": 1759422668020,
-  "endTime": 1759476269373,
+  "endTime": 1759477073720,
   "band_list": [
     {
       "raw_hot": 2744347,
@@ -64,6 +64,14 @@
       "word": "车被黑狗啃到面目全非",
       "onboard_time": 1759451599,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 722605,
+      "num": 722605,
+      "word": "鸡排哥称还没赚到1个亿",
+      "onboard_time": 1759475001,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -243,14 +251,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 390875,
-      "num": 390875,
-      "word": "鸡排哥称还没赚到1个亿",
-      "onboard_time": 1759475001,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 383708,
       "num": 383708,
       "word": "泰山山顶宾馆提供99元坐席可过夜",
@@ -355,6 +355,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 297327,
+      "num": 167906,
+      "word": "白鹿一直用手护着腰",
+      "onboard_time": 1759473561,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 292741,
+      "num": 166996,
+      "word": "王楚钦说不要攻击其他运动员",
+      "onboard_time": 1759475121,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292362,
       "num": 215602,
       "word": "G社拍的王俊凯巴黎看秀生图",
@@ -385,6 +401,14 @@
       "onboard_time": 1759472179,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283468,
+      "num": 166784,
+      "word": "成毅的腰怎么了",
+      "onboard_time": 1759473380,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 275582,
@@ -419,14 +443,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 262992,
-      "num": 167906,
-      "word": "白鹿一直用手护着腰",
-      "onboard_time": 1759473561,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 261887,
       "num": 216073,
       "word": "霉霉新专",
@@ -441,22 +457,6 @@
       "onboard_time": 1759448117,
       "rank": 15,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 253774,
-      "num": 166996,
-      "word": "王楚钦说不要攻击其他运动员",
-      "onboard_time": 1759475121,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 251547,
-      "num": 166784,
-      "word": "成毅的腰怎么了",
-      "onboard_time": 1759473380,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 250956,
@@ -707,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183632,
+      "num": 183632,
+      "word": "伊朗总统称伊朗别无选择必须迁都",
+      "onboard_time": 1759475001,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182976,
       "num": 182976,
       "word": "演员于娜近况",
@@ -803,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151392,
+      "num": 151392,
+      "word": "美国载近2000人豪华邮轮暴发病毒疫情",
+      "onboard_time": 1759476200,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 151247,
       "num": 151247,
       "word": "大城小爱",
@@ -825,6 +841,14 @@
       "onboard_time": 1759468640,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144450,
+      "num": 122685,
+      "word": "忘崽留奶",
+      "onboard_time": 1759476380,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 144100,
@@ -857,6 +881,14 @@
       "onboard_time": 1759453398,
       "rank": 24,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 142961,
+      "num": 142961,
+      "word": "檀健次说自己是长期主义者",
+      "onboard_time": 1759475001,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 142048,
@@ -939,14 +971,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 131992,
-      "num": 165798,
-      "word": "伊朗总统称伊朗别无选择必须迁都",
-      "onboard_time": 1759475001,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 131548,
       "num": 131548,
       "word": "请关闭WiFi自动连接功能",
@@ -969,14 +993,6 @@
       "onboard_time": 1759466180,
       "rank": 35,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 123961,
-      "num": 123961,
-      "word": "檀健次说自己是长期主义者",
-      "onboard_time": 1759475001,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 122708,
@@ -1035,6 +1051,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 117514,
+      "num": 117514,
+      "word": "抓到一个笑得很开心的大头",
+      "onboard_time": 1759477041,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116744,
       "num": 116744,
       "word": "张若昀我好像看见你扁桃体了",
@@ -1059,6 +1083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114708,
+      "num": 114708,
+      "word": "李沁被张雅琪砍价腌入味了",
+      "onboard_time": 1759474220,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114162,
       "num": 240977,
       "word": "我驻韩使馆就反华游行表明严正立场",
@@ -1081,14 +1113,6 @@
       "onboard_time": 1759462340,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112874,
-      "num": 112874,
-      "word": "李沁被张雅琪砍价腌入味了",
-      "onboard_time": 1759474220,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 111661,
@@ -1235,6 +1259,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 104772,
+      "num": 104772,
+      "word": "你以为的背调VS实际的背调",
+      "onboard_time": 1759476800,
+      "rank": 37,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 103342,
       "num": 103342,
       "word": "穆祉丞啥意思",
@@ -1355,6 +1387,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 94811,
+      "num": 94811,
+      "word": "秦昊徐志胜加上孟子义告三人成立",
+      "onboard_time": 1759476979,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94025,
       "num": 94025,
       "word": "王俊凯小说男主身材比例",
@@ -1379,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93125,
+      "num": 93125,
+      "word": "南派三叔回应云顶天宫原班人马",
+      "onboard_time": 1759477041,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93073,
       "num": 93073,
       "word": "偷偷藏不住",
@@ -1387,12 +1435,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92978,
+      "num": 92978,
+      "word": "王圣迪一款一米七的小桔子",
+      "onboard_time": 1759476920,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 92319,
       "num": 92319,
       "word": "北方当心冷暖大反转",
       "onboard_time": 1759451599,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91822,
+      "num": 104808,
+      "word": "小酒窝看志愿军眼睛哭红了",
+      "onboard_time": 1759475780,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 89965,
@@ -1433,14 +1497,6 @@
       "onboard_time": 1759462880,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 87905,
-      "num": 105267,
-      "word": "美国载近2000人豪华邮轮暴发病毒疫情",
-      "onboard_time": 1759476200,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 87407,
@@ -1875,6 +1931,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 52887,
+      "num": 159335,
+      "word": "高德扫街榜用户超4亿",
+      "onboard_time": 1759476019,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 51397,
       "num": 51397,
       "word": "白宫裁员",
@@ -1905,14 +1969,6 @@
       "onboard_time": 1759448117,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43248,
-      "num": 104808,
-      "word": "小酒窝看志愿军眼睛哭红了",
-      "onboard_time": 1759475780,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 42374,
@@ -1953,14 +2009,6 @@
       "onboard_time": 1759466061,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35840,
-      "num": 159335,
-      "word": "高德扫街榜用户超4亿",
-      "onboard_time": 1759476019,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 35699,
@@ -2097,6 +2145,14 @@
       "onboard_time": 1759436294,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 8433,
+      "num": 146846,
+      "word": "旅游团购物点上演小剧场围猎客户",
+      "onboard_time": 1759476740,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 902,
