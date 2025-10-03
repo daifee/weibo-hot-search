@@ -1,0 +1,410 @@
+{
+  "runTime": 1759484316667,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 309095,
+        "num": 1049455,
+        "word": "孙颖莎滑倒",
+        "onboard_time": 1759468280,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218607,
+        "num": 218607,
+        "word": "全球人民都知道我们放假了",
+        "onboard_time": 1759459759,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30841,
+        "num": 209438,
+        "word": "平凡的劳动者凭什么火出圈",
+        "onboard_time": 1759458920,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 723779,
+        "num": 203417,
+        "word": "张继科说被人一脚踹水里",
+        "onboard_time": 1759479440,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 569407,
+        "num": 191029,
+        "word": "梨形瘦22斤的杀伤力",
+        "onboard_time": 1759482441,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 241414,
+        "num": 181398,
+        "word": "骨相美 皮相美",
+        "onboard_time": 1759464680,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177594,
+        "num": 177594,
+        "word": "伊朗总统称伊朗别无选择必须迁都",
+        "onboard_time": 1759475001,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154527,
+        "num": 154527,
+        "word": "美国载近2000人豪华邮轮暴发病毒疫情",
+        "onboard_time": 1759476200,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138340,
+        "num": 138340,
+        "word": "炒粉老板开门发现百米长队天塌了",
+        "onboard_time": 1759472060,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107720,
+        "num": 138335,
+        "word": "英雄联盟全球总决赛",
+        "onboard_time": 1759467261,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 614307,
+        "num": 138325,
+        "word": "忘崽留奶",
+        "onboard_time": 1759476380,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 482764,
+        "num": 138320,
+        "word": "微信式恋爱",
+        "onboard_time": 1759478002,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 417546,
+        "num": 138311,
+        "word": "辛芷蕾新发型",
+        "onboard_time": 1759478659,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410895,
+        "num": 138302,
+        "word": "沈佳润英语口语水平",
+        "onboard_time": 1759477460,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348899,
+        "num": 138292,
+        "word": "林诗栋赛后生气了",
+        "onboard_time": 1759478841,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295362,
+        "num": 138286,
+        "word": "姜潮单方面官宣被麦迪娜公司婉拒了",
+        "onboard_time": 1759460480,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291267,
+        "num": 138279,
+        "word": "能不能禁止日本人画中华风",
+        "onboard_time": 1759481120,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 272552,
+        "num": 138265,
+        "word": "王一博罗意威巴黎大秀造型",
+        "onboard_time": 1759480880,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163185,
+        "num": 138261,
+        "word": "迪丽热巴真的美成公主了",
+        "onboard_time": 1759475540,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170236,
+        "num": 138253,
+        "word": "罗意威大秀",
+        "onboard_time": 1759484060,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 469111,
+        "num": 138239,
+        "word": "鸡排哥称还没赚到1个亿",
+        "onboard_time": 1759475001,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169126,
+        "num": 138236,
+        "word": "庞众望和女友拍领证照了",
+        "onboard_time": 1759479561,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149286,
+        "num": 138227,
+        "word": "白鹿一直用手护着腰",
+        "onboard_time": 1759473561,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138219,
+        "num": 138219,
+        "word": "女子32楼家爬满隐翅虫喷了4瓶杀虫剂",
+        "onboard_time": 1759472060,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137453,
+        "num": 137453,
+        "word": "许妍又把双眼皮贴哭掉了",
+        "onboard_time": 1759469721,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132671,
+        "num": 132671,
+        "word": "肖战包场毕正明的证明",
+        "onboard_time": 1759483823,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114161,
+        "num": 114161,
+        "word": "撒贝宁为980岁老人办生日会",
+        "onboard_time": 1759483823,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112695,
+        "num": 112695,
+        "word": "成毅的腰怎么了",
+        "onboard_time": 1759473380,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109210,
+        "num": 109210,
+        "word": "高端商场里一只猫卖58888元",
+        "onboard_time": 1759479980,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108927,
+        "num": 108927,
+        "word": "左航TOP唯一没获上墙成员",
+        "onboard_time": 1759483460,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249734,
+        "num": 108153,
+        "word": "庞众望回应女友发布结婚登记照",
+        "onboard_time": 1759483460,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104901,
+        "num": 104901,
+        "word": "张予曦在巴黎换风格了",
+        "onboard_time": 1759482678,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104708,
+        "num": 104708,
+        "word": "老外说脏话被新疆小伙怒斥",
+        "onboard_time": 1759481600,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104546,
+        "num": 104546,
+        "word": "叙利亚前总统阿萨德遭投毒",
+        "onboard_time": 1759482020,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103125,
+        "num": 103125,
+        "word": "穆祉丞自由演唱会",
+        "onboard_time": 1759483520,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99851,
+        "num": 99851,
+        "word": "景德镇文旅证实鸡排哥计划8日休息",
+        "onboard_time": 1759482800,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99644,
+        "num": 99644,
+        "word": "周峻纬这就是留子的魅力吗",
+        "onboard_time": 1759481660,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96145,
+        "num": 96145,
+        "word": "95花还能大洗牌吗",
+        "onboard_time": 1759482201,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39249,
+        "num": 94749,
+        "word": "以色列称已阻止所有全球坚韧船队",
+        "onboard_time": 1759483700,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63555,
+        "num": 94616,
+        "word": "自己国家买不到老外扎堆来沪消费",
+        "onboard_time": 1759483400,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96838,
+        "num": 94591,
+        "word": "皮质醇过高六大表现",
+        "onboard_time": 1759484000,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94542,
+        "num": 94542,
+        "word": "披荆斩棘最能治陈小春的人来了",
+        "onboard_time": 1759482141,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92434,
+        "num": 92434,
+        "word": "范丞丞坐白敬亭腿上我坐什么",
+        "onboard_time": 1759477400,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91094,
+        "num": 91094,
+        "word": "王楚钦说出了很多人的心声",
+        "onboard_time": 1759475121,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89857,
+        "num": 89857,
+        "word": "年轻人开始对自己的婚礼下手了",
+        "onboard_time": 1759480880,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89812,
+        "num": 89812,
+        "word": "陈赫看了刺杀小说家2",
+        "onboard_time": 1759483100,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 89557,
+        "num": 89557,
+        "word": "辛芷蕾我来之前人家告诉我别吃豆角",
+        "onboard_time": 1759478659,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88584,
+        "num": 88584,
+        "word": "鹿晗这地板可真地板啊",
+        "onboard_time": 1759477460,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88366,
+        "num": 88366,
+        "word": "VaVa说自己分手是因为浪姐",
+        "onboard_time": 1759472241,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86284,
+        "num": 86284,
+        "word": "女子人肉占车位不让别车停",
+        "onboard_time": 1759477220,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同新加坡总统互致贺电#"
+    }
+  }
+}
