@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759461059407,
+  "endTime": 1759462575352,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -401,6 +401,14 @@
       "onboard_time": 1759361117,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1229884,
+      "num": 169077,
+      "word": "姜潮单方面官宣被麦迪娜公司婉拒了",
+      "onboard_time": 1759460480,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 1214864,
@@ -1689,6 +1697,14 @@
       "onboard_time": 1759303581,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 628095,
+      "num": 628095,
+      "word": "全球人民都知道我们放假了",
+      "onboard_time": 1759459759,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 623863,
@@ -4491,6 +4507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245132,
+      "num": 145023,
+      "word": "G社拍的王俊凯巴黎看秀生图",
+      "onboard_time": 1759461440,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 244911,
       "num": 244911,
       "word": "解放军位黄岩岛领海领空战备警巡",
@@ -4513,14 +4537,6 @@
       "onboard_time": 1759157782,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 244192,
-      "num": 173576,
-      "word": "全球人民都知道我们放假了",
-      "onboard_time": 1759459759,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 243158,
@@ -5443,6 +5459,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 200189,
+      "num": 137202,
+      "word": "真夫妻kisskiss假夫妻killkill",
+      "onboard_time": 1759461499,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199997,
       "num": 219243,
       "word": "peanut不要哭",
@@ -5931,6 +5955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189875,
+      "num": 104235,
+      "word": "医生眼中的生理性厌恶",
+      "onboard_time": 1759461199,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189670,
       "num": 219447,
       "word": "两名15岁少女失联10天",
@@ -6331,6 +6363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180111,
+      "num": 132511,
+      "word": "披荆斩棘官宣姐姐加盟",
+      "onboard_time": 1759462220,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180084,
       "num": 180084,
       "word": "未来十年没人能明白邓超这两段",
@@ -6353,6 +6393,14 @@
       "onboard_time": 1759397180,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179446,
+      "num": 156004,
+      "word": "赵磊上婚综前和qko冷战",
+      "onboard_time": 1759460118,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 179402,
@@ -6779,14 +6827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169077,
-      "num": 169077,
-      "word": "姜潮单方面官宣被麦迪娜公司婉拒了",
-      "onboard_time": 1759460480,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169016,
       "num": 169016,
       "word": "刘萧旭 我长这个烂样子怎么会有私生",
@@ -6857,6 +6897,14 @@
       "onboard_time": 1759298901,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168147,
+      "num": 127946,
+      "word": "移动墙才是拯救小户型的神",
+      "onboard_time": 1759461560,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 167993,
@@ -7523,6 +7571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156284,
+      "num": 201871,
+      "word": "美国人将很快感受到政府停摆之痛",
+      "onboard_time": 1759458559,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 156261,
       "num": 156261,
       "word": "当你很爱很在乎一个人的时候",
@@ -7545,14 +7601,6 @@
       "onboard_time": 1758974001,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 156004,
-      "num": 156004,
-      "word": "赵磊上婚综前和qko冷战",
-      "onboard_time": 1759460118,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 155978,
@@ -7585,14 +7633,6 @@
       "onboard_time": 1759151002,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 155650,
-      "num": 201871,
-      "word": "美国人将很快感受到政府停摆之痛",
-      "onboard_time": 1759458559,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 155111,
@@ -9931,6 +9971,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 125516,
+      "num": 125516,
+      "word": "什么东西是早买早享受的",
+      "onboard_time": 1759461019,
+      "rank": 48,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 125305,
       "num": 125305,
       "word": "为什么越忙越累反而越胖",
@@ -10435,6 +10483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120465,
+      "num": 120465,
+      "word": "长期侧躺玩手机变斜眼了",
+      "onboard_time": 1759460839,
+      "rank": 38,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 120464,
       "num": 150289,
       "word": "巴基斯坦总理称让印度颜面扫地",
@@ -10721,6 +10777,14 @@
       "onboard_time": 1759114699,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117973,
+      "num": 104133,
+      "word": "长期过度焦虑的真实表现",
+      "onboard_time": 1759461499,
+      "rank": 31,
+      "category": "情感,健康医疗"
     },
     {
       "raw_hot": 117597,
@@ -12297,6 +12361,14 @@
       "onboard_time": 1759296441,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103854,
+      "num": 103854,
+      "word": "范丞丞还没混熟就把黄渤怼了",
+      "onboard_time": 1759461980,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 103786,
@@ -14451,6 +14523,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 83946,
+      "num": 83946,
+      "word": "辛芷蕾檀健次豪门姐弟",
+      "onboard_time": 1759461379,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83908,
       "num": 83908,
       "word": "全球坚韧船队覆灭",
@@ -14472,6 +14552,14 @@
       "word": "日本2岁女童被父母长期虐待致死",
       "onboard_time": 1759082895,
       "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 83661,
+      "num": 83661,
+      "word": "菲律宾地震36万人受灾",
+      "onboard_time": 1759458079,
+      "rank": 43,
       "category": "海外新闻"
     },
     {
@@ -14571,6 +14659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82362,
+      "num": 82362,
+      "word": "终于有古装剧反对和亲了",
+      "onboard_time": 1759462340,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82226,
       "num": 82226,
       "word": "有综艺让中国菜扬眉吐气了",
@@ -14657,6 +14753,14 @@
       "onboard_time": 1759111819,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 81768,
+      "num": 81768,
+      "word": "男子替离世朋友照顾智残孩子4年",
+      "onboard_time": 1759461080,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81693,
@@ -15049,14 +15153,6 @@
       "onboard_time": 1759386801,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 76747,
-      "num": 76747,
-      "word": "长期侧躺玩手机变斜眼了",
-      "onboard_time": 1759460839,
-      "rank": 38,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 76739,
@@ -15809,14 +15905,6 @@
       "onboard_time": 1759205240,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64161,
-      "num": 64161,
-      "word": "什么东西是早买早享受的",
-      "onboard_time": 1759461019,
-      "rank": 48,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 64132,
@@ -17401,6 +17489,14 @@
       "onboard_time": 1759210581,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33367,
+      "num": 134951,
+      "word": "林诗栋vs宇田幸矢",
+      "onboard_time": 1759462280,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 33361,
