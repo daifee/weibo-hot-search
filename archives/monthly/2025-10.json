@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759481083305,
+  "endTime": 1759483535408,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -971,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 522837,
+      "num": 252241,
+      "word": "微信式恋爱",
+      "onboard_time": 1759478002,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 520344,
       "num": 520344,
       "word": "女子电话得知车被狗啃以为是诈骗",
@@ -1131,6 +1139,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 464860,
+      "num": 258556,
+      "word": "梨形瘦22斤的杀伤力",
+      "onboard_time": 1759482441,
+      "rank": 4,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 457974,
       "num": 457974,
       "word": "李在明痛批反华集会有损国格",
@@ -1193,14 +1209,6 @@
       "onboard_time": 1759411101,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 437690,
-      "num": 252241,
-      "word": "微信式恋爱",
-      "onboard_time": 1759478002,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 434111,
@@ -1291,6 +1299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 408468,
+      "num": 249251,
+      "word": "辛芷蕾新发型",
+      "onboard_time": 1759478659,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396129,
       "num": 253591,
       "word": "你叫王影璐 你又叫李昀锐",
@@ -1361,6 +1377,14 @@
       "onboard_time": 1759458318,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 378133,
+      "num": 247502,
+      "word": "林诗栋赛后生气了",
+      "onboard_time": 1759478841,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 377485,
@@ -1531,14 +1555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 346933,
-      "num": 249251,
-      "word": "辛芷蕾新发型",
-      "onboard_time": 1759478659,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 346679,
       "num": 225446,
       "word": "李在明指挥权志龙开飞机",
@@ -1673,14 +1689,6 @@
       "onboard_time": 1759401560,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 315928,
-      "num": 247502,
-      "word": "林诗栋赛后生气了",
-      "onboard_time": 1759478841,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 315459,
@@ -2009,6 +2017,14 @@
       "onboard_time": 1759282700,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 262392,
+      "num": 166542,
+      "word": "王一博罗意威巴黎大秀造型",
+      "onboard_time": 1759480880,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 261887,
@@ -2433,6 +2449,14 @@
       "onboard_time": 1759314680,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 217367,
+      "num": 134111,
+      "word": "能不能禁止日本人画中华风",
+      "onboard_time": 1759481120,
+      "rank": 17,
+      "category": "动漫"
     },
     {
       "raw_hot": 216875,
@@ -3331,14 +3355,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 166542,
-      "num": 166542,
-      "word": "王一博罗意威巴黎大秀造型",
-      "onboard_time": 1759480880,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 166417,
       "num": 146755,
       "word": "穆祉丞高会",
@@ -3785,6 +3801,14 @@
       "onboard_time": 1759468640,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145940,
+      "num": 133286,
+      "word": "张予曦在巴黎换风格了",
+      "onboard_time": 1759482678,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 145777,
@@ -4793,6 +4817,14 @@
       "onboard_time": 1759460839,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 120464,
+      "num": 120464,
+      "word": "左航TOP唯一没获上墙成员",
+      "onboard_time": 1759483460,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 120286,
@@ -5835,6 +5867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102906,
+      "num": 102906,
+      "word": "披荆斩棘最能治陈小春的人来了",
+      "onboard_time": 1759482141,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102854,
       "num": 102854,
       "word": "狼队对战EDGM",
@@ -5865,6 +5905,14 @@
       "onboard_time": 1759397421,
       "rank": 34,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 102314,
+      "num": 102314,
+      "word": "陈赫看了刺杀小说家2",
+      "onboard_time": 1759483100,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 102241,
@@ -6211,6 +6259,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 96484,
+      "num": 96484,
+      "word": "叙利亚前总统阿萨德遭投毒",
+      "onboard_time": 1759482020,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96201,
       "num": 96201,
       "word": "难道3和4之间还有整数",
@@ -6433,6 +6489,14 @@
       "onboard_time": 1759476920,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 92935,
+      "num": 92935,
+      "word": "庞众望回应女友发布结婚登记照",
+      "onboard_time": 1759483460,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92683,
@@ -6763,6 +6827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86680,
+      "num": 86680,
+      "word": "阅兵装备10年同框",
+      "onboard_time": 1759482441,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 86666,
       "num": 111699,
       "word": "邓为在巴黎丢了套衣服",
@@ -6777,6 +6849,14 @@
       "onboard_time": 1759395920,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86529,
+      "num": 86529,
+      "word": "穆祉丞自由演唱会",
+      "onboard_time": 1759483520,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 86470,
@@ -6851,6 +6931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85542,
+      "num": 87615,
+      "word": "95花还能大洗牌吗",
+      "onboard_time": 1759482201,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85527,
       "num": 85527,
       "word": "华晨宇火星乌托邦",
@@ -6873,6 +6961,14 @@
       "onboard_time": 1759419560,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85365,
+      "num": 85365,
+      "word": "张栋梁线下吃太好了吧",
+      "onboard_time": 1759483520,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 85352,
@@ -6936,6 +7032,14 @@
       "word": "爸姓古妈姓顾孩子被AI取名古菇顾",
       "onboard_time": 1759322001,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84736,
+      "num": 82285,
+      "word": "老外说脏话被新疆小伙怒斥",
+      "onboard_time": 1759481600,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -7796,7 +7900,7 @@
     },
     {
       "raw_hot": 66004,
-      "num": 66004,
+      "num": 258564,
       "word": "平凡的劳动者凭什么火出圈",
       "onboard_time": 1759458920,
       "rank": 45,
@@ -8075,6 +8179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 57816,
+      "num": 93329,
+      "word": "自己国家买不到老外扎堆来沪消费",
+      "onboard_time": 1759483400,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57171,
       "num": 57171,
       "word": "孙颖莎兼职裁判",
@@ -8241,6 +8353,14 @@
       "onboard_time": 1759445355,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 51345,
+      "num": 93631,
+      "word": "章莹颖男友否认纪录片中鸟坠亡是摆拍",
+      "onboard_time": 1759482620,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 50816,
@@ -9086,6 +9206,9 @@
     },
     {
       "word": "#习近平的家国情#"
+    },
+    {
+      "word": "#习近平同新加坡总统互致贺电#"
     }
   ]
 }
