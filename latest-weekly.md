@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/10/03 23:38:56
+本榜单时间：2025/09/28 00:27:59 ~ 2025/10/04 00:30:46
 </p>
 </blockquote>
 <p>
@@ -2373,6 +2373,12 @@ K签证引争议症结在于公平焦虑（热度：466980）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%96%B0%E9%83%8E%E5%9C%A8%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E8%B7%B3%E6%B2%B3%23" target="weibo">
+当地回应新郎在结婚当天跳河（热度：441877）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E8%BE%A3%E6%B1%A4%E5%8D%8F%E4%BC%9A%E5%9B%9E%E5%BA%94%E8%8B%8F%E9%86%92%E6%8B%89%E8%B8%A9%E6%B2%B3%E5%8D%97%E8%83%A1%E8%BE%A3%E6%B1%A4%23" target="weibo">
 胡辣汤协会回应苏醒拉踩河南胡辣汤（热度：441180）
 </a>
@@ -2567,6 +2573,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E9%99%86%E7%98%A6%E6%88%90%E7%BA%B8%E7%89%87%E4%BA%BA%23" target="weibo">
 海陆瘦成纸片人（热度：404425）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E5%85%B3%E6%B3%A8%E9%B8%A1%E6%8E%92%E5%93%A5%23" target="weibo">
+美媒关注鸡排哥（热度：404200）
 </a>
 </li>
 
@@ -3033,12 +3045,6 @@ TF家族男团在湖南秋晚三代同台（热度：346043）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%96%B0%E9%83%8E%E5%9C%A8%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E8%B7%B3%E6%B2%B3%23" target="weibo">
-当地回应新郎在结婚当天跳河（热度：336631）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%8F%90%E5%89%8D%E5%87%BA%E5%8F%91%E7%9A%84%E5%A4%A7%E8%81%AA%E6%98%8E%E5%B7%B2%E5%A0%B5%E8%B7%AF%E4%B8%8A%23" target="weibo">
 国庆提前出发的大聪明已堵路上（热度：336498）
 </a>
@@ -3095,6 +3101,12 @@ WTT（热度：332672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%BA%A6%E8%BF%91%E8%A7%86%E7%9C%BC%E4%B8%80%E5%AE%9A%E8%A6%81%E9%98%B2%E6%AD%A2%E8%A7%86%E7%BD%91%E8%86%9C%E8%84%B1%E8%90%BD%23" target="weibo">
 高度近视眼一定要防止视网膜脱落（热度：330738）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B8%BA%E5%90%88%E5%BD%B1%E5%B0%86%E9%B8%A1%E6%8E%92%E5%93%A5%E5%A0%B5%E5%9C%A8%E5%A2%99%E8%A7%92%23" target="weibo">
+顾客为合影将鸡排哥堵在墙角（热度：327857）
 </a>
 </li>
 
@@ -3191,12 +3203,6 @@ WTT（热度：332672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E7%98%A6%E4%BA%8650%E6%96%A4%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
 当我瘦了50斤奶奶的反应（热度：315459）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E5%85%B3%E6%B3%A8%E9%B8%A1%E6%8E%92%E5%93%A5%23" target="weibo">
-美媒关注鸡排哥（热度：312347）
 </a>
 </li>
 
@@ -3323,6 +3329,12 @@ WTT（热度：332672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%BD%AC%E8%B4%A6%E5%90%8E%E8%AE%B0%E5%BE%97%E5%8A%A0%E4%B8%80%E4%B8%AA%E5%8A%A8%E4%BD%9C%23" target="weibo">
 微信转账后记得加一个动作（热度：298604）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E4%B8%8D%E8%A6%81%E8%80%81%E5%8F%AB%E6%88%91%E5%A6%88%E5%A6%88%23" target="weibo">
+李一桐不要老叫我妈妈（热度：297963）
 </a>
 </li>
 
@@ -5571,12 +5583,6 @@ KPL（热度：182455）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E4%B8%8D%E8%A6%81%E8%80%81%E5%8F%AB%E6%88%91%E5%A6%88%E5%A6%88%23" target="weibo">
-李一桐不要老叫我妈妈（热度：180544）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AC%91%E9%9A%8F%E6%AD%8C%E7%83%AD%E5%BA%A6%23" target="weibo">
 一笑随歌热度（热度：180487）
 </a>
@@ -6843,6 +6849,12 @@ Dior大秀邀请函是一盘坚果（热度：152777）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2365%E5%B2%81%E6%83%A0%E8%8B%B1%E7%BA%A2G%E7%A4%BE%E7%94%9F%E5%9B%BE%23" target="weibo">
+65岁惠英红G社生图（热度：151643）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%82%A3%E4%BA%9A%E5%81%B6%E9%81%87%E6%9D%A8%E6%B4%8B%E4%BA%86%23" target="weibo">
 阿那亚偶遇杨洋了（热度：151513）
 </a>
@@ -7283,6 +7295,12 @@ K签证是否是过度紧张（热度：145407）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%81%87%E9%92%BB%E6%88%92%E6%88%90%E6%9C%AC%E4%BB%853%E5%85%83%23" target="weibo">
 央视曝光假钻戒成本仅3元（热度：144275）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2336%E5%B2%81%E6%AF%8F%E5%A4%A9%E8%BF%90%E5%8A%A81%E5%B0%8F%E6%97%B6%E4%BD%93%E6%80%81%E7%9A%84%E5%8F%98%E5%8C%96%23" target="weibo">
+36岁每天运动1小时体态的变化（热度：144223）
 </a>
 </li>
 
@@ -9831,6 +9849,12 @@ Rookie 隔6年了（热度：112714）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%97%E5%90%8D%E6%99%AF%E7%82%B9%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%90%BD%E6%B0%B4%E5%A4%84%23" target="weibo">
+著名景点张继科落水处（热度：112199）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%AC%91%E4%BB%80%E4%B9%88%23" target="weibo">
 肖战笑什么（热度：112119）
 </a>
@@ -11691,6 +11715,12 @@ WTT中国大满贯混双晋级（热度：97084）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%98%A6%E4%BD%93%E8%B4%A8%E9%83%BD%E6%98%AF%E6%80%8E%E6%A0%B7%E6%97%A0%E6%84%8F%E8%AF%86%E5%85%BB%E6%88%90%E7%9A%84%23" target="weibo">
+易瘦体质都是怎样无意识养成的（热度：94689）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%A4%B1%E7%9C%A0%E5%85%B6%E5%AE%9E%E6%98%AF%E8%A2%AB%E5%AD%90%E8%96%84%E4%BA%86%E5%86%BB%E7%9A%84%23" target="weibo">
 以为是失眠其实是被子薄了冻的（热度：94619）
 </a>
@@ -12783,6 +12813,12 @@ Dior大秀藏了多少彩蛋（热度：84327）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94%E9%A6%96%E7%AB%99%E6%B3%B0%E5%9B%BD%E5%BC%80%E6%BC%94%23" target="weibo">
+王嘉尔世界巡演首站泰国开演（热度：82277）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%BB%BC%E8%89%BA%E8%AE%A9%E4%B8%AD%E5%9B%BD%E8%8F%9C%E6%89%AC%E7%9C%89%E5%90%90%E6%B0%94%E4%BA%86%23" target="weibo">
 有综艺让中国菜扬眉吐气了（热度：82226）
 </a>
@@ -13229,6 +13265,12 @@ Dior大秀藏了多少彩蛋（热度：84327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E7%94%BB%E4%BA%86%E6%B3%AA%E7%97%A3%23" target="weibo">
 鹿晗画了泪痣（热度：75701）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BA%B7%E4%B8%80%E6%96%B0%E9%83%8E%E5%9C%A8%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E8%B7%B3%E6%B2%B3%23" target="weibo">
+安康一新郎在结婚当天跳河（热度：75562）
 </a>
 </li>
 
@@ -13755,6 +13797,12 @@ Dior大秀藏了多少彩蛋（热度：84327）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%E7%9A%84%E5%BD%A9%E8%9B%8B%E5%9C%A8%E8%BF%99%E9%87%8C%23" target="weibo">
+震耳欲聋的彩蛋在这里（热度：64315）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A6%81%E6%8A%8A%E9%B8%A1%E6%8E%92%E5%93%A5%E6%A6%A8%E5%BE%97%E5%A4%AA%E5%B9%B2%E5%87%80%E4%BA%86%23" target="weibo">
 不要把鸡排哥榨得太干净了（热度：64314）
 </a>
@@ -13883,6 +13931,12 @@ LCK包揽LOL战力榜前三（热度：63292）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E4%BC%97%E4%B8%8D%E5%90%8C%E7%9A%84%E5%8D%81%E4%B8%80%E9%AD%94%E9%83%BD%E9%BB%84%E9%87%91%E5%91%A8%23" target="weibo">
 与众不同的十一魔都黄金周（热度：61936）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%9B%BD%E5%BA%86%E5%BC%80%E4%B8%A4%E6%9E%B6%E9%A3%9E%E6%9C%BA%E5%B8%A6%E5%A5%B3%E5%84%BF%E5%9B%9E%E8%80%81%E5%AE%B6%23" target="weibo">
+夫妻国庆开两架飞机带女儿回老家（热度：61901）
 </a>
 </li>
 
