@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759502494638,
+  "endTime": 1759505120547,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -2283,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 553918,
+      "num": 234283,
+      "word": "李纯马頔不是一时好是真的一直好",
+      "onboard_time": 1759499662,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553054,
       "num": 280607,
       "word": "宗馥莉也可能无法用娃哈哈商标",
@@ -2569,6 +2577,14 @@
       "onboard_time": 1759055600,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 503487,
+      "num": 503487,
+      "word": "小米公司发言人回应",
+      "onboard_time": 1759502424,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 503134,
@@ -3065,6 +3081,14 @@
       "onboard_time": 1759204822,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 449339,
+      "num": 234246,
+      "word": "现象级爆剧救活了一项非遗文化",
+      "onboard_time": 1759498523,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 449072,
@@ -3619,6 +3643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375251,
+      "num": 375251,
+      "word": "孙颖莎王楚钦谈8年成长",
+      "onboard_time": 1759502182,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 375035,
       "num": 294160,
       "word": "苏醒爆料张远喜欢同一款女生",
@@ -3641,14 +3673,6 @@
       "onboard_time": 1759332441,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 372347,
-      "num": 216247,
-      "word": "李纯马頔不是一时好是真的一直好",
-      "onboard_time": 1759499662,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 372253,
@@ -4691,14 +4715,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 280079,
-      "num": 280079,
-      "word": "孙颖莎王楚钦谈8年成长",
-      "onboard_time": 1759502182,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 278048,
       "num": 225957,
       "word": "蜜雪冰城门店回应多只老鼠横行",
@@ -4745,6 +4761,14 @@
       "onboard_time": 1759467261,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 275052,
+      "num": 275052,
+      "word": "F1",
+      "onboard_time": 1759500743,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 275031,
@@ -4939,6 +4963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 261326,
+      "num": 233595,
+      "word": "当地回应新郎在结婚当天跳河",
+      "onboard_time": 1759502182,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260994,
       "num": 200899,
       "word": "美人余开机",
@@ -5009,14 +5041,6 @@
       "onboard_time": 1759288041,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 253346,
-      "num": 253346,
-      "word": "F1",
-      "onboard_time": 1759500743,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 253259,
@@ -5611,14 +5635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 224820,
-      "num": 216178,
-      "word": "现象级爆剧救活了一项非遗文化",
-      "onboard_time": 1759498523,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 224054,
       "num": 224054,
       "word": "iG与T1决定TES抽签池",
@@ -5665,6 +5681,14 @@
       "onboard_time": 1759117701,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222327,
+      "num": 222327,
+      "word": "女子订婚前帮闺蜜染发手被染成蓝色",
+      "onboard_time": 1759499543,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222248,
@@ -5915,14 +5939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 212214,
-      "num": 207865,
-      "word": "女子订婚前帮闺蜜染发手被染成蓝色",
-      "onboard_time": 1759499543,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 212117,
       "num": 169634,
       "word": "皮肤上这种小红点可能是血管瘤",
@@ -5969,6 +5985,14 @@
       "onboard_time": 1759065084,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209599,
+      "num": 209599,
+      "word": "蔡徐坤支持毕正明的证明",
+      "onboard_time": 1759503981,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 209592,
@@ -6137,6 +6161,14 @@
       "onboard_time": 1759494443,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203482,
+      "num": 203482,
+      "word": "肖战射雕英雄传实时收视率破2",
+      "onboard_time": 1759502902,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 203458,
@@ -6457,6 +6489,14 @@
       "onboard_time": 1759361537,
       "rank": 27,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 196285,
+      "num": 234772,
+      "word": "台湾游客因未购物遭韩国导游狂骂",
+      "onboard_time": 1759500923,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 196263,
@@ -8227,14 +8267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165155,
-      "num": 165155,
-      "word": "当地回应新郎在结婚当天跳河",
-      "onboard_time": 1759502182,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165135,
       "num": 165135,
       "word": "时代少年团给丁程鑫送花篮",
@@ -8321,6 +8353,14 @@
       "onboard_time": 1759041561,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162899,
+      "num": 162899,
+      "word": "孙颖莎王楚钦开心合影",
+      "onboard_time": 1759503563,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 162802,
@@ -9091,6 +9131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150705,
+      "num": 150705,
+      "word": "王楚钦孙颖莎3比0黄友政陈熠",
+      "onboard_time": 1759504041,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150530,
       "num": 150530,
       "word": "梁伟铿兼职摄影师",
@@ -9763,6 +9811,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142507,
+      "num": 142507,
+      "word": "李一桐不要老叫我妈妈",
+      "onboard_time": 1759504762,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142480,
+      "num": 141051,
+      "word": "王力宏单依纯把爱错唱出新高度",
+      "onboard_time": 1759502542,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142199,
       "num": 142199,
       "word": "全国多地国庆突降大雪",
@@ -9833,6 +9897,14 @@
       "onboard_time": 1759303220,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141302,
+      "num": 141302,
+      "word": "特朗普对哈马斯下最后通牒",
+      "onboard_time": 1759503203,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 141257,
@@ -9937,14 +10009,6 @@
       "onboard_time": 1759301001,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140316,
-      "num": 140316,
-      "word": "台湾游客因未购物遭韩国导游狂骂",
-      "onboard_time": 1759500923,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 140217,
@@ -11209,6 +11273,14 @@
       "onboard_time": 1759204701,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 128421,
+      "num": 128421,
+      "word": "任嘉伦音乐节",
+      "onboard_time": 1759503621,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 128317,
@@ -12587,6 +12659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115646,
+      "num": 115646,
+      "word": "郑钦文退出中国赛季",
+      "onboard_time": 1759504701,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115537,
       "num": 115537,
       "word": "谁家女主是出淤泥而全染啊",
@@ -12961,6 +13041,14 @@
       "onboard_time": 1758965662,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112435,
+      "num": 112435,
+      "word": "沙溢闫妮猜词一个敢说一个敢传",
+      "onboard_time": 1759504041,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 112410,
@@ -13633,14 +13721,6 @@
       "onboard_time": 1759473741,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107891,
-      "num": 107891,
-      "word": "小米公司发言人回应",
-      "onboard_time": 1759502424,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 107812,
@@ -14651,6 +14731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 101358,
+      "num": 101358,
+      "word": "邓为dior造型",
+      "onboard_time": 1759504162,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 101335,
       "num": 385899,
       "word": "祝福伟大祖国繁荣富强",
@@ -15289,6 +15377,14 @@
       "onboard_time": 1759195340,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 95940,
+      "num": 95940,
+      "word": "郑钦文退出武汉赛",
+      "onboard_time": 1759502602,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 95918,
@@ -17987,6 +18083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67450,
+      "num": 117720,
+      "word": "手拿折扇被误会持刀男子再发声",
+      "onboard_time": 1759504882,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66996,
       "num": 202997,
       "word": "00后学霸刷飞猪图鉴做旅行计划",
@@ -19523,6 +19627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 41284,
+      "num": 233273,
+      "word": "美媒关注鸡排哥",
+      "onboard_time": 1759504402,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 41277,
       "num": 110709,
       "word": "早期陈伟霆",
@@ -19569,6 +19681,14 @@
       "onboard_time": 1759447338,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 40204,
+      "num": 115924,
+      "word": "肖战整晚的音乐纯享版",
+      "onboard_time": 1759504522,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 40026,
@@ -21075,6 +21195,9 @@
     },
     {
       "word": "#习近平曾以这句诗自勉#"
+    },
+    {
+      "word": "#习近平致电祝贺卢森堡大公纪尧姆即位#"
     }
   ]
 }

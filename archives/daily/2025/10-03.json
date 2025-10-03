@@ -1,6 +1,6 @@
 {
   "startTime": 1759422668020,
-  "endTime": 1759502494638,
+  "endTime": 1759505120547,
   "band_list": [
     {
       "raw_hot": 4315994,
@@ -331,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 553918,
+      "num": 234283,
+      "word": "李纯马頔不是一时好是真的一直好",
+      "onboard_time": 1759499662,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 544108,
       "num": 223283,
       "word": "男子灌面汤呛死妻子案再次延期审理",
@@ -387,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 503487,
+      "num": 503487,
+      "word": "小米公司发言人回应",
+      "onboard_time": 1759502424,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 499464,
       "num": 141336,
       "word": "导致视力下降的真实原因",
@@ -441,6 +457,14 @@
       "onboard_time": 1759484600,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 449339,
+      "num": 234246,
+      "word": "现象级爆剧救活了一项非遗文化",
+      "onboard_time": 1759498523,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 448721,
@@ -523,20 +547,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 375251,
+      "num": 375251,
+      "word": "孙颖莎王楚钦谈8年成长",
+      "onboard_time": 1759502182,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 375035,
       "num": 294160,
       "word": "苏醒爆料张远喜欢同一款女生",
       "onboard_time": 1759490181,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 372347,
-      "num": 216247,
-      "word": "李纯马頔不是一时好是真的一直好",
-      "onboard_time": 1759499662,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 371570,
@@ -771,14 +795,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 280079,
-      "num": 280079,
-      "word": "孙颖莎王楚钦谈8年成长",
-      "onboard_time": 1759502182,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 276544,
       "num": 227736,
       "word": "罗意威大秀",
@@ -801,6 +817,14 @@
       "onboard_time": 1759467261,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 275052,
+      "num": 275052,
+      "word": "F1",
+      "onboard_time": 1759500743,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 272772,
@@ -859,20 +883,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 261326,
+      "num": 233595,
+      "word": "当地回应新郎在结婚当天跳河",
+      "onboard_time": 1759502182,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259783,
       "num": 259783,
       "word": "运动三个月不胖和好瘦的区别",
       "onboard_time": 1759448117,
       "rank": 15,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 253346,
-      "num": 253346,
-      "word": "F1",
-      "onboard_time": 1759500743,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 253259,
@@ -995,12 +1019,12 @@
       "category": "情感,健康医疗"
     },
     {
-      "raw_hot": 224820,
-      "num": 216178,
-      "word": "现象级爆剧救活了一项非遗文化",
-      "onboard_time": 1759498523,
-      "rank": 42,
-      "category": "剧集"
+      "raw_hot": 222327,
+      "num": 222327,
+      "word": "女子订婚前帮闺蜜染发手被染成蓝色",
+      "onboard_time": 1759499543,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221739,
@@ -1067,20 +1091,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 212214,
-      "num": 207865,
-      "word": "女子订婚前帮闺蜜染发手被染成蓝色",
-      "onboard_time": 1759499543,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 211657,
       "num": 211657,
       "word": "孙颖莎王楚钦中国大满贯捧杯",
       "onboard_time": 1759501282,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209599,
+      "num": 209599,
+      "word": "蔡徐坤支持毕正明的证明",
+      "onboard_time": 1759503981,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 208463,
@@ -1137,6 +1161,14 @@
       "onboard_time": 1759494443,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203482,
+      "num": 203482,
+      "word": "肖战射雕英雄传实时收视率破2",
+      "onboard_time": 1759502902,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 202241,
@@ -1209,6 +1241,14 @@
       "onboard_time": 1759497501,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196285,
+      "num": 234772,
+      "word": "台湾游客因未购物遭韩国导游狂骂",
+      "onboard_time": 1759500923,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 196224,
@@ -1547,14 +1587,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 165155,
-      "num": 165155,
-      "word": "当地回应新郎在结婚当天跳河",
-      "onboard_time": 1759502182,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163469,
       "num": 163469,
       "word": "史上最萌年龄差出现了",
@@ -1569,6 +1601,14 @@
       "onboard_time": 1759480399,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 162899,
+      "num": 162899,
+      "word": "孙颖莎王楚钦开心合影",
+      "onboard_time": 1759503563,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 161777,
@@ -1691,6 +1731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 150705,
+      "num": 150705,
+      "word": "王楚钦孙颖莎3比0黄友政陈熠",
+      "onboard_time": 1759504041,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148650,
       "num": 153980,
       "word": "东北虎二埋汰穿西装迎客",
@@ -1755,6 +1803,22 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 142507,
+      "num": 142507,
+      "word": "李一桐不要老叫我妈妈",
+      "onboard_time": 1759504762,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142480,
+      "num": 141051,
+      "word": "王力宏单依纯把爱错唱出新高度",
+      "onboard_time": 1759502542,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142048,
       "num": 142048,
       "word": "现在就出发3大合影",
@@ -1771,6 +1835,14 @@
       "category": "汽车,网红"
     },
     {
+      "raw_hot": 141302,
+      "num": 141302,
+      "word": "特朗普对哈马斯下最后通牒",
+      "onboard_time": 1759503203,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 140814,
       "num": 140814,
       "word": "第五人格",
@@ -1785,14 +1857,6 @@
       "onboard_time": 1759464079,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 140316,
-      "num": 140316,
-      "word": "台湾游客因未购物遭韩国导游狂骂",
-      "onboard_time": 1759500923,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 140149,
@@ -1963,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128421,
+      "num": 128421,
+      "word": "任嘉伦音乐节",
+      "onboard_time": 1759503621,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128137,
       "num": 128137,
       "word": "酒果然是最快的交通工具",
@@ -2123,6 +2195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115646,
+      "num": 115646,
+      "word": "郑钦文退出中国赛季",
+      "onboard_time": 1759504701,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115220,
       "num": 115220,
       "word": "喜人奇妙夜2",
@@ -2209,6 +2289,14 @@
       "onboard_time": 1759501942,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112435,
+      "num": 112435,
+      "word": "沙溢闫妮猜词一个敢说一个敢传",
+      "onboard_time": 1759504041,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 111661,
@@ -2313,14 +2401,6 @@
       "onboard_time": 1759473741,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107891,
-      "num": 107891,
-      "word": "小米公司发言人回应",
-      "onboard_time": 1759502424,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 107812,
@@ -2571,6 +2651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101358,
+      "num": 101358,
+      "word": "邓为dior造型",
+      "onboard_time": 1759504162,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 100700,
       "num": 100700,
       "word": "小金毛因太胖最终导致越狱失败",
@@ -2665,6 +2753,14 @@
       "onboard_time": 1759412241,
       "rank": 27,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 95940,
+      "num": 95940,
+      "word": "郑钦文退出武汉赛",
+      "onboard_time": 1759502602,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 95231,
@@ -3155,6 +3251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 67450,
+      "num": 117720,
+      "word": "手拿折扇被误会持刀男子再发声",
+      "onboard_time": 1759504882,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66996,
       "num": 202997,
       "word": "00后学霸刷飞猪图鉴做旅行计划",
@@ -3467,6 +3571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41284,
+      "num": 233273,
+      "word": "美媒关注鸡排哥",
+      "onboard_time": 1759504402,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 41277,
       "num": 110709,
       "word": "早期陈伟霆",
@@ -3489,6 +3601,14 @@
       "onboard_time": 1759447338,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 40204,
+      "num": 115924,
+      "word": "肖战整晚的音乐纯享版",
+      "onboard_time": 1759504522,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 40026,
@@ -3751,6 +3871,9 @@
     },
     {
       "word": "#习近平曾以这句诗自勉#"
+    },
+    {
+      "word": "#习近平致电祝贺卢森堡大公纪尧姆即位#"
     }
   ]
 }
