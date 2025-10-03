@@ -1,6 +1,6 @@
 {
   "startTime": 1759509046450,
-  "endTime": 1759533728804,
+  "endTime": 1759534603898,
   "band_list": [
     {
       "raw_hot": 603069,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 427604,
-      "num": 748678,
+      "num": 867365,
       "word": "著名景点张继科落水处",
       "onboard_time": 1759505961,
       "rank": 25,
@@ -107,12 +107,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232722,
-      "num": 232722,
+      "raw_hot": 255247,
+      "num": 255247,
       "word": "36岁每天运动1小时体态的变化",
       "onboard_time": 1759507220,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 209017,
+      "num": 209017,
+      "word": "夫妻国庆开两架飞机带女儿回老家",
+      "onboard_time": 1759508540,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 202686,
@@ -131,14 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194557,
-      "num": 194557,
-      "word": "夫妻国庆开两架飞机带女儿回老家",
-      "onboard_time": 1759508540,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182207,
       "num": 182207,
       "word": "王楚钦孙颖莎混双冠军",
@@ -152,6 +152,14 @@
       "word": "许我耀眼热度",
       "onboard_time": 1759494742,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 170783,
+      "num": 106938,
+      "word": "沈皓明 妍妍为什么不接我电话嘞",
+      "onboard_time": 1759515855,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -187,12 +195,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 145514,
-      "num": 88054,
-      "word": "沈皓明 妍妍为什么不接我电话嘞",
-      "onboard_time": 1759515855,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 142765,
+      "num": 142765,
+      "word": "普京称某国准备进行核试验",
+      "onboard_time": 1759491442,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131091,
@@ -203,12 +211,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121391,
-      "num": 121391,
-      "word": "普京称某国准备进行核试验",
-      "onboard_time": 1759491442,
-      "rank": 33,
-      "category": "国际时政"
+      "raw_hot": 128956,
+      "num": 106842,
+      "word": "大学生用30天花20万自制特摄短剧",
+      "onboard_time": 1759532235,
+      "rank": 21,
+      "category": "民生新闻,剧集"
     },
     {
       "raw_hot": 115400,
@@ -219,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115244,
+      "num": 106578,
+      "word": "王一博丽芙泰勒同框合照",
+      "onboard_time": 1759509738,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115145,
       "num": 115145,
       "word": "蔡徐坤支持毕正明的证明",
@@ -227,12 +243,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 114109,
-      "num": 86484,
-      "word": "王一博丽芙泰勒同框合照",
-      "onboard_time": 1759509738,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 112442,
+      "num": 61739,
+      "word": "哈马斯同意释放全部以色列人质",
+      "onboard_time": 1759534277,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110075,
@@ -249,6 +265,22 @@
       "onboard_time": 1759487242,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 109959,
+      "num": 106302,
+      "word": "女子演唱会丢失11万手镯发帖找回",
+      "onboard_time": 1759516575,
+      "rank": 40,
+      "category": "民生新闻,演出"
+    },
+    {
+      "raw_hot": 106276,
+      "num": 106276,
+      "word": "阴阳师",
+      "onboard_time": 1759534277,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 105523,
@@ -283,12 +315,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 90977,
-      "num": 75681,
-      "word": "女子演唱会丢失11万手镯发帖找回",
-      "onboard_time": 1759516575,
-      "rank": 40,
-      "category": "民生新闻,演出"
+      "raw_hot": 87019,
+      "num": 87019,
+      "word": "鼻子决定了颜值的上限",
+      "onboard_time": 1759533736,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 82527,
@@ -339,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80399,
+      "num": 80399,
+      "word": "熬夜玩手机请给自己留盏灯",
+      "onboard_time": 1759534037,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 75355,
       "num": 75355,
       "word": "王一博演我i人社交",
@@ -347,20 +387,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72226,
-      "num": 72226,
-      "word": "大学生用30天花20万自制特摄短剧",
-      "onboard_time": 1759532235,
-      "rank": 21,
-      "category": "民生新闻,剧集"
-    },
-    {
       "raw_hot": 72119,
       "num": 72119,
       "word": "陈震下午5点左右还在更博",
       "onboard_time": 1759502003,
       "rank": 40,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 70743,
+      "num": 107393,
+      "word": "印度学者妄言中国被现场打脸",
+      "onboard_time": 1759499421,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 68970,
@@ -411,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 63052,
+      "num": 105159,
+      "word": "美驻华使领馆官号宣布停更",
+      "onboard_time": 1759496541,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62678,
       "num": 64120,
       "word": "周翊然哭了",
@@ -419,12 +467,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 60940,
-      "num": 105159,
-      "word": "美驻华使领馆官号宣布停更",
-      "onboard_time": 1759496541,
+      "raw_hot": 62364,
+      "num": 62364,
+      "word": "李一桐就这个腰臀比",
+      "onboard_time": 1759533798,
       "rank": 29,
-      "category": "国际时政"
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 60808,
+      "num": 60808,
+      "word": "东北虎不爱干净得名二埋汰",
+      "onboard_time": 1759528453,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60719,
@@ -443,27 +499,51 @@
       "category": "演出"
     },
     {
-      "raw_hot": 54393,
-      "num": 54393,
-      "word": "东北虎不爱干净得名二埋汰",
-      "onboard_time": 1759528453,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52756,
-      "num": 52756,
-      "word": "印度学者妄言中国被现场打脸",
-      "onboard_time": 1759499421,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 43778,
       "num": 58836,
       "word": "没想到我会收到阅兵观礼请柬",
       "onboard_time": 1759509919,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43519,
+      "num": 43519,
+      "word": "常吃4类食物让身体发炎",
+      "onboard_time": 1759533736,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 39595,
+      "num": 39595,
+      "word": "美籍男子在解放军舰队附近放无人机被捕",
+      "onboard_time": 1759488981,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 39048,
+      "num": 39048,
+      "word": "一笑随歌",
+      "onboard_time": 1759534338,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 37036,
+      "num": 37036,
+      "word": "女性断崖式衰老往往发生在30和50岁",
+      "onboard_time": 1759534097,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 36876,
+      "num": 38835,
+      "word": "于东来给应聘刑释人员说别浪费经历",
+      "onboard_time": 1759530616,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -475,12 +555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33182,
-      "num": 38835,
-      "word": "于东来给应聘刑释人员说别浪费经历",
-      "onboard_time": 1759530616,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 35064,
+      "num": 35799,
+      "word": "孙颖莎王楚钦希望参加年底总决赛",
+      "onboard_time": 1759534457,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 28342,

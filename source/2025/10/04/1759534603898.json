@@ -1,0 +1,402 @@
+{
+  "runTime": 1759534603898,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 358535,
+        "num": 867365,
+        "word": "著名景点张继科落水处",
+        "onboard_time": 1759505961,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255247,
+        "num": 255247,
+        "word": "36岁每天运动1小时体态的变化",
+        "onboard_time": 1759507220,
+        "rank": 1,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 209017,
+        "num": 209017,
+        "word": "夫妻国庆开两架飞机带女儿回老家",
+        "onboard_time": 1759508540,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170643,
+        "num": 170643,
+        "word": "顾客为合影将鸡排哥堵在墙角",
+        "onboard_time": 1759506859,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160585,
+        "num": 160585,
+        "word": "下馆子后特别渴的原因",
+        "onboard_time": 1759501762,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142765,
+        "num": 142765,
+        "word": "普京称某国准备进行核试验",
+        "onboard_time": 1759491442,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141188,
+        "num": 141188,
+        "word": "肯德基保密54年的炸鸡配方将被公开",
+        "onboard_time": 1759494261,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108147,
+        "num": 108147,
+        "word": "731毒气实验室玩具已下架",
+        "onboard_time": 1759496541,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 108079,
+        "num": 108079,
+        "word": "小米公司发言人回应",
+        "onboard_time": 1759502424,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 411470,
+        "num": 108021,
+        "word": "当地回应新郎在结婚当天跳河",
+        "onboard_time": 1759502182,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287873,
+        "num": 107840,
+        "word": "黄磊首次回应未熟豆角食物中毒争议",
+        "onboard_time": 1759485860,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227506,
+        "num": 107735,
+        "word": "董璇说男人分手很快会找到下一个",
+        "onboard_time": 1759496902,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227432,
+        "num": 107485,
+        "word": "李纯马頔不是一时好是真的一直好",
+        "onboard_time": 1759499662,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70743,
+        "num": 107393,
+        "word": "印度学者妄言中国被现场打脸",
+        "onboard_time": 1759499421,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 175260,
+        "num": 107175,
+        "word": "现象级爆剧救活了一项非遗文化",
+        "onboard_time": 1759498523,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170783,
+        "num": 106938,
+        "word": "沈皓明 妍妍为什么不接我电话嘞",
+        "onboard_time": 1759515855,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128956,
+        "num": 106842,
+        "word": "大学生用30天花20万自制特摄短剧",
+        "onboard_time": 1759532235,
+        "rank": 17,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 127056,
+        "num": 106710,
+        "word": "娜扎经纪人你是真的火了",
+        "onboard_time": 1759489400,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115244,
+        "num": 106578,
+        "word": "王一博丽芙泰勒同框合照",
+        "onboard_time": 1759509738,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109959,
+        "num": 106302,
+        "word": "女子演唱会丢失11万手镯发帖找回",
+        "onboard_time": 1759516575,
+        "rank": 20,
+        "category": "民生新闻,演出"
+      },
+      {
+        "raw_hot": 106276,
+        "num": 106276,
+        "word": "阴阳师",
+        "onboard_time": 1759534277,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87019,
+        "num": 87019,
+        "word": "鼻子决定了颜值的上限",
+        "onboard_time": 1759533736,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80399,
+        "num": 80399,
+        "word": "熬夜玩手机请给自己留盏灯",
+        "onboard_time": 1759534037,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71754,
+        "num": 71754,
+        "word": "台湾游客因未购物遭韩国导游狂骂",
+        "onboard_time": 1759500923,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 67967,
+        "num": 67967,
+        "word": "王楚钦孙颖莎混双冠军",
+        "onboard_time": 1759498822,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63052,
+        "num": 66286,
+        "word": "美驻华使领馆官号宣布停更",
+        "onboard_time": 1759496541,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65440,
+        "num": 65440,
+        "word": "微信转账后记得加一个动作",
+        "onboard_time": 1759495400,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64032,
+        "num": 64032,
+        "word": "女子订婚前帮闺蜜染发手被染成蓝色",
+        "onboard_time": 1759499543,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62364,
+        "num": 62364,
+        "word": "李一桐就这个腰臀比",
+        "onboard_time": 1759533798,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112442,
+        "num": 61739,
+        "word": "哈马斯同意释放全部以色列人质",
+        "onboard_time": 1759534277,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61015,
+        "num": 61015,
+        "word": "王一博演我i人社交",
+        "onboard_time": 1759509499,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60808,
+        "num": 60808,
+        "word": "东北虎不爱干净得名二埋汰",
+        "onboard_time": 1759528453,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59338,
+        "num": 59338,
+        "word": "肖战射雕英雄传实时收视率破2",
+        "onboard_time": 1759502902,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55119,
+        "num": 55119,
+        "word": "威廉王子说3个孩子都没有配手机",
+        "onboard_time": 1759487242,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53265,
+        "num": 53265,
+        "word": "张维伊看不了董璇这段",
+        "onboard_time": 1759496541,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50481,
+        "num": 50481,
+        "word": "女子减肥打针后身体烂57个洞",
+        "onboard_time": 1759494322,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49630,
+        "num": 49630,
+        "word": "安康一新郎在结婚当天跳河",
+        "onboard_time": 1759507160,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43776,
+        "num": 43776,
+        "word": "关晓彤说独自相处要拥抱变化",
+        "onboard_time": 1759496961,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43654,
+        "num": 43654,
+        "word": "范丞丞瘦了",
+        "onboard_time": 1759512856,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43519,
+        "num": 43519,
+        "word": "常吃4类食物让身体发炎",
+        "onboard_time": 1759533736,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 39639,
+        "num": 39639,
+        "word": "陈震下午5点左右还在更博",
+        "onboard_time": 1759502003,
+        "rank": 41,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 39595,
+        "num": 39595,
+        "word": "美籍男子在解放军舰队附近放无人机被捕",
+        "onboard_time": 1759488981,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39048,
+        "num": 39048,
+        "word": "一笑随歌",
+        "onboard_time": 1759534338,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38658,
+        "num": 38658,
+        "word": "易瘦体质都是怎样无意识养成的",
+        "onboard_time": 1759507880,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 37036,
+        "num": 37036,
+        "word": "女性断崖式衰老往往发生在30和50岁",
+        "onboard_time": 1759534097,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36876,
+        "num": 36876,
+        "word": "于东来给应聘刑释人员说别浪费经历",
+        "onboard_time": 1759530616,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35801,
+        "num": 35801,
+        "word": "AAA建材沈总离婚之我要当榜一大哥",
+        "onboard_time": 1759500862,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35064,
+        "num": 35799,
+        "word": "孙颖莎王楚钦希望参加年底总决赛",
+        "onboard_time": 1759534457,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33746,
+        "num": 35791,
+        "word": "杨洋蒋梦婕宝黛cp同游",
+        "onboard_time": 1759505122,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平曾以这句诗自勉#"
+    }
+  }
+}
