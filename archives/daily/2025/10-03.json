@@ -1,9 +1,9 @@
 {
   "startTime": 1759422668020,
-  "endTime": 1759462575352,
+  "endTime": 1759463160628,
   "band_list": [
     {
-      "raw_hot": 1229884,
+      "raw_hot": 1364560,
       "num": 169077,
       "word": "姜潮单方面官宣被麦迪娜公司婉拒了",
       "onboard_time": 1759460480,
@@ -25,6 +25,14 @@
       "onboard_time": 1759451599,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 780103,
+      "num": 1124816,
+      "word": "全球人民都知道我们放假了",
+      "onboard_time": 1759459759,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 715109,
@@ -73,14 +81,6 @@
       "onboard_time": 1759418422,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 628095,
-      "num": 628095,
-      "word": "全球人民都知道我们放假了",
-      "onboard_time": 1759459759,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 614501,
@@ -203,6 +203,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 294115,
+      "num": 155463,
+      "word": "真夫妻kisskiss假夫妻killkill",
+      "onboard_time": 1759461499,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 287150,
       "num": 209105,
       "word": "许我耀眼腾讯热度破32000",
@@ -259,12 +267,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 245132,
-      "num": 145023,
+      "raw_hot": 245576,
+      "num": 152800,
       "word": "G社拍的王俊凯巴黎看秀生图",
       "onboard_time": 1759461440,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 245100,
+      "num": 151238,
+      "word": "披荆斩棘官宣姐姐加盟",
+      "onboard_time": 1759462220,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 237453,
@@ -315,14 +331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200189,
-      "num": 137202,
-      "word": "真夫妻kisskiss假夫妻killkill",
-      "onboard_time": 1759461499,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199375,
       "num": 143812,
       "word": "宋亚轩 敬山水",
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 189875,
-      "num": 104235,
+      "num": 146636,
       "word": "医生眼中的生理性厌恶",
       "onboard_time": 1759461199,
       "rank": 30,
@@ -355,20 +363,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180111,
-      "num": 132511,
-      "word": "披荆斩棘官宣姐姐加盟",
-      "onboard_time": 1759462220,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 179446,
+      "raw_hot": 184217,
       "num": 156004,
       "word": "赵磊上婚综前和qko冷战",
       "onboard_time": 1759460118,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178098,
+      "num": 201871,
+      "word": "美国人将很快感受到政府停摆之痛",
+      "onboard_time": 1759458559,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 171198,
@@ -403,14 +411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156284,
-      "num": 201871,
-      "word": "美国人将很快感受到政府停摆之痛",
-      "onboard_time": 1759458559,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 151247,
       "num": 151247,
       "word": "大城小爱",
@@ -425,6 +425,14 @@
       "onboard_time": 1759448418,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146204,
+      "num": 146204,
+      "word": "什么东西是早买早享受的",
+      "onboard_time": 1759461019,
+      "rank": 48,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 143654,
@@ -467,12 +475,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 125516,
-      "num": 125516,
-      "word": "什么东西是早买早享受的",
-      "onboard_time": 1759461019,
-      "rank": 48,
-      "category": "情感,休闲"
+      "raw_hot": 131524,
+      "num": 110676,
+      "word": "长期过度焦虑的真实表现",
+      "onboard_time": 1759461499,
+      "rank": 31,
+      "category": "情感,健康医疗"
+    },
+    {
+      "raw_hot": 126423,
+      "num": 126423,
+      "word": "旅游3000块定律",
+      "onboard_time": 1759459698,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 124292,
+      "num": 124292,
+      "word": "近视600度是道槛",
+      "onboard_time": 1759462761,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 122708,
@@ -499,14 +523,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 117973,
-      "num": 104133,
-      "word": "长期过度焦虑的真实表现",
-      "onboard_time": 1759461499,
-      "rank": 31,
-      "category": "情感,健康医疗"
-    },
-    {
       "raw_hot": 114162,
       "num": 240977,
       "word": "我驻韩使馆就反华游行表明严正立场",
@@ -515,12 +531,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 113327,
-      "num": 113327,
-      "word": "旅游3000块定律",
-      "onboard_time": 1759459698,
-      "rank": 31,
-      "category": "旅游"
+      "raw_hot": 112914,
+      "num": 112914,
+      "word": "终于有古装剧反对和亲了",
+      "onboard_time": 1759462340,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 111661,
@@ -539,12 +555,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109831,
+      "num": 109831,
+      "word": "男子替离世朋友照顾智残孩子4年",
+      "onboard_time": 1759461080,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109450,
       "num": 109450,
       "word": "2026世界杯官方用球发布",
       "onboard_time": 1759453218,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107089,
+      "num": 107089,
+      "word": "范丞丞还没混熟就把黄渤怼了",
+      "onboard_time": 1759461980,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 105376,
@@ -569,14 +601,6 @@
       "onboard_time": 1759439174,
       "rank": 48,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 103854,
-      "num": 103854,
-      "word": "范丞丞还没混熟就把黄渤怼了",
-      "onboard_time": 1759461980,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 103342,
@@ -691,12 +715,44 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 88078,
+      "num": 88078,
+      "word": "丁程鑫是国庆档的一抹亮色",
+      "onboard_time": 1759462880,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 87407,
       "num": 87407,
       "word": "一笑随歌热度",
       "onboard_time": 1759409661,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86886,
+      "num": 149162,
+      "word": "林诗栋vs宇田幸矢",
+      "onboard_time": 1759462280,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86470,
+      "num": 86470,
+      "word": "王曼昱一剑封喉",
+      "onboard_time": 1759461080,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84574,
+      "num": 84574,
+      "word": "老师查手机一查都是备用机",
+      "onboard_time": 1759463120,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 83946,
@@ -715,28 +771,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 82362,
-      "num": 82362,
-      "word": "终于有古装剧反对和亲了",
-      "onboard_time": 1759462340,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 81926,
       "num": 81926,
       "word": "王曼昱回应被称日乒叹息之墙",
       "onboard_time": 1759455979,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81768,
-      "num": 81768,
-      "word": "男子替离世朋友照顾智残孩子4年",
-      "onboard_time": 1759461080,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80516,
@@ -1083,14 +1123,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33367,
-      "num": 134951,
-      "word": "林诗栋vs宇田幸矢",
-      "onboard_time": 1759462280,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 32683,
       "num": 69236,
       "word": "对手称王楚钦孙颖莎世上最佳",
@@ -1108,7 +1140,7 @@
     },
     {
       "raw_hot": 31115,
-      "num": 437193,
+      "num": 441100,
       "word": "网警送你国庆出行购票安全指南",
       "onboard_time": 1759458079,
       "rank": 2,

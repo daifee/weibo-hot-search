@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759462575352,
+  "endTime": 1759463160628,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -299,6 +299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1364560,
+      "num": 169077,
+      "word": "姜潮单方面官宣被麦迪娜公司婉拒了",
+      "onboard_time": 1759460480,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1363406,
       "num": 1363406,
       "word": "明家犯罪集团11人死刑",
@@ -401,14 +409,6 @@
       "onboard_time": 1759361117,
       "rank": 4,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1229884,
-      "num": 169077,
-      "word": "姜潮单方面官宣被麦迪娜公司婉拒了",
-      "onboard_time": 1759460480,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 1214864,
@@ -1195,6 +1195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 780103,
+      "num": 1124816,
+      "word": "全球人民都知道我们放假了",
+      "onboard_time": 1759459759,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 778997,
       "num": 858088,
       "word": "章莹颖男友协助章父直播回应新恋情",
@@ -1697,14 +1705,6 @@
       "onboard_time": 1759303581,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 628095,
-      "num": 628095,
-      "word": "全球人民都知道我们放假了",
-      "onboard_time": 1759459759,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 623863,
@@ -3955,6 +3955,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 294115,
+      "num": 155463,
+      "word": "真夫妻kisskiss假夫妻killkill",
+      "onboard_time": 1759461499,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 293254,
       "num": 293254,
       "word": "央视曝光玄学大师骗局",
@@ -4499,6 +4507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245576,
+      "num": 152800,
+      "word": "G社拍的王俊凯巴黎看秀生图",
+      "onboard_time": 1759461440,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 245451,
       "num": 245451,
       "word": "乐远cp返场",
@@ -4507,12 +4523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245132,
-      "num": 145023,
-      "word": "G社拍的王俊凯巴黎看秀生图",
-      "onboard_time": 1759461440,
-      "rank": 15,
-      "category": "作品衍生"
+      "raw_hot": 245100,
+      "num": 151238,
+      "word": "披荆斩棘官宣姐姐加盟",
+      "onboard_time": 1759462220,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 244911,
@@ -5459,14 +5475,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 200189,
-      "num": 137202,
-      "word": "真夫妻kisskiss假夫妻killkill",
-      "onboard_time": 1759461499,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199997,
       "num": 219243,
       "word": "peanut不要哭",
@@ -5956,7 +5964,7 @@
     },
     {
       "raw_hot": 189875,
-      "num": 104235,
+      "num": 146636,
       "word": "医生眼中的生理性厌恶",
       "onboard_time": 1759461199,
       "rank": 30,
@@ -6187,6 +6195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184217,
+      "num": 156004,
+      "word": "赵磊上婚综前和qko冷战",
+      "onboard_time": 1759460118,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183824,
       "num": 183824,
       "word": "梁靖崑无缘中国大满贯八强",
@@ -6363,14 +6379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180111,
-      "num": 132511,
-      "word": "披荆斩棘官宣姐姐加盟",
-      "onboard_time": 1759462220,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180084,
       "num": 180084,
       "word": "未来十年没人能明白邓超这两段",
@@ -6393,14 +6401,6 @@
       "onboard_time": 1759397180,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179446,
-      "num": 156004,
-      "word": "赵磊上婚综前和qko冷战",
-      "onboard_time": 1759460118,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 179402,
@@ -6457,6 +6457,14 @@
       "onboard_time": 1759414522,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178098,
+      "num": 201871,
+      "word": "美国人将很快感受到政府停摆之痛",
+      "onboard_time": 1759458559,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 178046,
@@ -7571,14 +7579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156284,
-      "num": 201871,
-      "word": "美国人将很快感受到政府停摆之痛",
-      "onboard_time": 1759458559,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 156261,
       "num": 156261,
       "word": "当你很爱很在乎一个人的时候",
@@ -8121,6 +8121,14 @@
       "onboard_time": 1759224621,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146204,
+      "num": 146204,
+      "word": "什么东西是早买早享受的",
+      "onboard_time": 1759461019,
+      "rank": 48,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 146162,
@@ -9379,6 +9387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131524,
+      "num": 110676,
+      "word": "长期过度焦虑的真实表现",
+      "onboard_time": 1759461499,
+      "rank": 31,
+      "category": "情感,健康医疗"
+    },
+    {
       "raw_hot": 131444,
       "num": 146813,
       "word": "王曼昱蒯曼3比0长崎美柚申裕斌",
@@ -9899,6 +9915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 126423,
+      "num": 126423,
+      "word": "旅游3000块定律",
+      "onboard_time": 1759459698,
+      "rank": 31,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 126370,
       "num": 126370,
       "word": "陈闲 最强大脑",
@@ -9969,14 +9993,6 @@
       "onboard_time": 1759285580,
       "rank": 33,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 125516,
-      "num": 125516,
-      "word": "什么东西是早买早享受的",
-      "onboard_time": 1759461019,
-      "rank": 48,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 125305,
@@ -10089,6 +10105,14 @@
       "onboard_time": 1759020442,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124292,
+      "num": 124292,
+      "word": "近视600度是道槛",
+      "onboard_time": 1759462761,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 124197,
@@ -10779,14 +10803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117973,
-      "num": 104133,
-      "word": "长期过度焦虑的真实表现",
-      "onboard_time": 1759461499,
-      "rank": 31,
-      "category": "情感,健康医疗"
-    },
-    {
       "raw_hot": 117597,
       "num": 286124,
       "word": "极氪9X引领新一代科技豪华",
@@ -11219,14 +11235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113327,
-      "num": 113327,
-      "word": "旅游3000块定律",
-      "onboard_time": 1759459698,
-      "rank": 31,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 113253,
       "num": 113253,
       "word": "湖南国补",
@@ -11249,6 +11257,14 @@
       "onboard_time": 1759038321,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 112914,
+      "num": 112914,
+      "word": "终于有古装剧反对和亲了",
+      "onboard_time": 1759462340,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 112874,
@@ -11627,6 +11643,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 109831,
+      "num": 109831,
+      "word": "男子替离世朋友照顾智残孩子4年",
+      "onboard_time": 1759461080,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109682,
       "num": 131835,
       "word": "孙红雷想把刘宇宁带回家",
@@ -11937,6 +11961,14 @@
       "onboard_time": 1759307000,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 107089,
+      "num": 107089,
+      "word": "范丞丞还没混熟就把黄渤怼了",
+      "onboard_time": 1759461980,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 107073,
@@ -12361,14 +12393,6 @@
       "onboard_time": 1759296441,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103854,
-      "num": 103854,
-      "word": "范丞丞还没混熟就把黄渤怼了",
-      "onboard_time": 1759461980,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 103786,
@@ -14083,6 +14107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88078,
+      "num": 88078,
+      "word": "丁程鑫是国庆档的一抹亮色",
+      "onboard_time": 1759462880,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 87859,
       "num": 87859,
       "word": "你们可以用指甲剥生鸡蛋吗",
@@ -14171,6 +14203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86886,
+      "num": 149162,
+      "word": "林诗栋vs宇田幸矢",
+      "onboard_time": 1759462280,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86812,
       "num": 86812,
       "word": "刘轩丞到达巴黎",
@@ -14209,6 +14249,14 @@
       "onboard_time": 1759020321,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 86470,
+      "num": 86470,
+      "word": "王曼昱一剑封喉",
+      "onboard_time": 1759461080,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 86415,
@@ -14459,6 +14507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84574,
+      "num": 84574,
+      "word": "老师查手机一查都是备用机",
+      "onboard_time": 1759463120,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 84550,
       "num": 84550,
       "word": "孙颖莎朱思冰精彩攻削瞬间",
@@ -14659,14 +14715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82362,
-      "num": 82362,
-      "word": "终于有古装剧反对和亲了",
-      "onboard_time": 1759462340,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 82226,
       "num": 82226,
       "word": "有综艺让中国菜扬眉吐气了",
@@ -14753,14 +14801,6 @@
       "onboard_time": 1759111819,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 81768,
-      "num": 81768,
-      "word": "男子替离世朋友照顾智残孩子4年",
-      "onboard_time": 1759461080,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81693,
@@ -17491,14 +17531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33367,
-      "num": 134951,
-      "word": "林诗栋vs宇田幸矢",
-      "onboard_time": 1759462280,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 33361,
       "num": 103401,
       "word": "医生说活不过2岁的男孩上小学了",
@@ -17588,7 +17620,7 @@
     },
     {
       "raw_hot": 31115,
-      "num": 437193,
+      "num": 441100,
       "word": "网警送你国庆出行购票安全指南",
       "onboard_time": 1759458079,
       "rank": 2,

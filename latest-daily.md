@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/03 00:31:08 ~ 2025/10/03 11:36:15
+本榜单时间：2025/10/03 00:31:08 ~ 2025/10/03 11:46:00
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E5%8D%95%E6%96%B9%E9%9D%A2%E5%AE%98%E5%AE%A3%E8%A2%AB%E9%BA%A6%E8%BF%AA%E5%A8%9C%E5%85%AC%E5%8F%B8%E5%A9%89%E6%8B%92%E4%BA%86%23" target="weibo">
-姜潮单方面官宣被麦迪娜公司婉拒了（热度：1229884）
+姜潮单方面官宣被麦迪娜公司婉拒了（热度：1364560）
 </a>
 </li>
 
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%A2%AB%E9%BB%91%E7%8B%97%E5%95%83%E5%88%B0%E9%9D%A2%E7%9B%AE%E5%85%A8%E9%9D%9E%23" target="weibo">
 车被黑狗啃到面目全非（热度：934705）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E4%BA%BA%E6%B0%91%E9%83%BD%E7%9F%A5%E9%81%93%E6%88%91%E4%BB%AC%E6%94%BE%E5%81%87%E4%BA%86%23" target="weibo">
+全球人民都知道我们放假了（热度：780103）
 </a>
 </li>
 
@@ -65,12 +71,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4ins%23" target="weibo">
 迪丽热巴ins（热度：679763）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E4%BA%BA%E6%B0%91%E9%83%BD%E7%9F%A5%E9%81%93%E6%88%91%E4%BB%AC%E6%94%BE%E5%81%87%E4%BA%86%23" target="weibo">
-全球人民都知道我们放假了（热度：628095）
 </a>
 </li>
 
@@ -165,6 +165,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%A4%AB%E5%A6%BBkisskiss%E5%81%87%E5%A4%AB%E5%A6%BBkillkill%23" target="weibo">
+真夫妻kisskiss假夫妻killkill（热度：294115）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E8%85%BE%E8%AE%AF%E7%83%AD%E5%BA%A6%E7%A0%B432000%23" target="weibo">
 许我耀眼腾讯热度破32000（热度：287150）
 </a>
@@ -208,7 +214,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23G%E7%A4%BE%E6%8B%8D%E7%9A%84%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B7%B4%E9%BB%8E%E7%9C%8B%E7%A7%80%E7%94%9F%E5%9B%BE%23" target="weibo">
-G社拍的王俊凯巴黎看秀生图（热度：245132）
+G社拍的王俊凯巴黎看秀生图（热度：245576）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%AE%98%E5%AE%A3%E5%A7%90%E5%A7%90%E5%8A%A0%E7%9B%9F%23" target="weibo">
+披荆斩棘官宣姐姐加盟（热度：245100）
 </a>
 </li>
 
@@ -249,12 +261,6 @@ G社拍的王俊凯巴黎看秀生图（热度：245132）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%A4%AB%E5%A6%BBkisskiss%E5%81%87%E5%A4%AB%E5%A6%BBkillkill%23" target="weibo">
-真夫妻kisskiss假夫妻killkill（热度：200189）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%20%E6%95%AC%E5%B1%B1%E6%B0%B4%23" target="weibo">
 宋亚轩 敬山水（热度：199375）
 </a>
@@ -279,14 +285,14 @@ G社拍的王俊凯巴黎看秀生图（热度：245132）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%AE%98%E5%AE%A3%E5%A7%90%E5%A7%90%E5%8A%A0%E7%9B%9F%23" target="weibo">
-披荆斩棘官宣姐姐加盟（热度：180111）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%A3%8A%E4%B8%8A%E5%A9%9A%E7%BB%BC%E5%89%8D%E5%92%8Cqko%E5%86%B7%E6%88%98%23" target="weibo">
+赵磊上婚综前和qko冷战（热度：184217）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%A3%8A%E4%B8%8A%E5%A9%9A%E7%BB%BC%E5%89%8D%E5%92%8Cqko%E5%86%B7%E6%88%98%23" target="weibo">
-赵磊上婚综前和qko冷战（热度：179446）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%B0%86%E5%BE%88%E5%BF%AB%E6%84%9F%E5%8F%97%E5%88%B0%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E4%B9%8B%E7%97%9B%23" target="weibo">
+美国人将很快感受到政府停摆之痛（热度：178098）
 </a>
 </li>
 
@@ -315,12 +321,6 @@ G社拍的王俊凯巴黎看秀生图（热度：245132）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%B0%86%E5%BE%88%E5%BF%AB%E6%84%9F%E5%8F%97%E5%88%B0%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%86%E4%B9%8B%E7%97%9B%23" target="weibo">
-美国人将很快感受到政府停摆之痛（热度：156284）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9F%8E%E5%B0%8F%E7%88%B1%23" target="weibo">
 大城小爱（热度：151247）
 </a>
@@ -329,6 +329,12 @@ G社拍的王俊凯巴黎看秀生图（热度：245132）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E8%99%8E%E4%BA%8C%E5%9F%8B%E6%B1%B0%E7%A9%BF%E8%A5%BF%E8%A3%85%E8%BF%8E%E5%AE%A2%23" target="weibo">
 东北虎二埋汰穿西装迎客（热度：148650）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF%E6%98%AF%E6%97%A9%E4%B9%B0%E6%97%A9%E4%BA%AB%E5%8F%97%E7%9A%84%23" target="weibo">
+什么东西是早买早享受的（热度：146204）
 </a>
 </li>
 
@@ -363,8 +369,20 @@ G社拍的王俊凯巴黎看秀生图（热度：245132）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF%E6%98%AF%E6%97%A9%E4%B9%B0%E6%97%A9%E4%BA%AB%E5%8F%97%E7%9A%84%23" target="weibo">
-什么东西是早买早享受的（热度：125516）
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E8%BF%87%E5%BA%A6%E7%84%A6%E8%99%91%E7%9A%84%E7%9C%9F%E5%AE%9E%E8%A1%A8%E7%8E%B0%23" target="weibo">
+长期过度焦虑的真实表现（热度：131524）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%85%E6%B8%B83000%E5%9D%97%E5%AE%9A%E5%BE%8B%23" target="weibo">
+旅游3000块定律（热度：126423）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86600%E5%BA%A6%E6%98%AF%E9%81%93%E6%A7%9B%23" target="weibo">
+近视600度是道槛（热度：124292）
 </a>
 </li>
 
@@ -387,20 +405,14 @@ G社拍的王俊凯巴黎看秀生图（热度：245132）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E8%BF%87%E5%BA%A6%E7%84%A6%E8%99%91%E7%9A%84%E7%9C%9F%E5%AE%9E%E8%A1%A8%E7%8E%B0%23" target="weibo">
-长期过度焦虑的真实表现（热度：117973）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E9%A9%BB%E9%9F%A9%E4%BD%BF%E9%A6%86%E5%B0%B1%E5%8F%8D%E5%8D%8E%E6%B8%B8%E8%A1%8C%E8%A1%A8%E6%98%8E%E4%B8%A5%E6%AD%A3%E7%AB%8B%E5%9C%BA%23" target="weibo">
 我驻韩使馆就反华游行表明严正立场（热度：114162）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%85%E6%B8%B83000%E5%9D%97%E5%AE%9A%E5%BE%8B%23" target="weibo">
-旅游3000块定律（热度：113327）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E5%8F%A4%E8%A3%85%E5%89%A7%E5%8F%8D%E5%AF%B9%E5%92%8C%E4%BA%B2%E4%BA%86%23" target="weibo">
+终于有古装剧反对和亲了（热度：112914）
 </a>
 </li>
 
@@ -417,8 +429,20 @@ G社拍的王俊凯巴黎看秀生图（热度：245132）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9B%BF%E7%A6%BB%E4%B8%96%E6%9C%8B%E5%8F%8B%E7%85%A7%E9%A1%BE%E6%99%BA%E6%AE%8B%E5%AD%A9%E5%AD%904%E5%B9%B4%23" target="weibo">
+男子替离世朋友照顾智残孩子4年（热度：109831）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232026%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AE%98%E6%96%B9%E7%94%A8%E7%90%83%E5%8F%91%E5%B8%83%23" target="weibo">
 2026世界杯官方用球发布（热度：109450）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%BF%98%E6%B2%A1%E6%B7%B7%E7%86%9F%E5%B0%B1%E6%8A%8A%E9%BB%84%E6%B8%A4%E6%80%BC%E4%BA%86%23" target="weibo">
+范丞丞还没混熟就把黄渤怼了（热度：107089）
 </a>
 </li>
 
@@ -437,12 +461,6 @@ G社拍的王俊凯巴黎看秀生图（热度：245132）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E4%BC%917%E5%8D%83%E5%8D%95%E4%BC%919%E5%8D%83%E6%80%8E%E4%B9%88%E9%80%89%23" target="weibo">
 双休7千单休9千怎么选（热度：104873）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%BF%98%E6%B2%A1%E6%B7%B7%E7%86%9F%E5%B0%B1%E6%8A%8A%E9%BB%84%E6%B8%A4%E6%80%BC%E4%BA%86%23" target="weibo">
-范丞丞还没混熟就把黄渤怼了（热度：103854）
 </a>
 </li>
 
@@ -531,8 +549,32 @@ G社拍的王俊凯巴黎看秀生图（热度：245132）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E6%98%AF%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%9A%84%E4%B8%80%E6%8A%B9%E4%BA%AE%E8%89%B2%23" target="weibo">
+丁程鑫是国庆档的一抹亮色（热度：88078）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AC%91%E9%9A%8F%E6%AD%8C%E7%83%AD%E5%BA%A6%23" target="weibo">
 一笑随歌热度（热度：87407）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8Bvs%E5%AE%87%E7%94%B0%E5%B9%B8%E7%9F%A2%23" target="weibo">
+林诗栋vs宇田幸矢（热度：86886）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%B8%80%E5%89%91%E5%B0%81%E5%96%89%23" target="weibo">
+王曼昱一剑封喉（热度：86470）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%9F%A5%E6%89%8B%E6%9C%BA%E4%B8%80%E6%9F%A5%E9%83%BD%E6%98%AF%E5%A4%87%E7%94%A8%E6%9C%BA%23" target="weibo">
+老师查手机一查都是备用机（热度：84574）
 </a>
 </li>
 
@@ -549,20 +591,8 @@ G社拍的王俊凯巴黎看秀生图（热度：245132）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E5%8F%A4%E8%A3%85%E5%89%A7%E5%8F%8D%E5%AF%B9%E5%92%8C%E4%BA%B2%E4%BA%86%23" target="weibo">
-终于有古装剧反对和亲了（热度：82362）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%A7%B0%E6%97%A5%E4%B9%92%E5%8F%B9%E6%81%AF%E4%B9%8B%E5%A2%99%23" target="weibo">
 王曼昱回应被称日乒叹息之墙（热度：81926）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9B%BF%E7%A6%BB%E4%B8%96%E6%9C%8B%E5%8F%8B%E7%85%A7%E9%A1%BE%E6%99%BA%E6%AE%8B%E5%AD%A9%E5%AD%904%E5%B9%B4%23" target="weibo">
-男子替离世朋友照顾智残孩子4年（热度：81768）
 </a>
 </li>
 
@@ -821,12 +851,6 @@ G社拍的王俊凯巴黎看秀生图（热度：245132）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%B8%89%E5%AD%A6%E7%94%9F%E7%BB%83%E6%88%90%E7%81%AB%E7%AE%AD%E5%86%9B%E6%8E%92%E9%9D%A2%E6%8B%85%E5%BD%93%23" target="weibo">
 大三学生练成火箭军排面担当（热度：34636）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8Bvs%E5%AE%87%E7%94%B0%E5%B9%B8%E7%9F%A2%23" target="weibo">
-林诗栋vs宇田幸矢（热度：33367）
 </a>
 </li>
 
