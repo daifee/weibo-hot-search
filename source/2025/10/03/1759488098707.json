@@ -1,0 +1,410 @@
+{
+  "runTime": 1759488098707,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 967770,
+        "num": 1154843,
+        "word": "庞众望回应女友发布结婚登记照",
+        "onboard_time": 1759483460,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337828,
+        "num": 337828,
+        "word": "威廉王子说3个孩子都没有配手机",
+        "onboard_time": 1759487242,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30027,
+        "num": 327871,
+        "word": "平凡的劳动者凭什么火出圈",
+        "onboard_time": 1759458920,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347013,
+        "num": 327446,
+        "word": "梨形瘦22斤的杀伤力",
+        "onboard_time": 1759482441,
+        "rank": 3,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 326247,
+        "num": 326247,
+        "word": "陈震闪灵",
+        "onboard_time": 1759487242,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308248,
+        "num": 308248,
+        "word": "景德镇文旅证实鸡排哥计划8日休息",
+        "onboard_time": 1759482800,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307709,
+        "num": 307709,
+        "word": "久哲谈清清转辅",
+        "onboard_time": 1759485259,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160970,
+        "num": 307115,
+        "word": "骨相美 皮相美",
+        "onboard_time": 1759464680,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125868,
+        "num": 303321,
+        "word": "全球人民都知道我们放假了",
+        "onboard_time": 1759459759,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112039,
+        "num": 301897,
+        "word": "伊朗总统称伊朗别无选择必须迁都",
+        "onboard_time": 1759475001,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1742296,
+        "num": 299706,
+        "word": "黄磊首次回应未熟豆角食物中毒争议",
+        "onboard_time": 1759485860,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533700,
+        "num": 296478,
+        "word": "成毅摔倒了",
+        "onboard_time": 1759485259,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 472237,
+        "num": 294165,
+        "word": "陈小春更新两个儿子近照",
+        "onboard_time": 1759484600,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292446,
+        "num": 292446,
+        "word": "忘崽留奶",
+        "onboard_time": 1759476380,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282611,
+        "num": 282611,
+        "word": "能不能禁止日本人画中华风",
+        "onboard_time": 1759481120,
+        "rank": 14,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 227997,
+        "num": 227997,
+        "word": "微信式恋爱",
+        "onboard_time": 1759478002,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227736,
+        "num": 227736,
+        "word": "罗意威大秀",
+        "onboard_time": 1759484060,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193592,
+        "num": 193592,
+        "word": "艺人坐地起价争议关键在合同合意",
+        "onboard_time": 1759486941,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178748,
+        "num": 178748,
+        "word": "伯远",
+        "onboard_time": 1759484840,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47262,
+        "num": 178609,
+        "word": "00后学霸刷飞猪图鉴做旅行计划",
+        "onboard_time": 1759485921,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 365767,
+        "num": 178086,
+        "word": "霉霉开撕查理",
+        "onboard_time": 1759485621,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214999,
+        "num": 176994,
+        "word": "鸡排哥称还没赚到1个亿",
+        "onboard_time": 1759475001,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214552,
+        "num": 176427,
+        "word": "17岁女孩通宵熬夜致双肺全白",
+        "onboard_time": 1759485681,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176187,
+        "num": 176187,
+        "word": "林诗栋赛后生气了",
+        "onboard_time": 1759478841,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167349,
+        "num": 167349,
+        "word": "王逗逗婚礼",
+        "onboard_time": 1759484961,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 161621,
+        "num": 161621,
+        "word": "沈佳润英语口语水平",
+        "onboard_time": 1759477460,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159611,
+        "num": 159611,
+        "word": "孙颖莎滑倒",
+        "onboard_time": 1759468280,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151513,
+        "num": 151513,
+        "word": "阿那亚偶遇杨洋了",
+        "onboard_time": 1759484901,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141222,
+        "num": 141222,
+        "word": "王一博罗意威巴黎大秀造型",
+        "onboard_time": 1759480880,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 104633,
+        "num": 139907,
+        "word": "美国载近2000人豪华邮轮暴发病毒疫情",
+        "onboard_time": 1759476200,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139371,
+        "num": 139371,
+        "word": "迪丽热巴真的美成公主了",
+        "onboard_time": 1759475540,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130923,
+        "num": 130923,
+        "word": "95花还能大洗牌吗",
+        "onboard_time": 1759482201,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130098,
+        "num": 130098,
+        "word": "李承铉这段舞蹈报备戚薇了吗",
+        "onboard_time": 1759487120,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128757,
+        "num": 128757,
+        "word": "树莓 摄哥",
+        "onboard_time": 1759487900,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 125289,
+        "num": 125289,
+        "word": "清清赛后发博回应转辅",
+        "onboard_time": 1759487601,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119635,
+        "num": 119635,
+        "word": "姜潮单方面官宣被麦迪娜公司婉拒了",
+        "onboard_time": 1759460480,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114793,
+        "num": 114793,
+        "word": "肖战包场毕正明的证明",
+        "onboard_time": 1759483823,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95813,
+        "num": 111197,
+        "word": "陈幸同vs朱雨玲",
+        "onboard_time": 1759487900,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58952,
+        "num": 110873,
+        "word": "迅猛龙对自己的体重要求是80斤",
+        "onboard_time": 1759488081,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 24952,
+        "num": 110763,
+        "word": "拍照到一半偶遇章若楠",
+        "onboard_time": 1759487242,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 110719,
+        "num": 110719,
+        "word": "辛芷蕾新发型",
+        "onboard_time": 1759478659,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26782,
+        "num": 109207,
+        "word": "孙颖莎小小的身躯大大的能量",
+        "onboard_time": 1759486881,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109192,
+        "num": 109192,
+        "word": "惠英红陈都灵秀场热聊",
+        "onboard_time": 1759487900,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 97459,
+        "num": 97459,
+        "word": "普京强调最近访华的重要意义",
+        "onboard_time": 1759487601,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95716,
+        "num": 95716,
+        "word": "檀健次说自己是长期主义者",
+        "onboard_time": 1759475001,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95643,
+        "num": 95643,
+        "word": "王一博惠英红陈都灵秀场造型",
+        "onboard_time": 1759488081,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 95227,
+        "num": 95227,
+        "word": "皮质醇过高六大表现",
+        "onboard_time": 1759484000,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96176,
+        "num": 95168,
+        "word": "陈都灵巴黎街拍",
+        "onboard_time": 1759485802,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 87725,
+        "num": 93984,
+        "word": "中芯国际再度高开",
+        "onboard_time": 1759488081,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85096,
+        "num": 92796,
+        "word": "炒粉老板开门发现百米长队天塌了",
+        "onboard_time": 1759472060,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同新加坡总统互致贺电#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759487162776,
+  "endTime": 1759488098707,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -33,6 +33,14 @@
       "onboard_time": 1759323141,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1742296,
+      "num": 299706,
+      "word": "黄磊首次回应未熟豆角食物中毒争议",
+      "onboard_time": 1759485860,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 1728253,
@@ -153,14 +161,6 @@
       "onboard_time": 1759473438,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1341815,
-      "num": 205317,
-      "word": "黄磊首次回应未熟豆角食物中毒争议",
-      "onboard_time": 1759485860,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 1325596,
@@ -724,7 +724,7 @@
     },
     {
       "raw_hot": 665580,
-      "num": 255899,
+      "num": 292446,
       "word": "忘崽留奶",
       "onboard_time": 1759476380,
       "rank": 30,
@@ -900,7 +900,7 @@
     },
     {
       "raw_hot": 569407,
-      "num": 262634,
+      "num": 327446,
       "word": "梨形瘦22斤的杀伤力",
       "onboard_time": 1759482441,
       "rank": 4,
@@ -977,6 +977,14 @@
       "onboard_time": 1759308261,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 533700,
+      "num": 296478,
+      "word": "成毅摔倒了",
+      "onboard_time": 1759485259,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 528355,
@@ -1155,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 472237,
+      "num": 294165,
+      "word": "陈小春更新两个儿子近照",
+      "onboard_time": 1759484600,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 467123,
       "num": 266078,
       "word": "迪奥巴黎时装周",
@@ -1200,14 +1216,6 @@
       "word": "董卿 超有气质的漂亮姐姐",
       "onboard_time": 1759304781,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 447162,
-      "num": 204979,
-      "word": "陈小春更新两个儿子近照",
-      "onboard_time": 1759484600,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1329,14 +1337,6 @@
       "onboard_time": 1759243462,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 404928,
-      "num": 204427,
-      "word": "成毅摔倒了",
-      "onboard_time": 1759485259,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 396129,
@@ -1499,6 +1499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 365767,
+      "num": 202330,
+      "word": "霉霉开撕查理",
+      "onboard_time": 1759485621,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365186,
       "num": 365186,
       "word": "鸡排哥周边摊主发声",
@@ -1619,6 +1627,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 337828,
+      "num": 337828,
+      "word": "威廉王子说3个孩子都没有配手机",
+      "onboard_time": 1759487242,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 337216,
       "num": 337216,
       "word": "郑州方特道歉",
@@ -1657,6 +1673,14 @@
       "onboard_time": 1759369339,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326247,
+      "num": 326247,
+      "word": "陈震闪灵",
+      "onboard_time": 1759487242,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 323084,
@@ -1724,7 +1748,7 @@
     },
     {
       "raw_hot": 317764,
-      "num": 204293,
+      "num": 282611,
       "word": "能不能禁止日本人画中华风",
       "onboard_time": 1759481120,
       "rank": 17,
@@ -1755,12 +1779,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308248,
+      "num": 308248,
+      "word": "景德镇文旅证实鸡排哥计划8日休息",
+      "onboard_time": 1759482800,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 308011,
       "num": 308011,
       "word": "深圳地铁列车自己洗澡睡觉",
       "onboard_time": 1759409060,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307709,
+      "num": 307709,
+      "word": "久哲谈清清转辅",
+      "onboard_time": 1759485259,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 306422,
@@ -1940,7 +1980,7 @@
     },
     {
       "raw_hot": 276544,
-      "num": 203594,
+      "num": 227736,
       "word": "罗意威大秀",
       "onboard_time": 1759484060,
       "rank": 19,
@@ -1948,7 +1988,7 @@
     },
     {
       "raw_hot": 276382,
-      "num": 276382,
+      "num": 301897,
       "word": "伊朗总统称伊朗别无选择必须迁都",
       "onboard_time": 1759475001,
       "rank": 20,
@@ -2001,14 +2041,6 @@
       "onboard_time": 1759368199,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 269485,
-      "num": 269485,
-      "word": "久哲谈清清转辅",
-      "onboard_time": 1759485259,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 268522,
@@ -2089,14 +2121,6 @@
       "onboard_time": 1759465099,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 261250,
-      "num": 261250,
-      "word": "景德镇文旅证实鸡排哥计划8日休息",
-      "onboard_time": 1759482800,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 259783,
@@ -2233,14 +2257,6 @@
       "onboard_time": 1759305200,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 243856,
-      "num": 202330,
-      "word": "霉霉开撕查理",
-      "onboard_time": 1759485621,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 242417,
@@ -2537,6 +2553,14 @@
       "onboard_time": 1759291340,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214552,
+      "num": 176427,
+      "word": "17岁女孩通宵熬夜致双肺全白",
+      "onboard_time": 1759485681,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214147,
@@ -2955,6 +2979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193592,
+      "num": 193592,
+      "word": "艺人坐地起价争议关键在合同合意",
+      "onboard_time": 1759486941,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192063,
       "num": 150422,
       "word": "一晚上偶遇三次鹿晗",
@@ -3179,6 +3211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178748,
+      "num": 178748,
+      "word": "伯远",
+      "onboard_time": 1759484840,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178725,
       "num": 141007,
       "word": "王楚钦说自己老了",
@@ -3291,14 +3331,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169682,
-      "num": 169682,
-      "word": "17岁女孩通宵熬夜致双肺全白",
-      "onboard_time": 1759485681,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169365,
       "num": 169365,
       "word": "娜扎演嫦娥完全是神仙级别的",
@@ -3393,6 +3425,14 @@
       "onboard_time": 1759245261,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 167349,
+      "num": 167349,
+      "word": "王逗逗婚礼",
+      "onboard_time": 1759484961,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 166993,
@@ -3563,14 +3603,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 160555,
-      "num": 160555,
-      "word": "伯远",
-      "onboard_time": 1759484840,
-      "rank": 27,
-      "category": "演出"
-    },
-    {
       "raw_hot": 159548,
       "num": 156115,
       "word": "陈俊菘回应首进大满贯八强",
@@ -3617,14 +3649,6 @@
       "onboard_time": 1759295959,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 157835,
-      "num": 157835,
-      "word": "王逗逗婚礼",
-      "onboard_time": 1759484961,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 157402,
@@ -3745,6 +3769,14 @@
       "onboard_time": 1759298960,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151513,
+      "num": 151513,
+      "word": "阿那亚偶遇杨洋了",
+      "onboard_time": 1759484901,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 151229,
@@ -4579,6 +4611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 130098,
+      "num": 130098,
+      "word": "李承铉这段舞蹈报备戚薇了吗",
+      "onboard_time": 1759487120,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129973,
       "num": 141579,
       "word": "王楚钦林诗栋3比0徐瑛彬袁励岑",
@@ -4665,6 +4705,14 @@
       "onboard_time": 1759479620,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128757,
+      "num": 128757,
+      "word": "树莓 摄哥",
+      "onboard_time": 1759487900,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 128005,
@@ -4755,6 +4803,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 125289,
+      "num": 125289,
+      "word": "清清赛后发博回应转辅",
+      "onboard_time": 1759487601,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125251,
       "num": 125251,
       "word": "政府食堂20元简餐火了",
@@ -4809,14 +4865,6 @@
       "onboard_time": 1759322542,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123905,
-      "num": 123905,
-      "word": "阿那亚偶遇杨洋了",
-      "onboard_time": 1759484901,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 123678,
@@ -5563,6 +5611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109192,
+      "num": 109192,
+      "word": "惠英红陈都灵秀场热聊",
+      "onboard_time": 1759487900,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 109071,
       "num": 109071,
       "word": "梁靖崑祝福林高远",
@@ -5817,14 +5873,6 @@
       "onboard_time": 1759478180,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 105939,
-      "num": 105939,
-      "word": "艺人坐地起价争议关键在合同合意",
-      "onboard_time": 1759486941,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 105906,
@@ -6363,6 +6411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97459,
+      "num": 97459,
+      "word": "普京强调最近访华的重要意义",
+      "onboard_time": 1759487601,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97317,
       "num": 97317,
       "word": "杨羚蔚瞒着父母参加offer7",
@@ -6412,7 +6468,7 @@
     },
     {
       "raw_hot": 96838,
-      "num": 94591,
+      "num": 95227,
       "word": "皮质醇过高六大表现",
       "onboard_time": 1759484000,
       "rank": 40,
@@ -6489,6 +6545,22 @@
       "onboard_time": 1759382242,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 95813,
+      "num": 111197,
+      "word": "陈幸同vs朱雨玲",
+      "onboard_time": 1759487900,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 95643,
+      "num": 95643,
+      "word": "王一博惠英红陈都灵秀场造型",
+      "onboard_time": 1759488081,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 95515,
@@ -6963,6 +7035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 87725,
+      "num": 93984,
+      "word": "中芯国际再度高开",
+      "onboard_time": 1759488081,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 87545,
       "num": 93973,
       "word": "男子自驾21小时称下次乖乖坐高铁",
@@ -7073,14 +7153,6 @@
       "onboard_time": 1759236802,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86233,
-      "num": 85659,
-      "word": "李承铉这段舞蹈报备戚薇了吗",
-      "onboard_time": 1759487120,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 86226,
@@ -8108,7 +8180,7 @@
     },
     {
       "raw_hot": 66004,
-      "num": 262823,
+      "num": 327871,
       "word": "平凡的劳动者凭什么火出圈",
       "onboard_time": 1759458920,
       "rank": 45,
@@ -8321,6 +8393,14 @@
       "onboard_time": 1759423039,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 58952,
+      "num": 110873,
+      "word": "迅猛龙对自己的体重要求是80斤",
+      "onboard_time": 1759488081,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 58872,
@@ -9131,6 +9211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26782,
+      "num": 109207,
+      "word": "孙颖莎小小的身躯大大的能量",
+      "onboard_time": 1759486881,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26616,
       "num": 79196,
       "word": "鸡排哥淡淡的霸总话术为何火出圈",
@@ -9169,6 +9257,14 @@
       "onboard_time": 1759291941,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24952,
+      "num": 110763,
+      "word": "拍照到一半偶遇章若楠",
+      "onboard_time": 1759487242,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 24806,
@@ -9353,14 +9449,6 @@
       "onboard_time": 1759268054,
       "rank": 45,
       "category": "民生新闻,国内时政"
-    },
-    {
-      "raw_hot": 13631,
-      "num": 99036,
-      "word": "孙颖莎小小的身躯大大的能量",
-      "onboard_time": 1759486881,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 13419,
