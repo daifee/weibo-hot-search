@@ -1,6 +1,6 @@
 {
   "startTime": 1759422668020,
-  "endTime": 1759470045045,
+  "endTime": 1759473362867,
   "band_list": [
     {
       "raw_hot": 2744347,
@@ -35,6 +35,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 991833,
+      "num": 1158693,
+      "word": "官方回应小米汽车突然自己开走了",
+      "onboard_time": 1759467621,
+      "rank": 4,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 968725,
       "num": 645620,
       "word": "骨相美 皮相美",
@@ -49,14 +57,6 @@
       "onboard_time": 1759451599,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 831896,
-      "num": 1133103,
-      "word": "官方回应小米汽车突然自己开走了",
-      "onboard_time": 1759467621,
-      "rank": 4,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 715109,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 681575,
+      "num": 681575,
+      "word": "孙颖莎滑倒",
+      "onboard_time": 1759468280,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 679763,
       "num": 225439,
       "word": "迪丽热巴ins",
@@ -131,14 +139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 604116,
-      "num": 604116,
-      "word": "孙颖莎滑倒",
-      "onboard_time": 1759468280,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 597428,
       "num": 221690,
       "word": "唐香玉官宣上恋综",
@@ -161,6 +161,14 @@
       "onboard_time": 1759454659,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 579905,
+      "num": 147265,
+      "word": "许妍又把双眼皮贴哭掉了",
+      "onboard_time": 1759469721,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 544108,
@@ -251,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364012,
+      "num": 196603,
+      "word": "男子灌面汤呛死妻子案家属最新发声",
+      "onboard_time": 1759467500,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 336296,
       "num": 176721,
       "word": "李纯说马頔哪哪都是加分项",
@@ -323,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277905,
+      "num": 144833,
+      "word": "张智霖送儿子留学机场分别落泪",
+      "onboard_time": 1759472179,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275582,
       "num": 275582,
       "word": "英雄联盟全球总决赛",
@@ -387,6 +411,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244440,
+      "num": 146253,
+      "word": "VaVa说自己分手是因为浪姐",
+      "onboard_time": 1759472241,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 243929,
+      "num": 144607,
+      "word": "女子32楼家爬满隐翅虫喷了4瓶杀虫剂",
+      "onboard_time": 1759472060,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242155,
       "num": 215757,
       "word": "戚薇被问蔡徐坤帅吗",
@@ -401,6 +441,14 @@
       "onboard_time": 1759463361,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 238294,
+      "num": 151894,
+      "word": "警方通报银河左岸音乐节倒卖票证",
+      "onboard_time": 1759463300,
+      "rank": 35,
+      "category": "辟谣/通报,演出"
     },
     {
       "raw_hot": 237453,
@@ -465,14 +513,6 @@
       "onboard_time": 1759459998,
       "rank": 9,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 203094,
-      "num": 196603,
-      "word": "男子灌面汤呛死妻子案家属最新发声",
-      "onboard_time": 1759467500,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 202241,
@@ -553,6 +593,14 @@
       "onboard_time": 1759411101,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186131,
+      "num": 149988,
+      "word": "戒咖啡三个月身体的变化",
+      "onboard_time": 1759467861,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 184217,
@@ -643,12 +691,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 151894,
-      "num": 151894,
-      "word": "警方通报银河左岸音乐节倒卖票证",
-      "onboard_time": 1759463300,
-      "rank": 35,
-      "category": "辟谣/通报,演出"
+      "raw_hot": 156386,
+      "num": 156386,
+      "word": "王曼昱蒯曼速胜晋级决赛",
+      "onboard_time": 1759470441,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 151247,
@@ -657,14 +705,6 @@
       "onboard_time": 1759407442,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 149988,
-      "num": 149988,
-      "word": "戒咖啡三个月身体的变化",
-      "onboard_time": 1759467861,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 148650,
@@ -681,6 +721,14 @@
       "onboard_time": 1759468640,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144100,
+      "num": 144100,
+      "word": "向往的生活",
+      "onboard_time": 1759471820,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 143654,
@@ -723,6 +771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 139570,
+      "num": 139570,
+      "word": "霉霉 Charlixcx",
+      "onboard_time": 1759472720,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 137786,
       "num": 137786,
       "word": "双高胎真假美猴王",
@@ -747,6 +803,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134349,
+      "num": 134349,
+      "word": "山西吕梁重大火灾事故13人获刑",
+      "onboard_time": 1759471340,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133980,
+      "num": 133980,
+      "word": "炒粉老板开门发现百米长队天塌了",
+      "onboard_time": 1759472060,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133871,
       "num": 133871,
       "word": "李纯马頔结婚",
@@ -761,6 +833,14 @@
       "onboard_time": 1759459698,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 131548,
+      "num": 131548,
+      "word": "请关闭WiFi自动连接功能",
+      "onboard_time": 1759466900,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126423,
@@ -803,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120675,
+      "num": 132149,
+      "word": "邓超偶遇的路人像托",
+      "onboard_time": 1759472720,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120465,
       "num": 120465,
       "word": "长期侧躺玩手机变斜眼了",
@@ -811,12 +899,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 117816,
-      "num": 117816,
-      "word": "请关闭WiFi自动连接功能",
-      "onboard_time": 1759466900,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 119047,
+      "num": 119047,
+      "word": "美国终止近80亿美元新能源项目",
+      "onboard_time": 1759473260,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 117696,
@@ -867,14 +955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112791,
-      "num": 112791,
-      "word": "许妍又把双眼皮贴哭掉了",
-      "onboard_time": 1759469721,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111661,
       "num": 111661,
       "word": "许妍又哭成被父母抛弃的模样",
@@ -888,6 +968,14 @@
       "word": "宋亚轩一秒红温",
       "onboard_time": 1759457959,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110114,
+      "num": 110114,
+      "word": "李晟不知道苏醒是rapper",
+      "onboard_time": 1759472961,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -971,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101962,
+      "num": 101962,
+      "word": "那你睡吧四个字的意思",
+      "onboard_time": 1759472060,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101893,
       "num": 101893,
       "word": "宋亚轩第一个售罄",
@@ -1001,6 +1097,14 @@
       "onboard_time": 1759468640,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98668,
+      "num": 98668,
+      "word": "浪浪人生把范丞丞演热血了",
+      "onboard_time": 1759473139,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 96869,
@@ -1115,6 +1219,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87348,
+      "num": 87348,
+      "word": "檀健次我记得我在法国啊",
+      "onboard_time": 1759471880,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 87099,
+      "num": 87099,
+      "word": "我在一群一模一样的小狗中选中了你",
+      "onboard_time": 1759473201,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86886,
       "num": 149162,
       "word": "林诗栋vs宇田幸矢",
@@ -1129,6 +1249,22 @@
       "onboard_time": 1759461080,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85527,
+      "num": 85527,
+      "word": "华晨宇火星乌托邦",
+      "onboard_time": 1759472299,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 85243,
+      "num": 85243,
+      "word": "王俊凯看秀官摄",
+      "onboard_time": 1759473321,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 84574,
@@ -1305,6 +1441,14 @@
       "onboard_time": 1759447277,
       "rank": 28,
       "category": "军事"
+    },
+    {
+      "raw_hot": 68959,
+      "num": 145431,
+      "word": "浏阳无人机烟花表演现场失火",
+      "onboard_time": 1759472359,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68724,
@@ -1521,6 +1665,14 @@
       "onboard_time": 1759445355,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50816,
+      "num": 145167,
+      "word": "范丞丞章若楠纪梵希大秀出发",
+      "onboard_time": 1759471400,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 49811,

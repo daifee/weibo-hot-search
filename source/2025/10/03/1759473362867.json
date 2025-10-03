@@ -1,0 +1,410 @@
+{
+  "runTime": 1759473362867,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 991833,
+        "num": 1158693,
+        "word": "官方回应小米汽车突然自己开走了",
+        "onboard_time": 1759467621,
+        "rank": 0,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 681575,
+        "num": 681575,
+        "word": "孙颖莎滑倒",
+        "onboard_time": 1759468280,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29381,
+        "num": 442213,
+        "word": "假期流动的是人潮更是活力",
+        "onboard_time": 1759464019,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 806100,
+        "num": 437410,
+        "word": "骨相美 皮相美",
+        "onboard_time": 1759464680,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 427702,
+        "num": 427702,
+        "word": "全球人民都知道我们放假了",
+        "onboard_time": 1759459759,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 267638,
+        "num": 267638,
+        "word": "鸡排哥3年前还没有班味",
+        "onboard_time": 1759466600,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242271,
+        "num": 242271,
+        "word": "英雄联盟全球总决赛",
+        "onboard_time": 1759467261,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170290,
+        "num": 170290,
+        "word": "孙颖莎4比3战胜王艺迪",
+        "onboard_time": 1759468761,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156386,
+        "num": 156386,
+        "word": "王曼昱蒯曼速胜晋级决赛",
+        "onboard_time": 1759470441,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147328,
+        "num": 147328,
+        "word": "九三阅兵刺刀是开了刃的",
+        "onboard_time": 1759463361,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 579905,
+        "num": 147265,
+        "word": "许妍又把双眼皮贴哭掉了",
+        "onboard_time": 1759469721,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 531459,
+        "num": 146899,
+        "word": "姜潮单方面官宣被麦迪娜公司婉拒了",
+        "onboard_time": 1759460480,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364012,
+        "num": 146803,
+        "word": "男子灌面汤呛死妻子案家属最新发声",
+        "onboard_time": 1759467500,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253129,
+        "num": 146566,
+        "word": "男子灌面汤呛死妻子案再次延期审理",
+        "onboard_time": 1759465279,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244440,
+        "num": 146253,
+        "word": "VaVa说自己分手是因为浪姐",
+        "onboard_time": 1759472241,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238294,
+        "num": 146011,
+        "word": "警方通报银河左岸音乐节倒卖票证",
+        "onboard_time": 1759463300,
+        "rank": 15,
+        "category": "辟谣/通报,演出"
+      },
+      {
+        "raw_hot": 196318,
+        "num": 145880,
+        "word": "唐香玉官宣上恋综",
+        "onboard_time": 1759464321,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167886,
+        "num": 145524,
+        "word": "当我瘦了50斤奶奶的反应",
+        "onboard_time": 1759464920,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68959,
+        "num": 145431,
+        "word": "浏阳无人机烟花表演现场失火",
+        "onboard_time": 1759472359,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50816,
+        "num": 145167,
+        "word": "范丞丞章若楠纪梵希大秀出发",
+        "onboard_time": 1759471400,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 277905,
+        "num": 144833,
+        "word": "张智霖送儿子留学机场分别落泪",
+        "onboard_time": 1759472179,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243929,
+        "num": 144607,
+        "word": "女子32楼家爬满隐翅虫喷了4瓶杀虫剂",
+        "onboard_time": 1759472060,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186131,
+        "num": 144391,
+        "word": "戒咖啡三个月身体的变化",
+        "onboard_time": 1759467861,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166591,
+        "num": 144142,
+        "word": "迪丽热巴张馨予巴黎街头聚餐",
+        "onboard_time": 1759454659,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144100,
+        "num": 144100,
+        "word": "向往的生活",
+        "onboard_time": 1759471820,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143225,
+        "num": 143225,
+        "word": "马頔指导李纯停车",
+        "onboard_time": 1759467621,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139570,
+        "num": 139570,
+        "word": "霉霉 Charlixcx",
+        "onboard_time": 1759472720,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 134349,
+        "num": 134349,
+        "word": "山西吕梁重大火灾事故13人获刑",
+        "onboard_time": 1759471340,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133980,
+        "num": 133980,
+        "word": "炒粉老板开门发现百米长队天塌了",
+        "onboard_time": 1759472060,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120675,
+        "num": 132149,
+        "word": "邓超偶遇的路人像托",
+        "onboard_time": 1759472720,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131548,
+        "num": 131548,
+        "word": "请关闭WiFi自动连接功能",
+        "onboard_time": 1759466900,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124665,
+        "num": 124665,
+        "word": "现在就出发3大合影",
+        "onboard_time": 1759465040,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123387,
+        "num": 123387,
+        "word": "给气血不足的人一份回血清单",
+        "onboard_time": 1759463900,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122089,
+        "num": 122089,
+        "word": "披荆斩棘官宣姐姐加盟",
+        "onboard_time": 1759462220,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119047,
+        "num": 119047,
+        "word": "美国终止近80亿美元新能源项目",
+        "onboard_time": 1759473260,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114276,
+        "num": 114276,
+        "word": "那英现身LadyGaga演唱会",
+        "onboard_time": 1759465640,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110114,
+        "num": 110114,
+        "word": "李晟不知道苏醒是rapper",
+        "onboard_time": 1759472961,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110060,
+        "num": 110060,
+        "word": "霉霉新专",
+        "onboard_time": 1759465099,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104942,
+        "num": 104942,
+        "word": "长期过度焦虑的真实表现",
+        "onboard_time": 1759461499,
+        "rank": 38,
+        "category": "情感,健康医疗"
+      },
+      {
+        "raw_hot": 101962,
+        "num": 101962,
+        "word": "那你睡吧四个字的意思",
+        "onboard_time": 1759472060,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 99981,
+        "num": 99981,
+        "word": "小蘑菇",
+        "onboard_time": 1759469302,
+        "rank": 40,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 98668,
+        "num": 98668,
+        "word": "浪浪人生把范丞丞演热血了",
+        "onboard_time": 1759473139,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95186,
+        "num": 95186,
+        "word": "音乐节称不便透露坐地起价艺人名字",
+        "onboard_time": 1759454659,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91828,
+        "num": 91828,
+        "word": "演员于娜近况",
+        "onboard_time": 1759465459,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87348,
+        "num": 87348,
+        "word": "檀健次我记得我在法国啊",
+        "onboard_time": 1759471880,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87099,
+        "num": 87099,
+        "word": "我在一群一模一样的小狗中选中了你",
+        "onboard_time": 1759473201,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86497,
+        "num": 86497,
+        "word": "孙颖莎教科书式两边分球",
+        "onboard_time": 1759469960,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85527,
+        "num": 85527,
+        "word": "华晨宇火星乌托邦",
+        "onboard_time": 1759472299,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85243,
+        "num": 85243,
+        "word": "王俊凯看秀官摄",
+        "onboard_time": 1759473321,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82890,
+        "num": 82890,
+        "word": "近视600度是道槛",
+        "onboard_time": 1759462761,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的家国情#"
+    }
+  }
+}

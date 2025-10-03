@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759470045045,
+  "endTime": 1759473362867,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 991833,
+      "num": 1158693,
+      "word": "官方回应小米汽车突然自己开走了",
+      "onboard_time": 1759467621,
+      "rank": 4,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 978586,
       "num": 246510,
       "word": "章莹颖男友已开始新恋情",
@@ -449,14 +457,6 @@
       "onboard_time": 1759379721,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 831896,
-      "num": 1133103,
-      "word": "官方回应小米汽车突然自己开走了",
-      "onboard_time": 1759467621,
-      "rank": 4,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 814211,
@@ -659,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 681575,
+      "num": 681575,
+      "word": "孙颖莎滑倒",
+      "onboard_time": 1759468280,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 679763,
       "num": 245521,
       "word": "迪丽热巴ins",
@@ -763,14 +771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 604116,
-      "num": 604116,
-      "word": "孙颖莎滑倒",
-      "onboard_time": 1759468280,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 597428,
       "num": 221690,
       "word": "唐香玉官宣上恋综",
@@ -825,6 +825,14 @@
       "onboard_time": 1759454659,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 579905,
+      "num": 147265,
+      "word": "许妍又把双眼皮贴哭掉了",
+      "onboard_time": 1759469721,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 572264,
@@ -1379,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 364012,
+      "num": 196603,
+      "word": "男子灌面汤呛死妻子案家属最新发声",
+      "onboard_time": 1759467500,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 360112,
       "num": 360112,
       "word": "小米汽车销量",
@@ -1747,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 277905,
+      "num": 144833,
+      "word": "张智霖送儿子留学机场分别落泪",
+      "onboard_time": 1759472179,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275582,
       "num": 275582,
       "word": "英雄联盟全球总决赛",
@@ -1971,6 +1995,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 244440,
+      "num": 146253,
+      "word": "VaVa说自己分手是因为浪姐",
+      "onboard_time": 1759472241,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 243929,
+      "num": 144607,
+      "word": "女子32楼家爬满隐翅虫喷了4瓶杀虫剂",
+      "onboard_time": 1759472060,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242417,
       "num": 242417,
       "word": "戚薇大光明紧身衣圣体",
@@ -2025,6 +2065,14 @@
       "onboard_time": 1759293560,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238294,
+      "num": 151894,
+      "word": "警方通报银河左岸音乐节倒卖票证",
+      "onboard_time": 1759463300,
+      "rank": 35,
+      "category": "辟谣/通报,演出"
     },
     {
       "raw_hot": 237712,
@@ -2419,14 +2467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203094,
-      "num": 196603,
-      "word": "男子灌面汤呛死妻子案家属最新发声",
-      "onboard_time": 1759467500,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 202662,
       "num": 202662,
       "word": "龚俊田曦薇将演攻玉",
@@ -2729,6 +2769,14 @@
       "onboard_time": 1759331122,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186131,
+      "num": 149988,
+      "word": "戒咖啡三个月身体的变化",
+      "onboard_time": 1759467861,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 184995,
@@ -3299,6 +3347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156386,
+      "num": 156386,
+      "word": "王曼昱蒯曼速胜晋级决赛",
+      "onboard_time": 1759470441,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154973,
       "num": 154973,
       "word": "曾舜晞直播",
@@ -3363,14 +3419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151894,
-      "num": 151894,
-      "word": "警方通报银河左岸音乐节倒卖票证",
-      "onboard_time": 1759463300,
-      "rank": 35,
-      "category": "辟谣/通报,演出"
-    },
-    {
       "raw_hot": 151229,
       "num": 151229,
       "word": "让高铁商务座亏钱的人出现了",
@@ -3385,14 +3433,6 @@
       "onboard_time": 1759387281,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149988,
-      "num": 149988,
-      "word": "戒咖啡三个月身体的变化",
-      "onboard_time": 1759467861,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 149885,
@@ -3611,6 +3651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144100,
+      "num": 144100,
+      "word": "向往的生活",
+      "onboard_time": 1759471820,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143648,
       "num": 143648,
       "word": "许妍晕倒名场面幕后",
@@ -3785,6 +3833,14 @@
       "onboard_time": 1759379721,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139570,
+      "num": 139570,
+      "word": "霉霉 Charlixcx",
+      "onboard_time": 1759472720,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 139559,
@@ -3979,6 +4035,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134349,
+      "num": 134349,
+      "word": "山西吕梁重大火灾事故13人获刑",
+      "onboard_time": 1759471340,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133980,
+      "num": 133980,
+      "word": "炒粉老板开门发现百米长队天塌了",
+      "onboard_time": 1759472060,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133737,
       "num": 133737,
       "word": "金价见证历史",
@@ -4089,6 +4161,14 @@
       "onboard_time": 1759318100,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131548,
+      "num": 131548,
+      "word": "请关闭WiFi自动连接功能",
+      "onboard_time": 1759466900,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131444,
@@ -4451,6 +4531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120675,
+      "num": 132149,
+      "word": "邓超偶遇的路人像托",
+      "onboard_time": 1759472720,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120465,
       "num": 120465,
       "word": "长期侧躺玩手机变斜眼了",
@@ -4523,6 +4611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119047,
+      "num": 119047,
+      "word": "美国终止近80亿美元新能源项目",
+      "onboard_time": 1759473260,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118502,
       "num": 118502,
       "word": "贺峻霖录制期间抽空赶作业",
@@ -4553,14 +4649,6 @@
       "onboard_time": 1759415062,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117816,
-      "num": 117816,
-      "word": "请关闭WiFi自动连接功能",
-      "onboard_time": 1759466900,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117696,
@@ -4779,14 +4867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112791,
-      "num": 112791,
-      "word": "许妍又把双眼皮贴哭掉了",
-      "onboard_time": 1759469721,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 112760,
       "num": 112760,
       "word": "林高远七个字回应球迷",
@@ -4921,6 +5001,14 @@
       "onboard_time": 1759326980,
       "rank": 48,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 110114,
+      "num": 110114,
+      "word": "李晟不知道苏醒是rapper",
+      "onboard_time": 1759472961,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 110100,
@@ -5387,6 +5475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101962,
+      "num": 101962,
+      "word": "那你睡吧四个字的意思",
+      "onboard_time": 1759472060,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101889,
       "num": 101889,
       "word": "王铮亮 人老脾气大",
@@ -5569,6 +5665,14 @@
       "onboard_time": 1759374319,
       "rank": 21,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 98668,
+      "num": 98668,
+      "word": "浪浪人生把范丞丞演热血了",
+      "onboard_time": 1759473139,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 98450,
@@ -6131,6 +6235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87348,
+      "num": 87348,
+      "word": "檀健次我记得我在法国啊",
+      "onboard_time": 1759471880,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87343,
       "num": 87343,
       "word": "黄友政陈熠3比0日本组合",
@@ -6145,6 +6257,14 @@
       "onboard_time": 1759368919,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87099,
+      "num": 87099,
+      "word": "我在一群一模一样的小狗中选中了你",
+      "onboard_time": 1759473201,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 86886,
@@ -6251,6 +6371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85527,
+      "num": 85527,
+      "word": "华晨宇火星乌托邦",
+      "onboard_time": 1759472299,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 85440,
       "num": 85440,
       "word": "8天布置了800天的作业量",
@@ -6281,6 +6409,14 @@
       "onboard_time": 1759239262,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85243,
+      "num": 85243,
+      "word": "王俊凯看秀官摄",
+      "onboard_time": 1759473321,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 85223,
@@ -7083,6 +7219,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 68959,
+      "num": 145431,
+      "word": "浏阳无人机烟花表演现场失火",
+      "onboard_time": 1759472359,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68928,
       "num": 68928,
       "word": "AG对战KSG",
@@ -7593,6 +7737,14 @@
       "onboard_time": 1759445355,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50816,
+      "num": 145167,
+      "word": "范丞丞章若楠纪梵希大秀出发",
+      "onboard_time": 1759471400,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 50648,
