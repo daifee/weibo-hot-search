@@ -1,6 +1,6 @@
 {
   "startTime": 1759509046450,
-  "endTime": 1759524019817,
+  "endTime": 1759526484793,
   "band_list": [
     {
       "raw_hot": 603069,
@@ -481,6 +481,14 @@
       "onboard_time": 1759520653,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13811,
+      "num": 13811,
+      "word": "普京称相信俄方核盾牌能力",
+      "onboard_time": 1759524014,
+      "rank": 42,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
