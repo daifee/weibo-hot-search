@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/03 00:31:08 ~ 2025/10/03 13:24:17
+本榜单时间：2025/10/03 00:31:08 ~ 2025/10/03 13:40:45
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%9F%20%E4%BA%BA%E8%AE%BE%E5%B4%A9%E5%A1%8C%23" target="weibo">
-李晟 人设崩塌（热度：2489487）
+李晟 人设崩塌（热度：2744347）
 </a>
 </li>
 
@@ -47,6 +47,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%A2%AB%E9%BB%91%E7%8B%97%E5%95%83%E5%88%B0%E9%9D%A2%E7%9B%AE%E5%85%A8%E9%9D%9E%23" target="weibo">
 车被黑狗啃到面目全非（热度：934705）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%AA%81%E7%84%B6%E8%87%AA%E5%B7%B1%E5%BC%80%E8%B5%B0%E4%BA%86%23" target="weibo">
+官方回应小米汽车突然自己开走了（热度：831896）
 </a>
 </li>
 
@@ -93,12 +99,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E7%AA%81%E7%84%B6%E8%87%AA%E5%B7%B1%E5%BC%80%E8%B5%B0%E4%BA%86%23" target="weibo">
-官方回应小米汽车突然自己开走了（热度：628974）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E9%B8%A1%E6%8E%92%E5%93%A5%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%23" target="weibo">
 人人人人人人鸡排哥人人人人人人（热度：614501）
 </a>
@@ -107,6 +107,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E8%B4%AD%E7%BD%AE%E5%A4%9A%E5%A5%97%E6%88%BF%E4%BA%A7%23" target="weibo">
 鸡排哥回应被指购置多套房产（热度：611759）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%BB%91%E5%80%92%23" target="weibo">
+孙颖莎滑倒（热度：604116）
 </a>
 </li>
 
@@ -183,6 +189,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A53%E5%B9%B4%E5%89%8D%E8%BF%98%E6%B2%A1%E6%9C%89%E7%8F%AD%E5%91%B3%23" target="weibo">
+鸡排哥3年前还没有班味（热度：369063）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%A4%AB%E5%A6%BBkisskiss%E5%81%87%E5%A4%AB%E5%A6%BBkillkill%23" target="weibo">
 真夫妻kisskiss假夫妻killkill（热度：369037）
 </a>
@@ -201,14 +213,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8D%A1%E5%A3%B3%E5%8D%8A%E5%A4%A9%E8%B9%A6%E5%87%BA%E6%9D%A5%E4%B8%80%E5%8F%A5%E4%BB%96%E8%80%81%E5%A9%86%23" target="weibo">
-王楚钦卡壳半天蹦出来一句他老婆（热度：314255）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E7%98%A6%E4%BA%8650%E6%96%A4%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
+当我瘦了50斤奶奶的反应（热度：315459）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E7%98%A6%E4%BA%8650%E6%96%A4%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
-当我瘦了50斤奶奶的反应（热度：308959）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8D%A1%E5%A3%B3%E5%8D%8A%E5%A4%A9%E8%B9%A6%E5%87%BA%E6%9D%A5%E4%B8%80%E5%8F%A5%E4%BB%96%E8%80%81%E5%A9%86%23" target="weibo">
+王楚钦卡壳半天蹦出来一句他老婆（热度：314255）
 </a>
 </li>
 
@@ -243,14 +255,8 @@ G社拍的王俊凯巴黎看秀生图（热度：292362）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A53%E5%B9%B4%E5%89%8D%E8%BF%98%E6%B2%A1%E6%9C%89%E7%8F%AD%E5%91%B3%23" target="weibo">
-鸡排哥3年前还没有班味（热度：278779）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
-英雄联盟全球总决赛（热度：269580）
+英雄联盟全球总决赛（热度：275582）
 </a>
 </li>
 
@@ -297,14 +303,14 @@ G社拍的王俊凯巴黎看秀生图（热度：292362）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%BB%91%E5%80%92%23" target="weibo">
-孙颖莎滑倒（热度：244384）
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E8%A2%AB%E9%97%AE%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B8%85%E5%90%97%23" target="weibo">
+戚薇被问蔡徐坤帅吗（热度：242155）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E8%A2%AB%E9%97%AE%E8%94%A1%E5%BE%90%E5%9D%A4%E5%B8%85%E5%90%97%23" target="weibo">
-戚薇被问蔡徐坤帅吗（热度：242155）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%88%BA%E5%88%80%E6%98%AF%E5%BC%80%E4%BA%86%E5%88%83%E7%9A%84%23" target="weibo">
+九三阅兵刺刀是开了刃的（热度：239260）
 </a>
 </li>
 
@@ -317,12 +323,6 @@ G社拍的王俊凯巴黎看秀生图（热度：292362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E8%BF%87%E5%BA%A6%E7%84%A6%E8%99%91%E7%9A%84%E7%9C%9F%E5%AE%9E%E8%A1%A8%E7%8E%B0%23" target="weibo">
 长期过度焦虑的真实表现（热度：232006）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%88%BA%E5%88%80%E6%98%AF%E5%BC%80%E4%BA%86%E5%88%83%E7%9A%84%23" target="weibo">
-九三阅兵刺刀是开了刃的（热度：227615）
 </a>
 </li>
 
@@ -363,6 +363,18 @@ G社拍的王俊凯巴黎看秀生图（热度：292362）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%81%8C%E9%9D%A2%E6%B1%A4%E5%91%9B%E6%AD%BB%E5%A6%BB%E5%AD%90%E6%A1%88%E5%AE%B6%E5%B1%9E%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%23" target="weibo">
+男子灌面汤呛死妻子案家属最新发声（热度：203094）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF4%E5%BC%BA%23" target="weibo">
+孙颖莎晋级中国大满贯4强（热度：202241）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E7%9A%87%E6%AC%A0%E9%92%B1%E7%9A%84%E6%9C%80%E5%A4%A7%E5%8F%97%E7%9B%8A%E4%BA%BA%23" target="weibo">
 英皇欠钱的最大受益人（热度：201279）
 </a>
@@ -387,6 +399,12 @@ G社拍的王俊凯巴黎看秀生图（热度：292362）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%98%91%E8%8F%87%23" target="weibo">
+小蘑菇（热度：196004）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%99%9A%E4%B8%8A%E5%81%B6%E9%81%87%E4%B8%89%E6%AC%A1%E9%B9%BF%E6%99%97%23" target="weibo">
 一晚上偶遇三次鹿晗（热度：192063）
 </a>
@@ -401,12 +419,6 @@ G社拍的王俊凯巴黎看秀生图（热度：292362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%9C%BC%E4%B8%AD%E7%9A%84%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%23" target="weibo">
 医生眼中的生理性厌恶（热度：189875）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%81%8C%E9%9D%A2%E6%B1%A4%E5%91%9B%E6%AD%BB%E5%A6%BB%E5%AD%90%E6%A1%88%E5%AE%B6%E5%B1%9E%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%23" target="weibo">
-男子灌面汤呛死妻子案家属最新发声（热度：187490）
 </a>
 </li>
 
@@ -431,6 +443,18 @@ G社拍的王俊凯巴黎看秀生图（热度：292362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86600%E5%BA%A6%E6%98%AF%E9%81%93%E6%A7%9B%23" target="weibo">
 近视600度是道槛（热度：182679）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%99%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E7%9A%84%E4%BA%BA%E4%B8%80%E4%BB%BD%E5%9B%9E%E8%A1%80%E6%B8%85%E5%8D%95%23" target="weibo">
+给气血不足的人一份回血清单（热度：182422）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%943%E6%88%98%E8%83%9C%E7%8E%8B%E8%89%BA%E8%BF%AA%23" target="weibo">
+孙颖莎4比3战胜王艺迪（热度：178744）
 </a>
 </li>
 
@@ -471,12 +495,6 @@ G社拍的王俊凯巴黎看秀生图（热度：292362）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%99%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E7%9A%84%E4%BA%BA%E4%B8%80%E4%BB%BD%E5%9B%9E%E8%A1%80%E6%B8%85%E5%8D%95%23" target="weibo">
-给气血不足的人一份回血清单（热度：157761）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E9%93%B6%E6%B2%B3%E5%B7%A6%E5%B2%B8%E9%9F%B3%E4%B9%90%E8%8A%82%E5%80%92%E5%8D%96%E7%A5%A8%E8%AF%81%23" target="weibo">
 警方通报银河左岸音乐节倒卖票证（热度：151894）
 </a>
@@ -489,14 +507,20 @@ G社拍的王俊凯巴黎看秀生图（热度：292362）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%92%E5%92%96%E5%95%A1%E4%B8%89%E4%B8%AA%E6%9C%88%E8%BA%AB%E4%BD%93%E7%9A%84%E5%8F%98%E5%8C%96%23" target="weibo">
+戒咖啡三个月身体的变化（热度：149988）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E8%99%8E%E4%BA%8C%E5%9F%8B%E6%B1%B0%E7%A9%BF%E8%A5%BF%E8%A3%85%E8%BF%8E%E5%AE%A2%23" target="weibo">
 东北虎二埋汰穿西装迎客（热度：148650）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%943%E6%88%98%E8%83%9C%E7%8E%8B%E8%89%BA%E8%BF%AA%23" target="weibo">
-孙颖莎4比3战胜王艺迪（热度：144758）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E6%97%AC%E8%80%81%E5%A4%AA%E7%88%86%E6%94%B9%E9%AD%94%E4%B8%B8%23" target="weibo">
+九旬老太爆改魔丸（热度：146011）
 </a>
 </li>
 
@@ -531,6 +555,12 @@ G社拍的王俊凯巴黎看秀生图（热度：292362）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E9%AB%98%E8%83%8E%E7%9C%9F%E5%81%87%E7%BE%8E%E7%8C%B4%E7%8E%8B%23" target="weibo">
+双高胎真假美猴王（热度：137786）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%8A%8A%E5%AE%B6%E9%92%A5%E5%8C%99%E6%98%AF%E4%BB%96%E4%BB%AC%E5%AF%B9%E5%9B%A2%E5%9C%86%E7%9A%84%E5%AE%88%E6%9C%9B%23" target="weibo">
 一把家钥匙是他们对团圆的守望（热度：136709）
 </a>
@@ -551,12 +581,6 @@ G社拍的王俊凯巴黎看秀生图（热度：292362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E6%81%A2%E5%A4%8D%E4%B8%8E%E7%BE%8E%E5%85%B3%E7%B3%BB%E7%AC%A6%E5%90%88%E5%9B%BD%E5%AE%B6%E5%88%A9%E7%9B%8A%23" target="weibo">
 普京称恢复与美关系符合国家利益（热度：133323）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%92%E5%92%96%E5%95%A1%E4%B8%89%E4%B8%AA%E6%9C%88%E8%BA%AB%E4%BD%93%E7%9A%84%E5%8F%98%E5%8C%96%23" target="weibo">
-戒咖啡三个月身体的变化（热度：129727）
 </a>
 </li>
 
@@ -609,6 +633,12 @@ ts12（热度：122004）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%87%AA%E5%B7%B1%E5%BC%80%E8%B5%B0%E8%BD%A6%E4%B8%BB%E5%90%A6%E8%AE%A4%E6%89%8B%E6%9C%BA%E6%93%8D%E4%BD%9C%23" target="weibo">
+小米汽车自己开走车主否认手机操作（热度：117560）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E6%88%91%E5%A5%BD%E5%83%8F%E7%9C%8B%E8%A7%81%E4%BD%A0%E6%89%81%E6%A1%83%E4%BD%93%E4%BA%86%23" target="weibo">
 张若昀我好像看见你扁桃体了（热度：116744）
 </a>
@@ -617,12 +647,6 @@ ts12（热度：122004）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C2%23" target="weibo">
 喜人奇妙夜2（热度：115220）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E8%87%AA%E5%B7%B1%E5%BC%80%E8%B5%B0%E8%BD%A6%E4%B8%BB%E5%90%A6%E8%AE%A4%E6%89%8B%E6%9C%BA%E6%93%8D%E4%BD%9C%23" target="weibo">
-小米汽车自己开走车主否认手机操作（热度：115119）
 </a>
 </li>
 
@@ -639,6 +663,12 @@ ts12（热度：122004）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%A6%8D%E5%8F%88%E6%8A%8A%E5%8F%8C%E7%9C%BC%E7%9A%AE%E8%B4%B4%E5%93%AD%E6%8E%89%E4%BA%86%23" target="weibo">
+许妍又把双眼皮贴哭掉了（热度：112791）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%A6%8D%E5%8F%88%E5%93%AD%E6%88%90%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%8A%9B%E5%BC%83%E7%9A%84%E6%A8%A1%E6%A0%B7%23" target="weibo">
 许妍又哭成被父母抛弃的模样（热度：111661）
 </a>
@@ -647,6 +677,12 @@ ts12（热度：122004）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E4%B8%80%E7%A7%92%E7%BA%A2%E6%B8%A9%23" target="weibo">
 宋亚轩一秒红温（热度：110741）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E4%B8%A4%E8%BE%B9%E5%88%86%E7%90%83%23" target="weibo">
+孙颖莎教科书式两边分球（热度：109979）
 </a>
 </li>
 
@@ -717,20 +753,14 @@ ts12（热度：122004）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF4%E5%BC%BA%23" target="weibo">
-孙颖莎晋级中国大满贯4强（热度：100473）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%85%AC%E4%B8%BB%E6%92%AD%E8%82%96%E6%88%98%E7%89%88%E5%B0%84%E9%9B%95%23" target="weibo">
 六公主播肖战版射雕（热度：99525）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E6%97%AC%E8%80%81%E5%A4%AA%E7%88%86%E6%94%B9%E9%AD%94%E4%B8%B8%23" target="weibo">
-九旬老太爆改魔丸（热度：98315）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B9%83%E6%96%87%E5%B8%A6%E5%A6%BB%E5%A5%B3%E5%87%BA%E6%B8%B8%23" target="weibo">
+李乃文带妻女出游（热度：98740）
 </a>
 </li>
 
@@ -1149,6 +1179,12 @@ ts12（热度：122004）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%E8%B7%AF%E6%BC%94%23" target="weibo">
+震耳欲聋路演（热度：38104）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E4%BF%9D%E5%AE%89%E9%AB%98%E4%B8%BE%E8%B5%B0%E4%B8%A2%E5%B0%8F%E7%8B%97%E6%89%BE%E4%B8%BB%E4%BA%BA%23" target="weibo">
 景区保安高举走丢小狗找主人（热度：36295）
 </a>
@@ -1187,12 +1223,6 @@ ts12（热度：122004）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E9%80%81%E4%BD%A0%E5%9B%BD%E5%BA%86%E5%87%BA%E8%A1%8C%E8%B4%AD%E7%A5%A8%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97%23" target="weibo">
 网警送你国庆出行购票安全指南（热度：31115）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B9%83%E6%96%87%E5%B8%A6%E5%A6%BB%E5%A5%B3%E5%87%BA%E6%B8%B8%23" target="weibo">
-李乃文带妻女出游（热度：30373）
 </a>
 </li>
 

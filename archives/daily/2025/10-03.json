@@ -1,9 +1,9 @@
 {
   "startTime": 1759422668020,
-  "endTime": 1759469057368,
+  "endTime": 1759470045045,
   "band_list": [
     {
-      "raw_hot": 2489487,
+      "raw_hot": 2744347,
       "num": 227527,
       "word": "李晟 人设崩塌",
       "onboard_time": 1759466961,
@@ -49,6 +49,14 @@
       "onboard_time": 1759451599,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 831896,
+      "num": 1133103,
+      "word": "官方回应小米汽车突然自己开走了",
+      "onboard_time": 1759467621,
+      "rank": 4,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 715109,
@@ -107,14 +115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 628974,
-      "num": 628974,
-      "word": "官方回应小米汽车突然自己开走了",
-      "onboard_time": 1759467621,
-      "rank": 4,
-      "category": "民生新闻,汽车"
-    },
-    {
       "raw_hot": 614501,
       "num": 863945,
       "word": "人人人人人人鸡排哥人人人人人人",
@@ -129,6 +129,14 @@
       "onboard_time": 1759416262,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 604116,
+      "num": 604116,
+      "word": "孙颖莎滑倒",
+      "onboard_time": 1759468280,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 597428,
@@ -227,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 369063,
+      "num": 369063,
+      "word": "鸡排哥3年前还没有班味",
+      "onboard_time": 1759466600,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 369037,
       "num": 214591,
       "word": "真夫妻kisskiss假夫妻killkill",
@@ -251,20 +267,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 315459,
+      "num": 219544,
+      "word": "当我瘦了50斤奶奶的反应",
+      "onboard_time": 1759464920,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 314255,
       "num": 314255,
       "word": "王楚钦卡壳半天蹦出来一句他老婆",
       "onboard_time": 1759415541,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 308959,
-      "num": 219544,
-      "word": "当我瘦了50斤奶奶的反应",
-      "onboard_time": 1759464920,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 300552,
@@ -307,16 +323,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 278779,
-      "num": 278779,
-      "word": "鸡排哥3年前还没有班味",
-      "onboard_time": 1759466600,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 269580,
-      "num": 269580,
+      "raw_hot": 275582,
+      "num": 275582,
       "word": "英雄联盟全球总决赛",
       "onboard_time": 1759467261,
       "rank": 7,
@@ -379,20 +387,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244384,
-      "num": 244384,
-      "word": "孙颖莎滑倒",
-      "onboard_time": 1759468280,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 242155,
       "num": 215757,
       "word": "戚薇被问蔡徐坤帅吗",
       "onboard_time": 1759464321,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 239260,
+      "num": 239260,
+      "word": "九三阅兵刺刀是开了刃的",
+      "onboard_time": 1759463361,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 237453,
@@ -409,14 +417,6 @@
       "onboard_time": 1759461499,
       "rank": 31,
       "category": "情感,健康医疗"
-    },
-    {
-      "raw_hot": 227615,
-      "num": 227615,
-      "word": "九三阅兵刺刀是开了刃的",
-      "onboard_time": 1759463361,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 221739,
@@ -467,6 +467,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 203094,
+      "num": 196603,
+      "word": "男子灌面汤呛死妻子案家属最新发声",
+      "onboard_time": 1759467500,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202241,
+      "num": 202241,
+      "word": "孙颖莎晋级中国大满贯4强",
+      "onboard_time": 1759469001,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201279,
       "num": 96268,
       "word": "英皇欠钱的最大受益人",
@@ -499,6 +515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 196004,
+      "num": 196004,
+      "word": "小蘑菇",
+      "onboard_time": 1759469302,
+      "rank": 19,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 192063,
       "num": 150422,
       "word": "一晚上偶遇三次鹿晗",
@@ -521,14 +545,6 @@
       "onboard_time": 1759461199,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 187490,
-      "num": 187490,
-      "word": "男子灌面汤呛死妻子案家属最新发声",
-      "onboard_time": 1759467500,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187153,
@@ -561,6 +577,22 @@
       "onboard_time": 1759462761,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 182422,
+      "num": 182422,
+      "word": "给气血不足的人一份回血清单",
+      "onboard_time": 1759463900,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 178744,
+      "num": 178744,
+      "word": "孙颖莎4比3战胜王艺迪",
+      "onboard_time": 1759468761,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 178098,
@@ -611,14 +643,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157761,
-      "num": 157761,
-      "word": "给气血不足的人一份回血清单",
-      "onboard_time": 1759463900,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 151894,
       "num": 151894,
       "word": "警方通报银河左岸音乐节倒卖票证",
@@ -635,6 +659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149988,
+      "num": 149988,
+      "word": "戒咖啡三个月身体的变化",
+      "onboard_time": 1759467861,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148650,
       "num": 153980,
       "word": "东北虎二埋汰穿西装迎客",
@@ -643,12 +675,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144758,
-      "num": 144758,
-      "word": "孙颖莎4比3战胜王艺迪",
-      "onboard_time": 1759468761,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 146011,
+      "num": 146011,
+      "word": "九旬老太爆改魔丸",
+      "onboard_time": 1759468640,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 143654,
@@ -691,6 +723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137786,
+      "num": 137786,
+      "word": "双高胎真假美猴王",
+      "onboard_time": 1759469120,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136709,
       "num": 200051,
       "word": "一把家钥匙是他们对团圆的守望",
@@ -721,14 +761,6 @@
       "onboard_time": 1759459698,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 129727,
-      "num": 129727,
-      "word": "戒咖啡三个月身体的变化",
-      "onboard_time": 1759467861,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 126423,
@@ -795,6 +827,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 117560,
+      "num": 117560,
+      "word": "小米汽车自己开走车主否认手机操作",
+      "onboard_time": 1759468701,
+      "rank": 42,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 116744,
       "num": 116744,
       "word": "张若昀我好像看见你扁桃体了",
@@ -809,14 +849,6 @@
       "onboard_time": 1759466000,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115119,
-      "num": 115119,
-      "word": "小米汽车自己开走车主否认手机操作",
-      "onboard_time": 1759468701,
-      "rank": 42,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 114162,
@@ -835,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112791,
+      "num": 112791,
+      "word": "许妍又把双眼皮贴哭掉了",
+      "onboard_time": 1759469721,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111661,
       "num": 111661,
       "word": "许妍又哭成被父母抛弃的模样",
@@ -849,6 +889,14 @@
       "onboard_time": 1759457959,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109979,
+      "num": 109979,
+      "word": "孙颖莎教科书式两边分球",
+      "onboard_time": 1759469960,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 109831,
@@ -939,14 +987,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100473,
-      "num": 100473,
-      "word": "孙颖莎晋级中国大满贯4强",
-      "onboard_time": 1759469001,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99525,
       "num": 99525,
       "word": "六公主播肖战版射雕",
@@ -955,12 +995,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 98315,
-      "num": 145483,
-      "word": "九旬老太爆改魔丸",
+      "raw_hot": 98740,
+      "num": 117923,
+      "word": "李乃文带妻女出游",
       "onboard_time": 1759468640,
-      "rank": 29,
-      "category": "电影"
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 96869,
@@ -1515,6 +1555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 38104,
+      "num": 116254,
+      "word": "震耳欲聋路演",
+      "onboard_time": 1759469901,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 36295,
       "num": 158281,
       "word": "景区保安高举走丢小狗找主人",
@@ -1540,7 +1588,7 @@
     },
     {
       "raw_hot": 34357,
-      "num": 645850,
+      "num": 665359,
       "word": "假期流动的是人潮更是活力",
       "onboard_time": 1759464019,
       "rank": 2,
@@ -1569,14 +1617,6 @@
       "onboard_time": 1759458079,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30373,
-      "num": 117923,
-      "word": "李乃文带妻女出游",
-      "onboard_time": 1759468640,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 26291,
