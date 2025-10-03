@@ -1,0 +1,410 @@
+{
+  "runTime": 1759457301361,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 955836,
+        "num": 1152933,
+        "word": "普京回击特朗普",
+        "onboard_time": 1759451599,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 600909,
+        "num": 600909,
+        "word": "车被黑狗啃到面目全非",
+        "onboard_time": 1759451599,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30197,
+        "num": 348348,
+        "word": "国庆中秋假期游玩好去处",
+        "onboard_time": 1759414222,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315399,
+        "num": 315399,
+        "word": "女子电话得知车被狗啃以为是诈骗",
+        "onboard_time": 1759449258,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292938,
+        "num": 292938,
+        "word": "有网友3年前预测鸡排哥将成顶流",
+        "onboard_time": 1759450999,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250219,
+        "num": 250219,
+        "word": "普京回应特朗普称俄为纸老虎",
+        "onboard_time": 1759452797,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 248781,
+        "num": 248781,
+        "word": "运动三个月不胖和好瘦的区别",
+        "onboard_time": 1759448117,
+        "rank": 6,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 240303,
+        "num": 240303,
+        "word": "人人人人人人鸡排哥人人人人人人",
+        "onboard_time": 1759405702,
+        "rank": 7,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 155230,
+        "num": 155230,
+        "word": "王楚钦卡壳半天蹦出来一句他老婆",
+        "onboard_time": 1759415541,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120057,
+        "num": 153980,
+        "word": "东北虎二埋汰穿西装迎客",
+        "onboard_time": 1759448418,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 666541,
+        "num": 152545,
+        "word": "迪丽热巴张馨予巴黎街头聚餐",
+        "onboard_time": 1759454659,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534064,
+        "num": 151557,
+        "word": "陈赫一家四口瑞士度假",
+        "onboard_time": 1759447757,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462463,
+        "num": 150256,
+        "word": "章莹颖男友已开始新恋情",
+        "onboard_time": 1759417704,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317474,
+        "num": 149474,
+        "word": "音乐节称不便透露坐地起价艺人名字",
+        "onboard_time": 1759454659,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207345,
+        "num": 147710,
+        "word": "朱志鑫来公司洗了个头",
+        "onboard_time": 1759452620,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212901,
+        "num": 146518,
+        "word": "迪丽热巴入选美版VOGUE最佳街拍",
+        "onboard_time": 1759456220,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192063,
+        "num": 144522,
+        "word": "一晚上偶遇三次鹿晗",
+        "onboard_time": 1759448238,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185921,
+        "num": 143812,
+        "word": "宋亚轩 敬山水",
+        "onboard_time": 1759449497,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159532,
+        "num": 141624,
+        "word": "泰山山顶宾馆提供99元坐席可过夜",
+        "onboard_time": 1759417042,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141045,
+        "num": 141045,
+        "word": "许妍卸妆",
+        "onboard_time": 1759411941,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266337,
+        "num": 139971,
+        "word": "导致视力下降的真实原因",
+        "onboard_time": 1759447277,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160217,
+        "num": 139851,
+        "word": "陈伟霆的评论区人均梗王",
+        "onboard_time": 1759453038,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143526,
+        "num": 139826,
+        "word": "鸡排哥为不辜负网友热情营业到深夜",
+        "onboard_time": 1759453398,
+        "rank": 22,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 137561,
+        "num": 137561,
+        "word": "李纯说马頔哪哪都是加分项",
+        "onboard_time": 1759454539,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135188,
+        "num": 135188,
+        "word": "成龙王力宏亲了",
+        "onboard_time": 1759414522,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135144,
+        "num": 135144,
+        "word": "王俊凯CL巴黎大秀造型",
+        "onboard_time": 1759456819,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128038,
+        "num": 128038,
+        "word": "导演看了花少5才选择了王安宇",
+        "onboard_time": 1759446738,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98316,
+        "num": 98316,
+        "word": "双休7千单休9千怎么选",
+        "onboard_time": 1759439174,
+        "rank": 27,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 106548,
+        "num": 97043,
+        "word": "李纯马頔回复王菊",
+        "onboard_time": 1759421301,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91360,
+        "num": 91360,
+        "word": "戚薇g社镜头",
+        "onboard_time": 1759449197,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134658,
+        "num": 90824,
+        "word": "美军阅兵方阵没有一个动作是一样的",
+        "onboard_time": 1759456577,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89386,
+        "num": 89386,
+        "word": "许我耀眼",
+        "onboard_time": 1759415903,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88241,
+        "num": 88241,
+        "word": "许妍又哭成被父母抛弃的模样",
+        "onboard_time": 1759449918,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80242,
+        "num": 80242,
+        "word": "王俊凯小说男主身材比例",
+        "onboard_time": 1759447338,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78880,
+        "num": 78880,
+        "word": "王楚钦孙颖莎冲击混双冠军",
+        "onboard_time": 1759453579,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76583,
+        "num": 76583,
+        "word": "导播真的太牛了配享太庙",
+        "onboard_time": 1759450519,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73010,
+        "num": 73010,
+        "word": "当我爸第一次知道我的血型",
+        "onboard_time": 1759456098,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71526,
+        "num": 71526,
+        "word": "菲律宾地震68人死亡",
+        "onboard_time": 1759454599,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69959,
+        "num": 69959,
+        "word": "在中国居住了5年的印度女子",
+        "onboard_time": 1759415302,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32683,
+        "num": 69236,
+        "word": "对手称王楚钦孙颖莎世上最佳",
+        "onboard_time": 1759457058,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69060,
+        "num": 69060,
+        "word": "香港人盯上内地医保",
+        "onboard_time": 1759417821,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68367,
+        "num": 68367,
+        "word": "2026世界杯官方用球发布",
+        "onboard_time": 1759453218,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67859,
+        "num": 67859,
+        "word": "孙颖莎好奇谁想和王楚钦做男双搭档",
+        "onboard_time": 1759456220,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66332,
+        "num": 66332,
+        "word": "英皇欠钱的最大受益人",
+        "onboard_time": 1759438574,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66026,
+        "num": 66026,
+        "word": "王曼昱回应被称日乒叹息之墙",
+        "onboard_time": 1759455979,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64526,
+        "num": 64526,
+        "word": "普京称扣押运俄油油轮或引发冲突",
+        "onboard_time": 1759453159,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64204,
+        "num": 64204,
+        "word": "多位名人自曝戴呼吸机睡觉",
+        "onboard_time": 1759412241,
+        "rank": 46,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 62032,
+        "num": 62032,
+        "word": "普京称美供乌战斧不会改变战场局势",
+        "onboard_time": 1759455079,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60608,
+        "num": 60608,
+        "word": "第一次国庆不用写作业",
+        "onboard_time": 1759457119,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60192,
+        "num": 60192,
+        "word": "北方当心冷暖大反转",
+        "onboard_time": 1759451599,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为祖国发展繁荣而不懈奋斗#"
+    }
+  }
+}

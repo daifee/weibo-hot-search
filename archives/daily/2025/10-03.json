@@ -1,6 +1,6 @@
 {
   "startTime": 1759422668020,
-  "endTime": 1759456095179,
+  "endTime": 1759457301361,
   "band_list": [
     {
       "raw_hot": 994334,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 715109,
-      "num": 147151,
+      "num": 151557,
       "word": "陈赫一家四口瑞士度假",
       "onboard_time": 1759447757,
       "rank": 30,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 666541,
+      "num": 152545,
+      "word": "迪丽热巴张馨予巴黎街头聚餐",
+      "onboard_time": 1759454659,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 614501,
       "num": 863945,
       "word": "人人人人人人鸡排哥人人人人人人",
@@ -67,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 600909,
+      "num": 600909,
+      "word": "车被黑狗啃到面目全非",
+      "onboard_time": 1759451599,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 520344,
       "num": 520344,
       "word": "女子电话得知车被狗啃以为是诈骗",
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 499464,
-      "num": 119636,
+      "num": 139971,
       "word": "导致视力下降的真实原因",
       "onboard_time": 1759447277,
       "rank": 25,
@@ -89,22 +105,6 @@
       "onboard_time": 1759411941,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 419891,
-      "num": 140669,
-      "word": "迪丽热巴张馨予巴黎街头聚餐",
-      "onboard_time": 1759454659,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 393384,
-      "num": 393384,
-      "word": "车被黑狗啃到面目全非",
-      "onboard_time": 1759451599,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 383708,
@@ -121,6 +121,14 @@
       "onboard_time": 1759450999,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317474,
+      "num": 149474,
+      "word": "音乐节称不便透露坐地起价艺人名字",
+      "onboard_time": 1759454659,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 314255,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 268353,
-      "num": 139221,
+      "num": 147710,
       "word": "朱志鑫来公司洗了个头",
       "onboard_time": 1759452620,
       "rank": 13,
@@ -169,6 +177,14 @@
       "onboard_time": 1759448117,
       "rank": 15,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 250219,
+      "num": 250219,
+      "word": "普京回应特朗普称俄为纸老虎",
+      "onboard_time": 1759452797,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 248880,
@@ -203,6 +219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 212901,
+      "num": 146518,
+      "word": "迪丽热巴入选美版VOGUE最佳街拍",
+      "onboard_time": 1759456220,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 208413,
       "num": 140888,
       "word": "泰国男子找回手机相册惊现尸骨照",
@@ -220,11 +244,19 @@
     },
     {
       "raw_hot": 199375,
-      "num": 133190,
+      "num": 143812,
       "word": "宋亚轩 敬山水",
       "onboard_time": 1759449497,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 192063,
+      "num": 144522,
+      "word": "一晚上偶遇三次鹿晗",
+      "onboard_time": 1759448238,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 187153,
@@ -235,24 +267,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 186314,
-      "num": 186314,
-      "word": "普京回应特朗普称俄为纸老虎",
-      "onboard_time": 1759452797,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 175200,
-      "num": 126274,
-      "word": "一晚上偶遇三次鹿晗",
-      "onboard_time": 1759448238,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171198,
-      "num": 96854,
+      "num": 128038,
       "word": "导演看了花少5才选择了王安宇",
       "onboard_time": 1759446738,
       "rank": 20,
@@ -260,19 +276,11 @@
     },
     {
       "raw_hot": 170616,
-      "num": 117013,
+      "num": 139851,
       "word": "陈伟霆的评论区人均梗王",
       "onboard_time": 1759453038,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159897,
-      "num": 121882,
-      "word": "音乐节称不便透露坐地起价艺人名字",
-      "onboard_time": 1759454659,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 151247,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 148650,
-      "num": 148650,
+      "num": 153980,
       "word": "东北虎二埋汰穿西装迎客",
       "onboard_time": 1759448418,
       "rank": 9,
@@ -297,6 +305,38 @@
       "onboard_time": 1759415903,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143526,
+      "num": 139826,
+      "word": "鸡排哥为不辜负网友热情营业到深夜",
+      "onboard_time": 1759453398,
+      "rank": 24,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 137561,
+      "num": 137561,
+      "word": "李纯说马頔哪哪都是加分项",
+      "onboard_time": 1759454539,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 135144,
+      "num": 135144,
+      "word": "王俊凯CL巴黎大秀造型",
+      "onboard_time": 1759456819,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134658,
+      "num": 90824,
+      "word": "美军阅兵方阵没有一个动作是一样的",
+      "onboard_time": 1759456577,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 133871,
@@ -337,22 +377,6 @@
       "onboard_time": 1759449918,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 109902,
-      "num": 109902,
-      "word": "鸡排哥为不辜负网友热情营业到深夜",
-      "onboard_time": 1759453398,
-      "rank": 24,
-      "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 109779,
-      "num": 109779,
-      "word": "李纯说马頔哪哪都是加分项",
-      "onboard_time": 1759454539,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 109450,
@@ -499,6 +523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 78880,
+      "num": 78880,
+      "word": "王楚钦孙颖莎冲击混双冠军",
+      "onboard_time": 1759453579,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77888,
       "num": 85484,
       "word": "肖战唱完歌以为自己下班了",
@@ -555,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73010,
+      "num": 73010,
+      "word": "当我爸第一次知道我的血型",
+      "onboard_time": 1759456098,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72491,
       "num": 85499,
       "word": "中国队提前包揽大满贯混双冠亚军",
@@ -587,6 +627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 67859,
+      "num": 67859,
+      "word": "孙颖莎好奇谁想和王楚钦做男双搭档",
+      "onboard_time": 1759456220,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67636,
       "num": 85469,
       "word": "中方向美方明确提出四不",
@@ -600,6 +648,14 @@
       "word": "王楚钦说精力体力已经到了极限",
       "onboard_time": 1759417403,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66026,
+      "num": 66026,
+      "word": "王曼昱回应被称日乒叹息之墙",
+      "onboard_time": 1759455979,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -627,12 +683,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61631,
-      "num": 61631,
-      "word": "王曼昱回应被称日乒叹息之墙",
-      "onboard_time": 1759455979,
-      "rank": 46,
-      "category": "体育"
+      "raw_hot": 62032,
+      "num": 62032,
+      "word": "普京称美供乌战斧不会改变战场局势",
+      "onboard_time": 1759455079,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 61161,
@@ -649,6 +705,14 @@
       "onboard_time": 1759412304,
       "rank": 45,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 60608,
+      "num": 60608,
+      "word": "第一次国庆不用写作业",
+      "onboard_time": 1759457119,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 59915,
@@ -697,14 +761,6 @@
       "onboard_time": 1759419920,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 57215,
-      "num": 57215,
-      "word": "王楚钦孙颖莎冲击混双冠军",
-      "onboard_time": 1759453579,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 56924,
@@ -769,6 +825,14 @@
       "onboard_time": 1759424777,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32683,
+      "num": 69236,
+      "word": "对手称王楚钦孙颖莎世上最佳",
+      "onboard_time": 1759457058,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 31945,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/10/03 09:48:15
+本榜单时间：2025/09/28 00:27:59 ~ 2025/10/03 10:08:21
 </p>
 </blockquote>
 <p>
@@ -1149,6 +1149,12 @@ K签证会让外国人抢走我们的饭碗吗（热度：792823）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E9%A6%A8%E4%BA%88%E5%B7%B4%E9%BB%8E%E8%A1%97%E5%A4%B4%E8%81%9A%E9%A4%90%23" target="weibo">
+迪丽热巴张馨予巴黎街头聚餐（热度：666541）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B6%85%E8%8E%B2%E7%AA%A6%E9%AA%81%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81%E4%BA%86%E5%90%97%23" target="weibo">
 何超莲窦骁领结婚证了吗（热度：665616）
 </a>
@@ -1343,6 +1349,12 @@ K签证会让外国人抢走我们的饭碗吗（热度：792823）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%9B%E7%90%B3%E5%A8%9C%E5%A9%9A%E7%BA%B1%E7%85%A7%23" target="weibo">
 赛琳娜婚纱照（热度：602271）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%A2%AB%E9%BB%91%E7%8B%97%E5%95%83%E5%88%B0%E9%9D%A2%E7%9B%AE%E5%85%A8%E9%9D%9E%23" target="weibo">
+车被黑狗啃到面目全非（热度：600909）
 </a>
 </li>
 
@@ -2193,12 +2205,6 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E9%A6%A8%E4%BA%88%E5%B7%B4%E9%BB%8E%E8%A1%97%E5%A4%B4%E8%81%9A%E9%A4%90%23" target="weibo">
-迪丽热巴张馨予巴黎街头聚餐（热度：419891）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E4%B8%89%E5%B7%A1%E9%80%81%E5%87%BA%E8%BF%91%E7%99%BE%E4%B8%87%E5%A5%96%E5%93%81%23" target="weibo">
 王源三巡送出近百万奖品（热度：419817）
 </a>
@@ -2315,12 +2321,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%B1%B1%E5%B1%B1%E9%A1%B6%E5%AE%BE%E9%A6%86%E6%8F%90%E4%BE%9B99%E5%85%83%E5%9D%90%E5%B8%AD%E5%8F%AF%E8%BF%87%E5%A4%9C%23" target="weibo">
 泰山山顶宾馆提供99元坐席可过夜（热度：394008）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%A2%AB%E9%BB%91%E7%8B%97%E5%95%83%E5%88%B0%E9%9D%A2%E7%9B%AE%E5%85%A8%E9%9D%9E%23" target="weibo">
-车被黑狗啃到面目全非（热度：393384）
 </a>
 </li>
 
@@ -2783,6 +2783,12 @@ TF家族男团在湖南秋晚三代同台（热度：346043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%868%E5%A4%A9%E5%AE%89%E6%8E%92%23" target="weibo">
 中秋国庆8天安排（热度：317649）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E8%8A%82%E7%A7%B0%E4%B8%8D%E4%BE%BF%E9%80%8F%E9%9C%B2%E5%9D%90%E5%9C%B0%E8%B5%B7%E4%BB%B7%E8%89%BA%E4%BA%BA%E5%90%8D%E5%AD%97%23" target="weibo">
+音乐节称不便透露坐地起价艺人名字（热度：317474）
 </a>
 </li>
 
@@ -3291,6 +3297,12 @@ GEN战胜HLE（热度：251190）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BF%84%E4%B8%BA%E7%BA%B8%E8%80%81%E8%99%8E%23" target="weibo">
+普京回应特朗普称俄为纸老虎（热度：250219）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E7%BE%8A%E8%82%89%E4%B8%B2%E4%B8%80%E7%B1%B3%E9%95%BF%23" target="weibo">
 新疆羊肉串一米长（热度：250151）
 </a>
@@ -3791,6 +3803,12 @@ iPhone17系列展示机刮痕原因（热度：215571）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%AD%A6%E8%BF%87%E9%92%A2%E7%AE%A1%E8%88%9E%23" target="weibo">
 赵丽颖学过钢管舞（热度：213297）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%85%A5%E9%80%89%E7%BE%8E%E7%89%88VOGUE%E6%9C%80%E4%BD%B3%E8%A1%97%E6%8B%8D%23" target="weibo">
+迪丽热巴入选美版VOGUE最佳街拍（热度：212901）
 </a>
 </li>
 
@@ -4329,6 +4347,12 @@ peanut不要哭（热度：199997）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%99%9A%E4%B8%8A%E5%81%B6%E9%81%87%E4%B8%89%E6%AC%A1%E9%B9%BF%E6%99%97%23" target="weibo">
+一晚上偶遇三次鹿晗（热度：192063）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%90%BB%E6%88%8F%23" target="weibo">
 尚公主吻戏（热度：191960）
 </a>
@@ -4481,12 +4505,6 @@ RED中国话舞台（热度：187390）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%87%8C%E5%AE%B8%E5%9B%9E%E5%BA%94%E6%8A%9B%E4%B8%8B%E5%89%A7%E7%BB%84%E5%93%84%E5%A5%B3%E5%8F%8B%23" target="weibo">
 胡凌宸回应抛下剧组哄女友（热度：186624）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BF%84%E4%B8%BA%E7%BA%B8%E8%80%81%E8%99%8E%23" target="weibo">
-普京回应特朗普称俄为纸老虎（热度：186314）
 </a>
 </li>
 
@@ -4823,12 +4841,6 @@ iG战胜JDG（热度：178046）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA10%E6%9C%88%E5%BE%85%E6%92%AD%E5%89%A7%E7%BB%BC%23" target="weibo">
 爱奇艺10月待播剧综（热度：175379）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%99%9A%E4%B8%8A%E5%81%B6%E9%81%87%E4%B8%89%E6%AC%A1%E9%B9%BF%E6%99%97%23" target="weibo">
-一晚上偶遇三次鹿晗（热度：175200）
 </a>
 </li>
 
@@ -5441,12 +5453,6 @@ iG收到王赫野的远程施法（热度：166027）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9DS15%E9%99%AA%E7%BB%83%E5%9B%A2%E5%90%8D%E5%8D%95%23" target="weibo">
 曝S15陪练团名单（热度：159956）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E8%8A%82%E7%A7%B0%E4%B8%8D%E4%BE%BF%E9%80%8F%E9%9C%B2%E5%9D%90%E5%9C%B0%E8%B5%B7%E4%BB%B7%E8%89%BA%E4%BA%BA%E5%90%8D%E5%AD%97%23" target="weibo">
-音乐节称不便透露坐地起价艺人名字（热度：159897）
 </a>
 </li>
 
@@ -6207,6 +6213,12 @@ K签证是否是过度紧张（热度：145407）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E4%B8%BA%E4%B8%8D%E8%BE%9C%E8%B4%9F%E7%BD%91%E5%8F%8B%E7%83%AD%E6%83%85%E8%90%A5%E4%B8%9A%E5%88%B0%E6%B7%B1%E5%A4%9C%23" target="weibo">
+鸡排哥为不辜负网友热情营业到深夜（热度：143526）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E9%97%AE%E4%BB%A3%E6%8B%8D%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%E4%B8%80%E4%B8%AA%E6%9C%88%23" target="weibo">
 侯明昊问代拍赚多少钱一个月（热度：143134）
 </a>
@@ -6489,6 +6501,12 @@ WTT北满混双头号种子爆冷出局（热度：139310）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E8%AF%B4%E9%A9%AC%E9%A0%94%E5%93%AA%E5%93%AA%E9%83%BD%E6%98%AF%E5%8A%A0%E5%88%86%E9%A1%B9%23" target="weibo">
+李纯说马頔哪哪都是加分项（热度：137561）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%82%96%E6%88%98%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B910%E6%9C%8810%E5%8F%B7%E9%94%A6%E5%B7%9E%E5%BC%80%E6%9C%BA%23" target="weibo">
 网传肖战小城良方10月10号锦州开机（热度：137452）
 </a>
@@ -6657,6 +6675,12 @@ ally拒绝恋综导演邀请（热度：136932）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AFCL%E5%B7%B4%E9%BB%8E%E5%A4%A7%E7%A7%80%E9%80%A0%E5%9E%8B%23" target="weibo">
+王俊凯CL巴黎大秀造型（热度：135144）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E4%B8%80%E5%8F%A5%E7%BA%AA%E5%BF%B5%E6%88%91%E4%BB%AC%E7%9A%845098%23" target="weibo">
 一人一句纪念我们的5098（热度：134999）
 </a>
@@ -6677,6 +6701,12 @@ ally拒绝恋综导演邀请（热度：136932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%8D%E5%B8%8C%E5%A4%B8%E5%B0%8F%E6%B5%B7%E8%B1%9A%E5%A4%AA%E6%BC%82%E4%BA%AE%E4%BA%86%23" target="weibo">
 陈妍希夸小海豚太漂亮了（热度：134814）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E9%98%85%E5%85%B5%E6%96%B9%E9%98%B5%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E5%8A%A8%E4%BD%9C%E6%98%AF%E4%B8%80%E6%A0%B7%E7%9A%84%23" target="weibo">
+美军阅兵方阵没有一个动作是一样的（热度：134658）
 </a>
 </li>
 
@@ -8585,18 +8615,6 @@ Rookie 隔6年了（热度：112714）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E7%A5%9D%E7%94%A8%E6%88%B7%E8%8A%82%E6%97%A5%E5%BF%AB%E4%B9%90%23" target="weibo">
 余承东祝用户节日快乐（热度：109917）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E4%B8%BA%E4%B8%8D%E8%BE%9C%E8%B4%9F%E7%BD%91%E5%8F%8B%E7%83%AD%E6%83%85%E8%90%A5%E4%B8%9A%E5%88%B0%E6%B7%B1%E5%A4%9C%23" target="weibo">
-鸡排哥为不辜负网友热情营业到深夜（热度：109902）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E8%AF%B4%E9%A9%AC%E9%A0%94%E5%93%AA%E5%93%AA%E9%83%BD%E6%98%AF%E5%8A%A0%E5%88%86%E9%A1%B9%23" target="weibo">
-李纯说马頔哪哪都是加分项（热度：109779）
 </a>
 </li>
 
@@ -11085,6 +11103,12 @@ Dior大秀藏了多少彩蛋（热度：84327）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E5%86%B2%E5%87%BB%E6%B7%B7%E5%8F%8C%E5%86%A0%E5%86%9B%23" target="weibo">
+王楚钦孙颖莎冲击混双冠军（热度：78880）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AF%B9%E6%89%8B%E5%9B%A0%E5%9B%9E%E6%8A%9B%E8%A2%AB%E7%BD%9A1%E5%88%86%23" target="weibo">
 王楚钦对手因回抛被罚1分（热度：78857）
 </a>
@@ -11367,6 +11391,12 @@ Dior大秀藏了多少彩蛋（热度：84327）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E7%88%B8%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9F%A5%E9%81%93%E6%88%91%E7%9A%84%E8%A1%80%E5%9E%8B%23" target="weibo">
+当我爸第一次知道我的血型（热度：73010）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%93%B2%E5%AD%A6%E7%B3%BB%E7%B3%BB%E4%B8%BB%E4%BB%BB%E8%B0%88%E6%96%87%E7%A7%91%E6%97%A0%E7%94%A8%E8%AE%BA%23" target="weibo">
 北大哲学系系主任谈文科无用论（热度：72993）
 </a>
@@ -11577,6 +11607,12 @@ Dior大秀藏了多少彩蛋（热度：84327）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A5%BD%E5%A5%87%E8%B0%81%E6%83%B3%E5%92%8C%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%81%9A%E7%94%B7%E5%8F%8C%E6%90%AD%E6%A1%A3%23" target="weibo">
+孙颖莎好奇谁想和王楚钦做男双搭档（热度：67859）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E4%B8%8D%E7%9F%A5%E9%81%93%E8%A3%81%E5%88%A4%E6%98%AF%E4%BB%80%E4%B9%88%E5%88%A4%E6%96%AD%23" target="weibo">
 王楚钦说不知道裁判是什么判断（热度：67812）
 </a>
@@ -11609,6 +11645,12 @@ Dior大秀藏了多少彩蛋（热度：84327）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%87%82%E4%B8%80%E4%BA%BA%E6%9C%89%E9%9A%BE%E5%85%A8%E5%AE%B6%E5%87%BA%E5%8A%A8%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
 谁懂一人有难全家出动的含金量（热度：66788）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%A7%B0%E6%97%A5%E4%B9%92%E5%8F%B9%E6%81%AF%E4%B9%8B%E5%A2%99%23" target="weibo">
+王曼昱回应被称日乒叹息之墙（热度：66026）
 </a>
 </li>
 
@@ -11805,6 +11847,12 @@ LCK包揽LOL战力榜前三（热度：63292）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E7%BE%8E%E4%BE%9B%E4%B9%8C%E6%88%98%E6%96%A7%E4%B8%8D%E4%BC%9A%E6%94%B9%E5%8F%98%E6%88%98%E5%9C%BA%E5%B1%80%E5%8A%BF%23" target="weibo">
+普京称美供乌战斧不会改变战场局势（热度：62032）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E4%BC%97%E4%B8%8D%E5%90%8C%E7%9A%84%E5%8D%81%E4%B8%80%E9%AD%94%E9%83%BD%E9%BB%84%E9%87%91%E5%91%A8%23" target="weibo">
 与众不同的十一魔都黄金周（热度：61936）
 </a>
@@ -11813,12 +11861,6 @@ LCK包揽LOL战力榜前三（热度：63292）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%88%96%E5%B0%86%E5%87%BA%E6%BC%94%E5%BD%92%E9%B8%BE%23" target="weibo">
 张凌赫或将出演归鸾（热度：61793）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%A7%B0%E6%97%A5%E4%B9%92%E5%8F%B9%E6%81%AF%E4%B9%8B%E5%A2%99%23" target="weibo">
-王曼昱回应被称日乒叹息之墙（热度：61631）
 </a>
 </li>
 
@@ -11849,6 +11891,12 @@ LCK包揽LOL战力榜前三（热度：63292）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%BD%E5%8D%A1%E6%96%AF%E5%B0%94%E8%81%941%E6%AF%942%E9%98%BF%E6%A3%AE%E7%BA%B3%23" target="weibo">
 纽卡斯尔联1比2阿森纳（热度：61002）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9B%BD%E5%BA%86%E4%B8%8D%E7%94%A8%E5%86%99%E4%BD%9C%E4%B8%9A%23" target="weibo">
+第一次国庆不用写作业（热度：60608）
 </a>
 </li>
 
@@ -12035,12 +12083,6 @@ NBA媒体日（热度：59886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%AD%9F%E5%AD%90%E4%B9%89%E4%B8%80%E8%B5%B7%E5%96%9C%E6%8F%90%E7%BC%A4%E6%9E%9CS%23" target="weibo">
 和孟子义一起喜提缤果S（热度：57545）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E5%86%B2%E5%87%BB%E6%B7%B7%E5%8F%8C%E5%86%A0%E5%86%9B%23" target="weibo">
-王楚钦孙颖莎冲击混双冠军（热度：57215）
 </a>
 </li>
 
@@ -12917,6 +12959,12 @@ Dior多机位带你全方位看秀（热度：33862）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%9B%9D%E9%B8%A1%E6%8E%92%E5%93%A5%E7%AB%A5%E5%B9%B4%E7%85%A7%E7%89%87%E8%A2%AB%E6%8C%87%E4%B8%8D%E5%A6%A5%23" target="weibo">
 网友曝鸡排哥童年照片被指不妥（热度：32810）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E6%89%8B%E7%A7%B0%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%96%E4%B8%8A%E6%9C%80%E4%BD%B3%23" target="weibo">
+对手称王楚钦孙颖莎世上最佳（热度：32683）
 </a>
 </li>
 
