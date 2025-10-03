@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/04 03:20:16
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/04 03:37:01
 </p>
 </blockquote>
 <p>
@@ -5997,6 +5997,12 @@ CNN拍的美国将军大会（热度：93967）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E7%9A%93%E6%98%8E%20%E5%A6%8D%E5%A6%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%8E%A5%E6%88%91%E7%94%B5%E8%AF%9D%E5%98%9E%23" target="weibo">
+沈皓明 妍妍为什么不接我电话嘞（热度：88196）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%AE%B6%E6%97%8F%E6%9C%89%E4%B8%93%E5%B1%9E%E5%B7%A5%E4%BD%9C%E6%9C%8D%E4%BA%86%23" target="weibo">
 鸡排家族有专属工作服了（热度：88161）
 </a>
@@ -6005,12 +6011,6 @@ CNN拍的美国将军大会（热度：93967）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E6%98%AF%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%9A%84%E4%B8%80%E6%8A%B9%E4%BA%AE%E8%89%B2%23" target="weibo">
 丁程鑫是国庆档的一抹亮色（热度：88078）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%AC%E5%8F%AF%E4%BB%A5%E7%94%A8%E6%8C%87%E7%94%B2%E5%89%A5%E7%94%9F%E9%B8%A1%E8%9B%8B%E5%90%97%23" target="weibo">
-你们可以用指甲剥生鸡蛋吗（热度：87859）
 </a>
 </li>
 
