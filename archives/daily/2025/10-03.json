@@ -1,6 +1,6 @@
 {
   "startTime": 1759422668020,
-  "endTime": 1759480330064,
+  "endTime": 1759481083305,
   "band_list": [
     {
       "raw_hot": 2744347,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1364560,
-      "num": 225061,
+      "num": 250133,
       "word": "姜潮单方面官宣被麦迪娜公司婉拒了",
       "onboard_time": 1759460480,
       "rank": 49,
@@ -33,6 +33,14 @@
       "onboard_time": 1759459759,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1120719,
+      "num": 281366,
+      "word": "张继科说被人一脚踹水里",
+      "onboard_time": 1759479440,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1004335,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 665580,
-      "num": 150629,
+      "num": 255899,
       "word": "忘崽留奶",
       "onboard_time": 1759476380,
       "rank": 30,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 657912,
-      "num": 169722,
+      "num": 212050,
       "word": "许妍又把双眼皮贴哭掉了",
       "onboard_time": 1759469721,
       "rank": 39,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 513768,
-      "num": 170839,
+      "num": 246079,
       "word": "王楚钦说出了很多人的心声",
       "onboard_time": 1759475121,
       "rank": 11,
@@ -227,12 +235,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 492984,
-      "num": 281366,
-      "word": "张继科说被人一脚踹水里",
-      "onboard_time": 1759479440,
-      "rank": 3,
-      "category": "体育"
+      "raw_hot": 490467,
+      "num": 254379,
+      "word": "沈佳润英语口语水平",
+      "onboard_time": 1759477460,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 484633,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 480031,
-      "num": 168924,
+      "num": 203617,
       "word": "VaVa说自己分手是因为浪姐",
       "onboard_time": 1759472241,
       "rank": 14,
@@ -259,12 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 442230,
-      "num": 150436,
-      "word": "沈佳润英语口语水平",
-      "onboard_time": 1759477460,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 437690,
+      "num": 252241,
+      "word": "微信式恋爱",
+      "onboard_time": 1759478002,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 395717,
@@ -289,14 +297,6 @@
       "onboard_time": 1759458318,
       "rank": 14,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 372941,
-      "num": 149934,
-      "word": "微信式恋爱",
-      "onboard_time": 1759478002,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 371570,
@@ -331,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 346933,
+      "num": 249251,
+      "word": "辛芷蕾新发型",
+      "onboard_time": 1759478659,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336296,
       "num": 176721,
       "word": "李纯说马頔哪哪都是加分项",
@@ -345,6 +353,14 @@
       "onboard_time": 1759457419,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 315928,
+      "num": 247502,
+      "word": "林诗栋赛后生气了",
+      "onboard_time": 1759478841,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 315459,
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 297327,
-      "num": 167906,
+      "num": 206123,
       "word": "白鹿一直用手护着腰",
       "onboard_time": 1759473561,
       "rank": 39,
@@ -412,7 +428,7 @@
     },
     {
       "raw_hot": 287729,
-      "num": 165199,
+      "num": 193126,
       "word": "女子32楼家爬满隐翅虫喷了4瓶杀虫剂",
       "onboard_time": 1759472060,
       "rank": 21,
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 283468,
-      "num": 166784,
+      "num": 190677,
       "word": "成毅的腰怎么了",
       "onboard_time": 1759473380,
       "rank": 38,
@@ -508,7 +524,7 @@
     },
     {
       "raw_hot": 250956,
-      "num": 250956,
+      "num": 260679,
       "word": "炒粉老板开门发现百米长队天塌了",
       "onboard_time": 1759472060,
       "rank": 28,
@@ -521,6 +537,14 @@
       "onboard_time": 1759452797,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 249337,
+      "num": 205481,
+      "word": "庞众望和女友拍领证照了",
+      "onboard_time": 1759479561,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248880,
@@ -537,6 +561,14 @@
       "onboard_time": 1759417821,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244886,
+      "num": 244886,
+      "word": "迪丽热巴真的美成公主了",
+      "onboard_time": 1759475540,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 242155,
@@ -563,14 +595,6 @@
       "category": "辟谣/通报,演出"
     },
     {
-      "raw_hot": 237740,
-      "num": 164214,
-      "word": "迪丽热巴真的美成公主了",
-      "onboard_time": 1759475540,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 237453,
       "num": 209000,
       "word": "对沈佳润是小孩有了实感",
@@ -585,14 +609,6 @@
       "onboard_time": 1759461499,
       "rank": 31,
       "category": "情感,健康医疗"
-    },
-    {
-      "raw_hot": 228576,
-      "num": 123638,
-      "word": "林诗栋赛后生气了",
-      "onboard_time": 1759478841,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 221739,
@@ -617,14 +633,6 @@
       "onboard_time": 1759415302,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 212985,
-      "num": 147467,
-      "word": "辛芷蕾新发型",
-      "onboard_time": 1759478659,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 208413,
@@ -713,14 +721,6 @@
       "onboard_time": 1759469302,
       "rank": 19,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 193766,
-      "num": 147006,
-      "word": "庞众望和女友拍领证照了",
-      "onboard_time": 1759479561,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192063,
@@ -867,6 +867,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166542,
+      "num": 166542,
+      "word": "王一博罗意威巴黎大秀造型",
+      "onboard_time": 1759480880,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 163212,
+      "num": 163212,
+      "word": "王力宏也整上科技与狠活了",
+      "onboard_time": 1759480399,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156950,
       "num": 146735,
       "word": "林诗栋回应王楚钦摸头",
@@ -881,6 +897,14 @@
       "onboard_time": 1759470441,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152308,
+      "num": 152308,
+      "word": "女子人肉占车位不让别车停",
+      "onboard_time": 1759477220,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151247,
@@ -1035,19 +1059,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 132384,
-      "num": 132384,
-      "word": "女子人肉占车位不让别车停",
-      "onboard_time": 1759477220,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131548,
       "num": 131548,
       "word": "请关闭WiFi自动连接功能",
       "onboard_time": 1759466900,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130329,
+      "num": 130329,
+      "word": "高端商场里一只猫卖58888元",
+      "onboard_time": 1759479980,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1057,6 +1081,14 @@
       "onboard_time": 1759479620,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127156,
+      "num": 127156,
+      "word": "Doinb自曝ASI约不到训练赛",
+      "onboard_time": 1759480040,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 126423,
@@ -1113,6 +1145,14 @@
       "onboard_time": 1759460839,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119878,
+      "num": 119878,
+      "word": "鹿晗这地板可真地板啊",
+      "onboard_time": 1759477460,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 117696,
@@ -1227,14 +1267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111412,
-      "num": 111412,
-      "word": "鹿晗这地板可真地板啊",
-      "onboard_time": 1759477460,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 110741,
       "num": 103277,
       "word": "宋亚轩一秒红温",
@@ -1299,12 +1331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107445,
+      "num": 107445,
+      "word": "龚俊送非遗扇子",
+      "onboard_time": 1759480761,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107089,
       "num": 107089,
       "word": "范丞丞还没混熟就把黄渤怼了",
       "onboard_time": 1759461980,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 106715,
+      "num": 106715,
+      "word": "新郎嘻嘻弟弟不嘻嘻",
+      "onboard_time": 1759481000,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 106123,
@@ -1369,14 +1417,6 @@
       "onboard_time": 1759474580,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 104881,
-      "num": 106116,
-      "word": "Doinb自曝ASI约不到训练赛",
-      "onboard_time": 1759480040,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 104873,
@@ -1459,6 +1499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 100057,
+      "num": 100057,
+      "word": "27岁住上了养老院",
+      "onboard_time": 1759481000,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99525,
       "num": 99525,
       "word": "六公主播肖战版射雕",
@@ -1481,14 +1529,6 @@
       "onboard_time": 1759473139,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 97551,
-      "num": 97551,
-      "word": "高端商场里一只猫卖58888元",
-      "onboard_time": 1759479980,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96869,
@@ -1577,6 +1617,14 @@
       "onboard_time": 1759408703,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93519,
+      "num": 100245,
+      "word": "年轻人开始对自己的婚礼下手了",
+      "onboard_time": 1759480880,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 93073,
@@ -1713,6 +1761,14 @@
       "onboard_time": 1759458079,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 82947,
+      "num": 135815,
+      "word": "赤发鬼太癫了给邓超演爽了吧",
+      "onboard_time": 1759480461,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 81926,
@@ -1947,6 +2003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 64314,
+      "num": 113211,
+      "word": "不要把鸡排哥榨得太干净了",
+      "onboard_time": 1759481000,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63217,
       "num": 107405,
       "word": "21岁中国男子普吉岛被海浪冲走",
@@ -2139,6 +2203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41277,
+      "num": 110709,
+      "word": "早期陈伟霆",
+      "onboard_time": 1759479861,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40442,
       "num": 72249,
       "word": "林俊杰新歌首唱",
@@ -2219,15 +2291,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30697,
-      "num": 105993,
-      "word": "早期陈伟霆",
-      "onboard_time": 1759479861,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27899,
+      "raw_hot": 30750,
       "num": 148361,
       "word": "中网票房创历史新高",
       "onboard_time": 1759479320,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1759481083305,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 398768,
+        "num": 1063802,
+        "word": "孙颖莎滑倒",
+        "onboard_time": 1759468280,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317863,
+        "num": 317863,
+        "word": "全球人民都知道我们放假了",
+        "onboard_time": 1759459759,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31566,
+        "num": 267680,
+        "word": "国庆假期第3天",
+        "onboard_time": 1759463480,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1120719,
+        "num": 267379,
+        "word": "张继科说被人一脚踹水里",
+        "onboard_time": 1759479440,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369166,
+        "num": 266909,
+        "word": "骨相美 皮相美",
+        "onboard_time": 1759464680,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261954,
+        "num": 261954,
+        "word": "美国载近2000人豪华邮轮暴发病毒疫情",
+        "onboard_time": 1759476200,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 261535,
+        "num": 261535,
+        "word": "伊朗总统称伊朗别无选择必须迁都",
+        "onboard_time": 1759475001,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158702,
+        "num": 260679,
+        "word": "炒粉老板开门发现百米长队天塌了",
+        "onboard_time": 1759472060,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149643,
+        "num": 259262,
+        "word": "英雄联盟全球总决赛",
+        "onboard_time": 1759467261,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128987,
+        "num": 257111,
+        "word": "美国终止近80亿美元新能源项目",
+        "onboard_time": 1759473260,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 660725,
+        "num": 255899,
+        "word": "忘崽留奶",
+        "onboard_time": 1759476380,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 490467,
+        "num": 254379,
+        "word": "沈佳润英语口语水平",
+        "onboard_time": 1759477460,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437690,
+        "num": 252241,
+        "word": "微信式恋爱",
+        "onboard_time": 1759478002,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 374033,
+        "num": 250133,
+        "word": "姜潮单方面官宣被麦迪娜公司婉拒了",
+        "onboard_time": 1759460480,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346933,
+        "num": 249251,
+        "word": "辛芷蕾新发型",
+        "onboard_time": 1759478659,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315928,
+        "num": 247502,
+        "word": "林诗栋赛后生气了",
+        "onboard_time": 1759478841,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267349,
+        "num": 246079,
+        "word": "王楚钦说出了很多人的心声",
+        "onboard_time": 1759475121,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244886,
+        "num": 244886,
+        "word": "迪丽热巴真的美成公主了",
+        "onboard_time": 1759475540,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212050,
+        "num": 212050,
+        "word": "许妍又把双眼皮贴哭掉了",
+        "onboard_time": 1759469721,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206123,
+        "num": 206123,
+        "word": "白鹿一直用手护着腰",
+        "onboard_time": 1759473561,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 846633,
+        "num": 205518,
+        "word": "鸡排哥称还没赚到1个亿",
+        "onboard_time": 1759475001,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249337,
+        "num": 205481,
+        "word": "庞众望和女友拍领证照了",
+        "onboard_time": 1759479561,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203617,
+        "num": 203617,
+        "word": "VaVa说自己分手是因为浪姐",
+        "onboard_time": 1759472241,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193126,
+        "num": 193126,
+        "word": "女子32楼家爬满隐翅虫喷了4瓶杀虫剂",
+        "onboard_time": 1759472060,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190677,
+        "num": 190677,
+        "word": "成毅的腰怎么了",
+        "onboard_time": 1759473380,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166542,
+        "num": 166542,
+        "word": "王一博罗意威巴黎大秀造型",
+        "onboard_time": 1759480880,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163212,
+        "num": 163212,
+        "word": "王力宏也整上科技与狠活了",
+        "onboard_time": 1759480399,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152308,
+        "num": 152308,
+        "word": "女子人肉占车位不让别车停",
+        "onboard_time": 1759477220,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141033,
+        "num": 141033,
+        "word": "檀健次说自己是长期主义者",
+        "onboard_time": 1759475001,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82947,
+        "num": 135815,
+        "word": "赤发鬼太癫了给邓超演爽了吧",
+        "onboard_time": 1759480461,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30750,
+        "num": 135342,
+        "word": "中网票房创历史新高",
+        "onboard_time": 1759479320,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134993,
+        "num": 134993,
+        "word": "范丞丞坐白敬亭腿上我坐什么",
+        "onboard_time": 1759477400,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130329,
+        "num": 130329,
+        "word": "高端商场里一只猫卖58888元",
+        "onboard_time": 1759479980,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127156,
+        "num": 127156,
+        "word": "Doinb自曝ASI约不到训练赛",
+        "onboard_time": 1759480040,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122458,
+        "num": 122458,
+        "word": "林诗栋回应王楚钦摸头",
+        "onboard_time": 1759478900,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58375,
+        "num": 120384,
+        "word": "高德扫街榜用户超4亿",
+        "onboard_time": 1759476019,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119878,
+        "num": 119878,
+        "word": "鹿晗这地板可真地板啊",
+        "onboard_time": 1759477460,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117445,
+        "num": 117445,
+        "word": "张智霖送儿子留学机场分别落泪",
+        "onboard_time": 1759472179,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64314,
+        "num": 113211,
+        "word": "不要把鸡排哥榨得太干净了",
+        "onboard_time": 1759481000,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112903,
+        "num": 112903,
+        "word": "南派三叔回应云顶天宫原班人马",
+        "onboard_time": 1759477041,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41277,
+        "num": 110709,
+        "word": "早期陈伟霆",
+        "onboard_time": 1759479861,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110498,
+        "num": 110498,
+        "word": "朱志鑫被管乐整红温了",
+        "onboard_time": 1759479620,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109340,
+        "num": 109340,
+        "word": "戒咖啡三个月身体的变化",
+        "onboard_time": 1759467861,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109223,
+        "num": 109223,
+        "word": "给气血不足的人一份回血清单",
+        "onboard_time": 1759463900,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107445,
+        "num": 107445,
+        "word": "龚俊送非遗扇子",
+        "onboard_time": 1759480761,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106715,
+        "num": 106715,
+        "word": "新郎嘻嘻弟弟不嘻嘻",
+        "onboard_time": 1759481000,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101305,
+        "num": 101305,
+        "word": "中国飞行员比任何国家都不差",
+        "onboard_time": 1759478180,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100959,
+        "num": 100959,
+        "word": "TaylorSwift表示暂时没有新的巡演计划",
+        "onboard_time": 1759478361,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93519,
+        "num": 100245,
+        "word": "年轻人开始对自己的婚礼下手了",
+        "onboard_time": 1759480880,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100057,
+        "num": 100057,
+        "word": "27岁住上了养老院",
+        "onboard_time": 1759481000,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的家国情#"
+    }
+  }
+}

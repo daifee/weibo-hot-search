@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759480330064,
+  "endTime": 1759481083305,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 1364560,
-      "num": 225061,
+      "num": 250133,
       "word": "姜潮单方面官宣被麦迪娜公司婉拒了",
       "onboard_time": 1759460480,
       "rank": 49,
@@ -505,6 +505,14 @@
       "onboard_time": 1759278139,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1120719,
+      "num": 281366,
+      "word": "张继科说被人一脚踹水里",
+      "onboard_time": 1759479440,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1118063,
@@ -1612,7 +1620,7 @@
     },
     {
       "raw_hot": 665580,
-      "num": 150629,
+      "num": 255899,
       "word": "忘崽留奶",
       "onboard_time": 1759476380,
       "rank": 30,
@@ -1644,7 +1652,7 @@
     },
     {
       "raw_hot": 657912,
-      "num": 169722,
+      "num": 212050,
       "word": "许妍又把双眼皮贴哭掉了",
       "onboard_time": 1759469721,
       "rank": 39,
@@ -2364,7 +2372,7 @@
     },
     {
       "raw_hot": 513768,
-      "num": 170839,
+      "num": 246079,
       "word": "王楚钦说出了很多人的心声",
       "onboard_time": 1759475121,
       "rank": 11,
@@ -2547,19 +2555,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 492984,
-      "num": 281366,
-      "word": "张继科说被人一脚踹水里",
-      "onboard_time": 1759479440,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 490772,
       "num": 225438,
       "word": "张檬让父母消毒后抱孩子",
       "onboard_time": 1759220720,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 490467,
+      "num": 254379,
+      "word": "沈佳润英语口语水平",
+      "onboard_time": 1759477460,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -2612,7 +2620,7 @@
     },
     {
       "raw_hot": 480031,
-      "num": 168924,
+      "num": 203617,
       "word": "VaVa说自己分手是因为浪姐",
       "onboard_time": 1759472241,
       "rank": 14,
@@ -2931,14 +2939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 442230,
-      "num": 150436,
-      "word": "沈佳润英语口语水平",
-      "onboard_time": 1759477460,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 441180,
       "num": 256451,
       "word": "胡辣汤协会回应苏醒拉踩河南胡辣汤",
@@ -2977,6 +2977,14 @@
       "onboard_time": 1759153701,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 437690,
+      "num": 252241,
+      "word": "微信式恋爱",
+      "onboard_time": 1759478002,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 435332,
@@ -3403,14 +3411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 372941,
-      "num": 149934,
-      "word": "微信式恋爱",
-      "onboard_time": 1759478002,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 372360,
       "num": 372360,
       "word": "感觉有一亿人在维港看烟花",
@@ -3683,6 +3683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 346933,
+      "num": 249251,
+      "word": "辛芷蕾新发型",
+      "onboard_time": 1759478659,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346679,
       "num": 225446,
       "word": "李在明指挥权志龙开飞机",
@@ -3931,6 +3939,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 315928,
+      "num": 247502,
+      "word": "林诗栋赛后生气了",
+      "onboard_time": 1759478841,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315459,
       "num": 219544,
       "word": "当我瘦了50斤奶奶的反应",
@@ -4092,7 +4108,7 @@
     },
     {
       "raw_hot": 297327,
-      "num": 167906,
+      "num": 206123,
       "word": "白鹿一直用手护着腰",
       "onboard_time": 1759473561,
       "rank": 39,
@@ -4276,7 +4292,7 @@
     },
     {
       "raw_hot": 287729,
-      "num": 165199,
+      "num": 193126,
       "word": "女子32楼家爬满隐翅虫喷了4瓶杀虫剂",
       "onboard_time": 1759472060,
       "rank": 21,
@@ -4324,7 +4340,7 @@
     },
     {
       "raw_hot": 283468,
-      "num": 166784,
+      "num": 190677,
       "word": "成毅的腰怎么了",
       "onboard_time": 1759473380,
       "rank": 38,
@@ -4692,7 +4708,7 @@
     },
     {
       "raw_hot": 250956,
-      "num": 250956,
+      "num": 260679,
       "word": "炒粉老板开门发现百米长队天塌了",
       "onboard_time": 1759472060,
       "rank": 28,
@@ -4729,6 +4745,14 @@
       "onboard_time": 1759111879,
       "rank": 22,
       "category": "美食"
+    },
+    {
+      "raw_hot": 249337,
+      "num": 205481,
+      "word": "庞众望和女友拍领证照了",
+      "onboard_time": 1759479561,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248880,
@@ -4793,6 +4817,14 @@
       "onboard_time": 1759309400,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 244886,
+      "num": 244886,
+      "word": "迪丽热巴真的美成公主了",
+      "onboard_time": 1759475540,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 244766,
@@ -4929,14 +4961,6 @@
       "onboard_time": 1759463300,
       "rank": 35,
       "category": "辟谣/通报,演出"
-    },
-    {
-      "raw_hot": 237740,
-      "num": 164214,
-      "word": "迪丽热巴真的美成公主了",
-      "onboard_time": 1759475540,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 237712,
@@ -5137,14 +5161,6 @@
       "onboard_time": 1759058601,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228576,
-      "num": 123638,
-      "word": "林诗栋赛后生气了",
-      "onboard_time": 1759478841,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 227905,
@@ -5456,14 +5472,6 @@
       "word": "赵丽颖学过钢管舞",
       "onboard_time": 1759156764,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 212985,
-      "num": 147467,
-      "word": "辛芷蕾新发型",
-      "onboard_time": 1759478659,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -6169,14 +6177,6 @@
       "onboard_time": 1759155863,
       "rank": 45,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 193766,
-      "num": 147006,
-      "word": "庞众望和女友拍领证照了",
-      "onboard_time": 1759479561,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193377,
@@ -7491,6 +7491,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 166542,
+      "num": 166542,
+      "word": "王一博罗意威巴黎大秀造型",
+      "onboard_time": 1759480880,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 166507,
       "num": 177269,
       "word": "你跟我说王圣迪长这么大了",
@@ -7625,6 +7633,14 @@
       "onboard_time": 1759385901,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163212,
+      "num": 163212,
+      "word": "王力宏也整上科技与狠活了",
+      "onboard_time": 1759480399,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 163121,
@@ -8257,6 +8273,14 @@
       "onboard_time": 1759126822,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152308,
+      "num": 152308,
+      "word": "女子人肉占车位不让别车停",
+      "onboard_time": 1759477220,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152259,
@@ -9867,14 +9891,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 132384,
-      "num": 132384,
-      "word": "女子人肉占车位不让别车停",
-      "onboard_time": 1759477220,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132336,
       "num": 127442,
       "word": "iG众人回应将面对T1",
@@ -10033,6 +10049,14 @@
       "onboard_time": 1759149981,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 130329,
+      "num": 130329,
+      "word": "高端商场里一只猫卖58888元",
+      "onboard_time": 1759479980,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130302,
@@ -10425,6 +10449,14 @@
       "onboard_time": 1759236142,
       "rank": 34,
       "category": "体育,其它"
+    },
+    {
+      "raw_hot": 127156,
+      "num": 127156,
+      "word": "Doinb自曝ASI约不到训练赛",
+      "onboard_time": 1759480040,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 127130,
@@ -11177,6 +11209,14 @@
       "onboard_time": 1759379422,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119878,
+      "num": 119878,
+      "word": "鹿晗这地板可真地板啊",
+      "onboard_time": 1759477460,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 119828,
@@ -12099,14 +12139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111412,
-      "num": 111412,
-      "word": "鹿晗这地板可真地板啊",
-      "onboard_time": 1759477460,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 111360,
       "num": 111360,
       "word": "徐梦洁 油画少女",
@@ -12643,6 +12675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107445,
+      "num": 107445,
+      "word": "龚俊送非遗扇子",
+      "onboard_time": 1759480761,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107359,
       "num": 107359,
       "word": "王楚钦11比4安宰贤",
@@ -12737,6 +12777,14 @@
       "onboard_time": 1759222642,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 106715,
+      "num": 106715,
+      "word": "新郎嘻嘻弟弟不嘻嘻",
+      "onboard_time": 1759481000,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 106697,
@@ -13025,14 +13073,6 @@
       "onboard_time": 1759126102,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104881,
-      "num": 106116,
-      "word": "Doinb自曝ASI约不到训练赛",
-      "onboard_time": 1759480040,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 104873,
@@ -13699,6 +13739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100057,
+      "num": 100057,
+      "word": "27岁住上了养老院",
+      "onboard_time": 1759481000,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99610,
       "num": 147167,
       "word": "林诗栋晋级中国大满贯8强",
@@ -13945,14 +13993,6 @@
       "onboard_time": 1759400781,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 97551,
-      "num": 97551,
-      "word": "高端商场里一只猫卖58888元",
-      "onboard_time": 1759479980,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97353,
@@ -14473,6 +14513,14 @@
       "onboard_time": 1759418121,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93519,
+      "num": 100245,
+      "word": "年轻人开始对自己的婚礼下手了",
+      "onboard_time": 1759480880,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 93510,
@@ -15609,6 +15657,14 @@
       "onboard_time": 1759227442,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82947,
+      "num": 135815,
+      "word": "赤发鬼太癫了给邓超演爽了吧",
+      "onboard_time": 1759480461,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 82786,
@@ -16905,6 +16961,14 @@
       "onboard_time": 1759281019,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64314,
+      "num": 113211,
+      "word": "不要把鸡排哥榨得太干净了",
+      "onboard_time": 1759481000,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64213,
@@ -18211,6 +18275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 41277,
+      "num": 110709,
+      "word": "早期陈伟霆",
+      "onboard_time": 1759479861,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41002,
       "num": 93445,
       "word": "蜜雪冰城门店被曝多只老鼠横行",
@@ -18699,12 +18771,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30697,
-      "num": 105993,
-      "word": "早期陈伟霆",
-      "onboard_time": 1759479861,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 30750,
+      "num": 148361,
+      "word": "中网票房创历史新高",
+      "onboard_time": 1759479320,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 30091,
@@ -18817,14 +18889,6 @@
       "onboard_time": 1759343356,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 27899,
-      "num": 148361,
-      "word": "中网票房创历史新高",
-      "onboard_time": 1759479320,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 27810,
