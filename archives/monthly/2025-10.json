@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759516475362,
+  "endTime": 1759517237461,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -9547,6 +9547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 57463,
+      "num": 43691,
+      "word": "范丞丞瘦了",
+      "onboard_time": 1759512856,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57171,
       "num": 57171,
       "word": "孙颖莎兼职裁判",
@@ -9665,14 +9673,6 @@
       "onboard_time": 1759275079,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 53773,
-      "num": 43691,
-      "word": "范丞丞瘦了",
-      "onboard_time": 1759512856,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 53759,
@@ -10099,6 +10099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 36082,
+      "num": 36082,
+      "word": "沈皓明 妍妍为什么不接我电话嘞",
+      "onboard_time": 1759515855,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35984,
       "num": 42930,
       "word": "何健麒直播",
@@ -10193,14 +10201,6 @@
       "onboard_time": 1759457058,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32678,
-      "num": 32678,
-      "word": "沈皓明 妍妍为什么不接我电话嘞",
-      "onboard_time": 1759515855,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 32323,
@@ -10451,6 +10451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22666,
+      "num": 24834,
+      "word": "女子演唱会丢失11万手镯发帖找回",
+      "onboard_time": 1759516575,
+      "rank": 40,
+      "category": "民生新闻,演出"
+    },
+    {
       "raw_hot": 21601,
       "num": 106682,
       "word": "深夜遭陌生男子闯入酒店赔700元",
@@ -10497,6 +10505,14 @@
       "onboard_time": 1759270095,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19597,
+      "num": 24830,
+      "word": "陈立农重庆演唱会",
+      "onboard_time": 1759517175,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 19058,
