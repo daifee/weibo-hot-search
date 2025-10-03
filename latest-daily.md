@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/03 00:31:08 ~ 2025/10/03 23:25:20
+本榜单时间：2025/10/03 00:31:08 ~ 2025/10/03 23:38:56
 </p>
 </blockquote>
 <p>
@@ -273,6 +273,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B1%A1%E7%BA%A7%E7%88%86%E5%89%A7%E6%95%91%E6%B4%BB%E4%BA%86%E4%B8%80%E9%A1%B9%E9%9D%9E%E9%81%97%E6%96%87%E5%8C%96%23" target="weibo">
+现象级爆剧救活了一项非遗文化（热度：536624）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E7%BB%8F%E7%BA%AA%E4%BA%BA%E4%BD%A0%E6%98%AF%E7%9C%9F%E7%9A%84%E7%81%AB%E4%BA%86%23" target="weibo">
 娜扎经纪人你是真的火了（热度：536365）
 </a>
@@ -281,6 +287,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E6%91%94%E5%80%92%E4%BA%86%23" target="weibo">
 成毅摔倒了（热度：533700）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%8F%B8%E5%8F%91%E8%A8%80%E4%BA%BA%E5%9B%9E%E5%BA%94%23" target="weibo">
+小米公司发言人回应（热度：533695）
 </a>
 </li>
 
@@ -305,12 +317,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E5%87%BA%E4%BA%86%E5%BE%88%E5%A4%9A%E4%BA%BA%E7%9A%84%E5%BF%83%E5%A3%B0%23" target="weibo">
 王楚钦说出了很多人的心声（热度：513768）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%8F%B8%E5%8F%91%E8%A8%80%E4%BA%BA%E5%9B%9E%E5%BA%94%23" target="weibo">
-小米公司发言人回应（热度：503487）
 </a>
 </li>
 
@@ -353,12 +359,6 @@ VaVa说自己分手是因为浪姐（热度：480031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E6%98%A5%E6%9B%B4%E6%96%B0%E4%B8%A4%E4%B8%AA%E5%84%BF%E5%AD%90%E8%BF%91%E7%85%A7%23" target="weibo">
 陈小春更新两个儿子近照（热度：472237）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B1%A1%E7%BA%A7%E7%88%86%E5%89%A7%E6%95%91%E6%B4%BB%E4%BA%86%E4%B8%80%E9%A1%B9%E9%9D%9E%E9%81%97%E6%96%87%E5%8C%96%23" target="weibo">
-现象级爆剧救活了一项非遗文化（热度：449339）
 </a>
 </li>
 
@@ -477,6 +477,12 @@ VaVa说自己分手是因为浪姐（热度：480031）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%96%B0%E9%83%8E%E5%9C%A8%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E8%B7%B3%E6%B2%B3%23" target="weibo">
+当地回应新郎在结婚当天跳河（热度：336631）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E8%AF%B4%E9%A9%AC%E9%A0%94%E5%93%AA%E5%93%AA%E9%83%BD%E6%98%AF%E5%8A%A0%E5%88%86%E9%A1%B9%23" target="weibo">
 李纯说马頔哪哪都是加分项（热度：336296）
 </a>
@@ -515,6 +521,12 @@ WTT（热度：332672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8D%A1%E5%A3%B3%E5%8D%8A%E5%A4%A9%E8%B9%A6%E5%87%BA%E6%9D%A5%E4%B8%80%E5%8F%A5%E4%BB%96%E8%80%81%E5%A9%86%23" target="weibo">
 王楚钦卡壳半天蹦出来一句他老婆（热度：314255）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E5%85%B3%E6%B3%A8%E9%B8%A1%E6%8E%92%E5%93%A5%23" target="weibo">
+美媒关注鸡排哥（热度：312347）
 </a>
 </li>
 
@@ -675,12 +687,6 @@ F1（热度：275052）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%96%B0%E9%83%8E%E5%9C%A8%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E8%B7%B3%E6%B2%B3%23" target="weibo">
-当地回应新郎在结婚当天跳河（热度：261326）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%90%E5%8A%A8%E4%B8%89%E4%B8%AA%E6%9C%88%E4%B8%8D%E8%83%96%E5%92%8C%E5%A5%BD%E7%98%A6%E7%9A%84%E5%8C%BA%E5%88%AB%23" target="weibo">
 运动三个月不胖和好瘦的区别（热度：259783）
 </a>
@@ -813,6 +819,12 @@ TTG清清（热度：219869）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B8%B8%E5%AE%A2%E5%9B%A0%E6%9C%AA%E8%B4%AD%E7%89%A9%E9%81%AD%E9%9F%A9%E5%9B%BD%E5%AF%BC%E6%B8%B8%E7%8B%82%E9%AA%82%23" target="weibo">
+台湾游客因未购物遭韩国导游狂骂（热度：217422）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 穆祉丞音乐节（热度：217206）
 </a>
@@ -941,12 +953,6 @@ AG战胜RW（热度：199437）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%9F%E6%9C%9F%E4%BA%94%23" target="weibo">
 今天星期五（热度：196866）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B8%B8%E5%AE%A2%E5%9B%A0%E6%9C%AA%E8%B4%AD%E7%89%A9%E9%81%AD%E9%9F%A9%E5%9B%BD%E5%AF%BC%E6%B8%B8%E7%8B%82%E9%AA%82%23" target="weibo">
-台湾游客因未购物遭韩国导游狂骂（热度：196285）
 </a>
 </li>
 
@@ -1095,6 +1101,12 @@ AG战胜RW（热度：199437）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E4%B8%8D%E8%A6%81%E8%80%81%E5%8F%AB%E6%88%91%E5%A6%88%E5%A6%88%23" target="weibo">
+李一桐不要老叫我妈妈（热度：180544）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%86%E5%A6%AE%E4%B8%89%E5%B9%B4%E4%B8%89%E9%83%A8%E5%A4%AE%E5%A6%88%E5%89%A7%23" target="weibo">
 隆妮三年三部央妈剧（热度：180287）
 </a>
@@ -1199,6 +1211,12 @@ AG战胜RW（热度：199437）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%80%97%E9%80%97%E5%A9%9A%E7%A4%BC%23" target="weibo">
 王逗逗婚礼（热度：167349）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%8E%E5%A4%B4%E5%A4%BA%E5%86%A0%E5%90%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E8%B5%9B%E5%89%8D%E6%B2%A1%E6%9C%89%E6%83%B3%E5%88%B0%23" target="weibo">
+莎头夺冠后王楚钦说赛前没有想到（热度：164776）
 </a>
 </li>
 
@@ -1365,12 +1383,6 @@ AG年总三连胜（热度：153985）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E4%B8%8D%E8%A6%81%E8%80%81%E5%8F%AB%E6%88%91%E5%A6%88%E5%A6%88%23" target="weibo">
-李一桐不要老叫我妈妈（热度：142507）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%8A%8A%E7%88%B1%E9%94%99%E5%94%B1%E5%87%BA%E6%96%B0%E9%AB%98%E5%BA%A6%23" target="weibo">
 王力宏单依纯把爱错唱出新高度（热度：142480）
 </a>
@@ -1415,6 +1427,12 @@ Wolves对战MRC（热度：140149）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%9D%90%E7%99%BD%E6%95%AC%E4%BA%AD%E8%85%BF%E4%B8%8A%E6%88%91%E5%9D%90%E4%BB%80%E4%B9%88%23" target="weibo">
 范丞丞坐白敬亭腿上我坐什么（热度：139856）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E8%92%8B%E6%A2%A6%E5%A9%95%E5%AE%9D%E9%BB%9Bcp%E5%90%8C%E6%B8%B8%23" target="weibo">
+杨洋蒋梦婕宝黛cp同游（热度：139784）
 </a>
 </li>
 
@@ -1563,6 +1581,12 @@ Doinb自曝ASI约不到训练赛（热度：127156）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E8%B5%9B%E5%AD%A3%23" target="weibo">
+郑钦文退出中国赛季（热度：125970）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E5%90%8E%E5%8D%8A%E6%AE%B5%E6%88%91%E5%9B%BD%E5%A4%9A%E5%9C%B0%E5%B0%86%E5%8F%97%E5%8F%B0%E9%A3%8E%E5%BD%B1%E5%93%8D%23" target="weibo">
 假期后半段我国多地将受台风影响（热度：125613）
 </a>
@@ -1655,12 +1679,6 @@ ts12（热度：122004）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E6%88%91%E5%A5%BD%E5%83%8F%E7%9C%8B%E8%A7%81%E4%BD%A0%E6%89%81%E6%A1%83%E4%BD%93%E4%BA%86%23" target="weibo">
 张若昀我好像看见你扁桃体了（热度：116744）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E8%B5%9B%E5%AD%A3%23" target="weibo">
-郑钦文退出中国赛季（热度：115646）
 </a>
 </li>
 
@@ -2103,6 +2121,12 @@ TaylorSwift表示暂时没有新的巡演计划（热度：103389）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%83%E6%B0%94%E6%A3%AE%E6%9E%97%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
+元气森林音乐节（热度：94332）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B0%8F%E8%AF%B4%E7%94%B7%E4%B8%BB%E8%BA%AB%E6%9D%90%E6%AF%94%E4%BE%8B%23" target="weibo">
 王俊凯小说男主身材比例（热度：94025）
 </a>
@@ -2205,6 +2229,12 @@ TaylorSwift表示暂时没有新的巡演计划（热度：103389）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9D%90%E5%8D%A7%E9%93%BA%E6%8A%95%E8%AF%89%E5%90%8C%E8%BD%A6%E5%8E%A2%E4%B9%98%E5%AE%A2%E8%84%9A%E8%87%AD%23" target="weibo">
+女子坐卧铺投诉同车厢乘客脚臭（热度：87576）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%BA%E5%A7%90%E4%BC%A0%E6%9D%A5%E7%9A%84%E5%B0%8F%E7%BA%B8%E6%9D%A1%23" target="weibo">
 空姐传来的小纸条（热度：87433）
 </a>
@@ -2301,6 +2331,12 @@ TaylorSwift表示暂时没有新的巡演计划（热度：103389）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8E%8E%E5%A4%B4%E6%8C%89%E4%B8%8B%E5%86%A0%E5%86%9B%E6%89%8B%E6%A8%A1%23" target="weibo">
+莎头按下冠军手模（热度：82508）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%A7%B0%E6%97%A5%E4%B9%92%E5%8F%B9%E6%81%AF%E4%B9%8B%E5%A2%99%23" target="weibo">
 王曼昱回应被称日乒叹息之墙（热度：81926）
 </a>
@@ -2363,6 +2399,12 @@ TaylorSwift表示暂时没有新的巡演计划（热度：103389）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%E7%A8%B3%E7%A8%B3%E5%9C%B0%E5%B8%AE%E5%85%AD%E5%85%AC%E4%B8%BB%E5%AE%8C%E7%BE%8E%E6%95%91%E5%9C%BA%23" target="weibo">
 于适稳稳地帮六公主完美救场（热度：75406）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%8B%BF%E6%8A%98%E6%89%87%E8%A2%AB%E8%AF%AF%E4%BC%9A%E6%8C%81%E5%88%80%E7%94%B7%E5%AD%90%E5%86%8D%E5%8F%91%E5%A3%B0%23" target="weibo">
+手拿折扇被误会持刀男子再发声（热度：74560）
 </a>
 </li>
 
@@ -2447,12 +2489,6 @@ TaylorSwift表示暂时没有新的巡演计划（热度：103389）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%90%91%E7%BE%8E%E6%96%B9%E6%98%8E%E7%A1%AE%E6%8F%90%E5%87%BA%E5%9B%9B%E4%B8%8D%23" target="weibo">
 中方向美方明确提出四不（热度：67636）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%8B%BF%E6%8A%98%E6%89%87%E8%A2%AB%E8%AF%AF%E4%BC%9A%E6%8C%81%E5%88%80%E7%94%B7%E5%AD%90%E5%86%8D%E5%8F%91%E5%A3%B0%23" target="weibo">
-手拿折扇被误会持刀男子再发声（热度：67450）
 </a>
 </li>
 
@@ -2567,6 +2603,12 @@ TaylorSwift表示暂时没有新的巡演计划（热度：103389）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%85%B5%E5%86%99%E8%AF%B7%E6%88%98%E4%B9%A6%E9%A9%BE%E9%A9%B6%E6%AD%BC16%23" target="weibo">
 女兵写请战书驾驶歼16（热度：59915）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%95%B4%E6%99%9A%E7%9A%84%E9%9F%B3%E4%B9%90%E7%BA%AF%E4%BA%AB%E7%89%88%23" target="weibo">
+肖战整晚的音乐纯享版（热度：59152）
 </a>
 </li>
 
@@ -2691,12 +2733,6 @@ TaylorSwift表示暂时没有新的巡演计划（热度：103389）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E5%85%B3%E6%B3%A8%E9%B8%A1%E6%8E%92%E5%93%A5%23" target="weibo">
-美媒关注鸡排哥（热度：41284）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%9C%9F%E9%99%88%E4%BC%9F%E9%9C%86%23" target="weibo">
 早期陈伟霆（热度：41277）
 </a>
@@ -2711,12 +2747,6 @@ TaylorSwift表示暂时没有新的巡演计划（热度：103389）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E5%9B%BD%E9%99%85%E8%AE%A4%E5%8F%AF%E5%BA%A6%23" target="weibo">
 蔡徐坤国际认可度（热度：40268）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%95%B4%E6%99%9A%E7%9A%84%E9%9F%B3%E4%B9%90%E7%BA%AF%E4%BA%AB%E7%89%88%23" target="weibo">
-肖战整晚的音乐纯享版（热度：40204）
 </a>
 </li>
 

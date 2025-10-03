@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759505120547,
+  "endTime": 1759505936309,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -2387,6 +2387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 536624,
+      "num": 234246,
+      "word": "现象级爆剧救活了一项非遗文化",
+      "onboard_time": 1759498523,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 536365,
       "num": 294464,
       "word": "娜扎经纪人你是真的火了",
@@ -2417,6 +2425,14 @@
       "onboard_time": 1759485259,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 533695,
+      "num": 533695,
+      "word": "小米公司发言人回应",
+      "onboard_time": 1759502424,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 533151,
@@ -2577,14 +2593,6 @@
       "onboard_time": 1759055600,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 503487,
-      "num": 503487,
-      "word": "小米公司发言人回应",
-      "onboard_time": 1759502424,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 503134,
@@ -3081,14 +3089,6 @@
       "onboard_time": 1759204822,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 449339,
-      "num": 234246,
-      "word": "现象级爆剧救活了一项非遗文化",
-      "onboard_time": 1759498523,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 449072,
@@ -4027,6 +4027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 336631,
+      "num": 233595,
+      "word": "当地回应新郎在结婚当天跳河",
+      "onboard_time": 1759502182,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 336498,
       "num": 336498,
       "word": "国庆提前出发的大聪明已堵路上",
@@ -4233,6 +4241,14 @@
       "onboard_time": 1759464920,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 312347,
+      "num": 312347,
+      "word": "美媒关注鸡排哥",
+      "onboard_time": 1759504402,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 311990,
@@ -4961,14 +4977,6 @@
       "onboard_time": 1759070605,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 261326,
-      "num": 233595,
-      "word": "当地回应新郎在结婚当天跳河",
-      "onboard_time": 1759502182,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 260994,
@@ -5827,6 +5835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217422,
+      "num": 234772,
+      "word": "台湾游客因未购物遭韩国导游狂骂",
+      "onboard_time": 1759500923,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 217206,
       "num": 217206,
       "word": "穆祉丞音乐节",
@@ -6489,14 +6505,6 @@
       "onboard_time": 1759361537,
       "rank": 27,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 196285,
-      "num": 234772,
-      "word": "台湾游客因未购物遭韩国导游狂骂",
-      "onboard_time": 1759500923,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 196263,
@@ -7403,6 +7411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180544,
+      "num": 180544,
+      "word": "李一桐不要老叫我妈妈",
+      "onboard_time": 1759504762,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180487,
       "num": 180487,
       "word": "一笑随歌热度",
@@ -8305,6 +8321,14 @@
       "onboard_time": 1759068384,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 164776,
+      "num": 136305,
+      "word": "莎头夺冠后王楚钦说赛前没有想到",
+      "onboard_time": 1759505900,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 163954,
@@ -9811,14 +9835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142507,
-      "num": 142507,
-      "word": "李一桐不要老叫我妈妈",
-      "onboard_time": 1759504762,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142480,
       "num": 141051,
       "word": "王力宏单依纯把爱错唱出新高度",
@@ -10081,6 +10097,14 @@
       "onboard_time": 1759379721,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139784,
+      "num": 139784,
+      "word": "杨洋蒋梦婕宝黛cp同游",
+      "onboard_time": 1759505122,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 139782,
@@ -11531,6 +11555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125970,
+      "num": 125970,
+      "word": "郑钦文退出中国赛季",
+      "onboard_time": 1759504701,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125935,
       "num": 125935,
       "word": "外国人被中国超市震惊",
@@ -12657,14 +12689,6 @@
       "onboard_time": 1759023261,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115646,
-      "num": 115646,
-      "word": "郑钦文退出中国赛季",
-      "onboard_time": 1759504701,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 115537,
@@ -15587,6 +15611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94332,
+      "num": 94332,
+      "word": "元气森林音乐节",
+      "onboard_time": 1759505541,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 94293,
       "num": 94293,
       "word": "官员买500斤白酒放单位公务接待",
@@ -16331,6 +16363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87576,
+      "num": 87576,
+      "word": "女子坐卧铺投诉同车厢乘客脚臭",
+      "onboard_time": 1759505600,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87545,
       "num": 93973,
       "word": "男子自驾21小时称下次乖乖坐高铁",
@@ -16969,6 +17009,14 @@
       "onboard_time": 1759104801,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82508,
+      "num": 82508,
+      "word": "莎头按下冠军手模",
+      "onboard_time": 1759505180,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 82488,
@@ -17651,6 +17699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74560,
+      "num": 117720,
+      "word": "手拿折扇被误会持刀男子再发声",
+      "onboard_time": 1759504882,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74441,
       "num": 675090,
       "word": "国庆升旗高清大图",
@@ -18080,14 +18136,6 @@
       "word": "一条微博祝福祖国",
       "onboard_time": 1759274118,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67450,
-      "num": 117720,
-      "word": "手拿折扇被误会持刀男子再发声",
-      "onboard_time": 1759504882,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -18633,6 +18681,14 @@
       "onboard_time": 1759101079,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 59152,
+      "num": 115924,
+      "word": "肖战整晚的音乐纯享版",
+      "onboard_time": 1759504522,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 59010,
@@ -19627,14 +19683,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 41284,
-      "num": 233273,
-      "word": "美媒关注鸡排哥",
-      "onboard_time": 1759504402,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 41277,
       "num": 110709,
       "word": "早期陈伟霆",
@@ -19681,14 +19729,6 @@
       "onboard_time": 1759447338,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 40204,
-      "num": 115924,
-      "word": "肖战整晚的音乐纯享版",
-      "onboard_time": 1759504522,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 40026,

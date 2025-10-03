@@ -1,0 +1,410 @@
+{
+  "runTime": 1759505936309,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 858048,
+        "num": 1137287,
+        "word": "肯德基保密54年的炸鸡配方将被公开",
+        "onboard_time": 1759494261,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533695,
+        "num": 533695,
+        "word": "小米公司发言人回应",
+        "onboard_time": 1759502424,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 38,
+        "num": 464276,
+        "word": "月满中秋共迎盛会",
+        "onboard_time": 1759501582,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460948,
+        "num": 460948,
+        "word": "731毒气实验室玩具已下架",
+        "onboard_time": 1759496541,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 312347,
+        "num": 312347,
+        "word": "美媒关注鸡排哥",
+        "onboard_time": 1759504402,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 308881,
+        "num": 308881,
+        "word": "王楚钦孙颖莎混双冠军",
+        "onboard_time": 1759498822,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306581,
+        "num": 306581,
+        "word": "孙颖莎王楚钦谈8年成长",
+        "onboard_time": 1759502182,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261492,
+        "num": 261492,
+        "word": "F1",
+        "onboard_time": 1759500743,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217422,
+        "num": 217422,
+        "word": "台湾游客因未购物遭韩国导游狂骂",
+        "onboard_time": 1759500923,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 184903,
+        "num": 184903,
+        "word": "威廉王子说3个孩子都没有配手机",
+        "onboard_time": 1759487242,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 699525,
+        "num": 184474,
+        "word": "黄磊首次回应未熟豆角食物中毒争议",
+        "onboard_time": 1759485860,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 536624,
+        "num": 184255,
+        "word": "现象级爆剧救活了一项非遗文化",
+        "onboard_time": 1759498523,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458738,
+        "num": 183933,
+        "word": "李纯马頔不是一时好是真的一直好",
+        "onboard_time": 1759499662,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380212,
+        "num": 183198,
+        "word": "董璇说男人分手很快会找到下一个",
+        "onboard_time": 1759496902,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336631,
+        "num": 182951,
+        "word": "当地回应新郎在结婚当天跳河",
+        "onboard_time": 1759502182,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326462,
+        "num": 182073,
+        "word": "树莓 摄哥",
+        "onboard_time": 1759487900,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 326000,
+        "num": 181907,
+        "word": "关晓彤说独自相处要拥抱变化",
+        "onboard_time": 1759496961,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251563,
+        "num": 181159,
+        "word": "娜扎经纪人你是真的火了",
+        "onboard_time": 1759489400,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225299,
+        "num": 180684,
+        "word": "许我耀眼热度",
+        "onboard_time": 1759494742,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180544,
+        "num": 180544,
+        "word": "李一桐不要老叫我妈妈",
+        "onboard_time": 1759504762,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210395,
+        "num": 176349,
+        "word": "微信转账后记得加一个动作",
+        "onboard_time": 1759495400,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182744,
+        "num": 176225,
+        "word": "女子订婚前帮闺蜜染发手被染成蓝色",
+        "onboard_time": 1759499543,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169948,
+        "num": 169948,
+        "word": "张维伊看不了董璇这段",
+        "onboard_time": 1759496541,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168314,
+        "num": 168314,
+        "word": "肖战射雕英雄传实时收视率破2",
+        "onboard_time": 1759502902,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162455,
+        "num": 162455,
+        "word": "蔡徐坤支持毕正明的证明",
+        "onboard_time": 1759503981,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159992,
+        "num": 159992,
+        "word": "养脖子半年像换了一个人",
+        "onboard_time": 1759493901,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158683,
+        "num": 158683,
+        "word": "许我耀眼21集预告笑得我发抖",
+        "onboard_time": 1759489282,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139784,
+        "num": 139784,
+        "word": "杨洋蒋梦婕宝黛cp同游",
+        "onboard_time": 1759505122,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141724,
+        "num": 139220,
+        "word": "AAA建材沈总离婚之我要当榜一大哥",
+        "onboard_time": 1759500862,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133664,
+        "num": 136723,
+        "word": "美驻华使领馆官号宣布停更",
+        "onboard_time": 1759496541,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164776,
+        "num": 136305,
+        "word": "莎头夺冠后王楚钦说赛前没有想到",
+        "onboard_time": 1759505900,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135788,
+        "num": 135788,
+        "word": "王力宏单依纯把爱错唱出新高度",
+        "onboard_time": 1759502542,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134007,
+        "num": 134007,
+        "word": "庞众望回应女友发布结婚登记照",
+        "onboard_time": 1759483460,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125970,
+        "num": 125970,
+        "word": "郑钦文退出中国赛季",
+        "onboard_time": 1759504701,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124407,
+        "num": 124407,
+        "word": "陈震下午5点左右还在更博",
+        "onboard_time": 1759502003,
+        "rank": 34,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 122690,
+        "num": 122690,
+        "word": "下馆子后特别渴的原因",
+        "onboard_time": 1759501762,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117130,
+        "num": 117130,
+        "word": "周传雄上海站嘉宾是女儿",
+        "onboard_time": 1759501882,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117122,
+        "num": 117122,
+        "word": "孙颖莎王楚钦开心合影",
+        "onboard_time": 1759503563,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114974,
+        "num": 114974,
+        "word": "周翊然哭了",
+        "onboard_time": 1759499483,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74560,
+        "num": 105395,
+        "word": "手拿折扇被误会持刀男子再发声",
+        "onboard_time": 1759504882,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100368,
+        "num": 100368,
+        "word": "普京称某国准备进行核试验",
+        "onboard_time": 1759491442,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99891,
+        "num": 99891,
+        "word": "特朗普对哈马斯下最后通牒",
+        "onboard_time": 1759503203,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97014,
+        "num": 97014,
+        "word": "王力宏演唱会嘉宾单依纯",
+        "onboard_time": 1759500862,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59152,
+        "num": 96017,
+        "word": "肖战整晚的音乐纯享版",
+        "onboard_time": 1759504522,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95828,
+        "num": 95828,
+        "word": "成毅摔倒了",
+        "onboard_time": 1759485259,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95120,
+        "num": 95120,
+        "word": "女子减肥打针后身体烂57个洞",
+        "onboard_time": 1759494322,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94332,
+        "num": 94332,
+        "word": "元气森林音乐节",
+        "onboard_time": 1759505541,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87576,
+        "num": 87576,
+        "word": "女子坐卧铺投诉同车厢乘客脚臭",
+        "onboard_time": 1759505600,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85471,
+        "num": 85471,
+        "word": "印度学者妄言中国被现场打脸",
+        "onboard_time": 1759499421,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82508,
+        "num": 82508,
+        "word": "莎头按下冠军手模",
+        "onboard_time": 1759505180,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺卢森堡大公纪尧姆即位#"
+    }
+  }
+}
