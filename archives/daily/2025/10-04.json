@@ -1,6 +1,6 @@
 {
   "startTime": 1759509046450,
-  "endTime": 1759520221742,
+  "endTime": 1759523258072,
   "band_list": [
     {
       "raw_hot": 603069,
@@ -459,6 +459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 21954,
+      "num": 21954,
+      "word": "老板还没意识到这是他最清闲的时刻",
+      "onboard_time": 1759519274,
+      "rank": 42,
+      "category": "民生新闻,幽默"
+    },
+    {
       "raw_hot": 19597,
       "num": 24830,
       "word": "陈立农重庆演唱会",
@@ -467,12 +475,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16845,
-      "num": 21802,
-      "word": "老板还没意识到这是他最清闲的时刻",
-      "onboard_time": 1759519274,
-      "rank": 42,
-      "category": "民生新闻,幽默"
+      "raw_hot": 15328,
+      "num": 17984,
+      "word": "九三阅兵擎旗手的应变能力绝了",
+      "onboard_time": 1759520653,
+      "rank": 43,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
