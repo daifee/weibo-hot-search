@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759509871837,
+  "endTime": 1759512097754,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -1971,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 603069,
+      "num": 603069,
+      "word": "顾客为合影将鸡排哥堵在墙角",
+      "onboard_time": 1759506859,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 602661,
       "num": 602661,
       "word": "月饼名字是把配料表抄上去了吧",
@@ -3283,6 +3291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 427604,
+      "num": 427604,
+      "word": "著名景点张继科落水处",
+      "onboard_time": 1759505961,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 424656,
       "num": 375412,
       "word": "赛琳娜婚礼",
@@ -3945,14 +3961,6 @@
       "onboard_time": 1759298181,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 349589,
-      "num": 349589,
-      "word": "顾客为合影将鸡排哥堵在墙角",
-      "onboard_time": 1759506859,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 349579,
@@ -12883,14 +12891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 114122,
-      "num": 114122,
-      "word": "著名景点张继科落水处",
-      "onboard_time": 1759505961,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 114015,
       "num": 114015,
       "word": "陈哲远真不拿我当外人",
@@ -16025,6 +16025,14 @@
       "onboard_time": 1759400420,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91413,
+      "num": 77145,
+      "word": "王一博丽芙泰勒同框合照",
+      "onboard_time": 1759509738,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 91194,
@@ -19619,6 +19627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43778,
+      "num": 58836,
+      "word": "没想到我会收到阅兵观礼请柬",
+      "onboard_time": 1759509919,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43727,
       "num": 46412,
       "word": "王楚钦在哪儿都是打卡点",
@@ -19817,14 +19833,6 @@
       "onboard_time": 1759486041,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39892,
-      "num": 65683,
-      "word": "王一博丽芙泰勒同框合照",
-      "onboard_time": 1759509738,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 39550,
@@ -20065,6 +20073,14 @@
       "onboard_time": 1759293560,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 35984,
+      "num": 38612,
+      "word": "何健麒直播",
+      "onboard_time": 1759511897,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 35862,

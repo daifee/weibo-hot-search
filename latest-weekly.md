@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/09/28 00:27:59 ~ 2025/10/04 00:44:31
+本榜单时间：2025/09/28 00:27:59 ~ 2025/10/04 01:21:37
 </p>
 </blockquote>
 <p>
@@ -1491,6 +1491,12 @@ K签证会让外国人抢走我们的饭碗吗（热度：792823）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B8%BA%E5%90%88%E5%BD%B1%E5%B0%86%E9%B8%A1%E6%8E%92%E5%93%A5%E5%A0%B5%E5%9C%A8%E5%A2%99%E8%A7%92%23" target="weibo">
+顾客为合影将鸡排哥堵在墙角（热度：603069）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%A5%BC%E5%90%8D%E5%AD%97%E6%98%AF%E6%8A%8A%E9%85%8D%E6%96%99%E8%A1%A8%E6%8A%84%E4%B8%8A%E5%8E%BB%E4%BA%86%E5%90%A7%23" target="weibo">
 月饼名字是把配料表抄上去了吧（热度：602661）
 </a>
@@ -2475,6 +2481,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%97%E5%90%8D%E6%99%AF%E7%82%B9%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%90%BD%E6%B0%B4%E5%A4%84%23" target="weibo">
+著名景点张继科落水处（热度：427604）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%9B%E7%90%B3%E5%A8%9C%E5%A9%9A%E7%A4%BC%23" target="weibo">
 赛琳娜婚礼（热度：424656）
 </a>
@@ -2969,12 +2981,6 @@ LV首尔开餐厅3只牛肉饺子243元（热度：370395）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E6%93%85%E8%87%AA%E7%A6%BB%E7%BB%84%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E9%81%93%E6%AD%89%23" target="weibo">
 19岁擅自离组短剧男主道歉（热度：350234）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B8%BA%E5%90%88%E5%BD%B1%E5%B0%86%E9%B8%A1%E6%8E%92%E5%93%A5%E5%A0%B5%E5%9C%A8%E5%A2%99%E8%A7%92%23" target="weibo">
-顾客为合影将鸡排哥堵在墙角（热度：349589）
 </a>
 </li>
 
@@ -9675,12 +9681,6 @@ A股午后突变（热度：114180）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%97%E5%90%8D%E6%99%AF%E7%82%B9%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%90%BD%E6%B0%B4%E5%A4%84%23" target="weibo">
-著名景点张继科落水处（热度：114122）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E7%9C%9F%E4%B8%8D%E6%8B%BF%E6%88%91%E5%BD%93%E5%A4%96%E4%BA%BA%23" target="weibo">
 陈哲远真不拿我当外人（热度：114015）
 </a>
@@ -12029,6 +12029,12 @@ CNN拍的美国将军大会（热度：93967）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%8A%9D%E9%98%BB%E6%97%A0%E6%95%88%E6%AF%8D%E4%BA%B2%E5%A4%A7%E9%97%B9%E8%B5%9B%E5%9C%BA%E8%A2%AB%E6%8A%AC%E7%A6%BB%23" target="weibo">
 男孩劝阻无效母亲大闹赛场被抬离（热度：91429）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%B8%BD%E8%8A%99%E6%B3%B0%E5%8B%92%E5%90%8C%E6%A1%86%E5%90%88%E7%85%A7%23" target="weibo">
+王一博丽芙泰勒同框合照（热度：91413）
 </a>
 </li>
 
@@ -14727,6 +14733,12 @@ Dior秀场已经nextlevel了（热度：54319）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E6%88%91%E4%BC%9A%E6%94%B6%E5%88%B0%E9%98%85%E5%85%B5%E8%A7%82%E7%A4%BC%E8%AF%B7%E6%9F%AC%23" target="weibo">
+没想到我会收到阅兵观礼请柬（热度：43778）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9C%A8%E5%93%AA%E5%84%BF%E9%83%BD%E6%98%AF%E6%89%93%E5%8D%A1%E7%82%B9%23" target="weibo">
 王楚钦在哪儿都是打卡点（热度：43727）
 </a>
@@ -14873,12 +14885,6 @@ Dior秀场已经nextlevel了（热度：54319）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%8E%A5%E5%BE%85%E4%BA%B2%E5%8F%8B%20AA%E5%88%B6%23" target="weibo">
 国庆接待亲友 AA制（热度：40026）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%B8%BD%E8%8A%99%E6%B3%B0%E5%8B%92%E5%90%8C%E6%A1%86%E5%90%88%E7%85%A7%23" target="weibo">
-王一博丽芙泰勒同框合照（热度：39892）
 </a>
 </li>
 
@@ -15059,6 +15065,12 @@ Jonathan开启Dior新时代（热度：36304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%BA%E6%9D%80%E5%B0%8F%E8%AF%B4%E5%AE%B62%E5%8F%8C%E5%90%91%E7%A9%BF%E8%B6%8A%E5%8F%8C%E5%90%91%E6%95%91%E8%B5%8E%23" target="weibo">
 刺杀小说家2双向穿越双向救赎（热度：36293）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%81%A5%E9%BA%92%E7%9B%B4%E6%92%AD%23" target="weibo">
+何健麒直播（热度：35984）
 </a>
 </li>
 

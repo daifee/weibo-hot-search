@@ -1,7 +1,15 @@
 {
   "startTime": 1759509046450,
-  "endTime": 1759509871837,
+  "endTime": 1759512097754,
   "band_list": [
+    {
+      "raw_hot": 603069,
+      "num": 603069,
+      "word": "顾客为合影将鸡排哥堵在墙角",
+      "onboard_time": 1759506859,
+      "rank": 3,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 556452,
       "num": 854657,
@@ -35,20 +43,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 427604,
+      "num": 427604,
+      "word": "著名景点张继科落水处",
+      "onboard_time": 1759505961,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 404200,
       "num": 248732,
       "word": "美媒关注鸡排哥",
       "onboard_time": 1759504402,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 349589,
-      "num": 349589,
-      "word": "顾客为合影将鸡排哥堵在墙角",
-      "onboard_time": 1759506859,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 333380,
@@ -195,14 +203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 114122,
-      "num": 114122,
-      "word": "著名景点张继科落水处",
-      "onboard_time": 1759505961,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110075,
       "num": 110075,
       "word": "许我耀眼21集预告笑得我发抖",
@@ -249,6 +249,14 @@
       "onboard_time": 1759507880,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 91413,
+      "num": 77145,
+      "word": "王一博丽芙泰勒同框合照",
+      "onboard_time": 1759509738,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 90195,
@@ -403,11 +411,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 39892,
-      "num": 65683,
-      "word": "王一博丽芙泰勒同框合照",
-      "onboard_time": 1759509738,
-      "rank": 39,
+      "raw_hot": 43778,
+      "num": 58836,
+      "word": "没想到我会收到阅兵观礼请柬",
+      "onboard_time": 1759509919,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35984,
+      "num": 38612,
+      "word": "何健麒直播",
+      "onboard_time": 1759511897,
+      "rank": 44,
       "category": "艺人"
     }
   ],

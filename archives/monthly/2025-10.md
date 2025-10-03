@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/04 00:44:31
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/04 01:21:37
 </p>
 </blockquote>
 <p>
@@ -699,6 +699,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B8%BA%E5%90%88%E5%BD%B1%E5%B0%86%E9%B8%A1%E6%8E%92%E5%93%A5%E5%A0%B5%E5%9C%A8%E5%A2%99%E8%A7%92%23" target="weibo">
+顾客为合影将鸡排哥堵在墙角（热度：603069）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E9%A6%99%E7%8E%89%E5%AE%98%E5%AE%A3%E4%B8%8A%E6%81%8B%E7%BB%BC%23" target="weibo">
 唐香玉官宣上恋综（热度：597428）
 </a>
@@ -1101,6 +1107,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%97%E5%90%8D%E6%99%AF%E7%82%B9%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%90%BD%E6%B0%B4%E5%A4%84%23" target="weibo">
+著名景点张继科落水处（热度：427604）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%B1%8D%E7%94%B7%E5%AD%90%E5%9C%A8%E8%A7%A3%E6%94%BE%E5%86%9B%E8%88%B0%E9%98%9F%E9%99%84%E8%BF%91%E6%94%BE%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AB%E6%8D%95%23" target="weibo">
 美籍男子在解放军舰队附近放无人机被捕（热度：421083）
 </a>
@@ -1355,12 +1367,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E6%93%85%E8%87%AA%E7%A6%BB%E7%BB%84%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E9%81%93%E6%AD%89%23" target="weibo">
 19岁擅自离组短剧男主道歉（热度：350234）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B8%BA%E5%90%88%E5%BD%B1%E5%B0%86%E9%B8%A1%E6%8E%92%E5%93%A5%E5%A0%B5%E5%9C%A8%E5%A2%99%E8%A7%92%23" target="weibo">
-顾客为合影将鸡排哥堵在墙角（热度：349589）
 </a>
 </li>
 
@@ -4605,12 +4611,6 @@ ts12（热度：122004）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%97%E5%90%8D%E6%99%AF%E7%82%B9%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%90%BD%E6%B0%B4%E5%A4%84%23" target="weibo">
-著名景点张继科落水处（热度：114122）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E7%9C%9F%E4%B8%8D%E6%8B%BF%E6%88%91%E5%BD%93%E5%A4%96%E4%BA%BA%23" target="weibo">
 陈哲远真不拿我当外人（热度：114015）
 </a>
@@ -5865,6 +5865,12 @@ CNN拍的美国将军大会（热度：93967）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%B8%BD%E8%8A%99%E6%B3%B0%E5%8B%92%E5%90%8C%E6%A1%86%E5%90%88%E7%85%A7%23" target="weibo">
+王一博丽芙泰勒同框合照（热度：91413）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%B8%B4%E5%9C%BA%E5%BA%94%E5%8F%98%E8%83%BD%E5%8A%9B%23" target="weibo">
 迪丽热巴临场应变能力（热度：91103）
 </a>
@@ -6005,12 +6011,6 @@ CNN拍的美国将军大会（热度：93967）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85%E5%86%8D%E5%BA%A6%E9%AB%98%E5%BC%80%23" target="weibo">
 中芯国际再度高开（热度：87725）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9D%90%E5%8D%A7%E9%93%BA%E6%8A%95%E8%AF%89%E5%90%8C%E8%BD%A6%E5%8E%A2%E4%B9%98%E5%AE%A2%E8%84%9A%E8%87%AD%23" target="weibo">
-女子坐卧铺投诉同车厢乘客脚臭（热度：87576）
 </a>
 </li>
 
