@@ -1,0 +1,410 @@
+{
+  "runTime": 1759499000880,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1747726,
+        "num": 1747726,
+        "word": "肯德基保密54年的炸鸡配方将被公开",
+        "onboard_time": 1759494261,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 662524,
+        "num": 662524,
+        "word": "肯德基总部未回应公开炸鸡配方",
+        "onboard_time": 1759493841,
+        "rank": 1,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 34781,
+        "num": 528723,
+        "word": "十四五万千气象看四川",
+        "onboard_time": 1759481660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 521944,
+        "num": 521944,
+        "word": "威廉王子说3个孩子都没有配手机",
+        "onboard_time": 1759487242,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 474857,
+        "num": 474857,
+        "word": "王楚钦孙颖莎vs黄友政陈熠",
+        "onboard_time": 1759490663,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 472404,
+        "num": 472404,
+        "word": "731毒气实验室玩具已下架",
+        "onboard_time": 1759496541,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 380916,
+        "num": 380916,
+        "word": "混双",
+        "onboard_time": 1759497322,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265136,
+        "num": 265136,
+        "word": "普京称某国准备进行核试验",
+        "onboard_time": 1759491442,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 253873,
+        "num": 253873,
+        "word": "庞众望回应女友发布结婚登记照",
+        "onboard_time": 1759483460,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173385,
+        "num": 252853,
+        "word": "美驻华使领馆官号宣布停更",
+        "onboard_time": 1759496541,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97065,
+        "num": 252224,
+        "word": "王曼昱晋级中国大满贯4强",
+        "onboard_time": 1759497741,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 921303,
+        "num": 250864,
+        "word": "黄磊首次回应未熟豆角食物中毒争议",
+        "onboard_time": 1759485860,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 594805,
+        "num": 250390,
+        "word": "张维伊看不了董璇这段",
+        "onboard_time": 1759496541,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 457511,
+        "num": 248530,
+        "word": "娜扎经纪人你是真的火了",
+        "onboard_time": 1759489400,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428881,
+        "num": 247786,
+        "word": "许我耀眼21集预告笑得我发抖",
+        "onboard_time": 1759489282,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325288,
+        "num": 246784,
+        "word": "男子被误认持刀遭踹倒后交给民警",
+        "onboard_time": 1759492340,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412996,
+        "num": 245641,
+        "word": "许我耀眼热度",
+        "onboard_time": 1759494742,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277913,
+        "num": 244093,
+        "word": "董璇说男人分手很快会找到下一个",
+        "onboard_time": 1759496902,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75587,
+        "num": 243756,
+        "word": "假期理解鸿蒙为什么真香了",
+        "onboard_time": 1759494981,
+        "rank": 18,
+        "category": "数码,旅游"
+      },
+      {
+        "raw_hot": 65806,
+        "num": 242027,
+        "word": "海口实施六停",
+        "onboard_time": 1759498703,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 272291,
+        "num": 241839,
+        "word": "关晓彤说独自相处要拥抱变化",
+        "onboard_time": 1759496961,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298604,
+        "num": 239974,
+        "word": "微信转账后记得加一个动作",
+        "onboard_time": 1759495400,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263385,
+        "num": 239353,
+        "word": "树莓 摄哥",
+        "onboard_time": 1759487900,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 238616,
+        "num": 238616,
+        "word": "苏醒爆料张远喜欢同一款女生",
+        "onboard_time": 1759490181,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238550,
+        "num": 238550,
+        "word": "成毅摔倒了",
+        "onboard_time": 1759485259,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221446,
+        "num": 221446,
+        "word": "宋佳钟楚曦巴黎逛街",
+        "onboard_time": 1759494081,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212302,
+        "num": 212302,
+        "word": "王楚钦孙颖莎混双冠军",
+        "onboard_time": 1759498822,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206958,
+        "num": 206958,
+        "word": "马柏全摔倒",
+        "onboard_time": 1759494981,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192045,
+        "num": 192045,
+        "word": "养脖子半年像换了一个人",
+        "onboard_time": 1759493901,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157572,
+        "num": 184588,
+        "word": "美籍男子在解放军舰队附近放无人机被捕",
+        "onboard_time": 1759488981,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 685671,
+        "num": 184553,
+        "word": "交警回应陈震劳斯莱斯事故",
+        "onboard_time": 1759494379,
+        "rank": 30,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 183094,
+        "num": 183094,
+        "word": "张凌赫张淼怡归鸾",
+        "onboard_time": 1759494443,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181340,
+        "num": 181340,
+        "word": "王楚钦孙颖莎备战好专注",
+        "onboard_time": 1759496301,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180287,
+        "num": 180287,
+        "word": "隆妮三年三部央妈剧",
+        "onboard_time": 1759497981,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170565,
+        "num": 170565,
+        "word": "女子减肥打针后身体烂57个洞",
+        "onboard_time": 1759494322,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166576,
+        "num": 166576,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1759491261,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170309,
+        "num": 163803,
+        "word": "陈震的劳斯莱斯闪灵是二手车",
+        "onboard_time": 1759497621,
+        "rank": 36,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 32827,
+        "num": 161115,
+        "word": "广西贵港郁江河段明显涨水",
+        "onboard_time": 1759498822,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66134,
+        "num": 156116,
+        "word": "园方回应东北虎二埋汰脏出新高度",
+        "onboard_time": 1759498822,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66577,
+        "num": 150284,
+        "word": "金靖搞笑女人设被换了吗",
+        "onboard_time": 1759498341,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167442,
+        "num": 145140,
+        "word": "何超莲穿搭不用显贵",
+        "onboard_time": 1759496180,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143648,
+        "num": 143648,
+        "word": "穆祉丞音乐节",
+        "onboard_time": 1759494261,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141101,
+        "num": 141101,
+        "word": "现象级爆剧救活了一项非遗文化",
+        "onboard_time": 1759498523,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137394,
+        "num": 137394,
+        "word": "刘轩丞首套高定",
+        "onboard_time": 1759497921,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 136551,
+        "num": 136551,
+        "word": "TTG清清",
+        "onboard_time": 1759494621,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20604,
+        "num": 135274,
+        "word": "4日广西一地预计洪峰超警戒6米多",
+        "onboard_time": 1759497621,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 134351,
+        "num": 134351,
+        "word": "王曼昱11比3张本美和",
+        "onboard_time": 1759498281,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131081,
+        "num": 131081,
+        "word": "当事人回应手拿折扇被误认持刀",
+        "onboard_time": 1759489162,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130109,
+        "num": 130109,
+        "word": "曝风林火山导演让替身真上吊",
+        "onboard_time": 1759493061,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127313,
+        "num": 127313,
+        "word": "许我耀眼",
+        "onboard_time": 1759488981,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同新加坡总统互致贺电#"
+    }
+  }
+}
