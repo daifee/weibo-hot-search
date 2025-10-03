@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759490478297,
+  "endTime": 1759491403059,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3298153,
-      "num": 3298153,
+      "raw_hot": 4315994,
+      "num": 4315994,
       "word": "陈震劳斯莱斯发生车祸",
       "onboard_time": 1759488742,
       "rank": 0,
@@ -987,6 +987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 536034,
+      "num": 267069,
+      "word": "许我耀眼21集预告笑得我发抖",
+      "onboard_time": 1759489282,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 535788,
       "num": 226227,
       "word": "张泽禹 舌钉",
@@ -1163,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 478192,
+      "num": 262922,
+      "word": "普京口误",
+      "onboard_time": 1759488742,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 477643,
       "num": 226477,
       "word": "许我耀眼云合31.7%",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1759411101,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 436430,
+      "num": 436430,
+      "word": "威廉王子说3个孩子都没有配手机",
+      "onboard_time": 1759487242,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 434111,
@@ -1355,14 +1379,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 404963,
-      "num": 267069,
-      "word": "许我耀眼21集预告笑得我发抖",
-      "onboard_time": 1759489282,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 396129,
       "num": 253591,
       "word": "你叫王影璐 你又叫李昀锐",
@@ -1403,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 390055,
+      "num": 264292,
+      "word": "树莓 摄哥",
+      "onboard_time": 1759487900,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 389578,
       "num": 150172,
       "word": "罗予彤哭着求黄灿灿分手",
@@ -1435,28 +1459,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 378474,
-      "num": 264292,
-      "word": "树莓 摄哥",
-      "onboard_time": 1759487900,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 378133,
       "num": 247502,
       "word": "林诗栋赛后生气了",
       "onboard_time": 1759478841,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 377574,
-      "num": 262922,
-      "word": "普京口误",
-      "onboard_time": 1759488742,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 377485,
@@ -1547,6 +1555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365553,
+      "num": 248628,
+      "word": "娜扎经纪人你是真的火了",
+      "onboard_time": 1759489400,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365186,
       "num": 365186,
       "word": "鸡排哥周边摊主发声",
@@ -1577,14 +1593,6 @@
       "onboard_time": 1759274417,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 358406,
-      "num": 358406,
-      "word": "威廉王子说3个孩子都没有配手机",
-      "onboard_time": 1759487242,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 356347,
@@ -1737,6 +1745,14 @@
       "onboard_time": 1759316301,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 320284,
+      "num": 320284,
+      "word": "美籍男子在解放军舰队附近放无人机被捕",
+      "onboard_time": 1759488981,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 318956,
@@ -1960,6 +1976,14 @@
       "word": "许魏洲被cpf贴脸",
       "onboard_time": 1759414462,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 284540,
+      "num": 203737,
+      "word": "许我耀眼18",
+      "onboard_time": 1759489400,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -2251,14 +2275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248628,
-      "num": 248628,
-      "word": "娜扎经纪人你是真的火了",
-      "onboard_time": 1759489400,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248371,
       "num": 224455,
       "word": "陈伟霆我二十来岁就跟着你了",
@@ -2459,6 +2475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231314,
+      "num": 283348,
+      "word": "当事人回应手拿折扇被误认持刀",
+      "onboard_time": 1759489162,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230849,
       "num": 230849,
       "word": "孙颖莎vs王晓彤",
@@ -2505,14 +2529,6 @@
       "onboard_time": 1759314440,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225620,
-      "num": 289333,
-      "word": "美籍男子在解放军舰队附近放无人机被捕",
-      "onboard_time": 1759488981,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 225327,
@@ -2571,6 +2587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219475,
+      "num": 192113,
+      "word": "17岁女孩通宵熬夜致双肺全白",
+      "onboard_time": 1759485681,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 218550,
       "num": 198290,
       "word": "马頔指导李纯停车",
@@ -2609,14 +2633,6 @@
       "onboard_time": 1759291340,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214552,
-      "num": 192113,
-      "word": "17岁女孩通宵熬夜致双肺全白",
-      "onboard_time": 1759485681,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 214147,
@@ -2779,14 +2795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203737,
-      "num": 203737,
-      "word": "许我耀眼18",
-      "onboard_time": 1759489400,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 203454,
       "num": 203454,
       "word": "时代少年团纪录片",
@@ -2939,6 +2947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197097,
+      "num": 192921,
+      "word": "苏醒爆料张远喜欢同一款女生",
+      "onboard_time": 1759490181,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197088,
       "num": 197088,
       "word": "那英现身LadyGaga演唱会",
@@ -2979,6 +2995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196224,
+      "num": 191843,
+      "word": "时代少年团版再见爱人",
+      "onboard_time": 1759490722,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196004,
       "num": 196004,
       "word": "小蘑菇",
@@ -3001,6 +3025,14 @@
       "onboard_time": 1759403241,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 195301,
+      "num": 195301,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1759491261,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 194620,
@@ -3057,6 +3089,14 @@
       "onboard_time": 1759448238,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191793,
+      "num": 191793,
+      "word": "谁家男主出场三集就说十句",
+      "onboard_time": 1759491321,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 191463,
@@ -3323,6 +3363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175694,
+      "num": 175694,
+      "word": "陈哲远新剧海外第一",
+      "onboard_time": 1759490362,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175379,
       "num": 175379,
       "word": "爱奇艺10月待播剧综",
@@ -3332,7 +3380,7 @@
     },
     {
       "raw_hot": 175318,
-      "num": 143801,
+      "num": 162188,
       "word": "王一博惠英红陈都灵秀场造型",
       "onboard_time": 1759488081,
       "rank": 45,
@@ -3627,14 +3675,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 163803,
-      "num": 283348,
-      "word": "当事人回应手拿折扇被误认持刀",
-      "onboard_time": 1759489162,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163680,
       "num": 151511,
       "word": "田曦薇护食",
@@ -3691,20 +3731,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160681,
+      "num": 277260,
+      "word": "清清赛后发博回应转辅",
+      "onboard_time": 1759487601,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160598,
       "num": 160598,
       "word": "台湾拒绝美国芯片制造五五分要求",
       "onboard_time": 1759359737,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 160245,
-      "num": 277260,
-      "word": "清清赛后发博回应转辅",
-      "onboard_time": 1759487601,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 159548,
@@ -3800,6 +3840,14 @@
       "word": "王曼昱蒯曼速胜晋级决赛",
       "onboard_time": 1759470441,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155694,
+      "num": 155694,
+      "word": "王皓儿子看王楚钦训练",
+      "onboard_time": 1759490300,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -4299,6 +4347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140149,
+      "num": 140149,
+      "word": "Wolves对战MRC",
+      "onboard_time": 1759490663,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140105,
       "num": 140105,
       "word": "王楚钦回应连续一日三赛",
@@ -4347,6 +4403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139460,
+      "num": 178886,
+      "word": "9招教你十一假期美美出片",
+      "onboard_time": 1759490181,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139405,
       "num": 139405,
       "word": "皮蛋是外国人最讨厌食物第二名",
@@ -4369,6 +4433,14 @@
       "onboard_time": 1759245561,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138526,
+      "num": 138526,
+      "word": "陈幸同4比2朱雨玲",
+      "onboard_time": 1759491081,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 138438,
@@ -4481,14 +4553,6 @@
       "onboard_time": 1759322481,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135571,
-      "num": 135571,
-      "word": "王皓儿子看王楚钦训练",
-      "onboard_time": 1759490300,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 135329,
@@ -4817,6 +4881,14 @@
       "onboard_time": 1759479620,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128137,
+      "num": 128137,
+      "word": "酒果然是最快的交通工具",
+      "onboard_time": 1759488322,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 128005,
@@ -5443,14 +5515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113503,
-      "num": 113503,
-      "word": "酒果然是最快的交通工具",
-      "onboard_time": 1759488322,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 113386,
       "num": 113386,
       "word": "女子假期外出3C充电宝在家自爆",
@@ -5691,14 +5755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109831,
-      "num": 178886,
-      "word": "9招教你十一假期美美出片",
-      "onboard_time": 1759490181,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109570,
       "num": 109570,
       "word": "孙颖莎说大头做得非常好",
@@ -5721,6 +5777,14 @@
       "onboard_time": 1759453218,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109301,
+      "num": 109301,
+      "word": "猫咪都看不下去躺一天的主人了",
+      "onboard_time": 1759488022,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 109250,
@@ -5881,6 +5945,14 @@
       "onboard_time": 1759480761,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107389,
+      "num": 107389,
+      "word": "普京强调最近访华的重要意义",
+      "onboard_time": 1759487601,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107359,
@@ -6547,14 +6619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97459,
-      "num": 97459,
-      "word": "普京强调最近访华的重要意义",
-      "onboard_time": 1759487601,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 97317,
       "num": 97317,
       "word": "杨羚蔚瞒着父母参加offer7",
@@ -6667,6 +6731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95957,
+      "num": 95957,
+      "word": "假期后半段我国多地将受台风影响",
+      "onboard_time": 1759491023,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 95918,
       "num": 181904,
       "word": "谁教檀健次粉丝这样宣传的",
@@ -6745,6 +6817,14 @@
       "onboard_time": 1759476979,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94573,
+      "num": 94573,
+      "word": "王楚钦孙颖莎vs黄友政陈熠",
+      "onboard_time": 1759490663,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 94544,
@@ -6971,14 +7051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91437,
-      "num": 91437,
-      "word": "陈哲远新剧海外第一",
-      "onboard_time": 1759490362,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91429,
       "num": 146823,
       "word": "男孩劝阻无效母亲大闹赛场被抬离",
@@ -7009,6 +7081,14 @@
       "onboard_time": 1759304242,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90635,
+      "num": 90635,
+      "word": "伊能静说刘亦菲是真正大女主",
+      "onboard_time": 1759491321,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 90487,
@@ -8867,14 +8947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47131,
-      "num": 110932,
-      "word": "苏醒爆料张远喜欢同一款女生",
-      "onboard_time": 1759490181,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 47017,
       "num": 43701,
       "word": "谁家短剧一次集齐五张权威脸",
@@ -9379,6 +9451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26599,
+      "num": 613179,
+      "word": "十四五万千气象看四川",
+      "onboard_time": 1759481660,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26300,
       "num": 30045,
       "word": "王源新歌唱出家国情怀",
@@ -9457,14 +9537,6 @@
       "onboard_time": 1759438273,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 22797,
-      "num": 508676,
-      "word": "十四五万千气象看四川",
-      "onboard_time": 1759481660,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21601,

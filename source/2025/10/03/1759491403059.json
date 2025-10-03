@@ -1,0 +1,410 @@
+{
+  "runTime": 1759491403059,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4315994,
+        "num": 4315994,
+        "word": "陈震劳斯莱斯发生车祸",
+        "onboard_time": 1759488742,
+        "rank": 0,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 1124106,
+        "num": 1124106,
+        "word": "陈震闪灵",
+        "onboard_time": 1759487242,
+        "rank": 1,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 26599,
+        "num": 613179,
+        "word": "十四五万千气象看四川",
+        "onboard_time": 1759481660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 436430,
+        "num": 436430,
+        "word": "威廉王子说3个孩子都没有配手机",
+        "onboard_time": 1759487242,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 410086,
+        "num": 410086,
+        "word": "庞众望回应女友发布结婚登记照",
+        "onboard_time": 1759483460,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320284,
+        "num": 320284,
+        "word": "美籍男子在解放军舰队附近放无人机被捕",
+        "onboard_time": 1759488981,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231314,
+        "num": 231314,
+        "word": "当事人回应手拿折扇被误认持刀",
+        "onboard_time": 1759489162,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230648,
+        "num": 230648,
+        "word": "久哲谈清清转辅",
+        "onboard_time": 1759485259,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195301,
+        "num": 195301,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1759491261,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160681,
+        "num": 195281,
+        "word": "清清赛后发博回应转辅",
+        "onboard_time": 1759487601,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1094586,
+        "num": 194989,
+        "word": "黄磊首次回应未熟豆角食物中毒争议",
+        "onboard_time": 1759485860,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 536034,
+        "num": 194739,
+        "word": "许我耀眼21集预告笑得我发抖",
+        "onboard_time": 1759489282,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 478192,
+        "num": 194547,
+        "word": "普京口误",
+        "onboard_time": 1759488742,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 411360,
+        "num": 194164,
+        "word": "成毅摔倒了",
+        "onboard_time": 1759485259,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390055,
+        "num": 194008,
+        "word": "树莓 摄哥",
+        "onboard_time": 1759487900,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 365553,
+        "num": 193754,
+        "word": "娜扎经纪人你是真的火了",
+        "onboard_time": 1759489400,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338814,
+        "num": 193559,
+        "word": "许我耀眼",
+        "onboard_time": 1759488981,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256906,
+        "num": 193238,
+        "word": "陈小春更新两个儿子近照",
+        "onboard_time": 1759484600,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284540,
+        "num": 193028,
+        "word": "许我耀眼18",
+        "onboard_time": 1759489400,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197097,
+        "num": 192921,
+        "word": "苏醒爆料张远喜欢同一款女生",
+        "onboard_time": 1759490181,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339454,
+        "num": 192590,
+        "word": "梨形瘦22斤的杀伤力",
+        "onboard_time": 1759482441,
+        "rank": 20,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 260840,
+        "num": 192297,
+        "word": "霉霉开撕查理",
+        "onboard_time": 1759485621,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219475,
+        "num": 192046,
+        "word": "17岁女孩通宵熬夜致双肺全白",
+        "onboard_time": 1759485681,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196224,
+        "num": 191843,
+        "word": "时代少年团版再见爱人",
+        "onboard_time": 1759490722,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191793,
+        "num": 191793,
+        "word": "谁家男主出场三集就说十句",
+        "onboard_time": 1759491321,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 191416,
+        "num": 191416,
+        "word": "伯远",
+        "onboard_time": 1759484840,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175694,
+        "num": 175694,
+        "word": "陈哲远新剧海外第一",
+        "onboard_time": 1759490362,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124674,
+        "num": 164278,
+        "word": "陈幸同vs朱雨玲",
+        "onboard_time": 1759487900,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162188,
+        "num": 162188,
+        "word": "王一博惠英红陈都灵秀场造型",
+        "onboard_time": 1759488081,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139460,
+        "num": 160250,
+        "word": "9招教你十一假期美美出片",
+        "onboard_time": 1759490181,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159885,
+        "num": 159885,
+        "word": "景德镇文旅证实鸡排哥计划8日休息",
+        "onboard_time": 1759482800,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155694,
+        "num": 155694,
+        "word": "王皓儿子看王楚钦训练",
+        "onboard_time": 1759490300,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140149,
+        "num": 140149,
+        "word": "Wolves对战MRC",
+        "onboard_time": 1759490663,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138526,
+        "num": 138526,
+        "word": "陈幸同4比2朱雨玲",
+        "onboard_time": 1759491081,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128137,
+        "num": 128137,
+        "word": "酒果然是最快的交通工具",
+        "onboard_time": 1759488322,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126503,
+        "num": 126503,
+        "word": "微信式恋爱",
+        "onboard_time": 1759478002,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125827,
+        "num": 125827,
+        "word": "迪丽热巴真的美成公主了",
+        "onboard_time": 1759475540,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118643,
+        "num": 118643,
+        "word": "阿那亚偶遇杨洋了",
+        "onboard_time": 1759484901,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115167,
+        "num": 115167,
+        "word": "王逗逗婚礼",
+        "onboard_time": 1759484961,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 113670,
+        "num": 113670,
+        "word": "能不能禁止日本人画中华风",
+        "onboard_time": 1759481120,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 109301,
+        "num": 109301,
+        "word": "猫咪都看不下去躺一天的主人了",
+        "onboard_time": 1759488022,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107389,
+        "num": 107389,
+        "word": "普京强调最近访华的重要意义",
+        "onboard_time": 1759487601,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103532,
+        "num": 103532,
+        "word": "鸡排哥称还没赚到1个亿",
+        "onboard_time": 1759475001,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102568,
+        "num": 102568,
+        "word": "外媒拍的王一博看秀视频",
+        "onboard_time": 1759489222,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 101852,
+        "num": 101852,
+        "word": "忘崽留奶",
+        "onboard_time": 1759476380,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96458,
+        "num": 96458,
+        "word": "林诗栋赛后生气了",
+        "onboard_time": 1759478841,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95957,
+        "num": 95957,
+        "word": "假期后半段我国多地将受台风影响",
+        "onboard_time": 1759491023,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 94573,
+        "num": 94573,
+        "word": "王楚钦孙颖莎vs黄友政陈熠",
+        "onboard_time": 1759490663,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90635,
+        "num": 90635,
+        "word": "伊能静说刘亦菲是真正大女主",
+        "onboard_time": 1759491321,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90069,
+        "num": 90069,
+        "word": "95花还能大洗牌吗",
+        "onboard_time": 1759482201,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同新加坡总统互致贺电#"
+    }
+  }
+}
