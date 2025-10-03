@@ -1,0 +1,402 @@
+{
+  "runTime": 1759527400302,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 118124,
+        "num": 178899,
+        "word": "著名景点张继科落水处",
+        "onboard_time": 1759505961,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63088,
+        "num": 63088,
+        "word": "肯德基保密54年的炸鸡配方将被公开",
+        "onboard_time": 1759494261,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66079,
+        "num": 47789,
+        "word": "夫妻国庆开两架飞机带女儿回老家",
+        "onboard_time": 1759508540,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47043,
+        "num": 47043,
+        "word": "36岁每天运动1小时体态的变化",
+        "onboard_time": 1759507220,
+        "rank": 4,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 45797,
+        "num": 45797,
+        "word": "顾客为合影将鸡排哥堵在墙角",
+        "onboard_time": 1759506859,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42550,
+        "num": 42550,
+        "word": "普京称某国准备进行核试验",
+        "onboard_time": 1759491442,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36297,
+        "num": 36297,
+        "word": "王楚钦孙颖莎混双冠军",
+        "onboard_time": 1759498822,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35984,
+        "num": 35984,
+        "word": "731毒气实验室玩具已下架",
+        "onboard_time": 1759496541,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 21853,
+        "num": 35945,
+        "word": "美驻华使领馆官号宣布停更",
+        "onboard_time": 1759496541,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106186,
+        "num": 35926,
+        "word": "当地回应新郎在结婚当天跳河",
+        "onboard_time": 1759502182,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76667,
+        "num": 35874,
+        "word": "黄磊首次回应未熟豆角食物中毒争议",
+        "onboard_time": 1759485860,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52276,
+        "num": 35805,
+        "word": "董璇说男人分手很快会找到下一个",
+        "onboard_time": 1759496902,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46815,
+        "num": 35783,
+        "word": "沈皓明 妍妍为什么不接我电话嘞",
+        "onboard_time": 1759515855,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35756,
+        "num": 35756,
+        "word": "下馆子后特别渴的原因",
+        "onboard_time": 1759501762,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43783,
+        "num": 34818,
+        "word": "现象级爆剧救活了一项非遗文化",
+        "onboard_time": 1759498523,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38839,
+        "num": 33461,
+        "word": "娜扎经纪人你是真的火了",
+        "onboard_time": 1759489400,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36563,
+        "num": 30979,
+        "word": "王一博丽芙泰勒同框合照",
+        "onboard_time": 1759509738,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28205,
+        "num": 28205,
+        "word": "小米公司发言人回应",
+        "onboard_time": 1759502424,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 25170,
+        "num": 25170,
+        "word": "65岁惠英红G社生图",
+        "onboard_time": 1759506680,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 28513,
+        "num": 24748,
+        "word": "微信转账后记得加一个动作",
+        "onboard_time": 1759495400,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27549,
+        "num": 24741,
+        "word": "女子演唱会丢失11万手镯发帖找回",
+        "onboard_time": 1759516575,
+        "rank": 21,
+        "category": "民生新闻,演出"
+      },
+      {
+        "raw_hot": 24077,
+        "num": 24077,
+        "word": "台湾游客因未购物遭韩国导游狂骂",
+        "onboard_time": 1759500923,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23108,
+        "num": 23108,
+        "word": "安康一新郎在结婚当天跳河",
+        "onboard_time": 1759507160,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22725,
+        "num": 22725,
+        "word": "女子订婚前帮闺蜜染发手被染成蓝色",
+        "onboard_time": 1759499543,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22694,
+        "num": 22694,
+        "word": "李纯马頔不是一时好是真的一直好",
+        "onboard_time": 1759499662,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20974,
+        "num": 20974,
+        "word": "王一博演我i人社交",
+        "onboard_time": 1759509499,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19978,
+        "num": 19978,
+        "word": "范丞丞瘦了",
+        "onboard_time": 1759512856,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19585,
+        "num": 19585,
+        "word": "易瘦体质都是怎样无意识养成的",
+        "onboard_time": 1759507880,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 18120,
+        "num": 18120,
+        "word": "没想到我会收到阅兵观礼请柬",
+        "onboard_time": 1759509919,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18483,
+        "num": 18102,
+        "word": "肖战射雕英雄传实时收视率破2",
+        "onboard_time": 1759502902,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18081,
+        "num": 18081,
+        "word": "杨洋蒋梦婕宝黛cp同游",
+        "onboard_time": 1759505122,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18033,
+        "num": 18033,
+        "word": "张维伊看不了董璇这段",
+        "onboard_time": 1759496541,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16945,
+        "num": 16945,
+        "word": "AAA建材沈总离婚之我要当榜一大哥",
+        "onboard_time": 1759500862,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16824,
+        "num": 16824,
+        "word": "印度学者妄言中国被现场打脸",
+        "onboard_time": 1759499421,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16476,
+        "num": 16476,
+        "word": "女子减肥打针后身体烂57个洞",
+        "onboard_time": 1759494322,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16217,
+        "num": 16217,
+        "word": "老板还没意识到这是他最清闲的时刻",
+        "onboard_time": 1759519274,
+        "rank": 36,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 16142,
+        "num": 16142,
+        "word": "威廉王子说3个孩子都没有配手机",
+        "onboard_time": 1759487242,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15665,
+        "num": 15665,
+        "word": "养脖子半年像换了一个人",
+        "onboard_time": 1759493901,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15503,
+        "num": 15503,
+        "word": "莎头夺冠后王楚钦说赛前没有想到",
+        "onboard_time": 1759505900,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14936,
+        "num": 14936,
+        "word": "九三阅兵擎旗手的应变能力绝了",
+        "onboard_time": 1759520653,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14737,
+        "num": 14737,
+        "word": "关晓彤说独自相处要拥抱变化",
+        "onboard_time": 1759496961,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14716,
+        "num": 14716,
+        "word": "陈震下午5点左右还在更博",
+        "onboard_time": 1759502003,
+        "rank": 42,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 14533,
+        "num": 14716,
+        "word": "普京称相信俄方核盾牌能力",
+        "onboard_time": 1759524014,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14199,
+        "num": 14715,
+        "word": "美媒关注鸡排哥",
+        "onboard_time": 1759504402,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 13556,
+        "num": 14714,
+        "word": "F1",
+        "onboard_time": 1759500743,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13189,
+        "num": 14714,
+        "word": "蔡徐坤支持毕正明的证明",
+        "onboard_time": 1759503981,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12820,
+        "num": 14713,
+        "word": "许我耀眼热度",
+        "onboard_time": 1759494742,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12311,
+        "num": 14711,
+        "word": "李一桐不要老叫我妈妈",
+        "onboard_time": 1759504762,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11322,
+        "num": 14711,
+        "word": "王嘉尔世界巡演首站泰国开演",
+        "onboard_time": 1759508061,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平曾以这句诗自勉#"
+    }
+  }
+}
