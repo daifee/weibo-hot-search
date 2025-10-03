@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759499000880,
+  "endTime": 1759501443559,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -185,6 +185,14 @@
       "onboard_time": 1759323742,
       "rank": 20,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 1322678,
+      "num": 1322678,
+      "word": "王楚钦孙颖莎混双冠军",
+      "onboard_time": 1759498822,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 1322444,
@@ -659,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 713938,
+      "num": 713938,
+      "word": "731毒气实验室玩具已下架",
+      "onboard_time": 1759496541,
+      "rank": 5,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 709468,
       "num": 748400,
       "word": "陈泽",
@@ -1027,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546622,
+      "num": 244093,
+      "word": "董璇说男人分手很快会找到下一个",
+      "onboard_time": 1759496902,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 544108,
       "num": 223283,
       "word": "男子灌面汤呛死妻子案再次延期审理",
@@ -1195,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 494663,
+      "num": 241839,
+      "word": "关晓彤说独自相处要拥抱变化",
+      "onboard_time": 1759496961,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 490467,
       "num": 254379,
       "word": "沈佳润英语口语水平",
@@ -1265,14 +1297,6 @@
       "onboard_time": 1759490663,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 472404,
-      "num": 472404,
-      "word": "731毒气实验室玩具已下架",
-      "onboard_time": 1759496541,
-      "rank": 5,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 472237,
@@ -1811,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332672,
+      "num": 332672,
+      "word": "WTT",
+      "onboard_time": 1759411461,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330738,
       "num": 330738,
       "word": "高度近视眼一定要防止视网膜脱落",
@@ -2003,14 +2035,6 @@
       "category": "游戏,电影"
     },
     {
-      "raw_hot": 296165,
-      "num": 244093,
-      "word": "董璇说男人分手很快会找到下一个",
-      "onboard_time": 1759496902,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 294425,
       "num": 294425,
       "word": "当事人回应手拿折扇被误认持刀",
@@ -2195,14 +2219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 272291,
-      "num": 241839,
-      "word": "关晓彤说独自相处要拥抱变化",
-      "onboard_time": 1759496961,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 270941,
       "num": 270941,
       "word": "台湾是中国领土一部分",
@@ -2259,6 +2275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267685,
+      "num": 267685,
+      "word": "王楚钦孙颖莎大满贯混双第5冠",
+      "onboard_time": 1759499662,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266828,
       "num": 240339,
       "word": "在中国居住了5年的印度女子",
@@ -2273,6 +2297,14 @@
       "onboard_time": 1759334000,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263751,
+      "num": 208793,
+      "word": "李纯马頔不是一时好是真的一直好",
+      "onboard_time": 1759499662,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 263552,
@@ -2691,6 +2723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 222070,
+      "num": 252853,
+      "word": "美驻华使领馆官号宣布停更",
+      "onboard_time": 1759496541,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 221948,
       "num": 221948,
       "word": "周也dior看秀造型",
@@ -2835,14 +2875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212302,
-      "num": 212302,
-      "word": "王楚钦孙颖莎混双冠军",
-      "onboard_time": 1759498822,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 212278,
       "num": 212278,
       "word": "王乐晨卢远回应",
@@ -2865,6 +2897,14 @@
       "onboard_time": 1759386380,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208463,
+      "num": 208463,
+      "word": "独属于王楚钦孙颖莎的出场动画",
+      "onboard_time": 1759500382,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 207812,
@@ -2963,14 +3003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 204103,
-      "num": 204103,
-      "word": "WTT",
-      "onboard_time": 1759411461,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203454,
       "num": 203454,
       "word": "时代少年团纪录片",
@@ -3027,6 +3059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200690,
+      "num": 200690,
+      "word": "现象级爆剧救活了一项非遗文化",
+      "onboard_time": 1759498523,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200410,
       "num": 157162,
       "word": "孙颖莎说找到配合最好时的感觉",
@@ -3065,6 +3105,14 @@
       "onboard_time": 1759398380,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199437,
+      "num": 199437,
+      "word": "AG战胜RW",
+      "onboard_time": 1759500262,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 199375,
@@ -3153,6 +3201,14 @@
       "onboard_time": 1759361537,
       "rank": 27,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 196517,
+      "num": 181966,
+      "word": "孙颖莎王楚钦中国大满贯捧杯",
+      "onboard_time": 1759501282,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 196263,
@@ -3259,6 +3315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192619,
+      "num": 192619,
+      "word": "孙颖莎王楚钦混双夺冠感言",
+      "onboard_time": 1759499962,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192063,
       "num": 150422,
       "word": "一晚上偶遇三次鹿晗",
@@ -3331,12 +3395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188550,
-      "num": 252853,
-      "word": "美驻华使领馆官号宣布停更",
-      "onboard_time": 1759496541,
-      "rank": 8,
-      "category": "国际时政"
+      "raw_hot": 187577,
+      "num": 187577,
+      "word": "王力宏演唱会嘉宾单依纯",
+      "onboard_time": 1759500862,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 187352,
@@ -3523,6 +3587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180081,
+      "num": 180081,
+      "word": "胡先煦王彦霖现场为陈立农庆生",
+      "onboard_time": 1759500563,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 179675,
       "num": 179675,
       "word": "赵晴又有新剧了",
@@ -3705,6 +3777,14 @@
       "onboard_time": 1759495101,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 169621,
+      "num": 169621,
+      "word": "F1",
+      "onboard_time": 1759500743,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 169365,
@@ -3979,6 +4059,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 161203,
+      "num": 161203,
+      "word": "女子订婚前帮闺蜜染发手被染成蓝色",
+      "onboard_time": 1759499543,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161102,
       "num": 161102,
       "word": "林高远梁靖崑",
@@ -4147,12 +4235,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154444,
+      "num": 154444,
+      "word": "周翊然哭了",
+      "onboard_time": 1759499483,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 154080,
       "num": 154080,
       "word": "王曼昱4比0张本美和",
       "onboard_time": 1759496721,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153985,
+      "num": 153985,
+      "word": "AG年总三连胜",
+      "onboard_time": 1759501222,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 153792,
@@ -4587,14 +4691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141101,
-      "num": 141101,
-      "word": "现象级爆剧救活了一项非遗文化",
-      "onboard_time": 1759498523,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141062,
       "num": 141062,
       "word": "中华人民共和国成立76周年",
@@ -4641,6 +4737,14 @@
       "onboard_time": 1759404442,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 140472,
+      "num": 140472,
+      "word": "AAA建材沈总离婚之我要当榜一大哥",
+      "onboard_time": 1759500862,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 140428,
@@ -5171,6 +5275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129270,
+      "num": 182766,
+      "word": "印度学者妄言中国被现场打脸",
+      "onboard_time": 1759499421,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 129157,
       "num": 129157,
       "word": "古偶吻戏已升级为咬戏",
@@ -5225,6 +5337,14 @@
       "onboard_time": 1759368379,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127566,
+      "num": 127566,
+      "word": "王力宏穿了深圳校服",
+      "onboard_time": 1759501044,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 127561,
@@ -5683,6 +5803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117269,
+      "num": 242027,
+      "word": "海口实施六停",
+      "onboard_time": 1759498703,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 116930,
       "num": 389670,
       "word": "新中国成立76周年",
@@ -5736,6 +5864,14 @@
       "word": "刘端端跨界的权威性我后知后觉",
       "onboard_time": 1759331662,
       "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 115992,
+      "num": 115992,
+      "word": "陈立农唱了薛之谦的歌",
+      "onboard_time": 1759501403,
+      "rank": 46,
       "category": "演出"
     },
     {
@@ -6089,6 +6225,14 @@
       "onboard_time": 1759392921,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109938,
+      "num": 109938,
+      "word": "彭昱畅闫妮 微醺的妈妈和我",
+      "onboard_time": 1759501403,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 109923,
@@ -7467,6 +7611,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 90330,
+      "num": 192969,
+      "word": "广西贵港树木已被水淹没过半",
+      "onboard_time": 1759499902,
+      "rank": 25,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 90287,
       "num": 90287,
       "word": "迪丽热巴邓文迪合影",
@@ -8803,14 +8955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65806,
-      "num": 242027,
-      "word": "海口实施六停",
-      "onboard_time": 1759498703,
-      "rank": 19,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 65790,
       "num": 105109,
       "word": "迪丽热巴拍照后迷路",
@@ -9620,7 +9764,7 @@
     },
     {
       "raw_hot": 35862,
-      "num": 613179,
+      "num": 844889,
       "word": "十四五万千气象看四川",
       "onboard_time": 1759481660,
       "rank": 2,
@@ -9769,6 +9913,14 @@
       "onboard_time": 1759479320,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30570,
+      "num": 208676,
+      "word": "技能安慕希要爆了",
+      "onboard_time": 1759500321,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 29644,

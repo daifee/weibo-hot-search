@@ -1,0 +1,410 @@
+{
+  "runTime": 1759501443559,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1322678,
+        "num": 1322678,
+        "word": "王楚钦孙颖莎混双冠军",
+        "onboard_time": 1759498822,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1135413,
+        "num": 1135413,
+        "word": "肯德基保密54年的炸鸡配方将被公开",
+        "onboard_time": 1759494261,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32737,
+        "num": 844889,
+        "word": "十四五万千气象看四川",
+        "onboard_time": 1759481660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 713938,
+        "num": 713938,
+        "word": "731毒气实验室玩具已下架",
+        "onboard_time": 1759496541,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 333402,
+        "num": 333402,
+        "word": "肯德基总部未回应公开炸鸡配方",
+        "onboard_time": 1759493841,
+        "rank": 4,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 332672,
+        "num": 332672,
+        "word": "WTT",
+        "onboard_time": 1759499362,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267685,
+        "num": 267685,
+        "word": "王楚钦孙颖莎大满贯混双第5冠",
+        "onboard_time": 1759499662,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252116,
+        "num": 252116,
+        "word": "威廉王子说3个孩子都没有配手机",
+        "onboard_time": 1759487242,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 222070,
+        "num": 222070,
+        "word": "美驻华使领馆官号宣布停更",
+        "onboard_time": 1759496541,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209738,
+        "num": 209738,
+        "word": "混双",
+        "onboard_time": 1759497322,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 802003,
+        "num": 209655,
+        "word": "黄磊首次回应未熟豆角食物中毒争议",
+        "onboard_time": 1759485860,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 546622,
+        "num": 209583,
+        "word": "董璇说男人分手很快会找到下一个",
+        "onboard_time": 1759496902,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 494663,
+        "num": 209460,
+        "word": "关晓彤说独自相处要拥抱变化",
+        "onboard_time": 1759496961,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354561,
+        "num": 209381,
+        "word": "许我耀眼热度",
+        "onboard_time": 1759494742,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328404,
+        "num": 209189,
+        "word": "娜扎经纪人你是真的火了",
+        "onboard_time": 1759489400,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281672,
+        "num": 209132,
+        "word": "许我耀眼21集预告笑得我发抖",
+        "onboard_time": 1759489282,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 526413,
+        "num": 208928,
+        "word": "张维伊看不了董璇这段",
+        "onboard_time": 1759496541,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271927,
+        "num": 208899,
+        "word": "树莓 摄哥",
+        "onboard_time": 1759487900,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 263751,
+        "num": 208793,
+        "word": "李纯马頔不是一时好是真的一直好",
+        "onboard_time": 1759499662,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30570,
+        "num": 208676,
+        "word": "技能安慕希要爆了",
+        "onboard_time": 1759500321,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260753,
+        "num": 208510,
+        "word": "微信转账后记得加一个动作",
+        "onboard_time": 1759495400,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208463,
+        "num": 208463,
+        "word": "独属于王楚钦孙颖莎的出场动画",
+        "onboard_time": 1759500382,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200690,
+        "num": 200690,
+        "word": "现象级爆剧救活了一项非遗文化",
+        "onboard_time": 1759498523,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199437,
+        "num": 199437,
+        "word": "AG战胜RW",
+        "onboard_time": 1759500262,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198711,
+        "num": 198711,
+        "word": "养脖子半年像换了一个人",
+        "onboard_time": 1759493901,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90330,
+        "num": 192969,
+        "word": "广西贵港树木已被水淹没过半",
+        "onboard_time": 1759499902,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 192619,
+        "num": 192619,
+        "word": "孙颖莎王楚钦混双夺冠感言",
+        "onboard_time": 1759499962,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187577,
+        "num": 187577,
+        "word": "王力宏演唱会嘉宾单依纯",
+        "onboard_time": 1759500862,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185715,
+        "num": 185715,
+        "word": "男子被误认持刀遭踹倒后交给民警",
+        "onboard_time": 1759492340,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129270,
+        "num": 182766,
+        "word": "印度学者妄言中国被现场打脸",
+        "onboard_time": 1759499421,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 196517,
+        "num": 181966,
+        "word": "孙颖莎王楚钦中国大满贯捧杯",
+        "onboard_time": 1759501282,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180081,
+        "num": 180081,
+        "word": "胡先煦王彦霖现场为陈立农庆生",
+        "onboard_time": 1759500563,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173800,
+        "num": 173800,
+        "word": "普京称某国准备进行核试验",
+        "onboard_time": 1759491442,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173347,
+        "num": 173347,
+        "word": "庞众望回应女友发布结婚登记照",
+        "onboard_time": 1759483460,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169621,
+        "num": 169621,
+        "word": "F1",
+        "onboard_time": 1759500743,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161203,
+        "num": 161203,
+        "word": "女子订婚前帮闺蜜染发手被染成蓝色",
+        "onboard_time": 1759499543,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158155,
+        "num": 158155,
+        "word": "成毅摔倒了",
+        "onboard_time": 1759485259,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157292,
+        "num": 157292,
+        "word": "王楚钦孙颖莎vs黄友政陈熠",
+        "onboard_time": 1759490663,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154444,
+        "num": 154444,
+        "word": "周翊然哭了",
+        "onboard_time": 1759499483,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153985,
+        "num": 153985,
+        "word": "AG年总三连胜",
+        "onboard_time": 1759501222,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142407,
+        "num": 142407,
+        "word": "马柏全摔倒",
+        "onboard_time": 1759494981,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140472,
+        "num": 140472,
+        "word": "AAA建材沈总离婚之我要当榜一大哥",
+        "onboard_time": 1759500862,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127566,
+        "num": 127566,
+        "word": "王力宏穿了深圳校服",
+        "onboard_time": 1759501044,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119764,
+        "num": 119764,
+        "word": "宋佳钟楚曦巴黎逛街",
+        "onboard_time": 1759494081,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119744,
+        "num": 119744,
+        "word": "女子减肥打针后身体烂57个洞",
+        "onboard_time": 1759494322,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117269,
+        "num": 117269,
+        "word": "海口实施六停",
+        "onboard_time": 1759498703,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 115992,
+        "num": 115992,
+        "word": "陈立农唱了薛之谦的歌",
+        "onboard_time": 1759501403,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110916,
+        "num": 110916,
+        "word": "苏醒爆料张远喜欢同一款女生",
+        "onboard_time": 1759490181,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110629,
+        "num": 110629,
+        "word": "张凌赫张淼怡归鸾",
+        "onboard_time": 1759494443,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109938,
+        "num": 109938,
+        "word": "彭昱畅闫妮 微醺的妈妈和我",
+        "onboard_time": 1759501403,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同新加坡总统互致贺电#"
+    }
+  }
+}
