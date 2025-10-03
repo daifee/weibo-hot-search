@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759496545695,
+  "endTime": 1759498318400,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -81,6 +81,14 @@
       "onboard_time": 1759145601,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1781382,
+      "num": 1781382,
+      "word": "肯德基保密54年的炸鸡配方将被公开",
+      "onboard_time": 1759494261,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1773052,
@@ -169,14 +177,6 @@
       "onboard_time": 1759061721,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1562980,
-      "num": 1562980,
-      "word": "肯德基保密54年的炸鸡配方将被公开",
-      "onboard_time": 1759494261,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1530425,
@@ -1859,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 620900,
+      "num": 620900,
+      "word": "肯德基总部未回应公开炸鸡配方",
+      "onboard_time": 1759493841,
+      "rank": 18,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 615736,
       "num": 615736,
       "word": "林允 水光后的针眼挺吓人",
@@ -2321,6 +2329,14 @@
       "onboard_time": 1758985463,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 536522,
+      "num": 536522,
+      "word": "交警回应陈震劳斯莱斯事故",
+      "onboard_time": 1759494379,
+      "rank": 27,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 536365,
@@ -3235,6 +3251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 415178,
+      "num": 415178,
+      "word": "731毒气实验室玩具已下架",
+      "onboard_time": 1759496541,
+      "rank": 5,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 414442,
       "num": 195521,
       "word": "今年三大平台爆剧",
@@ -3289,6 +3313,14 @@
       "onboard_time": 1759189640,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 406197,
+      "num": 216316,
+      "word": "张维伊看不了董璇这段",
+      "onboard_time": 1759496541,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 405666,
@@ -3521,14 +3553,6 @@
       "onboard_time": 1759404682,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 376779,
-      "num": 376779,
-      "word": "肯德基总部未回应公开炸鸡配方",
-      "onboard_time": 1759493841,
-      "rank": 18,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 376765,
@@ -4331,6 +4355,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 296165,
+      "num": 212178,
+      "word": "董璇说男人分手很快会找到下一个",
+      "onboard_time": 1759496902,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295303,
       "num": 295303,
       "word": "做一次CT对身体的伤害有多大",
@@ -4409,14 +4441,6 @@
       "onboard_time": 1759461440,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 292119,
-      "num": 292119,
-      "word": "交警回应陈震劳斯莱斯事故",
-      "onboard_time": 1759494379,
-      "rank": 27,
-      "category": "汽车,网红"
     },
     {
       "raw_hot": 290947,
@@ -5571,6 +5595,14 @@
       "category": "电影,游戏"
     },
     {
+      "raw_hot": 221245,
+      "num": 211085,
+      "word": "微信转账后记得加一个动作",
+      "onboard_time": 1759495400,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221189,
       "num": 186543,
       "word": "肖战工作室拍的红海",
@@ -5691,6 +5723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216150,
+      "num": 210887,
+      "word": "宋佳钟楚曦巴黎逛街",
+      "onboard_time": 1759494081,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215571,
       "num": 215571,
       "word": "iPhone17系列展示机刮痕原因",
@@ -5760,6 +5800,14 @@
       "word": "王楚钦孙颖莎采访",
       "onboard_time": 1759331481,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 212539,
+      "num": 212539,
+      "word": "王楚钦孙颖莎vs黄友政陈熠",
+      "onboard_time": 1759490663,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -5851,6 +5899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207850,
+      "num": 207850,
+      "word": "混双",
+      "onboard_time": 1759497322,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207812,
       "num": 207812,
       "word": "王楚钦林诗栋vs卡尔森法尔克",
@@ -5897,14 +5953,6 @@
       "onboard_time": 1759329082,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 206288,
-      "num": 175480,
-      "word": "微信转账后记得加一个动作",
-      "onboard_time": 1759495400,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 206119,
@@ -6040,14 +6088,6 @@
       "word": "孙颖莎晋级中国大满贯4强",
       "onboard_time": 1759469001,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 201776,
-      "num": 201776,
-      "word": "王楚钦孙颖莎vs黄友政陈熠",
-      "onboard_time": 1759490663,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -6289,6 +6329,22 @@
       "onboard_time": 1759404920,
       "rank": 27,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 196866,
+      "num": 208056,
+      "word": "今天星期五",
+      "onboard_time": 1759497501,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 196539,
+      "num": 211652,
+      "word": "关晓彤说独自相处要拥抱变化",
+      "onboard_time": 1759496961,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 196522,
@@ -6761,6 +6817,14 @@
       "onboard_time": 1759404261,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188550,
+      "num": 221849,
+      "word": "美驻华使领馆官号宣布停更",
+      "onboard_time": 1759496541,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 188450,
@@ -7475,14 +7539,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172776,
-      "num": 172776,
-      "word": "宋佳钟楚曦巴黎逛街",
-      "onboard_time": 1759494081,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 172672,
       "num": 172672,
       "word": "心动的信号8售后",
@@ -7601,6 +7657,14 @@
       "onboard_time": 1759446738,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171176,
+      "num": 171176,
+      "word": "刘轩丞首套高定",
+      "onboard_time": 1759497921,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 171045,
@@ -8315,6 +8379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159648,
+      "num": 159648,
+      "word": "王曼昱11比3张本美和",
+      "onboard_time": 1759498281,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159548,
       "num": 156115,
       "word": "陈俊菘回应首进大满贯八强",
@@ -8633,6 +8705,14 @@
       "onboard_time": 1759205420,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154080,
+      "num": 154080,
+      "word": "王曼昱4比0张本美和",
+      "onboard_time": 1759496721,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 153943,
@@ -8979,6 +9059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148635,
+      "num": 148635,
+      "word": "何超莲穿搭不用显贵",
+      "onboard_time": 1759496180,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148577,
       "num": 148577,
       "word": "员工称为还百万债务在西贝刷碗7年",
@@ -9017,6 +9105,14 @@
       "onboard_time": 1759400781,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147592,
+      "num": 147592,
+      "word": "张晚意唱了自己喜欢的歌",
+      "onboard_time": 1759497442,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 147401,
@@ -9929,6 +10025,14 @@
       "onboard_time": 1759307419,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137086,
+      "num": 137086,
+      "word": "隆妮三年三部央妈剧",
+      "onboard_time": 1759497981,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 137045,
@@ -10907,14 +11011,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 128398,
-      "num": 128398,
-      "word": "何超莲穿搭不用显贵",
-      "onboard_time": 1759496180,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128317,
       "num": 128317,
       "word": "刘宇宁大双眼皮是贴的",
@@ -11833,6 +11929,14 @@
       "onboard_time": 1759189040,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 119690,
+      "num": 220769,
+      "word": "王曼昱晋级中国大满贯4强",
+      "onboard_time": 1759497741,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 119612,
@@ -13475,6 +13579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106545,
+      "num": 175496,
+      "word": "安倍晋三遇刺案本月开庭",
+      "onboard_time": 1759496421,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106487,
       "num": 106487,
       "word": "花花干饭被4只孔雀围观",
@@ -13993,6 +14105,14 @@
       "onboard_time": 1759478361,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 103291,
+      "num": 138412,
+      "word": "12306回应女子投诉同车乘客脚臭",
+      "onboard_time": 1759496421,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103199,
@@ -16441,6 +16561,14 @@
       "onboard_time": 1759400900,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83012,
+      "num": 212511,
+      "word": "陈震的劳斯莱斯闪灵是二手车",
+      "onboard_time": 1759497621,
+      "rank": 18,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 83008,
@@ -18955,14 +19083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44594,
-      "num": 138412,
-      "word": "12306回应女子投诉同车乘客脚臭",
-      "onboard_time": 1759496421,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44481,
       "num": 109493,
       "word": "宋雨琦包场支持范丞丞王安宇",
@@ -19161,14 +19281,6 @@
       "onboard_time": 1759307181,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40863,
-      "num": 175496,
-      "word": "安倍晋三遇刺案本月开庭",
-      "onboard_time": 1759496421,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 40483,
@@ -19451,20 +19563,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 35862,
+      "num": 613179,
+      "word": "十四五万千气象看四川",
+      "onboard_time": 1759481660,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35699,
       "num": 158519,
       "word": "小伙嫌教练推销太烦花钱买课",
       "onboard_time": 1759465941,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35492,
-      "num": 613179,
-      "word": "十四五万千气象看四川",
-      "onboard_time": 1759481660,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35380,
@@ -20441,6 +20553,14 @@
       "onboard_time": 1759263554,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14200,
+      "num": 150848,
+      "word": "4日广西一地预计洪峰超警戒6米多",
+      "onboard_time": 1759497621,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 14068,
