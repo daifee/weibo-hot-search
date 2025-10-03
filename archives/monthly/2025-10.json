@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759477073720,
+  "endTime": 1759480330064,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -288,6 +288,14 @@
       "word": "有人西贝点单200元实付0元",
       "onboard_time": 1759306521,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1004335,
+      "num": 722605,
+      "word": "鸡排哥称还没赚到1个亿",
+      "onboard_time": 1759475001,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -587,14 +595,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 722605,
-      "num": 722605,
-      "word": "鸡排哥称还没赚到1个亿",
-      "onboard_time": 1759475001,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 715109,
       "num": 190328,
       "word": "陈赫一家四口瑞士度假",
@@ -697,6 +697,14 @@
       "onboard_time": 1759328721,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 665580,
+      "num": 150629,
+      "word": "忘崽留奶",
+      "onboard_time": 1759476380,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 662256,
@@ -1051,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 492984,
+      "num": 281366,
+      "word": "张继科说被人一脚踹水里",
+      "onboard_time": 1759479440,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 486599,
       "num": 486599,
       "word": "酒店一天办11场婚宴拱门快摆不下了",
@@ -1169,6 +1185,14 @@
       "onboard_time": 1759411101,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 442230,
+      "num": 150436,
+      "word": "沈佳润英语口语水平",
+      "onboard_time": 1759477460,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 434111,
@@ -1345,6 +1369,14 @@
       "onboard_time": 1759288639,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 372941,
+      "num": 149934,
+      "word": "微信式恋爱",
+      "onboard_time": 1759478002,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 372360,
@@ -1827,12 +1859,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 280137,
+      "num": 280137,
+      "word": "美国载近2000人豪华邮轮暴发病毒疫情",
+      "onboard_time": 1759476200,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 278048,
       "num": 225957,
       "word": "蜜雪冰城门店回应多只老鼠横行",
       "onboard_time": 1759311080,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276382,
+      "num": 276382,
+      "word": "伊朗总统称伊朗别无选择必须迁都",
+      "onboard_time": 1759475001,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 275582,
@@ -2139,6 +2187,14 @@
       "category": "辟谣/通报,演出"
     },
     {
+      "raw_hot": 237740,
+      "num": 164214,
+      "word": "迪丽热巴真的美成公主了",
+      "onboard_time": 1759475540,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237712,
       "num": 254454,
       "word": "董璇介绍张维伊兄弟给好友",
@@ -2243,6 +2299,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 228576,
+      "num": 123638,
+      "word": "林诗栋赛后生气了",
+      "onboard_time": 1759478841,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227681,
       "num": 227681,
       "word": "王曼昱vs早田希娜",
@@ -2279,14 +2343,6 @@
       "num": 157924,
       "word": "严浩翔定妆剧照",
       "onboard_time": 1759307419,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 224454,
-      "num": 164214,
-      "word": "迪丽热巴真的美成公主了",
-      "onboard_time": 1759475540,
       "rank": 22,
       "category": "艺人"
     },
@@ -2409,6 +2465,14 @@
       "onboard_time": 1759275258,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212985,
+      "num": 147467,
+      "word": "辛芷蕾新发型",
+      "onboard_time": 1759478659,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 212866,
@@ -2787,6 +2851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193766,
+      "num": 147006,
+      "word": "庞众望和女友拍领证照了",
+      "onboard_time": 1759479561,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192063,
       "num": 150422,
       "word": "一晚上偶遇三次鹿晗",
@@ -2913,14 +2985,6 @@
       "onboard_time": 1759380322,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183632,
-      "num": 183632,
-      "word": "伊朗总统称伊朗别无选择必须迁都",
-      "onboard_time": 1759475001,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 182976,
@@ -3435,6 +3499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156950,
+      "num": 146735,
+      "word": "林诗栋回应王楚钦摸头",
+      "onboard_time": 1759478900,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156792,
       "num": 156792,
       "word": "林更新成毅水下戏路透",
@@ -3529,14 +3601,6 @@
       "onboard_time": 1759298960,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151392,
-      "num": 151392,
-      "word": "美国载近2000人豪华邮轮暴发病毒疫情",
-      "onboard_time": 1759476200,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 151229,
@@ -3659,6 +3723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 146537,
+      "num": 146537,
+      "word": "檀健次说自己是长期主义者",
+      "onboard_time": 1759475001,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146508,
       "num": 146508,
       "word": "一笑随歌",
@@ -3755,14 +3827,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 144450,
-      "num": 122685,
-      "word": "忘崽留奶",
-      "onboard_time": 1759476380,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 144215,
       "num": 144215,
       "word": "高会",
@@ -3825,14 +3889,6 @@
       "onboard_time": 1759406121,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 142961,
-      "num": 142961,
-      "word": "檀健次说自己是长期主义者",
-      "onboard_time": 1759475001,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 142945,
@@ -3969,6 +4025,14 @@
       "onboard_time": 1759292361,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139856,
+      "num": 139856,
+      "word": "范丞丞坐白敬亭腿上我坐什么",
+      "onboard_time": 1759477400,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 139811,
@@ -4275,6 +4339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132384,
+      "num": 132384,
+      "word": "女子人肉占车位不让别车停",
+      "onboard_time": 1759477220,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132102,
       "num": 132102,
       "word": "毕正明的证明 黑马",
@@ -4417,6 +4489,14 @@
       "onboard_time": 1759412304,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128767,
+      "num": 128767,
+      "word": "朱志鑫被管乐整红温了",
+      "onboard_time": 1759479620,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 128005,
@@ -4923,6 +5003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114697,
+      "num": 114697,
+      "word": "南派三叔回应云顶天宫原班人马",
+      "onboard_time": 1759477041,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114457,
       "num": 114457,
       "word": "外媒拍的邓为看秀视频",
@@ -5011,6 +5099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112980,
+      "num": 112980,
+      "word": "华晨宇直播",
+      "onboard_time": 1759479261,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112914,
       "num": 112914,
       "word": "终于有古装剧反对和亲了",
@@ -5089,6 +5185,14 @@
       "onboard_time": 1759473680,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111412,
+      "num": 111412,
+      "word": "鹿晗这地板可真地板啊",
+      "onboard_time": 1759477460,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 111281,
@@ -5347,6 +5451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108107,
+      "num": 108107,
+      "word": "辛芷蕾我来之前人家告诉我别吃豆角",
+      "onboard_time": 1759478659,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108082,
       "num": 108082,
       "word": "薛之谦咪豆音乐节",
@@ -5475,6 +5587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105939,
+      "num": 105939,
+      "word": "中国飞行员比任何国家都不差",
+      "onboard_time": 1759478180,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105906,
       "num": 105906,
       "word": "全红婵发跳水动态",
@@ -5553,6 +5673,14 @@
       "onboard_time": 1759308681,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104881,
+      "num": 106116,
+      "word": "Doinb自曝ASI约不到训练赛",
+      "onboard_time": 1759480040,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 104873,
@@ -5648,6 +5776,14 @@
       "word": "刘诗诗去看陈昊宇演唱会了",
       "onboard_time": 1759301480,
       "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 103389,
+      "num": 103389,
+      "word": "TaylorSwift表示暂时没有新的巡演计划",
+      "onboard_time": 1759478361,
+      "rank": 42,
       "category": "演出"
     },
     {
@@ -5939,6 +6075,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97551,
+      "num": 97551,
+      "word": "高端商场里一只猫卖58888元",
+      "onboard_time": 1759479980,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97317,
       "num": 97317,
       "word": "杨羚蔚瞒着父母参加offer7",
@@ -5992,6 +6136,14 @@
       "word": "新中国成立七十六周年",
       "onboard_time": 1759275079,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96712,
+      "num": 96712,
+      "word": "鸡排哥休息8分钟后又回到摊位",
+      "onboard_time": 1759477821,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -6163,6 +6315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93993,
+      "num": 93993,
+      "word": "小甜豆孙颖莎",
+      "onboard_time": 1759479740,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93967,
       "num": 93967,
       "word": "CNN拍的美国将军大会",
@@ -6209,14 +6369,6 @@
       "onboard_time": 1759315941,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93125,
-      "num": 93125,
-      "word": "南派三叔回应云顶天宫原班人马",
-      "onboard_time": 1759477041,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 92990,
@@ -6396,7 +6548,7 @@
     },
     {
       "raw_hot": 89965,
-      "num": 103497,
+      "num": 281372,
       "word": "国庆假期第3天",
       "onboard_time": 1759463480,
       "rank": 48,
@@ -7747,6 +7899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61047,
+      "num": 159335,
+      "word": "高德扫街榜用户超4亿",
+      "onboard_time": 1759476019,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 60608,
       "num": 60608,
       "word": "第一次国庆不用写作业",
@@ -7777,6 +7937,14 @@
       "onboard_time": 1759423039,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 58872,
+      "num": 99587,
+      "word": "鸡排家族裂变式出摊",
+      "onboard_time": 1759478841,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58815,
@@ -7969,14 +8137,6 @@
       "onboard_time": 1759274598,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52887,
-      "num": 159335,
-      "word": "高德扫街榜用户超4亿",
-      "onboard_time": 1759476019,
-      "rank": 27,
-      "category": "互联网"
     },
     {
       "raw_hot": 52076,
@@ -8467,6 +8627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30697,
+      "num": 105993,
+      "word": "早期陈伟霆",
+      "onboard_time": 1759479861,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29644,
       "num": 116536,
       "word": "国庆节国乒19场比赛",
@@ -8529,6 +8697,14 @@
       "onboard_time": 1759343356,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27899,
+      "num": 148361,
+      "word": "中网票房创历史新高",
+      "onboard_time": 1759479320,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 27810,
