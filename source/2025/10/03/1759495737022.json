@@ -1,0 +1,410 @@
+{
+  "runTime": 1759495737022,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 895864,
+        "num": 1143338,
+        "word": "肯德基保密54年的炸鸡配方将被公开",
+        "onboard_time": 1759494261,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 633127,
+        "num": 633127,
+        "word": "威廉王子说3个孩子都没有配手机",
+        "onboard_time": 1759487242,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26252,
+        "num": 504479,
+        "word": "十四五万千气象看四川",
+        "onboard_time": 1759481660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 471489,
+        "num": 471489,
+        "word": "普京称某国准备进行核试验",
+        "onboard_time": 1759491442,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 421083,
+        "num": 421083,
+        "word": "美籍男子在解放军舰队附近放无人机被捕",
+        "onboard_time": 1759488981,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 666817,
+        "num": 420272,
+        "word": "普京口误",
+        "onboard_time": 1759488742,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 408435,
+        "num": 408435,
+        "word": "男子被误认持刀遭踹倒后交给民警",
+        "onboard_time": 1759492340,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294425,
+        "num": 294425,
+        "word": "当事人回应手拿折扇被误认持刀",
+        "onboard_time": 1759489162,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274654,
+        "num": 274654,
+        "word": "庞众望回应女友发布结婚登记照",
+        "onboard_time": 1759483460,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272608,
+        "num": 272608,
+        "word": "王曼昱vs张本美和",
+        "onboard_time": 1759491261,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 897777,
+        "num": 272265,
+        "word": "黄磊首次回应未熟豆角食物中毒争议",
+        "onboard_time": 1759485860,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 661547,
+        "num": 271886,
+        "word": "许我耀眼21集预告笑得我发抖",
+        "onboard_time": 1759489282,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 532620,
+        "num": 271290,
+        "word": "娜扎经纪人你是真的火了",
+        "onboard_time": 1759489400,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375035,
+        "num": 270397,
+        "word": "苏醒爆料张远喜欢同一款女生",
+        "onboard_time": 1759490181,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334286,
+        "num": 269787,
+        "word": "许我耀眼18",
+        "onboard_time": 1759489400,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330084,
+        "num": 268989,
+        "word": "树莓 摄哥",
+        "onboard_time": 1759487900,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 290616,
+        "num": 268160,
+        "word": "成毅摔倒了",
+        "onboard_time": 1759485259,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268040,
+        "num": 268040,
+        "word": "女子减肥打针后身体烂57个洞",
+        "onboard_time": 1759494322,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261901,
+        "num": 261901,
+        "word": "肯德基总部未回应公开炸鸡配方",
+        "onboard_time": 1759493841,
+        "rank": 18,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 68604,
+        "num": 221645,
+        "word": "假期理解鸿蒙为什么真香了",
+        "onboard_time": 1759494981,
+        "rank": 19,
+        "category": "数码,旅游"
+      },
+      {
+        "raw_hot": 219869,
+        "num": 219869,
+        "word": "TTG清清",
+        "onboard_time": 1759494621,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204665,
+        "num": 204665,
+        "word": "养脖子半年像换了一个人",
+        "onboard_time": 1759493901,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204619,
+        "num": 204619,
+        "word": "张凌赫张淼怡归鸾",
+        "onboard_time": 1759494443,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196125,
+        "num": 196125,
+        "word": "钎九",
+        "onboard_time": 1759494742,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194459,
+        "num": 194459,
+        "word": "穆祉丞音乐节",
+        "onboard_time": 1759494261,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181157,
+        "num": 181157,
+        "word": "陈俊菘2比4F勒布伦",
+        "onboard_time": 1759494861,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180442,
+        "num": 180442,
+        "word": "许我耀眼",
+        "onboard_time": 1759488981,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175528,
+        "num": 175528,
+        "word": "交警回应陈震劳斯莱斯事故",
+        "onboard_time": 1759494379,
+        "rank": 27,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 169444,
+        "num": 169444,
+        "word": "马柏全摔倒",
+        "onboard_time": 1759494981,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103596,
+        "num": 165626,
+        "word": "假期后半段我国多地将受台风影响",
+        "onboard_time": 1759491023,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 169969,
+        "num": 165578,
+        "word": "穆祉丞音乐节现场人气",
+        "onboard_time": 1759495101,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163469,
+        "num": 163469,
+        "word": "史上最萌年龄差出现了",
+        "onboard_time": 1759492401,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 163310,
+        "num": 163310,
+        "word": "宋佳钟楚曦巴黎逛街",
+        "onboard_time": 1759494081,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161777,
+        "num": 161777,
+        "word": "陈立农扫腿舞",
+        "onboard_time": 1759494443,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 159860,
+        "num": 159860,
+        "word": "王楚钦孙颖莎vs黄友政陈熠",
+        "onboard_time": 1759490663,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158624,
+        "num": 158624,
+        "word": "梨形瘦22斤的杀伤力",
+        "onboard_time": 1759482441,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 153588,
+        "num": 153588,
+        "word": "微信转账后记得加一个动作",
+        "onboard_time": 1759495400,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145945,
+        "num": 145945,
+        "word": "许我耀眼热度",
+        "onboard_time": 1759494742,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141614,
+        "num": 141614,
+        "word": "陈震暂未回应车祸逆行",
+        "onboard_time": 1759494200,
+        "rank": 38,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 31720,
+        "num": 124996,
+        "word": "多人曝婚庆摄影师接单后放鸽子",
+        "onboard_time": 1759495223,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120381,
+        "num": 120381,
+        "word": "曝风林火山导演让替身真上吊",
+        "onboard_time": 1759493061,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115475,
+        "num": 115475,
+        "word": "国庆档票房破9亿",
+        "onboard_time": 1759495521,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113444,
+        "num": 113444,
+        "word": "17岁女孩通宵熬夜致双肺全白",
+        "onboard_time": 1759485681,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113153,
+        "num": 113153,
+        "word": "张远你倒是出片了考虑过脖子吗",
+        "onboard_time": 1759495582,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109252,
+        "num": 109252,
+        "word": "陈小春更新两个儿子近照",
+        "onboard_time": 1759484600,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109243,
+        "num": 109243,
+        "word": "微信式恋爱",
+        "onboard_time": 1759478002,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105079,
+        "num": 105079,
+        "word": "霉霉开撕查理",
+        "onboard_time": 1759485621,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51078,
+        "num": 100916,
+        "word": "吉祥航空回应连换3驾飞机未起飞",
+        "onboard_time": 1759494081,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100536,
+        "num": 100536,
+        "word": "时代少年团版再见爱人",
+        "onboard_time": 1759490722,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98174,
+        "num": 98174,
+        "word": "猫儿这个小心翼翼的优雅",
+        "onboard_time": 1759495701,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同新加坡总统互致贺电#"
+    }
+  }
+}

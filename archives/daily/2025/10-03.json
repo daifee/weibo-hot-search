@@ -1,6 +1,6 @@
 {
   "startTime": 1759422668020,
-  "endTime": 1759491403059,
+  "endTime": 1759495737022,
   "band_list": [
     {
       "raw_hot": 4315994,
@@ -115,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 895864,
+      "num": 1143338,
+      "word": "肯德基保密54年的炸鸡配方将被公开",
+      "onboard_time": 1759494261,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 715109,
       "num": 190328,
       "word": "陈赫一家四口瑞士度假",
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 666817,
+      "num": 420272,
+      "word": "普京口误",
+      "onboard_time": 1759488742,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 665580,
       "num": 292446,
       "word": "忘崽留奶",
@@ -187,12 +203,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 661547,
+      "num": 271886,
+      "word": "许我耀眼21集预告笑得我发抖",
+      "onboard_time": 1759489282,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 657912,
       "num": 212050,
       "word": "许妍又把双眼皮贴哭掉了",
       "onboard_time": 1759469721,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 633127,
+      "num": 633127,
+      "word": "威廉王子说3个孩子都没有配手机",
+      "onboard_time": 1759487242,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 614501,
@@ -251,20 +283,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 536034,
-      "num": 267069,
-      "word": "许我耀眼21集预告笑得我发抖",
-      "onboard_time": 1759489282,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 533700,
       "num": 296478,
       "word": "成毅摔倒了",
       "onboard_time": 1759485259,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 532620,
+      "num": 271290,
+      "word": "娜扎经纪人你是真的火了",
+      "onboard_time": 1759489400,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 522837,
@@ -323,20 +355,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 478192,
-      "num": 262922,
-      "word": "普京口误",
-      "onboard_time": 1759488742,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 472237,
       "num": 294165,
       "word": "陈小春更新两个儿子近照",
       "onboard_time": 1759484600,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471489,
+      "num": 471489,
+      "word": "普京称某国准备进行核试验",
+      "onboard_time": 1759491442,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 448721,
@@ -347,12 +379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 436430,
-      "num": 436430,
-      "word": "威廉王子说3个孩子都没有配手机",
-      "onboard_time": 1759487242,
-      "rank": 1,
-      "category": "海外新闻"
+      "raw_hot": 421083,
+      "num": 421083,
+      "word": "美籍男子在解放军舰队附近放无人机被捕",
+      "onboard_time": 1759488981,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 417546,
@@ -361,6 +393,14 @@
       "onboard_time": 1759478659,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 408435,
+      "num": 408435,
+      "word": "男子被误认持刀遭踹倒后交给民警",
+      "onboard_time": 1759492340,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 395717,
@@ -372,7 +412,7 @@
     },
     {
       "raw_hot": 390055,
-      "num": 264292,
+      "num": 268989,
       "word": "树莓 摄哥",
       "onboard_time": 1759487900,
       "rank": 33,
@@ -401,6 +441,14 @@
       "onboard_time": 1759478841,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 375035,
+      "num": 270397,
+      "word": "苏醒爆料张远喜欢同一款女生",
+      "onboard_time": 1759490181,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 371570,
@@ -435,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365553,
-      "num": 248628,
-      "word": "娜扎经纪人你是真的火了",
-      "onboard_time": 1759489400,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 364012,
       "num": 196603,
       "word": "男子灌面汤呛死妻子案家属最新发声",
@@ -467,12 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320284,
-      "num": 320284,
-      "word": "美籍男子在解放军舰队附近放无人机被捕",
-      "onboard_time": 1759488981,
-      "rank": 6,
-      "category": "国际时政"
+      "raw_hot": 334286,
+      "num": 269787,
+      "word": "许我耀眼18",
+      "onboard_time": 1759489400,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 318275,
@@ -555,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294425,
+      "num": 294425,
+      "word": "当事人回应手拿折扇被误认持刀",
+      "onboard_time": 1759489162,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 292741,
       "num": 166996,
       "word": "王楚钦说不要攻击其他运动员",
@@ -584,14 +632,6 @@
       "word": "许我耀眼腾讯热度破32000",
       "onboard_time": 1759416381,
       "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 284540,
-      "num": 203737,
-      "word": "许我耀眼18",
-      "onboard_time": 1759489400,
-      "rank": 19,
       "category": "剧集"
     },
     {
@@ -651,6 +691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 272608,
+      "num": 272608,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1759491261,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272552,
       "num": 185989,
       "word": "王一博罗意威巴黎大秀造型",
@@ -667,12 +715,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268040,
+      "num": 268040,
+      "word": "女子减肥打针后身体烂57个洞",
+      "onboard_time": 1759494322,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264482,
       "num": 215158,
       "word": "陈赫问张子萱需不需要打码",
       "onboard_time": 1759402760,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 261901,
+      "num": 261901,
+      "word": "肯德基总部未回应公开炸鸡配方",
+      "onboard_time": 1759493841,
+      "rank": 18,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 261887,
@@ -787,20 +851,20 @@
       "category": "情感,健康医疗"
     },
     {
-      "raw_hot": 231314,
-      "num": 283348,
-      "word": "当事人回应手拿折扇被误认持刀",
-      "onboard_time": 1759489162,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 221739,
       "num": 213435,
       "word": "万达电影 恋与深空",
       "onboard_time": 1759465400,
       "rank": 24,
       "category": "电影,游戏"
+    },
+    {
+      "raw_hot": 219869,
+      "num": 219869,
+      "word": "TTG清清",
+      "onboard_time": 1759494621,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 219475,
@@ -859,6 +923,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 204665,
+      "num": 204665,
+      "word": "养脖子半年像换了一个人",
+      "onboard_time": 1759493901,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 204619,
+      "num": 204619,
+      "word": "张凌赫张淼怡归鸾",
+      "onboard_time": 1759494443,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202241,
       "num": 202241,
       "word": "孙颖莎晋级中国大满贯4强",
@@ -907,14 +987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197097,
-      "num": 192921,
-      "word": "苏醒爆料张远喜欢同一款女生",
-      "onboard_time": 1759490181,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197088,
       "num": 197088,
       "word": "那英现身LadyGaga演唱会",
@@ -931,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196125,
+      "num": 196125,
+      "word": "钎九",
+      "onboard_time": 1759494742,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196004,
       "num": 196004,
       "word": "小蘑菇",
@@ -939,12 +1019,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 195301,
-      "num": 195301,
-      "word": "王曼昱vs张本美和",
-      "onboard_time": 1759491261,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 194459,
+      "num": 194459,
+      "word": "穆祉丞音乐节",
+      "onboard_time": 1759494261,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 193592,
@@ -1067,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181157,
+      "num": 181157,
+      "word": "陈俊菘2比4F勒布伦",
+      "onboard_time": 1759494861,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178098,
       "num": 201871,
       "word": "美国人将很快感受到政府停摆之痛",
@@ -1089,6 +1177,14 @@
       "onboard_time": 1759490362,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175528,
+      "num": 175528,
+      "word": "交警回应陈震劳斯莱斯事故",
+      "onboard_time": 1759494379,
+      "rank": 27,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 175318,
@@ -1123,6 +1219,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169969,
+      "num": 165578,
+      "word": "穆祉丞音乐节现场人气",
+      "onboard_time": 1759495101,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 169444,
+      "num": 169444,
+      "word": "马柏全摔倒",
+      "onboard_time": 1759494981,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169140,
       "num": 169140,
       "word": "张艺兴蘑菇屋主厨上线",
@@ -1155,11 +1267,35 @@
       "category": "网红"
     },
     {
+      "raw_hot": 163469,
+      "num": 163469,
+      "word": "史上最萌年龄差出现了",
+      "onboard_time": 1759492401,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 163310,
+      "num": 163310,
+      "word": "宋佳钟楚曦巴黎逛街",
+      "onboard_time": 1759494081,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163212,
       "num": 163212,
       "word": "王力宏也整上科技与狠活了",
       "onboard_time": 1759480399,
       "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 161777,
+      "num": 161777,
+      "word": "陈立农扫腿舞",
+      "onboard_time": 1759494443,
+      "rank": 33,
       "category": "演出"
     },
     {
@@ -1169,6 +1305,14 @@
       "onboard_time": 1759487601,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159860,
+      "num": 159860,
+      "word": "王楚钦孙颖莎vs黄友政陈熠",
+      "onboard_time": 1759490663,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 159216,
@@ -1201,6 +1345,14 @@
       "onboard_time": 1759490300,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153588,
+      "num": 153588,
+      "word": "微信转账后记得加一个动作",
+      "onboard_time": 1759495400,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 152308,
@@ -1251,6 +1403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145945,
+      "num": 145945,
+      "word": "许我耀眼热度",
+      "onboard_time": 1759494742,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145940,
       "num": 133286,
       "word": "张予曦在巴黎换风格了",
@@ -1289,6 +1449,14 @@
       "onboard_time": 1759465040,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141614,
+      "num": 141614,
+      "word": "陈震暂未回应车祸逆行",
+      "onboard_time": 1759494200,
+      "rank": 38,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 140814,
@@ -1531,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120381,
+      "num": 120381,
+      "word": "曝风林火山导演让替身真上吊",
+      "onboard_time": 1759493061,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119878,
       "num": 119878,
       "word": "鹿晗这地板可真地板啊",
@@ -1569,6 +1745,14 @@
       "onboard_time": 1759468520,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115475,
+      "num": 115475,
+      "word": "国庆档票房破9亿",
+      "onboard_time": 1759495521,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 115220,
@@ -1625,6 +1809,14 @@
       "onboard_time": 1759474520,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113153,
+      "num": 113153,
+      "word": "张远你倒是出片了考虑过脖子吗",
+      "onboard_time": 1759495582,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 112980,
@@ -1899,6 +2091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 103596,
+      "num": 165626,
+      "word": "假期后半段我国多地将受台风影响",
+      "onboard_time": 1759491023,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 103389,
       "num": 103389,
       "word": "TaylorSwift表示暂时没有新的巡演计划",
@@ -2019,6 +2219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98174,
+      "num": 98174,
+      "word": "猫儿这个小心翼翼的优雅",
+      "onboard_time": 1759495701,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97729,
       "num": 97729,
       "word": "马吟吟演了罗予彤试戏淘汰的角色",
@@ -2059,14 +2267,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 95957,
-      "num": 95957,
-      "word": "假期后半段我国多地将受台风影响",
-      "onboard_time": 1759491023,
-      "rank": 46,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 95231,
       "num": 95231,
       "word": "裸辞与在职找工作的区别",
@@ -2089,14 +2289,6 @@
       "onboard_time": 1759476979,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94573,
-      "num": 94573,
-      "word": "王楚钦孙颖莎vs黄友政陈熠",
-      "onboard_time": 1759490663,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 94025,
@@ -2531,6 +2723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68604,
+      "num": 221645,
+      "word": "假期理解鸿蒙为什么真香了",
+      "onboard_time": 1759494981,
+      "rank": 19,
+      "category": "数码,旅游"
+    },
+    {
       "raw_hot": 68071,
       "num": 68071,
       "word": "中国维和官兵被授予联合国和平勋章",
@@ -2803,6 +3003,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 51078,
+      "num": 100916,
+      "word": "吉祥航空回应连换3驾飞机未起飞",
+      "onboard_time": 1759494081,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50816,
       "num": 150639,
       "word": "范丞丞章若楠纪梵希大秀出发",
@@ -2929,6 +3137,14 @@
       "onboard_time": 1759425197,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 31720,
+      "num": 124996,
+      "word": "多人曝婚庆摄影师接单后放鸽子",
+      "onboard_time": 1759495223,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31115,

@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759491403059,
+  "endTime": 1759495737022,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -427,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 895864,
+      "num": 1143338,
+      "word": "肯德基保密54年的炸鸡配方将被公开",
+      "onboard_time": 1759494261,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 895011,
       "num": 895011,
       "word": "王楚钦卡壳半天蹦出来一句他老婆",
@@ -739,6 +747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 666817,
+      "num": 420272,
+      "word": "普京口误",
+      "onboard_time": 1759488742,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 665580,
       "num": 292446,
       "word": "忘崽留奶",
@@ -753,6 +769,14 @@
       "onboard_time": 1759248561,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 661547,
+      "num": 271886,
+      "word": "许我耀眼21集预告笑得我发抖",
+      "onboard_time": 1759489282,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 657912,
@@ -785,6 +809,14 @@
       "onboard_time": 1759307720,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 633127,
+      "num": 633127,
+      "word": "威廉王子说3个孩子都没有配手机",
+      "onboard_time": 1759487242,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 632850,
@@ -987,14 +1019,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 536034,
-      "num": 267069,
-      "word": "许我耀眼21集预告笑得我发抖",
-      "onboard_time": 1759489282,
-      "rank": 12,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 535788,
       "num": 226227,
       "word": "张泽禹 舌钉",
@@ -1009,6 +1033,14 @@
       "onboard_time": 1759485259,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 532620,
+      "num": 271290,
+      "word": "娜扎经纪人你是真的火了",
+      "onboard_time": 1759489400,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 528355,
@@ -1171,14 +1203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 478192,
-      "num": 262922,
-      "word": "普京口误",
-      "onboard_time": 1759488742,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 477643,
       "num": 226477,
       "word": "许我耀眼云合31.7%",
@@ -1201,6 +1225,14 @@
       "onboard_time": 1759484600,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471489,
+      "num": 471489,
+      "word": "普京称某国准备进行核试验",
+      "onboard_time": 1759491442,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 467123,
@@ -1275,14 +1307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 436430,
-      "num": 436430,
-      "word": "威廉王子说3个孩子都没有配手机",
-      "onboard_time": 1759487242,
-      "rank": 1,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 434111,
       "num": 219995,
       "word": "Dior连发4条迪丽热巴",
@@ -1321,6 +1345,14 @@
       "onboard_time": 1759243522,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 421083,
+      "num": 421083,
+      "word": "美籍男子在解放军舰队附近放无人机被捕",
+      "onboard_time": 1759488981,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 417546,
@@ -1379,6 +1411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 408435,
+      "num": 408435,
+      "word": "男子被误认持刀遭踹倒后交给民警",
+      "onboard_time": 1759492340,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396129,
       "num": 253591,
       "word": "你叫王影璐 你又叫李昀锐",
@@ -1420,7 +1460,7 @@
     },
     {
       "raw_hot": 390055,
-      "num": 264292,
+      "num": 268989,
       "word": "树莓 摄哥",
       "onboard_time": 1759487900,
       "rank": 33,
@@ -1481,6 +1521,14 @@
       "onboard_time": 1759288639,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 375035,
+      "num": 270397,
+      "word": "苏醒爆料张远喜欢同一款女生",
+      "onboard_time": 1759490181,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 372360,
@@ -1552,14 +1600,6 @@
       "word": "霉霉开撕查理",
       "onboard_time": 1759485621,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 365553,
-      "num": 248628,
-      "word": "娜扎经纪人你是真的火了",
-      "onboard_time": 1759489400,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -1699,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334286,
+      "num": 269787,
+      "word": "许我耀眼18",
+      "onboard_time": 1759489400,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333864,
       "num": 333864,
       "word": "王楚钦让记者提问孙颖莎",
@@ -1745,14 +1793,6 @@
       "onboard_time": 1759316301,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 320284,
-      "num": 320284,
-      "word": "美籍男子在解放军舰队附近放无人机被捕",
-      "onboard_time": 1759488981,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 318956,
@@ -1899,6 +1939,14 @@
       "category": "游戏,电影"
     },
     {
+      "raw_hot": 294425,
+      "num": 294425,
+      "word": "当事人回应手拿折扇被误认持刀",
+      "onboard_time": 1759489162,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293189,
       "num": 293189,
       "word": "目击者曝46岁女球迷酒后扰序细节",
@@ -1976,14 +2024,6 @@
       "word": "许魏洲被cpf贴脸",
       "onboard_time": 1759414462,
       "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 284540,
-      "num": 203737,
-      "word": "许我耀眼18",
-      "onboard_time": 1759489400,
-      "rank": 19,
       "category": "剧集"
     },
     {
@@ -2067,6 +2107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 272608,
+      "num": 272608,
+      "word": "王曼昱vs张本美和",
+      "onboard_time": 1759491261,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272552,
       "num": 185989,
       "word": "王一博罗意威巴黎大秀造型",
@@ -2131,6 +2179,14 @@
       "category": "游戏,互联网"
     },
     {
+      "raw_hot": 268040,
+      "num": 268040,
+      "word": "女子减肥打针后身体烂57个洞",
+      "onboard_time": 1759494322,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 266828,
       "num": 240339,
       "word": "在中国居住了5年的印度女子",
@@ -2169,6 +2225,14 @@
       "onboard_time": 1759282700,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 261901,
+      "num": 261901,
+      "word": "肯德基总部未回应公开炸鸡配方",
+      "onboard_time": 1759493841,
+      "rank": 18,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 261887,
@@ -2475,14 +2539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231314,
-      "num": 283348,
-      "word": "当事人回应手拿折扇被误认持刀",
-      "onboard_time": 1759489162,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 230849,
       "num": 230849,
       "word": "孙颖莎vs王晓彤",
@@ -2585,6 +2641,14 @@
       "onboard_time": 1759389442,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219869,
+      "num": 219869,
+      "word": "TTG清清",
+      "onboard_time": 1759494621,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 219475,
@@ -2787,6 +2851,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204665,
+      "num": 204665,
+      "word": "养脖子半年像换了一个人",
+      "onboard_time": 1759493901,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 204619,
+      "num": 204619,
+      "word": "张凌赫张淼怡归鸾",
+      "onboard_time": 1759494443,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204103,
       "num": 204103,
       "word": "WTT",
@@ -2947,14 +3027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197097,
-      "num": 192921,
-      "word": "苏醒爆料张远喜欢同一款女生",
-      "onboard_time": 1759490181,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197088,
       "num": 197088,
       "word": "那英现身LadyGaga演唱会",
@@ -3003,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196125,
+      "num": 196125,
+      "word": "钎九",
+      "onboard_time": 1759494742,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196004,
       "num": 196004,
       "word": "小蘑菇",
@@ -3027,20 +3107,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 195301,
-      "num": 195301,
-      "word": "王曼昱vs张本美和",
-      "onboard_time": 1759491261,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 194620,
       "num": 194620,
       "word": "美国纽约一高层公寓楼部分倒塌",
       "onboard_time": 1759333581,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 194459,
+      "num": 194459,
+      "word": "穆祉丞音乐节",
+      "onboard_time": 1759494261,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 194453,
@@ -3299,6 +3379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 181157,
+      "num": 181157,
+      "word": "陈俊菘2比4F勒布伦",
+      "onboard_time": 1759494861,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180487,
       "num": 180487,
       "word": "一笑随歌热度",
@@ -3369,6 +3457,14 @@
       "onboard_time": 1759490362,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175528,
+      "num": 175528,
+      "word": "交警回应陈震劳斯莱斯事故",
+      "onboard_time": 1759494379,
+      "rank": 27,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 175379,
@@ -3465,6 +3561,22 @@
       "onboard_time": 1759373959,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169969,
+      "num": 165578,
+      "word": "穆祉丞音乐节现场人气",
+      "onboard_time": 1759495101,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 169444,
+      "num": 169444,
+      "word": "马柏全摔倒",
+      "onboard_time": 1759494981,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 169365,
@@ -3683,6 +3795,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163469,
+      "num": 163469,
+      "word": "史上最萌年龄差出现了",
+      "onboard_time": 1759492401,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 163310,
+      "num": 163310,
+      "word": "宋佳钟楚曦巴黎逛街",
+      "onboard_time": 1759494081,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163228,
       "num": 163228,
       "word": "妻子查看亡夫遗物发现婚外情录音",
@@ -3705,6 +3833,14 @@
       "onboard_time": 1759329562,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161777,
+      "num": 161777,
+      "word": "陈立农扫腿舞",
+      "onboard_time": 1759494443,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 161772,
@@ -3745,6 +3881,14 @@
       "onboard_time": 1759359737,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 159860,
+      "num": 159860,
+      "word": "王楚钦孙颖莎vs黄友政陈熠",
+      "onboard_time": 1759490663,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 159548,
@@ -3881,6 +4025,14 @@
       "onboard_time": 1759392620,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153588,
+      "num": 153588,
+      "word": "微信转账后记得加一个动作",
+      "onboard_time": 1759495400,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 153109,
@@ -4273,6 +4425,14 @@
       "onboard_time": 1759402340,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141614,
+      "num": 141614,
+      "word": "陈震暂未回应车祸逆行",
+      "onboard_time": 1759494200,
+      "rank": 38,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 141342,
@@ -5179,6 +5339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120381,
+      "num": 120381,
+      "word": "曝风林火山导演让替身真上吊",
+      "onboard_time": 1759493061,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120286,
       "num": 120286,
       "word": "谁把宫保鸡丁给我摆成漂亮饭了",
@@ -5395,6 +5563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115475,
+      "num": 115475,
+      "word": "国庆档票房破9亿",
+      "onboard_time": 1759495521,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115386,
       "num": 115386,
       "word": "刺杀小说家在刺杀谁",
@@ -5529,6 +5705,14 @@
       "onboard_time": 1759290381,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113153,
+      "num": 113153,
+      "word": "张远你倒是出片了考虑过脖子吗",
+      "onboard_time": 1759495582,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 112980,
@@ -6267,6 +6451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 103596,
+      "num": 165626,
+      "word": "假期后半段我国多地将受台风影响",
+      "onboard_time": 1759491023,
+      "rank": 46,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 103548,
       "num": 103548,
       "word": "金饰克价涨到1132元",
@@ -6595,6 +6787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98174,
+      "num": 98174,
+      "word": "猫儿这个小心翼翼的优雅",
+      "onboard_time": 1759495701,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97793,
       "num": 97793,
       "word": "乌鲁木齐地震",
@@ -6731,14 +6931,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 95957,
-      "num": 95957,
-      "word": "假期后半段我国多地将受台风影响",
-      "onboard_time": 1759491023,
-      "rank": 46,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 95918,
       "num": 181904,
       "word": "谁教檀健次粉丝这样宣传的",
@@ -6817,14 +7009,6 @@
       "onboard_time": 1759476979,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94573,
-      "num": 94573,
-      "word": "王楚钦孙颖莎vs黄友政陈熠",
-      "onboard_time": 1759490663,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 94544,
@@ -8323,6 +8507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68604,
+      "num": 221645,
+      "word": "假期理解鸿蒙为什么真香了",
+      "onboard_time": 1759494981,
+      "rank": 19,
+      "category": "数码,旅游"
+    },
+    {
       "raw_hot": 68537,
       "num": 193368,
       "word": "媒体评飞猪公开课是旅行版TED",
@@ -8875,6 +9067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 51078,
+      "num": 100916,
+      "word": "吉祥航空回应连换3驾飞机未起飞",
+      "onboard_time": 1759494081,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50816,
       "num": 150639,
       "word": "范丞丞章若楠纪梵希大秀出发",
@@ -9313,6 +9513,14 @@
       "onboard_time": 1759425197,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 31720,
+      "num": 124996,
+      "word": "多人曝婚庆摄影师接单后放鸽子",
+      "onboard_time": 1759495223,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31700,
