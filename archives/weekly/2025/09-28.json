@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759473362867,
+  "endTime": 1759474109049,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -1619,6 +1619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 657912,
+      "num": 160050,
+      "word": "许妍又把双眼皮贴哭掉了",
+      "onboard_time": 1759469721,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 655054,
       "num": 655054,
       "word": "俄罗斯支持巴西印度申请入常",
@@ -2027,14 +2035,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 579905,
-      "num": 147265,
-      "word": "许妍又把双眼皮贴哭掉了",
-      "onboard_time": 1759469721,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 575184,
       "num": 575184,
       "word": "金饰价格涨到1115元",
@@ -2201,6 +2201,14 @@
       "onboard_time": 1759402940,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 538626,
+      "num": 157251,
+      "word": "王诗龄G社生图",
+      "onboard_time": 1759473438,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 538279,
@@ -2569,6 +2577,14 @@
       "onboard_time": 1759233021,
       "rank": 8,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 480031,
+      "num": 155849,
+      "word": "VaVa说自己分手是因为浪姐",
+      "onboard_time": 1759472241,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 477990,
@@ -4195,6 +4211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 287729,
+      "num": 147691,
+      "word": "女子32楼家爬满隐翅虫喷了4瓶杀虫剂",
+      "onboard_time": 1759472060,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 287522,
       "num": 199302,
       "word": "纤维粒 夏思齐",
@@ -4225,6 +4249,14 @@
       "onboard_time": 1759414462,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 283497,
+      "num": 146774,
+      "word": "张智霖送儿子留学机场分别落泪",
+      "onboard_time": 1759472179,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 283311,
@@ -4281,14 +4313,6 @@
       "onboard_time": 1759311080,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 277905,
-      "num": 144833,
-      "word": "张智霖送儿子留学机场分别落泪",
-      "onboard_time": 1759472179,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 277821,
@@ -4675,27 +4699,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 244440,
-      "num": 146253,
-      "word": "VaVa说自己分手是因为浪姐",
-      "onboard_time": 1759472241,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 244354,
       "num": 174883,
       "word": "5岁男童小区景观池触电身亡",
       "onboard_time": 1759157782,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 243929,
-      "num": 144607,
-      "word": "女子32楼家爬满隐翅虫喷了4瓶杀虫剂",
-      "onboard_time": 1759472060,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -4812,7 +4820,7 @@
     },
     {
       "raw_hot": 238294,
-      "num": 151894,
+      "num": 153202,
       "word": "警方通报银河左岸音乐节倒卖票证",
       "onboard_time": 1759463300,
       "rank": 35,
@@ -5675,6 +5683,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 200303,
+      "num": 200303,
+      "word": "孙颖莎4比3战胜王艺迪",
+      "onboard_time": 1759468761,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 199997,
       "num": 219243,
       "word": "peanut不要哭",
@@ -6243,6 +6259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189105,
+      "num": 149988,
+      "word": "戒咖啡三个月身体的变化",
+      "onboard_time": 1759467861,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 189072,
       "num": 189072,
       "word": "王楚钦3比0安宰贤",
@@ -6323,14 +6347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186131,
-      "num": 149988,
-      "word": "戒咖啡三个月身体的变化",
-      "onboard_time": 1759467861,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 185998,
       "num": 185998,
       "word": "周深动情演唱故乡的云",
@@ -6361,6 +6377,14 @@
       "onboard_time": 1759064843,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 185364,
+      "num": 150935,
+      "word": "王楚钦林诗栋4比11黄友政温瑞博",
+      "onboard_time": 1759473380,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 185097,
@@ -6473,6 +6497,14 @@
       "onboard_time": 1759241063,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182921,
+      "num": 143952,
+      "word": "霉霉 Charlixcx",
+      "onboard_time": 1759472720,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 182826,
@@ -6705,14 +6737,6 @@
       "onboard_time": 1759033461,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 178744,
-      "num": 178744,
-      "word": "孙颖莎4比3战胜王艺迪",
-      "onboard_time": 1759468761,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 178725,
@@ -7049,6 +7073,14 @@
       "onboard_time": 1759373959,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169536,
+      "num": 169536,
+      "word": "炒粉老板开门发现百米长队天塌了",
+      "onboard_time": 1759472060,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169517,
@@ -8699,6 +8731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143588,
+      "num": 132788,
+      "word": "王俊凯看秀官摄",
+      "onboard_time": 1759473321,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143526,
       "num": 139826,
       "word": "鸡排哥为不辜负网友热情营业到深夜",
@@ -9003,14 +9043,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 139570,
-      "num": 139570,
-      "word": "霉霉 Charlixcx",
-      "onboard_time": 1759472720,
-      "rank": 26,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 139559,
       "num": 139559,
       "word": "薛之谦音乐节",
@@ -9113,6 +9145,14 @@
       "onboard_time": 1759156161,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137545,
+      "num": 137545,
+      "word": "我在一群一模一样的小狗中选中了你",
+      "onboard_time": 1759473201,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 137452,
@@ -9451,14 +9491,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 133980,
-      "num": 133980,
-      "word": "炒粉老板开门发现百米长队天塌了",
-      "onboard_time": 1759472060,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 133737,
       "num": 133737,
       "word": "金价见证历史",
@@ -9641,6 +9673,14 @@
       "onboard_time": 1759315340,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132679,
+      "num": 132679,
+      "word": "美国终止近80亿美元新能源项目",
+      "onboard_time": 1759473260,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 132616,
@@ -10876,7 +10916,7 @@
     },
     {
       "raw_hot": 120675,
-      "num": 132149,
+      "num": 136000,
       "word": "邓超偶遇的路人像托",
       "onboard_time": 1759472720,
       "rank": 29,
@@ -11073,14 +11113,6 @@
       "onboard_time": 1759166356,
       "rank": 41,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 119047,
-      "num": 119047,
-      "word": "美国终止近80亿美元新能源项目",
-      "onboard_time": 1759473260,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 119033,
@@ -11483,6 +11515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114858,
+      "num": 114858,
+      "word": "那你睡吧四个字的意思",
+      "onboard_time": 1759472060,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114728,
       "num": 114728,
       "word": "鸡排哥已经有班味了",
@@ -11832,6 +11872,14 @@
       "word": "莎头组合混双出战",
       "onboard_time": 1759196420,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111448,
+      "num": 111448,
+      "word": "周启豪想跟王楚钦学习",
+      "onboard_time": 1759473680,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -12339,6 +12387,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107972,
+      "num": 107972,
+      "word": "小狗也受不了走高速",
+      "onboard_time": 1759473741,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 107812,
+      "num": 145431,
+      "word": "浏阳无人机烟花表演现场失火",
+      "onboard_time": 1759472359,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107516,
       "num": 107516,
       "word": "周震南说自己是被迫当R1SE队长的",
@@ -12657,6 +12721,22 @@
       "onboard_time": 1759020442,
       "rank": 41,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 105267,
+      "num": 105267,
+      "word": "十一假期重庆人这么吃重庆",
+      "onboard_time": 1759473919,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 105263,
+      "num": 105263,
+      "word": "王曼昱发球回抛被警告",
+      "onboard_time": 1759473980,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 105141,
@@ -13067,6 +13147,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 102126,
+      "num": 102126,
+      "word": "孙颖莎王艺迪德比战太激烈",
+      "onboard_time": 1759473500,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102065,
       "num": 102065,
       "word": "第十五个五年规划",
@@ -13097,14 +13185,6 @@
       "onboard_time": 1759217061,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101962,
-      "num": 101962,
-      "word": "那你睡吧四个字的意思",
-      "onboard_time": 1759472060,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 101889,
@@ -13209,6 +13289,14 @@
       "onboard_time": 1759030161,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 101131,
+      "num": 149445,
+      "word": "王楚钦林诗栋进决赛",
+      "onboard_time": 1759473561,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 101109,
@@ -14691,14 +14779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 87099,
-      "num": 87099,
-      "word": "我在一群一模一样的小狗中选中了你",
-      "onboard_time": 1759473201,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 86945,
       "num": 86945,
       "word": "觉得以前的东西好有质感啊",
@@ -14905,14 +14985,6 @@
       "onboard_time": 1759283360,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 85243,
-      "num": 85243,
-      "word": "王俊凯看秀官摄",
-      "onboard_time": 1759473321,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 85223,
@@ -16195,14 +16267,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 68959,
-      "num": 145431,
-      "word": "浏阳无人机烟花表演现场失火",
-      "onboard_time": 1759472359,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68724,
       "num": 68724,
       "word": "秋日的粉黛乱子草已上线",
@@ -16939,6 +17003,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 57662,
+      "num": 111503,
+      "word": "白鹿一直用手护着腰",
+      "onboard_time": 1759473561,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57545,
       "num": 239948,
       "word": "和孟子义一起喜提缤果S",
@@ -17316,7 +17388,7 @@
     },
     {
       "raw_hot": 50816,
-      "num": 145167,
+      "num": 150639,
       "word": "范丞丞章若楠纪梵希大秀出发",
       "onboard_time": 1759471400,
       "rank": 19,
@@ -17345,6 +17417,14 @@
       "onboard_time": 1759032741,
       "rank": 18,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 49631,
+      "num": 112165,
+      "word": "成毅的腰怎么了",
+      "onboard_time": 1759473380,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 49568,
@@ -18945,6 +19025,14 @@
       "onboard_time": 1759341617,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 15414,
+      "num": 134125,
+      "word": "景德镇努力接住鸡排哥泼天流量",
+      "onboard_time": 1759473980,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15353,

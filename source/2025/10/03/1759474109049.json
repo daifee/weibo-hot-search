@@ -1,0 +1,410 @@
+{
+  "runTime": 1759474109049,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 908998,
+        "num": 1145439,
+        "word": "官方回应小米汽车突然自己开走了",
+        "onboard_time": 1759467621,
+        "rank": 0,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 667817,
+        "num": 667817,
+        "word": "孙颖莎滑倒",
+        "onboard_time": 1759468280,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28735,
+        "num": 429349,
+        "word": "假期流动的是人潮更是活力",
+        "onboard_time": 1759464019,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 836493,
+        "num": 428332,
+        "word": "骨相美 皮相美",
+        "onboard_time": 1759464680,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 402229,
+        "num": 402229,
+        "word": "全球人民都知道我们放假了",
+        "onboard_time": 1759459759,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278537,
+        "num": 278537,
+        "word": "鸡排哥3年前还没有班味",
+        "onboard_time": 1759466600,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209048,
+        "num": 209048,
+        "word": "英雄联盟全球总决赛",
+        "onboard_time": 1759467261,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200303,
+        "num": 200303,
+        "word": "孙颖莎4比3战胜王艺迪",
+        "onboard_time": 1759468761,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169536,
+        "num": 169536,
+        "word": "炒粉老板开门发现百米长队天塌了",
+        "onboard_time": 1759472060,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160479,
+        "num": 160479,
+        "word": "九三阅兵刺刀是开了刃的",
+        "onboard_time": 1759463361,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 657912,
+        "num": 160050,
+        "word": "许妍又把双眼皮贴哭掉了",
+        "onboard_time": 1759469721,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 540795,
+        "num": 158244,
+        "word": "姜潮单方面官宣被麦迪娜公司婉拒了",
+        "onboard_time": 1759460480,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 538626,
+        "num": 157251,
+        "word": "王诗龄G社生图",
+        "onboard_time": 1759473438,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 480031,
+        "num": 155849,
+        "word": "VaVa说自己分手是因为浪姐",
+        "onboard_time": 1759472241,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339335,
+        "num": 154924,
+        "word": "男子灌面汤呛死妻子案家属最新发声",
+        "onboard_time": 1759467500,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279673,
+        "num": 153236,
+        "word": "男子灌面汤呛死妻子案再次延期审理",
+        "onboard_time": 1759465279,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198755,
+        "num": 153202,
+        "word": "警方通报银河左岸音乐节倒卖票证",
+        "onboard_time": 1759463300,
+        "rank": 16,
+        "category": "辟谣/通报,演出"
+      },
+      {
+        "raw_hot": 185364,
+        "num": 150935,
+        "word": "王楚钦林诗栋4比11黄友政温瑞博",
+        "onboard_time": 1759473380,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38546,
+        "num": 150639,
+        "word": "范丞丞章若楠纪梵希大秀出发",
+        "onboard_time": 1759471400,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 101131,
+        "num": 149445,
+        "word": "王楚钦林诗栋进决赛",
+        "onboard_time": 1759473561,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 287729,
+        "num": 147691,
+        "word": "女子32楼家爬满隐翅虫喷了4瓶杀虫剂",
+        "onboard_time": 1759472060,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283497,
+        "num": 146774,
+        "word": "张智霖送儿子留学机场分别落泪",
+        "onboard_time": 1759472179,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189105,
+        "num": 144833,
+        "word": "戒咖啡三个月身体的变化",
+        "onboard_time": 1759467861,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182921,
+        "num": 143952,
+        "word": "霉霉 Charlixcx",
+        "onboard_time": 1759472720,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 178217,
+        "num": 142789,
+        "word": "唐香玉官宣上恋综",
+        "onboard_time": 1759464321,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142369,
+        "num": 142369,
+        "word": "迪丽热巴张馨予巴黎街头聚餐",
+        "onboard_time": 1759454659,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140507,
+        "num": 140507,
+        "word": "当我瘦了50斤奶奶的反应",
+        "onboard_time": 1759464920,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137545,
+        "num": 137545,
+        "word": "我在一群一模一样的小狗中选中了你",
+        "onboard_time": 1759473201,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136600,
+        "num": 136600,
+        "word": "向往的生活",
+        "onboard_time": 1759471820,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98502,
+        "num": 136000,
+        "word": "邓超偶遇的路人像托",
+        "onboard_time": 1759472720,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107812,
+        "num": 135361,
+        "word": "浏阳无人机烟花表演现场失火",
+        "onboard_time": 1759472359,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15414,
+        "num": 134125,
+        "word": "景德镇努力接住鸡排哥泼天流量",
+        "onboard_time": 1759473980,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143588,
+        "num": 132788,
+        "word": "王俊凯看秀官摄",
+        "onboard_time": 1759473321,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132679,
+        "num": 132679,
+        "word": "美国终止近80亿美元新能源项目",
+        "onboard_time": 1759473260,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129067,
+        "num": 129067,
+        "word": "现在就出发3大合影",
+        "onboard_time": 1759465040,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124972,
+        "num": 124972,
+        "word": "给气血不足的人一份回血清单",
+        "onboard_time": 1759463900,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114858,
+        "num": 114858,
+        "word": "那你睡吧四个字的意思",
+        "onboard_time": 1759472060,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113056,
+        "num": 113056,
+        "word": "山西吕梁重大火灾事故13人获刑",
+        "onboard_time": 1759471340,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49631,
+        "num": 112165,
+        "word": "成毅的腰怎么了",
+        "onboard_time": 1759473380,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57662,
+        "num": 111503,
+        "word": "白鹿一直用手护着腰",
+        "onboard_time": 1759473561,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111448,
+        "num": 111448,
+        "word": "周启豪想跟王楚钦学习",
+        "onboard_time": 1759473680,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108508,
+        "num": 108508,
+        "word": "李晟不知道苏醒是rapper",
+        "onboard_time": 1759472961,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108216,
+        "num": 108216,
+        "word": "请关闭WiFi自动连接功能",
+        "onboard_time": 1759466900,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107972,
+        "num": 107972,
+        "word": "小狗也受不了走高速",
+        "onboard_time": 1759473741,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106586,
+        "num": 106586,
+        "word": "那英现身LadyGaga演唱会",
+        "onboard_time": 1759465640,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106215,
+        "num": 106215,
+        "word": "王曼昱蒯曼速胜晋级决赛",
+        "onboard_time": 1759470441,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105267,
+        "num": 105267,
+        "word": "十一假期重庆人这么吃重庆",
+        "onboard_time": 1759473919,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105263,
+        "num": 105263,
+        "word": "王曼昱发球回抛被警告",
+        "onboard_time": 1759473980,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103206,
+        "num": 103206,
+        "word": "披荆斩棘官宣姐姐加盟",
+        "onboard_time": 1759462220,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102126,
+        "num": 102126,
+        "word": "孙颖莎王艺迪德比战太激烈",
+        "onboard_time": 1759473500,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的家国情#"
+    }
+  }
+}
