@@ -1,0 +1,410 @@
+{
+  "runTime": 1759476269373,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 497432,
+        "num": 1079589,
+        "word": "孙颖莎滑倒",
+        "onboard_time": 1759468280,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390875,
+        "num": 390875,
+        "word": "鸡排哥称还没赚到1个亿",
+        "onboard_time": 1759475001,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27942,
+        "num": 378139,
+        "word": "假期流动的是人潮更是活力",
+        "onboard_time": 1759464019,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 585414,
+        "num": 377679,
+        "word": "骨相美 皮相美",
+        "onboard_time": 1759464680,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 627115,
+        "num": 377459,
+        "word": "官方回应小米汽车突然自己开走了",
+        "onboard_time": 1759467621,
+        "rank": 4,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 375697,
+        "num": 375697,
+        "word": "全球人民都知道我们放假了",
+        "onboard_time": 1759459759,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 272772,
+        "num": 272772,
+        "word": "美国终止近80亿美元新能源项目",
+        "onboard_time": 1759473260,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250956,
+        "num": 250956,
+        "word": "炒粉老板开门发现百米长队天塌了",
+        "onboard_time": 1759472060,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178032,
+        "num": 178032,
+        "word": "王楚钦林诗栋进决赛",
+        "onboard_time": 1759473561,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171624,
+        "num": 171624,
+        "word": "英雄联盟全球总决赛",
+        "onboard_time": 1759467261,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1350014,
+        "num": 171478,
+        "word": "王诗龄G社生图",
+        "onboard_time": 1759473438,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 513768,
+        "num": 170839,
+        "word": "王楚钦说出了很多人的心声",
+        "onboard_time": 1759475121,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 503598,
+        "num": 170101,
+        "word": "姜潮单方面官宣被麦迪娜公司婉拒了",
+        "onboard_time": 1759460480,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415248,
+        "num": 169722,
+        "word": "许妍又把双眼皮贴哭掉了",
+        "onboard_time": 1759469721,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374307,
+        "num": 168924,
+        "word": "VaVa说自己分手是因为浪姐",
+        "onboard_time": 1759472241,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277151,
+        "num": 168168,
+        "word": "男子灌面汤呛死妻子案家属最新发声",
+        "onboard_time": 1759467500,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262992,
+        "num": 167906,
+        "word": "白鹿一直用手护着腰",
+        "onboard_time": 1759473561,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253774,
+        "num": 166996,
+        "word": "王楚钦说不要攻击其他运动员",
+        "onboard_time": 1759475121,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251547,
+        "num": 166784,
+        "word": "成毅的腰怎么了",
+        "onboard_time": 1759473380,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199147,
+        "num": 165875,
+        "word": "泸州音乐节警方将线上线下综合执法",
+        "onboard_time": 1759475480,
+        "rank": 19,
+        "category": "演出,民生新闻"
+      },
+      {
+        "raw_hot": 131992,
+        "num": 165798,
+        "word": "伊朗总统称伊朗别无选择必须迁都",
+        "onboard_time": 1759475001,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 241141,
+        "num": 165199,
+        "word": "女子32楼家爬满隐翅虫喷了4瓶杀虫剂",
+        "onboard_time": 1759472060,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224454,
+        "num": 164214,
+        "word": "迪丽热巴真的美成公主了",
+        "onboard_time": 1759475540,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195771,
+        "num": 163580,
+        "word": "张智霖送儿子留学机场分别落泪",
+        "onboard_time": 1759472179,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185228,
+        "num": 163496,
+        "word": "警方通报银河左岸音乐节倒卖票证",
+        "onboard_time": 1759463300,
+        "rank": 24,
+        "category": "辟谣/通报,演出"
+      },
+      {
+        "raw_hot": 177458,
+        "num": 162627,
+        "word": "男子灌面汤呛死妻子案再次延期审理",
+        "onboard_time": 1759465279,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162363,
+        "num": 162363,
+        "word": "霉霉 Charlixcx",
+        "onboard_time": 1759472720,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35840,
+        "num": 159335,
+        "word": "高德扫街榜用户超4亿",
+        "onboard_time": 1759476019,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 158459,
+        "num": 158459,
+        "word": "鸡排哥3年前还没有班味",
+        "onboard_time": 1759466600,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147663,
+        "num": 147663,
+        "word": "戒咖啡三个月身体的变化",
+        "onboard_time": 1759467861,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128879,
+        "num": 128879,
+        "word": "向往的生活",
+        "onboard_time": 1759471820,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123961,
+        "num": 123961,
+        "word": "檀健次说自己是长期主义者",
+        "onboard_time": 1759475001,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113905,
+        "num": 113905,
+        "word": "一分钟就开席的极简婚礼",
+        "onboard_time": 1759474520,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112874,
+        "num": 112874,
+        "word": "李沁被张雅琪砍价腌入味了",
+        "onboard_time": 1759474220,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106019,
+        "num": 106019,
+        "word": "景德镇努力接住鸡排哥泼天流量",
+        "onboard_time": 1759473980,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105361,
+        "num": 105361,
+        "word": "山西吕梁重大火灾事故13人获刑",
+        "onboard_time": 1759471340,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87905,
+        "num": 105267,
+        "word": "美国载近2000人豪华邮轮暴发病毒疫情",
+        "onboard_time": 1759476200,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 65790,
+        "num": 105109,
+        "word": "迪丽热巴拍照后迷路",
+        "onboard_time": 1759475059,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43248,
+        "num": 104808,
+        "word": "小酒窝看志愿军眼睛哭红了",
+        "onboard_time": 1759475780,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 902,
+        "num": 104678,
+        "word": "去澳门看丝路展一眼千年",
+        "onboard_time": 1759388541,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104576,
+        "num": 104576,
+        "word": "音乐节称不便透露坐地起价艺人名字",
+        "onboard_time": 1759454659,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42374,
+        "num": 103418,
+        "word": "当地回应浏阳烟花秀火星掉落引火灾",
+        "onboard_time": 1759475001,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105247,
+        "num": 103320,
+        "word": "王俊凯可是17岁就闪耀米兰的人",
+        "onboard_time": 1759474580,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103199,
+        "num": 103199,
+        "word": "苏新皓撑地起身这一下",
+        "onboard_time": 1759475660,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100175,
+        "num": 103022,
+        "word": "主办方披露艺人团队反水时间线",
+        "onboard_time": 1759474340,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102893,
+        "num": 102893,
+        "word": "给气血不足的人一份回血清单",
+        "onboard_time": 1759463900,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102311,
+        "num": 102311,
+        "word": "九三阅兵刺刀是开了刃的",
+        "onboard_time": 1759463361,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96528,
+        "num": 96528,
+        "word": "粉丝自费4460给鸡排哥摊位装电扇",
+        "onboard_time": 1759476140,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95231,
+        "num": 95231,
+        "word": "裸辞与在职找工作的区别",
+        "onboard_time": 1759476080,
+        "rank": 48,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 95055,
+        "num": 95055,
+        "word": "小狗也受不了走高速",
+        "onboard_time": 1759473741,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的家国情#"
+    }
+  }
+}
