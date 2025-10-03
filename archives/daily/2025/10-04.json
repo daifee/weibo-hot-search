@@ -1,6 +1,6 @@
 {
   "startTime": 1759509046450,
-  "endTime": 1759513112903,
+  "endTime": 1759516475362,
   "band_list": [
     {
       "raw_hot": 603069,
@@ -171,6 +171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 147427,
+      "num": 147427,
+      "word": "夫妻国庆开两架飞机带女儿回老家",
+      "onboard_time": 1759508540,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144223,
       "num": 116189,
       "word": "36岁每天运动1小时体态的变化",
@@ -265,14 +273,6 @@
       "onboard_time": 1759491442,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 89589,
-      "num": 89589,
-      "word": "夫妻国庆开两架飞机带女儿回老家",
-      "onboard_time": 1759508540,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82527,
@@ -411,6 +411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 53773,
+      "num": 43691,
+      "word": "范丞丞瘦了",
+      "onboard_time": 1759512856,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43778,
       "num": 58836,
       "word": "没想到我会收到阅兵观礼请柬",
@@ -427,12 +435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34668,
-      "num": 42922,
-      "word": "范丞丞瘦了",
-      "onboard_time": 1759512856,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 32678,
+      "num": 32678,
+      "word": "沈皓明 妍妍为什么不接我电话嘞",
+      "onboard_time": 1759515855,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 30163,
