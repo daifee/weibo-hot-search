@@ -1,6 +1,6 @@
 {
   "startTime": 1759422668020,
-  "endTime": 1759484316667,
+  "endTime": 1759487162776,
   "band_list": [
     {
       "raw_hot": 2744347,
@@ -27,6 +27,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1341815,
+      "num": 205317,
+      "word": "黄磊首次回应未熟豆角食物中毒争议",
+      "onboard_time": 1759485860,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1185375,
       "num": 1189660,
       "word": "全球人民都知道我们放假了",
@@ -41,6 +49,14 @@
       "onboard_time": 1759479440,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1035926,
+      "num": 1165748,
+      "word": "庞众望回应女友发布结婚登记照",
+      "onboard_time": 1759483460,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1004335,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 569407,
-      "num": 258556,
+      "num": 262634,
       "word": "梨形瘦22斤的杀伤力",
       "onboard_time": 1759482441,
       "rank": 4,
@@ -283,12 +299,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 447162,
+      "num": 204979,
+      "word": "陈小春更新两个儿子近照",
+      "onboard_time": 1759484600,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417546,
       "num": 249251,
       "word": "辛芷蕾新发型",
       "onboard_time": 1759478659,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 404928,
+      "num": 204427,
+      "word": "成毅摔倒了",
+      "onboard_time": 1759485259,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 395717,
@@ -371,6 +403,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 317764,
+      "num": 204293,
+      "word": "能不能禁止日本人画中华风",
+      "onboard_time": 1759481120,
+      "rank": 17,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 315459,
       "num": 219544,
       "word": "当我瘦了50斤奶奶的反应",
@@ -435,14 +475,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 291267,
-      "num": 138279,
-      "word": "能不能禁止日本人画中华风",
-      "onboard_time": 1759481120,
-      "rank": 17,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 287729,
       "num": 193126,
       "word": "女子32楼家爬满隐翅虫喷了4瓶杀虫剂",
@@ -483,6 +515,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 276544,
+      "num": 203594,
+      "word": "罗意威大秀",
+      "onboard_time": 1759484060,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 276382,
       "num": 276382,
       "word": "伊朗总统称伊朗别无选择必须迁都",
@@ -508,11 +548,19 @@
     },
     {
       "raw_hot": 272552,
-      "num": 166542,
+      "num": 185989,
       "word": "王一博罗意威巴黎大秀造型",
       "onboard_time": 1759480880,
       "rank": 25,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 269485,
+      "num": 269485,
+      "word": "久哲谈清清转辅",
+      "onboard_time": 1759485259,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 268353,
@@ -539,6 +587,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 261250,
+      "num": 261250,
+      "word": "景德镇文旅证实鸡排哥计划8日休息",
+      "onboard_time": 1759482800,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259783,
       "num": 259783,
       "word": "运动三个月不胖和好瘦的区别",
@@ -561,14 +617,6 @@
       "onboard_time": 1759452797,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 249734,
-      "num": 108153,
-      "word": "庞众望回应女友发布结婚登记照",
-      "onboard_time": 1759483460,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249337,
@@ -600,6 +648,14 @@
       "word": "迪丽热巴真的美成公主了",
       "onboard_time": 1759475540,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 243856,
+      "num": 202330,
+      "word": "霉霉开撕查理",
+      "onboard_time": 1759485621,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -673,6 +729,14 @@
       "onboard_time": 1759411941,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 206119,
+      "num": 206119,
+      "word": "TTG战胜TES",
+      "onboard_time": 1759485980,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 205778,
@@ -875,12 +939,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170236,
-      "num": 138253,
-      "word": "罗意威大秀",
-      "onboard_time": 1759484060,
-      "rank": 19,
-      "category": "作品衍生,时尚"
+      "raw_hot": 169682,
+      "num": 169682,
+      "word": "17岁女孩通宵熬夜致双肺全白",
+      "onboard_time": 1759485681,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169140,
@@ -913,6 +977,30 @@
       "onboard_time": 1759480399,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 160555,
+      "num": 160555,
+      "word": "伯远",
+      "onboard_time": 1759484840,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 159216,
+      "num": 159216,
+      "word": "陈都灵巴黎街拍",
+      "onboard_time": 1759485802,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 157835,
+      "num": 157835,
+      "word": "王逗逗婚礼",
+      "onboard_time": 1759484961,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 156950,
@@ -1067,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135945,
+      "num": 135945,
+      "word": "95花还能大洗牌吗",
+      "onboard_time": 1759482201,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134589,
       "num": 134589,
       "word": "李菲儿美得好有生命力",
@@ -1153,6 +1249,14 @@
       "onboard_time": 1759466180,
       "rank": 35,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 123905,
+      "num": 123905,
+      "word": "阿那亚偶遇杨洋了",
+      "onboard_time": 1759484901,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 122708,
@@ -1371,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108906,
+      "num": 108906,
+      "word": "主办方披露艺人团队反水时间线",
+      "onboard_time": 1759474340,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108107,
       "num": 108107,
       "word": "辛芷蕾我来之前人家告诉我别吃豆角",
@@ -1443,6 +1555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 105939,
+      "num": 105939,
+      "word": "艺人坐地起价争议关键在合同合意",
+      "onboard_time": 1759486941,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 105376,
       "num": 105376,
       "word": "导播真的太牛了配享太庙",
@@ -1505,6 +1625,14 @@
       "onboard_time": 1759481600,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104695,
+      "num": 104695,
+      "word": "0713登陆少年七脸懵",
+      "onboard_time": 1759485081,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 104546,
@@ -1595,28 +1723,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100175,
-      "num": 103022,
-      "word": "主办方披露艺人团队反水时间线",
-      "onboard_time": 1759474340,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 100057,
       "num": 100057,
       "word": "27岁住上了养老院",
       "onboard_time": 1759481000,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 99851,
-      "num": 99851,
-      "word": "景德镇文旅证实鸡排哥计划8日休息",
-      "onboard_time": 1759482800,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99644,
@@ -1649,6 +1761,14 @@
       "onboard_time": 1759473139,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 97729,
+      "num": 97729,
+      "word": "马吟吟演了罗予彤试戏淘汰的角色",
+      "onboard_time": 1759486639,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 96869,
@@ -1689,14 +1809,6 @@
       "onboard_time": 1759412241,
       "rank": 27,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 96145,
-      "num": 96145,
-      "word": "95花还能大洗牌吗",
-      "onboard_time": 1759482201,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 95231,
@@ -1835,6 +1947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 87433,
+      "num": 87433,
+      "word": "空姐传来的小纸条",
+      "onboard_time": 1759483759,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87407,
       "num": 87407,
       "word": "一笑随歌热度",
@@ -1875,6 +1995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86233,
+      "num": 85659,
+      "word": "李承铉这段舞蹈报备戚薇了吗",
+      "onboard_time": 1759487120,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85527,
       "num": 85527,
       "word": "华晨宇火星乌托邦",
@@ -1891,12 +2019,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85294,
+      "num": 87047,
+      "word": "方力申老婆因缺铁住院",
+      "onboard_time": 1759485681,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 85175,
+      "num": 85175,
+      "word": "2025最后仨月考试日历",
+      "onboard_time": 1759485860,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 84574,
       "num": 84574,
       "word": "老师查手机一查都是备用机",
       "onboard_time": 1759463120,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84367,
+      "num": 85329,
+      "word": "蔡文静戴的耳坠比鸡蛋还大",
+      "onboard_time": 1759484660,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 83946,
@@ -2107,6 +2259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66996,
+      "num": 202997,
+      "word": "00后学霸刷飞猪图鉴做旅行计划",
+      "onboard_time": 1759485921,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 66977,
       "num": 85463,
       "word": "王楚钦说精力体力已经到了极限",
@@ -2116,7 +2276,7 @@
     },
     {
       "raw_hot": 66004,
-      "num": 258564,
+      "num": 262823,
       "word": "平凡的劳动者凭什么火出圈",
       "onboard_time": 1759458920,
       "rank": 45,
@@ -2395,6 +2555,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 40026,
+      "num": 99902,
+      "word": "国庆接待亲友 AA制",
+      "onboard_time": 1759486041,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39249,
       "num": 94749,
       "word": "以色列称已阻止所有全球坚韧船队",
@@ -2553,6 +2721,14 @@
       "onboard_time": 1759426876,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13631,
+      "num": 99036,
+      "word": "孙颖莎小小的身躯大大的能量",
+      "onboard_time": 1759486881,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 13419,

@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759484316667,
+  "endTime": 1759487162776,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -155,6 +155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1341815,
+      "num": 205317,
+      "word": "黄磊首次回应未熟豆角食物中毒争议",
+      "onboard_time": 1759485860,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1325596,
       "num": 239360,
       "word": "迪奥大秀",
@@ -257,6 +265,14 @@
       "onboard_time": 1759317620,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1035926,
+      "num": 1165748,
+      "word": "庞众望回应女友发布结婚登记照",
+      "onboard_time": 1759483460,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1028081,
@@ -884,7 +900,7 @@
     },
     {
       "raw_hot": 569407,
-      "num": 258556,
+      "num": 262634,
       "word": "梨形瘦22斤的杀伤力",
       "onboard_time": 1759482441,
       "rank": 4,
@@ -1187,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 447162,
+      "num": 204979,
+      "word": "陈小春更新两个儿子近照",
+      "onboard_time": 1759484600,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446686,
       "num": 194651,
       "word": "专家建议鸡排哥不要用大豆油",
@@ -1305,6 +1329,14 @@
       "onboard_time": 1759243462,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 404928,
+      "num": 204427,
+      "word": "成毅摔倒了",
+      "onboard_time": 1759485259,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 396129,
@@ -1691,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317764,
+      "num": 204293,
+      "word": "能不能禁止日本人画中华风",
+      "onboard_time": 1759481120,
+      "rank": 17,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 315459,
       "num": 219544,
       "word": "当我瘦了50斤奶奶的反应",
@@ -1803,14 +1843,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 291267,
-      "num": 138279,
-      "word": "能不能禁止日本人画中华风",
-      "onboard_time": 1759481120,
-      "rank": 17,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 290364,
       "num": 222313,
       "word": "王菊怎么瘦成这样了",
@@ -1907,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276544,
+      "num": 203594,
+      "word": "罗意威大秀",
+      "onboard_time": 1759484060,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 276382,
       "num": 276382,
       "word": "伊朗总统称伊朗别无选择必须迁都",
@@ -1932,7 +1972,7 @@
     },
     {
       "raw_hot": 272552,
-      "num": 166542,
+      "num": 185989,
       "word": "王一博罗意威巴黎大秀造型",
       "onboard_time": 1759480880,
       "rank": 25,
@@ -1961,6 +2001,14 @@
       "onboard_time": 1759368199,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 269485,
+      "num": 269485,
+      "word": "久哲谈清清转辅",
+      "onboard_time": 1759485259,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 268522,
@@ -2043,6 +2091,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 261250,
+      "num": 261250,
+      "word": "景德镇文旅证实鸡排哥计划8日休息",
+      "onboard_time": 1759482800,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259783,
       "num": 259783,
       "word": "运动三个月不胖和好瘦的区别",
@@ -2115,14 +2171,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 249734,
-      "num": 108153,
-      "word": "庞众望回应女友发布结婚登记照",
-      "onboard_time": 1759483460,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 249337,
       "num": 205481,
       "word": "庞众望和女友拍领证照了",
@@ -2185,6 +2233,14 @@
       "onboard_time": 1759305200,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 243856,
+      "num": 202330,
+      "word": "霉霉开撕查理",
+      "onboard_time": 1759485621,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 242417,
@@ -2585,6 +2641,14 @@
       "onboard_time": 1759329082,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 206119,
+      "num": 206119,
+      "word": "TTG战胜TES",
+      "onboard_time": 1759485980,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 205954,
@@ -3219,20 +3283,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 170236,
-      "num": 138253,
-      "word": "罗意威大秀",
-      "onboard_time": 1759484060,
-      "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 170060,
       "num": 170060,
       "word": "陈伟霆 老钱",
       "onboard_time": 1759373959,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169682,
+      "num": 169682,
+      "word": "17岁女孩通宵熬夜致双肺全白",
+      "onboard_time": 1759485681,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169365,
@@ -3499,12 +3563,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 160555,
+      "num": 160555,
+      "word": "伯远",
+      "onboard_time": 1759484840,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159548,
       "num": 156115,
       "word": "陈俊菘回应首进大满贯八强",
       "onboard_time": 1759414222,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159216,
+      "num": 159216,
+      "word": "陈都灵巴黎街拍",
+      "onboard_time": 1759485802,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 159064,
@@ -3537,6 +3617,14 @@
       "onboard_time": 1759295959,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157835,
+      "num": 157835,
+      "word": "王逗逗婚礼",
+      "onboard_time": 1759484961,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 157402,
@@ -4243,6 +4331,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 135945,
+      "num": 135945,
+      "word": "95花还能大洗牌吗",
+      "onboard_time": 1759482201,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135796,
       "num": 135796,
       "word": "吴邪私家笔记2立项了",
@@ -4713,6 +4809,14 @@
       "onboard_time": 1759322542,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123905,
+      "num": 123905,
+      "word": "阿那亚偶遇杨洋了",
+      "onboard_time": 1759484901,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 123678,
@@ -5475,6 +5579,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 108906,
+      "num": 108906,
+      "word": "主办方披露艺人团队反水时间线",
+      "onboard_time": 1759474340,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 108828,
       "num": 108828,
       "word": "丁禹兮是教科书级别的自救",
@@ -5707,6 +5819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 105939,
+      "num": 105939,
+      "word": "艺人坐地起价争议关键在合同合意",
+      "onboard_time": 1759486941,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 105906,
       "num": 105906,
       "word": "全红婵发跳水动态",
@@ -5817,6 +5937,14 @@
       "onboard_time": 1759481600,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104695,
+      "num": 104695,
+      "word": "0713登陆少年七脸懵",
+      "onboard_time": 1759485081,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 104546,
@@ -6091,28 +6219,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 100175,
-      "num": 103022,
-      "word": "主办方披露艺人团队反水时间线",
-      "onboard_time": 1759474340,
-      "rank": 44,
-      "category": "演出"
-    },
-    {
       "raw_hot": 100057,
       "num": 100057,
       "word": "27岁住上了养老院",
       "onboard_time": 1759481000,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 99851,
-      "num": 99851,
-      "word": "景德镇文旅证实鸡排哥计划8日休息",
-      "onboard_time": 1759482800,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99644,
@@ -6243,6 +6355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97729,
+      "num": 97729,
+      "word": "马吟吟演了罗予彤试戏淘汰的角色",
+      "onboard_time": 1759486639,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97317,
       "num": 97317,
       "word": "杨羚蔚瞒着父母参加offer7",
@@ -6345,14 +6465,6 @@
       "onboard_time": 1759307840,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 96145,
-      "num": 96145,
-      "word": "95花还能大洗牌吗",
-      "onboard_time": 1759482201,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 96068,
@@ -6859,6 +6971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87433,
+      "num": 87433,
+      "word": "空姐传来的小纸条",
+      "onboard_time": 1759483759,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87348,
       "num": 87348,
       "word": "檀健次我记得我在法国啊",
@@ -6955,6 +7075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86233,
+      "num": 85659,
+      "word": "李承铉这段舞蹈报备戚薇了吗",
+      "onboard_time": 1759487120,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86226,
       "num": 86226,
       "word": "王俊凯NBA名人赛C位海报",
@@ -7035,6 +7163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85294,
+      "num": 87047,
+      "word": "方力申老婆因缺铁住院",
+      "onboard_time": 1759485681,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85268,
       "num": 85268,
       "word": "王力宏鹿晗 演唱会循环",
@@ -7049,6 +7185,14 @@
       "onboard_time": 1759401620,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85175,
+      "num": 85175,
+      "word": "2025最后仨月考试日历",
+      "onboard_time": 1759485860,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 85123,
@@ -7113,6 +7257,14 @@
       "onboard_time": 1759463120,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84367,
+      "num": 85329,
+      "word": "蔡文静戴的耳坠比鸡蛋还大",
+      "onboard_time": 1759484660,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 84351,
@@ -7939,6 +8091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66996,
+      "num": 202997,
+      "word": "00后学霸刷飞猪图鉴做旅行计划",
+      "onboard_time": 1759485921,
+      "rank": 19,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 66788,
       "num": 117086,
       "word": "谁懂一人有难全家出动的含金量",
@@ -7948,7 +8108,7 @@
     },
     {
       "raw_hot": 66004,
-      "num": 258564,
+      "num": 262823,
       "word": "平凡的劳动者凭什么火出圈",
       "onboard_time": 1759458920,
       "rank": 45,
@@ -8627,6 +8787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 40026,
+      "num": 99902,
+      "word": "国庆接待亲友 AA制",
+      "onboard_time": 1759486041,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39249,
       "num": 94749,
       "word": "以色列称已阻止所有全球坚韧船队",
@@ -9185,6 +9353,14 @@
       "onboard_time": 1759268054,
       "rank": 45,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 13631,
+      "num": 99036,
+      "word": "孙颖莎小小的身躯大大的能量",
+      "onboard_time": 1759486881,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 13419,
