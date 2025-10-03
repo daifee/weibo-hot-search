@@ -1,7 +1,23 @@
 {
   "startTime": 1759422668020,
-  "endTime": 1759448187459,
+  "endTime": 1759456095179,
   "band_list": [
+    {
+      "raw_hot": 994334,
+      "num": 1159093,
+      "word": "普京回击特朗普",
+      "onboard_time": 1759451599,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 715109,
+      "num": 147151,
+      "word": "陈赫一家四口瑞士度假",
+      "onboard_time": 1759447757,
+      "rank": 30,
+      "category": "艺人"
+    },
     {
       "raw_hot": 710844,
       "num": 233224,
@@ -51,6 +67,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 520344,
+      "num": 520344,
+      "word": "女子电话得知车被狗啃以为是诈骗",
+      "onboard_time": 1759449258,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 499464,
+      "num": 119636,
+      "word": "导致视力下降的真实原因",
+      "onboard_time": 1759447277,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 448721,
       "num": 217058,
       "word": "许妍卸妆",
@@ -59,11 +91,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419891,
+      "num": 140669,
+      "word": "迪丽热巴张馨予巴黎街头聚餐",
+      "onboard_time": 1759454659,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 393384,
+      "num": 393384,
+      "word": "车被黑狗啃到面目全非",
+      "onboard_time": 1759451599,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 383708,
       "num": 383708,
       "word": "泰山山顶宾馆提供99元坐席可过夜",
       "onboard_time": 1759417042,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 371570,
+      "num": 371570,
+      "word": "有网友3年前预测鸡排哥将成顶流",
+      "onboard_time": 1759450999,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -91,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268353,
+      "num": 139221,
+      "word": "朱志鑫来公司洗了个头",
+      "onboard_time": 1759452620,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264482,
       "num": 215158,
       "word": "陈赫问张子萱需不需要打码",
@@ -99,8 +163,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259783,
+      "num": 259783,
+      "word": "运动三个月不胖和好瘦的区别",
+      "onboard_time": 1759448117,
+      "rank": 15,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 248880,
-      "num": 104119,
+      "num": 123646,
       "word": "李纯马頔回复王菊",
       "onboard_time": 1759421301,
       "rank": 28,
@@ -140,11 +212,19 @@
     },
     {
       "raw_hot": 201279,
-      "num": 86884,
+      "num": 96268,
       "word": "英皇欠钱的最大受益人",
       "onboard_time": 1759438574,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199375,
+      "num": 133190,
+      "word": "宋亚轩 敬山水",
+      "onboard_time": 1759449497,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 187153,
@@ -155,12 +235,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186314,
+      "num": 186314,
+      "word": "普京回应特朗普称俄为纸老虎",
+      "onboard_time": 1759452797,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 175200,
+      "num": 126274,
+      "word": "一晚上偶遇三次鹿晗",
+      "onboard_time": 1759448238,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171198,
-      "num": 86174,
+      "num": 96854,
       "word": "导演看了花少5才选择了王安宇",
       "onboard_time": 1759446738,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170616,
+      "num": 117013,
+      "word": "陈伟霆的评论区人均梗王",
+      "onboard_time": 1759453038,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159897,
+      "num": 121882,
+      "word": "音乐节称不便透露坐地起价艺人名字",
+      "onboard_time": 1759454659,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 151247,
@@ -169,6 +281,14 @@
       "onboard_time": 1759407442,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148650,
+      "num": 148650,
+      "word": "东北虎二埋汰穿西装迎客",
+      "onboard_time": 1759448418,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143654,
@@ -203,14 +323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119636,
-      "num": 119636,
-      "word": "导致视力下降的真实原因",
-      "onboard_time": 1759447277,
-      "rank": 25,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 114162,
       "num": 240977,
       "word": "我驻韩使馆就反华游行表明严正立场",
@@ -219,12 +331,60 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111661,
+      "num": 111661,
+      "word": "许妍又哭成被父母抛弃的模样",
+      "onboard_time": 1759449918,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 109902,
+      "num": 109902,
+      "word": "鸡排哥为不辜负网友热情营业到深夜",
+      "onboard_time": 1759453398,
+      "rank": 24,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 109779,
+      "num": 109779,
+      "word": "李纯说马頔哪哪都是加分项",
+      "onboard_time": 1759454539,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109450,
+      "num": 109450,
+      "word": "2026世界杯官方用球发布",
+      "onboard_time": 1759453218,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105376,
+      "num": 105376,
+      "word": "导播真的太牛了配享太庙",
+      "onboard_time": 1759450519,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105306,
       "num": 105306,
       "word": "孙颖莎说和大头想打好的决心一致",
       "onboard_time": 1759419502,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104873,
+      "num": 104873,
+      "word": "双休7千单休9千怎么选",
+      "onboard_time": 1759439174,
+      "rank": 48,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 103342,
@@ -251,6 +411,22 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 94546,
+      "num": 94546,
+      "word": "戚薇g社镜头",
+      "onboard_time": 1759449197,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 94025,
+      "num": 94025,
+      "word": "王俊凯小说男主身材比例",
+      "onboard_time": 1759447338,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93852,
       "num": 235253,
       "word": "中国驻韩国大使馆严正发声",
@@ -273,6 +449,14 @@
       "onboard_time": 1759404802,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92319,
+      "num": 92319,
+      "word": "北方当心冷暖大反转",
+      "onboard_time": 1759451599,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89692,
@@ -307,12 +491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79458,
-      "num": 54897,
-      "word": "陈赫一家四口瑞士度假",
-      "onboard_time": 1759447757,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 80516,
+      "num": 80516,
+      "word": "兔狲这种动物不要太好玩了",
+      "onboard_time": 1759455859,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 77888,
@@ -331,12 +515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75845,
+      "num": 75845,
+      "word": "美被曝将首次协助乌对俄纵深打击",
+      "onboard_time": 1759451659,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 75406,
       "num": 75406,
       "word": "于适稳稳地帮六公主完美救场",
       "onboard_time": 1759440974,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75025,
+      "num": 75025,
+      "word": "菲律宾地震68人死亡",
+      "onboard_time": 1759454599,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 73516,
@@ -379,12 +579,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 68896,
-      "num": 68896,
-      "word": "双休7千单休9千怎么选",
-      "onboard_time": 1759439174,
-      "rank": 48,
-      "category": "情感,休闲"
+      "raw_hot": 68071,
+      "num": 68071,
+      "word": "中国维和官兵被授予联合国和平勋章",
+      "onboard_time": 1759454119,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 67636,
@@ -403,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65016,
+      "num": 65016,
+      "word": "普京称扣押运俄油油轮或引发冲突",
+      "onboard_time": 1759453159,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64336,
       "num": 85458,
       "word": "蔡徐坤全球首穿含金量",
@@ -417,6 +625,14 @@
       "onboard_time": 1759419560,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61631,
+      "num": 61631,
+      "word": "王曼昱回应被称日乒叹息之墙",
+      "onboard_time": 1759455979,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 61161,
@@ -435,12 +651,12 @@
       "category": "海外新闻,财经"
     },
     {
-      "raw_hot": 59111,
-      "num": 86994,
-      "word": "运动三个月不胖和好瘦的区别",
-      "onboard_time": 1759448117,
-      "rank": 15,
-      "category": "运动健身"
+      "raw_hot": 59915,
+      "num": 59915,
+      "word": "女兵写请战书驾驶歼16",
+      "onboard_time": 1759448418,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59010,
@@ -481,6 +697,22 @@
       "onboard_time": 1759419920,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 57215,
+      "num": 57215,
+      "word": "王楚钦孙颖莎冲击混双冠军",
+      "onboard_time": 1759453579,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 56924,
+      "num": 56924,
+      "word": "清空聊天记录和消除记忆没什么区别",
+      "onboard_time": 1759455799,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 56792,
@@ -531,14 +763,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 37989,
-      "num": 40261,
-      "word": "王俊凯小说男主身材比例",
-      "onboard_time": 1759447338,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 34636,
       "num": 72227,
       "word": "大三学生练成火箭军排面担当",
@@ -547,20 +771,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31945,
+      "num": 419585,
+      "word": "国庆中秋假期游玩好去处",
+      "onboard_time": 1759414222,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31837,
       "num": 71670,
       "word": "张艺兴林俊杰合唱为你揭晓",
       "onboard_time": 1759425197,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31635,
-      "num": 358035,
-      "word": "国庆中秋假期游玩好去处",
-      "onboard_time": 1759414222,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26291,
