@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759465738077,
+  "endTime": 1759466511072,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1364560,
-      "num": 173754,
+      "num": 217536,
       "word": "姜潮单方面官宣被麦迪娜公司婉拒了",
       "onboard_time": 1759460480,
       "rank": 49,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 714651,
-      "num": 197318,
+      "num": 216722,
       "word": "迪丽热巴张馨予巴黎街头聚餐",
       "onboard_time": 1759454659,
       "rank": 12,
@@ -731,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 597428,
+      "num": 217255,
+      "word": "唐香玉官宣上恋综",
+      "onboard_time": 1759464321,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 594508,
       "num": 594508,
       "word": "英雄联盟",
@@ -772,7 +780,7 @@
     },
     {
       "raw_hot": 582181,
-      "num": 194491,
+      "num": 196622,
       "word": "音乐节称不便透露坐地起价艺人名字",
       "onboard_time": 1759454659,
       "rank": 19,
@@ -841,14 +849,6 @@
       "onboard_time": 1759377320,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 541688,
-      "num": 173550,
-      "word": "唐香玉官宣上恋综",
-      "onboard_time": 1759464321,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 540093,
@@ -988,7 +988,7 @@
     },
     {
       "raw_hot": 484633,
-      "num": 173130,
+      "num": 216620,
       "word": "披荆斩棘官宣姐姐加盟",
       "onboard_time": 1759462220,
       "rank": 20,
@@ -1083,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 441445,
+      "num": 441445,
+      "word": "骨相美 皮相美",
+      "onboard_time": 1759464680,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 434111,
       "num": 219995,
       "word": "Dior连发4条迪丽热巴",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1759243522,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 426544,
+      "num": 426544,
+      "word": "孙颖莎vs王艺迪",
+      "onboard_time": 1759463721,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 417008,
@@ -1284,7 +1300,7 @@
     },
     {
       "raw_hot": 369037,
-      "num": 173046,
+      "num": 214591,
       "word": "真夫妻kisskiss假夫妻killkill",
       "onboard_time": 1759461499,
       "rank": 18,
@@ -1353,14 +1369,6 @@
       "onboard_time": 1759372039,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 351019,
-      "num": 351019,
-      "word": "孙颖莎vs王艺迪",
-      "onboard_time": 1759463721,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 350271,
@@ -1571,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299617,
+      "num": 299617,
+      "word": "什么东西是早买早享受的",
+      "onboard_time": 1759461019,
+      "rank": 48,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 299035,
       "num": 172642,
       "word": "迪丽热巴入选美版VOGUE最佳街拍",
@@ -1609,6 +1625,22 @@
       "onboard_time": 1759403001,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292488,
+      "num": 216012,
+      "word": "男子灌面汤呛死妻子案再次延期审理",
+      "onboard_time": 1759465279,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292362,
+      "num": 215602,
+      "word": "G社拍的王俊凯巴黎看秀生图",
+      "onboard_time": 1759461440,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 290364,
@@ -1657,14 +1689,6 @@
       "onboard_time": 1759394240,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 282572,
-      "num": 282572,
-      "word": "什么东西是早买早享受的",
-      "onboard_time": 1759461019,
-      "rank": 48,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 282116,
@@ -1779,20 +1803,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 261887,
+      "num": 215336,
+      "word": "霉霉新专",
+      "onboard_time": 1759465099,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 259783,
       "num": 259783,
       "word": "运动三个月不胖和好瘦的区别",
       "onboard_time": 1759448117,
       "rank": 15,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 258451,
-      "num": 172571,
-      "word": "G社拍的王俊凯巴黎看秀生图",
-      "onboard_time": 1759461440,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 257808,
@@ -1908,7 +1932,7 @@
     },
     {
       "raw_hot": 242155,
-      "num": 171793,
+      "num": 202212,
       "word": "戚薇被问蔡徐坤帅吗",
       "onboard_time": 1759464321,
       "rank": 20,
@@ -2012,7 +2036,7 @@
     },
     {
       "raw_hot": 232006,
-      "num": 171658,
+      "num": 201336,
       "word": "长期过度焦虑的真实表现",
       "onboard_time": 1759461499,
       "rank": 31,
@@ -2049,14 +2073,6 @@
       "onboard_time": 1759396341,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 228514,
-      "num": 171205,
-      "word": "骨相美 皮相美",
-      "onboard_time": 1759464680,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 227681,
@@ -2131,6 +2147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 221739,
+      "num": 213435,
+      "word": "万达电影 恋与深空",
+      "onboard_time": 1759465400,
+      "rank": 24,
+      "category": "电影,游戏"
+    },
+    {
       "raw_hot": 220205,
       "num": 220205,
       "word": "鸡排哥最大受益者 正新鸡排",
@@ -2203,12 +2227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213469,
-      "num": 171021,
-      "word": "万达电影 恋与深空",
-      "onboard_time": 1759465400,
-      "rank": 24,
-      "category": "电影,游戏"
+      "raw_hot": 212901,
+      "num": 212901,
+      "word": "当我瘦了50斤奶奶的反应",
+      "onboard_time": 1759464920,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 212866,
@@ -2243,28 +2267,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 210282,
-      "num": 170772,
-      "word": "霉霉新专",
-      "onboard_time": 1759465099,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 208529,
       "num": 153923,
       "word": "李晟生日没有感动全是尴尬",
       "onboard_time": 1759386380,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208134,
-      "num": 169633,
-      "word": "当我瘦了50斤奶奶的反应",
-      "onboard_time": 1759464920,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 207812,
@@ -2316,7 +2324,7 @@
     },
     {
       "raw_hot": 205413,
-      "num": 205413,
+      "num": 218403,
       "word": "邵东地震",
       "onboard_time": 1759459998,
       "rank": 9,
@@ -2564,7 +2572,7 @@
     },
     {
       "raw_hot": 191463,
-      "num": 169357,
+      "num": 174920,
       "word": "邝玲玲晒与迪丽热巴orm合照",
       "onboard_time": 1759464680,
       "rank": 32,
@@ -2667,6 +2675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182976,
+      "num": 182976,
+      "word": "演员于娜近况",
+      "onboard_time": 1759465459,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182826,
       "num": 171091,
       "word": "iPhone11ProMax被列为复古产品",
@@ -2729,6 +2745,14 @@
       "onboard_time": 1759397180,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179501,
+      "num": 179501,
+      "word": "那英现身LadyGaga演唱会",
+      "onboard_time": 1759465640,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 179113,
@@ -3588,7 +3612,7 @@
     },
     {
       "raw_hot": 140615,
-      "num": 170611,
+      "num": 201120,
       "word": "九三阅兵大量训练画面首次公开",
       "onboard_time": 1759464079,
       "rank": 26,
@@ -3731,6 +3755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136709,
+      "num": 200051,
+      "word": "一把家钥匙是他们对团圆的守望",
+      "onboard_time": 1759466061,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136667,
       "num": 136667,
       "word": "郑州方特回应跳楼机高空载客悬停",
@@ -3753,14 +3785,6 @@
       "onboard_time": 1759310601,
       "rank": 32,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 136147,
-      "num": 136147,
-      "word": "演员于娜近况",
-      "onboard_time": 1759465459,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 135796,
@@ -3817,6 +3841,14 @@
       "onboard_time": 1759373358,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134589,
+      "num": 134589,
+      "word": "李菲儿美得好有生命力",
+      "onboard_time": 1759465820,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 133737,
@@ -3937,6 +3969,14 @@
       "onboard_time": 1759378041,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130947,
+      "num": 199355,
+      "word": "九三阅兵刺刀是开了刃的",
+      "onboard_time": 1759463361,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 130727,
@@ -4137,6 +4177,14 @@
       "onboard_time": 1759244062,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124761,
+      "num": 167646,
+      "word": "湖南邵阳3.7级地震",
+      "onboard_time": 1759466180,
+      "rank": 35,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 124721,
@@ -4380,7 +4428,7 @@
     },
     {
       "raw_hot": 117696,
-      "num": 171900,
+      "num": 213753,
       "word": "年轻人主打躺平式本地游",
       "onboard_time": 1759464440,
       "rank": 19,
@@ -4473,6 +4521,14 @@
       "onboard_time": 1759326681,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115220,
+      "num": 115220,
+      "word": "喜人奇妙夜2",
+      "onboard_time": 1759466000,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 114457,
@@ -4569,14 +4625,6 @@
       "onboard_time": 1759373479,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112800,
-      "num": 112800,
-      "word": "那英现身LadyGaga演唱会",
-      "onboard_time": 1759465640,
-      "rank": 44,
-      "category": "演出"
     },
     {
       "raw_hot": 112760,
@@ -5396,7 +5444,7 @@
     },
     {
       "raw_hot": 96869,
-      "num": 170247,
+      "num": 198460,
       "word": "每个人心里都有一个32楼",
       "onboard_time": 1759465520,
       "rank": 28,
@@ -5561,14 +5609,6 @@
       "onboard_time": 1759447338,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93980,
-      "num": 172149,
-      "word": "男子灌面汤呛死妻子案再次延期审理",
-      "onboard_time": 1759465279,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93967,
@@ -5777,6 +5817,14 @@
       "onboard_time": 1759383681,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89965,
+      "num": 103497,
+      "word": "国庆假期第3天",
+      "onboard_time": 1759463480,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89869,
@@ -7148,7 +7196,7 @@
     },
     {
       "raw_hot": 58217,
-      "num": 172787,
+      "num": 214405,
       "word": "十一沪签三件套",
       "onboard_time": 1759464619,
       "rank": 15,
@@ -7220,7 +7268,7 @@
     },
     {
       "raw_hot": 56357,
-      "num": 170039,
+      "num": 197237,
       "word": "在旅游中才懂历史真的可以触摸",
       "onboard_time": 1759464859,
       "rank": 29,
@@ -7627,12 +7675,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 36295,
+      "num": 158281,
+      "word": "景区保安高举走丢小狗找主人",
+      "onboard_time": 1759466061,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36293,
       "num": 151273,
       "word": "刺杀小说家2双向穿越双向救赎",
       "onboard_time": 1759293560,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 35699,
+      "num": 158519,
+      "word": "小伙嫌教练推销太烦花钱买课",
+      "onboard_time": 1759465941,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35334,
@@ -7660,7 +7724,7 @@
     },
     {
       "raw_hot": 34357,
-      "num": 424857,
+      "num": 459496,
       "word": "假期流动的是人潮更是活力",
       "onboard_time": 1759464019,
       "rank": 2,
@@ -7881,6 +7945,14 @@
       "onboard_time": 1759360457,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24745,
+      "num": 158246,
+      "word": "园方回应两车追逐表演时相撞",
+      "onboard_time": 1759465941,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24335,
