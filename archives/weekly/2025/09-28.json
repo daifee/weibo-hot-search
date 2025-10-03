@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759523258072,
+  "endTime": 1759524019817,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -20819,20 +20819,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22198,
+      "num": 22198,
+      "word": "老板还没意识到这是他最清闲的时刻",
+      "onboard_time": 1759519274,
+      "rank": 42,
+      "category": "民生新闻,幽默"
+    },
+    {
       "raw_hot": 22042,
       "num": 25923,
       "word": "唱坠入的是汪苏泷真坠入的是我",
       "onboard_time": 1759088054,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 21954,
-      "num": 21954,
-      "word": "老板还没意识到这是他最清闲的时刻",
-      "onboard_time": 1759519274,
-      "rank": 42,
-      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 21882,
