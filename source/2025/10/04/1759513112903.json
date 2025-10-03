@@ -1,0 +1,402 @@
+{
+  "runTime": 1759513112903,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 505268,
+        "num": 505268,
+        "word": "顾客为合影将鸡排哥堵在墙角",
+        "onboard_time": 1759506859,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423476,
+        "num": 423476,
+        "word": "著名景点张继科落水处",
+        "onboard_time": 1759505961,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188224,
+        "num": 188224,
+        "word": "肯德基保密54年的炸鸡配方将被公开",
+        "onboard_time": 1759494261,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125510,
+        "num": 125510,
+        "word": "731毒气实验室玩具已下架",
+        "onboard_time": 1759496541,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 112462,
+        "num": 112462,
+        "word": "下馆子后特别渴的原因",
+        "onboard_time": 1759501762,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104594,
+        "num": 104594,
+        "word": "小米公司发言人回应",
+        "onboard_time": 1759502424,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 89589,
+        "num": 89589,
+        "word": "夫妻国庆开两架飞机带女儿回老家",
+        "onboard_time": 1759508540,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86544,
+        "num": 86544,
+        "word": "王楚钦孙颖莎混双冠军",
+        "onboard_time": 1759498822,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54476,
+        "num": 86453,
+        "word": "美驻华使领馆官号宣布停更",
+        "onboard_time": 1759496541,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255424,
+        "num": 86237,
+        "word": "黄磊首次回应未熟豆角食物中毒争议",
+        "onboard_time": 1759485860,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188087,
+        "num": 86086,
+        "word": "当地回应新郎在结婚当天跳河",
+        "onboard_time": 1759502182,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157499,
+        "num": 86038,
+        "word": "现象级爆剧救活了一项非遗文化",
+        "onboard_time": 1759498523,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130119,
+        "num": 85844,
+        "word": "树莓 摄哥",
+        "onboard_time": 1759487900,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 128701,
+        "num": 85623,
+        "word": "董璇说男人分手很快会找到下一个",
+        "onboard_time": 1759496902,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124951,
+        "num": 85460,
+        "word": "娜扎经纪人你是真的火了",
+        "onboard_time": 1759489400,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124469,
+        "num": 85347,
+        "word": "许我耀眼热度",
+        "onboard_time": 1759494742,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120183,
+        "num": 85177,
+        "word": "李一桐不要老叫我妈妈",
+        "onboard_time": 1759504762,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117872,
+        "num": 85006,
+        "word": "李纯马頔不是一时好是真的一直好",
+        "onboard_time": 1759499662,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108326,
+        "num": 84985,
+        "word": "王一博丽芙泰勒同框合照",
+        "onboard_time": 1759509738,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177478,
+        "num": 84743,
+        "word": "美媒关注鸡排哥",
+        "onboard_time": 1759504402,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102349,
+        "num": 84596,
+        "word": "关晓彤说独自相处要拥抱变化",
+        "onboard_time": 1759496961,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97898,
+        "num": 84400,
+        "word": "36岁每天运动1小时体态的变化",
+        "onboard_time": 1759507220,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 84369,
+        "num": 84369,
+        "word": "微信转账后记得加一个动作",
+        "onboard_time": 1759495400,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 75355,
+        "num": 75355,
+        "word": "王一博演我i人社交",
+        "onboard_time": 1759509499,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68295,
+        "num": 68295,
+        "word": "易瘦体质都是怎样无意识养成的",
+        "onboard_time": 1759507880,
+        "rank": 25,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 66250,
+        "num": 66250,
+        "word": "台湾游客因未购物遭韩国导游狂骂",
+        "onboard_time": 1759500923,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 57200,
+        "num": 57200,
+        "word": "安康一新郎在结婚当天跳河",
+        "onboard_time": 1759507160,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53771,
+        "num": 53771,
+        "word": "普京称某国准备进行核试验",
+        "onboard_time": 1759491442,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40449,
+        "num": 53523,
+        "word": "没想到我会收到阅兵观礼请柬",
+        "onboard_time": 1759509919,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53509,
+        "num": 53509,
+        "word": "65岁惠英红G社生图",
+        "onboard_time": 1759506680,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 50483,
+        "num": 50483,
+        "word": "女子订婚前帮闺蜜染发手被染成蓝色",
+        "onboard_time": 1759499543,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47841,
+        "num": 47841,
+        "word": "养脖子半年像换了一个人",
+        "onboard_time": 1759493901,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47432,
+        "num": 47432,
+        "word": "蔡徐坤支持毕正明的证明",
+        "onboard_time": 1759503981,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45318,
+        "num": 45318,
+        "word": "许我耀眼21集预告笑得我发抖",
+        "onboard_time": 1759489282,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43065,
+        "num": 43065,
+        "word": "莎头夺冠后王楚钦说赛前没有想到",
+        "onboard_time": 1759505900,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42942,
+        "num": 42942,
+        "word": "肖战射雕英雄传实时收视率破2",
+        "onboard_time": 1759502902,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40965,
+        "num": 42941,
+        "word": "杨洋蒋梦婕宝黛cp同游",
+        "onboard_time": 1759505122,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39494,
+        "num": 42937,
+        "word": "女子减肥打针后身体烂57个洞",
+        "onboard_time": 1759494322,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38403,
+        "num": 42935,
+        "word": "AAA建材沈总离婚之我要当榜一大哥",
+        "onboard_time": 1759500862,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35570,
+        "num": 42930,
+        "word": "何健麒直播",
+        "onboard_time": 1759511897,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35058,
+        "num": 42929,
+        "word": "王嘉尔世界巡演首站泰国开演",
+        "onboard_time": 1759508061,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 34967,
+        "num": 42924,
+        "word": "孙颖莎王楚钦开心合影",
+        "onboard_time": 1759503563,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34668,
+        "num": 42922,
+        "word": "范丞丞瘦了",
+        "onboard_time": 1759512856,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33788,
+        "num": 42917,
+        "word": "威廉王子说3个孩子都没有配手机",
+        "onboard_time": 1759487242,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33411,
+        "num": 42915,
+        "word": "陈震下午5点左右还在更博",
+        "onboard_time": 1759502003,
+        "rank": 45,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 31770,
+        "num": 42913,
+        "word": "孙颖莎王楚钦谈8年成长",
+        "onboard_time": 1759502182,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30606,
+        "num": 42907,
+        "word": "张维伊看不了董璇这段",
+        "onboard_time": 1759496541,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30163,
+        "num": 42905,
+        "word": "印度学者妄言中国被现场打脸",
+        "onboard_time": 1759499421,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30109,
+        "num": 42901,
+        "word": "王力宏单依纯把爱错唱出新高度",
+        "onboard_time": 1759502542,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平致电祝贺卢森堡大公纪尧姆即位#"
+    }
+  }
+}

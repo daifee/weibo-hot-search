@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759512097754,
+  "endTime": 1759513112903,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -6603,6 +6603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108326,
+      "num": 84985,
+      "word": "王一博丽芙泰勒同框合照",
+      "onboard_time": 1759509738,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108107,
       "num": 108107,
       "word": "辛芷蕾我来之前人家告诉我别吃豆角",
@@ -7803,14 +7811,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91413,
-      "num": 77145,
-      "word": "王一博丽芙泰勒同框合照",
-      "onboard_time": 1759509738,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 91103,
       "num": 91103,
       "word": "迪丽热巴临场应变能力",
@@ -7912,6 +7912,14 @@
       "word": "买短乘长致高铁临停能全怪乘客吗",
       "onboard_time": 1759396639,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89589,
+      "num": 89589,
+      "word": "夫妻国庆开两架飞机带女儿回老家",
+      "onboard_time": 1759508540,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -8859,6 +8867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75355,
+      "num": 75355,
+      "word": "王一博演我i人社交",
+      "onboard_time": 1759509499,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75305,
       "num": 75305,
       "word": "黄友政陈熠晋级混双决赛",
@@ -9121,14 +9137,6 @@
       "onboard_time": 1759280899,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68633,
-      "num": 68633,
-      "word": "王一博演我i人社交",
-      "onboard_time": 1759509499,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 68537,
@@ -9401,14 +9409,6 @@
       "onboard_time": 1759455079,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 61901,
-      "num": 64124,
-      "word": "夫妻国庆开两架飞机带女儿回老家",
-      "onboard_time": 1759508540,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61161,
@@ -10092,7 +10092,7 @@
     },
     {
       "raw_hot": 35984,
-      "num": 38612,
+      "num": 42930,
       "word": "何健麒直播",
       "onboard_time": 1759511897,
       "rank": 44,
@@ -10121,6 +10121,14 @@
       "onboard_time": 1759392440,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 34668,
+      "num": 42922,
+      "word": "范丞丞瘦了",
+      "onboard_time": 1759512856,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 34636,

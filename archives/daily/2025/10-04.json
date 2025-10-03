@@ -1,6 +1,6 @@
 {
   "startTime": 1759509046450,
-  "endTime": 1759512097754,
+  "endTime": 1759513112903,
   "band_list": [
     {
       "raw_hot": 603069,
@@ -219,6 +219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 108326,
+      "num": 84985,
+      "word": "王一博丽芙泰勒同框合照",
+      "onboard_time": 1759509738,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105523,
       "num": 105523,
       "word": "莎头夺冠后王楚钦说赛前没有想到",
@@ -251,20 +259,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 91413,
-      "num": 77145,
-      "word": "王一博丽芙泰勒同框合照",
-      "onboard_time": 1759509738,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 90195,
       "num": 90195,
       "word": "普京称某国准备进行核试验",
       "onboard_time": 1759491442,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 89589,
+      "num": 89589,
+      "word": "夫妻国庆开两架飞机带女儿回老家",
+      "onboard_time": 1759508540,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82527,
@@ -315,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75355,
+      "num": 75355,
+      "word": "王一博演我i人社交",
+      "onboard_time": 1759509499,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72119,
       "num": 72119,
       "word": "陈震下午5点左右还在更博",
@@ -329,14 +345,6 @@
       "onboard_time": 1759502542,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 68633,
-      "num": 68633,
-      "word": "王一博演我i人社交",
-      "onboard_time": 1759509499,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 68256,
@@ -379,14 +387,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 61901,
-      "num": 64124,
-      "word": "夫妻国庆开两架飞机带女儿回老家",
-      "onboard_time": 1759508540,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60940,
       "num": 105159,
       "word": "美驻华使领馆官号宣布停更",
@@ -420,11 +420,27 @@
     },
     {
       "raw_hot": 35984,
-      "num": 38612,
+      "num": 42930,
       "word": "何健麒直播",
       "onboard_time": 1759511897,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34668,
+      "num": 42922,
+      "word": "范丞丞瘦了",
+      "onboard_time": 1759512856,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 30163,
+      "num": 42905,
+      "word": "印度学者妄言中国被现场打脸",
+      "onboard_time": 1759499421,
+      "rank": 48,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
