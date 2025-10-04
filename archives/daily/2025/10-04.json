@@ -1,6 +1,6 @@
 {
   "startTime": 1759509046450,
-  "endTime": 1759560345938,
+  "endTime": 1759562482368,
   "band_list": [
     {
       "raw_hot": 3967870,
@@ -59,6 +59,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 808436,
+      "num": 1129349,
+      "word": "日本或将迎来首位女首相",
+      "onboard_time": 1759559120,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 794647,
       "num": 191618,
       "word": "董璇说张维伊烦人难看幼稚",
@@ -97,6 +105,14 @@
       "onboard_time": 1759551921,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 616990,
+      "num": 616990,
+      "word": "王楚钦vs松岛辉空",
+      "onboard_time": 1759559179,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 611866,
@@ -147,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 517500,
+      "num": 517500,
+      "word": "浴室五杀",
+      "onboard_time": 1759557981,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 505410,
       "num": 505410,
       "word": "29岁智障女子继承遗产后被争相照顾",
@@ -179,20 +203,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 447287,
+      "num": 232754,
+      "word": "这竟然是潘玮柏",
+      "onboard_time": 1759561219,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441877,
       "num": 175043,
       "word": "当地回应新郎在结婚当天跳河",
       "onboard_time": 1759502182,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 439063,
-      "num": 439063,
-      "word": "王楚钦vs松岛辉空",
-      "onboard_time": 1759559179,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 435933,
@@ -379,6 +403,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 255631,
+      "num": 147166,
+      "word": "不建议你频繁用酒精擦手机的原因",
+      "onboard_time": 1759560740,
+      "rank": 20,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 255604,
       "num": 123467,
       "word": "董璇说男人分手很快会找到下一个",
@@ -393,6 +425,14 @@
       "onboard_time": 1759507220,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 240347,
+      "num": 240347,
+      "word": "向鹏4比3雨果",
+      "onboard_time": 1759559659,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 238480,
@@ -427,20 +467,20 @@
       "category": "民生新闻,剧集"
     },
     {
+      "raw_hot": 231959,
+      "num": 231959,
+      "word": "陈瑶田曦薇 上官婉儿太平公主",
+      "onboard_time": 1759558401,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220838,
       "num": 161590,
       "word": "孙子推倒女孩爷爷反安慰孙子",
       "onboard_time": 1759546460,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216297,
-      "num": 216297,
-      "word": "浴室五杀",
-      "onboard_time": 1759557981,
-      "rank": 21,
-      "category": "电竞"
     },
     {
       "raw_hot": 214855,
@@ -465,6 +505,14 @@
       "onboard_time": 1759508540,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207474,
+      "num": 180134,
+      "word": "现在就出发",
+      "onboard_time": 1759557981,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 207307,
@@ -499,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199892,
-      "num": 199892,
-      "word": "向鹏4比3雨果",
-      "onboard_time": 1759559659,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 195147,
       "num": 195147,
       "word": "檀健次醉酒摔倒戏是现挂的",
@@ -521,14 +561,6 @@
       "onboard_time": 1759555160,
       "rank": 31,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 189054,
-      "num": 189054,
-      "word": "日本或将迎来首位女首相",
-      "onboard_time": 1759559120,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 188380,
@@ -561,14 +593,6 @@
       "onboard_time": 1759498822,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180134,
-      "num": 180134,
-      "word": "现在就出发",
-      "onboard_time": 1759557981,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 177935,
@@ -635,14 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165838,
-      "num": 165838,
-      "word": "陈瑶田曦薇 上官婉儿太平公主",
-      "onboard_time": 1759558401,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164779,
       "num": 164779,
       "word": "蒯曼说王曼昱给我很多鼓励",
@@ -665,6 +681,30 @@
       "onboard_time": 1759495400,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156613,
+      "num": 156613,
+      "word": "高市早苗 女版安倍",
+      "onboard_time": 1759561280,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 153498,
+      "num": 146210,
+      "word": "王曼昱蒯曼夺冠国乒全体起立鼓掌",
+      "onboard_time": 1759560621,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153109,
+      "num": 115382,
+      "word": "把普通的蛋糕拆开卖",
+      "onboard_time": 1759560860,
+      "rank": 30,
+      "category": "情感,美食"
     },
     {
       "raw_hot": 152427,
@@ -707,6 +747,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 145223,
+      "num": 145223,
+      "word": "檀健次主演电影票房破10亿",
+      "onboard_time": 1759561521,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 145029,
+      "num": 145029,
+      "word": "志愿军国庆档票房第1",
+      "onboard_time": 1759561340,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143906,
       "num": 143906,
       "word": "丁程鑫只需轻轻出手就秒了",
@@ -721,6 +777,14 @@
       "onboard_time": 1759491442,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 141130,
+      "num": 141130,
+      "word": "韩国部队锅原身是剩菜猪食粥",
+      "onboard_time": 1759561101,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 140316,
@@ -753,6 +817,14 @@
       "onboard_time": 1759543640,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137830,
+      "num": 137830,
+      "word": "年轻人抛弃5A景区",
+      "onboard_time": 1759560501,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137613,
@@ -819,6 +891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126001,
+      "num": 113124,
+      "word": "张萌 后来庆功宴长记性了",
+      "onboard_time": 1759561760,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123949,
       "num": 123949,
       "word": "白敬亭看似不热实则没招儿了",
@@ -841,6 +921,14 @@
       "onboard_time": 1759559659,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121608,
+      "num": 121608,
+      "word": "他爷爷为什么不接他电话",
+      "onboard_time": 1759561881,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 119576,
@@ -1139,6 +1227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101638,
+      "num": 101638,
+      "word": "陈数说张晚意当导游没有任何不好",
+      "onboard_time": 1759560320,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101571,
       "num": 101571,
       "word": "惠英红生命力 高奢早该吻上来",
@@ -1251,6 +1347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 95356,
+      "num": 95356,
+      "word": "别被电影院中间位置忽悠了",
+      "onboard_time": 1759562240,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94969,
       "num": 94969,
       "word": "单依纯唱珠玉又开净化了",
@@ -1331,14 +1435,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 88133,
-      "num": 88133,
-      "word": "陈数说张晚意当导游没有任何不好",
-      "onboard_time": 1759560320,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 87823,
       "num": 87823,
       "word": "常吃4类食物让身体发炎",
@@ -1379,6 +1475,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 85101,
+      "num": 85101,
+      "word": "鸡排哥同款炸鸡排",
+      "onboard_time": 1759562299,
+      "rank": 41,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 84786,
       "num": 84786,
       "word": "古人用滂臭的螺制成奇香",
@@ -1401,6 +1505,14 @@
       "onboard_time": 1759547539,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 82892,
+      "num": 82892,
+      "word": "许我耀眼剧组回应",
+      "onboard_time": 1759562421,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 82758,
@@ -1747,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50452,
+      "num": 89682,
+      "word": "王橹杰偷笑",
+      "onboard_time": 1759562179,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47464,
       "num": 197137,
       "word": "广西多条河流出现超警洪水",
@@ -1865,6 +1985,14 @@
       "onboard_time": 1759550421,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24723,
+      "num": 175896,
+      "word": "纪梵希范丞丞章若楠秀场同框",
+      "onboard_time": 1759561639,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 24007,
