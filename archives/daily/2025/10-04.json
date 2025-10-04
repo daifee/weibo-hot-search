@@ -1,6 +1,6 @@
 {
   "startTime": 1759509046450,
-  "endTime": 1759573428048,
+  "endTime": 1759574345149,
   "band_list": [
     {
       "raw_hot": 3967870,
@@ -219,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 515085,
+      "num": 515085,
+      "word": "陈幸同受灯光干扰叫停比赛",
+      "onboard_time": 1759572559,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 505894,
       "num": 505894,
       "word": "第一批去韩国旅游的受害者出现了",
@@ -281,6 +289,14 @@
       "onboard_time": 1759502182,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 440942,
+      "num": 212324,
+      "word": "李湘打码掌纹",
+      "onboard_time": 1759572920,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 438623,
@@ -419,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306208,
+      "num": 306208,
+      "word": "107万元油卡丢失快递公司仅赔千元",
+      "onboard_time": 1759569920,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301229,
       "num": 301229,
       "word": "哈马斯同意释放全部以色列人质",
@@ -443,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 295515,
+      "num": 196380,
+      "word": "周也 不输欧美人的骨相",
+      "onboard_time": 1759572021,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295483,
       "num": 295483,
       "word": "韩国营养针",
@@ -459,20 +491,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 283998,
+      "num": 185822,
+      "word": "文咏珊孩子 手握顶级人生剧本",
+      "onboard_time": 1759572319,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283669,
       "num": 205723,
       "word": "王俊凯刚落地又飞走了",
       "onboard_time": 1759550001,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 277743,
-      "num": 277743,
-      "word": "107万元油卡丢失快递公司仅赔千元",
-      "onboard_time": 1759569920,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 277339,
@@ -635,14 +667,6 @@
       "category": "民生新闻,剧集"
     },
     {
-      "raw_hot": 225210,
-      "num": 212324,
-      "word": "李湘打码掌纹",
-      "onboard_time": 1759572920,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 223959,
       "num": 263069,
       "word": "王楚钦4比1战胜松岛辉空",
@@ -689,6 +713,14 @@
       "onboard_time": 1759570400,
       "rank": 31,
       "category": "艺人,海外新闻"
+    },
+    {
+      "raw_hot": 209727,
+      "num": 171233,
+      "word": "陈幸同被罚分",
+      "onboard_time": 1759573580,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 209017,
@@ -739,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201831,
+      "num": 168121,
+      "word": "刘诗诗 富士山等来了她的女主角",
+      "onboard_time": 1759572800,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200978,
       "num": 163856,
       "word": "许我耀眼39.2%",
@@ -747,20 +787,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196380,
-      "num": 196380,
-      "word": "周也 不输欧美人的骨相",
-      "onboard_time": 1759572021,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195147,
       "num": 195147,
       "word": "檀健次醉酒摔倒戏是现挂的",
       "onboard_time": 1759558520,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194323,
+      "num": 194323,
+      "word": "孙颖莎4比2战胜陈幸同",
+      "onboard_time": 1759573820,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 192315,
@@ -825,22 +865,6 @@
       "onboard_time": 1759498822,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178974,
-      "num": 215105,
-      "word": "陈幸同受灯光干扰叫停比赛",
-      "onboard_time": 1759572559,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 178574,
-      "num": 178574,
-      "word": "文咏珊孩子 手握顶级人生剧本",
-      "onboard_time": 1759572319,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 177935,
@@ -939,6 +963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163033,
+      "num": 142361,
+      "word": "日本人为了让你少点一碗面有多拼",
+      "onboard_time": 1759572861,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 162868,
       "num": 162868,
       "word": "陶喆已经在马来西亚吃上了",
@@ -1027,6 +1059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148444,
+      "num": 148444,
+      "word": "北京WBG对战成都GG",
+      "onboard_time": 1759573820,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 148140,
       "num": 148140,
       "word": "太久没穿的鞋子就别穿了",
@@ -1073,14 +1113,6 @@
       "onboard_time": 1759491442,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 142361,
-      "num": 142361,
-      "word": "日本人为了让你少点一碗面有多拼",
-      "onboard_time": 1759572861,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 140316,
@@ -1131,14 +1163,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 133912,
-      "num": 133912,
-      "word": "刘诗诗 富士山等来了她的女主角",
-      "onboard_time": 1759572800,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 131091,
       "num": 131091,
       "word": "孙颖莎王楚钦谈8年成长",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1759545979,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130577,
+      "num": 130577,
+      "word": "邓亚萍说王楚钦孙颖莎地位难以撼动",
+      "onboard_time": 1759573760,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 130526,
@@ -1203,12 +1235,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 127865,
+      "num": 213028,
+      "word": "深圳市台风预警信号升级为蓝色",
+      "onboard_time": 1759572380,
+      "rank": 18,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 127323,
       "num": 127323,
       "word": "香港偶遇黄磊孙莉一家",
       "onboard_time": 1759566381,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 126161,
+      "num": 126161,
+      "word": "李晟晚上9点以后不出门",
+      "onboard_time": 1759571719,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 123949,
@@ -1297,14 +1345,6 @@
       "onboard_time": 1759545020,
       "rank": 24,
       "category": "军事"
-    },
-    {
-      "raw_hot": 115921,
-      "num": 115921,
-      "word": "李晟晚上9点以后不出门",
-      "onboard_time": 1759571719,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 115904,
@@ -1507,12 +1547,52 @@
       "category": "电影"
     },
     {
+      "raw_hot": 107744,
+      "num": 107744,
+      "word": "微信里的钱包一定要上锁",
+      "onboard_time": 1759573521,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 107339,
+      "num": 107339,
+      "word": "石破茂回应高市早苗当选",
+      "onboard_time": 1759572559,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 107250,
+      "num": 107250,
+      "word": "张杰演唱会前女儿贴心递水加油",
+      "onboard_time": 1759573340,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107058,
       "num": 150929,
       "word": "宋亚轩有点太了解迪丽热巴了",
       "onboard_time": 1759542440,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106719,
+      "num": 106719,
+      "word": "人人人人北京人人人人",
+      "onboard_time": 1759573221,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106560,
+      "num": 106560,
+      "word": "鸡排哥说再有黄牛要报警了",
+      "onboard_time": 1759571480,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106296,
@@ -1627,28 +1707,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 103111,
-      "num": 213028,
-      "word": "深圳市台风预警信号升级为蓝色",
-      "onboard_time": 1759572380,
-      "rank": 18,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 102996,
       "num": 102996,
       "word": "Desire4银杏音乐节",
       "onboard_time": 1759568901,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 102570,
-      "num": 102570,
-      "word": "鸡排哥说再有黄牛要报警了",
-      "onboard_time": 1759571480,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102262,
@@ -1715,6 +1779,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101153,
+      "num": 101153,
+      "word": "惠英红 红气养人意气风发",
+      "onboard_time": 1759574062,
+      "rank": 43,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 100574,
+      "num": 100574,
+      "word": "狼队对战情久",
+      "onboard_time": 1759574120,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100511,
       "num": 100511,
       "word": "带过一年级的才知道这有多牛",
@@ -1731,6 +1811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100073,
+      "num": 100073,
+      "word": "10月份的广东人还在防台风",
+      "onboard_time": 1759565840,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99973,
       "num": 99973,
       "word": "诚C缺席PEL运动会",
@@ -1744,14 +1832,6 @@
       "word": "128斤狗子躺路中间被车碾轧毫发无伤",
       "onboard_time": 1759553480,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99336,
-      "num": 99336,
-      "word": "10月份的广东人还在防台风",
-      "onboard_time": 1759565840,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1795,14 +1875,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 97562,
-      "num": 97562,
-      "word": "张杰演唱会前女儿贴心递水加油",
-      "onboard_time": 1759573340,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97294,
       "num": 97294,
       "word": "张婧仪去健身房居然还有后续",
@@ -1841,6 +1913,14 @@
       "onboard_time": 1759569141,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 95960,
+      "num": 95960,
+      "word": "大学生对钱没概念有多可怕",
+      "onboard_time": 1759572739,
+      "rank": 46,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 95772,
@@ -1899,12 +1979,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93614,
+      "num": 93614,
+      "word": "曝苹果首款折叠屏比例",
+      "onboard_time": 1759571900,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 93200,
       "num": 93200,
       "word": "沈皓明一家老小争当许妍榜一",
       "onboard_time": 1759542319,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92700,
+      "num": 92700,
+      "word": "高市当选后日本网民高喊完了",
+      "onboard_time": 1759574300,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 92453,
@@ -1961,6 +2057,14 @@
       "onboard_time": 1759537880,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89310,
+      "num": 89310,
+      "word": "G6666次列车限时开行",
+      "onboard_time": 1759573880,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88832,
@@ -2219,14 +2323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78167,
-      "num": 101932,
-      "word": "石破茂回应高市早苗当选",
-      "onboard_time": 1759572559,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 77945,
       "num": 77945,
       "word": "范丞丞瘦了",
@@ -2483,6 +2579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58761,
+      "num": 212647,
+      "word": "王楚钦的团队责任感",
+      "onboard_time": 1759573040,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55075,
       "num": 60715,
       "word": "周传雄上海站嘉宾是女儿",
@@ -2507,20 +2611,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 48348,
+      "num": 107288,
+      "word": "娜扎这个wink我将循环播放",
+      "onboard_time": 1759573521,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47464,
       "num": 197137,
       "word": "广西多条河流出现超警洪水",
       "onboard_time": 1759554680,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44849,
-      "num": 212647,
-      "word": "王楚钦的团队责任感",
-      "onboard_time": 1759573040,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 43778,
@@ -2683,6 +2787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 22785,
+      "num": 177230,
+      "word": "资产被判解封后银行账户仍被冻结",
+      "onboard_time": 1759573580,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19597,
       "num": 24830,
       "word": "陈立农重庆演唱会",
@@ -2715,7 +2827,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 8391,
+      "raw_hot": 8928,
       "num": 1021640,
       "word": "9招教你十一假期美美出片",
       "onboard_time": 1759490181,
@@ -2735,6 +2847,9 @@
     },
     {
       "word": "#爱国主义是我们民族精神的核心#"
+    },
+    {
+      "word": "#爱国情在血脉中流淌#"
     }
   ]
 }

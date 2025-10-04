@@ -1,0 +1,410 @@
+{
+  "runTime": 1759574345149,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1088905,
+        "num": 1174224,
+        "word": "班味最重的新娘",
+        "onboard_time": 1759563440,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 602048,
+        "num": 602048,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1759568840,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8928,
+        "num": 538338,
+        "word": "9招教你十一假期美美出片",
+        "onboard_time": 1759490181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515085,
+        "num": 515085,
+        "word": "陈幸同受灯光干扰叫停比赛",
+        "onboard_time": 1759572559,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306208,
+        "num": 306208,
+        "word": "107万元油卡丢失快递公司仅赔千元",
+        "onboard_time": 1759569920,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244149,
+        "num": 244149,
+        "word": "女性向游戏",
+        "onboard_time": 1759564099,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 238256,
+        "num": 238256,
+        "word": "第一批去韩国旅游的受害者出现了",
+        "onboard_time": 1759565361,
+        "rank": 6,
+        "category": "海外新闻,旅游"
+      },
+      {
+        "raw_hot": 202680,
+        "num": 202680,
+        "word": "东北女生远嫁台湾700平的家",
+        "onboard_time": 1759565120,
+        "rank": 7,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 194323,
+        "num": 194323,
+        "word": "孙颖莎4比2战胜陈幸同",
+        "onboard_time": 1759573820,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152088,
+        "num": 193171,
+        "word": "日本或将迎来首位女首相",
+        "onboard_time": 1759559120,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 569181,
+        "num": 191587,
+        "word": "乃万瘦到不足42kg",
+        "onboard_time": 1759563860,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465226,
+        "num": 189758,
+        "word": "方媛疑似否认三胎已出生",
+        "onboard_time": 1759571120,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295515,
+        "num": 188723,
+        "word": "周也 不输欧美人的骨相",
+        "onboard_time": 1759572021,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284333,
+        "num": 187201,
+        "word": "那英 丢个手机被龚俊蛐蛐一辈子",
+        "onboard_time": 1759562539,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283998,
+        "num": 185822,
+        "word": "文咏珊孩子 手握顶级人生剧本",
+        "onboard_time": 1759572319,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282846,
+        "num": 184777,
+        "word": "官方称婚礼跳河事件与彩礼无关",
+        "onboard_time": 1759569920,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226046,
+        "num": 182028,
+        "word": "小酒窝跳柠檬叉",
+        "onboard_time": 1759569501,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218380,
+        "num": 181417,
+        "word": "央视中秋晚会首波阵容",
+        "onboard_time": 1759551921,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44514,
+        "num": 178720,
+        "word": "巴黎世家新设计师首秀",
+        "onboard_time": 1759572200,
+        "rank": 18,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 22785,
+        "num": 177230,
+        "word": "资产被判解封后银行账户仍被冻结",
+        "onboard_time": 1759573580,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1085773,
+        "num": 176766,
+        "word": "鸡排哥称我人都要窒息了",
+        "onboard_time": 1759566381,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58761,
+        "num": 174491,
+        "word": "王楚钦的团队责任感",
+        "onboard_time": 1759573040,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 440942,
+        "num": 173582,
+        "word": "李湘打码掌纹",
+        "onboard_time": 1759572920,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209727,
+        "num": 171233,
+        "word": "陈幸同被罚分",
+        "onboard_time": 1759573580,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209075,
+        "num": 170285,
+        "word": "许我耀眼",
+        "onboard_time": 1759564820,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201831,
+        "num": 168121,
+        "word": "刘诗诗 富士山等来了她的女主角",
+        "onboard_time": 1759572800,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167794,
+        "num": 167794,
+        "word": "AI女演员出道遭抵制",
+        "onboard_time": 1759570400,
+        "rank": 26,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 156247,
+        "num": 156247,
+        "word": "郭晋安再回应父女恋绯闻",
+        "onboard_time": 1759571060,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148444,
+        "num": 148444,
+        "word": "北京WBG对战成都GG",
+        "onboard_time": 1759573820,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141617,
+        "num": 141617,
+        "word": "王楚钦要累懵了",
+        "onboard_time": 1759564699,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163033,
+        "num": 139144,
+        "word": "日本人为了让你少点一碗面有多拼",
+        "onboard_time": 1759572861,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133652,
+        "num": 133652,
+        "word": "许我耀眼39.2%",
+        "onboard_time": 1759569259,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127865,
+        "num": 133238,
+        "word": "深圳市台风预警信号升级为蓝色",
+        "onboard_time": 1759572380,
+        "rank": 32,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 132974,
+        "num": 132974,
+        "word": "不建议你频繁用酒精擦手机的原因",
+        "onboard_time": 1759560740,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 130577,
+        "num": 130577,
+        "word": "邓亚萍说王楚钦孙颖莎地位难以撼动",
+        "onboard_time": 1759573760,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126161,
+        "num": 126161,
+        "word": "李晟晚上9点以后不出门",
+        "onboard_time": 1759571719,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113181,
+        "num": 113181,
+        "word": "孙颖莎陈幸同首局就爆分",
+        "onboard_time": 1759571180,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107744,
+        "num": 107744,
+        "word": "微信里的钱包一定要上锁",
+        "onboard_time": 1759573521,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107339,
+        "num": 107339,
+        "word": "石破茂回应高市早苗当选",
+        "onboard_time": 1759572559,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 48348,
+        "num": 107288,
+        "word": "娜扎这个wink我将循环播放",
+        "onboard_time": 1759573521,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107250,
+        "num": 107250,
+        "word": "张杰演唱会前女儿贴心递水加油",
+        "onboard_time": 1759573340,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106719,
+        "num": 106719,
+        "word": "人人人人北京人人人人",
+        "onboard_time": 1759573221,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106560,
+        "num": 106560,
+        "word": "鸡排哥说再有黄牛要报警了",
+        "onboard_time": 1759571480,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101153,
+        "num": 101153,
+        "word": "惠英红 红气养人意气风发",
+        "onboard_time": 1759574062,
+        "rank": 43,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 100574,
+        "num": 100574,
+        "word": "狼队对战情久",
+        "onboard_time": 1759574120,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100073,
+        "num": 100073,
+        "word": "10月份的广东人还在防台风",
+        "onboard_time": 1759565840,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95960,
+        "num": 95960,
+        "word": "大学生对钱没概念有多可怕",
+        "onboard_time": 1759572739,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 93614,
+        "num": 93614,
+        "word": "曝苹果首款折叠屏比例",
+        "onboard_time": 1759571900,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92700,
+        "num": 92700,
+        "word": "高市当选后日本网民高喊完了",
+        "onboard_time": 1759574300,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89310,
+        "num": 89310,
+        "word": "G6666次列车限时开行",
+        "onboard_time": 1759573880,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#爱国情在血脉中流淌#"
+    }
+  }
+}
