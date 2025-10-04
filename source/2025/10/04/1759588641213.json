@@ -1,0 +1,410 @@
+{
+  "runTime": 1759588641213,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1260621,
+        "num": 1260621,
+        "word": "晓华理发店已没了爆火时的人潮",
+        "onboard_time": 1759574361,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 617719,
+        "num": 617719,
+        "word": "贵州31岁派出所副所长因公牺牲",
+        "onboard_time": 1759584742,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30512,
+        "num": 527265,
+        "word": "星空有约",
+        "onboard_time": 1759583722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518400,
+        "num": 518400,
+        "word": "女生拍照吊威亚游客入镜似5毛特效",
+        "onboard_time": 1759582102,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361856,
+        "num": 361856,
+        "word": "王曼昱鹰眼挑战失败",
+        "onboard_time": 1759580002,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359211,
+        "num": 359211,
+        "word": "三亚一商场红包雨致人群拥挤受伤",
+        "onboard_time": 1759584381,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337988,
+        "num": 337988,
+        "word": "清融",
+        "onboard_time": 1759583120,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 334966,
+        "num": 334966,
+        "word": "台风红色预警发布",
+        "onboard_time": 1759575802,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 328110,
+        "num": 328110,
+        "word": "王楚钦说身兼三项消耗超出自己想象",
+        "onboard_time": 1759584683,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115282,
+        "num": 327069,
+        "word": "最爱发钱老板 给员工父母发1000万",
+        "onboard_time": 1759587442,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 903404,
+        "num": 323664,
+        "word": "陈伟霆你们笑得太大声了",
+        "onboard_time": 1759584022,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550573,
+        "num": 321925,
+        "word": "陈都灵眼袋",
+        "onboard_time": 1759576581,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439205,
+        "num": 317850,
+        "word": "微信里的钱包一定要上锁",
+        "onboard_time": 1759573521,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 423757,
+        "num": 316963,
+        "word": "华晨宇 要爆了",
+        "onboard_time": 1759586903,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 346168,
+        "num": 313963,
+        "word": "hi6",
+        "onboard_time": 1759582282,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312150,
+        "num": 312150,
+        "word": "赵丽颖向阳花收视破2登顶",
+        "onboard_time": 1759586661,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 291432,
+        "num": 291432,
+        "word": "喝水少 蛀牙",
+        "onboard_time": 1759577961,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270130,
+        "num": 270130,
+        "word": "苏超",
+        "onboard_time": 1759576280,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251094,
+        "num": 251094,
+        "word": "方媛说现在已经不能坐飞机了",
+        "onboard_time": 1759579221,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241666,
+        "num": 241666,
+        "word": "广州一市民家中惊现鼠条",
+        "onboard_time": 1759587561,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523899,
+        "num": 240827,
+        "word": "鸡排哥 精神贫瘠涌向鲜活生命",
+        "onboard_time": 1759577540,
+        "rank": 20,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 299324,
+        "num": 238785,
+        "word": "何超莲 黑蕾丝",
+        "onboard_time": 1759587501,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232623,
+        "num": 232623,
+        "word": "王源被绊一下之后的反应",
+        "onboard_time": 1759587923,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11616,
+        "num": 223801,
+        "word": "731毒气实验室成玩具历史不容儿戏",
+        "onboard_time": 1759588403,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223033,
+        "num": 223033,
+        "word": "文咏珊孩子 手握顶级人生剧本",
+        "onboard_time": 1759572319,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206048,
+        "num": 206048,
+        "word": "热巴娜扎 新疆双美闪耀巴黎",
+        "onboard_time": 1759574660,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199338,
+        "num": 199338,
+        "word": "3岁男童从景区栈道旁缝隙坠落",
+        "onboard_time": 1759585404,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172744,
+        "num": 172744,
+        "word": "点球",
+        "onboard_time": 1759586602,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166720,
+        "num": 166720,
+        "word": "华晨宇 旧歌今年卖了很多钱",
+        "onboard_time": 1759584559,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166657,
+        "num": 166657,
+        "word": "李湘打码掌纹",
+        "onboard_time": 1759572920,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185855,
+        "num": 163847,
+        "word": "邓亚萍说王楚钦这方面优于所有人",
+        "onboard_time": 1759586781,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160292,
+        "num": 160292,
+        "word": "乃万瘦到不足42kg",
+        "onboard_time": 1759563860,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145582,
+        "num": 145582,
+        "word": "戚薇 G社好离谱",
+        "onboard_time": 1759588342,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137331,
+        "num": 137331,
+        "word": "他赢下中国奥运首金后到处借裤子",
+        "onboard_time": 1759587861,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135601,
+        "num": 135601,
+        "word": "二环十三郎",
+        "onboard_time": 1759588581,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130081,
+        "num": 130081,
+        "word": "苏超连云港队淘汰",
+        "onboard_time": 1759588283,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124698,
+        "num": 124698,
+        "word": "网剧以她之韧",
+        "onboard_time": 1759577122,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119198,
+        "num": 119198,
+        "word": "南京打进苏超淘汰赛首球",
+        "onboard_time": 1759587561,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117736,
+        "num": 117736,
+        "word": "贾静雯50岁状态",
+        "onboard_time": 1759583423,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74343,
+        "num": 116721,
+        "word": "王楚钦旋转跳跃我举着手",
+        "onboard_time": 1759587382,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116429,
+        "num": 116429,
+        "word": "长城偶遇林志玲",
+        "onboard_time": 1759586422,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115978,
+        "num": 115978,
+        "word": "网红赤木刚宪爆改许妍",
+        "onboard_time": 1759579881,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115837,
+        "num": 115837,
+        "word": "朱志鑫苏新皓鸡毛掸子共脑了",
+        "onboard_time": 1759587623,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114239,
+        "num": 114239,
+        "word": "孙颖莎憋笑打完最后一球",
+        "onboard_time": 1759586482,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114075,
+        "num": 114075,
+        "word": "曾舜晞说粤语面相都变了",
+        "onboard_time": 1759588523,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109513,
+        "num": 109513,
+        "word": "许我耀眼",
+        "onboard_time": 1759564820,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106427,
+        "num": 106427,
+        "word": "曼联vs桑德兰",
+        "onboard_time": 1759588042,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113524,
+        "num": 106351,
+        "word": "朱志鑫这声姐姐叫到我心坎里了",
+        "onboard_time": 1759587501,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106085,
+        "num": 106085,
+        "word": "孙颖莎相信王曼昱能赢",
+        "onboard_time": 1759585941,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101824,
+        "num": 104481,
+        "word": "苏超南京队晋级",
+        "onboard_time": 1759587142,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样阐释爱国情怀#"
+    }
+  }
+}
