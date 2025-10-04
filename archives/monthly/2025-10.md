@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/05 01:36:31
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/05 02:31:44
 </p>
 </blockquote>
 <p>
@@ -4077,6 +4077,12 @@ Dior大秀G社生图（热度：167518）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AC%E8%AD%A6%E6%96%B9%E8%A7%A3%E6%95%91%E4%B8%80%E8%A2%AB%E7%BB%91%E6%9E%B6%E7%9A%8419%E5%B2%81%E4%B8%AD%E5%9B%BD%E4%BA%BA%23" target="weibo">
+柬警方解救一被绑架的19岁中国人（热度：161035）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%23" target="weibo">
 鸡排哥（热度：160684）
 </a>
@@ -5931,6 +5937,12 @@ ts12（热度：122004）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E9%97%AE%E8%BF%98%E8%83%BD%E6%BC%94%E6%AD%A3%E5%89%A7%E5%90%97%23" target="weibo">
+张晚意问还能演正剧吗（热度：115688）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E9%98%9F0%E6%AF%940%E8%BF%9E%E4%BA%91%E6%B8%AF%E9%98%9F%23" target="weibo">
 南京队0比0连云港队（热度：115676）
 </a>
@@ -5999,18 +6011,6 @@ ts12（热度：122004）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E9%A6%96%E6%94%AF%E5%9B%9B%E5%BC%BA%E9%98%9F%E4%BC%8D%E8%AF%9E%E7%94%9F%23" target="weibo">
 苏超首支四强队伍诞生（热度：114721）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E8%A2%AB%E5%BC%A0%E9%9B%85%E7%90%AA%E7%A0%8D%E4%BB%B7%E8%85%8C%E5%85%A5%E5%91%B3%E4%BA%86%23" target="weibo">
-李沁被张雅琪砍价腌入味了（热度：114708）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B4%BE%E4%B8%89%E5%8F%94%E5%9B%9E%E5%BA%94%E4%BA%91%E9%A1%B6%E5%A4%A9%E5%AE%AB%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC%23" target="weibo">
-南派三叔回应云顶天宫原班人马（热度：114697）
 </a>
 </li>
 
