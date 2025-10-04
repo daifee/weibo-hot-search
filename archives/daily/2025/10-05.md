@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/05 03:36:27
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/05 04:25:29
 </p>
 </blockquote>
 <p>
@@ -395,6 +395,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E8%A7%92%E8%89%B2%E7%90%86%E8%A7%A3%23" target="weibo">
 檀健次角色理解（热度：13882）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%AF%B4%E8%B7%9F%E8%8E%8E%E8%8E%8E%E5%86%B3%E8%B5%9B%E4%BC%9A%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%23" target="weibo">
+王曼昱说跟莎莎决赛会全力以赴（热度：12999）
 </a>
 </li>
 
