@@ -1,6 +1,6 @@
 {
   "startTime": 1759509046450,
-  "endTime": 1759552867174,
+  "endTime": 1759555353901,
   "band_list": [
     {
       "raw_hot": 3967870,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1798840,
-      "num": 169411,
+      "num": 206757,
       "word": "许我耀眼 盗图",
       "onboard_time": 1759544299,
       "rank": 10,
@@ -27,20 +27,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1597489,
+      "num": 1043496,
+      "word": "陈震负事故全部责任",
+      "onboard_time": 1759550779,
+      "rank": 1,
+      "category": "辟谣/通报,汽车"
+    },
+    {
       "raw_hot": 1401285,
       "num": 722845,
       "word": "陈震妻子回应",
       "onboard_time": 1759546639,
       "rank": 7,
       "category": "汽车,网红"
-    },
-    {
-      "raw_hot": 1043496,
-      "num": 1043496,
-      "word": "陈震负事故全部责任",
-      "onboard_time": 1759550779,
-      "rank": 1,
-      "category": "辟谣/通报,汽车"
     },
     {
       "raw_hot": 998253,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 794647,
-      "num": 168482,
+      "num": 191618,
       "word": "董璇说张维伊烦人难看幼稚",
       "onboard_time": 1759544299,
       "rank": 11,
@@ -84,11 +84,19 @@
     },
     {
       "raw_hot": 654515,
-      "num": 168819,
+      "num": 216988,
       "word": "谢娜不敢相信我要主持央视中秋晚会",
       "onboard_time": 1759549819,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 646755,
+      "num": 220454,
+      "word": "央视中秋晚会首波阵容",
+      "onboard_time": 1759551921,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 603069,
@@ -99,12 +107,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 576917,
+      "num": 470228,
+      "word": "陈震车祸事件不涉及毒驾醉驾",
+      "onboard_time": 1759551380,
+      "rank": 19,
+      "category": "辟谣/通报,汽车"
+    },
+    {
       "raw_hot": 556452,
       "num": 854657,
       "word": "肯德基保密54年的炸鸡配方将被公开",
       "onboard_time": 1759494261,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 532338,
+      "num": 532338,
+      "word": "全校的魔丸都在这个班里了",
+      "onboard_time": 1759549099,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 505410,
@@ -121,14 +145,6 @@
       "onboard_time": 1759485860,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 470228,
-      "num": 470228,
-      "word": "陈震车祸事件不涉及毒驾醉驾",
-      "onboard_time": 1759551380,
-      "rank": 19,
-      "category": "辟谣/通报,汽车"
     },
     {
       "raw_hot": 441877,
@@ -187,6 +203,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 335448,
+      "num": 212752,
+      "word": "Ning浴室摔伤",
+      "onboard_time": 1759554141,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 333380,
       "num": 333380,
       "word": "小米公司发言人回应",
@@ -203,6 +227,14 @@
       "category": "民生新闻,演出"
     },
     {
+      "raw_hot": 311741,
+      "num": 311741,
+      "word": "王曼昱蒯曼vs早田希娜朱芊曦",
+      "onboard_time": 1759552521,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301229,
       "num": 301229,
       "word": "哈马斯同意释放全部以色列人质",
@@ -217,6 +249,14 @@
       "onboard_time": 1759504762,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 297956,
+      "num": 210346,
+      "word": "刘诗诗怎么美成这样",
+      "onboard_time": 1759551681,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 295483,
@@ -236,7 +276,7 @@
     },
     {
       "raw_hot": 283669,
-      "num": 168333,
+      "num": 205723,
       "word": "王俊凯刚落地又飞走了",
       "onboard_time": 1759550001,
       "rank": 15,
@@ -257,14 +297,6 @@
       "onboard_time": 1759515855,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 263510,
-      "num": 261338,
-      "word": "全校的魔丸都在这个班里了",
-      "onboard_time": 1759549099,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 262621,
@@ -299,6 +331,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 245749,
+      "num": 193855,
+      "word": "白鹿 现在vlog都要我提醒你拍了吗",
+      "onboard_time": 1759553660,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 239130,
+      "num": 189833,
+      "word": "陈震称以车辆EDR数据通告为准",
+      "onboard_time": 1759553060,
+      "rank": 22,
+      "category": "汽车,网红"
+    },
+    {
       "raw_hot": 238480,
       "num": 153516,
       "word": "超过500度近视不要做的事",
@@ -329,14 +377,6 @@
       "onboard_time": 1759532235,
       "rank": 21,
       "category": "民生新闻,剧集"
-    },
-    {
-      "raw_hot": 227341,
-      "num": 167857,
-      "word": "央视中秋晚会首波阵容",
-      "onboard_time": 1759551921,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 220838,
@@ -395,12 +435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190049,
-      "num": 167506,
-      "word": "刘诗诗怎么美成这样",
-      "onboard_time": 1759551681,
-      "rank": 31,
-      "category": "作品衍生"
+      "raw_hot": 188380,
+      "num": 188380,
+      "word": "张远王霏霏盛夏芬德拉抱",
+      "onboard_time": 1759554320,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 184226,
@@ -427,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174478,
+      "num": 174478,
+      "word": "什么香这么臭",
+      "onboard_time": 1759554021,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169810,
       "num": 169810,
       "word": "墨西哥活火山上空疑出现UFO舰队",
@@ -441,6 +489,14 @@
       "onboard_time": 1759500923,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 169064,
+      "num": 169064,
+      "word": "王曼昱蒯曼女双冠军",
+      "onboard_time": 1759554801,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 168838,
@@ -465,6 +521,14 @@
       "onboard_time": 1759537398,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165857,
+      "num": 165857,
+      "word": "花儿与少年",
+      "onboard_time": 1759552340,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 157677,
@@ -579,12 +643,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123949,
+      "num": 123949,
+      "word": "白敬亭看似不热实则没招儿了",
+      "onboard_time": 1759553480,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 123832,
+      "num": 123832,
+      "word": "LOEWE眼光 惠英红就是奢侈品",
+      "onboard_time": 1759555160,
+      "rank": 31,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 123078,
       "num": 123078,
       "word": "谁看出来86版西游记换人了",
       "onboard_time": 1759549340,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119576,
+      "num": 119576,
+      "word": "家长把孩子忘服务区小孩哥淡定鼓掌",
+      "onboard_time": 1759551501,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118476,
+      "num": 118476,
+      "word": "太久没穿的鞋子就别穿了",
+      "onboard_time": 1759553000,
+      "rank": 33,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 116547,
@@ -619,28 +715,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 114923,
-      "num": 114923,
-      "word": "王曼昱蒯曼vs早田希娜朱芊曦",
-      "onboard_time": 1759552521,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 114386,
-      "num": 114386,
-      "word": "花儿与少年",
-      "onboard_time": 1759552340,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113450,
       "num": 113450,
       "word": "日本新首相或从小泉和高市中产生",
       "onboard_time": 1759549640,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113064,
+      "num": 113064,
+      "word": "檀健次说想和角色双向奔赴",
+      "onboard_time": 1759553242,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 111307,
@@ -665,6 +753,14 @@
       "onboard_time": 1759550600,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110471,
+      "num": 110471,
+      "word": "王一博请大家遵守观赛规定",
+      "onboard_time": 1759553120,
+      "rank": 36,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 110295,
@@ -715,6 +811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 106098,
+      "num": 106098,
+      "word": "于正 我跟任何明星都不怕比战绩",
+      "onboard_time": 1759551921,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105523,
       "num": 105523,
       "word": "莎头夺冠后王楚钦说赛前没有想到",
@@ -731,6 +835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104545,
+      "num": 103839,
+      "word": "陈哲远出发巴黎一步三回头",
+      "onboard_time": 1759554621,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103964,
       "num": 103964,
       "word": "同事问我是不是很穷",
@@ -739,12 +851,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 103700,
-      "num": 103700,
-      "word": "家长把孩子忘服务区小孩哥淡定鼓掌",
-      "onboard_time": 1759551501,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 103904,
+      "num": 103904,
+      "word": "60后赛车老头相亲说仅次于王一博",
+      "onboard_time": 1759554980,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 103390,
@@ -760,14 +872,6 @@
       "word": "杨洋蒋梦婕宝黛cp同游",
       "onboard_time": 1759505122,
       "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 102153,
-      "num": 102153,
-      "word": "于正 我跟任何明星都不怕比战绩",
-      "onboard_time": 1759551921,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -1059,12 +1163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77310,
+      "num": 103586,
+      "word": "那时喜欢你开播",
+      "onboard_time": 1759554021,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77033,
       "num": 77033,
       "word": "十一假期爬山统一现状",
       "onboard_time": 1759548021,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 75916,
+      "num": 103908,
+      "word": "周涛 央视严选",
+      "onboard_time": 1759555220,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 75874,
@@ -1252,7 +1372,7 @@
     },
     {
       "raw_hot": 61713,
-      "num": 168016,
+      "num": 200376,
       "word": "焕新极氪001打造星空音乐厅",
       "onboard_time": 1759551260,
       "rank": 17,
@@ -1291,12 +1411,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 47259,
+      "num": 197137,
+      "word": "广西多条河流出现超警洪水",
+      "onboard_time": 1759554680,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43778,
       "num": 58836,
       "word": "没想到我会收到阅兵观礼请柬",
       "onboard_time": 1759509919,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41803,
+      "num": 126008,
+      "word": "李淇是无数个青年人中的一个",
+      "onboard_time": 1759554560,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 39595,
@@ -1331,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36667,
+      "num": 103958,
+      "word": "王楚钦跺跺脚",
+      "onboard_time": 1759554621,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35984,
       "num": 42930,
       "word": "何健麒直播",
@@ -1340,7 +1484,7 @@
     },
     {
       "raw_hot": 35531,
-      "num": 167101,
+      "num": 203104,
       "word": "欧莱雅群星闪耀巴黎时装周",
       "onboard_time": 1759552460,
       "rank": 19,
