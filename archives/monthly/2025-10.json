@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759582697600,
+  "endTime": 1759584348762,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -684,7 +684,7 @@
     },
     {
       "raw_hot": 789816,
-      "num": 171961,
+      "num": 177372,
       "word": "陈都灵眼袋",
       "onboard_time": 1759576581,
       "rank": 39,
@@ -1027,6 +1027,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 637732,
+      "num": 541455,
+      "word": "王曼昱鹰眼挑战失败",
+      "onboard_time": 1759580002,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 637256,
       "num": 225986,
       "word": "网传将门毒后确定迪丽热巴",
@@ -1076,7 +1084,7 @@
     },
     {
       "raw_hot": 618213,
-      "num": 171472,
+      "num": 173856,
       "word": "喝水少 蛀牙",
       "onboard_time": 1759577961,
       "rank": 12,
@@ -1259,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 563954,
+      "num": 175486,
+      "word": "hi6",
+      "onboard_time": 1759582282,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 559567,
       "num": 899530,
       "word": "小米汽车突然自己开走",
@@ -1321,14 +1337,6 @@
       "onboard_time": 1759465279,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 541455,
-      "num": 541455,
-      "word": "王曼昱鹰眼挑战失败",
-      "onboard_time": 1759580002,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 540093,
@@ -1408,6 +1416,14 @@
       "word": "者来女回复",
       "onboard_time": 1759374079,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 523296,
+      "num": 171779,
+      "word": "方媛说现在已经不能坐飞机了",
+      "onboard_time": 1759579221,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -1915,14 +1931,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 405612,
-      "num": 168700,
-      "word": "方媛说现在已经不能坐飞机了",
-      "onboard_time": 1759579221,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 404200,
       "num": 312347,
       "word": "美媒关注鸡排哥",
@@ -1945,6 +1953,14 @@
       "onboard_time": 1759456577,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 395653,
+      "num": 395653,
+      "word": "女生拍照吊威亚游客入镜似5毛特效",
+      "onboard_time": 1759582102,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 394008,
@@ -3051,6 +3067,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 254653,
+      "num": 254653,
+      "word": "清融",
+      "onboard_time": 1759583120,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 253942,
       "num": 253942,
       "word": "女子过度医美面部馒化酷似面具人",
@@ -3761,6 +3785,14 @@
       "onboard_time": 1759314081,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207706,
+      "num": 151123,
+      "word": "网速快",
+      "onboard_time": 1759583540,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 207610,
@@ -4531,12 +4563,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 181428,
-      "num": 165730,
-      "word": "hi6",
-      "onboard_time": 1759582282,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 181803,
+      "num": 181803,
+      "word": "AG对战JDG",
+      "onboard_time": 1759583182,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 181340,
@@ -4697,6 +4729,14 @@
       "onboard_time": 1759413021,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172003,
+      "num": 128479,
+      "word": "非常小众但收入不错的工作",
+      "onboard_time": 1759583961,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 171716,
@@ -5521,14 +5561,6 @@
       "onboard_time": 1759484901,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151252,
-      "num": 168375,
-      "word": "女生拍照吊威亚游客入镜似5毛特效",
-      "onboard_time": 1759582102,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151229,
@@ -6411,6 +6443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133917,
+      "num": 133917,
+      "word": "贾静雯50岁状态",
+      "onboard_time": 1759583423,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133737,
       "num": 133737,
       "word": "金价见证历史",
@@ -6625,6 +6665,14 @@
       "onboard_time": 1759479980,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130288,
+      "num": 130288,
+      "word": "孙颖莎说邱指导都没法场外指导",
+      "onboard_time": 1759581921,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 130156,
@@ -6873,6 +6921,14 @@
       "onboard_time": 1759459698,
       "rank": 31,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 126312,
+      "num": 126312,
+      "word": "陈伟霆你们笑得太大声了",
+      "onboard_time": 1759584022,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 126290,
@@ -7529,14 +7585,6 @@
       "onboard_time": 1759569321,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115786,
-      "num": 115786,
-      "word": "孙颖莎说邱指导都没法场外指导",
-      "onboard_time": 1759581921,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 115583,
@@ -8459,6 +8507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106414,
+      "num": 106414,
+      "word": "热巴业务能力太强",
+      "onboard_time": 1759583481,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106296,
       "num": 106296,
       "word": "巴西蚊子工厂准备投产",
@@ -8496,6 +8552,14 @@
       "word": "景德镇努力接住鸡排哥泼天流量",
       "onboard_time": 1759473980,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105941,
+      "num": 105941,
+      "word": "河南游客穿毛衣来浙江下高速就懵了",
+      "onboard_time": 1759583120,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -8689,6 +8753,14 @@
       "onboard_time": 1759405102,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 104344,
+      "num": 104344,
+      "word": "南京队0比0连云港队",
+      "onboard_time": 1759584141,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 104298,
@@ -8897,6 +8969,14 @@
       "onboard_time": 1759316362,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102183,
+      "num": 102183,
+      "word": "金球奖影后回应AI女演员出道",
+      "onboard_time": 1759583661,
+      "rank": 44,
+      "category": "艺人,海外新闻"
     },
     {
       "raw_hot": 102126,
@@ -9139,6 +9219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99925,
+      "num": 99925,
+      "word": "无畏上场",
+      "onboard_time": 1759584202,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99644,
       "num": 99644,
       "word": "周峻纬这就是留子的魅力吗",
@@ -9217,6 +9305,14 @@
       "onboard_time": 1759398140,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98874,
+      "num": 100700,
+      "word": "林诗栋掌镜与王楚钦冠军自拍",
+      "onboard_time": 1759583182,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 98856,
@@ -12875,6 +12971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32821,
+      "num": 397512,
+      "word": "星空有约",
+      "onboard_time": 1759583722,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32810,
       "num": 88646,
       "word": "网友曝鸡排哥童年照片被指不妥",
@@ -13424,6 +13528,14 @@
       "word": "旅游团购物点上演小剧场围猎客户",
       "onboard_time": 1759476740,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7095,
+      "num": 104916,
+      "word": "6元买的是热乎鸡排不是无止境表演",
+      "onboard_time": 1759584322,
+      "rank": 41,
       "category": "民生新闻"
     },
     {

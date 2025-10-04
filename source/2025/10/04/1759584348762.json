@@ -1,0 +1,410 @@
+{
+  "runTime": 1759584348762,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1397199,
+        "num": 1397199,
+        "word": "晓华理发店已没了爆火时的人潮",
+        "onboard_time": 1759574361,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412837,
+        "num": 412837,
+        "word": "王楚钦林诗栋男双夺冠",
+        "onboard_time": 1759579881,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32821,
+        "num": 397512,
+        "word": "星空有约",
+        "onboard_time": 1759583722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637732,
+        "num": 397078,
+        "word": "王曼昱鹰眼挑战失败",
+        "onboard_time": 1759580002,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395653,
+        "num": 395653,
+        "word": "女生拍照吊威亚游客入镜似5毛特效",
+        "onboard_time": 1759582102,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387717,
+        "num": 387717,
+        "word": "台风红色预警发布",
+        "onboard_time": 1759575802,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 254653,
+        "num": 254653,
+        "word": "清融",
+        "onboard_time": 1759583120,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181803,
+        "num": 181803,
+        "word": "AG对战JDG",
+        "onboard_time": 1759583182,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181110,
+        "num": 181110,
+        "word": "高市早苗或成日本首个女首相",
+        "onboard_time": 1759559060,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136118,
+        "num": 180884,
+        "word": "G6666次列车限时开行",
+        "onboard_time": 1759573880,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 698751,
+        "num": 177372,
+        "word": "陈都灵眼袋",
+        "onboard_time": 1759576581,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 563954,
+        "num": 175486,
+        "word": "hi6",
+        "onboard_time": 1759582282,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 524225,
+        "num": 173856,
+        "word": "喝水少 蛀牙",
+        "onboard_time": 1759577961,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 523296,
+        "num": 171779,
+        "word": "方媛说现在已经不能坐飞机了",
+        "onboard_time": 1759579221,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415594,
+        "num": 170944,
+        "word": "微信里的钱包一定要上锁",
+        "onboard_time": 1759573521,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 317601,
+        "num": 169611,
+        "word": "热巴娜扎 新疆双美闪耀巴黎",
+        "onboard_time": 1759574660,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309221,
+        "num": 167218,
+        "word": "文咏珊孩子 手握顶级人生剧本",
+        "onboard_time": 1759572319,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259689,
+        "num": 165204,
+        "word": "网剧以她之韧",
+        "onboard_time": 1759577122,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247220,
+        "num": 163643,
+        "word": "乃万瘦到不足42kg",
+        "onboard_time": 1759563860,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161949,
+        "num": 161949,
+        "word": "网红赤木刚宪爆改许妍",
+        "onboard_time": 1759579881,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 880480,
+        "num": 156367,
+        "word": "鸡排哥 精神贫瘠涌向鲜活生命",
+        "onboard_time": 1759577540,
+        "rank": 20,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 238149,
+        "num": 156047,
+        "word": "李湘打码掌纹",
+        "onboard_time": 1759572920,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207706,
+        "num": 151123,
+        "word": "网速快",
+        "onboard_time": 1759583540,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142451,
+        "num": 142451,
+        "word": "王玉雯也在追许我耀眼",
+        "onboard_time": 1759578381,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139053,
+        "num": 139053,
+        "word": "张杰终于唱了忽然之间",
+        "onboard_time": 1759581382,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137300,
+        "num": 137300,
+        "word": "鹿晗演唱会",
+        "onboard_time": 1759579700,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135984,
+        "num": 135984,
+        "word": "范丞丞章若楠想合作爱情片",
+        "onboard_time": 1759581861,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133917,
+        "num": 133917,
+        "word": "贾静雯50岁状态",
+        "onboard_time": 1759583423,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132436,
+        "num": 132436,
+        "word": "许我耀眼",
+        "onboard_time": 1759564820,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130288,
+        "num": 130288,
+        "word": "孙颖莎说邱指导都没法场外指导",
+        "onboard_time": 1759581921,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172003,
+        "num": 128479,
+        "word": "非常小众但收入不错的工作",
+        "onboard_time": 1759583961,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126550,
+        "num": 126550,
+        "word": "丈夫反对投资120万女子生气砸断餐桌",
+        "onboard_time": 1759580901,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126312,
+        "num": 126312,
+        "word": "陈伟霆你们笑得太大声了",
+        "onboard_time": 1759584022,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125571,
+        "num": 125571,
+        "word": "许我耀眼39.2%",
+        "onboard_time": 1759569259,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117516,
+        "num": 117516,
+        "word": "原来扛事的性格是这样培养出来的",
+        "onboard_time": 1759576401,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114067,
+        "num": 114067,
+        "word": "刘诗诗 富士山等来了她的女主角",
+        "onboard_time": 1759572800,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110537,
+        "num": 110537,
+        "word": "第一次见生理性喜欢主人的小猫咪",
+        "onboard_time": 1759574960,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108923,
+        "num": 108923,
+        "word": "陈幸同受灯光干扰叫停比赛",
+        "onboard_time": 1759572559,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108289,
+        "num": 108289,
+        "word": "苏超",
+        "onboard_time": 1759576280,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106414,
+        "num": 106414,
+        "word": "热巴业务能力太强",
+        "onboard_time": 1759583481,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105941,
+        "num": 105941,
+        "word": "河南游客穿毛衣来浙江下高速就懵了",
+        "onboard_time": 1759583120,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7095,
+        "num": 104916,
+        "word": "6元买的是热乎鸡排不是无止境表演",
+        "onboard_time": 1759584322,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104344,
+        "num": 104344,
+        "word": "南京队0比0连云港队",
+        "onboard_time": 1759584141,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102742,
+        "num": 102742,
+        "word": "鸡排哥称我人都要窒息了",
+        "onboard_time": 1759566381,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102183,
+        "num": 102183,
+        "word": "金球奖影后回应AI女演员出道",
+        "onboard_time": 1759583661,
+        "rank": 44,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 101476,
+        "num": 101476,
+        "word": "11个月的比4岁的睡觉还要乖",
+        "onboard_time": 1759581441,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100871,
+        "num": 100871,
+        "word": "祝绪丹开机前一天被换角",
+        "onboard_time": 1759579700,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98874,
+        "num": 100700,
+        "word": "林诗栋掌镜与王楚钦冠军自拍",
+        "onboard_time": 1759583182,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100693,
+        "num": 100693,
+        "word": "周也 不输欧美人的骨相",
+        "onboard_time": 1759572021,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99925,
+        "num": 99925,
+        "word": "无畏上场",
+        "onboard_time": 1759584202,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#爱国情在血脉中流淌#"
+    }
+  }
+}
