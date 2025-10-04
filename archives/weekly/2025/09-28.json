@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759581858001,
+  "endTime": 1759582697600,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -699,6 +699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1031007,
+      "num": 172068,
+      "word": "鸡排哥 精神贫瘠涌向鲜活生命",
+      "onboard_time": 1759577540,
+      "rank": 30,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 1028081,
       "num": 819215,
       "word": "蜜雪冰城门店 老鼠横行",
@@ -1049,14 +1057,6 @@
       "onboard_time": 1759193121,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 906207,
-      "num": 172068,
-      "word": "鸡排哥 精神贫瘠涌向鲜活生命",
-      "onboard_time": 1759577540,
-      "rank": 30,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 902049,
@@ -2611,12 +2611,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 541455,
+      "num": 541455,
+      "word": "王曼昱鹰眼挑战失败",
+      "onboard_time": 1759580002,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 540093,
       "num": 540093,
       "word": "中国驻韩国大使馆严正发声",
       "onboard_time": 1759402940,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 538426,
+      "num": 538426,
+      "word": "台风红色预警发布",
+      "onboard_time": 1759575802,
+      "rank": 23,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 538279,
@@ -3035,14 +3051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 490173,
-      "num": 490173,
-      "word": "台风红色预警发布",
-      "onboard_time": 1759575802,
-      "rank": 23,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 489561,
       "num": 489561,
       "word": "惠英红 争气两字我已经说了多遍",
@@ -3379,6 +3387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 455144,
+      "num": 171265,
+      "word": "微信里的钱包一定要上锁",
+      "onboard_time": 1759573521,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 453879,
       "num": 200475,
       "word": "薛之谦说有点不敢接音乐节了",
@@ -3545,14 +3561,6 @@
       "onboard_time": 1759153701,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 437209,
-      "num": 171265,
-      "word": "微信里的钱包一定要上锁",
-      "onboard_time": 1759573521,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 435332,
@@ -3785,6 +3793,14 @@
       "onboard_time": 1759031121,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 405612,
+      "num": 168700,
+      "word": "方媛说现在已经不能坐飞机了",
+      "onboard_time": 1759579221,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 404911,
@@ -4379,6 +4395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 348800,
+      "num": 170455,
+      "word": "网剧以她之韧",
+      "onboard_time": 1759577122,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 347168,
       "num": 347168,
       "word": "恋与深空",
@@ -4449,14 +4473,6 @@
       "onboard_time": 1759385542,
       "rank": 21,
       "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 340910,
-      "num": 340910,
-      "word": "王曼昱鹰眼挑战失败",
-      "onboard_time": 1759580002,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 338572,
@@ -4585,14 +4601,6 @@
       "onboard_time": 1759223121,
       "rank": 17,
       "category": "情感,运动健身"
-    },
-    {
-      "raw_hot": 324972,
-      "num": 170455,
-      "word": "网剧以她之韧",
-      "onboard_time": 1759577122,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 323084,
@@ -6299,14 +6307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226448,
-      "num": 168700,
-      "word": "方媛说现在已经不能坐飞机了",
-      "onboard_time": 1759579221,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 225506,
       "num": 177521,
       "word": "周柯宇战至巅峰",
@@ -7027,6 +7027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201920,
+      "num": 168090,
+      "word": "张杰终于唱了忽然之间",
+      "onboard_time": 1759581382,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201683,
       "num": 169912,
       "word": "邓为入选26巴黎时装周最佳街拍",
@@ -7643,14 +7651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191891,
-      "num": 168090,
-      "word": "张杰终于唱了忽然之间",
-      "onboard_time": 1759581382,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 191793,
       "num": 191793,
       "word": "谁家男主出场三集就说十句",
@@ -8203,12 +8203,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181822,
+      "num": 165788,
+      "word": "网红赤木刚宪爆改许妍",
+      "onboard_time": 1759579881,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 181736,
       "num": 366905,
       "word": "今天支付宝首页很应景",
       "onboard_time": 1759111701,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 181428,
+      "num": 165730,
+      "word": "hi6",
+      "onboard_time": 1759582282,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 181375,
@@ -9203,6 +9219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165477,
+      "num": 165477,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1759579700,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 165198,
       "num": 165198,
       "word": "魔法公主的小烦恼开播",
@@ -9241,14 +9265,6 @@
       "onboard_time": 1759385721,
       "rank": 23,
       "category": "情感"
-    },
-    {
-      "raw_hot": 164964,
-      "num": 164964,
-      "word": "鹿晗演唱会",
-      "onboard_time": 1759579700,
-      "rank": 28,
-      "category": "演出"
     },
     {
       "raw_hot": 164889,
@@ -9699,6 +9715,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158195,
+      "num": 158195,
+      "word": "原来扛事的性格是这样培养出来的",
+      "onboard_time": 1759576401,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 158038,
+      "num": 158038,
+      "word": "王楚钦林诗栋夺冠路上仅丢一局",
+      "onboard_time": 1759581740,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157889,
       "num": 157889,
       "word": "K签并非所谓的无门槛开放",
@@ -9963,14 +9995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154047,
-      "num": 154047,
-      "word": "原来扛事的性格是这样培养出来的",
-      "onboard_time": 1759576401,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 153985,
       "num": 160243,
       "word": "AG年总三连胜",
@@ -10155,12 +10179,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 151614,
-      "num": 151614,
-      "word": "网红赤木刚宪爆改许妍",
-      "onboard_time": 1759579881,
-      "rank": 31,
-      "category": "网红"
+      "raw_hot": 151642,
+      "num": 151642,
+      "word": "王源厦门演唱会",
+      "onboard_time": 1759582282,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 151513,
@@ -10177,6 +10201,14 @@
       "onboard_time": 1759073425,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 151252,
+      "num": 168375,
+      "word": "女生拍照吊威亚游客入镜似5毛特效",
+      "onboard_time": 1759582102,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151229,
@@ -10483,6 +10515,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147017,
+      "num": 147017,
+      "word": "范丞丞章若楠想合作爱情片",
+      "onboard_time": 1759581861,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 146999,
+      "num": 146999,
+      "word": "孙颖莎晋级决赛",
+      "onboard_time": 1759582161,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146955,
       "num": 146955,
       "word": "蔡徐坤背影",
@@ -10777,6 +10825,14 @@
       "onboard_time": 1759126822,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144445,
+      "num": 144445,
+      "word": "王玉雯也在追许我耀眼",
+      "onboard_time": 1759578381,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 144397,
@@ -12003,6 +12059,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132158,
+      "num": 132158,
+      "word": "王楚钦林诗栋11比8周启豪陈俊菘",
+      "onboard_time": 1759582041,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132106,
+      "num": 132106,
+      "word": "丈夫反对投资120万女子生气砸断餐桌",
+      "onboard_time": 1759580901,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132102,
       "num": 132102,
       "word": "毕正明的证明 黑马",
@@ -12321,14 +12393,6 @@
       "onboard_time": 1759043840,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129456,
-      "num": 126580,
-      "word": "王玉雯也在追许我耀眼",
-      "onboard_time": 1759578381,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 129445,
@@ -13163,6 +13227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122889,
+      "num": 122889,
+      "word": "祝绪丹开机前一天被换角",
+      "onboard_time": 1759579700,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122768,
       "num": 122768,
       "word": "9月30日下班的我就这样",
@@ -13683,14 +13755,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 119124,
-      "num": 119124,
-      "word": "祝绪丹开机前一天被换角",
-      "onboard_time": 1759579700,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119033,
       "num": 169632,
       "word": "林依轮背后环抱王源",
@@ -13809,6 +13873,14 @@
       "onboard_time": 1759556120,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117748,
+      "num": 117748,
+      "word": "11个月的比4岁的睡觉还要乖",
+      "onboard_time": 1759581441,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 117696,
@@ -14091,6 +14163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115786,
+      "num": 115786,
+      "word": "孙颖莎说邱指导都没法场外指导",
+      "onboard_time": 1759581921,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115779,
       "num": 115779,
       "word": "今天还在工位的有福了",
@@ -14185,14 +14265,6 @@
       "onboard_time": 1758989302,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 115167,
-      "num": 115167,
-      "word": "王楚钦林诗栋夺冠路上仅丢一局",
-      "onboard_time": 1759581740,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 115026,
@@ -14337,14 +14409,6 @@
       "onboard_time": 1759155323,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 113921,
-      "num": 113921,
-      "word": "11个月的比4岁的睡觉还要乖",
-      "onboard_time": 1759581441,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 113905,
@@ -15129,6 +15193,14 @@
       "onboard_time": 1759392620,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109222,
+      "num": 109222,
+      "word": "王励勤为王楚钦林诗栋颁奖",
+      "onboard_time": 1759581142,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 109192,
@@ -18595,6 +18667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87380,
+      "num": 144495,
+      "word": "孙颖莎被擦边逗乐了",
+      "onboard_time": 1759582581,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87348,
       "num": 87348,
       "word": "檀健次我记得我在法国啊",
@@ -19691,6 +19771,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 79248,
+      "num": 144710,
+      "word": "四川屏山县公安局副局长李虎因公殉职",
+      "onboard_time": 1759581501,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79191,
       "num": 79191,
       "word": "降价的西贝与出圈的鸡排哥",
@@ -20323,6 +20411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72188,
+      "num": 169884,
+      "word": "广东进入台风戒备状态",
+      "onboard_time": 1759580720,
+      "rank": 18,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 72135,
       "num": 72135,
       "word": "再看孙颖莎亚运夺金依旧很燃",
@@ -20611,14 +20707,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 68020,
-      "num": 119131,
-      "word": "四川屏山县公安局副局长李虎因公殉职",
-      "onboard_time": 1759581501,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67919,
       "num": 205757,
       "word": "贵州1溶洞被曝垃圾成山污水直排",
@@ -20689,14 +20777,6 @@
       "onboard_time": 1759037842,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 66826,
-      "num": 169884,
-      "word": "广东进入台风戒备状态",
-      "onboard_time": 1759580720,
-      "rank": 18,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 66788,
@@ -20993,14 +21073,6 @@
       "onboard_time": 1759252338,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 63004,
-      "num": 119360,
-      "word": "丈夫反对投资120万女子生气砸断餐桌",
-      "onboard_time": 1759580901,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62805,
@@ -23123,6 +23195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27149,
+      "num": 145011,
+      "word": "麦德姆来了深圳开始刮风下雨了",
+      "onboard_time": 1759581501,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27086,
       "num": 32467,
       "word": "章若楠跳angel舞了",
@@ -23569,14 +23649,6 @@
       "onboard_time": 1758998295,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21118,
-      "num": 120422,
-      "word": "麦德姆来了深圳开始刮风下雨了",
-      "onboard_time": 1759581501,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21060,
