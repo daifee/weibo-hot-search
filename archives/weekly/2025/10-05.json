@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759616529532,
+  "endTime": 1759617469255,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 203376,
+      "num": 460474,
+      "word": "专家称要对高市早苗动向保持警惕",
+      "onboard_time": 1759589962,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 191362,
       "num": 115741,
       "word": "微信里的钱包一定要上锁",
@@ -161,14 +169,6 @@
       "onboard_time": 1759589063,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 152129,
-      "num": 369496,
-      "word": "专家称要对高市早苗动向保持警惕",
-      "onboard_time": 1759589962,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 147498,
@@ -251,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89721,
+      "num": 51922,
+      "word": "家有儿女还是太写实了",
+      "onboard_time": 1759610053,
+      "rank": 22,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 88549,
       "num": 93384,
       "word": "赵今麦美拉德造型出发巴黎",
@@ -329,14 +337,6 @@
       "onboard_time": 1759593320,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 70171,
-      "num": 38703,
-      "word": "家有儿女还是太写实了",
-      "onboard_time": 1759610053,
-      "rank": 22,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 67068,
@@ -451,6 +451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 41955,
+      "num": 41955,
+      "word": "内娱艺人国外热度榜",
+      "onboard_time": 1759611074,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39043,
       "num": 87285,
       "word": "震耳欲聋",
@@ -459,12 +467,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 36447,
-      "num": 36447,
-      "word": "内娱艺人国外热度榜",
-      "onboard_time": 1759611074,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 36475,
+      "num": 53884,
+      "word": "景区回应男童坠落栈道已加装护栏",
+      "onboard_time": 1759609815,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33091,
@@ -507,36 +515,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 22113,
-      "num": 39482,
-      "word": "景区回应男童坠落栈道已加装护栏",
-      "onboard_time": 1759609815,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18231,
-      "num": 32006,
+      "num": 39430,
       "word": "巴黎世家新设计师首秀",
       "onboard_time": 1759572200,
       "rank": 40,
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 16383,
-      "num": 32030,
-      "word": "张小斐 危险迷人的都市女郎",
-      "onboard_time": 1759600815,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 14934,
-      "num": 31989,
+      "raw_hot": 17823,
+      "num": 39500,
       "word": "王曼昱说跟莎莎决赛会全力以赴",
       "onboard_time": 1759607294,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16383,
+      "num": 39462,
+      "word": "张小斐 危险迷人的都市女郎",
+      "onboard_time": 1759600815,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 13882,

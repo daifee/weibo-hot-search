@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/05 06:22:09
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/05 06:37:49
 </p>
 </blockquote>
 <p>
@@ -3087,6 +3087,12 @@ TTG战胜TES（热度：206119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%A6%81%E5%AF%B9%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8A%A8%E5%90%91%E4%BF%9D%E6%8C%81%E8%AD%A6%E6%83%95%23" target="weibo">
+专家称要对高市早苗动向保持警惕（热度：203376）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E7%94%B0%E6%9B%A6%E8%96%87%E5%B0%86%E6%BC%94%E6%94%BB%E7%8E%89%23" target="weibo">
 龚俊田曦薇将演攻玉（热度：202662）
 </a>
@@ -4313,12 +4319,6 @@ AG年总三连胜（热度：153985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E9%AB%98%E5%9C%86%E5%9C%86%E5%89%AA%E7%9A%84%E5%88%98%E6%B5%B7%23" target="weibo">
 谁给高圆圆剪的刘海（热度：152259）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%A6%81%E5%AF%B9%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8A%A8%E5%90%91%E4%BF%9D%E6%8C%81%E8%AD%A6%E6%83%95%23" target="weibo">
-专家称要对高市早苗动向保持警惕（热度：152129）
 </a>
 </li>
 
