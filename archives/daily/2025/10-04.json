@@ -1,10 +1,18 @@
 {
   "startTime": 1759509046450,
-  "endTime": 1759549414749,
+  "endTime": 1759552098988,
   "band_list": [
     {
+      "raw_hot": 3066227,
+      "num": 3066227,
+      "word": "北京交警通报陈震发生车祸",
+      "onboard_time": 1759550240,
+      "rank": 0,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1798840,
-      "num": 165789,
+      "num": 167489,
       "word": "许我耀眼 盗图",
       "onboard_time": 1759544299,
       "rank": 10,
@@ -19,12 +27,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1291699,
+      "num": 722845,
+      "word": "陈震妻子回应",
+      "onboard_time": 1759546639,
+      "rank": 7,
+      "category": "汽车,网红"
+    },
+    {
       "raw_hot": 998253,
       "num": 1152073,
       "word": "陈震劳斯莱斯车祸后发博",
       "onboard_time": 1759539800,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 964498,
+      "num": 964498,
+      "word": "陈震负事故全部责任",
+      "onboard_time": 1759550779,
+      "rank": 1,
+      "category": "辟谣/通报,汽车"
     },
     {
       "raw_hot": 902049,
@@ -36,7 +60,7 @@
     },
     {
       "raw_hot": 794647,
-      "num": 164794,
+      "num": 165187,
       "word": "董璇说张维伊烦人难看幼稚",
       "onboard_time": 1759544299,
       "rank": 11,
@@ -59,14 +83,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 722845,
-      "num": 722845,
-      "word": "陈震妻子回应",
-      "onboard_time": 1759546639,
-      "rank": 7,
-      "category": "汽车,网红"
-    },
-    {
       "raw_hot": 603069,
       "num": 603069,
       "word": "顾客为合影将鸡排哥堵在墙角",
@@ -81,6 +97,14 @@
       "onboard_time": 1759494261,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 550168,
+      "num": 165980,
+      "word": "谢娜不敢相信我要主持央视中秋晚会",
+      "onboard_time": 1759549819,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 505410,
@@ -147,8 +171,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 365375,
-      "num": 164516,
+      "raw_hot": 388372,
+      "num": 388372,
       "word": "以为在装病结果真确诊了",
       "onboard_time": 1759547779,
       "rank": 30,
@@ -195,6 +219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 283669,
+      "num": 164686,
+      "word": "王俊凯刚落地又飞走了",
+      "onboard_time": 1759550001,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 277339,
       "num": 277339,
       "word": "731毒气实验室玩具已下架",
@@ -209,6 +241,14 @@
       "onboard_time": 1759515855,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263510,
+      "num": 164368,
+      "word": "全校的魔丸都在这个班里了",
+      "onboard_time": 1759549099,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 262621,
@@ -243,8 +283,16 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 253257,
+      "num": 253257,
+      "word": "特朗普头像 1美元硬币",
+      "onboard_time": 1759548560,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 238480,
-      "num": 150043,
+      "num": 153516,
       "word": "超过500度近视不要做的事",
       "onboard_time": 1759540459,
       "rank": 20,
@@ -259,6 +307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 232809,
+      "num": 162798,
+      "word": "中国选手孙亨裕在韩国见义勇为",
+      "onboard_time": 1759547539,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232419,
       "num": 186344,
       "word": "大学生用30天花20万自制特摄短剧",
@@ -268,7 +324,7 @@
     },
     {
       "raw_hot": 220838,
-      "num": 135541,
+      "num": 161590,
       "word": "孙子推倒女孩爷爷反安慰孙子",
       "onboard_time": 1759546460,
       "rank": 30,
@@ -403,8 +459,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 144989,
-      "num": 132639,
+      "raw_hot": 147346,
+      "num": 147346,
       "word": "年年体检无异常发现却是晚期",
       "onboard_time": 1759547060,
       "rank": 36,
@@ -475,20 +531,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128557,
+      "num": 122864,
+      "word": "范丞丞让章若楠穿裙子的愿望实现了",
+      "onboard_time": 1759549699,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 123078,
       "num": 123078,
       "word": "谁看出来86版西游记换人了",
       "onboard_time": 1759549340,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122631,
-      "num": 122631,
-      "word": "中国选手孙亨裕在韩国见义勇为",
-      "onboard_time": 1759547539,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 116547,
@@ -523,6 +579,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114649,
+      "num": 114649,
+      "word": "嘎子谢孟伟说我回来了",
+      "onboard_time": 1759551561,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 113450,
+      "num": 113450,
+      "word": "日本新首相或从小泉和高市中产生",
+      "onboard_time": 1759549640,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 112024,
+      "num": 112024,
+      "word": "刘诗诗怎么美成这样",
+      "onboard_time": 1759551681,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 111307,
       "num": 97338,
       "word": "加拿大或将30头白鲸安乐死",
@@ -537,6 +617,14 @@
       "onboard_time": 1759545859,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110488,
+      "num": 113762,
+      "word": "李沁是朱锐斌的灵感缪斯吧",
+      "onboard_time": 1759550600,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 110295,
@@ -561,14 +649,6 @@
       "onboard_time": 1759487242,
       "rank": 27,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 107405,
-      "num": 107405,
-      "word": "特朗普头像 1美元硬币",
-      "onboard_time": 1759548560,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107058,
@@ -609,6 +689,14 @@
       "onboard_time": 1759502902,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 103964,
+      "num": 103964,
+      "word": "同事问我是不是很穷",
+      "onboard_time": 1759548740,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 103390,
@@ -659,6 +747,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100180,
+      "num": 100180,
+      "word": "好害怕这俩接吻毒死对方",
+      "onboard_time": 1759549460,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99489,
+      "num": 99489,
+      "word": "于正 我跟任何明星都不怕比战绩",
+      "onboard_time": 1759551921,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96920,
+      "num": 96920,
+      "word": "孙颖莎王楚钦的手茧好明显",
+      "onboard_time": 1759551201,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96799,
       "num": 96799,
       "word": "易瘦体质都是怎样无意识养成的",
@@ -683,20 +795,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93096,
+      "num": 93096,
+      "word": "央视中秋晚会首波阵容",
+      "onboard_time": 1759551921,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 92453,
+      "num": 96423,
+      "word": "副县长当客服每天接100多个电话",
+      "onboard_time": 1759550541,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92341,
       "num": 92341,
       "word": "普京致意中国兄弟姐妹",
       "onboard_time": 1759542319,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 90455,
-      "num": 90455,
-      "word": "全校的魔丸都在这个班里了",
-      "onboard_time": 1759549099,
-      "rank": 38,
-      "category": "幽默"
     },
     {
       "raw_hot": 90423,
@@ -843,8 +963,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80945,
+      "num": 80945,
+      "word": "第一次嗑到了甲乙方",
+      "onboard_time": 1759551980,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80095,
-      "num": 80095,
+      "num": 81708,
       "word": "冲动消费最大一笔钱",
       "onboard_time": 1759548620,
       "rank": 43,
@@ -899,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75198,
+      "num": 161870,
+      "word": "陈震车祸事件不涉及毒驾醉驾",
+      "onboard_time": 1759551380,
+      "rank": 19,
+      "category": "辟谣/通报,汽车"
+    },
+    {
       "raw_hot": 75161,
       "num": 75161,
       "word": "孙颖莎王楚钦希望多配合打比赛",
@@ -912,14 +1048,6 @@
       "word": "果然对得起黄毛两个字",
       "onboard_time": 1759547119,
       "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 73663,
-      "num": 73663,
-      "word": "同事问我是不是很穷",
-      "onboard_time": 1759548740,
-      "rank": 44,
       "category": "幽默"
     },
     {
@@ -1067,6 +1195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 61713,
+      "num": 163653,
+      "word": "焕新极氪001打造星空音乐厅",
+      "onboard_time": 1759551260,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 60808,
       "num": 60808,
       "word": "东北虎不爱干净得名二埋汰",
@@ -1081,6 +1217,14 @@
       "onboard_time": 1759504701,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58406,
+      "num": 651202,
+      "word": "国庆中秋假期游玩好去处",
+      "onboard_time": 1759550900,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55075,
@@ -1105,6 +1249,14 @@
       "onboard_time": 1759488981,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 39432,
+      "num": 96166,
+      "word": "苏菲玛索 车里抽烟随拍",
+      "onboard_time": 1759551620,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 39048,
@@ -1155,6 +1307,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 25248,
+      "num": 84352,
+      "word": "美政府停摆将继续",
+      "onboard_time": 1759550421,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24007,
       "num": 38730,
       "word": "王曼昱说半决赛要做好困难准备",
@@ -1201,6 +1361,9 @@
     },
     {
       "word": "#习近平致电祝贺卢森堡大公纪尧姆即位#"
+    },
+    {
+      "word": "#追光的你#"
     }
   ]
 }
