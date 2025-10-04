@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759534603898,
+  "endTime": 1759542258205,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -403,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 950457,
+      "num": 1152073,
+      "word": "陈震劳斯莱斯车祸后发博",
+      "onboard_time": 1759539800,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 936520,
       "num": 1149843,
       "word": "提醒在韩中国游客注意人身安全",
@@ -456,6 +464,14 @@
       "word": "您已进入鸡排大道请打开您的塑料袋",
       "onboard_time": 1759312820,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 880400,
+      "num": 880400,
+      "word": "官方通报29岁男子婚礼当天跳河",
+      "onboard_time": 1759540878,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -609,6 +625,14 @@
       "onboard_time": 1759382720,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 756898,
+      "num": 756898,
+      "word": "中高度近视戒掉眼镜6天的状态",
+      "onboard_time": 1759535178,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 756562,
@@ -833,6 +857,14 @@
       "onboard_time": 1759469721,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 652776,
+      "num": 193534,
+      "word": "阿沁回应被踢出飞儿乐团",
+      "onboard_time": 1759538960,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 648272,
@@ -1995,6 +2027,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 316571,
+      "num": 316571,
+      "word": "女子演唱会丢失11万手镯发帖找回",
+      "onboard_time": 1759516575,
+      "rank": 40,
+      "category": "民生新闻,演出"
+    },
+    {
       "raw_hot": 315459,
       "num": 219544,
       "word": "当我瘦了50斤奶奶的反应",
@@ -2049,6 +2089,14 @@
       "onboard_time": 1759381223,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301229,
+      "num": 301229,
+      "word": "哈马斯同意释放全部以色列人质",
+      "onboard_time": 1759534277,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 299617,
@@ -2547,6 +2595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245067,
+      "num": 188114,
+      "word": "沈皓明 妍妍为什么不接我电话嘞",
+      "onboard_time": 1759515855,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244911,
       "num": 244911,
       "word": "解放军位黄岩岛领海领空战备警巡",
@@ -2643,6 +2699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 238480,
+      "num": 141474,
+      "word": "超过500度近视不要做的事",
+      "onboard_time": 1759540459,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 238294,
       "num": 163496,
       "word": "警方通报银河左岸音乐节倒卖票证",
@@ -2697,6 +2761,14 @@
       "onboard_time": 1759412241,
       "rank": 25,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 232419,
+      "num": 178556,
+      "word": "大学生用30天花20万自制特摄短剧",
+      "onboard_time": 1759532235,
+      "rank": 21,
+      "category": "民生新闻,剧集"
     },
     {
       "raw_hot": 232261,
@@ -2937,6 +3009,14 @@
       "onboard_time": 1759500862,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214855,
+      "num": 214855,
+      "word": "王楚钦孙颖莎藏不住的喜悦",
+      "onboard_time": 1759536259,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 214147,
@@ -3337,6 +3417,14 @@
       "onboard_time": 1759361537,
       "rank": 27,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 196414,
+      "num": 196414,
+      "word": "韩国营养针",
+      "onboard_time": 1759537098,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 196263,
@@ -3843,6 +3931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171979,
+      "num": 171979,
+      "word": "宋亚轩休息时看微博热搜",
+      "onboard_time": 1759537579,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171716,
       "num": 171716,
       "word": "WTT大满贯",
@@ -3889,14 +3985,6 @@
       "onboard_time": 1759328302,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170783,
-      "num": 106938,
-      "word": "沈皓明 妍妍为什么不接我电话嘞",
-      "onboard_time": 1759515855,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 170616,
@@ -4417,6 +4505,14 @@
       "onboard_time": 1759501222,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153835,
+      "num": 90175,
+      "word": "韩国高中生太累就扎针",
+      "onboard_time": 1759541239,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 153792,
@@ -5051,6 +5147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139053,
+      "num": 139053,
+      "word": "车被狗啃到面目全非女车主最新发声",
+      "onboard_time": 1759536259,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138526,
       "num": 138526,
       "word": "陈幸同4比2朱雨玲",
@@ -5403,6 +5507,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 130541,
+      "num": 130541,
+      "word": "人人人人人人趵突泉人人人人人人",
+      "onboard_time": 1759537398,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130329,
       "num": 130329,
       "word": "高端商场里一只猫卖58888元",
@@ -5497,14 +5609,6 @@
       "onboard_time": 1759329021,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128956,
-      "num": 106842,
-      "word": "大学生用30天花20万自制特摄短剧",
-      "onboard_time": 1759532235,
-      "rank": 21,
-      "category": "民生新闻,剧集"
     },
     {
       "raw_hot": 128924,
@@ -5673,6 +5777,14 @@
       "onboard_time": 1759244062,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124783,
+      "num": 124783,
+      "word": "鼻子决定了颜值的上限",
+      "onboard_time": 1759533736,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 124761,
@@ -6283,14 +6395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112442,
-      "num": 61739,
-      "word": "哈马斯同意释放全部以色列人质",
-      "onboard_time": 1759534277,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 112435,
       "num": 112435,
       "word": "沙溢闫妮猜词一个敢说一个敢传",
@@ -6473,14 +6577,6 @@
       "onboard_time": 1759469960,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 109959,
-      "num": 106302,
-      "word": "女子演唱会丢失11万手镯发帖找回",
-      "onboard_time": 1759516575,
-      "rank": 40,
-      "category": "民生新闻,演出"
     },
     {
       "raw_hot": 109941,
@@ -6801,6 +6897,14 @@
       "onboard_time": 1759496421,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106296,
+      "num": 106296,
+      "word": "巴西蚊子工厂准备投产",
+      "onboard_time": 1759540219,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 106276,
@@ -7179,6 +7283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101703,
+      "num": 101703,
+      "word": "唐诡奇谭之九重楼",
+      "onboard_time": 1759535058,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101358,
       "num": 101358,
       "word": "邓为dior造型",
@@ -7385,6 +7497,14 @@
       "onboard_time": 1759495701,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97865,
+      "num": 90150,
+      "word": "吹牛老爹获刑四年两个月",
+      "onboard_time": 1759542138,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 97793,
@@ -7907,6 +8027,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 90345,
+      "num": 90345,
+      "word": "李一桐就这个腰臀比",
+      "onboard_time": 1759533798,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 90330,
       "num": 192969,
       "word": "广西贵港树木已被水淹没过半",
@@ -7921,6 +8049,22 @@
       "onboard_time": 1759383681,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90276,
+      "num": 90276,
+      "word": "熬夜玩手机请给自己留盏灯",
+      "onboard_time": 1759534037,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 90054,
+      "num": 90054,
+      "word": "李沁一回头梦女婚纱穿好了",
+      "onboard_time": 1759537880,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 89965,
@@ -8097,14 +8241,6 @@
       "onboard_time": 1759368919,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 87019,
-      "num": 87019,
-      "word": "鼻子决定了颜值的上限",
-      "onboard_time": 1759533736,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 86886,
@@ -8321,6 +8457,14 @@
       "onboard_time": 1759383381,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 84750,
+      "num": 84750,
+      "word": "常吃4类食物让身体发炎",
+      "onboard_time": 1759533736,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 84748,
@@ -8571,6 +8715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81688,
+      "num": 81688,
+      "word": "孙颖莎说自己单打水平提升不少",
+      "onboard_time": 1759541359,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81617,
       "num": 81617,
       "word": "这个秋天我去马路上和我的青春见面",
@@ -8609,14 +8761,6 @@
       "onboard_time": 1759455859,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 80399,
-      "num": 80399,
-      "word": "熬夜玩手机请给自己留盏灯",
-      "onboard_time": 1759534037,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 80355,
@@ -8760,6 +8904,14 @@
       "word": "霉霉秀订婚钻戒",
       "onboard_time": 1759489282,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 77945,
+      "num": 77945,
+      "word": "范丞丞瘦了",
+      "onboard_time": 1759512856,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -9011,6 +9163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73194,
+      "num": 73194,
+      "word": "台风麦德姆已进入24小时警戒线",
+      "onboard_time": 1759540459,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 73010,
       "num": 73010,
       "word": "当我爸第一次知道我的血型",
@@ -9041,6 +9201,14 @@
       "onboard_time": 1759417162,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72293,
+      "num": 72293,
+      "word": "树莓回应",
+      "onboard_time": 1759540159,
+      "rank": 41,
+      "category": "网红"
     },
     {
       "raw_hot": 72280,
@@ -9259,12 +9427,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 67650,
-      "num": 43691,
-      "word": "范丞丞瘦了",
-      "onboard_time": 1759512856,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 67263,
+      "num": 67263,
+      "word": "迪丽热巴国内首位上身安德森特别定制",
+      "onboard_time": 1759535178,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 66996,
@@ -9273,6 +9441,14 @@
       "onboard_time": 1759485921,
       "rank": 19,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 66950,
+      "num": 66950,
+      "word": "关灯玩手机小心隐翅虫",
+      "onboard_time": 1759540459,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 66788,
@@ -9297,6 +9473,14 @@
       "onboard_time": 1759498822,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66102,
+      "num": 66102,
+      "word": "以伊爆发新一轮冲突的可能性骤增",
+      "onboard_time": 1759540459,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 66004,
@@ -9457,14 +9641,6 @@
       "onboard_time": 1759232782,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 62364,
-      "num": 62364,
-      "word": "李一桐就这个腰臀比",
-      "onboard_time": 1759533798,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 62181,
@@ -9985,14 +10161,6 @@
       "onboard_time": 1759509919,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43519,
-      "num": 43519,
-      "word": "常吃4类食物让身体发炎",
-      "onboard_time": 1759533736,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 43221,
@@ -10769,6 +10937,14 @@
       "onboard_time": 1759476740,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7494,
+      "num": 76412,
+      "word": "被王牌里的女性魅力闪到睁不开眼",
+      "onboard_time": 1759542138,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 4751,
