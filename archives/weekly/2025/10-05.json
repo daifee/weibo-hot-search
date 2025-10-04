@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759612848624,
+  "endTime": 1759613796619,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -451,6 +451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 34925,
+      "num": 27605,
+      "word": "家有儿女还是太写实了",
+      "onboard_time": 1759610053,
+      "rank": 22,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 33091,
       "num": 33091,
       "word": "肖战工作室长文",
@@ -491,12 +499,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20139,
-      "num": 26875,
-      "word": "家有儿女还是太写实了",
-      "onboard_time": 1759610053,
-      "rank": 22,
-      "category": "作品衍生,幽默"
+      "raw_hot": 21413,
+      "num": 27573,
+      "word": "内娱艺人国外热度榜",
+      "onboard_time": 1759611074,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 18231,
@@ -515,12 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 15347,
-      "num": 26859,
-      "word": "内娱艺人国外热度榜",
-      "onboard_time": 1759611074,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 15567,
+      "num": 27541,
+      "word": "景区回应男童坠落栈道已加装护栏",
+      "onboard_time": 1759609815,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13882,
@@ -537,14 +545,6 @@
       "onboard_time": 1759607294,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12695,
-      "num": 26842,
-      "word": "景区回应男童坠落栈道已加装护栏",
-      "onboard_time": 1759609815,
-      "rank": 45,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
