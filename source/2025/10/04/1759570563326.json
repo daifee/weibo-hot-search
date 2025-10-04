@@ -1,0 +1,410 @@
+{
+  "runTime": 1759570563326,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1602558,
+        "num": 1602558,
+        "word": "班味最重的新娘",
+        "onboard_time": 1759563440,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1280118,
+        "num": 1280118,
+        "word": "鸡排哥称我人都要窒息了",
+        "onboard_time": 1759566381,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4583,
+        "num": 1021640,
+        "word": "9招教你十一假期美美出片",
+        "onboard_time": 1759490181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 962510,
+        "num": 962510,
+        "word": "陈震致歉",
+        "onboard_time": 1759568000,
+        "rank": 3,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 462925,
+        "num": 462925,
+        "word": "第一批去韩国旅游的受害者出现了",
+        "onboard_time": 1759565361,
+        "rank": 4,
+        "category": "海外新闻,旅游"
+      },
+      {
+        "raw_hot": 350683,
+        "num": 350683,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1759568840,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320415,
+        "num": 320415,
+        "word": "女性向游戏",
+        "onboard_time": 1759564099,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273654,
+        "num": 273654,
+        "word": "日本或将迎来首位女首相",
+        "onboard_time": 1759559120,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245966,
+        "num": 245966,
+        "word": "王楚钦要累懵了",
+        "onboard_time": 1759564699,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38490,
+        "num": 243818,
+        "word": "早期的王橹杰",
+        "onboard_time": 1759557379,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 750617,
+        "num": 240843,
+        "word": "乃万瘦到不足42kg",
+        "onboard_time": 1759563860,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445530,
+        "num": 235716,
+        "word": "别让婚礼跳河的痛成键盘断案的瓜",
+        "onboard_time": 1759565661,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339730,
+        "num": 232341,
+        "word": "央视中秋晚会首波阵容",
+        "onboard_time": 1759551921,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324208,
+        "num": 231134,
+        "word": "那英 丢个手机被龚俊蛐蛐一辈子",
+        "onboard_time": 1759562539,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266082,
+        "num": 225645,
+        "word": "许我耀眼",
+        "onboard_time": 1759564820,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223908,
+        "num": 223908,
+        "word": "分手1年复合狗狗的反应",
+        "onboard_time": 1759545500,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175178,
+        "num": 175178,
+        "word": "许我耀眼剧组回应",
+        "onboard_time": 1759562421,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173722,
+        "num": 173722,
+        "word": "这竟然是潘玮柏",
+        "onboard_time": 1759561219,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172301,
+        "num": 172301,
+        "word": "东北女生远嫁台湾700平的家",
+        "onboard_time": 1759565120,
+        "rank": 18,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 46684,
+        "num": 164121,
+        "word": "107万元油卡丢失快递公司仅赔千元",
+        "onboard_time": 1759569920,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200978,
+        "num": 163856,
+        "word": "许我耀眼39.2%",
+        "onboard_time": 1759569259,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163214,
+        "num": 163214,
+        "word": "不建议你频繁用酒精擦手机的原因",
+        "onboard_time": 1759560740,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 39559,
+        "num": 162072,
+        "word": "成都和柳州到底谁更辣",
+        "onboard_time": 1759566201,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161198,
+        "num": 161198,
+        "word": "小酒窝跳柠檬叉",
+        "onboard_time": 1759569501,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138810,
+        "num": 138810,
+        "word": "韩国部队锅原身是剩菜猪食粥",
+        "onboard_time": 1759561101,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129497,
+        "num": 129497,
+        "word": "国庆在景区看见顶级e人了",
+        "onboard_time": 1759569201,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119257,
+        "num": 119257,
+        "word": "谢娜不敢相信我要主持央视中秋晚会",
+        "onboard_time": 1759549819,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115874,
+        "num": 115874,
+        "word": "登陆少年团魂这一刻具像化了",
+        "onboard_time": 1759569321,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112088,
+        "num": 112088,
+        "word": "顶流明星早期活人感",
+        "onboard_time": 1759565480,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111744,
+        "num": 111744,
+        "word": "张艺兴鸟巢",
+        "onboard_time": 1759567220,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103683,
+        "num": 103683,
+        "word": "官方称婚礼跳河事件与彩礼无关",
+        "onboard_time": 1759569920,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98628,
+        "num": 98628,
+        "word": "AI女演员出道遭抵制",
+        "onboard_time": 1759570400,
+        "rank": 31,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 98475,
+        "num": 98475,
+        "word": "张萌 后来庆功宴长记性了",
+        "onboard_time": 1759561760,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95772,
+        "num": 95772,
+        "word": "檀健次爬假山给前辈搭戏",
+        "onboard_time": 1759570400,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98140,
+        "num": 95340,
+        "word": "运动减肥和少吃减肥的区别",
+        "onboard_time": 1759569019,
+        "rank": 34,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 94909,
+        "num": 94909,
+        "word": "huanfeng抱怨国服环境",
+        "onboard_time": 1759569380,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72085,
+        "num": 93519,
+        "word": "王楚钦暴力反手太凶了",
+        "onboard_time": 1759568420,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93224,
+        "num": 93224,
+        "word": "张继科说王曼昱缺乏狠劲",
+        "onboard_time": 1759564820,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36608,
+        "num": 91570,
+        "word": "主人回应金毛拦婚车收200元红包",
+        "onboard_time": 1759569860,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90794,
+        "num": 90794,
+        "word": "年轻人抛弃5A景区",
+        "onboard_time": 1759560501,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87863,
+        "num": 87863,
+        "word": "万鹏素颜状态",
+        "onboard_time": 1759562661,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86181,
+        "num": 86181,
+        "word": "日本新首相或从小泉和高市中产生",
+        "onboard_time": 1759549640,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85666,
+        "num": 85666,
+        "word": "美国23岁攀岩新星登顶后不慎坠崖身亡",
+        "onboard_time": 1759565241,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85609,
+        "num": 85609,
+        "word": "华晨宇 金牌调解员",
+        "onboard_time": 1759570461,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85320,
+        "num": 85320,
+        "word": "理发师晓华国庆假期睡到了自然醒",
+        "onboard_time": 1759569800,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81190,
+        "num": 84953,
+        "word": "王楚钦告诉自己身兼三项是幸福的",
+        "onboard_time": 1759565001,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84855,
+        "num": 84855,
+        "word": "国庆中秋假期游玩好去处",
+        "onboard_time": 1759550900,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84461,
+        "num": 84461,
+        "word": "摄影师毁约数10场婚礼公安介入",
+        "onboard_time": 1759556120,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81895,
+        "num": 81895,
+        "word": "智能手表测睡眠真的靠谱吗",
+        "onboard_time": 1759565480,
+        "rank": 48,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 80824,
+        "num": 81699,
+        "word": "佘诗曼把labubu穿在身上",
+        "onboard_time": 1759566740,
+        "rank": 49,
+        "category": "艺人,休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}

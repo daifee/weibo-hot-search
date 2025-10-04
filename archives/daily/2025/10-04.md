@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/04 00:30:46 ~ 2025/10/04 17:23:05
+本榜单时间：2025/10/04 00:30:46 ~ 2025/10/04 17:36:03
 </p>
 </blockquote>
 <p>
@@ -33,14 +33,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E8%B4%9F%E4%BA%8B%E6%95%85%E5%85%A8%E9%83%A8%E8%B4%A3%E4%BB%BB%23" target="weibo">
-陈震负事故全部责任（热度：1597489）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E5%91%B3%E6%9C%80%E9%87%8D%E7%9A%84%E6%96%B0%E5%A8%98%23" target="weibo">
+班味最重的新娘（热度：1602558）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E5%91%B3%E6%9C%80%E9%87%8D%E7%9A%84%E6%96%B0%E5%A8%98%23" target="weibo">
-班味最重的新娘（热度：1493725）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E8%B4%9F%E4%BA%8B%E6%95%85%E5%85%A8%E9%83%A8%E8%B4%A3%E4%BB%BB%23" target="weibo">
+陈震负事故全部责任（热度：1597489）
 </a>
 </li>
 
@@ -52,7 +52,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E7%A7%B0%E6%88%91%E4%BA%BA%E9%83%BD%E8%A6%81%E7%AA%92%E6%81%AF%E4%BA%86%23" target="weibo">
-鸡排哥称我人都要窒息了（热度：1100030）
+鸡排哥称我人都要窒息了（热度：1280118）
 </a>
 </li>
 
@@ -201,6 +201,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E8%AE%A9%E5%A9%9A%E7%A4%BC%E8%B7%B3%E6%B2%B3%E7%9A%84%E7%97%9B%E6%88%90%E9%94%AE%E7%9B%98%E6%96%AD%E6%A1%88%E7%9A%84%E7%93%9C%23" target="weibo">
+别让婚礼跳河的痛成键盘断案的瓜（热度：445530）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%96%B0%E9%83%8E%E5%9C%A8%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E8%B7%B3%E6%B2%B3%23" target="weibo">
 当地回应新郎在结婚当天跳河（热度：441877）
 </a>
@@ -269,6 +275,12 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%20%E4%B8%A2%E4%B8%AA%E6%89%8B%E6%9C%BA%E8%A2%AB%E9%BE%9A%E4%BF%8A%E8%9B%90%E8%9B%90%E4%B8%80%E8%BE%88%E5%AD%90%23" target="weibo">
 那英 丢个手机被龚俊蛐蛐一辈子（热度：353238）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%99%88%E5%B9%B8%E5%90%8C%23" target="weibo">
+孙颖莎vs陈幸同（热度：350683）
 </a>
 </li>
 
@@ -357,6 +369,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%23" target="weibo">
+许我耀眼（热度：266082）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E9%A9%AC%E9%A0%94%E4%B8%8D%E6%98%AF%E4%B8%80%E6%97%B6%E5%A5%BD%E6%98%AF%E7%9C%9F%E7%9A%84%E4%B8%80%E7%9B%B4%E5%A5%BD%23" target="weibo">
 李纯马頔不是一时好是真的一直好（热度：262621）
 </a>
@@ -423,12 +441,6 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%23" target="weibo">
-许我耀眼（热度：244042）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E8%BF%87500%E5%BA%A6%E8%BF%91%E8%A7%86%E4%B8%8D%E8%A6%81%E5%81%9A%E7%9A%84%E4%BA%8B%23" target="weibo">
 超过500度近视不要做的事（热度：238480）
 </a>
@@ -477,12 +489,6 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E8%AE%A9%E5%A9%9A%E7%A4%BC%E8%B7%B3%E6%B2%B3%E7%9A%84%E7%97%9B%E6%88%90%E9%94%AE%E7%9B%98%E6%96%AD%E6%A1%88%E7%9A%84%E7%93%9C%23" target="weibo">
-别让婚礼跳河的痛成键盘断案的瓜（热度：210569）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%9B%BD%E5%BA%86%E5%BC%80%E4%B8%A4%E6%9E%B6%E9%A3%9E%E6%9C%BA%E5%B8%A6%E5%A5%B3%E5%84%BF%E5%9B%9E%E8%80%81%E5%AE%B6%23" target="weibo">
 夫妻国庆开两架飞机带女儿回老家（热度：209017）
 </a>
@@ -519,8 +525,8 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%99%88%E5%B9%B8%E5%90%8C%23" target="weibo">
-孙颖莎vs陈幸同（热度：198500）
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC39.2%25%23" target="weibo">
+许我耀眼39.2%（热度：200978）
 </a>
 </li>
 
@@ -569,6 +575,12 @@ LOEWE眼光 惠英红就是奢侈品（热度：192315）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E7%83%AD%E5%BA%A6%23" target="weibo">
 许我耀眼热度（热度：177935）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%A5%B3%E7%94%9F%E8%BF%9C%E5%AB%81%E5%8F%B0%E6%B9%BE700%E5%B9%B3%E7%9A%84%E5%AE%B6%23" target="weibo">
+东北女生远嫁台湾700平的家（热度：172301）
 </a>
 </li>
 
@@ -645,8 +657,8 @@ LOEWE眼光 惠英红就是奢侈品（热度：192315）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%A5%B3%E7%94%9F%E8%BF%9C%E5%AB%81%E5%8F%B0%E6%B9%BE700%E5%B9%B3%E7%9A%84%E5%AE%B6%23" target="weibo">
-东北女生远嫁台湾700平的家（热度：162686）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E8%B7%B3%E6%9F%A0%E6%AA%AC%E5%8F%89%23" target="weibo">
+小酒窝跳柠檬叉（热度：161198）
 </a>
 </li>
 
@@ -747,12 +759,6 @@ LOEWE眼光 惠英红就是奢侈品（热度：192315）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC39.2%25%23" target="weibo">
-许我耀眼39.2%（热度：140902）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BC%BB%E5%AD%90%E5%86%B3%E5%AE%9A%E4%BA%86%E9%A2%9C%E5%80%BC%E7%9A%84%E4%B8%8A%E9%99%90%23" target="weibo">
 鼻子决定了颜值的上限（热度：140316）
 </a>
@@ -815,12 +821,6 @@ qko回应自己不是赵磊的初恋（热度：130804）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD23%E5%B2%81%E6%94%80%E5%B2%A9%E6%96%B0%E6%98%9F%E7%99%BB%E9%A1%B6%E5%90%8E%E4%B8%8D%E6%85%8E%E5%9D%A0%E5%B4%96%E8%BA%AB%E4%BA%A1%23" target="weibo">
 美国23岁攀岩新星登顶后不慎坠崖身亡（热度：129864）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E8%B7%B3%E6%9F%A0%E6%AA%AC%E5%8F%89%23" target="weibo">
-小酒窝跳柠檬叉（热度：129081）
 </a>
 </li>
 
@@ -911,6 +911,12 @@ qko回应自己不是赵磊的初恋（热度：130804）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%B6%E6%B5%81%E6%98%8E%E6%98%9F%E6%97%A9%E6%9C%9F%E6%B4%BB%E4%BA%BA%E6%84%9F%23" target="weibo">
 顶流明星早期活人感（热度：115904）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E5%9B%A2%E9%AD%82%E8%BF%99%E4%B8%80%E5%88%BB%E5%85%B7%E5%83%8F%E5%8C%96%E4%BA%86%23" target="weibo">
+登陆少年团魂这一刻具像化了（热度：115874）
 </a>
 </li>
 
@@ -1089,12 +1095,6 @@ qko回应自己不是赵磊的初恋（热度：130804）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E5%9B%A2%E9%AD%82%E8%BF%99%E4%B8%80%E5%88%BB%E5%85%B7%E5%83%8F%E5%8C%96%E4%BA%86%23" target="weibo">
-登陆少年团魂这一刻具像化了（热度：105094）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0%E5%AE%9E%E6%97%B6%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B42%23" target="weibo">
 肖战射雕英雄传实时收视率破2（热度：104795）
 </a>
@@ -1127,6 +1127,12 @@ qko回应自己不是赵磊的初恋（热度：130804）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2360%E5%90%8E%E8%B5%9B%E8%BD%A6%E8%80%81%E5%A4%B4%E7%9B%B8%E4%BA%B2%E8%AF%B4%E4%BB%85%E6%AC%A1%E4%BA%8E%E7%8E%8B%E4%B8%80%E5%8D%9A%23" target="weibo">
 60后赛车老头相亲说仅次于王一博（热度：103904）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E7%A7%B0%E5%A9%9A%E7%A4%BC%E8%B7%B3%E6%B2%B3%E4%BA%8B%E4%BB%B6%E4%B8%8E%E5%BD%A9%E7%A4%BC%E6%97%A0%E5%85%B3%23" target="weibo">
+官方称婚礼跳河事件与彩礼无关（热度：103683）
 </a>
 </li>
 
@@ -1227,6 +1233,18 @@ Desire4银杏音乐节（热度：102996）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AI%E5%A5%B3%E6%BC%94%E5%91%98%E5%87%BA%E9%81%93%E9%81%AD%E6%8A%B5%E5%88%B6%23" target="weibo">
+AI女演员出道遭抵制（热度：98628）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%90%E5%8A%A8%E5%87%8F%E8%82%A5%E5%92%8C%E5%B0%91%E5%90%83%E5%87%8F%E8%82%A5%E7%9A%84%E5%8C%BA%E5%88%AB%23" target="weibo">
+运动减肥和少吃减肥的区别（热度：98140）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%88%B7%E5%A4%96%E5%BE%92%E6%AD%A5%E5%A4%B1%E6%B8%A9%E8%A2%AB%E6%90%AD%E5%AD%90%E6%8A%9B%E5%BC%83%23" target="weibo">
 女子户外徒步失温被搭子抛弃（热度：97987）
 </a>
@@ -1271,6 +1289,12 @@ huanfeng抱怨国服环境（热度：97941）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8B%B1%E9%9B%84%E6%80%BC%E8%84%B8%E6%8B%8D%23" target="weibo">
 王者英雄怼脸拍（热度：96053）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%88%AC%E5%81%87%E5%B1%B1%E7%BB%99%E5%89%8D%E8%BE%88%E6%90%AD%E6%88%8F%23" target="weibo">
+檀健次爬假山给前辈搭戏（热度：95772）
 </a>
 </li>
 
@@ -1403,6 +1427,18 @@ huanfeng抱怨国服环境（热度：97941）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E4%B8%8D%E5%AE%8C%E7%9A%84%E8%8B%B9%E6%9E%9C%E4%B8%8D%E8%A6%81%E4%B8%A2%23" target="weibo">
 吃不完的苹果不要丢（热度：85640）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%20%E9%87%91%E7%89%8C%E8%B0%83%E8%A7%A3%E5%91%98%23" target="weibo">
+华晨宇 金牌调解员（热度：85609）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%90%86%E5%8F%91%E5%B8%88%E6%99%93%E5%8D%8E%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E7%9D%A1%E5%88%B0%E4%BA%86%E8%87%AA%E7%84%B6%E9%86%92%23" target="weibo">
+理发师晓华国庆假期睡到了自然醒（热度：85320）
 </a>
 </li>
 
@@ -1731,6 +1767,12 @@ TOP左一声姐姐右一声姐姐（热度：53966）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23107%E4%B8%87%E5%85%83%E6%B2%B9%E5%8D%A1%E4%B8%A2%E5%A4%B1%E5%BF%AB%E9%80%92%E5%85%AC%E5%8F%B8%E4%BB%85%E8%B5%94%E5%8D%83%E5%85%83%23" target="weibo">
+107万元油卡丢失快递公司仅赔千元（热度：46684）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E6%88%91%E4%BC%9A%E6%94%B6%E5%88%B0%E9%98%85%E5%85%B5%E8%A7%82%E7%A4%BC%E8%AF%B7%E6%9F%AC%23" target="weibo">
 没想到我会收到阅兵观礼请柬（热度：43778）
 </a>
@@ -1781,6 +1823,12 @@ TOP左一声姐姐右一声姐姐（热度：53966）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%B7%BA%E8%B7%BA%E8%84%9A%23" target="weibo">
 王楚钦跺跺脚（热度：36667）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E4%BA%BA%E5%9B%9E%E5%BA%94%E9%87%91%E6%AF%9B%E6%8B%A6%E5%A9%9A%E8%BD%A6%E6%94%B6200%E5%85%83%E7%BA%A2%E5%8C%85%23" target="weibo">
+主人回应金毛拦婚车收200元红包（热度：36608）
 </a>
 </li>
 
@@ -1864,7 +1912,7 @@ TOP左一声姐姐右一声姐姐（热度：53966）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%239%E6%8B%9B%E6%95%99%E4%BD%A0%E5%8D%81%E4%B8%80%E5%81%87%E6%9C%9F%E7%BE%8E%E7%BE%8E%E5%87%BA%E7%89%87%23" target="weibo">
-9招教你十一假期美美出片（热度：3461）
+9招教你十一假期美美出片（热度：4583）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1759509046450,
-  "endTime": 1759569785333,
+  "endTime": 1759570563326,
   "band_list": [
     {
       "raw_hot": 3967870,
@@ -27,20 +27,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1602558,
+      "num": 1602558,
+      "word": "班味最重的新娘",
+      "onboard_time": 1759563440,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1597489,
       "num": 1043496,
       "word": "陈震负事故全部责任",
       "onboard_time": 1759550779,
       "rank": 1,
       "category": "辟谣/通报,汽车"
-    },
-    {
-      "raw_hot": 1493725,
-      "num": 1493725,
-      "word": "班味最重的新娘",
-      "onboard_time": 1759563440,
-      "rank": 0,
-      "category": "幽默"
     },
     {
       "raw_hot": 1401285,
@@ -51,8 +51,8 @@
       "category": "汽车,网红"
     },
     {
-      "raw_hot": 1100030,
-      "num": 1100030,
+      "raw_hot": 1280118,
+      "num": 1280118,
       "word": "鸡排哥称我人都要窒息了",
       "onboard_time": 1759566381,
       "rank": 35,
@@ -251,6 +251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 445530,
+      "num": 235716,
+      "word": "别让婚礼跳河的痛成键盘断案的瓜",
+      "onboard_time": 1759565661,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 441877,
       "num": 175043,
       "word": "当地回应新郎在结婚当天跳河",
@@ -345,6 +353,14 @@
       "onboard_time": 1759562539,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350683,
+      "num": 350683,
+      "word": "孙颖莎vs陈幸同",
+      "onboard_time": 1759568840,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 342174,
@@ -459,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266082,
+      "num": 225645,
+      "word": "许我耀眼",
+      "onboard_time": 1759564820,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262621,
       "num": 141956,
       "word": "李纯马頔不是一时好是真的一直好",
@@ -547,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 244042,
-      "num": 214644,
-      "word": "许我耀眼",
-      "onboard_time": 1759564820,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 238480,
       "num": 153516,
       "word": "超过500度近视不要做的事",
@@ -619,14 +635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210569,
-      "num": 210569,
-      "word": "别让婚礼跳河的痛成键盘断案的瓜",
-      "onboard_time": 1759565661,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209017,
       "num": 209017,
       "word": "夫妻国庆开两架飞机带女儿回老家",
@@ -675,12 +683,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198500,
-      "num": 198500,
-      "word": "孙颖莎vs陈幸同",
-      "onboard_time": 1759568840,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 200978,
+      "num": 163856,
+      "word": "许我耀眼39.2%",
+      "onboard_time": 1759569259,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 195147,
@@ -745,6 +753,14 @@
       "onboard_time": 1759494742,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172301,
+      "num": 172301,
+      "word": "东北女生远嫁台湾700平的家",
+      "onboard_time": 1759565120,
+      "rank": 31,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 170407,
@@ -843,12 +859,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162686,
-      "num": 141477,
-      "word": "东北女生远嫁台湾700平的家",
-      "onboard_time": 1759565120,
-      "rank": 31,
-      "category": "情感,休闲"
+      "raw_hot": 161198,
+      "num": 161198,
+      "word": "小酒窝跳柠檬叉",
+      "onboard_time": 1759569501,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 159423,
@@ -979,14 +995,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 140902,
-      "num": 140902,
-      "word": "许我耀眼39.2%",
-      "onboard_time": 1759569259,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140316,
       "num": 137978,
       "word": "鼻子决定了颜值的上限",
@@ -1073,14 +1081,6 @@
       "onboard_time": 1759565241,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 129081,
-      "num": 129081,
-      "word": "小酒窝跳柠檬叉",
-      "onboard_time": 1759569501,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 128557,
@@ -1201,6 +1201,14 @@
       "onboard_time": 1759565480,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115874,
+      "num": 115874,
+      "word": "登陆少年团魂这一刻具像化了",
+      "onboard_time": 1759569321,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 115583,
@@ -1435,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105094,
-      "num": 105094,
-      "word": "登陆少年团魂这一刻具像化了",
-      "onboard_time": 1759569321,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 104795,
       "num": 104795,
       "word": "肖战射雕英雄传实时收视率破2",
@@ -1489,6 +1489,14 @@
       "onboard_time": 1759554980,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103683,
+      "num": 103683,
+      "word": "官方称婚礼跳河事件与彩礼无关",
+      "onboard_time": 1759569920,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103390,
@@ -1619,6 +1627,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98628,
+      "num": 98628,
+      "word": "AI女演员出道遭抵制",
+      "onboard_time": 1759570400,
+      "rank": 31,
+      "category": "艺人,海外新闻"
+    },
+    {
+      "raw_hot": 98140,
+      "num": 95340,
+      "word": "运动减肥和少吃减肥的区别",
+      "onboard_time": 1759569019,
+      "rank": 34,
+      "category": "情感,运动健身"
+    },
+    {
       "raw_hot": 97987,
       "num": 97987,
       "word": "女子户外徒步失温被搭子抛弃",
@@ -1681,6 +1705,14 @@
       "onboard_time": 1759569141,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 95772,
+      "num": 95772,
+      "word": "檀健次爬假山给前辈搭戏",
+      "onboard_time": 1759570400,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 95609,
@@ -1857,6 +1889,22 @@
       "onboard_time": 1759548021,
       "rank": 40,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 85609,
+      "num": 85609,
+      "word": "华晨宇 金牌调解员",
+      "onboard_time": 1759570461,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 85320,
+      "num": 85320,
+      "word": "理发师晓华国庆假期睡到了自然醒",
+      "onboard_time": 1759569800,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85150,
@@ -2291,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46684,
+      "num": 164121,
+      "word": "107万元油卡丢失快递公司仅赔千元",
+      "onboard_time": 1759569920,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43778,
       "num": 58836,
       "word": "没想到我会收到阅兵观礼请柬",
@@ -2361,6 +2417,14 @@
       "onboard_time": 1759554621,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36608,
+      "num": 91570,
+      "word": "主人回应金毛拦婚车收200元红包",
+      "onboard_time": 1759569860,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35984,
@@ -2467,8 +2531,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 3461,
-      "num": 1007223,
+      "raw_hot": 4583,
+      "num": 1021640,
       "word": "9招教你十一假期美美出片",
       "onboard_time": 1759490181,
       "rank": 2,
