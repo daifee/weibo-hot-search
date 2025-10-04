@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/05 00:41:51
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/05 01:20:03
 </p>
 </blockquote>
 <p>
@@ -2961,6 +2961,12 @@ AI女演员出道遭抵制（热度：212198）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%80%8C%E6%88%91%E6%AD%A3%E8%B5%B0%E5%9C%A8%E8%B7%AF%E4%B8%8A%23" target="weibo">
+肖战而我正走在路上（热度：207733）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E9%80%9F%E5%BF%AB%23" target="weibo">
 网速快（热度：207706）
 </a>
@@ -4067,12 +4073,6 @@ Dior大秀G社生图（热度：167518）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E6%A2%81%E9%9D%96%E5%B4%91%23" target="weibo">
 林高远梁靖崑（热度：161102）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%80%8C%E6%88%91%E6%AD%A3%E8%B5%B0%E5%9C%A8%E8%B7%AF%E4%B8%8A%23" target="weibo">
-肖战而我正走在路上（热度：160822）
 </a>
 </li>
 
