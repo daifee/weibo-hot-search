@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759556329601,
+  "endTime": 1759559604766,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -916,7 +916,7 @@
     },
     {
       "raw_hot": 654515,
-      "num": 216988,
+      "num": 252765,
       "word": "谢娜不敢相信我要主持央视中秋晚会",
       "onboard_time": 1759549819,
       "rank": 13,
@@ -932,7 +932,7 @@
     },
     {
       "raw_hot": 646755,
-      "num": 220454,
+      "num": 268157,
       "word": "央视中秋晚会首波阵容",
       "onboard_time": 1759551921,
       "rank": 42,
@@ -995,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 611866,
+      "num": 1097898,
+      "word": "向鹏vs雨果",
+      "onboard_time": 1759557261,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 611759,
       "num": 562180,
       "word": "鸡排哥回应被指购置多套房产",
@@ -1049,6 +1057,14 @@
       "onboard_time": 1759314680,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 586285,
+      "num": 586285,
+      "word": "Ning浴室摔伤",
+      "onboard_time": 1759554141,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 584638,
@@ -1459,12 +1475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469666,
+      "num": 469666,
+      "word": "摄影师毁约数10场婚礼公安介入",
+      "onboard_time": 1759556120,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 467123,
       "num": 266078,
       "word": "迪奥巴黎时装周",
       "onboard_time": 1759288457,
       "rank": 28,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 459098,
+      "num": 234061,
+      "word": "韩国博主哭诉国家没有存在感",
+      "onboard_time": 1759556720,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 457974,
@@ -1667,16 +1699,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 408525,
-      "num": 408525,
-      "word": "Ning浴室摔伤",
-      "onboard_time": 1759554141,
-      "rank": 13,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 406950,
-      "num": 201617,
+      "num": 229431,
       "word": "白鹿 现在vlog都要我提醒你拍了吗",
       "onboard_time": 1759553660,
       "rank": 20,
@@ -2019,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342174,
+      "num": 300346,
+      "word": "陈震称以车辆EDR数据通告为准",
+      "onboard_time": 1759553060,
+      "rank": 22,
+      "category": "汽车,网红"
+    },
+    {
       "raw_hot": 341689,
       "num": 155194,
       "word": "蜜雪冰城要卖啤酒了",
@@ -2313,6 +2345,14 @@
       "onboard_time": 1759489162,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293406,
+      "num": 293406,
+      "word": "高市早苗或成日本首个女首相",
+      "onboard_time": 1759559060,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 293189,
@@ -2643,6 +2683,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 259572,
+      "num": 259572,
+      "word": "高市早苗当选新任自民党总裁",
+      "onboard_time": 1759558278,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 257808,
       "num": 257808,
       "word": "韩75万公务员工作文件丢失且无备份",
@@ -2849,14 +2897,6 @@
       "onboard_time": 1759463361,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 239130,
-      "num": 198783,
-      "word": "陈震称以车辆EDR数据通告为准",
-      "onboard_time": 1759553060,
-      "rank": 22,
-      "category": "汽车,网红"
     },
     {
       "raw_hot": 238825,
@@ -3699,6 +3739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 195147,
+      "num": 195147,
+      "word": "檀健次醉酒摔倒戏是现挂的",
+      "onboard_time": 1759558520,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194620,
       "num": 194620,
       "word": "美国纽约一高层公寓楼部分倒塌",
@@ -3795,14 +3843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190516,
-      "num": 190516,
-      "word": "摄影师毁约数10场婚礼公安介入",
-      "onboard_time": 1759556120,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189875,
       "num": 146636,
       "word": "医生眼中的生理性厌恶",
@@ -3848,6 +3888,14 @@
       "word": "王楚钦3比0安宰贤",
       "onboard_time": 1759404261,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189018,
+      "num": 189018,
+      "word": "王楚钦vs松岛辉空",
+      "onboard_time": 1759559179,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -3971,6 +4019,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 182812,
+      "num": 182812,
+      "word": "什么香这么臭",
+      "onboard_time": 1759554021,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182679,
       "num": 169291,
       "word": "近视600度是道槛",
@@ -4067,6 +4123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180134,
+      "num": 180134,
+      "word": "现在就出发",
+      "onboard_time": 1759557981,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180081,
       "num": 180081,
       "word": "胡先煦王彦霖现场为陈立农庆生",
@@ -4161,14 +4225,6 @@
       "onboard_time": 1759378761,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 174478,
-      "num": 174478,
-      "word": "什么香这么臭",
-      "onboard_time": 1759554021,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 172987,
@@ -4321,6 +4377,14 @@
       "onboard_time": 1759554801,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168630,
+      "num": 168630,
+      "word": "浴室五杀",
+      "onboard_time": 1759557981,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 168498,
@@ -4603,6 +4667,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 161714,
+      "num": 161714,
+      "word": "陈瑶田曦薇 上官婉儿太平公主",
+      "onboard_time": 1759558401,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161102,
       "num": 161102,
       "word": "林高远梁靖崑",
@@ -4843,6 +4915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152427,
+      "num": 152427,
+      "word": "日本新首相或从小泉和高市中产生",
+      "onboard_time": 1759549640,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 152308,
       "num": 152308,
       "word": "女子人肉占车位不让别车停",
@@ -4961,6 +5041,14 @@
       "onboard_time": 1759448418,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148140,
+      "num": 148140,
+      "word": "太久没穿的鞋子就别穿了",
+      "onboard_time": 1759553000,
+      "rank": 33,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 148035,
@@ -5168,6 +5256,14 @@
       "word": "向往的生活",
       "onboard_time": 1759471820,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143906,
+      "num": 143906,
+      "word": "丁程鑫只需轻轻出手就秒了",
+      "onboard_time": 1759559001,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -5859,6 +5955,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 130526,
+      "num": 275565,
+      "word": "早期的王橹杰",
+      "onboard_time": 1759557379,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130329,
       "num": 130329,
       "word": "高端商场里一只猫卖58888元",
@@ -6001,6 +6105,14 @@
       "onboard_time": 1759551561,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128319,
+      "num": 128319,
+      "word": "欧阳娜娜入选美版VOGUE最佳街拍",
+      "onboard_time": 1759556840,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 128137,
@@ -6443,14 +6555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 118476,
-      "num": 118476,
-      "word": "太久没穿的鞋子就别穿了",
-      "onboard_time": 1759553000,
-      "rank": 33,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 118466,
       "num": 118466,
       "word": "林高远下个赛场见",
@@ -6635,12 +6739,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114995,
+      "num": 114995,
+      "word": "刘轩丞 倒是给我笔啊",
+      "onboard_time": 1759556421,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114858,
       "num": 114858,
       "word": "那你睡吧四个字的意思",
       "onboard_time": 1759472060,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114767,
+      "num": 114767,
+      "word": "王曼昱蒯曼笑容好甜",
+      "onboard_time": 1759559240,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 114708,
@@ -6737,14 +6857,6 @@
       "onboard_time": 1759409242,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113450,
-      "num": 113450,
-      "word": "日本新首相或从小泉和高市中产生",
-      "onboard_time": 1759549640,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 113386,
@@ -7009,6 +7121,14 @@
       "onboard_time": 1759542619,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110139,
+      "num": 145778,
+      "word": "1集乳腺畅通2集结节消失",
+      "onboard_time": 1759559060,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 110114,
@@ -7443,6 +7563,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 105704,
+      "num": 105704,
+      "word": "杨超越到底被秦昊弄哭过几次",
+      "onboard_time": 1759557621,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105547,
       "num": 105547,
       "word": "张智霖 美人穿破布都是美人",
@@ -7579,6 +7707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104507,
+      "num": 104507,
+      "word": "我月薪三千要做这么多事吗",
+      "onboard_time": 1759557201,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104497,
       "num": 104497,
       "word": "侯明昊音乐节",
@@ -7609,6 +7745,14 @@
       "onboard_time": 1759393220,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104038,
+      "num": 104038,
+      "word": "邓超问三个go分开是什么",
+      "onboard_time": 1759556120,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 104034,
@@ -8067,6 +8211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97987,
+      "num": 97987,
+      "word": "女子户外徒步失温被搭子抛弃",
+      "onboard_time": 1759559120,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97793,
       "num": 97793,
       "word": "乌鲁木齐地震",
@@ -8121,6 +8273,14 @@
       "onboard_time": 1759555099,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97175,
+      "num": 97175,
+      "word": "李一桐曾素颜参演古装剧",
+      "onboard_time": 1759557501,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 97084,
@@ -8553,6 +8713,14 @@
       "onboard_time": 1759370659,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 91954,
+      "num": 91954,
+      "word": "孙颖莎照亮裸辞女孩登顶玉珠峰",
+      "onboard_time": 1759559299,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 91822,
@@ -9273,6 +9441,14 @@
       "onboard_time": 1759369880,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83143,
+      "num": 184836,
+      "word": "日本或将迎来首位女首相",
+      "onboard_time": 1759559120,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83039,
@@ -11139,14 +11315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 37258,
-      "num": 100898,
-      "word": "邓超问三个go分开是什么",
-      "onboard_time": 1759556120,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 37036,
       "num": 37036,
       "word": "女性断崖式衰老往往发生在30和50岁",
@@ -11808,6 +11976,14 @@
       "word": "去澳门看丝路展一眼千年",
       "onboard_time": 1759388541,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10245,
+      "num": 109755,
+      "word": "女游客海拔4700米高反被困求救",
+      "onboard_time": 1759559120,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
