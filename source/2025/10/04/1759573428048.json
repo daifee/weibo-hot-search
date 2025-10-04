@@ -1,0 +1,410 @@
+{
+  "runTime": 1759573428048,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1119972,
+        "num": 1179195,
+        "word": "班味最重的新娘",
+        "onboard_time": 1759563440,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 720452,
+        "num": 720452,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1759568840,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8391,
+        "num": 443500,
+        "word": "9招教你十一假期美美出片",
+        "onboard_time": 1759490181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277743,
+        "num": 277743,
+        "word": "107万元油卡丢失快递公司仅赔千元",
+        "onboard_time": 1759569920,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258243,
+        "num": 258243,
+        "word": "第一批去韩国旅游的受害者出现了",
+        "onboard_time": 1759565361,
+        "rank": 4,
+        "category": "海外新闻,旅游"
+      },
+      {
+        "raw_hot": 223927,
+        "num": 223927,
+        "word": "东北女生远嫁台湾700平的家",
+        "onboard_time": 1759565120,
+        "rank": 5,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 215312,
+        "num": 215312,
+        "word": "女性向游戏",
+        "onboard_time": 1759564099,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178974,
+        "num": 215105,
+        "word": "陈幸同受灯光干扰叫停比赛",
+        "onboard_time": 1759572559,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175473,
+        "num": 215037,
+        "word": "日本或将迎来首位女首相",
+        "onboard_time": 1759559120,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147474,
+        "num": 214715,
+        "word": "王楚钦要累懵了",
+        "onboard_time": 1759564699,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1279631,
+        "num": 214491,
+        "word": "鸡排哥称我人都要窒息了",
+        "onboard_time": 1759566381,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1249025,
+        "num": 214420,
+        "word": "陈震致歉",
+        "onboard_time": 1759568000,
+        "rank": 11,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 123846,
+        "num": 214119,
+        "word": "孙颖莎陈幸同首局就爆分",
+        "onboard_time": 1759571180,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 596564,
+        "num": 213938,
+        "word": "乃万瘦到不足42kg",
+        "onboard_time": 1759563860,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481264,
+        "num": 213700,
+        "word": "方媛疑似否认三胎已出生",
+        "onboard_time": 1759571120,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321866,
+        "num": 213616,
+        "word": "官方称婚礼跳河事件与彩礼无关",
+        "onboard_time": 1759569920,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289030,
+        "num": 213316,
+        "word": "那英 丢个手机被龚俊蛐蛐一辈子",
+        "onboard_time": 1759562539,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61389,
+        "num": 213165,
+        "word": "巴黎世家新设计师首秀",
+        "onboard_time": 1759572200,
+        "rank": 17,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 103111,
+        "num": 213028,
+        "word": "深圳市台风预警信号升级为蓝色",
+        "onboard_time": 1759572380,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 44849,
+        "num": 212647,
+        "word": "王楚钦的团队责任感",
+        "onboard_time": 1759573040,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252556,
+        "num": 212473,
+        "word": "小酒窝跳柠檬叉",
+        "onboard_time": 1759569501,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225210,
+        "num": 212324,
+        "word": "李湘打码掌纹",
+        "onboard_time": 1759572920,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212198,
+        "num": 212198,
+        "word": "AI女演员出道遭抵制",
+        "onboard_time": 1759570400,
+        "rank": 22,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 210503,
+        "num": 210503,
+        "word": "央视中秋晚会首波阵容",
+        "onboard_time": 1759551921,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196380,
+        "num": 196380,
+        "word": "周也 不输欧美人的骨相",
+        "onboard_time": 1759572021,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185589,
+        "num": 185589,
+        "word": "许我耀眼",
+        "onboard_time": 1759564820,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183726,
+        "num": 183726,
+        "word": "郭晋安再回应父女恋绯闻",
+        "onboard_time": 1759571060,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178574,
+        "num": 178574,
+        "word": "文咏珊孩子 手握顶级人生剧本",
+        "onboard_time": 1759572319,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148387,
+        "num": 148387,
+        "word": "许我耀眼39.2%",
+        "onboard_time": 1759569259,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49082,
+        "num": 144172,
+        "word": "李晓最后开门的钥匙是父亲的",
+        "onboard_time": 1759572800,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183374,
+        "num": 143861,
+        "word": "孙颖莎2比1领先陈幸同",
+        "onboard_time": 1759572800,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142361,
+        "num": 142361,
+        "word": "日本人为了让你少点一碗面有多拼",
+        "onboard_time": 1759572861,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133912,
+        "num": 133912,
+        "word": "刘诗诗 富士山等来了她的女主角",
+        "onboard_time": 1759572800,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130041,
+        "num": 130041,
+        "word": "不建议你频繁用酒精擦手机的原因",
+        "onboard_time": 1759560740,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 115921,
+        "num": 115921,
+        "word": "李晟晚上9点以后不出门",
+        "onboard_time": 1759571719,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107045,
+        "num": 107045,
+        "word": "这竟然是潘玮柏",
+        "onboard_time": 1759561219,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103278,
+        "num": 103278,
+        "word": "广东湛江采取五停措施",
+        "onboard_time": 1759571660,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 102570,
+        "num": 102570,
+        "word": "鸡排哥说再有黄牛要报警了",
+        "onboard_time": 1759571480,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78167,
+        "num": 101932,
+        "word": "石破茂回应高市早苗当选",
+        "onboard_time": 1759572559,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101470,
+        "num": 101470,
+        "word": "射雕英雄传侠之大者收视率",
+        "onboard_time": 1759571299,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99882,
+        "num": 99882,
+        "word": "许我耀眼剧组回应",
+        "onboard_time": 1759562421,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97743,
+        "num": 97743,
+        "word": "张艺兴鸟巢",
+        "onboard_time": 1759567220,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97562,
+        "num": 97562,
+        "word": "张杰演唱会前女儿贴心递水加油",
+        "onboard_time": 1759573340,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31735,
+        "num": 96347,
+        "word": "官方回应市民建议的哥懂粤语英语",
+        "onboard_time": 1759572021,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95515,
+        "num": 95515,
+        "word": "帆帆机车造型好炫酷",
+        "onboard_time": 1759572861,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94896,
+        "num": 94896,
+        "word": "分手1年复合狗狗的反应",
+        "onboard_time": 1759545500,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93604,
+        "num": 93604,
+        "word": "韩国部队锅原身是剩菜猪食粥",
+        "onboard_time": 1759561101,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89207,
+        "num": 89207,
+        "word": "运动减肥和少吃减肥的区别",
+        "onboard_time": 1759569019,
+        "rank": 47,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 87679,
+        "num": 87679,
+        "word": "顶流明星早期活人感",
+        "onboard_time": 1759565480,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86660,
+        "num": 86660,
+        "word": "马柏全兰西雅看秀现场",
+        "onboard_time": 1759573400,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#追光的你#"
+    }
+  }
+}
