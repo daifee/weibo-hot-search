@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759588641213,
+  "endTime": 1759591353532,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -291,6 +291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1222348,
+      "num": 176872,
+      "word": "戚薇 G社好离谱",
+      "onboard_time": 1759588342,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1195057,
       "num": 194932,
       "word": "艺人音乐节坐地起价",
@@ -497,6 +505,14 @@
       "onboard_time": 1759372639,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 954354,
+      "num": 316963,
+      "word": "华晨宇 要爆了",
+      "onboard_time": 1759586903,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 950465,
@@ -1275,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 569625,
+      "num": 173160,
+      "word": "沈皓明向许妍求婚",
+      "onboard_time": 1759589243,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 569407,
       "num": 327446,
       "word": "梨形瘦22斤的杀伤力",
@@ -1875,20 +1899,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 423757,
-      "num": 316963,
-      "word": "华晨宇 要爆了",
-      "onboard_time": 1759586903,
-      "rank": 22,
-      "category": "演出"
-    },
-    {
       "raw_hot": 421083,
       "num": 421083,
       "word": "美籍男子在解放军舰队附近放无人机被捕",
       "onboard_time": 1759488981,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 418691,
+      "num": 359211,
+      "word": "三亚一商场红包雨致人群拥挤受伤",
+      "onboard_time": 1759584381,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 417546,
@@ -2235,14 +2259,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 359211,
-      "num": 359211,
-      "word": "三亚一商场红包雨致人群拥挤受伤",
-      "onboard_time": 1759584381,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 358777,
       "num": 188016,
       "word": "吴倩回到了赵默笙时期",
@@ -2387,6 +2403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 336357,
+      "num": 336357,
+      "word": "3岁男童从景区栈道旁缝隙坠落",
+      "onboard_time": 1759585404,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 336296,
       "num": 176721,
       "word": "李纯说马頔哪哪都是加分项",
@@ -2433,6 +2457,14 @@
       "onboard_time": 1759369339,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324201,
+      "num": 241666,
+      "word": "广州一市民家中惊现鼠条",
+      "onboard_time": 1759587561,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 323084,
@@ -3307,14 +3339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241666,
-      "num": 241666,
-      "word": "广州一市民家中惊现鼠条",
-      "onboard_time": 1759587561,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 241273,
       "num": 241273,
       "word": "被15秒3次敬礼暖到",
@@ -3827,6 +3851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210049,
+      "num": 166726,
+      "word": "戚薇的脸",
+      "onboard_time": 1759590682,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209599,
       "num": 209599,
       "word": "蔡徐坤支持毕正明的证明",
@@ -4145,14 +4177,6 @@
       "onboard_time": 1759449497,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 199338,
-      "num": 199338,
-      "word": "3岁男童从景区栈道旁缝隙坠落",
-      "onboard_time": 1759585404,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199147,
@@ -4483,6 +4507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187232,
+      "num": 160688,
+      "word": "赵今麦美拉德造型出发巴黎",
+      "onboard_time": 1759590322,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 186962,
       "num": 186962,
       "word": "王楚钦用手撑住腰部",
@@ -4761,6 +4793,14 @@
       "onboard_time": 1759414522,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178156,
+      "num": 158753,
+      "word": "成都漫展小伙cos辱华角色被扯掉假发",
+      "onboard_time": 1759590322,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178098,
@@ -5427,6 +5467,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 158673,
+      "num": 158673,
+      "word": "檀健次演技",
+      "onboard_time": 1759590022,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158511,
       "num": 158511,
       "word": "杨幂游玩plog",
@@ -5723,6 +5771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149948,
+      "num": 149948,
+      "word": "长生",
+      "onboard_time": 1759589063,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149885,
       "num": 149885,
       "word": "王力宏穿龙鳞唱天地龙鳞",
@@ -5937,14 +5993,6 @@
       "onboard_time": 1759299740,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145582,
-      "num": 145582,
-      "word": "戚薇 G社好离谱",
-      "onboard_time": 1759588342,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 145507,
@@ -6561,6 +6609,14 @@
       "onboard_time": 1759295419,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135189,
+      "num": 135189,
+      "word": "曾舜晞说粤语面相都变了",
+      "onboard_time": 1759588523,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 135154,
@@ -7563,6 +7619,14 @@
       "category": "艺人,休闲"
     },
     {
+      "raw_hot": 118526,
+      "num": 118526,
+      "word": "拉塞尔夺F1新加坡站杆位",
+      "onboard_time": 1759591042,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118502,
       "num": 118502,
       "word": "贺峻霖录制期间抽空赶作业",
@@ -7681,6 +7745,14 @@
       "onboard_time": 1759382421,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117324,
+      "num": 117324,
+      "word": "黄誉博张峻豪怎么认识的",
+      "onboard_time": 1759591225,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 117269,
@@ -7859,6 +7931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114905,
+      "num": 114905,
+      "word": "清融采访",
+      "onboard_time": 1759589662,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114858,
       "num": 114858,
       "word": "那你睡吧四个字的意思",
@@ -7921,14 +8001,6 @@
       "onboard_time": 1759483823,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114075,
-      "num": 114075,
-      "word": "曾舜晞说粤语面相都变了",
-      "onboard_time": 1759588523,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 114015,
@@ -9195,6 +9267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102522,
+      "num": 102522,
+      "word": "鹿晗答应开签售",
+      "onboard_time": 1759588823,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 102424,
       "num": 822807,
       "word": "国庆中秋假期游玩好去处",
@@ -9345,6 +9425,14 @@
       "onboard_time": 1759548139,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101414,
+      "num": 101414,
+      "word": "一个真正想和你继续的人",
+      "onboard_time": 1759589781,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 101358,
@@ -10083,6 +10171,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 93926,
+      "num": 93926,
+      "word": "满级号",
+      "onboard_time": 1759589183,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93784,
       "num": 93784,
       "word": "王楚钦再解锁空耳名场面",
@@ -10139,6 +10235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93489,
+      "num": 93489,
+      "word": "王楚钦肯定陈俊菘的发挥",
+      "onboard_time": 1759590922,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93465,
       "num": 93465,
       "word": "3个人点9份菜只花58元",
@@ -10153,6 +10257,14 @@
       "onboard_time": 1759542319,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93062,
+      "num": 93062,
+      "word": "人一旦有了隔阂就真的走不近了",
+      "onboard_time": 1759588823,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 92990,
@@ -10465,6 +10577,14 @@
       "onboard_time": 1759296681,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89171,
+      "num": 89171,
+      "word": "张家辉也被曾舜晞迷住了",
+      "onboard_time": 1759591042,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 88832,
@@ -12587,6 +12707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54868,
+      "num": 165161,
+      "word": "日本5年换4相",
+      "onboard_time": 1759590322,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54319,
       "num": 196071,
       "word": "Dior秀场已经nextlevel了",
@@ -13681,6 +13809,14 @@
       "onboard_time": 1759430116,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 16487,
+      "num": 109738,
+      "word": "日本新首相的烂摊子",
+      "onboard_time": 1759590262,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16459,
