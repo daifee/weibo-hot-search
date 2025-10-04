@@ -1,6 +1,6 @@
 {
   "startTime": 1759509046450,
-  "endTime": 1759563375267,
+  "endTime": 1759566556922,
   "band_list": [
     {
       "raw_hot": 3967870,
@@ -51,12 +51,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 978540,
+      "num": 1156566,
+      "word": "班味最重的新娘",
+      "onboard_time": 1759563440,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 950465,
       "num": 1152074,
       "word": "日本或将迎来首位女首相",
       "onboard_time": 1759559120,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 935467,
+      "num": 259969,
+      "word": "乃万瘦到不足42kg",
+      "onboard_time": 1759563860,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 902049,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 609363,
-      "num": 232754,
+      "num": 258525,
       "word": "这竟然是潘玮柏",
       "onboard_time": 1759561219,
       "rank": 12,
@@ -219,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 438623,
+      "num": 257447,
+      "word": "许我耀眼剧组回应",
+      "onboard_time": 1759562421,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 435933,
       "num": 127771,
       "word": "现象级爆剧救活了一项非遗文化",
@@ -307,12 +331,28 @@
       "category": "民生新闻,演出"
     },
     {
+      "raw_hot": 314460,
+      "num": 256881,
+      "word": "韩国部队锅原身是剩菜猪食粥",
+      "onboard_time": 1759561101,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 311741,
       "num": 311741,
       "word": "王曼昱蒯曼vs早田希娜朱芊曦",
       "onboard_time": 1759552521,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 308929,
+      "num": 256481,
+      "word": "那英 丢个手机被龚俊蛐蛐一辈子",
+      "onboard_time": 1759562539,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 301229,
@@ -345,6 +385,14 @@
       "onboard_time": 1759537098,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 292983,
+      "num": 292983,
+      "word": "女性向游戏",
+      "onboard_time": 1759564099,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 292242,
@@ -419,8 +467,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256010,
+      "num": 256010,
+      "word": "他爷爷为什么不接他电话",
+      "onboard_time": 1759561881,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255631,
-      "num": 162192,
+      "num": 190576,
       "word": "不建议你频繁用酒精擦手机的原因",
       "onboard_time": 1759560740,
       "rank": 20,
@@ -441,6 +497,14 @@
       "onboard_time": 1759507220,
       "rank": 22,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 245030,
+      "num": 245030,
+      "word": "张萌 后来庆功宴长记性了",
+      "onboard_time": 1759561760,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 238480,
@@ -475,6 +539,14 @@
       "category": "民生新闻,剧集"
     },
     {
+      "raw_hot": 223959,
+      "num": 263069,
+      "word": "王楚钦4比1战胜松岛辉空",
+      "onboard_time": 1759562959,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220838,
       "num": 161590,
       "word": "孙子推倒女孩爷爷反安慰孙子",
@@ -489,6 +561,14 @@
       "onboard_time": 1759536259,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214644,
+      "num": 214644,
+      "word": "许我耀眼",
+      "onboard_time": 1759564820,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 213041,
@@ -521,6 +601,14 @@
       "onboard_time": 1759555518,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207211,
+      "num": 134550,
+      "word": "第一批去韩国旅游的受害者出现了",
+      "onboard_time": 1759565361,
+      "rank": 30,
+      "category": "海外新闻,旅游"
     },
     {
       "raw_hot": 206685,
@@ -563,22 +651,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 192124,
-      "num": 192124,
-      "word": "他爷爷为什么不接他电话",
-      "onboard_time": 1759561881,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 191085,
-      "num": 191085,
-      "word": "王楚钦4比1战胜松岛辉空",
-      "onboard_time": 1759562959,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188380,
       "num": 188380,
       "word": "张远王霏霏盛夏芬德拉抱",
@@ -587,20 +659,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187184,
-      "num": 159150,
-      "word": "韩国部队锅原身是剩菜猪食粥",
-      "onboard_time": 1759561101,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 184226,
       "num": 144285,
       "word": "陆毅毕业时为鲍蕾放弃工作offer",
       "onboard_time": 1759543339,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183386,
+      "num": 183386,
+      "word": "陈震妻子回怼网友你说说啥事",
+      "onboard_time": 1759564699,
+      "rank": 24,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 182812,
@@ -627,12 +699,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171352,
-      "num": 171352,
-      "word": "张萌 后来庆功宴长记性了",
-      "onboard_time": 1759561760,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 172708,
+      "num": 262138,
+      "word": "王楚钦告诉自己身兼三项是幸福的",
+      "onboard_time": 1759565001,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 170407,
@@ -675,6 +747,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 167866,
+      "num": 167866,
+      "word": "张继科说王曼昱缺乏狠劲",
+      "onboard_time": 1759564820,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166797,
       "num": 166797,
       "word": "沈腾胡先煦为家乡烧饼打起来了",
@@ -715,6 +795,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162868,
+      "num": 162868,
+      "word": "陶喆已经在马来西亚吃上了",
+      "onboard_time": 1759566320,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162686,
+      "num": 133210,
+      "word": "东北女生远嫁台湾700平的家",
+      "onboard_time": 1759565120,
+      "rank": 31,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 159423,
       "num": 159423,
       "word": "台风",
@@ -739,6 +835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 154378,
+      "num": 216624,
+      "word": "王楚钦要累懵了",
+      "onboard_time": 1759564699,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153498,
       "num": 146210,
       "word": "王曼昱蒯曼夺冠国乒全体起立鼓掌",
@@ -753,6 +857,14 @@
       "onboard_time": 1759560860,
       "rank": 30,
       "category": "情感,美食"
+    },
+    {
+      "raw_hot": 152993,
+      "num": 152993,
+      "word": "万鹏素颜状态",
+      "onboard_time": 1759562661,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 152427,
@@ -819,28 +931,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143368,
-      "num": 118345,
-      "word": "许我耀眼剧组回应",
-      "onboard_time": 1759562421,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 142765,
       "num": 142765,
       "word": "普京称某国准备进行核试验",
       "onboard_time": 1759491442,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 140343,
-      "num": 140343,
-      "word": "万鹏素颜状态",
-      "onboard_time": 1759562661,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 140316,
@@ -915,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129864,
+      "num": 129864,
+      "word": "美国23岁攀岩新星登顶后不慎坠崖身亡",
+      "onboard_time": 1759565241,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 128557,
       "num": 122864,
       "word": "范丞丞让章若楠穿裙子的愿望实现了",
@@ -963,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121777,
+      "num": 121777,
+      "word": "鸡排哥称我人都要窒息了",
+      "onboard_time": 1759566381,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119576,
       "num": 119576,
       "word": "家长把孩子忘服务区小孩哥淡定鼓掌",
@@ -993,6 +1105,14 @@
       "onboard_time": 1759555819,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116893,
+      "num": 116893,
+      "word": "27岁花8万买房后的真实生活",
+      "onboard_time": 1759564340,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 116547,
@@ -1051,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114236,
+      "num": 114236,
+      "word": "香港偶遇黄磊孙莉一家",
+      "onboard_time": 1759566381,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113880,
       "num": 113880,
       "word": "王曼昱蒯曼3比1早田希娜朱芊曦",
@@ -1083,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111896,
+      "num": 111896,
+      "word": "王男拒绝蒋龙",
+      "onboard_time": 1759565720,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111531,
       "num": 111531,
       "word": "孙颖莎照亮裸辞女孩登顶玉珠峰",
@@ -1097,6 +1233,14 @@
       "onboard_time": 1759545500,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 111256,
+      "num": 111256,
+      "word": "智能手表测睡眠真的靠谱吗",
+      "onboard_time": 1759565480,
+      "rank": 41,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 110606,
@@ -1145,6 +1289,22 @@
       "onboard_time": 1759487242,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 109652,
+      "num": 109652,
+      "word": "高市早苗多次参拜靖国神社",
+      "onboard_time": 1759563738,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 108355,
+      "num": 136046,
+      "word": "疑似社畜拼好饭中毒死前的终极幻想",
+      "onboard_time": 1759565060,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 107058,
@@ -1219,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104545,
+      "num": 104545,
+      "word": "王楚钦回应4比1松岛辉空",
+      "onboard_time": 1759566081,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103964,
       "num": 103964,
       "word": "同事问我是不是很穷",
@@ -1249,6 +1417,14 @@
       "onboard_time": 1759505122,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102262,
+      "num": 102262,
+      "word": "王欣瑜挂着labubu想着wakuku",
+      "onboard_time": 1759564520,
+      "rank": 47,
+      "category": "体育,休闲"
     },
     {
       "raw_hot": 101703,
@@ -1297,14 +1473,6 @@
       "onboard_time": 1759549039,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101032,
-      "num": 101032,
-      "word": "那英 丢个手机被龚俊蛐蛐一辈子",
-      "onboard_time": 1759562539,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 100511,
@@ -1377,6 +1545,14 @@
       "onboard_time": 1759557501,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 96931,
+      "num": 96931,
+      "word": "10月份的广东人还在防台风",
+      "onboard_time": 1759565840,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96920,
@@ -1529,6 +1705,14 @@
       "onboard_time": 1759559720,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86597,
+      "num": 112340,
+      "word": "顶流明星早期活人感",
+      "onboard_time": 1759565480,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 86202,
@@ -1803,6 +1987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 70177,
+      "num": 112100,
+      "word": "黄晓明对檀健次打手语我爱你",
+      "onboard_time": 1759566022,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 70054,
       "num": 70054,
       "word": "以伊爆发新一轮冲突的可能性骤增",
@@ -2041,6 +2233,14 @@
       "onboard_time": 1759519274,
       "rank": 42,
       "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 27322,
+      "num": 223551,
+      "word": "成都和柳州到底谁更辣",
+      "onboard_time": 1759566201,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 25248,

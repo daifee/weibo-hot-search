@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759563375267,
+  "endTime": 1759566556922,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -819,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 978540,
+      "num": 1156566,
+      "word": "班味最重的新娘",
+      "onboard_time": 1759563440,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 974180,
       "num": 288004,
       "word": "孙俪吃了一段时间的干净饭",
@@ -945,6 +953,14 @@
       "onboard_time": 1759401381,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 935467,
+      "num": 259969,
+      "word": "乃万瘦到不足42kg",
+      "onboard_time": 1759563860,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 934705,
@@ -2068,7 +2084,7 @@
     },
     {
       "raw_hot": 609363,
-      "num": 232754,
+      "num": 258525,
       "word": "这竟然是潘玮柏",
       "onboard_time": 1759561219,
       "rank": 12,
@@ -3371,6 +3387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 438623,
+      "num": 257447,
+      "word": "许我耀眼剧组回应",
+      "onboard_time": 1759562421,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 438599,
       "num": 219928,
       "word": "小酒窝让佟丽娅带去找宋亚轩",
@@ -4507,6 +4531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 314460,
+      "num": 256881,
+      "word": "韩国部队锅原身是剩菜猪食粥",
+      "onboard_time": 1759561101,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 311990,
       "num": 158091,
       "word": "原来月经量少不是坏事",
@@ -4569,6 +4601,14 @@
       "onboard_time": 1759018340,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 308929,
+      "num": 256481,
+      "word": "那英 丢个手机被龚俊蛐蛐一辈子",
+      "onboard_time": 1759562539,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 308248,
@@ -4801,6 +4841,14 @@
       "onboard_time": 1759389560,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292983,
+      "num": 292983,
+      "word": "女性向游戏",
+      "onboard_time": 1759564099,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 292982,
@@ -5371,6 +5419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256010,
+      "num": 256010,
+      "word": "他爷爷为什么不接他电话",
+      "onboard_time": 1759561881,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255951,
       "num": 255951,
       "word": "迪丽热巴迪奥大秀预告",
@@ -5396,7 +5452,7 @@
     },
     {
       "raw_hot": 255631,
-      "num": 162192,
+      "num": 190576,
       "word": "不建议你频繁用酒精擦手机的原因",
       "onboard_time": 1759560740,
       "rank": 20,
@@ -5553,6 +5609,14 @@
       "onboard_time": 1759244062,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245030,
+      "num": 245030,
+      "word": "张萌 后来庆功宴长记性了",
+      "onboard_time": 1759561760,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 244911,
@@ -6043,6 +6107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 223959,
+      "num": 263069,
+      "word": "王楚钦4比1战胜松岛辉空",
+      "onboard_time": 1759562959,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223184,
       "num": 223184,
       "word": "宗馥莉心腹严学峰被调查",
@@ -6529,6 +6601,14 @@
       "onboard_time": 1759555518,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207211,
+      "num": 134550,
+      "word": "第一批去韩国旅游的受害者出现了",
+      "onboard_time": 1759565361,
+      "rank": 30,
+      "category": "海外新闻,旅游"
     },
     {
       "raw_hot": 206685,
@@ -7267,14 +7347,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 192124,
-      "num": 192124,
-      "word": "他爷爷为什么不接他电话",
-      "onboard_time": 1759561881,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 192063,
       "num": 150422,
       "word": "一晚上偶遇三次鹿晗",
@@ -7353,14 +7425,6 @@
       "onboard_time": 1759117161,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191085,
-      "num": 191085,
-      "word": "王楚钦4比1战胜松岛辉空",
-      "onboard_time": 1759562959,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 190755,
@@ -7529,14 +7593,6 @@
       "onboard_time": 1759374979,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187184,
-      "num": 159150,
-      "word": "韩国部队锅原身是剩菜猪食粥",
-      "onboard_time": 1759561101,
-      "rank": 25,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 186962,
@@ -7713,6 +7769,14 @@
       "onboard_time": 1759238601,
       "rank": 28,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 183386,
+      "num": 183386,
+      "word": "陈震妻子回怼网友你说说啥事",
+      "onboard_time": 1759564699,
+      "rank": 24,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 182976,
@@ -8251,6 +8315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172708,
+      "num": 262138,
+      "word": "王楚钦告诉自己身兼三项是幸福的",
+      "onboard_time": 1759565001,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172672,
       "num": 172672,
       "word": "心动的信号8售后",
@@ -8345,14 +8417,6 @@
       "onboard_time": 1759322781,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171352,
-      "num": 171352,
-      "word": "张萌 后来庆功宴长记性了",
-      "onboard_time": 1759561760,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 171199,
@@ -8617,6 +8681,14 @@
       "onboard_time": 1758983301,
       "rank": 17,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 167866,
+      "num": 167866,
+      "word": "张继科说王曼昱缺乏狠劲",
+      "onboard_time": 1759564820,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 167804,
@@ -8963,12 +9035,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162868,
+      "num": 162868,
+      "word": "陶喆已经在马来西亚吃上了",
+      "onboard_time": 1759566320,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162802,
       "num": 162802,
       "word": "张晚意骑骆驼迷死我了",
       "onboard_time": 1759140921,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162686,
+      "num": 133210,
+      "word": "东北女生远嫁台湾700平的家",
+      "onboard_time": 1759565120,
+      "rank": 31,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 162338,
@@ -9539,6 +9627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 154378,
+      "num": 216624,
+      "word": "王楚钦要累懵了",
+      "onboard_time": 1759564699,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154124,
       "num": 154124,
       "word": "奔跑吧特别季",
@@ -9632,6 +9728,14 @@
       "word": "周也 贝雷帽战神",
       "onboard_time": 1758986962,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152993,
+      "num": 152993,
+      "word": "万鹏素颜状态",
+      "onboard_time": 1759562661,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -10443,14 +10547,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 143368,
-      "num": 118345,
-      "word": "许我耀眼剧组回应",
-      "onboard_time": 1759562421,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143134,
       "num": 143134,
       "word": "侯明昊问代拍赚多少钱一个月",
@@ -10704,14 +10800,6 @@
       "word": "王俊凯出发巴黎了",
       "onboard_time": 1759301001,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 140343,
-      "num": 140343,
-      "word": "万鹏素颜状态",
-      "onboard_time": 1759562661,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -11811,6 +11899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129864,
+      "num": 129864,
+      "word": "美国23岁攀岩新星登顶后不慎坠崖身亡",
+      "onboard_time": 1759565241,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 129848,
       "num": 152489,
       "word": "周深奇迹主题曲遥遥MV上线",
@@ -12779,6 +12875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121777,
+      "num": 121777,
+      "word": "鸡排哥称我人都要窒息了",
+      "onboard_time": 1759566381,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121749,
       "num": 121749,
       "word": "宝马召回超过33万辆汽车",
@@ -13403,6 +13507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116893,
+      "num": 116893,
+      "word": "27岁花8万买房后的真实生活",
+      "onboard_time": 1759564340,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116884,
       "num": 116884,
       "word": "莎头速速速胜",
@@ -13707,6 +13819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114236,
+      "num": 114236,
+      "word": "香港偶遇黄磊孙莉一家",
+      "onboard_time": 1759566381,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114180,
       "num": 114180,
       "word": "A股午后突变",
@@ -13995,6 +14115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111896,
+      "num": 111896,
+      "word": "王男拒绝蒋龙",
+      "onboard_time": 1759565720,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111892,
       "num": 111892,
       "word": "偶遇小酒窝朵朵一起逛街",
@@ -14121,6 +14249,14 @@
       "onboard_time": 1759325121,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111256,
+      "num": 111256,
+      "word": "智能手表测睡眠真的靠谱吗",
+      "onboard_time": 1759565480,
+      "rank": 41,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 111246,
@@ -14411,6 +14547,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 109652,
+      "num": 109652,
+      "word": "高市早苗多次参拜靖国神社",
+      "onboard_time": 1759563738,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109629,
       "num": 109629,
       "word": "辛纳vs德米纳尔",
@@ -14633,6 +14777,14 @@
       "onboard_time": 1759190058,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108355,
+      "num": 136046,
+      "word": "疑似社畜拼好饭中毒死前的终极幻想",
+      "onboard_time": 1759565060,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 108350,
@@ -15291,6 +15443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104545,
+      "num": 104545,
+      "word": "王楚钦回应4比1松岛辉空",
+      "onboard_time": 1759566081,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104525,
       "num": 104525,
       "word": "内娱纯恨cp赛道",
@@ -15643,6 +15803,14 @@
       "category": "综艺,电竞"
     },
     {
+      "raw_hot": 102262,
+      "num": 102262,
+      "word": "王欣瑜挂着labubu想着wakuku",
+      "onboard_time": 1759564520,
+      "rank": 47,
+      "category": "体育,休闲"
+    },
+    {
       "raw_hot": 102252,
       "num": 121342,
       "word": "俱乐部为樊振东欧冠首秀换场馆",
@@ -15905,14 +16073,6 @@
       "onboard_time": 1759248741,
       "rank": 41,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 101032,
-      "num": 101032,
-      "word": "那英 丢个手机被龚俊蛐蛐一辈子",
-      "onboard_time": 1759562539,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 100921,
@@ -16409,6 +16569,14 @@
       "onboard_time": 1758984862,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96931,
+      "num": 96931,
+      "word": "10月份的广东人还在防台风",
+      "onboard_time": 1759565840,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96920,
@@ -17777,6 +17945,14 @@
       "onboard_time": 1759413382,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86597,
+      "num": 112340,
+      "word": "顶流明星早期活人感",
+      "onboard_time": 1759565480,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 86544,
@@ -19505,6 +19681,14 @@
       "onboard_time": 1759535178,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 70177,
+      "num": 112100,
+      "word": "黄晓明对檀健次打手语我爱你",
+      "onboard_time": 1759566022,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 70103,
@@ -22041,6 +22225,14 @@
       "onboard_time": 1759032861,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27322,
+      "num": 223551,
+      "word": "成都和柳州到底谁更辣",
+      "onboard_time": 1759566201,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 27086,

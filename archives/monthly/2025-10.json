@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759563375267,
+  "endTime": 1759566556922,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -435,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 978540,
+      "num": 1156566,
+      "word": "班味最重的新娘",
+      "onboard_time": 1759563440,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 968725,
       "num": 645620,
       "word": "骨相美 皮相美",
@@ -465,6 +473,14 @@
       "onboard_time": 1759401381,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 935467,
+      "num": 259969,
+      "word": "乃万瘦到不足42kg",
+      "onboard_time": 1759563860,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 934705,
@@ -1028,7 +1044,7 @@
     },
     {
       "raw_hot": 609363,
-      "num": 232754,
+      "num": 258525,
       "word": "这竟然是潘玮柏",
       "onboard_time": 1759561219,
       "rank": 12,
@@ -1601,6 +1617,14 @@
       "onboard_time": 1759502182,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 438623,
+      "num": 257447,
+      "word": "许我耀眼剧组回应",
+      "onboard_time": 1759562421,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 434111,
@@ -2243,6 +2267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 314460,
+      "num": 256881,
+      "word": "韩国部队锅原身是剩菜猪食粥",
+      "onboard_time": 1759561101,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 311990,
       "num": 158091,
       "word": "原来月经量少不是坏事",
@@ -2265,6 +2297,14 @@
       "onboard_time": 1759243283,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 308929,
+      "num": 256481,
+      "word": "那英 丢个手机被龚俊蛐蛐一辈子",
+      "onboard_time": 1759562539,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 308248,
@@ -2393,6 +2433,14 @@
       "onboard_time": 1759389560,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292983,
+      "num": 292983,
+      "word": "女性向游戏",
+      "onboard_time": 1759564099,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 292982,
@@ -2755,6 +2803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256010,
+      "num": 256010,
+      "word": "他爷爷为什么不接他电话",
+      "onboard_time": 1759561881,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255935,
       "num": 152474,
       "word": "娜扎好美",
@@ -2772,7 +2828,7 @@
     },
     {
       "raw_hot": 255631,
-      "num": 162192,
+      "num": 190576,
       "word": "不建议你频繁用酒精擦手机的原因",
       "onboard_time": 1759560740,
       "rank": 20,
@@ -2871,6 +2927,14 @@
       "num": 215567,
       "word": "陈赫张子萱挽手逛街",
       "onboard_time": 1759292302,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 245030,
+      "num": 245030,
+      "word": "张萌 后来庆功宴长记性了",
+      "onboard_time": 1759561760,
       "rank": 31,
       "category": "艺人"
     },
@@ -3161,6 +3225,14 @@
       "onboard_time": 1759328542,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 223959,
+      "num": 263069,
+      "word": "王楚钦4比1战胜松岛辉空",
+      "onboard_time": 1759562959,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 223184,
@@ -3457,6 +3529,14 @@
       "onboard_time": 1759555518,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207211,
+      "num": 134550,
+      "word": "第一批去韩国旅游的受害者出现了",
+      "onboard_time": 1759565361,
+      "rank": 30,
+      "category": "海外新闻,旅游"
     },
     {
       "raw_hot": 206685,
@@ -3875,14 +3955,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 192124,
-      "num": 192124,
-      "word": "他爷爷为什么不接他电话",
-      "onboard_time": 1759561881,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 192063,
       "num": 150422,
       "word": "一晚上偶遇三次鹿晗",
@@ -3913,14 +3985,6 @@
       "onboard_time": 1759397840,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191085,
-      "num": 191085,
-      "word": "王楚钦4比1战胜松岛辉空",
-      "onboard_time": 1759562959,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 189875,
@@ -3995,14 +4059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187184,
-      "num": 159150,
-      "word": "韩国部队锅原身是剩菜猪食粥",
-      "onboard_time": 1759561101,
-      "rank": 25,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 186962,
       "num": 186962,
       "word": "王楚钦用手撑住腰部",
@@ -4073,6 +4129,14 @@
       "onboard_time": 1759380322,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183386,
+      "num": 183386,
+      "word": "陈震妻子回怼网友你说说啥事",
+      "onboard_time": 1759564699,
+      "rank": 24,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 182976,
@@ -4307,6 +4371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172708,
+      "num": 262138,
+      "word": "王楚钦告诉自己身兼三项是幸福的",
+      "onboard_time": 1759565001,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172273,
       "num": 172273,
       "word": "王艺迪终结对桥本帆乃香三连败",
@@ -4337,14 +4409,6 @@
       "onboard_time": 1759322781,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171352,
-      "num": 171352,
-      "word": "张萌 后来庆功宴长记性了",
-      "onboard_time": 1759561760,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 171198,
@@ -4505,6 +4569,14 @@
       "onboard_time": 1759299680,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 167866,
+      "num": 167866,
+      "word": "张继科说王曼昱缺乏狠劲",
+      "onboard_time": 1759564820,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 167518,
@@ -4731,6 +4803,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162868,
+      "num": 162868,
+      "word": "陶喆已经在马来西亚吃上了",
+      "onboard_time": 1759566320,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 162686,
+      "num": 133210,
+      "word": "东北女生远嫁台湾700平的家",
+      "onboard_time": 1759565120,
+      "rank": 31,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 162320,
       "num": 162320,
       "word": "严浩翔 试试我的新相机",
@@ -4955,6 +5043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154378,
+      "num": 216624,
+      "word": "王楚钦要累懵了",
+      "onboard_time": 1759564699,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154080,
       "num": 154080,
       "word": "王曼昱4比0张本美和",
@@ -5009,6 +5105,14 @@
       "onboard_time": 1759560860,
       "rank": 30,
       "category": "情感,美食"
+    },
+    {
+      "raw_hot": 152993,
+      "num": 152993,
+      "word": "万鹏素颜状态",
+      "onboard_time": 1759562661,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 152484,
@@ -5411,14 +5515,6 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 143368,
-      "num": 118345,
-      "word": "许我耀眼剧组回应",
-      "onboard_time": 1759562421,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143134,
       "num": 143134,
       "word": "小酒窝也没抢到星星人",
@@ -5568,14 +5664,6 @@
       "word": "王俊凯出发巴黎了",
       "onboard_time": 1759301001,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 140343,
-      "num": 140343,
-      "word": "万鹏素颜状态",
-      "onboard_time": 1759562661,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -6147,6 +6235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129864,
+      "num": 129864,
+      "word": "美国23岁攀岩新星登顶后不慎坠崖身亡",
+      "onboard_time": 1759565241,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 129794,
       "num": 129794,
       "word": "闫妮魏大勋 国庆最忙的俩人",
@@ -6531,6 +6627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121777,
+      "num": 121777,
+      "word": "鸡排哥称我人都要窒息了",
+      "onboard_time": 1759566381,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121698,
       "num": 121698,
       "word": "王曼昱vs巴特拉",
@@ -6819,6 +6923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116893,
+      "num": 116893,
+      "word": "27岁花8万买房后的真实生活",
+      "onboard_time": 1759564340,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116884,
       "num": 116884,
       "word": "莎头速速速胜",
@@ -6952,6 +7064,14 @@
       "word": "严浩翔和王嘉尔合照激动到手抖",
       "onboard_time": 1759408881,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 114236,
+      "num": 114236,
+      "word": "香港偶遇黄磊孙莉一家",
+      "onboard_time": 1759566381,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -7131,6 +7251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111896,
+      "num": 111896,
+      "word": "王男拒绝蒋龙",
+      "onboard_time": 1759565720,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111885,
       "num": 111885,
       "word": "27岁发现自己年龄有点严肃了",
@@ -7201,6 +7329,14 @@
       "onboard_time": 1759325121,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111256,
+      "num": 111256,
+      "word": "智能手表测睡眠真的靠谱吗",
+      "onboard_time": 1759565480,
+      "rank": 41,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 111246,
@@ -7371,6 +7507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109652,
+      "num": 109652,
+      "word": "高市早苗多次参拜靖国神社",
+      "onboard_time": 1759563738,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109570,
       "num": 109570,
       "word": "孙颖莎说大头做得非常好",
@@ -7505,6 +7649,14 @@
       "onboard_time": 1759295841,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108355,
+      "num": 136046,
+      "word": "疑似社畜拼好饭中毒死前的终极幻想",
+      "onboard_time": 1759565060,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 108339,
@@ -7883,6 +8035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104545,
+      "num": 104545,
+      "word": "王楚钦回应4比1松岛辉空",
+      "onboard_time": 1759566081,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104525,
       "num": 104525,
       "word": "内娱纯恨cp赛道",
@@ -8067,6 +8227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102262,
+      "num": 102262,
+      "word": "王欣瑜挂着labubu想着wakuku",
+      "onboard_time": 1759564520,
+      "rank": 47,
+      "category": "体育,休闲"
+    },
+    {
       "raw_hot": 102241,
       "num": 102241,
       "word": "王曼昱蒯曼3比0杜凯琹朱成竹",
@@ -8201,14 +8369,6 @@
       "onboard_time": 1759248741,
       "rank": 41,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 101032,
-      "num": 101032,
-      "word": "那英 丢个手机被龚俊蛐蛐一辈子",
-      "onboard_time": 1759562539,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 100921,
@@ -8505,6 +8665,14 @@
       "onboard_time": 1759393641,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96931,
+      "num": 96931,
+      "word": "10月份的广东人还在防台风",
+      "onboard_time": 1759565840,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96920,
@@ -9337,6 +9505,14 @@
       "onboard_time": 1759413382,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86597,
+      "num": 112340,
+      "word": "顶流明星早期活人感",
+      "onboard_time": 1759565480,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 86530,
@@ -10537,6 +10713,14 @@
       "onboard_time": 1759535178,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 70177,
+      "num": 112100,
+      "word": "黄晓明对檀健次打手语我爱你",
+      "onboard_time": 1759566022,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 70054,
@@ -11905,6 +12089,14 @@
       "onboard_time": 1759381521,
       "rank": 17,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 27322,
+      "num": 223551,
+      "word": "成都和柳州到底谁更辣",
+      "onboard_time": 1759566201,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 26868,
