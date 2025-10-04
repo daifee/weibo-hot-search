@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/04 00:30:46 ~ 2025/10/04 11:29:51
+本榜单时间：2025/10/04 00:30:46 ~ 2025/10/04 11:43:34
 </p>
 </blockquote>
 <p>
@@ -34,7 +34,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%86%E6%89%8B1%E5%B9%B4%E5%A4%8D%E5%90%88%E7%8B%97%E7%8B%97%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
-分手1年复合狗狗的反应（热度：797304）
+分手1年复合狗狗的反应（热度：902049）
 </a>
 </li>
 
@@ -123,6 +123,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%B8%BA%E5%9C%A8%E8%A3%85%E7%97%85%E7%BB%93%E6%9E%9C%E7%9C%9F%E7%A1%AE%E8%AF%8A%E4%BA%86%23" target="weibo">
+以为在装病结果真确诊了（热度：365375）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%85%AC%E5%8F%B8%E5%8F%91%E8%A8%80%E4%BA%BA%E5%9B%9E%E5%BA%94%23" target="weibo">
 小米公司发言人回应（热度：333380）
 </a>
@@ -189,20 +195,26 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%B8%BA%E5%9C%A8%E8%A3%85%E7%97%85%E7%BB%93%E6%9E%9C%E7%9C%9F%E7%A1%AE%E8%AF%8A%E4%BA%86%23" target="weibo">
-以为在装病结果真确诊了（热度：248539）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E8%BF%87500%E5%BA%A6%E8%BF%91%E8%A7%86%E4%B8%8D%E8%A6%81%E5%81%9A%E7%9A%84%E4%BA%8B%23" target="weibo">
 超过500度近视不要做的事（热度：238480）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%23" target="weibo">
+明日方舟（热度：235868）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A830%E5%A4%A9%E8%8A%B120%E4%B8%87%E8%87%AA%E5%88%B6%E7%89%B9%E6%91%84%E7%9F%AD%E5%89%A7%23" target="weibo">
 大学生用30天花20万自制特摄短剧（热度：232419）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%AD%90%E6%8E%A8%E5%80%92%E5%A5%B3%E5%AD%A9%E7%88%B7%E7%88%B7%E5%8F%8D%E5%AE%89%E6%85%B0%E5%AD%99%E5%AD%90%23" target="weibo">
+孙子推倒女孩爷爷反安慰孙子（热度：220838）
 </a>
 </li>
 
@@ -243,12 +255,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%AD%90%E6%8E%A8%E5%80%92%E5%A5%B3%E5%AD%A9%E7%88%B7%E7%88%B7%E5%8F%8D%E5%AE%89%E6%85%B0%E5%AD%99%E5%AD%90%23" target="weibo">
-孙子推倒女孩爷爷反安慰孙子（热度：202194）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85%E6%AF%95%E4%B8%9A%E6%97%B6%E4%B8%BA%E9%B2%8D%E8%95%BE%E6%94%BE%E5%BC%83%E5%B7%A5%E4%BD%9Coffer%23" target="weibo">
 陆毅毕业时为鲍蕾放弃工作offer（热度：184226）
 </a>
@@ -285,6 +291,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%B4%BB%E7%81%AB%E5%B1%B1%E4%B8%8A%E7%A9%BA%E7%96%91%E5%87%BA%E7%8E%B0UFO%E8%88%B0%E9%98%9F%23" target="weibo">
+墨西哥活火山上空疑出现UFO舰队（热度：164092）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E8%BD%AC%E8%B4%A6%E5%90%8E%E8%AE%B0%E5%BE%97%E5%8A%A0%E4%B8%80%E4%B8%AA%E5%8A%A8%E4%BD%9C%23" target="weibo">
 微信转账后记得加一个动作（热度：157677）
 </a>
@@ -303,6 +315,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%B9%B4%E4%BD%93%E6%A3%80%E6%97%A0%E5%BC%82%E5%B8%B8%E5%8F%91%E7%8E%B0%E5%8D%B4%E6%98%AF%E6%99%9A%E6%9C%9F%23" target="weibo">
+年年体检无异常发现却是晚期（热度：144989）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E6%9F%90%E5%9B%BD%E5%87%86%E5%A4%87%E8%BF%9B%E8%A1%8C%E6%A0%B8%E8%AF%95%E9%AA%8C%23" target="weibo">
 普京称某国准备进行核试验（热度：142765）
 </a>
@@ -315,20 +333,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%B9%B4%E4%BD%93%E6%A3%80%E6%97%A0%E5%BC%82%E5%B8%B8%E5%8F%91%E7%8E%B0%E5%8D%B4%E6%98%AF%E6%99%9A%E6%9C%9F%23" target="weibo">
-年年体检无异常发现却是晚期（热度：140018）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3vs%E6%B9%96%E4%BA%BA%23" target="weibo">
+太阳vs湖人（热度：140021）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%A2%AB%E7%8B%97%E5%95%83%E5%88%B0%E9%9D%A2%E7%9B%AE%E5%85%A8%E9%9D%9E%E5%A5%B3%E8%BD%A6%E4%B8%BB%E6%9C%80%E6%96%B0%E5%8F%91%E5%A3%B0%23" target="weibo">
 车被狗啃到面目全非女车主最新发声（热度：139154）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%B4%BB%E7%81%AB%E5%B1%B1%E4%B8%8A%E7%A9%BA%E7%96%91%E5%87%BA%E7%8E%B0UFO%E8%88%B0%E9%98%9F%23" target="weibo">
-墨西哥活火山上空疑出现UFO舰队（热度：138842）
 </a>
 </li>
 
@@ -357,8 +369,14 @@ qko回应自己不是赵磊的初恋（热度：130804）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3vs%E6%B9%96%E4%BA%BA%23" target="weibo">
-太阳vs湖人（热度：125602）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%9C%8B%E5%87%BA%E6%9D%A586%E7%89%88%E8%A5%BF%E6%B8%B8%E8%AE%B0%E6%8D%A2%E4%BA%BA%E4%BA%86%23" target="weibo">
+谁看出来86版西游记换人了（热度：123078）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B%E5%AD%99%E4%BA%A8%E8%A3%95%E5%9C%A8%E9%9F%A9%E5%9B%BD%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%23" target="weibo">
+中国选手孙亨裕在韩国见义勇为（热度：122631）
 </a>
 </li>
 
@@ -417,8 +435,8 @@ qko回应自己不是赵磊的初恋（热度：130804）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B%E5%AD%99%E4%BA%A8%E8%A3%95%E5%9C%A8%E9%9F%A9%E5%9B%BD%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%23" target="weibo">
-中国选手孙亨裕在韩国见义勇为（热度：109120）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B4%E5%83%8F%201%E7%BE%8E%E5%85%83%E7%A1%AC%E5%B8%81%23" target="weibo">
+特朗普头像 1美元硬币（热度：107405）
 </a>
 </li>
 
@@ -471,14 +489,26 @@ qko回应自己不是赵磊的初恋（热度：130804）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%98%A6%E4%BD%93%E8%B4%A8%E9%83%BD%E6%98%AF%E6%80%8E%E6%A0%B7%E6%97%A0%E6%84%8F%E8%AF%86%E5%85%BB%E6%88%90%E7%9A%84%23" target="weibo">
-易瘦体质都是怎样无意识养成的（热度：96799）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E9%AA%91%E9%A9%AC%E4%B8%8A%E7%8F%AD%23" target="weibo">
+尼格买提骑马上班（热度：101550）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%9C%86%E9%94%8B%E7%9A%84%E4%BA%BA%E7%94%9F%E5%8F%AF%E4%BB%A5%E5%80%9F%E6%88%91%E8%BF%87%E8%BF%87%E5%90%97%23" target="weibo">
-谢霆锋的人生可以借我过过吗（热度：95683）
+谢霆锋的人生可以借我过过吗（热度：101462）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E8%A1%A3%E5%87%9D%E7%8F%A0%E8%9E%8D%E5%8C%96%E7%9A%84%E7%9E%AC%E9%97%B4%23" target="weibo">
+洗衣凝珠融化的瞬间（热度：101181）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%98%A6%E4%BD%93%E8%B4%A8%E9%83%BD%E6%98%AF%E6%80%8E%E6%A0%B7%E6%97%A0%E6%84%8F%E8%AF%86%E5%85%BB%E6%88%90%E7%9A%84%23" target="weibo">
+易瘦体质都是怎样无意识养成的（热度：96799）
 </a>
 </li>
 
@@ -501,6 +531,18 @@ qko回应自己不是赵磊的初恋（热度：130804）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E6%A0%A1%E7%9A%84%E9%AD%94%E4%B8%B8%E9%83%BD%E5%9C%A8%E8%BF%99%E4%B8%AA%E7%8F%AD%E9%87%8C%E4%BA%86%23" target="weibo">
+全校的魔丸都在这个班里了（热度：90455）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E8%A2%AB%E5%A4%B8%E5%8F%AF%E7%88%B1%E5%90%8E%E5%8E%9F%E5%9C%B0%E8%B7%B3%E8%88%9E%23" target="weibo">
+小酒窝被夸可爱后原地跳舞（热度：90423）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%AF%B7%E7%BB%99%E8%87%AA%E5%B7%B1%E7%95%99%E7%9B%8F%E7%81%AF%23" target="weibo">
 熬夜玩手机请给自己留盏灯（热度：90276）
 </a>
@@ -519,6 +561,12 @@ qko回应自己不是赵磊的初恋（热度：130804）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%BB%E7%9C%BC%E7%9D%9B%E8%BF%995%E7%B1%BB%E9%A3%9F%E7%89%A9%E8%A6%81%E5%A4%9A%E5%90%83%23" target="weibo">
+养眼睛这5类食物要多吃（热度：88566）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%90%834%E7%B1%BB%E9%A3%9F%E7%89%A9%E8%AE%A9%E8%BA%AB%E4%BD%93%E5%8F%91%E7%82%8E%23" target="weibo">
 常吃4类食物让身体发炎（热度：87823）
 </a>
@@ -531,26 +579,14 @@ qko回应自己不是赵磊的初恋（热度：130804）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B4%E5%83%8F%201%E7%BE%8E%E5%85%83%E7%A1%AC%E5%B8%81%23" target="weibo">
-特朗普头像 1美元硬币（热度：87518）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%A0%BC%E4%B9%B0%E6%8F%90%E9%AA%91%E9%A9%AC%E4%B8%8A%E7%8F%AD%23" target="weibo">
-尼格买提骑马上班（热度：85152）
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E4%B8%8D%E5%AE%8C%E7%9A%84%E8%8B%B9%E6%9E%9C%E4%B8%8D%E8%A6%81%E4%B8%A2%23" target="weibo">
+吃不完的苹果不要丢（热度：85640）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%9E%E5%BA%94%E6%98%AF%E5%90%A6%E5%8F%82%E5%8A%A0%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%B7%B7%E5%8F%8C%E9%A1%B9%E7%9B%AE%23" target="weibo">
 孙颖莎回应是否参加亚运会混双项目（热度：84259）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E4%B8%8D%E5%AE%8C%E7%9A%84%E8%8B%B9%E6%9E%9C%E4%B8%8D%E8%A6%81%E4%B8%A2%23" target="weibo">
-吃不完的苹果不要丢（热度：83325）
 </a>
 </li>
 
@@ -609,6 +645,12 @@ F1（热度：82027）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B2%E5%8A%A8%E6%B6%88%E8%B4%B9%E6%9C%80%E5%A4%A7%E4%B8%80%E7%AC%94%E9%92%B1%23" target="weibo">
+冲动消费最大一笔钱（热度：80095）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E8%AF%B4%E7%BA%A3%E7%8E%8B%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%B9%9D%E5%B0%BE%E7%8B%90%E4%BA%86%23" target="weibo">
 别再说纣王扛不住九尾狐了（热度：79186）
 </a>
@@ -653,6 +695,24 @@ Fly难走的路才不拥挤（热度：79146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%9C%E7%84%B6%E5%AF%B9%E5%BE%97%E8%B5%B7%E9%BB%84%E6%AF%9B%E4%B8%A4%E4%B8%AA%E5%AD%97%23" target="weibo">
 果然对得起黄毛两个字（热度：74588）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E9%97%AE%E6%88%91%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BE%88%E7%A9%B7%23" target="weibo">
+同事问我是不是很穷（热度：73663）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%84%E6%95%8C%E4%B8%80%E8%B5%B7%E5%9B%9E%E5%8E%BB%E5%90%A7%23" target="weibo">
+厄敌一起回去吧（热度：73649）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E8%A7%92%E5%AD%90%E6%9C%88%E9%A5%BC%23" target="weibo">
+豆角子月饼（热度：73313）
 </a>
 </li>
 
@@ -705,12 +765,6 @@ Fly难走的路才不拥挤（热度：79146）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%84%E6%95%8C%E4%B8%80%E8%B5%B7%E5%9B%9E%E5%8E%BB%E5%90%A7%23" target="weibo">
-厄敌一起回去吧（热度：68838）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%BC%80%E5%BF%83%E5%90%88%E5%BD%B1%23" target="weibo">
 孙颖莎王楚钦开心合影（热度：68256）
 </a>
@@ -755,12 +809,6 @@ Fly难走的路才不拥挤（热度：79146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BF%8A%E7%84%B6%E5%93%AD%E4%BA%86%23" target="weibo">
 周翊然哭了（热度：62678）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E8%A2%AB%E5%A4%B8%E5%8F%AF%E7%88%B1%E5%90%8E%E5%8E%9F%E5%9C%B0%E8%B7%B3%E8%88%9E%23" target="weibo">
-小酒窝被夸可爱后原地跳舞（热度：61500）
 </a>
 </li>
 

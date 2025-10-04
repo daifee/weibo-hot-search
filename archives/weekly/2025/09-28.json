@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759548591155,
+  "endTime": 1759549414749,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -979,6 +979,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 902049,
+      "num": 1144327,
+      "word": "分手1年复合狗狗的反应",
+      "onboard_time": 1759545500,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 900556,
       "num": 1144089,
       "word": "郑州方特跳楼机高空悬停七八分钟",
@@ -1267,16 +1275,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 797304,
-      "num": 797304,
-      "word": "分手1年复合狗狗的反应",
-      "onboard_time": 1759545500,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 794647,
-      "num": 161647,
+      "num": 164794,
       "word": "董璇说张维伊烦人难看幼稚",
       "onboard_time": 1759544299,
       "rank": 11,
@@ -3468,7 +3468,7 @@
     },
     {
       "raw_hot": 411158,
-      "num": 157046,
+      "num": 164408,
       "word": "范丞丞章若楠G社生图状态",
       "onboard_time": 1759543399,
       "rank": 12,
@@ -3913,6 +3913,14 @@
       "onboard_time": 1759023141,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365375,
+      "num": 164516,
+      "word": "以为在装病结果真确诊了",
+      "onboard_time": 1759547779,
+      "rank": 30,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 365186,
@@ -5299,14 +5307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248539,
-      "num": 93141,
-      "word": "以为在装病结果真确诊了",
-      "onboard_time": 1759547779,
-      "rank": 30,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 248403,
       "num": 248403,
       "word": "花海送皮肤",
@@ -5609,6 +5609,14 @@
       "onboard_time": 1759096635,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 235868,
+      "num": 235868,
+      "word": "明日方舟",
+      "onboard_time": 1759549099,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 234980,
@@ -5923,6 +5931,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220838,
+      "num": 135541,
+      "word": "孙子推倒女孩爷爷反安慰孙子",
+      "onboard_time": 1759546460,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 220446,
       "num": 220446,
       "word": "印度发生踩踏36死",
@@ -6116,7 +6132,7 @@
     },
     {
       "raw_hot": 213041,
-      "num": 155517,
+      "num": 164204,
       "word": "猥亵男暴力袭警致民警视力降至0.25",
       "onboard_time": 1759544418,
       "rank": 15,
@@ -6449,14 +6465,6 @@
       "onboard_time": 1759469001,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202194,
-      "num": 124518,
-      "word": "孙子推倒女孩爷爷反安慰孙子",
-      "onboard_time": 1759546460,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201683,
@@ -8555,6 +8563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164092,
+      "num": 164092,
+      "word": "墨西哥活火山上空疑出现UFO舰队",
+      "onboard_time": 1759545680,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 163954,
       "num": 163954,
       "word": "吴艳妮夺冠后亲吻现场小粉丝",
@@ -9851,6 +9867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144989,
+      "num": 132639,
+      "word": "年年体检无异常发现却是晚期",
+      "onboard_time": 1759547060,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 144974,
       "num": 144974,
       "word": "宋亚轩说无比帅气的丁行者棒棒",
@@ -10315,12 +10339,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 140018,
-      "num": 91976,
-      "word": "年年体检无异常发现却是晚期",
-      "onboard_time": 1759547060,
-      "rank": 36,
-      "category": "健康医疗"
+      "raw_hot": 140021,
+      "num": 140021,
+      "word": "太阳vs湖人",
+      "onboard_time": 1759548079,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 140012,
@@ -10449,14 +10473,6 @@
       "onboard_time": 1759126641,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138842,
-      "num": 138842,
-      "word": "墨西哥活火山上空疑出现UFO舰队",
-      "onboard_time": 1759545680,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 138532,
@@ -11891,14 +11907,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 125602,
-      "num": 125602,
-      "word": "太阳vs湖人",
-      "onboard_time": 1759548079,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125305,
       "num": 125305,
       "word": "为什么越忙越累反而越胖",
@@ -12155,6 +12163,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 123078,
+      "num": 123078,
+      "word": "谁看出来86版西游记换人了",
+      "onboard_time": 1759549340,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122962,
       "num": 122962,
       "word": "特朗普称以色列接受其加沙和平计划",
@@ -12177,6 +12193,14 @@
       "onboard_time": 1759239322,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122631,
+      "num": 122631,
+      "word": "中国选手孙亨裕在韩国见义勇为",
+      "onboard_time": 1759547539,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 122611,
@@ -13899,14 +13923,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 109120,
-      "num": 109120,
-      "word": "中国选手孙亨裕在韩国见义勇为",
-      "onboard_time": 1759547539,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 109071,
       "num": 109071,
       "word": "梁靖崑祝福林高远",
@@ -14121,6 +14137,14 @@
       "onboard_time": 1759480761,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107405,
+      "num": 107405,
+      "word": "特朗普头像 1美元硬币",
+      "onboard_time": 1759548560,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107389,
@@ -15131,6 +15155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101550,
+      "num": 101550,
+      "word": "尼格买提骑马上班",
+      "onboard_time": 1759548200,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101548,
       "num": 101548,
       "word": "朱志鑫跳了柠檬叉angel",
@@ -15145,6 +15177,14 @@
       "onboard_time": 1759145781,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101462,
+      "num": 101462,
+      "word": "谢霆锋的人生可以借我过过吗",
+      "onboard_time": 1759548139,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 101358,
@@ -15185,6 +15225,14 @@
       "onboard_time": 1759311799,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101181,
+      "num": 101181,
+      "word": "洗衣凝珠融化的瞬间",
+      "onboard_time": 1759549039,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 101160,
@@ -15825,14 +15873,6 @@
       "onboard_time": 1759028299,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 95683,
-      "num": 95683,
-      "word": "谢霆锋的人生可以借我过过吗",
-      "onboard_time": 1759548139,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 95675,
@@ -16515,6 +16555,22 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 90455,
+      "num": 90455,
+      "word": "全校的魔丸都在这个班里了",
+      "onboard_time": 1759549099,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 90423,
+      "num": 90423,
+      "word": "小酒窝被夸可爱后原地跳舞",
+      "onboard_time": 1759548380,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90412,
       "num": 90412,
       "word": "静安路疑似抄袭房思琪",
@@ -16707,6 +16763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88566,
+      "num": 88566,
+      "word": "养眼睛这5类食物要多吃",
+      "onboard_time": 1759548859,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 88436,
       "num": 88436,
       "word": "邓超看到孙俪照片就没法工作了",
@@ -16857,14 +16921,6 @@
       "onboard_time": 1759062622,
       "rank": 48,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 87518,
-      "num": 87518,
-      "word": "特朗普头像 1美元硬币",
-      "onboard_time": 1759548560,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 87486,
@@ -17091,6 +17147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85640,
+      "num": 85640,
+      "word": "吃不完的苹果不要丢",
+      "onboard_time": 1759548021,
+      "rank": 40,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 85632,
       "num": 85632,
       "word": "王曼昱这也行啊",
@@ -17169,14 +17233,6 @@
       "onboard_time": 1759485860,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 85152,
-      "num": 85152,
-      "word": "尼格买提骑马上班",
-      "onboard_time": 1759548200,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 85138,
@@ -17417,14 +17473,6 @@
       "onboard_time": 1759116319,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 83325,
-      "num": 79809,
-      "word": "吃不完的苹果不要丢",
-      "onboard_time": 1759548021,
-      "rank": 40,
-      "category": "幽默,美食"
     },
     {
       "raw_hot": 83319,
@@ -17793,6 +17841,14 @@
       "onboard_time": 1759104501,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80095,
+      "num": 80095,
+      "word": "冲动消费最大一笔钱",
+      "onboard_time": 1759548620,
+      "rank": 43,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 80090,
@@ -18363,12 +18419,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73663,
+      "num": 73663,
+      "word": "同事问我是不是很穷",
+      "onboard_time": 1759548740,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73649,
+      "num": 73649,
+      "word": "厄敌一起回去吧",
+      "onboard_time": 1759548500,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 73516,
       "num": 85510,
       "word": "王楚钦说和孙颖莎沟通非常高效",
       "onboard_time": 1759420400,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73313,
+      "num": 73313,
+      "word": "豆角子月饼",
+      "onboard_time": 1759549221,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 73194,
@@ -18657,14 +18737,6 @@
       "onboard_time": 1759447277,
       "rank": 28,
       "category": "军事"
-    },
-    {
-      "raw_hot": 68838,
-      "num": 68838,
-      "word": "厄敌一起回去吧",
-      "onboard_time": 1759548500,
-      "rank": 47,
-      "category": "动漫"
     },
     {
       "raw_hot": 68724,
@@ -19191,14 +19263,6 @@
       "num": 129238,
       "word": "王琳 旧苏联时代的大雪消融了",
       "onboard_time": 1759123882,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 61500,
-      "num": 80359,
-      "word": "小酒窝被夸可爱后原地跳舞",
-      "onboard_time": 1759548380,
       "rank": 39,
       "category": "艺人"
     },
