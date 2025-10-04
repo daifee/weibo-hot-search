@@ -1,0 +1,410 @@
+{
+  "runTime": 1759596111229,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 560492,
+        "num": 777196,
+        "word": "晓华理发店已没了爆火时的人潮",
+        "onboard_time": 1759574361,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191529,
+        "num": 191529,
+        "word": "贵州31岁派出所副所长因公牺牲",
+        "onboard_time": 1759584742,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25104,
+        "num": 177523,
+        "word": "星空有约",
+        "onboard_time": 1759583722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175567,
+        "num": 175567,
+        "word": "他赢下中国奥运首金后到处借裤子",
+        "onboard_time": 1759587861,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164664,
+        "num": 164664,
+        "word": "长生",
+        "onboard_time": 1759589063,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154016,
+        "num": 154016,
+        "word": "台风红色预警发布",
+        "onboard_time": 1759575802,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 147498,
+        "num": 147498,
+        "word": "清融",
+        "onboard_time": 1759583120,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135936,
+        "num": 135936,
+        "word": "女生拍照吊威亚游客入镜似5毛特效",
+        "onboard_time": 1759582102,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105941,
+        "num": 105941,
+        "word": "王曼昱鹰眼挑战失败",
+        "onboard_time": 1759580002,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88770,
+        "num": 105938,
+        "word": "满级号",
+        "onboard_time": 1759589183,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2879723,
+        "num": 105624,
+        "word": "肖战工作室",
+        "onboard_time": 1759595120,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1051433,
+        "num": 105348,
+        "word": "戚薇 G社好离谱",
+        "onboard_time": 1759588342,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485249,
+        "num": 105091,
+        "word": "华晨宇 要爆了",
+        "onboard_time": 1759586903,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 348767,
+        "num": 105028,
+        "word": "沈皓明向许妍求婚",
+        "onboard_time": 1759589243,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332862,
+        "num": 104651,
+        "word": "成都漫展小伙cos辱华角色被扯掉假发",
+        "onboard_time": 1759590322,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286510,
+        "num": 104546,
+        "word": "陈都灵眼袋",
+        "onboard_time": 1759576581,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444722,
+        "num": 104154,
+        "word": "戚薇的脸",
+        "onboard_time": 1759590682,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276685,
+        "num": 104033,
+        "word": "广州一市民家中惊现鼠条",
+        "onboard_time": 1759587561,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252265,
+        "num": 103774,
+        "word": "檀健次演技",
+        "onboard_time": 1759590022,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213731,
+        "num": 103499,
+        "word": "陈伟霆你们笑得太大声了",
+        "onboard_time": 1759584022,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190769,
+        "num": 103311,
+        "word": "方媛说现在已经不能坐飞机了",
+        "onboard_time": 1759579221,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166153,
+        "num": 103160,
+        "word": "微信里的钱包一定要上锁",
+        "onboard_time": 1759573521,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160822,
+        "num": 102793,
+        "word": "肖战而我正走在路上",
+        "onboard_time": 1759596020,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102758,
+        "num": 102758,
+        "word": "张艺兴鸟巢演唱会",
+        "onboard_time": 1759592601,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83777,
+        "num": 98633,
+        "word": "专家称要对高市早苗动向保持警惕",
+        "onboard_time": 1759589962,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96325,
+        "num": 96325,
+        "word": "人一旦有了隔阂就真的走不近了",
+        "onboard_time": 1759588823,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95991,
+        "num": 95991,
+        "word": "热巴娜扎 新疆双美闪耀巴黎",
+        "onboard_time": 1759574660,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93405,
+        "num": 93405,
+        "word": "李湘打码掌纹",
+        "onboard_time": 1759572920,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86614,
+        "num": 93404,
+        "word": "近视眼的世界真这么离谱吗",
+        "onboard_time": 1759592361,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84535,
+        "num": 93384,
+        "word": "赵今麦美拉德造型出发巴黎",
+        "onboard_time": 1759590322,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 74290,
+        "num": 93375,
+        "word": "鸡排哥 精神贫瘠涌向鲜活生命",
+        "onboard_time": 1759577540,
+        "rank": 30,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 73963,
+        "num": 93362,
+        "word": "79岁罗家英再扮唐僧景区打工",
+        "onboard_time": 1759593861,
+        "rank": 31,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 70335,
+        "num": 93342,
+        "word": "任嘉伦音乐节开成个人演唱会了",
+        "onboard_time": 1759593320,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69770,
+        "num": 93325,
+        "word": "华晨宇 旧歌今年卖了很多钱",
+        "onboard_time": 1759584559,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69201,
+        "num": 93308,
+        "word": "清融采访",
+        "onboard_time": 1759589662,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 67879,
+        "num": 93302,
+        "word": "网红赤木刚宪爆改许妍",
+        "onboard_time": 1759579881,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 66234,
+        "num": 93288,
+        "word": "大腿粗的人自带这些健康天赋",
+        "onboard_time": 1759594879,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 64751,
+        "num": 93263,
+        "word": "赵丽颖向阳花收视破2登顶",
+        "onboard_time": 1759586661,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63238,
+        "num": 93248,
+        "word": "范丞丞章若楠想合作爱情片",
+        "onboard_time": 1759581861,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57156,
+        "num": 93242,
+        "word": "浏阳烟花与浪漫撞了满怀",
+        "onboard_time": 1759594879,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62290,
+        "num": 93220,
+        "word": "文咏珊孩子 手握顶级人生剧本",
+        "onboard_time": 1759572319,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57193,
+        "num": 93203,
+        "word": "张晚意问还能演正剧吗",
+        "onboard_time": 1759595780,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56801,
+        "num": 93202,
+        "word": "曾舜晞说粤语面相都变了",
+        "onboard_time": 1759588523,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241095,
+        "num": 93179,
+        "word": "3岁男童从景区栈道旁缝隙坠落",
+        "onboard_time": 1759585404,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56039,
+        "num": 93162,
+        "word": "王楚钦说身兼三项消耗超出自己想象",
+        "onboard_time": 1759584683,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56554,
+        "num": 93157,
+        "word": "网剧以她之韧",
+        "onboard_time": 1759577122,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55612,
+        "num": 93133,
+        "word": "鹿晗答应开签售",
+        "onboard_time": 1759588823,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52496,
+        "num": 93127,
+        "word": "二环十三郎",
+        "onboard_time": 1759588581,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 52097,
+        "num": 93112,
+        "word": "陈飞宇直播",
+        "onboard_time": 1759591821,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48841,
+        "num": 93103,
+        "word": "邓亚萍说王楚钦这方面优于所有人",
+        "onboard_time": 1759586781,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#爱国情在血脉中流淌#"
+    }
+  }
+}

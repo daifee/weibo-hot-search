@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/05 00:27:56
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/05 00:41:51
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BA%A4%E8%AD%A6%E9%80%9A%E6%8A%A5%E9%99%88%E9%9C%87%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8%23" target="weibo">
 北京交警通报陈震发生车祸（热度：3967870）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%23" target="weibo">
+肖战工作室（热度：2879723）
 </a>
 </li>
 
@@ -107,12 +113,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E8%B4%9F%E4%BA%8B%E6%95%85%E5%85%A8%E9%83%A8%E8%B4%A3%E4%BB%BB%23" target="weibo">
 陈震负事故全部责任（热度：1597489）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%23" target="weibo">
-肖战工作室（热度：1546312）
 </a>
 </li>
 
@@ -4071,6 +4071,12 @@ Dior大秀G社生图（热度：167518）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E8%80%8C%E6%88%91%E6%AD%A3%E8%B5%B0%E5%9C%A8%E8%B7%AF%E4%B8%8A%23" target="weibo">
+肖战而我正走在路上（热度：160822）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%23" target="weibo">
 鸡排哥（热度：160684）
 </a>
@@ -6005,12 +6011,6 @@ ts12（热度：122004）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%B4%BE%E4%B8%89%E5%8F%94%E5%9B%9E%E5%BA%94%E4%BA%91%E9%A1%B6%E5%A4%A9%E5%AE%AB%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC%23" target="weibo">
 南派三叔回应云顶天宫原班人马（热度：114697）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%8B%8D%E7%9A%84%E9%82%93%E4%B8%BA%E7%9C%8B%E7%A7%80%E8%A7%86%E9%A2%91%23" target="weibo">
-外媒拍的邓为看秀视频（热度：114457）
 </a>
 </li>
 
