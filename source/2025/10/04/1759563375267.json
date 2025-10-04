@@ -1,0 +1,410 @@
+{
+  "runTime": 1759563375267,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 950465,
+        "num": 1152074,
+        "word": "日本或将迎来首位女首相",
+        "onboard_time": 1759559120,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 586645,
+        "num": 586645,
+        "word": "浴室五杀",
+        "onboard_time": 1759557981,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44921,
+        "num": 532569,
+        "word": "国庆中秋假期游玩好去处",
+        "onboard_time": 1759550900,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532096,
+        "num": 532096,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1759559179,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303884,
+        "num": 303884,
+        "word": "摄影师毁约数10场婚礼公安介入",
+        "onboard_time": 1759556120,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268047,
+        "num": 268047,
+        "word": "韩国博主哭诉国家没有存在感",
+        "onboard_time": 1759556720,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 256458,
+        "num": 256458,
+        "word": "向鹏4比3雨果",
+        "onboard_time": 1759559659,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246291,
+        "num": 246291,
+        "word": "Ning浴室摔伤",
+        "onboard_time": 1759554141,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 237410,
+        "num": 237410,
+        "word": "分手1年复合狗狗的反应",
+        "onboard_time": 1759545500,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77184,
+        "num": 231716,
+        "word": "早期的王橹杰",
+        "onboard_time": 1759557379,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609363,
+        "num": 224693,
+        "word": "这竟然是潘玮柏",
+        "onboard_time": 1759561219,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545974,
+        "num": 218289,
+        "word": "央视中秋晚会首波阵容",
+        "onboard_time": 1759551921,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480501,
+        "num": 207468,
+        "word": "谢娜不敢相信我要主持央视中秋晚会",
+        "onboard_time": 1759549819,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 272224,
+        "num": 197472,
+        "word": "陈瑶田曦薇 上官婉儿太平公主",
+        "onboard_time": 1759558401,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192124,
+        "num": 192124,
+        "word": "他爷爷为什么不接他电话",
+        "onboard_time": 1759561881,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191085,
+        "num": 191085,
+        "word": "王楚钦4比1战胜松岛辉空",
+        "onboard_time": 1759562959,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171352,
+        "num": 171352,
+        "word": "张萌 后来庆功宴长记性了",
+        "onboard_time": 1759561760,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166366,
+        "num": 166366,
+        "word": "白鹿 现在vlog都要我提醒你拍了吗",
+        "onboard_time": 1759553660,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39426,
+        "num": 165427,
+        "word": "纪梵希范丞丞章若楠秀场同框",
+        "onboard_time": 1759561639,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164889,
+        "num": 164889,
+        "word": "王橹杰偷笑",
+        "onboard_time": 1759562179,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218778,
+        "num": 162192,
+        "word": "不建议你频繁用酒精擦手机的原因",
+        "onboard_time": 1759560740,
+        "rank": 20,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 187184,
+        "num": 159150,
+        "word": "韩国部队锅原身是剩菜猪食粥",
+        "onboard_time": 1759561101,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 176625,
+        "num": 148761,
+        "word": "现在就出发",
+        "onboard_time": 1759557981,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170407,
+        "num": 146462,
+        "word": "年轻人抛弃5A景区",
+        "onboard_time": 1759560501,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142141,
+        "num": 142141,
+        "word": "把普通的蛋糕拆开卖",
+        "onboard_time": 1759560860,
+        "rank": 24,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 140343,
+        "num": 140343,
+        "word": "万鹏素颜状态",
+        "onboard_time": 1759562661,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136161,
+        "num": 136161,
+        "word": "志愿军国庆档票房第1",
+        "onboard_time": 1759561340,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131625,
+        "num": 131625,
+        "word": "全校的魔丸都在这个班里了",
+        "onboard_time": 1759549099,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124871,
+        "num": 124871,
+        "word": "高市早苗 女版安倍",
+        "onboard_time": 1759561280,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124380,
+        "num": 124380,
+        "word": "日本新首相或从小泉和高市中产生",
+        "onboard_time": 1759549640,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 143368,
+        "num": 118345,
+        "word": "许我耀眼剧组回应",
+        "onboard_time": 1759562421,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111825,
+        "num": 111825,
+        "word": "王曼昱蒯曼夺冠国乒全体起立鼓掌",
+        "onboard_time": 1759560621,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104969,
+        "num": 104969,
+        "word": "董璇说张维伊烦人难看幼稚",
+        "onboard_time": 1759544299,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101032,
+        "num": 101032,
+        "word": "那英 丢个手机被龚俊蛐蛐一辈子",
+        "onboard_time": 1759562539,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100511,
+        "num": 100511,
+        "word": "带过一年级的才知道这有多牛",
+        "onboard_time": 1759562839,
+        "rank": 34,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 99973,
+        "num": 99973,
+        "word": "诚C缺席PEL运动会",
+        "onboard_time": 1759562599,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98743,
+        "num": 98743,
+        "word": "1集乳腺畅通2集结节消失",
+        "onboard_time": 1759559060,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92474,
+        "num": 92474,
+        "word": "孙颖莎照亮裸辞女孩登顶玉珠峰",
+        "onboard_time": 1759559299,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91181,
+        "num": 91181,
+        "word": "8种食物最好带皮吃",
+        "onboard_time": 1759562902,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90411,
+        "num": 90411,
+        "word": "陈数说张晚意当导游没有任何不好",
+        "onboard_time": 1759560320,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88603,
+        "num": 88603,
+        "word": "高市早苗或成日本首个女首相",
+        "onboard_time": 1759559060,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88395,
+        "num": 88395,
+        "word": "29岁智障女子继承遗产后被争相照顾",
+        "onboard_time": 1759544780,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87123,
+        "num": 87123,
+        "word": "金晨跳着跳着大喜就出来了",
+        "onboard_time": 1759559720,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85150,
+        "num": 85150,
+        "word": "当猫咪听见路人说它胖",
+        "onboard_time": 1759563261,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82864,
+        "num": 82864,
+        "word": "檀健次主演电影票房破10亿",
+        "onboard_time": 1759561521,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82537,
+        "num": 82537,
+        "word": "鸡排哥同款炸鸡排",
+        "onboard_time": 1759562299,
+        "rank": 45,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 82402,
+        "num": 82402,
+        "word": "太久没穿的鞋子就别穿了",
+        "onboard_time": 1759553000,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 79909,
+        "num": 79909,
+        "word": "别被电影院中间位置忽悠了",
+        "onboard_time": 1759562240,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79621,
+        "num": 79621,
+        "word": "我月薪三千要做这么多事吗",
+        "onboard_time": 1759557201,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78502,
+        "num": 78502,
+        "word": "邓超问三个go分开是什么",
+        "onboard_time": 1759556120,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#爱国主义是我们民族精神的核心#"
+    }
+  }
+}
