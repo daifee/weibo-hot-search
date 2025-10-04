@@ -1,6 +1,6 @@
 {
   "startTime": 1759509046450,
-  "endTime": 1759567323602,
+  "endTime": 1759569785333,
   "band_list": [
     {
       "raw_hot": 3967870,
@@ -51,6 +51,14 @@
       "category": "汽车,网红"
     },
     {
+      "raw_hot": 1100030,
+      "num": 1100030,
+      "word": "鸡排哥称我人都要窒息了",
+      "onboard_time": 1759566381,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1000208,
       "num": 259969,
       "word": "乃万瘦到不足42kg",
@@ -65,6 +73,14 @@
       "onboard_time": 1759539800,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 975211,
+      "num": 975211,
+      "word": "陈震致歉",
+      "onboard_time": 1759568000,
+      "rank": 3,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 950465,
@@ -195,6 +211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 505894,
+      "num": 505894,
+      "word": "第一批去韩国旅游的受害者出现了",
+      "onboard_time": 1759565361,
+      "rank": 30,
+      "category": "海外新闻,旅游"
+    },
+    {
       "raw_hot": 505410,
       "num": 505410,
       "word": "29岁智障女子继承遗产后被争相照顾",
@@ -299,12 +323,12 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 360017,
-      "num": 360017,
-      "word": "鸡排哥称我人都要窒息了",
-      "onboard_time": 1759566381,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 379581,
+      "num": 379581,
+      "word": "女性向游戏",
+      "onboard_time": 1759564099,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 354564,
@@ -395,14 +419,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 292983,
-      "num": 292983,
-      "word": "女性向游戏",
-      "onboard_time": 1759564099,
-      "rank": 3,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 292242,
       "num": 292242,
       "word": "特朗普头像 1美元硬币",
@@ -427,14 +443,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 275753,
-      "num": 170831,
-      "word": "第一批去韩国旅游的受害者出现了",
-      "onboard_time": 1759565361,
-      "rank": 30,
-      "category": "海外新闻,旅游"
-    },
-    {
       "raw_hot": 272224,
       "num": 231959,
       "word": "陈瑶田曦薇 上官婉儿太平公主",
@@ -457,6 +465,14 @@
       "onboard_time": 1759499662,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 260708,
+      "num": 260708,
+      "word": "王楚钦要累懵了",
+      "onboard_time": 1759564699,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 259572,
@@ -531,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244042,
+      "num": 214644,
+      "word": "许我耀眼",
+      "onboard_time": 1759564820,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238480,
       "num": 153516,
       "word": "超过500度近视不要做的事",
@@ -571,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 222812,
-      "num": 214644,
-      "word": "许我耀眼",
-      "onboard_time": 1759564820,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 220838,
       "num": 161590,
       "word": "孙子推倒女孩爷爷反安慰孙子",
@@ -601,6 +617,14 @@
       "onboard_time": 1759544418,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210569,
+      "num": 210569,
+      "word": "别让婚礼跳河的痛成键盘断案的瓜",
+      "onboard_time": 1759565661,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209017,
@@ -651,11 +675,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202125,
-      "num": 216624,
-      "word": "王楚钦要累懵了",
-      "onboard_time": 1759564699,
-      "rank": 21,
+      "raw_hot": 198500,
+      "num": 198500,
+      "word": "孙颖莎vs陈幸同",
+      "onboard_time": 1759568840,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -820,7 +844,7 @@
     },
     {
       "raw_hot": 162686,
-      "num": 139076,
+      "num": 141477,
       "word": "东北女生远嫁台湾700平的家",
       "onboard_time": 1759565120,
       "rank": 31,
@@ -955,6 +979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 140902,
+      "num": 140902,
+      "word": "许我耀眼39.2%",
+      "onboard_time": 1759569259,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140316,
       "num": 137978,
       "word": "鼻子决定了颜值的上限",
@@ -977,6 +1009,14 @@
       "onboard_time": 1759536259,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138755,
+      "num": 138755,
+      "word": "国庆在景区看见顶级e人了",
+      "onboard_time": 1759569201,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 138158,
@@ -1035,6 +1075,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 129081,
+      "num": 129081,
+      "word": "小酒窝跳柠檬叉",
+      "onboard_time": 1759569501,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128557,
       "num": 122864,
       "word": "范丞丞让章若楠穿裙子的愿望实现了",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1759556840,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127323,
+      "num": 127323,
+      "word": "香港偶遇黄磊孙莉一家",
+      "onboard_time": 1759566381,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 123949,
@@ -1099,6 +1155,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 119125,
+      "num": 119125,
+      "word": "佘诗曼把labubu穿在身上",
+      "onboard_time": 1759566740,
+      "rank": 46,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 117842,
       "num": 117842,
       "word": "邓超问三个go分开是什么",
@@ -1129,6 +1193,14 @@
       "onboard_time": 1759545020,
       "rank": 24,
       "category": "军事"
+    },
+    {
+      "raw_hot": 115904,
+      "num": 115904,
+      "word": "顶流明星早期活人感",
+      "onboard_time": 1759565480,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 115583,
@@ -1185,14 +1257,6 @@
       "onboard_time": 1759559240,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114236,
-      "num": 114236,
-      "word": "香港偶遇黄磊孙莉一家",
-      "onboard_time": 1759566381,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 113880,
@@ -1371,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105094,
+      "num": 105094,
+      "word": "登陆少年团魂这一刻具像化了",
+      "onboard_time": 1759569321,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104795,
       "num": 104795,
       "word": "肖战射雕英雄传实时收视率破2",
@@ -1433,6 +1505,14 @@
       "onboard_time": 1759505122,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102996,
+      "num": 102996,
+      "word": "Desire4银杏音乐节",
+      "onboard_time": 1759568901,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 102262,
@@ -1547,12 +1627,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97640,
-      "num": 112340,
-      "word": "顶流明星早期活人感",
-      "onboard_time": 1759565480,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 97941,
+      "num": 97941,
+      "word": "huanfeng抱怨国服环境",
+      "onboard_time": 1759569380,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 97638,
@@ -1595,6 +1675,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 96053,
+      "num": 96053,
+      "word": "王者英雄怼脸拍",
+      "onboard_time": 1759569141,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 95609,
       "num": 95609,
       "word": "李一桐就这个腰臀比",
@@ -1619,28 +1707,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95313,
-      "num": 95313,
-      "word": "佘诗曼把labubu穿在身上",
-      "onboard_time": 1759566740,
-      "rank": 46,
-      "category": "艺人,休闲"
-    },
-    {
       "raw_hot": 94969,
       "num": 94969,
       "word": "单依纯唱珠玉又开净化了",
       "onboard_time": 1759556060,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 94724,
-      "num": 94724,
-      "word": "别让婚礼跳河的痛成键盘断案的瓜",
-      "onboard_time": 1759565661,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93754,
@@ -1683,6 +1755,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 91147,
+      "num": 736662,
+      "word": "国庆中秋假期游玩好去处",
+      "onboard_time": 1759550900,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90423,
       "num": 90423,
       "word": "小酒窝被夸可爱后原地跳舞",
@@ -1721,6 +1801,14 @@
       "onboard_time": 1759548859,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 87897,
+      "num": 87897,
+      "word": "每个月最愤怒的两笔花销",
+      "onboard_time": 1759567040,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 87823,
@@ -1795,12 +1883,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84717,
+      "num": 139149,
+      "word": "王楚钦暴力反手太凶了",
+      "onboard_time": 1759568420,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84259,
       "num": 84259,
       "word": "孙颖莎回应是否参加亚运会混双项目",
       "onboard_time": 1759546222,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83009,
+      "num": 83009,
+      "word": "邓超神图这不就来了",
+      "onboard_time": 1759569380,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 82937,
@@ -1867,6 +1971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81144,
+      "num": 81144,
+      "word": "解决了年轻人不喜欢看戏曲的难题",
+      "onboard_time": 1759569621,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81078,
       "num": 81078,
       "word": "张维伊看不了董璇这段",
@@ -1899,6 +2011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 79068,
+      "num": 79068,
+      "word": "骂骂咧咧拉拉扯扯搂搂抱抱",
+      "onboard_time": 1759568660,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77945,
       "num": 77945,
       "word": "范丞丞瘦了",
@@ -1921,6 +2041,14 @@
       "onboard_time": 1759548021,
       "rank": 43,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 76677,
+      "num": 76677,
+      "word": "王者S41新赛季天元",
+      "onboard_time": 1759567400,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 75874,
@@ -2139,14 +2267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 58406,
-      "num": 736662,
-      "word": "国庆中秋假期游玩好去处",
-      "onboard_time": 1759550900,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55075,
       "num": 60715,
       "word": "周传雄上海站嘉宾是女儿",
@@ -2185,6 +2305,14 @@
       "onboard_time": 1759554560,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 39869,
+      "num": 223551,
+      "word": "成都和柳州到底谁更辣",
+      "onboard_time": 1759566201,
+      "rank": 20,
+      "category": "美食"
     },
     {
       "raw_hot": 39595,
@@ -2267,14 +2395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 31846,
-      "num": 223551,
-      "word": "成都和柳州到底谁更辣",
-      "onboard_time": 1759566201,
-      "rank": 20,
-      "category": "美食"
-    },
-    {
       "raw_hot": 28342,
       "num": 38768,
       "word": "老板还没意识到这是他最清闲的时刻",
@@ -2345,6 +2465,14 @@
       "onboard_time": 1759567220,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3461,
+      "num": 1007223,
+      "word": "9招教你十一假期美美出片",
+      "onboard_time": 1759490181,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

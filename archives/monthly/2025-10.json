@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759567323602,
+  "endTime": 1759569785333,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1100030,
+      "num": 1100030,
+      "word": "鸡排哥称我人都要窒息了",
+      "onboard_time": 1759566381,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1055083,
       "num": 239119,
       "word": "陶白白前妻与现任同游西藏",
@@ -449,6 +457,14 @@
       "onboard_time": 1759417704,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 975211,
+      "num": 975211,
+      "word": "陈震致歉",
+      "onboard_time": 1759568000,
+      "rank": 3,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 968725,
@@ -1371,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 505894,
+      "num": 505894,
+      "word": "第一批去韩国旅游的受害者出现了",
+      "onboard_time": 1759565361,
+      "rank": 30,
+      "category": "海外新闻,旅游"
+    },
+    {
       "raw_hot": 505410,
       "num": 505410,
       "word": "29岁智障女子继承遗产后被争相照顾",
@@ -1859,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 379581,
+      "num": 379581,
+      "word": "女性向游戏",
+      "onboard_time": 1759564099,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 379218,
       "num": 185861,
       "word": "刘诗诗蓝色大衣",
@@ -2009,14 +2041,6 @@
       "onboard_time": 1759294280,
       "rank": 6,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 360017,
-      "num": 360017,
-      "word": "鸡排哥称我人都要窒息了",
-      "onboard_time": 1759566381,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 358777,
@@ -2443,14 +2467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 292983,
-      "num": 292983,
-      "word": "女性向游戏",
-      "onboard_time": 1759564099,
-      "rank": 3,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 292982,
       "num": 224344,
       "word": "时代峰峻工作人员 没走成而已",
@@ -2601,14 +2617,6 @@
       "onboard_time": 1759475001,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 275753,
-      "num": 170831,
-      "word": "第一批去韩国旅游的受害者出现了",
-      "onboard_time": 1759565361,
-      "rank": 30,
-      "category": "海外新闻,旅游"
     },
     {
       "raw_hot": 275582,
@@ -2777,6 +2785,14 @@
       "onboard_time": 1759465099,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 260708,
+      "num": 260708,
+      "word": "王楚钦要累懵了",
+      "onboard_time": 1759564699,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 259783,
@@ -3491,6 +3507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210569,
+      "num": 210569,
+      "word": "别让婚礼跳河的痛成键盘断案的瓜",
+      "onboard_time": 1759565661,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209599,
       "num": 209599,
       "word": "蔡徐坤支持毕正明的证明",
@@ -3675,14 +3699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202125,
-      "num": 216624,
-      "word": "王楚钦要累懵了",
-      "onboard_time": 1759564699,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201683,
       "num": 169912,
       "word": "邓为入选26巴黎时装周最佳街拍",
@@ -3809,6 +3825,14 @@
       "onboard_time": 1759412304,
       "rank": 9,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 198500,
+      "num": 198500,
+      "word": "孙颖莎vs陈幸同",
+      "onboard_time": 1759568840,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 197361,
@@ -4828,7 +4852,7 @@
     },
     {
       "raw_hot": 162686,
-      "num": 139076,
+      "num": 141477,
       "word": "东北女生远嫁台湾700平的家",
       "onboard_time": 1759565120,
       "rank": 31,
@@ -5635,6 +5659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 140902,
+      "num": 140902,
+      "word": "许我耀眼39.2%",
+      "onboard_time": 1759569259,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140878,
       "num": 108186,
       "word": "高铁1分钟换乘",
@@ -5772,7 +5804,7 @@
     },
     {
       "raw_hot": 139460,
-      "num": 178886,
+      "num": 1007223,
       "word": "9招教你十一假期美美出片",
       "onboard_time": 1759490181,
       "rank": 25,
@@ -5817,6 +5849,14 @@
       "onboard_time": 1759536259,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138755,
+      "num": 138755,
+      "word": "国庆在景区看见顶级e人了",
+      "onboard_time": 1759569201,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 138526,
@@ -6307,6 +6347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129081,
+      "num": 129081,
+      "word": "小酒窝跳柠檬叉",
+      "onboard_time": 1759569501,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129013,
       "num": 129013,
       "word": "李沁张雅钦夏梦跳Fancy",
@@ -6400,6 +6448,14 @@
       "word": "巴黎地铁偶遇戚薇",
       "onboard_time": 1759409781,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127323,
+      "num": 127323,
+      "word": "香港偶遇黄磊孙莉一家",
+      "onboard_time": 1759566381,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -6811,6 +6867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119125,
+      "num": 119125,
+      "word": "佘诗曼把labubu穿在身上",
+      "onboard_time": 1759566740,
+      "rank": 46,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 118502,
       "num": 118502,
       "word": "贺峻霖录制期间抽空赶作业",
@@ -6995,6 +7059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115904,
+      "num": 115904,
+      "word": "顶流明星早期活人感",
+      "onboard_time": 1759565480,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115583,
       "num": 115583,
       "word": "张艺兴鸟巢",
@@ -7080,14 +7152,6 @@
       "word": "严浩翔和王嘉尔合照激动到手抖",
       "onboard_time": 1759408881,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 114236,
-      "num": 114236,
-      "word": "香港偶遇黄磊孙莉一家",
-      "onboard_time": 1759566381,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -7979,6 +8043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105094,
+      "num": 105094,
+      "word": "登陆少年团魂这一刻具像化了",
+      "onboard_time": 1759569321,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104986,
       "num": 104985,
       "word": "董璇小酒窝合体跳技能五子棋",
@@ -8192,6 +8264,14 @@
       "word": "穆祉丞自由演唱会",
       "onboard_time": 1759483520,
       "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 102996,
+      "num": 102996,
+      "word": "Desire4银杏音乐节",
+      "onboard_time": 1759568901,
+      "rank": 33,
       "category": "演出"
     },
     {
@@ -8611,6 +8691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97941,
+      "num": 97941,
+      "word": "huanfeng抱怨国服环境",
+      "onboard_time": 1759569380,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 97793,
       "num": 97793,
       "word": "乌鲁木齐地震",
@@ -8633,14 +8721,6 @@
       "onboard_time": 1759486639,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97640,
-      "num": 112340,
-      "word": "顶流明星早期活人感",
-      "onboard_time": 1759565480,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 97638,
@@ -8795,6 +8875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96053,
+      "num": 96053,
+      "word": "王者英雄怼脸拍",
+      "onboard_time": 1759569141,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 95940,
       "num": 95940,
       "word": "郑钦文退出武汉赛",
@@ -8841,14 +8929,6 @@
       "onboard_time": 1759562240,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 95313,
-      "num": 95313,
-      "word": "佘诗曼把labubu穿在身上",
-      "onboard_time": 1759566740,
-      "rank": 46,
-      "category": "艺人,休闲"
     },
     {
       "raw_hot": 95277,
@@ -8921,14 +9001,6 @@
       "onboard_time": 1759476979,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94724,
-      "num": 94724,
-      "word": "别让婚礼跳河的痛成键盘断案的瓜",
-      "onboard_time": 1759565661,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94544,
@@ -9427,6 +9499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 87897,
+      "num": 87897,
+      "word": "每个月最愤怒的两笔花销",
+      "onboard_time": 1759567040,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87859,
       "num": 87859,
       "word": "你们可以用指甲剥生鸡蛋吗",
@@ -9795,6 +9875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84717,
+      "num": 139149,
+      "word": "王楚钦暴力反手太凶了",
+      "onboard_time": 1759568420,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84583,
       "num": 84583,
       "word": "王楚钦穿云箭时速72公里",
@@ -9921,6 +10009,14 @@
       "onboard_time": 1759400900,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83009,
+      "num": 83009,
+      "word": "邓超神图这不就来了",
+      "onboard_time": 1759569380,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 82947,
@@ -10075,6 +10171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81144,
+      "num": 81144,
+      "word": "解决了年轻人不喜欢看戏曲的难题",
+      "onboard_time": 1759569621,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 80667,
       "num": 80667,
       "word": "林昀儒高承睿男双退赛",
@@ -10193,6 +10297,14 @@
       "onboard_time": 1759545319,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79068,
+      "num": 79068,
+      "word": "骂骂咧咧拉拉扯扯搂搂抱抱",
+      "onboard_time": 1759568660,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 78989,
@@ -10369,6 +10481,14 @@
       "onboard_time": 1759333221,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76677,
+      "num": 76677,
+      "word": "王者S41新赛季天元",
+      "onboard_time": 1759567400,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 76516,
@@ -11707,6 +11827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39869,
+      "num": 223551,
+      "word": "成都和柳州到底谁更辣",
+      "onboard_time": 1759566201,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 39426,
       "num": 175896,
       "word": "纪梵希范丞丞章若楠秀场同框",
@@ -11993,14 +12121,6 @@
       "onboard_time": 1759371080,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31846,
-      "num": 223551,
-      "word": "成都和柳州到底谁更辣",
-      "onboard_time": 1759566201,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 31837,
