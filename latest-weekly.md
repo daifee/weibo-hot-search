@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/05 04:37:32
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/05 05:20:48
 </p>
 </blockquote>
 <p>
@@ -381,6 +381,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E8%BF%98%E6%98%AF%E5%A4%AA%E5%86%99%E5%AE%9E%E4%BA%86%23" target="weibo">
+家有儿女还是太写实了（热度：20139）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E6%96%B0%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A6%96%E7%A7%80%23" target="weibo">
 巴黎世家新设计师首秀（热度：18231）
 </a>
@@ -389,6 +395,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%20%E5%8D%B1%E9%99%A9%E8%BF%B7%E4%BA%BA%E7%9A%84%E9%83%BD%E5%B8%82%E5%A5%B3%E9%83%8E%23" target="weibo">
 张小斐 危险迷人的都市女郎（热度：16383）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E8%89%BA%E4%BA%BA%E5%9B%BD%E5%A4%96%E7%83%AD%E5%BA%A6%E6%A6%9C%23" target="weibo">
+内娱艺人国外热度榜（热度：15347）
 </a>
 </li>
 
@@ -406,7 +418,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%94%B7%E7%AB%A5%E5%9D%A0%E8%90%BD%E6%A0%88%E9%81%93%E5%B7%B2%E5%8A%A0%E8%A3%85%E6%8A%A4%E6%A0%8F%23" target="weibo">
-景区回应男童坠落栈道已加装护栏（热度：12398）
+景区回应男童坠落栈道已加装护栏（热度：12695）
 </a>
 </li>
 
