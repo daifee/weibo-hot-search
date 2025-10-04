@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759555353901,
+  "endTime": 1759556329601,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -3531,12 +3531,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408525,
+      "num": 408525,
+      "word": "Ning浴室摔伤",
+      "onboard_time": 1759554141,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 407138,
       "num": 407138,
       "word": "以色列就空袭多哈向卡塔尔道歉",
       "onboard_time": 1759189640,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 406950,
+      "num": 201617,
+      "word": "白鹿 现在vlog都要我提醒你拍了吗",
+      "onboard_time": 1759553660,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 405666,
@@ -4217,14 +4233,6 @@
       "onboard_time": 1759454539,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 335448,
-      "num": 212752,
-      "word": "Ning浴室摔伤",
-      "onboard_time": 1759554141,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 335427,
@@ -5427,14 +5435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 245749,
-      "num": 193855,
-      "word": "白鹿 现在vlog都要我提醒你拍了吗",
-      "onboard_time": 1759553660,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 245692,
       "num": 215567,
       "word": "陈赫张子萱挽手逛街",
@@ -5596,7 +5596,7 @@
     },
     {
       "raw_hot": 239130,
-      "num": 189833,
+      "num": 198783,
       "word": "陈震称以车辆EDR数据通告为准",
       "onboard_time": 1759553060,
       "rank": 22,
@@ -6419,6 +6419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207307,
+      "num": 172502,
+      "word": "张天爱我从太子妃的时候就跟了你",
+      "onboard_time": 1759555518,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206685,
       "num": 171979,
       "word": "宋亚轩休息时看微博热搜",
@@ -7115,6 +7123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192315,
+      "num": 192315,
+      "word": "LOEWE眼光 惠英红就是奢侈品",
+      "onboard_time": 1759555160,
+      "rank": 31,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 192295,
       "num": 192295,
       "word": "邓超 不准把我P掉",
@@ -7240,6 +7256,14 @@
       "word": "女孩地铁上质疑大妈偷拍",
       "onboard_time": 1759107920,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190516,
+      "num": 190516,
+      "word": "摄影师毁约数10场婚礼公安介入",
+      "onboard_time": 1759556120,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -8715,6 +8739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 164779,
+      "num": 164779,
+      "word": "蒯曼说王曼昱给我很多鼓励",
+      "onboard_time": 1759556181,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164776,
       "num": 136305,
       "word": "莎头夺冠后王楚钦说赛前没有想到",
@@ -9017,6 +9049,14 @@
       "onboard_time": 1759414222,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159423,
+      "num": 159423,
+      "word": "台风",
+      "onboard_time": 1759555400,
+      "rank": 23,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 159326,
@@ -12243,14 +12283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123832,
-      "num": 123832,
-      "word": "LOEWE眼光 惠英红就是奢侈品",
-      "onboard_time": 1759555160,
-      "rank": 31,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 123688,
       "num": 123688,
       "word": "时尚这碗饭 惠英红端到现在",
@@ -12811,6 +12843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119314,
+      "num": 119314,
+      "word": "为什么运动后感觉皮肤变好了",
+      "onboard_time": 1759556181,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 119312,
       "num": 133081,
       "word": "陈浚铭婴儿时期看过TFBOYS演唱会",
@@ -13089,6 +13129,14 @@
       "onboard_time": 1759307541,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 116895,
+      "num": 116895,
+      "word": "震耳欲聋今日上映",
+      "onboard_time": 1759555819,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 116884,
@@ -14875,6 +14923,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 104739,
+      "num": 104739,
+      "word": "周涛 央视严选",
+      "onboard_time": 1759555220,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104738,
       "num": 104738,
       "word": "21岁瘦了30斤的真实感受",
@@ -15643,6 +15699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 99459,
+      "num": 99459,
+      "word": "128斤狗子躺路中间被车碾轧毫发无伤",
+      "onboard_time": 1759553480,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99456,
       "num": 211860,
       "word": "易烊千玺谈成长",
@@ -15929,6 +15993,14 @@
       "onboard_time": 1759373479,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97294,
+      "num": 97294,
+      "word": "张婧仪去健身房居然还有后续",
+      "onboard_time": 1759555099,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 97084,
@@ -16233,6 +16305,14 @@
       "onboard_time": 1759327342,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 94969,
+      "num": 94969,
+      "word": "单依纯唱珠玉又开净化了",
+      "onboard_time": 1759556060,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 94959,
@@ -17155,6 +17235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87738,
+      "num": 87738,
+      "word": "芬芳喜事",
+      "onboard_time": 1759556241,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87725,
       "num": 93984,
       "word": "中芯国际再度高开",
@@ -17561,6 +17649,14 @@
       "onboard_time": 1759317500,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84786,
+      "num": 84786,
+      "word": "古人用滂臭的螺制成奇香",
+      "onboard_time": 1759555941,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84765,
@@ -18521,14 +18617,6 @@
       "onboard_time": 1759397600,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 75916,
-      "num": 103908,
-      "word": "周涛 央视严选",
-      "onboard_time": 1759555220,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 75888,
@@ -20427,6 +20515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47464,
+      "num": 197137,
+      "word": "广西多条河流出现超警洪水",
+      "onboard_time": 1759554680,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47403,
       "num": 106677,
       "word": "宋亚轩就是王牌的养成系",
@@ -20449,14 +20545,6 @@
       "onboard_time": 1759048521,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 47259,
-      "num": 197137,
-      "word": "广西多条河流出现超警洪水",
-      "onboard_time": 1759554680,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47093,
@@ -21017,6 +21105,14 @@
       "onboard_time": 1759241241,
       "rank": 34,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 37258,
+      "num": 100898,
+      "word": "邓超问三个go分开是什么",
+      "onboard_time": 1759556120,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 37036,

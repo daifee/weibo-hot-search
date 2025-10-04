@@ -1,0 +1,410 @@
+{
+  "runTime": 1759556329601,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 609148,
+        "num": 1097463,
+        "word": "分手1年复合狗狗的反应",
+        "onboard_time": 1759545500,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 414449,
+        "num": 414449,
+        "word": "全校的魔丸都在这个班里了",
+        "onboard_time": 1759549099,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43356,
+        "num": 410164,
+        "word": "国庆中秋假期游玩好去处",
+        "onboard_time": 1759550900,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408525,
+        "num": 408525,
+        "word": "Ning浴室摔伤",
+        "onboard_time": 1759554141,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 240701,
+        "num": 240701,
+        "word": "王曼昱蒯曼vs早田希娜朱芊曦",
+        "onboard_time": 1759552521,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1205650,
+        "num": 237968,
+        "word": "北京交警通报陈震发生车祸",
+        "onboard_time": 1759550240,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 232554,
+        "num": 232554,
+        "word": "29岁智障女子继承遗产后被争相照顾",
+        "onboard_time": 1759544780,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206473,
+        "num": 206473,
+        "word": "以为在装病结果真确诊了",
+        "onboard_time": 1759547779,
+        "rank": 7,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 155921,
+        "num": 205792,
+        "word": "特朗普头像 1美元硬币",
+        "onboard_time": 1759548560,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1257007,
+        "num": 204879,
+        "word": "陈震负事故全部责任",
+        "onboard_time": 1759550779,
+        "rank": 9,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 615152,
+        "num": 204032,
+        "word": "央视中秋晚会首波阵容",
+        "onboard_time": 1759551921,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 550653,
+        "num": 202805,
+        "word": "谢娜不敢相信我要主持央视中秋晚会",
+        "onboard_time": 1759549819,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 406950,
+        "num": 201617,
+        "word": "白鹿 现在vlog都要我提醒你拍了吗",
+        "onboard_time": 1759553660,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402193,
+        "num": 200231,
+        "word": "陈震车祸事件不涉及毒驾醉驾",
+        "onboard_time": 1759551380,
+        "rank": 13,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 232709,
+        "num": 199133,
+        "word": "刘诗诗怎么美成这样",
+        "onboard_time": 1759551681,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198783,
+        "num": 198783,
+        "word": "陈震称以车辆EDR数据通告为准",
+        "onboard_time": 1759553060,
+        "rank": 15,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 196231,
+        "num": 196231,
+        "word": "王俊凯刚落地又飞走了",
+        "onboard_time": 1759550001,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192315,
+        "num": 192315,
+        "word": "LOEWE眼光 惠英红就是奢侈品",
+        "onboard_time": 1759555160,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 190516,
+        "num": 190516,
+        "word": "摄影师毁约数10场婚礼公安介入",
+        "onboard_time": 1759556120,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20537,
+        "num": 172999,
+        "word": "欧莱雅群星闪耀巴黎时装周",
+        "onboard_time": 1759552460,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207307,
+        "num": 172502,
+        "word": "张天爱我从太子妃的时候就跟了你",
+        "onboard_time": 1759555518,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192192,
+        "num": 171378,
+        "word": "董璇说张维伊烦人难看幼稚",
+        "onboard_time": 1759544299,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164779,
+        "num": 164779,
+        "word": "蒯曼说王曼昱给我很多鼓励",
+        "onboard_time": 1759556181,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159423,
+        "num": 159423,
+        "word": "台风",
+        "onboard_time": 1759555400,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 158379,
+        "num": 158379,
+        "word": "花儿与少年",
+        "onboard_time": 1759552340,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147846,
+        "num": 147846,
+        "word": "张远王霏霏盛夏芬德拉抱",
+        "onboard_time": 1759554320,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131613,
+        "num": 131613,
+        "word": "墨西哥活火山上空疑出现UFO舰队",
+        "onboard_time": 1759545680,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 47464,
+        "num": 131193,
+        "word": "广西多条河流出现超警洪水",
+        "onboard_time": 1759554680,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131106,
+        "num": 131106,
+        "word": "什么香这么臭",
+        "onboard_time": 1759554021,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129688,
+        "num": 129688,
+        "word": "王曼昱蒯曼女双冠军",
+        "onboard_time": 1759554801,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124087,
+        "num": 124087,
+        "word": "超过500度近视不要做的事",
+        "onboard_time": 1759540459,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119314,
+        "num": 119314,
+        "word": "为什么运动后感觉皮肤变好了",
+        "onboard_time": 1759556181,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 116895,
+        "num": 116895,
+        "word": "震耳欲聋今日上映",
+        "onboard_time": 1759555819,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107884,
+        "num": 107884,
+        "word": "太久没穿的鞋子就别穿了",
+        "onboard_time": 1759553000,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 104739,
+        "num": 104739,
+        "word": "周涛 央视严选",
+        "onboard_time": 1759555220,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102781,
+        "num": 102781,
+        "word": "家长把孩子忘服务区小孩哥淡定鼓掌",
+        "onboard_time": 1759551501,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49709,
+        "num": 102537,
+        "word": "焕新极氪001打造星空音乐厅",
+        "onboard_time": 1759551260,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 102477,
+        "num": 102477,
+        "word": "檀健次说想和角色双向奔赴",
+        "onboard_time": 1759553242,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37258,
+        "num": 100898,
+        "word": "邓超问三个go分开是什么",
+        "onboard_time": 1759556120,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99459,
+        "num": 99459,
+        "word": "128斤狗子躺路中间被车碾轧毫发无伤",
+        "onboard_time": 1759553480,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97827,
+        "num": 97827,
+        "word": "孙子推倒女孩爷爷反安慰孙子",
+        "onboard_time": 1759546460,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97294,
+        "num": 97294,
+        "word": "张婧仪去健身房居然还有后续",
+        "onboard_time": 1759555099,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96541,
+        "num": 96541,
+        "word": "于正 我跟任何明星都不怕比战绩",
+        "onboard_time": 1759551921,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95700,
+        "num": 95700,
+        "word": "白敬亭看似不热实则没招儿了",
+        "onboard_time": 1759553480,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94969,
+        "num": 94969,
+        "word": "单依纯唱珠玉又开净化了",
+        "onboard_time": 1759556060,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94227,
+        "num": 94227,
+        "word": "60后赛车老头相亲说仅次于王一博",
+        "onboard_time": 1759554980,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87738,
+        "num": 87738,
+        "word": "芬芳喜事",
+        "onboard_time": 1759556241,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84786,
+        "num": 84786,
+        "word": "古人用滂臭的螺制成奇香",
+        "onboard_time": 1759555941,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35902,
+        "num": 84162,
+        "word": "王楚钦跺跺脚",
+        "onboard_time": 1759554621,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84162,
+        "num": 84161,
+        "word": "沈腾胡先煦为家乡烧饼打起来了",
+        "onboard_time": 1759552281,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#爱国主义是我们民族精神的核心#"
+    }
+  }
+}
