@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759566556922,
+  "endTime": 1759567323602,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -273,6 +273,14 @@
       "onboard_time": 1759396880,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1493725,
+      "num": 1493725,
+      "word": "班味最重的新娘",
+      "onboard_time": 1759563440,
+      "rank": 0,
+      "category": "幽默"
     },
     {
       "raw_hot": 1492455,
@@ -763,6 +771,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 1000208,
+      "num": 259969,
+      "word": "乃万瘦到不足42kg",
+      "onboard_time": 1759563860,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 998253,
       "num": 1152073,
       "word": "陈震劳斯莱斯车祸后发博",
@@ -817,14 +833,6 @@
       "onboard_time": 1759417704,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 978540,
-      "num": 1156566,
-      "word": "班味最重的新娘",
-      "onboard_time": 1759563440,
-      "rank": 0,
-      "category": "幽默"
     },
     {
       "raw_hot": 974180,
@@ -953,14 +961,6 @@
       "onboard_time": 1759401381,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 935467,
-      "num": 259969,
-      "word": "乃万瘦到不足42kg",
-      "onboard_time": 1759563860,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 934705,
@@ -4115,6 +4115,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 360017,
+      "num": 360017,
+      "word": "鸡排哥称我人都要窒息了",
+      "onboard_time": 1759566381,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358777,
       "num": 188016,
       "word": "吴倩回到了赵默笙时期",
@@ -4169,6 +4177,14 @@
       "onboard_time": 1759372039,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 353238,
+      "num": 256481,
+      "word": "那英 丢个手机被龚俊蛐蛐一辈子",
+      "onboard_time": 1759562539,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 352919,
@@ -4601,14 +4617,6 @@
       "onboard_time": 1759018340,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 308929,
-      "num": 256481,
-      "word": "那英 丢个手机被龚俊蛐蛐一辈子",
-      "onboard_time": 1759562539,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 308248,
@@ -5131,6 +5139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 275753,
+      "num": 170831,
+      "word": "第一批去韩国旅游的受害者出现了",
+      "onboard_time": 1759565361,
+      "rank": 30,
+      "category": "海外新闻,旅游"
+    },
+    {
       "raw_hot": 275582,
       "num": 275582,
       "word": "英雄联盟全球总决赛",
@@ -5584,6 +5600,14 @@
       "word": "孙颖莎发球又被提醒",
       "onboard_time": 1759229482,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 247378,
+      "num": 262138,
+      "word": "王楚钦告诉自己身兼三项是幸福的",
+      "onboard_time": 1759565001,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -6603,14 +6627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 207211,
-      "num": 134550,
-      "word": "第一批去韩国旅游的受害者出现了",
-      "onboard_time": 1759565361,
-      "rank": 30,
-      "category": "海外新闻,旅游"
-    },
-    {
       "raw_hot": 206685,
       "num": 171979,
       "word": "宋亚轩休息时看微博热搜",
@@ -6768,6 +6784,14 @@
       "word": "孙颖莎晋级中国大满贯4强",
       "onboard_time": 1759469001,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202125,
+      "num": 216624,
+      "word": "王楚钦要累懵了",
+      "onboard_time": 1759564699,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -8315,14 +8339,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172708,
-      "num": 262138,
-      "word": "王楚钦告诉自己身兼三项是幸福的",
-      "onboard_time": 1759565001,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172672,
       "num": 172672,
       "word": "心动的信号8售后",
@@ -9052,7 +9068,7 @@
     },
     {
       "raw_hot": 162686,
-      "num": 133210,
+      "num": 139076,
       "word": "东北女生远嫁台湾700平的家",
       "onboard_time": 1759565120,
       "rank": 31,
@@ -9347,6 +9363,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 158877,
+      "num": 158877,
+      "word": "余宇涵演唱会王座出场",
+      "onboard_time": 1759566620,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158817,
       "num": 158817,
       "word": "杨幂嘉人十月刊封面",
@@ -9625,14 +9649,6 @@
       "onboard_time": 1759041561,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 154378,
-      "num": 216624,
-      "word": "王楚钦要累懵了",
-      "onboard_time": 1759564699,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 154124,
@@ -12875,14 +12891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121777,
-      "num": 121777,
-      "word": "鸡排哥称我人都要窒息了",
-      "onboard_time": 1759566381,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121749,
       "num": 121749,
       "word": "宝马召回超过33万辆汽车",
@@ -13641,6 +13649,14 @@
       "onboard_time": 1759023261,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115583,
+      "num": 115583,
+      "word": "张艺兴鸟巢",
+      "onboard_time": 1759567220,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 115537,
@@ -16267,6 +16283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99336,
+      "num": 99336,
+      "word": "10月份的广东人还在防台风",
+      "onboard_time": 1759565840,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99312,
       "num": 99312,
       "word": "第一次嗑到了甲乙方",
@@ -16483,6 +16507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97640,
+      "num": 112340,
+      "word": "顶流明星早期活人感",
+      "onboard_time": 1759565480,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97638,
       "num": 97638,
       "word": "原来丁程鑫才是邓超的超级英雄",
@@ -16569,14 +16601,6 @@
       "onboard_time": 1758984862,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96931,
-      "num": 96931,
-      "word": "10月份的广东人还在防台风",
-      "onboard_time": 1759565840,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96920,
@@ -16787,6 +16811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95413,
+      "num": 95413,
+      "word": "影视飓风1200万粉丝Q&A",
+      "onboard_time": 1759567160,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 95410,
       "num": 95410,
       "word": "国庆宝宝我们来接你上车喽",
@@ -16817,6 +16849,14 @@
       "onboard_time": 1759198459,
       "rank": 47,
       "category": "休闲,民生新闻"
+    },
+    {
+      "raw_hot": 95313,
+      "num": 95313,
+      "word": "佘诗曼把labubu穿在身上",
+      "onboard_time": 1759566740,
+      "rank": 46,
+      "category": "艺人,休闲"
     },
     {
       "raw_hot": 95277,
@@ -16929,6 +16969,14 @@
       "onboard_time": 1759195220,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94724,
+      "num": 94724,
+      "word": "别让婚礼跳河的痛成键盘断案的瓜",
+      "onboard_time": 1759565661,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94619,
@@ -17945,14 +17993,6 @@
       "onboard_time": 1759413382,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 86597,
-      "num": 112340,
-      "word": "顶流明星早期活人感",
-      "onboard_time": 1759565480,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 86544,
@@ -19635,6 +19675,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 71017,
+      "num": 112100,
+      "word": "黄晓明对檀健次打手语我爱你",
+      "onboard_time": 1759566022,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 70641,
       "num": 70641,
       "word": "国庆中秋假期后4天或有台风来袭",
@@ -19681,14 +19729,6 @@
       "onboard_time": 1759535178,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 70177,
-      "num": 112100,
-      "word": "黄晓明对檀健次打手语我爱你",
-      "onboard_time": 1759566022,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 70103,
@@ -22011,6 +22051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31846,
+      "num": 223551,
+      "word": "成都和柳州到底谁更辣",
+      "onboard_time": 1759566201,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 31837,
       "num": 71670,
       "word": "张艺兴林俊杰合唱为你揭晓",
@@ -22225,14 +22273,6 @@
       "onboard_time": 1759032861,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27322,
-      "num": 223551,
-      "word": "成都和柳州到底谁更辣",
-      "onboard_time": 1759566201,
-      "rank": 20,
-      "category": "美食"
     },
     {
       "raw_hot": 27086,
@@ -23041,6 +23081,14 @@
       "onboard_time": 1758969080,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9476,
+      "num": 102394,
+      "word": "范丞丞 我吃健身餐都能胖",
+      "onboard_time": 1759567220,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 9212,
