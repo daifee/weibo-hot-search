@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/05 05:36:36
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/05 06:22:09
 </p>
 </blockquote>
 <p>
@@ -4317,6 +4317,12 @@ AG年总三连胜（热度：153985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%A6%81%E5%AF%B9%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8A%A8%E5%90%91%E4%BF%9D%E6%8C%81%E8%AD%A6%E6%83%95%23" target="weibo">
+专家称要对高市早苗动向保持警惕（热度：152129）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A611%E6%AF%944%E9%9B%B7%E5%BE%B7%E9%BD%90%E5%A7%86%E6%96%AF%E5%9F%BA%23" target="weibo">
 王楚钦11比4雷德齐姆斯基（热度：152007）
 </a>
@@ -6005,12 +6011,6 @@ ts12（热度：122004）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%92%AF%E6%9B%BC%E7%AC%91%E5%AE%B9%E5%A5%BD%E7%94%9C%23" target="weibo">
 王曼昱蒯曼笑容好甜（热度：114767）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E9%A6%96%E6%94%AF%E5%9B%9B%E5%BC%BA%E9%98%9F%E4%BC%8D%E8%AF%9E%E7%94%9F%23" target="weibo">
-苏超首支四强队伍诞生（热度：114721）
 </a>
 </li>
 
