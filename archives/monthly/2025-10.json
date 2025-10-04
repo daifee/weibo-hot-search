@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759576718981,
+  "endTime": 1759577796286,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -73,6 +73,14 @@
       "onboard_time": 1759485860,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1730271,
+      "num": 1730271,
+      "word": "晓华理发店已没了爆火时的人潮",
+      "onboard_time": 1759574361,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1728253,
@@ -257,14 +265,6 @@
       "onboard_time": 1759405702,
       "rank": 20,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 1284350,
-      "num": 1284350,
-      "word": "晓华理发店已没了爆火时的人潮",
-      "onboard_time": 1759574361,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1280118,
@@ -1643,6 +1643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 452020,
+      "num": 184310,
+      "word": "热巴娜扎 新疆双美闪耀巴黎",
+      "onboard_time": 1759574660,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 449072,
       "num": 283778,
       "word": "这居然是周峻纬",
@@ -2203,6 +2211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 344594,
+      "num": 344594,
+      "word": "台风红色预警发布",
+      "onboard_time": 1759575802,
+      "rank": 23,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 343147,
       "num": 229749,
       "word": "文咏珊官宣当妈",
@@ -2395,6 +2411,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 311776,
+      "num": 311776,
+      "word": "王曼昱vs申裕斌",
+      "onboard_time": 1759575321,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311741,
       "num": 311741,
       "word": "王曼昱蒯曼vs早田希娜朱芊曦",
@@ -2449,14 +2473,6 @@
       "onboard_time": 1759569920,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 303298,
-      "num": 184310,
-      "word": "热巴娜扎 新疆双美闪耀巴黎",
-      "onboard_time": 1759574660,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 301318,
@@ -2835,6 +2851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267626,
+      "num": 166322,
+      "word": "陈都灵眼袋",
+      "onboard_time": 1759576581,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266828,
       "num": 240339,
       "word": "在中国居住了5年的印度女子",
@@ -2881,14 +2905,6 @@
       "onboard_time": 1759465099,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 261553,
-      "num": 261553,
-      "word": "王曼昱vs申裕斌",
-      "onboard_time": 1759575321,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 260708,
@@ -3267,6 +3283,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 233415,
+      "num": 233415,
+      "word": "G6666次列车限时开行",
+      "onboard_time": 1759573880,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232809,
       "num": 167040,
       "word": "中国选手孙亨裕在韩国见义勇为",
@@ -3513,6 +3537,14 @@
       "onboard_time": 1759500923,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 217308,
+      "num": 162801,
+      "word": "网剧以她之韧",
+      "onboard_time": 1759577122,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 217206,
@@ -3793,6 +3825,14 @@
       "onboard_time": 1759494443,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203818,
+      "num": 203818,
+      "word": "王曼昱12比10申裕斌",
+      "onboard_time": 1759577180,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 203482,
@@ -4539,14 +4579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175657,
-      "num": 175657,
-      "word": "G6666次列车限时开行",
-      "onboard_time": 1759573880,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175457,
       "num": 175457,
       "word": "张远你倒是出片了考虑过脖子吗",
@@ -4971,14 +5003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164500,
-      "num": 164500,
-      "word": "台风红色预警发布",
-      "onboard_time": 1759575802,
-      "rank": 23,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 163680,
       "num": 151511,
       "word": "田曦薇护食",
@@ -5385,6 +5409,14 @@
       "onboard_time": 1759484901,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151408,
+      "num": 151408,
+      "word": "微信里的钱包一定要上锁",
+      "onboard_time": 1759573521,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 151229,
@@ -5921,14 +5953,6 @@
       "onboard_time": 1759415241,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140065,
-      "num": 140065,
-      "word": "微信里的钱包一定要上锁",
-      "onboard_time": 1759573521,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 140021,
@@ -6947,6 +6971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121311,
+      "num": 121311,
+      "word": "鸡排哥 精神贫瘠涌向鲜活生命",
+      "onboard_time": 1759577540,
+      "rank": 30,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 121233,
       "num": 121233,
       "word": "宋亚轩你们冤枉我我真不是卧底",
@@ -7915,6 +7947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 108917,
+      "num": 108917,
+      "word": "原来扛事的性格是这样培养出来的",
+      "onboard_time": 1759576401,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108906,
       "num": 108906,
       "word": "主办方披露艺人团队反水时间线",
@@ -7953,6 +7993,14 @@
       "onboard_time": 1759374920,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108500,
+      "num": 108500,
+      "word": "看出来宋亚轩在王牌录饿了",
+      "onboard_time": 1759577360,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 108466,
@@ -8081,6 +8129,14 @@
       "onboard_time": 1759572559,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 107337,
+      "num": 107337,
+      "word": "Desire4银杏音乐节",
+      "onboard_time": 1759568901,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 107258,
@@ -8289,14 +8345,6 @@
       "onboard_time": 1759385420,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105444,
-      "num": 105444,
-      "word": "原来扛事的性格是这样培养出来的",
-      "onboard_time": 1759576401,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 105421,
@@ -8571,14 +8619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 102996,
-      "num": 102996,
-      "word": "Desire4银杏音乐节",
-      "onboard_time": 1759568901,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 102906,
       "num": 102906,
       "word": "披荆斩棘最能治陈小春的人来了",
@@ -8601,6 +8641,14 @@
       "onboard_time": 1759376660,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 102616,
+      "num": 102616,
+      "word": "张艺兴刘宇宁是怎么认识的",
+      "onboard_time": 1759575141,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 102424,
@@ -8875,6 +8923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99902,
+      "num": 99902,
+      "word": "苏超",
+      "onboard_time": 1759576280,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99644,
       "num": 99644,
       "word": "周峻纬这就是留子的魅力吗",
@@ -9115,14 +9171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96995,
-      "num": 96995,
-      "word": "苏超",
-      "onboard_time": 1759576280,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96920,
       "num": 96920,
       "word": "孙颖莎王楚钦的手茧好明显",
@@ -9193,6 +9241,14 @@
       "onboard_time": 1759316362,
       "rank": 40,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 96213,
+      "num": 96213,
+      "word": "陈哲远比李沁还甜",
+      "onboard_time": 1759577180,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 96201,
@@ -9377,14 +9433,6 @@
       "onboard_time": 1759273878,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 94342,
-      "num": 94342,
-      "word": "张艺兴刘宇宁是怎么认识的",
-      "onboard_time": 1759575141,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 94332,
@@ -9593,6 +9641,14 @@
       "onboard_time": 1759550541,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92393,
+      "num": 92393,
+      "word": "王曼昱4比1申裕斌",
+      "onboard_time": 1759577662,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 92341,
@@ -10008,6 +10064,14 @@
       "word": "林诗栋vs宇田幸矢",
       "onboard_time": 1759462280,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86828,
+      "num": 86828,
+      "word": "国乒3人晋级男单四强",
+      "onboard_time": 1759576942,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -12267,6 +12331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40441,
+      "num": 102799,
+      "word": "鞠婧祎戴着小狗耳环发小猫",
+      "onboard_time": 1759577540,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40268,
       "num": 40268,
       "word": "蔡徐坤国际认可度",
@@ -12537,14 +12609,6 @@
       "onboard_time": 1759388661,
       "rank": 18,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 33603,
-      "num": 101888,
-      "word": "陈都灵眼袋",
-      "onboard_time": 1759576581,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 33405,

@@ -1,6 +1,6 @@
 {
   "startTime": 1759509046450,
-  "endTime": 1759576718981,
+  "endTime": 1759577796286,
   "band_list": [
     {
       "raw_hot": 3967870,
@@ -17,6 +17,14 @@
       "onboard_time": 1759544299,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1730271,
+      "num": 1730271,
+      "word": "晓华理发店已没了爆火时的人潮",
+      "onboard_time": 1759574361,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1648183,
@@ -49,14 +57,6 @@
       "onboard_time": 1759546639,
       "rank": 7,
       "category": "汽车,网红"
-    },
-    {
-      "raw_hot": 1284350,
-      "num": 1284350,
-      "word": "晓华理发店已没了爆火时的人潮",
-      "onboard_time": 1759574361,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1280118,
@@ -299,6 +299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 452020,
+      "num": 184310,
+      "word": "热巴娜扎 新疆双美闪耀巴黎",
+      "onboard_time": 1759574660,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445530,
       "num": 235716,
       "word": "别让婚礼跳河的痛成键盘断案的瓜",
@@ -411,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344594,
+      "num": 344594,
+      "word": "台风红色预警发布",
+      "onboard_time": 1759575802,
+      "rank": 23,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 342174,
       "num": 300346,
       "word": "陈震称以车辆EDR数据通告为准",
@@ -451,6 +467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 311776,
+      "num": 311776,
+      "word": "王曼昱vs申裕斌",
+      "onboard_time": 1759575321,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311741,
       "num": 311741,
       "word": "王曼昱蒯曼vs早田希娜朱芊曦",
@@ -465,14 +489,6 @@
       "onboard_time": 1759569920,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 303298,
-      "num": 184310,
-      "word": "热巴娜扎 新疆双美闪耀巴黎",
-      "onboard_time": 1759574660,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 301318,
@@ -555,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267626,
+      "num": 166322,
+      "word": "陈都灵眼袋",
+      "onboard_time": 1759576581,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266082,
       "num": 225645,
       "word": "许我耀眼",
@@ -569,14 +593,6 @@
       "onboard_time": 1759499662,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 261553,
-      "num": 261553,
-      "word": "王曼昱vs申裕斌",
-      "onboard_time": 1759575321,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 260708,
@@ -691,6 +707,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 233415,
+      "num": 233415,
+      "word": "G6666次列车限时开行",
+      "onboard_time": 1759573880,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232809,
       "num": 167040,
       "word": "中国选手孙亨裕在韩国见义勇为",
@@ -729,6 +753,14 @@
       "onboard_time": 1759546460,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217308,
+      "num": 162801,
+      "word": "网剧以她之韧",
+      "onboard_time": 1759577122,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 214855,
@@ -785,6 +817,14 @@
       "onboard_time": 1759537579,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203818,
+      "num": 203818,
+      "word": "王曼昱12比10申裕斌",
+      "onboard_time": 1759577180,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 202686,
@@ -907,14 +947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 175657,
-      "num": 175657,
-      "word": "G6666次列车限时开行",
-      "onboard_time": 1759573880,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170407,
       "num": 146462,
       "word": "年轻人抛弃5A景区",
@@ -1001,14 +1033,6 @@
       "onboard_time": 1759556181,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164500,
-      "num": 164500,
-      "word": "台风红色预警发布",
-      "onboard_time": 1759575802,
-      "rank": 23,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 163033,
@@ -1099,6 +1123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 151408,
+      "num": 151408,
+      "word": "微信里的钱包一定要上锁",
+      "onboard_time": 1759573521,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150068,
       "num": 150068,
       "word": "王源不理解但听话",
@@ -1169,14 +1201,6 @@
       "onboard_time": 1759533736,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 140065,
-      "num": 140065,
-      "word": "微信里的钱包一定要上锁",
-      "onboard_time": 1759573521,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 140021,
@@ -1361,6 +1385,14 @@
       "onboard_time": 1759559659,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121311,
+      "num": 121311,
+      "word": "鸡排哥 精神贫瘠涌向鲜活生命",
+      "onboard_time": 1759577540,
+      "rank": 30,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 119576,
@@ -1635,6 +1667,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108917,
+      "num": 108917,
+      "word": "原来扛事的性格是这样培养出来的",
+      "onboard_time": 1759576401,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 108500,
+      "num": 108500,
+      "word": "看出来宋亚轩在王牌录饿了",
+      "onboard_time": 1759577360,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108355,
       "num": 136046,
       "word": "疑似社畜拼好饭中毒死前的终极幻想",
@@ -1657,6 +1705,14 @@
       "onboard_time": 1759572559,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 107337,
+      "num": 107337,
+      "word": "Desire4银杏音乐节",
+      "onboard_time": 1759568901,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 107250,
@@ -1731,14 +1787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105444,
-      "num": 105444,
-      "word": "原来扛事的性格是这样培养出来的",
-      "onboard_time": 1759576401,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 104795,
       "num": 104795,
       "word": "肖战射雕英雄传实时收视率破2",
@@ -1811,12 +1859,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 102996,
-      "num": 102996,
-      "word": "Desire4银杏音乐节",
-      "onboard_time": 1759568901,
-      "rank": 33,
-      "category": "演出"
+      "raw_hot": 102616,
+      "num": 102616,
+      "word": "张艺兴刘宇宁是怎么认识的",
+      "onboard_time": 1759575141,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 102262,
@@ -1931,6 +1979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99902,
+      "num": 99902,
+      "word": "苏超",
+      "onboard_time": 1759576280,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99459,
       "num": 99459,
       "word": "128斤狗子躺路中间被车碾轧毫发无伤",
@@ -1995,14 +2051,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 96995,
-      "num": 96995,
-      "word": "苏超",
-      "onboard_time": 1759576280,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96920,
       "num": 96920,
       "word": "孙颖莎王楚钦的手茧好明显",
@@ -2017,6 +2065,14 @@
       "onboard_time": 1759507880,
       "rank": 32,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 96213,
+      "num": 96213,
+      "word": "陈哲远比李沁还甜",
+      "onboard_time": 1759577180,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 96053,
@@ -2083,14 +2139,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 94342,
-      "num": 94342,
-      "word": "张艺兴刘宇宁是怎么认识的",
-      "onboard_time": 1759575141,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 93784,
       "num": 93784,
       "word": "王楚钦再解锁空耳名场面",
@@ -2137,6 +2185,14 @@
       "onboard_time": 1759550541,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92393,
+      "num": 92393,
+      "word": "王曼昱4比1申裕斌",
+      "onboard_time": 1759577662,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 92341,
@@ -2241,6 +2297,14 @@
       "onboard_time": 1759559720,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86828,
+      "num": 86828,
+      "word": "国乒3人晋级男单四强",
+      "onboard_time": 1759576942,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 86660,
@@ -2763,6 +2827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 40441,
+      "num": 102799,
+      "word": "鞠婧祎戴着小狗耳环发小猫",
+      "onboard_time": 1759577540,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39869,
       "num": 223551,
       "word": "成都和柳州到底谁更辣",
@@ -2856,14 +2928,6 @@
       "word": "内娱曾经伟大的人才引进",
       "onboard_time": 1759552821,
       "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 33603,
-      "num": 101888,
-      "word": "陈都灵眼袋",
-      "onboard_time": 1759576581,
-      "rank": 39,
       "category": "艺人"
     },
     {
