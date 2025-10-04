@@ -1,6 +1,6 @@
 {
   "startTime": 1759509046450,
-  "endTime": 1759559604766,
+  "endTime": 1759560345938,
   "band_list": [
     {
       "raw_hot": 3967870,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 586285,
-      "num": 586285,
+      "num": 1080542,
       "word": "Ning浴室摔伤",
       "onboard_time": 1759554141,
       "rank": 13,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 477718,
+      "num": 477718,
+      "word": "摄影师毁约数10场婚礼公安介入",
+      "onboard_time": 1759556120,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 476336,
       "num": 153537,
       "word": "黄磊首次回应未熟豆角食物中毒争议",
@@ -163,16 +171,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 469666,
-      "num": 469666,
-      "word": "摄影师毁约数10场婚礼公安介入",
-      "onboard_time": 1759556120,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 459098,
-      "num": 234061,
+      "num": 451302,
       "word": "韩国博主哭诉国家没有存在感",
       "onboard_time": 1759556720,
       "rank": 13,
@@ -185,6 +185,14 @@
       "onboard_time": 1759502182,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 439063,
+      "num": 439063,
+      "word": "王楚钦vs松岛辉空",
+      "onboard_time": 1759559179,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 435933,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 406950,
-      "num": 229431,
+      "num": 237474,
       "word": "白鹿 现在vlog都要我提醒你拍了吗",
       "onboard_time": 1759553660,
       "rank": 20,
@@ -241,6 +249,14 @@
       "onboard_time": 1759547779,
       "rank": 30,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 354564,
+      "num": 354564,
+      "word": "高市早苗或成日本首个女首相",
+      "onboard_time": 1759559060,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 342174,
@@ -305,14 +321,6 @@
       "onboard_time": 1759537098,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 293406,
-      "num": 293406,
-      "word": "高市早苗或成日本首个女首相",
-      "onboard_time": 1759559060,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 292242,
@@ -427,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 216297,
+      "num": 216297,
+      "word": "浴室五杀",
+      "onboard_time": 1759557981,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 214855,
       "num": 214855,
       "word": "王楚钦孙颖莎藏不住的喜悦",
@@ -483,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199892,
+      "num": 199892,
+      "word": "向鹏4比3雨果",
+      "onboard_time": 1759559659,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195147,
       "num": 195147,
       "word": "檀健次醉酒摔倒戏是现挂的",
@@ -499,12 +523,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 189018,
-      "num": 189018,
-      "word": "王楚钦vs松岛辉空",
-      "onboard_time": 1759559179,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 189054,
+      "num": 189054,
+      "word": "日本或将迎来首位女首相",
+      "onboard_time": 1759559120,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 188380,
@@ -587,14 +611,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 168630,
-      "num": 168630,
-      "word": "浴室五杀",
-      "onboard_time": 1759557981,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 166797,
       "num": 166797,
       "word": "沈腾胡先煦为家乡烧饼打起来了",
@@ -619,20 +635,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165838,
+      "num": 165838,
+      "word": "陈瑶田曦薇 上官婉儿太平公主",
+      "onboard_time": 1759558401,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164779,
       "num": 164779,
       "word": "蒯曼说王曼昱给我很多鼓励",
       "onboard_time": 1759556181,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161714,
-      "num": 161714,
-      "word": "陈瑶田曦薇 上官婉儿太平公主",
-      "onboard_time": 1759558401,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 159423,
@@ -755,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130995,
+      "num": 130995,
+      "word": "我月薪三千要做这么多事吗",
+      "onboard_time": 1759557201,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130804,
       "num": 130804,
       "word": "qko回应自己不是赵磊的初恋",
@@ -811,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121955,
+      "num": 121955,
+      "word": "向鹏晋级中国大满贯4强",
+      "onboard_time": 1759559659,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119576,
       "num": 119576,
       "word": "家长把孩子忘服务区小孩哥淡定鼓掌",
@@ -825,6 +857,14 @@
       "onboard_time": 1759556181,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 117842,
+      "num": 117842,
+      "word": "邓超问三个go分开是什么",
+      "onboard_time": 1759556120,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 116895,
@@ -891,12 +931,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113880,
+      "num": 113880,
+      "word": "王曼昱蒯曼3比1早田希娜朱芊曦",
+      "onboard_time": 1759560081,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113855,
+      "num": 113855,
+      "word": "宋亚轩姚晨合照",
+      "onboard_time": 1759559659,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 113503,
+      "num": 145778,
+      "word": "1集乳腺畅通2集结节消失",
+      "onboard_time": 1759559060,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113064,
       "num": 113064,
       "word": "檀健次说想和角色双向奔赴",
       "onboard_time": 1759553242,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111531,
+      "num": 111531,
+      "word": "孙颖莎照亮裸辞女孩登顶玉珠峰",
+      "onboard_time": 1759559299,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 111307,
@@ -937,14 +1009,6 @@
       "onboard_time": 1759542619,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110139,
-      "num": 145778,
-      "word": "1集乳腺畅通2集结节消失",
-      "onboard_time": 1759559060,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 110075,
@@ -1035,22 +1099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104507,
-      "num": 104507,
-      "word": "我月薪三千要做这么多事吗",
-      "onboard_time": 1759557201,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 104038,
-      "num": 104038,
-      "word": "邓超问三个go分开是什么",
-      "onboard_time": 1759556120,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 103964,
       "num": 103964,
       "word": "同事问我是不是很穷",
@@ -1089,6 +1137,14 @@
       "onboard_time": 1759535058,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101571,
+      "num": 101571,
+      "word": "惠英红生命力 高奢早该吻上来",
+      "onboard_time": 1759560141,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 101550,
@@ -1203,6 +1259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 93754,
+      "num": 93754,
+      "word": "王安宇大半夜还这么敬业",
+      "onboard_time": 1759556720,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93200,
       "num": 93200,
       "word": "沈皓明一家老小争当许妍榜一",
@@ -1225,14 +1289,6 @@
       "onboard_time": 1759542319,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 91954,
-      "num": 91954,
-      "word": "孙颖莎照亮裸辞女孩登顶玉珠峰",
-      "onboard_time": 1759559299,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 90423,
@@ -1273,6 +1329,14 @@
       "onboard_time": 1759548859,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 88133,
+      "num": 88133,
+      "word": "陈数说张晚意当导游没有任何不好",
+      "onboard_time": 1759560320,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 87823,
@@ -1329,14 +1393,6 @@
       "onboard_time": 1759546222,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83143,
-      "num": 184836,
-      "word": "日本或将迎来首位女首相",
-      "onboard_time": 1759559120,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 82937,
@@ -1683,6 +1739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 53966,
+      "num": 106371,
+      "word": "TOP左一声姐姐右一声姐姐",
+      "onboard_time": 1759560200,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47464,
       "num": 197137,
       "word": "广西多条河流出现超警洪水",
@@ -1705,6 +1769,14 @@
       "onboard_time": 1759554560,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 39914,
+      "num": 105064,
+      "word": "金晨跳着跳着大喜就出来了",
+      "onboard_time": 1759559720,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 39595,
@@ -1827,20 +1899,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 17814,
+      "num": 109755,
+      "word": "女游客海拔4700米高反被困求救",
+      "onboard_time": 1759559120,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16424,
       "num": 152199,
       "word": "被王牌里的女性魅力闪到睁不开眼",
       "onboard_time": 1759542138,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 10245,
-      "num": 109755,
-      "word": "女游客海拔4700米高反被困求救",
-      "onboard_time": 1759559120,
-      "rank": 37,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

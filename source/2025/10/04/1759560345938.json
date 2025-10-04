@@ -1,0 +1,410 @@
+{
+  "runTime": 1759560345938,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 503388,
+        "num": 1080542,
+        "word": "Ning浴室摔伤",
+        "onboard_time": 1759554141,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 489567,
+        "num": 489567,
+        "word": "向鹏vs雨果",
+        "onboard_time": 1759557261,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44566,
+        "num": 481275,
+        "word": "国庆中秋假期游玩好去处",
+        "onboard_time": 1759550900,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477718,
+        "num": 477718,
+        "word": "摄影师毁约数10场婚礼公安介入",
+        "onboard_time": 1759556120,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451302,
+        "num": 451302,
+        "word": "韩国博主哭诉国家没有存在感",
+        "onboard_time": 1759556720,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 448831,
+        "num": 448831,
+        "word": "分手1年复合狗狗的反应",
+        "onboard_time": 1759545500,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 439063,
+        "num": 439063,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1759559179,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 354564,
+        "num": 354564,
+        "word": "高市早苗或成日本首个女首相",
+        "onboard_time": 1759559060,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249304,
+        "num": 249304,
+        "word": "高市早苗当选新任自民党总裁",
+        "onboard_time": 1759558278,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108141,
+        "num": 246879,
+        "word": "早期的王橹杰",
+        "onboard_time": 1759557379,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 555959,
+        "num": 244625,
+        "word": "北京交警通报陈震发生车祸",
+        "onboard_time": 1759550240,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 541801,
+        "num": 242731,
+        "word": "谢娜不敢相信我要主持央视中秋晚会",
+        "onboard_time": 1759549819,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 490970,
+        "num": 240226,
+        "word": "央视中秋晚会首波阵容",
+        "onboard_time": 1759551921,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301334,
+        "num": 237474,
+        "word": "白鹿 现在vlog都要我提醒你拍了吗",
+        "onboard_time": 1759553660,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270829,
+        "num": 234798,
+        "word": "陈震称以车辆EDR数据通告为准",
+        "onboard_time": 1759553060,
+        "rank": 14,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 232986,
+        "num": 232986,
+        "word": "全校的魔丸都在这个班里了",
+        "onboard_time": 1759549099,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216297,
+        "num": 216297,
+        "word": "浴室五杀",
+        "onboard_time": 1759557981,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199892,
+        "num": 199892,
+        "word": "向鹏4比3雨果",
+        "onboard_time": 1759559659,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189054,
+        "num": 189054,
+        "word": "日本或将迎来首位女首相",
+        "onboard_time": 1759559120,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168092,
+        "num": 168092,
+        "word": "什么香这么臭",
+        "onboard_time": 1759554021,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166138,
+        "num": 166138,
+        "word": "董璇说张维伊烦人难看幼稚",
+        "onboard_time": 1759544299,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165838,
+        "num": 165838,
+        "word": "陈瑶田曦薇 上官婉儿太平公主",
+        "onboard_time": 1759558401,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156777,
+        "num": 156777,
+        "word": "现在就出发",
+        "onboard_time": 1759557981,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153194,
+        "num": 153194,
+        "word": "台风",
+        "onboard_time": 1759555400,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 117133,
+        "num": 140300,
+        "word": "丁程鑫只需轻轻出手就秒了",
+        "onboard_time": 1759559001,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130995,
+        "num": 130995,
+        "word": "我月薪三千要做这么多事吗",
+        "onboard_time": 1759557201,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125473,
+        "num": 125473,
+        "word": "日本新首相或从小泉和高市中产生",
+        "onboard_time": 1759549640,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121955,
+        "num": 121955,
+        "word": "向鹏晋级中国大满贯4强",
+        "onboard_time": 1759559659,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118195,
+        "num": 118195,
+        "word": "29岁智障女子继承遗产后被争相照顾",
+        "onboard_time": 1759544780,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117842,
+        "num": 117842,
+        "word": "邓超问三个go分开是什么",
+        "onboard_time": 1759556120,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116114,
+        "num": 116114,
+        "word": "刘诗诗怎么美成这样",
+        "onboard_time": 1759551681,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114064,
+        "num": 114064,
+        "word": "刘轩丞 倒是给我笔啊",
+        "onboard_time": 1759556421,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113880,
+        "num": 113880,
+        "word": "王曼昱蒯曼3比1早田希娜朱芊曦",
+        "onboard_time": 1759560081,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113855,
+        "num": 113855,
+        "word": "宋亚轩姚晨合照",
+        "onboard_time": 1759559659,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82880,
+        "num": 113557,
+        "word": "檀健次醉酒摔倒戏是现挂的",
+        "onboard_time": 1759558520,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113503,
+        "num": 113503,
+        "word": "1集乳腺畅通2集结节消失",
+        "onboard_time": 1759559060,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111863,
+        "num": 111863,
+        "word": "太久没穿的鞋子就别穿了",
+        "onboard_time": 1759553000,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 111531,
+        "num": 111531,
+        "word": "孙颖莎照亮裸辞女孩登顶玉珠峰",
+        "onboard_time": 1759559299,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53966,
+        "num": 106371,
+        "word": "TOP左一声姐姐右一声姐姐",
+        "onboard_time": 1759560200,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39914,
+        "num": 105064,
+        "word": "金晨跳着跳着大喜就出来了",
+        "onboard_time": 1759559720,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17814,
+        "num": 104816,
+        "word": "女游客海拔4700米高反被困求救",
+        "onboard_time": 1759559120,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104615,
+        "num": 104615,
+        "word": "以为在装病结果真确诊了",
+        "onboard_time": 1759547779,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 102025,
+        "num": 102025,
+        "word": "张天爱我从太子妃的时候就跟了你",
+        "onboard_time": 1759555518,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101571,
+        "num": 101571,
+        "word": "惠英红生命力 高奢早该吻上来",
+        "onboard_time": 1759560141,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99509,
+        "num": 99509,
+        "word": "欧阳娜娜入选美版VOGUE最佳街拍",
+        "onboard_time": 1759556840,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94865,
+        "num": 94865,
+        "word": "特朗普头像 1美元硬币",
+        "onboard_time": 1759548560,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93754,
+        "num": 93754,
+        "word": "王安宇大半夜还这么敬业",
+        "onboard_time": 1759556720,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91767,
+        "num": 91767,
+        "word": "杨超越到底被秦昊弄哭过几次",
+        "onboard_time": 1759557621,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90442,
+        "num": 90442,
+        "word": "孙子推倒女孩爷爷反安慰孙子",
+        "onboard_time": 1759546460,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88133,
+        "num": 88133,
+        "word": "陈数说张晚意当导游没有任何不好",
+        "onboard_time": 1759560320,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#爱国主义是我们民族精神的核心#"
+    }
+  }
+}
