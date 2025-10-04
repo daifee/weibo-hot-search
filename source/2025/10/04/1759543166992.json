@@ -1,0 +1,402 @@
+{
+  "runTime": 1759543166992,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1648183,
+        "num": 1648183,
+        "word": "官方通报29岁男子婚礼当天跳河",
+        "onboard_time": 1759540878,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 998253,
+        "num": 998253,
+        "word": "陈震劳斯莱斯车祸后发博",
+        "onboard_time": 1759539800,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699570,
+        "num": 699570,
+        "word": "中高度近视戒掉眼镜6天的状态",
+        "onboard_time": 1759535178,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 318380,
+        "num": 318380,
+        "word": "女子演唱会丢失11万手镯发帖找回",
+        "onboard_time": 1759516575,
+        "rank": 4,
+        "category": "民生新闻,演出"
+      },
+      {
+        "raw_hot": 296769,
+        "num": 296769,
+        "word": "哈马斯同意释放全部以色列人质",
+        "onboard_time": 1759534277,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 295483,
+        "num": 295483,
+        "word": "韩国营养针",
+        "onboard_time": 1759537098,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 212894,
+        "num": 212894,
+        "word": "王楚钦孙颖莎藏不住的喜悦",
+        "onboard_time": 1759536259,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208377,
+        "num": 208377,
+        "word": "36岁每天运动1小时体态的变化",
+        "onboard_time": 1759507220,
+        "rank": 8,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 206407,
+        "num": 206407,
+        "word": "肯德基保密54年的炸鸡配方将被公开",
+        "onboard_time": 1759494261,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 726627,
+        "num": 199255,
+        "word": "阿沁回应被踢出飞儿乐团",
+        "onboard_time": 1759538960,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271909,
+        "num": 196280,
+        "word": "沈皓明 妍妍为什么不接我电话嘞",
+        "onboard_time": 1759515855,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217161,
+        "num": 186344,
+        "word": "大学生用30天花20万自制特摄短剧",
+        "onboard_time": 1759532235,
+        "rank": 12,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 212579,
+        "num": 175497,
+        "word": "韩国高中生太累就扎针",
+        "onboard_time": 1759541239,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 206685,
+        "num": 171423,
+        "word": "宋亚轩休息时看微博热搜",
+        "onboard_time": 1759537579,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166698,
+        "num": 166698,
+        "word": "当地回应新郎在结婚当天跳河",
+        "onboard_time": 1759502182,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154026,
+        "num": 154026,
+        "word": "下馆子后特别渴的原因",
+        "onboard_time": 1759501762,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152571,
+        "num": 152571,
+        "word": "夫妻国庆开两架飞机带女儿回老家",
+        "onboard_time": 1759508540,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16424,
+        "num": 152199,
+        "word": "被王牌里的女性魅力闪到睁不开眼",
+        "onboard_time": 1759542138,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64311,
+        "num": 150929,
+        "word": "宋亚轩有点太了解迪丽热巴了",
+        "onboard_time": 1759542440,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232230,
+        "num": 150043,
+        "word": "超过500度近视不要做的事",
+        "onboard_time": 1759540459,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197761,
+        "num": 148771,
+        "word": "顾客为合影将鸡排哥堵在墙角",
+        "onboard_time": 1759506859,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147537,
+        "num": 147537,
+        "word": "黄磊首次回应未熟豆角食物中毒争议",
+        "onboard_time": 1759485860,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147065,
+        "num": 147065,
+        "word": "人人人人人人趵突泉人人人人人人",
+        "onboard_time": 1759537398,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140652,
+        "num": 140652,
+        "word": "731毒气实验室玩具已下架",
+        "onboard_time": 1759496541,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 139154,
+        "num": 139154,
+        "word": "车被狗啃到面目全非女车主最新发声",
+        "onboard_time": 1759536259,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137978,
+        "num": 137978,
+        "word": "鼻子决定了颜值的上限",
+        "onboard_time": 1759533736,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126517,
+        "num": 126517,
+        "word": "李纯马頔不是一时好是真的一直好",
+        "onboard_time": 1759499662,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107205,
+        "num": 107205,
+        "word": "现象级爆剧救活了一项非遗文化",
+        "onboard_time": 1759498523,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99634,
+        "num": 99634,
+        "word": "唐诡奇谭之九重楼",
+        "onboard_time": 1759535058,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137613,
+        "num": 97762,
+        "word": "吹牛老爹获刑四年两个月",
+        "onboard_time": 1759542138,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95609,
+        "num": 95609,
+        "word": "李一桐就这个腰臀比",
+        "onboard_time": 1759533798,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93200,
+        "num": 93200,
+        "word": "沈皓明一家老小争当许妍榜一",
+        "onboard_time": 1759542319,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93185,
+        "num": 93185,
+        "word": "杨洋蒋梦婕宝黛cp同游",
+        "onboard_time": 1759505122,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92990,
+        "num": 92990,
+        "word": "巴西蚊子工厂准备投产",
+        "onboard_time": 1759540219,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90889,
+        "num": 90889,
+        "word": "原来眼睛真的可以用来出气",
+        "onboard_time": 1759542619,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87823,
+        "num": 87823,
+        "word": "常吃4类食物让身体发炎",
+        "onboard_time": 1759533736,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86211,
+        "num": 86211,
+        "word": "熬夜玩手机请给自己留盏灯",
+        "onboard_time": 1759534037,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84425,
+        "num": 84425,
+        "word": "王一博丽芙泰勒同框合照",
+        "onboard_time": 1759509738,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80885,
+        "num": 80885,
+        "word": "女子订婚前帮闺蜜染发手被染成蓝色",
+        "onboard_time": 1759499543,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80819,
+        "num": 80819,
+        "word": "孙颖莎说自己单打水平提升不少",
+        "onboard_time": 1759541359,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78929,
+        "num": 78929,
+        "word": "李沁一回头梦女婚纱穿好了",
+        "onboard_time": 1759537880,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77002,
+        "num": 77002,
+        "word": "范丞丞瘦了",
+        "onboard_time": 1759512856,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70185,
+        "num": 70185,
+        "word": "迪丽热巴国内首位上身安德森特别定制",
+        "onboard_time": 1759535178,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 70054,
+        "num": 70054,
+        "word": "以伊爆发新一轮冲突的可能性骤增",
+        "onboard_time": 1759540459,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68411,
+        "num": 68411,
+        "word": "树莓回应",
+        "onboard_time": 1759540159,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 67965,
+        "num": 67965,
+        "word": "肖战射雕英雄传实时收视率破2",
+        "onboard_time": 1759502902,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 65196,
+        "num": 65196,
+        "word": "普京致意中国兄弟姐妹",
+        "onboard_time": 1759542319,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63593,
+        "num": 63593,
+        "word": "台风麦德姆已进入24小时警戒线",
+        "onboard_time": 1759540459,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 62080,
+        "num": 62080,
+        "word": "董璇说男人分手很快会找到下一个",
+        "onboard_time": 1759496902,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平曾以这句诗自勉#"
+    }
+  }
+}
