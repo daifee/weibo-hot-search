@@ -1,9 +1,9 @@
 {
   "startTime": 1759509046450,
-  "endTime": 1759546592158,
+  "endTime": 1759547202058,
   "band_list": [
     {
-      "raw_hot": 1727513,
+      "raw_hot": 1798840,
       "num": 158772,
       "word": "许我耀眼 盗图",
       "onboard_time": 1759544299,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 794647,
-      "num": 153631,
+      "num": 154084,
       "word": "董璇说张维伊烦人难看幼稚",
       "onboard_time": 1759544299,
       "rank": 11,
@@ -57,6 +57,14 @@
       "onboard_time": 1759506859,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 571323,
+      "num": 154052,
+      "word": "分手1年复合狗狗的反应",
+      "onboard_time": 1759545500,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 556452,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 411158,
-      "num": 150341,
+      "num": 154008,
       "word": "范丞丞章若楠G社生图状态",
       "onboard_time": 1759543399,
       "rank": 12,
@@ -169,14 +177,6 @@
       "onboard_time": 1759537098,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 280454,
-      "num": 141842,
-      "word": "分手1年复合狗狗的反应",
-      "onboard_time": 1759545500,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 277339,
@@ -235,6 +235,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 237088,
+      "num": 237088,
+      "word": "陈震妻子回应",
+      "onboard_time": 1759546639,
+      "rank": 7,
+      "category": "汽车,网红"
+    },
+    {
       "raw_hot": 232419,
       "num": 186344,
       "word": "大学生用30天花20万自制特摄短剧",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 211078,
-      "num": 140082,
+      "num": 149622,
       "word": "猥亵男暴力袭警致民警视力降至0.25",
       "onboard_time": 1759544418,
       "rank": 15,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 184226,
-      "num": 137295,
+      "num": 144285,
       "word": "陆毅毕业时为鲍蕾放弃工作offer",
       "onboard_time": 1759543339,
       "rank": 16,
@@ -363,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141349,
+      "num": 101211,
+      "word": "孙子推倒女孩爷爷反安慰孙子",
+      "onboard_time": 1759546460,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140316,
       "num": 137978,
       "word": "鼻子决定了颜值的上限",
@@ -395,8 +411,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128481,
-      "num": 128481,
+      "raw_hot": 130804,
+      "num": 130804,
       "word": "qko回应自己不是赵磊的初恋",
       "onboard_time": 1759545979,
       "rank": 19,
@@ -409,6 +425,14 @@
       "onboard_time": 1759543640,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116743,
+      "num": 98008,
+      "word": "墨西哥活火山上空疑出现UFO舰队",
+      "onboard_time": 1759545680,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 116547,
@@ -441,6 +465,22 @@
       "onboard_time": 1759503981,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110766,
+      "num": 110766,
+      "word": "王源不理解但听话",
+      "onboard_time": 1759546699,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 110606,
+      "num": 110606,
+      "word": "刘浩存喊粉丝妹妹",
+      "onboard_time": 1759545859,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 110295,
@@ -499,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105276,
+      "num": 97338,
+      "word": "加拿大或将30头白鲸安乐死",
+      "onboard_time": 1759545500,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 104795,
       "num": 104795,
       "word": "肖战射雕英雄传实时收视率破2",
@@ -507,12 +555,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 103776,
-      "num": 101211,
-      "word": "孙子推倒女孩爷爷反安慰孙子",
-      "onboard_time": 1759546460,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 103390,
+      "num": 103390,
+      "word": "张小斐巴黎到达图 皮衣尖头鞋",
+      "onboard_time": 1759545920,
+      "rank": 37,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 103331,
@@ -529,30 +577,6 @@
       "onboard_time": 1759535058,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 101246,
-      "num": 101246,
-      "word": "刘浩存喊粉丝妹妹",
-      "onboard_time": 1759545859,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 97797,
-      "num": 97797,
-      "word": "墨西哥活火山上空疑出现UFO舰队",
-      "onboard_time": 1759545680,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 97338,
-      "num": 97338,
-      "word": "加拿大或将30头白鲸安乐死",
-      "onboard_time": 1759545500,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 96799,
@@ -619,12 +643,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 86516,
-      "num": 86516,
-      "word": "张小斐巴黎到达图 皮衣尖头鞋",
-      "onboard_time": 1759545920,
-      "rank": 37,
-      "category": "艺人,时尚"
+      "raw_hot": 85665,
+      "num": 85665,
+      "word": "年年体检无异常发现却是晚期",
+      "onboard_time": 1759547060,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 84259,
@@ -635,20 +659,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83000,
+      "num": 83000,
+      "word": "焦迈奇生日发博",
+      "onboard_time": 1759545199,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 82758,
+      "num": 82758,
+      "word": "朱易第五",
+      "onboard_time": 1759544659,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82527,
       "num": 82527,
       "word": "AAA建材沈总离婚之我要当榜一大哥",
       "onboard_time": 1759500862,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82402,
-      "num": 82402,
-      "word": "焦迈奇生日发博",
-      "onboard_time": 1759545199,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 82277,
@@ -699,6 +731,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79186,
+      "num": 79186,
+      "word": "别再说纣王扛不住九尾狐了",
+      "onboard_time": 1759546939,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 79146,
+      "num": 79146,
+      "word": "Fly难走的路才不拥挤",
+      "onboard_time": 1759545319,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 77945,
       "num": 77945,
       "word": "范丞丞瘦了",
@@ -723,20 +771,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75161,
+      "num": 75161,
+      "word": "孙颖莎王楚钦希望多配合打比赛",
+      "onboard_time": 1759546579,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 74588,
+      "num": 74588,
+      "word": "果然对得起黄毛两个字",
+      "onboard_time": 1759547119,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73194,
       "num": 73194,
       "word": "台风麦德姆已进入24小时警戒线",
       "onboard_time": 1759540459,
       "rank": 40,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 73109,
-      "num": 73109,
-      "word": "孙颖莎王楚钦希望多配合打比赛",
-      "onboard_time": 1759546579,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 72293,
