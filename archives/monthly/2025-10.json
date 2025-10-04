@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759620122089,
+  "endTime": 1759621008580,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -1659,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 482236,
+      "num": 72306,
+      "word": "肖战34岁生日居家照",
+      "onboard_time": 1759619656,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 481264,
       "num": 213700,
       "word": "方媛疑似否认三胎已出生",
@@ -2523,6 +2531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319035,
+      "num": 752334,
+      "word": "专家称要对高市早苗动向保持警惕",
+      "onboard_time": 1759589962,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 318956,
       "num": 195686,
       "word": "女子中百万大奖后隐瞒男友4个多月",
@@ -2545,14 +2561,6 @@
       "onboard_time": 1759516575,
       "rank": 40,
       "category": "民生新闻,演出"
-    },
-    {
-      "raw_hot": 318300,
-      "num": 752334,
-      "word": "专家称要对高市早苗动向保持警惕",
-      "onboard_time": 1759589962,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 318275,
@@ -3203,14 +3211,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 255433,
-      "num": 64750,
-      "word": "肖战34岁生日居家照",
-      "onboard_time": 1759619656,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 255247,
       "num": 255247,
       "word": "36岁每天运动1小时体态的变化",
@@ -3577,6 +3577,14 @@
       "onboard_time": 1759321041,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230894,
+      "num": 71423,
+      "word": "郭富城回应三胎已出生",
+      "onboard_time": 1759619656,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 230849,
@@ -4059,6 +4067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205141,
+      "num": 69370,
+      "word": "印度老人和35岁女子结婚次日离世",
+      "onboard_time": 1759619597,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 204834,
       "num": 165788,
       "word": "网红赤木刚宪爆改许妍",
@@ -4465,14 +4481,6 @@
       "onboard_time": 1759491321,
       "rank": 24,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 191537,
-      "num": 61018,
-      "word": "印度老人和35岁女子结婚次日离世",
-      "onboard_time": 1759619597,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 191463,
@@ -5827,6 +5835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150153,
+      "num": 70053,
+      "word": "家有儿女还是太写实了",
+      "onboard_time": 1759610053,
+      "rank": 22,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 150068,
       "num": 150068,
       "word": "王源不理解但听话",
@@ -6409,14 +6425,6 @@
       "onboard_time": 1759505122,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139581,
-      "num": 63662,
-      "word": "家有儿女还是太写实了",
-      "onboard_time": 1759610053,
-      "rank": 22,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 139559,
@@ -8155,6 +8163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113544,
+      "num": 69668,
+      "word": "35岁的檀健次",
+      "onboard_time": 1759619957,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 113537,
       "num": 113537,
       "word": "石洵瑶0比3朱芊曦",
@@ -9113,14 +9129,6 @@
       "onboard_time": 1759439174,
       "rank": 48,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 104868,
-      "num": 61470,
-      "word": "郭富城回应三胎已出生",
-      "onboard_time": 1759619656,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 104772,
@@ -12579,6 +12587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62312,
+      "num": 62312,
+      "word": "内娱艺人国外热度榜",
+      "onboard_time": 1759611074,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62181,
       "num": 257063,
       "word": "王曼昱蒯曼女双进四强",
@@ -12649,6 +12665,14 @@
       "onboard_time": 1759388600,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 59963,
+      "num": 59963,
+      "word": "男子买单不付钱趁机摸店员脸",
+      "onboard_time": 1759619837,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59915,
@@ -12801,14 +12825,6 @@
       "onboard_time": 1759275137,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 56390,
-      "num": 56390,
-      "word": "内娱艺人国外热度榜",
-      "onboard_time": 1759611074,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 56357,
@@ -13000,22 +13016,6 @@
       "word": "西贝部分菜品降幅超20%",
       "onboard_time": 1759284738,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 50182,
-      "num": 50182,
-      "word": "35岁的檀健次",
-      "onboard_time": 1759619957,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 49859,
-      "num": 49859,
-      "word": "男子买单不付钱趁机摸店员脸",
-      "onboard_time": 1759619837,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -13235,6 +13235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 41886,
+      "num": 44474,
+      "word": "果然任何动物车坐久了都会憔悴",
+      "onboard_time": 1759618877,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 41803,
       "num": 126008,
       "word": "李淇是无数个青年人中的一个",
@@ -13265,6 +13273,14 @@
       "onboard_time": 1759307181,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40552,
+      "num": 44750,
+      "word": "当你上飞机后发现邻座是小猫",
+      "onboard_time": 1759619778,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 40441,
@@ -13321,14 +13337,6 @@
       "onboard_time": 1759293622,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39069,
-      "num": 44750,
-      "word": "当你上飞机后发现邻座是小猫",
-      "onboard_time": 1759619778,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 39049,
@@ -13467,6 +13475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 36081,
+      "num": 39009,
+      "word": "进门是沈真出门是秦岚",
+      "onboard_time": 1759619538,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35984,
       "num": 42930,
       "word": "何健麒直播",
@@ -13489,6 +13505,14 @@
       "onboard_time": 1759465941,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35605,
+      "num": 49452,
+      "word": "王源宇宙超级无敌大狂欢巡演",
+      "onboard_time": 1759600456,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 35531,
@@ -13643,6 +13667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 31293,
+      "num": 44516,
+      "word": "王曼昱说跟莎莎决赛会全力以赴",
+      "onboard_time": 1759607294,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31227,
       "num": 103410,
       "word": "现场齐喊王楚钦你最棒",
@@ -13691,14 +13723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29690,
-      "num": 49452,
-      "word": "王源宇宙超级无敌大狂欢巡演",
-      "onboard_time": 1759600456,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 29644,
       "num": 116536,
       "word": "国庆节国乒19场比赛",
@@ -13721,14 +13745,6 @@
       "onboard_time": 1759292000,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 29224,
-      "num": 44516,
-      "word": "王曼昱说跟莎莎决赛会全力以赴",
-      "onboard_time": 1759607294,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 29148,
@@ -13761,14 +13777,6 @@
       "onboard_time": 1759370900,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28518,
-      "num": 44474,
-      "word": "果然任何动物车坐久了都会憔悴",
-      "onboard_time": 1759618877,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 28342,
