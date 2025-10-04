@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759609529077,
+  "endTime": 1759610252599,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -515,12 +515,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 12999,
+      "raw_hot": 13787,
       "num": 27776,
       "word": "王曼昱说跟莎莎决赛会全力以赴",
       "onboard_time": 1759607294,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12398,
+      "num": 16561,
+      "word": "景区回应男童坠落栈道已加装护栏",
+      "onboard_time": 1759609815,
+      "rank": 45,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
