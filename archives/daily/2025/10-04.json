@@ -1,7 +1,15 @@
 {
   "startTime": 1759509046450,
-  "endTime": 1759543166992,
+  "endTime": 1759546592158,
   "band_list": [
+    {
+      "raw_hot": 1727513,
+      "num": 158772,
+      "word": "许我耀眼 盗图",
+      "onboard_time": 1759544299,
+      "rank": 10,
+      "category": "剧集"
+    },
     {
       "raw_hot": 1648183,
       "num": 1648183,
@@ -17,6 +25,14 @@
       "onboard_time": 1759539800,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 794647,
+      "num": 153631,
+      "word": "董璇说张维伊烦人难看幼稚",
+      "onboard_time": 1759544299,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 756898,
@@ -51,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 505410,
+      "num": 505410,
+      "word": "29岁智障女子继承遗产后被争相照顾",
+      "onboard_time": 1759544780,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 476336,
       "num": 153537,
       "word": "黄磊首次回应未熟豆角食物中毒争议",
@@ -75,12 +99,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 433902,
+      "num": 433902,
+      "word": "韩国高中生太累就扎针",
+      "onboard_time": 1759541239,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 427604,
       "num": 867365,
       "word": "著名景点张继科落水处",
       "onboard_time": 1759505961,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 411158,
+      "num": 150341,
+      "word": "范丞丞章若楠G社生图状态",
+      "onboard_time": 1759543399,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 404200,
@@ -129,6 +169,14 @@
       "onboard_time": 1759537098,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 280454,
+      "num": 141842,
+      "word": "分手1年复合狗狗的反应",
+      "onboard_time": 1759545500,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 277339,
@@ -203,12 +251,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212579,
-      "num": 175497,
-      "word": "韩国高中生太累就扎针",
-      "onboard_time": 1759541239,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 211078,
+      "num": 140082,
+      "word": "猥亵男暴力袭警致民警视力降至0.25",
+      "onboard_time": 1759544418,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 209017,
@@ -240,6 +288,14 @@
       "word": "关晓彤说独自相处要拥抱变化",
       "onboard_time": 1759496961,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 184226,
+      "num": 137295,
+      "word": "陆毅毕业时为鲍蕾放弃工作offer",
+      "onboard_time": 1759543339,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -275,6 +331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 162088,
+      "num": 162088,
+      "word": "人人人人人人趵突泉人人人人人人",
+      "onboard_time": 1759537398,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157677,
       "num": 118478,
       "word": "微信转账后记得加一个动作",
@@ -291,20 +355,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 147065,
-      "num": 147065,
-      "word": "人人人人人人趵突泉人人人人人人",
-      "onboard_time": 1759537398,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142765,
       "num": 142765,
       "word": "普京称某国准备进行核试验",
       "onboard_time": 1759491442,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 140316,
+      "num": 137978,
+      "word": "鼻子决定了颜值的上限",
+      "onboard_time": 1759533736,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 139154,
@@ -315,16 +379,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137978,
-      "num": 137978,
-      "word": "鼻子决定了颜值的上限",
-      "onboard_time": 1759533736,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 137613,
-      "num": 97762,
+      "num": 116987,
       "word": "吹牛老爹获刑四年两个月",
       "onboard_time": 1759542138,
       "rank": 31,
@@ -337,6 +393,30 @@
       "onboard_time": 1759502182,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128481,
+      "num": 128481,
+      "word": "qko回应自己不是赵磊的初恋",
+      "onboard_time": 1759545979,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128154,
+      "num": 128154,
+      "word": "iG对战T1一票难求",
+      "onboard_time": 1759543640,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 116547,
+      "num": 116547,
+      "word": "歼20首飞高清画面首次公开",
+      "onboard_time": 1759545020,
+      "rank": 24,
+      "category": "军事"
     },
     {
       "raw_hot": 115400,
@@ -363,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110295,
+      "num": 110295,
+      "word": "原来眼睛真的可以用来出气",
+      "onboard_time": 1759542619,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110075,
       "num": 110075,
       "word": "许我耀眼21集预告笑得我发抖",
@@ -377,6 +465,14 @@
       "onboard_time": 1759487242,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 107058,
+      "num": 150929,
+      "word": "宋亚轩有点太了解迪丽热巴了",
+      "onboard_time": 1759542440,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 106296,
@@ -411,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103776,
+      "num": 101211,
+      "word": "孙子推倒女孩爷爷反安慰孙子",
+      "onboard_time": 1759546460,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103331,
       "num": 103331,
       "word": "杨洋蒋梦婕宝黛cp同游",
@@ -425,6 +529,30 @@
       "onboard_time": 1759535058,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101246,
+      "num": 101246,
+      "word": "刘浩存喊粉丝妹妹",
+      "onboard_time": 1759545859,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 97797,
+      "num": 97797,
+      "word": "墨西哥活火山上空疑出现UFO舰队",
+      "onboard_time": 1759545680,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 97338,
+      "num": 97338,
+      "word": "加拿大或将30头白鲸安乐死",
+      "onboard_time": 1759545500,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 96799,
@@ -451,12 +579,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90889,
-      "num": 90889,
-      "word": "原来眼睛真的可以用来出气",
-      "onboard_time": 1759542619,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 92341,
+      "num": 92341,
+      "word": "普京致意中国兄弟姐妹",
+      "onboard_time": 1759542319,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 90276,
@@ -475,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88832,
+      "num": 88832,
+      "word": "惠英红陈都灵合照",
+      "onboard_time": 1759545799,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87823,
       "num": 87823,
       "word": "常吃4类食物让身体发炎",
@@ -483,12 +619,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 86516,
+      "num": 86516,
+      "word": "张小斐巴黎到达图 皮衣尖头鞋",
+      "onboard_time": 1759545920,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 84259,
+      "num": 84259,
+      "word": "孙颖莎回应是否参加亚运会混双项目",
+      "onboard_time": 1759546222,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82527,
       "num": 82527,
       "word": "AAA建材沈总离婚之我要当榜一大哥",
       "onboard_time": 1759500862,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82402,
+      "num": 82402,
+      "word": "焦迈奇生日发博",
+      "onboard_time": 1759545199,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 82277,
@@ -547,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75874,
+      "num": 75874,
+      "word": "王一博从父母身上学到低调",
+      "onboard_time": 1759544058,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 75355,
       "num": 75355,
       "word": "王一博演我i人社交",
@@ -561,6 +729,14 @@
       "onboard_time": 1759540459,
       "rank": 40,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 73109,
+      "num": 73109,
+      "word": "孙颖莎王楚钦希望多配合打比赛",
+      "onboard_time": 1759546579,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 72293,
@@ -585,6 +761,14 @@
       "onboard_time": 1759499421,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 70518,
+      "num": 72870,
+      "word": "山东舰航母若能停台湾就好了",
+      "onboard_time": 1759544780,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 70185,
@@ -627,14 +811,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 65196,
-      "num": 65196,
-      "word": "普京致意中国兄弟姐妹",
-      "onboard_time": 1759542319,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 64603,
       "num": 64603,
       "word": "女子减肥打针后身体烂57个洞",
@@ -649,14 +825,6 @@
       "onboard_time": 1759508480,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 64311,
-      "num": 150929,
-      "word": "宋亚轩有点太了解迪丽热巴了",
-      "onboard_time": 1759542440,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 63960,

@@ -1,0 +1,402 @@
+{
+  "runTime": 1759546592158,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1208616,
+        "num": 1208616,
+        "word": "官方通报29岁男子婚礼当天跳河",
+        "onboard_time": 1759540878,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505410,
+        "num": 505410,
+        "word": "29岁智障女子继承遗产后被争相照顾",
+        "onboard_time": 1759544780,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 433902,
+        "num": 433902,
+        "word": "韩国高中生太累就扎针",
+        "onboard_time": 1759541239,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 315729,
+        "num": 315729,
+        "word": "中高度近视戒掉眼镜6天的状态",
+        "onboard_time": 1759535178,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 767306,
+        "num": 307750,
+        "word": "陈震劳斯莱斯车祸后发博",
+        "onboard_time": 1759539800,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252820,
+        "num": 252820,
+        "word": "女子演唱会丢失11万手镯发帖找回",
+        "onboard_time": 1759516575,
+        "rank": 6,
+        "category": "民生新闻,演出"
+      },
+      {
+        "raw_hot": 217848,
+        "num": 217848,
+        "word": "哈马斯同意释放全部以色列人质",
+        "onboard_time": 1759534277,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162088,
+        "num": 162088,
+        "word": "人人人人人人趵突泉人人人人人人",
+        "onboard_time": 1759537398,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160947,
+        "num": 160947,
+        "word": "36岁每天运动1小时体态的变化",
+        "onboard_time": 1759507220,
+        "rank": 9,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 1727513,
+        "num": 158772,
+        "word": "许我耀眼 盗图",
+        "onboard_time": 1759544299,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 794647,
+        "num": 153631,
+        "word": "董璇说张维伊烦人难看幼稚",
+        "onboard_time": 1759544299,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411158,
+        "num": 150341,
+        "word": "范丞丞章若楠G社生图状态",
+        "onboard_time": 1759543399,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 330260,
+        "num": 148590,
+        "word": "阿沁回应被踢出飞儿乐团",
+        "onboard_time": 1759538960,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280454,
+        "num": 141842,
+        "word": "分手1年复合狗狗的反应",
+        "onboard_time": 1759545500,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211078,
+        "num": 140082,
+        "word": "猥亵男暴力袭警致民警视力降至0.25",
+        "onboard_time": 1759544418,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184226,
+        "num": 137295,
+        "word": "陆毅毕业时为鲍蕾放弃工作offer",
+        "onboard_time": 1759543339,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133472,
+        "num": 133472,
+        "word": "宋亚轩休息时看微博热搜",
+        "onboard_time": 1759537579,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133459,
+        "num": 133459,
+        "word": "肯德基保密54年的炸鸡配方将被公开",
+        "onboard_time": 1759494261,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128481,
+        "num": 128481,
+        "word": "qko回应自己不是赵磊的初恋",
+        "onboard_time": 1759545979,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199909,
+        "num": 128358,
+        "word": "超过500度近视不要做的事",
+        "onboard_time": 1759540459,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 140316,
+        "num": 128290,
+        "word": "鼻子决定了颜值的上限",
+        "onboard_time": 1759533736,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128154,
+        "num": 128154,
+        "word": "iG对战T1一票难求",
+        "onboard_time": 1759543640,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116987,
+        "num": 116987,
+        "word": "吹牛老爹获刑四年两个月",
+        "onboard_time": 1759542138,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116547,
+        "num": 116547,
+        "word": "歼20首飞高清画面首次公开",
+        "onboard_time": 1759545020,
+        "rank": 24,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 110295,
+        "num": 110295,
+        "word": "原来眼睛真的可以用来出气",
+        "onboard_time": 1759542619,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107058,
+        "num": 107058,
+        "word": "宋亚轩有点太了解迪丽热巴了",
+        "onboard_time": 1759542440,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105600,
+        "num": 105600,
+        "word": "王楚钦孙颖莎藏不住的喜悦",
+        "onboard_time": 1759536259,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102858,
+        "num": 102858,
+        "word": "沈皓明 妍妍为什么不接我电话嘞",
+        "onboard_time": 1759515855,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101246,
+        "num": 101246,
+        "word": "刘浩存喊粉丝妹妹",
+        "onboard_time": 1759545859,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103776,
+        "num": 101211,
+        "word": "孙子推倒女孩爷爷反安慰孙子",
+        "onboard_time": 1759546460,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97797,
+        "num": 97797,
+        "word": "墨西哥活火山上空疑出现UFO舰队",
+        "onboard_time": 1759545680,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97338,
+        "num": 97338,
+        "word": "加拿大或将30头白鲸安乐死",
+        "onboard_time": 1759545500,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92341,
+        "num": 92341,
+        "word": "普京致意中国兄弟姐妹",
+        "onboard_time": 1759542319,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88832,
+        "num": 88832,
+        "word": "惠英红陈都灵合照",
+        "onboard_time": 1759545799,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88321,
+        "num": 88321,
+        "word": "顾客为合影将鸡排哥堵在墙角",
+        "onboard_time": 1759506859,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86993,
+        "num": 86993,
+        "word": "车被狗啃到面目全非女车主最新发声",
+        "onboard_time": 1759536259,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86516,
+        "num": 86516,
+        "word": "张小斐巴黎到达图 皮衣尖头鞋",
+        "onboard_time": 1759545920,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 85149,
+        "num": 85149,
+        "word": "沈皓明一家老小争当许妍榜一",
+        "onboard_time": 1759542319,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84259,
+        "num": 84259,
+        "word": "孙颖莎回应是否参加亚运会混双项目",
+        "onboard_time": 1759546222,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83497,
+        "num": 83497,
+        "word": "熬夜玩手机请给自己留盏灯",
+        "onboard_time": 1759534037,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 82402,
+        "num": 82402,
+        "word": "焦迈奇生日发博",
+        "onboard_time": 1759545199,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81338,
+        "num": 81338,
+        "word": "大学生用30天花20万自制特摄短剧",
+        "onboard_time": 1759532235,
+        "rank": 42,
+        "category": "民生新闻,剧集"
+      },
+      {
+        "raw_hot": 78674,
+        "num": 78674,
+        "word": "李一桐就这个腰臀比",
+        "onboard_time": 1759533798,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75874,
+        "num": 75874,
+        "word": "王一博从父母身上学到低调",
+        "onboard_time": 1759544058,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75757,
+        "num": 75757,
+        "word": "唐诡奇谭之九重楼",
+        "onboard_time": 1759535058,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73109,
+        "num": 73109,
+        "word": "孙颖莎王楚钦希望多配合打比赛",
+        "onboard_time": 1759546579,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70518,
+        "num": 72870,
+        "word": "山东舰航母若能停台湾就好了",
+        "onboard_time": 1759544780,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 72778,
+        "num": 72778,
+        "word": "下馆子后特别渴的原因",
+        "onboard_time": 1759501762,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71939,
+        "num": 71939,
+        "word": "巴西蚊子工厂准备投产",
+        "onboard_time": 1759540219,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平曾以这句诗自勉#"
+    }
+  }
+}
