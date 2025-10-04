@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759574345149,
+  "endTime": 1759576718981,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -497,6 +497,14 @@
       "onboard_time": 1759017321,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1284350,
+      "num": 1284350,
+      "word": "晓华理发店已没了爆火时的人潮",
+      "onboard_time": 1759574361,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1280118,
@@ -2171,6 +2179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 600318,
+      "num": 194624,
+      "word": "文咏珊孩子 手握顶级人生剧本",
+      "onboard_time": 1759572319,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 598379,
       "num": 269835,
       "word": "巴黎偶遇迪丽热巴邓为",
@@ -3225,6 +3241,14 @@
       "onboard_time": 1759190540,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 460741,
+      "num": 196380,
+      "word": "周也 不输欧美人的骨相",
+      "onboard_time": 1759572021,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 460447,
@@ -4755,12 +4779,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303298,
+      "num": 184310,
+      "word": "热巴娜扎 新疆双美闪耀巴黎",
+      "onboard_time": 1759574660,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 302499,
       "num": 302499,
       "word": "两名俄士兵在坦克残骸下生存60天",
       "onboard_time": 1759219223,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 301318,
+      "num": 183097,
+      "word": "刘诗诗 富士山等来了她的女主角",
+      "onboard_time": 1759572800,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 301231,
@@ -4873,14 +4913,6 @@
       "onboard_time": 1759190000,
       "rank": 17,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 295515,
-      "num": 196380,
-      "word": "周也 不输欧美人的骨相",
-      "onboard_time": 1759572021,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 295483,
@@ -5097,14 +5129,6 @@
       "onboard_time": 1759414462,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 283998,
-      "num": 185822,
-      "word": "文咏珊孩子 手握顶级人生剧本",
-      "onboard_time": 1759572319,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 283669,
@@ -5451,6 +5475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 261553,
+      "num": 261553,
+      "word": "王曼昱vs申裕斌",
+      "onboard_time": 1759575321,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260994,
       "num": 200899,
       "word": "美人余开机",
@@ -5704,6 +5736,14 @@
       "word": "王楚钦告诉自己身兼三项是幸福的",
       "onboard_time": 1759565001,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 246807,
+      "num": 246807,
+      "word": "陈幸同被罚分",
+      "onboard_time": 1759573580,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -6627,14 +6667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209727,
-      "num": 171233,
-      "word": "陈幸同被罚分",
-      "onboard_time": 1759573580,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209599,
       "num": 209599,
       "word": "蔡徐坤支持毕正明的证明",
@@ -6905,14 +6937,6 @@
       "onboard_time": 1759469001,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201831,
-      "num": 168121,
-      "word": "刘诗诗 富士山等来了她的女主角",
-      "onboard_time": 1759572800,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 201683,
@@ -7315,6 +7339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195061,
+      "num": 195061,
+      "word": "孙颖莎4比2战胜陈幸同",
+      "onboard_time": 1759573820,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195052,
       "num": 195052,
       "word": "国庆反向旅游才是真正的邪修",
@@ -7353,14 +7385,6 @@
       "onboard_time": 1759327702,
       "rank": 19,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 194323,
-      "num": 194323,
-      "word": "孙颖莎4比2战胜陈幸同",
-      "onboard_time": 1759573820,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 194239,
@@ -7777,6 +7801,14 @@
       "onboard_time": 1759038621,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186125,
+      "num": 167135,
+      "word": "第一次见生理性喜欢主人的小猫咪",
+      "onboard_time": 1759574960,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 185998,
@@ -8369,6 +8401,14 @@
       "onboard_time": 1759490362,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175657,
+      "num": 175657,
+      "word": "G6666次列车限时开行",
+      "onboard_time": 1759573880,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175520,
@@ -9145,6 +9185,14 @@
       "onboard_time": 1759505900,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164500,
+      "num": 164500,
+      "word": "台风红色预警发布",
+      "onboard_time": 1759575802,
+      "rank": 23,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 163954,
@@ -11027,6 +11075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140065,
+      "num": 140065,
+      "word": "微信里的钱包一定要上锁",
+      "onboard_time": 1759573521,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140021,
       "num": 140021,
       "word": "太阳vs湖人",
@@ -12331,6 +12387,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 128447,
+      "num": 128447,
+      "word": "陈幸同11比9孙颖莎",
+      "onboard_time": 1759575740,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128429,
       "num": 128429,
       "word": "华山医院将左输尿管手术做成右侧",
@@ -12361,6 +12425,14 @@
       "onboard_time": 1759551561,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128332,
+      "num": 128332,
+      "word": "我分明记得教师是个体面的职业啊",
+      "onboard_time": 1759576161,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 128319,
@@ -13523,6 +13595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118470,
+      "num": 118470,
+      "word": "10月份的广东人还在防台风",
+      "onboard_time": 1759565840,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118466,
       "num": 118466,
       "word": "林高远下个赛场见",
@@ -13665,6 +13745,14 @@
       "onboard_time": 1759477041,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117513,
+      "num": 117513,
+      "word": "0713登陆少年老抽和生抽",
+      "onboard_time": 1759575441,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 117482,
@@ -14176,6 +14264,14 @@
       "word": "王楚钦爱就是陪伴",
       "onboard_time": 1759152682,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 113556,
+      "num": 113556,
+      "word": "孙颖莎进决赛",
+      "onboard_time": 1759576101,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -15091,20 +15187,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107744,
-      "num": 107744,
-      "word": "微信里的钱包一定要上锁",
-      "onboard_time": 1759573521,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 107516,
       "num": 107516,
       "word": "周震南说自己是被迫当R1SE队长的",
       "onboard_time": 1759291521,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107509,
+      "num": 128840,
+      "word": "王圣迪元气系少女",
+      "onboard_time": 1759575380,
+      "rank": 28,
+      "category": "电影,其它"
     },
     {
       "raw_hot": 107445,
@@ -15513,6 +15609,14 @@
       "onboard_time": 1759385420,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105444,
+      "num": 105444,
+      "word": "原来扛事的性格是这样培养出来的",
+      "onboard_time": 1759576401,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 105421,
@@ -16475,6 +16579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100186,
+      "num": 100186,
+      "word": "孙颖莎陈幸同每一局都好接近",
+      "onboard_time": 1759576521,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100180,
       "num": 100180,
       "word": "好害怕这俩接吻毒死对方",
@@ -16489,14 +16601,6 @@
       "onboard_time": 1759041922,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100073,
-      "num": 100073,
-      "word": "10月份的广东人还在防台风",
-      "onboard_time": 1759565840,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100057,
@@ -16905,6 +17009,14 @@
       "onboard_time": 1759132221,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96995,
+      "num": 96995,
+      "word": "苏超",
+      "onboard_time": 1759576280,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 96956,
@@ -17347,6 +17459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94342,
+      "num": 94342,
+      "word": "张艺兴刘宇宁是怎么认识的",
+      "onboard_time": 1759575141,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94332,
       "num": 94332,
       "word": "元气森林音乐节",
@@ -17449,6 +17569,14 @@
       "onboard_time": 1759304060,
       "rank": 21,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 93784,
+      "num": 93784,
+      "word": "王楚钦再解锁空耳名场面",
+      "onboard_time": 1759576041,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 93777,
@@ -18024,14 +18152,6 @@
       "word": "高铁宝妈教娃骂滚家教碎一地",
       "onboard_time": 1759206801,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89310,
-      "num": 89310,
-      "word": "G6666次列车限时开行",
-      "onboard_time": 1759573880,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -22459,6 +22579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 33603,
+      "num": 101888,
+      "word": "陈都灵眼袋",
+      "onboard_time": 1759576581,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33405,
       "num": 118518,
       "word": "特朗普称将与哈佛达成协议",
@@ -22697,6 +22825,14 @@
       "onboard_time": 1759519274,
       "rank": 42,
       "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 28232,
+      "num": 102388,
+      "word": "今年的中秋节为什么这么晚",
+      "onboard_time": 1759575802,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28231,

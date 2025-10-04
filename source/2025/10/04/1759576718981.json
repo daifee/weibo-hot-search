@@ -1,0 +1,410 @@
+{
+  "runTime": 1759576718981,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1284350,
+        "num": 1284350,
+        "word": "晓华理发店已没了爆火时的人潮",
+        "onboard_time": 1759574361,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 779438,
+        "num": 779438,
+        "word": "班味最重的新娘",
+        "onboard_time": 1759563440,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 6775,
+        "num": 570492,
+        "word": "9招教你十一假期美美出片",
+        "onboard_time": 1759490181,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448732,
+        "num": 448732,
+        "word": "陈幸同受灯光干扰叫停比赛",
+        "onboard_time": 1759572559,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261553,
+        "num": 261553,
+        "word": "王曼昱vs申裕斌",
+        "onboard_time": 1759575321,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246807,
+        "num": 246807,
+        "word": "陈幸同被罚分",
+        "onboard_time": 1759573580,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218786,
+        "num": 218786,
+        "word": "107万元油卡丢失快递公司仅赔千元",
+        "onboard_time": 1759569920,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198757,
+        "num": 198757,
+        "word": "高市早苗或成日本首个女首相",
+        "onboard_time": 1759559060,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197077,
+        "num": 197077,
+        "word": "第一批去韩国旅游的受害者出现了",
+        "onboard_time": 1759565361,
+        "rank": 8,
+        "category": "海外新闻,旅游"
+      },
+      {
+        "raw_hot": 195061,
+        "num": 195061,
+        "word": "孙颖莎4比2战胜陈幸同",
+        "onboard_time": 1759573820,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600318,
+        "num": 194624,
+        "word": "文咏珊孩子 手握顶级人生剧本",
+        "onboard_time": 1759572319,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460741,
+        "num": 192370,
+        "word": "周也 不输欧美人的骨相",
+        "onboard_time": 1759572021,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441628,
+        "num": 189391,
+        "word": "乃万瘦到不足42kg",
+        "onboard_time": 1759563860,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312227,
+        "num": 187838,
+        "word": "方媛疑似否认三胎已出生",
+        "onboard_time": 1759571120,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303298,
+        "num": 184310,
+        "word": "热巴娜扎 新疆双美闪耀巴黎",
+        "onboard_time": 1759574660,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183289,
+        "num": 183289,
+        "word": "许我耀眼",
+        "onboard_time": 1759564820,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301318,
+        "num": 183097,
+        "word": "刘诗诗 富士山等来了她的女主角",
+        "onboard_time": 1759572800,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182321,
+        "num": 182321,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1759568840,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175657,
+        "num": 175657,
+        "word": "G6666次列车限时开行",
+        "onboard_time": 1759573880,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170767,
+        "num": 170767,
+        "word": "那英 丢个手机被龚俊蛐蛐一辈子",
+        "onboard_time": 1759562539,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 840887,
+        "num": 169247,
+        "word": "鸡排哥称我人都要窒息了",
+        "onboard_time": 1759566381,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370809,
+        "num": 167322,
+        "word": "李湘打码掌纹",
+        "onboard_time": 1759572920,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186125,
+        "num": 167135,
+        "word": "第一次见生理性喜欢主人的小猫咪",
+        "onboard_time": 1759574960,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164500,
+        "num": 164500,
+        "word": "台风红色预警发布",
+        "onboard_time": 1759575802,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 144050,
+        "num": 144050,
+        "word": "央视中秋晚会首波阵容",
+        "onboard_time": 1759551921,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140065,
+        "num": 140065,
+        "word": "微信里的钱包一定要上锁",
+        "onboard_time": 1759573521,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139087,
+        "num": 139087,
+        "word": "AI女演员出道遭抵制",
+        "onboard_time": 1759570400,
+        "rank": 26,
+        "category": "艺人,海外新闻"
+      },
+      {
+        "raw_hot": 135442,
+        "num": 135442,
+        "word": "日本人为了让你少点一碗面有多拼",
+        "onboard_time": 1759572861,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107509,
+        "num": 128840,
+        "word": "王圣迪元气系少女",
+        "onboard_time": 1759575380,
+        "rank": 28,
+        "category": "电影,其它"
+      },
+      {
+        "raw_hot": 128521,
+        "num": 128521,
+        "word": "郭晋安再回应父女恋绯闻",
+        "onboard_time": 1759571060,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128447,
+        "num": 128447,
+        "word": "陈幸同11比9孙颖莎",
+        "onboard_time": 1759575740,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128332,
+        "num": 128332,
+        "word": "我分明记得教师是个体面的职业啊",
+        "onboard_time": 1759576161,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121220,
+        "num": 121220,
+        "word": "许我耀眼39.2%",
+        "onboard_time": 1759569259,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118470,
+        "num": 118470,
+        "word": "10月份的广东人还在防台风",
+        "onboard_time": 1759565840,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117513,
+        "num": 117513,
+        "word": "0713登陆少年老抽和生抽",
+        "onboard_time": 1759575441,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113556,
+        "num": 113556,
+        "word": "孙颖莎进决赛",
+        "onboard_time": 1759576101,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109230,
+        "num": 109230,
+        "word": "女性向游戏",
+        "onboard_time": 1759564099,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105444,
+        "num": 105444,
+        "word": "原来扛事的性格是这样培养出来的",
+        "onboard_time": 1759576401,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28232,
+        "num": 102388,
+        "word": "今年的中秋节为什么这么晚",
+        "onboard_time": 1759575802,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33603,
+        "num": 101888,
+        "word": "陈都灵眼袋",
+        "onboard_time": 1759576581,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101786,
+        "num": 101786,
+        "word": "人人人人北京人人人人",
+        "onboard_time": 1759573221,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100186,
+        "num": 100186,
+        "word": "孙颖莎陈幸同每一局都好接近",
+        "onboard_time": 1759576521,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96995,
+        "num": 96995,
+        "word": "苏超",
+        "onboard_time": 1759576280,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95916,
+        "num": 95916,
+        "word": "东北女生远嫁台湾700平的家",
+        "onboard_time": 1759565120,
+        "rank": 43,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 94342,
+        "num": 94342,
+        "word": "张艺兴刘宇宁是怎么认识的",
+        "onboard_time": 1759575141,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93784,
+        "num": 93784,
+        "word": "王楚钦再解锁空耳名场面",
+        "onboard_time": 1759576041,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93698,
+        "num": 93698,
+        "word": "不建议你频繁用酒精擦手机的原因",
+        "onboard_time": 1759560740,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 92551,
+        "num": 92551,
+        "word": "石破茂回应高市早苗当选",
+        "onboard_time": 1759572559,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87776,
+        "num": 87776,
+        "word": "小酒窝跳柠檬叉",
+        "onboard_time": 1759569501,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33350,
+        "num": 86816,
+        "word": "巴黎世家新设计师首秀",
+        "onboard_time": 1759572200,
+        "rank": 49,
+        "category": "时尚,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#爱国情在血脉中流淌#"
+    }
+  }
+}
