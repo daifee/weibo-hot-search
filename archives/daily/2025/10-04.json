@@ -1,6 +1,6 @@
 {
   "startTime": 1759509046450,
-  "endTime": 1759591353532,
+  "endTime": 1759592189750,
   "band_list": [
     {
       "raw_hot": 3967870,
@@ -51,6 +51,14 @@
       "category": "辟谣/通报,汽车"
     },
     {
+      "raw_hot": 1434510,
+      "num": 176872,
+      "word": "戚薇 G社好离谱",
+      "onboard_time": 1759588342,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1401285,
       "num": 722845,
       "word": "陈震妻子回应",
@@ -75,12 +83,12 @@
       "category": "汽车,网红"
     },
     {
-      "raw_hot": 1222348,
-      "num": 176872,
-      "word": "戚薇 G社好离谱",
-      "onboard_time": 1759588342,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 1089802,
+      "num": 316963,
+      "word": "华晨宇 要爆了",
+      "onboard_time": 1759586903,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 1031007,
@@ -105,14 +113,6 @@
       "onboard_time": 1759539800,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 954354,
-      "num": 316963,
-      "word": "华晨宇 要爆了",
-      "onboard_time": 1759586903,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 950465,
@@ -547,6 +547,30 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 378989,
+      "num": 378989,
+      "word": "3岁男童从景区栈道旁缝隙坠落",
+      "onboard_time": 1759585404,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 371217,
+      "num": 166726,
+      "word": "戚薇的脸",
+      "onboard_time": 1759590682,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 363618,
+      "num": 241666,
+      "word": "广州一市民家中惊现鼠条",
+      "onboard_time": 1759587561,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 354564,
       "num": 354564,
       "word": "高市早苗或成日本首个女首相",
@@ -587,28 +611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 336357,
-      "num": 336357,
-      "word": "3岁男童从景区栈道旁缝隙坠落",
-      "onboard_time": 1759585404,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 333380,
       "num": 333380,
       "word": "小米公司发言人回应",
       "onboard_time": 1759502424,
       "rank": 1,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 324201,
-      "num": 241666,
-      "word": "广州一市民家中惊现鼠条",
-      "onboard_time": 1759587561,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 321866,
@@ -867,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 243538,
+      "num": 158753,
+      "word": "成都漫展小伙cos辱华角色被扯掉假发",
+      "onboard_time": 1759590322,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 238480,
       "num": 153516,
       "word": "超过500度近视不要做的事",
@@ -961,14 +977,6 @@
       "onboard_time": 1759570400,
       "rank": 31,
       "category": "艺人,海外新闻"
-    },
-    {
-      "raw_hot": 210049,
-      "num": 166726,
-      "word": "戚薇的脸",
-      "onboard_time": 1759590682,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 209017,
@@ -1179,14 +1187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 178156,
-      "num": 158753,
-      "word": "成都漫展小伙cos辱华角色被扯掉假发",
-      "onboard_time": 1759590322,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177935,
       "num": 119537,
       "word": "许我耀眼热度",
@@ -1337,6 +1337,14 @@
       "onboard_time": 1759566320,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162286,
+      "num": 162286,
+      "word": "他赢下中国奥运首金后到处借裤子",
+      "onboard_time": 1759587861,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 159423,
@@ -1611,14 +1619,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 137331,
-      "num": 137331,
-      "word": "他赢下中国奥运首金后到处借裤子",
-      "onboard_time": 1759587861,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135601,
       "num": 135601,
       "word": "二环十三郎",
@@ -1819,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123318,
+      "num": 123318,
+      "word": "黄誉博张峻豪怎么认识的",
+      "onboard_time": 1759591225,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123078,
       "num": 123078,
       "word": "谁看出来86版西游记换人了",
@@ -1945,14 +1953,6 @@
       "onboard_time": 1759575441,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117324,
-      "num": 117324,
-      "word": "黄誉博张峻豪怎么认识的",
-      "onboard_time": 1759591225,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 116895,
@@ -2267,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108496,
+      "num": 108496,
+      "word": "丁程鑫哥友力这一块",
+      "onboard_time": 1759591762,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108355,
       "num": 136046,
       "word": "疑似社畜拼好饭中毒死前的终极幻想",
@@ -2403,6 +2411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105176,
+      "num": 105176,
+      "word": "鹿晗答应开签售",
+      "onboard_time": 1759588823,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 104795,
       "num": 104795,
       "word": "肖战射雕英雄传实时收视率破2",
@@ -2433,6 +2449,14 @@
       "onboard_time": 1759566081,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104460,
+      "num": 104460,
+      "word": "满级号",
+      "onboard_time": 1759589183,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 103964,
@@ -2489,14 +2513,6 @@
       "onboard_time": 1759575141,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102522,
-      "num": 102522,
-      "word": "鹿晗答应开签售",
-      "onboard_time": 1759588823,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 102262,
@@ -2601,6 +2617,14 @@
       "onboard_time": 1759574062,
       "rank": 43,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 101122,
+      "num": 101122,
+      "word": "陈飞宇直播",
+      "onboard_time": 1759591821,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 100574,
@@ -2819,14 +2843,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 93926,
-      "num": 93926,
-      "word": "满级号",
-      "onboard_time": 1759589183,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 93784,
       "num": 93784,
       "word": "王楚钦再解锁空耳名场面",
@@ -2907,6 +2923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 91420,
+      "num": 91420,
+      "word": "孙颖莎真7个",
+      "onboard_time": 1759589122,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91181,
       "num": 91181,
       "word": "8种食物最好带皮吃",
@@ -2945,6 +2969,14 @@
       "onboard_time": 1759537880,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89786,
+      "num": 165161,
+      "word": "日本5年换4相",
+      "onboard_time": 1759590322,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89171,
@@ -3267,6 +3299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 76466,
+      "num": 76466,
+      "word": "专家称要对高市早苗动向保持警惕",
+      "onboard_time": 1759589962,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 75874,
       "num": 75874,
       "word": "王一博从父母身上学到低调",
@@ -3513,14 +3553,6 @@
       "onboard_time": 1759501882,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 54868,
-      "num": 165161,
-      "word": "日本5年换4相",
-      "onboard_time": 1759590322,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 53966,

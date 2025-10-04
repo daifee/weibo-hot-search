@@ -1,6 +1,6 @@
 {
   "startTime": 1758990479623,
-  "endTime": 1759591353532,
+  "endTime": 1759592189750,
   "band_list": [
     {
       "raw_hot": 7918027,
@@ -315,6 +315,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1434510,
+      "num": 176872,
+      "word": "戚薇 G社好离谱",
+      "onboard_time": 1759588342,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1427891,
       "num": 439263,
       "word": "向佐回应向家破产",
@@ -531,14 +539,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1222348,
-      "num": 176872,
-      "word": "戚薇 G社好离谱",
-      "onboard_time": 1759588342,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1214864,
       "num": 268897,
       "word": "董璇妥协",
@@ -673,6 +673,14 @@
       "onboard_time": 1759032981,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1089802,
+      "num": 316963,
+      "word": "华晨宇 要爆了",
+      "onboard_time": 1759586903,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 1060024,
@@ -961,14 +969,6 @@
       "onboard_time": 1759161381,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 954354,
-      "num": 316963,
-      "word": "华晨宇 要爆了",
-      "onboard_time": 1759586903,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 950465,
@@ -4123,6 +4123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 378989,
+      "num": 378989,
+      "word": "3岁男童从景区栈道旁缝隙坠落",
+      "onboard_time": 1759585404,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 378133,
       "num": 247502,
       "word": "林诗栋赛后生气了",
@@ -4209,6 +4217,14 @@
       "onboard_time": 1759450999,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 371217,
+      "num": 166726,
+      "word": "戚薇的脸",
+      "onboard_time": 1759590682,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 370885,
@@ -4328,6 +4344,14 @@
       "word": "男子灌面汤呛死妻子案家属最新发声",
       "onboard_time": 1759467500,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 363618,
+      "num": 241666,
+      "word": "广州一市民家中惊现鼠条",
+      "onboard_time": 1759587561,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -4595,14 +4619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 336357,
-      "num": 336357,
-      "word": "3岁男童从景区栈道旁缝隙坠落",
-      "onboard_time": 1759585404,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 336296,
       "num": 176721,
       "word": "李纯说马頔哪哪都是加分项",
@@ -4697,14 +4713,6 @@
       "onboard_time": 1759223121,
       "rank": 17,
       "category": "情感,运动健身"
-    },
-    {
-      "raw_hot": 324201,
-      "num": 241666,
-      "word": "广州一市民家中惊现鼠条",
-      "onboard_time": 1759587561,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 323084,
@@ -6003,6 +6011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 243538,
+      "num": 158753,
+      "word": "成都漫展小伙cos辱华角色被扯掉假发",
+      "onboard_time": 1759590322,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243158,
       "num": 187864,
       "word": "心动的信号8",
@@ -6873,14 +6889,6 @@
       "onboard_time": 1759065084,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210049,
-      "num": 166726,
-      "word": "戚薇的脸",
-      "onboard_time": 1759590682,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 209599,
@@ -8595,14 +8603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178156,
-      "num": 158753,
-      "word": "成都漫展小伙cos辱华角色被扯掉假发",
-      "onboard_time": 1759590322,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 178098,
       "num": 201871,
       "word": "美国人将很快感受到政府停摆之痛",
@@ -9601,6 +9601,14 @@
       "onboard_time": 1759329562,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162286,
+      "num": 162286,
+      "word": "他赢下中国奥运首金后到处借裤子",
+      "onboard_time": 1759587861,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 161932,
@@ -11747,14 +11755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 137331,
-      "num": 137331,
-      "word": "他赢下中国奥运首金后到处借裤子",
-      "onboard_time": 1759587861,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137127,
       "num": 105172,
       "word": "国庆七天赚到一个月生活费",
@@ -13467,6 +13467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123318,
+      "num": 123318,
+      "word": "黄誉博张峻豪怎么认识的",
+      "onboard_time": 1759591225,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123297,
       "num": 123297,
       "word": "诚C说自己是魔童",
@@ -14313,14 +14321,6 @@
       "onboard_time": 1759217061,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 117324,
-      "num": 117324,
-      "word": "黄誉博张峻豪怎么认识的",
-      "onboard_time": 1759591225,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 117269,
@@ -15691,6 +15691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108496,
+      "num": 108496,
+      "word": "丁程鑫哥友力这一块",
+      "onboard_time": 1759591762,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108466,
       "num": 123150,
       "word": "请时代少年团像请了观众群演",
@@ -16331,6 +16339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105176,
+      "num": 105176,
+      "word": "鹿晗答应开签售",
+      "onboard_time": 1759588823,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 105141,
       "num": 105141,
       "word": "张桂源跳了少年美",
@@ -16521,6 +16537,14 @@
       "onboard_time": 1759405102,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 104460,
+      "num": 104460,
+      "word": "满级号",
+      "onboard_time": 1759589183,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 104407,
@@ -16809,14 +16833,6 @@
       "onboard_time": 1759024701,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102522,
-      "num": 102522,
-      "word": "鹿晗答应开签售",
-      "onboard_time": 1759588823,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 102521,
@@ -17161,6 +17177,14 @@
       "onboard_time": 1759574062,
       "rank": 43,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 101122,
+      "num": 101122,
+      "word": "陈飞宇直播",
+      "onboard_time": 1759591821,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 101109,
@@ -18291,14 +18315,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 93926,
-      "num": 93926,
-      "word": "满级号",
-      "onboard_time": 1759589183,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 93784,
       "num": 93784,
       "word": "王楚钦再解锁空耳名场面",
@@ -18651,6 +18667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91420,
+      "num": 91420,
+      "word": "孙颖莎真7个",
+      "onboard_time": 1759589122,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91194,
       "num": 91194,
       "word": "胡歌章子怡秀场同框",
@@ -18825,6 +18849,14 @@
       "onboard_time": 1759210280,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89786,
+      "num": 165161,
+      "word": "日本5年换4相",
+      "onboard_time": 1759590322,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89754,
@@ -20547,6 +20579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 76466,
+      "num": 76466,
+      "word": "专家称要对高市早苗动向保持警惕",
+      "onboard_time": 1759589962,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 76373,
       "num": 143867,
       "word": "特朗普罕见向内塔尼亚胡公开施压",
@@ -22185,14 +22225,6 @@
       "onboard_time": 1759388960,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 54868,
-      "num": 165161,
-      "word": "日本5年换4相",
-      "onboard_time": 1759590322,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 54357,
