@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/05 03:18:36
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/05 03:36:27
 </p>
 </blockquote>
 <p>
@@ -382,13 +382,19 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E6%96%B0%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A6%96%E7%A7%80%23" target="weibo">
-巴黎世家新设计师首秀（热度：17778）
+巴黎世家新设计师首秀（热度：18231）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%20%E5%8D%B1%E9%99%A9%E8%BF%B7%E4%BA%BA%E7%9A%84%E9%83%BD%E5%B8%82%E5%A5%B3%E9%83%8E%23" target="weibo">
-张小斐 危险迷人的都市女郎（热度：16208）
+张小斐 危险迷人的都市女郎（热度：16383）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E8%A7%92%E8%89%B2%E7%90%86%E8%A7%A3%23" target="weibo">
+檀健次角色理解（热度：13882）
 </a>
 </li>
 

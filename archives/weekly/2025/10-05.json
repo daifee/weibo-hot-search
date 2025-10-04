@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759605516813,
+  "endTime": 1759606587710,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -491,7 +491,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 17778,
+      "raw_hot": 18231,
       "num": 25323,
       "word": "巴黎世家新设计师首秀",
       "onboard_time": 1759572200,
@@ -499,12 +499,20 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 16208,
+      "raw_hot": 16383,
       "num": 25313,
       "word": "张小斐 危险迷人的都市女郎",
       "onboard_time": 1759600815,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13882,
+      "num": 25231,
+      "word": "檀健次角色理解",
+      "onboard_time": 1759603514,
+      "rank": 47,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
