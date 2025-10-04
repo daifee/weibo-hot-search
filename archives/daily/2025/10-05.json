@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759598403976,
+  "endTime": 1759599391812,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 104443,
-      "num": 107543,
+      "num": 109038,
       "word": "满级号",
       "onboard_time": 1759589183,
       "rank": 24,
@@ -225,6 +225,14 @@
       "onboard_time": 1759589962,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 94241,
+      "num": 94241,
+      "word": "张晚意问还能演正剧吗",
+      "onboard_time": 1759595780,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 89927,
@@ -257,14 +265,6 @@
       "onboard_time": 1759589662,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 85357,
-      "num": 93203,
-      "word": "张晚意问还能演正剧吗",
-      "onboard_time": 1759595780,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 85192,
@@ -403,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53427,
+      "num": 87887,
+      "word": "柬警方解救一被绑架的19岁中国人",
+      "onboard_time": 1759596438,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52097,
       "num": 93112,
       "word": "陈飞宇直播",
@@ -419,8 +427,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 45308,
-      "num": 85297,
+      "raw_hot": 49525,
+      "num": 87778,
       "word": "何超莲 黑蕾丝",
       "onboard_time": 1759587501,
       "rank": 37,
@@ -428,23 +436,15 @@
     },
     {
       "raw_hot": 44730,
-      "num": 85288,
+      "num": 87576,
       "word": "第一次见生理性喜欢主人的小猫咪",
       "onboard_time": 1759574960,
       "rank": 38,
       "category": "情感"
     },
     {
-      "raw_hot": 40548,
-      "num": 85286,
-      "word": "柬警方解救一被绑架的19岁中国人",
-      "onboard_time": 1759596438,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 39043,
-      "num": 85262,
+      "num": 87285,
       "word": "震耳欲聋",
       "onboard_time": 1759588702,
       "rank": 44,
