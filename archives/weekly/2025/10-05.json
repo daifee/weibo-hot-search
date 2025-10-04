@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759617469255,
+  "endTime": 1759620122089,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -75,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318300,
+      "num": 752334,
+      "word": "专家称要对高市早苗动向保持警惕",
+      "onboard_time": 1759589962,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 311931,
       "num": 116376,
       "word": "檀健次演技",
@@ -97,6 +105,14 @@
       "onboard_time": 1759584022,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255433,
+      "num": 64750,
+      "word": "肖战34岁生日居家照",
+      "onboard_time": 1759619656,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 229036,
@@ -131,12 +147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203376,
-      "num": 460474,
-      "word": "专家称要对高市早苗动向保持警惕",
-      "onboard_time": 1759589962,
-      "rank": 27,
-      "category": "国际时政"
+      "raw_hot": 191537,
+      "num": 61018,
+      "word": "印度老人和35岁女子结婚次日离世",
+      "onboard_time": 1759619597,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 191362,
@@ -187,12 +203,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118490,
+      "raw_hot": 139581,
+      "num": 63662,
+      "word": "家有儿女还是太写实了",
+      "onboard_time": 1759610053,
+      "rank": 22,
+      "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 136281,
       "num": 94241,
       "word": "张晚意问还能演正剧吗",
       "onboard_time": 1759595780,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121879,
+      "num": 121879,
+      "word": "景区回应男童坠落栈道已加装护栏",
+      "onboard_time": 1759609815,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118266,
@@ -216,6 +248,14 @@
       "word": "热巴娜扎 新疆双美闪耀巴黎",
       "onboard_time": 1759574660,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 104868,
+      "num": 61470,
+      "word": "郭富城回应三胎已出生",
+      "onboard_time": 1759619656,
+      "rank": 19,
       "category": "艺人"
     },
     {
@@ -249,14 +289,6 @@
       "onboard_time": 1759592361,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 89721,
-      "num": 51922,
-      "word": "家有儿女还是太写实了",
-      "onboard_time": 1759610053,
-      "rank": 22,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 88549,
@@ -371,6 +403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 60180,
+      "num": 87576,
+      "word": "第一次见生理性喜欢主人的小猫咪",
+      "onboard_time": 1759574960,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 59624,
       "num": 93242,
       "word": "浏阳烟花与浪漫撞了满怀",
@@ -403,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56390,
+      "num": 56390,
+      "word": "内娱艺人国外热度榜",
+      "onboard_time": 1759611074,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55940,
       "num": 64031,
       "word": "孙颖莎真7个",
@@ -417,6 +465,14 @@
       "onboard_time": 1759586781,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52753,
+      "num": 87778,
+      "word": "何超莲 黑蕾丝",
+      "onboard_time": 1759587501,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 52097,
@@ -435,28 +491,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49525,
-      "num": 87778,
-      "word": "何超莲 黑蕾丝",
-      "onboard_time": 1759587501,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 50182,
+      "num": 50182,
+      "word": "35岁的檀健次",
+      "onboard_time": 1759619957,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 44730,
-      "num": 87576,
-      "word": "第一次见生理性喜欢主人的小猫咪",
-      "onboard_time": 1759574960,
-      "rank": 38,
-      "category": "情感"
+      "raw_hot": 49859,
+      "num": 49859,
+      "word": "男子买单不付钱趁机摸店员脸",
+      "onboard_time": 1759619837,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 41955,
-      "num": 41955,
-      "word": "内娱艺人国外热度榜",
-      "onboard_time": 1759611074,
+      "raw_hot": 43255,
+      "num": 45212,
+      "word": "陈俊崧回应不敌王楚钦林诗栋",
+      "onboard_time": 1759619778,
       "rank": 30,
-      "category": "艺人"
+      "category": "体育"
+    },
+    {
+      "raw_hot": 39069,
+      "num": 44750,
+      "word": "当你上飞机后发现邻座是小猫",
+      "onboard_time": 1759619778,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 39043,
@@ -467,14 +531,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 36475,
-      "num": 53884,
-      "word": "景区回应男童坠落栈道已加装护栏",
-      "onboard_time": 1759609815,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33091,
       "num": 33091,
       "word": "肖战工作室长文",
@@ -483,12 +539,44 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28066,
+      "raw_hot": 30589,
+      "num": 44626,
+      "word": "9月A股市场成交额刷新历史纪录",
+      "onboard_time": 1759619898,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 29808,
+      "num": 44587,
+      "word": "陈俊菘无缘男单四强",
+      "onboard_time": 1759618335,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29690,
       "num": 49452,
       "word": "王源宇宙超级无敌大狂欢巡演",
       "onboard_time": 1759600456,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29224,
+      "num": 44516,
+      "word": "王曼昱说跟莎莎决赛会全力以赴",
+      "onboard_time": 1759607294,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28518,
+      "num": 44474,
+      "word": "果然任何动物车坐久了都会憔悴",
+      "onboard_time": 1759618877,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 27544,
@@ -521,14 +609,6 @@
       "onboard_time": 1759572200,
       "rank": 40,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 17823,
-      "num": 39500,
-      "word": "王曼昱说跟莎莎决赛会全力以赴",
-      "onboard_time": 1759607294,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 16383,

@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759617469255,
+  "endTime": 1759620122089,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -2547,6 +2547,14 @@
       "category": "民生新闻,演出"
     },
     {
+      "raw_hot": 318300,
+      "num": 752334,
+      "word": "专家称要对高市早苗动向保持警惕",
+      "onboard_time": 1759589962,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 318275,
       "num": 318275,
       "word": "记录加沙的摄影师被炸死",
@@ -3193,6 +3201,14 @@
       "onboard_time": 1759560740,
       "rank": 20,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 255433,
+      "num": 64750,
+      "word": "肖战34岁生日居家照",
+      "onboard_time": 1759619656,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 255247,
@@ -4099,14 +4115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203376,
-      "num": 460474,
-      "word": "专家称要对高市早苗动向保持警惕",
-      "onboard_time": 1759589962,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 202662,
       "num": 202662,
       "word": "龚俊田曦薇将演攻玉",
@@ -4457,6 +4465,14 @@
       "onboard_time": 1759491321,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 191537,
+      "num": 61018,
+      "word": "印度老人和35岁女子结婚次日离世",
+      "onboard_time": 1759619597,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 191463,
@@ -6395,6 +6411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139581,
+      "num": 63662,
+      "word": "家有儿女还是太写实了",
+      "onboard_time": 1759610053,
+      "rank": 22,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 139559,
       "num": 139559,
       "word": "薛之谦音乐节",
@@ -6593,6 +6617,14 @@
       "onboard_time": 1759330820,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136281,
+      "num": 94241,
+      "word": "张晚意问还能演正剧吗",
+      "onboard_time": 1759595780,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 136217,
@@ -7451,6 +7483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121879,
+      "num": 121879,
+      "word": "景区回应男童坠落栈道已加装护栏",
+      "onboard_time": 1759609815,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121698,
       "num": 121698,
       "word": "王曼昱vs巴特拉",
@@ -7672,14 +7712,6 @@
       "word": "贺峻霖录制期间抽空赶作业",
       "onboard_time": 1759407982,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 118490,
-      "num": 94241,
-      "word": "张晚意问还能演正剧吗",
-      "onboard_time": 1759595780,
-      "rank": 41,
       "category": "综艺"
     },
     {
@@ -9081,6 +9113,14 @@
       "onboard_time": 1759439174,
       "rank": 48,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 104868,
+      "num": 61470,
+      "word": "郭富城回应三胎已出生",
+      "onboard_time": 1759619656,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 104772,
@@ -10633,14 +10673,6 @@
       "onboard_time": 1759289780,
       "rank": 43,
       "category": "游戏,动漫"
-    },
-    {
-      "raw_hot": 89721,
-      "num": 51922,
-      "word": "家有儿女还是太写实了",
-      "onboard_time": 1759610053,
-      "rank": 22,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 89679,
@@ -12771,6 +12803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 56390,
+      "num": 56390,
+      "word": "内娱艺人国外热度榜",
+      "onboard_time": 1759611074,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56357,
       "num": 197237,
       "word": "在旅游中才懂历史真的可以触摸",
@@ -12963,6 +13003,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50182,
+      "num": 50182,
+      "word": "35岁的檀健次",
+      "onboard_time": 1759619957,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 49859,
+      "num": 49859,
+      "word": "男子买单不付钱趁机摸店员脸",
+      "onboard_time": 1759619837,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49082,
       "num": 144172,
       "word": "李晓最后开门的钥匙是父亲的",
@@ -13147,6 +13203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43255,
+      "num": 45212,
+      "word": "陈俊崧回应不敌王楚钦林诗栋",
+      "onboard_time": 1759619778,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43221,
       "num": 43221,
       "word": "荣昌政府食堂又被近三千游客挤瘫了",
@@ -13169,14 +13233,6 @@
       "onboard_time": 1759360997,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 41955,
-      "num": 41955,
-      "word": "内娱艺人国外热度榜",
-      "onboard_time": 1759611074,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 41803,
@@ -13265,6 +13321,14 @@
       "onboard_time": 1759293622,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39069,
+      "num": 44750,
+      "word": "当你上飞机后发现邻座是小猫",
+      "onboard_time": 1759619778,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 39049,
@@ -13360,14 +13424,6 @@
       "word": "主人回应金毛拦婚车收200元红包",
       "onboard_time": 1759569860,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36475,
-      "num": 53884,
-      "word": "景区回应男童坠落栈道已加装护栏",
-      "onboard_time": 1759609815,
-      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -13611,12 +13667,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30589,
+      "num": 44626,
+      "word": "9月A股市场成交额刷新历史纪录",
+      "onboard_time": 1759619898,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 30570,
       "num": 216217,
       "word": "技能安慕希要爆了",
       "onboard_time": 1759500321,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29808,
+      "num": 44587,
+      "word": "陈俊菘无缘男单四强",
+      "onboard_time": 1759618335,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29690,
+      "num": 49452,
+      "word": "王源宇宙超级无敌大狂欢巡演",
+      "onboard_time": 1759600456,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 29644,
@@ -13641,6 +13721,14 @@
       "onboard_time": 1759292000,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29224,
+      "num": 44516,
+      "word": "王曼昱说跟莎莎决赛会全力以赴",
+      "onboard_time": 1759607294,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 29148,
@@ -13675,6 +13763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28518,
+      "num": 44474,
+      "word": "果然任何动物车坐久了都会憔悴",
+      "onboard_time": 1759618877,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 28342,
       "num": 38768,
       "word": "老板还没意识到这是他最清闲的时刻",
@@ -13689,14 +13785,6 @@
       "onboard_time": 1759575802,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28066,
-      "num": 49452,
-      "word": "王源宇宙超级无敌大狂欢巡演",
-      "onboard_time": 1759600456,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 27905,
@@ -13961,14 +14049,6 @@
       "onboard_time": 1759421120,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17823,
-      "num": 39500,
-      "word": "王曼昱说跟莎莎决赛会全力以赴",
-      "onboard_time": 1759607294,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 17814,
