@@ -1,0 +1,410 @@
+{
+  "runTime": 1759633976868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 731767,
+        "num": 1117082,
+        "word": "高市早苗否认南京大屠杀",
+        "onboard_time": 1759632139,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 719941,
+        "num": 719941,
+        "word": "广东转移超15万人",
+        "onboard_time": 1759627758,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19100,
+        "num": 553491,
+        "word": "星空有约",
+        "onboard_time": 1759583722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 768146,
+        "num": 540318,
+        "word": "28岁戴3个月牙套的后遗症",
+        "onboard_time": 1759628480,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 491596,
+        "num": 491596,
+        "word": "三亚大悦城致歉",
+        "onboard_time": 1759625959,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332613,
+        "num": 332613,
+        "word": "歼35机库首公开",
+        "onboard_time": 1759628599,
+        "rank": 5,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 246643,
+        "num": 246643,
+        "word": "马来西亚游客感叹中国人好幸福",
+        "onboard_time": 1759626139,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227907,
+        "num": 227907,
+        "word": "旬阳警方辟谣新郎母亲跳江",
+        "onboard_time": 1759628480,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200577,
+        "num": 200577,
+        "word": "晓华理发店已没了爆火时的人潮",
+        "onboard_time": 1759574361,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195399,
+        "num": 195399,
+        "word": "乌克兰制裁俄罗斯",
+        "onboard_time": 1759625538,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1008326,
+        "num": 195315,
+        "word": "王祖蓝因父亲去世把46岁当作生命的坎",
+        "onboard_time": 1759632499,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 875218,
+        "num": 194043,
+        "word": "肖战给自己做了个开水壶蛋糕",
+        "onboard_time": 1759630038,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496730,
+        "num": 191815,
+        "word": "戚薇 G社好离谱",
+        "onboard_time": 1759588342,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472942,
+        "num": 190716,
+        "word": "大家不睡觉陪张雅琪一起剪视频",
+        "onboard_time": 1759631181,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376960,
+        "num": 189662,
+        "word": "带着饥饿感入睡脂肪燃烧的全过程",
+        "onboard_time": 1759626139,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 275394,
+        "num": 188174,
+        "word": "家猫突然扑向主人挠20多道伤口",
+        "onboard_time": 1759626139,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467691,
+        "num": 188037,
+        "word": "肖战34岁生日居家照",
+        "onboard_time": 1759619656,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246625,
+        "num": 186788,
+        "word": "郭富城回应三胎已出生",
+        "onboard_time": 1759619656,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224550,
+        "num": 185292,
+        "word": "赵磊首次回应26岁官宣结婚",
+        "onboard_time": 1759632623,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200591,
+        "num": 184346,
+        "word": "hi6收视率排名第一",
+        "onboard_time": 1759621337,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183328,
+        "num": 183328,
+        "word": "预制中秋出游朋友圈",
+        "onboard_time": 1759633279,
+        "rank": 20,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 169774,
+        "num": 169774,
+        "word": "王源老干部看手机",
+        "onboard_time": 1759632799,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 164785,
+        "num": 164785,
+        "word": "陆毅不敢吃鲍蕾做的饭",
+        "onboard_time": 1759632739,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142483,
+        "num": 142483,
+        "word": "成都漫展小伙cos辱华角色被扯掉假发",
+        "onboard_time": 1759590322,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39971,
+        "num": 134318,
+        "word": "台风麦德姆登陆倒计时",
+        "onboard_time": 1759633699,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65454,
+        "num": 133684,
+        "word": "三亚海事局发布涉客船舶禁航通知",
+        "onboard_time": 1759632499,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133499,
+        "num": 133499,
+        "word": "印度老人和35岁女子结婚次日离世",
+        "onboard_time": 1759619597,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133442,
+        "num": 133442,
+        "word": "60岁老人离退休仅23天跳水救人溺亡",
+        "onboard_time": 1759622478,
+        "rank": 27,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 133299,
+        "num": 133299,
+        "word": "张晚意问还能演正剧吗",
+        "onboard_time": 1759595780,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122604,
+        "num": 130881,
+        "word": "沙滩偶遇何炅许知远",
+        "onboard_time": 1759631539,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129908,
+        "num": 129908,
+        "word": "iG疑似韩国集训",
+        "onboard_time": 1759633521,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128780,
+        "num": 128780,
+        "word": "出嫁那天跟你出生那天一样热闹",
+        "onboard_time": 1759633340,
+        "rank": 31,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 112969,
+        "num": 112969,
+        "word": "猫主人回应全身被抓伤20多处",
+        "onboard_time": 1759626260,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111109,
+        "num": 111109,
+        "word": "8天长假已过半",
+        "onboard_time": 1759628539,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105683,
+        "num": 105683,
+        "word": "王橹杰高会更新",
+        "onboard_time": 1759630038,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105318,
+        "num": 105318,
+        "word": "没堵在国内堵在瑞士了",
+        "onboard_time": 1759629260,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 104602,
+        "num": 104602,
+        "word": "月饼震惊外国友人了",
+        "onboard_time": 1759633220,
+        "rank": 36,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 104141,
+        "num": 104141,
+        "word": "家有儿女还是太写实了",
+        "onboard_time": 1759610053,
+        "rank": 37,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 96317,
+        "num": 96317,
+        "word": "49岁越疆科技副总裁曾宇突发疾病去世",
+        "onboard_time": 1759629199,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93656,
+        "num": 93656,
+        "word": "35岁的檀健次",
+        "onboard_time": 1759619957,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93157,
+        "num": 93157,
+        "word": "昔日顶流拉面哥已转型带货主播",
+        "onboard_time": 1759627459,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90471,
+        "num": 90471,
+        "word": "内娱艺人国外热度榜",
+        "onboard_time": 1759611074,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90122,
+        "num": 90122,
+        "word": "警方回应男子扮辱华动漫角色被围攻",
+        "onboard_time": 1759633820,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88743,
+        "num": 88743,
+        "word": "住老破小的副作用已经出现了",
+        "onboard_time": 1759625720,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86687,
+        "num": 86687,
+        "word": "沈皓明向许妍求婚",
+        "onboard_time": 1759589243,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78319,
+        "num": 84694,
+        "word": "白冰穿汉服梦回神话",
+        "onboard_time": 1759632380,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83355,
+        "num": 83355,
+        "word": "国庆情侣出游现状",
+        "onboard_time": 1759633880,
+        "rank": 46,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 82144,
+        "num": 82144,
+        "word": "9月的工资不用打给我了",
+        "onboard_time": 1759633759,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80252,
+        "num": 80252,
+        "word": "花少7小考完全是张晚意的舒适区",
+        "onboard_time": 1759628359,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61619,
+        "num": 77868,
+        "word": "WTT祝张怡宁生日快乐",
+        "onboard_time": 1759633820,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样阐释爱国情怀#"
+    }
+  }
+}
