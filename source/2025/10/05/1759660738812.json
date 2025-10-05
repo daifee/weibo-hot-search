@@ -1,0 +1,410 @@
+{
+  "runTime": 1759660738812,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1889038,
+        "num": 1889038,
+        "word": "王曼昱4比2战胜孙颖莎",
+        "onboard_time": 1759658783,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1108538,
+        "num": 1108538,
+        "word": "环保少女被曝遭虐待强迫亲吻以国旗",
+        "onboard_time": 1759657221,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19371,
+        "num": 801762,
+        "word": "明天中秋你准备怎么过",
+        "onboard_time": 1759654461,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 776789,
+        "num": 776789,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1759655781,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515244,
+        "num": 515244,
+        "word": "孙颖莎中国大满贯亚军",
+        "onboard_time": 1759658843,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 483067,
+        "num": 483067,
+        "word": "王楚钦vsF勒布伦",
+        "onboard_time": 1759659504,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 458804,
+        "num": 458804,
+        "word": "王曼昱冠军",
+        "onboard_time": 1759659203,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231251,
+        "num": 231251,
+        "word": "珠峰东坡暴雪有人员已出现失温症状",
+        "onboard_time": 1759657820,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221025,
+        "num": 221025,
+        "word": "中国人的种菜技能太全面了",
+        "onboard_time": 1759657702,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204353,
+        "num": 204353,
+        "word": "没接到骑手电话500元外卖不翼而飞",
+        "onboard_time": 1759649900,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447286,
+        "num": 204158,
+        "word": "周峻纬音乐节被突然冲上台男子扒衣",
+        "onboard_time": 1759655420,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 395215,
+        "num": 203038,
+        "word": "内娱最想二搭的cp出现了",
+        "onboard_time": 1759652900,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290279,
+        "num": 202485,
+        "word": "许我耀眼云合",
+        "onboard_time": 1759655600,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289588,
+        "num": 200758,
+        "word": "live图怎么关声音",
+        "onboard_time": 1759658903,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 266447,
+        "num": 200478,
+        "word": "许我耀眼一天一集",
+        "onboard_time": 1759658062,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247965,
+        "num": 199561,
+        "word": "鹿晗拒绝了粉丝送的冰淇淋",
+        "onboard_time": 1759635079,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 234133,
+        "num": 198143,
+        "word": "李沁 就你了",
+        "onboard_time": 1759652961,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229974,
+        "num": 197545,
+        "word": "王橹杰高会",
+        "onboard_time": 1759658903,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222882,
+        "num": 196961,
+        "word": "celine大秀",
+        "onboard_time": 1759659384,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 210512,
+        "num": 195507,
+        "word": "日本旅馆老板下药性侵10名女房客",
+        "onboard_time": 1759641501,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 304010,
+        "num": 194620,
+        "word": "金价",
+        "onboard_time": 1759645640,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 291544,
+        "num": 193863,
+        "word": "鸡排哥晒检测报告健康证回应质疑",
+        "onboard_time": 1759649540,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224706,
+        "num": 193366,
+        "word": "全家旅游遇车祸两女儿遇难妻子烧伤",
+        "onboard_time": 1759651881,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192518,
+        "num": 192518,
+        "word": "迪丽热巴中秋嫦娥造型",
+        "onboard_time": 1759636461,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190964,
+        "num": 190964,
+        "word": "赵本山女儿球球回应和哥哥争财产",
+        "onboard_time": 1759659022,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187020,
+        "num": 187020,
+        "word": "王俊凯父母开的奶茶店停业",
+        "onboard_time": 1759637961,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163351,
+        "num": 163351,
+        "word": "向太曝选郭碧婷当儿媳原因",
+        "onboard_time": 1759639401,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156149,
+        "num": 156149,
+        "word": "明代石刻 禁止早婚",
+        "onboard_time": 1759653021,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147637,
+        "num": 147637,
+        "word": "王楚钦决胜局3比7大逆转",
+        "onboard_time": 1759645341,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147057,
+        "num": 147057,
+        "word": "高铁 充电口使用权争议",
+        "onboard_time": 1759658903,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150670,
+        "num": 146532,
+        "word": "王曼昱2比1反超孙颖莎",
+        "onboard_time": 1759659624,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140051,
+        "num": 140051,
+        "word": "马頔 醒来全身都是黑锅",
+        "onboard_time": 1759659504,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129427,
+        "num": 129427,
+        "word": "发现小猫每天偷偷称体重",
+        "onboard_time": 1759656981,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118916,
+        "num": 118916,
+        "word": "减肥就是真的很爽啊",
+        "onboard_time": 1759656621,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 116402,
+        "num": 116402,
+        "word": "陈数cos女法老A爆了",
+        "onboard_time": 1759659803,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115101,
+        "num": 115101,
+        "word": "连续熬夜一年身体的状态",
+        "onboard_time": 1759656560,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114233,
+        "num": 114233,
+        "word": "孙颖莎王曼昱对决水平太高了",
+        "onboard_time": 1759659803,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112988,
+        "num": 112988,
+        "word": "两婚车相遇互不让路砍树通行",
+        "onboard_time": 1759648221,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55966,
+        "num": 112845,
+        "word": "小伙高速堵车钓到大鱼被围观",
+        "onboard_time": 1759660223,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19639,
+        "num": 112582,
+        "word": "不工作的时候可以在家玩什么",
+        "onboard_time": 1759658963,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106535,
+        "num": 112329,
+        "word": "孙颖莎12比10王曼昱",
+        "onboard_time": 1759657459,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109938,
+        "num": 112249,
+        "word": "展轩被广播催促登机",
+        "onboard_time": 1759659982,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112085,
+        "num": 112085,
+        "word": "徐娇设计的衣服标签上有禁烟标志",
+        "onboard_time": 1759654579,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111032,
+        "num": 111032,
+        "word": "这个专业全国曾只有1人",
+        "onboard_time": 1759656682,
+        "rank": 43,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 108041,
+        "num": 108041,
+        "word": "王鹤棣新加坡健身被偶遇",
+        "onboard_time": 1759657581,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107316,
+        "num": 107316,
+        "word": "员工定亲差15万老板直接拿20万",
+        "onboard_time": 1759651221,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106409,
+        "num": 106409,
+        "word": "泸州银河左岸音乐节",
+        "onboard_time": 1759655658,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98854,
+        "num": 98854,
+        "word": "迪丽热巴玲珑金钗",
+        "onboard_time": 1759657523,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97534,
+        "num": 97534,
+        "word": "捷克可能要变天",
+        "onboard_time": 1759659504,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92993,
+        "num": 92993,
+        "word": "王一博粉色涂装",
+        "onboard_time": 1759657702,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻中华文明#"
+    }
+  }
+}
