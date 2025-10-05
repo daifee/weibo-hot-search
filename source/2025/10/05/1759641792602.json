@@ -1,0 +1,410 @@
+{
+  "runTime": 1759641792602,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 721830,
+        "num": 1115492,
+        "word": "9月的工资不用打给我了",
+        "onboard_time": 1759633759,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 544227,
+        "num": 544227,
+        "word": "王楚钦vs向鹏",
+        "onboard_time": 1759640661,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42315,
+        "num": 524325,
+        "word": "8天长假已过半",
+        "onboard_time": 1759628539,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 506365,
+        "num": 506365,
+        "word": "林诗栋vsF勒布伦",
+        "onboard_time": 1759638081,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275406,
+        "num": 275406,
+        "word": "中国海军已从近海防御转向远海防卫",
+        "onboard_time": 1759639100,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 258566,
+        "num": 258566,
+        "word": "大聪明已经提前到5号返程了",
+        "onboard_time": 1759634241,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254435,
+        "num": 254435,
+        "word": "林诗栋2比4F勒布伦",
+        "onboard_time": 1759640720,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211825,
+        "num": 211825,
+        "word": "月饼震惊外国友人了",
+        "onboard_time": 1759633220,
+        "rank": 7,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 206907,
+        "num": 206907,
+        "word": "不旅游就等于浪费假期吗",
+        "onboard_time": 1759634300,
+        "rank": 8,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 190286,
+        "num": 190286,
+        "word": "这些风景会让人嘴角流泪",
+        "onboard_time": 1759639340,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 981762,
+        "num": 189644,
+        "word": "鹿晗拒绝了粉丝送的冰淇淋",
+        "onboard_time": 1759635079,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 954744,
+        "num": 188729,
+        "word": "王俊凯父母开的奶茶店停业",
+        "onboard_time": 1759637961,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 796931,
+        "num": 188196,
+        "word": "腾讯对肖战求复合文学",
+        "onboard_time": 1759641381,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 793756,
+        "num": 187269,
+        "word": "迪丽热巴中秋嫦娥造型",
+        "onboard_time": 1759636461,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 722719,
+        "num": 185549,
+        "word": "向太曝选郭碧婷当儿媳原因",
+        "onboard_time": 1759639401,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 558395,
+        "num": 184627,
+        "word": "王祖蓝因父亲去世把46岁当作生命的坎",
+        "onboard_time": 1759632499,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448695,
+        "num": 183915,
+        "word": "张婧仪小时候睡过觉吗",
+        "onboard_time": 1759635319,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336541,
+        "num": 182756,
+        "word": "快乐星球老顽童爷爷去世",
+        "onboard_time": 1759634180,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332789,
+        "num": 182513,
+        "word": "小酒窝 我喜欢宋亚轩",
+        "onboard_time": 1759639340,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142014,
+        "num": 181593,
+        "word": "林诗栋无缘中国大满贯决赛",
+        "onboard_time": 1759641022,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330251,
+        "num": 180570,
+        "word": "肖战给自己做了个开水壶蛋糕",
+        "onboard_time": 1759630038,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318650,
+        "num": 179532,
+        "word": "酒店一天8场婚礼共用一个拱门",
+        "onboard_time": 1759636223,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278900,
+        "num": 178365,
+        "word": "陈奕迅女儿与男友秀恩爱",
+        "onboard_time": 1759636700,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244010,
+        "num": 177006,
+        "word": "黄磊8岁儿子身高",
+        "onboard_time": 1759635200,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215590,
+        "num": 176220,
+        "word": "金正恩警告美国",
+        "onboard_time": 1759639822,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208901,
+        "num": 175774,
+        "word": "命真好头胎生了个月嫂",
+        "onboard_time": 1759634241,
+        "rank": 25,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 203760,
+        "num": 174381,
+        "word": "男子按摩要求大力后突发小脑梗死",
+        "onboard_time": 1759637061,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173924,
+        "num": 173924,
+        "word": "惠英红 金鸡穿这个很colorful",
+        "onboard_time": 1759640780,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 155992,
+        "num": 155992,
+        "word": "28岁戴3个月牙套的后遗症",
+        "onboard_time": 1759628480,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154339,
+        "num": 154339,
+        "word": "台风",
+        "onboard_time": 1759638441,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 147675,
+        "num": 147675,
+        "word": "日本旅馆老板下药性侵10名女房客",
+        "onboard_time": 1759641501,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 146219,
+        "num": 146219,
+        "word": "白鹿蹲房车门口吓丞磊",
+        "onboard_time": 1759638081,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143341,
+        "num": 143341,
+        "word": "韦雪妹妹回应do脸",
+        "onboard_time": 1759638560,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140326,
+        "num": 140326,
+        "word": "黄一鸣曝闪闪要回来了",
+        "onboard_time": 1759641322,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127047,
+        "num": 127047,
+        "word": "环保少女称被以色列关在臭虫牢房",
+        "onboard_time": 1759635742,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123579,
+        "num": 123579,
+        "word": "邓布利多 爱是最伟大的魔法",
+        "onboard_time": 1759639580,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120703,
+        "num": 120703,
+        "word": "刘轩丞被路人当成韩国爱豆",
+        "onboard_time": 1759638200,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118854,
+        "num": 118854,
+        "word": "王楚钦冲三冠王",
+        "onboard_time": 1759641022,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55129,
+        "num": 113978,
+        "word": "王俊凯父母开的一奶茶店停业",
+        "onboard_time": 1759641262,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66887,
+        "num": 110449,
+        "word": "男子大兴安岭偶遇棕熊坐垃圾中",
+        "onboard_time": 1759640602,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110226,
+        "num": 110226,
+        "word": "赵磊首次回应26岁官宣结婚",
+        "onboard_time": 1759632623,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109811,
+        "num": 109811,
+        "word": "丁禹兮演我睡前玩手机",
+        "onboard_time": 1759636700,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107489,
+        "num": 107489,
+        "word": "金晨问王安宇是不是出发团鞋最厚的",
+        "onboard_time": 1759641622,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106098,
+        "num": 106098,
+        "word": "常华森早该拍现代剧了",
+        "onboard_time": 1759637722,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102578,
+        "num": 102578,
+        "word": "广东转移超15万人",
+        "onboard_time": 1759627758,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100162,
+        "num": 100162,
+        "word": "张佳宁车内化妆像极了我赶早八",
+        "onboard_time": 1759641081,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100125,
+        "num": 100125,
+        "word": "宴遇永安",
+        "onboard_time": 1759638141,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94015,
+        "num": 94015,
+        "word": "不想起床但又想摸小狗时",
+        "onboard_time": 1759640301,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90869,
+        "num": 90869,
+        "word": "马思纯 观众缘",
+        "onboard_time": 1759640061,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89209,
+        "num": 89209,
+        "word": "终于有剧反杀这么过瘾了",
+        "onboard_time": 1759640301,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族的文化根脉#"
+    }
+  }
+}

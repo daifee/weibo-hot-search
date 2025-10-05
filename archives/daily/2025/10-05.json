@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759639253699,
+  "endTime": 1759641792602,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -51,6 +51,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 954744,
+      "num": 433633,
+      "word": "王俊凯父母开的奶茶店停业",
+      "onboard_time": 1759637961,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 888172,
       "num": 196649,
       "word": "肖战34岁生日居家照",
@@ -65,6 +73,14 @@
       "onboard_time": 1759630038,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 796931,
+      "num": 188196,
+      "word": "腾讯对肖战求复合文学",
+      "onboard_time": 1759641381,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 768146,
@@ -83,6 +99,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 722719,
+      "num": 185549,
+      "word": "向太曝选郭碧婷当儿媳原因",
+      "onboard_time": 1759639401,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 721830,
+      "num": 1115492,
+      "word": "9月的工资不用打给我了",
+      "onboard_time": 1759633759,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 684008,
       "num": 398911,
       "word": "快乐星球老顽童爷爷去世",
@@ -97,14 +129,6 @@
       "onboard_time": 1759574361,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 641329,
-      "num": 1102612,
-      "word": "9月的工资不用打给我了",
-      "onboard_time": 1759633759,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 607946,
@@ -131,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 544227,
+      "num": 544227,
+      "word": "王楚钦vs向鹏",
+      "onboard_time": 1759640661,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 543094,
       "num": 1086895,
       "word": "乌克兰制裁俄罗斯",
@@ -153,6 +185,14 @@
       "onboard_time": 1759634300,
       "rank": 9,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 506365,
+      "num": 506365,
+      "word": "林诗栋vsF勒布伦",
+      "onboard_time": 1759638081,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 488503,
@@ -185,14 +225,6 @@
       "onboard_time": 1759622478,
       "rank": 3,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 433633,
-      "num": 433633,
-      "word": "王俊凯父母开的奶茶店停业",
-      "onboard_time": 1759637961,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 419822,
@@ -259,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332789,
+      "num": 182513,
+      "word": "小酒窝 我喜欢宋亚轩",
+      "onboard_time": 1759639340,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331084,
       "num": 117060,
       "word": "陈都灵眼袋",
@@ -283,7 +323,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 312437,
+      "raw_hot": 318650,
       "num": 312437,
       "word": "酒店一天8场婚礼共用一个拱门",
       "onboard_time": 1759636223,
@@ -307,20 +347,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278900,
+      "num": 264871,
+      "word": "陈奕迅女儿与男友秀恩爱",
+      "onboard_time": 1759636700,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 275406,
+      "num": 443443,
+      "word": "中国海军已从近海防御转向远海防卫",
+      "onboard_time": 1759639100,
+      "rank": 8,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 273915,
       "num": 183571,
       "word": "陆毅不敢吃鲍蕾做的饭",
       "onboard_time": 1759632739,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 264871,
-      "num": 264871,
-      "word": "陈奕迅女儿与男友秀恩爱",
-      "onboard_time": 1759636700,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 263675,
@@ -355,6 +403,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 254435,
+      "num": 254435,
+      "word": "林诗栋2比4F勒布伦",
+      "onboard_time": 1759640720,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 245066,
       "num": 184346,
       "word": "hi6收视率排名第一",
@@ -387,12 +443,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215590,
+      "num": 176220,
+      "word": "金正恩警告美国",
+      "onboard_time": 1759639822,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 214850,
       "num": 116011,
       "word": "方媛说现在已经不能坐飞机了",
       "onboard_time": 1759579221,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211825,
+      "num": 442175,
+      "word": "月饼震惊外国友人了",
+      "onboard_time": 1759633220,
+      "rank": 36,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 210223,
@@ -419,6 +491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 203760,
+      "num": 174381,
+      "word": "男子按摩要求大力后突发小脑梗死",
+      "onboard_time": 1759637061,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192911,
       "num": 143610,
       "word": "出嫁那天跟你出生那天一样热闹",
@@ -441,6 +521,14 @@
       "onboard_time": 1759573521,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190286,
+      "num": 190286,
+      "word": "这些风景会让人嘴角流泪",
+      "onboard_time": 1759639340,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186927,
@@ -507,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173924,
+      "num": 173924,
+      "word": "惠英红 金鸡穿这个很colorful",
+      "onboard_time": 1759640780,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 173266,
       "num": 173266,
       "word": "台风红色预警发布",
@@ -563,14 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159467,
-      "num": 444812,
-      "word": "林诗栋vsF勒布伦",
-      "onboard_time": 1759638081,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 154111,
       "num": 154111,
       "word": "肖战生日上了世界趋势",
@@ -585,14 +673,6 @@
       "onboard_time": 1759638141,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152686,
-      "num": 443443,
-      "word": "中国海军已从近海防御转向远海防卫",
-      "onboard_time": 1759639100,
-      "rank": 8,
-      "category": "正能量"
     },
     {
       "raw_hot": 152262,
@@ -611,20 +691,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 149833,
-      "num": 149833,
-      "word": "男子按摩要求大力后突发小脑梗死",
-      "onboard_time": 1759637061,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148816,
       "num": 148816,
       "word": "王源什么时候这么见外了",
       "onboard_time": 1759638320,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147675,
+      "num": 147675,
+      "word": "日本旅馆老板下药性侵10名女房客",
+      "onboard_time": 1759641501,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 147498,
@@ -651,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146219,
+      "num": 146219,
+      "word": "白鹿蹲房车门口吓丞磊",
+      "onboard_time": 1759638081,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145747,
       "num": 145747,
       "word": "檀健次工作室生日长文",
@@ -667,6 +755,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143341,
+      "num": 143341,
+      "word": "韦雪妹妹回应do脸",
+      "onboard_time": 1759638560,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142014,
+      "num": 181593,
+      "word": "林诗栋无缘中国大满贯决赛",
+      "onboard_time": 1759641022,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140326,
+      "num": 140326,
+      "word": "黄一鸣曝闪闪要回来了",
+      "onboard_time": 1759641322,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136992,
       "num": 136992,
       "word": "给男朋友点的咖啡送到了妈妈手里",
@@ -675,28 +787,12 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 136940,
-      "num": 136940,
-      "word": "韦雪妹妹回应do脸",
-      "onboard_time": 1759638560,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136104,
       "num": 136104,
       "word": "消失的她古偶版",
       "onboard_time": 1759638680,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135431,
-      "num": 442175,
-      "word": "月饼震惊外国友人了",
-      "onboard_time": 1759633220,
-      "rank": 36,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 134364,
@@ -723,6 +819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123579,
+      "num": 123579,
+      "word": "邓布利多 爱是最伟大的魔法",
+      "onboard_time": 1759639580,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121879,
       "num": 121879,
       "word": "景区回应男童坠落栈道已加装护栏",
@@ -737,6 +841,22 @@
       "onboard_time": 1759635625,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 120703,
+      "num": 120703,
+      "word": "刘轩丞被路人当成韩国爱豆",
+      "onboard_time": 1759638200,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 118854,
+      "num": 118854,
+      "word": "王楚钦冲三冠王",
+      "onboard_time": 1759641022,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 118796,
@@ -828,19 +948,11 @@
     },
     {
       "raw_hot": 111109,
-      "num": 450673,
+      "num": 524325,
       "word": "8天长假已过半",
       "onboard_time": 1759628539,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110590,
-      "num": 118410,
-      "word": "刘轩丞被路人当成韩国爱豆",
-      "onboard_time": 1759638200,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 110524,
@@ -865,6 +977,14 @@
       "onboard_time": 1759636099,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107489,
+      "num": 107489,
+      "word": "金晨问王安宇是不是出发团鞋最厚的",
+      "onboard_time": 1759641622,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 107109,
@@ -899,11 +1019,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100183,
-      "num": 119305,
-      "word": "白鹿蹲房车门口吓丞磊",
-      "onboard_time": 1759638081,
-      "rank": 39,
+      "raw_hot": 100162,
+      "num": 100162,
+      "word": "张佳宁车内化妆像极了我赶早八",
+      "onboard_time": 1759641081,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -955,6 +1075,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94015,
+      "num": 94015,
+      "word": "不想起床但又想摸小狗时",
+      "onboard_time": 1759640301,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 90869,
+      "num": 90869,
+      "word": "马思纯 观众缘",
+      "onboard_time": 1759640061,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89927,
       "num": 93404,
       "word": "近视眼的世界真这么离谱吗",
@@ -969,6 +1105,14 @@
       "onboard_time": 1759625180,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89209,
+      "num": 89209,
+      "word": "终于有剧反杀这么过瘾了",
+      "onboard_time": 1759640301,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 88549,
@@ -1139,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66887,
+      "num": 110449,
+      "word": "男子大兴安岭偶遇棕熊坐垃圾中",
+      "onboard_time": 1759640602,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65454,
       "num": 133684,
       "word": "三亚海事局发布涉客船舶禁航通知",
@@ -1257,6 +1409,14 @@
       "onboard_time": 1759589122,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55129,
+      "num": 113978,
+      "word": "王俊凯父母开的一奶茶店停业",
+      "onboard_time": 1759641262,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 54783,
