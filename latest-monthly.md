@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/05 15:21:25
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/05 15:36:14
 </p>
 </blockquote>
 <p>
@@ -1611,6 +1611,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E5%86%8D%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23" target="weibo">
+陈震再发文道歉（热度：424297）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%B1%8D%E7%94%B7%E5%AD%90%E5%9C%A8%E8%A7%A3%E6%94%BE%E5%86%9B%E8%88%B0%E9%98%9F%E9%99%84%E8%BF%91%E6%94%BE%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AB%E6%8D%95%23" target="weibo">
 美籍男子在解放军舰队附近放无人机被捕（热度：421083）
 </a>
@@ -2093,6 +2099,12 @@ WTT（热度：332672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%BA%A6%E8%BF%91%E8%A7%86%E7%9C%BC%E4%B8%80%E5%AE%9A%E8%A6%81%E9%98%B2%E6%AD%A2%E8%A7%86%E7%BD%91%E8%86%9C%E8%84%B1%E8%90%BD%23" target="weibo">
 高度近视眼一定要防止视网膜脱落（热度：330738）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%A9%9A%E8%BD%A6%E7%9B%B8%E9%81%87%E4%BA%92%E4%B8%8D%E8%AE%A9%E8%B7%AF%E7%A0%8D%E6%A0%91%E9%80%9A%E8%A1%8C%23" target="weibo">
+两婚车相遇互不让路砍树通行（热度：326876）
 </a>
 </li>
 
@@ -2769,6 +2781,12 @@ F1（热度：275052）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E6%98%AF%E9%AD%94%E4%B8%B8%E5%BC%9F%E5%BC%9F%E5%B0%B1%E6%98%AF%E7%81%B5%E7%8F%A0%23" target="weibo">
+姐姐是魔丸弟弟就是灵珠（热度：246524）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E4%BA%BA%E7%9B%AF%E4%B8%8A%E5%86%85%E5%9C%B0%E5%8C%BB%E4%BF%9D%23" target="weibo">
 香港人盯上内地医保（热度：245836）
 </a>
@@ -3041,12 +3059,6 @@ iG与T1决定TES抽签池（热度：224054）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E5%BF%83%E8%85%B9%E4%B8%A5%E5%AD%A6%E5%B3%B0%E8%A2%AB%E8%B0%83%E6%9F%A5%23" target="weibo">
 宗馥莉心腹严学峰被调查（热度：223184）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%A9%9A%E8%BD%A6%E7%9B%B8%E9%81%87%E4%BA%92%E4%B8%8D%E8%AE%A9%E8%B7%AF%E7%A0%8D%E6%A0%91%E9%80%9A%E8%A1%8C%23" target="weibo">
-两婚车相遇互不让路砍树通行（热度：223180）
 </a>
 </li>
 
@@ -3393,6 +3405,12 @@ TTG战胜TES（热度：206119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BE%B7%E5%A7%86%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C%23" target="weibo">
+麦德姆登陆广东（热度：203911）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B112%E6%AF%9410%E7%94%B3%E8%A3%95%E6%96%8C%23" target="weibo">
 王曼昱12比10申裕斌（热度：203818）
 </a>
@@ -3461,12 +3479,6 @@ TTG战胜TES（热度：206119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC39.2%25%23" target="weibo">
 许我耀眼39.2%（热度：200978）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E6%98%AF%E9%AD%94%E4%B8%B8%E5%BC%9F%E5%BC%9F%E5%B0%B1%E6%98%AF%E7%81%B5%E7%8F%A0%23" target="weibo">
-姐姐是魔丸弟弟就是灵珠（热度：200798）
 </a>
 </li>
 
@@ -3707,12 +3719,6 @@ LOEWE眼光 惠英红就是奢侈品（热度：192315）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%9D%E7%8E%B2%E7%8E%B2%E6%99%92%E4%B8%8E%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4orm%E5%90%88%E7%85%A7%23" target="weibo">
 邝玲玲晒与迪丽热巴orm合照（热度：191463）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E5%86%8D%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23" target="weibo">
-陈震再发文道歉（热度：191447）
 </a>
 </li>
 
@@ -4707,6 +4713,12 @@ Dior大秀G社生图（热度：167518）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E6%9C%80%E8%80%97%E6%B0%94%E8%A1%80%E7%9A%845%E4%B8%AA%E4%B9%A0%E6%83%AF%23" target="weibo">
+假期最耗气血的5个习惯（热度：155174）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E7%9B%B4%E6%92%AD%23" target="weibo">
 曾舜晞直播（热度：154973）
 </a>
@@ -4823,12 +4835,6 @@ AG年总三连胜（热度：153985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%8D%E6%91%84%E8%80%85%E5%9B%9E%E5%BA%94%E4%B8%A4%E5%A9%9A%E8%BD%A6%E7%A2%B0%E5%A4%B4%E8%B0%81%E9%83%BD%E4%B8%8D%E8%AE%A9%E8%B0%81%23" target="weibo">
 拍摄者回应两婚车碰头谁都不让谁（热度：151844）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E6%9C%80%E8%80%97%E6%B0%94%E8%A1%80%E7%9A%845%E4%B8%AA%E4%B9%A0%E6%83%AF%23" target="weibo">
-假期最耗气血的5个习惯（热度：151746）
 </a>
 </li>
 
@@ -5517,6 +5523,12 @@ Gr对战GW（热度：136323）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%91%BD%E5%93%A5%E8%A3%85%E7%97%85%E8%BA%B2%E7%A6%BB%E5%A9%9A%23" target="weibo">
+好命哥装病躲离婚（热度：136312）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5100%25%E7%BA%AF%E6%A3%89%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%98%AF%E7%BA%AF%E6%A3%89%23" target="weibo">
 原来100%纯棉不一定是纯棉（热度：136217）
 </a>
@@ -5999,18 +6011,6 @@ Doinb自曝ASI约不到训练赛（热度：127156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%85%E6%B8%B83000%E5%9D%97%E5%AE%9A%E5%BE%8B%23" target="weibo">
 旅游3000块定律（热度：126423）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AFG%E7%A4%BE%E7%94%9F%E5%9B%BE%E5%A5%BD%E6%98%8E%E5%AA%9A%E7%9A%84%E7%BE%8E%23" target="weibo">
-马思纯G社生图好明媚的美（热度：126290）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E7%90%83%E8%A2%AB%E7%BD%9A%E5%88%86%E6%9C%AA%E8%A2%AB%E5%B9%B2%E6%89%B0%23" target="weibo">
-王楚钦发球被罚分未被干扰（热度：126213）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759648885505,
+  "endTime": 1759649774244,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -211,6 +211,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 514647,
+      "num": 514647,
+      "word": "金价",
+      "onboard_time": 1759645640,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 506365,
       "num": 506365,
       "word": "林诗栋vsF勒布伦",
@@ -259,8 +267,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424297,
+      "num": 424297,
+      "word": "陈震再发文道歉",
+      "onboard_time": 1759647980,
+      "rank": 24,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 419822,
-      "num": 419822,
+      "num": 431680,
       "word": "歼35机库首公开",
       "onboard_time": 1759628599,
       "rank": 5,
@@ -371,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 326876,
+      "num": 191483,
+      "word": "两婚车相遇互不让路砍树通行",
+      "onboard_time": 1759648221,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 319035,
       "num": 752334,
       "word": "专家称要对高市早苗动向保持警惕",
@@ -417,14 +441,6 @@
       "onboard_time": 1759636700,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278096,
-      "num": 278096,
-      "word": "金价",
-      "onboard_time": 1759645640,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 275406,
@@ -483,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246524,
+      "num": 191476,
+      "word": "姐姐是魔丸弟弟就是灵珠",
+      "onboard_time": 1759646421,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 245066,
       "num": 184346,
       "word": "hi6收视率排名第一",
@@ -504,14 +528,6 @@
       "word": "旬阳警方辟谣新郎母亲跳江",
       "onboard_time": 1759628480,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 223180,
-      "num": 191483,
-      "word": "两婚车相遇互不让路砍树通行",
-      "onboard_time": 1759648221,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -571,20 +587,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 203911,
+      "num": 203911,
+      "word": "麦德姆登陆广东",
+      "onboard_time": 1759648040,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203760,
       "num": 174381,
       "word": "男子按摩要求大力后突发小脑梗死",
       "onboard_time": 1759637061,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200798,
-      "num": 191476,
-      "word": "姐姐是魔丸弟弟就是灵珠",
-      "onboard_time": 1759646421,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 197674,
@@ -609,14 +625,6 @@
       "onboard_time": 1759637421,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191447,
-      "num": 191447,
-      "word": "陈震再发文道歉",
-      "onboard_time": 1759647980,
-      "rank": 24,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 191362,
@@ -811,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155174,
+      "num": 155174,
+      "word": "假期最耗气血的5个习惯",
+      "onboard_time": 1759648040,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 154111,
       "num": 154111,
       "word": "肖战生日上了世界趋势",
@@ -849,14 +865,6 @@
       "onboard_time": 1759644202,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151746,
-      "num": 151746,
-      "word": "假期最耗气血的5个习惯",
-      "onboard_time": 1759648040,
-      "rank": 28,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 149919,
@@ -947,6 +955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136312,
+      "num": 136312,
+      "word": "好命哥装病躲离婚",
+      "onboard_time": 1759647980,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136104,
       "num": 136104,
       "word": "消失的她古偶版",
@@ -1003,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123673,
+      "num": 118105,
+      "word": "王楚钦迎难而上",
+      "onboard_time": 1759649720,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122724,
       "num": 122724,
       "word": "张艺兴美猴王造型",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1759635559,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 118633,
+      "num": 118633,
+      "word": "陈飞宇外媒镜头",
+      "onboard_time": 1759648639,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 118325,
@@ -1099,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114325,
+      "num": 114325,
+      "word": "F勒布伦说想带着冠军回法国",
+      "onboard_time": 1759649360,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113826,
       "num": 113826,
       "word": "没堵在国内堵在瑞士了",
@@ -1121,14 +1161,6 @@
       "onboard_time": 1759633880,
       "rank": 46,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 113382,
-      "num": 113382,
-      "word": "好命哥装病躲离婚",
-      "onboard_time": 1759647980,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 112430,
@@ -1259,6 +1291,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102599,
+      "num": 118153,
+      "word": "小米17空降巴黎时装周",
+      "onboard_time": 1759649120,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 101936,
+      "num": 101936,
+      "word": "三角洲行动",
+      "onboard_time": 1759649600,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 101775,
       "num": 101775,
       "word": "许我耀眼于岚有多偏爱儿媳",
@@ -1267,20 +1315,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101067,
+      "num": 101067,
+      "word": "国乒无缘会师男单决赛",
+      "onboard_time": 1759649301,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100162,
       "num": 100162,
       "word": "张佳宁车内化妆像极了我赶早八",
       "onboard_time": 1759641081,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100079,
-      "num": 100079,
-      "word": "陈飞宇外媒镜头",
-      "onboard_time": 1759648639,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 99882,
@@ -1411,6 +1459,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 88159,
+      "num": 88159,
+      "word": "王楚钦说不想放弃",
+      "onboard_time": 1759648999,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87709,
       "num": 93375,
       "word": "鸡排哥 精神贫瘠涌向鲜活生命",
@@ -1435,6 +1491,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 85447,
+      "num": 85447,
+      "word": "当外婆知道娃娃价格后",
+      "onboard_time": 1759649180,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 85442,
       "num": 93308,
       "word": "清融采访",
@@ -1449,6 +1513,14 @@
       "onboard_time": 1759593861,
       "rank": 32,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 84934,
+      "num": 84934,
+      "word": "南北农村吃席的差异也太大了",
+      "onboard_time": 1759649421,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 84561,
@@ -1491,19 +1563,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 78698,
+      "num": 113400,
+      "word": "李嘉格是井迪师姐",
+      "onboard_time": 1759647740,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78319,
       "num": 84694,
       "word": "白冰穿汉服梦回神话",
       "onboard_time": 1759632380,
       "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 77383,
-      "num": 113400,
-      "word": "李嘉格是井迪师姐",
-      "onboard_time": 1759647740,
-      "rank": 39,
       "category": "综艺"
     },
     {
@@ -1649,14 +1721,6 @@
       "onboard_time": 1759574960,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 63302,
-      "num": 191662,
-      "word": "麦德姆登陆广东",
-      "onboard_time": 1759648040,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62515,
