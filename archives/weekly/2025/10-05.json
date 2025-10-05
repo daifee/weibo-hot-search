@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759668266691,
+  "endTime": 1759669125870,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -83,6 +83,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1175380,
+      "num": 176183,
+      "word": "迪丽热巴 河南送你了",
+      "onboard_time": 1759667245,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1130628,
       "num": 1180900,
       "word": "王楚钦vs向鹏",
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 1108538,
-      "num": 1108538,
+      "num": 1120427,
       "word": "环保少女被曝遭虐待强迫亲吻以国旗",
       "onboard_time": 1759657221,
       "rank": 3,
@@ -217,14 +225,6 @@
       "onboard_time": 1759627758,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 726374,
-      "num": 176183,
-      "word": "迪丽热巴 河南送你了",
-      "onboard_time": 1759667245,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 721830,
@@ -579,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331880,
+      "num": 173720,
+      "word": "向太称郭碧婷父亲患重病",
+      "onboard_time": 1759666283,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331084,
       "num": 117060,
       "word": "陈都灵眼袋",
@@ -627,14 +635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 317947,
-      "num": 173720,
-      "word": "向太称郭碧婷父亲患重病",
-      "onboard_time": 1759666283,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 313818,
       "num": 166922,
       "word": "好命哥装病躲离婚",
@@ -675,12 +675,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300312,
+      "num": 300312,
+      "word": "拉面哥掉粉42.8万",
+      "onboard_time": 1759668027,
+      "rank": 9,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 299818,
       "num": 230905,
       "word": "李沁 就你了",
       "onboard_time": 1759652961,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293862,
+      "num": 176067,
+      "word": "王楚钦王曼昱互相道喜",
+      "onboard_time": 1759666702,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 289588,
@@ -755,14 +771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 269564,
-      "num": 176067,
-      "word": "王楚钦王曼昱互相道喜",
-      "onboard_time": 1759666702,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 266447,
       "num": 234878,
       "word": "许我耀眼一天一集",
@@ -835,12 +843,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 241857,
+      "num": 172729,
+      "word": "王一博观战德约科维奇",
+      "onboard_time": 1759666824,
+      "rank": 23,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 240484,
       "num": 240484,
       "word": "时代峰峻楼下 拍立得发布会",
       "onboard_time": 1759661003,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237814,
+      "num": 175012,
+      "word": "王曼昱感谢孙颖莎蒯曼",
+      "onboard_time": 1759667483,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 229974,
@@ -963,12 +987,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206343,
-      "num": 175012,
-      "word": "王曼昱感谢孙颖莎蒯曼",
-      "onboard_time": 1759667483,
-      "rank": 18,
-      "category": "体育"
+      "raw_hot": 205848,
+      "num": 174657,
+      "word": "网购衣服不要只盯着卖衣服的店",
+      "onboard_time": 1759667723,
+      "rank": 19,
+      "category": "情感"
     },
     {
       "raw_hot": 205141,
@@ -1003,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202593,
+      "num": 202593,
+      "word": "乌称遭俄50枚导弹500架无人机袭击",
+      "onboard_time": 1759666343,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 201136,
       "num": 201136,
       "word": "赵本山女儿球球回应和哥哥争财产",
@@ -1017,14 +1049,6 @@
       "onboard_time": 1759663344,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199982,
-      "num": 174657,
-      "word": "网购衣服不要只盯着卖衣服的店",
-      "onboard_time": 1759667723,
-      "rank": 19,
-      "category": "情感"
     },
     {
       "raw_hot": 197674,
@@ -1115,14 +1139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183605,
-      "num": 183605,
-      "word": "乌称遭俄50枚导弹500架无人机袭击",
-      "onboard_time": 1759666343,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 183394,
       "num": 183394,
       "word": "iG疑似韩国集训",
@@ -1139,16 +1155,8 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 183212,
-      "num": 172729,
-      "word": "王一博观战德约科维奇",
-      "onboard_time": 1759666824,
-      "rank": 23,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 182126,
-      "num": 149678,
+      "num": 168701,
       "word": "孙颖莎牌扫地机",
       "onboard_time": 1759667483,
       "rank": 30,
@@ -1177,6 +1185,14 @@
       "onboard_time": 1759632799,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 180067,
+      "num": 169108,
+      "word": "深夜想变成贵州人",
+      "onboard_time": 1759668263,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 178956,
@@ -1217,6 +1233,14 @@
       "onboard_time": 1759640780,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 173502,
+      "num": 157216,
+      "word": "王楚钦这回自拍只能自己掌镜了",
+      "onboard_time": 1759669044,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 173266,
@@ -1339,12 +1363,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157645,
+      "num": 157645,
+      "word": "张凌赫拍毕业照打了女生领结",
+      "onboard_time": 1759664902,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157241,
       "num": 267192,
       "word": "三角洲行动",
       "onboard_time": 1759649600,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156916,
+      "num": 156916,
+      "word": "刘萧旭搞抽象被经纪人骂了",
+      "onboard_time": 1759667363,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 156508,
@@ -1363,6 +1403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 155128,
+      "num": 153668,
+      "word": "河南卫视太有审美了",
+      "onboard_time": 1759668503,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154111,
       "num": 154111,
       "word": "肖战生日上了世界趋势",
@@ -1379,12 +1427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153624,
-      "num": 178829,
-      "word": "拉面哥掉粉42.8万",
-      "onboard_time": 1759668027,
-      "rank": 9,
-      "category": "民生新闻,网红"
+      "raw_hot": 153501,
+      "num": 153501,
+      "word": "长期不用的银行卡一定要注销",
+      "onboard_time": 1759664543,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 153175,
@@ -1401,14 +1449,6 @@
       "onboard_time": 1759634540,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 151910,
-      "num": 148489,
-      "word": "张凌赫拍毕业照打了女生领结",
-      "onboard_time": 1759664902,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 151844,
@@ -1467,14 +1507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147018,
-      "num": 140781,
-      "word": "长期不用的银行卡一定要注销",
-      "onboard_time": 1759664543,
-      "rank": 37,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 146882,
       "num": 146882,
       "word": "女生拍照吊威亚游客入镜似5毛特效",
@@ -1521,6 +1553,14 @@
       "onboard_time": 1759638560,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143169,
+      "num": 143169,
+      "word": "刘诗诗陈哲远王安宇孙千同框",
+      "onboard_time": 1759668684,
+      "rank": 35,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 142621,
@@ -1571,14 +1611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139419,
-      "num": 139419,
-      "word": "刘萧旭搞抽象被经纪人骂了",
-      "onboard_time": 1759667363,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138427,
       "num": 138427,
       "word": "高市早苗将就参拜靖国神社作出回应",
@@ -1587,20 +1619,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 138424,
+      "num": 138424,
+      "word": "刘诗诗与LVMH大公主合影",
+      "onboard_time": 1759667363,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 137723,
       "num": 137723,
       "word": "朋友之上 恋人之下",
       "onboard_time": 1759663582,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 137080,
-      "num": 137080,
-      "word": "刘诗诗与LVMH大公主合影",
-      "onboard_time": 1759667363,
-      "rank": 40,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 136992,
@@ -1691,6 +1723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129539,
+      "num": 129539,
+      "word": "终于有人把化妆顺序说清楚了",
+      "onboard_time": 1759668623,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 129505,
       "num": 126113,
       "word": "邓布利多 爱是最伟大的魔法",
@@ -1777,6 +1817,14 @@
       "onboard_time": 1759609815,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121813,
+      "num": 127068,
+      "word": "张子墨 时代峰峻倒闭了我怎么办",
+      "onboard_time": 1759668924,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 121545,
@@ -1867,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116780,
+      "num": 116780,
+      "word": "敬山水",
+      "onboard_time": 1759668804,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116402,
       "num": 116402,
       "word": "陈数cos女法老A爆了",
@@ -1881,6 +1937,14 @@
       "onboard_time": 1759630038,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116358,
+      "num": 116358,
+      "word": "王子文扛住了G社镜头",
+      "onboard_time": 1759667603,
+      "rank": 47,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 116029,
@@ -1921,14 +1985,6 @@
       "onboard_time": 1759627279,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114808,
-      "num": 114808,
-      "word": "王子文扛住了G社镜头",
-      "onboard_time": 1759667603,
-      "rank": 47,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 114325,
@@ -1979,6 +2035,22 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 113166,
+      "num": 113166,
+      "word": "李沛恩舞台",
+      "onboard_time": 1759668862,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 113083,
+      "num": 113083,
+      "word": "黄星 音乐节",
+      "onboard_time": 1759668924,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 112451,
       "num": 112451,
       "word": "张小斐 我的大明星女友",
@@ -1993,6 +2065,14 @@
       "onboard_time": 1759637901,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 112393,
+      "num": 112393,
+      "word": "长沙街头交警硬核管理外国人",
+      "onboard_time": 1759668203,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111390,
@@ -2091,20 +2171,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107921,
+      "num": 107921,
+      "word": "已经绝交的朋友教会了我的",
+      "onboard_time": 1759668684,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107527,
       "num": 107527,
       "word": "成毅落魄太子造型",
       "onboard_time": 1759636099,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107450,
-      "num": 107450,
-      "word": "长沙街头交警硬核管理外国人",
-      "onboard_time": 1759668203,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107109,
@@ -2307,6 +2387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98713,
+      "num": 174196,
+      "word": "Celine终于有颜色了",
+      "onboard_time": 1759667963,
+      "rank": 20,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 98490,
       "num": 98490,
       "word": "内娱艺人国外热度榜",
@@ -2329,14 +2417,6 @@
       "onboard_time": 1759659504,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 96837,
-      "num": 174196,
-      "word": "Celine终于有颜色了",
-      "onboard_time": 1759667963,
-      "rank": 20,
-      "category": "时尚"
     },
     {
       "raw_hot": 96690,
@@ -2604,7 +2684,7 @@
     },
     {
       "raw_hot": 79080,
-      "num": 149994,
+      "num": 157261,
       "word": "我的十一电子榨菜",
       "onboard_time": 1759666525,
       "rank": 29,
