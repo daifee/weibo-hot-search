@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759653674524,
+  "endTime": 1759656143926,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 678339,
-      "num": 678339,
+      "num": 1106819,
       "word": "没接到骑手电话500元外卖不翼而飞",
       "onboard_time": 1759649900,
       "rank": 6,
@@ -201,6 +201,14 @@
       "onboard_time": 1759586903,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 574498,
+      "num": 183788,
+      "word": "内娱最想二搭的cp出现了",
+      "onboard_time": 1759652900,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 562035,
@@ -241,6 +249,14 @@
       "onboard_time": 1759634300,
       "rank": 9,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 512017,
+      "num": 512017,
+      "word": "鸡排哥10月8日正常出摊",
+      "onboard_time": 1759650561,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 506365,
@@ -315,16 +331,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 395978,
-      "num": 395978,
-      "word": "鸡排哥10月8日正常出摊",
-      "onboard_time": 1759650561,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 394167,
+      "num": 182706,
+      "word": "陈震车祸受伤司机家属发声",
+      "onboard_time": 1759653561,
+      "rank": 33,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 388029,
-      "num": 166814,
+      "num": 175208,
       "word": "全家旅游遇车祸两女儿遇难妻子烧伤",
       "onboard_time": 1759651881,
       "rank": 20,
@@ -379,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353884,
+      "num": 353884,
+      "word": "员工定亲差15万老板直接拿20万",
+      "onboard_time": 1759651221,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345471,
       "num": 191503,
       "word": "我家那闺女",
@@ -424,6 +448,14 @@
       "word": "广州一市民家中惊现鼠条",
       "onboard_time": 1759587561,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321490,
+      "num": 321490,
+      "word": "明代石刻 禁止早婚",
+      "onboard_time": 1759653021,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -473,6 +505,14 @@
       "onboard_time": 1759645820,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299818,
+      "num": 179313,
+      "word": "李沁 就你了",
+      "onboard_time": 1759652961,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 287945,
@@ -579,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 220353,
-      "num": 166707,
-      "word": "李沁 就你了",
-      "onboard_time": 1759652961,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217635,
       "num": 217635,
       "word": "他赢下中国奥运首金后到处借裤子",
@@ -627,20 +659,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208206,
-      "num": 166645,
-      "word": "内娱最想二搭的cp出现了",
-      "onboard_time": 1759652900,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207733,
       "num": 107008,
       "word": "肖战而我正走在路上",
       "onboard_time": 1759596020,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206141,
+      "num": 174504,
+      "word": "许我耀眼云合",
+      "onboard_time": 1759655600,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 205141,
@@ -673,6 +705,14 @@
       "onboard_time": 1759637061,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202584,
+      "num": 202584,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1759655781,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 197674,
@@ -737,6 +777,14 @@
       "onboard_time": 1759638441,
       "rank": 48,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 186330,
+      "num": 186330,
+      "word": "王楚钦流了多少汗",
+      "onboard_time": 1759654340,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 183394,
@@ -827,6 +875,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 173169,
+      "num": 173169,
+      "word": "周峻纬音乐节被突然冲上台男子扒衣",
+      "onboard_time": 1759655420,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171676,
       "num": 171676,
       "word": "长生",
@@ -857,14 +913,6 @@
       "onboard_time": 1759645280,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167264,
-      "num": 167264,
-      "word": "员工定亲差15万老板直接拿20万",
-      "onboard_time": 1759651221,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166820,
@@ -905,6 +953,14 @@
       "onboard_time": 1759624639,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162400,
+      "num": 162400,
+      "word": "徐娇设计的衣服标签上有禁烟标志",
+      "onboard_time": 1759654579,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 156508,
@@ -969,6 +1025,14 @@
       "onboard_time": 1759637722,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149464,
+      "num": 186153,
+      "word": "三角洲行动",
+      "onboard_time": 1759649600,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 148816,
@@ -1043,8 +1107,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142574,
-      "num": 142574,
+      "raw_hot": 142621,
+      "num": 142621,
       "word": "偶遇戚薇李承铉带儿子逛凡尔赛宫",
       "onboard_time": 1759652900,
       "rank": 48,
@@ -1123,12 +1187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133326,
-      "num": 167167,
-      "word": "三角洲行动",
-      "onboard_time": 1759649600,
-      "rank": 37,
-      "category": "游戏"
+      "raw_hot": 132381,
+      "num": 132381,
+      "word": "一路灿烂开机",
+      "onboard_time": 1759654461,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 129505,
@@ -1153,6 +1217,14 @@
       "onboard_time": 1759649301,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127121,
+      "num": 127121,
+      "word": "王亚飞给迪丽热巴化的嫦娥仙子妆",
+      "onboard_time": 1759653440,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 123673,
@@ -1185,6 +1257,14 @@
       "onboard_time": 1759609815,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121580,
+      "num": 121580,
+      "word": "泸州银河左岸音乐节",
+      "onboard_time": 1759655658,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 121093,
@@ -1275,14 +1355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114364,
-      "num": 114364,
-      "word": "王亚飞给迪丽热巴化的嫦娥仙子妆",
-      "onboard_time": 1759653440,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114325,
       "num": 114325,
       "word": "F勒布伦说想带着冠军回法国",
@@ -1299,6 +1371,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 113673,
+      "num": 113673,
+      "word": "徐明浩巴黎时装周造型",
+      "onboard_time": 1759654821,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 113544,
       "num": 113415,
       "word": "35岁的檀健次",
@@ -1313,6 +1393,14 @@
       "onboard_time": 1759633880,
       "rank": 46,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 112451,
+      "num": 112451,
+      "word": "张小斐 我的大明星女友",
+      "onboard_time": 1759654280,
+      "rank": 38,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 112430,
@@ -1379,6 +1467,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 109140,
+      "num": 98997,
+      "word": "张小斐陈飞宇PP 在G社演了部电影",
+      "onboard_time": 1759655000,
+      "rank": 43,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 108599,
       "num": 108599,
       "word": "WTT",
@@ -1417,6 +1513,14 @@
       "onboard_time": 1759646061,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105793,
+      "num": 105793,
+      "word": "白宇拍的王楚钦",
+      "onboard_time": 1759654101,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 105365,
@@ -1500,7 +1604,7 @@
     },
     {
       "raw_hot": 100165,
-      "num": 100165,
+      "num": 107191,
       "word": "孙颖莎备战决赛",
       "onboard_time": 1759651821,
       "rank": 44,
@@ -1627,14 +1731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91928,
-      "num": 166862,
-      "word": "明代石刻 禁止早婚",
-      "onboard_time": 1759653021,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91660,
       "num": 91660,
       "word": "Doinb与Boaster梦幻联动",
@@ -1649,6 +1745,14 @@
       "onboard_time": 1759592361,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89916,
+      "num": 89916,
+      "word": "深南高速5车追尾致2死3伤",
+      "onboard_time": 1759654641,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89306,
@@ -1697,6 +1801,14 @@
       "onboard_time": 1759652599,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87653,
+      "num": 87653,
+      "word": "王楚钦半决赛的状态令人心疼",
+      "onboard_time": 1759655899,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 87201,
@@ -1809,14 +1921,6 @@
       "onboard_time": 1759586661,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 74765,
-      "num": 142754,
-      "word": "陈震车祸受伤司机家属发声",
-      "onboard_time": 1759653561,
-      "rank": 33,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 74126,
@@ -2147,6 +2251,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 40748,
+      "num": 177152,
+      "word": "油车高速领航全国都好开",
+      "onboard_time": 1759654340,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 40552,
       "num": 44750,
       "word": "当你上飞机后发现邻座是小猫",
@@ -2233,6 +2345,14 @@
       "onboard_time": 1759635801,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26803,
+      "num": 370731,
+      "word": "明天中秋你准备怎么过",
+      "onboard_time": 1759654461,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25185,
