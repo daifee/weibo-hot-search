@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759685826276,
+  "endTime": 1759689138361,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -1955,6 +1955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138016,
+      "num": 138016,
+      "word": "福建尤溪通报5人进废弃矿硐遇难",
+      "onboard_time": 1759680980,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137723,
       "num": 137723,
       "word": "朋友之上 恋人之下",
@@ -3043,14 +3051,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 88190,
-      "num": 109003,
-      "word": "福建尤溪通报5人进废弃矿硐遇难",
-      "onboard_time": 1759680980,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88159,
       "num": 88159,
       "word": "王楚钦说不想放弃",
@@ -3659,6 +3659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40548,
+      "num": 40548,
+      "word": "王扁穿外卖工服道歉退网",
+      "onboard_time": 1759687936,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 39043,
       "num": 87285,
       "word": "震耳欲聋",
@@ -3755,6 +3763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25421,
+      "num": 31946,
+      "word": "苏新皓cha了MIROTIC",
+      "onboard_time": 1759688596,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25185,
       "num": 181228,
       "word": "张馨予下雨天收到女孩留的伞",
@@ -3769,6 +3785,14 @@
       "onboard_time": 1759601956,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24046,
+      "num": 31938,
+      "word": "中秋奇妙游",
+      "onboard_time": 1759688655,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 22311,

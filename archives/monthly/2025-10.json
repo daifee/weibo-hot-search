@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759685826276,
+  "endTime": 1759689138361,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -8219,6 +8219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138016,
+      "num": 138016,
+      "word": "福建尤溪通报5人进废弃矿硐遇难",
+      "onboard_time": 1759680980,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137786,
       "num": 137786,
       "word": "双高胎真假美猴王",
@@ -13467,14 +13475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88190,
-      "num": 109003,
-      "word": "福建尤溪通报5人进废弃矿硐遇难",
-      "onboard_time": 1759680980,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88161,
       "num": 88161,
       "word": "鸡排家族有专属工作服了",
@@ -16363,6 +16363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40548,
+      "num": 40548,
+      "word": "王扁穿外卖工服道歉退网",
+      "onboard_time": 1759687936,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 40441,
       "num": 102799,
       "word": "鞠婧祎戴着小狗耳环发小猫",
@@ -16979,6 +16987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25421,
+      "num": 31946,
+      "word": "苏新皓cha了MIROTIC",
+      "onboard_time": 1759688596,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25248,
       "num": 84352,
       "word": "美政府停摆将继续",
@@ -17041,6 +17057,14 @@
       "onboard_time": 1759601956,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24046,
+      "num": 31938,
+      "word": "中秋奇妙游",
+      "onboard_time": 1759688655,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 24007,

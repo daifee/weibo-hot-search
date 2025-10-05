@@ -1,6 +1,6 @@
 {
   "startTime": 1759681668953,
-  "endTime": 1759685826276,
+  "endTime": 1759689138361,
   "band_list": [
     {
       "raw_hot": 1411855,
@@ -211,6 +211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138016,
+      "num": 138016,
+      "word": "福建尤溪通报5人进废弃矿硐遇难",
+      "onboard_time": 1759680980,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131999,
       "num": 131999,
       "word": "大学生卖雪王送鸡排哥高清写真",
@@ -289,14 +297,6 @@
       "onboard_time": 1759661965,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88190,
-      "num": 109003,
-      "word": "福建尤溪通报5人进废弃矿硐遇难",
-      "onboard_time": 1759680980,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 82745,
@@ -481,6 +481,38 @@
       "onboard_time": 1759684817,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 40548,
+      "num": 40548,
+      "word": "王扁穿外卖工服道歉退网",
+      "onboard_time": 1759687936,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 25421,
+      "num": 31946,
+      "word": "苏新皓cha了MIROTIC",
+      "onboard_time": 1759688596,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24934,
+      "num": 31943,
+      "word": "王一博观战德约科维奇",
+      "onboard_time": 1759666824,
+      "rank": 45,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 24046,
+      "num": 31938,
+      "word": "中秋奇妙游",
+      "onboard_time": 1759688655,
+      "rank": 46,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/06 01:37:06
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/06 02:32:18
 </p>
 </blockquote>
 <p>
@@ -1479,6 +1479,12 @@ F1（热度：144419）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%B0%A4%E6%BA%AA%E9%80%9A%E6%8A%A55%E4%BA%BA%E8%BF%9B%E5%BA%9F%E5%BC%83%E7%9F%BF%E7%A1%90%E9%81%87%E9%9A%BE%23" target="weibo">
+福建尤溪通报5人进废弃矿硐遇难（热度：138016）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E4%B9%8B%E4%B8%8A%20%E6%81%8B%E4%BA%BA%E4%B9%8B%E4%B8%8B%23" target="weibo">
 朋友之上 恋人之下（热度：137723）
 </a>
@@ -2295,12 +2301,6 @@ Doinb与Boaster梦幻联动（热度：91660）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%B0%A4%E6%BA%AA%E9%80%9A%E6%8A%A55%E4%BA%BA%E8%BF%9B%E5%BA%9F%E5%BC%83%E7%9F%BF%E7%A1%90%E9%81%87%E9%9A%BE%23" target="weibo">
-福建尤溪通报5人进废弃矿硐遇难（热度：88190）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E4%B8%8D%E6%83%B3%E6%94%BE%E5%BC%83%23" target="weibo">
 王楚钦说不想放弃（热度：88159）
 </a>
@@ -2757,6 +2757,12 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%89%81%E7%A9%BF%E5%A4%96%E5%8D%96%E5%B7%A5%E6%9C%8D%E9%81%93%E6%AD%89%E9%80%80%E7%BD%91%23" target="weibo">
+王扁穿外卖工服道歉退网（热度：40548）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%23" target="weibo">
 震耳欲聋（热度：39043）
 </a>
@@ -2829,6 +2835,12 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93cha%E4%BA%86MIROTIC%23" target="weibo">
+苏新皓cha了MIROTIC（热度：25421）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E4%B8%8B%E9%9B%A8%E5%A4%A9%E6%94%B6%E5%88%B0%E5%A5%B3%E5%AD%A9%E7%95%99%E7%9A%84%E4%BC%9E%23" target="weibo">
 张馨予下雨天收到女孩留的伞（热度：25185）
 </a>
@@ -2837,6 +2849,12 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%8E%B0%E5%9C%BA%E4%B8%B4%E6%97%B6%E5%88%9B%E4%BD%9C%E6%94%B9%E8%AF%8D%23" target="weibo">
 檀健次现场临时创作改词（热度：24190）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%A5%87%E5%A6%99%E6%B8%B8%23" target="weibo">
+中秋奇妙游（热度：24046）
 </a>
 </li>
 
