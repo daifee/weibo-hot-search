@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759646024026,
+  "endTime": 1759646723735,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 338022,
-      "num": 182401,
+      "num": 300576,
       "word": "金正恩警告美国",
       "onboard_time": 1759639822,
       "rank": 24,
@@ -387,6 +387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 308883,
+      "num": 174347,
+      "word": "王楚钦决胜局3比7大逆转",
+      "onboard_time": 1759645341,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287945,
       "num": 188174,
       "word": "家猫突然扑向主人挠20多道伤口",
@@ -417,6 +425,14 @@
       "onboard_time": 1759632739,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266215,
+      "num": 266215,
+      "word": "王楚钦强大的意志品质",
+      "onboard_time": 1759645820,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 263675,
@@ -499,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214389,
+      "num": 214389,
+      "word": "王楚钦晋级中国大满贯决赛",
+      "onboard_time": 1759645100,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211825,
       "num": 442175,
       "word": "月饼震惊外国友人了",
@@ -513,22 +537,6 @@
       "onboard_time": 1759595780,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208883,
-      "num": 208883,
-      "word": "王楚钦晋级中国大满贯决赛",
-      "onboard_time": 1759645100,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 207882,
-      "num": 174347,
-      "word": "王楚钦决胜局3比7大逆转",
-      "onboard_time": 1759645341,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 207733,
@@ -553,14 +561,6 @@
       "onboard_time": 1759637061,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202270,
-      "num": 171901,
-      "word": "王楚钦强大的意志品质",
-      "onboard_time": 1759645820,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 192911,
@@ -923,6 +923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128297,
+      "num": 122864,
+      "word": "向鹏无缘中国大满贯决赛",
+      "onboard_time": 1759646061,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125366,
       "num": 125366,
       "word": "拍摄者回应两婚车碰头谁都不让谁",
@@ -1075,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108599,
+      "num": 108599,
+      "word": "WTT",
+      "onboard_time": 1759645401,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108453,
       "num": 110862,
       "word": "正剧还得是视帝视后演",
@@ -1131,20 +1147,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104071,
+      "num": 104071,
+      "word": "金价",
+      "onboard_time": 1759645640,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 103443,
+      "num": 103443,
+      "word": "纹身1500洗纹身15000",
+      "onboard_time": 1759643481,
+      "rank": 49,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 102716,
       "num": 102716,
       "word": "李湘打码掌纹",
       "onboard_time": 1759572920,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 101161,
-      "num": 101161,
-      "word": "WTT",
-      "onboard_time": 1759645401,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 100162,
@@ -1169,6 +1193,14 @@
       "onboard_time": 1759635559,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98884,
+      "num": 98884,
+      "word": "陈伟霆上一秒霸总下一秒军阀",
+      "onboard_time": 1759646539,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 98789,
@@ -1243,14 +1275,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 89966,
-      "num": 89966,
-      "word": "纹身1500洗纹身15000",
-      "onboard_time": 1759643481,
-      "rank": 49,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 89927,
       "num": 93404,
       "word": "近视眼的世界真这么离谱吗",
@@ -1273,6 +1297,14 @@
       "onboard_time": 1759640301,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88726,
+      "num": 88726,
+      "word": "姐姐是魔丸弟弟就是灵珠",
+      "onboard_time": 1759646421,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 88549,
@@ -1323,12 +1355,28 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 84561,
+      "num": 84561,
+      "word": "警方通报男子恶意别车谎称公安",
+      "onboard_time": 1759643422,
+      "rank": 48,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 83940,
       "num": 83940,
       "word": "巴黎世家大秀",
       "onboard_time": 1759628900,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 83823,
+      "num": 83823,
+      "word": "胳膊肘和膝盖都火辣辣的疼",
+      "onboard_time": 1759646601,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 79848,
@@ -1651,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43796,
+      "num": 103326,
+      "word": "青岛海滩海鲜爆桶2小时捡60多斤",
+      "onboard_time": 1759646061,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43255,
       "num": 45212,
       "word": "陈俊崧回应不敌王楚钦林诗栋",
@@ -1755,6 +1811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25185,
+      "num": 181228,
+      "word": "张馨予下雨天收到女孩留的伞",
+      "onboard_time": 1759645701,
+      "rank": 19,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 24190,
       "num": 49314,
       "word": "檀健次现场临时创作改词",
@@ -1801,14 +1865,6 @@
       "onboard_time": 1759603514,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 11466,
-      "num": 181228,
-      "word": "张馨予下雨天收到女孩留的伞",
-      "onboard_time": 1759645701,
-      "rank": 19,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 11209,
