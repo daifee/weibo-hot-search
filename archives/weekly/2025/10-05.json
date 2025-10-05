@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759692989569,
+  "endTime": 1759695908031,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -3817,6 +3817,14 @@
       "onboard_time": 1759658963,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 18587,
+      "num": 26856,
+      "word": "当女朋友知道我有强迫症后",
+      "onboard_time": 1759693574,
+      "rank": 29,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 18482,
