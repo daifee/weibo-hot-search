@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/06 04:37:41
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/06 05:21:23
 </p>
 </blockquote>
 <p>
@@ -2877,6 +2877,12 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E5%86%8D%E6%AC%A1%E8%A2%AB%E4%BB%A5%E5%86%9B%E6%89%A3%E6%8A%BC%23" target="weibo">
+环保少女再次被以军扣押（热度：18889）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%9F%A5%E9%81%93%E6%88%91%E6%9C%89%E5%BC%BA%E8%BF%AB%E7%97%87%E5%90%8E%23" target="weibo">
 当女朋友知道我有强迫症后（热度：18587）
 </a>
@@ -2915,12 +2921,6 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%9C%80%E7%A9%B7%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%8F%91%E8%B5%B7%E7%9A%84%E4%B8%80%E5%9C%BA%E9%9D%A9%E5%91%BD%23" target="weibo">
 在最穷动物园发起的一场革命（热度：12661）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E5%86%8D%E6%AC%A1%E8%A2%AB%E4%BB%A5%E5%86%9B%E6%89%A3%E6%8A%BC%23" target="weibo">
-环保少女再次被以军扣押（热度：11654）
 </a>
 </li>
 
