@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759684826687,
+  "endTime": 1759685826276,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -3771,6 +3771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 275655,
+      "num": 108757,
+      "word": "刘诗诗陈哲远 红气养人",
+      "onboard_time": 1759681700,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 275582,
       "num": 275582,
       "word": "英雄联盟全球总决赛",
@@ -5561,14 +5569,6 @@
       "onboard_time": 1759637421,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191939,
-      "num": 108757,
-      "word": "刘诗诗陈哲远 红气养人",
-      "onboard_time": 1759681700,
-      "rank": 27,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 191793,
@@ -13123,6 +13123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 91791,
+      "num": 86181,
+      "word": "肖战工作室仪式感",
+      "onboard_time": 1759684878,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91763,
       "num": 110330,
       "word": "景德镇把椅子都借鸡排哥了",
@@ -13457,6 +13465,14 @@
       "onboard_time": 1759232424,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88190,
+      "num": 109003,
+      "word": "福建尤溪通报5人进废弃矿硐遇难",
+      "onboard_time": 1759680980,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88161,
@@ -14939,14 +14955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72755,
-      "num": 109003,
-      "word": "福建尤溪通报5人进废弃矿硐遇难",
-      "onboard_time": 1759680980,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72650,
       "num": 72650,
       "word": "曝S15陪练团名单",
@@ -16225,6 +16233,14 @@
       "onboard_time": 1759288219,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 44231,
+      "num": 82624,
+      "word": "赵雷音乐节",
+      "onboard_time": 1759684817,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 44152,

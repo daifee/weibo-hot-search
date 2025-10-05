@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/06 01:20:26
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/06 01:37:06
 </p>
 </blockquote>
 <p>
@@ -705,6 +705,12 @@ live图怎么关声音（热度：289588）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E9%99%88%E5%93%B2%E8%BF%9C%20%E7%BA%A2%E6%B0%94%E5%85%BB%E4%BA%BA%23" target="weibo">
+刘诗诗陈哲远 红气养人（热度：275655）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%86%9B%E5%B7%B2%E4%BB%8E%E8%BF%91%E6%B5%B7%E9%98%B2%E5%BE%A1%E8%BD%AC%E5%90%91%E8%BF%9C%E6%B5%B7%E9%98%B2%E5%8D%AB%23" target="weibo">
 中国海军已从近海防御转向远海防卫（热度：275406）
 </a>
@@ -965,12 +971,6 @@ celine大秀（热度：222882）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232025%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E9%98%B5%E5%AE%B9%23" target="weibo">
 2025央视中秋晚会阵容（热度：191984）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E9%99%88%E5%93%B2%E8%BF%9C%20%E7%BA%A2%E6%B0%94%E5%85%BB%E4%BA%BA%23" target="weibo">
-刘诗诗陈哲远 红气养人（热度：191939）
 </a>
 </li>
 
@@ -2235,6 +2235,12 @@ Celine终于有颜色了（热度：98713）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%BB%AA%E5%BC%8F%E6%84%9F%23" target="weibo">
+肖战工作室仪式感（热度：91791）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Doinb%E4%B8%8EBoaster%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8%23" target="weibo">
 Doinb与Boaster梦幻联动（热度：91660）
 </a>
@@ -2285,6 +2291,12 @@ Doinb与Boaster梦幻联动（热度：91660）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%BE%8E%E6%8B%89%E5%BE%B7%E9%80%A0%E5%9E%8B%E5%87%BA%E5%8F%91%E5%B7%B4%E9%BB%8E%23" target="weibo">
 赵今麦美拉德造型出发巴黎（热度：88549）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%B0%A4%E6%BA%AA%E9%80%9A%E6%8A%A55%E4%BA%BA%E8%BF%9B%E5%BA%9F%E5%BC%83%E7%9F%BF%E7%A1%90%E9%81%87%E9%9A%BE%23" target="weibo">
+福建尤溪通报5人进废弃矿硐遇难（热度：88190）
 </a>
 </li>
 
@@ -2447,12 +2459,6 @@ DRG强势拿下四连胜（热度：81263）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%86%E6%8E%A5%E6%89%8B3%E4%B8%AA%E7%83%82%E6%91%8A%E5%AD%90%23" target="weibo">
 高市早苗将接手3个烂摊子（热度：74126）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%B0%A4%E6%BA%AA%E9%80%9A%E6%8A%A55%E4%BA%BA%E8%BF%9B%E5%BA%9F%E5%BC%83%E7%9F%BF%E7%A1%90%E9%81%87%E9%9A%BE%23" target="weibo">
-福建尤溪通报5人进废弃矿硐遇难（热度：72755）
 </a>
 </li>
 
@@ -2717,6 +2723,12 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%A5%9D%E4%B8%AD%E7%A7%8B%E5%BF%AB%E4%B9%90%23" target="weibo">
 时代少年团祝中秋快乐（热度：48015）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9B%B7%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
+赵雷音乐节（热度：44231）
 </a>
 </li>
 

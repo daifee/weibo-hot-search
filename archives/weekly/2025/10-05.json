@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759684826687,
+  "endTime": 1759685826276,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -923,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275655,
+      "num": 108757,
+      "word": "刘诗诗陈哲远 红气养人",
+      "onboard_time": 1759681700,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 275406,
       "num": 443443,
       "word": "中国海军已从近海防御转向远海防卫",
@@ -1273,14 +1281,6 @@
       "onboard_time": 1759637421,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191939,
-      "num": 108757,
-      "word": "刘诗诗陈哲远 红气养人",
-      "onboard_time": 1759681700,
-      "rank": 27,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 191362,
@@ -2963,6 +2963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91791,
+      "num": 86181,
+      "word": "肖战工作室仪式感",
+      "onboard_time": 1759684878,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91660,
       "num": 91660,
       "word": "Doinb与Boaster梦幻联动",
@@ -3033,6 +3041,14 @@
       "onboard_time": 1759590322,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 88190,
+      "num": 109003,
+      "word": "福建尤溪通报5人进废弃矿硐遇难",
+      "onboard_time": 1759680980,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88159,
@@ -3249,14 +3265,6 @@
       "onboard_time": 1759636042,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 72755,
-      "num": 109003,
-      "word": "福建尤溪通报5人进废弃矿硐遇难",
-      "onboard_time": 1759680980,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72614,
@@ -3609,6 +3617,14 @@
       "onboard_time": 1759683979,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44231,
+      "num": 82624,
+      "word": "赵雷音乐节",
+      "onboard_time": 1759684817,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 43480,
