@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759681668953,
+  "endTime": 1759682506004,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -217,6 +217,14 @@
       "onboard_time": 1759649540,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1411855,
+      "num": 158968,
+      "word": "王俊凯工作室修图遗落了个鼻子",
+      "onboard_time": 1759680741,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1403802,
@@ -771,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 881454,
+      "num": 912375,
+      "word": "武契奇暗示可能爆发新战争",
+      "onboard_time": 1759680801,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 879839,
       "num": 227379,
       "word": "做手术前一定要多问一句",
@@ -929,14 +945,6 @@
       "onboard_time": 1759373599,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 779497,
-      "num": 912375,
-      "word": "武契奇暗示可能爆发新战争",
-      "onboard_time": 1759680801,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 778997,
@@ -2339,14 +2347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 428538,
-      "num": 158968,
-      "word": "王俊凯工作室修图遗落了个鼻子",
-      "onboard_time": 1759680741,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 427604,
       "num": 867365,
       "word": "著名景点张继科落水处",
@@ -2481,6 +2481,14 @@
       "onboard_time": 1759504402,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 401429,
+      "num": 401429,
+      "word": "福建5人进入废弃矿硐遇难",
+      "onboard_time": 1759680141,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 397604,
@@ -4161,14 +4169,6 @@
       "onboard_time": 1759421301,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248803,
-      "num": 248803,
-      "word": "福建5人进入废弃矿硐遇难",
-      "onboard_time": 1759680141,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 248371,
@@ -6299,6 +6299,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 171155,
+      "num": 157232,
+      "word": "G社拍的马柏全宋祖儿",
+      "onboard_time": 1759677561,
+      "rank": 39,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 170869,
       "num": 125440,
       "word": "王楚钦孙颖莎赛前对练",
@@ -7001,14 +7009,6 @@
       "onboard_time": 1759649600,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 157232,
-      "num": 157232,
-      "word": "G社拍的马柏全宋祖儿",
-      "onboard_time": 1759677561,
-      "rank": 39,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 157040,
@@ -8299,6 +8299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136389,
+      "num": 136389,
+      "word": "北大女生三分钟发言檀健次听入神了",
+      "onboard_time": 1759679360,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136323,
       "num": 136323,
       "word": "Gr对战GW",
@@ -8321,14 +8329,6 @@
       "onboard_time": 1759638680,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136076,
-      "num": 136076,
-      "word": "北大女生三分钟发言檀健次听入神了",
-      "onboard_time": 1759679360,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 135945,
@@ -11675,6 +11675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 103292,
+      "num": 103292,
+      "word": "刘诗诗陈哲远 红气养人",
+      "onboard_time": 1759681700,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 103291,
       "num": 138412,
       "word": "12306回应女子投诉同车乘客脚臭",
@@ -14139,6 +14147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82745,
+      "num": 90629,
+      "word": "樊振东德甲十月首战",
+      "onboard_time": 1759678522,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82658,
       "num": 92762,
       "word": "樊振东背着小书包",
@@ -14723,14 +14739,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 75729,
-      "num": 90629,
-      "word": "樊振东德甲十月首战",
-      "onboard_time": 1759678522,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75701,
       "num": 75701,
       "word": "鹿晗画了泪痣",
@@ -14913,6 +14921,14 @@
       "onboard_time": 1759418661,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72755,
+      "num": 90633,
+      "word": "福建尤溪通报5人进废弃矿硐遇难",
+      "onboard_time": 1759680980,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72650,
@@ -15395,14 +15411,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 64540,
-      "num": 90633,
-      "word": "福建尤溪通报5人进废弃矿硐遇难",
-      "onboard_time": 1759680980,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64513,
       "num": 100576,
       "word": "九年前的樊振东",
@@ -15881,6 +15889,14 @@
       "onboard_time": 1759635742,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54362,
+      "num": 77364,
+      "word": "阿尼西莫娃中网女单夺冠",
+      "onboard_time": 1759679061,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 54319,

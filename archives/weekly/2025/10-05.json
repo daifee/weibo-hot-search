@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759681668953,
+  "endTime": 1759682506004,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -41,6 +41,14 @@
       "onboard_time": 1759649540,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1411855,
+      "num": 158968,
+      "word": "王俊凯工作室修图遗落了个鼻子",
+      "onboard_time": 1759680741,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1403802,
@@ -195,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 881454,
+      "num": 912375,
+      "word": "武契奇暗示可能爆发新战争",
+      "onboard_time": 1759680801,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 875218,
       "num": 434000,
       "word": "肖战给自己做了个开水壶蛋糕",
@@ -217,14 +233,6 @@
       "onboard_time": 1759672103,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 779497,
-      "num": 912375,
-      "word": "武契奇暗示可能爆发新战争",
-      "onboard_time": 1759680801,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 777517,
@@ -483,14 +491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 428538,
-      "num": 158968,
-      "word": "王俊凯工作室修图遗落了个鼻子",
-      "onboard_time": 1759680741,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 426707,
       "num": 191551,
       "word": "黄一鸣曝闪闪要回来了",
@@ -521,6 +521,14 @@
       "onboard_time": 1759667723,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 401429,
+      "num": 401429,
+      "word": "福建5人进入废弃矿硐遇难",
+      "onboard_time": 1759680141,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 397604,
@@ -1011,14 +1019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 248803,
-      "num": 248803,
-      "word": "福建5人进入废弃矿硐遇难",
-      "onboard_time": 1759680141,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 245066,
       "num": 184346,
       "word": "hi6收视率排名第一",
@@ -1499,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171155,
+      "num": 157232,
+      "word": "G社拍的马柏全宋祖儿",
+      "onboard_time": 1759677561,
+      "rank": 39,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 170820,
       "num": 170820,
       "word": "入青云",
@@ -1649,14 +1657,6 @@
       "onboard_time": 1759649600,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 157232,
-      "num": 157232,
-      "word": "G社拍的马柏全宋祖儿",
-      "onboard_time": 1759677561,
-      "rank": 39,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 156916,
@@ -1939,6 +1939,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 136389,
+      "num": 136389,
+      "word": "北大女生三分钟发言檀健次听入神了",
+      "onboard_time": 1759679360,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 136323,
       "num": 136323,
       "word": "Gr对战GW",
@@ -1953,14 +1961,6 @@
       "onboard_time": 1759638680,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136076,
-      "num": 136076,
-      "word": "北大女生三分钟发言檀健次听入神了",
-      "onboard_time": 1759679360,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 135266,
@@ -2683,6 +2683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103292,
+      "num": 103292,
+      "word": "刘诗诗陈哲远 红气养人",
+      "onboard_time": 1759681700,
+      "rank": 27,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 102716,
       "num": 102716,
       "word": "李湘打码掌纹",
@@ -3123,6 +3131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82745,
+      "num": 90629,
+      "word": "樊振东德甲十月首战",
+      "onboard_time": 1759678522,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82274,
       "num": 139440,
       "word": "钢铁战士王楚钦",
@@ -3211,20 +3227,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 75729,
-      "num": 90629,
-      "word": "樊振东德甲十月首战",
-      "onboard_time": 1759678522,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 74126,
       "num": 145703,
       "word": "高市早苗将接手3个烂摊子",
       "onboard_time": 1759636042,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 72755,
+      "num": 90633,
+      "word": "福建尤溪通报5人进废弃矿硐遇难",
+      "onboard_time": 1759680980,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72614,
@@ -3345,14 +3361,6 @@
       "onboard_time": 1759588523,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64540,
-      "num": 90633,
-      "word": "福建尤溪通报5人进废弃矿硐遇难",
-      "onboard_time": 1759680980,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64127,
@@ -3521,6 +3529,14 @@
       "onboard_time": 1759635742,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54362,
+      "num": 77364,
+      "word": "阿尼西莫娃中网女单夺冠",
+      "onboard_time": 1759679061,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 53563,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/06 00:27:48
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/06 00:41:46
 </p>
 </blockquote>
 <p>
@@ -173,6 +173,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E6%99%92%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A%E5%81%A5%E5%BA%B7%E8%AF%81%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%23" target="weibo">
 鸡排哥晒检测报告健康证回应质疑（热度：1422561）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%BF%AE%E5%9B%BE%E9%81%97%E8%90%BD%E4%BA%86%E4%B8%AA%E9%BC%BB%E5%AD%90%23" target="weibo">
+王俊凯工作室修图遗落了个鼻子（热度：1411855）
 </a>
 </li>
 
@@ -591,6 +597,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E6%9A%97%E7%A4%BA%E5%8F%AF%E8%83%BD%E7%88%86%E5%8F%91%E6%96%B0%E6%88%98%E4%BA%89%23" target="weibo">
+武契奇暗示可能爆发新战争（热度：881454）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%9A%E6%89%8B%E6%9C%AF%E5%89%8D%E4%B8%80%E5%AE%9A%E8%A6%81%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%23" target="weibo">
 做手术前一定要多问一句（热度：879839）
 </a>
@@ -707,12 +719,6 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8A%8AG%E7%A4%BE%E5%8F%98%E7%AB%99%E5%A7%90%E4%BA%86%23" target="weibo">
 迪丽热巴把G社变站姐了（热度：788716）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E6%9A%97%E7%A4%BA%E5%8F%AF%E8%83%BD%E7%88%86%E5%8F%91%E6%96%B0%E6%88%98%E4%BA%89%23" target="weibo">
-武契奇暗示可能爆发新战争（热度：779497）
 </a>
 </li>
 
@@ -1767,12 +1773,6 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%BF%AE%E5%9B%BE%E9%81%97%E8%90%BD%E4%BA%86%E4%B8%AA%E9%BC%BB%E5%AD%90%23" target="weibo">
-王俊凯工作室修图遗落了个鼻子（热度：428538）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%97%E5%90%8D%E6%99%AF%E7%82%B9%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%90%BD%E6%B0%B4%E5%A4%84%23" target="weibo">
 著名景点张继科落水处（热度：427604）
 </a>
@@ -1871,6 +1871,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E5%85%B3%E6%B3%A8%E9%B8%A1%E6%8E%92%E5%93%A5%23" target="weibo">
 美媒关注鸡排哥（热度：404200）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA5%E4%BA%BA%E8%BF%9B%E5%85%A5%E5%BA%9F%E5%BC%83%E7%9F%BF%E7%A1%90%E9%81%87%E9%9A%BE%23" target="weibo">
+福建5人进入废弃矿硐遇难（热度：401429）
 </a>
 </li>
 
@@ -3131,12 +3137,6 @@ F1（热度：275052）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E9%A9%AC%E9%A0%94%E5%9B%9E%E5%A4%8D%E7%8E%8B%E8%8F%8A%23" target="weibo">
 李纯马頔回复王菊（热度：248880）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA5%E4%BA%BA%E8%BF%9B%E5%85%A5%E5%BA%9F%E5%BC%83%E7%9F%BF%E7%A1%90%E9%81%87%E9%9A%BE%23" target="weibo">
-福建5人进入废弃矿硐遇难（热度：248803）
 </a>
 </li>
 
@@ -4737,6 +4737,12 @@ F勒布伦首进大满贯决赛（热度：171269）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23G%E7%A4%BE%E6%8B%8D%E7%9A%84%E9%A9%AC%E6%9F%8F%E5%85%A8%E5%AE%8B%E7%A5%96%E5%84%BF%23" target="weibo">
+G社拍的马柏全宋祖儿（热度：171155）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E8%B5%9B%E5%89%8D%E5%AF%B9%E7%BB%83%23" target="weibo">
 王楚钦孙颖莎赛前对练（热度：170869）
 </a>
@@ -5261,12 +5267,6 @@ Dior大秀G社生图（热度：167518）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%23" target="weibo">
 三角洲行动（热度：157241）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23G%E7%A4%BE%E6%8B%8D%E7%9A%84%E9%A9%AC%E6%9F%8F%E5%85%A8%E5%AE%8B%E7%A5%96%E5%84%BF%23" target="weibo">
-G社拍的马柏全宋祖儿（热度：157232）
 </a>
 </li>
 
