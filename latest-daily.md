@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/06 00:27:48 ~ 2025/10/06 04:25:08
+本榜单时间：2025/10/06 00:27:48 ~ 2025/10/06 04:37:41
 </p>
 </blockquote>
 <p>
@@ -407,6 +407,12 @@ WTT（热度：72601）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 汪苏泷演唱会（热度：17207）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E5%86%8D%E6%AC%A1%E8%A2%AB%E4%BB%A5%E5%86%9B%E6%89%A3%E6%8A%BC%23" target="weibo">
+环保少女再次被以军扣押（热度：11654）
 </a>
 </li>
 
