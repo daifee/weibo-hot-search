@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759671454700,
+  "endTime": 1759674055205,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1703460,
-      "num": 235106,
+      "num": 291355,
       "word": "迪丽热巴 神女下凡",
       "onboard_time": 1759665263,
       "rank": 10,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1175380,
-      "num": 246363,
+      "num": 308537,
       "word": "迪丽热巴 河南送你了",
       "onboard_time": 1759667245,
       "rank": 15,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 777517,
-      "num": 288236,
+      "num": 304890,
       "word": "马思纯掀桌了",
       "onboard_time": 1759662503,
       "rank": 15,
@@ -225,6 +225,14 @@
       "onboard_time": 1759627758,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 739947,
+      "num": 1118391,
+      "word": "拉面哥掉粉42.8万",
+      "onboard_time": 1759668027,
+      "rank": 9,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 721830,
@@ -289,6 +297,14 @@
       "onboard_time": 1759586903,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 597792,
+      "num": 597792,
+      "word": "河南多地现行走的硫酸",
+      "onboard_time": 1759672103,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 587904,
@@ -411,12 +427,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 436377,
-      "num": 436377,
-      "word": "拉面哥掉粉42.8万",
-      "onboard_time": 1759668027,
-      "rank": 9,
-      "category": "民生新闻,网红"
+      "raw_hot": 437908,
+      "num": 437908,
+      "word": "王楚钦累得睡在场馆",
+      "onboard_time": 1759673004,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 426707,
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 404385,
-      "num": 242531,
+      "num": 299924,
       "word": "网购衣服不要只盯着卖衣服的店",
       "onboard_time": 1759667723,
       "rank": 19,
@@ -457,6 +473,14 @@
       "onboard_time": 1759634241,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393333,
+      "num": 296139,
+      "word": "华伦天奴大秀",
+      "onboard_time": 1759671263,
+      "rank": 37,
+      "category": "时尚"
     },
     {
       "raw_hot": 389679,
@@ -489,6 +513,14 @@
       "onboard_time": 1759632623,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 375061,
+      "num": 375061,
+      "word": "孙颖莎何卓佳两个人凑不出一把好伞",
+      "onboard_time": 1759671084,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 374856,
@@ -539,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354833,
+      "num": 354833,
+      "word": "香港海心公园割喉案嫌犯仍在逃",
+      "onboard_time": 1759672464,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 345471,
       "num": 191503,
       "word": "我家那闺女",
@@ -560,6 +600,14 @@
       "word": "小酒窝 我喜欢宋亚轩",
       "onboard_time": 1759639340,
       "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 341045,
+      "num": 223189,
+      "word": "温峥嵘直播说最讨厌装的人",
+      "onboard_time": 1759670724,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -595,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332108,
+      "num": 294981,
+      "word": "河南卫视太有审美了",
+      "onboard_time": 1759668503,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331880,
       "num": 223194,
       "word": "向太称郭碧婷父亲患重病",
@@ -617,6 +673,14 @@
       "onboard_time": 1759587561,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323016,
+      "num": 284775,
+      "word": "王橹杰高会",
+      "onboard_time": 1759658903,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 322587,
@@ -651,14 +715,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 315721,
-      "num": 240936,
-      "word": "河南卫视太有审美了",
-      "onboard_time": 1759668503,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 313818,
       "num": 166922,
       "word": "好命哥装病躲离婚",
@@ -681,6 +737,14 @@
       "onboard_time": 1759590022,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 311387,
+      "num": 311387,
+      "word": "苏超第2支四强球队诞生",
+      "onboard_time": 1759673124,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 309941,
@@ -747,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284196,
+      "num": 284196,
+      "word": "苏超",
+      "onboard_time": 1759672524,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280918,
       "num": 280918,
       "word": "苏新皓pk",
@@ -771,6 +843,22 @@
       "category": "情感,运动健身"
     },
     {
+      "raw_hot": 277262,
+      "num": 163383,
+      "word": "王楚钦背着小书包回家",
+      "onboard_time": 1759673064,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 275820,
+      "num": 203811,
+      "word": "建议气血不足的人不要留长发",
+      "onboard_time": 1759673244,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 275406,
       "num": 443443,
       "word": "中国海军已从近海防御转向远海防卫",
@@ -785,14 +873,6 @@
       "onboard_time": 1759632739,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 272332,
-      "num": 133506,
-      "word": "孙颖莎何卓佳两个人凑不出一把好伞",
-      "onboard_time": 1759671084,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 272172,
@@ -899,12 +979,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229974,
-      "num": 229593,
-      "word": "王橹杰高会",
-      "onboard_time": 1759658903,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 229562,
+      "num": 202474,
+      "word": "已经绝交的朋友教会了我的",
+      "onboard_time": 1759668684,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 229036,
@@ -923,12 +1003,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 223189,
-      "num": 223189,
-      "word": "温峥嵘直播说最讨厌装的人",
-      "onboard_time": 1759670724,
-      "rank": 24,
+      "raw_hot": 227732,
+      "num": 227732,
+      "word": "张子墨 时代峰峻倒闭了我怎么办",
+      "onboard_time": 1759668924,
+      "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227070,
+      "num": 163351,
+      "word": "孙颖莎左右开弓推箱子回家",
+      "onboard_time": 1759673064,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 223040,
@@ -1139,20 +1227,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190168,
-      "num": 153441,
-      "word": "已经绝交的朋友教会了我的",
-      "onboard_time": 1759668684,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 189851,
       "num": 141281,
       "word": "林诗栋止步大满贯半决赛",
       "onboard_time": 1759642401,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188788,
+      "num": 188788,
+      "word": "朱志鑫 能不能不上班就有工资",
+      "onboard_time": 1759673184,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 186927,
@@ -1307,6 +1395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169785,
+      "num": 169785,
+      "word": "我被惹了就许妍这样",
+      "onboard_time": 1759672584,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169610,
       "num": 149417,
       "word": "王楚钦孙颖莎扔花致谢球迷",
@@ -1379,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160435,
+      "num": 160435,
+      "word": "檀健次第三个生日愿望是什么",
+      "onboard_time": 1759673004,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159058,
       "num": 159058,
       "word": "减肥就是真的很爽啊",
@@ -1395,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158571,
+      "num": 158571,
+      "word": "一笑随歌",
+      "onboard_time": 1759673603,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158083,
       "num": 156561,
       "word": "王曼昱2比1反超孙颖莎",
@@ -1403,19 +1515,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157752,
+      "num": 157752,
+      "word": "樊振东摇摇晃晃上班",
+      "onboard_time": 1759672165,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157645,
       "num": 157645,
       "word": "张凌赫拍毕业照打了女生领结",
       "onboard_time": 1759664902,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 157391,
-      "num": 157391,
-      "word": "张子墨 时代峰峻倒闭了我怎么办",
-      "onboard_time": 1759668924,
-      "rank": 39,
       "category": "艺人"
     },
     {
@@ -1755,6 +1867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132865,
+      "num": 132865,
+      "word": "真没必要为三五年后的前途担忧",
+      "onboard_time": 1759671084,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132381,
       "num": 132381,
       "word": "一路灿烂开机",
@@ -1793,6 +1913,14 @@
       "onboard_time": 1759656981,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128390,
+      "num": 128390,
+      "word": "女童一觉醒来成鬼剃头",
+      "onboard_time": 1759672764,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128297,
@@ -1931,6 +2059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119620,
+      "num": 163440,
+      "word": "面部八段锦让你气色变好",
+      "onboard_time": 1759673303,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 118796,
       "num": 118796,
       "word": "原来这就是吃尽了红利的松弛感",
@@ -2003,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116271,
+      "num": 116271,
+      "word": "裁判马宁",
+      "onboard_time": 1759670423,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116029,
       "num": 116029,
       "word": "她一上午做了我一辈子的工作",
@@ -2043,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114861,
+      "num": 114861,
+      "word": "林依轮说乒乓球特别上头",
+      "onboard_time": 1759671805,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114325,
       "num": 114325,
       "word": "F勒布伦说想带着冠军回法国",
@@ -2059,12 +2211,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114160,
-      "num": 114160,
-      "word": "真没必要为三五年后的前途担忧",
-      "onboard_time": 1759671084,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 113932,
+      "num": 113932,
+      "word": "高市早苗用反华内容训练AI",
+      "onboard_time": 1759671744,
+      "rank": 49,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 113826,
@@ -2163,14 +2315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110200,
-      "num": 110200,
-      "word": "裁判马宁",
-      "onboard_time": 1759670423,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 110131,
       "num": 110131,
       "word": "杨博文看张子墨演唱会",
@@ -2227,20 +2371,20 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 108968,
+      "num": 136576,
+      "word": "申裕斌晒北京烤鸭",
+      "onboard_time": 1759671624,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108453,
       "num": 110862,
       "word": "正剧还得是视帝视后演",
       "onboard_time": 1759636881,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108307,
-      "num": 108307,
-      "word": "华伦天奴大秀",
-      "onboard_time": 1759671263,
-      "rank": 37,
-      "category": "时尚"
     },
     {
       "raw_hot": 108041,
@@ -2707,6 +2851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85257,
+      "num": 168931,
+      "word": "山西婚礼要在下水道井盖贴喜字",
+      "onboard_time": 1759673843,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85192,
       "num": 93362,
       "word": "79岁罗家英再扮唐僧景区打工",
@@ -2769,6 +2921,14 @@
       "onboard_time": 1759652840,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80594,
+      "num": 600452,
+      "word": "国庆档10亿大项目你参与了吗",
+      "onboard_time": 1759669584,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 79848,
@@ -2891,6 +3051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68600,
+      "num": 154721,
+      "word": "大学生卖雪王送鸡排哥高清写真",
+      "onboard_time": 1759673843,
+      "rank": 37,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 67068,
       "num": 93162,
       "word": "王楚钦说身兼三项消耗超出自己想象",
@@ -2963,14 +3131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 62671,
-      "num": 467405,
-      "word": "国庆档10亿大项目你参与了吗",
-      "onboard_time": 1759669584,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 62515,
       "num": 105870,
       "word": "男子恶意别车谎称公安被拘",
@@ -2993,6 +3153,14 @@
       "onboard_time": 1759619837,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59927,
+      "num": 144384,
+      "word": "巴西健美冠军睡梦中被妻子刺死",
+      "onboard_time": 1759673964,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 59705,
@@ -3321,6 +3489,14 @@
       "onboard_time": 1759658963,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 18482,
+      "num": 146031,
+      "word": "鹿晗耳边夹向日葵好萌",
+      "onboard_time": 1759673663,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 18231,
