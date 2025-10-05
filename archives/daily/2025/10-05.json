@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759663125942,
+  "endTime": 1759664223386,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -99,6 +99,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1000546,
+      "num": 224924,
+      "word": "王诗龄音腔口音",
+      "onboard_time": 1759662624,
+      "rank": 20,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 986621,
       "num": 440186,
       "word": "迪丽热巴中秋嫦娥造型",
@@ -177,6 +185,14 @@
       "onboard_time": 1759645341,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 777517,
+      "num": 288236,
+      "word": "马思纯掀桌了",
+      "onboard_time": 1759662503,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 768146,
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 447286,
-      "num": 222250,
+      "num": 285260,
       "word": "周峻纬音乐节被突然冲上台男子扒衣",
       "onboard_time": 1759655420,
       "rank": 25,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 389679,
-      "num": 207920,
+      "num": 224697,
       "word": "全家旅游遇车祸两女儿遇难妻子烧伤",
       "onboard_time": 1759651881,
       "rank": 20,
@@ -451,14 +467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 372064,
-      "num": 214193,
-      "word": "王诗龄音腔口音",
-      "onboard_time": 1759662624,
-      "rank": 20,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 363907,
       "num": 186788,
       "word": "郭富城回应三胎已出生",
@@ -497,6 +505,14 @@
       "onboard_time": 1759639340,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339183,
+      "num": 339183,
+      "word": "反手发球",
+      "onboard_time": 1759661784,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 338022,
@@ -579,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 313228,
+      "num": 283520,
+      "word": "宁艺卓pk",
+      "onboard_time": 1759661965,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311931,
       "num": 116376,
       "word": "檀健次演技",
@@ -627,11 +651,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 282703,
-      "num": 221183,
-      "word": "宁艺卓pk",
+      "raw_hot": 280918,
+      "num": 280918,
+      "word": "苏新皓pk",
       "onboard_time": 1759661965,
-      "rank": 11,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -641,6 +665,14 @@
       "onboard_time": 1759636700,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278474,
+      "num": 224753,
+      "word": "瘦了15斤后鼻子的变化",
+      "onboard_time": 1759661123,
+      "rank": 23,
+      "category": "情感,运动健身"
     },
     {
       "raw_hot": 275406,
@@ -659,16 +691,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 272424,
-      "num": 220261,
-      "word": "苏新皓pk",
-      "onboard_time": 1759661965,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 266447,
-      "num": 214641,
+      "num": 234878,
       "word": "许我耀眼一天一集",
       "onboard_time": 1759658062,
       "rank": 14,
@@ -707,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258020,
+      "num": 258020,
+      "word": "WTT",
+      "onboard_time": 1759645401,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254494,
       "num": 158439,
       "word": "家有儿女还是太写实了",
@@ -723,14 +755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 247993,
-      "num": 217308,
-      "word": "马思纯掀桌了",
-      "onboard_time": 1759662503,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 245066,
       "num": 184346,
       "word": "hi6收视率排名第一",
@@ -739,24 +763,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240363,
-      "num": 217014,
-      "word": "WTT",
-      "onboard_time": 1759645401,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 234789,
-      "num": 210450,
-      "word": "瘦了15斤后鼻子的变化",
-      "onboard_time": 1759661123,
-      "rank": 23,
-      "category": "情感,运动健身"
+      "raw_hot": 240484,
+      "num": 240484,
+      "word": "时代峰峻楼下 拍立得发布会",
+      "onboard_time": 1759661003,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 229974,
-      "num": 210914,
+      "num": 224950,
       "word": "王橹杰高会",
       "onboard_time": 1759658903,
       "rank": 19,
@@ -780,7 +796,7 @@
     },
     {
       "raw_hot": 223040,
-      "num": 223040,
+      "num": 293292,
       "word": "TTG对战KSG",
       "onboard_time": 1759662983,
       "rank": 9,
@@ -796,7 +812,7 @@
     },
     {
       "raw_hot": 221025,
-      "num": 221025,
+      "num": 289998,
       "word": "中国人的种菜技能太全面了",
       "onboard_time": 1759657702,
       "rank": 8,
@@ -812,7 +828,7 @@
     },
     {
       "raw_hot": 216897,
-      "num": 187034,
+      "num": 198964,
       "word": "王楚钦11比2F勒布伦",
       "onboard_time": 1759662983,
       "rank": 30,
@@ -832,14 +848,6 @@
       "word": "王楚钦晋级中国大满贯决赛",
       "onboard_time": 1759645100,
       "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 214361,
-      "num": 214361,
-      "word": "反手发球",
-      "onboard_time": 1759661784,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -864,6 +872,14 @@
       "word": "张晚意问还能演正剧吗",
       "onboard_time": 1759595780,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209670,
+      "num": 209670,
+      "word": "中秋晚会",
+      "onboard_time": 1759663762,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -923,6 +939,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200802,
+      "num": 200802,
+      "word": "p图姐喊话黄俊捷",
+      "onboard_time": 1759663644,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 200649,
+      "num": 200649,
+      "word": "王楚钦4比0战胜F勒布伦",
+      "onboard_time": 1759663344,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197674,
       "num": 191458,
       "word": "98岁母亲问67岁儿子做手术疼不疼",
@@ -947,6 +979,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 192284,
+      "num": 192284,
+      "word": "邓超请10个朋友吃大闸蟹",
+      "onboard_time": 1759663463,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191984,
       "num": 191984,
       "word": "2025央视中秋晚会阵容",
@@ -961,6 +1001,14 @@
       "onboard_time": 1759573521,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190732,
+      "num": 190732,
+      "word": "王楚钦对自己说你挺棒的",
+      "onboard_time": 1759664183,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 190506,
@@ -1123,14 +1171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168279,
-      "num": 168279,
-      "word": "时代峰峻楼下 拍立得发布会",
-      "onboard_time": 1759661003,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 166820,
       "num": 154629,
       "word": "住老破小的副作用已经出现了",
@@ -1177,6 +1217,14 @@
       "onboard_time": 1759654579,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161711,
+      "num": 161711,
+      "word": "欢乐家长群2大结局",
+      "onboard_time": 1759663283,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 159058,
@@ -1379,12 +1427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139624,
+      "num": 139624,
+      "word": "河南中秋晚会",
+      "onboard_time": 1759664183,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138427,
       "num": 138427,
       "word": "高市早苗将就参拜靖国神社作出回应",
       "onboard_time": 1759651640,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137723,
+      "num": 137723,
+      "word": "朋友之上 恋人之下",
+      "onboard_time": 1759663582,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 136992,
@@ -1419,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134878,
+      "num": 134878,
+      "word": "刘诗诗官摄",
+      "onboard_time": 1759662263,
+      "rank": 41,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 134364,
       "num": 134364,
       "word": "沙滩偶遇何炅许知远",
@@ -1449,14 +1521,6 @@
       "onboard_time": 1759654461,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131052,
-      "num": 131052,
-      "word": "刘诗诗官摄",
-      "onboard_time": 1759662263,
-      "rank": 41,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 129505,
@@ -1504,6 +1568,14 @@
       "word": "王亚飞给迪丽热巴化的嫦娥仙子妆",
       "onboard_time": 1759653440,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125012,
+      "num": 133523,
+      "word": "娜扎古装怎么美成这样",
+      "onboard_time": 1759662503,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1571,6 +1643,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 118485,
+      "num": 118485,
+      "word": "华晨宇歌迷喝掉4吨啤酒",
+      "onboard_time": 1759664003,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 118325,
       "num": 118325,
       "word": "我听苏新皓唱歌就这样变脸",
@@ -1609,6 +1689,14 @@
       "onboard_time": 1759630038,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116029,
+      "num": 116029,
+      "word": "她一上午做了我一辈子的工作",
+      "onboard_time": 1759661724,
+      "rank": 49,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 115642,
@@ -2401,14 +2489,6 @@
       "onboard_time": 1759633699,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70206,
-      "num": 133523,
-      "word": "娜扎古装怎么美成这样",
-      "onboard_time": 1759662503,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 67068,
