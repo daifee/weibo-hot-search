@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759656975394,
+  "endTime": 1759659833341,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -49,6 +49,14 @@
       "onboard_time": 1759240521,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2363947,
+      "num": 2363947,
+      "word": "王曼昱4比2战胜孙颖莎",
+      "onboard_time": 1759658783,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2087689,
@@ -297,6 +305,14 @@
       "onboard_time": 1759405702,
       "rank": 20,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 1290002,
+      "num": 1290002,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1759655781,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1280118,
@@ -641,6 +657,14 @@
       "onboard_time": 1759584022,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 903009,
+      "num": 903009,
+      "word": "环保少女被曝遭虐待强迫亲吻以国旗",
+      "onboard_time": 1759657221,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 902049,
@@ -1307,6 +1331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 616330,
+      "num": 616330,
+      "word": "孙颖莎中国大满贯亚军",
+      "onboard_time": 1759658843,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 616055,
       "num": 616055,
       "word": "王楚钦4比3向鹏",
@@ -1609,14 +1641,6 @@
       "onboard_time": 1759635319,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 540316,
-      "num": 540316,
-      "word": "孙颖莎vs王曼昱",
-      "onboard_time": 1759655781,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 540093,
@@ -2364,7 +2388,7 @@
     },
     {
       "raw_hot": 389679,
-      "num": 178212,
+      "num": 192089,
       "word": "全家旅游遇车祸两女儿遇难妻子烧伤",
       "onboard_time": 1759651881,
       "rank": 20,
@@ -2409,6 +2433,14 @@
       "onboard_time": 1759369279,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 381135,
+      "num": 381135,
+      "word": "王曼昱冠军",
+      "onboard_time": 1759659203,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 380916,
@@ -2857,6 +2889,14 @@
       "onboard_time": 1759398020,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 326619,
+      "num": 204183,
+      "word": "周峻纬音乐节被突然冲上台男子扒衣",
+      "onboard_time": 1759655420,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 326609,
@@ -3851,6 +3891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244844,
+      "num": 203341,
+      "word": "许我耀眼一天一集",
+      "onboard_time": 1759658062,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 244766,
       "num": 157390,
       "word": "巴基斯坦男孩枪杀4名亲人被判100年",
@@ -4251,6 +4299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218378,
+      "num": 218378,
+      "word": "珠峰东坡暴雪有人员已出现失温症状",
+      "onboard_time": 1759657820,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 217790,
       "num": 149684,
       "word": "迪丽热巴外媒镜头",
@@ -4427,6 +4483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210708,
+      "num": 202241,
+      "word": "孙颖莎12比10王曼昱",
+      "onboard_time": 1759657459,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210223,
       "num": 156372,
       "word": "张晚意问还能演正剧吗",
@@ -4537,6 +4601,14 @@
       "onboard_time": 1759537579,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206660,
+      "num": 206660,
+      "word": "中国人的种菜技能太全面了",
+      "onboard_time": 1759657702,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206346,
@@ -4947,6 +5019,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 195340,
+      "num": 195340,
+      "word": "王橹杰高会",
+      "onboard_time": 1759658903,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195147,
       "num": 195147,
       "word": "檀健次醉酒摔倒戏是现挂的",
@@ -5211,11 +5291,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186054,
+      "num": 186054,
+      "word": "celine大秀",
+      "onboard_time": 1759659384,
+      "rank": 24,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 185855,
       "num": 163847,
       "word": "邓亚萍说王楚钦这方面优于所有人",
       "onboard_time": 1759586781,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185585,
+      "num": 185585,
+      "word": "王楚钦vsF勒布伦",
+      "onboard_time": 1759659504,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -5281,14 +5377,6 @@
       "onboard_time": 1759380322,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183778,
-      "num": 183778,
-      "word": "周峻纬音乐节被突然冲上台男子扒衣",
-      "onboard_time": 1759655420,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 183726,
@@ -5633,6 +5721,14 @@
       "onboard_time": 1759584559,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 174104,
+      "num": 174104,
+      "word": "live图怎么关声音",
+      "onboard_time": 1759658903,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 173924,
@@ -6331,6 +6427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158083,
+      "num": 156561,
+      "word": "王曼昱2比1反超孙颖莎",
+      "onboard_time": 1759659624,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158038,
       "num": 158038,
       "word": "王楚钦林诗栋夺冠路上仅丢一局",
@@ -6361,6 +6465,14 @@
       "onboard_time": 1759502003,
       "rank": 37,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 157025,
+      "num": 157025,
+      "word": "赵本山女儿球球回应和哥哥争财产",
+      "onboard_time": 1759659022,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 156950,
@@ -7177,6 +7289,14 @@
       "onboard_time": 1759653200,
       "rank": 35,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 141717,
+      "num": 141717,
+      "word": "高铁 充电口使用权争议",
+      "onboard_time": 1759658903,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141614,
@@ -8353,6 +8473,14 @@
       "onboard_time": 1759586482,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124290,
+      "num": 124290,
+      "word": "发现小猫每天偷偷称体重",
+      "onboard_time": 1759656981,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 124197,
@@ -10227,6 +10355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106112,
+      "num": 106112,
+      "word": "马頔 醒来全身都是黑锅",
+      "onboard_time": 1759659504,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106098,
       "num": 106098,
       "word": "于正 我跟任何明星都不怕比战绩",
@@ -10403,6 +10539,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 104820,
+      "num": 104820,
+      "word": "王鹤棣新加坡健身被偶遇",
+      "onboard_time": 1759657581,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104772,
       "num": 104772,
       "word": "你以为的背调VS实际的背调",
@@ -10523,6 +10667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104098,
+      "num": 104098,
+      "word": "迪丽热巴玲珑金钗",
+      "onboard_time": 1759657523,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104095,
       "num": 104095,
       "word": "刘宇宁魔童降世",
@@ -10545,6 +10697,14 @@
       "onboard_time": 1759548740,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103921,
+      "num": 103921,
+      "word": "王曼昱1比1扳平",
+      "onboard_time": 1759659203,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 103904,
@@ -10649,6 +10809,14 @@
       "onboard_time": 1759580122,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102929,
+      "num": 102929,
+      "word": "陈数cos女法老A爆了",
+      "onboard_time": 1759659803,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 102906,
@@ -10939,6 +11107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 100777,
+      "num": 100777,
+      "word": "林依轮来看女单决赛了",
+      "onboard_time": 1759658662,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100700,
       "num": 100700,
       "word": "小金毛因太胖最终导致越狱失败",
@@ -11107,6 +11283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 99389,
+      "num": 99389,
+      "word": "王楚钦累得瘫倒在座位上",
+      "onboard_time": 1759658301,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99347,
       "num": 99347,
       "word": "特朗普考虑让战列舰回归海军",
@@ -11217,6 +11401,14 @@
       "onboard_time": 1759391781,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98177,
+      "num": 98177,
+      "word": "孙颖莎王曼昱对决水平太高了",
+      "onboard_time": 1759659803,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 98174,
@@ -14075,6 +14267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66455,
+      "num": 105431,
+      "word": "隧道车祸男孩跪地求路人救母",
+      "onboard_time": 1759658542,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66134,
       "num": 156116,
       "word": "园方回应东北虎二埋汰脏出新高度",
@@ -15452,7 +15652,7 @@
     },
     {
       "raw_hot": 31418,
-      "num": 389828,
+      "num": 1057423,
       "word": "明天中秋你准备怎么过",
       "onboard_time": 1759654461,
       "rank": 2,
@@ -15945,6 +16145,14 @@
       "onboard_time": 1759341617,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 15077,
+      "num": 106259,
+      "word": "不工作的时候可以在家玩什么",
+      "onboard_time": 1759658963,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 14703,
