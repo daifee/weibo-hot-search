@@ -1,0 +1,410 @@
+{
+  "runTime": 1759638492753,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 553060,
+        "num": 1088489,
+        "word": "9月的工资不用打给我了",
+        "onboard_time": 1759633759,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 521512,
+        "num": 521512,
+        "word": "不旅游就等于浪费假期吗",
+        "onboard_time": 1759634300,
+        "rank": 1,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 36378,
+        "num": 370602,
+        "word": "8天长假已过半",
+        "onboard_time": 1759628539,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310211,
+        "num": 310211,
+        "word": "大聪明已经提前到5号返程了",
+        "onboard_time": 1759634241,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235250,
+        "num": 235250,
+        "word": "28岁戴3个月牙套的后遗症",
+        "onboard_time": 1759628480,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 207064,
+        "num": 207064,
+        "word": "广东转移超15万人",
+        "onboard_time": 1759627758,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183319,
+        "num": 207047,
+        "word": "三亚大悦城致歉",
+        "onboard_time": 1759625959,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152250,
+        "num": 206428,
+        "word": "马来西亚游客感叹中国人好幸福",
+        "onboard_time": 1759626139,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121266,
+        "num": 205646,
+        "word": "旬阳警方辟谣新郎母亲跳江",
+        "onboard_time": 1759628480,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118474,
+        "num": 205295,
+        "word": "歼35机库首公开",
+        "onboard_time": 1759628599,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1114167,
+        "num": 204712,
+        "word": "鹿晗拒绝了粉丝送的冰淇淋",
+        "onboard_time": 1759635079,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 986621,
+        "num": 204118,
+        "word": "迪丽热巴中秋嫦娥造型",
+        "onboard_time": 1759636461,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 951555,
+        "num": 203539,
+        "word": "王祖蓝因父亲去世把46岁当作生命的坎",
+        "onboard_time": 1759632499,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500824,
+        "num": 203066,
+        "word": "肖战给自己做了个开水壶蛋糕",
+        "onboard_time": 1759630038,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19124,
+        "num": 202240,
+        "word": "王嘉尔MAGICMAN2世界巡演",
+        "onboard_time": 1759637001,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 869806,
+        "num": 201724,
+        "word": "高市早苗否认南京大屠杀",
+        "onboard_time": 1759632139,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 478285,
+        "num": 201612,
+        "word": "张婧仪小时候睡过觉吗",
+        "onboard_time": 1759635319,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433673,
+        "num": 200798,
+        "word": "快乐星球老顽童爷爷去世",
+        "onboard_time": 1759634180,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42673,
+        "num": 200219,
+        "word": "林诗栋vsF勒布伦",
+        "onboard_time": 1759638081,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54549,
+        "num": 199771,
+        "word": "刘嘉玲私人健康顾问被曝光",
+        "onboard_time": 1759635742,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374856,
+        "num": 199160,
+        "word": "命真好头胎生了个月嫂",
+        "onboard_time": 1759634241,
+        "rank": 20,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 306687,
+        "num": 198901,
+        "word": "黄磊8岁儿子身高",
+        "onboard_time": 1759635200,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306232,
+        "num": 197975,
+        "word": "酒店一天8场婚礼共用一个拱门",
+        "onboard_time": 1759636223,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252179,
+        "num": 197594,
+        "word": "赵磊首次回应26岁官宣结婚",
+        "onboard_time": 1759632623,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245934,
+        "num": 197060,
+        "word": "戚薇 G社好离谱",
+        "onboard_time": 1759588342,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230746,
+        "num": 196649,
+        "word": "肖战34岁生日居家照",
+        "onboard_time": 1759619656,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215190,
+        "num": 195797,
+        "word": "陈奕迅女儿与男友秀恩爱",
+        "onboard_time": 1759636700,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195733,
+        "num": 195733,
+        "word": "王俊凯父母开的奶茶店停业",
+        "onboard_time": 1759637961,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191984,
+        "num": 191984,
+        "word": "2025央视中秋晚会阵容",
+        "onboard_time": 1759637421,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163928,
+        "num": 163928,
+        "word": "环保少女称被以色列关在臭虫牢房",
+        "onboard_time": 1759635742,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152262,
+        "num": 152262,
+        "word": "池昌旭差点被亲上",
+        "onboard_time": 1759634540,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149919,
+        "num": 149919,
+        "word": "常华森早该拍现代剧了",
+        "onboard_time": 1759637722,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138010,
+        "num": 138010,
+        "word": "宴遇永安",
+        "onboard_time": 1759638141,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133562,
+        "num": 133562,
+        "word": "丁禹兮演我睡前玩手机",
+        "onboard_time": 1759636700,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130002,
+        "num": 130002,
+        "word": "男子按摩要求大力后突发小脑梗死",
+        "onboard_time": 1759637061,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124749,
+        "num": 124749,
+        "word": "张柏芝带两个儿子逛街",
+        "onboard_time": 1759634661,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118325,
+        "num": 118325,
+        "word": "我听苏新皓唱歌就这样变脸",
+        "onboard_time": 1759637540,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116037,
+        "num": 116037,
+        "word": "给男朋友点的咖啡送到了妈妈手里",
+        "onboard_time": 1759634840,
+        "rank": 37,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 57839,
+        "num": 114181,
+        "word": "刘轩丞被路人当成韩国爱豆",
+        "onboard_time": 1759638200,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27468,
+        "num": 114074,
+        "word": "白鹿蹲房车门口吓丞磊",
+        "onboard_time": 1759638081,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114003,
+        "num": 114003,
+        "word": "家猫突然扑向主人挠20多道伤口",
+        "onboard_time": 1759626139,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112430,
+        "num": 112430,
+        "word": "一转头被杨超越美到失语",
+        "onboard_time": 1759637901,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 111125,
+        "num": 111125,
+        "word": "月饼震惊外国友人了",
+        "onboard_time": 1759633220,
+        "rank": 42,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 111866,
+        "num": 111075,
+        "word": "董洁优雅小黑裙",
+        "onboard_time": 1759638379,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 108453,
+        "num": 110862,
+        "word": "正剧还得是视帝视后演",
+        "onboard_time": 1759636881,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59560,
+        "num": 110728,
+        "word": "男子列车上铺跌落将10岁女孩砸骨折",
+        "onboard_time": 1759637001,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107557,
+        "num": 110541,
+        "word": "陆毅不敢吃鲍蕾做的饭",
+        "onboard_time": 1759632739,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110524,
+        "num": 110524,
+        "word": "樊振东微博粉丝突破900万",
+        "onboard_time": 1759637780,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109401,
+        "num": 109401,
+        "word": "台风",
+        "onboard_time": 1759638441,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 74126,
+        "num": 106340,
+        "word": "高市早苗将接手3个烂摊子",
+        "onboard_time": 1759636042,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族的文化根脉#"
+    }
+  }
+}
