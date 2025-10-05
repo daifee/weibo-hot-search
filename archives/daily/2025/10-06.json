@@ -1,6 +1,6 @@
 {
   "startTime": 1759681668953,
-  "endTime": 1759703935105,
+  "endTime": 1759706446432,
   "band_list": [
     {
       "raw_hot": 1411855,
@@ -155,6 +155,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174679,
+      "num": 136389,
+      "word": "北大女生三分钟发言檀健次听入神了",
+      "onboard_time": 1759679360,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 174184,
+      "num": 138016,
+      "word": "福建尤溪通报5人进废弃矿硐遇难",
+      "onboard_time": 1759680980,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173387,
       "num": 173387,
       "word": "王楚钦男单积分破万",
@@ -203,22 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 139319,
-      "num": 136389,
-      "word": "北大女生三分钟发言檀健次听入神了",
-      "onboard_time": 1759679360,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 138016,
-      "num": 138016,
-      "word": "福建尤溪通报5人进废弃矿硐遇难",
-      "onboard_time": 1759680980,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131999,
       "num": 131999,
       "word": "大学生卖雪王送鸡排哥高清写真",
@@ -251,12 +251,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104444,
+      "num": 104444,
+      "word": "高市早苗用反华内容训练AI",
+      "onboard_time": 1759671744,
+      "rank": 41,
+      "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 99719,
+      "num": 62417,
+      "word": "女子为救爱犬被狗咬伤狂冲水仍发烧",
+      "onboard_time": 1759706057,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97787,
       "num": 102677,
       "word": "已经绝交的朋友教会了我的",
       "onboard_time": 1759668684,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 97459,
+      "num": 61713,
+      "word": "许我耀眼妍妍接电话名场面来了",
+      "onboard_time": 1759706117,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 93516,
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 79457,
-      "num": 47957,
+      "num": 57751,
       "word": "王扁穿外卖工服道歉退网",
       "onboard_time": 1759687936,
       "rank": 28,
@@ -329,6 +353,14 @@
       "onboard_time": 1759679661,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 77783,
+      "num": 102852,
+      "word": "向太称郭碧婷父亲患重病",
+      "onboard_time": 1759666283,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 77080,
@@ -387,28 +419,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 69506,
-      "num": 102852,
-      "word": "向太称郭碧婷父亲患重病",
-      "onboard_time": 1759666283,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 68221,
       "num": 90644,
       "word": "柏林偶遇欧阳娜娜",
       "onboard_time": 1759676664,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67799,
-      "num": 101182,
-      "word": "高市早苗用反华内容训练AI",
-      "onboard_time": 1759671744,
-      "rank": 41,
-      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 67542,
@@ -459,20 +475,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56394,
+      "num": 56394,
+      "word": "环保少女再次被以军扣押",
+      "onboard_time": 1759696153,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54362,
       "num": 77364,
       "word": "阿尼西莫娃中网女单夺冠",
       "onboard_time": 1759679061,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50106,
-      "num": 50106,
-      "word": "环保少女再次被以军扣押",
-      "onboard_time": 1759696153,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 48732,
@@ -483,11 +499,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 48436,
+      "num": 48436,
+      "word": "迪丽热巴非遗灵雀缀宝冠",
+      "onboard_time": 1759700893,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 48015,
       "num": 101074,
       "word": "时代少年团祝中秋快乐",
       "onboard_time": 1759683979,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 47396,
+      "num": 47396,
+      "word": "吴克群空降素人婚礼现场随礼999元",
+      "onboard_time": 1759704436,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -499,12 +531,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 31345,
-      "num": 31345,
-      "word": "迪丽热巴非遗灵雀缀宝冠",
-      "onboard_time": 1759700893,
+      "raw_hot": 37693,
+      "num": 37693,
+      "word": "王楚钦中国大满贯冠军自拍",
+      "onboard_time": 1759706057,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 33630,
+      "num": 36965,
+      "word": "孙俪怎么美成这样了",
+      "onboard_time": 1759706117,
       "rank": 38,
-      "category": "综艺"
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 27240,
+      "num": 36884,
+      "word": "李昀锐一句台词听不到但看哭了",
+      "onboard_time": 1759706237,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 26280,

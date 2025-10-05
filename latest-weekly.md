@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/06 06:38:55
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/06 07:20:46
 </p>
 </blockquote>
 <p>
@@ -1119,6 +1119,18 @@ iG疑似韩国集训（热度：183394）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%A5%B3%E7%94%9F%E4%B8%89%E5%88%86%E9%92%9F%E5%8F%91%E8%A8%80%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%AC%E5%85%A5%E7%A5%9E%E4%BA%86%23" target="weibo">
+北大女生三分钟发言檀健次听入神了（热度：174679）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%B0%A4%E6%BA%AA%E9%80%9A%E6%8A%A55%E4%BA%BA%E8%BF%9B%E5%BA%9F%E5%BC%83%E7%9F%BF%E7%A1%90%E9%81%87%E9%9A%BE%23" target="weibo">
+福建尤溪通报5人进废弃矿硐遇难（热度：174184）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%20%E9%87%91%E9%B8%A1%E7%A9%BF%E8%BF%99%E4%B8%AA%E5%BE%88colorful%23" target="weibo">
 惠英红 金鸡穿这个很colorful（热度：173924）
 </a>
@@ -1455,12 +1467,6 @@ F1（热度：144419）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%A5%B3%E7%94%9F%E4%B8%89%E5%88%86%E9%92%9F%E5%8F%91%E8%A8%80%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%AC%E5%85%A5%E7%A5%9E%E4%BA%86%23" target="weibo">
-北大女生三分钟发言檀健次听入神了（热度：139319）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%86%E5%B0%B1%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E4%BD%9C%E5%87%BA%E5%9B%9E%E5%BA%94%23" target="weibo">
 高市早苗将就参拜靖国神社作出回应（热度：138427）
 </a>
@@ -1475,12 +1481,6 @@ F1（热度：144419）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%8A%8A10%E7%B1%B3%E9%AB%98%E7%9A%84%E8%88%B9%E6%90%AC%E4%B8%8A%E4%BA%86%E8%88%9E%E5%8F%B0%23" target="weibo">
 华晨宇把10米高的船搬上了舞台（热度：138226）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%B0%A4%E6%BA%AA%E9%80%9A%E6%8A%A55%E4%BA%BA%E8%BF%9B%E5%BA%9F%E5%BC%83%E7%9F%BF%E7%A1%90%E9%81%87%E9%9A%BE%23" target="weibo">
-福建尤溪通报5人进废弃矿硐遇难（热度：138016）
 </a>
 </li>
 
@@ -2121,6 +2121,12 @@ TES让二追三成功攻擂（热度：99730）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E6%95%91%E7%88%B1%E7%8A%AC%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E7%8B%82%E5%86%B2%E6%B0%B4%E4%BB%8D%E5%8F%91%E7%83%A7%23" target="weibo">
+女子为救爱犬被狗咬伤狂冲水仍发烧（热度：99719）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%BB%99%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%BC%A0%E4%BA%91%E9%BE%99%E6%8B%8D%E7%9A%84%E6%9D%A5%E6%88%98%E5%A4%A7%E7%89%87%23" target="weibo">
 我给鞠婧祎张云龙拍的来战大片（热度：99404）
 </a>
@@ -2171,6 +2177,12 @@ Celine终于有颜色了（热度：98713）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8D%B7%E5%85%8B%E5%8F%AF%E8%83%BD%E8%A6%81%E5%8F%98%E5%A4%A9%23" target="weibo">
 捷克可能要变天（热度：97534）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E5%A6%8D%E5%A6%8D%E6%8E%A5%E7%94%B5%E8%AF%9D%E5%90%8D%E5%9C%BA%E9%9D%A2%E6%9D%A5%E4%BA%86%23" target="weibo">
+许我耀眼妍妍接电话名场面来了（热度：97459）
 </a>
 </li>
 
@@ -2655,6 +2667,12 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E5%86%8D%E6%AC%A1%E8%A2%AB%E4%BB%A5%E5%86%9B%E6%89%A3%E6%8A%BC%23" target="weibo">
+环保少女再次被以军扣押（热度：56394）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E9%AB%98%E9%80%9F%E5%A0%B5%E8%BD%A6%E9%92%93%E5%88%B0%E5%A4%A7%E9%B1%BC%E8%A2%AB%E5%9B%B4%E8%A7%82%23" target="weibo">
 小伙高速堵车钓到大鱼被围观（热度：55966）
 </a>
@@ -2721,20 +2739,26 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E5%86%8D%E6%AC%A1%E8%A2%AB%E4%BB%A5%E5%86%9B%E6%89%A3%E6%8A%BC%23" target="weibo">
-环保少女再次被以军扣押（热度：50106）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E5%8D%AB%E7%94%9F%E9%97%B4%E8%87%AA%E6%9D%A5%E6%B0%B4%E6%9C%89%E5%B0%BF%E5%91%B3%23" target="weibo">
 景区回应卫生间自来水有尿味（热度：49479）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%9D%9E%E9%81%97%E7%81%B5%E9%9B%80%E7%BC%80%E5%AE%9D%E5%86%A0%23" target="weibo">
+迪丽热巴非遗灵雀缀宝冠（热度：48436）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%A5%9D%E4%B8%AD%E7%A7%8B%E5%BF%AB%E4%B9%90%23" target="weibo">
 时代少年团祝中秋快乐（热度：48015）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%85%8B%E7%BE%A4%E7%A9%BA%E9%99%8D%E7%B4%A0%E4%BA%BA%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%E9%9A%8F%E7%A4%BC999%E5%85%83%23" target="weibo">
+吴克群空降素人婚礼现场随礼999元（热度：47396）
 </a>
 </li>
 
@@ -2781,6 +2805,12 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%86%A0%E5%86%9B%E8%87%AA%E6%8B%8D%23" target="weibo">
+王楚钦中国大满贯冠军自拍（热度：37693）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9B%E9%97%A8%E6%98%AF%E6%B2%88%E7%9C%9F%E5%87%BA%E9%97%A8%E6%98%AF%E7%A7%A6%E5%B2%9A%23" target="weibo">
 进门是沈真出门是秦岚（热度：36081）
 </a>
@@ -2789,6 +2819,12 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%AE%87%E5%AE%99%E8%B6%85%E7%BA%A7%E6%97%A0%E6%95%8C%E5%A4%A7%E7%8B%82%E6%AC%A2%E5%B7%A1%E6%BC%94%23" target="weibo">
 王源宇宙超级无敌大狂欢巡演（热度：35605）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E6%80%8E%E4%B9%88%E7%BE%8E%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%23" target="weibo">
+孙俪怎么美成这样了（热度：33630）
 </a>
 </li>
 
@@ -2817,12 +2853,6 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%9D%9E%E9%81%97%E7%81%B5%E9%9B%80%E7%BC%80%E5%AE%9D%E5%86%A0%23" target="weibo">
-迪丽热巴非遗灵雀缀宝冠（热度：31345）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%AF%B4%E8%B7%9F%E8%8E%8E%E8%8E%8E%E5%86%B3%E8%B5%9B%E4%BC%9A%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%23" target="weibo">
 王曼昱说跟莎莎决赛会全力以赴（热度：31293）
 </a>
@@ -2843,6 +2873,12 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BE%B7%E5%A7%86%E9%80%BC%E8%BF%91%E5%B9%BF%E4%B8%9C%E6%8E%80%E8%B5%B75%E7%B1%B3%E5%B7%A8%E6%B5%AA%23" target="weibo">
 麦德姆逼近广东掀起5米巨浪（热度：27753）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E4%B8%80%E5%8F%A5%E5%8F%B0%E8%AF%8D%E5%90%AC%E4%B8%8D%E5%88%B0%E4%BD%86%E7%9C%8B%E5%93%AD%E4%BA%86%23" target="weibo">
+李昀锐一句台词听不到但看哭了（热度：27240）
 </a>
 </li>
 

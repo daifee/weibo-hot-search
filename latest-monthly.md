@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/06 06:38:55
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/06 07:20:46
 </p>
 </blockquote>
 <p>
@@ -4677,6 +4677,18 @@ AG对战JDG（热度：181803）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%A5%B3%E7%94%9F%E4%B8%89%E5%88%86%E9%92%9F%E5%8F%91%E8%A8%80%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%AC%E5%85%A5%E7%A5%9E%E4%BA%86%23" target="weibo">
+北大女生三分钟发言檀健次听入神了（热度：174679）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%B0%A4%E6%BA%AA%E9%80%9A%E6%8A%A55%E4%BA%BA%E8%BF%9B%E5%BA%9F%E5%BC%83%E7%9F%BF%E7%A1%90%E9%81%87%E9%9A%BE%23" target="weibo">
+福建尤溪通报5人进废弃矿硐遇难（热度：174184）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%20%E9%87%91%E9%B8%A1%E7%A9%BF%E8%BF%99%E4%B8%AA%E5%BE%88colorful%23" target="weibo">
 惠英红 金鸡穿这个很colorful（热度：173924）
 </a>
@@ -5999,18 +6011,6 @@ Wolves对战北京WBG（热度：142945）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%94%B1%E5%AE%8C%E6%AD%8C%E4%BB%A5%E4%B8%BA%E8%87%AA%E5%B7%B1%E4%B8%8B%E7%8F%AD%E4%BA%86%23" target="weibo">
 肖战唱完歌以为自己下班了（热度：140473）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%87%BA%E5%8F%91%E5%B7%B4%E9%BB%8E%E4%BA%86%23" target="weibo">
-王俊凯出发巴黎了（热度：140428）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BC%BB%E5%AD%90%E5%86%B3%E5%AE%9A%E4%BA%86%E9%A2%9C%E5%80%BC%E7%9A%84%E4%B8%8A%E9%99%90%23" target="weibo">
-鼻子决定了颜值的上限（热度：140316）
 </a>
 </li>
 
