@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759646723735,
+  "endTime": 1759648885505,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -105,6 +105,14 @@
       "onboard_time": 1759630038,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 845217,
+      "num": 1135234,
+      "word": "王楚钦决胜局3比7大逆转",
+      "onboard_time": 1759645341,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 768146,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 426707,
-      "num": 186892,
+      "num": 191551,
       "word": "黄一鸣曝闪闪要回来了",
       "onboard_time": 1759641322,
       "rank": 33,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 345471,
-      "num": 184545,
+      "num": 191503,
       "word": "我家那闺女",
       "onboard_time": 1759642401,
       "rank": 24,
@@ -387,11 +395,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 308883,
-      "num": 174347,
-      "word": "王楚钦决胜局3比7大逆转",
-      "onboard_time": 1759645341,
-      "rank": 24,
+      "raw_hot": 308611,
+      "num": 308611,
+      "word": "王楚钦强大的意志品质",
+      "onboard_time": 1759645820,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -411,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 278096,
+      "num": 278096,
+      "word": "金价",
+      "onboard_time": 1759645640,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 275406,
       "num": 443443,
       "word": "中国海军已从近海防御转向远海防卫",
@@ -425,14 +441,6 @@
       "onboard_time": 1759632739,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266215,
-      "num": 266215,
-      "word": "王楚钦强大的意志品质",
-      "onboard_time": 1759645820,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 263675,
@@ -496,6 +504,14 @@
       "word": "旬阳警方辟谣新郎母亲跳江",
       "onboard_time": 1759628480,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223180,
+      "num": 191483,
+      "word": "两婚车相遇互不让路砍树通行",
+      "onboard_time": 1759648221,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -563,6 +579,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200798,
+      "num": 191476,
+      "word": "姐姐是魔丸弟弟就是灵珠",
+      "onboard_time": 1759646421,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 197674,
+      "num": 191458,
+      "word": "98岁母亲问67岁儿子做手术疼不疼",
+      "onboard_time": 1759643422,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192911,
       "num": 143610,
       "word": "出嫁那天跟你出生那天一样热闹",
@@ -579,12 +611,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191447,
+      "num": 191447,
+      "word": "陈震再发文道歉",
+      "onboard_time": 1759647980,
+      "rank": 24,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 191362,
       "num": 115741,
       "word": "微信里的钱包一定要上锁",
       "onboard_time": 1759573521,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 190506,
+      "num": 190506,
+      "word": "王楚钦回应4比3逆转进决赛",
+      "onboard_time": 1759647679,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 190286,
@@ -659,6 +707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 178590,
+      "num": 178590,
+      "word": "樊振东是首位超级金满贯得主",
+      "onboard_time": 1759648820,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178188,
       "num": 178188,
       "word": "柬警方解救一被绑架的19岁中国人",
@@ -731,14 +787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 166322,
-      "num": 166322,
-      "word": "98岁母亲问67岁儿子做手术疼不疼",
-      "onboard_time": 1759643422,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166242,
       "num": 145829,
       "word": "入青云OST阵容",
@@ -793,6 +841,22 @@
       "onboard_time": 1759634540,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 151844,
+      "num": 151844,
+      "word": "拍摄者回应两婚车碰头谁都不让谁",
+      "onboard_time": 1759644202,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151746,
+      "num": 151746,
+      "word": "假期最耗气血的5个习惯",
+      "onboard_time": 1759648040,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 149919,
@@ -875,6 +939,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 136323,
+      "num": 136323,
+      "word": "Gr对战GW",
+      "onboard_time": 1759647740,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136104,
       "num": 136104,
       "word": "消失的她古偶版",
@@ -931,12 +1003,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125366,
-      "num": 125366,
-      "word": "拍摄者回应两婚车碰头谁都不让谁",
-      "onboard_time": 1759644202,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 122724,
+      "num": 122724,
+      "word": "张艺兴美猴王造型",
+      "onboard_time": 1759647260,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 121879,
@@ -984,6 +1056,14 @@
       "word": "王曼昱鹰眼挑战失败",
       "onboard_time": 1759580002,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116972,
+      "num": 116972,
+      "word": "陈幸同总结中国大满贯",
+      "onboard_time": 1759648820,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -1041,6 +1121,14 @@
       "onboard_time": 1759633880,
       "rank": 46,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 113382,
+      "num": 113382,
+      "word": "好命哥装病躲离婚",
+      "onboard_time": 1759647980,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 112430,
@@ -1115,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105800,
+      "num": 113384,
+      "word": "青岛海滩海鲜爆桶2小时捡60多斤",
+      "onboard_time": 1759646061,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105365,
       "num": 103937,
       "word": "马思纯 观众缘",
@@ -1147,14 +1243,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 104071,
-      "num": 104071,
-      "word": "金价",
-      "onboard_time": 1759645640,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 103443,
       "num": 103443,
       "word": "纹身1500洗纹身15000",
@@ -1171,12 +1259,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101775,
+      "num": 101775,
+      "word": "许我耀眼于岚有多偏爱儿媳",
+      "onboard_time": 1759647320,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100162,
       "num": 100162,
       "word": "张佳宁车内化妆像极了我赶早八",
       "onboard_time": 1759641081,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100079,
+      "num": 100079,
+      "word": "陈飞宇外媒镜头",
+      "onboard_time": 1759648639,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 99882,
@@ -1299,14 +1403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 88726,
-      "num": 88726,
-      "word": "姐姐是魔丸弟弟就是灵珠",
-      "onboard_time": 1759646421,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 88549,
       "num": 93384,
       "word": "赵今麦美拉德造型出发巴黎",
@@ -1400,6 +1496,14 @@
       "word": "白冰穿汉服梦回神话",
       "onboard_time": 1759632380,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 77383,
+      "num": 113400,
+      "word": "李嘉格是井迪师姐",
+      "onboard_time": 1759647740,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -1547,6 +1651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63302,
+      "num": 191662,
+      "word": "麦德姆登陆广东",
+      "onboard_time": 1759648040,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62515,
       "num": 105870,
       "word": "男子恶意别车谎称公安被拘",
@@ -1609,6 +1721,22 @@
       "onboard_time": 1759629981,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 57501,
+      "num": 113432,
+      "word": "国庆朋友圈主理人",
+      "onboard_time": 1759648579,
+      "rank": 38,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 56696,
+      "num": 100804,
+      "word": "F1新加坡大奖赛赛道闯入一只大蜥蜴",
+      "onboard_time": 1759647381,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 56617,
@@ -1696,14 +1824,6 @@
       "word": "景区回应卫生间自来水有尿味",
       "onboard_time": 1759641801,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43796,
-      "num": 103326,
-      "word": "青岛海滩海鲜爆桶2小时捡60多斤",
-      "onboard_time": 1759646061,
-      "rank": 39,
       "category": "民生新闻"
     },
     {

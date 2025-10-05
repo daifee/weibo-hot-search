@@ -1,0 +1,410 @@
+{
+  "runTime": 1759648885505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 845217,
+        "num": 1135234,
+        "word": "王楚钦决胜局3比7大逆转",
+        "onboard_time": 1759645341,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308611,
+        "num": 308611,
+        "word": "王楚钦强大的意志品质",
+        "onboard_time": 1759645820,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35008,
+        "num": 287327,
+        "word": "8天长假已过半",
+        "onboard_time": 1759628539,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282358,
+        "num": 282358,
+        "word": "9月的工资不用打给我了",
+        "onboard_time": 1759633759,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 278096,
+        "num": 278096,
+        "word": "金价",
+        "onboard_time": 1759645640,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 239022,
+        "num": 239022,
+        "word": "金正恩警告美国",
+        "onboard_time": 1759639822,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209856,
+        "num": 209856,
+        "word": "月饼震惊外国友人了",
+        "onboard_time": 1759633220,
+        "rank": 6,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 195472,
+        "num": 195472,
+        "word": "大聪明已经提前到5号返程了",
+        "onboard_time": 1759634241,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191671,
+        "num": 191671,
+        "word": "中国海军已从近海防御转向远海防卫",
+        "onboard_time": 1759639100,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 63302,
+        "num": 191662,
+        "word": "麦德姆登陆广东",
+        "onboard_time": 1759648040,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 833141,
+        "num": 191650,
+        "word": "日本旅馆老板下药性侵10名女房客",
+        "onboard_time": 1759641501,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 649341,
+        "num": 191626,
+        "word": "向太曝选郭碧婷当儿媳原因",
+        "onboard_time": 1759639401,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602150,
+        "num": 191617,
+        "word": "鹿晗拒绝了粉丝送的冰淇淋",
+        "onboard_time": 1759635079,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 507352,
+        "num": 191599,
+        "word": "腾讯对肖战求复合文学",
+        "onboard_time": 1759641381,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486865,
+        "num": 191596,
+        "word": "王俊凯父母开的奶茶店停业",
+        "onboard_time": 1759637961,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461045,
+        "num": 191576,
+        "word": "迪丽热巴中秋嫦娥造型",
+        "onboard_time": 1759636461,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321759,
+        "num": 191563,
+        "word": "王祖蓝因父亲去世把46岁当作生命的坎",
+        "onboard_time": 1759632499,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319283,
+        "num": 191551,
+        "word": "黄一鸣曝闪闪要回来了",
+        "onboard_time": 1759641322,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294639,
+        "num": 191536,
+        "word": "张婧仪小时候睡过觉吗",
+        "onboard_time": 1759635319,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259404,
+        "num": 191514,
+        "word": "小酒窝 我喜欢宋亚轩",
+        "onboard_time": 1759639340,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239390,
+        "num": 191503,
+        "word": "我家那闺女",
+        "onboard_time": 1759642401,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223180,
+        "num": 191483,
+        "word": "两婚车相遇互不让路砍树通行",
+        "onboard_time": 1759648221,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200798,
+        "num": 191476,
+        "word": "姐姐是魔丸弟弟就是灵珠",
+        "onboard_time": 1759646421,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197674,
+        "num": 191458,
+        "word": "98岁母亲问67岁儿子做手术疼不疼",
+        "onboard_time": 1759643422,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191447,
+        "num": 191447,
+        "word": "陈震再发文道歉",
+        "onboard_time": 1759647980,
+        "rank": 24,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 190506,
+        "num": 190506,
+        "word": "王楚钦回应4比3逆转进决赛",
+        "onboard_time": 1759647679,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178590,
+        "num": 178590,
+        "word": "樊振东是首位超级金满贯得主",
+        "onboard_time": 1759648820,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151844,
+        "num": 151844,
+        "word": "拍摄者回应两婚车碰头谁都不让谁",
+        "onboard_time": 1759644202,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151746,
+        "num": 151746,
+        "word": "假期最耗气血的5个习惯",
+        "onboard_time": 1759648040,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149033,
+        "num": 149033,
+        "word": "快乐星球老顽童爷爷去世",
+        "onboard_time": 1759634180,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139867,
+        "num": 139867,
+        "word": "张子墨伴手礼",
+        "onboard_time": 1759645280,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136323,
+        "num": 136323,
+        "word": "Gr对战GW",
+        "onboard_time": 1759647740,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133681,
+        "num": 133681,
+        "word": "王楚钦4比3向鹏",
+        "onboard_time": 1759644681,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130017,
+        "num": 130017,
+        "word": "林诗栋无缘中国大满贯决赛",
+        "onboard_time": 1759641022,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126510,
+        "num": 126510,
+        "word": "酒店一天8场婚礼共用一个拱门",
+        "onboard_time": 1759636223,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122724,
+        "num": 122724,
+        "word": "张艺兴美猴王造型",
+        "onboard_time": 1759647260,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116972,
+        "num": 116972,
+        "word": "陈幸同总结中国大满贯",
+        "onboard_time": 1759648820,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115390,
+        "num": 115390,
+        "word": "男子按摩要求大力后突发小脑梗死",
+        "onboard_time": 1759637061,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57501,
+        "num": 113432,
+        "word": "国庆朋友圈主理人",
+        "onboard_time": 1759648579,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 77383,
+        "num": 113400,
+        "word": "李嘉格是井迪师姐",
+        "onboard_time": 1759647740,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105800,
+        "num": 113384,
+        "word": "青岛海滩海鲜爆桶2小时捡60多斤",
+        "onboard_time": 1759646061,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113382,
+        "num": 113382,
+        "word": "好命哥装病躲离婚",
+        "onboard_time": 1759647980,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108688,
+        "num": 108688,
+        "word": "白鹿蹲房车门口吓丞磊",
+        "onboard_time": 1759638081,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101775,
+        "num": 101775,
+        "word": "许我耀眼于岚有多偏爱儿媳",
+        "onboard_time": 1759647320,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56696,
+        "num": 100804,
+        "word": "F1新加坡大奖赛赛道闯入一只大蜥蜴",
+        "onboard_time": 1759647381,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100079,
+        "num": 100079,
+        "word": "陈飞宇外媒镜头",
+        "onboard_time": 1759648639,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93702,
+        "num": 93702,
+        "word": "朱志鑫给丁程鑫夸成翘嘴了",
+        "onboard_time": 1759643001,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93176,
+        "num": 93176,
+        "word": "台风",
+        "onboard_time": 1759638441,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 112742,
+        "num": 92387,
+        "word": "王楚钦vs向鹏",
+        "onboard_time": 1759640661,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100454,
+        "num": 92184,
+        "word": "白鹿带wakuku下班",
+        "onboard_time": 1759644202,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族的文化根脉#"
+    }
+  }
+}
