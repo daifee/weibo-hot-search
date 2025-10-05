@@ -1,6 +1,6 @@
 {
   "startTime": 1759681668953,
-  "endTime": 1759706446432,
+  "endTime": 1759707394133,
   "band_list": [
     {
       "raw_hot": 1411855,
@@ -51,6 +51,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 300076,
+      "num": 300076,
+      "word": "中秋",
+      "onboard_time": 1759706597,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 292726,
       "num": 158679,
       "word": "马思纯掀桌了",
@@ -65,6 +73,14 @@
       "onboard_time": 1759670724,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 290133,
+      "num": 94055,
+      "word": "许我耀眼妍妍接电话名场面来了",
+      "onboard_time": 1759706117,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 281430,
@@ -115,6 +131,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202899,
+      "num": 155447,
+      "word": "福建尤溪通报5人进废弃矿硐遇难",
+      "onboard_time": 1759680980,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196185,
+      "num": 196185,
+      "word": "中秋节快乐",
+      "onboard_time": 1759706777,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186154,
       "num": 186154,
       "word": "王楚钦累得睡在场馆",
@@ -147,6 +179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 178934,
+      "num": 92379,
+      "word": "女子为救爱犬被狗咬伤狂冲水仍发烧",
+      "onboard_time": 1759706057,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177636,
       "num": 177636,
       "word": "环保少女被曝遭虐待强迫亲吻以国旗",
@@ -161,14 +201,6 @@
       "onboard_time": 1759679360,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 174184,
-      "num": 138016,
-      "word": "福建尤溪通报5人进废弃矿硐遇难",
-      "onboard_time": 1759680980,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173387,
@@ -251,20 +283,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 104444,
-      "num": 104444,
+      "raw_hot": 108299,
+      "num": 108299,
       "word": "高市早苗用反华内容训练AI",
       "onboard_time": 1759671744,
       "rank": 41,
       "category": "国际时政,互联网"
-    },
-    {
-      "raw_hot": 99719,
-      "num": 62417,
-      "word": "女子为救爱犬被狗咬伤狂冲水仍发烧",
-      "onboard_time": 1759706057,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97787,
@@ -273,14 +297,6 @@
       "onboard_time": 1759668684,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 97459,
-      "num": 61713,
-      "word": "许我耀眼妍妍接电话名场面来了",
-      "onboard_time": 1759706117,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 93516,
@@ -331,6 +347,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81515,
+      "num": 81515,
+      "word": "游客称捡板栗壳被民宿老板娘诬陷偷",
+      "onboard_time": 1759706597,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80004,
+      "num": 102852,
+      "word": "向太称郭碧婷父亲患重病",
+      "onboard_time": 1759666283,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79650,
       "num": 101534,
       "word": "惊艳朋友圈的中秋祝福文案",
@@ -340,7 +372,7 @@
     },
     {
       "raw_hot": 79457,
-      "num": 57751,
+      "num": 60463,
       "word": "王扁穿外卖工服道歉退网",
       "onboard_time": 1759687936,
       "rank": 28,
@@ -353,14 +385,6 @@
       "onboard_time": 1759679661,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 77783,
-      "num": 102852,
-      "word": "向太称郭碧婷父亲患重病",
-      "onboard_time": 1759666283,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 77080,
@@ -443,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65339,
+      "num": 65339,
+      "word": "孙俪怎么美成这样了",
+      "onboard_time": 1759706117,
+      "rank": 38,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 64548,
       "num": 90636,
       "word": "一笑随歌",
@@ -483,12 +515,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54461,
+      "num": 54461,
+      "word": "今年中秋月亮7日11时48分最圆",
+      "onboard_time": 1759674203,
+      "rank": 31,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 54362,
       "num": 77364,
       "word": "阿尼西莫娃中网女单夺冠",
       "onboard_time": 1759679061,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53544,
+      "num": 53544,
+      "word": "吴克群空降素人婚礼现场随礼999元",
+      "onboard_time": 1759704436,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 49470,
+      "num": 49470,
+      "word": "王俊凯工作室敢不敢再诡异一点",
+      "onboard_time": 1759707137,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 48732,
@@ -515,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 47396,
-      "num": 47396,
-      "word": "吴克群空降素人婚礼现场随礼999元",
-      "onboard_time": 1759704436,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44231,
       "num": 82624,
       "word": "赵雷音乐节",
@@ -531,28 +579,36 @@
       "category": "演出"
     },
     {
-      "raw_hot": 37693,
-      "num": 37693,
+      "raw_hot": 38992,
+      "num": 38992,
       "word": "王楚钦中国大满贯冠军自拍",
       "onboard_time": 1759706057,
       "rank": 33,
       "category": "体育"
     },
     {
-      "raw_hot": 33630,
-      "num": 36965,
-      "word": "孙俪怎么美成这样了",
-      "onboard_time": 1759706117,
-      "rank": 38,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 27240,
+      "raw_hot": 36352,
       "num": 36884,
       "word": "李昀锐一句台词听不到但看哭了",
       "onboard_time": 1759706237,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35919,
+      "num": 35919,
+      "word": "十月新番最爽女主",
+      "onboard_time": 1759707017,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 32902,
+      "num": 35227,
+      "word": "宋祖儿 甜美千金风",
+      "onboard_time": 1759707017,
+      "rank": 47,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 26280,

@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759706446432,
+  "endTime": 1759707394133,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -843,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300076,
+      "num": 300076,
+      "word": "中秋",
+      "onboard_time": 1759706597,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299818,
       "num": 230905,
       "word": "李沁 就你了",
@@ -857,6 +865,14 @@
       "onboard_time": 1759666343,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 290133,
+      "num": 94055,
+      "word": "许我耀眼妍妍接电话名场面来了",
+      "onboard_time": 1759706117,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 289588,
@@ -1227,6 +1243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202899,
+      "num": 155447,
+      "word": "福建尤溪通报5人进废弃矿硐遇难",
+      "onboard_time": 1759680980,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201136,
       "num": 201136,
       "word": "赵本山女儿球球回应和哥哥争财产",
@@ -1257,6 +1281,14 @@
       "onboard_time": 1759662683,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196185,
+      "num": 196185,
+      "word": "中秋节快乐",
+      "onboard_time": 1759706777,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193273,
@@ -1451,6 +1483,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 178934,
+      "num": 92379,
+      "word": "女子为救爱犬被狗咬伤狂冲水仍发烧",
+      "onboard_time": 1759706057,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178590,
       "num": 178590,
       "word": "樊振东是首位超级金满贯得主",
@@ -1481,14 +1521,6 @@
       "onboard_time": 1759679360,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 174184,
-      "num": 138016,
-      "word": "福建尤溪通报5人进废弃矿硐遇难",
-      "onboard_time": 1759680980,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173924,
@@ -2811,14 +2843,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 99719,
-      "num": 62417,
-      "word": "女子为救爱犬被狗咬伤狂冲水仍发烧",
-      "onboard_time": 1759706057,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99404,
       "num": 99404,
       "word": "我给鞠婧祎张云龙拍的来战大片",
@@ -2889,14 +2913,6 @@
       "onboard_time": 1759659504,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 97459,
-      "num": 61713,
-      "word": "许我耀眼妍妍接电话名场面来了",
-      "onboard_time": 1759706117,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 96690,
@@ -3195,6 +3211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81515,
+      "num": 81515,
+      "word": "游客称捡板栗壳被民宿老板娘诬陷偷",
+      "onboard_time": 1759706597,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81263,
       "num": 81263,
       "word": "DRG强势拿下四连胜",
@@ -3236,7 +3260,7 @@
     },
     {
       "raw_hot": 79457,
-      "num": 57751,
+      "num": 60463,
       "word": "王扁穿外卖工服道歉退网",
       "onboard_time": 1759687936,
       "rank": 28,
@@ -3401,6 +3425,14 @@
       "onboard_time": 1759632499,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65339,
+      "num": 65339,
+      "word": "孙俪怎么美成这样了",
+      "onboard_time": 1759706117,
+      "rank": 38,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 65072,
@@ -3587,6 +3619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54461,
+      "num": 54461,
+      "word": "今年中秋月亮7日11时48分最圆",
+      "onboard_time": 1759674203,
+      "rank": 31,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 54362,
       "num": 77364,
       "word": "阿尼西莫娃中网女单夺冠",
@@ -3601,6 +3641,14 @@
       "onboard_time": 1759586781,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53544,
+      "num": 53544,
+      "word": "吴克群空降素人婚礼现场随礼999元",
+      "onboard_time": 1759704436,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 52622,
@@ -3643,6 +3691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49470,
+      "num": 49470,
+      "word": "王俊凯工作室敢不敢再诡异一点",
+      "onboard_time": 1759707137,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48436,
       "num": 48436,
       "word": "迪丽热巴非遗灵雀缀宝冠",
@@ -3656,14 +3712,6 @@
       "word": "时代少年团祝中秋快乐",
       "onboard_time": 1759683979,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 47396,
-      "num": 47396,
-      "word": "吴克群空降素人婚礼现场随礼999元",
-      "onboard_time": 1759704436,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -3715,6 +3763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 38992,
+      "num": 38992,
+      "word": "王楚钦中国大满贯冠军自拍",
+      "onboard_time": 1759706057,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37952,
       "num": 118130,
       "word": "华山景区紧急关闭徒步线路",
@@ -3723,12 +3779,12 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 37693,
-      "num": 37693,
-      "word": "王楚钦中国大满贯冠军自拍",
-      "onboard_time": 1759706057,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 36352,
+      "num": 36884,
+      "word": "李昀锐一句台词听不到但看哭了",
+      "onboard_time": 1759706237,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 36081,
@@ -3739,6 +3795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35919,
+      "num": 35919,
+      "word": "十月新番最爽女主",
+      "onboard_time": 1759707017,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 35605,
       "num": 49452,
       "word": "王源宇宙超级无敌大狂欢巡演",
@@ -3747,20 +3811,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 33630,
-      "num": 36965,
-      "word": "孙俪怎么美成这样了",
-      "onboard_time": 1759706117,
-      "rank": 38,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 33091,
       "num": 33091,
       "word": "肖战工作室长文",
       "onboard_time": 1759605194,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 32902,
+      "num": 35227,
+      "word": "宋祖儿 甜美千金风",
+      "onboard_time": 1759707017,
+      "rank": 47,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 32884,
@@ -3817,14 +3881,6 @@
       "onboard_time": 1759635801,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27240,
-      "num": 36884,
-      "word": "李昀锐一句台词听不到但看哭了",
-      "onboard_time": 1759706237,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 26280,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/06 07:20:46
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/06 07:36:34
 </p>
 </blockquote>
 <p>
@@ -2601,6 +2601,12 @@ TF家族（热度：321156）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%23" target="weibo">
+中秋（热度：300076）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%20%E5%B0%B1%E4%BD%A0%E4%BA%86%23" target="weibo">
 李沁 就你了（热度：299818）
 </a>
@@ -2717,6 +2723,12 @@ G社拍的王俊凯巴黎看秀生图（热度：292362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%A4%A7%E5%B0%BA%E5%BA%A6%E5%90%BB%E6%88%8F%E6%93%85%E8%87%AA%E7%A6%BB%E7%BB%84%23" target="weibo">
 短剧男主不接受大尺度吻戏擅自离组（热度：290202）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E5%A6%8D%E5%A6%8D%E6%8E%A5%E7%94%B5%E8%AF%9D%E5%90%8D%E5%9C%BA%E9%9D%A2%E6%9D%A5%E4%BA%86%23" target="weibo">
+许我耀眼妍妍接电话名场面来了（热度：290133）
 </a>
 </li>
 
@@ -3891,6 +3903,12 @@ TTG战胜TES（热度：206119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%B0%A4%E6%BA%AA%E9%80%9A%E6%8A%A55%E4%BA%BA%E8%BF%9B%E5%BA%9F%E5%BC%83%E7%9F%BF%E7%A1%90%E9%81%87%E9%9A%BE%23" target="weibo">
+福建尤溪通报5人进废弃矿硐遇难（热度：202899）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E7%94%B0%E6%9B%A6%E8%96%87%E5%B0%86%E6%BC%94%E6%94%BB%E7%8E%89%23" target="weibo">
 龚俊田曦薇将演攻玉（热度：202662）
 </a>
@@ -4079,6 +4097,12 @@ AG战胜RW（热度：199437）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%89%88%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%23" target="weibo">
 时代少年团版再见爱人（热度：196224）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E8%8A%82%E5%BF%AB%E4%B9%90%23" target="weibo">
+中秋节快乐（热度：196185）
 </a>
 </li>
 
@@ -4593,6 +4617,12 @@ AG对战JDG（热度：181803）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E6%95%91%E7%88%B1%E7%8A%AC%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E7%8B%82%E5%86%B2%E6%B0%B4%E4%BB%8D%E5%8F%91%E7%83%A7%23" target="weibo">
+女子为救爱犬被狗咬伤狂冲水仍发烧（热度：178934）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E8%87%AA%E5%B7%B1%E8%80%81%E4%BA%86%23" target="weibo">
 王楚钦说自己老了（热度：178725）
 </a>
@@ -4679,12 +4709,6 @@ AG对战JDG（热度：181803）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%A5%B3%E7%94%9F%E4%B8%89%E5%88%86%E9%92%9F%E5%8F%91%E8%A8%80%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%AC%E5%85%A5%E7%A5%9E%E4%BA%86%23" target="weibo">
 北大女生三分钟发言檀健次听入神了（热度：174679）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%B0%A4%E6%BA%AA%E9%80%9A%E6%8A%A55%E4%BA%BA%E8%BF%9B%E5%BA%9F%E5%BC%83%E7%9F%BF%E7%A1%90%E9%81%87%E9%9A%BE%23" target="weibo">
-福建尤溪通报5人进废弃矿硐遇难（热度：174184）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ Wolves对战北京WBG（热度：142945）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%811%E5%88%86%E9%92%9F%E6%8D%A2%E4%B9%98%23" target="weibo">
 高铁1分钟换乘（热度：140878）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317%E7%B3%BB%E5%88%97%E9%94%80%E9%87%8F%E7%A0%B4%E7%99%BE%E4%B8%87%23" target="weibo">
-小米17系列销量破百万（热度：140870）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%23" target="weibo">
-第五人格（热度：140814）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%A4%A7%E9%87%8F%E8%AE%AD%E7%BB%83%E7%94%BB%E9%9D%A2%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%23" target="weibo">
-九三阅兵大量训练画面首次公开（热度：140615）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%94%B1%E5%AE%8C%E6%AD%8C%E4%BB%A5%E4%B8%BA%E8%87%AA%E5%B7%B1%E4%B8%8B%E7%8F%AD%E4%BA%86%23" target="weibo">
-肖战唱完歌以为自己下班了（热度：140473）
 </a>
 </li>
 
