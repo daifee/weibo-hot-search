@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759621008580,
+  "endTime": 1759629495576,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -12,9 +12,17 @@
     },
     {
       "raw_hot": 1240867,
-      "num": 117850,
+      "num": 160019,
       "word": "戚薇 G社好离谱",
       "onboard_time": 1759588342,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 861036,
+      "num": 160504,
+      "word": "肖战34岁生日居家照",
+      "onboard_time": 1759619656,
       "rank": 11,
       "category": "艺人"
     },
@@ -28,31 +36,55 @@
     },
     {
       "raw_hot": 607946,
-      "num": 117771,
+      "num": 130906,
       "word": "华晨宇 要爆了",
       "onboard_time": 1759586903,
       "rank": 12,
       "category": "演出"
     },
     {
+      "raw_hot": 543094,
+      "num": 1086895,
+      "word": "乌克兰制裁俄罗斯",
+      "onboard_time": 1759625538,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 522079,
+      "num": 522079,
+      "word": "广东转移超15万人",
+      "onboard_time": 1759627758,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 488328,
-      "num": 116891,
+      "num": 157963,
       "word": "戚薇的脸",
       "onboard_time": 1759590682,
       "rank": 16,
       "category": "艺人"
     },
     {
-      "raw_hot": 482236,
-      "num": 72306,
-      "word": "肖战34岁生日居家照",
-      "onboard_time": 1759619656,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 447513,
+      "num": 447513,
+      "word": "60岁老人离退休仅23天跳水救人溺亡",
+      "onboard_time": 1759622478,
+      "rank": 3,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 428319,
+      "num": 428319,
+      "word": "马来西亚游客感叹中国人好幸福",
+      "onboard_time": 1759626139,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 419793,
-      "num": 117604,
+      "num": 158725,
       "word": "沈皓明向许妍求婚",
       "onboard_time": 1759589243,
       "rank": 13,
@@ -60,11 +92,19 @@
     },
     {
       "raw_hot": 382617,
-      "num": 117299,
+      "num": 159111,
       "word": "成都漫展小伙cos辱华角色被扯掉假发",
       "onboard_time": 1759590322,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 359186,
+      "num": 159851,
+      "word": "郭富城回应三胎已出生",
+      "onboard_time": 1759619656,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 331084,
@@ -76,7 +116,7 @@
     },
     {
       "raw_hot": 326981,
-      "num": 116562,
+      "num": 156825,
       "word": "广州一市民家中惊现鼠条",
       "onboard_time": 1759587561,
       "rank": 17,
@@ -91,12 +131,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 317140,
+      "num": 317140,
+      "word": "歼35机库首公开",
+      "onboard_time": 1759628599,
+      "rank": 5,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 311931,
       "num": 116376,
       "word": "檀健次演技",
       "onboard_time": 1759590022,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 285642,
+      "num": 285642,
+      "word": "三亚大悦城致歉",
+      "onboard_time": 1759625959,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263675,
@@ -115,12 +171,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230894,
-      "num": 71423,
-      "word": "郭富城回应三胎已出生",
-      "onboard_time": 1759619656,
-      "rank": 19,
-      "category": "艺人"
+      "raw_hot": 254494,
+      "num": 158439,
+      "word": "家有儿女还是太写实了",
+      "onboard_time": 1759610053,
+      "rank": 22,
+      "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 245066,
+      "num": 157591,
+      "word": "hi6收视率排名第一",
+      "onboard_time": 1759621337,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 229036,
@@ -129,6 +193,14 @@
       "onboard_time": 1759584742,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218513,
+      "num": 157148,
+      "word": "带着饥饿感入睡脂肪燃烧的全过程",
+      "onboard_time": 1759626139,
+      "rank": 18,
+      "category": "运动健身"
     },
     {
       "raw_hot": 217635,
@@ -155,8 +227,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207120,
+      "num": 156372,
+      "word": "张晚意问还能演正剧吗",
+      "onboard_time": 1759595780,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205141,
-      "num": 69370,
+      "num": 155433,
       "word": "印度老人和35岁女子结婚次日离世",
       "onboard_time": 1759619597,
       "rank": 20,
@@ -171,11 +251,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181482,
+      "num": 181482,
+      "word": "看着像虫吃着像虫其实就是虫",
+      "onboard_time": 1759622539,
+      "rank": 8,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 178188,
       "num": 178188,
       "word": "柬警方解救一被绑架的19岁中国人",
       "onboard_time": 1759596438,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176590,
+      "num": 156065,
+      "word": "猫主人回应全身被抓伤20多处",
+      "onboard_time": 1759626260,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -195,12 +291,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 150153,
-      "num": 70053,
-      "word": "家有儿女还是太写实了",
-      "onboard_time": 1759610053,
-      "rank": 22,
-      "category": "作品衍生,幽默"
+      "raw_hot": 166820,
+      "num": 154629,
+      "word": "住老破小的副作用已经出现了",
+      "onboard_time": 1759625720,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 163041,
+      "num": 154315,
+      "word": "丁程鑫看TOP湿身的表情",
+      "onboard_time": 1759624639,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154111,
+      "num": 154111,
+      "word": "肖战生日上了世界趋势",
+      "onboard_time": 1759628959,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 147498,
@@ -219,12 +331,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136281,
-      "num": 94241,
-      "word": "张晚意问还能演正剧吗",
-      "onboard_time": 1759595780,
-      "rank": 41,
-      "category": "综艺"
+      "raw_hot": 145747,
+      "num": 145747,
+      "word": "檀健次工作室生日长文",
+      "onboard_time": 1759629139,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138059,
+      "num": 138059,
+      "word": "昔日顶流拉面哥已转型带货主播",
+      "onboard_time": 1759627459,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135760,
+      "num": 135760,
+      "word": "家猫突然扑向主人挠20多道伤口",
+      "onboard_time": 1759626139,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121879,
@@ -233,6 +361,14 @@
       "onboard_time": 1759609815,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118485,
+      "num": 118485,
+      "word": "28岁戴3个月牙套的后遗症",
+      "onboard_time": 1759628480,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 118266,
@@ -251,8 +387,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114866,
+      "num": 114866,
+      "word": "许我耀眼 泼水游戏",
+      "onboard_time": 1759627279,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113544,
-      "num": 69668,
+      "num": 113415,
       "word": "35岁的檀健次",
       "onboard_time": 1759619957,
       "rank": 26,
@@ -283,12 +427,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98789,
+      "num": 98789,
+      "word": "获救者回应60岁老人救人不幸溺亡",
+      "onboard_time": 1759628599,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98490,
+      "num": 98490,
+      "word": "内娱艺人国外热度榜",
+      "onboard_time": 1759611074,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 96678,
+      "num": 96678,
+      "word": "广东迅速进入临战状态",
+      "onboard_time": 1759624219,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96325,
       "num": 96325,
       "word": "人一旦有了隔阂就真的走不近了",
       "onboard_time": 1759588823,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94811,
+      "num": 94811,
+      "word": "旬阳警方辟谣新郎母亲跳江",
+      "onboard_time": 1759628480,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89927,
@@ -331,6 +507,30 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 84104,
+      "num": 84104,
+      "word": "花少7小考完全是张晚意的舒适区",
+      "onboard_time": 1759628359,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 83940,
+      "num": 83940,
+      "word": "巴黎世家大秀",
+      "onboard_time": 1759628900,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 79848,
+      "num": 79848,
+      "word": "三亚大悦城发布情况说明",
+      "onboard_time": 1759626139,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79828,
       "num": 93325,
       "word": "华晨宇 旧歌今年卖了很多钱",
@@ -339,12 +539,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79817,
+      "num": 79817,
+      "word": "女子用牙咬大闸蟹腿牙裂了",
+      "onboard_time": 1759625180,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76715,
       "num": 93263,
       "word": "赵丽颖向阳花收视破2登顶",
       "onboard_time": 1759586661,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 72614,
+      "num": 72614,
+      "word": "哥哥在旁边气得要崩溃了",
+      "onboard_time": 1759622358,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 72449,
@@ -379,6 +595,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 69553,
+      "num": 69553,
+      "word": "邢菲有种国泰民安的大气美",
+      "onboard_time": 1759623318,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 68719,
+      "num": 68719,
+      "word": "孙俪倒时差最好的办法就是晒太阳",
+      "onboard_time": 1759623978,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67068,
       "num": 93162,
       "word": "王楚钦说身兼三项消耗超出自己想象",
@@ -403,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64127,
+      "num": 64127,
+      "word": "原来长时间玩手机也可能消耗气血",
+      "onboard_time": 1759629021,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 64089,
       "num": 93133,
       "word": "鹿晗答应开签售",
@@ -417,14 +657,6 @@
       "onboard_time": 1759574960,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 62312,
-      "num": 62312,
-      "word": "内娱艺人国外热度榜",
-      "onboard_time": 1759611074,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 59963,
@@ -588,7 +820,7 @@
     },
     {
       "raw_hot": 27544,
-      "num": 221264,
+      "num": 460718,
       "word": "星空有约",
       "onboard_time": 1759583722,
       "rank": 2,
@@ -609,6 +841,14 @@
       "onboard_time": 1759601715,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 22139,
+      "num": 155131,
+      "word": "49岁越疆科技副总裁曾宇突发疾病去世",
+      "onboard_time": 1759629199,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18231,
