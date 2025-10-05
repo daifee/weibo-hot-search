@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759656143926,
+  "endTime": 1759656975394,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 960633,
-      "num": 197108,
+      "num": 244786,
       "word": "日本旅馆老板下药性侵10名女房客",
       "onboard_time": 1759641501,
       "rank": 30,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 920198,
-      "num": 200120,
+      "num": 240930,
       "word": "向太曝选郭碧婷当儿媳原因",
       "onboard_time": 1759639401,
       "rank": 14,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 625051,
+      "num": 255425,
+      "word": "内娱最想二搭的cp出现了",
+      "onboard_time": 1759652900,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 616055,
       "num": 616055,
       "word": "王楚钦4比3向鹏",
@@ -203,12 +211,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 574498,
-      "num": 183788,
-      "word": "内娱最想二搭的cp出现了",
-      "onboard_time": 1759652900,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 587904,
+      "num": 193603,
+      "word": "陈震车祸受伤司机家属发声",
+      "onboard_time": 1759653561,
+      "rank": 33,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 562035,
@@ -241,6 +249,14 @@
       "onboard_time": 1759635319,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 540316,
+      "num": 540316,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1759655781,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 521512,
@@ -331,16 +347,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 394167,
-      "num": 182706,
-      "word": "陈震车祸受伤司机家属发声",
-      "onboard_time": 1759653561,
-      "rank": 33,
-      "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 388029,
-      "num": 175208,
+      "raw_hot": 389679,
+      "num": 178212,
       "word": "全家旅游遇车祸两女儿遇难妻子烧伤",
       "onboard_time": 1759651881,
       "rank": 20,
@@ -352,6 +360,14 @@
       "word": "成都漫展小伙cos辱华角色被扯掉假发",
       "onboard_time": 1759590322,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 378556,
+      "num": 378556,
+      "word": "员工定亲差15万老板直接拿20万",
+      "onboard_time": 1759651221,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -393,14 +409,6 @@
       "onboard_time": 1759635200,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 353884,
-      "num": 353884,
-      "word": "员工定亲差15万老板直接拿20万",
-      "onboard_time": 1759651221,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 345471,
@@ -449,6 +457,14 @@
       "onboard_time": 1759587561,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322587,
+      "num": 247202,
+      "word": "许我耀眼云合",
+      "onboard_time": 1759655600,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 321490,
@@ -508,7 +524,7 @@
     },
     {
       "raw_hot": 299818,
-      "num": 179313,
+      "num": 230905,
       "word": "李沁 就你了",
       "onboard_time": 1759652961,
       "rank": 24,
@@ -659,20 +675,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209362,
+      "num": 209362,
+      "word": "这个专业全国曾只有1人",
+      "onboard_time": 1759656682,
+      "rank": 19,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 207733,
       "num": 107008,
       "word": "肖战而我正走在路上",
       "onboard_time": 1759596020,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206141,
-      "num": 174504,
-      "word": "许我耀眼云合",
-      "onboard_time": 1759655600,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 205141,
@@ -705,14 +721,6 @@
       "onboard_time": 1759637061,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202584,
-      "num": 202584,
-      "word": "孙颖莎vs王曼昱",
-      "onboard_time": 1759655781,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 197674,
@@ -780,11 +788,19 @@
     },
     {
       "raw_hot": 186330,
-      "num": 186330,
+      "num": 263241,
       "word": "王楚钦流了多少汗",
       "onboard_time": 1759654340,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183778,
+      "num": 183778,
+      "word": "周峻纬音乐节被突然冲上台男子扒衣",
+      "onboard_time": 1759655420,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 183394,
@@ -875,14 +891,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 173169,
-      "num": 173169,
-      "word": "周峻纬音乐节被突然冲上台男子扒衣",
-      "onboard_time": 1759655420,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 171676,
       "num": 171676,
       "word": "长生",
@@ -963,6 +971,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159058,
+      "num": 159058,
+      "word": "减肥就是真的很爽啊",
+      "onboard_time": 1759656621,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 157241,
+      "num": 267192,
+      "word": "三角洲行动",
+      "onboard_time": 1759649600,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 156508,
       "num": 156508,
       "word": "许我耀眼 写实剧",
@@ -1025,14 +1049,6 @@
       "onboard_time": 1759637722,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149464,
-      "num": 186153,
-      "word": "三角洲行动",
-      "onboard_time": 1759649600,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 148816,
@@ -1219,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127175,
+      "num": 127175,
+      "word": "泸州银河左岸音乐节",
+      "onboard_time": 1759655658,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127121,
       "num": 127121,
       "word": "王亚飞给迪丽热巴化的嫦娥仙子妆",
@@ -1257,14 +1281,6 @@
       "onboard_time": 1759609815,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121580,
-      "num": 121580,
-      "word": "泸州银河左岸音乐节",
-      "onboard_time": 1759655658,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 121093,
@@ -1507,6 +1523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106203,
+      "num": 106203,
+      "word": "朋友圈里感受到一种经济上行的美",
+      "onboard_time": 1759656621,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 105800,
       "num": 113384,
       "word": "青岛海滩海鲜爆桶2小时捡60多斤",
@@ -1625,6 +1649,14 @@
       "onboard_time": 1759628359,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99730,
+      "num": 261613,
+      "word": "TES让二追三成功攻擂",
+      "onboard_time": 1759656441,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 99404,
@@ -1851,12 +1883,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 84904,
+      "num": 84904,
+      "word": "男子回应跌落砸伤10岁女孩失联",
+      "onboard_time": 1759656801,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84561,
       "num": 84561,
       "word": "警方通报男子恶意别车谎称公安",
       "onboard_time": 1759643422,
       "rank": 48,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 84337,
+      "num": 84337,
+      "word": "郭焱说王楚钦今天比赛封神了",
+      "onboard_time": 1759656920,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 83940,
@@ -1873,6 +1921,14 @@
       "onboard_time": 1759646601,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 83754,
+      "num": 83754,
+      "word": "连续熬夜一年身体的状态",
+      "onboard_time": 1759656560,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 82274,
@@ -2235,6 +2291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43480,
+      "num": 226017,
+      "word": "油车高速领航全国都好开",
+      "onboard_time": 1759654340,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 43255,
       "num": 45212,
       "word": "陈俊崧回应不敌王楚钦林诗栋",
@@ -2249,14 +2313,6 @@
       "onboard_time": 1759618877,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 40748,
-      "num": 177152,
-      "word": "油车高速领航全国都好开",
-      "onboard_time": 1759654340,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 40552,
@@ -2315,6 +2371,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32445,
+      "num": 93470,
+      "word": "瘦30斤身体会发生哪些变化",
+      "onboard_time": 1759656801,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 31418,
+      "num": 389828,
+      "word": "明天中秋你准备怎么过",
+      "onboard_time": 1759654461,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31293,
       "num": 44516,
       "word": "王曼昱说跟莎莎决赛会全力以赴",
@@ -2345,14 +2417,6 @@
       "onboard_time": 1759635801,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26803,
-      "num": 370731,
-      "word": "明天中秋你准备怎么过",
-      "onboard_time": 1759654461,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 25185,
@@ -2436,6 +2500,9 @@
     },
     {
       "word": "#中华民族的文化根脉#"
+    },
+    {
+      "word": "#跟着总书记探寻中华文明#"
     }
   ]
 }

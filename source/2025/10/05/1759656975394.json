@@ -1,0 +1,410 @@
+{
+  "runTime": 1759656975394,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 543501,
+        "num": 1086960,
+        "word": "没接到骑手电话500元外卖不翼而飞",
+        "onboard_time": 1759649900,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540316,
+        "num": 540316,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1759655781,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31418,
+        "num": 389828,
+        "word": "明天中秋你准备怎么过",
+        "onboard_time": 1759654461,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 378556,
+        "num": 378556,
+        "word": "员工定亲差15万老板直接拿20万",
+        "onboard_time": 1759651221,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317507,
+        "num": 317507,
+        "word": "鸡排哥10月8日正常出摊",
+        "onboard_time": 1759650561,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313152,
+        "num": 313152,
+        "word": "明代石刻 禁止早婚",
+        "onboard_time": 1759653021,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269935,
+        "num": 269935,
+        "word": "王楚钦决胜局3比7大逆转",
+        "onboard_time": 1759645341,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157241,
+        "num": 267192,
+        "word": "三角洲行动",
+        "onboard_time": 1759649600,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146289,
+        "num": 263241,
+        "word": "王楚钦流了多少汗",
+        "onboard_time": 1759654340,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99730,
+        "num": 261613,
+        "word": "TES让二追三成功攻擂",
+        "onboard_time": 1759656441,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 625051,
+        "num": 255425,
+        "word": "内娱最想二搭的cp出现了",
+        "onboard_time": 1759652900,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328899,
+        "num": 251539,
+        "word": "鹿晗拒绝了粉丝送的冰淇淋",
+        "onboard_time": 1759635079,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 322587,
+        "num": 247202,
+        "word": "许我耀眼云合",
+        "onboard_time": 1759655600,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301975,
+        "num": 244786,
+        "word": "日本旅馆老板下药性侵10名女房客",
+        "onboard_time": 1759641501,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 286672,
+        "num": 240930,
+        "word": "向太曝选郭碧婷当儿媳原因",
+        "onboard_time": 1759639401,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274810,
+        "num": 234203,
+        "word": "王俊凯父母开的奶茶店停业",
+        "onboard_time": 1759637961,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273568,
+        "num": 230905,
+        "word": "李沁 就你了",
+        "onboard_time": 1759652961,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43480,
+        "num": 226017,
+        "word": "油车高速领航全国都好开",
+        "onboard_time": 1759654340,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 225800,
+        "num": 225800,
+        "word": "迪丽热巴中秋嫦娥造型",
+        "onboard_time": 1759636461,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209362,
+        "num": 209362,
+        "word": "这个专业全国曾只有1人",
+        "onboard_time": 1759656682,
+        "rank": 19,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 695112,
+        "num": 205532,
+        "word": "鸡排哥晒检测报告健康证回应质疑",
+        "onboard_time": 1759649540,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 610806,
+        "num": 202822,
+        "word": "金价",
+        "onboard_time": 1759645640,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 587904,
+        "num": 193603,
+        "word": "陈震车祸受伤司机家属发声",
+        "onboard_time": 1759653561,
+        "rank": 22,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 494611,
+        "num": 184214,
+        "word": "陈震再发文道歉",
+        "onboard_time": 1759647980,
+        "rank": 23,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 183778,
+        "num": 183778,
+        "word": "周峻纬音乐节被突然冲上台男子扒衣",
+        "onboard_time": 1759655420,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 389679,
+        "num": 178212,
+        "word": "全家旅游遇车祸两女儿遇难妻子烧伤",
+        "onboard_time": 1759651881,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161479,
+        "num": 161479,
+        "word": "两婚车相遇互不让路砍树通行",
+        "onboard_time": 1759648221,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159058,
+        "num": 159058,
+        "word": "减肥就是真的很爽啊",
+        "onboard_time": 1759656621,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 155376,
+        "num": 155376,
+        "word": "腾讯对肖战求复合文学",
+        "onboard_time": 1759641381,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153045,
+        "num": 153045,
+        "word": "徐娇设计的衣服标签上有禁烟标志",
+        "onboard_time": 1759654579,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127175,
+        "num": 127175,
+        "word": "泸州银河左岸音乐节",
+        "onboard_time": 1759655658,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125598,
+        "num": 125598,
+        "word": "一路灿烂开机",
+        "onboard_time": 1759654461,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124984,
+        "num": 124984,
+        "word": "王祖蓝因父亲去世把46岁当作生命的坎",
+        "onboard_time": 1759632499,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117695,
+        "num": 117695,
+        "word": "姐姐是魔丸弟弟就是灵珠",
+        "onboard_time": 1759646421,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114527,
+        "num": 114527,
+        "word": "假期最耗气血的5个习惯",
+        "onboard_time": 1759648040,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109849,
+        "num": 109849,
+        "word": "王亚飞给迪丽热巴化的嫦娥仙子妆",
+        "onboard_time": 1759653440,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106203,
+        "num": 106203,
+        "word": "朋友圈里感受到一种经济上行的美",
+        "onboard_time": 1759656621,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105549,
+        "num": 105549,
+        "word": "偶遇戚薇李承铉带儿子逛凡尔赛宫",
+        "onboard_time": 1759652900,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99118,
+        "num": 99118,
+        "word": "大聪明已经提前到5号返程了",
+        "onboard_time": 1759634241,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32445,
+        "num": 93470,
+        "word": "瘦30斤身体会发生哪些变化",
+        "onboard_time": 1759656801,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 93428,
+        "num": 93428,
+        "word": "东北omakase",
+        "onboard_time": 1759652121,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92487,
+        "num": 92487,
+        "word": "张小斐 我的大明星女友",
+        "onboard_time": 1759654280,
+        "rank": 41,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 91496,
+        "num": 91496,
+        "word": "好命哥装病躲离婚",
+        "onboard_time": 1759647980,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86330,
+        "num": 86330,
+        "word": "越南治好了我爱咬吸管的毛病",
+        "onboard_time": 1759651759,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87990,
+        "num": 86064,
+        "word": "许我耀眼 写实剧",
+        "onboard_time": 1759652000,
+        "rank": 44,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 84904,
+        "num": 84904,
+        "word": "男子回应跌落砸伤10岁女孩失联",
+        "onboard_time": 1759656801,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84730,
+        "num": 84730,
+        "word": "孟子义李昀锐中秋节宣传节奏",
+        "onboard_time": 1759651700,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84343,
+        "num": 84343,
+        "word": "白宇拍的王楚钦",
+        "onboard_time": 1759654101,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84337,
+        "num": 84337,
+        "word": "郭焱说王楚钦今天比赛封神了",
+        "onboard_time": 1759656920,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83754,
+        "num": 83754,
+        "word": "连续熬夜一年身体的状态",
+        "onboard_time": 1759656560,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻中华文明#"
+    }
+  }
+}
