@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759641792602,
+  "endTime": 1759642727180,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -35,6 +35,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1130628,
+      "num": 1180900,
+      "word": "王楚钦vs向鹏",
+      "onboard_time": 1759640661,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1114167,
       "num": 440816,
       "word": "鹿晗拒绝了粉丝送的冰淇淋",
@@ -67,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 886039,
+      "num": 203562,
+      "word": "腾讯对肖战求复合文学",
+      "onboard_time": 1759641381,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 875218,
       "num": 434000,
       "word": "肖战给自己做了个开水壶蛋糕",
@@ -75,12 +91,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 796931,
-      "num": 188196,
-      "word": "腾讯对肖战求复合文学",
-      "onboard_time": 1759641381,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 775493,
+      "num": 200120,
+      "word": "向太曝选郭碧婷当儿媳原因",
+      "onboard_time": 1759639401,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 768146,
@@ -97,14 +113,6 @@
       "onboard_time": 1759627758,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 722719,
-      "num": 185549,
-      "word": "向太曝选郭碧婷当儿媳原因",
-      "onboard_time": 1759639401,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 721830,
@@ -153,14 +161,6 @@
       "onboard_time": 1759625959,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 544227,
-      "num": 544227,
-      "word": "王楚钦vs向鹏",
-      "onboard_time": 1759640661,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 543094,
@@ -217,6 +217,14 @@
       "onboard_time": 1759631181,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 458752,
+      "num": 196396,
+      "word": "日本旅馆老板下药性侵10名女房客",
+      "onboard_time": 1759641501,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 447513,
@@ -291,8 +299,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 332789,
-      "num": 182513,
+      "raw_hot": 341175,
+      "num": 192984,
       "word": "小酒窝 我喜欢宋亚轩",
       "onboard_time": 1759639340,
       "rank": 18,
@@ -305,6 +313,14 @@
       "onboard_time": 1759576581,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 328641,
+      "num": 328641,
+      "word": "林诗栋无缘中国大满贯决赛",
+      "onboard_time": 1759641022,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 326981,
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 215590,
-      "num": 176220,
+      "num": 182401,
       "word": "金正恩警告美国",
       "onboard_time": 1759639822,
       "rank": 24,
@@ -465,6 +481,14 @@
       "onboard_time": 1759633220,
       "rank": 36,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 211112,
+      "num": 184545,
+      "word": "我家那闺女",
+      "onboard_time": 1759642401,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 210223,
@@ -531,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189851,
+      "num": 141281,
+      "word": "林诗栋止步大满贯半决赛",
+      "onboard_time": 1759642401,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186927,
       "num": 186927,
       "word": "台风",
@@ -553,6 +585,14 @@
       "onboard_time": 1759633279,
       "rank": 20,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 181884,
+      "num": 181884,
+      "word": "金晨问王安宇是不是出发团鞋最厚的",
+      "onboard_time": 1759641622,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 181482,
@@ -699,14 +739,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 147675,
-      "num": 147675,
-      "word": "日本旅馆老板下药性侵10名女房客",
-      "onboard_time": 1759641501,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 147498,
       "num": 147498,
       "word": "清融",
@@ -763,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142014,
-      "num": 181593,
-      "word": "林诗栋无缘中国大满贯决赛",
-      "onboard_time": 1759641022,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140326,
       "num": 140326,
       "word": "黄一鸣曝闪闪要回来了",
@@ -793,6 +817,14 @@
       "onboard_time": 1759638680,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135052,
+      "num": 135052,
+      "word": "王楚钦冲三冠王",
+      "onboard_time": 1759641022,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 134364,
@@ -849,14 +881,6 @@
       "onboard_time": 1759638200,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 118854,
-      "num": 118854,
-      "word": "王楚钦冲三冠王",
-      "onboard_time": 1759641022,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 118796,
@@ -963,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109921,
+      "num": 109921,
+      "word": "孙茜50斤面拉不动90斤娃抱起就走",
+      "onboard_time": 1759642401,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108453,
       "num": 110862,
       "word": "正剧还得是视帝视后演",
@@ -977,14 +1009,6 @@
       "onboard_time": 1759636099,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107489,
-      "num": 107489,
-      "word": "金晨问王安宇是不是出发团鞋最厚的",
-      "onboard_time": 1759641622,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 107109,
@@ -1059,12 +1083,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97810,
+      "num": 97810,
+      "word": "那英看了都想带回朝阳公园",
+      "onboard_time": 1759642581,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96678,
       "num": 96678,
       "word": "广东迅速进入临战状态",
       "onboard_time": 1759624219,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96656,
+      "num": 96656,
+      "word": "王楚钦专注迎接半决赛",
+      "onboard_time": 1759642221,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 96325,
@@ -1075,20 +1115,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95740,
+      "num": 95740,
+      "word": "马思纯 观众缘",
+      "onboard_time": 1759640061,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94015,
       "num": 94015,
       "word": "不想起床但又想摸小狗时",
       "onboard_time": 1759640301,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 90869,
-      "num": 90869,
-      "word": "马思纯 观众缘",
-      "onboard_time": 1759640061,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 89927,
@@ -1129,6 +1169,14 @@
       "onboard_time": 1759577540,
       "rank": 30,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 87201,
+      "num": 87201,
+      "word": "学生疑因推行早6晚9自习制度轻生",
+      "onboard_time": 1759642641,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87103,
@@ -1331,6 +1379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62515,
+      "num": 105870,
+      "word": "男子恶意别车谎称公安被拘",
+      "onboard_time": 1759642341,
+      "rank": 39,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 61619,
       "num": 77868,
       "word": "WTT祝张怡宁生日快乐",
@@ -1465,6 +1521,14 @@
       "onboard_time": 1759635441,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 49479,
+      "num": 191740,
+      "word": "景区回应卫生间自来水有尿味",
+      "onboard_time": 1759641801,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43255,
