@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759677738801,
+  "endTime": 1759678589860,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -443,6 +443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 438654,
+      "num": 438654,
+      "word": "山西婚礼要在下水道井盖贴喜字",
+      "onboard_time": 1759673843,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 437908,
       "num": 437908,
       "word": "王楚钦累得睡在场馆",
@@ -553,14 +561,6 @@
       "onboard_time": 1759663762,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364893,
-      "num": 364893,
-      "word": "山西婚礼要在下水道井盖贴喜字",
-      "onboard_time": 1759673843,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 363907,
@@ -711,6 +711,14 @@
       "num": 254444,
       "word": "TF家族",
       "onboard_time": 1759676003,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 319409,
+      "num": 229681,
+      "word": "肖战今天的物料有点太多了",
+      "onboard_time": 1759677862,
       "rank": 14,
       "category": "艺人"
     },
@@ -1337,6 +1345,14 @@
       "onboard_time": 1759641622,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181877,
+      "num": 181877,
+      "word": "刘诗诗TWS合影",
+      "onboard_time": 1759677505,
+      "rank": 37,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 181482,
@@ -1979,6 +1995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 130671,
+      "num": 236944,
+      "word": "王楚钦男单积分破万",
+      "onboard_time": 1759678222,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129539,
       "num": 129539,
       "word": "终于有人把化妆顺序说清楚了",
@@ -2041,6 +2065,14 @@
       "onboard_time": 1759653440,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126519,
+      "num": 126519,
+      "word": "G社拍的马柏全宋祖儿",
+      "onboard_time": 1759677561,
+      "rank": 39,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 126329,
@@ -2779,14 +2811,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 96759,
-      "num": 96759,
-      "word": "刘诗诗TWS合影",
-      "onboard_time": 1759677505,
-      "rank": 37,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 96690,
       "num": 135873,
       "word": "李沁砍价也开始微醺了",
@@ -2867,6 +2891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92503,
+      "num": 92503,
+      "word": "蒋敦豪命名舞台炸场",
+      "onboard_time": 1759678103,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91660,
       "num": 91660,
       "word": "Doinb与Boaster梦幻联动",
@@ -2905,6 +2937,14 @@
       "onboard_time": 1759654641,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89725,
+      "num": 89725,
+      "word": "北京国安",
+      "onboard_time": 1759676003,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 89306,
@@ -3051,6 +3091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81263,
+      "num": 81263,
+      "word": "DRG强势拿下四连胜",
+      "onboard_time": 1759678342,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 80695,
       "num": 600452,
       "word": "国庆档10亿大项目你参与了吗",
@@ -3083,6 +3131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78795,
+      "num": 93452,
+      "word": "孙俪妆造正确",
+      "onboard_time": 1759678222,
+      "rank": 38,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 78698,
       "num": 113400,
       "word": "李嘉格是井迪师姐",
@@ -3105,6 +3161,14 @@
       "onboard_time": 1759586661,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 75729,
+      "num": 75729,
+      "word": "樊振东德甲十月首战",
+      "onboard_time": 1759678522,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 74126,
@@ -3209,14 +3273,6 @@
       "onboard_time": 1759658542,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65815,
-      "num": 94116,
-      "word": "G社拍的马柏全宋祖儿",
-      "onboard_time": 1759677561,
-      "rank": 39,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 65454,
