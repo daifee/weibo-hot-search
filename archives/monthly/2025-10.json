@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759642727180,
+  "endTime": 1759646024026,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -563,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 960633,
+      "num": 197108,
+      "word": "日本旅馆老板下药性侵10名女房客",
+      "onboard_time": 1759641501,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 954744,
       "num": 433633,
       "word": "王俊凯父母开的奶茶店停业",
@@ -601,6 +609,14 @@
       "onboard_time": 1759405042,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 920198,
+      "num": 200120,
+      "word": "向太曝选郭碧婷当儿媳原因",
+      "onboard_time": 1759639401,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 917837,
@@ -817,14 +833,6 @@
       "onboard_time": 1759417162,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 775493,
-      "num": 200120,
-      "word": "向太曝选郭碧婷当儿媳原因",
-      "onboard_time": 1759639401,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 768146,
@@ -1256,6 +1264,14 @@
       "word": "王楚钦vs松岛辉空",
       "onboard_time": 1759559179,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 616055,
+      "num": 616055,
+      "word": "王楚钦4比3向鹏",
+      "onboard_time": 1759644681,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -1923,14 +1939,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 458752,
-      "num": 196396,
-      "word": "日本旅馆老板下药性侵10名女房客",
-      "onboard_time": 1759641501,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 457974,
       "num": 457974,
       "word": "李在明痛批反华集会有损国格",
@@ -2105,6 +2113,14 @@
       "onboard_time": 1759505961,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 426707,
+      "num": 186892,
+      "word": "黄一鸣曝闪闪要回来了",
+      "onboard_time": 1759641322,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 421083,
@@ -2531,6 +2547,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 359278,
+      "num": 359278,
+      "word": "林诗栋无缘中国大满贯决赛",
+      "onboard_time": 1759641022,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 358777,
       "num": 188016,
       "word": "吴倩回到了赵默笙时期",
@@ -2643,6 +2667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 345471,
+      "num": 184545,
+      "word": "我家那闺女",
+      "onboard_time": 1759642401,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343147,
       "num": 229749,
       "word": "文咏珊官宣当妈",
@@ -2681,6 +2713,14 @@
       "onboard_time": 1759639340,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 338022,
+      "num": 182401,
+      "word": "金正恩警告美国",
+      "onboard_time": 1759639822,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 337216,
@@ -2729,14 +2769,6 @@
       "onboard_time": 1759398020,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 328641,
-      "num": 328641,
-      "word": "林诗栋无缘中国大满贯决赛",
-      "onboard_time": 1759641022,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 326609,
@@ -4139,14 +4171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215590,
-      "num": 182401,
-      "word": "金正恩警告美国",
-      "onboard_time": 1759639822,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 214855,
       "num": 214855,
       "word": "王楚钦孙颖莎藏不住的喜悦",
@@ -4251,14 +4275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 211112,
-      "num": 184545,
-      "word": "我家那闺女",
-      "onboard_time": 1759642401,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 210223,
       "num": 156372,
       "word": "张晚意问还能演正剧吗",
@@ -4283,6 +4299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 208883,
+      "num": 208883,
+      "word": "王楚钦晋级中国大满贯决赛",
+      "onboard_time": 1759645100,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208529,
       "num": 153923,
       "word": "李晟生日没有感动全是尴尬",
@@ -4296,6 +4320,14 @@
       "word": "独属于王楚钦孙颖莎的出场动画",
       "onboard_time": 1759500382,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 207882,
+      "num": 174347,
+      "word": "王楚钦决胜局3比7大逆转",
+      "onboard_time": 1759645341,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -4497,6 +4529,14 @@
       "onboard_time": 1759299621,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202270,
+      "num": 171901,
+      "word": "王楚钦强大的意志品质",
+      "onboard_time": 1759645820,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 202241,
@@ -5467,6 +5507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171269,
+      "num": 171269,
+      "word": "F勒布伦首进大满贯决赛",
+      "onboard_time": 1759645640,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171198,
       "num": 128038,
       "word": "导演看了花少5才选择了王安宇",
@@ -5553,6 +5601,14 @@
       "onboard_time": 1759378219,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169347,
+      "num": 169347,
+      "word": "张子墨伴手礼",
+      "onboard_time": 1759645280,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 169293,
@@ -5745,6 +5801,14 @@
       "onboard_time": 1759399401,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166322,
+      "num": 166322,
+      "word": "98岁母亲问67岁儿子做手术疼不疼",
+      "onboard_time": 1759643422,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166242,
@@ -6185,6 +6249,14 @@
       "onboard_time": 1759496721,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154078,
+      "num": 154078,
+      "word": "白鹿带wakuku下班",
+      "onboard_time": 1759644202,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 153985,
@@ -6923,14 +6995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140326,
-      "num": 140326,
-      "word": "黄一鸣曝闪闪要回来了",
-      "onboard_time": 1759641322,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140316,
       "num": 137978,
       "word": "鼻子决定了颜值的上限",
@@ -7651,6 +7715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129505,
+      "num": 126113,
+      "word": "邓布利多 爱是最伟大的魔法",
+      "onboard_time": 1759639580,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129445,
       "num": 129445,
       "word": "机器人穿马面裙街头弹奏",
@@ -7915,6 +7987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125366,
+      "num": 125366,
+      "word": "拍摄者回应两婚车碰头谁都不让谁",
+      "onboard_time": 1759644202,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125251,
       "num": 125251,
       "word": "政府食堂20元简餐火了",
@@ -8001,14 +8081,6 @@
       "onboard_time": 1759324341,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123579,
-      "num": 123579,
-      "word": "邓布利多 爱是最伟大的魔法",
-      "onboard_time": 1759639580,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 123487,
@@ -9227,6 +9299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109994,
+      "num": 109994,
+      "word": "朱志鑫给丁程鑫夸成翘嘴了",
+      "onboard_time": 1759643001,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109991,
       "num": 109991,
       "word": "李沁花少灵珠新剧魔丸",
@@ -9819,6 +9899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105365,
+      "num": 103937,
+      "word": "马思纯 观众缘",
+      "onboard_time": 1759640061,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105267,
       "num": 105267,
       "word": "十一假期重庆人这么吃重庆",
@@ -9857,6 +9945,14 @@
       "onboard_time": 1759326621,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105032,
+      "num": 105032,
+      "word": "中国大满贯男单巅峰对决",
+      "onboard_time": 1759645880,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 104986,
@@ -10923,14 +11019,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 95740,
-      "num": 95740,
-      "word": "马思纯 观众缘",
-      "onboard_time": 1759640061,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95611,
       "num": 95611,
       "word": "让皮肤紧致的3种运动",
@@ -11113,6 +11201,14 @@
       "onboard_time": 1759479740,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93986,
+      "num": 93986,
+      "word": "李艺彤自曝会卖二手",
+      "onboard_time": 1759644741,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 93967,
@@ -11347,6 +11443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91660,
+      "num": 91660,
+      "word": "Doinb与Boaster梦幻联动",
+      "onboard_time": 1759645460,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91609,
       "num": 91609,
       "word": "王耀庆贾静雯复刻35年前旧照",
@@ -11473,6 +11577,14 @@
       "onboard_time": 1759537880,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89966,
+      "num": 89966,
+      "word": "纹身1500洗纹身15000",
+      "onboard_time": 1759643481,
+      "rank": 49,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 89965,
@@ -15233,6 +15345,14 @@
       "onboard_time": 1759588403,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11466,
+      "num": 181228,
+      "word": "张馨予下雨天收到女孩留的伞",
+      "onboard_time": 1759645701,
+      "rank": 19,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 11212,
