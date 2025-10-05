@@ -1,0 +1,410 @@
+{
+  "runTime": 1759663125942,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2572562,
+        "num": 2572562,
+        "word": "王楚钦3冠王",
+        "onboard_time": 1759661845,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1291281,
+        "num": 1291281,
+        "word": "王楚钦vsF勒布伦",
+        "onboard_time": 1759659504,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16401,
+        "num": 1167365,
+        "word": "明天中秋你准备怎么过",
+        "onboard_time": 1759654461,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1046266,
+        "num": 1046266,
+        "word": "环保少女被曝遭虐待强迫亲吻以国旗",
+        "onboard_time": 1759657221,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1002080,
+        "num": 1002080,
+        "word": "王曼昱4比2战胜孙颖莎",
+        "onboard_time": 1759658783,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372955,
+        "num": 372955,
+        "word": "珠峰东坡暴雪有人员已出现失温症状",
+        "onboard_time": 1759657820,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343979,
+        "num": 343979,
+        "word": "孙颖莎中国大满贯亚军",
+        "onboard_time": 1759658843,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333715,
+        "num": 333715,
+        "word": "王曼昱回应4比2孙颖莎",
+        "onboard_time": 1759660942,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257883,
+        "num": 257883,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1759655781,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223040,
+        "num": 223040,
+        "word": "TTG对战KSG",
+        "onboard_time": 1759662983,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 425162,
+        "num": 222250,
+        "word": "周峻纬音乐节被突然冲上台男子扒衣",
+        "onboard_time": 1759655420,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 282703,
+        "num": 221183,
+        "word": "宁艺卓pk",
+        "onboard_time": 1759661965,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272424,
+        "num": 220261,
+        "word": "苏新皓pk",
+        "onboard_time": 1759661965,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258564,
+        "num": 219848,
+        "word": "live图怎么关声音",
+        "onboard_time": 1759658903,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 252245,
+        "num": 218233,
+        "word": "内娱最想二搭的cp出现了",
+        "onboard_time": 1759652900,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247993,
+        "num": 217308,
+        "word": "马思纯掀桌了",
+        "onboard_time": 1759662503,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240363,
+        "num": 217014,
+        "word": "WTT",
+        "onboard_time": 1759645401,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231272,
+        "num": 215447,
+        "word": "鹿晗拒绝了粉丝送的冰淇淋",
+        "onboard_time": 1759635079,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229937,
+        "num": 214641,
+        "word": "许我耀眼一天一集",
+        "onboard_time": 1759658062,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214361,
+        "num": 214361,
+        "word": "反手发球",
+        "onboard_time": 1759661784,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372064,
+        "num": 214193,
+        "word": "王诗龄音腔口音",
+        "onboard_time": 1759662624,
+        "rank": 20,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 290485,
+        "num": 212079,
+        "word": "金价",
+        "onboard_time": 1759645640,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 200800,
+        "num": 210914,
+        "word": "王橹杰高会",
+        "onboard_time": 1759658903,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234789,
+        "num": 210450,
+        "word": "瘦了15斤后鼻子的变化",
+        "onboard_time": 1759661123,
+        "rank": 23,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 175825,
+        "num": 208884,
+        "word": "中国人的种菜技能太全面了",
+        "onboard_time": 1759657702,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207920,
+        "num": 207920,
+        "word": "全家旅游遇车祸两女儿遇难妻子烧伤",
+        "onboard_time": 1759651881,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201136,
+        "num": 201136,
+        "word": "赵本山女儿球球回应和哥哥争财产",
+        "onboard_time": 1759659022,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189509,
+        "num": 189509,
+        "word": "celine大秀",
+        "onboard_time": 1759659384,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 176098,
+        "num": 189412,
+        "word": "王曼昱冠军",
+        "onboard_time": 1759659203,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189354,
+        "num": 189354,
+        "word": "迪丽热巴中秋嫦娥造型",
+        "onboard_time": 1759636461,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216897,
+        "num": 187034,
+        "word": "王楚钦11比2F勒布伦",
+        "onboard_time": 1759662983,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178001,
+        "num": 178001,
+        "word": "李沁 就你了",
+        "onboard_time": 1759652961,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168279,
+        "num": 168279,
+        "word": "时代峰峻楼下 拍立得发布会",
+        "onboard_time": 1759661003,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158142,
+        "num": 158142,
+        "word": "许我耀眼云合",
+        "onboard_time": 1759655600,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197422,
+        "num": 155352,
+        "word": "王曼昱中国大满贯夺冠",
+        "onboard_time": 1759662683,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144102,
+        "num": 144102,
+        "word": "日本旅馆老板下药性侵10名女房客",
+        "onboard_time": 1759641501,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136638,
+        "num": 136638,
+        "word": "马頔 醒来全身都是黑锅",
+        "onboard_time": 1759659504,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135145,
+        "num": 135145,
+        "word": "鸡排哥晒检测报告健康证回应质疑",
+        "onboard_time": 1759649540,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70206,
+        "num": 133523,
+        "word": "娜扎古装怎么美成这样",
+        "onboard_time": 1759662503,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90310,
+        "num": 133263,
+        "word": "孙颖莎好牛的一球",
+        "onboard_time": 1759662922,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133082,
+        "num": 133082,
+        "word": "王俊凯父母开的奶茶店停业",
+        "onboard_time": 1759637961,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131052,
+        "num": 131052,
+        "word": "刘诗诗官摄",
+        "onboard_time": 1759662263,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 118025,
+        "num": 118025,
+        "word": "王楚钦决胜局3比7大逆转",
+        "onboard_time": 1759645341,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114652,
+        "num": 114652,
+        "word": "发现小猫每天偷偷称体重",
+        "onboard_time": 1759656981,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113250,
+        "num": 113250,
+        "word": "高铁 充电口使用权争议",
+        "onboard_time": 1759658903,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112702,
+        "num": 112702,
+        "word": "没接到骑手电话500元外卖不翼而飞",
+        "onboard_time": 1759649900,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111390,
+        "num": 111390,
+        "word": "张小斐 姐嘴都笑咧开花了",
+        "onboard_time": 1759661965,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110055,
+        "num": 110055,
+        "word": "两婚车相遇互不让路砍树通行",
+        "onboard_time": 1759648221,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142195,
+        "num": 109589,
+        "word": "邱贻可陪孙颖莎训练",
+        "onboard_time": 1759662803,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106872,
+        "num": 106872,
+        "word": "12306回应充电口使用权争议",
+        "onboard_time": 1759660942,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻中华文明#"
+    }
+  }
+}

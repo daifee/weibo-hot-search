@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759660738812,
+  "endTime": 1759663125942,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -9,6 +9,14 @@
       "onboard_time": 1759595120,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2572562,
+      "num": 2572562,
+      "word": "王楚钦3冠王",
+      "onboard_time": 1759661845,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2363947,
@@ -33,6 +41,14 @@
       "onboard_time": 1759632499,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1291281,
+      "num": 1291281,
+      "word": "王楚钦vsF勒布伦",
+      "onboard_time": 1759659504,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 1290002,
@@ -323,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 483067,
-      "num": 483067,
-      "word": "王楚钦vsF勒布伦",
-      "onboard_time": 1759659504,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 472942,
       "num": 190716,
       "word": "大家不睡觉陪张雅琪一起剪视频",
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 447286,
-      "num": 204183,
+      "num": 222250,
       "word": "周峻纬音乐节被突然冲上台男子扒衣",
       "onboard_time": 1759655420,
       "rank": 25,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 389679,
-      "num": 193366,
+      "num": 207920,
       "word": "全家旅游遇车祸两女儿遇难妻子烧伤",
       "onboard_time": 1759651881,
       "rank": 20,
@@ -433,6 +441,22 @@
       "onboard_time": 1759634241,
       "rank": 31,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 372955,
+      "num": 372955,
+      "word": "珠峰东坡暴雪有人员已出现失温症状",
+      "onboard_time": 1759657820,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 372064,
+      "num": 214193,
+      "word": "王诗龄音腔口音",
+      "onboard_time": 1759662624,
+      "rank": 20,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 363907,
@@ -481,6 +505,14 @@
       "onboard_time": 1759639822,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 333715,
+      "num": 333715,
+      "word": "王曼昱回应4比2孙颖莎",
+      "onboard_time": 1759660942,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 332326,
@@ -580,7 +612,7 @@
     },
     {
       "raw_hot": 289588,
-      "num": 200758,
+      "num": 219848,
       "word": "live图怎么关声音",
       "onboard_time": 1759658903,
       "rank": 28,
@@ -593,6 +625,14 @@
       "onboard_time": 1759626139,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282703,
+      "num": 221183,
+      "word": "宁艺卓pk",
+      "onboard_time": 1759661965,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 278900,
@@ -619,8 +659,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 272424,
+      "num": 220261,
+      "word": "苏新皓pk",
+      "onboard_time": 1759661965,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266447,
-      "num": 203341,
+      "num": 214641,
       "word": "许我耀眼一天一集",
       "onboard_time": 1759658062,
       "rank": 14,
@@ -675,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247993,
+      "num": 217308,
+      "word": "马思纯掀桌了",
+      "onboard_time": 1759662503,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245066,
       "num": 184346,
       "word": "hi6收视率排名第一",
@@ -683,16 +739,24 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231251,
-      "num": 231251,
-      "word": "珠峰东坡暴雪有人员已出现失温症状",
-      "onboard_time": 1759657820,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 240363,
+      "num": 217014,
+      "word": "WTT",
+      "onboard_time": 1759645401,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 234789,
+      "num": 210450,
+      "word": "瘦了15斤后鼻子的变化",
+      "onboard_time": 1759661123,
+      "rank": 23,
+      "category": "情感,运动健身"
     },
     {
       "raw_hot": 229974,
-      "num": 197545,
+      "num": 210914,
       "word": "王橹杰高会",
       "onboard_time": 1759658903,
       "rank": 19,
@@ -713,6 +777,14 @@
       "onboard_time": 1759628480,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223040,
+      "num": 223040,
+      "word": "TTG对战KSG",
+      "onboard_time": 1759662983,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 222882,
@@ -739,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216897,
+      "num": 187034,
+      "word": "王楚钦11比2F勒布伦",
+      "onboard_time": 1759662983,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214850,
       "num": 116011,
       "word": "方媛说现在已经不能坐飞机了",
@@ -752,6 +832,14 @@
       "word": "王楚钦晋级中国大满贯决赛",
       "onboard_time": 1759645100,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214361,
+      "num": 214361,
+      "word": "反手发球",
+      "onboard_time": 1759661784,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -827,12 +915,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201136,
+      "num": 201136,
+      "word": "赵本山女儿球球回应和哥哥争财产",
+      "onboard_time": 1759659022,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197674,
       "num": 191458,
       "word": "98岁母亲问67岁儿子做手术疼不疼",
       "onboard_time": 1759643422,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197422,
+      "num": 155352,
+      "word": "王曼昱中国大满贯夺冠",
+      "onboard_time": 1759662683,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 192911,
@@ -857,14 +961,6 @@
       "onboard_time": 1759573521,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 190964,
-      "num": 190964,
-      "word": "赵本山女儿球球回应和哥哥争财产",
-      "onboard_time": 1759659022,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 190506,
@@ -1024,6 +1120,14 @@
       "word": "张子墨伴手礼",
       "onboard_time": 1759645280,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168279,
+      "num": 168279,
+      "word": "时代峰峻楼下 拍立得发布会",
+      "onboard_time": 1759661003,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1251,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142195,
+      "num": 109589,
+      "word": "邱贻可陪孙颖莎训练",
+      "onboard_time": 1759662803,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141937,
       "num": 141937,
       "word": "陈震车祸中受伤司机多处骨折",
@@ -1337,6 +1449,14 @@
       "onboard_time": 1759654461,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131052,
+      "num": 131052,
+      "word": "刘诗诗官摄",
+      "onboard_time": 1759662263,
+      "rank": 41,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 129505,
@@ -1587,6 +1707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 111390,
+      "num": 111390,
+      "word": "张小斐 姐嘴都笑咧开花了",
+      "onboard_time": 1759661965,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 111109,
       "num": 524325,
       "word": "8天长假已过半",
@@ -1659,14 +1787,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 108599,
-      "num": 108599,
-      "word": "WTT",
-      "onboard_time": 1759645401,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108453,
       "num": 110862,
       "word": "正剧还得是视帝视后演",
@@ -1697,6 +1817,14 @@
       "onboard_time": 1759574660,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106872,
+      "num": 106872,
+      "word": "12306回应充电口使用权争议",
+      "onboard_time": 1759660942,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106203,
@@ -1995,6 +2123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90310,
+      "num": 133263,
+      "word": "孙颖莎好牛的一球",
+      "onboard_time": 1759662922,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89927,
       "num": 93404,
       "word": "近视眼的世界真这么离谱吗",
@@ -2265,6 +2401,14 @@
       "onboard_time": 1759633699,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70206,
+      "num": 133523,
+      "word": "娜扎古装怎么美成这样",
+      "onboard_time": 1759662503,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 67068,
@@ -2612,7 +2756,7 @@
     },
     {
       "raw_hot": 31418,
-      "num": 1057423,
+      "num": 1167365,
       "word": "明天中秋你准备怎么过",
       "onboard_time": 1759654461,
       "rank": 2,
