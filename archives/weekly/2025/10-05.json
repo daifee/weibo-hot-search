@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759634815407,
+  "endTime": 1759636118730,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -27,7 +27,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1108537,
+      "raw_hot": 1179374,
       "num": 1177366,
       "word": "高市早苗否认南京大屠杀",
       "onboard_time": 1759632139,
@@ -65,6 +65,14 @@
       "onboard_time": 1759627758,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 684008,
+      "num": 185343,
+      "word": "快乐星球老顽童爷爷去世",
+      "onboard_time": 1759634180,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 643680,
@@ -105,6 +113,14 @@
       "onboard_time": 1759625538,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 490886,
+      "num": 146857,
+      "word": "鹿晗拒绝了粉丝送的冰淇淋",
+      "onboard_time": 1759635079,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 488503,
@@ -163,20 +179,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 375337,
+      "num": 186392,
+      "word": "赵磊首次回应26岁官宣结婚",
+      "onboard_time": 1759632623,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363907,
       "num": 186788,
       "word": "郭富城回应三胎已出生",
       "onboard_time": 1759619656,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 359151,
-      "num": 186392,
-      "word": "赵磊首次回应26岁官宣结婚",
-      "onboard_time": 1759632623,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 331084,
@@ -211,20 +227,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 311152,
-      "num": 185343,
-      "word": "快乐星球老顽童爷爷去世",
-      "onboard_time": 1759634180,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 287945,
       "num": 188174,
       "word": "家猫突然扑向主人挠20多道伤口",
       "onboard_time": 1759626139,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284656,
+      "num": 284656,
+      "word": "不旅游就等于浪费假期吗",
+      "onboard_time": 1759634300,
+      "rank": 9,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 273915,
+      "num": 183571,
+      "word": "陆毅不敢吃鲍蕾做的饭",
+      "onboard_time": 1759632739,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 263675,
@@ -241,6 +265,14 @@
       "onboard_time": 1759584022,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257080,
+      "num": 146164,
+      "word": "命真好头胎生了个月嫂",
+      "onboard_time": 1759634241,
+      "rank": 31,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 254494,
@@ -273,6 +305,14 @@
       "onboard_time": 1759628480,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219135,
+      "num": 146103,
+      "word": "张婧仪小时候睡过觉吗",
+      "onboard_time": 1759635319,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 217635,
@@ -315,16 +355,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 198330,
-      "num": 183571,
-      "word": "陆毅不敢吃鲍蕾做的饭",
-      "onboard_time": 1759632739,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192911,
-      "num": 135350,
+      "num": 143610,
       "word": "出嫁那天跟你出生那天一样热闹",
       "onboard_time": 1759633340,
       "rank": 31,
@@ -337,6 +369,14 @@
       "onboard_time": 1759573521,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185192,
+      "num": 146005,
+      "word": "黄磊8岁儿子身高",
+      "onboard_time": 1759635200,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 183394,
@@ -419,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166242,
+      "num": 145829,
+      "word": "入青云OST阵容",
+      "onboard_time": 1759635559,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163041,
       "num": 154315,
       "word": "丁程鑫看TOP湿身的表情",
@@ -435,12 +483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160529,
-      "num": 135059,
-      "word": "命真好头胎生了个月嫂",
-      "onboard_time": 1759634241,
-      "rank": 31,
-      "category": "情感,休闲"
+      "raw_hot": 157087,
+      "num": 157087,
+      "word": "9月的工资不用打给我了",
+      "onboard_time": 1759633759,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 154111,
@@ -451,12 +499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153781,
-      "num": 188702,
-      "word": "不旅游就等于浪费假期吗",
-      "onboard_time": 1759634300,
-      "rank": 9,
-      "category": "情感,休闲"
+      "raw_hot": 151656,
+      "num": 145773,
+      "word": "环保少女称被以色列关在臭虫牢房",
+      "onboard_time": 1759635742,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147498,
@@ -491,12 +539,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143774,
-      "num": 143774,
-      "word": "9月的工资不用打给我了",
-      "onboard_time": 1759633759,
-      "rank": 47,
-      "category": "情感"
+      "raw_hot": 145734,
+      "num": 145734,
+      "word": "张柏芝带两个儿子逛街",
+      "onboard_time": 1759634661,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145673,
+      "num": 145673,
+      "word": "池昌旭差点被亲上",
+      "onboard_time": 1759634540,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 136992,
+      "num": 136992,
+      "word": "给男朋友点的咖啡送到了妈妈手里",
+      "onboard_time": 1759634840,
+      "rank": 35,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 134364,
@@ -523,6 +587,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121093,
+      "num": 121093,
+      "word": "张小斐杨超越同框看秀",
+      "onboard_time": 1759635625,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 118796,
+      "num": 118796,
+      "word": "原来这就是吃尽了红利的松弛感",
+      "onboard_time": 1759635559,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118266,
       "num": 118266,
       "word": "王曼昱鹰眼挑战失败",
@@ -545,6 +625,14 @@
       "onboard_time": 1759592601,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 115328,
+      "num": 115328,
+      "word": "警方回应男子扮辱华动漫角色被围攻",
+      "onboard_time": 1759633820,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114866,
@@ -579,20 +667,20 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 113069,
-      "num": 113069,
-      "word": "警方回应男子扮辱华动漫角色被围攻",
-      "onboard_time": 1759633820,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111109,
-      "num": 111109,
+      "num": 285299,
       "word": "8天长假已过半",
       "onboard_time": 1759628539,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107527,
+      "num": 107527,
+      "word": "成毅落魄太子造型",
+      "onboard_time": 1759636099,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 107109,
@@ -611,6 +699,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 104503,
+      "num": 104503,
+      "word": "大批狂风暴雨抵达广东",
+      "onboard_time": 1759635861,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104443,
       "num": 109038,
       "word": "满级号",
@@ -627,20 +723,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100969,
-      "num": 100969,
-      "word": "张柏芝带两个儿子逛街",
-      "onboard_time": 1759634661,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 99882,
       "num": 99882,
       "word": "花少7小考完全是张晚意的舒适区",
       "onboard_time": 1759628359,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99404,
+      "num": 99404,
+      "word": "我给鞠婧祎张云龙拍的来战大片",
+      "onboard_time": 1759635559,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 98789,
@@ -673,14 +769,6 @@
       "onboard_time": 1759588823,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 95879,
-      "num": 95879,
-      "word": "池昌旭差点被亲上",
-      "onboard_time": 1759634540,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 89927,
@@ -1003,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 50627,
+      "num": 124169,
+      "word": "什么家庭李昀锐8个字夸了16遍",
+      "onboard_time": 1759635441,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43255,
       "num": 45212,
       "word": "陈俊崧回应不敌王楚钦林诗栋",
@@ -1059,6 +1155,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32884,
+      "num": 553491,
+      "word": "星空有约",
+      "onboard_time": 1759583722,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31877,
+      "num": 146438,
+      "word": "刘嘉玲私人健康顾问被曝光",
+      "onboard_time": 1759635742,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31293,
       "num": 44516,
       "word": "王曼昱说跟莎莎决赛会全力以赴",
@@ -1083,11 +1195,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27544,
-      "num": 553491,
-      "word": "星空有约",
-      "onboard_time": 1759583722,
-      "rank": 2,
+      "raw_hot": 28980,
+      "num": 145703,
+      "word": "高市早苗将接手3个烂摊子",
+      "onboard_time": 1759636042,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 27753,
+      "num": 146499,
+      "word": "麦德姆逼近广东掀起5米巨浪",
+      "onboard_time": 1759635801,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1129,6 +1249,14 @@
       "onboard_time": 1759603514,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 11209,
+      "num": 125218,
+      "word": "苏超首次引入VAR判罚点球",
+      "onboard_time": 1759635441,
+      "rank": 38,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
@@ -1137,6 +1265,9 @@
     },
     {
       "word": "#爱国情在血脉中流淌#"
+    },
+    {
+      "word": "#中华民族的文化根脉#"
     }
   ]
 }
