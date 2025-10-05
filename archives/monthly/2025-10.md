@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/05 23:36:29
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/06 00:27:48
 </p>
 </blockquote>
 <p>
@@ -711,6 +711,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E6%9A%97%E7%A4%BA%E5%8F%AF%E8%83%BD%E7%88%86%E5%8F%91%E6%96%B0%E6%88%98%E4%BA%89%23" target="weibo">
+武契奇暗示可能爆发新战争（热度：779497）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8E%B9%E9%A2%96%E7%94%B7%E5%8F%8B%E5%8D%8F%E5%8A%A9%E7%AB%A0%E7%88%B6%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E6%96%B0%E6%81%8B%E6%83%85%23" target="weibo">
 章莹颖男友协助章父直播回应新恋情（热度：778997）
 </a>
@@ -1353,6 +1359,12 @@ hi6（热度：563954）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E5%A6%86%E9%80%A0%E6%AD%A3%E7%A1%AE%23" target="weibo">
+孙俪妆造正确（热度：530004）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%AE%89%E5%AE%B0%E8%B4%A4%23" target="weibo">
 王楚钦vs安宰贤（热度：528355）
 </a>
@@ -1487,6 +1499,12 @@ hi6（热度：563954）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E8%8B%B1%E8%AF%AD%E5%8F%A3%E8%AF%AD%E6%B0%B4%E5%B9%B3%23" target="weibo">
 沈佳润英语口语水平（热度：490467）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BB%8A%E5%A4%A9%E7%9A%84%E7%89%A9%E6%96%99%E6%9C%89%E7%82%B9%E5%A4%AA%E5%A4%9A%E4%BA%86%23" target="weibo">
+肖战今天的物料有点太多了（热度：489450）
 </a>
 </li>
 
@@ -1745,6 +1763,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%A1%E6%96%B9%E7%A7%B09%E4%BA%BA%E8%BD%AE%E6%B5%81%E7%9D%A18%E5%BC%A0%E5%BA%8A%E6%9C%80%E5%85%AC%E5%B9%B3%23" target="weibo">
 校方称9人轮流睡8张床最公平（热度：429669）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%BF%AE%E5%9B%BE%E9%81%97%E8%90%BD%E4%BA%86%E4%B8%AA%E9%BC%BB%E5%AD%90%23" target="weibo">
+王俊凯工作室修图遗落了个鼻子（热度：428538）
 </a>
 </li>
 
@@ -2375,12 +2399,6 @@ WTT（热度：332672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%23" target="weibo">
 TF家族（热度：321156）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BB%8A%E5%A4%A9%E7%9A%84%E7%89%A9%E6%96%99%E6%9C%89%E7%82%B9%E5%A4%AA%E5%A4%9A%E4%BA%86%23" target="weibo">
-肖战今天的物料有点太多了（热度：319409）
 </a>
 </li>
 
@@ -3113,6 +3131,12 @@ F1（热度：275052）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E9%A9%AC%E9%A0%94%E5%9B%9E%E5%A4%8D%E7%8E%8B%E8%8F%8A%23" target="weibo">
 李纯马頔回复王菊（热度：248880）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA5%E4%BA%BA%E8%BF%9B%E5%85%A5%E5%BA%9F%E5%BC%83%E7%9F%BF%E7%A1%90%E9%81%87%E9%9A%BE%23" target="weibo">
+福建5人进入废弃矿硐遇难（热度：248803）
 </a>
 </li>
 
@@ -4647,6 +4671,12 @@ AG对战JDG（热度：181803）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%94%B7%E5%8D%95%E7%A7%AF%E5%88%86%E7%A0%B4%E4%B8%87%23" target="weibo">
+王楚钦男单积分破万（热度：173387）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%99%BE%E5%9C%BA%E7%9B%B4%E6%92%AD%23" target="weibo">
 张杰百场直播（热度：172987）
 </a>
@@ -5231,6 +5261,12 @@ Dior大秀G社生图（热度：167518）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%23" target="weibo">
 三角洲行动（热度：157241）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23G%E7%A4%BE%E6%8B%8D%E7%9A%84%E9%A9%AC%E6%9F%8F%E5%85%A8%E5%AE%8B%E7%A5%96%E5%84%BF%23" target="weibo">
+G社拍的马柏全宋祖儿（热度：157232）
 </a>
 </li>
 
@@ -5975,42 +6011,6 @@ XG新阵容（热度：140217）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Wolves%E5%AF%B9%E6%88%98MRC%23" target="weibo">
 Wolves对战MRC（热度：140149）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9B%9E%E5%BA%94%E8%BF%9E%E7%BB%AD%E4%B8%80%E6%97%A5%E4%B8%89%E8%B5%9B%23" target="weibo">
-王楚钦回应连续一日三赛（热度：140105）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%A0%94%20%E9%86%92%E6%9D%A5%E5%85%A8%E8%BA%AB%E9%83%BD%E6%98%AF%E9%BB%91%E9%94%85%23" target="weibo">
-马頔 醒来全身都是黑锅（热度：140051）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3vs%E6%B9%96%E4%BA%BA%23" target="weibo">
-太阳vs湖人（热度：140021）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%9B%9E%E5%BA%94%E5%90%8C%E6%AC%BE%E9%9B%B6%E9%A3%9F%E5%A5%BD%E7%89%B9%E5%8D%96%E4%BE%BF%E5%AE%9C60%E5%85%83%23" target="weibo">
-山姆回应同款零食好特卖便宜60元（热度：140012）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%9D%90%E7%99%BD%E6%95%AC%E4%BA%AD%E8%85%BF%E4%B8%8A%E6%88%91%E5%9D%90%E4%BB%80%E4%B9%88%23" target="weibo">
-范丞丞坐白敬亭腿上我坐什么（热度：139856）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB11%E5%A4%A9%E6%97%A5%E6%92%AD6%E5%B0%8F%E6%97%B6%E9%B8%A1%E6%8E%92%E5%93%A5%E9%9B%B6%E6%94%B6%E7%9B%8A%23" target="weibo">
-博主11天日播6小时鸡排哥零收益（热度：139811）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759678589860,
+  "endTime": 1759681668953,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 779497,
+      "num": 912375,
+      "word": "武契奇暗示可能爆发新战争",
+      "onboard_time": 1759680801,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 777517,
       "num": 304890,
       "word": "马思纯掀桌了",
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 530004,
+      "num": 159385,
+      "word": "孙俪妆造正确",
+      "onboard_time": 1759678222,
+      "rank": 38,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 521512,
       "num": 521512,
       "word": "不旅游就等于浪费假期吗",
@@ -385,6 +401,14 @@
       "onboard_time": 1759638081,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 489450,
+      "num": 229681,
+      "word": "肖战今天的物料有点太多了",
+      "onboard_time": 1759677862,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 488503,
@@ -457,6 +481,14 @@
       "onboard_time": 1759673004,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 428538,
+      "num": 158968,
+      "word": "王俊凯工作室修图遗落了个鼻子",
+      "onboard_time": 1759680741,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 426707,
@@ -711,14 +743,6 @@
       "num": 254444,
       "word": "TF家族",
       "onboard_time": 1759676003,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 319409,
-      "num": 229681,
-      "word": "肖战今天的物料有点太多了",
-      "onboard_time": 1759677862,
       "rank": 14,
       "category": "艺人"
     },
@@ -985,6 +1009,14 @@
       "onboard_time": 1759640720,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248803,
+      "num": 248803,
+      "word": "福建5人进入废弃矿硐遇难",
+      "onboard_time": 1759680141,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245066,
@@ -1435,6 +1467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173387,
+      "num": 236944,
+      "word": "王楚钦男单积分破万",
+      "onboard_time": 1759678222,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173266,
       "num": 173266,
       "word": "台风红色预警发布",
@@ -1609,6 +1649,14 @@
       "onboard_time": 1759649600,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157232,
+      "num": 157232,
+      "word": "G社拍的马柏全宋祖儿",
+      "onboard_time": 1759677561,
+      "rank": 39,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 156916,
@@ -1907,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136076,
+      "num": 136076,
+      "word": "北大女生三分钟发言檀健次听入神了",
+      "onboard_time": 1759679360,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135266,
       "num": 135266,
       "word": "张桂源choker",
@@ -1995,12 +2051,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 130671,
-      "num": 236944,
-      "word": "王楚钦男单积分破万",
-      "onboard_time": 1759678222,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 131999,
+      "num": 154721,
+      "word": "大学生卖雪王送鸡排哥高清写真",
+      "onboard_time": 1759673843,
+      "rank": 37,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 129539,
@@ -2065,14 +2121,6 @@
       "onboard_time": 1759653440,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126519,
-      "num": 126519,
-      "word": "G社拍的马柏全宋祖儿",
-      "onboard_time": 1759677561,
-      "rank": 39,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 126329,
@@ -2185,14 +2233,6 @@
       "onboard_time": 1759673303,
       "rank": 29,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 119145,
-      "num": 154721,
-      "word": "大学生卖雪王送鸡排哥高清写真",
-      "onboard_time": 1759673843,
-      "rank": 37,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 118796,
@@ -2916,7 +2956,7 @@
     },
     {
       "raw_hot": 90090,
-      "num": 90090,
+      "num": 90644,
       "word": "柏林偶遇欧阳娜娜",
       "onboard_time": 1759676664,
       "rank": 44,
@@ -3123,6 +3163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79650,
+      "num": 90661,
+      "word": "惊艳朋友圈的中秋祝福文案",
+      "onboard_time": 1759681220,
+      "rank": 33,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 79080,
       "num": 157261,
       "word": "我的十一电子榨菜",
@@ -3131,12 +3179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78795,
-      "num": 93452,
-      "word": "孙俪妆造正确",
-      "onboard_time": 1759678222,
-      "rank": 38,
-      "category": "艺人,时尚"
+      "raw_hot": 79004,
+      "num": 90658,
+      "word": "谢霆锋被霸道粉丝狠狠宠",
+      "onboard_time": 1759679661,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 78698,
@@ -3164,7 +3212,7 @@
     },
     {
       "raw_hot": 75729,
-      "num": 75729,
+      "num": 90629,
       "word": "樊振东德甲十月首战",
       "onboard_time": 1759678522,
       "rank": 48,
@@ -3185,6 +3233,14 @@
       "onboard_time": 1759622358,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72457,
+      "num": 133661,
+      "word": "香港海心公园伤人案嫌犯落网",
+      "onboard_time": 1759680201,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72449,
@@ -3289,6 +3345,14 @@
       "onboard_time": 1759588523,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64540,
+      "num": 90633,
+      "word": "福建尤溪通报5人进废弃矿硐遇难",
+      "onboard_time": 1759680980,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64127,
