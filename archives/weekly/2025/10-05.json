@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759699283529,
+  "endTime": 1759700210962,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -3811,20 +3811,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 19704,
+      "num": 29291,
+      "word": "环保少女再次被以军扣押",
+      "onboard_time": 1759696153,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19639,
       "num": 112582,
       "word": "不工作的时候可以在家玩什么",
       "onboard_time": 1759658963,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 18889,
-      "num": 29291,
-      "word": "环保少女再次被以军扣押",
-      "onboard_time": 1759696153,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18587,
@@ -3881,6 +3881,14 @@
       "onboard_time": 1759653620,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11905,
+      "num": 15360,
+      "word": "拉面哥回应流量下滑",
+      "onboard_time": 1759698254,
+      "rank": 48,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 11209,

@@ -1,6 +1,6 @@
 {
   "startTime": 1759681668953,
-  "endTime": 1759699283529,
+  "endTime": 1759700210962,
   "band_list": [
     {
       "raw_hot": 1411855,
@@ -515,7 +515,7 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 18889,
+      "raw_hot": 19704,
       "num": 29291,
       "word": "环保少女再次被以军扣押",
       "onboard_time": 1759696153,
@@ -537,6 +537,14 @@
       "onboard_time": 1759691715,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 11905,
+      "num": 15360,
+      "word": "拉面哥回应流量下滑",
+      "onboard_time": 1759698254,
+      "rank": 48,
+      "category": "民生新闻,网红"
     }
   ],
   "hotgov_list": [

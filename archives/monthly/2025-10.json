@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759699283529,
+  "endTime": 1759700210962,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -17377,6 +17377,14 @@
       "onboard_time": 1759653620,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11905,
+      "num": 15360,
+      "word": "拉面哥回应流量下滑",
+      "onboard_time": 1759698254,
+      "rank": 48,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 11616,
