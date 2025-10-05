@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/06 00:41:46
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/06 01:20:26
 </p>
 </blockquote>
 <p>
@@ -1659,6 +1659,12 @@ K签证（热度：453444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA5%E4%BA%BA%E8%BF%9B%E5%85%A5%E5%BA%9F%E5%BC%83%E7%9F%BF%E7%A1%90%E9%81%87%E9%9A%BE%23" target="weibo">
+福建5人进入废弃矿硐遇难（热度：450319）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E5%91%A8%E5%B3%BB%E7%BA%AC%23" target="weibo">
 这居然是周峻纬（热度：449072）
 </a>
@@ -1871,12 +1877,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E5%85%B3%E6%B3%A8%E9%B8%A1%E6%8E%92%E5%93%A5%23" target="weibo">
 美媒关注鸡排哥（热度：404200）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA5%E4%BA%BA%E8%BF%9B%E5%85%A5%E5%BA%9F%E5%BC%83%E7%9F%BF%E7%A1%90%E9%81%87%E9%9A%BE%23" target="weibo">
-福建5人进入废弃矿硐遇难（热度：401429）
 </a>
 </li>
 
@@ -3327,6 +3327,12 @@ hi6收视率排名第一（热度：245066）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23wtt%23" target="weibo">
+wtt（热度：234611）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23G6666%E6%AC%A1%E5%88%97%E8%BD%A6%E9%99%90%E6%97%B6%E5%BC%80%E8%A1%8C%23" target="weibo">
 G6666次列车限时开行（热度：233415）
 </a>
@@ -4179,6 +4185,12 @@ LOEWE眼光 惠英红就是奢侈品（热度：192315）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E9%99%88%E5%93%B2%E8%BF%9C%20%E7%BA%A2%E6%B0%94%E5%85%BB%E4%BA%BA%23" target="weibo">
+刘诗诗陈哲远 红气养人（热度：191939）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E7%94%B7%E4%B8%BB%E5%87%BA%E5%9C%BA%E4%B8%89%E9%9B%86%E5%B0%B1%E8%AF%B4%E5%8D%81%E5%8F%A5%23" target="weibo">
 谁家男主出场三集就说十句（热度：191793）
 </a>
@@ -4403,6 +4415,12 @@ iG疑似韩国集训（热度：183394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%88%B6%E4%B8%AD%E7%A7%8B%E5%87%BA%E6%B8%B8%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
 预制中秋出游朋友圈（热度：183328）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%85%B4%E5%A5%8B%E8%B5%B7%E8%BA%AB%E5%9B%9E%E5%BA%94%E5%B0%8F%E5%BE%B7%E6%84%9F%E8%B0%A2%23" target="weibo">
+王一博兴奋起身回应小德感谢（热度：183081）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Wolves对战北京WBG（热度：142945）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BC%BB%E5%AD%90%E5%86%B3%E5%AE%9A%E4%BA%86%E9%A2%9C%E5%80%BC%E7%9A%84%E4%B8%8A%E9%99%90%23" target="weibo">
 鼻子决定了颜值的上限（热度：140316）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23XG%E6%96%B0%E9%98%B5%E5%AE%B9%23" target="weibo">
-XG新阵容（热度：140217）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E6%B5%A9%23" target="weibo">
-任浩（热度：140199）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Wolves%E5%AF%B9%E6%88%98MRC%23" target="weibo">
-Wolves对战MRC（热度：140149）
 </a>
 </li>
 
