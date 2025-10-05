@@ -1,0 +1,410 @@
+{
+  "runTime": 1759692989569,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 203656,
+        "num": 203656,
+        "word": "武契奇暗示可能爆发新战争",
+        "onboard_time": 1759680801,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71132,
+        "num": 71132,
+        "word": "福建尤溪通报5人进废弃矿硐遇难",
+        "onboard_time": 1759680980,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15754,
+        "num": 62619,
+        "word": "国庆档10亿大项目你参与了吗",
+        "onboard_time": 1759669584,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54548,
+        "num": 54548,
+        "word": "环保少女被曝遭虐待强迫亲吻以国旗",
+        "onboard_time": 1759657221,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50942,
+        "num": 50942,
+        "word": "河南多地现行走的硫酸",
+        "onboard_time": 1759672103,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60431,
+        "num": 49395,
+        "word": "福建5人进入废弃矿硐遇难",
+        "onboard_time": 1759680141,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47435,
+        "num": 47435,
+        "word": "wtt",
+        "onboard_time": 1759683020,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38508,
+        "num": 38508,
+        "word": "王曼昱4比2战胜孙颖莎",
+        "onboard_time": 1759658783,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36757,
+        "num": 36757,
+        "word": "樊振东德甲十月首战",
+        "onboard_time": 1759678522,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22853,
+        "num": 36342,
+        "word": "高市早苗用反华内容训练AI",
+        "onboard_time": 1759671744,
+        "rank": 9,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 258860,
+        "num": 36051,
+        "word": "王俊凯工作室修图遗落了个鼻子",
+        "onboard_time": 1759680741,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108922,
+        "num": 35568,
+        "word": "温峥嵘直播说最讨厌装的人",
+        "onboard_time": 1759670724,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79457,
+        "num": 35273,
+        "word": "王扁穿外卖工服道歉退网",
+        "onboard_time": 1759687936,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 76102,
+        "num": 34654,
+        "word": "刘诗诗陈哲远 红气养人",
+        "onboard_time": 1759681700,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 22663,
+        "num": 34244,
+        "word": "王楚钦3冠王",
+        "onboard_time": 1759661845,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68401,
+        "num": 33783,
+        "word": "孙俪妆造正确",
+        "onboard_time": 1759678222,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 63921,
+        "num": 33149,
+        "word": "迪丽热巴 神女下凡",
+        "onboard_time": 1759665263,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54296,
+        "num": 32918,
+        "word": "肖战今天的物料有点太多了",
+        "onboard_time": 1759677862,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49655,
+        "num": 32405,
+        "word": "北大女生三分钟发言檀健次听入神了",
+        "onboard_time": 1759679360,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47260,
+        "num": 32118,
+        "word": "王橹杰高会",
+        "onboard_time": 1759658903,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46100,
+        "num": 31554,
+        "word": "王一博兴奋起身回应小德感谢",
+        "onboard_time": 1759682780,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 39265,
+        "num": 31159,
+        "word": "建议气血不足的人不要留长发",
+        "onboard_time": 1759673244,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37064,
+        "num": 30393,
+        "word": "拉面哥掉粉42.8万",
+        "onboard_time": 1759668027,
+        "rank": 22,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 30283,
+        "num": 30283,
+        "word": "肖战工作室仪式感",
+        "onboard_time": 1759684878,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29762,
+        "num": 29762,
+        "word": "马思纯掀桌了",
+        "onboard_time": 1759662503,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29016,
+        "num": 29016,
+        "word": "WTT",
+        "onboard_time": 1759682899,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27734,
+        "num": 29014,
+        "word": "网购衣服不要只盯着卖衣服的店",
+        "onboard_time": 1759667723,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26791,
+        "num": 29013,
+        "word": "向太称郭碧婷父亲患重病",
+        "onboard_time": 1759666283,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25468,
+        "num": 29007,
+        "word": "华伦天奴大秀",
+        "onboard_time": 1759671263,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 25089,
+        "num": 29006,
+        "word": "已经绝交的朋友教会了我的",
+        "onboard_time": 1759668684,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24125,
+        "num": 29004,
+        "word": "瘦了15斤后鼻子的变化",
+        "onboard_time": 1759661123,
+        "rank": 30,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 23859,
+        "num": 28999,
+        "word": "一笑随歌",
+        "onboard_time": 1759673603,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21867,
+        "num": 28996,
+        "word": "12306回应充电口使用权争议",
+        "onboard_time": 1759660942,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21334,
+        "num": 28994,
+        "word": "惊艳朋友圈的中秋祝福文案",
+        "onboard_time": 1759681220,
+        "rank": 33,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 21163,
+        "num": 28991,
+        "word": "长期不用的银行卡一定要注销",
+        "onboard_time": 1759664543,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 20602,
+        "num": 28986,
+        "word": "苏新皓pk",
+        "onboard_time": 1759661965,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20505,
+        "num": 28984,
+        "word": "王一博观战德约科维奇",
+        "onboard_time": 1759666824,
+        "rank": 36,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 20479,
+        "num": 28981,
+        "word": "迪丽热巴 河南送你了",
+        "onboard_time": 1759667245,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19230,
+        "num": 28977,
+        "word": "女童一觉醒来成鬼剃头",
+        "onboard_time": 1759672764,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18317,
+        "num": 28974,
+        "word": "王楚钦累得睡在场馆",
+        "onboard_time": 1759673004,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17698,
+        "num": 28970,
+        "word": "TF家族",
+        "onboard_time": 1759676003,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16961,
+        "num": 28969,
+        "word": "香港海心公园伤人案嫌犯落网",
+        "onboard_time": 1759680201,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16779,
+        "num": 28965,
+        "word": "山西婚礼要在下水道井盖贴喜字",
+        "onboard_time": 1759673843,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16428,
+        "num": 28960,
+        "word": "汪苏泷演唱会",
+        "onboard_time": 1759691715,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16326,
+        "num": 28958,
+        "word": "巴西健美冠军睡梦中被妻子刺死",
+        "onboard_time": 1759673964,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16291,
+        "num": 28953,
+        "word": "白桃星座",
+        "onboard_time": 1759675284,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16117,
+        "num": 28950,
+        "word": "赵雷音乐节",
+        "onboard_time": 1759684817,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15537,
+        "num": 28950,
+        "word": "宁艺卓pk",
+        "onboard_time": 1759661965,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14745,
+        "num": 28945,
+        "word": "许我耀眼26集预告",
+        "onboard_time": 1759674143,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14357,
+        "num": 28942,
+        "word": "大学生卖雪王送鸡排哥高清写真",
+        "onboard_time": 1759673843,
+        "rank": 49,
+        "category": "民生新闻,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#中秋佳节聆听总书记的温暖话语#"
+    }
+  }
+}
