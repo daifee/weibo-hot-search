@@ -1,0 +1,410 @@
+{
+  "runTime": 1759668266691,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 846007,
+        "num": 1135361,
+        "word": "王楚钦3冠王",
+        "onboard_time": 1759661845,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 748741,
+        "num": 748741,
+        "word": "环保少女被曝遭虐待强迫亲吻以国旗",
+        "onboard_time": 1759657221,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15950,
+        "num": 597023,
+        "word": "明天中秋你准备怎么过",
+        "onboard_time": 1759654461,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 482982,
+        "num": 482982,
+        "word": "王曼昱4比2战胜孙颖莎",
+        "onboard_time": 1759658783,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456135,
+        "num": 456135,
+        "word": "12306回应充电口使用权争议",
+        "onboard_time": 1759660942,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213657,
+        "num": 213657,
+        "word": "孙颖莎中国大满贯亚军",
+        "onboard_time": 1759658843,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203414,
+        "num": 203414,
+        "word": "王楚钦vsF勒布伦",
+        "onboard_time": 1759659504,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183605,
+        "num": 183605,
+        "word": "乌称遭俄50枚导弹500架无人机袭击",
+        "onboard_time": 1759666343,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179191,
+        "num": 179191,
+        "word": "反手发球",
+        "onboard_time": 1759661784,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153624,
+        "num": 178829,
+        "word": "拉面哥掉粉42.8万",
+        "onboard_time": 1759668027,
+        "rank": 9,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 1703460,
+        "num": 178404,
+        "word": "迪丽热巴 神女下凡",
+        "onboard_time": 1759665263,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 726986,
+        "num": 178319,
+        "word": "马思纯掀桌了",
+        "onboard_time": 1759662503,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372478,
+        "num": 177846,
+        "word": "中秋晚会",
+        "onboard_time": 1759663762,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342786,
+        "num": 177182,
+        "word": "p图姐喊话黄俊捷",
+        "onboard_time": 1759663644,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288815,
+        "num": 176994,
+        "word": "王楚钦脱口而出解脱",
+        "onboard_time": 1759665863,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 726374,
+        "num": 176183,
+        "word": "迪丽热巴 河南送你了",
+        "onboard_time": 1759667245,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269564,
+        "num": 176067,
+        "word": "王楚钦王曼昱互相道喜",
+        "onboard_time": 1759666702,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136595,
+        "num": 175507,
+        "word": "F1",
+        "onboard_time": 1759664783,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206343,
+        "num": 175012,
+        "word": "王曼昱感谢孙颖莎蒯曼",
+        "onboard_time": 1759667483,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199982,
+        "num": 174657,
+        "word": "网购衣服不要只盯着卖衣服的店",
+        "onboard_time": 1759667723,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96837,
+        "num": 174196,
+        "word": "Celine终于有颜色了",
+        "onboard_time": 1759667963,
+        "rank": 20,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 317947,
+        "num": 173720,
+        "word": "向太称郭碧婷父亲患重病",
+        "onboard_time": 1759666283,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272172,
+        "num": 173268,
+        "word": "邓超请10个朋友吃大闸蟹",
+        "onboard_time": 1759663463,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183212,
+        "num": 172729,
+        "word": "王一博观战德约科维奇",
+        "onboard_time": 1759666824,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 227093,
+        "num": 172632,
+        "word": "金价",
+        "onboard_time": 1759645640,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 220304,
+        "num": 171941,
+        "word": "瘦了15斤后鼻子的变化",
+        "onboard_time": 1759661123,
+        "rank": 25,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 171855,
+        "num": 171855,
+        "word": "宁艺卓pk",
+        "onboard_time": 1759661965,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164129,
+        "num": 164129,
+        "word": "王橹杰高会",
+        "onboard_time": 1759658903,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154533,
+        "num": 154533,
+        "word": "苏新皓pk",
+        "onboard_time": 1759661965,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79080,
+        "num": 149994,
+        "word": "我的十一电子榨菜",
+        "onboard_time": 1759666525,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182126,
+        "num": 149678,
+        "word": "孙颖莎牌扫地机",
+        "onboard_time": 1759667483,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169610,
+        "num": 149417,
+        "word": "王楚钦孙颖莎扔花致谢球迷",
+        "onboard_time": 1759667483,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148494,
+        "num": 148494,
+        "word": "时代峰峻楼下 拍立得发布会",
+        "onboard_time": 1759661003,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151910,
+        "num": 148489,
+        "word": "张凌赫拍毕业照打了女生领结",
+        "onboard_time": 1759664902,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121545,
+        "num": 148154,
+        "word": "苏超八强徐州vs泰州",
+        "onboard_time": 1759667603,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148141,
+        "num": 148141,
+        "word": "农村办婚礼真的很挑摄影师",
+        "onboard_time": 1759665203,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140942,
+        "num": 140942,
+        "word": "河南中秋晚会",
+        "onboard_time": 1759664183,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147018,
+        "num": 140781,
+        "word": "长期不用的银行卡一定要注销",
+        "onboard_time": 1759664543,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 140199,
+        "num": 140199,
+        "word": "任浩",
+        "onboard_time": 1759665863,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139419,
+        "num": 139419,
+        "word": "刘萧旭搞抽象被经纪人骂了",
+        "onboard_time": 1759667363,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137080,
+        "num": 137080,
+        "word": "刘诗诗与LVMH大公主合影",
+        "onboard_time": 1759667363,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 132302,
+        "num": 132302,
+        "word": "蒲熠星红发",
+        "onboard_time": 1759667363,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122435,
+        "num": 122435,
+        "word": "许我耀眼一天一集",
+        "onboard_time": 1759658062,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193375,
+        "num": 122203,
+        "word": "全家旅游遇车祸两女儿遇难妻子烧伤",
+        "onboard_time": 1759651881,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120169,
+        "num": 120169,
+        "word": "普通人代表着普通的支付能力",
+        "onboard_time": 1759667184,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117303,
+        "num": 117303,
+        "word": "王曼昱心怀敬畏站上每个赛场",
+        "onboard_time": 1759667123,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305892,
+        "num": 116135,
+        "word": "周峻纬音乐节被突然冲上台男子扒衣",
+        "onboard_time": 1759655420,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114808,
+        "num": 114808,
+        "word": "王子文扛住了G社镜头",
+        "onboard_time": 1759667603,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 107450,
+        "num": 107450,
+        "word": "长沙街头交警硬核管理外国人",
+        "onboard_time": 1759668203,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107322,
+        "num": 107322,
+        "word": "内娱最想二搭的cp出现了",
+        "onboard_time": 1759652900,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻中华文明#"
+    }
+  }
+}
