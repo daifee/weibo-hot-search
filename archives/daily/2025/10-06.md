@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/06 00:27:48 ~ 2025/10/06 05:36:50
+本榜单时间：2025/10/06 00:27:48 ~ 2025/10/06 06:22:26
 </p>
 </blockquote>
 <p>
@@ -381,6 +381,12 @@ WTT（热度：72601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E5%86%8D%E6%AC%A1%E8%A2%AB%E4%BB%A5%E5%86%9B%E6%89%A3%E6%8A%BC%23" target="weibo">
+环保少女再次被以军扣押（热度：40089）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93cha%E4%BA%86MIROTIC%23" target="weibo">
 苏新皓cha了MIROTIC（热度：26280）
 </a>
@@ -399,14 +405,14 @@ WTT（热度：72601）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E5%86%8D%E6%AC%A1%E8%A2%AB%E4%BB%A5%E5%86%9B%E6%89%A3%E6%8A%BC%23" target="weibo">
-环保少女再次被以军扣押（热度：19704）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%9F%A5%E9%81%93%E6%88%91%E6%9C%89%E5%BC%BA%E8%BF%AB%E7%97%87%E5%90%8E%23" target="weibo">
+当女朋友知道我有强迫症后（热度：18587）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%9F%A5%E9%81%93%E6%88%91%E6%9C%89%E5%BC%BA%E8%BF%AB%E7%97%87%E5%90%8E%23" target="weibo">
-当女朋友知道我有强迫症后（热度：18587）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%9D%9E%E9%81%97%E7%81%B5%E9%9B%80%E7%BC%80%E5%AE%9D%E5%86%A0%23" target="weibo">
+迪丽热巴非遗灵雀缀宝冠（热度：18523）
 </a>
 </li>
 
@@ -418,7 +424,7 @@ WTT（热度：72601）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%89%E9%9D%A2%E5%93%A5%E5%9B%9E%E5%BA%94%E6%B5%81%E9%87%8F%E4%B8%8B%E6%BB%91%23" target="weibo">
-拉面哥回应流量下滑（热度：11905）
+拉面哥回应流量下滑（热度：14794）
 </a>
 </li>
 
