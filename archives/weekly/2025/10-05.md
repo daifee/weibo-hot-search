@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/06 02:44:38
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/06 03:19:01
 </p>
 </blockquote>
 <p>
@@ -2451,6 +2451,12 @@ DRG强势拿下四连胜（热度：81263）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%89%81%E7%A9%BF%E5%A4%96%E5%8D%96%E5%B7%A5%E6%9C%8D%E9%81%93%E6%AD%89%E9%80%80%E7%BD%91%23" target="weibo">
+王扁穿外卖工服道歉退网（热度：77418）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%90%91%E9%98%B3%E8%8A%B1%E6%94%B6%E8%A7%86%E7%A0%B42%E7%99%BB%E9%A1%B6%23" target="weibo">
 赵丽颖向阳花收视破2登顶（热度：76715）
 </a>
@@ -2727,12 +2733,6 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%89%81%E7%A9%BF%E5%A4%96%E5%8D%96%E5%B7%A5%E6%9C%8D%E9%81%93%E6%AD%89%E9%80%80%E7%BD%91%23" target="weibo">
-王扁穿外卖工服道歉退网（热度：47659）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9B%B7%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 赵雷音乐节（热度：44231）
 </a>
@@ -2885,6 +2885,12 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E6%96%B0%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A6%96%E7%A7%80%23" target="weibo">
 巴黎世家新设计师首秀（热度：18231）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+汪苏泷演唱会（热度：17207）
 </a>
 </li>
 
