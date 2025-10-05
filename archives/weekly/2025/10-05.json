@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759629495576,
+  "endTime": 1759630803448,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -19,12 +19,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 861036,
+      "raw_hot": 888172,
       "num": 160504,
       "word": "肖战34岁生日居家照",
       "onboard_time": 1759619656,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 763916,
+      "num": 1122226,
+      "word": "广东转移超15万人",
+      "onboard_time": 1759627758,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 643680,
@@ -43,6 +51,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 571619,
+      "num": 150694,
+      "word": "肖战给自己做了个开水壶蛋糕",
+      "onboard_time": 1759630038,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 562035,
+      "num": 157148,
+      "word": "带着饥饿感入睡脂肪燃烧的全过程",
+      "onboard_time": 1759626139,
+      "rank": 18,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 549329,
+      "num": 549329,
+      "word": "三亚大悦城致歉",
+      "onboard_time": 1759625959,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 543094,
       "num": 1086895,
       "word": "乌克兰制裁俄罗斯",
@@ -51,11 +83,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 522079,
-      "num": 522079,
-      "word": "广东转移超15万人",
-      "onboard_time": 1759627758,
-      "rank": 1,
+      "raw_hot": 488503,
+      "num": 488503,
+      "word": "马来西亚游客感叹中国人好幸福",
+      "onboard_time": 1759626139,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -75,12 +107,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 428319,
-      "num": 428319,
-      "word": "马来西亚游客感叹中国人好幸福",
-      "onboard_time": 1759626139,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 419822,
+      "num": 419822,
+      "word": "歼35机库首公开",
+      "onboard_time": 1759628599,
+      "rank": 5,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 419793,
@@ -99,7 +131,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 359186,
+      "raw_hot": 363907,
       "num": 159851,
       "word": "郭富城回应三胎已出生",
       "onboard_time": 1759619656,
@@ -131,14 +163,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 317140,
-      "num": 317140,
-      "word": "歼35机库首公开",
-      "onboard_time": 1759628599,
-      "rank": 5,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 311931,
       "num": 116376,
       "word": "檀健次演技",
@@ -147,12 +171,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 285642,
-      "num": 285642,
-      "word": "三亚大悦城致歉",
-      "onboard_time": 1759625959,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 305993,
+      "num": 150574,
+      "word": "28岁戴3个月牙套的后遗症",
+      "onboard_time": 1759628480,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 263675,
@@ -195,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218513,
-      "num": 157148,
-      "word": "带着饥饿感入睡脂肪燃烧的全过程",
-      "onboard_time": 1759626139,
-      "rank": 18,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 217635,
       "num": 217635,
       "word": "他赢下中国奥运首金后到处借裤子",
@@ -219,20 +235,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210223,
+      "num": 156372,
+      "word": "张晚意问还能演正剧吗",
+      "onboard_time": 1759595780,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207733,
       "num": 107008,
       "word": "肖战而我正走在路上",
       "onboard_time": 1759596020,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207120,
-      "num": 156372,
-      "word": "张晚意问还能演正剧吗",
-      "onboard_time": 1759595780,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 205141,
@@ -249,6 +265,14 @@
       "onboard_time": 1759573521,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 186860,
+      "num": 149986,
+      "word": "家猫突然扑向主人挠20多道伤口",
+      "onboard_time": 1759626139,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181482,
@@ -323,6 +347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147490,
+      "num": 147490,
+      "word": "昔日顶流拉面哥已转型带货主播",
+      "onboard_time": 1759627459,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146882,
       "num": 146882,
       "word": "女生拍照吊威亚游客入镜似5毛特效",
@@ -339,19 +371,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138059,
-      "num": 138059,
-      "word": "昔日顶流拉面哥已转型带货主播",
-      "onboard_time": 1759627459,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 135760,
-      "num": 135760,
-      "word": "家猫突然扑向主人挠20多道伤口",
-      "onboard_time": 1759626139,
-      "rank": 30,
+      "raw_hot": 133649,
+      "num": 155131,
+      "word": "49岁越疆科技副总裁曾宇突发疾病去世",
+      "onboard_time": 1759629199,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -361,14 +385,6 @@
       "onboard_time": 1759609815,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118485,
-      "num": 118485,
-      "word": "28岁戴3个月牙套的后遗症",
-      "onboard_time": 1759628480,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 118266,
@@ -393,6 +409,22 @@
       "onboard_time": 1759627279,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114501,
+      "num": 114501,
+      "word": "旬阳警方辟谣新郎母亲跳江",
+      "onboard_time": 1759628480,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113826,
+      "num": 113826,
+      "word": "没堵在国内堵在瑞士了",
+      "onboard_time": 1759629260,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 113544,
@@ -427,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 99882,
+      "num": 99882,
+      "word": "花少7小考完全是张晚意的舒适区",
+      "onboard_time": 1759628359,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98789,
       "num": 98789,
       "word": "获救者回应60岁老人救人不幸溺亡",
@@ -459,12 +499,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 94811,
-      "num": 94811,
-      "word": "旬阳警方辟谣新郎母亲跳江",
-      "onboard_time": 1759628480,
+      "raw_hot": 92306,
+      "num": 92306,
+      "word": "王橹杰高会更新",
+      "onboard_time": 1759630038,
       "rank": 38,
-      "category": "民生新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 89927,
@@ -473,6 +513,14 @@
       "onboard_time": 1759592361,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89306,
+      "num": 89306,
+      "word": "女子用牙咬大闸蟹腿牙裂了",
+      "onboard_time": 1759625180,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88549,
@@ -491,6 +539,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 85852,
+      "num": 85852,
+      "word": "8天长假已过半",
+      "onboard_time": 1759628539,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85442,
       "num": 93308,
       "word": "清融采访",
@@ -505,14 +561,6 @@
       "onboard_time": 1759593861,
       "rank": 32,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 84104,
-      "num": 84104,
-      "word": "花少7小考完全是张晚意的舒适区",
-      "onboard_time": 1759628359,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 83940,
@@ -539,14 +587,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 79817,
-      "num": 79817,
-      "word": "女子用牙咬大闸蟹腿牙裂了",
-      "onboard_time": 1759625180,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76715,
       "num": 93263,
       "word": "赵丽颖向阳花收视破2登顶",
@@ -571,6 +611,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 71715,
+      "num": 71715,
+      "word": "孙俪倒时差最好的办法就是晒太阳",
+      "onboard_time": 1759623978,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 71685,
+      "num": 71685,
+      "word": "邢菲有种国泰民安的大气美",
+      "onboard_time": 1759623318,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70929,
       "num": 93302,
       "word": "网红赤木刚宪爆改许妍",
@@ -593,22 +649,6 @@
       "onboard_time": 1759593320,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 69553,
-      "num": 69553,
-      "word": "邢菲有种国泰民安的大气美",
-      "onboard_time": 1759623318,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 68719,
-      "num": 68719,
-      "word": "孙俪倒时差最好的办法就是晒太阳",
-      "onboard_time": 1759623978,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 67068,
@@ -691,6 +731,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 57542,
+      "num": 57542,
+      "word": "AG战胜JDG",
+      "onboard_time": 1759629981,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 56617,
       "num": 64052,
       "word": "喝水少 蛀牙",
@@ -713,6 +761,14 @@
       "onboard_time": 1759589122,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54783,
+      "num": 54783,
+      "word": "以部长称加沙人道船员是恐怖分子",
+      "onboard_time": 1759630579,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53563,
@@ -820,7 +876,7 @@
     },
     {
       "raw_hot": 27544,
-      "num": 460718,
+      "num": 536483,
       "word": "星空有约",
       "onboard_time": 1759583722,
       "rank": 2,
@@ -841,14 +897,6 @@
       "onboard_time": 1759601715,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22139,
-      "num": 155131,
-      "word": "49岁越疆科技副总裁曾宇突发疾病去世",
-      "onboard_time": 1759629199,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18231,

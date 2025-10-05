@@ -1,0 +1,410 @@
+{
+  "runTime": 1759630803448,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 763916,
+        "num": 1122226,
+        "word": "广东转移超15万人",
+        "onboard_time": 1759627758,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549329,
+        "num": 549329,
+        "word": "三亚大悦城致歉",
+        "onboard_time": 1759625959,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22085,
+        "num": 536483,
+        "word": "星空有约",
+        "onboard_time": 1759583722,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533743,
+        "num": 533743,
+        "word": "乌克兰制裁俄罗斯",
+        "onboard_time": 1759625538,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 488503,
+        "num": 488503,
+        "word": "马来西亚游客感叹中国人好幸福",
+        "onboard_time": 1759626139,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419822,
+        "num": 419822,
+        "word": "歼35机库首公开",
+        "onboard_time": 1759628599,
+        "rank": 5,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 370514,
+        "num": 370514,
+        "word": "60岁老人离退休仅23天跳水救人溺亡",
+        "onboard_time": 1759622478,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 259134,
+        "num": 259134,
+        "word": "晓华理发店已没了爆火时的人潮",
+        "onboard_time": 1759574361,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151361,
+        "num": 151361,
+        "word": "看着像虫吃着像虫其实就是虫",
+        "onboard_time": 1759622539,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 133649,
+        "num": 151312,
+        "word": "49岁越疆科技副总裁曾宇突发疾病去世",
+        "onboard_time": 1759629199,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 888172,
+        "num": 151177,
+        "word": "肖战34岁生日居家照",
+        "onboard_time": 1759619656,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 640459,
+        "num": 151086,
+        "word": "戚薇 G社好离谱",
+        "onboard_time": 1759588342,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562035,
+        "num": 151011,
+        "word": "带着饥饿感入睡脂肪燃烧的全过程",
+        "onboard_time": 1759626139,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 363907,
+        "num": 150956,
+        "word": "郭富城回应三胎已出生",
+        "onboard_time": 1759619656,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123709,
+        "num": 150827,
+        "word": "台风红色预警发布",
+        "onboard_time": 1759575802,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 571619,
+        "num": 150694,
+        "word": "肖战给自己做了个开水壶蛋糕",
+        "onboard_time": 1759630038,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 305993,
+        "num": 150574,
+        "word": "28岁戴3个月牙套的后遗症",
+        "onboard_time": 1759628480,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 274050,
+        "num": 150537,
+        "word": "成都漫展小伙cos辱华角色被扯掉假发",
+        "onboard_time": 1759590322,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238990,
+        "num": 150380,
+        "word": "hi6收视率排名第一",
+        "onboard_time": 1759621337,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236836,
+        "num": 150336,
+        "word": "家有儿女还是太写实了",
+        "onboard_time": 1759610053,
+        "rank": 19,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 210223,
+        "num": 150207,
+        "word": "张晚意问还能演正剧吗",
+        "onboard_time": 1759595780,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199882,
+        "num": 150124,
+        "word": "沈皓明向许妍求婚",
+        "onboard_time": 1759589243,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186860,
+        "num": 149986,
+        "word": "家猫突然扑向主人挠20多道伤口",
+        "onboard_time": 1759626139,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180572,
+        "num": 149952,
+        "word": "戚薇的脸",
+        "onboard_time": 1759590682,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167187,
+        "num": 149797,
+        "word": "印度老人和35岁女子结婚次日离世",
+        "onboard_time": 1759619597,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155316,
+        "num": 149673,
+        "word": "猫主人回应全身被抓伤20多处",
+        "onboard_time": 1759626260,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151931,
+        "num": 149665,
+        "word": "广州一市民家中惊现鼠条",
+        "onboard_time": 1759587561,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149570,
+        "num": 149570,
+        "word": "住老破小的副作用已经出现了",
+        "onboard_time": 1759625720,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147490,
+        "num": 147490,
+        "word": "昔日顶流拉面哥已转型带货主播",
+        "onboard_time": 1759627459,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145759,
+        "num": 145759,
+        "word": "丁程鑫看TOP湿身的表情",
+        "onboard_time": 1759624639,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116851,
+        "num": 116851,
+        "word": "华晨宇 要爆了",
+        "onboard_time": 1759586903,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114501,
+        "num": 114501,
+        "word": "旬阳警方辟谣新郎母亲跳江",
+        "onboard_time": 1759628480,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113826,
+        "num": 113826,
+        "word": "没堵在国内堵在瑞士了",
+        "onboard_time": 1759629260,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 108634,
+        "num": 108634,
+        "word": "35岁的檀健次",
+        "onboard_time": 1759619957,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108278,
+        "num": 108278,
+        "word": "许我耀眼 泼水游戏",
+        "onboard_time": 1759627279,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99882,
+        "num": 99882,
+        "word": "花少7小考完全是张晚意的舒适区",
+        "onboard_time": 1759628359,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99060,
+        "num": 99060,
+        "word": "他赢下中国奥运首金后到处借裤子",
+        "onboard_time": 1759587861,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96918,
+        "num": 96918,
+        "word": "内娱艺人国外热度榜",
+        "onboard_time": 1759611074,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92306,
+        "num": 92306,
+        "word": "王橹杰高会更新",
+        "onboard_time": 1759630038,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89306,
+        "num": 89306,
+        "word": "女子用牙咬大闸蟹腿牙裂了",
+        "onboard_time": 1759625180,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88618,
+        "num": 88618,
+        "word": "檀健次工作室生日长文",
+        "onboard_time": 1759629139,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85852,
+        "num": 85852,
+        "word": "8天长假已过半",
+        "onboard_time": 1759628539,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73651,
+        "num": 73651,
+        "word": "巴黎世家大秀",
+        "onboard_time": 1759628900,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 71715,
+        "num": 71715,
+        "word": "孙俪倒时差最好的办法就是晒太阳",
+        "onboard_time": 1759623978,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71685,
+        "num": 71685,
+        "word": "邢菲有种国泰民安的大气美",
+        "onboard_time": 1759623318,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69890,
+        "num": 69890,
+        "word": "获救者回应60岁老人救人不幸溺亡",
+        "onboard_time": 1759628599,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65078,
+        "num": 65078,
+        "word": "广东迅速进入临战状态",
+        "onboard_time": 1759624219,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57749,
+        "num": 57749,
+        "word": "哥哥在旁边气得要崩溃了",
+        "onboard_time": 1759622358,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57542,
+        "num": 57542,
+        "word": "AG战胜JDG",
+        "onboard_time": 1759629981,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54783,
+        "num": 54783,
+        "word": "以部长称加沙人道船员是恐怖分子",
+        "onboard_time": 1759630579,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这样阐释爱国情怀#"
+    }
+  }
+}
