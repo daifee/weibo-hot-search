@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759649774244,
+  "endTime": 1759652923920,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -185,6 +185,14 @@
       "onboard_time": 1759588342,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1407845,
+      "num": 401267,
+      "word": "鸡排哥晒检测报告健康证回应质疑",
+      "onboard_time": 1759649540,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1403802,
@@ -697,6 +705,14 @@
       "onboard_time": 1759289900,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 876893,
+      "num": 1140302,
+      "word": "陈震再发文道歉",
+      "onboard_time": 1759647980,
+      "rank": 24,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 876578,
@@ -2131,14 +2147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 424297,
-      "num": 424297,
-      "word": "陈震再发文道歉",
-      "onboard_time": 1759647980,
-      "rank": 24,
-      "category": "民生新闻,汽车"
-    },
-    {
       "raw_hot": 421083,
       "num": 421083,
       "word": "美籍男子在解放军舰队附近放无人机被捕",
@@ -2275,6 +2283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 395978,
+      "num": 395978,
+      "word": "鸡排哥10月8日正常出摊",
+      "onboard_time": 1759650561,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395717,
       "num": 395717,
       "word": "美军阅兵方阵没有一个动作是一样的",
@@ -2345,6 +2361,14 @@
       "onboard_time": 1759301841,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 381991,
+      "num": 152349,
+      "word": "全家旅游遇车祸两女儿遇难妻子烧伤",
+      "onboard_time": 1759651881,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 381971,
@@ -2779,20 +2803,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332326,
+      "num": 191483,
+      "word": "两婚车相遇互不让路砍树通行",
+      "onboard_time": 1759648221,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330738,
       "num": 330738,
       "word": "高度近视眼一定要防止视网膜脱落",
       "onboard_time": 1759398020,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 326876,
-      "num": 191483,
-      "word": "两婚车相遇互不让路砍树通行",
-      "onboard_time": 1759648221,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 326609,
@@ -2923,6 +2947,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 313818,
+      "num": 152349,
+      "word": "好命哥装病躲离婚",
+      "onboard_time": 1759647980,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312150,
       "num": 312150,
       "word": "赵丽颖向阳花收视破2登顶",
@@ -2961,6 +2993,14 @@
       "onboard_time": 1759552521,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 309941,
+      "num": 191476,
+      "word": "姐姐是魔丸弟弟就是灵珠",
+      "onboard_time": 1759646421,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 309928,
@@ -3691,14 +3731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 246524,
-      "num": 191476,
-      "word": "姐姐是魔丸弟弟就是灵珠",
-      "onboard_time": 1759646421,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 245836,
       "num": 245836,
       "word": "香港人盯上内地医保",
@@ -3971,6 +4003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 230946,
+      "num": 230946,
+      "word": "没接到骑手电话500元外卖不翼而飞",
+      "onboard_time": 1759649900,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230849,
       "num": 230849,
       "word": "孙颖莎vs王晓彤",
@@ -4105,6 +4145,14 @@
       "onboard_time": 1759494081,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221113,
+      "num": 152349,
+      "word": "内娱谁能演大女主云望舒",
+      "onboard_time": 1759652840,
+      "rank": 23,
+      "category": "动漫,剧集"
     },
     {
       "raw_hot": 220838,
@@ -4521,6 +4569,14 @@
       "onboard_time": 1759494443,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204481,
+      "num": 152348,
+      "word": "刘宇宁腰围",
+      "onboard_time": 1759650801,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 203911,
@@ -5987,6 +6043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163582,
+      "num": 152348,
+      "word": "越南治好了我爱咬吸管的毛病",
+      "onboard_time": 1759651759,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163469,
       "num": 163469,
       "word": "史上最萌年龄差出现了",
@@ -6691,6 +6755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146368,
+      "num": 146368,
+      "word": "孟子义李昀锐中秋节宣传节奏",
+      "onboard_time": 1759651700,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146219,
       "num": 146219,
       "word": "白鹿蹲房车门口吓丞磊",
@@ -7227,6 +7299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138427,
+      "num": 138427,
+      "word": "高市早苗将就参拜靖国神社作出回应",
+      "onboard_time": 1759651640,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 138158,
       "num": 138158,
       "word": "iG对战T1一票难求",
@@ -7347,14 +7427,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 136312,
-      "num": 136312,
-      "word": "好命哥装病躲离婚",
-      "onboard_time": 1759647980,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136217,
       "num": 136217,
       "word": "原来100%纯棉不一定是纯棉",
@@ -7393,6 +7465,14 @@
       "onboard_time": 1759588581,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 135544,
+      "num": 152350,
+      "word": "员工定亲差15万老板直接拿20万",
+      "onboard_time": 1759651221,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135329,
@@ -7528,6 +7608,14 @@
       "word": "第五人格医生",
       "onboard_time": 1759414642,
       "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 133326,
+      "num": 152349,
+      "word": "三角洲行动",
+      "onboard_time": 1759649600,
+      "rank": 37,
       "category": "游戏"
     },
     {
@@ -7915,6 +8003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128307,
+      "num": 128307,
+      "word": "许我耀眼 写实剧",
+      "onboard_time": 1759652000,
+      "rank": 33,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 128297,
       "num": 122864,
       "word": "向鹏无缘中国大满贯决赛",
@@ -7937,6 +8033,14 @@
       "onboard_time": 1759368379,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127911,
+      "num": 127911,
+      "word": "国乒无缘会师男单决赛",
+      "onboard_time": 1759649301,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 127865,
@@ -8513,6 +8617,14 @@
       "onboard_time": 1759566740,
       "rank": 46,
       "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 118884,
+      "num": 118884,
+      "word": "东北omakase",
+      "onboard_time": 1759652121,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 118796,
@@ -9443,6 +9555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109971,
+      "num": 109971,
+      "word": "王楚钦在一声声你最棒中退场",
+      "onboard_time": 1759652360,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109941,
       "num": 109941,
       "word": "江苏一酒店屋面局部倾塌4人被救",
@@ -9537,6 +9657,14 @@
       "onboard_time": 1759487900,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 109183,
+      "num": 109182,
+      "word": "赛里木湖的金色草原杀疯了",
+      "onboard_time": 1759651640,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 109071,
@@ -9680,6 +9808,14 @@
       "word": "薛之谦咪豆音乐节",
       "onboard_time": 1759323861,
       "rank": 37,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 108031,
+      "num": 108031,
+      "word": "杨博文看张子墨演唱会",
+      "onboard_time": 1759650140,
+      "rank": 41,
       "category": "演出"
     },
     {
@@ -10187,6 +10323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 104481,
+      "num": 104481,
+      "word": "当外婆知道娃娃价格后",
+      "onboard_time": 1759649180,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 104460,
       "num": 109038,
       "word": "满级号",
@@ -10372,7 +10516,7 @@
     },
     {
       "raw_hot": 102599,
-      "num": 118153,
+      "num": 149045,
       "word": "小米17空降巴黎时装周",
       "onboard_time": 1759649120,
       "rank": 29,
@@ -10449,14 +10593,6 @@
       "onboard_time": 1759315102,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 101936,
-      "num": 101936,
-      "word": "三角洲行动",
-      "onboard_time": 1759649600,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 101889,
@@ -10611,14 +10747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101067,
-      "num": 101067,
-      "word": "国乒无缘会师男单决赛",
-      "onboard_time": 1759649301,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 101051,
       "num": 94039,
       "word": "普通女生苦练化妆技术的下场",
@@ -10697,6 +10825,14 @@
       "onboard_time": 1759549460,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100165,
+      "num": 100165,
+      "word": "孙颖莎备战决赛",
+      "onboard_time": 1759651821,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 100162,
@@ -10896,6 +11032,14 @@
       "word": "李沁这段确定不是喜剧么",
       "onboard_time": 1759391781,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 98334,
+      "num": 98334,
+      "word": "内娱最想二搭的cp出现了",
+      "onboard_time": 1759652900,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -11227,6 +11371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95431,
+      "num": 95431,
+      "word": "偶遇戚薇李承铉带儿子逛凡尔赛宫",
+      "onboard_time": 1759652900,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95413,
       "num": 95413,
       "word": "影视飓风1200万粉丝Q&A",
@@ -11257,6 +11409,14 @@
       "onboard_time": 1759476080,
       "rank": 48,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 95133,
+      "num": 95133,
+      "word": "王楚钦太坚定了",
+      "onboard_time": 1759652780,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 95076,
@@ -12217,14 +12377,6 @@
       "onboard_time": 1759472299,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 85447,
-      "num": 85447,
-      "word": "当外婆知道娃娃价格后",
-      "onboard_time": 1759649180,
-      "rank": 46,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 85440,
@@ -13579,6 +13731,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 68289,
+      "num": 152349,
+      "word": "排几小时也吃不上鸡排哥的鸡排了",
+      "onboard_time": 1759652599,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68226,
       "num": 68226,
       "word": "用韩语吐槽好有嚼劲",
@@ -13593,6 +13753,14 @@
       "onboard_time": 1759369519,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 68120,
+      "num": 109344,
+      "word": "钢铁战士王楚钦",
+      "onboard_time": 1759652840,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 68071,
@@ -13761,6 +13929,14 @@
       "onboard_time": 1759374558,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 65035,
+      "num": 109189,
+      "word": "李沁砍价也开始微醺了",
+      "onboard_time": 1759652421,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 65016,
@@ -14275,6 +14451,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 53647,
+      "num": 152349,
+      "word": "高市早苗要求大家玩命工作",
+      "onboard_time": 1759652121,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53193,
       "num": 169552,
       "word": "刘诗诗同款笑脸包",
@@ -14289,6 +14473,14 @@
       "onboard_time": 1759274598,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52622,
+      "num": 109183,
+      "word": "四环亮相北京798",
+      "onboard_time": 1759651640,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 52076,

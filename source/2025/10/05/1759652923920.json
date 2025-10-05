@@ -1,0 +1,410 @@
+{
+  "runTime": 1759652923920,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 876893,
+        "num": 1140302,
+        "word": "陈震再发文道歉",
+        "onboard_time": 1759647980,
+        "rank": 0,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 522294,
+        "num": 522294,
+        "word": "王楚钦决胜局3比7大逆转",
+        "onboard_time": 1759645341,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31551,
+        "num": 404570,
+        "word": "歼35机库首公开",
+        "onboard_time": 1759628599,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1407845,
+        "num": 401267,
+        "word": "鸡排哥晒检测报告健康证回应质疑",
+        "onboard_time": 1759649540,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395978,
+        "num": 395978,
+        "word": "鸡排哥10月8日正常出摊",
+        "onboard_time": 1759650561,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 936423,
+        "num": 369951,
+        "word": "金价",
+        "onboard_time": 1759645640,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 230946,
+        "num": 230946,
+        "word": "没接到骑手电话500元外卖不翼而飞",
+        "onboard_time": 1759649900,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152350,
+        "num": 152350,
+        "word": "大聪明已经提前到5号返程了",
+        "onboard_time": 1759634241,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135544,
+        "num": 152350,
+        "word": "员工定亲差15万老板直接拿20万",
+        "onboard_time": 1759651221,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134078,
+        "num": 152350,
+        "word": "麦德姆登陆广东",
+        "onboard_time": 1759648040,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471448,
+        "num": 152350,
+        "word": "鹿晗拒绝了粉丝送的冰淇淋",
+        "onboard_time": 1759635079,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 470039,
+        "num": 152349,
+        "word": "日本旅馆老板下药性侵10名女房客",
+        "onboard_time": 1759641501,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 414385,
+        "num": 152349,
+        "word": "向太曝选郭碧婷当儿媳原因",
+        "onboard_time": 1759639401,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400347,
+        "num": 152349,
+        "word": "王俊凯父母开的奶茶店停业",
+        "onboard_time": 1759637961,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133326,
+        "num": 152349,
+        "word": "三角洲行动",
+        "onboard_time": 1759649600,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 316715,
+        "num": 152349,
+        "word": "迪丽热巴中秋嫦娥造型",
+        "onboard_time": 1759636461,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313818,
+        "num": 152349,
+        "word": "好命哥装病躲离婚",
+        "onboard_time": 1759647980,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309941,
+        "num": 152349,
+        "word": "姐姐是魔丸弟弟就是灵珠",
+        "onboard_time": 1759646421,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53647,
+        "num": 152349,
+        "word": "高市早苗要求大家玩命工作",
+        "onboard_time": 1759652121,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68289,
+        "num": 152349,
+        "word": "排几小时也吃不上鸡排哥的鸡排了",
+        "onboard_time": 1759652599,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 381991,
+        "num": 152349,
+        "word": "全家旅游遇车祸两女儿遇难妻子烧伤",
+        "onboard_time": 1759651881,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332326,
+        "num": 152349,
+        "word": "两婚车相遇互不让路砍树通行",
+        "onboard_time": 1759648221,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247233,
+        "num": 152349,
+        "word": "腾讯对肖战求复合文学",
+        "onboard_time": 1759641381,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221113,
+        "num": 152349,
+        "word": "内娱谁能演大女主云望舒",
+        "onboard_time": 1759652840,
+        "rank": 23,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 204481,
+        "num": 152348,
+        "word": "刘宇宁腰围",
+        "onboard_time": 1759650801,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186380,
+        "num": 152348,
+        "word": "王祖蓝因父亲去世把46岁当作生命的坎",
+        "onboard_time": 1759632499,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178345,
+        "num": 152348,
+        "word": "张婧仪小时候睡过觉吗",
+        "onboard_time": 1759635319,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163582,
+        "num": 152348,
+        "word": "越南治好了我爱咬吸管的毛病",
+        "onboard_time": 1759651759,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152348,
+        "num": 152347,
+        "word": "假期最耗气血的5个习惯",
+        "onboard_time": 1759648040,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67137,
+        "num": 149045,
+        "word": "小米17空降巴黎时装周",
+        "onboard_time": 1759649120,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146368,
+        "num": 146368,
+        "word": "孟子义李昀锐中秋节宣传节奏",
+        "onboard_time": 1759651700,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138427,
+        "num": 138427,
+        "word": "高市早苗将就参拜靖国神社作出回应",
+        "onboard_time": 1759651640,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133778,
+        "num": 133778,
+        "word": "9月的工资不用打给我了",
+        "onboard_time": 1759633759,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128307,
+        "num": 128307,
+        "word": "许我耀眼 写实剧",
+        "onboard_time": 1759652000,
+        "rank": 33,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 127911,
+        "num": 127911,
+        "word": "国乒无缘会师男单决赛",
+        "onboard_time": 1759649301,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118884,
+        "num": 118884,
+        "word": "东北omakase",
+        "onboard_time": 1759652121,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109971,
+        "num": 109971,
+        "word": "王楚钦在一声声你最棒中退场",
+        "onboard_time": 1759652360,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68120,
+        "num": 109344,
+        "word": "钢铁战士王楚钦",
+        "onboard_time": 1759652840,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65035,
+        "num": 109189,
+        "word": "李沁砍价也开始微醺了",
+        "onboard_time": 1759652421,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52622,
+        "num": 109183,
+        "word": "四环亮相北京798",
+        "onboard_time": 1759651640,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 109183,
+        "num": 109182,
+        "word": "赛里木湖的金色草原杀疯了",
+        "onboard_time": 1759651640,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 108031,
+        "num": 108031,
+        "word": "杨博文看张子墨演唱会",
+        "onboard_time": 1759650140,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106221,
+        "num": 106221,
+        "word": "黄一鸣曝闪闪要回来了",
+        "onboard_time": 1759641322,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104481,
+        "num": 104481,
+        "word": "当外婆知道娃娃价格后",
+        "onboard_time": 1759649180,
+        "rank": 43,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 100165,
+        "num": 100165,
+        "word": "孙颖莎备战决赛",
+        "onboard_time": 1759651821,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98334,
+        "num": 98334,
+        "word": "内娱最想二搭的cp出现了",
+        "onboard_time": 1759652900,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95900,
+        "num": 95900,
+        "word": "金正恩警告美国",
+        "onboard_time": 1759639822,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95900,
+        "num": 95900,
+        "word": "小酒窝 我喜欢宋亚轩",
+        "onboard_time": 1759639340,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95431,
+        "num": 95431,
+        "word": "偶遇戚薇李承铉带儿子逛凡尔赛宫",
+        "onboard_time": 1759652900,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95133,
+        "num": 95133,
+        "word": "王楚钦太坚定了",
+        "onboard_time": 1759652780,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中华民族的文化根脉#"
+    }
+  }
+}

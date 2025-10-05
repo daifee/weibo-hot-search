@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759649774244,
+  "endTime": 1759652923920,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -9,6 +9,14 @@
       "onboard_time": 1759595120,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1407845,
+      "num": 401267,
+      "word": "鸡排哥晒检测报告健康证回应质疑",
+      "onboard_time": 1759649540,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1403802,
@@ -75,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 936423,
+      "num": 514647,
+      "word": "金价",
+      "onboard_time": 1759645640,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 920198,
       "num": 200120,
       "word": "向太曝选郭碧婷当儿媳原因",
@@ -97,6 +113,14 @@
       "onboard_time": 1759641381,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 876893,
+      "num": 1140302,
+      "word": "陈震再发文道歉",
+      "onboard_time": 1759647980,
+      "rank": 24,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 875218,
@@ -211,14 +235,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 514647,
-      "num": 514647,
-      "word": "金价",
-      "onboard_time": 1759645640,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 506365,
       "num": 506365,
       "word": "林诗栋vsF勒布伦",
@@ -267,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 424297,
-      "num": 424297,
-      "word": "陈震再发文道歉",
-      "onboard_time": 1759647980,
-      "rank": 24,
-      "category": "民生新闻,汽车"
-    },
-    {
       "raw_hot": 419822,
       "num": 431680,
       "word": "歼35机库首公开",
@@ -299,11 +307,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 395978,
+      "num": 395978,
+      "word": "鸡排哥10月8日正常出摊",
+      "onboard_time": 1759650561,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 382617,
       "num": 159111,
       "word": "成都漫展小伙cos辱华角色被扯掉假发",
       "onboard_time": 1759590322,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 381991,
+      "num": 152349,
+      "word": "全家旅游遇车祸两女儿遇难妻子烧伤",
+      "onboard_time": 1759651881,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -371,6 +395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 332326,
+      "num": 191483,
+      "word": "两婚车相遇互不让路砍树通行",
+      "onboard_time": 1759648221,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 331084,
       "num": 117060,
       "word": "陈都灵眼袋",
@@ -384,14 +416,6 @@
       "word": "广州一市民家中惊现鼠条",
       "onboard_time": 1759587561,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 326876,
-      "num": 191483,
-      "word": "两婚车相遇互不让路砍树通行",
-      "onboard_time": 1759648221,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -411,12 +435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313818,
+      "num": 152349,
+      "word": "好命哥装病躲离婚",
+      "onboard_time": 1759647980,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311931,
       "num": 116376,
       "word": "檀健次演技",
       "onboard_time": 1759590022,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 309941,
+      "num": 191476,
+      "word": "姐姐是魔丸弟弟就是灵珠",
+      "onboard_time": 1759646421,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 308611,
@@ -499,20 +539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 246524,
-      "num": 191476,
-      "word": "姐姐是魔丸弟弟就是灵珠",
-      "onboard_time": 1759646421,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 245066,
       "num": 184346,
       "word": "hi6收视率排名第一",
       "onboard_time": 1759621337,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230946,
+      "num": 230946,
+      "word": "没接到骑手电话500元外卖不翼而飞",
+      "onboard_time": 1759649900,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229036,
@@ -529,6 +569,14 @@
       "onboard_time": 1759628480,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221113,
+      "num": 152349,
+      "word": "内娱谁能演大女主云望舒",
+      "onboard_time": 1759652840,
+      "rank": 23,
+      "category": "动漫,剧集"
     },
     {
       "raw_hot": 217635,
@@ -585,6 +633,14 @@
       "onboard_time": 1759619597,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 204481,
+      "num": 152348,
+      "word": "刘宇宁腰围",
+      "onboard_time": 1759650801,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 203911,
@@ -811,6 +867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 163582,
+      "num": 152348,
+      "word": "越南治好了我爱咬吸管的毛病",
+      "onboard_time": 1759651759,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163041,
       "num": 154315,
       "word": "丁程鑫看TOP湿身的表情",
@@ -907,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146368,
+      "num": 146368,
+      "word": "孟子义李昀锐中秋节宣传节奏",
+      "onboard_time": 1759651700,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146219,
       "num": 146219,
       "word": "白鹿蹲房车门口吓丞磊",
@@ -939,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138427,
+      "num": 138427,
+      "word": "高市早苗将就参拜靖国神社作出回应",
+      "onboard_time": 1759651640,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136992,
       "num": 136992,
       "word": "给男朋友点的咖啡送到了妈妈手里",
@@ -955,20 +1035,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 136312,
-      "num": 136312,
-      "word": "好命哥装病躲离婚",
-      "onboard_time": 1759647980,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136104,
       "num": 136104,
       "word": "消失的她古偶版",
       "onboard_time": 1759638680,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135544,
+      "num": 152350,
+      "word": "员工定亲差15万老板直接拿20万",
+      "onboard_time": 1759651221,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135052,
@@ -1003,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133326,
+      "num": 152349,
+      "word": "三角洲行动",
+      "onboard_time": 1759649600,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129505,
       "num": 126113,
       "word": "邓布利多 爱是最伟大的魔法",
@@ -1011,11 +1099,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 128307,
+      "num": 128307,
+      "word": "许我耀眼 写实剧",
+      "onboard_time": 1759652000,
+      "rank": 33,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 128297,
       "num": 122864,
       "word": "向鹏无缘中国大满贯决赛",
       "onboard_time": 1759646061,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127911,
+      "num": 127911,
+      "word": "国乒无缘会师男单决赛",
+      "onboard_time": 1759649301,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -1057,6 +1161,14 @@
       "onboard_time": 1759638200,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118884,
+      "num": 118884,
+      "word": "东北omakase",
+      "onboard_time": 1759652121,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 118796,
@@ -1195,12 +1307,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109971,
+      "num": 109971,
+      "word": "王楚钦在一声声你最棒中退场",
+      "onboard_time": 1759652360,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109921,
       "num": 109921,
       "word": "孙茜50斤面拉不动90斤娃抱起就走",
       "onboard_time": 1759642401,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109183,
+      "num": 109182,
+      "word": "赛里木湖的金色草原杀疯了",
+      "onboard_time": 1759651640,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 108599,
@@ -1217,6 +1345,14 @@
       "onboard_time": 1759636881,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108031,
+      "num": 108031,
+      "word": "杨博文看张子墨演唱会",
+      "onboard_time": 1759650140,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 107527,
@@ -1267,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104481,
+      "num": 104481,
+      "word": "当外婆知道娃娃价格后",
+      "onboard_time": 1759649180,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 104443,
       "num": 109038,
       "word": "满级号",
@@ -1292,19 +1436,11 @@
     },
     {
       "raw_hot": 102599,
-      "num": 118153,
+      "num": 149045,
       "word": "小米17空降巴黎时装周",
       "onboard_time": 1759649120,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 101936,
-      "num": 101936,
-      "word": "三角洲行动",
-      "onboard_time": 1759649600,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 101775,
@@ -1315,11 +1451,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 101067,
-      "num": 101067,
-      "word": "国乒无缘会师男单决赛",
-      "onboard_time": 1759649301,
-      "rank": 38,
+      "raw_hot": 100165,
+      "num": 100165,
+      "word": "孙颖莎备战决赛",
+      "onboard_time": 1759651821,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1371,6 +1507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 98334,
+      "num": 98334,
+      "word": "内娱最想二搭的cp出现了",
+      "onboard_time": 1759652900,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97810,
       "num": 97810,
       "word": "那英看了都想带回朝阳公园",
@@ -1401,6 +1545,22 @@
       "onboard_time": 1759588823,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95431,
+      "num": 95431,
+      "word": "偶遇戚薇李承铉带儿子逛凡尔赛宫",
+      "onboard_time": 1759652900,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 95133,
+      "num": 95133,
+      "word": "王楚钦太坚定了",
+      "onboard_time": 1759652780,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 94015,
@@ -1487,14 +1647,6 @@
       "num": 87103,
       "word": "眼里没有一点害怕全是谄媚",
       "onboard_time": 1759634661,
-      "rank": 46,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 85447,
-      "num": 85447,
-      "word": "当外婆知道娃娃价格后",
-      "onboard_time": 1759649180,
       "rank": 46,
       "category": "情感,幽默"
     },
@@ -1659,6 +1811,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68289,
+      "num": 152349,
+      "word": "排几小时也吃不上鸡排哥的鸡排了",
+      "onboard_time": 1759652599,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68120,
+      "num": 109344,
+      "word": "钢铁战士王楚钦",
+      "onboard_time": 1759652840,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67068,
       "num": 93162,
       "word": "王楚钦说身兼三项消耗超出自己想象",
@@ -1697,6 +1865,14 @@
       "onboard_time": 1759588523,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65035,
+      "num": 109189,
+      "word": "李沁砍价也开始微醺了",
+      "onboard_time": 1759652421,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 64127,
@@ -1851,12 +2027,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53647,
+      "num": 152349,
+      "word": "高市早苗要求大家玩命工作",
+      "onboard_time": 1759652121,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53563,
       "num": 93103,
       "word": "邓亚萍说王楚钦这方面优于所有人",
       "onboard_time": 1759586781,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52622,
+      "num": 109183,
+      "word": "四环亮相北京798",
+      "onboard_time": 1759651640,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 52097,
