@@ -1,0 +1,410 @@
+{
+  "runTime": 1759677738801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 804684,
+        "num": 1128749,
+        "word": "河南多地现行走的硫酸",
+        "onboard_time": 1759672103,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389175,
+        "num": 389175,
+        "word": "王楚钦累得睡在场馆",
+        "onboard_time": 1759673004,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62374,
+        "num": 376360,
+        "word": "国庆档10亿大项目你参与了吗",
+        "onboard_time": 1759669584,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 366210,
+        "num": 366210,
+        "word": "环保少女被曝遭虐待强迫亲吻以国旗",
+        "onboard_time": 1759657221,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 364893,
+        "num": 364893,
+        "word": "山西婚礼要在下水道井盖贴喜字",
+        "onboard_time": 1759673843,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1235000,
+        "num": 336475,
+        "word": "香港海心公园割喉案嫌犯仍在逃",
+        "onboard_time": 1759672464,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294855,
+        "num": 294855,
+        "word": "王楚钦3冠王",
+        "onboard_time": 1759661845,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278043,
+        "num": 278043,
+        "word": "王曼昱4比2战胜孙颖莎",
+        "onboard_time": 1759658783,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234653,
+        "num": 275877,
+        "word": "白桃星座",
+        "onboard_time": 1759675284,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185941,
+        "num": 273219,
+        "word": "孙颖莎何卓佳两个人凑不出一把好伞",
+        "onboard_time": 1759671084,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 594551,
+        "num": 267258,
+        "word": "拉面哥掉粉42.8万",
+        "onboard_time": 1759668027,
+        "rank": 10,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 559839,
+        "num": 264089,
+        "word": "迪丽热巴 河南送你了",
+        "onboard_time": 1759667245,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 440896,
+        "num": 261928,
+        "word": "华伦天奴大秀",
+        "onboard_time": 1759671263,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 398473,
+        "num": 259558,
+        "word": "马思纯掀桌了",
+        "onboard_time": 1759662503,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321156,
+        "num": 254444,
+        "word": "TF家族",
+        "onboard_time": 1759676003,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252177,
+        "num": 252177,
+        "word": "网购衣服不要只盯着卖衣服的店",
+        "onboard_time": 1759667723,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343167,
+        "num": 246994,
+        "word": "迪丽热巴 神女下凡",
+        "onboard_time": 1759665263,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241663,
+        "num": 241663,
+        "word": "张子墨 时代峰峻倒闭了我怎么办",
+        "onboard_time": 1759668924,
+        "rank": 17,
+        "category": "演出,作品衍生"
+      },
+      {
+        "raw_hot": 210319,
+        "num": 210319,
+        "word": "王橹杰高会",
+        "onboard_time": 1759658903,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193273,
+        "num": 193273,
+        "word": "我被惹了就许妍这样",
+        "onboard_time": 1759672584,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317064,
+        "num": 187281,
+        "word": "建议气血不足的人不要留长发",
+        "onboard_time": 1759673244,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 305782,
+        "num": 181180,
+        "word": "温峥嵘直播说最讨厌装的人",
+        "onboard_time": 1759670724,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174175,
+        "num": 174175,
+        "word": "河南卫视太有审美了",
+        "onboard_time": 1759668503,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145443,
+        "num": 145443,
+        "word": "女童一觉醒来成鬼剃头",
+        "onboard_time": 1759672764,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136306,
+        "num": 136306,
+        "word": "瘦了15斤后鼻子的变化",
+        "onboard_time": 1759661123,
+        "rank": 24,
+        "category": "情感,运动健身"
+      },
+      {
+        "raw_hot": 129607,
+        "num": 129607,
+        "word": "已经绝交的朋友教会了我的",
+        "onboard_time": 1759668684,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126808,
+        "num": 126808,
+        "word": "樊振东摇摇晃晃上班",
+        "onboard_time": 1759672165,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125455,
+        "num": 125455,
+        "word": "一笑随歌",
+        "onboard_time": 1759673603,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119145,
+        "num": 119145,
+        "word": "大学生卖雪王送鸡排哥高清写真",
+        "onboard_time": 1759673843,
+        "rank": 28,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 109363,
+        "num": 118007,
+        "word": "高市早苗用反华内容训练AI",
+        "onboard_time": 1759671744,
+        "rank": 29,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 117821,
+        "num": 117821,
+        "word": "许我耀眼26集预告",
+        "onboard_time": 1759674143,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117600,
+        "num": 117600,
+        "word": "王楚钦背着小书包回家",
+        "onboard_time": 1759673064,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114854,
+        "num": 114854,
+        "word": "12306回应充电口使用权争议",
+        "onboard_time": 1759660942,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102699,
+        "num": 102699,
+        "word": "巴西健美冠军睡梦中被妻子刺死",
+        "onboard_time": 1759673964,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 99771,
+        "num": 99771,
+        "word": "王一博观战德约科维奇",
+        "onboard_time": 1759666824,
+        "rank": 34,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 99260,
+        "num": 99260,
+        "word": "王嘉尔我必须迎合其他人吗",
+        "onboard_time": 1759673905,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98168,
+        "num": 98168,
+        "word": "网友从王鹤棣的全世界路过",
+        "onboard_time": 1759675882,
+        "rank": 36,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 96759,
+        "num": 96759,
+        "word": "刘诗诗TWS合影",
+        "onboard_time": 1759677505,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 94669,
+        "num": 94669,
+        "word": "刘萧旭搞抽象被经纪人骂了",
+        "onboard_time": 1759667363,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65815,
+        "num": 94116,
+        "word": "G社拍的马柏全宋祖儿",
+        "onboard_time": 1759677561,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 93763,
+        "num": 93763,
+        "word": "千香",
+        "onboard_time": 1759675523,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93296,
+        "num": 93296,
+        "word": "邓超请10个朋友吃大闸蟹",
+        "onboard_time": 1759663463,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93591,
+        "num": 93052,
+        "word": "长期不用的银行卡一定要注销",
+        "onboard_time": 1759664543,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 91976,
+        "num": 91976,
+        "word": "向太称郭碧婷父亲患重病",
+        "onboard_time": 1759666283,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90090,
+        "num": 90090,
+        "word": "柏林偶遇欧阳娜娜",
+        "onboard_time": 1759676664,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89386,
+        "num": 89386,
+        "word": "苏超第2支四强球队诞生",
+        "onboard_time": 1759673124,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87385,
+        "num": 89385,
+        "word": "孙颖莎左右开弓推箱子回家",
+        "onboard_time": 1759673064,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85361,
+        "num": 89380,
+        "word": "苏超",
+        "onboard_time": 1759672524,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87179,
+        "num": 89378,
+        "word": "刘诗诗与LVMH大公主合影",
+        "onboard_time": 1759667363,
+        "rank": 48,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 77993,
+        "num": 89376,
+        "word": "心累的时候最需要的反而不是休息",
+        "onboard_time": 1759674744,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#中秋佳节聆听总书记的温暖话语#"
+    }
+  }
+}
