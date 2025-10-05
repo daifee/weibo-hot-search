@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759633976868,
+  "endTime": 1759634815407,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -11,6 +11,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1403802,
+      "num": 195315,
+      "word": "王祖蓝因父亲去世把46岁当作生命的坎",
+      "onboard_time": 1759632499,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1240867,
       "num": 191815,
       "word": "戚薇 G社好离谱",
@@ -19,12 +27,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1008326,
-      "num": 195315,
-      "word": "王祖蓝因父亲去世把46岁当作生命的坎",
-      "onboard_time": 1759632499,
-      "rank": 10,
-      "category": "综艺"
+      "raw_hot": 1108537,
+      "num": 1177366,
+      "word": "高市早苗否认南京大屠杀",
+      "onboard_time": 1759632139,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 888172,
@@ -57,14 +65,6 @@
       "onboard_time": 1759627758,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 731767,
-      "num": 1117082,
-      "word": "高市早苗否认南京大屠杀",
-      "onboard_time": 1759632139,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 643680,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359151,
+      "num": 186392,
+      "word": "赵磊首次回应26岁官宣结婚",
+      "onboard_time": 1759632623,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 331084,
       "num": 117060,
       "word": "陈都灵眼袋",
@@ -203,7 +211,15 @@
       "category": "电影"
     },
     {
-      "raw_hot": 275394,
+      "raw_hot": 311152,
+      "num": 185343,
+      "word": "快乐星球老顽童爷爷去世",
+      "onboard_time": 1759634180,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 287945,
       "num": 188174,
       "word": "家猫突然扑向主人挠20多道伤口",
       "onboard_time": 1759626139,
@@ -259,14 +275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 224550,
-      "num": 185292,
-      "word": "赵磊首次回应26岁官宣结婚",
-      "onboard_time": 1759632623,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 217635,
       "num": 217635,
       "word": "他赢下中国奥运首金后到处借裤子",
@@ -307,12 +315,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 198330,
+      "num": 183571,
+      "word": "陆毅不敢吃鲍蕾做的饭",
+      "onboard_time": 1759632739,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192911,
+      "num": 135350,
+      "word": "出嫁那天跟你出生那天一样热闹",
+      "onboard_time": 1759633340,
+      "rank": 31,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 191362,
       "num": 115741,
       "word": "微信里的钱包一定要上锁",
       "onboard_time": 1759573521,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183394,
+      "num": 183394,
+      "word": "iG疑似韩国集训",
+      "onboard_time": 1759633521,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 183328,
@@ -329,6 +361,14 @@
       "onboard_time": 1759622539,
       "rank": 8,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 180463,
+      "num": 180463,
+      "word": "王源老干部看手机",
+      "onboard_time": 1759632799,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 178188,
@@ -363,12 +403,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 169774,
-      "num": 169774,
-      "word": "王源老干部看手机",
-      "onboard_time": 1759632799,
-      "rank": 21,
-      "category": "演出"
+      "raw_hot": 170820,
+      "num": 170820,
+      "word": "入青云",
+      "onboard_time": 1759634300,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 166820,
@@ -379,14 +419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164785,
-      "num": 164785,
-      "word": "陆毅不敢吃鲍蕾做的饭",
-      "onboard_time": 1759632739,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163041,
       "num": 154315,
       "word": "丁程鑫看TOP湿身的表情",
@@ -395,12 +427,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161167,
+      "num": 161167,
+      "word": "大聪明已经提前到5号返程了",
+      "onboard_time": 1759634241,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160529,
+      "num": 135059,
+      "word": "命真好头胎生了个月嫂",
+      "onboard_time": 1759634241,
+      "rank": 31,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 154111,
       "num": 154111,
       "word": "肖战生日上了世界趋势",
       "onboard_time": 1759628959,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153781,
+      "num": 188702,
+      "word": "不旅游就等于浪费假期吗",
+      "onboard_time": 1759634300,
+      "rank": 9,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 147498,
@@ -435,36 +491,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143774,
+      "num": 143774,
+      "word": "9月的工资不用打给我了",
+      "onboard_time": 1759633759,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 134364,
+      "num": 134364,
+      "word": "沙滩偶遇何炅许知远",
+      "onboard_time": 1759631539,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133649,
       "num": 155131,
       "word": "49岁越疆科技副总裁曾宇突发疾病去世",
       "onboard_time": 1759629199,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129908,
-      "num": 129908,
-      "word": "iG疑似韩国集训",
-      "onboard_time": 1759633521,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 128780,
-      "num": 128780,
-      "word": "出嫁那天跟你出生那天一样热闹",
-      "onboard_time": 1759633340,
-      "rank": 31,
-      "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 122604,
-      "num": 130881,
-      "word": "沙滩偶遇何炅许知远",
-      "onboard_time": 1759631539,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 121879,
@@ -481,6 +529,14 @@
       "onboard_time": 1759580002,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116366,
+      "num": 116366,
+      "word": "王橹杰高会更新",
+      "onboard_time": 1759630038,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 115642,
@@ -515,6 +571,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 113478,
+      "num": 113478,
+      "word": "国庆情侣出游现状",
+      "onboard_time": 1759633880,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 113069,
+      "num": 113069,
+      "word": "警方回应男子扮辱华动漫角色被围攻",
+      "onboard_time": 1759633820,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111109,
       "num": 111109,
       "word": "8天长假已过半",
@@ -528,14 +600,6 @@
       "word": "热巴娜扎 新疆双美闪耀巴黎",
       "onboard_time": 1759574660,
       "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 105683,
-      "num": 105683,
-      "word": "王橹杰高会更新",
-      "onboard_time": 1759630038,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -560,6 +624,14 @@
       "word": "李湘打码掌纹",
       "onboard_time": 1759572920,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100969,
+      "num": 100969,
+      "word": "张柏芝带两个儿子逛街",
+      "onboard_time": 1759634661,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -603,12 +675,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 90122,
-      "num": 90122,
-      "word": "警方回应男子扮辱华动漫角色被围攻",
-      "onboard_time": 1759633820,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 95879,
+      "num": 95879,
+      "word": "池昌旭差点被亲上",
+      "onboard_time": 1759634540,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 89927,
@@ -643,6 +715,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 87103,
+      "num": 87103,
+      "word": "眼里没有一点害怕全是谄媚",
+      "onboard_time": 1759634661,
+      "rank": 46,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 85442,
       "num": 93308,
       "word": "清融采访",
@@ -665,22 +745,6 @@
       "onboard_time": 1759628900,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 83355,
-      "num": 83355,
-      "word": "国庆情侣出游现状",
-      "onboard_time": 1759633880,
-      "rank": 46,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 82144,
-      "num": 82144,
-      "word": "9月的工资不用打给我了",
-      "onboard_time": 1759633759,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 79848,
@@ -769,6 +833,14 @@
       "onboard_time": 1759593320,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 70333,
+      "num": 184792,
+      "word": "台风麦德姆登陆倒计时",
+      "onboard_time": 1759633699,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67068,
@@ -953,14 +1025,6 @@
       "onboard_time": 1759619778,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 39971,
-      "num": 134318,
-      "word": "台风麦德姆登陆倒计时",
-      "onboard_time": 1759633699,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39043,
