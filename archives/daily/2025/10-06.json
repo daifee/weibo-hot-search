@@ -1,6 +1,6 @@
 {
   "startTime": 1759681668953,
-  "endTime": 1759747443327,
+  "endTime": 1759749684639,
   "band_list": [
     {
       "raw_hot": 1697422,
@@ -35,11 +35,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1195472,
+      "num": 1195472,
+      "word": "多名中国公民在澳徒步登山身亡",
+      "onboard_time": 1759746741,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1079559,
       "num": 1172729,
       "word": "小孩哥用通缉令上证件号认证游戏",
       "onboard_time": 1759725021,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1062602,
+      "num": 1062602,
+      "word": "天门山景区道歉",
+      "onboard_time": 1759744100,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -163,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551143,
+      "num": 253374,
+      "word": "朴树宣布停演",
+      "onboard_time": 1759744941,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 539641,
       "num": 539641,
       "word": "女子在地铁上因他人说到鸡鸣寺急眼",
@@ -185,14 +209,6 @@
       "onboard_time": 1759678222,
       "rank": 10,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 528574,
-      "num": 528574,
-      "word": "天门山景区道歉",
-      "onboard_time": 1759744100,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 523746,
@@ -259,14 +275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 451348,
-      "num": 171394,
-      "word": "多名中国公民在澳徒步登山身亡",
-      "onboard_time": 1759746741,
-      "rank": 11,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 451290,
       "num": 210184,
       "word": "许我耀眼妍妍接电话名场面来了",
@@ -283,12 +291,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444397,
+      "num": 444397,
+      "word": "广东一夫妇长得像复制粘贴",
+      "onboard_time": 1759743380,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 442124,
       "num": 182627,
       "word": "王安宇 不要问人家这种问题",
       "onboard_time": 1759732040,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 428258,
+      "num": 428258,
+      "word": "月亮",
+      "onboard_time": 1759743260,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 404663,
@@ -323,20 +347,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 386277,
-      "num": 253374,
-      "word": "朴树宣布停演",
-      "onboard_time": 1759744941,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 385478,
       "num": 385478,
       "word": "诺贝尔",
       "onboard_time": 1759744281,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376791,
+      "num": 233251,
+      "word": "马嘉祺中秋请客剧组了",
+      "onboard_time": 1759746022,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 354251,
@@ -361,6 +385,14 @@
       "onboard_time": 1759723161,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 330876,
+      "num": 189323,
+      "word": "许我耀眼",
+      "onboard_time": 1759718300,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 330297,
@@ -393,14 +425,6 @@
       "onboard_time": 1759707797,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 317758,
-      "num": 233251,
-      "word": "马嘉祺中秋请客剧组了",
-      "onboard_time": 1759746022,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 316182,
@@ -667,11 +691,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214762,
+      "num": 187949,
+      "word": "湖南卫视中秋之夜节目单",
+      "onboard_time": 1759747642,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 213796,
       "num": 213796,
       "word": "好利来回应节后未售完月饼如何处理",
       "onboard_time": 1759742781,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211056,
+      "num": 178838,
+      "word": "吴磊做月饼两小时胡子长出来了",
+      "onboard_time": 1759745421,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209839,
+      "num": 209839,
+      "word": "教育局回应家长跪地被学生轮流踩踏",
+      "onboard_time": 1759749261,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -811,14 +859,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 188282,
-      "num": 263734,
-      "word": "广东一夫妇长得像复制粘贴",
-      "onboard_time": 1759743380,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186154,
       "num": 186154,
       "word": "王楚钦累得睡在场馆",
@@ -899,14 +939,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 176291,
-      "num": 170579,
-      "word": "吴磊做月饼两小时胡子长出来了",
-      "onboard_time": 1759745421,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175256,
       "num": 175256,
       "word": "伞伞伞伞兵马俑伞伞伞伞",
@@ -955,20 +987,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172833,
+      "num": 172833,
+      "word": "孙丞潇 我觉得金莎说得对",
+      "onboard_time": 1759749082,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172632,
       "num": 172632,
       "word": "杨紫生命树中秋vlog",
       "onboard_time": 1759721541,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 171693,
-      "num": 171693,
-      "word": "月亮",
-      "onboard_time": 1759743260,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171155,
@@ -1179,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144668,
+      "num": 144668,
+      "word": "湖南卫视中秋之夜",
+      "onboard_time": 1759749562,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144617,
       "num": 144617,
       "word": "许我耀眼让我重新认识了陈伟霆",
@@ -1228,7 +1268,7 @@
     },
     {
       "raw_hot": 138352,
-      "num": 504688,
+      "num": 823074,
       "word": "航天员晒中秋大餐",
       "onboard_time": 1759716320,
       "rank": 31,
@@ -1283,6 +1323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134739,
+      "num": 134739,
+      "word": "30岁长期熬夜有多可怕",
+      "onboard_time": 1759748722,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 134329,
       "num": 134329,
       "word": "李斯丹妮因工作人员没会员唱歌中断",
@@ -1297,6 +1345,14 @@
       "onboard_time": 1759729282,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133584,
+      "num": 133584,
+      "word": "一中学疑让家长跪地学生踩踏越过",
+      "onboard_time": 1759744160,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133200,
@@ -1379,6 +1435,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129381,
+      "num": 129381,
+      "word": "最好的睡姿vs最差的睡姿",
+      "onboard_time": 1759748663,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 127817,
       "num": 127817,
       "word": "台风麦德姆影响下的湛江",
@@ -1401,6 +1465,14 @@
       "onboard_time": 1759667723,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126728,
+      "num": 126728,
+      "word": "Gr对战ACT",
+      "onboard_time": 1759749141,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 126231,
@@ -1523,6 +1595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 113906,
+      "num": 113906,
+      "word": "周深天津演唱会",
+      "onboard_time": 1759748842,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113100,
       "num": 120353,
       "word": "2028年中秋国庆将再次相逢",
@@ -1577,14 +1657,6 @@
       "onboard_time": 1759744221,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111185,
-      "num": 111185,
-      "word": "许我耀眼",
-      "onboard_time": 1759718300,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 110150,
@@ -1651,12 +1723,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107200,
-      "num": 107200,
-      "word": "一中学疑让家长跪地学生踩踏越过",
-      "onboard_time": 1759744160,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 107105,
+      "num": 107105,
+      "word": "FPX.ZQ对战GW",
+      "onboard_time": 1759749622,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 107101,
+      "num": 107100,
+      "word": "特朗普在航母上再跳经典舞蹈",
+      "onboard_time": 1759749201,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 106925,
@@ -1867,6 +1947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96867,
+      "num": 96867,
+      "word": "邓佳鑫专场上座率",
+      "onboard_time": 1759747702,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 96543,
       "num": 96543,
       "word": "外婆原来你的名字不是丽云",
@@ -2001,6 +2089,14 @@
       "onboard_time": 1759677505,
       "rank": 31,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 91476,
+      "num": 91476,
+      "word": "华晨宇南京站路人观感",
+      "onboard_time": 1759749562,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 90914,
@@ -2161,6 +2257,14 @@
       "onboard_time": 1759728621,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 84290,
+      "num": 107103,
+      "word": "诺贝尔奖奖金124年没花完",
+      "onboard_time": 1759749382,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 83712,
@@ -2665,6 +2769,14 @@
       "onboard_time": 1759727421,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26349,
+      "num": 107101,
+      "word": "精神病女子替人开公司租车20台",
+      "onboard_time": 1759749622,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26280,
