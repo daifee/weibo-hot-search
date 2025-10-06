@@ -1,6 +1,6 @@
 {
   "startTime": 1759681668953,
-  "endTime": 1759722532766,
+  "endTime": 1759724967091,
   "band_list": [
     {
       "raw_hot": 1697422,
@@ -11,6 +11,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1429600,
+      "num": 162401,
+      "word": "胡定欣官宣结婚",
+      "onboard_time": 1759722260,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1411855,
       "num": 213301,
       "word": "王俊凯工作室修图遗落了个鼻子",
@@ -19,8 +27,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1270206,
+      "num": 162210,
+      "word": "关晓彤美黑",
+      "onboard_time": 1759722319,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1013446,
-      "num": 1013446,
+      "num": 1121942,
       "word": "马龙妻子夏露分享跳舞视频",
       "onboard_time": 1759719321,
       "rank": 21,
@@ -179,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 292655,
+      "num": 189160,
+      "word": "陆毅96年存百元私房钱请鲍蕾吃大餐",
+      "onboard_time": 1759719081,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292091,
       "num": 149505,
       "word": "温峥嵘直播说最讨厌装的人",
@@ -307,6 +331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 222089,
+      "num": 222089,
+      "word": "魔丸见多了老魔丸第一次见",
+      "onboard_time": 1759717579,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 216280,
       "num": 209889,
       "word": "生命树",
@@ -321,14 +353,6 @@
       "onboard_time": 1759717400,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205929,
-      "num": 179682,
-      "word": "魔丸见多了老魔丸第一次见",
-      "onboard_time": 1759717579,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 203106,
@@ -411,12 +435,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 189160,
-      "num": 189160,
-      "word": "陆毅96年存百元私房钱请鲍蕾吃大餐",
-      "onboard_time": 1759719081,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 192961,
+      "num": 192961,
+      "word": "已有350名被困珠峰游客获救",
+      "onboard_time": 1759723161,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186154,
@@ -563,11 +587,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 156104,
-      "num": 156104,
-      "word": "胡定欣官宣结婚",
-      "onboard_time": 1759722260,
-      "rank": 25,
+      "raw_hot": 159523,
+      "num": 159523,
+      "word": "田曦薇玉兔塑",
+      "onboard_time": 1759724240,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -659,14 +683,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 136927,
-      "num": 136927,
-      "word": "关晓彤美黑",
-      "onboard_time": 1759722319,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135670,
       "num": 135670,
       "word": "比邓超还E的人出现了",
@@ -699,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133012,
+      "num": 133012,
+      "word": "被一条皮皮虾惊艳到了",
+      "onboard_time": 1759724061,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 131999,
       "num": 131999,
       "word": "大学生卖雪王送鸡排哥高清写真",
@@ -723,12 +747,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131170,
+      "num": 131170,
+      "word": "啥剧穷嗖嗖又香喷喷啊",
+      "onboard_time": 1759723581,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130757,
       "num": 130757,
       "word": "来战",
       "onboard_time": 1759718600,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129774,
+      "num": 129774,
+      "word": "惹了宋亚轩等于没惹",
+      "onboard_time": 1759724001,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 129700,
@@ -755,6 +795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126621,
+      "num": 126621,
+      "word": "李斯丹妮因工作人员没会员唱歌中断",
+      "onboard_time": 1759722921,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125909,
       "num": 125909,
       "word": "肖战回应献唱岁岁年年",
@@ -764,11 +812,19 @@
     },
     {
       "raw_hot": 124171,
-      "num": 124171,
+      "num": 135027,
       "word": "中国人研究月球土特产又有新成果",
       "onboard_time": 1759716320,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120470,
+      "num": 120470,
+      "word": "独居女生套内45平米的家",
+      "onboard_time": 1759723822,
+      "rank": 30,
+      "category": "休闲"
     },
     {
       "raw_hot": 120306,
@@ -835,6 +891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106184,
+      "num": 106184,
+      "word": "迪丽热巴差点亲到张馨予了",
+      "onboard_time": 1759724720,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105847,
       "num": 105847,
       "word": "入室抢劫型恋人",
@@ -873,6 +937,22 @@
       "onboard_time": 1759713619,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102413,
+      "num": 102413,
+      "word": "迪丽热巴陈星旭中秋节视频",
+      "onboard_time": 1759724121,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100299,
+      "num": 100299,
+      "word": "新郎跳河事件谣言要查处真相当公布",
+      "onboard_time": 1759723161,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98161,
@@ -963,12 +1043,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90544,
+      "num": 90544,
+      "word": "孙颖莎14冠王楚钦11冠",
+      "onboard_time": 1759723822,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90400,
+      "num": 90400,
+      "word": "特朗普不满以色列总理消极反应",
+      "onboard_time": 1759724661,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89662,
       "num": 89662,
       "word": "肖战岁岁年年",
       "onboard_time": 1759712299,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 88969,
+      "num": 88969,
+      "word": "金莎孙丞潇把中秋节过成情人节",
+      "onboard_time": 1759724901,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 88495,
@@ -1009,6 +1113,14 @@
       "onboard_time": 1759678522,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80612,
+      "num": 98209,
+      "word": "这几年月饼还卖得动吗",
+      "onboard_time": 1759724121,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80004,
@@ -1227,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54197,
+      "num": 88672,
+      "word": "支付宝首页在玩很新的养生学",
+      "onboard_time": 1759723881,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 53544,
       "num": 53544,
       "word": "吴克群空降素人婚礼现场随礼999元",
@@ -1299,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28627,
+      "num": 683289,
+      "word": "中秋国庆祝福文案",
+      "onboard_time": 1759724720,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26280,
       "num": 31946,
       "word": "苏新皓cha了MIROTIC",
@@ -1358,6 +1486,9 @@
   "hotgov_list": [
     {
       "word": "#中秋佳节聆听总书记的温暖话语#"
+    },
+    {
+      "word": "#聆听习近平总书记的温暖祝福#"
     }
   ]
 }

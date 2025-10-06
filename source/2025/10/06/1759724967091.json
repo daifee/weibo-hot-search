@@ -1,0 +1,410 @@
+{
+  "runTime": 1759724967091,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 762141,
+        "num": 1121942,
+        "word": "马龙妻子夏露分享跳舞视频",
+        "onboard_time": 1759719321,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 732154,
+        "num": 732154,
+        "word": "只吃水果女子去世前体重仅44斤",
+        "onboard_time": 1759709959,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28627,
+        "num": 683289,
+        "word": "中秋国庆祝福文案",
+        "onboard_time": 1759724720,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645871,
+        "num": 645871,
+        "word": "妈妈竟让儿子高速下车路边方便",
+        "onboard_time": 1759721061,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487740,
+        "num": 487740,
+        "word": "中秋",
+        "onboard_time": 1759706597,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275316,
+        "num": 275316,
+        "word": "九旬老人将饭店100多斤操作台拖走",
+        "onboard_time": 1759718600,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222089,
+        "num": 222089,
+        "word": "魔丸见多了老魔丸第一次见",
+        "onboard_time": 1759717579,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220997,
+        "num": 220997,
+        "word": "收花生找到姥姥丢了12年的金镯",
+        "onboard_time": 1759711940,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192961,
+        "num": 192961,
+        "word": "已有350名被困珠峰游客获救",
+        "onboard_time": 1759723161,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162812,
+        "num": 162812,
+        "word": "酒店房顶坍塌时正在办婚礼",
+        "onboard_time": 1759714460,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1429600,
+        "num": 162401,
+        "word": "胡定欣官宣结婚",
+        "onboard_time": 1759722260,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1270206,
+        "num": 162210,
+        "word": "关晓彤美黑",
+        "onboard_time": 1759722319,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363380,
+        "num": 161973,
+        "word": "王俊凯工作室修图遗落了个鼻子",
+        "onboard_time": 1759680741,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352819,
+        "num": 161429,
+        "word": "人真不能一直住太差的房子",
+        "onboard_time": 1759715779,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333455,
+        "num": 161146,
+        "word": "尚公主",
+        "onboard_time": 1759716860,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292655,
+        "num": 160574,
+        "word": "陆毅96年存百元私房钱请鲍蕾吃大餐",
+        "onboard_time": 1759719081,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225180,
+        "num": 159950,
+        "word": "枭起青壤",
+        "onboard_time": 1759718179,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183679,
+        "num": 159782,
+        "word": "肖战手臂上有伤口",
+        "onboard_time": 1759714519,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159523,
+        "num": 159523,
+        "word": "田曦薇玉兔塑",
+        "onboard_time": 1759724240,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150259,
+        "num": 150259,
+        "word": "樊振东1比3阿吉雷",
+        "onboard_time": 1759707797,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238383,
+        "num": 146879,
+        "word": "面馆默许高中生插队排队游客发声",
+        "onboard_time": 1759720281,
+        "rank": 20,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 162528,
+        "num": 146732,
+        "word": "迪丽热巴在张馨予背后叫人的样子",
+        "onboard_time": 1759716681,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142869,
+        "num": 142869,
+        "word": "宋祖儿华伦天奴晚宴look",
+        "onboard_time": 1759716260,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141033,
+        "num": 141033,
+        "word": "八国发表联合声明",
+        "onboard_time": 1759709238,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36462,
+        "num": 135027,
+        "word": "中国人研究月球土特产又有新成果",
+        "onboard_time": 1759716320,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133012,
+        "num": 133012,
+        "word": "被一条皮皮虾惊艳到了",
+        "onboard_time": 1759724061,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131170,
+        "num": 131170,
+        "word": "啥剧穷嗖嗖又香喷喷啊",
+        "onboard_time": 1759723581,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129774,
+        "num": 129774,
+        "word": "惹了宋亚轩等于没惹",
+        "onboard_time": 1759724001,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126621,
+        "num": 126621,
+        "word": "李斯丹妮因工作人员没会员唱歌中断",
+        "onboard_time": 1759722921,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124847,
+        "num": 124847,
+        "word": "圆圆圆圆中秋圆圆圆圆",
+        "onboard_time": 1759713799,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120470,
+        "num": 120470,
+        "word": "独居女生套内45平米的家",
+        "onboard_time": 1759723822,
+        "rank": 30,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 120170,
+        "num": 120170,
+        "word": "巴基斯坦选手喷空气清新剂",
+        "onboard_time": 1759719139,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113668,
+        "num": 113668,
+        "word": "骄阳似我",
+        "onboard_time": 1759720041,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113044,
+        "num": 113044,
+        "word": "赵磊说生孩子要尊重qko意愿",
+        "onboard_time": 1759719081,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106184,
+        "num": 106184,
+        "word": "迪丽热巴差点亲到张馨予了",
+        "onboard_time": 1759724720,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105118,
+        "num": 105118,
+        "word": "谁懂王一博大腿肌肉的含金量",
+        "onboard_time": 1759720581,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102413,
+        "num": 102413,
+        "word": "迪丽热巴陈星旭中秋节视频",
+        "onboard_time": 1759724121,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100832,
+        "num": 100832,
+        "word": "比邓超还E的人出现了",
+        "onboard_time": 1759721780,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 100299,
+        "num": 100299,
+        "word": "新郎跳河事件谣言要查处真相当公布",
+        "onboard_time": 1759723161,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80612,
+        "num": 98209,
+        "word": "这几年月饼还卖得动吗",
+        "onboard_time": 1759724121,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24997,
+        "num": 97752,
+        "word": "网络中国节",
+        "onboard_time": 1759719379,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97459,
+        "num": 97459,
+        "word": "27岁44斤波兰女子去世前已无法翻身",
+        "onboard_time": 1759718839,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97065,
+        "num": 97065,
+        "word": "王楚钦拼到低血糖",
+        "onboard_time": 1759714219,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92682,
+        "num": 92682,
+        "word": "当你和总要洗澡的朋友旅游时",
+        "onboard_time": 1759722019,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91292,
+        "num": 91292,
+        "word": "杨幂日子和月亮一样圆",
+        "onboard_time": 1759721720,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90544,
+        "num": 90544,
+        "word": "孙颖莎14冠王楚钦11冠",
+        "onboard_time": 1759723822,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90400,
+        "num": 90400,
+        "word": "特朗普不满以色列总理消极反应",
+        "onboard_time": 1759724661,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89177,
+        "num": 89177,
+        "word": "哈马斯称巴勒斯坦人民将继续抵抗",
+        "onboard_time": 1759715839,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88969,
+        "num": 88969,
+        "word": "金莎孙丞潇把中秋节过成情人节",
+        "onboard_time": 1759724901,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54197,
+        "num": 88672,
+        "word": "支付宝首页在玩很新的养生学",
+        "onboard_time": 1759723881,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#聆听习近平总书记的温暖祝福#"
+    }
+  }
+}

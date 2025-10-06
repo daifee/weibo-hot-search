@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/06 11:48:52
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/06 12:29:27
 </p>
 </blockquote>
 <p>
@@ -177,6 +177,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%AE%9A%E6%AC%A3%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A%23" target="weibo">
+胡定欣官宣结婚（热度：1429600）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E6%99%92%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A%E5%81%A5%E5%BA%B7%E8%AF%81%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%23" target="weibo">
 鸡排哥晒检测报告健康证回应质疑（热度：1422561）
 </a>
@@ -281,6 +287,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E7%A7%B0%E6%88%91%E4%BA%BA%E9%83%BD%E8%A6%81%E7%AA%92%E6%81%AF%E4%BA%86%23" target="weibo">
 鸡排哥称我人都要窒息了（热度：1280118）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%BE%8E%E9%BB%91%23" target="weibo">
+关晓彤美黑（热度：1270206）
 </a>
 </li>
 
@@ -2787,6 +2799,12 @@ TF家族（热度：321156）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%8596%E5%B9%B4%E5%AD%98%E7%99%BE%E5%85%83%E7%A7%81%E6%88%BF%E9%92%B1%E8%AF%B7%E9%B2%8D%E8%95%BE%E5%90%83%E5%A4%A7%E9%A4%90%23" target="weibo">
+陆毅96年存百元私房钱请鲍蕾吃大餐（热度：292655）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23G%E7%A4%BE%E6%8B%8D%E7%9A%84%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B7%B4%E9%BB%8E%E7%9C%8B%E7%A7%80%E7%94%9F%E5%9B%BE%23" target="weibo">
 G社拍的王俊凯巴黎看秀生图（热度：292362）
 </a>
@@ -3645,6 +3663,12 @@ celine大秀（热度：222882）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AD%94%E4%B8%B8%E8%A7%81%E5%A4%9A%E4%BA%86%E8%80%81%E9%AD%94%E4%B8%B8%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%23" target="weibo">
+魔丸见多了老魔丸第一次见（热度：222089）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9Fdior%E7%9C%8B%E7%A7%80%E9%80%A0%E5%9E%8B%23" target="weibo">
 周也dior看秀造型（热度：221948）
 </a>
@@ -3959,12 +3983,6 @@ TTG战胜TES（热度：206119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%A3%E8%A2%8B%E7%BF%BB%E5%87%BA%E6%97%A7%E5%BD%A9%E7%A5%A8%E4%B8%AD1.28%E4%BA%BF%23" target="weibo">
 男子口袋翻出旧彩票中1.28亿（热度：205954）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AD%94%E4%B8%B8%E8%A7%81%E5%A4%9A%E4%BA%86%E8%80%81%E9%AD%94%E4%B8%B8%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%23" target="weibo">
-魔丸见多了老魔丸第一次见（热度：205929）
 </a>
 </li>
 
@@ -4383,6 +4401,12 @@ AG战胜RW（热度：199437）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B2%E6%9C%89350%E5%90%8D%E8%A2%AB%E5%9B%B0%E7%8F%A0%E5%B3%B0%E6%B8%B8%E5%AE%A2%E8%8E%B7%E6%95%91%23" target="weibo">
+已有350名被困珠峰游客获救（热度：192961）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E5%AB%81%E9%82%A3%E5%A4%A9%E8%B7%9F%E4%BD%A0%E5%87%BA%E7%94%9F%E9%82%A3%E5%A4%A9%E4%B8%80%E6%A0%B7%E7%83%AD%E9%97%B9%23" target="weibo">
 出嫁那天跟你出生那天一样热闹（热度：192911）
 </a>
@@ -4487,12 +4511,6 @@ NRG总决赛对阵FNC（热度：190252）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E4%B8%AD%E7%A7%8B%E5%81%87%E6%9C%9F%E7%AC%AC2%E5%A4%A9%23" target="weibo">
 国庆中秋假期第2天（热度：189418）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%8596%E5%B9%B4%E5%AD%98%E7%99%BE%E5%85%83%E7%A7%81%E6%88%BF%E9%92%B1%E8%AF%B7%E9%B2%8D%E8%95%BE%E5%90%83%E5%A4%A7%E9%A4%90%23" target="weibo">
-陆毅96年存百元私房钱请鲍蕾吃大餐（热度：189160）
 </a>
 </li>
 
@@ -5475,6 +5493,12 @@ Dior大秀G社生图（热度：167518）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E7%8E%89%E5%85%94%E5%A1%91%23" target="weibo">
+田曦薇玉兔塑（热度：159523）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E5%B7%B4%E9%BB%8E%E8%A1%97%E6%8B%8D%23" target="weibo">
 陈都灵巴黎街拍（热度：159216）
 </a>
@@ -5627,12 +5651,6 @@ Dior大秀G社生图（热度：167518）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E5%B0%9A%E6%9C%AA%E5%B0%B1%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E8%BD%A6%E7%A5%B8%E5%8F%91%E5%A3%B0%23" target="weibo">
 陈震尚未就劳斯莱斯车祸发声（热度：156251）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%AE%9A%E6%AC%A3%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A%23" target="weibo">
-胡定欣官宣结婚（热度：156104）
 </a>
 </li>
 
@@ -5996,24 +6014,6 @@ e人怎么能外向成这样（热度：148200）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E4%B8%AD%E7%A7%8B%E8%8A%82%E5%AE%A3%E4%BC%A0%E8%8A%82%E5%A5%8F%23" target="weibo">
-孟子义李昀锐中秋节宣传节奏（热度：146368）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%B9%B2%E6%88%BF%E8%BD%A6%E9%97%A8%E5%8F%A3%E5%90%93%E4%B8%9E%E7%A3%8A%23" target="weibo">
-白鹿蹲房车门口吓丞磊（热度：146219）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E5%88%B0%E8%BF%99%E4%B9%88%E5%A4%9A%E6%98%8E%E6%98%9F%E6%BC%94%E7%9F%AD%E5%89%A7%23" target="weibo">
-第一次看到这么多明星演短剧（热度：146162）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6125,6 +6125,12 @@ e人怎么能外向成这样（热度：148200）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E7%A7%8B%E4%BD%B3%E8%8A%82%E8%81%86%E5%90%AC%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E6%B8%A9%E6%9A%96%E8%AF%9D%E8%AF%AD%23%23" target="weibo">
 #中秋佳节聆听总书记的温暖话语#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E8%81%86%E5%90%AC%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E6%B8%A9%E6%9A%96%E7%A5%9D%E7%A6%8F%23%23" target="weibo">
+#聆听习近平总书记的温暖祝福#
 </a>
 </li>
 
