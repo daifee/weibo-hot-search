@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759760785088,
+  "endTime": 1759761792248,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -43,6 +43,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1813954,
+      "num": 1813954,
+      "word": "南京地铁鸡鸣寺事件当事人发声",
+      "onboard_time": 1759758383,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1703460,
       "num": 291355,
       "word": "迪丽热巴 神女下凡",
@@ -73,14 +81,6 @@
       "onboard_time": 1759722260,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1442354,
-      "num": 1442354,
-      "word": "南京地铁鸡鸣寺事件当事人发声",
-      "onboard_time": 1759758383,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1422561,
@@ -515,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 635744,
+      "num": 635744,
+      "word": "高铁上男子亲陌生女娃称太可爱",
+      "onboard_time": 1759756282,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 629586,
       "num": 629586,
       "word": "收花生找到姥姥丢了12年的金镯",
@@ -571,6 +579,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 580809,
+      "num": 259662,
+      "word": "王源 马尔代夫",
+      "onboard_time": 1759760123,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 562035,
       "num": 189662,
       "word": "带着饥饿感入睡脂肪燃烧的全过程",
@@ -593,14 +609,6 @@
       "onboard_time": 1759744941,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 549401,
-      "num": 549401,
-      "word": "高铁上男子亲陌生女娃称太可爱",
-      "onboard_time": 1759756282,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 549329,
@@ -739,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 492489,
+      "num": 492489,
+      "word": "挪威2万人口小岛因中国游客堵车",
+      "onboard_time": 1759756703,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 491167,
       "num": 200433,
       "word": "原来马思纯说的这个人是杨紫",
@@ -769,14 +785,6 @@
       "onboard_time": 1759590682,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 485512,
-      "num": 485512,
-      "word": "挪威2万人口小岛因中国游客堵车",
-      "onboard_time": 1759756703,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 481706,
@@ -833,6 +841,14 @@
       "onboard_time": 1759718179,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 452104,
+      "num": 254886,
+      "word": "鹿晗方将承担机票和酒店产生的损失",
+      "onboard_time": 1759759762,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 451290,
@@ -1019,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 378706,
+      "num": 258753,
+      "word": "华晨宇三天烟花放掉一套别墅",
+      "onboard_time": 1759759343,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 378556,
       "num": 378556,
       "word": "员工定亲差15万老板直接拿20万",
@@ -1137,14 +1161,6 @@
       "onboard_time": 1759753041,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 346532,
-      "num": 219306,
-      "word": "鹿晗方将承担机票和酒店产生的损失",
-      "onboard_time": 1759759762,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 346102,
@@ -1611,14 +1627,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 275006,
-      "num": 221227,
-      "word": "王源 马尔代夫",
-      "onboard_time": 1759760123,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 274562,
       "num": 231252,
       "word": "中秋晚会没有何炅",
@@ -1707,6 +1715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255952,
+      "num": 255952,
+      "word": "周深 三十岁了已经不可爱了",
+      "onboard_time": 1759759463,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 255832,
       "num": 191383,
       "word": "马嘉祺宋亚轩刘耀文贺峻霖吃烧烤",
@@ -1729,6 +1745,14 @@
       "onboard_time": 1759640720,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252887,
+      "num": 252887,
+      "word": "陈奕恒高会",
+      "onboard_time": 1759759704,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 251790,
@@ -1763,14 +1787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247259,
-      "num": 219979,
-      "word": "周深 三十岁了已经不可爱了",
-      "onboard_time": 1759759463,
-      "rank": 20,
-      "category": "演出"
-    },
-    {
       "raw_hot": 245066,
       "num": 184346,
       "word": "hi6收视率排名第一",
@@ -1795,11 +1811,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 235596,
-      "num": 227631,
-      "word": "华晨宇三天烟花放掉一套别墅",
-      "onboard_time": 1759759343,
-      "rank": 14,
+      "raw_hot": 237342,
+      "num": 237342,
+      "word": "张艺兴演唱会唱了十二月的奇迹",
+      "onboard_time": 1759759042,
+      "rank": 28,
       "category": "演出"
     },
     {
@@ -2067,6 +2083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207600,
+      "num": 207600,
+      "word": "赵今麦在国外美成啥了",
+      "onboard_time": 1759761024,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207442,
       "num": 207442,
       "word": "慕胥辞",
@@ -2096,6 +2120,14 @@
       "word": "刘宇宁腰围",
       "onboard_time": 1759650801,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204237,
+      "num": 204237,
+      "word": "闫妮不微醺了",
+      "onboard_time": 1759759943,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -2217,14 +2249,6 @@
       "onboard_time": 1759719081,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197016,
-      "num": 197016,
-      "word": "陈奕恒高会",
-      "onboard_time": 1759759704,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 196847,
@@ -2363,12 +2387,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187659,
-      "num": 172877,
-      "word": "张艺兴演唱会唱了十二月的奇迹",
-      "onboard_time": 1759759042,
+      "raw_hot": 188472,
+      "num": 188472,
+      "word": "打卡快乐十一",
+      "onboard_time": 1759761504,
       "rank": 28,
-      "category": "演出"
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188294,
+      "num": 188294,
+      "word": "王橹杰中秋祝福",
+      "onboard_time": 1759761383,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 186927,
@@ -2377,6 +2409,14 @@
       "onboard_time": 1759638441,
       "rank": 48,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 186427,
+      "num": 186427,
+      "word": "金莎这小两口 越看越般配",
+      "onboard_time": 1759760063,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 186330,
@@ -2963,14 +3003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157602,
-      "num": 157602,
-      "word": "闫妮不微醺了",
-      "onboard_time": 1759759943,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157241,
       "num": 267192,
       "word": "三角洲行动",
@@ -3089,6 +3121,14 @@
       "onboard_time": 1759709718,
       "rank": 18,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 153067,
+      "num": 153067,
+      "word": "十个勤天唱歌顺序都按年龄来",
+      "onboard_time": 1759758503,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 152262,
@@ -3267,14 +3307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145360,
-      "num": 145360,
-      "word": "金莎这小两口 越看越般配",
-      "onboard_time": 1759760063,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145160,
       "num": 145160,
       "word": "孟子义分你一半月饼",
@@ -3339,14 +3371,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 142352,
-      "num": 142352,
-      "word": "十个勤天唱歌顺序都按年龄来",
-      "onboard_time": 1759758503,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142195,
       "num": 109589,
       "word": "邱贻可陪孙颖莎训练",
@@ -3377,6 +3401,14 @@
       "onboard_time": 1759754063,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 140973,
+      "num": 140973,
+      "word": "陈楚生压轴连唱两首",
+      "onboard_time": 1759759042,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 140942,
@@ -3505,14 +3537,6 @@
       "onboard_time": 1759638680,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136024,
-      "num": 136024,
-      "word": "陈楚生压轴连唱两首",
-      "onboard_time": 1759759042,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 135689,
@@ -3835,6 +3859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126633,
+      "num": 126633,
+      "word": "王楚钦中秋节送祝福",
+      "onboard_time": 1759760483,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126329,
       "num": 126329,
       "word": "敬山水",
@@ -4035,6 +4067,22 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 119545,
+      "num": 148951,
+      "word": "烘焙店老板被新员工当成小偷",
+      "onboard_time": 1759760664,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119436,
+      "num": 119436,
+      "word": "法国股市直线跳水",
+      "onboard_time": 1759761562,
+      "rank": 47,
+      "category": "财经,海外新闻"
+    },
+    {
       "raw_hot": 119069,
       "num": 119069,
       "word": "范丞丞没有一个人去巴黎",
@@ -4097,6 +4145,14 @@
       "onboard_time": 1759580002,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117436,
+      "num": 117436,
+      "word": "韩国疗养院给老人服用大量安眠药",
+      "onboard_time": 1759761624,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 117303,
@@ -4753,14 +4809,6 @@
       "onboard_time": 1759640061,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105081,
-      "num": 148951,
-      "word": "烘焙店老板被新员工当成小偷",
-      "onboard_time": 1759760664,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105032,

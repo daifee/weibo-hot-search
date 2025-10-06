@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759760785088,
+  "endTime": 1759761792248,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -89,6 +89,14 @@
       "onboard_time": 1759323141,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1813954,
+      "num": 1813954,
+      "word": "南京地铁鸡鸣寺事件当事人发声",
+      "onboard_time": 1759758383,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1798840,
@@ -241,14 +249,6 @@
       "onboard_time": 1759382181,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1442354,
-      "num": 1442354,
-      "word": "南京地铁鸡鸣寺事件当事人发声",
-      "onboard_time": 1759758383,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1434510,
@@ -1555,6 +1555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 635744,
+      "num": 635744,
+      "word": "高铁上男子亲陌生女娃称太可爱",
+      "onboard_time": 1759756282,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 632973,
       "num": 632973,
       "word": "女生拍照吊威亚游客入镜似5毛特效",
@@ -1803,6 +1811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 580809,
+      "num": 259662,
+      "word": "王源 马尔代夫",
+      "onboard_time": 1759760123,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 576917,
       "num": 470228,
       "word": "陈震车祸事件不涉及毒驾醉驾",
@@ -1937,14 +1953,6 @@
       "onboard_time": 1759296020,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 549401,
-      "num": 549401,
-      "word": "高铁上男子亲陌生女娃称太可爱",
-      "onboard_time": 1759756282,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 549329,
@@ -2315,6 +2323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 492489,
+      "num": 492489,
+      "word": "挪威2万人口小岛因中国游客堵车",
+      "onboard_time": 1759756703,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 491167,
       "num": 200433,
       "word": "原来马思纯说的这个人是杨紫",
@@ -2360,14 +2376,6 @@
       "word": "酒店一天办11场婚宴拱门快摆不下了",
       "onboard_time": 1759399820,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 485512,
-      "num": 485512,
-      "word": "挪威2万人口小岛因中国游客堵车",
-      "onboard_time": 1759756703,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2553,6 +2561,14 @@
       "onboard_time": 1759718179,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 452104,
+      "num": 254886,
+      "word": "鹿晗方将承担机票和酒店产生的损失",
+      "onboard_time": 1759759762,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 452020,
@@ -3091,6 +3107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 378706,
+      "num": 258753,
+      "word": "华晨宇三天烟花放掉一套别墅",
+      "onboard_time": 1759759343,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 378556,
       "num": 378556,
       "word": "员工定亲差15万老板直接拿20万",
@@ -3457,14 +3481,6 @@
       "onboard_time": 1759407080,
       "rank": 21,
       "category": "海外新闻,艺人"
-    },
-    {
-      "raw_hot": 346532,
-      "num": 219306,
-      "word": "鹿晗方将承担机票和酒店产生的损失",
-      "onboard_time": 1759759762,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 346102,
@@ -4467,14 +4483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 275006,
-      "num": 221227,
-      "word": "王源 马尔代夫",
-      "onboard_time": 1759760123,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 274562,
       "num": 231252,
       "word": "中秋晚会没有何炅",
@@ -4747,6 +4755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 255952,
+      "num": 255952,
+      "word": "周深 三十岁了已经不可爱了",
+      "onboard_time": 1759759463,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 255935,
       "num": 152474,
       "word": "娜扎好美",
@@ -4825,6 +4841,14 @@
       "onboard_time": 1759484840,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 252887,
+      "num": 252887,
+      "word": "陈奕恒高会",
+      "onboard_time": 1759759704,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 252556,
@@ -4921,14 +4945,6 @@
       "onboard_time": 1759565001,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 247259,
-      "num": 219979,
-      "word": "周深 三十岁了已经不可爱了",
-      "onboard_time": 1759759463,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 246807,
@@ -5107,6 +5123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237342,
+      "num": 237342,
+      "word": "张艺兴演唱会唱了十二月的奇迹",
+      "onboard_time": 1759759042,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 237025,
       "num": 205837,
       "word": "户晨风",
@@ -5145,14 +5169,6 @@
       "onboard_time": 1759549099,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 235596,
-      "num": 227631,
-      "word": "华晨宇三天烟花放掉一套别墅",
-      "onboard_time": 1759759343,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 234838,
@@ -5859,6 +5875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207600,
+      "num": 207600,
+      "word": "赵今麦在国外美成啥了",
+      "onboard_time": 1759761024,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207474,
       "num": 180134,
       "word": "现在就出发",
@@ -6008,6 +6032,14 @@
       "word": "刘宇宁腰围",
       "onboard_time": 1759650801,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204237,
+      "num": 204237,
+      "word": "闫妮不微醺了",
+      "onboard_time": 1759759943,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -6321,14 +6353,6 @@
       "onboard_time": 1759465640,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 197016,
-      "num": 197016,
-      "word": "陈奕恒高会",
-      "onboard_time": 1759759704,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 196921,
@@ -6707,6 +6731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188472,
+      "num": 692737,
+      "word": "打卡快乐十一",
+      "onboard_time": 1759361478,
+      "rank": 9,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 188380,
       "num": 188380,
       "word": "张远王霏霏盛夏芬德拉抱",
@@ -6715,12 +6747,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187659,
-      "num": 172877,
-      "word": "张艺兴演唱会唱了十二月的奇迹",
-      "onboard_time": 1759759042,
-      "rank": 28,
-      "category": "演出"
+      "raw_hot": 188294,
+      "num": 188294,
+      "word": "王橹杰中秋祝福",
+      "onboard_time": 1759761383,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 187577,
@@ -6761,6 +6793,14 @@
       "onboard_time": 1759555400,
       "rank": 23,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 186427,
+      "num": 186427,
+      "word": "金莎这小两口 越看越般配",
+      "onboard_time": 1759760063,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 186330,
@@ -7771,14 +7811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166730,
-      "num": 692737,
-      "word": "打卡快乐十一",
-      "onboard_time": 1759361478,
-      "rank": 9,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 166693,
       "num": 166693,
       "word": "一笑随歌",
@@ -8291,14 +8323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157602,
-      "num": 157602,
-      "word": "闫妮不微醺了",
-      "onboard_time": 1759759943,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157402,
       "num": 157402,
       "word": "王楚钦孙颖莎11比3雨果高桥布鲁娜",
@@ -8577,6 +8601,14 @@
       "onboard_time": 1759709718,
       "rank": 18,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 153067,
+      "num": 153067,
+      "word": "十个勤天唱歌顺序都按年龄来",
+      "onboard_time": 1759758503,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 152993,
@@ -9075,14 +9107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145360,
-      "num": 145360,
-      "word": "金莎这小两口 越看越般配",
-      "onboard_time": 1759760063,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145223,
       "num": 145223,
       "word": "檀健次主演电影票房破10亿",
@@ -9307,14 +9331,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 142352,
-      "num": 142352,
-      "word": "十个勤天唱歌顺序都按年龄来",
-      "onboard_time": 1759758503,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142199,
       "num": 142199,
       "word": "全国多地国庆突降大雪",
@@ -9401,6 +9417,14 @@
       "onboard_time": 1759754063,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 140973,
+      "num": 140973,
+      "word": "陈楚生压轴连唱两首",
+      "onboard_time": 1759759042,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 140942,
@@ -9857,14 +9881,6 @@
       "onboard_time": 1759638680,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136024,
-      "num": 136024,
-      "word": "陈楚生压轴连唱两首",
-      "onboard_time": 1759759042,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 135945,
@@ -10763,6 +10779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126633,
+      "num": 126633,
+      "word": "王楚钦中秋节送祝福",
+      "onboard_time": 1759760483,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126423,
       "num": 126423,
       "word": "旅游3000块定律",
@@ -11379,6 +11403,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119545,
+      "num": 148951,
+      "word": "烘焙店老板被新员工当成小偷",
+      "onboard_time": 1759760664,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119436,
+      "num": 119436,
+      "word": "法国股市直线跳水",
+      "onboard_time": 1759761562,
+      "rank": 47,
+      "category": "财经,海外新闻"
+    },
+    {
       "raw_hot": 119426,
       "num": 122324,
       "word": "孙颖莎相信王曼昱能赢",
@@ -11625,6 +11665,14 @@
       "onboard_time": 1759382421,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117436,
+      "num": 117436,
+      "word": "韩国疗养院给老人服用大量安眠药",
+      "onboard_time": 1759761624,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 117303,
@@ -13537,14 +13585,6 @@
       "onboard_time": 1759326621,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105081,
-      "num": 148951,
-      "word": "烘焙店老板被新员工当成小偷",
-      "onboard_time": 1759760664,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105032,
