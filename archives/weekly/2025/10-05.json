@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759720584277,
+  "endTime": 1759722532766,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -139,6 +139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1013446,
+      "num": 1013446,
+      "word": "马龙妻子夏露分享跳舞视频",
+      "onboard_time": 1759719321,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1000546,
       "num": 224924,
       "word": "王诗龄音腔口音",
@@ -233,6 +241,14 @@
       "onboard_time": 1759630038,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 847131,
+      "num": 847131,
+      "word": "妈妈竟让儿子高速下车路边方便",
+      "onboard_time": 1759721061,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 845217,
@@ -707,14 +723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 352040,
-      "num": 208132,
-      "word": "马龙妻子夏露分享跳舞视频",
-      "onboard_time": 1759719321,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 345471,
       "num": 191503,
       "word": "我家那闺女",
@@ -883,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 313456,
+      "num": 313456,
+      "word": "九旬老人将饭店100多斤操作台拖走",
+      "onboard_time": 1759718600,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313228,
       "num": 283520,
       "word": "宁艺卓pk",
@@ -993,6 +1009,14 @@
       "onboard_time": 1759672524,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282935,
+      "num": 171510,
+      "word": "面馆默许高中生插队排队游客发声",
+      "onboard_time": 1759720281,
+      "rank": 35,
+      "category": "正能量"
     },
     {
       "raw_hot": 282396,
@@ -1379,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205929,
+      "num": 179682,
+      "word": "魔丸见多了老魔丸第一次见",
+      "onboard_time": 1759717579,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 205141,
       "num": 155433,
       "word": "印度老人和35岁女子结婚次日离世",
@@ -1516,7 +1548,7 @@
     },
     {
       "raw_hot": 193595,
-      "num": 134641,
+      "num": 147009,
       "word": "巴基斯坦选手喷空气清新剂",
       "onboard_time": 1759719139,
       "rank": 30,
@@ -1609,14 +1641,6 @@
       "onboard_time": 1759673184,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188253,
-      "num": 188253,
-      "word": "九旬老人将饭店100多斤操作台拖走",
-      "onboard_time": 1759718600,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 186927,
@@ -1771,6 +1795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174733,
+      "num": 174733,
+      "word": "张泽禹勇敢反馈站位问题",
+      "onboard_time": 1759721480,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174679,
       "num": 136389,
       "word": "北大女生三分钟发言檀健次听入神了",
@@ -1809,6 +1841,14 @@
       "onboard_time": 1759575802,
       "rank": 4,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 172632,
+      "num": 172632,
+      "word": "杨紫生命树中秋vlog",
+      "onboard_time": 1759721541,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 171676,
@@ -1865,6 +1905,14 @@
       "onboard_time": 1759645280,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167464,
+      "num": 167464,
+      "word": "杨幂日子和月亮一样圆",
+      "onboard_time": 1759721720,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166820,
@@ -2019,6 +2067,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 156104,
+      "num": 156104,
+      "word": "胡定欣官宣结婚",
+      "onboard_time": 1759722260,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155174,
       "num": 155174,
       "word": "假期最耗气血的5个习惯",
@@ -2107,12 +2163,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 148250,
-      "num": 148250,
-      "word": "魔丸见多了老魔丸第一次见",
-      "onboard_time": 1759717579,
-      "rank": 27,
-      "category": "幽默"
+      "raw_hot": 148200,
+      "num": 148200,
+      "word": "e人怎么能外向成这样",
+      "onboard_time": 1759721121,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 148141,
@@ -2153,6 +2209,14 @@
       "onboard_time": 1759582102,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146705,
+      "num": 146705,
+      "word": "山河枕",
+      "onboard_time": 1759721720,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 146368,
@@ -2339,12 +2403,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137045,
+      "num": 137045,
+      "word": "苏新皓清唱我是你的小狗",
+      "onboard_time": 1759722080,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 136992,
       "num": 136992,
       "word": "给男朋友点的咖啡送到了妈妈手里",
       "onboard_time": 1759634840,
       "rank": 35,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 136927,
+      "num": 136927,
+      "word": "关晓彤美黑",
+      "onboard_time": 1759722319,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 136323,
@@ -2361,6 +2441,14 @@
       "onboard_time": 1759638680,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135670,
+      "num": 135670,
+      "word": "比邓超还E的人出现了",
+      "onboard_time": 1759721780,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 135602,
@@ -2491,6 +2579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131268,
+      "num": 131268,
+      "word": "骄阳似我",
+      "onboard_time": 1759720041,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130757,
       "num": 130757,
       "word": "来战",
@@ -2595,14 +2691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125067,
-      "num": 125067,
-      "word": "面馆默许高中生插队排队游客发声",
-      "onboard_time": 1759720281,
-      "rank": 35,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 125012,
       "num": 133523,
       "word": "娜扎古装怎么美成这样",
@@ -2691,6 +2779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120306,
+      "num": 120306,
+      "word": "谁懂王一博大腿肌肉的含金量",
+      "onboard_time": 1759720581,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120169,
       "num": 120169,
       "word": "普通人代表着普通的支付能力",
@@ -2753,6 +2849,14 @@
       "onboard_time": 1759667123,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117080,
+      "num": 117080,
+      "word": "27岁44斤波兰女子去世前已无法翻身",
+      "onboard_time": 1759718839,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 117027,
@@ -2971,14 +3075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111005,
-      "num": 111005,
-      "word": "27岁44斤波兰女子去世前已无法翻身",
-      "onboard_time": 1759718839,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 110524,
       "num": 110524,
       "word": "樊振东微博粉丝突破900万",
@@ -3091,14 +3187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107059,
-      "num": 107059,
-      "word": "骄阳似我",
-      "onboard_time": 1759720041,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 106203,
       "num": 106203,
       "word": "朋友圈里感受到一种经济上行的美",
@@ -3129,6 +3217,22 @@
       "onboard_time": 1759654101,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105574,
+      "num": 105574,
+      "word": "当你和总要洗澡的朋友旅游时",
+      "onboard_time": 1759722019,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 105567,
+      "num": 105567,
+      "word": "小老虎与饲养员太阳下睡成一团",
+      "onboard_time": 1759722140,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105387,
@@ -4028,7 +4132,7 @@
     },
     {
       "raw_hot": 64431,
-      "num": 540254,
+      "num": 895006,
       "word": "网络中国节",
       "onboard_time": 1759719379,
       "rank": 2,
@@ -4593,6 +4697,14 @@
       "onboard_time": 1759635441,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9731,
+      "num": 117744,
+      "word": "县城贵妇也被卖月饼逼疯了",
+      "onboard_time": 1759722440,
+      "rank": 38,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
