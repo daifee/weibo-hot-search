@@ -1,0 +1,410 @@
+{
+  "runTime": 1759740399925,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 473205,
+        "num": 1075712,
+        "word": "小孩哥用通缉令上证件号认证游戏",
+        "onboard_time": 1759725021,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 398600,
+        "num": 398600,
+        "word": "中秋",
+        "onboard_time": 1759706597,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29865,
+        "num": 365150,
+        "word": "中国人研究月球土特产又有新成果",
+        "onboard_time": 1759716320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341544,
+        "num": 341544,
+        "word": "新婚三金五金成金店爆款",
+        "onboard_time": 1759739001,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314021,
+        "num": 314021,
+        "word": "河南一景区演员上演仙女散花",
+        "onboard_time": 1759737261,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259573,
+        "num": 259573,
+        "word": "美国19岁女生车祸丧生家属追责特斯拉",
+        "onboard_time": 1759733241,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 234127,
+        "num": 234127,
+        "word": "人类在中医面前毫无秘密可言",
+        "onboard_time": 1759732281,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186772,
+        "num": 186772,
+        "word": "卖不完的月饼都去哪儿了",
+        "onboard_time": 1759732822,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167973,
+        "num": 167973,
+        "word": "微信上传一个视频15次后的样子",
+        "onboard_time": 1759725141,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163517,
+        "num": 163517,
+        "word": "JDG对战DK",
+        "onboard_time": 1759738461,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 674253,
+        "num": 162479,
+        "word": "关晓彤美黑",
+        "onboard_time": 1759722319,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484111,
+        "num": 161855,
+        "word": "偶遇贾乃亮买金钞",
+        "onboard_time": 1759734621,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437014,
+        "num": 159503,
+        "word": "原来马思纯说的这个人是杨紫",
+        "onboard_time": 1759735220,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396802,
+        "num": 159312,
+        "word": "鹿晗新壁纸",
+        "onboard_time": 1759730601,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319288,
+        "num": 157223,
+        "word": "姜涛减肥成功晒露背照",
+        "onboard_time": 1759735580,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307789,
+        "num": 156565,
+        "word": "王安宇 不要问人家这种问题",
+        "onboard_time": 1759732040,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272086,
+        "num": 155286,
+        "word": "第几次亲嘴12秒翻面3次啊",
+        "onboard_time": 1759725501,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249229,
+        "num": 153713,
+        "word": "翁青雅签公司了",
+        "onboard_time": 1759726581,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239868,
+        "num": 152428,
+        "word": "张馨予照片是迪丽热巴拍的吧",
+        "onboard_time": 1759739482,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234932,
+        "num": 150624,
+        "word": "胡定欣官宣结婚",
+        "onboard_time": 1759722260,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 492784,
+        "num": 149194,
+        "word": "只吃水果女子去世前体重仅44斤",
+        "onboard_time": 1759709959,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 195284,
+        "num": 148261,
+        "word": "总台秋晚节目单发布",
+        "onboard_time": 1759735639,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180709,
+        "num": 146403,
+        "word": "丈母娘给新娘喂饺子新郎秒变脸",
+        "onboard_time": 1759739239,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145880,
+        "num": 145880,
+        "word": "美军开始焦虑",
+        "onboard_time": 1759738760,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140543,
+        "num": 140543,
+        "word": "伞伞伞伞兵马俑伞伞伞伞",
+        "onboard_time": 1759737920,
+        "rank": 24,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 139315,
+        "num": 139315,
+        "word": "许我耀眼黑皮律师上桌了",
+        "onboard_time": 1759736902,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137035,
+        "num": 137035,
+        "word": "外卖店营业额18万盈利仅1万",
+        "onboard_time": 1759731800,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133771,
+        "num": 133771,
+        "word": "三甲医生解读只吃水果女子去世",
+        "onboard_time": 1759730362,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131028,
+        "num": 131028,
+        "word": "卢昱晓新剧评论区",
+        "onboard_time": 1759738820,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65984,
+        "num": 128934,
+        "word": "被人类高质量对谈治愈了",
+        "onboard_time": 1759739600,
+        "rank": 29,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 151067,
+        "num": 128486,
+        "word": "无痛真性分手",
+        "onboard_time": 1759739420,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127878,
+        "num": 127878,
+        "word": "蒋一侨爸爸一天给女儿打七八个电话",
+        "onboard_time": 1759737620,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126199,
+        "num": 126199,
+        "word": "18岁的刘萧旭长得就像28了",
+        "onboard_time": 1759738340,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116816,
+        "num": 116816,
+        "word": "感觉是迪丽热巴会拍的",
+        "onboard_time": 1759738100,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113616,
+        "num": 113616,
+        "word": "时代少年团吃完火锅骑自行车回家",
+        "onboard_time": 1759737380,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111857,
+        "num": 111857,
+        "word": "这样的恋爱到底是谁在谈",
+        "onboard_time": 1759738461,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107466,
+        "num": 107466,
+        "word": "王橹杰跳的是范丞丞版刀马",
+        "onboard_time": 1759738040,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105389,
+        "num": 105389,
+        "word": "谢霆锋为窦靖童送花篮",
+        "onboard_time": 1759737439,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102846,
+        "num": 102846,
+        "word": "男子旅游点炒蛏子和螃蟹两个菜661元",
+        "onboard_time": 1759737081,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101048,
+        "num": 101048,
+        "word": "涨涨涨涨黄金涨涨涨涨",
+        "onboard_time": 1759736840,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96499,
+        "num": 96499,
+        "word": "白敬亭跳着跳着跳进王安宇怀里了",
+        "onboard_time": 1759739239,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92780,
+        "num": 92780,
+        "word": "国庆中秋假期第6天你在干什么",
+        "onboard_time": 1759728861,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90233,
+        "num": 90233,
+        "word": "很有钱的和没有钱的会买假包",
+        "onboard_time": 1759737141,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84334,
+        "num": 84334,
+        "word": "伊朗货币将删除四个零",
+        "onboard_time": 1759728021,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83065,
+        "num": 83065,
+        "word": "麦当劳是不是给我装监控了",
+        "onboard_time": 1759740022,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 80866,
+        "num": 80866,
+        "word": "张远单身的原因找到了",
+        "onboard_time": 1759738461,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77466,
+        "num": 77466,
+        "word": "马龙妻子夏露分享跳舞视频",
+        "onboard_time": 1759719321,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77413,
+        "num": 77413,
+        "word": "翁青雅回应签公司",
+        "onboard_time": 1759740380,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77364,
+        "num": 77364,
+        "word": "林一量腰围这一块",
+        "onboard_time": 1759740380,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76386,
+        "num": 76386,
+        "word": "对孙千身高有了实感",
+        "onboard_time": 1759726101,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#聆听习近平总书记的温暖祝福#"
+    }
+  }
+}
