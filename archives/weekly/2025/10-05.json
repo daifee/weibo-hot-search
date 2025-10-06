@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759764418929,
+  "endTime": 1759765254739,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -371,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 827159,
+      "num": 243349,
+      "word": "赵今麦在国外美成啥了",
+      "onboard_time": 1759761024,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 808506,
       "num": 191639,
       "word": "翁青雅签公司了",
@@ -392,14 +400,6 @@
       "word": "鹿晗新壁纸",
       "onboard_time": 1759730601,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 781011,
-      "num": 243349,
-      "word": "赵今麦在国外美成啥了",
-      "onboard_time": 1759761024,
-      "rank": 24,
       "category": "艺人"
     },
     {
@@ -923,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 432408,
+      "num": 242269,
+      "word": "周深中俄双语致敬英烈",
+      "onboard_time": 1759762402,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426707,
       "num": 191551,
       "word": "黄一鸣曝闪闪要回来了",
@@ -1000,6 +1008,14 @@
       "word": "大聪明已经提前到5号返程了",
       "onboard_time": 1759634241,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 392023,
+      "num": 392023,
+      "word": "央视秋晚汶川3分钟太催泪",
+      "onboard_time": 1759762163,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -1112,14 +1128,6 @@
       "word": "毛不易 无名的人改歌词",
       "onboard_time": 1759757003,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 365638,
-      "num": 242269,
-      "word": "周深中俄双语致敬英烈",
-      "onboard_time": 1759762402,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -1435,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 311113,
+      "num": 255952,
+      "word": "周深 三十岁了已经不可爱了",
+      "onboard_time": 1759759463,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 309941,
       "num": 191476,
       "word": "姐姐是魔丸弟弟就是灵珠",
@@ -1553,14 +1569,6 @@
       "onboard_time": 1759758744,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 283959,
-      "num": 283959,
-      "word": "央视秋晚汶川3分钟太催泪",
-      "onboard_time": 1759762163,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 282396,
@@ -1739,12 +1747,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 255952,
-      "num": 255952,
-      "word": "周深 三十岁了已经不可爱了",
-      "onboard_time": 1759759463,
-      "rank": 20,
-      "category": "演出"
+      "raw_hot": 256378,
+      "num": 206641,
+      "word": "石凯回复",
+      "onboard_time": 1759764143,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 255832,
@@ -2347,6 +2355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190738,
+      "num": 190738,
+      "word": "李沁 英气",
+      "onboard_time": 1759764442,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190732,
       "num": 190732,
       "word": "王楚钦对自己说你挺棒的",
@@ -2635,6 +2651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 175898,
+      "num": 175898,
+      "word": "十个勤天每一句都唱到心上了",
+      "onboard_time": 1759762222,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175842,
       "num": 175842,
       "word": "将进酒",
@@ -2915,6 +2939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162044,
+      "num": 162044,
+      "word": "素颜的刘浩存赵今麦李庚希",
+      "onboard_time": 1759764501,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161870,
       "num": 161870,
       "word": "孙子误吃过期月饼奶奶又给过期药",
@@ -2936,14 +2968,6 @@
       "word": "东方卫视中秋晚会",
       "onboard_time": 1759753942,
       "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 161435,
-      "num": 161435,
-      "word": "十个勤天每一句都唱到心上了",
-      "onboard_time": 1759762222,
-      "rank": 27,
       "category": "综艺"
     },
     {
@@ -3169,14 +3193,6 @@
       "onboard_time": 1759758503,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153051,
-      "num": 153051,
-      "word": "石凯回复",
-      "onboard_time": 1759764143,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 152262,
@@ -4059,6 +4075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121817,
+      "num": 121817,
+      "word": "檀健次叶世荣动了谁的DNA",
+      "onboard_time": 1759764741,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121697,
       "num": 121697,
       "word": "周迅巴黎造型",
@@ -4923,6 +4947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 104333,
+      "num": 104333,
+      "word": "愿你心怀皓月步履不停",
+      "onboard_time": 1759765161,
+      "rank": 41,
+      "category": "情感,民生新闻"
+    },
+    {
       "raw_hot": 104228,
       "num": 104228,
       "word": "爱是双向奔赴的",
@@ -5105,6 +5137,14 @@
       "onboard_time": 1759754783,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101310,
+      "num": 104327,
+      "word": "10月6日再逢中秋要等到2063年",
+      "onboard_time": 1759763182,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101178,
@@ -5377,6 +5417,14 @@
       "onboard_time": 1759710378,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96468,
+      "num": 104315,
+      "word": "谢霆锋演唱会",
+      "onboard_time": 1759765041,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 96325,
