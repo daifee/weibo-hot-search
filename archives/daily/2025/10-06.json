@@ -1,6 +1,6 @@
 {
   "startTime": 1759681668953,
-  "endTime": 1759743732381,
+  "endTime": 1759746517724,
   "band_list": [
     {
       "raw_hot": 1697422,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1401938,
-      "num": 214716,
+      "num": 259914,
       "word": "关晓彤美黑",
       "onboard_time": 1759722319,
       "rank": 33,
@@ -40,6 +40,14 @@
       "word": "小孩哥用通缉令上证件号认证游戏",
       "onboard_time": 1759725021,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1045879,
+      "num": 1167340,
+      "word": "丈母娘给新娘喂饺子新郎秒变脸",
+      "onboard_time": 1759739239,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -67,6 +75,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 856924,
+      "num": 262562,
+      "word": "月入3万存2万五的真实生活",
+      "onboard_time": 1759740621,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 847131,
       "num": 847131,
       "word": "妈妈竟让儿子高速下车路边方便",
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 792284,
-      "num": 207055,
+      "num": 254654,
       "word": "鹿晗新壁纸",
       "onboard_time": 1759730601,
       "rank": 15,
@@ -147,20 +163,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 547506,
-      "num": 547506,
-      "word": "丈母娘给新娘喂饺子新郎秒变脸",
-      "onboard_time": 1759739239,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 539641,
       "num": 539641,
       "word": "女子在地铁上因他人说到鸡鸣寺急眼",
       "onboard_time": 1759728442,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 538085,
+      "num": 261413,
+      "word": "鹿晗吉隆坡站横滨站演出取消",
+      "onboard_time": 1759742601,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 530004,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 518401,
-      "num": 211115,
+      "num": 259149,
       "word": "翁青雅回应签公司",
       "onboard_time": 1759740380,
       "rank": 47,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 481706,
-      "num": 208054,
+      "num": 249000,
       "word": "张馨予照片是迪丽热巴拍的吧",
       "onboard_time": 1759739482,
       "rank": 23,
@@ -283,12 +299,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 376771,
-      "num": 195122,
-      "word": "鹿晗吉隆坡站横滨站演出取消",
-      "onboard_time": 1759742601,
-      "rank": 18,
-      "category": "演出"
+      "raw_hot": 390999,
+      "num": 390999,
+      "word": "俄罗斯强烈谴责美军",
+      "onboard_time": 1759742842,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 385478,
+      "num": 385478,
+      "word": "诺贝尔",
+      "onboard_time": 1759744281,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 354251,
@@ -323,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319704,
+      "num": 256358,
+      "word": "用10000只大闸蟹做了一道菜",
+      "onboard_time": 1759741460,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 319288,
       "num": 197254,
       "word": "姜涛减肥成功晒露背照",
@@ -355,11 +387,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302060,
+      "num": 250279,
+      "word": "租客月租1400中介交给房东2500",
+      "onboard_time": 1759742842,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300561,
       "num": 202785,
       "word": "阿维塔自燃后厂家回应",
       "onboard_time": 1759710680,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 296278,
+      "num": 296278,
+      "word": "天门山景区道歉",
+      "onboard_time": 1759744100,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -369,14 +417,6 @@
       "onboard_time": 1759719081,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 293837,
-      "num": 196505,
-      "word": "月入3万存2万五的真实生活",
-      "onboard_time": 1759740621,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 292726,
@@ -393,6 +433,14 @@
       "onboard_time": 1759670724,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 288848,
+      "num": 253374,
+      "word": "朴树宣布停演",
+      "onboard_time": 1759744941,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 286717,
@@ -441,6 +489,14 @@
       "onboard_time": 1759709838,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 277486,
+      "num": 252245,
+      "word": "王青 音乐节",
+      "onboard_time": 1759743500,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 275655,
@@ -515,14 +571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 236494,
-      "num": 236494,
-      "word": "俄罗斯强烈谴责美军",
-      "onboard_time": 1759742842,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 234611,
       "num": 234611,
       "word": "wtt",
@@ -537,6 +585,14 @@
       "onboard_time": 1759732822,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233251,
+      "num": 233251,
+      "word": "马嘉祺中秋请客剧组了",
+      "onboard_time": 1759746022,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 232604,
@@ -603,12 +659,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211489,
-      "num": 159526,
-      "word": "用10000只大闸蟹做了一道菜",
-      "onboard_time": 1759741460,
-      "rank": 30,
-      "category": "美食"
+      "raw_hot": 213796,
+      "num": 213796,
+      "word": "好利来回应节后未售完月饼如何处理",
+      "onboard_time": 1759742781,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208173,
+      "num": 208173,
+      "word": "张晚意为李沁新剧宣传",
+      "onboard_time": 1759744580,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 207442,
@@ -737,6 +801,14 @@
       "onboard_time": 1759734920,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188282,
+      "num": 263734,
+      "word": "广东一夫妇长得像复制粘贴",
+      "onboard_time": 1759743380,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186154,
@@ -883,6 +955,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 170579,
+      "num": 170579,
+      "word": "吴磊做月饼两小时胡子长出来了",
+      "onboard_time": 1759745421,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170327,
       "num": 170327,
       "word": "赵丽颖祝大家中秋快乐",
@@ -963,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155692,
+      "num": 144015,
+      "word": "龚俊转发宣传李沁新剧",
+      "onboard_time": 1759745839,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155610,
       "num": 155610,
       "word": "王橹杰高会",
@@ -995,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154073,
+      "num": 154073,
+      "word": "月亮",
+      "onboard_time": 1759743260,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153386,
       "num": 153386,
       "word": "表妹万福",
@@ -1017,14 +1113,6 @@
       "onboard_time": 1759737380,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150124,
-      "num": 150124,
-      "word": "租客月租1400中介交给房东2500",
-      "onboard_time": 1759742842,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148900,
@@ -1083,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144617,
+      "num": 144617,
+      "word": "许我耀眼让我重新认识了陈伟霆",
+      "onboard_time": 1759744941,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142593,
       "num": 142593,
       "word": "星穹铁道景元",
@@ -1124,7 +1220,7 @@
     },
     {
       "raw_hot": 138352,
-      "num": 397437,
+      "num": 427689,
       "word": "航天员晒中秋大餐",
       "onboard_time": 1759716320,
       "rank": 31,
@@ -1299,6 +1395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126231,
+      "num": 251180,
+      "word": "一天能卖出80吨的月饼有多好吃",
+      "onboard_time": 1759745360,
+      "rank": 19,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 125909,
       "num": 125909,
       "word": "肖战回应献唱岁岁年年",
@@ -1313,6 +1417,14 @@
       "onboard_time": 1759716320,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123226,
+      "num": 103477,
+      "word": "2025年诺贝尔生理学或医学奖公布",
+      "onboard_time": 1759745120,
+      "rank": 42,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 120306,
@@ -1371,6 +1483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 115825,
+      "num": 115825,
+      "word": "王楚钦中秋限定月饼海报",
+      "onboard_time": 1759745781,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115773,
       "num": 115773,
       "word": "香港海心公园割喉案嫌犯系流浪汉",
@@ -1385,6 +1505,14 @@
       "onboard_time": 1759727961,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114190,
+      "num": 114190,
+      "word": "美防长谈五角大楼披萨订单指数",
+      "onboard_time": 1759745060,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113100,
@@ -1433,6 +1561,14 @@
       "onboard_time": 1759718600,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 111247,
+      "num": 111247,
+      "word": "鸡排挑战者称情商比不过口味要超过",
+      "onboard_time": 1759744221,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111185,
@@ -1507,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107200,
+      "num": 107200,
+      "word": "一中学疑让家长跪地学生踩踏越过",
+      "onboard_time": 1759744160,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106925,
       "num": 106925,
       "word": "丁程鑫一个心软全世界都开始闹了",
@@ -1563,14 +1707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105159,
-      "num": 105159,
-      "word": "王青 音乐节",
-      "onboard_time": 1759743500,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 103838,
       "num": 103838,
       "word": "一秒黑化还得是影帝",
@@ -1585,6 +1721,14 @@
       "onboard_time": 1759724661,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 103665,
+      "num": 103665,
+      "word": "村里唯一的大学生终于派上用场了",
+      "onboard_time": 1759744761,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 102932,
@@ -1651,11 +1795,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 99628,
-      "num": 99628,
-      "word": "好利来回应节后未售完月饼如何处理",
-      "onboard_time": 1759742781,
+      "raw_hot": 99116,
+      "num": 99116,
+      "word": "宋亚轩 这是可以说的么",
+      "onboard_time": 1759744941,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 98942,
+      "num": 98942,
+      "word": "住客退房时将民宿小猫装袋偷走",
+      "onboard_time": 1759744941,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1673,6 +1825,14 @@
       "onboard_time": 1759711219,
       "rank": 41,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 98012,
+      "num": 98997,
+      "word": "2025诺贝尔生理学或医学奖公布",
+      "onboard_time": 1759745182,
+      "rank": 45,
+      "category": "海外新闻,科学科普"
     },
     {
       "raw_hot": 97787,
@@ -1721,6 +1881,14 @@
       "onboard_time": 1759732580,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93936,
+      "num": 93936,
+      "word": "Ning回应浴室摔伤",
+      "onboard_time": 1759746501,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 93633,
@@ -1809,14 +1977,6 @@
       "onboard_time": 1759726101,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 90787,
-      "num": 90787,
-      "word": "月亮",
-      "onboard_time": 1759743260,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90783,
@@ -2016,14 +2176,6 @@
       "word": "妈妈回应儿子跪地拦车救自己",
       "onboard_time": 1759730301,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80638,
-      "num": 99716,
-      "word": "广东一夫妇长得像复制粘贴",
-      "onboard_time": 1759743380,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2428,7 +2580,7 @@
     },
     {
       "raw_hot": 33341,
-      "num": 100690,
+      "num": 108936,
       "word": "陶喆说最舒服的状态就是松弛",
       "onboard_time": 1759743260,
       "rank": 37,
@@ -2537,6 +2689,14 @@
       "onboard_time": 1759722440,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9208,
+      "num": 107421,
+      "word": "向鹏祝贺中国队包揽五冠",
+      "onboard_time": 1759746141,
+      "rank": 39,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
