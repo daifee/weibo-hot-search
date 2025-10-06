@@ -1,6 +1,6 @@
 {
   "startTime": 1759681668953,
-  "endTime": 1759761792248,
+  "endTime": 1759764418929,
   "band_list": [
     {
       "raw_hot": 2638790,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 838308,
+      "num": 259662,
+      "word": "王源 马尔代夫",
+      "onboard_time": 1759760123,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 837885,
       "num": 1134061,
       "word": "新婚三金五金成金店爆款",
@@ -168,6 +176,14 @@
       "word": "鹿晗新壁纸",
       "onboard_time": 1759730601,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 781011,
+      "num": 243349,
+      "word": "赵今麦在国外美成啥了",
+      "onboard_time": 1759761024,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -203,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 708860,
+      "num": 635744,
+      "word": "高铁上男子亲陌生女娃称太可爱",
+      "onboard_time": 1759756282,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 692550,
       "num": 213682,
       "word": "人真不能一直住太差的房子",
@@ -227,14 +251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 635744,
-      "num": 635744,
-      "word": "高铁上男子亲陌生女娃称太可爱",
-      "onboard_time": 1759756282,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 629586,
       "num": 629586,
       "word": "收花生找到姥姥丢了12年的金镯",
@@ -248,14 +264,6 @@
       "word": "偶遇贾乃亮买金钞",
       "onboard_time": 1759734621,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 580809,
-      "num": 259662,
-      "word": "王源 马尔代夫",
-      "onboard_time": 1759760123,
-      "rank": 19,
       "category": "艺人"
     },
     {
@@ -555,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 365638,
+      "num": 242269,
+      "word": "周深中俄双语致敬英烈",
+      "onboard_time": 1759762402,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358257,
       "num": 275036,
       "word": "张艺兴鸟巢演唱会巨型画卷",
@@ -713,6 +729,14 @@
       "onboard_time": 1759758744,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283959,
+      "num": 283959,
+      "word": "央视秋晚汶川3分钟太催泪",
+      "onboard_time": 1759762163,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282396,
@@ -1001,14 +1025,6 @@
       "onboard_time": 1759744580,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207600,
-      "num": 207600,
-      "word": "赵今麦在国外美成啥了",
-      "onboard_time": 1759761024,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 207442,
@@ -1483,6 +1499,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161435,
+      "num": 161435,
+      "word": "十个勤天每一句都唱到心上了",
+      "onboard_time": 1759762222,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 160354,
+      "num": 160354,
+      "word": "于适蒋勤勤月光完整版",
+      "onboard_time": 1759763302,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159733,
       "num": 159733,
       "word": "精神病女子替人开公司租车20台",
@@ -1521,6 +1553,14 @@
       "onboard_time": 1759759162,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155811,
+      "num": 155811,
+      "word": "偷偷藏不住中秋节售后",
+      "onboard_time": 1759763302,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 155692,
@@ -1595,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153051,
+      "num": 153051,
+      "word": "石凯回复",
+      "onboard_time": 1759764143,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152218,
       "num": 152218,
       "word": "时代少年团吃完火锅骑自行车回家",
@@ -1649,6 +1697,14 @@
       "onboard_time": 1759729041,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 145855,
+      "num": 145855,
+      "word": "魏哲鸣沈月我的老公老婆同台了",
+      "onboard_time": 1759763602,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 145694,
@@ -1915,6 +1971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128095,
+      "num": 128095,
+      "word": "陈哲远G社生图状态",
+      "onboard_time": 1759763662,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127817,
       "num": 127817,
       "word": "台风麦德姆影响下的湛江",
@@ -2025,6 +2089,14 @@
       "onboard_time": 1759754362,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121486,
+      "num": 121486,
+      "word": "严浩翔做漆扇vlog",
+      "onboard_time": 1759763483,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 120306,
@@ -2435,6 +2507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 104228,
+      "num": 104228,
+      "word": "爱是双向奔赴的",
+      "onboard_time": 1759763961,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103838,
       "num": 103838,
       "word": "一秒黑化还得是影帝",
@@ -2507,6 +2587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101558,
+      "num": 101558,
+      "word": "檀健次路演人气",
+      "onboard_time": 1759763780,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101430,
       "num": 101430,
       "word": "伞兵好丰盛的中秋晚餐",
@@ -2537,6 +2625,14 @@
       "onboard_time": 1759736840,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 100710,
+      "num": 100710,
+      "word": "游客投诉3女1男被安排两标间",
+      "onboard_time": 1759763063,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100251,
@@ -3273,6 +3369,14 @@
       "onboard_time": 1759704436,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52402,
+      "num": 117657,
+      "word": "年轻人把穷游玩明白了",
+      "onboard_time": 1759763423,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51263,
