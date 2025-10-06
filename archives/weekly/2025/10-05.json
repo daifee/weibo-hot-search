@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759746517724,
+  "endTime": 1759747443327,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -547,6 +547,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 528574,
+      "num": 528574,
+      "word": "天门山景区道歉",
+      "onboard_time": 1759744100,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 523746,
       "num": 523746,
       "word": "酒店房顶坍塌时正在办婚礼",
@@ -673,6 +681,14 @@
       "onboard_time": 1759718179,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 451348,
+      "num": 171394,
+      "word": "多名中国公民在澳徒步登山身亡",
+      "onboard_time": 1759746741,
+      "rank": 11,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 451290,
@@ -803,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386277,
+      "num": 253374,
+      "word": "朴树宣布停演",
+      "onboard_time": 1759744941,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 385478,
       "num": 385478,
       "word": "诺贝尔",
@@ -897,6 +921,14 @@
       "onboard_time": 1759732281,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 349970,
+      "num": 256358,
+      "word": "用10000只大闸蟹做了一道菜",
+      "onboard_time": 1759741460,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 346102,
@@ -1051,14 +1083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 319704,
-      "num": 256358,
-      "word": "用10000只大闸蟹做了一道菜",
-      "onboard_time": 1759741460,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 319288,
       "num": 197254,
       "word": "姜涛减肥成功晒露背照",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1759636223,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317758,
+      "num": 233251,
+      "word": "马嘉祺中秋请客剧组了",
+      "onboard_time": 1759746022,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 317064,
@@ -1203,14 +1235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 296278,
-      "num": 296278,
-      "word": "天门山景区道歉",
-      "onboard_time": 1759744100,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 295017,
       "num": 295017,
       "word": "乌称遭俄50枚导弹500架无人机袭击",
@@ -1233,14 +1257,6 @@
       "onboard_time": 1759658903,
       "rank": 28,
       "category": "数码"
-    },
-    {
-      "raw_hot": 288848,
-      "num": 253374,
-      "word": "朴树宣布停演",
-      "onboard_time": 1759744941,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 288815,
@@ -1537,14 +1553,6 @@
       "onboard_time": 1759732822,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 233251,
-      "num": 233251,
-      "word": "马嘉祺中秋请客剧组了",
-      "onboard_time": 1759746022,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 232604,
@@ -2211,6 +2219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 176291,
+      "num": 170579,
+      "word": "吴磊做月饼两小时胡子长出来了",
+      "onboard_time": 1759745421,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175256,
       "num": 175256,
       "word": "伞伞伞伞兵马俑伞伞伞伞",
@@ -2291,6 +2307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171693,
+      "num": 171693,
+      "word": "月亮",
+      "onboard_time": 1759743260,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171676,
       "num": 171676,
       "word": "长生",
@@ -2321,14 +2345,6 @@
       "onboard_time": 1759634300,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170579,
-      "num": 170579,
-      "word": "吴磊做月饼两小时胡子长出来了",
-      "onboard_time": 1759745421,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 170327,
@@ -2601,14 +2617,6 @@
       "onboard_time": 1759644202,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154073,
-      "num": 154073,
-      "word": "月亮",
-      "onboard_time": 1759743260,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153501,
@@ -2956,7 +2964,7 @@
     },
     {
       "raw_hot": 138352,
-      "num": 427689,
+      "num": 504688,
       "word": "航天员晒中秋大餐",
       "onboard_time": 1759716320,
       "rank": 31,
@@ -4035,6 +4043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105944,
+      "num": 105944,
+      "word": "中秋月亮",
+      "onboard_time": 1759747282,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105847,
       "num": 105847,
       "word": "入室抢劫型恋人",
@@ -4307,6 +4323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100251,
+      "num": 100251,
+      "word": "猫猫睡这么直还以为被电了",
+      "onboard_time": 1759746682,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100165,
       "num": 107191,
       "word": "孙颖莎备战决赛",
@@ -4539,6 +4563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94228,
+      "num": 94228,
+      "word": "重庆铜梁龙致歉",
+      "onboard_time": 1759744100,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94015,
       "num": 94015,
       "word": "不想起床但又想摸小狗时",
@@ -4657,6 +4689,14 @@
       "onboard_time": 1759645460,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90914,
+      "num": 90914,
+      "word": "游客地铁谈鸡鸣寺旁边女子破防报警",
+      "onboard_time": 1759746441,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90858,
@@ -6019,6 +6059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12612,
+      "num": 107421,
+      "word": "向鹏祝贺中国队包揽五冠",
+      "onboard_time": 1759746141,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11209,
       "num": 125218,
       "word": "苏超首次引入VAR判罚点球",
@@ -6033,14 +6081,6 @@
       "onboard_time": 1759722440,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9208,
-      "num": 107421,
-      "word": "向鹏祝贺中国队包揽五冠",
-      "onboard_time": 1759746141,
-      "rank": 39,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
