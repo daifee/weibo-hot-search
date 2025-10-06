@@ -1,0 +1,411 @@
+{
+  "startTime": 1759768304738,
+  "endTime": 1759768304738,
+  "band_list": [
+    {
+      "raw_hot": 875249,
+      "num": 134272,
+      "word": "鸡鸣寺",
+      "onboard_time": 1759766000,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 841724,
+      "num": 133732,
+      "word": "鹿晗方将承担机票和酒店产生的损失",
+      "onboard_time": 1759759762,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 703243,
+      "num": 132747,
+      "word": "谢娜 央视主持",
+      "onboard_time": 1759753463,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 640017,
+      "num": 131973,
+      "word": "素颜的刘浩存赵今麦李庚希",
+      "onboard_time": 1759764501,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 552412,
+      "num": 846736,
+      "word": "央视秋晚汶川3分钟太催泪",
+      "onboard_time": 1759762163,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 437330,
+      "num": 131327,
+      "word": "石凯回复",
+      "onboard_time": 1759764143,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 413898,
+      "num": 129055,
+      "word": "赵今麦在国外美成啥了",
+      "onboard_time": 1759761024,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 372514,
+      "num": 130650,
+      "word": "王源 马尔代夫",
+      "onboard_time": 1759760123,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 318525,
+      "num": 130254,
+      "word": "檀健次叶世荣动了谁的DNA",
+      "onboard_time": 1759764741,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 307810,
+      "num": 129355,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1759752565,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 244762,
+      "num": 128219,
+      "word": "周深 三十岁了已经不可爱了",
+      "onboard_time": 1759759463,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 239630,
+      "num": 239630,
+      "word": "月亮",
+      "onboard_time": 1759743260,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233522,
+      "num": 233522,
+      "word": "挪威2万人口小岛因中国游客堵车",
+      "onboard_time": 1759756703,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226918,
+      "num": 126160,
+      "word": "张艺兴演唱会唱了十二月的奇迹",
+      "onboard_time": 1759759042,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 226847,
+      "num": 226847,
+      "word": "最好的睡姿vs最差的睡姿",
+      "onboard_time": 1759748663,
+      "rank": 4,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 222633,
+      "num": 125062,
+      "word": "周深中俄双语致敬英烈",
+      "onboard_time": 1759762402,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 199353,
+      "num": 127414,
+      "word": "唐嫣美成啥了 欧豪也是个神",
+      "onboard_time": 1759755683,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 191973,
+      "num": 127123,
+      "word": "许凯现身机场",
+      "onboard_time": 1759766182,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 168105,
+      "num": 125580,
+      "word": "多名中国公民在澳徒步登山身亡",
+      "onboard_time": 1759746741,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 160752,
+      "num": 124475,
+      "word": "李沁 英气",
+      "onboard_time": 1759764442,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159105,
+      "num": 159105,
+      "word": "诺贝尔奖奖金124年没花完",
+      "onboard_time": 1759749382,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 140778,
+      "num": 140778,
+      "word": "10月6日再逢中秋要等到2063年",
+      "onboard_time": 1759763182,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135525,
+      "num": 135525,
+      "word": "央视中秋晚会",
+      "onboard_time": 1759751482,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135174,
+      "num": 135174,
+      "word": "你牵挂了17年的他们都在好好生活",
+      "onboard_time": 1759766301,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123955,
+      "num": 123955,
+      "word": "偷偷藏不住中秋节售后",
+      "onboard_time": 1759763302,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120369,
+      "num": 120369,
+      "word": "侯佩岑主持央视秋晚",
+      "onboard_time": 1759754544,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 119322,
+      "num": 119322,
+      "word": "王楚钦中国大满贯后发文",
+      "onboard_time": 1759756463,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103256,
+      "num": 103256,
+      "word": "王橹杰中秋祝福",
+      "onboard_time": 1759761383,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 99837,
+      "num": 99837,
+      "word": "王楚钦花式祝中秋快乐",
+      "onboard_time": 1759767619,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97836,
+      "num": 97836,
+      "word": "被困珠峰游客称暴雪闪电中挺过一晚",
+      "onboard_time": 1759766661,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97253,
+      "num": 97253,
+      "word": "许我耀眼",
+      "onboard_time": 1759747642,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 94293,
+      "num": 94293,
+      "word": "韩国疗养院给老人服用大量安眠药",
+      "onboard_time": 1759761624,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93387,
+      "num": 93387,
+      "word": "中秋晚会没有何炅",
+      "onboard_time": 1759754902,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91564,
+      "num": 91564,
+      "word": "王楚钦你扣子扣岔了",
+      "onboard_time": 1759758744,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 88547,
+      "num": 88547,
+      "word": "打卡快乐十一",
+      "onboard_time": 1759761504,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85540,
+      "num": 85540,
+      "word": "月入3万存2万五的真实生活",
+      "onboard_time": 1759740621,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 84277,
+      "num": 84277,
+      "word": "刘一菲cos灵儿",
+      "onboard_time": 1759754544,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 84031,
+      "num": 84031,
+      "word": "时代少年团高会直播",
+      "onboard_time": 1759750644,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 83114,
+      "num": 83114,
+      "word": "30岁长期熬夜有多可怕",
+      "onboard_time": 1759748722,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 82660,
+      "num": 82660,
+      "word": "超级月亮",
+      "onboard_time": 1759753041,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77422,
+      "num": 77422,
+      "word": "游客投诉3女1男被安排两标间",
+      "onboard_time": 1759763063,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74935,
+      "num": 74935,
+      "word": "陈奕恒高会",
+      "onboard_time": 1759759704,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 72964,
+      "num": 72964,
+      "word": "陈哲远G社生图状态",
+      "onboard_time": 1759763662,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 72368,
+      "num": 72368,
+      "word": "愿你心怀皓月步履不停",
+      "onboard_time": 1759765161,
+      "rank": 45,
+      "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 72022,
+      "num": 72022,
+      "word": "闫妮不微醺了",
+      "onboard_time": 1759759943,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 70278,
+      "num": 70278,
+      "word": "打卡最美月亮",
+      "onboard_time": 1759755023,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69286,
+      "num": 69286,
+      "word": "十个勤天每一句都唱到心上了",
+      "onboard_time": 1759762222,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 68623,
+      "num": 68623,
+      "word": "中秋团圆",
+      "onboard_time": 1759766000,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60205,
+      "num": 134684,
+      "word": "央视中秋晚会节目单",
+      "onboard_time": 1759755202,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4029,
+      "num": 235598,
+      "word": "圆圆圆圆中秋圆圆圆圆",
+      "onboard_time": 1759713799,
+      "rank": 2,
+      "category": "国内时政"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#中秋佳节聆听总书记的温暖话语#"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759765254739,
+  "endTime": 1759768304738,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -923,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 875249,
+      "num": 134272,
+      "word": "鸡鸣寺",
+      "onboard_time": 1759766000,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 875218,
       "num": 434000,
       "word": "肖战给自己做了个开水壶蛋糕",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1759379721,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 841724,
+      "num": 254886,
+      "word": "鹿晗方将承担机票和酒店产生的损失",
+      "onboard_time": 1759759762,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 838308,
@@ -1571,6 +1587,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 640017,
+      "num": 162044,
+      "word": "素颜的刘浩存赵今麦李庚希",
+      "onboard_time": 1759764501,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 637256,
       "num": 225986,
       "word": "网传将门毒后确定迪丽热巴",
@@ -1937,6 +1961,14 @@
       "onboard_time": 1759499662,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 552412,
+      "num": 846736,
+      "word": "央视秋晚汶川3分钟太催泪",
+      "onboard_time": 1759762163,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 551875,
@@ -2571,14 +2603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 452104,
-      "num": 254886,
-      "word": "鹿晗方将承担机票和酒店产生的损失",
-      "onboard_time": 1759759762,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 452020,
       "num": 234585,
       "word": "热巴娜扎 新疆双美闪耀巴黎",
@@ -2721,6 +2745,14 @@
       "onboard_time": 1759673004,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 437330,
+      "num": 206641,
+      "word": "石凯回复",
+      "onboard_time": 1759764143,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 434111,
@@ -3008,14 +3040,6 @@
       "word": "网友吐槽顺丰速孕车贴让人不适",
       "onboard_time": 1759240821,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 392023,
-      "num": 392023,
-      "word": "央视秋晚汶川3分钟太催泪",
-      "onboard_time": 1759762163,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -3825,6 +3849,14 @@
       "onboard_time": 1759636223,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 318525,
+      "num": 130254,
+      "word": "檀健次叶世荣动了谁的DNA",
+      "onboard_time": 1759764741,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 318380,
@@ -4777,14 +4809,6 @@
       "onboard_time": 1759559659,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 256378,
-      "num": 206641,
-      "word": "石凯回复",
-      "onboard_time": 1759764143,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 256010,
@@ -6619,6 +6643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191973,
+      "num": 127123,
+      "word": "许凯现身机场",
+      "onboard_time": 1759766182,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191793,
       "num": 191793,
       "word": "谁家男主出场三集就说十句",
@@ -8131,14 +8163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 162044,
-      "num": 162044,
-      "word": "素颜的刘浩存赵今麦李庚希",
-      "onboard_time": 1759764501,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161870,
       "num": 161870,
       "word": "孙子误吃过期月饼奶奶又给过期药",
@@ -9531,6 +9555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 140778,
+      "num": 140778,
+      "word": "10月6日再逢中秋要等到2063年",
+      "onboard_time": 1759763182,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140623,
       "num": 140623,
       "word": "哈马斯称巴勒斯坦人民将继续抵抗",
@@ -10033,6 +10065,14 @@
       "onboard_time": 1759588523,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135174,
+      "num": 135174,
+      "word": "你牵挂了17年的他们都在好好生活",
+      "onboard_time": 1759766301,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135154,
@@ -11265,14 +11305,6 @@
       "onboard_time": 1759609815,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121817,
-      "num": 121817,
-      "word": "檀健次叶世荣动了谁的DNA",
-      "onboard_time": 1759764741,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 121698,
@@ -14347,14 +14379,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 101310,
-      "num": 104327,
-      "word": "10月6日再逢中秋要等到2063年",
-      "onboard_time": 1759763182,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101181,
       "num": 101181,
       "word": "金靖一句话让关晓彤陷入自我怀疑",
@@ -14585,6 +14609,14 @@
       "onboard_time": 1759628359,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99837,
+      "num": 99837,
+      "word": "王楚钦花式祝中秋快乐",
+      "onboard_time": 1759767619,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 99730,
@@ -14865,6 +14897,14 @@
       "onboard_time": 1759569380,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97836,
+      "num": 97836,
+      "word": "被困珠峰游客称暴雪闪电中挺过一晚",
+      "onboard_time": 1759766661,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97810,
@@ -18073,6 +18113,14 @@
       "onboard_time": 1759280899,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68623,
+      "num": 68623,
+      "word": "中秋团圆",
+      "onboard_time": 1759766000,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68537,

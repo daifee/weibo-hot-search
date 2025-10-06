@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/06 23:40:54
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 00:31:44
 </p>
 </blockquote>
 <p>
@@ -705,6 +705,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E9%B8%A3%E5%AF%BA%23" target="weibo">
+鸡鸣寺（热度：875249）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%BB%99%E8%87%AA%E5%B7%B1%E5%81%9A%E4%BA%86%E4%B8%AA%E5%BC%80%E6%B0%B4%E5%A3%B6%E8%9B%8B%E7%B3%95%23" target="weibo">
 肖战给自己做了个开水壶蛋糕（热度：875218）
 </a>
@@ -761,6 +767,12 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E4%BB%A3%E8%B4%AD%E6%AF%8F%E4%BB%BD%E5%8A%A0%E4%BB%B720%E5%85%83%23" target="weibo">
 鸡排哥代购每份加价20元（热度：844329）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%96%B9%E5%B0%86%E6%89%BF%E6%8B%85%E6%9C%BA%E7%A5%A8%E5%92%8C%E9%85%92%E5%BA%97%E4%BA%A7%E7%94%9F%E7%9A%84%E6%8D%9F%E5%A4%B1%23" target="weibo">
+鹿晗方将承担机票和酒店产生的损失（热度：841724）
 </a>
 </li>
 
@@ -1191,6 +1203,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B4%A0%E9%A2%9C%E7%9A%84%E5%88%98%E6%B5%A9%E5%AD%98%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%9D%8E%E5%BA%9A%E5%B8%8C%23" target="weibo">
+素颜的刘浩存赵今麦李庚希（热度：640017）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%E7%A1%AE%E5%AE%9A%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
 网传将门毒后确定迪丽热巴（热度：637256）
 </a>
@@ -1463,6 +1481,12 @@ hi6（热度：563954）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E9%A9%AC%E9%A0%94%E4%B8%8D%E6%98%AF%E4%B8%80%E6%97%B6%E5%A5%BD%E6%98%AF%E7%9C%9F%E7%9A%84%E4%B8%80%E7%9B%B4%E5%A5%BD%23" target="weibo">
 李纯马頔不是一时好是真的一直好（热度：553918）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%A7%8B%E6%99%9A%E6%B1%B6%E5%B7%9D3%E5%88%86%E9%92%9F%E5%A4%AA%E5%82%AC%E6%B3%AA%23" target="weibo">
+央视秋晚汶川3分钟太催泪（热度：552412）
 </a>
 </li>
 
@@ -1941,12 +1965,6 @@ K签证（热度：453444）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%96%B9%E5%B0%86%E6%89%BF%E6%8B%85%E6%9C%BA%E7%A5%A8%E5%92%8C%E9%85%92%E5%BA%97%E4%BA%A7%E7%94%9F%E7%9A%84%E6%8D%9F%E5%A4%B1%23" target="weibo">
-鹿晗方将承担机票和酒店产生的损失（热度：452104）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%B7%B4%E5%A8%9C%E6%89%8E%20%E6%96%B0%E7%96%86%E5%8F%8C%E7%BE%8E%E9%97%AA%E8%80%80%E5%B7%B4%E9%BB%8E%23" target="weibo">
 热巴娜扎 新疆双美闪耀巴黎（热度：452020）
 </a>
@@ -2051,6 +2069,12 @@ K签证（热度：453444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%B4%AF%E5%BE%97%E7%9D%A1%E5%9C%A8%E5%9C%BA%E9%A6%86%23" target="weibo">
 王楚钦累得睡在场馆（热度：437908）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%87%AF%E5%9B%9E%E5%A4%8D%23" target="weibo">
+石凯回复（热度：437330）
 </a>
 </li>
 
@@ -2267,12 +2291,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E9%A1%BA%E4%B8%B0%E9%80%9F%E5%AD%95%E8%BD%A6%E8%B4%B4%E8%AE%A9%E4%BA%BA%E4%B8%8D%E9%80%82%23" target="weibo">
 网友吐槽顺丰速孕车贴让人不适（热度：392946）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%A7%8B%E6%99%9A%E6%B1%B6%E5%B7%9D3%E5%88%86%E9%92%9F%E5%A4%AA%E5%82%AC%E6%B3%AA%23" target="weibo">
-央视秋晚汶川3分钟太催泪（热度：392023）
 </a>
 </li>
 
@@ -2879,6 +2897,12 @@ TF家族（热度：321156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E4%B8%80%E5%A4%A98%E5%9C%BA%E5%A9%9A%E7%A4%BC%E5%85%B1%E7%94%A8%E4%B8%80%E4%B8%AA%E6%8B%B1%E9%97%A8%23" target="weibo">
 酒店一天8场婚礼共用一个拱门（热度：318650）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%8F%B6%E4%B8%96%E8%8D%A3%E5%8A%A8%E4%BA%86%E8%B0%81%E7%9A%84DNA%23" target="weibo">
+檀健次叶世荣动了谁的DNA（热度：318525）
 </a>
 </li>
 
@@ -3593,12 +3617,6 @@ F1（热度：275052）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E9%B9%8F4%E6%AF%943%E9%9B%A8%E6%9E%9C%23" target="weibo">
 向鹏4比3雨果（热度：256458）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%87%AF%E5%9B%9E%E5%A4%8D%23" target="weibo">
-石凯回复（热度：256378）
 </a>
 </li>
 
@@ -4977,6 +4995,12 @@ LOEWE眼光 惠英红就是奢侈品（热度：192315）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E7%8E%B0%E8%BA%AB%E6%9C%BA%E5%9C%BA%23" target="weibo">
+许凯现身机场（热度：191973）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E7%94%B7%E4%B8%BB%E5%87%BA%E5%9C%BA%E4%B8%89%E9%9B%86%E5%B0%B1%E8%AF%B4%E5%8D%81%E5%8F%A5%23" target="weibo">
 谁家男主出场三集就说十句（热度：191793）
 </a>
@@ -5987,30 +6011,6 @@ Dior大秀G社生图（热度：167518）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 鹿晗演唱会（热度：165477）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9E%97%E8%AF%97%E6%A0%8Bvs%E5%BE%90%E7%91%9B%E5%BD%AC%E8%A2%81%E5%8A%B1%E5%B2%91%23" target="weibo">
-王楚钦林诗栋vs徐瑛彬袁励岑（热度：165019）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%BD%A0%E6%8F%90%E5%89%8D%E5%BC%80%E5%A7%8B%E4%B9%B0%E7%A7%8B%E8%A3%85%23" target="weibo">
-不建议你提前开始买秋装（热度：164993）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E5%81%B7%E7%AC%91%23" target="weibo">
-王橹杰偷笑（热度：164889）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BADior%E7%9C%8B%E7%A7%80%E9%80%A0%E5%9E%8B%23" target="weibo">
-邓为Dior看秀造型（热度：164863）
 </a>
 </li>
 
