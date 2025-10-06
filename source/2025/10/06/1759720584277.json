@@ -1,0 +1,410 @@
+{
+  "runTime": 1759720584277,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1328064,
+        "num": 1328064,
+        "word": "只吃水果女子去世前体重仅44斤",
+        "onboard_time": 1759709959,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 632335,
+        "num": 632335,
+        "word": "中秋",
+        "onboard_time": 1759706597,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64431,
+        "num": 540254,
+        "word": "网络中国节",
+        "onboard_time": 1759719379,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489162,
+        "num": 489162,
+        "word": "酒店房顶坍塌时正在办婚礼",
+        "onboard_time": 1759714460,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348950,
+        "num": 348950,
+        "word": "收花生找到姥姥丢了12年的金镯",
+        "onboard_time": 1759711940,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264657,
+        "num": 264657,
+        "word": "樊振东1比3阿吉雷",
+        "onboard_time": 1759707797,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228382,
+        "num": 228382,
+        "word": "王楚钦拼到低血糖",
+        "onboard_time": 1759714219,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226482,
+        "num": 226482,
+        "word": "八国发表联合声明",
+        "onboard_time": 1759709238,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208310,
+        "num": 208310,
+        "word": "张继科说顶级运动员不会享受比赛",
+        "onboard_time": 1759708279,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160186,
+        "num": 208293,
+        "word": "中央气象台同时发布台风暴雨预警",
+        "onboard_time": 1759713559,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 819532,
+        "num": 208274,
+        "word": "尚公主",
+        "onboard_time": 1759716860,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 692550,
+        "num": 208253,
+        "word": "人真不能一直住太差的房子",
+        "onboard_time": 1759715779,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 568375,
+        "num": 208211,
+        "word": "王俊凯工作室修图遗落了个鼻子",
+        "onboard_time": 1759680741,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 453342,
+        "num": 208189,
+        "word": "枭起青壤",
+        "onboard_time": 1759718179,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384852,
+        "num": 208174,
+        "word": "宋祖儿华伦天奴晚宴look",
+        "onboard_time": 1759716260,
+        "rank": 14,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 352040,
+        "num": 208132,
+        "word": "马龙妻子夏露分享跳舞视频",
+        "onboard_time": 1759719321,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282260,
+        "num": 208122,
+        "word": "邱泽希望儿子全像许玮甯",
+        "onboard_time": 1759715779,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216280,
+        "num": 208078,
+        "word": "生命树",
+        "onboard_time": 1759718060,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208072,
+        "num": 208072,
+        "word": "肖战手臂上有伤口",
+        "onboard_time": 1759714519,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207490,
+        "num": 207490,
+        "word": "许我耀眼妍妍接电话名场面来了",
+        "onboard_time": 1759706117,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236146,
+        "num": 207012,
+        "word": "迪丽热巴在张馨予背后叫人的样子",
+        "onboard_time": 1759716681,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197194,
+        "num": 197194,
+        "word": "赵磊说生孩子要尊重qko意愿",
+        "onboard_time": 1759719081,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189160,
+        "num": 189160,
+        "word": "陆毅96年存百元私房钱请鲍蕾吃大餐",
+        "onboard_time": 1759719081,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188253,
+        "num": 188253,
+        "word": "九旬老人将饭店100多斤操作台拖走",
+        "onboard_time": 1759718600,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177004,
+        "num": 177004,
+        "word": "慕胥辞",
+        "onboard_time": 1759717400,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152103,
+        "num": 152103,
+        "word": "莫离",
+        "onboard_time": 1759719199,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147526,
+        "num": 147526,
+        "word": "魔丸见多了老魔丸第一次见",
+        "onboard_time": 1759717579,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145160,
+        "num": 145160,
+        "word": "孟子义分你一半月饼",
+        "onboard_time": 1759719741,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141524,
+        "num": 141524,
+        "word": "逐玉",
+        "onboard_time": 1759718360,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135265,
+        "num": 135265,
+        "word": "百花杀",
+        "onboard_time": 1759715779,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193595,
+        "num": 134590,
+        "word": "巴基斯坦选手喷空气清新剂",
+        "onboard_time": 1759719139,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132651,
+        "num": 132651,
+        "word": "伊朗计划引入北斗卫星导航系统",
+        "onboard_time": 1759718600,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131356,
+        "num": 131356,
+        "word": "人民海军中秋祝福超硬核",
+        "onboard_time": 1759719859,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127817,
+        "num": 127817,
+        "word": "台风麦德姆影响下的湛江",
+        "onboard_time": 1759711459,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 125909,
+        "num": 125909,
+        "word": "肖战回应献唱岁岁年年",
+        "onboard_time": 1759720281,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125067,
+        "num": 125067,
+        "word": "面馆默许高中生插队排队游客发声",
+        "onboard_time": 1759720281,
+        "rank": 35,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 124171,
+        "num": 124171,
+        "word": "中国人研究月球土特产又有新成果",
+        "onboard_time": 1759716320,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119252,
+        "num": 119252,
+        "word": "哈马斯称巴勒斯坦人民将继续抵抗",
+        "onboard_time": 1759715839,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115949,
+        "num": 115949,
+        "word": "王楚钦领跑WTT男单冠军榜",
+        "onboard_time": 1759718960,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112551,
+        "num": 112551,
+        "word": "配眼镜别再只去眼镜店了",
+        "onboard_time": 1759709838,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111005,
+        "num": 111005,
+        "word": "27岁44斤波兰女子去世前已无法翻身",
+        "onboard_time": 1759718839,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107059,
+        "num": 107059,
+        "word": "骄阳似我",
+        "onboard_time": 1759720041,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106975,
+        "num": 106975,
+        "word": "许我耀眼",
+        "onboard_time": 1759718300,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105847,
+        "num": 105847,
+        "word": "入室抢劫型恋人",
+        "onboard_time": 1759718241,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105250,
+        "num": 105250,
+        "word": "美国发生杀人纵火案",
+        "onboard_time": 1759718600,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102566,
+        "num": 102566,
+        "word": "航天员晒中秋大餐",
+        "onboard_time": 1759716320,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102373,
+        "num": 102373,
+        "word": "圆圆圆圆中秋圆圆圆圆",
+        "onboard_time": 1759713799,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98034,
+        "num": 98034,
+        "word": "今后几天雨雨雨雨雨不停",
+        "onboard_time": 1759713681,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95739,
+        "num": 95739,
+        "word": "读了五遍消息不知道怎么回复时",
+        "onboard_time": 1759719019,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94505,
+        "num": 94505,
+        "word": "刘诗诗陈哲远 红气养人",
+        "onboard_time": 1759681700,
+        "rank": 49,
+        "category": "艺人,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#中秋佳节聆听总书记的温暖话语#"
+    }
+  }
+}

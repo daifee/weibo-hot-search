@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759720057800,
+  "endTime": 1759720584277,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -1171,6 +1171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 692550,
+      "num": 213682,
+      "word": "人真不能一直住太差的房子",
+      "onboard_time": 1759715779,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 690662,
       "num": 199033,
       "word": "管乐三连怼祝绪丹",
@@ -1361,14 +1369,6 @@
       "onboard_time": 1759322781,
       "rank": 14,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 638029,
-      "num": 213682,
-      "word": "人真不能一直住太差的房子",
-      "onboard_time": 1759715779,
-      "rank": 19,
-      "category": "幽默"
     },
     {
       "raw_hot": 637256,
@@ -2243,6 +2243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 453342,
+      "num": 212541,
+      "word": "枭起青壤",
+      "onboard_time": 1759718179,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 452020,
       "num": 234585,
       "word": "热巴娜扎 新疆双美闪耀巴黎",
@@ -2441,14 +2449,6 @@
       "onboard_time": 1759488981,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 419944,
-      "num": 212541,
-      "word": "枭起青壤",
-      "onboard_time": 1759718179,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 419822,
@@ -2977,6 +2977,14 @@
       "onboard_time": 1759562539,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352040,
+      "num": 208132,
+      "word": "马龙妻子夏露分享跳舞视频",
+      "onboard_time": 1759719321,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 350271,
@@ -3803,6 +3811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282260,
+      "num": 210987,
+      "word": "邱泽希望儿子全像许玮甯",
+      "onboard_time": 1759715779,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282116,
       "num": 282116,
       "word": "有人出发2天还没到目的地",
@@ -3816,14 +3832,6 @@
       "word": "苏新皓pk",
       "onboard_time": 1759661965,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 280214,
-      "num": 210987,
-      "word": "邱泽希望儿子全像许玮甯",
-      "onboard_time": 1759715779,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -4260,7 +4268,7 @@
     },
     {
       "raw_hot": 251790,
-      "num": 204925,
+      "num": 207012,
       "word": "迪丽热巴在张馨予背后叫人的样子",
       "onboard_time": 1759716681,
       "rank": 39,
@@ -4316,7 +4324,7 @@
     },
     {
       "raw_hot": 248339,
-      "num": 205304,
+      "num": 208072,
       "word": "肖战手臂上有伤口",
       "onboard_time": 1759714519,
       "rank": 13,
@@ -4667,6 +4675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 228382,
+      "num": 228382,
+      "word": "王楚钦拼到低血糖",
+      "onboard_time": 1759714219,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227907,
       "num": 270531,
       "word": "旬阳警方辟谣新郎母亲跳江",
@@ -4721,6 +4737,14 @@
       "onboard_time": 1759711699,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226482,
+      "num": 226482,
+      "word": "八国发表联合声明",
+      "onboard_time": 1759709238,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 225327,
@@ -4859,14 +4883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218611,
-      "num": 218611,
-      "word": "王楚钦拼到低血糖",
-      "onboard_time": 1759714219,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 218550,
       "num": 198290,
       "word": "马頔指导李纯停车",
@@ -4939,20 +4955,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216280,
+      "num": 209889,
+      "word": "生命树",
+      "onboard_time": 1759718060,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216172,
       "num": 216172,
       "word": "AAA建材沈总离婚之我要当榜一大哥",
       "onboard_time": 1759500862,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 215888,
-      "num": 215888,
-      "word": "八国发表联合声明",
-      "onboard_time": 1759709238,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 214855,
@@ -5081,14 +5097,6 @@
       "onboard_time": 1759595780,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 209889,
-      "num": 209889,
-      "word": "生命树",
-      "onboard_time": 1759718060,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 209599,
@@ -5305,14 +5313,6 @@
       "onboard_time": 1759650801,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204348,
-      "num": 204348,
-      "word": "马龙妻子夏露分享跳舞视频",
-      "onboard_time": 1759719321,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 203911,
@@ -5595,6 +5595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197194,
+      "num": 197194,
+      "word": "赵磊说生孩子要尊重qko意愿",
+      "onboard_time": 1759719081,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197088,
       "num": 197088,
       "word": "那英现身LadyGaga演唱会",
@@ -5763,6 +5771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193595,
+      "num": 134641,
+      "word": "巴基斯坦选手喷空气清新剂",
+      "onboard_time": 1759719139,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 193592,
       "num": 193592,
       "word": "艺人坐地起价争议关键在合同合意",
@@ -5923,6 +5939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189160,
+      "num": 189160,
+      "word": "陆毅96年存百元私房钱请鲍蕾吃大餐",
+      "onboard_time": 1759719081,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189105,
       "num": 149988,
       "word": "戒咖啡三个月身体的变化",
@@ -5953,6 +5977,14 @@
       "onboard_time": 1759554320,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188253,
+      "num": 188253,
+      "word": "九旬老人将饭店100多斤操作台拖走",
+      "onboard_time": 1759718600,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187577,
@@ -6219,14 +6251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182145,
-      "num": 134641,
-      "word": "巴基斯坦选手喷空气清新剂",
-      "onboard_time": 1759719139,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 182126,
       "num": 168701,
       "word": "孙颖莎牌扫地机",
@@ -6257,14 +6281,6 @@
       "onboard_time": 1759583182,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 181599,
-      "num": 181599,
-      "word": "九旬老人将饭店100多斤操作台拖走",
-      "onboard_time": 1759718600,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181482,
@@ -7219,14 +7235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 159448,
-      "num": 159448,
-      "word": "赵磊说生孩子要尊重qko意愿",
-      "onboard_time": 1759719081,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 159216,
       "num": 159216,
       "word": "陈都灵巴黎街拍",
@@ -7707,14 +7715,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 149695,
-      "num": 149695,
-      "word": "陆毅96年存百元私房钱请鲍蕾吃大餐",
-      "onboard_time": 1759719081,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149559,
       "num": 149559,
       "word": "李一桐 我那体制内女友",
@@ -8035,6 +8035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145160,
+      "num": 145160,
+      "word": "孟子义分你一半月饼",
+      "onboard_time": 1759719741,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145088,
       "num": 145088,
       "word": "鹿晗又闷声干大事了",
@@ -8265,6 +8273,14 @@
       "onboard_time": 1759494200,
       "rank": 38,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 141524,
+      "num": 141524,
+      "word": "逐玉",
+      "onboard_time": 1759718360,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 141342,
@@ -9099,6 +9115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131356,
+      "num": 131356,
+      "word": "人民海军中秋祝福超硬核",
+      "onboard_time": 1759719859,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 130995,
       "num": 130995,
       "word": "我月薪三千要做这么多事吗",
@@ -9211,14 +9235,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 129819,
-      "num": 129819,
-      "word": "逐玉",
-      "onboard_time": 1759718360,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129794,
       "num": 129794,
       "word": "闫妮魏大勋 国庆最忙的俩人",
@@ -9323,14 +9339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128732,
-      "num": 128732,
-      "word": "孟子义分你一半月饼",
-      "onboard_time": 1759719741,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128557,
       "num": 122864,
       "word": "范丞丞让章若楠穿裙子的愿望实现了",
@@ -9432,6 +9440,14 @@
       "word": "深圳市台风预警信号升级为蓝色",
       "onboard_time": 1759572380,
       "rank": 18,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 127817,
+      "num": 127817,
+      "word": "台风麦德姆影响下的湛江",
+      "onboard_time": 1759711459,
+      "rank": 39,
       "category": "突发/灾害"
     },
     {
@@ -9563,6 +9579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125909,
+      "num": 125909,
+      "word": "肖战回应献唱岁岁年年",
+      "onboard_time": 1759720281,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 125694,
       "num": 249883,
       "word": "长沙街头交警硬核管理外国人",
@@ -9595,20 +9619,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125523,
-      "num": 125523,
-      "word": "台风麦德姆影响下的湛江",
-      "onboard_time": 1759711459,
-      "rank": 39,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 125251,
       "num": 125251,
       "word": "政府食堂20元简餐火了",
       "onboard_time": 1759410502,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125067,
+      "num": 125067,
+      "word": "面馆默许高中生插队排队游客发声",
+      "onboard_time": 1759720281,
+      "rank": 35,
+      "category": "正能量"
     },
     {
       "raw_hot": 125012,
@@ -9665,6 +9689,14 @@
       "onboard_time": 1759299081,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 124171,
+      "num": 124171,
+      "word": "中国人研究月球土特产又有新成果",
+      "onboard_time": 1759716320,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124055,
@@ -9931,14 +9963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120719,
-      "num": 120719,
-      "word": "人民海军中秋祝福超硬核",
-      "onboard_time": 1759719859,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 120703,
       "num": 120703,
       "word": "刘轩丞被路人当成韩国爱豆",
@@ -10009,14 +10033,6 @@
       "onboard_time": 1759497741,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 119675,
-      "num": 119675,
-      "word": "中国人研究月球土特产又有新成果",
-      "onboard_time": 1759716320,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119620,
@@ -11051,6 +11067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 111005,
+      "num": 111005,
+      "word": "27岁44斤波兰女子去世前已无法翻身",
+      "onboard_time": 1759718839,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 110909,
       "num": 110909,
       "word": "万一重生了请记住以下时间节点",
@@ -11611,6 +11635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107059,
+      "num": 107059,
+      "word": "骄阳似我",
+      "onboard_time": 1759720041,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107058,
       "num": 150929,
       "word": "宋亚轩有点太了解迪丽热巴了",
@@ -11793,6 +11825,14 @@
       "onboard_time": 1759309280,
       "rank": 37,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 105847,
+      "num": 105847,
+      "word": "入室抢劫型恋人",
+      "onboard_time": 1759718241,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 105800,
@@ -12041,14 +12081,6 @@
       "onboard_time": 1759400301,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104156,
-      "num": 104156,
-      "word": "27岁44斤波兰女子去世前已无法翻身",
-      "onboard_time": 1759718839,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 104098,
@@ -12865,14 +12897,6 @@
       "onboard_time": 1759569019,
       "rank": 34,
       "category": "情感,运动健身"
-    },
-    {
-      "raw_hot": 98117,
-      "num": 98117,
-      "word": "骄阳似我",
-      "onboard_time": 1759720041,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 98041,
@@ -16051,6 +16075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64431,
+      "num": 540254,
+      "word": "网络中国节",
+      "onboard_time": 1759719379,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64338,
       "num": 64338,
       "word": "塞斯库里加盟勇士",
@@ -16657,14 +16689,6 @@
       "onboard_time": 1759482620,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 51293,
-      "num": 533324,
-      "word": "网络中国节",
-      "onboard_time": 1759719379,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51078,
