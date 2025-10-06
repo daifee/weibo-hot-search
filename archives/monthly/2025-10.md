@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 01:40:14
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 02:36:21
 </p>
 </blockquote>
 <p>
@@ -5193,6 +5193,12 @@ NRG总决赛对阵FNC（热度：190252）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%91%BC%E5%90%81%E4%B8%8D%E8%A6%81%E7%9B%B8%E4%BF%A1%E5%81%87%E6%96%B0%E9%97%BB%23" target="weibo">
+以色列呼吁不要相信假新闻（热度：185023）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%99%BB%E6%B3%B0%E5%B1%B1%E6%98%AF%E8%A2%AB%E4%BA%BA%E6%BD%AE%E4%BC%A0%E9%80%81%E4%B8%8A%E5%8E%BB%E7%9A%84%23" target="weibo">
 女子称登泰山是被人潮传送上去的（热度：184995）
 </a>
@@ -6005,12 +6011,6 @@ Dior大秀G社生图（热度：167518）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%913%E6%AF%941%E6%9E%97%E9%AB%98%E8%BF%9C%23" target="weibo">
 梁靖崑3比1林高远（热度：165635）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%83%A8%E7%94%B5%E5%BD%B1%E6%8A%8A%E6%88%91%E7%9A%84%E7%9C%BC%E7%9D%9B%E5%85%BB%E5%BE%97%E5%BE%88%E5%A5%BD%23" target="weibo">
-这部电影把我的眼睛养得很好（热度：165583）
 </a>
 </li>
 

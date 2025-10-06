@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/07 01:40:14
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/07 02:36:21
 </p>
 </blockquote>
 <p>
@@ -1883,6 +1883,12 @@ NRG总决赛对阵FNC（热度：190252）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%B5%81%E4%BA%86%E5%A4%9A%E5%B0%91%E6%B1%97%23" target="weibo">
 王楚钦流了多少汗（热度：186330）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%91%BC%E5%90%81%E4%B8%8D%E8%A6%81%E7%9B%B8%E4%BF%A1%E5%81%87%E6%96%B0%E9%97%BB%23" target="weibo">
+以色列呼吁不要相信假新闻（热度：185023）
 </a>
 </li>
 
@@ -4407,12 +4413,6 @@ Gumayusi安慰T1粉丝（热度：89526）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%91%BC%E5%90%81%E4%B8%8D%E8%A6%81%E7%9B%B8%E4%BF%A1%E5%81%87%E6%96%B0%E9%97%BB%23" target="weibo">
-以色列呼吁不要相信假新闻（热度：86887）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E8%82%A1%E6%9A%B4%E6%B6%A8%E8%BF%912000%E7%82%B9%23" target="weibo">
 日股暴涨近2000点（热度：86856）
 </a>
@@ -5235,6 +5235,12 @@ WTT中国大满贯冠军城市宣传照（热度：46159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E7%9B%B4%E6%92%AD%E5%B8%A6%E7%B2%89%E4%B8%9D%E4%BA%91%E9%80%9B%E5%B7%B4%E9%BB%8E%23" target="weibo">
+刘宇直播带粉丝云逛巴黎（热度：26046）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%A5%87%E5%A6%99%E6%B8%B8%23" target="weibo">
 中秋奇妙游（热度：25896）
 </a>
@@ -5267,6 +5273,12 @@ WTT中国大满贯冠军城市宣传照（热度：46159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94MAGICMAN2%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94%23" target="weibo">
 王嘉尔MAGICMAN2世界巡演（热度：20034）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%20%E5%BE%B7%E9%98%B3%23" target="weibo">
+央视中秋晚会 德阳（热度：19671）
 </a>
 </li>
 

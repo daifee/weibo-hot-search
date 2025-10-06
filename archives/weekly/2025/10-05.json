@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759772414980,
+  "endTime": 1759775781280,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -2497,6 +2497,14 @@
       "onboard_time": 1759654340,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185023,
+      "num": 185023,
+      "word": "以色列呼吁不要相信假新闻",
+      "onboard_time": 1759768459,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 184236,
@@ -5859,14 +5867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86887,
-      "num": 145177,
-      "word": "以色列呼吁不要相信假新闻",
-      "onboard_time": 1759768459,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 86856,
       "num": 86856,
       "word": "日股暴涨近2000点",
@@ -6963,6 +6963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26046,
+      "num": 33785,
+      "word": "刘宇直播带粉丝云逛巴黎",
+      "onboard_time": 1759774636,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25896,
       "num": 31938,
       "word": "中秋奇妙游",
@@ -7009,6 +7017,14 @@
       "onboard_time": 1759637001,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 19671,
+      "num": 33794,
+      "word": "央视中秋晚会 德阳",
+      "onboard_time": 1759773078,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 19639,

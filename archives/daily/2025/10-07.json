@@ -1,6 +1,6 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759772414980,
+  "endTime": 1759775781280,
   "band_list": [
     {
       "raw_hot": 1047453,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185023,
+      "num": 185023,
+      "word": "以色列呼吁不要相信假新闻",
+      "onboard_time": 1759768459,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 168105,
       "num": 147040,
       "word": "多名中国公民在澳徒步登山身亡",
@@ -289,14 +297,6 @@
       "onboard_time": 1759761504,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86887,
-      "num": 145177,
-      "word": "以色列呼吁不要相信假新闻",
-      "onboard_time": 1759768459,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 85540,
@@ -464,6 +464,22 @@
       "word": "谢娜一本正经",
       "onboard_time": 1759754484,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 26046,
+      "num": 33785,
+      "word": "刘宇直播带粉丝云逛巴黎",
+      "onboard_time": 1759774636,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 19671,
+      "num": 33794,
+      "word": "央视中秋晚会 德阳",
+      "onboard_time": 1759773078,
+      "rank": 39,
       "category": "综艺"
     },
     {
