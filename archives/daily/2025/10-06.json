@@ -1,6 +1,6 @@
 {
   "startTime": 1759681668953,
-  "endTime": 1759742984618,
+  "endTime": 1759743732381,
   "band_list": [
     {
       "raw_hot": 1697422,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 547506,
+      "num": 547506,
+      "word": "丈母娘给新娘喂饺子新郎秒变脸",
+      "onboard_time": 1759739239,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 539641,
       "num": 539641,
       "word": "女子在地铁上因他人说到鸡鸣寺急眼",
@@ -275,12 +283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 395229,
-      "num": 395229,
-      "word": "丈母娘给新娘喂饺子新郎秒变脸",
-      "onboard_time": 1759739239,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 376771,
+      "num": 195122,
+      "word": "鹿晗吉隆坡站横滨站演出取消",
+      "onboard_time": 1759742601,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 354251,
@@ -297,6 +305,14 @@
       "onboard_time": 1759723161,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 330297,
+      "num": 330297,
+      "word": "美军开始焦虑",
+      "onboard_time": 1759738760,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 320189,
@@ -355,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293837,
+      "num": 196505,
+      "word": "月入3万存2万五的真实生活",
+      "onboard_time": 1759740621,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 292726,
       "num": 158679,
       "word": "马思纯掀桌了",
@@ -369,14 +393,6 @@
       "onboard_time": 1759670724,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 290345,
-      "num": 290345,
-      "word": "美军开始焦虑",
-      "onboard_time": 1759738760,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 286717,
@@ -499,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236494,
+      "num": 236494,
+      "word": "俄罗斯强烈谴责美军",
+      "onboard_time": 1759742842,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 234611,
       "num": 234611,
       "word": "wtt",
@@ -580,7 +604,7 @@
     },
     {
       "raw_hot": 211489,
-      "num": 138671,
+      "num": 159526,
       "word": "用10000只大闸蟹做了一道菜",
       "onboard_time": 1759741460,
       "rank": 30,
@@ -617,14 +641,6 @@
       "onboard_time": 1759680980,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202743,
-      "num": 195122,
-      "word": "鹿晗吉隆坡站横滨站演出取消",
-      "onboard_time": 1759742601,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 201410,
@@ -713,14 +729,6 @@
       "onboard_time": 1759719139,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 191684,
-      "num": 191684,
-      "word": "月入3万存2万五的真实生活",
-      "onboard_time": 1759740621,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 189425,
@@ -867,14 +875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172096,
-      "num": 216513,
-      "word": "俄罗斯强烈谴责美军",
-      "onboard_time": 1759742842,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 171155,
       "num": 157232,
       "word": "G社拍的马柏全宋祖儿",
@@ -1017,6 +1017,14 @@
       "onboard_time": 1759737380,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150124,
+      "num": 150124,
+      "word": "租客月租1400中介交给房东2500",
+      "onboard_time": 1759742842,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148900,
@@ -1507,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106529,
+      "num": 106529,
+      "word": "脾气不好的人吃不了这个",
+      "onboard_time": 1759740440,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106389,
       "num": 106389,
       "word": "孙颖莎14冠王楚钦11冠",
@@ -1545,6 +1561,14 @@
       "onboard_time": 1759716260,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105159,
+      "num": 105159,
+      "word": "王青 音乐节",
+      "onboard_time": 1759743500,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 103838,
@@ -1603,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101074,
+      "num": 101074,
+      "word": "100块和1000块美甲的区别",
+      "onboard_time": 1759740501,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 101048,
       "num": 101048,
       "word": "涨涨涨涨黄金涨涨涨涨",
@@ -1617,6 +1649,14 @@
       "onboard_time": 1759725260,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99628,
+      "num": 99628,
+      "word": "好利来回应节后未售完月饼如何处理",
+      "onboard_time": 1759742781,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98263,
@@ -1673,22 +1713,6 @@
       "onboard_time": 1759731500,
       "rank": 34,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 95467,
-      "num": 95467,
-      "word": "好利来回应节后未售完月饼如何处理",
-      "onboard_time": 1759742781,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95191,
-      "num": 95191,
-      "word": "租客月租1400中介交给房东2500",
-      "onboard_time": 1759742842,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95033,
@@ -1779,20 +1803,20 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 90996,
-      "num": 90996,
-      "word": "100块和1000块美甲的区别",
-      "onboard_time": 1759740501,
-      "rank": 48,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 90858,
       "num": 90858,
       "word": "可能会伤害视力的零食",
       "onboard_time": 1759726101,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 90787,
+      "num": 90787,
+      "word": "月亮",
+      "onboard_time": 1759743260,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90783,
@@ -1947,6 +1971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83286,
+      "num": 83286,
+      "word": "丞磊莫离杀青",
+      "onboard_time": 1759743682,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83065,
       "num": 83065,
       "word": "麦当劳是不是给我装监控了",
@@ -1984,6 +2016,14 @@
       "word": "妈妈回应儿子跪地拦车救自己",
       "onboard_time": 1759730301,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80638,
+      "num": 99716,
+      "word": "广东一夫妇长得像复制粘贴",
+      "onboard_time": 1759743380,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2033,6 +2073,14 @@
       "onboard_time": 1759679661,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 78195,
+      "num": 100003,
+      "word": "李沁这口音也太对味了",
+      "onboard_time": 1759743021,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 77364,
@@ -2377,6 +2425,14 @@
       "onboard_time": 1759741400,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33341,
+      "num": 100690,
+      "word": "陶喆说最舒服的状态就是松弛",
+      "onboard_time": 1759743260,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 31627,

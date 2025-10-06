@@ -1,0 +1,410 @@
+{
+  "runTime": 1759743732381,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 745422,
+        "num": 1119267,
+        "word": "新婚三金五金成金店爆款",
+        "onboard_time": 1759739001,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 547506,
+        "num": 547506,
+        "word": "丈母娘给新娘喂饺子新郎秒变脸",
+        "onboard_time": 1759739239,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39731,
+        "num": 333282,
+        "word": "航天员晒中秋大餐",
+        "onboard_time": 1759716320,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 330297,
+        "num": 330297,
+        "word": "美军开始焦虑",
+        "onboard_time": 1759738760,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 311095,
+        "num": 311095,
+        "word": "小孩哥用通缉令上证件号认证游戏",
+        "onboard_time": 1759725021,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298314,
+        "num": 298314,
+        "word": "中秋",
+        "onboard_time": 1759706597,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251055,
+        "num": 251055,
+        "word": "JDG对战DK",
+        "onboard_time": 1759738461,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 236494,
+        "num": 236494,
+        "word": "俄罗斯强烈谴责美军",
+        "onboard_time": 1759742842,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233188,
+        "num": 233188,
+        "word": "河南一景区演员上演仙女散花",
+        "onboard_time": 1759737261,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196935,
+        "num": 196935,
+        "word": "卖不完的月饼都去哪儿了",
+        "onboard_time": 1759732822,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 579616,
+        "num": 196903,
+        "word": "关晓彤美黑",
+        "onboard_time": 1759722319,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429271,
+        "num": 196822,
+        "word": "翁青雅回应签公司",
+        "onboard_time": 1759740380,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 423042,
+        "num": 196709,
+        "word": "鹿晗新壁纸",
+        "onboard_time": 1759730601,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316724,
+        "num": 196608,
+        "word": "张馨予照片是迪丽热巴拍的吧",
+        "onboard_time": 1759739482,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293837,
+        "num": 196505,
+        "word": "月入3万存2万五的真实生活",
+        "onboard_time": 1759740621,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204969,
+        "num": 196488,
+        "word": "第几次亲嘴12秒翻面3次啊",
+        "onboard_time": 1759725501,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196399,
+        "num": 196399,
+        "word": "偶遇贾乃亮买金钞",
+        "onboard_time": 1759734621,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376771,
+        "num": 193754,
+        "word": "鹿晗吉隆坡站横滨站演出取消",
+        "onboard_time": 1759742601,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167108,
+        "num": 167108,
+        "word": "原来马思纯说的这个人是杨紫",
+        "onboard_time": 1759735220,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37594,
+        "num": 162644,
+        "word": "路上生明月的浪漫谁懂啊",
+        "onboard_time": 1759741400,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 176323,
+        "num": 161580,
+        "word": "只吃水果女子去世前体重仅44斤",
+        "onboard_time": 1759709959,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159526,
+        "num": 159526,
+        "word": "用10000只大闸蟹做了一道菜",
+        "onboard_time": 1759741460,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153200,
+        "num": 153200,
+        "word": "伞伞伞伞兵马俑伞伞伞伞",
+        "onboard_time": 1759737920,
+        "rank": 22,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 150919,
+        "num": 150919,
+        "word": "姜涛减肥成功晒露背照",
+        "onboard_time": 1759735580,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150124,
+        "num": 150124,
+        "word": "租客月租1400中介交给房东2500",
+        "onboard_time": 1759742842,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133979,
+        "num": 133979,
+        "word": "无痛真性分手",
+        "onboard_time": 1759739420,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130411,
+        "num": 130411,
+        "word": "王安宇 不要问人家这种问题",
+        "onboard_time": 1759732040,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121421,
+        "num": 121421,
+        "word": "胡定欣官宣结婚",
+        "onboard_time": 1759722260,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109533,
+        "num": 109533,
+        "word": "总台秋晚节目单发布",
+        "onboard_time": 1759735639,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108148,
+        "num": 108148,
+        "word": "美国19岁女生车祸丧生家属追责特斯拉",
+        "onboard_time": 1759733241,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106529,
+        "num": 106529,
+        "word": "脾气不好的人吃不了这个",
+        "onboard_time": 1759740440,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106186,
+        "num": 106186,
+        "word": "蒋一侨爸爸一天给女儿打七八个电话",
+        "onboard_time": 1759737620,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104290,
+        "num": 106140,
+        "word": "檀健次跟骗子唠了5分钟",
+        "onboard_time": 1759741581,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 106121,
+        "num": 106121,
+        "word": "许我耀眼黑皮律师上桌了",
+        "onboard_time": 1759736902,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105159,
+        "num": 105159,
+        "word": "王青 音乐节",
+        "onboard_time": 1759743500,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101074,
+        "num": 101074,
+        "word": "100块和1000块美甲的区别",
+        "onboard_time": 1759740501,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 41395,
+        "num": 100968,
+        "word": "被人类高质量对谈治愈了",
+        "onboard_time": 1759739600,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 33341,
+        "num": 100690,
+        "word": "陶喆说最舒服的状态就是松弛",
+        "onboard_time": 1759743260,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78195,
+        "num": 100003,
+        "word": "李沁这口音也太对味了",
+        "onboard_time": 1759743021,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80638,
+        "num": 99716,
+        "word": "广东一夫妇长得像复制粘贴",
+        "onboard_time": 1759743380,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99628,
+        "num": 99628,
+        "word": "好利来回应节后未售完月饼如何处理",
+        "onboard_time": 1759742781,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90787,
+        "num": 90787,
+        "word": "月亮",
+        "onboard_time": 1759743260,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89354,
+        "num": 89354,
+        "word": "人类在中医面前毫无秘密可言",
+        "onboard_time": 1759732281,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84074,
+        "num": 84074,
+        "word": "鸡排哥的疲惫肉眼可见",
+        "onboard_time": 1759742301,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88499,
+        "num": 83928,
+        "word": "时代少年团吃完火锅骑自行车回家",
+        "onboard_time": 1759737380,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83671,
+        "num": 83671,
+        "word": "婚庆类一口价黄金销售走俏",
+        "onboard_time": 1759740921,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83286,
+        "num": 83286,
+        "word": "丞磊莫离杀青",
+        "onboard_time": 1759743682,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82945,
+        "num": 82945,
+        "word": "卢昱晓新剧评论区",
+        "onboard_time": 1759738820,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82588,
+        "num": 82588,
+        "word": "白敬亭跳着跳着跳进王安宇怀里了",
+        "onboard_time": 1759739239,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82022,
+        "num": 82022,
+        "word": "翁青雅签公司了",
+        "onboard_time": 1759726581,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻中华文明#"
+    }
+  }
+}
