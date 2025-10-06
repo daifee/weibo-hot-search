@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759790360703,
+  "endTime": 1759792980821,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -788,7 +788,7 @@
     },
     {
       "raw_hot": 492489,
-      "num": 492489,
+      "num": 762262,
       "word": "挪威2万人口小岛因中国游客堵车",
       "onboard_time": 1759756703,
       "rank": 18,
@@ -2387,6 +2387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191839,
+      "num": 458055,
+      "word": "景区称捡板栗壳冲突事件已处理完毕",
+      "onboard_time": 1759776555,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191362,
       "num": 115741,
       "word": "微信里的钱包一定要上锁",
@@ -3195,14 +3203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154077,
-      "num": 458055,
-      "word": "景区称捡板栗壳冲突事件已处理完毕",
-      "onboard_time": 1759776555,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153501,
       "num": 153501,
       "word": "长期不用的银行卡一定要注销",
@@ -3625,6 +3625,14 @@
       "onboard_time": 1759663582,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137417,
+      "num": 137417,
+      "word": "特朗普称美国本可轻松赢得越战",
+      "onboard_time": 1759769718,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 137045,
@@ -5355,6 +5363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98802,
+      "num": 44854,
+      "word": "闫妮端庄到不像她",
+      "onboard_time": 1759785195,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98789,
       "num": 98789,
       "word": "获救者回应60岁老人救人不幸溺亡",
@@ -6067,6 +6083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80867,
+      "num": 72009,
+      "word": "费玉清经纪人严正声明",
+      "onboard_time": 1759790235,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80695,
       "num": 600452,
       "word": "国庆档10亿大项目你参与了吗",
@@ -6291,14 +6315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68956,
-      "num": 72829,
-      "word": "特朗普称美国本可轻松赢得越战",
-      "onboard_time": 1759769718,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 67068,
       "num": 93162,
       "word": "王楚钦说身兼三项消耗超出自己想象",
@@ -6337,6 +6353,14 @@
       "onboard_time": 1759713318,
       "rank": 49,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 66704,
+      "num": 66704,
+      "word": "女子被假冒费玉清骗走上千万",
+      "onboard_time": 1759792096,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66455,
@@ -6651,14 +6675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51260,
-      "num": 28790,
-      "word": "闫妮端庄到不像她",
-      "onboard_time": 1759785195,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 50627,
       "num": 124169,
       "word": "什么家庭李昀锐8个字夸了16遍",
@@ -6763,6 +6779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43238,
+      "num": 43238,
+      "word": "网友巴西遭抢劫电脑为其挡一枪",
+      "onboard_time": 1759777934,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 42572,
       "num": 83479,
       "word": "男子骑车偷狗摔倒都不松手",
@@ -6771,12 +6795,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42071,
+      "num": 42071,
+      "word": "这种运动不累还能暴击脂肪",
+      "onboard_time": 1759792277,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 41886,
       "num": 44474,
       "word": "果然任何动物车坐久了都会憔悴",
       "onboard_time": 1759618877,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 41750,
+      "num": 41750,
+      "word": "原来我一直没有被爱过",
+      "onboard_time": 1759792397,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 41240,
@@ -6793,6 +6833,22 @@
       "onboard_time": 1759619778,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 39963,
+      "num": 39963,
+      "word": "丁程鑫去看了张艺兴演唱会",
+      "onboard_time": 1759792876,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 39526,
+      "num": 39526,
+      "word": "8号我要陪许妍去离婚",
+      "onboard_time": 1759792817,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 39043,
@@ -6859,6 +6915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34727,
+      "num": 38845,
+      "word": "那艺娜目前无法下地将进行手术",
+      "onboard_time": 1759777875,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33341,
       "num": 108936,
       "word": "陶喆说最舒服的状态就是松弛",
@@ -6915,6 +6979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31058,
+      "num": 38834,
+      "word": "今年已有多名艺人在景区再就业",
+      "onboard_time": 1759792876,
+      "rank": 46,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 30589,
       "num": 44626,
       "word": "9月A股市场成交额刷新历史纪录",
@@ -6953,14 +7025,6 @@
       "onboard_time": 1759736061,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28540,
-      "num": 28185,
-      "word": "那艺娜目前无法下地将进行手术",
-      "onboard_time": 1759777875,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 27753,
@@ -7009,14 +7073,6 @@
       "onboard_time": 1759688655,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25282,
-      "num": 27210,
-      "word": "网友巴西遭抢劫电脑为其挡一枪",
-      "onboard_time": 1759777934,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 25185,
@@ -7075,20 +7131,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20679,
+      "num": 41810,
+      "word": "央视中秋晚会 德阳",
+      "onboard_time": 1759773078,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20034,
       "num": 436598,
       "word": "王嘉尔MAGICMAN2世界巡演",
       "onboard_time": 1759637001,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 19671,
-      "num": 33794,
-      "word": "央视中秋晚会 德阳",
-      "onboard_time": 1759773078,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 19639,
@@ -7161,14 +7217,6 @@
       "onboard_time": 1759698254,
       "rank": 48,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 14191,
-      "num": 27095,
-      "word": "费玉清经纪人严正声明",
-      "onboard_time": 1759790235,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 13882,

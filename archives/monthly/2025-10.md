@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 06:39:20
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 07:23:00
 </p>
 </blockquote>
 <p>
@@ -5007,6 +5007,12 @@ LOEWE眼光 惠英红就是奢侈品（热度：192315）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E7%A7%B0%E6%8D%A1%E6%9D%BF%E6%A0%97%E5%A3%B3%E5%86%B2%E7%AA%81%E4%BA%8B%E4%BB%B6%E5%B7%B2%E5%A4%84%E7%90%86%E5%AE%8C%E6%AF%95%23" target="weibo">
+景区称捡板栗壳冲突事件已处理完毕（热度：191839）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E7%94%B7%E4%B8%BB%E5%87%BA%E5%9C%BA%E4%B8%89%E9%9B%86%E5%B0%B1%E8%AF%B4%E5%8D%81%E5%8F%A5%23" target="weibo">
 谁家男主出场三集就说十句（热度：191793）
 </a>
@@ -6005,12 +6011,6 @@ Dior大秀G社生图（热度：167518）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E5%8D%A1%E6%9C%80%E7%BE%8E%E6%9C%88%E4%BA%AE%23" target="weibo">
 打卡最美月亮（热度：165667）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%913%E6%AF%941%E6%9E%97%E9%AB%98%E8%BF%9C%23" target="weibo">
-梁靖崑3比1林高远（热度：165635）
 </a>
 </li>
 

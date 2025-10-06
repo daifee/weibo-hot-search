@@ -1,6 +1,6 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759790360703,
+  "endTime": 1759792980821,
   "band_list": [
     {
       "raw_hot": 1047453,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336623,
+      "num": 762262,
+      "word": "挪威2万人口小岛因中国游客堵车",
+      "onboard_time": 1759756703,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318525,
       "num": 175563,
       "word": "檀健次叶世荣动了谁的DNA",
@@ -91,19 +99,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 243558,
+      "num": 147040,
+      "word": "多名中国公民在澳徒步登山身亡",
+      "onboard_time": 1759746741,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 239630,
       "num": 239630,
       "word": "月亮",
       "onboard_time": 1759743260,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 233522,
-      "num": 233522,
-      "word": "挪威2万人口小岛因中国游客堵车",
-      "onboard_time": 1759756703,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -155,19 +163,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191839,
+      "num": 458055,
+      "word": "景区称捡板栗壳冲突事件已处理完毕",
+      "onboard_time": 1759776555,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185023,
       "num": 185023,
       "word": "以色列呼吁不要相信假新闻",
       "onboard_time": 1759768459,
       "rank": 36,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 168105,
-      "num": 147040,
-      "word": "多名中国公民在澳徒步登山身亡",
-      "onboard_time": 1759746741,
-      "rank": 23,
       "category": "海外新闻"
     },
     {
@@ -187,20 +195,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 154077,
-      "num": 458055,
-      "word": "景区称捡板栗壳冲突事件已处理完毕",
-      "onboard_time": 1759776555,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152229,
       "num": 173712,
       "word": "被困珠峰游客称暴雪闪电中挺过一晚",
       "onboard_time": 1759766661,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137417,
+      "num": 137417,
+      "word": "特朗普称美国本可轻松赢得越战",
+      "onboard_time": 1759769718,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135525,
@@ -267,12 +275,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98802,
+      "num": 44854,
+      "word": "闫妮端庄到不像她",
+      "onboard_time": 1759785195,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 98271,
+      "num": 145278,
+      "word": "中秋晚会没有何炅",
+      "onboard_time": 1759754902,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97253,
       "num": 145477,
       "word": "许我耀眼",
       "onboard_time": 1759747642,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95473,
+      "num": 145394,
+      "word": "打卡快乐十一",
+      "onboard_time": 1759761504,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94293,
@@ -283,28 +315,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 93387,
-      "num": 145278,
-      "word": "中秋晚会没有何炅",
-      "onboard_time": 1759754902,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 91564,
       "num": 91564,
       "word": "王楚钦你扣子扣岔了",
       "onboard_time": 1759758744,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90620,
-      "num": 145394,
-      "word": "打卡快乐十一",
-      "onboard_time": 1759761504,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85540,
@@ -353,6 +369,14 @@
       "onboard_time": 1759753041,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80867,
+      "num": 72009,
+      "word": "费玉清经纪人严正声明",
+      "onboard_time": 1759790235,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 77422,
@@ -411,12 +435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 68956,
-      "num": 72829,
-      "word": "特朗普称美国本可轻松赢得越战",
-      "onboard_time": 1759769718,
-      "rank": 35,
-      "category": "国际时政"
+      "raw_hot": 66704,
+      "num": 66704,
+      "word": "女子被假冒费玉清骗走上千万",
+      "onboard_time": 1759792096,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60205,
@@ -435,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 51260,
-      "num": 28790,
-      "word": "闫妮端庄到不像她",
-      "onboard_time": 1759785195,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 50020,
       "num": 72751,
       "word": "2025国庆档票房破15亿",
@@ -459,12 +475,52 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43238,
+      "num": 43238,
+      "word": "网友巴西遭抢劫电脑为其挡一枪",
+      "onboard_time": 1759777934,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42071,
+      "num": 42071,
+      "word": "这种运动不累还能暴击脂肪",
+      "onboard_time": 1759792277,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 41750,
+      "num": 41750,
+      "word": "原来我一直没有被爱过",
+      "onboard_time": 1759792397,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 41240,
       "num": 66375,
       "word": "鹿晗演唱会",
       "onboard_time": 1759771697,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 39963,
+      "num": 39963,
+      "word": "丁程鑫去看了张艺兴演唱会",
+      "onboard_time": 1759792876,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 39526,
+      "num": 39526,
+      "word": "8号我要陪许妍去离婚",
+      "onboard_time": 1759792817,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 38644,
@@ -483,6 +539,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34727,
+      "num": 38845,
+      "word": "那艺娜目前无法下地将进行手术",
+      "onboard_time": 1759777875,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 31058,
+      "num": 38834,
+      "word": "今年已有多名艺人在景区再就业",
+      "onboard_time": 1759792876,
+      "rank": 46,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 29150,
       "num": 27856,
       "word": "张艺兴五巡闹天宫",
@@ -491,28 +563,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28540,
-      "num": 28185,
-      "word": "那艺娜目前无法下地将进行手术",
-      "onboard_time": 1759777875,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 26046,
       "num": 33785,
       "word": "刘宇直播带粉丝云逛巴黎",
       "onboard_time": 1759774636,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25282,
-      "num": 27210,
-      "word": "网友巴西遭抢劫电脑为其挡一枪",
-      "onboard_time": 1759777934,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 23679,
@@ -539,8 +595,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19671,
-      "num": 33794,
+      "raw_hot": 20679,
+      "num": 41810,
       "word": "央视中秋晚会 德阳",
       "onboard_time": 1759773078,
       "rank": 39,
@@ -561,14 +617,6 @@
       "onboard_time": 1759783215,
       "rank": 49,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 14191,
-      "num": 27095,
-      "word": "费玉清经纪人严正声明",
-      "onboard_time": 1759790235,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 11132,
