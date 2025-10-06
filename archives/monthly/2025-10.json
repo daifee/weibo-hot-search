@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759755172713,
+  "endTime": 1759756004006,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -43,6 +43,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2638790,
+      "num": 225314,
+      "word": "谢娜 央视主持",
+      "onboard_time": 1759753463,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2572562,
       "num": 2572562,
       "word": "王楚钦3冠王",
@@ -73,14 +81,6 @@
       "onboard_time": 1759658783,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2185769,
-      "num": 213815,
-      "word": "谢娜 央视主持",
-      "onboard_time": 1759753463,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 2087689,
@@ -1563,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 629098,
+      "num": 225222,
+      "word": "谢娜一本正经",
+      "onboard_time": 1759754484,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 628788,
       "num": 238126,
       "word": "张维伊回应继女改口",
@@ -2036,7 +2044,7 @@
     },
     {
       "raw_hot": 528962,
-      "num": 213481,
+      "num": 224686,
       "word": "张艺兴演唱会",
       "onboard_time": 1759752565,
       "rank": 12,
@@ -2179,6 +2187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 505052,
+      "num": 505052,
+      "word": "央视中秋晚会节目单",
+      "onboard_time": 1759755202,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 502234,
       "num": 502234,
       "word": "意大利宣布不再为加沙救援船队护航",
@@ -2201,6 +2217,14 @@
       "onboard_time": 1759293922,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 499954,
+      "num": 224300,
+      "word": "沈月真从天而降",
+      "onboard_time": 1759753883,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 499722,
@@ -2348,7 +2372,7 @@
     },
     {
       "raw_hot": 477899,
-      "num": 213149,
+      "num": 224147,
       "word": "时代少年团高会直播",
       "onboard_time": 1759750644,
       "rank": 13,
@@ -2692,7 +2716,7 @@
     },
     {
       "raw_hot": 423420,
-      "num": 213004,
+      "num": 223677,
       "word": "杨博文扫腿舞 诡异如ai",
       "onboard_time": 1759751723,
       "rank": 14,
@@ -3243,6 +3267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357850,
+      "num": 223491,
+      "word": "侯佩岑主持央视秋晚",
+      "onboard_time": 1759754544,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356347,
       "num": 194017,
       "word": "男子身家千万因无子被骂哭了一夜",
@@ -3376,14 +3408,6 @@
       "word": "我家那闺女",
       "onboard_time": 1759642401,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 344944,
-      "num": 212754,
-      "word": "沈月真从天而降",
-      "onboard_time": 1759753883,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -3697,6 +3721,14 @@
       "onboard_time": 1759457419,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 318258,
+      "num": 223336,
+      "word": "MiuMiu巴黎时装周",
+      "onboard_time": 1759753642,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 318182,
@@ -4299,6 +4331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 276649,
+      "num": 222338,
+      "word": "刘一菲cos灵儿",
+      "onboard_time": 1759754544,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276544,
       "num": 227736,
       "word": "罗意威大秀",
@@ -4345,6 +4385,14 @@
       "onboard_time": 1759500743,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274562,
+      "num": 222149,
+      "word": "中秋晚会没有何炅",
+      "onboard_time": 1759754902,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 273915,
@@ -4529,14 +4577,6 @@
       "onboard_time": 1759465099,
       "rank": 25,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 261685,
-      "num": 212459,
-      "word": "MiuMiu巴黎时装周",
-      "onboard_time": 1759753642,
-      "rank": 17,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 261681,
@@ -4801,14 +4841,6 @@
       "onboard_time": 1759573580,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 246307,
-      "num": 211954,
-      "word": "谢娜一本正经",
-      "onboard_time": 1759754484,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 245836,
@@ -5323,6 +5355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222063,
+      "num": 222063,
+      "word": "唐嫣好甜",
+      "onboard_time": 1759755503,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221948,
       "num": 221948,
       "word": "周也dior看秀造型",
@@ -5609,14 +5649,6 @@
       "onboard_time": 1759501282,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211593,
-      "num": 211593,
-      "word": "侯佩岑主持央视秋晚",
-      "onboard_time": 1759754544,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 211056,
@@ -5961,6 +5993,14 @@
       "onboard_time": 1759408343,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201633,
+      "num": 201633,
+      "word": "唐嫣美成啥了 欧豪也是个神",
+      "onboard_time": 1759755683,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 201331,
@@ -6939,14 +6979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180259,
-      "num": 180259,
-      "word": "刘一菲cos灵儿",
-      "onboard_time": 1759754544,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 180081,
       "num": 180081,
       "word": "胡先煦王彦霖现场为陈立农庆生",
@@ -7051,6 +7083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177127,
+      "num": 177127,
+      "word": "赵今麦刘浩存李庚希时装周造型",
+      "onboard_time": 1759751122,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 176663,
       "num": 176663,
       "word": "周迅的白发好优雅",
@@ -7153,14 +7193,6 @@
       "onboard_time": 1759721480,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174693,
-      "num": 174693,
-      "word": "赵今麦刘浩存李庚希时装周造型",
-      "onboard_time": 1759751122,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 174679,
@@ -7667,6 +7699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165667,
+      "num": 170789,
+      "word": "打卡最美月亮",
+      "onboard_time": 1759755023,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165635,
       "num": 165635,
       "word": "梁靖崑3比1林高远",
@@ -7923,6 +7963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159733,
+      "num": 159733,
+      "word": "精神病女子替人开公司租车20台",
+      "onboard_time": 1759749622,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159648,
       "num": 159648,
       "word": "王曼昱11比3张本美和",
@@ -8019,14 +8067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158477,
-      "num": 158477,
-      "word": "精神病女子替人开公司租车20台",
-      "onboard_time": 1759749622,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158195,
       "num": 158195,
       "word": "原来扛事的性格是这样培养出来的",
@@ -8049,14 +8089,6 @@
       "onboard_time": 1759581740,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157916,
-      "num": 157916,
-      "word": "打卡最美月亮",
-      "onboard_time": 1759755023,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157752,
@@ -8971,14 +9003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143403,
-      "num": 143403,
-      "word": "中秋晚会没有何炅",
-      "onboard_time": 1759754902,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143341,
       "num": 143341,
       "word": "韦雪妹妹回应do脸",
@@ -9561,6 +9585,14 @@
       "onboard_time": 1759311740,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136637,
+      "num": 136637,
+      "word": "荷兰约25万人抗议示威",
+      "onboard_time": 1759754063,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 136397,
@@ -11459,14 +11491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116387,
-      "num": 116387,
-      "word": "荷兰约25万人抗议示威",
-      "onboard_time": 1759754063,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 116381,
       "num": 116381,
       "word": "许我耀眼花海海报",
@@ -11545,6 +11569,14 @@
       "onboard_time": 1759745781,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115777,
+      "num": 115777,
+      "word": "原神",
+      "onboard_time": 1759755863,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 115773,
@@ -12467,6 +12499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109510,
+      "num": 109510,
+      "word": "张雨绮素颜主打一个真实",
+      "onboard_time": 1759755562,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109462,
       "num": 109462,
       "word": "何晟铭从手滑到首发",
@@ -12897,6 +12937,14 @@
       "onboard_time": 1759293380,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106964,
+      "num": 106964,
+      "word": "如果你觉得国庆这8天很短",
+      "onboard_time": 1759752743,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 106925,
@@ -13657,6 +13705,14 @@
       "onboard_time": 1759483100,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 102298,
+      "num": 102298,
+      "word": "易烊千玺 有人正在挂念你",
+      "onboard_time": 1759755983,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 102262,

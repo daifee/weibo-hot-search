@@ -1,21 +1,21 @@
 {
   "startTime": 1759681668953,
-  "endTime": 1759755172713,
+  "endTime": 1759756004006,
   "band_list": [
+    {
+      "raw_hot": 2638790,
+      "num": 225314,
+      "word": "谢娜 央视主持",
+      "onboard_time": 1759753463,
+      "rank": 10,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2464062,
       "num": 2464062,
       "word": "央视中秋晚会",
       "onboard_time": 1759751482,
       "rank": 0,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 2185769,
-      "num": 213815,
-      "word": "谢娜 央视主持",
-      "onboard_time": 1759753463,
-      "rank": 10,
       "category": "综艺"
     },
     {
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 629098,
+      "num": 225222,
+      "word": "谢娜一本正经",
+      "onboard_time": 1759754484,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 605032,
       "num": 203177,
       "word": "偶遇贾乃亮买金钞",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 528962,
-      "num": 213481,
+      "num": 224686,
       "word": "张艺兴演唱会",
       "onboard_time": 1759752565,
       "rank": 12,
@@ -281,6 +289,22 @@
       "onboard_time": 1759708279,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 505052,
+      "num": 505052,
+      "word": "央视中秋晚会节目单",
+      "onboard_time": 1759755202,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 499954,
+      "num": 224300,
+      "word": "沈月真从天而降",
+      "onboard_time": 1759753883,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 496984,
@@ -316,7 +340,7 @@
     },
     {
       "raw_hot": 477899,
-      "num": 213149,
+      "num": 224147,
       "word": "时代少年团高会直播",
       "onboard_time": 1759750644,
       "rank": 13,
@@ -372,7 +396,7 @@
     },
     {
       "raw_hot": 423420,
-      "num": 213004,
+      "num": 223677,
       "word": "杨博文扫腿舞 诡异如ai",
       "onboard_time": 1759751723,
       "rank": 14,
@@ -443,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357850,
+      "num": 223491,
+      "word": "侯佩岑主持央视秋晚",
+      "onboard_time": 1759754544,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354251,
       "num": 354251,
       "word": "人类在中医面前毫无秘密可言",
@@ -465,14 +497,6 @@
       "onboard_time": 1759723161,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 344944,
-      "num": 212754,
-      "word": "沈月真从天而降",
-      "onboard_time": 1759753883,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 337315,
@@ -513,6 +537,14 @@
       "onboard_time": 1759707797,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318258,
+      "num": 223336,
+      "word": "MiuMiu巴黎时装周",
+      "onboard_time": 1759753642,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 316182,
@@ -627,6 +659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 276649,
+      "num": 222338,
+      "word": "刘一菲cos灵儿",
+      "onboard_time": 1759754544,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275655,
       "num": 165445,
       "word": "刘诗诗陈哲远 红气养人",
@@ -635,20 +675,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 274562,
+      "num": 222149,
+      "word": "中秋晚会没有何炅",
+      "onboard_time": 1759754902,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263228,
       "num": 158068,
       "word": "迪丽热巴 河南送你了",
       "onboard_time": 1759667245,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 261685,
-      "num": 212459,
-      "word": "MiuMiu巴黎时装周",
-      "onboard_time": 1759753642,
-      "rank": 17,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 259894,
@@ -705,14 +745,6 @@
       "onboard_time": 1759714519,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246307,
-      "num": 211954,
-      "word": "谢娜一本正经",
-      "onboard_time": 1759754484,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 244211,
@@ -795,6 +827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 222063,
+      "num": 222063,
+      "word": "唐嫣好甜",
+      "onboard_time": 1759755503,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218453,
       "num": 211627,
       "word": "马嘉祺直播",
@@ -825,14 +865,6 @@
       "onboard_time": 1759742781,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 211593,
-      "num": 211593,
-      "word": "侯佩岑主持央视秋晚",
-      "onboard_time": 1759754544,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 211056,
@@ -881,6 +913,14 @@
       "onboard_time": 1759680980,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201633,
+      "num": 201633,
+      "word": "唐嫣美成啥了 欧豪也是个神",
+      "onboard_time": 1759755683,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 201410,
@@ -1035,14 +1075,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 180259,
-      "num": 180259,
-      "word": "刘一菲cos灵儿",
-      "onboard_time": 1759754544,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178934,
       "num": 99104,
       "word": "女子为救爱犬被狗咬伤狂冲水仍发烧",
@@ -1057,6 +1089,14 @@
       "onboard_time": 1759657221,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 177127,
+      "num": 177127,
+      "word": "赵今麦刘浩存李庚希时装周造型",
+      "onboard_time": 1759751122,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 176663,
@@ -1105,14 +1145,6 @@
       "onboard_time": 1759721480,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174693,
-      "num": 174693,
-      "word": "赵今麦刘浩存李庚希时装周造型",
-      "onboard_time": 1759751122,
-      "rank": 27,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 174679,
@@ -1195,6 +1227,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 165667,
+      "num": 170789,
+      "word": "打卡最美月亮",
+      "onboard_time": 1759755023,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164614,
       "num": 164614,
       "word": "花开锦绣",
@@ -1227,6 +1267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159733,
+      "num": 159733,
+      "word": "精神病女子替人开公司租车20台",
+      "onboard_time": 1759749622,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159592,
       "num": 159592,
       "word": "王楚钦3冠王",
@@ -1249,22 +1297,6 @@
       "onboard_time": 1759751122,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158477,
-      "num": 158477,
-      "word": "精神病女子替人开公司租车20台",
-      "onboard_time": 1759749622,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 157916,
-      "num": 157916,
-      "word": "打卡最美月亮",
-      "onboard_time": 1759755023,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 155692,
@@ -1395,14 +1427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143403,
-      "num": 143403,
-      "word": "中秋晚会没有何炅",
-      "onboard_time": 1759754902,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142593,
       "num": 142593,
       "word": "星穹铁道景元",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1759722080,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 136637,
+      "num": 136637,
+      "word": "荷兰约25万人抗议示威",
+      "onboard_time": 1759754063,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 136222,
@@ -1771,20 +1803,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 116387,
-      "num": 116387,
-      "word": "荷兰约25万人抗议示威",
-      "onboard_time": 1759754063,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 115825,
       "num": 115825,
       "word": "王楚钦中秋限定月饼海报",
       "onboard_time": 1759745781,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115777,
+      "num": 115777,
+      "word": "原神",
+      "onboard_time": 1759755863,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 115773,
@@ -1915,6 +1947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109510,
+      "num": 109510,
+      "word": "张雨绮素颜主打一个真实",
+      "onboard_time": 1759755562,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109462,
       "num": 109462,
       "word": "何晟铭从手滑到首发",
@@ -1985,6 +2025,14 @@
       "onboard_time": 1759749201,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 106964,
+      "num": 106964,
+      "word": "如果你觉得国庆这8天很短",
+      "onboard_time": 1759752743,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 106925,
@@ -2113,6 +2161,14 @@
       "onboard_time": 1759724121,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102298,
+      "num": 102298,
+      "word": "易烊千玺 有人正在挂念你",
+      "onboard_time": 1759755983,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 101859,
