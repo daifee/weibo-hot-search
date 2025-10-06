@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759757725762,
+  "endTime": 1759758378769,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2638790,
-      "num": 293696,
+      "num": 346867,
       "word": "谢娜 央视主持",
       "onboard_time": 1759753463,
       "rank": 10,
@@ -659,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1003394,
+      "num": 346096,
+      "word": "唐嫣美成啥了 欧豪也是个神",
+      "onboard_time": 1759755683,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1000546,
       "num": 224924,
       "word": "王诗龄音腔口音",
@@ -897,14 +905,6 @@
       "onboard_time": 1759289900,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 877545,
-      "num": 289478,
-      "word": "唐嫣美成啥了 欧豪也是个神",
-      "onboard_time": 1759755683,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 876578,
@@ -1387,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 681879,
+      "num": 345181,
+      "word": "谢娜一本正经",
+      "onboard_time": 1759754484,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 681575,
       "num": 1079589,
       "word": "孙颖莎滑倒",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1759711940,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 629098,
-      "num": 286194,
-      "word": "谢娜一本正经",
-      "onboard_time": 1759754484,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 628788,
@@ -2060,7 +2060,7 @@
     },
     {
       "raw_hot": 528962,
-      "num": 266289,
+      "num": 322570,
       "word": "张艺兴演唱会",
       "onboard_time": 1759752565,
       "rank": 12,
@@ -2236,7 +2236,7 @@
     },
     {
       "raw_hot": 499954,
-      "num": 280856,
+      "num": 337603,
       "word": "沈月真从天而降",
       "onboard_time": 1759753883,
       "rank": 15,
@@ -2273,6 +2273,14 @@
       "onboard_time": 1759730362,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 495661,
+      "num": 343767,
+      "word": "侯佩岑主持央视秋晚",
+      "onboard_time": 1759754544,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 495308,
@@ -2443,6 +2451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 470875,
+      "num": 470875,
+      "word": "高铁上男子亲陌生女娃称太可爱",
+      "onboard_time": 1759756282,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 467123,
       "num": 266078,
       "word": "迪奥巴黎时装周",
@@ -2611,6 +2627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444495,
+      "num": 444495,
+      "word": "挪威2万人口小岛因中国游客堵车",
+      "onboard_time": 1759756703,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 444397,
       "num": 444397,
       "word": "广东一夫妇长得像复制粘贴",
@@ -2721,14 +2745,6 @@
       "onboard_time": 1759505961,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 427165,
-      "num": 282876,
-      "word": "侯佩岑主持央视秋晚",
-      "onboard_time": 1759754544,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 426707,
@@ -3147,14 +3163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 372866,
-      "num": 372866,
-      "word": "高铁上男子亲陌生女娃称太可爱",
-      "onboard_time": 1759756282,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 372478,
       "num": 233287,
       "word": "中秋晚会",
@@ -3169,6 +3177,14 @@
       "onboard_time": 1759332441,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 372102,
+      "num": 197415,
+      "word": "毛不易 无名的人改歌词",
+      "onboard_time": 1759757003,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 371570,
@@ -3395,6 +3411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 347652,
+      "num": 347652,
+      "word": "超级月亮",
+      "onboard_time": 1759753041,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 347168,
       "num": 347168,
       "word": "恋与深空",
@@ -3440,6 +3464,14 @@
       "word": "我家那闺女",
       "onboard_time": 1759642401,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 343347,
+      "num": 343347,
+      "word": "易烊千玺 有人正在挂念你",
+      "onboard_time": 1759755983,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -3513,14 +3545,6 @@
       "onboard_time": 1759639822,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 337315,
-      "num": 337315,
-      "word": "超级月亮",
-      "onboard_time": 1759753041,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 337216,
@@ -3617,14 +3641,6 @@
       "onboard_time": 1759369339,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 324308,
-      "num": 270674,
-      "word": "易烊千玺 有人正在挂念你",
-      "onboard_time": 1759755983,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 323084,
@@ -4497,14 +4513,6 @@
       "onboard_time": 1759235480,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 270446,
-      "num": 270446,
-      "word": "挪威2万人口小岛因中国游客堵车",
-      "onboard_time": 1759756703,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 270244,
@@ -6235,14 +6243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197415,
-      "num": 197415,
-      "word": "毛不易 无名的人改歌词",
-      "onboard_time": 1759757003,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197383,
       "num": 154800,
       "word": "浙江摄影师中秋卖16元月亮收入过千",
@@ -7139,6 +7139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177890,
+      "num": 177890,
+      "word": "中秋看卓沅跳舞爽到了",
+      "onboard_time": 1759757182,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 177661,
       "num": 177661,
       "word": "苏新皓跳了小猫摇",
@@ -7241,6 +7249,14 @@
       "onboard_time": 1759738461,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175060,
+      "num": 175060,
+      "word": "薛之谦听到了",
+      "onboard_time": 1759757122,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 175053,
@@ -7963,6 +7979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161870,
+      "num": 161870,
+      "word": "孙子误吃过期月饼奶奶又给过期药",
+      "onboard_time": 1759754843,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161777,
       "num": 161777,
       "word": "陈立农扫腿舞",
@@ -8137,14 +8161,6 @@
       "onboard_time": 1759295959,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 158320,
-      "num": 158320,
-      "word": "薛之谦听到了",
-      "onboard_time": 1759757122,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 158195,
@@ -8403,14 +8419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153573,
-      "num": 153573,
-      "word": "孙子误吃过期月饼奶奶又给过期药",
-      "onboard_time": 1759754843,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153501,
       "num": 153501,
       "word": "长期不用的银行卡一定要注销",
@@ -8633,6 +8641,14 @@
       "onboard_time": 1759379662,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149188,
+      "num": 149188,
+      "word": "王珞丹上身基础腿就不基础",
+      "onboard_time": 1759758024,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 149047,
@@ -8979,14 +8995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145046,
-      "num": 145046,
-      "word": "中秋看卓沅跳舞爽到了",
-      "onboard_time": 1759757182,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 145029,
       "num": 145029,
       "word": "志愿军国庆档票房第1",
@@ -9176,6 +9184,14 @@
       "word": "王力宏单依纯把爱错唱出新高度",
       "onboard_time": 1759502542,
       "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 142457,
+      "num": 142457,
+      "word": "曾舜晞 你觉得我紧张吗",
+      "onboard_time": 1759758083,
+      "rank": 38,
       "category": "演出"
     },
     {
@@ -11019,6 +11035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121697,
+      "num": 121697,
+      "word": "周迅巴黎造型",
+      "onboard_time": 1759756223,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121649,
       "num": 150538,
       "word": "6元买的是热乎鸡排不是无止境表演",
@@ -12043,6 +12067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113197,
+      "num": 266860,
+      "word": "唐嫣又美我一跳",
+      "onboard_time": 1759756822,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113166,
       "num": 113166,
       "word": "李沛恩舞台",
@@ -12691,14 +12723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108958,
-      "num": 108958,
-      "word": "周迅巴黎造型",
-      "onboard_time": 1759756223,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108951,
       "num": 108951,
       "word": "菠萝蜜一家满门忠烈",
@@ -13129,6 +13153,14 @@
       "onboard_time": 1759740440,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106469,
+      "num": 106469,
+      "word": "孙颖莎中秋节祝福",
+      "onboard_time": 1759757963,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 106427,
@@ -14201,6 +14233,14 @@
       "onboard_time": 1759641081,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100123,
+      "num": 138791,
+      "word": "五粮液有岗位要求体测3000米跑步",
+      "onboard_time": 1759758203,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100103,
@@ -16801,14 +16841,6 @@
       "onboard_time": 1759400241,
       "rank": 48,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 80208,
-      "num": 266860,
-      "word": "唐嫣又美我一跳",
-      "onboard_time": 1759756822,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 80144,
