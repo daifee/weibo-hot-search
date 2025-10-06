@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/07 05:22:17
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/07 05:36:26
 </p>
 </blockquote>
 <p>
@@ -5121,6 +5121,12 @@ WTT中国大满贯冠军城市宣传照（热度：46159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E7%A7%B0%E6%8D%A1%E6%9D%BF%E6%A0%97%E5%A3%B3%E5%86%B2%E7%AA%81%E4%BA%8B%E4%BB%B6%E5%B7%B2%E5%A4%84%E7%90%86%E5%AE%8C%E6%AF%95%23" target="weibo">
+景区称捡板栗壳冲突事件已处理完毕（热度：37619）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9B%E9%97%A8%E6%98%AF%E6%B2%88%E7%9C%9F%E5%87%BA%E9%97%A8%E6%98%AF%E7%A7%A6%E5%B2%9A%23" target="weibo">
 进门是沈真出门是秦岚（热度：36081）
 </a>
@@ -5141,12 +5147,6 @@ WTT中国大满贯冠军城市宣传照（热度：46159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2350%E5%B2%81%E7%A7%81%E5%8E%A850%E4%B8%87%E4%B9%B0%E4%B8%8B%E7%A7%BB%E5%8A%A8%E5%AE%B4%E4%BC%9A%E8%BD%A6%23" target="weibo">
 50岁私厨50万买下移动宴会车（热度：35580）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E7%A7%B0%E6%8D%A1%E6%9D%BF%E6%A0%97%E5%A3%B3%E5%86%B2%E7%AA%81%E4%BA%8B%E4%BB%B6%E5%B7%B2%E5%A4%84%E7%90%86%E5%AE%8C%E6%AF%95%23" target="weibo">
-景区称捡板栗壳冲突事件已处理完毕（热度：33660）
 </a>
 </li>
 
@@ -5367,6 +5367,12 @@ WTT中国大满贯冠军城市宣传照（热度：46159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%E7%AB%AF%E5%BA%84%E5%88%B0%E4%B8%8D%E5%83%8F%E5%A5%B9%23" target="weibo">
+闫妮端庄到不像她（热度：15966）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%89%E9%9D%A2%E5%93%A5%E5%9B%9E%E5%BA%94%E6%B5%81%E9%87%8F%E4%B8%8B%E6%BB%91%23" target="weibo">
 拉面哥回应流量下滑（热度：14794）
 </a>
@@ -5374,7 +5380,7 @@ WTT中国大满贯冠军城市宣传照（热度：46159）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E9%BA%A6%E5%BE%B7%E5%A7%86%E5%9C%A8%E5%B9%BF%E8%A5%BF%E6%B2%BF%E6%B5%B7%E5%86%8D%E6%AC%A1%E7%99%BB%E9%99%86%23" target="weibo">
-台风麦德姆在广西沿海再次登陆（热度：14456）
+台风麦德姆在广西沿海再次登陆（热度：14742）
 </a>
 </li>
 
@@ -5393,12 +5399,6 @@ WTT中国大满贯冠军城市宣传照（热度：46159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E9%B9%8F%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8C%85%E6%8F%BD%E4%BA%94%E5%86%A0%23" target="weibo">
 向鹏祝贺中国队包揽五冠（热度：12612）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%E7%AB%AF%E5%BA%84%E5%88%B0%E4%B8%8D%E5%83%8F%E5%A5%B9%23" target="weibo">
-闫妮端庄到不像她（热度：12390）
 </a>
 </li>
 
