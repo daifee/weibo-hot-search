@@ -1,6 +1,6 @@
 {
   "startTime": 1759681668953,
-  "endTime": 1759716776180,
+  "endTime": 1759720057800,
   "band_list": [
     {
       "raw_hot": 1697422,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1411855,
-      "num": 206171,
+      "num": 213301,
       "word": "王俊凯工作室修图遗落了个鼻子",
       "onboard_time": 1759680741,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 887154,
+      "num": 214964,
+      "word": "尚公主",
+      "onboard_time": 1759716860,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 881454,
@@ -35,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 638029,
+      "num": 213682,
+      "word": "人真不能一直住太差的房子",
+      "onboard_time": 1759715779,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 629586,
       "num": 629586,
       "word": "收花生找到姥姥丢了12年的金镯",
@@ -49,6 +65,14 @@
       "onboard_time": 1759678222,
       "rank": 10,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 523746,
+      "num": 523746,
+      "word": "酒店房顶坍塌时正在办婚礼",
+      "onboard_time": 1759714460,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 515787,
@@ -68,7 +92,7 @@
     },
     {
       "raw_hot": 451290,
-      "num": 204602,
+      "num": 210184,
       "word": "许我耀眼妍妍接电话名场面来了",
       "onboard_time": 1759706117,
       "rank": 16,
@@ -81,6 +105,22 @@
       "onboard_time": 1759680141,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419944,
+      "num": 212541,
+      "word": "枭起青壤",
+      "onboard_time": 1759718179,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 404663,
+      "num": 212126,
+      "word": "宋祖儿华伦天奴晚宴look",
+      "onboard_time": 1759716260,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 397253,
@@ -139,6 +179,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 280214,
+      "num": 210987,
+      "word": "邱泽希望儿子全像许玮甯",
+      "onboard_time": 1759715779,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279846,
       "num": 279846,
       "word": "配眼镜别再只去眼镜店了",
@@ -153,14 +201,6 @@
       "onboard_time": 1759681700,
       "rank": 27,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 265146,
-      "num": 201428,
-      "word": "宋祖儿华伦天奴晚宴look",
-      "onboard_time": 1759716260,
-      "rank": 14,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 263228,
@@ -179,20 +219,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251790,
+      "num": 204925,
+      "word": "迪丽热巴在张馨予背后叫人的样子",
+      "onboard_time": 1759716681,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248339,
-      "num": 199810,
+      "num": 205304,
       "word": "肖战手臂上有伤口",
       "onboard_time": 1759714519,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247860,
-      "num": 247860,
-      "word": "酒店房顶坍塌时正在办婚礼",
-      "onboard_time": 1759714460,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 244211,
@@ -219,20 +259,44 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211435,
-      "num": 199103,
-      "word": "邱泽希望儿子全像许玮甯",
-      "onboard_time": 1759715779,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 218611,
+      "num": 218611,
+      "word": "王楚钦拼到低血糖",
+      "onboard_time": 1759714219,
+      "rank": 22,
+      "category": "体育"
     },
     {
-      "raw_hot": 207377,
-      "num": 207377,
+      "raw_hot": 215888,
+      "num": 215888,
       "word": "八国发表联合声明",
       "onboard_time": 1759709238,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 209889,
+      "num": 209889,
+      "word": "生命树",
+      "onboard_time": 1759718060,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207442,
+      "num": 207442,
+      "word": "慕胥辞",
+      "onboard_time": 1759717400,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 204348,
+      "num": 204348,
+      "word": "马龙妻子夏露分享跳舞视频",
+      "onboard_time": 1759719321,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 203106,
@@ -252,7 +316,7 @@
     },
     {
       "raw_hot": 197916,
-      "num": 197916,
+      "num": 215145,
       "word": "中央气象台同时发布台风暴雨预警",
       "onboard_time": 1759713559,
       "rank": 8,
@@ -273,6 +337,14 @@
       "onboard_time": 1759715118,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196847,
+      "num": 196847,
+      "word": "莫离",
+      "onboard_time": 1759719199,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 196185,
@@ -323,6 +395,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 182145,
+      "num": 134641,
+      "word": "巴基斯坦选手喷空气清新剂",
+      "onboard_time": 1759719139,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 181599,
+      "num": 181599,
+      "word": "九旬老人将饭店100多斤操作台拖走",
+      "onboard_time": 1759718600,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180536,
       "num": 145665,
       "word": "建议气血不足的人不要留长发",
@@ -371,14 +459,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 170761,
-      "num": 170761,
-      "word": "人真不能一直住太差的房子",
-      "onboard_time": 1759715779,
-      "rank": 19,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 170178,
       "num": 170178,
       "word": "百花杀",
@@ -411,20 +491,20 @@
       "category": "演出,作品衍生"
     },
     {
-      "raw_hot": 162205,
-      "num": 162205,
-      "word": "王楚钦拼到低血糖",
-      "onboard_time": 1759714219,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 159592,
       "num": 159592,
       "word": "王楚钦3冠王",
       "onboard_time": 1759661845,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159448,
+      "num": 159448,
+      "word": "赵磊说生孩子要尊重qko意愿",
+      "onboard_time": 1759719081,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 155610,
@@ -443,6 +523,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 149695,
+      "num": 149695,
+      "word": "陆毅96年存百元私房钱请鲍蕾吃大餐",
+      "onboard_time": 1759719081,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148900,
       "num": 148900,
       "word": "今后几天雨雨雨雨雨不停",
@@ -451,12 +539,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148250,
+      "num": 148250,
+      "word": "魔丸见多了老魔丸第一次见",
+      "onboard_time": 1759717579,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145694,
       "num": 123029,
       "word": "黄金狂飙原因",
       "onboard_time": 1759710680,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 140623,
+      "num": 140623,
+      "word": "哈马斯称巴勒斯坦人民将继续抵抗",
+      "onboard_time": 1759715839,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 138352,
@@ -475,12 +579,44 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 134998,
+      "num": 134998,
+      "word": "伊朗计划引入北斗卫星导航系统",
+      "onboard_time": 1759718600,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 133200,
+      "num": 133200,
+      "word": "王楚钦领跑WTT男单冠军榜",
+      "onboard_time": 1759718960,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131999,
       "num": 131999,
       "word": "大学生卖雪王送鸡排哥高清写真",
       "onboard_time": 1759673843,
       "rank": 25,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 130757,
+      "num": 130757,
+      "word": "来战",
+      "onboard_time": 1759718600,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129819,
+      "num": 129819,
+      "word": "逐玉",
+      "onboard_time": 1759718360,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 129700,
@@ -491,12 +627,44 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 128732,
+      "num": 128732,
+      "word": "孟子义分你一半月饼",
+      "onboard_time": 1759719741,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126758,
       "num": 126758,
       "word": "网购衣服不要只盯着卖衣服的店",
       "onboard_time": 1759667723,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125523,
+      "num": 125523,
+      "word": "台风麦德姆影响下的湛江",
+      "onboard_time": 1759711459,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 120719,
+      "num": 120719,
+      "word": "人民海军中秋祝福超硬核",
+      "onboard_time": 1759719859,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 119675,
+      "num": 119675,
+      "word": "中国人研究月球土特产又有新成果",
+      "onboard_time": 1759716320,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119608,
@@ -515,6 +683,22 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 111493,
+      "num": 111493,
+      "word": "美国发生杀人纵火案",
+      "onboard_time": 1759718600,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 111185,
+      "num": 111185,
+      "word": "许我耀眼",
+      "onboard_time": 1759718300,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108299,
       "num": 108299,
       "word": "高市早苗用反华内容训练AI",
@@ -523,12 +707,12 @@
       "category": "国际时政,互联网"
     },
     {
-      "raw_hot": 107783,
-      "num": 107783,
-      "word": "哈马斯称巴勒斯坦人民将继续抵抗",
-      "onboard_time": 1759715839,
-      "rank": 36,
-      "category": "国际时政"
+      "raw_hot": 108194,
+      "num": 108194,
+      "word": "读了五遍消息不知道怎么回复时",
+      "onboard_time": 1759719019,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 105387,
@@ -539,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104156,
+      "num": 104156,
+      "word": "27岁44斤波兰女子去世前已无法翻身",
+      "onboard_time": 1759718839,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 102446,
       "num": 102446,
       "word": "湖人vs勇士",
@@ -547,28 +739,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101271,
-      "num": 101271,
-      "word": "中国人研究月球土特产又有新成果",
-      "onboard_time": 1759716320,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99378,
-      "num": 99378,
-      "word": "迪丽热巴在张馨予背后叫人的样子",
-      "onboard_time": 1759716681,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 98161,
       "num": 98161,
       "word": "男子用垃圾袋自制扰流球防风",
       "onboard_time": 1759711219,
       "rank": 41,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 98117,
+      "num": 98117,
+      "word": "骄阳似我",
+      "onboard_time": 1759720041,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 97787,
@@ -665,14 +849,6 @@
       "onboard_time": 1759713559,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85879,
-      "num": 85879,
-      "word": "台风麦德姆影响下的湛江",
-      "onboard_time": 1759711459,
-      "rank": 39,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 85248,
@@ -921,6 +1097,14 @@
       "onboard_time": 1759704436,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51293,
+      "num": 533324,
+      "word": "网络中国节",
+      "onboard_time": 1759719379,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49470,
