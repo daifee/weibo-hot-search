@@ -1,0 +1,410 @@
+{
+  "runTime": 1759729239952,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1079559,
+        "num": 1172729,
+        "word": "小孩哥用通缉令上证件号认证游戏",
+        "onboard_time": 1759725021,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604474,
+        "num": 604474,
+        "word": "只吃水果女子去世前体重仅44斤",
+        "onboard_time": 1759709959,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 30690,
+        "num": 490293,
+        "word": "中秋国庆祝福文案",
+        "onboard_time": 1759724720,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461070,
+        "num": 461070,
+        "word": "马龙妻子夏露分享跳舞视频",
+        "onboard_time": 1759719321,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377142,
+        "num": 377142,
+        "word": "中秋",
+        "onboard_time": 1759706597,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335112,
+        "num": 335112,
+        "word": "已有350名被困珠峰游客获救",
+        "onboard_time": 1759723161,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234793,
+        "num": 234793,
+        "word": "妈妈竟让儿子高速下车路边方便",
+        "onboard_time": 1759721061,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209549,
+        "num": 209549,
+        "word": "收花生找到姥姥丢了12年的金镯",
+        "onboard_time": 1759711940,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194098,
+        "num": 194098,
+        "word": "面馆默许高中生插队排队游客发声",
+        "onboard_time": 1759720281,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 173925,
+        "num": 173925,
+        "word": "低估了回眸杀的含金量",
+        "onboard_time": 1759728262,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1390638,
+        "num": 173670,
+        "word": "关晓彤美黑",
+        "onboard_time": 1759722319,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 896879,
+        "num": 173045,
+        "word": "胡定欣官宣结婚",
+        "onboard_time": 1759722260,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 808506,
+        "num": 172158,
+        "word": "翁青雅签公司了",
+        "onboard_time": 1759726581,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 748146,
+        "num": 171653,
+        "word": "第几次亲嘴12秒翻面3次啊",
+        "onboard_time": 1759725501,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554286,
+        "num": 170692,
+        "word": "对孙千身高有了实感",
+        "onboard_time": 1759726101,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285594,
+        "num": 170317,
+        "word": "微信上传一个视频15次后的样子",
+        "onboard_time": 1759725141,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24307,
+        "num": 169532,
+        "word": "这一季巴黎世家我直接下单",
+        "onboard_time": 1759727361,
+        "rank": 16,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 255832,
+        "num": 169121,
+        "word": "马嘉祺宋亚轩刘耀文贺峻霖吃烧烤",
+        "onboard_time": 1759727781,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216029,
+        "num": 168342,
+        "word": "王俊凯工作室修图遗落了个鼻子",
+        "onboard_time": 1759680741,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208190,
+        "num": 167767,
+        "word": "心动的信号",
+        "onboard_time": 1759728021,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280415,
+        "num": 167027,
+        "word": "伊朗货币将删除四个零",
+        "onboard_time": 1759728021,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207483,
+        "num": 166464,
+        "word": "女子在地铁上因他人说到鸡鸣寺急眼",
+        "onboard_time": 1759728442,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205605,
+        "num": 165715,
+        "word": "田曦薇鹅黄吊带襦裙",
+        "onboard_time": 1759727601,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197052,
+        "num": 165459,
+        "word": "迪丽热巴差点亲到张馨予了",
+        "onboard_time": 1759724720,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188410,
+        "num": 164721,
+        "word": "肖战喊别人哥哥",
+        "onboard_time": 1759728981,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164176,
+        "num": 164176,
+        "word": "周迅的白发好优雅",
+        "onboard_time": 1759726581,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150093,
+        "num": 150093,
+        "word": "被一条皮皮虾惊艳到了",
+        "onboard_time": 1759724061,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146166,
+        "num": 146166,
+        "word": "黄金",
+        "onboard_time": 1759729041,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145534,
+        "num": 145534,
+        "word": "陆毅96年存百元私房钱请鲍蕾吃大餐",
+        "onboard_time": 1759719081,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112442,
+        "num": 143061,
+        "word": "圆圆圆圆中秋圆圆圆圆",
+        "onboard_time": 1759713799,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142593,
+        "num": 142593,
+        "word": "星穹铁道景元",
+        "onboard_time": 1759729221,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138158,
+        "num": 138158,
+        "word": "人真不能一直住太差的房子",
+        "onboard_time": 1759715779,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132986,
+        "num": 132986,
+        "word": "哈马斯称巴勒斯坦人民将继续抵抗",
+        "onboard_time": 1759715839,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132463,
+        "num": 132463,
+        "word": "赵丽颖祝大家中秋快乐",
+        "onboard_time": 1759726221,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126530,
+        "num": 126530,
+        "word": "尚公主",
+        "onboard_time": 1759716860,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121334,
+        "num": 121334,
+        "word": "独居女生套内45平米的家",
+        "onboard_time": 1759723822,
+        "rank": 35,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 120980,
+        "num": 120980,
+        "word": "迪丽热巴在张馨予背后叫人的样子",
+        "onboard_time": 1759716681,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107354,
+        "num": 107354,
+        "word": "枭起青壤",
+        "onboard_time": 1759718179,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107300,
+        "num": 107300,
+        "word": "李嘉格 我相信爱情",
+        "onboard_time": 1759727961,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84319,
+        "num": 104578,
+        "word": "王者最累的分路",
+        "onboard_time": 1759728621,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103838,
+        "num": 103838,
+        "word": "一秒黑化还得是影帝",
+        "onboard_time": 1759728681,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103058,
+        "num": 103058,
+        "word": "表妹万福",
+        "onboard_time": 1759725141,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101022,
+        "num": 101022,
+        "word": "九旬老人将饭店100多斤操作台拖走",
+        "onboard_time": 1759718600,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93257,
+        "num": 93257,
+        "word": "原来在猫猫眼中我们人类是这样",
+        "onboard_time": 1759725260,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92765,
+        "num": 92765,
+        "word": "新郎跳河事件谣言要查处真相当公布",
+        "onboard_time": 1759723161,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81276,
+        "num": 90296,
+        "word": "巅峰时期的奚梦瑶",
+        "onboard_time": 1759727721,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89680,
+        "num": 89680,
+        "word": "国庆中秋假期第6天你在干什么",
+        "onboard_time": 1759728861,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89526,
+        "num": 89526,
+        "word": "Gumayusi安慰T1粉丝",
+        "onboard_time": 1759726221,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87369,
+        "num": 87369,
+        "word": "鹿晗中秋营业照",
+        "onboard_time": 1759729221,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87152,
+        "num": 87152,
+        "word": "林志玲舞那几下好灵",
+        "onboard_time": 1759728142,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#聆听习近平总书记的温暖祝福#"
+    }
+  }
+}

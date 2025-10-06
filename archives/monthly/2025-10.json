@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759728333203,
+  "endTime": 1759729239952,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -523,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1079559,
+      "num": 1172729,
+      "word": "小孩哥用通缉令上证件号认证游戏",
+      "onboard_time": 1759725021,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1055083,
       "num": 239119,
       "word": "陶白白前妻与现任同游西藏",
@@ -931,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 808506,
+      "num": 185899,
+      "word": "翁青雅签公司了",
+      "onboard_time": 1759726581,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 804684,
       "num": 1128749,
       "word": "河南多地现行走的硫酸",
@@ -1059,14 +1075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 757826,
-      "num": 185899,
-      "word": "翁青雅签公司了",
-      "onboard_time": 1759726581,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 756898,
       "num": 756898,
       "word": "中高度近视戒掉眼镜6天的状态",
@@ -1096,6 +1104,14 @@
       "word": "许我耀眼腾讯热度破32000",
       "onboard_time": 1759416381,
       "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 748146,
+      "num": 184952,
+      "word": "第几次亲嘴12秒翻面3次啊",
+      "onboard_time": 1759725501,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -1387,14 +1403,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 650746,
-      "num": 184952,
-      "word": "第几次亲嘴12秒翻面3次啊",
-      "onboard_time": 1759725501,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 648272,
       "num": 187446,
       "word": "翁青雅彭高分手的根本原因",
@@ -1579,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 599455,
-      "num": 599455,
-      "word": "小孩哥用通缉令上证件号认证游戏",
-      "onboard_time": 1759725021,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 597428,
       "num": 221690,
       "word": "唐香玉官宣上恋综",
@@ -1769,6 +1769,14 @@
       "onboard_time": 1759312221,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 554286,
+      "num": 184515,
+      "word": "对孙千身高有了实感",
+      "onboard_time": 1759726101,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 553918,
@@ -2033,14 +2041,6 @@
       "onboard_time": 1759544780,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 504363,
-      "num": 184515,
-      "word": "对孙千身高有了实感",
-      "onboard_time": 1759726101,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 502234,
@@ -3884,7 +3884,7 @@
     },
     {
       "raw_hot": 282935,
-      "num": 188521,
+      "num": 194098,
       "word": "面馆默许高中生插队排队游客发声",
       "onboard_time": 1759720281,
       "rank": 35,
@@ -3929,6 +3929,14 @@
       "onboard_time": 1759661965,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280415,
+      "num": 167027,
+      "word": "伊朗货币将删除四个零",
+      "onboard_time": 1759728021,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 280137,
@@ -4289,6 +4297,14 @@
       "onboard_time": 1759365499,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 255832,
+      "num": 180783,
+      "word": "马嘉祺宋亚轩刘耀文贺峻霖吃烧烤",
+      "onboard_time": 1759727781,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 255819,
@@ -5251,6 +5267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208190,
+      "num": 171013,
+      "word": "心动的信号",
+      "onboard_time": 1759231101,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207812,
       "num": 207812,
       "word": "王楚钦林诗栋vs卡尔森法尔克",
@@ -5281,6 +5305,14 @@
       "onboard_time": 1759314140,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207483,
+      "num": 166464,
+      "word": "女子在地铁上因他人说到鸡鸣寺急眼",
+      "onboard_time": 1759728442,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207474,
@@ -5361,6 +5393,14 @@
       "onboard_time": 1759459939,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205605,
+      "num": 181226,
+      "word": "田曦薇鹅黄吊带襦裙",
+      "onboard_time": 1759727601,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205413,
@@ -5457,14 +5497,6 @@
       "onboard_time": 1759502902,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 203480,
-      "num": 181226,
-      "word": "田曦薇鹅黄吊带襦裙",
-      "onboard_time": 1759727601,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 203454,
@@ -5835,14 +5867,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 195460,
-      "num": 180783,
-      "word": "马嘉祺宋亚轩刘耀文贺峻霖吃烧烤",
-      "onboard_time": 1759727781,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195147,
       "num": 195147,
       "word": "檀健次醉酒摔倒戏是现挂的",
@@ -6097,6 +6121,14 @@
       "onboard_time": 1759673184,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188410,
+      "num": 164721,
+      "word": "肖战喊别人哥哥",
+      "onboard_time": 1759728981,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 188380,
@@ -6667,6 +6699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 173925,
+      "num": 173925,
+      "word": "低估了回眸杀的含金量",
+      "onboard_time": 1759728262,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173924,
       "num": 173924,
       "word": "惠英红 金鸡穿这个很colorful",
@@ -6785,14 +6825,6 @@
       "onboard_time": 1759677561,
       "rank": 39,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 171013,
-      "num": 171013,
-      "word": "心动的信号",
-      "onboard_time": 1759231101,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 170869,
@@ -8147,6 +8179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146166,
+      "num": 146166,
+      "word": "黄金",
+      "onboard_time": 1759729041,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 146162,
       "num": 146162,
       "word": "第一次看到这么多明星演短剧",
@@ -8433,6 +8473,14 @@
       "onboard_time": 1759652900,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142593,
+      "num": 142593,
+      "word": "星穹铁道景元",
+      "onboard_time": 1759729221,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 142480,
@@ -9779,14 +9827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126637,
-      "num": 126637,
-      "word": "伊朗货币将删除四个零",
-      "onboard_time": 1759728021,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 126423,
       "num": 126423,
       "word": "旅游3000块定律",
@@ -10697,14 +10737,6 @@
       "onboard_time": 1759630038,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 116314,
-      "num": 116314,
-      "word": "低估了回眸杀的含金量",
-      "onboard_time": 1759728262,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 116271,
@@ -12457,6 +12489,14 @@
       "onboard_time": 1759670124,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103838,
+      "num": 103838,
+      "word": "一秒黑化还得是影帝",
+      "onboard_time": 1759728681,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 103752,
@@ -14283,6 +14323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89680,
+      "num": 89680,
+      "word": "国庆中秋假期第6天你在干什么",
+      "onboard_time": 1759728861,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89679,
       "num": 89679,
       "word": "发朋友圈之前先屏蔽掉你喜欢的人",
@@ -14313,6 +14361,14 @@
       "onboard_time": 1759320381,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89526,
+      "num": 89526,
+      "word": "Gumayusi安慰T1粉丝",
+      "onboard_time": 1759726221,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 89447,
@@ -14529,6 +14585,14 @@
       "onboard_time": 1759582581,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87369,
+      "num": 87369,
+      "word": "鹿晗中秋营业照",
+      "onboard_time": 1759729221,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 87348,
@@ -14995,6 +15059,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 84319,
+      "num": 104578,
+      "word": "王者最累的分路",
+      "onboard_time": 1759728621,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 84259,
       "num": 84259,
       "word": "孙颖莎回应是否参加亚运会混双项目",
@@ -15273,6 +15345,14 @@
       "onboard_time": 1759507160,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81276,
+      "num": 104647,
+      "word": "巅峰时期的奚梦瑶",
+      "onboard_time": 1759727721,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 81263,
@@ -17265,14 +17345,6 @@
       "onboard_time": 1759725320,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46116,
-      "num": 104647,
-      "word": "巅峰时期的奚梦瑶",
-      "onboard_time": 1759727721,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 45100,
