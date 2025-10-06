@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759733425188,
+  "endTime": 1759735583137,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -299,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 792284,
+      "num": 191573,
+      "word": "鹿晗新壁纸",
+      "onboard_time": 1759730601,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 778502,
       "num": 778502,
       "word": "中秋",
@@ -539,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 496984,
+      "num": 496984,
+      "word": "三甲医生解读只吃水果女子去世",
+      "onboard_time": 1759730362,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 489450,
       "num": 229681,
       "word": "肖战今天的物料有点太多了",
@@ -609,14 +625,6 @@
       "onboard_time": 1759680141,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 450249,
-      "num": 191573,
-      "word": "鹿晗新壁纸",
-      "onboard_time": 1759730601,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 447513,
@@ -897,6 +905,14 @@
       "onboard_time": 1759587561,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325061,
+      "num": 325061,
+      "word": "人类在中医面前毫无秘密可言",
+      "onboard_time": 1759732281,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 323016,
@@ -1259,14 +1275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 257382,
-      "num": 257382,
-      "word": "三甲医生解读只吃水果女子去世",
-      "onboard_time": 1759730362,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 255832,
       "num": 191383,
       "word": "马嘉祺宋亚轩刘耀文贺峻霖吃烧烤",
@@ -1296,6 +1304,14 @@
       "word": "迪丽热巴在张馨予背后叫人的样子",
       "onboard_time": 1759716681,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 250238,
+      "num": 172752,
+      "word": "王安宇 不要问人家这种问题",
+      "onboard_time": 1759732040,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -1417,6 +1433,22 @@
       "onboard_time": 1759709238,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 224803,
+      "num": 171198,
+      "word": "偶遇贾乃亮买金钞",
+      "onboard_time": 1759734621,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224380,
+      "num": 169688,
+      "word": "迪丽热巴有效文化输出",
+      "onboard_time": 1759733241,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 223040,
@@ -1731,14 +1763,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191978,
-      "num": 191978,
-      "word": "人类在中医面前毫无秘密可言",
-      "onboard_time": 1759732281,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 191362,
       "num": 115741,
       "word": "微信里的钱包一定要上锁",
@@ -1785,6 +1809,14 @@
       "onboard_time": 1759642401,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189425,
+      "num": 168829,
+      "word": "震耳欲聋豆瓣开分7.6",
+      "onboard_time": 1759734920,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 188788,
@@ -1936,6 +1968,14 @@
       "word": "柬警方解救一被绑架的19岁中国人",
       "onboard_time": 1759596438,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176879,
+      "num": 191187,
+      "word": "卖不完的月饼都去哪儿了",
+      "onboard_time": 1759732822,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2137,6 +2177,14 @@
       "onboard_time": 1759723822,
       "rank": 30,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 165524,
+      "num": 165524,
+      "word": "外卖店营业额18万盈利仅1万",
+      "onboard_time": 1759731800,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164614,
@@ -2643,14 +2691,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 136532,
-      "num": 136532,
-      "word": "王安宇 不要问人家这种问题",
-      "onboard_time": 1759732040,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136323,
       "num": 136323,
       "word": "Gr对战GW",
@@ -2705,14 +2745,6 @@
       "onboard_time": 1759641022,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134999,
-      "num": 134999,
-      "word": "外卖店营业额18万盈利仅1万",
-      "onboard_time": 1759731800,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134998,
@@ -3467,6 +3499,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 109068,
+      "num": 109068,
+      "word": "偶遇孙涵清刘子晗",
+      "onboard_time": 1759732162,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108968,
       "num": 136576,
       "word": "申裕斌晒北京烤鸭",
@@ -3505,6 +3545,14 @@
       "onboard_time": 1759636099,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107509,
+      "num": 107509,
+      "word": "美国19岁女生车祸丧生家属追责特斯拉",
+      "onboard_time": 1759733241,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107109,
@@ -3625,14 +3673,6 @@
       "onboard_time": 1759589183,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104381,
-      "num": 104381,
-      "word": "迪丽热巴有效文化输出",
-      "onboard_time": 1759733241,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 104098,
@@ -3787,6 +3827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100360,
+      "num": 100360,
+      "word": "国庆中秋假期第6天你在干什么",
+      "onboard_time": 1759728861,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100165,
       "num": 107191,
       "word": "孙颖莎备战决赛",
@@ -3851,6 +3899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98853,
+      "num": 98853,
+      "word": "2028年中秋国庆将再次相逢",
+      "onboard_time": 1759732461,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98789,
       "num": 98789,
       "word": "获救者回应60岁老人救人不幸溺亡",
@@ -3899,14 +3955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97663,
-      "num": 97663,
-      "word": "国庆中秋假期第6天你在干什么",
-      "onboard_time": 1759728861,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97534,
       "num": 97534,
       "word": "捷克可能要变天",
@@ -3937,6 +3985,14 @@
       "onboard_time": 1759642221,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96543,
+      "num": 96543,
+      "word": "外婆原来你的名字不是丽云",
+      "onboard_time": 1759733481,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 96497,
@@ -3977,14 +4033,6 @@
       "onboard_time": 1759732580,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94683,
-      "num": 94683,
-      "word": "偶遇孙涵清刘子晗",
-      "onboard_time": 1759732162,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 94015,
@@ -4099,6 +4147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90661,
+      "num": 90661,
+      "word": "陈哲远扛住了外媒的强曝光",
+      "onboard_time": 1759733001,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90310,
       "num": 133263,
       "word": "孙颖莎好牛的一球",
@@ -4163,14 +4219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89268,
-      "num": 89268,
-      "word": "2028年中秋国庆将再次相逢",
-      "onboard_time": 1759732461,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89209,
       "num": 89209,
       "word": "终于有剧反杀这么过瘾了",
@@ -4201,6 +4249,14 @@
       "onboard_time": 1759727721,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88251,
+      "num": 93066,
+      "word": "香港海心公园割喉案嫌犯系流浪汉",
+      "onboard_time": 1759733001,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88159,
@@ -4257,14 +4313,6 @@
       "onboard_time": 1759634661,
       "rank": 46,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 86369,
-      "num": 86369,
-      "word": "陈哲远扛住了外媒的强曝光",
-      "onboard_time": 1759733001,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 85442,
@@ -4340,7 +4388,7 @@
     },
     {
       "raw_hot": 83940,
-      "num": 83940,
+      "num": 172456,
       "word": "巴黎世家大秀",
       "onboard_time": 1759628900,
       "rank": 40,
@@ -4384,6 +4432,14 @@
       "word": "钢铁战士王楚钦",
       "onboard_time": 1759652840,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81971,
+      "num": 81971,
+      "word": "小孩哥看王楚钦比赛看哭了",
+      "onboard_time": 1759734081,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -4459,14 +4515,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 79414,
-      "num": 191187,
-      "word": "卖不完的月饼都去哪儿了",
-      "onboard_time": 1759732822,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79080,
       "num": 157261,
       "word": "我的十一电子榨菜",
@@ -4523,6 +4571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 73922,
+      "num": 159822,
+      "word": "2025年诺贝尔奖今起揭晓",
+      "onboard_time": 1759734020,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 72614,
       "num": 72614,
       "word": "哥哥在旁边气得要崩溃了",
@@ -4563,6 +4619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71180,
+      "num": 90698,
+      "word": "原来马思纯说的这个人是杨紫",
+      "onboard_time": 1759735220,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70987,
       "num": 70987,
       "word": "鸟也是玩上正宗的扫腿舞了",
@@ -4585,14 +4649,6 @@
       "onboard_time": 1759572319,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 70510,
-      "num": 93240,
-      "word": "美国19岁女生车祸丧生家属追责特斯拉",
-      "onboard_time": 1759733241,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 70335,
@@ -4705,14 +4761,6 @@
       "onboard_time": 1759588823,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 63807,
-      "num": 93066,
-      "word": "香港海心公园割喉案嫌犯系流浪汉",
-      "onboard_time": 1759733001,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63776,
@@ -5035,6 +5083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42572,
+      "num": 83479,
+      "word": "男子骑车偷狗摔倒都不松手",
+      "onboard_time": 1759734020,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41886,
       "num": 44474,
       "word": "果然任何动物车坐久了都会憔悴",
@@ -5193,6 +5249,14 @@
       "onboard_time": 1759688596,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26046,
+      "num": 90868,
+      "word": "王楚钦这一刻你也成为了大哥哥",
+      "onboard_time": 1759734440,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 25896,

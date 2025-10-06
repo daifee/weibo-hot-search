@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759733425188,
+  "endTime": 1759735583137,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -985,6 +985,14 @@
       "onboard_time": 1759403361,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 792284,
+      "num": 191573,
+      "word": "鹿晗新壁纸",
+      "onboard_time": 1759730601,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 789816,
@@ -2099,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 496984,
+      "num": 496984,
+      "word": "三甲医生解读只吃水果女子去世",
+      "onboard_time": 1759730362,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 495308,
       "num": 495308,
       "word": "希腊全国罢工",
@@ -2345,14 +2361,6 @@
       "onboard_time": 1759680141,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 450249,
-      "num": 191573,
-      "word": "鹿晗新壁纸",
-      "onboard_time": 1759730601,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 449072,
@@ -3305,6 +3313,14 @@
       "onboard_time": 1759369339,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325061,
+      "num": 325061,
+      "word": "人类在中医面前毫无秘密可言",
+      "onboard_time": 1759732281,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 323084,
@@ -4283,14 +4299,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 257382,
-      "num": 257382,
-      "word": "三甲医生解读只吃水果女子去世",
-      "onboard_time": 1759730362,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 257259,
       "num": 257259,
       "word": "陈垣宇vsF勒布伦",
@@ -4417,6 +4425,14 @@
       "onboard_time": 1759472060,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250238,
+      "num": 172752,
+      "word": "王安宇 不要问人家这种问题",
+      "onboard_time": 1759732040,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 250219,
@@ -4905,6 +4921,22 @@
       "onboard_time": 1759307419,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224803,
+      "num": 171198,
+      "word": "偶遇贾乃亮买金钞",
+      "onboard_time": 1759734621,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 224380,
+      "num": 169688,
+      "word": "迪丽热巴有效文化输出",
+      "onboard_time": 1759733241,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 224054,
@@ -6019,14 +6051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191978,
-      "num": 191978,
-      "word": "人类在中医面前毫无秘密可言",
-      "onboard_time": 1759732281,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 191793,
       "num": 191793,
       "word": "谁家男主出场三集就说十句",
@@ -6121,6 +6145,14 @@
       "onboard_time": 1759308681,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189425,
+      "num": 168829,
+      "word": "震耳欲聋豆瓣开分7.6",
+      "onboard_time": 1759734920,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 189418,
@@ -6633,6 +6665,14 @@
       "onboard_time": 1759586661,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176879,
+      "num": 191187,
+      "word": "卖不完的月饼都去哪儿了",
+      "onboard_time": 1759732822,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 176663,
@@ -7233,6 +7273,14 @@
       "onboard_time": 1759373899,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165524,
+      "num": 165524,
+      "word": "外卖店营业额18万盈利仅1万",
+      "onboard_time": 1759731800,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165477,
@@ -8995,14 +9043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136532,
-      "num": 136532,
-      "word": "王安宇 不要问人家这种问题",
-      "onboard_time": 1759732040,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 136397,
       "num": 136397,
       "word": "邓为靠脸生扛刁钻镜头",
@@ -9129,14 +9169,6 @@
       "onboard_time": 1759641022,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134999,
-      "num": 134999,
-      "word": "外卖店营业额18万盈利仅1万",
-      "onboard_time": 1759731800,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134998,
@@ -11771,6 +11803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109068,
+      "num": 109068,
+      "word": "偶遇孙涵清刘子晗",
+      "onboard_time": 1759732162,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108968,
       "num": 136576,
       "word": "申裕斌晒北京烤鸭",
@@ -11969,6 +12009,14 @@
       "onboard_time": 1759575380,
       "rank": 28,
       "category": "电影,其它"
+    },
+    {
+      "raw_hot": 107509,
+      "num": 107509,
+      "word": "美国19岁女生车祸丧生家属追责特斯拉",
+      "onboard_time": 1759733241,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 107445,
@@ -12513,14 +12561,6 @@
       "onboard_time": 1759589183,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 104381,
-      "num": 104381,
-      "word": "迪丽热巴有效文化输出",
-      "onboard_time": 1759733241,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 104298,
@@ -13107,6 +13147,14 @@
       "category": "情感,教育"
     },
     {
+      "raw_hot": 100360,
+      "num": 100360,
+      "word": "国庆中秋假期第6天你在干什么",
+      "onboard_time": 1759728861,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100252,
       "num": 100252,
       "word": "鹿晗回应力宏鹿晗联合厉害",
@@ -13307,6 +13355,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 98853,
+      "num": 98853,
+      "word": "2028年中秋国庆将再次相逢",
+      "onboard_time": 1759732461,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98806,
       "num": 98806,
       "word": "孙颖莎以为王晓彤要暂停",
@@ -13459,14 +13515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97663,
-      "num": 97663,
-      "word": "国庆中秋假期第6天你在干什么",
-      "onboard_time": 1759728861,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97638,
       "num": 97638,
       "word": "原来丁程鑫才是邓超的超级英雄",
@@ -13609,6 +13657,14 @@
       "onboard_time": 1759316541,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 96543,
+      "num": 96543,
+      "word": "外婆原来你的名字不是丽云",
+      "onboard_time": 1759733481,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 96528,
@@ -13855,14 +13911,6 @@
       "num": 94811,
       "word": "秦昊徐志胜加上孟子义告三人成立",
       "onboard_time": 1759476979,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 94683,
-      "num": 94683,
-      "word": "偶遇孙涵清刘子晗",
-      "onboard_time": 1759732162,
       "rank": 45,
       "category": "综艺"
     },
@@ -14331,6 +14379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90661,
+      "num": 90661,
+      "word": "陈哲远扛住了外媒的强曝光",
+      "onboard_time": 1759733001,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90635,
       "num": 90635,
       "word": "伊能静说刘亦菲是真正大女主",
@@ -14523,14 +14579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89268,
-      "num": 89268,
-      "word": "2028年中秋国庆将再次相逢",
-      "onboard_time": 1759732461,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89209,
       "num": 89209,
       "word": "终于有剧反杀这么过瘾了",
@@ -14601,6 +14649,14 @@
       "onboard_time": 1759727721,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88251,
+      "num": 93066,
+      "word": "香港海心公园割喉案嫌犯系流浪汉",
+      "onboard_time": 1759733001,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88229,
@@ -14865,14 +14921,6 @@
       "onboard_time": 1759251138,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86369,
-      "num": 86369,
-      "word": "陈哲远扛住了外媒的强曝光",
-      "onboard_time": 1759733001,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 86358,
@@ -15260,7 +15308,7 @@
     },
     {
       "raw_hot": 83940,
-      "num": 83940,
+      "num": 172456,
       "word": "巴黎世家大秀",
       "onboard_time": 1759628900,
       "rank": 40,
@@ -15456,6 +15504,14 @@
       "word": "2025中网",
       "onboard_time": 1759331541,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81971,
+      "num": 81971,
+      "word": "小孩哥看王楚钦比赛看哭了",
+      "onboard_time": 1759734081,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -15665,14 +15721,6 @@
       "onboard_time": 1759687936,
       "rank": 28,
       "category": "网红"
-    },
-    {
-      "raw_hot": 79414,
-      "num": 191187,
-      "word": "卖不完的月饼都去哪儿了",
-      "onboard_time": 1759732822,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79358,
@@ -16139,6 +16187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73922,
+      "num": 159822,
+      "word": "2025年诺贝尔奖今起揭晓",
+      "onboard_time": 1759734020,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 73812,
       "num": 73812,
       "word": "西梅汁式恋爱",
@@ -16339,6 +16395,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 71180,
+      "num": 90698,
+      "word": "原来马思纯说的这个人是杨紫",
+      "onboard_time": 1759735220,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71017,
       "num": 112100,
       "word": "黄晓明对檀健次打手语我爱你",
@@ -16393,14 +16457,6 @@
       "onboard_time": 1759544780,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 70510,
-      "num": 93240,
-      "word": "美国19岁女生车祸丧生家属追责特斯拉",
-      "onboard_time": 1759733241,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 70335,
@@ -16769,14 +16825,6 @@
       "onboard_time": 1759629021,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 63807,
-      "num": 93066,
-      "word": "香港海心公园割喉案嫌犯系流浪汉",
-      "onboard_time": 1759733001,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63754,
@@ -17667,6 +17715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42572,
+      "num": 83479,
+      "word": "男子骑车偷狗摔倒都不松手",
+      "onboard_time": 1759734020,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42374,
       "num": 103418,
       "word": "当地回应浏阳烟花秀火星掉落引火灾",
@@ -18385,6 +18441,14 @@
       "onboard_time": 1759688596,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 26046,
+      "num": 90868,
+      "word": "王楚钦这一刻你也成为了大哥哥",
+      "onboard_time": 1759734440,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 25896,

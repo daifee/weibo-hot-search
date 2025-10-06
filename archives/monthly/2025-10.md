@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/06 14:50:25
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/06 15:26:23
 </p>
 </blockquote>
 <p>
@@ -749,6 +749,12 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E9%A9%BB%E9%9F%A9%E4%BD%BF%E9%A6%86%E5%B0%B1%E5%8F%8D%E5%8D%8E%E6%B8%B8%E8%A1%8C%E8%A1%A8%E6%98%8E%E4%B8%A5%E6%AD%A3%E7%AB%8B%E5%9C%BA%23" target="weibo">
 我驻韩使馆就反华游行表明严正立场（热度：793686）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%96%B0%E5%A3%81%E7%BA%B8%23" target="weibo">
+鹿晗新壁纸（热度：792284）
 </a>
 </li>
 
@@ -1587,6 +1593,12 @@ hi6（热度：563954）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E7%94%B2%E5%8C%BB%E7%94%9F%E8%A7%A3%E8%AF%BB%E5%8F%AA%E5%90%83%E6%B0%B4%E6%9E%9C%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%96%23" target="weibo">
+三甲医生解读只吃水果女子去世（热度：496984）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%8C%E8%85%8A%E5%85%A8%E5%9B%BD%E7%BD%A2%E5%B7%A5%23" target="weibo">
 希腊全国罢工（热度：495308）
 </a>
@@ -1769,12 +1781,6 @@ K签证（热度：453444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA5%E4%BA%BA%E8%BF%9B%E5%85%A5%E5%BA%9F%E5%BC%83%E7%9F%BF%E7%A1%90%E9%81%87%E9%9A%BE%23" target="weibo">
 福建5人进入废弃矿硐遇难（热度：450319）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%96%B0%E5%A3%81%E7%BA%B8%23" target="weibo">
-鹿晗新壁纸（热度：450249）
 </a>
 </li>
 
@@ -2489,6 +2495,12 @@ WTT（热度：332672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B9%90%E6%99%A8%23" target="weibo">
 王乐晨（热度：326609）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%9C%A8%E4%B8%AD%E5%8C%BB%E9%9D%A2%E5%89%8D%E6%AF%AB%E6%97%A0%E7%A7%98%E5%AF%86%E5%8F%AF%E8%A8%80%23" target="weibo">
+人类在中医面前毫无秘密可言（热度：325061）
 </a>
 </li>
 
@@ -3225,12 +3237,6 @@ F1（热度：275052）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E7%94%B2%E5%8C%BB%E7%94%9F%E8%A7%A3%E8%AF%BB%E5%8F%AA%E5%90%83%E6%B0%B4%E6%9E%9C%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%96%23" target="weibo">
-三甲医生解读只吃水果女子去世（热度：257382）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%9E%A3%E5%AE%87vsF%E5%8B%92%E5%B8%83%E4%BC%A6%23" target="weibo">
 陈垣宇vsF勒布伦（热度：257259）
 </a>
@@ -3323,6 +3329,12 @@ F1（热度：275052）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%82%92%E7%B2%89%E8%80%81%E6%9D%BF%E5%BC%80%E9%97%A8%E5%8F%91%E7%8E%B0%E7%99%BE%E7%B1%B3%E9%95%BF%E9%98%9F%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
 炒粉老板开门发现百米长队天塌了（热度：250956）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%20%E4%B8%8D%E8%A6%81%E9%97%AE%E4%BA%BA%E5%AE%B6%E8%BF%99%E7%A7%8D%E9%97%AE%E9%A2%98%23" target="weibo">
+王安宇 不要问人家这种问题（热度：250238）
 </a>
 </li>
 
@@ -3689,6 +3701,18 @@ G6666次列车限时开行（热度：233415）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%AE%9A%E5%A6%86%E5%89%A7%E7%85%A7%23" target="weibo">
 严浩翔定妆剧照（热度：225327）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E8%B4%BE%E4%B9%83%E4%BA%AE%E4%B9%B0%E9%87%91%E9%92%9E%23" target="weibo">
+偶遇贾乃亮买金钞（热度：224803）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9C%89%E6%95%88%E6%96%87%E5%8C%96%E8%BE%93%E5%87%BA%23" target="weibo">
+迪丽热巴有效文化输出（热度：224380）
 </a>
 </li>
 
@@ -4527,12 +4551,6 @@ LOEWE眼光 惠英红就是奢侈品（热度：192315）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%B1%BB%E5%9C%A8%E4%B8%AD%E5%8C%BB%E9%9D%A2%E5%89%8D%E6%AF%AB%E6%97%A0%E7%A7%98%E5%AF%86%E5%8F%AF%E8%A8%80%23" target="weibo">
-人类在中医面前毫无秘密可言（热度：191978）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E7%94%B7%E4%B8%BB%E5%87%BA%E5%9C%BA%E4%B8%89%E9%9B%86%E5%B0%B1%E8%AF%B4%E5%8D%81%E5%8F%A5%23" target="weibo">
 谁家男主出场三集就说十句（热度：191793）
 </a>
@@ -4601,6 +4619,12 @@ NRG总决赛对阵FNC（热度：190252）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E9%B8%A1%E5%92%8CCardiB%E7%BA%BF%E4%B8%8B%E7%BA%A6%E6%9E%B6%23" target="weibo">
 麻辣鸡和CardiB线下约架（热度：189500）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%867.6%23" target="weibo">
+震耳欲聋豆瓣开分7.6（热度：189425）
 </a>
 </li>
 
@@ -4985,6 +5009,12 @@ AG对战JDG（热度：181803）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%96%B0%E7%9A%93%E8%B7%B3%E4%BA%86%E5%B0%8F%E7%8C%AB%E6%91%87%23" target="weibo">
 苏新皓跳了小猫摇（热度：177661）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%96%E4%B8%8D%E5%AE%8C%E7%9A%84%E6%9C%88%E9%A5%BC%E9%83%BD%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%23" target="weibo">
+卖不完的月饼都去哪儿了（热度：176879）
 </a>
 </li>
 
@@ -5435,6 +5465,12 @@ Dior大秀G社生图（热度：167518）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%83%A8%E7%94%B5%E5%BD%B1%E6%8A%8A%E6%88%91%E7%9A%84%E7%9C%BC%E7%9D%9B%E5%85%BB%E5%BE%97%E5%BE%88%E5%A5%BD%23" target="weibo">
 这部电影把我的眼睛养得很好（热度：165583）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%BA%97%E8%90%A5%E4%B8%9A%E9%A2%9D18%E4%B8%87%E7%9B%88%E5%88%A9%E4%BB%851%E4%B8%87%23" target="weibo">
+外卖店营业额18万盈利仅1万（热度：165524）
 </a>
 </li>
 
@@ -5975,42 +6011,6 @@ AG年总三连胜（热度：153985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E4%B8%8D%E7%90%86%E8%A7%A3%E4%BD%86%E5%90%AC%E8%AF%9D%23" target="weibo">
 王源不理解但听话（热度：150068）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%8D%8E%E6%A3%AE%E6%97%A9%E8%AF%A5%E6%8B%8D%E7%8E%B0%E4%BB%A3%E5%89%A7%E4%BA%86%23" target="weibo">
-常华森早该拍现代剧了（热度：149919）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E7%A9%BF%E9%BE%99%E9%B3%9E%E5%94%B1%E5%A4%A9%E5%9C%B0%E9%BE%99%E9%B3%9E%23" target="weibo">
-王力宏穿龙鳞唱天地龙鳞（热度：149885）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%20%E6%88%91%E9%82%A3%E4%BD%93%E5%88%B6%E5%86%85%E5%A5%B3%E5%8F%8B%23" target="weibo">
-李一桐 我那体制内女友（热度：149559）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E5%AE%89%E5%A8%9C%E7%A9%BF%E8%9C%A1%E6%9F%93%E6%97%97%E8%A2%8D%E8%B5%B0%E6%9D%91T%23" target="weibo">
-姚安娜穿蜡染旗袍走村T（热度：149191）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%BD%A9%E4%B8%9E%E8%B6%85%E7%BB%9D%E4%B8%8D%E7%BB%8F%E6%84%8F%E5%B1%95%E7%A4%BA%E6%96%B0%E6%89%8B%E6%9C%BA%23" target="weibo">
-刘轩丞超绝不经意展示新手机（热度：149047）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E9%B8%A1%E8%85%BF%E5%A7%91%E5%A8%98%E7%88%86%E6%94%B9%E9%B8%AD%E6%A2%A8%E5%A4%AB%E4%BA%BA%23" target="weibo">
-李沁鸡腿姑娘爆改鸭梨夫人（热度：148916）
 </a>
 </li>
 
