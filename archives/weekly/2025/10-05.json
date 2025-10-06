@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759778462084,
+  "endTime": 1759779473641,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -6939,6 +6939,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28608,
+      "num": 28608,
+      "word": "景区称捡板栗壳冲突事件已处理完毕",
+      "onboard_time": 1759776555,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28185,
+      "num": 28185,
+      "word": "那艺娜目前无法下地将进行手术",
+      "onboard_time": 1759777875,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27753,
       "num": 146499,
       "word": "麦德姆逼近广东掀起5米巨浪",
@@ -6987,20 +7003,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25282,
+      "num": 25282,
+      "word": "网友巴西遭抢劫电脑为其挡一枪",
+      "onboard_time": 1759777934,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 25185,
       "num": 181228,
       "word": "张馨予下雨天收到女孩留的伞",
       "onboard_time": 1759645701,
       "rank": 19,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 25089,
-      "num": 25089,
-      "word": "景区称捡板栗壳冲突事件已处理完毕",
-      "onboard_time": 1759776555,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24190,
@@ -7065,22 +7081,6 @@
       "onboard_time": 1759658963,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 19001,
-      "num": 23901,
-      "word": "那艺娜目前无法下地将进行手术",
-      "onboard_time": 1759777875,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 18815,
-      "num": 23895,
-      "word": "网友巴西遭抢劫电脑为其挡一枪",
-      "onboard_time": 1759777934,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 18587,
