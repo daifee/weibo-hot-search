@@ -1,6 +1,6 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759769132914,
+  "endTime": 1759771404289,
   "band_list": [
     {
       "raw_hot": 1047453,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 221448,
-      "num": 221448,
+      "num": 465410,
       "word": "10月6日再逢中秋要等到2063年",
       "onboard_time": 1759763182,
       "rank": 6,
@@ -179,6 +179,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 152229,
+      "num": 173712,
+      "word": "被困珠峰游客称暴雪闪电中挺过一晚",
+      "onboard_time": 1759766661,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135525,
       "num": 184306,
       "word": "央视中秋晚会",
@@ -201,14 +209,6 @@
       "onboard_time": 1759763302,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123276,
-      "num": 173712,
-      "word": "被困珠峰游客称暴雪闪电中挺过一晚",
-      "onboard_time": 1759766661,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120369,
@@ -243,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99145,
+      "num": 145233,
+      "word": "陈楚生获奖之作大运河音乐节首唱",
+      "onboard_time": 1759768399,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 97253,
       "num": 145477,
       "word": "许我耀眼",
@@ -275,12 +283,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88547,
+      "raw_hot": 90620,
       "num": 145394,
       "word": "打卡快乐十一",
       "onboard_time": 1759761504,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85746,
+      "num": 145177,
+      "word": "以色列呼吁不要相信假新闻",
+      "onboard_time": 1759768459,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 85540,
@@ -321,22 +337,6 @@
       "onboard_time": 1759753041,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82622,
-      "num": 145233,
-      "word": "陈楚生获奖之作大运河音乐节首唱",
-      "onboard_time": 1759768399,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 81423,
-      "num": 145177,
-      "word": "以色列呼吁不要相信假新闻",
-      "onboard_time": 1759768459,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 81337,
@@ -403,11 +403,43 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 61747,
+      "num": 72829,
+      "word": "特朗普称美国本可轻松赢得越战",
+      "onboard_time": 1759769718,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 60205,
       "num": 182813,
       "word": "央视中秋晚会节目单",
       "onboard_time": 1759755202,
       "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 53765,
+      "num": 72787,
+      "word": "杨涵博 玉兔来了",
+      "onboard_time": 1759770080,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 50020,
+      "num": 72751,
+      "word": "2025国庆档票房破15亿",
+      "onboard_time": 1759769539,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 44455,
+      "num": 72711,
+      "word": "易烊千玺 有人正在挂念你",
+      "onboard_time": 1759755983,
+      "rank": 47,
       "category": "综艺"
     },
     {

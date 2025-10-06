@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/07 00:45:32
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/07 01:23:24
 </p>
 </blockquote>
 <p>
@@ -2439,6 +2439,12 @@ G社拍的马柏全宋祖儿（热度：171155）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%9B%B0%E7%8F%A0%E5%B3%B0%E6%B8%B8%E5%AE%A2%E7%A7%B0%E6%9A%B4%E9%9B%AA%E9%97%AA%E7%94%B5%E4%B8%AD%E6%8C%BA%E8%BF%87%E4%B8%80%E6%99%9A%23" target="weibo">
+被困珠峰游客称暴雪闪电中挺过一晚（热度：152229）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%90%83%E5%AE%8C%E7%81%AB%E9%94%85%E9%AA%91%E8%87%AA%E8%A1%8C%E8%BD%A6%E5%9B%9E%E5%AE%B6%23" target="weibo">
 时代少年团吃完火锅骑自行车回家（热度：152218）
 </a>
@@ -3065,12 +3071,6 @@ Gr对战ACT（热度：126728）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97omakase%23" target="weibo">
 东北omakase（热度：123466）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%9B%B0%E7%8F%A0%E5%B3%B0%E6%B8%B8%E5%AE%A2%E7%A7%B0%E6%9A%B4%E9%9B%AA%E9%97%AA%E7%94%B5%E4%B8%AD%E6%8C%BA%E8%BF%87%E4%B8%80%E6%99%9A%23" target="weibo">
-被困珠峰游客称暴雪闪电中挺过一晚（热度：123276）
 </a>
 </li>
 
@@ -3993,6 +3993,12 @@ TES让二追三成功攻擂（热度：99730）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E8%8E%B7%E5%A5%96%E4%B9%8B%E4%BD%9C%E5%A4%A7%E8%BF%90%E6%B2%B3%E9%9F%B3%E4%B9%90%E8%8A%82%E9%A6%96%E5%94%B1%23" target="weibo">
+陈楚生获奖之作大运河音乐节首唱（热度：99145）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%20%E8%BF%99%E6%98%AF%E5%8F%AF%E4%BB%A5%E8%AF%B4%E7%9A%84%E4%B9%88%23" target="weibo">
 宋亚轩 这是可以说的么（热度：99116）
 </a>
@@ -4413,6 +4419,12 @@ Gumayusi安慰T1粉丝（热度：89526）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%91%BC%E5%90%81%E4%B8%8D%E8%A6%81%E7%9B%B8%E4%BF%A1%E5%81%87%E6%96%B0%E9%97%BB%23" target="weibo">
+以色列呼吁不要相信假新闻（热度：85746）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E8%9E%8D%E9%87%87%E8%AE%BF%23" target="weibo">
 清融采访（热度：85442）
 </a>
@@ -4509,12 +4521,6 @@ Gumayusi安慰T1粉丝（热度：89526）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E8%8E%B7%E5%A5%96%E4%B9%8B%E4%BD%9C%E5%A4%A7%E8%BF%90%E6%B2%B3%E9%9F%B3%E4%B9%90%E8%8A%82%E9%A6%96%E5%94%B1%23" target="weibo">
-陈楚生获奖之作大运河音乐节首唱（热度：82622）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%A2%E9%93%81%E6%88%98%E5%A3%AB%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
 钢铁战士王楚钦（热度：82274）
 </a>
@@ -4529,12 +4535,6 @@ Gumayusi安慰T1粉丝（热度：89526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%9E%E5%AF%9F%E4%B8%80%E5%88%87%E4%B8%8D%E6%84%A7%E6%98%AF%E8%8A%B1%E6%B5%B7%23" target="weibo">
 洞察一切不愧是花海（热度：81717）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%91%BC%E5%90%81%E4%B8%8D%E8%A6%81%E7%9B%B8%E4%BF%A1%E5%81%87%E6%96%B0%E9%97%BB%23" target="weibo">
-以色列呼吁不要相信假新闻（热度：81423）
 </a>
 </li>
 
@@ -4815,6 +4815,12 @@ DRG强势拿下四连胜（热度：81263）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%9C%AC%E5%8F%AF%E8%BD%BB%E6%9D%BE%E8%B5%A2%E5%BE%97%E8%B6%8A%E6%88%98%23" target="weibo">
+特朗普称美国本可轻松赢得越战（热度：61747）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23WTT%E7%A5%9D%E5%BC%A0%E6%80%A1%E5%AE%81%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90%23" target="weibo">
 WTT祝张怡宁生日快乐（热度：61619）
 </a>
@@ -4947,6 +4953,12 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B6%B5%E5%8D%9A%20%E7%8E%89%E5%85%94%E6%9D%A5%E4%BA%86%23" target="weibo">
+杨涵博 玉兔来了（热度：53765）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BA%9A%E8%90%8D%E8%AF%B4%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%BF%99%E6%96%B9%E9%9D%A2%E4%BC%98%E4%BA%8E%E6%89%80%E6%9C%89%E4%BA%BA%23" target="weibo">
 邓亚萍说王楚钦这方面优于所有人（热度：53563）
 </a>
@@ -4991,6 +5003,12 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E4%B8%8A%E7%94%9F%E6%98%8E%E6%9C%88%E7%9A%84%E6%B5%AA%E6%BC%AB%E8%B0%81%E6%87%82%E5%95%8A%23" target="weibo">
 路上生明月的浪漫谁懂啊（热度：50385）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232025%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B415%E4%BA%BF%23" target="weibo">
+2025国庆档票房破15亿（热度：50020）
 </a>
 </li>
 
