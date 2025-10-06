@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/07 00:31:44
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/07 00:45:32
 </p>
 </blockquote>
 <p>
@@ -171,6 +171,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E9%B8%A3%E5%AF%BA%23" target="weibo">
+鸡鸣寺（热度：1047453）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E6%AF%8D%E5%A8%98%E7%BB%99%E6%96%B0%E5%A8%98%E5%96%82%E9%A5%BA%E5%AD%90%E6%96%B0%E9%83%8E%E7%A7%92%E5%8F%98%E8%84%B8%23" target="weibo">
 丈母娘给新娘喂饺子新郎秒变脸（热度：1045879）
 </a>
@@ -251,12 +257,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E6%9A%97%E7%A4%BA%E5%8F%AF%E8%83%BD%E7%88%86%E5%8F%91%E6%96%B0%E6%88%98%E4%BA%89%23" target="weibo">
 武契奇暗示可能爆发新战争（热度：881454）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E9%B8%A3%E5%AF%BA%23" target="weibo">
-鸡鸣寺（热度：875249）
 </a>
 </li>
 
@@ -1521,6 +1521,12 @@ celine大秀（热度：222882）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2310%E6%9C%886%E6%97%A5%E5%86%8D%E9%80%A2%E4%B8%AD%E7%A7%8B%E8%A6%81%E7%AD%89%E5%88%B02063%E5%B9%B4%23" target="weibo">
+10月6日再逢中秋要等到2063年（热度：221448）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E7%A7%8D%E8%8F%9C%E6%8A%80%E8%83%BD%E5%A4%AA%E5%85%A8%E9%9D%A2%E4%BA%86%23" target="weibo">
 中国人的种菜技能太全面了（热度：221025）
 </a>
@@ -2649,12 +2655,6 @@ F1（热度：144419）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2310%E6%9C%886%E6%97%A5%E5%86%8D%E9%80%A2%E4%B8%AD%E7%A7%8B%E8%A6%81%E7%AD%89%E5%88%B02063%E5%B9%B4%23" target="weibo">
-10月6日再逢中秋要等到2063年（热度：140778）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E7%A7%B0%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E4%BA%BA%E6%B0%91%E5%B0%86%E7%BB%A7%E7%BB%AD%E6%8A%B5%E6%8A%97%23" target="weibo">
 哈马斯称巴勒斯坦人民将继续抵抗（热度：140623）
 </a>
@@ -3065,6 +3065,12 @@ Gr对战ACT（热度：126728）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97omakase%23" target="weibo">
 东北omakase（热度：123466）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%9B%B0%E7%8F%A0%E5%B3%B0%E6%B8%B8%E5%AE%A2%E7%A7%B0%E6%9A%B4%E9%9B%AA%E9%97%AA%E7%94%B5%E4%B8%AD%E6%8C%BA%E8%BF%87%E4%B8%80%E6%99%9A%23" target="weibo">
+被困珠峰游客称暴雪闪电中挺过一晚（热度：123276）
 </a>
 </li>
 
@@ -4047,12 +4053,6 @@ Celine终于有颜色了（热度：98713）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%9B%B0%E7%8F%A0%E5%B3%B0%E6%B8%B8%E5%AE%A2%E7%A7%B0%E6%9A%B4%E9%9B%AA%E9%97%AA%E7%94%B5%E4%B8%AD%E6%8C%BA%E8%BF%87%E4%B8%80%E6%99%9A%23" target="weibo">
-被困珠峰游客称暴雪闪电中挺过一晚（热度：97836）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E7%9C%8B%E4%BA%86%E9%83%BD%E6%83%B3%E5%B8%A6%E5%9B%9E%E6%9C%9D%E9%98%B3%E5%85%AC%E5%9B%AD%23" target="weibo">
 那英看了都想带回朝阳公园（热度：97810）
 </a>
@@ -4509,6 +4509,12 @@ Gumayusi安慰T1粉丝（热度：89526）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E8%8E%B7%E5%A5%96%E4%B9%8B%E4%BD%9C%E5%A4%A7%E8%BF%90%E6%B2%B3%E9%9F%B3%E4%B9%90%E8%8A%82%E9%A6%96%E5%94%B1%23" target="weibo">
+陈楚生获奖之作大运河音乐节首唱（热度：82622）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%A2%E9%93%81%E6%88%98%E5%A3%AB%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
 钢铁战士王楚钦（热度：82274）
 </a>
@@ -4523,6 +4529,18 @@ Gumayusi安慰T1粉丝（热度：89526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%9E%E5%AF%9F%E4%B8%80%E5%88%87%E4%B8%8D%E6%84%A7%E6%98%AF%E8%8A%B1%E6%B5%B7%23" target="weibo">
 洞察一切不愧是花海（热度：81717）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%91%BC%E5%90%81%E4%B8%8D%E8%A6%81%E7%9B%B8%E4%BF%A1%E5%81%87%E6%96%B0%E9%97%BB%23" target="weibo">
+以色列呼吁不要相信假新闻（热度：81423）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%9B%A2%E5%9C%86%23" target="weibo">
+中秋团圆（热度：81337）
 </a>
 </li>
 
@@ -4703,12 +4721,6 @@ DRG强势拿下四连胜（热度：81263）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E9%BA%A6%E5%BE%B7%E5%A7%86%E7%99%BB%E9%99%86%E5%80%92%E8%AE%A1%E6%97%B6%23" target="weibo">
 台风麦德姆登陆倒计时（热度：70333）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%9B%A2%E5%9C%86%23" target="weibo">
-中秋团圆（热度：68623）
 </a>
 </li>
 

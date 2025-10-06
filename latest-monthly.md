@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 00:31:44
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 00:45:32
 </p>
 </blockquote>
 <p>
@@ -453,6 +453,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E9%B8%A3%E5%AF%BA%23" target="weibo">
+鸡鸣寺（热度：1047453）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E6%AF%8D%E5%A8%98%E7%BB%99%E6%96%B0%E5%A8%98%E5%96%82%E9%A5%BA%E5%AD%90%E6%96%B0%E9%83%8E%E7%A7%92%E5%8F%98%E8%84%B8%23" target="weibo">
 丈母娘给新娘喂饺子新郎秒变脸（热度：1045879）
 </a>
@@ -701,12 +707,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%B9%B2%E5%9C%B0%E6%8B%8D%E7%85%A7%E4%B8%8B%E4%B8%80%E7%A7%92%E8%90%BD%E6%B0%B4%23" target="weibo">
 张继科蹲地拍照下一秒落水（热度：876578）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E9%B8%A3%E5%AF%BA%23" target="weibo">
-鸡鸣寺（热度：875249）
 </a>
 </li>
 
@@ -4179,6 +4179,12 @@ celine大秀（热度：222882）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2310%E6%9C%886%E6%97%A5%E5%86%8D%E9%80%A2%E4%B8%AD%E7%A7%8B%E8%A6%81%E7%AD%89%E5%88%B02063%E5%B9%B4%23" target="weibo">
+10月6日再逢中秋要等到2063年（热度：221448）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E9%92%9F%E6%A5%9A%E6%9B%A6%E5%B7%B4%E9%BB%8E%E9%80%9B%E8%A1%97%23" target="weibo">
 宋佳钟楚曦巴黎逛街（热度：221446）
 </a>
@@ -6005,12 +6011,6 @@ Dior大秀G社生图（热度：167518）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%83%A8%E7%94%B5%E5%BD%B1%E6%8A%8A%E6%88%91%E7%9A%84%E7%9C%BC%E7%9D%9B%E5%85%BB%E5%BE%97%E5%BE%88%E5%A5%BD%23" target="weibo">
 这部电影把我的眼睛养得很好（热度：165583）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-鹿晗演唱会（热度：165477）
 </a>
 </li>
 
