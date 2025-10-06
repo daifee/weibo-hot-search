@@ -1,22 +1,22 @@
 {
   "startTime": 1759681668953,
-  "endTime": 1759715506869,
+  "endTime": 1759716776180,
   "band_list": [
     {
-      "raw_hot": 1411855,
-      "num": 158968,
-      "word": "王俊凯工作室修图遗落了个鼻子",
-      "onboard_time": 1759680741,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1380981,
-      "num": 1380981,
+      "raw_hot": 1697422,
+      "num": 1697422,
       "word": "只吃水果女子去世前体重仅44斤",
       "onboard_time": 1759709959,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1411855,
+      "num": 206171,
+      "word": "王俊凯工作室修图遗落了个鼻子",
+      "onboard_time": 1759680741,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 881454,
@@ -27,16 +27,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 739303,
-      "num": 739303,
+      "raw_hot": 778502,
+      "num": 778502,
       "word": "中秋",
       "onboard_time": 1759706597,
       "rank": 1,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 560309,
-      "num": 560309,
+      "raw_hot": 629586,
+      "num": 629586,
       "word": "收花生找到姥姥丢了12年的金镯",
       "onboard_time": 1759711940,
       "rank": 3,
@@ -51,6 +51,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 515787,
+      "num": 204720,
+      "word": "宁德自燃小车才开了1066公里",
+      "onboard_time": 1759708279,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 489450,
       "num": 159186,
       "word": "肖战今天的物料有点太多了",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 451290,
-      "num": 128786,
+      "num": 204602,
       "word": "许我耀眼妍妍接电话名场面来了",
       "onboard_time": 1759706117,
       "rank": 16,
@@ -75,14 +83,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 410813,
-      "num": 126594,
-      "word": "宁德自燃小车才开了1066公里",
-      "onboard_time": 1759708279,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 397253,
       "num": 397253,
       "word": "河南多地现行走的硫酸",
@@ -91,12 +91,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 317716,
-      "num": 317716,
+      "raw_hot": 318950,
+      "num": 318950,
       "word": "樊振东1比3阿吉雷",
       "onboard_time": 1759707797,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 300561,
+      "num": 202785,
+      "word": "阿维塔自燃后厂家回应",
+      "onboard_time": 1759710680,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 292726,
@@ -140,11 +148,19 @@
     },
     {
       "raw_hot": 275655,
-      "num": 114836,
+      "num": 165445,
       "word": "刘诗诗陈哲远 红气养人",
       "onboard_time": 1759681700,
       "rank": 27,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 265146,
+      "num": 201428,
+      "word": "宋祖儿华伦天奴晚宴look",
+      "onboard_time": 1759716260,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 263228,
@@ -161,6 +177,22 @@
       "onboard_time": 1759665263,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248339,
+      "num": 199810,
+      "word": "肖战手臂上有伤口",
+      "onboard_time": 1759714519,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 247860,
+      "num": 247860,
+      "word": "酒店房顶坍塌时正在办婚礼",
+      "onboard_time": 1759714460,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 244211,
@@ -180,26 +212,34 @@
     },
     {
       "raw_hot": 227052,
-      "num": 111421,
+      "num": 170607,
       "word": "许妍醉酒后跑回婚房",
       "onboard_time": 1759711699,
       "rank": 20,
       "category": "剧集"
     },
     {
-      "raw_hot": 219385,
-      "num": 124693,
-      "word": "肖战手臂上有伤口",
-      "onboard_time": 1759714519,
-      "rank": 13,
+      "raw_hot": 211435,
+      "num": 199103,
+      "word": "邱泽希望儿子全像许玮甯",
+      "onboard_time": 1759715779,
+      "rank": 16,
       "category": "艺人"
     },
     {
-      "raw_hot": 218928,
-      "num": 122286,
-      "word": "阿维塔自燃后厂家回应",
-      "onboard_time": 1759710680,
-      "rank": 14,
+      "raw_hot": 207377,
+      "num": 207377,
+      "word": "八国发表联合声明",
+      "onboard_time": 1759709238,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 203106,
+      "num": 170649,
+      "word": "圆圆圆圆中秋圆圆圆圆",
+      "onboard_time": 1759713799,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -211,8 +251,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197916,
+      "num": 197916,
+      "word": "中央气象台同时发布台风暴雨预警",
+      "onboard_time": 1759713559,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 197819,
+      "num": 170610,
+      "word": "这届年轻人国庆黄金周爱上窝囊游",
+      "onboard_time": 1759716199,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197383,
-      "num": 111210,
+      "num": 154800,
       "word": "浙江摄影师中秋卖16元月亮收入过千",
       "onboard_time": 1759715118,
       "rank": 21,
@@ -227,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195707,
+      "num": 195707,
+      "word": "月饼",
+      "onboard_time": 1759715059,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 186154,
       "num": 186154,
       "word": "王楚钦累得睡在场馆",
@@ -236,7 +300,7 @@
     },
     {
       "raw_hot": 183994,
-      "num": 118878,
+      "num": 140194,
       "word": "游客称捡板栗壳被民宿老板娘诬陷偷",
       "onboard_time": 1759706597,
       "rank": 19,
@@ -307,6 +371,22 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 170761,
+      "num": 170761,
+      "word": "人真不能一直住太差的房子",
+      "onboard_time": 1759715779,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 170178,
+      "num": 170178,
+      "word": "百花杀",
+      "onboard_time": 1759715779,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166741,
       "num": 166741,
       "word": "王曼昱4比2战胜孙颖莎",
@@ -315,12 +395,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164614,
+      "num": 164614,
+      "word": "花开锦绣",
+      "onboard_time": 1759716139,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164491,
       "num": 157265,
       "word": "张子墨 时代峰峻倒闭了我怎么办",
       "onboard_time": 1759668924,
       "rank": 17,
       "category": "演出,作品衍生"
+    },
+    {
+      "raw_hot": 162205,
+      "num": 162205,
+      "word": "王楚钦拼到低血糖",
+      "onboard_time": 1759714219,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 159592,
@@ -340,59 +436,43 @@
     },
     {
       "raw_hot": 153074,
-      "num": 113733,
+      "num": 145864,
       "word": "65岁老人1个月瘦30斤后",
       "onboard_time": 1759709718,
       "rank": 18,
       "category": "运动健身"
     },
     {
-      "raw_hot": 146644,
-      "num": 110354,
-      "word": "王楚钦拼到低血糖",
-      "onboard_time": 1759714219,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 148900,
+      "num": 148900,
+      "word": "今后几天雨雨雨雨雨不停",
+      "onboard_time": 1759713681,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145694,
-      "num": 109864,
+      "num": 123029,
       "word": "黄金狂飙原因",
       "onboard_time": 1759710680,
       "rank": 23,
       "category": "财经"
     },
     {
-      "raw_hot": 142328,
-      "num": 142328,
-      "word": "中央气象台同时发布台风暴雨预警",
-      "onboard_time": 1759713559,
-      "rank": 8,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 137410,
-      "num": 109388,
-      "word": "八国发表联合声明",
-      "onboard_time": 1759709238,
-      "rank": 24,
-      "category": "国际时政"
+      "raw_hot": 138352,
+      "num": 138352,
+      "word": "航天员晒中秋大餐",
+      "onboard_time": 1759716320,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135602,
-      "num": 108522,
+      "num": 119011,
       "word": "也是吃上公主小妹同款了",
       "onboard_time": 1759710739,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 132439,
-      "num": 132439,
-      "word": "月饼",
-      "onboard_time": 1759715059,
-      "rank": 9,
-      "category": "美食"
     },
     {
       "raw_hot": 131999,
@@ -427,14 +507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 114715,
-      "num": 103999,
-      "word": "酒店房顶坍塌时正在办婚礼",
-      "onboard_time": 1759714460,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111808,
       "num": 111808,
       "word": "今年中秋月亮7日11时48分最圆",
@@ -451,12 +523,52 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 107783,
+      "num": 107783,
+      "word": "哈马斯称巴勒斯坦人民将继续抵抗",
+      "onboard_time": 1759715839,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 105387,
+      "num": 105387,
+      "word": "中秋节公历日期比去年晚了19天",
+      "onboard_time": 1759716260,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102446,
       "num": 102446,
       "word": "湖人vs勇士",
       "onboard_time": 1759713619,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101271,
+      "num": 101271,
+      "word": "中国人研究月球土特产又有新成果",
+      "onboard_time": 1759716320,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99378,
+      "num": 99378,
+      "word": "迪丽热巴在张馨予背后叫人的样子",
+      "onboard_time": 1759716681,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 98161,
+      "num": 98161,
+      "word": "男子用垃圾袋自制扰流球防风",
+      "onboard_time": 1759711219,
+      "rank": 41,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 97787,
@@ -483,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92208,
+      "num": 92208,
+      "word": "中秋文案",
+      "onboard_time": 1759710739,
+      "rank": 47,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 91894,
       "num": 101945,
       "word": "NRG总决赛对阵FNC",
@@ -497,6 +617,14 @@
       "onboard_time": 1759684878,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91674,
+      "num": 91674,
+      "word": "这才是对鸡排哥们真正的爱护",
+      "onboard_time": 1759710919,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91616,
@@ -531,27 +659,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 89566,
-      "num": 89566,
-      "word": "这才是对鸡排哥们真正的爱护",
-      "onboard_time": 1759710919,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88495,
       "num": 88495,
       "word": "女子打车不给过路费司机送回起点",
       "onboard_time": 1759713559,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85987,
-      "num": 85987,
-      "word": "今后几天雨雨雨雨雨不停",
-      "onboard_time": 1759713681,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -569,14 +681,6 @@
       "onboard_time": 1759707017,
       "rank": 47,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 84920,
-      "num": 84920,
-      "word": "男子用垃圾袋自制扰流球防风",
-      "onboard_time": 1759711219,
-      "rank": 41,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 84455,
@@ -707,14 +811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 70814,
-      "num": 70814,
-      "word": "中秋文案",
-      "onboard_time": 1759710739,
-      "rank": 47,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 68221,
       "num": 90644,
       "word": "柏林偶遇欧阳娜娜",
@@ -793,6 +889,14 @@
       "onboard_time": 1759674143,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58573,
+      "num": 81783,
+      "word": "刘震云河南野生代言人",
+      "onboard_time": 1759716260,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 56394,
@@ -876,7 +980,7 @@
     },
     {
       "raw_hot": 31627,
-      "num": 634452,
+      "num": 648626,
       "word": "网警提醒假期过半务必提高警惕",
       "onboard_time": 1759708218,
       "rank": 2,
