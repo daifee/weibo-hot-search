@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/07 00:31:44 ~ 2025/10/07 04:27:47
+本榜单时间：2025/10/07 00:31:44 ~ 2025/10/07 04:40:44
 </p>
 </blockquote>
 <p>
@@ -419,6 +419,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%A4%9C%E5%8C%97%E4%BA%AC%E7%8E%B0%E7%BB%9D%E7%BE%8E%E5%BD%A9%E4%BA%91%E8%BF%BD%E6%9C%88%23" target="weibo">
 中秋夜北京现绝美彩云追月（热度：11132）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%BF%83%E5%8D%8F%E5%8A%9B%E5%85%B1%E8%A5%84%E4%BC%9F%E4%B8%9A%23" target="weibo">
+同心协力共襄伟业（热度：10850）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E9%BA%A6%E5%BE%B7%E5%A7%86%E5%9C%A8%E5%B9%BF%E8%A5%BF%E6%B2%BF%E6%B5%B7%E5%86%8D%E6%AC%A1%E7%99%BB%E9%99%86%23" target="weibo">
+台风麦德姆在广西沿海再次登陆（热度：10079）
 </a>
 </li>
 
