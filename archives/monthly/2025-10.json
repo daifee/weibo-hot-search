@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759758378769,
+  "endTime": 1759760785088,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -241,6 +241,14 @@
       "onboard_time": 1759382181,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1442354,
+      "num": 1442354,
+      "word": "南京地铁鸡鸣寺事件当事人发声",
+      "onboard_time": 1759758383,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1434510,
@@ -1931,6 +1939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 549401,
+      "num": 549401,
+      "word": "高铁上男子亲陌生女娃称太可爱",
+      "onboard_time": 1759756282,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 549329,
       "num": 549329,
       "word": "三亚大悦城致歉",
@@ -2347,6 +2363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 485512,
+      "num": 485512,
+      "word": "挪威2万人口小岛因中国游客堵车",
+      "onboard_time": 1759756703,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484736,
       "num": 259870,
       "word": "曝王乐晨是为了气前女友跑去上综艺",
@@ -2449,14 +2473,6 @@
       "onboard_time": 1759484600,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 470875,
-      "num": 470875,
-      "word": "高铁上男子亲陌生女娃称太可爱",
-      "onboard_time": 1759756282,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 467123,
@@ -2624,14 +2640,6 @@
       "word": "智能马桶喷出开水女子被烫伤",
       "onboard_time": 1759411101,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 444495,
-      "num": 444495,
-      "word": "挪威2万人口小岛因中国游客堵车",
-      "onboard_time": 1759756703,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -2985,6 +2993,14 @@
       "onboard_time": 1759487900,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 390557,
+      "num": 265637,
+      "word": "刘一菲cos灵儿",
+      "onboard_time": 1759754544,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 389679,
@@ -3441,6 +3457,14 @@
       "onboard_time": 1759407080,
       "rank": 21,
       "category": "海外新闻,艺人"
+    },
+    {
+      "raw_hot": 346532,
+      "num": 219306,
+      "word": "鹿晗方将承担机票和酒店产生的损失",
+      "onboard_time": 1759759762,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 346102,
@@ -4259,6 +4283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284161,
+      "num": 224153,
+      "word": "王楚钦你扣子扣岔了",
+      "onboard_time": 1759758744,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283669,
       "num": 205723,
       "word": "王俊凯刚落地又飞走了",
@@ -4387,14 +4419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 276649,
-      "num": 265637,
-      "word": "刘一菲cos灵儿",
-      "onboard_time": 1759754544,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 276544,
       "num": 227736,
       "word": "罗意威大秀",
@@ -4441,6 +4465,14 @@
       "onboard_time": 1759500743,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275006,
+      "num": 221227,
+      "word": "王源 马尔代夫",
+      "onboard_time": 1759760123,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 274562,
@@ -4891,6 +4923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247259,
+      "num": 219979,
+      "word": "周深 三十岁了已经不可爱了",
+      "onboard_time": 1759759463,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 246807,
       "num": 246807,
       "word": "陈幸同被罚分",
@@ -5105,6 +5145,14 @@
       "onboard_time": 1759549099,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 235596,
+      "num": 227631,
+      "word": "华晨宇三天烟花放掉一套别墅",
+      "onboard_time": 1759759343,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 234838,
@@ -6004,7 +6052,7 @@
     },
     {
       "raw_hot": 203106,
-      "num": 170649,
+      "num": 647408,
       "word": "圆圆圆圆中秋圆圆圆圆",
       "onboard_time": 1759713799,
       "rank": 20,
@@ -6273,6 +6321,14 @@
       "onboard_time": 1759465640,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197016,
+      "num": 197016,
+      "word": "陈奕恒高会",
+      "onboard_time": 1759759704,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 196921,
@@ -6657,6 +6713,14 @@
       "onboard_time": 1759554320,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187659,
+      "num": 172877,
+      "word": "张艺兴演唱会唱了十二月的奇迹",
+      "onboard_time": 1759759042,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 187577,
@@ -7499,6 +7563,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 169747,
+      "num": 169747,
+      "word": "王珞丹上身基础腿就不基础",
+      "onboard_time": 1759758024,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169610,
       "num": 149417,
       "word": "王楚钦孙颖莎扔花致谢球迷",
@@ -7577,6 +7649,14 @@
       "onboard_time": 1759297400,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168338,
+      "num": 168338,
+      "word": "范闲范思辙给林婉儿打call",
+      "onboard_time": 1759758744,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 168154,
@@ -8139,6 +8219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158872,
+      "num": 158872,
+      "word": "央视审美 国泰民安",
+      "onboard_time": 1759759162,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158734,
       "num": 158734,
       "word": "看完之后觉得9块9一杯还是贵了",
@@ -8201,6 +8289,14 @@
       "onboard_time": 1759664902,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157602,
+      "num": 157602,
+      "word": "闫妮不微醺了",
+      "onboard_time": 1759759943,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 157402,
@@ -8361,6 +8457,14 @@
       "onboard_time": 1759737620,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154644,
+      "num": 154644,
+      "word": "孙颖莎中秋节祝福",
+      "onboard_time": 1759757963,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 154320,
@@ -8643,14 +8747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149188,
-      "num": 149188,
-      "word": "王珞丹上身基础腿就不基础",
-      "onboard_time": 1759758024,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 149047,
       "num": 149047,
       "word": "刘轩丞超绝不经意展示新手机",
@@ -8705,6 +8801,14 @@
       "onboard_time": 1759721121,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148159,
+      "num": 148159,
+      "word": "孙颖莎试吃月饼后逃跑",
+      "onboard_time": 1759760304,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 148141,
@@ -8971,6 +9075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145360,
+      "num": 145360,
+      "word": "金莎这小两口 越看越般配",
+      "onboard_time": 1759760063,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145223,
       "num": 145223,
       "word": "檀健次主演电影票房破10亿",
@@ -9193,6 +9305,14 @@
       "onboard_time": 1759758083,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142352,
+      "num": 142352,
+      "word": "十个勤天唱歌顺序都按年龄来",
+      "onboard_time": 1759758503,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 142199,
@@ -9737,6 +9857,14 @@
       "onboard_time": 1759638680,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136024,
+      "num": 136024,
+      "word": "陈楚生压轴连唱两首",
+      "onboard_time": 1759759042,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 135945,
@@ -10809,6 +10937,14 @@
       "onboard_time": 1759391060,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124539,
+      "num": 124539,
+      "word": "她是怎么想到在闺蜜婚礼表演这个的",
+      "onboard_time": 1759760723,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 124464,
@@ -13155,14 +13291,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 106469,
-      "num": 106469,
-      "word": "孙颖莎中秋节祝福",
-      "onboard_time": 1759757963,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106427,
       "num": 106427,
       "word": "曼联vs桑德兰",
@@ -13409,6 +13537,14 @@
       "onboard_time": 1759326621,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105081,
+      "num": 148951,
+      "word": "烘焙店老板被新员工当成小偷",
+      "onboard_time": 1759760664,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105032,
@@ -16835,6 +16971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80447,
+      "num": 149061,
+      "word": "王珞丹往那一站有白月光那味儿了",
+      "onboard_time": 1759759822,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80355,
       "num": 80355,
       "word": "国庆出游照我就这样发",
@@ -20185,6 +20329,14 @@
       "onboard_time": 1759501582,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1574,
+      "num": 173129,
+      "word": "团圆是中国人最美好的期待",
+      "onboard_time": 1759708397,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1349,
