@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759724967091,
+  "endTime": 1759725785769,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -43,8 +43,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1429600,
-      "num": 162401,
+      "raw_hot": 1565208,
+      "num": 169967,
       "word": "胡定欣官宣结婚",
       "onboard_time": 1759722260,
       "rank": 25,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1401938,
+      "num": 169704,
+      "word": "关晓彤美黑",
+      "onboard_time": 1759722319,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1291281,
       "num": 1291281,
       "word": "王楚钦vsF勒布伦",
@@ -89,14 +97,6 @@
       "onboard_time": 1759655781,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1270206,
-      "num": 162210,
-      "word": "关晓彤美黑",
-      "onboard_time": 1759722319,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 1240867,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1013446,
-      "num": 1121942,
+      "num": 1125915,
       "word": "马龙妻子夏露分享跳舞视频",
       "onboard_time": 1759719321,
       "rank": 21,
@@ -995,7 +995,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 292655,
+      "raw_hot": 294336,
       "num": 189160,
       "word": "陆毅96年存百元私房钱请鲍蕾吃大餐",
       "onboard_time": 1759719081,
@@ -1217,6 +1217,14 @@
       "onboard_time": 1759714519,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246628,
+      "num": 246628,
+      "word": "已有350名被困珠峰游客获救",
+      "onboard_time": 1759723161,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245066,
@@ -1499,6 +1507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200036,
+      "num": 168211,
+      "word": "小孩哥用通缉令上证件号认证游戏",
+      "onboard_time": 1759725021,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197916,
       "num": 215145,
       "word": "中央气象台同时发布台风暴雨预警",
@@ -1571,6 +1587,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 194985,
+      "num": 168031,
+      "word": "迪丽热巴来请大家吃月饼了",
+      "onboard_time": 1759725380,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193595,
       "num": 147009,
       "word": "巴基斯坦选手喷空气清新剂",
@@ -1585,14 +1609,6 @@
       "onboard_time": 1759672584,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192961,
-      "num": 192961,
-      "word": "已有350名被困珠峰游客获救",
-      "onboard_time": 1759723161,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192911,
@@ -1779,6 +1795,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 180060,
+      "num": 166791,
+      "word": "迪丽热巴差点亲到张馨予了",
+      "onboard_time": 1759724720,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178956,
       "num": 152278,
       "word": "董洁优雅小黑裙",
@@ -1817,6 +1841,14 @@
       "onboard_time": 1759626260,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176528,
+      "num": 176528,
+      "word": "被一条皮皮虾惊艳到了",
+      "onboard_time": 1759724061,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 174733,
@@ -1969,6 +2001,14 @@
       "onboard_time": 1759651759,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165228,
+      "num": 165228,
+      "word": "第几次亲嘴12秒翻面3次啊",
+      "onboard_time": 1759725501,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 164614,
@@ -2131,6 +2171,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 153386,
+      "num": 153386,
+      "word": "表妹万福",
+      "onboard_time": 1759725141,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153175,
       "num": 153175,
       "word": "宴遇永安",
@@ -2219,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147344,
+      "num": 147344,
+      "word": "金莎孙丞潇把中秋节过成情人节",
+      "onboard_time": 1759724901,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147057,
       "num": 147057,
       "word": "高铁 充电口使用权争议",
@@ -2281,6 +2337,14 @@
       "onboard_time": 1759710680,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 145645,
+      "num": 145645,
+      "word": "微信上传一个视频15次后的样子",
+      "onboard_time": 1759725141,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 145443,
@@ -2523,6 +2587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134329,
+      "num": 134329,
+      "word": "李斯丹妮因工作人员没会员唱歌中断",
+      "onboard_time": 1759722921,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133649,
       "num": 155131,
       "word": "49岁越疆科技副总裁曾宇突发疾病去世",
@@ -2553,14 +2625,6 @@
       "onboard_time": 1759718960,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133012,
-      "num": 133012,
-      "word": "被一条皮皮虾惊艳到了",
-      "onboard_time": 1759724061,
-      "rank": 25,
-      "category": "美食"
     },
     {
       "raw_hot": 132865,
@@ -2691,6 +2755,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 127629,
+      "num": 127629,
+      "word": "独居女生套内45平米的家",
+      "onboard_time": 1759723822,
+      "rank": 30,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 127175,
       "num": 127175,
       "word": "泸州银河左岸音乐节",
@@ -2705,14 +2777,6 @@
       "onboard_time": 1759653440,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126621,
-      "num": 126621,
-      "word": "李斯丹妮因工作人员没会员唱歌中断",
-      "onboard_time": 1759722921,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 126329,
@@ -2825,14 +2889,6 @@
       "onboard_time": 1759638200,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120470,
-      "num": 120470,
-      "word": "独居女生套内45平米的家",
-      "onboard_time": 1759723822,
-      "rank": 30,
-      "category": "休闲"
     },
     {
       "raw_hot": 120306,
@@ -3139,6 +3195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110147,
+      "num": 110147,
+      "word": "原来在猫猫眼中我们人类是这样",
+      "onboard_time": 1759725260,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110131,
       "num": 110131,
       "word": "杨博文看张子墨演唱会",
@@ -3243,20 +3307,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106389,
+      "num": 106389,
+      "word": "孙颖莎14冠王楚钦11冠",
+      "onboard_time": 1759723822,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106203,
       "num": 106203,
       "word": "朋友圈里感受到一种经济上行的美",
       "onboard_time": 1759656621,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106184,
-      "num": 106184,
-      "word": "迪丽热巴差点亲到张馨予了",
-      "onboard_time": 1759724720,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 105847,
@@ -3369,6 +3433,14 @@
       "onboard_time": 1759670124,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103674,
+      "num": 103674,
+      "word": "特朗普不满以色列总理消极反应",
+      "onboard_time": 1759724661,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103443,
@@ -3487,6 +3559,14 @@
       "num": 100162,
       "word": "张佳宁车内化妆像极了我赶早八",
       "onboard_time": 1759641081,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100103,
+      "num": 100103,
+      "word": "曾黎这套梦回星汉灿烂阿母",
+      "onboard_time": 1759725260,
       "rank": 45,
       "category": "艺人"
     },
@@ -3723,22 +3803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90544,
-      "num": 90544,
-      "word": "孙颖莎14冠王楚钦11冠",
-      "onboard_time": 1759723822,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 90400,
-      "num": 90400,
-      "word": "特朗普不满以色列总理消极反应",
-      "onboard_time": 1759724661,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 90310,
       "num": 133263,
       "word": "孙颖莎好牛的一球",
@@ -3801,14 +3865,6 @@
       "onboard_time": 1759640301,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88969,
-      "num": 88969,
-      "word": "金莎孙丞潇把中秋节过成情人节",
-      "onboard_time": 1759724901,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 88549,
@@ -4347,6 +4403,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 57782,
+      "num": 683289,
+      "word": "中秋国庆祝福文案",
+      "onboard_time": 1759724720,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57542,
       "num": 57542,
       "word": "AG战胜JDG",
@@ -4444,7 +4508,7 @@
     },
     {
       "raw_hot": 54197,
-      "num": 88672,
+      "num": 111306,
       "word": "支付宝首页在玩很新的养生学",
       "onboard_time": 1759723881,
       "rank": 49,
@@ -4515,6 +4579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48526,
+      "num": 110240,
+      "word": "乌军一英国雇佣兵返乡后自杀",
+      "onboard_time": 1759725021,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 48436,
       "num": 48436,
       "word": "迪丽热巴非遗灵雀缀宝冠",
@@ -4529,6 +4601,14 @@
       "onboard_time": 1759683979,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 46159,
+      "num": 110172,
+      "word": "WTT中国大满贯冠军城市宣传照",
+      "onboard_time": 1759725320,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 44231,
@@ -4681,14 +4761,6 @@
       "onboard_time": 1759618335,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28627,
-      "num": 683289,
-      "word": "中秋国庆祝福文案",
-      "onboard_time": 1759724720,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27753,
