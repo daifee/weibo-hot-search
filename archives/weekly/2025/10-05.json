@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759725785769,
+  "endTime": 1759728333203,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1565208,
-      "num": 169967,
+      "num": 186575,
       "word": "胡定欣官宣结婚",
       "onboard_time": 1759722260,
       "rank": 25,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1401938,
-      "num": 169704,
+      "num": 187411,
       "word": "关晓彤美黑",
       "onboard_time": 1759722319,
       "rank": 33,
@@ -315,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 757826,
+      "num": 185899,
+      "word": "翁青雅签公司了",
+      "onboard_time": 1759726581,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 739947,
       "num": 1118391,
       "word": "拉面哥掉粉42.8万",
@@ -363,6 +371,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 650746,
+      "num": 184952,
+      "word": "第几次亲嘴12秒翻面3次啊",
+      "onboard_time": 1759725501,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 643680,
       "num": 890645,
       "word": "晓华理发店已没了爆火时的人潮",
@@ -409,6 +425,14 @@
       "onboard_time": 1759586903,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 599455,
+      "num": 599455,
+      "word": "小孩哥用通缉令上证件号认证游戏",
+      "onboard_time": 1759725021,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 587904,
@@ -497,6 +521,14 @@
       "onboard_time": 1759638081,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 504363,
+      "num": 184515,
+      "word": "对孙千身高有了实感",
+      "onboard_time": 1759726101,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 489450,
@@ -737,6 +769,14 @@
       "onboard_time": 1759635200,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 346102,
+      "num": 346102,
+      "word": "已有350名被困珠峰游客获救",
+      "onboard_time": 1759723161,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 345471,
@@ -987,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296781,
+      "num": 183846,
+      "word": "微信上传一个视频15次后的样子",
+      "onboard_time": 1759725141,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 295017,
       "num": 295017,
       "word": "乌称遭俄50枚导弹500架无人机袭击",
@@ -1036,7 +1084,7 @@
     },
     {
       "raw_hot": 282935,
-      "num": 171510,
+      "num": 188521,
       "word": "面馆默许高中生插队排队游客发声",
       "onboard_time": 1759720281,
       "rank": 35,
@@ -1219,14 +1267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246628,
-      "num": 246628,
-      "word": "已有350名被困珠峰游客获救",
-      "onboard_time": 1759723161,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 245066,
       "num": 184346,
       "word": "hi6收视率排名第一",
@@ -1265,6 +1305,14 @@
       "onboard_time": 1759683020,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230666,
+      "num": 180339,
+      "word": "迪丽热巴差点亲到张馨予了",
+      "onboard_time": 1759724720,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 229562,
@@ -1475,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203480,
+      "num": 181226,
+      "word": "田曦薇鹅黄吊带襦裙",
+      "onboard_time": 1759727601,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 203106,
       "num": 170649,
       "word": "圆圆圆圆中秋圆圆圆圆",
@@ -1505,14 +1561,6 @@
       "onboard_time": 1759663344,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 200036,
-      "num": 168211,
-      "word": "小孩哥用通缉令上证件号认证游戏",
-      "onboard_time": 1759725021,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197916,
@@ -1585,6 +1633,14 @@
       "onboard_time": 1759715059,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 195460,
+      "num": 180783,
+      "word": "马嘉祺宋亚轩刘耀文贺峻霖吃烧烤",
+      "onboard_time": 1759727781,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 194985,
@@ -1795,14 +1851,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 180060,
-      "num": 166791,
-      "word": "迪丽热巴差点亲到张馨予了",
-      "onboard_time": 1759724720,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178956,
       "num": 152278,
       "word": "董洁优雅小黑裙",
@@ -1833,6 +1881,14 @@
       "onboard_time": 1759596438,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176663,
+      "num": 176663,
+      "word": "周迅的白发好优雅",
+      "onboard_time": 1759726581,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 176590,
@@ -1931,12 +1987,28 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 171013,
+      "num": 171013,
+      "word": "心动的信号",
+      "onboard_time": 1759728021,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170820,
       "num": 170820,
       "word": "入青云",
       "onboard_time": 1759634300,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170327,
+      "num": 170327,
+      "word": "赵丽颖祝大家中秋快乐",
+      "onboard_time": 1759726221,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 170178,
@@ -2003,12 +2075,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165228,
-      "num": 165228,
-      "word": "第几次亲嘴12秒翻面3次啊",
-      "onboard_time": 1759725501,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 166166,
+      "num": 166166,
+      "word": "独居女生套内45平米的家",
+      "onboard_time": 1759723822,
+      "rank": 30,
+      "category": "休闲"
     },
     {
       "raw_hot": 164614,
@@ -2337,14 +2409,6 @@
       "onboard_time": 1759710680,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 145645,
-      "num": 145645,
-      "word": "微信上传一个视频15次后的样子",
-      "onboard_time": 1759725141,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 145443,
@@ -2755,14 +2819,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 127629,
-      "num": 127629,
-      "word": "独居女生套内45平米的家",
-      "onboard_time": 1759723822,
-      "rank": 30,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 127175,
       "num": 127175,
       "word": "泸州银河左岸音乐节",
@@ -2777,6 +2833,14 @@
       "onboard_time": 1759653440,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126637,
+      "num": 126637,
+      "word": "伊朗货币将删除四个零",
+      "onboard_time": 1759728021,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 126329,
@@ -2915,6 +2979,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 119069,
+      "num": 119069,
+      "word": "范丞丞没有一个人去巴黎",
+      "onboard_time": 1759726821,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118796,
       "num": 118796,
       "word": "原来这就是吃尽了红利的松弛感",
@@ -3003,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116314,
+      "num": 116314,
+      "word": "低估了回眸杀的含金量",
+      "onboard_time": 1759728262,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116271,
       "num": 116271,
       "word": "裁判马宁",
@@ -3049,6 +3129,14 @@
       "onboard_time": 1759627279,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114387,
+      "num": 114387,
+      "word": "李嘉格 我相信爱情",
+      "onboard_time": 1759727961,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 114325,
@@ -3507,6 +3595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 101859,
+      "num": 101859,
+      "word": "林志玲舞那几下好灵",
+      "onboard_time": 1759728142,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 101775,
       "num": 101775,
       "word": "许我耀眼于岚有多偏爱儿媳",
@@ -3531,20 +3627,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101162,
+      "num": 101162,
+      "word": "新郎跳河事件谣言要查处真相当公布",
+      "onboard_time": 1759723161,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100777,
       "num": 100777,
       "word": "林依轮来看女单决赛了",
       "onboard_time": 1759658662,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100299,
-      "num": 100299,
-      "word": "新郎跳河事件谣言要查处真相当公布",
-      "onboard_time": 1759723161,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100165,
@@ -3763,6 +3859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92371,
+      "num": 92371,
+      "word": "王嘉尔演唱会被亲后的反应",
+      "onboard_time": 1759726461,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 92208,
       "num": 92208,
       "word": "中秋文案",
@@ -3793,6 +3897,14 @@
       "onboard_time": 1759645460,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90858,
+      "num": 90858,
+      "word": "可能会伤害视力的零食",
+      "onboard_time": 1759726101,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 90783,
@@ -4611,6 +4723,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46116,
+      "num": 104647,
+      "word": "巅峰时期的奚梦瑶",
+      "onboard_time": 1759727721,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 45100,
+      "num": 183252,
+      "word": "这一季巴黎世家我直接下单",
+      "onboard_time": 1759727361,
+      "rank": 16,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 44231,
       "num": 82624,
       "word": "赵雷音乐节",
@@ -4771,6 +4899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27003,
+      "num": 105538,
+      "word": "王安宇在陈哲远身后偷偷比耶",
+      "onboard_time": 1759727421,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26280,
       "num": 31946,
       "word": "苏新皓cha了MIROTIC",
@@ -4801,6 +4937,14 @@
       "onboard_time": 1759601956,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 22668,
+      "num": 87013,
+      "word": "零基础搞定中秋仪式感家宴",
+      "onboard_time": 1759726340,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 22311,
