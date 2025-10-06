@@ -1,0 +1,410 @@
+{
+  "runTime": 1759736316468,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 699827,
+        "num": 1111972,
+        "word": "小孩哥用通缉令上证件号认证游戏",
+        "onboard_time": 1759725021,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507643,
+        "num": 507643,
+        "word": "中秋",
+        "onboard_time": 1759706597,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27018,
+        "num": 486993,
+        "word": "中秋国庆祝福文案",
+        "onboard_time": 1759724720,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483297,
+        "num": 483297,
+        "word": "三甲医生解读只吃水果女子去世",
+        "onboard_time": 1759730362,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 462776,
+        "num": 462776,
+        "word": "只吃水果女子去世前体重仅44斤",
+        "onboard_time": 1759709959,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 354251,
+        "num": 354251,
+        "word": "人类在中医面前毫无秘密可言",
+        "onboard_time": 1759732281,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248521,
+        "num": 248521,
+        "word": "微信上传一个视频15次后的样子",
+        "onboard_time": 1759725141,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233848,
+        "num": 233848,
+        "word": "卖不完的月饼都去哪儿了",
+        "onboard_time": 1759732822,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171950,
+        "num": 171950,
+        "word": "外卖店营业额18万盈利仅1万",
+        "onboard_time": 1759731800,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171189,
+        "num": 171189,
+        "word": "马龙妻子夏露分享跳舞视频",
+        "onboard_time": 1759719321,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 836635,
+        "num": 170827,
+        "word": "关晓彤美黑",
+        "onboard_time": 1759722319,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 650436,
+        "num": 168675,
+        "word": "鹿晗新壁纸",
+        "onboard_time": 1759730601,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463364,
+        "num": 167570,
+        "word": "偶遇贾乃亮买金钞",
+        "onboard_time": 1759734621,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442124,
+        "num": 165449,
+        "word": "王安宇 不要问人家这种问题",
+        "onboard_time": 1759732040,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441079,
+        "num": 164039,
+        "word": "第几次亲嘴12秒翻面3次啊",
+        "onboard_time": 1759725501,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376261,
+        "num": 162625,
+        "word": "胡定欣官宣结婚",
+        "onboard_time": 1759722260,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369494,
+        "num": 161577,
+        "word": "翁青雅签公司了",
+        "onboard_time": 1759726581,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515680,
+        "num": 160887,
+        "word": "女子在地铁上因他人说到鸡鸣寺急眼",
+        "onboard_time": 1759728442,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51263,
+        "num": 158188,
+        "word": "巴黎世家大秀",
+        "onboard_time": 1759734320,
+        "rank": 18,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 29823,
+        "num": 156737,
+        "word": "谁承包了12年中秋仪式感",
+        "onboard_time": 1759732641,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28729,
+        "num": 155856,
+        "word": "对云南启动防汛四级应急响应",
+        "onboard_time": 1759736061,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232604,
+        "num": 154441,
+        "word": "迪丽热巴有效文化输出",
+        "onboard_time": 1759733241,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201410,
+        "num": 152440,
+        "word": "恋与深空",
+        "onboard_time": 1759735639,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199511,
+        "num": 152001,
+        "word": "总台秋晚节目单发布",
+        "onboard_time": 1759735639,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191200,
+        "num": 150227,
+        "word": "原来马思纯说的这个人是杨紫",
+        "onboard_time": 1759735220,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149400,
+        "num": 149400,
+        "word": "马嘉祺宋亚轩刘耀文贺峻霖吃烧烤",
+        "onboard_time": 1759727781,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148310,
+        "num": 148310,
+        "word": "震耳欲聋豆瓣开分7.6",
+        "onboard_time": 1759734920,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145882,
+        "num": 145882,
+        "word": "肖战喊别人哥哥",
+        "onboard_time": 1759728981,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140789,
+        "num": 140789,
+        "word": "对孙千身高有了实感",
+        "onboard_time": 1759726101,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71058,
+        "num": 140490,
+        "word": "姜涛减肥成功晒露背照",
+        "onboard_time": 1759735580,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140465,
+        "num": 140465,
+        "word": "伊朗货币将删除四个零",
+        "onboard_time": 1759728021,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123996,
+        "num": 123996,
+        "word": "面馆默许高中生插队排队游客发声",
+        "onboard_time": 1759720281,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 113100,
+        "num": 120353,
+        "word": "2028年中秋国庆将再次相逢",
+        "onboard_time": 1759732461,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120102,
+        "num": 120102,
+        "word": "最强光头埼玉回来了",
+        "onboard_time": 1759735761,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 113616,
+        "num": 116042,
+        "word": "国庆中秋假期第6天你在干什么",
+        "onboard_time": 1759728861,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115773,
+        "num": 115773,
+        "word": "香港海心公园割喉案嫌犯系流浪汉",
+        "onboard_time": 1759733001,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112542,
+        "num": 112542,
+        "word": "美国19岁女生车祸丧生家属追责特斯拉",
+        "onboard_time": 1759733241,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110150,
+        "num": 110150,
+        "word": "偶遇孙涵清刘子晗",
+        "onboard_time": 1759732162,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87065,
+        "num": 101861,
+        "word": "曹格带杨阳洋Joe聚餐",
+        "onboard_time": 1759735639,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100114,
+        "num": 100114,
+        "word": "生理性喜欢主人的小猫",
+        "onboard_time": 1759730721,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99335,
+        "num": 99335,
+        "word": "迪丽热巴差点亲到张馨予了",
+        "onboard_time": 1759724720,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93633,
+        "num": 93633,
+        "word": "当我把平板时间调到了2014年",
+        "onboard_time": 1759736120,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 71235,
+        "num": 93414,
+        "word": "2025年诺贝尔奖今起揭晓",
+        "onboard_time": 1759734020,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93239,
+        "num": 93239,
+        "word": "圆圆圆圆中秋圆圆圆圆",
+        "onboard_time": 1759713799,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92622,
+        "num": 92622,
+        "word": "被一条皮皮虾惊艳到了",
+        "onboard_time": 1759724061,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 92581,
+        "num": 92581,
+        "word": "十七八岁看的电影 七八十年的售后",
+        "onboard_time": 1759736120,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84848,
+        "num": 84848,
+        "word": "外婆原来你的名字不是丽云",
+        "onboard_time": 1759733481,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83344,
+        "num": 83344,
+        "word": "陈哲远扛住了外媒的强曝光",
+        "onboard_time": 1759733001,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83152,
+        "num": 83152,
+        "word": "心动的信号",
+        "onboard_time": 1759728021,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27685,
+        "num": 81086,
+        "word": "王楚钦这一刻你也成为了大哥哥",
+        "onboard_time": 1759734440,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#聆听习近平总书记的温暖祝福#"
+    }
+  }
+}
