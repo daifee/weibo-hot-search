@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759750610880,
+  "endTime": 1759755172713,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2464062,
+      "num": 2464062,
+      "word": "央视中秋晚会",
+      "onboard_time": 1759751482,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2379627,
       "num": 238338,
       "word": "K签",
@@ -65,6 +73,14 @@
       "onboard_time": 1759658783,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2185769,
+      "num": 213815,
+      "word": "谢娜 央视主持",
+      "onboard_time": 1759753463,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 2087689,
@@ -152,6 +168,14 @@
       "word": "G3754次列车因买短乘长超员临停",
       "onboard_time": 1759326923,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1611432,
+      "num": 1611432,
+      "word": "月亮",
+      "onboard_time": 1759743260,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1187,6 +1211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 726849,
+      "num": 726849,
+      "word": "诺贝尔奖奖金124年没花完",
+      "onboard_time": 1759749382,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 726627,
       "num": 199255,
       "word": "阿沁回应被踢出飞儿乐团",
@@ -1473,14 +1505,6 @@
       "onboard_time": 1759551921,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 643613,
-      "num": 643613,
-      "word": "月亮",
-      "onboard_time": 1759743260,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 643295,
@@ -2011,6 +2035,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 528962,
+      "num": 213481,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1759752565,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 528355,
       "num": 528355,
       "word": "王楚钦vs安宰贤",
@@ -2313,6 +2345,14 @@
       "onboard_time": 1759491442,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 477899,
+      "num": 213149,
+      "word": "时代少年团高会直播",
+      "onboard_time": 1759750644,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 477718,
@@ -2651,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423420,
+      "num": 213004,
+      "word": "杨博文扫腿舞 诡异如ai",
+      "onboard_time": 1759751723,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421083,
       "num": 421083,
       "word": "美籍男子在解放军舰队附近放无人机被捕",
@@ -2785,6 +2833,22 @@
       "onboard_time": 1759725141,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 403014,
+      "num": 403014,
+      "word": "最好的睡姿vs最差的睡姿",
+      "onboard_time": 1759748663,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 401042,
+      "num": 401042,
+      "word": "湖南卫视中秋之夜节目单",
+      "onboard_time": 1759747642,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 397604,
@@ -3179,14 +3243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 356882,
-      "num": 356882,
-      "word": "诺贝尔奖奖金124年没花完",
-      "onboard_time": 1759749382,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 356347,
       "num": 194017,
       "word": "男子身家千万因无子被骂哭了一夜",
@@ -3323,6 +3379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344944,
+      "num": 212754,
+      "word": "沈月真从天而降",
+      "onboard_time": 1759753883,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343147,
       "num": 229749,
       "word": "文咏珊官宣当妈",
@@ -3393,6 +3457,14 @@
       "onboard_time": 1759639822,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 337315,
+      "num": 337315,
+      "word": "超级月亮",
+      "onboard_time": 1759753041,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 337216,
@@ -3825,14 +3897,6 @@
       "onboard_time": 1759569920,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 303552,
-      "num": 280120,
-      "word": "湖南卫视中秋之夜节目单",
-      "onboard_time": 1759747642,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 302060,
@@ -4467,6 +4531,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 261685,
+      "num": 212459,
+      "word": "MiuMiu巴黎时装周",
+      "onboard_time": 1759753642,
+      "rank": 17,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 261681,
       "num": 166768,
       "word": "内娱谁能演大女主云望舒",
@@ -4729,6 +4801,14 @@
       "onboard_time": 1759573580,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 246307,
+      "num": 211954,
+      "word": "谢娜一本正经",
+      "onboard_time": 1759754484,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 245836,
@@ -5315,6 +5395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218453,
+      "num": 211627,
+      "word": "马嘉祺直播",
+      "onboard_time": 1759750941,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217790,
       "num": 149684,
       "word": "迪丽热巴外媒镜头",
@@ -5521,6 +5609,14 @@
       "onboard_time": 1759501282,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211593,
+      "num": 211593,
+      "word": "侯佩岑主持央视秋晚",
+      "onboard_time": 1759754544,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 211056,
@@ -6275,6 +6371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192955,
+      "num": 192955,
+      "word": "檀健次唱粤语歌",
+      "onboard_time": 1759754544,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192911,
       "num": 143610,
       "word": "出嫁那天跟你出生那天一样热闹",
@@ -6835,6 +6939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180259,
+      "num": 180259,
+      "word": "刘一菲cos灵儿",
+      "onboard_time": 1759754544,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180081,
       "num": 180081,
       "word": "胡先煦王彦霖现场为陈立农庆生",
@@ -6963,6 +7075,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 175992,
+      "num": 175992,
+      "word": "30岁长期熬夜有多可怕",
+      "onboard_time": 1759748722,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 175694,
       "num": 175694,
       "word": "陈哲远新剧海外第一",
@@ -7035,20 +7155,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174693,
+      "num": 174693,
+      "word": "赵今麦刘浩存李庚希时装周造型",
+      "onboard_time": 1759751122,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 174679,
       "num": 136389,
       "word": "北大女生三分钟发言檀健次听入神了",
       "onboard_time": 1759679360,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 174055,
-      "num": 174055,
-      "word": "30岁长期熬夜有多可怕",
-      "onboard_time": 1759748722,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 173925,
@@ -7755,6 +7875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161651,
+      "num": 161651,
+      "word": "东方卫视中秋晚会",
+      "onboard_time": 1759753942,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161102,
       "num": 161102,
       "word": "林高远梁靖崑",
@@ -7817,6 +7945,14 @@
       "onboard_time": 1759724240,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159344,
+      "num": 159344,
+      "word": "谢娜回应首次主持央视秋晚",
+      "onboard_time": 1759751122,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 159216,
@@ -7883,6 +8019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158477,
+      "num": 158477,
+      "word": "精神病女子替人开公司租车20台",
+      "onboard_time": 1759749622,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158195,
       "num": 158195,
       "word": "原来扛事的性格是这样培养出来的",
@@ -7905,6 +8049,14 @@
       "onboard_time": 1759581740,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157916,
+      "num": 157916,
+      "word": "打卡最美月亮",
+      "onboard_time": 1759755023,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157752,
@@ -8819,12 +8971,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143433,
-      "num": 143433,
-      "word": "最好的睡姿vs最差的睡姿",
-      "onboard_time": 1759748663,
-      "rank": 32,
-      "category": "科学科普"
+      "raw_hot": 143403,
+      "num": 143403,
+      "word": "中秋晚会没有何炅",
+      "onboard_time": 1759754902,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 143341,
@@ -9268,7 +9420,7 @@
     },
     {
       "raw_hot": 138352,
-      "num": 823074,
+      "num": 1097791,
       "word": "航天员晒中秋大餐",
       "onboard_time": 1759716320,
       "rank": 31,
@@ -9353,6 +9505,14 @@
       "onboard_time": 1759286540,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 137229,
+      "num": 137229,
+      "word": "孙子误吃过期月饼奶奶又给过期药",
+      "onboard_time": 1759754843,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137127,
@@ -9787,6 +9947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132310,
+      "num": 132310,
+      "word": "苏有朋登陆少年开场",
+      "onboard_time": 1759752264,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132302,
       "num": 132302,
       "word": "蒲熠星红发",
@@ -9841,6 +10009,14 @@
       "onboard_time": 1759318100,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131739,
+      "num": 131739,
+      "word": "农村新式婚礼",
+      "onboard_time": 1759750582,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 131548,
@@ -10347,6 +10523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126269,
+      "num": 126269,
+      "word": "鹿晗工作室回应取消演唱会",
+      "onboard_time": 1759751482,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126231,
       "num": 251180,
       "word": "一天能卖出80吨的月饼有多好吃",
@@ -10433,6 +10617,14 @@
       "onboard_time": 1759581382,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125274,
+      "num": 125274,
+      "word": "周也中秋吃月饼营业照",
+      "onboard_time": 1759751002,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 125251,
@@ -10729,6 +10921,14 @@
       "onboard_time": 1759384761,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121489,
+      "num": 121489,
+      "word": "AG年总大场五连胜",
+      "onboard_time": 1759754362,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 121334,
@@ -11257,6 +11457,14 @@
       "onboard_time": 1759659803,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116387,
+      "num": 116387,
+      "word": "荷兰约25万人抗议示威",
+      "onboard_time": 1759754063,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 116381,
@@ -12145,6 +12353,14 @@
       "onboard_time": 1759328302,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110053,
+      "num": 110053,
+      "word": "许我耀眼更新",
+      "onboard_time": 1759750702,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 109994,
@@ -13571,6 +13787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101598,
+      "num": 101598,
+      "word": "林诗栋中国大满贯后发文",
+      "onboard_time": 1759751783,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101571,
       "num": 101571,
       "word": "惠英红生命力 高奢早该吻上来",
@@ -13601,6 +13825,14 @@
       "onboard_time": 1759548139,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101430,
+      "num": 101430,
+      "word": "伞兵好丰盛的中秋晚餐",
+      "onboard_time": 1759754783,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 101414,
@@ -14585,14 +14817,6 @@
       "onboard_time": 1759505541,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 94314,
-      "num": 94314,
-      "word": "农村新式婚礼",
-      "onboard_time": 1759750582,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 94263,
@@ -18675,6 +18899,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 38696,
+      "num": 131864,
+      "word": "痞幼巴黎时装周妆造",
+      "onboard_time": 1759754544,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 38498,
       "num": 41807,
       "word": "国旗护卫队升旗手王皓天亮相",
@@ -18729,14 +18961,6 @@
       "onboard_time": 1759534097,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 37026,
-      "num": 107416,
-      "word": "精神病女子替人开公司租车20台",
-      "onboard_time": 1759749622,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36876,
