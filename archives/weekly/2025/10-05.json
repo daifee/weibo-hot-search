@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759707394133,
+  "endTime": 1759715506869,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -57,6 +57,14 @@
       "onboard_time": 1759632499,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1380981,
+      "num": 1380981,
+      "word": "只吃水果女子去世前体重仅44斤",
+      "onboard_time": 1759709959,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1291281,
@@ -267,6 +275,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 739303,
+      "num": 739303,
+      "word": "中秋",
+      "onboard_time": 1759706597,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 721830,
       "num": 1115492,
       "word": "9月的工资不用打给我了",
@@ -353,6 +369,14 @@
       "onboard_time": 1759626139,
       "rank": 18,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 560309,
+      "num": 560309,
+      "word": "收花生找到姥姥丢了12年的金镯",
+      "onboard_time": 1759711940,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 549329,
@@ -459,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 451290,
+      "num": 128786,
+      "word": "许我耀眼妍妍接电话名场面来了",
+      "onboard_time": 1759706117,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 450319,
       "num": 401429,
       "word": "福建5人进入废弃矿硐遇难",
@@ -521,6 +553,14 @@
       "onboard_time": 1759589243,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 410813,
+      "num": 126594,
+      "word": "宁德自燃小车才开了1066公里",
+      "onboard_time": 1759708279,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 404385,
@@ -771,6 +811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317716,
+      "num": 317716,
+      "word": "樊振东1比3阿吉雷",
+      "onboard_time": 1759707797,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317064,
       "num": 203811,
       "word": "建议气血不足的人不要留长发",
@@ -843,14 +891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 300076,
-      "num": 300076,
-      "word": "中秋",
-      "onboard_time": 1759706597,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 299818,
       "num": 230905,
       "word": "李沁 就你了",
@@ -865,14 +905,6 @@
       "onboard_time": 1759666343,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 290133,
-      "num": 94055,
-      "word": "许我耀眼妍妍接电话名场面来了",
-      "onboard_time": 1759706117,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 289588,
@@ -907,12 +939,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282396,
+      "num": 282396,
+      "word": "张继科说顶级运动员不会享受比赛",
+      "onboard_time": 1759708279,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280918,
       "num": 280918,
       "word": "苏新皓pk",
       "onboard_time": 1759661965,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 279846,
+      "num": 279846,
+      "word": "配眼镜别再只去眼镜店了",
+      "onboard_time": 1759709838,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 278900,
@@ -940,7 +988,7 @@
     },
     {
       "raw_hot": 275655,
-      "num": 108757,
+      "num": 114836,
       "word": "刘诗诗陈哲远 红气养人",
       "onboard_time": 1759681700,
       "rank": 27,
@@ -1115,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227052,
+      "num": 111421,
+      "word": "许妍醉酒后跑回婚房",
+      "onboard_time": 1759711699,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223040,
       "num": 293292,
       "word": "TTG对战KSG",
@@ -1136,6 +1192,22 @@
       "word": "中国人的种菜技能太全面了",
       "onboard_time": 1759657702,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219385,
+      "num": 124693,
+      "word": "肖战手臂上有伤口",
+      "onboard_time": 1759714519,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218928,
+      "num": 122286,
+      "word": "阿维塔自燃后厂家回应",
+      "onboard_time": 1759710680,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -1283,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197383,
+      "num": 111210,
+      "word": "浙江摄影师中秋卖16元月亮收入过千",
+      "onboard_time": 1759715118,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 196185,
       "num": 196185,
       "word": "中秋节快乐",
@@ -1395,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183994,
+      "num": 118878,
+      "word": "游客称捡板栗壳被民宿老板娘诬陷偷",
+      "onboard_time": 1759706597,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183394,
       "num": 183394,
       "word": "iG疑似韩国集训",
@@ -1484,7 +1572,7 @@
     },
     {
       "raw_hot": 178934,
-      "num": 92379,
+      "num": 99104,
       "word": "女子为救爱犬被狗咬伤狂冲水仍发烧",
       "onboard_time": 1759706057,
       "rank": 15,
@@ -1787,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153074,
+      "num": 113733,
+      "word": "65岁老人1个月瘦30斤后",
+      "onboard_time": 1759709718,
+      "rank": 18,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 152262,
       "num": 152262,
       "word": "池昌旭差点被亲上",
@@ -1859,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146644,
+      "num": 110354,
+      "word": "王楚钦拼到低血糖",
+      "onboard_time": 1759714219,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146368,
       "num": 146368,
       "word": "孟子义李昀锐中秋节宣传节奏",
@@ -1889,6 +1993,14 @@
       "onboard_time": 1759634661,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145694,
+      "num": 109864,
+      "word": "黄金狂飙原因",
+      "onboard_time": 1759710680,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 145443,
@@ -1929,6 +2041,14 @@
       "onboard_time": 1759652900,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142328,
+      "num": 142328,
+      "word": "中央气象台同时发布台风暴雨预警",
+      "onboard_time": 1759713559,
+      "rank": 8,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 142195,
@@ -2003,6 +2123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137410,
+      "num": 109388,
+      "word": "八国发表联合声明",
+      "onboard_time": 1759709238,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 136992,
       "num": 136992,
       "word": "给男朋友点的咖啡送到了妈妈手里",
@@ -2025,6 +2153,14 @@
       "onboard_time": 1759638680,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135602,
+      "num": 108522,
+      "word": "也是吃上公主小妹同款了",
+      "onboard_time": 1759710739,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 135266,
@@ -2097,6 +2233,14 @@
       "onboard_time": 1759671084,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132439,
+      "num": 132439,
+      "word": "月饼",
+      "onboard_time": 1759715059,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 132381,
@@ -2427,6 +2571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114715,
+      "num": 103999,
+      "word": "酒店房顶坍塌时正在办婚礼",
+      "onboard_time": 1759714460,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114325,
       "num": 114325,
       "word": "F勒布伦说想带着冠军回法国",
@@ -2521,6 +2673,14 @@
       "onboard_time": 1759637901,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 111808,
+      "num": 111808,
+      "word": "今年中秋月亮7日11时48分最圆",
+      "onboard_time": 1759674203,
+      "rank": 31,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 111390,
@@ -2771,6 +2931,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 102446,
+      "num": 102446,
+      "word": "湖人vs勇士",
+      "onboard_time": 1759713619,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101981,
       "num": 166667,
       "word": "高市早苗要求大家玩命工作",
@@ -2939,6 +3107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96497,
+      "num": 96497,
+      "word": "王楚钦说未来三冠王机会很少了",
+      "onboard_time": 1759710378,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96325,
       "num": 96325,
       "word": "人一旦有了隔阂就真的走不近了",
@@ -3019,6 +3195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90783,
+      "num": 90783,
+      "word": "李昀锐一句台词听不到但看哭了",
+      "onboard_time": 1759706237,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90310,
       "num": 133263,
       "word": "孙颖莎好牛的一球",
@@ -3059,6 +3243,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89662,
+      "num": 89662,
+      "word": "肖战岁岁年年",
+      "onboard_time": 1759712299,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 89566,
+      "num": 89566,
+      "word": "这才是对鸡排哥们真正的爱护",
+      "onboard_time": 1759710919,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89306,
       "num": 89306,
       "word": "女子用牙咬大闸蟹腿牙裂了",
@@ -3081,6 +3281,14 @@
       "onboard_time": 1759590322,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 88495,
+      "num": 88495,
+      "word": "女子打车不给过路费司机送回起点",
+      "onboard_time": 1759713559,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88159,
@@ -3131,12 +3339,36 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 85987,
+      "num": 85987,
+      "word": "今后几天雨雨雨雨雨不停",
+      "onboard_time": 1759713681,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85879,
+      "num": 85879,
+      "word": "台风麦德姆影响下的湛江",
+      "onboard_time": 1759711459,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 85442,
       "num": 93308,
       "word": "清融采访",
       "onboard_time": 1759589662,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 85248,
+      "num": 85248,
+      "word": "宋祖儿 甜美千金风",
+      "onboard_time": 1759707017,
+      "rank": 47,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 85192,
@@ -3155,6 +3387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 84920,
+      "num": 84920,
+      "word": "男子用垃圾袋自制扰流球防风",
+      "onboard_time": 1759711219,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 84904,
       "num": 84904,
       "word": "男子回应跌落砸伤10岁女孩失联",
@@ -3169,6 +3409,14 @@
       "onboard_time": 1759643422,
       "rank": 48,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 84455,
+      "num": 84455,
+      "word": "30岁放弃稳定收入裸辞的一天",
+      "onboard_time": 1759710199,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 84337,
@@ -3195,6 +3443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83712,
+      "num": 83712,
+      "word": "金饰克价冲上1100元",
+      "onboard_time": 1759709238,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 82745,
       "num": 102388,
       "word": "樊振东德甲十月首战",
@@ -3209,14 +3465,6 @@
       "onboard_time": 1759652840,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81515,
-      "num": 81515,
-      "word": "游客称捡板栗壳被民宿老板娘诬陷偷",
-      "onboard_time": 1759706597,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81263,
@@ -3299,6 +3547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76821,
+      "num": 76821,
+      "word": "中秋祝福语",
+      "onboard_time": 1759715419,
+      "rank": 44,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 76715,
       "num": 93263,
       "word": "赵丽颖向阳花收视破2登顶",
@@ -3355,6 +3611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 70987,
+      "num": 70987,
+      "word": "鸟也是玩上正宗的扫腿舞了",
+      "onboard_time": 1759715359,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70929,
       "num": 93302,
       "word": "网红赤木刚宪爆改许妍",
@@ -3369,6 +3633,14 @@
       "onboard_time": 1759572319,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 70814,
+      "num": 70814,
+      "word": "中秋文案",
+      "onboard_time": 1759710739,
+      "rank": 47,
+      "category": "休闲"
     },
     {
       "raw_hot": 70335,
@@ -3395,6 +3667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66989,
+      "num": 66989,
+      "word": "那些你搞反的化妆步骤",
+      "onboard_time": 1759715239,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 66970,
       "num": 93248,
       "word": "范丞丞章若楠想合作爱情片",
@@ -3409,6 +3689,14 @@
       "onboard_time": 1759640602,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66794,
+      "num": 66794,
+      "word": "王一博德约拥抱",
+      "onboard_time": 1759713318,
+      "rank": 49,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 66455,
@@ -3619,14 +3907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54461,
-      "num": 54461,
-      "word": "今年中秋月亮7日11时48分最圆",
-      "onboard_time": 1759674203,
-      "rank": 31,
-      "category": "民生新闻,旅游"
-    },
-    {
       "raw_hot": 54362,
       "num": 77364,
       "word": "阿尼西莫娃中网女单夺冠",
@@ -3779,14 +4059,6 @@
       "category": "民生新闻,旅游"
     },
     {
-      "raw_hot": 36352,
-      "num": 36884,
-      "word": "李昀锐一句台词听不到但看哭了",
-      "onboard_time": 1759706237,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 36081,
       "num": 39009,
       "word": "进门是沈真出门是秦岚",
@@ -3819,14 +4091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32902,
-      "num": 35227,
-      "word": "宋祖儿 甜美千金风",
-      "onboard_time": 1759707017,
-      "rank": 47,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 32884,
       "num": 553491,
       "word": "星空有约",
@@ -3841,6 +4105,14 @@
       "onboard_time": 1759656801,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 31627,
+      "num": 634452,
+      "word": "网警提醒假期过半务必提高警惕",
+      "onboard_time": 1759708218,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31418,
