@@ -1,0 +1,410 @@
+{
+  "runTime": 1759732689719,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 823074,
+        "num": 1131691,
+        "word": "小孩哥用通缉令上证件号认证游戏",
+        "onboard_time": 1759725021,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539641,
+        "num": 539641,
+        "word": "女子在地铁上因他人说到鸡鸣寺急眼",
+        "onboard_time": 1759728442,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29988,
+        "num": 506882,
+        "word": "中秋国庆祝福文案",
+        "onboard_time": 1759724720,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 493818,
+        "num": 493818,
+        "word": "只吃水果女子去世前体重仅44斤",
+        "onboard_time": 1759709959,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 403800,
+        "num": 403800,
+        "word": "微信上传一个视频15次后的样子",
+        "onboard_time": 1759725141,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 297654,
+        "num": 297654,
+        "word": "面馆默许高中生插队排队游客发声",
+        "onboard_time": 1759720281,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 294466,
+        "num": 294466,
+        "word": "中秋",
+        "onboard_time": 1759706597,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234385,
+        "num": 234385,
+        "word": "马龙妻子夏露分享跳舞视频",
+        "onboard_time": 1759719321,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191636,
+        "num": 191636,
+        "word": "人类在中医面前毫无秘密可言",
+        "onboard_time": 1759732281,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175139,
+        "num": 175139,
+        "word": "三甲医生解读只吃水果女子去世",
+        "onboard_time": 1759730362,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 900394,
+        "num": 173915,
+        "word": "关晓彤美黑",
+        "onboard_time": 1759722319,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 591929,
+        "num": 173418,
+        "word": "胡定欣官宣结婚",
+        "onboard_time": 1759722260,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 587506,
+        "num": 170875,
+        "word": "第几次亲嘴12秒翻面3次啊",
+        "onboard_time": 1759725501,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 552559,
+        "num": 169401,
+        "word": "翁青雅签公司了",
+        "onboard_time": 1759726581,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390794,
+        "num": 167840,
+        "word": "对孙千身高有了实感",
+        "onboard_time": 1759726101,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253618,
+        "num": 165177,
+        "word": "鹿晗新壁纸",
+        "onboard_time": 1759730601,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253291,
+        "num": 163457,
+        "word": "马嘉祺宋亚轩刘耀文贺峻霖吃烧烤",
+        "onboard_time": 1759727781,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248765,
+        "num": 162540,
+        "word": "肖战喊别人哥哥",
+        "onboard_time": 1759728981,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222771,
+        "num": 160162,
+        "word": "心动的信号",
+        "onboard_time": 1759728021,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159836,
+        "num": 159836,
+        "word": "被一条皮皮虾惊艳到了",
+        "onboard_time": 1759724061,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 226823,
+        "num": 152649,
+        "word": "伊朗货币将删除四个零",
+        "onboard_time": 1759728021,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 140189,
+        "num": 140189,
+        "word": "迪丽热巴差点亲到张馨予了",
+        "onboard_time": 1759724720,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136222,
+        "num": 136222,
+        "word": "生理性喜欢主人的小猫",
+        "onboard_time": 1759730721,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133671,
+        "num": 133671,
+        "word": "敖瑞鹏直播",
+        "onboard_time": 1759729282,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132885,
+        "num": 132885,
+        "word": "已有350名被困珠峰游客获救",
+        "onboard_time": 1759723161,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129515,
+        "num": 129515,
+        "word": "一诺万人迷自带复活甲",
+        "onboard_time": 1759731380,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119548,
+        "num": 119548,
+        "word": "黄金",
+        "onboard_time": 1759729041,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119046,
+        "num": 119046,
+        "word": "归棹",
+        "onboard_time": 1759731500,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117796,
+        "num": 117796,
+        "word": "外卖店营业额18万盈利仅1万",
+        "onboard_time": 1759731800,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106242,
+        "num": 113258,
+        "word": "圆圆圆圆中秋圆圆圆圆",
+        "onboard_time": 1759713799,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111619,
+        "num": 111619,
+        "word": "华晨宇演唱会活捉黄牛现场",
+        "onboard_time": 1759729521,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110131,
+        "num": 110131,
+        "word": "收花生找到姥姥丢了12年的金镯",
+        "onboard_time": 1759711940,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109462,
+        "num": 109462,
+        "word": "何晟铭从手滑到首发",
+        "onboard_time": 1759730001,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108002,
+        "num": 108002,
+        "word": "妈妈竟让儿子高速下车路边方便",
+        "onboard_time": 1759721061,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107612,
+        "num": 107612,
+        "word": "王安宇 不要问人家这种问题",
+        "onboard_time": 1759732040,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106925,
+        "num": 106925,
+        "word": "丁程鑫一个心软全世界都开始闹了",
+        "onboard_time": 1759731681,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 5894,
+        "num": 105753,
+        "word": "谁承包了12年中秋仪式感",
+        "onboard_time": 1759732641,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79157,
+        "num": 105346,
+        "word": "青海门源1名徒步者失温高反遇难",
+        "onboard_time": 1759732580,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105323,
+        "num": 105323,
+        "word": "王俊凯工作室修图遗落了个鼻子",
+        "onboard_time": 1759680741,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97564,
+        "num": 97564,
+        "word": "田曦薇鹅黄吊带襦裙",
+        "onboard_time": 1759727601,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91720,
+        "num": 91720,
+        "word": "F勒布伦认真听王楚钦采访",
+        "onboard_time": 1759731922,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91152,
+        "num": 91152,
+        "word": "周迅的白发好优雅",
+        "onboard_time": 1759726581,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88099,
+        "num": 88099,
+        "word": "巅峰时期的奚梦瑶",
+        "onboard_time": 1759727721,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87986,
+        "num": 87986,
+        "word": "国庆中秋假期第6天你在干什么",
+        "onboard_time": 1759728861,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86992,
+        "num": 86992,
+        "word": "尚公主",
+        "onboard_time": 1759716860,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85056,
+        "num": 85056,
+        "word": "偶遇孙涵清刘子晗",
+        "onboard_time": 1759732162,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82953,
+        "num": 82953,
+        "word": "人真不能一直住太差的房子",
+        "onboard_time": 1759715779,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82874,
+        "num": 82874,
+        "word": "后来猫试遍所有的床垫也没找到",
+        "onboard_time": 1759732221,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82646,
+        "num": 82646,
+        "word": "枭起青壤",
+        "onboard_time": 1759718179,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82158,
+        "num": 82158,
+        "word": "2028年中秋国庆将再次相逢",
+        "onboard_time": 1759732461,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#聆听习近平总书记的温暖祝福#"
+    }
+  }
+}
