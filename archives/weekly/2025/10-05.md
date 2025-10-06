@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/07 02:48:39
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/07 03:21:02
 </p>
 </blockquote>
 <p>
@@ -5205,6 +5205,12 @@ WTT中国大满贯冠军城市宣传照（热度：46159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E4%BA%94%E5%B7%A1%E9%97%B9%E5%A4%A9%E5%AE%AB%23" target="weibo">
+张艺兴五巡闹天宫（热度：29150）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E4%BA%91%E5%8D%97%E5%90%AF%E5%8A%A8%E9%98%B2%E6%B1%9B%E5%9B%9B%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94%23" target="weibo">
 对云南启动防汛四级应急响应（热度：28729）
 </a>
@@ -5249,6 +5255,12 @@ WTT中国大满贯冠军城市宣传照（热度：46159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E4%B8%8B%E9%9B%A8%E5%A4%A9%E6%94%B6%E5%88%B0%E5%A5%B3%E5%AD%A9%E7%95%99%E7%9A%84%E4%BC%9E%23" target="weibo">
 张馨予下雨天收到女孩留的伞（热度：25185）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E7%A7%B0%E6%8D%A1%E6%9D%BF%E6%A0%97%E5%A3%B3%E5%86%B2%E7%AA%81%E4%BA%8B%E4%BB%B6%E5%B7%B2%E5%A4%84%E7%90%86%E5%AE%8C%E6%AF%95%23" target="weibo">
+景区称捡板栗壳冲突事件已处理完毕（热度：25089）
 </a>
 </li>
 
@@ -5301,6 +5313,18 @@ WTT中国大满贯冠军城市宣传照（热度：46159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%89%BA%E5%A8%9C%E7%9B%AE%E5%89%8D%E6%97%A0%E6%B3%95%E4%B8%8B%E5%9C%B0%E5%B0%86%E8%BF%9B%E8%A1%8C%E6%89%8B%E6%9C%AF%23" target="weibo">
+那艺娜目前无法下地将进行手术（热度：19001）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%B7%B4%E8%A5%BF%E9%81%AD%E6%8A%A2%E5%8A%AB%E7%94%B5%E8%84%91%E4%B8%BA%E5%85%B6%E6%8C%A1%E4%B8%80%E6%9E%AA%23" target="weibo">
+网友巴西遭抢劫电脑为其挡一枪（热度：18815）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%A5%B3%E6%9C%8B%E5%8F%8B%E7%9F%A5%E9%81%93%E6%88%91%E6%9C%89%E5%BC%BA%E8%BF%AB%E7%97%87%E5%90%8E%23" target="weibo">
 当女朋友知道我有强迫症后（热度：18587）
 </a>
@@ -5327,6 +5351,12 @@ WTT中国大满贯冠军城市宣传照（热度：46159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%20%E5%8D%B1%E9%99%A9%E8%BF%B7%E4%BA%BA%E7%9A%84%E9%83%BD%E5%B8%82%E5%A5%B3%E9%83%8E%23" target="weibo">
 张小斐 危险迷人的都市女郎（热度：16383）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%94%A8%E6%89%8B%E8%AF%AD%E9%BC%93%E5%8A%B1%E8%81%8B%E4%BA%BA%E8%A7%82%E4%BC%97%23" target="weibo">
+檀健次用手语鼓励聋人观众（热度：16276）
 </a>
 </li>
 

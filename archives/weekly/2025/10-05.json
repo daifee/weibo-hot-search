@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759776519518,
+  "endTime": 1759778462084,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -6923,6 +6923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29150,
+      "num": 27856,
+      "word": "张艺兴五巡闹天宫",
+      "onboard_time": 1759777994,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 28729,
       "num": 155856,
       "word": "对云南启动防汛四级应急响应",
@@ -6985,6 +6993,14 @@
       "onboard_time": 1759645701,
       "rank": 19,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 25089,
+      "num": 25089,
+      "word": "景区称捡板栗壳冲突事件已处理完毕",
+      "onboard_time": 1759776555,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24190,
@@ -7051,6 +7067,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 19001,
+      "num": 23901,
+      "word": "那艺娜目前无法下地将进行手术",
+      "onboard_time": 1759777875,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 18815,
+      "num": 23895,
+      "word": "网友巴西遭抢劫电脑为其挡一枪",
+      "onboard_time": 1759777934,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 18587,
       "num": 29603,
       "word": "当女朋友知道我有强迫症后",
@@ -7089,6 +7121,14 @@
       "onboard_time": 1759600815,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 16276,
+      "num": 23886,
+      "word": "檀健次用手语鼓励聋人观众",
+      "onboard_time": 1759776915,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 14794,
