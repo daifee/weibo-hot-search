@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/06 19:21:24
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/06 19:36:50
 </p>
 </blockquote>
 <p>
@@ -285,6 +285,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%BE%B3%E5%BE%92%E6%AD%A5%E7%99%BB%E5%B1%B1%E8%BA%AB%E4%BA%A1%23" target="weibo">
+多名中国公民在澳徒步登山身亡（热度：1290798）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E6%9B%BC%E6%98%B1%23" target="weibo">
 孙颖莎vs王曼昱（热度：1290002）
 </a>
@@ -311,12 +317,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8F%8D%E5%8F%A4%E9%81%93%E5%B0%94%E5%8E%BB%E4%B8%96%23" target="weibo">
 珍古道尔去世（热度：1230126）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E6%BE%B3%E5%BE%92%E6%AD%A5%E7%99%BB%E5%B1%B1%E8%BA%AB%E4%BA%A1%23" target="weibo">
-多名中国公民在澳徒步登山身亡（热度：1195472）
 </a>
 </li>
 
@@ -921,6 +921,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AE%B6%E9%95%BF%E8%B7%AA%E5%9C%B0%E8%A2%AB%E5%AD%A6%E7%94%9F%E8%BD%AE%E6%B5%81%E8%B8%A9%E8%B8%8F%23" target="weibo">
+教育局回应家长跪地被学生轮流踩踏（热度：718725）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E7%91%9E%E5%A3%AB%E5%BA%A6%E5%81%87%23" target="weibo">
 陈赫一家四口瑞士度假（热度：715109）
 </a>
@@ -1109,6 +1115,12 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E9%A6%96%E6%B3%A2%E9%98%B5%E5%AE%B9%23" target="weibo">
 央视中秋晚会首波阵容（热度：646755）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E4%BA%AE%23" target="weibo">
+月亮（热度：643613）
 </a>
 </li>
 
@@ -1977,12 +1989,6 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E4%BA%AE%23" target="weibo">
-月亮（热度：428258）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%97%E5%90%8D%E6%99%AF%E7%82%B9%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%90%BD%E6%B0%B4%E5%A4%84%23" target="weibo">
 著名景点张继科落水处（热度：427604）
 </a>
@@ -2387,6 +2393,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E5%9B%9E%E5%88%B0%E4%BA%86%E8%B5%B5%E9%BB%98%E7%AC%99%E6%97%B6%E6%9C%9F%23" target="weibo">
 吴倩回到了赵默笙时期（热度：358777）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E5%A5%96%E9%87%91124%E5%B9%B4%E6%B2%A1%E8%8A%B1%E5%AE%8C%23" target="weibo">
+诺贝尔奖奖金124年没花完（热度：356882）
 </a>
 </li>
 
@@ -2867,6 +2879,12 @@ TF家族（热度：321156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23107%E4%B8%87%E5%85%83%E6%B2%B9%E5%8D%A1%E4%B8%A2%E5%A4%B1%E5%BF%AB%E9%80%92%E5%85%AC%E5%8F%B8%E4%BB%85%E8%B5%94%E5%8D%83%E5%85%83%23" target="weibo">
 107万元油卡丢失快递公司仅赔千元（热度：306208）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%AD%E7%A7%8B%E4%B9%8B%E5%A4%9C%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
+湖南卫视中秋之夜节目单（热度：303552）
 </a>
 </li>
 
@@ -3501,6 +3519,12 @@ F1（热度：275052）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%AD%E7%A7%8B%E4%B9%8B%E5%A4%9C%23" target="weibo">
+湖南卫视中秋之夜（热度：249084）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E9%A9%AC%E9%A0%94%E5%9B%9E%E5%A4%8D%E7%8E%8B%E8%8F%8A%23" target="weibo">
 李纯马頔回复王菊（热度：248880）
 </a>
@@ -4041,14 +4065,14 @@ AAA建材沈总离婚之我要当榜一大哥（热度：216172）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%AD%E7%A7%8B%E4%B9%8B%E5%A4%9C%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
-湖南卫视中秋之夜节目单（热度：214762）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%99%8B%E7%BA%A7%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%86%B3%E8%B5%9B%23" target="weibo">
+王楚钦晋级中国大满贯决赛（热度：214389）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%99%8B%E7%BA%A7%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%86%B3%E8%B5%9B%23" target="weibo">
-王楚钦晋级中国大满贯决赛（热度：214389）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B8%9E%E6%BD%87%20%E6%88%91%E8%A7%89%E5%BE%97%E9%87%91%E8%8E%8E%E8%AF%B4%E5%BE%97%E5%AF%B9%23" target="weibo">
+孙丞潇 我觉得金莎说得对（热度：214318）
 </a>
 </li>
 
@@ -4145,12 +4169,6 @@ AI女演员出道遭抵制（热度：212198）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E9%97%AE%E8%BF%98%E8%83%BD%E6%BC%94%E6%AD%A3%E5%89%A7%E5%90%97%23" target="weibo">
 张晚意问还能演正剧吗（热度：210223）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AE%B6%E9%95%BF%E8%B7%AA%E5%9C%B0%E8%A2%AB%E5%AD%A6%E7%94%9F%E8%BD%AE%E6%B5%81%E8%B8%A9%E8%B8%8F%23" target="weibo">
-教育局回应家长跪地被学生轮流踩踏（热度：209839）
 </a>
 </li>
 
@@ -5277,6 +5295,12 @@ AG对战JDG（热度：181803）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2330%E5%B2%81%E9%95%BF%E6%9C%9F%E7%86%AC%E5%A4%9C%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95%23" target="weibo">
+30岁长期熬夜有多可怕（热度：174055）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%8E%E4%BC%B0%E4%BA%86%E5%9B%9E%E7%9C%B8%E6%9D%80%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
 低估了回眸杀的含金量（热度：173925）
 </a>
@@ -5303,12 +5327,6 @@ AG对战JDG（热度：181803）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%99%BE%E5%9C%BA%E7%9B%B4%E6%92%AD%23" target="weibo">
 张杰百场直播（热度：172987）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B8%9E%E6%BD%87%20%E6%88%91%E8%A7%89%E5%BE%97%E9%87%91%E8%8E%8E%E8%AF%B4%E5%BE%97%E5%AF%B9%23" target="weibo">
-孙丞潇 我觉得金莎说得对（热度：172833）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Dior大秀G社生图（热度：167518）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%9A%E4%B8%89%E8%96%AA%23" target="weibo">
 赚三薪（热度：156520）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%20%E5%86%99%E5%AE%9E%E5%89%A7%23" target="weibo">
-许我耀眼 写实剧（热度：156508）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%92%AF%E6%9B%BC%E9%80%9F%E8%83%9C%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23" target="weibo">
-王曼昱蒯曼速胜晋级决赛（热度：156386）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E5%B0%9A%E6%9C%AA%E5%B0%B1%E5%8A%B3%E6%96%AF%E8%8E%B1%E6%96%AF%E8%BD%A6%E7%A5%B8%E5%8F%91%E5%A3%B0%23" target="weibo">
-陈震尚未就劳斯莱斯车祸发声（热度：156251）
 </a>
 </li>
 

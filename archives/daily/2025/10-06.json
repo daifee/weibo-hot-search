@@ -1,6 +1,6 @@
 {
   "startTime": 1759681668953,
-  "endTime": 1759749684639,
+  "endTime": 1759750610880,
   "band_list": [
     {
       "raw_hot": 1697422,
@@ -28,15 +28,15 @@
     },
     {
       "raw_hot": 1401938,
-      "num": 259914,
+      "num": 286657,
       "word": "关晓彤美黑",
       "onboard_time": 1759722319,
       "rank": 33,
       "category": "综艺"
     },
     {
-      "raw_hot": 1195472,
-      "num": 1195472,
+      "raw_hot": 1290798,
+      "num": 1290798,
       "word": "多名中国公民在澳徒步登山身亡",
       "onboard_time": 1759746741,
       "rank": 11,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 856924,
-      "num": 262562,
+      "num": 289189,
       "word": "月入3万存2万五的真实生活",
       "onboard_time": 1759740621,
       "rank": 21,
@@ -147,12 +147,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 718725,
+      "num": 718725,
+      "word": "教育局回应家长跪地被学生轮流踩踏",
+      "onboard_time": 1759749261,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 692550,
       "num": 213682,
       "word": "人真不能一直住太差的房子",
       "onboard_time": 1759715779,
       "rank": 19,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 643613,
+      "num": 643613,
+      "word": "月亮",
+      "onboard_time": 1759743260,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 629586,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 551143,
-      "num": 253374,
+      "num": 293171,
       "word": "朴树宣布停演",
       "onboard_time": 1759744941,
       "rank": 17,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 538085,
-      "num": 261413,
+      "num": 278042,
       "word": "鹿晗吉隆坡站横滨站演出取消",
       "onboard_time": 1759742601,
       "rank": 18,
@@ -267,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 459704,
+      "num": 293752,
+      "word": "许我耀眼",
+      "onboard_time": 1759718300,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 453342,
       "num": 212541,
       "word": "枭起青壤",
@@ -305,14 +329,6 @@
       "onboard_time": 1759732040,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 428258,
-      "num": 428258,
-      "word": "月亮",
-      "onboard_time": 1759743260,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 404663,
@@ -356,11 +372,19 @@
     },
     {
       "raw_hot": 376791,
-      "num": 233251,
+      "num": 281778,
       "word": "马嘉祺中秋请客剧组了",
       "onboard_time": 1759746022,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 356882,
+      "num": 356882,
+      "word": "诺贝尔奖奖金124年没花完",
+      "onboard_time": 1759749382,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 354251,
@@ -385,14 +409,6 @@
       "onboard_time": 1759723161,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 330876,
-      "num": 189323,
-      "word": "许我耀眼",
-      "onboard_time": 1759718300,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 330297,
@@ -441,6 +457,14 @@
       "onboard_time": 1759718600,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 303552,
+      "num": 280120,
+      "word": "湖南卫视中秋之夜节目单",
+      "onboard_time": 1759747642,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 302060,
@@ -587,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249084,
+      "num": 249084,
+      "word": "湖南卫视中秋之夜",
+      "onboard_time": 1759749562,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 248765,
       "num": 191204,
       "word": "肖战喊别人哥哥",
@@ -691,11 +723,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214762,
-      "num": 187949,
-      "word": "湖南卫视中秋之夜节目单",
-      "onboard_time": 1759747642,
-      "rank": 17,
+      "raw_hot": 214318,
+      "num": 214318,
+      "word": "孙丞潇 我觉得金莎说得对",
+      "onboard_time": 1759749082,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -708,19 +740,11 @@
     },
     {
       "raw_hot": 211056,
-      "num": 178838,
+      "num": 213983,
       "word": "吴磊做月饼两小时胡子长出来了",
       "onboard_time": 1759745421,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209839,
-      "num": 209839,
-      "word": "教育局回应家长跪地被学生轮流踩踏",
-      "onboard_time": 1759749261,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208173,
@@ -971,6 +995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174055,
+      "num": 174055,
+      "word": "30岁长期熬夜有多可怕",
+      "onboard_time": 1759748722,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 173925,
       "num": 173925,
       "word": "低估了回眸杀的含金量",
@@ -985,14 +1017,6 @@
       "onboard_time": 1759678222,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172833,
-      "num": 172833,
-      "word": "孙丞潇 我觉得金莎说得对",
-      "onboard_time": 1759749082,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 172632,
@@ -1211,20 +1235,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144668,
-      "num": 144668,
-      "word": "湖南卫视中秋之夜",
-      "onboard_time": 1759749562,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 144617,
       "num": 144617,
       "word": "许我耀眼让我重新认识了陈伟霆",
       "onboard_time": 1759744941,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143433,
+      "num": 143433,
+      "word": "最好的睡姿vs最差的睡姿",
+      "onboard_time": 1759748663,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 142593,
@@ -1321,14 +1345,6 @@
       "onboard_time": 1759718600,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 134739,
-      "num": 134739,
-      "word": "30岁长期熬夜有多可怕",
-      "onboard_time": 1759748722,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 134329,
@@ -1433,14 +1449,6 @@
       "onboard_time": 1759731380,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 129381,
-      "num": 129381,
-      "word": "最好的睡姿vs最差的睡姿",
-      "onboard_time": 1759748663,
-      "rank": 32,
-      "category": "科学科普"
     },
     {
       "raw_hot": 127817,
@@ -1659,6 +1667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110862,
+      "num": 110862,
+      "word": "FPX.ZQ对战GW",
+      "onboard_time": 1759749622,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110150,
       "num": 110150,
       "word": "偶遇孙涵清刘子晗",
@@ -1673,6 +1689,14 @@
       "onboard_time": 1759725260,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109818,
+      "num": 109818,
+      "word": "华晨宇南京站路人观感",
+      "onboard_time": 1759749562,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 109462,
@@ -1699,6 +1723,14 @@
       "category": "国际时政,互联网"
     },
     {
+      "raw_hot": 108240,
+      "num": 108240,
+      "word": "这两个魔丸居然是同岁",
+      "onboard_time": 1759747461,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 108194,
       "num": 108194,
       "word": "读了五遍消息不知道怎么回复时",
@@ -1723,12 +1755,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107105,
-      "num": 107105,
-      "word": "FPX.ZQ对战GW",
-      "onboard_time": 1759749622,
-      "rank": 38,
-      "category": "电竞"
+      "raw_hot": 107347,
+      "num": 107347,
+      "word": "陈数李沁聊庆余年",
+      "onboard_time": 1759749742,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 107101,
@@ -1803,12 +1835,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104698,
+      "num": 104698,
+      "word": "周深天津这地方情况太复杂了",
+      "onboard_time": 1759750285,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 103838,
       "num": 103838,
       "word": "一秒黑化还得是影帝",
       "onboard_time": 1759728681,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103813,
+      "num": 103813,
+      "word": "张博恒的月饼是杠铃馅儿",
+      "onboard_time": 1759749742,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 103674,
@@ -1995,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94314,
+      "num": 94314,
+      "word": "农村新式婚礼",
+      "onboard_time": 1759750582,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94228,
       "num": 94228,
       "word": "重庆铜梁龙致歉",
@@ -2089,14 +2145,6 @@
       "onboard_time": 1759677505,
       "rank": 31,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 91476,
-      "num": 91476,
-      "word": "华晨宇南京站路人观感",
-      "onboard_time": 1759749562,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 90914,
@@ -2259,14 +2307,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 84290,
-      "num": 107103,
-      "word": "诺贝尔奖奖金124年没花完",
-      "onboard_time": 1759749382,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 83712,
       "num": 83712,
       "word": "金饰克价冲上1100元",
@@ -2313,6 +2353,14 @@
       "onboard_time": 1759734081,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81717,
+      "num": 81717,
+      "word": "洞察一切不愧是花海",
+      "onboard_time": 1759750582,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 81174,
@@ -2707,6 +2755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37026,
+      "num": 107416,
+      "word": "精神病女子替人开公司租车20台",
+      "onboard_time": 1759749622,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35919,
       "num": 35919,
       "word": "十月新番最爽女主",
@@ -2769,14 +2825,6 @@
       "onboard_time": 1759727421,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26349,
-      "num": 107101,
-      "word": "精神病女子替人开公司租车20台",
-      "onboard_time": 1759749622,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26280,
