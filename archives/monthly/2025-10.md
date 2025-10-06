@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 01:23:24
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 01:40:14
 </p>
 </blockquote>
 <p>
@@ -3957,6 +3957,12 @@ wtt（热度：234611）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2310%E6%9C%886%E6%97%A5%E5%86%8D%E9%80%A2%E4%B8%AD%E7%A7%8B%E8%A6%81%E7%AD%89%E5%88%B02063%E5%B9%B4%23" target="weibo">
+10月6日再逢中秋要等到2063年（热度：233434）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23G6666%E6%AC%A1%E5%88%97%E8%BD%A6%E9%99%90%E6%97%B6%E5%BC%80%E8%A1%8C%23" target="weibo">
 G6666次列车限时开行（热度：233415）
 </a>
@@ -4175,12 +4181,6 @@ celine大秀（热度：222882）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E8%BE%BE%E7%94%B5%E5%BD%B1%20%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%23" target="weibo">
 万达电影 恋与深空（热度：221739）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2310%E6%9C%886%E6%97%A5%E5%86%8D%E9%80%A2%E4%B8%AD%E7%A7%8B%E8%A6%81%E7%AD%89%E5%88%B02063%E5%B9%B4%23" target="weibo">
-10月6日再逢中秋要等到2063年（热度：221448）
 </a>
 </li>
 

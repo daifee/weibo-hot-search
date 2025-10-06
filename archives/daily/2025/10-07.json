@@ -1,6 +1,6 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759771404289,
+  "endTime": 1759772414980,
   "band_list": [
     {
       "raw_hot": 1047453,
@@ -107,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233434,
+      "num": 465410,
+      "word": "10月6日再逢中秋要等到2063年",
+      "onboard_time": 1759763182,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 226918,
       "num": 172451,
       "word": "张艺兴演唱会唱了十二月的奇迹",
@@ -129,14 +137,6 @@
       "onboard_time": 1759762402,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221448,
-      "num": 465410,
-      "word": "10月6日再逢中秋要等到2063年",
-      "onboard_time": 1759763182,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199353,
@@ -291,7 +291,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85746,
+      "raw_hot": 86887,
       "num": 145177,
       "word": "以色列呼吁不要相信假新闻",
       "onboard_time": 1759768459,
@@ -331,19 +331,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 82778,
+      "num": 145100,
+      "word": "中秋团圆",
+      "onboard_time": 1759766000,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82660,
       "num": 144600,
       "word": "超级月亮",
       "onboard_time": 1759753041,
       "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81337,
-      "num": 145100,
-      "word": "中秋团圆",
-      "onboard_time": 1759766000,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -440,6 +440,30 @@
       "word": "易烊千玺 有人正在挂念你",
       "onboard_time": 1759755983,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 41240,
+      "num": 66375,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1759771697,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 38644,
+      "num": 66285,
+      "word": "央视审美 国泰民安",
+      "onboard_time": 1759759162,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 34785,
+      "num": 65973,
+      "word": "谢娜一本正经",
+      "onboard_time": 1759754484,
+      "rank": 48,
       "category": "综艺"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759771404289,
+  "endTime": 1759772414980,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -1899,6 +1899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233434,
+      "num": 465410,
+      "word": "10月6日再逢中秋要等到2063年",
+      "onboard_time": 1759763182,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232604,
       "num": 169688,
       "word": "迪丽热巴有效文化输出",
@@ -2009,14 +2017,6 @@
       "onboard_time": 1759755503,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 221448,
-      "num": 465410,
-      "word": "10月6日再逢中秋要等到2063年",
-      "onboard_time": 1759763182,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 221025,
@@ -5859,6 +5859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86887,
+      "num": 145177,
+      "word": "以色列呼吁不要相信假新闻",
+      "onboard_time": 1759768459,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 86856,
       "num": 86856,
       "word": "日股暴涨近2000点",
@@ -5873,14 +5881,6 @@
       "onboard_time": 1759739181,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 85746,
-      "num": 145177,
-      "word": "以色列呼吁不要相信假新闻",
-      "onboard_time": 1759768459,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 85442,
@@ -6003,6 +6003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82778,
+      "num": 145100,
+      "word": "中秋团圆",
+      "onboard_time": 1759766000,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82745,
       "num": 102388,
       "word": "樊振东德甲十月首战",
@@ -6033,14 +6041,6 @@
       "onboard_time": 1759750582,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 81337,
-      "num": 145100,
-      "word": "中秋团圆",
-      "onboard_time": 1759766000,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81263,
@@ -6761,6 +6761,14 @@
       "onboard_time": 1759618877,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 41240,
+      "num": 66375,
+      "word": "鹿晗演唱会",
+      "onboard_time": 1759771697,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 40552,
