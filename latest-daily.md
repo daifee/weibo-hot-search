@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/07 00:31:44 ~ 2025/10/07 05:36:26
+本榜单时间：2025/10/07 00:31:44 ~ 2025/10/07 06:22:52
 </p>
 </blockquote>
 <p>
@@ -189,6 +189,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E7%A7%B0%E6%8D%A1%E6%9D%BF%E6%A0%97%E5%A3%B3%E5%86%B2%E7%AA%81%E4%BA%8B%E4%BB%B6%E5%B7%B2%E5%A4%84%E7%90%86%E5%AE%8C%E6%AF%95%23" target="weibo">
+景区称捡板栗壳冲突事件已处理完毕（热度：107608）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E4%B8%AD%E7%A7%8B%E7%A5%9D%E7%A6%8F%23" target="weibo">
 王橹杰中秋祝福（热度：103256）
 </a>
@@ -357,14 +363,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E7%A7%B0%E6%8D%A1%E6%9D%BF%E6%A0%97%E5%A3%B3%E5%86%B2%E7%AA%81%E4%BA%8B%E4%BB%B6%E5%B7%B2%E5%A4%84%E7%90%86%E5%AE%8C%E6%AF%95%23" target="weibo">
-景区称捡板栗壳冲突事件已处理完毕（热度：37619）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%23" target="weibo">
+谢娜一本正经（热度：34785）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%B8%80%E6%9C%AC%E6%AD%A3%E7%BB%8F%23" target="weibo">
-谢娜一本正经（热度：34785）
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%E7%AB%AF%E5%BA%84%E5%88%B0%E4%B8%8D%E5%83%8F%E5%A5%B9%23" target="weibo">
+闫妮端庄到不像她（热度：32959）
 </a>
 </li>
 
@@ -423,14 +429,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%E7%AB%AF%E5%BA%84%E5%88%B0%E4%B8%8D%E5%83%8F%E5%A5%B9%23" target="weibo">
-闫妮端庄到不像她（热度：15966）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E9%BA%A6%E5%BE%B7%E5%A7%86%E5%9C%A8%E5%B9%BF%E8%A5%BF%E6%B2%BF%E6%B5%B7%E5%86%8D%E6%AC%A1%E7%99%BB%E9%99%86%23" target="weibo">
-台风麦德姆在广西沿海再次登陆（热度：14742）
+台风麦德姆在广西沿海再次登陆（热度：16205）
 </a>
 </li>
 
