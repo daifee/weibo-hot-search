@@ -1,6 +1,6 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759830070279,
+  "endTime": 1759832875630,
   "band_list": [
     {
       "raw_hot": 1399578,
@@ -33,6 +33,14 @@
       "onboard_time": 1759766000,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 992945,
+      "num": 1158871,
+      "word": "建议大家不要提前买衣服",
+      "onboard_time": 1759825941,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 989198,
@@ -89,14 +97,6 @@
       "onboard_time": 1759816221,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 803606,
-      "num": 1128577,
-      "word": "建议大家不要提前买衣服",
-      "onboard_time": 1759825941,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 803571,
@@ -195,6 +195,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 582398,
+      "num": 582398,
+      "word": "山东音乐节疑似大量人员冲卡逃票",
+      "onboard_time": 1759829721,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 574779,
+      "num": 574779,
+      "word": "2025诺贝尔物理学奖公布",
+      "onboard_time": 1759831821,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 559985,
       "num": 191683,
       "word": "miumiu 好多围裙",
@@ -217,6 +233,14 @@
       "onboard_time": 1759802119,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 549487,
+      "num": 549487,
+      "word": "中国游客 泡发的木耳",
+      "onboard_time": 1759823481,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 529785,
@@ -339,14 +363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 423537,
-      "num": 423537,
-      "word": "中国游客 泡发的木耳",
-      "onboard_time": 1759823481,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 421267,
       "num": 205709,
       "word": "张杰看着屏幕上发光的谢娜",
@@ -443,6 +459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 324012,
+      "num": 194396,
+      "word": "张艺兴演唱会 极限男人帮",
+      "onboard_time": 1759827441,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 319354,
       "num": 319354,
       "word": "校方就家长跪地被学生轮流踩踏道歉",
@@ -499,12 +523,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 277637,
+      "num": 184044,
+      "word": "诺贝尔文学奖",
+      "onboard_time": 1759831643,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 276754,
       "num": 276754,
       "word": "王楚钦孙颖莎混双世排第3",
       "onboard_time": 1759797800,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272378,
+      "num": 272378,
+      "word": "2中国游客在马来西亚一岛上失联",
+      "onboard_time": 1759827020,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 270241,
@@ -521,22 +561,6 @@
       "onboard_time": 1759798940,
       "rank": 13,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 253342,
-      "num": 194396,
-      "word": "张艺兴演唱会 极限男人帮",
-      "onboard_time": 1759827441,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 248282,
-      "num": 248282,
-      "word": "2中国游客在马来西亚一岛上失联",
-      "onboard_time": 1759827020,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 244762,
@@ -644,7 +668,7 @@
     },
     {
       "raw_hot": 203975,
-      "num": 153407,
+      "num": 182855,
       "word": "跳绳八个月瘦了49斤",
       "onboard_time": 1759828281,
       "rank": 31,
@@ -740,7 +764,7 @@
     },
     {
       "raw_hot": 191847,
-      "num": 462873,
+      "num": 578123,
       "word": "国庆假期返程天气",
       "onboard_time": 1759801759,
       "rank": 8,
@@ -753,6 +777,14 @@
       "onboard_time": 1759776555,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191065,
+      "num": 191065,
+      "word": "诺贝尔物理学奖",
+      "onboard_time": 1759831821,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 190725,
@@ -771,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188599,
+      "num": 188599,
+      "word": "诺贝尔奖",
+      "onboard_time": 1759832361,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 185023,
       "num": 185023,
       "word": "以色列呼吁不要相信假新闻",
@@ -785,6 +825,14 @@
       "onboard_time": 1759816640,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183781,
+      "num": 183781,
+      "word": "孙颖莎王楚钦WTT香港总决赛",
+      "onboard_time": 1759828820,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 182944,
@@ -931,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167791,
+      "num": 167791,
+      "word": "李昀锐这段牛顿别看",
+      "onboard_time": 1759832121,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167691,
       "num": 167691,
       "word": "张艺兴演唱会顶级中式美学",
@@ -955,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163239,
+      "num": 163239,
+      "word": "穆祉丞谢谢爱我的人不分先后顺序",
+      "onboard_time": 1759831460,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 162372,
       "num": 162372,
       "word": "张艺兴彩排直播",
@@ -977,14 +1041,6 @@
       "onboard_time": 1759817779,
       "rank": 39,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 160954,
-      "num": 153161,
-      "word": "孙颖莎王楚钦WTT香港总决赛",
-      "onboard_time": 1759828820,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 160752,
@@ -1025,6 +1081,14 @@
       "onboard_time": 1759813101,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153933,
+      "num": 153933,
+      "word": "向太回应郭碧婷回娘家长住",
+      "onboard_time": 1759832361,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 152229,
@@ -1243,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128112,
+      "num": 128112,
+      "word": "宋伊人溜达日常",
+      "onboard_time": 1759832542,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126425,
       "num": 126425,
       "word": "苏群谈詹姆斯重大决策",
@@ -1299,12 +1371,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123285,
+      "num": 157599,
+      "word": "中国游客在帕劳潜水像下饺子",
+      "onboard_time": 1759831221,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123249,
       "num": 121399,
       "word": "谁家剧一集送走一个",
       "onboard_time": 1759819400,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123175,
+      "num": 123175,
+      "word": "宁静一提到孙红雷就藏不住喜欢",
+      "onboard_time": 1759830081,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 122871,
@@ -1435,6 +1523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112776,
+      "num": 112776,
+      "word": "宋亚轩 小蓝豆真爱粉",
+      "onboard_time": 1759831341,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112617,
       "num": 112617,
       "word": "我在埃及给花少化妆",
@@ -1483,14 +1579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111372,
-      "num": 111372,
-      "word": "山东音乐节疑似大量人员冲卡逃票",
-      "onboard_time": 1759829721,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111247,
       "num": 111247,
       "word": "刘些宁在国外手机丢了",
@@ -1523,6 +1611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110769,
+      "num": 110769,
+      "word": "胡先煦不想上班但那可是offer啊",
+      "onboard_time": 1759832660,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110754,
       "num": 110754,
       "word": "8号我要陪许妍去离婚",
@@ -1537,6 +1633,14 @@
       "onboard_time": 1759827621,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110405,
+      "num": 110405,
+      "word": "猫生真是喵喵又眯眯",
+      "onboard_time": 1759832721,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 109827,
@@ -1641,6 +1745,14 @@
       "onboard_time": 1759820901,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101638,
+      "num": 101638,
+      "word": "特朗普承认美国电网拖累AI发展",
+      "onboard_time": 1759830382,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 101603,
@@ -1931,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90592,
+      "num": 153552,
+      "word": "细菌战受害者伤口80年仍未愈合",
+      "onboard_time": 1759829721,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90068,
       "num": 90068,
       "word": "张帅2比1纳瓦罗",
@@ -2219,14 +2339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 58155,
-      "num": 153552,
-      "word": "细菌战受害者伤口80年仍未愈合",
-      "onboard_time": 1759829721,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57926,
       "num": 88182,
       "word": "景区回应180斤游客被卡石缝",
@@ -2241,6 +2353,14 @@
       "onboard_time": 1759813221,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 55779,
+      "num": 187070,
+      "word": "赵今麦刘浩存李庚希Miu系审美",
+      "onboard_time": 1759831521,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 53893,
@@ -2315,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43482,
+      "num": 184803,
+      "word": "诺奖得主或还不知道自己得奖了",
+      "onboard_time": 1759831579,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 43238,
       "num": 43238,
       "word": "网友巴西遭抢劫电脑为其挡一枪",
@@ -2371,6 +2499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 36794,
+      "num": 186254,
+      "word": "香奈儿巴黎时装周压轴大秀",
+      "onboard_time": 1759832361,
+      "rank": 18,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 34785,
       "num": 65973,
       "word": "谢娜一本正经",
@@ -2419,12 +2555,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29045,
+      "num": 98866,
+      "word": "1090元网购智能马桶突发爆炸",
+      "onboard_time": 1759831221,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26046,
       "num": 33785,
       "word": "刘宇直播带粉丝云逛巴黎",
       "onboard_time": 1759774636,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25728,
+      "num": 111401,
+      "word": "新疆喀纳斯景区暂停户外徒步",
+      "onboard_time": 1759831579,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25722,
@@ -2467,6 +2619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 20270,
+      "num": 113948,
+      "word": "男子回应开被撞烂的车去音乐节",
+      "onboard_time": 1759831881,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16276,
       "num": 23886,
       "word": "檀健次用手语鼓励聋人观众",
@@ -2481,6 +2641,14 @@
       "onboard_time": 1759783215,
       "rank": 49,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 13397,
+      "num": 113245,
+      "word": "孙颖莎成首位积分破万球员",
+      "onboard_time": 1759832420,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 11132,
