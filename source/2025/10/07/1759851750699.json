@@ -1,0 +1,410 @@
+{
+  "runTime": 1759851750699,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1285241,
+        "num": 1285241,
+        "word": "大疆预告降价已购买消费者退货维权",
+        "onboard_time": 1759847423,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1001753,
+        "num": 1001753,
+        "word": "詹姆斯决定二 广告",
+        "onboard_time": 1759850542,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23945,
+        "num": 586088,
+        "word": "再赏一次大江南北的中秋月",
+        "onboard_time": 1759822521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 433632,
+        "num": 433632,
+        "word": "因女友与走失女孩撞脸男子被误抓",
+        "onboard_time": 1759849282,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422434,
+        "num": 422434,
+        "word": "建议大家不要提前买衣服",
+        "onboard_time": 1759825941,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 386421,
+        "num": 386421,
+        "word": "亲历者称冰岛侧翻大巴上多名中国人",
+        "onboard_time": 1759845383,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 352008,
+        "num": 352008,
+        "word": "迪奥设计师 工作累丑",
+        "onboard_time": 1759836082,
+        "rank": 6,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 307445,
+        "num": 307445,
+        "word": "我始终认为用九键打字的人都是天才",
+        "onboard_time": 1759837342,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 245799,
+        "num": 245799,
+        "word": "珠峰暴雪向导一人一狗带超百人撤离",
+        "onboard_time": 1759844604,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233456,
+        "num": 233456,
+        "word": "广州暴雨",
+        "onboard_time": 1759842744,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2219596,
+        "num": 233238,
+        "word": "左航 剐蹭",
+        "onboard_time": 1759838601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598789,
+        "num": 231999,
+        "word": "鸡排哥回应嘴唇发紫发白",
+        "onboard_time": 1759840824,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497102,
+        "num": 230302,
+        "word": "一笑随歌热度",
+        "onboard_time": 1759848024,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486585,
+        "num": 229859,
+        "word": "张艺兴 莲池春晚",
+        "onboard_time": 1759846702,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 459482,
+        "num": 228509,
+        "word": "周生辰下时宜了",
+        "onboard_time": 1759841603,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 336372,
+        "num": 227762,
+        "word": "殷世航向傲娇美求婚",
+        "onboard_time": 1759844304,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 277630,
+        "num": 226096,
+        "word": "刘宇宁不换壁纸的原因",
+        "onboard_time": 1759848442,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261931,
+        "num": 225220,
+        "word": "时代峰峻回应左航撞人",
+        "onboard_time": 1759844244,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245071,
+        "num": 223905,
+        "word": "老婆回应与张纪中的婚姻没有爱情",
+        "onboard_time": 1759842984,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223730,
+        "num": 223730,
+        "word": "馆长被台湾警方侦办",
+        "onboard_time": 1759844123,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347367,
+        "num": 211689,
+        "word": "顺产开十指真是十个手指那么宽吗",
+        "onboard_time": 1759850122,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 149998,
+        "num": 149998,
+        "word": "蔡徐坤deadman军训大合唱",
+        "onboard_time": 1759850602,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147773,
+        "num": 147773,
+        "word": "宋伊人溜达日常",
+        "onboard_time": 1759832542,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144379,
+        "num": 144379,
+        "word": "南京地铁回应鸡鸣寺暗讽事件",
+        "onboard_time": 1759840104,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141592,
+        "num": 141592,
+        "word": "警方回应小伙与女友吃饭被铐走",
+        "onboard_time": 1759848921,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125492,
+        "num": 125492,
+        "word": "张艺兴演唱会",
+        "onboard_time": 1759834161,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120048,
+        "num": 120048,
+        "word": "姐姐失踪4年被发现时已成干尸",
+        "onboard_time": 1759823422,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117376,
+        "num": 117376,
+        "word": "刘宇宁没接到过将门独后剧本",
+        "onboard_time": 1759850661,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101687,
+        "num": 101687,
+        "word": "迪丽热巴回国",
+        "onboard_time": 1759833861,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100036,
+        "num": 100036,
+        "word": "陈丽君谈我的大观园火出圈",
+        "onboard_time": 1759843584,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98149,
+        "num": 98149,
+        "word": "曾舜晞脱衣服没排练吗",
+        "onboard_time": 1759846882,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96686,
+        "num": 96686,
+        "word": "供一个大学生四年需要花多少钱",
+        "onboard_time": 1759842923,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95888,
+        "num": 95888,
+        "word": "终于知道为什么妈妈老开我房门了",
+        "onboard_time": 1759850362,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95214,
+        "num": 95214,
+        "word": "人人人熊猫人人人",
+        "onboard_time": 1759847603,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92521,
+        "num": 92521,
+        "word": "坚持每天看书真的能改变一个人吗",
+        "onboard_time": 1759842923,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92426,
+        "num": 92426,
+        "word": "成毅 刀剑如梦",
+        "onboard_time": 1759844063,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91695,
+        "num": 91695,
+        "word": "李沁出道以来第一次摇人宣传",
+        "onboard_time": 1759826300,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90313,
+        "num": 90313,
+        "word": "小狗沐浴的当晚可以在床上睡觉",
+        "onboard_time": 1759849942,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90213,
+        "num": 90213,
+        "word": "精简版ModelY售价",
+        "onboard_time": 1759835180,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 86878,
+        "num": 86878,
+        "word": "被赵今麦美到了",
+        "onboard_time": 1759851023,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86772,
+        "num": 86772,
+        "word": "苏超南通5比0淮安",
+        "onboard_time": 1759844244,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85010,
+        "num": 85010,
+        "word": "周深国庆场再唱灯火里的中国",
+        "onboard_time": 1759851261,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83801,
+        "num": 83801,
+        "word": "杜海涛到了伦敦冒充王嘉尔",
+        "onboard_time": 1759841845,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81326,
+        "num": 81326,
+        "word": "70多匹马下山时被绑一条前腿",
+        "onboard_time": 1759847722,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79918,
+        "num": 79918,
+        "word": "王楚钦爸妈的心愿实现了",
+        "onboard_time": 1759848862,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71541,
+        "num": 71541,
+        "word": "24节气中最早带寒的节气",
+        "onboard_time": 1759847002,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70780,
+        "num": 70780,
+        "word": "这还是我认识的海来阿木吗",
+        "onboard_time": 1759849102,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70690,
+        "num": 70690,
+        "word": "韩国部分新婚夫妇放弃黄金戒指",
+        "onboard_time": 1759844663,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 68575,
+        "num": 68575,
+        "word": "西出阳关人人人人人",
+        "onboard_time": 1759851201,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68393,
+        "num": 68393,
+        "word": "福建太姥山180斤游客被卡石缝",
+        "onboard_time": 1759833620,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把爱家和爱国统一起来#"
+    }
+  }
+}

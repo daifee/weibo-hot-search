@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 23:28:10
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 23:42:30
 </p>
 </blockquote>
 <p>
@@ -351,6 +351,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%96%86%E9%A2%84%E5%91%8A%E9%99%8D%E4%BB%B7%E5%B7%B2%E8%B4%AD%E4%B9%B0%E6%B6%88%E8%B4%B9%E8%80%85%E9%80%80%E8%B4%A7%E7%BB%B4%E6%9D%83%23" target="weibo">
+大疆预告降价已购买消费者退货维权（热度：1285241）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E7%A7%B0%E6%88%91%E4%BA%BA%E9%83%BD%E8%A6%81%E7%AA%92%E6%81%AF%E4%BA%86%23" target="weibo">
 鸡排哥称我人都要窒息了（热度：1280118）
 </a>
@@ -591,6 +597,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%86%B3%E5%AE%9A%E4%BA%8C%20%E5%B9%BF%E5%91%8A%23" target="weibo">
+詹姆斯决定二 广告（热度：1001753）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E9%9F%B3%E8%85%94%E5%8F%A3%E9%9F%B3%23" target="weibo">
 王诗龄音腔口音（热度：1000546）
 </a>
@@ -707,12 +719,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E4%B8%BA%E6%95%91%E7%99%8C%E7%97%87%E5%84%BF%E5%AD%90%E5%9C%A8%E5%8C%BB%E9%99%A2%E8%A7%92%E8%90%BD%E5%81%9A%E5%90%83%E6%92%AD%23" target="weibo">
 母亲为救癌症儿子在医院角落做吃播（热度：917837）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%96%86%E9%A2%84%E5%91%8A%E9%99%8D%E4%BB%B7%E5%B7%B2%E8%B4%AD%E4%B9%B0%E6%B6%88%E8%B4%B9%E8%80%85%E9%80%80%E8%B4%A7%E7%BB%B4%E6%9D%83%23" target="weibo">
-大疆预告降价已购买消费者退货维权（热度：915452）
 </a>
 </li>
 
@@ -2007,6 +2013,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AC%91%E9%9A%8F%E6%AD%8C%E7%83%AD%E5%BA%A6%23" target="weibo">
+一笑随歌热度（热度：497102）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E7%94%B2%E5%8C%BB%E7%94%9F%E8%A7%A3%E8%AF%BB%E5%8F%AA%E5%90%83%E6%B0%B4%E6%9E%9C%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%96%23" target="weibo">
 三甲医生解读只吃水果女子去世（热度：496984）
 </a>
@@ -2277,12 +2289,6 @@ K签证（热度：453444）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AC%91%E9%9A%8F%E6%AD%8C%E7%83%AD%E5%BA%A6%23" target="weibo">
-一笑随歌热度（热度：448044）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%23" target="weibo">
 诺贝尔物理学奖（热度：447754）
 </a>
@@ -2411,6 +2417,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%AB%98%E4%B8%AD%E7%94%9F%E5%A4%AA%E7%B4%AF%E5%B0%B1%E6%89%8E%E9%92%88%23" target="weibo">
 韩国高中生太累就扎针（热度：433902）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E5%A5%B3%E5%8F%8B%E4%B8%8E%E8%B5%B0%E5%A4%B1%E5%A5%B3%E5%AD%A9%E6%92%9E%E8%84%B8%E7%94%B7%E5%AD%90%E8%A2%AB%E8%AF%AF%E6%8A%93%23" target="weibo">
+因女友与走失女孩撞脸男子被误抓（热度：433632）
 </a>
 </li>
 
@@ -2579,12 +2591,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%AD%E8%A1%A3%E6%9C%8D%E4%B8%8D%E8%A6%81%E5%8F%AA%E7%9B%AF%E7%9D%80%E5%8D%96%E8%A1%A3%E6%9C%8D%E7%9A%84%E5%BA%97%23" target="weibo">
 网购衣服不要只盯着卖衣服的店（热度：404385）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E5%A5%B3%E5%8F%8B%E4%B8%8E%E8%B5%B0%E5%A4%B1%E5%A5%B3%E5%AD%A9%E6%92%9E%E8%84%B8%E7%94%B7%E5%AD%90%E8%A2%AB%E8%AF%AF%E6%8A%93%23" target="weibo">
-因女友与走失女孩撞脸男子被误抓（热度：404245）
 </a>
 </li>
 
@@ -3873,6 +3879,12 @@ JDG对战DK（热度：286717）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E4%B8%8D%E6%8D%A2%E5%A3%81%E7%BA%B8%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
+刘宇宁不换壁纸的原因（热度：277630）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9D%92%20%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 王青 音乐节（热度：277486）
 </a>
@@ -4299,6 +4311,12 @@ F1（热度：275052）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B3%B0%E6%9A%B4%E9%9B%AA%E5%90%91%E5%AF%BC%E4%B8%80%E4%BA%BA%E4%B8%80%E7%8B%97%E5%B8%A6%E8%B6%85%E7%99%BE%E4%BA%BA%E6%92%A4%E7%A6%BB%23" target="weibo">
+珠峰暴雪向导一人一狗带超百人撤离（热度：245799）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%BC%A0%E5%AD%90%E8%90%B1%E6%8C%BD%E6%89%8B%E9%80%9B%E8%A1%97%23" target="weibo">
 陈赫张子萱挽手逛街（热度：245692）
 </a>
@@ -4655,12 +4673,6 @@ G6666次列车限时开行（热度：233415）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%AE%9A%E5%A6%86%E5%89%A7%E7%85%A7%23" target="weibo">
 严浩翔定妆剧照（热度：225327）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B3%B0%E6%9A%B4%E9%9B%AA%E5%90%91%E5%AF%BC%E4%B8%80%E4%BA%BA%E4%B8%80%E7%8B%97%E5%B8%A6%E8%B6%85%E7%99%BE%E4%BA%BA%E6%92%A4%E7%A6%BB%23" target="weibo">
-珠峰暴雪向导一人一狗带超百人撤离（热度：224548）
 </a>
 </li>
 
@@ -5097,12 +5109,6 @@ AI女演员出道遭抵制（热度：212198）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E4%B8%8D%E6%8D%A2%E5%A3%81%E7%BA%B8%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
-刘宇宁不换壁纸的原因（热度：206892）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B2%BE%E7%AE%80%E7%89%88ModelY%E5%94%AE%E4%BB%B7%23" target="weibo">
 精简版ModelY售价（热度：206873）
 </a>
@@ -5405,12 +5411,6 @@ AG战胜RW（热度：199437）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A4%AE%E6%B0%94%E8%B1%A1%E5%8F%B0%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E5%8F%B0%E9%A3%8E%E6%9A%B4%E9%9B%A8%E9%A2%84%E8%AD%A6%23" target="weibo">
 中央气象台同时发布台风暴雨预警（热度：197916）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%86%B3%E5%AE%9A%E4%BA%8C%20%E5%B9%BF%E5%91%8A%23" target="weibo">
-詹姆斯决定二 广告（热度：197820）
 </a>
 </li>
 
