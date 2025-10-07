@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759872127255,
+  "endTime": 1759872987938,
   "band_list": [
     {
       "raw_hot": 1099261,
@@ -545,6 +545,14 @@
       "onboard_time": 1759864814,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 11595,
+      "num": 18552,
+      "word": "田曦薇赶海",
+      "onboard_time": 1759872853,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 11437,

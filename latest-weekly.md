@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/08 05:22:07
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/08 05:36:27
 </p>
 </blockquote>
 <p>
@@ -7733,6 +7733,12 @@ CP2025SP（热度：26632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E9%B9%8F%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8C%85%E6%8F%BD%E4%BA%94%E5%86%A0%23" target="weibo">
 向鹏祝贺中国队包揽五冠（热度：12612）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%B5%B6%E6%B5%B7%23" target="weibo">
+田曦薇赶海（热度：11595）
 </a>
 </li>
 
