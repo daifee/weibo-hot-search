@@ -1,7 +1,15 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759803019419,
+  "endTime": 1759806196846,
   "band_list": [
+    {
+      "raw_hot": 1280395,
+      "num": 256329,
+      "word": "大家上班一定要打扮自己",
+      "onboard_time": 1759802060,
+      "rank": 13,
+      "category": "情感"
+    },
     {
       "raw_hot": 1047453,
       "num": 181976,
@@ -11,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 976079,
-      "num": 1156172,
+      "raw_hot": 980225,
+      "num": 1156836,
       "word": "景区回应仙女散的是假花",
       "onboard_time": 1759800140,
       "rank": 4,
@@ -27,8 +35,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 879431,
+      "num": 254259,
+      "word": "肖战为李沁新剧宣传",
+      "onboard_time": 1759802900,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 871297,
+      "num": 871297,
+      "word": "金价",
+      "onboard_time": 1759803860,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 841724,
-      "num": 198833,
+      "num": 253501,
       "word": "鹿晗方将承担机票和酒店产生的损失",
       "onboard_time": 1759759762,
       "rank": 11,
@@ -52,7 +76,7 @@
     },
     {
       "raw_hot": 640017,
-      "num": 196766,
+      "num": 250882,
       "word": "素颜的刘浩存赵今麦李庚希",
       "onboard_time": 1759764501,
       "rank": 13,
@@ -68,7 +92,7 @@
     },
     {
       "raw_hot": 502358,
-      "num": 169790,
+      "num": 177464,
       "word": "身体有炎症时少吃4种食物",
       "onboard_time": 1759797678,
       "rank": 20,
@@ -81,6 +105,14 @@
       "onboard_time": 1759800920,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 454505,
+      "num": 177948,
+      "word": "刘涛女儿居然马上要读大学了",
+      "onboard_time": 1759805060,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 437330,
@@ -100,7 +132,7 @@
     },
     {
       "raw_hot": 421267,
-      "num": 195104,
+      "num": 205709,
       "word": "张杰看着屏幕上发光的谢娜",
       "onboard_time": 1759794198,
       "rank": 12,
@@ -123,14 +155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 370706,
-      "num": 178743,
-      "word": "大家上班一定要打扮自己",
-      "onboard_time": 1759802060,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 369993,
       "num": 869198,
       "word": "挪威2万人口小岛因中国游客堵车",
@@ -139,12 +163,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 353663,
+      "num": 353663,
+      "word": "日本预制拉面",
+      "onboard_time": 1759801519,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 338368,
-      "num": 169594,
+      "num": 177154,
       "word": "金价涨涨涨疯了",
       "onboard_time": 1759799000,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 324205,
+      "num": 324205,
+      "word": "每天喝茶vs每天喝咖啡",
+      "onboard_time": 1759802119,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 318525,
@@ -179,12 +219,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267194,
+      "num": 267194,
+      "word": "王楚钦孙颖莎混双世排第3",
+      "onboard_time": 1759797800,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261666,
       "num": 193338,
       "word": "香奈儿大秀",
       "onboard_time": 1759798940,
       "rank": 13,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 250323,
+      "num": 250323,
+      "word": "黄磊处处被贴脸开大",
+      "onboard_time": 1759804579,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 244762,
@@ -243,6 +299,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 225986,
+      "num": 225986,
+      "word": "刘轩丞G社生图",
+      "onboard_time": 1759802840,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225382,
+      "num": 225382,
+      "word": "德国提议将退休年龄提高至73岁",
+      "onboard_time": 1759802539,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 222633,
       "num": 146549,
       "word": "周深中俄双语致敬英烈",
@@ -259,12 +331,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 209225,
-      "num": 176143,
-      "word": "日本预制拉面",
-      "onboard_time": 1759801519,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 202576,
+      "num": 202576,
+      "word": "台媒曝黄子佼肇事逃逸",
+      "onboard_time": 1759806081,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 199353,
@@ -273,6 +345,14 @@
       "onboard_time": 1759755683,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198681,
+      "num": 139981,
+      "word": "猴子被游客扇巴掌",
+      "onboard_time": 1759805659,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192862,
@@ -315,14 +395,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 184523,
-      "num": 169019,
-      "word": "王楚钦孙颖莎混双世排第3",
-      "onboard_time": 1759797800,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 182944,
       "num": 182944,
       "word": "假期还有最后2天",
@@ -331,12 +403,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176627,
-      "num": 169325,
-      "word": "德国提议将退休年龄提高至73岁",
-      "onboard_time": 1759802539,
-      "rank": 22,
-      "category": "国际时政"
+      "raw_hot": 178558,
+      "num": 178558,
+      "word": "一笑随歌",
+      "onboard_time": 1759803620,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 176324,
@@ -347,12 +419,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168923,
-      "num": 168923,
-      "word": "刘轩丞G社生图",
-      "onboard_time": 1759802840,
-      "rank": 25,
-      "category": "作品衍生"
+      "raw_hot": 172792,
+      "num": 172792,
+      "word": "全球第一网红回复詹姆斯",
+      "onboard_time": 1759803620,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172768,
+      "num": 172768,
+      "word": "赵奕欢头发上插两把化妆刷就上台了",
+      "onboard_time": 1759802779,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 167454,
@@ -387,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147193,
+      "num": 147193,
+      "word": "特朗普站在防弹玻璃后疯狂吹嘘",
+      "onboard_time": 1759803020,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 146012,
       "num": 146012,
       "word": "普通人素颜出门怎么变好看",
@@ -401,6 +489,14 @@
       "onboard_time": 1759801699,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 140879,
+      "num": 140879,
+      "word": "长着张海王脸结果被骗哭了",
+      "onboard_time": 1759805719,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 137417,
@@ -443,12 +539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122854,
-      "num": 122854,
-      "word": "肖战为李沁新剧宣传",
-      "onboard_time": 1759802900,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 122871,
+      "num": 122871,
+      "word": "男子回应五台山遇狐狸带路",
+      "onboard_time": 1759802960,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122495,
@@ -467,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119897,
+      "num": 119897,
+      "word": "张艺兴工作室生日长文",
+      "onboard_time": 1759805899,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119364,
       "num": 119364,
       "word": "女子被假冒费玉清骗走上千万",
@@ -483,12 +587,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112545,
-      "num": 112545,
-      "word": "每天喝茶vs每天喝咖啡",
-      "onboard_time": 1759802119,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 116269,
+      "num": 116269,
+      "word": "王一博85号痛楼",
+      "onboard_time": 1759804760,
+      "rank": 38,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 112440,
@@ -497,6 +601,14 @@
       "onboard_time": 1759797199,
       "rank": 29,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 112113,
+      "num": 112113,
+      "word": "战斧导弹射程覆盖莫斯科",
+      "onboard_time": 1759803079,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111657,
@@ -515,20 +627,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109804,
+      "num": 109804,
+      "word": "难怪周迅能和香合作18年",
+      "onboard_time": 1759805119,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 105981,
+      "num": 105981,
+      "word": "朱雨玲世排反超日本乒协",
+      "onboard_time": 1759803860,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103256,
       "num": 145074,
       "word": "王橹杰中秋祝福",
       "onboard_time": 1759761383,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102585,
-      "num": 102585,
-      "word": "赵奕欢头发上插两把化妆刷就上台了",
-      "onboard_time": 1759802779,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 99837,
@@ -625,14 +745,6 @@
       "onboard_time": 1759758744,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91274,
-      "num": 91274,
-      "word": "男子回应五台山遇狐狸带路",
-      "onboard_time": 1759802960,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87117,

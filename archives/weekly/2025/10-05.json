@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759803019419,
+  "endTime": 1759806196846,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1280395,
+      "num": 256329,
+      "word": "大家上班一定要打扮自己",
+      "onboard_time": 1759802060,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1240867,
       "num": 197060,
       "word": "戚薇 G社好离谱",
@@ -259,8 +267,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 976079,
-      "num": 1156172,
+      "raw_hot": 980225,
+      "num": 1156836,
       "word": "景区回应仙女散的是假花",
       "onboard_time": 1759800140,
       "rank": 4,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 950279,
-      "num": 514647,
+      "num": 871297,
       "word": "金价",
       "onboard_time": 1759645640,
       "rank": 37,
@@ -345,6 +353,14 @@
       "onboard_time": 1759680801,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 879431,
+      "num": 254259,
+      "word": "肖战为李沁新剧宣传",
+      "onboard_time": 1759802900,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 875218,
@@ -580,7 +596,7 @@
     },
     {
       "raw_hot": 640017,
-      "num": 196766,
+      "num": 250882,
       "word": "素颜的刘浩存赵今麦李庚希",
       "onboard_time": 1759764501,
       "rank": 28,
@@ -788,7 +804,7 @@
     },
     {
       "raw_hot": 502358,
-      "num": 169790,
+      "num": 177464,
       "word": "身体有炎症时少吃4种食物",
       "onboard_time": 1759797678,
       "rank": 20,
@@ -915,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 454505,
+      "num": 177948,
+      "word": "刘涛女儿居然马上要读大学了",
+      "onboard_time": 1759805060,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 453342,
       "num": 212541,
       "word": "枭起青壤",
@@ -1028,7 +1052,7 @@
     },
     {
       "raw_hot": 421267,
-      "num": 195104,
+      "num": 205709,
       "word": "张杰看着屏幕上发光的谢娜",
       "onboard_time": 1759794198,
       "rank": 12,
@@ -1211,14 +1235,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 370706,
-      "num": 178743,
-      "word": "大家上班一定要打扮自己",
-      "onboard_time": 1759802060,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 363907,
       "num": 186788,
       "word": "郭富城回应三胎已出生",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1759732281,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 353663,
+      "num": 353663,
+      "word": "日本预制拉面",
+      "onboard_time": 1759801519,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 349970,
@@ -1332,7 +1356,7 @@
     },
     {
       "raw_hot": 338368,
-      "num": 169594,
+      "num": 177154,
       "word": "金价涨涨涨疯了",
       "onboard_time": 1759799000,
       "rank": 21,
@@ -1401,6 +1425,14 @@
       "onboard_time": 1759587561,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 324205,
+      "num": 324205,
+      "word": "每天喝茶vs每天喝咖啡",
+      "onboard_time": 1759802119,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 323016,
@@ -1811,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 267194,
+      "num": 267194,
+      "word": "王楚钦孙颖莎混双世排第3",
+      "onboard_time": 1759797800,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266447,
       "num": 234878,
       "word": "许我耀眼一天一集",
@@ -1913,6 +1953,14 @@
       "onboard_time": 1759716681,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250323,
+      "num": 250323,
+      "word": "黄磊处处被贴脸开大",
+      "onboard_time": 1759804579,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 249084,
@@ -2083,6 +2131,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 225986,
+      "num": 225986,
+      "word": "刘轩丞G社生图",
+      "onboard_time": 1759802840,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225382,
+      "num": 225382,
+      "word": "德国提议将退休年龄提高至73岁",
+      "onboard_time": 1759802539,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 223040,
       "num": 293292,
       "word": "TTG对战KSG",
@@ -2243,14 +2307,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 209225,
-      "num": 176143,
-      "word": "日本预制拉面",
-      "onboard_time": 1759801519,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 208173,
       "num": 208173,
       "word": "张晚意为李沁新剧宣传",
@@ -2339,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202576,
+      "num": 202576,
+      "word": "台媒曝黄子佼肇事逃逸",
+      "onboard_time": 1759806081,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201410,
       "num": 152440,
       "word": "恋与深空",
@@ -2377,6 +2441,14 @@
       "onboard_time": 1759735639,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198681,
+      "num": 139981,
+      "word": "猴子被游客扇巴掌",
+      "onboard_time": 1759805659,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197916,
@@ -2651,14 +2723,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 184523,
-      "num": 169019,
-      "word": "王楚钦孙颖莎混双世排第3",
-      "onboard_time": 1759797800,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184236,
       "num": 184236,
       "word": "塞蒂恩下课",
@@ -2803,6 +2867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178558,
+      "num": 178558,
+      "word": "一笑随歌",
+      "onboard_time": 1759673603,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178188,
       "num": 178188,
       "word": "柬警方解救一被绑架的19岁中国人",
@@ -2833,14 +2905,6 @@
       "onboard_time": 1759726581,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 176627,
-      "num": 169325,
-      "word": "德国提议将退休年龄提高至73岁",
-      "onboard_time": 1759802539,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 176590,
@@ -2971,6 +3035,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 172792,
+      "num": 172792,
+      "word": "全球第一网红回复詹姆斯",
+      "onboard_time": 1759803620,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172768,
+      "num": 172768,
+      "word": "赵奕欢头发上插两把化妆刷就上台了",
+      "onboard_time": 1759802779,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172632,
       "num": 172632,
       "word": "杨紫生命树中秋vlog",
@@ -3051,14 +3131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168923,
-      "num": 168923,
-      "word": "刘轩丞G社生图",
-      "onboard_time": 1759802840,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 168338,
       "num": 168338,
       "word": "范闲范思辙给林婉儿打call",
@@ -3089,14 +3161,6 @@
       "onboard_time": 1759625720,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166693,
-      "num": 166693,
-      "word": "一笑随歌",
-      "onboard_time": 1759673603,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 166242,
@@ -3531,6 +3595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147193,
+      "num": 147193,
+      "word": "特朗普站在防弹玻璃后疯狂吹嘘",
+      "onboard_time": 1759803020,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147057,
       "num": 147057,
       "word": "高铁 充电口使用权争议",
@@ -3745,6 +3817,14 @@
       "onboard_time": 1759664183,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140879,
+      "num": 140879,
+      "word": "长着张海王脸结果被骗哭了",
+      "onboard_time": 1759805719,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 140623,
@@ -4323,12 +4403,12 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 122854,
-      "num": 122854,
-      "word": "肖战为李沁新剧宣传",
-      "onboard_time": 1759802900,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 122871,
+      "num": 122871,
+      "word": "男子回应五台山遇狐狸带路",
+      "onboard_time": 1759802960,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122724,
@@ -4441,6 +4521,14 @@
       "onboard_time": 1759735761,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 119897,
+      "num": 119897,
+      "word": "张艺兴工作室生日长文",
+      "onboard_time": 1759805899,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 119620,
@@ -4609,6 +4697,14 @@
       "onboard_time": 1759670423,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116269,
+      "num": 116269,
+      "word": "王一博85号痛楼",
+      "onboard_time": 1759804760,
+      "rank": 38,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 116029,
@@ -4795,14 +4891,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 112545,
-      "num": 112545,
-      "word": "每天喝茶vs每天喝咖啡",
-      "onboard_time": 1759802119,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112451,
       "num": 112451,
       "word": "张小斐 我的大明星女友",
@@ -4825,6 +4913,14 @@
       "onboard_time": 1759637901,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 112113,
+      "num": 112113,
+      "word": "战斧导弹射程覆盖莫斯科",
+      "onboard_time": 1759803079,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 111857,
@@ -5003,6 +5099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109804,
+      "num": 109804,
+      "word": "难怪周迅能和香合作18年",
+      "onboard_time": 1759805119,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 109510,
       "num": 109510,
       "word": "张雨绮素颜主打一个真实",
@@ -5169,6 +5273,14 @@
       "onboard_time": 1759656621,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105981,
+      "num": 105981,
+      "word": "朱雨玲世排反超日本乒协",
+      "onboard_time": 1759803860,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 105944,
@@ -5393,14 +5505,6 @@
       "onboard_time": 1759649120,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 102585,
-      "num": 102585,
-      "word": "赵奕欢头发上插两把化妆刷就上台了",
-      "onboard_time": 1759802779,
-      "rank": 37,
-      "category": "演出"
     },
     {
       "raw_hot": 102446,
@@ -5961,14 +6065,6 @@
       "onboard_time": 1759645460,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 91274,
-      "num": 91274,
-      "word": "男子回应五台山遇狐狸带路",
-      "onboard_time": 1759802960,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90914,
