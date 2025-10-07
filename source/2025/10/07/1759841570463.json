@@ -1,0 +1,410 @@
+{
+  "runTime": 1759841570463,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1095889,
+        "num": 1175342,
+        "word": "迪奥设计师 工作累丑",
+        "onboard_time": 1759836082,
+        "rank": 0,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 769654,
+        "num": 769654,
+        "word": "建议大家不要提前买衣服",
+        "onboard_time": 1759825941,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15432,
+        "num": 483764,
+        "word": "国庆假期返程天气",
+        "onboard_time": 1759801759,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 451900,
+        "num": 451900,
+        "word": "福建太姥山180斤游客被卡石缝",
+        "onboard_time": 1759833620,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419813,
+        "num": 419813,
+        "word": "我始终认为用九键打字的人都是天才",
+        "onboard_time": 1759837342,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230787,
+        "num": 230787,
+        "word": "山东音乐节疑似大量人员冲卡逃票",
+        "onboard_time": 1759829721,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215784,
+        "num": 215784,
+        "word": "中方主提决议在联合国获通过",
+        "onboard_time": 1759836441,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212751,
+        "num": 212751,
+        "word": "鸡排哥回应嘴唇发紫发白",
+        "onboard_time": 1759840824,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198526,
+        "num": 198526,
+        "word": "苏超",
+        "onboard_time": 1759837282,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180834,
+        "num": 180834,
+        "word": "00后利用办公室午休赚三份工资",
+        "onboard_time": 1759837881,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13334858,
+        "num": 13334858,
+        "word": "左航 撞人",
+        "onboard_time": 1759838601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405414,
+        "num": 180417,
+        "word": "张碧晨给张艺兴送花篮",
+        "onboard_time": 1759835780,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 309533,
+        "num": 180044,
+        "word": "明星接受采访不要穿橙色",
+        "onboard_time": 1759817420,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277068,
+        "num": 179849,
+        "word": "李沁出道以来第一次摇人宣传",
+        "onboard_time": 1759826300,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244869,
+        "num": 179625,
+        "word": "迪丽热巴回国",
+        "onboard_time": 1759833861,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1104802,
+        "num": 179269,
+        "word": "左航头盔",
+        "onboard_time": 1759839324,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261263,
+        "num": 178897,
+        "word": "张艺兴演唱会",
+        "onboard_time": 1759834161,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210294,
+        "num": 178839,
+        "word": "女方悔婚退彩礼时要扣3万拥抱费",
+        "onboard_time": 1759833081,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47856,
+        "num": 178479,
+        "word": "05年男子拒服兵役被罚8.64万",
+        "onboard_time": 1759841124,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73885,
+        "num": 178191,
+        "word": "MiuMiu秀场叠搭公式",
+        "onboard_time": 1759838601,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 245948,
+        "num": 177894,
+        "word": "姐姐失踪4年被发现时已成干尸",
+        "onboard_time": 1759823422,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154995,
+        "num": 177500,
+        "word": "苏超南通vs淮安淘汰赛",
+        "onboard_time": 1759840166,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234527,
+        "num": 177425,
+        "word": "宋伊人溜达日常",
+        "onboard_time": 1759832542,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206873,
+        "num": 177104,
+        "word": "精简版ModelY售价",
+        "onboard_time": 1759835180,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 176937,
+        "num": 176937,
+        "word": "王一博刷爆个人纪录帅炸了",
+        "onboard_time": 1759839745,
+        "rank": 24,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 174635,
+        "num": 174635,
+        "word": "向太回应郭碧婷回娘家长住",
+        "onboard_time": 1759832361,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174322,
+        "num": 174322,
+        "word": "刘宇宁直播",
+        "onboard_time": 1759835601,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173913,
+        "num": 173913,
+        "word": "南京地铁回应鸡鸣寺暗讽事件",
+        "onboard_time": 1759840104,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293683,
+        "num": 172764,
+        "word": "时代少年团接触个代",
+        "onboard_time": 1759840404,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171536,
+        "num": 171536,
+        "word": "被2000多年前的中国基建震撼到",
+        "onboard_time": 1759836801,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189758,
+        "num": 167854,
+        "word": "想发火的猴子发现是熟人后秒变脸",
+        "onboard_time": 1759841004,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163392,
+        "num": 163392,
+        "word": "杨幂去了龙井日本遗址博物馆",
+        "onboard_time": 1759816341,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162372,
+        "num": 162372,
+        "word": "小黄豆曝随礼标准",
+        "onboard_time": 1759838541,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 147979,
+        "num": 147979,
+        "word": "登陆少年不换番",
+        "onboard_time": 1759826242,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143464,
+        "num": 143464,
+        "word": "TF四代出道团成员由公司自主决定",
+        "onboard_time": 1759824800,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138967,
+        "num": 138967,
+        "word": "同事称诺奖得主在徒步旅行联系不上",
+        "onboard_time": 1759836801,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130513,
+        "num": 130513,
+        "word": "跳绳八个月瘦了49斤",
+        "onboard_time": 1759828281,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 122475,
+        "num": 122475,
+        "word": "一诺不管在哪里我们未来见",
+        "onboard_time": 1759841004,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117068,
+        "num": 117068,
+        "word": "miumiu 好多围裙",
+        "onboard_time": 1759819519,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 111867,
+        "num": 111867,
+        "word": "别人向往生活偶遇明星我偶遇小O",
+        "onboard_time": 1759841063,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110783,
+        "num": 110783,
+        "word": "100岁弟弟过生日103岁哥哥来了",
+        "onboard_time": 1759834880,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106929,
+        "num": 106929,
+        "word": "周翊然赛车帅成啥样了",
+        "onboard_time": 1759838302,
+        "rank": 41,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 106498,
+        "num": 106498,
+        "word": "泡泡鱼 老大不会跑",
+        "onboard_time": 1759839865,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102452,
+        "num": 102452,
+        "word": "谢霆锋到底吃了多少保鲜膜",
+        "onboard_time": 1759836801,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100339,
+        "num": 100339,
+        "word": "长尾效应最强的国产剧是哪部",
+        "onboard_time": 1759837942,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99729,
+        "num": 99729,
+        "word": "我甚至以为烧饼是纸壳做的",
+        "onboard_time": 1759840404,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95073,
+        "num": 95073,
+        "word": "中国游客 泡发的木耳",
+        "onboard_time": 1759823481,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90859,
+        "num": 90859,
+        "word": "孙颖莎王楚钦WTT香港总决赛",
+        "onboard_time": 1759828820,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89539,
+        "num": 89539,
+        "word": "女子2600元买猫被传染满脸猫藓",
+        "onboard_time": 1759827562,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84367,
+        "num": 84367,
+        "word": "陈哲远眼神戏",
+        "onboard_time": 1759841545,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#同心协力共襄伟业#"
+    }
+  }
+}

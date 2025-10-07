@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/10/07 19:37:30
+本榜单时间：2025/01/01 00:26:38 ~ 2025/10/07 20:52:50
 </p>
 </blockquote>
 <p>
@@ -515,6 +515,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%20%E5%A5%B3%E6%9C%8B%E5%8F%8B%23" target="weibo">
 黄景瑜 女朋友（热度：13463818）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A6%E8%88%AA%20%E6%92%9E%E4%BA%BA%23" target="weibo">
+左航 撞人（热度：13334858）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ ALin秒了（热度：6171972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E8%AF%81%E5%AE%9E%E5%A4%A7S%E6%9C%80%E7%BB%88%E6%AD%BB%E5%9B%A0%E6%98%AF%E8%B4%A5%E8%A1%80%E7%97%87%23" target="weibo">
 台媒证实大S最终死因是败血症（热度：4643138）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%A0%A9%E5%AE%81%20%E7%81%B0%E6%8C%87%E7%94%B2%23" target="weibo">
-田栩宁 灰指甲（热度：4633697）
 </a>
 </li>
 

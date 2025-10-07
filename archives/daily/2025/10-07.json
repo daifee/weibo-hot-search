@@ -1,7 +1,15 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759837050050,
+  "endTime": 1759841570463,
   "band_list": [
+    {
+      "raw_hot": 13334858,
+      "num": 13334858,
+      "word": "左航 撞人",
+      "onboard_time": 1759838601,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1399578,
       "num": 256329,
@@ -35,12 +43,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1104802,
+      "num": 179269,
+      "word": "左航头盔",
+      "onboard_time": 1759839324,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1096207,
       "num": 215478,
       "word": "李沁的人脉",
       "onboard_time": 1759809380,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1095889,
+      "num": 1175342,
+      "word": "迪奥设计师 工作累丑",
+      "onboard_time": 1759836082,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 1047453,
@@ -411,6 +435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 419813,
+      "num": 419813,
+      "word": "我始终认为用九键打字的人都是天才",
+      "onboard_time": 1759837342,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 413898,
       "num": 175753,
       "word": "赵今麦在国外美成啥了",
@@ -540,11 +572,19 @@
     },
     {
       "raw_hot": 307810,
-      "num": 176775,
+      "num": 178897,
       "word": "张艺兴演唱会",
       "onboard_time": 1759752565,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 293683,
+      "num": 172764,
+      "word": "时代少年团接触个代",
+      "onboard_time": 1759840404,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 290739,
@@ -636,7 +676,7 @@
     },
     {
       "raw_hot": 239413,
-      "num": 167340,
+      "num": 178839,
       "word": "女方悔婚退彩礼时要扣3万拥抱费",
       "onboard_time": 1759833081,
       "rank": 39,
@@ -707,12 +747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219912,
-      "num": 153901,
-      "word": "迪奥设计师 工作累丑",
-      "onboard_time": 1759836082,
-      "rank": 17,
-      "category": "时尚"
+      "raw_hot": 215784,
+      "num": 215784,
+      "word": "中方主提决议在联合国获通过",
+      "onboard_time": 1759836441,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 215280,
@@ -731,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212751,
+      "num": 212751,
+      "word": "鸡排哥回应嘴唇发紫发白",
+      "onboard_time": 1759840824,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207880,
       "num": 207880,
       "word": "刘宇宁直播",
@@ -745,6 +793,14 @@
       "onboard_time": 1759833321,
       "rank": 23,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 206873,
+      "num": 195811,
+      "word": "精简版ModelY售价",
+      "onboard_time": 1759835180,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 203975,
@@ -771,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198526,
+      "num": 198526,
+      "word": "苏超",
+      "onboard_time": 1759837282,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197812,
       "num": 186240,
       "word": "穆祉丞哭了",
@@ -785,14 +849,6 @@
       "onboard_time": 1759812981,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 195811,
-      "num": 195811,
-      "word": "精简版ModelY售价",
-      "onboard_time": 1759835180,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 195679,
@@ -883,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189758,
+      "num": 167854,
+      "word": "想发火的猴子发现是熟人后秒变脸",
+      "onboard_time": 1759841004,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 188599,
       "num": 188599,
       "word": "诺贝尔奖",
@@ -955,12 +1019,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180834,
+      "num": 180834,
+      "word": "00后利用办公室午休赚三份工资",
+      "onboard_time": 1759837881,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 179645,
       "num": 179645,
       "word": "谢娜一听到张杰名字就害羞了",
       "onboard_time": 1759817659,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 176937,
+      "num": 176937,
+      "word": "王一博刷爆个人纪录帅炸了",
+      "onboard_time": 1759839745,
+      "rank": 24,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 176651,
@@ -1003,6 +1083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 173913,
+      "num": 173913,
+      "word": "南京地铁回应鸡鸣寺暗讽事件",
+      "onboard_time": 1759840104,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173059,
       "num": 173059,
       "word": "戚薇李承铉带儿子回国",
@@ -1041,6 +1129,14 @@
       "onboard_time": 1759812022,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171536,
+      "num": 171536,
+      "word": "被2000多年前的中国基建震撼到",
+      "onboard_time": 1759836801,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171142,
@@ -1115,6 +1211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162372,
+      "num": 162372,
+      "word": "小黄豆曝随礼标准",
+      "onboard_time": 1759838541,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 162289,
       "num": 162289,
       "word": "谢娜曾让团队不要声张主持央视秋晚",
@@ -1184,6 +1288,14 @@
       "word": "樊振东回国备战全运会",
       "onboard_time": 1759813101,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154995,
+      "num": 177500,
+      "word": "苏超南通vs淮安淘汰赛",
+      "onboard_time": 1759840166,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -1289,6 +1401,14 @@
       "onboard_time": 1759815800,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138967,
+      "num": 138967,
+      "word": "同事称诺奖得主在徒步旅行联系不上",
+      "onboard_time": 1759836801,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 138626,
@@ -1403,28 +1523,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132396,
-      "num": 132396,
-      "word": "中方主提决议在联合国获通过",
-      "onboard_time": 1759836441,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 131905,
       "num": 131905,
       "word": "周深 你猜话筒为啥没声",
       "onboard_time": 1759826000,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 130222,
-      "num": 130222,
-      "word": "同事称诺奖得主在徒步旅行联系不上",
-      "onboard_time": 1759836801,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 129651,
@@ -1545,6 +1649,14 @@
       "onboard_time": 1759798699,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122475,
+      "num": 122475,
+      "word": "一诺不管在哪里我们未来见",
+      "onboard_time": 1759841004,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 122419,
@@ -1731,6 +1843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 111867,
+      "num": 111867,
+      "word": "别人向往生活偶遇明星我偶遇小O",
+      "onboard_time": 1759841063,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111854,
       "num": 111854,
       "word": "特朗普称环保少女太疯狂该去看病",
@@ -1843,14 +1963,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 109522,
-      "num": 109522,
-      "word": "被2000多年前的中国基建震撼到",
-      "onboard_time": 1759836801,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109276,
       "num": 109276,
       "word": "原来猫猫是知道自己在干坏事的",
@@ -1875,12 +1987,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106929,
+      "num": 106929,
+      "word": "周翊然赛车帅成啥样了",
+      "onboard_time": 1759838302,
+      "rank": 41,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 106692,
       "num": 106692,
       "word": "网红卡皮巴拉豆包结婚啦",
       "onboard_time": 1759835780,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106498,
+      "num": 106498,
+      "word": "泡泡鱼 老大不会跑",
+      "onboard_time": 1759839865,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 105981,
@@ -1939,8 +2067,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102402,
-      "num": 102402,
+      "raw_hot": 102452,
+      "num": 102452,
       "word": "谢霆锋到底吃了多少保鲜膜",
       "onboard_time": 1759836801,
       "rank": 41,
@@ -1971,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100339,
+      "num": 100339,
+      "word": "长尾效应最强的国产剧是哪部",
+      "onboard_time": 1759837942,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 99998,
       "num": 99998,
       "word": "锤娜丽莎 健康的爱不用委曲求全",
@@ -1985,6 +2121,14 @@
       "onboard_time": 1759767619,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99729,
+      "num": 99729,
+      "word": "我甚至以为烧饼是纸壳做的",
+      "onboard_time": 1759840404,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 99145,
@@ -2331,6 +2475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84367,
+      "num": 84367,
+      "word": "陈哲远眼神戏",
+      "onboard_time": 1759841545,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84277,
       "num": 145047,
       "word": "刘一菲cos灵儿",
@@ -2465,6 +2617,14 @@
       "onboard_time": 1759759704,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73885,
+      "num": 178191,
+      "word": "MiuMiu秀场叠搭公式",
+      "onboard_time": 1759838601,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 73721,
@@ -2649,6 +2809,14 @@
       "onboard_time": 1759769539,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 47856,
+      "num": 178479,
+      "word": "05年男子拒服兵役被罚8.64万",
+      "onboard_time": 1759841124,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46852,
