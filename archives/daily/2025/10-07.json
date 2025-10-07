@@ -1,6 +1,6 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759808330709,
+  "endTime": 1759808880329,
   "band_list": [
     {
       "raw_hot": 1399578,
@@ -11,7 +11,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1057563,
+      "raw_hot": 1111503,
       "num": 207610,
       "word": "刘涛女儿居然马上要读大学了",
       "onboard_time": 1759805060,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 682182,
+      "num": 206233,
+      "word": "战沁",
+      "onboard_time": 1759806799,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 661486,
       "num": 661486,
       "word": "医生说加沙医院惨状像屠宰场",
@@ -107,24 +115,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 516954,
-      "num": 206233,
-      "word": "战沁",
-      "onboard_time": 1759806799,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 502358,
-      "num": 186991,
+      "num": 196649,
       "word": "身体有炎症时少吃4种食物",
       "onboard_time": 1759797678,
       "rank": 20,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 474877,
-      "num": 474877,
+      "raw_hot": 482525,
+      "num": 482525,
       "word": "德国提议将退休年龄提高至73岁",
       "onboard_time": 1759802539,
       "rank": 22,
@@ -139,7 +139,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 440219,
+      "raw_hot": 447049,
       "num": 250323,
       "word": "黄磊处处被贴脸开大",
       "onboard_time": 1759804579,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 358500,
+      "num": 197803,
+      "word": "猴子被游客扇巴掌",
+      "onboard_time": 1759805659,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 353663,
       "num": 353663,
       "word": "日本预制拉面",
@@ -211,12 +219,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 351710,
-      "num": 186777,
-      "word": "猴子被游客扇巴掌",
-      "onboard_time": 1759805659,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 340969,
+      "num": 205117,
+      "word": "赵磊说和qko在一起十年了",
+      "onboard_time": 1759807941,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 338368,
@@ -243,6 +251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 305909,
+      "num": 305909,
+      "word": "鸡排哥10月9日休息",
+      "onboard_time": 1759807461,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282752,
       "num": 282752,
       "word": "旅游我有自己的出片方式",
@@ -265,6 +281,14 @@
       "onboard_time": 1759797800,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 264810,
+      "num": 200288,
+      "word": "应鹏去世",
+      "onboard_time": 1759808302,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 261666,
@@ -355,14 +379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 205117,
-      "num": 205117,
-      "word": "赵磊说和qko在一起十年了",
-      "onboard_time": 1759807941,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199353,
       "num": 170097,
       "word": "唐嫣美成啥了 欧豪也是个神",
@@ -427,14 +443,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 184221,
-      "num": 184221,
-      "word": "鸡排哥10月9日休息",
-      "onboard_time": 1759807461,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 182944,
       "num": 182944,
       "word": "假期还有最后2天",
@@ -451,12 +459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177265,
-      "num": 177265,
-      "word": "应鹏去世",
-      "onboard_time": 1759808302,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 176651,
+      "num": 176651,
+      "word": "吉克隽逸看完张艺兴发九宫格live图",
+      "onboard_time": 1759808240,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 176324,
@@ -465,6 +473,14 @@
       "onboard_time": 1759797678,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172881,
+      "num": 172881,
+      "word": "入青云",
+      "onboard_time": 1759807761,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 172792,
@@ -547,20 +563,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 141338,
-      "num": 141338,
-      "word": "入青云",
-      "onboard_time": 1759807761,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137417,
       "num": 137417,
       "word": "特朗普称美国本可轻松赢得越战",
       "onboard_time": 1759769718,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 137380,
+      "num": 137380,
+      "word": "13岁国乒小将有孙颖莎和樊振东的影子",
+      "onboard_time": 1759807761,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 135525,
@@ -643,12 +659,28 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 113018,
-      "num": 113018,
-      "word": "13岁国乒小将有孙颖莎和樊振东的影子",
-      "onboard_time": 1759807761,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 113004,
+      "num": 113004,
+      "word": "很快就能体会到七天有多长了",
+      "onboard_time": 1759808601,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 112999,
+      "num": 112999,
+      "word": "想带儿子旅游的交警永远失约了",
+      "onboard_time": 1759808419,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112617,
+      "num": 112617,
+      "word": "我在埃及给花少化妆",
+      "onboard_time": 1759808542,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 112440,
@@ -683,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110876,
+      "num": 110876,
+      "word": "上门做饭一天赚了800块",
+      "onboard_time": 1759808482,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110754,
       "num": 110754,
       "word": "8号我要陪许妍去离婚",
@@ -708,7 +748,7 @@
     },
     {
       "raw_hot": 108883,
-      "num": 108883,
+      "num": 110206,
       "word": "这是反诈版中秋赏月吧",
       "onboard_time": 1759807702,
       "rank": 37,
@@ -723,12 +763,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104159,
-      "num": 100322,
-      "word": "吉克隽逸看完张艺兴发九宫格live图",
-      "onboard_time": 1759808240,
-      "rank": 42,
-      "category": "演出"
+      "raw_hot": 105826,
+      "num": 105826,
+      "word": "有这样的领导你都回不了家",
+      "onboard_time": 1759808302,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 103256,
@@ -761,6 +801,14 @@
       "onboard_time": 1759768399,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 98476,
+      "num": 112681,
+      "word": "泰国黄金大劫案",
+      "onboard_time": 1759807821,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 98271,
@@ -803,16 +851,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95431,
-      "num": 106168,
-      "word": "泰国黄金大劫案",
-      "onboard_time": 1759807821,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 94511,
-      "num": 94511,
+      "raw_hot": 94619,
+      "num": 94619,
       "word": "南方多地将热到38摄氏度",
       "onboard_time": 1759806680,
       "rank": 47,
@@ -833,6 +873,14 @@
       "onboard_time": 1759795279,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93972,
+      "num": 93972,
+      "word": "王楚钦把名字留在了沙发上",
+      "onboard_time": 1759807520,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 93916,
@@ -865,14 +913,6 @@
       "onboard_time": 1759758744,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91153,
-      "num": 91153,
-      "word": "有这样的领导你都回不了家",
-      "onboard_time": 1759808302,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 87117,
@@ -1043,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50794,
+      "num": 508657,
+      "word": "拍完你的拍你的",
+      "onboard_time": 1759795398,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50020,
       "num": 72751,
       "word": "2025国庆档票房破15亿",
@@ -1153,14 +1201,6 @@
       "onboard_time": 1759773078,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29590,
-      "num": 508657,
-      "word": "拍完你的拍你的",
-      "onboard_time": 1759795398,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29150,

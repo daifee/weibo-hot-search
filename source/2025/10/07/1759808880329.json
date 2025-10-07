@@ -1,0 +1,410 @@
+{
+  "runTime": 1759808880329,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 929309,
+        "num": 1148689,
+        "word": "金价",
+        "onboard_time": 1759803860,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 501958,
+        "num": 501958,
+        "word": "景区回应仙女散的是假花",
+        "onboard_time": 1759800140,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50794,
+        "num": 491674,
+        "word": "拍完你的拍你的",
+        "onboard_time": 1759795398,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 482525,
+        "num": 482525,
+        "word": "德国提议将退休年龄提高至73岁",
+        "onboard_time": 1759802539,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 354891,
+        "num": 354891,
+        "word": "我国在固态锂电池领域取得突破",
+        "onboard_time": 1759800920,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339413,
+        "num": 339413,
+        "word": "每天喝茶vs每天喝咖啡",
+        "onboard_time": 1759802119,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305909,
+        "num": 305909,
+        "word": "鸡排哥10月9日休息",
+        "onboard_time": 1759807461,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226606,
+        "num": 226606,
+        "word": "医生说加沙医院惨状像屠宰场",
+        "onboard_time": 1759797439,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 217708,
+        "num": 217708,
+        "word": "王楚钦孙颖莎混双世排第3",
+        "onboard_time": 1759797800,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203798,
+        "num": 203798,
+        "word": "詹姆斯将宣布重大决策",
+        "onboard_time": 1759796178,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1111503,
+        "num": 203438,
+        "word": "刘涛女儿居然马上要读大学了",
+        "onboard_time": 1759805060,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 890437,
+        "num": 203081,
+        "word": "大家上班一定要打扮自己",
+        "onboard_time": 1759802060,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 682182,
+        "num": 202775,
+        "word": "战沁",
+        "onboard_time": 1759806799,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 515747,
+        "num": 202372,
+        "word": "台媒曝黄子佼肇事逃逸",
+        "onboard_time": 1759806081,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 678657,
+        "num": 202032,
+        "word": "肖战为李沁新剧宣传",
+        "onboard_time": 1759802900,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447049,
+        "num": 201631,
+        "word": "黄磊处处被贴脸开大",
+        "onboard_time": 1759804579,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360030,
+        "num": 201189,
+        "word": "鹿晗方将承担机票和酒店产生的损失",
+        "onboard_time": 1759759762,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 340969,
+        "num": 200722,
+        "word": "赵磊说和qko在一起十年了",
+        "onboard_time": 1759807941,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264810,
+        "num": 200288,
+        "word": "应鹏去世",
+        "onboard_time": 1759808302,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199954,
+        "num": 199954,
+        "word": "北京市民家中发现日军细菌战罪证",
+        "onboard_time": 1759794797,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358500,
+        "num": 197803,
+        "word": "猴子被游客扇巴掌",
+        "onboard_time": 1759805659,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213278,
+        "num": 196649,
+        "word": "身体有炎症时少吃4种食物",
+        "onboard_time": 1759797678,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193733,
+        "num": 193733,
+        "word": "素颜的刘浩存赵今麦李庚希",
+        "onboard_time": 1759764501,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176651,
+        "num": 176651,
+        "word": "吉克隽逸看完张艺兴发九宫格live图",
+        "onboard_time": 1759808240,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172881,
+        "num": 172881,
+        "word": "入青云",
+        "onboard_time": 1759807761,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158871,
+        "num": 158871,
+        "word": "金价涨涨涨疯了",
+        "onboard_time": 1759799000,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155262,
+        "num": 155262,
+        "word": "日本预制拉面",
+        "onboard_time": 1759801519,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151002,
+        "num": 151002,
+        "word": "刘轩丞G社生图",
+        "onboard_time": 1759802840,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144133,
+        "num": 144133,
+        "word": "谢娜曾让团队不要声张主持央视秋晚",
+        "onboard_time": 1759807161,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137380,
+        "num": 137380,
+        "word": "13岁国乒小将有孙颖莎和樊振东的影子",
+        "onboard_time": 1759807761,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136314,
+        "num": 136314,
+        "word": "一笑随歌",
+        "onboard_time": 1759803620,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134445,
+        "num": 134445,
+        "word": "张艺兴工作室生日长文",
+        "onboard_time": 1759805899,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132501,
+        "num": 132501,
+        "word": "全球第一网红回复詹姆斯",
+        "onboard_time": 1759803620,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130001,
+        "num": 130001,
+        "word": "国庆假期返程天气",
+        "onboard_time": 1759801759,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127256,
+        "num": 127256,
+        "word": "长着张海王脸结果被骗哭了",
+        "onboard_time": 1759805719,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123453,
+        "num": 123453,
+        "word": "假期还有最后2天",
+        "onboard_time": 1759798699,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113004,
+        "num": 113004,
+        "word": "很快就能体会到七天有多长了",
+        "onboard_time": 1759808601,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112999,
+        "num": 112999,
+        "word": "想带儿子旅游的交警永远失约了",
+        "onboard_time": 1759808419,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98476,
+        "num": 112681,
+        "word": "泰国黄金大劫案",
+        "onboard_time": 1759807821,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112617,
+        "num": 112617,
+        "word": "我在埃及给花少化妆",
+        "onboard_time": 1759808542,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110876,
+        "num": 110876,
+        "word": "上门做饭一天赚了800块",
+        "onboard_time": 1759808482,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 105909,
+        "num": 110206,
+        "word": "这是反诈版中秋赏月吧",
+        "onboard_time": 1759807702,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110046,
+        "num": 110046,
+        "word": "谢娜 央视主持",
+        "onboard_time": 1759753463,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109920,
+        "num": 109920,
+        "word": "男子回应五台山遇狐狸带路",
+        "onboard_time": 1759802960,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105826,
+        "num": 105826,
+        "word": "有这样的领导你都回不了家",
+        "onboard_time": 1759808302,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101817,
+        "num": 101817,
+        "word": "特朗普站在防弹玻璃后疯狂吹嘘",
+        "onboard_time": 1759803020,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94619,
+        "num": 94619,
+        "word": "南方多地将热到38摄氏度",
+        "onboard_time": 1759806680,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93972,
+        "num": 93972,
+        "word": "王楚钦把名字留在了沙发上",
+        "onboard_time": 1759807520,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91090,
+        "num": 91090,
+        "word": "王一博85号痛楼",
+        "onboard_time": 1759804760,
+        "rank": 48,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 89541,
+        "num": 89541,
+        "word": "请作者们不要再疯狂的描写外貌了",
+        "onboard_time": 1759807579,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
