@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 19:21:31
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 19:37:30
 </p>
 </blockquote>
 <p>
@@ -1431,6 +1431,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E7%BB%99%E5%BC%A0%E8%89%BA%E5%85%B4%E9%80%81%E8%8A%B1%E7%AF%AE%23" target="weibo">
+张碧晨给张艺兴送花篮（热度：606070）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E8%B4%BE%E4%B9%83%E4%BA%AE%E4%B9%B0%E9%87%91%E9%92%9E%23" target="weibo">
 偶遇贾乃亮买金钞（热度：605032）
 </a>
@@ -1673,6 +1679,12 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%88%B6%E8%A3%81%E4%BF%84%E7%BD%97%E6%96%AF%23" target="weibo">
 乌克兰制裁俄罗斯（热度：543094）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%A4%AA%E5%A7%A5%E5%B1%B1180%E6%96%A4%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%8D%A1%E7%9F%B3%E7%BC%9D%23" target="weibo">
+福建太姥山180斤游客被卡石缝（热度：542146）
 </a>
 </li>
 
@@ -2193,6 +2205,12 @@ K签证（热度：453444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%23" target="weibo">
+诺贝尔物理学奖（热度：447754）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2360%E5%B2%81%E8%80%81%E4%BA%BA%E7%A6%BB%E9%80%80%E4%BC%91%E4%BB%8523%E5%A4%A9%E8%B7%B3%E6%B0%B4%E6%95%91%E4%BA%BA%E6%BA%BA%E4%BA%A1%23" target="weibo">
 60岁老人离退休仅23天跳水救人溺亡（热度：447513）
 </a>
@@ -2267,12 +2285,6 @@ K签证（热度：453444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B9%98%E6%89%93%E7%A0%81%E6%8E%8C%E7%BA%B9%23" target="weibo">
 李湘打码掌纹（热度：440942）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%23" target="weibo">
-诺贝尔物理学奖（热度：439397）
 </a>
 </li>
 
@@ -2361,14 +2373,14 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%B8%80%E9%B8%A3%E6%9B%9D%E9%97%AA%E9%97%AA%E8%A6%81%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
-黄一鸣曝闪闪要回来了（热度：426707）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9B%9E%E5%9B%BD%23" target="weibo">
+迪丽热巴回国（热度：427342）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9B%9E%E5%9B%BD%23" target="weibo">
-迪丽热巴回国（热度：426474）
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%B8%80%E9%B8%A3%E6%9B%9D%E9%97%AA%E9%97%AA%E8%A6%81%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
+黄一鸣曝闪闪要回来了（热度：426707）
 </a>
 </li>
 
@@ -2787,12 +2799,6 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E5%A4%AA%E5%A7%A5%E5%B1%B1180%E6%96%A4%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%8D%A1%E7%9F%B3%E7%BC%9D%23" target="weibo">
-福建太姥山180斤游客被卡石缝（热度：366158）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E5%BC%80%E6%92%95%E6%9F%A5%E7%90%86%23" target="weibo">
 霉霉开撕查理（热度：365767）
 </a>
@@ -3155,12 +3161,6 @@ WTT（热度：332672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E7%A7%B0%E5%A9%9A%E7%A4%BC%E8%B7%B3%E6%B2%B3%E4%BA%8B%E4%BB%B6%E4%B8%8E%E5%BD%A9%E7%A4%BC%E6%97%A0%E5%85%B3%23" target="weibo">
 官方称婚礼跳河事件与彩礼无关（热度：321866）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E7%BB%99%E5%BC%A0%E8%89%BA%E5%85%B4%E9%80%81%E8%8A%B1%E7%AF%AE%23" target="weibo">
-张碧晨给张艺兴送花篮（热度：321781）
 </a>
 </li>
 
@@ -4239,6 +4239,12 @@ hi6收视率排名第一（热度：245066）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%96%B9%E6%82%94%E5%A9%9A%E9%80%80%E5%BD%A9%E7%A4%BC%E6%97%B6%E8%A6%81%E6%89%A33%E4%B8%87%E6%8B%A5%E6%8A%B1%E8%B4%B9%23" target="weibo">
+女方悔婚退彩礼时要扣3万拥抱费（热度：239413）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E5%88%BA%E5%88%80%E6%98%AF%E5%BC%80%E4%BA%86%E5%88%83%E7%9A%84%23" target="weibo">
 九三阅兵刺刀是开了刃的（热度：239260）
 </a>
@@ -4613,6 +4619,12 @@ celine大秀（热度：222882）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E6%9C%80%E5%A4%A7%E5%8F%97%E7%9B%8A%E8%80%85%20%E6%AD%A3%E6%96%B0%E9%B8%A1%E6%8E%92%23" target="weibo">
 鸡排哥最大受益者 正新鸡排（热度：220205）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A5%A5%E8%AE%BE%E8%AE%A1%E5%B8%88%20%E5%B7%A5%E4%BD%9C%E7%B4%AF%E4%B8%91%23" target="weibo">
+迪奥设计师 工作累丑（热度：219912）
 </a>
 </li>
 
@@ -5337,6 +5349,12 @@ AG战胜RW（热度：199437）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%B2%BE%E7%AE%80%E7%89%88ModelY%E5%94%AE%E4%BB%B7%23" target="weibo">
+精简版ModelY售价（热度：195811）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%A5%BC%23" target="weibo">
 月饼（热度：195707）
 </a>
@@ -5993,24 +6011,6 @@ AG对战JDG（热度：181803）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E7%8E%8B%E5%BD%A6%E9%9C%96%E7%8E%B0%E5%9C%BA%E4%B8%BA%E9%99%88%E7%AB%8B%E5%86%9C%E5%BA%86%E7%94%9F%23" target="weibo">
 胡先煦王彦霖现场为陈立农庆生（热度：180081）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%A4%9C%E6%83%B3%E5%8F%98%E6%88%90%E8%B4%B5%E5%B7%9E%E4%BA%BA%23" target="weibo">
-深夜想变成贵州人（热度：180067）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%99%B4%E5%8F%88%E6%9C%89%E6%96%B0%E5%89%A7%E4%BA%86%23" target="weibo">
-赵晴又有新剧了（热度：179675）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E4%B8%80%E5%90%AC%E5%88%B0%E5%BC%A0%E6%9D%B0%E5%90%8D%E5%AD%97%E5%B0%B1%E5%AE%B3%E7%BE%9E%E4%BA%86%23" target="weibo">
-谢娜一听到张杰名字就害羞了（热度：179645）
 </a>
 </li>
 

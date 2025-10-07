@@ -1,6 +1,6 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759836091892,
+  "endTime": 1759837050050,
   "band_list": [
     {
       "raw_hot": 1399578,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 606070,
+      "num": 208110,
+      "word": "张碧晨给张艺兴送花篮",
+      "onboard_time": 1759835780,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 600522,
       "num": 209903,
       "word": "明星接受采访不要穿橙色",
@@ -241,6 +249,14 @@
       "onboard_time": 1759823481,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 542146,
+      "num": 542146,
+      "word": "福建太姥山180斤游客被卡石缝",
+      "onboard_time": 1759833620,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 533884,
@@ -315,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 447754,
+      "num": 213924,
+      "word": "诺贝尔物理学奖",
+      "onboard_time": 1759831821,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 447049,
       "num": 250323,
       "word": "黄磊处处被贴脸开大",
@@ -337,14 +361,6 @@
       "onboard_time": 1759823422,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 439397,
-      "num": 213924,
-      "word": "诺贝尔物理学奖",
-      "onboard_time": 1759831821,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 437330,
@@ -371,7 +387,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 426474,
+      "raw_hot": 427342,
       "num": 211986,
       "word": "迪丽热巴回国",
       "onboard_time": 1759833861,
@@ -443,14 +459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 366158,
-      "num": 366158,
-      "word": "福建太姥山180斤游客被卡石缝",
-      "onboard_time": 1759833620,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 353663,
       "num": 353663,
       "word": "日本预制拉面",
@@ -496,14 +504,6 @@
       "word": "张艺兴演唱会 极限男人帮",
       "onboard_time": 1759827441,
       "rank": 18,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 321781,
-      "num": 208110,
-      "word": "张碧晨给张艺兴送花篮",
-      "onboard_time": 1759835780,
-      "rank": 17,
       "category": "演出"
     },
     {
@@ -635,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239413,
+      "num": 167340,
+      "word": "女方悔婚退彩礼时要扣3万拥抱费",
+      "onboard_time": 1759833081,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234022,
       "num": 234022,
       "word": "北汽集团辟谣",
@@ -697,6 +705,14 @@
       "onboard_time": 1759762402,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219912,
+      "num": 153901,
+      "word": "迪奥设计师 工作累丑",
+      "onboard_time": 1759836082,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 215280,
@@ -769,6 +785,14 @@
       "onboard_time": 1759812981,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195811,
+      "num": 195811,
+      "word": "精简版ModelY售价",
+      "onboard_time": 1759835180,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 195679,
@@ -955,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175254,
+      "num": 151367,
+      "word": "100岁弟弟过生日103岁哥哥来了",
+      "onboard_time": 1759834880,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174868,
       "num": 174868,
       "word": "这些症状或是身体已出现慢性炎症",
@@ -1057,14 +1089,6 @@
       "onboard_time": 1759792876,
       "rank": 46,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 167340,
-      "num": 167340,
-      "word": "女方悔婚退彩礼时要扣3万拥抱费",
-      "onboard_time": 1759833081,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163742,
@@ -1211,22 +1235,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 144382,
-      "num": 144382,
-      "word": "100岁弟弟过生日103岁哥哥来了",
-      "onboard_time": 1759834880,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143832,
-      "num": 143832,
-      "word": "精简版ModelY售价",
-      "onboard_time": 1759835180,
-      "rank": 29,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 143620,
       "num": 127204,
       "word": "2025WTT总决赛最新资格名单",
@@ -1241,6 +1249,14 @@
       "onboard_time": 1759801699,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 140529,
+      "num": 155808,
+      "word": "诺贝尔物理学奖为什么颁给他们仨",
+      "onboard_time": 1759836801,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 140250,
@@ -1371,6 +1387,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 133553,
+      "num": 133553,
+      "word": "银河左岸音乐节",
+      "onboard_time": 1759836200,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132668,
       "num": 132668,
       "word": "王楚钦10900分世排第一",
@@ -1379,12 +1403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132396,
+      "num": 132396,
+      "word": "中方主提决议在联合国获通过",
+      "onboard_time": 1759836441,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 131905,
       "num": 131905,
       "word": "周深 你猜话筒为啥没声",
       "onboard_time": 1759826000,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 130222,
+      "num": 130222,
+      "word": "同事称诺奖得主在徒步旅行联系不上",
+      "onboard_time": 1759836801,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129651,
@@ -1579,6 +1619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 116907,
+      "num": 219017,
+      "word": "黄牛推倒栏杆带人逃票音乐节",
+      "onboard_time": 1759834461,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116269,
       "num": 116269,
       "word": "王一博85号痛楼",
@@ -1625,14 +1673,6 @@
       "onboard_time": 1759818981,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 113391,
-      "num": 219017,
-      "word": "黄牛推倒栏杆带人逃票音乐节",
-      "onboard_time": 1759834461,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112999,
@@ -1803,6 +1843,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 109522,
+      "num": 109522,
+      "word": "被2000多年前的中国基建震撼到",
+      "onboard_time": 1759836801,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109276,
       "num": 109276,
       "word": "原来猫猫是知道自己在干坏事的",
@@ -1816,6 +1864,22 @@
       "word": "这是反诈版中秋赏月吧",
       "onboard_time": 1759807702,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107648,
+      "num": 107648,
+      "word": "92岁爷爷给我和妹妹铺的床",
+      "onboard_time": 1759836681,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 106692,
+      "num": 106692,
+      "word": "网红卡皮巴拉豆包结婚啦",
+      "onboard_time": 1759835780,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1873,6 +1937,14 @@
       "onboard_time": 1759820901,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102402,
+      "num": 102402,
+      "word": "谢霆锋到底吃了多少保鲜膜",
+      "onboard_time": 1759836801,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 101603,
@@ -1961,6 +2033,14 @@
       "onboard_time": 1759809920,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97995,
+      "num": 102755,
+      "word": "香奈儿新创意总监首秀",
+      "onboard_time": 1759836621,
+      "rank": 40,
+      "category": "时尚"
     },
     {
       "raw_hot": 97914,
@@ -2179,14 +2259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90424,
-      "num": 90424,
-      "word": "网红卡皮巴拉豆包结婚啦",
-      "onboard_time": 1759835780,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90068,
       "num": 90068,
       "word": "张帅2比1纳瓦罗",
@@ -2211,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87243,
+      "num": 87243,
+      "word": "林孝埈出镜世巡赛宣传片",
+      "onboard_time": 1759836200,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87117,
       "num": 87117,
       "word": "费玉清经纪人严正声明",
@@ -2233,6 +2313,14 @@
       "onboard_time": 1759821861,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85751,
+      "num": 85751,
+      "word": "曾舜晞音乐节",
+      "onboard_time": 1759836981,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 85540,
@@ -2467,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64487,
+      "num": 206548,
+      "word": "香奈儿巴黎时装周压轴大秀",
+      "onboard_time": 1759832361,
+      "rank": 18,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 62975,
       "num": 172948,
       "word": "珠峰徒步高端团人均费用约10000元",
@@ -2537,14 +2633,6 @@
       "onboard_time": 1759770080,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53636,
-      "num": 206548,
-      "word": "香奈儿巴黎时装周压轴大秀",
-      "onboard_time": 1759832361,
-      "rank": 18,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 51144,

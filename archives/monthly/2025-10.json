@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759836091892,
+  "endTime": 1759837050050,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -1891,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 606070,
+      "num": 208110,
+      "word": "张碧晨给张艺兴送花篮",
+      "onboard_time": 1759835780,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 605032,
       "num": 203177,
       "word": "偶遇贾乃亮买金钞",
@@ -2217,6 +2225,14 @@
       "onboard_time": 1759625538,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 542146,
+      "num": 542146,
+      "word": "福建太姥山180斤游客被卡石缝",
+      "onboard_time": 1759833620,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 540779,
@@ -2907,6 +2923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 447754,
+      "num": 213924,
+      "word": "诺贝尔物理学奖",
+      "onboard_time": 1759831821,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 447513,
       "num": 447513,
       "word": "60岁老人离退休仅23天跳水救人溺亡",
@@ -3009,14 +3033,6 @@
       "onboard_time": 1759572920,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 439397,
-      "num": 213924,
-      "word": "诺贝尔物理学奖",
-      "onboard_time": 1759831821,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 438654,
@@ -3131,19 +3147,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427342,
+      "num": 211986,
+      "word": "迪丽热巴回国",
+      "onboard_time": 1759833861,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426707,
       "num": 191551,
       "word": "黄一鸣曝闪闪要回来了",
       "onboard_time": 1759641322,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 426474,
-      "num": 211986,
-      "word": "迪丽热巴回国",
-      "onboard_time": 1759833861,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -3699,14 +3715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 366158,
-      "num": 366158,
-      "word": "福建太姥山180斤游客被卡石缝",
-      "onboard_time": 1759833620,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 365767,
       "num": 202330,
       "word": "霉霉开撕查理",
@@ -4193,14 +4201,6 @@
       "onboard_time": 1759569920,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 321781,
-      "num": 208110,
-      "word": "张碧晨给张艺兴送花篮",
-      "onboard_time": 1759835780,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 321490,
@@ -5635,6 +5635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 239413,
+      "num": 167340,
+      "word": "女方悔婚退彩礼时要扣3万拥抱费",
+      "onboard_time": 1759833081,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239260,
       "num": 239260,
       "word": "九三阅兵刺刀是开了刃的",
@@ -6137,6 +6145,14 @@
       "onboard_time": 1759389442,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219912,
+      "num": 153901,
+      "word": "迪奥设计师 工作累丑",
+      "onboard_time": 1759836082,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 219869,
@@ -7097,6 +7113,14 @@
       "onboard_time": 1759812981,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195811,
+      "num": 195811,
+      "word": "精简版ModelY售价",
+      "onboard_time": 1759835180,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 195707,
@@ -8211,6 +8235,14 @@
       "category": "旅游,民生新闻"
     },
     {
+      "raw_hot": 175254,
+      "num": 151367,
+      "word": "100岁弟弟过生日103岁哥哥来了",
+      "onboard_time": 1759834880,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175240,
       "num": 175240,
       "word": "张远单身的原因找到了",
@@ -8737,14 +8769,6 @@
       "onboard_time": 1759484961,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 167340,
-      "num": 167340,
-      "word": "女方悔婚退彩礼时要扣3万拥抱费",
-      "onboard_time": 1759833081,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166993,
@@ -10291,14 +10315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144382,
-      "num": 144382,
-      "word": "100岁弟弟过生日103岁哥哥来了",
-      "onboard_time": 1759834880,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144215,
       "num": 144215,
       "word": "高会",
@@ -10329,14 +10345,6 @@
       "onboard_time": 1759559001,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143832,
-      "num": 143832,
-      "word": "精简版ModelY售价",
-      "onboard_time": 1759835180,
-      "rank": 29,
-      "category": "汽车"
     },
     {
       "raw_hot": 143648,
@@ -10617,6 +10625,14 @@
       "onboard_time": 1759464079,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 140529,
+      "num": 155808,
+      "word": "诺贝尔物理学奖为什么颁给他们仨",
+      "onboard_time": 1759836801,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 140473,
@@ -11387,6 +11403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133553,
+      "num": 133553,
+      "word": "银河左岸音乐节",
+      "onboard_time": 1759836200,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133509,
       "num": 131381,
       "word": "第五人格医生",
@@ -11489,6 +11513,14 @@
       "onboard_time": 1759795699,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132396,
+      "num": 132396,
+      "word": "中方主提决议在联合国获通过",
+      "onboard_time": 1759836441,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 132381,
@@ -11697,6 +11729,14 @@
       "onboard_time": 1759479980,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130222,
+      "num": 130222,
+      "word": "同事称诺奖得主在徒步旅行联系不上",
+      "onboard_time": 1759836801,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 130156,
@@ -13179,6 +13219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 116907,
+      "num": 219017,
+      "word": "黄牛推倒栏杆带人逃票音乐节",
+      "onboard_time": 1759834461,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116895,
       "num": 116895,
       "word": "震耳欲聋今日上映",
@@ -13721,14 +13769,6 @@
       "onboard_time": 1759633880,
       "rank": 46,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 113391,
-      "num": 219017,
-      "word": "黄牛推倒栏杆带人逃票音乐节",
-      "onboard_time": 1759834461,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113386,
@@ -14491,6 +14531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109522,
+      "num": 109522,
+      "word": "被2000多年前的中国基建震撼到",
+      "onboard_time": 1759836801,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109510,
       "num": 109510,
       "word": "张雨绮素颜主打一个真实",
@@ -14787,6 +14835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107648,
+      "num": 107648,
+      "word": "92岁爷爷给我和妹妹铺的床",
+      "onboard_time": 1759836681,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107527,
       "num": 107527,
       "word": "成毅落魄太子造型",
@@ -14977,6 +15033,14 @@
       "onboard_time": 1759481000,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106692,
+      "num": 106692,
+      "word": "网红卡皮巴拉豆包结婚啦",
+      "onboard_time": 1759835780,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106663,
@@ -15761,6 +15825,14 @@
       "onboard_time": 1759724121,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102402,
+      "num": 102402,
+      "word": "谢霆锋到底吃了多少保鲜膜",
+      "onboard_time": 1759836801,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 102314,
@@ -16553,6 +16625,14 @@
       "onboard_time": 1759745182,
       "rank": 45,
       "category": "海外新闻,科学科普"
+    },
+    {
+      "raw_hot": 97995,
+      "num": 102755,
+      "word": "香奈儿新创意总监首秀",
+      "onboard_time": 1759836621,
+      "rank": 40,
+      "category": "时尚"
     },
     {
       "raw_hot": 97987,
@@ -17739,14 +17819,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 90424,
-      "num": 90424,
-      "word": "网红卡皮巴拉豆包结婚啦",
-      "onboard_time": 1759835780,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90423,
       "num": 90423,
       "word": "小酒窝被夸可爱后原地跳舞",
@@ -18211,6 +18283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87243,
+      "num": 87243,
+      "word": "林孝埈出镜世巡赛宣传片",
+      "onboard_time": 1759836200,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87204,
       "num": 87204,
       "word": "小狗渡海只为干架",
@@ -18409,6 +18489,14 @@
       "onboard_time": 1759739181,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85751,
+      "num": 85751,
+      "word": "曾舜晞音乐节",
+      "onboard_time": 1759836981,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 85705,
@@ -20403,6 +20491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64487,
+      "num": 206548,
+      "word": "香奈儿巴黎时装周压轴大秀",
+      "onboard_time": 1759832361,
+      "rank": 18,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 64431,
       "num": 895006,
       "word": "网络中国节",
@@ -21017,14 +21113,6 @@
       "onboard_time": 1759274538,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 53636,
-      "num": 206548,
-      "word": "香奈儿巴黎时装周压轴大秀",
-      "onboard_time": 1759832361,
-      "rank": 18,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 53544,
