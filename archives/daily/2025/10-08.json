@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759869640749,
+  "endTime": 1759872127255,
   "band_list": [
     {
       "raw_hot": 1099261,
@@ -491,12 +491,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 17451,
-      "num": 26185,
+      "raw_hot": 20261,
+      "num": 28176,
       "word": "终于知道为啥我P图放大贴纸了",
       "onboard_time": 1759867155,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 16959,
+      "num": 28185,
+      "word": "我不想听到8这个字",
+      "onboard_time": 1759866494,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 16695,
@@ -505,14 +513,6 @@
       "onboard_time": 1759822521,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16382,
-      "num": 26219,
-      "word": "我不想听到8这个字",
-      "onboard_time": 1759866494,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 16339,
@@ -524,11 +524,19 @@
     },
     {
       "raw_hot": 15715,
-      "num": 19433,
+      "num": 28022,
       "word": "假期返程警惕机票退改签陷阱",
       "onboard_time": 1759868954,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15635,
+      "num": 28111,
+      "word": "中国央行连续第11个月增持黄金",
+      "onboard_time": 1759869074,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 14270,
@@ -537,14 +545,6 @@
       "onboard_time": 1759864814,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 12326,
-      "num": 19405,
-      "word": "中国央行连续第11个月增持黄金",
-      "onboard_time": 1759869074,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 11437,
