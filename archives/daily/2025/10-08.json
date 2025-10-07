@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759862212694,
+  "endTime": 1759862965493,
   "band_list": [
     {
       "raw_hot": 1099261,
@@ -481,6 +481,14 @@
       "onboard_time": 1759861995,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16223,
+      "num": 39390,
+      "word": "高速免费至10月8日24时",
+      "onboard_time": 1759862595,
+      "rank": 46,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
