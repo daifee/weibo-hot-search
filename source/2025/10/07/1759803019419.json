@@ -1,0 +1,410 @@
+{
+  "runTime": 1759803019419,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 976079,
+        "num": 1156172,
+        "word": "景区回应仙女散的是假花",
+        "onboard_time": 1759800140,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 855394,
+        "num": 855394,
+        "word": "北京市民家中发现日军细菌战罪证",
+        "onboard_time": 1759794797,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9889,
+        "num": 671952,
+        "word": "圆圆圆圆中秋圆圆圆圆",
+        "onboard_time": 1759713799,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 565989,
+        "num": 565989,
+        "word": "医生说加沙医院惨状像屠宰场",
+        "onboard_time": 1759797439,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 464187,
+        "num": 464187,
+        "word": "我国在固态锂电池领域取得突破",
+        "onboard_time": 1759800920,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 377331,
+        "num": 377331,
+        "word": "詹姆斯将宣布重大决策",
+        "onboard_time": 1759796178,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237587,
+        "num": 237587,
+        "word": "店家回应炒蛏子和螃蟹两个菜661元",
+        "onboard_time": 1759793298,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234022,
+        "num": 234022,
+        "word": "北汽集团辟谣",
+        "onboard_time": 1759799059,
+        "rank": 7,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 191847,
+        "num": 191847,
+        "word": "国庆假期返程天气",
+        "onboard_time": 1759801759,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182218,
+        "num": 182218,
+        "word": "旅游我有自己的出片方式",
+        "onboard_time": 1759799419,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 782892,
+        "num": 181398,
+        "word": "鹿晗方将承担机票和酒店产生的损失",
+        "onboard_time": 1759759762,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 514902,
+        "num": 180489,
+        "word": "素颜的刘浩存赵今麦李庚希",
+        "onboard_time": 1759764501,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414477,
+        "num": 180097,
+        "word": "张杰看着屏幕上发光的谢娜",
+        "onboard_time": 1759794198,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 370706,
+        "num": 178743,
+        "word": "大家上班一定要打扮自己",
+        "onboard_time": 1759802060,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261666,
+        "num": 177774,
+        "word": "香奈儿大秀",
+        "onboard_time": 1759798940,
+        "rank": 14,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 177528,
+        "num": 177528,
+        "word": "假期还有最后2天",
+        "onboard_time": 1759798699,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209225,
+        "num": 176143,
+        "word": "日本预制拉面",
+        "onboard_time": 1759801519,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 254943,
+        "num": 175981,
+        "word": "谢娜 央视主持",
+        "onboard_time": 1759753463,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172760,
+        "num": 172760,
+        "word": "雨衣上的帽子究竟是谁设计的",
+        "onboard_time": 1759794739,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169875,
+        "num": 169875,
+        "word": "挪威2万人口小岛因中国游客堵车",
+        "onboard_time": 1759756703,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470729,
+        "num": 169790,
+        "word": "身体有炎症时少吃4种食物",
+        "onboard_time": 1759797678,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 338368,
+        "num": 169594,
+        "word": "金价涨涨涨疯了",
+        "onboard_time": 1759799000,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176627,
+        "num": 169325,
+        "word": "德国提议将退休年龄提高至73岁",
+        "onboard_time": 1759802539,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172448,
+        "num": 169286,
+        "word": "37岁交警在执法现场被撞牺牲",
+        "onboard_time": 1759797678,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171706,
+        "num": 169019,
+        "word": "王楚钦孙颖莎混双世排第3",
+        "onboard_time": 1759797800,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168923,
+        "num": 168923,
+        "word": "刘轩丞G社生图",
+        "onboard_time": 1759802840,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165879,
+        "num": 165879,
+        "word": "赵今麦在国外美成啥了",
+        "onboard_time": 1759761024,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164136,
+        "num": 164136,
+        "word": "今年已有多名艺人在景区再就业",
+        "onboard_time": 1759792876,
+        "rank": 27,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 149154,
+        "num": 149154,
+        "word": "闫妮端庄到不像她",
+        "onboard_time": 1759785195,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146012,
+        "num": 146012,
+        "word": "普通人素颜出门怎么变好看",
+        "onboard_time": 1759801579,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136961,
+        "num": 136961,
+        "word": "以色列呼吁不要相信假新闻",
+        "onboard_time": 1759768459,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122854,
+        "num": 122854,
+        "word": "肖战为李沁新剧宣传",
+        "onboard_time": 1759802900,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122495,
+        "num": 122495,
+        "word": "中学通报学生从家长身上踩过",
+        "onboard_time": 1759798699,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115795,
+        "num": 115795,
+        "word": "王楚钦10900分世排第一",
+        "onboard_time": 1759795699,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112545,
+        "num": 112545,
+        "word": "每天喝茶vs每天喝咖啡",
+        "onboard_time": 1759802119,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110712,
+        "num": 110712,
+        "word": "北方人解决了中秋节不能吃饺子的难题",
+        "onboard_time": 1759801699,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109992,
+        "num": 109992,
+        "word": "柚子是一种很善良的水果",
+        "onboard_time": 1759797199,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 102585,
+        "num": 102585,
+        "word": "赵奕欢头发上插两把化妆刷就上台了",
+        "onboard_time": 1759802779,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102333,
+        "num": 102333,
+        "word": "8号我要陪许妍去离婚",
+        "onboard_time": 1759792817,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96620,
+        "num": 96620,
+        "word": "特朗普对进口中重型卡车征25%关税",
+        "onboard_time": 1759801279,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94935,
+        "num": 94935,
+        "word": "石凯回复",
+        "onboard_time": 1759764143,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93666,
+        "num": 93666,
+        "word": "小孩疯狂投喂给小羊撑emo了",
+        "onboard_time": 1759795638,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93486,
+        "num": 93486,
+        "word": "丁程鑫去看了张艺兴演唱会",
+        "onboard_time": 1759792876,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93079,
+        "num": 93079,
+        "word": "专家分析网友称被困遇狐狸引路",
+        "onboard_time": 1759800981,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92572,
+        "num": 92572,
+        "word": "女子被假冒费玉清骗走上千万",
+        "onboard_time": 1759792096,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30321,
+        "num": 92386,
+        "word": "央视中秋晚会 德阳",
+        "onboard_time": 1759773078,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92345,
+        "num": 92345,
+        "word": "王源 马尔代夫",
+        "onboard_time": 1759760123,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91840,
+        "num": 91840,
+        "word": "央视中秋晚会",
+        "onboard_time": 1759751482,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91274,
+        "num": 91274,
+        "word": "男子回应五台山遇狐狸带路",
+        "onboard_time": 1759802960,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89841,
+        "num": 89841,
+        "word": "刘宇宁直播讲踢馆失败的事",
+        "onboard_time": 1759795279,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中秋佳节聆听总书记的温暖话语#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759801744091,
+  "endTime": 1759803019419,
   "band_list": [
     {
       "raw_hot": 1047453,
@@ -8,6 +8,14 @@
       "word": "鸡鸣寺",
       "onboard_time": 1759766000,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 976079,
+      "num": 1156172,
+      "word": "景区回应仙女散的是假花",
+      "onboard_time": 1759800140,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -60,11 +68,19 @@
     },
     {
       "raw_hot": 502358,
-      "num": 168519,
+      "num": 169790,
       "word": "身体有炎症时少吃4种食物",
       "onboard_time": 1759797678,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 464187,
+      "num": 464187,
+      "word": "我国在固态锂电池领域取得突破",
+      "onboard_time": 1759800920,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 437330,
@@ -107,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 370706,
+      "num": 178743,
+      "word": "大家上班一定要打扮自己",
+      "onboard_time": 1759802060,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 369993,
       "num": 869198,
       "word": "挪威2万人口小岛因中国游客堵车",
@@ -115,12 +139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 336361,
-      "num": 336361,
-      "word": "景区回应仙女散的是假花",
-      "onboard_time": 1759800140,
-      "rank": 4,
-      "category": "民生新闻"
+      "raw_hot": 338368,
+      "num": 169594,
+      "word": "金价涨涨涨疯了",
+      "onboard_time": 1759799000,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 318525,
@@ -139,14 +163,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 290046,
-      "num": 168243,
-      "word": "金价涨涨涨疯了",
-      "onboard_time": 1759799000,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 282752,
       "num": 282752,
       "word": "旅游我有自己的出片方式",
@@ -161,6 +177,14 @@
       "onboard_time": 1759793298,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261666,
+      "num": 193338,
+      "word": "香奈儿大秀",
+      "onboard_time": 1759798940,
+      "rank": 13,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 244762,
@@ -185,6 +209,14 @@
       "onboard_time": 1759743260,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234022,
+      "num": 234022,
+      "word": "北汽集团辟谣",
+      "onboard_time": 1759799059,
+      "rank": 8,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 233434,
@@ -219,14 +251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 217235,
-      "num": 193338,
-      "word": "香奈儿大秀",
-      "onboard_time": 1759798940,
-      "rank": 13,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 213139,
       "num": 213139,
       "word": "雨衣上的帽子究竟是谁设计的",
@@ -235,12 +259,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 211952,
-      "num": 211952,
-      "word": "北汽集团辟谣",
-      "onboard_time": 1759799059,
-      "rank": 8,
-      "category": "民生新闻,汽车"
+      "raw_hot": 209225,
+      "num": 176143,
+      "word": "日本预制拉面",
+      "onboard_time": 1759801519,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 199353,
@@ -267,6 +291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191847,
+      "num": 191847,
+      "word": "国庆假期返程天气",
+      "onboard_time": 1759801759,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191839,
       "num": 458055,
       "word": "景区称捡板栗壳冲突事件已处理完毕",
@@ -284,7 +316,7 @@
     },
     {
       "raw_hot": 184523,
-      "num": 167888,
+      "num": 169019,
       "word": "王楚钦孙颖莎混双世排第3",
       "onboard_time": 1759797800,
       "rank": 22,
@@ -299,20 +331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176627,
+      "num": 169325,
+      "word": "德国提议将退休年龄提高至73岁",
+      "onboard_time": 1759802539,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 176324,
-      "num": 167675,
+      "num": 169286,
       "word": "37岁交警在执法现场被撞牺牲",
       "onboard_time": 1759797678,
       "rank": 23,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168726,
-      "num": 168726,
-      "word": "我国在固态锂电池领域取得突破",
-      "onboard_time": 1759800920,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 168923,
+      "num": 168923,
+      "word": "刘轩丞G社生图",
+      "onboard_time": 1759802840,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167454,
@@ -347,20 +387,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146012,
+      "num": 146012,
+      "word": "普通人素颜出门怎么变好看",
+      "onboard_time": 1759801579,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141915,
       "num": 141915,
       "word": "北方人解决了中秋节不能吃饺子的难题",
       "onboard_time": 1759801699,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 141868,
-      "num": 112173,
-      "word": "日本预制拉面",
-      "onboard_time": 1759801519,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 137417,
@@ -403,6 +443,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122854,
+      "num": 122854,
+      "word": "肖战为李沁新剧宣传",
+      "onboard_time": 1759802900,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122495,
+      "num": 122495,
+      "word": "中学通报学生从家长身上踩过",
+      "onboard_time": 1759798699,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120369,
       "num": 145530,
       "word": "侯佩岑主持央视秋晚",
@@ -425,6 +481,14 @@
       "onboard_time": 1759756463,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112545,
+      "num": 112545,
+      "word": "每天喝茶vs每天喝咖啡",
+      "onboard_time": 1759802119,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 112440,
@@ -457,6 +521,14 @@
       "onboard_time": 1759761383,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102585,
+      "num": 102585,
+      "word": "赵奕欢头发上插两把化妆刷就上台了",
+      "onboard_time": 1759802779,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 99837,
@@ -499,16 +571,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 97012,
-      "num": 97012,
-      "word": "中学通报学生从家长身上踩过",
-      "onboard_time": 1759798699,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96366,
-      "num": 96366,
+      "raw_hot": 96620,
+      "num": 96620,
       "word": "特朗普对进口中重型卡车征25%关税",
       "onboard_time": 1759801279,
       "rank": 35,
@@ -539,6 +603,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93486,
+      "num": 93486,
+      "word": "丁程鑫去看了张艺兴演唱会",
+      "onboard_time": 1759792876,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 93079,
+      "num": 93079,
+      "word": "专家分析网友称被困遇狐狸引路",
+      "onboard_time": 1759800981,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91564,
       "num": 91564,
       "word": "王楚钦你扣子扣岔了",
@@ -547,12 +627,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90884,
-      "num": 90884,
-      "word": "丁程鑫去看了张艺兴演唱会",
-      "onboard_time": 1759792876,
-      "rank": 38,
-      "category": "演出"
+      "raw_hot": 91274,
+      "num": 91274,
+      "word": "男子回应五台山遇狐狸带路",
+      "onboard_time": 1759802960,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87117,
@@ -585,14 +665,6 @@
       "onboard_time": 1759750644,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83116,
-      "num": 83116,
-      "word": "专家分析网友称被困遇狐狸引路",
-      "onboard_time": 1759800981,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83114,
@@ -633,14 +705,6 @@
       "onboard_time": 1759794017,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80862,
-      "num": 80862,
-      "word": "普通人素颜出门怎么变好看",
-      "onboard_time": 1759801579,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 77422,
@@ -835,8 +899,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29536,
-      "num": 79644,
+      "raw_hot": 30321,
+      "num": 92386,
       "word": "央视中秋晚会 德阳",
       "onboard_time": 1759773078,
       "rank": 39,
@@ -916,7 +980,7 @@
     },
     {
       "raw_hot": 10364,
-      "num": 511050,
+      "num": 671952,
       "word": "圆圆圆圆中秋圆圆圆圆",
       "onboard_time": 1759713799,
       "rank": 2,

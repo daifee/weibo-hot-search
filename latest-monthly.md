@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 09:49:04
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 10:10:19
 </p>
 </blockquote>
 <p>
@@ -569,6 +569,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8E%B9%E9%A2%96%E7%94%B7%E5%8F%8B%E5%B7%B2%E5%BC%80%E5%A7%8B%E6%96%B0%E6%81%8B%E6%83%85%23" target="weibo">
 章莹颖男友已开始新恋情（热度：978586）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E4%BB%99%E5%A5%B3%E6%95%A3%E7%9A%84%E6%98%AF%E5%81%87%E8%8A%B1%23" target="weibo">
+景区回应仙女散的是假花（热度：976079）
 </a>
 </li>
 
@@ -1929,6 +1935,12 @@ VaVa说自己分手是因为浪姐（热度：480031）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%9C%A8%E5%9B%BA%E6%80%81%E9%94%82%E7%94%B5%E6%B1%A0%E9%A2%86%E5%9F%9F%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4%23" target="weibo">
+我国在固态锂电池领域取得突破（热度：464187）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%20%E4%B8%8D%E8%BE%93%E6%AC%A7%E7%BE%8E%E4%BA%BA%E7%9A%84%E9%AA%A8%E7%9B%B8%23" target="weibo">
 周也 不输欧美人的骨相（热度：460741）
 </a>
@@ -2511,6 +2523,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AE%B6%E4%B8%8A%E7%8F%AD%E4%B8%80%E5%AE%9A%E8%A6%81%E6%89%93%E6%89%AE%E8%87%AA%E5%B7%B1%23" target="weibo">
+大家上班一定要打扮自己（热度：370706）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23" target="weibo">
 王曼昱vs张本美和（热度：370468）
 </a>
@@ -2763,6 +2781,12 @@ p图姐喊话黄俊捷（热度：342786）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%B6%A8%E6%B6%A8%E6%B6%A8%E7%96%AF%E4%BA%86%23" target="weibo">
+金价涨涨涨疯了（热度：338368）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AD%A3%E6%81%A9%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9B%BD%23" target="weibo">
 金正恩警告美国（热度：338022）
 </a>
@@ -2771,12 +2795,6 @@ p图姐喊话黄俊捷（热度：342786）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E%E6%96%B9%E7%89%B9%E9%81%93%E6%AD%89%23" target="weibo">
 郑州方特道歉（热度：337216）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E4%BB%99%E5%A5%B3%E6%95%A3%E7%9A%84%E6%98%AF%E5%81%87%E8%8A%B1%23" target="weibo">
-景区回应仙女散的是假花（热度：336361）
 </a>
 </li>
 
@@ -3273,12 +3291,6 @@ G社拍的王俊凯巴黎看秀生图（热度：292362）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%B6%A8%E6%B6%A8%E6%B6%A8%E7%96%AF%E4%BA%86%23" target="weibo">
-金价涨涨涨疯了（热度：290046）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E8%BE%BE%E7%94%B5%E5%BD%B1App%E5%B4%A9%E4%BA%86%23" target="weibo">
 万达电影App崩了（热度：289684）
 </a>
@@ -3623,6 +3635,12 @@ F1（热度：275052）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E8%B0%81%E8%83%BD%E6%BC%94%E5%A4%A7%E5%A5%B3%E4%B8%BB%E4%BA%91%E6%9C%9B%E8%88%92%23" target="weibo">
 内娱谁能演大女主云望舒（热度：261681）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E5%A5%88%E5%84%BF%E5%A4%A7%E7%A7%80%23" target="weibo">
+香奈儿大秀（热度：261666）
 </a>
 </li>
 
@@ -4005,6 +4023,12 @@ wtt（热度：234611）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%B1%BD%E9%9B%86%E5%9B%A2%E8%BE%9F%E8%B0%A3%23" target="weibo">
+北汽集团辟谣（热度：234022）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%96%E4%B8%8D%E5%AE%8C%E7%9A%84%E6%9C%88%E9%A5%BC%E9%83%BD%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%23" target="weibo">
 卖不完的月饼都去哪儿了（热度：233848）
 </a>
@@ -4311,12 +4335,6 @@ TTG清清（热度：219869）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E5%A5%88%E5%84%BF%E5%A4%A7%E7%A7%80%23" target="weibo">
-香奈儿大秀（热度：217235）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 穆祉丞音乐节（热度：217206）
 </a>
@@ -4443,12 +4461,6 @@ AI女演员出道遭抵制（热度：212198）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%B1%BD%E9%9B%86%E5%9B%A2%E8%BE%9F%E8%B0%A3%23" target="weibo">
-北汽集团辟谣（热度：211952）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%A5%BC%E9%9C%87%E6%83%8A%E5%A4%96%E5%9B%BD%E5%8F%8B%E4%BA%BA%E4%BA%86%23" target="weibo">
 月饼震惊外国友人了（热度：211825）
 </a>
@@ -4487,6 +4499,12 @@ AI女演员出道遭抵制（热度：212198）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E4%B8%93%E4%B8%9A%E5%85%A8%E5%9B%BD%E6%9B%BE%E5%8F%AA%E6%9C%891%E4%BA%BA%23" target="weibo">
 这个专业全国曾只有1人（热度：209362）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A2%84%E5%88%B6%E6%8B%89%E9%9D%A2%23" target="weibo">
+日本预制拉面（热度：209225）
 </a>
 </li>
 
@@ -5085,6 +5103,12 @@ LOEWE眼光 惠英红就是奢侈品（热度：192315）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E5%A4%A9%E6%B0%94%23" target="weibo">
+国庆假期返程天气（热度：191847）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E7%A7%B0%E6%8D%A1%E6%9D%BF%E6%A0%97%E5%A3%B3%E5%86%B2%E7%AA%81%E4%BA%8B%E4%BB%B6%E5%B7%B2%E5%A4%84%E7%90%86%E5%AE%8C%E6%AF%95%23" target="weibo">
 景区称捡板栗壳冲突事件已处理完毕（热度：191839）
 </a>
@@ -5625,6 +5649,12 @@ AG对战JDG（热度：181803）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E6%8F%90%E8%AE%AE%E5%B0%86%E9%80%80%E4%BC%91%E5%B9%B4%E9%BE%84%E6%8F%90%E9%AB%98%E8%87%B373%E5%B2%81%23" target="weibo">
+德国提议将退休年龄提高至73岁（热度：176627）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E4%B8%BB%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%85%A8%E8%BA%AB%E8%A2%AB%E6%8A%93%E4%BC%A420%E5%A4%9A%E5%A4%84%23" target="weibo">
 猫主人回应全身被抓伤20多处（热度：176590）
 </a>
@@ -5937,8 +5967,8 @@ G社拍的马柏全宋祖儿（热度：171155）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%9C%A8%E5%9B%BA%E6%80%81%E9%94%82%E7%94%B5%E6%B1%A0%E9%A2%86%E5%9F%9F%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4%23" target="weibo">
-我国在固态锂电池领域取得突破（热度：168726）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%BD%A9%E4%B8%9EG%E7%A4%BE%E7%94%9F%E5%9B%BE%23" target="weibo">
+刘轩丞G社生图（热度：168923）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ G社拍的马柏全宋祖儿（热度：171155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%AF%B4%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%BC%BA%E4%B9%8F%E7%8B%A0%E5%8A%B2%23" target="weibo">
 张继科说王曼昱缺乏狠劲（热度：167866）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E8%B7%B3%E6%B2%B3%E7%94%B7%E5%AD%9030%E5%A4%9A%E5%B0%8F%E6%97%B6%E8%BF%98%E6%B2%A1%E6%89%BE%E5%88%B0%23" target="weibo">
-婚礼跳河男子30多小时还没找到（热度：167523）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Dior%E5%A4%A7%E7%A7%80G%E7%A4%BE%E7%94%9F%E5%9B%BE%23" target="weibo">
-Dior大秀G社生图（热度：167518）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%97%A5%E5%AD%90%E5%92%8C%E6%9C%88%E4%BA%AE%E4%B8%80%E6%A0%B7%E5%9C%86%23" target="weibo">
-杨幂日子和月亮一样圆（热度：167464）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%B7%B2%E6%9C%89%E5%A4%9A%E5%90%8D%E8%89%BA%E4%BA%BA%E5%9C%A8%E6%99%AF%E5%8C%BA%E5%86%8D%E5%B0%B1%E4%B8%9A%23" target="weibo">
-今年已有多名艺人在景区再就业（热度：167454）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B6%85%E8%8E%B2%E7%A9%BF%E6%90%AD%E4%B8%8D%E7%94%A8%E6%98%BE%E8%B4%B5%23" target="weibo">
-何超莲穿搭不用显贵（热度：167442）
 </a>
 </li>
 
