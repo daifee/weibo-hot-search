@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759858832238,
+  "endTime": 1759862212694,
   "band_list": [
     {
       "raw_hot": 1099261,
@@ -259,7 +259,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 73100,
+      "raw_hot": 74789,
       "num": 115691,
       "word": "马主回应70多匹马下山时被绑前腿",
       "onboard_time": 1759852822,
@@ -473,6 +473,14 @@
       "onboard_time": 1759822521,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16339,
+      "num": 42161,
+      "word": "上海残联推荐震耳欲聋",
+      "onboard_time": 1759861995,
+      "rank": 48,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
