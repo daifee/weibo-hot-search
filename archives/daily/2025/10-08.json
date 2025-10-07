@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759876769660,
+  "endTime": 1759879379648,
   "band_list": [
     {
       "raw_hot": 1099261,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 734082,
-      "num": 734082,
+      "num": 809478,
       "word": "高速5车追尾2死3伤",
       "onboard_time": 1759854859,
       "rank": 4,
@@ -41,6 +41,14 @@
       "onboard_time": 1759849282,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323347,
+      "num": 323347,
+      "word": "终于知道为什么妈妈老开我房门了",
+      "onboard_time": 1759850362,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 311554,
@@ -73,6 +81,14 @@
       "onboard_time": 1759841603,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275763,
+      "num": 130807,
+      "word": "老婆回应与张纪中的婚姻没有爱情",
+      "onboard_time": 1759842984,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 263073,
@@ -131,12 +147,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173159,
-      "num": 173159,
-      "word": "终于知道为什么妈妈老开我房门了",
-      "onboard_time": 1759850362,
-      "rank": 21,
-      "category": "幽默"
+      "raw_hot": 170346,
+      "num": 170346,
+      "word": "寒露",
+      "onboard_time": 1759878617,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167285,
+      "num": 167285,
+      "word": "南京地铁回应鸡鸣寺暗讽事件",
+      "onboard_time": 1759840104,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159594,
@@ -171,14 +195,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 137429,
-      "num": 130807,
-      "word": "老婆回应与张纪中的婚姻没有爱情",
-      "onboard_time": 1759842984,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134973,
       "num": 134973,
       "word": "亲历者称冰岛侧翻大巴上多名中国人",
@@ -192,6 +208,14 @@
       "word": "馆长被台湾警方侦办",
       "onboard_time": 1759844123,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121500,
+      "num": 121500,
+      "word": "马主回应70多匹马下山时被绑前腿",
+      "onboard_time": 1759852822,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -211,7 +235,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 111325,
+      "raw_hot": 111326,
       "num": 115630,
       "word": "杜海涛到了伦敦冒充王嘉尔",
       "onboard_time": 1759841845,
@@ -219,11 +243,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90847,
-      "num": 115766,
-      "word": "南京地铁回应鸡鸣寺暗讽事件",
-      "onboard_time": 1759840104,
-      "rank": 25,
+      "raw_hot": 105009,
+      "num": 105009,
+      "word": "假期最后1天迎来寒露",
+      "onboard_time": 1759854859,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -243,20 +267,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80521,
+      "num": 115668,
+      "word": "王一博刷爆个人纪录帅炸了",
+      "onboard_time": 1759839745,
+      "rank": 34,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 78840,
       "num": 115731,
       "word": "供一个大学生四年需要花多少钱",
       "onboard_time": 1759842923,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 78114,
-      "num": 115691,
-      "word": "马主回应70多匹马下山时被绑前腿",
-      "onboard_time": 1759852822,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76358,
@@ -283,11 +307,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 70059,
-      "num": 88830,
-      "word": "假期最后1天迎来寒露",
-      "onboard_time": 1759854859,
-      "rank": 34,
+      "raw_hot": 69736,
+      "num": 69736,
+      "word": "在马来西亚失联中国游客朋友发声",
+      "onboard_time": 1759878197,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -297,14 +321,6 @@
       "onboard_time": 1759844063,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 66527,
-      "num": 115668,
-      "word": "王一博刷爆个人纪录帅炸了",
-      "onboard_time": 1759839745,
-      "rank": 34,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 66298,
@@ -321,6 +337,14 @@
       "onboard_time": 1759835180,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 62386,
+      "num": 62386,
+      "word": "女方父亲回应悔婚退彩礼扣3万拥抱费",
+      "onboard_time": 1759863314,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62356,
@@ -411,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46055,
+      "num": 46055,
+      "word": "孙颖莎WTT大满贯单打四冠王",
+      "onboard_time": 1759878797,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45849,
       "num": 115503,
       "word": "薛之谦音乐节",
@@ -443,12 +475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33970,
-      "num": 36919,
-      "word": "女方父亲回应悔婚退彩礼扣3万拥抱费",
-      "onboard_time": 1759863314,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 34947,
+      "num": 34947,
+      "word": "许我耀眼",
+      "onboard_time": 1759833440,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 32158,
@@ -475,12 +507,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29466,
+      "num": 29466,
+      "word": "点过日料外卖的人天塌了",
+      "onboard_time": 1759879278,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26633,
+      "num": 29462,
+      "word": "县域旅游已成为一种时尚",
+      "onboard_time": 1759878197,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26632,
       "num": 69402,
       "word": "CP2025SP",
       "onboard_time": 1759856298,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 26272,
+      "num": 29377,
+      "word": "中国央行连续第11个月增持黄金",
+      "onboard_time": 1759869074,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 21586,
@@ -505,14 +561,6 @@
       "onboard_time": 1759867155,
       "rank": 38,
       "category": "数码"
-    },
-    {
-      "raw_hot": 17924,
-      "num": 28111,
-      "word": "中国央行连续第11个月增持黄金",
-      "onboard_time": 1759869074,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 16959,

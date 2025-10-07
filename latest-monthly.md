@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 06:39:29
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 07:22:59
 </p>
 </blockquote>
 <p>
@@ -3267,6 +3267,12 @@ WTT（热度：332672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%88%E5%A6%88%E8%80%81%E5%BC%80%E6%88%91%E6%88%BF%E9%97%A8%E4%BA%86%23" target="weibo">
+终于知道为什么妈妈老开我房门了（热度：323347）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C%E7%83%9F%E8%8A%B1%23" target="weibo">
 南昌烟花（热度：323084）
 </a>
@@ -6005,12 +6011,6 @@ NRG总决赛对阵FNC（热度：190252）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6WTT%E9%A6%99%E6%B8%AF%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
 孙颖莎王楚钦WTT香港总决赛（热度：183781）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%8B%E5%AE%89%E5%86%8D%E5%9B%9E%E5%BA%94%E7%88%B6%E5%A5%B3%E6%81%8B%E7%BB%AF%E9%97%BB%23" target="weibo">
-郭晋安再回应父女恋绯闻（热度：183726）
 </a>
 </li>
 
