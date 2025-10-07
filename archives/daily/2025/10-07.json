@@ -1,6 +1,6 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759793795811,
+  "endTime": 1759801744091,
   "band_list": [
     {
       "raw_hot": 1047453,
@@ -11,8 +11,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 898370,
+      "num": 1143739,
+      "word": "北京市民家中发现日军细菌战罪证",
+      "onboard_time": 1759794797,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 841724,
-      "num": 181660,
+      "num": 198833,
       "word": "鹿晗方将承担机票和酒店产生的损失",
       "onboard_time": 1759759762,
       "rank": 11,
@@ -27,8 +35,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 661486,
+      "num": 661486,
+      "word": "医生说加沙医院惨状像屠宰场",
+      "onboard_time": 1759797439,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 640017,
-      "num": 179662,
+      "num": 196766,
       "word": "素颜的刘浩存赵今麦李庚希",
       "onboard_time": 1759764501,
       "rank": 13,
@@ -43,6 +59,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 502358,
+      "num": 168519,
+      "word": "身体有炎症时少吃4种食物",
+      "onboard_time": 1759797678,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 437330,
       "num": 178662,
       "word": "石凯回复",
@@ -51,8 +75,24 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425582,
+      "num": 425582,
+      "word": "詹姆斯将宣布重大决策",
+      "onboard_time": 1759796178,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 421267,
+      "num": 195104,
+      "word": "张杰看着屏幕上发光的谢娜",
+      "onboard_time": 1759794198,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 413898,
-      "num": 175185,
+      "num": 175753,
       "word": "赵今麦在国外美成啥了",
       "onboard_time": 1759761024,
       "rank": 18,
@@ -75,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 336361,
+      "num": 336361,
+      "word": "景区回应仙女散的是假花",
+      "onboard_time": 1759800140,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318525,
       "num": 175563,
       "word": "檀健次叶世荣动了谁的DNA",
@@ -89,6 +137,30 @@
       "onboard_time": 1759752565,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 290046,
+      "num": 168243,
+      "word": "金价涨涨涨疯了",
+      "onboard_time": 1759799000,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 282752,
+      "num": 282752,
+      "word": "旅游我有自己的出片方式",
+      "onboard_time": 1759799419,
+      "rank": 5,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 270241,
+      "num": 270241,
+      "word": "店家回应炒蛏子和螃蟹两个菜661元",
+      "onboard_time": 1759793298,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 244762,
@@ -147,11 +219,43 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217235,
+      "num": 193338,
+      "word": "香奈儿大秀",
+      "onboard_time": 1759798940,
+      "rank": 13,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 213139,
+      "num": 213139,
+      "word": "雨衣上的帽子究竟是谁设计的",
+      "onboard_time": 1759794739,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 211952,
+      "num": 211952,
+      "word": "北汽集团辟谣",
+      "onboard_time": 1759799059,
+      "rank": 8,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 199353,
       "num": 170097,
       "word": "唐嫣美成啥了 欧豪也是个神",
       "onboard_time": 1759755683,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 192862,
+      "num": 192862,
+      "word": "闫妮端庄到不像她",
+      "onboard_time": 1759785195,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -179,6 +283,46 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 184523,
+      "num": 167888,
+      "word": "王楚钦孙颖莎混双世排第3",
+      "onboard_time": 1759797800,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 182944,
+      "num": 182944,
+      "word": "假期还有最后2天",
+      "onboard_time": 1759798699,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176324,
+      "num": 167675,
+      "word": "37岁交警在执法现场被撞牺牲",
+      "onboard_time": 1759797678,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168726,
+      "num": 168726,
+      "word": "我国在固态锂电池领域取得突破",
+      "onboard_time": 1759800920,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167454,
+      "num": 167454,
+      "word": "今年已有多名艺人在景区再就业",
+      "onboard_time": 1759792876,
+      "rank": 46,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 160752,
       "num": 145577,
       "word": "李沁 英气",
@@ -203,12 +347,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141676,
-      "num": 100122,
-      "word": "闫妮端庄到不像她",
-      "onboard_time": 1759785195,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 141915,
+      "num": 141915,
+      "word": "北方人解决了中秋节不能吃饺子的难题",
+      "onboard_time": 1759801699,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 141868,
+      "num": 112173,
+      "word": "日本预制拉面",
+      "onboard_time": 1759801519,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 137417,
@@ -235,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132668,
+      "num": 132668,
+      "word": "王楚钦10900分世排第一",
+      "onboard_time": 1759795699,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123955,
       "num": 145550,
       "word": "偷偷藏不住中秋节售后",
@@ -251,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119364,
+      "num": 119364,
+      "word": "女子被假冒费玉清骗走上千万",
+      "onboard_time": 1759792096,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119322,
       "num": 145441,
       "word": "王楚钦中国大满贯后发文",
@@ -259,20 +427,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112440,
+      "num": 112440,
+      "word": "柚子是一种很善良的水果",
+      "onboard_time": 1759797199,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 111657,
+      "num": 111657,
+      "word": "小孩疯狂投喂给小羊撑emo了",
+      "onboard_time": 1759795638,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110754,
+      "num": 110754,
+      "word": "8号我要陪许妍去离婚",
+      "onboard_time": 1759792817,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103256,
       "num": 145074,
       "word": "王橹杰中秋祝福",
       "onboard_time": 1759761383,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102459,
-      "num": 102459,
-      "word": "店家回应炒蛏子和螃蟹两个菜661元",
-      "onboard_time": 1759793298,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99837,
@@ -299,12 +483,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97745,
+      "num": 97745,
+      "word": "烘焙店老板被新员工当成小偷",
+      "onboard_time": 1759760664,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97253,
       "num": 145477,
       "word": "许我耀眼",
       "onboard_time": 1759747642,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97012,
+      "num": 97012,
+      "word": "中学通报学生从家长身上踩过",
+      "onboard_time": 1759798699,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96366,
+      "num": 96366,
+      "word": "特朗普对进口中重型卡车征25%关税",
+      "onboard_time": 1759801279,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95473,
@@ -323,12 +531,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 94001,
+      "num": 94001,
+      "word": "刘宇宁直播讲踢馆失败的事",
+      "onboard_time": 1759795279,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91564,
       "num": 91564,
       "word": "王楚钦你扣子扣岔了",
       "onboard_time": 1759758744,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90884,
+      "num": 90884,
+      "word": "丁程鑫去看了张艺兴演唱会",
+      "onboard_time": 1759792876,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 87117,
@@ -363,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83116,
+      "num": 83116,
+      "word": "专家分析网友称被困遇狐狸引路",
+      "onboard_time": 1759800981,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83114,
       "num": 145198,
       "word": "30岁长期熬夜有多可怕",
@@ -387,12 +619,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82612,
-      "num": 82612,
-      "word": "女子被假冒费玉清骗走上千万",
-      "onboard_time": 1759792096,
-      "rank": 22,
+      "raw_hot": 82069,
+      "num": 82069,
+      "word": "假期返程交通流量将大幅增加",
+      "onboard_time": 1759798400,
+      "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81834,
+      "num": 81834,
+      "word": "徐长锁去世",
+      "onboard_time": 1759794017,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 80862,
+      "num": 80862,
+      "word": "普通人素颜出门怎么变好看",
+      "onboard_time": 1759801579,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 77422,
@@ -403,12 +651,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76224,
+      "num": 76224,
+      "word": "国庆假期多位老戏骨在各地景区亮相",
+      "onboard_time": 1759798758,
+      "rank": 47,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 74935,
       "num": 144688,
       "word": "陈奕恒高会",
       "onboard_time": 1759759704,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73322,
+      "num": 73322,
+      "word": "焦虑时吃点发酵食物",
+      "onboard_time": 1759801579,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 72964,
@@ -451,36 +715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61331,
-      "num": 61331,
-      "word": "丁程鑫去看了张艺兴演唱会",
-      "onboard_time": 1759792876,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 60205,
       "num": 182813,
       "word": "央视中秋晚会节目单",
       "onboard_time": 1759755202,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 59043,
-      "num": 59043,
-      "word": "今年已有多名艺人在景区再就业",
-      "onboard_time": 1759792876,
-      "rank": 46,
-      "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 56730,
-      "num": 56730,
-      "word": "8号我要陪许妍去离婚",
-      "onboard_time": 1759792817,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 53765,
@@ -595,6 +835,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29536,
+      "num": 79644,
+      "word": "央视中秋晚会 德阳",
+      "onboard_time": 1759773078,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29150,
       "num": 27856,
       "word": "张艺兴五巡闹天宫",
@@ -635,14 +883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20679,
-      "num": 43268,
-      "word": "央视中秋晚会 德阳",
-      "onboard_time": 1759773078,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 16276,
       "num": 23886,
       "word": "檀健次用手语鼓励聋人观众",
@@ -675,8 +915,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 4029,
-      "num": 235598,
+      "raw_hot": 10364,
+      "num": 511050,
       "word": "圆圆圆圆中秋圆圆圆圆",
       "onboard_time": 1759713799,
       "rank": 2,

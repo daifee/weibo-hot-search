@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759793795811,
+  "endTime": 1759801744091,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -299,6 +299,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 898370,
+      "num": 1143739,
+      "word": "北京市民家中发现日军细菌战罪证",
+      "onboard_time": 1759794797,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 888172,
       "num": 196649,
       "word": "肖战34岁生日居家照",
@@ -539,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 661486,
+      "num": 661486,
+      "word": "医生说加沙医院惨状像屠宰场",
+      "onboard_time": 1759797439,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 654339,
       "num": 296139,
       "word": "华伦天奴大秀",
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 640017,
-      "num": 179662,
+      "num": 196766,
       "word": "素颜的刘浩存赵今麦李庚希",
       "onboard_time": 1759764501,
       "rank": 28,
@@ -761,6 +777,14 @@
       "onboard_time": 1759755202,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 502358,
+      "num": 168519,
+      "word": "身体有炎症时少吃4种食物",
+      "onboard_time": 1759797678,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 499954,
@@ -971,12 +995,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425582,
+      "num": 425582,
+      "word": "詹姆斯将宣布重大决策",
+      "onboard_time": 1759796178,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 423420,
       "num": 247548,
       "word": "杨博文扫腿舞 诡异如ai",
       "onboard_time": 1759751723,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421267,
+      "num": 195104,
+      "word": "张杰看着屏幕上发光的谢娜",
+      "onboard_time": 1759794198,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 419822,
@@ -1275,6 +1315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 336361,
+      "num": 336361,
+      "word": "景区回应仙女散的是假花",
+      "onboard_time": 1759800140,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 333715,
       "num": 333715,
       "word": "王曼昱回应4比2孙颖莎",
@@ -1555,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 290046,
+      "num": 168243,
+      "word": "金价涨涨涨疯了",
+      "onboard_time": 1759799000,
+      "rank": 21,
+      "category": "财经"
+    },
+    {
       "raw_hot": 289588,
       "num": 219848,
       "word": "live图怎么关声音",
@@ -1601,6 +1657,14 @@
       "onboard_time": 1759758744,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282752,
+      "num": 282752,
+      "word": "旅游我有自己的出片方式",
+      "onboard_time": 1759799419,
+      "rank": 5,
+      "category": "旅游"
     },
     {
       "raw_hot": 282396,
@@ -1721,6 +1785,14 @@
       "onboard_time": 1759666824,
       "rank": 23,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 270241,
+      "num": 270241,
+      "word": "店家回应炒蛏子和螃蟹两个菜661元",
+      "onboard_time": 1759793298,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266447,
@@ -2043,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217235,
+      "num": 193338,
+      "word": "香奈儿大秀",
+      "onboard_time": 1759798940,
+      "rank": 13,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 216897,
       "num": 198964,
       "word": "王楚钦11比2F勒布伦",
@@ -2089,6 +2169,22 @@
       "onboard_time": 1759742781,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213139,
+      "num": 213139,
+      "word": "雨衣上的帽子究竟是谁设计的",
+      "onboard_time": 1759794739,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 211952,
+      "num": 211952,
+      "word": "北汽集团辟谣",
+      "onboard_time": 1759799059,
+      "rank": 8,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 211825,
@@ -2371,6 +2467,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 192862,
+      "num": 192862,
+      "word": "闫妮端庄到不像她",
+      "onboard_time": 1759785195,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191984,
       "num": 191984,
       "word": "2025央视中秋晚会阵容",
@@ -2515,6 +2619,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 184523,
+      "num": 167888,
+      "word": "王楚钦孙颖莎混双世排第3",
+      "onboard_time": 1759797800,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184236,
       "num": 184236,
       "word": "塞蒂恩下课",
@@ -2561,6 +2673,14 @@
       "onboard_time": 1759682780,
       "rank": 16,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 182944,
+      "num": 182944,
+      "word": "假期还有最后2天",
+      "onboard_time": 1759798699,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 182126,
@@ -2697,6 +2817,14 @@
       "onboard_time": 1759724061,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 176324,
+      "num": 167675,
+      "word": "37岁交警在执法现场被撞牺牲",
+      "onboard_time": 1759797678,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175992,
@@ -2883,6 +3011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168726,
+      "num": 168726,
+      "word": "我国在固态锂电池领域取得突破",
+      "onboard_time": 1759800920,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168338,
       "num": 168338,
       "word": "范闲范思辙给林婉儿打call",
@@ -2897,6 +3033,14 @@
       "onboard_time": 1759721720,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 167454,
+      "num": 167454,
+      "word": "今年已有多名艺人在景区再就业",
+      "onboard_time": 1759792876,
+      "rank": 46,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 166820,
@@ -3515,12 +3659,20 @@
       "category": "民生新闻,汽车"
     },
     {
-      "raw_hot": 141676,
-      "num": 100122,
-      "word": "闫妮端庄到不像她",
-      "onboard_time": 1759785195,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 141915,
+      "num": 141915,
+      "word": "北方人解决了中秋节不能吃饺子的难题",
+      "onboard_time": 1759801699,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 141868,
+      "num": 112173,
+      "word": "日本预制拉面",
+      "onboard_time": 1759801519,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 141524,
@@ -3825,6 +3977,14 @@
       "onboard_time": 1759671084,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 132668,
+      "num": 132668,
+      "word": "王楚钦10900分世排第一",
+      "onboard_time": 1759795699,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 132381,
@@ -4251,6 +4411,14 @@
       "category": "财经,海外新闻"
     },
     {
+      "raw_hot": 119364,
+      "num": 119364,
+      "word": "女子被假冒费玉清骗走上千万",
+      "onboard_time": 1759792096,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119069,
       "num": 119069,
       "word": "范丞丞没有一个人去巴黎",
@@ -4579,6 +4747,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 112440,
+      "num": 112440,
+      "word": "柚子是一种很善良的水果",
+      "onboard_time": 1759797199,
+      "rank": 29,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 112430,
       "num": 112430,
       "word": "一转头被杨超越美到失语",
@@ -4601,6 +4777,14 @@
       "onboard_time": 1759674203,
       "rank": 31,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 111657,
+      "num": 111657,
+      "word": "小孩疯狂投喂给小羊撑emo了",
+      "onboard_time": 1759795638,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111632,
@@ -4665,6 +4849,14 @@
       "onboard_time": 1759749622,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110754,
+      "num": 110754,
+      "word": "8号我要陪许妍去离婚",
+      "onboard_time": 1759792817,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 110524,
@@ -5139,14 +5331,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 102459,
-      "num": 102459,
-      "word": "店家回应炒蛏子和螃蟹两个菜661元",
-      "onboard_time": 1759793298,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102446,
       "num": 102446,
       "word": "湖人vs勇士",
@@ -5451,6 +5635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97012,
+      "num": 97012,
+      "word": "中学通报学生从家长身上踩过",
+      "onboard_time": 1759798699,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96867,
       "num": 96867,
       "word": "邓佳鑫专场上座率",
@@ -5515,6 +5707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96366,
+      "num": 96366,
+      "word": "特朗普对进口中重型卡车征25%关税",
+      "onboard_time": 1759801279,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96325,
       "num": 96325,
       "word": "人一旦有了隔阂就真的走不近了",
@@ -5561,6 +5761,14 @@
       "onboard_time": 1759640301,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94001,
+      "num": 94001,
+      "word": "刘宇宁直播讲踢馆失败的事",
+      "onboard_time": 1759795279,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 93986,
@@ -5681,6 +5889,14 @@
       "onboard_time": 1759746441,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90884,
+      "num": 90884,
+      "word": "丁程鑫去看了张艺兴演唱会",
+      "onboard_time": 1759792876,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 90858,
@@ -6027,6 +6243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83116,
+      "num": 83116,
+      "word": "专家分析网友称被困遇狐狸引路",
+      "onboard_time": 1759800981,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83065,
       "num": 83065,
       "word": "麦当劳是不是给我装监控了",
@@ -6059,14 +6283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82612,
-      "num": 82612,
-      "word": "女子被假冒费玉清骗走上千万",
-      "onboard_time": 1759792096,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82274,
       "num": 139440,
       "word": "钢铁战士王楚钦",
@@ -6075,11 +6291,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82069,
+      "num": 82069,
+      "word": "假期返程交通流量将大幅增加",
+      "onboard_time": 1759798400,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81971,
       "num": 81971,
       "word": "小孩哥看王楚钦比赛看哭了",
       "onboard_time": 1759734081,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81834,
+      "num": 81834,
+      "word": "徐长锁去世",
+      "onboard_time": 1759794017,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -6105,6 +6337,14 @@
       "onboard_time": 1759730301,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80862,
+      "num": 80862,
+      "word": "普通人素颜出门怎么变好看",
+      "onboard_time": 1759801579,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 80695,
@@ -6235,6 +6475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 76224,
+      "num": 76224,
+      "word": "国庆假期多位老戏骨在各地景区亮相",
+      "onboard_time": 1759798758,
+      "rank": 47,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 74126,
       "num": 145703,
       "word": "高市早苗将接手3个烂摊子",
@@ -6249,6 +6497,14 @@
       "onboard_time": 1759734020,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 73322,
+      "num": 73322,
+      "word": "焦虑时吃点发酵食物",
+      "onboard_time": 1759801579,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 72614,
@@ -6459,14 +6715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61331,
-      "num": 61331,
-      "word": "丁程鑫去看了张艺兴演唱会",
-      "onboard_time": 1759792876,
-      "rank": 38,
-      "category": "演出"
-    },
-    {
       "raw_hot": 59963,
       "num": 59963,
       "word": "男子买单不付钱趁机摸店员脸",
@@ -6507,14 +6755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59043,
-      "num": 59043,
-      "word": "今年已有多名艺人在景区再就业",
-      "onboard_time": 1759792876,
-      "rank": 46,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 58573,
       "num": 81783,
       "word": "刘震云河南野生代言人",
@@ -6553,14 +6793,6 @@
       "onboard_time": 1759648579,
       "rank": 38,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 56730,
-      "num": 56730,
-      "word": "8号我要陪许妍去离婚",
-      "onboard_time": 1759792817,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 56696,
@@ -7043,6 +7275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29536,
+      "num": 79644,
+      "word": "央视中秋晚会 德阳",
+      "onboard_time": 1759773078,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29150,
       "num": 27856,
       "word": "张艺兴五巡闹天宫",
@@ -7161,14 +7401,6 @@
       "onboard_time": 1759775895,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 20679,
-      "num": 43268,
-      "word": "央视中秋晚会 德阳",
-      "onboard_time": 1759773078,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 20034,
