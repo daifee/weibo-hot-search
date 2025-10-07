@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759806723263,
+  "endTime": 1759808330709,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1057563,
+      "num": 207610,
+      "word": "刘涛女儿居然马上要读大学了",
+      "onboard_time": 1759805060,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1047453,
       "num": 181976,
       "word": "鸡鸣寺",
@@ -259,6 +267,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 989198,
+      "num": 1158271,
+      "word": "金价",
+      "onboard_time": 1759645640,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 986621,
       "num": 440186,
       "word": "迪丽热巴中秋嫦娥造型",
@@ -289,14 +305,6 @@
       "onboard_time": 1759637961,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 950279,
-      "num": 1145912,
-      "word": "金价",
-      "onboard_time": 1759645640,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 950160,
@@ -755,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 522243,
+      "num": 236957,
+      "word": "台媒曝黄子佼肇事逃逸",
+      "onboard_time": 1759806081,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 521512,
       "num": 521512,
       "word": "不旅游就等于浪费假期吗",
@@ -769,6 +785,14 @@
       "onboard_time": 1759740380,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 516954,
+      "num": 206233,
+      "word": "战沁",
+      "onboard_time": 1759806799,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 515787,
@@ -883,20 +907,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 478548,
-      "num": 187175,
-      "word": "刘涛女儿居然马上要读大学了",
-      "onboard_time": 1759805060,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 477899,
       "num": 248818,
       "word": "时代少年团高会直播",
       "onboard_time": 1759750644,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 474877,
+      "num": 474877,
+      "word": "德国提议将退休年龄提高至73岁",
+      "onboard_time": 1759802539,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 472942,
@@ -995,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 440219,
+      "num": 250323,
+      "word": "黄磊处处被贴脸开大",
+      "onboard_time": 1759804579,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438654,
       "num": 438654,
       "word": "山西婚礼要在下水道井盖贴喜字",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1759751723,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421782,
+      "num": 421782,
+      "word": "每天喝茶vs每天喝咖啡",
+      "onboard_time": 1759802119,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 421267,
@@ -1153,14 +1193,6 @@
       "onboard_time": 1759744281,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 384504,
-      "num": 384504,
-      "word": "每天喝茶vs每天喝咖啡",
-      "onboard_time": 1759802119,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 382617,
@@ -1291,6 +1323,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 351710,
+      "num": 186777,
+      "word": "猴子被游客扇巴掌",
+      "onboard_time": 1759805659,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349970,
       "num": 256358,
       "word": "用10000只大闸蟹做了一道菜",
@@ -1320,14 +1360,6 @@
       "word": "我家那闺女",
       "onboard_time": 1759642401,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 344368,
-      "num": 250323,
-      "word": "黄磊处处被贴脸开大",
-      "onboard_time": 1759804579,
-      "rank": 14,
       "category": "综艺"
     },
     {
@@ -1427,14 +1459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330523,
-      "num": 330523,
-      "word": "德国提议将退休年龄提高至73岁",
-      "onboard_time": 1759802539,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 330297,
       "num": 330297,
       "word": "美军开始焦虑",
@@ -1449,14 +1473,6 @@
       "onboard_time": 1759587561,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 324410,
-      "num": 236957,
-      "word": "台媒曝黄子佼肇事逃逸",
-      "onboard_time": 1759806081,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 323016,
@@ -1809,14 +1825,6 @@
       "onboard_time": 1759673064,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 275778,
-      "num": 184381,
-      "word": "猴子被游客扇巴掌",
-      "onboard_time": 1759805659,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 275655,
@@ -2363,6 +2371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 205117,
+      "num": 205117,
+      "word": "赵磊说和qko在一起十年了",
+      "onboard_time": 1759807941,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204481,
       "num": 166584,
       "word": "刘宇宁腰围",
@@ -2747,6 +2763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184221,
+      "num": 184221,
+      "word": "鸡排哥10月9日休息",
+      "onboard_time": 1759807461,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183994,
       "num": 140194,
       "word": "游客称捡板栗壳被民宿老板娘诬陷偷",
@@ -2905,6 +2929,14 @@
       "onboard_time": 1759757182,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 177265,
+      "num": 177265,
+      "word": "应鹏去世",
+      "onboard_time": 1759808302,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 177127,
@@ -3257,6 +3289,14 @@
       "onboard_time": 1759654579,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162289,
+      "num": 162289,
+      "word": "谢娜曾让团队不要声张主持央视秋晚",
+      "onboard_time": 1759807161,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 161870,
@@ -4891,6 +4931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113018,
+      "num": 113018,
+      "word": "13岁国乒小将有孙颖莎和樊振东的影子",
+      "onboard_time": 1759807761,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112451,
       "num": 112451,
       "word": "张小斐 我的大明星女友",
@@ -5099,6 +5147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109827,
+      "num": 109827,
+      "word": "请作者们不要再疯狂的描写外貌了",
+      "onboard_time": 1759807579,
+      "rank": 36,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 109818,
       "num": 109818,
       "word": "华晨宇南京站路人观感",
@@ -5153,6 +5209,14 @@
       "onboard_time": 1759671624,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108883,
+      "num": 108883,
+      "word": "这是反诈版中秋赏月吧",
+      "onboard_time": 1759807702,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108453,
@@ -5409,6 +5473,14 @@
       "onboard_time": 1759763961,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104159,
+      "num": 100322,
+      "word": "吉克隽逸看完张艺兴发九宫格live图",
+      "onboard_time": 1759808240,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 104098,
@@ -5915,6 +5987,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 95431,
+      "num": 106168,
+      "word": "泰国黄金大劫案",
+      "onboard_time": 1759807821,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 95133,
       "num": 95133,
       "word": "王楚钦太坚定了",
@@ -5928,6 +6008,14 @@
       "word": "青海门源1名徒步者失温高反遇难",
       "onboard_time": 1759732580,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94511,
+      "num": 94511,
+      "word": "南方多地将热到38摄氏度",
+      "onboard_time": 1759806680,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -6089,6 +6177,14 @@
       "onboard_time": 1759645460,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 91153,
+      "num": 91153,
+      "word": "有这样的领导你都回不了家",
+      "onboard_time": 1759808302,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 90914,
@@ -6329,14 +6425,6 @@
       "onboard_time": 1759736482,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 86240,
-      "num": 86240,
-      "word": "南方多地将热到38摄氏度",
-      "onboard_time": 1759806680,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85766,
@@ -6697,6 +6785,14 @@
       "onboard_time": 1759801579,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 73240,
+      "num": 93978,
+      "word": "曝S15陪练团中单",
+      "onboard_time": 1759806861,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 72614,
@@ -7475,6 +7571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29590,
+      "num": 508657,
+      "word": "拍完你的拍你的",
+      "onboard_time": 1759795398,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29150,
       "num": 27856,
       "word": "张艺兴五巡闹天宫",
@@ -7757,6 +7861,9 @@
     },
     {
       "word": "#聆听习近平总书记的温暖祝福#"
+    },
+    {
+      "word": "#文脉华章#"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759806723263,
+  "endTime": 1759808330709,
   "band_list": [
     {
       "raw_hot": 1399578,
@@ -11,12 +11,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1057563,
+      "num": 207610,
+      "word": "刘涛女儿居然马上要读大学了",
+      "onboard_time": 1759805060,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1047453,
       "num": 181976,
       "word": "鸡鸣寺",
       "onboard_time": 1759766000,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 989198,
+      "num": 1158271,
+      "word": "金价",
+      "onboard_time": 1759803860,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 980225,
@@ -33,14 +49,6 @@
       "onboard_time": 1759802900,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 911953,
-      "num": 1145912,
-      "word": "金价",
-      "onboard_time": 1759803860,
-      "rank": 1,
-      "category": "财经"
     },
     {
       "raw_hot": 898370,
@@ -91,6 +99,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 522243,
+      "num": 236957,
+      "word": "台媒曝黄子佼肇事逃逸",
+      "onboard_time": 1759806081,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 516954,
+      "num": 206233,
+      "word": "战沁",
+      "onboard_time": 1759806799,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 502358,
       "num": 186991,
       "word": "身体有炎症时少吃4种食物",
@@ -99,12 +123,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 478548,
-      "num": 187175,
-      "word": "刘涛女儿居然马上要读大学了",
-      "onboard_time": 1759805060,
-      "rank": 20,
-      "category": "综艺"
+      "raw_hot": 474877,
+      "num": 474877,
+      "word": "德国提议将退休年龄提高至73岁",
+      "onboard_time": 1759802539,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 464187,
@@ -113,6 +137,14 @@
       "onboard_time": 1759800920,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 440219,
+      "num": 250323,
+      "word": "黄磊处处被贴脸开大",
+      "onboard_time": 1759804579,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 437330,
@@ -131,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 421782,
+      "num": 421782,
+      "word": "每天喝茶vs每天喝咖啡",
+      "onboard_time": 1759802119,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 421267,
       "num": 205709,
       "word": "张杰看着屏幕上发光的谢娜",
@@ -145,14 +185,6 @@
       "onboard_time": 1759761024,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 384504,
-      "num": 384504,
-      "word": "每天喝茶vs每天喝咖啡",
-      "onboard_time": 1759802119,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 372514,
@@ -179,12 +211,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 344368,
-      "num": 250323,
-      "word": "黄磊处处被贴脸开大",
-      "onboard_time": 1759804579,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 351710,
+      "num": 186777,
+      "word": "猴子被游客扇巴掌",
+      "onboard_time": 1759805659,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 338368,
@@ -193,22 +225,6 @@
       "onboard_time": 1759799000,
       "rank": 21,
       "category": "财经"
-    },
-    {
-      "raw_hot": 330523,
-      "num": 330523,
-      "word": "德国提议将退休年龄提高至73岁",
-      "onboard_time": 1759802539,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 324410,
-      "num": 236957,
-      "word": "台媒曝黄子佼肇事逃逸",
-      "onboard_time": 1759806081,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 318525,
@@ -233,14 +249,6 @@
       "onboard_time": 1759799419,
       "rank": 5,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 275778,
-      "num": 184381,
-      "word": "猴子被游客扇巴掌",
-      "onboard_time": 1759805659,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 270241,
@@ -347,6 +355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 205117,
+      "num": 205117,
+      "word": "赵磊说和qko在一起十年了",
+      "onboard_time": 1759807941,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199353,
       "num": 170097,
       "word": "唐嫣美成啥了 欧豪也是个神",
@@ -411,6 +427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 184221,
+      "num": 184221,
+      "word": "鸡排哥10月9日休息",
+      "onboard_time": 1759807461,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182944,
       "num": 182944,
       "word": "假期还有最后2天",
@@ -425,6 +449,14 @@
       "onboard_time": 1759803620,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 177265,
+      "num": 177265,
+      "word": "应鹏去世",
+      "onboard_time": 1759808302,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 176324,
@@ -457,6 +489,14 @@
       "onboard_time": 1759792876,
       "rank": 46,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 162289,
+      "num": 162289,
+      "word": "谢娜曾让团队不要声张主持央视秋晚",
+      "onboard_time": 1759807161,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 160752,
@@ -505,6 +545,14 @@
       "onboard_time": 1759801699,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 141338,
+      "num": 141338,
+      "word": "入青云",
+      "onboard_time": 1759807761,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 137417,
@@ -595,6 +643,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 113018,
+      "num": 113018,
+      "word": "13岁国乒小将有孙颖莎和樊振东的影子",
+      "onboard_time": 1759807761,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112440,
       "num": 112440,
       "word": "柚子是一种很善良的水果",
@@ -635,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109827,
+      "num": 109827,
+      "word": "请作者们不要再疯狂的描写外貌了",
+      "onboard_time": 1759807579,
+      "rank": 36,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 109804,
       "num": 109804,
       "word": "难怪周迅能和香合作18年",
@@ -643,12 +707,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 108883,
+      "num": 108883,
+      "word": "这是反诈版中秋赏月吧",
+      "onboard_time": 1759807702,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105981,
       "num": 105981,
       "word": "朱雨玲世排反超日本乒协",
       "onboard_time": 1759803860,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104159,
+      "num": 100322,
+      "word": "吉克隽逸看完张艺兴发九宫格live图",
+      "onboard_time": 1759808240,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 103256,
@@ -723,6 +803,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95431,
+      "num": 106168,
+      "word": "泰国黄金大劫案",
+      "onboard_time": 1759807821,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 94511,
+      "num": 94511,
+      "word": "南方多地将热到38摄氏度",
+      "onboard_time": 1759806680,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94293,
       "num": 144816,
       "word": "韩国疗养院给老人服用大量安眠药",
@@ -771,20 +867,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91153,
+      "num": 91153,
+      "word": "有这样的领导你都回不了家",
+      "onboard_time": 1759808302,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87117,
       "num": 87117,
       "word": "费玉清经纪人严正声明",
       "onboard_time": 1759790235,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 86240,
-      "num": 86240,
-      "word": "南方多地将热到38摄氏度",
-      "onboard_time": 1759806680,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85540,
@@ -881,6 +977,14 @@
       "onboard_time": 1759801579,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 73240,
+      "num": 93978,
+      "word": "曝S15陪练团中单",
+      "onboard_time": 1759806861,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 72964,
@@ -1051,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29590,
+      "num": 508657,
+      "word": "拍完你的拍你的",
+      "onboard_time": 1759795398,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29150,
       "num": 27856,
       "word": "张艺兴五巡闹天宫",
@@ -1134,6 +1246,9 @@
   "hotgov_list": [
     {
       "word": "#中秋佳节聆听总书记的温暖话语#"
+    },
+    {
+      "word": "#文脉华章#"
     }
   ]
 }

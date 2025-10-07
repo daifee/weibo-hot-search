@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759806723263,
+  "endTime": 1759808330709,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -585,6 +585,14 @@
       "onboard_time": 1759744100,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1057563,
+      "num": 207610,
+      "word": "刘涛女儿居然马上要读大学了",
+      "onboard_time": 1759805060,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1055083,
@@ -2203,6 +2211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 522243,
+      "num": 236957,
+      "word": "台媒曝黄子佼肇事逃逸",
+      "onboard_time": 1759806081,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 521512,
       "num": 521512,
       "word": "不旅游就等于浪费假期吗",
@@ -2241,6 +2257,14 @@
       "onboard_time": 1759375580,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 516954,
+      "num": 206233,
+      "word": "战沁",
+      "onboard_time": 1759806799,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 516815,
@@ -2515,14 +2539,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 478548,
-      "num": 187175,
-      "word": "刘涛女儿居然马上要读大学了",
-      "onboard_time": 1759805060,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 477899,
       "num": 248818,
       "word": "时代少年团高会直播",
@@ -2553,6 +2569,14 @@
       "onboard_time": 1759243522,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 474877,
+      "num": 474877,
+      "word": "德国提议将退休年龄提高至73岁",
+      "onboard_time": 1759802539,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 474857,
@@ -2787,6 +2811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 440219,
+      "num": 250323,
+      "word": "黄磊处处被贴脸开大",
+      "onboard_time": 1759804579,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 438654,
       "num": 438654,
       "word": "山西婚礼要在下水道井盖贴喜字",
@@ -2905,6 +2937,14 @@
       "onboard_time": 1759751723,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421782,
+      "num": 421782,
+      "word": "每天喝茶vs每天喝咖啡",
+      "onboard_time": 1759802119,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 421267,
@@ -3177,14 +3217,6 @@
       "onboard_time": 1759744281,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 384504,
-      "num": 384504,
-      "word": "每天喝茶vs每天喝咖啡",
-      "onboard_time": 1759802119,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 382617,
@@ -3555,6 +3587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351710,
+      "num": 186777,
+      "word": "猴子被游客扇巴掌",
+      "onboard_time": 1759805659,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 350271,
       "num": 231989,
       "word": "短剧太奶奶3有自己的道明寺",
@@ -3648,14 +3688,6 @@
       "word": "我家那闺女",
       "onboard_time": 1759642401,
       "rank": 24,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 344368,
-      "num": 250323,
-      "word": "黄磊处处被贴脸开大",
-      "onboard_time": 1759804579,
-      "rank": 14,
       "category": "综艺"
     },
     {
@@ -3827,14 +3859,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 330523,
-      "num": 330523,
-      "word": "德国提议将退休年龄提高至73岁",
-      "onboard_time": 1759802539,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 330297,
       "num": 330297,
       "word": "美军开始焦虑",
@@ -3848,14 +3872,6 @@
       "word": "王乐晨",
       "onboard_time": 1759369339,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 324410,
-      "num": 236957,
-      "word": "台媒曝黄子佼肇事逃逸",
-      "onboard_time": 1759806081,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -4649,14 +4665,6 @@
       "onboard_time": 1759475001,
       "rank": 20,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 275778,
-      "num": 184381,
-      "word": "猴子被游客扇巴掌",
-      "onboard_time": 1759805659,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 275655,
@@ -6243,6 +6251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 205117,
+      "num": 205117,
+      "word": "赵磊说和qko在一起十年了",
+      "onboard_time": 1759807941,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204834,
       "num": 165788,
       "word": "网红赤木刚宪爆改许妍",
@@ -7187,6 +7203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184221,
+      "num": 184221,
+      "word": "鸡排哥10月9日休息",
+      "onboard_time": 1759807461,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184217,
       "num": 156004,
       "word": "赵磊上婚综前和qko冷战",
@@ -7585,6 +7609,14 @@
       "onboard_time": 1759586661,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177265,
+      "num": 177265,
+      "word": "应鹏去世",
+      "onboard_time": 1759808302,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 177127,
@@ -8449,6 +8481,14 @@
       "onboard_time": 1759329562,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162289,
+      "num": 162289,
+      "word": "谢娜曾让团队不要声张主持央视秋晚",
+      "onboard_time": 1759807161,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 161870,
@@ -12779,6 +12819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113018,
+      "num": 113018,
+      "word": "13岁国乒小将有孙颖莎和樊振东的影子",
+      "onboard_time": 1759807761,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112980,
       "num": 112980,
       "word": "华晨宇直播",
@@ -13315,6 +13363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109827,
+      "num": 109827,
+      "word": "请作者们不要再疯狂的描写外貌了",
+      "onboard_time": 1759807579,
+      "rank": 36,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 109818,
       "num": 109818,
       "word": "华晨宇南京站路人观感",
@@ -13457,6 +13513,14 @@
       "onboard_time": 1759474340,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 108883,
+      "num": 108883,
+      "word": "这是反诈版中秋赏月吧",
+      "onboard_time": 1759807702,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108828,
@@ -14297,6 +14361,14 @@
       "onboard_time": 1759763961,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104159,
+      "num": 100322,
+      "word": "吉克隽逸看完张艺兴发九宫格live图",
+      "onboard_time": 1759808240,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 104098,
@@ -15691,6 +15763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95431,
+      "num": 106168,
+      "word": "泰国黄金大劫案",
+      "onboard_time": 1759807821,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 95413,
       "num": 95413,
       "word": "影视飓风1200万粉丝Q&A",
@@ -15801,6 +15881,14 @@
       "onboard_time": 1759273878,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 94511,
+      "num": 94511,
+      "word": "南方多地将热到38摄氏度",
+      "onboard_time": 1759806680,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94332,
@@ -16281,6 +16369,14 @@
       "onboard_time": 1759562902,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 91153,
+      "num": 91153,
+      "word": "有这样的领导你都回不了家",
+      "onboard_time": 1759808302,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 91103,
@@ -16937,14 +17033,6 @@
       "onboard_time": 1759236802,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86240,
-      "num": 86240,
-      "word": "南方多地将热到38摄氏度",
-      "onboard_time": 1759806680,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86226,
@@ -18329,6 +18417,14 @@
       "onboard_time": 1759549221,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 73240,
+      "num": 93978,
+      "word": "曝S15陪练团中单",
+      "onboard_time": 1759806861,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 73194,
@@ -20507,6 +20603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29590,
+      "num": 508657,
+      "word": "拍完你的拍你的",
+      "onboard_time": 1759795398,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29519,
       "num": 111484,
       "word": "刘宇演唱会上海站官宣",
@@ -21308,6 +21412,9 @@
     },
     {
       "word": "#聆听习近平总书记的温暖祝福#"
+    },
+    {
+      "word": "#文脉华章#"
     }
   ]
 }
