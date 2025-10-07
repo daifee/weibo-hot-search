@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759875789354,
+  "endTime": 1759876769660,
   "band_list": [
     {
       "raw_hot": 1099261,
@@ -131,8 +131,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166931,
-      "num": 166931,
+      "raw_hot": 173159,
+      "num": 173159,
       "word": "终于知道为什么妈妈老开我房门了",
       "onboard_time": 1759850362,
       "rank": 21,
@@ -171,20 +171,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 137429,
+      "num": 130807,
+      "word": "老婆回应与张纪中的婚姻没有爱情",
+      "onboard_time": 1759842984,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134973,
       "num": 134973,
       "word": "亲历者称冰岛侧翻大巴上多名中国人",
       "onboard_time": 1759845383,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 130807,
-      "num": 130807,
-      "word": "老婆回应与张纪中的婚姻没有爱情",
-      "onboard_time": 1759842984,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 130263,
@@ -209,6 +209,14 @@
       "onboard_time": 1759834161,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111325,
+      "num": 115630,
+      "word": "杜海涛到了伦敦冒充王嘉尔",
+      "onboard_time": 1759841845,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 90847,
@@ -243,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78114,
+      "num": 115691,
+      "word": "马主回应70多匹马下山时被绑前腿",
+      "onboard_time": 1759852822,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76358,
       "num": 115722,
       "word": "被赵今麦美到了",
@@ -259,14 +275,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 74789,
-      "num": 115691,
-      "word": "马主回应70多匹马下山时被绑前腿",
-      "onboard_time": 1759852822,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 71411,
       "num": 115692,
       "word": "小狗沐浴的当晚可以在床上睡觉",
@@ -281,14 +289,6 @@
       "onboard_time": 1759854859,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67923,
-      "num": 115630,
-      "word": "杜海涛到了伦敦冒充王嘉尔",
-      "onboard_time": 1759841845,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 66638,
@@ -443,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33970,
+      "num": 36919,
+      "word": "女方父亲回应悔婚退彩礼扣3万拥抱费",
+      "onboard_time": 1759863314,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32158,
       "num": 69439,
       "word": "我还记得第一天放假我心是怎样波动",
@@ -475,12 +483,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 24785,
-      "num": 36919,
-      "word": "女方父亲回应悔婚退彩礼扣3万拥抱费",
-      "onboard_time": 1759863314,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 21586,
+      "num": 24984,
+      "word": "田曦薇赶海",
+      "onboard_time": 1759872853,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 21461,
@@ -499,6 +507,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 17924,
+      "num": 28111,
+      "word": "中国央行连续第11个月增持黄金",
+      "onboard_time": 1759869074,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 16959,
       "num": 28185,
       "word": "我不想听到8这个字",
@@ -513,14 +529,6 @@
       "onboard_time": 1759822521,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 16353,
-      "num": 20166,
-      "word": "田曦薇赶海",
-      "onboard_time": 1759872853,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 16339,
@@ -539,20 +547,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15635,
-      "num": 28111,
-      "word": "中国央行连续第11个月增持黄金",
-      "onboard_time": 1759869074,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 14270,
       "num": 36439,
       "word": "檀健次李淇松领带的含义",
       "onboard_time": 1759864814,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 12371,
+      "num": 24969,
+      "word": "南通队带刀后卫进球",
+      "onboard_time": 1759875196,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 11437,
