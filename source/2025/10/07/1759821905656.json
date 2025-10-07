@@ -1,0 +1,410 @@
+{
+  "runTime": 1759821905656,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 642658,
+        "num": 1102825,
+        "word": "两个菜661元商家退款400元",
+        "onboard_time": 1759816401,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370639,
+        "num": 370639,
+        "word": "环保少女称种族灭绝正在发生",
+        "onboard_time": 1759815800,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43141,
+        "num": 266167,
+        "word": "拍完你的拍你的",
+        "onboard_time": 1759795398,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229489,
+        "num": 229489,
+        "word": "每天喝茶vs每天喝咖啡",
+        "onboard_time": 1759802119,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191777,
+        "num": 191777,
+        "word": "环保少女承认遭以方虐待",
+        "onboard_time": 1759819519,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181062,
+        "num": 181062,
+        "word": "以色列宣布驱逐环保少女等171人",
+        "onboard_time": 1759818621,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174068,
+        "num": 174068,
+        "word": "校方就家长跪地被学生轮流踩踏道歉",
+        "onboard_time": 1759819641,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162687,
+        "num": 162687,
+        "word": "环保少女抵达希腊数百人欢迎",
+        "onboard_time": 1759813822,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162249,
+        "num": 162249,
+        "word": "台当局官员看到花莲洪灾大声讪笑",
+        "onboard_time": 1759818861,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145966,
+        "num": 145966,
+        "word": "steam崩了",
+        "onboard_time": 1759817482,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 772338,
+        "num": 145938,
+        "word": "刘雯和井柏然祝大家中秋快乐",
+        "onboard_time": 1759816221,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 687168,
+        "num": 145671,
+        "word": "杨幂去了龙井日本遗址博物馆",
+        "onboard_time": 1759816341,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519370,
+        "num": 145388,
+        "word": "刘涛女儿居然马上要读大学了",
+        "onboard_time": 1759805060,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487944,
+        "num": 145033,
+        "word": "miumiu 好多围裙",
+        "onboard_time": 1759819519,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 324497,
+        "num": 144755,
+        "word": "李沁的人脉",
+        "onboard_time": 1759809380,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316127,
+        "num": 144682,
+        "word": "六个月瘦55斤的面部变化",
+        "onboard_time": 1759815022,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284772,
+        "num": 144441,
+        "word": "成毅罗云熙新剧对打",
+        "onboard_time": 1759820660,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284740,
+        "num": 144172,
+        "word": "刘涛 不重要我买单",
+        "onboard_time": 1759814481,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267072,
+        "num": 143868,
+        "word": "奥斯卡孙乐言 现实版许我耀眼",
+        "onboard_time": 1759809679,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253018,
+        "num": 143500,
+        "word": "战沁",
+        "onboard_time": 1759806799,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315004,
+        "num": 143220,
+        "word": "金价",
+        "onboard_time": 1759803860,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 239943,
+        "num": 143056,
+        "word": "应鹏去世",
+        "onboard_time": 1759808302,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198728,
+        "num": 142865,
+        "word": "大家上班一定要打扮自己",
+        "onboard_time": 1759802060,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196076,
+        "num": 142553,
+        "word": "明星接受采访不要穿橙色",
+        "onboard_time": 1759817420,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190151,
+        "num": 142260,
+        "word": "港媒曝歌手关淑怡病危",
+        "onboard_time": 1759813941,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172008,
+        "num": 141971,
+        "word": "黄晓明公司艺人名单有陈梦",
+        "onboard_time": 1759811121,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 165079,
+        "num": 141735,
+        "word": "赵磊说和qko在一起十年了",
+        "onboard_time": 1759807941,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152420,
+        "num": 141494,
+        "word": "曹颖吃了20多年抗焦虑药",
+        "onboard_time": 1759816640,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141425,
+        "num": 141425,
+        "word": "你要的中秋月亮美图来了",
+        "onboard_time": 1759821441,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114267,
+        "num": 141349,
+        "word": "景区回应仙女散的是假花",
+        "onboard_time": 1759800140,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141342,
+        "num": 141342,
+        "word": "深圳水贝黄金料商跑路潮",
+        "onboard_time": 1759817659,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139108,
+        "num": 139108,
+        "word": "白鹿 拒绝容貌焦虑",
+        "onboard_time": 1759816221,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90935,
+        "num": 129841,
+        "word": "香港18岁毒贩就医时戴铐逃脱",
+        "onboard_time": 1759820062,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123283,
+        "num": 123283,
+        "word": "穆祉丞手写信",
+        "onboard_time": 1759817360,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112598,
+        "num": 112598,
+        "word": "谁都想当哪吒最后却难免成为赤发鬼",
+        "onboard_time": 1759821081,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108041,
+        "num": 108041,
+        "word": "王一博也唱过枯木逢春的歌",
+        "onboard_time": 1759821441,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107376,
+        "num": 107376,
+        "word": "高速路突现一行人司机吓到尖叫",
+        "onboard_time": 1759817960,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104724,
+        "num": 104724,
+        "word": "返程堵车",
+        "onboard_time": 1759820839,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103019,
+        "num": 103019,
+        "word": "假期还有最后2天",
+        "onboard_time": 1759798699,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25722,
+        "num": 102619,
+        "word": "颜安这是录了爸爸去哪儿",
+        "onboard_time": 1759821139,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101008,
+        "num": 102497,
+        "word": "这些症状或是身体已出现慢性炎症",
+        "onboard_time": 1759814421,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102457,
+        "num": 102457,
+        "word": "管乐送蒋一侨礼物写错名字",
+        "onboard_time": 1759820901,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102155,
+        "num": 102155,
+        "word": "刘浩存走路美成这样",
+        "onboard_time": 1759819461,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98071,
+        "num": 98071,
+        "word": "现在就出发",
+        "onboard_time": 1759816101,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96980,
+        "num": 96980,
+        "word": "王一博破个人最快圈速记录",
+        "onboard_time": 1759817842,
+        "rank": 44,
+        "category": "体育,体育"
+      },
+      {
+        "raw_hot": 95749,
+        "num": 95749,
+        "word": "男子旅游点两个菜661元后续",
+        "onboard_time": 1759821501,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94294,
+        "num": 94294,
+        "word": "NANA联动西太后",
+        "onboard_time": 1759821742,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 90029,
+        "num": 90029,
+        "word": "李沁感谢战哥期待少白",
+        "onboard_time": 1759817779,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86870,
+        "num": 86870,
+        "word": "谢娜一听到张杰名字就害羞了",
+        "onboard_time": 1759817659,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86772,
+        "num": 86772,
+        "word": "聋人新婚夫妇的接亲",
+        "onboard_time": 1759821861,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

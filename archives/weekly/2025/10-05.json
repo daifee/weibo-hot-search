@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759819784398,
+  "endTime": 1759821905656,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -571,6 +571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 687168,
+      "num": 206007,
+      "word": "杨幂去了龙井日本遗址博物馆",
+      "onboard_time": 1759816341,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 685154,
       "num": 685154,
       "word": "王楚钦中国大满贯后发文",
@@ -635,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 642658,
+      "num": 1102825,
+      "word": "两个菜661元商家退款400元",
+      "onboard_time": 1759816401,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 640017,
       "num": 250882,
       "word": "素颜的刘浩存赵今麦李庚希",
@@ -665,14 +681,6 @@
       "onboard_time": 1759652900,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 620744,
-      "num": 206007,
-      "word": "杨幂去了龙井日本遗址博物馆",
-      "onboard_time": 1759816341,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 620276,
@@ -969,6 +977,14 @@
       "onboard_time": 1759590682,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 487944,
+      "num": 191644,
+      "word": "miumiu 好多围裙",
+      "onboard_time": 1759819519,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 482525,
@@ -1371,8 +1387,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 368916,
-      "num": 368916,
+      "raw_hot": 370639,
+      "num": 370639,
       "word": "环保少女称种族灭绝正在发生",
       "onboard_time": 1759815800,
       "rank": 3,
@@ -1843,6 +1859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 284772,
+      "num": 144441,
+      "word": "成毅罗云熙新剧对打",
+      "onboard_time": 1759820660,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284196,
       "num": 284196,
       "word": "苏超",
@@ -2137,14 +2161,6 @@
       "onboard_time": 1759621337,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 242591,
-      "num": 242591,
-      "word": "两个菜661元商家退款400元",
-      "onboard_time": 1759816401,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 240484,
@@ -2555,14 +2571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202113,
-      "num": 191644,
-      "word": "miumiu 好多围裙",
-      "onboard_time": 1759819519,
-      "rank": 30,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 201410,
       "num": 152440,
       "word": "恋与深空",
@@ -2673,6 +2681,14 @@
       "onboard_time": 1759706777,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196076,
+      "num": 167370,
+      "word": "明星接受采访不要穿橙色",
+      "onboard_time": 1759817420,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 195953,
@@ -2793,6 +2809,14 @@
       "onboard_time": 1759776555,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191777,
+      "num": 200841,
+      "word": "环保少女承认遭以方虐待",
+      "onboard_time": 1759819519,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 191362,
@@ -3043,6 +3067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181062,
+      "num": 210252,
+      "word": "以色列宣布驱逐环保少女等171人",
+      "onboard_time": 1759818621,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 180485,
       "num": 180485,
       "word": "拉塞尔夺F1新加坡站冠军",
@@ -3251,6 +3283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174068,
+      "num": 197561,
+      "word": "校方就家长跪地被学生轮流踩踏道歉",
+      "onboard_time": 1759819641,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173925,
       "num": 173925,
       "word": "低估了回眸杀的含金量",
@@ -3395,14 +3435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169659,
-      "num": 210252,
-      "word": "以色列宣布驱逐环保少女等171人",
-      "onboard_time": 1759818621,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 169610,
       "num": 149417,
       "word": "王楚钦孙颖莎扔花致谢球迷",
@@ -3457,14 +3489,6 @@
       "onboard_time": 1759792876,
       "rank": 46,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 167370,
-      "num": 167370,
-      "word": "明星接受采访不要穿橙色",
-      "onboard_time": 1759817420,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 166820,
@@ -3561,6 +3585,14 @@
       "onboard_time": 1759807161,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162249,
+      "num": 200960,
+      "word": "台当局官员看到花莲洪灾大声讪笑",
+      "onboard_time": 1759818861,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161870,
@@ -4145,6 +4177,14 @@
       "onboard_time": 1759718360,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141425,
+      "num": 141425,
+      "word": "你要的中秋月亮美图来了",
+      "onboard_time": 1759821441,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141048,
@@ -5395,6 +5435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112598,
+      "num": 112598,
+      "word": "谁都想当哪吒最后却难免成为赤发鬼",
+      "onboard_time": 1759821081,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112451,
       "num": 112451,
       "word": "张小斐 我的大明星女友",
@@ -5755,6 +5803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108041,
+      "num": 108041,
+      "word": "王一博也唱过枯木逢春的歌",
+      "onboard_time": 1759821441,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 107527,
       "num": 107527,
       "word": "成毅落魄太子造型",
@@ -5923,6 +5979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104724,
+      "num": 104724,
+      "word": "返程堵车",
+      "onboard_time": 1759820839,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104698,
       "num": 104698,
       "word": "周深天津这地方情况太复杂了",
@@ -6083,6 +6147,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 102457,
+      "num": 102457,
+      "word": "管乐送蒋一侨礼物写错名字",
+      "onboard_time": 1759820901,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102446,
       "num": 102446,
       "word": "湖人vs勇士",
@@ -6097,6 +6169,14 @@
       "onboard_time": 1759724121,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102155,
+      "num": 145948,
+      "word": "刘浩存走路美成这样",
+      "onboard_time": 1759819461,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 101981,
@@ -6515,6 +6595,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 95749,
+      "num": 95749,
+      "word": "男子旅游点两个菜661元后续",
+      "onboard_time": 1759821501,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95133,
       "num": 95133,
       "word": "王楚钦太坚定了",
@@ -6537,6 +6625,14 @@
       "onboard_time": 1759806680,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94294,
+      "num": 94294,
+      "word": "NANA联动西太后",
+      "onboard_time": 1759821742,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 94228,
@@ -6659,14 +6755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92899,
-      "num": 197561,
-      "word": "校方就家长跪地被学生轮流踩踏道歉",
-      "onboard_time": 1759819641,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 92642,
       "num": 92642,
       "word": "学医的人是最适合玩剧本杀的",
@@ -6707,14 +6795,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 91912,
-      "num": 200960,
-      "word": "台当局官员看到花莲洪灾大声讪笑",
-      "onboard_time": 1759818861,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91791,
       "num": 86181,
       "word": "肖战工作室仪式感",
@@ -6745,6 +6825,14 @@
       "onboard_time": 1759645460,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90935,
+      "num": 129841,
+      "word": "香港18岁毒贩就医时戴铐逃脱",
+      "onboard_time": 1759820062,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90914,
@@ -7001,6 +7089,14 @@
       "onboard_time": 1759736482,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 86772,
+      "num": 86772,
+      "word": "聋人新婚夫妇的接亲",
+      "onboard_time": 1759821861,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 85766,
@@ -7675,14 +7771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 58954,
-      "num": 200841,
-      "word": "环保少女承认遭以方虐待",
-      "onboard_time": 1759819519,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 58573,
       "num": 81783,
       "word": "刘震云河南野生代言人",
@@ -8299,20 +8387,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25722,
+      "num": 102619,
+      "word": "颜安这是录了爸爸去哪儿",
+      "onboard_time": 1759821139,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 25185,
       "num": 181228,
       "word": "张馨予下雨天收到女孩留的伞",
       "onboard_time": 1759645701,
       "rank": 19,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 24243,
-      "num": 145948,
-      "word": "刘浩存走路美成这样",
-      "onboard_time": 1759819461,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 24190,

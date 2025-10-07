@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 14:49:44
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 15:25:05
 </p>
 </blockquote>
 <p>
@@ -1101,6 +1101,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%8E%BB%E4%BA%86%E9%BE%99%E4%BA%95%E6%97%A5%E6%9C%AC%E9%81%97%E5%9D%80%E5%8D%9A%E7%89%A9%E9%A6%86%23" target="weibo">
+杨幂去了龙井日本遗址博物馆（热度：687168）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E8%AF%B4%E7%94%B7%E4%BA%BA%E5%88%86%E6%89%8B%E5%BE%88%E5%BF%AB%E4%BC%9A%E6%89%BE%E5%88%B0%E4%B8%8B%E4%B8%80%E4%B8%AA%23" target="weibo">
 董璇说男人分手很快会找到下一个（热度：686320）
 </a>
@@ -1263,6 +1269,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E8%8F%9C661%E5%85%83%E5%95%86%E5%AE%B6%E9%80%80%E6%AC%BE400%E5%85%83%23" target="weibo">
+两个菜661元商家退款400元（热度：642658）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B4%A0%E9%A2%9C%E7%9A%84%E5%88%98%E6%B5%A9%E5%AD%98%E8%B5%B5%E4%BB%8A%E9%BA%A6%E6%9D%8E%E5%BA%9A%E5%B8%8C%23" target="weibo">
 素颜的刘浩存赵今麦李庚希（热度：640017）
 </a>
@@ -1325,12 +1337,6 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B8%BA%E9%B8%A1%E6%8E%92%E5%93%A5%E7%9A%84%E7%94%A8%E6%B2%B9%E5%90%B5%E7%BF%BB%E4%BA%86%E5%A4%A9%23" target="weibo">
 网友为鸡排哥的用油吵翻了天（热度：623863）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%8E%BB%E4%BA%86%E9%BE%99%E4%BA%95%E6%97%A5%E6%9C%AC%E9%81%97%E5%9D%80%E5%8D%9A%E7%89%A9%E9%A6%86%23" target="weibo">
-杨幂去了龙井日本遗址博物馆（热度：620744）
 </a>
 </li>
 
@@ -1925,6 +1931,12 @@ hi6（热度：563954）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E7%9A%84%E8%84%B8%23" target="weibo">
 戚薇的脸（热度：488328）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23miumiu%20%E5%A5%BD%E5%A4%9A%E5%9B%B4%E8%A3%99%23" target="weibo">
+miumiu 好多围裙（热度：487944）
 </a>
 </li>
 
@@ -2643,6 +2655,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E7%A7%B0%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D%E6%AD%A3%E5%9C%A8%E5%8F%91%E7%94%9F%23" target="weibo">
+环保少女称种族灭绝正在发生（热度：370639）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%23" target="weibo">
 王曼昱vs张本美和（热度：370468）
 </a>
@@ -2657,12 +2675,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%A4%AB%E5%A6%BBkisskiss%E5%81%87%E5%A4%AB%E5%A6%BBkillkill%23" target="weibo">
 真夫妻kisskiss假夫妻killkill（热度：369037）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E7%A7%B0%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D%E6%AD%A3%E5%9C%A8%E5%8F%91%E7%94%9F%23" target="weibo">
-环保少女称种族灭绝正在发生（热度：368916）
 </a>
 </li>
 
@@ -3471,6 +3483,12 @@ JDG对战DK（热度：286717）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E7%BD%97%E4%BA%91%E7%86%99%E6%96%B0%E5%89%A7%E5%AF%B9%E6%89%93%23" target="weibo">
+成毅罗云熙新剧对打（热度：284772）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%AD%8F%E6%B4%B2%E8%A2%ABcpf%E8%B4%B4%E8%84%B8%23" target="weibo">
 许魏洲被cpf贴脸（热度：284700）
 </a>
@@ -4025,12 +4043,6 @@ hi6收视率排名第一（热度：245066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%94%B7%E5%AD%A9%E6%9E%AA%E6%9D%804%E5%90%8D%E4%BA%B2%E4%BA%BA%E8%A2%AB%E5%88%A4100%E5%B9%B4%23" target="weibo">
 巴基斯坦男孩枪杀4名亲人被判100年（热度：244766）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E8%8F%9C661%E5%85%83%E5%95%86%E5%AE%B6%E9%80%80%E6%AC%BE400%E5%85%83%23" target="weibo">
-两个菜661元商家退款400元（热度：242591）
 </a>
 </li>
 
@@ -4893,12 +4905,6 @@ TTG战胜TES（热度：206119）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23miumiu%20%E5%A5%BD%E5%A4%9A%E5%9B%B4%E8%A3%99%23" target="weibo">
-miumiu 好多围裙（热度：202113）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%BB%88%E4%BA%8E%E5%94%B1%E4%BA%86%E5%BF%BD%E7%84%B6%E4%B9%8B%E9%97%B4%23" target="weibo">
 张杰终于唱了忽然之间（热度：201920）
 </a>
@@ -5139,6 +5145,12 @@ AG战胜RW（热度：199437）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%9F%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF%E4%B8%8D%E8%A6%81%E7%A9%BF%E6%A9%99%E8%89%B2%23" target="weibo">
+明星接受采访不要穿橙色（热度：196076）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%98%91%E8%8F%87%23" target="weibo">
 小蘑菇（热度：196004）
 </a>
@@ -5315,6 +5327,12 @@ LOEWE眼光 惠英红就是奢侈品（热度：192315）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E7%94%B7%E4%B8%BB%E5%87%BA%E5%9C%BA%E4%B8%89%E9%9B%86%E5%B0%B1%E8%AF%B4%E5%8D%81%E5%8F%A5%23" target="weibo">
 谁家男主出场三集就说十句（热度：191793）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E6%89%BF%E8%AE%A4%E9%81%AD%E4%BB%A5%E6%96%B9%E8%99%90%E5%BE%85%23" target="weibo">
+环保少女承认遭以方虐待（热度：191777）
 </a>
 </li>
 
@@ -5739,6 +5757,12 @@ AG对战JDG（热度：181803）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E9%A9%B1%E9%80%90%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E7%AD%89171%E4%BA%BA%23" target="weibo">
+以色列宣布驱逐环保少女等171人（热度：181062）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AC%91%E9%9A%8F%E6%AD%8C%E7%83%AD%E5%BA%A6%23" target="weibo">
 一笑随歌热度（热度：180487）
 </a>
@@ -5987,30 +6011,6 @@ AG对战JDG（热度：181803）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E5%A5%B3%E7%94%9F%E4%B8%89%E5%88%86%E9%92%9F%E5%8F%91%E8%A8%80%E6%AA%80%E5%81%A5%E6%AC%A1%E5%90%AC%E5%85%A5%E7%A5%9E%E4%BA%86%23" target="weibo">
 北大女生三分钟发言檀健次听入神了（热度：174679）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E8%87%AA%E7%94%B1%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-穆祉丞自由演唱会（热度：174327）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%8E%E4%BC%B0%E4%BA%86%E5%9B%9E%E7%9C%B8%E6%9D%80%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%23" target="weibo">
-低估了回眸杀的含金量（热度：173925）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%20%E9%87%91%E9%B8%A1%E7%A9%BF%E8%BF%99%E4%B8%AA%E5%BE%88colorful%23" target="weibo">
-惠英红 金鸡穿这个很colorful（热度：173924）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%BF%99%E5%9B%9E%E8%87%AA%E6%8B%8D%E5%8F%AA%E8%83%BD%E8%87%AA%E5%B7%B1%E6%8E%8C%E9%95%9C%E4%BA%86%23" target="weibo">
-王楚钦这回自拍只能自己掌镜了（热度：173502）
 </a>
 </li>
 
