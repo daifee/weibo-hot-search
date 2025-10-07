@@ -1,0 +1,410 @@
+{
+  "runTime": 1759826035443,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 600490,
+        "num": 1096078,
+        "word": "两个菜661元商家退款400元",
+        "onboard_time": 1759816401,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 427098,
+        "num": 427098,
+        "word": "预制甜品已进化到不知天地为何物了",
+        "onboard_time": 1759822160,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 38248,
+        "num": 410883,
+        "word": "拍完你的拍你的",
+        "onboard_time": 1759795398,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409335,
+        "num": 409335,
+        "word": "返程堵车",
+        "onboard_time": 1759820839,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319354,
+        "num": 319354,
+        "word": "校方就家长跪地被学生轮流踩踏道歉",
+        "onboard_time": 1759819641,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260221,
+        "num": 260221,
+        "word": "环保少女承认遭以方虐待",
+        "onboard_time": 1759819519,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180321,
+        "num": 180321,
+        "word": "驻韩美军试图威慑中国",
+        "onboard_time": 1759822521,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167434,
+        "num": 167434,
+        "word": "环保少女称种族灭绝正在发生",
+        "onboard_time": 1759815800,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128495,
+        "num": 167171,
+        "word": "台当局官员看到花莲洪灾大声讪笑",
+        "onboard_time": 1759818861,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125699,
+        "num": 166757,
+        "word": "你要的中秋月亮美图来了",
+        "onboard_time": 1759821441,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600522,
+        "num": 166327,
+        "word": "明星接受采访不要穿橙色",
+        "onboard_time": 1759817420,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 481029,
+        "num": 165923,
+        "word": "TF四代出道团成员由公司自主决定",
+        "onboard_time": 1759824800,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 434479,
+        "num": 165244,
+        "word": "杨幂去了龙井日本遗址博物馆",
+        "onboard_time": 1759816341,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424696,
+        "num": 164815,
+        "word": "刘雯和井柏然祝大家中秋快乐",
+        "onboard_time": 1759816221,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360770,
+        "num": 164414,
+        "word": "刘涛女儿居然马上要读大学了",
+        "onboard_time": 1759805060,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295458,
+        "num": 163996,
+        "word": "赵磊十年前才16岁",
+        "onboard_time": 1759822521,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242113,
+        "num": 163358,
+        "word": "miumiu 好多围裙",
+        "onboard_time": 1759819519,
+        "rank": 16,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 221773,
+        "num": 163158,
+        "word": "李沁的人脉",
+        "onboard_time": 1759809380,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169660,
+        "num": 162751,
+        "word": "时代少年团高鼻梁这一块",
+        "onboard_time": 1759825160,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162372,
+        "num": 162372,
+        "word": "张艺兴彩排直播",
+        "onboard_time": 1759823660,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 442684,
+        "num": 162019,
+        "word": "姐姐失踪4年被发现时已成干尸",
+        "onboard_time": 1759823422,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224190,
+        "num": 161628,
+        "word": "何晟铭翻红后第一件事",
+        "onboard_time": 1759824079,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161233,
+        "num": 161233,
+        "word": "中国游客 泡发的木耳",
+        "onboard_time": 1759823481,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138065,
+        "num": 138065,
+        "word": "华晨宇2天带动南京汤山21.3万游客量",
+        "onboard_time": 1759824981,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148552,
+        "num": 137118,
+        "word": "王迅晒照为张艺兴庆生",
+        "onboard_time": 1759823840,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130935,
+        "num": 130935,
+        "word": "六个月瘦55斤的面部变化",
+        "onboard_time": 1759815022,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11721,
+        "num": 124467,
+        "word": "150斤男生下床抵门被风掀开四五次",
+        "onboard_time": 1759825880,
+        "rank": 26,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 123844,
+        "num": 123844,
+        "word": "女子路中央拦车被其母一掌打碎眼镜",
+        "onboard_time": 1759825761,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117608,
+        "num": 117608,
+        "word": "奥斯卡孙乐言 现实版许我耀眼",
+        "onboard_time": 1759809679,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115673,
+        "num": 115673,
+        "word": "刘子晗孙涵清这就是生理性喜欢吧",
+        "onboard_time": 1759824439,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114852,
+        "num": 114852,
+        "word": "年轻人结婚不能太平平无奇",
+        "onboard_time": 1759822641,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111854,
+        "num": 111854,
+        "word": "特朗普称环保少女太疯狂该去看病",
+        "onboard_time": 1759825641,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109803,
+        "num": 111054,
+        "word": "黄晓明公司艺人名单有陈梦",
+        "onboard_time": 1759811121,
+        "rank": 32,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 91048,
+        "num": 110818,
+        "word": "哭闹宝宝被家长举起后秒变脸",
+        "onboard_time": 1759823000,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110765,
+        "num": 110765,
+        "word": "赵磊说和qko在一起十年了",
+        "onboard_time": 1759807941,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110390,
+        "num": 110390,
+        "word": "白鹿 拒绝容貌焦虑",
+        "onboard_time": 1759816221,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107243,
+        "num": 107243,
+        "word": "战沁",
+        "onboard_time": 1759806799,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105127,
+        "num": 105127,
+        "word": "应鹏去世",
+        "onboard_time": 1759808302,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22808,
+        "num": 102756,
+        "word": "学生踩踏家长闹剧缘何上演",
+        "onboard_time": 1759825519,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24071,
+        "num": 102601,
+        "word": "潘玮柏女儿也是个小吃货",
+        "onboard_time": 1759825341,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102538,
+        "num": 102538,
+        "word": "谁家女主结婚当天就想守寡",
+        "onboard_time": 1759825461,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100293,
+        "num": 100293,
+        "word": "冯建宇巴黎时装周造型图",
+        "onboard_time": 1759825880,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97172,
+        "num": 97172,
+        "word": "深圳水贝黄金料商跑路潮",
+        "onboard_time": 1759817659,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95368,
+        "num": 95368,
+        "word": "成毅罗云熙新剧对打",
+        "onboard_time": 1759820660,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93690,
+        "num": 93690,
+        "word": "朱开谈iG训练赛传言",
+        "onboard_time": 1759824621,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88923,
+        "num": 88923,
+        "word": "再赏一次大江南北的中秋月",
+        "onboard_time": 1759822521,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88162,
+        "num": 88162,
+        "word": "以色列宣布驱逐环保少女等171人",
+        "onboard_time": 1759818621,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88078,
+        "num": 88078,
+        "word": "周深 你猜话筒为啥没声",
+        "onboard_time": 1759826000,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79458,
+        "num": 87522,
+        "word": "我们喝的西米到底是哪里来的",
+        "onboard_time": 1759825461,
+        "rank": 48,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 68632,
+        "num": 87442,
+        "word": "国庆情侣出游的真实现状",
+        "onboard_time": 1759824020,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
