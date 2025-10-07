@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759857805662,
+  "endTime": 1759858832238,
   "band_list": [
     {
       "raw_hot": 1099261,
@@ -59,20 +59,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 279434,
+      "num": 279434,
+      "word": "千万别卡点下高速",
+      "onboard_time": 1759854859,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276107,
       "num": 207996,
       "word": "周生辰下时宜了",
       "onboard_time": 1759841603,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 267160,
-      "num": 267160,
-      "word": "千万别卡点下高速",
-      "onboard_time": 1759854859,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 263073,
@@ -259,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73100,
+      "num": 115691,
+      "word": "马主回应70多匹马下山时被绑前腿",
+      "onboard_time": 1759852822,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71411,
       "num": 115692,
       "word": "小狗沐浴的当晚可以在床上睡觉",
@@ -272,14 +280,6 @@
       "word": "假期最后1天迎来寒露",
       "onboard_time": 1759854859,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68226,
-      "num": 115691,
-      "word": "马主回应70多匹马下山时被绑前腿",
-      "onboard_time": 1759852822,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -441,6 +441,14 @@
       "onboard_time": 1759856958,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 31277,
+      "num": 61863,
+      "word": "00后利用办公室午休赚三份工资",
+      "onboard_time": 1759837881,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 29525,
