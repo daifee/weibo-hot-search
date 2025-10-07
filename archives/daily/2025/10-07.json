@@ -1,6 +1,6 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759826035443,
+  "endTime": 1759826797188,
   "band_list": [
     {
       "raw_hot": 1399578,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 610474,
+      "num": 165923,
+      "word": "TF四代出道团成员由公司自主决定",
+      "onboard_time": 1759824800,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 600522,
       "num": 191660,
       "word": "明星接受采访不要穿橙色",
@@ -227,14 +235,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 481029,
-      "num": 165923,
-      "word": "TF四代出道团成员由公司自主决定",
-      "onboard_time": 1759824800,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 476795,
       "num": 204574,
       "word": "港媒曝歌手关淑怡病危",
@@ -257,6 +257,14 @@
       "onboard_time": 1759804579,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 443484,
+      "num": 443484,
+      "word": "预制甜品已进化到不知天地为何物了",
+      "onboard_time": 1759822160,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 442684,
@@ -283,12 +291,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 427098,
-      "num": 427098,
-      "word": "预制甜品已进化到不知天地为何物了",
-      "onboard_time": 1759822160,
-      "rank": 33,
-      "category": "美食"
+      "raw_hot": 431100,
+      "num": 431100,
+      "word": "返程堵车",
+      "onboard_time": 1759820839,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 425582,
@@ -313,14 +321,6 @@
       "onboard_time": 1759761024,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 409335,
-      "num": 409335,
-      "word": "返程堵车",
-      "onboard_time": 1759820839,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 393210,
@@ -387,6 +387,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 337421,
+      "num": 163996,
+      "word": "赵磊十年前才16岁",
+      "onboard_time": 1759822521,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 336772,
       "num": 336772,
       "word": "环保少女抵达希腊数百人欢迎",
@@ -417,14 +425,6 @@
       "onboard_time": 1759752565,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 295458,
-      "num": 163996,
-      "word": "赵磊十年前才16岁",
-      "onboard_time": 1759822521,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 290739,
@@ -473,6 +473,14 @@
       "onboard_time": 1759798940,
       "rank": 13,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 258956,
+      "num": 258956,
+      "word": "中国游客 泡发的木耳",
+      "onboard_time": 1759823481,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 244762,
@@ -579,6 +587,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210707,
+      "num": 127569,
+      "word": "建议大家不要提前买衣服",
+      "onboard_time": 1759825941,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 202915,
+      "num": 159708,
+      "word": "登陆少年不换番",
+      "onboard_time": 1759826242,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200784,
       "num": 200784,
       "word": "范丞丞没有一句台词却哭到崩溃",
@@ -593,6 +617,14 @@
       "onboard_time": 1759755683,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197812,
+      "num": 158968,
+      "word": "穆祉丞哭了",
+      "onboard_time": 1759826059,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 195953,
@@ -643,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192037,
+      "num": 192037,
+      "word": "驻韩美军试图威慑中国",
+      "onboard_time": 1759822521,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 191973,
       "num": 166610,
       "word": "许凯现身机场",
@@ -691,6 +731,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 184913,
+      "num": 158705,
+      "word": "李沁出道以来第一次摇人宣传",
+      "onboard_time": 1759826300,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184151,
       "num": 184151,
       "word": "曹颖吃了20多年抗焦虑药",
@@ -728,14 +776,6 @@
       "word": "以色列宣布驱逐环保少女等171人",
       "onboard_time": 1759818621,
       "rank": 8,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 180321,
-      "num": 180321,
-      "word": "驻韩美军试图威慑中国",
-      "onboard_time": 1759822521,
-      "rank": 41,
       "category": "国际时政"
     },
     {
@@ -851,12 +891,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 167687,
+      "num": 158608,
+      "word": "女子路中央拦车被其母一掌打碎眼镜",
+      "onboard_time": 1759825761,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167454,
       "num": 167454,
       "word": "今年已有多名艺人在景区再就业",
       "onboard_time": 1759792876,
       "rank": 46,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 163742,
+      "num": 191679,
+      "word": "你要的中秋月亮美图来了",
+      "onboard_time": 1759821441,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162372,
@@ -881,14 +937,6 @@
       "onboard_time": 1759817779,
       "rank": 39,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 161233,
-      "num": 161233,
-      "word": "中国游客 泡发的木耳",
-      "onboard_time": 1759823481,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 160752,
@@ -971,20 +1019,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143620,
+      "num": 127204,
+      "word": "2025WTT总决赛最新资格名单",
+      "onboard_time": 1759826242,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141915,
       "num": 141915,
       "word": "北方人解决了中秋节不能吃饺子的难题",
       "onboard_time": 1759801699,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 141425,
-      "num": 191679,
-      "word": "你要的中秋月亮美图来了",
-      "onboard_time": 1759821441,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140250,
@@ -1083,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131905,
+      "num": 131905,
+      "word": "周深 你猜话筒为啥没声",
+      "onboard_time": 1759826000,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128617,
       "num": 145948,
       "word": "刘浩存走路美成这样",
@@ -1139,12 +1195,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123844,
-      "num": 123844,
-      "word": "女子路中央拦车被其母一掌打碎眼镜",
-      "onboard_time": 1759825761,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 123490,
+      "num": 123490,
+      "word": "刘子晗孙涵清这就是生理性喜欢吧",
+      "onboard_time": 1759824439,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 123249,
@@ -1235,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117446,
+      "num": 117446,
+      "word": "雷军 小米17系列首销成绩远超预期",
+      "onboard_time": 1759826360,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 116269,
       "num": 116269,
       "word": "王一博85号痛楼",
@@ -1243,12 +1307,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 115673,
-      "num": 115673,
-      "word": "刘子晗孙涵清这就是生理性喜欢吧",
-      "onboard_time": 1759824439,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 114895,
+      "num": 159427,
+      "word": "150斤男生下床抵门被风掀开四五次",
+      "onboard_time": 1759825880,
+      "rank": 26,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 114852,
@@ -1353,6 +1417,14 @@
       "onboard_time": 1759806680,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111006,
+      "num": 111006,
+      "word": "这种口腔溃疡或是癌症信号",
+      "onboard_time": 1759824621,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 110876,
@@ -1475,8 +1547,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 100293,
-      "num": 100293,
+      "raw_hot": 100498,
+      "num": 100498,
       "word": "冯建宇巴黎时装周造型图",
       "onboard_time": 1759825880,
       "rank": 41,
@@ -1595,6 +1667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94916,
+      "num": 110818,
+      "word": "哭闹宝宝被家长举起后秒变脸",
+      "onboard_time": 1759823000,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94619,
       "num": 94619,
       "word": "南方多地将热到38摄氏度",
@@ -1699,14 +1779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 91048,
-      "num": 110818,
-      "word": "哭闹宝宝被家长举起后秒变脸",
-      "onboard_time": 1759823000,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88549,
       "num": 146937,
       "word": "两个菜收661元餐厅退款400元",
@@ -1715,12 +1787,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88078,
-      "num": 88078,
-      "word": "周深 你猜话筒为啥没声",
-      "onboard_time": 1759826000,
-      "rank": 47,
-      "category": "演出"
+      "raw_hot": 87927,
+      "num": 158868,
+      "word": "李在明不满驻韩美军威慑中国",
+      "onboard_time": 1759826480,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87426,
@@ -1939,6 +2011,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 67210,
+      "num": 102601,
+      "word": "潘玮柏女儿也是个小吃货",
+      "onboard_time": 1759825341,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65495,
       "num": 136839,
       "word": "动物园羊驼被投喂撑到眼睛翻白",
@@ -2009,6 +2089,14 @@
       "onboard_time": 1759769539,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 46852,
+      "num": 100511,
+      "word": "银川夜空现不明发光物",
+      "onboard_time": 1759826480,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46610,
@@ -2099,6 +2187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32961,
+      "num": 100702,
+      "word": "文旅局回应多人挤破音乐节围栏逃票",
+      "onboard_time": 1759826720,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31625,
       "num": 42637,
       "word": "华晨宇对粉丝的爱意",
@@ -2137,14 +2233,6 @@
       "onboard_time": 1759821139,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24071,
-      "num": 102601,
-      "word": "潘玮柏女儿也是个小吃货",
-      "onboard_time": 1759825341,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 23679,
@@ -2192,14 +2280,6 @@
       "word": "台风麦德姆在广西沿海再次登陆",
       "onboard_time": 1759783215,
       "rank": 49,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 11721,
-      "num": 124467,
-      "word": "150斤男生下床抵门被风掀开四五次",
-      "onboard_time": 1759825880,
-      "rank": 26,
       "category": "突发/灾害"
     },
     {
