@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1759844791975,
+  "endTime": 1759847228347,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2267,6 +2267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 5005347,
+      "num": 5005347,
+      "word": "左航 剐蹭",
+      "onboard_time": 1759838601,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 4945993,
       "num": 994348,
       "word": "许凯照片",
@@ -2392,14 +2400,6 @@
       "word": "司机视角的大S",
       "onboard_time": 1738676185,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 4643138,
-      "num": 443343,
-      "word": "台媒证实大S最终死因是败血症",
-      "onboard_time": 1738662923,
-      "rank": 5,
       "category": "艺人"
     }
   ],

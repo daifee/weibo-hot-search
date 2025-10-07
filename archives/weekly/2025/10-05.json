@@ -1,11 +1,19 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759844791975,
+  "endTime": 1759847228347,
   "band_list": [
     {
       "raw_hot": 13334858,
       "num": 13334858,
       "word": "左航 撞人",
+      "onboard_time": 1759838601,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5005347,
+      "num": 5005347,
+      "word": "左航 剐蹭",
       "onboard_time": 1759838601,
       "rank": 10,
       "category": "艺人"
@@ -553,6 +561,14 @@
       "onboard_time": 1759730601,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 784261,
+      "num": 198552,
+      "word": "张艺兴 莲池春晚",
+      "onboard_time": 1759846702,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 779523,
@@ -1499,6 +1515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 381104,
+      "num": 192856,
+      "word": "殷世航向傲娇美求婚",
+      "onboard_time": 1759844304,
+      "rank": 28,
+      "category": "网红"
+    },
+    {
       "raw_hot": 379291,
       "num": 198946,
       "word": "猴子被游客扇巴掌",
@@ -1577,6 +1601,14 @@
       "onboard_time": 1759757003,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 370927,
+      "num": 370927,
+      "word": "广州暴雨",
+      "onboard_time": 1759842744,
+      "rank": 13,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 370639,
@@ -1923,6 +1955,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 317003,
+      "num": 317003,
+      "word": "馆长被台湾警方侦办",
+      "onboard_time": 1759844123,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316705,
+      "num": 200826,
+      "word": "老婆回应与张纪中的婚姻没有爱情",
+      "onboard_time": 1759842984,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316182,
       "num": 316182,
       "word": "面馆默许高中生插队排队游客发声",
@@ -1969,6 +2017,14 @@
       "onboard_time": 1759590022,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 311750,
+      "num": 182268,
+      "word": "孙燕姿匿名捐款上千万",
+      "onboard_time": 1759846102,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 311387,
@@ -2241,14 +2297,6 @@
       "onboard_time": 1759673064,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 276886,
-      "num": 200826,
-      "word": "老婆回应与张纪中的婚姻没有爱情",
-      "onboard_time": 1759842984,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 276754,
@@ -2891,6 +2939,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 204875,
+      "num": 204875,
+      "word": "亲历者称冰岛侧翻大巴上多名中国人",
+      "onboard_time": 1759845383,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204481,
       "num": 166584,
       "word": "刘宇宁腰围",
@@ -3291,14 +3347,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 188827,
-      "num": 188827,
-      "word": "广州暴雨",
-      "onboard_time": 1759842744,
-      "rank": 13,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 188788,
       "num": 188788,
       "word": "朱志鑫 能不能不上班就有工资",
@@ -3539,6 +3587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179400,
+      "num": 179400,
+      "word": "王一博85车组全场第二",
+      "onboard_time": 1759846403,
+      "rank": 18,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 178956,
       "num": 152278,
       "word": "董洁优雅小黑裙",
@@ -3713,14 +3769,6 @@
       "onboard_time": 1759679360,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 174572,
-      "num": 135637,
-      "word": "馆长被台湾警方侦办",
-      "onboard_time": 1759844123,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174327,
@@ -4387,6 +4435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152590,
+      "num": 152590,
+      "word": "供一个大学生四年需要花多少钱",
+      "onboard_time": 1759842923,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152262,
       "num": 152262,
       "word": "池昌旭差点被亲上",
@@ -4473,6 +4529,14 @@
       "onboard_time": 1759665203,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 148124,
+      "num": 148124,
+      "word": "成毅 刀剑如梦",
+      "onboard_time": 1759844063,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 147498,
@@ -4603,14 +4667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145730,
-      "num": 145730,
-      "word": "成毅 刀剑如梦",
-      "onboard_time": 1759844063,
-      "rank": 45,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 145694,
       "num": 123029,
       "word": "黄金狂飙原因",
@@ -4691,14 +4747,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 142860,
-      "num": 142860,
-      "word": "殷世航向傲娇美求婚",
-      "onboard_time": 1759844304,
-      "rank": 28,
-      "category": "网红"
-    },
-    {
       "raw_hot": 142621,
       "num": 142621,
       "word": "偶遇戚薇李承铉带儿子逛凡尔赛宫",
@@ -4753,6 +4801,14 @@
       "onboard_time": 1759718360,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141431,
+      "num": 141431,
+      "word": "韩国部分新婚夫妇放弃黄金戒指",
+      "onboard_time": 1759844663,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 141048,
@@ -4857,6 +4913,14 @@
       "onboard_time": 1759836801,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 138956,
+      "num": 138956,
+      "word": "薛之谦音乐节",
+      "onboard_time": 1759846583,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 138761,
@@ -5387,6 +5451,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 127748,
+      "num": 127748,
+      "word": "珠峰暴雪向导一人一狗带超百人撤离",
+      "onboard_time": 1759844604,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127175,
       "num": 127175,
       "word": "泸州银河左岸音乐节",
@@ -5569,6 +5641,14 @@
       "onboard_time": 1759652121,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123365,
+      "num": 123365,
+      "word": "曾舜晞脱衣服没排练吗",
+      "onboard_time": 1759846882,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 123285,
@@ -5860,11 +5940,19 @@
     },
     {
       "raw_hot": 117821,
-      "num": 117821,
+      "num": 419462,
       "word": "再赏一次大江南北的中秋月",
       "onboard_time": 1759822521,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117694,
+      "num": 117694,
+      "word": "陈未衾 给女演员加戏加成双女主",
+      "onboard_time": 1759844783,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 117436,
@@ -6297,6 +6385,14 @@
       "onboard_time": 1759674203,
       "rank": 31,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 111714,
+      "num": 145550,
+      "word": "24节气中最早带寒的节气",
+      "onboard_time": 1759847002,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111657,
@@ -7587,14 +7683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95202,
-      "num": 95202,
-      "word": "韩国部分新婚夫妇放弃黄金戒指",
-      "onboard_time": 1759844663,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 95133,
       "num": 95133,
       "word": "王楚钦太坚定了",
@@ -7715,14 +7803,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 93823,
-      "num": 93823,
-      "word": "供一个大学生四年需要花多少钱",
-      "onboard_time": 1759842923,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 93763,
       "num": 93763,
       "word": "千香",
@@ -7825,6 +7905,14 @@
       "onboard_time": 1759726461,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 92341,
+      "num": 92341,
+      "word": "AMD继续大涨",
+      "onboard_time": 1759846944,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 92208,
@@ -8211,14 +8299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 85610,
-      "num": 113811,
-      "word": "珠峰暴雪向导一人一狗带超百人撤离",
-      "onboard_time": 1759844604,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85442,
       "num": 93308,
       "word": "清融采访",
@@ -8241,6 +8321,14 @@
       "onboard_time": 1759593861,
       "rank": 32,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 85007,
+      "num": 108793,
+      "word": "解放军中秋奋战救灾一线",
+      "onboard_time": 1759846163,
+      "rank": 45,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 84934,
@@ -8744,6 +8832,14 @@
       "word": "台风麦德姆登陆倒计时",
       "onboard_time": 1759633699,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70207,
+      "num": 109091,
+      "word": "游客意外订到餐景房开窗就能搂席",
+      "onboard_time": 1759845743,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -9419,6 +9515,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 37473,
+      "num": 149050,
+      "word": "特朗普称环保少女太疯狂",
+      "onboard_time": 1759845623,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36886,
       "num": 42637,
       "word": "韦一敏这盛世如你所愿",
@@ -9465,6 +9569,14 @@
       "onboard_time": 1759777875,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33595,
+      "num": 177653,
+      "word": "市监局介入两个菜661元事件",
+      "onboard_time": 1759846823,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33341,
@@ -9915,6 +10027,9 @@
     },
     {
       "word": "#同心协力共襄伟业#"
+    },
+    {
+      "word": "#把爱家和爱国统一起来#"
     }
   ]
 }
