@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759819035747,
+  "endTime": 1759819784398,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 788950,
+      "num": 207836,
+      "word": "刘雯和井柏然祝大家中秋快乐",
+      "onboard_time": 1759816221,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 779523,
       "num": 213646,
       "word": "战沁",
@@ -659,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 620744,
+      "num": 206007,
+      "word": "杨幂去了龙井日本遗址博物馆",
+      "onboard_time": 1759816341,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 620276,
       "num": 203365,
       "word": "应鹏去世",
@@ -689,14 +705,6 @@
       "onboard_time": 1759586903,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 606923,
-      "num": 205053,
-      "word": "刘雯和井柏然祝大家中秋快乐",
-      "onboard_time": 1759816221,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 605032,
@@ -939,14 +947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 491128,
-      "num": 204748,
-      "word": "杨幂去了龙井日本遗址博物馆",
-      "onboard_time": 1759816341,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 489450,
       "num": 229681,
       "word": "肖战今天的物料有点太多了",
@@ -996,7 +996,7 @@
     },
     {
       "raw_hot": 476795,
-      "num": 204144,
+      "num": 204574,
       "word": "港媒曝歌手关淑怡病危",
       "onboard_time": 1759813941,
       "rank": 19,
@@ -1371,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 368916,
+      "num": 368916,
+      "word": "环保少女称种族灭绝正在发生",
+      "onboard_time": 1759815800,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 363907,
       "num": 186788,
       "word": "郭富城回应三胎已出生",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1759642401,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345390,
+      "num": 201590,
+      "word": "六个月瘦55斤的面部变化",
+      "onboard_time": 1759815022,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 343347,
@@ -2083,14 +2099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251815,
-      "num": 251815,
-      "word": "环保少女称种族灭绝正在发生",
-      "onboard_time": 1759815800,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 251790,
       "num": 207012,
       "word": "迪丽热巴在张馨予背后叫人的样子",
@@ -2129,6 +2137,14 @@
       "onboard_time": 1759621337,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242591,
+      "num": 242591,
+      "word": "两个菜661元商家退款400元",
+      "onboard_time": 1759816401,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240484,
@@ -2179,6 +2195,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 233908,
+      "num": 193622,
+      "word": "李昀锐新剧一觉睡醒有被孝到",
+      "onboard_time": 1759818861,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233848,
       "num": 233848,
       "word": "卖不完的月饼都去哪儿了",
@@ -2201,14 +2225,6 @@
       "onboard_time": 1759733241,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 231114,
-      "num": 201590,
-      "word": "六个月瘦55斤的面部变化",
-      "onboard_time": 1759815022,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 230666,
@@ -2307,14 +2323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222120,
-      "num": 201120,
-      "word": "两个菜661元商家退款400元",
-      "onboard_time": 1759816401,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222089,
       "num": 222089,
       "word": "魔丸见多了老魔丸第一次见",
@@ -2369,6 +2377,14 @@
       "onboard_time": 1759718060,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 215280,
+      "num": 215280,
+      "word": "steam崩了",
+      "onboard_time": 1759817482,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 214850,
@@ -2475,14 +2491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206738,
-      "num": 206738,
-      "word": "steam崩了",
-      "onboard_time": 1759817482,
-      "rank": 5,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 205605,
       "num": 181226,
       "word": "田曦薇鹅黄吊带襦裙",
@@ -2545,6 +2553,14 @@
       "onboard_time": 1759680980,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202113,
+      "num": 191644,
+      "word": "miumiu 好多围裙",
+      "onboard_time": 1759819519,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 201410,
@@ -2827,6 +2843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190286,
+      "num": 201921,
+      "word": "深圳水贝黄金料商跑路潮",
+      "onboard_time": 1759817659,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190252,
       "num": 190252,
       "word": "NRG总决赛对阵FNC",
@@ -2913,6 +2937,14 @@
       "onboard_time": 1759674744,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184151,
+      "num": 184151,
+      "word": "曹颖吃了20多年抗焦虑药",
+      "onboard_time": 1759816640,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 183994,
@@ -3363,6 +3395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169659,
+      "num": 210252,
+      "word": "以色列宣布驱逐环保少女等171人",
+      "onboard_time": 1759818621,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 169610,
       "num": 149417,
       "word": "王楚钦孙颖莎扔花致谢球迷",
@@ -3417,6 +3457,14 @@
       "onboard_time": 1759792876,
       "rank": 46,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 167370,
+      "num": 167370,
+      "word": "明星接受采访不要穿橙色",
+      "onboard_time": 1759817420,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 166820,
@@ -3497,14 +3545,6 @@
       "onboard_time": 1759673905,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 162846,
-      "num": 201921,
-      "word": "深圳水贝黄金料商跑路潮",
-      "onboard_time": 1759817659,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162400,
@@ -3640,14 +3680,6 @@
       "word": "张凌赫拍毕业照打了女生领结",
       "onboard_time": 1759664902,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 157552,
-      "num": 157552,
-      "word": "明星接受采访不要穿橙色",
-      "onboard_time": 1759817420,
-      "rank": 34,
       "category": "艺人"
     },
     {
@@ -4011,6 +4043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145417,
+      "num": 145417,
+      "word": "穆祉丞手写信",
+      "onboard_time": 1759817360,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145160,
       "num": 145160,
       "word": "孟子义分你一半月饼",
@@ -4187,6 +4227,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 139172,
+      "num": 135637,
+      "word": "穆祉丞伴手礼",
+      "onboard_time": 1759815800,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138761,
       "num": 138761,
       "word": "18岁的刘萧旭长得就像28了",
@@ -4275,14 +4323,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 136836,
-      "num": 136835,
-      "word": "曹颖吃了20多年抗焦虑药",
-      "onboard_time": 1759816640,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 136323,
       "num": 136323,
       "word": "Gr对战GW",
@@ -4321,14 +4361,6 @@
       "onboard_time": 1759721780,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 135637,
-      "num": 135637,
-      "word": "穆祉丞伴手礼",
-      "onboard_time": 1759815800,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 135602,
@@ -4555,14 +4587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129970,
-      "num": 120333,
-      "word": "穆祉丞手写信",
-      "onboard_time": 1759817360,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
       "raw_hot": 129774,
       "num": 129774,
       "word": "惹了宋亚轩等于没惹",
@@ -4665,14 +4689,6 @@
       "onboard_time": 1759741581,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 126858,
-      "num": 157835,
-      "word": "李昀锐新剧一觉睡醒有被孝到",
-      "onboard_time": 1759818861,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 126728,
@@ -4779,6 +4795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124422,
+      "num": 124422,
+      "word": "现在就出发",
+      "onboard_time": 1759816101,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124171,
       "num": 365150,
       "word": "中国人研究月球土特产又有新成果",
@@ -4801,6 +4825,14 @@
       "onboard_time": 1759652121,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123249,
+      "num": 121399,
+      "word": "谁家剧一集送走一个",
+      "onboard_time": 1759819400,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 123226,
@@ -5163,14 +5195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115745,
-      "num": 115745,
-      "word": "现在就出发",
-      "onboard_time": 1759816101,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115642,
       "num": 115642,
       "word": "张艺兴鸟巢演唱会",
@@ -5193,6 +5217,14 @@
       "onboard_time": 1759656560,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 115007,
+      "num": 123117,
+      "word": "高速路突现一行人司机吓到尖叫",
+      "onboard_time": 1759817960,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114866,
@@ -5881,14 +5913,6 @@
       "onboard_time": 1759640061,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105341,
-      "num": 205884,
-      "word": "以色列宣布驱逐环保少女等171人",
-      "onboard_time": 1759818621,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 105032,
@@ -6635,6 +6659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92899,
+      "num": 197561,
+      "word": "校方就家长跪地被学生轮流踩踏道歉",
+      "onboard_time": 1759819641,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92642,
       "num": 92642,
       "word": "学医的人是最适合玩剧本杀的",
@@ -6673,6 +6705,14 @@
       "onboard_time": 1759710739,
       "rank": 47,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 91912,
+      "num": 200960,
+      "word": "台当局官员看到花莲洪灾大声讪笑",
+      "onboard_time": 1759818861,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91791,
@@ -6833,6 +6873,14 @@
       "onboard_time": 1759590322,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 88549,
+      "num": 146937,
+      "word": "两个菜收661元餐厅退款400元",
+      "onboard_time": 1759819701,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88495,
@@ -7491,6 +7539,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 65495,
+      "num": 136839,
+      "word": "动物园羊驼被投喂撑到眼睛翻白",
+      "onboard_time": 1759817960,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65454,
       "num": 133684,
       "word": "三亚海事局发布涉客船舶禁航通知",
@@ -7571,6 +7627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60726,
+      "num": 136836,
+      "word": "电车停充电车位没充电被收占位费",
+      "onboard_time": 1759818201,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59963,
       "num": 59963,
       "word": "男子买单不付钱趁机摸店员脸",
@@ -7611,12 +7675,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59312,
-      "num": 121730,
-      "word": "高速路突现一行人司机吓到尖叫",
-      "onboard_time": 1759817960,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 58954,
+      "num": 200841,
+      "word": "环保少女承认遭以方虐待",
+      "onboard_time": 1759819519,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 58573,
@@ -7819,14 +7883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51346,
-      "num": 182381,
-      "word": "台当局官员看到花莲洪灾大声讪笑",
-      "onboard_time": 1759818861,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51144,
       "num": 163749,
       "word": "丁程鑫路演嘴瓢瞬间红温",
@@ -7931,14 +7987,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 43662,
-      "num": 136836,
-      "word": "电车停充电车位没充电被收占位费",
-      "onboard_time": 1759818201,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43480,
       "num": 226017,
       "word": "油车高速领航全国都好开",
@@ -8033,14 +8081,6 @@
       "onboard_time": 1759754544,
       "rank": 38,
       "category": "网红"
-    },
-    {
-      "raw_hot": 38156,
-      "num": 136839,
-      "word": "动物园羊驼被投喂撑到眼睛翻白",
-      "onboard_time": 1759817960,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37952,
@@ -8265,6 +8305,14 @@
       "onboard_time": 1759645701,
       "rank": 19,
       "category": "艺人,作品衍生"
+    },
+    {
+      "raw_hot": 24243,
+      "num": 145948,
+      "word": "刘浩存走路美成这样",
+      "onboard_time": 1759819461,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 24190,
