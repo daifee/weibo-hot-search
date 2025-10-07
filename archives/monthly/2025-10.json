@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759811394378,
+  "endTime": 1759812165208,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -571,20 +571,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1096207,
+      "num": 215478,
+      "word": "李沁的人脉",
+      "onboard_time": 1759809380,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1089802,
       "num": 316963,
       "word": "华晨宇 要爆了",
       "onboard_time": 1759586903,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1080198,
-      "num": 215478,
-      "word": "李沁的人脉",
-      "onboard_time": 1759809380,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 1079559,
@@ -2972,7 +2972,7 @@
     },
     {
       "raw_hot": 421782,
-      "num": 421782,
+      "num": 1065263,
       "word": "每天喝茶vs每天喝咖啡",
       "onboard_time": 1759802119,
       "rank": 34,
@@ -3249,6 +3249,14 @@
       "onboard_time": 1759744281,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 383194,
+      "num": 200288,
+      "word": "应鹏去世",
+      "onboard_time": 1759808302,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 382617,
@@ -4211,6 +4219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 309472,
+      "num": 188170,
+      "word": "黄晓明公司艺人名单有陈梦",
+      "onboard_time": 1759811121,
+      "rank": 32,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 308611,
       "num": 308611,
       "word": "王楚钦强大的意志品质",
@@ -4497,14 +4513,6 @@
       "onboard_time": 1759665863,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 287980,
-      "num": 200288,
-      "word": "应鹏去世",
-      "onboard_time": 1759808302,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 287945,
@@ -6779,6 +6787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195059,
+      "num": 187917,
+      "word": "外婆非得生舅妈吗",
+      "onboard_time": 1759809742,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194985,
       "num": 168031,
       "word": "迪丽热巴来请大家吃月饼了",
@@ -7307,14 +7323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183136,
-      "num": 139454,
-      "word": "外婆非得生舅妈吗",
-      "onboard_time": 1759809742,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 183081,
       "num": 108705,
       "word": "王一博兴奋起身回应小德感谢",
@@ -7332,7 +7340,7 @@
     },
     {
       "raw_hot": 182944,
-      "num": 182944,
+      "num": 189021,
       "word": "假期还有最后2天",
       "onboard_time": 1759798699,
       "rank": 15,
@@ -7433,6 +7441,14 @@
       "onboard_time": 1759677505,
       "rank": 37,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 181819,
+      "num": 181819,
+      "word": "最爽男主罗峰一集十三刀",
+      "onboard_time": 1759811720,
+      "rank": 26,
+      "category": "动漫"
     },
     {
       "raw_hot": 181803,
@@ -8155,6 +8171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168001,
+      "num": 168001,
+      "word": "刘浩存扛住了G社镜头",
+      "onboard_time": 1759809201,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167993,
       "num": 150256,
       "word": "刘宇宁那英版我爱你中国",
@@ -8169,6 +8193,14 @@
       "onboard_time": 1759564820,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167691,
+      "num": 167691,
+      "word": "张艺兴演唱会顶级中式美学",
+      "onboard_time": 1759810880,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 167523,
@@ -8513,14 +8545,6 @@
       "onboard_time": 1759566320,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162855,
-      "num": 162855,
-      "word": "张艺兴演唱会顶级中式美学",
-      "onboard_time": 1759810880,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 162400,
@@ -9353,14 +9377,6 @@
       "onboard_time": 1759300520,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147692,
-      "num": 147692,
-      "word": "刘浩存扛住了G社镜头",
-      "onboard_time": 1759809201,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 147610,
@@ -10401,14 +10417,6 @@
       "onboard_time": 1759647740,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 136276,
-      "num": 136276,
-      "word": "黄晓明公司艺人名单有陈梦",
-      "onboard_time": 1759811121,
-      "rank": 32,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 136222,
@@ -11523,6 +11531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124981,
+      "num": 124981,
+      "word": "为让孩子长到170我花了30万",
+      "onboard_time": 1759810761,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124919,
       "num": 124919,
       "word": "乐远cp返场",
@@ -11649,14 +11665,6 @@
       "onboard_time": 1759591225,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123279,
-      "num": 123279,
-      "word": "为让孩子长到170我花了30万",
-      "onboard_time": 1759810761,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123226,
@@ -11825,6 +11833,14 @@
       "onboard_time": 1759584322,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121575,
+      "num": 121575,
+      "word": "董璇佟丽娅小酒窝朵朵中秋合照",
+      "onboard_time": 1759811600,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 121545,
@@ -12400,6 +12416,14 @@
       "word": "张若昀我好像看见你扁桃体了",
       "onboard_time": 1759468520,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116590,
+      "num": 116590,
+      "word": "白敬亭是出发团第一魅魔吧",
+      "onboard_time": 1759812022,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -13539,6 +13563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109615,
+      "num": 109615,
+      "word": "天津coser还是太复杂了",
+      "onboard_time": 1759811959,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 109570,
       "num": 109570,
       "word": "孙颖莎说大头做得非常好",
@@ -13584,6 +13616,14 @@
       "word": "猫咪都看不下去躺一天的主人了",
       "onboard_time": 1759488022,
       "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 109276,
+      "num": 109276,
+      "word": "原来猫猫是知道自己在干坏事的",
+      "onboard_time": 1759810761,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -14931,6 +14971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101603,
+      "num": 101603,
+      "word": "何健麒素颜直播",
+      "onboard_time": 1759811541,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101598,
       "num": 101598,
       "word": "林诗栋中国大满贯后发文",
@@ -15233,6 +15281,14 @@
       "onboard_time": 1759481000,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99998,
+      "num": 99998,
+      "word": "锤娜丽莎 健康的爱不用委曲求全",
+      "onboard_time": 1759811781,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 99973,
@@ -18299,6 +18355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 76873,
+      "num": 113765,
+      "word": "王安宇董洁巴黎聚餐",
+      "onboard_time": 1759811361,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76824,
       "num": 76824,
       "word": "雅安地震",
@@ -18457,6 +18521,14 @@
       "onboard_time": 1759390580,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75251,
+      "num": 114841,
+      "word": "徐帆陪女儿美国过中秋",
+      "onboard_time": 1759810401,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 75161,
@@ -18833,14 +18905,6 @@
       "onboard_time": 1759633699,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 70218,
-      "num": 98761,
-      "word": "王安宇董洁巴黎聚餐",
-      "onboard_time": 1759811361,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 70185,
@@ -19699,6 +19763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53893,
+      "num": 111639,
+      "word": "周迅窦靖童同框热聊",
+      "onboard_time": 1759811600,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53765,
       "num": 72787,
       "word": "杨涵博 玉兔来了",
@@ -19803,6 +19875,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 51144,
+      "num": 163749,
+      "word": "丁程鑫路演嘴瓢瞬间红温",
+      "onboard_time": 1759811661,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 51078,
       "num": 100916,
       "word": "吉祥航空回应连换3驾飞机未起飞",
@@ -19873,14 +19953,6 @@
       "onboard_time": 1759572800,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 49001,
-      "num": 114841,
-      "word": "徐帆陪女儿美国过中秋",
-      "onboard_time": 1759810401,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 48846,

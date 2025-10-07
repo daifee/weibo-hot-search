@@ -1,0 +1,410 @@
+{
+  "runTime": 1759812165208,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 407899,
+        "num": 1065263,
+        "word": "每天喝茶vs每天喝咖啡",
+        "onboard_time": 1759802119,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246952,
+        "num": 246952,
+        "word": "景区回应仙女散的是假花",
+        "onboard_time": 1759800140,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76978,
+        "num": 239672,
+        "word": "拍完你的拍你的",
+        "onboard_time": 1759795398,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237492,
+        "num": 237492,
+        "word": "我国在固态锂电池领域取得突破",
+        "onboard_time": 1759800920,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217049,
+        "num": 217049,
+        "word": "王楚钦孙颖莎混双世排第3",
+        "onboard_time": 1759797800,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 544583,
+        "num": 206744,
+        "word": "鸡排哥10月9日休息",
+        "onboard_time": 1759807461,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189195,
+        "num": 189195,
+        "word": "医生说加沙医院惨状像屠宰场",
+        "onboard_time": 1759797439,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160708,
+        "num": 189164,
+        "word": "詹姆斯将宣布重大决策",
+        "onboard_time": 1759796178,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146657,
+        "num": 189093,
+        "word": "北京市民家中发现日军细菌战罪证",
+        "onboard_time": 1759794797,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107322,
+        "num": 189021,
+        "word": "假期还有最后2天",
+        "onboard_time": 1759798699,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1096207,
+        "num": 188905,
+        "word": "李沁的人脉",
+        "onboard_time": 1759809380,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1002685,
+        "num": 188844,
+        "word": "刘涛女儿居然马上要读大学了",
+        "onboard_time": 1759805060,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 672317,
+        "num": 188810,
+        "word": "战沁",
+        "onboard_time": 1759806799,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 640080,
+        "num": 188704,
+        "word": "奥斯卡孙乐言 现实版许我耀眼",
+        "onboard_time": 1759809679,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605609,
+        "num": 188665,
+        "word": "金价",
+        "onboard_time": 1759803860,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 484771,
+        "num": 188567,
+        "word": "赵磊说和qko在一起十年了",
+        "onboard_time": 1759807941,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437070,
+        "num": 188533,
+        "word": "大家上班一定要打扮自己",
+        "onboard_time": 1759802060,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 408918,
+        "num": 188451,
+        "word": "德国提议将退休年龄提高至73岁",
+        "onboard_time": 1759802539,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 383194,
+        "num": 188343,
+        "word": "应鹏去世",
+        "onboard_time": 1759808302,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282386,
+        "num": 188287,
+        "word": "台媒曝黄子佼肇事逃逸",
+        "onboard_time": 1759806081,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309472,
+        "num": 188170,
+        "word": "黄晓明公司艺人名单有陈梦",
+        "onboard_time": 1759811121,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 263764,
+        "num": 188145,
+        "word": "黄磊处处被贴脸开大",
+        "onboard_time": 1759804579,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259174,
+        "num": 188023,
+        "word": "肖战为李沁新剧宣传",
+        "onboard_time": 1759802900,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255068,
+        "num": 187958,
+        "word": "猴子被游客扇巴掌",
+        "onboard_time": 1759805659,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195059,
+        "num": 187917,
+        "word": "外婆非得生舅妈吗",
+        "onboard_time": 1759809742,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187874,
+        "num": 187874,
+        "word": "鹿晗方将承担机票和酒店产生的损失",
+        "onboard_time": 1759759762,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181819,
+        "num": 181819,
+        "word": "最爽男主罗峰一集十三刀",
+        "onboard_time": 1759811720,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 168001,
+        "num": 168001,
+        "word": "刘浩存扛住了G社镜头",
+        "onboard_time": 1759809201,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167691,
+        "num": 167691,
+        "word": "张艺兴演唱会顶级中式美学",
+        "onboard_time": 1759810880,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51144,
+        "num": 163749,
+        "word": "丁程鑫路演嘴瓢瞬间红温",
+        "onboard_time": 1759811661,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163599,
+        "num": 163599,
+        "word": "身体有炎症时少吃4种食物",
+        "onboard_time": 1759797678,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157133,
+        "num": 157133,
+        "word": "戚薇李承铉带儿子回国",
+        "onboard_time": 1759810159,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135797,
+        "num": 135797,
+        "word": "王鹤棣在国外工作没回家团圆",
+        "onboard_time": 1759810340,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130184,
+        "num": 130184,
+        "word": "金价涨涨涨疯了",
+        "onboard_time": 1759799000,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124981,
+        "num": 124981,
+        "word": "为让孩子长到170我花了30万",
+        "onboard_time": 1759810761,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121575,
+        "num": 121575,
+        "word": "董璇佟丽娅小酒窝朵朵中秋合照",
+        "onboard_time": 1759811600,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116590,
+        "num": 116590,
+        "word": "白敬亭是出发团第一魅魔吧",
+        "onboard_time": 1759812022,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116330,
+        "num": 116330,
+        "word": "穆祉丞自由演唱会",
+        "onboard_time": 1759810581,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 76873,
+        "num": 113765,
+        "word": "王安宇董洁巴黎聚餐",
+        "onboard_time": 1759811361,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53893,
+        "num": 111639,
+        "word": "周迅窦靖童同框热聊",
+        "onboard_time": 1759811600,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111228,
+        "num": 111228,
+        "word": "全球第一网红回复詹姆斯",
+        "onboard_time": 1759803620,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109615,
+        "num": 109615,
+        "word": "天津coser还是太复杂了",
+        "onboard_time": 1759811959,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 109276,
+        "num": 109276,
+        "word": "原来猫猫是知道自己在干坏事的",
+        "onboard_time": 1759810761,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108966,
+        "num": 108966,
+        "word": "苏群谈詹姆斯重大决策",
+        "onboard_time": 1759809020,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108109,
+        "num": 108109,
+        "word": "张艺兴工作室生日长文",
+        "onboard_time": 1759805899,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103920,
+        "num": 103920,
+        "word": "普京和内塔尼亚胡通话",
+        "onboard_time": 1759810700,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102114,
+        "num": 102114,
+        "word": "给狗洗澡3小时比它还委屈",
+        "onboard_time": 1759809380,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101603,
+        "num": 101603,
+        "word": "何健麒素颜直播",
+        "onboard_time": 1759811541,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99998,
+        "num": 99998,
+        "word": "锤娜丽莎 健康的爱不用委曲求全",
+        "onboard_time": 1759811781,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75251,
+        "num": 99111,
+        "word": "徐帆陪女儿美国过中秋",
+        "onboard_time": 1759810401,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
