@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759872987938,
+  "endTime": 1759875789354,
   "band_list": [
     {
       "raw_hot": 1099261,
@@ -283,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67923,
+      "num": 115630,
+      "word": "杜海涛到了伦敦冒充王嘉尔",
+      "onboard_time": 1759841845,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66638,
       "num": 115674,
       "word": "成毅 刀剑如梦",
@@ -313,14 +321,6 @@
       "onboard_time": 1759835180,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 63949,
-      "num": 115630,
-      "word": "杜海涛到了伦敦冒充王嘉尔",
-      "onboard_time": 1759841845,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 62356,
@@ -475,7 +475,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 23148,
+      "raw_hot": 24785,
       "num": 36919,
       "word": "女方父亲回应悔婚退彩礼扣3万拥抱费",
       "onboard_time": 1759863314,
@@ -515,6 +515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16353,
+      "num": 20166,
+      "word": "田曦薇赶海",
+      "onboard_time": 1759872853,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16339,
       "num": 42161,
       "word": "上海残联推荐震耳欲聋",
@@ -545,14 +553,6 @@
       "onboard_time": 1759864814,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 11595,
-      "num": 18552,
-      "word": "田曦薇赶海",
-      "onboard_time": 1759872853,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 11437,

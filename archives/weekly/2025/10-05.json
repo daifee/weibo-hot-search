@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759872987938,
+  "endTime": 1759875789354,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -10059,6 +10059,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 24785,
+      "num": 36919,
+      "word": "女方父亲回应悔婚退彩礼扣3万拥抱费",
+      "onboard_time": 1759863314,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24190,
       "num": 49314,
       "word": "檀健次现场临时创作改词",
@@ -10073,14 +10081,6 @@
       "onboard_time": 1759784895,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23148,
-      "num": 36919,
-      "word": "女方父亲回应悔婚退彩礼扣3万拥抱费",
-      "onboard_time": 1759863314,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22808,
@@ -10211,6 +10211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16353,
+      "num": 20166,
+      "word": "田曦薇赶海",
+      "onboard_time": 1759872853,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16339,
       "num": 42161,
       "word": "上海残联推荐震耳欲聋",
@@ -10297,14 +10305,6 @@
       "onboard_time": 1759746141,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 11595,
-      "num": 18552,
-      "word": "田曦薇赶海",
-      "onboard_time": 1759872853,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 11437,

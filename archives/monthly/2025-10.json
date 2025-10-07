@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759872987938,
+  "endTime": 1759875789354,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -23219,6 +23219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24785,
+      "num": 36919,
+      "word": "女方父亲回应悔婚退彩礼扣3万拥抱费",
+      "onboard_time": 1759863314,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24745,
       "num": 158246,
       "word": "园方回应两车追逐表演时相撞",
@@ -23281,14 +23289,6 @@
       "onboard_time": 1759520653,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 23148,
-      "num": 36919,
-      "word": "女方父亲回应悔婚退彩礼扣3万拥抱费",
-      "onboard_time": 1759863314,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23126,
@@ -23547,6 +23547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16353,
+      "num": 20166,
+      "word": "田曦薇赶海",
+      "onboard_time": 1759872853,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16340,
       "num": 25432,
       "word": "一众韩国选手pick王楚钦",
@@ -23713,14 +23721,6 @@
       "onboard_time": 1759588403,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11595,
-      "num": 18552,
-      "word": "田曦薇赶海",
-      "onboard_time": 1759872853,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 11437,

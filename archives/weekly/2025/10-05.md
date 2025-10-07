@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/08 05:36:27
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/08 06:23:09
 </p>
 </blockquote>
 <p>
@@ -7557,6 +7557,12 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%96%B9%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E6%82%94%E5%A9%9A%E9%80%80%E5%BD%A9%E7%A4%BC%E6%89%A33%E4%B8%87%E6%8B%A5%E6%8A%B1%E8%B4%B9%23" target="weibo">
+女方父亲回应悔婚退彩礼扣3万拥抱费（热度：24785）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E7%8E%B0%E5%9C%BA%E4%B8%B4%E6%97%B6%E5%88%9B%E4%BD%9C%E6%94%B9%E8%AF%8D%23" target="weibo">
 檀健次现场临时创作改词（热度：24190）
 </a>
@@ -7565,12 +7571,6 @@ CP2025SP（热度：26632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E9%98%94%E5%A4%A9%E7%A9%BA%23" target="weibo">
 海阔天空（热度：23679）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%96%B9%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%94%E6%82%94%E5%A9%9A%E9%80%80%E5%BD%A9%E7%A4%BC%E6%89%A33%E4%B8%87%E6%8B%A5%E6%8A%B1%E8%B4%B9%23" target="weibo">
-女方父亲回应悔婚退彩礼扣3万拥抱费（热度：23148）
 </a>
 </li>
 
@@ -7671,6 +7671,12 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%B5%B6%E6%B5%B7%23" target="weibo">
+田曦薇赶海（热度：16353）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%AE%8B%E8%81%94%E6%8E%A8%E8%8D%90%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%23" target="weibo">
 上海残联推荐震耳欲聋（热度：16339）
 </a>
@@ -7733,12 +7739,6 @@ CP2025SP（热度：26632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E9%B9%8F%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8C%85%E6%8F%BD%E4%BA%94%E5%86%A0%23" target="weibo">
 向鹏祝贺中国队包揽五冠（热度：12612）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E8%B5%B6%E6%B5%B7%23" target="weibo">
-田曦薇赶海（热度：11595）
 </a>
 </li>
 
