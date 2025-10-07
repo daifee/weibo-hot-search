@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759855571922,
+  "endTime": 1759857805662,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -641,6 +641,14 @@
       "onboard_time": 1759668027,
       "rank": 9,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 734082,
+      "num": 734082,
+      "word": "高速5车追尾2死3伤",
+      "onboard_time": 1759854859,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 726849,
@@ -1787,14 +1795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343336,
-      "num": 343336,
-      "word": "高速5车追尾2死3伤",
-      "onboard_time": 1759854859,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 343152,
       "num": 343152,
       "word": "苏超南通5比0淮安",
@@ -2440,6 +2440,14 @@
       "word": "店家回应炒蛏子和螃蟹两个菜661元",
       "onboard_time": 1759793298,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267160,
+      "num": 267160,
+      "word": "千万别卡点下高速",
+      "onboard_time": 1759854859,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -5051,6 +5059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138563,
+      "num": 134699,
+      "word": "陈哲远台词",
+      "onboard_time": 1759852041,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138427,
       "num": 138427,
       "word": "高市早苗将就参拜靖国神社作出回应",
@@ -5265,14 +5281,6 @@
       "onboard_time": 1759662263,
       "rank": 41,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 134699,
-      "num": 134699,
-      "word": "陈哲远台词",
-      "onboard_time": 1759852041,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 134432,
@@ -8275,14 +8283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 88854,
-      "num": 88854,
-      "word": "千万别卡点下高速",
-      "onboard_time": 1759854859,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88549,
       "num": 93384,
       "word": "赵今麦美拉德造型出发巴黎",
@@ -9043,6 +9043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70059,
+      "num": 88830,
+      "word": "假期最后1天迎来寒露",
+      "onboard_time": 1759854859,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68632,
       "num": 87442,
       "word": "国庆情侣出游的真实现状",
@@ -9297,14 +9305,6 @@
       "onboard_time": 1759854980,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 59118,
-      "num": 88830,
-      "word": "假期最后1天迎来寒露",
-      "onboard_time": 1759854859,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58941,
@@ -9731,6 +9731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40126,
+      "num": 69589,
+      "word": "电影毕正明的证明",
+      "onboard_time": 1759856658,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 39043,
       "num": 87285,
       "word": "震耳欲聋",
@@ -9859,6 +9867,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 32158,
+      "num": 69439,
+      "word": "我还记得第一天放假我心是怎样波动",
+      "onboard_time": 1759856958,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 31627,
       "num": 648626,
       "word": "网警提醒假期过半务必提高警惕",
@@ -9923,6 +9939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29525,
+      "num": 69423,
+      "word": "奶奶粉如何追星肖战",
+      "onboard_time": 1759857738,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29150,
       "num": 27856,
       "word": "张艺兴五巡闹天宫",
@@ -9969,6 +9993,14 @@
       "onboard_time": 1759727421,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26632,
+      "num": 69402,
+      "word": "CP2025SP",
+      "onboard_time": 1759856298,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 26280,

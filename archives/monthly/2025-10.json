@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759855571922,
+  "endTime": 1759857805662,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1425,6 +1425,14 @@
       "onboard_time": 1759668027,
       "rank": 9,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 734082,
+      "num": 734082,
+      "word": "高速5车追尾2死3伤",
+      "onboard_time": 1759854859,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 733769,
@@ -4115,14 +4123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 343336,
-      "num": 343336,
-      "word": "高速5车追尾2死3伤",
-      "onboard_time": 1759854859,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 343152,
       "num": 343152,
       "word": "苏超南通5比0淮安",
@@ -5401,6 +5401,14 @@
       "onboard_time": 1759499662,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267160,
+      "num": 267160,
+      "word": "千万别卡点下高速",
+      "onboard_time": 1759854859,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266828,
@@ -11251,6 +11259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138563,
+      "num": 134699,
+      "word": "陈哲远台词",
+      "onboard_time": 1759852041,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138526,
       "num": 138526,
       "word": "陈幸同4比2朱雨玲",
@@ -11673,14 +11689,6 @@
       "onboard_time": 1759373358,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134699,
-      "num": 134699,
-      "word": "陈哲远台词",
-      "onboard_time": 1759852041,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 134589,
@@ -18587,14 +18595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 88854,
-      "num": 88854,
-      "word": "千万别卡点下高速",
-      "onboard_time": 1759854859,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88832,
       "num": 88832,
       "word": "惠英红陈都灵合照",
@@ -20803,6 +20803,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 70059,
+      "num": 88830,
+      "word": "假期最后1天迎来寒露",
+      "onboard_time": 1759854859,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70054,
       "num": 70054,
       "word": "以伊爆发新一轮冲突的可能性骤增",
@@ -21425,14 +21433,6 @@
       "onboard_time": 1759504522,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 59118,
-      "num": 88830,
-      "word": "假期最后1天迎来寒露",
-      "onboard_time": 1759854859,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59010,
@@ -22363,6 +22363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 40126,
+      "num": 69589,
+      "word": "电影毕正明的证明",
+      "onboard_time": 1759856658,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40026,
       "num": 99902,
       "word": "国庆接待亲友 AA制",
@@ -22779,6 +22787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32158,
+      "num": 69439,
+      "word": "我还记得第一天放假我心是怎样波动",
+      "onboard_time": 1759856958,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 31837,
       "num": 71670,
       "word": "张艺兴林俊杰合唱为你揭晓",
@@ -22913,6 +22929,14 @@
       "onboard_time": 1759296320,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29525,
+      "num": 69423,
+      "word": "奶奶粉如何追星肖战",
+      "onboard_time": 1759857738,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 29519,
@@ -23065,6 +23089,14 @@
       "onboard_time": 1759486881,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26632,
+      "num": 69402,
+      "word": "CP2025SP",
+      "onboard_time": 1759856298,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 26616,

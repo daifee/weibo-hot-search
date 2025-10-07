@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/08 00:46:11
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/08 01:23:25
 </p>
 </blockquote>
 <p>
@@ -491,6 +491,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%89%E9%9D%A2%E5%93%A5%E6%8E%89%E7%B2%8942.8%E4%B8%87%23" target="weibo">
 拉面哥掉粉42.8万（热度：739947）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F5%E8%BD%A6%E8%BF%BD%E5%B0%BE2%E6%AD%BB3%E4%BC%A4%23" target="weibo">
+高速5车追尾2死3伤（热度：734082）
 </a>
 </li>
 
@@ -1353,12 +1359,6 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F5%E8%BD%A6%E8%BF%BD%E5%B0%BE2%E6%AD%BB3%E4%BC%A4%23" target="weibo">
-高速5车追尾2死3伤（热度：343336）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E5%8D%97%E9%80%9A5%E6%AF%940%E6%B7%AE%E5%AE%89%23" target="weibo">
 苏超南通5比0淮安（热度：343152）
 </a>
@@ -1841,6 +1841,12 @@ JDG对战DK（热度：286717）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%AE%B6%E5%9B%9E%E5%BA%94%E7%82%92%E8%9B%8F%E5%AD%90%E5%92%8C%E8%9E%83%E8%9F%B9%E4%B8%A4%E4%B8%AA%E8%8F%9C661%E5%85%83%23" target="weibo">
 店家回应炒蛏子和螃蟹两个菜661元（热度：270241）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%8D%A1%E7%82%B9%E4%B8%8B%E9%AB%98%E9%80%9F%23" target="weibo">
+千万别卡点下高速（热度：267160）
 </a>
 </li>
 
@@ -3801,6 +3807,12 @@ F1（热度：144419）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%8F%B0%E8%AF%8D%23" target="weibo">
+陈哲远台词（热度：138563）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%86%E5%B0%B1%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E4%BD%9C%E5%87%BA%E5%9B%9E%E5%BA%94%23" target="weibo">
 高市早苗将就参拜靖国神社作出回应（热度：138427）
 </a>
@@ -3959,12 +3971,6 @@ Gr对战GW（热度：136323）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%AE%98%E6%91%84%23" target="weibo">
 刘诗诗官摄（热度：134878）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%8F%B0%E8%AF%8D%23" target="weibo">
-陈哲远台词（热度：134699）
 </a>
 </li>
 
@@ -6219,12 +6225,6 @@ Gumayusi安慰T1粉丝（热度：89526）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%8D%A1%E7%82%B9%E4%B8%8B%E9%AB%98%E9%80%9F%23" target="weibo">
-千万别卡点下高速（热度：88854）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%BE%8E%E6%8B%89%E5%BE%B7%E9%80%A0%E5%9E%8B%E5%87%BA%E5%8F%91%E5%B7%B4%E9%BB%8E%23" target="weibo">
 赵今麦美拉德造型出发巴黎（热度：88549）
 </a>
@@ -6795,6 +6795,12 @@ S15宣传片回忆杀（热度：73721）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E1%E5%A4%A9%E8%BF%8E%E6%9D%A5%E5%AF%92%E9%9C%B2%23" target="weibo">
+假期最后1天迎来寒露（热度：70059）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%83%85%E4%BE%A3%E5%87%BA%E6%B8%B8%E7%9A%84%E7%9C%9F%E5%AE%9E%E7%8E%B0%E7%8A%B6%23" target="weibo">
 国庆情侣出游的真实现状（热度：68632）
 </a>
@@ -6983,12 +6989,6 @@ WTT祝张怡宁生日快乐（热度：61619）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E5%AD%99%E7%87%95%E5%A7%BF%E5%90%88%E5%94%B1%E9%81%87%E8%A7%81%23" target="weibo">
 韩红孙燕姿合唱遇见（热度：59366）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E1%E5%A4%A9%E8%BF%8E%E6%9D%A5%E5%AF%92%E9%9C%B2%23" target="weibo">
-假期最后1天迎来寒露（热度：59118）
 </a>
 </li>
 
@@ -7311,6 +7311,12 @@ WTT中国大满贯冠军城市宣传照（热度：46159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%AF%95%E6%AD%A3%E6%98%8E%E7%9A%84%E8%AF%81%E6%98%8E%23" target="weibo">
+电影毕正明的证明（热度：40126）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%23" target="weibo">
 震耳欲聋（热度：39043）
 </a>
@@ -7407,6 +7413,12 @@ WTT中国大满贯冠军城市宣传照（热度：46159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E8%BF%98%E8%AE%B0%E5%BE%97%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%94%BE%E5%81%87%E6%88%91%E5%BF%83%E6%98%AF%E6%80%8E%E6%A0%B7%E6%B3%A2%E5%8A%A8%23" target="weibo">
+我还记得第一天放假我心是怎样波动（热度：32158）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E6%8F%90%E9%86%92%E5%81%87%E6%9C%9F%E8%BF%87%E5%8D%8A%E5%8A%A1%E5%BF%85%E6%8F%90%E9%AB%98%E8%AD%A6%E6%83%95%23" target="weibo">
 网警提醒假期过半务必提高警惕（热度：31627）
 </a>
@@ -7455,6 +7467,12 @@ WTT中国大满贯冠军城市宣传照（热度：46159）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E7%B2%89%E5%A6%82%E4%BD%95%E8%BF%BD%E6%98%9F%E8%82%96%E6%88%98%23" target="weibo">
+奶奶粉如何追星肖战（热度：29525）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E4%BA%94%E5%B7%A1%E9%97%B9%E5%A4%A9%E5%AE%AB%23" target="weibo">
 张艺兴五巡闹天宫（热度：29150）
 </a>
@@ -7487,6 +7505,12 @@ WTT中国大满贯冠军城市宣传照（热度：46159）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E5%9C%A8%E9%99%88%E5%93%B2%E8%BF%9C%E8%BA%AB%E5%90%8E%E5%81%B7%E5%81%B7%E6%AF%94%E8%80%B6%23" target="weibo">
 王安宇在陈哲远身后偷偷比耶（热度：27003）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23CP2025SP%23" target="weibo">
+CP2025SP（热度：26632）
 </a>
 </li>
 

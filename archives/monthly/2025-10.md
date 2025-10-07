@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 00:46:11
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 01:23:25
 </p>
 </blockquote>
 <p>
@@ -1079,6 +1079,12 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%89%E9%9D%A2%E5%93%A5%E6%8E%89%E7%B2%8942.8%E4%B8%87%23" target="weibo">
 拉面哥掉粉42.8万（热度：739947）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F5%E8%BD%A6%E8%BF%BD%E5%B0%BE2%E6%AD%BB3%E4%BC%A4%23" target="weibo">
+高速5车追尾2死3伤（热度：734082）
 </a>
 </li>
 
@@ -3099,12 +3105,6 @@ TF家族男团在湖南秋晚三代同台（热度：346043）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F5%E8%BD%A6%E8%BF%BD%E5%B0%BE2%E6%AD%BB3%E4%BC%A4%23" target="weibo">
-高速5车追尾2死3伤（热度：343336）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E5%8D%97%E9%80%9A5%E6%AF%940%E6%B7%AE%E5%AE%89%23" target="weibo">
 苏超南通5比0淮安（热度：343152）
 </a>
@@ -4061,6 +4061,12 @@ F1（热度：275052）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%A7%E6%BB%A1%E8%B4%AF%E6%B7%B7%E5%8F%8C%E7%AC%AC5%E5%86%A0%23" target="weibo">
 王楚钦孙颖莎大满贯混双第5冠（热度：267685）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%8D%A1%E7%82%B9%E4%B8%8B%E9%AB%98%E9%80%9F%23" target="weibo">
+千万别卡点下高速（热度：267160）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ NRG总决赛对阵FNC（热度：190252）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%8B%E5%AE%89%E5%86%8D%E5%9B%9E%E5%BA%94%E7%88%B6%E5%A5%B3%E6%81%8B%E7%BB%AF%E9%97%BB%23" target="weibo">
 郭晋安再回应父女恋绯闻（热度：183726）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iG%E7%96%91%E4%BC%BC%E9%9F%A9%E5%9B%BD%E9%9B%86%E8%AE%AD%23" target="weibo">
-iG疑似韩国集训（热度：183394）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759855571922,
+  "endTime": 1759857805662,
   "band_list": [
     {
       "raw_hot": 1099261,
@@ -19,6 +19,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 734082,
+      "num": 734082,
+      "word": "高速5车追尾2死3伤",
+      "onboard_time": 1759854859,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426263,
       "num": 426263,
       "word": "警方回应小伙与女友吃饭被铐走",
@@ -31,14 +39,6 @@
       "num": 376438,
       "word": "因女友与走失女孩撞脸男子被误抓",
       "onboard_time": 1759849282,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 343336,
-      "num": 343336,
-      "word": "高速5车追尾2死3伤",
-      "onboard_time": 1759854859,
       "rank": 4,
       "category": "民生新闻"
     },
@@ -65,6 +65,14 @@
       "onboard_time": 1759841603,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 267160,
+      "num": 267160,
+      "word": "千万别卡点下高速",
+      "onboard_time": 1759854859,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 263073,
@@ -139,6 +147,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140537,
+      "num": 130611,
+      "word": "宋伊人溜达日常",
+      "onboard_time": 1759832542,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138563,
+      "num": 134699,
+      "word": "陈哲远台词",
+      "onboard_time": 1759852041,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137826,
       "num": 219698,
       "word": "迪奥设计师 工作累丑",
@@ -153,14 +177,6 @@
       "onboard_time": 1759845383,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134699,
-      "num": 134699,
-      "word": "陈哲远台词",
-      "onboard_time": 1759852041,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 130807,
@@ -195,27 +211,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 115770,
-      "num": 115770,
-      "word": "宋伊人溜达日常",
-      "onboard_time": 1759832542,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 90847,
       "num": 115766,
       "word": "南京地铁回应鸡鸣寺暗讽事件",
       "onboard_time": 1759840104,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88854,
-      "num": 88854,
-      "word": "千万别卡点下高速",
-      "onboard_time": 1759854859,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -265,6 +265,14 @@
       "onboard_time": 1759849942,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70059,
+      "num": 88830,
+      "word": "假期最后1天迎来寒露",
+      "onboard_time": 1759854859,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68226,
@@ -347,14 +355,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 59118,
-      "num": 88830,
-      "word": "假期最后1天迎来寒露",
-      "onboard_time": 1759854859,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57169,
       "num": 115574,
       "word": "青海警方通报被困徒步人员1人遇难",
@@ -425,6 +425,38 @@
       "onboard_time": 1759844663,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 40126,
+      "num": 69589,
+      "word": "电影毕正明的证明",
+      "onboard_time": 1759856658,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 32158,
+      "num": 69439,
+      "word": "我还记得第一天放假我心是怎样波动",
+      "onboard_time": 1759856958,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 29525,
+      "num": 69423,
+      "word": "奶奶粉如何追星肖战",
+      "onboard_time": 1759857738,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26632,
+      "num": 69402,
+      "word": "CP2025SP",
+      "onboard_time": 1759856298,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 16695,
