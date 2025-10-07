@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/08 03:37:13
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/08 04:27:32
 </p>
 </blockquote>
 <p>
@@ -7659,6 +7659,12 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%8D%E6%83%B3%E5%90%AC%E5%88%B08%E8%BF%99%E4%B8%AA%E5%AD%97%23" target="weibo">
+我不想听到8这个字（热度：16382）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%AE%8B%E8%81%94%E6%8E%A8%E8%8D%90%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%23" target="weibo">
 上海残联推荐震耳欲聋（热度：16339）
 </a>
@@ -7679,6 +7685,12 @@ CP2025SP（热度：26632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%89%E9%9D%A2%E5%93%A5%E5%9B%9E%E5%BA%94%E6%B5%81%E9%87%8F%E4%B8%8B%E6%BB%91%23" target="weibo">
 拉面哥回应流量下滑（热度：14794）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E5%95%A5%E6%88%91P%E5%9B%BE%E6%94%BE%E5%A4%A7%E8%B4%B4%E7%BA%B8%E4%BA%86%23" target="weibo">
+终于知道为啥我P图放大贴纸了（热度：14482）
 </a>
 </li>
 
