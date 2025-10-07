@@ -1,9 +1,9 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759806196846,
+  "endTime": 1759806723263,
   "band_list": [
     {
-      "raw_hot": 1280395,
+      "raw_hot": 1399578,
       "num": 256329,
       "word": "大家上班一定要打扮自己",
       "onboard_time": 1759802060,
@@ -27,15 +27,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 898370,
-      "num": 1143739,
-      "word": "北京市民家中发现日军细菌战罪证",
-      "onboard_time": 1759794797,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 879431,
+      "raw_hot": 950160,
       "num": 254259,
       "word": "肖战为李沁新剧宣传",
       "onboard_time": 1759802900,
@@ -43,12 +35,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 871297,
-      "num": 871297,
+      "raw_hot": 911953,
+      "num": 1145912,
       "word": "金价",
       "onboard_time": 1759803860,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 898370,
+      "num": 1143739,
+      "word": "北京市民家中发现日军细菌战罪证",
+      "onboard_time": 1759794797,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 841724,
@@ -92,11 +92,19 @@
     },
     {
       "raw_hot": 502358,
-      "num": 177464,
+      "num": 186991,
       "word": "身体有炎症时少吃4种食物",
       "onboard_time": 1759797678,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 478548,
+      "num": 187175,
+      "word": "刘涛女儿居然马上要读大学了",
+      "onboard_time": 1759805060,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 464187,
@@ -105,14 +113,6 @@
       "onboard_time": 1759800920,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 454505,
-      "num": 177948,
-      "word": "刘涛女儿居然马上要读大学了",
-      "onboard_time": 1759805060,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 437330,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 384504,
+      "num": 384504,
+      "word": "每天喝茶vs每天喝咖啡",
+      "onboard_time": 1759802119,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 372514,
       "num": 177860,
       "word": "王源 马尔代夫",
@@ -171,20 +179,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 344368,
+      "num": 250323,
+      "word": "黄磊处处被贴脸开大",
+      "onboard_time": 1759804579,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338368,
-      "num": 177154,
+      "num": 181148,
       "word": "金价涨涨涨疯了",
       "onboard_time": 1759799000,
       "rank": 21,
       "category": "财经"
     },
     {
-      "raw_hot": 324205,
-      "num": 324205,
-      "word": "每天喝茶vs每天喝咖啡",
-      "onboard_time": 1759802119,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 330523,
+      "num": 330523,
+      "word": "德国提议将退休年龄提高至73岁",
+      "onboard_time": 1759802539,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 324410,
+      "num": 236957,
+      "word": "台媒曝黄子佼肇事逃逸",
+      "onboard_time": 1759806081,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 318525,
@@ -211,6 +235,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 275778,
+      "num": 184381,
+      "word": "猴子被游客扇巴掌",
+      "onboard_time": 1759805659,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 270241,
       "num": 270241,
       "word": "店家回应炒蛏子和螃蟹两个菜661元",
@@ -233,14 +265,6 @@
       "onboard_time": 1759798940,
       "rank": 13,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 250323,
-      "num": 250323,
-      "word": "黄磊处处被贴脸开大",
-      "onboard_time": 1759804579,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 244762,
@@ -307,14 +331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 225382,
-      "num": 225382,
-      "word": "德国提议将退休年龄提高至73岁",
-      "onboard_time": 1759802539,
-      "rank": 22,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 222633,
       "num": 146549,
       "word": "周深中俄双语致敬英烈",
@@ -331,14 +347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 202576,
-      "num": 202576,
-      "word": "台媒曝黄子佼肇事逃逸",
-      "onboard_time": 1759806081,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199353,
       "num": 170097,
       "word": "唐嫣美成啥了 欧豪也是个神",
@@ -347,12 +355,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198681,
-      "num": 139981,
-      "word": "猴子被游客扇巴掌",
-      "onboard_time": 1759805659,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 195176,
+      "num": 195176,
+      "word": "长着张海王脸结果被骗哭了",
+      "onboard_time": 1759805719,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 192862,
@@ -387,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190725,
+      "num": 190725,
+      "word": "张艺兴工作室生日长文",
+      "onboard_time": 1759805899,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185023,
       "num": 185023,
       "word": "以色列呼吁不要相信假新闻",
@@ -403,8 +419,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178558,
-      "num": 178558,
+      "raw_hot": 181293,
+      "num": 181293,
       "word": "一笑随歌",
       "onboard_time": 1759803620,
       "rank": 19,
@@ -491,14 +507,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 140879,
-      "num": 140879,
-      "word": "长着张海王脸结果被骗哭了",
-      "onboard_time": 1759805719,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137417,
       "num": 137417,
       "word": "特朗普称美国本可轻松赢得越战",
@@ -563,14 +571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119897,
-      "num": 119897,
-      "word": "张艺兴工作室生日长文",
-      "onboard_time": 1759805899,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119364,
       "num": 119364,
       "word": "女子被假冒费玉清骗走上千万",
@@ -619,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111096,
+      "num": 111096,
+      "word": "想错峰返程结果中秋节堵路上",
+      "onboard_time": 1759806680,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110754,
       "num": 110754,
       "word": "8号我要陪许妍去离婚",
@@ -649,6 +657,14 @@
       "onboard_time": 1759761383,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 100646,
+      "num": 100646,
+      "word": "苹果本月末或发布新品",
+      "onboard_time": 1759806319,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 99837,
@@ -723,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93916,
+      "num": 93916,
+      "word": "震耳欲聋路演",
+      "onboard_time": 1759806621,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93486,
       "num": 93486,
       "word": "丁程鑫去看了张艺兴演唱会",
@@ -755,6 +779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86240,
+      "num": 86240,
+      "word": "南方多地将热到38摄氏度",
+      "onboard_time": 1759806680,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85540,
       "num": 144849,
       "word": "月入3万存2万五的真实生活",
@@ -769,6 +801,14 @@
       "onboard_time": 1759754544,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84087,
+      "num": 84087,
+      "word": "假期返程交通流量将大幅增加",
+      "onboard_time": 1759798400,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84031,
@@ -799,14 +839,6 @@
       "num": 144600,
       "word": "超级月亮",
       "onboard_time": 1759753041,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82069,
-      "num": 82069,
-      "word": "假期返程交通流量将大幅增加",
-      "onboard_time": 1759798400,
       "rank": 41,
       "category": "民生新闻"
     },

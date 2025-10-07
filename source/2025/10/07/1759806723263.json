@@ -1,0 +1,410 @@
+{
+  "runTime": 1759806723263,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 911953,
+        "num": 1145912,
+        "word": "金价",
+        "onboard_time": 1759803860,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 834808,
+        "num": 834808,
+        "word": "景区回应仙女散的是假花",
+        "onboard_time": 1759800140,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9078,
+        "num": 481353,
+        "word": "圆圆圆圆中秋圆圆圆圆",
+        "onboard_time": 1759713799,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 384504,
+        "num": 384504,
+        "word": "每天喝茶vs每天喝咖啡",
+        "onboard_time": 1759802119,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376942,
+        "num": 376942,
+        "word": "我国在固态锂电池领域取得突破",
+        "onboard_time": 1759800920,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330567,
+        "num": 330567,
+        "word": "日本预制拉面",
+        "onboard_time": 1759801519,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 330523,
+        "num": 330523,
+        "word": "德国提议将退休年龄提高至73岁",
+        "onboard_time": 1759802539,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 277854,
+        "num": 277854,
+        "word": "北京市民家中发现日军细菌战罪证",
+        "onboard_time": 1759794797,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261742,
+        "num": 261742,
+        "word": "医生说加沙医院惨状像屠宰场",
+        "onboard_time": 1759797439,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 245572,
+        "num": 245572,
+        "word": "王楚钦孙颖莎混双世排第3",
+        "onboard_time": 1759797800,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1399578,
+        "num": 244542,
+        "word": "大家上班一定要打扮自己",
+        "onboard_time": 1759802060,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 950160,
+        "num": 242752,
+        "word": "肖战为李沁新剧宣传",
+        "onboard_time": 1759802900,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 510649,
+        "num": 240421,
+        "word": "鹿晗方将承担机票和酒店产生的损失",
+        "onboard_time": 1759759762,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 344368,
+        "num": 238786,
+        "word": "黄磊处处被贴脸开大",
+        "onboard_time": 1759804579,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324410,
+        "num": 236957,
+        "word": "台媒曝黄子佼肇事逃逸",
+        "onboard_time": 1759806081,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323293,
+        "num": 236155,
+        "word": "素颜的刘浩存赵今麦李庚希",
+        "onboard_time": 1759764501,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235203,
+        "num": 235203,
+        "word": "詹姆斯将宣布重大决策",
+        "onboard_time": 1759796178,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211375,
+        "num": 211375,
+        "word": "刘轩丞G社生图",
+        "onboard_time": 1759802840,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195176,
+        "num": 195176,
+        "word": "长着张海王脸结果被骗哭了",
+        "onboard_time": 1759805719,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190725,
+        "num": 190725,
+        "word": "张艺兴工作室生日长文",
+        "onboard_time": 1759805899,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478548,
+        "num": 187175,
+        "word": "刘涛女儿居然马上要读大学了",
+        "onboard_time": 1759805060,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304367,
+        "num": 186991,
+        "word": "身体有炎症时少吃4种食物",
+        "onboard_time": 1759797678,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 275778,
+        "num": 184381,
+        "word": "猴子被游客扇巴掌",
+        "onboard_time": 1759805659,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181293,
+        "num": 181293,
+        "word": "一笑随歌",
+        "onboard_time": 1759803620,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181148,
+        "num": 181148,
+        "word": "金价涨涨涨疯了",
+        "onboard_time": 1759799000,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170617,
+        "num": 170617,
+        "word": "张杰看着屏幕上发光的谢娜",
+        "onboard_time": 1759794198,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168588,
+        "num": 168588,
+        "word": "国庆假期返程天气",
+        "onboard_time": 1759801759,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161493,
+        "num": 161493,
+        "word": "赵奕欢头发上插两把化妆刷就上台了",
+        "onboard_time": 1759802779,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153395,
+        "num": 153395,
+        "word": "全球第一网红回复詹姆斯",
+        "onboard_time": 1759803620,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138855,
+        "num": 138855,
+        "word": "香奈儿大秀",
+        "onboard_time": 1759798940,
+        "rank": 29,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 137655,
+        "num": 137655,
+        "word": "假期还有最后2天",
+        "onboard_time": 1759798699,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130187,
+        "num": 130187,
+        "word": "特朗普站在防弹玻璃后疯狂吹嘘",
+        "onboard_time": 1759803020,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123874,
+        "num": 123874,
+        "word": "赵今麦在国外美成啥了",
+        "onboard_time": 1759761024,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122355,
+        "num": 122355,
+        "word": "谢娜 央视主持",
+        "onboard_time": 1759753463,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121842,
+        "num": 121842,
+        "word": "男子回应五台山遇狐狸带路",
+        "onboard_time": 1759802960,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111096,
+        "num": 111096,
+        "word": "想错峰返程结果中秋节堵路上",
+        "onboard_time": 1759806680,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110757,
+        "num": 110757,
+        "word": "店家回应炒蛏子和螃蟹两个菜661元",
+        "onboard_time": 1759793298,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104921,
+        "num": 104921,
+        "word": "王一博85号痛楼",
+        "onboard_time": 1759804760,
+        "rank": 37,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 100992,
+        "num": 100992,
+        "word": "普通人素颜出门怎么变好看",
+        "onboard_time": 1759801579,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100646,
+        "num": 100646,
+        "word": "苹果本月末或发布新品",
+        "onboard_time": 1759806319,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 98031,
+        "num": 98031,
+        "word": "朱雨玲世排反超日本乒协",
+        "onboard_time": 1759803860,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96106,
+        "num": 96106,
+        "word": "战斧导弹射程覆盖莫斯科",
+        "onboard_time": 1759803079,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95000,
+        "num": 95000,
+        "word": "难怪周迅能和香合作18年",
+        "onboard_time": 1759805119,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93916,
+        "num": 93916,
+        "word": "震耳欲聋路演",
+        "onboard_time": 1759806621,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88979,
+        "num": 88979,
+        "word": "37岁交警在执法现场被撞牺牲",
+        "onboard_time": 1759797678,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88313,
+        "num": 88313,
+        "word": "中学通报学生从家长身上踩过",
+        "onboard_time": 1759798699,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86550,
+        "num": 86550,
+        "word": "柚子是一种很善良的水果",
+        "onboard_time": 1759797199,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 86240,
+        "num": 86240,
+        "word": "南方多地将热到38摄氏度",
+        "onboard_time": 1759806680,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84087,
+        "num": 84087,
+        "word": "假期返程交通流量将大幅增加",
+        "onboard_time": 1759798400,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83107,
+        "num": 83107,
+        "word": "北汽集团辟谣",
+        "onboard_time": 1759799059,
+        "rank": 49,
+        "category": "民生新闻,汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#中秋佳节聆听总书记的温暖话语#"
+    }
+  }
+}

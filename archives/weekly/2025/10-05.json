@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759806196846,
+  "endTime": 1759806723263,
   "band_list": [
     {
       "raw_hot": 2879723,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1399578,
+      "num": 256329,
+      "word": "大家上班一定要打扮自己",
+      "onboard_time": 1759802060,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1291281,
       "num": 1291281,
       "word": "王楚钦vsF勒布伦",
@@ -137,14 +145,6 @@
       "onboard_time": 1759655781,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1280395,
-      "num": 256329,
-      "word": "大家上班一定要打扮自己",
-      "onboard_time": 1759802060,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 1240867,
@@ -292,11 +292,19 @@
     },
     {
       "raw_hot": 950279,
-      "num": 871297,
+      "num": 1145912,
       "word": "金价",
       "onboard_time": 1759645640,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 950160,
+      "num": 254259,
+      "word": "肖战为李沁新剧宣传",
+      "onboard_time": 1759802900,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 920198,
@@ -353,14 +361,6 @@
       "onboard_time": 1759680801,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 879431,
-      "num": 254259,
-      "word": "肖战为李沁新剧宣传",
-      "onboard_time": 1759802900,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 875218,
@@ -804,7 +804,7 @@
     },
     {
       "raw_hot": 502358,
-      "num": 177464,
+      "num": 186991,
       "word": "身体有炎症时少吃4种食物",
       "onboard_time": 1759797678,
       "rank": 20,
@@ -883,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 478548,
+      "num": 187175,
+      "word": "刘涛女儿居然马上要读大学了",
+      "onboard_time": 1759805060,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477899,
       "num": 248818,
       "word": "时代少年团高会直播",
@@ -929,14 +937,6 @@
       "onboard_time": 1759660942,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 454505,
-      "num": 177948,
-      "word": "刘涛女儿居然马上要读大学了",
-      "onboard_time": 1759805060,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 453342,
@@ -1155,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384504,
+      "num": 384504,
+      "word": "每天喝茶vs每天喝咖啡",
+      "onboard_time": 1759802119,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 382617,
       "num": 159111,
       "word": "成都漫展小伙cos辱华角色被扯掉假发",
@@ -1315,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344368,
+      "num": 250323,
+      "word": "黄磊处处被贴脸开大",
+      "onboard_time": 1759804579,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343347,
       "num": 343347,
       "word": "易烊千玺 有人正在挂念你",
@@ -1356,7 +1372,7 @@
     },
     {
       "raw_hot": 338368,
-      "num": 177154,
+      "num": 181148,
       "word": "金价涨涨涨疯了",
       "onboard_time": 1759799000,
       "rank": 21,
@@ -1411,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330523,
+      "num": 330523,
+      "word": "德国提议将退休年龄提高至73岁",
+      "onboard_time": 1759802539,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 330297,
       "num": 330297,
       "word": "美军开始焦虑",
@@ -1427,12 +1451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 324205,
-      "num": 324205,
-      "word": "每天喝茶vs每天喝咖啡",
-      "onboard_time": 1759802119,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 324410,
+      "num": 236957,
+      "word": "台媒曝黄子佼肇事逃逸",
+      "onboard_time": 1759806081,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 323016,
@@ -1787,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275778,
+      "num": 184381,
+      "word": "猴子被游客扇巴掌",
+      "onboard_time": 1759805659,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275655,
       "num": 165445,
       "word": "刘诗诗陈哲远 红气养人",
@@ -1953,14 +1985,6 @@
       "onboard_time": 1759716681,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250323,
-      "num": 250323,
-      "word": "黄磊处处被贴脸开大",
-      "onboard_time": 1759804579,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 249084,
@@ -2137,14 +2161,6 @@
       "onboard_time": 1759802840,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 225382,
-      "num": 225382,
-      "word": "德国提议将退休年龄提高至73岁",
-      "onboard_time": 1759802539,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 223040,
@@ -2395,14 +2411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202576,
-      "num": 202576,
-      "word": "台媒曝黄子佼肇事逃逸",
-      "onboard_time": 1759806081,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201410,
       "num": 152440,
       "word": "恋与深空",
@@ -2441,14 +2449,6 @@
       "onboard_time": 1759735639,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 198681,
-      "num": 139981,
-      "word": "猴子被游客扇巴掌",
-      "onboard_time": 1759805659,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197916,
@@ -2521,6 +2521,14 @@
       "onboard_time": 1759715059,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 195176,
+      "num": 195176,
+      "word": "长着张海王脸结果被骗哭了",
+      "onboard_time": 1759805719,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 194985,
@@ -2625,6 +2633,14 @@
       "onboard_time": 1759664183,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190725,
+      "num": 190725,
+      "word": "张艺兴工作室生日长文",
+      "onboard_time": 1759805899,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 190506,
@@ -2811,6 +2827,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 181293,
+      "num": 181293,
+      "word": "一笑随歌",
+      "onboard_time": 1759673603,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180485,
       "num": 180485,
       "word": "拉塞尔夺F1新加坡站冠军",
@@ -2865,14 +2889,6 @@
       "onboard_time": 1759648820,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178558,
-      "num": 178558,
-      "word": "一笑随歌",
-      "onboard_time": 1759673603,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 178188,
@@ -3819,14 +3835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140879,
-      "num": 140879,
-      "word": "长着张海王脸结果被骗哭了",
-      "onboard_time": 1759805719,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140623,
       "num": 140623,
       "word": "哈马斯称巴勒斯坦人民将继续抵抗",
@@ -4523,14 +4531,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 119897,
-      "num": 119897,
-      "word": "张艺兴工作室生日长文",
-      "onboard_time": 1759805899,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119620,
       "num": 163440,
       "word": "面部八段锦让你气色变好",
@@ -5000,6 +5000,14 @@
       "word": "8天长假已过半",
       "onboard_time": 1759628539,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111096,
+      "num": 111096,
+      "word": "想错峰返程结果中秋节堵路上",
+      "onboard_time": 1759806680,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -5627,6 +5635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100646,
+      "num": 100646,
+      "word": "苹果本月末或发布新品",
+      "onboard_time": 1759806319,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 100251,
       "num": 100251,
       "word": "猫猫睡这么直还以为被电了",
@@ -5953,6 +5969,14 @@
       "onboard_time": 1759746501,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93916,
+      "num": 93916,
+      "word": "震耳欲聋路演",
+      "onboard_time": 1759806621,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 93763,
@@ -6307,6 +6331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 86240,
+      "num": 86240,
+      "word": "南方多地将热到38摄氏度",
+      "onboard_time": 1759806680,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85766,
       "num": 85766,
       "word": "法国总理勒科尔尼递交辞呈",
@@ -6387,6 +6419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 84087,
+      "num": 84087,
+      "word": "假期返程交通流量将大幅增加",
+      "onboard_time": 1759798400,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83940,
       "num": 172456,
       "word": "巴黎世家大秀",
@@ -6457,14 +6497,6 @@
       "onboard_time": 1759652840,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82069,
-      "num": 82069,
-      "word": "假期返程交通流量将大幅增加",
-      "onboard_time": 1759798400,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81971,
