@@ -1,0 +1,410 @@
+{
+  "runTime": 1759880191183,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 580913,
+        "num": 902946,
+        "word": "高速5车追尾2死3伤",
+        "onboard_time": 1759854859,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307143,
+        "num": 307143,
+        "word": "终于知道为什么妈妈老开我房门了",
+        "onboard_time": 1759850362,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 8733,
+        "num": 251960,
+        "word": "再赏一次大江南北的中秋月",
+        "onboard_time": 1759822521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 233869,
+        "num": 233869,
+        "word": "警方回应小伙与女友吃饭被铐走",
+        "onboard_time": 1759848921,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201442,
+        "num": 201442,
+        "word": "大疆预告降价已购买消费者退货维权",
+        "onboard_time": 1759847423,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180866,
+        "num": 180866,
+        "word": "詹姆斯决定二 广告",
+        "onboard_time": 1759850542,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173355,
+        "num": 173355,
+        "word": "南京地铁回应鸡鸣寺暗讽事件",
+        "onboard_time": 1759840104,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121393,
+        "num": 121393,
+        "word": "千万别卡点下高速",
+        "onboard_time": 1759854859,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120976,
+        "num": 120976,
+        "word": "因女友与走失女孩撞脸男子被误抓",
+        "onboard_time": 1759849282,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120493,
+        "num": 120493,
+        "word": "寒露",
+        "onboard_time": 1759878617,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271381,
+        "num": 120418,
+        "word": "老婆回应与张纪中的婚姻没有爱情",
+        "onboard_time": 1759842984,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122448,
+        "num": 120350,
+        "word": "周生辰下时宜了",
+        "onboard_time": 1759841603,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120104,
+        "num": 120104,
+        "word": "杜海涛到了伦敦冒充王嘉尔",
+        "onboard_time": 1759841845,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108276,
+        "num": 108276,
+        "word": "馆长被台湾警方侦办",
+        "onboard_time": 1759844123,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106164,
+        "num": 106164,
+        "word": "马主回应70多匹马下山时被绑前腿",
+        "onboard_time": 1759852822,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105520,
+        "num": 105520,
+        "word": "在马来西亚失联中国游客朋友发声",
+        "onboard_time": 1759878197,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97631,
+        "num": 97631,
+        "word": "我始终认为用九键打字的人都是天才",
+        "onboard_time": 1759837342,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95687,
+        "num": 95687,
+        "word": "假期最后1天迎来寒露",
+        "onboard_time": 1759854859,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78594,
+        "num": 78594,
+        "word": "刘宇宁没接到过将门独后剧本",
+        "onboard_time": 1759850661,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77378,
+        "num": 77378,
+        "word": "张艺兴 莲池春晚",
+        "onboard_time": 1759846702,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92123,
+        "num": 76742,
+        "word": "顺产开十指真是十个手指那么宽吗",
+        "onboard_time": 1759850122,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70260,
+        "num": 70260,
+        "word": "王一博刷爆个人纪录帅炸了",
+        "onboard_time": 1759839745,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 67696,
+        "num": 67696,
+        "word": "鸡排哥回应嘴唇发紫发白",
+        "onboard_time": 1759840824,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66619,
+        "num": 66619,
+        "word": "建议大家不要提前买衣服",
+        "onboard_time": 1759825941,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66081,
+        "num": 66081,
+        "word": "女方父亲回应悔婚退彩礼扣3万拥抱费",
+        "onboard_time": 1759863314,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51519,
+        "num": 51519,
+        "word": "亲历者称冰岛侧翻大巴上多名中国人",
+        "onboard_time": 1759845383,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50851,
+        "num": 50851,
+        "word": "供一个大学生四年需要花多少钱",
+        "onboard_time": 1759842923,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49930,
+        "num": 49930,
+        "word": "宋伊人溜达日常",
+        "onboard_time": 1759832542,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48954,
+        "num": 48954,
+        "word": "精简版ModelY售价",
+        "onboard_time": 1759835180,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 48908,
+        "num": 48908,
+        "word": "孙颖莎WTT大满贯单打四冠王",
+        "onboard_time": 1759878797,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48848,
+        "num": 48848,
+        "word": "坚持每天看书真的能改变一个人吗",
+        "onboard_time": 1759842923,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48623,
+        "num": 48623,
+        "word": "珠峰暴雪向导一人一狗带超百人撤离",
+        "onboard_time": 1759844604,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42810,
+        "num": 42810,
+        "word": "刘宇宁不换壁纸的原因",
+        "onboard_time": 1759848442,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42463,
+        "num": 42463,
+        "word": "许我耀眼",
+        "onboard_time": 1759833440,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42190,
+        "num": 42190,
+        "word": "姐姐失踪4年被发现时已成干尸",
+        "onboard_time": 1759823422,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42170,
+        "num": 42170,
+        "word": "殷世航向傲娇美求婚",
+        "onboard_time": 1759844304,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 40782,
+        "num": 40782,
+        "word": "小狗沐浴的当晚可以在床上睡觉",
+        "onboard_time": 1759849942,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 40414,
+        "num": 40414,
+        "word": "韩国部分新婚夫妇放弃黄金戒指",
+        "onboard_time": 1759844663,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38745,
+        "num": 38745,
+        "word": "00后利用办公室午休赚三份工资",
+        "onboard_time": 1759837881,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36951,
+        "num": 38743,
+        "word": "文化中国行寒露节气",
+        "onboard_time": 1759879458,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36039,
+        "num": 38741,
+        "word": "向太回应郭碧婷回娘家长住",
+        "onboard_time": 1759832361,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34100,
+        "num": 38737,
+        "word": "成毅 刀剑如梦",
+        "onboard_time": 1759844063,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33966,
+        "num": 38734,
+        "word": "广州暴雨",
+        "onboard_time": 1759842744,
+        "rank": 42,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 32622,
+        "num": 38729,
+        "word": "一笑随歌热度",
+        "onboard_time": 1759848024,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31493,
+        "num": 38729,
+        "word": "刘耀文自拍照两宫格",
+        "onboard_time": 1759879997,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29350,
+        "num": 38723,
+        "word": "70多匹马下山时被绑一条前腿",
+        "onboard_time": 1759847722,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29123,
+        "num": 38721,
+        "word": "县域旅游已成为一种时尚",
+        "onboard_time": 1759878197,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28975,
+        "num": 38718,
+        "word": "迪奥设计师 工作累丑",
+        "onboard_time": 1759836082,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 28391,
+        "num": 38713,
+        "word": "高速免费至10月8日24时",
+        "onboard_time": 1759862595,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27750,
+        "num": 38710,
+        "word": "Steam",
+        "onboard_time": 1759880177,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#把爱家和爱国统一起来#"
+    }
+  }
+}

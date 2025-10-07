@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759879379648,
+  "endTime": 1759880191183,
   "band_list": [
     {
       "raw_hot": 1099261,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 734082,
-      "num": 809478,
+      "num": 902946,
       "word": "高速5车追尾2死3伤",
       "onboard_time": 1759854859,
       "rank": 4,
@@ -147,19 +147,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173355,
+      "num": 173355,
+      "word": "南京地铁回应鸡鸣寺暗讽事件",
+      "onboard_time": 1759840104,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170346,
       "num": 170346,
       "word": "寒露",
       "onboard_time": 1759878617,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167285,
-      "num": 167285,
-      "word": "南京地铁回应鸡鸣寺暗讽事件",
-      "onboard_time": 1759840104,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120104,
+      "num": 120104,
+      "word": "杜海涛到了伦敦冒充王嘉尔",
+      "onboard_time": 1759841845,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119031,
       "num": 119031,
       "word": "广州暴雨",
@@ -235,12 +243,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 111326,
-      "num": 115630,
-      "word": "杜海涛到了伦敦冒充王嘉尔",
-      "onboard_time": 1759841845,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 105520,
+      "num": 105520,
+      "word": "在马来西亚失联中国游客朋友发声",
+      "onboard_time": 1759878197,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105009,
@@ -307,14 +315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 69736,
-      "num": 69736,
-      "word": "在马来西亚失联中国游客朋友发声",
-      "onboard_time": 1759878197,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66638,
       "num": 115674,
       "word": "成毅 刀剑如梦",
@@ -331,20 +331,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 66081,
+      "num": 66081,
+      "word": "女方父亲回应悔婚退彩礼扣3万拥抱费",
+      "onboard_time": 1759863314,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64117,
       "num": 115635,
       "word": "精简版ModelY售价",
       "onboard_time": 1759835180,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 62386,
-      "num": 62386,
-      "word": "女方父亲回应悔婚退彩礼扣3万拥抱费",
-      "onboard_time": 1759863314,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62356,
@@ -411,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48908,
+      "num": 48908,
+      "word": "孙颖莎WTT大满贯单打四冠王",
+      "onboard_time": 1759878797,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48114,
       "num": 115540,
       "word": "苏超南通5比0淮安",
@@ -435,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46055,
-      "num": 46055,
-      "word": "孙颖莎WTT大满贯单打四冠王",
-      "onboard_time": 1759878797,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 45849,
       "num": 115503,
       "word": "薛之谦音乐节",
@@ -459,12 +459,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 42463,
+      "num": 42463,
+      "word": "许我耀眼",
+      "onboard_time": 1759833440,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40126,
       "num": 69589,
       "word": "电影毕正明的证明",
       "onboard_time": 1759856658,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 38745,
+      "num": 61863,
+      "word": "00后利用办公室午休赚三份工资",
+      "onboard_time": 1759837881,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 37626,
@@ -475,12 +491,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34947,
-      "num": 34947,
-      "word": "许我耀眼",
-      "onboard_time": 1759833440,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 36951,
+      "num": 38743,
+      "word": "文化中国行寒露节气",
+      "onboard_time": 1759879458,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32158,
@@ -491,12 +507,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 31277,
-      "num": 61863,
-      "word": "00后利用办公室午休赚三份工资",
-      "onboard_time": 1759837881,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 31493,
+      "num": 38729,
+      "word": "刘耀文自拍照两宫格",
+      "onboard_time": 1759879997,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 29525,
@@ -515,12 +531,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26633,
-      "num": 29462,
+      "raw_hot": 29123,
+      "num": 38721,
       "word": "县域旅游已成为一种时尚",
       "onboard_time": 1759878197,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27750,
+      "num": 38710,
+      "word": "Steam",
+      "onboard_time": 1759880177,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 26632,
