@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759842376089,
+  "endTime": 1759844129091,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -425,6 +425,14 @@
       "onboard_time": 1759655781,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1284723,
+      "num": 859755,
+      "word": "鸡排哥回应嘴唇发紫发白",
+      "onboard_time": 1759840824,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1280118,
@@ -1059,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 859969,
+      "num": 313560,
+      "word": "周生辰下时宜了",
+      "onboard_time": 1759841603,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 856924,
       "num": 289189,
       "word": "月入3万存2万五的真实生活",
@@ -1465,14 +1481,6 @@
       "onboard_time": 1759311982,
       "rank": 29,
       "category": "幽默,旅游"
-    },
-    {
-      "raw_hot": 706724,
-      "num": 706724,
-      "word": "鸡排哥回应嘴唇发紫发白",
-      "onboard_time": 1759840824,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 705961,
@@ -4427,14 +4435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 313560,
-      "num": 313560,
-      "word": "周生辰下时宜了",
-      "onboard_time": 1759841603,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 313456,
       "num": 313456,
       "word": "九旬老人将饭店100多斤操作台拖走",
@@ -5171,6 +5171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 270382,
+      "num": 191540,
+      "word": "杜海涛到了伦敦冒充王嘉尔",
+      "onboard_time": 1759841845,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270244,
       "num": 237984,
       "word": "王一博观战德约科维奇",
@@ -5563,6 +5571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247860,
+      "num": 172730,
+      "word": "老婆回应与张纪中的婚姻没有爱情",
+      "onboard_time": 1759842984,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247378,
       "num": 262138,
       "word": "王楚钦告诉自己身兼三项是幸福的",
@@ -5939,6 +5955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231073,
+      "num": 342614,
+      "word": "00后利用办公室午休赚三份工资",
+      "onboard_time": 1759837881,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 230849,
       "num": 230849,
       "word": "孙颖莎vs王晓彤",
@@ -6217,6 +6241,14 @@
       "onboard_time": 1759485681,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219223,
+      "num": 219223,
+      "word": "苏超南通vs淮安淘汰赛",
+      "onboard_time": 1759840166,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 218550,
@@ -6505,6 +6537,14 @@
       "onboard_time": 1759656682,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 209196,
+      "num": 209196,
+      "word": "南京地铁回应鸡鸣寺暗讽事件",
+      "onboard_time": 1759840104,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209017,
@@ -7419,14 +7459,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 191540,
-      "num": 191540,
-      "word": "杜海涛到了伦敦冒充王嘉尔",
-      "onboard_time": 1759841845,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 191463,
       "num": 174920,
       "word": "邝玲玲晒与迪丽热巴orm合照",
@@ -7681,14 +7713,6 @@
       "onboard_time": 1759586781,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185720,
-      "num": 342614,
-      "word": "00后利用办公室午休赚三份工资",
-      "onboard_time": 1759837881,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 185364,
@@ -8107,6 +8131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179517,
+      "num": 180202,
+      "word": "05年男子拒服兵役被罚8.64万",
+      "onboard_time": 1759841124,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179504,
       "num": 179504,
       "word": "黄子弘凡周笔畅 将进酒",
@@ -8409,14 +8441,6 @@
       "onboard_time": 1759640780,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 173913,
-      "num": 173913,
-      "word": "南京地铁回应鸡鸣寺暗讽事件",
-      "onboard_time": 1759840104,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173502,
@@ -9009,6 +9033,14 @@
       "onboard_time": 1759373899,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165574,
+      "num": 174145,
+      "word": "广州暴雨",
+      "onboard_time": 1759842744,
+      "rank": 13,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 165477,
@@ -9651,14 +9683,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 154995,
-      "num": 177500,
-      "word": "苏超南通vs淮安淘汰赛",
-      "onboard_time": 1759840166,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 154973,
       "num": 154973,
       "word": "曾舜晞直播",
@@ -10137,6 +10161,14 @@
       "onboard_time": 1759803020,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 147176,
+      "num": 147176,
+      "word": "坚持每天看书真的能改变一个人吗",
+      "onboard_time": 1759842923,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 147057,
@@ -13043,6 +13075,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 119241,
+      "num": 119241,
+      "word": "陈丽君谈我的大观园火出圈",
+      "onboard_time": 1759843584,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119198,
       "num": 119198,
       "word": "南京打进苏超淘汰赛首球",
@@ -13465,6 +13505,14 @@
       "onboard_time": 1759661724,
       "rank": 49,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 115925,
+      "num": 115925,
+      "word": "吒宝神森森跳TroubleMaker",
+      "onboard_time": 1759843103,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 115904,
@@ -17419,6 +17467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94084,
+      "num": 94084,
+      "word": "川超绵阳vs德阳",
+      "onboard_time": 1759843884,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94025,
       "num": 94025,
       "word": "王俊凯小说男主身材比例",
@@ -17505,6 +17561,14 @@
       "onboard_time": 1759469901,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 93823,
+      "num": 93823,
+      "word": "供一个大学生四年需要花多少钱",
+      "onboard_time": 1759842923,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 93784,
@@ -17947,14 +18011,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 90834,
-      "num": 180202,
-      "word": "05年男子拒服兵役被罚8.64万",
-      "onboard_time": 1759841124,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90783,
       "num": 90783,
       "word": "李昀锐一句台词听不到但看哭了",
@@ -18057,6 +18113,14 @@
       "onboard_time": 1759737141,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90126,
+      "num": 90126,
+      "word": "司机龟速行驶被下坡逆行男孩撞上",
+      "onboard_time": 1759843463,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90090,
@@ -19131,6 +19195,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 83040,
+      "num": 83040,
+      "word": "成毅 刀剑如梦",
+      "onboard_time": 1759844063,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 83039,
       "num": 83039,
       "word": "黄友政温瑞博3比2陈颢桦黄镇廷",
@@ -19425,6 +19497,14 @@
       "onboard_time": 1759373179,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80522,
+      "num": 80522,
+      "word": "上课时总有人的腿是这样放的",
+      "onboard_time": 1759843824,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 80516,

@@ -1,6 +1,6 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759842376089,
+  "endTime": 1759844129091,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -17,6 +17,14 @@
       "onboard_time": 1759802060,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1284723,
+      "num": 859755,
+      "word": "鸡排哥回应嘴唇发紫发白",
+      "onboard_time": 1759840824,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1220104,
@@ -107,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 859969,
+      "num": 313560,
+      "word": "周生辰下时宜了",
+      "onboard_time": 1759841603,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 841724,
       "num": 253501,
       "word": "鹿晗方将承担机票和酒店产生的损失",
@@ -145,14 +161,6 @@
       "onboard_time": 1759806799,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 706724,
-      "num": 706724,
-      "word": "鸡排哥回应嘴唇发紫发白",
-      "onboard_time": 1759840824,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 703243,
@@ -571,14 +579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313560,
-      "num": 313560,
-      "word": "周生辰下时宜了",
-      "onboard_time": 1759841603,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 309176,
       "num": 309176,
       "word": "小米17pro",
@@ -651,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270382,
+      "num": 191540,
+      "word": "杜海涛到了伦敦冒充王嘉尔",
+      "onboard_time": 1759841845,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270241,
       "num": 270241,
       "word": "店家回应炒蛏子和螃蟹两个菜661元",
@@ -665,6 +673,14 @@
       "onboard_time": 1759798940,
       "rank": 13,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 247860,
+      "num": 172730,
+      "word": "老婆回应与张纪中的婚姻没有爱情",
+      "onboard_time": 1759842984,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 244762,
@@ -723,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231073,
+      "num": 342614,
+      "word": "00后利用办公室午休赚三份工资",
+      "onboard_time": 1759837881,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226918,
       "num": 172451,
       "word": "张艺兴演唱会唱了十二月的奇迹",
@@ -763,6 +787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219223,
+      "num": 219223,
+      "word": "苏超南通vs淮安淘汰赛",
+      "onboard_time": 1759840166,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215784,
       "num": 325105,
       "word": "中方主提决议在联合国获通过",
@@ -785,6 +817,14 @@
       "onboard_time": 1759794739,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 209196,
+      "num": 209196,
+      "word": "南京地铁回应鸡鸣寺暗讽事件",
+      "onboard_time": 1759840104,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207880,
@@ -931,14 +971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191540,
-      "num": 191540,
-      "word": "杜海涛到了伦敦冒充王嘉尔",
-      "onboard_time": 1759841845,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190725,
       "num": 190725,
       "word": "张艺兴工作室生日长文",
@@ -969,14 +1001,6 @@
       "onboard_time": 1759832361,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 185720,
-      "num": 342614,
-      "word": "00后利用办公室午休赚三份工资",
-      "onboard_time": 1759837881,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 185023,
@@ -1051,6 +1075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179517,
+      "num": 180202,
+      "word": "05年男子拒服兵役被罚8.64万",
+      "onboard_time": 1759841124,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176937,
       "num": 176937,
       "word": "王一博刷爆个人纪录帅炸了",
@@ -1097,14 +1129,6 @@
       "onboard_time": 1759810581,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 173913,
-      "num": 173913,
-      "word": "南京地铁回应鸡鸣寺暗讽事件",
-      "onboard_time": 1759840104,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 173059,
@@ -1201,6 +1225,14 @@
       "onboard_time": 1759792876,
       "rank": 46,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 165574,
+      "num": 174145,
+      "word": "广州暴雨",
+      "onboard_time": 1759842744,
+      "rank": 13,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 163742,
@@ -1307,14 +1339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154995,
-      "num": 177500,
-      "word": "苏超南通vs淮安淘汰赛",
-      "onboard_time": 1759840166,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152229,
       "num": 173712,
       "word": "被困珠峰游客称暴雪闪电中挺过一晚",
@@ -1337,6 +1361,14 @@
       "onboard_time": 1759803020,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 147176,
+      "num": 147176,
+      "word": "坚持每天看书真的能改变一个人吗",
+      "onboard_time": 1759842923,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 146620,
@@ -1731,6 +1763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119241,
+      "num": 119241,
+      "word": "陈丽君谈我的大观园火出圈",
+      "onboard_time": 1759843584,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119030,
       "num": 119030,
       "word": "给狗洗澡3小时比它还委屈",
@@ -1769,6 +1809,14 @@
       "onboard_time": 1759804760,
       "rank": 38,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 115925,
+      "num": 115925,
+      "word": "吒宝神森森跳TroubleMaker",
+      "onboard_time": 1759843103,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 115159,
@@ -2339,6 +2387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 94084,
+      "num": 94084,
+      "word": "川超绵阳vs德阳",
+      "onboard_time": 1759843884,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94001,
       "num": 94001,
       "word": "刘宇宁直播讲踢馆失败的事",
@@ -2369,6 +2425,14 @@
       "onboard_time": 1759806621,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 93823,
+      "num": 93823,
+      "word": "供一个大学生四年需要花多少钱",
+      "onboard_time": 1759842923,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 93690,
@@ -2435,19 +2499,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90834,
-      "num": 180202,
-      "word": "05年男子拒服兵役被罚8.64万",
-      "onboard_time": 1759841124,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90592,
       "num": 153552,
       "word": "细菌战受害者伤口80年仍未愈合",
       "onboard_time": 1759829721,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90126,
+      "num": 90126,
+      "word": "司机龟速行驶被下坡逆行男孩撞上",
+      "onboard_time": 1759843463,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -2587,6 +2651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 83040,
+      "num": 83040,
+      "word": "成毅 刀剑如梦",
+      "onboard_time": 1759844063,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 82778,
       "num": 145100,
       "word": "中秋团圆",
@@ -2617,6 +2689,14 @@
       "onboard_time": 1759836021,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80522,
+      "num": 80522,
+      "word": "上课时总有人的腿是这样放的",
+      "onboard_time": 1759843824,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 79985,

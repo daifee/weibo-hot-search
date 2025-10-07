@@ -1,0 +1,410 @@
+{
+  "runTime": 1759844129091,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 831882,
+        "num": 1133101,
+        "word": "迪奥设计师 工作累丑",
+        "onboard_time": 1759836082,
+        "rank": 0,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1284723,
+        "num": 859755,
+        "word": "鸡排哥回应嘴唇发紫发白",
+        "onboard_time": 1759840824,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11662,
+        "num": 692286,
+        "word": "国庆假期返程天气",
+        "onboard_time": 1759801759,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 529574,
+        "num": 529574,
+        "word": "建议大家不要提前买衣服",
+        "onboard_time": 1759825941,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323221,
+        "num": 323221,
+        "word": "我始终认为用九键打字的人都是天才",
+        "onboard_time": 1759837342,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231073,
+        "num": 231073,
+        "word": "00后利用办公室午休赚三份工资",
+        "onboard_time": 1759837881,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219223,
+        "num": 219223,
+        "word": "苏超南通vs淮安淘汰赛",
+        "onboard_time": 1759840166,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215299,
+        "num": 215299,
+        "word": "福建太姥山180斤游客被卡石缝",
+        "onboard_time": 1759833620,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209196,
+        "num": 209196,
+        "word": "南京地铁回应鸡鸣寺暗讽事件",
+        "onboard_time": 1759840104,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179517,
+        "num": 179517,
+        "word": "05年男子拒服兵役被罚8.64万",
+        "onboard_time": 1759841124,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7756414,
+        "num": 7756414,
+        "word": "左航 撞人",
+        "onboard_time": 1759838601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 859969,
+        "num": 177099,
+        "word": "周生辰下时宜了",
+        "onboard_time": 1759841603,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270382,
+        "num": 175010,
+        "word": "杜海涛到了伦敦冒充王嘉尔",
+        "onboard_time": 1759841845,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165574,
+        "num": 174145,
+        "word": "广州暴雨",
+        "onboard_time": 1759842744,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 247860,
+        "num": 172730,
+        "word": "老婆回应与张纪中的婚姻没有爱情",
+        "onboard_time": 1759842984,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240765,
+        "num": 170847,
+        "word": "明星接受采访不要穿橙色",
+        "onboard_time": 1759817420,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227021,
+        "num": 169893,
+        "word": "张艺兴演唱会",
+        "onboard_time": 1759834161,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223093,
+        "num": 168260,
+        "word": "李沁出道以来第一次摇人宣传",
+        "onboard_time": 1759826300,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167185,
+        "num": 167185,
+        "word": "苏超",
+        "onboard_time": 1759837282,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166285,
+        "num": 166285,
+        "word": "迪丽热巴回国",
+        "onboard_time": 1759833861,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197505,
+        "num": 161545,
+        "word": "宋伊人溜达日常",
+        "onboard_time": 1759832542,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218555,
+        "num": 159175,
+        "word": "张碧晨给张艺兴送花篮",
+        "onboard_time": 1759835780,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194293,
+        "num": 158484,
+        "word": "姐姐失踪4年被发现时已成干尸",
+        "onboard_time": 1759823422,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151829,
+        "num": 151829,
+        "word": "女方悔婚退彩礼时要扣3万拥抱费",
+        "onboard_time": 1759833081,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147176,
+        "num": 147176,
+        "word": "坚持每天看书真的能改变一个人吗",
+        "onboard_time": 1759842923,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144207,
+        "num": 144207,
+        "word": "王一博刷爆个人纪录帅炸了",
+        "onboard_time": 1759839745,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 140957,
+        "num": 140957,
+        "word": "想发火的猴子发现是熟人后秒变脸",
+        "onboard_time": 1759841004,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131265,
+        "num": 131265,
+        "word": "山东音乐节疑似大量人员冲卡逃票",
+        "onboard_time": 1759829721,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124535,
+        "num": 124535,
+        "word": "精简版ModelY售价",
+        "onboard_time": 1759835180,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 120710,
+        "num": 120710,
+        "word": "杨幂去了龙井日本遗址博物馆",
+        "onboard_time": 1759816341,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119241,
+        "num": 119241,
+        "word": "陈丽君谈我的大观园火出圈",
+        "onboard_time": 1759843584,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118566,
+        "num": 118566,
+        "word": "刘宇宁直播",
+        "onboard_time": 1759835601,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115925,
+        "num": 115925,
+        "word": "吒宝神森森跳TroubleMaker",
+        "onboard_time": 1759843103,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109513,
+        "num": 109513,
+        "word": "小黄豆曝随礼标准",
+        "onboard_time": 1759838541,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 107483,
+        "num": 107483,
+        "word": "向太回应郭碧婷回娘家长住",
+        "onboard_time": 1759832361,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104937,
+        "num": 104937,
+        "word": "跳绳八个月瘦了49斤",
+        "onboard_time": 1759828281,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 102112,
+        "num": 102112,
+        "word": "登陆少年不换番",
+        "onboard_time": 1759826242,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468074,
+        "num": 100679,
+        "word": "左航头盔",
+        "onboard_time": 1759839324,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96955,
+        "num": 96955,
+        "word": "同事称诺奖得主在徒步旅行联系不上",
+        "onboard_time": 1759836801,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95626,
+        "num": 95626,
+        "word": "中方主提决议在联合国获通过",
+        "onboard_time": 1759836441,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94084,
+        "num": 94084,
+        "word": "川超绵阳vs德阳",
+        "onboard_time": 1759843884,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93823,
+        "num": 93823,
+        "word": "供一个大学生四年需要花多少钱",
+        "onboard_time": 1759842923,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91648,
+        "num": 91648,
+        "word": "TF四代出道团成员由公司自主决定",
+        "onboard_time": 1759824800,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90126,
+        "num": 90126,
+        "word": "司机龟速行驶被下坡逆行男孩撞上",
+        "onboard_time": 1759843463,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85344,
+        "num": 85344,
+        "word": "被2000多年前的中国基建震撼到",
+        "onboard_time": 1759836801,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83040,
+        "num": 83040,
+        "word": "成毅 刀剑如梦",
+        "onboard_time": 1759844063,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 82923,
+        "num": 82923,
+        "word": "100岁弟弟过生日103岁哥哥来了",
+        "onboard_time": 1759834880,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82193,
+        "num": 82193,
+        "word": "狸花猫被狸猫换太子了",
+        "onboard_time": 1759840523,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81326,
+        "num": 81326,
+        "word": "我甚至以为烧饼是纸壳做的",
+        "onboard_time": 1759840404,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80522,
+        "num": 80522,
+        "word": "上课时总有人的腿是这样放的",
+        "onboard_time": 1759843824,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#同心协力共襄伟业#"
+    }
+  }
+}
