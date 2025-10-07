@@ -1,6 +1,6 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759815646593,
+  "endTime": 1759819035747,
   "band_list": [
     {
       "raw_hot": 1399578,
@@ -124,10 +124,18 @@
     },
     {
       "raw_hot": 620276,
-      "num": 203345,
+      "num": 203365,
       "word": "应鹏去世",
       "onboard_time": 1759808302,
       "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 606923,
+      "num": 205053,
+      "word": "刘雯和井柏然祝大家中秋快乐",
+      "onboard_time": 1759816221,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -163,12 +171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520503,
+      "num": 203821,
+      "word": "刘涛 不重要我买单",
+      "onboard_time": 1759814481,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 502358,
       "num": 196649,
       "word": "身体有炎症时少吃4种食物",
       "onboard_time": 1759797678,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 491128,
+      "num": 204748,
+      "word": "杨幂去了龙井日本遗址博物馆",
+      "onboard_time": 1759816341,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 482525,
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 476795,
-      "num": 202044,
+      "num": 204144,
       "word": "港媒曝歌手关淑怡病危",
       "onboard_time": 1759813941,
       "rank": 19,
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 435235,
-      "num": 200039,
+      "num": 200863,
       "word": "闫妮 中年孟子义",
       "onboard_time": 1759812742,
       "rank": 17,
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 393210,
-      "num": 196592,
+      "num": 202019,
       "word": "黄晓明公司艺人名单有陈梦",
       "onboard_time": 1759811121,
       "rank": 32,
@@ -289,6 +313,14 @@
       "onboard_time": 1759799000,
       "rank": 21,
       "category": "财经"
+    },
+    {
+      "raw_hot": 336772,
+      "num": 336772,
+      "word": "环保少女抵达希腊数百人欢迎",
+      "onboard_time": 1759813822,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 318525,
@@ -339,6 +371,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 251815,
+      "num": 251815,
+      "word": "环保少女称种族灭绝正在发生",
+      "onboard_time": 1759815800,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 244762,
       "num": 172689,
       "word": "周深 三十岁了已经不可爱了",
@@ -379,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 231114,
+      "num": 201590,
+      "word": "六个月瘦55斤的面部变化",
+      "onboard_time": 1759815022,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 226918,
       "num": 172451,
       "word": "张艺兴演唱会唱了十二月的奇迹",
@@ -411,12 +459,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222120,
+      "num": 201120,
+      "word": "两个菜661元商家退款400元",
+      "onboard_time": 1759816401,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213139,
       "num": 213139,
       "word": "雨衣上的帽子究竟是谁设计的",
       "onboard_time": 1759794739,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 206738,
+      "num": 206738,
+      "word": "steam崩了",
+      "onboard_time": 1759817482,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 200784,
+      "num": 200784,
+      "word": "范丞丞没有一句台词却哭到崩溃",
+      "onboard_time": 1759818382,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 199353,
@@ -435,14 +507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195716,
-      "num": 195716,
-      "word": "刘涛 不重要我买单",
-      "onboard_time": 1759814481,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 195176,
       "num": 195176,
       "word": "长着张海王脸结果被骗哭了",
@@ -459,12 +523,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 193316,
-      "num": 140323,
-      "word": "六个月瘦55斤的面部变化",
-      "onboard_time": 1759815022,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 193639,
+      "num": 193639,
+      "word": "白鹿 拒绝容貌焦虑",
+      "onboard_time": 1759816221,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 192862,
@@ -539,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179645,
+      "num": 179645,
+      "word": "谢娜一听到张杰名字就害羞了",
+      "onboard_time": 1759817659,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 176651,
       "num": 176651,
       "word": "吉克隽逸看完张艺兴发九宫格live图",
@@ -611,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171142,
+      "num": 171142,
+      "word": "王一博破个人最快圈速记录",
+      "onboard_time": 1759817842,
+      "rank": 32,
+      "category": "体育,体育"
+    },
+    {
       "raw_hot": 168001,
       "num": 168001,
       "word": "刘浩存扛住了G社镜头",
@@ -635,12 +715,28 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 162846,
+      "num": 201921,
+      "word": "深圳水贝黄金料商跑路潮",
+      "onboard_time": 1759817659,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162289,
       "num": 162289,
       "word": "谢娜曾让团队不要声张主持央视秋晚",
       "onboard_time": 1759807161,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161556,
+      "num": 136836,
+      "word": "王一博8小时耐力赛",
+      "onboard_time": 1759817779,
+      "rank": 39,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 160752,
@@ -659,6 +755,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 157552,
+      "num": 157552,
+      "word": "明星接受采访不要穿橙色",
+      "onboard_time": 1759817420,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155598,
       "num": 155598,
       "word": "王一博练车圈速",
@@ -668,7 +772,7 @@
     },
     {
       "raw_hot": 155258,
-      "num": 155258,
+      "num": 185441,
       "word": "樊振东回国备战全运会",
       "onboard_time": 1759813101,
       "rank": 28,
@@ -707,6 +811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 140250,
+      "num": 140250,
+      "word": "李沁感谢战哥期待少白",
+      "onboard_time": 1759817779,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140095,
       "num": 195792,
       "word": "无限暖暖",
@@ -739,6 +851,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137080,
+      "num": 137080,
+      "word": "杨紫粉丝假期宣传杨紫新剧",
+      "onboard_time": 1759817901,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 136836,
+      "num": 136835,
+      "word": "曹颖吃了20多年抗焦虑药",
+      "onboard_time": 1759816640,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135637,
+      "num": 135637,
+      "word": "穆祉丞伴手礼",
+      "onboard_time": 1759815800,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 135525,
       "num": 184306,
       "word": "央视中秋晚会",
@@ -769,6 +905,22 @@
       "onboard_time": 1759795699,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129970,
+      "num": 120333,
+      "word": "穆祉丞手写信",
+      "onboard_time": 1759817360,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 126858,
+      "num": 157835,
+      "word": "李昀锐新剧一觉睡醒有被孝到",
+      "onboard_time": 1759818861,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 126425,
@@ -819,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122419,
+      "num": 122419,
+      "word": "想买上衣就去搜裤子",
+      "onboard_time": 1759815982,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 121575,
       "num": 121575,
       "word": "董璇佟丽娅小酒窝朵朵中秋合照",
@@ -867,6 +1027,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 115745,
+      "num": 115745,
+      "word": "现在就出发",
+      "onboard_time": 1759816101,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114532,
       "num": 206471,
       "word": "世界之外",
@@ -883,12 +1051,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 114324,
-      "num": 206144,
-      "word": "环保少女抵达希腊数百人欢迎",
-      "onboard_time": 1759813822,
-      "rank": 46,
-      "category": "海外新闻"
+      "raw_hot": 113530,
+      "num": 113530,
+      "word": "十年前买的衣服",
+      "onboard_time": 1759818981,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 112999,
@@ -1017,6 +1185,14 @@
       "onboard_time": 1759808302,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105341,
+      "num": 205884,
+      "word": "以色列宣布驱逐环保少女等171人",
+      "onboard_time": 1759818621,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 103783,
@@ -1427,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 59312,
+      "num": 121730,
+      "word": "高速路突现一行人司机吓到尖叫",
+      "onboard_time": 1759817960,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56154,
       "num": 100941,
       "word": "越南男子杀3人称为完成游戏任务",
@@ -1449,6 +1633,14 @@
       "onboard_time": 1759770080,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51346,
+      "num": 182381,
+      "word": "台当局官员看到花莲洪灾大声讪笑",
+      "onboard_time": 1759818861,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51144,
@@ -1491,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43662,
+      "num": 136836,
+      "word": "电车停充电车位没充电被收占位费",
+      "onboard_time": 1759818201,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43238,
       "num": 43238,
       "word": "网友巴西遭抢劫电脑为其挡一枪",
@@ -1529,6 +1729,14 @@
       "onboard_time": 1759759162,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38156,
+      "num": 136839,
+      "word": "动物园羊驼被投喂撑到眼睛翻白",
+      "onboard_time": 1759817960,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36886,

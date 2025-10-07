@@ -1,0 +1,410 @@
+{
+  "runTime": 1759819035747,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 379380,
+        "num": 1060700,
+        "word": "每天喝茶vs每天喝咖啡",
+        "onboard_time": 1759802119,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 336772,
+        "num": 336772,
+        "word": "环保少女抵达希腊数百人欢迎",
+        "onboard_time": 1759813822,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 54163,
+        "num": 268700,
+        "word": "拍完你的拍你的",
+        "onboard_time": 1759795398,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251815,
+        "num": 251815,
+        "word": "环保少女称种族灭绝正在发生",
+        "onboard_time": 1759815800,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216312,
+        "num": 216312,
+        "word": "景区回应仙女散的是假花",
+        "onboard_time": 1759800140,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206738,
+        "num": 206738,
+        "word": "steam崩了",
+        "onboard_time": 1759817482,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157076,
+        "num": 206729,
+        "word": "医生说加沙医院惨状像屠宰场",
+        "onboard_time": 1759797439,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136174,
+        "num": 206236,
+        "word": "我国在固态锂电池领域取得突破",
+        "onboard_time": 1759800920,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105341,
+        "num": 205884,
+        "word": "以色列宣布驱逐环保少女等171人",
+        "onboard_time": 1759818621,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100687,
+        "num": 205691,
+        "word": "假期还有最后2天",
+        "onboard_time": 1759798699,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 701449,
+        "num": 205320,
+        "word": "刘涛女儿居然马上要读大学了",
+        "onboard_time": 1759805060,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 606923,
+        "num": 205053,
+        "word": "刘雯和井柏然祝大家中秋快乐",
+        "onboard_time": 1759816221,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 491128,
+        "num": 204748,
+        "word": "杨幂去了龙井日本遗址博物馆",
+        "onboard_time": 1759816341,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403825,
+        "num": 204569,
+        "word": "李沁的人脉",
+        "onboard_time": 1759809380,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387670,
+        "num": 204144,
+        "word": "港媒曝歌手关淑怡病危",
+        "onboard_time": 1759813941,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520503,
+        "num": 203821,
+        "word": "刘涛 不重要我买单",
+        "onboard_time": 1759814481,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350287,
+        "num": 203510,
+        "word": "奥斯卡孙乐言 现实版许我耀眼",
+        "onboard_time": 1759809679,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345792,
+        "num": 203365,
+        "word": "应鹏去世",
+        "onboard_time": 1759808302,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287706,
+        "num": 202896,
+        "word": "战沁",
+        "onboard_time": 1759806799,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287590,
+        "num": 202688,
+        "word": "大家上班一定要打扮自己",
+        "onboard_time": 1759802060,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 455813,
+        "num": 202520,
+        "word": "金价",
+        "onboard_time": 1759803860,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 231993,
+        "num": 202019,
+        "word": "黄晓明公司艺人名单有陈梦",
+        "onboard_time": 1759811121,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 162846,
+        "num": 201921,
+        "word": "深圳水贝黄金料商跑路潮",
+        "onboard_time": 1759817659,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231114,
+        "num": 201590,
+        "word": "六个月瘦55斤的面部变化",
+        "onboard_time": 1759815022,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222120,
+        "num": 201120,
+        "word": "两个菜661元商家退款400元",
+        "onboard_time": 1759816401,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221233,
+        "num": 200863,
+        "word": "闫妮 中年孟子义",
+        "onboard_time": 1759812742,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200784,
+        "num": 200784,
+        "word": "范丞丞没有一句台词却哭到崩溃",
+        "onboard_time": 1759818382,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195416,
+        "num": 195416,
+        "word": "赵磊说和qko在一起十年了",
+        "onboard_time": 1759807941,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193639,
+        "num": 193639,
+        "word": "白鹿 拒绝容貌焦虑",
+        "onboard_time": 1759816221,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102888,
+        "num": 185441,
+        "word": "樊振东回国备战全运会",
+        "onboard_time": 1759813101,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51346,
+        "num": 182381,
+        "word": "台当局官员看到花莲洪灾大声讪笑",
+        "onboard_time": 1759818861,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179645,
+        "num": 179645,
+        "word": "谢娜一听到张杰名字就害羞了",
+        "onboard_time": 1759817659,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171142,
+        "num": 171142,
+        "word": "王一博破个人最快圈速记录",
+        "onboard_time": 1759817842,
+        "rank": 32,
+        "category": "体育,体育"
+      },
+      {
+        "raw_hot": 126858,
+        "num": 157835,
+        "word": "李昀锐新剧一觉睡醒有被孝到",
+        "onboard_time": 1759818861,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157552,
+        "num": 157552,
+        "word": "明星接受采访不要穿橙色",
+        "onboard_time": 1759817420,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140250,
+        "num": 140250,
+        "word": "李沁感谢战哥期待少白",
+        "onboard_time": 1759817779,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137080,
+        "num": 137080,
+        "word": "杨紫粉丝假期宣传杨紫新剧",
+        "onboard_time": 1759817901,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38156,
+        "num": 136839,
+        "word": "动物园羊驼被投喂撑到眼睛翻白",
+        "onboard_time": 1759817960,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43662,
+        "num": 136836,
+        "word": "电车停充电车位没充电被收占位费",
+        "onboard_time": 1759818201,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161556,
+        "num": 136836,
+        "word": "王一博8小时耐力赛",
+        "onboard_time": 1759817779,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 136836,
+        "num": 136835,
+        "word": "曹颖吃了20多年抗焦虑药",
+        "onboard_time": 1759816640,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135637,
+        "num": 135637,
+        "word": "穆祉丞伴手礼",
+        "onboard_time": 1759815800,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125949,
+        "num": 125949,
+        "word": "鸡排哥10月9日休息",
+        "onboard_time": 1759807461,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122419,
+        "num": 122419,
+        "word": "想买上衣就去搜裤子",
+        "onboard_time": 1759815982,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 59312,
+        "num": 121730,
+        "word": "高速路突现一行人司机吓到尖叫",
+        "onboard_time": 1759817960,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121222,
+        "num": 121222,
+        "word": "这些症状或是身体已出现慢性炎症",
+        "onboard_time": 1759814421,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129970,
+        "num": 120333,
+        "word": "穆祉丞手写信",
+        "onboard_time": 1759817360,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119028,
+        "num": 119028,
+        "word": "小偷打开门天都塌了的程度",
+        "onboard_time": 1759812981,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115745,
+        "num": 115745,
+        "word": "现在就出发",
+        "onboard_time": 1759816101,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113530,
+        "num": 113530,
+        "word": "十年前买的衣服",
+        "onboard_time": 1759818981,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
