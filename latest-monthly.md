@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 13:24:39
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 13:40:46
 </p>
 </blockquote>
 <p>
@@ -1569,6 +1569,12 @@ hi6（热度：563954）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%96%9D%E8%8C%B6vs%E6%AF%8F%E5%A4%A9%E5%96%9D%E5%92%96%E5%95%A1%23" target="weibo">
+每天喝茶vs每天喝咖啡（热度：550593）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%20%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%8F%91%E5%9E%8B%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E7%94%9F%E6%B0%94%23" target="weibo">
 张予曦 今天的发型希望大家不要生气（热度：549944）
 </a>
@@ -1773,12 +1779,6 @@ hi6（热度：563954）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%96%9D%E8%8C%B6vs%E6%AF%8F%E5%A4%A9%E5%96%9D%E5%92%96%E5%95%A1%23" target="weibo">
-每天喝茶vs每天喝咖啡（热度：508703）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8BvsF%E5%8B%92%E5%B8%83%E4%BC%A6%23" target="weibo">
 林诗栋vsF勒布伦（热度：506365）
 </a>
@@ -1973,6 +1973,12 @@ VaVa说自己分手是因为浪姐（热度：480031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E4%BA%91%E5%90%8831.7%25%23" target="weibo">
 许我耀眼云合31.7%（热度：477643）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E6%9B%9D%E6%AD%8C%E6%89%8B%E5%85%B3%E6%B7%91%E6%80%A1%E7%97%85%E5%8D%B1%23" target="weibo">
+港媒曝歌手关淑怡病危（热度：476795）
 </a>
 </li>
 
@@ -2187,6 +2193,12 @@ K签证（热度：453444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%20%E4%B8%AD%E5%B9%B4%E5%AD%9F%E5%AD%90%E4%B9%89%23" target="weibo">
+闫妮 中年孟子义（热度：435235）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Dior%E8%BF%9E%E5%8F%914%E6%9D%A1%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
 Dior连发4条迪丽热巴（热度：434111）
 </a>
@@ -2363,12 +2375,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%A5%BD%E7%9A%84%E7%9D%A1%E5%A7%BFvs%E6%9C%80%E5%B7%AE%E7%9A%84%E7%9D%A1%E5%A7%BF%23" target="weibo">
 最好的睡姿vs最差的睡姿（热度：403014）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%20%E4%B8%AD%E5%B9%B4%E5%AD%9F%E5%AD%90%E4%B9%89%23" target="weibo">
-闫妮 中年孟子义（热度：402821）
 </a>
 </li>
 
@@ -4629,12 +4635,6 @@ AI女演员出道遭抵制（热度：212198）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E6%9B%9D%E6%AD%8C%E6%89%8B%E5%85%B3%E6%B7%91%E6%80%A1%E7%97%85%E5%8D%B1%23" target="weibo">
-港媒曝歌手关淑怡病危（热度：208393）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E4%B8%BA%E6%9D%8E%E6%B2%81%E6%96%B0%E5%89%A7%E5%AE%A3%E4%BC%A0%23" target="weibo">
 张晚意为李沁新剧宣传（热度：208173）
 </a>
@@ -5079,6 +5079,18 @@ AG战胜RW（热度：199437）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%81%B7%E6%89%93%E5%BC%80%E9%97%A8%E5%A4%A9%E9%83%BD%E5%A1%8C%E4%BA%86%E7%9A%84%E7%A8%8B%E5%BA%A6%23" target="weibo">
+小偷打开门天都塌了的程度（热度：195953）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%20%E4%B8%8D%E9%87%8D%E8%A6%81%E6%88%91%E4%B9%B0%E5%8D%95%23" target="weibo">
+刘涛 不重要我买单（热度：195716）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%A5%BC%23" target="weibo">
 月饼（热度：195707）
 </a>
@@ -5165,6 +5177,12 @@ AG战胜RW（热度：199437）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%89%BA%E4%BA%BA%E5%9D%90%E5%9C%B0%E8%B5%B7%E4%BB%B7%E4%BA%89%E8%AE%AE%E5%85%B3%E9%94%AE%E5%9C%A8%E5%90%88%E5%90%8C%E5%90%88%E6%84%8F%23" target="weibo">
 艺人坐地起价争议关键在合同合意（热度：193592）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E4%B8%AA%E6%9C%88%E7%98%A655%E6%96%A4%E7%9A%84%E9%9D%A2%E9%83%A8%E5%8F%98%E5%8C%96%23" target="weibo">
+六个月瘦55斤的面部变化（热度：193316）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ WTT大满贯（热度：171716）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B3%BB%E8%B1%AA%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 张峻豪演唱会（热度：171606）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%88%B0%E6%97%B6%E5%80%99%E7%95%AA%E4%BD%8D%E4%BD%A0%E5%92%8B%E5%AE%89%E6%8E%92%23" target="weibo">
-贺峻霖到时候番位你咋安排（热度：171372）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23F%E5%8B%92%E5%B8%83%E4%BC%A6%E9%A6%96%E8%BF%9B%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%86%B3%E8%B5%9B%23" target="weibo">
-F勒布伦首进大满贯决赛（热度：171269）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E7%9C%8B%E4%BA%86%E8%8A%B1%E5%B0%915%E6%89%8D%E9%80%89%E6%8B%A9%E4%BA%86%E7%8E%8B%E5%AE%89%E5%AE%87%23" target="weibo">
-导演看了花少5才选择了王安宇（热度：171198）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759814679688,
+  "endTime": 1759815646593,
   "band_list": [
     {
       "raw_hot": 1399578,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 620276,
-      "num": 200288,
+      "num": 203345,
       "word": "应鹏去世",
       "onboard_time": 1759808302,
       "rank": 24,
@@ -137,6 +137,14 @@
       "onboard_time": 1759762163,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 550593,
+      "num": 1088095,
+      "word": "每天喝茶vs每天喝咖啡",
+      "onboard_time": 1759802119,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 529785,
@@ -155,14 +163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 508703,
-      "num": 1081392,
-      "word": "每天喝茶vs每天喝咖啡",
-      "onboard_time": 1759802119,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 502358,
       "num": 196649,
       "word": "身体有炎症时少吃4种食物",
@@ -177,6 +177,14 @@
       "onboard_time": 1759802539,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 476795,
+      "num": 202044,
+      "word": "港媒曝歌手关淑怡病危",
+      "onboard_time": 1759813941,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 464187,
@@ -203,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 435235,
+      "num": 200039,
+      "word": "闫妮 中年孟子义",
+      "onboard_time": 1759812742,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 425582,
       "num": 425582,
       "word": "詹姆斯将宣布重大决策",
@@ -227,16 +243,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 402821,
-      "num": 175756,
-      "word": "闫妮 中年孟子义",
-      "onboard_time": 1759812742,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 393210,
-      "num": 188170,
+      "num": 196592,
       "word": "黄晓明公司艺人名单有陈梦",
       "onboard_time": 1759811121,
       "rank": 32,
@@ -411,19 +419,27 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 208393,
-      "num": 175297,
-      "word": "港媒曝歌手关淑怡病危",
-      "onboard_time": 1759813941,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199353,
       "num": 170097,
       "word": "唐嫣美成啥了 欧豪也是个神",
       "onboard_time": 1759755683,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 195953,
+      "num": 195953,
+      "word": "小偷打开门天都塌了的程度",
+      "onboard_time": 1759812981,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 195716,
+      "num": 195716,
+      "word": "刘涛 不重要我买单",
+      "onboard_time": 1759814481,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -441,6 +457,14 @@
       "onboard_time": 1759809742,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193316,
+      "num": 140323,
+      "word": "六个月瘦55斤的面部变化",
+      "onboard_time": 1759815022,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 192862,
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 182944,
-      "num": 189021,
+      "num": 207418,
       "word": "假期还有最后2天",
       "onboard_time": 1759798699,
       "rank": 15,
@@ -611,14 +635,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 166013,
-      "num": 166013,
-      "word": "小偷打开门天都塌了的程度",
-      "onboard_time": 1759812981,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 162289,
       "num": 162289,
       "word": "谢娜曾让团队不要声张主持央视秋晚",
@@ -641,6 +657,14 @@
       "onboard_time": 1759749382,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 155598,
+      "num": 155598,
+      "word": "王一博练车圈速",
+      "onboard_time": 1759815022,
+      "rank": 26,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 155258,
@@ -684,7 +708,7 @@
     },
     {
       "raw_hot": 140095,
-      "num": 177556,
+      "num": 195792,
       "word": "无限暖暖",
       "onboard_time": 1759813879,
       "rank": 7,
@@ -779,14 +803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122988,
-      "num": 122988,
-      "word": "刘涛 不重要我买单",
-      "onboard_time": 1759814481,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122871,
       "num": 122871,
       "word": "男子回应五台山遇狐狸带路",
@@ -851,12 +867,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 114532,
+      "num": 206471,
+      "word": "世界之外",
+      "onboard_time": 1759814481,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114439,
       "num": 114439,
       "word": "普京和内塔尼亚胡通话",
       "onboard_time": 1759810700,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 114324,
+      "num": 206144,
+      "word": "环保少女抵达希腊数百人欢迎",
+      "onboard_time": 1759813822,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 112999,
@@ -1091,14 +1123,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 96269,
-      "num": 96269,
-      "word": "环保少女抵达希腊数百人欢迎",
-      "onboard_time": 1759813822,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 95473,
       "num": 145394,
       "word": "打卡快乐十一",
@@ -1113,14 +1137,6 @@
       "onboard_time": 1759806680,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94546,
-      "num": 94546,
-      "word": "世界之外",
-      "onboard_time": 1759814481,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 94293,
@@ -1155,6 +1171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93561,
+      "num": 93561,
+      "word": "显脸小的氛围感披肩发",
+      "onboard_time": 1759815620,
+      "rank": 47,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 93486,
       "num": 93486,
       "word": "丁程鑫去看了张艺兴演唱会",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1759800981,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92642,
+      "num": 92642,
+      "word": "学医的人是最适合玩剧本杀的",
+      "onboard_time": 1759813161,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 91564,
