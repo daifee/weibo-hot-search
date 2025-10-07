@@ -1,0 +1,410 @@
+{
+  "runTime": 1759829265137,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 793300,
+        "num": 1126928,
+        "word": "150斤男生下床抵门被风掀开四五次",
+        "onboard_time": 1759825880,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 565770,
+        "num": 565770,
+        "word": "建议大家不要提前买衣服",
+        "onboard_time": 1759825941,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24445,
+        "num": 462873,
+        "word": "国庆假期返程天气",
+        "onboard_time": 1759801759,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 414433,
+        "num": 414433,
+        "word": "中国游客 泡发的木耳",
+        "onboard_time": 1759823481,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 365048,
+        "num": 365048,
+        "word": "两个菜661元商家退款400元",
+        "onboard_time": 1759816401,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321924,
+        "num": 321924,
+        "word": "预制甜品已进化到不知天地为何物了",
+        "onboard_time": 1759822160,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 237473,
+        "num": 237473,
+        "word": "返程堵车",
+        "onboard_time": 1759820839,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237233,
+        "num": 237233,
+        "word": "2中国游客在马来西亚一岛上失联",
+        "onboard_time": 1759827020,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218956,
+        "num": 218956,
+        "word": "小米17pro",
+        "onboard_time": 1759827801,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 158831,
+        "num": 217427,
+        "word": "驻韩美军试图威慑中国",
+        "onboard_time": 1759822521,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 607045,
+        "num": 214271,
+        "word": "李沁出道以来第一次摇人宣传",
+        "onboard_time": 1759826300,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 519297,
+        "num": 211355,
+        "word": "TF四代出道团成员由公司自主决定",
+        "onboard_time": 1759824800,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489251,
+        "num": 208165,
+        "word": "登陆少年不换番",
+        "onboard_time": 1759826242,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410942,
+        "num": 207247,
+        "word": "明星接受采访不要穿橙色",
+        "onboard_time": 1759817420,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363076,
+        "num": 205041,
+        "word": "杨幂去了龙井日本遗址博物馆",
+        "onboard_time": 1759816341,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291833,
+        "num": 202568,
+        "word": "赵磊十年前才16岁",
+        "onboard_time": 1759822521,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 274991,
+        "num": 198734,
+        "word": "刘雯和井柏然祝大家中秋快乐",
+        "onboard_time": 1759816221,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247507,
+        "num": 196530,
+        "word": "刘涛女儿居然马上要读大学了",
+        "onboard_time": 1759805060,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226289,
+        "num": 194396,
+        "word": "张艺兴演唱会 极限男人帮",
+        "onboard_time": 1759827441,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42769,
+        "num": 189041,
+        "word": "有一种爱叫塞满整个后备箱",
+        "onboard_time": 1759828281,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361889,
+        "num": 186869,
+        "word": "姐姐失踪4年被发现时已成干尸",
+        "onboard_time": 1759823422,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186240,
+        "num": 186240,
+        "word": "穆祉丞哭了",
+        "onboard_time": 1759826059,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180945,
+        "num": 180945,
+        "word": "女子路中央拦车被其母一掌打碎眼镜",
+        "onboard_time": 1759825761,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175300,
+        "num": 175300,
+        "word": "校方就家长跪地被学生轮流踩踏道歉",
+        "onboard_time": 1759819641,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143828,
+        "num": 143828,
+        "word": "女子2600元买猫被传染满脸猫藓",
+        "onboard_time": 1759827562,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137796,
+        "num": 137796,
+        "word": "两中国游客在马来西亚酒店失联3日",
+        "onboard_time": 1759827082,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137228,
+        "num": 137228,
+        "word": "张帅vs纳瓦罗",
+        "onboard_time": 1759828040,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136740,
+        "num": 136740,
+        "word": "雷军 小米17系列首销成绩远超预期",
+        "onboard_time": 1759826360,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129202,
+        "num": 129202,
+        "word": "时代少年团高鼻梁这一块",
+        "onboard_time": 1759825160,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112603,
+        "num": 112603,
+        "word": "环保少女承认遭以方虐待",
+        "onboard_time": 1759819519,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160954,
+        "num": 111789,
+        "word": "孙颖莎王楚钦WTT香港总决赛",
+        "onboard_time": 1759828820,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141108,
+        "num": 111456,
+        "word": "跳绳八个月瘦了49斤",
+        "onboard_time": 1759828281,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 129178,
+        "num": 111438,
+        "word": "何晟铭翻红后第一件事",
+        "onboard_time": 1759824079,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110918,
+        "num": 110918,
+        "word": "李沁的人脉",
+        "onboard_time": 1759809380,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107139,
+        "num": 107139,
+        "word": "miumiu 好多围裙",
+        "onboard_time": 1759819519,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 107127,
+        "num": 107127,
+        "word": "环保少女称种族灭绝正在发生",
+        "onboard_time": 1759815800,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102770,
+        "num": 102770,
+        "word": "2025WTT总决赛最新资格名单",
+        "onboard_time": 1759826242,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98920,
+        "num": 98920,
+        "word": "BFX对战NIP",
+        "onboard_time": 1759828161,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94382,
+        "num": 94382,
+        "word": "井迪说追井胧追得辛苦",
+        "onboard_time": 1759827621,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91891,
+        "num": 91891,
+        "word": "校方回应宿舍遭台风强拆",
+        "onboard_time": 1759828820,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 90169,
+        "num": 90169,
+        "word": "你要的中秋月亮美图来了",
+        "onboard_time": 1759821441,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88343,
+        "num": 88343,
+        "word": "特朗普称环保少女太疯狂该去看病",
+        "onboard_time": 1759825641,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57926,
+        "num": 88182,
+        "word": "景区回应180斤游客被卡石缝",
+        "onboard_time": 1759827921,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88044,
+        "num": 88044,
+        "word": "张帅2比1纳瓦罗",
+        "onboard_time": 1759829120,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85432,
+        "num": 85432,
+        "word": "白鹿 拒绝容貌焦虑",
+        "onboard_time": 1759816221,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84210,
+        "num": 84210,
+        "word": "张艺兴彩排直播",
+        "onboard_time": 1759823660,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83580,
+        "num": 83580,
+        "word": "刘子晗孙涵清这就是生理性喜欢吧",
+        "onboard_time": 1759824439,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80731,
+        "num": 80731,
+        "word": "BFX战胜NIP",
+        "onboard_time": 1759829241,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78908,
+        "num": 78908,
+        "word": "李在明不满驻韩美军威慑中国",
+        "onboard_time": 1759826480,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78895,
+        "num": 78895,
+        "word": "王楚钦每年2个大满贯单打冠军",
+        "onboard_time": 1759829120,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#同心协力共襄伟业#"
+    }
+  }
+}

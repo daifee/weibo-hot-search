@@ -1,6 +1,6 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759826797188,
+  "endTime": 1759829265137,
   "band_list": [
     {
       "raw_hot": 1399578,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 793300,
+      "num": 1126928,
+      "word": "150斤男生下床抵门被风掀开四五次",
+      "onboard_time": 1759825880,
+      "rank": 26,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 779523,
       "num": 213646,
       "word": "战沁",
@@ -156,19 +164,35 @@
     },
     {
       "raw_hot": 610474,
-      "num": 165923,
+      "num": 211355,
       "word": "TF四代出道团成员由公司自主决定",
       "onboard_time": 1759824800,
       "rank": 11,
       "category": "艺人"
     },
     {
+      "raw_hot": 607045,
+      "num": 214271,
+      "word": "李沁出道以来第一次摇人宣传",
+      "onboard_time": 1759826300,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 600522,
-      "num": 191660,
+      "num": 207247,
       "word": "明星接受采访不要穿橙色",
       "onboard_time": 1759817420,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 565770,
+      "num": 565770,
+      "word": "建议大家不要提前买衣服",
+      "onboard_time": 1759825941,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 559985,
@@ -227,6 +251,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 489251,
+      "num": 208165,
+      "word": "登陆少年不换番",
+      "onboard_time": 1759826242,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 482525,
       "num": 482525,
       "word": "德国提议将退休年龄提高至73岁",
@@ -268,7 +300,7 @@
     },
     {
       "raw_hot": 442684,
-      "num": 162019,
+      "num": 186869,
       "word": "姐姐失踪4年被发现时已成干尸",
       "onboard_time": 1759823422,
       "rank": 20,
@@ -313,6 +345,14 @@
       "onboard_time": 1759794198,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 414433,
+      "num": 414433,
+      "word": "中国游客 泡发的木耳",
+      "onboard_time": 1759823481,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 413898,
@@ -388,7 +428,7 @@
     },
     {
       "raw_hot": 337421,
-      "num": 163996,
+      "num": 202568,
       "word": "赵磊十年前才16岁",
       "onboard_time": 1759822521,
       "rank": 38,
@@ -475,14 +515,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 258956,
-      "num": 258956,
-      "word": "中国游客 泡发的木耳",
-      "onboard_time": 1759823481,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 244762,
       "num": 172689,
       "word": "周深 三十岁了已经不可爱了",
@@ -504,6 +536,14 @@
       "word": "月亮",
       "onboard_time": 1759743260,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237233,
+      "num": 237233,
+      "word": "2中国游客在马来西亚一岛上失联",
+      "onboard_time": 1759827020,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -547,6 +587,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 226289,
+      "num": 194396,
+      "word": "张艺兴演唱会 极限男人帮",
+      "onboard_time": 1759827441,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 225986,
       "num": 225986,
       "word": "刘轩丞G社生图",
@@ -571,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218956,
+      "num": 218956,
+      "word": "小米17pro",
+      "onboard_time": 1759827801,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 215280,
       "num": 215280,
       "word": "steam崩了",
@@ -585,22 +641,6 @@
       "onboard_time": 1759794739,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 210707,
-      "num": 127569,
-      "word": "建议大家不要提前买衣服",
-      "onboard_time": 1759825941,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 202915,
-      "num": 159708,
-      "word": "登陆少年不换番",
-      "onboard_time": 1759826242,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 200784,
@@ -620,7 +660,7 @@
     },
     {
       "raw_hot": 197812,
-      "num": 158968,
+      "num": 186240,
       "word": "穆祉丞哭了",
       "onboard_time": 1759826059,
       "rank": 22,
@@ -676,7 +716,7 @@
     },
     {
       "raw_hot": 192037,
-      "num": 192037,
+      "num": 217427,
       "word": "驻韩美军试图威慑中国",
       "onboard_time": 1759822521,
       "rank": 41,
@@ -692,7 +732,7 @@
     },
     {
       "raw_hot": 191847,
-      "num": 191847,
+      "num": 462873,
       "word": "国庆假期返程天气",
       "onboard_time": 1759801759,
       "rank": 8,
@@ -729,14 +769,6 @@
       "onboard_time": 1759768459,
       "rank": 36,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 184913,
-      "num": 158705,
-      "word": "李沁出道以来第一次摇人宣传",
-      "onboard_time": 1759826300,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 184151,
@@ -777,6 +809,14 @@
       "onboard_time": 1759818621,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 180945,
+      "num": 180945,
+      "word": "女子路中央拦车被其母一掌打碎眼镜",
+      "onboard_time": 1759825761,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179645,
@@ -891,14 +931,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 167687,
-      "num": 158608,
-      "word": "女子路中央拦车被其母一掌打碎眼镜",
-      "onboard_time": 1759825761,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167454,
       "num": 167454,
       "word": "今年已有多名艺人在景区再就业",
@@ -937,6 +969,14 @@
       "onboard_time": 1759817779,
       "rank": 39,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 160954,
+      "num": 111789,
+      "word": "孙颖莎王楚钦WTT香港总决赛",
+      "onboard_time": 1759828820,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 160752,
@@ -1019,6 +1059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143828,
+      "num": 143828,
+      "word": "女子2600元买猫被传染满脸猫藓",
+      "onboard_time": 1759827562,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143620,
       "num": 127204,
       "word": "2025WTT总决赛最新资格名单",
@@ -1033,6 +1081,14 @@
       "onboard_time": 1759801699,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 141108,
+      "num": 111456,
+      "word": "跳绳八个月瘦了49斤",
+      "onboard_time": 1759828281,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 140250,
@@ -1075,6 +1131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137796,
+      "num": 137796,
+      "word": "两中国游客在马来西亚酒店失联3日",
+      "onboard_time": 1759827082,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137417,
       "num": 137417,
       "word": "特朗普称美国本可轻松赢得越战",
@@ -1091,12 +1155,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137228,
+      "num": 137228,
+      "word": "张帅vs纳瓦罗",
+      "onboard_time": 1759828040,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137080,
       "num": 137080,
       "word": "杨紫粉丝假期宣传杨紫新剧",
       "onboard_time": 1759817901,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136740,
+      "num": 136740,
+      "word": "雷军 小米17系列首销成绩远超预期",
+      "onboard_time": 1759826360,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 135525,
@@ -1291,28 +1371,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117446,
-      "num": 117446,
-      "word": "雷军 小米17系列首销成绩远超预期",
-      "onboard_time": 1759826360,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 116269,
       "num": 116269,
       "word": "王一博85号痛楼",
       "onboard_time": 1759804760,
       "rank": 38,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 114895,
-      "num": 159427,
-      "word": "150斤男生下床抵门被风掀开四五次",
-      "onboard_time": 1759825880,
-      "rank": 26,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 114852,
@@ -1579,6 +1643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98920,
+      "num": 98920,
+      "word": "BFX对战NIP",
+      "onboard_time": 1759828161,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98271,
       "num": 145278,
       "word": "中秋晚会没有何炅",
@@ -1691,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94382,
+      "num": 94382,
+      "word": "井迪说追井胧追得辛苦",
+      "onboard_time": 1759827621,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94293,
       "num": 144816,
       "word": "韩国疗养院给老人服用大量安眠药",
@@ -1771,6 +1851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91891,
+      "num": 91891,
+      "word": "校方回应宿舍遭台风强拆",
+      "onboard_time": 1759828820,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 91564,
       "num": 91564,
       "word": "王楚钦你扣子扣岔了",
@@ -1785,6 +1873,14 @@
       "onboard_time": 1759819701,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88044,
+      "num": 88044,
+      "word": "张帅2比1纳瓦罗",
+      "onboard_time": 1759829120,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 87927,
@@ -1883,6 +1979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80731,
+      "num": 80731,
+      "word": "BFX战胜NIP",
+      "onboard_time": 1759829241,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79985,
       "num": 111424,
       "word": "男子高速下车摘马蜂窝吃",
@@ -1897,6 +2001,14 @@
       "onboard_time": 1759825461,
       "rank": 48,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 78895,
+      "num": 78895,
+      "word": "王楚钦每年2个大满贯单打冠军",
+      "onboard_time": 1759829120,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 77422,
@@ -2051,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57926,
+      "num": 88182,
+      "word": "景区回应180斤游客被卡石缝",
+      "onboard_time": 1759827921,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56154,
       "num": 100941,
       "word": "越南男子杀3人称为完成游戏任务",
@@ -2129,6 +2249,14 @@
       "onboard_time": 1759777934,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 42769,
+      "num": 189041,
+      "word": "有一种爱叫塞满整个后备箱",
+      "onboard_time": 1759828281,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42660,
@@ -2313,6 +2441,9 @@
     },
     {
       "word": "#文脉华章#"
+    },
+    {
+      "word": "#同心协力共襄伟业#"
     }
   ]
 }
