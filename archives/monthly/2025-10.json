@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759864862746,
+  "endTime": 1759865833891,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -22491,20 +22491,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37626,
+      "num": 39390,
+      "word": "高速免费至10月8日24时",
+      "onboard_time": 1759862595,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37473,
       "num": 149050,
       "word": "特朗普称环保少女太疯狂",
       "onboard_time": 1759845623,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 37129,
-      "num": 39390,
-      "word": "高速免费至10月8日24时",
-      "onboard_time": 1759862595,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37036,
@@ -23680,6 +23680,14 @@
       "word": "731毒气实验室成玩具历史不容儿戏",
       "onboard_time": 1759588403,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11437,
+      "num": 17781,
+      "word": "父母跪地学生踩过如此教育该谁愧疚",
+      "onboard_time": 1759865594,
+      "rank": 49,
       "category": "民生新闻"
     },
     {

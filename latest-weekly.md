@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/08 03:21:02
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/08 03:37:13
 </p>
 </blockquote>
 <p>
@@ -7341,14 +7341,14 @@ WTT中国大满贯冠军城市宣传照（热度：46159）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E5%A4%AA%E7%96%AF%E7%8B%82%23" target="weibo">
-特朗普称环保少女太疯狂（热度：37473）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E8%87%B310%E6%9C%888%E6%97%A524%E6%97%B6%23" target="weibo">
+高速免费至10月8日24时（热度：37626）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E8%87%B310%E6%9C%888%E6%97%A524%E6%97%B6%23" target="weibo">
-高速免费至10月8日24时（热度：37129）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E5%A4%AA%E7%96%AF%E7%8B%82%23" target="weibo">
+特朗普称环保少女太疯狂（热度：37473）
 </a>
 </li>
 
@@ -7709,6 +7709,12 @@ CP2025SP（热度：26632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E9%B9%8F%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8C%85%E6%8F%BD%E4%BA%94%E5%86%A0%23" target="weibo">
 向鹏祝贺中国队包揽五冠（热度：12612）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E8%B7%AA%E5%9C%B0%E5%AD%A6%E7%94%9F%E8%B8%A9%E8%BF%87%E5%A6%82%E6%AD%A4%E6%95%99%E8%82%B2%E8%AF%A5%E8%B0%81%E6%84%A7%E7%96%9A%23" target="weibo">
+父母跪地学生踩过如此教育该谁愧疚（热度：11437）
 </a>
 </li>
 

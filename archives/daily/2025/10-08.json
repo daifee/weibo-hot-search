@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759864862746,
+  "endTime": 1759865833891,
   "band_list": [
     {
       "raw_hot": 1099261,
@@ -435,7 +435,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 37129,
+      "raw_hot": 37626,
       "num": 39390,
       "word": "高速免费至10月8日24时",
       "onboard_time": 1759862595,
@@ -513,6 +513,14 @@
       "onboard_time": 1759864814,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 11437,
+      "num": 17781,
+      "word": "父母跪地学生踩过如此教育该谁愧疚",
+      "onboard_time": 1759865594,
+      "rank": 49,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
