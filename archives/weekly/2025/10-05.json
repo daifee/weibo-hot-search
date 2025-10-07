@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759847228347,
+  "endTime": 1759848264839,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2791993,
-      "num": 198864,
+      "num": 200317,
       "word": "时代峰峻回应左航撞人",
       "onboard_time": 1759844244,
       "rank": 15,
@@ -435,6 +435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 883908,
+      "num": 203974,
+      "word": "张艺兴 莲池春晚",
+      "onboard_time": 1759846702,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 881454,
       "num": 912375,
       "word": "武契奇暗示可能爆发新战争",
@@ -561,14 +569,6 @@
       "onboard_time": 1759730601,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 784261,
-      "num": 198552,
-      "word": "张艺兴 莲池春晚",
-      "onboard_time": 1759846702,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 779523,
@@ -1027,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 518510,
+      "num": 201213,
+      "word": "孙燕姿匿名捐款上千万",
+      "onboard_time": 1759846102,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 518401,
       "num": 259149,
       "word": "翁青雅回应签公司",
@@ -1097,6 +1105,14 @@
       "onboard_time": 1759754544,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 494040,
+      "num": 198262,
+      "word": "殷世航向傲娇美求婚",
+      "onboard_time": 1759844304,
+      "rank": 28,
+      "category": "网红"
     },
     {
       "raw_hot": 492489,
@@ -1307,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441429,
+      "num": 441429,
+      "word": "广州暴雨",
+      "onboard_time": 1759842744,
+      "rank": 13,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 438654,
       "num": 438654,
       "word": "山西婚礼要在下水道井盖贴喜字",
@@ -1515,14 +1539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 381104,
-      "num": 192856,
-      "word": "殷世航向傲娇美求婚",
-      "onboard_time": 1759844304,
-      "rank": 28,
-      "category": "网红"
-    },
-    {
       "raw_hot": 379291,
       "num": 198946,
       "word": "猴子被游客扇巴掌",
@@ -1603,14 +1619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 370927,
-      "num": 370927,
-      "word": "广州暴雨",
-      "onboard_time": 1759842744,
-      "rank": 13,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 370639,
       "num": 370639,
       "word": "环保少女称种族灭绝正在发生",
@@ -1625,6 +1633,14 @@
       "onboard_time": 1759619656,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 360617,
+      "num": 360617,
+      "word": "馆长被台湾警方侦办",
+      "onboard_time": 1759844123,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 359278,
@@ -1785,6 +1801,14 @@
       "onboard_time": 1759813822,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 334825,
+      "num": 200826,
+      "word": "老婆回应与张纪中的婚姻没有爱情",
+      "onboard_time": 1759842984,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 333715,
@@ -1955,22 +1979,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 317003,
-      "num": 317003,
-      "word": "馆长被台湾警方侦办",
-      "onboard_time": 1759844123,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 316705,
-      "num": 200826,
-      "word": "老婆回应与张纪中的婚姻没有爱情",
-      "onboard_time": 1759842984,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 316182,
       "num": 316182,
       "word": "面馆默许高中生插队排队游客发声",
@@ -2017,14 +2025,6 @@
       "onboard_time": 1759590022,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 311750,
-      "num": 182268,
-      "word": "孙燕姿匿名捐款上千万",
-      "onboard_time": 1759846102,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 311387,
@@ -2273,6 +2273,14 @@
       "onboard_time": 1759661123,
       "rank": 23,
       "category": "情感,运动健身"
+    },
+    {
+      "raw_hot": 278367,
+      "num": 278367,
+      "word": "亲历者称冰岛侧翻大巴上多名中国人",
+      "onboard_time": 1759845383,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 277637,
@@ -2835,6 +2843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 212571,
+      "num": 212571,
+      "word": "大疆预告降价已购买消费者退货维权",
+      "onboard_time": 1759847423,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211825,
       "num": 442175,
       "word": "月饼震惊外国友人了",
@@ -2937,14 +2953,6 @@
       "onboard_time": 1759619597,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 204875,
-      "num": 204875,
-      "word": "亲历者称冰岛侧翻大巴上多名中国人",
-      "onboard_time": 1759845383,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204481,
@@ -3217,6 +3225,14 @@
       "onboard_time": 1759785195,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192616,
+      "num": 192616,
+      "word": "德约科维奇晋级上海赛八强",
+      "onboard_time": 1759847963,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 192037,
@@ -3867,6 +3883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172151,
+      "num": 172151,
+      "word": "曾舜晞脱衣服没排练吗",
+      "onboard_time": 1759846882,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171676,
       "num": 171676,
       "word": "长生",
@@ -4073,6 +4097,14 @@
       "onboard_time": 1759821441,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163296,
+      "num": 163296,
+      "word": "供一个大学生四年需要花多少钱",
+      "onboard_time": 1759842923,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 163239,
@@ -4435,14 +4467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152590,
-      "num": 152590,
-      "word": "供一个大学生四年需要花多少钱",
-      "onboard_time": 1759842923,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 152262,
       "num": 152262,
       "word": "池昌旭差点被亲上",
@@ -4473,6 +4497,14 @@
       "onboard_time": 1759644202,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150620,
+      "num": 150620,
+      "word": "韩国部分新婚夫妇放弃黄金戒指",
+      "onboard_time": 1759844663,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 149919,
@@ -4803,14 +4835,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141431,
-      "num": 141431,
-      "word": "韩国部分新婚夫妇放弃黄金戒指",
-      "onboard_time": 1759844663,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 141048,
       "num": 141048,
       "word": "荷兰约25万人抗议示威",
@@ -5017,6 +5041,14 @@
       "onboard_time": 1759807761,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137336,
+      "num": 137336,
+      "word": "珠峰暴雪向导一人一狗带超百人撤离",
+      "onboard_time": 1759844604,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137228,
@@ -5403,6 +5435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129055,
+      "num": 145550,
+      "word": "24节气中最早带寒的节气",
+      "onboard_time": 1759847002,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128617,
       "num": 145948,
       "word": "刘浩存走路美成这样",
@@ -5449,14 +5489,6 @@
       "onboard_time": 1759711459,
       "rank": 39,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 127748,
-      "num": 127748,
-      "word": "珠峰暴雪向导一人一狗带超百人撤离",
-      "onboard_time": 1759844604,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127175,
@@ -5545,6 +5577,14 @@
       "onboard_time": 1759668203,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125518,
+      "num": 125518,
+      "word": "穆祉丞演唱会后发文",
+      "onboard_time": 1759848083,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 125274,
@@ -5641,14 +5681,6 @@
       "onboard_time": 1759652121,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123365,
-      "num": 123365,
-      "word": "曾舜晞脱衣服没排练吗",
-      "onboard_time": 1759846882,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 123285,
@@ -5940,7 +5972,7 @@
     },
     {
       "raw_hot": 117821,
-      "num": 419462,
+      "num": 485993,
       "word": "再赏一次大江南北的中秋月",
       "onboard_time": 1759822521,
       "rank": 39,
@@ -6097,6 +6129,14 @@
       "onboard_time": 1759592601,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 115478,
+      "num": 115478,
+      "word": "一笑随歌热度",
+      "onboard_time": 1759848024,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 115328,
@@ -6385,14 +6425,6 @@
       "onboard_time": 1759674203,
       "rank": 31,
       "category": "民生新闻,旅游"
-    },
-    {
-      "raw_hot": 111714,
-      "num": 145550,
-      "word": "24节气中最早带寒的节气",
-      "onboard_time": 1759847002,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111657,
@@ -7395,6 +7427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99322,
+      "num": 99322,
+      "word": "70多匹马下山时被绑一条前腿",
+      "onboard_time": 1759847722,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99145,
       "num": 145233,
       "word": "陈楚生获奖之作大运河音乐节首唱",
@@ -7553,6 +7593,14 @@
       "onboard_time": 1759659504,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97375,
+      "num": 97375,
+      "word": "人人人熊猫人人人",
+      "onboard_time": 1759847603,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97343,
@@ -7961,6 +8009,22 @@
       "onboard_time": 1759645460,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 91198,
+      "num": 91198,
+      "word": "主人背起duang大一只狗狗爬景区",
+      "onboard_time": 1759847903,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 91088,
+      "num": 177653,
+      "word": "市监局介入两个菜661元事件",
+      "onboard_time": 1759846823,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90914,
@@ -9569,14 +9633,6 @@
       "onboard_time": 1759777875,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33595,
-      "num": 177653,
-      "word": "市监局介入两个菜661元事件",
-      "onboard_time": 1759846823,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33341,
