@@ -1,0 +1,410 @@
+{
+  "runTime": 1759836091892,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1134684,
+        "num": 1181549,
+        "word": "山东音乐节疑似大量人员冲卡逃票",
+        "onboard_time": 1759829721,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 859330,
+        "num": 859330,
+        "word": "建议大家不要提前买衣服",
+        "onboard_time": 1759825941,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23456,
+        "num": 575803,
+        "word": "国庆假期返程天气",
+        "onboard_time": 1759801759,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 366158,
+        "num": 366158,
+        "word": "福建太姥山180斤游客被卡石缝",
+        "onboard_time": 1759833620,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335296,
+        "num": 335296,
+        "word": "中国游客 泡发的木耳",
+        "onboard_time": 1759823481,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224233,
+        "num": 224233,
+        "word": "两个菜661元商家退款400元",
+        "onboard_time": 1759816401,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197486,
+        "num": 222982,
+        "word": "2中国游客在马来西亚一岛上失联",
+        "onboard_time": 1759827020,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183776,
+        "num": 222489,
+        "word": "孙颖莎王楚钦WTT香港总决赛",
+        "onboard_time": 1759828820,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146889,
+        "num": 220454,
+        "word": "小米17pro",
+        "onboard_time": 1759827801,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113391,
+        "num": 219017,
+        "word": "黄牛推倒栏杆带人逃票音乐节",
+        "onboard_time": 1759834461,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 572202,
+        "num": 218767,
+        "word": "2025诺贝尔物理学奖公布",
+        "onboard_time": 1759831821,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 543297,
+        "num": 216977,
+        "word": "李沁出道以来第一次摇人宣传",
+        "onboard_time": 1759826300,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 533884,
+        "num": 216049,
+        "word": "向太回应郭碧婷回娘家长住",
+        "onboard_time": 1759832361,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439397,
+        "num": 213924,
+        "word": "诺贝尔物理学奖",
+        "onboard_time": 1759831821,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 426474,
+        "num": 211986,
+        "word": "迪丽热巴回国",
+        "onboard_time": 1759833861,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386933,
+        "num": 210764,
+        "word": "TF四代出道团成员由公司自主决定",
+        "onboard_time": 1759824800,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353724,
+        "num": 209903,
+        "word": "明星接受采访不要穿橙色",
+        "onboard_time": 1759817420,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321781,
+        "num": 208110,
+        "word": "张碧晨给张艺兴送花篮",
+        "onboard_time": 1759835780,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207880,
+        "num": 207880,
+        "word": "刘宇宁直播",
+        "onboard_time": 1759835601,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47740,
+        "num": 206548,
+        "word": "香奈儿巴黎时装周压轴大秀",
+        "onboard_time": 1759832361,
+        "rank": 19,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 315823,
+        "num": 206115,
+        "word": "宋伊人溜达日常",
+        "onboard_time": 1759832542,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110851,
+        "num": 204158,
+        "word": "150斤男生下床抵门被风掀开四五次",
+        "onboard_time": 1759825880,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 263866,
+        "num": 202084,
+        "word": "姐姐失踪4年被发现时已成干尸",
+        "onboard_time": 1759823422,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214929,
+        "num": 201512,
+        "word": "张艺兴演唱会 极限男人帮",
+        "onboard_time": 1759827441,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200437,
+        "num": 200437,
+        "word": "杨幂去了龙井日本遗址博物馆",
+        "onboard_time": 1759816341,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190412,
+        "num": 190412,
+        "word": "登陆少年不换番",
+        "onboard_time": 1759826242,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167340,
+        "num": 167340,
+        "word": "女方悔婚退彩礼时要扣3万拥抱费",
+        "onboard_time": 1759833081,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154702,
+        "num": 154702,
+        "word": "王一博赛车",
+        "onboard_time": 1759833321,
+        "rank": 27,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 144382,
+        "num": 144382,
+        "word": "100岁弟弟过生日103岁哥哥来了",
+        "onboard_time": 1759834880,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143832,
+        "num": 143832,
+        "word": "精简版ModelY售价",
+        "onboard_time": 1759835180,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 143433,
+        "num": 143433,
+        "word": "跳绳八个月瘦了49斤",
+        "onboard_time": 1759828281,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 111897,
+        "num": 140366,
+        "word": "LGDNBW对战KSG",
+        "onboard_time": 1759835241,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138626,
+        "num": 138626,
+        "word": "田曦薇直播",
+        "onboard_time": 1759834701,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131722,
+        "num": 131722,
+        "word": "miumiu 好多围裙",
+        "onboard_time": 1759819519,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 128164,
+        "num": 128164,
+        "word": "许我耀眼",
+        "onboard_time": 1759833440,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111331,
+        "num": 111331,
+        "word": "刘涛女儿居然马上要读大学了",
+        "onboard_time": 1759805060,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109877,
+        "num": 109877,
+        "word": "陈哲远一笑随歌 爽文",
+        "onboard_time": 1759835481,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107472,
+        "num": 107472,
+        "word": "女子2600元买猫被传染满脸猫藓",
+        "onboard_time": 1759827562,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98948,
+        "num": 98948,
+        "word": "猫生真是喵喵又眯眯",
+        "onboard_time": 1759832721,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98517,
+        "num": 98517,
+        "word": "吃饺子和月饼的都沉默了",
+        "onboard_time": 1759835780,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97724,
+        "num": 97724,
+        "word": "预制甜品已进化到不知天地为何物了",
+        "onboard_time": 1759822160,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 96058,
+        "num": 96058,
+        "word": "特朗普承认美国电网拖累AI发展",
+        "onboard_time": 1759830382,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94967,
+        "num": 94967,
+        "word": "中国人放假东非大草原都堵车了",
+        "onboard_time": 1759834761,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90424,
+        "num": 90424,
+        "word": "网红卡皮巴拉豆包结婚啦",
+        "onboard_time": 1759835780,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90397,
+        "num": 90397,
+        "word": "穆祉丞谢谢爱我的人不分先后顺序",
+        "onboard_time": 1759831460,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89638,
+        "num": 89638,
+        "word": "喝咖啡防癌还是促癌",
+        "onboard_time": 1759829541,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84348,
+        "num": 84348,
+        "word": "女子路中央拦车被其母一掌打碎眼镜",
+        "onboard_time": 1759825761,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41201,
+        "num": 83821,
+        "word": "赵今麦刘浩存李庚希Miu系审美",
+        "onboard_time": 1759831521,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 83486,
+        "num": 83486,
+        "word": "梅总赞上海是全世界最棒城市",
+        "onboard_time": 1759836021,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81763,
+        "num": 81763,
+        "word": "樊振东总是如此暖心",
+        "onboard_time": 1759836021,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#同心协力共襄伟业#"
+    }
+  }
+}

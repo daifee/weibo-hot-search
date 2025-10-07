@@ -1,6 +1,6 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759833818702,
+  "endTime": 1759836091892,
   "band_list": [
     {
       "raw_hot": 1399578,
@@ -25,6 +25,14 @@
       "onboard_time": 1759825941,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1134684,
+      "num": 1181549,
+      "word": "山东音乐节疑似大量人员冲卡逃票",
+      "onboard_time": 1759829721,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1096207,
@@ -65,14 +73,6 @@
       "onboard_time": 1759802900,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 922104,
-      "num": 922104,
-      "word": "山东音乐节疑似大量人员冲卡逃票",
-      "onboard_time": 1759829721,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 898370,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 664661,
-      "num": 214271,
+      "num": 216977,
       "word": "李沁出道以来第一次摇人宣传",
       "onboard_time": 1759826300,
       "rank": 24,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 600522,
-      "num": 207247,
+      "num": 209903,
       "word": "明星接受采访不要穿橙色",
       "onboard_time": 1759817420,
       "rank": 34,
@@ -241,6 +241,14 @@
       "onboard_time": 1759823481,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 533884,
+      "num": 216049,
+      "word": "向太回应郭碧婷回娘家长住",
+      "onboard_time": 1759832361,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 529785,
@@ -324,11 +332,19 @@
     },
     {
       "raw_hot": 442684,
-      "num": 186869,
+      "num": 202084,
       "word": "姐姐失踪4年被发现时已成干尸",
       "onboard_time": 1759823422,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 439397,
+      "num": 213924,
+      "word": "诺贝尔物理学奖",
+      "onboard_time": 1759831821,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 437330,
@@ -353,6 +369,14 @@
       "onboard_time": 1759820839,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 426474,
+      "num": 211986,
+      "word": "迪丽热巴回国",
+      "onboard_time": 1759833861,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 425582,
@@ -419,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 366158,
+      "num": 366158,
+      "word": "福建太姥山180斤游客被卡石缝",
+      "onboard_time": 1759833620,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 353663,
       "num": 353663,
       "word": "日本预制拉面",
@@ -460,10 +492,18 @@
     },
     {
       "raw_hot": 324012,
-      "num": 194396,
+      "num": 201512,
       "word": "张艺兴演唱会 极限男人帮",
       "onboard_time": 1759827441,
       "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 321781,
+      "num": 208110,
+      "word": "张碧晨给张艺兴送花篮",
+      "onboard_time": 1759835780,
+      "rank": 17,
       "category": "演出"
     },
     {
@@ -481,6 +521,14 @@
       "onboard_time": 1759764741,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315823,
+      "num": 206115,
+      "word": "宋伊人溜达日常",
+      "onboard_time": 1759832542,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 309176,
@@ -563,14 +611,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 261451,
-      "num": 160699,
-      "word": "宋伊人溜达日常",
-      "onboard_time": 1759832542,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 244762,
       "num": 172689,
       "word": "周深 三十岁了已经不可爱了",
@@ -593,14 +633,6 @@
       "onboard_time": 1759743260,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235762,
-      "num": 161855,
-      "word": "向太回应郭碧婷回娘家长住",
-      "onboard_time": 1759832361,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 234022,
@@ -681,6 +713,14 @@
       "onboard_time": 1759794739,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207880,
+      "num": 207880,
+      "word": "刘宇宁直播",
+      "onboard_time": 1759835601,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 207510,
@@ -803,14 +843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191065,
-      "num": 191065,
-      "word": "诺贝尔物理学奖",
-      "onboard_time": 1759831821,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 190725,
       "num": 190725,
       "word": "张艺兴工作室生日长文",
@@ -852,7 +884,7 @@
     },
     {
       "raw_hot": 183781,
-      "num": 183781,
+      "num": 222489,
       "word": "孙颖莎王楚钦WTT香港总决赛",
       "onboard_time": 1759828820,
       "rank": 30,
@@ -1027,6 +1059,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 167340,
+      "num": 167340,
+      "word": "女方悔婚退彩礼时要扣3万拥抱费",
+      "onboard_time": 1759833081,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163742,
       "num": 191679,
       "word": "你要的中秋月亮美图来了",
@@ -1171,6 +1211,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144382,
+      "num": 144382,
+      "word": "100岁弟弟过生日103岁哥哥来了",
+      "onboard_time": 1759834880,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143832,
+      "num": 143832,
+      "word": "精简版ModelY售价",
+      "onboard_time": 1759835180,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 143620,
       "num": 127204,
       "word": "2025WTT总决赛最新资格名单",
@@ -1217,6 +1273,14 @@
       "onboard_time": 1759815800,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138626,
+      "num": 138626,
+      "word": "田曦薇直播",
+      "onboard_time": 1759834701,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 138065,
@@ -1339,7 +1403,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127158,
+      "raw_hot": 128164,
       "num": 145477,
       "word": "许我耀眼",
       "onboard_time": 1759747642,
@@ -1467,14 +1531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119893,
-      "num": 119893,
-      "word": "福建太姥山180斤游客被卡石缝",
-      "onboard_time": 1759833620,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119364,
       "num": 119364,
       "word": "女子被假冒费玉清骗走上千万",
@@ -1571,6 +1627,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113391,
+      "num": 219017,
+      "word": "黄牛推倒栏杆带人逃票音乐节",
+      "onboard_time": 1759834461,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112999,
       "num": 112999,
       "word": "想带儿子旅游的交警永远失约了",
@@ -1617,6 +1681,14 @@
       "onboard_time": 1759803079,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 111897,
+      "num": 140366,
+      "word": "LGDNBW对战KSG",
+      "onboard_time": 1759835241,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 111854,
@@ -1697,6 +1769,14 @@
       "onboard_time": 1759832721,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109877,
+      "num": 109877,
+      "word": "陈哲远一笑随歌 爽文",
+      "onboard_time": 1759835481,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 109827,
@@ -1859,6 +1939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98517,
+      "num": 98517,
+      "word": "吃饺子和月饼的都沉默了",
+      "onboard_time": 1759835780,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 98271,
       "num": 145278,
       "word": "中秋晚会没有何炅",
@@ -1945,6 +2033,14 @@
       "onboard_time": 1759829601,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94967,
+      "num": 94967,
+      "word": "中国人放假东非大草原都堵车了",
+      "onboard_time": 1759834761,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94916,
@@ -2083,6 +2179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90424,
+      "num": 90424,
+      "word": "网红卡皮巴拉豆包结婚啦",
+      "onboard_time": 1759835780,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90068,
       "num": 90068,
       "word": "张帅2比1纳瓦罗",
@@ -2163,6 +2267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83486,
+      "num": 83486,
+      "word": "梅总赞上海是全世界最棒城市",
+      "onboard_time": 1759836021,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83114,
       "num": 145198,
       "word": "30岁长期熬夜有多可怕",
@@ -2192,6 +2304,14 @@
       "word": "徐长锁去世",
       "onboard_time": 1759794017,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81763,
+      "num": 81763,
+      "word": "樊振东总是如此暖心",
+      "onboard_time": 1759836021,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2265,14 +2385,6 @@
       "onboard_time": 1759814421,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 73587,
-      "num": 107087,
-      "word": "女方悔婚退彩礼时要扣3万拥抱费",
-      "onboard_time": 1759833081,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73322,
@@ -2428,7 +2540,7 @@
     },
     {
       "raw_hot": 53636,
-      "num": 186254,
+      "num": 206548,
       "word": "香奈儿巴黎时装周压轴大秀",
       "onboard_time": 1759832361,
       "rank": 18,
