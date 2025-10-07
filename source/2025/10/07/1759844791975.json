@@ -1,0 +1,410 @@
+{
+  "runTime": 1759844791975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 772869,
+        "num": 1123659,
+        "word": "迪奥设计师 工作累丑",
+        "onboard_time": 1759836082,
+        "rank": 0,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 475657,
+        "num": 475657,
+        "word": "建议大家不要提前买衣服",
+        "onboard_time": 1759825941,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11741,
+        "num": 399064,
+        "word": "国庆假期返程天气",
+        "onboard_time": 1759801759,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 343152,
+        "num": 343152,
+        "word": "苏超南通5比0淮安",
+        "onboard_time": 1759844244,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323775,
+        "num": 323775,
+        "word": "我始终认为用九键打字的人都是天才",
+        "onboard_time": 1759837342,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1486138,
+        "num": 317514,
+        "word": "鸡排哥回应嘴唇发紫发白",
+        "onboard_time": 1759840824,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285961,
+        "num": 285961,
+        "word": "苏超南通vs淮安淘汰赛",
+        "onboard_time": 1759840166,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221274,
+        "num": 221274,
+        "word": "05年男子拒服兵役被罚8.64万",
+        "onboard_time": 1759841124,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219782,
+        "num": 219782,
+        "word": "南京地铁回应鸡鸣寺暗讽事件",
+        "onboard_time": 1759840104,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202907,
+        "num": 202907,
+        "word": "00后利用办公室午休赚三份工资",
+        "onboard_time": 1759837881,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 7958820,
+        "num": 7958820,
+        "word": "左航 撞人",
+        "onboard_time": 1759838601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 817856,
+        "num": 202058,
+        "word": "周生辰下时宜了",
+        "onboard_time": 1759841603,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276886,
+        "num": 200826,
+        "word": "老婆回应与张纪中的婚姻没有爱情",
+        "onboard_time": 1759842984,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251435,
+        "num": 200187,
+        "word": "张艺兴演唱会",
+        "onboard_time": 1759834161,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 234269,
+        "num": 199152,
+        "word": "杜海涛到了伦敦冒充王嘉尔",
+        "onboard_time": 1759841845,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2791993,
+        "num": 198864,
+        "word": "时代峰峻回应左航撞人",
+        "onboard_time": 1759844244,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216506,
+        "num": 197821,
+        "word": "明星接受采访不要穿橙色",
+        "onboard_time": 1759817420,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210862,
+        "num": 196664,
+        "word": "李沁出道以来第一次摇人宣传",
+        "onboard_time": 1759826300,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196559,
+        "num": 196559,
+        "word": "苏超",
+        "onboard_time": 1759837282,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188827,
+        "num": 188827,
+        "word": "广州暴雨",
+        "onboard_time": 1759842744,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 187286,
+        "num": 187286,
+        "word": "宋伊人溜达日常",
+        "onboard_time": 1759832542,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180924,
+        "num": 180924,
+        "word": "张碧晨给张艺兴送花篮",
+        "onboard_time": 1759835780,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178830,
+        "num": 178830,
+        "word": "姐姐失踪4年被发现时已成干尸",
+        "onboard_time": 1759823422,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176225,
+        "num": 176225,
+        "word": "福建太姥山180斤游客被卡石缝",
+        "onboard_time": 1759833620,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163943,
+        "num": 163943,
+        "word": "伞兵和月亮合照",
+        "onboard_time": 1759844123,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155362,
+        "num": 155362,
+        "word": "迪丽热巴回国",
+        "onboard_time": 1759833861,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145730,
+        "num": 145730,
+        "word": "成毅 刀剑如梦",
+        "onboard_time": 1759844063,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145547,
+        "num": 145547,
+        "word": "陈丽君谈我的大观园火出圈",
+        "onboard_time": 1759843584,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 142860,
+        "num": 142860,
+        "word": "殷世航向傲娇美求婚",
+        "onboard_time": 1759844304,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 136461,
+        "num": 136461,
+        "word": "曾舜晞衣服上全是口红印",
+        "onboard_time": 1759844184,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174572,
+        "num": 135637,
+        "word": "馆长被台湾警方侦办",
+        "onboard_time": 1759844123,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134405,
+        "num": 134405,
+        "word": "明日方舟",
+        "onboard_time": 1759844123,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131662,
+        "num": 131662,
+        "word": "想发火的猴子发现是熟人后秒变脸",
+        "onboard_time": 1759841004,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126283,
+        "num": 126283,
+        "word": "王一博刷爆个人纪录帅炸了",
+        "onboard_time": 1759839745,
+        "rank": 33,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 125818,
+        "num": 125818,
+        "word": "坚持每天看书真的能改变一个人吗",
+        "onboard_time": 1759842923,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122589,
+        "num": 122589,
+        "word": "山东音乐节疑似大量人员冲卡逃票",
+        "onboard_time": 1759829721,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118581,
+        "num": 118581,
+        "word": "精简版ModelY售价",
+        "onboard_time": 1759835180,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114983,
+        "num": 114983,
+        "word": "跳绳八个月瘦了49斤",
+        "onboard_time": 1759828281,
+        "rank": 37,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 85610,
+        "num": 113811,
+        "word": "珠峰暴雪向导一人一狗带超百人撤离",
+        "onboard_time": 1759844604,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113594,
+        "num": 113594,
+        "word": "杨幂去了龙井日本遗址博物馆",
+        "onboard_time": 1759816341,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110542,
+        "num": 110542,
+        "word": "刘宇宁直播",
+        "onboard_time": 1759835601,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108942,
+        "num": 108942,
+        "word": "女方悔婚退彩礼时要扣3万拥抱费",
+        "onboard_time": 1759833081,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95202,
+        "num": 95202,
+        "word": "韩国部分新婚夫妇放弃黄金戒指",
+        "onboard_time": 1759844663,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93217,
+        "num": 93217,
+        "word": "小黄豆曝随礼标准",
+        "onboard_time": 1759838541,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 91583,
+        "num": 91583,
+        "word": "供一个大学生四年需要花多少钱",
+        "onboard_time": 1759842923,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90035,
+        "num": 90035,
+        "word": "向太回应郭碧婷回娘家长住",
+        "onboard_time": 1759832361,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84854,
+        "num": 84854,
+        "word": "登陆少年不换番",
+        "onboard_time": 1759826242,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84431,
+        "num": 84431,
+        "word": "司机龟速行驶被下坡逆行男孩撞上",
+        "onboard_time": 1759843463,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81254,
+        "num": 81254,
+        "word": "中方主提决议在联合国获通过",
+        "onboard_time": 1759836441,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81187,
+        "num": 81187,
+        "word": "同事称诺奖得主在徒步旅行联系不上",
+        "onboard_time": 1759836801,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#同心协力共襄伟业#"
+    }
+  }
+}
