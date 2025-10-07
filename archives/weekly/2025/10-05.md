@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/07 23:42:30
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/08 00:31:35
 </p>
 </blockquote>
 <p>
@@ -219,6 +219,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%86%B3%E5%AE%9A%E4%BA%8C%20%E5%B9%BF%E5%91%8A%23" target="weibo">
+詹姆斯决定二 广告（热度：1099261）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E7%9A%84%E4%BA%BA%E8%84%89%23" target="weibo">
 李沁的人脉（热度：1096207）
 </a>
@@ -263,12 +269,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E7%BE%8E%E6%88%90%E5%95%A5%E4%BA%86%20%E6%AC%A7%E8%B1%AA%E4%B9%9F%E6%98%AF%E4%B8%AA%E7%A5%9E%23" target="weibo">
 唐嫣美成啥了 欧豪也是个神（热度：1003394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%86%B3%E5%AE%9A%E4%BA%8C%20%E5%B9%BF%E5%91%8A%23" target="weibo">
-詹姆斯决定二 广告（热度：1001753）
 </a>
 </li>
 
@@ -1089,6 +1089,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%8F%E4%BC%99%E4%B8%8E%E5%A5%B3%E5%8F%8B%E5%90%83%E9%A5%AD%E8%A2%AB%E9%93%90%E8%B5%B0%23" target="weibo">
+警方回应小伙与女友吃饭被铐走（热度：426263）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B0%86%E5%AE%A3%E5%B8%83%E9%87%8D%E5%A4%A7%E5%86%B3%E7%AD%96%23" target="weibo">
 詹姆斯将宣布重大决策（热度：425582）
 </a>
@@ -1895,6 +1901,12 @@ WTT（热度：258020）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B2%E6%AF%944F%E5%8B%92%E5%B8%83%E4%BC%A6%23" target="weibo">
 林诗栋2比4F勒布伦（热度：254435）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%B2%A1%E6%8E%A5%E5%88%B0%E8%BF%87%E5%B0%86%E9%97%A8%E7%8B%AC%E5%90%8E%E5%89%A7%E6%9C%AC%23" target="weibo">
+刘宇宁没接到过将门独后剧本（热度：252916）
 </a>
 </li>
 
@@ -3441,12 +3453,6 @@ G社拍的马柏全宋祖儿（热度：171155）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%8F%E4%BC%99%E4%B8%8E%E5%A5%B3%E5%8F%8B%E5%90%83%E9%A5%AD%E8%A2%AB%E9%93%90%E8%B5%B0%23" target="weibo">
-警方回应小伙与女友吃饭被铐走（热度：149739）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%90%8E%E5%87%A0%E5%A4%A9%E9%9B%A8%E9%9B%A8%E9%9B%A8%E9%9B%A8%E9%9B%A8%E4%B8%8D%E5%81%9C%23" target="weibo">
 今后几天雨雨雨雨雨不停（热度：148900）
 </a>
@@ -4095,6 +4101,18 @@ iPadmini8售价（热度：134198）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%8F%B0%E8%AF%8D%23" target="weibo">
+陈哲远台词（热度：130380）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%88%E5%A6%88%E8%80%81%E5%BC%80%E6%88%91%E6%88%BF%E9%97%A8%E4%BA%86%23" target="weibo">
+终于知道为什么妈妈老开我房门了（热度：130262）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%83%B9%E4%BA%86%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%AD%89%E4%BA%8E%E6%B2%A1%E6%83%B9%23" target="weibo">
 惹了宋亚轩等于没惹（热度：129774）
 </a>
@@ -4559,12 +4577,6 @@ AG年总大场五连胜（热度：121489）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9D%E5%92%96%E5%95%A1%E9%98%B2%E7%99%8C%E8%BF%98%E6%98%AF%E4%BF%83%E7%99%8C%23" target="weibo">
 喝咖啡防癌还是促癌（热度：117436）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%B2%A1%E6%8E%A5%E5%88%B0%E8%BF%87%E5%B0%86%E9%97%A8%E7%8B%AC%E5%90%8E%E5%89%A7%E6%9C%AC%23" target="weibo">
-刘宇宁没接到过将门独后剧本（热度：117376）
 </a>
 </li>
 
@@ -5853,12 +5865,6 @@ NANA联动西太后（热度：97196）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%88%E5%A6%88%E8%80%81%E5%BC%80%E6%88%91%E6%88%BF%E9%97%A8%E4%BA%86%23" target="weibo">
-终于知道为什么妈妈老开我房门了（热度：95888）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%97%85%E6%B8%B8%E7%82%B9%E4%B8%A4%E4%B8%AA%E8%8F%9C661%E5%85%83%E5%90%8E%E7%BB%AD%23" target="weibo">
 男子旅游点两个菜661元后续（热度：95749）
 </a>
@@ -6789,6 +6795,12 @@ S15宣传片回忆杀（热度：73721）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BB%E5%9B%9E%E5%BA%9470%E5%A4%9A%E5%8C%B9%E9%A9%AC%E4%B8%8B%E5%B1%B1%E6%97%B6%E8%A2%AB%E7%BB%91%E5%89%8D%E8%85%BF%23" target="weibo">
+马主回应70多匹马下山时被绑前腿（热度：68226）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%A5%B3%E5%84%BF%E4%B9%9F%E6%98%AF%E4%B8%AA%E5%B0%8F%E5%90%83%E8%B4%A7%23" target="weibo">
 潘玮柏女儿也是个小吃货（热度：67210）
 </a>
@@ -6951,6 +6963,12 @@ WTT祝张怡宁生日快乐（热度：61619）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BD%A0%E6%89%BE%E6%88%91%E5%B8%AE%E5%BF%99%E6%88%91%E5%BF%85%E8%83%BD%E5%B8%AE%E5%B0%B1%E5%B8%AE%23" target="weibo">
+肖战你找我帮忙我必能帮就帮（热度：59384）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E6%88%96%E8%BF%98%E4%B8%8D%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E5%BE%97%E5%A5%96%E4%BA%86%23" target="weibo">
 诺奖得主或还不知道自己得奖了（热度：58941）
 </a>
@@ -7037,6 +7055,12 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%88%B6%E6%AF%8D%E5%BC%80%E7%9A%84%E4%B8%80%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%81%9C%E4%B8%9A%23" target="weibo">
 王俊凯父母开的一奶茶店停业（热度：55129）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E8%A2%AB%E5%9B%B0%E5%BE%92%E6%AD%A5%E4%BA%BA%E5%91%981%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+青海警方通报被困徒步人员1人遇难（热度：54972）
 </a>
 </li>
 

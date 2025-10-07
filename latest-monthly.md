@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 23:42:30
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 00:31:35
 </p>
 </blockquote>
 <p>
@@ -489,6 +489,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%86%B3%E5%AE%9A%E4%BA%8C%20%E5%B9%BF%E5%91%8A%23" target="weibo">
+詹姆斯决定二 广告（热度：1099261）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E7%9A%84%E4%BA%BA%E8%84%89%23" target="weibo">
 李沁的人脉（热度：1096207）
 </a>
@@ -593,12 +599,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E7%BE%8E%E6%88%90%E5%95%A5%E4%BA%86%20%E6%AC%A7%E8%B1%AA%E4%B9%9F%E6%98%AF%E4%B8%AA%E7%A5%9E%23" target="weibo">
 唐嫣美成啥了 欧豪也是个神（热度：1003394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%86%B3%E5%AE%9A%E4%BA%8C%20%E5%B9%BF%E5%91%8A%23" target="weibo">
-詹姆斯决定二 广告（热度：1001753）
 </a>
 </li>
 
@@ -2481,6 +2481,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%8F%E4%BC%99%E4%B8%8E%E5%A5%B3%E5%8F%8B%E5%90%83%E9%A5%AD%E8%A2%AB%E9%93%90%E8%B5%B0%23" target="weibo">
+警方回应小伙与女友吃饭被铐走（热度：426263）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B0%86%E5%AE%A3%E5%B8%83%E9%87%8D%E5%A4%A7%E5%86%B3%E7%AD%96%23" target="weibo">
 詹姆斯将宣布重大决策（热度：425582）
 </a>
@@ -4217,6 +4223,12 @@ F1（热度：275052）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%AF%E8%BF%9C%23" target="weibo">
 伯远（热度：253259）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%B2%A1%E6%8E%A5%E5%88%B0%E8%BF%87%E5%B0%86%E9%97%A8%E7%8B%AC%E5%90%8E%E5%89%A7%E6%9C%AC%23" target="weibo">
+刘宇宁没接到过将门独后剧本（热度：252916）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iG疑似韩国集训（热度：183394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E5%A6%BB%E5%AD%90%E5%9B%9E%E6%80%BC%E7%BD%91%E5%8F%8B%E4%BD%A0%E8%AF%B4%E8%AF%B4%E5%95%A5%E4%BA%8B%23" target="weibo">
 陈震妻子回怼网友你说说啥事（热度：183386）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E2%E6%AF%941%E9%A2%86%E5%85%88%E9%99%88%E5%B9%B8%E5%90%8C%23" target="weibo">
-孙颖莎2比1领先陈幸同（热度：183374）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%88%B6%E4%B8%AD%E7%A7%8B%E5%87%BA%E6%B8%B8%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
-预制中秋出游朋友圈（热度：183328）
 </a>
 </li>
 
