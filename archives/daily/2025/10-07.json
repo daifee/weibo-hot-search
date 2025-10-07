@@ -1,6 +1,6 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759829265137,
+  "endTime": 1759830070279,
   "band_list": [
     {
       "raw_hot": 1399578,
@@ -91,7 +91,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 793300,
+      "raw_hot": 803606,
+      "num": 1128577,
+      "word": "建议大家不要提前买衣服",
+      "onboard_time": 1759825941,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 803571,
       "num": 1126928,
       "word": "150斤男生下床抵门被风掀开四五次",
       "onboard_time": 1759825880,
@@ -121,6 +129,14 @@
       "onboard_time": 1759816341,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 664661,
+      "num": 214271,
+      "word": "李沁出道以来第一次摇人宣传",
+      "onboard_time": 1759826300,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 661486,
@@ -171,28 +187,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 607045,
-      "num": 214271,
-      "word": "李沁出道以来第一次摇人宣传",
-      "onboard_time": 1759826300,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 600522,
       "num": 207247,
       "word": "明星接受采访不要穿橙色",
       "onboard_time": 1759817420,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 565770,
-      "num": 565770,
-      "word": "建议大家不要提前买衣服",
-      "onboard_time": 1759825941,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 559985,
@@ -339,20 +339,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 423537,
+      "num": 423537,
+      "word": "中国游客 泡发的木耳",
+      "onboard_time": 1759823481,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 421267,
       "num": 205709,
       "word": "张杰看着屏幕上发光的谢娜",
       "onboard_time": 1759794198,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 414433,
-      "num": 414433,
-      "word": "中国游客 泡发的木耳",
-      "onboard_time": 1759823481,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 413898,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 309176,
+      "num": 309176,
+      "word": "小米17pro",
+      "onboard_time": 1759827801,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 307810,
       "num": 176775,
       "word": "张艺兴演唱会",
@@ -515,6 +523,22 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 253342,
+      "num": 194396,
+      "word": "张艺兴演唱会 极限男人帮",
+      "onboard_time": 1759827441,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 248282,
+      "num": 248282,
+      "word": "2中国游客在马来西亚一岛上失联",
+      "onboard_time": 1759827020,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244762,
       "num": 172689,
       "word": "周深 三十岁了已经不可爱了",
@@ -536,14 +560,6 @@
       "word": "月亮",
       "onboard_time": 1759743260,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237233,
-      "num": 237233,
-      "word": "2中国游客在马来西亚一岛上失联",
-      "onboard_time": 1759827020,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -587,14 +603,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 226289,
-      "num": 194396,
-      "word": "张艺兴演唱会 极限男人帮",
-      "onboard_time": 1759827441,
-      "rank": 18,
-      "category": "演出"
-    },
-    {
       "raw_hot": 225986,
       "num": 225986,
       "word": "刘轩丞G社生图",
@@ -619,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218956,
-      "num": 218956,
-      "word": "小米17pro",
-      "onboard_time": 1759827801,
-      "rank": 8,
-      "category": "数码"
-    },
-    {
       "raw_hot": 215280,
       "num": 215280,
       "word": "steam崩了",
@@ -641,6 +641,14 @@
       "onboard_time": 1759794739,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203975,
+      "num": 153407,
+      "word": "跳绳八个月瘦了49斤",
+      "onboard_time": 1759828281,
+      "rank": 31,
+      "category": "运动健身"
     },
     {
       "raw_hot": 200784,
@@ -972,7 +980,7 @@
     },
     {
       "raw_hot": 160954,
-      "num": 111789,
+      "num": 153161,
       "word": "孙颖莎王楚钦WTT香港总决赛",
       "onboard_time": 1759828820,
       "rank": 30,
@@ -1043,6 +1051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 146620,
+      "num": 146620,
+      "word": "女子2600元买猫被传染满脸猫藓",
+      "onboard_time": 1759827562,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146012,
       "num": 146012,
       "word": "普通人素颜出门怎么变好看",
@@ -1059,14 +1075,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 143828,
-      "num": 143828,
-      "word": "女子2600元买猫被传染满脸猫藓",
-      "onboard_time": 1759827562,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143620,
       "num": 127204,
       "word": "2025WTT总决赛最新资格名单",
@@ -1081,14 +1089,6 @@
       "onboard_time": 1759801699,
       "rank": 25,
       "category": "美食"
-    },
-    {
-      "raw_hot": 141108,
-      "num": 111456,
-      "word": "跳绳八个月瘦了49斤",
-      "onboard_time": 1759828281,
-      "rank": 31,
-      "category": "运动健身"
     },
     {
       "raw_hot": 140250,
@@ -1137,6 +1137,14 @@
       "onboard_time": 1759827082,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137752,
+      "num": 137752,
+      "word": "NIP",
+      "onboard_time": 1759829721,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 137417,
@@ -1217,6 +1225,14 @@
       "onboard_time": 1759826000,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 129651,
+      "num": 129651,
+      "word": "张帅武网开门红",
+      "onboard_time": 1759829661,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 128617,
@@ -1467,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111372,
+      "num": 111372,
+      "word": "山东音乐节疑似大量人员冲卡逃票",
+      "onboard_time": 1759829721,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111247,
       "num": 111247,
       "word": "刘些宁在国外手机丢了",
@@ -1505,6 +1529,14 @@
       "onboard_time": 1759792817,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110438,
+      "num": 110438,
+      "word": "井迪说追井胧追得辛苦",
+      "onboard_time": 1759827621,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 109827,
@@ -1547,12 +1579,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106223,
+      "num": 106223,
+      "word": "喝咖啡防癌还是促癌",
+      "onboard_time": 1759829541,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 105981,
       "num": 105981,
       "word": "朱雨玲世排反超日本乒协",
       "onboard_time": 1759803860,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105863,
+      "num": 158868,
+      "word": "李在明不满驻韩美军威慑中国",
+      "onboard_time": 1759826480,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105826,
@@ -1641,6 +1689,14 @@
       "onboard_time": 1759768399,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 99091,
+      "num": 99091,
+      "word": "苹果关闭iOS26验证通道",
+      "onboard_time": 1759829361,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 98920,
@@ -1739,6 +1795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95205,
+      "num": 95205,
+      "word": "韩国上厕所有多难",
+      "onboard_time": 1759829601,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94916,
       "num": 110818,
       "word": "哭闹宝宝被家长举起后秒变脸",
@@ -1763,14 +1827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94382,
-      "num": 94382,
-      "word": "井迪说追井胧追得辛苦",
-      "onboard_time": 1759827621,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94293,
       "num": 144816,
       "word": "韩国疗养院给老人服用大量安眠药",
@@ -1793,6 +1849,14 @@
       "onboard_time": 1759807520,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93928,
+      "num": 93928,
+      "word": "BFX战胜NIP",
+      "onboard_time": 1759829241,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 93916,
@@ -1867,28 +1931,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88549,
-      "num": 146937,
-      "word": "两个菜收661元餐厅退款400元",
-      "onboard_time": 1759819701,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88044,
-      "num": 88044,
+      "raw_hot": 90068,
+      "num": 90068,
       "word": "张帅2比1纳瓦罗",
       "onboard_time": 1759829120,
       "rank": 43,
       "category": "体育"
     },
     {
-      "raw_hot": 87927,
-      "num": 158868,
-      "word": "李在明不满驻韩美军威慑中国",
-      "onboard_time": 1759826480,
-      "rank": 23,
-      "category": "国际时政"
+      "raw_hot": 88549,
+      "num": 146937,
+      "word": "两个菜收661元餐厅退款400元",
+      "onboard_time": 1759819701,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87426,
@@ -1905,6 +1961,14 @@
       "onboard_time": 1759790235,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86868,
+      "num": 86868,
+      "word": "和主人一起出摊的猫猫模特",
+      "onboard_time": 1759829780,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 86772,
@@ -1977,14 +2041,6 @@
       "onboard_time": 1759794017,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 80731,
-      "num": 80731,
-      "word": "BFX战胜NIP",
-      "onboard_time": 1759829241,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 79985,
@@ -2163,6 +2219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58155,
+      "num": 153552,
+      "word": "细菌战受害者伤口80年仍未愈合",
+      "onboard_time": 1759829721,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57926,
       "num": 88182,
       "word": "景区回应180斤游客被卡石缝",
@@ -2227,6 +2291,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 46205,
+      "num": 189041,
+      "word": "有一种爱叫塞满整个后备箱",
+      "onboard_time": 1759828281,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45201,
       "num": 45201,
       "word": "租客月租1400中介交给房东2500",
@@ -2251,14 +2323,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 42769,
-      "num": 189041,
-      "word": "有一种爱叫塞满整个后备箱",
-      "onboard_time": 1759828281,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 42660,
       "num": 42660,
       "word": "第五瓜格 MRC",
@@ -2273,6 +2337,14 @@
       "onboard_time": 1759792397,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 41476,
+      "num": 100657,
+      "word": "孟子义雨中戏",
+      "onboard_time": 1759829481,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 41240,
