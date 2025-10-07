@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759821905656,
+  "endTime": 1759822713110,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -1091,6 +1091,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 818385,
+      "num": 1130941,
+      "word": "两个菜661元商家退款400元",
+      "onboard_time": 1759816401,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 815960,
+      "num": 207836,
+      "word": "刘雯和井柏然祝大家中秋快乐",
+      "onboard_time": 1759816221,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 814211,
       "num": 237981,
       "word": "卢远 王乐晨",
@@ -1160,14 +1176,6 @@
       "word": "陈都灵眼袋",
       "onboard_time": 1759576581,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 788950,
-      "num": 207836,
-      "word": "刘雯和井柏然祝大家中秋快乐",
-      "onboard_time": 1759816221,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -1427,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 699950,
+      "num": 206007,
+      "word": "杨幂去了龙井日本遗址博物馆",
+      "onboard_time": 1759816341,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 698670,
       "num": 238093,
       "word": "给长辈买冰皮月饼一定要说明吃法",
@@ -1449,14 +1465,6 @@
       "onboard_time": 1759388960,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 687168,
-      "num": 206007,
-      "word": "杨幂去了龙井日本遗址博物馆",
-      "onboard_time": 1759816341,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 686320,
@@ -1673,14 +1681,6 @@
       "onboard_time": 1759322781,
       "rank": 14,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 642658,
-      "num": 1102825,
-      "word": "两个菜661元商家退款400元",
-      "onboard_time": 1759816401,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 640017,
@@ -2025,6 +2025,14 @@
       "onboard_time": 1759626139,
       "rank": 18,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 559985,
+      "num": 191683,
+      "word": "miumiu 好多围裙",
+      "onboard_time": 1759819519,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 559567,
@@ -2561,14 +2569,6 @@
       "onboard_time": 1759590682,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 487944,
-      "num": 191644,
-      "word": "miumiu 好多围裙",
-      "onboard_time": 1759819519,
-      "rank": 30,
-      "category": "时尚"
     },
     {
       "raw_hot": 486599,
@@ -3361,6 +3361,14 @@
       "onboard_time": 1759564099,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 379334,
+      "num": 191660,
+      "word": "明星接受采访不要穿橙色",
+      "onboard_time": 1759817420,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 379291,
@@ -4555,6 +4563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 290739,
+      "num": 290739,
+      "word": "环保少女承认遭以方虐待",
+      "onboard_time": 1759819519,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 290364,
       "num": 222313,
       "word": "王菊怎么瘦成这样了",
@@ -4628,7 +4644,7 @@
     },
     {
       "raw_hot": 284772,
-      "num": 144441,
+      "num": 191610,
       "word": "成毅罗云熙新剧对打",
       "onboard_time": 1759820660,
       "rank": 16,
@@ -5305,6 +5321,14 @@
       "onboard_time": 1759714519,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247605,
+      "num": 247605,
+      "word": "校方就家长跪地被学生轮流踩踏道歉",
+      "onboard_time": 1759819641,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247378,
@@ -6843,14 +6867,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 196076,
-      "num": 167370,
-      "word": "明星接受采访不要穿橙色",
-      "onboard_time": 1759817420,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196004,
       "num": 196004,
       "word": "小蘑菇",
@@ -6881,6 +6897,14 @@
       "onboard_time": 1759275378,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195679,
+      "num": 200960,
+      "word": "台当局官员看到花莲洪灾大声讪笑",
+      "onboard_time": 1759818861,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195622,
@@ -7089,14 +7113,6 @@
       "onboard_time": 1759491321,
       "rank": 24,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 191777,
-      "num": 200841,
-      "word": "环保少女承认遭以方虐待",
-      "onboard_time": 1759819519,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 191463,
@@ -8011,14 +8027,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 174068,
-      "num": 197561,
-      "word": "校方就家长跪地被学生轮流踩踏道歉",
-      "onboard_time": 1759819641,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173925,
       "num": 173925,
       "word": "低估了回眸杀的含金量",
@@ -8779,14 +8787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162249,
-      "num": 200960,
-      "word": "台当局官员看到花莲洪灾大声讪笑",
-      "onboard_time": 1759818861,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161870,
       "num": 161870,
       "word": "孙子误吃过期月饼奶奶又给过期药",
@@ -8921,6 +8921,14 @@
       "onboard_time": 1759751122,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159306,
+      "num": 159306,
+      "word": "王楚钦单打四冠王海报",
+      "onboard_time": 1759822041,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 159216,
@@ -9465,6 +9473,14 @@
       "onboard_time": 1759504041,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150670,
+      "num": 191699,
+      "word": "返程堵车",
+      "onboard_time": 1759820839,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150450,
@@ -10172,7 +10188,7 @@
     },
     {
       "raw_hot": 141425,
-      "num": 141425,
+      "num": 191679,
       "word": "你要的中秋月亮美图来了",
       "onboard_time": 1759821441,
       "rank": 28,
@@ -11451,12 +11467,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128842,
+      "num": 128842,
+      "word": "预制甜品已进化到不知天地为何物了",
+      "onboard_time": 1759822160,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 128767,
       "num": 128767,
       "word": "朱志鑫被管乐整红温了",
       "onboard_time": 1759479620,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128617,
+      "num": 145948,
+      "word": "刘浩存走路美成这样",
+      "onboard_time": 1759819461,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 128557,
@@ -11841,6 +11873,14 @@
       "onboard_time": 1759244062,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124875,
+      "num": 124875,
+      "word": "王一博也唱过枯木逢春的歌",
+      "onboard_time": 1759821441,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 124761,
@@ -12403,12 +12443,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119344,
+      "num": 123117,
+      "word": "高速路突现一行人司机吓到尖叫",
+      "onboard_time": 1759817960,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119314,
       "num": 119314,
       "word": "为什么运动后感觉皮肤变好了",
       "onboard_time": 1759556181,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 119245,
+      "num": 119245,
+      "word": "赵磊十年前才16岁",
+      "onboard_time": 1759822521,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 119198,
@@ -12561,6 +12617,14 @@
       "onboard_time": 1759556120,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117821,
+      "num": 117821,
+      "word": "再赏一次大江南北的中秋月",
+      "onboard_time": 1759822521,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117748,
@@ -12939,14 +13003,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 115007,
-      "num": 123117,
-      "word": "高速路突现一行人司机吓到尖叫",
-      "onboard_time": 1759817960,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114995,
       "num": 114995,
       "word": "刘轩丞 倒是给我笔啊",
@@ -13057,6 +13113,14 @@
       "onboard_time": 1759649360,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114286,
+      "num": 114286,
+      "word": "驻韩美军试图威慑中国",
+      "onboard_time": 1759822521,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114233,
@@ -14211,14 +14275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108041,
-      "num": 108041,
-      "word": "王一博也唱过枯木逢春的歌",
-      "onboard_time": 1759821441,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 107972,
       "num": 107972,
       "word": "小狗也受不了走高速",
@@ -14787,14 +14843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 104724,
-      "num": 104724,
-      "word": "返程堵车",
-      "onboard_time": 1759820839,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104708,
       "num": 104708,
       "word": "老外说脏话被新疆小伙怒斥",
@@ -15233,14 +15281,6 @@
       "onboard_time": 1759583661,
       "rank": 44,
       "category": "艺人,海外新闻"
-    },
-    {
-      "raw_hot": 102155,
-      "num": 145948,
-      "word": "刘浩存走路美成这样",
-      "onboard_time": 1759819461,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 102126,
@@ -15987,6 +16027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 97914,
+      "num": 97914,
+      "word": "刘轩丞兰西雅李铢衔同排看秀",
+      "onboard_time": 1759822581,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97810,
       "num": 97810,
       "word": "那英看了都想带回朝阳公园",
@@ -16035,6 +16083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97343,
+      "num": 97343,
+      "word": "金价疯长商户说今年假期生意不如往年",
+      "onboard_time": 1759820480,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 97317,
       "num": 97317,
       "word": "杨羚蔚瞒着父母参加offer7",
@@ -16065,6 +16121,14 @@
       "onboard_time": 1759811000,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 97196,
+      "num": 97196,
+      "word": "NANA联动西太后",
+      "onboard_time": 1759821742,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 97175,
@@ -16483,20 +16547,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94477,
+      "num": 129841,
+      "word": "香港18岁毒贩就医时戴铐逃脱",
+      "onboard_time": 1759820062,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94332,
       "num": 94332,
       "word": "元气森林音乐节",
       "onboard_time": 1759505541,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 94294,
-      "num": 94294,
-      "word": "NANA联动西太后",
-      "onboard_time": 1759821742,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 94263,
@@ -17019,14 +17083,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 90935,
-      "num": 129841,
-      "word": "香港18岁毒贩就医时戴铐逃脱",
-      "onboard_time": 1759820062,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90914,
       "num": 90914,
       "word": "游客地铁谈鸡鸣寺旁边女子破防报警",
@@ -17177,6 +17233,14 @@
       "onboard_time": 1759654641,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89891,
+      "num": 89891,
+      "word": "年轻人结婚不能太平平无奇",
+      "onboard_time": 1759822641,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 89869,
