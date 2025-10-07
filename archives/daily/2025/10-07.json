@@ -1,6 +1,6 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759832875630,
+  "endTime": 1759833818702,
   "band_list": [
     {
       "raw_hot": 1399578,
@@ -19,6 +19,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1153112,
+      "num": 1184498,
+      "word": "建议大家不要提前买衣服",
+      "onboard_time": 1759825941,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1096207,
       "num": 215478,
       "word": "李沁的人脉",
@@ -33,14 +41,6 @@
       "onboard_time": 1759766000,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 992945,
-      "num": 1158871,
-      "word": "建议大家不要提前买衣服",
-      "onboard_time": 1759825941,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 989198,
@@ -65,6 +65,14 @@
       "onboard_time": 1759802900,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 922104,
+      "num": 922104,
+      "word": "山东音乐节疑似大量人员冲卡逃票",
+      "onboard_time": 1759829721,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 898370,
@@ -171,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 632624,
+      "num": 632624,
+      "word": "2025诺贝尔物理学奖公布",
+      "onboard_time": 1759831821,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 620276,
       "num": 203365,
       "word": "应鹏去世",
@@ -193,22 +209,6 @@
       "onboard_time": 1759817420,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 582398,
-      "num": 582398,
-      "word": "山东音乐节疑似大量人员冲卡逃票",
-      "onboard_time": 1759829721,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 574779,
-      "num": 574779,
-      "word": "2025诺贝尔物理学奖公布",
-      "onboard_time": 1759831821,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 559985,
@@ -507,6 +507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 285195,
+      "num": 285195,
+      "word": "2中国游客在马来西亚一岛上失联",
+      "onboard_time": 1759827020,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284772,
       "num": 191610,
       "word": "成毅罗云熙新剧对打",
@@ -539,14 +547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 272378,
-      "num": 272378,
-      "word": "2中国游客在马来西亚一岛上失联",
-      "onboard_time": 1759827020,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 270241,
       "num": 270241,
       "word": "店家回应炒蛏子和螃蟹两个菜661元",
@@ -561,6 +561,14 @@
       "onboard_time": 1759798940,
       "rank": 13,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 261451,
+      "num": 160699,
+      "word": "宋伊人溜达日常",
+      "onboard_time": 1759832542,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 244762,
@@ -585,6 +593,14 @@
       "onboard_time": 1759743260,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235762,
+      "num": 161855,
+      "word": "向太回应郭碧婷回娘家长住",
+      "onboard_time": 1759832361,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 234022,
@@ -665,6 +681,14 @@
       "onboard_time": 1759794739,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207510,
+      "num": 160039,
+      "word": "王一博赛车",
+      "onboard_time": 1759833321,
+      "rank": 23,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 203975,
@@ -764,7 +788,7 @@
     },
     {
       "raw_hot": 191847,
-      "num": 578123,
+      "num": 696059,
       "word": "国庆假期返程天气",
       "onboard_time": 1759801759,
       "rank": 8,
@@ -1059,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159196,
+      "num": 159196,
+      "word": "3名诺奖得主平分836万奖金",
+      "onboard_time": 1759833382,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 159105,
       "num": 185555,
       "word": "诺贝尔奖奖金124年没花完",
@@ -1075,20 +1107,20 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 155330,
+      "num": 155330,
+      "word": "女明星出圈角色",
+      "onboard_time": 1759832961,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 155258,
       "num": 185441,
       "word": "樊振东回国备战全运会",
       "onboard_time": 1759813101,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153933,
-      "num": 153933,
-      "word": "向太回应郭碧婷回娘家长住",
-      "onboard_time": 1759832361,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 152229,
@@ -1307,12 +1339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128112,
-      "num": 128112,
-      "word": "宋伊人溜达日常",
-      "onboard_time": 1759832542,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 127158,
+      "num": 145477,
+      "word": "许我耀眼",
+      "onboard_time": 1759747642,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 126425,
@@ -1435,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119893,
+      "num": 119893,
+      "word": "福建太姥山180斤游客被卡石缝",
+      "onboard_time": 1759833620,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119364,
       "num": 119364,
       "word": "女子被假冒费玉清骗走上千万",
@@ -1475,12 +1515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117436,
+      "num": 117436,
+      "word": "喝咖啡防癌还是促癌",
+      "onboard_time": 1759829541,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 116269,
       "num": 116269,
       "word": "王一博85号痛楼",
       "onboard_time": 1759804760,
       "rank": 38,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 115159,
+      "num": 115159,
+      "word": "特朗普承认美国电网拖累AI发展",
+      "onboard_time": 1759830382,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114852,
@@ -1683,14 +1739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106223,
-      "num": 106223,
-      "word": "喝咖啡防癌还是促癌",
-      "onboard_time": 1759829541,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 105981,
       "num": 105981,
       "word": "朱雨玲世排反超日本乒协",
@@ -1745,14 +1793,6 @@
       "onboard_time": 1759820901,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 101638,
-      "num": 101638,
-      "word": "特朗普承认美国电网拖累AI发展",
-      "onboard_time": 1759830382,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 101603,
@@ -1857,14 +1897,6 @@
       "onboard_time": 1759820480,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 97253,
-      "num": 145477,
-      "word": "许我耀眼",
-      "onboard_time": 1759747642,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 97247,
@@ -2235,6 +2267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73587,
+      "num": 107087,
+      "word": "女方悔婚退彩礼时要扣3万拥抱费",
+      "onboard_time": 1759833081,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73322,
       "num": 73322,
       "word": "焦虑时吃点发酵食物",
@@ -2339,6 +2379,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 59456,
+      "num": 187070,
+      "word": "赵今麦刘浩存李庚希Miu系审美",
+      "onboard_time": 1759831521,
+      "rank": 17,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 58941,
+      "num": 184803,
+      "word": "诺奖得主或还不知道自己得奖了",
+      "onboard_time": 1759831579,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 57926,
       "num": 88182,
       "word": "景区回应180斤游客被卡石缝",
@@ -2355,14 +2411,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 55779,
-      "num": 187070,
-      "word": "赵今麦刘浩存李庚希Miu系审美",
-      "onboard_time": 1759831521,
-      "rank": 17,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 53893,
       "num": 111639,
       "word": "周迅窦靖童同框热聊",
@@ -2377,6 +2425,14 @@
       "onboard_time": 1759770080,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53636,
+      "num": 186254,
+      "word": "香奈儿巴黎时装周压轴大秀",
+      "onboard_time": 1759832361,
+      "rank": 18,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 51144,
@@ -2435,14 +2491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43482,
-      "num": 184803,
-      "word": "诺奖得主或还不知道自己得奖了",
-      "onboard_time": 1759831579,
-      "rank": 21,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 43238,
       "num": 43238,
       "word": "网友巴西遭抢劫电脑为其挡一枪",
@@ -2497,14 +2545,6 @@
       "onboard_time": 1759793657,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 36794,
-      "num": 186254,
-      "word": "香奈儿巴黎时装周压轴大秀",
-      "onboard_time": 1759832361,
-      "rank": 18,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 34785,
