@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/08 04:27:32
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/08 04:40:40
 </p>
 </blockquote>
 <p>
@@ -7647,6 +7647,12 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E5%95%A5%E6%88%91P%E5%9B%BE%E6%94%BE%E5%A4%A7%E8%B4%B4%E7%BA%B8%E4%BA%86%23" target="weibo">
+终于知道为啥我P图放大贴纸了（热度：17451）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 汪苏泷演唱会（热度：17207）
 </a>
@@ -7683,14 +7689,14 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%89%E9%9D%A2%E5%93%A5%E5%9B%9E%E5%BA%94%E6%B5%81%E9%87%8F%E4%B8%8B%E6%BB%91%23" target="weibo">
-拉面哥回应流量下滑（热度：14794）
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E8%AD%A6%E6%83%95%E6%9C%BA%E7%A5%A8%E9%80%80%E6%94%B9%E7%AD%BE%E9%99%B7%E9%98%B1%23" target="weibo">
+假期返程警惕机票退改签陷阱（热度：15715）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E5%95%A5%E6%88%91P%E5%9B%BE%E6%94%BE%E5%A4%A7%E8%B4%B4%E7%BA%B8%E4%BA%86%23" target="weibo">
-终于知道为啥我P图放大贴纸了（热度：14482）
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%89%E9%9D%A2%E5%93%A5%E5%9B%9E%E5%BA%94%E6%B5%81%E9%87%8F%E4%B8%8B%E6%BB%91%23" target="weibo">
+拉面哥回应流量下滑（热度：14794）
 </a>
 </li>
 
@@ -7721,6 +7727,12 @@ CP2025SP（热度：26632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E9%B9%8F%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8C%85%E6%8F%BD%E4%BA%94%E5%86%A0%23" target="weibo">
 向鹏祝贺中国队包揽五冠（热度：12612）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C%E8%BF%9E%E7%BB%AD%E7%AC%AC11%E4%B8%AA%E6%9C%88%E5%A2%9E%E6%8C%81%E9%BB%84%E9%87%91%23" target="weibo">
+中国央行连续第11个月增持黄金（热度：12326）
 </a>
 </li>
 
