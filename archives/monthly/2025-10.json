@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759812165208,
+  "endTime": 1759814679688,
   "band_list": [
     {
       "raw_hot": 6668945,
@@ -1747,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 620276,
+      "num": 200288,
+      "word": "应鹏去世",
+      "onboard_time": 1759808302,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 618213,
       "num": 291432,
       "word": "喝水少 蛀牙",
@@ -2337,6 +2345,14 @@
       "onboard_time": 1759650561,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 508703,
+      "num": 1081392,
+      "word": "每天喝茶vs每天喝咖啡",
+      "onboard_time": 1759802119,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 506365,
@@ -2971,14 +2987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 421782,
-      "num": 1065263,
-      "word": "每天喝茶vs每天喝咖啡",
-      "onboard_time": 1759802119,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 421267,
       "num": 205709,
       "word": "张杰看着屏幕上发光的谢娜",
@@ -3131,6 +3139,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 402821,
+      "num": 175756,
+      "word": "闫妮 中年孟子义",
+      "onboard_time": 1759812742,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401042,
       "num": 401042,
       "word": "湖南卫视中秋之夜节目单",
@@ -3177,6 +3193,14 @@
       "onboard_time": 1759417042,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 393210,
+      "num": 188170,
+      "word": "黄晓明公司艺人名单有陈梦",
+      "onboard_time": 1759811121,
+      "rank": 32,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 392984,
@@ -3249,14 +3273,6 @@
       "onboard_time": 1759744281,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 383194,
-      "num": 200288,
-      "word": "应鹏去世",
-      "onboard_time": 1759808302,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 382617,
@@ -4217,14 +4233,6 @@
       "onboard_time": 1759243283,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 309472,
-      "num": 188170,
-      "word": "黄晓明公司艺人名单有陈梦",
-      "onboard_time": 1759811121,
-      "rank": 32,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 308611,
@@ -6147,6 +6155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208393,
+      "num": 175297,
+      "word": "港媒曝歌手关淑怡病危",
+      "onboard_time": 1759813941,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208173,
       "num": 208173,
       "word": "张晚意为李沁新剧宣传",
@@ -7803,6 +7819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174868,
+      "num": 174868,
+      "word": "这些症状或是身体已出现慢性炎症",
+      "onboard_time": 1759814421,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174733,
       "num": 174733,
       "word": "张泽禹勇敢反馈站位问题",
@@ -7905,6 +7929,14 @@
       "onboard_time": 1759721541,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172330,
+      "num": 172330,
+      "word": "白敬亭是出发团第一魅魔吧",
+      "onboard_time": 1759812022,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 172273,
@@ -8345,6 +8377,14 @@
       "onboard_time": 1759723822,
       "rank": 30,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 166013,
+      "num": 166013,
+      "word": "小偷打开门天都塌了的程度",
+      "onboard_time": 1759812981,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 165932,
@@ -8945,6 +8985,14 @@
       "onboard_time": 1759736902,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155258,
+      "num": 155258,
+      "word": "樊振东回国备战全运会",
+      "onboard_time": 1759813101,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 155174,
@@ -10067,6 +10115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140095,
+      "num": 177556,
+      "word": "无限暖暖",
+      "onboard_time": 1759813879,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 140051,
       "num": 140051,
       "word": "马頔 醒来全身都是黑锅",
@@ -10633,6 +10689,14 @@
       "onboard_time": 1759722921,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134198,
+      "num": 134198,
+      "word": "iPadmini8售价",
+      "onboard_time": 1759813581,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 133737,
@@ -11691,6 +11755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122988,
+      "num": 122988,
+      "word": "刘涛 不重要我买单",
+      "onboard_time": 1759814481,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122889,
       "num": 122889,
       "word": "祝绪丹开机前一天被换角",
@@ -12416,14 +12488,6 @@
       "word": "张若昀我好像看见你扁桃体了",
       "onboard_time": 1759468520,
       "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 116590,
-      "num": 116590,
-      "word": "白敬亭是出发团第一魅魔吧",
-      "onboard_time": 1759812022,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -13249,6 +13313,14 @@
       "onboard_time": 1759744221,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111247,
+      "num": 111247,
+      "word": "刘些宁在国外手机丢了",
+      "onboard_time": 1759812621,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 111246,
@@ -15867,6 +15939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 96269,
+      "num": 96269,
+      "word": "环保少女抵达希腊数百人欢迎",
+      "onboard_time": 1759813822,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 96213,
       "num": 96213,
       "word": "陈哲远比李沁还甜",
@@ -16089,6 +16169,14 @@
       "onboard_time": 1759806680,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94546,
+      "num": 94546,
+      "word": "世界之外",
+      "onboard_time": 1759814481,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 94544,
@@ -18051,6 +18139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79985,
+      "num": 111424,
+      "word": "男子高速下车摘马蜂窝吃",
+      "onboard_time": 1759813762,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79864,
       "num": 129814,
       "word": "国庆升旗",
@@ -18625,6 +18721,14 @@
       "onboard_time": 1759364059,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 73721,
+      "num": 111294,
+      "word": "S15宣传片回忆杀",
+      "onboard_time": 1759814421,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 73649,
@@ -19307,6 +19411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62975,
+      "num": 172948,
+      "word": "珠峰徒步高端团人均费用约10000元",
+      "onboard_time": 1759813281,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62515,
       "num": 105870,
       "word": "男子恶意别车谎称公安被拘",
@@ -19625,6 +19737,14 @@
       "onboard_time": 1759464859,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 56154,
+      "num": 100941,
+      "word": "越南男子杀3人称为完成游戏任务",
+      "onboard_time": 1759813221,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 55966,

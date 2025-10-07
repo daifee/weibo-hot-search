@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/07 00:31:44 ~ 2025/10/07 12:42:45
+本榜单时间：2025/10/07 00:31:44 ~ 2025/10/07 13:24:39
 </p>
 </blockquote>
 <p>
@@ -105,6 +105,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%94%E9%B9%8F%E5%8E%BB%E4%B8%96%23" target="weibo">
+应鹏去世（热度：620276）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%A7%8B%E6%99%9A%E6%B1%B6%E5%B7%9D3%E5%88%86%E9%92%9F%E5%A4%AA%E5%82%AC%E6%B3%AA%23" target="weibo">
 央视秋晚汶川3分钟太催泪（热度：552412）
 </a>
@@ -119,6 +125,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%9B%9D%E9%BB%84%E5%AD%90%E4%BD%BC%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%23" target="weibo">
 台媒曝黄子佼肇事逃逸（热度：522243）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%96%9D%E8%8C%B6vs%E6%AF%8F%E5%A4%A9%E5%96%9D%E5%92%96%E5%95%A1%23" target="weibo">
+每天喝茶vs每天喝咖啡（热度：508703）
 </a>
 </li>
 
@@ -159,12 +171,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%96%9D%E8%8C%B6vs%E6%AF%8F%E5%A4%A9%E5%96%9D%E5%92%96%E5%95%A1%23" target="weibo">
-每天喝茶vs每天喝咖啡（热度：421782）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%9C%8B%E7%9D%80%E5%B1%8F%E5%B9%95%E4%B8%8A%E5%8F%91%E5%85%89%E7%9A%84%E8%B0%A2%E5%A8%9C%23" target="weibo">
 张杰看着屏幕上发光的谢娜（热度：421267）
 </a>
@@ -177,8 +183,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%94%E9%B9%8F%E5%8E%BB%E4%B8%96%23" target="weibo">
-应鹏去世（热度：383194）
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%20%E4%B8%AD%E5%B9%B4%E5%AD%9F%E5%AD%90%E4%B9%89%23" target="weibo">
+闫妮 中年孟子义（热度：402821）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%85%AC%E5%8F%B8%E8%89%BA%E4%BA%BA%E5%90%8D%E5%8D%95%E6%9C%89%E9%99%88%E6%A2%A6%23" target="weibo">
+黄晓明公司艺人名单有陈梦（热度：393210）
 </a>
 </li>
 
@@ -215,12 +227,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%8F%B6%E4%B8%96%E8%8D%A3%E5%8A%A8%E4%BA%86%E8%B0%81%E7%9A%84DNA%23" target="weibo">
 檀健次叶世荣动了谁的DNA（热度：318525）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%85%AC%E5%8F%B8%E8%89%BA%E4%BA%BA%E5%90%8D%E5%8D%95%E6%9C%89%E9%99%88%E6%A2%A6%23" target="weibo">
-黄晓明公司艺人名单有陈梦（热度：309472）
 </a>
 </li>
 
@@ -315,6 +321,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E6%9B%9D%E6%AD%8C%E6%89%8B%E5%85%B3%E6%B7%91%E6%80%A1%E7%97%85%E5%8D%B1%23" target="weibo">
+港媒曝歌手关淑怡病危（热度：208393）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E7%BE%8E%E6%88%90%E5%95%A5%E4%BA%86%20%E6%AC%A7%E8%B1%AA%E4%B9%9F%E6%98%AF%E4%B8%AA%E7%A5%9E%23" target="weibo">
 唐嫣美成啥了 欧豪也是个神（热度：199353）
 </a>
@@ -399,6 +411,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E7%97%87%E7%8A%B6%E6%88%96%E6%98%AF%E8%BA%AB%E4%BD%93%E5%B7%B2%E5%87%BA%E7%8E%B0%E6%85%A2%E6%80%A7%E7%82%8E%E7%97%87%23" target="weibo">
+这些症状或是身体已出现慢性炎症（热度：174868）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E8%87%AA%E7%94%B1%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 穆祉丞自由演唱会（热度：174327）
 </a>
@@ -429,6 +447,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%98%AF%E5%87%BA%E5%8F%91%E5%9B%A2%E7%AC%AC%E4%B8%80%E9%AD%85%E9%AD%94%E5%90%A7%23" target="weibo">
+白敬亭是出发团第一魅魔吧（热度：172330）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%A9%E5%AD%98%E6%89%9B%E4%BD%8F%E4%BA%86G%E7%A4%BE%E9%95%9C%E5%A4%B4%23" target="weibo">
 刘浩存扛住了G社镜头（热度：168001）
 </a>
@@ -447,6 +471,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%81%B7%E6%89%93%E5%BC%80%E9%97%A8%E5%A4%A9%E9%83%BD%E5%A1%8C%E4%BA%86%E7%9A%84%E7%A8%8B%E5%BA%A6%23" target="weibo">
+小偷打开门天都塌了的程度（热度：166013）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%9B%BE%E8%AE%A9%E5%9B%A2%E9%98%9F%E4%B8%8D%E8%A6%81%E5%A3%B0%E5%BC%A0%E4%B8%BB%E6%8C%81%E5%A4%AE%E8%A7%86%E7%A7%8B%E6%99%9A%23" target="weibo">
 谢娜曾让团队不要声张主持央视秋晚（热度：162289）
 </a>
@@ -461,6 +491,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E5%A5%96%E9%87%91124%E5%B9%B4%E6%B2%A1%E8%8A%B1%E5%AE%8C%23" target="weibo">
 诺贝尔奖奖金124年没花完（热度：159105）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%9E%E5%9B%BD%E5%A4%87%E6%88%98%E5%85%A8%E8%BF%90%E4%BC%9A%23" target="weibo">
+樊振东回国备战全运会（热度：155258）
 </a>
 </li>
 
@@ -485,6 +521,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9%E4%BA%BA%E8%A7%A3%E5%86%B3%E4%BA%86%E4%B8%AD%E7%A7%8B%E8%8A%82%E4%B8%8D%E8%83%BD%E5%90%83%E9%A5%BA%E5%AD%90%E7%9A%84%E9%9A%BE%E9%A2%98%23" target="weibo">
 北方人解决了中秋节不能吃饺子的难题（热度：141915）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96%23" target="weibo">
+无限暖暖（热度：140095）
 </a>
 </li>
 
@@ -519,6 +561,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPadmini8%E5%94%AE%E4%BB%B7%23" target="weibo">
+iPadmini8售价（热度：134198）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A610900%E5%88%86%E4%B8%96%E6%8E%92%E7%AC%AC%E4%B8%80%23" target="weibo">
 王楚钦10900分世排第一（热度：132668）
 </a>
@@ -545,6 +593,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%B8%AD%E7%A7%8B%E8%8A%82%E5%94%AE%E5%90%8E%23" target="weibo">
 偷偷藏不住中秋节售后（热度：123955）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%20%E4%B8%8D%E9%87%8D%E8%A6%81%E6%88%91%E4%B9%B0%E5%8D%95%23" target="weibo">
+刘涛 不重要我买单（热度：122988）
 </a>
 </li>
 
@@ -591,12 +645,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%98%AF%E5%87%BA%E5%8F%91%E5%9B%A2%E7%AC%AC%E4%B8%80%E9%AD%85%E9%AD%94%E5%90%A7%23" target="weibo">
-白敬亭是出发团第一魅魔吧（热度：116590）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A85%E5%8F%B7%E7%97%9B%E6%A5%BC%23" target="weibo">
 王一博85号痛楼（热度：116269）
 </a>
@@ -635,6 +683,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E7%96%AF%E7%8B%82%E6%8A%95%E5%96%82%E7%BB%99%E5%B0%8F%E7%BE%8A%E6%92%91emo%E4%BA%86%23" target="weibo">
 小孩疯狂投喂给小羊撑emo了（热度：111657）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%9B%E5%AE%81%E5%9C%A8%E5%9B%BD%E5%A4%96%E6%89%8B%E6%9C%BA%E4%B8%A2%E4%BA%86%23" target="weibo">
+刘些宁在国外手机丢了（热度：111247）
 </a>
 </li>
 
@@ -777,6 +831,12 @@ iOS26优化闹钟计时器（热度：97247）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E6%8A%B5%E8%BE%BE%E5%B8%8C%E8%85%8A%E6%95%B0%E7%99%BE%E4%BA%BA%E6%AC%A2%E8%BF%8E%23" target="weibo">
+环保少女抵达希腊数百人欢迎（热度：96269）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E5%8D%A1%E5%BF%AB%E4%B9%90%E5%8D%81%E4%B8%80%23" target="weibo">
 打卡快乐十一（热度：95473）
 </a>
@@ -785,6 +845,12 @@ iOS26优化闹钟计时器（热度：97247）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E5%B0%86%E7%83%AD%E5%88%B038%E6%91%84%E6%B0%8F%E5%BA%A6%23" target="weibo">
 南方多地将热到38摄氏度（热度：94619）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%B9%8B%E5%A4%96%23" target="weibo">
+世界之外（热度：94546）
 </a>
 </li>
 
@@ -897,6 +963,12 @@ iOS26优化闹钟计时器（热度：97247）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%A6%E6%91%98%E9%A9%AC%E8%9C%82%E7%AA%9D%E5%90%83%23" target="weibo">
+男子高速下车摘马蜂窝吃（热度：79985）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E6%8A%95%E8%AF%893%E5%A5%B31%E7%94%B7%E8%A2%AB%E5%AE%89%E6%8E%92%E4%B8%A4%E6%A0%87%E9%97%B4%23" target="weibo">
 游客投诉3女1男被安排两标间（热度：77422）
 </a>
@@ -923,6 +995,12 @@ iOS26优化闹钟计时器（热度：97247）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E6%81%92%E9%AB%98%E4%BC%9A%23" target="weibo">
 陈奕恒高会（热度：74935）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23S15%E5%AE%A3%E4%BC%A0%E7%89%87%E5%9B%9E%E5%BF%86%E6%9D%80%23" target="weibo">
+S15宣传片回忆杀（热度：73721）
 </a>
 </li>
 
@@ -969,8 +1047,20 @@ iOS26优化闹钟计时器（热度：97247）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B3%B0%E5%BE%92%E6%AD%A5%E9%AB%98%E7%AB%AF%E5%9B%A2%E4%BA%BA%E5%9D%87%E8%B4%B9%E7%94%A8%E7%BA%A610000%E5%85%83%23" target="weibo">
+珠峰徒步高端团人均费用约10000元（热度：62975）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
 央视中秋晚会节目单（热度：60205）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%97%E7%94%B7%E5%AD%90%E6%9D%803%E4%BA%BA%E7%A7%B0%E4%B8%BA%E5%AE%8C%E6%88%90%E6%B8%B8%E6%88%8F%E4%BB%BB%E5%8A%A1%23" target="weibo">
+越南男子杀3人称为完成游戏任务（热度：56154）
 </a>
 </li>
 

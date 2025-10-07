@@ -1,6 +1,6 @@
 {
   "startTime": 1759768304738,
-  "endTime": 1759812165208,
+  "endTime": 1759814679688,
   "band_list": [
     {
       "raw_hot": 1399578,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 620276,
+      "num": 200288,
+      "word": "应鹏去世",
+      "onboard_time": 1759808302,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 552412,
       "num": 846736,
       "word": "央视秋晚汶川3分钟太催泪",
@@ -145,6 +153,14 @@
       "onboard_time": 1759806081,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 508703,
+      "num": 1081392,
+      "word": "每天喝茶vs每天喝咖啡",
+      "onboard_time": 1759802119,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 502358,
@@ -195,14 +211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 421782,
-      "num": 1065263,
-      "word": "每天喝茶vs每天喝咖啡",
-      "onboard_time": 1759802119,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 421267,
       "num": 205709,
       "word": "张杰看着屏幕上发光的谢娜",
@@ -219,12 +227,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 383194,
-      "num": 200288,
-      "word": "应鹏去世",
-      "onboard_time": 1759808302,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 402821,
+      "num": 175756,
+      "word": "闫妮 中年孟子义",
+      "onboard_time": 1759812742,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 393210,
+      "num": 188170,
+      "word": "黄晓明公司艺人名单有陈梦",
+      "onboard_time": 1759811121,
+      "rank": 32,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 379291,
@@ -273,14 +289,6 @@
       "onboard_time": 1759764741,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 309472,
-      "num": 188170,
-      "word": "黄晓明公司艺人名单有陈梦",
-      "onboard_time": 1759811121,
-      "rank": 32,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 307810,
@@ -403,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208393,
+      "num": 175297,
+      "word": "港媒曝歌手关淑怡病危",
+      "onboard_time": 1759813941,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199353,
       "num": 170097,
       "word": "唐嫣美成啥了 欧豪也是个神",
@@ -515,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174868,
+      "num": 174868,
+      "word": "这些症状或是身体已出现慢性炎症",
+      "onboard_time": 1759814421,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 174327,
       "num": 174327,
       "word": "穆祉丞自由演唱会",
@@ -555,6 +579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 172330,
+      "num": 172330,
+      "word": "白敬亭是出发团第一魅魔吧",
+      "onboard_time": 1759812022,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168001,
       "num": 168001,
       "word": "刘浩存扛住了G社镜头",
@@ -579,6 +611,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 166013,
+      "num": 166013,
+      "word": "小偷打开门天都塌了的程度",
+      "onboard_time": 1759812981,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 162289,
       "num": 162289,
       "word": "谢娜曾让团队不要声张主持央视秋晚",
@@ -601,6 +641,14 @@
       "onboard_time": 1759749382,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 155258,
+      "num": 155258,
+      "word": "樊振东回国备战全运会",
+      "onboard_time": 1759813101,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 152229,
@@ -633,6 +681,14 @@
       "onboard_time": 1759801699,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 140095,
+      "num": 177556,
+      "word": "无限暖暖",
+      "onboard_time": 1759813879,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 139766,
@@ -675,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134198,
+      "num": 134198,
+      "word": "iPadmini8售价",
+      "onboard_time": 1759813581,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 132668,
       "num": 132668,
       "word": "王楚钦10900分世排第一",
@@ -713,6 +777,14 @@
       "onboard_time": 1759763302,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122988,
+      "num": 122988,
+      "word": "刘涛 不重要我买单",
+      "onboard_time": 1759814481,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 122871,
@@ -771,14 +843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 116590,
-      "num": 116590,
-      "word": "白敬亭是出发团第一魅魔吧",
-      "onboard_time": 1759812022,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116269,
       "num": 116269,
       "word": "王一博85号痛楼",
@@ -833,6 +897,14 @@
       "onboard_time": 1759795638,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111247,
+      "num": 111247,
+      "word": "刘些宁在国外手机丢了",
+      "onboard_time": 1759812621,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 111096,
@@ -1019,6 +1091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96269,
+      "num": 96269,
+      "word": "环保少女抵达希腊数百人欢迎",
+      "onboard_time": 1759813822,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 95473,
       "num": 145394,
       "word": "打卡快乐十一",
@@ -1033,6 +1113,14 @@
       "onboard_time": 1759806680,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94546,
+      "num": 94546,
+      "word": "世界之外",
+      "onboard_time": 1759814481,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 94293,
@@ -1179,6 +1267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79985,
+      "num": 111424,
+      "word": "男子高速下车摘马蜂窝吃",
+      "onboard_time": 1759813762,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77422,
       "num": 144971,
       "word": "游客投诉3女1男被安排两标间",
@@ -1217,6 +1313,14 @@
       "onboard_time": 1759759704,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 73721,
+      "num": 111294,
+      "word": "S15宣传片回忆杀",
+      "onboard_time": 1759814421,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 73322,
@@ -1275,12 +1379,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62975,
+      "num": 172948,
+      "word": "珠峰徒步高端团人均费用约10000元",
+      "onboard_time": 1759813281,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60205,
       "num": 182813,
       "word": "央视中秋晚会节目单",
       "onboard_time": 1759755202,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56154,
+      "num": 100941,
+      "word": "越南男子杀3人称为完成游戏任务",
+      "onboard_time": 1759813221,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 53893,

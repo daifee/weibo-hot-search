@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 12:42:45
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/07 13:24:39
 </p>
 </blockquote>
 <p>
@@ -1323,6 +1323,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%94%E9%B9%8F%E5%8E%BB%E4%B8%96%23" target="weibo">
+应鹏去世（热度：620276）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9D%E6%B0%B4%E5%B0%91%20%E8%9B%80%E7%89%99%23" target="weibo">
 喝水少 蛀牙（热度：618213）
 </a>
@@ -1763,6 +1769,12 @@ hi6（热度：563954）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A510%E6%9C%888%E6%97%A5%E6%AD%A3%E5%B8%B8%E5%87%BA%E6%91%8A%23" target="weibo">
 鸡排哥10月8日正常出摊（热度：512017）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%96%9D%E8%8C%B6vs%E6%AF%8F%E5%A4%A9%E5%96%9D%E5%92%96%E5%95%A1%23" target="weibo">
+每天喝茶vs每天喝咖啡（热度：508703）
 </a>
 </li>
 
@@ -2241,12 +2253,6 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E5%96%9D%E8%8C%B6vs%E6%AF%8F%E5%A4%A9%E5%96%9D%E5%92%96%E5%95%A1%23" target="weibo">
-每天喝茶vs每天喝咖啡（热度：421782）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%9C%8B%E7%9D%80%E5%B1%8F%E5%B9%95%E4%B8%8A%E5%8F%91%E5%85%89%E7%9A%84%E8%B0%A2%E5%A8%9C%23" target="weibo">
 张杰看着屏幕上发光的谢娜（热度：421267）
 </a>
@@ -2361,6 +2367,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%20%E4%B8%AD%E5%B9%B4%E5%AD%9F%E5%AD%90%E4%B9%89%23" target="weibo">
+闫妮 中年孟子义（热度：402821）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%AD%E7%A7%8B%E4%B9%8B%E5%A4%9C%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
 湖南卫视中秋之夜节目单（热度：401042）
 </a>
@@ -2393,6 +2405,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%B1%B1%E5%B1%B1%E9%A1%B6%E5%AE%BE%E9%A6%86%E6%8F%90%E4%BE%9B99%E5%85%83%E5%9D%90%E5%B8%AD%E5%8F%AF%E8%BF%87%E5%A4%9C%23" target="weibo">
 泰山山顶宾馆提供99元坐席可过夜（热度：394008）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%85%AC%E5%8F%B8%E8%89%BA%E4%BA%BA%E5%90%8D%E5%8D%95%E6%9C%89%E9%99%88%E6%A2%A6%23" target="weibo">
+黄晓明公司艺人名单有陈梦（热度：393210）
 </a>
 </li>
 
@@ -2447,12 +2465,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%23" target="weibo">
 诺贝尔（热度：385478）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%94%E9%B9%8F%E5%8E%BB%E4%B8%96%23" target="weibo">
-应鹏去世（热度：383194）
 </a>
 </li>
 
@@ -3173,12 +3185,6 @@ MiuMiu巴黎时装周（热度：318258）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%BA%BA%E8%8A%B1%E8%BF%913%E4%B8%87%E5%9C%A8%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%8A%9E50%E6%A1%8C%E5%A9%9A%E5%AE%B4%23" target="weibo">
 新人花近3万在海底捞办50桌婚宴（热度：309928）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%85%AC%E5%8F%B8%E8%89%BA%E4%BA%BA%E5%90%8D%E5%8D%95%E6%9C%89%E9%99%88%E6%A2%A6%23" target="weibo">
-黄晓明公司艺人名单有陈梦（热度：309472）
 </a>
 </li>
 
@@ -4623,6 +4629,12 @@ AI女演员出道遭抵制（热度：212198）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E6%9B%9D%E6%AD%8C%E6%89%8B%E5%85%B3%E6%B7%91%E6%80%A1%E7%97%85%E5%8D%B1%23" target="weibo">
+港媒曝歌手关淑怡病危（热度：208393）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E4%B8%BA%E6%9D%8E%E6%B2%81%E6%96%B0%E5%89%A7%E5%AE%A3%E4%BC%A0%23" target="weibo">
 张晚意为李沁新剧宣传（热度：208173）
 </a>
@@ -5865,6 +5877,12 @@ AG对战JDG（热度：181803）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E7%97%87%E7%8A%B6%E6%88%96%E6%98%AF%E8%BA%AB%E4%BD%93%E5%B7%B2%E5%87%BA%E7%8E%B0%E6%85%A2%E6%80%A7%E7%82%8E%E7%97%87%23" target="weibo">
+这些症状或是身体已出现慢性炎症（热度：174868）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%BD%E7%A6%B9%E5%8B%87%E6%95%A2%E5%8F%8D%E9%A6%88%E7%AB%99%E4%BD%8D%E9%97%AE%E9%A2%98%23" target="weibo">
 张泽禹勇敢反馈站位问题（热度：174733）
 </a>
@@ -5943,6 +5961,12 @@ AG对战JDG（热度：181803）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%98%AF%E5%87%BA%E5%8F%91%E5%9B%A2%E7%AC%AC%E4%B8%80%E9%AD%85%E9%AD%94%E5%90%A7%23" target="weibo">
+白敬亭是出发团第一魅魔吧（热度：172330）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%89%BA%E8%BF%AA%E7%BB%88%E7%BB%93%E5%AF%B9%E6%A1%A5%E6%9C%AC%E5%B8%86%E4%B9%83%E9%A6%99%E4%B8%89%E8%BF%9E%E8%B4%A5%23" target="weibo">
 王艺迪终结对桥本帆乃香三连败（热度：172273）
 </a>
@@ -5987,30 +6011,6 @@ F勒布伦首进大满贯决赛（热度：171269）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E7%9C%8B%E4%BA%86%E8%8A%B1%E5%B0%915%E6%89%8D%E9%80%89%E6%8B%A9%E4%BA%86%E7%8E%8B%E5%AE%89%E5%AE%87%23" target="weibo">
 导演看了花少5才选择了王安宇（热度：171198）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%BD%A9%E4%B8%9E%E9%A6%96%E5%A5%97%E9%AB%98%E5%AE%9A%23" target="weibo">
-刘轩丞首套高定（热度：171176）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23G%E7%A4%BE%E6%8B%8D%E7%9A%84%E9%A9%AC%E6%9F%8F%E5%85%A8%E5%AE%8B%E7%A5%96%E5%84%BF%23" target="weibo">
-G社拍的马柏全宋祖儿（热度：171155）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E8%B5%9B%E5%89%8D%E5%AF%B9%E7%BB%83%23" target="weibo">
-王楚钦孙颖莎赛前对练（热度：170869）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E7%9A%84%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%BA%BA%E5%9D%87%E6%A2%97%E7%8E%8B%23" target="weibo">
-陈伟霆的评论区人均梗王（热度：170616）
 </a>
 </li>
 
