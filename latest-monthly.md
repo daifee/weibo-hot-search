@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 00:31:35
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 00:46:11
 </p>
 </blockquote>
 <p>
@@ -3099,6 +3099,12 @@ TF家族男团在湖南秋晚三代同台（热度：346043）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F5%E8%BD%A6%E8%BF%BD%E5%B0%BE2%E6%AD%BB3%E4%BC%A4%23" target="weibo">
+高速5车追尾2死3伤（热度：343336）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E5%8D%97%E9%80%9A5%E6%AF%940%E6%B7%AE%E5%AE%89%23" target="weibo">
 苏超南通5比0淮安（热度：343152）
 </a>
@@ -6005,12 +6011,6 @@ NRG总决赛对阵FNC（热度：190252）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iG%E7%96%91%E4%BC%BC%E9%9F%A9%E5%9B%BD%E9%9B%86%E8%AE%AD%23" target="weibo">
 iG疑似韩国集训（热度：183394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E5%A6%BB%E5%AD%90%E5%9B%9E%E6%80%BC%E7%BD%91%E5%8F%8B%E4%BD%A0%E8%AF%B4%E8%AF%B4%E5%95%A5%E4%BA%8B%23" target="weibo">
-陈震妻子回怼网友你说说啥事（热度：183386）
 </a>
 </li>
 

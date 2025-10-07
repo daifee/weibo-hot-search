@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/08 00:31:35 ~ 2025/10/08 00:31:35
+本榜单时间：2025/10/08 00:31:35 ~ 2025/10/08 00:46:11
 </p>
 </blockquote>
 <p>
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E5%A5%B3%E5%8F%8B%E4%B8%8E%E8%B5%B0%E5%A4%B1%E5%A5%B3%E5%AD%A9%E6%92%9E%E8%84%B8%E7%94%B7%E5%AD%90%E8%A2%AB%E8%AF%AF%E6%8A%93%23" target="weibo">
 因女友与走失女孩撞脸男子被误抓（热度：376438）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F5%E8%BD%A6%E8%BF%BD%E5%B0%BE2%E6%AD%BB3%E4%BC%A4%23" target="weibo">
+高速5车追尾2死3伤（热度：343336）
 </a>
 </li>
 
@@ -99,6 +105,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%88%E5%A6%88%E8%80%81%E5%BC%80%E6%88%91%E6%88%BF%E9%97%A8%E4%BA%86%23" target="weibo">
+终于知道为什么妈妈老开我房门了（热度：166931）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B3%B0%E6%9A%B4%E9%9B%AA%E5%90%91%E5%AF%BC%E4%B8%80%E4%BA%BA%E4%B8%80%E7%8B%97%E5%B8%A6%E8%B6%85%E7%99%BE%E4%BA%BA%E6%92%A4%E7%A6%BB%23" target="weibo">
 珠峰暴雪向导一人一狗带超百人撤离（热度：159594）
 </a>
@@ -117,26 +129,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%8F%B0%E8%AF%8D%23" target="weibo">
+陈哲远台词（热度：134699）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A9%86%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%BC%A0%E7%BA%AA%E4%B8%AD%E7%9A%84%E5%A9%9A%E5%A7%BB%E6%B2%A1%E6%9C%89%E7%88%B1%E6%83%85%23" target="weibo">
 老婆回应与张纪中的婚姻没有爱情（热度：130807）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%8F%B0%E8%AF%8D%23" target="weibo">
-陈哲远台词（热度：130380）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%86%E9%95%BF%E8%A2%AB%E5%8F%B0%E6%B9%BE%E8%AD%A6%E6%96%B9%E4%BE%A6%E5%8A%9E%23" target="weibo">
 馆长被台湾警方侦办（热度：130263）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%88%E5%A6%88%E8%80%81%E5%BC%80%E6%88%91%E6%88%BF%E9%97%A8%E4%BA%86%23" target="weibo">
-终于知道为什么妈妈老开我房门了（热度：130262）
 </a>
 </li>
 
@@ -161,6 +167,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E9%B8%A1%E9%B8%A3%E5%AF%BA%E6%9A%97%E8%AE%BD%E4%BA%8B%E4%BB%B6%23" target="weibo">
 南京地铁回应鸡鸣寺暗讽事件（热度：90847）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%8D%A1%E7%82%B9%E4%B8%8B%E9%AB%98%E9%80%9F%23" target="weibo">
+千万别卡点下高速（热度：88854）
 </a>
 </li>
 
@@ -255,14 +267,26 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E8%B0%88%E6%88%91%E7%9A%84%E5%A4%A7%E8%A7%82%E5%9B%AD%E7%81%AB%E5%87%BA%E5%9C%88%23" target="weibo">
-陈丽君谈我的大观园火出圈（热度：55701）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E5%AD%99%E7%87%95%E5%A7%BF%E5%90%88%E5%94%B1%E9%81%87%E8%A7%81%23" target="weibo">
+韩红孙燕姿合唱遇见（热度：59366）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E1%E5%A4%A9%E8%BF%8E%E6%9D%A5%E5%AF%92%E9%9C%B2%23" target="weibo">
+假期最后1天迎来寒露（热度：59118）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%92%E6%B5%B7%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E8%A2%AB%E5%9B%B0%E5%BE%92%E6%AD%A5%E4%BA%BA%E5%91%981%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
-青海警方通报被困徒步人员1人遇难（热度：54972）
+青海警方通报被困徒步人员1人遇难（热度：57169）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E8%B0%88%E6%88%91%E7%9A%84%E5%A4%A7%E8%A7%82%E5%9B%AD%E7%81%AB%E5%87%BA%E5%9C%88%23" target="weibo">
+陈丽君谈我的大观园火出圈（热度：55701）
 </a>
 </li>
 
@@ -310,7 +334,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%B5%8F%E4%B8%80%E6%AC%A1%E5%A4%A7%E6%B1%9F%E5%8D%97%E5%8C%97%E7%9A%84%E4%B8%AD%E7%A7%8B%E6%9C%88%23" target="weibo">
-再赏一次大江南北的中秋月（热度：16287）
+再赏一次大江南北的中秋月（热度：16695）
 </a>
 </li>
 
