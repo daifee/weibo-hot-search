@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759930540897,
+  "endTime": 1759931204531,
   "band_list": [
     {
       "raw_hot": 2521495,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1439682,
-      "num": 278194,
+      "num": 279524,
       "word": "年羹尧的儿子分享生活",
       "onboard_time": 1759924520,
       "rank": 10,
@@ -107,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1096559,
+      "num": 1175449,
+      "word": "伊朗废除女性强制佩戴头巾规定",
+      "onboard_time": 1759929322,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1078242,
       "num": 1078242,
       "word": "吴庄收费站 震撼",
@@ -123,20 +131,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 932715,
+      "num": 276289,
+      "word": "许妍当众承认沈皓辰是自己儿子",
+      "onboard_time": 1759928540,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 925854,
       "num": 925854,
       "word": "官方通报黄某某拒服兵役",
       "onboard_time": 1759908381,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 877671,
-      "num": 275411,
-      "word": "许妍当众承认沈皓辰是自己儿子",
-      "onboard_time": 1759928540,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 867986,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 863881,
-      "num": 267135,
+      "num": 271699,
       "word": "网红猴哥说车官宣离婚",
       "onboard_time": 1759925001,
       "rank": 11,
@@ -219,16 +227,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 605543,
-      "num": 605543,
-      "word": "伊朗废除女性强制佩戴头巾规定",
-      "onboard_time": 1759929322,
-      "rank": 1,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 591763,
-      "num": 254276,
+      "num": 263059,
       "word": "肖战巴黎",
       "onboard_time": 1759924402,
       "rank": 13,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 549630,
-      "num": 259872,
+      "num": 267994,
       "word": "刘诗诗陈伟霆 二搭",
       "onboard_time": 1759928180,
       "rank": 16,
@@ -297,6 +297,14 @@
       "onboard_time": 1759890440,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 521157,
+      "num": 521157,
+      "word": "年轻情侣忘情接吻险从扶梯摔下",
+      "onboard_time": 1759926741,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 512760,
@@ -417,14 +425,6 @@
       "onboard_time": 1759892481,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 402116,
-      "num": 402116,
-      "word": "年轻情侣忘情接吻险从扶梯摔下",
-      "onboard_time": 1759926741,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 394639,
@@ -555,11 +555,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327154,
+      "num": 259930,
+      "word": "苏超无锡3比0盐城",
+      "onboard_time": 1759930403,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325868,
       "num": 325868,
       "word": "网友称买10斤芒果礼盒3斤是书",
       "onboard_time": 1759923142,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325225,
+      "num": 325225,
+      "word": "29岁失联男子毕业于211院校",
+      "onboard_time": 1759928601,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -595,14 +611,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 306177,
-      "num": 306177,
-      "word": "29岁失联男子毕业于211院校",
-      "onboard_time": 1759928601,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 305828,
       "num": 305828,
       "word": "高市早苗考虑放弃秋季参拜靖国神社",
@@ -611,12 +619,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 303807,
+      "num": 216702,
+      "word": "这居然是兰西雅",
+      "onboard_time": 1759929801,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 301884,
       "num": 209760,
       "word": "陆毅顶流时期高调官宣恋情第一人",
       "onboard_time": 1759890620,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293463,
+      "num": 293463,
+      "word": "苏超淘汰赛无锡vs盐城",
+      "onboard_time": 1759927101,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 291868,
@@ -803,20 +827,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251832,
+      "num": 251832,
+      "word": "苏超",
+      "onboard_time": 1759927101,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251248,
       "num": 216133,
       "word": "王一博和对手握手合影",
       "onboard_time": 1759926021,
       "rank": 17,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 244332,
-      "num": 244332,
-      "word": "苏超淘汰赛无锡vs盐城",
-      "onboard_time": 1759927101,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 243270,
@@ -953,14 +977,6 @@
       "onboard_time": 1759912401,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 201278,
-      "num": 201278,
-      "word": "这居然是兰西雅",
-      "onboard_time": 1759929801,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 198017,
@@ -1171,14 +1187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 177154,
-      "num": 177154,
-      "word": "苏超",
-      "onboard_time": 1759927101,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 175913,
       "num": 175913,
       "word": "殡仪馆回应肖庆平离世",
@@ -1273,6 +1281,14 @@
       "onboard_time": 1759922420,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165954,
+      "num": 165954,
+      "word": "王嘉尔出席活动被陌生女子捏脸",
+      "onboard_time": 1759930462,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 164106,
@@ -1499,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148465,
+      "num": 148465,
+      "word": "展轩说漂亮的女孩要听话",
+      "onboard_time": 1759930103,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148330,
       "num": 122006,
       "word": "现货金价又创新高",
@@ -1641,14 +1665,6 @@
       "onboard_time": 1759911920,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 135815,
-      "num": 135815,
-      "word": "苏超无锡3比0盐城",
-      "onboard_time": 1759930403,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 135391,
@@ -1811,6 +1827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128204,
+      "num": 128204,
+      "word": "WBG对战DK",
+      "onboard_time": 1759929441,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127870,
       "num": 127870,
       "word": "国乒出发印度参加亚锦赛",
@@ -1825,14 +1849,6 @@
       "onboard_time": 1759907421,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 126513,
-      "num": 126513,
-      "word": "展轩说漂亮的女孩要听话",
-      "onboard_time": 1759930103,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 126278,
@@ -1889,6 +1905,14 @@
       "onboard_time": 1759897220,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122821,
+      "num": 122821,
+      "word": "湖南卫视中秋四网收视第一",
+      "onboard_time": 1759930581,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 122455,
@@ -1955,14 +1979,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 119110,
-      "num": 119110,
-      "word": "WBG对战DK",
-      "onboard_time": 1759929441,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 119031,
       "num": 119031,
       "word": "广州暴雨",
@@ -2009,6 +2025,14 @@
       "onboard_time": 1759901181,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 116030,
+      "num": 116030,
+      "word": "陈哲远问怎么会有人边吵架边表白的",
+      "onboard_time": 1759930403,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 115559,
@@ -2113,6 +2137,14 @@
       "onboard_time": 1759900040,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109487,
+      "num": 109487,
+      "word": "袁悦vs保利尼",
+      "onboard_time": 1759931003,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 109241,
@@ -2315,6 +2347,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 98498,
+      "num": 98498,
+      "word": "公主毛利兰",
+      "onboard_time": 1759927881,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 98163,
       "num": 98163,
       "word": "我丢的这一年里你找过我吗",
@@ -2467,14 +2507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94511,
-      "num": 94511,
-      "word": "公主毛利兰",
-      "onboard_time": 1759927881,
-      "rank": 47,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 93908,
       "num": 93908,
       "word": "8号这天我就陈伟霆这样",
@@ -2619,6 +2651,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 87589,
+      "num": 87589,
+      "word": "我视奸别人vs别人视奸我",
+      "onboard_time": 1759929202,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86673,
       "num": 115752,
       "word": "姐姐失踪4年被发现时已成干尸",
@@ -2632,6 +2672,14 @@
       "word": "手机店免费充电线遭男子故意扯断",
       "onboard_time": 1759915881,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86363,
+      "num": 86363,
+      "word": "上海701万彩票大奖仅剩1个兑奖日",
+      "onboard_time": 1759931183,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -2665,14 +2713,6 @@
       "onboard_time": 1759879458,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84882,
-      "num": 84882,
-      "word": "陈哲远问怎么会有人边吵架边表白的",
-      "onboard_time": 1759930403,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 84291,
@@ -3091,6 +3131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34056,
+      "num": 106888,
+      "word": "节后上班前三天不宜高强度工作",
+      "onboard_time": 1759930521,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32158,
       "num": 69439,
       "word": "我还记得第一天放假我心是怎样波动",
@@ -3120,14 +3168,6 @@
       "word": "点过日料外卖的人天塌了",
       "onboard_time": 1759879278,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29330,
-      "num": 102720,
-      "word": "节后上班前三天不宜高强度工作",
-      "onboard_time": 1759930521,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3257,6 +3297,14 @@
       "onboard_time": 1759918820,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13901,
+      "num": 595463,
+      "word": "人间好时节",
+      "onboard_time": 1759930702,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12371,

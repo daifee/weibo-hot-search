@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 21:35:40
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 21:46:44
 </p>
 </blockquote>
 <p>
@@ -567,6 +567,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BA%9F%E9%99%A4%E5%A5%B3%E6%80%A7%E5%BC%BA%E5%88%B6%E4%BD%A9%E6%88%B4%E5%A4%B4%E5%B7%BE%E8%A7%84%E5%AE%9A%23" target="weibo">
+伊朗废除女性强制佩戴头巾规定（热度：1096559）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E7%9A%84%E4%BA%BA%E8%84%89%23" target="weibo">
 李沁的人脉（热度：1096207）
 </a>
@@ -789,6 +795,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%A6%8D%E5%BD%93%E4%BC%97%E6%89%BF%E8%AE%A4%E6%B2%88%E7%9A%93%E8%BE%B0%E6%98%AF%E8%87%AA%E5%B7%B1%E5%84%BF%E5%AD%90%23" target="weibo">
+许妍当众承认沈皓辰是自己儿子（热度：932715）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC16%23" target="weibo">
 许我耀眼16（热度：929148）
 </a>
@@ -893,12 +905,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%8699.9%E5%85%83%E9%9B%B6%E9%A3%9F%20%E5%A5%BD%E7%89%B9%E5%8D%9639.9%23" target="weibo">
 山姆99.9元零食 好特卖39.9（热度：879796）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%A6%8D%E5%BD%93%E4%BC%97%E6%89%BF%E8%AE%A4%E6%B2%88%E7%9A%93%E8%BE%B0%E6%98%AF%E8%87%AA%E5%B7%B1%E5%84%BF%E5%AD%90%23" target="weibo">
-许妍当众承认沈皓辰是自己儿子（热度：877671）
 </a>
 </li>
 
@@ -1647,12 +1653,6 @@ TF四代出道团成员由公司自主决定（热度：610474）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%BA%9F%E9%99%A4%E5%A5%B3%E6%80%A7%E5%BC%BA%E5%88%B6%E4%BD%A9%E6%88%B4%E5%A4%B4%E5%B7%BE%E8%A7%84%E5%AE%9A%23" target="weibo">
-伊朗废除女性强制佩戴头巾规定（热度：605543）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E8%B4%BE%E4%B9%83%E4%BA%AE%E4%B9%B0%E9%87%91%E9%92%9E%23" target="weibo">
 偶遇贾乃亮买金钞（热度：605032）
 </a>
@@ -2081,6 +2081,12 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%97%85%E6%B8%B8%E5%B0%B1%E7%AD%89%E4%BA%8E%E6%B5%AA%E8%B4%B9%E5%81%87%E6%9C%9F%E5%90%97%23" target="weibo">
 不旅游就等于浪费假期吗（热度：521512）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E6%83%85%E4%BE%A3%E5%BF%98%E6%83%85%E6%8E%A5%E5%90%BB%E9%99%A9%E4%BB%8E%E6%89%B6%E6%A2%AF%E6%91%94%E4%B8%8B%23" target="weibo">
+年轻情侣忘情接吻险从扶梯摔下（热度：521157）
 </a>
 </li>
 
@@ -2907,12 +2913,6 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E6%83%85%E4%BE%A3%E5%BF%98%E6%83%85%E6%8E%A5%E5%90%BB%E9%99%A9%E4%BB%8E%E6%89%B6%E6%A2%AF%E6%91%94%E4%B8%8B%23" target="weibo">
-年轻情侣忘情接吻险从扶梯摔下（热度：402116）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E4%B8%AD%E7%A7%8B%E4%B9%8B%E5%A4%9C%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
 湖南卫视中秋之夜节目单（热度：401042）
 </a>
@@ -3627,6 +3627,12 @@ WTT（热度：332672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E6%97%A0%E9%94%A13%E6%AF%940%E7%9B%90%E5%9F%8E%23" target="weibo">
+苏超无锡3比0盐城（热度：327154）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B9%90%E6%99%A8%23" target="weibo">
 王乐晨（热度：326609）
 </a>
@@ -3635,6 +3641,12 @@ WTT（热度：332672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%B0%E4%B9%B010%E6%96%A4%E8%8A%92%E6%9E%9C%E7%A4%BC%E7%9B%923%E6%96%A4%E6%98%AF%E4%B9%A6%23" target="weibo">
 网友称买10斤芒果礼盒3斤是书（热度：325868）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E6%AF%95%E4%B8%9A%E4%BA%8E211%E9%99%A2%E6%A0%A1%23" target="weibo">
+29岁失联男子毕业于211院校（热度：325225）
 </a>
 </li>
 
@@ -3951,14 +3963,14 @@ MiuMiu巴黎时装周（热度：318258）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E6%AF%95%E4%B8%9A%E4%BA%8E211%E9%99%A2%E6%A0%A1%23" target="weibo">
-29岁失联男子毕业于211院校（热度：306177）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%80%83%E8%99%91%E6%94%BE%E5%BC%83%E7%A7%8B%E5%AD%A3%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%23" target="weibo">
+高市早苗考虑放弃秋季参拜靖国神社（热度：305828）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%80%83%E8%99%91%E6%94%BE%E5%BC%83%E7%A7%8B%E5%AD%A3%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%23" target="weibo">
-高市早苗考虑放弃秋季参拜靖国神社（热度：305828）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E5%85%B0%E8%A5%BF%E9%9B%85%23" target="weibo">
+这居然是兰西雅（热度：303807）
 </a>
 </li>
 
@@ -4085,6 +4097,12 @@ MiuMiu巴黎时装周（热度：318258）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%8E%A5%E8%A7%A6%E4%B8%AA%E4%BB%A3%23" target="weibo">
 时代少年团接触个代（热度：293683）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E6%B7%98%E6%B1%B0%E8%B5%9B%E6%97%A0%E9%94%A1vs%E7%9B%90%E5%9F%8E%23" target="weibo">
+苏超淘汰赛无锡vs盐城（热度：293463）
 </a>
 </li>
 
@@ -4889,12 +4907,6 @@ hi6收视率排名第一（热度：245066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%94%B7%E5%AD%A9%E6%9E%AA%E6%9D%804%E5%90%8D%E4%BA%B2%E4%BA%BA%E8%A2%AB%E5%88%A4100%E5%B9%B4%23" target="weibo">
 巴基斯坦男孩枪杀4名亲人被判100年（热度：244766）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E6%B7%98%E6%B1%B0%E8%B5%9B%E6%97%A0%E9%94%A1vs%E7%9B%90%E5%9F%8E%23" target="weibo">
-苏超淘汰赛无锡vs盐城（热度：244332）
 </a>
 </li>
 
@@ -5931,12 +5943,6 @@ TTG战胜TES（热度：206119）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E5%85%B0%E8%A5%BF%E9%9B%85%23" target="weibo">
-这居然是兰西雅（热度：201278）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E5%A5%B3%E5%84%BF%E7%90%83%E7%90%83%E5%9B%9E%E5%BA%94%E5%92%8C%E5%93%A5%E5%93%A5%E4%BA%89%E8%B4%A2%E4%BA%A7%23" target="weibo">
 赵本山女儿球球回应和哥哥争财产（热度：201136）
 </a>
@@ -6005,12 +6011,6 @@ TTG战胜TES（热度：206119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%BB%E5%8F%B0%E7%A7%8B%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%8F%91%E5%B8%83%23" target="weibo">
 总台秋晚节目单发布（热度：199511）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23AG%E6%88%98%E8%83%9CRW%23" target="weibo">
-AG战胜RW（热度：199437）
 </a>
 </li>
 
