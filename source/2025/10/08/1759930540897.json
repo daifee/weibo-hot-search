@@ -1,0 +1,410 @@
+{
+  "runTime": 1759930540897,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 745597,
+        "num": 1119295,
+        "word": "8天很短 7天很长",
+        "onboard_time": 1759915401,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 605543,
+        "num": 605543,
+        "word": "伊朗废除女性强制佩戴头巾规定",
+        "onboard_time": 1759929322,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28465,
+        "num": 575865,
+        "word": "国庆假期超24亿人次跨区域流动",
+        "onboard_time": 1759900101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 557761,
+        "num": 557761,
+        "word": "景德镇一汽车下坡突然起飞",
+        "onboard_time": 1759924642,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488539,
+        "num": 488539,
+        "word": "小狗 请删除偷拍我的照片",
+        "onboard_time": 1759923920,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 402116,
+        "num": 402116,
+        "word": "年轻情侣忘情接吻险从扶梯摔下",
+        "onboard_time": 1759926741,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334199,
+        "num": 334199,
+        "word": "高速堵成啥样了",
+        "onboard_time": 1759907120,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306177,
+        "num": 306177,
+        "word": "29岁失联男子毕业于211院校",
+        "onboard_time": 1759928601,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300620,
+        "num": 300620,
+        "word": "今年冬天将更冷",
+        "onboard_time": 1759913481,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283724,
+        "num": 283724,
+        "word": "网友称买10斤芒果礼盒3斤是书",
+        "onboard_time": 1759923142,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1139174,
+        "num": 278194,
+        "word": "年羹尧的儿子分享生活",
+        "onboard_time": 1759924520,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 877671,
+        "num": 275411,
+        "word": "许妍当众承认沈皓辰是自己儿子",
+        "onboard_time": 1759928540,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 843809,
+        "num": 267135,
+        "word": "网红猴哥说车官宣离婚",
+        "onboard_time": 1759925001,
+        "rank": 12,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 549630,
+        "num": 259872,
+        "word": "刘诗诗陈伟霆 二搭",
+        "onboard_time": 1759928180,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 485578,
+        "num": 254276,
+        "word": "肖战巴黎",
+        "onboard_time": 1759924402,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295391,
+        "num": 251751,
+        "word": "肖庆平车祸离世",
+        "onboard_time": 1759905021,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247723,
+        "num": 247723,
+        "word": "王者荣耀 补偿我一个荣耀水晶",
+        "onboard_time": 1759916901,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 244332,
+        "num": 244332,
+        "word": "苏超淘汰赛无锡vs盐城",
+        "onboard_time": 1759927101,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240313,
+        "num": 240313,
+        "word": "盛夏芬德拉见面会",
+        "onboard_time": 1759919720,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216133,
+        "num": 216133,
+        "word": "王一博和对手握手合影",
+        "onboard_time": 1759926021,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 207551,
+        "num": 207551,
+        "word": "卢昱晓新剧台词尺度",
+        "onboard_time": 1759920800,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201278,
+        "num": 201278,
+        "word": "这居然是兰西雅",
+        "onboard_time": 1759929801,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158912,
+        "num": 158912,
+        "word": "广西一游客坐滑道遇蛇从腿下穿过",
+        "onboard_time": 1759928540,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157855,
+        "num": 157855,
+        "word": "入青云热度",
+        "onboard_time": 1759922780,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1012639,
+        "num": 156324,
+        "word": "鸡排哥成立工作室",
+        "onboard_time": 1759913961,
+        "rank": 24,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 151290,
+        "num": 151290,
+        "word": "莲花楼主题爱奇艺乐园",
+        "onboard_time": 1759929624,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148457,
+        "num": 148457,
+        "word": "苏超",
+        "onboard_time": 1759927101,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143765,
+        "num": 143765,
+        "word": "动物园老虎被观光车压到下巴",
+        "onboard_time": 1759927461,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143387,
+        "num": 143387,
+        "word": "南北温差有多大",
+        "onboard_time": 1759924461,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138934,
+        "num": 138934,
+        "word": "一笑随歌17集",
+        "onboard_time": 1759928601,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137974,
+        "num": 137974,
+        "word": "日本男爱豆当街暴露下体被捕",
+        "onboard_time": 1759913241,
+        "rank": 30,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 136784,
+        "num": 136784,
+        "word": "这些食品发霉立马丢掉",
+        "onboard_time": 1759929501,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135815,
+        "num": 135815,
+        "word": "苏超无锡3比0盐城",
+        "onboard_time": 1759930403,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133047,
+        "num": 133047,
+        "word": "吴庄收费站 震撼",
+        "onboard_time": 1759912881,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126513,
+        "num": 126513,
+        "word": "展轩说漂亮的女孩要听话",
+        "onboard_time": 1759930103,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123764,
+        "num": 123764,
+        "word": "接下来三个月只剩下例假了",
+        "onboard_time": 1759920859,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122186,
+        "num": 122186,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1759914141,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119110,
+        "num": 119110,
+        "word": "WBG对战DK",
+        "onboard_time": 1759929441,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103271,
+        "num": 103271,
+        "word": "华为回应多款APP无法完全适配",
+        "onboard_time": 1759926021,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29330,
+        "num": 102720,
+        "word": "节后上班前三天不宜高强度工作",
+        "onboard_time": 1759930521,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58139,
+        "num": 102598,
+        "word": "Angelababy杂志",
+        "onboard_time": 1759912642,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102479,
+        "num": 102479,
+        "word": "许我耀眼",
+        "onboard_time": 1759921221,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96121,
+        "num": 96121,
+        "word": "温峥嵘完全是温柔妈妈级别",
+        "onboard_time": 1759929741,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96058,
+        "num": 96058,
+        "word": "女子结婚8年才发现喜被里有红枣",
+        "onboard_time": 1759910900,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95557,
+        "num": 95557,
+        "word": "鹭卓直播",
+        "onboard_time": 1759929981,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94511,
+        "num": 94511,
+        "word": "公主毛利兰",
+        "onboard_time": 1759927881,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 89568,
+        "num": 89568,
+        "word": "熊猫团子一通忙活战绩为0",
+        "onboard_time": 1759930222,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88291,
+        "num": 88291,
+        "word": "CELINE中国队 对眼睛很友好",
+        "onboard_time": 1759923202,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 85129,
+        "num": 85129,
+        "word": "那艺娜 道如歉",
+        "onboard_time": 1759923861,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84882,
+        "num": 84882,
+        "word": "陈哲远问怎么会有人边吵架边表白的",
+        "onboard_time": 1759930403,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记打卡古城老街#"
+    }
+  }
+}
