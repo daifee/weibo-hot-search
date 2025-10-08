@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 18:43:47
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 19:21:38
 </p>
 </blockquote>
 <p>
@@ -435,6 +435,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%238%E5%A4%A9%E5%BE%88%E7%9F%AD%207%E5%A4%A9%E5%BE%88%E9%95%BF%23" target="weibo">
+8天很短 7天很长（热度：1199638）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%86%AC%E5%A4%A9%E5%B0%86%E6%9B%B4%E5%86%B7%23" target="weibo">
 今年冬天将更冷（热度：1197599）
 </a>
@@ -749,12 +755,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%88%B6%E6%AF%8D%E5%BC%80%E7%9A%84%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%81%9C%E4%B8%9A%23" target="weibo">
 王俊凯父母开的奶茶店停业（热度：954744）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%238%E5%A4%A9%E5%BE%88%E7%9F%AD%207%E5%A4%A9%E5%BE%88%E9%95%BF%23" target="weibo">
-8天很短 7天很长（热度：953915）
 </a>
 </li>
 
@@ -3237,6 +3237,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E5%A4%8F%E8%8A%AC%E5%BE%B7%E6%8B%89%E8%A7%81%E9%9D%A2%E4%BC%9A%23" target="weibo">
+盛夏芬德拉见面会（热度：360946）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%86%E9%95%BF%E8%A2%AB%E5%8F%B0%E6%B9%BE%E8%AD%A6%E6%96%B9%E4%BE%A6%E5%8A%9E%23" target="weibo">
 馆长被台湾警方侦办（热度：360617）
 </a>
@@ -4179,6 +4185,12 @@ JDG对战DK（热度：286717）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A85%E8%BD%A6%E9%98%9F%E4%BA%9A%E5%86%9B%23" target="weibo">
+王一博85车队亚军（热度：283316）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%85%E6%B8%B8%E6%88%91%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E5%87%BA%E7%89%87%E6%96%B9%E5%BC%8F%23" target="weibo">
 旅游我有自己的出片方式（热度：282752）
 </a>
@@ -4739,6 +4751,12 @@ F1（热度：275052）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%91%8A%E8%AF%89%E8%87%AA%E5%B7%B1%E8%BA%AB%E5%85%BC%E4%B8%89%E9%A1%B9%E6%98%AF%E5%B9%B8%E7%A6%8F%E7%9A%84%23" target="weibo">
 王楚钦告诉自己身兼三项是幸福的（热度：247378）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%9C%86%E9%94%8B%E4%BD%A0%E6%9C%80%E5%A5%BD%E7%BB%99%E6%88%91%E4%B8%80%E4%B8%AA%E8%A7%A3%E9%87%8A%23" target="weibo">
+谢霆锋你最好给我一个解释（热度：247233）
 </a>
 </li>
 
@@ -5511,12 +5529,6 @@ AI女演员出道遭抵制（热度：212198）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%9C%86%E9%94%8B%E4%BD%A0%E6%9C%80%E5%A5%BD%E7%BB%99%E6%88%91%E4%B8%80%E4%B8%AA%E8%A7%A3%E9%87%8A%23" target="weibo">
-谢霆锋你最好给我一个解释（热度：210190）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%A4%A7%E4%B8%80%E7%9A%84%E7%BB%93%E8%AF%BE%E6%B1%87%E6%BC%94%23" target="weibo">
 贺峻霖大一的结课汇演（热度：210117）
 </a>
@@ -5999,18 +6011,6 @@ AG战胜RW（热度：199437）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E7%8E%B0%E8%BA%ABLadyGaga%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 那英现身LadyGaga演唱会（热度：197088）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%99%87%E8%A5%BF3.7%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
-甘肃陇西3.7级地震（热度：196921）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%9F%E6%9C%9F%E4%BA%94%23" target="weibo">
-今天星期五（热度：196866）
 </a>
 </li>
 

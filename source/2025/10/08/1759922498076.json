@@ -1,0 +1,410 @@
+{
+  "runTime": 1759922498076,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1199638,
+        "num": 1199638,
+        "word": "8天很短 7天很长",
+        "onboard_time": 1759915401,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 837690,
+        "num": 837690,
+        "word": "今年冬天将更冷",
+        "onboard_time": 1759913481,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47092,
+        "num": 700612,
+        "word": "国庆假期超24亿人次跨区域流动",
+        "onboard_time": 1759900101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 688888,
+        "num": 688888,
+        "word": "吴庄收费站 震撼",
+        "onboard_time": 1759912881,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 594104,
+        "num": 594104,
+        "word": "王者荣耀 补偿我一个荣耀水晶",
+        "onboard_time": 1759916901,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 442369,
+        "num": 442369,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1759914141,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 405093,
+        "num": 405093,
+        "word": "高速堵成啥样了",
+        "onboard_time": 1759907120,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245463,
+        "num": 245463,
+        "word": "JDG输越南队",
+        "onboard_time": 1759913121,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 226245,
+        "num": 226245,
+        "word": "统一必胜台独必亡",
+        "onboard_time": 1759910181,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223056,
+        "num": 223056,
+        "word": "女子结婚8年才发现喜被里有红枣",
+        "onboard_time": 1759910900,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1312452,
+        "num": 219321,
+        "word": "鸡排哥成立工作室",
+        "onboard_time": 1759913961,
+        "rank": 10,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 529850,
+        "num": 215317,
+        "word": "肖庆平车祸离世",
+        "onboard_time": 1759905021,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478984,
+        "num": 210896,
+        "word": "2025诺贝尔化学奖揭晓",
+        "onboard_time": 1759917802,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360946,
+        "num": 206278,
+        "word": "盛夏芬德拉见面会",
+        "onboard_time": 1759919720,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292931,
+        "num": 202520,
+        "word": "日本男爱豆当街暴露下体被捕",
+        "onboard_time": 1759913241,
+        "rank": 14,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 283316,
+        "num": 197965,
+        "word": "王一博85车队亚军",
+        "onboard_time": 1759919841,
+        "rank": 15,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 247233,
+        "num": 194170,
+        "word": "谢霆锋你最好给我一个解释",
+        "onboard_time": 1759918940,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228104,
+        "num": 188616,
+        "word": "李一桐美人余造型疑似抄袭许我耀眼",
+        "onboard_time": 1759902681,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188168,
+        "num": 188168,
+        "word": "女子久坐16小时火车旅游心脏骤停",
+        "onboard_time": 1759916841,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89580,
+        "num": 182045,
+        "word": "中国留学生潜水失踪只找到根遗骨",
+        "onboard_time": 1759921580,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181897,
+        "num": 181897,
+        "word": "霉霉新专风格被指娇妻化",
+        "onboard_time": 1759920500,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 181542,
+        "num": 181542,
+        "word": "KPL一千零一夜",
+        "onboard_time": 1759921943,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173988,
+        "num": 173988,
+        "word": "王者荣耀回复",
+        "onboard_time": 1759915819,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169765,
+        "num": 169765,
+        "word": "丹麦拟禁止15岁以下人群使用社媒",
+        "onboard_time": 1759918401,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 159698,
+        "num": 159698,
+        "word": "当街露下体被捕男爱豆道歉",
+        "onboard_time": 1759917681,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156005,
+        "num": 156005,
+        "word": "3名诺贝尔化学奖得主履历",
+        "onboard_time": 1759922119,
+        "rank": 25,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 147089,
+        "num": 147089,
+        "word": "王者荣耀",
+        "onboard_time": 1759904960,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141581,
+        "num": 141581,
+        "word": "卢昱晓新剧台词尺度",
+        "onboard_time": 1759920800,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137908,
+        "num": 137908,
+        "word": "台湾积累数十年产业优势将流失殆尽",
+        "onboard_time": 1759921341,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136023,
+        "num": 136023,
+        "word": "刘宇宁不拍杂志的原因",
+        "onboard_time": 1759910300,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130083,
+        "num": 130083,
+        "word": "许我耀眼",
+        "onboard_time": 1759921221,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126615,
+        "num": 126615,
+        "word": "杨幂终于慢下来了",
+        "onboard_time": 1759914922,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125300,
+        "num": 125300,
+        "word": "林俊杰",
+        "onboard_time": 1759922182,
+        "rank": 32,
+        "category": "音乐,游戏"
+      },
+      {
+        "raw_hot": 123629,
+        "num": 123629,
+        "word": "主人回应狗狗下地掰玉米掰了三年了",
+        "onboard_time": 1759916481,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117009,
+        "num": 117009,
+        "word": "比伯成大叔了",
+        "onboard_time": 1759914980,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67974,
+        "num": 115147,
+        "word": "Angelababy杂志",
+        "onboard_time": 1759912642,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113747,
+        "num": 113747,
+        "word": "强生被判赔单一原告近70亿元",
+        "onboard_time": 1759922420,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111403,
+        "num": 111403,
+        "word": "不午睡vs午睡太久",
+        "onboard_time": 1759909701,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 109241,
+        "num": 109241,
+        "word": "这哪是苏新皓这是苏心好",
+        "onboard_time": 1759921823,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74229,
+        "num": 106351,
+        "word": "西贝又开始排队了",
+        "onboard_time": 1759921640,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103895,
+        "num": 103895,
+        "word": "周翊然赛车",
+        "onboard_time": 1759920261,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90079,
+        "num": 96914,
+        "word": "LPL醒一醒",
+        "onboard_time": 1759922481,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96279,
+        "num": 96279,
+        "word": "NIP对战VKE",
+        "onboard_time": 1759922182,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95523,
+        "num": 95523,
+        "word": "高速连续5个服务区进不了站",
+        "onboard_time": 1759907780,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95429,
+        "num": 95429,
+        "word": "邓超回到假期第一天的方法",
+        "onboard_time": 1759920920,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95036,
+        "num": 95036,
+        "word": "50个深蹲对血糖的影响有多大",
+        "onboard_time": 1759919482,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94899,
+        "num": 94899,
+        "word": "孙颖莎香港转机",
+        "onboard_time": 1759919602,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93406,
+        "num": 93406,
+        "word": "接下来三个月只剩下例假了",
+        "onboard_time": 1759920859,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88549,
+        "num": 88549,
+        "word": "八达岭长城的猫",
+        "onboard_time": 1759922420,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88496,
+        "num": 88496,
+        "word": "糖炒栗子加糖不是为了甜",
+        "onboard_time": 1759922481,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记打卡古城老街#"
+    }
+  }
+}
