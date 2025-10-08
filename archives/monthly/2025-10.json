@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759889387192,
+  "endTime": 1759892585289,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -881,6 +881,14 @@
       "onboard_time": 1759372639,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 960842,
+      "num": 169969,
+      "word": "快女谈莉娜婚礼",
+      "onboard_time": 1759890381,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 960633,
@@ -2595,6 +2603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 507090,
+      "num": 169261,
+      "word": "演员颜正国去世",
+      "onboard_time": 1759890440,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 506365,
       "num": 506365,
       "word": "林诗栋vsF勒布伦",
@@ -3009,6 +3025,14 @@
       "onboard_time": 1759573521,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 454803,
+      "num": 454803,
+      "word": "台湾踹飞老太当事男子道歉",
+      "onboard_time": 1759890021,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 453879,
@@ -3521,6 +3545,14 @@
       "onboard_time": 1759747642,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 400439,
+      "num": 168139,
+      "word": "方媛中秋挺孕肚拍全家福",
+      "onboard_time": 1759891100,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 397604,
@@ -4579,6 +4611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 316635,
+      "num": 316635,
+      "word": "大国重器1元1个",
+      "onboard_time": 1759889361,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316182,
       "num": 316182,
       "word": "面馆默许高中生插队排队游客发声",
@@ -4779,6 +4819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 301884,
+      "num": 167189,
+      "word": "陆毅顶流时期高调官宣恋情第一人",
+      "onboard_time": 1759890620,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301318,
       "num": 183097,
       "word": "刘诗诗 富士山等来了她的女主角",
@@ -4971,20 +5019,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 291868,
+      "num": 291868,
+      "word": "姑妈鱼 女朋友",
+      "onboard_time": 1759886240,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 290739,
       "num": 290739,
       "word": "环保少女承认遭以方虐待",
       "onboard_time": 1759819519,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 290719,
-      "num": 290719,
-      "word": "姑妈鱼 女朋友",
-      "onboard_time": 1759886240,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 290364,
@@ -5947,6 +5995,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 240801,
+      "num": 166163,
+      "word": "有个不太好的习惯叫穷思竭虑",
+      "onboard_time": 1759888519,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 240484,
       "num": 240484,
       "word": "时代峰峻楼下 拍立得发布会",
@@ -6625,6 +6681,14 @@
       "onboard_time": 1759836441,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 215398,
+      "num": 147425,
+      "word": "金价又涨了",
+      "onboard_time": 1759889060,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 215280,
@@ -7803,6 +7867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190117,
+      "num": 190117,
+      "word": "当不倒翁小姐姐把镜头翻转过来",
+      "onboard_time": 1759889661,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189875,
       "num": 146636,
       "word": "医生眼中的生理性厌恶",
@@ -8089,6 +8161,14 @@
       "onboard_time": 1759706597,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183994,
+      "num": 147022,
+      "word": "原来法令纹是提亮不了的",
+      "onboard_time": 1759890560,
+      "rank": 21,
+      "category": "美妆"
     },
     {
       "raw_hot": 183824,
@@ -10603,6 +10683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146426,
+      "num": 146426,
+      "word": "两个脏脏包逃难开始",
+      "onboard_time": 1759888519,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 146368,
       "num": 146368,
       "word": "孟子义李昀锐中秋节宣传节奏",
@@ -12995,6 +13083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123416,
+      "num": 123416,
+      "word": "国庆返程高速上演龟速前行",
+      "onboard_time": 1759891881,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123318,
       "num": 123318,
       "word": "黄誉博张峻豪怎么认识的",
@@ -13049,6 +13145,14 @@
       "onboard_time": 1759549340,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122936,
+      "num": 122936,
+      "word": "刘宇宁说不需要辱追粉",
+      "onboard_time": 1759888580,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 122889,
@@ -14219,6 +14323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114179,
+      "num": 114179,
+      "word": "孙燕姿回应捐款上千万",
+      "onboard_time": 1759891581,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 114161,
       "num": 114161,
       "word": "撒贝宁为980岁老人办生日会",
@@ -15187,14 +15299,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 109283,
-      "num": 106668,
-      "word": "金价又涨了",
-      "onboard_time": 1759889060,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 109276,
       "num": 109276,
       "word": "原来猫猫是知道自己在干坏事的",
@@ -15705,14 +15809,6 @@
       "onboard_time": 1759291521,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106661,
-      "num": 106661,
-      "word": "有个不太好的习惯叫穷思竭虑",
-      "onboard_time": 1759888519,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 106638,
@@ -16323,14 +16419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 103606,
-      "num": 103606,
-      "word": "大国重器1元1个",
-      "onboard_time": 1759889361,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103548,
       "num": 103548,
       "word": "金饰克价涨到1132元",
@@ -16377,14 +16465,6 @@
       "onboard_time": 1759478361,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 103377,
-      "num": 103377,
-      "word": "两个脏脏包逃难开始",
-      "onboard_time": 1759888519,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 103291,
@@ -18243,6 +18323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93025,
+      "num": 93025,
+      "word": "贺峻霖大一的结课汇演",
+      "onboard_time": 1759892301,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92993,
       "num": 92993,
       "word": "王一博粉色涂装",
@@ -18289,14 +18377,6 @@
       "onboard_time": 1759813161,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 92602,
-      "num": 92602,
-      "word": "刘宇宁说不需要辱追粉",
-      "onboard_time": 1759888580,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 92581,
@@ -19435,6 +19515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85290,
+      "num": 85290,
+      "word": "第一次见这样的告白方式",
+      "onboard_time": 1759891820,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85268,
       "num": 85268,
       "word": "王力宏鹿晗 演唱会循环",
@@ -19881,6 +19969,14 @@
       "onboard_time": 1759393941,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82550,
+      "num": 82550,
+      "word": "小狗吃水果时嘴筒子软软的",
+      "onboard_time": 1759892361,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 82508,
@@ -20651,6 +20747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75465,
+      "num": 75465,
+      "word": "初中文化老板写文言假条帮父秋收",
+      "onboard_time": 1759892301,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75447,
       "num": 75447,
       "word": "詹姆斯决定二是广告网友吐槽被耍了",
@@ -20915,6 +21019,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 72441,
+      "num": 72441,
+      "word": "剧播一半男主差点身后空无一人",
+      "onboard_time": 1759892481,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72293,
       "num": 72293,
       "word": "树莓回应",
@@ -21073,6 +21185,14 @@
       "onboard_time": 1759330820,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70592,
+      "num": 70592,
+      "word": "王楚钦小小的骄傲",
+      "onboard_time": 1759890021,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 70518,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1759892585289,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 776770,
+        "num": 1124283,
+        "word": "男子喝3斤白酒用智驾开车20公里",
+        "onboard_time": 1759884739,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454803,
+        "num": 454803,
+        "word": "台湾踹飞老太当事男子道歉",
+        "onboard_time": 1759890021,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6205,
+        "num": 448505,
+        "word": "再赏一次大江南北的中秋月",
+        "onboard_time": 1759822521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 448128,
+        "num": 448128,
+        "word": "钱学森遭美方拘禁后失声暴瘦",
+        "onboard_time": 1759880717,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316635,
+        "num": 316635,
+        "word": "大国重器1元1个",
+        "onboard_time": 1759889361,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291868,
+        "num": 291868,
+        "word": "姑妈鱼 女朋友",
+        "onboard_time": 1759886240,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 237370,
+        "num": 237370,
+        "word": "法国网红拿针管假装扎人获刑半年",
+        "onboard_time": 1759884679,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 226500,
+        "num": 226500,
+        "word": "特朗普当加总理面提吞并加拿大",
+        "onboard_time": 1759887440,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190117,
+        "num": 190117,
+        "word": "当不倒翁小姐姐把镜头翻转过来",
+        "onboard_time": 1759889661,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170137,
+        "num": 170137,
+        "word": "恋与深空",
+        "onboard_time": 1759889960,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 960842,
+        "num": 169969,
+        "word": "快女谈莉娜婚礼",
+        "onboard_time": 1759890381,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 507090,
+        "num": 169261,
+        "word": "演员颜正国去世",
+        "onboard_time": 1759890440,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400439,
+        "num": 168139,
+        "word": "方媛中秋挺孕肚拍全家福",
+        "onboard_time": 1759891100,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301884,
+        "num": 167189,
+        "word": "陆毅顶流时期高调官宣恋情第一人",
+        "onboard_time": 1759890620,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240801,
+        "num": 166163,
+        "word": "有个不太好的习惯叫穷思竭虑",
+        "onboard_time": 1759888519,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205477,
+        "num": 165942,
+        "word": "去看张艺兴演唱会的明星",
+        "onboard_time": 1759884979,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176407,
+        "num": 165204,
+        "word": "高市早苗否认南京大屠杀",
+        "onboard_time": 1759892481,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164513,
+        "num": 164513,
+        "word": "恋与深空 夏以昼",
+        "onboard_time": 1759887858,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162158,
+        "num": 162158,
+        "word": "大疆预告降价已购买消费者退货维权",
+        "onboard_time": 1759847423,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147869,
+        "num": 147869,
+        "word": "詹姆斯决定二 广告",
+        "onboard_time": 1759850542,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215398,
+        "num": 147425,
+        "word": "金价又涨了",
+        "onboard_time": 1759889060,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183994,
+        "num": 147022,
+        "word": "原来法令纹是提亮不了的",
+        "onboard_time": 1759890560,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 146426,
+        "num": 146426,
+        "word": "两个脏脏包逃难开始",
+        "onboard_time": 1759888519,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123416,
+        "num": 123416,
+        "word": "国庆返程高速上演龟速前行",
+        "onboard_time": 1759891881,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122936,
+        "num": 122936,
+        "word": "刘宇宁说不需要辱追粉",
+        "onboard_time": 1759888580,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120994,
+        "num": 120994,
+        "word": "娜扎顶光极致怼脸状态",
+        "onboard_time": 1759882819,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115109,
+        "num": 115109,
+        "word": "黄金",
+        "onboard_time": 1759891941,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114716,
+        "num": 114716,
+        "word": "顺产开十指真是十个手指那么宽吗",
+        "onboard_time": 1759850122,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114179,
+        "num": 114179,
+        "word": "孙燕姿回应捐款上千万",
+        "onboard_time": 1759891581,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108577,
+        "num": 108577,
+        "word": "杨博文高会第一",
+        "onboard_time": 1759885519,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107760,
+        "num": 107760,
+        "word": "许我耀眼都市爽剧爆改抽象癫剧",
+        "onboard_time": 1759882279,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107077,
+        "num": 107077,
+        "word": "你在北方穿棉袄我在南方吹空调",
+        "onboard_time": 1759883959,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103826,
+        "num": 103826,
+        "word": "李庚希生图",
+        "onboard_time": 1759883900,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96884,
+        "num": 96884,
+        "word": "终于知道为什么妈妈老开我房门了",
+        "onboard_time": 1759850362,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95744,
+        "num": 95744,
+        "word": "假期最后1天迎来寒露",
+        "onboard_time": 1759854859,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94069,
+        "num": 94069,
+        "word": "在马来西亚失联中国游客朋友发声",
+        "onboard_time": 1759878197,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93025,
+        "num": 93025,
+        "word": "贺峻霖大一的结课汇演",
+        "onboard_time": 1759892301,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89723,
+        "num": 89723,
+        "word": "北京雨雨雨雨",
+        "onboard_time": 1759883059,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89505,
+        "num": 89505,
+        "word": "周生辰下时宜了",
+        "onboard_time": 1759841603,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85290,
+        "num": 85290,
+        "word": "第一次见这样的告白方式",
+        "onboard_time": 1759891820,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83280,
+        "num": 83280,
+        "word": "一觉醒来寒露来了",
+        "onboard_time": 1759885760,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82550,
+        "num": 82550,
+        "word": "小狗吃水果时嘴筒子软软的",
+        "onboard_time": 1759892361,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75465,
+        "num": 75465,
+        "word": "初中文化老板写文言假条帮父秋收",
+        "onboard_time": 1759892301,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75443,
+        "num": 75443,
+        "word": "36车道挤满返程大军",
+        "onboard_time": 1759883780,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72483,
+        "num": 72483,
+        "word": "鞠婧祎阿黛造型",
+        "onboard_time": 1759884260,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72441,
+        "num": 72441,
+        "word": "剧播一半男主差点身后空无一人",
+        "onboard_time": 1759892481,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68696,
+        "num": 70701,
+        "word": "金价突破4000美元",
+        "onboard_time": 1759888821,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70592,
+        "num": 70592,
+        "word": "王楚钦小小的骄傲",
+        "onboard_time": 1759890021,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68793,
+        "num": 68793,
+        "word": "寒露",
+        "onboard_time": 1759878617,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68553,
+        "num": 68553,
+        "word": "张艺兴 莲池春晚",
+        "onboard_time": 1759846702,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#把爱家和爱国统一起来#"
+    }
+  }
+}
