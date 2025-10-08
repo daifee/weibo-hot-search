@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759963234207,
+  "endTime": 1759965776132,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -2451,6 +2451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 332772,
+      "num": 761646,
+      "word": "下高速",
+      "onboard_time": 1759937541,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332326,
       "num": 191483,
       "word": "两婚车相遇互不让路砍树通行",
@@ -3241,14 +3249,6 @@
       "onboard_time": 1759798940,
       "rank": 13,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 261614,
-      "num": 261614,
-      "word": "下高速",
-      "onboard_time": 1759937541,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 261450,
@@ -4977,6 +4977,14 @@
       "onboard_time": 1759756102,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175674,
+      "num": 175674,
+      "word": "假期后劲太大了",
+      "onboard_time": 1759939280,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175256,
@@ -9291,6 +9299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104810,
+      "num": 96354,
+      "word": "64岁演员林俊贤景区打工",
+      "onboard_time": 1759965558,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104698,
       "num": 104698,
       "word": "周深天津这地方情况太复杂了",
@@ -9473,14 +9489,6 @@
       "onboard_time": 1759741822,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102913,
-      "num": 102913,
-      "word": "假期后劲太大了",
-      "onboard_time": 1759939280,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102716,
@@ -10081,6 +10089,14 @@
       "onboard_time": 1759821742,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 96961,
+      "num": 96961,
+      "word": "中国近半年没买过美国一粒大豆",
+      "onboard_time": 1759965438,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 96867,
@@ -10851,6 +10867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 89459,
+      "num": 89459,
+      "word": "西贝馒头争议博主60秒视频160元",
+      "onboard_time": 1759948933,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89439,
       "num": 89439,
       "word": "环球影城偶遇董璇佟丽娅小酒窝朵朵",
@@ -11225,6 +11249,14 @@
       "onboard_time": 1759656801,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84728,
+      "num": 166374,
+      "word": "加沙停火协议",
+      "onboard_time": 1759965019,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84561,
@@ -11707,6 +11739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75575,
+      "num": 166541,
+      "word": "反方向的钟",
+      "onboard_time": 1759943418,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 75465,
       "num": 75465,
       "word": "初中文化老板写文言假条帮父秋收",
@@ -11729,14 +11769,6 @@
       "onboard_time": 1759810401,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 74734,
-      "num": 75238,
-      "word": "反方向的钟",
-      "onboard_time": 1759943418,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 74126,
@@ -11939,6 +11971,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 67398,
+      "num": 67398,
+      "word": "为什么O型血被称为最惨的血型",
+      "onboard_time": 1759965498,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 67210,
       "num": 102601,
       "word": "潘玮柏女儿也是个小吃货",
@@ -11985,6 +12025,14 @@
       "onboard_time": 1759713318,
       "rank": 49,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 66462,
+      "num": 66462,
+      "word": "节后第1个工作日",
+      "onboard_time": 1759965019,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66455,
@@ -12041,6 +12089,14 @@
       "onboard_time": 1759588523,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64708,
+      "num": 58380,
+      "word": "美国雪城大学兵棋推演台湾问题",
+      "onboard_time": 1759965438,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 64566,
@@ -12171,6 +12227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59471,
+      "num": 59471,
+      "word": "一个IP带火一座城",
+      "onboard_time": 1759964598,
+      "rank": 28,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 59463,
       "num": 138226,
       "word": "市民台风天坚持办席大棚被掀翻",
@@ -12217,6 +12281,14 @@
       "onboard_time": 1759716260,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 58167,
+      "num": 58167,
+      "word": "上拉如想挽回跟小英的婚姻",
+      "onboard_time": 1759963217,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 58133,
@@ -12539,20 +12611,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 47978,
+      "num": 47978,
+      "word": "返工",
+      "onboard_time": 1759965438,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47634,
+      "num": 47634,
+      "word": "李莎旻子和管乐的家撞款了",
+      "onboard_time": 1759965498,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47141,
       "num": 119098,
       "word": "哈马斯谈判团长首次公开表态",
       "onboard_time": 1759903220,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 46919,
-      "num": 46919,
-      "word": "西贝馒头争议博主60秒视频160元",
-      "onboard_time": 1759948933,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 46852,
@@ -12699,6 +12779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39058,
+      "num": 39509,
+      "word": "商家回应芒果礼盒内藏试卷课本",
+      "onboard_time": 1759952473,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39043,
       "num": 87285,
       "word": "震耳欲聋",
@@ -12803,14 +12891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33387,
-      "num": 33387,
-      "word": "商家回应芒果礼盒内藏试卷课本",
-      "onboard_time": 1759952473,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33341,
       "num": 108936,
       "word": "陶喆说最舒服的状态就是松弛",
@@ -12859,6 +12939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 31913,
+      "num": 39509,
+      "word": "孟子义回复吴汉坤",
+      "onboard_time": 1759951574,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 31627,
       "num": 648626,
       "word": "网警提醒假期过半务必提高警惕",
@@ -12897,6 +12985,14 @@
       "onboard_time": 1759607294,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31207,
+      "num": 166376,
+      "word": "张艺兴演唱会直播",
+      "onboard_time": 1759948275,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 30589,
@@ -13251,14 +13347,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 17322,
-      "num": 72357,
-      "word": "张艺兴演唱会直播",
-      "onboard_time": 1759948275,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 17207,
       "num": 34078,
       "word": "汪苏泷演唱会",
@@ -13272,14 +13360,6 @@
       "word": "我不想听到8这个字",
       "onboard_time": 1759866494,
       "rank": 31,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 16857,
-      "num": 29723,
-      "word": "孟子义回复吴汉坤",
-      "onboard_time": 1759951574,
-      "rank": 27,
       "category": "作品衍生"
     },
     {
@@ -13393,14 +13473,6 @@
       "onboard_time": 1759603514,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 13461,
-      "num": 29678,
-      "word": "上拉如想挽回跟小英的婚姻",
-      "onboard_time": 1759963217,
-      "rank": 49,
-      "category": "网红"
     },
     {
       "raw_hot": 13397,
