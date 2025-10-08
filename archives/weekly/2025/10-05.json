@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759898557677,
+  "endTime": 1759901092595,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -193,6 +193,14 @@
       "onboard_time": 1759847423,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1255648,
+      "num": 1255648,
+      "word": "人甚至共情不了国庆假期前的自己",
+      "onboard_time": 1759894761,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 1240867,
@@ -611,6 +619,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 796955,
+      "num": 254144,
+      "word": "张凌赫换头像",
+      "onboard_time": 1759897402,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 792284,
       "num": 254654,
       "word": "鹿晗新壁纸",
@@ -737,14 +753,6 @@
       "onboard_time": 1759756463,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 684420,
-      "num": 1109507,
-      "word": "人甚至共情不了国庆假期前的自己",
-      "onboard_time": 1759894761,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 684008,
@@ -923,6 +931,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 570379,
+      "num": 570379,
+      "word": "恋与深空",
+      "onboard_time": 1759735639,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 563717,
       "num": 563717,
       "word": "台湾踹飞老太当事男子道歉",
@@ -985,14 +1001,6 @@
       "onboard_time": 1759802119,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 549779,
-      "num": 254144,
-      "word": "张凌赫换头像",
-      "onboard_time": 1759897402,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 549487,
@@ -1659,14 +1667,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 390621,
-      "num": 390621,
-      "word": "恋与深空",
-      "onboard_time": 1759735639,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 390564,
       "num": 226844,
       "word": "入青云",
@@ -1803,6 +1803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 370209,
+      "num": 370209,
+      "word": "美国经济损失150亿美元",
+      "onboard_time": 1759895541,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 363907,
       "num": 186788,
       "word": "郭富城回应三胎已出生",
@@ -1865,6 +1873,14 @@
       "onboard_time": 1759801519,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 351096,
+      "num": 172953,
+      "word": "吴汉坤踩到孟子义头纱",
+      "onboard_time": 1759898422,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 350391,
@@ -1953,14 +1969,6 @@
       "onboard_time": 1759670724,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 339722,
-      "num": 339722,
-      "word": "美国经济损失150亿美元",
-      "onboard_time": 1759895541,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 339183,
@@ -2057,6 +2065,14 @@
       "onboard_time": 1759738760,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 327361,
+      "num": 173466,
+      "word": "在offer7嗑到了真夫妻",
+      "onboard_time": 1759899020,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 326981,
@@ -2395,6 +2411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 290161,
+      "num": 172585,
+      "word": "胡先煦三个月没和徐志胜搭上话",
+      "onboard_time": 1759899741,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289588,
       "num": 219848,
       "word": "live图怎么关声音",
@@ -2665,6 +2689,14 @@
       "onboard_time": 1759884979,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 267043,
+      "num": 267043,
+      "word": "加沙3个婴儿轮流用一根氧气管",
+      "onboard_time": 1759895119,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 266447,
@@ -2947,6 +2979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 232228,
+      "num": 206177,
+      "word": "王一博85组别全场第一",
+      "onboard_time": 1759897521,
+      "rank": 18,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 231073,
       "num": 342614,
       "word": "00后利用办公室午休赚三份工资",
@@ -3067,6 +3107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222280,
+      "num": 171978,
+      "word": "雪糕试吃员每天吃20根月薪能过万",
+      "onboard_time": 1759900222,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222089,
       "num": 222089,
       "word": "魔丸见多了老魔丸第一次见",
@@ -3097,6 +3145,14 @@
       "onboard_time": 1759657702,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220342,
+      "num": 220342,
+      "word": "赖神曝与fly聊天记录",
+      "onboard_time": 1759899259,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 219782,
@@ -3305,14 +3361,6 @@
       "onboard_time": 1759835180,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 206177,
-      "num": 206177,
-      "word": "王一博85组别全场第一",
-      "onboard_time": 1759897521,
-      "rank": 18,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 205605,
@@ -3755,6 +3803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188680,
+      "num": 175638,
+      "word": "王鹤棣太抢手了",
+      "onboard_time": 1759897402,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188599,
       "num": 188599,
       "word": "诺贝尔奖",
@@ -3776,6 +3832,14 @@
       "word": "王橹杰中秋祝福",
       "onboard_time": 1759761383,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187268,
+      "num": 171003,
+      "word": "一眼万年 李煜东",
+      "onboard_time": 1759900341,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -4147,14 +4211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175638,
-      "num": 175638,
-      "word": "王鹤棣太抢手了",
-      "onboard_time": 1759897402,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175256,
       "num": 175256,
       "word": "伞伞伞伞兵马俑伞伞伞伞",
@@ -4329,6 +4385,14 @@
       "onboard_time": 1759645640,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 171187,
+      "num": 150519,
+      "word": "TaylorSwift忘了通知EdSheeran订婚",
+      "onboard_time": 1759900820,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 171155,
@@ -4513,6 +4577,14 @@
       "onboard_time": 1759716139,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164008,
+      "num": 164008,
+      "word": "95后夫妻宛如双胞胎",
+      "onboard_time": 1759899020,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163943,
@@ -4715,6 +4787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158762,
+      "num": 158762,
+      "word": "33别告诉我妈",
+      "onboard_time": 1759900761,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158576,
       "num": 146582,
       "word": "王楚钦本周第三个冠军自拍",
@@ -4859,6 +4939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154462,
+      "num": 154462,
+      "word": "白敬亭蓝盈莹合作",
+      "onboard_time": 1759897881,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154320,
       "num": 154320,
       "word": "感觉是迪丽热巴会拍的",
@@ -4897,6 +4985,14 @@
       "onboard_time": 1759664543,
       "rank": 37,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 153398,
+      "num": 153398,
+      "word": "KPL年总鸟巢真早鸟来了",
+      "onboard_time": 1759900280,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 153386,
@@ -5643,14 +5739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135875,
-      "num": 135875,
-      "word": "加沙3个婴儿轮流用一根氧气管",
-      "onboard_time": 1759895119,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 135689,
       "num": 135689,
       "word": "卢昱晓新剧评论区",
@@ -5811,6 +5899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133577,
+      "num": 133577,
+      "word": "现实版狸猫换太子",
+      "onboard_time": 1759900702,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 133562,
       "num": 133562,
       "word": "丁禹兮演我睡前玩手机",
@@ -5905,6 +6001,14 @@
       "onboard_time": 1759750582,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 131710,
+      "num": 131710,
+      "word": "长安二十四计",
+      "onboard_time": 1759899442,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 131356,
@@ -6017,6 +6121,14 @@
       "onboard_time": 1759819461,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128411,
+      "num": 170805,
+      "word": "记者在联合国秀中国智造",
+      "onboard_time": 1759898061,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 128297,
@@ -6265,14 +6377,6 @@
       "onboard_time": 1759897220,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123614,
-      "num": 168332,
-      "word": "记者在联合国秀中国智造",
-      "onboard_time": 1759898061,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 123490,
@@ -6563,14 +6667,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 118697,
-      "num": 118697,
-      "word": "吴汉坤踩到孟子义头纱",
-      "onboard_time": 1759898422,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 118648,
       "num": 115692,
       "word": "小狗沐浴的当晚可以在床上睡觉",
@@ -6745,14 +6841,6 @@
       "onboard_time": 1759804760,
       "rank": 38,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 116213,
-      "num": 116213,
-      "word": "白敬亭蓝盈莹合作",
-      "onboard_time": 1759897881,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 116029,
@@ -7185,6 +7273,14 @@
       "onboard_time": 1759806680,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111063,
+      "num": 111063,
+      "word": "米勒记得众人喊话小虎",
+      "onboard_time": 1759900461,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 111006,
@@ -8571,6 +8667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94427,
+      "num": 94427,
+      "word": "三角洲",
+      "onboard_time": 1759900040,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94228,
       "num": 94228,
       "word": "重庆铜梁龙致歉",
@@ -8899,6 +9003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90121,
+      "num": 90121,
+      "word": "狗狗等人到齐才能动筷子",
+      "onboard_time": 1759900702,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90090,
       "num": 90644,
       "word": "柏林偶遇欧阳娜娜",
@@ -8977,6 +9089,14 @@
       "onboard_time": 1759640301,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88815,
+      "num": 88815,
+      "word": "厄瓜多尔总统专车遭到约500人围攻",
+      "onboard_time": 1759899741,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88549,
@@ -9329,6 +9449,14 @@
       "onboard_time": 1759709238,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 83558,
+      "num": 104272,
+      "word": "Faker展望世界赛",
+      "onboard_time": 1759900940,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 83486,
@@ -9971,6 +10099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64566,
+      "num": 462489,
+      "word": "县域旅游已成为一种时尚",
+      "onboard_time": 1759878197,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64487,
       "num": 206548,
       "word": "香奈儿巴黎时装周压轴大秀",
@@ -10467,14 +10603,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 43272,
-      "num": 462489,
-      "word": "县域旅游已成为一种时尚",
-      "onboard_time": 1759878197,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43255,
       "num": 45212,
       "word": "陈俊崧回应不敌王楚钦林诗栋",
@@ -10609,6 +10737,14 @@
       "onboard_time": 1759793657,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 36409,
+      "num": 174539,
+      "word": "国庆假期超24亿人次跨区域流动",
+      "onboard_time": 1759900101,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36081,
