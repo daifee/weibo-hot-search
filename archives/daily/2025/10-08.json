@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759927963403,
+  "endTime": 1759928814855,
   "band_list": [
     {
       "raw_hot": 2521495,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1439682,
-      "num": 195663,
+      "num": 209560,
       "word": "年羹尧的儿子分享生活",
       "onboard_time": 1759924520,
       "rank": 10,
@@ -139,20 +139,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 863881,
+      "num": 207807,
+      "word": "网红猴哥说车官宣离婚",
+      "onboard_time": 1759925001,
+      "rank": 11,
+      "category": "汽车,网红"
+    },
+    {
       "raw_hot": 832077,
       "num": 832077,
       "word": "钱学森遭美方拘禁后失声暴瘦",
       "onboard_time": 1759880717,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 815333,
-      "num": 194197,
-      "word": "网红猴哥说车官宣离婚",
-      "onboard_time": 1759925001,
-      "rank": 11,
-      "category": "汽车,网红"
     },
     {
       "raw_hot": 796955,
@@ -211,6 +211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 591763,
+      "num": 202460,
+      "word": "肖战巴黎",
+      "onboard_time": 1759924402,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591131,
       "num": 591131,
       "word": "2025诺贝尔化学奖揭晓",
@@ -241,14 +249,6 @@
       "onboard_time": 1759890021,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 557602,
-      "num": 192225,
-      "word": "肖战巴黎",
-      "onboard_time": 1759924402,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 551678,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 359914,
-      "num": 191615,
+      "num": 197650,
       "word": "卢昱晓新剧台词尺度",
       "onboard_time": 1759920800,
       "rank": 27,
@@ -515,8 +515,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 325353,
-      "num": 325353,
+      "raw_hot": 325868,
+      "num": 325868,
       "word": "网友称买10斤芒果礼盒3斤是书",
       "onboard_time": 1759923142,
       "rank": 41,
@@ -569,6 +569,14 @@
       "onboard_time": 1759890620,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300440,
+      "num": 194487,
+      "word": "刘诗诗陈伟霆 二搭",
+      "onboard_time": 1759928180,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 291868,
@@ -731,6 +739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 256485,
+      "num": 256485,
+      "word": "小狗 请删除偷拍我的照片",
+      "onboard_time": 1759923920,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 255610,
       "num": 255610,
       "word": "网上晒礼金家中38万现金被盗",
@@ -755,8 +771,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248294,
-      "num": 188028,
+      "raw_hot": 251248,
+      "num": 188540,
       "word": "王一博和对手握手合影",
       "onboard_time": 1759926021,
       "rank": 17,
@@ -859,6 +875,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 210498,
+      "num": 210498,
+      "word": "年轻情侣忘情接吻险从扶梯摔下",
+      "onboard_time": 1759926741,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 210117,
       "num": 197932,
       "word": "贺峻霖大一的结课汇演",
@@ -913,14 +937,6 @@
       "onboard_time": 1759844304,
       "rank": 15,
       "category": "网红"
-    },
-    {
-      "raw_hot": 196190,
-      "num": 196190,
-      "word": "小狗 请删除偷拍我的照片",
-      "onboard_time": 1759923920,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 194960,
@@ -1003,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187207,
+      "num": 187207,
+      "word": "入青云热度",
+      "onboard_time": 1759922780,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186376,
       "num": 186376,
       "word": "中国大满贯收入近1.54亿",
@@ -1083,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178855,
+      "num": 178855,
+      "word": "苏超淘汰赛无锡vs盐城",
+      "onboard_time": 1759927101,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178471,
       "num": 178471,
       "word": "主人回应狗狗下地掰玉米掰了三年了",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1759911201,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 177154,
+      "num": 177154,
+      "word": "苏超",
+      "onboard_time": 1759927101,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 175913,
@@ -1139,14 +1179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173042,
-      "num": 173042,
-      "word": "入青云热度",
-      "onboard_time": 1759922780,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 172032,
       "num": 172032,
       "word": "胡杏儿来内娱再火一次怎么了",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1759878617,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170341,
+      "num": 170341,
+      "word": "许妍当众承认沈皓辰是自己儿子",
+      "onboard_time": 1759928540,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 169562,
@@ -1232,6 +1272,14 @@
       "word": "95后夫妻宛如双胞胎",
       "onboard_time": 1759899020,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162837,
+      "num": 134680,
+      "word": "动物园老虎被观光车压到下巴",
+      "onboard_time": 1759927461,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -1555,14 +1603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 134979,
-      "num": 134979,
-      "word": "年轻情侣忘情接吻险从扶梯摔下",
-      "onboard_time": 1759926741,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134973,
       "num": 134973,
       "word": "亲历者称冰岛侧翻大巴上多名中国人",
@@ -1587,6 +1627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134117,
+      "num": 134117,
+      "word": "那艺娜 道如歉",
+      "onboard_time": 1759923861,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133970,
       "num": 133970,
       "word": "吴邪私家笔记",
@@ -1601,6 +1649,14 @@
       "onboard_time": 1759905741,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 133786,
+      "num": 133786,
+      "word": "华为回应多款APP无法完全适配",
+      "onboard_time": 1759926021,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 133577,
@@ -1635,14 +1691,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 131961,
-      "num": 131961,
-      "word": "那艺娜 道如歉",
-      "onboard_time": 1759923861,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 131710,
       "num": 131710,
       "word": "长安二十四计",
@@ -1673,14 +1721,6 @@
       "onboard_time": 1759844123,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129512,
-      "num": 129512,
-      "word": "华为回应多款APP无法完全适配",
-      "onboard_time": 1759926021,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 129236,
@@ -1739,6 +1779,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 124731,
+      "num": 134689,
+      "word": "总要去看看东北的秋天吧",
+      "onboard_time": 1759927761,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 124405,
       "num": 124405,
       "word": "假期最后一天的心情",
@@ -1771,14 +1819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122280,
-      "num": 120551,
-      "word": "动物园老虎被观光车压到下巴",
-      "onboard_time": 1759927461,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121500,
       "num": 121500,
       "word": "马主回应70多匹马下山时被绑前腿",
@@ -1801,14 +1841,6 @@
       "onboard_time": 1759917082,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120151,
-      "num": 120151,
-      "word": "总要去看看东北的秋天吧",
-      "onboard_time": 1759927761,
-      "rank": 32,
-      "category": "旅游"
     },
     {
       "raw_hot": 120104,
@@ -1923,6 +1955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113634,
+      "num": 113634,
+      "word": "交警高速路上教科书式发糖",
+      "onboard_time": 1759926440,
+      "rank": 34,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 112458,
       "num": 112458,
       "word": "北方开启秋雨绵绵模式",
@@ -1971,14 +2011,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 110604,
-      "num": 110604,
-      "word": "交警高速路上教科书式发糖",
-      "onboard_time": 1759926440,
-      "rank": 34,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 110447,
       "num": 110447,
       "word": "湖人众将谈詹姆斯决定二",
@@ -2001,6 +2033,14 @@
       "onboard_time": 1759921823,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109185,
+      "num": 109185,
+      "word": "29岁失联男子毕业于211院校",
+      "onboard_time": 1759928601,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109149,
@@ -2041,14 +2081,6 @@
       "onboard_time": 1759903521,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107593,
-      "num": 107593,
-      "word": "苏超",
-      "onboard_time": 1759927101,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 107166,
@@ -2107,14 +2139,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 106101,
-      "num": 106101,
-      "word": "苏超淘汰赛无锡vs盐城",
-      "onboard_time": 1759927101,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105706,
       "num": 105706,
       "word": "霉霉夸一战再战太搞笑了",
@@ -2161,6 +2185,14 @@
       "onboard_time": 1759925001,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103706,
+      "num": 103706,
+      "word": "一笑随歌17集",
+      "onboard_time": 1759928601,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 103608,
@@ -2371,6 +2403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92596,
+      "num": 92596,
+      "word": "朋友称失联中国男子手机定位在海里",
+      "onboard_time": 1759928661,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92566,
       "num": 92566,
       "word": "为什么年轻人喜欢徒步",
@@ -2433,6 +2473,14 @@
       "onboard_time": 1759919720,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90318,
+      "num": 90318,
+      "word": "王者荣耀更新",
+      "onboard_time": 1759928180,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 90121,
@@ -2539,6 +2587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83828,
+      "num": 83828,
+      "word": "李昀锐林晏",
+      "onboard_time": 1759928421,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83558,
       "num": 110311,
       "word": "Faker展望世界赛",
@@ -2601,6 +2657,14 @@
       "onboard_time": 1759916241,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79690,
+      "num": 186431,
+      "word": "广西一游客坐滑道遇蛇从腿下穿过",
+      "onboard_time": 1759928540,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78840,
