@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759895231516,
+  "endTime": 1759897811168,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -113,6 +113,14 @@
       "onboard_time": 1759840824,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1475503,
+      "num": 219497,
+      "word": "孟子义拍戏摔了",
+      "onboard_time": 1759894521,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 1422561,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 1026775,
-      "num": 217282,
+      "num": 218835,
       "word": "快女谈莉娜婚礼",
       "onboard_time": 1759890381,
       "rank": 10,
@@ -907,14 +915,6 @@
       "category": "民生新闻,汽车"
     },
     {
-      "raw_hot": 583133,
-      "num": 200759,
-      "word": "孟子义拍戏摔了",
-      "onboard_time": 1759894521,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 563717,
       "num": 563717,
       "word": "台湾踹飞老太当事男子道歉",
@@ -956,7 +956,7 @@
     },
     {
       "raw_hot": 551678,
-      "num": 214537,
+      "num": 218422,
       "word": "方媛中秋挺孕肚拍全家福",
       "onboard_time": 1759891100,
       "rank": 12,
@@ -1044,7 +1044,7 @@
     },
     {
       "raw_hot": 532329,
-      "num": 212777,
+      "num": 217980,
       "word": "演员颜正国去世",
       "onboard_time": 1759890440,
       "rank": 11,
@@ -1305,6 +1305,14 @@
       "onboard_time": 1759631181,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 466195,
+      "num": 466195,
+      "word": "官方通报牛杂店现场手动改价",
+      "onboard_time": 1759895781,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 464187,
@@ -1657,6 +1665,14 @@
       "onboard_time": 1759744281,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 384039,
+      "num": 384039,
+      "word": "黄金",
+      "onboard_time": 1759729041,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 382617,
@@ -2131,6 +2147,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 318063,
+      "num": 318063,
+      "word": "人甚至共情不了国庆假期前的自己",
+      "onboard_time": 1759894761,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317417,
       "num": 317417,
       "word": "特朗普当加总理面提吞并加拿大",
@@ -2243,12 +2267,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 302720,
-      "num": 302720,
-      "word": "黄金",
-      "onboard_time": 1759729041,
-      "rank": 27,
-      "category": "财经"
+      "raw_hot": 305828,
+      "num": 305828,
+      "word": "高市早苗考虑放弃秋季参拜靖国神社",
+      "onboard_time": 1759894341,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 302060,
@@ -2667,6 +2691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260377,
+      "num": 260377,
+      "word": "美国经济损失150亿美元",
+      "onboard_time": 1759895541,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 259573,
       "num": 259573,
       "word": "美国19岁女生车祸丧生家属追责特斯拉",
@@ -2697,6 +2729,14 @@
       "onboard_time": 1759610053,
       "rank": 22,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 254440,
+      "num": 217267,
+      "word": "接下来都是考考考",
+      "onboard_time": 1759893201,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 254435,
@@ -2777,6 +2817,14 @@
       "onboard_time": 1759887858,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242863,
+      "num": 216885,
+      "word": "入青云",
+      "onboard_time": 1759634300,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 241917,
@@ -3067,6 +3115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216770,
+      "num": 216770,
+      "word": "张凌赫换头像",
+      "onboard_time": 1759897402,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216280,
       "num": 209889,
       "word": "生命树",
@@ -3345,6 +3401,14 @@
       "onboard_time": 1759663344,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200354,
+      "num": 200354,
+      "word": "王一博85组别全场第一",
+      "onboard_time": 1759897521,
+      "rank": 18,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 199511,
@@ -3715,6 +3779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186376,
+      "num": 186376,
+      "word": "中国大满贯收入近1.54亿",
+      "onboard_time": 1759896740,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186330,
       "num": 263241,
       "word": "王楚钦流了多少汗",
@@ -3809,14 +3881,6 @@
       "onboard_time": 1759682780,
       "rank": 16,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 182946,
-      "num": 182946,
-      "word": "接下来都是考考考",
-      "onboard_time": 1759893201,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 182944,
@@ -4179,14 +4243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172881,
-      "num": 172881,
-      "word": "入青云",
-      "onboard_time": 1759634300,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 172792,
       "num": 172792,
       "word": "全球第一网红回复詹姆斯",
@@ -4385,6 +4441,14 @@
       "onboard_time": 1759894100,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166271,
+      "num": 166271,
+      "word": "光与夜之恋",
+      "onboard_time": 1759897581,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 166242,
@@ -4979,14 +5043,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 147696,
-      "num": 147696,
-      "word": "高市早苗考虑放弃秋季参拜靖国神社",
-      "onboard_time": 1759894341,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 147498,
       "num": 147498,
       "word": "清融",
@@ -5579,6 +5635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 135391,
+      "num": 135391,
+      "word": "多方侵权迪丽热巴未道歉被公告",
+      "onboard_time": 1759897040,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135266,
       "num": 135266,
       "word": "张桂源choker",
@@ -5659,6 +5723,30 @@
       "category": "数码"
     },
     {
+      "raw_hot": 134060,
+      "num": 134060,
+      "word": "王鹤棣太抢手了",
+      "onboard_time": 1759897402,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133970,
+      "num": 133970,
+      "word": "吴邪私家笔记",
+      "onboard_time": 1759896981,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133772,
+      "num": 133772,
+      "word": "韩红不管了先呀拉索",
+      "onboard_time": 1759896440,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133671,
       "num": 133671,
       "word": "敖瑞鹏直播",
@@ -5705,6 +5793,14 @@
       "onboard_time": 1759836200,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133236,
+      "num": 133236,
+      "word": "断联诺奖得主联系上了",
+      "onboard_time": 1759893980,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 133200,
@@ -5931,6 +6027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127870,
+      "num": 127870,
+      "word": "国乒出发印度参加亚锦赛",
+      "onboard_time": 1759895841,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127817,
       "num": 127817,
       "word": "台风麦德姆影响下的湛江",
@@ -6043,6 +6147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125365,
+      "num": 125365,
+      "word": "Gumayusi女友酷似Keria",
+      "onboard_time": 1759897521,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125274,
       "num": 125274,
       "word": "周也中秋吃月饼营业照",
@@ -6107,6 +6219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124405,
+      "num": 124405,
+      "word": "假期最后一天的心情",
+      "onboard_time": 1759896801,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124171,
       "num": 365150,
       "word": "中国人研究月球土特产又有新成果",
@@ -6120,6 +6240,14 @@
       "word": "王楚钦迎难而上",
       "onboard_time": 1759649720,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123634,
+      "num": 123634,
+      "word": "上海8小时耐力赛直播",
+      "onboard_time": 1759897220,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -6281,6 +6409,14 @@
       "onboard_time": 1759763483,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121120,
+      "num": 127888,
+      "word": "刘宇宁哪天当导演了也不奇怪",
+      "onboard_time": 1759896440,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 121093,
@@ -6881,6 +7017,14 @@
       "onboard_time": 1759637901,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 112412,
+      "num": 112412,
+      "word": "国漫第一大女主的排面拉满了",
+      "onboard_time": 1759897761,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 112113,
@@ -7947,14 +8091,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 99458,
-      "num": 99458,
-      "word": "断联诺奖得主联系上了",
-      "onboard_time": 1759893980,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 99404,
       "num": 99404,
       "word": "我给鞠婧祎张云龙拍的来战大片",
@@ -8145,6 +8281,14 @@
       "onboard_time": 1759841603,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97681,
+      "num": 97681,
+      "word": "这两种人是最适合一起出去旅游的",
+      "onboard_time": 1759894700,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 97585,
@@ -8819,14 +8963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88040,
-      "num": 88040,
-      "word": "人甚至共情不了国庆假期前的自己",
-      "onboard_time": 1759894761,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 87709,
       "num": 93375,
       "word": "鸡排哥 精神贫瘠涌向鲜活生命",
@@ -9256,6 +9392,14 @@
       "word": "妈妈回应儿子跪地拦车救自己",
       "onboard_time": 1759730301,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80915,
+      "num": 124054,
+      "word": "37岁男子持刀致1死被抓",
+      "onboard_time": 1759897161,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -10443,6 +10587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35027,
+      "num": 414848,
+      "word": "县域旅游已成为一种时尚",
+      "onboard_time": 1759878197,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34727,
       "num": 38845,
       "word": "那艺娜目前无法下地将进行手术",
@@ -10593,14 +10745,6 @@
       "onboard_time": 1759777994,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 29123,
-      "num": 38721,
-      "word": "县域旅游已成为一种时尚",
-      "onboard_time": 1759878197,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29045,

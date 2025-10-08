@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/08 00:31:35 ~ 2025/10/08 11:47:11
+本榜单时间：2025/10/08 00:31:35 ~ 2025/10/08 12:30:11
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8B%8D%E6%88%8F%E6%91%94%E4%BA%86%23" target="weibo">
+孟子义拍戏摔了（热度：1475503）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%96%9D3%E6%96%A4%E7%99%BD%E9%85%92%E7%94%A8%E6%99%BA%E9%A9%BE%E5%BC%80%E8%BD%A620%E5%85%AC%E9%87%8C%23" target="weibo">
@@ -51,12 +57,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8B%8D%E6%88%8F%E6%91%94%E4%BA%86%23" target="weibo">
-孟子义拍戏摔了（热度：583133）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%B8%B9%E9%A3%9E%E8%80%81%E5%A4%AA%E5%BD%93%E4%BA%8B%E7%94%B7%E5%AD%90%E9%81%93%E6%AD%89%23" target="weibo">
 台湾踹飞老太当事男子道歉（热度：563717）
 </a>
@@ -87,6 +87,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%89%9B%E6%9D%82%E5%BA%97%E7%8E%B0%E5%9C%BA%E6%89%8B%E5%8A%A8%E6%94%B9%E4%BB%B7%23" target="weibo">
+官方通报牛杂店现场手动改价（热度：466195）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%8F%E4%BC%99%E4%B8%8E%E5%A5%B3%E5%8F%8B%E5%90%83%E9%A5%AD%E8%A2%AB%E9%93%90%E8%B5%B0%23" target="weibo">
 警方回应小伙与女友吃饭被铐走（热度：426263）
 </a>
@@ -95,6 +101,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%A6%E8%AE%A4%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%B1%A0%E6%9D%80%23" target="weibo">
 高市早苗否认南京大屠杀（热度：418623）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%23" target="weibo">
+黄金（热度：384039）
 </a>
 </li>
 
@@ -123,6 +135,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9A%E8%87%B3%E5%85%B1%E6%83%85%E4%B8%8D%E4%BA%86%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%89%8D%E7%9A%84%E8%87%AA%E5%B7%B1%23" target="weibo">
+人甚至共情不了国庆假期前的自己（热度：318063）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E5%8A%A0%E6%80%BB%E7%90%86%E9%9D%A2%E6%8F%90%E5%90%9E%E5%B9%B6%E5%8A%A0%E6%8B%BF%E5%A4%A7%23" target="weibo">
 特朗普当加总理面提吞并加拿大（热度：317417）
 </a>
@@ -135,8 +153,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%23" target="weibo">
-黄金（热度：302720）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%80%83%E8%99%91%E6%94%BE%E5%BC%83%E7%A7%8B%E5%AD%A3%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%23" target="weibo">
+高市早苗考虑放弃秋季参拜靖国神社（热度：305828）
 </a>
 </li>
 
@@ -213,8 +231,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%8D%9F%E5%A4%B1150%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
+美国经济损失150亿美元（热度：260377）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A7%8B%E7%BB%88%E8%AE%A4%E4%B8%BA%E7%94%A8%E4%B9%9D%E9%94%AE%E6%89%93%E5%AD%97%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E5%A4%A9%E6%89%8D%23" target="weibo">
 我始终认为用九键打字的人都是天才（热度：259850）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%B8%8B%E6%9D%A5%E9%83%BD%E6%98%AF%E8%80%83%E8%80%83%E8%80%83%23" target="weibo">
+接下来都是考考考（热度：254440）
 </a>
 </li>
 
@@ -227,6 +257,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E5%A4%8F%E4%BB%A5%E6%98%BC%23" target="weibo">
 恋与深空 夏以昼（热度：243270）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%23" target="weibo">
+入青云（热度：242863）
 </a>
 </li>
 
@@ -261,6 +297,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%8D%A2%E5%A4%B4%E5%83%8F%23" target="weibo">
+张凌赫换头像（热度：216770）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B3%95%E4%BB%A4%E7%BA%B9%E6%98%AF%E6%8F%90%E4%BA%AE%E4%B8%8D%E4%BA%86%E7%9A%84%23" target="weibo">
 原来法令纹是提亮不了的（热度：214425）
 </a>
@@ -279,6 +321,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A85%E7%BB%84%E5%88%AB%E5%85%A8%E5%9C%BA%E7%AC%AC%E4%B8%80%23" target="weibo">
+王一博85组别全场第一（热度：200354）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AE%B7%E4%B8%96%E8%88%AA%E5%90%91%E5%82%B2%E5%A8%87%E7%BE%8E%E6%B1%82%E5%A9%9A%23" target="weibo">
 殷世航向傲娇美求婚（热度：197413）
 </a>
@@ -291,6 +339,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E6%94%B6%E5%85%A5%E8%BF%911.54%E4%BA%BF%23" target="weibo">
+中国大满贯收入近1.54亿（热度：186376）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E7%A7%A6%E5%BD%BB%23" target="weibo">
 恋与深空 秦彻（热度：185555）
 </a>
@@ -299,12 +353,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E9%83%BD%E5%B8%82%E7%88%BD%E5%89%A7%E7%88%86%E6%94%B9%E6%8A%BD%E8%B1%A1%E7%99%AB%E5%89%A7%23" target="weibo">
 许我耀眼都市爽剧爆改抽象癫剧（热度：184760）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%B8%8B%E6%9D%A5%E9%83%BD%E6%98%AF%E8%80%83%E8%80%83%E8%80%83%23" target="weibo">
-接下来都是考考考（热度：182946）
 </a>
 </li>
 
@@ -335,6 +383,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23" target="weibo">
 入青云今日开播（热度：166699）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%23" target="weibo">
+光与夜之恋（热度：166271）
 </a>
 </li>
 
@@ -381,12 +435,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%80%83%E8%99%91%E6%94%BE%E5%BC%83%E7%A7%8B%E5%AD%A3%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%23" target="weibo">
-高市早苗考虑放弃秋季参拜靖国神社（热度：147696）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%AF%B4%E4%B8%8D%E9%9C%80%E8%A6%81%E8%BE%B1%E8%BF%BD%E7%B2%89%23" target="weibo">
 刘宇宁说不需要辱追粉（热度：143989）
 </a>
@@ -423,8 +471,38 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E4%BE%B5%E6%9D%83%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9C%AA%E9%81%93%E6%AD%89%E8%A2%AB%E5%85%AC%E5%91%8A%23" target="weibo">
+多方侵权迪丽热巴未道歉被公告（热度：135391）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%B2%E5%8E%86%E8%80%85%E7%A7%B0%E5%86%B0%E5%B2%9B%E4%BE%A7%E7%BF%BB%E5%A4%A7%E5%B7%B4%E4%B8%8A%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%23" target="weibo">
 亲历者称冰岛侧翻大巴上多名中国人（热度：134973）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%A4%AA%E6%8A%A2%E6%89%8B%E4%BA%86%23" target="weibo">
+王鹤棣太抢手了（热度：134060）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%82%AA%E7%A7%81%E5%AE%B6%E7%AC%94%E8%AE%B0%23" target="weibo">
+吴邪私家笔记（热度：133970）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BA%A2%E4%B8%8D%E7%AE%A1%E4%BA%86%E5%85%88%E5%91%80%E6%8B%89%E7%B4%A2%23" target="weibo">
+韩红不管了先呀拉索（热度：133772）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%AD%E8%81%94%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E8%81%94%E7%B3%BB%E4%B8%8A%E4%BA%86%23" target="weibo">
+断联诺奖得主联系上了（热度：133236）
 </a>
 </li>
 
@@ -447,14 +525,44 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%87%BA%E5%8F%91%E5%8D%B0%E5%BA%A6%E5%8F%82%E5%8A%A0%E4%BA%9A%E9%94%A6%E8%B5%9B%23" target="weibo">
+国乒出发印度参加亚锦赛（热度：127870）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%9C%A8%E5%8C%97%E6%96%B9%E7%A9%BF%E6%A3%89%E8%A2%84%E6%88%91%E5%9C%A8%E5%8D%97%E6%96%B9%E5%90%B9%E7%A9%BA%E8%B0%83%23" target="weibo">
 你在北方穿棉袄我在南方吹空调（热度：125474）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Gumayusi%E5%A5%B3%E5%8F%8B%E9%85%B7%E4%BC%BCKeria%23" target="weibo">
+Gumayusi女友酷似Keria（热度：125365）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%E7%9A%84%E5%BF%83%E6%83%85%23" target="weibo">
+假期最后一天的心情（热度：124405）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B78%E5%B0%8F%E6%97%B6%E8%80%90%E5%8A%9B%E8%B5%9B%E7%9B%B4%E6%92%AD%23" target="weibo">
+上海8小时耐力赛直播（热度：123634）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%B8%BB%E5%9B%9E%E5%BA%9470%E5%A4%9A%E5%8C%B9%E9%A9%AC%E4%B8%8B%E5%B1%B1%E6%97%B6%E8%A2%AB%E7%BB%91%E5%89%8D%E8%85%BF%23" target="weibo">
 马主回应70多匹马下山时被绑前腿（热度：121500）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%93%AA%E5%A4%A9%E5%BD%93%E5%AF%BC%E6%BC%94%E4%BA%86%E4%B9%9F%E4%B8%8D%E5%A5%87%E6%80%AA%23" target="weibo">
+刘宇宁哪天当导演了也不奇怪（热度：121120）
 </a>
 </li>
 
@@ -507,6 +615,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E6%BC%AB%E7%AC%AC%E4%B8%80%E5%A4%A7%E5%A5%B3%E4%B8%BB%E7%9A%84%E6%8E%92%E9%9D%A2%E6%8B%89%E6%BB%A1%E4%BA%86%23" target="weibo">
+国漫第一大女主的排面拉满了（热度：112412）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E4%B8%80%E4%BE%A8%E5%9C%A8%E5%AE%B6%E5%81%B7%E5%81%B7%E7%A9%BF%E5%B0%8F%E8%84%9A%E8%A3%A4%23" target="weibo">
 蒋一侨在家偷偷穿小脚裤（热度：107148）
 </a>
@@ -525,14 +639,14 @@ Faker147场世界赛胜率74%（热度：101810）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%AD%E8%81%94%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E8%81%94%E7%B3%BB%E4%B8%8A%E4%BA%86%23" target="weibo">
-断联诺奖得主联系上了（热度：99458）
+<a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E7%94%BB%E5%B8%88%E5%AE%98%E6%96%B9%E4%BD%BF%E7%94%A8AI%E4%BE%8B%E5%9B%BE%23" target="weibo">
+米画师官方使用AI例图（热度：98657）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E7%94%BB%E5%B8%88%E5%AE%98%E6%96%B9%E4%BD%BF%E7%94%A8AI%E4%BE%8B%E5%9B%BE%23" target="weibo">
-米画师官方使用AI例图（热度：98657）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%A4%E7%A7%8D%E4%BA%BA%E6%98%AF%E6%9C%80%E9%80%82%E5%90%88%E4%B8%80%E8%B5%B7%E5%87%BA%E5%8E%BB%E6%97%85%E6%B8%B8%E7%9A%84%23" target="weibo">
+这两种人是最适合一起出去旅游的（热度：97681）
 </a>
 </li>
 
@@ -569,12 +683,6 @@ Faker147场世界赛胜率74%（热度：101810）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8F%98%E8%AF%95%E8%A1%A3%E9%97%B4%23" target="weibo">
 刘宇宁直播间变试衣间（热度：90759）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9A%E8%87%B3%E5%85%B1%E6%83%85%E4%B8%8D%E4%BA%86%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%89%8D%E7%9A%84%E8%87%AA%E5%B7%B1%23" target="weibo">
-人甚至共情不了国庆假期前的自己（热度：88040）
 </a>
 </li>
 
@@ -617,6 +725,12 @@ Faker147场世界赛胜率74%（热度：101810）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9B%9E%E5%9B%BD%23" target="weibo">
 迪丽热巴回国（热度：81886）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2337%E5%B2%81%E7%94%B7%E5%AD%90%E6%8C%81%E5%88%80%E8%87%B41%E6%AD%BB%E8%A2%AB%E6%8A%93%23" target="weibo">
+37岁男子持刀致1死被抓（热度：80915）
 </a>
 </li>
 
@@ -837,6 +951,12 @@ Faker147场世界赛胜率74%（热度：101810）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%9F%9F%E6%97%85%E6%B8%B8%E5%B7%B2%E6%88%90%E4%B8%BA%E4%B8%80%E7%A7%8D%E6%97%B6%E5%B0%9A%23" target="weibo">
+县域旅游已成为一种时尚（热度：35027）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E8%BF%98%E8%AE%B0%E5%BE%97%E7%AC%AC%E4%B8%80%E5%A4%A9%E6%94%BE%E5%81%87%E6%88%91%E5%BF%83%E6%98%AF%E6%80%8E%E6%A0%B7%E6%B3%A2%E5%8A%A8%23" target="weibo">
 我还记得第一天放假我心是怎样波动（热度：32158）
 </a>
@@ -857,12 +977,6 @@ Faker147场世界赛胜率74%（热度：101810）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%82%B9%E8%BF%87%E6%97%A5%E6%96%99%E5%A4%96%E5%8D%96%E7%9A%84%E4%BA%BA%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
 点过日料外卖的人天塌了（热度：29466）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%BF%E5%9F%9F%E6%97%85%E6%B8%B8%E5%B7%B2%E6%88%90%E4%B8%BA%E4%B8%80%E7%A7%8D%E6%97%B6%E5%B0%9A%23" target="weibo">
-县域旅游已成为一种时尚（热度：29123）
 </a>
 </li>
 
@@ -959,6 +1073,12 @@ CP2025SP（热度：26632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%8A%8A%E7%88%B1%E5%AE%B6%E5%92%8C%E7%88%B1%E5%9B%BD%E7%BB%9F%E4%B8%80%E8%B5%B7%E6%9D%A5%23%23" target="weibo">
 #把爱家和爱国统一起来#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%8E%A2%E5%AF%BB%E4%B8%AD%E5%8D%8E%E6%96%87%E6%98%8E%23%23" target="weibo">
+#跟着总书记探寻中华文明#
 </a>
 </li>
 

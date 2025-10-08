@@ -1,0 +1,410 @@
+{
+  "runTime": 1759897811168,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 629153,
+        "num": 1100664,
+        "word": "男子喝3斤白酒用智驾开车20公里",
+        "onboard_time": 1759884739,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466195,
+        "num": 466195,
+        "word": "官方通报牛杂店现场手动改价",
+        "onboard_time": 1759895781,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 35027,
+        "num": 414848,
+        "word": "县域旅游已成为一种时尚",
+        "onboard_time": 1759878197,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 384039,
+        "num": 384039,
+        "word": "黄金",
+        "onboard_time": 1759891941,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 318063,
+        "num": 318063,
+        "word": "人甚至共情不了国庆假期前的自己",
+        "onboard_time": 1759894761,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317821,
+        "num": 317821,
+        "word": "台湾踹飞老太当事男子道歉",
+        "onboard_time": 1759890021,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305828,
+        "num": 305828,
+        "word": "高市早苗考虑放弃秋季参拜靖国神社",
+        "onboard_time": 1759894341,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 302276,
+        "num": 302276,
+        "word": "恋与深空",
+        "onboard_time": 1759889960,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260377,
+        "num": 260377,
+        "word": "美国经济损失150亿美元",
+        "onboard_time": 1759895541,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219606,
+        "num": 219606,
+        "word": "当不倒翁小姐姐把镜头翻转过来",
+        "onboard_time": 1759889661,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1475503,
+        "num": 219497,
+        "word": "孟子义拍戏摔了",
+        "onboard_time": 1759894521,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 501342,
+        "num": 218835,
+        "word": "快女谈莉娜婚礼",
+        "onboard_time": 1759890381,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462140,
+        "num": 218422,
+        "word": "方媛中秋挺孕肚拍全家福",
+        "onboard_time": 1759891100,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 379290,
+        "num": 218167,
+        "word": "高市早苗否认南京大屠杀",
+        "onboard_time": 1759892481,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304095,
+        "num": 217980,
+        "word": "演员颜正国去世",
+        "onboard_time": 1759890440,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254440,
+        "num": 217267,
+        "word": "接下来都是考考考",
+        "onboard_time": 1759893201,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242863,
+        "num": 216885,
+        "word": "入青云",
+        "onboard_time": 1759897102,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216770,
+        "num": 216770,
+        "word": "张凌赫换头像",
+        "onboard_time": 1759897402,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200354,
+        "num": 200354,
+        "word": "王一博85组别全场第一",
+        "onboard_time": 1759897521,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 195460,
+        "num": 195460,
+        "word": "贺峻霖大一的结课汇演",
+        "onboard_time": 1759892301,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186376,
+        "num": 186376,
+        "word": "中国大满贯收入近1.54亿",
+        "onboard_time": 1759896740,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182318,
+        "num": 182318,
+        "word": "曾黎种了两个半月的玉米被虫子吃了",
+        "onboard_time": 1759894280,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178802,
+        "num": 178802,
+        "word": "在哈尔滨理解了辛芷蕾的挑食",
+        "onboard_time": 1759894040,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176907,
+        "num": 176907,
+        "word": "陆毅顶流时期高调官宣恋情第一人",
+        "onboard_time": 1759890620,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166271,
+        "num": 166271,
+        "word": "光与夜之恋",
+        "onboard_time": 1759897581,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159516,
+        "num": 159516,
+        "word": "有个不太好的习惯叫穷思竭虑",
+        "onboard_time": 1759888519,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137160,
+        "num": 137160,
+        "word": "钱学森遭美方拘禁后失声暴瘦",
+        "onboard_time": 1759880717,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135391,
+        "num": 135391,
+        "word": "多方侵权迪丽热巴未道歉被公告",
+        "onboard_time": 1759897040,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134060,
+        "num": 134060,
+        "word": "王鹤棣太抢手了",
+        "onboard_time": 1759897402,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133970,
+        "num": 133970,
+        "word": "吴邪私家笔记",
+        "onboard_time": 1759896981,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133772,
+        "num": 133772,
+        "word": "韩红不管了先呀拉索",
+        "onboard_time": 1759896440,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133236,
+        "num": 133236,
+        "word": "断联诺奖得主联系上了",
+        "onboard_time": 1759893980,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130478,
+        "num": 130478,
+        "word": "姑妈鱼 女朋友",
+        "onboard_time": 1759886240,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121120,
+        "num": 127888,
+        "word": "刘宇宁哪天当导演了也不奇怪",
+        "onboard_time": 1759896440,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127870,
+        "num": 127870,
+        "word": "国乒出发印度参加亚锦赛",
+        "onboard_time": 1759895841,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126734,
+        "num": 126734,
+        "word": "加沙3个婴儿轮流用一根氧气管",
+        "onboard_time": 1759895119,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125365,
+        "num": 125365,
+        "word": "Gumayusi女友酷似Keria",
+        "onboard_time": 1759897521,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124405,
+        "num": 124405,
+        "word": "假期最后一天的心情",
+        "onboard_time": 1759896801,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120844,
+        "num": 124296,
+        "word": "去看张艺兴演唱会的明星",
+        "onboard_time": 1759884979,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 80915,
+        "num": 124054,
+        "word": "37岁男子持刀致1死被抓",
+        "onboard_time": 1759897161,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121332,
+        "num": 123943,
+        "word": "金价又涨了",
+        "onboard_time": 1759889060,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121511,
+        "num": 123688,
+        "word": "原来法令纹是提亮不了的",
+        "onboard_time": 1759890560,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 123634,
+        "num": 123634,
+        "word": "上海8小时耐力赛直播",
+        "onboard_time": 1759897220,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115723,
+        "num": 115723,
+        "word": "国庆返程高速上演龟速前行",
+        "onboard_time": 1759891881,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112412,
+        "num": 112412,
+        "word": "国漫第一大女主的排面拉满了",
+        "onboard_time": 1759897761,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 107616,
+        "num": 107616,
+        "word": "原来动画片演的都是真的",
+        "onboard_time": 1759894220,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104091,
+        "num": 104091,
+        "word": "大国重器1元1个",
+        "onboard_time": 1759889361,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98079,
+        "num": 98079,
+        "word": "两个脏脏包逃难开始",
+        "onboard_time": 1759888519,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97681,
+        "num": 97681,
+        "word": "这两种人是最适合一起出去旅游的",
+        "onboard_time": 1759894700,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97211,
+        "num": 97211,
+        "word": "特朗普当加总理面提吞并加拿大",
+        "onboard_time": 1759887440,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻中华文明#"
+    }
+  }
+}

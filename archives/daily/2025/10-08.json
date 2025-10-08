@@ -1,7 +1,15 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759895231516,
+  "endTime": 1759897811168,
   "band_list": [
+    {
+      "raw_hot": 1475503,
+      "num": 219497,
+      "word": "孟子义拍戏摔了",
+      "onboard_time": 1759894521,
+      "rank": 16,
+      "category": "剧集"
+    },
     {
       "raw_hot": 1235949,
       "num": 1235949,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1026775,
-      "num": 217282,
+      "num": 218835,
       "word": "快女谈莉娜婚礼",
       "onboard_time": 1759890381,
       "rank": 10,
@@ -51,14 +59,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 583133,
-      "num": 200759,
-      "word": "孟子义拍戏摔了",
-      "onboard_time": 1759894521,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 563717,
       "num": 563717,
       "word": "台湾踹飞老太当事男子道歉",
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 551678,
-      "num": 214537,
+      "num": 218422,
       "word": "方媛中秋挺孕肚拍全家福",
       "onboard_time": 1759891100,
       "rank": 12,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 532329,
-      "num": 212777,
+      "num": 217980,
       "word": "演员颜正国去世",
       "onboard_time": 1759890440,
       "rank": 11,
@@ -99,6 +99,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 466195,
+      "num": 466195,
+      "word": "官方通报牛杂店现场手动改价",
+      "onboard_time": 1759895781,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 426263,
       "num": 426263,
       "word": "警方回应小伙与女友吃饭被铐走",
@@ -108,11 +116,19 @@
     },
     {
       "raw_hot": 418623,
-      "num": 207999,
+      "num": 218167,
       "word": "高市早苗否认南京大屠杀",
       "onboard_time": 1759892481,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 384039,
+      "num": 384039,
+      "word": "黄金",
+      "onboard_time": 1759891941,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 376438,
@@ -147,6 +163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 318063,
+      "num": 318063,
+      "word": "人甚至共情不了国庆假期前的自己",
+      "onboard_time": 1759894761,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317417,
       "num": 317417,
       "word": "特朗普当加总理面提吞并加拿大",
@@ -163,12 +187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 302720,
-      "num": 302720,
-      "word": "黄金",
-      "onboard_time": 1759891941,
-      "rank": 26,
-      "category": "财经"
+      "raw_hot": 305828,
+      "num": 305828,
+      "word": "高市早苗考虑放弃秋季参拜靖国神社",
+      "onboard_time": 1759894341,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 301884,
@@ -267,12 +291,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 260377,
+      "num": 260377,
+      "word": "美国经济损失150亿美元",
+      "onboard_time": 1759895541,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 259850,
       "num": 259850,
       "word": "我始终认为用九键打字的人都是天才",
       "onboard_time": 1759837342,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 254440,
+      "num": 217267,
+      "word": "接下来都是考考考",
+      "onboard_time": 1759893201,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 252916,
@@ -289,6 +329,14 @@
       "onboard_time": 1759887858,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 242863,
+      "num": 216885,
+      "word": "入青云",
+      "onboard_time": 1759897102,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 241917,
@@ -331,6 +379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 216770,
+      "num": 216770,
+      "word": "张凌赫换头像",
+      "onboard_time": 1759897402,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214425,
       "num": 196036,
       "word": "原来法令纹是提亮不了的",
@@ -355,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200354,
+      "num": 200354,
+      "word": "王一博85组别全场第一",
+      "onboard_time": 1759897521,
+      "rank": 18,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 197413,
       "num": 145322,
       "word": "殷世航向傲娇美求婚",
@@ -371,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186376,
+      "num": 186376,
+      "word": "中国大满贯收入近1.54亿",
+      "onboard_time": 1759896740,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185555,
       "num": 120599,
       "word": "恋与深空 秦彻",
@@ -385,14 +457,6 @@
       "onboard_time": 1759882279,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182946,
-      "num": 182946,
-      "word": "接下来都是考考考",
-      "onboard_time": 1759893201,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 182099,
@@ -433,6 +497,14 @@
       "onboard_time": 1759894100,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166271,
+      "num": 166271,
+      "word": "光与夜之恋",
+      "onboard_time": 1759897581,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 159594,
@@ -491,14 +563,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 147696,
-      "num": 147696,
-      "word": "高市早苗考虑放弃秋季参拜靖国神社",
-      "onboard_time": 1759894341,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 143989,
       "num": 143989,
       "word": "刘宇宁说不需要辱追粉",
@@ -547,12 +611,52 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135391,
+      "num": 135391,
+      "word": "多方侵权迪丽热巴未道歉被公告",
+      "onboard_time": 1759897040,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134973,
       "num": 134973,
       "word": "亲历者称冰岛侧翻大巴上多名中国人",
       "onboard_time": 1759845383,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134060,
+      "num": 134060,
+      "word": "王鹤棣太抢手了",
+      "onboard_time": 1759897402,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133970,
+      "num": 133970,
+      "word": "吴邪私家笔记",
+      "onboard_time": 1759896981,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133772,
+      "num": 133772,
+      "word": "韩红不管了先呀拉索",
+      "onboard_time": 1759896440,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 133236,
+      "num": 133236,
+      "word": "断联诺奖得主联系上了",
+      "onboard_time": 1759893980,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 132814,
@@ -579,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127870,
+      "num": 127870,
+      "word": "国乒出发印度参加亚锦赛",
+      "onboard_time": 1759895841,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125474,
       "num": 125474,
       "word": "你在北方穿棉袄我在南方吹空调",
@@ -587,12 +699,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125365,
+      "num": 125365,
+      "word": "Gumayusi女友酷似Keria",
+      "onboard_time": 1759897521,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 124405,
+      "num": 124405,
+      "word": "假期最后一天的心情",
+      "onboard_time": 1759896801,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 123634,
+      "num": 123634,
+      "word": "上海8小时耐力赛直播",
+      "onboard_time": 1759897220,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121500,
       "num": 121500,
       "word": "马主回应70多匹马下山时被绑前腿",
       "onboard_time": 1759852822,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121120,
+      "num": 127888,
+      "word": "刘宇宁哪天当导演了也不奇怪",
+      "onboard_time": 1759896440,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 120104,
@@ -659,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112412,
+      "num": 112412,
+      "word": "国漫第一大女主的排面拉满了",
+      "onboard_time": 1759897761,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 107148,
       "num": 107148,
       "word": "蒋一侨在家偷偷穿小脚裤",
@@ -683,20 +835,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 99458,
-      "num": 99458,
-      "word": "断联诺奖得主联系上了",
-      "onboard_time": 1759893980,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 98657,
       "num": 98657,
       "word": "米画师官方使用AI例图",
       "onboard_time": 1759893801,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 97681,
+      "num": 97681,
+      "word": "这两种人是最适合一起出去旅游的",
+      "onboard_time": 1759894700,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 97585,
@@ -745,14 +897,6 @@
       "onboard_time": 1759885038,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88040,
-      "num": 88040,
-      "word": "人甚至共情不了国庆假期前的自己",
-      "onboard_time": 1759894761,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 86673,
@@ -809,6 +953,14 @@
       "onboard_time": 1759833861,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80915,
+      "num": 124054,
+      "word": "37岁男子持刀致1死被抓",
+      "onboard_time": 1759897161,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80521,
@@ -1099,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35027,
+      "num": 414848,
+      "word": "县域旅游已成为一种时尚",
+      "onboard_time": 1759878197,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32158,
       "num": 69439,
       "word": "我还记得第一天放假我心是怎样波动",
@@ -1128,14 +1288,6 @@
       "word": "点过日料外卖的人天塌了",
       "onboard_time": 1759879278,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29123,
-      "num": 38721,
-      "word": "县域旅游已成为一种时尚",
-      "onboard_time": 1759878197,
-      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1254,6 +1406,9 @@
   "hotgov_list": [
     {
       "word": "#把爱家和爱国统一起来#"
+    },
+    {
+      "word": "#跟着总书记探寻中华文明#"
     }
   ]
 }

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 11:47:11
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 12:30:11
 </p>
 </blockquote>
 <p>
@@ -215,6 +215,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E5%9B%9E%E5%BA%94%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E5%8F%91%E7%99%BD%23" target="weibo">
 鸡排哥回应嘴唇发紫发白（热度：1486138）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8B%8D%E6%88%8F%E6%91%94%E4%BA%86%23" target="weibo">
+孟子义拍戏摔了（热度：1475503）
 </a>
 </li>
 
@@ -1611,12 +1617,6 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8B%8D%E6%88%8F%E6%91%94%E4%BA%86%23" target="weibo">
-孟子义拍戏摔了（热度：583133）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E8%8A%82%E7%A7%B0%E4%B8%8D%E4%BE%BF%E9%80%8F%E9%9C%B2%E5%9D%90%E5%9C%B0%E8%B5%B7%E4%BB%B7%E8%89%BA%E4%BA%BA%E5%90%8D%E5%AD%97%23" target="weibo">
 音乐节称不便透露坐地起价艺人名字（热度：582181）
 </a>
@@ -2253,6 +2253,12 @@ VaVa说自己分手是因为浪姐（热度：480031）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%89%9B%E6%9D%82%E5%BA%97%E7%8E%B0%E5%9C%BA%E6%89%8B%E5%8A%A8%E6%94%B9%E4%BB%B7%23" target="weibo">
+官方通报牛杂店现场手动改价（热度：466195）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%9C%A8%E5%9B%BA%E6%80%81%E9%94%82%E7%94%B5%E6%B1%A0%E9%A2%86%E5%9F%9F%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4%23" target="weibo">
 我国在固态锂电池领域取得突破（热度：464187）
 </a>
@@ -2771,6 +2777,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%23" target="weibo">
 诺贝尔（热度：385478）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%23" target="weibo">
+黄金（热度：384039）
 </a>
 </li>
 
@@ -3465,6 +3477,12 @@ MiuMiu巴黎时装周（热度：318258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9A%E8%87%B3%E5%85%B1%E6%83%85%E4%B8%8D%E4%BA%86%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%89%8D%E7%9A%84%E8%87%AA%E5%B7%B1%23" target="weibo">
+人甚至共情不了国庆假期前的自己（热度：318063）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%BD%E4%B8%8D%E8%83%BD%E7%A6%81%E6%AD%A2%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%94%BB%E4%B8%AD%E5%8D%8E%E9%A3%8E%23" target="weibo">
 能不能禁止日本人画中华风（热度：317764）
 </a>
@@ -3627,8 +3645,8 @@ MiuMiu巴黎时装周（热度：318258）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%23" target="weibo">
-黄金（热度：302720）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%80%83%E8%99%91%E6%94%BE%E5%BC%83%E7%A7%8B%E5%AD%A3%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%23" target="weibo">
+高市早苗考虑放弃秋季参拜靖国神社（热度：305828）
 </a>
 </li>
 
@@ -4257,6 +4275,12 @@ F1（热度：275052）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%8D%9F%E5%A4%B1150%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
+美国经济损失150亿美元（热度：260377）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%90%E5%8A%A8%E4%B8%89%E4%B8%AA%E6%9C%88%E4%B8%8D%E8%83%96%E5%92%8C%E5%A5%BD%E7%98%A6%E7%9A%84%E5%8C%BA%E5%88%AB%23" target="weibo">
 运动三个月不胖和好瘦的区别（热度：259783）
 </a>
@@ -4331,6 +4355,12 @@ F1（热度：275052）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E8%BF%98%E6%98%AF%E5%A4%AA%E5%86%99%E5%AE%9E%E4%BA%86%23" target="weibo">
 家有儿女还是太写实了（热度：254494）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%B8%8B%E6%9D%A5%E9%83%BD%E6%98%AF%E8%80%83%E8%80%83%E8%80%83%23" target="weibo">
+接下来都是考考考（热度：254440）
 </a>
 </li>
 
@@ -4499,6 +4529,12 @@ hi6收视率排名第一（热度：245066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E5%A4%8F%E4%BB%A5%E6%98%BC%23" target="weibo">
 恋与深空 夏以昼（热度：243270）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%23" target="weibo">
+入青云（热度：242863）
 </a>
 </li>
 
@@ -5031,6 +5067,12 @@ TTG清清（热度：219869）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%8D%A2%E5%A4%B4%E5%83%8F%23" target="weibo">
+张凌赫换头像（热度：216770）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9Cvs%E6%A2%81%E9%9D%96%E5%B4%91%23" target="weibo">
 林高远vs梁靖崑（热度：216553）
 </a>
@@ -5529,6 +5571,12 @@ TTG战胜TES（热度：206119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A85%E7%BB%84%E5%88%AB%E5%85%A8%E5%9C%BA%E7%AC%AC%E4%B8%80%23" target="weibo">
+王一博85组别全场第一（热度：200354）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%943%E6%88%98%E8%83%9C%E7%8E%8B%E8%89%BA%E8%BF%AA%23" target="weibo">
 孙颖莎4比3战胜王艺迪（热度：200303）
 </a>
@@ -5963,54 +6011,6 @@ NRG总决赛对阵FNC（热度：190252）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BF%8A%E7%84%B6%E5%93%AD%E4%BA%86%23" target="weibo">
 周翊然哭了（热度：189873）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E4%B8%BB%E4%BA%BA%E7%9A%84%E5%B0%8F%E7%8C%AB%E5%92%AA%23" target="weibo">
-第一次见生理性喜欢主人的小猫咪（热度：189855）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E6%AD%A2%E6%AD%A5%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%8D%8A%E5%86%B3%E8%B5%9B%23" target="weibo">
-林诗栋止步大满贯半决赛（热度：189851）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%83%B3%E5%8F%91%E7%81%AB%E7%9A%84%E7%8C%B4%E5%AD%90%E5%8F%91%E7%8E%B0%E6%98%AF%E7%86%9F%E4%BA%BA%E5%90%8E%E7%A7%92%E5%8F%98%E8%84%B8%23" target="weibo">
-想发火的猴子发现是熟人后秒变脸（热度：189758）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E7%A7%8D%E4%BA%86%E4%B8%A4%E4%B8%AA%E5%8D%8A%E6%9C%88%E7%9A%84%E7%8E%89%E7%B1%B3%E8%A2%AB%E8%99%AB%E5%AD%90%E5%90%83%E4%BA%86%23" target="weibo">
-曾黎种了两个半月的玉米被虫子吃了（热度：189701）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E9%B8%A1%E5%92%8CCardiB%E7%BA%BF%E4%B8%8B%E7%BA%A6%E6%9E%B6%23" target="weibo">
-麻辣鸡和CardiB线下约架（热度：189500）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%867.6%23" target="weibo">
-震耳欲聋豆瓣开分7.6（热度：189425）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E4%B8%AD%E7%A7%8B%E5%81%87%E6%9C%9F%E7%AC%AC2%E5%A4%A9%23" target="weibo">
-国庆中秋假期第2天（热度：189418）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%92%E5%92%96%E5%95%A1%E4%B8%89%E4%B8%AA%E6%9C%88%E8%BA%AB%E4%BD%93%E7%9A%84%E5%8F%98%E5%8C%96%23" target="weibo">
-戒咖啡三个月身体的变化（热度：189105）
 </a>
 </li>
 
