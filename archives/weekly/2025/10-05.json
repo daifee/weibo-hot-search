@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759908271774,
+  "endTime": 1759909076182,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2521495,
+      "num": 2521495,
+      "word": "肖庆平车祸离世",
+      "onboard_time": 1759905021,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2464062,
       "num": 2464062,
       "word": "央视中秋晚会",
@@ -65,14 +73,6 @@
       "onboard_time": 1759658783,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2266697,
-      "num": 2266697,
-      "word": "肖庆平车祸离世",
-      "onboard_time": 1759905021,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1813954,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 1146142,
-      "num": 223504,
+      "num": 255093,
       "word": "李一桐美人余造型疑似抄袭许我耀眼",
       "onboard_time": 1759902681,
       "rank": 10,
@@ -393,6 +393,14 @@
       "onboard_time": 1759719321,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1006907,
+      "num": 1006907,
+      "word": "高速堵成啥样了",
+      "onboard_time": 1759907120,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1003394,
@@ -1355,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 473630,
+      "num": 473630,
+      "word": "美驻华大使馆宣布微博微信停更",
+      "onboard_time": 1759904902,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 472942,
       "num": 190716,
       "word": "大家不睡觉陪张雅琪一起剪视频",
@@ -1380,7 +1396,7 @@
     },
     {
       "raw_hot": 461697,
-      "num": 205349,
+      "num": 243834,
       "word": "TaylorSwift忘了通知EdSheeran订婚",
       "onboard_time": 1759900820,
       "rank": 31,
@@ -1412,7 +1428,7 @@
     },
     {
       "raw_hot": 458011,
-      "num": 217058,
+      "num": 248955,
       "word": "UNINE合体",
       "onboard_time": 1759907361,
       "rank": 12,
@@ -1529,14 +1545,6 @@
       "onboard_time": 1759842744,
       "rank": 13,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 439970,
-      "num": 439970,
-      "word": "美驻华大使馆宣布微博微信停更",
-      "onboard_time": 1759904902,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 438654,
@@ -1715,14 +1723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 401009,
-      "num": 213972,
-      "word": "高速堵成啥样了",
-      "onboard_time": 1759907120,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 397604,
       "num": 448502,
       "word": "大聪明已经提前到5号返程了",
@@ -1876,7 +1876,7 @@
     },
     {
       "raw_hot": 373026,
-      "num": 210208,
+      "num": 247026,
       "word": "吴汉坤道歉",
       "onboard_time": 1759905021,
       "rank": 28,
@@ -1940,7 +1940,7 @@
     },
     {
       "raw_hot": 369814,
-      "num": 199160,
+      "num": 211252,
       "word": "一眼万年 李煜东",
       "onboard_time": 1759900341,
       "rank": 22,
@@ -2140,7 +2140,7 @@
     },
     {
       "raw_hot": 336765,
-      "num": 205619,
+      "num": 245188,
       "word": "马伯骞以为是马嘉祺不敢喊",
       "onboard_time": 1759902380,
       "rank": 21,
@@ -2404,7 +2404,7 @@
     },
     {
       "raw_hot": 310967,
-      "num": 199424,
+      "num": 243942,
       "word": "王一博轮胎冒烟",
       "onboard_time": 1759905320,
       "rank": 32,
@@ -2819,6 +2819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 270098,
+      "num": 270098,
+      "word": "高速连续5个服务区进不了站",
+      "onboard_time": 1759907780,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267457,
       "num": 219849,
       "word": "去看张艺兴演唱会的明星",
@@ -2913,6 +2921,14 @@
       "onboard_time": 1759727781,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 255610,
+      "num": 255610,
+      "word": "网上晒礼金家中38万现金被盗",
+      "onboard_time": 1759904299,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 254494,
@@ -3209,14 +3225,6 @@
       "onboard_time": 1759802840,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 225211,
-      "num": 225211,
-      "word": "网上晒礼金家中38万现金被盗",
-      "onboard_time": 1759904299,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 224190,
@@ -3777,6 +3785,14 @@
       "onboard_time": 1759633340,
       "rank": 31,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 192902,
+      "num": 192902,
+      "word": "宋亚轩怎么到处都是",
+      "onboard_time": 1759907841,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 192862,
@@ -4603,6 +4619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169252,
+      "num": 169252,
+      "word": "官方通报黄某某拒服兵役",
+      "onboard_time": 1759908381,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168338,
       "num": 168338,
       "word": "范闲范思辙给林婉儿打call",
@@ -4681,6 +4705,14 @@
       "onboard_time": 1759894100,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166555,
+      "num": 166555,
+      "word": "补作业",
+      "onboard_time": 1759908740,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 166242,
@@ -4883,14 +4915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160069,
-      "num": 160069,
-      "word": "宋亚轩怎么到处都是",
-      "onboard_time": 1759907841,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 159733,
       "num": 159733,
       "word": "精神病女子替人开公司租车20台",
@@ -5017,6 +5041,14 @@
       "onboard_time": 1759897521,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156152,
+      "num": 156152,
+      "word": "假期最后一天在碳水天堂疯狂",
+      "onboard_time": 1759908141,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 156047,
@@ -5923,6 +5955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136406,
+      "num": 136406,
+      "word": "这居然是陈鹤一",
+      "onboard_time": 1759908260,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136323,
       "num": 136323,
       "word": "Gr对战GW",
@@ -6067,28 +6107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134273,
-      "num": 134273,
-      "word": "高速连续5个服务区进不了站",
-      "onboard_time": 1759907780,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 134198,
       "num": 134198,
       "word": "iPadmini8售价",
       "onboard_time": 1759813581,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 133987,
-      "num": 133987,
-      "word": "假期最后一天在碳水天堂疯狂",
-      "onboard_time": 1759908141,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 133970,
@@ -6161,6 +6185,22 @@
       "onboard_time": 1759836200,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133426,
+      "num": 133426,
+      "word": "侯明昊人脉",
+      "onboard_time": 1759907900,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133327,
+      "num": 133327,
+      "word": "夜市套圈30元1500个圈",
+      "onboard_time": 1759907961,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133236,
@@ -6436,7 +6476,7 @@
     },
     {
       "raw_hot": 127000,
-      "num": 127000,
+      "num": 131249,
       "word": "Ning说LPL选手对奖金没概念",
       "onboard_time": 1759907421,
       "rank": 35,
@@ -6481,6 +6521,14 @@
       "onboard_time": 1759668804,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126278,
+      "num": 126278,
+      "word": "原来腮红是王楚然自己化的",
+      "onboard_time": 1759904240,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 126269,
@@ -6993,14 +7041,6 @@
       "onboard_time": 1759901480,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 118100,
-      "num": 118100,
-      "word": "侯明昊人脉",
-      "onboard_time": 1759907900,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 117821,
@@ -7795,14 +7835,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 109114,
-      "num": 116996,
-      "word": "原来腮红是王楚然自己化的",
-      "onboard_time": 1759904240,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108968,
       "num": 136576,
       "word": "申裕斌晒北京烤鸭",
@@ -7857,14 +7889,6 @@
       "onboard_time": 1759719019,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 108170,
-      "num": 108170,
-      "word": "夜市套圈30元1500个圈",
-      "onboard_time": 1759907961,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108114,
@@ -8257,6 +8281,14 @@
       "onboard_time": 1759670124,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103888,
+      "num": 103888,
+      "word": "王一博排位赛新闻发布会发言",
+      "onboard_time": 1759908320,
+      "rank": 39,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 103838,
@@ -8891,14 +8923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96671,
-      "num": 96671,
-      "word": "这居然是陈鹤一",
-      "onboard_time": 1759908260,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 96656,
       "num": 96656,
       "word": "王楚钦专注迎接半决赛",
@@ -9248,6 +9272,14 @@
       "word": "为什么年轻人喜欢徒步",
       "onboard_time": 1759906161,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 92533,
+      "num": 92533,
+      "word": "第一次见用绿豆给炖肉去腥的",
+      "onboard_time": 1759908922,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -9689,6 +9721,14 @@
       "onboard_time": 1759821861,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 85959,
+      "num": 85959,
+      "word": "刑警时刻1风华正茂阵容官宣",
+      "onboard_time": 1759909041,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 85766,
@@ -10411,6 +10451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67468,
+      "num": 228950,
+      "word": "杨澜呼吁大众警惕带状疱疹风险",
+      "onboard_time": 1759907120,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 67210,
       "num": 102601,
       "word": "潘玮柏女儿也是个小吃货",
@@ -10516,7 +10564,7 @@
     },
     {
       "raw_hot": 64566,
-      "num": 531937,
+      "num": 915825,
       "word": "县域旅游已成为一种时尚",
       "onboard_time": 1759878197,
       "rank": 48,
@@ -10681,14 +10729,6 @@
       "onboard_time": 1759716260,
       "rank": 49,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 58552,
-      "num": 193946,
-      "word": "杨澜呼吁大众警惕带状疱疹风险",
-      "onboard_time": 1759907120,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 58133,
