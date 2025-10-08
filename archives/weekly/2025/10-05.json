@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759913227401,
+  "endTime": 1759915693590,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -137,6 +137,14 @@
       "onboard_time": 1759907120,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1453051,
+      "num": 1453051,
+      "word": "鸡排哥成立工作室",
+      "onboard_time": 1759913961,
+      "rank": 0,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1422561,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 1146142,
-      "num": 295536,
+      "num": 476252,
       "word": "李一桐美人余造型疑似抄袭许我耀眼",
       "onboard_time": 1759902681,
       "rank": 10,
@@ -465,6 +473,14 @@
       "onboard_time": 1759802900,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 935697,
+      "num": 935697,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1759914141,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 925854,
@@ -859,6 +875,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 648751,
+      "num": 648751,
+      "word": "JDG输越南队",
+      "onboard_time": 1759913121,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 643680,
       "num": 890645,
       "word": "晓华理发店已没了爆火时的人潮",
@@ -1091,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 541768,
+      "num": 541768,
+      "word": "吴庄收费站 震撼",
+      "onboard_time": 1759912881,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 540779,
       "num": 438040,
       "word": "张婧仪小时候睡过觉吗",
@@ -1267,6 +1299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 501778,
+      "num": 501778,
+      "word": "不午睡vs午睡太久",
+      "onboard_time": 1759909701,
+      "rank": 8,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 499954,
       "num": 337603,
       "word": "沈月真从天而降",
@@ -1420,7 +1460,7 @@
     },
     {
       "raw_hot": 471933,
-      "num": 287885,
+      "num": 307476,
       "word": "范丞丞的指甲",
       "onboard_time": 1759909582,
       "rank": 13,
@@ -1593,14 +1633,6 @@
       "onboard_time": 1759842744,
       "rank": 13,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 439758,
-      "num": 439758,
-      "word": "不午睡vs午睡太久",
-      "onboard_time": 1759909701,
-      "rank": 8,
-      "category": "科学科普"
     },
     {
       "raw_hot": 438654,
@@ -1833,6 +1865,14 @@
       "onboard_time": 1759651881,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 389384,
+      "num": 389384,
+      "word": "日本男爱豆当街暴露下体被捕",
+      "onboard_time": 1759913241,
+      "rank": 12,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 385478,
@@ -2571,6 +2611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293103,
+      "num": 293103,
+      "word": "刘宇宁不拍杂志的原因",
+      "onboard_time": 1759910300,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291868,
       "num": 291868,
       "word": "姑妈鱼 女朋友",
@@ -3131,6 +3179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 235875,
+      "num": 235875,
+      "word": "今年冬天将更冷",
+      "onboard_time": 1759913481,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234653,
       "num": 275877,
       "word": "白桃星座",
@@ -3145,6 +3201,14 @@
       "onboard_time": 1759683020,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234234,
+      "num": 234234,
+      "word": "井胧给李莎旻子清衣柜把狗埋了",
+      "onboard_time": 1759913901,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 234022,
@@ -3651,6 +3715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201527,
+      "num": 201527,
+      "word": "杨幂终于慢下来了",
+      "onboard_time": 1759914922,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201136,
       "num": 201136,
       "word": "赵本山女儿球球回应和哥哥争财产",
@@ -3771,14 +3843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196049,
-      "num": 196049,
-      "word": "刘宇宁不拍杂志的原因",
-      "onboard_time": 1759910300,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195953,
       "num": 195953,
       "word": "小偷打开门天都塌了的程度",
@@ -3825,6 +3889,14 @@
       "onboard_time": 1759725380,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194960,
+      "num": 194960,
+      "word": "GAM零封JDG",
+      "onboard_time": 1759913961,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 193861,
@@ -5435,6 +5507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149921,
+      "num": 149921,
+      "word": "张帅晋级武网16强",
+      "onboard_time": 1759914560,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149919,
       "num": 149919,
       "word": "常华森早该拍现代剧了",
@@ -6443,14 +6523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131616,
-      "num": 131616,
-      "word": "吴庄收费站 震撼",
-      "onboard_time": 1759912881,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131356,
       "num": 131356,
       "word": "人民海军中秋祝福超硬核",
@@ -6681,6 +6753,14 @@
       "onboard_time": 1759760483,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 126497,
+      "num": 126497,
+      "word": "绥中重大刑案行凶男子穿拖鞋逃跑",
+      "onboard_time": 1759915220,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126425,
@@ -7843,6 +7923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110447,
+      "num": 110447,
+      "word": "湖人众将谈詹姆斯决定二",
+      "onboard_time": 1759915401,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110438,
       "num": 110438,
       "word": "井迪说追井胧追得辛苦",
@@ -7969,6 +8057,14 @@
       "onboard_time": 1759811959,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 109543,
+      "num": 109543,
+      "word": "檀健次偷笑这一下太暧昧了",
+      "onboard_time": 1759915460,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 109510,
@@ -8603,14 +8699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102340,
-      "num": 102340,
-      "word": "JDG输越南队",
-      "onboard_time": 1759913121,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 101981,
       "num": 166667,
       "word": "高市早苗要求大家玩命工作",
@@ -8761,6 +8849,14 @@
       "onboard_time": 1759746682,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100191,
+      "num": 100191,
+      "word": "古法健身一个月后",
+      "onboard_time": 1759914381,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 100165,
@@ -9203,6 +9299,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 96014,
+      "num": 96014,
+      "word": "8天很短 7天很长",
+      "onboard_time": 1759915401,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95749,
       "num": 95749,
       "word": "男子旅游点两个菜661元后续",
@@ -9377,6 +9481,14 @@
       "onboard_time": 1759806621,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 93908,
+      "num": 93908,
+      "word": "8号这天我就陈伟霆这样",
+      "onboard_time": 1759914020,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 93763,
@@ -9593,6 +9705,14 @@
       "onboard_time": 1759846823,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91087,
+      "num": 109604,
+      "word": "比伯成大叔了",
+      "onboard_time": 1759914980,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 90914,
@@ -10787,6 +10907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64771,
+      "num": 109722,
+      "word": "Angelababy杂志",
+      "onboard_time": 1759912642,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64566,
       "num": 915825,
       "word": "县域旅游已成为一种时尚",
@@ -11033,6 +11161,14 @@
       "onboard_time": 1759696153,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56172,
+      "num": 964594,
+      "word": "国庆假期超24亿人次跨区域流动",
+      "onboard_time": 1759900101,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56154,
@@ -11313,14 +11449,6 @@
       "onboard_time": 1759912822,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43640,
-      "num": 797338,
-      "word": "国庆假期超24亿人次跨区域流动",
-      "onboard_time": 1759900101,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43480,

@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759913227401,
+  "endTime": 1759915693590,
   "band_list": [
     {
       "raw_hot": 2521495,
@@ -25,6 +25,14 @@
       "onboard_time": 1759907120,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1453051,
+      "num": 1453051,
+      "word": "鸡排哥成立工作室",
+      "onboard_time": 1759913961,
+      "rank": 0,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1264659,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1146142,
-      "num": 295536,
+      "num": 476252,
       "word": "李一桐美人余造型疑似抄袭许我耀眼",
       "onboard_time": 1759902681,
       "rank": 10,
@@ -73,6 +81,14 @@
       "onboard_time": 1759890381,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 935697,
+      "num": 935697,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1759914141,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 925854,
@@ -123,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 648751,
+      "num": 648751,
+      "word": "JDG输越南队",
+      "onboard_time": 1759913121,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 636519,
       "num": 636519,
       "word": "鸡排哥有专属空调了",
@@ -153,6 +177,14 @@
       "onboard_time": 1759891100,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 541768,
+      "num": 541768,
+      "word": "吴庄收费站 震撼",
+      "onboard_time": 1759912881,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 532521,
@@ -187,6 +219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 501778,
+      "num": 501778,
+      "word": "不午睡vs午睡太久",
+      "onboard_time": 1759909701,
+      "rank": 8,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 498380,
       "num": 144077,
       "word": "公司回应联系不上得诺奖的员工",
@@ -212,7 +252,7 @@
     },
     {
       "raw_hot": 471933,
-      "num": 287885,
+      "num": 307476,
       "word": "范丞丞的指甲",
       "onboard_time": 1759909582,
       "rank": 13,
@@ -249,14 +289,6 @@
       "onboard_time": 1759900222,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 439758,
-      "num": 439758,
-      "word": "不午睡vs午睡太久",
-      "onboard_time": 1759909701,
-      "rank": 8,
-      "category": "科学科普"
     },
     {
       "raw_hot": 426263,
@@ -297,6 +329,14 @@
       "onboard_time": 1759897102,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 389384,
+      "num": 389384,
+      "word": "日本男爱豆当街暴露下体被捕",
+      "onboard_time": 1759913241,
+      "rank": 12,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 384039,
@@ -433,6 +473,14 @@
       "onboard_time": 1759890620,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 293103,
+      "num": 293103,
+      "word": "刘宇宁不拍杂志的原因",
+      "onboard_time": 1759910300,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 291868,
@@ -611,6 +659,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235875,
+      "num": 235875,
+      "word": "今年冬天将更冷",
+      "onboard_time": 1759913481,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234234,
+      "num": 234234,
+      "word": "井胧给李莎旻子清衣柜把狗埋了",
+      "onboard_time": 1759913901,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233979,
       "num": 131702,
       "word": "顺产开十指真是十个手指那么宽吗",
@@ -691,6 +755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201527,
+      "num": 201527,
+      "word": "杨幂终于慢下来了",
+      "onboard_time": 1759914922,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198017,
       "num": 168161,
       "word": "车手王一博正式登场",
@@ -707,12 +779,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 196049,
-      "num": 196049,
-      "word": "刘宇宁不拍杂志的原因",
-      "onboard_time": 1759910300,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 194960,
+      "num": 194960,
+      "word": "GAM零封JDG",
+      "onboard_time": 1759913961,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 193861,
@@ -1019,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149921,
+      "num": 149921,
+      "word": "张帅晋级武网16强",
+      "onboard_time": 1759914560,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149848,
       "num": 144066,
       "word": "17年前的徒步就已经如此硬核了",
@@ -1227,14 +1307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131616,
-      "num": 131616,
-      "word": "吴庄收费站 震撼",
-      "onboard_time": 1759912881,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131247,
       "num": 131247,
       "word": "朱志鑫苏新皓无限流短剧",
@@ -1289,6 +1361,14 @@
       "onboard_time": 1759907421,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126497,
+      "num": 126497,
+      "word": "绥中重大刑案行凶男子穿拖鞋逃跑",
+      "onboard_time": 1759915220,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126278,
@@ -1459,12 +1539,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110447,
+      "num": 110447,
+      "word": "湖人众将谈詹姆斯决定二",
+      "onboard_time": 1759915401,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109667,
       "num": 109667,
       "word": "三角洲",
       "onboard_time": 1759900040,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109543,
+      "num": 109543,
+      "word": "檀健次偷笑这一下太暧昧了",
+      "onboard_time": 1759915460,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 109149,
@@ -1571,20 +1667,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 102340,
-      "num": 102340,
-      "word": "JDG输越南队",
-      "onboard_time": 1759913121,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 101810,
       "num": 101810,
       "word": "Faker147场世界赛胜率74%",
       "onboard_time": 1759894882,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100191,
+      "num": 100191,
+      "word": "古法健身一个月后",
+      "onboard_time": 1759914381,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 99132,
@@ -1651,6 +1747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 96014,
+      "num": 96014,
+      "word": "8天很短 7天很长",
+      "onboard_time": 1759915401,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95402,
       "num": 95402,
       "word": "鞠婧祎阿黛造型",
@@ -1681,6 +1785,14 @@
       "onboard_time": 1759906642,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93908,
+      "num": 93908,
+      "word": "8号这天我就陈伟霆这样",
+      "onboard_time": 1759914020,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 93650,
@@ -1721,6 +1833,14 @@
       "onboard_time": 1759882338,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91087,
+      "num": 109604,
+      "word": "比伯成大叔了",
+      "onboard_time": 1759914980,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 90759,
@@ -1971,6 +2091,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 64771,
+      "num": 109722,
+      "word": "Angelababy杂志",
+      "onboard_time": 1759912642,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 64566,
       "num": 915825,
       "word": "县域旅游已成为一种时尚",
@@ -2033,6 +2161,14 @@
       "onboard_time": 1759851802,
       "rank": 42,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 56172,
+      "num": 964594,
+      "word": "国庆假期超24亿人次跨区域流动",
+      "onboard_time": 1759900101,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55701,
@@ -2121,14 +2257,6 @@
       "onboard_time": 1759912822,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43640,
-      "num": 797338,
-      "word": "国庆假期超24亿人次跨区域流动",
-      "onboard_time": 1759900101,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43501,

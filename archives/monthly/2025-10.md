@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 16:47:07
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 17:28:13
 </p>
 </blockquote>
 <p>
@@ -233,6 +233,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E5%A0%B5%E6%88%90%E5%95%A5%E6%A0%B7%E4%BA%86%23" target="weibo">
 高速堵成啥样了（热度：1467799）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E5%AE%A4%23" target="weibo">
+鸡排哥成立工作室（热度：1453051）
 </a>
 </li>
 
@@ -743,6 +749,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E5%9C%A8%E9%9F%A9%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%B3%A8%E6%84%8F%E4%BA%BA%E8%BA%AB%E5%AE%89%E5%85%A8%23" target="weibo">
 提醒在韩中国游客注意人身安全（热度：936520）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B4%A9%E4%BA%86%23" target="weibo">
+王者荣耀崩了（热度：935697）
 </a>
 </li>
 
@@ -1419,6 +1431,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23JDG%E8%BE%93%E8%B6%8A%E5%8D%97%E9%98%9F%23" target="weibo">
+JDG输越南队（热度：648751）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BF%81%E9%9D%92%E9%9B%85%E5%BD%AD%E9%AB%98%E5%88%86%E6%89%8B%E7%9A%84%E6%A0%B9%E6%9C%AC%E5%8E%9F%E5%9B%A0%23" target="weibo">
 翁青雅彭高分手的根本原因（热度：648272）
 </a>
@@ -1851,6 +1869,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BA%84%E6%94%B6%E8%B4%B9%E7%AB%99%20%E9%9C%87%E6%92%BC%23" target="weibo">
+吴庄收费站 震撼（热度：541768）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%B0%8F%E6%97%B6%E5%80%99%E7%9D%A1%E8%BF%87%E8%A7%89%E5%90%97%23" target="weibo">
 张婧仪小时候睡过觉吗（热度：540779）
 </a>
@@ -2105,6 +2129,12 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E6%9C%89%E5%9C%A8%E5%8A%AA%E5%8A%9B%E6%8E%A5%E4%BD%8F%E6%B3%BC%E5%A4%A9%E6%B5%81%E9%87%8F%23" target="weibo">
 景德镇有在努力接住泼天流量（热度：501857）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%8D%88%E7%9D%A1vs%E5%8D%88%E7%9D%A1%E5%A4%AA%E4%B9%85%23" target="weibo">
+不午睡vs午睡太久（热度：501778）
 </a>
 </li>
 
@@ -2553,12 +2583,6 @@ K签证（热度：453444）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%8D%88%E7%9D%A1vs%E5%8D%88%E7%9D%A1%E5%A4%AA%E4%B9%85%23" target="weibo">
-不午睡vs午睡太久（热度：439758）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%A9%9A%E7%A4%BC%E8%A6%81%E5%9C%A8%E4%B8%8B%E6%B0%B4%E9%81%93%E4%BA%95%E7%9B%96%E8%B4%B4%E5%96%9C%E5%AD%97%23" target="weibo">
 山西婚礼要在下水道井盖贴喜字（热度：438654）
 </a>
@@ -2897,6 +2921,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%88%E5%BD%A4%E5%93%AD%E7%9D%80%E6%B1%82%E9%BB%84%E7%81%BF%E7%81%BF%E5%88%86%E6%89%8B%23" target="weibo">
 罗予彤哭着求黄灿灿分手（热度：389578）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E7%88%B1%E8%B1%86%E5%BD%93%E8%A1%97%E6%9A%B4%E9%9C%B2%E4%B8%8B%E4%BD%93%E8%A2%AB%E6%8D%95%23" target="weibo">
+日本男爱豆当街暴露下体被捕（热度：389384）
 </a>
 </li>
 
@@ -3957,6 +3987,12 @@ MiuMiu巴黎时装周（热度：318258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E4%B8%8D%E6%8B%8D%E6%9D%82%E5%BF%97%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
+刘宇宁不拍杂志的原因（热度：293103）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%20%E6%B2%A1%E8%B5%B0%E6%88%90%E8%80%8C%E5%B7%B2%23" target="weibo">
 时代峰峻工作人员 没走成而已（热度：292982）
 </a>
@@ -4863,6 +4899,12 @@ hi6收视率排名第一（热度：245066）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%86%AC%E5%A4%A9%E5%B0%86%E6%9B%B4%E5%86%B7%23" target="weibo">
+今年冬天将更冷（热度：235875）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%23" target="weibo">
 明日方舟（热度：235868）
 </a>
@@ -4883,6 +4925,12 @@ hi6收视率排名第一（热度：245066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23wtt%23" target="weibo">
 wtt（热度：234611）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E8%83%A7%E7%BB%99%E6%9D%8E%E8%8E%8E%E6%97%BB%E5%AD%90%E6%B8%85%E8%A1%A3%E6%9F%9C%E6%8A%8A%E7%8B%97%E5%9F%8B%E4%BA%86%23" target="weibo">
+井胧给李莎旻子清衣柜把狗埋了（热度：234234）
 </a>
 </li>
 
@@ -5721,6 +5769,12 @@ TTG战胜TES（热度：206119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%BB%88%E4%BA%8E%E6%85%A2%E4%B8%8B%E6%9D%A5%E4%BA%86%23" target="weibo">
+杨幂终于慢下来了（热度：201527）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%93%B2%23" target="weibo">
 久哲（热度：201331）
 </a>
@@ -5957,60 +6011,6 @@ AG战胜RW（热度：199437）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%8E%E4%B9%9D%23" target="weibo">
 钎九（热度：196125）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E4%B8%8D%E6%8B%8D%E6%9D%82%E5%BF%97%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
-刘宇宁不拍杂志的原因（热度：196049）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%98%91%E8%8F%87%23" target="weibo">
-小蘑菇（热度：196004）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%81%B7%E6%89%93%E5%BC%80%E9%97%A8%E5%A4%A9%E9%83%BD%E5%A1%8C%E4%BA%86%E7%9A%84%E7%A8%8B%E5%BA%A6%23" target="weibo">
-小偷打开门天都塌了的程度（热度：195953）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%A5%BC%23" target="weibo">
-月饼（热度：195707）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B9%90%E6%99%A8%E5%89%8D%E5%A5%B3%E5%8F%8B%23" target="weibo">
-王乐晨前女友（热度：195688）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%BD%93%E5%B1%80%E5%AE%98%E5%91%98%E7%9C%8B%E5%88%B0%E8%8A%B1%E8%8E%B2%E6%B4%AA%E7%81%BE%E5%A4%A7%E5%A3%B0%E8%AE%AA%E7%AC%91%23" target="weibo">
-台当局官员看到花莲洪灾大声讪笑（热度：195679）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%20mugler%23" target="weibo">
-蔡徐坤 mugler（热度：195622）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9D%80%E5%BC%A0%E6%B5%B7%E7%8E%8B%E8%84%B8%E7%BB%93%E6%9E%9C%E8%A2%AB%E9%AA%97%E5%93%AD%E4%BA%86%23" target="weibo">
-长着张海王脸结果被骗哭了（热度：195176）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E9%86%89%E9%85%92%E6%91%94%E5%80%92%E6%88%8F%E6%98%AF%E7%8E%B0%E6%8C%82%E7%9A%84%23" target="weibo">
-檀健次醉酒摔倒戏是现挂的（热度：195147）
 </a>
 </li>
 
