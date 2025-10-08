@@ -1,7 +1,15 @@
 {
   "startTime": 1759941149301,
-  "endTime": 1759965776132,
+  "endTime": 1759966623187,
   "band_list": [
+    {
+      "raw_hot": 509971,
+      "num": 891595,
+      "word": "下高速",
+      "onboard_time": 1759937541,
+      "rank": 3,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 496447,
       "num": 837782,
@@ -36,19 +44,19 @@
     },
     {
       "raw_hot": 354699,
-      "num": 150415,
+      "num": 152717,
       "word": "许妍当众承认沈皓辰是自己儿子",
       "onboard_time": 1759928540,
       "rank": 12,
       "category": "剧集"
     },
     {
-      "raw_hot": 332772,
-      "num": 761646,
-      "word": "下高速",
-      "onboard_time": 1759937541,
-      "rank": 3,
-      "category": "民生新闻"
+      "raw_hot": 353195,
+      "num": 353195,
+      "word": "加沙停火协议",
+      "onboard_time": 1759965019,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 322344,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 239581,
-      "num": 140162,
+      "num": 140982,
       "word": "肖战 Gucci包机",
       "onboard_time": 1759932502,
       "rank": 13,
@@ -139,12 +147,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147760,
-      "num": 147760,
+      "raw_hot": 152652,
+      "num": 152652,
       "word": "48岁渔村网红阿霞坠海遇难",
       "onboard_time": 1759931662,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151520,
+      "num": 151520,
+      "word": "中国近半年没买过美国一粒大豆",
+      "onboard_time": 1759965438,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 145464,
+      "num": 111195,
+      "word": "64岁演员林俊贤景区打工",
+      "onboard_time": 1759965558,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 127574,
@@ -179,20 +203,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 104810,
-      "num": 96354,
-      "word": "64岁演员林俊贤景区打工",
-      "onboard_time": 1759965558,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 96961,
-      "num": 96961,
-      "word": "中国近半年没买过美国一粒大豆",
-      "onboard_time": 1759965438,
-      "rank": 19,
-      "category": "国内时政"
+      "raw_hot": 98890,
+      "num": 98890,
+      "word": "为什么O型血被称为最惨的血型",
+      "onboard_time": 1759965498,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 92599,
@@ -201,6 +217,14 @@
       "onboard_time": 1759933521,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 90817,
+      "num": 166541,
+      "word": "反方向的钟",
+      "onboard_time": 1759943418,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 89459,
@@ -219,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87628,
+      "num": 87628,
+      "word": "儿子支持吴雅婷再婚",
+      "onboard_time": 1759966518,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85466,
       "num": 100098,
       "word": "新加坡偶遇王鹤棣打篮球",
@@ -227,20 +259,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84728,
-      "num": 166374,
-      "word": "加沙停火协议",
-      "onboard_time": 1759965019,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 84026,
       "num": 100085,
       "word": "林俊杰新歌明日坐标",
       "onboard_time": 1759939520,
       "rank": 23,
       "category": "音乐,游戏"
+    },
+    {
+      "raw_hot": 83357,
+      "num": 83357,
+      "word": "李莎旻子和管乐的家撞款了",
+      "onboard_time": 1759965498,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 80284,
@@ -259,20 +291,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77437,
+      "num": 77437,
+      "word": "一个IP带火一座城",
+      "onboard_time": 1759964598,
+      "rank": 28,
+      "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 76827,
+      "num": 69990,
+      "word": "美国雪城大学兵棋推演台湾问题",
+      "onboard_time": 1759965438,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76448,
       "num": 100213,
       "word": "网剧金昭玉醉",
       "onboard_time": 1759938201,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75575,
-      "num": 166541,
-      "word": "反方向的钟",
-      "onboard_time": 1759943418,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 73386,
@@ -299,12 +339,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 70687,
+      "num": 70687,
+      "word": "运动减肥的起效时间",
+      "onboard_time": 1759966459,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 70492,
       "num": 100121,
       "word": "林忆莲帅成啥了",
       "onboard_time": 1759936102,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 68522,
+      "num": 68522,
+      "word": "金价涨势能否持续",
+      "onboard_time": 1759966459,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 68304,
@@ -315,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67398,
-      "num": 67398,
-      "word": "为什么O型血被称为最惨的血型",
-      "onboard_time": 1759965498,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 66462,
       "num": 66462,
       "word": "节后第1个工作日",
@@ -331,12 +379,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64708,
-      "num": 58380,
-      "word": "美国雪城大学兵棋推演台湾问题",
+      "raw_hot": 65523,
+      "num": 65523,
+      "word": "返工",
       "onboard_time": 1759965438,
-      "rank": 30,
-      "category": "国内时政"
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63147,
+      "num": 63147,
+      "word": "苏北五虎遭团灭",
+      "onboard_time": 1759966459,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 62130,
@@ -369,14 +425,6 @@
       "onboard_time": 1759920859,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 59471,
-      "num": 59471,
-      "word": "一个IP带火一座城",
-      "onboard_time": 1759964598,
-      "rank": 28,
-      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 59116,
@@ -427,6 +475,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54321,
+      "num": 54321,
+      "word": "诺奖得主来自巴勒斯坦难民家庭",
+      "onboard_time": 1759965918,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53593,
+      "num": 53593,
+      "word": "宋亚轩唱了youandi",
+      "onboard_time": 1759966219,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 53324,
       "num": 99980,
       "word": "王者荣耀 补偿我一个荣耀水晶",
@@ -441,6 +505,14 @@
       "onboard_time": 1759927461,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52554,
+      "num": 63418,
+      "word": "华为回应多款APP无法完全适配",
+      "onboard_time": 1759926021,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 52453,
@@ -467,6 +539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 50578,
+      "num": 50578,
+      "word": "王者timi和游戏胜利画面更新",
+      "onboard_time": 1759966518,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 49737,
       "num": 99942,
       "word": "展轩说漂亮的女孩要听话",
@@ -475,28 +555,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 48886,
-      "num": 63418,
-      "word": "华为回应多款APP无法完全适配",
-      "onboard_time": 1759926021,
-      "rank": 40,
-      "category": "数码"
+      "raw_hot": 49172,
+      "num": 49172,
+      "word": "计划有变无锡准备夺冠",
+      "onboard_time": 1759966518,
+      "rank": 47,
+      "category": "体育"
     },
     {
-      "raw_hot": 47978,
-      "num": 47978,
-      "word": "返工",
-      "onboard_time": 1759965438,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47634,
-      "num": 47634,
-      "word": "李莎旻子和管乐的家撞款了",
-      "onboard_time": 1759965498,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 41035,
+      "num": 84022,
+      "word": "印度毒糖浆致20名儿童死亡",
+      "onboard_time": 1759966459,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 39058,
@@ -505,6 +577,14 @@
       "onboard_time": 1759952473,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35766,
+      "num": 166376,
+      "word": "张艺兴演唱会直播",
+      "onboard_time": 1759948275,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 34735,
@@ -521,14 +601,6 @@
       "onboard_time": 1759951574,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 31207,
-      "num": 166376,
-      "word": "张艺兴演唱会直播",
-      "onboard_time": 1759948275,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 28898,
@@ -611,7 +683,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 4839,
+      "raw_hot": 5668,
       "num": 281607,
       "word": "北方开启秋雨绵绵模式",
       "onboard_time": 1759885700,

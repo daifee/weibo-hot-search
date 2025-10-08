@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759965776132,
+  "endTime": 1759966623187,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1403,6 +1403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 509971,
+      "num": 891595,
+      "word": "下高速",
+      "onboard_time": 1759937541,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 506365,
       "num": 506365,
       "word": "林诗栋vsF勒布伦",
@@ -2291,6 +2299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 353195,
+      "num": 353195,
+      "word": "加沙停火协议",
+      "onboard_time": 1759965019,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 350391,
       "num": 350391,
       "word": "大国重器1元1个",
@@ -2449,14 +2465,6 @@
       "onboard_time": 1759660942,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 332772,
-      "num": 761646,
-      "word": "下高速",
-      "onboard_time": 1759937541,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 332326,
@@ -5979,6 +5987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151520,
+      "num": 151520,
+      "word": "中国近半年没买过美国一粒大豆",
+      "onboard_time": 1759965438,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 151290,
       "num": 151290,
       "word": "莲花楼主题爱奇艺乐园",
@@ -6305,6 +6321,14 @@
       "onboard_time": 1759843584,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145464,
+      "num": 111195,
+      "word": "64岁演员林俊贤景区打工",
+      "onboard_time": 1759965558,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 145443,
@@ -9299,14 +9323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104810,
-      "num": 96354,
-      "word": "64岁演员林俊贤景区打工",
-      "onboard_time": 1759965558,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 104698,
       "num": 104698,
       "word": "周深天津这地方情况太复杂了",
@@ -9875,6 +9891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98890,
+      "num": 98890,
+      "word": "为什么O型血被称为最惨的血型",
+      "onboard_time": 1759965498,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98884,
       "num": 98884,
       "word": "陈伟霆上一秒霸总下一秒军阀",
@@ -10089,14 +10113,6 @@
       "onboard_time": 1759821742,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 96961,
-      "num": 96961,
-      "word": "中国近半年没买过美国一粒大豆",
-      "onboard_time": 1759965438,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 96867,
@@ -10707,6 +10723,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 90817,
+      "num": 166541,
+      "word": "反方向的钟",
+      "onboard_time": 1759943418,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 90783,
       "num": 90783,
       "word": "李昀锐一句台词听不到但看哭了",
@@ -11003,6 +11027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87628,
+      "num": 87628,
+      "word": "儿子支持吴雅婷再婚",
+      "onboard_time": 1759966518,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87589,
       "num": 87589,
       "word": "我视奸别人vs别人视奸我",
@@ -11251,14 +11283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84728,
-      "num": 166374,
-      "word": "加沙停火协议",
-      "onboard_time": 1759965019,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 84561,
       "num": 84561,
       "word": "警方通报男子恶意别车谎称公安",
@@ -11369,6 +11393,14 @@
       "onboard_time": 1759836021,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83357,
+      "num": 83357,
+      "word": "李莎旻子和管乐的家撞款了",
+      "onboard_time": 1759965498,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 83286,
@@ -11675,6 +11707,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77437,
+      "num": 77437,
+      "word": "一个IP带火一座城",
+      "onboard_time": 1759964598,
+      "rank": 28,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 77364,
       "num": 77364,
       "word": "林一量腰围这一块",
@@ -11697,6 +11737,14 @@
       "onboard_time": 1759811361,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76827,
+      "num": 69990,
+      "word": "美国雪城大学兵棋推演台湾问题",
+      "onboard_time": 1759965438,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76821,
@@ -11737,14 +11785,6 @@
       "onboard_time": 1759936402,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75575,
-      "num": 166541,
-      "word": "反方向的钟",
-      "onboard_time": 1759943418,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 75465,
@@ -11899,6 +11939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 70687,
+      "num": 70687,
+      "word": "运动减肥的起效时间",
+      "onboard_time": 1759966459,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 70592,
       "num": 70592,
       "word": "王楚钦小小的骄傲",
@@ -11947,6 +11995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68522,
+      "num": 68522,
+      "word": "金价涨势能否持续",
+      "onboard_time": 1759966459,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 68262,
       "num": 76874,
       "word": "又开始听反方向的钟了",
@@ -11968,14 +12024,6 @@
       "word": "杨澜呼吁大众警惕带状疱疹风险",
       "onboard_time": 1759907120,
       "rank": 19,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 67398,
-      "num": 67398,
-      "word": "为什么O型血被称为最惨的血型",
-      "onboard_time": 1759965498,
-      "rank": 24,
       "category": "健康医疗"
     },
     {
@@ -12059,6 +12107,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 65523,
+      "num": 65523,
+      "word": "返工",
+      "onboard_time": 1759965438,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65495,
       "num": 136839,
       "word": "动物园羊驼被投喂撑到眼睛翻白",
@@ -12089,14 +12145,6 @@
       "onboard_time": 1759588523,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 64708,
-      "num": 58380,
-      "word": "美国雪城大学兵棋推演台湾问题",
-      "onboard_time": 1759965438,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 64566,
@@ -12153,6 +12201,14 @@
       "onboard_time": 1759574960,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 63147,
+      "num": 63147,
+      "word": "苏北五虎遭团灭",
+      "onboard_time": 1759966459,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 62975,
@@ -12225,14 +12281,6 @@
       "onboard_time": 1759637001,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59471,
-      "num": 59471,
-      "word": "一个IP带火一座城",
-      "onboard_time": 1759964598,
-      "rank": 28,
-      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 59463,
@@ -12435,6 +12483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54321,
+      "num": 54321,
+      "word": "诺奖得主来自巴勒斯坦难民家庭",
+      "onboard_time": 1759965918,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54197,
       "num": 111306,
       "word": "支付宝首页在玩很新的养生学",
@@ -12465,6 +12521,14 @@
       "onboard_time": 1759770080,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53593,
+      "num": 53593,
+      "word": "宋亚轩唱了youandi",
+      "onboard_time": 1759966219,
+      "rank": 42,
+      "category": "音乐"
     },
     {
       "raw_hot": 53563,
@@ -12547,6 +12611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50578,
+      "num": 50578,
+      "word": "王者timi和游戏胜利画面更新",
+      "onboard_time": 1759966518,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 50385,
       "num": 192338,
       "word": "路上生明月的浪漫谁懂啊",
@@ -12579,6 +12651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49172,
+      "num": 49172,
+      "word": "计划有变无锡准备夺冠",
+      "onboard_time": 1759966518,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48908,
       "num": 48908,
       "word": "孙颖莎WTT大满贯单打四冠王",
@@ -12609,22 +12689,6 @@
       "onboard_time": 1759683979,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 47978,
-      "num": 47978,
-      "word": "返工",
-      "onboard_time": 1759965438,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47634,
-      "num": 47634,
-      "word": "李莎旻子和管乐的家撞款了",
-      "onboard_time": 1759965498,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 47141,
@@ -12763,6 +12827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 41035,
+      "num": 84022,
+      "word": "印度毒糖浆致20名儿童死亡",
+      "onboard_time": 1759966459,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 40552,
       "num": 44750,
       "word": "当你上飞机后发现邻座是小猫",
@@ -12857,6 +12929,14 @@
       "onboard_time": 1759707017,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 35766,
+      "num": 166376,
+      "word": "张艺兴演唱会直播",
+      "onboard_time": 1759948275,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 35605,
@@ -12985,14 +13065,6 @@
       "onboard_time": 1759607294,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31207,
-      "num": 166376,
-      "word": "张艺兴演唱会直播",
-      "onboard_time": 1759948275,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 30589,
