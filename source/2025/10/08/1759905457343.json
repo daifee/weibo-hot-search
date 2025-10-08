@@ -1,0 +1,410 @@
+{
+  "runTime": 1759905457343,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1242880,
+        "num": 1242880,
+        "word": "尹锡悦夫妇中秋节牢饭曝光",
+        "onboard_time": 1759902079,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 658425,
+        "num": 658425,
+        "word": "人甚至共情不了国庆假期前的自己",
+        "onboard_time": 1759894761,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34120,
+        "num": 526760,
+        "word": "县域旅游已成为一种时尚",
+        "onboard_time": 1759878197,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 512760,
+        "num": 512760,
+        "word": "西贝未回应嫌馒头贵不如努力赚钱",
+        "onboard_time": 1759902021,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457863,
+        "num": 457863,
+        "word": "雪糕试吃员每天吃20根月薪能过万",
+        "onboard_time": 1759900222,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337632,
+        "num": 337632,
+        "word": "小偷通过刷视频定位偷走38万份子钱",
+        "onboard_time": 1759902621,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310498,
+        "num": 310498,
+        "word": "国外很贵但国内却便宜的东西",
+        "onboard_time": 1759902201,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 310201,
+        "num": 310201,
+        "word": "恋与深空",
+        "onboard_time": 1759889960,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246729,
+        "num": 246729,
+        "word": "王者荣耀",
+        "onboard_time": 1759904960,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216351,
+        "num": 216351,
+        "word": "赖神曝与fly聊天记录",
+        "onboard_time": 1759899259,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1021374,
+        "num": 214890,
+        "word": "李一桐美人余造型疑似抄袭许我耀眼",
+        "onboard_time": 1759902681,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 868290,
+        "num": 208636,
+        "word": "孟子义拍戏摔了",
+        "onboard_time": 1759894521,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461697,
+        "num": 205349,
+        "word": "TaylorSwift忘了通知EdSheeran订婚",
+        "onboard_time": 1759900820,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394366,
+        "num": 204182,
+        "word": "张凌赫换头像",
+        "onboard_time": 1759897402,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369814,
+        "num": 199160,
+        "word": "一眼万年 李煜东",
+        "onboard_time": 1759900341,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298256,
+        "num": 193393,
+        "word": "胡先煦三个月没和徐志胜搭上话",
+        "onboard_time": 1759899741,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277936,
+        "num": 190534,
+        "word": "在offer7嗑到了真夫妻",
+        "onboard_time": 1759899020,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242152,
+        "num": 187603,
+        "word": "肖庆平车祸离世",
+        "onboard_time": 1759905021,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226248,
+        "num": 181606,
+        "word": "15岁女孩患癌肝被肿瘤占近半",
+        "onboard_time": 1759900940,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180993,
+        "num": 180993,
+        "word": "入青云",
+        "onboard_time": 1759897102,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185484,
+        "num": 180945,
+        "word": "王者十周年福利抢先看",
+        "onboard_time": 1759905260,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178652,
+        "num": 178652,
+        "word": "马伯骞以为是马嘉祺不敢喊",
+        "onboard_time": 1759902380,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173338,
+        "num": 173338,
+        "word": "快女谈莉娜婚礼",
+        "onboard_time": 1759890381,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170957,
+        "num": 170957,
+        "word": "吴汉坤踩到孟子义头纱",
+        "onboard_time": 1759898422,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170097,
+        "num": 170097,
+        "word": "黄金",
+        "onboard_time": 1759891941,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159924,
+        "num": 159924,
+        "word": "网上晒礼金家中38万现金被盗",
+        "onboard_time": 1759904299,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156047,
+        "num": 156047,
+        "word": "关晓彤往那一站就是国泰民安的感觉",
+        "onboard_time": 1759903880,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149258,
+        "num": 149258,
+        "word": "丞磊云包场入青云",
+        "onboard_time": 1759904539,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164524,
+        "num": 149041,
+        "word": "吴汉坤道歉",
+        "onboard_time": 1759905021,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147561,
+        "num": 147561,
+        "word": "男子喝3斤白酒用智驾开车20公里",
+        "onboard_time": 1759884739,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139856,
+        "num": 139856,
+        "word": "卢昱晓把倪妮摇来了",
+        "onboard_time": 1759901600,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135877,
+        "num": 135877,
+        "word": "官方通报牛杂店现场手动改价",
+        "onboard_time": 1759895781,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 131442,
+        "num": 131442,
+        "word": "王一博轮胎冒烟",
+        "onboard_time": 1759905320,
+        "rank": 32,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 129767,
+        "num": 129767,
+        "word": "美驻华大使馆宣布微博微信停更",
+        "onboard_time": 1759904902,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121622,
+        "num": 121622,
+        "word": "许凯复工进组了",
+        "onboard_time": 1759901961,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120374,
+        "num": 120374,
+        "word": "美国经济损失150亿美元",
+        "onboard_time": 1759895541,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119511,
+        "num": 119511,
+        "word": "成毅演蒙面刺客建议戴面罩",
+        "onboard_time": 1759901181,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47141,
+        "num": 119098,
+        "word": "哈马斯谈判团长首次公开表态",
+        "onboard_time": 1759903220,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57406,
+        "num": 118438,
+        "word": "济南29岁男子上山后失联4天",
+        "onboard_time": 1759905440,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85606,
+        "num": 118226,
+        "word": "李兰迪打火机转场都要美成啥了",
+        "onboard_time": 1759904240,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81350,
+        "num": 116996,
+        "word": "原来腮红是王楚然自己化的",
+        "onboard_time": 1759904240,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116950,
+        "num": 116950,
+        "word": "王者荣耀十周年",
+        "onboard_time": 1759901181,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112121,
+        "num": 112121,
+        "word": "方媛中秋挺孕肚拍全家福",
+        "onboard_time": 1759891100,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109149,
+        "num": 109149,
+        "word": "重庆人点评张掖麻辣烫",
+        "onboard_time": 1759903700,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107657,
+        "num": 107657,
+        "word": "董璇张维伊北大合体",
+        "onboard_time": 1759903521,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106943,
+        "num": 106943,
+        "word": "朋友等我时遭轰炸全部遇难",
+        "onboard_time": 1759903940,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105706,
+        "num": 105706,
+        "word": "霉霉夸一战再战太搞笑了",
+        "onboard_time": 1759903281,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104840,
+        "num": 104840,
+        "word": "意面来了中国也得被炒着吃",
+        "onboard_time": 1759904720,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102958,
+        "num": 102958,
+        "word": "好久没见过这么老款的婚礼录像了",
+        "onboard_time": 1759904720,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101736,
+        "num": 101736,
+        "word": "王一博85组别全场第一",
+        "onboard_time": 1759897521,
+        "rank": 49,
+        "category": "艺人,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻中华文明#"
+    }
+  }
+}

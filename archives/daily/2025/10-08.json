@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759902080448,
+  "endTime": 1759905457343,
   "band_list": [
     {
       "raw_hot": 1475503,
@@ -17,6 +17,14 @@
       "onboard_time": 1759894761,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1242880,
+      "num": 1242880,
+      "word": "尹锡悦夫妇中秋节牢饭曝光",
+      "onboard_time": 1759902079,
+      "rank": 0,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1235949,
@@ -41,6 +49,14 @@
       "onboard_time": 1759890381,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1021374,
+      "num": 214890,
+      "word": "李一桐美人余造型疑似抄袭许我耀眼",
+      "onboard_time": 1759902681,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 867986,
@@ -107,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 512760,
+      "num": 512760,
+      "word": "西贝未回应嫌馒头贵不如努力赚钱",
+      "onboard_time": 1759902021,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 504247,
       "num": 504247,
       "word": "法国网红拿针管假装扎人获刑半年",
@@ -131,6 +155,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 461697,
+      "num": 205349,
+      "word": "TaylorSwift忘了通知EdSheeran订婚",
+      "onboard_time": 1759900820,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 457863,
+      "num": 457863,
+      "word": "雪糕试吃员每天吃20根月薪能过万",
+      "onboard_time": 1759900222,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426263,
       "num": 426263,
       "word": "警方回应小伙与女友吃饭被铐走",
@@ -140,7 +180,7 @@
     },
     {
       "raw_hot": 419599,
-      "num": 173805,
+      "num": 190534,
       "word": "在offer7嗑到了真夫妻",
       "onboard_time": 1759899020,
       "rank": 13,
@@ -156,7 +196,7 @@
     },
     {
       "raw_hot": 394639,
-      "num": 173289,
+      "num": 193393,
       "word": "胡先煦三个月没和徐志胜搭上话",
       "onboard_time": 1759899741,
       "rank": 16,
@@ -203,11 +243,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 369814,
+      "num": 199160,
+      "word": "一眼万年 李煜东",
+      "onboard_time": 1759900341,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350391,
       "num": 350391,
       "word": "大国重器1元1个",
       "onboard_time": 1759889361,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337632,
+      "num": 337632,
+      "word": "小偷通过刷视频定位偷走38万份子钱",
+      "onboard_time": 1759902621,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -217,14 +273,6 @@
       "onboard_time": 1759850362,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 318839,
-      "num": 318839,
-      "word": "雪糕试吃员每天吃20根月薪能过万",
-      "onboard_time": 1759900222,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 317417,
@@ -241,6 +289,14 @@
       "onboard_time": 1759848024,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 310498,
+      "num": 310498,
+      "word": "国外很贵但国内却便宜的东西",
+      "onboard_time": 1759902201,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 305828,
@@ -323,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276589,
-      "num": 170989,
-      "word": "TaylorSwift忘了通知EdSheeran订婚",
-      "onboard_time": 1759900820,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 276107,
       "num": 207996,
       "word": "周生辰下时宜了",
@@ -403,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246729,
+      "num": 246729,
+      "word": "王者荣耀",
+      "onboard_time": 1759904960,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 243270,
       "num": 243270,
       "word": "恋与深空 夏以昼",
@@ -411,20 +467,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242152,
+      "num": 187603,
+      "word": "肖庆平车祸离世",
+      "onboard_time": 1759905021,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241917,
       "num": 197204,
       "word": "沈星回来自星轨间",
       "onboard_time": 1759894402,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 239858,
-      "num": 171003,
-      "word": "一眼万年 李煜东",
-      "onboard_time": 1759900341,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 237386,
@@ -459,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226248,
+      "num": 181606,
+      "word": "15岁女孩患癌肝被肿瘤占近半",
+      "onboard_time": 1759900940,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222965,
       "num": 197082,
       "word": "金价又涨了",
@@ -489,14 +553,6 @@
       "onboard_time": 1759894040,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205171,
-      "num": 170190,
-      "word": "15岁女孩患癌肝被肿瘤占近半",
-      "onboard_time": 1759900940,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 198017,
@@ -547,6 +603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185484,
+      "num": 180945,
+      "word": "王者十周年福利抢先看",
+      "onboard_time": 1759905260,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 184760,
       "num": 128507,
       "word": "许我耀眼都市爽剧爆改抽象癫剧",
@@ -561,6 +625,14 @@
       "onboard_time": 1759848442,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178652,
+      "num": 178652,
+      "word": "马伯骞以为是马嘉祺不敢喊",
+      "onboard_time": 1759902380,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 178091,
@@ -611,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164524,
+      "num": 149041,
+      "word": "吴汉坤道歉",
+      "onboard_time": 1759905021,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164032,
       "num": 164032,
       "word": "成毅演蒙面刺客建议戴面罩",
@@ -624,6 +704,14 @@
       "word": "95后夫妻宛如双胞胎",
       "onboard_time": 1759899020,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159924,
+      "num": 159924,
+      "word": "网上晒礼金家中38万现金被盗",
+      "onboard_time": 1759904299,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -649,6 +737,14 @@
       "onboard_time": 1759897521,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156047,
+      "num": 156047,
+      "word": "关晓彤往那一站就是国泰民安的感觉",
+      "onboard_time": 1759903880,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 154756,
@@ -707,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149258,
+      "num": 149258,
+      "word": "丞磊云包场入青云",
+      "onboard_time": 1759904539,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148330,
       "num": 122006,
       "word": "现货金价又创新高",
@@ -737,6 +841,14 @@
       "onboard_time": 1759832542,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139856,
+      "num": 139856,
+      "word": "卢昱晓把倪妮摇来了",
+      "onboard_time": 1759901600,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 138563,
@@ -819,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131442,
+      "num": 131442,
+      "word": "王一博轮胎冒烟",
+      "onboard_time": 1759905320,
+      "rank": 32,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 130505,
       "num": 130505,
       "word": "一觉醒来寒露来了",
@@ -833,6 +953,14 @@
       "onboard_time": 1759844123,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129767,
+      "num": 129767,
+      "word": "美驻华大使馆宣布微博微信停更",
+      "onboard_time": 1759904902,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 128411,
@@ -873,6 +1001,14 @@
       "onboard_time": 1759897220,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121622,
+      "num": 121622,
+      "word": "许凯复工进组了",
+      "onboard_time": 1759901961,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 121500,
@@ -947,6 +1083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116950,
+      "num": 116950,
+      "word": "王者荣耀十周年",
+      "onboard_time": 1759901181,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 114179,
       "num": 114179,
       "word": "孙燕姿回应捐款上千万",
@@ -961,14 +1105,6 @@
       "onboard_time": 1759885700,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111181,
-      "num": 111181,
-      "word": "王者荣耀十周年",
-      "onboard_time": 1759901181,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 111063,
@@ -987,6 +1123,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109149,
+      "num": 109149,
+      "word": "重庆人点评张掖麻辣烫",
+      "onboard_time": 1759903700,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 107657,
+      "num": 107657,
+      "word": "董璇张维伊北大合体",
+      "onboard_time": 1759903521,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107166,
       "num": 107166,
       "word": "原来侯明昊是接了个虐文本",
@@ -1003,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106943,
+      "num": 106943,
+      "word": "朋友等我时遭轰炸全部遇难",
+      "onboard_time": 1759903940,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106759,
       "num": 106759,
       "word": "假期最后1天迎来寒露",
@@ -1011,12 +1171,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105706,
+      "num": 105706,
+      "word": "霉霉夸一战再战太搞笑了",
+      "onboard_time": 1759903281,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 104840,
+      "num": 104840,
+      "word": "意面来了中国也得被炒着吃",
+      "onboard_time": 1759904720,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104576,
       "num": 104576,
       "word": "金饰克价涨至1176元",
       "onboard_time": 1759895541,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102958,
+      "num": 102958,
+      "word": "好久没见过这么老款的婚礼录像了",
+      "onboard_time": 1759904720,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 101810,
@@ -1091,22 +1275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92998,
-      "num": 92998,
-      "word": "卢昱晓把倪妮摇来了",
-      "onboard_time": 1759901600,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 92042,
-      "num": 92042,
-      "word": "许凯复工进组了",
-      "onboard_time": 1759901961,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91298,
       "num": 91298,
       "word": "1966年的孩子想象2000年的世界",
@@ -1147,6 +1315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85606,
+      "num": 118226,
+      "word": "李兰迪打火机转场都要美成啥了",
+      "onboard_time": 1759904240,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85339,
       "num": 85339,
       "word": "樊振东将代表上海队出战全运会",
@@ -1168,14 +1344,6 @@
       "word": "文化中国行寒露节气",
       "onboard_time": 1759879458,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84758,
-      "num": 91578,
-      "word": "西贝未回应嫌馒头贵不如努力赚钱",
-      "onboard_time": 1759902021,
-      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1208,6 +1376,14 @@
       "word": "迪丽热巴回国",
       "onboard_time": 1759833861,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 81350,
+      "num": 116996,
+      "word": "原来腮红是王楚然自己化的",
+      "onboard_time": 1759904240,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -1348,7 +1524,7 @@
     },
     {
       "raw_hot": 64566,
-      "num": 462489,
+      "num": 526760,
       "word": "县域旅游已成为一种时尚",
       "onboard_time": 1759878197,
       "rank": 48,
@@ -1393,6 +1569,14 @@
       "onboard_time": 1759854980,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 57406,
+      "num": 118438,
+      "word": "济南29岁男子上山后失联4天",
+      "onboard_time": 1759905440,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57169,
@@ -1449,6 +1633,14 @@
       "onboard_time": 1759846882,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 47141,
+      "num": 119098,
+      "word": "哈马斯谈判团长首次公开表态",
+      "onboard_time": 1759903220,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47085,

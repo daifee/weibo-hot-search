@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759902080448,
+  "endTime": 1759905457343,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -491,6 +491,14 @@
       "category": "汽车,网红"
     },
     {
+      "raw_hot": 1242880,
+      "num": 1242880,
+      "word": "尹锡悦夫妇中秋节牢饭曝光",
+      "onboard_time": 1759902079,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1235949,
       "num": 1235949,
       "word": "男子喝3斤白酒用智驾开车20公里",
@@ -769,6 +777,14 @@
       "onboard_time": 1759291101,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1021374,
+      "num": 214890,
+      "word": "李一桐美人余造型疑似抄袭许我耀眼",
+      "onboard_time": 1759902681,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1021121,
@@ -2651,6 +2667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 512760,
+      "num": 512760,
+      "word": "西贝未回应嫌馒头贵不如努力赚钱",
+      "onboard_time": 1759902021,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 512017,
       "num": 512017,
       "word": "鸡排哥10月8日正常出摊",
@@ -3027,6 +3051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 461697,
+      "num": 205349,
+      "word": "TaylorSwift忘了通知EdSheeran订婚",
+      "onboard_time": 1759900820,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461235,
       "num": 461235,
       "word": "亲历者称冰岛侧翻大巴上多名中国人",
@@ -3065,6 +3097,14 @@
       "onboard_time": 1759406421,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 457863,
+      "num": 457863,
+      "word": "雪糕试吃员每天吃20根月薪能过万",
+      "onboard_time": 1759900222,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 456135,
@@ -3460,7 +3500,7 @@
     },
     {
       "raw_hot": 419599,
-      "num": 173805,
+      "num": 190534,
       "word": "在offer7嗑到了真夫妻",
       "onboard_time": 1759899020,
       "rank": 13,
@@ -3636,7 +3676,7 @@
     },
     {
       "raw_hot": 394639,
-      "num": 173289,
+      "num": 193393,
       "word": "胡先煦三个月没和徐志胜搭上话",
       "onboard_time": 1759899741,
       "rank": 16,
@@ -3977,6 +4017,14 @@
       "onboard_time": 1759895541,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 369814,
+      "num": 199160,
+      "word": "一眼万年 李煜东",
+      "onboard_time": 1759900341,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 369063,
@@ -4363,6 +4411,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 337632,
+      "num": 337632,
+      "word": "小偷通过刷视频定位偷走38万份子钱",
+      "onboard_time": 1759902621,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337421,
       "num": 202568,
       "word": "赵磊十年前才16岁",
@@ -4611,14 +4667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 318839,
-      "num": 318839,
-      "word": "雪糕试吃员每天吃20根月薪能过万",
-      "onboard_time": 1759900222,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 318690,
       "num": 231292,
       "word": "韩国举行大规模阅兵仪式",
@@ -4817,6 +4865,14 @@
       "onboard_time": 1759759463,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 310498,
+      "num": 310498,
+      "word": "国外很贵但国内却便宜的东西",
+      "onboard_time": 1759902201,
+      "rank": 6,
+      "category": "情感"
     },
     {
       "raw_hot": 309941,
@@ -5451,14 +5507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 276589,
-      "num": 170989,
-      "word": "TaylorSwift忘了通知EdSheeran订婚",
-      "onboard_time": 1759900820,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 276544,
       "num": 227736,
       "word": "罗意威大秀",
@@ -6035,6 +6083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246729,
+      "num": 246729,
+      "word": "王者荣耀",
+      "onboard_time": 1759904960,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 245836,
       "num": 245836,
       "word": "香港人盯上内地医保",
@@ -6131,6 +6187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242152,
+      "num": 187603,
+      "word": "肖庆平车祸离世",
+      "onboard_time": 1759905021,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241917,
       "num": 197204,
       "word": "沈星回来自星轨间",
@@ -6169,14 +6233,6 @@
       "onboard_time": 1759362139,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 239858,
-      "num": 171003,
-      "word": "一眼万年 李煜东",
-      "onboard_time": 1759900341,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 239413,
@@ -6553,6 +6609,14 @@
       "onboard_time": 1759709238,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 226248,
+      "num": 181606,
+      "word": "15岁女孩患癌肝被肿瘤占近半",
+      "onboard_time": 1759900940,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225986,
@@ -7257,14 +7321,6 @@
       "onboard_time": 1759409122,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205171,
-      "num": 170190,
-      "word": "15岁女孩患癌肝被肿瘤占近半",
-      "onboard_time": 1759900940,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 205141,
@@ -8291,6 +8347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185484,
+      "num": 180945,
+      "word": "王者十周年福利抢先看",
+      "onboard_time": 1759905260,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185364,
       "num": 150935,
       "word": "王楚钦林诗栋4比11黄友政温瑞博",
@@ -8761,6 +8825,14 @@
       "onboard_time": 1759414522,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178652,
+      "num": 178652,
+      "word": "马伯骞以为是马嘉祺不敢喊",
+      "onboard_time": 1759902380,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 178590,
@@ -9715,6 +9787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164524,
+      "num": 149041,
+      "word": "吴汉坤道歉",
+      "onboard_time": 1759905021,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164032,
       "num": 164032,
       "word": "成毅演蒙面刺客建议戴面罩",
@@ -9985,6 +10065,14 @@
       "onboard_time": 1759763302,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159924,
+      "num": 159924,
+      "word": "网上晒礼金家中38万现金被盗",
+      "onboard_time": 1759904299,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159733,
@@ -10273,6 +10361,14 @@
       "onboard_time": 1759496180,
       "rank": 36,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 156047,
+      "num": 156047,
+      "word": "关晓彤往那一站就是国泰民安的感觉",
+      "onboard_time": 1759903880,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 155811,
@@ -10729,6 +10825,14 @@
       "onboard_time": 1759377680,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149258,
+      "num": 149258,
+      "word": "丞磊云包场入青云",
+      "onboard_time": 1759904539,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 149191,
@@ -11649,6 +11753,14 @@
       "onboard_time": 1759477400,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 139856,
+      "num": 139856,
+      "word": "卢昱晓把倪妮摇来了",
+      "onboard_time": 1759901600,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 139811,
@@ -12611,6 +12723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131442,
+      "num": 131442,
+      "word": "王一博轮胎冒烟",
+      "onboard_time": 1759905320,
+      "rank": 32,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 131431,
       "num": 131431,
       "word": "陈立农唱了薛之谦的歌",
@@ -12793,6 +12913,14 @@
       "onboard_time": 1759724001,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129767,
+      "num": 129767,
+      "word": "美驻华大使馆宣布微博微信停更",
+      "onboard_time": 1759904902,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129761,
@@ -13699,6 +13827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121622,
+      "num": 121622,
+      "word": "许凯复工进组了",
+      "onboard_time": 1759901961,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121575,
       "num": 121575,
       "word": "董璇佟丽娅小酒窝朵朵中秋合照",
@@ -14329,6 +14465,14 @@
       "onboard_time": 1759648820,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116950,
+      "num": 116950,
+      "word": "王者荣耀十周年",
+      "onboard_time": 1759901181,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 116930,
@@ -15315,14 +15459,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 111181,
-      "num": 111181,
-      "word": "王者荣耀十周年",
-      "onboard_time": 1759901181,
-      "rank": 37,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 111109,
       "num": 524325,
       "word": "8天长假已过半",
@@ -15771,6 +15907,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 109149,
+      "num": 109149,
+      "word": "重庆人点评张掖麻辣烫",
+      "onboard_time": 1759903700,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 109140,
       "num": 98997,
       "word": "张小斐陈飞宇PP 在G社演了部电影",
@@ -15995,6 +16139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107657,
+      "num": 107657,
+      "word": "董璇张维伊北大合体",
+      "onboard_time": 1759903521,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107648,
       "num": 107648,
       "word": "92岁爷爷给我和妹妹铺的床",
@@ -16185,6 +16337,14 @@
       "onboard_time": 1759752743,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 106943,
+      "num": 106943,
+      "word": "朋友等我时遭轰炸全部遇难",
+      "onboard_time": 1759903940,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106929,
@@ -16467,6 +16627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105706,
+      "num": 105706,
+      "word": "霉霉夸一战再战太搞笑了",
+      "onboard_time": 1759903281,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 105704,
       "num": 105704,
       "word": "杨超越到底被秦昊弄哭过几次",
@@ -16601,6 +16769,14 @@
       "onboard_time": 1759439174,
       "rank": 48,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 104840,
+      "num": 104840,
+      "word": "意面来了中国也得被炒着吃",
+      "onboard_time": 1759904720,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 104772,
@@ -16945,6 +17121,14 @@
       "onboard_time": 1759580122,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102958,
+      "num": 102958,
+      "word": "好久没见过这么老款的婚礼录像了",
+      "onboard_time": 1759904720,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 102932,
@@ -18827,14 +19011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92998,
-      "num": 92998,
-      "word": "卢昱晓把倪妮摇来了",
-      "onboard_time": 1759901600,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 92993,
       "num": 92993,
       "word": "王一博粉色涂装",
@@ -18993,14 +19169,6 @@
       "onboard_time": 1759402821,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92042,
-      "num": 92042,
-      "word": "许凯复工进组了",
-      "onboard_time": 1759901961,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 92016,
@@ -19987,6 +20155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85606,
+      "num": 118226,
+      "word": "李兰迪打火机转场都要美成啥了",
+      "onboard_time": 1759904240,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85527,
       "num": 85527,
       "word": "华晨宇火星乌托邦",
@@ -20193,14 +20369,6 @@
       "onboard_time": 1759383381,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 84758,
-      "num": 91578,
-      "word": "西贝未回应嫌馒头贵不如努力赚钱",
-      "onboard_time": 1759902021,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84748,
@@ -20689,6 +20857,14 @@
       "onboard_time": 1759394661,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 81350,
+      "num": 116996,
+      "word": "原来腮红是王楚然自己化的",
+      "onboard_time": 1759904240,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 81282,
@@ -22140,7 +22316,7 @@
     },
     {
       "raw_hot": 64566,
-      "num": 462489,
+      "num": 526760,
       "word": "县域旅游已成为一种时尚",
       "onboard_time": 1759878197,
       "rank": 48,
@@ -22577,6 +22753,14 @@
       "onboard_time": 1759648579,
       "rank": 38,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 57406,
+      "num": 118438,
+      "word": "济南29岁男子上山后失联4天",
+      "onboard_time": 1759905440,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57171,
@@ -23073,6 +23257,14 @@
       "onboard_time": 1759262474,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47141,
+      "num": 119098,
+      "word": "哈马斯谈判团长首次公开表态",
+      "onboard_time": 1759903220,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47017,
