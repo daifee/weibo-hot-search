@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 18:26:52
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 18:43:47
 </p>
 </blockquote>
 <p>
@@ -435,6 +435,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%86%AC%E5%A4%A9%E5%B0%86%E6%9B%B4%E5%86%B7%23" target="weibo">
+今年冬天将更冷（热度：1197599）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%89%BA%E4%BA%BA%E9%9F%B3%E4%B9%90%E8%8A%82%E5%9D%90%E5%9C%B0%E8%B5%B7%E4%BB%B7%23" target="weibo">
 艺人音乐节坐地起价（热度：1195057）
 </a>
@@ -573,6 +579,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BA%84%E6%94%B6%E8%B4%B9%E7%AB%99%20%E9%9C%87%E6%92%BC%23" target="weibo">
+吴庄收费站 震撼（热度：1078242）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E9%97%A8%E5%B1%B1%E6%99%AF%E5%8C%BA%E9%81%93%E6%AD%89%23" target="weibo">
 天门山景区道歉（热度：1062602）
 </a>
@@ -705,12 +717,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BA%84%E6%94%B6%E8%B4%B9%E7%AB%99%20%E9%9C%87%E6%92%BC%23" target="weibo">
-吴庄收费站 震撼（热度：984635）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E4%BB%99%E5%A5%B3%E6%95%A3%E7%9A%84%E6%98%AF%E5%81%87%E8%8A%B1%23" target="weibo">
 景区回应仙女散的是假花（热度：980225）
 </a>
@@ -747,6 +753,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%238%E5%A4%A9%E5%BE%88%E7%9F%AD%207%E5%A4%A9%E5%BE%88%E9%95%BF%23" target="weibo">
+8天很短 7天很长（热度：953915）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%88%96%E5%B0%86%E8%BF%8E%E6%9D%A5%E9%A6%96%E4%BD%8D%E5%A5%B3%E9%A6%96%E7%9B%B8%23" target="weibo">
 日本或将迎来首位女首相（热度：950465）
 </a>
@@ -773,12 +785,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC16%23" target="weibo">
 许我耀眼16（热度：929148）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%86%AC%E5%A4%A9%E5%B0%86%E6%9B%B4%E5%86%B7%23" target="weibo">
-今年冬天将更冷（热度：928253）
 </a>
 </li>
 
@@ -1491,6 +1497,12 @@ JDG输越南队（热度：648751）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%20%E8%A1%A5%E5%81%BF%E6%88%91%E4%B8%80%E4%B8%AA%E8%8D%A3%E8%80%80%E6%B0%B4%E6%99%B6%23" target="weibo">
+王者荣耀 补偿我一个荣耀水晶（热度：633062）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%8B%8D%E7%85%A7%E5%90%8A%E5%A8%81%E4%BA%9A%E6%B8%B8%E5%AE%A2%E5%85%A5%E9%95%9C%E4%BC%BC5%E6%AF%9B%E7%89%B9%E6%95%88%23" target="weibo">
 女生拍照吊威亚游客入镜似5毛特效（热度：632973）
 </a>
@@ -1665,6 +1677,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232025%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93%23" target="weibo">
+2025诺贝尔化学奖揭晓（热度：591131）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E8%BD%A6%E7%A5%B8%E5%8F%97%E4%BC%A4%E5%8F%B8%E6%9C%BA%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
 陈震车祸受伤司机家属发声（热度：587904）
 </a>
@@ -1715,12 +1733,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E8%BD%A6%E7%A5%B8%E4%BA%8B%E4%BB%B6%E4%B8%8D%E6%B6%89%E5%8F%8A%E6%AF%92%E9%A9%BE%E9%86%89%E9%A9%BE%23" target="weibo">
 陈震车祸事件不涉及毒驾醉驾（热度：576917）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%238%E5%A4%A9%E5%BE%88%E7%9F%AD%207%E5%A4%A9%E5%BE%88%E9%95%BF%23" target="weibo">
-8天很短 7天很长（热度：573475）
 </a>
 </li>
 
@@ -2313,20 +2325,8 @@ VaVa说自己分手是因为浪姐（热度：480031）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232025%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93%23" target="weibo">
-2025诺贝尔化学奖揭晓（热度：479705）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E6%9F%90%E5%9B%BD%E5%87%86%E5%A4%87%E8%BF%9B%E8%A1%8C%E6%A0%B8%E8%AF%95%E9%AA%8C%23" target="weibo">
 普京称某国准备进行核试验（热度：479548）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%20%E8%A1%A5%E5%81%BF%E6%88%91%E4%B8%80%E4%B8%AA%E8%8D%A3%E8%80%80%E6%B0%B4%E6%99%B6%23" target="weibo">
-王者荣耀 补偿我一个荣耀水晶（热度：478999）
 </a>
 </li>
 
@@ -5151,6 +5151,12 @@ G6666次列车限时开行（热度：233415）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%BB%88%E4%BA%8E%E6%85%A2%E4%B8%8B%E6%9D%A5%E4%BA%86%23" target="weibo">
+杨幂终于慢下来了（热度：224434）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%99%9F%E9%93%AD%E7%BF%BB%E7%BA%A2%E5%90%8E%E7%AC%AC%E4%B8%80%E4%BB%B6%E4%BA%8B%23" target="weibo">
 何晟铭翻红后第一件事（热度：224190）
 </a>
@@ -5373,12 +5379,6 @@ steam崩了（热度：215280）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%BB%88%E4%BA%8E%E6%85%A2%E4%B8%8B%E6%9D%A5%E4%BA%86%23" target="weibo">
-杨幂终于慢下来了（热度：215158）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E8%97%8F%E4%B8%8D%E4%BD%8F%E7%9A%84%E5%96%9C%E6%82%A6%23" target="weibo">
 王楚钦孙颖莎藏不住的喜悦（热度：214855）
 </a>
@@ -5475,6 +5475,12 @@ AI女演员出道遭抵制（热度：212198）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E6%8B%9F%E7%A6%81%E6%AD%A215%E5%B2%81%E4%BB%A5%E4%B8%8B%E4%BA%BA%E7%BE%A4%E4%BD%BF%E7%94%A8%E7%A4%BE%E5%AA%92%23" target="weibo">
+丹麦拟禁止15岁以下人群使用社媒（热度：211935）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%A5%BC%E9%9C%87%E6%83%8A%E5%A4%96%E5%9B%BD%E5%8F%8B%E4%BA%BA%E4%BA%86%23" target="weibo">
 月饼震惊外国友人了（热度：211825）
 </a>
@@ -5501,6 +5507,12 @@ AI女演员出道遭抵制（热度：212198）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E9%97%AE%E8%BF%98%E8%83%BD%E6%BC%94%E6%AD%A3%E5%89%A7%E5%90%97%23" target="weibo">
 张晚意问还能演正剧吗（热度：210223）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%9C%86%E9%94%8B%E4%BD%A0%E6%9C%80%E5%A5%BD%E7%BB%99%E6%88%91%E4%B8%80%E4%B8%AA%E8%A7%A3%E9%87%8A%23" target="weibo">
+谢霆锋你最好给我一个解释（热度：210190）
 </a>
 </li>
 
@@ -5775,6 +5787,12 @@ TTG战胜TES（热度：206119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AF%E6%88%90%E5%A4%A7%E5%8F%94%E4%BA%86%23" target="weibo">
+比伯成大叔了（热度：202547）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%92%8C%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%9B%A2%E9%98%9F%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8%E4%B8%8A%E4%BA%86%23" target="weibo">
 张艺兴和张艺谋团队梦幻联动上了（热度：202310）
 </a>
@@ -5993,24 +6011,6 @@ AG战胜RW（热度：199437）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E6%98%9F%E6%9C%9F%E4%BA%94%23" target="weibo">
 今天星期五（热度：196866）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E7%A6%BB%23" target="weibo">
-莫离（热度：196847）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%8E%E8%A7%82%E8%B5%9B%E5%A4%A7%E5%A3%B0%E5%96%A7%E5%93%97%23" target="weibo">
-警方通报女子酒后观赛大声喧哗（热度：196522）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%81%E6%AD%A2%E6%8C%BA%E8%83%B8%E5%A4%B9%E8%83%8C%23" target="weibo">
-禁止挺胸夹背（热度：196263）
 </a>
 </li>
 

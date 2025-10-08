@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759919212025,
+  "endTime": 1759920227628,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -275,6 +275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1197599,
+      "num": 1197599,
+      "word": "今年冬天将更冷",
+      "onboard_time": 1759913481,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1179374,
       "num": 1177366,
       "word": "高市早苗否认南京大屠杀",
@@ -379,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1078242,
+      "num": 1078242,
+      "word": "吴庄收费站 震撼",
+      "onboard_time": 1759912881,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1062602,
       "num": 1062602,
       "word": "天门山景区道歉",
@@ -451,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 984635,
-      "num": 984635,
-      "word": "吴庄收费站 震撼",
-      "onboard_time": 1759912881,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 980225,
       "num": 1156836,
       "word": "景区回应仙女散的是假花",
@@ -483,20 +491,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 953915,
+      "num": 953915,
+      "word": "8天很短 7天很长",
+      "onboard_time": 1759915401,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 950160,
       "num": 254259,
       "word": "肖战为李沁新剧宣传",
       "onboard_time": 1759802900,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 928253,
-      "num": 928253,
-      "word": "今年冬天将更冷",
-      "onboard_time": 1759913481,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 925854,
@@ -931,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 633062,
+      "num": 633062,
+      "word": "王者荣耀 补偿我一个荣耀水晶",
+      "onboard_time": 1759916901,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 632624,
       "num": 632624,
       "word": "2025诺贝尔物理学奖公布",
@@ -1019,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 591131,
+      "num": 591131,
+      "word": "2025诺贝尔化学奖揭晓",
+      "onboard_time": 1759917802,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 587904,
       "num": 193603,
       "word": "陈震车祸受伤司机家属发声",
@@ -1033,14 +1057,6 @@
       "onboard_time": 1759913241,
       "rank": 12,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 573475,
-      "num": 573475,
-      "word": "8天很短 7天很长",
-      "onboard_time": 1759915401,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 570379,
@@ -1441,22 +1457,6 @@
       "onboard_time": 1759739482,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 479705,
-      "num": 479705,
-      "word": "2025诺贝尔化学奖揭晓",
-      "onboard_time": 1759917802,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 478999,
-      "num": 478999,
-      "word": "王者荣耀 补偿我一个荣耀水晶",
-      "onboard_time": 1759916901,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 477899,
@@ -3379,6 +3379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 224434,
+      "num": 224434,
+      "word": "杨幂终于慢下来了",
+      "onboard_time": 1759914922,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224190,
       "num": 161628,
       "word": "何晟铭翻红后第一件事",
@@ -3507,14 +3515,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 215158,
-      "num": 215158,
-      "word": "杨幂终于慢下来了",
-      "onboard_time": 1759914922,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214850,
       "num": 116011,
       "word": "方媛说现在已经不能坐飞机了",
@@ -3563,6 +3563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211935,
+      "num": 211935,
+      "word": "丹麦拟禁止15岁以下人群使用社媒",
+      "onboard_time": 1759918401,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 211825,
       "num": 442175,
       "word": "月饼震惊外国友人了",
@@ -3593,6 +3601,14 @@
       "onboard_time": 1759595780,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210190,
+      "num": 216017,
+      "word": "谢霆锋你最好给我一个解释",
+      "onboard_time": 1759918940,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 210117,
@@ -3745,6 +3761,14 @@
       "onboard_time": 1759680980,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202547,
+      "num": 202547,
+      "word": "比伯成大叔了",
+      "onboard_time": 1759914980,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 202310,
@@ -4091,6 +4115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190464,
+      "num": 190464,
+      "word": "当街露下体被捕男爱豆道歉",
+      "onboard_time": 1759917681,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190286,
       "num": 190286,
       "word": "这些风景会让人嘴角流泪",
@@ -4225,14 +4257,6 @@
       "onboard_time": 1759654340,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185612,
-      "num": 185612,
-      "word": "谢霆锋你最好给我一个解释",
-      "onboard_time": 1759918940,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 185555,
@@ -4499,14 +4523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178521,
-      "num": 178521,
-      "word": "比伯成大叔了",
-      "onboard_time": 1759914980,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178471,
       "num": 178471,
       "word": "主人回应狗狗下地掰玉米掰了三年了",
@@ -4584,6 +4600,14 @@
       "word": "猫主人回应全身被抓伤20多处",
       "onboard_time": 1759626260,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176570,
+      "num": 176570,
+      "word": "女子久坐16小时火车旅游心脏骤停",
+      "onboard_time": 1759916841,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -4841,6 +4865,14 @@
       "onboard_time": 1759817842,
       "rank": 32,
       "category": "体育,体育"
+    },
+    {
+      "raw_hot": 170653,
+      "num": 170653,
+      "word": "盛夏芬德拉见面会",
+      "onboard_time": 1759919720,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 170346,
@@ -5323,6 +5355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156697,
+      "num": 156697,
+      "word": "王一博85车队亚军",
+      "onboard_time": 1759919841,
+      "rank": 28,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 156508,
       "num": 156508,
       "word": "许我耀眼 写实剧",
@@ -5555,6 +5595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152089,
+      "num": 152089,
+      "word": "DNA感谢林俊杰",
+      "onboard_time": 1759919421,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 151890,
       "num": 123283,
       "word": "杨博文高会第一",
@@ -5569,6 +5617,14 @@
       "onboard_time": 1759644202,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151225,
+      "num": 151225,
+      "word": "孙颖莎香港转机",
+      "onboard_time": 1759919602,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 150620,
@@ -5633,14 +5689,6 @@
       "onboard_time": 1759904539,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148948,
-      "num": 148948,
-      "word": "当街露下体被捕男爱豆道歉",
-      "onboard_time": 1759917681,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 148900,
@@ -5752,14 +5800,6 @@
       "word": "高铁 充电口使用权争议",
       "onboard_time": 1759658903,
       "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 147035,
-      "num": 147035,
-      "word": "女子久坐16小时火车旅游心脏骤停",
-      "onboard_time": 1759916841,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -6691,14 +6731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130297,
-      "num": 130297,
-      "word": "丹麦拟禁止15岁以下人群使用社媒",
-      "onboard_time": 1759918401,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 129774,
       "num": 129774,
       "word": "惹了宋亚轩等于没惹",
@@ -7027,6 +7059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123973,
+      "num": 123973,
+      "word": "50个深蹲对血糖的影响有多大",
+      "onboard_time": 1759919482,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 123673,
       "num": 118105,
       "word": "王楚钦迎难而上",
@@ -7267,6 +7307,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 119949,
+      "num": 119949,
+      "word": "陈哲远妈妈包场",
+      "onboard_time": 1759918820,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119766,
       "num": 119766,
       "word": "花海所有的努力都作数",
@@ -7441,14 +7489,6 @@
       "onboard_time": 1759844783,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117444,
-      "num": 117444,
-      "word": "陈哲远妈妈包场",
-      "onboard_time": 1759918820,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 117436,
@@ -8299,6 +8339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108772,
+      "num": 108772,
+      "word": "解清帅回应将办婚礼",
+      "onboard_time": 1759918340,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108453,
       "num": 110862,
       "word": "正剧还得是视帝视后演",
@@ -8779,6 +8827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103608,
+      "num": 178495,
+      "word": "Angelababy杂志",
+      "onboard_time": 1759912642,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103443,
       "num": 103443,
       "word": "纹身1500洗纹身15000",
@@ -9065,6 +9121,14 @@
       "onboard_time": 1759628359,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99864,
+      "num": 99864,
+      "word": "Scout",
+      "onboard_time": 1759919602,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 99837,
@@ -9483,6 +9547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 95258,
+      "num": 95258,
+      "word": "普京称解放近5000平方公里领土",
+      "onboard_time": 1759916540,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95205,
       "num": 95205,
       "word": "韩国上厕所有多难",
@@ -9553,14 +9625,6 @@
       "onboard_time": 1759906642,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 94739,
-      "num": 178495,
-      "word": "Angelababy杂志",
-      "onboard_time": 1759912642,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 94619,
@@ -9795,6 +9859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 92213,
+      "num": 92213,
+      "word": "国际金价一路疯涨",
+      "onboard_time": 1759920142,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 92208,
       "num": 92208,
       "word": "中秋文案",
@@ -9921,6 +9993,14 @@
       "onboard_time": 1759829721,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90565,
+      "num": 90565,
+      "word": "郑钦文23岁生日获四大满贯祝贺",
+      "onboard_time": 1759919720,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 90310,
@@ -12307,6 +12387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 14159,
+      "num": 117847,
+      "word": "梁靖崑的另一面",
+      "onboard_time": 1759918820,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 13882,
       "num": 27759,
       "word": "檀健次角色理解",
@@ -12385,14 +12473,6 @@
       "onboard_time": 1759722440,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7400,
-      "num": 117847,
-      "word": "梁靖崑的另一面",
-      "onboard_time": 1759918820,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 6759,
