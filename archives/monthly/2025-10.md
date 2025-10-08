@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 11:11:49
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 11:38:10
 </p>
 </blockquote>
 <p>
@@ -3621,6 +3621,12 @@ MiuMiu巴黎时装周（热度：318258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%23" target="weibo">
+黄金（热度：302720）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%9F%E5%AE%A2%E6%9C%88%E7%A7%9F1400%E4%B8%AD%E4%BB%8B%E4%BA%A4%E7%BB%99%E6%88%BF%E4%B8%9C2500%23" target="weibo">
 租客月租1400中介交给房东2500（热度：302060）
 </a>
@@ -4605,6 +4611,12 @@ hi6收视率排名第一（热度：245066）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8B%8D%E6%88%8F%E6%91%94%E4%BA%86%23" target="weibo">
+孟子义拍戏摔了（热度：236723）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE6.9%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 菲律宾6.9级地震（热度：236438）
 </a>
@@ -4631,6 +4643,12 @@ hi6收视率排名第一（热度：245066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23wtt%23" target="weibo">
 wtt（热度：234611）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%B8%8D%E5%80%92%E7%BF%81%E5%B0%8F%E5%A7%90%E5%A7%90%E6%8A%8A%E9%95%9C%E5%A4%B4%E7%BF%BB%E8%BD%AC%E8%BF%87%E6%9D%A5%23" target="weibo">
+当不倒翁小姐姐把镜头翻转过来（热度：234339）
 </a>
 </li>
 
@@ -4953,12 +4971,6 @@ TTG清清（热度：219869）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%B8%8D%E5%80%92%E7%BF%81%E5%B0%8F%E5%A7%90%E5%A7%90%E6%8A%8A%E9%95%9C%E5%A4%B4%E7%BF%BB%E8%BD%AC%E8%BF%87%E6%9D%A5%23" target="weibo">
-当不倒翁小姐姐把镜头翻转过来（热度：218759）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%A0%94%E6%8C%87%E5%AF%BC%E6%9D%8E%E7%BA%AF%E5%81%9C%E8%BD%A6%23" target="weibo">
 马頔指导李纯停车（热度：218550）
 </a>
@@ -5045,6 +5057,12 @@ steam崩了（热度：215280）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E8%97%8F%E4%B8%8D%E4%BD%8F%E7%9A%84%E5%96%9C%E6%82%A6%23" target="weibo">
 王楚钦孙颖莎藏不住的喜悦（热度：214855）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B3%95%E4%BB%A4%E7%BA%B9%E6%98%AF%E6%8F%90%E4%BA%AE%E4%B8%8D%E4%BA%86%E7%9A%84%23" target="weibo">
+原来法令纹是提亮不了的（热度：214425）
 </a>
 </li>
 
@@ -5171,6 +5189,12 @@ AI女演员出道遭抵制（热度：212198）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%AA%E4%B8%93%E4%B8%9A%E5%85%A8%E5%9B%BD%E6%9B%BE%E5%8F%AA%E6%9C%891%E4%BA%BA%23" target="weibo">
 这个专业全国曾只有1人（热度：209362）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%A4%A7%E4%B8%80%E7%9A%84%E7%BB%93%E8%AF%BE%E6%B1%87%E6%BC%94%23" target="weibo">
+贺峻霖大一的结课汇演（热度：209272）
 </a>
 </li>
 
@@ -5411,12 +5435,6 @@ TTG战胜TES（热度：206119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E7%94%B0%E6%9B%A6%E8%96%87%E5%B0%86%E6%BC%94%E6%94%BB%E7%8E%89%23" target="weibo">
 龚俊田曦薇将演攻玉（热度：202662）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B3%95%E4%BB%A4%E7%BA%B9%E6%98%AF%E6%8F%90%E4%BA%AE%E4%B8%8D%E4%BA%86%E7%9A%84%23" target="weibo">
-原来法令纹是提亮不了的（热度：202545）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ NRG总决赛对阵FNC（热度：190252）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%23" target="weibo">
 诺贝尔奖（热度：188599）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E5%8D%A1%E5%BF%AB%E4%B9%90%E5%8D%81%E4%B8%80%23" target="weibo">
-打卡快乐十一（热度：188472）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%BF%9C%E7%8E%8B%E9%9C%8F%E9%9C%8F%E7%9B%9B%E5%A4%8F%E8%8A%AC%E5%BE%B7%E6%8B%89%E6%8A%B1%23" target="weibo">
-张远王霏霏盛夏芬德拉抱（热度：188380）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E4%B8%AD%E7%A7%8B%E7%A5%9D%E7%A6%8F%23" target="weibo">
-王橹杰中秋祝福（热度：188294）
 </a>
 </li>
 

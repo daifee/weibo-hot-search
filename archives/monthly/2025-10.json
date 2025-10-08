@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759893109127,
+  "endTime": 1759894690209,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -4811,6 +4811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302720,
+      "num": 302720,
+      "word": "黄金",
+      "onboard_time": 1759729041,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 302060,
       "num": 250279,
       "word": "租客月租1400中介交给房东2500",
@@ -6123,6 +6131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 236723,
+      "num": 185182,
+      "word": "孟子义拍戏摔了",
+      "onboard_time": 1759894521,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236438,
       "num": 236438,
       "word": "菲律宾6.9级地震",
@@ -6161,6 +6177,14 @@
       "onboard_time": 1759683020,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234339,
+      "num": 234339,
+      "word": "当不倒翁小姐姐把镜头翻转过来",
+      "onboard_time": 1759889661,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 234022,
@@ -6460,7 +6484,7 @@
     },
     {
       "raw_hot": 222965,
-      "num": 151509,
+      "num": 168904,
       "word": "金价又涨了",
       "onboard_time": 1759889060,
       "rank": 27,
@@ -6587,14 +6611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218759,
-      "num": 218759,
-      "word": "当不倒翁小姐姐把镜头翻转过来",
-      "onboard_time": 1759889661,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 218550,
       "num": 198290,
       "word": "马頔指导李纯停车",
@@ -6713,6 +6729,14 @@
       "onboard_time": 1759536259,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214425,
+      "num": 171484,
+      "word": "原来法令纹是提亮不了的",
+      "onboard_time": 1759890560,
+      "rank": 21,
+      "category": "美妆"
     },
     {
       "raw_hot": 214389,
@@ -6881,6 +6905,14 @@
       "onboard_time": 1759656682,
       "rank": 19,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 209272,
+      "num": 185084,
+      "word": "贺峻霖大一的结课汇演",
+      "onboard_time": 1759892301,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 209017,
@@ -7201,14 +7233,6 @@
       "onboard_time": 1759299621,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202545,
-      "num": 151434,
-      "word": "原来法令纹是提亮不了的",
-      "onboard_time": 1759890560,
-      "rank": 21,
-      "category": "美妆"
     },
     {
       "raw_hot": 202241,
@@ -7995,6 +8019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188297,
+      "num": 170357,
+      "word": "沈星回来自星轨间",
+      "onboard_time": 1759894402,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188294,
       "num": 188294,
       "word": "王橹杰中秋祝福",
@@ -8089,6 +8121,14 @@
       "onboard_time": 1759489222,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 185082,
+      "num": 185082,
+      "word": "在哈尔滨理解了辛芷蕾的挑食",
+      "onboard_time": 1759894040,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 185023,
@@ -9851,14 +9891,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 158645,
-      "num": 158645,
-      "word": "黄金",
-      "onboard_time": 1759729041,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 158576,
       "num": 146582,
       "word": "王楚钦本周第三个冠军自拍",
@@ -10907,6 +10939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144699,
+      "num": 144699,
+      "word": "接下来都是考考考",
+      "onboard_time": 1759893201,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144686,
       "num": 144686,
       "word": "罗永浩呼吁全行业消灭误导大小字",
@@ -11113,6 +11153,14 @@
       "onboard_time": 1759662803,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142140,
+      "num": 142140,
+      "word": "王安宇你又专业上了",
+      "onboard_time": 1759893621,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 142048,
@@ -11771,6 +11819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136376,
+      "num": 136376,
+      "word": "入青云今日开播",
+      "onboard_time": 1759894100,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136323,
       "num": 136323,
       "word": "Gr对战GW",
@@ -11995,6 +12051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134269,
+      "num": 134269,
+      "word": "恋与深空 沈星回",
+      "onboard_time": 1759893801,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 134198,
       "num": 134198,
       "word": "iPadmini8售价",
@@ -12105,14 +12169,6 @@
       "onboard_time": 1759718960,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133115,
-      "num": 133115,
-      "word": "贺峻霖大一的结课汇演",
-      "onboard_time": 1759892301,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 132983,
@@ -13065,6 +13121,14 @@
       "onboard_time": 1759322542,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124026,
+      "num": 124026,
+      "word": "曾黎种了两个半月的玉米被虫子吃了",
+      "onboard_time": 1759894280,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 123949,
@@ -16579,6 +16643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102612,
+      "num": 102612,
+      "word": "原来动画片演的都是真的",
+      "onboard_time": 1759894220,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102599,
       "num": 149045,
       "word": "小米17空降巴黎时装周",
@@ -17379,6 +17451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98657,
+      "num": 98657,
+      "word": "米画师官方使用AI例图",
+      "onboard_time": 1759893801,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 98517,
       "num": 98517,
       "word": "吃饺子和月饼的都沉默了",
@@ -17635,6 +17715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97026,
+      "num": 97026,
+      "word": "断联诺奖得主联系上了",
+      "onboard_time": 1759893980,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 96920,
       "num": 96920,
       "word": "孙颖莎王楚钦的手茧好明显",
@@ -17801,6 +17889,14 @@
       "onboard_time": 1759307840,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96177,
+      "num": 97879,
+      "word": "不被爱会疯狂毁掉血肉",
+      "onboard_time": 1759893440,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 96068,
@@ -19377,6 +19473,14 @@
       "onboard_time": 1759251138,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86392,
+      "num": 86392,
+      "word": "高市早苗考虑放弃秋季参拜靖国神社",
+      "onboard_time": 1759894341,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 86358,

@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759893109127,
+  "endTime": 1759894690209,
   "band_list": [
     {
       "raw_hot": 1235949,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 418623,
+      "num": 207999,
+      "word": "高市早苗否认南京大屠杀",
+      "onboard_time": 1759892481,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 376438,
       "num": 376438,
       "word": "因女友与走失女孩撞脸男子被误抓",
@@ -145,6 +153,14 @@
       "onboard_time": 1759848024,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302720,
+      "num": 302720,
+      "word": "黄金",
+      "onboard_time": 1759891941,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 301884,
@@ -243,14 +259,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 256052,
-      "num": 207999,
-      "word": "高市早苗否认南京大屠杀",
-      "onboard_time": 1759892481,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 252916,
       "num": 218269,
       "word": "刘宇宁没接到过将门独后剧本",
@@ -275,6 +283,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236723,
+      "num": 185182,
+      "word": "孟子义拍戏摔了",
+      "onboard_time": 1759894521,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 234339,
+      "num": 234339,
+      "word": "当不倒翁小姐姐把镜头翻转过来",
+      "onboard_time": 1759889661,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233979,
       "num": 131702,
       "word": "顺产开十指真是十个手指那么宽吗",
@@ -292,27 +316,27 @@
     },
     {
       "raw_hot": 222965,
-      "num": 151509,
+      "num": 168904,
       "word": "金价又涨了",
       "onboard_time": 1759889060,
       "rank": 27,
       "category": "财经"
     },
     {
-      "raw_hot": 218759,
-      "num": 218759,
-      "word": "当不倒翁小姐姐把镜头翻转过来",
-      "onboard_time": 1759889661,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 202545,
-      "num": 151434,
+      "raw_hot": 214425,
+      "num": 171484,
       "word": "原来法令纹是提亮不了的",
       "onboard_time": 1759890560,
       "rank": 21,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 209272,
+      "num": 185084,
+      "word": "贺峻霖大一的结课汇演",
+      "onboard_time": 1759892301,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 197413,
@@ -323,12 +347,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 188297,
+      "num": 170357,
+      "word": "沈星回来自星轨间",
+      "onboard_time": 1759894402,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 185555,
       "num": 120599,
       "word": "恋与深空 秦彻",
       "onboard_time": 1759887858,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185082,
+      "num": 185082,
+      "word": "在哈尔滨理解了辛芷蕾的挑食",
+      "onboard_time": 1759894040,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 184760,
@@ -379,14 +419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158645,
-      "num": 158645,
-      "word": "黄金",
-      "onboard_time": 1759891941,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 153624,
       "num": 151007,
       "word": "国庆返程高速上演龟速前行",
@@ -427,12 +459,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 144699,
+      "num": 144699,
+      "word": "接下来都是考考考",
+      "onboard_time": 1759893201,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 143989,
       "num": 143989,
       "word": "刘宇宁说不需要辱追粉",
       "onboard_time": 1759888580,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142140,
+      "num": 142140,
+      "word": "王安宇你又专业上了",
+      "onboard_time": 1759893621,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 140537,
@@ -467,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136376,
+      "num": 136376,
+      "word": "入青云今日开播",
+      "onboard_time": 1759894100,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134973,
       "num": 134973,
       "word": "亲历者称冰岛侧翻大巴上多名中国人",
@@ -475,12 +531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133115,
-      "num": 133115,
-      "word": "贺峻霖大一的结课汇演",
-      "onboard_time": 1759892301,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 134269,
+      "num": 134269,
+      "word": "恋与深空 沈星回",
+      "onboard_time": 1759893801,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 130505,
@@ -505,6 +561,14 @@
       "onboard_time": 1759883959,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124026,
+      "num": 124026,
+      "word": "曾黎种了两个半月的玉米被虫子吃了",
+      "onboard_time": 1759894280,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 121500,
@@ -587,12 +651,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102612,
+      "num": 102612,
+      "word": "原来动画片演的都是真的",
+      "onboard_time": 1759894220,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 98657,
+      "num": 98657,
+      "word": "米画师官方使用AI例图",
+      "onboard_time": 1759893801,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 97585,
       "num": 97585,
       "word": "36车道挤满返程大军",
       "onboard_time": 1759883780,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97026,
+      "num": 97026,
+      "word": "断联诺奖得主联系上了",
+      "onboard_time": 1759893980,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96177,
+      "num": 97879,
+      "word": "不被爱会疯狂毁掉血肉",
+      "onboard_time": 1759893440,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 95402,
@@ -625,6 +721,14 @@
       "onboard_time": 1759823422,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86392,
+      "num": 86392,
+      "word": "高市早苗考虑放弃秋季参拜靖国神社",
+      "onboard_time": 1759894341,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85339,
