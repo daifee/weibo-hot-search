@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/08 00:31:35 ~ 2025/10/08 11:38:10
+本榜单时间：2025/10/08 00:31:35 ~ 2025/10/08 11:47:11
 </p>
 </blockquote>
 <p>
@@ -47,6 +47,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F5%E8%BD%A6%E8%BF%BD%E5%B0%BE2%E6%AD%BB3%E4%BC%A4%23" target="weibo">
 高速5车追尾2死3伤（热度：734082）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8B%8D%E6%88%8F%E6%91%94%E4%BA%86%23" target="weibo">
+孟子义拍戏摔了（热度：583133）
 </a>
 </li>
 
@@ -147,6 +153,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%B8%8D%E5%80%92%E7%BF%81%E5%B0%8F%E5%A7%90%E5%A7%90%E6%8A%8A%E9%95%9C%E5%A4%B4%E7%BF%BB%E8%BD%AC%E8%BF%87%E6%9D%A5%23" target="weibo">
+当不倒翁小姐姐把镜头翻转过来（热度：291654）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%AA%E4%B8%8D%E5%A4%AA%E5%A5%BD%E7%9A%84%E4%B9%A0%E6%83%AF%E5%8F%AB%E7%A9%B7%E6%80%9D%E7%AB%AD%E8%99%91%23" target="weibo">
 有个不太好的习惯叫穷思竭虑（热度：290324）
 </a>
@@ -219,20 +231,14 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%98%9F%E5%9B%9E%E6%9D%A5%E8%87%AA%E6%98%9F%E8%BD%A8%E9%97%B4%23" target="weibo">
+沈星回来自星轨间（热度：241917）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E9%9B%A8%E9%9B%A8%E9%9B%A8%E9%9B%A8%23" target="weibo">
 北京雨雨雨雨（热度：237386）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%8B%8D%E6%88%8F%E6%91%94%E4%BA%86%23" target="weibo">
-孟子义拍戏摔了（热度：236723）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%B8%8D%E5%80%92%E7%BF%81%E5%B0%8F%E5%A7%90%E5%A7%90%E6%8A%8A%E9%95%9C%E5%A4%B4%E7%BF%BB%E8%BD%AC%E8%BF%87%E6%9D%A5%23" target="weibo">
-当不倒翁小姐姐把镜头翻转过来（热度：234339）
 </a>
 </li>
 
@@ -262,7 +268,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%E5%A4%A7%E4%B8%80%E7%9A%84%E7%BB%93%E8%AF%BE%E6%B1%87%E6%BC%94%23" target="weibo">
-贺峻霖大一的结课汇演（热度：209272）
+贺峻霖大一的结课汇演（热度：210117）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E7%90%86%E8%A7%A3%E4%BA%86%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%9A%84%E6%8C%91%E9%A3%9F%23" target="weibo">
+在哈尔滨理解了辛芷蕾的挑食（热度：208898）
 </a>
 </li>
 
@@ -273,8 +285,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%98%9F%E5%9B%9E%E6%9D%A5%E8%87%AA%E6%98%9F%E8%BD%A8%E9%97%B4%23" target="weibo">
-沈星回来自星轨间（热度：188297）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E7%A7%8D%E4%BA%86%E4%B8%A4%E4%B8%AA%E5%8D%8A%E6%9C%88%E7%9A%84%E7%8E%89%E7%B1%B3%E8%A2%AB%E8%99%AB%E5%AD%90%E5%90%83%E4%BA%86%23" target="weibo">
+曾黎种了两个半月的玉米被虫子吃了（热度：189701）
 </a>
 </li>
 
@@ -285,14 +297,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E7%90%86%E8%A7%A3%E4%BA%86%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%9A%84%E6%8C%91%E9%A3%9F%23" target="weibo">
-在哈尔滨理解了辛芷蕾的挑食（热度：185082）
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E9%83%BD%E5%B8%82%E7%88%BD%E5%89%A7%E7%88%86%E6%94%B9%E6%8A%BD%E8%B1%A1%E7%99%AB%E5%89%A7%23" target="weibo">
+许我耀眼都市爽剧爆改抽象癫剧（热度：184760）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E9%83%BD%E5%B8%82%E7%88%BD%E5%89%A7%E7%88%86%E6%94%B9%E6%8A%BD%E8%B1%A1%E7%99%AB%E5%89%A7%23" target="weibo">
-许我耀眼都市爽剧爆改抽象癫剧（热度：184760）
+<a href="https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%B8%8B%E6%9D%A5%E9%83%BD%E6%98%AF%E8%80%83%E8%80%83%E8%80%83%23" target="weibo">
+接下来都是考考考（热度：182946）
 </a>
 </li>
 
@@ -321,8 +333,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23" target="weibo">
+入青云今日开播（热度：166699）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B3%B0%E6%9A%B4%E9%9B%AA%E5%90%91%E5%AF%BC%E4%B8%80%E4%BA%BA%E4%B8%80%E7%8B%97%E5%B8%A6%E8%B6%85%E7%99%BE%E4%BA%BA%E6%92%A4%E7%A6%BB%23" target="weibo">
 珠峰暴雪向导一人一狗带超百人撤离（热度：159594）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E6%B2%88%E6%98%9F%E5%9B%9E%23" target="weibo">
+恋与深空 沈星回（热度：154756）
 </a>
 </li>
 
@@ -357,8 +381,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%B8%8B%E6%9D%A5%E9%83%BD%E6%98%AF%E8%80%83%E8%80%83%E8%80%83%23" target="weibo">
-接下来都是考考考（热度：144699）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%80%83%E8%99%91%E6%94%BE%E5%BC%83%E7%A7%8B%E5%AD%A3%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%23" target="weibo">
+高市早苗考虑放弃秋季参拜靖国神社（热度：147696）
 </a>
 </li>
 
@@ -399,20 +423,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23" target="weibo">
-入青云今日开播（热度：136376）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%B2%E5%8E%86%E8%80%85%E7%A7%B0%E5%86%B0%E5%B2%9B%E4%BE%A7%E7%BF%BB%E5%A4%A7%E5%B7%B4%E4%B8%8A%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%23" target="weibo">
 亲历者称冰岛侧翻大巴上多名中国人（热度：134973）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E6%B2%88%E6%98%9F%E5%9B%9E%23" target="weibo">
-恋与深空 沈星回（热度：134269）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%993%E4%B8%AA%E5%A9%B4%E5%84%BF%E8%BD%AE%E6%B5%81%E7%94%A8%E4%B8%80%E6%A0%B9%E6%B0%A7%E6%B0%94%E7%AE%A1%23" target="weibo">
+加沙3个婴儿轮流用一根氧气管（热度：132814）
 </a>
 </li>
 
@@ -431,12 +449,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%9C%A8%E5%8C%97%E6%96%B9%E7%A9%BF%E6%A3%89%E8%A2%84%E6%88%91%E5%9C%A8%E5%8D%97%E6%96%B9%E5%90%B9%E7%A9%BA%E8%B0%83%23" target="weibo">
 你在北方穿棉袄我在南方吹空调（热度：125474）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E7%A7%8D%E4%BA%86%E4%B8%A4%E4%B8%AA%E5%8D%8A%E6%9C%88%E7%9A%84%E7%8E%89%E7%B1%B3%E8%A2%AB%E8%99%AB%E5%AD%90%E5%90%83%E4%BA%86%23" target="weibo">
-曾黎种了两个半月的玉米被虫子吃了（热度：124026）
 </a>
 </li>
 
@@ -461,6 +473,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8%23" target="weibo">
 广州暴雨（热度：119031）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8A%A8%E7%94%BB%E7%89%87%E6%BC%94%E7%9A%84%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
+原来动画片演的都是真的（热度：118428）
 </a>
 </li>
 
@@ -501,8 +519,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8A%A8%E7%94%BB%E7%89%87%E6%BC%94%E7%9A%84%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
-原来动画片演的都是真的（热度：102612）
+<a href="https://s.weibo.com/weibo?q=%23Faker147%E5%9C%BA%E4%B8%96%E7%95%8C%E8%B5%9B%E8%83%9C%E7%8E%8774%25%23" target="weibo">
+Faker147场世界赛胜率74%（热度：101810）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%AD%E8%81%94%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E8%81%94%E7%B3%BB%E4%B8%8A%E4%BA%86%23" target="weibo">
+断联诺奖得主联系上了（热度：99458）
 </a>
 </li>
 
@@ -519,12 +543,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%AD%E8%81%94%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E8%81%94%E7%B3%BB%E4%B8%8A%E4%BA%86%23" target="weibo">
-断联诺奖得主联系上了（热度：97026）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%A2%AB%E7%88%B1%E4%BC%9A%E7%96%AF%E7%8B%82%E6%AF%81%E6%8E%89%E8%A1%80%E8%82%89%23" target="weibo">
 不被爱会疯狂毁掉血肉（热度：96177）
 </a>
@@ -533,6 +551,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%98%BF%E9%BB%9B%E9%80%A0%E5%9E%8B%23" target="weibo">
 鞠婧祎阿黛造型（热度：95402）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%99%E8%8A%B1%E7%9B%9B%E5%BC%80%E7%BE%8E%E5%88%B0%E4%B8%8D%E8%88%8D%E5%BE%97%E7%9C%A8%E7%9C%BC%23" target="weibo">
+昙花盛开美到不舍得眨眼（热度：95187）
 </a>
 </li>
 
@@ -549,14 +573,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%A4%B1%E8%B8%AA4%E5%B9%B4%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%97%B6%E5%B7%B2%E6%88%90%E5%B9%B2%E5%B0%B8%23" target="weibo">
-姐姐失踪4年被发现时已成干尸（热度：86673）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9A%E8%87%B3%E5%85%B1%E6%83%85%E4%B8%8D%E4%BA%86%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%89%8D%E7%9A%84%E8%87%AA%E5%B7%B1%23" target="weibo">
+人甚至共情不了国庆假期前的自己（热度：88040）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%80%83%E8%99%91%E6%94%BE%E5%BC%83%E7%A7%8B%E5%AD%A3%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%23" target="weibo">
-高市早苗考虑放弃秋季参拜靖国神社（热度：86392）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%A4%B1%E8%B8%AA4%E5%B9%B4%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%97%B6%E5%B7%B2%E6%88%90%E5%B9%B2%E5%B0%B8%23" target="weibo">
+姐姐失踪4年被发现时已成干尸（热度：86673）
 </a>
 </li>
 

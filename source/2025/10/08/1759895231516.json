@@ -1,0 +1,410 @@
+{
+  "runTime": 1759895231516,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 623571,
+        "num": 1099771,
+        "word": "男子喝3斤白酒用智驾开车20公里",
+        "onboard_time": 1759884739,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504767,
+        "num": 504767,
+        "word": "台湾踹飞老太当事男子道歉",
+        "onboard_time": 1759890021,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6148,
+        "num": 391162,
+        "word": "再赏一次大江南北的中秋月",
+        "onboard_time": 1759822521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 295814,
+        "num": 295814,
+        "word": "黄金",
+        "onboard_time": 1759891941,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 291654,
+        "num": 291654,
+        "word": "当不倒翁小姐姐把镜头翻转过来",
+        "onboard_time": 1759889661,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284178,
+        "num": 284178,
+        "word": "恋与深空",
+        "onboard_time": 1759889960,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 275306,
+        "num": 275306,
+        "word": "钱学森遭美方拘禁后失声暴瘦",
+        "onboard_time": 1759880717,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202034,
+        "num": 202034,
+        "word": "大国重器1元1个",
+        "onboard_time": 1759889361,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171497,
+        "num": 201747,
+        "word": "姑妈鱼 女朋友",
+        "onboard_time": 1759886240,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167611,
+        "num": 201476,
+        "word": "特朗普当加总理面提吞并加拿大",
+        "onboard_time": 1759887440,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 729141,
+        "num": 201265,
+        "word": "快女谈莉娜婚礼",
+        "onboard_time": 1759890381,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 583133,
+        "num": 200759,
+        "word": "孟子义拍戏摔了",
+        "onboard_time": 1759894521,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 526016,
+        "num": 200366,
+        "word": "方媛中秋挺孕肚拍全家福",
+        "onboard_time": 1759891100,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167013,
+        "num": 199961,
+        "word": "法国网红拿针管假装扎人获刑半年",
+        "onboard_time": 1759884679,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 396796,
+        "num": 199451,
+        "word": "演员颜正国去世",
+        "onboard_time": 1759890440,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374051,
+        "num": 199056,
+        "word": "高市早苗否认南京大屠杀",
+        "onboard_time": 1759892481,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 248392,
+        "num": 198776,
+        "word": "陆毅顶流时期高调官宣恋情第一人",
+        "onboard_time": 1759890620,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247649,
+        "num": 198538,
+        "word": "有个不太好的习惯叫穷思竭虑",
+        "onboard_time": 1759888519,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210117,
+        "num": 197932,
+        "word": "贺峻霖大一的结课汇演",
+        "onboard_time": 1759892301,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208898,
+        "num": 197569,
+        "word": "在哈尔滨理解了辛芷蕾的挑食",
+        "onboard_time": 1759894040,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241917,
+        "num": 197204,
+        "word": "沈星回来自星轨间",
+        "onboard_time": 1759894402,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197082,
+        "num": 197082,
+        "word": "金价又涨了",
+        "onboard_time": 1759889060,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 196036,
+        "num": 196036,
+        "word": "原来法令纹是提亮不了的",
+        "onboard_time": 1759890560,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 189701,
+        "num": 189701,
+        "word": "曾黎种了两个半月的玉米被虫子吃了",
+        "onboard_time": 1759894280,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182946,
+        "num": 182946,
+        "word": "接下来都是考考考",
+        "onboard_time": 1759893201,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166699,
+        "num": 166699,
+        "word": "入青云今日开播",
+        "onboard_time": 1759894100,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154756,
+        "num": 154756,
+        "word": "恋与深空 沈星回",
+        "onboard_time": 1759893801,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150788,
+        "num": 150788,
+        "word": "国庆返程高速上演龟速前行",
+        "onboard_time": 1759891881,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147696,
+        "num": 147696,
+        "word": "高市早苗考虑放弃秋季参拜靖国神社",
+        "onboard_time": 1759894341,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144522,
+        "num": 144522,
+        "word": "去看张艺兴演唱会的明星",
+        "onboard_time": 1759884979,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132814,
+        "num": 132814,
+        "word": "加沙3个婴儿轮流用一根氧气管",
+        "onboard_time": 1759895119,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119353,
+        "num": 119353,
+        "word": "王安宇你又专业上了",
+        "onboard_time": 1759893621,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118428,
+        "num": 118428,
+        "word": "原来动画片演的都是真的",
+        "onboard_time": 1759894220,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113561,
+        "num": 113561,
+        "word": "两个脏脏包逃难开始",
+        "onboard_time": 1759888519,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106633,
+        "num": 106633,
+        "word": "刘宇宁说不需要辱追粉",
+        "onboard_time": 1759888580,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101810,
+        "num": 101810,
+        "word": "Faker147场世界赛胜率74%",
+        "onboard_time": 1759894882,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99646,
+        "num": 99646,
+        "word": "许我耀眼都市爽剧爆改抽象癫剧",
+        "onboard_time": 1759882279,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99458,
+        "num": 99458,
+        "word": "断联诺奖得主联系上了",
+        "onboard_time": 1759893980,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98098,
+        "num": 98098,
+        "word": "孙燕姿回应捐款上千万",
+        "onboard_time": 1759891581,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95187,
+        "num": 95187,
+        "word": "昙花盛开美到不舍得眨眼",
+        "onboard_time": 1759895000,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91701,
+        "num": 91701,
+        "word": "米画师官方使用AI例图",
+        "onboard_time": 1759893801,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 57893,
+        "num": 90642,
+        "word": "丁程鑫别吵脑子在烧烤",
+        "onboard_time": 1759892841,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90176,
+        "num": 90176,
+        "word": "杨博文高会第一",
+        "onboard_time": 1759885519,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88456,
+        "num": 88456,
+        "word": "詹姆斯决定二 广告",
+        "onboard_time": 1759850542,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88040,
+        "num": 88040,
+        "word": "人甚至共情不了国庆假期前的自己",
+        "onboard_time": 1759894761,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86013,
+        "num": 86013,
+        "word": "恋与深空 夏以昼",
+        "onboard_time": 1759887858,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83555,
+        "num": 83555,
+        "word": "大疆预告降价已购买消费者退货维权",
+        "onboard_time": 1759847423,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83507,
+        "num": 83507,
+        "word": "36车道挤满返程大军",
+        "onboard_time": 1759883780,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59382,
+        "num": 83479,
+        "word": "不被爱会疯狂毁掉血肉",
+        "onboard_time": 1759893440,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83478,
+        "num": 83478,
+        "word": "假期最后1天迎来寒露",
+        "onboard_time": 1759854859,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把爱家和爱国统一起来#"
+    }
+  }
+}

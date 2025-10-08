@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759894690209,
+  "endTime": 1759895231516,
   "band_list": [
     {
       "raw_hot": 1235949,
@@ -49,6 +49,14 @@
       "onboard_time": 1759854859,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 583133,
+      "num": 200759,
+      "word": "孟子义拍戏摔了",
+      "onboard_time": 1759894521,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 563717,
@@ -179,6 +187,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 291654,
+      "num": 291654,
+      "word": "当不倒翁小姐姐把镜头翻转过来",
+      "onboard_time": 1759889661,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 290324,
       "num": 210475,
       "word": "有个不太好的习惯叫穷思竭虑",
@@ -275,27 +291,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241917,
+      "num": 197204,
+      "word": "沈星回来自星轨间",
+      "onboard_time": 1759894402,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 237386,
       "num": 192999,
       "word": "北京雨雨雨雨",
       "onboard_time": 1759883059,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 236723,
-      "num": 185182,
-      "word": "孟子义拍戏摔了",
-      "onboard_time": 1759894521,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 234339,
-      "num": 234339,
-      "word": "当不倒翁小姐姐把镜头翻转过来",
-      "onboard_time": 1759889661,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 222965,
-      "num": 168904,
+      "num": 197082,
       "word": "金价又涨了",
       "onboard_time": 1759889060,
       "rank": 27,
@@ -324,19 +332,27 @@
     },
     {
       "raw_hot": 214425,
-      "num": 171484,
+      "num": 196036,
       "word": "原来法令纹是提亮不了的",
       "onboard_time": 1759890560,
       "rank": 21,
       "category": "美妆"
     },
     {
-      "raw_hot": 209272,
-      "num": 185084,
+      "raw_hot": 210117,
+      "num": 197932,
       "word": "贺峻霖大一的结课汇演",
       "onboard_time": 1759892301,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208898,
+      "num": 197569,
+      "word": "在哈尔滨理解了辛芷蕾的挑食",
+      "onboard_time": 1759894040,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 197413,
@@ -347,12 +363,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 188297,
-      "num": 170357,
-      "word": "沈星回来自星轨间",
-      "onboard_time": 1759894402,
-      "rank": 21,
-      "category": "游戏"
+      "raw_hot": 189701,
+      "num": 189701,
+      "word": "曾黎种了两个半月的玉米被虫子吃了",
+      "onboard_time": 1759894280,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 185555,
@@ -363,20 +379,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 185082,
-      "num": 185082,
-      "word": "在哈尔滨理解了辛芷蕾的挑食",
-      "onboard_time": 1759894040,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184760,
       "num": 128507,
       "word": "许我耀眼都市爽剧爆改抽象癫剧",
       "onboard_time": 1759882279,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182946,
+      "num": 182946,
+      "word": "接下来都是考考考",
+      "onboard_time": 1759893201,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 182099,
@@ -411,12 +427,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166699,
+      "num": 166699,
+      "word": "入青云今日开播",
+      "onboard_time": 1759894100,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159594,
       "num": 159594,
       "word": "珠峰暴雪向导一人一狗带超百人撤离",
       "onboard_time": 1759844604,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154756,
+      "num": 154756,
+      "word": "恋与深空 沈星回",
+      "onboard_time": 1759893801,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 153624,
@@ -459,12 +491,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 144699,
-      "num": 144699,
-      "word": "接下来都是考考考",
-      "onboard_time": 1759893201,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 147696,
+      "num": 147696,
+      "word": "高市早苗考虑放弃秋季参拜靖国神社",
+      "onboard_time": 1759894341,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143989,
@@ -515,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 136376,
-      "num": 136376,
-      "word": "入青云今日开播",
-      "onboard_time": 1759894100,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134973,
       "num": 134973,
       "word": "亲历者称冰岛侧翻大巴上多名中国人",
@@ -531,12 +555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134269,
-      "num": 134269,
-      "word": "恋与深空 沈星回",
-      "onboard_time": 1759893801,
-      "rank": 28,
-      "category": "游戏"
+      "raw_hot": 132814,
+      "num": 132814,
+      "word": "加沙3个婴儿轮流用一根氧气管",
+      "onboard_time": 1759895119,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 130505,
@@ -561,14 +585,6 @@
       "onboard_time": 1759883959,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124026,
-      "num": 124026,
-      "word": "曾黎种了两个半月的玉米被虫子吃了",
-      "onboard_time": 1759894280,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 121500,
@@ -601,6 +617,14 @@
       "onboard_time": 1759842744,
       "rank": 22,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 118428,
+      "num": 118428,
+      "word": "原来动画片演的都是真的",
+      "onboard_time": 1759894220,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 118381,
@@ -651,12 +675,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102612,
-      "num": 102612,
-      "word": "原来动画片演的都是真的",
-      "onboard_time": 1759894220,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 101810,
+      "num": 101810,
+      "word": "Faker147场世界赛胜率74%",
+      "onboard_time": 1759894882,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 99458,
+      "num": 99458,
+      "word": "断联诺奖得主联系上了",
+      "onboard_time": 1759893980,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 98657,
@@ -675,14 +707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97026,
-      "num": 97026,
-      "word": "断联诺奖得主联系上了",
-      "onboard_time": 1759893980,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 96177,
       "num": 97879,
       "word": "不被爱会疯狂毁掉血肉",
@@ -697,6 +721,14 @@
       "onboard_time": 1759884260,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 95187,
+      "num": 95187,
+      "word": "昙花盛开美到不舍得眨眼",
+      "onboard_time": 1759895000,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91298,
@@ -715,20 +747,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88040,
+      "num": 88040,
+      "word": "人甚至共情不了国庆假期前的自己",
+      "onboard_time": 1759894761,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86673,
       "num": 115752,
       "word": "姐姐失踪4年被发现时已成干尸",
       "onboard_time": 1759823422,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86392,
-      "num": 86392,
-      "word": "高市早苗考虑放弃秋季参拜靖国神社",
-      "onboard_time": 1759894341,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 85339,
