@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/09 04:40:43
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/09 05:23:17
 </p>
 </blockquote>
 <p>
@@ -9675,6 +9675,12 @@ WTT更新北满冠军宣传照（热度：43795）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E9%A6%92%E5%A4%B4%E4%BA%89%E8%AE%AE%E5%8D%9A%E4%B8%BB60%E7%A7%92%E8%A7%86%E9%A2%91160%E5%85%83%23" target="weibo">
+西贝馒头争议博主60秒视频160元（热度：31134）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%239%E6%9C%88A%E8%82%A1%E5%B8%82%E5%9C%BA%E6%88%90%E4%BA%A4%E9%A2%9D%E5%88%B7%E6%96%B0%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95%23" target="weibo">
 9月A股市场成交额刷新历史纪录（热度：30589）
 </a>
@@ -9713,12 +9719,6 @@ WTT更新北满冠军宣传照（热度：43795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E4%BA%94%E5%B7%A1%E9%97%B9%E5%A4%A9%E5%AE%AB%23" target="weibo">
 张艺兴五巡闹天宫（热度：29150）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E9%A6%92%E5%A4%B4%E4%BA%89%E8%AE%AE%E5%8D%9A%E4%B8%BB60%E7%A7%92%E8%A7%86%E9%A2%91160%E5%85%83%23" target="weibo">
-西贝馒头争议博主60秒视频160元（热度：29079）
 </a>
 </li>
 
@@ -9915,6 +9915,12 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94%E8%8A%92%E6%9E%9C%E7%A4%BC%E7%9B%92%E5%86%85%E8%97%8F%E8%AF%95%E5%8D%B7%E8%AF%BE%E6%9C%AC%23" target="weibo">
+商家回应芒果礼盒内藏试卷课本（热度：19300）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AF%AF%23" target="weibo">
 美国多地航班延误（热度：18659）
 </a>
@@ -9953,6 +9959,12 @@ CP2025SP（热度：26632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%8D%E6%83%B3%E5%90%AC%E5%88%B08%E8%BF%99%E4%B8%AA%E5%AD%97%23" target="weibo">
 我不想听到8这个字（热度：16959）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A2%E5%9D%90%E6%BB%91%E9%81%93%E9%81%87%E8%9B%87%E4%BB%8E%E8%85%BF%E4%B8%8B%E7%A9%BF%E8%BF%87%23" target="weibo">
+景区回应游客坐滑道遇蛇从腿下穿过（热度：16811）
 </a>
 </li>
 
@@ -10053,12 +10065,6 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94%E8%8A%92%E6%9E%9C%E7%A4%BC%E7%9B%92%E5%86%85%E8%97%8F%E8%AF%95%E5%8D%B7%E8%AF%BE%E6%9C%AC%23" target="weibo">
-商家回应芒果礼盒内藏试卷课本（热度：12668）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%9C%80%E7%A9%B7%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%8F%91%E8%B5%B7%E7%9A%84%E4%B8%80%E5%9C%BA%E9%9D%A9%E5%91%BD%23" target="weibo">
 在最穷动物园发起的一场革命（热度：12661）
 </a>
@@ -10067,6 +10073,12 @@ CP2025SP（热度：26632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E9%B9%8F%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8C%85%E6%8F%BD%E4%BA%94%E5%86%A0%23" target="weibo">
 向鹏祝贺中国队包揽五冠（热度：12612）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%A5%B3%E5%AD%A9%E8%AF%B4%E6%AF%8F%E5%A4%A9%E9%83%BD%E6%9C%89%E8%91%AC%E7%A4%BC%23" target="weibo">
+加沙女孩说每天都有葬礼（热度：12571）
 </a>
 </li>
 
@@ -10083,26 +10095,14 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E5%A5%B3%E5%AD%A9%E8%AF%B4%E6%AF%8F%E5%A4%A9%E9%83%BD%E6%9C%89%E8%91%AC%E7%A4%BC%23" target="weibo">
-加沙女孩说每天都有葬礼（热度：11460）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%B0%86%E5%BC%80%E5%B1%95%E8%81%94%E5%90%88%E5%AE%9E%E5%85%B5%E6%BC%94%E7%BB%83%23" target="weibo">
+中国马来西亚将开展联合实兵演练（热度：11534）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E8%B7%AA%E5%9C%B0%E5%AD%A6%E7%94%9F%E8%B8%A9%E8%BF%87%E5%A6%82%E6%AD%A4%E6%95%99%E8%82%B2%E8%AF%A5%E8%B0%81%E6%84%A7%E7%96%9A%23" target="weibo">
 父母跪地学生踩过如此教育该谁愧疚（热度：11437）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%B0%86%E5%BC%80%E5%B1%95%E8%81%94%E5%90%88%E5%AE%9E%E5%85%B5%E6%BC%94%E7%BB%83%23" target="weibo">
-中国马来西亚将开展联合实兵演练（热度：11374）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A2%E5%9D%90%E6%BB%91%E9%81%93%E9%81%87%E8%9B%87%E4%BB%8E%E8%85%BF%E4%B8%8B%E7%A9%BF%E8%BF%87%23" target="weibo">
-景区回应游客坐滑道遇蛇从腿下穿过（热度：11255）
 </a>
 </li>
 
