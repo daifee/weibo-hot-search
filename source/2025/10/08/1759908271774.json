@@ -1,0 +1,410 @@
+{
+  "runTime": 1759908271774,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2266697,
+        "num": 2266697,
+        "word": "肖庆平车祸离世",
+        "onboard_time": 1759905021,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1024676,
+        "num": 1024676,
+        "word": "尹锡悦夫妇中秋节牢饭曝光",
+        "onboard_time": 1759902079,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22905,
+        "num": 441300,
+        "word": "县域旅游已成为一种时尚",
+        "onboard_time": 1759878197,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 439970,
+        "num": 439970,
+        "word": "美驻华大使馆宣布微博微信停更",
+        "onboard_time": 1759904902,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 382508,
+        "num": 382508,
+        "word": "人甚至共情不了国庆假期前的自己",
+        "onboard_time": 1759894761,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 381612,
+        "num": 381612,
+        "word": "国外很贵但国内却便宜的东西",
+        "onboard_time": 1759902201,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 376270,
+        "num": 376270,
+        "word": "王者荣耀",
+        "onboard_time": 1759904960,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 291893,
+        "num": 291893,
+        "word": "雪糕试吃员每天吃20根月薪能过万",
+        "onboard_time": 1759900222,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267479,
+        "num": 267479,
+        "word": "小偷通过刷视频定位偷走38万份子钱",
+        "onboard_time": 1759902621,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225211,
+        "num": 225211,
+        "word": "网上晒礼金家中38万现金被盗",
+        "onboard_time": 1759904299,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1014637,
+        "num": 223504,
+        "word": "李一桐美人余造型疑似抄袭许我耀眼",
+        "onboard_time": 1759902681,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 710170,
+        "num": 219268,
+        "word": "孟子义拍戏摔了",
+        "onboard_time": 1759894521,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458011,
+        "num": 217058,
+        "word": "UNINE合体",
+        "onboard_time": 1759907361,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401009,
+        "num": 213972,
+        "word": "高速堵成啥样了",
+        "onboard_time": 1759907120,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373026,
+        "num": 210208,
+        "word": "吴汉坤道歉",
+        "onboard_time": 1759905021,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353058,
+        "num": 206453,
+        "word": "西贝未回应嫌馒头贵不如努力赚钱",
+        "onboard_time": 1759902021,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336765,
+        "num": 205619,
+        "word": "马伯骞以为是马嘉祺不敢喊",
+        "onboard_time": 1759902380,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310967,
+        "num": 199424,
+        "word": "王一博轮胎冒烟",
+        "onboard_time": 1759905320,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 255391,
+        "num": 197521,
+        "word": "TaylorSwift忘了通知EdSheeran订婚",
+        "onboard_time": 1759900820,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58552,
+        "num": 193946,
+        "word": "杨澜呼吁大众警惕带状疱疹风险",
+        "onboard_time": 1759907120,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 228316,
+        "num": 190962,
+        "word": "一眼万年 李煜东",
+        "onboard_time": 1759900341,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225774,
+        "num": 187741,
+        "word": "张凌赫换头像",
+        "onboard_time": 1759897402,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186448,
+        "num": 186448,
+        "word": "快女谈莉娜婚礼",
+        "onboard_time": 1759890381,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174403,
+        "num": 174403,
+        "word": "卢昱晓杀回古偶了",
+        "onboard_time": 1759907002,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160922,
+        "num": 160922,
+        "word": "在offer7嗑到了真夫妻",
+        "onboard_time": 1759899020,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160069,
+        "num": 160069,
+        "word": "宋亚轩怎么到处都是",
+        "onboard_time": 1759907841,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150245,
+        "num": 150245,
+        "word": "李兰迪打火机转场都要美成啥了",
+        "onboard_time": 1759904240,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140271,
+        "num": 140271,
+        "word": "15岁女孩患癌肝被肿瘤占近半",
+        "onboard_time": 1759900940,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139837,
+        "num": 139837,
+        "word": "入青云",
+        "onboard_time": 1759897102,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135043,
+        "num": 135043,
+        "word": "尚雯婕长发完全是另一种感觉",
+        "onboard_time": 1759907301,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94877,
+        "num": 134343,
+        "word": "苏新皓还能再直接点么",
+        "onboard_time": 1759906642,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134273,
+        "num": 134273,
+        "word": "高速连续5个服务区进不了站",
+        "onboard_time": 1759907780,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133987,
+        "num": 133987,
+        "word": "假期最后一天在碳水天堂疯狂",
+        "onboard_time": 1759908141,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 133861,
+        "num": 133861,
+        "word": "黄金疯涨30克金镯价格超3万",
+        "onboard_time": 1759905741,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127366,
+        "num": 127366,
+        "word": "第一集撕第二集哈第三集嘶哈",
+        "onboard_time": 1759905980,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127000,
+        "num": 127000,
+        "word": "Ning说LPL选手对奖金没概念",
+        "onboard_time": 1759907421,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118100,
+        "num": 118100,
+        "word": "侯明昊人脉",
+        "onboard_time": 1759907900,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116778,
+        "num": 116778,
+        "word": "恋与深空",
+        "onboard_time": 1759889960,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 115940,
+        "num": 115940,
+        "word": "许凯复工进组了",
+        "onboard_time": 1759901961,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115231,
+        "num": 115231,
+        "word": "林孝埈蒙特利尔出战500和1500",
+        "onboard_time": 1759907961,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114758,
+        "num": 114758,
+        "word": "拉扯17集男女主终于亲了",
+        "onboard_time": 1759907660,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110977,
+        "num": 110977,
+        "word": "胡先煦三个月没和徐志胜搭上话",
+        "onboard_time": 1759899741,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109114,
+        "num": 109114,
+        "word": "原来腮红是王楚然自己化的",
+        "onboard_time": 1759904240,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108784,
+        "num": 108784,
+        "word": "王曼昱贴心说奖杯很重哦",
+        "onboard_time": 1759907361,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108170,
+        "num": 108170,
+        "word": "夜市套圈30元1500个圈",
+        "onboard_time": 1759907961,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101868,
+        "num": 101868,
+        "word": "成毅演蒙面刺客建议戴面罩",
+        "onboard_time": 1759901181,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100809,
+        "num": 100809,
+        "word": "三角洲行动道歉",
+        "onboard_time": 1759905921,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 96671,
+        "num": 96671,
+        "word": "这居然是陈鹤一",
+        "onboard_time": 1759908260,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95030,
+        "num": 95030,
+        "word": "offer7嘉宾最多的一期",
+        "onboard_time": 1759907120,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94870,
+        "num": 94870,
+        "word": "关晓彤往那一站就是国泰民安的感觉",
+        "onboard_time": 1759903880,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻中华文明#"
+    }
+  }
+}

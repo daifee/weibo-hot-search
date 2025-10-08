@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759906210563,
+  "endTime": 1759908271774,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -65,6 +65,14 @@
       "onboard_time": 1759658783,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2266697,
+      "num": 2266697,
+      "word": "肖庆平车祸离世",
+      "onboard_time": 1759905021,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1813954,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 1146142,
-      "num": 214890,
+      "num": 223504,
       "word": "李一桐美人余造型疑似抄袭许我耀眼",
       "onboard_time": 1759902681,
       "rank": 10,
@@ -859,14 +867,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 631501,
-      "num": 188193,
-      "word": "肖庆平车祸离世",
-      "onboard_time": 1759905021,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 629586,
       "num": 629586,
       "word": "收花生找到姥姥丢了12年的金镯",
@@ -1411,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 458011,
+      "num": 217058,
+      "word": "UNINE合体",
+      "onboard_time": 1759907361,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 457863,
       "num": 457863,
       "word": "雪糕试吃员每天吃20根月薪能过万",
@@ -1521,6 +1529,14 @@
       "onboard_time": 1759842744,
       "rank": 13,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 439970,
+      "num": 439970,
+      "word": "美驻华大使馆宣布微博微信停更",
+      "onboard_time": 1759904902,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 438654,
@@ -1699,6 +1715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401009,
+      "num": 213972,
+      "word": "高速堵成啥样了",
+      "onboard_time": 1759907120,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 397604,
       "num": 448502,
       "word": "大聪明已经提前到5号返程了",
@@ -1779,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 381612,
+      "num": 381612,
+      "word": "国外很贵但国内却便宜的东西",
+      "onboard_time": 1759902201,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
       "raw_hot": 379291,
       "num": 198946,
       "word": "猴子被游客扇巴掌",
@@ -1811,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 376270,
+      "num": 376270,
+      "word": "王者荣耀",
+      "onboard_time": 1759904960,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 375337,
       "num": 208653,
       "word": "赵磊首次回应26岁官宣结婚",
@@ -1833,6 +1873,14 @@
       "onboard_time": 1759634241,
       "rank": 31,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 373026,
+      "num": 210208,
+      "word": "吴汉坤道歉",
+      "onboard_time": 1759905021,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 372955,
@@ -2091,6 +2139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 336765,
+      "num": 205619,
+      "word": "马伯骞以为是马嘉祺不敢喊",
+      "onboard_time": 1759902380,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 334976,
       "num": 223905,
       "word": "老婆回应与张纪中的婚姻没有爱情",
@@ -2105,14 +2161,6 @@
       "onboard_time": 1759660942,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 332595,
-      "num": 332595,
-      "word": "国外很贵但国内却便宜的东西",
-      "onboard_time": 1759902201,
-      "rank": 6,
-      "category": "情感"
     },
     {
       "raw_hot": 332326,
@@ -2153,14 +2201,6 @@
       "onboard_time": 1759738760,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 329830,
-      "num": 329830,
-      "word": "王者荣耀",
-      "onboard_time": 1759904960,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 326981,
@@ -2363,6 +2403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 310967,
+      "num": 199424,
+      "word": "王一博轮胎冒烟",
+      "onboard_time": 1759905320,
+      "rank": 32,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 309941,
       "num": 191476,
       "word": "姐姐是魔丸弟弟就是灵珠",
@@ -2401,14 +2449,6 @@
       "onboard_time": 1759894341,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 304599,
-      "num": 185744,
-      "word": "吴汉坤道歉",
-      "onboard_time": 1759905021,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 302060,
@@ -2979,14 +3019,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 240517,
-      "num": 185324,
-      "word": "马伯骞以为是马嘉祺不敢喊",
-      "onboard_time": 1759902380,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 240484,
       "num": 240484,
       "word": "时代峰峻楼下 拍立得发布会",
@@ -3177,6 +3209,14 @@
       "onboard_time": 1759802840,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225211,
+      "num": 225211,
+      "word": "网上晒礼金家中38万现金被盗",
+      "onboard_time": 1759904299,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224190,
@@ -3803,14 +3843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 190836,
-      "num": 190836,
-      "word": "美驻华大使馆宣布微博微信停更",
-      "onboard_time": 1759904902,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 190738,
       "num": 190738,
       "word": "李沁 英气",
@@ -4211,14 +4243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178310,
-      "num": 178310,
-      "word": "王一博轮胎冒烟",
-      "onboard_time": 1759905320,
-      "rank": 32,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 178188,
       "num": 178188,
       "word": "柬警方解救一被绑架的19岁中国人",
@@ -4377,6 +4401,14 @@
       "onboard_time": 1759679360,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174403,
+      "num": 174403,
+      "word": "卢昱晓杀回古偶了",
+      "onboard_time": 1759907002,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 174327,
@@ -4851,12 +4883,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159924,
-      "num": 159924,
-      "word": "网上晒礼金家中38万现金被盗",
-      "onboard_time": 1759904299,
+      "raw_hot": 160069,
+      "num": 160069,
+      "word": "宋亚轩怎么到处都是",
+      "onboard_time": 1759907841,
       "rank": 25,
-      "category": "民生新闻"
+      "category": "艺人"
     },
     {
       "raw_hot": 159733,
@@ -5217,6 +5249,14 @@
       "onboard_time": 1759844663,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 150245,
+      "num": 150245,
+      "word": "李兰迪打火机转场都要美成啥了",
+      "onboard_time": 1759904240,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 149998,
@@ -5963,6 +6003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135043,
+      "num": 135043,
+      "word": "尚雯婕长发完全是另一种感觉",
+      "onboard_time": 1759907301,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134998,
       "num": 134998,
       "word": "伊朗计划引入北斗卫星导航系统",
@@ -6019,6 +6067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134273,
+      "num": 134273,
+      "word": "高速连续5个服务区进不了站",
+      "onboard_time": 1759907780,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134198,
       "num": 134198,
       "word": "iPadmini8售价",
@@ -6027,12 +6083,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 133987,
+      "num": 133987,
+      "word": "假期最后一天在碳水天堂疯狂",
+      "onboard_time": 1759908141,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 133970,
       "num": 133970,
       "word": "吴邪私家笔记",
       "onboard_time": 1759896981,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133861,
+      "num": 133861,
+      "word": "黄金疯涨30克金镯价格超3万",
+      "onboard_time": 1759905741,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 133671,
@@ -6363,6 +6435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127000,
+      "num": 127000,
+      "word": "Ning说LPL选手对奖金没概念",
+      "onboard_time": 1759907421,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126965,
       "num": 126965,
       "word": "檀健次跟骗子唠了5分钟",
@@ -6593,14 +6673,6 @@
       "onboard_time": 1759830081,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122918,
-      "num": 122918,
-      "word": "黄金疯涨30克金镯价格超3万",
-      "onboard_time": 1759905741,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 122871,
@@ -6923,6 +6995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118100,
+      "num": 118100,
+      "word": "侯明昊人脉",
+      "onboard_time": 1759907900,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117821,
       "num": 618225,
       "word": "再赏一次大江南北的中秋月",
@@ -7091,6 +7171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115231,
+      "num": 115231,
+      "word": "林孝埈蒙特利尔出战500和1500",
+      "onboard_time": 1759907961,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115159,
       "num": 115159,
       "word": "特朗普承认美国电网拖累AI发展",
@@ -7121,6 +7209,14 @@
       "onboard_time": 1759822641,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114758,
+      "num": 114758,
+      "word": "拉扯17集男女主终于亲了",
+      "onboard_time": 1759907660,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 114532,
@@ -7699,6 +7795,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 109114,
+      "num": 116996,
+      "word": "原来腮红是王楚然自己化的",
+      "onboard_time": 1759904240,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108968,
       "num": 136576,
       "word": "申裕斌晒北京烤鸭",
@@ -7713,6 +7817,14 @@
       "onboard_time": 1759807702,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108784,
+      "num": 108784,
+      "word": "王曼昱贴心说奖杯很重哦",
+      "onboard_time": 1759907361,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 108453,
@@ -7745,6 +7857,14 @@
       "onboard_time": 1759719019,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 108170,
+      "num": 108170,
+      "word": "夜市套圈30元1500个圈",
+      "onboard_time": 1759907961,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108114,
@@ -7993,14 +8113,6 @@
       "onboard_time": 1759654101,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105721,
-      "num": 118226,
-      "word": "李兰迪打火机转场都要美成啥了",
-      "onboard_time": 1759904240,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 105706,
@@ -8779,6 +8891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96671,
+      "num": 96671,
+      "word": "这居然是陈鹤一",
+      "onboard_time": 1759908260,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96656,
       "num": 96656,
       "word": "王楚钦专注迎接半决赛",
@@ -8907,6 +9027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95030,
+      "num": 95030,
+      "word": "offer7嘉宾最多的一期",
+      "onboard_time": 1759907120,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94967,
       "num": 94967,
       "word": "中国人放假东非大草原都堵车了",
@@ -8921,6 +9049,14 @@
       "onboard_time": 1759823000,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94877,
+      "num": 134343,
+      "word": "苏新皓还能再直接点么",
+      "onboard_time": 1759906642,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 94619,
@@ -9843,14 +9979,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 81350,
-      "num": 116996,
-      "word": "原来腮红是王楚然自己化的",
-      "onboard_time": 1759904240,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 81263,
       "num": 81263,
       "word": "DRG强势拿下四连胜",
@@ -10553,6 +10681,14 @@
       "onboard_time": 1759716260,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 58552,
+      "num": 193946,
+      "word": "杨澜呼吁大众警惕带状疱疹风险",
+      "onboard_time": 1759907120,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 58133,
