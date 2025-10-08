@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/09 05:23:17
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/09 05:36:52
 </p>
 </blockquote>
 <p>
@@ -9741,6 +9741,12 @@ WTT更新北满冠军宣传照（热度：43795）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94%E8%8A%92%E6%9E%9C%E7%A4%BC%E7%9B%92%E5%86%85%E8%97%8F%E8%AF%95%E5%8D%B7%E8%AF%BE%E6%9C%AC%23" target="weibo">
+商家回应芒果礼盒内藏试卷课本（热度：27870）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BE%B7%E5%A7%86%E9%80%BC%E8%BF%91%E5%B9%BF%E4%B8%9C%E6%8E%80%E8%B5%B75%E7%B1%B3%E5%B7%A8%E6%B5%AA%23" target="weibo">
 麦德姆逼近广东掀起5米巨浪（热度：27753）
 </a>
@@ -9915,8 +9921,8 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%94%E8%8A%92%E6%9E%9C%E7%A4%BC%E7%9B%92%E5%86%85%E8%97%8F%E8%AF%95%E5%8D%B7%E8%AF%BE%E6%9C%AC%23" target="weibo">
-商家回应芒果礼盒内藏试卷课本（热度：19300）
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A2%E5%9D%90%E6%BB%91%E9%81%93%E9%81%87%E8%9B%87%E4%BB%8E%E8%85%BF%E4%B8%8B%E7%A9%BF%E8%BF%87%23" target="weibo">
+景区回应游客坐滑道遇蛇从腿下穿过（热度：18837）
 </a>
 </li>
 
@@ -9959,12 +9965,6 @@ CP2025SP（热度：26632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%8D%E6%83%B3%E5%90%AC%E5%88%B08%E8%BF%99%E4%B8%AA%E5%AD%97%23" target="weibo">
 我不想听到8这个字（热度：16959）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%B8%B8%E5%AE%A2%E5%9D%90%E6%BB%91%E9%81%93%E9%81%87%E8%9B%87%E4%BB%8E%E8%85%BF%E4%B8%8B%E7%A9%BF%E8%BF%87%23" target="weibo">
-景区回应游客坐滑道遇蛇从腿下穿过（热度：16811）
 </a>
 </li>
 
@@ -10096,7 +10096,7 @@ CP2025SP（热度：26632）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%B0%86%E5%BC%80%E5%B1%95%E8%81%94%E5%90%88%E5%AE%9E%E5%85%B5%E6%BC%94%E7%BB%83%23" target="weibo">
-中国马来西亚将开展联合实兵演练（热度：11534）
+中国马来西亚将开展联合实兵演练（热度：11549）
 </a>
 </li>
 
