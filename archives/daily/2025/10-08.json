@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759937278022,
+  "endTime": 1759938130680,
   "band_list": [
     {
       "raw_hot": 2521495,
@@ -219,20 +219,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 692929,
+      "num": 1110868,
+      "word": "鸡排哥上央视了",
+      "onboard_time": 1759934721,
+      "rank": 0,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 648751,
       "num": 648751,
       "word": "JDG输越南队",
       "onboard_time": 1759913121,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 642678,
-      "num": 1102828,
-      "word": "鸡排哥上央视了",
-      "onboard_time": 1759934721,
-      "rank": 0,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 636519,
@@ -507,6 +507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 381263,
+      "num": 381263,
+      "word": "蜜雪冰城小票藏连载小说",
+      "onboard_time": 1759935922,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376438,
       "num": 376438,
       "word": "因女友与走失女孩撞脸男子被误抓",
@@ -521,6 +529,14 @@
       "onboard_time": 1759904960,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 374075,
+      "num": 374075,
+      "word": "疑似马来西亚失联二人照片曝光",
+      "onboard_time": 1759933943,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 373026,
@@ -641,14 +657,6 @@
       "onboard_time": 1759848024,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 311420,
-      "num": 311420,
-      "word": "疑似马来西亚失联二人照片曝光",
-      "onboard_time": 1759933943,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 310967,
@@ -777,14 +785,6 @@
       "onboard_time": 1759841603,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 276019,
-      "num": 276019,
-      "word": "蜜雪冰城小票藏连载小说",
-      "onboard_time": 1759935922,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 275763,
@@ -945,6 +945,14 @@
       "onboard_time": 1759883059,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 237235,
+      "num": 186737,
+      "word": "小酒窝和爸爸妈妈关系都很好",
+      "onboard_time": 1759932080,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 233979,
@@ -1179,14 +1187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186737,
-      "num": 186737,
-      "word": "小酒窝和爸爸妈妈关系都很好",
-      "onboard_time": 1759932080,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186376,
       "num": 186376,
       "word": "中国大满贯收入近1.54亿",
@@ -1337,6 +1337,14 @@
       "onboard_time": 1759878617,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169683,
+      "num": 169683,
+      "word": "赵今麦miumiu第一个单人共创艺人",
+      "onboard_time": 1759936282,
+      "rank": 23,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 169562,
@@ -1643,6 +1651,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 148218,
+      "num": 148218,
+      "word": "薛之谦自拍",
+      "onboard_time": 1759937002,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147343,
       "num": 147343,
       "word": "王鹤润用6小时说了521",
@@ -1657,14 +1673,6 @@
       "onboard_time": 1759901961,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144487,
-      "num": 144487,
-      "word": "赵今麦miumiu第一个单人共创艺人",
-      "onboard_time": 1759936282,
-      "rank": 23,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 143989,
@@ -1987,6 +1995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126604,
+      "num": 126604,
+      "word": "下高速",
+      "onboard_time": 1759937541,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126278,
       "num": 126278,
       "word": "原来腮红是王楚然自己化的",
@@ -2091,6 +2107,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120968,
+      "num": 120968,
+      "word": "许我耀眼第29集预告",
+      "onboard_time": 1759937480,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120501,
+      "num": 120501,
+      "word": "刘萧旭郭宇欣 接二搭",
+      "onboard_time": 1759936580,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120386,
+      "num": 120386,
+      "word": "张继科说比赛输了就没下次了",
+      "onboard_time": 1759936220,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120104,
       "num": 120104,
       "word": "杜海涛到了伦敦冒充王嘉尔",
@@ -2129,14 +2169,6 @@
       "onboard_time": 1759842744,
       "rank": 22,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 118681,
-      "num": 118681,
-      "word": "张继科说比赛输了就没下次了",
-      "onboard_time": 1759936220,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 118428,
@@ -2427,6 +2459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 105334,
+      "num": 105334,
+      "word": "胖东来国庆6天卖了6.81亿",
+      "onboard_time": 1759934662,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 104840,
       "num": 104840,
       "word": "意面来了中国也得被炒着吃",
@@ -2467,20 +2507,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103697,
+      "num": 103697,
+      "word": "夏梦不准气人了",
+      "onboard_time": 1759936941,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103608,
       "num": 178495,
       "word": "Angelababy杂志",
       "onboard_time": 1759912642,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102909,
-      "num": 102909,
-      "word": "刘萧旭郭宇欣 接二搭",
-      "onboard_time": 1759936580,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 101810,
@@ -2587,14 +2627,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 96882,
-      "num": 96882,
-      "word": "薛之谦自拍",
-      "onboard_time": 1759937002,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96279,
       "num": 96279,
       "word": "NIP对战VKE",
@@ -2699,14 +2731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 93848,
-      "num": 93848,
-      "word": "胖东来国庆6天卖了6.81亿",
-      "onboard_time": 1759934662,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
       "raw_hot": 93650,
       "num": 93650,
       "word": "韩东君新剧终于上位了",
@@ -2777,6 +2801,14 @@
       "onboard_time": 1759882338,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91003,
+      "num": 91003,
+      "word": "梅总抽筋",
+      "onboard_time": 1759937361,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 90759,
@@ -2929,14 +2961,6 @@
       "onboard_time": 1759879458,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84900,
-      "num": 84900,
-      "word": "夏梦不准气人了",
-      "onboard_time": 1759936941,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 84291,
@@ -3105,6 +3129,14 @@
       "onboard_time": 1759885760,
       "rank": 47,
       "category": "军事"
+    },
+    {
+      "raw_hot": 71846,
+      "num": 71846,
+      "word": "吴磊率先破门得分",
+      "onboard_time": 1759935682,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 71411,
@@ -3379,6 +3411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34255,
+      "num": 88109,
+      "word": "堵车时高速判官出手了",
+      "onboard_time": 1759937182,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34056,
       "num": 106888,
       "word": "节后上班前三天不宜高强度工作",
@@ -3393,14 +3433,6 @@
       "onboard_time": 1759856958,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 31692,
-      "num": 85352,
-      "word": "堵车时高速判官出手了",
-      "onboard_time": 1759937182,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31493,
