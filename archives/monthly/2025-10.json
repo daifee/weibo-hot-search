@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759923432233,
+  "endTime": 1759927963403,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -312,6 +312,14 @@
       "word": "王菊晒和李纯在婚姻登记处合照",
       "onboard_time": 1759382181,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1439682,
+      "num": 195663,
+      "word": "年羹尧的儿子分享生活",
+      "onboard_time": 1759924520,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1323,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 815333,
+      "num": 194197,
+      "word": "网红猴哥说车官宣离婚",
+      "onboard_time": 1759925001,
+      "rank": 11,
+      "category": "汽车,网红"
+    },
+    {
       "raw_hot": 814211,
       "num": 237981,
       "word": "卢远 王乐晨",
@@ -1425,6 +1441,14 @@
       "onboard_time": 1759373599,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 787970,
+      "num": 787970,
+      "word": "景德镇一汽车下坡突然起飞",
+      "onboard_time": 1759924642,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 779523,
@@ -2393,6 +2417,14 @@
       "onboard_time": 1759411941,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 557602,
+      "num": 192225,
+      "word": "肖战巴黎",
+      "onboard_time": 1759924402,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 555665,
@@ -4323,6 +4355,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 359914,
+      "num": 191615,
+      "word": "卢昱晓新剧台词尺度",
+      "onboard_time": 1759920800,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359278,
       "num": 359278,
       "word": "林诗栋无缘中国大满贯决赛",
@@ -4745,6 +4785,14 @@
       "onboard_time": 1759369339,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325353,
+      "num": 325353,
+      "word": "网友称买10斤芒果礼盒3斤是书",
+      "onboard_time": 1759923142,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 324012,
@@ -6321,6 +6369,14 @@
       "onboard_time": 1759714519,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248294,
+      "num": 188028,
+      "word": "王一博和对手握手合影",
+      "onboard_time": 1759926021,
+      "rank": 17,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 247378,
@@ -8067,6 +8123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196190,
+      "num": 196190,
+      "word": "小狗 请删除偷拍我的照片",
+      "onboard_time": 1759923920,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196185,
       "num": 196185,
       "word": "中秋节快乐",
@@ -9547,6 +9611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173042,
+      "num": 173042,
+      "word": "入青云热度",
+      "onboard_time": 1759922780,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172987,
       "num": 172987,
       "word": "张杰百场直播",
@@ -10377,14 +10449,6 @@
       "onboard_time": 1759566320,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 162709,
-      "num": 162709,
-      "word": "卢昱晓新剧台词尺度",
-      "onboard_time": 1759920800,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 162400,
@@ -11891,14 +11955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143870,
-      "num": 143870,
-      "word": "入青云热度",
-      "onboard_time": 1759922780,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143693,
       "num": 143693,
       "word": "卢昱晓把倪妮摇来了",
@@ -11985,6 +12041,14 @@
       "onboard_time": 1759387221,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142936,
+      "num": 142936,
+      "word": "接下来三个月只剩下例假了",
+      "onboard_time": 1759920859,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 142858,
@@ -12891,6 +12955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135086,
+      "num": 135086,
+      "word": "当地回应景德镇一汽车凌空飞起",
+      "onboard_time": 1759925121,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135052,
       "num": 135052,
       "word": "王楚钦冲三冠王",
@@ -12913,6 +12985,14 @@
       "onboard_time": 1759718600,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 134979,
+      "num": 134979,
+      "word": "年轻情侣忘情接吻险从扶梯摔下",
+      "onboard_time": 1759926741,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134892,
@@ -13291,6 +13371,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 131961,
+      "num": 131961,
+      "word": "那艺娜 道如歉",
+      "onboard_time": 1759923861,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131905,
       "num": 131905,
       "word": "周深 你猜话筒为啥没声",
@@ -13571,6 +13659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 129512,
+      "num": 129512,
+      "word": "华为回应多款APP无法完全适配",
+      "onboard_time": 1759926021,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 129505,
       "num": 126113,
       "word": "邓布利多 爱是最伟大的魔法",
@@ -13592,14 +13688,6 @@
       "word": "发现小猫每天偷偷称体重",
       "onboard_time": 1759656981,
       "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 129326,
-      "num": 129326,
-      "word": "接下来三个月只剩下例假了",
-      "onboard_time": 1759920859,
-      "rank": 47,
       "category": "幽默"
     },
     {
@@ -14075,6 +14163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125241,
+      "num": 125241,
+      "word": "CELINE中国队 对眼睛很友好",
+      "onboard_time": 1759923202,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 125217,
       "num": 125217,
       "word": "很快就能体会到七天有多长了",
@@ -14411,6 +14507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122280,
+      "num": 120551,
+      "word": "动物园老虎被观光车压到下巴",
+      "onboard_time": 1759927461,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122269,
       "num": 122269,
       "word": "许我耀眼26集预告",
@@ -14657,6 +14761,14 @@
       "onboard_time": 1759667184,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 120151,
+      "num": 120151,
+      "word": "总要去看看东北的秋天吧",
+      "onboard_time": 1759927761,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 120102,
@@ -15353,14 +15465,6 @@
       "onboard_time": 1759592601,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 115599,
-      "num": 115599,
-      "word": "网友称买10斤芒果礼盒3斤是书",
-      "onboard_time": 1759923142,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115583,
@@ -16323,6 +16427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110604,
+      "num": 110604,
+      "word": "交警高速路上教科书式发糖",
+      "onboard_time": 1759926440,
+      "rank": 34,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 110524,
       "num": 110524,
       "word": "樊振东微博粉丝突破900万",
@@ -17123,6 +17235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106966,
+      "num": 106966,
+      "word": "贾宝玉大婚也是这么拍的",
+      "onboard_time": 1759926501,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106964,
       "num": 106964,
       "word": "如果你觉得国庆这8天很短",
@@ -17312,6 +17432,14 @@
       "word": "林诗栋4比0宇田幸矢",
       "onboard_time": 1759464500,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106101,
+      "num": 106101,
+      "word": "苏超淘汰赛无锡vs盐城",
+      "onboard_time": 1759927101,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -17841,6 +17969,14 @@
       "onboard_time": 1759290920,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 103708,
+      "num": 103708,
+      "word": "NIP战胜VKE",
+      "onboard_time": 1759925001,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 103674,
@@ -18915,6 +19051,14 @@
       "category": "情感,运动健身"
     },
     {
+      "raw_hot": 98078,
+      "num": 98078,
+      "word": "VKE全员掉线",
+      "onboard_time": 1759925482,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98041,
       "num": 121273,
       "word": "王楚钦旋转跳跃我举着手",
@@ -19081,6 +19225,14 @@
       "onboard_time": 1759555099,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97293,
+      "num": 97293,
+      "word": "大疆线下门店仅对7天内顾客退差价",
+      "onboard_time": 1759926683,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 97247,
@@ -19489,6 +19641,14 @@
       "onboard_time": 1759652780,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95113,
+      "num": 95113,
+      "word": "丹麦11至19岁男生60%宁愿宅在家里",
+      "onboard_time": 1759926683,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 95112,
@@ -19947,6 +20107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92713,
+      "num": 92713,
+      "word": "还有什么是Paraboy不会的",
+      "onboard_time": 1759927342,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92700,
       "num": 92700,
       "word": "高市当选后日本网民高喊完了",
@@ -20299,14 +20467,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90701,
-      "num": 90701,
-      "word": "CELINE中国队 对眼睛很友好",
-      "onboard_time": 1759923202,
-      "rank": 48,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 90668,
       "num": 90668,
       "word": "美政府为何老关门",
@@ -20321,6 +20481,14 @@
       "onboard_time": 1759733001,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90643,
+      "num": 90643,
+      "word": "南北温差有多大",
+      "onboard_time": 1759924461,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90635,
@@ -20665,6 +20833,14 @@
       "onboard_time": 1759394601,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 88387,
+      "num": 88387,
+      "word": "公主毛利兰",
+      "onboard_time": 1759927881,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 88278,
@@ -21473,6 +21649,14 @@
       "onboard_time": 1759728621,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 84291,
+      "num": 84291,
+      "word": "安徽吴庄收费站约12万辆车通过",
+      "onboard_time": 1759926561,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84259,

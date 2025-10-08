@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759923432233,
+  "endTime": 1759927963403,
   "band_list": [
     {
       "raw_hot": 2521495,
@@ -33,6 +33,14 @@
       "onboard_time": 1759907120,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1439682,
+      "num": 195663,
+      "word": "年羹尧的儿子分享生活",
+      "onboard_time": 1759924520,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1342050,
@@ -139,12 +147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 815333,
+      "num": 194197,
+      "word": "网红猴哥说车官宣离婚",
+      "onboard_time": 1759925001,
+      "rank": 11,
+      "category": "汽车,网红"
+    },
+    {
       "raw_hot": 796955,
       "num": 254144,
       "word": "张凌赫换头像",
       "onboard_time": 1759897402,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 787970,
+      "num": 787970,
+      "word": "景德镇一汽车下坡突然起飞",
+      "onboard_time": 1759924642,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 770502,
@@ -217,6 +241,14 @@
       "onboard_time": 1759890021,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 557602,
+      "num": 192225,
+      "word": "肖战巴黎",
+      "onboard_time": 1759924402,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 551678,
@@ -451,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359914,
+      "num": 191615,
+      "word": "卢昱晓新剧台词尺度",
+      "onboard_time": 1759920800,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 355735,
       "num": 323575,
       "word": "刘宇宁不拍杂志的原因",
@@ -473,6 +513,14 @@
       "onboard_time": 1759902380,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 325353,
+      "num": 325353,
+      "word": "网友称买10斤芒果礼盒3斤是书",
+      "onboard_time": 1759923142,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 323347,
@@ -707,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248294,
+      "num": 188028,
+      "word": "王一博和对手握手合影",
+      "onboard_time": 1759926021,
+      "rank": 17,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 243270,
       "num": 243270,
       "word": "恋与深空 夏以昼",
@@ -857,6 +913,14 @@
       "onboard_time": 1759844304,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 196190,
+      "num": 196190,
+      "word": "小狗 请删除偷拍我的照片",
+      "onboard_time": 1759923920,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 194960,
@@ -1075,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173042,
+      "num": 173042,
+      "word": "入青云热度",
+      "onboard_time": 1759922780,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172032,
       "num": 172032,
       "word": "胡杏儿来内娱再火一次怎么了",
@@ -1139,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164106,
+      "num": 164106,
+      "word": "许我耀眼",
+      "onboard_time": 1759833440,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164032,
       "num": 164032,
       "word": "成毅演蒙面刺客建议戴面罩",
@@ -1153,14 +1233,6 @@
       "onboard_time": 1759899020,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162709,
-      "num": 162709,
-      "word": "卢昱晓新剧台词尺度",
-      "onboard_time": 1759920800,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 160399,
@@ -1363,20 +1435,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143870,
-      "num": 143870,
-      "word": "入青云热度",
-      "onboard_time": 1759922780,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143693,
       "num": 143693,
       "word": "卢昱晓把倪妮摇来了",
       "onboard_time": 1759901600,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142936,
+      "num": 142936,
+      "word": "接下来三个月只剩下例假了",
+      "onboard_time": 1759920859,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 142140,
@@ -1467,12 +1539,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135086,
+      "num": 135086,
+      "word": "当地回应景德镇一汽车凌空飞起",
+      "onboard_time": 1759925121,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135043,
       "num": 135043,
       "word": "尚雯婕长发完全是另一种感觉",
       "onboard_time": 1759907301,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134979,
+      "num": 134979,
+      "word": "年轻情侣忘情接吻险从扶梯摔下",
+      "onboard_time": 1759926741,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134973,
@@ -1547,6 +1635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 131961,
+      "num": 131961,
+      "word": "那艺娜 道如歉",
+      "onboard_time": 1759923861,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131710,
       "num": 131710,
       "word": "长安二十四计",
@@ -1579,20 +1675,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130083,
-      "num": 130083,
-      "word": "许我耀眼",
-      "onboard_time": 1759833440,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 129326,
-      "num": 129326,
-      "word": "接下来三个月只剩下例假了",
-      "onboard_time": 1759920859,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 129512,
+      "num": 129512,
+      "word": "华为回应多款APP无法完全适配",
+      "onboard_time": 1759926021,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 129236,
@@ -1643,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125241,
+      "num": 125241,
+      "word": "CELINE中国队 对眼睛很友好",
+      "onboard_time": 1759923202,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 124405,
       "num": 124405,
       "word": "假期最后一天的心情",
@@ -1675,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122280,
+      "num": 120551,
+      "word": "动物园老虎被观光车压到下巴",
+      "onboard_time": 1759927461,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121500,
       "num": 121500,
       "word": "马主回应70多匹马下山时被绑前腿",
@@ -1697,6 +1801,14 @@
       "onboard_time": 1759917082,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120151,
+      "num": 120151,
+      "word": "总要去看看东北的秋天吧",
+      "onboard_time": 1759927761,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 120104,
@@ -1779,14 +1891,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 115599,
-      "num": 115599,
-      "word": "网友称买10斤芒果礼盒3斤是书",
-      "onboard_time": 1759923142,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115559,
       "num": 115559,
       "word": "丁程鑫哈尔滨路演路透",
@@ -1867,6 +1971,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110604,
+      "num": 110604,
+      "word": "交警高速路上教科书式发糖",
+      "onboard_time": 1759926440,
+      "rank": 34,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 110447,
       "num": 110447,
       "word": "湖人众将谈詹姆斯决定二",
@@ -1931,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107593,
+      "num": 107593,
+      "word": "苏超",
+      "onboard_time": 1759927101,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107166,
       "num": 107166,
       "word": "原来侯明昊是接了个虐文本",
@@ -1955,6 +2075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106966,
+      "num": 106966,
+      "word": "贾宝玉大婚也是这么拍的",
+      "onboard_time": 1759926501,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106943,
       "num": 106943,
       "word": "朋友等我时遭轰炸全部遇难",
@@ -1977,6 +2105,14 @@
       "onboard_time": 1759905921,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 106101,
+      "num": 106101,
+      "word": "苏超淘汰赛无锡vs盐城",
+      "onboard_time": 1759927101,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 105706,
@@ -2017,6 +2153,14 @@
       "onboard_time": 1759908320,
       "rank": 39,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 103708,
+      "num": 103708,
+      "word": "NIP战胜VKE",
+      "onboard_time": 1759925001,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 103608,
@@ -2075,6 +2219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98078,
+      "num": 98078,
+      "word": "VKE全员掉线",
+      "onboard_time": 1759925482,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98029,
       "num": 124054,
       "word": "37岁男子持刀致1死被抓",
@@ -2105,6 +2257,14 @@
       "onboard_time": 1759883780,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97293,
+      "num": 97293,
+      "word": "大疆线下门店仅对7天内顾客退差价",
+      "onboard_time": 1759926683,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 96279,
@@ -2155,6 +2315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95113,
+      "num": 95113,
+      "word": "丹麦11至19岁男生60%宁愿宅在家里",
+      "onboard_time": 1759926683,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 95112,
       "num": 120573,
       "word": "LPL醒一醒",
@@ -2193,6 +2361,14 @@
       "onboard_time": 1759900702,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92713,
+      "num": 92713,
+      "word": "还有什么是Paraboy不会的",
+      "onboard_time": 1759927342,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 92566,
@@ -2243,12 +2419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90701,
-      "num": 90701,
-      "word": "CELINE中国队 对眼睛很友好",
-      "onboard_time": 1759923202,
-      "rank": 48,
-      "category": "作品衍生,时尚"
+      "raw_hot": 90643,
+      "num": 90643,
+      "word": "南北温差有多大",
+      "onboard_time": 1759924461,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90565,
@@ -2299,6 +2475,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 88387,
+      "num": 88387,
+      "word": "公主毛利兰",
+      "onboard_time": 1759927881,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 86673,
       "num": 115752,
       "word": "姐姐失踪4年被发现时已成干尸",
@@ -2344,6 +2528,14 @@
       "word": "文化中国行寒露节气",
       "onboard_time": 1759879458,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84291,
+      "num": 84291,
+      "word": "安徽吴庄收费站约12万辆车通过",
+      "onboard_time": 1759926561,
+      "rank": 49,
       "category": "民生新闻"
     },
     {

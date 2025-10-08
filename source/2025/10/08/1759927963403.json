@@ -1,0 +1,410 @@
+{
+  "runTime": 1759927963403,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1035291,
+        "num": 1165646,
+        "word": "8天很短 7天很长",
+        "onboard_time": 1759915401,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 787970,
+        "num": 787970,
+        "word": "景德镇一汽车下坡突然起飞",
+        "onboard_time": 1759924642,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32315,
+        "num": 506948,
+        "word": "国庆假期超24亿人次跨区域流动",
+        "onboard_time": 1759900101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 467258,
+        "num": 467258,
+        "word": "高速堵成啥样了",
+        "onboard_time": 1759907120,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325353,
+        "num": 325353,
+        "word": "网友称买10斤芒果礼盒3斤是书",
+        "onboard_time": 1759923142,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277145,
+        "num": 277145,
+        "word": "王者荣耀 补偿我一个荣耀水晶",
+        "onboard_time": 1759916901,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264951,
+        "num": 264951,
+        "word": "吴庄收费站 震撼",
+        "onboard_time": 1759912881,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214905,
+        "num": 214905,
+        "word": "今年冬天将更冷",
+        "onboard_time": 1759913481,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210490,
+        "num": 210490,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1759914141,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196190,
+        "num": 196190,
+        "word": "小狗 请删除偷拍我的照片",
+        "onboard_time": 1759923920,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1439682,
+        "num": 195663,
+        "word": "年羹尧的儿子分享生活",
+        "onboard_time": 1759924520,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 815333,
+        "num": 194197,
+        "word": "网红猴哥说车官宣离婚",
+        "onboard_time": 1759925001,
+        "rank": 11,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 799700,
+        "num": 193934,
+        "word": "鸡排哥成立工作室",
+        "onboard_time": 1759913961,
+        "rank": 12,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 557602,
+        "num": 192225,
+        "word": "肖战巴黎",
+        "onboard_time": 1759924402,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359914,
+        "num": 191615,
+        "word": "卢昱晓新剧台词尺度",
+        "onboard_time": 1759920800,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 318140,
+        "num": 190376,
+        "word": "肖庆平车祸离世",
+        "onboard_time": 1759905021,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296047,
+        "num": 189325,
+        "word": "盛夏芬德拉见面会",
+        "onboard_time": 1759919720,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248294,
+        "num": 188028,
+        "word": "王一博和对手握手合影",
+        "onboard_time": 1759926021,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 187295,
+        "num": 187295,
+        "word": "日本男爱豆当街暴露下体被捕",
+        "onboard_time": 1759913241,
+        "rank": 18,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 173042,
+        "num": 173042,
+        "word": "入青云热度",
+        "onboard_time": 1759922780,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164106,
+        "num": 164106,
+        "word": "许我耀眼",
+        "onboard_time": 1759921221,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142936,
+        "num": 142936,
+        "word": "接下来三个月只剩下例假了",
+        "onboard_time": 1759920859,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135086,
+        "num": 135086,
+        "word": "当地回应景德镇一汽车凌空飞起",
+        "onboard_time": 1759925121,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134979,
+        "num": 134979,
+        "word": "年轻情侣忘情接吻险从扶梯摔下",
+        "onboard_time": 1759926741,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131961,
+        "num": 131961,
+        "word": "那艺娜 道如歉",
+        "onboard_time": 1759923861,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129512,
+        "num": 129512,
+        "word": "华为回应多款APP无法完全适配",
+        "onboard_time": 1759926021,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125241,
+        "num": 125241,
+        "word": "CELINE中国队 对眼睛很友好",
+        "onboard_time": 1759923202,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125239,
+        "num": 125239,
+        "word": "李一桐美人余造型疑似抄袭许我耀眼",
+        "onboard_time": 1759902681,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121830,
+        "num": 121830,
+        "word": "女子结婚8年才发现喜被里有红枣",
+        "onboard_time": 1759910900,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55807,
+        "num": 120593,
+        "word": "Angelababy杂志",
+        "onboard_time": 1759912642,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122280,
+        "num": 120551,
+        "word": "动物园老虎被观光车压到下巴",
+        "onboard_time": 1759927461,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120509,
+        "num": 120509,
+        "word": "统一必胜台独必亡",
+        "onboard_time": 1759910181,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120151,
+        "num": 120151,
+        "word": "总要去看看东北的秋天吧",
+        "onboard_time": 1759927761,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 111640,
+        "num": 111640,
+        "word": "3名诺贝尔化学奖得主履历",
+        "onboard_time": 1759922119,
+        "rank": 33,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 110604,
+        "num": 110604,
+        "word": "交警高速路上教科书式发糖",
+        "onboard_time": 1759926440,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 107593,
+        "num": 107593,
+        "word": "苏超",
+        "onboard_time": 1759927101,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106966,
+        "num": 106966,
+        "word": "贾宝玉大婚也是这么拍的",
+        "onboard_time": 1759926501,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106101,
+        "num": 106101,
+        "word": "苏超淘汰赛无锡vs盐城",
+        "onboard_time": 1759927101,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103708,
+        "num": 103708,
+        "word": "NIP战胜VKE",
+        "onboard_time": 1759925001,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100698,
+        "num": 100698,
+        "word": "JDG输越南队",
+        "onboard_time": 1759913121,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99278,
+        "num": 99278,
+        "word": "西贝又开始排队了",
+        "onboard_time": 1759921640,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98078,
+        "num": 98078,
+        "word": "VKE全员掉线",
+        "onboard_time": 1759925482,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97293,
+        "num": 97293,
+        "word": "大疆线下门店仅对7天内顾客退差价",
+        "onboard_time": 1759926683,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 95113,
+        "num": 95113,
+        "word": "丹麦11至19岁男生60%宁愿宅在家里",
+        "onboard_time": 1759926683,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 92713,
+        "num": 92713,
+        "word": "还有什么是Paraboy不会的",
+        "onboard_time": 1759927342,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91962,
+        "num": 91962,
+        "word": "谢霆锋你最好给我一个解释",
+        "onboard_time": 1759918940,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90643,
+        "num": 90643,
+        "word": "南北温差有多大",
+        "onboard_time": 1759924461,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88387,
+        "num": 88387,
+        "word": "公主毛利兰",
+        "onboard_time": 1759927881,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 87745,
+        "num": 87745,
+        "word": "中国留学生潜水失踪只找到根遗骨",
+        "onboard_time": 1759921580,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84291,
+        "num": 84291,
+        "word": "安徽吴庄收费站约12万辆车通过",
+        "onboard_time": 1759926561,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记打卡古城老街#"
+    }
+  }
+}
