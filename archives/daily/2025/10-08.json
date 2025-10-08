@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759934696912,
+  "endTime": 1759937278022,
   "band_list": [
     {
       "raw_hot": 2521495,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1084271,
+      "num": 378455,
+      "word": "鸡排哥商标已被别人持有9年",
+      "onboard_time": 1759931960,
+      "rank": 23,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 1078242,
       "num": 1078242,
       "word": "吴庄收费站 震撼",
@@ -217,6 +225,14 @@
       "onboard_time": 1759913121,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 642678,
+      "num": 1102828,
+      "word": "鸡排哥上央视了",
+      "onboard_time": 1759934721,
+      "rank": 0,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 636519,
@@ -491,14 +507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 378455,
-      "num": 378455,
-      "word": "鸡排哥商标已被别人持有9年",
-      "onboard_time": 1759931960,
-      "rank": 23,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 376438,
       "num": 376438,
       "word": "因女友与走失女孩撞脸男子被误抓",
@@ -635,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311420,
+      "num": 311420,
+      "word": "疑似马来西亚失联二人照片曝光",
+      "onboard_time": 1759933943,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310967,
       "num": 243942,
       "word": "王一博轮胎冒烟",
@@ -761,6 +777,14 @@
       "onboard_time": 1759841603,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 276019,
+      "num": 276019,
+      "word": "蜜雪冰城小票藏连载小说",
+      "onboard_time": 1759935922,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275763,
@@ -1107,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189780,
+      "num": 189780,
+      "word": "林忆莲帅成啥了",
+      "onboard_time": 1759936102,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189701,
       "num": 189701,
       "word": "曾黎种了两个半月的玉米被虫子吃了",
@@ -1145,6 +1177,14 @@
       "onboard_time": 1759922780,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186737,
+      "num": 186737,
+      "word": "小酒窝和爸爸妈妈关系都很好",
+      "onboard_time": 1759932080,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 186376,
@@ -1619,6 +1659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144487,
+      "num": 144487,
+      "word": "赵今麦miumiu第一个单人共创艺人",
+      "onboard_time": 1759936282,
+      "rank": 23,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 143989,
       "num": 143989,
       "word": "刘宇宁说不需要辱追粉",
@@ -1899,14 +1947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129269,
-      "num": 129269,
-      "word": "小酒窝和爸爸妈妈关系都很好",
-      "onboard_time": 1759932080,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129236,
       "num": 129236,
       "word": "张予曦出门拍戏半年回来仍是毛坯",
@@ -2091,6 +2131,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 118681,
+      "num": 118681,
+      "word": "张继科说比赛输了就没下次了",
+      "onboard_time": 1759936220,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118428,
       "num": 118428,
       "word": "原来动画片演的都是真的",
@@ -2177,6 +2225,14 @@
       "onboard_time": 1759926440,
       "rank": 34,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 113193,
+      "num": 113193,
+      "word": "上海701万彩票大奖仅剩1个兑奖日",
+      "onboard_time": 1759931183,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112458,
@@ -2419,6 +2475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102909,
+      "num": 102909,
+      "word": "刘萧旭郭宇欣 接二搭",
+      "onboard_time": 1759936580,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101810,
       "num": 101810,
       "word": "Faker147场世界赛胜率74%",
@@ -2523,6 +2587,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 96882,
+      "num": 96882,
+      "word": "薛之谦自拍",
+      "onboard_time": 1759937002,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96279,
       "num": 96279,
       "word": "NIP对战VKE",
@@ -2625,6 +2697,14 @@
       "onboard_time": 1759914020,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93848,
+      "num": 93848,
+      "word": "胖东来国庆6天卖了6.81亿",
+      "onboard_time": 1759934662,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 93650,
@@ -2811,12 +2891,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86363,
-      "num": 86363,
-      "word": "上海701万彩票大奖仅剩1个兑奖日",
-      "onboard_time": 1759931183,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 86216,
+      "num": 86216,
+      "word": "檀健次得知自己农历生日的反应",
+      "onboard_time": 1759934843,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 85959,
@@ -2825,22 +2905,6 @@
       "onboard_time": 1759909041,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85925,
-      "num": 85925,
-      "word": "胖东来国庆6天卖了6.81亿",
-      "onboard_time": 1759934662,
-      "rank": 48,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 85528,
-      "num": 204804,
-      "word": "疑似马来西亚失联二人照片曝光",
-      "onboard_time": 1759933943,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85339,
@@ -2865,6 +2929,14 @@
       "onboard_time": 1759879458,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84900,
+      "num": 84900,
+      "word": "夏梦不准气人了",
+      "onboard_time": 1759936941,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 84291,
@@ -2905,6 +2977,14 @@
       "onboard_time": 1759892361,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82331,
+      "num": 82331,
+      "word": "Tian边吃雪糕边看BP",
+      "onboard_time": 1759937002,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 82271,
@@ -2985,6 +3065,14 @@
       "onboard_time": 1759851023,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75973,
+      "num": 75973,
+      "word": "司机称阳光晃眼误踩油门车辆飞起",
+      "onboard_time": 1759936402,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75465,
@@ -3187,6 +3275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54075,
+      "num": 76502,
+      "word": "甘孜子龙秘境滑坠事故一男子身亡",
+      "onboard_time": 1759935621,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52165,
       "num": 112741,
       "word": "国庆返程车尾挂满鸡鸭大鹅",
@@ -3297,6 +3393,14 @@
       "onboard_time": 1759856958,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 31692,
+      "num": 85352,
+      "word": "堵车时高速判官出手了",
+      "onboard_time": 1759937182,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31493,

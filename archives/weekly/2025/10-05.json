@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759934696912,
+  "endTime": 1759937278022,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -401,6 +401,14 @@
       "onboard_time": 1759836082,
       "rank": 17,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 1084271,
+      "num": 378455,
+      "word": "鸡排哥商标已被别人持有9年",
+      "onboard_time": 1759931960,
+      "rank": 23,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 1079559,
@@ -961,6 +969,14 @@
       "onboard_time": 1759574361,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 642678,
+      "num": 1102828,
+      "word": "鸡排哥上央视了",
+      "onboard_time": 1759934721,
+      "rank": 0,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 640017,
@@ -2067,14 +2083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 378455,
-      "num": 378455,
-      "word": "鸡排哥商标已被别人持有9年",
-      "onboard_time": 1759931960,
-      "rank": 23,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 376791,
       "num": 281778,
       "word": "马嘉祺中秋请客剧组了",
@@ -2667,6 +2675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 311420,
+      "num": 311420,
+      "word": "疑似马来西亚失联二人照片曝光",
+      "onboard_time": 1759933943,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311387,
       "num": 311387,
       "word": "苏超第2支四强球队诞生",
@@ -3065,6 +3081,14 @@
       "onboard_time": 1759797800,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276019,
+      "num": 276019,
+      "word": "蜜雪冰城小票藏连载小说",
+      "onboard_time": 1759935922,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 275655,
@@ -4379,6 +4403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189780,
+      "num": 189780,
+      "word": "林忆莲帅成啥了",
+      "onboard_time": 1759936102,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189758,
       "num": 171032,
       "word": "想发火的猴子发现是熟人后秒变脸",
@@ -4473,6 +4505,14 @@
       "onboard_time": 1759638441,
       "rank": 48,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 186737,
+      "num": 186737,
+      "word": "小酒窝和爸爸妈妈关系都很好",
+      "onboard_time": 1759932080,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 186427,
@@ -6251,6 +6291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144487,
+      "num": 144487,
+      "word": "赵今麦miumiu第一个单人共创艺人",
+      "onboard_time": 1759936282,
+      "rank": 23,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 144419,
       "num": 207460,
       "word": "F1",
@@ -7179,14 +7227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 129269,
-      "num": 129269,
-      "word": "小酒窝和爸爸妈妈关系都很好",
-      "onboard_time": 1759932080,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129236,
       "num": 129236,
       "word": "张予曦出门拍戏半年回来仍是毛坯",
@@ -7851,6 +7891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 118681,
+      "num": 118681,
+      "word": "张继科说比赛输了就没下次了",
+      "onboard_time": 1759936220,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118648,
       "num": 115692,
       "word": "小狗沐浴的当晚可以在床上睡觉",
@@ -8289,6 +8337,14 @@
       "onboard_time": 1759756822,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113193,
+      "num": 113193,
+      "word": "上海701万彩票大奖仅剩1个兑奖日",
+      "onboard_time": 1759931183,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113166,
@@ -9371,6 +9427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102909,
+      "num": 102909,
+      "word": "刘萧旭郭宇欣 接二搭",
+      "onboard_time": 1759936580,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102716,
       "num": 102716,
       "word": "李湘打码掌纹",
@@ -9971,6 +10035,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 96882,
+      "num": 96882,
+      "word": "薛之谦自拍",
+      "onboard_time": 1759937002,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96867,
       "num": 96867,
       "word": "邓佳鑫专场上座率",
@@ -10305,6 +10377,14 @@
       "onboard_time": 1759914020,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93848,
+      "num": 93848,
+      "word": "胖东来国庆6天卖了6.81亿",
+      "onboard_time": 1759934662,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 93763,
@@ -10979,12 +11059,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86363,
-      "num": 86363,
-      "word": "上海701万彩票大奖仅剩1个兑奖日",
-      "onboard_time": 1759931183,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 86216,
+      "num": 86216,
+      "word": "檀健次得知自己农历生日的反应",
+      "onboard_time": 1759934843,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 85959,
@@ -10993,14 +11073,6 @@
       "onboard_time": 1759909041,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85925,
-      "num": 85925,
-      "word": "胖东来国庆6天卖了6.81亿",
-      "onboard_time": 1759934662,
-      "rank": 48,
-      "category": "财经"
     },
     {
       "raw_hot": 85766,
@@ -11025,14 +11097,6 @@
       "onboard_time": 1759840523,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 85528,
-      "num": 204804,
-      "word": "疑似马来西亚失联二人照片曝光",
-      "onboard_time": 1759933943,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85442,
@@ -11113,6 +11177,14 @@
       "onboard_time": 1759656801,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84900,
+      "num": 84900,
+      "word": "夏梦不准气人了",
+      "onboard_time": 1759936941,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 84561,
@@ -11273,6 +11345,14 @@
       "onboard_time": 1759892361,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82331,
+      "num": 82331,
+      "word": "Tian边吃雪糕边看BP",
+      "onboard_time": 1759937002,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 82274,
@@ -11561,6 +11641,14 @@
       "onboard_time": 1759798758,
       "rank": 47,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 75973,
+      "num": 75973,
+      "word": "司机称阳光晃眼误踩油门车辆飞起",
+      "onboard_time": 1759936402,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75465,
@@ -12211,6 +12299,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 54075,
+      "num": 76502,
+      "word": "甘孜子龙秘境滑坠事故一男子身亡",
+      "onboard_time": 1759935621,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53893,
       "num": 111639,
       "word": "周迅窦靖童同框热聊",
@@ -12665,6 +12761,14 @@
       "onboard_time": 1759856958,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 31692,
+      "num": 85352,
+      "word": "堵车时高速判官出手了",
+      "onboard_time": 1759937182,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31627,

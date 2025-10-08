@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 22:44:56
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 23:27:58
 </p>
 </blockquote>
 <p>
@@ -587,6 +587,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%20%E8%A6%81%E7%88%86%E4%BA%86%23" target="weibo">
 华晨宇 要爆了（热度：1089802）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E5%95%86%E6%A0%87%E5%B7%B2%E8%A2%AB%E5%88%AB%E4%BA%BA%E6%8C%81%E6%9C%899%E5%B9%B4%23" target="weibo">
+鸡排哥商标已被别人持有9年（热度：1084271）
 </a>
 </li>
 
@@ -1505,6 +1511,12 @@ JDG输越南队（热度：648751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A5%A5%E4%BA%8C%E9%9B%B6%E4%BA%8C%E5%85%AD%E6%98%A5%E5%A4%8F%E7%A7%80%23" target="weibo">
 迪奥二零二六春夏秀（热度：643295）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E4%B8%8A%E5%A4%AE%E8%A7%86%E4%BA%86%23" target="weibo">
+鸡排哥上央视了（热度：642678）
 </a>
 </li>
 
@@ -3117,12 +3129,6 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E5%95%86%E6%A0%87%E5%B7%B2%E8%A2%AB%E5%88%AB%E4%BA%BA%E6%8C%81%E6%9C%899%E5%B9%B4%23" target="weibo">
-鸡排哥商标已被别人持有9年（热度：378455）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E8%B5%9B%E5%90%8E%E7%94%9F%E6%B0%94%E4%BA%86%23" target="weibo">
 林诗栋赛后生气了（热度：378133）
 </a>
@@ -3909,6 +3915,12 @@ MiuMiu巴黎时装周（热度：318258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%A4%B1%E8%81%94%E4%BA%8C%E4%BA%BA%E7%85%A7%E7%89%87%E6%9B%9D%E5%85%89%23" target="weibo">
+疑似马来西亚失联二人照片曝光（热度：311420）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E7%AC%AC2%E6%94%AF%E5%9B%9B%E5%BC%BA%E7%90%83%E9%98%9F%E8%AF%9E%E7%94%9F%23" target="weibo">
 苏超第2支四强球队诞生（热度：311387）
 </a>
@@ -4433,6 +4445,12 @@ JDG对战DK（热度：286717）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%BC%8A%E6%9C%97%E5%88%AB%E6%97%A0%E9%80%89%E6%8B%A9%E5%BF%85%E9%A1%BB%E8%BF%81%E9%83%BD%23" target="weibo">
 伊朗总统称伊朗别无选择必须迁都（热度：276382）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%B0%8F%E7%A5%A8%E8%97%8F%E8%BF%9E%E8%BD%BD%E5%B0%8F%E8%AF%B4%23" target="weibo">
+蜜雪冰城小票藏连载小说（热度：276019）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ TTG战胜TES（热度：206119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E5%A5%B3%E5%84%BF%E7%90%83%E7%90%83%E5%9B%9E%E5%BA%94%E5%92%8C%E5%93%A5%E5%93%A5%E4%BA%89%E8%B4%A2%E4%BA%A7%23" target="weibo">
 赵本山女儿球球回应和哥哥争财产（热度：201136）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B8%82%E6%96%87%E6%97%85%E5%B1%80%E5%AE%98%E5%AE%A3%23" target="weibo">
-北京市文旅局官宣（热度：201093）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E5%AB%8C%E5%BC%83%E5%A5%B6%E5%A5%B6%E8%BA%AB%E4%B8%8A%E6%9C%89%E5%91%B3%E9%81%93%E5%A6%88%E5%A6%88%E4%B8%A5%E8%82%83%E6%95%99%E8%82%B2%23" target="weibo">
-孩子嫌弃奶奶身上有味道妈妈严肃教育（热度：201055）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC39.2%25%23" target="weibo">
-许我耀眼39.2%（热度：200978）
 </a>
 </li>
 
