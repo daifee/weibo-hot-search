@@ -1,0 +1,410 @@
+{
+  "runTime": 1759902080448,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1198347,
+        "num": 1198347,
+        "word": "人甚至共情不了国庆假期前的自己",
+        "onboard_time": 1759894761,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 487158,
+        "num": 487158,
+        "word": "恋与深空",
+        "onboard_time": 1759889960,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63796,
+        "num": 409841,
+        "word": "县域旅游已成为一种时尚",
+        "onboard_time": 1759878197,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 353485,
+        "num": 353485,
+        "word": "官方通报牛杂店现场手动改价",
+        "onboard_time": 1759895781,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 329643,
+        "num": 329643,
+        "word": "美国经济损失150亿美元",
+        "onboard_time": 1759895541,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 318839,
+        "num": 318839,
+        "word": "雪糕试吃员每天吃20根月薪能过万",
+        "onboard_time": 1759900222,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289032,
+        "num": 289032,
+        "word": "男子喝3斤白酒用智驾开车20公里",
+        "onboard_time": 1759884739,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288397,
+        "num": 288397,
+        "word": "赖神曝与fly聊天记录",
+        "onboard_time": 1759899259,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 256753,
+        "num": 256753,
+        "word": "加沙3个婴儿轮流用一根氧气管",
+        "onboard_time": 1759895119,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174908,
+        "num": 174908,
+        "word": "台湾踹飞老太当事男子道歉",
+        "onboard_time": 1759890021,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1218593,
+        "num": 174887,
+        "word": "孟子义拍戏摔了",
+        "onboard_time": 1759894521,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 747473,
+        "num": 173999,
+        "word": "张凌赫换头像",
+        "onboard_time": 1759897402,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419599,
+        "num": 173805,
+        "word": "在offer7嗑到了真夫妻",
+        "onboard_time": 1759899020,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394639,
+        "num": 173289,
+        "word": "胡先煦三个月没和徐志胜搭上话",
+        "onboard_time": 1759899741,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363754,
+        "num": 172711,
+        "word": "快女谈莉娜婚礼",
+        "onboard_time": 1759890381,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371879,
+        "num": 171974,
+        "word": "吴汉坤踩到孟子义头纱",
+        "onboard_time": 1759898422,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280173,
+        "num": 171557,
+        "word": "入青云",
+        "onboard_time": 1759897102,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276589,
+        "num": 170989,
+        "word": "TaylorSwift忘了通知EdSheeran订婚",
+        "onboard_time": 1759900820,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239858,
+        "num": 170719,
+        "word": "一眼万年 李煜东",
+        "onboard_time": 1759900341,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205171,
+        "num": 170190,
+        "word": "15岁女孩患癌肝被肿瘤占近半",
+        "onboard_time": 1759900940,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127524,
+        "num": 169292,
+        "word": "记者在联合国秀中国智造",
+        "onboard_time": 1759898061,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 310854,
+        "num": 168850,
+        "word": "黄金",
+        "onboard_time": 1759891941,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 204249,
+        "num": 168161,
+        "word": "王一博85组别全场第一",
+        "onboard_time": 1759897521,
+        "rank": 22,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 35967,
+        "num": 168056,
+        "word": "国庆假期超24亿人次跨区域流动",
+        "onboard_time": 1759900101,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198981,
+        "num": 167573,
+        "word": "方媛中秋挺孕肚拍全家福",
+        "onboard_time": 1759891100,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167083,
+        "num": 167083,
+        "word": "原神",
+        "onboard_time": 1759901423,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164032,
+        "num": 164032,
+        "word": "成毅演蒙面刺客建议戴面罩",
+        "onboard_time": 1759901181,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155682,
+        "num": 155682,
+        "word": "95后夫妻宛如双胞胎",
+        "onboard_time": 1759899020,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155228,
+        "num": 155228,
+        "word": "当不倒翁小姐姐把镜头翻转过来",
+        "onboard_time": 1759889661,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151182,
+        "num": 151182,
+        "word": "33别告诉我妈",
+        "onboard_time": 1759900761,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149585,
+        "num": 149585,
+        "word": "王鹤棣太抢手了",
+        "onboard_time": 1759897402,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149294,
+        "num": 149294,
+        "word": "白敬亭蓝盈莹合作",
+        "onboard_time": 1759897881,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130016,
+        "num": 130016,
+        "word": "高市早苗否认南京大屠杀",
+        "onboard_time": 1759892481,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129121,
+        "num": 129121,
+        "word": "国漫第一大女主的排面拉满了",
+        "onboard_time": 1759897761,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118218,
+        "num": 118218,
+        "word": "这剧是捅了恶女窝吧",
+        "onboard_time": 1759901480,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115514,
+        "num": 115514,
+        "word": "Gumayusi女友酷似Keria",
+        "onboard_time": 1759897521,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112424,
+        "num": 112424,
+        "word": "长安二十四计",
+        "onboard_time": 1759899442,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111181,
+        "num": 111181,
+        "word": "王者荣耀十周年",
+        "onboard_time": 1759901181,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68992,
+        "num": 110311,
+        "word": "Faker展望世界赛",
+        "onboard_time": 1759900940,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19487,
+        "num": 109726,
+        "word": "有演技有口碑的艺人永远不会被抛弃",
+        "onboard_time": 1759901661,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109667,
+        "num": 109667,
+        "word": "三角洲",
+        "onboard_time": 1759900040,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 101237,
+        "num": 101237,
+        "word": "金价又涨了",
+        "onboard_time": 1759889060,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100767,
+        "num": 100767,
+        "word": "现实版狸猫换太子",
+        "onboard_time": 1759900702,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94483,
+        "num": 94483,
+        "word": "中国大满贯收入近1.54亿",
+        "onboard_time": 1759896740,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93650,
+        "num": 93650,
+        "word": "韩东君新剧终于上位了",
+        "onboard_time": 1759900702,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92998,
+        "num": 92998,
+        "word": "卢昱晓把倪妮摇来了",
+        "onboard_time": 1759901600,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87777,
+        "num": 92369,
+        "word": "米勒记得众人喊话小虎",
+        "onboard_time": 1759900461,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92126,
+        "num": 92126,
+        "word": "车手王一博正式登场",
+        "onboard_time": 1759897881,
+        "rank": 47,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 92042,
+        "num": 92042,
+        "word": "许凯复工进组了",
+        "onboard_time": 1759901961,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84758,
+        "num": 91578,
+        "word": "西贝未回应嫌馒头贵不如努力赚钱",
+        "onboard_time": 1759902021,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻中华文明#"
+    }
+  }
+}

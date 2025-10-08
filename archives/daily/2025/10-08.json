@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759901092595,
+  "endTime": 1759902080448,
   "band_list": [
     {
       "raw_hot": 1475503,
@@ -139,12 +139,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419599,
+      "num": 173805,
+      "word": "在offer7嗑到了真夫妻",
+      "onboard_time": 1759899020,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418623,
       "num": 218167,
       "word": "高市早苗否认南京大屠杀",
       "onboard_time": 1759892481,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 394639,
+      "num": 173289,
+      "word": "胡先煦三个月没和徐志胜搭上话",
+      "onboard_time": 1759899741,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 390564,
@@ -171,20 +187,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 371879,
+      "num": 172953,
+      "word": "吴汉坤踩到孟子义头纱",
+      "onboard_time": 1759898422,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370209,
       "num": 370209,
       "word": "美国经济损失150亿美元",
       "onboard_time": 1759895541,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 351096,
-      "num": 172953,
-      "word": "吴汉坤踩到孟子义头纱",
-      "onboard_time": 1759898422,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 350391,
@@ -195,20 +211,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 327361,
-      "num": 173466,
-      "word": "在offer7嗑到了真夫妻",
-      "onboard_time": 1759899020,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 323347,
       "num": 323347,
       "word": "终于知道为什么妈妈老开我房门了",
       "onboard_time": 1759850362,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 318839,
+      "num": 318839,
+      "word": "雪糕试吃员每天吃20根月薪能过万",
+      "onboard_time": 1759900222,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 317417,
@@ -267,12 +283,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 290161,
-      "num": 172585,
-      "word": "胡先煦三个月没和徐志胜搭上话",
-      "onboard_time": 1759899741,
-      "rank": 16,
-      "category": "综艺"
+      "raw_hot": 288397,
+      "num": 288397,
+      "word": "赖神曝与fly聊天记录",
+      "onboard_time": 1759899259,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 282907,
@@ -304,6 +320,14 @@
       "word": "李庚希生图",
       "onboard_time": 1759883900,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 276589,
+      "num": 170989,
+      "word": "TaylorSwift忘了通知EdSheeran订婚",
+      "onboard_time": 1759900820,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -395,6 +419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 239858,
+      "num": 171003,
+      "word": "一眼万年 李煜东",
+      "onboard_time": 1759900341,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237386,
       "num": 192999,
       "word": "北京雨雨雨雨",
@@ -435,22 +467,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 222280,
-      "num": 171978,
-      "word": "雪糕试吃员每天吃20根月薪能过万",
-      "onboard_time": 1759900222,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 220342,
-      "num": 220342,
-      "word": "赖神曝与fly聊天记录",
-      "onboard_time": 1759899259,
-      "rank": 7,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 214425,
       "num": 196036,
       "word": "原来法令纹是提亮不了的",
@@ -473,6 +489,14 @@
       "onboard_time": 1759894040,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205171,
+      "num": 170190,
+      "word": "15岁女孩患癌肝被肿瘤占近半",
+      "onboard_time": 1759900940,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198017,
@@ -504,14 +528,6 @@
       "word": "王鹤棣太抢手了",
       "onboard_time": 1759897402,
       "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 187268,
-      "num": 171003,
-      "word": "一眼万年 李煜东",
-      "onboard_time": 1759900341,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -563,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171187,
-      "num": 150519,
-      "word": "TaylorSwift忘了通知EdSheeran订婚",
-      "onboard_time": 1759900820,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170346,
       "num": 170346,
       "word": "寒露",
@@ -587,12 +595,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 167083,
+      "num": 167083,
+      "word": "原神",
+      "onboard_time": 1759901423,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166699,
       "num": 166699,
       "word": "入青云今日开播",
       "onboard_time": 1759894100,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164032,
+      "num": 164032,
+      "word": "成毅演蒙面刺客建议戴面罩",
+      "onboard_time": 1759901181,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 164008,
@@ -907,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118218,
+      "num": 118218,
+      "word": "这剧是捅了恶女窝吧",
+      "onboard_time": 1759901480,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117086,
       "num": 117086,
       "word": "张艺兴演唱会",
@@ -931,12 +963,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111181,
+      "num": 111181,
+      "word": "王者荣耀十周年",
+      "onboard_time": 1759901181,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111063,
       "num": 111063,
       "word": "米勒记得众人喊话小虎",
       "onboard_time": 1759900461,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109667,
+      "num": 109667,
+      "word": "三角洲",
+      "onboard_time": 1759900040,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 107166,
@@ -1035,12 +1083,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94427,
-      "num": 94427,
-      "word": "三角洲",
-      "onboard_time": 1759900040,
-      "rank": 43,
-      "category": "游戏"
+      "raw_hot": 93650,
+      "num": 93650,
+      "word": "韩东君新剧终于上位了",
+      "onboard_time": 1759900702,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 92998,
+      "num": 92998,
+      "word": "卢昱晓把倪妮摇来了",
+      "onboard_time": 1759901600,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 92042,
+      "num": 92042,
+      "word": "许凯复工进组了",
+      "onboard_time": 1759901961,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 91298,
@@ -1107,8 +1171,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84758,
+      "num": 91578,
+      "word": "西贝未回应嫌馒头贵不如努力赚钱",
+      "onboard_time": 1759902021,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83558,
-      "num": 104272,
+      "num": 110311,
       "word": "Faker展望世界赛",
       "onboard_time": 1759900940,
       "rank": 39,
@@ -1521,6 +1593,14 @@
       "onboard_time": 1759867155,
       "rank": 38,
       "category": "数码"
+    },
+    {
+      "raw_hot": 19487,
+      "num": 109726,
+      "word": "有演技有口碑的艺人永远不会被抛弃",
+      "onboard_time": 1759901661,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 16959,

@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759901092595,
+  "endTime": 1759902080448,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1603,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419599,
+      "num": 173805,
+      "word": "在offer7嗑到了真夫妻",
+      "onboard_time": 1759899020,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 404663,
       "num": 212126,
       "word": "宋祖儿华伦天奴晚宴look",
@@ -1649,6 +1657,14 @@
       "onboard_time": 1759634241,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 394639,
+      "num": 173289,
+      "word": "胡先煦三个月没和徐志胜搭上话",
+      "onboard_time": 1759899741,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 393210,
@@ -1795,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371879,
+      "num": 172953,
+      "word": "吴汉坤踩到孟子义头纱",
+      "onboard_time": 1759898422,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 370639,
       "num": 370639,
       "word": "环保少女称种族灭绝正在发生",
@@ -1873,14 +1897,6 @@
       "onboard_time": 1759801519,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 351096,
-      "num": 172953,
-      "word": "吴汉坤踩到孟子义头纱",
-      "onboard_time": 1759898422,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 350391,
@@ -2067,14 +2083,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 327361,
-      "num": 173466,
-      "word": "在offer7嗑到了真夫妻",
-      "onboard_time": 1759899020,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 326981,
       "num": 156825,
       "word": "广州一市民家中惊现鼠条",
@@ -2169,6 +2177,14 @@
       "onboard_time": 1759707797,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318839,
+      "num": 318839,
+      "word": "雪糕试吃员每天吃20根月薪能过万",
+      "onboard_time": 1759900222,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318650,
@@ -2411,14 +2427,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 290161,
-      "num": 172585,
-      "word": "胡先煦三个月没和徐志胜搭上话",
-      "onboard_time": 1759899741,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 289588,
       "num": 219848,
       "word": "live图怎么关声音",
@@ -2433,6 +2441,14 @@
       "onboard_time": 1759665863,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288397,
+      "num": 288397,
+      "word": "赖神曝与fly聊天记录",
+      "onboard_time": 1759899259,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 287945,
@@ -2617,6 +2633,14 @@
       "onboard_time": 1759797800,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276589,
+      "num": 170989,
+      "word": "TaylorSwift忘了通知EdSheeran订婚",
+      "onboard_time": 1759900820,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 275655,
@@ -2891,6 +2915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239858,
+      "num": 171003,
+      "word": "一眼万年 李煜东",
+      "onboard_time": 1759900341,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239413,
       "num": 178839,
       "word": "女方悔婚退彩礼时要扣3万拥抱费",
@@ -3107,14 +3139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222280,
-      "num": 171978,
-      "word": "雪糕试吃员每天吃20根月薪能过万",
-      "onboard_time": 1759900222,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222089,
       "num": 222089,
       "word": "魔丸见多了老魔丸第一次见",
@@ -3145,14 +3169,6 @@
       "onboard_time": 1759657702,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 220342,
-      "num": 220342,
-      "word": "赖神曝与fly聊天记录",
-      "onboard_time": 1759899259,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 219782,
@@ -3369,6 +3385,14 @@
       "onboard_time": 1759727601,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 205171,
+      "num": 170190,
+      "word": "15岁女孩患癌肝被肿瘤占近半",
+      "onboard_time": 1759900940,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205141,
@@ -3832,14 +3856,6 @@
       "word": "王橹杰中秋祝福",
       "onboard_time": 1759761383,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 187268,
-      "num": 171003,
-      "word": "一眼万年 李煜东",
-      "onboard_time": 1759900341,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -4387,14 +4403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171187,
-      "num": 150519,
-      "word": "TaylorSwift忘了通知EdSheeran订婚",
-      "onboard_time": 1759900820,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171155,
       "num": 157232,
       "word": "G社拍的马柏全宋祖儿",
@@ -4523,6 +4531,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 167083,
+      "num": 167083,
+      "word": "原神",
+      "onboard_time": 1759755863,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166820,
       "num": 154629,
       "word": "住老破小的副作用已经出现了",
@@ -4577,6 +4593,14 @@
       "onboard_time": 1759716139,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164032,
+      "num": 164032,
+      "word": "成毅演蒙面刺客建议戴面罩",
+      "onboard_time": 1759901181,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 164008,
@@ -6731,6 +6755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118218,
+      "num": 118218,
+      "word": "这剧是捅了恶女窝吧",
+      "onboard_time": 1759901480,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117821,
       "num": 618225,
       "word": "再赏一次大江南北的中秋月",
@@ -6865,14 +6897,6 @@
       "onboard_time": 1759745781,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115777,
-      "num": 115777,
-      "word": "原神",
-      "onboard_time": 1759755863,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 115773,
@@ -7259,6 +7283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111181,
+      "num": 111181,
+      "word": "王者荣耀十周年",
+      "onboard_time": 1759901181,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111109,
       "num": 524325,
       "word": "8天长假已过半",
@@ -7441,6 +7473,14 @@
       "onboard_time": 1759805119,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109667,
+      "num": 109667,
+      "word": "三角洲",
+      "onboard_time": 1759900040,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 109615,
@@ -8667,14 +8707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94427,
-      "num": 94427,
-      "word": "三角洲",
-      "onboard_time": 1759900040,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 94228,
       "num": 94228,
       "word": "重庆铜梁龙致歉",
@@ -8763,6 +8795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93650,
+      "num": 93650,
+      "word": "韩东君新剧终于上位了",
+      "onboard_time": 1759900702,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93633,
       "num": 93633,
       "word": "当我把平板时间调到了2014年",
@@ -8809,6 +8849,14 @@
       "onboard_time": 1759800981,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92998,
+      "num": 92998,
+      "word": "卢昱晓把倪妮摇来了",
+      "onboard_time": 1759901600,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 92993,
@@ -8865,6 +8913,14 @@
       "onboard_time": 1759710739,
       "rank": 47,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 92042,
+      "num": 92042,
+      "word": "许凯复工进组了",
+      "onboard_time": 1759901961,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 91891,
@@ -9379,6 +9435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84758,
+      "num": 91578,
+      "word": "西贝未回应嫌馒头贵不如努力赚钱",
+      "onboard_time": 1759902021,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84561,
       "num": 84561,
       "word": "警方通报男子恶意别车谎称公安",
@@ -9452,7 +9516,7 @@
     },
     {
       "raw_hot": 83558,
-      "num": 104272,
+      "num": 110311,
       "word": "Faker展望世界赛",
       "onboard_time": 1759900940,
       "rank": 39,
@@ -11145,6 +11209,14 @@
       "onboard_time": 1759658963,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19487,
+      "num": 109726,
+      "word": "有演技有口碑的艺人永远不会被抛弃",
+      "onboard_time": 1759901661,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 18587,

@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759901092595,
+  "endTime": 1759902080448,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -3459,6 +3459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 419599,
+      "num": 173805,
+      "word": "在offer7嗑到了真夫妻",
+      "onboard_time": 1759899020,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418691,
       "num": 359211,
       "word": "三亚一商场红包雨致人群拥挤受伤",
@@ -3625,6 +3633,14 @@
       "onboard_time": 1759456577,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 394639,
+      "num": 173289,
+      "word": "胡先煦三个月没和徐志胜搭上话",
+      "onboard_time": 1759899741,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 394008,
@@ -3915,6 +3931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 371879,
+      "num": 172953,
+      "word": "吴汉坤踩到孟子义头纱",
+      "onboard_time": 1759898422,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 371570,
       "num": 371570,
       "word": "有网友3年前预测鸡排哥将成顶流",
@@ -4137,14 +4161,6 @@
       "onboard_time": 1759562539,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 351096,
-      "num": 172953,
-      "word": "吴汉坤踩到孟子义头纱",
-      "onboard_time": 1759898422,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 350391,
@@ -4459,14 +4475,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 327361,
-      "num": 173466,
-      "word": "在offer7嗑到了真夫妻",
-      "onboard_time": 1759899020,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 326609,
       "num": 258702,
       "word": "王乐晨",
@@ -4601,6 +4609,14 @@
       "onboard_time": 1759707797,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318839,
+      "num": 318839,
+      "word": "雪糕试吃员每天吃20根月薪能过万",
+      "onboard_time": 1759900222,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318690,
@@ -5147,14 +5163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290161,
-      "num": 172585,
-      "word": "胡先煦三个月没和徐志胜搭上话",
-      "onboard_time": 1759899741,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 289684,
       "num": 269858,
       "word": "万达电影App崩了",
@@ -5177,6 +5185,14 @@
       "onboard_time": 1759665863,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288397,
+      "num": 288397,
+      "word": "赖神曝与fly聊天记录",
+      "onboard_time": 1759899259,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 287945,
@@ -5433,6 +5449,14 @@
       "onboard_time": 1759797800,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276589,
+      "num": 170989,
+      "word": "TaylorSwift忘了通知EdSheeran订婚",
+      "onboard_time": 1759900820,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 276544,
@@ -6147,6 +6171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 239858,
+      "num": 171003,
+      "word": "一眼万年 李煜东",
+      "onboard_time": 1759900341,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239413,
       "num": 178839,
       "word": "女方悔婚退彩礼时要扣3万拥抱费",
@@ -6627,14 +6659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222280,
-      "num": 171978,
-      "word": "雪糕试吃员每天吃20根月薪能过万",
-      "onboard_time": 1759900222,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222089,
       "num": 222089,
       "word": "魔丸见多了老魔丸第一次见",
@@ -6697,14 +6721,6 @@
       "onboard_time": 1759546460,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 220342,
-      "num": 220342,
-      "word": "赖神曝与fly聊天记录",
-      "onboard_time": 1759899259,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 220205,
@@ -7241,6 +7257,14 @@
       "onboard_time": 1759409122,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205171,
+      "num": 170190,
+      "word": "15岁女孩患癌肝被肿瘤占近半",
+      "onboard_time": 1759900940,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205141,
@@ -8203,14 +8227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187268,
-      "num": 171003,
-      "word": "一眼万年 李煜东",
-      "onboard_time": 1759900341,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187232,
       "num": 160688,
       "word": "赵今麦美拉德造型出发巴黎",
@@ -9155,14 +9171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171187,
-      "num": 150519,
-      "word": "TaylorSwift忘了通知EdSheeran订婚",
-      "onboard_time": 1759900820,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 171176,
       "num": 171176,
       "word": "刘轩丞首套高定",
@@ -9491,6 +9499,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 167083,
+      "num": 167083,
+      "word": "原神",
+      "onboard_time": 1759755863,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166993,
       "num": 166993,
       "word": "偷偷藏不住",
@@ -9697,6 +9713,14 @@
       "onboard_time": 1759716139,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164032,
+      "num": 164032,
+      "word": "成毅演蒙面刺客建议戴面罩",
+      "onboard_time": 1759901181,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 164008,
@@ -14123,6 +14147,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 118218,
+      "num": 118218,
+      "word": "这剧是捅了恶女窝吧",
+      "onboard_time": 1759901480,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118059,
       "num": 118059,
       "word": "山西一商场现10米巨人雕塑价值百万",
@@ -14473,14 +14505,6 @@
       "onboard_time": 1759745781,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115777,
-      "num": 115777,
-      "word": "原神",
-      "onboard_time": 1759755863,
-      "rank": 37,
-      "category": "游戏"
     },
     {
       "raw_hot": 115773,
@@ -15291,6 +15315,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 111181,
+      "num": 111181,
+      "word": "王者荣耀十周年",
+      "onboard_time": 1759901181,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 111109,
       "num": 524325,
       "word": "8天长假已过半",
@@ -15625,6 +15657,14 @@
       "onboard_time": 1759805119,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 109667,
+      "num": 109667,
+      "word": "三角洲",
+      "onboard_time": 1759900040,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 109652,
@@ -18499,14 +18539,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94427,
-      "num": 94427,
-      "word": "三角洲",
-      "onboard_time": 1759900040,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 94332,
       "num": 94332,
       "word": "元气森林音乐节",
@@ -18691,6 +18723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93650,
+      "num": 93650,
+      "word": "韩东君新剧终于上位了",
+      "onboard_time": 1759900702,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93633,
       "num": 93633,
       "word": "当我把平板时间调到了2014年",
@@ -18785,6 +18825,14 @@
       "onboard_time": 1759800981,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92998,
+      "num": 92998,
+      "word": "卢昱晓把倪妮摇来了",
+      "onboard_time": 1759901600,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 92993,
@@ -18945,6 +18993,14 @@
       "onboard_time": 1759402821,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92042,
+      "num": 92042,
+      "word": "许凯复工进组了",
+      "onboard_time": 1759901961,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 92016,
@@ -20139,6 +20195,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 84758,
+      "num": 91578,
+      "word": "西贝未回应嫌馒头贵不如努力赚钱",
+      "onboard_time": 1759902021,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84748,
       "num": 84748,
       "word": "爸姓古妈姓顾孩子被AI取名古菇顾",
@@ -20340,7 +20404,7 @@
     },
     {
       "raw_hot": 83558,
-      "num": 104272,
+      "num": 110311,
       "word": "Faker展望世界赛",
       "onboard_time": 1759900940,
       "rank": 39,
@@ -24425,6 +24489,14 @@
       "onboard_time": 1759517175,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 19487,
+      "num": 109726,
+      "word": "有演技有口碑的艺人永远不会被抛弃",
+      "onboard_time": 1759901661,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 19058,
