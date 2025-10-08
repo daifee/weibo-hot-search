@@ -1,0 +1,410 @@
+{
+  "runTime": 1759889387192,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1235949,
+        "num": 1235949,
+        "word": "男子喝3斤白酒用智驾开车20公里",
+        "onboard_time": 1759884739,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 766192,
+        "num": 766192,
+        "word": "钱学森遭美方拘禁后失声暴瘦",
+        "onboard_time": 1759880717,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5198,
+        "num": 537459,
+        "word": "再赏一次大江南北的中秋月",
+        "onboard_time": 1759822521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 504247,
+        "num": 504247,
+        "word": "法国网红拿针管假装扎人获刑半年",
+        "onboard_time": 1759884679,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 317417,
+        "num": 317417,
+        "word": "特朗普当加总理面提吞并加拿大",
+        "onboard_time": 1759887440,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 290719,
+        "num": 290719,
+        "word": "姑妈鱼 女朋友",
+        "onboard_time": 1759886240,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 269699,
+        "num": 269699,
+        "word": "大疆预告降价已购买消费者退货维权",
+        "onboard_time": 1759847423,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245364,
+        "num": 245364,
+        "word": "终于知道为什么妈妈老开我房门了",
+        "onboard_time": 1759850362,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243270,
+        "num": 243270,
+        "word": "恋与深空 夏以昼",
+        "onboard_time": 1759887858,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 225823,
+        "num": 225823,
+        "word": "詹姆斯决定二 广告",
+        "onboard_time": 1759850542,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276880,
+        "num": 224510,
+        "word": "李庚希生图",
+        "onboard_time": 1759883900,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267457,
+        "num": 219849,
+        "word": "去看张艺兴演唱会的明星",
+        "onboard_time": 1759884979,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 236745,
+        "num": 211901,
+        "word": "娜扎顶光极致怼脸状态",
+        "onboard_time": 1759882819,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192999,
+        "num": 192999,
+        "word": "北京雨雨雨雨",
+        "onboard_time": 1759883059,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166349,
+        "num": 166349,
+        "word": "在马来西亚失联中国游客朋友发声",
+        "onboard_time": 1759878197,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157538,
+        "num": 157538,
+        "word": "周生辰下时宜了",
+        "onboard_time": 1759841603,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125474,
+        "num": 125474,
+        "word": "你在北方穿棉袄我在南方吹空调",
+        "onboard_time": 1759883959,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116768,
+        "num": 116768,
+        "word": "我始终认为用九键打字的人都是天才",
+        "onboard_time": 1759837342,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110857,
+        "num": 110857,
+        "word": "南京地铁回应鸡鸣寺暗讽事件",
+        "onboard_time": 1759840104,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106759,
+        "num": 106759,
+        "word": "假期最后1天迎来寒露",
+        "onboard_time": 1759854859,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188569,
+        "num": 106759,
+        "word": "顺产开十指真是十个手指那么宽吗",
+        "onboard_time": 1759850122,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185555,
+        "num": 106737,
+        "word": "恋与深空 秦彻",
+        "onboard_time": 1759887858,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158548,
+        "num": 106723,
+        "word": "许我耀眼都市爽剧爆改抽象癫剧",
+        "onboard_time": 1759882279,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 498380,
+        "num": 106717,
+        "word": "公司回应联系不上得诺奖的员工",
+        "onboard_time": 1759881621,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151890,
+        "num": 106709,
+        "word": "杨博文高会第一",
+        "onboard_time": 1759885519,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148330,
+        "num": 106693,
+        "word": "现货金价又创新高",
+        "onboard_time": 1759887741,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119422,
+        "num": 106684,
+        "word": "金价突破4000美元",
+        "onboard_time": 1759888821,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109283,
+        "num": 106668,
+        "word": "金价又涨了",
+        "onboard_time": 1759889060,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106661,
+        "num": 106661,
+        "word": "有个不太好的习惯叫穷思竭虑",
+        "onboard_time": 1759888519,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104459,
+        "num": 104459,
+        "word": "一觉醒来寒露来了",
+        "onboard_time": 1759885760,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103606,
+        "num": 103606,
+        "word": "大国重器1元1个",
+        "onboard_time": 1759889361,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103377,
+        "num": 103377,
+        "word": "两个脏脏包逃难开始",
+        "onboard_time": 1759888519,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101108,
+        "num": 101108,
+        "word": "蒋一侨在家偷偷穿小脚裤",
+        "onboard_time": 1759886060,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100062,
+        "num": 100062,
+        "word": "殷世航向傲娇美求婚",
+        "onboard_time": 1759844304,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 100042,
+        "num": 100042,
+        "word": "北方开启秋雨绵绵模式",
+        "onboard_time": 1759885700,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98121,
+        "num": 98121,
+        "word": "老婆回应与张纪中的婚姻没有爱情",
+        "onboard_time": 1759842984,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97585,
+        "num": 97585,
+        "word": "36车道挤满返程大军",
+        "onboard_time": 1759883780,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95402,
+        "num": 95402,
+        "word": "鞠婧祎阿黛造型",
+        "onboard_time": 1759884260,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94306,
+        "num": 94306,
+        "word": "张艺兴 莲池春晚",
+        "onboard_time": 1759846702,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15228,
+        "num": 93939,
+        "word": "田嘉瑞坐过山车全程抓着宋茜",
+        "onboard_time": 1759889239,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93892,
+        "num": 93892,
+        "word": "寒露",
+        "onboard_time": 1759878617,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92602,
+        "num": 92602,
+        "word": "刘宇宁说不需要辱追粉",
+        "onboard_time": 1759888580,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92582,
+        "num": 92582,
+        "word": "馆长被台湾警方侦办",
+        "onboard_time": 1759844123,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82279,
+        "num": 82279,
+        "word": "千万别卡点下高速",
+        "onboard_time": 1759854859,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82166,
+        "num": 82166,
+        "word": "文化中国行寒露节气",
+        "onboard_time": 1759879458,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80594,
+        "num": 80594,
+        "word": "马主回应70多匹马下山时被绑前腿",
+        "onboard_time": 1759852822,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90759,
+        "num": 80016,
+        "word": "刘宇宁直播间变试衣间",
+        "onboard_time": 1759885038,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70299,
+        "num": 70299,
+        "word": "阿尔巴宣布退役",
+        "onboard_time": 1759884620,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69257,
+        "num": 69257,
+        "word": "1966年的孩子想象2000年的世界",
+        "onboard_time": 1759882338,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68262,
+        "num": 68262,
+        "word": "又开始听反方向的钟了",
+        "onboard_time": 1759886720,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把爱家和爱国统一起来#"
+    }
+  }
+}

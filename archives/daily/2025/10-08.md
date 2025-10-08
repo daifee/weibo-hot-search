@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/08 00:31:35 ~ 2025/10/08 09:49:15
+本榜单时间：2025/10/08 00:31:35 ~ 2025/10/08 10:09:47
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%96%9D3%E6%96%A4%E7%99%BD%E9%85%92%E7%94%A8%E6%99%BA%E9%A9%BE%E5%BC%80%E8%BD%A620%E5%85%AC%E9%87%8C%23" target="weibo">
-男子喝3斤白酒用智驾开车20公里（热度：1120228）
+男子喝3斤白酒用智驾开车20公里（热度：1235949）
 </a>
 </li>
 
@@ -45,20 +45,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%8B%BF%E9%92%88%E7%AE%A1%E5%81%87%E8%A3%85%E6%89%8E%E4%BA%BA%E8%8E%B7%E5%88%91%E5%8D%8A%E5%B9%B4%23" target="weibo">
+法国网红拿针管假装扎人获刑半年（热度：504247）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E5%BE%97%E8%AF%BA%E5%A5%96%E7%9A%84%E5%91%98%E5%B7%A5%23" target="weibo">
-公司回应联系不上得诺奖的员工（热度：454081）
+公司回应联系不上得诺奖的员工（热度：498380）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%8F%E4%BC%99%E4%B8%8E%E5%A5%B3%E5%8F%8B%E5%90%83%E9%A5%AD%E8%A2%AB%E9%93%90%E8%B5%B0%23" target="weibo">
 警方回应小伙与女友吃饭被铐走（热度：426263）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%8B%BF%E9%92%88%E7%AE%A1%E5%81%87%E8%A3%85%E6%89%8E%E4%BA%BA%E8%8E%B7%E5%88%91%E5%8D%8A%E5%B9%B4%23" target="weibo">
-法国网红拿针管假装扎人获刑半年（热度：419527）
 </a>
 </li>
 
@@ -75,8 +75,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E5%8A%A0%E6%80%BB%E7%90%86%E9%9D%A2%E6%8F%90%E5%90%9E%E5%B9%B6%E5%8A%A0%E6%8B%BF%E5%A4%A7%23" target="weibo">
+特朗普当加总理面提吞并加拿大（热度：317417）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AC%91%E9%9A%8F%E6%AD%8C%E7%83%AD%E5%BA%A6%23" target="weibo">
 一笑随歌热度（热度：311554）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A6%88%E9%B1%BC%20%E5%A5%B3%E6%9C%8B%E5%8F%8B%23" target="weibo">
+姑妈鱼 女朋友（热度：290719）
 </a>
 </li>
 
@@ -93,6 +105,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%E7%94%9F%E5%9B%BE%23" target="weibo">
+李庚希生图（热度：276880）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%94%9F%E8%BE%B0%E4%B8%8B%E6%97%B6%E5%AE%9C%E4%BA%86%23" target="weibo">
 周生辰下时宜了（热度：276107）
 </a>
@@ -101,6 +119,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A9%86%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%BC%A0%E7%BA%AA%E4%B8%AD%E7%9A%84%E5%A9%9A%E5%A7%BB%E6%B2%A1%E6%9C%89%E7%88%B1%E6%83%85%23" target="weibo">
 老婆回应与张纪中的婚姻没有爱情（热度：275763）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%BB%E7%9C%8B%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E6%98%8E%E6%98%9F%23" target="weibo">
+去看张艺兴演唱会的明星（热度：267457）
 </a>
 </li>
 
@@ -129,8 +153,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A6%88%E9%B1%BC%20%E5%A5%B3%E6%9C%8B%E5%8F%8B%23" target="weibo">
-姑妈鱼 女朋友（热度：246696）
+<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E5%A4%8F%E4%BB%A5%E6%98%BC%23" target="weibo">
+恋与深空 夏以昼（热度：243270）
 </a>
 </li>
 
@@ -153,20 +177,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%E7%94%9F%E5%9B%BE%23" target="weibo">
-李庚希生图（热度：202394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%BB%E7%9C%8B%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E6%98%8E%E6%98%9F%23" target="weibo">
-去看张艺兴演唱会的明星（热度：200948）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AE%B7%E4%B8%96%E8%88%AA%E5%90%91%E5%82%B2%E5%A8%87%E7%BE%8E%E6%B1%82%E5%A9%9A%23" target="weibo">
 殷世航向傲娇美求婚（热度：197413）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E7%A7%A6%E5%BD%BB%23" target="weibo">
+恋与深空 秦彻（热度：185555）
 </a>
 </li>
 
@@ -208,25 +226,19 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%9A%E6%96%87%E9%AB%98%E4%BC%9A%E7%AC%AC%E4%B8%80%23" target="weibo">
-杨博文高会第一（热度：151752）
+杨博文高会第一（热度：151890）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B4%A7%E9%87%91%E4%BB%B7%E5%8F%88%E5%88%9B%E6%96%B0%E9%AB%98%23" target="weibo">
-现货金价又创新高（热度：143530）
+现货金价又创新高（热度：148330）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BC%8A%E4%BA%BA%E6%BA%9C%E8%BE%BE%E6%97%A5%E5%B8%B8%23" target="weibo">
 宋伊人溜达日常（热度：140537）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E5%8A%A0%E6%80%BB%E7%90%86%E9%9D%A2%E6%8F%90%E5%90%9E%E5%B9%B6%E5%8A%A0%E6%8B%BF%E5%A4%A7%23" target="weibo">
-特朗普当加总理面提吞并加拿大（热度：140089）
 </a>
 </li>
 
@@ -249,12 +261,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E7%A7%A6%E5%BD%BB%23" target="weibo">
-恋与深空 秦彻（热度：134510）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E5%AF%92%E9%9C%B2%E6%9D%A5%E4%BA%86%23" target="weibo">
 一觉醒来寒露来了（热度：130505）
 </a>
@@ -263,6 +269,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%86%E9%95%BF%E8%A2%AB%E5%8F%B0%E6%B9%BE%E8%AD%A6%E6%96%B9%E4%BE%A6%E5%8A%9E%23" target="weibo">
 馆长被台湾警方侦办（热度：130263）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%9C%A8%E5%8C%97%E6%96%B9%E7%A9%BF%E6%A3%89%E8%A2%84%E6%88%91%E5%9C%A8%E5%8D%97%E6%96%B9%E5%90%B9%E7%A9%BA%E8%B0%83%23" target="weibo">
+你在北方穿棉袄我在南方吹空调（热度：125474）
 </a>
 </li>
 
@@ -279,14 +291,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8%23" target="weibo">
-广州暴雨（热度：119031）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B44000%E7%BE%8E%E5%85%83%23" target="weibo">
+金价突破4000美元（热度：119422）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E5%A4%8F%E4%BB%A5%E6%98%BC%23" target="weibo">
-恋与深空 夏以昼（热度：118988）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8%23" target="weibo">
+广州暴雨（热度：119031）
 </a>
 </li>
 
@@ -303,6 +315,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E6%B6%A8%E4%BA%86%23" target="weibo">
+金价又涨了（热度：109283）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E4%B8%80%E4%BE%A8%E5%9C%A8%E5%AE%B6%E5%81%B7%E5%81%B7%E7%A9%BF%E5%B0%8F%E8%84%9A%E8%A3%A4%23" target="weibo">
 蒋一侨在家偷偷穿小脚裤（热度：107148）
 </a>
@@ -310,25 +328,43 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E1%E5%A4%A9%E8%BF%8E%E6%9D%A5%E5%AF%92%E9%9C%B2%23" target="weibo">
-假期最后1天迎来寒露（热度：105009）
+假期最后1天迎来寒露（热度：106759）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%9C%A8%E5%8C%97%E6%96%B9%E7%A9%BF%E6%A3%89%E8%A2%84%E6%88%91%E5%9C%A8%E5%8D%97%E6%96%B9%E5%90%B9%E7%A9%BA%E8%B0%83%23" target="weibo">
-你在北方穿棉袄我在南方吹空调（热度：101271）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%AA%E4%B8%8D%E5%A4%AA%E5%A5%BD%E7%9A%84%E4%B9%A0%E6%83%AF%E5%8F%AB%E7%A9%B7%E6%80%9D%E7%AB%AD%E8%99%91%23" target="weibo">
+有个不太好的习惯叫穷思竭虑（热度：106661）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%98%BF%E9%BB%9B%E9%80%A0%E5%9E%8B%23" target="weibo">
-鞠婧祎阿黛造型（热度：93991）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A81%E5%85%831%E4%B8%AA%23" target="weibo">
+大国重器1元1个（热度：103606）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E8%84%8F%E8%84%8F%E5%8C%85%E9%80%83%E9%9A%BE%E5%BC%80%E5%A7%8B%23" target="weibo">
+两个脏脏包逃难开始（热度：103377）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2336%E8%BD%A6%E9%81%93%E6%8C%A4%E6%BB%A1%E8%BF%94%E7%A8%8B%E5%A4%A7%E5%86%9B%23" target="weibo">
-36车道挤满返程大军（热度：91804）
+36车道挤满返程大军（热度：97585）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E5%A9%A7%E7%A5%8E%E9%98%BF%E9%BB%9B%E9%80%A0%E5%9E%8B%23" target="weibo">
+鞠婧祎阿黛造型（热度：95402）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%AF%B4%E4%B8%8D%E9%9C%80%E8%A6%81%E8%BE%B1%E8%BF%BD%E7%B2%89%23" target="weibo">
+刘宇宁说不需要辱追粉（热度：92602）
 </a>
 </li>
 
@@ -339,8 +375,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8F%98%E8%AF%95%E8%A1%A3%E9%97%B4%23" target="weibo">
+刘宇宁直播间变试衣间（热度：90759）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%A4%B1%E8%B8%AA4%E5%B9%B4%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%97%B6%E5%B7%B2%E6%88%90%E5%B9%B2%E5%B0%B8%23" target="weibo">
 姐姐失踪4年被发现时已成干尸（热度：86673）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%AF%92%E9%9C%B2%E8%8A%82%E6%B0%94%23" target="weibo">
+文化中国行寒露节气（热度：82166）
 </a>
 </li>
 
@@ -411,6 +459,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%88%E5%BC%80%E5%A7%8B%E5%90%AC%E5%8F%8D%E6%96%B9%E5%90%91%E7%9A%84%E9%92%9F%E4%BA%86%23" target="weibo">
+又开始听反方向的钟了（热度：68262）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%20%E5%88%80%E5%89%91%E5%A6%82%E6%A2%A6%23" target="weibo">
 成毅 刀剑如梦（热度：66638）
 </a>
@@ -431,18 +485,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B2%BE%E7%AE%80%E7%89%88ModelY%E5%94%AE%E4%BB%B7%23" target="weibo">
 精简版ModelY售价（热度：64117）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%8C%96%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%AF%92%E9%9C%B2%E8%8A%82%E6%B0%94%23" target="weibo">
-文化中国行寒露节气（热度：63512）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%88%E5%BC%80%E5%A7%8B%E5%90%AC%E5%8F%8D%E6%96%B9%E5%90%91%E7%9A%84%E9%92%9F%E4%BA%86%23" target="weibo">
-又开始听反方向的钟了（热度：63424）
 </a>
 </li>
 
@@ -641,6 +683,12 @@ CP2025SP（热度：26632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E8%AD%A6%E6%83%95%E6%9C%BA%E7%A5%A8%E9%80%80%E6%94%B9%E7%AD%BE%E9%99%B7%E9%98%B1%23" target="weibo">
 假期返程警惕机票退改签陷阱（热度：15715）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%98%89%E7%91%9E%E5%9D%90%E8%BF%87%E5%B1%B1%E8%BD%A6%E5%85%A8%E7%A8%8B%E6%8A%93%E7%9D%80%E5%AE%8B%E8%8C%9C%23" target="weibo">
+田嘉瑞坐过山车全程抓着宋茜（热度：15228）
 </a>
 </li>
 

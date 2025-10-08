@@ -1,10 +1,10 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759888155259,
+  "endTime": 1759889387192,
   "band_list": [
     {
-      "raw_hot": 1120228,
-      "num": 1179236,
+      "raw_hot": 1235949,
+      "num": 1235949,
       "word": "男子喝3斤白酒用智驾开车20公里",
       "onboard_time": 1759884739,
       "rank": 0,
@@ -43,7 +43,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 454081,
+      "raw_hot": 504247,
+      "num": 504247,
+      "word": "法国网红拿针管假装扎人获刑半年",
+      "onboard_time": 1759884679,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 498380,
       "num": 144077,
       "word": "公司回应联系不上得诺奖的员工",
       "onboard_time": 1759881621,
@@ -57,14 +65,6 @@
       "onboard_time": 1759848921,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 419527,
-      "num": 419527,
-      "word": "法国网红拿针管假装扎人获刑半年",
-      "onboard_time": 1759884679,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 376438,
@@ -83,12 +83,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 317417,
+      "num": 317417,
+      "word": "特朗普当加总理面提吞并加拿大",
+      "onboard_time": 1759887440,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 311554,
       "num": 217766,
       "word": "一笑随歌热度",
       "onboard_time": 1759848024,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 290719,
+      "num": 290719,
+      "word": "姑妈鱼 女朋友",
+      "onboard_time": 1759886240,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 282907,
@@ -107,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 276880,
+      "num": 224510,
+      "word": "李庚希生图",
+      "onboard_time": 1759883900,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276107,
       "num": 207996,
       "word": "周生辰下时宜了",
@@ -123,8 +147,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 267457,
+      "num": 219849,
+      "word": "去看张艺兴演唱会的明星",
+      "onboard_time": 1759884979,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 263433,
-      "num": 143682,
+      "num": 211901,
       "word": "娜扎顶光极致怼脸状态",
       "onboard_time": 1759882819,
       "rank": 12,
@@ -155,16 +187,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246696,
-      "num": 143474,
-      "word": "姑妈鱼 女朋友",
-      "onboard_time": 1759886240,
-      "rank": 13,
-      "category": "电竞"
+      "raw_hot": 243270,
+      "num": 243270,
+      "word": "恋与深空 夏以昼",
+      "onboard_time": 1759887858,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 237386,
-      "num": 143836,
+      "num": 192999,
       "word": "北京雨雨雨雨",
       "onboard_time": 1759883059,
       "rank": 11,
@@ -187,28 +219,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202394,
-      "num": 143245,
-      "word": "李庚希生图",
-      "onboard_time": 1759883900,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 200948,
-      "num": 142993,
-      "word": "去看张艺兴演唱会的明星",
-      "onboard_time": 1759884979,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 197413,
       "num": 145322,
       "word": "殷世航向傲娇美求婚",
       "onboard_time": 1759844304,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 185555,
+      "num": 120599,
+      "word": "恋与深空 秦彻",
+      "onboard_time": 1759887858,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 184760,
@@ -259,7 +283,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151752,
+      "raw_hot": 151890,
       "num": 123283,
       "word": "杨博文高会第一",
       "onboard_time": 1759885519,
@@ -267,7 +291,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143530,
+      "raw_hot": 148330,
       "num": 122006,
       "word": "现货金价又创新高",
       "onboard_time": 1759887741,
@@ -281,14 +305,6 @@
       "onboard_time": 1759832542,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140089,
-      "num": 140089,
-      "word": "特朗普当加总理面提吞并加拿大",
-      "onboard_time": 1759887440,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 138563,
@@ -315,14 +331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134510,
-      "num": 120599,
-      "word": "恋与深空 秦彻",
-      "onboard_time": 1759887858,
-      "rank": 25,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 130505,
       "num": 130505,
       "word": "一觉醒来寒露来了",
@@ -336,6 +344,14 @@
       "word": "馆长被台湾警方侦办",
       "onboard_time": 1759844123,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125474,
+      "num": 125474,
+      "word": "你在北方穿棉袄我在南方吹空调",
+      "onboard_time": 1759883959,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -355,20 +371,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119422,
+      "num": 106684,
+      "word": "金价突破4000美元",
+      "onboard_time": 1759888821,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119031,
       "num": 119031,
       "word": "广州暴雨",
       "onboard_time": 1759842744,
       "rank": 22,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 118988,
-      "num": 118988,
-      "word": "恋与深空 夏以昼",
-      "onboard_time": 1759887858,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 117086,
@@ -387,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109283,
+      "num": 106668,
+      "word": "金价又涨了",
+      "onboard_time": 1759889060,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 107148,
       "num": 107148,
       "word": "蒋一侨在家偷偷穿小脚裤",
@@ -395,36 +419,60 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105009,
-      "num": 105009,
+      "raw_hot": 106759,
+      "num": 106759,
       "word": "假期最后1天迎来寒露",
       "onboard_time": 1759854859,
       "rank": 34,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101271,
-      "num": 101271,
-      "word": "你在北方穿棉袄我在南方吹空调",
-      "onboard_time": 1759883959,
-      "rank": 31,
+      "raw_hot": 106661,
+      "num": 106661,
+      "word": "有个不太好的习惯叫穷思竭虑",
+      "onboard_time": 1759888519,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 103606,
+      "num": 103606,
+      "word": "大国重器1元1个",
+      "onboard_time": 1759889361,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93991,
-      "num": 93991,
+      "raw_hot": 103377,
+      "num": 103377,
+      "word": "两个脏脏包逃难开始",
+      "onboard_time": 1759888519,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 97585,
+      "num": 97585,
+      "word": "36车道挤满返程大军",
+      "onboard_time": 1759883780,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95402,
+      "num": 95402,
       "word": "鞠婧祎阿黛造型",
       "onboard_time": 1759884260,
       "rank": 35,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 91804,
-      "num": 91804,
-      "word": "36车道挤满返程大军",
-      "onboard_time": 1759883780,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 92602,
+      "num": 92602,
+      "word": "刘宇宁说不需要辱追粉",
+      "onboard_time": 1759888580,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 91298,
@@ -435,11 +483,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90759,
+      "num": 80016,
+      "word": "刘宇宁直播间变试衣间",
+      "onboard_time": 1759885038,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86673,
       "num": 115752,
       "word": "姐姐失踪4年被发现时已成干尸",
       "onboard_time": 1759823422,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82166,
+      "num": 82166,
+      "word": "文化中国行寒露节气",
+      "onboard_time": 1759879458,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -531,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68262,
+      "num": 76874,
+      "word": "又开始听反方向的钟了",
+      "onboard_time": 1759886720,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66638,
       "num": 115674,
       "word": "成毅 刀剑如梦",
@@ -561,22 +633,6 @@
       "onboard_time": 1759835180,
       "rank": 36,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 63512,
-      "num": 63512,
-      "word": "文化中国行寒露节气",
-      "onboard_time": 1759879458,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63424,
-      "num": 76874,
-      "word": "又开始听反方向的钟了",
-      "onboard_time": 1759886720,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62356,
@@ -841,6 +897,14 @@
       "onboard_time": 1759868954,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15228,
+      "num": 93939,
+      "word": "田嘉瑞坐过山车全程抓着宋茜",
+      "onboard_time": 1759889239,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 14270,
