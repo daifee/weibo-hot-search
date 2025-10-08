@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 19:21:38
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 19:37:12
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%238%E5%A4%A9%E5%BE%88%E7%9F%AD%207%E5%A4%A9%E5%BE%88%E9%95%BF%23" target="weibo">
+8天很短 7天很长（热度：1318443）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E9%B8%A1%E6%8E%92%E5%93%A5%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%23" target="weibo">
 人人人人人人鸡排哥人人人人人人（热度：1302673）
 </a>
@@ -431,12 +437,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E5%A5%B3%E5%84%BF%E5%B1%85%E7%84%B6%E9%A9%AC%E4%B8%8A%E8%A6%81%E8%AF%BB%E5%A4%A7%E5%AD%A6%E4%BA%86%23" target="weibo">
 刘涛女儿居然马上要读大学了（热度：1220104）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%238%E5%A4%A9%E5%BE%88%E7%9F%AD%207%E5%A4%A9%E5%BE%88%E9%95%BF%23" target="weibo">
-8天很短 7天很长（热度：1199638）
 </a>
 </li>
 
@@ -2955,6 +2955,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E5%A4%8F%E8%8A%AC%E5%BE%B7%E6%8B%89%E8%A7%81%E9%9D%A2%E4%BC%9A%23" target="weibo">
+盛夏芬德拉见面会（热度：389333）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%B8%BA%E5%9C%A8%E8%A3%85%E7%97%85%E7%BB%93%E6%9E%9C%E7%9C%9F%E7%A1%AE%E8%AF%8A%E4%BA%86%23" target="weibo">
 以为在装病结果真确诊了（热度：388372）
 </a>
@@ -3233,12 +3239,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E4%B8%80%E5%B8%82%E6%B0%91%E5%AE%B6%E4%B8%AD%E6%83%8A%E7%8E%B0%E9%BC%A0%E6%9D%A1%23" target="weibo">
 广州一市民家中惊现鼠条（热度：363618）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E5%A4%8F%E8%8A%AC%E5%BE%B7%E6%8B%89%E8%A7%81%E9%9D%A2%E4%BC%9A%23" target="weibo">
-盛夏芬德拉见面会（热度：360946）
 </a>
 </li>
 
@@ -4431,6 +4431,12 @@ F1（热度：275052）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%9C%86%E9%94%8B%E4%BD%A0%E6%9C%80%E5%A5%BD%E7%BB%99%E6%88%91%E4%B8%80%E4%B8%AA%E8%A7%A3%E9%87%8A%23" target="weibo">
+谢霆锋你最好给我一个解释（热度：269445）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E7%BD%91%E7%BA%A2%E7%BA%B7%E7%BA%B7%E6%B2%89%E8%BF%B7%E4%B8%AD%E5%9B%BD%E4%BF%AE%E5%AE%B9%E5%A4%A7%E6%B3%95%23" target="weibo">
 外国网红纷纷沉迷中国修容大法（热度：268522）
 </a>
@@ -4755,12 +4761,6 @@ F1（热度：275052）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%9C%86%E9%94%8B%E4%BD%A0%E6%9C%80%E5%A5%BD%E7%BB%99%E6%88%91%E4%B8%80%E4%B8%AA%E8%A7%A3%E9%87%8A%23" target="weibo">
-谢霆锋你最好给我一个解释（热度：247233）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B9%B8%E5%90%8C%E8%A2%AB%E7%BD%9A%E5%88%86%23" target="weibo">
 陈幸同被罚分（热度：246807）
 </a>
@@ -4859,6 +4859,12 @@ hi6收视率排名第一（热度：245066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E6%A5%BC%E4%B8%8B%20%E6%8B%8D%E7%AB%8B%E5%BE%97%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
 时代峰峻楼下 拍立得发布会（热度：240484）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%23" target="weibo">
+林俊杰（热度：240477）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ AG战胜RW（热度：199437）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%A3%8A%E8%AF%B4%E7%94%9F%E5%AD%A9%E5%AD%90%E8%A6%81%E5%B0%8A%E9%87%8Dqko%E6%84%8F%E6%84%BF%23" target="weibo">
 赵磊说生孩子要尊重qko意愿（热度：197194）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E7%8E%B0%E8%BA%ABLadyGaga%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-那英现身LadyGaga演唱会（热度：197088）
 </a>
 </li>
 

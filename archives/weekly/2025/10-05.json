@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759922498076,
+  "endTime": 1759923432233,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -195,6 +195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1318443,
+      "num": 1318443,
+      "word": "8天很短 7天很长",
+      "onboard_time": 1759915401,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1291281,
       "num": 1291281,
       "word": "王楚钦vsF勒布伦",
@@ -273,14 +281,6 @@
       "onboard_time": 1759805060,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1199638,
-      "num": 1199638,
-      "word": "8天很短 7天很长",
-      "onboard_time": 1759915401,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 1197599,
@@ -1907,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389333,
+      "num": 219017,
+      "word": "盛夏芬德拉见面会",
+      "onboard_time": 1759919720,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385478,
       "num": 385478,
       "word": "诺贝尔",
@@ -2081,14 +2089,6 @@
       "onboard_time": 1759619656,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 360946,
-      "num": 206278,
-      "word": "盛夏芬德拉见面会",
-      "onboard_time": 1759919720,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 360617,
@@ -2780,7 +2780,7 @@
     },
     {
       "raw_hot": 283316,
-      "num": 197965,
+      "num": 214996,
       "word": "王一博85车队亚军",
       "onboard_time": 1759919841,
       "rank": 28,
@@ -2987,6 +2987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 269445,
+      "num": 216017,
+      "word": "谢霆锋你最好给我一个解释",
+      "onboard_time": 1759918940,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 267457,
       "num": 219849,
       "word": "去看张艺兴演唱会的明星",
@@ -3171,14 +3179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247233,
-      "num": 216017,
-      "word": "谢霆锋你最好给我一个解释",
-      "onboard_time": 1759918940,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 245799,
       "num": 245799,
       "word": "珠峰暴雪向导一人一狗带超百人撤离",
@@ -3217,6 +3217,14 @@
       "onboard_time": 1759661003,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240477,
+      "num": 213368,
+      "word": "林俊杰",
+      "onboard_time": 1759922182,
+      "rank": 32,
+      "category": "音乐,游戏"
     },
     {
       "raw_hot": 239413,
@@ -3977,6 +3985,14 @@
       "onboard_time": 1759911381,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193855,
+      "num": 193855,
+      "word": "3名诺贝尔化学奖得主履历",
+      "onboard_time": 1759922119,
+      "rank": 25,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 193639,
@@ -4779,6 +4795,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 173716,
+      "num": 182045,
+      "word": "中国留学生潜水失踪只找到根遗骨",
+      "onboard_time": 1759921580,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173502,
       "num": 157216,
       "word": "王楚钦这回自拍只能自己掌镜了",
@@ -5075,6 +5099,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 165955,
+      "num": 165955,
+      "word": "强生被判赔单一原告近70亿元",
+      "onboard_time": 1759922420,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165667,
       "num": 201356,
       "word": "打卡最美月亮",
@@ -5169,6 +5201,14 @@
       "onboard_time": 1759673905,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 162709,
+      "num": 162709,
+      "word": "卢昱晓新剧台词尺度",
+      "onboard_time": 1759920800,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 162400,
@@ -5409,14 +5449,6 @@
       "onboard_time": 1759903880,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156005,
-      "num": 156005,
-      "word": "3名诺贝尔化学奖得主履历",
-      "onboard_time": 1759922119,
-      "rank": 25,
-      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 155811,
@@ -5715,6 +5747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148969,
+      "num": 148969,
+      "word": "台湾积累数十年产业优势将流失殆尽",
+      "onboard_time": 1759921341,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148900,
       "num": 148900,
       "word": "今后几天雨雨雨雨雨不停",
@@ -5729,6 +5769,14 @@
       "onboard_time": 1759638320,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148606,
+      "num": 148606,
+      "word": "小酒窝缩小版董璇",
+      "onboard_time": 1759922961,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 148552,
@@ -5971,6 +6019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143870,
+      "num": 143870,
+      "word": "入青云热度",
+      "onboard_time": 1759922780,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143693,
       "num": 143693,
       "word": "卢昱晓把倪妮摇来了",
@@ -6059,14 +6115,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 141581,
-      "num": 141581,
-      "word": "卢昱晓新剧台词尺度",
-      "onboard_time": 1759920800,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141554,
       "num": 141554,
       "word": "第23号台风娜基莉或要来了",
@@ -6145,6 +6193,14 @@
       "onboard_time": 1759665863,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140173,
+      "num": 140173,
+      "word": "西贝又开始排队了",
+      "onboard_time": 1759921640,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140095,
@@ -6265,14 +6321,6 @@
       "onboard_time": 1759824981,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 137908,
-      "num": 137908,
-      "word": "台湾积累数十年产业优势将流失殆尽",
-      "onboard_time": 1759921341,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137796,
@@ -6528,6 +6576,14 @@
       "word": "李斯丹妮因工作人员没会员唱歌中断",
       "onboard_time": 1759722921,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134243,
+      "num": 134243,
+      "word": "邓超回到假期第一天的方法",
+      "onboard_time": 1759920920,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -6819,6 +6875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129326,
+      "num": 129326,
+      "word": "接下来三个月只剩下例假了",
+      "onboard_time": 1759920859,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129236,
       "num": 129236,
       "word": "张予曦出门拍戏半年回来仍是毛坯",
@@ -7017,14 +7081,6 @@
       "onboard_time": 1759883959,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125300,
-      "num": 125300,
-      "word": "林俊杰",
-      "onboard_time": 1759922182,
-      "rank": 32,
-      "category": "音乐,游戏"
     },
     {
       "raw_hot": 125274,
@@ -7683,6 +7739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115599,
+      "num": 115599,
+      "word": "网友称买10斤芒果礼盒3斤是书",
+      "onboard_time": 1759923142,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115559,
       "num": 115559,
       "word": "丁程鑫哈尔滨路演路透",
@@ -7825,14 +7889,6 @@
       "onboard_time": 1759629260,
       "rank": 32,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 113747,
-      "num": 113747,
-      "word": "强生被判赔单一原告近70亿元",
-      "onboard_time": 1759922420,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 113673,
@@ -9619,14 +9675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95429,
-      "num": 95429,
-      "word": "邓超回到假期第一天的方法",
-      "onboard_time": 1759920920,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95402,
       "num": 95402,
       "word": "鞠婧祎阿黛造型",
@@ -9659,12 +9707,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95153,
+      "num": 95153,
+      "word": "谭维维给我递麦了 我没唱上去",
+      "onboard_time": 1759923021,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 95133,
       "num": 95133,
       "word": "王楚钦太坚定了",
       "onboard_time": 1759652780,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95112,
+      "num": 120573,
+      "word": "LPL醒一醒",
+      "onboard_time": 1759922481,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 95111,
@@ -9857,14 +9921,6 @@
       "onboard_time": 1759792876,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 93406,
-      "num": 93406,
-      "word": "接下来三个月只剩下例假了",
-      "onboard_time": 1759920859,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 93225,
@@ -10075,6 +10131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90701,
+      "num": 90701,
+      "word": "CELINE中国队 对眼睛很友好",
+      "onboard_time": 1759923202,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 90661,
       "num": 90661,
       "word": "陈哲远扛住了外媒的强曝光",
@@ -10139,14 +10203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90079,
-      "num": 96914,
-      "word": "LPL醒一醒",
-      "onboard_time": 1759922481,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 90068,
       "num": 90068,
       "word": "张帅2比1纳瓦罗",
@@ -10185,14 +10241,6 @@
       "onboard_time": 1759712299,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 89580,
-      "num": 182045,
-      "word": "中国留学生潜水失踪只找到根遗骨",
-      "onboard_time": 1759921580,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89526,
@@ -11011,14 +11059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 74229,
-      "num": 106351,
-      "word": "西贝又开始排队了",
-      "onboard_time": 1759921640,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74126,
       "num": 145703,
       "word": "高市早苗将接手3个烂摊子",
@@ -11329,6 +11369,14 @@
       "onboard_time": 1759832361,
       "rank": 18,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 64485,
+      "num": 121211,
+      "word": "蒋欣这次屏蔽经纪人了吗",
+      "onboard_time": 1759922901,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 64431,

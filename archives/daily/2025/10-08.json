@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759922498076,
+  "endTime": 1759923432233,
   "band_list": [
     {
       "raw_hot": 2521495,
@@ -43,6 +43,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 1318443,
+      "num": 1318443,
+      "word": "8天很短 7天很长",
+      "onboard_time": 1759915401,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1264659,
       "num": 1264659,
       "word": "尹锡悦夫妇中秋节牢饭曝光",
@@ -65,14 +73,6 @@
       "onboard_time": 1759884739,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1199638,
-      "num": 1199638,
-      "word": "8天很短 7天很长",
-      "onboard_time": 1759915401,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 1197599,
@@ -371,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 389333,
+      "num": 219017,
+      "word": "盛夏芬德拉见面会",
+      "onboard_time": 1759919720,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384039,
       "num": 384039,
       "word": "黄金",
@@ -441,14 +449,6 @@
       "onboard_time": 1759900341,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 360946,
-      "num": 206278,
-      "word": "盛夏芬德拉见面会",
-      "onboard_time": 1759919720,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 355735,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 283316,
-      "num": 197965,
+      "num": 214996,
       "word": "王一博85车队亚军",
       "onboard_time": 1759919841,
       "rank": 28,
@@ -625,6 +625,14 @@
       "onboard_time": 1759909220,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269445,
+      "num": 216017,
+      "word": "谢霆锋你最好给我一个解释",
+      "onboard_time": 1759918940,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 267457,
@@ -699,14 +707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247233,
-      "num": 216017,
-      "word": "谢霆锋你最好给我一个解释",
-      "onboard_time": 1759918940,
-      "rank": 21,
-      "category": "演出"
-    },
-    {
       "raw_hot": 243270,
       "num": 243270,
       "word": "恋与深空 夏以昼",
@@ -721,6 +721,14 @@
       "onboard_time": 1759894402,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 240477,
+      "num": 213368,
+      "word": "林俊杰",
+      "onboard_time": 1759922182,
+      "rank": 32,
+      "category": "音乐,游戏"
     },
     {
       "raw_hot": 237386,
@@ -865,6 +873,14 @@
       "onboard_time": 1759911381,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193855,
+      "num": 193855,
+      "word": "3名诺贝尔化学奖得主履历",
+      "onboard_time": 1759922119,
+      "rank": 25,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 192902,
@@ -1043,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173716,
+      "num": 182045,
+      "word": "中国留学生潜水失踪只找到根遗骨",
+      "onboard_time": 1759921580,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173355,
       "num": 173355,
       "word": "南京地铁回应鸡鸣寺暗讽事件",
@@ -1107,6 +1131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165955,
+      "num": 165955,
+      "word": "强生被判赔单一原告近70亿元",
+      "onboard_time": 1759922420,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164032,
       "num": 164032,
       "word": "成毅演蒙面刺客建议戴面罩",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1759899020,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162709,
+      "num": 162709,
+      "word": "卢昱晓新剧台词尺度",
+      "onboard_time": 1759920800,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 160399,
@@ -1177,14 +1217,6 @@
       "onboard_time": 1759903880,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156005,
-      "num": 156005,
-      "word": "3名诺贝尔化学奖得主履历",
-      "onboard_time": 1759922119,
-      "rank": 25,
-      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 154756,
@@ -1291,6 +1323,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148969,
+      "num": 148969,
+      "word": "台湾积累数十年产业优势将流失殆尽",
+      "onboard_time": 1759921341,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148606,
+      "num": 148606,
+      "word": "小酒窝缩小版董璇",
+      "onboard_time": 1759922961,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148330,
       "num": 122006,
       "word": "现货金价又创新高",
@@ -1315,6 +1363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 143870,
+      "num": 143870,
+      "word": "入青云热度",
+      "onboard_time": 1759922780,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143693,
       "num": 143693,
       "word": "卢昱晓把倪妮摇来了",
@@ -1329,14 +1385,6 @@
       "onboard_time": 1759893621,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 141581,
-      "num": 141581,
-      "word": "卢昱晓新剧台词尺度",
-      "onboard_time": 1759920800,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 141554,
@@ -1363,20 +1411,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140173,
+      "num": 140173,
+      "word": "西贝又开始排队了",
+      "onboard_time": 1759921640,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138563,
       "num": 134699,
       "word": "陈哲远台词",
       "onboard_time": 1759852041,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137908,
-      "num": 137908,
-      "word": "台湾积累数十年产业优势将流失殆尽",
-      "onboard_time": 1759921341,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137826,
@@ -1441,6 +1489,14 @@
       "onboard_time": 1759896440,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 134243,
+      "num": 134243,
+      "word": "邓超回到假期第一天的方法",
+      "onboard_time": 1759920920,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 133970,
@@ -1531,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129326,
+      "num": 129326,
+      "word": "接下来三个月只剩下例假了",
+      "onboard_time": 1759920859,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129236,
       "num": 129236,
       "word": "张予曦出门拍戏半年回来仍是毛坯",
@@ -1577,14 +1641,6 @@
       "onboard_time": 1759883959,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125300,
-      "num": 125300,
-      "word": "林俊杰",
-      "onboard_time": 1759922182,
-      "rank": 32,
-      "category": "音乐,游戏"
     },
     {
       "raw_hot": 124405,
@@ -1723,6 +1779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 115599,
+      "num": 115599,
+      "word": "网友称买10斤芒果礼盒3斤是书",
+      "onboard_time": 1759923142,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115559,
       "num": 115559,
       "word": "丁程鑫哈尔滨路演路透",
@@ -1753,14 +1817,6 @@
       "onboard_time": 1759891581,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 113747,
-      "num": 113747,
-      "word": "强生被判赔单一原告近70亿元",
-      "onboard_time": 1759922420,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112458,
@@ -2067,14 +2123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 95429,
-      "num": 95429,
-      "word": "邓超回到假期第一天的方法",
-      "onboard_time": 1759920920,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95402,
       "num": 95402,
       "word": "鞠婧祎阿黛造型",
@@ -2097,6 +2145,22 @@
       "onboard_time": 1759895000,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95153,
+      "num": 95153,
+      "word": "谭维维给我递麦了 我没唱上去",
+      "onboard_time": 1759923021,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 95112,
+      "num": 120573,
+      "word": "LPL醒一醒",
+      "onboard_time": 1759922481,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 95030,
@@ -2129,14 +2193,6 @@
       "onboard_time": 1759900702,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93406,
-      "num": 93406,
-      "word": "接下来三个月只剩下例假了",
-      "onboard_time": 1759920859,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 92566,
@@ -2187,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90701,
+      "num": 90701,
+      "word": "CELINE中国队 对眼睛很友好",
+      "onboard_time": 1759923202,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 90565,
       "num": 90565,
       "word": "郑钦文23岁生日获四大满贯祝贺",
@@ -2201,22 +2265,6 @@
       "onboard_time": 1759900702,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90079,
-      "num": 96914,
-      "word": "LPL醒一醒",
-      "onboard_time": 1759922481,
-      "rank": 41,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 89580,
-      "num": 182045,
-      "word": "中国留学生潜水失踪只找到根遗骨",
-      "onboard_time": 1759921580,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89502,
@@ -2427,14 +2475,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 74229,
-      "num": 106351,
-      "word": "西贝又开始排队了",
-      "onboard_time": 1759921640,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73232,
       "num": 73232,
       "word": "中国航天69周年",
@@ -2513,6 +2553,14 @@
       "onboard_time": 1759878197,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64485,
+      "num": 121211,
+      "word": "蒋欣这次屏蔽经纪人了吗",
+      "onboard_time": 1759922901,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 64117,
