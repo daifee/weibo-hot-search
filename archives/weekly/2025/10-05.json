@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759912454380,
+  "endTime": 1759913227401,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1475503,
-      "num": 268047,
+      "num": 285964,
       "word": "孟子义拍戏摔了",
       "onboard_time": 1759894521,
       "rank": 16,
@@ -284,7 +284,7 @@
     },
     {
       "raw_hot": 1146142,
-      "num": 269709,
+      "num": 295536,
       "word": "李一桐美人余造型疑似抄袭许我耀眼",
       "onboard_time": 1759902681,
       "rank": 10,
@@ -465,6 +465,14 @@
       "onboard_time": 1759802900,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 925854,
+      "num": 925854,
+      "word": "官方通报黄某某拒服兵役",
+      "onboard_time": 1759908381,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 920198,
@@ -665,14 +673,6 @@
       "onboard_time": 1759730601,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 791169,
-      "num": 791169,
-      "word": "官方通报黄某某拒服兵役",
-      "onboard_time": 1759908381,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 779523,
@@ -883,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 636519,
+      "num": 636519,
+      "word": "鸡排哥有专属空调了",
+      "onboard_time": 1759910361,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 632624,
       "num": 632624,
       "word": "2025诺贝尔物理学奖公布",
@@ -1064,14 +1072,6 @@
       "word": "三亚大悦城致歉",
       "onboard_time": 1759625959,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 545820,
-      "num": 545820,
-      "word": "鸡排哥有专属空调了",
-      "onboard_time": 1759910361,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -1395,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476626,
+      "num": 476626,
+      "word": "统一必胜台独必亡",
+      "onboard_time": 1759910181,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 473630,
       "num": 473630,
       "word": "美驻华大使馆宣布微博微信停更",
@@ -1409,6 +1417,14 @@
       "onboard_time": 1759631181,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 471933,
+      "num": 287885,
+      "word": "范丞丞的指甲",
+      "onboard_time": 1759909582,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 466195,
@@ -1579,6 +1595,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 439758,
+      "num": 439758,
+      "word": "不午睡vs午睡太久",
+      "onboard_time": 1759909701,
+      "rank": 8,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 438654,
       "num": 438654,
       "word": "山西婚礼要在下水道井盖贴喜字",
@@ -1601,14 +1625,6 @@
       "onboard_time": 1759764143,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 435543,
-      "num": 435543,
-      "word": "统一必胜台独必亡",
-      "onboard_time": 1759910181,
-      "rank": 7,
-      "category": "国内时政"
     },
     {
       "raw_hot": 435235,
@@ -1721,14 +1737,6 @@
       "onboard_time": 1759899020,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 415957,
-      "num": 415957,
-      "word": "不午睡vs午睡太久",
-      "onboard_time": 1759909701,
-      "rank": 8,
-      "category": "科学科普"
     },
     {
       "raw_hot": 404663,
@@ -1897,14 +1905,6 @@
       "onboard_time": 1759904960,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 375474,
-      "num": 265593,
-      "word": "范丞丞的指甲",
-      "onboard_time": 1759909582,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 375337,
@@ -2851,6 +2851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270392,
+      "num": 270392,
+      "word": "入青云首播反馈",
+      "onboard_time": 1759909220,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270382,
       "num": 199152,
       "word": "杜海涛到了伦敦冒充王嘉尔",
@@ -3507,14 +3515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208782,
-      "num": 208782,
-      "word": "入青云首播反馈",
-      "onboard_time": 1759909220,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208173,
       "num": 208173,
       "word": "张晚意为李沁新剧宣传",
@@ -3643,6 +3643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 202310,
+      "num": 202310,
+      "word": "张艺兴和张艺谋团队梦幻联动上了",
+      "onboard_time": 1759912401,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201136,
       "num": 201136,
       "word": "赵本山女儿球球回应和哥哥争财产",
@@ -3761,6 +3769,14 @@
       "onboard_time": 1759706777,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196049,
+      "num": 196049,
+      "word": "刘宇宁不拍杂志的原因",
+      "onboard_time": 1759910300,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 195953,
@@ -4195,6 +4211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182403,
+      "num": 182403,
+      "word": "Angelababay杂志",
+      "onboard_time": 1759912642,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182126,
       "num": 168701,
       "word": "孙颖莎牌扫地机",
@@ -4259,6 +4283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180819,
+      "num": 180819,
+      "word": "才意识到饥饿感对五官的影响有多大",
+      "onboard_time": 1759909819,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 180485,
       "num": 180485,
       "word": "拉塞尔夺F1新加坡站冠军",
@@ -4289,14 +4321,6 @@
       "onboard_time": 1759817659,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 179615,
-      "num": 179615,
-      "word": "刘宇宁不拍杂志的原因",
-      "onboard_time": 1759910300,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 179504,
@@ -4561,14 +4585,6 @@
       "onboard_time": 1759678222,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173360,
-      "num": 173360,
-      "word": "才意识到饥饿感对五官的影响有多大",
-      "onboard_time": 1759909819,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 173266,
@@ -5003,14 +5019,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 160536,
-      "num": 160536,
-      "word": "张艺兴和张艺谋团队梦幻联动上了",
-      "onboard_time": 1759912401,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 160435,
       "num": 160435,
       "word": "檀健次第三个生日愿望是什么",
@@ -5088,6 +5096,14 @@
       "word": "33别告诉我妈",
       "onboard_time": 1759900761,
       "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 158753,
+      "num": 158753,
+      "word": "赖神 Fly",
+      "onboard_time": 1759909520,
+      "rank": 30,
       "category": "电竞"
     },
     {
@@ -5257,14 +5273,6 @@
       "onboard_time": 1759897881,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154425,
-      "num": 154425,
-      "word": "赖神 Fly",
-      "onboard_time": 1759909520,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 154320,
@@ -5795,12 +5803,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 141554,
+      "num": 141554,
+      "word": "第23号台风娜基莉或要来了",
+      "onboard_time": 1759909882,
+      "rank": 35,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 141524,
       "num": 141524,
       "word": "逐玉",
       "onboard_time": 1759718360,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141137,
+      "num": 141137,
+      "word": "不想开学",
+      "onboard_time": 1759912281,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 141048,
@@ -6097,6 +6121,14 @@
       "onboard_time": 1759730721,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136198,
+      "num": 136198,
+      "word": "印度或用人民币买俄石油",
+      "onboard_time": 1759911920,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136104,
@@ -6411,6 +6443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131616,
+      "num": 131616,
+      "word": "吴庄收费站 震撼",
+      "onboard_time": 1759912881,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131356,
       "num": 131356,
       "word": "人民海军中秋祝福超硬核",
@@ -6433,6 +6473,14 @@
       "onboard_time": 1759720041,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131247,
+      "num": 131247,
+      "word": "朱志鑫苏新皓无限流短剧",
+      "onboard_time": 1759912401,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 131170,
@@ -6505,14 +6553,6 @@
       "onboard_time": 1759656981,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 129283,
-      "num": 129283,
-      "word": "第23号台风娜基莉或要来了",
-      "onboard_time": 1759909882,
-      "rank": 35,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 129236,
@@ -6995,14 +7035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120397,
-      "num": 120397,
-      "word": "不想开学",
-      "onboard_time": 1759912281,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 120306,
       "num": 120306,
       "word": "谁懂王一博大腿肌肉的含金量",
@@ -7345,6 +7377,14 @@
       "onboard_time": 1759592601,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 115559,
+      "num": 115559,
+      "word": "丁程鑫哈尔滨路演路透",
+      "onboard_time": 1759912881,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 115328,
@@ -8395,14 +8435,6 @@
       "category": "情感,民生新闻"
     },
     {
-      "raw_hot": 104258,
-      "num": 104258,
-      "word": "印度或用人民币买俄石油",
-      "onboard_time": 1759911920,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 104228,
       "num": 104228,
       "word": "爱是双向奔赴的",
@@ -8569,6 +8601,14 @@
       "onboard_time": 1759724121,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102340,
+      "num": 102340,
+      "word": "JDG输越南队",
+      "onboard_time": 1759913121,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 101981,
@@ -8833,6 +8873,14 @@
       "onboard_time": 1759768399,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 99132,
+      "num": 99132,
+      "word": "小孩姐好一个逆天改命",
+      "onboard_time": 1759913060,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 99116,
@@ -9523,14 +9571,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 91593,
-      "num": 91593,
-      "word": "朱志鑫苏新皓无限流短剧",
-      "onboard_time": 1759912401,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 91298,
       "num": 91298,
       "word": "1966年的孩子想象2000年的世界",
@@ -10164,7 +10204,7 @@
     },
     {
       "raw_hot": 82271,
-      "num": 132961,
+      "num": 133755,
       "word": "中餐大师一顿操作把咖啡做成豆浆",
       "onboard_time": 1759910240,
       "rank": 34,
@@ -11107,6 +11147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52165,
+      "num": 112741,
+      "word": "国庆返程车尾挂满鸡鸭大鹅",
+      "onboard_time": 1759911741,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52097,
       "num": 93112,
       "word": "陈飞宇直播",
@@ -11153,14 +11201,6 @@
       "onboard_time": 1759769539,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 49952,
-      "num": 112741,
-      "word": "国庆返程车尾挂满鸡鸭大鹅",
-      "onboard_time": 1759911741,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49479,
@@ -11265,6 +11305,22 @@
       "onboard_time": 1759684817,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 43795,
+      "num": 120142,
+      "word": "WTT更新北满冠军宣传照",
+      "onboard_time": 1759912822,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43640,
+      "num": 797338,
+      "word": "国庆假期超24亿人次跨区域流动",
+      "onboard_time": 1759900101,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43480,
@@ -11392,14 +11448,6 @@
       "word": "高速免费至10月8日24时",
       "onboard_time": 1759862595,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37539,
-      "num": 775293,
-      "word": "国庆假期超24亿人次跨区域流动",
-      "onboard_time": 1759900101,
-      "rank": 9,
       "category": "民生新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759912454380,
+  "endTime": 1759913227401,
   "band_list": [
     {
       "raw_hot": 2521495,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1475503,
-      "num": 268047,
+      "num": 285964,
       "word": "孟子义拍戏摔了",
       "onboard_time": 1759894521,
       "rank": 16,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1146142,
-      "num": 269709,
+      "num": 295536,
       "word": "李一桐美人余造型疑似抄袭许我耀眼",
       "onboard_time": 1759902681,
       "rank": 10,
@@ -73,6 +73,14 @@
       "onboard_time": 1759890381,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 925854,
+      "num": 925854,
+      "word": "官方通报黄某某拒服兵役",
+      "onboard_time": 1759908381,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 867986,
@@ -99,14 +107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 791169,
-      "num": 791169,
-      "word": "官方通报黄某某拒服兵役",
-      "onboard_time": 1759908381,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 770502,
       "num": 770502,
       "word": "女子结婚8年才发现喜被里有红枣",
@@ -119,6 +119,14 @@
       "num": 902946,
       "word": "高速5车追尾2死3伤",
       "onboard_time": 1759854859,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 636519,
+      "num": 636519,
+      "word": "鸡排哥有专属空调了",
+      "onboard_time": 1759910361,
       "rank": 4,
       "category": "民生新闻"
     },
@@ -145,14 +153,6 @@
       "onboard_time": 1759891100,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 545820,
-      "num": 545820,
-      "word": "鸡排哥有专属空调了",
-      "onboard_time": 1759910361,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 532521,
@@ -195,12 +195,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 476626,
+      "num": 476626,
+      "word": "统一必胜台独必亡",
+      "onboard_time": 1759910181,
+      "rank": 7,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 473630,
       "num": 473630,
       "word": "美驻华大使馆宣布微博微信停更",
       "onboard_time": 1759904902,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 471933,
+      "num": 287885,
+      "word": "范丞丞的指甲",
+      "onboard_time": 1759909582,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 466195,
@@ -235,12 +251,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 435543,
-      "num": 435543,
-      "word": "统一必胜台独必亡",
-      "onboard_time": 1759910181,
-      "rank": 7,
-      "category": "国内时政"
+      "raw_hot": 439758,
+      "num": 439758,
+      "word": "不午睡vs午睡太久",
+      "onboard_time": 1759909701,
+      "rank": 8,
+      "category": "科学科普"
     },
     {
       "raw_hot": 426263,
@@ -265,14 +281,6 @@
       "onboard_time": 1759892481,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 415957,
-      "num": 415957,
-      "word": "不午睡vs午睡太久",
-      "onboard_time": 1759909701,
-      "rank": 8,
-      "category": "科学科普"
     },
     {
       "raw_hot": 394639,
@@ -321,14 +329,6 @@
       "onboard_time": 1759904960,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 375474,
-      "num": 265593,
-      "word": "范丞丞的指甲",
-      "onboard_time": 1759909582,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 373026,
@@ -515,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270392,
+      "num": 270392,
+      "word": "入青云首播反馈",
+      "onboard_time": 1759909220,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267457,
       "num": 219849,
       "word": "去看张艺兴演唱会的明星",
@@ -667,19 +675,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208782,
-      "num": 208782,
-      "word": "入青云首播反馈",
-      "onboard_time": 1759909220,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205066,
       "num": 205066,
       "word": "冯建宇好帅",
       "onboard_time": 1759911501,
       "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 202310,
+      "num": 202310,
+      "word": "张艺兴和张艺谋团队梦幻联动上了",
+      "onboard_time": 1759912401,
+      "rank": 28,
       "category": "演出"
     },
     {
@@ -697,6 +705,14 @@
       "onboard_time": 1759844304,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 196049,
+      "num": 196049,
+      "word": "刘宇宁不拍杂志的原因",
+      "onboard_time": 1759910300,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 193861,
@@ -763,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182403,
+      "num": 182403,
+      "word": "Angelababay杂志",
+      "onboard_time": 1759912642,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182099,
       "num": 130351,
       "word": "刘宇宁不换壁纸的原因",
@@ -771,12 +795,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179615,
-      "num": 179615,
-      "word": "刘宇宁不拍杂志的原因",
-      "onboard_time": 1759910300,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 180819,
+      "num": 180819,
+      "word": "才意识到饥饿感对五官的影响有多大",
+      "onboard_time": 1759909819,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 178091,
@@ -809,14 +833,6 @@
       "onboard_time": 1759907002,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173360,
-      "num": 173360,
-      "word": "才意识到饥饿感对五官的影响有多大",
-      "onboard_time": 1759909819,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 173355,
@@ -891,14 +907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160536,
-      "num": 160536,
-      "word": "张艺兴和张艺谋团队梦幻联动上了",
-      "onboard_time": 1759912401,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 159594,
       "num": 159594,
       "word": "珠峰暴雪向导一人一狗带超百人撤离",
@@ -912,6 +920,14 @@
       "word": "33别告诉我妈",
       "onboard_time": 1759900761,
       "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 158753,
+      "num": 158753,
+      "word": "赖神 Fly",
+      "onboard_time": 1759909520,
+      "rank": 30,
       "category": "电竞"
     },
     {
@@ -953,14 +969,6 @@
       "onboard_time": 1759897881,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154425,
-      "num": 154425,
-      "word": "赖神 Fly",
-      "onboard_time": 1759909520,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 153624,
@@ -1067,6 +1075,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141554,
+      "num": 141554,
+      "word": "第23号台风娜基莉或要来了",
+      "onboard_time": 1759909882,
+      "rank": 35,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 141137,
+      "num": 141137,
+      "word": "不想开学",
+      "onboard_time": 1759912281,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 140537,
       "num": 130611,
       "word": "宋伊人溜达日常",
@@ -1105,6 +1129,14 @@
       "onboard_time": 1759908260,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136198,
+      "num": 136198,
+      "word": "印度或用人民币买俄石油",
+      "onboard_time": 1759911920,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135391,
@@ -1195,6 +1227,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131616,
+      "num": 131616,
+      "word": "吴庄收费站 震撼",
+      "onboard_time": 1759912881,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131247,
+      "num": 131247,
+      "word": "朱志鑫苏新皓无限流短剧",
+      "onboard_time": 1759912401,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130505,
       "num": 130505,
       "word": "一觉醒来寒露来了",
@@ -1209,14 +1257,6 @@
       "onboard_time": 1759844123,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129283,
-      "num": 129283,
-      "word": "第23号台风娜基莉或要来了",
-      "onboard_time": 1759909882,
-      "rank": 35,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 129236,
@@ -1299,14 +1339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120397,
-      "num": 120397,
-      "word": "不想开学",
-      "onboard_time": 1759912281,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 120104,
       "num": 120104,
       "word": "杜海涛到了伦敦冒充王嘉尔",
@@ -1377,6 +1409,14 @@
       "onboard_time": 1759901181,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115559,
+      "num": 115559,
+      "word": "丁程鑫哈尔滨路演路透",
+      "onboard_time": 1759912881,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 115231,
@@ -1523,14 +1563,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 104258,
-      "num": 104258,
-      "word": "印度或用人民币买俄石油",
-      "onboard_time": 1759911920,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 103888,
       "num": 103888,
       "word": "王一博排位赛新闻发布会发言",
@@ -1539,12 +1571,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 102340,
+      "num": 102340,
+      "word": "JDG输越南队",
+      "onboard_time": 1759913121,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101810,
       "num": 101810,
       "word": "Faker147场世界赛胜率74%",
       "onboard_time": 1759894882,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99132,
+      "num": 99132,
+      "word": "小孩姐好一个逆天改命",
+      "onboard_time": 1759913060,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 99077,
@@ -1667,14 +1715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91593,
-      "num": 91593,
-      "word": "朱志鑫苏新皓无限流短剧",
-      "onboard_time": 1759912401,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 91298,
       "num": 91298,
       "word": "1966年的孩子想象2000年的世界",
@@ -1772,7 +1812,7 @@
     },
     {
       "raw_hot": 82271,
-      "num": 132961,
+      "num": 133755,
       "word": "中餐大师一顿操作把咖啡做成豆浆",
       "onboard_time": 1759910240,
       "rank": 34,
@@ -2019,7 +2059,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49952,
+      "raw_hot": 52165,
       "num": 112741,
       "word": "国庆返程车尾挂满鸡鸭大鹅",
       "onboard_time": 1759911741,
@@ -2075,6 +2115,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43795,
+      "num": 120142,
+      "word": "WTT更新北满冠军宣传照",
+      "onboard_time": 1759912822,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 43640,
+      "num": 797338,
+      "word": "国庆假期超24亿人次跨区域流动",
+      "onboard_time": 1759900101,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43501,
       "num": 115493,
       "word": "韩国部分新婚夫妇放弃黄金戒指",
@@ -2112,14 +2168,6 @@
       "word": "高速免费至10月8日24时",
       "onboard_time": 1759862595,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37539,
-      "num": 775293,
-      "word": "国庆假期超24亿人次跨区域流动",
-      "onboard_time": 1759900101,
-      "rank": 9,
       "category": "民生新闻"
     },
     {

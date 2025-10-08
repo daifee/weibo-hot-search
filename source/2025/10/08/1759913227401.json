@@ -1,0 +1,410 @@
+{
+  "runTime": 1759913227401,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1386823,
+        "num": 1386823,
+        "word": "高速堵成啥样了",
+        "onboard_time": 1759907120,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 925854,
+        "num": 925854,
+        "word": "官方通报黄某某拒服兵役",
+        "onboard_time": 1759908381,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43640,
+        "num": 797338,
+        "word": "国庆假期超24亿人次跨区域流动",
+        "onboard_time": 1759900101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 700266,
+        "num": 700266,
+        "word": "女子结婚8年才发现喜被里有红枣",
+        "onboard_time": 1759910900,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 636519,
+        "num": 636519,
+        "word": "鸡排哥有专属空调了",
+        "onboard_time": 1759910361,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476626,
+        "num": 476626,
+        "word": "统一必胜台独必亡",
+        "onboard_time": 1759910181,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1624560,
+        "num": 474137,
+        "word": "肖庆平车祸离世",
+        "onboard_time": 1759905021,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 457911,
+        "num": 457911,
+        "word": "高速连续5个服务区进不了站",
+        "onboard_time": 1759907780,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439758,
+        "num": 439758,
+        "word": "不午睡vs午睡太久",
+        "onboard_time": 1759909701,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 303755,
+        "num": 303755,
+        "word": "王者荣耀",
+        "onboard_time": 1759904960,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 715846,
+        "num": 295536,
+        "word": "李一桐美人余造型疑似抄袭许我耀眼",
+        "onboard_time": 1759902681,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 471933,
+        "num": 287885,
+        "word": "范丞丞的指甲",
+        "onboard_time": 1759909582,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418858,
+        "num": 285964,
+        "word": "孟子义拍戏摔了",
+        "onboard_time": 1759894521,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 407837,
+        "num": 271232,
+        "word": "尹锡悦夫妇中秋节牢饭曝光",
+        "onboard_time": 1759902079,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 270392,
+        "num": 270392,
+        "word": "入青云首播反馈",
+        "onboard_time": 1759909220,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243005,
+        "num": 243005,
+        "word": "UNINE合体",
+        "onboard_time": 1759907361,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221293,
+        "num": 221293,
+        "word": "美驻华大使馆宣布微博微信停更",
+        "onboard_time": 1759904902,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202310,
+        "num": 202310,
+        "word": "张艺兴和张艺谋团队梦幻联动上了",
+        "onboard_time": 1759912401,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198435,
+        "num": 198435,
+        "word": "王一博轮胎冒烟",
+        "onboard_time": 1759905320,
+        "rank": 18,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 196049,
+        "num": 196049,
+        "word": "刘宇宁不拍杂志的原因",
+        "onboard_time": 1759910300,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186846,
+        "num": 186846,
+        "word": "冯建宇好帅",
+        "onboard_time": 1759911501,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182403,
+        "num": 182403,
+        "word": "Angelababay杂志",
+        "onboard_time": 1759912642,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180819,
+        "num": 180819,
+        "word": "才意识到饥饿感对五官的影响有多大",
+        "onboard_time": 1759909819,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179203,
+        "num": 179203,
+        "word": "TaylorSwift忘了通知EdSheeran订婚",
+        "onboard_time": 1759900820,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170744,
+        "num": 170744,
+        "word": "马伯骞以为是马嘉祺不敢喊",
+        "onboard_time": 1759902380,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158753,
+        "num": 158753,
+        "word": "赖神 Fly",
+        "onboard_time": 1759909520,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146137,
+        "num": 146137,
+        "word": "张凌赫换头像",
+        "onboard_time": 1759897402,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141809,
+        "num": 141809,
+        "word": "殡仪馆回应肖庆平离世",
+        "onboard_time": 1759909582,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141554,
+        "num": 141554,
+        "word": "第23号台风娜基莉或要来了",
+        "onboard_time": 1759909882,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 141137,
+        "num": 141137,
+        "word": "不想开学",
+        "onboard_time": 1759912281,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138585,
+        "num": 138585,
+        "word": "胡杏儿来内娱再火一次怎么了",
+        "onboard_time": 1759911020,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136198,
+        "num": 136198,
+        "word": "印度或用人民币买俄石油",
+        "onboard_time": 1759911920,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134067,
+        "num": 134067,
+        "word": "一眼万年 李煜东",
+        "onboard_time": 1759900341,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134029,
+        "num": 134029,
+        "word": "人甚至共情不了国庆假期前的自己",
+        "onboard_time": 1759894761,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76842,
+        "num": 133755,
+        "word": "中餐大师一顿操作把咖啡做成豆浆",
+        "onboard_time": 1759910240,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133720,
+        "num": 133720,
+        "word": "网上晒礼金家中38万现金被盗",
+        "onboard_time": 1759904299,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131616,
+        "num": 131616,
+        "word": "吴庄收费站 震撼",
+        "onboard_time": 1759912881,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131247,
+        "num": 131247,
+        "word": "朱志鑫苏新皓无限流短剧",
+        "onboard_time": 1759912401,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128293,
+        "num": 128293,
+        "word": "张予曦出门拍戏半年回来仍是毛坯",
+        "onboard_time": 1759909701,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43795,
+        "num": 120142,
+        "word": "WTT更新北满冠军宣传照",
+        "onboard_time": 1759912822,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117957,
+        "num": 117957,
+        "word": "国外很贵但国内却便宜的东西",
+        "onboard_time": 1759902201,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115559,
+        "num": 115559,
+        "word": "丁程鑫哈尔滨路演路透",
+        "onboard_time": 1759912881,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115176,
+        "num": 115176,
+        "word": "吴汉坤道歉",
+        "onboard_time": 1759905021,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111420,
+        "num": 111420,
+        "word": "JDG",
+        "onboard_time": 1759911381,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52165,
+        "num": 106354,
+        "word": "国庆返程车尾挂满鸡鸭大鹅",
+        "onboard_time": 1759911741,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105959,
+        "num": 105959,
+        "word": "入青云",
+        "onboard_time": 1759897102,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102340,
+        "num": 102340,
+        "word": "JDG输越南队",
+        "onboard_time": 1759913121,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99132,
+        "num": 99132,
+        "word": "小孩姐好一个逆天改命",
+        "onboard_time": 1759913060,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99043,
+        "num": 99043,
+        "word": "夜市套圈30元1500个圈",
+        "onboard_time": 1759907961,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95351,
+        "num": 95351,
+        "word": "这居然是陈鹤一",
+        "onboard_time": 1759908260,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻中华文明#"
+    }
+  }
+}
