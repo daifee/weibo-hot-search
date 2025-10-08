@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/09 02:50:31
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/09 03:21:34
 </p>
 </blockquote>
 <p>
@@ -9873,6 +9873,12 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E9%A6%92%E5%A4%B4%E4%BA%89%E8%AE%AE%E5%8D%9A%E4%B8%BB60%E7%A7%92%E8%A7%86%E9%A2%91160%E5%85%83%23" target="weibo">
+西贝馒头争议博主60秒视频160元（热度：21430）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%9A%E6%96%87%E8%B7%B3%E4%BA%86%E5%AF%84%E6%98%8E%E6%9C%88%23" target="weibo">
 杨博文跳了寄明月（热度：21400）
 </a>
@@ -9927,14 +9933,14 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
-汪苏泷演唱会（热度：17207）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%9A%E5%9C%B0%E8%88%AA%E7%8F%AD%E5%BB%B6%E8%AF%AF%23" target="weibo">
+美国多地航班延误（热度：17401）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E9%A6%92%E5%A4%B4%E4%BA%89%E8%AE%AE%E5%8D%9A%E4%B8%BB60%E7%A7%92%E8%A7%86%E9%A2%91160%E5%85%83%23" target="weibo">
-西贝馒头争议博主60秒视频160元（热度：17088）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+汪苏泷演唱会（热度：17207）
 </a>
 </li>
 
@@ -9970,7 +9976,7 @@ CP2025SP（热度：26632）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%92%AD%23" target="weibo">
-张艺兴演唱会直播（热度：15716）
+张艺兴演唱会直播（热度：15737）
 </a>
 </li>
 
@@ -10037,6 +10043,18 @@ CP2025SP（热度：26632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E9%B9%8F%E7%A5%9D%E8%B4%BA%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%8C%85%E6%8F%BD%E4%BA%94%E5%86%A0%23" target="weibo">
 向鹏祝贺中国队包揽五冠（热度：12612）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E6%BC%94%E7%9D%80%E6%BC%94%E7%9D%80%E6%9C%AC%E4%BD%93%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
+侯明昊演着演着本体出来了（热度：12552）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%98%BF%E9%9C%9E%E5%87%BA%E6%B5%B7%E9%81%87%E9%9A%BE%E4%B8%88%E5%A4%AB%E5%8F%91%E5%A3%B0%23" target="weibo">
+网红阿霞出海遇难丈夫发声（热度：12447）
 </a>
 </li>
 
