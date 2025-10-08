@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759938130680,
+  "endTime": 1759941149301,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1475,6 +1475,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 496447,
+      "num": 837782,
+      "word": "蜜雪冰城小票藏连载小说",
+      "onboard_time": 1759935922,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 495661,
       "num": 343767,
       "word": "侯佩岑主持央视秋晚",
@@ -2057,14 +2065,6 @@
       "onboard_time": 1759902201,
       "rank": 6,
       "category": "情感"
-    },
-    {
-      "raw_hot": 381263,
-      "num": 381263,
-      "word": "蜜雪冰城小票藏连载小说",
-      "onboard_time": 1759935922,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 379291,
@@ -3379,6 +3379,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 247053,
+      "num": 247053,
+      "word": "下高速",
+      "onboard_time": 1759937541,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245799,
       "num": 245799,
       "word": "珠峰暴雪向导一人一狗带超百人撤离",
@@ -3555,6 +3563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229084,
+      "num": 169683,
+      "word": "赵今麦miumiu第一个单人共创艺人",
+      "onboard_time": 1759936282,
+      "rank": 23,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 229036,
       "num": 229036,
       "word": "贵州31岁派出所副所长因公牺牲",
@@ -3633,6 +3649,14 @@
       "onboard_time": 1759824079,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 223509,
+      "num": 223509,
+      "word": "张继科说比赛输了就没下次了",
+      "onboard_time": 1759936220,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 223040,
@@ -4867,6 +4891,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 177073,
+      "num": 120968,
+      "word": "许我耀眼第29集预告",
+      "onboard_time": 1759937480,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176937,
       "num": 176937,
       "word": "王一博刷爆个人纪录帅炸了",
@@ -5193,14 +5225,6 @@
       "onboard_time": 1759758024,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169683,
-      "num": 169683,
-      "word": "赵今麦miumiu第一个单人共创艺人",
-      "onboard_time": 1759936282,
-      "rank": 23,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 169660,
@@ -7371,14 +7395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126604,
-      "num": 126604,
-      "word": "下高速",
-      "onboard_time": 1759937541,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126425,
       "num": 126425,
       "word": "苏群谈詹姆斯重大决策",
@@ -7779,14 +7795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 120968,
-      "num": 120968,
-      "word": "许我耀眼第29集预告",
-      "onboard_time": 1759937480,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120703,
       "num": 120703,
       "word": "刘轩丞被路人当成韩国爱豆",
@@ -7801,14 +7809,6 @@
       "onboard_time": 1759936580,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120386,
-      "num": 120386,
-      "word": "张继科说比赛输了就没下次了",
-      "onboard_time": 1759936220,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 120306,
@@ -11131,6 +11131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85466,
+      "num": 85466,
+      "word": "新加坡偶遇王鹤棣打篮球",
+      "onboard_time": 1759939820,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85442,
       "num": 93308,
       "word": "清融采访",
@@ -11267,6 +11275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84026,
+      "num": 84026,
+      "word": "林俊杰新歌明日坐标",
+      "onboard_time": 1759939520,
+      "rank": 23,
+      "category": "音乐,游戏"
+    },
+    {
       "raw_hot": 83940,
       "num": 172456,
       "word": "巴黎世家大秀",
@@ -11289,6 +11305,14 @@
       "onboard_time": 1759646601,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 83810,
+      "num": 83810,
+      "word": "假期后劲太大了",
+      "onboard_time": 1759939280,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83712,
@@ -11947,6 +11971,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 66491,
+      "num": 66491,
+      "word": "网剧金昭玉醉",
+      "onboard_time": 1759938201,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66455,
       "num": 105431,
       "word": "隧道车祸男孩跪地求路人救母",
@@ -12547,6 +12579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44072,
+      "num": 88109,
+      "word": "堵车时高速判官出手了",
+      "onboard_time": 1759937182,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43795,
       "num": 120142,
       "word": "WTT更新北满冠军宣传照",
@@ -12737,14 +12777,6 @@
       "onboard_time": 1759777875,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34255,
-      "num": 88109,
-      "word": "堵车时高速判官出手了",
-      "onboard_time": 1759937182,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34056,

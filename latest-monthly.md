@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 23:42:10
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/09 00:32:29
 </p>
 </blockquote>
 <p>
@@ -2289,6 +2289,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%B0%8F%E7%A5%A8%E8%97%8F%E8%BF%9E%E8%BD%BD%E5%B0%8F%E8%AF%B4%23" target="weibo">
+蜜雪冰城小票藏连载小说（热度：496447）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E4%BD%A9%E5%B2%91%E4%B8%BB%E6%8C%81%E5%A4%AE%E8%A7%86%E7%A7%8B%E6%99%9A%23" target="weibo">
 侯佩岑主持央视秋晚（热度：495661）
 </a>
@@ -3083,12 +3089,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%A4%96%E5%BE%88%E8%B4%B5%E4%BD%86%E5%9B%BD%E5%86%85%E5%8D%B4%E4%BE%BF%E5%AE%9C%E7%9A%84%E4%B8%9C%E8%A5%BF%23" target="weibo">
 国外很贵但国内却便宜的东西（热度：381612）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%B0%8F%E7%A5%A8%E8%97%8F%E8%BF%9E%E8%BD%BD%E5%B0%8F%E8%AF%B4%23" target="weibo">
-蜜雪冰城小票藏连载小说（热度：381263）
 </a>
 </li>
 
@@ -4911,6 +4911,12 @@ F1（热度：275052）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E9%AB%98%E9%80%9F%23" target="weibo">
+下高速（热度：247053）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B9%B8%E5%90%8C%E8%A2%AB%E7%BD%9A%E5%88%86%23" target="weibo">
 陈幸同被罚分（热度：246807）
 </a>
@@ -5259,6 +5265,12 @@ G6666次列车限时开行（热度：233415）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6miumiu%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%95%E4%BA%BA%E5%85%B1%E5%88%9B%E8%89%BA%E4%BA%BA%23" target="weibo">
+赵今麦miumiu第一个单人共创艺人（热度：229084）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%8B%BC%E5%88%B0%E4%BD%8E%E8%A1%80%E7%B3%96%23" target="weibo">
 王楚钦拼到低血糖（热度：228382）
 </a>
@@ -5357,6 +5369,12 @@ iG与T1决定TES抽签池（热度：224054）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E5%A5%B3%E7%94%9F%E8%BF%9C%E5%AB%81%E5%8F%B0%E6%B9%BE700%E5%B9%B3%E7%9A%84%E5%AE%B6%23" target="weibo">
 东北女生远嫁台湾700平的家（热度：223927）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%AF%B4%E6%AF%94%E8%B5%9B%E8%BE%93%E4%BA%86%E5%B0%B1%E6%B2%A1%E4%B8%8B%E6%AC%A1%E4%BA%86%23" target="weibo">
+张继科说比赛输了就没下次了（热度：223509）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ TTG战胜TES（热度：206119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%BB%88%E4%BA%8E%E5%94%B1%E4%BA%86%E5%BF%BD%E7%84%B6%E4%B9%8B%E9%97%B4%23" target="weibo">
 张杰终于唱了忽然之间（热度：201920）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E5%85%A5%E9%80%8926%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%E6%9C%80%E4%BD%B3%E8%A1%97%E6%8B%8D%23" target="weibo">
-邓为入选26巴黎时装周最佳街拍（热度：201683）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%85%E5%93%B2%23" target="weibo">
-久哲（热度：201331）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E7%9A%87%E6%AC%A0%E9%92%B1%E7%9A%84%E6%9C%80%E5%A4%A7%E5%8F%97%E7%9B%8A%E4%BA%BA%23" target="weibo">
-英皇欠钱的最大受益人（热度：201279）
 </a>
 </li>
 
