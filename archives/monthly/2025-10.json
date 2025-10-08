@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759915693590,
+  "endTime": 1759916467340,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -105,6 +105,14 @@
       "onboard_time": 1759240521,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2366821,
+      "num": 1453051,
+      "word": "鸡排哥成立工作室",
+      "onboard_time": 1759913961,
+      "rank": 0,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 2363947,
@@ -299,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1453051,
-      "num": 1453051,
-      "word": "鸡排哥成立工作室",
-      "onboard_time": 1759913961,
-      "rank": 0,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 1445744,
       "num": 196380,
       "word": "王菊晒和李纯在婚姻登记处合照",
@@ -425,6 +425,14 @@
       "onboard_time": 1759473438,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1342050,
+      "num": 1342050,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1759914141,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 1325596,
@@ -985,14 +993,6 @@
       "onboard_time": 1759401381,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 935697,
-      "num": 935697,
-      "word": "王者荣耀崩了",
-      "onboard_time": 1759914141,
-      "rank": 3,
-      "category": "游戏"
     },
     {
       "raw_hot": 934705,
@@ -2243,12 +2243,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 579640,
+      "num": 389384,
+      "word": "日本男爱豆当街暴露下体被捕",
+      "onboard_time": 1759913241,
+      "rank": 12,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 576917,
       "num": 470228,
       "word": "陈震车祸事件不涉及毒驾醉驾",
       "onboard_time": 1759551380,
       "rank": 19,
       "category": "辟谣/通报,汽车"
+    },
+    {
+      "raw_hot": 574839,
+      "num": 574839,
+      "word": "吴庄收费站 震撼",
+      "onboard_time": 1759912881,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 572264,
@@ -2472,14 +2488,6 @@
       "word": "福建太姥山180斤游客被卡石缝",
       "onboard_time": 1759833620,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 541768,
-      "num": 541768,
-      "word": "吴庄收费站 震撼",
-      "onboard_time": 1759912881,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -3883,14 +3891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 389384,
-      "num": 389384,
-      "word": "日本男爱豆当街暴露下体被捕",
-      "onboard_time": 1759913241,
-      "rank": 12,
-      "category": "艺人,作品衍生"
-    },
-    {
       "raw_hot": 388372,
       "num": 388372,
       "word": "以为在装病结果真确诊了",
@@ -4321,6 +4321,14 @@
       "onboard_time": 1759850122,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 355735,
+      "num": 323575,
+      "word": "刘宇宁不拍杂志的原因",
+      "onboard_time": 1759910300,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 355601,
@@ -4899,6 +4907,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 317481,
+      "num": 317481,
+      "word": "今年冬天将更冷",
+      "onboard_time": 1759913481,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317417,
       "num": 317417,
       "word": "特朗普当加总理面提吞并加拿大",
@@ -5297,14 +5313,6 @@
       "onboard_time": 1759389560,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 293103,
-      "num": 293103,
-      "word": "刘宇宁不拍杂志的原因",
-      "onboard_time": 1759910300,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 292982,
@@ -5947,6 +5955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262548,
+      "num": 262548,
+      "word": "井胧给李莎旻子清衣柜把狗埋了",
+      "onboard_time": 1759913901,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 262421,
       "num": 262421,
       "word": "白宫宣布政府即将关门",
@@ -6515,14 +6531,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 235875,
-      "num": 235875,
-      "word": "今年冬天将更冷",
-      "onboard_time": 1759913481,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 235868,
       "num": 235868,
       "word": "明日方舟",
@@ -6553,14 +6561,6 @@
       "onboard_time": 1759683020,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234234,
-      "num": 234234,
-      "word": "井胧给李莎旻子清衣柜把狗埋了",
-      "onboard_time": 1759913901,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 234022,
@@ -7113,6 +7113,14 @@
       "onboard_time": 1759817482,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215158,
+      "num": 215158,
+      "word": "杨幂终于慢下来了",
+      "onboard_time": 1759914922,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 214855,
@@ -7675,14 +7683,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 201527,
-      "num": 201527,
-      "word": "杨幂终于慢下来了",
-      "onboard_time": 1759914922,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 201331,
       "num": 201331,
       "word": "久哲",
@@ -7817,6 +7817,14 @@
       "onboard_time": 1759475480,
       "rank": 19,
       "category": "演出,民生新闻"
+    },
+    {
+      "raw_hot": 199090,
+      "num": 199090,
+      "word": "王者荣耀回复",
+      "onboard_time": 1759915819,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 198942,
@@ -8233,6 +8241,14 @@
       "onboard_time": 1759555160,
       "rank": 31,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 192166,
+      "num": 192166,
+      "word": "火树才是来集邮的吧",
+      "onboard_time": 1759916001,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 192063,
@@ -9035,6 +9051,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 179174,
+      "num": 179174,
+      "word": "绥中重大刑案行凶男子穿拖鞋逃跑",
+      "onboard_time": 1759915220,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179113,
       "num": 179113,
       "word": "北电第一选择挑战中传第一",
@@ -9329,6 +9353,14 @@
       "onboard_time": 1759679360,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174651,
+      "num": 174651,
+      "word": "比伯成大叔了",
+      "onboard_time": 1759914980,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 174403,
@@ -10329,6 +10361,14 @@
       "onboard_time": 1759673004,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 160399,
+      "num": 160399,
+      "word": "檀健次偷笑这一下太暧昧了",
+      "onboard_time": 1759915460,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 160354,
@@ -13651,14 +13691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126497,
-      "num": 126497,
-      "word": "绥中重大刑案行凶男子穿拖鞋逃跑",
-      "onboard_time": 1759915220,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126425,
       "num": 126425,
       "word": "苏群谈詹姆斯重大决策",
@@ -15667,6 +15699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112002,
+      "num": 112002,
+      "word": "古法健身一个月后",
+      "onboard_time": 1759914381,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 111897,
       "num": 140366,
       "word": "LGDNBW对战KSG",
@@ -16265,14 +16305,6 @@
       "onboard_time": 1759308320,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 109543,
-      "num": 109543,
-      "word": "檀健次偷笑这一下太暧昧了",
-      "onboard_time": 1759915460,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 109510,
@@ -17105,6 +17137,14 @@
       "onboard_time": 1759557621,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105628,
+      "num": 105628,
+      "word": "只有健身的人才懂她有多厉害",
+      "onboard_time": 1759915941,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 105574,
@@ -18123,14 +18163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100191,
-      "num": 100191,
-      "word": "古法健身一个月后",
-      "onboard_time": 1759914381,
-      "rank": 44,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 100186,
       "num": 100186,
       "word": "孙颖莎陈幸同每一局都好接近",
@@ -18537,6 +18569,14 @@
       "onboard_time": 1759675882,
       "rank": 36,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 98163,
+      "num": 98163,
+      "word": "我丢的这一年里你找过我吗",
+      "onboard_time": 1759914800,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 98161,
@@ -19867,14 +19907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91087,
-      "num": 109604,
-      "word": "比伯成大叔了",
-      "onboard_time": 1759914980,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 90979,
       "num": 90979,
       "word": "姚冠宇真的染了粉发",
@@ -20601,6 +20633,14 @@
       "onboard_time": 1759461080,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86423,
+      "num": 106890,
+      "word": "手机店免费充电线遭男子故意扯断",
+      "onboard_time": 1759915881,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86415,
@@ -21585,6 +21625,14 @@
       "onboard_time": 1759626139,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79799,
+      "num": 79799,
+      "word": "一个是真猫另一个是真狗",
+      "onboard_time": 1759916241,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 79650,
@@ -22643,6 +22691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 67954,
+      "num": 1089141,
+      "word": "国庆假期超24亿人次跨区域流动",
+      "onboard_time": 1759900101,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67859,
       "num": 67859,
       "word": "孙颖莎好奇谁想和王楚钦做男双搭档",
@@ -23395,14 +23451,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 56172,
-      "num": 964594,
-      "word": "国庆假期超24亿人次跨区域流动",
-      "onboard_time": 1759900101,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56154,
       "num": 100941,
       "word": "越南男子杀3人称为完成游戏任务",
@@ -23497,6 +23545,14 @@
       "onboard_time": 1759635742,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54484,
+      "num": 106941,
+      "word": "大学生国庆8天回家掰了7天半玉米",
+      "onboard_time": 1759916121,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54362,
@@ -25749,6 +25805,9 @@
     },
     {
       "word": "#把爱家和爱国统一起来#"
+    },
+    {
+      "word": "#跟着总书记打卡古城老街#"
     }
   ]
 }
