@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759897811168,
+  "endTime": 1759898557677,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 1475503,
-      "num": 219497,
+      "num": 257643,
       "word": "孟子义拍戏摔了",
       "onboard_time": 1759894521,
       "rank": 16,
@@ -348,7 +348,7 @@
     },
     {
       "raw_hot": 1026775,
-      "num": 218835,
+      "num": 239880,
       "word": "快女谈莉娜婚礼",
       "onboard_time": 1759890381,
       "rank": 10,
@@ -739,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 684420,
+      "num": 1109507,
+      "word": "人甚至共情不了国庆假期前的自己",
+      "onboard_time": 1759894761,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 684008,
       "num": 398911,
       "word": "快乐星球老顽童爷爷去世",
@@ -956,7 +964,7 @@
     },
     {
       "raw_hot": 551678,
-      "num": 218422,
+      "num": 232671,
       "word": "方媛中秋挺孕肚拍全家福",
       "onboard_time": 1759891100,
       "rank": 12,
@@ -977,6 +985,14 @@
       "onboard_time": 1759802119,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 549779,
+      "num": 254144,
+      "word": "张凌赫换头像",
+      "onboard_time": 1759897402,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 549487,
@@ -1643,6 +1659,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 390621,
+      "num": 390621,
+      "word": "恋与深空",
+      "onboard_time": 1759735639,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 390564,
+      "num": 226844,
+      "word": "入青云",
+      "onboard_time": 1759634300,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 390557,
       "num": 265637,
       "word": "刘一菲cos灵儿",
@@ -1737,14 +1769,6 @@
       "onboard_time": 1759634241,
       "rank": 31,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 374385,
-      "num": 374385,
-      "word": "恋与深空",
-      "onboard_time": 1759735639,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 372955,
@@ -1929,6 +1953,14 @@
       "onboard_time": 1759670724,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 339722,
+      "num": 339722,
+      "word": "美国经济损失150亿美元",
+      "onboard_time": 1759895541,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 339183,
@@ -2145,14 +2177,6 @@
       "onboard_time": 1759753642,
       "rank": 17,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 318063,
-      "num": 318063,
-      "word": "人甚至共情不了国庆假期前的自己",
-      "onboard_time": 1759894761,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 317417,
@@ -2499,6 +2523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279248,
+      "num": 279248,
+      "word": "光与夜之恋",
+      "onboard_time": 1759897581,
+      "rank": 24,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 278900,
       "num": 264871,
       "word": "陈奕迅女儿与男友秀恩爱",
@@ -2691,14 +2723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 260377,
-      "num": 260377,
-      "word": "美国经济损失150亿美元",
-      "onboard_time": 1759895541,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 259573,
       "num": 259573,
       "word": "美国19岁女生车祸丧生家属追责特斯拉",
@@ -2817,14 +2841,6 @@
       "onboard_time": 1759887858,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 242863,
-      "num": 216885,
-      "word": "入青云",
-      "onboard_time": 1759634300,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 241917,
@@ -3115,14 +3131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216770,
-      "num": 216770,
-      "word": "张凌赫换头像",
-      "onboard_time": 1759897402,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 216280,
       "num": 209889,
       "word": "生命树",
@@ -3299,6 +3307,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 206177,
+      "num": 206177,
+      "word": "王一博85组别全场第一",
+      "onboard_time": 1759897521,
+      "rank": 18,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 205605,
       "num": 181226,
       "word": "田曦薇鹅黄吊带襦裙",
@@ -3403,20 +3419,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200354,
-      "num": 200354,
-      "word": "王一博85组别全场第一",
-      "onboard_time": 1759897521,
-      "rank": 18,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 199511,
       "num": 178390,
       "word": "总台秋晚节目单发布",
       "onboard_time": 1759735639,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 198017,
+      "num": 168161,
+      "word": "车手王一博正式登场",
+      "onboard_time": 1759897881,
+      "rank": 23,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 197916,
@@ -4131,6 +4147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175638,
+      "num": 175638,
+      "word": "王鹤棣太抢手了",
+      "onboard_time": 1759897402,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175256,
       "num": 175256,
       "word": "伞伞伞伞兵马俑伞伞伞伞",
@@ -4411,6 +4435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 167517,
+      "num": 167517,
+      "word": "国漫第一大女主的排面拉满了",
+      "onboard_time": 1759897761,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 167464,
       "num": 167464,
       "word": "杨幂日子和月亮一样圆",
@@ -4441,14 +4473,6 @@
       "onboard_time": 1759894100,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166271,
-      "num": 166271,
-      "word": "光与夜之恋",
-      "onboard_time": 1759897581,
-      "rank": 24,
-      "category": "游戏"
     },
     {
       "raw_hot": 166242,
@@ -4745,6 +4769,14 @@
       "onboard_time": 1759652000,
       "rank": 33,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 156375,
+      "num": 135426,
+      "word": "Gumayusi女友酷似Keria",
+      "onboard_time": 1759897521,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 155811,
@@ -5611,6 +5643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135875,
+      "num": 135875,
+      "word": "加沙3个婴儿轮流用一根氧气管",
+      "onboard_time": 1759895119,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 135689,
       "num": 135689,
       "word": "卢昱晓新剧评论区",
@@ -5707,6 +5747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134360,
+      "num": 134360,
+      "word": "韩红不管了先呀拉索",
+      "onboard_time": 1759896440,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134329,
       "num": 134329,
       "word": "李斯丹妮因工作人员没会员唱歌中断",
@@ -5723,28 +5771,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 134060,
-      "num": 134060,
-      "word": "王鹤棣太抢手了",
-      "onboard_time": 1759897402,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133970,
       "num": 133970,
       "word": "吴邪私家笔记",
       "onboard_time": 1759896981,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133772,
-      "num": 133772,
-      "word": "韩红不管了先呀拉索",
-      "onboard_time": 1759896440,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 133671,
@@ -5817,14 +5849,6 @@
       "onboard_time": 1759671084,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 132814,
-      "num": 132814,
-      "word": "加沙3个婴儿轮流用一根氧气管",
-      "onboard_time": 1759895119,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 132668,
@@ -6147,14 +6171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125365,
-      "num": 125365,
-      "word": "Gumayusi女友酷似Keria",
-      "onboard_time": 1759897521,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 125274,
       "num": 125274,
       "word": "周也中秋吃月饼营业照",
@@ -6249,6 +6265,14 @@
       "onboard_time": 1759897220,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123614,
+      "num": 168332,
+      "word": "记者在联合国秀中国智造",
+      "onboard_time": 1759898061,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 123490,
@@ -6539,6 +6563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 118697,
+      "num": 118697,
+      "word": "吴汉坤踩到孟子义头纱",
+      "onboard_time": 1759898422,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118648,
       "num": 115692,
       "word": "小狗沐浴的当晚可以在床上睡觉",
@@ -6713,6 +6745,14 @@
       "onboard_time": 1759804760,
       "rank": 38,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 116213,
+      "num": 116213,
+      "word": "白敬亭蓝盈莹合作",
+      "onboard_time": 1759897881,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 116029,
@@ -7017,14 +7057,6 @@
       "onboard_time": 1759637901,
       "rank": 41,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 112412,
-      "num": 112412,
-      "word": "国漫第一大女主的排面拉满了",
-      "onboard_time": 1759897761,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 112113,
@@ -7459,6 +7491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107166,
+      "num": 107166,
+      "word": "原来侯明昊是接了个虐文本",
+      "onboard_time": 1759898181,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107148,
       "num": 107148,
       "word": "蒋一侨在家偷偷穿小脚裤",
@@ -7673,6 +7713,14 @@
       "onboard_time": 1759750285,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 104576,
+      "num": 104576,
+      "word": "金饰克价涨至1176元",
+      "onboard_time": 1759895541,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 104503,
@@ -8241,6 +8289,14 @@
       "onboard_time": 1759711219,
       "rank": 41,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 98029,
+      "num": 124054,
+      "word": "37岁男子持刀致1死被抓",
+      "onboard_time": 1759897161,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98012,
@@ -9395,14 +9451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80915,
-      "num": 124054,
-      "word": "37岁男子持刀致1死被抓",
-      "onboard_time": 1759897161,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80695,
       "num": 600452,
       "word": "国庆档10亿大项目你参与了吗",
@@ -10419,6 +10467,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 43272,
+      "num": 462489,
+      "word": "县域旅游已成为一种时尚",
+      "onboard_time": 1759878197,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43255,
       "num": 45212,
       "word": "陈俊崧回应不敌王楚钦林诗栋",
@@ -10584,14 +10640,6 @@
       "word": "50岁私厨50万买下移动宴会车",
       "onboard_time": 1759741400,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35027,
-      "num": 414848,
-      "word": "县域旅游已成为一种时尚",
-      "onboard_time": 1759878197,
-      "rank": 48,
       "category": "民生新闻"
     },
     {

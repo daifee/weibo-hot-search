@@ -1,0 +1,410 @@
+{
+  "runTime": 1759898557677,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 684420,
+        "num": 1109507,
+        "word": "人甚至共情不了国庆假期前的自己",
+        "onboard_time": 1759894761,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 586244,
+        "num": 586244,
+        "word": "男子喝3斤白酒用智驾开车20公里",
+        "onboard_time": 1759884739,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43272,
+        "num": 462489,
+        "word": "县域旅游已成为一种时尚",
+        "onboard_time": 1759878197,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 458154,
+        "num": 458154,
+        "word": "官方通报牛杂店现场手动改价",
+        "onboard_time": 1759895781,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 390621,
+        "num": 390621,
+        "word": "恋与深空",
+        "onboard_time": 1759889960,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 339722,
+        "num": 339722,
+        "word": "美国经济损失150亿美元",
+        "onboard_time": 1759895541,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328505,
+        "num": 328505,
+        "word": "黄金",
+        "onboard_time": 1759891941,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 288456,
+        "num": 288456,
+        "word": "高市早苗考虑放弃秋季参拜靖国神社",
+        "onboard_time": 1759894341,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 279248,
+        "num": 279248,
+        "word": "光与夜之恋",
+        "onboard_time": 1759897581,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263822,
+        "num": 263822,
+        "word": "台湾踹飞老太当事男子道歉",
+        "onboard_time": 1759890021,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1356534,
+        "num": 257643,
+        "word": "孟子义拍戏摔了",
+        "onboard_time": 1759894521,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 549779,
+        "num": 254144,
+        "word": "张凌赫换头像",
+        "onboard_time": 1759897402,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464282,
+        "num": 239880,
+        "word": "快女谈莉娜婚礼",
+        "onboard_time": 1759890381,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430345,
+        "num": 232671,
+        "word": "方媛中秋挺孕肚拍全家福",
+        "onboard_time": 1759891100,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390564,
+        "num": 226844,
+        "word": "入青云",
+        "onboard_time": 1759897102,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327835,
+        "num": 217172,
+        "word": "高市早苗否认南京大屠杀",
+        "onboard_time": 1759892481,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 270809,
+        "num": 207122,
+        "word": "演员颜正国去世",
+        "onboard_time": 1759890440,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206177,
+        "num": 206177,
+        "word": "王一博85组别全场第一",
+        "onboard_time": 1759897521,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 203084,
+        "num": 203084,
+        "word": "当不倒翁小姐姐把镜头翻转过来",
+        "onboard_time": 1759889661,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181458,
+        "num": 181458,
+        "word": "在哈尔滨理解了辛芷蕾的挑食",
+        "onboard_time": 1759894040,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176407,
+        "num": 176407,
+        "word": "曾黎种了两个半月的玉米被虫子吃了",
+        "onboard_time": 1759894280,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175638,
+        "num": 175638,
+        "word": "王鹤棣太抢手了",
+        "onboard_time": 1759897402,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123614,
+        "num": 168332,
+        "word": "记者在联合国秀中国智造",
+        "onboard_time": 1759898061,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198017,
+        "num": 168161,
+        "word": "车手王一博正式登场",
+        "onboard_time": 1759897881,
+        "rank": 23,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 167517,
+        "num": 167517,
+        "word": "国漫第一大女主的排面拉满了",
+        "onboard_time": 1759897761,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 164219,
+        "num": 164219,
+        "word": "贺峻霖大一的结课汇演",
+        "onboard_time": 1759892301,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157080,
+        "num": 157080,
+        "word": "中国大满贯收入近1.54亿",
+        "onboard_time": 1759896740,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148997,
+        "num": 148997,
+        "word": "接下来都是考考考",
+        "onboard_time": 1759893201,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147677,
+        "num": 147677,
+        "word": "陆毅顶流时期高调官宣恋情第一人",
+        "onboard_time": 1759890620,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135875,
+        "num": 135875,
+        "word": "加沙3个婴儿轮流用一根氧气管",
+        "onboard_time": 1759895119,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156375,
+        "num": 135426,
+        "word": "Gumayusi女友酷似Keria",
+        "onboard_time": 1759897521,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134360,
+        "num": 134360,
+        "word": "韩红不管了先呀拉索",
+        "onboard_time": 1759896440,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133040,
+        "num": 133040,
+        "word": "有个不太好的习惯叫穷思竭虑",
+        "onboard_time": 1759888519,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129743,
+        "num": 129743,
+        "word": "去看张艺兴演唱会的明星",
+        "onboard_time": 1759884979,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120797,
+        "num": 120797,
+        "word": "原来法令纹是提亮不了的",
+        "onboard_time": 1759890560,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 118697,
+        "num": 118697,
+        "word": "吴汉坤踩到孟子义头纱",
+        "onboard_time": 1759898422,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116361,
+        "num": 116361,
+        "word": "吴邪私家笔记",
+        "onboard_time": 1759896981,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116213,
+        "num": 116213,
+        "word": "白敬亭蓝盈莹合作",
+        "onboard_time": 1759897881,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114745,
+        "num": 114745,
+        "word": "钱学森遭美方拘禁后失声暴瘦",
+        "onboard_time": 1759880717,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112955,
+        "num": 112955,
+        "word": "断联诺奖得主联系上了",
+        "onboard_time": 1759893980,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 112230,
+        "num": 112230,
+        "word": "国乒出发印度参加亚锦赛",
+        "onboard_time": 1759895841,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111848,
+        "num": 111848,
+        "word": "金价又涨了",
+        "onboard_time": 1759889060,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110491,
+        "num": 110491,
+        "word": "姑妈鱼 女朋友",
+        "onboard_time": 1759886240,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98029,
+        "num": 107366,
+        "word": "37岁男子持刀致1死被抓",
+        "onboard_time": 1759897161,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107166,
+        "num": 107166,
+        "word": "原来侯明昊是接了个虐文本",
+        "onboard_time": 1759898181,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105879,
+        "num": 105879,
+        "word": "国庆返程高速上演龟速前行",
+        "onboard_time": 1759891881,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104576,
+        "num": 104576,
+        "word": "金饰克价涨至1176元",
+        "onboard_time": 1759895541,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 97389,
+        "num": 97389,
+        "word": "原来动画片演的都是真的",
+        "onboard_time": 1759894220,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77987,
+        "num": 93818,
+        "word": "刘宇宁哪天当导演了也不奇怪",
+        "onboard_time": 1759896440,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91852,
+        "num": 91852,
+        "word": "大国重器1元1个",
+        "onboard_time": 1759889361,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记探寻中华文明#"
+    }
+  }
+}

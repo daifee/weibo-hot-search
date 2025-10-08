@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 12:30:11
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 12:42:37
 </p>
 </blockquote>
 <p>
@@ -1251,6 +1251,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9A%E8%87%B3%E5%85%B1%E6%83%85%E4%B8%8D%E4%BA%86%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%89%8D%E7%9A%84%E8%87%AA%E5%B7%B1%23" target="weibo">
+人甚至共情不了国庆假期前的自己（热度：684420）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E4%B9%90%E6%98%9F%E7%90%83%E8%80%81%E9%A1%BD%E7%AB%A5%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%23" target="weibo">
 快乐星球老顽童爷爷去世（热度：684008）
 </a>
@@ -1751,6 +1757,12 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%20%E4%BB%8A%E5%A4%A9%E7%9A%84%E5%8F%91%E5%9E%8B%E5%B8%8C%E6%9C%9B%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E7%94%9F%E6%B0%94%23" target="weibo">
 张予曦 今天的发型希望大家不要生气（热度：549944）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%8D%A2%E5%A4%B4%E5%83%8F%23" target="weibo">
+张凌赫换头像（热度：549779）
 </a>
 </li>
 
@@ -2751,6 +2763,18 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%23" target="weibo">
+恋与深空（热度：390621）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%23" target="weibo">
+入青云（热度：390564）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%80%E8%8F%B2cos%E7%81%B5%E5%84%BF%23" target="weibo">
 刘一菲cos灵儿（热度：390557）
 </a>
@@ -2897,12 +2921,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%BD%E7%9C%9F%E5%A5%BD%E5%A4%B4%E8%83%8E%E7%94%9F%E4%BA%86%E4%B8%AA%E6%9C%88%E5%AB%82%23" target="weibo">
 命真好头胎生了个月嫂（热度：374856）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%23" target="weibo">
-恋与深空（热度：374385）
 </a>
 </li>
 
@@ -3225,6 +3243,12 @@ p图姐喊话黄俊捷（热度：342786）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%8D%9F%E5%A4%B1150%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
+美国经济损失150亿美元（热度：339722）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E6%89%8B%E5%8F%91%E7%90%83%23" target="weibo">
 反手发球（热度：339183）
 </a>
@@ -3473,12 +3497,6 @@ MiuMiu巴黎时装周（热度：318258）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%A0%94%20%E6%9D%8E%E7%BA%AF%E7%9C%9F%E5%A5%BD%E7%9C%8B%E5%91%80%23" target="weibo">
 马頔 李纯真好看呀（热度：318091）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%94%9A%E8%87%B3%E5%85%B1%E6%83%85%E4%B8%8D%E4%BA%86%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%89%8D%E7%9A%84%E8%87%AA%E5%B7%B1%23" target="weibo">
-人甚至共情不了国庆假期前的自己（热度：318063）
 </a>
 </li>
 
@@ -3993,6 +4011,12 @@ JDG对战DK（热度：286717）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%23" target="weibo">
+光与夜之恋（热度：279248）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E5%A5%B3%E5%84%BF%E4%B8%8E%E7%94%B7%E5%8F%8B%E7%A7%80%E6%81%A9%E7%88%B1%23" target="weibo">
 陈奕迅女儿与男友秀恩爱（热度：278900）
 </a>
@@ -4275,12 +4299,6 @@ F1（热度：275052）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%8D%9F%E5%A4%B1150%E4%BA%BF%E7%BE%8E%E5%85%83%23" target="weibo">
-美国经济损失150亿美元（热度：260377）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%90%E5%8A%A8%E4%B8%89%E4%B8%AA%E6%9C%88%E4%B8%8D%E8%83%96%E5%92%8C%E5%A5%BD%E7%98%A6%E7%9A%84%E5%8C%BA%E5%88%AB%23" target="weibo">
 运动三个月不胖和好瘦的区别（热度：259783）
 </a>
@@ -4529,12 +4547,6 @@ hi6收视率排名第一（热度：245066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E5%A4%8F%E4%BB%A5%E6%98%BC%23" target="weibo">
 恋与深空 夏以昼（热度：243270）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%23" target="weibo">
-入青云（热度：242863）
 </a>
 </li>
 
@@ -5067,12 +5079,6 @@ TTG清清（热度：219869）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%8D%A2%E5%A4%B4%E5%83%8F%23" target="weibo">
-张凌赫换头像（热度：216770）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9Cvs%E6%A2%81%E9%9D%96%E5%B4%91%23" target="weibo">
 林高远vs梁靖崑（热度：216553）
 </a>
@@ -5361,6 +5367,12 @@ AI女演员出道遭抵制（热度：212198）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A85%E7%BB%84%E5%88%AB%E5%85%A8%E5%9C%BA%E7%AC%AC%E4%B8%80%23" target="weibo">
+王一博85组别全场第一（热度：206177）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TTG%E6%88%98%E8%83%9CTES%23" target="weibo">
 TTG战胜TES（热度：206119）
 </a>
@@ -5571,12 +5583,6 @@ TTG战胜TES（热度：206119）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A85%E7%BB%84%E5%88%AB%E5%85%A8%E5%9C%BA%E7%AC%AC%E4%B8%80%23" target="weibo">
-王一博85组别全场第一（热度：200354）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E4%E6%AF%943%E6%88%98%E8%83%9C%E7%8E%8B%E8%89%BA%E8%BF%AA%23" target="weibo">
 孙颖莎4比3战胜王艺迪（热度：200303）
 </a>
@@ -5639,6 +5645,12 @@ AG战胜RW（热度：199437）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E6%B1%89%E5%A0%A1%E9%94%80%E9%87%8F%E7%A2%BE%E5%8E%8B%E9%BA%A6%E5%BD%93%E5%8A%B3%23" target="weibo">
 特斯拉汉堡销量碾压麦当劳（热度：198636）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E6%89%8B%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%AD%A3%E5%BC%8F%E7%99%BB%E5%9C%BA%23" target="weibo">
+车手王一博正式登场（热度：198017）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ LOEWE眼光 惠英红就是奢侈品（热度：192315）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23NRG%E6%80%BB%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5FNC%23" target="weibo">
 NRG总决赛对阵FNC（热度：190252）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%9C%BC%E4%B8%AD%E7%9A%84%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%23" target="weibo">
-医生眼中的生理性厌恶（热度：189875）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E7%BF%8A%E7%84%B6%E5%93%AD%E4%BA%86%23" target="weibo">
-周翊然哭了（热度：189873）
 </a>
 </li>
 
