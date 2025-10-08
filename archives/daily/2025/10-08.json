@@ -1,6 +1,6 @@
 {
   "startTime": 1759854695353,
-  "endTime": 1759905457343,
+  "endTime": 1759906210563,
   "band_list": [
     {
       "raw_hot": 1475503,
@@ -11,6 +11,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1264659,
+      "num": 1264659,
+      "word": "尹锡悦夫妇中秋节牢饭曝光",
+      "onboard_time": 1759902079,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1255648,
       "num": 1255648,
       "word": "人甚至共情不了国庆假期前的自己",
@@ -19,20 +27,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1242880,
-      "num": 1242880,
-      "word": "尹锡悦夫妇中秋节牢饭曝光",
-      "onboard_time": 1759902079,
-      "rank": 0,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 1235949,
       "num": 1235949,
       "word": "男子喝3斤白酒用智驾开车20公里",
       "onboard_time": 1759884739,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1146142,
+      "num": 214890,
+      "word": "李一桐美人余造型疑似抄袭许我耀眼",
+      "onboard_time": 1759902681,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1099261,
@@ -49,14 +57,6 @@
       "onboard_time": 1759890381,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1021374,
-      "num": 214890,
-      "word": "李一桐美人余造型疑似抄袭许我耀眼",
-      "onboard_time": 1759902681,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 867986,
@@ -88,6 +88,14 @@
       "word": "高速5车追尾2死3伤",
       "onboard_time": 1759854859,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 631501,
+      "num": 188193,
+      "word": "肖庆平车祸离世",
+      "onboard_time": 1759905021,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -227,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 372751,
+      "num": 372751,
+      "word": "小偷通过刷视频定位偷走38万份子钱",
+      "onboard_time": 1759902621,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371879,
       "num": 172953,
       "word": "吴汉坤踩到孟子义头纱",
@@ -259,12 +275,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 337632,
-      "num": 337632,
-      "word": "小偷通过刷视频定位偷走38万份子钱",
-      "onboard_time": 1759902621,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 332595,
+      "num": 332595,
+      "word": "国外很贵但国内却便宜的东西",
+      "onboard_time": 1759902201,
+      "rank": 6,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 329830,
+      "num": 329830,
+      "word": "王者荣耀",
+      "onboard_time": 1759904960,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 323347,
@@ -291,20 +315,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 310498,
-      "num": 310498,
-      "word": "国外很贵但国内却便宜的东西",
-      "onboard_time": 1759902201,
-      "rank": 6,
-      "category": "情感"
-    },
-    {
       "raw_hot": 305828,
       "num": 305828,
       "word": "高市早苗考虑放弃秋季参拜靖国神社",
       "onboard_time": 1759894341,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 304599,
+      "num": 185744,
+      "word": "吴汉坤道歉",
+      "onboard_time": 1759905021,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 301884,
@@ -451,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246729,
-      "num": 246729,
-      "word": "王者荣耀",
-      "onboard_time": 1759904960,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 243270,
       "num": 243270,
       "word": "恋与深空 夏以昼",
@@ -467,20 +483,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 242152,
-      "num": 187603,
-      "word": "肖庆平车祸离世",
-      "onboard_time": 1759905021,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 241917,
       "num": 197204,
       "word": "沈星回来自星轨间",
       "onboard_time": 1759894402,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 240517,
+      "num": 185324,
+      "word": "马伯骞以为是马嘉祺不敢喊",
+      "onboard_time": 1759902380,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 237386,
@@ -516,7 +532,7 @@
     },
     {
       "raw_hot": 226248,
-      "num": 181606,
+      "num": 184972,
       "word": "15岁女孩患癌肝被肿瘤占近半",
       "onboard_time": 1759900940,
       "rank": 19,
@@ -571,6 +587,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 190836,
+      "num": 190836,
+      "word": "美驻华大使馆宣布微博微信停更",
+      "onboard_time": 1759904902,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189701,
       "num": 189701,
       "word": "曾黎种了两个半月的玉米被虫子吃了",
@@ -604,7 +628,7 @@
     },
     {
       "raw_hot": 185484,
-      "num": 180945,
+      "num": 184836,
       "word": "王者十周年福利抢先看",
       "onboard_time": 1759905260,
       "rank": 20,
@@ -627,12 +651,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 178652,
-      "num": 178652,
-      "word": "马伯骞以为是马嘉祺不敢喊",
-      "onboard_time": 1759902380,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 178310,
+      "num": 178310,
+      "word": "王一博轮胎冒烟",
+      "onboard_time": 1759905320,
+      "rank": 32,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 178091,
@@ -681,14 +705,6 @@
       "onboard_time": 1759894100,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164524,
-      "num": 149041,
-      "word": "吴汉坤道歉",
-      "onboard_time": 1759905021,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 164032,
@@ -779,6 +795,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152563,
+      "num": 146715,
+      "word": "第一集撕第二集哈第三集嘶哈",
+      "onboard_time": 1759905980,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151890,
       "num": 123283,
       "word": "杨博文高会第一",
@@ -819,12 +843,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 146597,
+      "num": 146597,
+      "word": "许凯复工进组了",
+      "onboard_time": 1759901961,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143989,
       "num": 143989,
       "word": "刘宇宁说不需要辱追粉",
       "onboard_time": 1759888580,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143693,
+      "num": 143693,
+      "word": "卢昱晓把倪妮摇来了",
+      "onboard_time": 1759901600,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 142140,
@@ -841,14 +881,6 @@
       "onboard_time": 1759832542,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139856,
-      "num": 139856,
-      "word": "卢昱晓把倪妮摇来了",
-      "onboard_time": 1759901600,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 138563,
@@ -931,14 +963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131442,
-      "num": 131442,
-      "word": "王一博轮胎冒烟",
-      "onboard_time": 1759905320,
-      "rank": 32,
-      "category": "艺人,体育"
-    },
-    {
       "raw_hot": 130505,
       "num": 130505,
       "word": "一觉醒来寒露来了",
@@ -953,14 +977,6 @@
       "onboard_time": 1759844123,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129767,
-      "num": 129767,
-      "word": "美驻华大使馆宣布微博微信停更",
-      "onboard_time": 1759904902,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 128411,
@@ -1003,12 +1019,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121622,
-      "num": 121622,
-      "word": "许凯复工进组了",
-      "onboard_time": 1759901961,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 122918,
+      "num": 122918,
+      "word": "黄金疯涨30克金镯价格超3万",
+      "onboard_time": 1759905741,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 121500,
@@ -1033,6 +1049,14 @@
       "onboard_time": 1759841845,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119766,
+      "num": 119766,
+      "word": "花海所有的努力都作数",
+      "onboard_time": 1759905801,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 119422,
@@ -1131,6 +1155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 108033,
+      "num": 108033,
+      "word": "好久没见过这么老款的婚礼录像了",
+      "onboard_time": 1759904720,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107657,
       "num": 107657,
       "word": "董璇张维伊北大合体",
@@ -1171,6 +1203,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106357,
+      "num": 106357,
+      "word": "三角洲行动道歉",
+      "onboard_time": 1759905921,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 105721,
+      "num": 118226,
+      "word": "李兰迪打火机转场都要美成啥了",
+      "onboard_time": 1759904240,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105706,
       "num": 105706,
       "word": "霉霉夸一战再战太搞笑了",
@@ -1195,20 +1243,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 102958,
-      "num": 102958,
-      "word": "好久没见过这么老款的婚礼录像了",
-      "onboard_time": 1759904720,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 101810,
       "num": 101810,
       "word": "Faker147场世界赛胜率74%",
       "onboard_time": 1759894882,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99077,
+      "num": 99077,
+      "word": "低精力人的一天",
+      "onboard_time": 1759903940,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 98657,
@@ -1275,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92566,
+      "num": 92566,
+      "word": "为什么年轻人喜欢徒步",
+      "onboard_time": 1759906161,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91298,
       "num": 91298,
       "word": "1966年的孩子想象2000年的世界",
@@ -1313,14 +1369,6 @@
       "onboard_time": 1759823422,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85606,
-      "num": 118226,
-      "word": "李兰迪打火机转场都要美成啥了",
-      "onboard_time": 1759904240,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 85339,
@@ -1524,7 +1572,7 @@
     },
     {
       "raw_hot": 64566,
-      "num": 526760,
+      "num": 531937,
       "word": "县域旅游已成为一种时尚",
       "onboard_time": 1759878197,
       "rank": 48,
@@ -1537,6 +1585,14 @@
       "onboard_time": 1759835180,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 62770,
+      "num": 118438,
+      "word": "济南29岁男子上山后失联4天",
+      "onboard_time": 1759905440,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62356,
@@ -1569,14 +1625,6 @@
       "onboard_time": 1759854980,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 57406,
-      "num": 118438,
-      "word": "济南29岁男子上山后失联4天",
-      "onboard_time": 1759905440,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57169,
@@ -1761,6 +1809,14 @@
       "onboard_time": 1759869074,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 25607,
+      "num": 107026,
+      "word": "李乃文帮我拿行李箱",
+      "onboard_time": 1759906099,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 21586,
