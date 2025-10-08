@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/09 02:37:16
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/09 02:50:31
 </p>
 </blockquote>
 <p>
@@ -9929,6 +9929,12 @@ CP2025SP（热度：26632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 汪苏泷演唱会（热度：17207）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E9%A6%92%E5%A4%B4%E4%BA%89%E8%AE%AE%E5%8D%9A%E4%B8%BB60%E7%A7%92%E8%A7%86%E9%A2%91160%E5%85%83%23" target="weibo">
+西贝馒头争议博主60秒视频160元（热度：17088）
 </a>
 </li>
 
