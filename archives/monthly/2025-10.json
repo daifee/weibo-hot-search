@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759941981894,
+  "endTime": 1759944205839,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -25443,6 +25443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37564,
+      "num": 63534,
+      "word": "反方向的钟",
+      "onboard_time": 1759943418,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 37473,
       "num": 149050,
       "word": "特朗普称环保少女太疯狂",
@@ -25969,6 +25977,14 @@
       "onboard_time": 1759831221,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28898,
+      "num": 63343,
+      "word": "假期戒断反应",
+      "onboard_time": 1759944137,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 28729,

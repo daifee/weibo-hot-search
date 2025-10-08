@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/09 00:46:21
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/09 01:23:25
 </p>
 </blockquote>
 <p>
@@ -9555,6 +9555,12 @@ WTT更新北满冠军宣传照（热度：43795）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E6%96%B9%E5%90%91%E7%9A%84%E9%92%9F%23" target="weibo">
+反方向的钟（热度：37564）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E5%A4%AA%E7%96%AF%E7%8B%82%23" target="weibo">
 特朗普称环保少女太疯狂（热度：37473）
 </a>
@@ -9713,6 +9719,12 @@ WTT更新北满冠军宣传照（热度：43795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%231090%E5%85%83%E7%BD%91%E8%B4%AD%E6%99%BA%E8%83%BD%E9%A9%AC%E6%A1%B6%E7%AA%81%E5%8F%91%E7%88%86%E7%82%B8%23" target="weibo">
 1090元网购智能马桶突发爆炸（热度：29045）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E6%88%92%E6%96%AD%E5%8F%8D%E5%BA%94%23" target="weibo">
+假期戒断反应（热度：28898）
 </a>
 </li>
 
