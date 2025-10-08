@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/09 01:41:00
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/09 02:37:16
 </p>
 </blockquote>
 <p>
@@ -8811,6 +8811,12 @@ MiuMiu秀场叠搭公式（热度：78571）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E6%96%B9%E5%90%91%E7%9A%84%E9%92%9F%23" target="weibo">
+反方向的钟（热度：74734）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%86%E6%8E%A5%E6%89%8B3%E4%B8%AA%E7%83%82%E6%91%8A%E5%AD%90%23" target="weibo">
 高市早苗将接手3个烂摊子（热度：74126）
 </a>
@@ -9387,12 +9393,6 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E6%96%B9%E5%90%91%E7%9A%84%E9%92%9F%23" target="weibo">
-反方向的钟（热度：48984）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8EWTT%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%8D%95%E6%89%93%E5%9B%9B%E5%86%A0%E7%8E%8B%23" target="weibo">
 孙颖莎WTT大满贯单打四冠王（热度：48908）
 </a>
@@ -9963,8 +9963,20 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%92%AD%23" target="weibo">
+张艺兴演唱会直播（热度：15716）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E8%BF%94%E7%A8%8B%E8%AD%A6%E6%83%95%E6%9C%BA%E7%A5%A8%E9%80%80%E6%94%B9%E7%AD%BE%E9%99%B7%E9%98%B1%23" target="weibo">
 假期返程警惕机票退改签陷阱（热度：15715）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%E7%A1%AE%E5%AE%9E%E7%8C%9B%23" target="weibo">
+震耳欲聋确实猛（热度：15664）
 </a>
 </li>
 

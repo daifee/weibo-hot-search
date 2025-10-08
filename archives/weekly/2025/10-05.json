@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759945260634,
+  "endTime": 1759948636186,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -11731,6 +11731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74734,
+      "num": 74734,
+      "word": "反方向的钟",
+      "onboard_time": 1759943418,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 74126,
       "num": 145703,
       "word": "高市早苗将接手3个烂摊子",
@@ -12499,14 +12507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 48984,
-      "num": 63534,
-      "word": "反方向的钟",
-      "onboard_time": 1759943418,
-      "rank": 28,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 48908,
       "num": 48908,
       "word": "孙颖莎WTT大满贯单打四冠王",
@@ -13267,12 +13267,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 15716,
+      "num": 26172,
+      "word": "张艺兴演唱会直播",
+      "onboard_time": 1759948275,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 15715,
       "num": 28022,
       "word": "假期返程警惕机票退改签陷阱",
       "onboard_time": 1759868954,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15664,
+      "num": 26080,
+      "word": "震耳欲聋确实猛",
+      "onboard_time": 1759947674,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 15228,

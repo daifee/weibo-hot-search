@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/09 00:32:29 ~ 2025/10/09 01:41:00
+本榜单时间：2025/10/09 00:32:29 ~ 2025/10/09 02:37:16
 </p>
 </blockquote>
 <p>
@@ -183,6 +183,12 @@ WBG零封DK（热度：115931）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E6%96%B9%E5%90%91%E7%9A%84%E9%92%9F%23" target="weibo">
+反方向的钟（热度：74734）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%BD%E5%BA%866%E5%A4%A9%E5%8D%96%E4%BA%866.81%E4%BA%BF%23" target="weibo">
 胖东来国庆6天卖了6.81亿（热度：73386）
 </a>
@@ -303,12 +309,6 @@ WBG零封DK（热度：115931）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E6%96%B9%E5%90%91%E7%9A%84%E9%92%9F%23" target="weibo">
-反方向的钟（热度：48984）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8E%A5%E4%B8%8B%E6%9D%A5%E4%B8%89%E4%B8%AA%E6%9C%88%E5%8F%AA%E5%89%A9%E4%B8%8B%E4%BE%8B%E5%81%87%E4%BA%86%23" target="weibo">
 接下来三个月只剩下例假了（热度：44565）
 </a>
@@ -335,6 +335,18 @@ WBG零封DK（热度：115931）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E5%93%AD%E6%88%8F%23" target="weibo">
 侯明昊哭戏（热度：27181）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9B%B4%E6%92%AD%23" target="weibo">
+张艺兴演唱会直播（热度：15716）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%E7%A1%AE%E5%AE%9E%E7%8C%9B%23" target="weibo">
+震耳欲聋确实猛（热度：15664）
 </a>
 </li>
 
