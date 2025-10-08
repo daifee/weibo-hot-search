@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 07:36:31
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 09:49:15
 </p>
 </blockquote>
 <p>
@@ -453,6 +453,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%96%9D3%E6%96%A4%E7%99%BD%E9%85%92%E7%94%A8%E6%99%BA%E9%A9%BE%E5%BC%80%E8%BD%A620%E5%85%AC%E9%87%8C%23" target="weibo">
+男子喝3斤白酒用智驾开车20公里（热度：1120228）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E8%A2%AB%E7%94%B7%E5%AD%90%E6%89%AF%E6%8B%BD%E8%A1%A3%E6%9C%8D%E8%A6%81%E6%B1%82%E7%AB%99%E9%AB%98%E7%82%B9%E6%BC%94%E8%AE%B2%23" target="weibo">
 鸡排哥被男子扯拽衣服要求站高点演讲（热度：1118063）
 </a>
@@ -893,6 +899,12 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A9%9A%E4%B8%89%E9%87%91%E4%BA%94%E9%87%91%E6%88%90%E9%87%91%E5%BA%97%E7%88%86%E6%AC%BE%23" target="weibo">
 新婚三金五金成金店爆款（热度：837885）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%B1%E5%AD%A6%E6%A3%AE%E9%81%AD%E7%BE%8E%E6%96%B9%E6%8B%98%E7%A6%81%E5%90%8E%E5%A4%B1%E5%A3%B0%E6%9A%B4%E7%98%A6%23" target="weibo">
+钱学森遭美方拘禁后失声暴瘦（热度：832077）
 </a>
 </li>
 
@@ -2247,6 +2259,12 @@ VaVa说自己分手是因为浪姐（热度：480031）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E5%BE%97%E8%AF%BA%E5%A5%96%E7%9A%84%E5%91%98%E5%B7%A5%23" target="weibo">
+公司回应联系不上得诺奖的员工（热度：454081）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%AF%B4%E6%9C%89%E7%82%B9%E4%B8%8D%E6%95%A2%E6%8E%A5%E9%9F%B3%E4%B9%90%E8%8A%82%E4%BA%86%23" target="weibo">
 薛之谦说有点不敢接音乐节了（热度：453879）
 </a>
@@ -2525,6 +2543,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A7%8B%E7%BB%88%E8%AE%A4%E4%B8%BA%E7%94%A8%E4%B9%9D%E9%94%AE%E6%89%93%E5%AD%97%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E5%A4%A9%E6%89%8D%23" target="weibo">
 我始终认为用九键打字的人都是天才（热度：419813）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E7%BD%91%E7%BA%A2%E6%8B%BF%E9%92%88%E7%AE%A1%E5%81%87%E8%A3%85%E6%89%8E%E4%BA%BA%E8%8E%B7%E5%88%91%E5%8D%8A%E5%B9%B4%23" target="weibo">
+法国网红拿针管假装扎人获刑半年（热度：419527）
 </a>
 </li>
 
@@ -4101,6 +4125,12 @@ F1（热度：275052）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E9%A1%B6%E5%85%89%E6%9E%81%E8%87%B4%E6%80%BC%E8%84%B8%E7%8A%B6%E6%80%81%23" target="weibo">
+娜扎顶光极致怼脸状态（热度：263433）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B2%E7%A1%AE%E8%AE%A41555.3%E4%B8%87%E6%9D%A1%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%E7%94%B3%E6%8A%A5%E4%BF%A1%E6%81%AF%23" target="weibo">
 已确认1555.3万条育儿补贴申报信息（热度：263369）
 </a>
@@ -4335,6 +4365,12 @@ F1（热度：275052）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A6%88%E9%B1%BC%20%E5%A5%B3%E6%9C%8B%E5%8F%8B%23" target="weibo">
+姑妈鱼 女朋友（热度：246696）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E4%BA%BA%E7%9B%AF%E4%B8%8A%E5%86%85%E5%9C%B0%E5%8C%BB%E4%BF%9D%23" target="weibo">
 香港人盯上内地医保（热度：245836）
 </a>
@@ -4469,6 +4505,12 @@ hi6收视率排名第一（热度：245066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E4%BB%8B%E7%BB%8D%E5%BC%A0%E7%BB%B4%E4%BC%8A%E5%85%84%E5%BC%9F%E7%BB%99%E5%A5%BD%E5%8F%8B%23" target="weibo">
 董璇介绍张维伊兄弟给好友（热度：237712）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E9%9B%A8%E9%9B%A8%E9%9B%A8%E9%9B%A8%23" target="weibo">
+北京雨雨雨雨（热度：237386）
 </a>
 </li>
 
@@ -5295,6 +5337,12 @@ TTG战胜TES（热度：206119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%E7%94%9F%E5%9B%BE%23" target="weibo">
+李庚希生图（热度：202394）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF4%E5%BC%BA%23" target="weibo">
 孙颖莎晋级中国大满贯4强（热度：202241）
 </a>
@@ -5345,6 +5393,12 @@ TTG战胜TES（热度：206119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC39.2%25%23" target="weibo">
 许我耀眼39.2%（热度：200978）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%BB%E7%9C%8B%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E6%98%8E%E6%98%9F%23" target="weibo">
+去看张艺兴演唱会的明星（热度：200948）
 </a>
 </li>
 
@@ -5957,60 +6011,6 @@ NRG总决赛对阵FNC（热度：190252）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E7%99%BB%E6%B3%B0%E5%B1%B1%E6%98%AF%E8%A2%AB%E4%BA%BA%E6%BD%AE%E4%BC%A0%E9%80%81%E4%B8%8A%E5%8E%BB%E7%9A%84%23" target="weibo">
 女子称登泰山是被人潮传送上去的（热度：184995）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E6%B9%96%E6%B9%BE%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
-太湖湾音乐节（热度：184440）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E9%9D%99%E5%85%AC%E4%B8%BB%E7%98%A6%E4%BA%86%E5%A5%BD%E5%A4%9A%23" target="weibo">
-安静公主瘦了好多（热度：184433）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A1%9E%E8%92%82%E6%81%A9%E4%B8%8B%E8%AF%BE%23" target="weibo">
-塞蒂恩下课（热度：184236）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85%E6%AF%95%E4%B8%9A%E6%97%B6%E4%B8%BA%E9%B2%8D%E8%95%BE%E6%94%BE%E5%BC%83%E5%B7%A5%E4%BD%9Coffer%23" target="weibo">
-陆毅毕业时为鲍蕾放弃工作offer（热度：184226）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%A3%8A%E4%B8%8A%E5%A9%9A%E7%BB%BC%E5%89%8D%E5%92%8Cqko%E5%86%B7%E6%88%98%23" target="weibo">
-赵磊上婚综前和qko冷战（热度：184217）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%B9%E9%A2%96%E5%90%83%E4%BA%8620%E5%A4%9A%E5%B9%B4%E6%8A%97%E7%84%A6%E8%99%91%E8%8D%AF%23" target="weibo">
-曹颖吃了20多年抗焦虑药（热度：184151）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E7%A7%B0%E6%8D%A1%E6%9D%BF%E6%A0%97%E5%A3%B3%E8%A2%AB%E6%B0%91%E5%AE%BF%E8%80%81%E6%9D%BF%E5%A8%98%E8%AF%AC%E9%99%B7%E5%81%B7%23" target="weibo">
-游客称捡板栗壳被民宿老板娘诬陷偷（热度：183994）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91%E6%97%A0%E7%BC%98%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%85%AB%E5%BC%BA%23" target="weibo">
-梁靖崑无缘中国大满贯八强（热度：183824）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6WTT%E9%A6%99%E6%B8%AF%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
-孙颖莎王楚钦WTT香港总决赛（热度：183781）
 </a>
 </li>
 
