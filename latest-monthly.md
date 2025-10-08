@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 22:27:17
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 22:44:56
 </p>
 </blockquote>
 <p>
@@ -1773,6 +1773,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20Gucci%E5%8C%85%E6%9C%BA%23" target="weibo">
+肖战 Gucci包机（热度：579086）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E8%BD%A6%E7%A5%B8%E4%BA%8B%E4%BB%B6%E4%B8%8D%E6%B6%89%E5%8F%8A%E6%AF%92%E9%A9%BE%E9%86%89%E9%A9%BE%23" target="weibo">
 陈震车祸事件不涉及毒驾醉驾（热度：576917）
 </a>
@@ -1847,6 +1853,12 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E7%94%B7%E5%AD%90%E6%89%BE%E5%9B%9E%E6%89%8B%E6%9C%BA%E7%9B%B8%E5%86%8C%E6%83%8A%E7%8E%B0%E5%B0%B8%E9%AA%A8%E7%85%A7%23" target="weibo">
 泰国男子找回手机相册惊现尸骨照（热度：558597）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E6%AF%95%E4%B8%9A%E4%BA%8E211%E9%99%A2%E6%A0%A1%23" target="weibo">
+29岁失联男子毕业于211院校（热度：556681）
 </a>
 </li>
 
@@ -2351,12 +2363,6 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%AE%98%E5%AE%A3%E5%A7%90%E5%A7%90%E5%8A%A0%E7%9B%9F%23" target="weibo">
 披荆斩棘官宣姐姐加盟（热度：484633）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2329%E5%B2%81%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E6%AF%95%E4%B8%9A%E4%BA%8E211%E9%99%A2%E6%A0%A1%23" target="weibo">
-29岁失联男子毕业于211院校（热度：482814）
 </a>
 </li>
 
@@ -3111,6 +3117,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E5%95%86%E6%A0%87%E5%B7%B2%E8%A2%AB%E5%88%AB%E4%BA%BA%E6%8C%81%E6%9C%899%E5%B9%B4%23" target="weibo">
+鸡排哥商标已被别人持有9年（热度：378455）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E8%B5%9B%E5%90%8E%E7%94%9F%E6%B0%94%E4%BA%86%23" target="weibo">
 林诗栋赛后生气了（热度：378133）
 </a>
@@ -3341,12 +3353,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B7%A8%E5%9E%8B%E7%94%BB%E5%8D%B7%23" target="weibo">
 张艺兴鸟巢演唱会巨型画卷（热度：358257）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20Gucci%E5%8C%85%E6%9C%BA%23" target="weibo">
-肖战 Gucci包机（热度：356709）
 </a>
 </li>
 
@@ -5799,12 +5805,6 @@ AI女演员出道遭抵制（热度：212198）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E5%95%86%E6%A0%87%E5%B7%B2%E8%A2%AB%E5%88%AB%E4%BA%BA%E6%8C%81%E6%9C%899%E5%B9%B4%23" target="weibo">
-鸡排哥商标已被别人持有9年（热度：206121）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23TTG%E6%88%98%E8%83%9CTES%23" target="weibo">
 TTG战胜TES（热度：206119）
 </a>
@@ -5955,6 +5955,12 @@ TTG战胜TES（热度：206119）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%90%A7%E6%97%AD%E9%83%AD%E5%AE%87%E6%AC%A3%E9%83%BD%E5%93%AD%E4%BA%86%23" target="weibo">
+刘萧旭郭宇欣都哭了（热度：202262）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF4%E5%BC%BA%23" target="weibo">
 孙颖莎晋级中国大满贯4强（热度：202241）
 </a>
@@ -6005,12 +6011,6 @@ TTG战胜TES（热度：206119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC39.2%25%23" target="weibo">
 许我耀眼39.2%（热度：200978）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%B2%A1%E6%9C%89%E4%B8%80%E5%8F%A5%E5%8F%B0%E8%AF%8D%E5%8D%B4%E5%93%AD%E5%88%B0%E5%B4%A9%E6%BA%83%23" target="weibo">
-范丞丞没有一句台词却哭到崩溃（热度：200784）
 </a>
 </li>
 

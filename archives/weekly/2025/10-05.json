@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759933637292,
+  "endTime": 1759934696912,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1115,6 +1115,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 579086,
+      "num": 263127,
+      "word": "肖战 Gucci包机",
+      "onboard_time": 1759932502,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 570379,
       "num": 570379,
       "word": "恋与深空",
@@ -1145,6 +1153,14 @@
       "onboard_time": 1759819519,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 556681,
+      "num": 556681,
+      "word": "29岁失联男子毕业于211院校",
+      "onboard_time": 1759928601,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 554286,
@@ -1513,14 +1529,6 @@
       "onboard_time": 1759590682,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 482814,
-      "num": 482814,
-      "word": "29岁失联男子毕业于211院校",
-      "onboard_time": 1759928601,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 482525,
@@ -2059,6 +2067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 378455,
+      "num": 378455,
+      "word": "鸡排哥商标已被别人持有9年",
+      "onboard_time": 1759931960,
+      "rank": 23,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 376791,
       "num": 281778,
       "word": "马嘉祺中秋请客剧组了",
@@ -2209,14 +2225,6 @@
       "onboard_time": 1759756703,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 356709,
-      "num": 263127,
-      "word": "肖战 Gucci包机",
-      "onboard_time": 1759932502,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 356190,
@@ -3883,14 +3891,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 206121,
-      "num": 206121,
-      "word": "鸡排哥商标已被别人持有9年",
-      "onboard_time": 1759931960,
-      "rank": 23,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 205605,
       "num": 181226,
       "word": "田曦薇鹅黄吊带襦裙",
@@ -3985,6 +3985,14 @@
       "onboard_time": 1759912401,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202262,
+      "num": 202262,
+      "word": "刘萧旭郭宇欣都哭了",
+      "onboard_time": 1759933404,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 201136,
@@ -7059,6 +7067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131494,
+      "num": 131494,
+      "word": "减肥期一定要降低自己的期待值",
+      "onboard_time": 1759933521,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 131356,
       "num": 131356,
       "word": "人民海军中秋祝福超硬核",
@@ -7161,6 +7177,14 @@
       "onboard_time": 1759656981,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129269,
+      "num": 129269,
+      "word": "小酒窝和爸爸妈妈关系都很好",
+      "onboard_time": 1759932080,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 129236,
@@ -7907,14 +7931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117772,
-      "num": 117772,
-      "word": "小酒窝和爸爸妈妈关系都很好",
-      "onboard_time": 1759932080,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117694,
       "num": 117694,
       "word": "陈未衾 给女演员加戏加成双女主",
@@ -8259,14 +8275,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 113343,
-      "num": 113343,
-      "word": "减肥期一定要降低自己的期待值",
-      "onboard_time": 1759933521,
-      "rank": 40,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 113342,
       "num": 113342,
       "word": "上铺跌落砸伤女孩男子称正筹钱",
@@ -8321,14 +8329,6 @@
       "onboard_time": 1759831341,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112635,
-      "num": 112635,
-      "word": "刘萧旭郭宇欣都哭了",
-      "onboard_time": 1759933404,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 112617,
@@ -9001,6 +9001,14 @@
       "onboard_time": 1759731681,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106899,
+      "num": 106899,
+      "word": "国庆假期金饰克价涨近40元",
+      "onboard_time": 1759934061,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 106761,
@@ -10443,6 +10451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92360,
+      "num": 92360,
+      "word": "29岁男子上山失联表姐发声",
+      "onboard_time": 1759934421,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92341,
       "num": 92341,
       "word": "AMD继续大涨",
@@ -10665,6 +10681,14 @@
       "onboard_time": 1759654641,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89879,
+      "num": 89879,
+      "word": "宋佳还是太拿得出手了",
+      "onboard_time": 1759934542,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 89725,
@@ -10971,6 +10995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85925,
+      "num": 85925,
+      "word": "胖东来国庆6天卖了6.81亿",
+      "onboard_time": 1759934662,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 85766,
       "num": 85766,
       "word": "法国总理勒科尔尼递交辞呈",
@@ -10993,6 +11025,14 @@
       "onboard_time": 1759840523,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85528,
+      "num": 204804,
+      "word": "疑似马来西亚失联二人照片曝光",
+      "onboard_time": 1759933943,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85442,

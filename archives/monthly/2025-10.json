@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759933637292,
+  "endTime": 1759934696912,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -2347,6 +2347,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 579086,
+      "num": 263127,
+      "word": "肖战 Gucci包机",
+      "onboard_time": 1759932502,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 576917,
       "num": 470228,
       "word": "陈震车祸事件不涉及毒驾醉驾",
@@ -2449,6 +2457,14 @@
       "onboard_time": 1759411941,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 556681,
+      "num": 556681,
+      "word": "29岁失联男子毕业于211院校",
+      "onboard_time": 1759928601,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 555665,
@@ -3121,14 +3137,6 @@
       "onboard_time": 1759462220,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 482814,
-      "num": 482814,
-      "word": "29岁失联男子毕业于211院校",
-      "onboard_time": 1759928601,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 482525,
@@ -4131,6 +4139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 378455,
+      "num": 378455,
+      "word": "鸡排哥商标已被别人持有9年",
+      "onboard_time": 1759931960,
+      "rank": 23,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 378133,
       "num": 247502,
       "word": "林诗栋赛后生气了",
@@ -4441,14 +4457,6 @@
       "onboard_time": 1759756703,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 356709,
-      "num": 263127,
-      "word": "肖战 Gucci包机",
-      "onboard_time": 1759932502,
-      "rank": 15,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 356347,
@@ -7715,14 +7723,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 206121,
-      "num": 206121,
-      "word": "鸡排哥商标已被别人持有9年",
-      "onboard_time": 1759931960,
-      "rank": 23,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 206119,
       "num": 206119,
       "word": "TTG战胜TES",
@@ -7921,6 +7921,14 @@
       "onboard_time": 1759912401,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202262,
+      "num": 202262,
+      "word": "刘萧旭郭宇欣都哭了",
+      "onboard_time": 1759933404,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 202241,
@@ -13627,6 +13635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131494,
+      "num": 131494,
+      "word": "减肥期一定要降低自己的期待值",
+      "onboard_time": 1759933521,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 131444,
       "num": 146813,
       "word": "王曼昱蒯曼3比0长崎美柚申裕斌",
@@ -13889,6 +13905,14 @@
       "onboard_time": 1759499421,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 129269,
+      "num": 129269,
+      "word": "小酒窝和爸爸妈妈关系都很好",
+      "onboard_time": 1759932080,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 129236,
@@ -15323,14 +15347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117772,
-      "num": 117772,
-      "word": "小酒窝和爸爸妈妈关系都很好",
-      "onboard_time": 1759932080,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117748,
       "num": 117748,
       "word": "11个月的比4岁的睡觉还要乖",
@@ -16099,14 +16115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113343,
-      "num": 113343,
-      "word": "减肥期一定要降低自己的期待值",
-      "onboard_time": 1759933521,
-      "rank": 40,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 113342,
       "num": 113342,
       "word": "上铺跌落砸伤女孩男子称正筹钱",
@@ -16209,14 +16217,6 @@
       "onboard_time": 1759404081,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112635,
-      "num": 112635,
-      "word": "刘萧旭郭宇欣都哭了",
-      "onboard_time": 1759933404,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 112617,
@@ -17521,6 +17521,14 @@
       "onboard_time": 1759731681,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106899,
+      "num": 106899,
+      "word": "国庆假期金饰克价涨近40元",
+      "onboard_time": 1759934061,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 106761,
@@ -20499,6 +20507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 92360,
+      "num": 92360,
+      "word": "29岁男子上山失联表姐发声",
+      "onboard_time": 1759934421,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92341,
       "num": 92341,
       "word": "普京致意中国兄弟姐妹",
@@ -20913,6 +20929,14 @@
       "onboard_time": 1759654641,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89879,
+      "num": 89879,
+      "word": "宋佳还是太拿得出手了",
+      "onboard_time": 1759934542,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 89869,
@@ -21563,6 +21587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85925,
+      "num": 85925,
+      "word": "胖东来国庆6天卖了6.81亿",
+      "onboard_time": 1759934662,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 85789,
       "num": 163025,
       "word": "邓超内收式疯批演技",
@@ -21625,6 +21657,14 @@
       "onboard_time": 1759570461,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85528,
+      "num": 204804,
+      "word": "疑似马来西亚失联二人照片曝光",
+      "onboard_time": 1759933943,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85527,

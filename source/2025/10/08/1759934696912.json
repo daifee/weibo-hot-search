@@ -1,0 +1,410 @@
+{
+  "runTime": 1759934696912,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 573030,
+        "num": 1091684,
+        "word": "8天很短 7天很长",
+        "onboard_time": 1759915401,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 556681,
+        "num": 556681,
+        "word": "29岁失联男子毕业于211院校",
+        "onboard_time": 1759928601,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8978,
+        "num": 429297,
+        "word": "北方开启秋雨绵绵模式",
+        "onboard_time": 1759885700,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 603391,
+        "num": 411024,
+        "word": "年轻情侣忘情接吻险从扶梯摔下",
+        "onboard_time": 1759926741,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378455,
+        "num": 378455,
+        "word": "鸡排哥商标已被别人持有9年",
+        "onboard_time": 1759931960,
+        "rank": 4,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 349209,
+        "num": 349209,
+        "word": "高速堵成啥样了",
+        "onboard_time": 1759907120,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312173,
+        "num": 312173,
+        "word": "WBG零封DK",
+        "onboard_time": 1759931424,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1337407,
+        "num": 293597,
+        "word": "伊朗废除女性强制佩戴头巾规定",
+        "onboard_time": 1759929322,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 251482,
+        "num": 251482,
+        "word": "景德镇一汽车下坡突然起飞",
+        "onboard_time": 1759924642,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230113,
+        "num": 230113,
+        "word": "小狗 请删除偷拍我的照片",
+        "onboard_time": 1759923920,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 763561,
+        "num": 229669,
+        "word": "许妍当众承认沈皓辰是自己儿子",
+        "onboard_time": 1759928540,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 697497,
+        "num": 229158,
+        "word": "年羹尧的儿子分享生活",
+        "onboard_time": 1759924520,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579086,
+        "num": 228901,
+        "word": "肖战 Gucci包机",
+        "onboard_time": 1759932502,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 501427,
+        "num": 228223,
+        "word": "网红猴哥说车官宣离婚",
+        "onboard_time": 1759925001,
+        "rank": 13,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 355733,
+        "num": 227664,
+        "word": "48岁渔村网红阿霞坠海遇难",
+        "onboard_time": 1759931662,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299947,
+        "num": 227048,
+        "word": "刘诗诗陈伟霆 二搭",
+        "onboard_time": 1759928180,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226862,
+        "num": 226862,
+        "word": "今年冬天将更冷",
+        "onboard_time": 1759913481,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221484,
+        "num": 221484,
+        "word": "王一博在角落被喷香槟",
+        "onboard_time": 1759931782,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 208432,
+        "num": 208432,
+        "word": "肖庆平车祸离世",
+        "onboard_time": 1759905021,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85528,
+        "num": 204804,
+        "word": "疑似马来西亚失联二人照片曝光",
+        "onboard_time": 1759933943,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202262,
+        "num": 202262,
+        "word": "刘萧旭郭宇欣都哭了",
+        "onboard_time": 1759933404,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193674,
+        "num": 193674,
+        "word": "冰咖啡和热咖啡的差别居然这么大",
+        "onboard_time": 1759933521,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166448,
+        "num": 166448,
+        "word": "肖战巴黎",
+        "onboard_time": 1759924402,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158284,
+        "num": 158284,
+        "word": "王嘉尔出席活动被陌生女子捏脸",
+        "onboard_time": 1759930462,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153417,
+        "num": 153417,
+        "word": "马来西亚失联2名游客非情侣",
+        "onboard_time": 1759931302,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142113,
+        "num": 142113,
+        "word": "王一博和对手握手合影",
+        "onboard_time": 1759926021,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 142102,
+        "num": 142102,
+        "word": "盛夏芬德拉见面会",
+        "onboard_time": 1759919720,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141395,
+        "num": 141395,
+        "word": "苏超无锡3比0盐城",
+        "onboard_time": 1759930403,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136769,
+        "num": 136769,
+        "word": "苏超四强",
+        "onboard_time": 1759931960,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106389,
+        "num": 135141,
+        "word": "这些食品发霉立马丢掉",
+        "onboard_time": 1759929501,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134612,
+        "num": 134612,
+        "word": "网友称买10斤芒果礼盒3斤是书",
+        "onboard_time": 1759923142,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131494,
+        "num": 131494,
+        "word": "减肥期一定要降低自己的期待值",
+        "onboard_time": 1759933521,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 131428,
+        "num": 131428,
+        "word": "这居然是兰西雅",
+        "onboard_time": 1759929801,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129269,
+        "num": 129269,
+        "word": "小酒窝和爸爸妈妈关系都很好",
+        "onboard_time": 1759932080,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126484,
+        "num": 126484,
+        "word": "王鹤润用6小时说了521",
+        "onboard_time": 1759931424,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125340,
+        "num": 125340,
+        "word": "卢昱晓新剧台词尺度",
+        "onboard_time": 1759920800,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111786,
+        "num": 111786,
+        "word": "动物园老虎被观光车压到下巴",
+        "onboard_time": 1759927461,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106899,
+        "num": 106899,
+        "word": "国庆假期金饰克价涨近40元",
+        "onboard_time": 1759934061,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101208,
+        "num": 101208,
+        "word": "王者荣耀 补偿我一个荣耀水晶",
+        "onboard_time": 1759916901,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100844,
+        "num": 100844,
+        "word": "展轩说漂亮的女孩要听话",
+        "onboard_time": 1759930103,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100002,
+        "num": 100002,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1759914141,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99937,
+        "num": 99937,
+        "word": "接下来三个月只剩下例假了",
+        "onboard_time": 1759920859,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98689,
+        "num": 98689,
+        "word": "能当黄磊的朋友该多幸福啊",
+        "onboard_time": 1759931902,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98543,
+        "num": 98543,
+        "word": "广西一游客坐滑道遇蛇从腿下穿过",
+        "onboard_time": 1759928540,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92360,
+        "num": 92360,
+        "word": "29岁男子上山失联表姐发声",
+        "onboard_time": 1759934421,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92337,
+        "num": 92337,
+        "word": "日本男爱豆当街暴露下体被捕",
+        "onboard_time": 1759913241,
+        "rank": 45,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 89879,
+        "num": 89879,
+        "word": "宋佳还是太拿得出手了",
+        "onboard_time": 1759934542,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88012,
+        "num": 88012,
+        "word": "入青云热度",
+        "onboard_time": 1759922780,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85925,
+        "num": 85925,
+        "word": "胖东来国庆6天卖了6.81亿",
+        "onboard_time": 1759934662,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85013,
+        "num": 85013,
+        "word": "华为回应多款APP无法完全适配",
+        "onboard_time": 1759926021,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平强调要把古树名木保护好#"
+    }
+  }
+}
