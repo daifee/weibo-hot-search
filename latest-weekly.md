@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/09 01:23:25
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/09 01:41:00
 </p>
 </blockquote>
 <p>
@@ -9387,6 +9387,12 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E6%96%B9%E5%90%91%E7%9A%84%E9%92%9F%23" target="weibo">
+反方向的钟（热度：48984）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8EWTT%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%8D%95%E6%89%93%E5%9B%9B%E5%86%A0%E7%8E%8B%23" target="weibo">
 孙颖莎WTT大满贯单打四冠王（热度：48908）
 </a>
@@ -9551,12 +9557,6 @@ WTT更新北满冠军宣传照（热度：43795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E8%87%B310%E6%9C%888%E6%97%A524%E6%97%B6%23" target="weibo">
 高速免费至10月8日24时（热度：37626）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8D%E6%96%B9%E5%90%91%E7%9A%84%E9%92%9F%23" target="weibo">
-反方向的钟（热度：37564）
 </a>
 </li>
 
@@ -9749,6 +9749,12 @@ Steam（热度：27750）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%BF%99%E4%B8%80%E5%88%BB%E4%BD%A0%E4%B9%9F%E6%88%90%E4%B8%BA%E4%BA%86%E5%A4%A7%E5%93%A5%E5%93%A5%23" target="weibo">
 王楚钦这一刻你也成为了大哥哥（热度：27685）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E5%93%AD%E6%88%8F%23" target="weibo">
+侯明昊哭戏（热度：27181）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1759941149301,
-  "endTime": 1759944205839,
+  "endTime": 1759945260634,
   "band_list": [
     {
       "raw_hot": 496447,
@@ -387,20 +387,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 48984,
+      "num": 63534,
+      "word": "反方向的钟",
+      "onboard_time": 1759943418,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 44565,
       "num": 99851,
       "word": "接下来三个月只剩下例假了",
       "onboard_time": 1759920859,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 37564,
-      "num": 63534,
-      "word": "反方向的钟",
-      "onboard_time": 1759943418,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 32539,
@@ -411,12 +411,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 31964,
+      "num": 50777,
+      "word": "我视奸别人vs别人视奸我",
+      "onboard_time": 1759929202,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 28898,
       "num": 63343,
       "word": "假期戒断反应",
       "onboard_time": 1759944137,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 27181,
+      "num": 50770,
+      "word": "侯明昊哭戏",
+      "onboard_time": 1759944796,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 3680,

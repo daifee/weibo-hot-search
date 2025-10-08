@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759944205839,
+  "endTime": 1759945260634,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -24891,6 +24891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 48984,
+      "num": 63534,
+      "word": "反方向的钟",
+      "onboard_time": 1759943418,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 48908,
       "num": 48908,
       "word": "孙颖莎WTT大满贯单打四冠王",
@@ -25441,14 +25449,6 @@
       "onboard_time": 1759862595,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37564,
-      "num": 63534,
-      "word": "反方向的钟",
-      "onboard_time": 1759943418,
-      "rank": 28,
-      "category": "音乐"
     },
     {
       "raw_hot": 37473,
@@ -26057,6 +26057,14 @@
       "onboard_time": 1759734440,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27181,
+      "num": 50770,
+      "word": "侯明昊哭戏",
+      "onboard_time": 1759944796,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 27149,
