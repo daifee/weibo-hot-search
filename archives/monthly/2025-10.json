@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759916467340,
+  "endTime": 1759919212025,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -923,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 984635,
+      "num": 984635,
+      "word": "吴庄收费站 震撼",
+      "onboard_time": 1759912881,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 980225,
       "num": 1156836,
       "word": "景区回应仙女散的是假花",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1759405042,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 928253,
+      "num": 928253,
+      "word": "今年冬天将更冷",
+      "onboard_time": 1759913481,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 925854,
@@ -2259,12 +2275,12 @@
       "category": "辟谣/通报,汽车"
     },
     {
-      "raw_hot": 574839,
-      "num": 574839,
-      "word": "吴庄收费站 震撼",
-      "onboard_time": 1759912881,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 573475,
+      "num": 573475,
+      "word": "8天很短 7天很长",
+      "onboard_time": 1759915401,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 572264,
@@ -3051,12 +3067,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 479705,
+      "num": 479705,
+      "word": "2025诺贝尔化学奖揭晓",
+      "onboard_time": 1759917802,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 479548,
       "num": 479548,
       "word": "普京称某国准备进行核试验",
       "onboard_time": 1759491442,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 478999,
+      "num": 478999,
+      "word": "王者荣耀 补偿我一个荣耀水晶",
+      "onboard_time": 1759916901,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 477899,
@@ -4907,14 +4939,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 317481,
-      "num": 317481,
-      "word": "今年冬天将更冷",
-      "onboard_time": 1759913481,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 317417,
       "num": 317417,
       "word": "特朗普当加总理面提吞并加拿大",
@@ -5489,6 +5513,14 @@
       "onboard_time": 1759414462,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 284276,
+      "num": 284276,
+      "word": "王者荣耀回复",
+      "onboard_time": 1759915819,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 284161,
@@ -7819,14 +7851,6 @@
       "category": "演出,民生新闻"
     },
     {
-      "raw_hot": 199090,
-      "num": 199090,
-      "word": "王者荣耀回复",
-      "onboard_time": 1759915819,
-      "rank": 23,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 198942,
       "num": 198942,
       "word": "去年的鸡排哥",
@@ -8427,6 +8451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189666,
+      "num": 189666,
+      "word": "诺贝尔化学奖",
+      "onboard_time": 1759917980,
+      "rank": 19,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 189500,
       "num": 156690,
       "word": "麻辣鸡和CardiB线下约架",
@@ -8585,6 +8617,14 @@
       "onboard_time": 1759586781,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185612,
+      "num": 185612,
+      "word": "谢霆锋你最好给我一个解释",
+      "onboard_time": 1759918940,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 185555,
@@ -9107,6 +9147,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178521,
+      "num": 178521,
+      "word": "比伯成大叔了",
+      "onboard_time": 1759914980,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 178471,
+      "num": 178471,
+      "word": "主人回应狗狗下地掰玉米掰了三年了",
+      "onboard_time": 1759916481,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178188,
       "num": 178188,
       "word": "柬警方解救一被绑架的19岁中国人",
@@ -9353,14 +9409,6 @@
       "onboard_time": 1759679360,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 174651,
-      "num": 174651,
-      "word": "比伯成大叔了",
-      "onboard_time": 1759914980,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 174403,
@@ -9673,6 +9721,14 @@
       "onboard_time": 1759667483,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169562,
+      "num": 169562,
+      "word": "50岁国模公开保养护肤秘籍",
+      "onboard_time": 1759917201,
+      "rank": 26,
+      "category": "美妆"
     },
     {
       "raw_hot": 169365,
@@ -11195,6 +11251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148948,
+      "num": 148948,
+      "word": "当街露下体被捕男爱豆道歉",
+      "onboard_time": 1759917681,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148916,
       "num": 145605,
       "word": "李沁鸡腿姑娘爆改鸭梨夫人",
@@ -11368,6 +11432,14 @@
       "word": "高铁 充电口使用权争议",
       "onboard_time": 1759658903,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 147035,
+      "num": 147035,
+      "word": "女子久坐16小时火车旅游心脏骤停",
+      "onboard_time": 1759916841,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -13259,6 +13331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130297,
+      "num": 130297,
+      "word": "丹麦拟禁止15岁以下人群使用社媒",
+      "onboard_time": 1759918401,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 130156,
       "num": 130156,
       "word": "奶皮子拿铁",
@@ -14163,6 +14243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122455,
+      "num": 122455,
+      "word": "第一次见明星发微博复盘工作",
+      "onboard_time": 1759916481,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122419,
       "num": 122419,
       "word": "想买上衣就去搜裤子",
@@ -14353,6 +14441,14 @@
       "onboard_time": 1759584260,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120987,
+      "num": 120987,
+      "word": "张凌赫向往的生活录制上班",
+      "onboard_time": 1759917082,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 120775,
@@ -14833,6 +14929,14 @@
       "onboard_time": 1759382421,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117444,
+      "num": 117444,
+      "word": "陈哲远妈妈包场",
+      "onboard_time": 1759918820,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 117436,
@@ -15699,6 +15803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112024,
+      "num": 112024,
+      "word": "3名科学家获2025诺贝尔化学奖",
+      "onboard_time": 1759918461,
+      "rank": 40,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 112002,
       "num": 112002,
       "word": "古法健身一个月后",
@@ -15795,6 +15907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111647,
+      "num": 111647,
+      "word": "闲置太久的皮衣就不要再穿了",
+      "onboard_time": 1759917260,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111632,
       "num": 111632,
       "word": "蒋勤勤于适合唱月光舞台",
@@ -15857,6 +15977,14 @@
       "onboard_time": 1759473680,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111400,
+      "num": 111400,
+      "word": "张柏芝录一路繁花怕说错话尽量安静",
+      "onboard_time": 1759916721,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 111390,
@@ -16803,6 +16931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107013,
+      "num": 107013,
+      "word": "只有健身的人才懂她有多厉害",
+      "onboard_time": 1759915941,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 107003,
       "num": 107003,
       "word": "戚薇贴创可贴看秀",
@@ -17137,14 +17273,6 @@
       "onboard_time": 1759557621,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105628,
-      "num": 105628,
-      "word": "只有健身的人才懂她有多厉害",
-      "onboard_time": 1759915941,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 105574,
@@ -19011,14 +19139,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 96014,
-      "num": 96014,
-      "word": "8天很短 7天很长",
-      "onboard_time": 1759915401,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95960,
       "num": 95960,
       "word": "大学生对钱没概念有多可怕",
@@ -19257,6 +19377,14 @@
       "onboard_time": 1759476979,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94739,
+      "num": 178495,
+      "word": "Angelababy杂志",
+      "onboard_time": 1759912642,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 94619,
@@ -20177,6 +20305,14 @@
       "onboard_time": 1759726221,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89502,
+      "num": 104524,
+      "word": "赖清德称台积电协助美国再度伟大",
+      "onboard_time": 1759917621,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 89447,
@@ -22939,14 +23075,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 64771,
-      "num": 109722,
-      "word": "Angelababy杂志",
-      "onboard_time": 1759912642,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 64566,
       "num": 915825,
       "word": "县域旅游已成为一种时尚",
@@ -25083,6 +25211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25200,
+      "num": 105266,
+      "word": "被假期返程车流震撼到了",
+      "onboard_time": 1759917740,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25185,
       "num": 181228,
       "word": "张馨予下雨天收到女孩留的伞",
@@ -25697,6 +25833,14 @@
       "onboard_time": 1759476740,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7400,
+      "num": 117847,
+      "word": "梁靖崑的另一面",
+      "onboard_time": 1759918820,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 6759,

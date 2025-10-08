@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 17:41:07
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/08 18:26:52
 </p>
 </blockquote>
 <p>
@@ -705,6 +705,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BA%84%E6%94%B6%E8%B4%B9%E7%AB%99%20%E9%9C%87%E6%92%BC%23" target="weibo">
+吴庄收费站 震撼（热度：984635）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E4%BB%99%E5%A5%B3%E6%95%A3%E7%9A%84%E6%98%AF%E5%81%87%E8%8A%B1%23" target="weibo">
 景区回应仙女散的是假花（热度：980225）
 </a>
@@ -767,6 +773,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC16%23" target="weibo">
 许我耀眼16（热度：929148）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%86%AC%E5%A4%A9%E5%B0%86%E6%9B%B4%E5%86%B7%23" target="weibo">
+今年冬天将更冷（热度：928253）
 </a>
 </li>
 
@@ -1707,8 +1719,8 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BA%84%E6%94%B6%E8%B4%B9%E7%AB%99%20%E9%9C%87%E6%92%BC%23" target="weibo">
-吴庄收费站 震撼（热度：574839）
+<a href="https://s.weibo.com/weibo?q=%238%E5%A4%A9%E5%BE%88%E7%9F%AD%207%E5%A4%A9%E5%BE%88%E9%95%BF%23" target="weibo">
+8天很短 7天很长（热度：573475）
 </a>
 </li>
 
@@ -2301,8 +2313,20 @@ VaVa说自己分手是因为浪姐（热度：480031）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232025%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93%23" target="weibo">
+2025诺贝尔化学奖揭晓（热度：479705）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E6%9F%90%E5%9B%BD%E5%87%86%E5%A4%87%E8%BF%9B%E8%A1%8C%E6%A0%B8%E8%AF%95%E9%AA%8C%23" target="weibo">
 普京称某国准备进行核试验（热度：479548）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%20%E8%A1%A5%E5%81%BF%E6%88%91%E4%B8%80%E4%B8%AA%E8%8D%A3%E8%80%80%E6%B0%B4%E6%99%B6%23" target="weibo">
+王者荣耀 补偿我一个荣耀水晶（热度：478999）
 </a>
 </li>
 
@@ -3693,12 +3717,6 @@ MiuMiu巴黎时装周（热度：318258）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%86%AC%E5%A4%A9%E5%B0%86%E6%9B%B4%E5%86%B7%23" target="weibo">
-今年冬天将更冷（热度：317481）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E5%8A%A0%E6%80%BB%E7%90%86%E9%9D%A2%E6%8F%90%E5%90%9E%E5%B9%B6%E5%8A%A0%E6%8B%BF%E5%A4%A7%23" target="weibo">
 特朗普当加总理面提吞并加拿大（热度：317417）
 </a>
@@ -4127,6 +4145,12 @@ JDG对战DK（热度：286717）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%AD%8F%E6%B4%B2%E8%A2%ABcpf%E8%B4%B4%E8%84%B8%23" target="weibo">
 许魏洲被cpf贴脸（热度：284700）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%9B%9E%E5%A4%8D%23" target="weibo">
+王者荣耀回复（热度：284276）
 </a>
 </li>
 
@@ -5877,12 +5901,6 @@ AG战胜RW（热度：199437）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%9B%9E%E5%A4%8D%23" target="weibo">
-王者荣耀回复（热度：199090）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%BB%E5%B9%B4%E7%9A%84%E9%B8%A1%E6%8E%92%E5%93%A5%23" target="weibo">
 去年的鸡排哥（热度：198942）
 </a>
@@ -5993,24 +6011,6 @@ AG战胜RW（热度：199437）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%81%E6%AD%A2%E6%8C%BA%E8%83%B8%E5%A4%B9%E8%83%8C%23" target="weibo">
 禁止挺胸夹背（热度：196263）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%B4%E5%90%91%E5%AE%87%E9%99%88%E7%B4%AB%E5%87%BD%E6%97%85%E8%A1%8C%E9%81%87%E6%B5%B7%E5%95%B8%E4%B8%8D%E8%BA%B2%E5%8F%8D%E8%BF%BD%23" target="weibo">
-戴向宇陈紫函旅行遇海啸不躲反追（热度：196228）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E7%89%88%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%23" target="weibo">
-时代少年团版再见爱人（热度：196224）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E8%8A%82%E5%BF%AB%E4%B9%90%23" target="weibo">
-中秋节快乐（热度：196185）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1759919212025,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1074057,
+        "num": 1171849,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1759914141,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 984635,
+        "num": 984635,
+        "word": "吴庄收费站 震撼",
+        "onboard_time": 1759912881,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56892,
+        "num": 955630,
+        "word": "国庆假期超24亿人次跨区域流动",
+        "onboard_time": 1759900101,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 928253,
+        "num": 928253,
+        "word": "今年冬天将更冷",
+        "onboard_time": 1759913481,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 670212,
+        "num": 670212,
+        "word": "高速堵成啥样了",
+        "onboard_time": 1759907120,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1939903,
+        "num": 641850,
+        "word": "鸡排哥成立工作室",
+        "onboard_time": 1759913961,
+        "rank": 5,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 573475,
+        "num": 573475,
+        "word": "8天很短 7天很长",
+        "onboard_time": 1759915401,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 479705,
+        "num": 479705,
+        "word": "2025诺贝尔化学奖揭晓",
+        "onboard_time": 1759917802,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 478999,
+        "num": 478999,
+        "word": "王者荣耀 补偿我一个荣耀水晶",
+        "onboard_time": 1759916901,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 379159,
+        "num": 379159,
+        "word": "JDG输越南队",
+        "onboard_time": 1759913121,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 735597,
+        "num": 345520,
+        "word": "肖庆平车祸离世",
+        "onboard_time": 1759905021,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451405,
+        "num": 324104,
+        "word": "日本男爱豆当街暴露下体被捕",
+        "onboard_time": 1759913241,
+        "rank": 11,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 302430,
+        "num": 302430,
+        "word": "李一桐美人余造型疑似抄袭许我耀眼",
+        "onboard_time": 1759902681,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289314,
+        "num": 289314,
+        "word": "女子结婚8年才发现喜被里有红枣",
+        "onboard_time": 1759910900,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284276,
+        "num": 284276,
+        "word": "王者荣耀回复",
+        "onboard_time": 1759915819,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227621,
+        "num": 227621,
+        "word": "刘宇宁不拍杂志的原因",
+        "onboard_time": 1759910300,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209409,
+        "num": 209409,
+        "word": "井胧给李莎旻子清衣柜把狗埋了",
+        "onboard_time": 1759913901,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199689,
+        "num": 199689,
+        "word": "杨幂终于慢下来了",
+        "onboard_time": 1759914922,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197043,
+        "num": 197043,
+        "word": "王者荣耀",
+        "onboard_time": 1759904960,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189666,
+        "num": 189666,
+        "word": "诺贝尔化学奖",
+        "onboard_time": 1759917980,
+        "rank": 19,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 187232,
+        "num": 187232,
+        "word": "统一必胜台独必亡",
+        "onboard_time": 1759910181,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185612,
+        "num": 185612,
+        "word": "谢霆锋你最好给我一个解释",
+        "onboard_time": 1759918940,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179254,
+        "num": 179254,
+        "word": "不午睡vs午睡太久",
+        "onboard_time": 1759909701,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 178521,
+        "num": 178521,
+        "word": "比伯成大叔了",
+        "onboard_time": 1759914980,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94739,
+        "num": 178495,
+        "word": "Angelababy杂志",
+        "onboard_time": 1759912642,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178471,
+        "num": 178471,
+        "word": "主人回应狗狗下地掰玉米掰了三年了",
+        "onboard_time": 1759916481,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169562,
+        "num": 169562,
+        "word": "50岁国模公开保养护肤秘籍",
+        "onboard_time": 1759917201,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 148948,
+        "num": 148948,
+        "word": "当街露下体被捕男爱豆道歉",
+        "onboard_time": 1759917681,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147969,
+        "num": 147969,
+        "word": "孟子义拍戏摔了",
+        "onboard_time": 1759894521,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147035,
+        "num": 147035,
+        "word": "女子久坐16小时火车旅游心脏骤停",
+        "onboard_time": 1759916841,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143835,
+        "num": 143835,
+        "word": "尹锡悦夫妇中秋节牢饭曝光",
+        "onboard_time": 1759902079,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142460,
+        "num": 142460,
+        "word": "绥中重大刑案行凶男子穿拖鞋逃跑",
+        "onboard_time": 1759915220,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130297,
+        "num": 130297,
+        "word": "丹麦拟禁止15岁以下人群使用社媒",
+        "onboard_time": 1759918401,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130095,
+        "num": 130095,
+        "word": "高速连续5个服务区进不了站",
+        "onboard_time": 1759907780,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122455,
+        "num": 122455,
+        "word": "第一次见明星发微博复盘工作",
+        "onboard_time": 1759916481,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120987,
+        "num": 120987,
+        "word": "张凌赫向往的生活录制上班",
+        "onboard_time": 1759917082,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119048,
+        "num": 119048,
+        "word": "鸡排哥有专属空调了",
+        "onboard_time": 1759910361,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118471,
+        "num": 118471,
+        "word": "火树才是来集邮的吧",
+        "onboard_time": 1759916001,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 7400,
+        "num": 117847,
+        "word": "梁靖崑的另一面",
+        "onboard_time": 1759918820,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117444,
+        "num": 117444,
+        "word": "陈哲远妈妈包场",
+        "onboard_time": 1759918820,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112024,
+        "num": 112024,
+        "word": "3名科学家获2025诺贝尔化学奖",
+        "onboard_time": 1759918461,
+        "rank": 40,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 111647,
+        "num": 111647,
+        "word": "闲置太久的皮衣就不要再穿了",
+        "onboard_time": 1759917260,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111400,
+        "num": 111400,
+        "word": "张柏芝录一路繁花怕说错话尽量安静",
+        "onboard_time": 1759916721,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107336,
+        "num": 107336,
+        "word": "范丞丞的指甲",
+        "onboard_time": 1759909582,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107013,
+        "num": 107013,
+        "word": "只有健身的人才懂她有多厉害",
+        "onboard_time": 1759915941,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25200,
+        "num": 105266,
+        "word": "被假期返程车流震撼到了",
+        "onboard_time": 1759917740,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89502,
+        "num": 104524,
+        "word": "赖清德称台积电协助美国再度伟大",
+        "onboard_time": 1759917621,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104474,
+        "num": 104474,
+        "word": "GAM零封JDG",
+        "onboard_time": 1759913961,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100250,
+        "num": 100250,
+        "word": "王一博轮胎冒烟",
+        "onboard_time": 1759905320,
+        "rank": 48,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 99065,
+        "num": 99065,
+        "word": "才意识到饥饿感对五官的影响有多大",
+        "onboard_time": 1759909819,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记打卡古城老街#"
+    }
+  }
+}
