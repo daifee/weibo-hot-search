@@ -1,11 +1,19 @@
 {
   "startTime": 1759941149301,
-  "endTime": 1759992666578,
+  "endTime": 1759994687119,
   "band_list": [
     {
       "raw_hot": 9127369,
       "num": 9127369,
       "word": "公司错发1.65亿工资员工被判不退款",
+      "onboard_time": 1759988781,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 4194658,
+      "num": 4194658,
+      "word": "智利公司错发123万工资员工被判不退款",
       "onboard_time": 1759988781,
       "rank": 0,
       "category": "海外新闻"
@@ -179,12 +187,20 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 436073,
+      "raw_hot": 443182,
       "num": 232039,
       "word": "许妍沈皓明亲热被婆婆撞见",
       "onboard_time": 1759989679,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 438676,
+      "num": 223433,
+      "word": "石原里美二胎产后状态",
+      "onboard_time": 1759992502,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 430022,
@@ -200,6 +216,14 @@
       "word": "北京冷冷冷冷冷",
       "onboard_time": 1759981580,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 424718,
+      "num": 424718,
+      "word": "亲生儿子多次将母亲遗弃荒野",
+      "onboard_time": 1759992502,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -387,12 +411,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 243449,
+      "num": 243449,
+      "word": "鸡排哥答应我别开美颜了好吗",
+      "onboard_time": 1759992982,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 239581,
       "num": 140982,
       "word": "肖战 Gucci包机",
       "onboard_time": 1759932502,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 235410,
+      "num": 221025,
+      "word": "李沁造型师",
+      "onboard_time": 1759994121,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 231984,
@@ -417,6 +457,14 @@
       "onboard_time": 1759936282,
       "rank": 14,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 227492,
+      "num": 220618,
+      "word": "offer7播一半淘汰了三个人",
+      "onboard_time": 1759990881,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 226891,
@@ -457,14 +505,6 @@
       "onboard_time": 1759986681,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217749,
-      "num": 217749,
-      "word": "offer7播一半淘汰了三个人",
-      "onboard_time": 1759990881,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 209765,
@@ -515,20 +555,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192181,
+      "num": 192181,
+      "word": "8天国内出游8.88亿人次",
+      "onboard_time": 1759984822,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 189992,
       "num": 189992,
       "word": "节后第1天多地雨雨雨雨雨",
       "onboard_time": 1759973001,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186623,
-      "num": 186623,
-      "word": "石原里美二胎产后状态",
-      "onboard_time": 1759992502,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 185998,
@@ -667,6 +707,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165224,
+      "num": 147198,
+      "word": "人的情绪是需要一个家的",
+      "onboard_time": 1759993941,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 164848,
+      "num": 164848,
+      "word": "姐姐骗弟弟学校提前一天开学",
+      "onboard_time": 1759992381,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163307,
       "num": 163307,
       "word": "戒咖啡三个月后我身体发生的变化",
@@ -689,6 +745,14 @@
       "onboard_time": 1759990940,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159113,
+      "num": 159113,
+      "word": "吃辣 呼吸性碱中毒",
+      "onboard_time": 1759990520,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 157369,
@@ -739,14 +803,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 152951,
-      "num": 152951,
-      "word": "8天国内出游8.88亿人次",
-      "onboard_time": 1759984822,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 152652,
       "num": 152652,
       "word": "48岁渔村网红阿霞坠海遇难",
@@ -779,20 +835,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145495,
-      "num": 145495,
-      "word": "吃辣 呼吸性碱中毒",
-      "onboard_time": 1759990520,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 145173,
       "num": 145173,
       "word": "加沙居民街头庆祝停火协议达成",
       "onboard_time": 1759982121,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 144739,
+      "num": 144739,
+      "word": "白百何剪了狗啃刘海",
+      "onboard_time": 1759990280,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 143733,
@@ -817,6 +873,14 @@
       "onboard_time": 1759984460,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 137929,
+      "num": 137929,
+      "word": "地球支撑文明9大边界已过界7个",
+      "onboard_time": 1759994661,
+      "rank": 32,
+      "category": "科学科普"
     },
     {
       "raw_hot": 136731,
@@ -963,14 +1027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125743,
-      "num": 125743,
-      "word": "白百何剪了狗啃刘海",
-      "onboard_time": 1759990280,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125362,
       "num": 125362,
       "word": "翁虹给女儿办中式成人礼",
@@ -1059,6 +1115,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117631,
+      "num": 117631,
+      "word": "一笑随歌追剧团",
+      "onboard_time": 1759994661,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 117295,
+      "num": 117295,
+      "word": "嘉人",
+      "onboard_time": 1759994361,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 116193,
       "num": 116193,
       "word": "全球围观中国放假",
@@ -1115,6 +1187,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 110313,
+      "num": 110313,
+      "word": "苏新皓说恢复的差不多了",
+      "onboard_time": 1759994481,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 110262,
+      "num": 110262,
+      "word": "中国科学家造出现实版诺亚方舟",
+      "onboard_time": 1759992922,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109925,
       "num": 109925,
       "word": "20点计划第一阶段协议已签署",
@@ -1161,6 +1249,14 @@
       "onboard_time": 1759991181,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106368,
+      "num": 106368,
+      "word": "李晟 老鼠掉进米缸了",
+      "onboard_time": 1759993461,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 105297,
@@ -1281,14 +1377,6 @@
       "onboard_time": 1759933521,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 92042,
-      "num": 92042,
-      "word": "姐姐骗弟弟学校提前一天开学",
-      "onboard_time": 1759992381,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 91980,
@@ -1547,14 +1635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65626,
-      "num": 115253,
-      "word": "亲生儿子多次将母亲遗弃荒野",
-      "onboard_time": 1759992502,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65523,
       "num": 65523,
       "word": "返工",
@@ -1755,6 +1835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 51045,
+      "num": 113743,
+      "word": "女子骗钱后怕暴露在朋友圈发布死讯",
+      "onboard_time": 1759994661,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50578,
       "num": 50578,
       "word": "王者timi和游戏胜利画面更新",
@@ -1819,20 +1907,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37206,
+      "num": 232374,
+      "word": "樊振东法国康如溯源",
+      "onboard_time": 1759990040,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35766,
       "num": 166376,
       "word": "张艺兴演唱会直播",
       "onboard_time": 1759948275,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 35689,
-      "num": 232374,
-      "word": "樊振东法国康如溯源",
-      "onboard_time": 1759990040,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 34735,

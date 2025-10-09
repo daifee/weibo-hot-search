@@ -1,0 +1,410 @@
+{
+  "runTime": 1759994687119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4194658,
+        "num": 4194658,
+        "word": "智利公司错发123万工资员工被判不退款",
+        "onboard_time": 1759988781,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 424718,
+        "num": 424718,
+        "word": "亲生儿子多次将母亲遗弃荒野",
+        "onboard_time": 1759992502,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29452,
+        "num": 384616,
+        "word": "国庆假期值得珍藏的记忆画面",
+        "onboard_time": 1759972819,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 358969,
+        "num": 358969,
+        "word": "四川新龙5.4级地震",
+        "onboard_time": 1759987881,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 311950,
+        "num": 311950,
+        "word": "重庆女子打表去内蒙古计价器爆了",
+        "onboard_time": 1759981821,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307065,
+        "num": 307065,
+        "word": "本周上三休一",
+        "onboard_time": 1759982180,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243449,
+        "num": 243449,
+        "word": "鸡排哥答应我别开美颜了好吗",
+        "onboard_time": 1759992982,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226931,
+        "num": 226931,
+        "word": "男子故意泄密致我国货船在公海被拦",
+        "onboard_time": 1759966759,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224939,
+        "num": 224939,
+        "word": "北京冷冷冷冷冷",
+        "onboard_time": 1759981580,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140065,
+        "num": 224382,
+        "word": "2025国庆档票房18.35亿",
+        "onboard_time": 1759978819,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 443182,
+        "num": 224323,
+        "word": "许妍沈皓明亲热被婆婆撞见",
+        "onboard_time": 1759989679,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 438676,
+        "num": 223433,
+        "word": "石原里美二胎产后状态",
+        "onboard_time": 1759992502,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411205,
+        "num": 223118,
+        "word": "李诞 王安宇怎么这么帅",
+        "onboard_time": 1759988421,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347897,
+        "num": 222439,
+        "word": "抑郁症多半心脏有问题",
+        "onboard_time": 1759984341,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 284140,
+        "num": 221593,
+        "word": "胡先煦 我有一儿一女两只猫",
+        "onboard_time": 1759981701,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235410,
+        "num": 221025,
+        "word": "李沁造型师",
+        "onboard_time": 1759994121,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227492,
+        "num": 220618,
+        "word": "offer7播一半淘汰了三个人",
+        "onboard_time": 1759990881,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220408,
+        "num": 220408,
+        "word": "狐妖王权篇改名了",
+        "onboard_time": 1759984281,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196739,
+        "num": 196739,
+        "word": "大疆",
+        "onboard_time": 1759974618,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192181,
+        "num": 192181,
+        "word": "8天国内出游8.88亿人次",
+        "onboard_time": 1759984822,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220973,
+        "num": 189979,
+        "word": "肝不好的人起床或有5种表现",
+        "onboard_time": 1759986800,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 184477,
+        "num": 184477,
+        "word": "许我耀眼复合",
+        "onboard_time": 1759985422,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164848,
+        "num": 164848,
+        "word": "姐姐骗弟弟学校提前一天开学",
+        "onboard_time": 1759992381,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159113,
+        "num": 159113,
+        "word": "吃辣 呼吸性碱中毒",
+        "onboard_time": 1759990520,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37206,
+        "num": 158905,
+        "word": "樊振东法国康如溯源",
+        "onboard_time": 1759990040,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158697,
+        "num": 158697,
+        "word": "向太 年轻人没有资格躺平",
+        "onboard_time": 1759991600,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154760,
+        "num": 154760,
+        "word": "18斤小猫饿到大哭",
+        "onboard_time": 1759990221,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153577,
+        "num": 153577,
+        "word": "印度大阅兵士兵表演旋转步枪",
+        "onboard_time": 1759985781,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148812,
+        "num": 148812,
+        "word": "卢昱晓哭戏靠掐大腿",
+        "onboard_time": 1759988120,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147227,
+        "num": 147227,
+        "word": "阿凡达3内地定档",
+        "onboard_time": 1759991420,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165224,
+        "num": 147198,
+        "word": "人的情绪是需要一个家的",
+        "onboard_time": 1759993941,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144739,
+        "num": 144739,
+        "word": "白百何剪了狗啃刘海",
+        "onboard_time": 1759990280,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137929,
+        "num": 137929,
+        "word": "地球支撑文明9大边界已过界7个",
+        "onboard_time": 1759994661,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 131739,
+        "num": 131739,
+        "word": "李海海否认恋情",
+        "onboard_time": 1759990940,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128783,
+        "num": 128783,
+        "word": "女子将奶茶倒在他人头上后逃跑",
+        "onboard_time": 1759983981,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126655,
+        "num": 126655,
+        "word": "戒咖啡三个月后我身体发生的变化",
+        "onboard_time": 1759986859,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123378,
+        "num": 123378,
+        "word": "高速免费结束前收费站人员高喊快点",
+        "onboard_time": 1759974559,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117631,
+        "num": 117631,
+        "word": "一笑随歌追剧团",
+        "onboard_time": 1759994661,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117295,
+        "num": 117295,
+        "word": "嘉人",
+        "onboard_time": 1759994361,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 116467,
+        "num": 116467,
+        "word": "假期国内出游总花费8090.06亿元",
+        "onboard_time": 1759984460,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51045,
+        "num": 113743,
+        "word": "女子骗钱后怕暴露在朋友圈发布死讯",
+        "onboard_time": 1759994661,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24345,
+        "num": 112608,
+        "word": "建议中国味申遗",
+        "onboard_time": 1759990280,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112598,
+        "num": 112598,
+        "word": "李沁小考服装下是睡裤",
+        "onboard_time": 1759992022,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112510,
+        "num": 112510,
+        "word": "翁虹给女儿办中式成人礼",
+        "onboard_time": 1759988781,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112322,
+        "num": 112322,
+        "word": "51岁的林志玲",
+        "onboard_time": 1759988359,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110313,
+        "num": 110313,
+        "word": "苏新皓说恢复的差不多了",
+        "onboard_time": 1759994481,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108905,
+        "num": 110263,
+        "word": "男子23点59卡点下高速省1300元",
+        "onboard_time": 1759990643,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110262,
+        "num": 110262,
+        "word": "中国科学家造出现实版诺亚方舟",
+        "onboard_time": 1759992922,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107558,
+        "num": 107558,
+        "word": "对稀土相关技术实施出口管制的决定",
+        "onboard_time": 1759974980,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106368,
+        "num": 106368,
+        "word": "李晟 老鼠掉进米缸了",
+        "onboard_time": 1759993461,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
