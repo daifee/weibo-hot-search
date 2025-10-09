@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760030610053,
+  "endTime": 1760031676484,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -28651,6 +28651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37272,
+      "num": 54721,
+      "word": "十个勤天万里长歌",
+      "onboard_time": 1760030596,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 37206,
       "num": 232374,
       "word": "樊振东法国康如溯源",
@@ -28779,14 +28787,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 35749,
-      "num": 42803,
-      "word": "十个勤天万里长歌",
-      "onboard_time": 1760030596,
-      "rank": 34,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 35699,
       "num": 158519,
       "word": "小伙嫌教练推销太烦花钱买课",
@@ -28825,6 +28825,14 @@
       "onboard_time": 1759392440,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 35217,
+      "num": 54717,
+      "word": "陈哲远回应吻戏嘴巴干",
+      "onboard_time": 1760030297,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 35064,
@@ -28913,14 +28921,6 @@
       "onboard_time": 1759388661,
       "rank": 18,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 33588,
-      "num": 42796,
-      "word": "陈哲远回应吻戏嘴巴干",
-      "onboard_time": 1760030297,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 33425,
@@ -29145,6 +29145,14 @@
       "onboard_time": 1759479320,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30738,
+      "num": 54707,
+      "word": "石原里美3年生2娃",
+      "onboard_time": 1760031376,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 30589,
@@ -29443,6 +29451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 26269,
+      "num": 54700,
+      "word": "许我耀眼36.6%",
+      "onboard_time": 1760031436,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26046,
       "num": 33785,
       "word": "刘宇直播带粉丝云逛巴黎",
@@ -29515,6 +29531,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 25178,
+      "num": 54699,
+      "word": "王一博以声为炬以曲为帆",
+      "onboard_time": 1760030417,
+      "rank": 41,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 25147,
       "num": 201973,
       "word": "十一假期天气图鉴",
@@ -29553,6 +29577,14 @@
       "onboard_time": 1759259115,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24223,
+      "num": 54696,
+      "word": "展轩晒文旅推荐官聘书",
+      "onboard_time": 1760031556,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 24190,

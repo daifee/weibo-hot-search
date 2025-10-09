@@ -1,6 +1,6 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760030610053,
+  "endTime": 1760031676484,
   "band_list": [
     {
       "raw_hot": 751291,
@@ -395,12 +395,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 35749,
-      "num": 42803,
+      "raw_hot": 37272,
+      "num": 54721,
       "word": "十个勤天万里长歌",
       "onboard_time": 1760030596,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 35217,
+      "num": 54717,
+      "word": "陈哲远回应吻戏嘴巴干",
+      "onboard_time": 1760030297,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 34231,
@@ -409,14 +417,6 @@
       "onboard_time": 1760027839,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33588,
-      "num": 42796,
-      "word": "陈哲远回应吻戏嘴巴干",
-      "onboard_time": 1760030297,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 32522,
@@ -435,12 +435,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30738,
+      "num": 54707,
+      "word": "石原里美3年生2娃",
+      "onboard_time": 1760031376,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28282,
-      "num": 42775,
+      "num": 54691,
       "word": "一人食被歧视韩国网友怒了",
       "onboard_time": 1760004801,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 26269,
+      "num": 54700,
+      "word": "许我耀眼36.6%",
+      "onboard_time": 1760031436,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25178,
+      "num": 54699,
+      "word": "王一博以声为炬以曲为帆",
+      "onboard_time": 1760030417,
+      "rank": 41,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 24223,
+      "num": 54696,
+      "word": "展轩晒文旅推荐官聘书",
+      "onboard_time": 1760031556,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 8583,
