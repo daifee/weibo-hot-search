@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1760037699290,
+  "endTime": 1760038614408,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -16659,8 +16659,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15313,
-      "num": 16362,
+      "raw_hot": 15481,
+      "num": 21036,
       "word": "店家得打电话逐字确认好几遍",
       "onboard_time": 1760035993,
       "rank": 30,
@@ -16771,6 +16771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 12098,
+      "num": 21017,
+      "word": "外交部回应美机构抹黑中国",
+      "onboard_time": 1760037134,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11697,
       "num": 98712,
       "word": "孙俪没涂防晒脸晒到过敏",
@@ -16803,20 +16811,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11215,
-      "num": 16323,
-      "word": "外交部回应美机构抹黑中国",
-      "onboard_time": 1760037134,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 11209,
       "num": 125218,
       "word": "苏超首次引入VAR判罚点球",
       "onboard_time": 1759635441,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11163,
+      "num": 21007,
+      "word": "刘宇宁么麻达",
+      "onboard_time": 1760038215,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 11132,
@@ -16828,15 +16836,23 @@
     },
     {
       "raw_hot": 11123,
-      "num": 16316,
+      "num": 20998,
       "word": "入青云 黄粱梦",
       "onboard_time": 1760036173,
       "rank": 46,
       "category": "剧集"
     },
     {
+      "raw_hot": 11117,
+      "num": 21005,
+      "word": "洛杉矶最严重火灾纵火嫌疑人被捕",
+      "onboard_time": 1760037793,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 10867,
-      "num": 16310,
+      "num": 20996,
       "word": "外交部回应美国抹黑中美教育交流",
       "onboard_time": 1760037313,
       "rank": 48,
