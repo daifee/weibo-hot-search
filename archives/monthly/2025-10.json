@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759998816040,
+  "endTime": 1759999602395,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1971,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 680451,
+      "num": 211724,
+      "word": "汪涵老婆患阑尾炎独自住院",
+      "onboard_time": 1759997120,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 679763,
       "num": 245521,
       "word": "迪丽热巴ins",
@@ -2795,6 +2803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 541523,
+      "num": 541523,
+      "word": "女子被判刑后4年3次卡点怀孕",
+      "onboard_time": 1759996221,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 540779,
       "num": 438040,
       "word": "张婧仪小时候睡过觉吗",
@@ -2819,20 +2835,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 538932,
+      "num": 538932,
+      "word": "27岁女生月租1500元住进养老院",
+      "onboard_time": 1759995800,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 538426,
       "num": 538426,
       "word": "台风红色预警发布",
       "onboard_time": 1759575802,
       "rank": 23,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 538223,
-      "num": 538223,
-      "word": "女子被判刑后4年3次卡点怀孕",
-      "onboard_time": 1759996221,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 538085,
@@ -3137,6 +3153,14 @@
       "onboard_time": 1759884679,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 502626,
+      "num": 502626,
+      "word": "晚8秒下高速被收500元男子发声",
+      "onboard_time": 1759998441,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 502358,
@@ -3571,14 +3595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 458291,
-      "num": 211724,
-      "word": "汪涵老婆患阑尾炎独自住院",
-      "onboard_time": 1759997120,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 458011,
       "num": 263455,
       "word": "UNINE合体",
@@ -3848,14 +3864,6 @@
       "word": "48岁渔村网红阿霞坠海遇难",
       "onboard_time": 1759931662,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 436415,
-      "num": 436415,
-      "word": "27岁女生月租1500元住进养老院",
-      "onboard_time": 1759995800,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -4201,6 +4209,22 @@
       "onboard_time": 1759748663,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 402469,
+      "num": 402469,
+      "word": "女娲新皮肤",
+      "onboard_time": 1759996581,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 401049,
+      "num": 207759,
+      "word": "沙溢国庆吃胖了十斤",
+      "onboard_time": 1759998321,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 401042,
@@ -5193,14 +5217,6 @@
       "onboard_time": 1759666283,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330935,
-      "num": 330935,
-      "word": "女娲新皮肤",
-      "onboard_time": 1759996581,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 330738,
@@ -7899,14 +7915,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 215069,
-      "num": 207759,
-      "word": "沙溢国庆吃胖了十斤",
-      "onboard_time": 1759998321,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214855,
       "num": 214855,
       "word": "王楚钦孙颖莎藏不住的喜悦",
@@ -9187,6 +9195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191404,
+      "num": 191404,
+      "word": "中方再次启用不可靠实体清单",
+      "onboard_time": 1759998921,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 190738,
       "num": 190738,
       "word": "李沁 英气",
@@ -9601,6 +9617,14 @@
       "onboard_time": 1759460118,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184154,
+      "num": 184154,
+      "word": "知道许我耀眼为什么单更了",
+      "onboard_time": 1759995019,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 184151,
@@ -10219,6 +10243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176216,
+      "num": 176216,
+      "word": "假期后第一天上班状态",
+      "onboard_time": 1759999161,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176150,
       "num": 176150,
       "word": "白百何剪了狗啃刘海",
@@ -10449,14 +10481,6 @@
       "onboard_time": 1759489162,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 172812,
-      "num": 156909,
-      "word": "晚8秒下高速被收500元男子发声",
-      "onboard_time": 1759998441,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 172792,
@@ -10753,14 +10777,6 @@
       "onboard_time": 1759645280,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169303,
-      "num": 169303,
-      "word": "知道许我耀眼为什么单更了",
-      "onboard_time": 1759995019,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 169293,
@@ -12531,6 +12547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148607,
+      "num": 148607,
+      "word": "辽宁一景区禁止游客捡枫叶",
+      "onboard_time": 1759996461,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148606,
       "num": 148606,
       "word": "小酒窝缩小版董璇",
@@ -13019,6 +13043,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 144678,
+      "num": 144678,
+      "word": "李昀锐回应白鹿包场",
+      "onboard_time": 1759999221,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144617,
       "num": 144617,
       "word": "许我耀眼让我重新认识了陈伟霆",
@@ -13377,6 +13409,14 @@
       "onboard_time": 1759338797,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140872,
+      "num": 140872,
+      "word": "冻干蔬菜脆 油炸",
+      "onboard_time": 1759999102,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 140870,
@@ -14227,6 +14267,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 134873,
+      "num": 134873,
+      "word": "李梓豪把姚琛的口呼吸手动关上了",
+      "onboard_time": 1759999040,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134830,
       "num": 134830,
       "word": "西贝客服回应降价",
@@ -14515,14 +14563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133102,
-      "num": 133102,
-      "word": "辽宁一景区禁止游客捡枫叶",
-      "onboard_time": 1759996461,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132983,
       "num": 132983,
       "word": "王楚钦说我是人不是机器",
@@ -14585,6 +14625,14 @@
       "onboard_time": 1759795699,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132418,
+      "num": 132418,
+      "word": "李昀锐人缘",
+      "onboard_time": 1759999401,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 132381,
@@ -15249,6 +15297,14 @@
       "onboard_time": 1759566381,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127267,
+      "num": 127267,
+      "word": "NBA与微博达成战略合作",
+      "onboard_time": 1759999461,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 127175,
@@ -16507,6 +16563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118371,
+      "num": 118371,
+      "word": "郑钦文因伤退出东京赛",
+      "onboard_time": 1759998860,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118325,
       "num": 118325,
       "word": "我听苏新皓唱歌就这样变脸",
@@ -16673,6 +16737,14 @@
       "onboard_time": 1759756402,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 117274,
+      "num": 117274,
+      "word": "这居然是50岁的毕方杰",
+      "onboard_time": 1759999521,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 117269,
@@ -17667,6 +17739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111668,
+      "num": 111668,
+      "word": "LPL出征S15定妆照",
+      "onboard_time": 1759999580,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111661,
       "num": 111661,
       "word": "许妍又哭成被父母抛弃的模样",
@@ -18513,6 +18593,14 @@
       "onboard_time": 1759636881,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108406,
+      "num": 108406,
+      "word": "疑似语文和化学谈了",
+      "onboard_time": 1759998141,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 108396,
@@ -19761,6 +19849,14 @@
       "onboard_time": 1759475660,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103064,
+      "num": 132117,
+      "word": "曝关淑怡目前全身插管",
+      "onboard_time": 1759998625,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 103052,
@@ -23747,14 +23843,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 83015,
-      "num": 132117,
-      "word": "曝关淑怡目前全身插管",
-      "onboard_time": 1759998625,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 83009,
       "num": 83009,
       "word": "邓超神图这不就来了",
@@ -27043,12 +27131,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 39811,
+      "num": 127801,
+      "word": "司机开智驾后睡着高速停车10分钟",
+      "onboard_time": 1759998860,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39426,
       "num": 175896,
       "word": "纪梵希范丞丞章若楠秀场同框",
       "onboard_time": 1759561639,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 39307,
+      "num": 190526,
+      "word": "法院回应被判刑女子4年3次怀孕",
+      "onboard_time": 1759998679,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39277,
@@ -28184,14 +28288,6 @@
       "word": "西贝这次降价求生能成功吗",
       "onboard_time": 1759383381,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21282,
-      "num": 156909,
-      "word": "法院回应被判刑女子4年3次怀孕",
-      "onboard_time": 1759998679,
-      "rank": 29,
       "category": "民生新闻"
     },
     {

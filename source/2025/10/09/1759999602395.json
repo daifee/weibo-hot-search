@@ -1,0 +1,410 @@
+{
+  "runTime": 1759999602395,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1559083,
+        "num": 1559083,
+        "word": "海底捞小便事件220万判决已生效",
+        "onboard_time": 1759995800,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541523,
+        "num": 541523,
+        "word": "女子被判刑后4年3次卡点怀孕",
+        "onboard_time": 1759996221,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67174,
+        "num": 539261,
+        "word": "假期国内出游总花费8090.06亿元",
+        "onboard_time": 1759984460,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538932,
+        "num": 538932,
+        "word": "27岁女生月租1500元住进养老院",
+        "onboard_time": 1759995800,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527436,
+        "num": 527436,
+        "word": "智利公司错发123万工资员工被判不退款",
+        "onboard_time": 1759988781,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 502626,
+        "num": 502626,
+        "word": "晚8秒下高速被收500元男子发声",
+        "onboard_time": 1759998441,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 402469,
+        "num": 402469,
+        "word": "女娲新皮肤",
+        "onboard_time": 1759996581,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 285299,
+        "num": 285299,
+        "word": "四川新龙5.4级地震",
+        "onboard_time": 1759987881,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 246983,
+        "num": 246983,
+        "word": "北京冷冷冷冷冷",
+        "onboard_time": 1759981580,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208522,
+        "num": 208522,
+        "word": "本周上三休一",
+        "onboard_time": 1759982180,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 744130,
+        "num": 207863,
+        "word": "王俊凯 抢票",
+        "onboard_time": 1759995261,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680451,
+        "num": 205074,
+        "word": "汪涵老婆患阑尾炎独自住院",
+        "onboard_time": 1759997120,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532798,
+        "num": 203928,
+        "word": "李沁造型师",
+        "onboard_time": 1759994121,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401049,
+        "num": 201516,
+        "word": "沙溢国庆吃胖了十斤",
+        "onboard_time": 1759998321,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284074,
+        "num": 198241,
+        "word": "郭富城方媛回应三胎得子传闻",
+        "onboard_time": 1759996520,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245219,
+        "num": 197507,
+        "word": "许妍沈皓明亲热被婆婆撞见",
+        "onboard_time": 1759989679,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31927,
+        "num": 193677,
+        "word": "荣耀Magic8定档10月15日",
+        "onboard_time": 1759997241,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 30897,
+        "num": 191576,
+        "word": "全明星加入京东双11",
+        "onboard_time": 1759997241,
+        "rank": 17,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 191404,
+        "num": 191404,
+        "word": "中方再次启用不可靠实体清单",
+        "onboard_time": 1759998921,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39307,
+        "num": 190526,
+        "word": "法院回应被判刑女子4年3次怀孕",
+        "onboard_time": 1759998679,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190221,
+        "num": 190221,
+        "word": "石原里美二胎产后状态",
+        "onboard_time": 1759992502,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184154,
+        "num": 184154,
+        "word": "知道许我耀眼为什么单更了",
+        "onboard_time": 1759995019,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176216,
+        "num": 176216,
+        "word": "假期后第一天上班状态",
+        "onboard_time": 1759999161,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168288,
+        "num": 168288,
+        "word": "抑郁症多半心脏有问题",
+        "onboard_time": 1759984341,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 565957,
+        "num": 167641,
+        "word": "鸡排哥答应我别开美颜了好吗",
+        "onboard_time": 1759992982,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155837,
+        "num": 155837,
+        "word": "8天国内出游8.88亿人次",
+        "onboard_time": 1759984822,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149687,
+        "num": 149687,
+        "word": "肝不好的人起床或有5种表现",
+        "onboard_time": 1759986800,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148607,
+        "num": 148607,
+        "word": "辽宁一景区禁止游客捡枫叶",
+        "onboard_time": 1759996461,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144678,
+        "num": 144678,
+        "word": "李昀锐回应白鹿包场",
+        "onboard_time": 1759999221,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122338,
+        "num": 143622,
+        "word": "国内首支NBA拉拉队",
+        "onboard_time": 1759995201,
+        "rank": 29,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 143535,
+        "num": 143535,
+        "word": "一笑随歌直播",
+        "onboard_time": 1759996581,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140872,
+        "num": 140872,
+        "word": "冻干蔬菜脆 油炸",
+        "onboard_time": 1759999102,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140427,
+        "num": 140427,
+        "word": "普通人不上班六个月的真实感受",
+        "onboard_time": 1759995920,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139091,
+        "num": 139091,
+        "word": "子阳清融两个魔丸",
+        "onboard_time": 1759998559,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138243,
+        "num": 138243,
+        "word": "养老院回应27岁女生月租1500元入住",
+        "onboard_time": 1759997000,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134873,
+        "num": 134873,
+        "word": "李梓豪把姚琛的口呼吸手动关上了",
+        "onboard_time": 1759999040,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132418,
+        "num": 132418,
+        "word": "李昀锐人缘",
+        "onboard_time": 1759999401,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128472,
+        "num": 128472,
+        "word": "李沁工作室",
+        "onboard_time": 1759996281,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39811,
+        "num": 127801,
+        "word": "司机开智驾后睡着高速停车10分钟",
+        "onboard_time": 1759998860,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103064,
+        "num": 127323,
+        "word": "曝关淑怡目前全身插管",
+        "onboard_time": 1759998625,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127267,
+        "num": 127267,
+        "word": "NBA与微博达成战略合作",
+        "onboard_time": 1759999461,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125841,
+        "num": 125841,
+        "word": "狐妖王权篇改名了",
+        "onboard_time": 1759984281,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118371,
+        "num": 118371,
+        "word": "郑钦文因伤退出东京赛",
+        "onboard_time": 1759998860,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117274,
+        "num": 117274,
+        "word": "这居然是50岁的毕方杰",
+        "onboard_time": 1759999521,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 114310,
+        "num": 114310,
+        "word": "李诞 王安宇怎么这么帅",
+        "onboard_time": 1759988421,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113852,
+        "num": 113852,
+        "word": "谁说国庆之后没有节",
+        "onboard_time": 1759997961,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111668,
+        "num": 111668,
+        "word": "LPL出征S15定妆照",
+        "onboard_time": 1759999580,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109997,
+        "num": 109997,
+        "word": "胡先煦 我有一儿一女两只猫",
+        "onboard_time": 1759981701,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108406,
+        "num": 108406,
+        "word": "疑似语文和化学谈了",
+        "onboard_time": 1759998141,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108040,
+        "num": 108040,
+        "word": "ColorOS16",
+        "onboard_time": 1759998679,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1759941149301,
-  "endTime": 1759998816040,
+  "endTime": 1759999602395,
   "band_list": [
     {
       "raw_hot": 9127369,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 680451,
+      "num": 211724,
+      "word": "汪涵老婆患阑尾炎独自住院",
+      "onboard_time": 1759997120,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 655592,
       "num": 379768,
       "word": "鸡排哥答应我别开美颜了好吗",
@@ -187,11 +195,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 538223,
-      "num": 538223,
+      "raw_hot": 541523,
+      "num": 541523,
       "word": "女子被判刑后4年3次卡点怀孕",
       "onboard_time": 1759996221,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 538932,
+      "num": 538932,
+      "word": "27岁女生月租1500元住进养老院",
+      "onboard_time": 1759995800,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -208,6 +224,14 @@
       "word": "下高速",
       "onboard_time": 1759937541,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 502626,
+      "num": 502626,
+      "word": "晚8秒下高速被收500元男子发声",
+      "onboard_time": 1759998441,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -243,28 +267,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 458291,
-      "num": 211724,
-      "word": "汪涵老婆患阑尾炎独自住院",
-      "onboard_time": 1759997120,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 438676,
       "num": 223433,
       "word": "石原里美二胎产后状态",
       "onboard_time": 1759992502,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 436415,
-      "num": 436415,
-      "word": "27岁女生月租1500元住进养老院",
-      "onboard_time": 1759995800,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 430022,
@@ -323,6 +331,22 @@
       "category": "汽车,网红"
     },
     {
+      "raw_hot": 402469,
+      "num": 402469,
+      "word": "女娲新皮肤",
+      "onboard_time": 1759996581,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 401049,
+      "num": 207759,
+      "word": "沙溢国庆吃胖了十斤",
+      "onboard_time": 1759998321,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393669,
       "num": 393669,
       "word": "四大伤肝元凶",
@@ -377,14 +401,6 @@
       "onboard_time": 1759975279,
       "rank": 13,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 330935,
-      "num": 330935,
-      "word": "女娲新皮肤",
-      "onboard_time": 1759996581,
-      "rank": 6,
-      "category": "游戏"
     },
     {
       "raw_hot": 322344,
@@ -571,14 +587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215069,
-      "num": 207759,
-      "word": "沙溢国庆吃胖了十斤",
-      "onboard_time": 1759998321,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209765,
       "num": 209765,
       "word": "印度大阅兵士兵表演旋转步枪",
@@ -643,6 +651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 191404,
+      "num": 191404,
+      "word": "中方再次启用不可靠实体清单",
+      "onboard_time": 1759998921,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 189992,
       "num": 189992,
       "word": "节后第1天多地雨雨雨雨雨",
@@ -656,6 +672,14 @@
       "word": "二婚的爸被刀的妈阴暗爬行的她",
       "onboard_time": 1759982240,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184154,
+      "num": 184154,
+      "word": "知道许我耀眼为什么单更了",
+      "onboard_time": 1759995019,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -715,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176216,
+      "num": 176216,
+      "word": "假期后第一天上班状态",
+      "onboard_time": 1759999161,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 176150,
       "num": 176150,
       "word": "白百何剪了狗啃刘海",
@@ -739,14 +771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172812,
-      "num": 156909,
-      "word": "晚8秒下高速被收500元男子发声",
-      "onboard_time": 1759998441,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172316,
       "num": 172316,
       "word": "18斤小猫饿到大哭",
@@ -769,14 +793,6 @@
       "onboard_time": 1759977919,
       "rank": 16,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 169303,
-      "num": 169303,
-      "word": "知道许我耀眼为什么单更了",
-      "onboard_time": 1759995019,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 168155,
@@ -987,6 +1003,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 148607,
+      "num": 148607,
+      "word": "辽宁一景区禁止游客捡枫叶",
+      "onboard_time": 1759996461,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147799,
       "num": 147799,
       "word": "NBA",
@@ -1019,12 +1043,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 144678,
+      "num": 144678,
+      "word": "李昀锐回应白鹿包场",
+      "onboard_time": 1759999221,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143733,
       "num": 142013,
       "word": "王者最帅伴生皮",
       "onboard_time": 1759978639,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140872,
+      "num": 140872,
+      "word": "冻干蔬菜脆 油炸",
+      "onboard_time": 1759999102,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 140552,
@@ -1099,6 +1139,14 @@
       "category": "游戏,电竞"
     },
     {
+      "raw_hot": 134873,
+      "num": 134873,
+      "word": "李梓豪把姚琛的口呼吸手动关上了",
+      "onboard_time": 1759999040,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134588,
       "num": 134588,
       "word": "51岁的林志玲",
@@ -1131,12 +1179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133102,
-      "num": 133102,
-      "word": "辽宁一景区禁止游客捡枫叶",
-      "onboard_time": 1759996461,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 132418,
+      "num": 132418,
+      "word": "李昀锐人缘",
+      "onboard_time": 1759999401,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 131976,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1759932080,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127267,
+      "num": 127267,
+      "word": "NBA与微博达成战略合作",
+      "onboard_time": 1759999461,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 126246,
@@ -1315,12 +1371,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 118371,
+      "num": 118371,
+      "word": "郑钦文因伤退出东京赛",
+      "onboard_time": 1759998860,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118045,
       "num": 118045,
       "word": "ColorOS16",
       "onboard_time": 1759998679,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 117274,
+      "num": 117274,
+      "word": "这居然是50岁的毕方杰",
+      "onboard_time": 1759999521,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 116193,
@@ -1377,6 +1449,14 @@
       "onboard_time": 1759977979,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 111668,
+      "num": 111668,
+      "word": "LPL出征S15定妆照",
+      "onboard_time": 1759999580,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 110380,
@@ -1441,6 +1521,14 @@
       "onboard_time": 1759968202,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108406,
+      "num": 108406,
+      "word": "疑似语文和化学谈了",
+      "onboard_time": 1759998141,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 107719,
@@ -1529,6 +1617,14 @@
       "onboard_time": 1759989140,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 103064,
+      "num": 132117,
+      "word": "曝关淑怡目前全身插管",
+      "onboard_time": 1759998625,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 100710,
@@ -1713,14 +1809,6 @@
       "onboard_time": 1759939520,
       "rank": 23,
       "category": "音乐,游戏"
-    },
-    {
-      "raw_hot": 83015,
-      "num": 132117,
-      "word": "曝关淑怡目前全身插管",
-      "onboard_time": 1759998625,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 80943,
@@ -2147,6 +2235,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39811,
+      "num": 127801,
+      "word": "司机开智驾后睡着高速停车10分钟",
+      "onboard_time": 1759998860,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39307,
+      "num": 190526,
+      "word": "法院回应被判刑女子4年3次怀孕",
+      "onboard_time": 1759998679,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39277,
       "num": 211201,
       "word": "荣耀Magic8定档10月15日",
@@ -2248,14 +2352,6 @@
       "word": "景区回应游客坐滑道遇蛇从腿下穿过",
       "onboard_time": 1759954454,
       "rank": 45,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21282,
-      "num": 156909,
-      "word": "法院回应被判刑女子4年3次怀孕",
-      "onboard_time": 1759998679,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
