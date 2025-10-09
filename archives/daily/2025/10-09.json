@@ -1,6 +1,6 @@
 {
   "startTime": 1759941149301,
-  "endTime": 1760015220550,
+  "endTime": 1760016943770,
   "band_list": [
     {
       "raw_hot": 9127369,
@@ -57,6 +57,14 @@
       "onboard_time": 1759987881,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1284392,
+      "num": 1284392,
+      "word": "乌兰被查",
+      "onboard_time": 1760013441,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1226757,
@@ -169,14 +177,6 @@
       "onboard_time": 1759995261,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 760133,
-      "num": 1121621,
-      "word": "乌兰被查",
-      "onboard_time": 1760013441,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 752749,
@@ -491,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 374887,
+      "num": 217353,
+      "word": "结果只有王安宇没笑",
+      "onboard_time": 1760012241,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 358739,
       "num": 201372,
       "word": "年羹尧的儿子分享生活",
@@ -603,6 +611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 297333,
+      "num": 297333,
+      "word": "南昌遭误会被打扇子哥已离职",
+      "onboard_time": 1760014522,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295161,
       "num": 241683,
       "word": "许我耀眼",
@@ -643,14 +659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 273057,
-      "num": 217353,
-      "word": "结果只有王安宇没笑",
-      "onboard_time": 1760012241,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 266621,
       "num": 266621,
       "word": "iG全员回国",
@@ -659,20 +667,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 263099,
+      "num": 174953,
+      "word": "建议女生洗完头不要包头发",
+      "onboard_time": 1760010080,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 260584,
       "num": 260584,
       "word": "哈马斯发声明",
       "onboard_time": 1759974559,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 260331,
-      "num": 174953,
-      "word": "建议女生洗完头不要包头发",
-      "onboard_time": 1760010080,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 258429,
@@ -739,6 +747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 245872,
+      "num": 196178,
+      "word": "赣州银河左岸首批阵容",
+      "onboard_time": 1760015121,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 244531,
       "num": 244531,
       "word": "阿维塔称起火发生在副驾驶座椅位置",
@@ -753,6 +769,14 @@
       "onboard_time": 1759966459,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 239814,
+      "num": 136051,
+      "word": "Faker微博更新",
+      "onboard_time": 1760015842,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 239581,
@@ -827,6 +851,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 223555,
+      "num": 194309,
+      "word": "蔡国庆萨顶顶现场争执",
+      "onboard_time": 1760013502,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223509,
       "num": 223509,
       "word": "张继科说比赛输了就没下次了",
@@ -849,6 +881,14 @@
       "onboard_time": 1759986681,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211688,
+      "num": 192058,
+      "word": "曾舜晞确认被爱",
+      "onboard_time": 1760015780,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 209765,
@@ -939,12 +979,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 192021,
+      "num": 192021,
+      "word": "没拍到王一博正面",
+      "onboard_time": 1760016022,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 191404,
       "num": 191404,
       "word": "中方再次启用不可靠实体清单",
       "onboard_time": 1759998921,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 190150,
+      "num": 168014,
+      "word": "胡兵有这身材穿什么都好看",
+      "onboard_time": 1760015961,
+      "rank": 21,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 189992,
@@ -1027,14 +1083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179696,
-      "num": 179696,
-      "word": "蔡国庆萨顶顶现场争执",
-      "onboard_time": 1760013502,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179626,
       "num": 179626,
       "word": "杨瀚森季前赛首分",
@@ -1075,6 +1123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175717,
+      "num": 135149,
+      "word": "新加坡现父女双尸案",
+      "onboard_time": 1760016380,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 174798,
       "num": 174798,
       "word": "特朗普宣布以色列哈马斯停火幕后",
@@ -1105,14 +1161,6 @@
       "onboard_time": 1759973119,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 173434,
-      "num": 173434,
-      "word": "赣州银河左岸首批阵容",
-      "onboard_time": 1760015121,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 172316,
@@ -1355,6 +1403,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 154740,
+      "num": 154740,
+      "word": "彭昱畅说向往停播但大家没断联",
+      "onboard_time": 1760013201,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154514,
       "num": 154514,
       "word": "不怪高圆圆是云南美食太香了",
@@ -1369,14 +1425,6 @@
       "onboard_time": 1759977259,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 153708,
-      "num": 153708,
-      "word": "彭昱畅说向往停播但大家没断联",
-      "onboard_time": 1760013201,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 152652,
@@ -1459,6 +1507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 144698,
+      "num": 144698,
+      "word": "黄金白银涨势不止",
+      "onboard_time": 1760016022,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 144678,
       "num": 144678,
       "word": "李昀锐回应白鹿包场",
@@ -1475,6 +1531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142767,
+      "num": 142767,
+      "word": "刘雨昕周震南终于不用藏了",
+      "onboard_time": 1760016082,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 140552,
       "num": 140552,
       "word": "陈立农cos丁禹兮慕声",
@@ -1489,6 +1553,14 @@
       "onboard_time": 1759984460,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138739,
+      "num": 138739,
+      "word": "何炅喜提最佳综艺主持人",
+      "onboard_time": 1760016321,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 137929,
@@ -1643,14 +1715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131133,
-      "num": 131133,
-      "word": "南昌遭误会被打扇子哥已离职",
-      "onboard_time": 1760014522,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130559,
       "num": 130559,
       "word": "一代人有一代人的正宗标准",
@@ -1755,6 +1819,14 @@
       "category": "海外新闻,体育"
     },
     {
+      "raw_hot": 122766,
+      "num": 122766,
+      "word": "李昀锐 林百草",
+      "onboard_time": 1760013502,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122677,
       "num": 122677,
       "word": "李昀锐新剧人在家中坐孙孙天上来",
@@ -1793,6 +1865,14 @@
       "onboard_time": 1759987220,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121410,
+      "num": 121410,
+      "word": "王珂 下一顺位是她冠军",
+      "onboard_time": 1760015842,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 120855,
@@ -2004,7 +2084,7 @@
     },
     {
       "raw_hot": 110262,
-      "num": 110262,
+      "num": 319423,
       "word": "中国科学家造出现实版诺亚方舟",
       "onboard_time": 1759992922,
       "rank": 47,
@@ -2195,6 +2275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102362,
+      "num": 102362,
+      "word": "鸡排哥休息日变饭撒日",
+      "onboard_time": 1760016380,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100710,
       "num": 100710,
       "word": "姚琛高铁帮阿姨找手机",
@@ -2233,14 +2321,6 @@
       "onboard_time": 1760006361,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97133,
-      "num": 97133,
-      "word": "李昀锐 林百草",
-      "onboard_time": 1760013502,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 97129,
@@ -2313,6 +2393,14 @@
       "onboard_time": 1759976299,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93428,
+      "num": 93428,
+      "word": "NS战胜NIP",
+      "onboard_time": 1760016561,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 93307,
@@ -2443,12 +2531,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88063,
+      "num": 88063,
+      "word": "三个少年",
+      "onboard_time": 1760016741,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88002,
       "num": 88002,
       "word": "NIP淘汰",
       "onboard_time": 1760014339,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 87894,
+      "num": 121907,
+      "word": "又被灰原哀美到了",
+      "onboard_time": 1760013141,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 87818,
@@ -2481,14 +2585,6 @@
       "onboard_time": 1759966518,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87525,
-      "num": 87525,
-      "word": "又被灰原哀美到了",
-      "onboard_time": 1760013141,
-      "rank": 37,
-      "category": "动漫"
     },
     {
       "raw_hot": 87105,
@@ -2843,6 +2939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61171,
+      "num": 137300,
+      "word": "1个月后看运动健儿神仙打架",
+      "onboard_time": 1760015301,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60707,
       "num": 244221,
       "word": "张艺凡的早八穿搭有点东西",
@@ -3097,6 +3201,14 @@
       "onboard_time": 1760000000,
       "rank": 25,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 47393,
+      "num": 198123,
+      "word": "第十五届全运会",
+      "onboard_time": 1760016682,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 45508,
@@ -3372,6 +3484,9 @@
     },
     {
       "word": "#文脉华章#"
+    },
+    {
+      "word": "#习近平将出席全球妇女峰会开幕式#"
     }
   ]
 }
