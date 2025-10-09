@@ -1,6 +1,6 @@
 {
   "startTime": 1759941149301,
-  "endTime": 1760009866779,
+  "endTime": 1760014384122,
   "band_list": [
     {
       "raw_hot": 9127369,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 640283,
+      "num": 219863,
+      "word": "杨洋的手机壳一天比一天裂",
+      "onboard_time": 1760012721,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 634182,
       "num": 634182,
       "word": "老板误把油当饮料卖好奇咋没人找",
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 457416,
-      "num": 457416,
+      "num": 1071986,
       "word": "腾讯视频账号6次超限或面临封号",
       "onboard_time": 1760005402,
       "rank": 40,
@@ -523,6 +531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331411,
+      "num": 217834,
+      "word": "对面这么小刀我真的会同意的",
+      "onboard_time": 1760010561,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 326376,
       "num": 236114,
       "word": "董璇 你问问酒窝同不同意",
@@ -563,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305294,
+      "num": 305294,
+      "word": "一人食被歧视韩国网友怒了",
+      "onboard_time": 1760004801,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 295161,
       "num": 241683,
       "word": "许我耀眼",
@@ -601,6 +625,22 @@
       "onboard_time": 1759939280,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270255,
+      "num": 217353,
+      "word": "结果只有王安宇没笑",
+      "onboard_time": 1760012241,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 264764,
+      "num": 264764,
+      "word": "iG全员回国",
+      "onboard_time": 1760009901,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 260584,
@@ -651,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249037,
+      "num": 215254,
+      "word": "王影璐李昀锐发红包",
+      "onboard_time": 1760011281,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 247327,
       "num": 247327,
       "word": "宴遇永安今日开播",
@@ -689,6 +737,22 @@
       "onboard_time": 1759932502,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 239319,
+      "num": 214676,
+      "word": "邓超给孙俪写生日卡片写哭了",
+      "onboard_time": 1760011340,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 237723,
+      "num": 165294,
+      "word": "建议女生洗完头不要包头发",
+      "onboard_time": 1760010080,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 236742,
@@ -800,6 +864,14 @@
       "word": "一笑随歌直播",
       "onboard_time": 1759996581,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 205998,
+      "num": 205998,
+      "word": "陈哲远李沁cha了go",
+      "onboard_time": 1760012599,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -987,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174007,
+      "num": 174007,
+      "word": "蔡国庆萨顶顶现场争执",
+      "onboard_time": 1760013502,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173505,
       "num": 173505,
       "word": "侯明昊出道以来第一次摇人宣传",
@@ -1025,6 +1105,14 @@
       "onboard_time": 1760005521,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 168266,
+      "num": 222292,
+      "word": "乌兰被查",
+      "onboard_time": 1760013441,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168155,
@@ -1113,6 +1201,14 @@
       "onboard_time": 1759986859,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 163081,
+      "num": 163081,
+      "word": "男孩因不给买新手机商场撒泼",
+      "onboard_time": 1760010801,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161308,
@@ -1243,6 +1339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153708,
+      "num": 153708,
+      "word": "彭昱畅说向往停播但大家没断联",
+      "onboard_time": 1760013201,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152652,
       "num": 152652,
       "word": "48岁渔村网红阿霞坠海遇难",
@@ -1363,6 +1467,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 137668,
+      "num": 137668,
+      "word": "KPL选手对本命英雄说",
+      "onboard_time": 1760013381,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136731,
       "num": 136731,
       "word": "孙颖莎打字手好快",
@@ -1401,14 +1513,6 @@
       "onboard_time": 1759975819,
       "rank": 22,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 135481,
-      "num": 135481,
-      "word": "一人食被歧视韩国网友怒了",
-      "onboard_time": 1760004801,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 135251,
@@ -1481,6 +1585,14 @@
       "onboard_time": 1759980980,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132456,
+      "num": 154068,
+      "word": "今年双11开始了",
+      "onboard_time": 1760013260,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 131976,
@@ -1891,6 +2003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108798,
+      "num": 108798,
+      "word": "邓超 为了家庭我可以随时退休",
+      "onboard_time": 1760011701,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108406,
       "num": 108406,
       "word": "疑似语文和化学谈了",
@@ -2179,6 +2299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91153,
+      "num": 165466,
+      "word": "伊拉克小伙在中国找到了饭搭子",
+      "onboard_time": 1760011580,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90970,
       "num": 90970,
       "word": "入青云",
@@ -2227,12 +2355,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88946,
+      "num": 88946,
+      "word": "卢昱晓神女拉弓镜头",
+      "onboard_time": 1760014220,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88806,
       "num": 94688,
       "word": "2025中秋国庆假期名场面",
       "onboard_time": 1759974320,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88267,
+      "num": 88267,
+      "word": "李昀锐 林百草",
+      "onboard_time": 1760013502,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 87818,
@@ -2251,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87776,
+      "num": 87776,
+      "word": "肖战巴黎广告拍摄路透",
+      "onboard_time": 1760013562,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87774,
       "num": 100233,
       "word": "刘萧旭郭宇欣 接二搭",
@@ -2267,12 +2419,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87525,
+      "num": 87525,
+      "word": "又被灰原哀美到了",
+      "onboard_time": 1760013141,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 87105,
       "num": 87105,
       "word": "听气势如虹感受拼搏力量",
       "onboard_time": 1760006599,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86309,
+      "num": 86309,
+      "word": "济南打雷",
+      "onboard_time": 1760010261,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85466,
@@ -2323,6 +2491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 83016,
+      "num": 83016,
+      "word": "杨乐乐回应独自住院汪涵没在",
+      "onboard_time": 1760010921,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81730,
       "num": 81730,
       "word": "卢伟冰祝贺小米副总裁入职五周年",
@@ -2331,12 +2507,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 81249,
+      "num": 81249,
+      "word": "女孩看偶像激动患过度通气综合征",
+      "onboard_time": 1760014041,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80943,
       "num": 80943,
       "word": "一个IP带火一座城",
       "onboard_time": 1759964598,
       "rank": 28,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 80316,
+      "num": 80316,
+      "word": "NIP淘汰",
+      "onboard_time": 1760014339,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 80287,
@@ -2352,6 +2544,14 @@
       "word": "今年冬天将更冷",
       "onboard_time": 1759913481,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79021,
+      "num": 79021,
+      "word": "乘客在机场阻止插队被扇耳光",
+      "onboard_time": 1760011701,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -2377,6 +2577,14 @@
       "onboard_time": 1759933404,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78341,
+      "num": 78341,
+      "word": "以军停止在加沙军事行动",
+      "onboard_time": 1760010022,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 77557,
@@ -2579,6 +2787,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 60143,
+      "num": 77861,
+      "word": "跳河新郎遗体在大桥下游上百米发现",
+      "onboard_time": 1760011161,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60009,
       "num": 100110,
       "word": "王嘉尔出席活动被陌生女子捏脸",
@@ -2753,6 +2969,14 @@
       "onboard_time": 1759929501,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51993,
+      "num": 79571,
+      "word": "宋祖儿去巴黎前脸急性过敏",
+      "onboard_time": 1760012781,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 51710,
@@ -2951,6 +3175,14 @@
       "num": 95756,
       "word": "女生参加群演试镜被要求衣着裸露",
       "onboard_time": 1760002220,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21870,
+      "num": 86321,
+      "word": "男子带幼犬朝圣",
+      "onboard_time": 1760013980,
       "rank": 38,
       "category": "民生新闻"
     },

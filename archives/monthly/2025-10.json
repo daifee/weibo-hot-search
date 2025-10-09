@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760009866779,
+  "endTime": 1760014384122,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -2211,6 +2211,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 640283,
+      "num": 219863,
+      "word": "杨洋的手机壳一天比一天裂",
+      "onboard_time": 1760012721,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 640017,
       "num": 250882,
       "word": "素颜的刘浩存赵今麦李庚希",
@@ -3700,7 +3708,7 @@
     },
     {
       "raw_hot": 457416,
-      "num": 457416,
+      "num": 1071986,
       "word": "腾讯视频账号6次超限或面临封号",
       "onboard_time": 1760005402,
       "rank": 40,
@@ -5339,6 +5347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331411,
+      "num": 217834,
+      "word": "对面这么小刀我真的会同意的",
+      "onboard_time": 1760010561,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 330738,
       "num": 330738,
       "word": "高度近视眼一定要防止视网膜脱落",
@@ -5833,6 +5849,14 @@
       "onboard_time": 1759894341,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 305294,
+      "num": 305294,
+      "word": "一人食被歧视韩国网友怒了",
+      "onboard_time": 1760004801,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 303807,
@@ -6579,6 +6603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270255,
+      "num": 217353,
+      "word": "结果只有王安宇没笑",
+      "onboard_time": 1760012241,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 270244,
       "num": 237984,
       "word": "王一博观战德约科维奇",
@@ -6697,6 +6729,14 @@
       "onboard_time": 1759334000,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264764,
+      "num": 264764,
+      "word": "iG全员回国",
+      "onboard_time": 1760009901,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 263552,
@@ -7059,6 +7099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249037,
+      "num": 215254,
+      "word": "王影璐李昀锐发红包",
+      "onboard_time": 1760011281,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248880,
       "num": 123646,
       "word": "李纯马頔回复王菊",
@@ -7307,6 +7355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 239319,
+      "num": 214676,
+      "word": "邓超给孙俪写生日卡片写哭了",
+      "onboard_time": 1760011340,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239260,
       "num": 239260,
       "word": "九三阅兵刺刀是开了刃的",
@@ -7353,6 +7409,14 @@
       "onboard_time": 1759667483,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237723,
+      "num": 165294,
+      "word": "建议女生洗完头不要包头发",
+      "onboard_time": 1760010080,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 237712,
@@ -8481,6 +8545,14 @@
       "onboard_time": 1759485980,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205998,
+      "num": 205998,
+      "word": "陈哲远李沁cha了go",
+      "onboard_time": 1760012599,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 205954,
@@ -10635,6 +10707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174007,
+      "num": 174007,
+      "word": "蔡国庆萨顶顶现场争执",
+      "onboard_time": 1760013502,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173925,
       "num": 173925,
       "word": "低估了回眸杀的含金量",
@@ -11065,6 +11145,14 @@
       "onboard_time": 1759758744,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168266,
+      "num": 222292,
+      "word": "乌兰被查",
+      "onboard_time": 1760013441,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168155,
@@ -11601,6 +11689,14 @@
       "onboard_time": 1759739420,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 163081,
+      "num": 163081,
+      "word": "男孩因不给买新手机商场撒泼",
+      "onboard_time": 1760010801,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163041,
@@ -12393,6 +12489,14 @@
       "onboard_time": 1759392620,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153708,
+      "num": 153708,
+      "word": "彭昱畅说向往停播但大家没断联",
+      "onboard_time": 1760013201,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 153624,
@@ -14115,6 +14219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137668,
+      "num": 137668,
+      "word": "KPL选手对本命英雄说",
+      "onboard_time": 1760013381,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137613,
       "num": 116987,
       "word": "吹牛老爹获刑四年两个月",
@@ -14417,14 +14529,6 @@
       "onboard_time": 1759588581,
       "rank": 34,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 135481,
-      "num": 135481,
-      "word": "一人食被歧视韩国网友怒了",
-      "onboard_time": 1760004801,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 135391,
@@ -14921,6 +15025,14 @@
       "onboard_time": 1759795699,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132456,
+      "num": 154068,
+      "word": "今年双11开始了",
+      "onboard_time": 1760013260,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 132381,
@@ -18867,6 +18979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108798,
+      "num": 108798,
+      "word": "邓超 为了家庭我可以随时退休",
+      "onboard_time": 1760011701,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108784,
       "num": 108784,
       "word": "王曼昱贴心说奖杯很重哦",
@@ -22771,6 +22891,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 91153,
+      "num": 165466,
+      "word": "伊拉克小伙在中国找到了饭搭子",
+      "onboard_time": 1760011580,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91103,
       "num": 91103,
       "word": "迪丽热巴临场应变能力",
@@ -23195,6 +23323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88946,
+      "num": 88946,
+      "word": "卢昱晓神女拉弓镜头",
+      "onboard_time": 1760014220,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88832,
       "num": 88832,
       "word": "惠英红陈都灵合照",
@@ -23291,6 +23427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88267,
+      "num": 88267,
+      "word": "李昀锐 林百草",
+      "onboard_time": 1760013502,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88229,
       "num": 121370,
       "word": "杨博文又在飞机上写作业了",
@@ -23371,6 +23515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87776,
+      "num": 87776,
+      "word": "肖战巴黎广告拍摄路透",
+      "onboard_time": 1760013562,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87738,
       "num": 87738,
       "word": "芬芳喜事",
@@ -23449,6 +23601,14 @@
       "onboard_time": 1759306161,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87525,
+      "num": 87525,
+      "word": "又被灰原哀美到了",
+      "onboard_time": 1760013141,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 87433,
@@ -23697,6 +23857,14 @@
       "onboard_time": 1759307360,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86309,
+      "num": 86309,
+      "word": "济南打雷",
+      "onboard_time": 1760010261,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86253,
@@ -24347,6 +24515,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83016,
+      "num": 83016,
+      "word": "杨乐乐回应独自住院汪涵没在",
+      "onboard_time": 1760010921,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83009,
       "num": 83009,
       "word": "邓超神图这不就来了",
@@ -24611,6 +24787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81249,
+      "num": 81249,
+      "word": "女孩看偶像激动患过度通气综合征",
+      "onboard_time": 1760014041,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81174,
       "num": 81174,
       "word": "妈妈回应儿子跪地拦车救自己",
@@ -24697,6 +24881,14 @@
       "onboard_time": 1759400241,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 80316,
+      "num": 80316,
+      "word": "NIP淘汰",
+      "onboard_time": 1760014339,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 80287,
@@ -24875,6 +25067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79021,
+      "num": 79021,
+      "word": "乘客在机场阻止插队被扇耳光",
+      "onboard_time": 1760011701,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79018,
       "num": 224392,
       "word": "荣耀Magic8定档10月15日",
@@ -24969,6 +25169,14 @@
       "onboard_time": 1759478300,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78341,
+      "num": 78341,
+      "word": "以军停止在加沙军事行动",
+      "onboard_time": 1760010022,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 78319,
@@ -26499,6 +26707,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 60143,
+      "num": 77861,
+      "word": "跳河新郎遗体在大桥下游上百米发现",
+      "onboard_time": 1760011161,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59963,
       "num": 59963,
       "word": "男子买单不付钱趁机摸店员脸",
@@ -27097,6 +27313,14 @@
       "onboard_time": 1759383321,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51993,
+      "num": 79571,
+      "word": "宋祖儿去巴黎前脸急性过敏",
+      "onboard_time": 1760012781,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 51812,
@@ -28833,6 +29057,14 @@
       "onboard_time": 1759776255,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21870,
+      "num": 86321,
+      "word": "男子带幼犬朝圣",
+      "onboard_time": 1760013980,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21601,
