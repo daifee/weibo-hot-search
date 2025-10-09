@@ -1,6 +1,6 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760045879388,
+  "endTime": 1760048586420,
   "band_list": [
     {
       "raw_hot": 751291,
@@ -43,6 +43,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323203,
+      "num": 401782,
+      "word": "新加坡双尸案女儿是剑桥博士疑饿死",
+      "onboard_time": 1760019980,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 301357,
       "num": 222860,
       "word": "许妍沈皓明生理性喜欢",
@@ -57,14 +65,6 @@
       "onboard_time": 1760022021,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 291016,
-      "num": 291016,
-      "word": "新加坡双尸案女儿是剑桥博士疑饿死",
-      "onboard_time": 1760019980,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 258437,
@@ -89,6 +89,14 @@
       "onboard_time": 1760018602,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218515,
+      "num": 218515,
+      "word": "知情人士称宗馥莉正常上班",
+      "onboard_time": 1760040494,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188494,
@@ -128,14 +136,6 @@
       "word": "女子错峰游韩国两步一个中国人",
       "onboard_time": 1760023581,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118713,
-      "num": 118713,
-      "word": "知情人士称宗馥莉正常上班",
-      "onboard_time": 1760040494,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -179,7 +179,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 96942,
+      "raw_hot": 99949,
       "num": 54707,
       "word": "石原里美3年生2娃",
       "onboard_time": 1760031376,
@@ -483,43 +483,43 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17152,
-      "num": 21005,
+      "raw_hot": 18387,
+      "num": 22804,
       "word": "洛杉矶最严重火灾纵火嫌疑人被捕",
       "onboard_time": 1760037793,
       "rank": 42,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 15481,
-      "num": 21036,
+      "raw_hot": 15557,
+      "num": 22798,
       "word": "店家得打电话逐字确认好几遍",
       "onboard_time": 1760035993,
       "rank": 30,
       "category": "幽默"
     },
     {
-      "raw_hot": 13345,
-      "num": 15499,
-      "word": "中方回应中印恢复直航",
-      "onboard_time": 1760039775,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 12915,
-      "num": 15377,
+      "raw_hot": 14628,
+      "num": 22795,
       "word": "王一博见证赛场上每一个高光时刻",
       "onboard_time": 1760043014,
       "rank": 37,
       "category": "音乐,体育"
     },
     {
-      "raw_hot": 12741,
-      "num": 20996,
+      "raw_hot": 13999,
+      "num": 22792,
       "word": "外交部回应美国抹黑中美教育交流",
       "onboard_time": 1760037313,
       "rank": 48,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 13345,
+      "num": 22777,
+      "word": "中方回应中印恢复直航",
+      "onboard_time": 1760039775,
+      "rank": 42,
       "category": "国内时政"
     },
     {
@@ -532,11 +532,27 @@
     },
     {
       "raw_hot": 12098,
-      "num": 21017,
+      "num": 22773,
       "word": "外交部回应美机构抹黑中国",
       "onboard_time": 1760037134,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11598,
+      "num": 22771,
+      "word": "穿秋裤",
+      "onboard_time": 1760048418,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11540,
+      "num": 22766,
+      "word": "新龙地震市民提前十数秒收到预警",
+      "onboard_time": 1760039775,
+      "rank": 44,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 11193,
@@ -553,14 +569,6 @@
       "onboard_time": 1760038215,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 11140,
-      "num": 15314,
-      "word": "新龙地震市民提前十数秒收到预警",
-      "onboard_time": 1760039775,
-      "rank": 44,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 10706,
