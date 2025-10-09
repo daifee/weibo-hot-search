@@ -1,0 +1,410 @@
+{
+  "runTime": 1760034970650,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 156137,
+        "num": 156137,
+        "word": "新加坡现父女双尸案",
+        "onboard_time": 1760016380,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 76341,
+        "num": 76341,
+        "word": "新加坡双尸案女儿是剑桥博士疑饿死",
+        "onboard_time": 1760019980,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 5007,
+        "num": 71412,
+        "word": "8天国内出游8.88亿人次",
+        "onboard_time": 1759984822,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82271,
+        "num": 71276,
+        "word": "旧金山街头像丧尸大片",
+        "onboard_time": 1760020822,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 71047,
+        "num": 71047,
+        "word": "母亲回应网传女儿高反被搭子抛弃",
+        "onboard_time": 1760023041,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66863,
+        "num": 66863,
+        "word": "抢泡泡玛特",
+        "onboard_time": 1760021902,
+        "rank": 5,
+        "category": "动漫,休闲"
+      },
+      {
+        "raw_hot": 56401,
+        "num": 56401,
+        "word": "黄金",
+        "onboard_time": 1760022021,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48757,
+        "num": 48757,
+        "word": "以色列发出警告",
+        "onboard_time": 1760017822,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43248,
+        "num": 43248,
+        "word": "完美婆娘涨粉7.31万",
+        "onboard_time": 1760025621,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38704,
+        "num": 38704,
+        "word": "高反被救女子有成植物人的可能",
+        "onboard_time": 1760022982,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141832,
+        "num": 38131,
+        "word": "卢昱晓演技",
+        "onboard_time": 1760025439,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96942,
+        "num": 37176,
+        "word": "石原里美3年生2娃",
+        "onboard_time": 1760031376,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73903,
+        "num": 36590,
+        "word": "陈哲远回应吻戏嘴巴干",
+        "onboard_time": 1760030297,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40548,
+        "num": 36108,
+        "word": "许我耀眼36.6%",
+        "onboard_time": 1760031436,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35575,
+        "num": 35575,
+        "word": "苏翊鸣世界第一个背靠背1980",
+        "onboard_time": 1760020402,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34784,
+        "num": 34784,
+        "word": "腾讯视频账号6次超限或面临封号",
+        "onboard_time": 1760005402,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32442,
+        "num": 32442,
+        "word": "许妍沈皓明生理性喜欢",
+        "onboard_time": 1760022200,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30124,
+        "num": 30124,
+        "word": "女子错峰游韩国两步一个中国人",
+        "onboard_time": 1760023581,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29013,
+        "num": 29013,
+        "word": "女子结婚为省钱到美甲店打金手镯",
+        "onboard_time": 1760001681,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25423,
+        "num": 25423,
+        "word": "短道速滑",
+        "onboard_time": 1760019141,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48744,
+        "num": 25415,
+        "word": "高反失温女孩年仅20岁刚毕业",
+        "onboard_time": 1760022921,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34961,
+        "num": 25400,
+        "word": "男子中959万大奖狂欢8周险丧命",
+        "onboard_time": 1760007502,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 34740,
+        "num": 25347,
+        "word": "建议女生洗完头不要包头发",
+        "onboard_time": 1760010080,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25295,
+        "num": 25295,
+        "word": "每天练背6分钟就是回报率最高的运动",
+        "onboard_time": 1760019562,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 24175,
+        "num": 24175,
+        "word": "印尼男子按习俗将出轨妻子交予情夫",
+        "onboard_time": 1760004022,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24092,
+        "num": 24092,
+        "word": "宴遇永安",
+        "onboard_time": 1760008640,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23801,
+        "num": 23801,
+        "word": "连续三天11点入睡的感受",
+        "onboard_time": 1760005221,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 23749,
+        "num": 23749,
+        "word": "中国人挤满国外景区游客发声",
+        "onboard_time": 1760017162,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23552,
+        "num": 23552,
+        "word": "乌兰被查",
+        "onboard_time": 1760013441,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18221,
+        "num": 23551,
+        "word": "锂电池出口管制",
+        "onboard_time": 1760006481,
+        "rank": 29,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 23102,
+        "num": 23546,
+        "word": "T1全队发博",
+        "onboard_time": 1760019081,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20475,
+        "num": 23540,
+        "word": "南昌遭误会被打扇子哥已离职",
+        "onboard_time": 1760014522,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20211,
+        "num": 23540,
+        "word": "这种零食其实是热量炸弹",
+        "onboard_time": 1760024301,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20165,
+        "num": 23533,
+        "word": "女子高反被救母亲首发声",
+        "onboard_time": 1760023161,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19140,
+        "num": 23532,
+        "word": "一人食被歧视韩国网友怒了",
+        "onboard_time": 1760004801,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18834,
+        "num": 23528,
+        "word": "男孩因不给买新手机商场撒泼",
+        "onboard_time": 1760010801,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17997,
+        "num": 23523,
+        "word": "月鳞绮纪",
+        "onboard_time": 1760014762,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17542,
+        "num": 23521,
+        "word": "周杰伦上海演唱会",
+        "onboard_time": 1760017281,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16867,
+        "num": 23516,
+        "word": "十个勤天万里长歌",
+        "onboard_time": 1760030596,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16492,
+        "num": 23510,
+        "word": "iG全员回国",
+        "onboard_time": 1760009901,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16376,
+        "num": 23509,
+        "word": "李煜东 每周登微博带来一个坏消息",
+        "onboard_time": 1760004741,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16043,
+        "num": 23505,
+        "word": "沈皓辰出现自闭症状",
+        "onboard_time": 1760018602,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15508,
+        "num": 23498,
+        "word": "李昀锐 林百草",
+        "onboard_time": 1760013502,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15200,
+        "num": 23498,
+        "word": "何炅喜提最佳综艺主持人",
+        "onboard_time": 1760016321,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14607,
+        "num": 23494,
+        "word": "陈飞宇展示帅哥朋友圈",
+        "onboard_time": 1760022560,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14000,
+        "num": 23490,
+        "word": "我请狂野时代吃吃喝喝",
+        "onboard_time": 1760028197,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13743,
+        "num": 23483,
+        "word": "夏以昼",
+        "onboard_time": 1760019741,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13818,
+        "num": 23479,
+        "word": "李昀锐古装",
+        "onboard_time": 1760023762,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13229,
+        "num": 23477,
+        "word": "李沁坦诚度",
+        "onboard_time": 1760024959,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13176,
+        "num": 23473,
+        "word": "吴磊背着网球拍机场出发",
+        "onboard_time": 1760024001,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席全球妇女峰会开幕式#"
+    }
+  }
+}

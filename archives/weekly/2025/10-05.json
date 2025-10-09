@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1760031676484,
+  "endTime": 1760034970650,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -12459,6 +12459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96942,
+      "num": 54707,
+      "word": "石原里美3年生2娃",
+      "onboard_time": 1760031376,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96867,
       "num": 96867,
       "word": "邓佳鑫专场上座率",
@@ -14547,6 +14555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 73903,
+      "num": 54717,
+      "word": "陈哲远回应吻戏嘴巴干",
+      "onboard_time": 1760030297,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73721,
       "num": 111294,
       "word": "S15宣传片回忆杀",
@@ -15851,6 +15867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40548,
+      "num": 54700,
+      "word": "许我耀眼36.6%",
+      "onboard_time": 1760031436,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40126,
       "num": 69589,
       "word": "电影毕正明的证明",
@@ -15993,14 +16017,6 @@
       "onboard_time": 1759741400,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35217,
-      "num": 54717,
-      "word": "陈哲远回应吻戏嘴巴干",
-      "onboard_time": 1760030297,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 34884,
@@ -16171,14 +16187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30738,
-      "num": 54707,
-      "word": "石原里美3年生2娃",
-      "onboard_time": 1760031376,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 30589,
       "num": 44626,
       "word": "9月A股市场成交额刷新历史纪录",
@@ -16329,14 +16337,6 @@
       "onboard_time": 1759869074,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 26269,
-      "num": 54700,
-      "word": "许我耀眼36.6%",
-      "onboard_time": 1760031436,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 26046,
