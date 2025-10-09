@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760048586420,
+  "endTime": 1760049593016,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -6067,6 +6067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 299759,
+      "num": 299759,
+      "word": "知情人士称宗馥莉正常上班",
+      "onboard_time": 1760040494,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299617,
       "num": 299617,
       "word": "什么东西是早买早享受的",
@@ -8225,14 +8233,6 @@
       "onboard_time": 1759467621,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218515,
-      "num": 218515,
-      "word": "知情人士称宗馥莉正常上班",
-      "onboard_time": 1760040494,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 218453,
@@ -12951,6 +12951,14 @@
       "num": 151513,
       "word": "阿那亚偶遇杨洋了",
       "onboard_time": 1759484901,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 151454,
+      "num": 57810,
+      "word": "石原里美3年生2娃",
+      "onboard_time": 1760031376,
       "rank": 33,
       "category": "艺人"
     },
@@ -21379,14 +21387,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 99949,
-      "num": 54707,
-      "word": "石原里美3年生2娃",
-      "onboard_time": 1760031376,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 99882,
       "num": 99882,
       "word": "花少7小考完全是张晚意的舒适区",
@@ -29587,6 +29587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24310,
+      "num": 29869,
+      "word": "洛杉矶最严重火灾纵火嫌疑人被捕",
+      "onboard_time": 1760037793,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 24223,
       "num": 54696,
       "word": "展轩晒文旅推荐官聘书",
@@ -29657,6 +29665,14 @@
       "onboard_time": 1759524014,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 23079,
+      "num": 29856,
+      "word": "我对世界的态度就宋祖儿这样",
+      "onboard_time": 1760048714,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 22873,
@@ -29867,6 +29883,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 18621,
+      "num": 29794,
+      "word": "店家得打电话逐字确认好几遍",
+      "onboard_time": 1760035993,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 18587,
       "num": 29603,
       "word": "当女朋友知道我有强迫症后",
@@ -29881,14 +29905,6 @@
       "onboard_time": 1759673663,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 18387,
-      "num": 22804,
-      "word": "洛杉矶最严重火灾纵火嫌疑人被捕",
-      "onboard_time": 1760037793,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 18205,
@@ -29921,6 +29937,14 @@
       "onboard_time": 1759430116,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 17605,
+      "num": 29791,
+      "word": "王一博见证赛场上每一个高光时刻",
+      "onboard_time": 1760043014,
+      "rank": 37,
+      "category": "音乐,体育"
     },
     {
       "raw_hot": 17207,
@@ -30035,12 +30059,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15557,
-      "num": 22798,
-      "word": "店家得打电话逐字确认好几遍",
-      "onboard_time": 1760035993,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 15372,
+      "num": 29761,
+      "word": "外交部回应美国抹黑中美教育交流",
+      "onboard_time": 1760037313,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15228,
@@ -30049,6 +30073,14 @@
       "onboard_time": 1759889239,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14863,
+      "num": 29733,
+      "word": "穿秋裤",
+      "onboard_time": 1760048418,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14794,
@@ -30073,14 +30105,6 @@
       "onboard_time": 1759953854,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 14628,
-      "num": 22795,
-      "word": "王一博见证赛场上每一个高光时刻",
-      "onboard_time": 1760043014,
-      "rank": 37,
-      "category": "音乐,体育"
     },
     {
       "raw_hot": 14446,
@@ -30131,14 +30155,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13999,
-      "num": 22792,
-      "word": "外交部回应美国抹黑中美教育交流",
-      "onboard_time": 1760037313,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 13901,
       "num": 595463,
       "word": "人间好时节",
@@ -30179,8 +30195,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13345,
-      "num": 22777,
+      "raw_hot": 13397,
+      "num": 29702,
       "word": "中方回应中印恢复直航",
       "onboard_time": 1760039775,
       "rank": 42,
@@ -30256,14 +30272,6 @@
       "word": "731毒气实验室成玩具历史不容儿戏",
       "onboard_time": 1759588403,
       "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11598,
-      "num": 22771,
-      "word": "穿秋裤",
-      "onboard_time": 1760048418,
-      "rank": 48,
       "category": "民生新闻"
     },
     {

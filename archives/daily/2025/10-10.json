@@ -1,6 +1,6 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760048586420,
+  "endTime": 1760049593016,
   "band_list": [
     {
       "raw_hot": 751291,
@@ -27,6 +27,14 @@
       "category": "动漫,休闲"
     },
     {
+      "raw_hot": 490589,
+      "num": 517400,
+      "word": "新加坡双尸案女儿是剑桥博士疑饿死",
+      "onboard_time": 1760019980,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 419669,
       "num": 419669,
       "word": "母亲回应网传女儿高反被搭子抛弃",
@@ -43,20 +51,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 323203,
-      "num": 401782,
-      "word": "新加坡双尸案女儿是剑桥博士疑饿死",
-      "onboard_time": 1760019980,
-      "rank": 6,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 301357,
       "num": 222860,
       "word": "许妍沈皓明生理性喜欢",
       "onboard_time": 1760022200,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299759,
+      "num": 299759,
+      "word": "知情人士称宗馥莉正常上班",
+      "onboard_time": 1760040494,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296520,
@@ -91,14 +99,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218515,
-      "num": 218515,
-      "word": "知情人士称宗馥莉正常上班",
-      "onboard_time": 1760040494,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188494,
       "num": 99845,
       "word": "高反失温女孩年仅20岁刚毕业",
@@ -113,6 +113,14 @@
       "onboard_time": 1760025621,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151454,
+      "num": 57810,
+      "word": "石原里美3年生2娃",
+      "onboard_time": 1760031376,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 141921,
@@ -177,14 +185,6 @@
       "onboard_time": 1760005402,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 99949,
-      "num": 54707,
-      "word": "石原里美3年生2娃",
-      "onboard_time": 1760031376,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 76113,
@@ -475,6 +475,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 24310,
+      "num": 29869,
+      "word": "洛杉矶最严重火灾纵火嫌疑人被捕",
+      "onboard_time": 1760037793,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 24223,
       "num": 54696,
       "word": "展轩晒文旅推荐官聘书",
@@ -483,40 +491,56 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18387,
-      "num": 22804,
-      "word": "洛杉矶最严重火灾纵火嫌疑人被捕",
-      "onboard_time": 1760037793,
-      "rank": 42,
-      "category": "海外新闻"
+      "raw_hot": 23079,
+      "num": 29856,
+      "word": "我对世界的态度就宋祖儿这样",
+      "onboard_time": 1760048714,
+      "rank": 34,
+      "category": "艺人"
     },
     {
-      "raw_hot": 15557,
-      "num": 22798,
+      "raw_hot": 18621,
+      "num": 29794,
       "word": "店家得打电话逐字确认好几遍",
       "onboard_time": 1760035993,
       "rank": 30,
       "category": "幽默"
     },
     {
-      "raw_hot": 14628,
-      "num": 22795,
+      "raw_hot": 17605,
+      "num": 29791,
       "word": "王一博见证赛场上每一个高光时刻",
       "onboard_time": 1760043014,
       "rank": 37,
       "category": "音乐,体育"
     },
     {
-      "raw_hot": 13999,
-      "num": 22792,
+      "raw_hot": 15372,
+      "num": 29761,
       "word": "外交部回应美国抹黑中美教育交流",
       "onboard_time": 1760037313,
       "rank": 48,
       "category": "国内时政"
     },
     {
-      "raw_hot": 13345,
-      "num": 22777,
+      "raw_hot": 14863,
+      "num": 29733,
+      "word": "穿秋裤",
+      "onboard_time": 1760048418,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14030,
+      "num": 29714,
+      "word": "今年双11开始了",
+      "onboard_time": 1760013260,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 13397,
+      "num": 29702,
       "word": "中方回应中印恢复直航",
       "onboard_time": 1760039775,
       "rank": 42,
@@ -537,14 +561,6 @@
       "onboard_time": 1760037134,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11598,
-      "num": 22771,
-      "word": "穿秋裤",
-      "onboard_time": 1760048418,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11540,
