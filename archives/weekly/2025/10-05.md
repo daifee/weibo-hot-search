@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/10 04:28:57
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/10 04:41:24
 </p>
 </blockquote>
 <p>
@@ -12387,6 +12387,12 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%AE%97%E9%A6%A5%E8%8E%89%E6%AD%A3%E5%B8%B8%E4%B8%8A%E7%8F%AD%23" target="weibo">
+知情人士称宗馥莉正常上班（热度：21325）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E5%BC%80%E8%A2%AB%E6%92%9E%E7%83%82%E7%9A%84%E8%BD%A6%E5%8E%BB%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 男子回应开被撞烂的车去音乐节（热度：20270）
 </a>
@@ -12465,6 +12471,12 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E6%9C%80%E4%B8%A5%E9%87%8D%E7%81%AB%E7%81%BE%E7%BA%B5%E7%81%AB%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8D%95%23" target="weibo">
+洛杉矶最严重火灾纵火嫌疑人被捕（热度：17152）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%8D%E6%83%B3%E5%90%AC%E5%88%B08%E8%BF%99%E4%B8%AA%E5%AD%97%23" target="weibo">
 我不想听到8这个字（热度：16959）
 </a>
@@ -12479,12 +12491,6 @@ CP2025SP（热度：26632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%AE%8B%E8%81%94%E6%8E%A8%E8%8D%90%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%23" target="weibo">
 上海残联推荐震耳欲聋（热度：16339）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E6%9C%80%E4%B8%A5%E9%87%8D%E7%81%AB%E7%81%BE%E7%BA%B5%E7%81%AB%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8D%95%23" target="weibo">
-洛杉矶最严重火灾纵火嫌疑人被捕（热度：16293）
 </a>
 </li>
 
@@ -12573,6 +12579,18 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%8D%B0%E6%81%A2%E5%A4%8D%E7%9B%B4%E8%88%AA%23" target="weibo">
+中方回应中印恢复直航（热度：12862）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8A%B9%E9%BB%91%E4%B8%AD%E7%BE%8E%E6%95%99%E8%82%B2%E4%BA%A4%E6%B5%81%23" target="weibo">
+外交部回应美国抹黑中美教育交流（热度：12741）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E6%BC%94%E7%9D%80%E6%BC%94%E7%9D%80%E6%9C%AC%E4%BD%93%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
 侯明昊演着演着本体出来了（热度：12671）
 </a>
@@ -12615,12 +12633,6 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8A%B9%E9%BB%91%E4%B8%AD%E7%BE%8E%E6%95%99%E8%82%B2%E4%BA%A4%E6%B5%81%23" target="weibo">
-外交部回应美国抹黑中美教育交流（热度：11616）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%B0%86%E5%BC%80%E5%B1%95%E8%81%94%E5%90%88%E5%AE%9E%E5%85%B5%E6%BC%94%E7%BB%83%23" target="weibo">
 中国马来西亚将开展联合实兵演练（热度：11549）
 </a>
@@ -12639,6 +12651,12 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%20%E9%BB%84%E7%B2%B1%E6%A2%A6%23" target="weibo">
+入青云 黄粱梦（热度：11193）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E4%B9%88%E9%BA%BB%E8%BE%BE%23" target="weibo">
 刘宇宁么麻达（热度：11163）
 </a>
@@ -12651,32 +12669,14 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%20%E9%BB%84%E7%B2%B1%E6%A2%A6%23" target="weibo">
-入青云 黄粱梦（热度：11123）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%8D%B0%E6%81%A2%E5%A4%8D%E7%9B%B4%E8%88%AA%23" target="weibo">
-中方回应中印恢复直航（热度：11121）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%BF%83%E5%8D%8F%E5%8A%9B%E5%85%B1%E8%A5%84%E4%BC%9F%E4%B8%9A%23" target="weibo">
 同心协力共襄伟业（热度：10850）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%AE%97%E9%A6%A5%E8%8E%89%E6%AD%A3%E5%B8%B8%E4%B8%8A%E7%8F%AD%23" target="weibo">
-知情人士称宗馥莉正常上班（热度：10767）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E9%BA%A6%E5%BE%B7%E5%A7%86%E8%87%B4%E8%B6%8A%E5%8D%9710%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
-台风麦德姆致越南10人死亡（热度：10050）
+台风麦德姆致越南10人死亡（热度：10605）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760041737034,
+  "endTime": 1760042484213,
   "band_list": [
     {
       "raw_hot": 751291,
@@ -475,7 +475,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16293,
+      "raw_hot": 21325,
+      "num": 21325,
+      "word": "知情人士称宗馥莉正常上班",
+      "onboard_time": 1760040494,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17152,
       "num": 21005,
       "word": "洛杉矶最严重火灾纵火嫌疑人被捕",
       "onboard_time": 1760037793,
@@ -491,6 +499,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 12862,
+      "num": 14420,
+      "word": "中方回应中印恢复直航",
+      "onboard_time": 1760039775,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12741,
+      "num": 20996,
+      "word": "外交部回应美国抹黑中美教育交流",
+      "onboard_time": 1760037313,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12098,
       "num": 21017,
       "word": "外交部回应美机构抹黑中国",
@@ -499,12 +523,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11616,
-      "num": 20996,
-      "word": "外交部回应美国抹黑中美教育交流",
-      "onboard_time": 1760037313,
-      "rank": 48,
-      "category": "国内时政"
+      "raw_hot": 11193,
+      "num": 20998,
+      "word": "入青云 黄粱梦",
+      "onboard_time": 1760036173,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 11163,
@@ -515,31 +539,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 11123,
-      "num": 20998,
-      "word": "入青云 黄粱梦",
-      "onboard_time": 1760036173,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 11121,
-      "num": 14420,
-      "word": "中方回应中印恢复直航",
-      "onboard_time": 1760039775,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 10767,
-      "num": 14420,
-      "word": "知情人士称宗馥莉正常上班",
-      "onboard_time": 1760040494,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10050,
+      "raw_hot": 10605,
       "num": 14412,
       "word": "台风麦德姆致越南10人死亡",
       "onboard_time": 1760039775,
