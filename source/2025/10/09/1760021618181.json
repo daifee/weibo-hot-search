@@ -1,0 +1,410 @@
+{
+  "runTime": 1760021618181,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1639171,
+        "num": 1639171,
+        "word": "新加坡现父女双尸案",
+        "onboard_time": 1760016380,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 417518,
+        "num": 417518,
+        "word": "中国人挤满国外景区游客发声",
+        "onboard_time": 1760017162,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20336,
+        "num": 348032,
+        "word": "8天国内出游8.88亿人次",
+        "onboard_time": 1759984822,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 345301,
+        "num": 345301,
+        "word": "乌兰被查",
+        "onboard_time": 1760013441,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 557008,
+        "num": 300368,
+        "word": "鸡排哥休息日变饭撒日",
+        "onboard_time": 1760016380,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234337,
+        "num": 234337,
+        "word": "腾讯视频账号6次超限或面临封号",
+        "onboard_time": 1760005402,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 208647,
+        "num": 208647,
+        "word": "新加坡双尸案女儿是剑桥博士疑饿死",
+        "onboard_time": 1760019980,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 258255,
+        "num": 206000,
+        "word": "南昌遭误会被打扇子哥已离职",
+        "onboard_time": 1760014522,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201177,
+        "num": 201177,
+        "word": "T1全队发博",
+        "onboard_time": 1760019081,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188070,
+        "num": 188070,
+        "word": "以色列发出警告",
+        "onboard_time": 1760017822,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 532263,
+        "num": 187935,
+        "word": "每天练背6分钟就是回报率最高的运动",
+        "onboard_time": 1760019562,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 401504,
+        "num": 178657,
+        "word": "何炅喜提最佳综艺主持人",
+        "onboard_time": 1760016321,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214203,
+        "num": 173564,
+        "word": "女子结婚为省钱到美甲店打金手镯",
+        "onboard_time": 1760001681,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208649,
+        "num": 168226,
+        "word": "沈皓辰出现自闭症状",
+        "onboard_time": 1760018602,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166759,
+        "num": 166759,
+        "word": "李昀锐 林百草",
+        "onboard_time": 1760013502,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159665,
+        "num": 159665,
+        "word": "Faker微博更新",
+        "onboard_time": 1760015842,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131624,
+        "num": 131624,
+        "word": "购置税",
+        "onboard_time": 1760002039,
+        "rank": 16,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 124483,
+        "num": 124483,
+        "word": "夏以昼",
+        "onboard_time": 1760019741,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123389,
+        "num": 123389,
+        "word": "惠英红 你看你的女儿很争气",
+        "onboard_time": 1760018302,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121207,
+        "num": 121207,
+        "word": "月鳞绮纪",
+        "onboard_time": 1760014762,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277319,
+        "num": 119526,
+        "word": "建议女生洗完头不要包头发",
+        "onboard_time": 1760010080,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144168,
+        "num": 119458,
+        "word": "连续三天11点入睡的感受",
+        "onboard_time": 1760005221,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129581,
+        "num": 119197,
+        "word": "男子中959万大奖狂欢8周险丧命",
+        "onboard_time": 1760007502,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115663,
+        "num": 115663,
+        "word": "曾舜晞确认被爱",
+        "onboard_time": 1760015780,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115428,
+        "num": 115428,
+        "word": "张帅vs高芙",
+        "onboard_time": 1760019383,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112486,
+        "num": 112486,
+        "word": "一人食被歧视韩国网友怒了",
+        "onboard_time": 1760004801,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114593,
+        "num": 112390,
+        "word": "蘑菇屋群名",
+        "onboard_time": 1760018481,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110421,
+        "num": 110421,
+        "word": "蘑菇屋全员祝张艺兴演唱会顺利",
+        "onboard_time": 1760021424,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108999,
+        "num": 108999,
+        "word": "赣州银河左岸首批阵容",
+        "onboard_time": 1760015121,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105657,
+        "num": 105657,
+        "word": "TTG战胜RW",
+        "onboard_time": 1760021361,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197441,
+        "num": 105518,
+        "word": "旧金山街头像丧尸大片",
+        "onboard_time": 1760020822,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105301,
+        "num": 105301,
+        "word": "男孩因不给买新手机商场撒泼",
+        "onboard_time": 1760010801,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104449,
+        "num": 104449,
+        "word": "刘雨昕周震南终于不用藏了",
+        "onboard_time": 1760016082,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99049,
+        "num": 99049,
+        "word": "周杰伦上海演唱会",
+        "onboard_time": 1760017281,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93028,
+        "num": 93028,
+        "word": "宴遇永安",
+        "onboard_time": 1760008640,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57885,
+        "num": 90547,
+        "word": "锂电池出口管制",
+        "onboard_time": 1760006481,
+        "rank": 35,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 90496,
+        "num": 90496,
+        "word": "iG全员回国",
+        "onboard_time": 1760009901,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87957,
+        "num": 87957,
+        "word": "苏翊鸣世界第一个背靠背1980",
+        "onboard_time": 1760020402,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85477,
+        "num": 85477,
+        "word": "短道速滑",
+        "onboard_time": 1760019141,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27522,
+        "num": 80645,
+        "word": "广西多地被淹直击消防救援",
+        "onboard_time": 1760021542,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80618,
+        "num": 80618,
+        "word": "卢昱晓神女拉弓镜头",
+        "onboard_time": 1760014220,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49932,
+        "num": 79683,
+        "word": "17岁学徒工杀人疑云",
+        "onboard_time": 1760020341,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79559,
+        "num": 79559,
+        "word": "李煜东 每周登微博带来一个坏消息",
+        "onboard_time": 1760004741,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79019,
+        "num": 79019,
+        "word": "今年双11开始了",
+        "onboard_time": 1760013260,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 78977,
+        "num": 78977,
+        "word": "网传极氪CBO关海涛已离职",
+        "onboard_time": 1760018422,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 74729,
+        "num": 74729,
+        "word": "印尼男子按习俗将出轨妻子交予情夫",
+        "onboard_time": 1760004022,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69049,
+        "num": 69049,
+        "word": "王珂 下一顺位是她冠军",
+        "onboard_time": 1760015842,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67259,
+        "num": 67259,
+        "word": "肖战巴黎广告拍摄路透",
+        "onboard_time": 1760013562,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64756,
+        "num": 64756,
+        "word": "四川新龙5.4级地震",
+        "onboard_time": 1759987881,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 58056,
+        "num": 64738,
+        "word": "地铁下班后去哪",
+        "onboard_time": 1760020462,
+        "rank": 49,
+        "category": "旅游,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席全球妇女峰会开幕式#"
+    }
+  }
+}

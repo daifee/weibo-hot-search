@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760019994812,
+  "endTime": 1760021618181,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -257,6 +257,14 @@
       "onboard_time": 1759540878,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1639171,
+      "num": 1639171,
+      "word": "新加坡现父女双尸案",
+      "onboard_time": 1760016380,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1628768,
@@ -569,14 +577,6 @@
       "onboard_time": 1759655781,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1285951,
-      "num": 1285951,
-      "word": "新加坡现父女双尸案",
-      "onboard_time": 1760016380,
-      "rank": 31,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1285241,
@@ -2763,6 +2763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 557008,
+      "num": 366575,
+      "word": "鸡排哥休息日变饭撒日",
+      "onboard_time": 1760016380,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 556681,
       "num": 556681,
       "word": "29岁失联男子毕业于211院校",
@@ -3041,6 +3049,14 @@
       "onboard_time": 1759890440,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 532263,
+      "num": 200556,
+      "word": "每天练背6分钟就是回报率最高的运动",
+      "onboard_time": 1760019562,
+      "rank": 12,
+      "category": "运动健身"
     },
     {
       "raw_hot": 530004,
@@ -4227,6 +4243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 417518,
+      "num": 417518,
+      "word": "中国人挤满国外景区游客发声",
+      "onboard_time": 1760017162,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 417008,
       "num": 417008,
       "word": "堵车",
@@ -4505,14 +4529,6 @@
       "onboard_time": 1759754544,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 389998,
-      "num": 200556,
-      "word": "每天练背6分钟就是回报率最高的运动",
-      "onboard_time": 1760019562,
-      "rank": 12,
-      "category": "运动健身"
     },
     {
       "raw_hot": 389679,
@@ -4897,14 +4913,6 @@
       "onboard_time": 1759374499,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 366575,
-      "num": 366575,
-      "word": "鸡排哥休息日变饭撒日",
-      "onboard_time": 1760016380,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 365767,
@@ -6523,6 +6531,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 277319,
+      "num": 174953,
+      "word": "建议女生洗完头不要包头发",
+      "onboard_time": 1760010080,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 277262,
       "num": 191229,
       "word": "王楚钦背着小书包回家",
@@ -6803,14 +6819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265858,
-      "num": 174953,
-      "word": "建议女生洗完头不要包头发",
-      "onboard_time": 1760010080,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 265094,
       "num": 134827,
       "word": "被得力辞退跛脚员工再发声",
@@ -7089,14 +7097,6 @@
       "onboard_time": 1759759704,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 252613,
-      "num": 252613,
-      "word": "中国人挤满国外景区游客发声",
-      "onboard_time": 1760017162,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 252556,
@@ -8132,7 +8132,7 @@
     },
     {
       "raw_hot": 219218,
-      "num": 193608,
+      "num": 201177,
       "word": "T1全队发博",
       "onboard_time": 1760019081,
       "rank": 14,
@@ -8497,6 +8497,22 @@
       "onboard_time": 1759894040,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208649,
+      "num": 168226,
+      "word": "沈皓辰出现自闭症状",
+      "onboard_time": 1760018602,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 208647,
+      "num": 208647,
+      "word": "新加坡双尸案女儿是剑桥博士疑饿死",
+      "onboard_time": 1760019980,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 208529,
@@ -9113,6 +9129,14 @@
       "onboard_time": 1759978159,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 197441,
+      "num": 105518,
+      "word": "旧金山街头像丧尸大片",
+      "onboard_time": 1760020822,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 197422,
@@ -9833,6 +9857,14 @@
       "onboard_time": 1759916841,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188070,
+      "num": 188070,
+      "word": "以色列发出警告",
+      "onboard_time": 1760017822,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 187577,
@@ -13603,6 +13635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144168,
+      "num": 124108,
+      "word": "连续三天11点入睡的感受",
+      "onboard_time": 1760005221,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 144119,
       "num": 144119,
       "word": "白敬亭王安宇你俩怎么笑成这样",
@@ -16243,6 +16283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 124483,
+      "num": 124483,
+      "word": "夏以昼",
+      "onboard_time": 1760019741,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 124464,
       "num": 124464,
       "word": "孙颖莎憋笑打完最后一球",
@@ -16289,14 +16337,6 @@
       "onboard_time": 1759716320,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124108,
-      "num": 124108,
-      "word": "连续三天11点入睡的感受",
-      "onboard_time": 1760005221,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 124055,
@@ -17651,6 +17691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115428,
+      "num": 115428,
+      "word": "张帅vs高芙",
+      "onboard_time": 1760019383,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115386,
       "num": 115386,
       "word": "刺杀小说家在刺杀谁",
@@ -17801,6 +17849,14 @@
       "onboard_time": 1759477041,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114593,
+      "num": 112390,
+      "word": "蘑菇屋群名",
+      "onboard_time": 1760018481,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 114545,
@@ -18291,14 +18347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112219,
-      "num": 112219,
-      "word": "以色列发出警告",
-      "onboard_time": 1760017822,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 112113,
       "num": 112113,
       "word": "战斧导弹射程覆盖莫斯科",
@@ -18737,6 +18785,14 @@
       "onboard_time": 1759827621,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110421,
+      "num": 110421,
+      "word": "蘑菇屋全员祝张艺兴演唱会顺利",
+      "onboard_time": 1760021424,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 110412,
@@ -19977,6 +20033,14 @@
       "onboard_time": 1759557621,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105657,
+      "num": 105657,
+      "word": "TTG战胜RW",
+      "onboard_time": 1760021361,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 105574,
@@ -21859,14 +21923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96994,
-      "num": 96994,
-      "word": "蘑菇屋群名",
-      "onboard_time": 1760018481,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96920,
       "num": 96920,
       "word": "孙颖莎王楚钦的手茧好明显",
@@ -23723,6 +23779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 87957,
+      "num": 87957,
+      "word": "苏翊鸣世界第一个背靠背1980",
+      "onboard_time": 1760020402,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87897,
       "num": 87897,
       "word": "每个月最愤怒的两笔花销",
@@ -24217,14 +24281,6 @@
       "onboard_time": 1759570461,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 85567,
-      "num": 85567,
-      "word": "张帅vs高芙",
-      "onboard_time": 1760019383,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 85527,
@@ -25363,6 +25419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 78977,
+      "num": 78977,
+      "word": "网传极氪CBO关海涛已离职",
+      "onboard_time": 1760018422,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 78895,
       "num": 78895,
       "word": "王楚钦每年2个大满贯单打冠军",
@@ -25867,14 +25931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75004,
-      "num": 75004,
-      "word": "夏以昼",
-      "onboard_time": 1760019741,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 74998,
       "num": 129925,
       "word": "杨瀚森首个助攻",
@@ -26259,14 +26315,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 70736,
-      "num": 70736,
-      "word": "网传极氪CBO关海涛已离职",
-      "onboard_time": 1760018422,
-      "rank": 44,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 70710,
       "num": 70710,
       "word": "王楚钦鹰眼挑战失败",
@@ -26417,14 +26465,6 @@
       "onboard_time": 1759243222,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 68743,
-      "num": 68743,
-      "word": "新加坡双尸案女儿是剑桥博士疑饿死",
-      "onboard_time": 1760019980,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 68724,
@@ -27235,6 +27275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 58056,
+      "num": 64738,
+      "word": "地铁下班后去哪",
+      "onboard_time": 1760020462,
+      "rank": 49,
+      "category": "旅游,民生新闻"
+    },
+    {
       "raw_hot": 57926,
       "num": 88182,
       "word": "景区回应180斤游客被卡石缝",
@@ -27761,6 +27809,14 @@
       "onboard_time": 1759769539,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 49932,
+      "num": 79683,
+      "word": "17岁学徒工杀人疑云",
+      "onboard_time": 1760020341,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49479,
@@ -29089,6 +29145,14 @@
       "onboard_time": 1759734440,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27522,
+      "num": 80645,
+      "word": "广西多地被淹直击消防救援",
+      "onboard_time": 1760021542,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27181,
