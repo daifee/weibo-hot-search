@@ -1,6 +1,6 @@
 {
   "startTime": 1759941149301,
-  "endTime": 1759984217959,
+  "endTime": 1759984998176,
   "band_list": [
     {
       "raw_hot": 1676027,
@@ -43,8 +43,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1018453,
+      "num": 278897,
+      "word": "胡先煦 我有一儿一女两只猫",
+      "onboard_time": 1759981701,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 978163,
+      "num": 278814,
+      "word": "范世琦成都站演唱会取消",
+      "onboard_time": 1759983502,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 936221,
-      "num": 274402,
+      "num": 278424,
       "word": "刘萧旭疑似结婚了",
       "onboard_time": 1759973658,
       "rank": 10,
@@ -67,14 +83,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 732944,
-      "num": 258177,
-      "word": "胡先煦 我有一儿一女两只猫",
-      "onboard_time": 1759981701,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 634182,
       "num": 634182,
       "word": "老板误把油当饮料卖好奇咋没人找",
@@ -91,16 +99,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 541653,
-      "num": 256884,
-      "word": "范世琦成都站演唱会取消",
-      "onboard_time": 1759983502,
-      "rank": 12,
-      "category": "演出"
-    },
-    {
       "raw_hot": 515103,
-      "num": 259311,
+      "num": 278605,
       "word": "刘亦菲小时候的珍贵影像",
       "onboard_time": 1759980439,
       "rank": 13,
@@ -131,8 +131,8 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 419621,
-      "num": 419621,
+      "raw_hot": 461072,
+      "num": 461072,
       "word": "本周上三休一",
       "onboard_time": 1759982180,
       "rank": 6,
@@ -161,6 +161,14 @@
       "onboard_time": 1759975099,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 380734,
+      "num": 278546,
+      "word": "成毅天地剑心过审下证",
+      "onboard_time": 1759983202,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 358739,
@@ -203,6 +211,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 332015,
+      "num": 332015,
+      "word": "国庆去韩国的人后悔了吗",
+      "onboard_time": 1759980138,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322344,
       "num": 322344,
       "word": "疑似马来西亚失联二人照片曝光",
@@ -219,12 +235,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 307107,
-      "num": 255375,
-      "word": "成毅天地剑心过审下证",
-      "onboard_time": 1759983202,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 301661,
+      "num": 278454,
+      "word": "妈妈最爱我们梳的发型出现了",
+      "onboard_time": 1759983502,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 292293,
@@ -243,20 +259,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278902,
+      "num": 278902,
+      "word": "北京冷冷冷冷冷",
+      "onboard_time": 1759981580,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260584,
       "num": 260584,
       "word": "哈马斯发声明",
       "onboard_time": 1759974559,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 255257,
-      "num": 255257,
-      "word": "国庆去韩国的人后悔了吗",
-      "onboard_time": 1759980138,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 250645,
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 249458,
-      "num": 193411,
+      "num": 242389,
       "word": "节后第一天上班建议适度摸鱼",
       "onboard_time": 1759979541,
       "rank": 23,
@@ -281,14 +297,6 @@
       "onboard_time": 1759980439,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 246807,
-      "num": 154082,
-      "word": "妈妈最爱我们梳的发型出现了",
-      "onboard_time": 1759983502,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 244421,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 231984,
-      "num": 186536,
+      "num": 225288,
       "word": "李沁正式加入内娱老弓姐",
       "onboard_time": 1759981040,
       "rank": 23,
@@ -355,12 +363,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 215195,
-      "num": 215195,
-      "word": "北京冷冷冷冷冷",
-      "onboard_time": 1759981580,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 217065,
+      "num": 217065,
+      "word": "狐妖王权篇改名了",
+      "onboard_time": 1759984281,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199417,
+      "num": 199417,
+      "word": "抑郁症多半心脏有问题",
+      "onboard_time": 1759984341,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 197508,
@@ -427,6 +443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 179626,
+      "num": 179626,
+      "word": "杨瀚森季前赛首分",
+      "onboard_time": 1759983502,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177918,
       "num": 177918,
       "word": "64岁演员林俊贤景区打工",
@@ -443,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174798,
+      "num": 174798,
+      "word": "特朗普宣布以色列哈马斯停火幕后",
+      "onboard_time": 1759981040,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 173505,
       "num": 173505,
       "word": "侯明昊出道以来第一次摇人宣传",
@@ -457,6 +489,14 @@
       "onboard_time": 1759977919,
       "rank": 16,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 170044,
+      "num": 170044,
+      "word": "女子将奶茶倒在他人头上后逃跑",
+      "onboard_time": 1759983981,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168155,
@@ -489,14 +529,6 @@
       "onboard_time": 1759907120,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159371,
-      "num": 159371,
-      "word": "特朗普宣布以色列哈马斯停火幕后",
-      "onboard_time": 1759981040,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 157369,
@@ -539,14 +571,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 153398,
-      "num": 153398,
-      "word": "女子将奶茶倒在他人头上后逃跑",
-      "onboard_time": 1759983981,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152652,
       "num": 152652,
       "word": "48岁渔村网红阿霞坠海遇难",
@@ -571,8 +595,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 143777,
-      "num": 143777,
+      "raw_hot": 145173,
+      "num": 145173,
       "word": "加沙居民街头庆祝停火协议达成",
       "onboard_time": 1759982121,
       "rank": 35,
@@ -587,12 +611,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 142105,
-      "num": 147123,
-      "word": "杨瀚森季前赛首分",
-      "onboard_time": 1759983502,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 140256,
+      "num": 140256,
+      "word": "假期国内出游总花费8090.06亿元",
+      "onboard_time": 1759984460,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135726,
@@ -635,12 +659,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132248,
+      "num": 132248,
+      "word": "8天国内出游8.88亿人次",
+      "onboard_time": 1759984822,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 130559,
       "num": 130559,
       "word": "一代人有一代人的正宗标准",
       "onboard_time": 1759979659,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128899,
+      "num": 128899,
+      "word": "人在工位魂没归位",
+      "onboard_time": 1759984162,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 128727,
@@ -691,6 +731,14 @@
       "category": "海外新闻,体育"
     },
     {
+      "raw_hot": 122566,
+      "num": 122566,
+      "word": "王曼昱电话寻人",
+      "onboard_time": 1759981701,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122431,
       "num": 122431,
       "word": "龚俊一个动作让群体沉默",
@@ -721,6 +769,14 @@
       "onboard_time": 1759978819,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119015,
+      "num": 119015,
+      "word": "桂纶镁41岁状态",
+      "onboard_time": 1759984761,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 116193,
@@ -819,20 +875,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 104116,
+      "num": 132410,
+      "word": "迅猛龙建议大家考研",
+      "onboard_time": 1759984822,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 104032,
       "num": 104032,
       "word": "元流之子新职业辅助上线",
       "onboard_time": 1759978639,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 103456,
-      "num": 103456,
-      "word": "人在工位魂没归位",
-      "onboard_time": 1759984162,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 98645,
@@ -995,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78964,
+      "num": 132742,
+      "word": "美军工资发不出来了",
+      "onboard_time": 1759984822,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78473,
       "num": 100066,
       "word": "刘萧旭郭宇欣都哭了",
@@ -1155,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60707,
+      "num": 244221,
+      "word": "张艺凡的早八穿搭有点东西",
+      "onboard_time": 1759981519,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 60009,
       "num": 100110,
       "word": "王嘉尔出席活动被陌生女子捏脸",
@@ -1201,14 +1273,6 @@
       "onboard_time": 1759920800,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56475,
-      "num": 210407,
-      "word": "张艺凡的早八穿搭有点东西",
-      "onboard_time": 1759981519,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 55465,
@@ -1361,6 +1425,14 @@
       "onboard_time": 1759952473,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37595,
+      "num": 242513,
+      "word": "猫人暖绒绒家居服松弛感穿搭",
+      "onboard_time": 1759984460,
+      "rank": 19,
+      "category": "时尚"
     },
     {
       "raw_hot": 35766,

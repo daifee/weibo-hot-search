@@ -1,0 +1,410 @@
+{
+  "runTime": 1759984998176,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1086267,
+        "num": 1173802,
+        "word": "高速免费结束前收费站人员高喊快点",
+        "onboard_time": 1759974559,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1063759,
+        "num": 1063759,
+        "word": "重庆女子打表去内蒙古计价器爆了",
+        "onboard_time": 1759981821,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22414,
+        "num": 774266,
+        "word": "国庆假期值得珍藏的记忆画面",
+        "onboard_time": 1759972819,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 712128,
+        "num": 712128,
+        "word": "大疆",
+        "onboard_time": 1759974618,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 555442,
+        "num": 555442,
+        "word": "男子故意泄密致我国货船在公海被拦",
+        "onboard_time": 1759966759,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461072,
+        "num": 461072,
+        "word": "本周上三休一",
+        "onboard_time": 1759982180,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382461,
+        "num": 382461,
+        "word": "现在冰箱贴发展成这样了吗",
+        "onboard_time": 1759967539,
+        "rank": 6,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 332015,
+        "num": 332015,
+        "word": "国庆去韩国的人后悔了吗",
+        "onboard_time": 1759980138,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329636,
+        "num": 329636,
+        "word": "2025国庆档票房18.35亿",
+        "onboard_time": 1759978819,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278902,
+        "num": 278902,
+        "word": "北京冷冷冷冷冷",
+        "onboard_time": 1759981580,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1018453,
+        "num": 278897,
+        "word": "胡先煦 我有一儿一女两只猫",
+        "onboard_time": 1759981701,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 978163,
+        "num": 278814,
+        "word": "范世琦成都站演唱会取消",
+        "onboard_time": 1759983502,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 552078,
+        "num": 278700,
+        "word": "孟子义太体面了",
+        "onboard_time": 1759976538,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 441189,
+        "num": 278605,
+        "word": "刘亦菲小时候的珍贵影像",
+        "onboard_time": 1759980439,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380734,
+        "num": 278546,
+        "word": "成毅天地剑心过审下证",
+        "onboard_time": 1759983202,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301661,
+        "num": 278454,
+        "word": "妈妈最爱我们梳的发型出现了",
+        "onboard_time": 1759983502,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 278424,
+        "num": 278424,
+        "word": "刘萧旭疑似结婚了",
+        "onboard_time": 1759973658,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247195,
+        "num": 247195,
+        "word": "老板误把油当饮料卖好奇咋没人找",
+        "onboard_time": 1759972400,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60707,
+        "num": 244221,
+        "word": "张艺凡的早八穿搭有点东西",
+        "onboard_time": 1759981519,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37595,
+        "num": 242513,
+        "word": "猫人暖绒绒家居服松弛感穿搭",
+        "onboard_time": 1759984460,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 439256,
+        "num": 242499,
+        "word": "金价",
+        "onboard_time": 1759971260,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 242389,
+        "num": 242389,
+        "word": "节后第一天上班建议适度摸鱼",
+        "onboard_time": 1759979541,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232945,
+        "num": 232945,
+        "word": "对稀土相关技术实施出口管制的决定",
+        "onboard_time": 1759974980,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225288,
+        "num": 225288,
+        "word": "李沁正式加入内娱老弓姐",
+        "onboard_time": 1759981040,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217065,
+        "num": 217065,
+        "word": "狐妖王权篇改名了",
+        "onboard_time": 1759984281,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204741,
+        "num": 204741,
+        "word": "四大伤肝元凶",
+        "onboard_time": 1759975099,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199417,
+        "num": 199417,
+        "word": "抑郁症多半心脏有问题",
+        "onboard_time": 1759984341,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179626,
+        "num": 179626,
+        "word": "杨瀚森季前赛首分",
+        "onboard_time": 1759983502,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174798,
+        "num": 174798,
+        "word": "特朗普宣布以色列哈马斯停火幕后",
+        "onboard_time": 1759981040,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170044,
+        "num": 170044,
+        "word": "女子将奶茶倒在他人头上后逃跑",
+        "onboard_time": 1759983981,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165530,
+        "num": 165530,
+        "word": "假期后劲太大了",
+        "onboard_time": 1759939280,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147079,
+        "num": 147079,
+        "word": "这种小孩才真是玩手机玩的",
+        "onboard_time": 1759983561,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146847,
+        "num": 146847,
+        "word": "二婚的爸被刀的妈阴暗爬行的她",
+        "onboard_time": 1759982240,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145173,
+        "num": 145173,
+        "word": "加沙居民街头庆祝停火协议达成",
+        "onboard_time": 1759982121,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142989,
+        "num": 142989,
+        "word": "原来这就是修为散尽的感觉",
+        "onboard_time": 1759982841,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140256,
+        "num": 140256,
+        "word": "假期国内出游总花费8090.06亿元",
+        "onboard_time": 1759984460,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134538,
+        "num": 134538,
+        "word": "不怪高圆圆是云南美食太香了",
+        "onboard_time": 1759983681,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133585,
+        "num": 133585,
+        "word": "哈马斯发声明",
+        "onboard_time": 1759974559,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78964,
+        "num": 132742,
+        "word": "美军工资发不出来了",
+        "onboard_time": 1759984822,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104116,
+        "num": 132410,
+        "word": "迅猛龙建议大家考研",
+        "onboard_time": 1759984822,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132248,
+        "num": 132248,
+        "word": "8天国内出游8.88亿人次",
+        "onboard_time": 1759984822,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129220,
+        "num": 129220,
+        "word": "方媛自曝预产期",
+        "onboard_time": 1759980980,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128899,
+        "num": 128899,
+        "word": "人在工位魂没归位",
+        "onboard_time": 1759984162,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 99264,
+        "num": 124073,
+        "word": "狂魔哥爆料Fly朋友圈",
+        "onboard_time": 1759983621,
+        "rank": 43,
+        "category": "游戏,电竞"
+      },
+      {
+        "raw_hot": 53797,
+        "num": 122881,
+        "word": "杨瀚森首个助攻",
+        "onboard_time": 1759983621,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122566,
+        "num": 122566,
+        "word": "王曼昱电话寻人",
+        "onboard_time": 1759981701,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119799,
+        "num": 119799,
+        "word": "这个血型天生更易得痔疮",
+        "onboard_time": 1759978159,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119015,
+        "num": 119015,
+        "word": "桂纶镁41岁状态",
+        "onboard_time": 1759984761,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111050,
+        "num": 111050,
+        "word": "日足协高官飞机上看儿童色情视频被抓",
+        "onboard_time": 1759979901,
+        "rank": 48,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 107899,
+        "num": 107899,
+        "word": "吉克隽逸一场演出戴了2斤金属配饰",
+        "onboard_time": 1759983081,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
