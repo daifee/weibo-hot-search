@@ -1,6 +1,6 @@
 {
   "startTime": 1759941149301,
-  "endTime": 1760006691588,
+  "endTime": 1760008939166,
   "band_list": [
     {
       "raw_hot": 9127369,
@@ -147,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 813614,
+      "num": 813614,
+      "word": "女孩没人接2天后发现其父家中离世",
+      "onboard_time": 1760002820,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 805585,
       "num": 227110,
       "word": "王俊凯 抢票",
@@ -211,20 +219,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 618039,
+      "num": 245599,
+      "word": "黄子韬徐艺洋要直播婚礼",
+      "onboard_time": 1760003541,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 606156,
       "num": 582571,
       "word": "亲生儿子多次将母亲遗弃荒野",
       "onboard_time": 1759992502,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 584990,
-      "num": 207873,
-      "word": "黄子韬徐艺洋要直播婚礼",
-      "onboard_time": 1760003541,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 582537,
@@ -243,8 +251,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 574997,
+      "num": 574997,
+      "word": "鸡排哥回应国庆一天的营业额",
+      "onboard_time": 1760006781,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 557175,
-      "num": 207212,
+      "num": 243860,
       "word": "第一次见尺度这么大的剧宣",
       "onboard_time": 1760002640,
       "rank": 12,
@@ -268,18 +284,10 @@
     },
     {
       "raw_hot": 538079,
-      "num": 227888,
+      "num": 235978,
       "word": "女子结婚为省钱到美甲店打金手镯",
       "onboard_time": 1760001681,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 523537,
-      "num": 523537,
-      "word": "女孩没人接2天后发现其父家中离世",
-      "onboard_time": 1760002820,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -467,6 +475,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354533,
+      "num": 354533,
+      "word": "腾讯视频账号6次超限或面临封号",
+      "onboard_time": 1760005402,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 353961,
+      "num": 353961,
+      "word": "趵突泉胖锦鲤病重",
+      "onboard_time": 1760005701,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 353195,
       "num": 353195,
       "word": "加沙停火协议",
@@ -515,12 +539,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295161,
+      "num": 241683,
+      "word": "许我耀眼",
+      "onboard_time": 1760006721,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 292293,
       "num": 292293,
       "word": "对稀土相关技术实施出口管制的决定",
       "onboard_time": 1759974980,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 290329,
+      "num": 240547,
+      "word": "银河左岸莆田阵容",
+      "onboard_time": 1760006121,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 289636,
+      "num": 237489,
+      "word": "龚俊 你给张晚意整这么多",
+      "onboard_time": 1760003361,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 284517,
@@ -699,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210300,
+      "num": 210300,
+      "word": "男子中959万大奖狂欢8周险丧命",
+      "onboard_time": 1760007502,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 209765,
       "num": 209765,
       "word": "印度大阅兵士兵表演旋转步枪",
@@ -715,20 +771,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 208076,
+      "num": 182912,
+      "word": "北电第一offer踢馆失败",
+      "onboard_time": 1760007920,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207330,
       "num": 207330,
       "word": "一笑随歌直播",
       "onboard_time": 1759996581,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 204903,
-      "num": 204903,
-      "word": "银河左岸莆田阵容",
-      "onboard_time": 1760006121,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 197508,
@@ -819,14 +875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182208,
-      "num": 182208,
-      "word": "龚俊 你给张晚意整这么多",
-      "onboard_time": 1760003361,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 181391,
       "num": 227280,
       "word": "阿凡达3内地定档",
@@ -857,6 +905,14 @@
       "onboard_time": 1759983502,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178277,
+      "num": 178277,
+      "word": "安徽六安3.4级地震",
+      "onboard_time": 1760007439,
+      "rank": 21,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 177918,
@@ -897,6 +953,14 @@
       "onboard_time": 1759981040,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 174144,
+      "num": 174144,
+      "word": "一笑随歌是李沁入圈拍过最大尺度戏",
+      "onboard_time": 1760006181,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 173505,
@@ -1067,6 +1131,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 157663,
+      "num": 157663,
+      "word": "宴遇永安开播",
+      "onboard_time": 1760004981,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157369,
       "num": 157369,
       "word": "年轻情侣忘情接吻险从扶梯摔下",
@@ -1091,6 +1163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156786,
+      "num": 130538,
+      "word": "跳河新郎遗体被找到家属发声",
+      "onboard_time": 1760008280,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156039,
       "num": 156039,
       "word": "王牌对王牌",
@@ -1105,6 +1185,14 @@
       "onboard_time": 1759982841,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155274,
+      "num": 155274,
+      "word": "锂电池出口管制",
+      "onboard_time": 1760006481,
+      "rank": 31,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 155190,
@@ -1145,14 +1233,6 @@
       "onboard_time": 1759977259,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 153430,
-      "num": 153430,
-      "word": "宴遇永安开播",
-      "onboard_time": 1760004981,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 152652,
@@ -1251,14 +1331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140287,
-      "num": 140287,
-      "word": "腾讯视频账号6次超限或面临封号",
-      "onboard_time": 1760005402,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 140256,
       "num": 853834,
       "word": "假期国内出游总花费8090.06亿元",
@@ -1275,14 +1347,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 137289,
-      "num": 130575,
-      "word": "一笑随歌是李沁入圈拍过最大尺度戏",
-      "onboard_time": 1760006181,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136731,
       "num": 136731,
       "word": "孙颖莎打字手好快",
@@ -1297,6 +1361,14 @@
       "onboard_time": 1759991000,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135727,
+      "num": 129074,
+      "word": "印尼网红坡",
+      "onboard_time": 1760004501,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 135726,
@@ -1387,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133491,
+      "num": 133491,
+      "word": "一人食被歧视韩国网友怒了",
+      "onboard_time": 1760004801,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 131976,
       "num": 131976,
       "word": "谁说国庆之后没有节",
@@ -1409,14 +1489,6 @@
       "onboard_time": 1759985300,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 130690,
-      "num": 130690,
-      "word": "一人食被歧视韩国网友怒了",
-      "onboard_time": 1760004801,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 130559,
@@ -1595,14 +1667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119912,
-      "num": 107601,
-      "word": "印尼网红坡",
-      "onboard_time": 1760004501,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 119754,
       "num": 119754,
       "word": "发微博vs发朋友圈",
@@ -1689,14 +1753,6 @@
       "onboard_time": 1759968500,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 114322,
-      "num": 114322,
-      "word": "锂电池出口管制",
-      "onboard_time": 1760006481,
-      "rank": 31,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 113644,
@@ -1795,14 +1851,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 109751,
-      "num": 160998,
-      "word": "趵突泉胖锦鲤病重",
-      "onboard_time": 1760005701,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109273,
       "num": 112412,
       "word": "陆虎倒贴也要参加的节目出现了",
@@ -1827,12 +1875,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108576,
+      "num": 108576,
+      "word": "董璇 你问问酒窝同不同意",
+      "onboard_time": 1760008760,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108406,
       "num": 108406,
       "word": "疑似语文和化学谈了",
       "onboard_time": 1759998141,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107796,
+      "num": 107796,
+      "word": "30岁健身一年后身体的变化",
+      "onboard_time": 1760005580,
+      "rank": 44,
+      "category": "运动健身,其它"
     },
     {
       "raw_hot": 107719,
@@ -1857,14 +1921,6 @@
       "onboard_time": 1759965498,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106771,
-      "num": 106771,
-      "word": "30岁健身一年后身体的变化",
-      "onboard_time": 1760005580,
-      "rank": 44,
-      "category": "运动健身,其它"
     },
     {
       "raw_hot": 106368,
@@ -1987,6 +2043,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 96063,
+      "num": 103340,
+      "word": "连续三天11点入睡的感受",
+      "onboard_time": 1760005221,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95635,
       "num": 95635,
       "word": "丁程鑫冷帽眉钉",
@@ -2001,6 +2065,14 @@
       "onboard_time": 1759987820,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 94456,
+      "num": 94456,
+      "word": "iPhone4天线门揭秘",
+      "onboard_time": 1760007502,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 93465,
@@ -2107,6 +2179,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89068,
+      "num": 89068,
+      "word": "陈哲远明爽",
+      "onboard_time": 1760007802,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89016,
       "num": 89016,
       "word": "美官员称加沙战争已经结束",
@@ -2121,6 +2201,14 @@
       "onboard_time": 1759974320,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87959,
+      "num": 87959,
+      "word": "入青云热度破8000",
+      "onboard_time": 1760008760,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 87818,
@@ -2193,6 +2281,22 @@
       "onboard_time": 1759939520,
       "rank": 23,
       "category": "音乐,游戏"
+    },
+    {
+      "raw_hot": 83634,
+      "num": 80953,
+      "word": "坏了真让他养到黑猫警长了",
+      "onboard_time": 1760008280,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 83345,
+      "num": 83345,
+      "word": "纸房子",
+      "onboard_time": 1760008461,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 80943,
@@ -2563,8 +2667,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52716,
+      "num": 103372,
+      "word": "比卢普斯不觉得杨瀚森表现糟",
+      "onboard_time": 1760007920,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52555,
-      "num": 158786,
+      "num": 185455,
       "word": "邓超DUA是什么梗",
       "onboard_time": 1760005460,
       "rank": 29,
@@ -2873,6 +2985,14 @@
       "onboard_time": 1759953553,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9533,
+      "num": 103923,
+      "word": "庄思敏晒巴厘岛婚礼照",
+      "onboard_time": 1760008101,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 9268,

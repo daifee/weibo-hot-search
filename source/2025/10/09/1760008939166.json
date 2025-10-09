@@ -1,0 +1,410 @@
+{
+  "runTime": 1760008939166,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1443004,
+        "num": 1443004,
+        "word": "婚礼当天跳河男子已去世",
+        "onboard_time": 1760003120,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 813614,
+        "num": 813614,
+        "word": "女孩没人接2天后发现其父家中离世",
+        "onboard_time": 1760002820,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75568,
+        "num": 731179,
+        "word": "假期国内出游总花费8090.06亿元",
+        "onboard_time": 1759984460,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 678022,
+        "num": 678022,
+        "word": "购置税",
+        "onboard_time": 1760002039,
+        "rank": 3,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 574997,
+        "num": 574997,
+        "word": "鸡排哥回应国庆一天的营业额",
+        "onboard_time": 1760006781,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450904,
+        "num": 450904,
+        "word": "海底捞小便事件220万判决已生效",
+        "onboard_time": 1759995800,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354533,
+        "num": 354533,
+        "word": "腾讯视频账号6次超限或面临封号",
+        "onboard_time": 1760005402,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 353961,
+        "num": 353961,
+        "word": "趵突泉胖锦鲤病重",
+        "onboard_time": 1760005701,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350598,
+        "num": 350598,
+        "word": "晚8秒下高速被收500元男子发声",
+        "onboard_time": 1759998441,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247377,
+        "num": 247377,
+        "word": "四川新龙5.4级地震",
+        "onboard_time": 1759987881,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 618039,
+        "num": 245599,
+        "word": "黄子韬徐艺洋要直播婚礼",
+        "onboard_time": 1760003541,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359779,
+        "num": 243860,
+        "word": "第一次见尺度这么大的剧宣",
+        "onboard_time": 1760002640,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295161,
+        "num": 241683,
+        "word": "许我耀眼",
+        "onboard_time": 1760006721,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290329,
+        "num": 240547,
+        "word": "银河左岸莆田阵容",
+        "onboard_time": 1760006121,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 289636,
+        "num": 237489,
+        "word": "龚俊 你给张晚意整这么多",
+        "onboard_time": 1760003361,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268876,
+        "num": 235978,
+        "word": "女子结婚为省钱到美甲店打金手镯",
+        "onboard_time": 1760001681,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234960,
+        "num": 234960,
+        "word": "冻干蔬菜脆 油炸",
+        "onboard_time": 1759999102,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 210300,
+        "num": 210300,
+        "word": "男子中959万大奖狂欢8周险丧命",
+        "onboard_time": 1760007502,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 199926,
+        "num": 199926,
+        "word": "女子被判刑后4年3次卡点怀孕",
+        "onboard_time": 1759996221,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46246,
+        "num": 185455,
+        "word": "邓超DUA是什么梗",
+        "onboard_time": 1760005460,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208076,
+        "num": 182912,
+        "word": "北电第一offer踢馆失败",
+        "onboard_time": 1760007920,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178277,
+        "num": 178277,
+        "word": "安徽六安3.4级地震",
+        "onboard_time": 1760007439,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 174144,
+        "num": 174144,
+        "word": "一笑随歌是李沁入圈拍过最大尺度戏",
+        "onboard_time": 1760006181,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157663,
+        "num": 157663,
+        "word": "宴遇永安开播",
+        "onboard_time": 1760004981,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155866,
+        "num": 155866,
+        "word": "考上研究生的难度到底有多大",
+        "onboard_time": 1760005521,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155274,
+        "num": 155274,
+        "word": "锂电池出口管制",
+        "onboard_time": 1760006481,
+        "rank": 25,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 152004,
+        "num": 152004,
+        "word": "女娲新皮肤",
+        "onboard_time": 1759996581,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137909,
+        "num": 137909,
+        "word": "银河左岸",
+        "onboard_time": 1759991181,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134359,
+        "num": 134359,
+        "word": "宴遇永安",
+        "onboard_time": 1760008640,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133491,
+        "num": 133491,
+        "word": "一人食被歧视韩国网友怒了",
+        "onboard_time": 1760004801,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156786,
+        "num": 130538,
+        "word": "跳河新郎遗体被找到家属发声",
+        "onboard_time": 1760008280,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135727,
+        "num": 129074,
+        "word": "印尼网红坡",
+        "onboard_time": 1760004501,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115795,
+        "num": 115795,
+        "word": "印尼男子按习俗将出轨妻子交予情夫",
+        "onboard_time": 1760004022,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110846,
+        "num": 110846,
+        "word": "丁一宇恋情",
+        "onboard_time": 1760001441,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108576,
+        "num": 108576,
+        "word": "董璇 你问问酒窝同不同意",
+        "onboard_time": 1760008760,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107796,
+        "num": 107796,
+        "word": "30岁健身一年后身体的变化",
+        "onboard_time": 1760005580,
+        "rank": 35,
+        "category": "运动健身,其它"
+      },
+      {
+        "raw_hot": 105325,
+        "num": 105325,
+        "word": "智利公司错发123万工资员工被判不退款",
+        "onboard_time": 1759988781,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105138,
+        "num": 105138,
+        "word": "27岁女生月租1500元住进养老院",
+        "onboard_time": 1759995800,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9533,
+        "num": 103923,
+        "word": "庄思敏晒巴厘岛婚礼照",
+        "onboard_time": 1760008101,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52716,
+        "num": 103372,
+        "word": "比卢普斯不觉得杨瀚森表现糟",
+        "onboard_time": 1760007920,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96063,
+        "num": 103340,
+        "word": "连续三天11点入睡的感受",
+        "onboard_time": 1760005221,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103318,
+        "num": 103318,
+        "word": "国产手机厂商集体降价抢跑双十一",
+        "onboard_time": 1760006361,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 94456,
+        "num": 94456,
+        "word": "iPhone4天线门揭秘",
+        "onboard_time": 1760007502,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92851,
+        "num": 92851,
+        "word": "鞠婧祎12年前视频",
+        "onboard_time": 1760006361,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91139,
+        "num": 91139,
+        "word": "美国全球疯狂寻找大豆买家",
+        "onboard_time": 1760000179,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89068,
+        "num": 89068,
+        "word": "陈哲远明爽",
+        "onboard_time": 1760007802,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88972,
+        "num": 88972,
+        "word": "李煜东 每周登微博带来一个坏消息",
+        "onboard_time": 1760004741,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87959,
+        "num": 87959,
+        "word": "入青云热度破8000",
+        "onboard_time": 1760008760,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83345,
+        "num": 83345,
+        "word": "纸房子",
+        "onboard_time": 1760008461,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 83634,
+        "num": 80953,
+        "word": "坏了真让他养到黑猫警长了",
+        "onboard_time": 1760008280,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

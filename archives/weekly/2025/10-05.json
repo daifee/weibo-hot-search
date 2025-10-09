@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1760006691588,
+  "endTime": 1760008939166,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -859,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 813614,
+      "num": 813614,
+      "word": "女孩没人接2天后发现其父家中离世",
+      "onboard_time": 1760002820,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 808506,
       "num": 191639,
       "word": "翁青雅签公司了",
@@ -1243,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 618039,
+      "num": 245599,
+      "word": "黄子韬徐艺洋要直播婚礼",
+      "onboard_time": 1760003541,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 616330,
       "num": 616330,
       "word": "孙颖莎中国大满贯亚军",
@@ -1331,14 +1347,6 @@
       "category": "民生新闻,汽车"
     },
     {
-      "raw_hot": 584990,
-      "num": 207873,
-      "word": "黄子韬徐艺洋要直播婚礼",
-      "onboard_time": 1760003541,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 582537,
       "num": 582537,
       "word": "女生找回手机后发现相册多了段视频",
@@ -1369,6 +1377,14 @@
       "onboard_time": 1759984281,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 574997,
+      "num": 574997,
+      "word": "鸡排哥回应国庆一天的营业额",
+      "onboard_time": 1760006781,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 570379,
@@ -1404,7 +1420,7 @@
     },
     {
       "raw_hot": 557175,
-      "num": 207212,
+      "num": 243860,
       "word": "第一次见尺度这么大的剧宣",
       "onboard_time": 1760002640,
       "rank": 12,
@@ -1540,7 +1556,7 @@
     },
     {
       "raw_hot": 538079,
-      "num": 227888,
+      "num": 235978,
       "word": "女子结婚为省钱到美甲店打金手镯",
       "onboard_time": 1760001681,
       "rank": 13,
@@ -1600,14 +1616,6 @@
       "word": "酒店房顶坍塌时正在办婚礼",
       "onboard_time": 1759714460,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 523537,
-      "num": 523537,
-      "word": "女孩没人接2天后发现其父家中离世",
-      "onboard_time": 1760002820,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2691,12 +2699,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354533,
+      "num": 354533,
+      "word": "腾讯视频账号6次超限或面临封号",
+      "onboard_time": 1760005402,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 354251,
       "num": 354251,
       "word": "人类在中医面前毫无秘密可言",
       "onboard_time": 1759732281,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 353961,
+      "num": 353961,
+      "word": "趵突泉胖锦鲤病重",
+      "onboard_time": 1760005701,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353663,
@@ -3323,12 +3347,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 290329,
+      "num": 240547,
+      "word": "银河左岸莆田阵容",
+      "onboard_time": 1760006121,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 290324,
       "num": 210475,
       "word": "有个不太好的习惯叫穷思竭虑",
       "onboard_time": 1759888519,
       "rank": 28,
       "category": "情感"
+    },
+    {
+      "raw_hot": 289636,
+      "num": 237489,
+      "word": "龚俊 你给张晚意整这么多",
+      "onboard_time": 1760003361,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 289588,
@@ -4467,6 +4507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210300,
+      "num": 210300,
+      "word": "男子中959万大奖狂欢8周险丧命",
+      "onboard_time": 1760007502,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 210223,
       "num": 156372,
       "word": "张晚意问还能演正剧吗",
@@ -4521,6 +4569,14 @@
       "onboard_time": 1759744580,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208076,
+      "num": 182912,
+      "word": "北电第一offer踢馆失败",
+      "onboard_time": 1760007920,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 207880,
@@ -4592,14 +4648,6 @@
       "word": "冯建宇好帅",
       "onboard_time": 1759911501,
       "rank": 18,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 204903,
-      "num": 204903,
-      "word": "银河左岸莆田阵容",
-      "onboard_time": 1760006121,
-      "rank": 15,
       "category": "演出"
     },
     {
@@ -5387,14 +5435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 182208,
-      "num": 182208,
-      "word": "龚俊 你给张晚意整这么多",
-      "onboard_time": 1760003361,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182126,
       "num": 168701,
       "word": "孙颖莎牌扫地机",
@@ -5601,6 +5641,14 @@
       "onboard_time": 1759916481,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178277,
+      "num": 178277,
+      "word": "安徽六安3.4级地震",
+      "onboard_time": 1760007439,
+      "rank": 21,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 178188,
@@ -5833,6 +5881,14 @@
       "onboard_time": 1759810581,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 174144,
+      "num": 174144,
+      "word": "一笑随歌是李沁入圈拍过最大尺度戏",
+      "onboard_time": 1760006181,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 173925,
@@ -6611,6 +6667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157663,
+      "num": 157663,
+      "word": "宴遇永安开播",
+      "onboard_time": 1760004981,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157645,
       "num": 157645,
       "word": "张凌赫拍毕业照打了女生领结",
@@ -6656,6 +6720,14 @@
       "word": "马来西亚失联2名游客非情侣",
       "onboard_time": 1759931302,
       "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156786,
+      "num": 130538,
+      "word": "跳河新郎遗体被找到家属发声",
+      "onboard_time": 1760008280,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -6745,6 +6817,14 @@
       "onboard_time": 1759832961,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155274,
+      "num": 155274,
+      "word": "锂电池出口管制",
+      "onboard_time": 1760006481,
+      "rank": 31,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 155258,
@@ -6873,14 +6953,6 @@
       "onboard_time": 1759664543,
       "rank": 37,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 153430,
-      "num": 153430,
-      "word": "宴遇永安开播",
-      "onboard_time": 1760004981,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 153398,
@@ -7603,14 +7675,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 140287,
-      "num": 140287,
-      "word": "腾讯视频账号6次超限或面临封号",
-      "onboard_time": 1760005402,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 140256,
       "num": 853834,
       "word": "假期国内出游总花费8090.06亿元",
@@ -7819,14 +7883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137289,
-      "num": 130575,
-      "word": "一笑随歌是李沁入圈拍过最大尺度戏",
-      "onboard_time": 1760006181,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137228,
       "num": 137228,
       "word": "张帅vs纳瓦罗",
@@ -7945,6 +8001,14 @@
       "onboard_time": 1759638680,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135727,
+      "num": 129074,
+      "word": "印尼网红坡",
+      "onboard_time": 1760004501,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 135726,
@@ -8267,6 +8331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133491,
+      "num": 133491,
+      "word": "一人食被歧视韩国网友怒了",
+      "onboard_time": 1760004801,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 133426,
       "num": 133426,
       "word": "侯明昊人脉",
@@ -8449,14 +8521,6 @@
       "onboard_time": 1759718600,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130690,
-      "num": 130690,
-      "word": "一人食被歧视韩国网友怒了",
-      "onboard_time": 1760004801,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 130559,
@@ -9251,14 +9315,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119912,
-      "num": 107601,
-      "word": "印尼网红坡",
-      "onboard_time": 1760004501,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 119766,
       "num": 119766,
       "word": "花海所有的努力都作数",
@@ -9761,14 +9817,6 @@
       "onboard_time": 1759649360,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114322,
-      "num": 114322,
-      "word": "锂电池出口管制",
-      "onboard_time": 1760006481,
-      "rank": 31,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 114233,
@@ -10403,14 +10451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 109751,
-      "num": 160998,
-      "word": "趵突泉胖锦鲤病重",
-      "onboard_time": 1760005701,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109667,
       "num": 109667,
       "word": "三角洲",
@@ -10547,6 +10587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108576,
+      "num": 108576,
+      "word": "董璇 你问问酒窝同不同意",
+      "onboard_time": 1760008760,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108453,
       "num": 110862,
       "word": "正剧还得是视帝视后演",
@@ -10609,6 +10657,14 @@
       "onboard_time": 1759904720,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107796,
+      "num": 107796,
+      "word": "30岁健身一年后身体的变化",
+      "onboard_time": 1760005580,
+      "rank": 44,
+      "category": "运动健身,其它"
     },
     {
       "raw_hot": 107719,
@@ -10761,14 +10817,6 @@
       "onboard_time": 1759934061,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 106771,
-      "num": 106771,
-      "word": "30岁健身一年后身体的变化",
-      "onboard_time": 1760005580,
-      "rank": 44,
-      "category": "运动健身,其它"
     },
     {
       "raw_hot": 106761,
@@ -11971,6 +12019,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 96063,
+      "num": 103340,
+      "word": "连续三天11点入睡的感受",
+      "onboard_time": 1760005221,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96049,
       "num": 96049,
       "word": "每周减1公斤才是不反弹的匀速减肥法",
@@ -12137,6 +12193,14 @@
       "onboard_time": 1759820062,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94456,
+      "num": 94456,
+      "word": "iPhone4天线门揭秘",
+      "onboard_time": 1760007502,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 94228,
@@ -12771,6 +12835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89068,
+      "num": 89068,
+      "word": "陈哲远明爽",
+      "onboard_time": 1760007802,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89016,
       "num": 89016,
       "word": "美官员称加沙战争已经结束",
@@ -12849,6 +12921,14 @@
       "onboard_time": 1759648999,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87959,
+      "num": 87959,
+      "word": "入青云热度破8000",
+      "onboard_time": 1760008760,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 87818,
@@ -13275,6 +13355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83634,
+      "num": 80953,
+      "word": "坏了真让他养到黑猫警长了",
+      "onboard_time": 1760008280,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83558,
       "num": 110311,
       "word": "Faker展望世界赛",
@@ -13289,6 +13377,14 @@
       "onboard_time": 1759836021,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83345,
+      "num": 83345,
+      "word": "纸房子",
+      "onboard_time": 1760008461,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 83286,
@@ -14571,6 +14667,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 52716,
+      "num": 103372,
+      "word": "比卢普斯不觉得杨瀚森表现糟",
+      "onboard_time": 1760007920,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52622,
       "num": 137246,
       "word": "四环亮相北京798",
@@ -14580,7 +14684,7 @@
     },
     {
       "raw_hot": 52555,
-      "num": 158786,
+      "num": 185455,
       "word": "邓超DUA是什么梗",
       "onboard_time": 1760005460,
       "rank": 29,
@@ -15793,6 +15897,14 @@
       "onboard_time": 1759722440,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9533,
+      "num": 103923,
+      "word": "庄思敏晒巴厘岛婚礼照",
+      "onboard_time": 1760008101,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 9268,
