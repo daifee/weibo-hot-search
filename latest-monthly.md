@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/09 21:35:43
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/09 21:47:49
 </p>
 </blockquote>
 <p>
@@ -2055,6 +2055,12 @@ hi6（热度：563954）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%8E%B0%E7%88%B6%E5%A5%B3%E5%8F%8C%E5%B0%B8%E6%A1%88%23" target="weibo">
+新加坡现父女双尸案（热度：561907）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23miumiu%20%E5%A5%BD%E5%A4%9A%E5%9B%B4%E8%A3%99%23" target="weibo">
 miumiu 好多围裙（热度：559985）
 </a>
@@ -3975,6 +3981,12 @@ p图姐喊话黄俊捷（热度：342786）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C%E9%81%AD%E8%AF%AF%E4%BC%9A%E8%A2%AB%E6%89%93%E6%89%87%E5%AD%90%E5%93%A5%E5%B7%B2%E7%A6%BB%E8%81%8C%23" target="weibo">
+南昌遭误会被打扇子哥已离职（热度：335146）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A9%86%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%BC%A0%E7%BA%AA%E4%B8%AD%E7%9A%84%E5%A9%9A%E5%A7%BB%E6%B2%A1%E6%9C%89%E7%88%B1%E6%83%85%23" target="weibo">
 老婆回应与张纪中的婚姻没有爱情（热度：334976）
 </a>
@@ -4509,12 +4521,6 @@ offer7播一半淘汰了三个人（热度：311785）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C%E9%81%AD%E8%AF%AF%E4%BC%9A%E8%A2%AB%E6%89%93%E6%89%87%E5%AD%90%E5%93%A5%E5%B7%B2%E7%A6%BB%E8%81%8C%23" target="weibo">
-南昌遭误会被打扇子哥已离职（热度：297333）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%B8%80%E7%9B%B4%E7%94%A8%E6%89%8B%E6%8A%A4%E7%9D%80%E8%85%B0%23" target="weibo">
 白鹿一直用手护着腰（热度：297327）
 </a>
@@ -4821,6 +4827,12 @@ JDG对战DK（热度：286717）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BA%86%E8%90%A8%E9%A1%B6%E9%A1%B6%E7%8E%B0%E5%9C%BA%E4%BA%89%E6%89%A7%23" target="weibo">
+蔡国庆萨顶顶现场争执（热度：279497）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%8D%A1%E7%82%B9%E4%B8%8B%E9%AB%98%E9%80%9F%23" target="weibo">
 千万别卡点下高速（热度：279434）
 </a>
@@ -5079,6 +5091,12 @@ iG全员回国（热度：266621）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A5%B3%E7%94%9F%E6%B4%97%E5%AE%8C%E5%A4%B4%E4%B8%8D%E8%A6%81%E5%8C%85%E5%A4%B4%E5%8F%91%23" target="weibo">
+建议女生洗完头不要包头发（热度：265858）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%BE%97%E5%8A%9B%E8%BE%9E%E9%80%80%E8%B7%9B%E8%84%9A%E5%91%98%E5%B7%A5%E5%86%8D%E5%8F%91%E5%A3%B0%23" target="weibo">
 被得力辞退跛脚员工再发声（热度：265094）
 </a>
@@ -5099,12 +5117,6 @@ iG全员回国（热度：266621）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B2%E7%A1%AE%E8%AE%A41555.3%E4%B8%87%E6%9D%A1%E8%82%B2%E5%84%BF%E8%A1%A5%E8%B4%B4%E7%94%B3%E6%8A%A5%E4%BF%A1%E6%81%AF%23" target="weibo">
 已确认1555.3万条育儿补贴申报信息（热度：263369）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E5%A5%B3%E7%94%9F%E6%B4%97%E5%AE%8C%E5%A4%B4%E4%B8%8D%E8%A6%81%E5%8C%85%E5%A4%B4%E5%8F%91%23" target="weibo">
-建议女生洗完头不要包头发（热度：263099）
 </a>
 </li>
 
@@ -5297,6 +5309,12 @@ iG全员回国（热度：266621）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E8%B7%B3%E6%9F%A0%E6%AA%AC%E5%8F%89%23" target="weibo">
 小酒窝跳柠檬叉（热度：252556）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Faker%E5%BE%AE%E5%8D%9A%E6%9B%B4%E6%96%B0%23" target="weibo">
+Faker微博更新（热度：252313）
 </a>
 </li>
 
@@ -5549,12 +5567,6 @@ hi6收视率排名第一（热度：245066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%B8%85%E8%BD%AC%E8%BE%85%E5%8A%A9%23" target="weibo">
 清清转辅助（热度：239929）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Faker%E5%BE%AE%E5%8D%9A%E6%9B%B4%E6%96%B0%23" target="weibo">
-Faker微博更新（热度：239814）
 </a>
 </li>
 
@@ -5943,12 +5955,6 @@ iG与T1决定TES抽签池（热度：224054）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BA%86%E8%90%A8%E9%A1%B6%E9%A1%B6%E7%8E%B0%E5%9C%BA%E4%BA%89%E6%89%A7%23" target="weibo">
-蔡国庆萨顶顶现场争执（热度：223555）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%AF%B4%E6%AF%94%E8%B5%9B%E8%BE%93%E4%BA%86%E5%B0%B1%E6%B2%A1%E4%B8%8B%E6%AC%A1%E4%BA%86%23" target="weibo">
 张继科说比赛输了就没下次了（热度：223509）
 </a>
@@ -6005,12 +6011,6 @@ celine大秀（热度：222882）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E5%A5%BD%E7%94%9C%23" target="weibo">
 唐嫣好甜（热度：222063）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9Fdior%E7%9C%8B%E7%A7%80%E9%80%A0%E5%9E%8B%23" target="weibo">
-周也dior看秀造型（热度：221948）
 </a>
 </li>
 

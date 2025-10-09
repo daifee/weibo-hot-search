@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1760016943770,
+  "endTime": 1760017669706,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1433,6 +1433,14 @@
       "onboard_time": 1759626139,
       "rank": 18,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 561907,
+      "num": 178325,
+      "word": "新加坡现父女双尸案",
+      "onboard_time": 1760016380,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 559985,
@@ -2915,6 +2923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335146,
+      "num": 335146,
+      "word": "南昌遭误会被打扇子哥已离职",
+      "onboard_time": 1760014522,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 334976,
       "num": 223905,
       "word": "老婆回应与张纪中的婚姻没有爱情",
@@ -3355,14 +3371,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 297333,
-      "num": 297333,
-      "word": "南昌遭误会被打扇子哥已离职",
-      "onboard_time": 1760014522,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 295017,
       "num": 295017,
       "word": "乌称遭俄50枚导弹500架无人机袭击",
@@ -3603,6 +3611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279497,
+      "num": 194309,
+      "word": "蔡国庆萨顶顶现场争执",
+      "onboard_time": 1760013502,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 279434,
       "num": 279434,
       "word": "千万别卡点下高速",
@@ -3795,6 +3811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265858,
+      "num": 174953,
+      "word": "建议女生洗完头不要包头发",
+      "onboard_time": 1760010080,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 263675,
       "num": 142914,
       "word": "3岁男童从景区栈道旁缝隙坠落",
@@ -3817,14 +3841,6 @@
       "onboard_time": 1759882819,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263099,
-      "num": 174953,
-      "word": "建议女生洗完头不要包头发",
-      "onboard_time": 1760010080,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 262548,
@@ -3953,6 +3969,14 @@
       "onboard_time": 1759759704,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252313,
+      "num": 175364,
+      "word": "Faker微博更新",
+      "onboard_time": 1760015842,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 251790,
@@ -4131,14 +4155,6 @@
       "category": "音乐,游戏"
     },
     {
-      "raw_hot": 239814,
-      "num": 136051,
-      "word": "Faker微博更新",
-      "onboard_time": 1760015842,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 239413,
       "num": 178839,
       "word": "女方悔婚退彩礼时要扣3万拥抱费",
@@ -4268,7 +4284,7 @@
     },
     {
       "raw_hot": 231599,
-      "num": 231599,
+      "num": 339054,
       "word": "8天国内出游8.88亿人次",
       "onboard_time": 1759984822,
       "rank": 40,
@@ -4409,14 +4425,6 @@
       "onboard_time": 1759824079,
       "rank": 21,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 223555,
-      "num": 194309,
-      "word": "蔡国庆萨顶顶现场争执",
-      "onboard_time": 1760013502,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 223509,
@@ -5979,14 +5987,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175717,
-      "num": 135149,
-      "word": "新加坡现父女双尸案",
-      "onboard_time": 1760016380,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 175256,
       "num": 175256,
       "word": "伞伞伞伞兵马俑伞伞伞伞",
@@ -6345,6 +6345,14 @@
       "onboard_time": 1759983561,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168074,
+      "num": 168074,
+      "word": "何炅喜提最佳综艺主持人",
+      "onboard_time": 1760016321,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 168020,
@@ -7043,6 +7051,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 155054,
+      "num": 154740,
+      "word": "彭昱畅说向往停播但大家没断联",
+      "onboard_time": 1760013201,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155004,
       "num": 155004,
       "word": "上海时装周",
@@ -7065,14 +7081,6 @@
       "onboard_time": 1759893801,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 154740,
-      "num": 154740,
-      "word": "彭昱畅说向往停播但大家没断联",
-      "onboard_time": 1760013201,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 154644,
@@ -7923,6 +7931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140165,
+      "num": 140165,
+      "word": "王珂 下一顺位是她冠军",
+      "onboard_time": 1760015842,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140095,
       "num": 195792,
       "word": "无限暖暖",
@@ -7993,14 +8009,6 @@
       "onboard_time": 1759738340,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138739,
-      "num": 138739,
-      "word": "何炅喜提最佳综艺主持人",
-      "onboard_time": 1760016321,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 138626,
@@ -8185,6 +8193,14 @@
       "onboard_time": 1759844184,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136421,
+      "num": 136421,
+      "word": "三个少年",
+      "onboard_time": 1760016741,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 136406,
@@ -8939,6 +8955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127218,
+      "num": 180479,
+      "word": "鸡排哥休息日变饭撒日",
+      "onboard_time": 1760016380,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127175,
       "num": 127175,
       "word": "泸州银河左岸音乐节",
@@ -9441,14 +9465,6 @@
       "onboard_time": 1759763483,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121410,
-      "num": 121410,
-      "word": "王珂 下一顺位是她冠军",
-      "onboard_time": 1760015842,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 121120,
@@ -11547,6 +11563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102712,
+      "num": 121907,
+      "word": "又被灰原哀美到了",
+      "onboard_time": 1760013141,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 102699,
       "num": 144384,
       "word": "巴西健美冠军睡梦中被妻子刺死",
@@ -11609,14 +11633,6 @@
       "onboard_time": 1759724121,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 102362,
-      "num": 102362,
-      "word": "鸡排哥休息日变饭撒日",
-      "onboard_time": 1760016380,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101981,
@@ -12075,6 +12091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 98051,
+      "num": 98051,
+      "word": "中国人挤满国外景区游客发声",
+      "onboard_time": 1760017162,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98029,
       "num": 124054,
       "word": "37岁男子持刀致1死被抓",
@@ -12193,6 +12217,14 @@
       "onboard_time": 1759821742,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 97130,
+      "num": 103340,
+      "word": "连续三天11点入睡的感受",
+      "onboard_time": 1760005221,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 97129,
@@ -12329,14 +12361,6 @@
       "onboard_time": 1759981519,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 96063,
-      "num": 103340,
-      "word": "连续三天11点入睡的感受",
-      "onboard_time": 1760005221,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 96049,
@@ -12513,6 +12537,14 @@
       "onboard_time": 1760007502,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 94324,
+      "num": 94324,
+      "word": "周杰伦上海演唱会",
+      "onboard_time": 1760017281,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 94228,
@@ -13251,28 +13283,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88063,
-      "num": 88063,
-      "word": "三个少年",
-      "onboard_time": 1760016741,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 88002,
       "num": 88002,
       "word": "NIP淘汰",
       "onboard_time": 1760014339,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 87894,
-      "num": 121907,
-      "word": "又被灰原哀美到了",
-      "onboard_time": 1760013141,
-      "rank": 37,
-      "category": "动漫"
     },
     {
       "raw_hot": 87818,
@@ -13731,6 +13747,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83421,
+      "num": 83421,
+      "word": "TTG对战RW",
+      "onboard_time": 1760016981,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 83389,
+      "num": 83389,
+      "word": "双11一年比一年早",
+      "onboard_time": 1760016861,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 83345,
       "num": 83345,
       "word": "纸房子",
@@ -14147,6 +14179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 76922,
+      "num": 198123,
+      "word": "第十五届全运会",
+      "onboard_time": 1760016682,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76877,
       "num": 76877,
       "word": "阿尔巴宣布退役",
@@ -14249,6 +14289,14 @@
       "onboard_time": 1759636042,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 74101,
+      "num": 74101,
+      "word": "爷爷眼里的梦中情孙",
+      "onboard_time": 1760016380,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 73922,
@@ -15289,14 +15337,6 @@
       "onboard_time": 1760000000,
       "rank": 25,
       "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 47393,
-      "num": 198123,
-      "word": "第十五届全运会",
-      "onboard_time": 1760016682,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 47141,
