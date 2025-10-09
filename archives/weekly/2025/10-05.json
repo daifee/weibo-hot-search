@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759979684558,
+  "endTime": 1759981701304,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 936221,
-      "num": 243624,
+      "num": 274402,
       "word": "刘萧旭疑似结婚了",
       "onboard_time": 1759973658,
       "rank": 10,
@@ -593,6 +593,14 @@
       "onboard_time": 1759639401,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 911406,
+      "num": 279232,
+      "word": "孟子义太体面了",
+      "onboard_time": 1759976538,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 898513,
@@ -809,14 +817,6 @@
       "onboard_time": 1759924642,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 782048,
-      "num": 247019,
-      "word": "孟子义太体面了",
-      "onboard_time": 1759976538,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 779523,
@@ -2003,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 408054,
+      "num": 408054,
+      "word": "2025国庆档票房18.35亿",
+      "onboard_time": 1759978819,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 404663,
       "num": 212126,
       "word": "宋祖儿华伦天奴晚宴look",
@@ -2057,6 +2065,14 @@
       "onboard_time": 1759899741,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 393669,
+      "num": 393669,
+      "word": "四大伤肝元凶",
+      "onboard_time": 1759975099,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 393210,
@@ -2835,6 +2851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307397,
+      "num": 307397,
+      "word": "国庆期间高速免费小车被收费",
+      "onboard_time": 1759976119,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 307390,
       "num": 307390,
       "word": "王楚钦王曼昱互相道喜",
@@ -2931,6 +2955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292293,
+      "num": 292293,
+      "word": "对稀土相关技术实施出口管制的决定",
+      "onboard_time": 1759974980,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 291868,
       "num": 291868,
       "word": "姑妈鱼 女朋友",
@@ -3025,6 +3057,14 @@
       "onboard_time": 1759820660,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 284517,
+      "num": 284517,
+      "word": "假期后劲太大了",
+      "onboard_time": 1759939280,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284276,
@@ -3339,14 +3379,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 261515,
-      "num": 261515,
-      "word": "国庆期间高速免费小车被收费",
-      "onboard_time": 1759976119,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 261450,
       "num": 261450,
       "word": "肖战檀健次是同一天生日",
@@ -3369,6 +3401,14 @@
       "onboard_time": 1759733241,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 259311,
+      "num": 259311,
+      "word": "刘亦菲小时候的珍贵影像",
+      "onboard_time": 1759980439,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 258020,
@@ -3491,6 +3531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247327,
+      "num": 247327,
+      "word": "宴遇永安今日开播",
+      "onboard_time": 1759980439,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247059,
       "num": 247059,
       "word": "王一博在角落被喷香槟",
@@ -3537,14 +3585,6 @@
       "onboard_time": 1759894402,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 241417,
-      "num": 241417,
-      "word": "对稀土相关技术实施出口管制的决定",
-      "onboard_time": 1759974980,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 240484,
@@ -3648,14 +3688,6 @@
       "word": "10月6日再逢中秋要等到2063年",
       "onboard_time": 1759763182,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 233343,
-      "num": 233343,
-      "word": "假期后劲太大了",
-      "onboard_time": 1759939280,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -3859,6 +3891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221691,
+      "num": 189111,
+      "word": "节后第一天上班建议适度摸鱼",
+      "onboard_time": 1759979541,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221274,
       "num": 221274,
       "word": "05年男子拒服兵役被罚8.64万",
@@ -4017,14 +4057,6 @@
       "onboard_time": 1759657459,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210263,
-      "num": 210263,
-      "word": "2025国庆档票房18.35亿",
-      "onboard_time": 1759978819,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 210223,
@@ -4292,7 +4324,7 @@
     },
     {
       "raw_hot": 197508,
-      "num": 144224,
+      "num": 170448,
       "word": "这个血型天生更易得痔疮",
       "onboard_time": 1759978159,
       "rank": 22,
@@ -4851,6 +4883,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 183039,
+      "num": 183039,
+      "word": "李沁正式加入内娱老弓姐",
+      "onboard_time": 1759981040,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182944,
       "num": 207418,
       "word": "假期还有最后2天",
@@ -5185,6 +5225,14 @@
       "onboard_time": 1759756102,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175750,
+      "num": 175750,
+      "word": "国庆去韩国的人后悔了吗",
+      "onboard_time": 1759980138,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175256,
@@ -5923,6 +5971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157603,
+      "num": 157603,
+      "word": "特朗普宣布以色列哈马斯停火幕后",
+      "onboard_time": 1759981040,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 157241,
       "num": 267192,
       "word": "三角洲行动",
@@ -6035,6 +6091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 154917,
+      "num": 154917,
+      "word": "宴遇永安",
+      "onboard_time": 1759638141,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154867,
       "num": 154867,
       "word": "蒋一侨爸爸一天给女儿打七八个电话",
@@ -6073,6 +6137,14 @@
       "onboard_time": 1759738100,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154200,
+      "num": 154200,
+      "word": "男子撞脸谢霆锋在演唱会被围拍",
+      "onboard_time": 1759977259,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 154111,
@@ -6123,14 +6195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 153175,
-      "num": 153175,
-      "word": "宴遇永安",
-      "onboard_time": 1759638141,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153074,
       "num": 145864,
       "word": "65岁老人1个月瘦30斤后",
@@ -6145,14 +6209,6 @@
       "onboard_time": 1759758503,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152962,
-      "num": 152962,
-      "word": "四大伤肝元凶",
-      "onboard_time": 1759975099,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 152563,
@@ -6193,14 +6249,6 @@
       "onboard_time": 1759919421,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 151917,
-      "num": 142669,
-      "word": "节后第一天上班建议适度摸鱼",
-      "onboard_time": 1759979541,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151890,
@@ -6393,6 +6441,14 @@
       "onboard_time": 1759844063,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 147799,
+      "num": 147799,
+      "word": "NBA",
+      "onboard_time": 1759980259,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 147498,
@@ -7483,12 +7539,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130827,
-      "num": 130827,
-      "word": "男子撞脸谢霆锋在演唱会被围拍",
-      "onboard_time": 1759977259,
-      "rank": 30,
-      "category": "演出"
+      "raw_hot": 130805,
+      "num": 130805,
+      "word": "方媛自曝预产期",
+      "onboard_time": 1759980980,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 130757,
@@ -7577,6 +7633,14 @@
       "onboard_time": 1759847002,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128727,
+      "num": 128727,
+      "word": "杨瀚森季前赛首秀",
+      "onboard_time": 1759972460,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 128617,
@@ -8179,6 +8243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119945,
+      "num": 130520,
+      "word": "日足协高官飞机上看儿童色情视频被抓",
+      "onboard_time": 1759979901,
+      "rank": 34,
+      "category": "海外新闻,体育"
+    },
+    {
       "raw_hot": 119766,
       "num": 119766,
       "word": "花海所有的努力都作数",
@@ -8521,14 +8593,6 @@
       "onboard_time": 1759912881,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115357,
-      "num": 115357,
-      "word": "杨瀚森季前赛首秀",
-      "onboard_time": 1759972460,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 115328,
@@ -9371,6 +9435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107719,
+      "num": 107719,
+      "word": "剑网3",
+      "onboard_time": 1759979779,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107657,
       "num": 107657,
       "word": "董璇张维伊北大合体",
@@ -9673,6 +9745,14 @@
       "onboard_time": 1759934662,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105297,
+      "num": 105297,
+      "word": "孙权秒杀皮肤",
+      "onboard_time": 1759981641,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 105158,
@@ -10499,6 +10579,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 97129,
+      "num": 97129,
+      "word": "9号上班的精神状态像安陵容",
+      "onboard_time": 1759979901,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96867,
       "num": 96867,
       "word": "邓佳鑫专场上座率",
@@ -10609,6 +10697,14 @@
       "onboard_time": 1759929741,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96120,
+      "num": 96120,
+      "word": "存储芯片板块爆发",
+      "onboard_time": 1759981519,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 96049,
@@ -11035,6 +11131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91980,
+      "num": 91980,
+      "word": "A股中长期上涨的底气充足",
+      "onboard_time": 1759981339,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 91891,
       "num": 91891,
       "word": "校方回应宿舍遭台风强拆",
@@ -11412,7 +11516,7 @@
     },
     {
       "raw_hot": 87818,
-      "num": 88545,
+      "num": 529310,
       "word": "国庆假期值得珍藏的记忆画面",
       "onboard_time": 1759972819,
       "rank": 41,
@@ -12971,6 +13075,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 54194,
+      "num": 190412,
+      "word": "肖战的冬日保暖搭子",
+      "onboard_time": 1759979179,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54075,
       "num": 76502,
       "word": "甘孜子龙秘境滑坠事故一男子身亡",
@@ -13056,14 +13168,6 @@
       "word": "陈飞宇直播",
       "onboard_time": 1759591821,
       "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 51936,
-      "num": 90416,
-      "word": "肖战的冬日保暖搭子",
-      "onboard_time": 1759979179,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -13227,12 +13331,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44013,
+      "num": 109583,
+      "word": "微博大眼音乐节定档",
+      "onboard_time": 1759981100,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 43795,
       "num": 120142,
       "word": "WTT更新北满冠军宣传照",
       "onboard_time": 1759912822,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43617,
+      "num": 128953,
+      "word": "加沙记者挨家通知停火协议已达成",
+      "onboard_time": 1759981641,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 43480,
@@ -13315,6 +13435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40242,
+      "num": 190613,
+      "word": "张艺兴京东双11开场",
+      "onboard_time": 1759979179,
+      "rank": 19,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 40126,
       "num": 69589,
       "word": "电影毕正明的证明",
@@ -13361,6 +13489,14 @@
       "onboard_time": 1759638860,
       "rank": 39,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 37940,
+      "num": 158188,
+      "word": "张艺凡的早八穿搭有点东西",
+      "onboard_time": 1759981519,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 37626,
@@ -13561,14 +13697,6 @@
       "onboard_time": 1759773078,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 30228,
-      "num": 146591,
-      "word": "张艺兴京东双11开场",
-      "onboard_time": 1759979179,
-      "rank": 19,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 30126,

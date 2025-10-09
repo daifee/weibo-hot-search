@@ -1,6 +1,6 @@
 {
   "startTime": 1759941149301,
-  "endTime": 1759979684558,
+  "endTime": 1759981701304,
   "band_list": [
     {
       "raw_hot": 1676027,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 936221,
-      "num": 243624,
+      "num": 274402,
       "word": "刘萧旭疑似结婚了",
       "onboard_time": 1759973658,
       "rank": 10,
@@ -51,8 +51,8 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 782048,
-      "num": 247019,
+      "raw_hot": 911406,
+      "num": 279232,
       "word": "孟子义太体面了",
       "onboard_time": 1759976538,
       "rank": 10,
@@ -99,12 +99,28 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 408054,
+      "num": 408054,
+      "word": "2025国庆档票房18.35亿",
+      "onboard_time": 1759978819,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 404280,
       "num": 164893,
       "word": "网红猴哥说车官宣离婚",
       "onboard_time": 1759925001,
       "rank": 15,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 393669,
+      "num": 393669,
+      "word": "四大伤肝元凶",
+      "onboard_time": 1759975099,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 358739,
@@ -155,11 +171,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 261515,
-      "num": 261515,
+      "raw_hot": 307397,
+      "num": 307397,
       "word": "国庆期间高速免费小车被收费",
       "onboard_time": 1759976119,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292293,
+      "num": 292293,
+      "word": "对稀土相关技术实施出口管制的决定",
+      "onboard_time": 1759974980,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 284517,
+      "num": 284517,
+      "word": "假期后劲太大了",
+      "onboard_time": 1759939280,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -171,12 +203,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 259311,
+      "num": 259311,
+      "word": "刘亦菲小时候的珍贵影像",
+      "onboard_time": 1759980439,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250645,
       "num": 250645,
       "word": "孙颖莎何卓佳香港机场买玩偶",
       "onboard_time": 1759977679,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247327,
+      "num": 247327,
+      "word": "宴遇永安今日开播",
+      "onboard_time": 1759980439,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 244421,
@@ -187,28 +235,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 241417,
-      "num": 241417,
-      "word": "对稀土相关技术实施出口管制的决定",
-      "onboard_time": 1759974980,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 239581,
       "num": 140982,
       "word": "肖战 Gucci包机",
       "onboard_time": 1759932502,
       "rank": 13,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 233343,
-      "num": 233343,
-      "word": "假期后劲太大了",
-      "onboard_time": 1759939280,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 229084,
@@ -251,16 +283,16 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 210263,
-      "num": 210263,
-      "word": "2025国庆档票房18.35亿",
-      "onboard_time": 1759978819,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 221691,
+      "num": 189111,
+      "word": "节后第一天上班建议适度摸鱼",
+      "onboard_time": 1759979541,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197508,
-      "num": 144224,
+      "num": 170448,
       "word": "这个血型天生更易得痔疮",
       "onboard_time": 1759978159,
       "rank": 22,
@@ -299,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183039,
+      "num": 183039,
+      "word": "李沁正式加入内娱老弓姐",
+      "onboard_time": 1759981040,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181163,
       "num": 181163,
       "word": "协议确保以色列全面撤军",
@@ -321,6 +361,14 @@
       "onboard_time": 1759937480,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175750,
+      "num": 175750,
+      "word": "国庆去韩国的人后悔了吗",
+      "onboard_time": 1759980138,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173505,
@@ -363,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157603,
+      "num": 157603,
+      "word": "特朗普宣布以色列哈马斯停火幕后",
+      "onboard_time": 1759981040,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 157369,
       "num": 157369,
       "word": "年轻情侣忘情接吻险从扶梯摔下",
@@ -371,12 +427,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152962,
-      "num": 152962,
-      "word": "四大伤肝元凶",
-      "onboard_time": 1759975099,
-      "rank": 36,
-      "category": "健康医疗"
+      "raw_hot": 154917,
+      "num": 154917,
+      "word": "宴遇永安",
+      "onboard_time": 1759980679,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 154200,
+      "num": 154200,
+      "word": "男子撞脸谢霆锋在演唱会被围拍",
+      "onboard_time": 1759977259,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 152652,
@@ -387,12 +451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151917,
-      "num": 142669,
-      "word": "节后第一天上班建议适度摸鱼",
-      "onboard_time": 1759979541,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 147799,
+      "num": 147799,
+      "word": "NBA",
+      "onboard_time": 1759980259,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 145696,
@@ -435,12 +499,12 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 130827,
-      "num": 130827,
-      "word": "男子撞脸谢霆锋在演唱会被围拍",
-      "onboard_time": 1759977259,
-      "rank": 30,
-      "category": "演出"
+      "raw_hot": 130805,
+      "num": 130805,
+      "word": "方媛自曝预产期",
+      "onboard_time": 1759980980,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 130559,
@@ -449,6 +513,14 @@
       "onboard_time": 1759979659,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 128727,
+      "num": 128727,
+      "word": "杨瀚森季前赛首秀",
+      "onboard_time": 1759972460,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 127574,
@@ -507,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119945,
+      "num": 130520,
+      "word": "日足协高官飞机上看儿童色情视频被抓",
+      "onboard_time": 1759979901,
+      "rank": 34,
+      "category": "海外新闻,体育"
+    },
+    {
       "raw_hot": 116193,
       "num": 116193,
       "word": "全球围观中国放假",
@@ -521,14 +601,6 @@
       "onboard_time": 1759931424,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 115357,
-      "num": 115357,
-      "word": "杨瀚森季前赛首秀",
-      "onboard_time": 1759972460,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 114545,
@@ -579,12 +651,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107719,
+      "num": 107719,
+      "word": "剑网3",
+      "onboard_time": 1759979779,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107254,
       "num": 107254,
       "word": "李莎旻子和管乐的家撞款了",
       "onboard_time": 1759965498,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105297,
+      "num": 105297,
+      "word": "孙权秒杀皮肤",
+      "onboard_time": 1759981641,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 104032,
@@ -603,12 +691,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97129,
+      "num": 97129,
+      "word": "9号上班的精神状态像安陵容",
+      "onboard_time": 1759979901,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 96175,
       "num": 96175,
       "word": "官方回应网红骑马强闯洱海廊道",
       "onboard_time": 1759973718,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96120,
+      "num": 96120,
+      "word": "存储芯片板块爆发",
+      "onboard_time": 1759981519,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 93465,
@@ -625,6 +729,14 @@
       "onboard_time": 1759933521,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 91980,
+      "num": 91980,
+      "word": "A股中长期上涨的底气充足",
+      "onboard_time": 1759981339,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 90817,
@@ -660,7 +772,7 @@
     },
     {
       "raw_hot": 87818,
-      "num": 88545,
+      "num": 529310,
       "word": "国庆假期值得珍藏的记忆画面",
       "onboard_time": 1759972819,
       "rank": 41,
@@ -963,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54194,
+      "num": 190412,
+      "word": "肖战的冬日保暖搭子",
+      "onboard_time": 1759979179,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53593,
       "num": 53593,
       "word": "宋亚轩唱了youandi",
@@ -1011,14 +1131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51936,
-      "num": 90416,
-      "word": "肖战的冬日保暖搭子",
-      "onboard_time": 1759979179,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 51710,
       "num": 99864,
       "word": "小狗 请删除偷拍我的照片",
@@ -1051,12 +1163,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44013,
+      "num": 109583,
+      "word": "微博大眼音乐节定档",
+      "onboard_time": 1759981100,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 43617,
+      "num": 128953,
+      "word": "加沙记者挨家通知停火协议已达成",
+      "onboard_time": 1759981641,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 40242,
+      "num": 190613,
+      "word": "张艺兴京东双11开场",
+      "onboard_time": 1759979179,
+      "rank": 19,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 39058,
       "num": 39509,
       "word": "商家回应芒果礼盒内藏试卷课本",
       "onboard_time": 1759952473,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37940,
+      "num": 158188,
+      "word": "张艺凡的早八穿搭有点东西",
+      "onboard_time": 1759981519,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 35766,
@@ -1089,14 +1233,6 @@
       "onboard_time": 1759951574,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 30228,
-      "num": 146591,
-      "word": "张艺兴京东双11开场",
-      "onboard_time": 1759979179,
-      "rank": 19,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 28898,
@@ -1193,6 +1329,9 @@
     },
     {
       "word": "#习近平强调要把古树名木保护好#"
+    },
+    {
+      "word": "#文脉华章#"
     }
   ]
 }
