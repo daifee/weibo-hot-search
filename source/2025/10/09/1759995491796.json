@@ -1,0 +1,410 @@
+{
+  "runTime": 1759995491796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3097159,
+        "num": 3097159,
+        "word": "智利公司错发123万工资员工被判不退款",
+        "onboard_time": 1759988781,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 582571,
+        "num": 582571,
+        "word": "亲生儿子多次将母亲遗弃荒野",
+        "onboard_time": 1759992502,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19143,
+        "num": 450578,
+        "word": "国庆假期值得珍藏的记忆画面",
+        "onboard_time": 1759972819,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379768,
+        "num": 379768,
+        "word": "鸡排哥答应我别开美颜了好吗",
+        "onboard_time": 1759992982,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326033,
+        "num": 326033,
+        "word": "四川新龙5.4级地震",
+        "onboard_time": 1759987881,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 310947,
+        "num": 310947,
+        "word": "本周上三休一",
+        "onboard_time": 1759982180,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289648,
+        "num": 289648,
+        "word": "重庆女子打表去内蒙古计价器爆了",
+        "onboard_time": 1759981821,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 238413,
+        "num": 238413,
+        "word": "北京冷冷冷冷冷",
+        "onboard_time": 1759981580,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213525,
+        "num": 213525,
+        "word": "男子故意泄密致我国货船在公海被拦",
+        "onboard_time": 1759966759,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61194,
+        "num": 211854,
+        "word": "2025国庆档票房18.35亿",
+        "onboard_time": 1759978819,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 519716,
+        "num": 209618,
+        "word": "李沁造型师",
+        "onboard_time": 1759994121,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470095,
+        "num": 209160,
+        "word": "许妍沈皓明亲热被婆婆撞见",
+        "onboard_time": 1759989679,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420554,
+        "num": 207274,
+        "word": "石原里美二胎产后状态",
+        "onboard_time": 1759992502,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413308,
+        "num": 203782,
+        "word": "抑郁症多半心脏有问题",
+        "onboard_time": 1759984341,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 379028,
+        "num": 201608,
+        "word": "李诞 王安宇怎么这么帅",
+        "onboard_time": 1759988421,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311785,
+        "num": 200098,
+        "word": "offer7播一半淘汰了三个人",
+        "onboard_time": 1759990881,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257016,
+        "num": 199057,
+        "word": "胡先煦 我有一儿一女两只猫",
+        "onboard_time": 1759981701,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236742,
+        "num": 196712,
+        "word": "一笑随歌追剧团",
+        "onboard_time": 1759994661,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236166,
+        "num": 194424,
+        "word": "狐妖王权篇改名了",
+        "onboard_time": 1759984281,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28156,
+        "num": 192034,
+        "word": "樊振东法国康如溯源",
+        "onboard_time": 1759990040,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223619,
+        "num": 189983,
+        "word": "王俊凯 抢票",
+        "onboard_time": 1759995261,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189179,
+        "num": 189179,
+        "word": "肝不好的人起床或有5种表现",
+        "onboard_time": 1759986800,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 179989,
+        "num": 179989,
+        "word": "大疆",
+        "onboard_time": 1759974618,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176150,
+        "num": 176150,
+        "word": "白百何剪了狗啃刘海",
+        "onboard_time": 1759990280,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167953,
+        "num": 167953,
+        "word": "8天国内出游8.88亿人次",
+        "onboard_time": 1759984822,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165973,
+        "num": 165973,
+        "word": "知道许我耀眼为什么单更了",
+        "onboard_time": 1759995019,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164482,
+        "num": 164482,
+        "word": "18斤小猫饿到大哭",
+        "onboard_time": 1759990221,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155004,
+        "num": 155004,
+        "word": "上海时装周",
+        "onboard_time": 1759994960,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 153551,
+        "num": 153551,
+        "word": "姐姐骗弟弟学校提前一天开学",
+        "onboard_time": 1759992381,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151094,
+        "num": 151094,
+        "word": "嘉人",
+        "onboard_time": 1759994361,
+        "rank": 29,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 150011,
+        "num": 150011,
+        "word": "国内首支NBA拉拉队",
+        "onboard_time": 1759995201,
+        "rank": 30,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 141841,
+        "num": 141841,
+        "word": "向太 年轻人没有资格躺平",
+        "onboard_time": 1759991600,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137374,
+        "num": 137374,
+        "word": "许我耀眼复合",
+        "onboard_time": 1759985422,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137210,
+        "num": 137210,
+        "word": "女子将奶茶倒在他人头上后逃跑",
+        "onboard_time": 1759983981,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133584,
+        "num": 133584,
+        "word": "A股99只个股涨停",
+        "onboard_time": 1759994900,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133045,
+        "num": 133045,
+        "word": "卢昱晓哭戏靠掐大腿",
+        "onboard_time": 1759988120,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131606,
+        "num": 131606,
+        "word": "印度大阅兵士兵表演旋转步枪",
+        "onboard_time": 1759985781,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130909,
+        "num": 130909,
+        "word": "吃辣 呼吸性碱中毒",
+        "onboard_time": 1759990520,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123214,
+        "num": 123214,
+        "word": "戒咖啡三个月后我身体发生的变化",
+        "onboard_time": 1759986859,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70444,
+        "num": 118406,
+        "word": "女子骗钱后怕暴露在朋友圈发布死讯",
+        "onboard_time": 1759994661,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114657,
+        "num": 114657,
+        "word": "李海海否认恋情",
+        "onboard_time": 1759990940,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113644,
+        "num": 113644,
+        "word": "为什么苍蝇会把头拧下来玩",
+        "onboard_time": 1759995080,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 106180,
+        "num": 106180,
+        "word": "阿凡达3内地定档",
+        "onboard_time": 1759991420,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104950,
+        "num": 104950,
+        "word": "美元黄金同步上涨",
+        "onboard_time": 1759995321,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102385,
+        "num": 102385,
+        "word": "地球支撑文明9大边界已过界7个",
+        "onboard_time": 1759994661,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 101761,
+        "num": 101761,
+        "word": "李沁小考服装下是睡裤",
+        "onboard_time": 1759992022,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100710,
+        "num": 100710,
+        "word": "姚琛高铁帮阿姨找手机",
+        "onboard_time": 1759994900,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100231,
+        "num": 100231,
+        "word": "假期国内出游总花费8090.06亿元",
+        "onboard_time": 1759984460,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100040,
+        "num": 100040,
+        "word": "中国科学家造出现实版诺亚方舟",
+        "onboard_time": 1759992922,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96029,
+        "num": 96029,
+        "word": "高速免费结束前收费站人员高喊快点",
+        "onboard_time": 1759974559,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

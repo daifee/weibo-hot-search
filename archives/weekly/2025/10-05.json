@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759994687119,
+  "endTime": 1759995491796,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1243,6 +1243,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 582571,
+      "num": 582571,
+      "word": "亲生儿子多次将母亲遗弃荒野",
+      "onboard_time": 1759992502,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 582537,
       "num": 582537,
       "word": "女生找回手机后发现相册多了段视频",
@@ -1497,6 +1505,14 @@
       "onboard_time": 1759814481,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 519716,
+      "num": 221025,
+      "word": "李沁造型师",
+      "onboard_time": 1759994121,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 518510,
@@ -1779,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 470095,
+      "num": 232039,
+      "word": "许妍沈皓明亲热被婆婆撞见",
+      "onboard_time": 1759989679,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 466195,
       "num": 466195,
       "word": "官方通报牛杂店现场手动改价",
@@ -1923,14 +1947,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 443182,
-      "num": 232039,
-      "word": "许妍沈皓明亲热被婆婆撞见",
-      "onboard_time": 1759989679,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 442684,
       "num": 202084,
       "word": "姐姐失踪4年被发现时已成干尸",
@@ -2072,14 +2088,6 @@
       "word": "北京冷冷冷冷冷",
       "onboard_time": 1759981580,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 424718,
-      "num": 424718,
-      "word": "亲生儿子多次将母亲遗弃荒野",
-      "onboard_time": 1759992502,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2313,6 +2321,14 @@
       "onboard_time": 1759983202,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 379768,
+      "num": 379768,
+      "word": "鸡排哥答应我别开美颜了好吗",
+      "onboard_time": 1759992982,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 379291,
@@ -2961,6 +2977,14 @@
       "onboard_time": 1759590022,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 311785,
+      "num": 220618,
+      "word": "offer7播一半淘汰了三个人",
+      "onboard_time": 1759990881,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 311387,
@@ -3747,14 +3771,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 243449,
-      "num": 243449,
-      "word": "鸡排哥答应我别开美颜了好吗",
-      "onboard_time": 1759992982,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 243270,
       "num": 243270,
       "word": "恋与深空 夏以昼",
@@ -3827,12 +3843,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 235410,
-      "num": 221025,
-      "word": "李沁造型师",
-      "onboard_time": 1759994121,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 236742,
+      "num": 196712,
+      "word": "一笑随歌追剧团",
+      "onboard_time": 1759994661,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 234653,
@@ -3971,14 +3987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227492,
-      "num": 220618,
-      "word": "offer7播一半淘汰了三个人",
-      "onboard_time": 1759990881,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227070,
       "num": 171405,
       "word": "孙颖莎左右开弓推箱子回家",
@@ -4049,6 +4057,14 @@
       "onboard_time": 1759824079,
       "rank": 21,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 223619,
+      "num": 189983,
+      "word": "王俊凯 抢票",
+      "onboard_time": 1759995261,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 223509,
@@ -5459,6 +5475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176150,
+      "num": 176150,
+      "word": "白百何剪了狗啃刘海",
+      "onboard_time": 1759990280,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175992,
       "num": 175992,
       "word": "30岁长期熬夜有多可怕",
@@ -5955,6 +5979,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 165973,
+      "num": 165973,
+      "word": "知道许我耀眼为什么单更了",
+      "onboard_time": 1759995019,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165955,
       "num": 165955,
       "word": "强生被判赔单一原告近70亿元",
@@ -6443,6 +6475,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 155004,
+      "num": 155004,
+      "word": "上海时装周",
+      "onboard_time": 1759994960,
+      "rank": 27,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 154917,
       "num": 154917,
       "word": "宴遇永安",
@@ -6643,6 +6683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151094,
+      "num": 151094,
+      "word": "嘉人",
+      "onboard_time": 1759994361,
+      "rank": 38,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 150620,
       "num": 150620,
       "word": "韩国部分新婚夫妇放弃黄金戒指",
@@ -6657,6 +6705,14 @@
       "onboard_time": 1759904240,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150011,
+      "num": 150011,
+      "word": "国内首支NBA拉拉队",
+      "onboard_time": 1759995201,
+      "rank": 30,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 149998,
@@ -7008,14 +7064,6 @@
       "word": "孟子义分你一半月饼",
       "onboard_time": 1759719741,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 144739,
-      "num": 144739,
-      "word": "白百何剪了狗啃刘海",
-      "onboard_time": 1759990280,
-      "rank": 43,
       "category": "艺人"
     },
     {
@@ -7809,6 +7857,14 @@
       "onboard_time": 1759744160,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133584,
+      "num": 133584,
+      "word": "A股99只个股涨停",
+      "onboard_time": 1759994900,
+      "rank": 34,
+      "category": "财经"
     },
     {
       "raw_hot": 133577,
@@ -8955,14 +9011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117631,
-      "num": 117631,
-      "word": "一笑随歌追剧团",
-      "onboard_time": 1759994661,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117436,
       "num": 144816,
       "word": "韩国疗养院给老人服用大量安眠药",
@@ -8985,14 +9033,6 @@
       "onboard_time": 1759667123,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117295,
-      "num": 117295,
-      "word": "嘉人",
-      "onboard_time": 1759994361,
-      "rank": 38,
-      "category": "时尚"
     },
     {
       "raw_hot": 117279,
@@ -9289,6 +9329,14 @@
       "onboard_time": 1759654821,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 113644,
+      "num": 113644,
+      "word": "为什么苍蝇会把头拧下来玩",
+      "onboard_time": 1759995080,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 113634,
@@ -10363,6 +10411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104950,
+      "num": 104950,
+      "word": "美元黄金同步上涨",
+      "onboard_time": 1759995321,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 104840,
       "num": 104840,
       "word": "意面来了中国也得被炒着吃",
@@ -10777,6 +10833,14 @@
       "onboard_time": 1759763063,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100710,
+      "num": 100710,
+      "word": "姚琛高铁帮阿姨找手机",
+      "onboard_time": 1759994900,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 100646,
@@ -13187,6 +13251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70444,
+      "num": 118406,
+      "word": "女子骗钱后怕暴露在朋友圈发布死讯",
+      "onboard_time": 1759994661,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70335,
       "num": 93342,
       "word": "任嘉伦音乐节开成个人演唱会了",
@@ -13873,14 +13945,6 @@
       "onboard_time": 1759811661,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 51045,
-      "num": 113743,
-      "word": "女子骗钱后怕暴露在朋友圈发布死讯",
-      "onboard_time": 1759994661,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50627,
