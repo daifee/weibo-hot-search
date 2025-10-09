@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760034970650,
+  "endTime": 1760035703888,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -27907,6 +27907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51534,
+      "num": 54700,
+      "word": "许我耀眼36.6%",
+      "onboard_time": 1760031436,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51397,
       "num": 51397,
       "word": "白宫裁员",
@@ -28481,14 +28489,6 @@
       "onboard_time": 1759619778,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 40548,
-      "num": 54700,
-      "word": "许我耀眼36.6%",
-      "onboard_time": 1760031436,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 40441,

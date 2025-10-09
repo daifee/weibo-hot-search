@@ -1,6 +1,6 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760034970650,
+  "endTime": 1760035703888,
   "band_list": [
     {
       "raw_hot": 751291,
@@ -323,6 +323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 51534,
+      "num": 54700,
+      "word": "许我耀眼36.6%",
+      "onboard_time": 1760031436,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 50862,
       "num": 99230,
       "word": "周杰伦上海演唱会",
@@ -408,14 +416,6 @@
       "word": "月鳞绮纪",
       "onboard_time": 1760014762,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 40548,
-      "num": 54700,
-      "word": "许我耀眼36.6%",
-      "onboard_time": 1760031436,
-      "rank": 40,
       "category": "剧集"
     },
     {

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/10 02:36:10
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/10 02:48:23
 </p>
 </blockquote>
 <p>
@@ -11685,6 +11685,12 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC36.6%25%23" target="weibo">
+许我耀眼36.6%（热度：51534）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E8%B7%AF%E6%BC%94%E5%98%B4%E7%93%A2%E7%9E%AC%E9%97%B4%E7%BA%A2%E6%B8%A9%23" target="weibo">
 丁程鑫路演嘴瓢瞬间红温（热度：51144）
 </a>
@@ -11909,12 +11915,6 @@ WTT更新北满冠军宣传照（热度：43795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BD%A0%E4%B8%8A%E9%A3%9E%E6%9C%BA%E5%90%8E%E5%8F%91%E7%8E%B0%E9%82%BB%E5%BA%A7%E6%98%AF%E5%B0%8F%E7%8C%AB%23" target="weibo">
 当你上飞机后发现邻座是小猫（热度：40552）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC36.6%25%23" target="weibo">
-许我耀眼36.6%（热度：40548）
 </a>
 </li>
 

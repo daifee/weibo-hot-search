@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/10 00:34:58 ~ 2025/10/10 02:36:10
+本榜单时间：2025/10/10 00:34:58 ~ 2025/10/10 02:48:23
 </p>
 </blockquote>
 <p>
@@ -255,6 +255,12 @@ T1全队发博（热度：70081）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC36.6%25%23" target="weibo">
+许我耀眼36.6%（热度：51534）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 周杰伦上海演唱会（热度：50862）
 </a>
@@ -317,12 +323,6 @@ iG全员回国（热度：47897）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%B3%9E%E7%BB%AE%E7%BA%AA%23" target="weibo">
 月鳞绮纪（热度：42359）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC36.6%25%23" target="weibo">
-许我耀眼36.6%（热度：40548）
 </a>
 </li>
 
