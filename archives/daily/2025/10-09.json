@@ -1,6 +1,6 @@
 {
   "startTime": 1759941149301,
-  "endTime": 1759987490940,
+  "endTime": 1759988457478,
   "band_list": [
     {
       "raw_hot": 1676027,
@@ -9,6 +9,14 @@
       "onboard_time": 1759974559,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1467392,
+      "num": 1467392,
+      "word": "四川新龙5.4级地震",
+      "onboard_time": 1759987881,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1226757,
@@ -25,6 +33,14 @@
       "onboard_time": 1759971260,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1095348,
+      "num": 1095348,
+      "word": "本周上三休一",
+      "onboard_time": 1759982180,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1092860,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 1019235,
-      "num": 348722,
+      "num": 359532,
       "word": "胡先煦 我有一儿一女两只猫",
       "onboard_time": 1759981701,
       "rank": 10,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 978163,
-      "num": 337526,
+      "num": 358310,
       "word": "范世琦成都站演唱会取消",
       "onboard_time": 1759983502,
       "rank": 12,
@@ -83,16 +99,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 797447,
-      "num": 797447,
-      "word": "本周上三休一",
-      "onboard_time": 1759982180,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 680010,
-      "num": 335419,
+      "raw_hot": 748293,
+      "num": 358125,
       "word": "许我耀眼复合",
       "onboard_time": 1759985422,
       "rank": 12,
@@ -113,6 +121,14 @@
       "onboard_time": 1759969219,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 578096,
+      "num": 357441,
+      "word": "狐妖王权篇改名了",
+      "onboard_time": 1759984281,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 515103,
@@ -139,14 +155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 492844,
-      "num": 322895,
-      "word": "狐妖王权篇改名了",
-      "onboard_time": 1759984281,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 480511,
       "num": 480511,
       "word": "国庆去韩国的人后悔了吗",
@@ -171,12 +179,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 418762,
+      "num": 356558,
+      "word": "桂纶镁41岁状态",
+      "onboard_time": 1759984761,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408054,
       "num": 408054,
       "word": "2025国庆档票房18.35亿",
       "onboard_time": 1759978819,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 404867,
+      "num": 404867,
+      "word": "妈妈最爱我们梳的发型出现了",
+      "onboard_time": 1759983502,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 404280,
@@ -201,22 +225,6 @@
       "onboard_time": 1759983202,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 379395,
-      "num": 379395,
-      "word": "妈妈最爱我们梳的发型出现了",
-      "onboard_time": 1759983502,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 378441,
-      "num": 315833,
-      "word": "桂纶镁41岁状态",
-      "onboard_time": 1759984761,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 358739,
@@ -289,6 +297,14 @@
       "onboard_time": 1759939280,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 274947,
+      "num": 274947,
+      "word": "抑郁症多半心脏有问题",
+      "onboard_time": 1759984341,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 260584,
@@ -371,6 +387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 224014,
+      "num": 224014,
+      "word": "肝不好的人起床或有5种表现",
+      "onboard_time": 1759986800,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 223509,
       "num": 223509,
       "word": "张继科说比赛输了就没下次了",
@@ -387,12 +411,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 221380,
-      "num": 221380,
-      "word": "抑郁症多半心脏有问题",
-      "onboard_time": 1759984341,
-      "rank": 26,
-      "category": "健康医疗"
+      "raw_hot": 217836,
+      "num": 217836,
+      "word": "杨瀚森六犯离场",
+      "onboard_time": 1759986681,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 209765,
@@ -401,6 +425,14 @@
       "onboard_time": 1759985781,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 206362,
+      "num": 206362,
+      "word": "卢远前采",
+      "onboard_time": 1759986800,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 197508,
@@ -425,6 +457,14 @@
       "onboard_time": 1759965438,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 194449,
+      "num": 194449,
+      "word": "女子将奶茶倒在他人头上后逃跑",
+      "onboard_time": 1759983981,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194248,
@@ -483,22 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177383,
-      "num": 177383,
-      "word": "女子将奶茶倒在他人头上后逃跑",
-      "onboard_time": 1759983981,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 177378,
-      "num": 177378,
-      "word": "杨瀚森六犯离场",
-      "onboard_time": 1759986681,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 177073,
       "num": 100458,
       "word": "许我耀眼第29集预告",
@@ -539,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167701,
+      "num": 167701,
+      "word": "女子买27万购物卡员工报警挽损67万",
+      "onboard_time": 1759986859,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166984,
       "num": 166984,
       "word": "网友称买10斤芒果礼盒3斤是书",
@@ -555,12 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164415,
-      "num": 164415,
-      "word": "卢远前采",
-      "onboard_time": 1759986800,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 163307,
+      "num": 163307,
+      "word": "戒咖啡三个月后我身体发生的变化",
+      "onboard_time": 1759986859,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 161308,
@@ -569,6 +601,14 @@
       "onboard_time": 1759907120,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159672,
+      "num": 159672,
+      "word": "卢昱晓哭戏靠掐大腿",
+      "onboard_time": 1759988120,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 157369,
@@ -635,14 +675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146322,
-      "num": 146322,
-      "word": "女子买27万购物卡员工报警挽损67万",
-      "onboard_time": 1759986859,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145696,
       "num": 125922,
       "word": "蒋欣这也太美了",
@@ -659,14 +691,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 144892,
-      "num": 144892,
-      "word": "肝不好的人起床或有5种表现",
-      "onboard_time": 1759986800,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 143733,
       "num": 142013,
       "word": "王者最帅伴生皮",
@@ -675,8 +699,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 140261,
-      "num": 140261,
+      "raw_hot": 140552,
+      "num": 140552,
       "word": "陈立农cos丁禹兮慕声",
       "onboard_time": 1759985961,
       "rank": 33,
@@ -689,14 +713,6 @@
       "onboard_time": 1759984460,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 138647,
-      "num": 138647,
-      "word": "戒咖啡三个月后我身体发生的变化",
-      "onboard_time": 1759986859,
-      "rank": 34,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 136731,
@@ -755,19 +771,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131242,
+      "num": 131242,
+      "word": "杨瀚森首秀4分4篮板1助攻",
+      "onboard_time": 1759987699,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131154,
+      "num": 131154,
+      "word": "建议东北人不要随便给菜起名了",
+      "onboard_time": 1759985300,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130559,
       "num": 130559,
       "word": "一代人有一代人的正宗标准",
       "onboard_time": 1759979659,
       "rank": 28,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 130024,
-      "num": 130024,
-      "word": "建议东北人不要随便给菜起名了",
-      "onboard_time": 1759985300,
-      "rank": 36,
       "category": "幽默"
     },
     {
@@ -859,6 +883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122088,
+      "num": 122088,
+      "word": "冯小刚带女儿现身陈思诚工作室",
+      "onboard_time": 1759987220,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120417,
       "num": 120417,
       "word": "男子骑车玩手机致脑袋卡进红绿灯",
@@ -881,14 +913,6 @@
       "onboard_time": 1759978819,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119011,
-      "num": 119011,
-      "word": "冯小刚带女儿现身陈思诚工作室",
-      "onboard_time": 1759987220,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 116193,
@@ -929,6 +953,14 @@
       "onboard_time": 1759977979,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110380,
+      "num": 132742,
+      "word": "美军工资发不出来了",
+      "onboard_time": 1759984822,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110332,
@@ -987,6 +1019,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 104672,
+      "num": 221514,
+      "word": "勇士战胜开拓者",
+      "onboard_time": 1759986622,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104536,
       "num": 104536,
       "word": "李晟 都给我好好上学",
@@ -1011,12 +1051,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 101812,
-      "num": 132742,
-      "word": "美军工资发不出来了",
-      "onboard_time": 1759984822,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 99799,
+      "num": 99799,
+      "word": "孙颖莎顶着小头盔出发印度",
+      "onboard_time": 1759986921,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 98645,
@@ -1048,6 +1088,14 @@
       "word": "存储芯片板块爆发",
       "onboard_time": 1759981519,
       "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 95538,
+      "num": 95538,
+      "word": "黄金之后黄金股爆了",
+      "onboard_time": 1759987820,
+      "rank": 49,
       "category": "财经"
     },
     {
@@ -1107,8 +1155,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88223,
+      "num": 122232,
+      "word": "李诞 王安宇怎么这么帅",
+      "onboard_time": 1759988421,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87818,
-      "num": 849108,
+      "num": 865753,
       "word": "国庆假期值得珍藏的记忆画面",
       "onboard_time": 1759972819,
       "rank": 41,
@@ -1264,14 +1320,6 @@
       "word": "开拓者vs勇士",
       "onboard_time": 1759972579,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 72176,
-      "num": 221514,
-      "word": "勇士战胜开拓者",
-      "onboard_time": 1759986622,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -1547,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45508,
+      "num": 242513,
+      "word": "猫人暖绒绒家居服松弛感穿搭",
+      "onboard_time": 1759984460,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 44013,
       "num": 109583,
       "word": "微博大眼音乐节定档",
@@ -1561,14 +1617,6 @@
       "onboard_time": 1759981641,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 39526,
-      "num": 242513,
-      "word": "猫人暖绒绒家居服松弛感穿搭",
-      "onboard_time": 1759984460,
-      "rank": 19,
-      "category": "时尚"
     },
     {
       "raw_hot": 39058,
@@ -1593,6 +1641,14 @@
       "onboard_time": 1759929202,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 34390,
+      "num": 123537,
+      "word": "很有童真的孙颖莎",
+      "onboard_time": 1759987579,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 33425,
@@ -1635,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19981,
+      "num": 128808,
+      "word": "记者调查短剧群演招募乱象",
+      "onboard_time": 1759987040,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18659,
       "num": 29691,
       "word": "美国多地航班延误",
@@ -1672,14 +1736,6 @@
       "word": "网红阿霞出海遇难丈夫发声",
       "onboard_time": 1759949294,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12937,
-      "num": 128808,
-      "word": "记者调查短剧群演招募乱象",
-      "onboard_time": 1759987040,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
