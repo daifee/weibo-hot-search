@@ -1,7 +1,15 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760049593016,
+  "endTime": 1760052179023,
   "band_list": [
+    {
+      "raw_hot": 932510,
+      "num": 932510,
+      "word": "新加坡双尸案女儿是剑桥博士疑饿死",
+      "onboard_time": 1760019980,
+      "rank": 6,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 751291,
       "num": 856942,
@@ -11,12 +19,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 690540,
+      "num": 128149,
+      "word": "朋友圈发照片一定要检查视野盲区",
+      "onboard_time": 1760050996,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 574395,
-      "num": 430469,
+      "num": 466893,
       "word": "旧金山街头像丧尸大片",
       "onboard_time": 1760020822,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 539592,
+      "num": 539592,
+      "word": "知情人士称宗馥莉正常上班",
+      "onboard_time": 1760040494,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 510491,
@@ -25,14 +49,6 @@
       "onboard_time": 1760021902,
       "rank": 1,
       "category": "动漫,休闲"
-    },
-    {
-      "raw_hot": 490589,
-      "num": 517400,
-      "word": "新加坡双尸案女儿是剑桥博士疑饿死",
-      "onboard_time": 1760019980,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 419669,
@@ -59,14 +75,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299759,
-      "num": 299759,
-      "word": "知情人士称宗馥莉正常上班",
-      "onboard_time": 1760040494,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 296520,
       "num": 296520,
       "word": "黄金",
@@ -75,11 +83,35 @@
       "category": "财经"
     },
     {
+      "raw_hot": 295352,
+      "num": 125989,
+      "word": "石原里美3年生2娃",
+      "onboard_time": 1760031376,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 278650,
+      "num": 278650,
+      "word": "男子与女友吵架驾车撞死一家三口",
+      "onboard_time": 1760050938,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258437,
       "num": 258437,
       "word": "高反被救女子有成植物人的可能",
       "onboard_time": 1760022982,
       "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248233,
+      "num": 99845,
+      "word": "高反失温女孩年仅20岁刚毕业",
+      "onboard_time": 1760022921,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -99,28 +131,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188494,
-      "num": 99845,
-      "word": "高反失温女孩年仅20岁刚毕业",
-      "onboard_time": 1760022921,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161677,
       "num": 223874,
       "word": "完美婆娘涨粉7.31万",
       "onboard_time": 1760025621,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151454,
-      "num": 57810,
-      "word": "石原里美3年生2娃",
-      "onboard_time": 1760031376,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 141921,
@@ -139,6 +155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123078,
+      "num": 123078,
+      "word": "以色列发出警告",
+      "onboard_time": 1760017822,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119605,
       "num": 119605,
       "word": "女子错峰游韩国两步一个中国人",
@@ -155,12 +179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104116,
-      "num": 104116,
-      "word": "以色列发出警告",
-      "onboard_time": 1760017822,
+      "raw_hot": 104617,
+      "num": 104617,
+      "word": "iPhone18Fold中框曝光",
+      "onboard_time": 1760050938,
       "rank": 15,
-      "category": "国际时政"
+      "category": "数码"
     },
     {
       "raw_hot": 102657,
@@ -203,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75760,
+      "num": 99655,
+      "word": "连续三天11点入睡的感受",
+      "onboard_time": 1760005221,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75642,
       "num": 99737,
       "word": "女子结婚为省钱到美甲店打金手镯",
@@ -227,12 +259,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71561,
-      "num": 99655,
-      "word": "连续三天11点入睡的感受",
-      "onboard_time": 1760005221,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 73371,
+      "num": 99449,
+      "word": "印尼男子按习俗将出轨妻子交予情夫",
+      "onboard_time": 1760004022,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 70365,
+      "num": 99095,
+      "word": "男孩因不给买新手机商场撒泼",
+      "onboard_time": 1760010801,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70081,
@@ -259,12 +299,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68945,
+      "num": 68945,
+      "word": "许我耀眼36.6%",
+      "onboard_time": 1760031436,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68522,
       "num": 99495,
       "word": "李沁坦诚度",
       "onboard_time": 1760024959,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66817,
+      "num": 66817,
+      "word": "我对世界的态度就宋祖儿这样",
+      "onboard_time": 1760048714,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 65517,
@@ -275,12 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 61697,
-      "num": 99449,
-      "word": "印尼男子按习俗将出轨妻子交予情夫",
-      "onboard_time": 1760004022,
-      "rank": 33,
-      "category": "海外新闻"
+      "raw_hot": 63003,
+      "num": 99568,
+      "word": "锂电池出口管制",
+      "onboard_time": 1760006481,
+      "rank": 29,
+      "category": "国内时政,财经"
     },
     {
       "raw_hot": 59366,
@@ -297,6 +353,14 @@
       "onboard_time": 1760013502,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54771,
+      "num": 54771,
+      "word": "河南景区1元午餐实收多了1327元",
+      "onboard_time": 1760050938,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54275,
@@ -331,14 +395,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 51534,
-      "num": 54700,
-      "word": "许我耀眼36.6%",
-      "onboard_time": 1760031436,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 50862,
       "num": 99230,
       "word": "周杰伦上海演唱会",
@@ -363,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49181,
+      "num": 49181,
+      "word": "穿秋裤",
+      "onboard_time": 1760048418,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48461,
       "num": 99139,
       "word": "夏以昼",
@@ -371,12 +435,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 48225,
-      "num": 99095,
-      "word": "男孩因不给买新手机商场撒泼",
-      "onboard_time": 1760010801,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 47991,
+      "num": 131500,
+      "word": "以色列批准加沙停火协议",
+      "onboard_time": 1760051658,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47897,
@@ -393,14 +457,6 @@
       "onboard_time": 1760008640,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 46653,
-      "num": 99568,
-      "word": "锂电池出口管制",
-      "onboard_time": 1760006481,
-      "rank": 29,
-      "category": "国内时政,财经"
     },
     {
       "raw_hot": 46366,
@@ -435,12 +491,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 37044,
+      "num": 54691,
+      "word": "一人食被歧视韩国网友怒了",
+      "onboard_time": 1760004801,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 34231,
       "num": 76832,
       "word": "和汪顺全红婵一起为全运会加油",
       "onboard_time": 1760027839,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33692,
+      "num": 48091,
+      "word": "洛杉矶最严重火灾纵火嫌疑人被捕",
+      "onboard_time": 1760037793,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 32522,
@@ -459,12 +531,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 28282,
-      "num": 54691,
-      "word": "一人食被歧视韩国网友怒了",
-      "onboard_time": 1760004801,
+      "raw_hot": 31034,
+      "num": 48070,
+      "word": "店家得打电话逐字确认好几遍",
+      "onboard_time": 1760035993,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 25936,
+      "num": 47912,
+      "word": "今年双11开始了",
+      "onboard_time": 1760013260,
       "rank": 48,
-      "category": "海外新闻"
+      "category": "互联网"
     },
     {
       "raw_hot": 25178,
@@ -475,36 +555,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 24310,
-      "num": 29869,
-      "word": "洛杉矶最严重火灾纵火嫌疑人被捕",
-      "onboard_time": 1760037793,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 24223,
       "num": 54696,
       "word": "展轩晒文旅推荐官聘书",
       "onboard_time": 1760031556,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23079,
-      "num": 29856,
-      "word": "我对世界的态度就宋祖儿这样",
-      "onboard_time": 1760048714,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 18621,
-      "num": 29794,
-      "word": "店家得打电话逐字确认好几遍",
-      "onboard_time": 1760035993,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 17605,
@@ -521,22 +577,6 @@
       "onboard_time": 1760037313,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14863,
-      "num": 29733,
-      "word": "穿秋裤",
-      "onboard_time": 1760048418,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14030,
-      "num": 29714,
-      "word": "今年双11开始了",
-      "onboard_time": 1760013260,
-      "rank": 48,
-      "category": "互联网"
     },
     {
       "raw_hot": 13397,
@@ -603,8 +643,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8583,
-      "num": 435822,
+      "raw_hot": 8956,
+      "num": 474074,
       "word": "8天国内出游8.88亿人次",
       "onboard_time": 1759984822,
       "rank": 2,

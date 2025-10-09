@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1760049593016,
+  "endTime": 1760052179023,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1107,6 +1107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 690540,
+      "num": 128149,
+      "word": "朋友圈发照片一定要检查视野盲区",
+      "onboard_time": 1760050996,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 685154,
       "num": 685154,
       "word": "王楚钦中国大满贯后发文",
@@ -1600,6 +1608,14 @@
       "word": "女子在地铁上因他人说到鸡鸣寺急眼",
       "onboard_time": 1759728442,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 539592,
+      "num": 539592,
+      "word": "知情人士称宗馥莉正常上班",
+      "onboard_time": 1760040494,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -3475,12 +3491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 299759,
-      "num": 299759,
-      "word": "知情人士称宗馥莉正常上班",
-      "onboard_time": 1760040494,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 295352,
+      "num": 125989,
+      "word": "石原里美3年生2娃",
+      "onboard_time": 1760031376,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 295017,
@@ -3753,6 +3769,14 @@
       "onboard_time": 1759636700,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278650,
+      "num": 278650,
+      "word": "男子与女友吵架驾车撞死一家三口",
+      "onboard_time": 1760050938,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 278474,
@@ -4185,6 +4209,14 @@
       "onboard_time": 1759714519,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248233,
+      "num": 123552,
+      "word": "高反失温女孩年仅20岁刚毕业",
+      "onboard_time": 1760022921,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247327,
@@ -5465,14 +5497,6 @@
       "onboard_time": 1759674264,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 190156,
-      "num": 123552,
-      "word": "高反失温女孩年仅20岁刚毕业",
-      "onboard_time": 1760022921,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 190150,
@@ -7409,14 +7433,6 @@
       "onboard_time": 1759644202,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151454,
-      "num": 57810,
-      "word": "石原里美3年生2娃",
-      "onboard_time": 1760031376,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 151290,
@@ -11579,6 +11595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104617,
+      "num": 104617,
+      "word": "iPhone18Fold中框曝光",
+      "onboard_time": 1760050938,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 104576,
       "num": 104576,
       "word": "金饰克价涨至1176元",
@@ -14819,6 +14843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68945,
+      "num": 68945,
+      "word": "许我耀眼36.6%",
+      "onboard_time": 1760031436,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 68632,
       "num": 87442,
       "word": "国庆情侣出游的真实现状",
@@ -14913,6 +14945,14 @@
       "onboard_time": 1759640602,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66817,
+      "num": 66817,
+      "word": "我对世界的态度就宋祖儿这样",
+      "onboard_time": 1760048714,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 66794,
@@ -15363,6 +15403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 54771,
+      "num": 54771,
+      "word": "河南景区1元午餐实收多了1327元",
+      "onboard_time": 1760050938,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54549,
       "num": 365748,
       "word": "刘嘉玲私人健康顾问被曝光",
@@ -15571,14 +15619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 51534,
-      "num": 54700,
-      "word": "许我耀眼36.6%",
-      "onboard_time": 1760031436,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 51144,
       "num": 163749,
       "word": "丁程鑫路演嘴瓢瞬间红温",
@@ -15651,6 +15691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49181,
+      "num": 49181,
+      "word": "穿秋裤",
+      "onboard_time": 1760048418,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49172,
       "num": 49172,
       "word": "计划有变无锡准备夺冠",
@@ -15697,6 +15745,14 @@
       "onboard_time": 1759683979,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47991,
+      "num": 131500,
+      "word": "以色列批准加沙停火协议",
+      "onboard_time": 1760051658,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47719,
@@ -16067,6 +16123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33692,
+      "num": 48091,
+      "word": "洛杉矶最严重火灾纵火嫌疑人被捕",
+      "onboard_time": 1760037793,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 33425,
       "num": 103434,
       "word": "老太房间囤满垃圾进出靠爬行",
@@ -16185,6 +16249,14 @@
       "onboard_time": 1759998200,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31034,
+      "num": 48070,
+      "word": "店家得打电话逐字确认好几遍",
+      "onboard_time": 1760035993,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 30961,
@@ -16411,14 +16483,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 24310,
-      "num": 29869,
-      "word": "洛杉矶最严重火灾纵火嫌疑人被捕",
-      "onboard_time": 1760037793,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 24223,
       "num": 54696,
       "word": "展轩晒文旅推荐官聘书",
@@ -16449,14 +16513,6 @@
       "onboard_time": 1759954454,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23079,
-      "num": 29856,
-      "word": "我对世界的态度就宋祖儿这样",
-      "onboard_time": 1760048714,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 22873,
@@ -16587,14 +16643,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 18621,
-      "num": 29794,
-      "word": "店家得打电话逐字确认好几遍",
-      "onboard_time": 1760035993,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 18587,
       "num": 29603,
       "word": "当女朋友知道我有强迫症后",
@@ -16713,14 +16761,6 @@
       "onboard_time": 1759889239,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14863,
-      "num": 29733,
-      "word": "穿秋裤",
-      "onboard_time": 1760048418,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 14794,
