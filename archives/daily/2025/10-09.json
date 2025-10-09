@@ -1,7 +1,15 @@
 {
   "startTime": 1759941149301,
-  "endTime": 1759975888188,
+  "endTime": 1759979142569,
   "band_list": [
+    {
+      "raw_hot": 1634747,
+      "num": 1634747,
+      "word": "高速免费结束前收费站人员高喊快点",
+      "onboard_time": 1759974559,
+      "rank": 21,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1107912,
       "num": 941593,
@@ -9,6 +17,14 @@
       "onboard_time": 1759971260,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1058372,
+      "num": 1058372,
+      "word": "大疆",
+      "onboard_time": 1759974618,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 1045484,
@@ -35,12 +51,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 681881,
-      "num": 193155,
-      "word": "高速免费结束前收费站人员高喊快点",
-      "onboard_time": 1759974559,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 648305,
+      "num": 200384,
+      "word": "孟子义太体面了",
+      "onboard_time": 1759976538,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 634182,
@@ -131,8 +147,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 260812,
-      "num": 191321,
+      "raw_hot": 288278,
+      "num": 194004,
       "word": "新华社祝贺王一博85车队",
       "onboard_time": 1759975279,
       "rank": 13,
@@ -147,6 +163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 241417,
+      "num": 241417,
+      "word": "对稀土相关技术实施出口管制的决定",
+      "onboard_time": 1759974980,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 239581,
       "num": 140982,
       "word": "肖战 Gucci包机",
@@ -155,20 +179,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 238009,
+      "num": 192108,
+      "word": "孙颖莎何卓佳香港机场买玩偶",
+      "onboard_time": 1759977679,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229084,
       "num": 102826,
       "word": "赵今麦miumiu第一个单人共创艺人",
       "onboard_time": 1759936282,
       "rank": 14,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 228371,
-      "num": 228371,
-      "word": "对稀土相关技术实施出口管制的决定",
-      "onboard_time": 1759974980,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 226891,
@@ -211,6 +235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200851,
+      "num": 200851,
+      "word": "哈马斯发声明",
+      "onboard_time": 1759974559,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 195330,
       "num": 195330,
       "word": "A股",
@@ -233,6 +265,14 @@
       "onboard_time": 1759928180,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190902,
+      "num": 190902,
+      "word": "国庆期间高速免费小车被收费",
+      "onboard_time": 1759976119,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189992,
@@ -275,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170443,
+      "num": 170443,
+      "word": "张军桥医生登上见义勇为勇士榜",
+      "onboard_time": 1759977919,
+      "rank": 16,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 166984,
       "num": 166984,
       "word": "网友称买10斤芒果礼盒3斤是书",
@@ -297,6 +345,14 @@
       "onboard_time": 1759907120,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160411,
+      "num": 131456,
+      "word": "这个血型天生更易得痔疮",
+      "onboard_time": 1759978159,
+      "rank": 22,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 157369,
@@ -323,12 +379,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 136062,
-      "num": 136062,
-      "word": "哈马斯发声明",
-      "onboard_time": 1759974559,
-      "rank": 42,
-      "category": "国际时政"
+      "raw_hot": 143733,
+      "num": 131023,
+      "word": "王者最帅伴生皮",
+      "onboard_time": 1759978639,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 139591,
+      "num": 139591,
+      "word": "2025国庆档票房18.35亿",
+      "onboard_time": 1759978819,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 135667,
@@ -345,6 +409,14 @@
       "onboard_time": 1759969520,
       "rank": 24,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 130900,
+      "num": 130900,
+      "word": "广西南宁通报出现陷坑",
+      "onboard_time": 1759976119,
+      "rank": 24,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 127574,
@@ -371,6 +443,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124442,
+      "num": 124442,
+      "word": "四大伤肝元凶",
+      "onboard_time": 1759975099,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 124408,
+      "num": 124408,
+      "word": "秘鲁一主教被曝有17名情人",
+      "onboard_time": 1759977378,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 120417,
       "num": 120417,
       "word": "男子骑车玩手机致脑袋卡进红绿灯",
@@ -379,12 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118218,
-      "num": 118218,
-      "word": "大疆",
-      "onboard_time": 1759974618,
-      "rank": 28,
-      "category": "数码"
+      "raw_hot": 116193,
+      "num": 116193,
+      "word": "全球围观中国放假",
+      "onboard_time": 1759973001,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115931,
@@ -403,12 +491,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 112929,
+      "num": 112929,
+      "word": "Viper更想iG获胜",
+      "onboard_time": 1759976419,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112691,
       "num": 112691,
       "word": "杜兰特火箭季前赛首秀",
       "onboard_time": 1759974559,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112566,
+      "num": 112566,
+      "word": "男子撞脸谢霆锋在演唱会被围拍",
+      "onboard_time": 1759977259,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 110332,
@@ -435,12 +539,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107913,
+      "num": 107913,
+      "word": "钱塘江炫技式上新大潮造型",
+      "onboard_time": 1759978819,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107254,
       "num": 107254,
       "word": "李莎旻子和管乐的家撞款了",
       "onboard_time": 1759965498,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105649,
+      "num": 105649,
+      "word": "会玩其实是个很重要的能力",
+      "onboard_time": 1759977979,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 104032,
+      "num": 104032,
+      "word": "元流之子新职业辅助上线",
+      "onboard_time": 1759978639,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 98645,
@@ -451,28 +579,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 98588,
-      "num": 98588,
-      "word": "四大伤肝元凶",
-      "onboard_time": 1759975099,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 98556,
-      "num": 98556,
-      "word": "全球围观中国放假",
-      "onboard_time": 1759973001,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96175,
       "num": 96175,
       "word": "官方回应网红骑马强闯洱海廊道",
       "onboard_time": 1759973718,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93465,
+      "num": 93465,
+      "word": "姚琛高铁直播",
+      "onboard_time": 1759976299,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 92599,
@@ -523,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87797,
+      "num": 87797,
+      "word": "王一博全运会会歌气势如虹",
+      "onboard_time": 1759977019,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87774,
       "num": 100233,
       "word": "刘萧旭郭宇欣 接二搭",
@@ -537,6 +665,14 @@
       "onboard_time": 1759966518,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86686,
+      "num": 86686,
+      "word": "杨瀚森季前赛首秀",
+      "onboard_time": 1759972460,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 85466,
@@ -617,14 +753,6 @@
       "onboard_time": 1759938201,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 74803,
-      "num": 74803,
-      "word": "杨瀚森季前赛首秀",
-      "onboard_time": 1759972460,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 73386,
