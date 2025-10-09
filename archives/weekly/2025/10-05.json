@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759966623187,
+  "endTime": 1759974594865,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -451,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1045484,
+      "num": 1167277,
+      "word": "男子故意泄密致我国货船在公海被拦",
+      "onboard_time": 1759966759,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1034736,
       "num": 288469,
       "word": "许妍当众承认沈皓辰是自己儿子",
@@ -539,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 932784,
+      "num": 932784,
+      "word": "现在冰箱贴发展成这样了吗",
+      "onboard_time": 1759967539,
+      "rank": 3,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 925854,
       "num": 925854,
       "word": "官方通报黄某某拒服兵役",
@@ -569,6 +585,14 @@
       "onboard_time": 1759794797,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 889041,
+      "num": 209212,
+      "word": "刘萧旭疑似结婚了",
+      "onboard_time": 1759973658,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 888172,
@@ -1003,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 634182,
+      "num": 634182,
+      "word": "老板误把油当饮料卖好奇咋没人找",
+      "onboard_time": 1759972400,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 633062,
       "num": 633062,
       "word": "王者荣耀 补偿我一个荣耀水晶",
@@ -1121,6 +1153,14 @@
       "onboard_time": 1759653561,
       "rank": 33,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 582537,
+      "num": 582537,
+      "word": "女生找回手机后发现相册多了段视频",
+      "onboard_time": 1759969219,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 579640,
@@ -2459,6 +2499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334942,
+      "num": 334942,
+      "word": "特朗普团队向印度推销大豆",
+      "onboard_time": 1759968802,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 333715,
       "num": 333715,
       "word": "王曼昱回应4比2孙颖莎",
@@ -3411,6 +3459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244421,
+      "num": 244421,
+      "word": "印度毒糖浆致20名儿童死亡",
+      "onboard_time": 1759966459,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 243270,
       "num": 243270,
       "word": "恋与深空 夏以昼",
@@ -3633,6 +3689,22 @@
       "onboard_time": 1759900940,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226239,
+      "num": 226239,
+      "word": "假期后劲太大了",
+      "onboard_time": 1759939280,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226045,
+      "num": 126698,
+      "word": "为什么O型血被称为最惨的血型",
+      "onboard_time": 1759965498,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 225986,
@@ -3889,6 +3961,14 @@
       "onboard_time": 1759892301,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210024,
+      "num": 210024,
+      "word": "国际金价早盘跳水",
+      "onboard_time": 1759970962,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 209362,
@@ -4235,6 +4315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194686,
+      "num": 194686,
+      "word": "中国近半年没买过美国一粒大豆",
+      "onboard_time": 1759965438,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 193861,
       "num": 193861,
       "word": "JDG",
@@ -4433,6 +4521,14 @@
       "onboard_time": 1759674264,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189992,
+      "num": 189992,
+      "word": "节后第1天多地雨雨雨雨雨",
+      "onboard_time": 1759973001,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189851,
@@ -4747,6 +4843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181163,
+      "num": 181163,
+      "word": "协议确保以色列全面撤军",
+      "onboard_time": 1759967659,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 181062,
       "num": 210252,
       "word": "以色列宣布驱逐环保少女等171人",
@@ -4883,6 +4987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177918,
+      "num": 177918,
+      "word": "64岁演员林俊贤景区打工",
+      "onboard_time": 1759965558,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 177890,
       "num": 177890,
       "word": "中秋看卓沅跳舞爽到了",
@@ -4985,14 +5097,6 @@
       "onboard_time": 1759756102,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175674,
-      "num": 175674,
-      "word": "假期后劲太大了",
-      "onboard_time": 1759939280,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175256,
@@ -5369,6 +5473,14 @@
       "onboard_time": 1759635559,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166224,
+      "num": 166224,
+      "word": "节后第1个工作日",
+      "onboard_time": 1759965019,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166220,
@@ -5987,14 +6099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151520,
-      "num": 151520,
-      "word": "中国近半年没买过美国一粒大豆",
-      "onboard_time": 1759965438,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 151290,
       "num": 151290,
       "word": "莲花楼主题爱奇艺乐园",
@@ -6121,6 +6225,14 @@
       "onboard_time": 1759930103,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148423,
+      "num": 126174,
+      "word": "高速免费结束前收费站人员高喊快点",
+      "onboard_time": 1759974559,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148330,
@@ -6307,6 +6419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145696,
+      "num": 125922,
+      "word": "蒋欣这也太美了",
+      "onboard_time": 1759971501,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 145694,
       "num": 123029,
       "word": "黄金狂飙原因",
@@ -6321,14 +6441,6 @@
       "onboard_time": 1759843584,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 145464,
-      "num": 111195,
-      "word": "64岁演员林俊贤景区打工",
-      "onboard_time": 1759965558,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 145443,
@@ -7001,6 +7113,14 @@
       "onboard_time": 1759896981,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133957,
+      "num": 122935,
+      "word": "CELINE的选人眼光",
+      "onboard_time": 1759969520,
+      "rank": 24,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 133861,
@@ -7867,11 +7987,27 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 119996,
+      "num": 119996,
+      "word": "男子骑车玩手机致脑袋卡进红绿灯",
+      "onboard_time": 1759973179,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119949,
       "num": 119949,
       "word": "陈哲远妈妈包场",
       "onboard_time": 1759918820,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119803,
+      "num": 119803,
+      "word": "侯明昊出道以来第一次摇人宣传",
+      "onboard_time": 1759973119,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -8267,6 +8403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114545,
+      "num": 114545,
+      "word": "脚部5个表现或是大病信号",
+      "onboard_time": 1759968500,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 114532,
       "num": 206471,
       "word": "世界之外",
@@ -8468,7 +8612,7 @@
     },
     {
       "raw_hot": 112458,
-      "num": 497829,
+      "num": 936073,
       "word": "北方开启秋雨绵绵模式",
       "onboard_time": 1759885700,
       "rank": 28,
@@ -8739,6 +8883,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110332,
+      "num": 110332,
+      "word": "女生怀孕后会长高的原因",
+      "onboard_time": 1759973300,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110313,
+      "num": 110312,
+      "word": "杜兰特火箭季前赛首秀",
+      "onboard_time": 1759974559,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110150,
       "num": 110150,
       "word": "偶遇孙涵清刘子晗",
@@ -8793,6 +8953,14 @@
       "onboard_time": 1759659982,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109925,
+      "num": 109925,
+      "word": "20点计划第一阶段协议已签署",
+      "onboard_time": 1759969339,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 109921,
@@ -8923,6 +9091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108949,
+      "num": 110313,
+      "word": "特朗普称被扣押人员将很快获释",
+      "onboard_time": 1759968202,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108883,
       "num": 110206,
       "word": "这是反诈版中秋赏月吧",
@@ -9040,6 +9216,14 @@
       "word": "陈数李沁聊庆余年",
       "onboard_time": 1759749742,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107254,
+      "num": 107254,
+      "word": "李莎旻子和管乐的家撞款了",
+      "onboard_time": 1759965498,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -9891,14 +10075,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 98890,
-      "num": 98890,
-      "word": "为什么O型血被称为最惨的血型",
-      "onboard_time": 1759965498,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 98884,
       "num": 98884,
       "word": "陈伟霆上一秒霸总下一秒军阀",
@@ -10211,6 +10387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 96175,
+      "num": 96175,
+      "word": "官方回应网红骑马强闯洱海廊道",
+      "onboard_time": 1759973718,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96121,
       "num": 96121,
       "word": "温峥嵘完全是温柔妈妈级别",
@@ -10385,6 +10569,14 @@
       "onboard_time": 1759843884,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94058,
+      "num": 94058,
+      "word": "全球围观中国放假",
+      "onboard_time": 1759973001,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94015,
@@ -10931,12 +11123,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89016,
+      "num": 89016,
+      "word": "美官员称加沙战争已经结束",
+      "onboard_time": 1759968500,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88815,
       "num": 88815,
       "word": "厄瓜多尔总统专车遭到约500人围攻",
       "onboard_time": 1759899741,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88806,
+      "num": 94688,
+      "word": "2025中秋国庆假期名场面",
+      "onboard_time": 1759974320,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88549,
@@ -10993,6 +11201,22 @@
       "onboard_time": 1759648999,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88102,
+      "num": 88102,
+      "word": "哈马斯发声明",
+      "onboard_time": 1759974559,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 87818,
+      "num": 88545,
+      "word": "国庆假期值得珍藏的记忆画面",
+      "onboard_time": 1759972819,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87709,
@@ -11283,6 +11507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84792,
+      "num": 84792,
+      "word": "李莎旻子保存了出道以来所有台本",
+      "onboard_time": 1759971082,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84561,
       "num": 84561,
       "word": "警方通报男子恶意别车谎称公安",
@@ -11393,14 +11625,6 @@
       "onboard_time": 1759836021,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83357,
-      "num": 83357,
-      "word": "李莎旻子和管乐的家撞款了",
-      "onboard_time": 1759965498,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 83286,
@@ -11529,6 +11753,14 @@
       "onboard_time": 1759730301,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80943,
+      "num": 80943,
+      "word": "一个IP带火一座城",
+      "onboard_time": 1759964598,
+      "rank": 28,
+      "category": "民生新闻,旅游"
     },
     {
       "raw_hot": 80695,
@@ -11707,12 +11939,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 77437,
-      "num": 77437,
-      "word": "一个IP带火一座城",
-      "onboard_time": 1759964598,
-      "rank": 28,
-      "category": "民生新闻,旅游"
+      "raw_hot": 77557,
+      "num": 77557,
+      "word": "上班",
+      "onboard_time": 1759970962,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 77364,
@@ -11859,6 +12091,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 72996,
+      "num": 79055,
+      "word": "李沉舟出场名场面",
+      "onboard_time": 1759973239,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72614,
       "num": 72614,
       "word": "哥哥在旁边气得要崩溃了",
@@ -11881,6 +12121,14 @@
       "onboard_time": 1759594879,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 71954,
+      "num": 71954,
+      "word": "开拓者vs勇士",
+      "onboard_time": 1759972579,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 71846,
@@ -12073,14 +12321,6 @@
       "onboard_time": 1759713318,
       "rank": 49,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 66462,
-      "num": 66462,
-      "word": "节后第1个工作日",
-      "onboard_time": 1759965019,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66455,
@@ -12449,6 +12689,14 @@
       "onboard_time": 1759641262,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54984,
+      "num": 110314,
+      "word": "联合国就加沙停火协议发声",
+      "onboard_time": 1759972880,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 54783,
@@ -12825,14 +13073,6 @@
       "onboard_time": 1759771697,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 41035,
-      "num": 84022,
-      "word": "印度毒糖浆致20名儿童死亡",
-      "onboard_time": 1759966459,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 40552,
