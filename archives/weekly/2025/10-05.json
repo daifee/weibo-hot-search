@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759974594865,
+  "endTime": 1759975888188,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -371,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1107912,
+      "num": 1158271,
+      "word": "金价",
+      "onboard_time": 1759645640,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1104802,
       "num": 249861,
       "word": "左航头盔",
@@ -499,14 +507,6 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 989198,
-      "num": 1158271,
-      "word": "金价",
-      "onboard_time": 1759645640,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 986621,
       "num": 440186,
       "word": "迪丽热巴中秋嫦娥造型",
@@ -547,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 936221,
+      "num": 209212,
+      "word": "刘萧旭疑似结婚了",
+      "onboard_time": 1759973658,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 932784,
       "num": 932784,
       "word": "现在冰箱贴发展成这样了吗",
@@ -585,14 +593,6 @@
       "onboard_time": 1759794797,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 889041,
-      "num": 209212,
-      "word": "刘萧旭疑似结婚了",
-      "onboard_time": 1759973658,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 888172,
@@ -937,6 +937,14 @@
       "onboard_time": 1759634180,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 681881,
+      "num": 193155,
+      "word": "高速免费结束前收费站人员高喊快点",
+      "onboard_time": 1759974559,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 681879,
@@ -3315,6 +3323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260812,
+      "num": 191321,
+      "word": "新华社祝贺王一博85车队",
+      "onboard_time": 1759975279,
+      "rank": 13,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 259573,
       "num": 259573,
       "word": "美国19岁女生车祸丧生家属追责特斯拉",
@@ -3651,6 +3667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228371,
+      "num": 228371,
+      "word": "对稀土相关技术实施出口管制的决定",
+      "onboard_time": 1759974980,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 227907,
       "num": 270531,
       "word": "旬阳警方辟谣新郎母亲跳江",
@@ -3673,6 +3697,14 @@
       "onboard_time": 1759711699,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226891,
+      "num": 226891,
+      "word": "国际金价早盘跳水",
+      "onboard_time": 1759970962,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 226482,
@@ -3700,7 +3732,7 @@
     },
     {
       "raw_hot": 226045,
-      "num": 126698,
+      "num": 138977,
       "word": "为什么O型血被称为最惨的血型",
       "onboard_time": 1759965498,
       "rank": 24,
@@ -3961,14 +3993,6 @@
       "onboard_time": 1759892301,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210024,
-      "num": 210024,
-      "word": "国际金价早盘跳水",
-      "onboard_time": 1759970962,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 209362,
@@ -4281,6 +4305,14 @@
       "onboard_time": 1759818861,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 195330,
+      "num": 195330,
+      "word": "A股",
+      "onboard_time": 1759975700,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 195176,
@@ -5193,6 +5225,14 @@
       "onboard_time": 1759921580,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173505,
+      "num": 173505,
+      "word": "侯明昊出道以来第一次摇人宣传",
+      "onboard_time": 1759973119,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 173502,
@@ -6227,14 +6267,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 148423,
-      "num": 126174,
-      "word": "高速免费结束前收费站人员高喊快点",
-      "onboard_time": 1759974559,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148330,
       "num": 122006,
       "word": "现货金价又创新高",
@@ -6955,6 +6987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136062,
+      "num": 136062,
+      "word": "哈马斯发声明",
+      "onboard_time": 1759974559,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 135689,
       "num": 135689,
       "word": "卢昱晓新剧评论区",
@@ -6969,6 +7009,14 @@
       "onboard_time": 1759721780,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135667,
+      "num": 135667,
+      "word": "火灵儿",
+      "onboard_time": 1759975819,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 135602,
@@ -7963,6 +8011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120417,
+      "num": 120417,
+      "word": "男子骑车玩手机致脑袋卡进红绿灯",
+      "onboard_time": 1759973179,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120306,
       "num": 120306,
       "word": "谁懂王一博大腿肌肉的含金量",
@@ -7987,27 +8043,11 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 119996,
-      "num": 119996,
-      "word": "男子骑车玩手机致脑袋卡进红绿灯",
-      "onboard_time": 1759973179,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119949,
       "num": 119949,
       "word": "陈哲远妈妈包场",
       "onboard_time": 1759918820,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 119803,
-      "num": 119803,
-      "word": "侯明昊出道以来第一次摇人宣传",
-      "onboard_time": 1759973119,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -8169,6 +8209,14 @@
       "onboard_time": 1759901480,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118218,
+      "num": 118218,
+      "word": "大疆",
+      "onboard_time": 1759974618,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 117821,
@@ -8595,6 +8643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112691,
+      "num": 112691,
+      "word": "杜兰特火箭季前赛首秀",
+      "onboard_time": 1759974559,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112617,
       "num": 112617,
       "word": "我在埃及给花少化妆",
@@ -8889,14 +8945,6 @@
       "onboard_time": 1759973300,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 110313,
-      "num": 110312,
-      "word": "杜兰特火箭季前赛首秀",
-      "onboard_time": 1759974559,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 110150,
@@ -10107,6 +10155,30 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 98645,
+      "num": 98645,
+      "word": "全网唯一不接受投喂的猴子",
+      "onboard_time": 1759975099,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 98588,
+      "num": 98588,
+      "word": "四大伤肝元凶",
+      "onboard_time": 1759975099,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 98556,
+      "num": 98556,
+      "word": "全球围观中国放假",
+      "onboard_time": 1759973001,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98517,
       "num": 98517,
       "word": "吃饺子和月饼的都沉默了",
@@ -10569,14 +10641,6 @@
       "onboard_time": 1759843884,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 94058,
-      "num": 94058,
-      "word": "全球围观中国放假",
-      "onboard_time": 1759973001,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94015,
@@ -11201,14 +11265,6 @@
       "onboard_time": 1759648999,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88102,
-      "num": 88102,
-      "word": "哈马斯发声明",
-      "onboard_time": 1759974559,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 87818,
@@ -11955,6 +12011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77311,
+      "num": 77311,
+      "word": "爱到最后全凭良心的含金量还在上升",
+      "onboard_time": 1759975099,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 76877,
       "num": 76877,
       "word": "阿尔巴宣布退役",
@@ -12043,6 +12107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74803,
+      "num": 74803,
+      "word": "杨瀚森季前赛首秀",
+      "onboard_time": 1759972460,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74126,
       "num": 145703,
       "word": "高市早苗将接手3个烂摊子",
@@ -12099,12 +12171,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72795,
+      "num": 72795,
+      "word": "南宁陷坑现场已采取安全保障措施",
+      "onboard_time": 1759975879,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72614,
       "num": 72614,
       "word": "哥哥在旁边气得要崩溃了",
       "onboard_time": 1759622358,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72490,
+      "num": 72490,
+      "word": "开拓者vs勇士",
+      "onboard_time": 1759972579,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 72457,
@@ -12121,14 +12209,6 @@
       "onboard_time": 1759594879,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 71954,
-      "num": 71954,
-      "word": "开拓者vs勇士",
-      "onboard_time": 1759972579,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 71846,

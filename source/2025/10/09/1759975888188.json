@@ -1,0 +1,410 @@
+{
+  "runTime": 1759975888188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 800019,
+        "num": 1128003,
+        "word": "男子故意泄密致我国货船在公海被拦",
+        "onboard_time": 1759966759,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 690759,
+        "num": 690759,
+        "word": "现在冰箱贴发展成这样了吗",
+        "onboard_time": 1759967539,
+        "rank": 1,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 11190,
+        "num": 567842,
+        "word": "北方开启秋雨绵绵模式",
+        "onboard_time": 1759885700,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1107912,
+        "num": 567225,
+        "word": "金价",
+        "onboard_time": 1759971260,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 561282,
+        "num": 561282,
+        "word": "老板误把油当饮料卖好奇咋没人找",
+        "onboard_time": 1759972400,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353493,
+        "num": 353493,
+        "word": "女生找回手机后发现相册多了段视频",
+        "onboard_time": 1759969219,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228371,
+        "num": 228371,
+        "word": "对稀土相关技术实施出口管制的决定",
+        "onboard_time": 1759974980,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 226891,
+        "num": 226891,
+        "word": "国际金价早盘跳水",
+        "onboard_time": 1759970962,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206503,
+        "num": 206503,
+        "word": "特朗普团队向印度推销大豆",
+        "onboard_time": 1759968802,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195330,
+        "num": 195330,
+        "word": "A股",
+        "onboard_time": 1759975700,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 936221,
+        "num": 195082,
+        "word": "刘萧旭疑似结婚了",
+        "onboard_time": 1759973658,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 681881,
+        "num": 193155,
+        "word": "高速免费结束前收费站人员高喊快点",
+        "onboard_time": 1759974559,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261826,
+        "num": 192835,
+        "word": "鸡排哥上央视了",
+        "onboard_time": 1759934721,
+        "rank": 12,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 260812,
+        "num": 191321,
+        "word": "新华社祝贺王一博85车队",
+        "onboard_time": 1759975279,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 190604,
+        "num": 190604,
+        "word": "印度毒糖浆致20名儿童死亡",
+        "onboard_time": 1759966459,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 188557,
+        "num": 188557,
+        "word": "假期后劲太大了",
+        "onboard_time": 1759939280,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173505,
+        "num": 173505,
+        "word": "侯明昊出道以来第一次摇人宣传",
+        "onboard_time": 1759973119,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148230,
+        "num": 148230,
+        "word": "64岁演员林俊贤景区打工",
+        "onboard_time": 1759965558,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140745,
+        "num": 140745,
+        "word": "节后第1天多地雨雨雨雨雨",
+        "onboard_time": 1759973001,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139045,
+        "num": 139045,
+        "word": "中国近半年没买过美国一粒大豆",
+        "onboard_time": 1759965438,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192243,
+        "num": 138977,
+        "word": "为什么O型血被称为最惨的血型",
+        "onboard_time": 1759965498,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136062,
+        "num": 136062,
+        "word": "哈马斯发声明",
+        "onboard_time": 1759974559,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135667,
+        "num": 135667,
+        "word": "火灵儿",
+        "onboard_time": 1759975819,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 132874,
+        "num": 132874,
+        "word": "协议确保以色列全面撤军",
+        "onboard_time": 1759967659,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130636,
+        "num": 130636,
+        "word": "年羹尧的儿子分享生活",
+        "onboard_time": 1759924520,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123357,
+        "num": 123357,
+        "word": "节后第1个工作日",
+        "onboard_time": 1759965019,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120417,
+        "num": 120417,
+        "word": "男子骑车玩手机致脑袋卡进红绿灯",
+        "onboard_time": 1759973179,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120139,
+        "num": 120139,
+        "word": "蜜雪冰城小票藏连载小说",
+        "onboard_time": 1759935922,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118218,
+        "num": 118218,
+        "word": "大疆",
+        "onboard_time": 1759974618,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116318,
+        "num": 116318,
+        "word": "蒋欣这也太美了",
+        "onboard_time": 1759971501,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112691,
+        "num": 112691,
+        "word": "杜兰特火箭季前赛首秀",
+        "onboard_time": 1759974559,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110993,
+        "num": 110993,
+        "word": "许妍当众承认沈皓辰是自己儿子",
+        "onboard_time": 1759928540,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110643,
+        "num": 110643,
+        "word": "肖战 Gucci包机",
+        "onboard_time": 1759932502,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 108249,
+        "num": 108249,
+        "word": "20点计划第一阶段协议已签署",
+        "onboard_time": 1759969339,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101085,
+        "num": 101085,
+        "word": "脚部5个表现或是大病信号",
+        "onboard_time": 1759968500,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98645,
+        "num": 98645,
+        "word": "全网唯一不接受投喂的猴子",
+        "onboard_time": 1759975099,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98588,
+        "num": 98588,
+        "word": "四大伤肝元凶",
+        "onboard_time": 1759975099,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98556,
+        "num": 98556,
+        "word": "全球围观中国放假",
+        "onboard_time": 1759973001,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94146,
+        "num": 94146,
+        "word": "CELINE的选人眼光",
+        "onboard_time": 1759969520,
+        "rank": 38,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 91584,
+        "num": 91584,
+        "word": "官方回应网红骑马强闯洱海廊道",
+        "onboard_time": 1759973718,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85253,
+        "num": 85253,
+        "word": "美官员称加沙战争已经结束",
+        "onboard_time": 1759968500,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85021,
+        "num": 85021,
+        "word": "特朗普称被扣押人员将很快获释",
+        "onboard_time": 1759968202,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79340,
+        "num": 79340,
+        "word": "国庆假期值得珍藏的记忆画面",
+        "onboard_time": 1759972819,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78694,
+        "num": 78694,
+        "word": "李莎旻子和管乐的家撞款了",
+        "onboard_time": 1759965498,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78258,
+        "num": 78258,
+        "word": "8天很短 7天很长",
+        "onboard_time": 1759915401,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77311,
+        "num": 77311,
+        "word": "爱到最后全凭良心的含金量还在上升",
+        "onboard_time": 1759975099,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74803,
+        "num": 74803,
+        "word": "杨瀚森季前赛首秀",
+        "onboard_time": 1759972460,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72795,
+        "num": 72795,
+        "word": "南宁陷坑现场已采取安全保障措施",
+        "onboard_time": 1759975879,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73705,
+        "num": 72691,
+        "word": "李莎旻子保存了出道以来所有台本",
+        "onboard_time": 1759971082,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72490,
+        "num": 72490,
+        "word": "开拓者vs勇士",
+        "onboard_time": 1759972579,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记打卡古城老街#"
+    }
+  }
+}

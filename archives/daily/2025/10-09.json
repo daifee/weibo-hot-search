@@ -1,7 +1,15 @@
 {
   "startTime": 1759941149301,
-  "endTime": 1759974594865,
+  "endTime": 1759975888188,
   "band_list": [
+    {
+      "raw_hot": 1107912,
+      "num": 941593,
+      "word": "金价",
+      "onboard_time": 1759971260,
+      "rank": 1,
+      "category": "财经"
+    },
     {
       "raw_hot": 1045484,
       "num": 1167277,
@@ -11,12 +19,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 941593,
-      "num": 941593,
-      "word": "金价",
-      "onboard_time": 1759971260,
-      "rank": 1,
-      "category": "财经"
+      "raw_hot": 936221,
+      "num": 209212,
+      "word": "刘萧旭疑似结婚了",
+      "onboard_time": 1759973658,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 932784,
@@ -27,12 +35,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 889041,
-      "num": 209212,
-      "word": "刘萧旭疑似结婚了",
-      "onboard_time": 1759973658,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 681881,
+      "num": 193155,
+      "word": "高速免费结束前收费站人员高喊快点",
+      "onboard_time": 1759974559,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 634182,
@@ -123,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260812,
+      "num": 191321,
+      "word": "新华社祝贺王一博85车队",
+      "onboard_time": 1759975279,
+      "rank": 13,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 244421,
       "num": 244421,
       "word": "印度毒糖浆致20名儿童死亡",
@@ -147,6 +163,22 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 228371,
+      "num": 228371,
+      "word": "对稀土相关技术实施出口管制的决定",
+      "onboard_time": 1759974980,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 226891,
+      "num": 226891,
+      "word": "国际金价早盘跳水",
+      "onboard_time": 1759970962,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 226239,
       "num": 226239,
       "word": "假期后劲太大了",
@@ -156,7 +188,7 @@
     },
     {
       "raw_hot": 226045,
-      "num": 126698,
+      "num": 138977,
       "word": "为什么O型血被称为最惨的血型",
       "onboard_time": 1759965498,
       "rank": 24,
@@ -179,10 +211,10 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 210024,
-      "num": 210024,
-      "word": "国际金价早盘跳水",
-      "onboard_time": 1759970962,
+      "raw_hot": 195330,
+      "num": 195330,
+      "word": "A股",
+      "onboard_time": 1759975700,
       "rank": 9,
       "category": "财经"
     },
@@ -235,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173505,
+      "num": 173505,
+      "word": "侯明昊出道以来第一次摇人宣传",
+      "onboard_time": 1759973119,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166984,
       "num": 166984,
       "word": "网友称买10斤芒果礼盒3斤是书",
@@ -275,20 +315,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148423,
-      "num": 126174,
-      "word": "高速免费结束前收费站人员高喊快点",
-      "onboard_time": 1759974559,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 145696,
       "num": 125922,
       "word": "蒋欣这也太美了",
       "onboard_time": 1759971501,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 136062,
+      "num": 136062,
+      "word": "哈马斯发声明",
+      "onboard_time": 1759974559,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 135667,
+      "num": 135667,
+      "word": "火灵儿",
+      "onboard_time": 1759975819,
+      "rank": 22,
+      "category": "动漫"
     },
     {
       "raw_hot": 133957,
@@ -323,20 +371,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119996,
-      "num": 119996,
+      "raw_hot": 120417,
+      "num": 120417,
       "word": "男子骑车玩手机致脑袋卡进红绿灯",
       "onboard_time": 1759973179,
       "rank": 25,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119803,
-      "num": 119803,
-      "word": "侯明昊出道以来第一次摇人宣传",
-      "onboard_time": 1759973119,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 118218,
+      "num": 118218,
+      "word": "大疆",
+      "onboard_time": 1759974618,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 115931,
@@ -355,20 +403,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 112691,
+      "num": 112691,
+      "word": "杜兰特火箭季前赛首秀",
+      "onboard_time": 1759974559,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110332,
       "num": 110332,
       "word": "女生怀孕后会长高的原因",
       "onboard_time": 1759973300,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 110313,
-      "num": 110312,
-      "word": "杜兰特火箭季前赛首秀",
-      "onboard_time": 1759974559,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 109925,
@@ -395,19 +443,35 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98645,
+      "num": 98645,
+      "word": "全网唯一不接受投喂的猴子",
+      "onboard_time": 1759975099,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 98588,
+      "num": 98588,
+      "word": "四大伤肝元凶",
+      "onboard_time": 1759975099,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 98556,
+      "num": 98556,
+      "word": "全球围观中国放假",
+      "onboard_time": 1759973001,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96175,
       "num": 96175,
       "word": "官方回应网红骑马强闯洱海廊道",
       "onboard_time": 1759973718,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94058,
-      "num": 94058,
-      "word": "全球围观中国放假",
-      "onboard_time": 1759973001,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -449,14 +513,6 @@
       "onboard_time": 1759974320,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88102,
-      "num": 88102,
-      "word": "哈马斯发声明",
-      "onboard_time": 1759974559,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 87818,
@@ -539,6 +595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77311,
+      "num": 77311,
+      "word": "爱到最后全凭良心的含金量还在上升",
+      "onboard_time": 1759975099,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 76827,
       "num": 69990,
       "word": "美国雪城大学兵棋推演台湾问题",
@@ -553,6 +617,14 @@
       "onboard_time": 1759938201,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74803,
+      "num": 74803,
+      "word": "杨瀚森季前赛首秀",
+      "onboard_time": 1759972460,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 73386,
@@ -571,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72795,
+      "num": 72795,
+      "word": "南宁陷坑现场已采取安全保障措施",
+      "onboard_time": 1759975879,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72649,
       "num": 100146,
       "word": "入青云热度",
@@ -579,8 +659,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71954,
-      "num": 71954,
+      "raw_hot": 72490,
+      "num": 72490,
       "word": "开拓者vs勇士",
       "onboard_time": 1759972579,
       "rank": 48,

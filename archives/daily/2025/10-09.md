@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/09 00:32:29 ~ 2025/10/09 09:49:54
+本榜单时间：2025/10/09 00:32:29 ~ 2025/10/09 10:11:28
 </p>
 </blockquote>
 <p>
@@ -15,14 +15,20 @@
 <ol>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
+金价（热度：1107912）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%95%85%E6%84%8F%E6%B3%84%E5%AF%86%E8%87%B4%E6%88%91%E5%9B%BD%E8%B4%A7%E8%88%B9%E5%9C%A8%E5%85%AC%E6%B5%B7%E8%A2%AB%E6%8B%A6%23" target="weibo">
 男子故意泄密致我国货船在公海被拦（热度：1045484）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
-金价（热度：941593）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%90%A7%E6%97%AD%E7%96%91%E4%BC%BC%E7%BB%93%E5%A9%9A%E4%BA%86%23" target="weibo">
+刘萧旭疑似结婚了（热度：936221）
 </a>
 </li>
 
@@ -33,8 +39,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%90%A7%E6%97%AD%E7%96%91%E4%BC%BC%E7%BB%93%E5%A9%9A%E4%BA%86%23" target="weibo">
-刘萧旭疑似结婚了（热度：889041）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E7%BB%93%E6%9D%9F%E5%89%8D%E6%94%B6%E8%B4%B9%E7%AB%99%E4%BA%BA%E5%91%98%E9%AB%98%E5%96%8A%E5%BF%AB%E7%82%B9%23" target="weibo">
+高速免费结束前收费站人员高喊快点（热度：681881）
 </a>
 </li>
 
@@ -105,6 +111,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E7%A5%9D%E8%B4%BA%E7%8E%8B%E4%B8%80%E5%8D%9A85%E8%BD%A6%E9%98%9F%23" target="weibo">
+新华社祝贺王一博85车队（热度：260812）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%AF%92%E7%B3%96%E6%B5%86%E8%87%B420%E5%90%8D%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1%23" target="weibo">
 印度毒糖浆致20名儿童死亡（热度：244421）
 </a>
@@ -119,6 +131,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6miumiu%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%95%E4%BA%BA%E5%85%B1%E5%88%9B%E8%89%BA%E4%BA%BA%23" target="weibo">
 赵今麦miumiu第一个单人共创艺人（热度：229084）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E7%A8%80%E5%9C%9F%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF%E5%AE%9E%E6%96%BD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E7%9A%84%E5%86%B3%E5%AE%9A%23" target="weibo">
+对稀土相关技术实施出口管制的决定（热度：228371）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E6%97%A9%E7%9B%98%E8%B7%B3%E6%B0%B4%23" target="weibo">
+国际金价早盘跳水（热度：226891）
 </a>
 </li>
 
@@ -147,8 +171,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E6%97%A9%E7%9B%98%E8%B7%B3%E6%B0%B4%23" target="weibo">
-国际金价早盘跳水（热度：210024）
+<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
+A股（热度：195330）
 </a>
 </li>
 
@@ -189,6 +213,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E5%87%BA%E9%81%93%E4%BB%A5%E6%9D%A5%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%91%87%E4%BA%BA%E5%AE%A3%E4%BC%A0%23" target="weibo">
+侯明昊出道以来第一次摇人宣传（热度：173505）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%B0%E4%B9%B010%E6%96%A4%E8%8A%92%E6%9E%9C%E7%A4%BC%E7%9B%923%E6%96%A4%E6%98%AF%E4%B9%A6%23" target="weibo">
 网友称买10斤芒果礼盒3斤是书（热度：166984）
 </a>
@@ -219,14 +249,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E7%BB%93%E6%9D%9F%E5%89%8D%E6%94%B6%E8%B4%B9%E7%AB%99%E4%BA%BA%E5%91%98%E9%AB%98%E5%96%8A%E5%BF%AB%E7%82%B9%23" target="weibo">
-高速免费结束前收费站人员高喊快点（热度：148423）
+<a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%AC%A3%E8%BF%99%E4%B9%9F%E5%A4%AA%E7%BE%8E%E4%BA%86%23" target="weibo">
+蒋欣这也太美了（热度：145696）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%AC%A3%E8%BF%99%E4%B9%9F%E5%A4%AA%E7%BE%8E%E4%BA%86%23" target="weibo">
-蒋欣这也太美了（热度：145696）
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E5%8F%91%E5%A3%B0%E6%98%8E%23" target="weibo">
+哈马斯发声明（热度：136062）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%81%AB%E7%81%B5%E5%84%BF%23" target="weibo">
+火灵儿（热度：135667）
 </a>
 </li>
 
@@ -256,13 +292,13 @@ CELINE的选人眼光（热度：133957）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%AA%91%E8%BD%A6%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%87%B4%E8%84%91%E8%A2%8B%E5%8D%A1%E8%BF%9B%E7%BA%A2%E7%BB%BF%E7%81%AF%23" target="weibo">
-男子骑车玩手机致脑袋卡进红绿灯（热度：119996）
+男子骑车玩手机致脑袋卡进红绿灯（热度：120417）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E5%87%BA%E9%81%93%E4%BB%A5%E6%9D%A5%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%91%87%E4%BA%BA%E5%AE%A3%E4%BC%A0%23" target="weibo">
-侯明昊出道以来第一次摇人宣传（热度：119803）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%96%86%23" target="weibo">
+大疆（热度：118218）
 </a>
 </li>
 
@@ -279,14 +315,14 @@ WBG零封DK（热度：115931）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%80%80%E5%AD%95%E5%90%8E%E4%BC%9A%E9%95%BF%E9%AB%98%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
-女生怀孕后会长高的原因（热度：110332）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%85%B0%E7%89%B9%E7%81%AB%E7%AE%AD%E5%AD%A3%E5%89%8D%E8%B5%9B%E9%A6%96%E7%A7%80%23" target="weibo">
+杜兰特火箭季前赛首秀（热度：112691）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%85%B0%E7%89%B9%E7%81%AB%E7%AE%AD%E5%AD%A3%E5%89%8D%E8%B5%9B%E9%A6%96%E7%A7%80%23" target="weibo">
-杜兰特火箭季前赛首秀（热度：110313）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%80%80%E5%AD%95%E5%90%8E%E4%BC%9A%E9%95%BF%E9%AB%98%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
+女生怀孕后会长高的原因（热度：110332）
 </a>
 </li>
 
@@ -309,14 +345,26 @@ WBG零封DK（热度：115931）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E7%BA%A2%E9%AA%91%E9%A9%AC%E5%BC%BA%E9%97%AF%E6%B4%B1%E6%B5%B7%E5%BB%8A%E9%81%93%23" target="weibo">
-官方回应网红骑马强闯洱海廊道（热度：96175）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E5%94%AF%E4%B8%80%E4%B8%8D%E6%8E%A5%E5%8F%97%E6%8A%95%E5%96%82%E7%9A%84%E7%8C%B4%E5%AD%90%23" target="weibo">
+全网唯一不接受投喂的猴子（热度：98645）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A4%A7%E4%BC%A4%E8%82%9D%E5%85%83%E5%87%B6%23" target="weibo">
+四大伤肝元凶（热度：98588）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E5%9B%B4%E8%A7%82%E4%B8%AD%E5%9B%BD%E6%94%BE%E5%81%87%23" target="weibo">
-全球围观中国放假（热度：94058）
+全球围观中国放假（热度：98556）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BD%91%E7%BA%A2%E9%AA%91%E9%A9%AC%E5%BC%BA%E9%97%AF%E6%B4%B1%E6%B5%B7%E5%BB%8A%E9%81%93%23" target="weibo">
+官方回应网红骑马强闯洱海廊道（热度：96175）
 </a>
 </li>
 
@@ -347,12 +395,6 @@ WBG零封DK（热度：115931）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232025%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%90%8D%E5%9C%BA%E9%9D%A2%23" target="weibo">
 2025中秋国庆假期名场面（热度：88806）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E5%8F%91%E5%A3%B0%E6%98%8E%23" target="weibo">
-哈马斯发声明（热度：88102）
 </a>
 </li>
 
@@ -417,6 +459,12 @@ WBG零封DK（热度：115931）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%88%B0%E6%9C%80%E5%90%8E%E5%85%A8%E5%87%AD%E8%89%AF%E5%BF%83%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87%23" target="weibo">
+爱到最后全凭良心的含金量还在上升（热度：77311）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E9%9B%AA%E5%9F%8E%E5%A4%A7%E5%AD%A6%E5%85%B5%E6%A3%8B%E6%8E%A8%E6%BC%94%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%23" target="weibo">
 美国雪城大学兵棋推演台湾问题（热度：76827）
 </a>
@@ -425,6 +473,12 @@ WBG零封DK（热度：115931）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%89%A7%E9%87%91%E6%98%AD%E7%8E%89%E9%86%89%23" target="weibo">
 网剧金昭玉醉（热度：76448）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%AD%A3%E5%89%8D%E8%B5%9B%E9%A6%96%E7%A7%80%23" target="weibo">
+杨瀚森季前赛首秀（热度：74803）
 </a>
 </li>
 
@@ -441,6 +495,12 @@ WBG零封DK（热度：115931）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E9%99%B7%E5%9D%91%E7%8E%B0%E5%9C%BA%E5%B7%B2%E9%87%87%E5%8F%96%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E6%8E%AA%E6%96%BD%23" target="weibo">
+南宁陷坑现场已采取安全保障措施（热度：72795）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%E7%83%AD%E5%BA%A6%23" target="weibo">
 入青云热度（热度：72649）
 </a>
@@ -448,7 +508,7 @@ WBG零封DK（热度：115931）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%8B%93%E8%80%85vs%E5%8B%87%E5%A3%AB%23" target="weibo">
-开拓者vs勇士（热度：71954）
+开拓者vs勇士（热度：72490）
 </a>
 </li>
 

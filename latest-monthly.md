@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/09 09:49:54
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/09 10:11:28
 </p>
 </blockquote>
 <p>
@@ -807,6 +807,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%90%A7%E6%97%AD%E7%96%91%E4%BC%BC%E7%BB%93%E5%A9%9A%E4%BA%86%23" target="weibo">
+刘萧旭疑似结婚了（热度：936221）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BD%A6%E8%A2%AB%E9%BB%91%E7%8B%97%E5%95%83%E5%88%B0%E9%9D%A2%E7%9B%AE%E5%85%A8%E9%9D%9E%23" target="weibo">
 车被黑狗啃到面目全非（热度：934705）
 </a>
@@ -881,12 +887,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%82%A8%E5%B7%B2%E8%BF%9B%E5%85%A5%E9%B8%A1%E6%8E%92%E5%A4%A7%E9%81%93%E8%AF%B7%E6%89%93%E5%BC%80%E6%82%A8%E7%9A%84%E5%A1%91%E6%96%99%E8%A2%8B%23" target="weibo">
 您已进入鸡排大道请打开您的塑料袋（热度：889597）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%90%A7%E6%97%AD%E7%96%91%E4%BC%BC%E7%BB%93%E5%A9%9A%E4%BA%86%23" target="weibo">
-刘萧旭疑似结婚了（热度：889041）
 </a>
 </li>
 
@@ -1397,6 +1397,12 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E4%B9%90%E6%98%9F%E7%90%83%E8%80%81%E9%A1%BD%E7%AB%A5%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%23" target="weibo">
 快乐星球老顽童爷爷去世（热度：684008）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E7%BB%93%E6%9D%9F%E5%89%8D%E6%94%B6%E8%B4%B9%E7%AB%99%E4%BA%BA%E5%91%98%E9%AB%98%E5%96%8A%E5%BF%AB%E7%82%B9%23" target="weibo">
+高速免费结束前收费站人员高喊快点（热度：681881）
 </a>
 </li>
 
@@ -4737,6 +4743,12 @@ F1（热度：275052）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E7%A5%9D%E8%B4%BA%E7%8E%8B%E4%B8%80%E5%8D%9A85%E8%BD%A6%E9%98%9F%23" target="weibo">
+新华社祝贺王一博85车队（热度：260812）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%A6%81%E7%B4%AF%E6%87%B5%E4%BA%86%23" target="weibo">
 王楚钦要累懵了（热度：260708）
 </a>
@@ -5325,6 +5337,12 @@ G6666次列车限时开行（热度：233415）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E7%A8%80%E5%9C%9F%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF%E5%AE%9E%E6%96%BD%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E7%9A%84%E5%86%B3%E5%AE%9A%23" target="weibo">
+对稀土相关技术实施出口管制的决定（热度：228371）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%AC%E9%98%B3%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E6%96%B0%E9%83%8E%E6%AF%8D%E4%BA%B2%E8%B7%B3%E6%B1%9F%23" target="weibo">
 旬阳警方辟谣新郎母亲跳江（热度：227907）
 </a>
@@ -5363,6 +5381,12 @@ G6666次列车限时开行（热度：233415）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%A6%8D%E9%86%89%E9%85%92%E5%90%8E%E8%B7%91%E5%9B%9E%E5%A9%9A%E6%88%BF%23" target="weibo">
 许妍醉酒后跑回婚房（热度：227052）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E6%97%A9%E7%9B%98%E8%B7%B3%E6%B0%B4%23" target="weibo">
+国际金价早盘跳水（热度：226891）
 </a>
 </li>
 
@@ -5781,12 +5805,6 @@ AI女演员出道遭抵制（热度：212198）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E6%97%A9%E7%9B%98%E8%B7%B3%E6%B0%B4%23" target="weibo">
-国际金价早盘跳水（热度：210024）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%BE%90%E5%9D%A4%E6%94%AF%E6%8C%81%E6%AF%95%E6%AD%A3%E6%98%8E%E7%9A%84%E8%AF%81%E6%98%8E%23" target="weibo">
 蔡徐坤支持毕正明的证明（热度：209599）
 </a>
@@ -5993,24 +6011,6 @@ TTG战胜TES（热度：206119）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%E4%B8%8D%E5%BE%AE%E9%86%BA%E4%BA%86%23" target="weibo">
 闫妮不微醺了（热度：204237）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%B3%E7%BB%B3%E5%85%AB%E4%B8%AA%E6%9C%88%E7%98%A6%E4%BA%8649%E6%96%A4%23" target="weibo">
-跳绳八个月瘦了49斤（热度：203975）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E5%BE%B7%E5%A7%86%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C%23" target="weibo">
-麦德姆登陆广东（热度：203911）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B112%E6%AF%9410%E7%94%B3%E8%A3%95%E6%96%8C%23" target="weibo">
-王曼昱12比10申裕斌（热度：203818）
 </a>
 </li>
 
