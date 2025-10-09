@@ -1,6 +1,6 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760038614408,
+  "endTime": 1760041737034,
   "band_list": [
     {
       "raw_hot": 751291,
@@ -475,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16293,
+      "num": 21005,
+      "word": "洛杉矶最严重火灾纵火嫌疑人被捕",
+      "onboard_time": 1760037793,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 15481,
       "num": 21036,
       "word": "店家得打电话逐字确认好几遍",
@@ -488,6 +496,14 @@
       "word": "外交部回应美机构抹黑中国",
       "onboard_time": 1760037134,
       "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 11616,
+      "num": 20996,
+      "word": "外交部回应美国抹黑中美教育交流",
+      "onboard_time": 1760037313,
+      "rank": 48,
       "category": "国内时政"
     },
     {
@@ -507,20 +523,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 11117,
-      "num": 21005,
-      "word": "洛杉矶最严重火灾纵火嫌疑人被捕",
-      "onboard_time": 1760037793,
+      "raw_hot": 11121,
+      "num": 14420,
+      "word": "中方回应中印恢复直航",
+      "onboard_time": 1760039775,
       "rank": 42,
-      "category": "海外新闻"
+      "category": "国内时政"
     },
     {
-      "raw_hot": 10867,
-      "num": 20996,
-      "word": "外交部回应美国抹黑中美教育交流",
-      "onboard_time": 1760037313,
+      "raw_hot": 10767,
+      "num": 14420,
+      "word": "知情人士称宗馥莉正常上班",
+      "onboard_time": 1760040494,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10050,
+      "num": 14412,
+      "word": "台风麦德姆致越南10人死亡",
+      "onboard_time": 1760039775,
+      "rank": 47,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 9772,
+      "num": 14410,
+      "word": "重庆2人上榜见义勇为勇士榜",
+      "onboard_time": 1760041454,
       "rank": 48,
-      "category": "国内时政"
+      "category": "正能量"
     },
     {
       "raw_hot": 8583,

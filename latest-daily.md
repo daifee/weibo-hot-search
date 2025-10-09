@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/10 00:34:58 ~ 2025/10/10 03:36:54
+本榜单时间：2025/10/10 00:34:58 ~ 2025/10/10 04:28:57
 </p>
 </blockquote>
 <p>
@@ -369,6 +369,12 @@ iG全员回国（热度：47897）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E6%9C%80%E4%B8%A5%E9%87%8D%E7%81%AB%E7%81%BE%E7%BA%B5%E7%81%AB%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8D%95%23" target="weibo">
+洛杉矶最严重火灾纵火嫌疑人被捕（热度：16293）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%AE%B6%E5%BE%97%E6%89%93%E7%94%B5%E8%AF%9D%E9%80%90%E5%AD%97%E7%A1%AE%E8%AE%A4%E5%A5%BD%E5%87%A0%E9%81%8D%23" target="weibo">
 店家得打电话逐字确认好几遍（热度：15481）
 </a>
@@ -377,6 +383,12 @@ iG全员回国（热度：47897）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%9C%BA%E6%9E%84%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD%23" target="weibo">
 外交部回应美机构抹黑中国（热度：12098）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8A%B9%E9%BB%91%E4%B8%AD%E7%BE%8E%E6%95%99%E8%82%B2%E4%BA%A4%E6%B5%81%23" target="weibo">
+外交部回应美国抹黑中美教育交流（热度：11616）
 </a>
 </li>
 
@@ -393,14 +405,26 @@ iG全员回国（热度：47897）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E6%9C%80%E4%B8%A5%E9%87%8D%E7%81%AB%E7%81%BE%E7%BA%B5%E7%81%AB%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8D%95%23" target="weibo">
-洛杉矶最严重火灾纵火嫌疑人被捕（热度：11117）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%AD%E5%8D%B0%E6%81%A2%E5%A4%8D%E7%9B%B4%E8%88%AA%23" target="weibo">
+中方回应中印恢复直航（热度：11121）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8A%B9%E9%BB%91%E4%B8%AD%E7%BE%8E%E6%95%99%E8%82%B2%E4%BA%A4%E6%B5%81%23" target="weibo">
-外交部回应美国抹黑中美教育交流（热度：10867）
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%AE%97%E9%A6%A5%E8%8E%89%E6%AD%A3%E5%B8%B8%E4%B8%8A%E7%8F%AD%23" target="weibo">
+知情人士称宗馥莉正常上班（热度：10767）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%E9%BA%A6%E5%BE%B7%E5%A7%86%E8%87%B4%E8%B6%8A%E5%8D%9710%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
+台风麦德姆致越南10人死亡（热度：10050）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%862%E4%BA%BA%E4%B8%8A%E6%A6%9C%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E5%8B%87%E5%A3%AB%E6%A6%9C%23" target="weibo">
+重庆2人上榜见义勇为勇士榜（热度：9772）
 </a>
 </li>
 
