@@ -1,6 +1,6 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760028527797,
+  "endTime": 1760030610053,
   "band_list": [
     {
       "raw_hot": 751291,
@@ -35,7 +35,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 363204,
+      "raw_hot": 384417,
       "num": 222540,
       "word": "卢昱晓演技",
       "onboard_time": 1760025439,
@@ -99,20 +99,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161677,
+      "num": 223874,
+      "word": "完美婆娘涨粉7.31万",
+      "onboard_time": 1760025621,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141921,
       "num": 141921,
       "word": "每天练背6分钟就是回报率最高的运动",
       "onboard_time": 1760019562,
       "rank": 13,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 132108,
-      "num": 223874,
-      "word": "完美婆娘涨粉7.31万",
-      "onboard_time": 1760025621,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 128978,
@@ -123,8 +123,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 116859,
-      "num": 116859,
+      "raw_hot": 119605,
+      "num": 119605,
       "word": "女子错峰游韩国两步一个中国人",
       "onboard_time": 1760023581,
       "rank": 18,
@@ -395,12 +395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35749,
+      "num": 42803,
+      "word": "十个勤天万里长歌",
+      "onboard_time": 1760030596,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 34231,
       "num": 76832,
       "word": "和汪顺全红婵一起为全运会加油",
       "onboard_time": 1760027839,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33588,
+      "num": 42796,
+      "word": "陈哲远回应吻戏嘴巴干",
+      "onboard_time": 1760030297,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 32522,
@@ -417,6 +433,14 @@
       "onboard_time": 1760016082,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 28282,
+      "num": 42775,
+      "word": "一人食被歧视韩国网友怒了",
+      "onboard_time": 1760004801,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 8583,
