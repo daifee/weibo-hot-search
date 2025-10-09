@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/09 23:36:45
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/09 23:51:16
 </p>
 </blockquote>
 <p>
@@ -813,6 +813,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A7%E9%87%91%E5%B1%B1%E8%A1%97%E5%A4%B4%E5%83%8F%E4%B8%A7%E5%B0%B8%E5%A4%A7%E7%89%87%23" target="weibo">
+旧金山街头像丧尸大片（热度：709021）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%B7%E5%AD%90%E4%BA%B2%E9%99%8C%E7%94%9F%E5%A5%B3%E5%A8%83%E7%A7%B0%E5%A4%AA%E5%8F%AF%E7%88%B1%23" target="weibo">
 高铁上男子亲陌生女娃称太可爱（热度：708860）
 </a>
@@ -959,12 +965,6 @@ JDG输越南队（热度：648751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%B6%E8%8A%B1%E7%94%9F%E6%89%BE%E5%88%B0%E5%A7%A5%E5%A7%A5%E4%B8%A2%E4%BA%8612%E5%B9%B4%E7%9A%84%E9%87%91%E9%95%AF%23" target="weibo">
 收花生找到姥姥丢了12年的金镯（热度：629586）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A7%E9%87%91%E5%B1%B1%E8%A1%97%E5%A4%B4%E5%83%8F%E4%B8%A7%E5%B0%B8%E5%A4%A7%E7%89%87%23" target="weibo">
-旧金山街头像丧尸大片（热度：627023）
 </a>
 </li>
 
@@ -1713,6 +1713,12 @@ UNINE合体（热度：458011）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%83%8C%E9%9D%A0%E8%83%8C1980%23" target="weibo">
+苏翊鸣世界第一个背靠背1980（热度：434643）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E5%A5%B3%E5%8F%8B%E4%B8%8E%E8%B5%B0%E5%A4%B1%E5%A5%B3%E5%AD%A9%E6%92%9E%E8%84%B8%E7%94%B7%E5%AD%90%E8%A2%AB%E8%AF%AF%E6%8A%93%23" target="weibo">
 因女友与走失女孩撞脸男子被误抓（热度：433632）
 </a>
@@ -1835,12 +1841,6 @@ UNINE合体（热度：458011）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E5%9B%BD%E5%BA%86%E5%90%83%E8%83%96%E4%BA%86%E5%8D%81%E6%96%A4%23" target="weibo">
 沙溢国庆吃胖了十斤（热度：415437）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%BF%8A%E9%B8%A3%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E4%B8%AA%E8%83%8C%E9%9D%A0%E8%83%8C1980%23" target="weibo">
-苏翊鸣世界第一个背靠背1980（热度：409901）
 </a>
 </li>
 
@@ -2753,6 +2753,12 @@ JDG对战DK（热度：286717）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%AF%B4%E9%A1%B6%E7%BA%A7%E8%BF%90%E5%8A%A8%E5%91%98%E4%B8%8D%E4%BC%9A%E4%BA%AB%E5%8F%97%E6%AF%94%E8%B5%9B%23" target="weibo">
 张继科说顶级运动员不会享受比赛（热度：282396）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%A6%8D%E6%B2%88%E7%9A%93%E6%98%8E%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%23" target="weibo">
+许妍沈皓明生理性喜欢（热度：282329）
 </a>
 </li>
 
@@ -3783,6 +3789,12 @@ steam崩了（热度：215280）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%8D%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%90%E6%9C%89%E6%88%90%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%9A%84%E5%8F%AF%E8%83%BD%23" target="weibo">
+高反被救女子有成植物人的可能（热度：200174）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%BB%E5%8F%B0%E7%A7%8B%E6%99%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%8F%91%E5%B8%83%23" target="weibo">
 总台秋晚节目单发布（热度：199511）
 </a>
@@ -3911,6 +3923,12 @@ GAM零封JDG（热度：194960）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B0%86%E5%A5%B6%E8%8C%B6%E5%80%92%E5%9C%A8%E4%BB%96%E4%BA%BA%E5%A4%B4%E4%B8%8A%E5%90%8E%E9%80%83%E8%B7%91%23" target="weibo">
 女子将奶茶倒在他人头上后逃跑（热度：194449）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%A5%B3%E5%84%BF%E9%AB%98%E5%8F%8D%E8%A2%AB%E6%90%AD%E5%AD%90%E6%8A%9B%E5%BC%83%23" target="weibo">
+母亲回应网传女儿高反被搭子抛弃（热度：193942）
 </a>
 </li>
 
@@ -4223,12 +4241,6 @@ NRG总决赛对阵FNC（热度：190252）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E5%8D%81%E5%91%A8%E5%B9%B4%E7%A6%8F%E5%88%A9%E6%8A%A2%E5%85%88%E7%9C%8B%23" target="weibo">
 王者十周年福利抢先看（热度：185484）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%A6%8D%E6%B2%88%E7%9A%93%E6%98%8E%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%23" target="weibo">
-许妍沈皓明生理性喜欢（热度：185353）
 </a>
 </li>
 
@@ -7113,12 +7125,6 @@ CELINE中国队 对眼睛很友好（热度：125241）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%8D%E8%A2%AB%E6%95%91%E5%A5%B3%E5%AD%90%E6%9C%89%E6%88%90%E6%A4%8D%E7%89%A9%E4%BA%BA%E7%9A%84%E5%8F%AF%E8%83%BD%23" target="weibo">
-高反被救女子有成植物人的可能（热度：122563）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%AD%A6%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E4%BB%8E%E5%AE%B6%E9%95%BF%E8%BA%AB%E4%B8%8A%E8%B8%A9%E8%BF%87%23" target="weibo">
 中学通报学生从家长身上踩过（热度：122495）
 </a>
@@ -7511,12 +7517,6 @@ ColorOS16（热度：118045）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E6%8E%A8%E5%80%92%E6%A0%8F%E6%9D%86%E5%B8%A6%E4%BA%BA%E9%80%83%E7%A5%A8%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 黄牛推倒栏杆带人逃票音乐节（热度：116907）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%A5%B3%E5%84%BF%E9%AB%98%E5%8F%8D%E8%A2%AB%E6%90%AD%E5%AD%90%E6%8A%9B%E5%BC%83%23" target="weibo">
-母亲回应网传女儿高反被搭子抛弃（热度：116434）
 </a>
 </li>
 
@@ -7949,6 +7949,12 @@ LPL出征S15定妆照（热度：111668）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E5%8B%A4%E5%8B%A4%E4%BA%8E%E9%80%82%E5%90%88%E5%94%B1%E6%9C%88%E5%85%89%E8%88%9E%E5%8F%B0%23" target="weibo">
 蒋勤勤于适合唱月光舞台（热度：111632）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%A7%8D%E9%9B%B6%E9%A3%9F%E5%85%B6%E5%AE%9E%E6%98%AF%E7%83%AD%E9%87%8F%E7%82%B8%E5%BC%B9%23" target="weibo">
+这种零食其实是热量炸弹（热度：111631）
 </a>
 </li>
 
@@ -9327,6 +9333,12 @@ NANA联动西太后（热度：97196）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E5%8F%A4%E8%A3%85%23" target="weibo">
+李昀锐古装（热度：97092）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%BD%B3%E9%91%AB%E4%B8%93%E5%9C%BA%E4%B8%8A%E5%BA%A7%E7%8E%87%23" target="weibo">
 邓佳鑫专场上座率（热度：96867）
 </a>
@@ -9653,6 +9665,12 @@ BFX战胜NIP（热度：93928）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23NS%E6%88%98%E8%83%9CNIP%23" target="weibo">
 NS战胜NIP（热度：93428）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E8%83%8C%E7%9D%80%E7%BD%91%E7%90%83%E6%8B%8D%E6%9C%BA%E5%9C%BA%E5%87%BA%E5%8F%91%23" target="weibo">
+吴磊背着网球拍机场出发（热度：93428）
 </a>
 </li>
 
@@ -10689,12 +10707,6 @@ DRG强势拿下四连胜（热度：81263）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E5%8F%A4%E8%A3%85%23" target="weibo">
-李昀锐古装（热度：79168）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E5%8D%81%E4%B8%80%E7%94%B5%E5%AD%90%E6%A6%A8%E8%8F%9C%23" target="weibo">
 我的十一电子榨菜（热度：79080）
 </a>
@@ -11241,12 +11253,6 @@ S15宣传片回忆杀（热度：73721）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E8%83%8C%E7%9D%80%E7%BD%91%E7%90%83%E6%8B%8D%E6%9C%BA%E5%9C%BA%E5%87%BA%E5%8F%91%23" target="weibo">
-吴磊背着网球拍机场出发（热度：64018）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E4%B8%BB%E4%BA%BA%E7%9A%84%E5%B0%8F%E7%8C%AB%E5%92%AA%23" target="weibo">
 第一次见生理性喜欢主人的小猫咪（热度：63776）
 </a>
@@ -11285,6 +11291,12 @@ WTT祝张怡宁生日快乐（热度：61619）
 <li>
 <a href="https://s.weibo.com/weibo?q=%231%E4%B8%AA%E6%9C%88%E5%90%8E%E7%9C%8B%E8%BF%90%E5%8A%A8%E5%81%A5%E5%84%BF%E7%A5%9E%E4%BB%99%E6%89%93%E6%9E%B6%23" target="weibo">
 1个月后看运动健儿神仙打架（热度：61171）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89%E8%A2%AB%E6%9B%9D%E5%81%9C%E4%BA%A7Optimus%E6%9C%BA%E5%99%A8%E4%BA%BA%23" target="weibo">
+特斯拉被曝停产Optimus机器人（热度：61103）
 </a>
 </li>
 
@@ -11381,6 +11393,12 @@ WTT祝张怡宁生日快乐（热度：61619）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E7%8E%AF%E5%8D%81%E4%B8%89%E9%83%8E%23" target="weibo">
 二环十三郎（热度：58133）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%9D%A6%E8%AF%9A%E5%BA%A6%23" target="weibo">
+李沁坦诚度（热度：58083）
 </a>
 </li>
 
@@ -11525,6 +11543,12 @@ F1新加坡大奖赛赛道闯入一只大蜥蜴（热度：56696）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E5%8D%8A%E8%BA%AB%E7%9A%84%E4%BD%93%E6%80%81%E9%82%AA%E4%BF%AE%E6%96%B9%E6%B3%95%23" target="weibo">
 上半身的体态邪修方法（热度：53927）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E8%BE%9F%E8%B0%A3%E7%94%B7%E5%AD%90%E5%9B%A0%E5%82%AC%E5%A9%9A%E5%9C%A8%E7%8E%89%E5%87%BD%E5%B1%B1%E5%A4%B1%E8%81%94%23" target="weibo">
+家属辟谣男子因催婚在玉函山失联（热度：53922）
 </a>
 </li>
 
