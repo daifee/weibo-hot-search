@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1760002867243,
+  "endTime": 1760005772903,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -97,6 +97,14 @@
       "onboard_time": 1759658783,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1875430,
+      "num": 1875430,
+      "word": "婚礼当天跳河男子已去世",
+      "onboard_time": 1760003120,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1819421,
@@ -955,6 +963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 752749,
+      "num": 752749,
+      "word": "购置税",
+      "onboard_time": 1760002039,
+      "rank": 46,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 748293,
       "num": 358125,
       "word": "许我耀眼复合",
@@ -1315,6 +1331,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 584990,
+      "num": 180202,
+      "word": "黄子韬徐艺洋要直播婚礼",
+      "onboard_time": 1760003541,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 582537,
       "num": 582537,
       "word": "女生找回手机后发现相册多了段视频",
@@ -1377,6 +1401,14 @@
       "onboard_time": 1759819519,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 557175,
+      "num": 195998,
+      "word": "第一次见尺度这么大的剧宣",
+      "onboard_time": 1760002640,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 556681,
@@ -1449,14 +1481,6 @@
       "onboard_time": 1759625959,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 546030,
-      "num": 195998,
-      "word": "第一次见尺度这么大的剧宣",
-      "onboard_time": 1760002640,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 543094,
@@ -1843,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477851,
+      "num": 477851,
+      "word": "女孩没人接2天后发现其父家中离世",
+      "onboard_time": 1760002820,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 476795,
       "num": 204574,
       "word": "港媒曝歌手关淑怡病危",
@@ -2040,6 +2072,14 @@
       "word": "预制甜品已进化到不知天地为何物了",
       "onboard_time": 1759822160,
       "rank": 33,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 443010,
+      "num": 443010,
+      "word": "冻干蔬菜脆 油炸",
+      "onboard_time": 1759999102,
+      "rank": 31,
       "category": "美食"
     },
     {
@@ -3865,14 +3905,6 @@
       "onboard_time": 1759931782,
       "rank": 17,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 246310,
-      "num": 246310,
-      "word": "冻干蔬菜脆 油炸",
-      "onboard_time": 1759999102,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 245799,
@@ -6315,6 +6347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162457,
+      "num": 105683,
+      "word": "考上研究生的难度到底有多大",
+      "onboard_time": 1760005521,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 162400,
       "num": 162400,
       "word": "徐娇设计的衣服标签上有禁烟标志",
@@ -7147,6 +7187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146996,
+      "num": 105201,
+      "word": "印尼男子按习俗将出轨妻子交予情夫",
+      "onboard_time": 1760004022,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 146882,
       "num": 146882,
       "word": "女生拍照吊威亚游客入镜似5毛特效",
@@ -7289,14 +7337,6 @@
       "onboard_time": 1759719741,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144726,
-      "num": 144726,
-      "word": "购置税",
-      "onboard_time": 1760002039,
-      "rank": 46,
-      "category": "汽车,财经"
     },
     {
       "raw_hot": 144678,
@@ -7465,6 +7505,14 @@
       "onboard_time": 1759912281,
       "rank": 38,
       "category": "教育"
+    },
+    {
+      "raw_hot": 141121,
+      "num": 141121,
+      "word": "宴遇永安开播",
+      "onboard_time": 1760004981,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 141048,
@@ -8041,6 +8089,14 @@
       "onboard_time": 1759920920,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134228,
+      "num": 134228,
+      "word": "龚俊 你给张晚意整这么多",
+      "onboard_time": 1760003361,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 134198,
@@ -9051,6 +9107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120855,
+      "num": 120855,
+      "word": "趵突泉XXXL码锦鲤来了",
+      "onboard_time": 1760003420,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120703,
       "num": 120703,
       "word": "刘轩丞被路人当成韩国爱豆",
@@ -9121,6 +9185,14 @@
       "onboard_time": 1759918820,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119912,
+      "num": 102792,
+      "word": "印尼网红坡",
+      "onboard_time": 1760004501,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 119766,
@@ -9361,6 +9433,14 @@
       "onboard_time": 1759999521,
       "rank": 43,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 117153,
+      "num": 117153,
+      "word": "李煜东 每周登微博带来一个坏消息",
+      "onboard_time": 1760004741,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 117080,
@@ -10129,6 +10209,14 @@
       "onboard_time": 1759992922,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110201,
+      "num": 110201,
+      "word": "卢昱晓自己做捡手机文学",
+      "onboard_time": 1760005100,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 110150,
@@ -11195,6 +11283,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 101064,
+      "num": 101064,
+      "word": "腾讯视频账号6次超限或面临封号",
+      "onboard_time": 1760005402,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 101048,
       "num": 101048,
       "word": "涨涨涨涨黄金涨涨涨涨",
@@ -11787,6 +11883,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 96066,
+      "num": 96066,
+      "word": "30岁健身一年后身体的变化",
+      "onboard_time": 1760005580,
+      "rank": 44,
+      "category": "运动健身,其它"
+    },
+    {
       "raw_hot": 96049,
       "num": 96049,
       "word": "每周减1公斤才是不反弹的匀速减肥法",
@@ -12243,6 +12347,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 92205,
+      "num": 92205,
+      "word": "苏醒 人怎么能倒霉成这样",
+      "onboard_time": 1760004320,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92057,
       "num": 92057,
       "word": "孟子义我从小就经常摔跤非常皮实",
@@ -12305,6 +12417,14 @@
       "onboard_time": 1760001681,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91376,
+      "num": 95633,
+      "word": "孟子义包场宴遇永安",
+      "onboard_time": 1760002762,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 91298,
@@ -12649,6 +12769,14 @@
       "onboard_time": 1759648999,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87996,
+      "num": 101501,
+      "word": "一人食被歧视韩国网友怒了",
+      "onboard_time": 1760004801,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 87818,
@@ -13315,14 +13443,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 79246,
-      "num": 95900,
-      "word": "女孩没人接2天后发现其父家中离世",
-      "onboard_time": 1760002820,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79080,
       "num": 157261,
       "word": "我的十一电子榨菜",
@@ -13353,6 +13473,14 @@
       "onboard_time": 1759829120,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78775,
+      "num": 101901,
+      "word": "趵突泉胖锦鲤病重",
+      "onboard_time": 1760005701,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78698,
@@ -13979,14 +14107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62802,
-      "num": 95633,
-      "word": "孟子义包场宴遇永安",
-      "onboard_time": 1760002762,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 62770,
       "num": 118438,
       "word": "济南29岁男子上山后失联4天",
@@ -14001,6 +14121,14 @@
       "onboard_time": 1759642341,
       "rank": 39,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 61913,
+      "num": 102087,
+      "word": "蜜雪冰城回应小票上可看连载小说",
+      "onboard_time": 1760004981,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61619,
@@ -14371,6 +14499,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 52555,
+      "num": 105979,
+      "word": "邓超DUA是什么梗",
+      "onboard_time": 1760005460,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52453,
       "num": 99969,
       "word": "堵车时高速判官出手了",
@@ -14489,6 +14625,14 @@
       "onboard_time": 1759878797,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48870,
+      "num": 84647,
+      "word": "女子射击俱乐部枪口对人摆拍",
+      "onboard_time": 1760004022,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48526,

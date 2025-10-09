@@ -1,0 +1,410 @@
+{
+  "runTime": 1760005772903,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1875430,
+        "num": 1875430,
+        "word": "婚礼当天跳河男子已去世",
+        "onboard_time": 1760003120,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 758722,
+        "num": 758722,
+        "word": "晚8秒下高速被收500元男子发声",
+        "onboard_time": 1759998441,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77578,
+        "num": 754723,
+        "word": "假期国内出游总花费8090.06亿元",
+        "onboard_time": 1759984460,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 752749,
+        "num": 752749,
+        "word": "购置税",
+        "onboard_time": 1760002039,
+        "rank": 3,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 570859,
+        "num": 570859,
+        "word": "海底捞小便事件220万判决已生效",
+        "onboard_time": 1759995800,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477851,
+        "num": 477851,
+        "word": "女孩没人接2天后发现其父家中离世",
+        "onboard_time": 1760002820,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443010,
+        "num": 443010,
+        "word": "冻干蔬菜脆 油炸",
+        "onboard_time": 1759999102,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 277555,
+        "num": 277555,
+        "word": "女子被判刑后4年3次卡点怀孕",
+        "onboard_time": 1759996221,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187040,
+        "num": 187040,
+        "word": "27岁女生月租1500元住进养老院",
+        "onboard_time": 1759995800,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213739,
+        "num": 183973,
+        "word": "阿维塔回应一车辆起火致7车烧毁",
+        "onboard_time": 1759999881,
+        "rank": 9,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 1669756,
+        "num": 183636,
+        "word": "许我耀眼疑似抄袭我们与恶的距离",
+        "onboard_time": 1760000300,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 584990,
+        "num": 180202,
+        "word": "黄子韬徐艺洋要直播婚礼",
+        "onboard_time": 1760003541,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 557175,
+        "num": 174330,
+        "word": "第一次见尺度这么大的剧宣",
+        "onboard_time": 1760002640,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461384,
+        "num": 172514,
+        "word": "秦岚的腰",
+        "onboard_time": 1759999823,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386663,
+        "num": 169901,
+        "word": "女子结婚为省钱到美甲店打金手镯",
+        "onboard_time": 1760001681,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300263,
+        "num": 166775,
+        "word": "汪涵老婆患阑尾炎独自住院",
+        "onboard_time": 1759997120,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164711,
+        "num": 164711,
+        "word": "四川新龙5.4级地震",
+        "onboard_time": 1759987881,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 160459,
+        "num": 160459,
+        "word": "女娲新皮肤",
+        "onboard_time": 1759996581,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141121,
+        "num": 141121,
+        "word": "宴遇永安开播",
+        "onboard_time": 1760004981,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140790,
+        "num": 140790,
+        "word": "智利公司错发123万工资员工被判不退款",
+        "onboard_time": 1759988781,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 146344,
+        "num": 140128,
+        "word": "丁一宇恋情",
+        "onboard_time": 1760001441,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134228,
+        "num": 134228,
+        "word": "龚俊 你给张晚意整这么多",
+        "onboard_time": 1760003361,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120855,
+        "num": 120855,
+        "word": "趵突泉XXXL码锦鲤来了",
+        "onboard_time": 1760003420,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118095,
+        "num": 118095,
+        "word": "李沁回应造型",
+        "onboard_time": 1760002102,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117153,
+        "num": 117153,
+        "word": "李煜东 每周登微博带来一个坏消息",
+        "onboard_time": 1760004741,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115165,
+        "num": 115165,
+        "word": "本周上三休一",
+        "onboard_time": 1759982180,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110671,
+        "num": 110671,
+        "word": "北京冷冷冷冷冷",
+        "onboard_time": 1759981580,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110201,
+        "num": 110201,
+        "word": "卢昱晓自己做捡手机文学",
+        "onboard_time": 1760005100,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106344,
+        "num": 106344,
+        "word": "美国全球疯狂寻找大豆买家",
+        "onboard_time": 1760000179,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 52555,
+        "num": 105979,
+        "word": "邓超DUA是什么梗",
+        "onboard_time": 1760005460,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162457,
+        "num": 105683,
+        "word": "考上研究生的难度到底有多大",
+        "onboard_time": 1760005521,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146996,
+        "num": 105201,
+        "word": "印尼男子按习俗将出轨妻子交予情夫",
+        "onboard_time": 1760004022,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156097,
+        "num": 104682,
+        "word": "郭富城方媛回应三胎得子传闻",
+        "onboard_time": 1759996520,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203017,
+        "num": 104020,
+        "word": "沙溢国庆吃胖了十斤",
+        "onboard_time": 1759998321,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137461,
+        "num": 103493,
+        "word": "李沁造型师",
+        "onboard_time": 1759994121,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212290,
+        "num": 103391,
+        "word": "王俊凯 抢票",
+        "onboard_time": 1759995261,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119912,
+        "num": 102792,
+        "word": "印尼网红坡",
+        "onboard_time": 1760004501,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61913,
+        "num": 102087,
+        "word": "蜜雪冰城回应小票上可看连载小说",
+        "onboard_time": 1760004981,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78775,
+        "num": 101901,
+        "word": "趵突泉胖锦鲤病重",
+        "onboard_time": 1760005701,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87996,
+        "num": 101501,
+        "word": "一人食被歧视韩国网友怒了",
+        "onboard_time": 1760004801,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101064,
+        "num": 101064,
+        "word": "腾讯视频账号6次超限或面临封号",
+        "onboard_time": 1760005402,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 95654,
+        "num": 98986,
+        "word": "李昀锐人缘",
+        "onboard_time": 1759999401,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97013,
+        "num": 97013,
+        "word": "8天国内出游8.88亿人次",
+        "onboard_time": 1759984822,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96332,
+        "num": 96332,
+        "word": "肝不好的人起床或有5种表现",
+        "onboard_time": 1759986800,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96066,
+        "num": 96066,
+        "word": "30岁健身一年后身体的变化",
+        "onboard_time": 1760005580,
+        "rank": 44,
+        "category": "运动健身,其它"
+      },
+      {
+        "raw_hot": 92205,
+        "num": 92205,
+        "word": "苏醒 人怎么能倒霉成这样",
+        "onboard_time": 1760004320,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91376,
+        "num": 91376,
+        "word": "孟子义包场宴遇永安",
+        "onboard_time": 1760002762,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88809,
+        "num": 88809,
+        "word": "胖东来8天卖了8.2亿",
+        "onboard_time": 1760002820,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 85744,
+        "num": 85744,
+        "word": "陈鹤一耳朵红了",
+        "onboard_time": 1760002581,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48870,
+        "num": 84647,
+        "word": "女子射击俱乐部枪口对人摆拍",
+        "onboard_time": 1760004022,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
