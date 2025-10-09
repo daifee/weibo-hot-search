@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760017669706,
+  "endTime": 1760019994812,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -569,6 +569,14 @@
       "onboard_time": 1759655781,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1285951,
+      "num": 1285951,
+      "word": "新加坡现父女双尸案",
+      "onboard_time": 1760016380,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1285241,
@@ -2723,14 +2731,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 561907,
-      "num": 178325,
-      "word": "新加坡现父女双尸案",
-      "onboard_time": 1760016380,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 559985,
       "num": 191683,
       "word": "miumiu 好多围裙",
@@ -3169,6 +3169,14 @@
       "onboard_time": 1759492340,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 516650,
+      "num": 207893,
+      "word": "沈皓辰得自闭症",
+      "onboard_time": 1760018602,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 515787,
@@ -4147,6 +4155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423387,
+      "num": 204860,
+      "word": "何炅喜提最佳综艺主持人",
+      "onboard_time": 1760016321,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 421267,
       "num": 205709,
       "word": "张杰看着屏幕上发光的谢娜",
@@ -4355,6 +4371,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 402393,
+      "num": 402393,
+      "word": "南昌遭误会被打扇子哥已离职",
+      "onboard_time": 1760014522,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 401042,
       "num": 401042,
       "word": "湖南卫视中秋之夜节目单",
@@ -4481,6 +4505,14 @@
       "onboard_time": 1759754544,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 389998,
+      "num": 200556,
+      "word": "每天练背6分钟就是回报率最高的运动",
+      "onboard_time": 1760019562,
+      "rank": 12,
+      "category": "运动健身"
     },
     {
       "raw_hot": 389679,
@@ -4865,6 +4897,14 @@
       "onboard_time": 1759374499,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 366575,
+      "num": 366575,
+      "word": "鸡排哥休息日变饭撒日",
+      "onboard_time": 1760016380,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365767,
@@ -5289,14 +5329,6 @@
       "onboard_time": 1759454539,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 335146,
-      "num": 335146,
-      "word": "南昌遭误会被打扇子哥已离职",
-      "onboard_time": 1760014522,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 334976,
@@ -7059,6 +7091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252613,
+      "num": 252613,
+      "word": "中国人挤满国外景区游客发声",
+      "onboard_time": 1760017162,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252556,
       "num": 212473,
       "word": "小酒窝跳柠檬叉",
@@ -7068,7 +7108,7 @@
     },
     {
       "raw_hot": 252313,
-      "num": 175364,
+      "num": 214902,
       "word": "Faker微博更新",
       "onboard_time": 1760015842,
       "rank": 30,
@@ -7700,7 +7740,7 @@
     },
     {
       "raw_hot": 231599,
-      "num": 339054,
+      "num": 515441,
       "word": "8天国内出游8.88亿人次",
       "onboard_time": 1759984822,
       "rank": 40,
@@ -8089,6 +8129,14 @@
       "onboard_time": 1759485681,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 219218,
+      "num": 193608,
+      "word": "T1全队发博",
+      "onboard_time": 1760019081,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 218550,
@@ -9433,6 +9481,14 @@
       "onboard_time": 1759847963,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192455,
+      "num": 192455,
+      "word": "李昀锐 林百草",
+      "onboard_time": 1760013502,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 192315,
@@ -11259,14 +11315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 168074,
-      "num": 168074,
-      "word": "何炅喜提最佳综艺主持人",
-      "onboard_time": 1760016321,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 168020,
       "num": 168020,
       "word": "普通人不上班六个月的真实感受",
@@ -11977,6 +12025,14 @@
       "onboard_time": 1759763302,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160002,
+      "num": 160002,
+      "word": "惠英红 你看你的女儿很争气",
+      "onboard_time": 1760018302,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 159733,
@@ -14459,6 +14515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136858,
+      "num": 136858,
+      "word": "月鳞绮纪",
+      "onboard_time": 1760014762,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136784,
       "num": 152780,
       "word": "这些食品发霉立马丢掉",
@@ -15827,14 +15891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127218,
-      "num": 180479,
-      "word": "鸡排哥休息日变饭撒日",
-      "onboard_time": 1760016380,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127175,
       "num": 127175,
       "word": "泸州银河左岸音乐节",
@@ -16235,6 +16291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124108,
+      "num": 124108,
+      "word": "连续三天11点入睡的感受",
+      "onboard_time": 1760005221,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124055,
       "num": 124055,
       "word": "陈垣宇决胜局憾负",
@@ -16393,14 +16457,6 @@
       "onboard_time": 1759930581,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122766,
-      "num": 122766,
-      "word": "李昀锐 林百草",
-      "onboard_time": 1760013502,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 122724,
@@ -18235,6 +18291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112219,
+      "num": 112219,
+      "word": "以色列发出警告",
+      "onboard_time": 1760017822,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112113,
       "num": 112113,
       "word": "战斧导弹射程覆盖莫斯科",
@@ -19931,6 +19995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105558,
+      "num": 105558,
+      "word": "周杰伦上海演唱会",
+      "onboard_time": 1760017281,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 105547,
       "num": 105547,
       "word": "张智霖 美人穿破布都是美人",
@@ -20337,6 +20409,14 @@
       "onboard_time": 1759908320,
       "rank": 39,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 103869,
+      "num": 103869,
+      "word": "短道速滑",
+      "onboard_time": 1760019141,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 103838,
@@ -21547,14 +21627,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 98051,
-      "num": 98051,
-      "word": "中国人挤满国外景区游客发声",
-      "onboard_time": 1760017162,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98041,
       "num": 121273,
       "word": "王楚钦旋转跳跃我举着手",
@@ -21763,14 +21835,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 97130,
-      "num": 103340,
-      "word": "连续三天11点入睡的感受",
-      "onboard_time": 1760005221,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 97129,
       "num": 97129,
       "word": "9号上班的精神状态像安陵容",
@@ -21795,12 +21859,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96959,
-      "num": 96959,
-      "word": "月鳞绮纪",
-      "onboard_time": 1760014762,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 96994,
+      "num": 96994,
+      "word": "蘑菇屋群名",
+      "onboard_time": 1760018481,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 96920,
@@ -22376,14 +22440,6 @@
       "word": "元气森林音乐节",
       "onboard_time": 1759505541,
       "rank": 46,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 94324,
-      "num": 94324,
-      "word": "周杰伦上海演唱会",
-      "onboard_time": 1760017281,
-      "rank": 37,
       "category": "演出"
     },
     {
@@ -23683,6 +23739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 87829,
+      "num": 87829,
+      "word": "微信长按图标就能调出付款码",
+      "onboard_time": 1760019562,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 87823,
       "num": 87823,
       "word": "常吃4类食物让身体发炎",
@@ -24155,6 +24219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85567,
+      "num": 85567,
+      "word": "张帅vs高芙",
+      "onboard_time": 1760019383,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85527,
       "num": 85527,
       "word": "华晨宇火星乌托邦",
@@ -24433,6 +24505,14 @@
       "onboard_time": 1759643422,
       "rank": 48,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 84559,
+      "num": 84559,
+      "word": "Crisp谈零封DK",
+      "onboard_time": 1760019622,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 84455,
@@ -25787,6 +25867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75004,
+      "num": 75004,
+      "word": "夏以昼",
+      "onboard_time": 1760019741,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 74998,
       "num": 129925,
       "word": "杨瀚森首个助攻",
@@ -26171,6 +26259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 70736,
+      "num": 70736,
+      "word": "网传极氪CBO关海涛已离职",
+      "onboard_time": 1760018422,
+      "rank": 44,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 70710,
       "num": 70710,
       "word": "王楚钦鹰眼挑战失败",
@@ -26291,6 +26387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 69492,
+      "num": 69492,
+      "word": "司机晚8秒下高速多付500失眠一夜",
+      "onboard_time": 1760019681,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69205,
       "num": 69205,
       "word": "一款外军战机被赶走再没回来过",
@@ -26313,6 +26417,14 @@
       "onboard_time": 1759243222,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 68743,
+      "num": 68743,
+      "word": "新加坡双尸案女儿是剑桥博士疑饿死",
+      "onboard_time": 1760019980,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 68724,
@@ -28489,6 +28601,14 @@
       "onboard_time": 1759534457,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34884,
+      "num": 74567,
+      "word": "捐赠救灾物资走高速被收1180元",
+      "onboard_time": 1760019141,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34727,
