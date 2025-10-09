@@ -1,0 +1,410 @@
+{
+  "runTime": 1760015220550,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 760133,
+        "num": 1121621,
+        "word": "乌兰被查",
+        "onboard_time": 1760013441,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 599894,
+        "num": 599894,
+        "word": "小米SU7车主凌晨坠海不幸死亡",
+        "onboard_time": 1760014701,
+        "rank": 1,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 46674,
+        "num": 479924,
+        "word": "假期国内出游总花费8090.06亿元",
+        "onboard_time": 1759984460,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450906,
+        "num": 450906,
+        "word": "海底捞小便事件220万判决已生效",
+        "onboard_time": 1759995800,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388131,
+        "num": 388131,
+        "word": "腾讯视频账号6次超限或面临封号",
+        "onboard_time": 1760005402,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 278981,
+        "num": 278981,
+        "word": "一人食被歧视韩国网友怒了",
+        "onboard_time": 1760004801,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 266621,
+        "num": 266621,
+        "word": "iG全员回国",
+        "onboard_time": 1760009901,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 245632,
+        "num": 245632,
+        "word": "购置税",
+        "onboard_time": 1760002039,
+        "rank": 7,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 207714,
+        "num": 207714,
+        "word": "男子中959万大奖狂欢8周险丧命",
+        "onboard_time": 1760007502,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 201198,
+        "num": 201198,
+        "word": "今年双11开始了",
+        "onboard_time": 1760013260,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 945521,
+        "num": 200165,
+        "word": "杨洋的手机壳一天比一天裂",
+        "onboard_time": 1760012721,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273057,
+        "num": 198358,
+        "word": "结果只有王安宇没笑",
+        "onboard_time": 1760012241,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262819,
+        "num": 195876,
+        "word": "对面这么小刀我真的会同意的",
+        "onboard_time": 1760010561,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162810,
+        "num": 193352,
+        "word": "四川新龙5.4级地震",
+        "onboard_time": 1759987881,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 237864,
+        "num": 190249,
+        "word": "女子结婚为省钱到美甲店打金手镯",
+        "onboard_time": 1760001681,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231863,
+        "num": 187128,
+        "word": "王影璐李昀锐发红包",
+        "onboard_time": 1760011281,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186623,
+        "num": 186623,
+        "word": "卢昱晓神女拉弓镜头",
+        "onboard_time": 1760014220,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183910,
+        "num": 183910,
+        "word": "邓超给孙俪写生日卡片写哭了",
+        "onboard_time": 1760011340,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179696,
+        "num": 179696,
+        "word": "蔡国庆萨顶顶现场争执",
+        "onboard_time": 1760013502,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68047,
+        "num": 176091,
+        "word": "伊拉克小伙在中国找到了饭搭子",
+        "onboard_time": 1760011580,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260331,
+        "num": 174953,
+        "word": "建议女生洗完头不要包头发",
+        "onboard_time": 1760010080,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173434,
+        "num": 173434,
+        "word": "赣州银河左岸首批阵容",
+        "onboard_time": 1760015121,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165742,
+        "num": 165742,
+        "word": "陈哲远李沁cha了go",
+        "onboard_time": 1760012599,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149883,
+        "num": 149883,
+        "word": "许我耀眼",
+        "onboard_time": 1760006721,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143276,
+        "num": 143276,
+        "word": "男孩因不给买新手机商场撒泼",
+        "onboard_time": 1760010801,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134618,
+        "num": 134618,
+        "word": "彭昱畅说向往停播但大家没断联",
+        "onboard_time": 1760013201,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131133,
+        "num": 131133,
+        "word": "南昌遭误会被打扇子哥已离职",
+        "onboard_time": 1760014522,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124360,
+        "num": 124360,
+        "word": "银河左岸莆田阵容",
+        "onboard_time": 1760006121,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124124,
+        "num": 124124,
+        "word": "趵突泉胖锦鲤病重",
+        "onboard_time": 1760005701,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87809,
+        "num": 119866,
+        "word": "锂电池出口管制",
+        "onboard_time": 1760006481,
+        "rank": 29,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 117344,
+        "num": 117344,
+        "word": "宴遇永安",
+        "onboard_time": 1760008640,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114103,
+        "num": 114103,
+        "word": "现货白银价格破14年高点",
+        "onboard_time": 1760014821,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112422,
+        "num": 112422,
+        "word": "德约科维奇晋级上海赛4强",
+        "onboard_time": 1760014522,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106358,
+        "num": 106358,
+        "word": "安徽六安3.4级地震",
+        "onboard_time": 1760007439,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 105605,
+        "num": 105605,
+        "word": "银河左岸",
+        "onboard_time": 1759991181,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105171,
+        "num": 105171,
+        "word": "芒果选秀惊现小华晨宇",
+        "onboard_time": 1760014401,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104613,
+        "num": 104613,
+        "word": "女子被判刑后4年3次卡点怀孕",
+        "onboard_time": 1759996221,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98748,
+        "num": 98748,
+        "word": "肖战巴黎广告拍摄路透",
+        "onboard_time": 1760013562,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97133,
+        "num": 97133,
+        "word": "李昀锐 林百草",
+        "onboard_time": 1760013502,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30961,
+        "num": 97003,
+        "word": "男子带幼犬朝圣",
+        "onboard_time": 1760013980,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96959,
+        "num": 96959,
+        "word": "月鳞绮纪",
+        "onboard_time": 1760014762,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90339,
+        "num": 90339,
+        "word": "冻干蔬菜脆 油炸",
+        "onboard_time": 1759999102,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 89348,
+        "num": 89348,
+        "word": "考上研究生的难度到底有多大",
+        "onboard_time": 1760005521,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89033,
+        "num": 89033,
+        "word": "邓超 为了家庭我可以随时退休",
+        "onboard_time": 1760011701,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88002,
+        "num": 88002,
+        "word": "NIP淘汰",
+        "onboard_time": 1760014339,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86913,
+        "num": 86913,
+        "word": "又被灰原哀美到了",
+        "onboard_time": 1760013141,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 86870,
+        "num": 86870,
+        "word": "济南打雷",
+        "onboard_time": 1760010261,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80121,
+        "num": 80121,
+        "word": "连续三天11点入睡的感受",
+        "onboard_time": 1760005221,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78776,
+        "num": 78776,
+        "word": "印尼男子按习俗将出轨妻子交予情夫",
+        "onboard_time": 1760004022,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 77835,
+        "num": 77835,
+        "word": "林高远讲天津话",
+        "onboard_time": 1760015180,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}

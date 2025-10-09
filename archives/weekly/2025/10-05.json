@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1760014384122,
+  "endTime": 1760015220550,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -651,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 945521,
+      "num": 219863,
+      "word": "杨洋的手机壳一天比一天裂",
+      "onboard_time": 1760012721,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 936221,
       "num": 278424,
       "word": "刘萧旭疑似结婚了",
@@ -971,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 760133,
+      "num": 1121621,
+      "word": "乌兰被查",
+      "onboard_time": 1760013441,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 752749,
       "num": 752749,
       "word": "购置税",
@@ -1179,14 +1195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 640283,
-      "num": 219863,
-      "word": "杨洋的手机壳一天比一天裂",
-      "onboard_time": 1760012721,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 640017,
       "num": 250882,
       "word": "素颜的刘浩存赵今麦李庚希",
@@ -1329,6 +1337,14 @@
       "onboard_time": 1759817420,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 599894,
+      "num": 599894,
+      "word": "小米SU7车主凌晨坠海不幸死亡",
+      "onboard_time": 1760014701,
+      "rank": 1,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 594717,
@@ -3683,6 +3699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273057,
+      "num": 217353,
+      "word": "结果只有王安宇没笑",
+      "onboard_time": 1760012241,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272172,
       "num": 197890,
       "word": "邓超请10个朋友吃大闸蟹",
@@ -3705,14 +3729,6 @@
       "onboard_time": 1759841845,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 270255,
-      "num": 217353,
-      "word": "结果只有王安宇没笑",
-      "onboard_time": 1760012241,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 270244,
@@ -3755,20 +3771,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 266621,
+      "num": 266621,
+      "word": "iG全员回国",
+      "onboard_time": 1760009901,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 266447,
       "num": 234878,
       "word": "许我耀眼一天一集",
       "onboard_time": 1759658062,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 264764,
-      "num": 264764,
-      "word": "iG全员回国",
-      "onboard_time": 1760009901,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 263675,
@@ -3833,6 +3849,14 @@
       "onboard_time": 1759974559,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 260331,
+      "num": 174953,
+      "word": "建议女生洗完头不要包头发",
+      "onboard_time": 1760010080,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 259573,
@@ -4113,14 +4137,6 @@
       "onboard_time": 1759667483,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237723,
-      "num": 165294,
-      "word": "建议女生洗完头不要包头发",
-      "onboard_time": 1760010080,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 237386,
@@ -4819,6 +4835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201198,
+      "num": 201198,
+      "word": "今年双11开始了",
+      "onboard_time": 1760013260,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 201136,
       "num": 201136,
       "word": "赵本山女儿球球回应和哥哥争财产",
@@ -5355,6 +5379,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 186623,
+      "num": 186623,
+      "word": "卢昱晓神女拉弓镜头",
+      "onboard_time": 1760014220,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186427,
       "num": 186427,
       "word": "金莎这小两口 越看越般配",
@@ -5665,6 +5697,14 @@
       "onboard_time": 1759668263,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 179696,
+      "num": 179696,
+      "word": "蔡国庆萨顶顶现场争执",
+      "onboard_time": 1760013502,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 179645,
@@ -5987,14 +6027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174007,
-      "num": 174007,
-      "word": "蔡国庆萨顶顶现场争执",
-      "onboard_time": 1760013502,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173925,
       "num": 173925,
       "word": "低估了回眸杀的含金量",
@@ -6033,6 +6065,14 @@
       "onboard_time": 1759669044,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173434,
+      "num": 173434,
+      "word": "赣州银河左岸首批阵容",
+      "onboard_time": 1760015121,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 173387,
@@ -6249,14 +6289,6 @@
       "onboard_time": 1759758744,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168266,
-      "num": 222292,
-      "word": "乌兰被查",
-      "onboard_time": 1760013441,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168155,
@@ -8507,14 +8539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132456,
-      "num": 154068,
-      "word": "今年双11开始了",
-      "onboard_time": 1760013260,
-      "rank": 23,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 132381,
       "num": 132381,
       "word": "一路灿烂开机",
@@ -8641,6 +8665,14 @@
       "onboard_time": 1759985300,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 131133,
+      "num": 131133,
+      "word": "南昌遭误会被打扇子哥已离职",
+      "onboard_time": 1760014522,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130757,
@@ -9971,6 +10003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 114103,
+      "num": 114103,
+      "word": "现货白银价格破14年高点",
+      "onboard_time": 1760014821,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 113932,
       "num": 166897,
       "word": "高市早苗用反华内容训练AI",
@@ -10169,6 +10209,14 @@
       "onboard_time": 1759637901,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 112422,
+      "num": 112422,
+      "word": "德约科维奇晋级上海赛4强",
+      "onboard_time": 1760014522,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 112113,
@@ -11139,6 +11187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105171,
+      "num": 105171,
+      "word": "芒果选秀惊现小华晨宇",
+      "onboard_time": 1760014401,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105158,
       "num": 115547,
       "word": "人人人熊猫人人人",
@@ -11827,6 +11883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98748,
+      "num": 98748,
+      "word": "肖战巴黎广告拍摄路透",
+      "onboard_time": 1760013562,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98713,
       "num": 226877,
       "word": "Celine终于有颜色了",
@@ -12043,12 +12107,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 97133,
+      "num": 97133,
+      "word": "李昀锐 林百草",
+      "onboard_time": 1760013502,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97129,
       "num": 97129,
       "word": "9号上班的精神状态像安陵容",
       "onboard_time": 1759979901,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96959,
+      "num": 96959,
+      "word": "月鳞绮纪",
+      "onboard_time": 1760014762,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 96867,
@@ -12740,7 +12820,7 @@
     },
     {
       "raw_hot": 91153,
-      "num": 165466,
+      "num": 176091,
       "word": "伊拉克小伙在中国找到了饭搭子",
       "onboard_time": 1760011580,
       "rank": 19,
@@ -13011,14 +13091,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 88946,
-      "num": 88946,
-      "word": "卢昱晓神女拉弓镜头",
-      "onboard_time": 1760014220,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88815,
       "num": 88815,
       "word": "厄瓜多尔总统专车遭到约500人围攻",
@@ -13083,20 +13155,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88267,
-      "num": 88267,
-      "word": "李昀锐 林百草",
-      "onboard_time": 1760013502,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88159,
       "num": 88159,
       "word": "王楚钦说不想放弃",
       "onboard_time": 1759648999,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88002,
+      "num": 88002,
+      "word": "NIP淘汰",
+      "onboard_time": 1760014339,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 87818,
@@ -13113,14 +13185,6 @@
       "onboard_time": 1759977019,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87776,
-      "num": 87776,
-      "word": "肖战巴黎广告拍摄路透",
-      "onboard_time": 1760013562,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 87709,
@@ -13259,6 +13323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86870,
+      "num": 86870,
+      "word": "济南打雷",
+      "onboard_time": 1760010261,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86868,
       "num": 86868,
       "word": "和主人一起出摊的猫猫模特",
@@ -13295,14 +13367,6 @@
       "num": 106890,
       "word": "手机店免费充电线遭男子故意扯断",
       "onboard_time": 1759915881,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86309,
-      "num": 86309,
-      "word": "济南打雷",
-      "onboard_time": 1760010261,
       "rank": 39,
       "category": "民生新闻"
     },
@@ -13771,14 +13835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80316,
-      "num": 80316,
-      "word": "NIP淘汰",
-      "onboard_time": 1760014339,
-      "rank": 44,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 80287,
       "num": 80287,
       "word": "鸡排哥称暂不考虑带徒弟",
@@ -13953,6 +14009,14 @@
       "onboard_time": 1759863314,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77835,
+      "num": 77835,
+      "word": "林高远讲天津话",
+      "onboard_time": 1760015180,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 77641,
@@ -15571,6 +15635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30961,
+      "num": 97003,
+      "word": "男子带幼犬朝圣",
+      "onboard_time": 1760013980,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30589,
       "num": 44626,
       "word": "9月A股市场成交额刷新历史纪录",
@@ -15833,14 +15905,6 @@
       "onboard_time": 1759776255,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 21870,
-      "num": 86321,
-      "word": "男子带幼犬朝圣",
-      "onboard_time": 1760013980,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21586,
