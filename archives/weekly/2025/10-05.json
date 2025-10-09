@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1760008939166,
+  "endTime": 1760009866779,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1323,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 594717,
+      "num": 594717,
+      "word": "鸡排哥回应国庆一天的营业额",
+      "onboard_time": 1760006781,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 591763,
       "num": 263059,
       "word": "肖战巴黎",
@@ -1377,14 +1385,6 @@
       "onboard_time": 1759984281,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 574997,
-      "num": 574997,
-      "word": "鸡排哥回应国庆一天的营业额",
-      "onboard_time": 1760006781,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 570379,
@@ -2001,6 +2001,14 @@
       "onboard_time": 1759900222,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 457416,
+      "num": 457416,
+      "word": "腾讯视频账号6次超限或面临封号",
+      "onboard_time": 1760005402,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 456135,
@@ -2699,14 +2707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354533,
-      "num": 354533,
-      "word": "腾讯视频账号6次超限或面临封号",
-      "onboard_time": 1760005402,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 354251,
       "num": 354251,
       "word": "人类在中医面前毫无秘密可言",
@@ -2923,6 +2923,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 332210,
+      "num": 130538,
+      "word": "跳河新郎遗体被找到家属发声",
+      "onboard_time": 1760008280,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332108,
       "num": 294981,
       "word": "河南卫视太有审美了",
@@ -2969,6 +2977,14 @@
       "onboard_time": 1759587561,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326376,
+      "num": 236114,
+      "word": "董璇 你问问酒窝同不同意",
+      "onboard_time": 1760008760,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 325868,
@@ -3145,6 +3161,14 @@
       "onboard_time": 1759661965,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 312102,
+      "num": 236057,
+      "word": "男子中959万大奖狂欢8周险丧命",
+      "onboard_time": 1760007502,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 311931,
@@ -4507,14 +4531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 210300,
-      "num": 210300,
-      "word": "男子中959万大奖狂欢8周险丧命",
-      "onboard_time": 1760007502,
-      "rank": 17,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 210223,
       "num": 156372,
       "word": "张晚意问还能演正剧吗",
@@ -5507,6 +5523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181203,
+      "num": 181203,
+      "word": "安徽六安3.4级地震",
+      "onboard_time": 1760007439,
+      "rank": 21,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 181163,
       "num": 181163,
       "word": "协议确保以色列全面撤军",
@@ -5641,14 +5665,6 @@
       "onboard_time": 1759916481,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178277,
-      "num": 178277,
-      "word": "安徽六安3.4级地震",
-      "onboard_time": 1760007439,
-      "rank": 21,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 178188,
@@ -5865,6 +5881,14 @@
       "onboard_time": 1759679360,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 174600,
+      "num": 174600,
+      "word": "宴遇永安",
+      "onboard_time": 1759638141,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 174403,
@@ -6723,14 +6747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156786,
-      "num": 130538,
-      "word": "跳河新郎遗体被找到家属发声",
-      "onboard_time": 1760008280,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156508,
       "num": 156508,
       "word": "许我耀眼 写实剧",
@@ -6857,14 +6873,6 @@
       "onboard_time": 1759994960,
       "rank": 27,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 154917,
-      "num": 154917,
-      "word": "宴遇永安",
-      "onboard_time": 1759638141,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 154867,
@@ -7321,6 +7329,14 @@
       "onboard_time": 1759582102,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146882,
+      "num": 132659,
+      "word": "李沁 爱吃米饭的人气血足",
+      "onboard_time": 1760009181,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 146818,
@@ -8051,6 +8067,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 135481,
+      "num": 135481,
+      "word": "一人食被歧视韩国网友怒了",
+      "onboard_time": 1760004801,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 135391,
       "num": 135391,
       "word": "多方侵权迪丽热巴未道歉被公告",
@@ -8329,14 +8353,6 @@
       "onboard_time": 1759980980,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133491,
-      "num": 133491,
-      "word": "一人食被歧视韩国网友怒了",
-      "onboard_time": 1760004801,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 133426,
@@ -10587,14 +10603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108576,
-      "num": 108576,
-      "word": "董璇 你问问酒窝同不同意",
-      "onboard_time": 1760008760,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108453,
       "num": 110862,
       "word": "正剧还得是视帝视后演",
@@ -10889,6 +10897,14 @@
       "onboard_time": 1759656621,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106126,
+      "num": 106126,
+      "word": "女子遇袭瘫痪19岁凶手家属从未露面",
+      "onboard_time": 1760009360,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105981,
@@ -11259,6 +11275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102931,
+      "num": 102931,
+      "word": "入青云热度破8000",
+      "onboard_time": 1760008760,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102716,
       "num": 102716,
       "word": "李湘打码掌纹",
@@ -11289,6 +11313,14 @@
       "onboard_time": 1759825461,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102475,
+      "num": 102475,
+      "word": "姚琛疑似在高铁疯了",
+      "onboard_time": 1760008700,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 102457,
@@ -12923,14 +12955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87959,
-      "num": 87959,
-      "word": "入青云热度破8000",
-      "onboard_time": 1760008760,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 87818,
       "num": 865753,
       "word": "国庆假期值得珍藏的记忆画面",
@@ -13491,6 +13515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81730,
+      "num": 81730,
+      "word": "卢伟冰祝贺小米副总裁入职五周年",
+      "onboard_time": 1760009242,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 81717,
       "num": 81717,
       "word": "洞察一切不愧是花海",
@@ -13553,6 +13585,14 @@
       "onboard_time": 1759759822,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80287,
+      "num": 80287,
+      "word": "鸡排哥称暂不考虑带徒弟",
+      "onboard_time": 1760009781,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80102,
@@ -13665,6 +13705,14 @@
       "onboard_time": 1759647740,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78644,
+      "num": 78644,
+      "word": "学会端着旅行之后真的很爽",
+      "onboard_time": 1760009842,
+      "rank": 48,
+      "category": "情感,旅游"
     },
     {
       "raw_hot": 78571,
@@ -15611,6 +15659,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20001,
+      "num": 88569,
+      "word": "57岁翁虹状态",
+      "onboard_time": 1760009121,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19981,
       "num": 128808,
       "word": "记者调查短剧群演招募乱象",
@@ -15665,6 +15721,14 @@
       "onboard_time": 1759572200,
       "rank": 40,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 18205,
+      "num": 82467,
+      "word": "张艺凡叠门开挂指南",
+      "onboard_time": 1760008942,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 17207,
