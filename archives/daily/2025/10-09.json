@@ -1,7 +1,15 @@
 {
   "startTime": 1759941149301,
-  "endTime": 1759988457478,
+  "endTime": 1759991872322,
   "band_list": [
+    {
+      "raw_hot": 6044805,
+      "num": 6044805,
+      "word": "公司错发1.65亿工资员工被判不退款",
+      "onboard_time": 1759988781,
+      "rank": 0,
+      "category": "海外新闻"
+    },
     {
       "raw_hot": 1676027,
       "num": 1676027,
@@ -171,6 +179,22 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 436073,
+      "num": 232039,
+      "word": "许妍沈皓明亲热被婆婆撞见",
+      "onboard_time": 1759989679,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 430022,
+      "num": 430022,
+      "word": "抑郁症多半心脏有问题",
+      "onboard_time": 1759984341,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 424857,
       "num": 424857,
       "word": "北京冷冷冷冷冷",
@@ -209,6 +233,14 @@
       "onboard_time": 1759925001,
       "rank": 15,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 396946,
+      "num": 231895,
+      "word": "李诞 王安宇怎么这么帅",
+      "onboard_time": 1759988421,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 393669,
@@ -299,20 +331,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 274947,
-      "num": 274947,
-      "word": "抑郁症多半心脏有问题",
-      "onboard_time": 1759984341,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 260584,
       "num": 260584,
       "word": "哈马斯发声明",
       "onboard_time": 1759974559,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 258429,
+      "num": 227015,
+      "word": "肝不好的人起床或有5种表现",
+      "onboard_time": 1759986800,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 251702,
+      "num": 226678,
+      "word": "卢昱晓哭戏靠掐大腿",
+      "onboard_time": 1759988120,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 250645,
@@ -363,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231400,
+      "num": 231400,
+      "word": "卢远前采",
+      "onboard_time": 1759986800,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229084,
       "num": 102826,
       "word": "赵今麦miumiu第一个单人共创艺人",
@@ -384,14 +432,6 @@
       "word": "为什么O型血被称为最惨的血型",
       "onboard_time": 1759965498,
       "rank": 24,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 224014,
-      "num": 224014,
-      "word": "肝不好的人起床或有5种表现",
-      "onboard_time": 1759986800,
-      "rank": 31,
       "category": "健康医疗"
     },
     {
@@ -419,20 +459,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217749,
+      "num": 217749,
+      "word": "offer7播一半淘汰了三个人",
+      "onboard_time": 1759990881,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209765,
       "num": 209765,
       "word": "印度大阅兵士兵表演旋转步枪",
       "onboard_time": 1759985781,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 206362,
-      "num": 206362,
-      "word": "卢远前采",
-      "onboard_time": 1759986800,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 197508,
@@ -547,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172316,
+      "num": 172316,
+      "word": "18斤小猫饿到大哭",
+      "onboard_time": 1759990221,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170443,
       "num": 170443,
       "word": "张军桥医生登上见义勇为勇士榜",
@@ -587,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164871,
+      "num": 164871,
+      "word": "侯梓泰offer7唯一零分选手",
+      "onboard_time": 1759991361,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163307,
       "num": 163307,
       "word": "戒咖啡三个月后我身体发生的变化",
@@ -603,12 +659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159672,
-      "num": 159672,
-      "word": "卢昱晓哭戏靠掐大腿",
-      "onboard_time": 1759988120,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 159633,
+      "num": 159633,
+      "word": "李海海否认恋情",
+      "onboard_time": 1759990940,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 157369,
@@ -657,6 +713,14 @@
       "onboard_time": 1759977259,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152951,
+      "num": 152951,
+      "word": "8天国内出游8.88亿人次",
+      "onboard_time": 1759984822,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 152652,
@@ -723,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136111,
+      "num": 136111,
+      "word": "李沁演的沈近真付一笑出现就是救赎",
+      "onboard_time": 1759991000,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135726,
       "num": 135726,
       "word": "广西南宁通报出现陷坑",
@@ -739,12 +811,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 135251,
+      "num": 135251,
+      "word": "男子23点59卡点下高速省1300元",
+      "onboard_time": 1759990643,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134961,
       "num": 134961,
       "word": "狂魔哥爆料Fly朋友圈",
       "onboard_time": 1759983621,
       "rank": 36,
       "category": "游戏,电竞"
+    },
+    {
+      "raw_hot": 134588,
+      "num": 134588,
+      "word": "51岁的林志玲",
+      "onboard_time": 1759988359,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 133957,
@@ -761,14 +849,6 @@
       "onboard_time": 1759980980,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132248,
-      "num": 132248,
-      "word": "8天国内出游8.88亿人次",
-      "onboard_time": 1759984822,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 131242,
@@ -795,6 +875,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129331,
+      "num": 129331,
+      "word": "向太 年轻人没有资格躺平",
+      "onboard_time": 1759991600,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129115,
+      "num": 129115,
+      "word": "关晓彤金靖还有什么是你俩不敢说的",
+      "onboard_time": 1759990520,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128899,
       "num": 128899,
       "word": "人在工位魂没归位",
@@ -809,6 +905,14 @@
       "onboard_time": 1759972460,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128152,
+      "num": 128152,
+      "word": "吃辣 呼吸性碱中毒",
+      "onboard_time": 1759990520,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 127574,
@@ -833,6 +937,14 @@
       "onboard_time": 1759928601,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125362,
+      "num": 125362,
+      "word": "翁虹给女儿办中式成人礼",
+      "onboard_time": 1759988781,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124408,
@@ -915,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119703,
+      "num": 227280,
+      "word": "阿凡达3内地定档",
+      "onboard_time": 1759991420,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116193,
       "num": 116193,
       "word": "全球围观中国放假",
@@ -971,6 +1091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 110312,
+      "num": 110312,
+      "word": "白百何剪了狗啃刘海",
+      "onboard_time": 1759990280,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109925,
       "num": 109925,
       "word": "20点计划第一阶段协议已签署",
@@ -1011,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107105,
+      "num": 107105,
+      "word": "银河左岸",
+      "onboard_time": 1759991181,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 105297,
       "num": 105297,
       "word": "孙权秒杀皮肤",
@@ -1049,6 +1185,14 @@
       "onboard_time": 1759978639,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 103302,
+      "num": 103302,
+      "word": "刘宇宁巡演官宣",
+      "onboard_time": 1759989140,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 99799,
@@ -1107,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93307,
+      "num": 93307,
+      "word": "焦迈奇 作业",
+      "onboard_time": 1759991780,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92599,
       "num": 100225,
       "word": "冰咖啡和热咖啡的差别居然这么大",
@@ -1121,6 +1273,14 @@
       "onboard_time": 1759981339,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90970,
+      "num": 90970,
+      "word": "入青云",
+      "onboard_time": 1759989859,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 90817,
@@ -1153,14 +1313,6 @@
       "onboard_time": 1759974320,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88223,
-      "num": 122232,
-      "word": "李诞 王安宇怎么这么帅",
-      "onboard_time": 1759988421,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 87818,
@@ -1603,6 +1755,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 44542,
+      "num": 227161,
+      "word": "建议中国味申遗",
+      "onboard_time": 1759990280,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 44013,
       "num": 109583,
       "word": "微博大眼音乐节定档",
@@ -1633,6 +1793,14 @@
       "onboard_time": 1759948275,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 35689,
+      "num": 232374,
+      "word": "樊振东法国康如溯源",
+      "onboard_time": 1759990040,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 34735,
