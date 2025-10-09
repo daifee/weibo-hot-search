@@ -1,0 +1,410 @@
+{
+  "runTime": 1760045879388,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 142194,
+        "num": 186101,
+        "word": "新加坡双尸案女儿是剑桥博士疑饿死",
+        "onboard_time": 1760019980,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118713,
+        "num": 118713,
+        "word": "知情人士称宗馥莉正常上班",
+        "onboard_time": 1760040494,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3331,
+        "num": 70791,
+        "word": "8天国内出游8.88亿人次",
+        "onboard_time": 1759984822,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69326,
+        "num": 69326,
+        "word": "旧金山街头像丧尸大片",
+        "onboard_time": 1760020822,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 59504,
+        "num": 59504,
+        "word": "母亲回应网传女儿高反被搭子抛弃",
+        "onboard_time": 1760023041,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51053,
+        "num": 51053,
+        "word": "新加坡现父女双尸案",
+        "onboard_time": 1760016380,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29299,
+        "num": 29299,
+        "word": "以色列发出警告",
+        "onboard_time": 1760017822,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26884,
+        "num": 26884,
+        "word": "短道速滑",
+        "onboard_time": 1760019141,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26279,
+        "num": 26279,
+        "word": "高反被救女子有成植物人的可能",
+        "onboard_time": 1760022982,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16528,
+        "num": 26275,
+        "word": "完美婆娘涨粉7.31万",
+        "onboard_time": 1760025621,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46418,
+        "num": 26140,
+        "word": "石原里美3年生2娃",
+        "onboard_time": 1760031376,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30569,
+        "num": 26061,
+        "word": "卢昱晓演技",
+        "onboard_time": 1760025439,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27841,
+        "num": 26008,
+        "word": "陈哲远回应吻戏嘴巴干",
+        "onboard_time": 1760030297,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25987,
+        "num": 25987,
+        "word": "许我耀眼36.6%",
+        "onboard_time": 1760031436,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25187,
+        "num": 25187,
+        "word": "女子错峰游韩国两步一个中国人",
+        "onboard_time": 1760023581,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25014,
+        "num": 25014,
+        "word": "乌兰被查",
+        "onboard_time": 1760013441,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24079,
+        "num": 24079,
+        "word": "黄金",
+        "onboard_time": 1760022021,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22032,
+        "num": 22032,
+        "word": "每天练背6分钟就是回报率最高的运动",
+        "onboard_time": 1760019562,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 21402,
+        "num": 21402,
+        "word": "苏翊鸣世界第一个背靠背1980",
+        "onboard_time": 1760020402,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21016,
+        "num": 21016,
+        "word": "中国人挤满国外景区游客发声",
+        "onboard_time": 1760017162,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40019,
+        "num": 20192,
+        "word": "高反失温女孩年仅20岁刚毕业",
+        "onboard_time": 1760022921,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23944,
+        "num": 20102,
+        "word": "男子中959万大奖狂欢8周险丧命",
+        "onboard_time": 1760007502,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23230,
+        "num": 19982,
+        "word": "建议女生洗完头不要包头发",
+        "onboard_time": 1760010080,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19021,
+        "num": 19021,
+        "word": "印尼男子按习俗将出轨妻子交予情夫",
+        "onboard_time": 1760004022,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18539,
+        "num": 18539,
+        "word": "抢泡泡玛特",
+        "onboard_time": 1760021902,
+        "rank": 24,
+        "category": "动漫,休闲"
+      },
+      {
+        "raw_hot": 18231,
+        "num": 18231,
+        "word": "这种零食其实是热量炸弹",
+        "onboard_time": 1760024301,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17679,
+        "num": 17679,
+        "word": "许妍沈皓明生理性喜欢",
+        "onboard_time": 1760022200,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17324,
+        "num": 17324,
+        "word": "宴遇永安",
+        "onboard_time": 1760008640,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16431,
+        "num": 16431,
+        "word": "月鳞绮纪",
+        "onboard_time": 1760014762,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14432,
+        "num": 15638,
+        "word": "锂电池出口管制",
+        "onboard_time": 1760006481,
+        "rank": 29,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 15626,
+        "num": 15626,
+        "word": "男孩因不给买新手机商场撒泼",
+        "onboard_time": 1760010801,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15604,
+        "num": 15604,
+        "word": "洛杉矶最严重火灾纵火嫌疑人被捕",
+        "onboard_time": 1760037793,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 14369,
+        "num": 15594,
+        "word": "女子高反被救母亲首发声",
+        "onboard_time": 1760023161,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13972,
+        "num": 15564,
+        "word": "南昌遭误会被打扇子哥已离职",
+        "onboard_time": 1760014522,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13495,
+        "num": 15544,
+        "word": "一人食被歧视韩国网友怒了",
+        "onboard_time": 1760004801,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 13364,
+        "num": 15513,
+        "word": "女子结婚为省钱到美甲店打金手镯",
+        "onboard_time": 1760001681,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12650,
+        "num": 15499,
+        "word": "中方回应中印恢复直航",
+        "onboard_time": 1760039775,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12464,
+        "num": 15471,
+        "word": "连续三天11点入睡的感受",
+        "onboard_time": 1760005221,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12213,
+        "num": 15429,
+        "word": "台风麦德姆致越南10人死亡",
+        "onboard_time": 1760039775,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 11826,
+        "num": 15407,
+        "word": "腾讯视频账号6次超限或面临封号",
+        "onboard_time": 1760005402,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 11763,
+        "num": 15377,
+        "word": "王一博见证赛场上每一个高光时刻",
+        "onboard_time": 1760043014,
+        "rank": 40,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 11320,
+        "num": 15365,
+        "word": "外交部回应美国抹黑中美教育交流",
+        "onboard_time": 1760037313,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11193,
+        "num": 15337,
+        "word": "外交部回应美机构抹黑中国",
+        "onboard_time": 1760037134,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11140,
+        "num": 15314,
+        "word": "新龙地震市民提前十数秒收到预警",
+        "onboard_time": 1760039775,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 11041,
+        "num": 15274,
+        "word": "店家得打电话逐字确认好几遍",
+        "onboard_time": 1760035993,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 10807,
+        "num": 15245,
+        "word": "iG全员回国",
+        "onboard_time": 1760009901,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10795,
+        "num": 15214,
+        "word": "何炅喜提最佳综艺主持人",
+        "onboard_time": 1760016321,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10638,
+        "num": 15199,
+        "word": "T1全队发博",
+        "onboard_time": 1760019081,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10205,
+        "num": 15176,
+        "word": "重庆2人上榜见义勇为勇士榜",
+        "onboard_time": 1760041454,
+        "rank": 48,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 10129,
+        "num": 15135,
+        "word": "吴磊背着网球拍机场出发",
+        "onboard_time": 1760024001,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席全球妇女峰会开幕式#"
+    }
+  }
+}
