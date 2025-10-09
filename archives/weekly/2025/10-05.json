@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1760002061030,
+  "endTime": 1760002867243,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1819421,
+      "num": 231063,
+      "word": "许我耀眼疑似抄袭我们与恶的距离",
+      "onboard_time": 1760000300,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1813954,
       "num": 1813954,
       "word": "南京地铁鸡鸣寺事件当事人发声",
@@ -193,14 +201,6 @@
       "onboard_time": 1759987881,
       "rank": 0,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 1458645,
-      "num": 231063,
-      "word": "许我耀眼疑似抄袭我们与恶的距离",
-      "onboard_time": 1760000300,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 1439682,
@@ -1451,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 546030,
+      "num": 195998,
+      "word": "第一次见尺度这么大的剧宣",
+      "onboard_time": 1760002640,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 543094,
       "num": 1086895,
       "word": "乌克兰制裁俄罗斯",
@@ -1505,6 +1513,14 @@
       "onboard_time": 1759742601,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 538079,
+      "num": 227888,
+      "word": "女子结婚为省钱到美甲店打金手镯",
+      "onboard_time": 1760001681,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 533884,
@@ -1873,14 +1889,6 @@
       "onboard_time": 1759989679,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 469852,
-      "num": 227888,
-      "word": "女子结婚为省钱到美甲店打金手镯",
-      "onboard_time": 1760001681,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 466195,
@@ -3859,6 +3867,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 246310,
+      "num": 246310,
+      "word": "冻干蔬菜脆 油炸",
+      "onboard_time": 1759999102,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 245799,
       "num": 245799,
       "word": "珠峰暴雪向导一人一狗带超百人撤离",
@@ -4321,14 +4337,6 @@
       "onboard_time": 1759836441,
       "rank": 32,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 215781,
-      "num": 215781,
-      "word": "冻干蔬菜脆 油炸",
-      "onboard_time": 1759999102,
-      "rank": 31,
-      "category": "美食"
     },
     {
       "raw_hot": 215280,
@@ -5307,6 +5315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182675,
+      "num": 182675,
+      "word": "丁一宇恋情",
+      "onboard_time": 1760001441,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182403,
       "num": 182403,
       "word": "Angelababay杂志",
@@ -5385,14 +5401,6 @@
       "onboard_time": 1759673603,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181207,
-      "num": 181207,
-      "word": "丁一宇恋情",
-      "onboard_time": 1760001441,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 181163,
@@ -6499,6 +6507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158199,
+      "num": 158199,
+      "word": "新能源车购税减免门槛进一步提高",
+      "onboard_time": 1760001801,
+      "rank": 40,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 158083,
       "num": 156561,
       "word": "王曼昱2比1反超孙颖莎",
@@ -7273,6 +7289,14 @@
       "onboard_time": 1759719741,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144726,
+      "num": 144726,
+      "word": "购置税",
+      "onboard_time": 1760002039,
+      "rank": 46,
+      "category": "汽车,财经"
     },
     {
       "raw_hot": 144678,
@@ -8635,6 +8659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 125335,
+      "num": 125335,
+      "word": "李沁回应造型",
+      "onboard_time": 1760002102,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125274,
       "num": 125274,
       "word": "周也中秋吃月饼营业照",
@@ -9411,6 +9443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116112,
+      "num": 116112,
+      "word": "陈鹤一耳朵红了",
+      "onboard_time": 1760002581,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116030,
       "num": 116030,
       "word": "陈哲远问怎么会有人边吵架边表白的",
@@ -9673,14 +9713,6 @@
       "onboard_time": 1759633880,
       "rank": 46,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 113422,
-      "num": 118407,
-      "word": "新能源车购税减免门槛进一步提高",
-      "onboard_time": 1760001801,
-      "rank": 40,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 113342,
@@ -10441,6 +10473,14 @@
       "onboard_time": 1759738040,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107435,
+      "num": 118567,
+      "word": "小伙注册骑手第二天送外卖撞死老人",
+      "onboard_time": 1760001260,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107347,
@@ -11755,14 +11795,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 95930,
-      "num": 95930,
-      "word": "购置税",
-      "onboard_time": 1760002039,
-      "rank": 46,
-      "category": "汽车,财经"
-    },
-    {
       "raw_hot": 95749,
       "num": 95749,
       "word": "男子旅游点两个菜661元后续",
@@ -12091,6 +12123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93050,
+      "num": 93050,
+      "word": "谁家男女主亲半天初吻还在啊",
+      "onboard_time": 1760002762,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92993,
       "num": 92993,
       "word": "王一博粉色涂装",
@@ -12105,14 +12145,6 @@
       "onboard_time": 1759927342,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 92687,
-      "num": 118567,
-      "word": "小伙注册骑手第二天送外卖撞死老人",
-      "onboard_time": 1760001260,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92642,
@@ -12160,6 +12192,14 @@
       "word": "蒋敦豪命名舞台炸场",
       "onboard_time": 1759678103,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 92442,
+      "num": 92442,
+      "word": "hi6多网收视第一",
+      "onboard_time": 1760002460,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -12257,6 +12297,14 @@
       "onboard_time": 1759645460,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 91404,
+      "num": 223018,
+      "word": "第一阶段加沙停火协议正式生效",
+      "onboard_time": 1760001681,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91298,
@@ -12497,6 +12545,14 @@
       "onboard_time": 1759625180,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89289,
+      "num": 89289,
+      "word": "胖东来8天卖了8.2亿",
+      "onboard_time": 1760002820,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 89235,
@@ -12761,14 +12817,6 @@
       "onboard_time": 1759821861,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 86592,
-      "num": 223018,
-      "word": "第一阶段加沙停火协议正式生效",
-      "onboard_time": 1760001681,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 86423,
@@ -13267,6 +13315,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 79246,
+      "num": 95900,
+      "word": "女孩没人接2天后发现其父家中离世",
+      "onboard_time": 1760002820,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79080,
       "num": 157261,
       "word": "我的十一电子榨菜",
@@ -13667,6 +13723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69530,
+      "num": 118773,
+      "word": "俄士兵1挑5向乌军扔手榴弹后射击",
+      "onboard_time": 1760001562,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68946,
       "num": 128502,
       "word": "杨瀚森走步",
@@ -13913,6 +13977,14 @@
       "onboard_time": 1759813281,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62802,
+      "num": 95633,
+      "word": "孟子义包场宴遇永安",
+      "onboard_time": 1760002762,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 62770,
@@ -14923,14 +14995,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29858,
-      "num": 118773,
-      "word": "俄士兵1挑5向乌军扔手榴弹后射击",
-      "onboard_time": 1760001562,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 29808,
       "num": 44587,
       "word": "陈俊菘无缘男单四强",
@@ -15128,6 +15192,14 @@
       "word": "景区回应游客坐滑道遇蛇从腿下穿过",
       "onboard_time": 1759954454,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22873,
+      "num": 95756,
+      "word": "女生参加群演试镜被要求衣着裸露",
+      "onboard_time": 1760002220,
+      "rank": 38,
       "category": "民生新闻"
     },
     {

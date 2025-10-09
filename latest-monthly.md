@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/09 17:27:41
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/09 17:41:07
 </p>
 </blockquote>
 <p>
@@ -119,6 +119,12 @@ K签（热度：2379627）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E8%8A%AD%E6%AF%94%E5%A8%83%E5%A8%83%23" target="weibo">
 迪丽热巴 芭比娃娃（热度：2087689）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E7%96%91%E4%BC%BC%E6%8A%84%E8%A2%AD%E6%88%91%E4%BB%AC%E4%B8%8E%E6%81%B6%E7%9A%84%E8%B7%9D%E7%A6%BB%23" target="weibo">
+许我耀眼疑似抄袭我们与恶的距离（热度：1819421）
 </a>
 </li>
 
@@ -275,12 +281,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%96%B0%E9%BE%995.4%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 四川新龙5.4级地震（热度：1467392）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E7%96%91%E4%BC%BC%E6%8A%84%E8%A2%AD%E6%88%91%E4%BB%AC%E4%B8%8E%E6%81%B6%E7%9A%84%E8%B7%9D%E7%A6%BB%23" target="weibo">
-许我耀眼疑似抄袭我们与恶的距离（热度：1458645）
 </a>
 </li>
 
@@ -2115,6 +2115,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%B0%BA%E5%BA%A6%E8%BF%99%E4%B9%88%E5%A4%A7%E7%9A%84%E5%89%A7%E5%AE%A3%23" target="weibo">
+第一次见尺度这么大的剧宣（热度：546030）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%81%8C%E9%9D%A2%E6%B1%A4%E5%91%9B%E6%AD%BB%E5%A6%BB%E5%AD%90%E6%A1%88%E5%86%8D%E6%AC%A1%E5%BB%B6%E6%9C%9F%E5%AE%A1%E7%90%86%23" target="weibo">
 男子灌面汤呛死妻子案再次延期审理（热度：544108）
 </a>
@@ -2171,6 +2177,12 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%90%89%E9%9A%86%E5%9D%A1%E7%AB%99%E6%A8%AA%E6%BB%A8%E7%AB%99%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88%23" target="weibo">
 鹿晗吉隆坡站横滨站演出取消（热度：538085）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E4%B8%BA%E7%9C%81%E9%92%B1%E5%88%B0%E7%BE%8E%E7%94%B2%E5%BA%97%E6%89%93%E9%87%91%E6%89%8B%E9%95%AF%23" target="weibo">
+女子结婚为省钱到美甲店打金手镯（热度：538079）
 </a>
 </li>
 
@@ -2669,12 +2681,6 @@ VaVa说自己分手是因为浪姐（热度：480031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%A6%8D%E6%B2%88%E7%9A%93%E6%98%8E%E4%BA%B2%E7%83%AD%E8%A2%AB%E5%A9%86%E5%A9%86%E6%92%9E%E8%A7%81%23" target="weibo">
 许妍沈皓明亲热被婆婆撞见（热度：470095）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%93%E5%A9%9A%E4%B8%BA%E7%9C%81%E9%92%B1%E5%88%B0%E7%BE%8E%E7%94%B2%E5%BA%97%E6%89%93%E9%87%91%E6%89%8B%E9%95%AF%23" target="weibo">
-女子结婚为省钱到美甲店打金手镯（热度：469852）
 </a>
 </li>
 
@@ -5277,6 +5283,12 @@ F1（热度：275052）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%BB%E5%B9%B2%E8%94%AC%E8%8F%9C%E8%84%86%20%E6%B2%B9%E7%82%B8%23" target="weibo">
+冻干蔬菜脆 油炸（热度：246310）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E4%BA%BA%E7%9B%AF%E4%B8%8A%E5%86%85%E5%9C%B0%E5%8C%BB%E4%BF%9D%23" target="weibo">
 香港人盯上内地医保（热度：245836）
 </a>
@@ -5985,12 +5997,6 @@ AAA建材沈总离婚之我要当榜一大哥（热度：216172）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%BB%E5%B9%B2%E8%94%AC%E8%8F%9C%E8%84%86%20%E6%B2%B9%E7%82%B8%23" target="weibo">
-冻干蔬菜脆 油炸（热度：215781）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23steam%E5%B4%A9%E4%BA%86%23" target="weibo">
 steam崩了（热度：215280）
 </a>
@@ -6005,12 +6011,6 @@ steam崩了（热度：215280）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%B3%95%E4%BB%A4%E7%BA%B9%E6%98%AF%E6%8F%90%E4%BA%AE%E4%B8%8D%E4%BA%86%E7%9A%84%23" target="weibo">
 原来法令纹是提亮不了的（热度：214425）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%99%8B%E7%BA%A7%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E5%86%B3%E8%B5%9B%23" target="weibo">
-王楚钦晋级中国大满贯决赛（热度：214389）
 </a>
 </li>
 
