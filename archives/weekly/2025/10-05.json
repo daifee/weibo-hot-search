@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1760052179023,
+  "endTime": 1760052968951,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -676,7 +676,7 @@
     },
     {
       "raw_hot": 942908,
-      "num": 942908,
+      "num": 951828,
       "word": "新加坡双尸案女儿是剑桥博士疑饿死",
       "onboard_time": 1760019980,
       "rank": 46,
@@ -939,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 793154,
+      "num": 129876,
+      "word": "朋友圈发照片一定要检查视野盲区",
+      "onboard_time": 1760050996,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 792284,
       "num": 254654,
       "word": "鹿晗新壁纸",
@@ -1105,14 +1113,6 @@
       "onboard_time": 1759715779,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 690540,
-      "num": 128149,
-      "word": "朋友圈发照片一定要检查视野盲区",
-      "onboard_time": 1760050996,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 685154,
@@ -1843,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 499345,
+      "num": 127755,
+      "word": "童锦程承认恋情",
+      "onboard_time": 1760052378,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 498380,
       "num": 144077,
       "word": "公司回应联系不上得诺奖的员工",
@@ -2153,6 +2161,14 @@
       "onboard_time": 1759680141,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 448737,
+      "num": 126361,
+      "word": "李沁造型师上热搜后立马换衣服了",
+      "onboard_time": 1760052319,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 447754,
@@ -2803,6 +2819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367738,
+      "num": 367738,
+      "word": "男子与女友吵架驾车撞死一家三口",
+      "onboard_time": 1760050938,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 363907,
       "num": 186788,
       "word": "郭富城回应三胎已出生",
@@ -3371,6 +3395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 311046,
+      "num": 125989,
+      "word": "石原里美3年生2娃",
+      "onboard_time": 1760031376,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310967,
       "num": 243942,
       "word": "王一博轮胎冒烟",
@@ -3489,14 +3521,6 @@
       "onboard_time": 1759652961,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 295352,
-      "num": 125989,
-      "word": "石原里美3年生2娃",
-      "onboard_time": 1760031376,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 295017,
@@ -3771,14 +3795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278650,
-      "num": 278650,
-      "word": "男子与女友吵架驾车撞死一家三口",
-      "onboard_time": 1760050938,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 278474,
       "num": 224753,
       "word": "瘦了15斤后鼻子的变化",
@@ -3857,6 +3873,14 @@
       "onboard_time": 1759639100,
       "rank": 8,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 274782,
+      "num": 123552,
+      "word": "高反失温女孩年仅20岁刚毕业",
+      "onboard_time": 1760022921,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274562,
@@ -4187,6 +4211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249001,
+      "num": 124207,
+      "word": "张檬回应晚上不带孩子",
+      "onboard_time": 1760052319,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248765,
       "num": 191204,
       "word": "肖战喊别人哥哥",
@@ -4209,14 +4241,6 @@
       "onboard_time": 1759714519,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 248233,
-      "num": 123552,
-      "word": "高反失温女孩年仅20岁刚毕业",
-      "onboard_time": 1760022921,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 247327,
@@ -8843,6 +8867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132370,
+      "num": 132370,
+      "word": "iPhone18Fold中框曝光",
+      "onboard_time": 1760050938,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 132310,
       "num": 132310,
       "word": "苏有朋登陆少年开场",
@@ -9457,6 +9489,14 @@
       "onboard_time": 1759652121,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123346,
+      "num": 123346,
+      "word": "台独水军指挥官照片",
+      "onboard_time": 1760052258,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123285,
@@ -11593,14 +11633,6 @@
       "onboard_time": 1759986622,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104617,
-      "num": 104617,
-      "word": "iPhone18Fold中框曝光",
-      "onboard_time": 1760050938,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 104576,
@@ -14771,6 +14803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70506,
+      "num": 70506,
+      "word": "河南景区1元午餐实收多了1327元",
+      "onboard_time": 1760050938,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70444,
       "num": 118406,
       "word": "女子骗钱后怕暴露在朋友圈发布死讯",
@@ -14801,6 +14841,22 @@
       "onboard_time": 1759845743,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70191,
+      "num": 70191,
+      "word": "鸣潮",
+      "onboard_time": 1760052258,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 69938,
+      "num": 69938,
+      "word": "谢兴阳怎么了",
+      "onboard_time": 1760052378,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 69828,
@@ -14865,6 +14921,14 @@
       "onboard_time": 1759851201,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68564,
+      "num": 68564,
+      "word": "我对世界的态度就宋祖儿这样",
+      "onboard_time": 1760048714,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 68522,
@@ -14945,14 +15009,6 @@
       "onboard_time": 1759640602,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66817,
-      "num": 66817,
-      "word": "我对世界的态度就宋祖儿这样",
-      "onboard_time": 1760048714,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 66794,
@@ -15113,6 +15169,14 @@
       "onboard_time": 1759905440,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62730,
+      "num": 62730,
+      "word": "普京就阿航空难事件道歉",
+      "onboard_time": 1760052319,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 62515,
@@ -15403,14 +15467,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 54771,
-      "num": 54771,
-      "word": "河南景区1元午餐实收多了1327元",
-      "onboard_time": 1760050938,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54549,
       "num": 365748,
       "word": "刘嘉玲私人健康顾问被曝光",
@@ -15619,6 +15675,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51670,
+      "num": 51670,
+      "word": "高志凯建议罚菲坐滩军舰每天100万美元",
+      "onboard_time": 1760052258,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 51343,
+      "num": 51343,
+      "word": "人造石墨负极材料相关物项出口管制",
+      "onboard_time": 1760006961,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51144,
       "num": 163749,
       "word": "丁程鑫路演嘴瓢瞬间红温",
@@ -15649,6 +15721,14 @@
       "onboard_time": 1759966518,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 50551,
+      "num": 50551,
+      "word": "今天是火影忍者鸣人生日",
+      "onboard_time": 1760052619,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 50385,
@@ -15939,6 +16019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40372,
+      "num": 47994,
+      "word": "宋妍霏演戏裙子吊牌都没摘",
+      "onboard_time": 1760052799,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40126,
       "num": 69589,
       "word": "电影毕正明的证明",
@@ -15993,6 +16081,14 @@
       "onboard_time": 1759754544,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 38515,
+      "num": 48091,
+      "word": "洛杉矶最严重火灾纵火嫌疑人被捕",
+      "onboard_time": 1760037793,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 37952,
@@ -16123,12 +16219,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33692,
-      "num": 48091,
-      "word": "洛杉矶最严重火灾纵火嫌疑人被捕",
-      "onboard_time": 1760037793,
-      "rank": 42,
-      "category": "海外新闻"
+      "raw_hot": 33456,
+      "num": 110699,
+      "word": "特朗普称西班牙应被逐出北约",
+      "onboard_time": 1760052319,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33425,

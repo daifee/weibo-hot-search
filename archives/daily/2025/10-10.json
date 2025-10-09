@@ -1,14 +1,22 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760052179023,
+  "endTime": 1760052968951,
   "band_list": [
     {
-      "raw_hot": 932510,
-      "num": 932510,
+      "raw_hot": 933191,
+      "num": 951828,
       "word": "新加坡双尸案女儿是剑桥博士疑饿死",
       "onboard_time": 1760019980,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 793154,
+      "num": 129876,
+      "word": "朋友圈发照片一定要检查视野盲区",
+      "onboard_time": 1760050996,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 751291,
@@ -17,14 +25,6 @@
       "onboard_time": 1760016380,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 690540,
-      "num": 128149,
-      "word": "朋友圈发照片一定要检查视野盲区",
-      "onboard_time": 1760050996,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 574395,
@@ -51,6 +51,22 @@
       "category": "动漫,休闲"
     },
     {
+      "raw_hot": 499345,
+      "num": 127755,
+      "word": "童锦程承认恋情",
+      "onboard_time": 1760052378,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 448737,
+      "num": 126361,
+      "word": "李沁造型师上热搜后立马换衣服了",
+      "onboard_time": 1760052319,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 419669,
       "num": 419669,
       "word": "母亲回应网传女儿高反被搭子抛弃",
@@ -65,6 +81,22 @@
       "onboard_time": 1760025439,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367738,
+      "num": 367738,
+      "word": "男子与女友吵架驾车撞死一家三口",
+      "onboard_time": 1760050938,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311046,
+      "num": 125989,
+      "word": "石原里美3年生2娃",
+      "onboard_time": 1760031376,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 301357,
@@ -83,19 +115,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 295352,
-      "num": 125989,
-      "word": "石原里美3年生2娃",
-      "onboard_time": 1760031376,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 278650,
-      "num": 278650,
-      "word": "男子与女友吵架驾车撞死一家三口",
-      "onboard_time": 1760050938,
-      "rank": 4,
+      "raw_hot": 274782,
+      "num": 110137,
+      "word": "高反失温女孩年仅20岁刚毕业",
+      "onboard_time": 1760022921,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -107,12 +131,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 248233,
-      "num": 99845,
-      "word": "高反失温女孩年仅20岁刚毕业",
-      "onboard_time": 1760022921,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 249001,
+      "num": 124207,
+      "word": "张檬回应晚上不带孩子",
+      "onboard_time": 1760052319,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 247869,
@@ -147,12 +171,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 132370,
+      "num": 132370,
+      "word": "iPhone18Fold中框曝光",
+      "onboard_time": 1760050938,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 128978,
-      "num": 99823,
+      "num": 109764,
       "word": "建议女生洗完头不要包头发",
       "onboard_time": 1760010080,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123346,
+      "num": 123346,
+      "word": "台独水军指挥官照片",
+      "onboard_time": 1760052258,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123078,
@@ -171,20 +211,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109372,
+      "num": 109372,
+      "word": "男子中959万大奖狂欢8周险丧命",
+      "onboard_time": 1760007502,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 107779,
       "num": 107779,
       "word": "中国人挤满国外景区游客发声",
       "onboard_time": 1760017162,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104617,
-      "num": 104617,
-      "word": "iPhone18Fold中框曝光",
-      "onboard_time": 1760050938,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 102657,
@@ -195,20 +235,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101746,
-      "num": 99776,
-      "word": "男子中959万大奖狂欢8周险丧命",
-      "onboard_time": 1760007502,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 101448,
       "num": 101448,
       "word": "腾讯视频账号6次超限或面临封号",
       "onboard_time": 1760005402,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 98867,
+      "num": 99655,
+      "word": "连续三天11点入睡的感受",
+      "onboard_time": 1760005221,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 83274,
+      "num": 99449,
+      "word": "印尼男子按习俗将出轨妻子交予情夫",
+      "onboard_time": 1760004022,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 76113,
@@ -227,12 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75760,
-      "num": 99655,
-      "word": "连续三天11点入睡的感受",
-      "onboard_time": 1760005221,
-      "rank": 26,
-      "category": "情感"
+      "raw_hot": 75695,
+      "num": 99095,
+      "word": "男孩因不给买新手机商场撒泼",
+      "onboard_time": 1760010801,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75642,
@@ -259,20 +307,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73371,
-      "num": 99449,
-      "word": "印尼男子按习俗将出轨妻子交予情夫",
-      "onboard_time": 1760004022,
-      "rank": 33,
-      "category": "海外新闻"
+      "raw_hot": 70506,
+      "num": 70506,
+      "word": "河南景区1元午餐实收多了1327元",
+      "onboard_time": 1760050938,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 70365,
-      "num": 99095,
-      "word": "男孩因不给买新手机商场撒泼",
-      "onboard_time": 1760010801,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 70191,
+      "num": 70191,
+      "word": "鸣潮",
+      "onboard_time": 1760052258,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 70081,
@@ -281,6 +329,14 @@
       "onboard_time": 1760019081,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 69938,
+      "num": 69938,
+      "word": "谢兴阳怎么了",
+      "onboard_time": 1760052378,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 69639,
@@ -307,20 +363,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68564,
+      "num": 68564,
+      "word": "我对世界的态度就宋祖儿这样",
+      "onboard_time": 1760048714,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68522,
       "num": 99495,
       "word": "李沁坦诚度",
       "onboard_time": 1760024959,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 66817,
-      "num": 66817,
-      "word": "我对世界的态度就宋祖儿这样",
-      "onboard_time": 1760048714,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 65517,
@@ -331,12 +387,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 63003,
+      "raw_hot": 63545,
       "num": 99568,
       "word": "锂电池出口管制",
       "onboard_time": 1760006481,
       "rank": 29,
       "category": "国内时政,财经"
+    },
+    {
+      "raw_hot": 62730,
+      "num": 62730,
+      "word": "普京就阿航空难事件道歉",
+      "onboard_time": 1760052319,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59366,
@@ -353,14 +417,6 @@
       "onboard_time": 1760013502,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 54771,
-      "num": 54771,
-      "word": "河南景区1元午餐实收多了1327元",
-      "onboard_time": 1760050938,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54275,
@@ -395,6 +451,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 51670,
+      "num": 51670,
+      "word": "高志凯建议罚菲坐滩军舰每天100万美元",
+      "onboard_time": 1760052258,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 51343,
+      "num": 51343,
+      "word": "人造石墨负极材料相关物项出口管制",
+      "onboard_time": 1760006961,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50862,
       "num": 99230,
       "word": "周杰伦上海演唱会",
@@ -409,6 +481,14 @@
       "onboard_time": 1760023161,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50551,
+      "num": 50551,
+      "word": "今天是火影忍者鸣人生日",
+      "onboard_time": 1760052619,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 49890,
@@ -483,20 +563,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40372,
+      "num": 47994,
+      "word": "宋妍霏演戏裙子吊牌都没摘",
+      "onboard_time": 1760052799,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 39369,
+      "num": 54691,
+      "word": "一人食被歧视韩国网友怒了",
+      "onboard_time": 1760004801,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 38515,
+      "num": 48091,
+      "word": "洛杉矶最严重火灾纵火嫌疑人被捕",
+      "onboard_time": 1760037793,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 37272,
       "num": 54721,
       "word": "十个勤天万里长歌",
       "onboard_time": 1760030596,
       "rank": 34,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 37044,
-      "num": 54691,
-      "word": "一人食被歧视韩国网友怒了",
-      "onboard_time": 1760004801,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 34231,
@@ -507,12 +603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33692,
-      "num": 48091,
-      "word": "洛杉矶最严重火灾纵火嫌疑人被捕",
-      "onboard_time": 1760037793,
-      "rank": 42,
-      "category": "海外新闻"
+      "raw_hot": 33456,
+      "num": 110699,
+      "word": "特朗普称西班牙应被逐出北约",
+      "onboard_time": 1760052319,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32522,
@@ -643,7 +739,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8956,
+      "raw_hot": 9082,
       "num": 474074,
       "word": "8天国内出游8.88亿人次",
       "onboard_time": 1759984822,
