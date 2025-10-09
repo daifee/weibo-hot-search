@@ -1,6 +1,6 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760035703888,
+  "endTime": 1760037699290,
   "band_list": [
     {
       "raw_hot": 751291,
@@ -473,6 +473,38 @@
       "onboard_time": 1760031556,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15313,
+      "num": 16362,
+      "word": "店家得打电话逐字确认好几遍",
+      "onboard_time": 1760035993,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 11215,
+      "num": 16323,
+      "word": "外交部回应美机构抹黑中国",
+      "onboard_time": 1760037134,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 11123,
+      "num": 16316,
+      "word": "入青云 黄粱梦",
+      "onboard_time": 1760036173,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 10867,
+      "num": 16310,
+      "word": "外交部回应美国抹黑中美教育交流",
+      "onboard_time": 1760037313,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 8583,
