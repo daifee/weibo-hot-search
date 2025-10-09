@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1759991872322,
+  "endTime": 1759992666578,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 6044805,
-      "num": 6044805,
+      "raw_hot": 9127369,
+      "num": 9127369,
       "word": "公司错发1.65亿工资员工被判不退款",
       "onboard_time": 1759988781,
       "rank": 0,
@@ -2115,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415858,
+      "num": 231895,
+      "word": "李诞 王安宇怎么这么帅",
+      "onboard_time": 1759988421,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 408054,
       "num": 408054,
       "word": "2025国庆档票房18.35亿",
@@ -2177,14 +2185,6 @@
       "onboard_time": 1759634241,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 396946,
-      "num": 231895,
-      "word": "李诞 王安宇怎么这么帅",
-      "onboard_time": 1759988421,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 394639,
@@ -4955,6 +4955,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 186623,
+      "num": 186623,
+      "word": "石原里美二胎产后状态",
+      "onboard_time": 1759992502,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186427,
       "num": 186427,
       "word": "金莎这小两口 越看越般配",
@@ -5161,6 +5169,14 @@
       "onboard_time": 1759622539,
       "rank": 8,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 181391,
+      "num": 227280,
+      "word": "阿凡达3内地定档",
+      "onboard_time": 1759991420,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 181293,
@@ -5643,6 +5659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171606,
+      "num": 171606,
+      "word": "侯梓泰offer7唯一零分选手",
+      "onboard_time": 1759991361,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171536,
       "num": 171536,
       "word": "被2000多年前的中国基建震撼到",
@@ -5827,6 +5851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167015,
+      "num": 167015,
+      "word": "向太 年轻人没有资格躺平",
+      "onboard_time": 1759991600,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166820,
       "num": 154629,
       "word": "住老破小的副作用已经出现了",
@@ -5897,14 +5929,6 @@
       "onboard_time": 1759755023,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 164871,
-      "num": 164871,
-      "word": "侯梓泰offer7唯一零分选手",
-      "onboard_time": 1759991361,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 164614,
@@ -6795,6 +6819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146818,
+      "num": 146818,
+      "word": "李沁小考服装下是睡裤",
+      "onboard_time": 1759992022,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146705,
       "num": 146705,
       "word": "山河枕",
@@ -6889,6 +6921,14 @@
       "onboard_time": 1759843584,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145495,
+      "num": 145495,
+      "word": "吃辣 呼吸性碱中毒",
+      "onboard_time": 1759990520,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 145443,
@@ -7979,14 +8019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 129331,
-      "num": 129331,
-      "word": "向太 年轻人没有资格躺平",
-      "onboard_time": 1759991600,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129236,
       "num": 129236,
       "word": "张予曦出门拍戏半年回来仍是毛坯",
@@ -8057,14 +8089,6 @@
       "onboard_time": 1759929441,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 128152,
-      "num": 128152,
-      "word": "吃辣 呼吸性碱中毒",
-      "onboard_time": 1759990520,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 128095,
@@ -8201,6 +8225,14 @@
       "onboard_time": 1759720281,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125743,
+      "num": 125743,
+      "word": "白百何剪了狗啃刘海",
+      "onboard_time": 1759990280,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 125694,
@@ -8697,14 +8729,6 @@
       "onboard_time": 1759905801,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 119703,
-      "num": 227280,
-      "word": "阿凡达3内地定档",
-      "onboard_time": 1759991420,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 119620,
@@ -9609,14 +9633,6 @@
       "onboard_time": 1759973300,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 110312,
-      "num": 110312,
-      "word": "白百何剪了狗啃刘海",
-      "onboard_time": 1759990280,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 110150,
@@ -11667,6 +11683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92042,
+      "num": 92042,
+      "word": "姐姐骗弟弟学校提前一天开学",
+      "onboard_time": 1759992381,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91980,
       "num": 91980,
       "word": "A股中长期上涨的底气充足",
@@ -13217,6 +13241,14 @@
       "onboard_time": 1759739600,
       "rank": 40,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 65626,
+      "num": 115253,
+      "word": "亲生儿子多次将母亲遗弃荒野",
+      "onboard_time": 1759992502,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65558,

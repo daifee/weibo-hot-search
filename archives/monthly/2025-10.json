@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1759991872322,
+  "endTime": 1759992666578,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9127369,
+      "num": 9127369,
+      "word": "公司错发1.65亿工资员工被判不退款",
+      "onboard_time": 1759988781,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 6668945,
       "num": 6668945,
       "word": "李纯马頔结婚",
       "onboard_time": 1759378822,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6044805,
-      "num": 6044805,
-      "word": "公司错发1.65亿工资员工被判不退款",
-      "onboard_time": 1759988781,
-      "rank": 0,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 5005347,
@@ -3995,6 +3995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 415858,
+      "num": 231895,
+      "word": "李诞 王安宇怎么这么帅",
+      "onboard_time": 1759988421,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 414442,
       "num": 195521,
       "word": "今年三大平台爆剧",
@@ -4129,14 +4137,6 @@
       "onboard_time": 1759634241,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 396946,
-      "num": 231895,
-      "word": "李诞 王安宇怎么这么帅",
-      "onboard_time": 1759988421,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 396349,
@@ -9339,6 +9339,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 186623,
+      "num": 186623,
+      "word": "石原里美二胎产后状态",
+      "onboard_time": 1759992502,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186427,
       "num": 186427,
       "word": "金莎这小两口 越看越般配",
@@ -9729,6 +9737,14 @@
       "onboard_time": 1759622539,
       "rank": 8,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 181391,
+      "num": 227280,
+      "word": "阿凡达3内地定档",
+      "onboard_time": 1759991420,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 181340,
@@ -10395,6 +10411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171606,
+      "num": 171606,
+      "word": "侯梓泰offer7唯一零分选手",
+      "onboard_time": 1759991361,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171536,
       "num": 171536,
       "word": "被2000多年前的中国基建震撼到",
@@ -10795,6 +10819,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167015,
+      "num": 167015,
+      "word": "向太 年轻人没有资格躺平",
+      "onboard_time": 1759991600,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166993,
       "num": 166993,
       "word": "偷偷藏不住",
@@ -10993,14 +11025,6 @@
       "onboard_time": 1759562179,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 164871,
-      "num": 164871,
-      "word": "侯梓泰offer7唯一零分选手",
-      "onboard_time": 1759991361,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 164863,
@@ -12499,6 +12523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146818,
+      "num": 146818,
+      "word": "李沁小考服装下是睡裤",
+      "onboard_time": 1759992022,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146781,
       "num": 146781,
       "word": "小酒窝在天安门举国旗拍照",
@@ -12673,6 +12705,14 @@
       "onboard_time": 1759299500,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145495,
+      "num": 145495,
+      "word": "吃辣 呼吸性碱中毒",
+      "onboard_time": 1759990520,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 145443,
@@ -14699,14 +14739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 129331,
-      "num": 129331,
-      "word": "向太 年轻人没有资格躺平",
-      "onboard_time": 1759991600,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129270,
       "num": 182766,
       "word": "印度学者妄言中国被现场打脸",
@@ -14881,14 +14913,6 @@
       "onboard_time": 1759929441,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 128152,
-      "num": 128152,
-      "word": "吃辣 呼吸性碱中毒",
-      "onboard_time": 1759990520,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 128137,
@@ -15153,6 +15177,14 @@
       "onboard_time": 1759720281,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125743,
+      "num": 125743,
+      "word": "白百何剪了狗啃刘海",
+      "onboard_time": 1759990280,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 125694,
@@ -15969,14 +16001,6 @@
       "onboard_time": 1759905801,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 119703,
-      "num": 227280,
-      "word": "阿凡达3内地定档",
-      "onboard_time": 1759991420,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 119690,
@@ -17729,14 +17753,6 @@
       "onboard_time": 1759973300,
       "rank": 28,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 110312,
-      "num": 110312,
-      "word": "白百何剪了狗啃刘海",
-      "onboard_time": 1759990280,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 110295,
@@ -21747,6 +21763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92042,
+      "num": 92042,
+      "word": "姐姐骗弟弟学校提前一天开学",
+      "onboard_time": 1759992381,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92016,
       "num": 92016,
       "word": "课本上的传奇女子",
@@ -25168,6 +25192,14 @@
       "word": "网警提醒双节这些陷阱要绕行",
       "onboard_time": 1759288399,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65626,
+      "num": 115253,
+      "word": "亲生儿子多次将母亲遗弃荒野",
+      "onboard_time": 1759992502,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

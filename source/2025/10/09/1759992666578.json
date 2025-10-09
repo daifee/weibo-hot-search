@@ -1,0 +1,410 @@
+{
+  "runTime": 1759992666578,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9127369,
+        "num": 9127369,
+        "word": "公司错发1.65亿工资员工被判不退款",
+        "onboard_time": 1759988781,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 519651,
+        "num": 519651,
+        "word": "四川新龙5.4级地震",
+        "onboard_time": 1759987881,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 21209,
+        "num": 404770,
+        "word": "国庆假期值得珍藏的记忆画面",
+        "onboard_time": 1759972819,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342883,
+        "num": 342883,
+        "word": "本周上三休一",
+        "onboard_time": 1759982180,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334541,
+        "num": 334541,
+        "word": "抑郁症多半心脏有问题",
+        "onboard_time": 1759984341,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300417,
+        "num": 300417,
+        "word": "重庆女子打表去内蒙古计价器爆了",
+        "onboard_time": 1759981821,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258764,
+        "num": 258764,
+        "word": "男子故意泄密致我国货船在公海被拦",
+        "onboard_time": 1759966759,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253242,
+        "num": 253242,
+        "word": "北京冷冷冷冷冷",
+        "onboard_time": 1759981580,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236734,
+        "num": 236734,
+        "word": "大疆",
+        "onboard_time": 1759974618,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130797,
+        "num": 236374,
+        "word": "2025国庆档票房18.35亿",
+        "onboard_time": 1759978819,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 431968,
+        "num": 232382,
+        "word": "胡先煦 我有一儿一女两只猫",
+        "onboard_time": 1759981701,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35019,
+        "num": 229411,
+        "word": "樊振东法国康如溯源",
+        "onboard_time": 1759990040,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415858,
+        "num": 227199,
+        "word": "李诞 王安宇怎么这么帅",
+        "onboard_time": 1759988421,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397321,
+        "num": 223441,
+        "word": "许我耀眼复合",
+        "onboard_time": 1759985422,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254474,
+        "num": 222373,
+        "word": "狐妖王权篇改名了",
+        "onboard_time": 1759984281,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 380773,
+        "num": 217091,
+        "word": "许妍沈皓明亲热被婆婆撞见",
+        "onboard_time": 1759989679,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217038,
+        "num": 217038,
+        "word": "高速免费结束前收费站人员高喊快点",
+        "onboard_time": 1759974559,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188557,
+        "num": 188557,
+        "word": "offer7播一半淘汰了三个人",
+        "onboard_time": 1759990881,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186623,
+        "num": 186623,
+        "word": "石原里美二胎产后状态",
+        "onboard_time": 1759992502,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42988,
+        "num": 183135,
+        "word": "建议中国味申遗",
+        "onboard_time": 1759990280,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181391,
+        "num": 181391,
+        "word": "阿凡达3内地定档",
+        "onboard_time": 1759991420,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246009,
+        "num": 180481,
+        "word": "肝不好的人起床或有5种表现",
+        "onboard_time": 1759986800,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209896,
+        "num": 179663,
+        "word": "卢昱晓哭戏靠掐大腿",
+        "onboard_time": 1759988120,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178668,
+        "num": 178668,
+        "word": "桂纶镁41岁状态",
+        "onboard_time": 1759984761,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171606,
+        "num": 171606,
+        "word": "侯梓泰offer7唯一零分选手",
+        "onboard_time": 1759991361,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167758,
+        "num": 167758,
+        "word": "卢远前采",
+        "onboard_time": 1759986800,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167015,
+        "num": 167015,
+        "word": "向太 年轻人没有资格躺平",
+        "onboard_time": 1759991600,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148143,
+        "num": 148143,
+        "word": "8天国内出游8.88亿人次",
+        "onboard_time": 1759984822,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146818,
+        "num": 146818,
+        "word": "李沁小考服装下是睡裤",
+        "onboard_time": 1759992022,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145495,
+        "num": 145495,
+        "word": "吃辣 呼吸性碱中毒",
+        "onboard_time": 1759990520,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145470,
+        "num": 145470,
+        "word": "女子将奶茶倒在他人头上后逃跑",
+        "onboard_time": 1759983981,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143994,
+        "num": 143994,
+        "word": "印度大阅兵士兵表演旋转步枪",
+        "onboard_time": 1759985781,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132529,
+        "num": 132529,
+        "word": "李海海否认恋情",
+        "onboard_time": 1759990940,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131497,
+        "num": 131497,
+        "word": "男子23点59卡点下高速省1300元",
+        "onboard_time": 1759990643,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129037,
+        "num": 129037,
+        "word": "杨瀚森六犯离场",
+        "onboard_time": 1759986681,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128349,
+        "num": 128349,
+        "word": "18斤小猫饿到大哭",
+        "onboard_time": 1759990221,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125743,
+        "num": 125743,
+        "word": "白百何剪了狗啃刘海",
+        "onboard_time": 1759990280,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121272,
+        "num": 121272,
+        "word": "戒咖啡三个月后我身体发生的变化",
+        "onboard_time": 1759986859,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117050,
+        "num": 117050,
+        "word": "建议东北人不要随便给菜起名了",
+        "onboard_time": 1759985300,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65626,
+        "num": 115253,
+        "word": "亲生儿子多次将母亲遗弃荒野",
+        "onboard_time": 1759992502,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115016,
+        "num": 115016,
+        "word": "翁虹给女儿办中式成人礼",
+        "onboard_time": 1759988781,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112906,
+        "num": 112906,
+        "word": "51岁的林志玲",
+        "onboard_time": 1759988359,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111419,
+        "num": 111419,
+        "word": "对稀土相关技术实施出口管制的决定",
+        "onboard_time": 1759974980,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110762,
+        "num": 110762,
+        "word": "节后第一天上班建议适度摸鱼",
+        "onboard_time": 1759979541,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108290,
+        "num": 108290,
+        "word": "关晓彤金靖还有什么是你俩不敢说的",
+        "onboard_time": 1759990520,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103418,
+        "num": 103418,
+        "word": "女子买27万购物卡员工报警挽损67万",
+        "onboard_time": 1759986859,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102166,
+        "num": 102166,
+        "word": "妈妈最爱我们梳的发型出现了",
+        "onboard_time": 1759983502,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 100417,
+        "num": 100417,
+        "word": "银河左岸",
+        "onboard_time": 1759991181,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94994,
+        "num": 94994,
+        "word": "假期国内出游总花费8090.06亿元",
+        "onboard_time": 1759984460,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92042,
+        "num": 92042,
+        "word": "姐姐骗弟弟学校提前一天开学",
+        "onboard_time": 1759992381,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
