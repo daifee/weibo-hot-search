@@ -1,6 +1,6 @@
 {
   "startTime": 1759941149301,
-  "endTime": 1760021618181,
+  "endTime": 1760024205331,
   "band_list": [
     {
       "raw_hot": 9127369,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 942908,
+      "num": 942908,
+      "word": "新加坡双尸案女儿是剑桥博士疑饿死",
+      "onboard_time": 1760019980,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 936221,
       "num": 278424,
       "word": "刘萧旭疑似结婚了",
@@ -243,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 627023,
+      "num": 149080,
+      "word": "旧金山街头像丧尸大片",
+      "onboard_time": 1760020822,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 618039,
       "num": 245599,
       "word": "黄子韬徐艺洋要直播婚礼",
@@ -289,6 +305,14 @@
       "onboard_time": 1759984281,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 576704,
+      "num": 576704,
+      "word": "抢泡泡玛特",
+      "onboard_time": 1760021902,
+      "rank": 3,
+      "category": "动漫,休闲"
     },
     {
       "raw_hot": 557175,
@@ -363,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 497990,
+      "num": 497990,
+      "word": "黄金",
+      "onboard_time": 1760022021,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 496447,
       "num": 837782,
       "word": "蜜雪冰城小票藏连载小说",
@@ -377,6 +409,14 @@
       "onboard_time": 1759980138,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 474151,
+      "num": 168226,
+      "word": "沈皓辰出现自闭症状",
+      "onboard_time": 1760018602,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 471063,
@@ -489,6 +529,14 @@
       "onboard_time": 1759998321,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 409901,
+      "num": 146969,
+      "word": "苏翊鸣世界第一个背靠背1980",
+      "onboard_time": 1760020402,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 408054,
@@ -779,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250240,
+      "num": 250240,
+      "word": "以色列发出警告",
+      "onboard_time": 1760017822,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 249458,
       "num": 242389,
       "word": "节后第一天上班建议适度摸鱼",
@@ -868,7 +924,7 @@
     },
     {
       "raw_hot": 231599,
-      "num": 515441,
+      "num": 602177,
       "word": "8天国内出游8.88亿人次",
       "onboard_time": 1759984822,
       "rank": 40,
@@ -963,22 +1019,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 208649,
-      "num": 168226,
-      "word": "沈皓辰出现自闭症状",
-      "onboard_time": 1760018602,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 208647,
-      "num": 208647,
-      "word": "新加坡双尸案女儿是剑桥博士疑饿死",
-      "onboard_time": 1760019980,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 208076,
       "num": 182912,
       "word": "北电第一offer踢馆失败",
@@ -1011,20 +1051,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 200668,
+      "num": 144227,
+      "word": "蘑菇屋群名",
+      "onboard_time": 1760018481,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197508,
       "num": 170448,
       "word": "这个血型天生更易得痔疮",
       "onboard_time": 1759978159,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 197441,
-      "num": 105518,
-      "word": "旧金山街头像丧尸大片",
-      "onboard_time": 1760020822,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 195330,
@@ -1083,6 +1123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 190156,
+      "num": 121149,
+      "word": "高反失温女孩年仅20岁刚毕业",
+      "onboard_time": 1760022921,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190150,
       "num": 168014,
       "word": "胡兵有这身材穿什么都好看",
@@ -1099,14 +1147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 188070,
-      "num": 188070,
-      "word": "以色列发出警告",
-      "onboard_time": 1760017822,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 186623,
       "num": 186623,
       "word": "卢昱晓神女拉弓镜头",
@@ -1120,6 +1160,14 @@
       "word": "二婚的爸被刀的妈阴暗爬行的她",
       "onboard_time": 1759982240,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185353,
+      "num": 142626,
+      "word": "许妍沈皓明生理性喜欢",
+      "onboard_time": 1760022200,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -1963,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122563,
+      "num": 122563,
+      "word": "高反被救女子有成植物人的可能",
+      "onboard_time": 1760022982,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122431,
       "num": 122431,
       "word": "龚俊一个动作让群体沉默",
@@ -2059,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116434,
+      "num": 116434,
+      "word": "母亲回应网传女儿高反被搭子抛弃",
+      "onboard_time": 1760023041,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116193,
       "num": 116193,
       "word": "全球围观中国放假",
@@ -2105,14 +2169,6 @@
       "onboard_time": 1760001022,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114593,
-      "num": 112390,
-      "word": "蘑菇屋群名",
-      "onboard_time": 1760018481,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 114545,
@@ -2169,6 +2225,14 @@
       "onboard_time": 1759977979,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 111842,
+      "num": 111842,
+      "word": "陈飞宇展示帅哥朋友圈",
+      "onboard_time": 1760022560,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 111668,
@@ -2683,14 +2747,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 87957,
-      "num": 87957,
-      "word": "苏翊鸣世界第一个背靠背1980",
-      "onboard_time": 1760020402,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 87829,
       "num": 87829,
       "word": "微信长按图标就能调出付款码",
@@ -2851,6 +2907,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 80496,
+      "num": 80496,
+      "word": "女子错峰游韩国两步一个中国人",
+      "onboard_time": 1760023581,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80287,
       "num": 80287,
       "word": "鸡排哥称暂不考虑带徒弟",
@@ -2865,6 +2929,14 @@
       "onboard_time": 1759913481,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79168,
+      "num": 79168,
+      "word": "李昀锐古装",
+      "onboard_time": 1760023762,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 79021,
@@ -3019,6 +3091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72349,
+      "num": 72349,
+      "word": "书卷一梦花絮",
+      "onboard_time": 1760023461,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71572,
       "num": 100025,
       "word": "王一博和对手握手合影",
@@ -3033,6 +3113,14 @@
       "onboard_time": 1760004981,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71117,
+      "num": 71117,
+      "word": "猫猫 人不吃的话猫可以吃吗",
+      "onboard_time": 1760023882,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 70687,
@@ -3057,6 +3145,14 @@
       "onboard_time": 1759994661,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69828,
+      "num": 69828,
+      "word": "法拉利跌超13%",
+      "onboard_time": 1760020762,
+      "rank": 40,
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 69530,
@@ -3115,6 +3211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64018,
+      "num": 64018,
+      "word": "吴磊背着网球拍机场出发",
+      "onboard_time": 1760024001,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63147,
       "num": 63147,
       "word": "苏北五虎遭团灭",
@@ -3169,6 +3273,14 @@
       "onboard_time": 1759930462,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59548,
+      "num": 59548,
+      "word": "女子高反被救母亲首发声",
+      "onboard_time": 1760023161,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59490,
