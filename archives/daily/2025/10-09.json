@@ -1,6 +1,6 @@
 {
   "startTime": 1759941149301,
-  "endTime": 1760005772903,
+  "endTime": 1760006691588,
   "band_list": [
     {
       "raw_hot": 9127369,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 584990,
-      "num": 180202,
+      "num": 207873,
       "word": "黄子韬徐艺洋要直播婚礼",
       "onboard_time": 1760003541,
       "rank": 11,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 557175,
-      "num": 195998,
+      "num": 207212,
       "word": "第一次见尺度这么大的剧宣",
       "onboard_time": 1760002640,
       "rank": 12,
@@ -272,6 +272,14 @@
       "word": "女子结婚为省钱到美甲店打金手镯",
       "onboard_time": 1760001681,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 523537,
+      "num": 523537,
+      "word": "女孩没人接2天后发现其父家中离世",
+      "onboard_time": 1760002820,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -304,14 +312,6 @@
       "word": "国庆去韩国的人后悔了吗",
       "onboard_time": 1759980138,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 477851,
-      "num": 477851,
-      "word": "女孩没人接2天后发现其父家中离世",
-      "onboard_time": 1760002820,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -587,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247316,
+      "num": 205546,
+      "word": "银河左岸",
+      "onboard_time": 1759991181,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 244531,
       "num": 244531,
       "word": "阿维塔称起火发生在副驾驶座椅位置",
@@ -699,12 +707,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 209266,
+      "num": 209266,
+      "word": "国产手机厂商集体降价抢跑双十一",
+      "onboard_time": 1760006361,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 207330,
       "num": 207330,
       "word": "一笑随歌直播",
       "onboard_time": 1759996581,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204903,
+      "num": 204903,
+      "word": "银河左岸莆田阵容",
+      "onboard_time": 1760006121,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 197508,
@@ -793,6 +817,14 @@
       "onboard_time": 1760001441,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182208,
+      "num": 182208,
+      "word": "龚俊 你给张晚意整这么多",
+      "onboard_time": 1760003361,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 181391,
@@ -899,6 +931,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 169577,
+      "num": 158566,
+      "word": "考上研究生的难度到底有多大",
+      "onboard_time": 1760005521,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 168155,
       "num": 153847,
       "word": "这种小孩才真是玩手机玩的",
@@ -955,6 +995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 165209,
+      "num": 156711,
+      "word": "新能源汽车",
+      "onboard_time": 1760006241,
+      "rank": 21,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 164848,
       "num": 164848,
       "word": "姐姐骗弟弟学校提前一天开学",
@@ -977,14 +1025,6 @@
       "onboard_time": 1759986859,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 162457,
-      "num": 105683,
-      "word": "考上研究生的难度到底有多大",
-      "onboard_time": 1760005521,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 161308,
@@ -1107,6 +1147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153430,
+      "num": 153430,
+      "word": "宴遇永安开播",
+      "onboard_time": 1760004981,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152652,
       "num": 152652,
       "word": "48岁渔村网红阿霞坠海遇难",
@@ -1148,7 +1196,7 @@
     },
     {
       "raw_hot": 146996,
-      "num": 105201,
+      "num": 118922,
       "word": "印尼男子按习俗将出轨妻子交予情夫",
       "onboard_time": 1760004022,
       "rank": 31,
@@ -1195,20 +1243,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 141121,
-      "num": 141121,
-      "word": "宴遇永安开播",
-      "onboard_time": 1760004981,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 140552,
       "num": 140552,
       "word": "陈立农cos丁禹兮慕声",
       "onboard_time": 1759985961,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140287,
+      "num": 140287,
+      "word": "腾讯视频账号6次超限或面临封号",
+      "onboard_time": 1760005402,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 140256,
@@ -1225,6 +1273,14 @@
       "onboard_time": 1759994661,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 137289,
+      "num": 130575,
+      "word": "一笑随歌是李沁入圈拍过最大尺度戏",
+      "onboard_time": 1760006181,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 136731,
@@ -1307,14 +1363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134228,
-      "num": 134228,
-      "word": "龚俊 你给张晚意整这么多",
-      "onboard_time": 1760003361,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133957,
       "num": 122935,
       "word": "CELINE的选人眼光",
@@ -1363,12 +1411,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130690,
+      "num": 130690,
+      "word": "一人食被歧视韩国网友怒了",
+      "onboard_time": 1760004801,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 130559,
       "num": 130559,
       "word": "一代人有一代人的正宗标准",
       "onboard_time": 1759979659,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130430,
+      "num": 130430,
+      "word": "聚星名人赛十月杭州见",
+      "onboard_time": 1760006241,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 129115,
@@ -1532,7 +1596,7 @@
     },
     {
       "raw_hot": 119912,
-      "num": 102792,
+      "num": 107601,
       "word": "印尼网红坡",
       "onboard_time": 1760004501,
       "rank": 36,
@@ -1627,6 +1691,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 114322,
+      "num": 114322,
+      "word": "锂电池出口管制",
+      "onboard_time": 1760006481,
+      "rank": 31,
+      "category": "国内时政,财经"
+    },
+    {
       "raw_hot": 113644,
       "num": 113644,
       "word": "为什么苍蝇会把头拧下来玩",
@@ -1665,6 +1737,14 @@
       "onboard_time": 1759999580,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110501,
+      "num": 110501,
+      "word": "找到了外卖懒人的健康吃法",
+      "onboard_time": 1760006001,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 110380,
@@ -1713,6 +1793,14 @@
       "onboard_time": 1759969339,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109751,
+      "num": 160998,
+      "word": "趵突泉胖锦鲤病重",
+      "onboard_time": 1760005701,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109273,
@@ -1771,12 +1859,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107105,
-      "num": 107105,
-      "word": "银河左岸",
-      "onboard_time": 1759991181,
+      "raw_hot": 106771,
+      "num": 106771,
+      "word": "30岁健身一年后身体的变化",
+      "onboard_time": 1760005580,
       "rank": 44,
-      "category": "演出"
+      "category": "运动健身,其它"
     },
     {
       "raw_hot": 106368,
@@ -1843,14 +1931,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 101064,
-      "num": 101064,
-      "word": "腾讯视频账号6次超限或面临封号",
-      "onboard_time": 1760005402,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 100710,
       "num": 100710,
       "word": "姚琛高铁帮阿姨找手机",
@@ -1875,6 +1955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97263,
+      "num": 97263,
+      "word": "鞠婧祎12年前视频",
+      "onboard_time": 1760006361,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97129,
       "num": 97129,
       "word": "9号上班的精神状态像安陵容",
@@ -1897,14 +1985,6 @@
       "onboard_time": 1759981519,
       "rank": 47,
       "category": "财经"
-    },
-    {
-      "raw_hot": 96066,
-      "num": 96066,
-      "word": "30岁健身一年后身体的变化",
-      "onboard_time": 1760005580,
-      "rank": 44,
-      "category": "运动健身,其它"
     },
     {
       "raw_hot": 95635,
@@ -2043,14 +2123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87996,
-      "num": 101501,
-      "word": "一人食被歧视韩国网友怒了",
-      "onboard_time": 1760004801,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 87818,
       "num": 865753,
       "word": "国庆假期值得珍藏的记忆画面",
@@ -2083,12 +2155,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 87105,
+      "num": 87105,
+      "word": "听气势如虹感受拼搏力量",
+      "onboard_time": 1760006599,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85466,
       "num": 100098,
       "word": "新加坡偶遇王鹤棣打篮球",
       "onboard_time": 1759939820,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84987,
+      "num": 84987,
+      "word": "阿维塔",
+      "onboard_time": 1760003000,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 84792,
@@ -2129,14 +2217,6 @@
       "onboard_time": 1759997241,
       "rank": 15,
       "category": "数码"
-    },
-    {
-      "raw_hot": 78775,
-      "num": 101901,
-      "word": "趵突泉胖锦鲤病重",
-      "onboard_time": 1760005701,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78473,
@@ -2235,6 +2315,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 71384,
+      "num": 102087,
+      "word": "蜜雪冰城回应小票上可看连载小说",
+      "onboard_time": 1760004981,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70687,
       "num": 70687,
       "word": "运动减肥的起效时间",
@@ -2321,14 +2409,6 @@
       "onboard_time": 1759934843,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 61913,
-      "num": 102087,
-      "word": "蜜雪冰城回应小票上可看连载小说",
-      "onboard_time": 1760004981,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61683,
@@ -2484,7 +2564,7 @@
     },
     {
       "raw_hot": 52555,
-      "num": 105979,
+      "num": 158786,
       "word": "邓超DUA是什么梗",
       "onboard_time": 1760005460,
       "rank": 29,
@@ -2771,6 +2851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 11697,
+      "num": 98712,
+      "word": "孙俪没涂防晒脸晒到过敏",
+      "onboard_time": 1760006181,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 11677,
       "num": 12180,
       "word": "檀健次戴了眼镜",
@@ -2785,6 +2873,14 @@
       "onboard_time": 1759953553,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9268,
+      "num": 98562,
+      "word": "刘奕君因为孩子开始养生",
+      "onboard_time": 1760006001,
+      "rank": 39,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

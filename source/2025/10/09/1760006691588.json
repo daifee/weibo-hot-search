@@ -1,0 +1,410 @@
+{
+  "runTime": 1760006691588,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1733542,
+        "num": 1733542,
+        "word": "婚礼当天跳河男子已去世",
+        "onboard_time": 1760003120,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 703150,
+        "num": 703150,
+        "word": "购置税",
+        "onboard_time": 1760002039,
+        "rank": 1,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 83204,
+        "num": 590542,
+        "word": "假期国内出游总花费8090.06亿元",
+        "onboard_time": 1759984460,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 563866,
+        "num": 563866,
+        "word": "晚8秒下高速被收500元男子发声",
+        "onboard_time": 1759998441,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523537,
+        "num": 523537,
+        "word": "女孩没人接2天后发现其父家中离世",
+        "onboard_time": 1760002820,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 500041,
+        "num": 500041,
+        "word": "海底捞小便事件220万判决已生效",
+        "onboard_time": 1759995800,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331088,
+        "num": 331088,
+        "word": "冻干蔬菜脆 油炸",
+        "onboard_time": 1759999102,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 282548,
+        "num": 282548,
+        "word": "女子被判刑后4年3次卡点怀孕",
+        "onboard_time": 1759996221,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259515,
+        "num": 259515,
+        "word": "四川新龙5.4级地震",
+        "onboard_time": 1759987881,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 209266,
+        "num": 209266,
+        "word": "国产手机厂商集体降价抢跑双十一",
+        "onboard_time": 1760006361,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1561405,
+        "num": 208970,
+        "word": "许我耀眼疑似抄袭我们与恶的距离",
+        "onboard_time": 1760000300,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 540472,
+        "num": 207873,
+        "word": "黄子韬徐艺洋要直播婚礼",
+        "onboard_time": 1760003541,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355786,
+        "num": 207212,
+        "word": "第一次见尺度这么大的剧宣",
+        "onboard_time": 1760002640,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353540,
+        "num": 206525,
+        "word": "女子结婚为省钱到美甲店打金手镯",
+        "onboard_time": 1760001681,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247316,
+        "num": 205546,
+        "word": "银河左岸",
+        "onboard_time": 1759991181,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204903,
+        "num": 204903,
+        "word": "银河左岸莆田阵容",
+        "onboard_time": 1760006121,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182208,
+        "num": 182208,
+        "word": "龚俊 你给张晚意整这么多",
+        "onboard_time": 1760003361,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161424,
+        "num": 161424,
+        "word": "27岁女生月租1500元住进养老院",
+        "onboard_time": 1759995800,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109751,
+        "num": 160998,
+        "word": "趵突泉胖锦鲤病重",
+        "onboard_time": 1760005701,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48912,
+        "num": 158786,
+        "word": "邓超DUA是什么梗",
+        "onboard_time": 1760005460,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169577,
+        "num": 158566,
+        "word": "考上研究生的难度到底有多大",
+        "onboard_time": 1760005521,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165209,
+        "num": 156711,
+        "word": "新能源汽车",
+        "onboard_time": 1760006241,
+        "rank": 21,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155855,
+        "num": 155855,
+        "word": "女娲新皮肤",
+        "onboard_time": 1759996581,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153430,
+        "num": 153430,
+        "word": "宴遇永安开播",
+        "onboard_time": 1760004981,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140287,
+        "num": 140287,
+        "word": "腾讯视频账号6次超限或面临封号",
+        "onboard_time": 1760005402,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130690,
+        "num": 130690,
+        "word": "一人食被歧视韩国网友怒了",
+        "onboard_time": 1760004801,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 137289,
+        "num": 130575,
+        "word": "一笑随歌是李沁入圈拍过最大尺度戏",
+        "onboard_time": 1760006181,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130430,
+        "num": 130430,
+        "word": "聚星名人赛十月杭州见",
+        "onboard_time": 1760006241,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129949,
+        "num": 129949,
+        "word": "丁一宇恋情",
+        "onboard_time": 1760001441,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118967,
+        "num": 118967,
+        "word": "智利公司错发123万工资员工被判不退款",
+        "onboard_time": 1759988781,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128701,
+        "num": 118922,
+        "word": "印尼男子按习俗将出轨妻子交予情夫",
+        "onboard_time": 1760004022,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114322,
+        "num": 114322,
+        "word": "锂电池出口管制",
+        "onboard_time": 1760006481,
+        "rank": 31,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 113233,
+        "num": 113233,
+        "word": "李沁回应造型",
+        "onboard_time": 1760002102,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110501,
+        "num": 110501,
+        "word": "找到了外卖懒人的健康吃法",
+        "onboard_time": 1760006001,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108030,
+        "num": 108030,
+        "word": "趵突泉XXXL码锦鲤来了",
+        "onboard_time": 1760003420,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109115,
+        "num": 107601,
+        "word": "印尼网红坡",
+        "onboard_time": 1760004501,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106771,
+        "num": 106771,
+        "word": "30岁健身一年后身体的变化",
+        "onboard_time": 1760005580,
+        "rank": 36,
+        "category": "运动健身,其它"
+      },
+      {
+        "raw_hot": 99269,
+        "num": 99269,
+        "word": "本周上三休一",
+        "onboard_time": 1759982180,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11697,
+        "num": 98712,
+        "word": "孙俪没涂防晒脸晒到过敏",
+        "onboard_time": 1760006181,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9268,
+        "num": 98562,
+        "word": "刘奕君因为孩子开始养生",
+        "onboard_time": 1760006001,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98433,
+        "num": 98433,
+        "word": "卢昱晓自己做捡手机文学",
+        "onboard_time": 1760005100,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97263,
+        "num": 97263,
+        "word": "鞠婧祎12年前视频",
+        "onboard_time": 1760006361,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90380,
+        "num": 90380,
+        "word": "美国全球疯狂寻找大豆买家",
+        "onboard_time": 1760000179,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 199886,
+        "num": 89977,
+        "word": "阿维塔回应一车辆起火致7车烧毁",
+        "onboard_time": 1759999881,
+        "rank": 43,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 89369,
+        "num": 89369,
+        "word": "李煜东 每周登微博带来一个坏消息",
+        "onboard_time": 1760004741,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87105,
+        "num": 87105,
+        "word": "听气势如虹感受拼搏力量",
+        "onboard_time": 1760006599,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86374,
+        "num": 86374,
+        "word": "北京冷冷冷冷冷",
+        "onboard_time": 1759981580,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85742,
+        "num": 85742,
+        "word": "8天国内出游8.88亿人次",
+        "onboard_time": 1759984822,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 84987,
+        "num": 84987,
+        "word": "阿维塔",
+        "onboard_time": 1760003000,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 71384,
+        "num": 83898,
+        "word": "蜜雪冰城回应小票上可看连载小说",
+        "onboard_time": 1760004981,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉华章#"
+    }
+  }
+}
