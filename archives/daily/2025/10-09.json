@@ -1,6 +1,6 @@
 {
   "startTime": 1759941149301,
-  "endTime": 1759995491796,
+  "endTime": 1759998816040,
   "band_list": [
     {
       "raw_hot": 9127369,
@@ -24,6 +24,14 @@
       "word": "高速免费结束前收费站人员高喊快点",
       "onboard_time": 1759974559,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1560536,
+      "num": 1560536,
+      "word": "海底捞小便事件220万判决已生效",
+      "onboard_time": 1759995800,
+      "rank": 0,
       "category": "民生新闻"
     },
     {
@@ -115,12 +123,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 805585,
+      "num": 213698,
+      "word": "王俊凯 抢票",
+      "onboard_time": 1759995261,
+      "rank": 20,
+      "category": "演出"
+    },
+    {
       "raw_hot": 748293,
       "num": 358125,
       "word": "许我耀眼复合",
       "onboard_time": 1759985422,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 655592,
+      "num": 379768,
+      "word": "鸡排哥答应我别开美颜了好吗",
+      "onboard_time": 1759992982,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 647537,
+      "num": 221025,
+      "word": "李沁造型师",
+      "onboard_time": 1759994121,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 634182,
@@ -131,7 +163,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 582571,
+      "raw_hot": 606156,
       "num": 582571,
       "word": "亲生儿子多次将母亲遗弃荒野",
       "onboard_time": 1759992502,
@@ -155,12 +187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 519716,
-      "num": 221025,
-      "word": "李沁造型师",
-      "onboard_time": 1759994121,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 538223,
+      "num": 538223,
+      "word": "女子被判刑后4年3次卡点怀孕",
+      "onboard_time": 1759996221,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 515103,
@@ -211,12 +243,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 458291,
+      "num": 211724,
+      "word": "汪涵老婆患阑尾炎独自住院",
+      "onboard_time": 1759997120,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 438676,
       "num": 223433,
       "word": "石原里美二胎产后状态",
       "onboard_time": 1759992502,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 436415,
+      "num": 436415,
+      "word": "27岁女生月租1500元住进养老院",
+      "onboard_time": 1759995800,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 430022,
@@ -291,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 379768,
-      "num": 379768,
-      "word": "鸡排哥答应我别开美颜了好吗",
-      "onboard_time": 1759992982,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 358739,
       "num": 201372,
       "word": "年羹尧的儿子分享生活",
@@ -339,6 +379,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 330935,
+      "num": 330935,
+      "word": "女娲新皮肤",
+      "onboard_time": 1759996581,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 322344,
       "num": 322344,
       "word": "疑似马来西亚失联二人照片曝光",
@@ -353,6 +401,14 @@
       "onboard_time": 1759990881,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309589,
+      "num": 210256,
+      "word": "郭富城方媛回应三胎得子传闻",
+      "onboard_time": 1759996520,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 307397,
@@ -491,14 +547,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 223619,
-      "num": 189983,
-      "word": "王俊凯 抢票",
-      "onboard_time": 1759995261,
-      "rank": 20,
-      "category": "演出"
-    },
-    {
       "raw_hot": 223509,
       "num": 223509,
       "word": "张继科说比赛输了就没下次了",
@@ -523,12 +571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215069,
+      "num": 207759,
+      "word": "沙溢国庆吃胖了十斤",
+      "onboard_time": 1759998321,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209765,
       "num": 209765,
       "word": "印度大阅兵士兵表演旋转步枪",
       "onboard_time": 1759985781,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 207330,
+      "num": 207330,
+      "word": "一笑随歌直播",
+      "onboard_time": 1759996581,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 197508,
@@ -619,6 +683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 180345,
+      "num": 180345,
+      "word": "养老院回应27岁女生月租1500元入住",
+      "onboard_time": 1759997000,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179626,
       "num": 179626,
       "word": "杨瀚森季前赛首分",
@@ -667,6 +739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172812,
+      "num": 156909,
+      "word": "晚8秒下高速被收500元男子发声",
+      "onboard_time": 1759998441,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172316,
       "num": 172316,
       "word": "18斤小猫饿到大哭",
@@ -691,11 +771,27 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 169303,
+      "num": 169303,
+      "word": "知道许我耀眼为什么单更了",
+      "onboard_time": 1759995019,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168155,
       "num": 153847,
       "word": "这种小孩才真是玩手机玩的",
       "onboard_time": 1759983561,
       "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 168020,
+      "num": 168020,
+      "word": "普通人不上班六个月的真实感受",
+      "onboard_time": 1759995920,
+      "rank": 25,
       "category": "情感"
     },
     {
@@ -731,14 +827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165973,
-      "num": 165973,
-      "word": "知道许我耀眼为什么单更了",
-      "onboard_time": 1759995019,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 165224,
       "num": 147198,
       "word": "人的情绪是需要一个家的",
@@ -771,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161161,
+      "num": 161161,
+      "word": "一笑随歌",
+      "onboard_time": 1759996641,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159633,
       "num": 159633,
       "word": "李海海否认恋情",
@@ -795,6 +891,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157000,
+      "num": 157000,
+      "word": "李沁工作室",
+      "onboard_time": 1759996281,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 156909,
+      "num": 156908,
+      "word": "2025全球总决赛",
+      "onboard_time": 1759998625,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 156039,
       "num": 156039,
       "word": "王牌对王牌",
@@ -809,6 +921,14 @@
       "onboard_time": 1759982841,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155190,
+      "num": 155190,
+      "word": "子阳清融两个魔丸",
+      "onboard_time": 1759998559,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 155004,
@@ -916,7 +1036,7 @@
     },
     {
       "raw_hot": 140256,
-      "num": 140256,
+      "num": 607642,
       "word": "假期国内出游总花费8090.06亿元",
       "onboard_time": 1759984460,
       "rank": 35,
@@ -1009,6 +1129,22 @@
       "onboard_time": 1759980980,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133102,
+      "num": 133102,
+      "word": "辽宁一景区禁止游客捡枫叶",
+      "onboard_time": 1759996461,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131976,
+      "num": 131976,
+      "word": "谁说国庆之后没有节",
+      "onboard_time": 1759997961,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 131242,
@@ -1164,11 +1300,27 @@
     },
     {
       "raw_hot": 120243,
-      "num": 120243,
+      "num": 212945,
       "word": "钱塘江炫技式上新大潮造型",
       "onboard_time": 1759978819,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119754,
+      "num": 119754,
+      "word": "发微博vs发朋友圈",
+      "onboard_time": 1759998441,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 118045,
+      "num": 118045,
+      "word": "ColorOS16",
+      "onboard_time": 1759998679,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 116193,
@@ -1201,6 +1353,14 @@
       "onboard_time": 1759995080,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 113155,
+      "num": 113155,
+      "word": "中国印度10月底前恢复直航",
+      "onboard_time": 1759996641,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112691,
@@ -1257,6 +1417,14 @@
       "onboard_time": 1759969339,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109273,
+      "num": 112412,
+      "word": "陆虎倒贴也要参加的节目出现了",
+      "onboard_time": 1759997481,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 109132,
@@ -1547,6 +1715,14 @@
       "category": "音乐,游戏"
     },
     {
+      "raw_hot": 83015,
+      "num": 132117,
+      "word": "曝关淑怡目前全身插管",
+      "onboard_time": 1759998625,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80943,
       "num": 80943,
       "word": "一个IP带火一座城",
@@ -1704,6 +1880,14 @@
       "word": "薛之谦自拍",
       "onboard_time": 1759937002,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65543,
+      "num": 118365,
+      "word": "陈冠希45岁生日全家福",
+      "onboard_time": 1759997422,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -1963,6 +2147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39277,
+      "num": 211201,
+      "word": "荣耀Magic8定档10月15日",
+      "onboard_time": 1759997241,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 39058,
       "num": 39509,
       "word": "商家回应芒果礼盒内藏试卷课本",
@@ -1985,6 +2177,14 @@
       "onboard_time": 1759948275,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 34782,
+      "num": 209591,
+      "word": "全明星加入京东双11",
+      "onboard_time": 1759997241,
+      "rank": 18,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 34735,
@@ -2019,6 +2219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 31205,
+      "num": 124178,
+      "word": "十五运会和残特奥会火种采集",
+      "onboard_time": 1759998200,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28898,
       "num": 63343,
       "word": "假期戒断反应",
@@ -2040,6 +2248,14 @@
       "word": "景区回应游客坐滑道遇蛇从腿下穿过",
       "onboard_time": 1759954454,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21282,
+      "num": 156909,
+      "word": "法院回应被判刑女子4年3次怀孕",
+      "onboard_time": 1759998679,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
