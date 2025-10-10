@@ -1,0 +1,410 @@
+{
+  "runTime": 1760078255520,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 600689,
+        "num": 1096110,
+        "word": "许家印的23亿美元藏不住了",
+        "onboard_time": 1760070441,
+        "rank": 0,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 416788,
+        "num": 416788,
+        "word": "永劫无间",
+        "onboard_time": 1760076620,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 5796,
+        "num": 352148,
+        "word": "2025中秋国庆假期名场面",
+        "onboard_time": 1759974320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 644413,
+        "num": 345510,
+        "word": "香港顶级豪宅命案",
+        "onboard_time": 1760075663,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331934,
+        "num": 331934,
+        "word": "有女犯反复怀孕流产逃避服刑",
+        "onboard_time": 1760074040,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236123,
+        "num": 236123,
+        "word": "干部受贿95只鸽子价值132万",
+        "onboard_time": 1760067380,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234406,
+        "num": 234406,
+        "word": "多地考编放宽35岁门槛",
+        "onboard_time": 1760070682,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205887,
+        "num": 205887,
+        "word": "国庆宅家8天黄金净赚近1万元",
+        "onboard_time": 1760071762,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193734,
+        "num": 193734,
+        "word": "我国人口预期寿命越来越高",
+        "onboard_time": 1760066720,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89870,
+        "num": 193494,
+        "word": "生命树发布预告",
+        "onboard_time": 1760070801,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 544842,
+        "num": 193239,
+        "word": "3人因追星引发肢体冲突被处罚",
+        "onboard_time": 1760070801,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470179,
+        "num": 192770,
+        "word": "警方通报上海国际赛车场外有人打架",
+        "onboard_time": 1760068702,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 393486,
+        "num": 192570,
+        "word": "我雷这对CP",
+        "onboard_time": 1760075061,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 375149,
+        "num": 191916,
+        "word": "月收入一万以下的理财方法",
+        "onboard_time": 1760070321,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 236135,
+        "num": 191490,
+        "word": "奶奶节俭了一辈子最后栽豆汁身上了",
+        "onboard_time": 1760075121,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193978,
+        "num": 191373,
+        "word": "你们快哄哄张杰吧",
+        "onboard_time": 1760075361,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191112,
+        "num": 191112,
+        "word": "新加坡父女双尸案现场曝光",
+        "onboard_time": 1760075841,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 189413,
+        "num": 189413,
+        "word": "朋友圈发照片一定要检查视野盲区",
+        "onboard_time": 1760050996,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185069,
+        "num": 185069,
+        "word": "男孩被戳伤左眼老师涂猪油消肿致感染",
+        "onboard_time": 1760077343,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32385,
+        "num": 184140,
+        "word": "刘宇宁打戏天花板",
+        "onboard_time": 1760077701,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29096,
+        "num": 183280,
+        "word": "季前赛龙狮不敌快船",
+        "onboard_time": 1760077042,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1426687,
+        "num": 183058,
+        "word": "李湘王岳伦发文恭喜王诗龄",
+        "onboard_time": 1760074702,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 825266,
+        "num": 182128,
+        "word": "英皇欠债派惠英红老太勇夺高奢",
+        "onboard_time": 1760076741,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 718943,
+        "num": 180307,
+        "word": "董璇张维伊0人祝福1人尊重",
+        "onboard_time": 1760075481,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302891,
+        "num": 179582,
+        "word": "胡歌带老婆上海看房",
+        "onboard_time": 1760073141,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215479,
+        "num": 178306,
+        "word": "发工资第一件事",
+        "onboard_time": 1760072002,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202272,
+        "num": 177841,
+        "word": "宁艺卓 alo",
+        "onboard_time": 1760077462,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38629,
+        "num": 177022,
+        "word": "宋佳的S级选择",
+        "onboard_time": 1760074522,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199648,
+        "num": 175879,
+        "word": "苏新皓带伤彩排转身即心痛舞台",
+        "onboard_time": 1760077280,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175391,
+        "num": 175391,
+        "word": "当内娱正剧演员开始演短剧",
+        "onboard_time": 1760077462,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165199,
+        "num": 165199,
+        "word": "孩子这些表现可能是精神障碍",
+        "onboard_time": 1760077280,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163868,
+        "num": 163868,
+        "word": "熊黛林双胞胎一个像爸爸一个像妈妈",
+        "onboard_time": 1760075121,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161619,
+        "num": 161619,
+        "word": "957结婚",
+        "onboard_time": 1760075300,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151530,
+        "num": 151530,
+        "word": "娱乐圈的顶级公关",
+        "onboard_time": 1760077042,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138243,
+        "num": 138243,
+        "word": "比亚迪第1400万辆新能源车下线",
+        "onboard_time": 1760077343,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130269,
+        "num": 130269,
+        "word": "气温冷出11月水平",
+        "onboard_time": 1760055979,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121422,
+        "num": 121422,
+        "word": "榴莲大亨宣布与出轨儿子断绝关系",
+        "onboard_time": 1760062579,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120883,
+        "num": 120883,
+        "word": "微博视界大会",
+        "onboard_time": 1760075600,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58597,
+        "num": 115290,
+        "word": "王安宇在巴黎怎么敢这样背包的",
+        "onboard_time": 1760077161,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73925,
+        "num": 112490,
+        "word": "强生爽身粉致癌更多证据公布",
+        "onboard_time": 1760077343,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111702,
+        "num": 111702,
+        "word": "不敢想30天后场面有多刺激",
+        "onboard_time": 1760077280,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60011,
+        "num": 110739,
+        "word": "婚礼当天跳河男子遗体还未尸检",
+        "onboard_time": 1760075961,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110113,
+        "num": 110113,
+        "word": "全国通办婚姻登记26.3万余对",
+        "onboard_time": 1760075421,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108680,
+        "num": 108680,
+        "word": "男女主翻面吻唇享40秒",
+        "onboard_time": 1760076320,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107888,
+        "num": 107888,
+        "word": "菲律宾海域7.6级地震",
+        "onboard_time": 1760063119,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105557,
+        "num": 105557,
+        "word": "张维伊高中时期",
+        "onboard_time": 1760078181,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101873,
+        "num": 101873,
+        "word": "许我耀眼下个月8号去产检",
+        "onboard_time": 1760070623,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99905,
+        "num": 99905,
+        "word": "卢昱晓神级路透那段播了",
+        "onboard_time": 1760074400,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98935,
+        "num": 98935,
+        "word": "芒果请来了80个人为李斯丹妮伴舞",
+        "onboard_time": 1760078242,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94177,
+        "num": 94177,
+        "word": "班味最重的恋综来了",
+        "onboard_time": 1760073083,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向金正恩致贺电#"
+    }
+  }
+}
