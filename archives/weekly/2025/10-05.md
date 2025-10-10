@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/11 00:45:41
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/11 01:29:08
 </p>
 </blockquote>
 <p>
@@ -13581,6 +13581,12 @@ OriginOS6到飞起（热度：68107）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%B8%80%E8%BD%A6%E7%AB%99%E5%94%AE%E7%A5%A8%E5%91%98%E4%B8%8A%E7%8F%AD%E5%88%B7%E6%89%8B%E6%9C%BA%E8%A2%AB%E8%B0%83%E5%B2%97%23" target="weibo">
+山西一车站售票员上班刷手机被调岗（热度：65681）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E9%80%9A%E6%8A%A5%E9%AB%98%E9%80%9F5%E8%BD%A6%E8%BF%BD%E5%B0%BE2%E6%AD%BB3%E4%BC%A4%23" target="weibo">
 广西通报高速5车追尾2死3伤（热度：65558）
 </a>
@@ -13673,12 +13679,6 @@ OriginOS6到飞起（热度：68107）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%E4%B8%BB%E4%BA%BA%E7%9A%84%E5%B0%8F%E7%8C%AB%E5%92%AA%23" target="weibo">
 第一次见生理性喜欢主人的小猫咪（热度：63776）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%B8%80%E8%BD%A6%E7%AB%99%E5%94%AE%E7%A5%A8%E5%91%98%E4%B8%8A%E7%8F%AD%E5%88%B7%E6%89%8B%E6%9C%BA%E8%A2%AB%E8%B0%83%E5%B2%97%23" target="weibo">
-山西一车站售票员上班刷手机被调岗（热度：63711）
 </a>
 </li>
 
@@ -14757,6 +14757,12 @@ WTT更新北满冠军宣传照（热度：43795）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%AF%8F8%E4%BA%BA%E5%B0%B1%E6%9C%891%E4%BA%BA%E6%82%A3%E7%B2%BE%E7%A5%9E%E7%96%BE%E7%97%85%23" target="weibo">
+全球每8人就有1人患精神疾病（热度：30716）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%239%E6%9C%88A%E8%82%A1%E5%B8%82%E5%9C%BA%E6%88%90%E4%BA%A4%E9%A2%9D%E5%88%B7%E6%96%B0%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95%23" target="weibo">
 9月A股市场成交额刷新历史纪录（热度：30589）
 </a>
@@ -14825,6 +14831,12 @@ WTT更新北满冠军宣传照（热度：43795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%231090%E5%85%83%E7%BD%91%E8%B4%AD%E6%99%BA%E8%83%BD%E9%A9%AC%E6%A1%B6%E7%AA%81%E5%8F%91%E7%88%86%E7%82%B8%23" target="weibo">
 1090元网购智能马桶突发爆炸（热度：29045）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E9%80%89%E4%B8%BE%E5%87%BA%E7%8E%B0%E9%BB%91%E9%A9%AC%23" target="weibo">
+日本首相选举出现黑马（热度：28937）
 </a>
 </li>
 

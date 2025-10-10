@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760114741605,
+  "endTime": 1760117348724,
   "band_list": [
     {
       "raw_hot": 3831995,
@@ -315,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65681,
+      "num": 65681,
+      "word": "山西一车站售票员上班刷手机被调岗",
+      "onboard_time": 1760112560,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64795,
       "num": 64795,
       "word": "原神奈芙尔",
@@ -337,14 +345,6 @@
       "onboard_time": 1760105784,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 63711,
-      "num": 63711,
-      "word": "山西一车站售票员上班刷手机被调岗",
-      "onboard_time": 1760112560,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62580,
@@ -427,12 +427,44 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30716,
+      "num": 43131,
+      "word": "全球每8人就有1人患精神疾病",
+      "onboard_time": 1760116637,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29971,
+      "num": 43118,
+      "word": "张杰劝分劝的好坚定",
+      "onboard_time": 1760103624,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 29520,
+      "num": 43102,
+      "word": "许我耀眼",
+      "onboard_time": 1760117176,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29134,
       "num": 281878,
       "word": "全国通办婚姻登记26.3万余对",
       "onboard_time": 1760075421,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28937,
+      "num": 43098,
+      "word": "日本首相选举出现黑马",
+      "onboard_time": 1760105604,
+      "rank": 49,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
