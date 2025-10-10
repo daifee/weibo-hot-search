@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/10 17:40:33
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/10 18:27:54
 </p>
 </blockquote>
 <p>
@@ -1095,6 +1095,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E9%99%90%E5%88%B6%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%8F%AD%E9%A3%9E%E8%B6%8A%E4%BF%84%E7%BD%97%E6%96%AF%E9%A2%86%E7%A9%BA%23" target="weibo">
+美方限制中国航班飞越俄罗斯领空（热度：879294）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%B9%B2%E5%9C%B0%E6%8B%8D%E7%85%A7%E4%B8%8B%E4%B8%80%E7%A7%92%E8%90%BD%E6%B0%B4%23" target="weibo">
 张继科蹲地拍照下一秒落水（热度：876578）
 </a>
@@ -1941,6 +1947,12 @@ JDG输越南队（热度：648751）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9A%E6%B6%89%E5%AB%8C%E8%BF%9D%E5%8F%8D%E5%8F%8D%E5%9E%84%E6%96%AD%E6%B3%95%23" target="weibo">
+高通涉嫌违反反垄断法（热度：624068）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B8%BA%E9%B8%A1%E6%8E%92%E5%93%A5%E7%9A%84%E7%94%A8%E6%B2%B9%E5%90%B5%E7%BF%BB%E4%BA%86%E5%A4%A9%23" target="weibo">
 网友为鸡排哥的用油吵翻了天（热度：623863）
 </a>
@@ -2055,6 +2067,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E7%88%B7%E7%88%B7%E5%B8%88%E4%BB%8E%E5%90%B4%E5%86%A0%E4%B8%AD%23" target="weibo">
+王诗龄爷爷师从吴冠中（热度：603113）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A1%BE%E5%AE%A2%E4%B8%BA%E5%90%88%E5%BD%B1%E5%B0%86%E9%B8%A1%E6%8E%92%E5%93%A5%E5%A0%B5%E5%9C%A8%E5%A2%99%E8%A7%92%23" target="weibo">
 顾客为合影将鸡排哥堵在墙角（热度：603069）
 </a>
@@ -2081,6 +2099,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E9%A6%99%E7%8E%89%E5%AE%98%E5%AE%A3%E4%B8%8A%E6%81%8B%E7%BB%BC%23" target="weibo">
 唐香玉官宣上恋综（热度：597428）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9%E6%9A%B4%E9%9B%A8%E5%86%B7%E5%88%B0%E7%A0%B4%E7%BA%AA%E5%BD%95%23" target="weibo">
+北方暴雨冷到破纪录（热度：595021）
 </a>
 </li>
 
@@ -3005,12 +3029,6 @@ VaVa说自己分手是因为浪姐（热度：480031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A5%A5%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23" target="weibo">
 迪奥巴黎时装周（热度：467123）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E9%99%90%E5%88%B6%E4%B8%AD%E5%9B%BD%E8%88%AA%E7%8F%AD%E9%A3%9E%E8%B6%8A%E4%BF%84%E7%BD%97%E6%96%AF%E9%A2%86%E7%A9%BA%23" target="weibo">
-美方限制中国航班飞越俄罗斯领空（热度：466403）
 </a>
 </li>
 
@@ -4095,6 +4113,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%20%E8%84%91%E5%AD%90%E5%92%8C%E8%BA%AB%E4%BD%93%E5%AF%B9%E4%BA%86%E4%B8%80%E6%99%9A%E4%B8%8A%E8%B4%A6%23" target="weibo">
+王源 脑子和身体对了一晚上账（热度：356997）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BA%AB%E5%AE%B6%E5%8D%83%E4%B8%87%E5%9B%A0%E6%97%A0%E5%AD%90%E8%A2%AB%E9%AA%82%E5%93%AD%E4%BA%86%E4%B8%80%E5%A4%9C%23" target="weibo">
 男子身家千万因无子被骂哭了一夜（热度：356347）
 </a>
@@ -4271,12 +4295,6 @@ TF家族男团在湖南秋晚三代同台（热度：346043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23p%E5%9B%BE%E5%A7%90%E5%96%8A%E8%AF%9D%E9%BB%84%E4%BF%8A%E6%8D%B7%23" target="weibo">
 p图姐喊话黄俊捷（热度：342786）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9A%E6%B6%89%E5%AB%8C%E8%BF%9D%E5%8F%8D%E5%8F%8D%E5%9E%84%E6%96%AD%E6%B3%95%23" target="weibo">
-高通涉嫌违反反垄断法（热度：342249）
 </a>
 </li>
 
@@ -4473,6 +4491,12 @@ WTT（热度：332672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E6%9F%8F%E9%9D%92%E5%A4%8D%E5%B7%A5%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88%23" target="weibo">
+辛柏青复工演出取消（热度：324662）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%9E%81%E9%99%90%E7%94%B7%E4%BA%BA%E5%B8%AE%23" target="weibo">
 张艺兴演唱会 极限男人帮（热度：324012）
 </a>
@@ -4637,6 +4661,12 @@ MiuMiu巴黎时装周（热度：318258）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E7%9A%84%E4%BA%BA%E4%B8%8D%E8%A6%81%E7%95%99%E9%95%BF%E5%8F%91%23" target="weibo">
 建议气血不足的人不要留长发（热度：317064）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%95%88%E6%97%A9%E9%A4%90%23" target="weibo">
+无效早餐（热度：316553）
 </a>
 </li>
 
@@ -4887,6 +4917,12 @@ offer7播一半淘汰了三个人（热度：311785）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%9D%80%E9%9D%92%23" target="weibo">
+白鹿杀青（热度：301184）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%BB%B4%E5%A1%94%E8%87%AA%E7%87%83%E5%90%8E%E5%8E%82%E5%AE%B6%E5%9B%9E%E5%BA%94%23" target="weibo">
 阿维塔自燃后厂家回应（热度：300561）
 </a>
@@ -5045,6 +5081,12 @@ G社拍的王俊凯巴黎看秀生图（热度：292362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E6%89%BF%E8%AE%A4%E9%81%AD%E4%BB%A5%E6%96%B9%E8%99%90%E5%BE%85%23" target="weibo">
 环保少女承认遭以方虐待（热度：290739）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%20%E6%97%A9%E6%9C%9Fbaby%E4%B8%A5%E9%80%89%E7%9A%84%E6%9D%83%E5%A8%81%E6%80%A7%23" target="weibo">
+陈伟霆 早期baby严选的权威性（热度：290644）
 </a>
 </li>
 
@@ -5259,12 +5301,6 @@ JDG对战DK（热度：286717）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9%E6%9A%B4%E9%9B%A8%E5%86%B7%E5%88%B0%E7%A0%B4%E7%BA%AA%E5%BD%95%23" target="weibo">
-北方暴雨冷到破纪录（热度：279457）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E5%88%AB%E5%8D%A1%E7%82%B9%E4%B8%8B%E9%AB%98%E9%80%9F%23" target="weibo">
 千万别卡点下高速（热度：279434）
 </a>
@@ -5393,12 +5429,6 @@ A股（热度：274300）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85%E4%B8%8D%E6%95%A2%E5%90%83%E9%B2%8D%E8%95%BE%E5%81%9A%E7%9A%84%E9%A5%AD%23" target="weibo">
 陆毅不敢吃鲍蕾做的饭（热度：273915）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E6%9F%8F%E9%9D%92%E5%A4%8D%E5%B7%A5%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88%23" target="weibo">
-辛柏青复工演出取消（热度：272804）
 </a>
 </li>
 
@@ -5835,6 +5865,12 @@ Faker微博更新（热度：252313）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%94%AF%E4%B8%80%E4%B8%8D%E4%BC%9A%E9%95%BF%E5%A4%A7%E7%9A%84%E5%99%A8%E5%AE%98%23" target="weibo">
+人唯一不会长大的器官（热度：250476）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%23" target="weibo">
 以色列发出警告（热度：250240）
 </a>
@@ -5867,12 +5903,6 @@ Faker微博更新（热度：252313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%A9%BB%E5%8D%8E%E4%BD%BF%E9%A2%86%E9%A6%86%E5%AE%98%E5%8F%B7%E5%AE%A3%E5%B8%83%E5%81%9C%E6%9B%B4%23" target="weibo">
 美驻华使领馆官号宣布停更（热度：249138）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E7%88%B7%E7%88%B7%E5%B8%88%E4%BB%8E%E5%90%B4%E5%86%A0%E4%B8%AD%23" target="weibo">
-王诗龄爷爷师从吴冠中（热度：249107）
 </a>
 </li>
 
@@ -5915,6 +5945,12 @@ Faker微博更新（热度：252313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%89%8B%E8%87%82%E4%B8%8A%E6%9C%89%E4%BC%A4%E5%8F%A3%23" target="weibo">
 肖战手臂上有伤口（热度：248339）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%88%96%E6%97%A0%E6%B3%95%E6%88%90%E4%B8%BA%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%23" target="weibo">
+高市早苗或无法成为日本首相（热度：247758）
 </a>
 </li>
 
@@ -5975,42 +6011,6 @@ Faker微博更新（热度：252313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23hi6%E6%94%B6%E8%A7%86%E7%8E%87%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%23" target="weibo">
 hi6收视率排名第一（热度：245066）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%20%E5%90%8E%E6%9D%A5%E5%BA%86%E5%8A%9F%E5%AE%B4%E9%95%BF%E8%AE%B0%E6%80%A7%E4%BA%86%23" target="weibo">
-张萌 后来庆功宴长记性了（热度：245030）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E4%BD%8D%E9%BB%84%E5%B2%A9%E5%B2%9B%E9%A2%86%E6%B5%B7%E9%A2%86%E7%A9%BA%E6%88%98%E5%A4%87%E8%AD%A6%E5%B7%A1%23" target="weibo">
-解放军位黄岩岛领海领空战备警巡（热度：244911）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%9F%E7%9A%84%E7%BE%8E%E6%88%90%E5%85%AC%E4%B8%BB%E4%BA%86%23" target="weibo">
-迪丽热巴真的美成公主了（热度：244886）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%94%B7%E5%AD%A9%E6%9E%AA%E6%9D%804%E5%90%8D%E4%BA%B2%E4%BA%BA%E8%A2%AB%E5%88%A4100%E5%B9%B4%23" target="weibo">
-巴基斯坦男孩枪杀4名亲人被判100年（热度：244766）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%BB%B4%E5%A1%94%E7%A7%B0%E8%B5%B7%E7%81%AB%E5%8F%91%E7%94%9F%E5%9C%A8%E5%89%AF%E9%A9%BE%E9%A9%B6%E5%BA%A7%E6%A4%85%E4%BD%8D%E7%BD%AE%23" target="weibo">
-阿维塔称起火发生在副驾驶座椅位置（热度：244531）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%AF%92%E7%B3%96%E6%B5%86%E8%87%B420%E5%90%8D%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1%23" target="weibo">
-印度毒糖浆致20名儿童死亡（热度：244421）
 </a>
 </li>
 

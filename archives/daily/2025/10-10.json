@@ -1,6 +1,6 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760089233841,
+  "endTime": 1760092074069,
   "band_list": [
     {
       "raw_hot": 7988861,
@@ -81,6 +81,14 @@
       "onboard_time": 1760068702,
       "rank": 10,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 879294,
+      "num": 1140687,
+      "word": "美方限制中国航班飞越俄罗斯领空",
+      "onboard_time": 1760087121,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 871641,
@@ -227,6 +235,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 624068,
+      "num": 624068,
+      "word": "高通涉嫌违反反垄断法",
+      "onboard_time": 1760087900,
+      "rank": 8,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 621996,
       "num": 256119,
       "word": "成毅第七",
@@ -249,6 +265,22 @@
       "onboard_time": 1760059220,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 603113,
+      "num": 232038,
+      "word": "王诗龄爷爷师从吴冠中",
+      "onboard_time": 1760088023,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 595021,
+      "num": 595021,
+      "word": "北方暴雨冷到破纪录",
+      "onboard_time": 1760086402,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 574395,
@@ -329,14 +361,6 @@
       "onboard_time": 1760061739,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 466403,
-      "num": 466403,
-      "word": "美方限制中国航班飞越俄罗斯领空",
-      "onboard_time": 1760087121,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 464771,
@@ -443,20 +467,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 356997,
+      "num": 220137,
+      "word": "王源 脑子和身体对了一晚上账",
+      "onboard_time": 1760088622,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 352017,
       "num": 352017,
       "word": "气温冷出11月水平",
       "onboard_time": 1760055979,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 342249,
-      "num": 342249,
-      "word": "高通涉嫌违反反垄断法",
-      "onboard_time": 1760087900,
-      "rank": 8,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 325249,
@@ -467,12 +491,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 324662,
+      "num": 253787,
+      "word": "辛柏青复工演出取消",
+      "onboard_time": 1760086100,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 319375,
       "num": 231978,
       "word": "彭昱畅 可不敢碰财神爷",
       "onboard_time": 1760064139,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 316553,
+      "num": 198922,
+      "word": "无效早餐",
+      "onboard_time": 1760087961,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 315850,
@@ -523,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301184,
+      "num": 218967,
+      "word": "白鹿杀青",
+      "onboard_time": 1760087900,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298842,
       "num": 298842,
       "word": "泰国榴莲大亨将没收出轨儿子资产",
@@ -531,20 +579,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 290644,
+      "num": 218359,
+      "word": "陈伟霆 早期baby严选的权威性",
+      "onboard_time": 1760091441,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289418,
       "num": 231450,
       "word": "张檬回应晚上不带孩子",
       "onboard_time": 1760052319,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279457,
-      "num": 279457,
-      "word": "北方暴雨冷到破纪录",
-      "onboard_time": 1760086402,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 274782,
@@ -561,14 +609,6 @@
       "onboard_time": 1760079441,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 272804,
-      "num": 253787,
-      "word": "辛柏青复工演出取消",
-      "onboard_time": 1760086100,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 264001,
@@ -619,6 +659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 250476,
+      "num": 198446,
+      "word": "人唯一不会长大的器官",
+      "onboard_time": 1760091261,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 249798,
       "num": 213346,
       "word": "终于有剧拍蒙面不把观众当傻子了",
@@ -627,20 +675,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 249107,
-      "num": 232038,
-      "word": "王诗龄爷爷师从吴冠中",
-      "onboard_time": 1760088023,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 247869,
       "num": 247869,
       "word": "苏翊鸣世界第一个背靠背1980",
       "onboard_time": 1760020402,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 247758,
+      "num": 193066,
+      "word": "高市早苗或无法成为日本首相",
+      "onboard_time": 1760090120,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 238001,
@@ -787,14 +835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194013,
-      "num": 194013,
-      "word": "白鹿杀青",
-      "onboard_time": 1760087900,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193419,
       "num": 193419,
       "word": "李庚希抵制代拍",
@@ -865,6 +905,14 @@
       "onboard_time": 1760070801,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185622,
+      "num": 236574,
+      "word": "NS战胜WBG",
+      "onboard_time": 1760090481,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 184650,
@@ -1019,6 +1067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 158505,
+      "num": 223064,
+      "word": "小谢称王暖暖用4年血泪换来重生",
+      "onboard_time": 1760091623,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156404,
       "num": 156404,
       "word": "管金生突发疾病逝世",
@@ -1083,6 +1139,22 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 147740,
+      "num": 147740,
+      "word": "龚俊还缺妹妹吗",
+      "onboard_time": 1760091261,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145302,
+      "num": 145302,
+      "word": "郭俊辰工作室声明",
+      "onboard_time": 1760091500,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143873,
       "num": 143873,
       "word": "强生爽身粉致癌更多证据公布",
@@ -1115,6 +1187,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 141131,
+      "num": 141131,
+      "word": "日本母亲杀死女儿冰箱藏尸20年",
+      "onboard_time": 1760090840,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 141068,
       "num": 141068,
       "word": "狐妖小红娘黄风岭篇备案",
@@ -1129,6 +1209,14 @@
       "onboard_time": 1760078181,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140128,
+      "num": 153733,
+      "word": "王暖暖称众望所归",
+      "onboard_time": 1760090481,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139019,
@@ -1187,14 +1275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136320,
-      "num": 136320,
-      "word": "王源 脑子和身体对了一晚上账",
-      "onboard_time": 1760088622,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 136175,
       "num": 136175,
       "word": "2025IVL秋季赛",
@@ -1225,6 +1305,14 @@
       "onboard_time": 1760083642,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 135000,
+      "num": 135000,
+      "word": "阿维塔06起火事件官方调查进展",
+      "onboard_time": 1760091202,
+      "rank": 35,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 134690,
@@ -1307,12 +1395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129579,
+      "num": 129579,
+      "word": "黄岩岛附近查获近5吨毒品",
+      "onboard_time": 1760091623,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129261,
       "num": 129261,
       "word": "李元浩 李哥",
       "onboard_time": 1760088921,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128999,
+      "num": 128999,
+      "word": "19岁的蔡依林在纽约时代广场",
+      "onboard_time": 1760091202,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 128978,
@@ -1385,6 +1489,22 @@
       "onboard_time": 1760073680,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125784,
+      "num": 125784,
+      "word": "新能源汽车失火一定怪电池吗",
+      "onboard_time": 1760091741,
+      "rank": 40,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 125387,
+      "num": 135323,
+      "word": "金典小牛箱被炒至299元",
+      "onboard_time": 1760090001,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125124,
@@ -1515,6 +1635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121333,
+      "num": 121333,
+      "word": "中美再掰手腕互相出王炸",
+      "onboard_time": 1760090781,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120883,
       "num": 120883,
       "word": "微博视界大会",
@@ -1563,14 +1691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119374,
-      "num": 119374,
-      "word": "无效早餐",
-      "onboard_time": 1760087961,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 119100,
       "num": 119100,
       "word": "戴眼镜的刘涛完全主人级别",
@@ -1584,6 +1704,14 @@
       "word": "AI模特穿AI衣服做AI直播带货",
       "onboard_time": 1760070801,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119026,
+      "num": 119026,
+      "word": "女子自学割眼袋做手术致1人失明",
+      "onboard_time": 1760089820,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1627,6 +1755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 116925,
+      "num": 116925,
+      "word": "有钱了第一件事就是忘本",
+      "onboard_time": 1760089942,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116353,
       "num": 116353,
       "word": "我已经把眼睛睁到最大了 雷军",
@@ -1641,6 +1777,14 @@
       "onboard_time": 1760080222,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115827,
+      "num": 115827,
+      "word": "侯明昊给卢昱晓戴头纱",
+      "onboard_time": 1760091861,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 115245,
@@ -1696,6 +1840,14 @@
       "word": "招全十二生肖的公司",
       "onboard_time": 1760068581,
       "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 112190,
+      "num": 112190,
+      "word": "留学中介现状",
+      "onboard_time": 1760090840,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -1915,6 +2067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99209,
+      "num": 126296,
+      "word": "王暖暖前夫曾通过律师问能分多少财产",
+      "onboard_time": 1760091020,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98867,
       "num": 99655,
       "word": "连续三天11点入睡的感受",
@@ -2043,6 +2203,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 84118,
+      "num": 604657,
+      "word": "故宫博物院建院100年",
+      "onboard_time": 1760086522,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83504,
       "num": 128698,
       "word": "刘宇宁剧综人物推荐值破10万",
@@ -2129,14 +2297,6 @@
       "onboard_time": 1760084242,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76909,
-      "num": 432418,
-      "word": "故宫博物院建院100年",
-      "onboard_time": 1760086522,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76113,
@@ -2267,12 +2427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65166,
+      "num": 127003,
+      "word": "8岁女孩练舞下腰双下肢截瘫",
+      "onboard_time": 1760091981,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62730,
       "num": 62730,
       "word": "普京就阿航空难事件道歉",
       "onboard_time": 1760052319,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61153,
+      "num": 119847,
+      "word": "和文俊辉面对面吃了一晚上饭",
+      "onboard_time": 1760090721,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 60232,
