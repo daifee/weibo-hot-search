@@ -1,6 +1,6 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760073916309,
+  "endTime": 1760074862663,
   "band_list": [
     {
       "raw_hot": 1603596,
@@ -25,6 +25,14 @@
       "onboard_time": 1760070801,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1225865,
+      "num": 168434,
+      "word": "李湘王岳伦发文恭喜王诗龄",
+      "onboard_time": 1760074702,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1134482,
@@ -67,6 +75,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 861616,
+      "num": 1137858,
+      "word": "许家印的23亿美元藏不住了",
+      "onboard_time": 1760070441,
+      "rank": 36,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 852900,
       "num": 852900,
       "word": "西贝更换门头",
@@ -75,20 +91,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 786563,
+      "num": 244522,
+      "word": "月收入一万以下的理财方法",
+      "onboard_time": 1760070321,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 772321,
       "num": 245173,
       "word": "童锦程承认恋情",
       "onboard_time": 1760052378,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 763686,
-      "num": 1122189,
-      "word": "许家印的23亿美元藏不住了",
-      "onboard_time": 1760070441,
-      "rank": 36,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 751291,
@@ -171,20 +187,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 519856,
+      "num": 168197,
+      "word": "胡歌带老婆上海看房",
+      "onboard_time": 1760073141,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 510491,
       "num": 510491,
       "word": "抢泡泡玛特",
       "onboard_time": 1760021902,
       "rank": 1,
       "category": "动漫,休闲"
-    },
-    {
-      "raw_hot": 487532,
-      "num": 244522,
-      "word": "月收入一万以下的理财方法",
-      "onboard_time": 1760070321,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 479413,
@@ -201,6 +217,14 @@
       "onboard_time": 1760061739,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 451840,
+      "num": 451840,
+      "word": "多地考编放宽35岁门槛",
+      "onboard_time": 1760070682,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 451660,
@@ -249,22 +273,6 @@
       "onboard_time": 1760025439,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 381548,
-      "num": 381548,
-      "word": "多地考编放宽35岁门槛",
-      "onboard_time": 1760070682,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 380958,
-      "num": 168197,
-      "word": "胡歌带老婆上海看房",
-      "onboard_time": 1760073141,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 352017,
@@ -443,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201650,
+      "num": 168352,
+      "word": "offer7 现实版许我耀眼",
+      "onboard_time": 1760073261,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197796,
       "num": 197796,
       "word": "舒马赫",
@@ -499,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184729,
+      "num": 158953,
+      "word": "发工资第一件事",
+      "onboard_time": 1760072002,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 184650,
       "num": 184650,
       "word": "星品影响力",
@@ -521,14 +545,6 @@
       "onboard_time": 1760063119,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 170689,
-      "num": 168352,
-      "word": "offer7 现实版许我耀眼",
-      "onboard_time": 1760073261,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 166762,
@@ -571,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158953,
-      "num": 158953,
-      "word": "发工资第一件事",
-      "onboard_time": 1760072002,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 156404,
       "num": 156404,
       "word": "管金生突发疾病逝世",
@@ -595,12 +603,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154542,
+      "num": 154542,
+      "word": "一个人长期不快乐的原因",
+      "onboard_time": 1760071342,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151761,
       "num": 151761,
       "word": "菲律宾海啸预计高出1米",
       "onboard_time": 1760065039,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 149187,
+      "num": 170357,
+      "word": "国庆宅家8天黄金净赚近1万元",
+      "onboard_time": 1760071762,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143427,
+      "num": 138324,
+      "word": "卢昱晓神级路透那段播了",
+      "onboard_time": 1760074400,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 142658,
+      "num": 142658,
+      "word": "王青风尚志主流刊首封",
+      "onboard_time": 1760074461,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 141921,
@@ -611,20 +651,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 140943,
-      "num": 140943,
-      "word": "一个人长期不快乐的原因",
-      "onboard_time": 1760071342,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 139019,
       "num": 139019,
       "word": "台湾王氏研创艺术公司宣传台独",
       "onboard_time": 1760058741,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136936,
+      "num": 136936,
+      "word": "入青云",
+      "onboard_time": 1760068940,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 136641,
@@ -667,12 +707,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131644,
-      "num": 131644,
-      "word": "国庆宅家8天黄金净赚近1万元",
-      "onboard_time": 1760071762,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 132118,
+      "num": 132118,
+      "word": "成毅打戏好得让人忘记他哭戏有多厉害",
+      "onboard_time": 1760074040,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 131420,
@@ -731,20 +771,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126854,
-      "num": 126854,
-      "word": "入青云",
-      "onboard_time": 1760068940,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126690,
       "num": 126690,
       "word": "许我耀眼开虐好命哥一家子",
       "onboard_time": 1760058981,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126430,
+      "num": 126430,
+      "word": "侯明昊吃惊这一下不像演的",
+      "onboard_time": 1760073680,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125549,
+      "num": 125549,
+      "word": "有女犯反复怀孕流产逃避服刑",
+      "onboard_time": 1760074040,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125124,
@@ -987,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106039,
-      "num": 106039,
-      "word": "侯明昊吃惊这一下不像演的",
-      "onboard_time": 1760073680,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105806,
       "num": 105806,
       "word": "人民日报专访曹德旺",
@@ -1067,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98117,
+      "num": 122715,
+      "word": "射雕英雄传侠之大者提名金天使奖",
+      "onboard_time": 1760074222,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98095,
       "num": 98095,
       "word": "开拓者主教练谈杨瀚森首秀表现",
@@ -1081,6 +1129,14 @@
       "onboard_time": 1760063959,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 97568,
+      "num": 97568,
+      "word": "印度民间不满特朗普加税开启法术攻击",
+      "onboard_time": 1760074822,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 90731,
@@ -1129,6 +1185,22 @@
       "onboard_time": 1760065460,
       "rank": 31,
       "category": "体育,汽车"
+    },
+    {
+      "raw_hot": 85612,
+      "num": 145158,
+      "word": "极氪关海涛离职",
+      "onboard_time": 1760074640,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 83504,
+      "num": 128698,
+      "word": "刘宇宁剧综人物推荐值破10万",
+      "onboard_time": 1760074760,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 83274,
@@ -1329,6 +1401,14 @@
       "onboard_time": 1760023762,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58191,
+      "num": 139288,
+      "word": "宋佳的S级选择",
+      "onboard_time": 1760074522,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 56386,
@@ -1569,6 +1649,14 @@
       "onboard_time": 1760035993,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 30286,
+      "num": 127763,
+      "word": "刘宇宁回应全赛道通吃",
+      "onboard_time": 1760074822,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 30091,
