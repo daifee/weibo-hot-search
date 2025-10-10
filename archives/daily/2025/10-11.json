@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760124041951,
+  "endTime": 1760125020533,
   "band_list": [
     {
       "raw_hot": 3831995,
@@ -443,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30608,
+      "num": 27230,
+      "word": "向华强 隆重的辟谣方式",
+      "onboard_time": 1760120955,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29971,
       "num": 43118,
       "word": "张杰劝分劝的好坚定",
@@ -473,14 +481,6 @@
       "onboard_time": 1760117896,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27230,
-      "num": 27230,
-      "word": "向华强 隆重的辟谣方式",
-      "onboard_time": 1760120955,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 20176,
@@ -515,20 +515,20 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 13929,
+      "num": 27059,
+      "word": "王嘉尔澳门演唱会",
+      "onboard_time": 1760124015,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 13612,
       "num": 27085,
       "word": "咋这样这三个字的命苦感",
       "onboard_time": 1760123714,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 13265,
-      "num": 27059,
-      "word": "王嘉尔澳门演唱会",
-      "onboard_time": 1760124015,
-      "rank": 49,
-      "category": "演出"
     }
   ],
   "hotgov_list": [

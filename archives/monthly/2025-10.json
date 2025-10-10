@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760124041951,
+  "endTime": 1760125020533,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -32619,6 +32619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30608,
+      "num": 27230,
+      "word": "向华强 隆重的辟谣方式",
+      "onboard_time": 1760120955,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30589,
       "num": 44626,
       "word": "9月A股市场成交额刷新历史纪录",
@@ -32880,14 +32888,6 @@
       "word": "包文婧带女儿做美甲",
       "onboard_time": 1760100621,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 27230,
-      "num": 27230,
-      "word": "向华强 隆重的辟谣方式",
-      "onboard_time": 1760120955,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -33699,6 +33699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 13929,
+      "num": 27059,
+      "word": "王嘉尔澳门演唱会",
+      "onboard_time": 1760124015,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 13901,
       "num": 595463,
       "word": "人间好时节",
@@ -33753,14 +33761,6 @@
       "onboard_time": 1760039775,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13265,
-      "num": 27059,
-      "word": "王嘉尔澳门演唱会",
-      "onboard_time": 1760124015,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 12671,
