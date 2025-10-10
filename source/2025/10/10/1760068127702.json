@@ -1,0 +1,410 @@
+{
+  "runTime": 1760068127702,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1356067,
+        "num": 1356067,
+        "word": "榴莲大亨宣布与出轨儿子断绝关系",
+        "onboard_time": 1760062579,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 451660,
+        "num": 451660,
+        "word": "菲律宾海域7.6级地震",
+        "onboard_time": 1760063119,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1765,
+        "num": 411946,
+        "word": "2025中秋国庆假期名场面",
+        "onboard_time": 1759974320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 411434,
+        "num": 411434,
+        "word": "我国人口预期寿命越来越高",
+        "onboard_time": 1760066720,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317324,
+        "num": 317324,
+        "word": "影视飓风Tim曝公司营收构成",
+        "onboard_time": 1760059220,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 310657,
+        "num": 310657,
+        "word": "王者荣耀",
+        "onboard_time": 1760063419,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 240410,
+        "num": 240410,
+        "word": "气温冷出11月水平",
+        "onboard_time": 1760055979,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236606,
+        "num": 236606,
+        "word": "国家预警发布回应菲律宾强震",
+        "onboard_time": 1760064980,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 236295,
+        "num": 236295,
+        "word": "泰国榴莲大亨将没收出轨儿子资产",
+        "onboard_time": 1760063299,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 66295,
+        "num": 236231,
+        "word": "完美婆娘涨粉7.31万",
+        "onboard_time": 1760025621,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 778630,
+        "num": 235508,
+        "word": "第一批00后工作8年的感受",
+        "onboard_time": 1760061019,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 588885,
+        "num": 234702,
+        "word": "朋友圈发照片一定要检查视野盲区",
+        "onboard_time": 1760050996,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 508966,
+        "num": 233686,
+        "word": "暗河传",
+        "onboard_time": 1760063180,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 486289,
+        "num": 232972,
+        "word": "童锦程承认恋情",
+        "onboard_time": 1760052378,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 317764,
+        "num": 232819,
+        "word": "孙乐言徐如蓝时装周同框",
+        "onboard_time": 1760061739,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286042,
+        "num": 231978,
+        "word": "彭昱畅 可不敢碰财神爷",
+        "onboard_time": 1760064139,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279440,
+        "num": 231476,
+        "word": "李沁造型师上热搜后立马换衣服了",
+        "onboard_time": 1760052319,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251456,
+        "num": 230469,
+        "word": "姜潮麦迪娜给孩子取名跟写小说一样",
+        "onboard_time": 1760067320,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230210,
+        "num": 230210,
+        "word": "母亲回应网传女儿高反被搭子抛弃",
+        "onboard_time": 1760023041,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215704,
+        "num": 215704,
+        "word": "菲律宾棉兰老岛附近7.4级地震",
+        "onboard_time": 1760063001,
+        "rank": 19,
+        "category": "突发/灾害,民生新闻"
+      },
+      {
+        "raw_hot": 376889,
+        "num": 212957,
+        "word": "黄金",
+        "onboard_time": 1760022021,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 299625,
+        "num": 206827,
+        "word": "徐艺洋试了12套婚纱",
+        "onboard_time": 1760067740,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197408,
+        "num": 197408,
+        "word": "台独水军指挥官照片",
+        "onboard_time": 1760052258,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184715,
+        "num": 184715,
+        "word": "终于有剧拍蒙面不把观众当傻子了",
+        "onboard_time": 1760063720,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172137,
+        "num": 172137,
+        "word": "沙溢还是对宋亚轩出手了",
+        "onboard_time": 1760064500,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167841,
+        "num": 167841,
+        "word": "高反失温女孩年仅20岁刚毕业",
+        "onboard_time": 1760022921,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163128,
+        "num": 163128,
+        "word": "孙怡好漂亮的糖葫芦精",
+        "onboard_time": 1760066240,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161920,
+        "num": 161920,
+        "word": "熬夜猝死前3个预警信号",
+        "onboard_time": 1760059220,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130684,
+        "num": 130684,
+        "word": "故宫的春夏秋冬一眼惊艳",
+        "onboard_time": 1760063119,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86308,
+        "num": 129964,
+        "word": "赵睿和7号搭档的神级预判",
+        "onboard_time": 1760065460,
+        "rank": 29,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 129559,
+        "num": 129559,
+        "word": "干部受贿95只鸽子价值132万",
+        "onboard_time": 1760067380,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129096,
+        "num": 129096,
+        "word": "西贝更换门头",
+        "onboard_time": 1760067800,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124629,
+        "num": 124629,
+        "word": "林孝埈0.005秒绝杀进入半决赛",
+        "onboard_time": 1760066000,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123968,
+        "num": 123968,
+        "word": "赌王千金看秀贵气藏不住",
+        "onboard_time": 1760065939,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123753,
+        "num": 123753,
+        "word": "雷佳音回应作品太多被观众厌烦",
+        "onboard_time": 1760064800,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119922,
+        "num": 119922,
+        "word": "男子因担保被银行擅自划扣35万元",
+        "onboard_time": 1760054000,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119481,
+        "num": 119481,
+        "word": "白宇 太平年",
+        "onboard_time": 1760064080,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60232,
+        "num": 118277,
+        "word": "节后错峰出游的大聪明赚到了",
+        "onboard_time": 1760067021,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57829,
+        "num": 118085,
+        "word": "机场阻止插队被扇耳光乘客获赔3500元",
+        "onboard_time": 1760067141,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117900,
+        "num": 117900,
+        "word": "时装周最亮眼艺人推荐",
+        "onboard_time": 1760067980,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116441,
+        "num": 116441,
+        "word": "100秒致敬故宫百年守护",
+        "onboard_time": 1760060480,
+        "rank": 40,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 110604,
+        "num": 110604,
+        "word": "水军伪造红头文件",
+        "onboard_time": 1760064201,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110154,
+        "num": 110154,
+        "word": "故宫博物院百岁生日快乐",
+        "onboard_time": 1760059760,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109249,
+        "num": 109249,
+        "word": "抢泡泡玛特",
+        "onboard_time": 1760021902,
+        "rank": 43,
+        "category": "动漫,休闲"
+      },
+      {
+        "raw_hot": 105633,
+        "num": 105633,
+        "word": "猫咪已经不掩饰自己能听懂人话了",
+        "onboard_time": 1760066601,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104291,
+        "num": 104291,
+        "word": "菲律宾海啸预计高出1米",
+        "onboard_time": 1760065039,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97450,
+        "num": 97450,
+        "word": "赖清德拍所谓抗中神剧给台青洗脑",
+        "onboard_time": 1760055081,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90877,
+        "num": 90877,
+        "word": "我已经把眼睛睁到最大了 雷军",
+        "onboard_time": 1760067500,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90636,
+        "num": 90636,
+        "word": "内娱平均年龄最大的影后团要出发了",
+        "onboard_time": 1760067680,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89208,
+        "num": 89208,
+        "word": "金价失守4000美元关口",
+        "onboard_time": 1760063959,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向金正恩致贺电#"
+    }
+  }
+}

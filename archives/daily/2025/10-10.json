@@ -1,6 +1,6 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760066105973,
+  "endTime": 1760068127702,
   "band_list": [
     {
       "raw_hot": 1450574,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 451660,
+      "num": 451660,
+      "word": "菲律宾海域7.6级地震",
+      "onboard_time": 1760063119,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 448737,
       "num": 233571,
       "word": "李沁造型师上热搜后立马换衣服了",
@@ -144,6 +152,14 @@
       "word": "母亲回应网传女儿高反被搭子抛弃",
       "onboard_time": 1760023041,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 411434,
+      "num": 411434,
+      "word": "我国人口预期寿命越来越高",
+      "onboard_time": 1760066720,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -171,16 +187,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 348730,
-      "num": 348730,
-      "word": "菲律宾海域7.6级地震",
-      "onboard_time": 1760063119,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 319375,
-      "num": 231275,
+      "num": 231978,
       "word": "彭昱畅 可不敢碰财神爷",
       "onboard_time": 1760064139,
       "rank": 17,
@@ -195,8 +203,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310481,
-      "num": 310481,
+      "raw_hot": 310657,
+      "num": 310657,
       "word": "王者荣耀",
       "onboard_time": 1760063419,
       "rank": 6,
@@ -217,6 +225,14 @@
       "onboard_time": 1760022200,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299625,
+      "num": 206827,
+      "word": "徐艺洋试了12套婚纱",
+      "onboard_time": 1760067740,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 298842,
@@ -267,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251456,
+      "num": 230469,
+      "word": "姜潮麦迪娜给孩子取名跟写小说一样",
+      "onboard_time": 1760067320,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249798,
       "num": 213346,
       "word": "终于有剧拍蒙面不把观众当傻子了",
@@ -281,6 +305,14 @@
       "onboard_time": 1760020402,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236606,
+      "num": 236606,
+      "word": "国家预警发布回应菲律宾强震",
+      "onboard_time": 1760064980,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 230732,
@@ -307,7 +339,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 208446,
+      "raw_hot": 215704,
       "num": 244319,
       "word": "菲律宾棉兰老岛附近7.4级地震",
       "onboard_time": 1760063001,
@@ -379,6 +411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163128,
+      "num": 163128,
+      "word": "孙怡好漂亮的糖葫芦精",
+      "onboard_time": 1760066240,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161677,
       "num": 257552,
       "word": "完美婆娘涨粉7.31万",
@@ -443,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132111,
-      "num": 223739,
-      "word": "国家预警发布回应菲律宾强震",
-      "onboard_time": 1760064980,
-      "rank": 19,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 129936,
       "num": 129936,
       "word": "李沁越素越惊艳",
@@ -465,6 +497,22 @@
       "onboard_time": 1760064980,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129559,
+      "num": 129559,
+      "word": "干部受贿95只鸽子价值132万",
+      "onboard_time": 1760067380,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129096,
+      "num": 129096,
+      "word": "西贝更换门头",
+      "onboard_time": 1760067800,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128978,
@@ -488,6 +536,30 @@
       "word": "许我耀眼36.6%",
       "onboard_time": 1760031436,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124629,
+      "num": 124629,
+      "word": "林孝埈0.005秒绝杀进入半决赛",
+      "onboard_time": 1760066000,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123968,
+      "num": 123968,
+      "word": "赌王千金看秀贵气藏不住",
+      "onboard_time": 1760065939,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 123753,
+      "num": 123753,
+      "word": "雷佳音回应作品太多被观众厌烦",
+      "onboard_time": 1760064800,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -515,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117900,
+      "num": 117900,
+      "word": "时装周最亮眼艺人推荐",
+      "onboard_time": 1760067980,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115245,
       "num": 115245,
       "word": "多邻国动画化",
@@ -523,28 +603,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 114522,
-      "num": 114522,
-      "word": "雷佳音回应作品太多被观众厌烦",
-      "onboard_time": 1760064800,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 113777,
       "num": 113777,
       "word": "泰国榴莲大亨回应与出轨儿子断绝关系",
       "onboard_time": 1760064919,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 109521,
-      "num": 109521,
-      "word": "赌王千金看秀贵气藏不住",
-      "onboard_time": 1760065939,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 109372,
@@ -569,6 +633,14 @@
       "onboard_time": 1760061200,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105633,
+      "num": 105633,
+      "word": "猫咪已经不掩饰自己能听懂人话了",
+      "onboard_time": 1760066601,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 102657,
@@ -627,12 +699,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 92055,
-      "num": 92055,
-      "word": "林孝埈0.005秒绝杀进入半决赛",
-      "onboard_time": 1760066000,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 90877,
+      "num": 90877,
+      "word": "我已经把眼睛睁到最大了 雷军",
+      "onboard_time": 1760067500,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 90731,
@@ -641,6 +713,14 @@
       "onboard_time": 1760062099,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90636,
+      "num": 90636,
+      "word": "内娱平均年龄最大的影后团要出发了",
+      "onboard_time": 1760067680,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 89956,
@@ -665,6 +745,14 @@
       "onboard_time": 1760060540,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 86308,
+      "num": 136639,
+      "word": "赵睿和7号搭档的神级预判",
+      "onboard_time": 1760065460,
+      "rank": 31,
+      "category": "体育,汽车"
     },
     {
       "raw_hot": 83274,
@@ -779,14 +867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 71962,
-      "num": 136639,
-      "word": "赵睿和7号搭档的神级预判",
-      "onboard_time": 1760065460,
-      "rank": 31,
-      "category": "体育,汽车"
-    },
-    {
       "raw_hot": 70191,
       "num": 70191,
       "word": "鸣潮",
@@ -851,12 +931,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 60232,
+      "num": 118277,
+      "word": "节后错峰出游的大聪明赚到了",
+      "onboard_time": 1760067021,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59366,
       "num": 99421,
       "word": "李昀锐古装",
       "onboard_time": 1760023762,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 57829,
+      "num": 118085,
+      "word": "机场阻止插队被扇耳光乘客获赔3500元",
+      "onboard_time": 1760067141,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56386,
@@ -1209,11 +1305,22 @@
       "onboard_time": 1760043433,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1765,
+      "num": 411946,
+      "word": "2025中秋国庆假期名场面",
+      "onboard_time": 1759974320,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平将出席全球妇女峰会开幕式#"
+    },
+    {
+      "word": "#习近平向金正恩致贺电#"
     }
   ]
 }
