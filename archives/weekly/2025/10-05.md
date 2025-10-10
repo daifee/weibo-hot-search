@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/11 03:37:00
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/11 04:27:28
 </p>
 </blockquote>
 <p>
@@ -13161,6 +13161,12 @@ MiuMiu秀场叠搭公式（热度：78571）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%8D%8E%E5%BC%BA%20%E9%9A%86%E9%87%8D%E7%9A%84%E8%BE%9F%E8%B0%A3%E6%96%B9%E5%BC%8F%23" target="weibo">
+向华强 隆重的辟谣方式（热度：76978）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A%23" target="weibo">
 第十五届全运会（热度：76922）
 </a>
@@ -14769,12 +14775,6 @@ WTT更新北满冠军宣传照（热度：43795）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%8D%8E%E5%BC%BA%20%E9%9A%86%E9%87%8D%E7%9A%84%E8%BE%9F%E8%B0%A3%E6%96%B9%E5%BC%8F%23" target="weibo">
-向华强 隆重的辟谣方式（热度：30608）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%239%E6%9C%88A%E8%82%A1%E5%B8%82%E5%9C%BA%E6%88%90%E4%BA%A4%E9%A2%9D%E5%88%B7%E6%96%B0%E5%8E%86%E5%8F%B2%E7%BA%AA%E5%BD%95%23" target="weibo">
 9月A股市场成交额刷新历史纪录（热度：30589）
 </a>
@@ -14975,6 +14975,12 @@ CP2025SP（热度：26632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BB%A5%E5%A3%B0%E4%B8%BA%E7%82%AC%E4%BB%A5%E6%9B%B2%E4%B8%BA%E5%B8%86%23" target="weibo">
 王一博以声为炬以曲为帆（热度：25178）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%BE%99%E6%BC%94%E5%94%B1%E6%95%85%E5%AE%AB%E7%99%BE%E5%B9%B4%E4%B8%BB%E9%A2%98%E6%9B%B2%23" target="weibo">
+成龙演唱故宫百年主题曲（热度：24548）
 </a>
 </li>
 
@@ -15303,6 +15309,12 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E5%9B%9E%E5%BA%942%E5%B2%81%E5%A5%B3%E5%84%BF%E8%B7%8C%E5%85%A5%E5%BC%80%E6%B0%B4%E9%94%85%E4%B8%A5%E9%87%8D%E7%83%A7%E4%BC%A4%23" target="weibo">
+父亲回应2岁女儿跌入开水锅严重烧伤（热度：13118）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E6%BC%94%E7%9D%80%E6%BC%94%E7%9D%80%E6%9C%AC%E4%BD%93%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
 侯明昊演着演着本体出来了（热度：12671）
 </a>
@@ -15329,6 +15341,12 @@ CP2025SP（热度：26632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E9%98%9F%E5%B8%A6%E5%88%80%E5%90%8E%E5%8D%AB%E8%BF%9B%E7%90%83%23" target="weibo">
 南通队带刀后卫进球（热度：12371）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E8%BF%8E%E5%BB%BA%E5%85%9A80%E5%91%A8%E5%B9%B4%23" target="weibo">
+朝鲜迎建党80周年（热度：12207）
 </a>
 </li>
 

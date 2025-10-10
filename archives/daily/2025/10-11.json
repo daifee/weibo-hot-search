@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760125020533,
+  "endTime": 1760128048645,
   "band_list": [
     {
       "raw_hot": 3831995,
@@ -243,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76978,
+      "num": 27230,
+      "word": "向华强 隆重的辟谣方式",
+      "onboard_time": 1760120955,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76967,
       "num": 76967,
       "word": "周杰伦演唱会",
@@ -443,14 +451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30608,
-      "num": 27230,
-      "word": "向华强 隆重的辟谣方式",
-      "onboard_time": 1760120955,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 29971,
       "num": 43118,
       "word": "张杰劝分劝的好坚定",
@@ -481,6 +481,14 @@
       "onboard_time": 1760117896,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24548,
+      "num": 22870,
+      "word": "成龙演唱故宫百年主题曲",
+      "onboard_time": 1760127494,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 20176,
@@ -529,6 +537,22 @@
       "onboard_time": 1760123714,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 13118,
+      "num": 16709,
+      "word": "父亲回应2岁女儿跌入开水锅严重烧伤",
+      "onboard_time": 1760125453,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12207,
+      "num": 16705,
+      "word": "朝鲜迎建党80周年",
+      "onboard_time": 1760127193,
+      "rank": 46,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
