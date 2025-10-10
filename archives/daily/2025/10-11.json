@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760138552055,
+  "endTime": 1760139398881,
   "band_list": [
     {
       "raw_hot": 3831995,
@@ -27,8 +27,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 545032,
-      "num": 118979,
+      "raw_hot": 780343,
+      "num": 272953,
+      "word": "特朗普关税",
+      "onboard_time": 1760139379,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 599353,
+      "num": 136567,
       "word": "向华强 隆重的辟谣方式",
       "onboard_time": 1760120955,
       "rank": 36,
@@ -52,11 +60,27 @@
     },
     {
       "raw_hot": 416046,
-      "num": 118712,
+      "num": 127373,
       "word": "男子切割墙体时切割机弹出切入腹部",
       "onboard_time": 1760137758,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323402,
+      "num": 323402,
+      "word": "中方一个个点名多个国家劣迹",
+      "onboard_time": 1760106203,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 309286,
+      "num": 125868,
+      "word": "马云成龙贝克汉姆并排观赛",
+      "onboard_time": 1760137638,
+      "rank": 19,
+      "category": "互联网,体育"
     },
     {
       "raw_hot": 305915,
@@ -91,16 +115,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281648,
-      "num": 281648,
-      "word": "中方一个个点名多个国家劣迹",
-      "onboard_time": 1760106203,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 247822,
-      "num": 247822,
+      "raw_hot": 268704,
+      "num": 268704,
       "word": "盘锦一养殖户数万斤罗氏虾一夜冻死",
       "onboard_time": 1760107225,
       "rank": 8,
@@ -123,8 +139,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199286,
+      "num": 199286,
+      "word": "消息称宗馥莉辞职因商标不合规",
+      "onboard_time": 1760110701,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193917,
-      "num": 117879,
+      "num": 123335,
       "word": "第一次觉得曲筱绡的刻薄恰到好处",
       "onboard_time": 1760129893,
       "rank": 45,
@@ -137,14 +161,6 @@
       "onboard_time": 1760091261,
       "rank": 6,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 186375,
-      "num": 186375,
-      "word": "消息称宗馥莉辞职因商标不合规",
-      "onboard_time": 1760110701,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 184986,
@@ -163,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178221,
+      "num": 121577,
+      "word": "关税",
+      "onboard_time": 1760139379,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 174316,
       "num": 134243,
       "word": "Angelababy公主皇冠",
@@ -179,8 +203,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 154970,
-      "num": 117495,
+      "raw_hot": 156654,
+      "num": 120251,
       "word": "女子洗完澡发现窗外无人机悬停",
       "onboard_time": 1760098221,
       "rank": 21,
@@ -195,12 +219,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 146316,
-      "num": 116557,
-      "word": "马云成龙贝克汉姆并排观赛",
-      "onboard_time": 1760137638,
-      "rank": 19,
-      "category": "互联网,体育"
+      "raw_hot": 137790,
+      "num": 118626,
+      "word": "建议早餐吃点高热量食物",
+      "onboard_time": 1760108663,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 135516,
@@ -219,12 +243,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132295,
+      "num": 88518,
+      "word": "新加坡双亡案女儿同学发声",
+      "onboard_time": 1760138299,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 128324,
       "num": 128324,
       "word": "美对中国船舶收费中方对美同时实施",
       "onboard_time": 1760113879,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 127821,
+      "num": 127821,
+      "word": "徒步甘孜失温女生最新情况",
+      "onboard_time": 1760137638,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124300,
+      "num": 81430,
+      "word": "朝鲜文艺演出画面",
+      "onboard_time": 1760138659,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122167,
@@ -251,20 +299,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109334,
-      "num": 109334,
-      "word": "建议早餐吃点高热量食物",
-      "onboard_time": 1760108663,
-      "rank": 47,
-      "category": "健康医疗"
+      "raw_hot": 103746,
+      "num": 103746,
+      "word": "宗馥莉仍是娃哈哈第二大股东",
+      "onboard_time": 1760108425,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 101618,
-      "num": 67449,
-      "word": "新加坡双亡案女儿同学发声",
-      "onboard_time": 1760138299,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 92527,
+      "num": 92527,
+      "word": "李昀锐原来这就是传说中的C位",
+      "onboard_time": 1760135595,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 91970,
@@ -275,12 +323,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90903,
-      "num": 90903,
-      "word": "徒步甘孜失温女生最新情况",
-      "onboard_time": 1760137638,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 91068,
+      "num": 91068,
+      "word": "比特币",
+      "onboard_time": 1760139379,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 90529,
@@ -291,12 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 89151,
-      "num": 89151,
-      "word": "宗馥莉仍是娃哈哈第二大股东",
-      "onboard_time": 1760108425,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 90454,
+      "num": 90454,
+      "word": "Tim吐槽摇一摇广告",
+      "onboard_time": 1760138838,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 83117,
@@ -323,20 +371,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 76744,
+      "num": 76744,
+      "word": "身体5处不舒服可能是心梗",
+      "onboard_time": 1760138299,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 72418,
       "num": 72418,
       "word": "新华社评小米对标苹果",
       "onboard_time": 1760101942,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 71634,
-      "num": 71634,
-      "word": "李昀锐原来这就是传说中的C位",
-      "onboard_time": 1760135595,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 69960,
@@ -443,6 +491,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 59677,
+      "num": 59677,
+      "word": "花开锦绣预约人数破50万",
+      "onboard_time": 1760138358,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58645,
       "num": 58645,
       "word": "林高远王一博梦幻联动",
@@ -457,14 +513,6 @@
       "onboard_time": 1760106383,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 56316,
-      "num": 56316,
-      "word": "身体5处不舒服可能是心梗",
-      "onboard_time": 1760138299,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 55967,
@@ -491,16 +539,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 46185,
-      "num": 46185,
-      "word": "花开锦绣预约人数破50万",
-      "onboard_time": 1760138358,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 43796,
-      "num": 43796,
+      "num": 47193,
       "word": "全球每8人就有1人患精神疾病",
       "onboard_time": 1760116637,
       "rank": 45,
@@ -524,7 +564,7 @@
     },
     {
       "raw_hot": 40687,
-      "num": 43789,
+      "num": 47193,
       "word": "这些症状是身体在拉响抑郁警报",
       "onboard_time": 1760137758,
       "rank": 45,
@@ -579,20 +619,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 18157,
+      "num": 81602,
+      "word": "十个勤天新专辑",
+      "onboard_time": 1760119515,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 17632,
       "num": 29122,
       "word": "朝鲜迎建党80周年",
       "onboard_time": 1760127193,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 17059,
-      "num": 56557,
-      "word": "十个勤天新专辑",
-      "onboard_time": 1760119515,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 14939,

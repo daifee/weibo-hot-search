@@ -1,0 +1,410 @@
+{
+  "runTime": 1760139398881,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 619592,
+        "num": 909134,
+        "word": "美股跳水",
+        "onboard_time": 1760109503,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 323402,
+        "num": 323402,
+        "word": "中方一个个点名多个国家劣迹",
+        "onboard_time": 1760106203,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21429,
+        "num": 273789,
+        "word": "全国通办婚姻登记26.3万余对",
+        "onboard_time": 1760075421,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 780343,
+        "num": 272953,
+        "word": "特朗普关税",
+        "onboard_time": 1760139379,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 268704,
+        "num": 268704,
+        "word": "盘锦一养殖户数万斤罗氏虾一夜冻死",
+        "onboard_time": 1760107225,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199286,
+        "num": 199286,
+        "word": "消息称宗馥莉辞职因商标不合规",
+        "onboard_time": 1760110701,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178946,
+        "num": 178946,
+        "word": "山西一车站售票员上班刷手机被调岗",
+        "onboard_time": 1760112560,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160021,
+        "num": 160021,
+        "word": "人唯一不会长大的器官",
+        "onboard_time": 1760091261,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 154590,
+        "num": 154590,
+        "word": "山姆大疆补偿方案",
+        "onboard_time": 1760108844,
+        "rank": 8,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 138662,
+        "num": 138662,
+        "word": "石破茂称日政府从未否认侵略战争",
+        "onboard_time": 1760109622,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 599353,
+        "num": 136567,
+        "word": "向华强 隆重的辟谣方式",
+        "onboard_time": 1760120955,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420153,
+        "num": 132852,
+        "word": "白鹿说自己得了疑难杂症",
+        "onboard_time": 1760100322,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 365277,
+        "num": 130783,
+        "word": "王青回应",
+        "onboard_time": 1760106925,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127821,
+        "num": 127821,
+        "word": "徒步甘孜失温女生最新情况",
+        "onboard_time": 1760137638,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328959,
+        "num": 127373,
+        "word": "男子切割墙体时切割机弹出切入腹部",
+        "onboard_time": 1760137758,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 309286,
+        "num": 125868,
+        "word": "马云成龙贝克汉姆并排观赛",
+        "onboard_time": 1760137638,
+        "rank": 15,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 228792,
+        "num": 125479,
+        "word": "白鹿8月生病瘦到86斤",
+        "onboard_time": 1760102961,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211886,
+        "num": 123878,
+        "word": "王青 不要因为我影响冯建宇",
+        "onboard_time": 1760107703,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190490,
+        "num": 123335,
+        "word": "第一次觉得曲筱绡的刻薄恰到好处",
+        "onboard_time": 1760129893,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159610,
+        "num": 122286,
+        "word": "关晓彤少喝点吧",
+        "onboard_time": 1760102602,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178221,
+        "num": 121577,
+        "word": "关税",
+        "onboard_time": 1760139379,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156654,
+        "num": 120251,
+        "word": "女子洗完澡发现窗外无人机悬停",
+        "onboard_time": 1760098221,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153134,
+        "num": 119736,
+        "word": "陈伟霆 早期baby严选的权威性",
+        "onboard_time": 1760091441,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137790,
+        "num": 118626,
+        "word": "建议早餐吃点高热量食物",
+        "onboard_time": 1760108663,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117888,
+        "num": 117888,
+        "word": "日本母亲杀死女儿冰箱藏尸20年",
+        "onboard_time": 1760090840,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115618,
+        "num": 115618,
+        "word": "纳斯达克",
+        "onboard_time": 1760110222,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103746,
+        "num": 103746,
+        "word": "宗馥莉仍是娃哈哈第二大股东",
+        "onboard_time": 1760108425,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98506,
+        "num": 98506,
+        "word": "美对中国船舶收费中方对美同时实施",
+        "onboard_time": 1760113879,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92527,
+        "num": 92527,
+        "word": "李昀锐原来这就是传说中的C位",
+        "onboard_time": 1760135595,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91068,
+        "num": 91068,
+        "word": "比特币",
+        "onboard_time": 1760139379,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90454,
+        "num": 90454,
+        "word": "Tim吐槽摇一摇广告",
+        "onboard_time": 1760138838,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 132295,
+        "num": 88518,
+        "word": "新加坡双亡案女儿同学发声",
+        "onboard_time": 1760138299,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86579,
+        "num": 86579,
+        "word": "Angelababy公主皇冠",
+        "onboard_time": 1760099122,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18157,
+        "num": 81602,
+        "word": "十个勤天新专辑",
+        "onboard_time": 1760119515,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124300,
+        "num": 81430,
+        "word": "朝鲜文艺演出画面",
+        "onboard_time": 1760138659,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81158,
+        "num": 81158,
+        "word": "要是我这样三天不敢看微信",
+        "onboard_time": 1760104043,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80338,
+        "num": 80338,
+        "word": "事业单位公众号停更2年变色情链接",
+        "onboard_time": 1760099001,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77073,
+        "num": 77073,
+        "word": "美股",
+        "onboard_time": 1760110941,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76744,
+        "num": 76744,
+        "word": "身体5处不舒服可能是心梗",
+        "onboard_time": 1760138299,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 62226,
+        "num": 62226,
+        "word": "向华强发声明回应向家破产",
+        "onboard_time": 1760094201,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54102,
+        "num": 60950,
+        "word": "欧阳娣娣看得出她是公主",
+        "onboard_time": 1760112021,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59677,
+        "num": 59677,
+        "word": "花开锦绣预约人数破50万",
+        "onboard_time": 1760138358,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59531,
+        "num": 59531,
+        "word": "JDG战胜狼队",
+        "onboard_time": 1760108725,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54363,
+        "num": 54363,
+        "word": "林高远王一博梦幻联动",
+        "onboard_time": 1760114539,
+        "rank": 43,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 50085,
+        "num": 50085,
+        "word": "新华社评小米对标苹果",
+        "onboard_time": 1760101942,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 47193,
+        "num": 47193,
+        "word": "许我耀眼名场面 张翰娜扎官宣图",
+        "onboard_time": 1760081901,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43167,
+        "num": 47193,
+        "word": "肖战直播",
+        "onboard_time": 1760097621,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39895,
+        "num": 47193,
+        "word": "冯建宇直播",
+        "onboard_time": 1760095460,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39303,
+        "num": 47193,
+        "word": "全球每8人就有1人患精神疾病",
+        "onboard_time": 1760116637,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38873,
+        "num": 47193,
+        "word": "这些症状是身体在拉响抑郁警报",
+        "onboard_time": 1760137758,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中朝关系不断向前发展#"
+    }
+  }
+}
