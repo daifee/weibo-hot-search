@@ -1,0 +1,410 @@
+{
+  "runTime": 1760071407880,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 920371,
+        "num": 1147259,
+        "word": "干部受贿95只鸽子价值132万",
+        "onboard_time": 1760067380,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 852900,
+        "num": 852900,
+        "word": "西贝更换门头",
+        "onboard_time": 1760067800,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4484,
+        "num": 830670,
+        "word": "2025中秋国庆假期名场面",
+        "onboard_time": 1759974320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 827615,
+        "num": 827615,
+        "word": "榴莲大亨宣布与出轨儿子断绝关系",
+        "onboard_time": 1760062579,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 590783,
+        "num": 590783,
+        "word": "我国人口预期寿命越来越高",
+        "onboard_time": 1760066720,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331448,
+        "num": 331448,
+        "word": "许家印的23亿美元藏不住了",
+        "onboard_time": 1760070441,
+        "rank": 5,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 317259,
+        "num": 317259,
+        "word": "菲律宾海域7.6级地震",
+        "onboard_time": 1760063119,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 274347,
+        "num": 274347,
+        "word": "气温冷出11月水平",
+        "onboard_time": 1760055979,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186534,
+        "num": 271068,
+        "word": "生命树发布预告",
+        "onboard_time": 1760070801,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159673,
+        "num": 268355,
+        "word": "2026总台大剧片单",
+        "onboard_time": 1760069902,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1000296,
+        "num": 264836,
+        "word": "3人因追星引发肢体冲突被处罚",
+        "onboard_time": 1760070801,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 772200,
+        "num": 260493,
+        "word": "警方通报上海国际赛车场外有人打架",
+        "onboard_time": 1760068702,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 536870,
+        "num": 255469,
+        "word": "姜潮麦迪娜给孩子取名跟写小说一样",
+        "onboard_time": 1760067320,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461374,
+        "num": 253215,
+        "word": "朋友圈发照片一定要检查视野盲区",
+        "onboard_time": 1760050996,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249149,
+        "num": 249149,
+        "word": "影视飓风Tim曝公司营收构成",
+        "onboard_time": 1760059220,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 68107,
+        "num": 245539,
+        "word": "OriginOS6到飞起",
+        "onboard_time": 1760069121,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 363261,
+        "num": 245173,
+        "word": "童锦程承认恋情",
+        "onboard_time": 1760052378,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 346689,
+        "num": 245020,
+        "word": "第一批00后工作8年的感受",
+        "onboard_time": 1760061019,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244522,
+        "num": 244522,
+        "word": "月收入一万以下的理财方法",
+        "onboard_time": 1760070321,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157730,
+        "num": 243496,
+        "word": "多地考编放宽35岁门槛",
+        "onboard_time": 1760070682,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1386247,
+        "num": 243417,
+        "word": "徐艺洋试了12套婚纱",
+        "onboard_time": 1760067740,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315850,
+        "num": 243374,
+        "word": "许我耀眼下个月8号去产检",
+        "onboard_time": 1760070623,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243269,
+        "num": 243269,
+        "word": "暗河传",
+        "onboard_time": 1760063180,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231589,
+        "num": 231589,
+        "word": "王诗龄获国际青少年绘画大赛金奖",
+        "onboard_time": 1760069240,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108457,
+        "num": 206315,
+        "word": "孙颖莎代言香飘飘奶茶高端线",
+        "onboard_time": 1760071162,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184650,
+        "num": 184650,
+        "word": "星品影响力",
+        "onboard_time": 1760070142,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174214,
+        "num": 174214,
+        "word": "孙乐言徐如蓝时装周同框",
+        "onboard_time": 1760061739,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168565,
+        "num": 168565,
+        "word": "菲律宾棉兰老岛附近7.4级地震",
+        "onboard_time": 1760063001,
+        "rank": 27,
+        "category": "突发/灾害,民生新闻"
+      },
+      {
+        "raw_hot": 166804,
+        "num": 166804,
+        "word": "李沁造型师上热搜后立马换衣服了",
+        "onboard_time": 1760052319,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149707,
+        "num": 149707,
+        "word": "少吃瘦得快还是运动瘦得快",
+        "onboard_time": 1760070021,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 147528,
+        "num": 147528,
+        "word": "黄金",
+        "onboard_time": 1760022021,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 145486,
+        "num": 145486,
+        "word": "故宫博物院百岁生日快乐",
+        "onboard_time": 1760059760,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140817,
+        "num": 140817,
+        "word": "一个人长期不快乐的原因",
+        "onboard_time": 1760071342,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132779,
+        "num": 132779,
+        "word": "彭昱畅 可不敢碰财神爷",
+        "onboard_time": 1760064139,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127697,
+        "num": 127697,
+        "word": "高反失温女孩年仅20岁刚毕业",
+        "onboard_time": 1760022921,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110816,
+        "num": 125622,
+        "word": "生命树登央视片单",
+        "onboard_time": 1760071043,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125124,
+        "num": 125124,
+        "word": "独生子女该如何处理亲人去世",
+        "onboard_time": 1760069781,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16082,
+        "num": 124145,
+        "word": "多地提前供暖南京还在提醒防晒",
+        "onboard_time": 1760071284,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119082,
+        "num": 123570,
+        "word": "AI模特穿AI衣服做AI直播带货",
+        "onboard_time": 1760070801,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123354,
+        "num": 123354,
+        "word": "苏晓彤官宣我家那闺女",
+        "onboard_time": 1760071284,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27596,
+        "num": 123287,
+        "word": "我的成长藏在故宫的日升月落里",
+        "onboard_time": 1760069121,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123266,
+        "num": 123266,
+        "word": "机场阻止插队被扇耳光乘客获赔3500元",
+        "onboard_time": 1760067141,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121904,
+        "num": 121904,
+        "word": "捐肾好友否认与赛琳娜不和",
+        "onboard_time": 1760070382,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120124,
+        "num": 120124,
+        "word": "故宫的春夏秋冬一眼惊艳",
+        "onboard_time": 1760063119,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118997,
+        "num": 118997,
+        "word": "昀牵孟绕连入围都出双入对",
+        "onboard_time": 1760069180,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116178,
+        "num": 116178,
+        "word": "王者荣耀",
+        "onboard_time": 1760063419,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112164,
+        "num": 112164,
+        "word": "兰香如故",
+        "onboard_time": 1760071102,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83977,
+        "num": 109746,
+        "word": "701万彩票大奖逾期已纳入公益金",
+        "onboard_time": 1760069662,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108750,
+        "num": 108750,
+        "word": "今年对杨幂来说是顶顶好的一年",
+        "onboard_time": 1760071342,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106160,
+        "num": 106160,
+        "word": "我已经把眼睛睁到最大了 雷军",
+        "onboard_time": 1760067500,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向金正恩致贺电#"
+    }
+  }
+}

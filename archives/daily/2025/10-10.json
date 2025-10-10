@@ -1,10 +1,10 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760070597627,
+  "endTime": 1760071407880,
   "band_list": [
     {
       "raw_hot": 1603596,
-      "num": 206827,
+      "num": 243417,
       "word": "徐艺洋试了12套婚纱",
       "onboard_time": 1760067740,
       "rank": 21,
@@ -27,6 +27,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1000296,
+      "num": 264836,
+      "word": "3人因追星引发肢体冲突被处罚",
+      "onboard_time": 1760070801,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 933191,
       "num": 951828,
       "word": "新加坡双尸案女儿是剑桥博士疑饿死",
@@ -35,8 +43,16 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 920371,
+      "num": 1147259,
+      "word": "干部受贿95只鸽子价值132万",
+      "onboard_time": 1760067380,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 888517,
-      "num": 247024,
+      "num": 260493,
       "word": "警方通报上海国际赛车场外有人打架",
       "onboard_time": 1760068702,
       "rank": 10,
@@ -51,16 +67,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 846525,
-      "num": 846525,
-      "word": "干部受贿95只鸽子价值132万",
-      "onboard_time": 1760067380,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 781675,
-      "num": 781675,
+      "raw_hot": 852900,
+      "num": 852900,
       "word": "西贝更换门头",
       "onboard_time": 1760067800,
       "rank": 31,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 772321,
-      "num": 239773,
+      "num": 245173,
       "word": "童锦程承认恋情",
       "onboard_time": 1760052378,
       "rank": 12,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 570913,
-      "num": 246424,
+      "num": 255469,
       "word": "姜潮麦迪娜给孩子取名跟写小说一样",
       "onboard_time": 1760067320,
       "rank": 17,
@@ -227,12 +235,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 331448,
+      "num": 331448,
+      "word": "许家印的23亿美元藏不住了",
+      "onboard_time": 1760070441,
+      "rank": 36,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 319375,
       "num": 231978,
       "word": "彭昱畅 可不敢碰财神爷",
       "onboard_time": 1760064139,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315850,
+      "num": 243374,
+      "word": "许我耀眼下个月8号去产检",
+      "onboard_time": 1760070623,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 311046,
@@ -331,12 +355,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244522,
+      "num": 244522,
+      "word": "月收入一万以下的理财方法",
+      "onboard_time": 1760070321,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 236606,
       "num": 236606,
       "word": "国家预警发布回应菲律宾强震",
       "onboard_time": 1760064980,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 231589,
+      "num": 231589,
+      "word": "王诗龄获国际青少年绘画大赛金奖",
+      "onboard_time": 1760069240,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 230732,
@@ -371,24 +411,8 @@
       "category": "突发/灾害,民生新闻"
     },
     {
-      "raw_hot": 214820,
-      "num": 214820,
-      "word": "月收入一万以下的理财方法",
-      "onboard_time": 1760070321,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 205015,
-      "num": 205015,
-      "word": "王诗龄获国际青少年绘画大赛金奖",
-      "onboard_time": 1760069240,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202300,
-      "num": 259515,
+      "num": 268355,
       "word": "2026总台大剧片单",
       "onboard_time": 1760069902,
       "rank": 8,
@@ -433,6 +457,22 @@
       "onboard_time": 1760050938,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 186534,
+      "num": 271068,
+      "word": "生命树发布预告",
+      "onboard_time": 1760070801,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184650,
+      "num": 184650,
+      "word": "星品影响力",
+      "onboard_time": 1760070142,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180092,
@@ -491,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157730,
+      "num": 243496,
+      "word": "多地考编放宽35岁门槛",
+      "onboard_time": 1760070682,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156404,
       "num": 156404,
       "word": "管金生突发疾病逝世",
@@ -507,20 +555,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 147806,
-      "num": 147806,
-      "word": "星品影响力",
-      "onboard_time": 1760070142,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 141921,
       "num": 141921,
       "word": "每天练背6分钟就是回报率最高的运动",
       "onboard_time": 1760019562,
       "rank": 13,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 140817,
+      "num": 140817,
+      "word": "一个人长期不快乐的原因",
+      "onboard_time": 1760071342,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 139019,
@@ -611,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125124,
+      "num": 125124,
+      "word": "独生子女该如何处理亲人去世",
+      "onboard_time": 1760069781,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125053,
       "num": 125053,
       "word": "许我耀眼36.6%",
@@ -643,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123354,
+      "num": 123354,
+      "word": "苏晓彤官宣我家那闺女",
+      "onboard_time": 1760071284,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123078,
       "num": 123078,
       "word": "以色列发出警告",
@@ -659,12 +723,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 121362,
-      "num": 121362,
-      "word": "许家印的23亿美元藏不住了",
-      "onboard_time": 1760070441,
-      "rank": 36,
-      "category": "民生新闻,财经"
+      "raw_hot": 121904,
+      "num": 121904,
+      "word": "捐肾好友否认与赛琳娜不和",
+      "onboard_time": 1760070382,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 119605,
@@ -672,6 +736,14 @@
       "word": "女子错峰游韩国两步一个中国人",
       "onboard_time": 1760023581,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119082,
+      "num": 123570,
+      "word": "AI模特穿AI衣服做AI直播带货",
+      "onboard_time": 1760070801,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -707,14 +779,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 114552,
-      "num": 114552,
-      "word": "捐肾好友否认与赛琳娜不和",
-      "onboard_time": 1760070382,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113777,
       "num": 113777,
       "word": "泰国榴莲大亨回应与出轨儿子断绝关系",
@@ -731,12 +795,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112164,
+      "num": 112164,
+      "word": "兰香如故",
+      "onboard_time": 1760071102,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111226,
       "num": 111226,
       "word": "阳光俱乐部定档",
       "onboard_time": 1760070142,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110816,
+      "num": 125622,
+      "word": "生命树登央视片单",
+      "onboard_time": 1760071043,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 110317,
@@ -761,6 +841,22 @@
       "onboard_time": 1760070382,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 108750,
+      "num": 108750,
+      "word": "今年对杨幂来说是顶顶好的一年",
+      "onboard_time": 1760071342,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108457,
+      "num": 206315,
+      "word": "孙颖莎代言香飘飘奶茶高端线",
+      "onboard_time": 1760071162,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 107779,
@@ -1051,8 +1147,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 65575,
-      "num": 220665,
+      "raw_hot": 68107,
+      "num": 245539,
       "word": "OriginOS6到飞起",
       "onboard_time": 1760069121,
       "rank": 15,
@@ -1379,6 +1475,14 @@
       "category": "音乐,体育"
     },
     {
+      "raw_hot": 16082,
+      "num": 124145,
+      "word": "多地提前供暖南京还在提醒防晒",
+      "onboard_time": 1760071284,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15372,
       "num": 29761,
       "word": "外交部回应美国抹黑中美教育交流",
@@ -1452,7 +1556,7 @@
     },
     {
       "raw_hot": 5535,
-      "num": 789369,
+      "num": 830670,
       "word": "2025中秋国庆假期名场面",
       "onboard_time": 1759974320,
       "rank": 2,
