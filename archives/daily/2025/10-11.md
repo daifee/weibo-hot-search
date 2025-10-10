@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/11 00:31:18 ~ 2025/10/11 02:35:16
+本榜单时间：2025/10/11 00:31:18 ~ 2025/10/11 02:47:22
 </p>
 </blockquote>
 <p>
@@ -369,6 +369,12 @@ Angelababy公主皇冠（热度：174316）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%8D%8E%E5%BC%BA%20%E9%9A%86%E9%87%8D%E7%9A%84%E8%BE%9F%E8%B0%A3%E6%96%B9%E5%BC%8F%23" target="weibo">
+向华强 隆重的辟谣方式（热度：20604）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E8%B6%85%E6%96%B0%E9%B2%9C%E5%85%A5%E5%9B%B4%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%23" target="weibo">
 地球超新鲜入围微博视界大会（热度：20176）
 </a>
@@ -376,7 +382,7 @@ Angelababy公主皇冠（热度：174316）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E6%96%B0%E4%B8%93%E8%BE%91%23" target="weibo">
-十个勤天新专辑（热度：13825）
+十个勤天新专辑（热度：14487）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/11 02:35:16
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/11 02:47:22
 </p>
 </blockquote>
 <p>
@@ -15063,6 +15063,12 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%8D%8E%E5%BC%BA%20%E9%9A%86%E9%87%8D%E7%9A%84%E8%BE%9F%E8%B0%A3%E6%96%B9%E5%BC%8F%23" target="weibo">
+向华强 隆重的辟谣方式（热度：20604）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E5%BC%80%E8%A2%AB%E6%92%9E%E7%83%82%E7%9A%84%E8%BD%A6%E5%8E%BB%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 男子回应开被撞烂的车去音乐节（热度：20270）
 </a>
@@ -15225,6 +15231,12 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E6%96%B0%E4%B8%93%E8%BE%91%23" target="weibo">
+十个勤天新专辑（热度：14487）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E9%98%BF%E9%9C%9E%E5%87%BA%E6%B5%B7%E9%81%87%E9%9A%BE%E4%B8%88%E5%A4%AB%E5%8F%91%E5%A3%B0%23" target="weibo">
 网红阿霞出海遇难丈夫发声（热度：14287）
 </a>
@@ -15251,12 +15263,6 @@ CP2025SP（热度：26632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E8%A7%92%E8%89%B2%E7%90%86%E8%A7%A3%23" target="weibo">
 檀健次角色理解（热度：13882）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E6%96%B0%E4%B8%93%E8%BE%91%23" target="weibo">
-十个勤天新专辑（热度：13825）
 </a>
 </li>
 
