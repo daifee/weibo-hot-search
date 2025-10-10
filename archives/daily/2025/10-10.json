@@ -1,7 +1,15 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760068127702,
+  "endTime": 1760070597627,
   "band_list": [
+    {
+      "raw_hot": 1603596,
+      "num": 206827,
+      "word": "徐艺洋试了12套婚纱",
+      "onboard_time": 1760067740,
+      "rank": 21,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1450574,
       "num": 1450574,
@@ -27,12 +35,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 888517,
+      "num": 247024,
+      "word": "警方通报上海国际赛车场外有人打架",
+      "onboard_time": 1760068702,
+      "rank": 10,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 871641,
       "num": 253827,
       "word": "朋友圈发照片一定要检查视野盲区",
       "onboard_time": 1760050996,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 846525,
+      "num": 846525,
+      "word": "干部受贿95只鸽子价值132万",
+      "onboard_time": 1760067380,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 781675,
+      "num": 781675,
+      "word": "西贝更换门头",
+      "onboard_time": 1760067800,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 772321,
@@ -57,6 +89,14 @@
       "onboard_time": 1760022021,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 693787,
+      "num": 693787,
+      "word": "我国人口预期寿命越来越高",
+      "onboard_time": 1760066720,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 663967,
@@ -89,6 +129,14 @@
       "onboard_time": 1760020822,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 570913,
+      "num": 246424,
+      "word": "姜潮麦迪娜给孩子取名跟写小说一样",
+      "onboard_time": 1760067320,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 539592,
@@ -152,14 +200,6 @@
       "word": "母亲回应网传女儿高反被搭子抛弃",
       "onboard_time": 1760023041,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 411434,
-      "num": 411434,
-      "word": "我国人口预期寿命越来越高",
-      "onboard_time": 1760066720,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -227,14 +267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299625,
-      "num": 206827,
-      "word": "徐艺洋试了12套婚纱",
-      "onboard_time": 1760067740,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 298842,
       "num": 298842,
       "word": "泰国榴莲大亨将没收出轨儿子资产",
@@ -281,14 +313,6 @@
       "onboard_time": 1760054121,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251456,
-      "num": 230469,
-      "word": "姜潮麦迪娜给孩子取名跟写小说一样",
-      "onboard_time": 1760067320,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 249798,
@@ -347,6 +371,30 @@
       "category": "突发/灾害,民生新闻"
     },
     {
+      "raw_hot": 214820,
+      "num": 214820,
+      "word": "月收入一万以下的理财方法",
+      "onboard_time": 1760070321,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 205015,
+      "num": 205015,
+      "word": "王诗龄获国际青少年绘画大赛金奖",
+      "onboard_time": 1760069240,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202300,
+      "num": 259515,
+      "word": "2026总台大剧片单",
+      "onboard_time": 1760069902,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197796,
       "num": 197796,
       "word": "舒马赫",
@@ -403,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166762,
+      "num": 166762,
+      "word": "少吃瘦得快还是运动瘦得快",
+      "onboard_time": 1760070021,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 165104,
       "num": 165104,
       "word": "故宫博物院百岁生日快乐",
@@ -417,6 +473,14 @@
       "onboard_time": 1760066240,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 161824,
+      "num": 161824,
+      "word": "vivo开发者大会",
+      "onboard_time": 1760069722,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 161677,
@@ -443,6 +507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 147806,
+      "num": 147806,
+      "word": "星品影响力",
+      "onboard_time": 1760070142,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141921,
       "num": 141921,
       "word": "每天练背6分钟就是回报率最高的运动",
@@ -456,6 +528,14 @@
       "word": "台湾王氏研创艺术公司宣传台独",
       "onboard_time": 1760058741,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136641,
+      "num": 136641,
+      "word": "机场阻止插队被扇耳光乘客获赔3500元",
+      "onboard_time": 1760067141,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -483,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131420,
+      "num": 131420,
+      "word": "昀牵孟绕连入围都出双入对",
+      "onboard_time": 1760069180,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129936,
       "num": 129936,
       "word": "李沁越素越惊艳",
@@ -499,28 +587,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129559,
-      "num": 129559,
-      "word": "干部受贿95只鸽子价值132万",
-      "onboard_time": 1760067380,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129096,
-      "num": 129096,
-      "word": "西贝更换门头",
-      "onboard_time": 1760067800,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128978,
       "num": 109764,
       "word": "建议女生洗完头不要包头发",
       "onboard_time": 1760010080,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127831,
+      "num": 127831,
+      "word": "好小众的第一人称视角",
+      "onboard_time": 1760068820,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 126690,
@@ -579,6 +659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121362,
+      "num": 121362,
+      "word": "许家印的23亿美元藏不住了",
+      "onboard_time": 1760070441,
+      "rank": 36,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 119605,
       "num": 119605,
       "word": "女子错峰游韩国两步一个中国人",
@@ -595,12 +683,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117623,
+      "num": 118788,
+      "word": "701万彩票大奖逾期已纳入公益金",
+      "onboard_time": 1760069662,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116353,
+      "num": 116353,
+      "word": "我已经把眼睛睁到最大了 雷军",
+      "onboard_time": 1760067500,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 115245,
       "num": 115245,
       "word": "多邻国动画化",
       "onboard_time": 1760062938,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 114552,
+      "num": 114552,
+      "word": "捐肾好友否认与赛琳娜不和",
+      "onboard_time": 1760070382,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 113777,
@@ -611,12 +723,44 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 112440,
+      "num": 112440,
+      "word": "招全十二生肖的公司",
+      "onboard_time": 1760068581,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 111226,
+      "num": 111226,
+      "word": "阳光俱乐部定档",
+      "onboard_time": 1760070142,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 110317,
+      "num": 110317,
+      "word": "龙狮vs快船",
+      "onboard_time": 1760070562,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109372,
       "num": 109372,
       "word": "男子中959万大奖狂欢8周险丧命",
       "onboard_time": 1760007502,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 109033,
+      "num": 111722,
+      "word": "阿维塔已支付引望10%股权全部价款",
+      "onboard_time": 1760070382,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 107779,
@@ -697,14 +841,6 @@
       "onboard_time": 1760063959,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 90877,
-      "num": 90877,
-      "word": "我已经把眼睛睁到最大了 雷军",
-      "onboard_time": 1760067500,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 90731,
@@ -915,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65575,
+      "num": 220665,
+      "word": "OriginOS6到飞起",
+      "onboard_time": 1760069121,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 65517,
       "num": 99472,
       "word": "蘑菇屋群名",
@@ -945,14 +1089,6 @@
       "onboard_time": 1760023762,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 57829,
-      "num": 118085,
-      "word": "机场阻止插队被扇耳光乘客获赔3500元",
-      "onboard_time": 1760067141,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56386,
@@ -1105,6 +1241,14 @@
       "onboard_time": 1760014762,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41705,
+      "num": 177112,
+      "word": "我的成长藏在故宫的日升月落里",
+      "onboard_time": 1760069121,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40372,
@@ -1307,8 +1451,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1765,
-      "num": 411946,
+      "raw_hot": 5535,
+      "num": 789369,
       "word": "2025中秋国庆假期名场面",
       "onboard_time": 1759974320,
       "rank": 2,

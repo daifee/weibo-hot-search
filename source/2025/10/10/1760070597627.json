@@ -1,0 +1,410 @@
+{
+  "runTime": 1760070597627,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 920753,
+        "num": 1147320,
+        "word": "榴莲大亨宣布与出轨儿子断绝关系",
+        "onboard_time": 1760062579,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 846525,
+        "num": 846525,
+        "word": "干部受贿95只鸽子价值132万",
+        "onboard_time": 1760067380,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5535,
+        "num": 789369,
+        "word": "2025中秋国庆假期名场面",
+        "onboard_time": 1759974320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 781675,
+        "num": 781675,
+        "word": "西贝更换门头",
+        "onboard_time": 1760067800,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 693787,
+        "num": 693787,
+        "word": "我国人口预期寿命越来越高",
+        "onboard_time": 1760066720,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 370882,
+        "num": 370882,
+        "word": "菲律宾海域7.6级地震",
+        "onboard_time": 1760063119,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 267971,
+        "num": 267971,
+        "word": "影视飓风Tim曝公司营收构成",
+        "onboard_time": 1760059220,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 262359,
+        "num": 262359,
+        "word": "气温冷出11月水平",
+        "onboard_time": 1760055979,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202300,
+        "num": 259515,
+        "word": "2026总台大剧片单",
+        "onboard_time": 1760069902,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49062,
+        "num": 256695,
+        "word": "完美婆娘涨粉7.31万",
+        "onboard_time": 1760025621,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 888517,
+        "num": 247024,
+        "word": "警方通报上海国际赛车场外有人打架",
+        "onboard_time": 1760068702,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 570913,
+        "num": 246424,
+        "word": "姜潮麦迪娜给孩子取名跟写小说一样",
+        "onboard_time": 1760067320,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 491881,
+        "num": 239439,
+        "word": "朋友圈发照片一定要检查视野盲区",
+        "onboard_time": 1760050996,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 429358,
+        "num": 235537,
+        "word": "第一批00后工作8年的感受",
+        "onboard_time": 1760061019,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 413701,
+        "num": 228225,
+        "word": "童锦程承认恋情",
+        "onboard_time": 1760052378,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 65575,
+        "num": 220665,
+        "word": "OriginOS6到飞起",
+        "onboard_time": 1760069121,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 334589,
+        "num": 216708,
+        "word": "暗河传",
+        "onboard_time": 1760063180,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214820,
+        "num": 214820,
+        "word": "月收入一万以下的理财方法",
+        "onboard_time": 1760070321,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 209432,
+        "num": 209432,
+        "word": "菲律宾棉兰老岛附近7.4级地震",
+        "onboard_time": 1760063001,
+        "rank": 18,
+        "category": "突发/灾害,民生新闻"
+      },
+      {
+        "raw_hot": 205015,
+        "num": 205015,
+        "word": "王诗龄获国际青少年绘画大赛金奖",
+        "onboard_time": 1760069240,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1603596,
+        "num": 204938,
+        "word": "徐艺洋试了12套婚纱",
+        "onboard_time": 1760067740,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204845,
+        "num": 204845,
+        "word": "孙乐言徐如蓝时装周同框",
+        "onboard_time": 1760061739,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188514,
+        "num": 188514,
+        "word": "黄金",
+        "onboard_time": 1760022021,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177386,
+        "num": 177386,
+        "word": "李沁造型师上热搜后立马换衣服了",
+        "onboard_time": 1760052319,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41705,
+        "num": 177112,
+        "word": "我的成长藏在故宫的日升月落里",
+        "onboard_time": 1760069121,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176921,
+        "num": 176921,
+        "word": "王者荣耀",
+        "onboard_time": 1760063419,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172548,
+        "num": 172548,
+        "word": "彭昱畅 可不敢碰财神爷",
+        "onboard_time": 1760064139,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166762,
+        "num": 166762,
+        "word": "少吃瘦得快还是运动瘦得快",
+        "onboard_time": 1760070021,
+        "rank": 27,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 161824,
+        "num": 161824,
+        "word": "vivo开发者大会",
+        "onboard_time": 1760069722,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 147806,
+        "num": 147806,
+        "word": "星品影响力",
+        "onboard_time": 1760070142,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146319,
+        "num": 146319,
+        "word": "故宫博物院百岁生日快乐",
+        "onboard_time": 1760059760,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145137,
+        "num": 145137,
+        "word": "高反失温女孩年仅20岁刚毕业",
+        "onboard_time": 1760022921,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136641,
+        "num": 136641,
+        "word": "机场阻止插队被扇耳光乘客获赔3500元",
+        "onboard_time": 1760067141,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136076,
+        "num": 136076,
+        "word": "故宫的春夏秋冬一眼惊艳",
+        "onboard_time": 1760063119,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131420,
+        "num": 131420,
+        "word": "昀牵孟绕连入围都出双入对",
+        "onboard_time": 1760069180,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127831,
+        "num": 127831,
+        "word": "好小众的第一人称视角",
+        "onboard_time": 1760068820,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121362,
+        "num": 121362,
+        "word": "许家印的23亿美元藏不住了",
+        "onboard_time": 1760070441,
+        "rank": 36,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 120790,
+        "num": 120790,
+        "word": "熬夜猝死前3个预警信号",
+        "onboard_time": 1760059220,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120049,
+        "num": 120049,
+        "word": "100秒致敬故宫百年守护",
+        "onboard_time": 1760060480,
+        "rank": 38,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 117623,
+        "num": 118788,
+        "word": "701万彩票大奖逾期已纳入公益金",
+        "onboard_time": 1760069662,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118620,
+        "num": 118620,
+        "word": "国家预警发布回应菲律宾强震",
+        "onboard_time": 1760064980,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 117844,
+        "num": 117844,
+        "word": "母亲回应网传女儿高反被搭子抛弃",
+        "onboard_time": 1760023041,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116353,
+        "num": 116353,
+        "word": "我已经把眼睛睁到最大了 雷军",
+        "onboard_time": 1760067500,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114552,
+        "num": 114552,
+        "word": "捐肾好友否认与赛琳娜不和",
+        "onboard_time": 1760070382,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113258,
+        "num": 113258,
+        "word": "台独水军指挥官照片",
+        "onboard_time": 1760052258,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112440,
+        "num": 112440,
+        "word": "招全十二生肖的公司",
+        "onboard_time": 1760068581,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112511,
+        "num": 112425,
+        "word": "雷佳音回应作品太多被观众厌烦",
+        "onboard_time": 1760064800,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109033,
+        "num": 111722,
+        "word": "阿维塔已支付引望10%股权全部价款",
+        "onboard_time": 1760070382,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 111226,
+        "num": 111226,
+        "word": "阳光俱乐部定档",
+        "onboard_time": 1760070142,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110317,
+        "num": 110317,
+        "word": "龙狮vs快船",
+        "onboard_time": 1760070562,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向金正恩致贺电#"
+    }
+  }
+}
