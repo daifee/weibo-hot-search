@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760061041382,
+  "endTime": 1760062282539,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1955,6 +1955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 704812,
+      "num": 1082184,
+      "word": "黄金",
+      "onboard_time": 1759729041,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 701518,
       "num": 922242,
       "word": "第一批堵车人堵成鸳鸯锅",
@@ -2481,6 +2489,14 @@
       "onboard_time": 1759561219,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 607681,
+      "num": 1097229,
+      "word": "影视飓风Tim曝公司营收构成",
+      "onboard_time": 1760059220,
+      "rank": 13,
+      "category": "互联网"
     },
     {
       "raw_hot": 606156,
@@ -3281,14 +3297,6 @@
       "onboard_time": 1759475121,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 513651,
-      "num": 1082184,
-      "word": "黄金",
-      "onboard_time": 1759729041,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 512760,
@@ -4289,14 +4297,6 @@
       "onboard_time": 1759488981,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 419996,
-      "num": 231934,
-      "word": "影视飓风Tim曝公司营收构成",
-      "onboard_time": 1760059220,
-      "rank": 13,
-      "category": "互联网"
     },
     {
       "raw_hot": 419822,
@@ -9315,6 +9315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197796,
+      "num": 197796,
+      "word": "舒马赫",
+      "onboard_time": 1760061500,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197674,
       "num": 191458,
       "word": "98岁母亲问67岁儿子做手术疼不疼",
@@ -9649,6 +9657,14 @@
       "onboard_time": 1759486941,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 193419,
+      "num": 193419,
+      "word": "李庚希抵制代拍",
+      "onboard_time": 1760058621,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 193273,
@@ -11323,6 +11339,14 @@
       "category": "体育,体育"
     },
     {
+      "raw_hot": 170889,
+      "num": 170889,
+      "word": "第一批00后工作8年的感受",
+      "onboard_time": 1760061019,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170869,
       "num": 125440,
       "word": "王楚钦孙颖莎赛前对练",
@@ -12875,6 +12899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154080,
+      "num": 154080,
+      "word": "孙乐言徐如蓝时装周同框",
+      "onboard_time": 1760061739,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154078,
       "num": 154078,
       "word": "白鹿带wakuku下班",
@@ -13017,6 +13049,14 @@
       "onboard_time": 1759477220,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152303,
+      "num": 152303,
+      "word": "熬夜猝死前3个预警信号",
+      "onboard_time": 1760059220,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 152262,
@@ -15251,14 +15291,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 134046,
-      "num": 134046,
-      "word": "李庚希抵制代拍",
-      "onboard_time": 1760058621,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133970,
       "num": 133970,
       "word": "吴邪私家笔记",
@@ -16257,6 +16289,14 @@
       "onboard_time": 1759749141,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 126690,
+      "num": 126690,
+      "word": "许我耀眼开虐好命哥一家子",
+      "onboard_time": 1760058981,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 126676,
@@ -17915,14 +17955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115863,
-      "num": 115863,
-      "word": "熬夜猝死前3个预警信号",
-      "onboard_time": 1760059220,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 115837,
       "num": 115837,
       "word": "朱志鑫苏新皓鸡毛掸子共脑了",
@@ -18488,14 +18520,6 @@
       "word": "檀健次说想和角色双向奔赴",
       "onboard_time": 1759553242,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 113030,
-      "num": 113030,
-      "word": "许我耀眼开虐好命哥一家子",
-      "onboard_time": 1760058981,
-      "rank": 33,
       "category": "剧集"
     },
     {
@@ -20313,6 +20337,14 @@
       "onboard_time": 1759808302,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105806,
+      "num": 105806,
+      "word": "人民日报专访曹德旺",
+      "onboard_time": 1760061200,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105800,
@@ -22147,6 +22179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97504,
+      "num": 97504,
+      "word": "一家三口被撞死案目击者发声",
+      "onboard_time": 1760061380,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97343,
       "num": 97343,
       "word": "金价疯长商户说今年假期生意不如往年",
@@ -23683,6 +23723,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 90385,
+      "num": 90385,
+      "word": "孙颖莎青奥夺金7周年",
+      "onboard_time": 1760062160,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90330,
       "num": 192969,
       "word": "广西贵港树木已被水淹没过半",
@@ -24617,6 +24665,14 @@
       "onboard_time": 1759325902,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85631,
+      "num": 85631,
+      "word": "藏海传总收视率超过6%",
+      "onboard_time": 1760062099,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 85609,
@@ -26881,14 +26937,6 @@
       "onboard_time": 1760019681,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69459,
-      "num": 69459,
-      "word": "第一批00后工作8年的感受",
-      "onboard_time": 1760061019,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 69205,
