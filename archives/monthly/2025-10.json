@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760100688469,
+  "endTime": 1760101493399,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -521,6 +521,14 @@
       "onboard_time": 1759317381,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1378773,
+      "num": 1378773,
+      "word": "高市早苗或无望日本首相",
+      "onboard_time": 1760098400,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1364560,
@@ -1321,6 +1329,14 @@
       "onboard_time": 1759908381,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 925479,
+      "num": 165877,
+      "word": "Angelababy公主皇冠",
+      "onboard_time": 1760099122,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 920371,
@@ -2595,6 +2611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 632295,
+      "num": 632295,
+      "word": "约女生去图书馆男生和妈妈冷战3月",
+      "onboard_time": 1760096241,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 631704,
       "num": 205520,
       "word": "金马奖",
@@ -2945,14 +2969,6 @@
       "onboard_time": 1759374620,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 583467,
-      "num": 162062,
-      "word": "Angelababy公主皇冠",
-      "onboard_time": 1760099122,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 582537,
@@ -4148,7 +4164,7 @@
     },
     {
       "raw_hot": 460562,
-      "num": 161261,
+      "num": 161492,
       "word": "肖战直播",
       "onboard_time": 1760097621,
       "rank": 17,
@@ -7803,14 +7819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 253733,
-      "num": 253733,
-      "word": "约女生去图书馆男生和妈妈冷战3月",
-      "onboard_time": 1760096241,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 253649,
       "num": 215331,
       "word": "黄灿灿说不会结婚了",
@@ -7905,6 +7913,14 @@
       "onboard_time": 1759977679,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250420,
+      "num": 250420,
+      "word": "2岁女童跌入开水锅特重度烧伤",
+      "onboard_time": 1760099601,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250240,
@@ -8977,6 +8993,14 @@
       "onboard_time": 1759750941,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217987,
+      "num": 157247,
+      "word": "白鹿说自己得了疑难杂症",
+      "onboard_time": 1760100322,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 217836,
@@ -11155,6 +11179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183204,
+      "num": 155278,
+      "word": "吉利星愿",
+      "onboard_time": 1760100500,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 183081,
       "num": 108705,
       "word": "王一博兴奋起身回应小德感谢",
@@ -12651,6 +12683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166484,
+      "num": 166484,
+      "word": "曝广西一小学老师踹飞两名学生",
+      "onboard_time": 1760099061,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166417,
       "num": 146755,
       "word": "穆祉丞高会",
@@ -12851,6 +12891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164771,
+      "num": 164771,
+      "word": "原神兑换码",
+      "onboard_time": 1760100740,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164614,
       "num": 164614,
       "word": "花开锦绣",
@@ -12929,14 +12977,6 @@
       "onboard_time": 1759385901,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163620,
-      "num": 163620,
-      "word": "2岁女童跌入开水锅特重度烧伤",
-      "onboard_time": 1760099601,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163497,
@@ -13835,6 +13875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154520,
+      "num": 154520,
+      "word": "彭昱畅 互交阑尾",
+      "onboard_time": 1760100382,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154514,
       "num": 154514,
       "word": "不怪高圆圆是云南美食太香了",
@@ -14443,6 +14491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 148222,
+      "num": 148222,
+      "word": "白鹿跑过来这段也太美了",
+      "onboard_time": 1760098882,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148218,
       "num": 148218,
       "word": "薛之谦自拍",
@@ -14883,14 +14939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145388,
-      "num": 145388,
-      "word": "白鹿跑过来这段也太美了",
-      "onboard_time": 1760098882,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 145223,
       "num": 145223,
       "word": "檀健次主演电影票房破10亿",
@@ -15001,14 +15049,6 @@
       "onboard_time": 1760005221,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 144168,
-      "num": 144168,
-      "word": "吉利星愿",
-      "onboard_time": 1760100500,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 144119,
@@ -15771,6 +15811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138461,
+      "num": 138461,
+      "word": "焦俊艳说遇到过阴阳剧本",
+      "onboard_time": 1760100261,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138438,
       "num": 138438,
       "word": "周启豪0比3雨果",
@@ -15953,6 +16001,14 @@
       "onboard_time": 1759828040,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137154,
+      "num": 137154,
+      "word": "张杰演唱会",
+      "onboard_time": 1760101222,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 137128,
@@ -16531,14 +16587,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 133956,
-      "num": 133956,
-      "word": "彭昱畅 互交阑尾",
-      "onboard_time": 1760100382,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133888,
       "num": 133888,
       "word": "新疆独库公路10月10日晚封闭",
@@ -17025,6 +17073,14 @@
       "onboard_time": 1759557201,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130913,
+      "num": 130913,
+      "word": "太阳vs篮网",
+      "onboard_time": 1760100562,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 130804,
@@ -17603,14 +17659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127212,
-      "num": 127212,
-      "word": "焦俊艳说遇到过阴阳剧本",
-      "onboard_time": 1760100261,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127175,
       "num": 127175,
       "word": "泸州银河左岸音乐节",
@@ -18123,14 +18171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124115,
-      "num": 124115,
-      "word": "白鹿说自己得了疑难杂症",
-      "onboard_time": 1760100322,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 124055,
       "num": 124055,
       "word": "陈垣宇决胜局憾负",
@@ -18161,6 +18201,14 @@
       "onboard_time": 1759553480,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123899,
+      "num": 123899,
+      "word": "Angelababy看秀",
+      "onboard_time": 1760101342,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 123846,
@@ -19105,6 +19153,14 @@
       "onboard_time": 1759591042,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118511,
+      "num": 118511,
+      "word": "34款APP违规收集使用个人信息",
+      "onboard_time": 1760101101,
+      "rank": 41,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 118502,
@@ -20395,6 +20451,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 112423,
+      "num": 112423,
+      "word": "23万粉丝博主为百色抗洪捐1分钱",
+      "onboard_time": 1760097621,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112422,
       "num": 112422,
       "word": "德约科维奇晋级上海赛4强",
@@ -21433,14 +21497,6 @@
       "onboard_time": 1759406061,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108816,
-      "num": 108816,
-      "word": "23万粉丝博主为百色抗洪捐1分钱",
-      "onboard_time": 1760097621,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108798,
@@ -22899,14 +22955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 103103,
-      "num": 103103,
-      "word": "曝广西一小学老师踹飞两名学生",
-      "onboard_time": 1760099061,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103052,
       "num": 172410,
       "word": "王楚钦一天一个夺冠",
@@ -23993,14 +24041,6 @@
       "onboard_time": 1759675882,
       "rank": 36,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 98165,
-      "num": 98165,
-      "word": "太阳vs篮网",
-      "onboard_time": 1760100562,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 98163,
@@ -27124,7 +27164,7 @@
     },
     {
       "raw_hot": 84118,
-      "num": 604657,
+      "num": 632724,
       "word": "故宫博物院建院100年",
       "onboard_time": 1760086522,
       "rank": 2,
@@ -31123,6 +31163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41541,
+      "num": 121431,
+      "word": "张远终于不做嘉宾做新郎了",
+      "onboard_time": 1760101041,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 41476,
       "num": 100657,
       "word": "孟子义雨中戏",
@@ -31249,6 +31297,14 @@
       "onboard_time": 1759293622,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39197,
+      "num": 115743,
+      "word": "兰蔻这趟专列的旅客好养眼",
+      "onboard_time": 1760101461,
+      "rank": 44,
+      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 39058,

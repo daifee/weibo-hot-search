@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/10 20:51:28
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/10 21:04:53
 </p>
 </blockquote>
 <p>
@@ -401,6 +401,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%23" target="weibo">
 金价（热度：1387129）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%88%96%E6%97%A0%E6%9C%9B%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%23" target="weibo">
+高市早苗或无望日本首相（热度：1378773）
 </a>
 </li>
 
@@ -1001,6 +1007,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%BB%84%E6%9F%90%E6%9F%90%E6%8B%92%E6%9C%8D%E5%85%B5%E5%BD%B9%23" target="weibo">
 官方通报黄某某拒服兵役（热度：925854）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Angelababy%E5%85%AC%E4%B8%BB%E7%9A%87%E5%86%A0%23" target="weibo">
+Angelababy公主皇冠（热度：925479）
 </a>
 </li>
 
@@ -1959,6 +1971,12 @@ JDG输越南队（热度：648751）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A6%E5%A5%B3%E7%94%9F%E5%8E%BB%E5%9B%BE%E4%B9%A6%E9%A6%86%E7%94%B7%E7%94%9F%E5%92%8C%E5%A6%88%E5%A6%88%E5%86%B7%E6%88%983%E6%9C%88%23" target="weibo">
+约女生去图书馆男生和妈妈冷战3月（热度：632295）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A9%AC%E5%A5%96%23" target="weibo">
 金马奖（热度：631704）
 </a>
@@ -2219,12 +2237,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%98%85%E5%85%B5%E5%BC%8F%E8%B7%86%E6%8B%B3%E9%81%93%E8%A1%A8%E6%BC%94%E5%87%BA%E7%8E%B0%E5%A4%B1%E8%AF%AF%23" target="weibo">
 韩国阅兵式跆拳道表演出现失误（热度：583769）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Angelababy%E5%85%AC%E4%B8%BB%E7%9A%87%E5%86%A0%23" target="weibo">
-Angelababy公主皇冠（热度：583467）
 </a>
 </li>
 
@@ -5865,12 +5877,6 @@ iG全员回国（热度：266621）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A6%E5%A5%B3%E7%94%9F%E5%8E%BB%E5%9B%BE%E4%B9%A6%E9%A6%86%E7%94%B7%E7%94%9F%E5%92%8C%E5%A6%88%E5%A6%88%E5%86%B7%E6%88%983%E6%9C%88%23" target="weibo">
-约女生去图书馆男生和妈妈冷战3月（热度：253733）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E8%AF%B4%E4%B8%8D%E4%BC%9A%E7%BB%93%E5%A9%9A%E4%BA%86%23" target="weibo">
 黄灿灿说不会结婚了（热度：253649）
 </a>
@@ -5943,6 +5949,12 @@ Faker微博更新（热度：252313）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%B7%8C%E5%85%A5%E5%BC%80%E6%B0%B4%E9%94%85%E7%89%B9%E9%87%8D%E5%BA%A6%E7%83%A7%E4%BC%A4%23" target="weibo">
+2岁女童跌入开水锅特重度烧伤（热度：250420）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%23" target="weibo">
 以色列发出警告（热度：250240）
 </a>
@@ -5999,18 +6011,6 @@ Faker微博更新（热度：252313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%96%8A%E5%88%AB%E4%BA%BA%E5%93%A5%E5%93%A5%23" target="weibo">
 肖战喊别人哥哥（热度：248765）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%92%96%E5%95%A1%E5%92%8C%E7%83%AD%E5%92%96%E5%95%A1%E7%9A%84%E5%B7%AE%E5%88%AB%E5%B1%85%E7%84%B6%E8%BF%99%E4%B9%88%E5%A4%A7%23" target="weibo">
-冰咖啡和热咖啡的差别居然这么大（热度：248567）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E6%88%91%E4%BA%8C%E5%8D%81%E6%9D%A5%E5%B2%81%E5%B0%B1%E8%B7%9F%E7%9D%80%E4%BD%A0%E4%BA%86%23" target="weibo">
-陈伟霆我二十来岁就跟着你了（热度：248371）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760100688469,
+  "endTime": 1760101493399,
   "band_list": [
     {
       "raw_hot": 7988861,
@@ -41,6 +41,14 @@
       "onboard_time": 1760062579,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1378773,
+      "num": 1378773,
+      "word": "高市早苗或无望日本首相",
+      "onboard_time": 1760098400,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1315363,
@@ -97,6 +105,14 @@
       "onboard_time": 1760090840,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 925479,
+      "num": 165877,
+      "word": "Angelababy公主皇冠",
+      "onboard_time": 1760099122,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 920371,
@@ -291,6 +307,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 632295,
+      "num": 632295,
+      "word": "约女生去图书馆男生和妈妈冷战3月",
+      "onboard_time": 1760096241,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 624068,
       "num": 624068,
       "word": "高通涉嫌违反反垄断法",
@@ -337,14 +361,6 @@
       "onboard_time": 1760088023,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 583467,
-      "num": 162062,
-      "word": "Angelababy公主皇冠",
-      "onboard_time": 1760099122,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 574395,
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 460562,
-      "num": 161261,
+      "num": 161492,
       "word": "肖战直播",
       "onboard_time": 1760097621,
       "rank": 17,
@@ -747,20 +763,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 253733,
-      "num": 253733,
-      "word": "约女生去图书馆男生和妈妈冷战3月",
-      "onboard_time": 1760096241,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252983,
       "num": 252983,
       "word": "英雄联盟S15",
       "onboard_time": 1760079981,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 250420,
+      "num": 250420,
+      "word": "2岁女童跌入开水锅特重度烧伤",
+      "onboard_time": 1760099601,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249798,
@@ -841,6 +857,14 @@
       "onboard_time": 1760018602,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217987,
+      "num": 157247,
+      "word": "白鹿说自己得了疑难杂症",
+      "onboard_time": 1760100322,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 215704,
@@ -1059,6 +1083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183204,
+      "num": 155278,
+      "word": "吉利星愿",
+      "onboard_time": 1760100500,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 182865,
       "num": 182865,
       "word": "王霏霏帮唱战绩可查",
@@ -1155,6 +1187,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 166484,
+      "num": 166484,
+      "word": "曝广西一小学老师踹飞两名学生",
+      "onboard_time": 1760099061,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165199,
       "num": 165199,
       "word": "孩子这些表现可能是精神障碍",
@@ -1171,20 +1211,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164771,
+      "num": 164771,
+      "word": "原神兑换码",
+      "onboard_time": 1760100740,
+      "rank": 13,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163868,
       "num": 163868,
       "word": "熊黛林双胞胎一个像爸爸一个像妈妈",
       "onboard_time": 1760075121,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163620,
-      "num": 163620,
-      "word": "2岁女童跌入开水锅特重度烧伤",
-      "onboard_time": 1760099601,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163497,
@@ -1291,6 +1331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154520,
+      "num": 154520,
+      "word": "彭昱畅 互交阑尾",
+      "onboard_time": 1760100382,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154267,
       "num": 154267,
       "word": "迪丽热巴入围剧综人物",
@@ -1363,6 +1411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148222,
+      "num": 148222,
+      "word": "白鹿跑过来这段也太美了",
+      "onboard_time": 1760098882,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147865,
       "num": 147865,
       "word": "在鹤岗定居10个月后的真实感受",
@@ -1401,22 +1457,6 @@
       "onboard_time": 1760094081,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 145388,
-      "num": 145388,
-      "word": "白鹿跑过来这段也太美了",
-      "onboard_time": 1760098882,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 144168,
-      "num": 144168,
-      "word": "吉利星愿",
-      "onboard_time": 1760100500,
-      "rank": 28,
-      "category": "汽车"
     },
     {
       "raw_hot": 143873,
@@ -1515,12 +1555,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138461,
+      "num": 138461,
+      "word": "焦俊艳说遇到过阴阳剧本",
+      "onboard_time": 1760100261,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138243,
       "num": 138243,
       "word": "比亚迪第1400万辆新能源车下线",
       "onboard_time": 1760077343,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 137154,
+      "num": 137154,
+      "word": "张杰演唱会",
+      "onboard_time": 1760101222,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 136936,
@@ -1595,14 +1651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133956,
-      "num": 133956,
-      "word": "彭昱畅 互交阑尾",
-      "onboard_time": 1760100382,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 133888,
       "num": 133888,
       "word": "新疆独库公路10月10日晚封闭",
@@ -1657,6 +1705,14 @@
       "onboard_time": 1760095701,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130913,
+      "num": 130913,
+      "word": "太阳vs篮网",
+      "onboard_time": 1760100562,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 130553,
@@ -1763,14 +1819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127212,
-      "num": 127212,
-      "word": "焦俊艳说遇到过阴阳剧本",
-      "onboard_time": 1760100261,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127006,
       "num": 127006,
       "word": "阿维塔115亿入股华为引望",
@@ -1875,20 +1923,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 124115,
-      "num": 124115,
-      "word": "白鹿说自己得了疑难杂症",
-      "onboard_time": 1760100322,
-      "rank": 36,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 123968,
       "num": 123968,
       "word": "赌王千金看秀贵气藏不住",
       "onboard_time": 1760065939,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 123899,
+      "num": 123899,
+      "word": "Angelababy看秀",
+      "onboard_time": 1760101342,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 123753,
@@ -2043,6 +2091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118511,
+      "num": 118511,
+      "word": "34款APP违规收集使用个人信息",
+      "onboard_time": 1760101101,
+      "rank": 41,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 118266,
       "num": 118266,
       "word": "谭松韵古装仪态",
@@ -2179,6 +2235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112423,
+      "num": 112423,
+      "word": "23万粉丝博主为百色抗洪捐1分钱",
+      "onboard_time": 1760097621,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112164,
       "num": 112164,
       "word": "兰香如故",
@@ -2307,14 +2371,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 108816,
-      "num": 108816,
-      "word": "23万粉丝博主为百色抗洪捐1分钱",
-      "onboard_time": 1760097621,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108750,
       "num": 108750,
       "word": "今年对杨幂来说是顶顶好的一年",
@@ -2377,14 +2433,6 @@
       "onboard_time": 1760072662,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 103103,
-      "num": 103103,
-      "word": "曝广西一小学老师踹飞两名学生",
-      "onboard_time": 1760099061,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102987,
@@ -2488,14 +2536,6 @@
       "word": "孙颖莎青奥夺金7周年",
       "onboard_time": 1760062160,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 98165,
-      "num": 98165,
-      "word": "太阳vs篮网",
-      "onboard_time": 1760100562,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -2604,7 +2644,7 @@
     },
     {
       "raw_hot": 84118,
-      "num": 604657,
+      "num": 632724,
       "word": "故宫博物院建院100年",
       "onboard_time": 1760086522,
       "rank": 2,
@@ -3147,6 +3187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41541,
+      "num": 121431,
+      "word": "张远终于不做嘉宾做新郎了",
+      "onboard_time": 1760101041,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40372,
       "num": 47994,
       "word": "宋妍霏演戏裙子吊牌都没摘",
@@ -3161,6 +3209,14 @@
       "onboard_time": 1760004801,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 39197,
+      "num": 115743,
+      "word": "兰蔻这趟专列的旅客好养眼",
+      "onboard_time": 1760101461,
+      "rank": 44,
+      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 38515,
