@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/05 00:27:56 ~ 2025/10/11 01:39:43
+本榜单时间：2025/10/05 00:27:56 ~ 2025/10/11 02:35:16
 </p>
 </blockquote>
 <p>
@@ -12933,6 +12933,12 @@ DRG强势拿下四连胜（热度：81263）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%88%B9%E8%88%B6%E6%94%B6%E8%B4%B9%E4%B8%AD%E6%96%B9%E5%AF%B9%E7%BE%8E%E5%90%8C%E6%97%B6%E5%AE%9E%E6%96%BD%23" target="weibo">
+美对中国船舶收费中方对美同时实施（热度：80887）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%A1%A310%E4%BA%BF%E5%A4%A7%E9%A1%B9%E7%9B%AE%E4%BD%A0%E5%8F%82%E4%B8%8E%E4%BA%86%E5%90%97%23" target="weibo">
 国庆档10亿大项目你参与了吗（热度：80695）
 </a>
@@ -13199,12 +13205,6 @@ MiuMiu秀场叠搭公式（热度：78571）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%A4%9A%E4%BD%8D%E8%80%81%E6%88%8F%E9%AA%A8%E5%9C%A8%E5%90%84%E5%9C%B0%E6%99%AF%E5%8C%BA%E4%BA%AE%E7%9B%B8%23" target="weibo">
 国庆假期多位老戏骨在各地景区亮相（热度：76224）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%88%B9%E8%88%B6%E6%94%B6%E8%B4%B9%E4%B8%AD%E6%96%B9%E5%AF%B9%E7%BE%8E%E5%90%8C%E6%97%B6%E5%AE%9E%E6%96%BD%23" target="weibo">
-美对中国船舶收费中方对美同时实施（热度：76045）
 </a>
 </li>
 
@@ -15075,6 +15075,12 @@ CP2025SP（热度：26632）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E8%B6%85%E6%96%B0%E9%B2%9C%E5%85%A5%E5%9B%B4%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%23" target="weibo">
+地球超新鲜入围微博视界大会（热度：20176）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94MAGICMAN2%E4%B8%96%E7%95%8C%E5%B7%A1%E6%BC%94%23" target="weibo">
 王嘉尔MAGICMAN2世界巡演（热度：20034）
 </a>
@@ -15245,6 +15251,12 @@ CP2025SP（热度：26632）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E8%A7%92%E8%89%B2%E7%90%86%E8%A7%A3%23" target="weibo">
 檀健次角色理解（热度：13882）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E6%96%B0%E4%B8%93%E8%BE%91%23" target="weibo">
+十个勤天新专辑（热度：13825）
 </a>
 </li>
 
