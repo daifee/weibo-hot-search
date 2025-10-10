@@ -1,10 +1,10 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760065565193,
+  "endTime": 1760066105973,
   "band_list": [
     {
-      "raw_hot": 1342274,
-      "num": 1342274,
+      "raw_hot": 1450574,
+      "num": 1450574,
       "word": "榴莲大亨宣布与出轨儿子断绝关系",
       "onboard_time": 1760062579,
       "rank": 0,
@@ -59,6 +59,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 663967,
+      "num": 246830,
+      "word": "暗河传",
+      "onboard_time": 1760063180,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 647352,
       "num": 367738,
       "word": "男子与女友吵架驾车撞死一家三口",
@@ -91,12 +99,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 534464,
-      "num": 246830,
-      "word": "暗河传",
-      "onboard_time": 1760063180,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 530300,
+      "num": 334717,
+      "word": "一家三口被撞死案目击者发声",
+      "onboard_time": 1760061380,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 510491,
@@ -113,6 +121,14 @@
       "onboard_time": 1760054000,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 478898,
+      "num": 235733,
+      "word": "孙乐言徐如蓝时装周同框",
+      "onboard_time": 1760061739,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 448737,
@@ -139,14 +155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 387525,
-      "num": 235733,
-      "word": "孙乐言徐如蓝时装周同框",
-      "onboard_time": 1760061739,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 384417,
       "num": 222540,
       "word": "卢昱晓演技",
@@ -163,20 +171,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 334717,
-      "num": 334717,
-      "word": "一家三口被撞死案目击者发声",
-      "onboard_time": 1760061380,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 323361,
-      "num": 323361,
+      "raw_hot": 348730,
+      "num": 348730,
       "word": "菲律宾海域7.6级地震",
       "onboard_time": 1760063119,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 319375,
+      "num": 231275,
+      "word": "彭昱畅 可不敢碰财神爷",
+      "onboard_time": 1760064139,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 311046,
@@ -185,6 +193,14 @@
       "onboard_time": 1760031376,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310481,
+      "num": 310481,
+      "word": "王者荣耀",
+      "onboard_time": 1760063419,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 302802,
@@ -219,28 +235,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 280200,
-      "num": 280200,
-      "word": "王者荣耀",
-      "onboard_time": 1760063419,
-      "rank": 6,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 274782,
       "num": 176481,
       "word": "高反失温女孩年仅20岁刚毕业",
       "onboard_time": 1760022921,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 270560,
-      "num": 231275,
-      "word": "彭昱畅 可不敢碰财神爷",
-      "onboard_time": 1760064139,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 264001,
@@ -395,6 +395,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 151761,
+      "num": 151761,
+      "word": "菲律宾海啸预计高出1米",
+      "onboard_time": 1760065039,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 141921,
       "num": 141921,
       "word": "每天练背6分钟就是回报率最高的运动",
@@ -435,11 +443,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132111,
+      "num": 223739,
+      "word": "国家预警发布回应菲律宾强震",
+      "onboard_time": 1760064980,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 129936,
       "num": 129936,
       "word": "李沁越素越惊艳",
       "onboard_time": 1760058741,
       "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129618,
+      "num": 129618,
+      "word": "冯宝宝王也你们不要再打了",
+      "onboard_time": 1760064980,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -475,6 +499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122142,
+      "num": 122142,
+      "word": "水军伪造红头文件",
+      "onboard_time": 1760064201,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 119605,
       "num": 119605,
       "word": "女子错峰游韩国两步一个中国人",
@@ -483,19 +515,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118382,
-      "num": 118382,
-      "word": "菲律宾海啸预计高出1米",
-      "onboard_time": 1760065039,
-      "rank": 35,
-      "category": "海外新闻"
+      "raw_hot": 115245,
+      "num": 115245,
+      "word": "多邻国动画化",
+      "onboard_time": 1760062938,
+      "rank": 37,
+      "category": "动漫"
     },
     {
-      "raw_hot": 113876,
-      "num": 113876,
-      "word": "冯宝宝王也你们不要再打了",
-      "onboard_time": 1760064980,
-      "rank": 37,
+      "raw_hot": 114522,
+      "num": 114522,
+      "word": "雷佳音回应作品太多被观众厌烦",
+      "onboard_time": 1760064800,
+      "rank": 42,
       "category": "剧集"
     },
     {
@@ -505,6 +537,14 @@
       "onboard_time": 1760064919,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 109521,
+      "num": 109521,
+      "word": "赌王千金看秀贵气藏不住",
+      "onboard_time": 1760065939,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 109372,
@@ -529,22 +569,6 @@
       "onboard_time": 1760061200,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 103727,
-      "num": 103727,
-      "word": "雷佳音回应作品太多被观众厌烦",
-      "onboard_time": 1760064800,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 103695,
-      "num": 103695,
-      "word": "水军伪造红头文件",
-      "onboard_time": 1760064201,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 102657,
@@ -587,6 +611,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98095,
+      "num": 98095,
+      "word": "开拓者主教练谈杨瀚森首秀表现",
+      "onboard_time": 1760065579,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97714,
+      "num": 97714,
+      "word": "金价失守4000美元关口",
+      "onboard_time": 1760063959,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 92055,
+      "num": 92055,
+      "word": "林孝埈0.005秒绝杀进入半决赛",
+      "onboard_time": 1760066000,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90731,
       "num": 90731,
       "word": "藏海传总收视率超过6%",
@@ -601,6 +649,14 @@
       "onboard_time": 1760057601,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87352,
+      "num": 87352,
+      "word": "这辈子扣扣搜搜花了很多钱",
+      "onboard_time": 1760065400,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 86502,
@@ -723,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71962,
+      "num": 136639,
+      "word": "赵睿和7号搭档的神级预判",
+      "onboard_time": 1760065460,
+      "rank": 31,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 70191,
       "num": 70191,
       "word": "鸣潮",
@@ -793,14 +857,6 @@
       "onboard_time": 1760023762,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56609,
-      "num": 132835,
-      "word": "赵睿和7号搭档的神级预判",
-      "onboard_time": 1760065460,
-      "rank": 31,
-      "category": "体育,汽车"
     },
     {
       "raw_hot": 56386,
@@ -937,14 +993,6 @@
       "onboard_time": 1760024001,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45882,
-      "num": 223739,
-      "word": "国家预警发布回应菲律宾强震",
-      "onboard_time": 1760064980,
-      "rank": 19,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 43125,
