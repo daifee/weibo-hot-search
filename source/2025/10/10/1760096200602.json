@@ -1,0 +1,410 @@
+{
+  "runTime": 1760096200602,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 925945,
+        "num": 1148151,
+        "word": "日本母亲杀死女儿冰箱藏尸20年",
+        "onboard_time": 1760090840,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 508947,
+        "num": 508947,
+        "word": "人唯一不会长大的器官",
+        "onboard_time": 1760091261,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 53872,
+        "num": 474499,
+        "word": "故宫博物院建院100年",
+        "onboard_time": 1760086522,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465765,
+        "num": 465765,
+        "word": "美方限制中国航班飞越俄罗斯领空",
+        "onboard_time": 1760087121,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 314743,
+        "num": 314743,
+        "word": "北方暴雨冷到破纪录",
+        "onboard_time": 1760086402,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313103,
+        "num": 313103,
+        "word": "王暖暖前夫曾通过律师问能分多少财产",
+        "onboard_time": 1760091020,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279971,
+        "num": 279971,
+        "word": "少司缘新皮肤",
+        "onboard_time": 1760092881,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181839,
+        "num": 181839,
+        "word": "高通涉嫌违反反垄断法",
+        "onboard_time": 1760087900,
+        "rank": 7,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 298206,
+        "num": 180872,
+        "word": "王暖暖离婚案推动制度进步",
+        "onboard_time": 1760093302,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131585,
+        "num": 179911,
+        "word": "老人被干儿子骗走失联直至离世",
+        "onboard_time": 1760085321,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1194365,
+        "num": 179765,
+        "word": "陈伟霆 早期baby严选的权威性",
+        "onboard_time": 1760091441,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 966373,
+        "num": 178276,
+        "word": "王暖暖成功离婚",
+        "onboard_time": 1760081540,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 964271,
+        "num": 177831,
+        "word": "向华强发声明回应向家破产",
+        "onboard_time": 1760094201,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 834365,
+        "num": 176471,
+        "word": "资助了6年的妹妹第一笔工资给了我",
+        "onboard_time": 1760092941,
+        "rank": 13,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 516854,
+        "num": 175201,
+        "word": "许我耀眼名场面 张翰娜扎官宣图",
+        "onboard_time": 1760081901,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382998,
+        "num": 174862,
+        "word": "冯建宇直播",
+        "onboard_time": 1760095460,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263374,
+        "num": 173330,
+        "word": "王暖暖方回应成功离婚",
+        "onboard_time": 1760083404,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199770,
+        "num": 172276,
+        "word": "英皇欠债派惠英红老太勇夺高奢",
+        "onboard_time": 1760076741,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40521,
+        "num": 171388,
+        "word": "肖战视界大会登顶三榜",
+        "onboard_time": 1760095821,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63824,
+        "num": 170465,
+        "word": "荣耀Magic8夜神强上天",
+        "onboard_time": 1760094322,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 243301,
+        "num": 170043,
+        "word": "王源 脑子和身体对了一晚上账",
+        "onboard_time": 1760088622,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201363,
+        "num": 168519,
+        "word": "成毅第七",
+        "onboard_time": 1760083703,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168295,
+        "num": 168295,
+        "word": "向往的生活",
+        "onboard_time": 1760095880,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159221,
+        "num": 159221,
+        "word": "高市早苗或无法成为日本首相",
+        "onboard_time": 1760090120,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 153350,
+        "num": 153350,
+        "word": "鞠婧祎基础 助理就不基础",
+        "onboard_time": 1760094621,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151227,
+        "num": 151227,
+        "word": "韩女网红被榜一大哥杀害抛尸",
+        "onboard_time": 1760082022,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 112804,
+        "num": 150758,
+        "word": "DRG对战KSG",
+        "onboard_time": 1760094561,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150458,
+        "num": 150458,
+        "word": "白鹿杀青",
+        "onboard_time": 1760087900,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149992,
+        "num": 149992,
+        "word": "小谢称王暖暖用4年血泪换来重生",
+        "onboard_time": 1760091623,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39030,
+        "num": 148877,
+        "word": "国庆假期飞猪机酒单量创新高",
+        "onboard_time": 1760094681,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159289,
+        "num": 148864,
+        "word": "肝癌更容易找上3类人",
+        "onboard_time": 1760093600,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147865,
+        "num": 147865,
+        "word": "在鹤岗定居10个月后的真实感受",
+        "onboard_time": 1760093241,
+        "rank": 31,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 146237,
+        "num": 146237,
+        "word": "想求求徐明浩别唱了",
+        "onboard_time": 1760095940,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 140051,
+        "num": 140051,
+        "word": "王暖暖前夫被判赔50万",
+        "onboard_time": 1760081001,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131003,
+        "num": 131003,
+        "word": "迪丽热巴用泰语回应邝玲玲",
+        "onboard_time": 1760095701,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126167,
+        "num": 126167,
+        "word": "19岁的蔡依林在纽约时代广场",
+        "onboard_time": 1760091202,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54702,
+        "num": 125803,
+        "word": "沈腾携明星天团送免单",
+        "onboard_time": 1760094322,
+        "rank": 36,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 34247,
+        "num": 125521,
+        "word": "孟加拉国想买歼10CE",
+        "onboard_time": 1760095761,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23925,
+        "num": 125058,
+        "word": "高反失温女孩父亲最新发声",
+        "onboard_time": 1760095821,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88003,
+        "num": 124562,
+        "word": "48岁油漆工地下室刷漆后中毒离世",
+        "onboard_time": 1760095460,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119512,
+        "num": 123793,
+        "word": "无效早餐",
+        "onboard_time": 1760087961,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97551,
+        "num": 123377,
+        "word": "Cat转型教练",
+        "onboard_time": 1760094921,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123141,
+        "num": 123141,
+        "word": "我国超70%肝癌确诊已是中晚期",
+        "onboard_time": 1760083162,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122274,
+        "num": 122274,
+        "word": "张凌赫白马王子",
+        "onboard_time": 1760096000,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114441,
+        "num": 114441,
+        "word": "宁艺卓 alo",
+        "onboard_time": 1760077462,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113558,
+        "num": 113558,
+        "word": "一笑随歌 一双人长了一对妙嘴",
+        "onboard_time": 1760096180,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110810,
+        "num": 110810,
+        "word": "女子自学割眼袋做手术致1人失明",
+        "onboard_time": 1760089820,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107217,
+        "num": 107217,
+        "word": "王暖暖已拿到判决书",
+        "onboard_time": 1760087062,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105154,
+        "num": 105154,
+        "word": "全运乒乓球难度超奥运",
+        "onboard_time": 1760094681,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103978,
+        "num": 103978,
+        "word": "郭俊辰工作室声明",
+        "onboard_time": 1760091500,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中朝关系不断向前发展#"
+    }
+  }
+}
