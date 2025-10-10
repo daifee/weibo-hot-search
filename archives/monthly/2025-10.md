@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/10 12:43:27
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/10 13:25:16
 </p>
 </blockquote>
 <p>
@@ -435,6 +435,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%233%E4%BA%BA%E5%9B%A0%E8%BF%BD%E6%98%9F%E5%BC%95%E5%8F%91%E8%82%A2%E4%BD%93%E5%86%B2%E7%AA%81%E8%A2%AB%E5%A4%84%E7%BD%9A%23" target="weibo">
+3人因追星引发肢体冲突被处罚（热度：1315363）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E9%B8%A1%E6%8E%92%E5%93%A5%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%E4%BA%BA%23" target="weibo">
 人人人人人人鸡排哥人人人人人人（热度：1302673）
 </a>
@@ -815,12 +821,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E9%9F%B3%E8%85%94%E5%8F%A3%E9%9F%B3%23" target="weibo">
 王诗龄音腔口音（热度：1000546）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%233%E4%BA%BA%E5%9B%A0%E8%BF%BD%E6%98%9F%E5%BC%95%E5%8F%91%E8%82%A2%E4%BD%93%E5%86%B2%E7%AA%81%E8%A2%AB%E5%A4%84%E7%BD%9A%23" target="weibo">
-3人因追星引发肢体冲突被处罚（热度：1000296）
 </a>
 </li>
 
@@ -1361,6 +1361,12 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E8%BD%AC%E7%A7%BB%E8%B6%8515%E4%B8%87%E4%BA%BA%23" target="weibo">
 广东转移超15万人（热度：763916）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E7%9A%8423%E4%BA%BF%E7%BE%8E%E5%85%83%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%86%23" target="weibo">
+许家印的23亿美元藏不住了（热度：763686）
 </a>
 </li>
 
@@ -2751,6 +2757,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%80%E4%B8%87%E4%BB%A5%E4%B8%8B%E7%9A%84%E7%90%86%E8%B4%A2%E6%96%B9%E6%B3%95%23" target="weibo">
+月收入一万以下的理财方法（热度：487532）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E4%B8%80%E5%A4%A9%E5%8A%9E11%E5%9C%BA%E5%A9%9A%E5%AE%B4%E6%8B%B1%E9%97%A8%E5%BF%AB%E6%91%86%E4%B8%8D%E4%B8%8B%E4%BA%86%23" target="weibo">
 酒店一天办11场婚宴拱门快摆不下了（热度：486599）
 </a>
@@ -3303,6 +3315,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E8%8E%B7%E5%9B%BD%E9%99%85%E9%9D%92%E5%B0%91%E5%B9%B4%E7%BB%98%E7%94%BB%E5%A4%A7%E8%B5%9B%E9%87%91%E5%A5%96%23" target="weibo">
+王诗龄获国际青少年绘画大赛金奖（热度：422862）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%9C%8B%E7%9D%80%E5%B1%8F%E5%B9%95%E4%B8%8A%E5%8F%91%E5%85%89%E7%9A%84%E8%B0%A2%E5%A8%9C%23" target="weibo">
 张杰看着屏幕上发光的谢娜（热度：421267）
 </a>
@@ -3635,6 +3653,18 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%A4%96%E5%BE%88%E8%B4%B5%E4%BD%86%E5%9B%BD%E5%86%85%E5%8D%B4%E4%BE%BF%E5%AE%9C%E7%9A%84%E4%B8%9C%E8%A5%BF%23" target="weibo">
 国外很贵但国内却便宜的东西（热度：381612）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E8%80%83%E7%BC%96%E6%94%BE%E5%AE%BD35%E5%B2%81%E9%97%A8%E6%A7%9B%23" target="weibo">
+多地考编放宽35岁门槛（热度：381548）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%B8%A6%E8%80%81%E5%A9%86%E4%B8%8A%E6%B5%B7%E7%9C%8B%E6%88%BF%23" target="weibo">
+胡歌带老婆上海看房（热度：380958）
 </a>
 </li>
 
@@ -4253,12 +4283,6 @@ WTT（热度：332672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E7%A7%B0%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%88%B6%E4%BA%B2%E6%82%A3%E9%87%8D%E7%97%85%23" target="weibo">
 向太称郭碧婷父亲患重病（热度：331880）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E7%9A%8423%E4%BA%BF%E7%BE%8E%E5%85%83%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%86%23" target="weibo">
-许家印的23亿美元藏不住了（热度：331448）
 </a>
 </li>
 
@@ -5793,12 +5817,6 @@ hi6收视率排名第一（热度：245066）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%80%E4%B8%87%E4%BB%A5%E4%B8%8B%E7%9A%84%E7%90%86%E8%B4%A2%E6%96%B9%E6%B3%95%23" target="weibo">
-月收入一万以下的理财方法（热度：244522）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E6%AF%92%E7%B3%96%E6%B5%86%E8%87%B420%E5%90%8D%E5%84%BF%E7%AB%A5%E6%AD%BB%E4%BA%A1%23" target="weibo">
 印度毒糖浆致20名儿童死亡（热度：244421）
 </a>
@@ -5993,24 +6011,6 @@ hi6收视率排名第一（热度：245066）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23wtt%23" target="weibo">
 wtt（热度：234611）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%B1%BD%E9%9B%86%E5%9B%A2%E8%BE%9F%E8%B0%A3%23" target="weibo">
-北汽集团辟谣（热度：234022）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E6%96%B0%E5%89%A7%E4%B8%80%E8%A7%89%E7%9D%A1%E9%86%92%E6%9C%89%E8%A2%AB%E5%AD%9D%E5%88%B0%23" target="weibo">
-李昀锐新剧一觉睡醒有被孝到（热度：233908）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%96%E4%B8%8D%E5%AE%8C%E7%9A%84%E6%9C%88%E9%A5%BC%E9%83%BD%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86%23" target="weibo">
-卖不完的月饼都去哪儿了（热度：233848）
 </a>
 </li>
 

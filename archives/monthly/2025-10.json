@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760071407880,
+  "endTime": 1760073916309,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -563,6 +563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1315363,
+      "num": 264836,
+      "word": "3人因追星引发肢体冲突被处罚",
+      "onboard_time": 1760070801,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1302673,
       "num": 1302673,
       "word": "人人人人人人鸡排哥人人人人人人",
@@ -1073,14 +1081,6 @@
       "onboard_time": 1759662624,
       "rank": 20,
       "category": "综艺,艺人"
-    },
-    {
-      "raw_hot": 1000296,
-      "num": 264836,
-      "word": "3人因追星引发肢体冲突被处罚",
-      "onboard_time": 1760070801,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1000208,
@@ -1801,6 +1801,14 @@
       "onboard_time": 1759627758,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 763686,
+      "num": 1122189,
+      "word": "许家印的23亿美元藏不住了",
+      "onboard_time": 1760070441,
+      "rank": 36,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 759795,
@@ -3651,6 +3659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 487532,
+      "num": 244522,
+      "word": "月收入一万以下的理财方法",
+      "onboard_time": 1760070321,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 486599,
       "num": 486599,
       "word": "酒店一天办11场婚宴拱门快摆不下了",
@@ -4387,6 +4403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 422862,
+      "num": 231589,
+      "word": "王诗龄获国际青少年绘画大赛金奖",
+      "onboard_time": 1760069240,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 421267,
       "num": 205709,
       "word": "张杰看着屏幕上发光的谢娜",
@@ -4833,6 +4857,22 @@
       "onboard_time": 1759902201,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 381548,
+      "num": 381548,
+      "word": "多地考编放宽35岁门槛",
+      "onboard_time": 1760070682,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 380958,
+      "num": 168197,
+      "word": "胡歌带老婆上海看房",
+      "onboard_time": 1760073141,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 380916,
@@ -5657,14 +5697,6 @@
       "onboard_time": 1759666283,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 331448,
-      "num": 331448,
-      "word": "许家印的23亿美元藏不住了",
-      "onboard_time": 1760070441,
-      "rank": 36,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 331411,
@@ -7707,14 +7739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244522,
-      "num": 244522,
-      "word": "月收入一万以下的理财方法",
-      "onboard_time": 1760070321,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 244421,
       "num": 244421,
       "word": "印度毒糖浆致20名儿童死亡",
@@ -8105,14 +8129,6 @@
       "onboard_time": 1759984822,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 231589,
-      "num": 231589,
-      "word": "王诗龄获国际青少年绘画大赛金奖",
-      "onboard_time": 1760069240,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 231550,
@@ -8777,6 +8793,14 @@
       "onboard_time": 1759368860,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 211954,
+      "num": 167988,
+      "word": "班味最重的恋综来了",
+      "onboard_time": 1760073083,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 211935,
@@ -9857,6 +9881,14 @@
       "onboard_time": 1760058621,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193282,
+      "num": 193282,
+      "word": "第五人格",
+      "onboard_time": 1759459878,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 193273,
@@ -11571,6 +11603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170689,
+      "num": 168352,
+      "word": "offer7 现实版许我耀眼",
+      "onboard_time": 1760073261,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170616,
       "num": 139851,
       "word": "陈伟霆的评论区人均梗王",
@@ -12659,6 +12699,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 158953,
+      "num": 158953,
+      "word": "发工资第一件事",
+      "onboard_time": 1760072002,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158912,
       "num": 186431,
       "word": "广西一游客坐滑道遇蛇从腿下穿过",
@@ -12761,14 +12809,6 @@
       "onboard_time": 1759672165,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157730,
-      "num": 243496,
-      "word": "多地考编放宽35岁门槛",
-      "onboard_time": 1760070682,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157663,
@@ -12961,6 +13001,14 @@
       "onboard_time": 1759763302,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155739,
+      "num": 155739,
+      "word": "霉霉曝未婚夫认错人乌龙事件",
+      "onboard_time": 1760072421,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 155694,
@@ -14483,6 +14531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140943,
+      "num": 140943,
+      "word": "一个人长期不快乐的原因",
+      "onboard_time": 1760071342,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140942,
       "num": 140942,
       "word": "河南中秋晚会",
@@ -14505,22 +14561,6 @@
       "onboard_time": 1759382062,
       "rank": 37,
       "category": "数码"
-    },
-    {
-      "raw_hot": 140817,
-      "num": 140817,
-      "word": "一个人长期不快乐的原因",
-      "onboard_time": 1760071342,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 140814,
-      "num": 140814,
-      "word": "第五人格",
-      "onboard_time": 1759459878,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 140623,
@@ -15291,6 +15331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 135449,
+      "num": 135449,
+      "word": "苏新皓12点一到全部allin",
+      "onboard_time": 1760073500,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135391,
       "num": 135391,
       "word": "多方侵权迪丽热巴未道歉被公告",
@@ -15915,6 +15963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131644,
+      "num": 131644,
+      "word": "国庆宅家8天黄金净赚近1万元",
+      "onboard_time": 1760071762,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131548,
       "num": 131548,
       "word": "请关闭WiFi自动连接功能",
@@ -16505,6 +16561,22 @@
       "onboard_time": 1759409781,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127497,
+      "num": 127497,
+      "word": "边牧 航空箱费用退一下",
+      "onboard_time": 1760072543,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 127361,
+      "num": 127361,
+      "word": "喜人奇妙夜2",
+      "onboard_time": 1759466000,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 127323,
@@ -17539,6 +17611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120343,
+      "num": 120343,
+      "word": "85花今年都有新作品",
+      "onboard_time": 1760072602,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120306,
       "num": 120306,
       "word": "谁懂王一博大腿肌肉的含金量",
@@ -17769,6 +17849,14 @@
       "onboard_time": 1759566740,
       "rank": 46,
       "category": "艺人,休闲"
+    },
+    {
+      "raw_hot": 119100,
+      "num": 119100,
+      "word": "戴眼镜的刘涛完全主人级别",
+      "onboard_time": 1760072122,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 119082,
@@ -18451,14 +18539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115220,
-      "num": 115220,
-      "word": "喜人奇妙夜2",
-      "onboard_time": 1759466000,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 115202,
       "num": 118689,
       "word": "郑钦文年终排名将跌至20名开外",
@@ -19081,6 +19161,14 @@
       "onboard_time": 1759803079,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112048,
+      "num": 112048,
+      "word": "旺仔小馒头麻薯",
+      "onboard_time": 1760072063,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 112024,
@@ -19873,6 +19961,14 @@
       "onboard_time": 1759488022,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109281,
+      "num": 109281,
+      "word": "宋亚轩给胡先煦打电话必定在做惩罚",
+      "onboard_time": 1760072241,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 109276,
@@ -20707,6 +20803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106039,
+      "num": 106039,
+      "word": "侯明昊吃惊这一下不像演的",
+      "onboard_time": 1760073680,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106019,
       "num": 134125,
       "word": "景德镇努力接住鸡排哥泼天流量",
@@ -21441,6 +21545,22 @@
       "onboard_time": 1759571660,
       "rank": 36,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 103243,
+      "num": 103243,
+      "word": "建议起床后不要立即刷牙",
+      "onboard_time": 1760072301,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 103227,
+      "num": 103227,
+      "word": "原来蛋糕图案是这样做的",
+      "onboard_time": 1760072662,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 103199,

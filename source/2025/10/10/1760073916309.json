@@ -1,0 +1,410 @@
+{
+  "runTime": 1760073916309,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 763686,
+        "num": 1122189,
+        "word": "许家印的23亿美元藏不住了",
+        "onboard_time": 1760070441,
+        "rank": 0,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 749609,
+        "num": 749609,
+        "word": "干部受贿95只鸽子价值132万",
+        "onboard_time": 1760067380,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5593,
+        "num": 521671,
+        "word": "2025中秋国庆假期名场面",
+        "onboard_time": 1759974320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416512,
+        "num": 416512,
+        "word": "榴莲大亨宣布与出轨儿子断绝关系",
+        "onboard_time": 1760062579,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 381548,
+        "num": 381548,
+        "word": "多地考编放宽35岁门槛",
+        "onboard_time": 1760070682,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333965,
+        "num": 333965,
+        "word": "我国人口预期寿命越来越高",
+        "onboard_time": 1760066720,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201678,
+        "num": 201678,
+        "word": "菲律宾海域7.6级地震",
+        "onboard_time": 1760063119,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 193282,
+        "num": 193282,
+        "word": "第五人格",
+        "onboard_time": 1760071582,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192926,
+        "num": 192926,
+        "word": "气温冷出11月水平",
+        "onboard_time": 1760055979,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169225,
+        "num": 169225,
+        "word": "生命树发布预告",
+        "onboard_time": 1760070801,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81410,
+        "num": 169205,
+        "word": "孙颖莎代言香飘飘奶茶高端线",
+        "onboard_time": 1760071162,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1315363,
+        "num": 169120,
+        "word": "3人因追星引发肢体冲突被处罚",
+        "onboard_time": 1760070801,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 726041,
+        "num": 168982,
+        "word": "西贝更换门头",
+        "onboard_time": 1760067800,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 715155,
+        "num": 168878,
+        "word": "警方通报上海国际赛车场外有人打架",
+        "onboard_time": 1760068702,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 487532,
+        "num": 168850,
+        "word": "月收入一万以下的理财方法",
+        "onboard_time": 1760070321,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 437772,
+        "num": 168703,
+        "word": "朋友圈发照片一定要检查视野盲区",
+        "onboard_time": 1760050996,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422862,
+        "num": 168683,
+        "word": "王诗龄获国际青少年绘画大赛金奖",
+        "onboard_time": 1760069240,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345691,
+        "num": 168551,
+        "word": "姜潮麦迪娜给孩子取名跟写小说一样",
+        "onboard_time": 1760067320,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247161,
+        "num": 168464,
+        "word": "童锦程承认恋情",
+        "onboard_time": 1760052378,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 170689,
+        "num": 168352,
+        "word": "offer7 现实版许我耀眼",
+        "onboard_time": 1760073261,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 956899,
+        "num": 168285,
+        "word": "徐艺洋试了12套婚纱",
+        "onboard_time": 1760067740,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380958,
+        "num": 168197,
+        "word": "胡歌带老婆上海看房",
+        "onboard_time": 1760073141,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268757,
+        "num": 168143,
+        "word": "许我耀眼下个月8号去产检",
+        "onboard_time": 1760070623,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211954,
+        "num": 167988,
+        "word": "班味最重的恋综来了",
+        "onboard_time": 1760073083,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49355,
+        "num": 167910,
+        "word": "OriginOS6到飞起",
+        "onboard_time": 1760069121,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167879,
+        "num": 167879,
+        "word": "第一批00后工作8年的感受",
+        "onboard_time": 1760061019,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158953,
+        "num": 158953,
+        "word": "发工资第一件事",
+        "onboard_time": 1760072002,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155739,
+        "num": 155739,
+        "word": "霉霉曝未婚夫认错人乌龙事件",
+        "onboard_time": 1760072421,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146197,
+        "num": 146197,
+        "word": "暗河传",
+        "onboard_time": 1760063180,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140943,
+        "num": 140943,
+        "word": "一个人长期不快乐的原因",
+        "onboard_time": 1760071342,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135449,
+        "num": 135449,
+        "word": "苏新皓12点一到全部allin",
+        "onboard_time": 1760073500,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134274,
+        "num": 134274,
+        "word": "孙乐言徐如蓝时装周同框",
+        "onboard_time": 1760061739,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131644,
+        "num": 131644,
+        "word": "国庆宅家8天黄金净赚近1万元",
+        "onboard_time": 1760071762,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127497,
+        "num": 127497,
+        "word": "边牧 航空箱费用退一下",
+        "onboard_time": 1760072543,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127361,
+        "num": 127361,
+        "word": "喜人奇妙夜2",
+        "onboard_time": 1760073381,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126854,
+        "num": 126854,
+        "word": "入青云",
+        "onboard_time": 1760068940,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120343,
+        "num": 120343,
+        "word": "85花今年都有新作品",
+        "onboard_time": 1760072602,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119100,
+        "num": 119100,
+        "word": "戴眼镜的刘涛完全主人级别",
+        "onboard_time": 1760072122,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115189,
+        "num": 115189,
+        "word": "李沁造型师上热搜后立马换衣服了",
+        "onboard_time": 1760052319,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112048,
+        "num": 112048,
+        "word": "旺仔小馒头麻薯",
+        "onboard_time": 1760072063,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 73737,
+        "num": 109382,
+        "word": "2026总台大剧片单",
+        "onboard_time": 1760069902,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109285,
+        "num": 109285,
+        "word": "少吃瘦得快还是运动瘦得快",
+        "onboard_time": 1760070021,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 109281,
+        "num": 109281,
+        "word": "宋亚轩给胡先煦打电话必定在做惩罚",
+        "onboard_time": 1760072241,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108937,
+        "num": 108937,
+        "word": "昀牵孟绕连入围都出双入对",
+        "onboard_time": 1760069180,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106861,
+        "num": 106861,
+        "word": "菲律宾棉兰老岛附近7.4级地震",
+        "onboard_time": 1760063001,
+        "rank": 44,
+        "category": "突发/灾害,民生新闻"
+      },
+      {
+        "raw_hot": 106721,
+        "num": 106721,
+        "word": "影视飓风Tim曝公司营收构成",
+        "onboard_time": 1760059220,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 106039,
+        "num": 106039,
+        "word": "侯明昊吃惊这一下不像演的",
+        "onboard_time": 1760073680,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103654,
+        "num": 103654,
+        "word": "故宫博物院百岁生日快乐",
+        "onboard_time": 1760059760,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103243,
+        "num": 103243,
+        "word": "建议起床后不要立即刷牙",
+        "onboard_time": 1760072301,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103227,
+        "num": 103227,
+        "word": "原来蛋糕图案是这样做的",
+        "onboard_time": 1760072662,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向金正恩致贺电#"
+    }
+  }
+}
