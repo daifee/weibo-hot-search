@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1760106314011,
+  "endTime": 1760107376146,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1539,6 +1539,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 8791237,
+      "num": 8791237,
+      "word": "宗馥莉已经辞职",
+      "onboard_time": 1760105843,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8778816,
       "num": 8778816,
       "word": "张碧晨方称享有年轮永久演唱权利",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1742127505,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 4677462,
-      "num": 1120495,
-      "word": "陈晓陈妍希 今后各自安好",
-      "onboard_time": 1739855312,
-      "rank": 5,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

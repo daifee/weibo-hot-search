@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/10 22:25:14
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/10 22:42:56
 </p>
 </blockquote>
 <p>
@@ -23,6 +23,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E9%94%99%E5%8F%911.65%E4%BA%BF%E5%B7%A5%E8%B5%84%E5%91%98%E5%B7%A5%E8%A2%AB%E5%88%A4%E4%B8%8D%E9%80%80%E6%AC%BE%23" target="weibo">
 公司错发1.65亿工资员工被判不退款（热度：9127369）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E5%B7%B2%E7%BB%8F%E8%BE%9E%E8%81%8C%23" target="weibo">
+宗馥莉已经辞职（热度：8791237）
 </a>
 </li>
 
@@ -59,12 +65,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BA%A4%E8%AD%A6%E9%80%9A%E6%8A%A5%E9%99%88%E9%9C%87%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8%23" target="weibo">
 北京交警通报陈震发生车祸（热度：3967870）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E5%B7%B2%E7%BB%8F%E8%BE%9E%E8%81%8C%23" target="weibo">
-宗馥莉已经辞职（热度：3077539）
 </a>
 </li>
 
@@ -1623,6 +1623,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E5%B0%86%E7%8B%AC%E7%AB%8B%E7%BB%8F%E8%90%A5%E5%A8%83%E5%B0%8F%E5%AE%97%23" target="weibo">
+宗馥莉将独立经营娃小宗（热度：716262）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E7%91%9E%E5%A3%AB%E5%BA%A6%E5%81%87%23" target="weibo">
 陈赫一家四口瑞士度假（热度：715109）
 </a>
@@ -1967,6 +1973,12 @@ JDG输越南队（热度：648751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A510%E6%9C%889%E6%97%A5%E4%BC%91%E6%81%AF%23" target="weibo">
 鸡排哥10月9日休息（热度：637729）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9D%92%E5%9B%9E%E5%BA%94%23" target="weibo">
+王青回应（热度：637372）
 </a>
 </li>
 
@@ -4527,6 +4539,12 @@ p图姐喊话黄俊捷（热度：342786）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%84%9A%E8%B8%A22%E5%AD%A6%E7%94%9F%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
+脚踢2学生小学老师被辞退（热度：335752）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A9%86%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%BC%A0%E7%BA%AA%E4%B8%AD%E7%9A%84%E5%A9%9A%E5%A7%BB%E6%B2%A1%E6%9C%89%E7%88%B1%E6%83%85%23" target="weibo">
 老婆回应与张纪中的婚姻没有爱情（热度：334976）
 </a>
@@ -4881,6 +4899,12 @@ MiuMiu巴黎时装周（热度：318258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%20%E5%A8%83%E5%93%88%E5%93%88%23" target="weibo">
+宗馥莉 娃哈哈（热度：312660）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%90%91%E9%98%B3%E8%8A%B1%E6%94%B6%E8%A7%86%E7%A0%B42%E7%99%BB%E9%A1%B6%23" target="weibo">
 赵丽颖向阳花收视破2登顶（热度：312150）
 </a>
@@ -5157,12 +5181,6 @@ offer7播一半淘汰了三个人（热度：311785）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%84%9A%E8%B8%A22%E5%AD%A6%E7%94%9F%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
-脚踢2学生小学老师被辞退（热度：294582）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%89%8B%E6%8B%BF%E6%8A%98%E6%89%87%E8%A2%AB%E8%AF%AF%E8%AE%A4%E6%8C%81%E5%88%80%23" target="weibo">
 当事人回应手拿折扇被误认持刀（热度：294425）
 </a>
@@ -5309,6 +5327,12 @@ live图怎么关声音（热度：289588）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%9032%E6%A5%BC%E5%AE%B6%E7%88%AC%E6%BB%A1%E9%9A%90%E7%BF%85%E8%99%AB%E5%96%B7%E4%BA%864%E7%93%B6%E6%9D%80%E8%99%AB%E5%89%82%23" target="weibo">
 女子32楼家爬满隐翅虫喷了4瓶杀虫剂（热度：287729）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E5%9B%9E%E5%BA%94%E5%AE%97%E9%A6%A5%E8%8E%89%E8%BE%9E%E8%81%8C%E5%B1%9E%E5%AE%9E%23" target="weibo">
+娃哈哈回应宗馥莉辞职属实（热度：286730）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ iG全员回国（热度：266621）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%E8%B7%B3%E6%9F%A0%E6%AA%AC%E5%8F%89%23" target="weibo">
 小酒窝跳柠檬叉（热度：252556）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Faker%E5%BE%AE%E5%8D%9A%E6%9B%B4%E6%96%B0%23" target="weibo">
-Faker微博更新（热度：252313）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9C%A8%E5%BC%A0%E9%A6%A8%E4%BA%88%E8%83%8C%E5%90%8E%E5%8F%AB%E4%BA%BA%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
-迪丽热巴在张馨予背后叫人的样子（热度：251790）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%93%AD%E6%88%8F%E9%9D%A0%E6%8E%90%E5%A4%A7%E8%85%BF%23" target="weibo">
-卢昱晓哭戏靠掐大腿（热度：251702）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%92%8C%E5%AF%B9%E6%89%8B%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1%23" target="weibo">
-王一博和对手握手合影（热度：251248）
 </a>
 </li>
 

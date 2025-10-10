@@ -1,7 +1,15 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760106314011,
+  "endTime": 1760107376146,
   "band_list": [
+    {
+      "raw_hot": 8791237,
+      "num": 8791237,
+      "word": "宗馥莉已经辞职",
+      "onboard_time": 1760105843,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 7988861,
       "num": 7988861,
@@ -11,16 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3077539,
-      "num": 3077539,
-      "word": "宗馥莉已经辞职",
-      "onboard_time": 1760105843,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 2249773,
-      "num": 271486,
+      "num": 286013,
       "word": "白鹿说自己得了疑难杂症",
       "onboard_time": 1760100322,
       "rank": 36,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 811955,
-      "num": 271145,
+      "num": 282845,
       "word": "关晓彤少喝点吧",
       "onboard_time": 1760102602,
       "rank": 27,
@@ -289,6 +289,14 @@
       "onboard_time": 1760091261,
       "rank": 21,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 716262,
+      "num": 716262,
+      "word": "宗馥莉将独立经营娃小宗",
+      "onboard_time": 1760106863,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 704812,
@@ -361,6 +369,14 @@
       "onboard_time": 1760082022,
       "rank": 15,
       "category": "网红"
+    },
+    {
+      "raw_hot": 637372,
+      "num": 280290,
+      "word": "王青回应",
+      "onboard_time": 1760106925,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 629924,
@@ -683,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 335752,
+      "num": 335752,
+      "word": "脚踢2学生小学老师被辞退",
+      "onboard_time": 1760104462,
+      "rank": 7,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 325249,
       "num": 325249,
       "word": "957结婚",
@@ -739,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 312660,
+      "num": 312660,
+      "word": "宗馥莉 娃哈哈",
+      "onboard_time": 1760106324,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311046,
       "num": 167827,
       "word": "石原里美3年生2娃",
@@ -779,20 +811,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 294582,
-      "num": 294582,
-      "word": "脚踢2学生小学老师被辞退",
-      "onboard_time": 1760104462,
-      "rank": 7,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 289418,
       "num": 231450,
       "word": "张檬回应晚上不带孩子",
       "onboard_time": 1760052319,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286730,
+      "num": 286730,
+      "word": "娃哈哈回应宗馥莉辞职属实",
+      "onboard_time": 1760106443,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 279971,
@@ -905,6 +937,14 @@
       "onboard_time": 1760095460,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242067,
+      "num": 242067,
+      "word": "中方一个个点名多个国家劣迹",
+      "onboard_time": 1760106203,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 240290,
@@ -1587,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146517,
+      "num": 146517,
+      "word": "清融女娲",
+      "onboard_time": 1760106383,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146447,
       "num": 146447,
       "word": "专家评必须注意石破茂讲话局限性",
@@ -1665,6 +1713,14 @@
       "onboard_time": 1760078181,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140424,
+      "num": 140424,
+      "word": "张柏芝蓝色美瞳怼脸照",
+      "onboard_time": 1760107045,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 140128,
@@ -1833,6 +1889,14 @@
       "onboard_time": 1760103741,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132689,
+      "num": 132689,
+      "word": "盘锦一养殖户数万斤罗氏虾一夜冻死",
+      "onboard_time": 1760107225,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132118,
@@ -2027,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126527,
+      "num": 126527,
+      "word": "孙怡出门工作都要担心孩子",
+      "onboard_time": 1760106684,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126430,
       "num": 126430,
       "word": "侯明昊吃惊这一下不像演的",
@@ -2057,14 +2129,6 @@
       "onboard_time": 1760090001,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125140,
-      "num": 125140,
-      "word": "中方一个个点名多个国家劣迹",
-      "onboard_time": 1760106203,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 125124,
@@ -2235,6 +2299,14 @@
       "category": "汽车,民生新闻"
     },
     {
+      "raw_hot": 120354,
+      "num": 120354,
+      "word": "00花尝试的角色一个比一个狠",
+      "onboard_time": 1760107345,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120352,
       "num": 127604,
       "word": "杨紫开心入围剧综人物",
@@ -2355,6 +2427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 116514,
+      "num": 116514,
+      "word": "成龙贝克汉姆NBA中国赛同框",
+      "onboard_time": 1760103624,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116380,
       "num": 123377,
       "word": "Cat转型教练",
@@ -2465,14 +2545,6 @@
       "onboard_time": 1760071102,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112067,
-      "num": 112067,
-      "word": "成龙贝克汉姆NBA中国赛同框",
-      "onboard_time": 1760103624,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 112048,
@@ -3411,6 +3483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 46669,
+      "num": 202984,
+      "word": "幼师因地贫基因被前夫举报后遭解聘",
+      "onboard_time": 1760107225,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46366,
       "num": 99007,
       "word": "吴磊背着网球拍机场出发",
@@ -3425,6 +3505,14 @@
       "onboard_time": 1760094681,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 45656,
+      "num": 270436,
+      "word": "肖战秋冬居家ootd",
+      "onboard_time": 1760103263,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 43125,
@@ -3449,14 +3537,6 @@
       "onboard_time": 1760014762,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42168,
-      "num": 270436,
-      "word": "肖战秋冬居家ootd",
-      "onboard_time": 1760103263,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 42098,
@@ -3571,6 +3651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30185,
+      "num": 269651,
+      "word": "菲律宾地震至少7人死亡",
+      "onboard_time": 1760106024,
+      "rank": 23,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 30091,
       "num": 160264,
       "word": "菲律宾发布海啸预警",
@@ -3579,20 +3667,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 29263,
-      "num": 269651,
-      "word": "菲律宾地震至少7人死亡",
-      "onboard_time": 1760106024,
-      "rank": 23,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 29096,
       "num": 183280,
       "word": "季前赛龙狮不敌快船",
       "onboard_time": 1760077042,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28365,
+      "num": 133272,
+      "word": "广西百色多个村庄被淹多日积水未退",
+      "onboard_time": 1760106203,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27377,
@@ -3736,14 +3824,6 @@
       "word": "当地回应轿车坠海致1死",
       "onboard_time": 1760043433,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7237,
-      "num": 131476,
-      "word": "广西百色多个村庄被淹多日积水未退",
-      "onboard_time": 1760106203,
-      "rank": 39,
       "category": "民生新闻"
     },
     {

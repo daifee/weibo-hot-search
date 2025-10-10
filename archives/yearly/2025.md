@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/10/10 22:25:14
+本榜单时间：2025/01/01 00:26:38 ~ 2025/10/10 22:42:56
 </p>
 </blockquote>
 <p>
@@ -1167,6 +1167,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E5%B7%B2%E7%BB%8F%E8%BE%9E%E8%81%8C%23" target="weibo">
+宗馥莉已经辞职（热度：8791237）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%96%B9%E7%A7%B0%E4%BA%AB%E6%9C%89%E5%B9%B4%E8%BD%AE%E6%B0%B8%E4%B9%85%E6%BC%94%E5%94%B1%E6%9D%83%E5%88%A9%23" target="weibo">
 张碧晨方称享有年轮永久演唱权利（热度：8778816）
 </a>
@@ -1805,12 +1811,6 @@ ALin秒了（热度：6171972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%87%8D%E5%BA%86%E8%B5%9B%E5%A4%BA%E5%86%A0%23" target="weibo">
 王楚钦重庆赛夺冠（热度：4703448）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E9%99%88%E5%A6%8D%E5%B8%8C%20%E4%BB%8A%E5%90%8E%E5%90%84%E8%87%AA%E5%AE%89%E5%A5%BD%23" target="weibo">
-陈晓陈妍希 今后各自安好（热度：4677462）
 </a>
 </li>
 
