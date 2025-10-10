@@ -1,6 +1,6 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760081087674,
+  "endTime": 1760081901782,
   "band_list": [
     {
       "raw_hot": 1603596,
@@ -41,6 +41,14 @@
       "onboard_time": 1760061019,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1007935,
+      "num": 1161269,
+      "word": "王暖暖成功离婚",
+      "onboard_time": 1760081540,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 933191,
@@ -91,20 +99,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 843326,
+      "num": 256080,
+      "word": "英皇欠债派惠英红老太勇夺高奢",
+      "onboard_time": 1760076741,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 832392,
-      "num": 180307,
+      "num": 255658,
       "word": "董璇张维伊0人祝福1人尊重",
       "onboard_time": 1760075481,
       "rank": 23,
       "category": "综艺"
     },
     {
-      "raw_hot": 825266,
-      "num": 182128,
-      "word": "英皇欠债派惠英红老太勇夺高奢",
-      "onboard_time": 1760076741,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 797712,
+      "num": 797712,
+      "word": "泰国孕妇坠崖案受害人离婚案宣判",
+      "onboard_time": 1760080701,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 786563,
@@ -139,8 +155,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 695264,
+      "num": 212514,
+      "word": "娱乐圈的顶级公关",
+      "onboard_time": 1760077042,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 695130,
-      "num": 403688,
+      "num": 517440,
       "word": "香港顶级豪宅命案",
       "onboard_time": 1760075663,
       "rank": 3,
@@ -179,16 +203,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 633043,
-      "num": 161832,
-      "word": "娱乐圈的顶级公关",
-      "onboard_time": 1760077042,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 620006,
-      "num": 177841,
+      "num": 212494,
       "word": "宁艺卓 alo",
       "onboard_time": 1760077462,
       "rank": 26,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 495174,
-      "num": 211987,
+      "num": 231724,
       "word": "我雷这对CP",
       "onboard_time": 1760075061,
       "rank": 12,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 464771,
-      "num": 223157,
+      "num": 254949,
       "word": "奶奶节俭了一辈子最后栽豆汁身上了",
       "onboard_time": 1760075121,
       "rank": 14,
@@ -313,6 +329,14 @@
       "onboard_time": 1760052319,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 430010,
+      "num": 430010,
+      "word": "男孩被戳伤左眼老师涂猪油消肿致感染",
+      "onboard_time": 1760077343,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 422862,
@@ -353,14 +377,6 @@
       "onboard_time": 1760025439,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 375593,
-      "num": 375593,
-      "word": "男孩被戳伤左眼老师涂猪油消肿致感染",
-      "onboard_time": 1760077343,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 352017,
@@ -475,12 +491,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258369,
+      "num": 258369,
+      "word": "王暖暖前夫被判赔50万",
+      "onboard_time": 1760081001,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254972,
       "num": 254972,
       "word": "故宫同一片天空看到泪目",
       "onboard_time": 1760054121,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 252983,
+      "num": 252983,
+      "word": "英雄联盟S15",
+      "onboard_time": 1760079981,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 249798,
@@ -555,14 +587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210983,
-      "num": 210983,
-      "word": "英雄联盟S15",
-      "onboard_time": 1760079981,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 205887,
       "num": 205887,
       "word": "国庆宅家8天黄金净赚近1万元",
@@ -585,6 +609,14 @@
       "onboard_time": 1760073261,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200865,
+      "num": 200865,
+      "word": "王楚钦故宫大片",
+      "onboard_time": 1760081841,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 199648,
@@ -652,7 +684,7 @@
     },
     {
       "raw_hot": 186534,
-      "num": 271068,
+      "num": 322819,
       "word": "生命树发布预告",
       "onboard_time": 1760070801,
       "rank": 8,
@@ -683,12 +715,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174798,
+      "num": 174798,
+      "word": "王鹤润居然是知否里的华兰",
+      "onboard_time": 1760081121,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172341,
       "num": 172341,
       "word": "故宫的春夏秋冬一眼惊艳",
       "onboard_time": 1760063119,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167131,
+      "num": 167131,
+      "word": "内娱又有自己的中年玄幻爱情了",
+      "onboard_time": 1760081423,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 166762,
@@ -771,11 +819,35 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154267,
+      "num": 154267,
+      "word": "迪丽热巴入围剧综人物",
+      "onboard_time": 1760080642,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151761,
       "num": 151761,
       "word": "菲律宾海啸预计高出1米",
       "onboard_time": 1760065039,
       "rank": 35,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 150761,
+      "num": 150761,
+      "word": "男搭子向高反失温女孩母亲道歉",
+      "onboard_time": 1760080820,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143873,
+      "num": 143873,
+      "word": "强生爽身粉致癌更多证据公布",
+      "onboard_time": 1760077343,
+      "rank": 39,
       "category": "海外新闻"
     },
     {
@@ -817,6 +889,14 @@
       "onboard_time": 1760058741,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138661,
+      "num": 138661,
+      "word": "张远王霏霏路过的都要嗑一口",
+      "onboard_time": 1760081180,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 138243,
@@ -883,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131587,
+      "num": 131587,
+      "word": "孙颖莎王楚钦7年前夺冠画面",
+      "onboard_time": 1760081721,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131420,
       "num": 131420,
       "word": "昀牵孟绕连入围都出双入对",
@@ -921,14 +1009,6 @@
       "onboard_time": 1760068820,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 127776,
-      "num": 127776,
-      "word": "迪丽热巴入围剧综人物",
-      "onboard_time": 1760080642,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 127646,
@@ -1025,14 +1105,6 @@
       "onboard_time": 1760064800,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123733,
-      "num": 123733,
-      "word": "王暖暖前夫被判赔50万",
-      "onboard_time": 1760081001,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123531,
@@ -1147,14 +1219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117177,
-      "num": 255619,
-      "word": "泰国孕妇坠崖案受害人离婚案宣判",
-      "onboard_time": 1760080701,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116353,
       "num": 116353,
       "word": "我已经把眼睛睁到最大了 雷军",
@@ -1171,6 +1235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115795,
+      "num": 115795,
+      "word": "日本公明党将脱离执政联盟",
+      "onboard_time": 1760081662,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115245,
       "num": 115245,
       "word": "多邻国动画化",
@@ -1185,6 +1257,14 @@
       "onboard_time": 1760064919,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 113364,
+      "num": 113364,
+      "word": "王楚钦 时装男士",
+      "onboard_time": 1760081721,
+      "rank": 41,
+      "category": "体育,时尚"
     },
     {
       "raw_hot": 112440,
@@ -1209,14 +1289,6 @@
       "onboard_time": 1760072063,
       "rank": 39,
       "category": "美食"
-    },
-    {
-      "raw_hot": 111747,
-      "num": 112490,
-      "word": "强生爽身粉致癌更多证据公布",
-      "onboard_time": 1760077343,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 111702,
@@ -1257,6 +1329,14 @@
       "onboard_time": 1760075421,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109867,
+      "num": 109867,
+      "word": "李庚希新剧老公是狂飙疯驴子",
+      "onboard_time": 1760081781,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 109372,
@@ -1308,7 +1388,7 @@
     },
     {
       "raw_hot": 106961,
-      "num": 213229,
+      "num": 236765,
       "word": "全新OriginOS6发布",
       "onboard_time": 1760078540,
       "rank": 14,
@@ -1451,14 +1531,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 92836,
-      "num": 113118,
-      "word": "男搭子向高反失温女孩母亲道歉",
-      "onboard_time": 1760080820,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90731,
       "num": 90731,
       "word": "藏海传总收视率超过6%",
@@ -1555,20 +1627,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 81593,
+      "num": 249687,
+      "word": "中国篮协与NBA达成战略合作",
+      "onboard_time": 1760079741,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81069,
       "num": 81069,
       "word": "拍八虚拍到猫咪的麻筋上了",
       "onboard_time": 1760060000,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 80845,
-      "num": 212488,
-      "word": "中国篮协与NBA达成战略合作",
-      "onboard_time": 1760079741,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 77268,
@@ -2167,6 +2239,14 @@
       "num": 830670,
       "word": "2025中秋国庆假期名场面",
       "onboard_time": 1759974320,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 3574,
+      "num": 698230,
+      "word": "千年永定润北京",
+      "onboard_time": 1760081121,
       "rank": 2,
       "category": "民生新闻"
     }
