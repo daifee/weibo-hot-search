@@ -1,6 +1,6 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760092984793,
+  "endTime": 1760095354579,
   "band_list": [
     {
       "raw_hot": 7988861,
@@ -41,6 +41,14 @@
       "onboard_time": 1760070801,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1189567,
+      "num": 252992,
+      "word": "陈伟霆 早期baby严选的权威性",
+      "onboard_time": 1760091441,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 1134482,
@@ -97,6 +105,14 @@
       "onboard_time": 1760050996,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 871582,
+      "num": 1139453,
+      "word": "日本母亲杀死女儿冰箱藏尸20年",
+      "onboard_time": 1760090840,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 861616,
@@ -203,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 672253,
-      "num": 252992,
-      "word": "陈伟霆 早期baby严选的权威性",
-      "onboard_time": 1760091441,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 669246,
       "num": 669246,
       "word": "北方暴雨冷到破纪录",
@@ -315,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 536517,
+      "num": 184064,
+      "word": "向华强发声明回应向家破产",
+      "onboard_time": 1760094201,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 530300,
       "num": 334717,
       "word": "一家三口被撞死案目击者发声",
@@ -337,6 +353,14 @@
       "onboard_time": 1760021902,
       "rank": 1,
       "category": "动漫,休闲"
+    },
+    {
+      "raw_hot": 495646,
+      "num": 495646,
+      "word": "人唯一不会长大的器官",
+      "onboard_time": 1760091261,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 495174,
@@ -459,28 +483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 386876,
-      "num": 386876,
-      "word": "日本母亲杀死女儿冰箱藏尸20年",
-      "onboard_time": 1760090840,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 384417,
       "num": 222540,
       "word": "卢昱晓演技",
       "onboard_time": 1760025439,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 371205,
-      "num": 371205,
-      "word": "人唯一不会长大的器官",
-      "onboard_time": 1760091261,
-      "rank": 21,
-      "category": "科学科普"
     },
     {
       "raw_hot": 369553,
@@ -611,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284275,
+      "num": 284275,
+      "word": "王暖暖前夫曾通过律师问能分多少财产",
+      "onboard_time": 1760091020,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274782,
       "num": 176481,
       "word": "高反失温女孩年仅20岁刚毕业",
@@ -627,6 +643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 265680,
+      "num": 181339,
+      "word": "资助了6年的妹妹第一笔工资给了我",
+      "onboard_time": 1760092941,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 264001,
       "num": 230802,
       "word": "谢兴阳怎么了",
@@ -640,6 +664,14 @@
       "word": "恭喜王暖暖",
       "onboard_time": 1760085142,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259650,
+      "num": 259650,
+      "word": "王暖暖离婚案推动制度进步",
+      "onboard_time": 1760093302,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -673,6 +705,14 @@
       "onboard_time": 1760079981,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 251709,
+      "num": 180209,
+      "word": "少司缘新皮肤",
+      "onboard_time": 1760092881,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 249798,
@@ -811,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200542,
+      "num": 262454,
+      "word": "小谢称王暖暖用4年血泪换来重生",
+      "onboard_time": 1760091623,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199648,
       "num": 175879,
       "word": "苏新皓带伤彩排转身即心痛舞台",
@@ -915,6 +963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185829,
+      "num": 185829,
+      "word": "DRG对战KSG",
+      "onboard_time": 1760094561,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185622,
       "num": 261183,
       "word": "NS战胜WBG",
@@ -995,14 +1051,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170253,
-      "num": 262454,
-      "word": "小谢称王暖暖用4年血泪换来重生",
-      "onboard_time": 1760091623,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168783,
       "num": 168783,
       "word": "咪不要看 是黑图",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1760082863,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163355,
+      "num": 137097,
+      "word": "肝癌更容易找上3类人",
+      "onboard_time": 1760093600,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 163128,
@@ -1139,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153607,
+      "num": 153607,
+      "word": "看似普通实则很危险的厨房行为",
+      "onboard_time": 1760094262,
+      "rank": 25,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 151923,
       "num": 151923,
       "word": "男搭子向高反失温女孩母亲道歉",
@@ -1187,6 +1251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145434,
+      "num": 145434,
+      "word": "微博V影响力大会嘉宾阵容揭晓",
+      "onboard_time": 1760094081,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 143873,
       "num": 143873,
       "word": "强生爽身粉致癌更多证据公布",
@@ -1233,14 +1305,6 @@
       "onboard_time": 1760078181,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140890,
-      "num": 247912,
-      "word": "王暖暖前夫曾通过律师问能分多少财产",
-      "onboard_time": 1760091020,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140128,
@@ -1411,6 +1475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130553,
+      "num": 130553,
+      "word": "女子自学割眼袋做手术致1人失明",
+      "onboard_time": 1760089820,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129936,
       "num": 129936,
       "word": "李沁越素越惊艳",
@@ -1425,14 +1497,6 @@
       "onboard_time": 1760083221,
       "rank": 34,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 129751,
-      "num": 129751,
-      "word": "少司缘新皮肤",
-      "onboard_time": 1760092881,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 129618,
@@ -1747,20 +1811,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119026,
-      "num": 119026,
-      "word": "女子自学割眼袋做手术致1人失明",
-      "onboard_time": 1760089820,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118586,
       "num": 118586,
       "word": "王楚钦迎来首本五大男刊",
       "onboard_time": 1760084781,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118413,
+      "num": 118413,
+      "word": "在鹤岗定居10个月后的真实感受",
+      "onboard_time": 1760093241,
+      "rank": 41,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 118266,
@@ -1947,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110278,
+      "num": 110278,
+      "word": "第五人格赛事",
+      "onboard_time": 1760094501,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110113,
       "num": 110113,
       "word": "全国通办婚姻登记26.3万余对",
@@ -1969,6 +2041,14 @@
       "onboard_time": 1760092400,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109631,
+      "num": 109631,
+      "word": "全运乒乓球难度超奥运",
+      "onboard_time": 1760094681,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 109372,
@@ -2107,6 +2187,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 101084,
+      "num": 101084,
+      "word": "王影璐演技",
+      "onboard_time": 1760093122,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100735,
       "num": 100735,
       "word": "宴遇永安",
@@ -2185,14 +2273,6 @@
       "onboard_time": 1760074822,
       "rank": 46,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 95492,
-      "num": 95492,
-      "word": "资助了6年的妹妹第一笔工资给了我",
-      "onboard_time": 1760092941,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 94274,
@@ -2467,6 +2547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69442,
+      "num": 118978,
+      "word": "Cat转型教练",
+      "onboard_time": 1760094921,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 68571,
       "num": 116431,
       "word": "孙颖莎印度风训练音乐",
@@ -2523,6 +2611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60382,
+      "num": 179015,
+      "word": "荣耀Magic8夜神强上天",
+      "onboard_time": 1760094322,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 60232,
       "num": 118277,
       "word": "节后错峰出游的大聪明赚到了",
@@ -2577,6 +2673,14 @@
       "onboard_time": 1760078362,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 54945,
+      "num": 94117,
+      "word": "沈腾携明星天团送免单",
+      "onboard_time": 1760094322,
+      "rank": 49,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 54275,
@@ -2731,6 +2835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46043,
+      "num": 137139,
+      "word": "国庆假期飞猪机酒单量创新高",
+      "onboard_time": 1760094681,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 43125,
       "num": 98971,
       "word": "猫猫 人不吃的话猫可以吃吗",
@@ -2745,6 +2857,14 @@
       "onboard_time": 1760014762,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42338,
+      "num": 119098,
+      "word": "鞠婧祎基础 助理就不基础",
+      "onboard_time": 1760094621,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 42098,
@@ -2889,6 +3009,14 @@
       "onboard_time": 1760031556,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23050,
+      "num": 119336,
+      "word": "直播间童星角色内推最高收费达百万",
+      "onboard_time": 1760094561,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19038,

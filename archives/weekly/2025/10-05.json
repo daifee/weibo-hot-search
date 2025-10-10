@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1760092984793,
+  "endTime": 1760095354579,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -433,6 +433,14 @@
       "onboard_time": 1759913481,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1189567,
+      "num": 252992,
+      "word": "陈伟霆 早期baby严选的权威性",
+      "onboard_time": 1760091441,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 1179374,
@@ -873,6 +881,14 @@
       "onboard_time": 1760050996,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 871582,
+      "num": 1139453,
+      "word": "日本母亲杀死女儿冰箱藏尸20年",
+      "onboard_time": 1760090840,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 863881,
@@ -1329,14 +1345,6 @@
       "onboard_time": 1759649900,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 672253,
-      "num": 252992,
-      "word": "陈伟霆 早期baby严选的权威性",
-      "onboard_time": 1760091441,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 669246,
@@ -1915,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 536517,
+      "num": 184064,
+      "word": "向华强发声明回应向家破产",
+      "onboard_time": 1760094201,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533884,
       "num": 216049,
       "word": "向太回应郭碧婷回娘家长住",
@@ -2169,6 +2185,14 @@
       "onboard_time": 1759754544,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 495646,
+      "num": 495646,
+      "word": "人唯一不会长大的器官",
+      "onboard_time": 1760091261,
+      "rank": 21,
+      "category": "科学科普"
     },
     {
       "raw_hot": 495174,
@@ -3003,14 +3027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 386876,
-      "num": 386876,
-      "word": "日本母亲杀死女儿冰箱藏尸20年",
-      "onboard_time": 1760090840,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 385478,
       "num": 385478,
       "word": "诺贝尔",
@@ -3177,14 +3193,6 @@
       "onboard_time": 1759898422,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 371205,
-      "num": 371205,
-      "word": "人唯一不会长大的器官",
-      "onboard_time": 1760091261,
-      "rank": 21,
-      "category": "科学科普"
     },
     {
       "raw_hot": 370639,
@@ -4179,6 +4187,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 284275,
+      "num": 284275,
+      "word": "王暖暖前夫曾通过律师问能分多少财产",
+      "onboard_time": 1760091020,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284196,
       "num": 333037,
       "word": "苏超",
@@ -4475,6 +4491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265680,
+      "num": 181339,
+      "word": "资助了6年的妹妹第一笔工资给了我",
+      "onboard_time": 1760092941,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 264001,
       "num": 230802,
       "word": "谢兴阳怎么了",
@@ -4553,6 +4577,14 @@
       "onboard_time": 1759974559,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 259650,
+      "num": 259650,
+      "word": "王暖暖离婚案推动制度进步",
+      "onboard_time": 1760093302,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259573,
@@ -4689,6 +4721,14 @@
       "onboard_time": 1759716681,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251709,
+      "num": 180209,
+      "word": "少司缘新皮肤",
+      "onboard_time": 1760092881,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 251702,
@@ -5771,6 +5811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200542,
+      "num": 262454,
+      "word": "小谢称王暖暖用4年血泪换来重生",
+      "onboard_time": 1760091623,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199648,
       "num": 175879,
       "word": "苏新皓带伤彩排转身即心痛舞台",
@@ -6433,6 +6481,14 @@
       "onboard_time": 1759982240,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185829,
+      "num": 185829,
+      "word": "DRG对战KSG",
+      "onboard_time": 1760094561,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 185622,
@@ -7307,14 +7363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170253,
-      "num": 262454,
-      "word": "小谢称王暖暖用4年血泪换来重生",
-      "onboard_time": 1760091623,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170178,
       "num": 170178,
       "word": "百花杀",
@@ -7681,6 +7729,14 @@
       "onboard_time": 1760082863,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163355,
+      "num": 137097,
+      "word": "肝癌更容易找上3类人",
+      "onboard_time": 1760093600,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 163307,
@@ -8323,6 +8379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153607,
+      "num": 153607,
+      "word": "看似普通实则很危险的厨房行为",
+      "onboard_time": 1760094262,
+      "rank": 25,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 153501,
       "num": 153501,
       "word": "长期不用的银行卡一定要注销",
@@ -8867,6 +8931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145434,
+      "num": 145434,
+      "word": "微博V影响力大会嘉宾阵容揭晓",
+      "onboard_time": 1760094081,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 145417,
       "num": 145417,
       "word": "穆祉丞手写信",
@@ -9145,14 +9217,6 @@
       "onboard_time": 1759664183,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140890,
-      "num": 247912,
-      "word": "王暖暖前夫曾通过律师问能分多少财产",
-      "onboard_time": 1760091020,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 140623,
@@ -10219,6 +10283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130553,
+      "num": 130553,
+      "word": "女子自学割眼袋做手术致1人失明",
+      "onboard_time": 1760089820,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130505,
       "num": 130505,
       "word": "一觉醒来寒露来了",
@@ -10257,14 +10329,6 @@
       "onboard_time": 1759724001,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129751,
-      "num": 129751,
-      "word": "少司缘新皮肤",
-      "onboard_time": 1760092881,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 129651,
@@ -11419,14 +11483,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 119026,
-      "num": 119026,
-      "word": "女子自学割眼袋做手术致1人失明",
-      "onboard_time": 1760089820,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118796,
       "num": 118796,
       "word": "原来这就是吃尽了红利的松弛感",
@@ -11481,6 +11537,14 @@
       "onboard_time": 1759894220,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118413,
+      "num": 118413,
+      "word": "在鹤岗定居10个月后的真实感受",
+      "onboard_time": 1760093241,
+      "rank": 41,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 118381,
@@ -12595,6 +12659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110278,
+      "num": 110278,
+      "word": "第五人格赛事",
+      "onboard_time": 1760094501,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110262,
       "num": 319423,
       "word": "中国科学家造出现实版诺亚方舟",
@@ -12745,6 +12817,14 @@
       "onboard_time": 1759900040,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109631,
+      "num": 109631,
+      "word": "全运乒乓球难度超奥运",
+      "onboard_time": 1760094681,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 109615,
@@ -13867,6 +13947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101084,
+      "num": 101084,
+      "word": "王影璐演技",
+      "onboard_time": 1760093122,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101074,
       "num": 101074,
       "word": "100块和1000块美甲的区别",
@@ -14593,14 +14681,6 @@
       "onboard_time": 1759987820,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 95492,
-      "num": 95492,
-      "word": "资助了6年的妹妹第一笔工资给了我",
-      "onboard_time": 1760092941,
-      "rank": 49,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 95402,
@@ -16963,6 +17043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69442,
+      "num": 118978,
+      "word": "Cat转型教练",
+      "onboard_time": 1760094921,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 68946,
       "num": 128502,
       "word": "杨瀚森走步",
@@ -17315,6 +17403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 60382,
+      "num": 179015,
+      "word": "荣耀Magic8夜神强上天",
+      "onboard_time": 1760094322,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 60232,
       "num": 118277,
       "word": "节后错峰出游的大聪明赚到了",
@@ -17585,6 +17681,14 @@
       "onboard_time": 1759972880,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54945,
+      "num": 94117,
+      "word": "沈腾携明星天团送免单",
+      "onboard_time": 1760094322,
+      "rank": 49,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 54783,
@@ -18043,6 +18147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46043,
+      "num": 137139,
+      "word": "国庆假期飞猪机酒单量创新高",
+      "onboard_time": 1760094681,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 45508,
       "num": 242513,
       "word": "猫人暖绒绒家居服松弛感穿搭",
@@ -18137,6 +18249,14 @@
       "onboard_time": 1759734020,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42338,
+      "num": 119098,
+      "word": "鞠婧祎基础 助理就不基础",
+      "onboard_time": 1760094621,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 42098,
@@ -18816,6 +18936,14 @@
       "word": "景区回应游客坐滑道遇蛇从腿下穿过",
       "onboard_time": 1759954454,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23050,
+      "num": 119336,
+      "word": "直播间童星角色内推最高收费达百万",
+      "onboard_time": 1760094561,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
