@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760092074069,
+  "endTime": 1760092984793,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -2259,12 +2259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 672253,
+      "num": 252992,
+      "word": "陈伟霆 早期baby严选的权威性",
+      "onboard_time": 1760091441,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 670385,
       "num": 238574,
       "word": "迪丽热巴邝玲玲Orm同框",
       "onboard_time": 1759328721,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 669246,
+      "num": 669246,
+      "word": "北方暴雨冷到破纪录",
+      "onboard_time": 1760086402,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 668693,
@@ -2785,14 +2801,6 @@
       "onboard_time": 1759464321,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 595021,
-      "num": 595021,
-      "word": "北方暴雨冷到破纪录",
-      "onboard_time": 1760086402,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 594805,
@@ -5019,6 +5027,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 386876,
+      "num": 386876,
+      "word": "日本母亲杀死女儿冰箱藏尸20年",
+      "onboard_time": 1760090840,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 385478,
       "num": 385478,
       "word": "诺贝尔",
@@ -5291,6 +5307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 371205,
+      "num": 371205,
+      "word": "人唯一不会长大的器官",
+      "onboard_time": 1760091261,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 370877,
       "num": 329397,
       "word": "金价太高有人囤金条为两儿子打算",
@@ -5329,6 +5353,14 @@
       "onboard_time": 1759900341,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 369553,
+      "num": 250818,
+      "word": "王源 脑子和身体对了一晚上账",
+      "onboard_time": 1760088622,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 369063,
@@ -5464,14 +5496,6 @@
       "word": "张艺兴鸟巢演唱会巨型画卷",
       "onboard_time": 1759756703,
       "rank": 16,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 356997,
-      "num": 220137,
-      "word": "王源 脑子和身体对了一晚上账",
-      "onboard_time": 1760088622,
-      "rank": 39,
       "category": "演出"
     },
     {
@@ -5665,6 +5689,14 @@
       "onboard_time": 1759285759,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 345966,
+      "num": 247018,
+      "word": "白鹿杀青",
+      "onboard_time": 1760087900,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 345471,
@@ -6204,7 +6236,7 @@
     },
     {
       "raw_hot": 316553,
-      "num": 198922,
+      "num": 241087,
       "word": "无效早餐",
       "onboard_time": 1760087961,
       "rank": 46,
@@ -6539,14 +6571,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 301184,
-      "num": 218967,
-      "word": "白鹿杀青",
-      "onboard_time": 1760087900,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 300561,
       "num": 202785,
       "word": "阿维塔自燃后厂家回应",
@@ -6761,14 +6785,6 @@
       "onboard_time": 1759819519,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 290644,
-      "num": 218359,
-      "word": "陈伟霆 早期baby严选的权威性",
-      "onboard_time": 1760091441,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 290364,
@@ -7803,14 +7819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 250476,
-      "num": 198446,
-      "word": "人唯一不会长大的器官",
-      "onboard_time": 1760091261,
-      "rank": 21,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 250240,
       "num": 250240,
       "word": "以色列发出警告",
@@ -7916,7 +7924,7 @@
     },
     {
       "raw_hot": 247758,
-      "num": 193066,
+      "num": 228795,
       "word": "高市早苗或无法成为日本首相",
       "onboard_time": 1760090120,
       "rank": 22,
@@ -10820,7 +10828,7 @@
     },
     {
       "raw_hot": 185622,
-      "num": 236574,
+      "num": 261183,
       "word": "NS战胜WBG",
       "onboard_time": 1760090481,
       "rank": 6,
@@ -11715,6 +11723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175213,
+      "num": 175213,
+      "word": "侯明昊给卢昱晓戴头纱",
+      "onboard_time": 1760091861,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175060,
       "num": 175060,
       "word": "薛之谦听到了",
@@ -12097,6 +12113,14 @@
       "onboard_time": 1759497621,
       "rank": 18,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 170253,
+      "num": 262454,
+      "word": "小谢称王暖暖用4年血泪换来重生",
+      "onboard_time": 1760091623,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170178,
@@ -13251,14 +13275,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 158505,
-      "num": 223064,
-      "word": "小谢称王暖暖用4年血泪换来重生",
-      "onboard_time": 1760091623,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158199,
       "num": 158199,
       "word": "新能源车购税减免门槛进一步提高",
@@ -13312,6 +13328,14 @@
       "word": "张凌赫拍毕业照打了女生领结",
       "onboard_time": 1759664902,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 157474,
+      "num": 157474,
+      "word": "郭俊辰工作室声明",
+      "onboard_time": 1760091500,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -14099,6 +14123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149813,
+      "num": 149813,
+      "word": "19岁的蔡依林在纽约时代广场",
+      "onboard_time": 1760091202,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149559,
       "num": 149559,
       "word": "李一桐 我那体制内女友",
@@ -14185,6 +14217,14 @@
       "onboard_time": 1759922961,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148557,
+      "num": 245404,
+      "word": "Letme力挺小虎",
+      "onboard_time": 1760092100,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 148552,
@@ -14627,14 +14667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145302,
-      "num": 145302,
-      "word": "郭俊辰工作室声明",
-      "onboard_time": 1760091500,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145223,
       "num": 145223,
       "word": "檀健次主演电影票房破10亿",
@@ -15075,14 +15107,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 141131,
-      "num": 141131,
-      "word": "日本母亲杀死女儿冰箱藏尸20年",
-      "onboard_time": 1760090840,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 141068,
       "num": 141068,
       "word": "狐妖小红娘黄风岭篇备案",
@@ -15129,6 +15153,14 @@
       "onboard_time": 1759664183,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140890,
+      "num": 247912,
+      "word": "王暖暖前夫曾通过律师问能分多少财产",
+      "onboard_time": 1760091020,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140878,
@@ -16251,6 +16283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134067,
+      "num": 134067,
+      "word": "黄岩岛附近查获近5吨毒品",
+      "onboard_time": 1760091623,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133970,
       "num": 133970,
       "word": "吴邪私家笔记",
@@ -16923,6 +16963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129751,
+      "num": 129751,
+      "word": "少司缘新皮肤",
+      "onboard_time": 1760092881,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129651,
       "num": 129651,
       "word": "张帅武网开门红",
@@ -16937,14 +16985,6 @@
       "onboard_time": 1760064980,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129579,
-      "num": 129579,
-      "word": "黄岩岛附近查获近5吨毒品",
-      "onboard_time": 1760091623,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129539,
@@ -16969,6 +17009,14 @@
       "onboard_time": 1759639580,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129498,
+      "num": 129498,
+      "word": "中美再掰手腕互相出王炸",
+      "onboard_time": 1760090781,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 129445,
@@ -17041,14 +17089,6 @@
       "onboard_time": 1759329021,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128999,
-      "num": 128999,
-      "word": "19岁的蔡依林在纽约时代广场",
-      "onboard_time": 1760091202,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 128924,
@@ -17481,6 +17521,14 @@
       "onboard_time": 1759571719,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126092,
+      "num": 126092,
+      "word": "留学中介现状",
+      "onboard_time": 1760090840,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 126082,
@@ -18297,14 +18345,6 @@
       "onboard_time": 1759417403,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121333,
-      "num": 121333,
-      "word": "中美再掰手腕互相出王炸",
-      "onboard_time": 1760090781,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 121233,
@@ -19323,14 +19363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115827,
-      "num": 115827,
-      "word": "侯明昊给卢昱晓戴头纱",
-      "onboard_time": 1760091861,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115825,
       "num": 115825,
       "word": "王楚钦中秋限定月饼海报",
@@ -19585,6 +19617,14 @@
       "onboard_time": 1759328661,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114445,
+      "num": 114445,
+      "word": "原来大学只比高三少学2小时",
+      "onboard_time": 1760092642,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 114439,
@@ -20083,14 +20123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112190,
-      "num": 112190,
-      "word": "留学中介现状",
-      "onboard_time": 1760090840,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 112164,
       "num": 112164,
       "word": "兰香如故",
@@ -20217,6 +20249,14 @@
       "onboard_time": 1759400061,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111743,
+      "num": 111743,
+      "word": "如果你经常久坐不动",
+      "onboard_time": 1760090421,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 111702,
@@ -20816,6 +20856,14 @@
       "word": "孙茜50斤面拉不动90斤娃抱起就走",
       "onboard_time": 1759642401,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109913,
+      "num": 109913,
+      "word": "郭俊辰从未受到任何威胁控制",
+      "onboard_time": 1760092400,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -22627,6 +22675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 102646,
+      "num": 102646,
+      "word": "穿土点去上班 土生金",
+      "onboard_time": 1760092400,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102616,
       "num": 102616,
       "word": "张艺兴刘宇宁是怎么认识的",
@@ -23377,14 +23433,6 @@
       "onboard_time": 1759848862,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99209,
-      "num": 126296,
-      "word": "王暖暖前夫曾通过律师问能分多少财产",
-      "onboard_time": 1760091020,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99208,
@@ -24265,6 +24313,14 @@
       "onboard_time": 1759572861,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95492,
+      "num": 95492,
+      "word": "资助了6年的妹妹第一笔工资给了我",
+      "onboard_time": 1760092941,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 95413,
@@ -27755,6 +27811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77613,
+      "num": 127003,
+      "word": "8岁女孩练舞下腰双下肢截瘫",
+      "onboard_time": 1760091981,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77562,
       "num": 77562,
       "word": "张天爱大白桃身而为贼我很抱歉",
@@ -28723,6 +28787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68571,
+      "num": 116431,
+      "word": "孙颖莎印度风训练音乐",
+      "onboard_time": 1760092221,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68564,
       "num": 68564,
       "word": "我对世界的态度就宋祖儿这样",
@@ -29041,14 +29113,6 @@
       "onboard_time": 1759706117,
       "rank": 38,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 65166,
-      "num": 127003,
-      "word": "8岁女孩练舞下腰双下肢截瘫",
-      "onboard_time": 1760091981,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 65127,

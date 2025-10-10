@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/10 18:27:54
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/10 18:43:04
 </p>
 </blockquote>
 <p>
@@ -1707,8 +1707,20 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%20%E6%97%A9%E6%9C%9Fbaby%E4%B8%A5%E9%80%89%E7%9A%84%E6%9D%83%E5%A8%81%E6%80%A7%23" target="weibo">
+陈伟霆 早期baby严选的权威性（热度：672253）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%82%9D%E7%8E%B2%E7%8E%B2Orm%E5%90%8C%E6%A1%86%23" target="weibo">
 迪丽热巴邝玲玲Orm同框（热度：670385）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9%E6%9A%B4%E9%9B%A8%E5%86%B7%E5%88%B0%E7%A0%B4%E7%BA%AA%E5%BD%95%23" target="weibo">
+北方暴雨冷到破纪录（热度：669246）
 </a>
 </li>
 
@@ -2099,12 +2111,6 @@ TF四代出道团成员由公司自主决定（热度：610474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E9%A6%99%E7%8E%89%E5%AE%98%E5%AE%A3%E4%B8%8A%E6%81%8B%E7%BB%BC%23" target="weibo">
 唐香玉官宣上恋综（热度：597428）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9%E6%9A%B4%E9%9B%A8%E5%86%B7%E5%88%B0%E7%A0%B4%E7%BA%AA%E5%BD%95%23" target="weibo">
-北方暴雨冷到破纪录（热度：595021）
 </a>
 </li>
 
@@ -3777,6 +3783,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%AF%8D%E4%BA%B2%E6%9D%80%E6%AD%BB%E5%A5%B3%E5%84%BF%E5%86%B0%E7%AE%B1%E8%97%8F%E5%B0%B820%E5%B9%B4%23" target="weibo">
+日本母亲杀死女儿冰箱藏尸20年（热度：386876）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%23" target="weibo">
 诺贝尔（热度：385478）
 </a>
@@ -3981,6 +3993,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%94%AF%E4%B8%80%E4%B8%8D%E4%BC%9A%E9%95%BF%E5%A4%A7%E7%9A%84%E5%99%A8%E5%AE%98%23" target="weibo">
+人唯一不会长大的器官（热度：371205）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%AA%E9%AB%98%E6%9C%89%E4%BA%BA%E5%9B%A4%E9%87%91%E6%9D%A1%E4%B8%BA%E4%B8%A4%E5%84%BF%E5%AD%90%E6%89%93%E7%AE%97%23" target="weibo">
 金价太高有人囤金条为两儿子打算（热度：370877）
 </a>
@@ -4007,6 +4025,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9C%BC%E4%B8%87%E5%B9%B4%20%E6%9D%8E%E7%85%9C%E4%B8%9C%23" target="weibo">
 一眼万年 李煜东（热度：369814）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%20%E8%84%91%E5%AD%90%E5%92%8C%E8%BA%AB%E4%BD%93%E5%AF%B9%E4%BA%86%E4%B8%80%E6%99%9A%E4%B8%8A%E8%B4%A6%23" target="weibo">
+王源 脑子和身体对了一晚上账（热度：369553）
 </a>
 </li>
 
@@ -4109,12 +4133,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B7%A8%E5%9E%8B%E7%94%BB%E5%8D%B7%23" target="weibo">
 张艺兴鸟巢演唱会巨型画卷（热度：358257）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%20%E8%84%91%E5%AD%90%E5%92%8C%E8%BA%AB%E4%BD%93%E5%AF%B9%E4%BA%86%E4%B8%80%E6%99%9A%E4%B8%8A%E8%B4%A6%23" target="weibo">
-王源 脑子和身体对了一晚上账（热度：356997）
 </a>
 </li>
 
@@ -4259,6 +4277,12 @@ WBG零封DK（热度：347907）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E7%94%B7%E5%9B%A2%E5%9C%A8%E6%B9%96%E5%8D%97%E7%A7%8B%E6%99%9A%E4%B8%89%E4%BB%A3%E5%90%8C%E5%8F%B0%23" target="weibo">
 TF家族男团在湖南秋晚三代同台（热度：346043）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%9D%80%E9%9D%92%23" target="weibo">
+白鹿杀青（热度：345966）
 </a>
 </li>
 
@@ -4917,12 +4941,6 @@ offer7播一半淘汰了三个人（热度：311785）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%9D%80%E9%9D%92%23" target="weibo">
-白鹿杀青（热度：301184）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%BB%B4%E5%A1%94%E8%87%AA%E7%87%83%E5%90%8E%E5%8E%82%E5%AE%B6%E5%9B%9E%E5%BA%94%23" target="weibo">
 阿维塔自燃后厂家回应（热度：300561）
 </a>
@@ -5081,12 +5099,6 @@ G社拍的王俊凯巴黎看秀生图（热度：292362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E6%89%BF%E8%AE%A4%E9%81%AD%E4%BB%A5%E6%96%B9%E8%99%90%E5%BE%85%23" target="weibo">
 环保少女承认遭以方虐待（热度：290739）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%20%E6%97%A9%E6%9C%9Fbaby%E4%B8%A5%E9%80%89%E7%9A%84%E6%9D%83%E5%A8%81%E6%80%A7%23" target="weibo">
-陈伟霆 早期baby严选的权威性（热度：290644）
 </a>
 </li>
 
@@ -5865,12 +5877,6 @@ Faker微博更新（热度：252313）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%94%AF%E4%B8%80%E4%B8%8D%E4%BC%9A%E9%95%BF%E5%A4%A7%E7%9A%84%E5%99%A8%E5%AE%98%23" target="weibo">
-人唯一不会长大的器官（热度：250476）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%23" target="weibo">
 以色列发出警告（热度：250240）
 </a>
@@ -6005,12 +6011,6 @@ Faker微博更新（热度：252313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%BC%A0%E5%AD%90%E8%90%B1%E6%8C%BD%E6%89%8B%E9%80%9B%E8%A1%97%23" target="weibo">
 陈赫张子萱挽手逛街（热度：245692）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23hi6%E6%94%B6%E8%A7%86%E7%8E%87%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%23" target="weibo">
-hi6收视率排名第一（热度：245066）
 </a>
 </li>
 

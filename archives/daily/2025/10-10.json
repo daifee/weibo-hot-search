@@ -1,6 +1,6 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760092074069,
+  "endTime": 1760092984793,
   "band_list": [
     {
       "raw_hot": 7988861,
@@ -203,6 +203,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 672253,
+      "num": 252992,
+      "word": "陈伟霆 早期baby严选的权威性",
+      "onboard_time": 1760091441,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 669246,
+      "num": 669246,
+      "word": "北方暴雨冷到破纪录",
+      "onboard_time": 1760086402,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 663967,
       "num": 246830,
       "word": "暗河传",
@@ -273,14 +289,6 @@
       "onboard_time": 1760088023,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 595021,
-      "num": 595021,
-      "word": "北方暴雨冷到破纪录",
-      "onboard_time": 1760086402,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 574395,
@@ -451,12 +459,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386876,
+      "num": 386876,
+      "word": "日本母亲杀死女儿冰箱藏尸20年",
+      "onboard_time": 1760090840,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 384417,
       "num": 222540,
       "word": "卢昱晓演技",
       "onboard_time": 1760025439,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 371205,
+      "num": 371205,
+      "word": "人唯一不会长大的器官",
+      "onboard_time": 1760091261,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 369553,
+      "num": 250818,
+      "word": "王源 脑子和身体对了一晚上账",
+      "onboard_time": 1760088622,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 365205,
@@ -467,20 +499,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 356997,
-      "num": 220137,
-      "word": "王源 脑子和身体对了一晚上账",
-      "onboard_time": 1760088622,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 352017,
       "num": 352017,
       "word": "气温冷出11月水平",
       "onboard_time": 1760055979,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 345966,
+      "num": 247018,
+      "word": "白鹿杀青",
+      "onboard_time": 1760087900,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 325249,
@@ -508,7 +540,7 @@
     },
     {
       "raw_hot": 316553,
-      "num": 198922,
+      "num": 241087,
       "word": "无效早餐",
       "onboard_time": 1760087961,
       "rank": 46,
@@ -563,28 +595,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 301184,
-      "num": 218967,
-      "word": "白鹿杀青",
-      "onboard_time": 1760087900,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 298842,
       "num": 298842,
       "word": "泰国榴莲大亨将没收出轨儿子资产",
       "onboard_time": 1760063299,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 290644,
-      "num": 218359,
-      "word": "陈伟霆 早期baby严选的权威性",
-      "onboard_time": 1760091441,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 289418,
@@ -659,14 +675,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 250476,
-      "num": 198446,
-      "word": "人唯一不会长大的器官",
-      "onboard_time": 1760091261,
-      "rank": 21,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 249798,
       "num": 213346,
       "word": "终于有剧拍蒙面不把观众当傻子了",
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 247758,
-      "num": 193066,
+      "num": 228795,
       "word": "高市早苗或无法成为日本首相",
       "onboard_time": 1760090120,
       "rank": 22,
@@ -908,7 +916,7 @@
     },
     {
       "raw_hot": 185622,
-      "num": 236574,
+      "num": 261183,
       "word": "NS战胜WBG",
       "onboard_time": 1760090481,
       "rank": 6,
@@ -963,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175213,
+      "num": 175213,
+      "word": "侯明昊给卢昱晓戴头纱",
+      "onboard_time": 1760091861,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174798,
       "num": 174798,
       "word": "王鹤润居然是知否里的华兰",
@@ -976,6 +992,14 @@
       "word": "故宫的春夏秋冬一眼惊艳",
       "onboard_time": 1760063119,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170253,
+      "num": 262454,
+      "word": "小谢称王暖暖用4年血泪换来重生",
+      "onboard_time": 1760091623,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -1067,12 +1091,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 158505,
-      "num": 223064,
-      "word": "小谢称王暖暖用4年血泪换来重生",
-      "onboard_time": 1760091623,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 157474,
+      "num": 157474,
+      "word": "郭俊辰工作室声明",
+      "onboard_time": 1760091500,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 156404,
@@ -1139,20 +1163,28 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 149813,
+      "num": 149813,
+      "word": "19岁的蔡依林在纽约时代广场",
+      "onboard_time": 1760091202,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 148557,
+      "num": 245404,
+      "word": "Letme力挺小虎",
+      "onboard_time": 1760092100,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 147740,
       "num": 147740,
       "word": "龚俊还缺妹妹吗",
       "onboard_time": 1760091261,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 145302,
-      "num": 145302,
-      "word": "郭俊辰工作室声明",
-      "onboard_time": 1760091500,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 143873,
@@ -1187,14 +1219,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 141131,
-      "num": 141131,
-      "word": "日本母亲杀死女儿冰箱藏尸20年",
-      "onboard_time": 1760090840,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 141068,
       "num": 141068,
       "word": "狐妖小红娘黄风岭篇备案",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1760078181,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140890,
+      "num": 247912,
+      "word": "王暖暖前夫曾通过律师问能分多少财产",
+      "onboard_time": 1760091020,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140128,
@@ -1323,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134067,
+      "num": 134067,
+      "word": "黄岩岛附近查获近5吨毒品",
+      "onboard_time": 1760091623,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133888,
       "num": 133888,
       "word": "新疆独库公路10月10日晚封闭",
@@ -1387,6 +1427,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 129751,
+      "num": 129751,
+      "word": "少司缘新皮肤",
+      "onboard_time": 1760092881,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129618,
       "num": 129618,
       "word": "冯宝宝王也你们不要再打了",
@@ -1395,12 +1443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129579,
-      "num": 129579,
-      "word": "黄岩岛附近查获近5吨毒品",
-      "onboard_time": 1760091623,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 129498,
+      "num": 129498,
+      "word": "中美再掰手腕互相出王炸",
+      "onboard_time": 1760090781,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 129261,
@@ -1409,14 +1457,6 @@
       "onboard_time": 1760088921,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 128999,
-      "num": 128999,
-      "word": "19岁的蔡依林在纽约时代广场",
-      "onboard_time": 1760091202,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 128978,
@@ -1489,6 +1529,14 @@
       "onboard_time": 1760073680,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126092,
+      "num": 126092,
+      "word": "留学中介现状",
+      "onboard_time": 1760090840,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 125784,
@@ -1635,14 +1683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121333,
-      "num": 121333,
-      "word": "中美再掰手腕互相出王炸",
-      "onboard_time": 1760090781,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 120883,
       "num": 120883,
       "word": "微博视界大会",
@@ -1779,14 +1819,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 115827,
-      "num": 115827,
-      "word": "侯明昊给卢昱晓戴头纱",
-      "onboard_time": 1760091861,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 115245,
       "num": 115245,
       "word": "多邻国动画化",
@@ -1809,6 +1841,14 @@
       "onboard_time": 1760084302,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 114445,
+      "num": 114445,
+      "word": "原来大学只比高三少学2小时",
+      "onboard_time": 1760092642,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 113777,
@@ -1843,14 +1883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112190,
-      "num": 112190,
-      "word": "留学中介现状",
-      "onboard_time": 1760090840,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 112164,
       "num": 112164,
       "word": "兰香如故",
@@ -1865,6 +1897,14 @@
       "onboard_time": 1760072063,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 111743,
+      "num": 111743,
+      "word": "如果你经常久坐不动",
+      "onboard_time": 1760090421,
+      "rank": 41,
+      "category": "运动健身"
     },
     {
       "raw_hot": 111702,
@@ -1921,6 +1961,14 @@
       "onboard_time": 1760088023,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 109913,
+      "num": 109913,
+      "word": "郭俊辰从未受到任何威胁控制",
+      "onboard_time": 1760092400,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 109372,
@@ -2035,6 +2083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102646,
+      "num": 102646,
+      "word": "穿土点去上班 土生金",
+      "onboard_time": 1760092400,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102261,
       "num": 102261,
       "word": "男子停在应急车道接工作电话扣9分",
@@ -2051,6 +2107,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 100735,
+      "num": 100735,
+      "word": "宴遇永安",
+      "onboard_time": 1760008640,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 100085,
       "num": 100085,
       "word": "董子健带女儿公园玩耍",
@@ -2065,14 +2129,6 @@
       "onboard_time": 1760075540,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99209,
-      "num": 126296,
-      "word": "王暖暖前夫曾通过律师问能分多少财产",
-      "onboard_time": 1760091020,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98867,
@@ -2129,6 +2185,14 @@
       "onboard_time": 1760074822,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 95492,
+      "num": 95492,
+      "word": "资助了6年的妹妹第一笔工资给了我",
+      "onboard_time": 1760092941,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 94274,
@@ -2283,6 +2347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77613,
+      "num": 127003,
+      "word": "8岁女孩练舞下腰双下肢截瘫",
+      "onboard_time": 1760091981,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77268,
       "num": 77268,
       "word": "重庆百万粉丝抗癌博主黄三姐离世",
@@ -2395,6 +2467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68571,
+      "num": 116431,
+      "word": "孙颖莎印度风训练音乐",
+      "onboard_time": 1760092221,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68564,
       "num": 68564,
       "word": "我对世界的态度就宋祖儿这样",
@@ -2425,14 +2505,6 @@
       "onboard_time": 1760018481,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 65166,
-      "num": 127003,
-      "word": "8岁女孩练舞下腰双下肢截瘫",
-      "onboard_time": 1760091981,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62730,
@@ -2649,14 +2721,6 @@
       "onboard_time": 1760009901,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 46856,
-      "num": 99055,
-      "word": "宴遇永安",
-      "onboard_time": 1760008640,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 46366,
