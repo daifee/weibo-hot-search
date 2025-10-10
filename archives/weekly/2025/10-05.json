@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1760134953080,
+  "endTime": 1760135956858,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -5683,6 +5683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214110,
+      "num": 57737,
+      "word": "向华强 隆重的辟谣方式",
+      "onboard_time": 1760120955,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213796,
       "num": 213796,
       "word": "好利来回应节后未售完月饼如何处理",
@@ -7921,14 +7929,6 @@
       "onboard_time": 1759908740,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166471,
-      "num": 51298,
-      "word": "向华强 隆重的辟谣方式",
-      "onboard_time": 1760120955,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 166242,
@@ -12683,6 +12683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114767,
+      "num": 114767,
+      "word": "消息称宗馥莉辞职因商标不合规",
+      "onboard_time": 1760110701,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114758,
       "num": 114758,
       "word": "拉扯17集男女主终于亲了",
@@ -13760,6 +13768,14 @@
       "word": "今年对杨幂来说是顶顶好的一年",
       "onboard_time": 1760071342,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108696,
+      "num": 55273,
+      "word": "第一次觉得曲筱绡的刻薄恰到好处",
+      "onboard_time": 1760129893,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -14849,6 +14865,14 @@
       "onboard_time": 1759746682,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100236,
+      "num": 100236,
+      "word": "山西一车站售票员上班刷手机被调岗",
+      "onboard_time": 1760112560,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100165,
@@ -16539,14 +16563,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 87539,
-      "num": 87539,
-      "word": "消息称宗馥莉辞职因商标不合规",
-      "onboard_time": 1760110701,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87426,
       "num": 508657,
       "word": "拍完你的拍你的",
@@ -17091,14 +17107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 82501,
-      "num": 51082,
-      "word": "第一次觉得曲筱绡的刻薄恰到好处",
-      "onboard_time": 1760129893,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 82331,
       "num": 82331,
       "word": "Tian边吃雪糕边看BP",
@@ -17593,14 +17601,6 @@
       "onboard_time": 1759586661,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 76451,
-      "num": 76451,
-      "word": "山西一车站售票员上班刷手机被调岗",
-      "onboard_time": 1760112560,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76448,
@@ -19435,6 +19435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 36253,
+      "num": 43098,
+      "word": "日本首相选举出现黑马",
+      "onboard_time": 1760105604,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36081,
       "num": 39009,
       "word": "进门是沈真出门是秦岚",
@@ -19497,14 +19505,6 @@
       "onboard_time": 1759777875,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34547,
-      "num": 43098,
-      "word": "日本首相选举出现黑马",
-      "onboard_time": 1760105604,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34390,
@@ -19771,6 +19771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 29122,
+      "num": 29122,
+      "word": "徒步高反失温女生不排除植物人风险",
+      "onboard_time": 1760130614,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29096,
       "num": 183280,
       "word": "季前赛龙狮不敌快船",
@@ -19873,14 +19881,6 @@
       "onboard_time": 1759727421,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 26904,
-      "num": 26904,
-      "word": "徒步高反失温女生不排除植物人风险",
-      "onboard_time": 1760130614,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26632,
@@ -20203,6 +20203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 17632,
+      "num": 29122,
+      "word": "朝鲜迎建党80周年",
+      "onboard_time": 1760127193,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17605,
       "num": 29791,
       "word": "王一博见证赛场上每一个高光时刻",
@@ -20275,6 +20283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15677,
+      "num": 29122,
+      "word": "李昀锐原来这就是传说中的C位",
+      "onboard_time": 1760135595,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 15664,
       "num": 26348,
       "word": "震耳欲聋确实猛",
@@ -20299,6 +20315,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14939,
+      "num": 29122,
+      "word": "周深新歌重光",
+      "onboard_time": 1760132714,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 14827,
+      "num": 29122,
+      "word": "费德勒甄子丹vs郑洁吴磊",
+      "onboard_time": 1760115556,
+      "rank": 45,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 14794,
       "num": 23125,
       "word": "拉面哥回应流量下滑",
@@ -20316,7 +20348,7 @@
     },
     {
       "raw_hot": 14487,
-      "num": 30270,
+      "num": 34176,
       "word": "十个勤天新专辑",
       "onboard_time": 1760119515,
       "rank": 34,
@@ -20329,14 +20361,6 @@
       "onboard_time": 1760118675,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14295,
-      "num": 22166,
-      "word": "周深新歌重光",
-      "onboard_time": 1760132714,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 14287,
@@ -20355,28 +20379,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 14209,
-      "num": 27091,
-      "word": "费德勒甄子丹vs郑洁吴磊",
-      "onboard_time": 1760115556,
-      "rank": 45,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 14159,
       "num": 117847,
       "word": "梁靖崑的另一面",
       "onboard_time": 1759918820,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14042,
-      "num": 22164,
-      "word": "朝鲜迎建党80周年",
-      "onboard_time": 1760127193,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 13929,

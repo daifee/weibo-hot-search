@@ -1,0 +1,410 @@
+{
+  "runTime": 1760135956858,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 264366,
+        "num": 475701,
+        "word": "美股跳水",
+        "onboard_time": 1760109503,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124184,
+        "num": 124184,
+        "word": "中方一个个点名多个国家劣迹",
+        "onboard_time": 1760106203,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10536,
+        "num": 118883,
+        "word": "全国通办婚姻登记26.3万余对",
+        "onboard_time": 1760075421,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114767,
+        "num": 114767,
+        "word": "消息称宗馥莉辞职因商标不合规",
+        "onboard_time": 1760110701,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101653,
+        "num": 101653,
+        "word": "盘锦一养殖户数万斤罗氏虾一夜冻死",
+        "onboard_time": 1760107225,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100236,
+        "num": 100236,
+        "word": "山西一车站售票员上班刷手机被调岗",
+        "onboard_time": 1760112560,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75269,
+        "num": 75269,
+        "word": "石破茂称日政府从未否认侵略战争",
+        "onboard_time": 1760109622,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67247,
+        "num": 67247,
+        "word": "美股",
+        "onboard_time": 1760110941,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 65737,
+        "num": 65737,
+        "word": "美对中国船舶收费中方对美同时实施",
+        "onboard_time": 1760113879,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58491,
+        "num": 58491,
+        "word": "纳斯达克",
+        "onboard_time": 1760110222,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 214110,
+        "num": 57737,
+        "word": "向华强 隆重的辟谣方式",
+        "onboard_time": 1760120955,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147157,
+        "num": 57536,
+        "word": "白鹿说自己得了疑难杂症",
+        "onboard_time": 1760100322,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136675,
+        "num": 56432,
+        "word": "王青回应",
+        "onboard_time": 1760106925,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108696,
+        "num": 55273,
+        "word": "第一次觉得曲筱绡的刻薄恰到好处",
+        "onboard_time": 1760129893,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95087,
+        "num": 54744,
+        "word": "关晓彤少喝点吧",
+        "onboard_time": 1760102602,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71917,
+        "num": 53579,
+        "word": "陈伟霆 早期baby严选的权威性",
+        "onboard_time": 1760091441,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67005,
+        "num": 52990,
+        "word": "白鹿8月生病瘦到86斤",
+        "onboard_time": 1760102961,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82110,
+        "num": 52202,
+        "word": "王青 不要因为我影响冯建宇",
+        "onboard_time": 1760107703,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65824,
+        "num": 51501,
+        "word": "女子洗完澡发现窗外无人机悬停",
+        "onboard_time": 1760098221,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61356,
+        "num": 50067,
+        "word": "日本母亲杀死女儿冰箱藏尸20年",
+        "onboard_time": 1760090840,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 50013,
+        "num": 50013,
+        "word": "Angelababy公主皇冠",
+        "onboard_time": 1760099122,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47944,
+        "num": 47944,
+        "word": "向华强发声明回应向家破产",
+        "onboard_time": 1760094201,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46284,
+        "num": 46284,
+        "word": "建议早餐吃点高热量食物",
+        "onboard_time": 1760108663,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 45319,
+        "num": 45319,
+        "word": "山姆大疆补偿方案",
+        "onboard_time": 1760108844,
+        "rank": 23,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 43454,
+        "num": 43454,
+        "word": "人唯一不会长大的器官",
+        "onboard_time": 1760091261,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 38728,
+        "num": 38728,
+        "word": "许我耀眼名场面 张翰娜扎官宣图",
+        "onboard_time": 1760081901,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 38387,
+        "num": 38387,
+        "word": "宗馥莉仍是娃哈哈第二大股东",
+        "onboard_time": 1760108425,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36253,
+        "num": 36253,
+        "word": "日本首相选举出现黑马",
+        "onboard_time": 1760105604,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35369,
+        "num": 35369,
+        "word": "林高远王一博梦幻联动",
+        "onboard_time": 1760114539,
+        "rank": 28,
+        "category": "音乐,体育"
+      },
+      {
+        "raw_hot": 10760,
+        "num": 34176,
+        "word": "十个勤天新专辑",
+        "onboard_time": 1760119515,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33315,
+        "num": 33315,
+        "word": "张远终于不做嘉宾做新郎了",
+        "onboard_time": 1760101041,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33146,
+        "num": 33146,
+        "word": "商务部回应对美国船舶收取特别港务费",
+        "onboard_time": 1760111541,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30869,
+        "num": 30869,
+        "word": "JDG战胜狼队",
+        "onboard_time": 1760108725,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29300,
+        "num": 29300,
+        "word": "要是我这样三天不敢看微信",
+        "onboard_time": 1760104043,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 29207,
+        "num": 29207,
+        "word": "事业单位公众号停更2年变色情链接",
+        "onboard_time": 1760099001,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29122,
+        "num": 29122,
+        "word": "徒步高反失温女生不排除植物人风险",
+        "onboard_time": 1760130614,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27028,
+        "num": 29122,
+        "word": "肖战直播",
+        "onboard_time": 1760097621,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24770,
+        "num": 29122,
+        "word": "全球每8人就有1人患精神疾病",
+        "onboard_time": 1760116637,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21849,
+        "num": 29122,
+        "word": "山姆回应门店大疆产品降价",
+        "onboard_time": 1760111422,
+        "rank": 38,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 21663,
+        "num": 29122,
+        "word": "资助了6年的妹妹第一笔工资给了我",
+        "onboard_time": 1760092941,
+        "rank": 39,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 21370,
+        "num": 29122,
+        "word": "新华社评小米对标苹果",
+        "onboard_time": 1760101942,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 21049,
+        "num": 29122,
+        "word": "欧阳娣娣看得出她是公主",
+        "onboard_time": 1760112021,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20549,
+        "num": 29122,
+        "word": "吴磊费德勒网球对打",
+        "onboard_time": 1760111541,
+        "rank": 42,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 19954,
+        "num": 29122,
+        "word": "冯建宇直播",
+        "onboard_time": 1760095460,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18979,
+        "num": 29122,
+        "word": "委内瑞拉说美国可能很快会动武",
+        "onboard_time": 1760113099,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17632,
+        "num": 29122,
+        "word": "朝鲜迎建党80周年",
+        "onboard_time": 1760127193,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15701,
+        "num": 29122,
+        "word": "视界大会年度推荐整花活了",
+        "onboard_time": 1760117896,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15677,
+        "num": 29122,
+        "word": "李昀锐原来这就是传说中的C位",
+        "onboard_time": 1760135595,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14939,
+        "num": 29122,
+        "word": "周深新歌重光",
+        "onboard_time": 1760132714,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 14827,
+        "num": 29122,
+        "word": "费德勒甄子丹vs郑洁吴磊",
+        "onboard_time": 1760115556,
+        "rank": 49,
+        "category": "体育,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中朝关系不断向前发展#"
+    }
+  }
+}
