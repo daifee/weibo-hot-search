@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760128824888,
+  "endTime": 1760131305096,
   "band_list": [
     {
       "raw_hot": 3831995,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82280,
+      "num": 27230,
+      "word": "向华强 隆重的辟谣方式",
+      "onboard_time": 1760120955,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80887,
       "num": 80887,
       "word": "美对中国船舶收费中方对美同时实施",
@@ -241,14 +249,6 @@
       "onboard_time": 1760108725,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 77668,
-      "num": 27230,
-      "word": "向华强 隆重的辟谣方式",
-      "onboard_time": 1760120955,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 76967,
@@ -523,6 +523,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 14042,
+      "num": 16705,
+      "word": "朝鲜迎建党80周年",
+      "onboard_time": 1760127193,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 13929,
       "num": 27059,
       "word": "王嘉尔澳门演唱会",
@@ -547,12 +555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12209,
-      "num": 16705,
-      "word": "朝鲜迎建党80周年",
-      "onboard_time": 1760127193,
-      "rank": 46,
-      "category": "国际时政"
+      "raw_hot": 12422,
+      "num": 16136,
+      "word": "第一次觉得曲筱绡的刻薄恰到好处",
+      "onboard_time": 1760129893,
+      "rank": 45,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

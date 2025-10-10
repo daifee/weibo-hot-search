@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760128824888,
+  "endTime": 1760131305096,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -28035,6 +28035,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 82280,
+      "num": 27230,
+      "word": "向华强 隆重的辟谣方式",
+      "onboard_time": 1760120955,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82279,
       "num": 118907,
       "word": "王楚钦马不停蹄开训",
@@ -28745,14 +28753,6 @@
       "onboard_time": 1759396581,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77668,
-      "num": 27230,
-      "word": "向华强 隆重的辟谣方式",
-      "onboard_time": 1760120955,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 77641,
@@ -33707,6 +33707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 14042,
+      "num": 16705,
+      "word": "朝鲜迎建党80周年",
+      "onboard_time": 1760127193,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 13929,
       "num": 27059,
       "word": "王嘉尔澳门演唱会",
@@ -33811,20 +33819,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 12422,
+      "num": 16136,
+      "word": "第一次觉得曲筱绡的刻薄恰到好处",
+      "onboard_time": 1760129893,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 12371,
       "num": 24969,
       "word": "南通队带刀后卫进球",
       "onboard_time": 1759875196,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12209,
-      "num": 16705,
-      "word": "朝鲜迎建党80周年",
-      "onboard_time": 1760127193,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 12098,
