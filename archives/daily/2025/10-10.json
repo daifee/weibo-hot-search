@@ -1,6 +1,6 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760109916881,
+  "endTime": 1760110782089,
   "band_list": [
     {
       "raw_hot": 9522596,
@@ -129,6 +129,14 @@
       "onboard_time": 1760081901,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 965786,
+      "num": 1154525,
+      "word": "美股跳水",
+      "onboard_time": 1760109503,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 964271,
@@ -739,6 +747,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 329130,
+      "num": 329130,
+      "word": "山姆大疆补偿方案",
+      "onboard_time": 1760108844,
+      "rank": 6,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 325249,
       "num": 325249,
       "word": "957结婚",
@@ -843,14 +859,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 294219,
-      "num": 294219,
-      "word": "美股跳水",
-      "onboard_time": 1760109503,
-      "rank": 5,
-      "category": "财经"
-    },
-    {
       "raw_hot": 289418,
       "num": 231450,
       "word": "张檬回应晚上不带孩子",
@@ -865,14 +873,6 @@
       "onboard_time": 1760092881,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 279616,
-      "num": 279616,
-      "word": "山姆大疆补偿方案",
-      "onboard_time": 1760108844,
-      "rank": 6,
-      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 274782,
@@ -1467,6 +1467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 163200,
+      "num": 231814,
+      "word": "盘锦一养殖户数万斤罗氏虾一夜冻死",
+      "onboard_time": 1760107225,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163128,
       "num": 163128,
       "word": "孙怡好漂亮的糖葫芦精",
@@ -1491,12 +1499,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161435,
+      "num": 161435,
+      "word": "王橹杰十月考核拉小提琴",
+      "onboard_time": 1760110701,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161279,
       "num": 162811,
       "word": "舒马赫去世消息尚无可靠来源报道",
       "onboard_time": 1760083341,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 160106,
+      "num": 160106,
+      "word": "建议早餐吃点高热量食物",
+      "onboard_time": 1760108663,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159683,
+      "num": 163126,
+      "word": "纳斯达克",
+      "onboard_time": 1760110222,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 159570,
@@ -1707,6 +1739,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 144180,
+      "num": 144180,
+      "word": "要是我这样三天不敢看微信",
+      "onboard_time": 1760104043,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 143873,
       "num": 143873,
       "word": "强生爽身粉致癌更多证据公布",
@@ -1737,6 +1777,14 @@
       "onboard_time": 1760019562,
       "rank": 13,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 141913,
+      "num": 141913,
+      "word": "侯明昊电梯神图",
+      "onboard_time": 1760109383,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 141520,
@@ -1923,14 +1971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133809,
-      "num": 133809,
-      "word": "侯明昊电梯神图",
-      "onboard_time": 1760109383,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133476,
       "num": 133476,
       "word": "朱志鑫苏新皓入围影视cp",
@@ -1945,14 +1985,6 @@
       "onboard_time": 1760103741,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132689,
-      "num": 231814,
-      "word": "盘锦一养殖户数万斤罗氏虾一夜冻死",
-      "onboard_time": 1760107225,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 132623,
@@ -2041,14 +2073,6 @@
       "onboard_time": 1760108725,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 130118,
-      "num": 130118,
-      "word": "要是我这样三天不敢看微信",
-      "onboard_time": 1760104043,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 129936,
@@ -2315,14 +2339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123181,
-      "num": 123181,
-      "word": "建议早餐吃点高热量食物",
-      "onboard_time": 1760108663,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 123078,
       "num": 123078,
       "word": "以色列发出警告",
@@ -2473,6 +2489,14 @@
       "onboard_time": 1760067980,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117629,
+      "num": 197332,
+      "word": "宗馥莉仍是娃哈哈第二大股东",
+      "onboard_time": 1760108425,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117623,
@@ -2675,6 +2699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111693,
+      "num": 111693,
+      "word": "宗馥莉任职仅一年多",
+      "onboard_time": 1760110283,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111670,
       "num": 111670,
       "word": "涉事医院回应家属不献血不给做手术",
@@ -2857,6 +2889,14 @@
       "onboard_time": 1760066601,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104457,
+      "num": 104457,
+      "word": "陈伟霆听到男粉喊妍妍接电话的反应",
+      "onboard_time": 1760107525,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 103243,
@@ -3043,14 +3083,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 95429,
-      "num": 95429,
-      "word": "陈伟霆听到男粉喊妍妍接电话的反应",
-      "onboard_time": 1760107525,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 94274,
       "num": 130804,
       "word": "未成年放狼嚎烟花致10岁男孩死亡",
@@ -3059,12 +3091,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90831,
-      "num": 197332,
-      "word": "宗馥莉仍是娃哈哈第二大股东",
-      "onboard_time": 1760108425,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 93077,
+      "num": 93077,
+      "word": "周杰伦演唱会",
+      "onboard_time": 1760110402,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 90731,
@@ -3083,12 +3115,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89988,
+      "num": 89988,
+      "word": "李沁这个动作怎么这么眼熟呢",
+      "onboard_time": 1760110342,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89956,
       "num": 89956,
       "word": "停火后以军仍屠杀难民",
       "onboard_time": 1760057601,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 87539,
+      "num": 87539,
+      "word": "消息称宗馥莉辞职因商标不合规",
+      "onboard_time": 1760110701,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87354,
@@ -3177,6 +3225,14 @@
       "onboard_time": 1760060360,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 81736,
+      "num": 81736,
+      "word": "曾凡博NBA季前赛首秀",
+      "onboard_time": 1760110102,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 81593,
@@ -3419,6 +3475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59459,
+      "num": 227311,
+      "word": "石破茂称日政府从未否认侵略战争",
+      "onboard_time": 1760109622,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 59366,
       "num": 99421,
       "word": "李昀锐古装",
@@ -3504,6 +3568,14 @@
       "word": "婚后发现女方患精神分裂诉离婚",
       "onboard_time": 1760088742,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52421,
+      "num": 103315,
+      "word": "湖南一养猪场的猪疑似遭无人机射杀",
+      "onboard_time": 1760110102,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3785,14 +3857,6 @@
       "onboard_time": 1760035993,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 30539,
-      "num": 227311,
-      "word": "石破茂称日政府从未否认侵略战争",
-      "onboard_time": 1760109622,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30286,
