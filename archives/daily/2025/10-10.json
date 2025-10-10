@@ -1,6 +1,6 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760085214801,
+  "endTime": 1760085983663,
   "band_list": [
     {
       "raw_hot": 7988861,
@@ -51,7 +51,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1004788,
+      "raw_hot": 1048444,
       "num": 194526,
       "word": "许我耀眼名场面 张翰娜扎官宣图",
       "onboard_time": 1760081901,
@@ -347,20 +347,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 444865,
+      "num": 190353,
+      "word": "成毅第七",
+      "onboard_time": 1760083703,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 430010,
       "num": 430010,
       "word": "男孩被戳伤左眼老师涂猪油消肿致感染",
       "onboard_time": 1760077343,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 424470,
-      "num": 189908,
-      "word": "成毅第七",
-      "onboard_time": 1760083703,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 422862,
@@ -483,6 +483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 297519,
+      "num": 190194,
+      "word": "韩女网红被榜一大哥杀害抛尸",
+      "onboard_time": 1760082022,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 289418,
       "num": 231450,
       "word": "张檬回应晚上不带孩子",
@@ -515,12 +523,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263409,
+      "num": 207651,
+      "word": "恭喜王暖暖",
+      "onboard_time": 1760085142,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258437,
       "num": 258437,
       "word": "高反被救女子有成植物人的可能",
       "onboard_time": 1760022982,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255064,
+      "num": 189780,
+      "word": "我国超70%肝癌确诊已是中晚期",
+      "onboard_time": 1760083162,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 254972,
@@ -555,16 +579,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 245110,
-      "num": 182224,
-      "word": "韩女网红被榜一大哥杀害抛尸",
-      "onboard_time": 1760082022,
-      "rank": 15,
-      "category": "网红"
-    },
-    {
       "raw_hot": 238001,
-      "num": 162563,
+      "num": 189769,
       "word": "管乐寸头",
       "onboard_time": 1760082501,
       "rank": 22,
@@ -601,14 +617,6 @@
       "onboard_time": 1760018602,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220666,
-      "num": 162511,
-      "word": "我国超70%肝癌确诊已是中晚期",
-      "onboard_time": 1760083162,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 215704,
@@ -715,6 +723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 192072,
+      "num": 192072,
+      "word": "日本公明党将脱离执政联盟",
+      "onboard_time": 1760081662,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 191979,
       "num": 143357,
       "word": "NS对战WBG",
@@ -723,12 +739,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190458,
+      "num": 190458,
+      "word": "南京一小区发生闪爆事故致1死2伤",
+      "onboard_time": 1760082623,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189738,
       "num": 189738,
       "word": "沙溢还是对宋亚轩出手了",
       "onboard_time": 1760064500,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189623,
+      "num": 189623,
+      "word": "中国孕妇泰国坠崖案时间线",
+      "onboard_time": 1760084962,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189170,
@@ -756,19 +788,11 @@
     },
     {
       "raw_hot": 182472,
-      "num": 162375,
+      "num": 163433,
       "word": "李庚希新剧老公是狂飙疯驴子",
       "onboard_time": 1760081781,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 180607,
-      "num": 180607,
-      "word": "日本公明党将脱离执政联盟",
-      "onboard_time": 1760081662,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 180092,
@@ -859,14 +883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162212,
-      "num": 162212,
-      "word": "中国孕妇泰国坠崖案时间线",
-      "onboard_time": 1760084962,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 161824,
       "num": 161824,
       "word": "vivo开发者大会",
@@ -939,14 +955,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 146743,
-      "num": 146743,
-      "word": "南京一小区发生闪爆事故致1死2伤",
-      "onboard_time": 1760082623,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143873,
       "num": 143873,
       "word": "强生爽身粉致癌更多证据公布",
@@ -993,6 +1001,14 @@
       "onboard_time": 1760058741,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138812,
+      "num": 138812,
+      "word": "赖清德讲话颠倒黑白",
+      "onboard_time": 1760084482,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 138661,
@@ -1139,6 +1155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128605,
+      "num": 128605,
+      "word": "知情人称家中离世男子肝癌晚期",
+      "onboard_time": 1760083882,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127831,
       "num": 127831,
       "word": "好小众的第一人称视角",
@@ -1163,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127364,
+      "num": 127364,
+      "word": "老人被干儿子骗走失联直至离世",
+      "onboard_time": 1760085321,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127361,
       "num": 127361,
       "word": "喜人奇妙夜2",
@@ -1185,14 +1217,6 @@
       "onboard_time": 1760073680,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 125277,
-      "num": 125277,
-      "word": "赖清德讲话颠倒黑白",
-      "onboard_time": 1760084482,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 125124,
@@ -1323,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120434,
+      "num": 120434,
+      "word": "小米回应网友眼小被提醒专注驾驶",
+      "onboard_time": 1760085501,
+      "rank": 38,
+      "category": "汽车,民生新闻"
+    },
+    {
       "raw_hot": 120352,
       "num": 127604,
       "word": "杨紫开心入围剧综人物",
@@ -1371,12 +1403,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118002,
-      "num": 118002,
+      "raw_hot": 118586,
+      "num": 118586,
       "word": "王楚钦迎来首本五大男刊",
       "onboard_time": 1760084781,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118266,
+      "num": 118266,
+      "word": "谭松韵古装仪态",
+      "onboard_time": 1760085681,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 117900,
@@ -1619,14 +1659,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 102930,
-      "num": 102930,
-      "word": "恭喜王暖暖",
-      "onboard_time": 1760085142,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102657,
       "num": 102657,
       "word": "陈飞宇展示帅哥朋友圈",
@@ -1747,20 +1779,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87354,
+      "num": 189969,
+      "word": "中国人的梦中情班来了",
+      "onboard_time": 1760083462,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 87352,
       "num": 87352,
       "word": "这辈子扣扣搜搜花了很多钱",
       "onboard_time": 1760065400,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 87061,
-      "num": 162964,
-      "word": "中国人的梦中情班来了",
-      "onboard_time": 1760083462,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 86502,
@@ -1817,6 +1849,14 @@
       "onboard_time": 1760057481,
       "rank": 43,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 82279,
+      "num": 118907,
+      "word": "王楚钦马不停蹄开训",
+      "onboard_time": 1760085442,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 82138,
@@ -2065,6 +2105,22 @@
       "onboard_time": 1760024721,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 52831,
+      "num": 190016,
+      "word": "唇部敏感问题不能被忽视",
+      "onboard_time": 1760085321,
+      "rank": 17,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 52166,
+      "num": 189965,
+      "word": "2025年了安卓够流畅了吗",
+      "onboard_time": 1760085321,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 51919,
@@ -2473,6 +2529,9 @@
     },
     {
       "word": "#习近平向金正恩致贺电#"
+    },
+    {
+      "word": "#推动中朝关系不断向前发展#"
     }
   ]
 }
