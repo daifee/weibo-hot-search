@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760117348724,
+  "endTime": 1760117983566,
   "band_list": [
     {
       "raw_hot": 3831995,
@@ -427,7 +427,15 @@
       "category": "情感"
     },
     {
-      "raw_hot": 30716,
+      "raw_hot": 34547,
+      "num": 43098,
+      "word": "日本首相选举出现黑马",
+      "onboard_time": 1760105604,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 31309,
       "num": 43131,
       "word": "全球每8人就有1人患精神疾病",
       "onboard_time": 1760116637,
@@ -459,12 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28937,
-      "num": 43098,
-      "word": "日本首相选举出现黑马",
-      "onboard_time": 1760105604,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 27953,
+      "num": 32647,
+      "word": "视界大会年度推荐整花活了",
+      "onboard_time": 1760117896,
+      "rank": 46,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

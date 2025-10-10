@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/11 00:31:18 ~ 2025/10/11 01:29:08
+本榜单时间：2025/10/11 00:31:18 ~ 2025/10/11 01:39:43
 </p>
 </blockquote>
 <p>
@@ -333,8 +333,14 @@ Angelababy公主皇冠（热度：174316）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E9%80%89%E4%B8%BE%E5%87%BA%E7%8E%B0%E9%BB%91%E9%A9%AC%23" target="weibo">
+日本首相选举出现黑马（热度：34547）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%AF%8F8%E4%BA%BA%E5%B0%B1%E6%9C%891%E4%BA%BA%E6%82%A3%E7%B2%BE%E7%A5%9E%E7%96%BE%E7%97%85%23" target="weibo">
-全球每8人就有1人患精神疾病（热度：30716）
+全球每8人就有1人患精神疾病（热度：31309）
 </a>
 </li>
 
@@ -357,8 +363,8 @@ Angelababy公主皇冠（热度：174316）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E9%80%89%E4%B8%BE%E5%87%BA%E7%8E%B0%E9%BB%91%E9%A9%AC%23" target="weibo">
-日本首相选举出现黑马（热度：28937）
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%E5%B9%B4%E5%BA%A6%E6%8E%A8%E8%8D%90%E6%95%B4%E8%8A%B1%E6%B4%BB%E4%BA%86%23" target="weibo">
+视界大会年度推荐整花活了（热度：27953）
 </a>
 </li>
 
