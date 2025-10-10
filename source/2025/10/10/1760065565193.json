@@ -1,0 +1,410 @@
+{
+  "runTime": 1760065565193,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1342274,
+        "num": 1342274,
+        "word": "榴莲大亨宣布与出轨儿子断绝关系",
+        "onboard_time": 1760062579,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 477489,
+        "num": 477489,
+        "word": "影视飓风Tim曝公司营收构成",
+        "onboard_time": 1760059220,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 15081,
+        "num": 384669,
+        "word": "8天国内出游8.88亿人次",
+        "onboard_time": 1759984822,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334717,
+        "num": 334717,
+        "word": "一家三口被撞死案目击者发声",
+        "onboard_time": 1760061380,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323361,
+        "num": 323361,
+        "word": "菲律宾海域7.6级地震",
+        "onboard_time": 1760063119,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 298842,
+        "num": 298842,
+        "word": "泰国榴莲大亨将没收出轨儿子资产",
+        "onboard_time": 1760063299,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 280200,
+        "num": 280200,
+        "word": "王者荣耀",
+        "onboard_time": 1760063419,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 261368,
+        "num": 261368,
+        "word": "母亲回应网传女儿高反被搭子抛弃",
+        "onboard_time": 1760023041,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261261,
+        "num": 261261,
+        "word": "气温冷出11月水平",
+        "onboard_time": 1760055979,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72157,
+        "num": 257552,
+        "word": "完美婆娘涨粉7.31万",
+        "onboard_time": 1760025621,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1134482,
+        "num": 256131,
+        "word": "第一批00后工作8年的感受",
+        "onboard_time": 1760061019,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 540879,
+        "num": 253827,
+        "word": "朋友圈发照片一定要检查视野盲区",
+        "onboard_time": 1760050996,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 534464,
+        "num": 246830,
+        "word": "暗河传",
+        "onboard_time": 1760063180,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208446,
+        "num": 244319,
+        "word": "菲律宾棉兰老岛附近7.4级地震",
+        "onboard_time": 1760063001,
+        "rank": 13,
+        "category": "突发/灾害,民生新闻"
+      },
+      {
+        "raw_hot": 523730,
+        "num": 239773,
+        "word": "童锦程承认恋情",
+        "onboard_time": 1760052378,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 387525,
+        "num": 235733,
+        "word": "孙乐言徐如蓝时装周同框",
+        "onboard_time": 1760061739,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357428,
+        "num": 233571,
+        "word": "李沁造型师上热搜后立马换衣服了",
+        "onboard_time": 1760052319,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270560,
+        "num": 231275,
+        "word": "彭昱畅 可不敢碰财神爷",
+        "onboard_time": 1760064139,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227833,
+        "num": 227833,
+        "word": "男子因担保被银行擅自划扣35万元",
+        "onboard_time": 1760054000,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45882,
+        "num": 223739,
+        "word": "国家预警发布回应菲律宾强震",
+        "onboard_time": 1760064980,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 607981,
+        "num": 216258,
+        "word": "黄金",
+        "onboard_time": 1760022021,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 249798,
+        "num": 213346,
+        "word": "终于有剧拍蒙面不把观众当傻子了",
+        "onboard_time": 1760063720,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230398,
+        "num": 204597,
+        "word": "熬夜猝死前3个预警信号",
+        "onboard_time": 1760059220,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 201582,
+        "num": 201582,
+        "word": "台独水军指挥官照片",
+        "onboard_time": 1760052258,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189738,
+        "num": 189738,
+        "word": "沙溢还是对宋亚轩出手了",
+        "onboard_time": 1760064500,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172341,
+        "num": 172341,
+        "word": "故宫的春夏秋冬一眼惊艳",
+        "onboard_time": 1760063119,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30091,
+        "num": 160264,
+        "word": "菲律宾发布海啸预警",
+        "onboard_time": 1760063360,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156575,
+        "num": 156575,
+        "word": "高反失温女孩年仅20岁刚毕业",
+        "onboard_time": 1760022921,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155375,
+        "num": 155375,
+        "word": "盛夏芬德拉播放量破30亿",
+        "onboard_time": 1760055081,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145884,
+        "num": 145884,
+        "word": "李庚希抵制代拍",
+        "onboard_time": 1760058621,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135259,
+        "num": 135259,
+        "word": "白宇 太平年",
+        "onboard_time": 1760064080,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56609,
+        "num": 132835,
+        "word": "赵睿和7号搭档的神级预判",
+        "onboard_time": 1760065460,
+        "rank": 31,
+        "category": "体育,汽车"
+      },
+      {
+        "raw_hot": 131382,
+        "num": 131382,
+        "word": "张檬回应晚上不带孩子",
+        "onboard_time": 1760052319,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123249,
+        "num": 123249,
+        "word": "许我耀眼开虐好命哥一家子",
+        "onboard_time": 1760058981,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119708,
+        "num": 119708,
+        "word": "100秒致敬故宫百年守护",
+        "onboard_time": 1760060480,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 118382,
+        "num": 118382,
+        "word": "菲律宾海啸预计高出1米",
+        "onboard_time": 1760065039,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 34746,
+        "num": 115098,
+        "word": "普京就中东局势最新表态",
+        "onboard_time": 1760063360,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113876,
+        "num": 113876,
+        "word": "冯宝宝王也你们不要再打了",
+        "onboard_time": 1760064980,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113844,
+        "num": 113844,
+        "word": "故宫同一片天空看到泪目",
+        "onboard_time": 1760054121,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113777,
+        "num": 113777,
+        "word": "泰国榴莲大亨回应与出轨儿子断绝关系",
+        "onboard_time": 1760064919,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108892,
+        "num": 108892,
+        "word": "李沁越素越惊艳",
+        "onboard_time": 1760058741,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104041,
+        "num": 104041,
+        "word": "谢兴阳怎么了",
+        "onboard_time": 1760052378,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103727,
+        "num": 103727,
+        "word": "雷佳音回应作品太多被观众厌烦",
+        "onboard_time": 1760064800,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103695,
+        "num": 103695,
+        "word": "水军伪造红头文件",
+        "onboard_time": 1760064201,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99001,
+        "num": 99001,
+        "word": "管金生突发疾病逝世",
+        "onboard_time": 1760058861,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 98288,
+        "num": 98288,
+        "word": "孙颖莎青奥夺金7周年",
+        "onboard_time": 1760062160,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97006,
+        "num": 97006,
+        "word": "旧金山街头像丧尸大片",
+        "onboard_time": 1760020822,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95975,
+        "num": 95975,
+        "word": "抢泡泡玛特",
+        "onboard_time": 1760021902,
+        "rank": 47,
+        "category": "动漫,休闲"
+      },
+      {
+        "raw_hot": 95433,
+        "num": 95433,
+        "word": "故宫博物院百岁生日快乐",
+        "onboard_time": 1760059760,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90731,
+        "num": 90731,
+        "word": "藏海传总收视率超过6%",
+        "onboard_time": 1760062099,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席全球妇女峰会开幕式#"
+    }
+  }
+}

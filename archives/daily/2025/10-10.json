@@ -1,7 +1,23 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760062282539,
+  "endTime": 1760065565193,
   "band_list": [
+    {
+      "raw_hot": 1342274,
+      "num": 1342274,
+      "word": "榴莲大亨宣布与出轨儿子断绝关系",
+      "onboard_time": 1760062579,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1134482,
+      "num": 256131,
+      "word": "第一批00后工作8年的感受",
+      "onboard_time": 1760061019,
+      "rank": 49,
+      "category": "幽默"
+    },
     {
       "raw_hot": 933191,
       "num": 951828,
@@ -12,7 +28,7 @@
     },
     {
       "raw_hot": 871641,
-      "num": 233243,
+      "num": 253827,
       "word": "朋友圈发照片一定要检查视野盲区",
       "onboard_time": 1760050996,
       "rank": 10,
@@ -20,7 +36,7 @@
     },
     {
       "raw_hot": 772321,
-      "num": 232934,
+      "num": 239773,
       "word": "童锦程承认恋情",
       "onboard_time": 1760052378,
       "rank": 12,
@@ -75,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 534464,
+      "num": 246830,
+      "word": "暗河传",
+      "onboard_time": 1760063180,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 510491,
       "num": 510491,
       "word": "抢泡泡玛特",
@@ -92,7 +116,7 @@
     },
     {
       "raw_hot": 448737,
-      "num": 232530,
+      "num": 233571,
       "word": "李沁造型师上热搜后立马换衣服了",
       "onboard_time": 1760052319,
       "rank": 13,
@@ -115,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 387525,
+      "num": 235733,
+      "word": "孙乐言徐如蓝时装周同框",
+      "onboard_time": 1760061739,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 384417,
       "num": 222540,
       "word": "卢昱晓演技",
@@ -129,6 +161,22 @@
       "onboard_time": 1760055979,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 334717,
+      "num": 334717,
+      "word": "一家三口被撞死案目击者发声",
+      "onboard_time": 1760061380,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323361,
+      "num": 323361,
+      "word": "菲律宾海域7.6级地震",
+      "onboard_time": 1760063119,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 311046,
@@ -155,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298842,
+      "num": 298842,
+      "word": "泰国榴莲大亨将没收出轨儿子资产",
+      "onboard_time": 1760063299,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 289418,
       "num": 231450,
       "word": "张檬回应晚上不带孩子",
@@ -163,12 +219,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 280200,
+      "num": 280200,
+      "word": "王者荣耀",
+      "onboard_time": 1760063419,
+      "rank": 6,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 274782,
       "num": 176481,
       "word": "高反失温女孩年仅20岁刚毕业",
       "onboard_time": 1760022921,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270560,
+      "num": 231275,
+      "word": "彭昱畅 可不敢碰财神爷",
+      "onboard_time": 1760064139,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 264001,
@@ -195,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 249798,
+      "num": 213346,
+      "word": "终于有剧拍蒙面不把观众当傻子了",
+      "onboard_time": 1760063720,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 247869,
       "num": 247869,
       "word": "苏翊鸣世界第一个背靠背1980",
@@ -211,12 +291,28 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 230398,
+      "num": 204597,
+      "word": "熬夜猝死前3个预警信号",
+      "onboard_time": 1760059220,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 221028,
       "num": 221028,
       "word": "沈皓辰出现自闭症状",
       "onboard_time": 1760018602,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 208446,
+      "num": 244319,
+      "word": "菲律宾棉兰老岛附近7.4级地震",
+      "onboard_time": 1760063001,
+      "rank": 13,
+      "category": "突发/灾害,民生新闻"
     },
     {
       "raw_hot": 197796,
@@ -243,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189738,
+      "num": 189738,
+      "word": "沙溢还是对宋亚轩出手了",
+      "onboard_time": 1760064500,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189170,
       "num": 189170,
       "word": "iPhone18Fold中框曝光",
@@ -259,12 +363,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 170889,
-      "num": 170889,
-      "word": "第一批00后工作8年的感受",
-      "onboard_time": 1760061019,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 172341,
+      "num": 172341,
+      "word": "故宫的春夏秋冬一眼惊艳",
+      "onboard_time": 1760063119,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165104,
@@ -276,7 +380,7 @@
     },
     {
       "raw_hot": 161677,
-      "num": 233403,
+      "num": 257552,
       "word": "完美婆娘涨粉7.31万",
       "onboard_time": 1760025621,
       "rank": 9,
@@ -289,22 +393,6 @@
       "onboard_time": 1760058861,
       "rank": 24,
       "category": "财经"
-    },
-    {
-      "raw_hot": 154080,
-      "num": 154080,
-      "word": "孙乐言徐如蓝时装周同框",
-      "onboard_time": 1760061739,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 152303,
-      "num": 152303,
-      "word": "熬夜猝死前3个预警信号",
-      "onboard_time": 1760059220,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 141921,
@@ -321,6 +409,14 @@
       "onboard_time": 1760058741,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135259,
+      "num": 135259,
+      "word": "白宇 太平年",
+      "onboard_time": 1760064080,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 134690,
@@ -387,6 +483,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118382,
+      "num": 118382,
+      "word": "菲律宾海啸预计高出1米",
+      "onboard_time": 1760065039,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 113876,
+      "num": 113876,
+      "word": "冯宝宝王也你们不要再打了",
+      "onboard_time": 1760064980,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 113777,
+      "num": 113777,
+      "word": "泰国榴莲大亨回应与出轨儿子断绝关系",
+      "onboard_time": 1760064919,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 109372,
       "num": 109372,
       "word": "男子中959万大奖狂欢8周险丧命",
@@ -409,6 +529,22 @@
       "onboard_time": 1760061200,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103727,
+      "num": 103727,
+      "word": "雷佳音回应作品太多被观众厌烦",
+      "onboard_time": 1760064800,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 103695,
+      "num": 103695,
+      "word": "水军伪造红头文件",
+      "onboard_time": 1760064201,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 102657,
@@ -443,20 +579,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 97504,
-      "num": 97504,
-      "word": "一家三口被撞死案目击者发声",
-      "onboard_time": 1760061380,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90385,
-      "num": 90385,
+      "raw_hot": 98288,
+      "num": 98288,
       "word": "孙颖莎青奥夺金7周年",
       "onboard_time": 1760062160,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90731,
+      "num": 90731,
+      "word": "藏海传总收视率超过6%",
+      "onboard_time": 1760062099,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 89956,
@@ -473,14 +609,6 @@
       "onboard_time": 1760060540,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 85631,
-      "num": 85631,
-      "word": "藏海传总收视率超过6%",
-      "onboard_time": 1760062099,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 83274,
@@ -667,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56609,
+      "num": 132835,
+      "word": "赵睿和7号搭档的神级预判",
+      "onboard_time": 1760065460,
+      "rank": 31,
+      "category": "体育,汽车"
+    },
+    {
       "raw_hot": 56386,
       "num": 99259,
       "word": "李昀锐 林百草",
@@ -803,6 +939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45882,
+      "num": 223739,
+      "word": "国家预警发布回应菲律宾强震",
+      "onboard_time": 1760064980,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 43125,
       "num": 98971,
       "word": "猫猫 人不吃的话猫可以吃吗",
@@ -851,6 +995,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 34746,
+      "num": 115098,
+      "word": "普京就中东局势最新表态",
+      "onboard_time": 1760063360,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34231,
       "num": 76832,
       "word": "和汪顺全红婵一起为全运会加油",
@@ -889,6 +1041,14 @@
       "onboard_time": 1760035993,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 30091,
+      "num": 160264,
+      "word": "菲律宾发布海啸预警",
+      "onboard_time": 1760063360,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 25936,
