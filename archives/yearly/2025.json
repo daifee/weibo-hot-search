@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1760081901782,
+  "endTime": 1760085214801,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1739,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 7988861,
+      "num": 7988861,
+      "word": "王暖暖成功离婚",
+      "onboard_time": 1760081540,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7939532,
       "num": 7939532,
       "word": "曝许凯长期聚众赌博",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739855312,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4667797,
-      "num": 4667797,
-      "word": "六级",
-      "onboard_time": 1749868580,
-      "rank": 27,
-      "category": "教育"
     }
   ],
   "hotgov_list": [

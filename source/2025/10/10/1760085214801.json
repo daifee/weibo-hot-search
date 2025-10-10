@@ -1,0 +1,410 @@
+{
+  "runTime": 1760085214801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7988861,
+        "num": 7988861,
+        "word": "王暖暖成功离婚",
+        "onboard_time": 1760081540,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 814321,
+        "num": 814321,
+        "word": "王暖暖方回应成功离婚",
+        "onboard_time": 1760083404,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21535,
+        "num": 591416,
+        "word": "故宫同一片天空看到泪目",
+        "onboard_time": 1760054121,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399617,
+        "num": 399617,
+        "word": "王暖暖前夫被判赔50万",
+        "onboard_time": 1760081001,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258270,
+        "num": 258270,
+        "word": "有女犯反复怀孕流产逃避服刑",
+        "onboard_time": 1760074040,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236656,
+        "num": 236656,
+        "word": "香港顶级豪宅命案",
+        "onboard_time": 1760075663,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231300,
+        "num": 231300,
+        "word": "男孩被戳伤左眼老师涂猪油消肿致感染",
+        "onboard_time": 1760077343,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202419,
+        "num": 202419,
+        "word": "新加坡父女双尸案现场曝光",
+        "onboard_time": 1760075841,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 198026,
+        "num": 198026,
+        "word": "王楚钦故宫大片",
+        "onboard_time": 1760081841,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61273,
+        "num": 197949,
+        "word": "生命树发布预告",
+        "onboard_time": 1760070801,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1004788,
+        "num": 194526,
+        "word": "许我耀眼名场面 张翰娜扎官宣图",
+        "onboard_time": 1760081901,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 496070,
+        "num": 191254,
+        "word": "英皇欠债派惠英红老太勇夺高奢",
+        "onboard_time": 1760076741,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424470,
+        "num": 189908,
+        "word": "成毅第七",
+        "onboard_time": 1760083703,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311962,
+        "num": 186557,
+        "word": "董璇张维伊0人祝福1人尊重",
+        "onboard_time": 1760075481,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302962,
+        "num": 183369,
+        "word": "宁艺卓 alo",
+        "onboard_time": 1760077462,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245110,
+        "num": 182224,
+        "word": "韩女网红被榜一大哥杀害抛尸",
+        "onboard_time": 1760082022,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 180607,
+        "num": 180607,
+        "word": "日本公明党将脱离执政联盟",
+        "onboard_time": 1760081662,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173189,
+        "num": 173189,
+        "word": "奶奶节俭了一辈子最后栽豆汁身上了",
+        "onboard_time": 1760075121,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163029,
+        "num": 163029,
+        "word": "月收入一万以下的理财方法",
+        "onboard_time": 1760070321,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87061,
+        "num": 162964,
+        "word": "中国人的梦中情班来了",
+        "onboard_time": 1760083462,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 160073,
+        "num": 162811,
+        "word": "舒马赫去世消息尚无可靠来源报道",
+        "onboard_time": 1760083341,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 359372,
+        "num": 162726,
+        "word": "娱乐圈的顶级公关",
+        "onboard_time": 1760077042,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238001,
+        "num": 162563,
+        "word": "管乐寸头",
+        "onboard_time": 1760082501,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220666,
+        "num": 162511,
+        "word": "我国超70%肝癌确诊已是中晚期",
+        "onboard_time": 1760083162,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182472,
+        "num": 162375,
+        "word": "李庚希新剧老公是狂飙疯驴子",
+        "onboard_time": 1760081781,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163497,
+        "num": 162318,
+        "word": "不接李昊事业运",
+        "onboard_time": 1760082863,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162212,
+        "num": 162212,
+        "word": "中国孕妇泰国坠崖案时间线",
+        "onboard_time": 1760084962,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152535,
+        "num": 152535,
+        "word": "我雷这对CP",
+        "onboard_time": 1760075061,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151923,
+        "num": 151923,
+        "word": "男搭子向高反失温女孩母亲道歉",
+        "onboard_time": 1760080820,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146743,
+        "num": 146743,
+        "word": "南京一小区发生闪爆事故致1死2伤",
+        "onboard_time": 1760082623,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191979,
+        "num": 143357,
+        "word": "NS对战WBG",
+        "onboard_time": 1760084062,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135048,
+        "num": 135048,
+        "word": "金价狂飙消费者投资方向两极分化",
+        "onboard_time": 1760083642,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133476,
+        "num": 133476,
+        "word": "朱志鑫苏新皓入围影视cp",
+        "onboard_time": 1760084662,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131215,
+        "num": 131215,
+        "word": "英皇危机见真情 公司艺人真心换真心",
+        "onboard_time": 1760082983,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129932,
+        "num": 129932,
+        "word": "微信点下时间就可以知道星期几",
+        "onboard_time": 1760083221,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120352,
+        "num": 127604,
+        "word": "杨紫开心入围剧综人物",
+        "onboard_time": 1760083823,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125277,
+        "num": 125277,
+        "word": "赖清德讲话颠倒黑白",
+        "onboard_time": 1760084482,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125089,
+        "num": 125089,
+        "word": "血压一飚当心蛇缠腰",
+        "onboard_time": 1760084482,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 78102,
+        "num": 124985,
+        "word": "孙颖莎耍棍热身",
+        "onboard_time": 1760084542,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77182,
+        "num": 124930,
+        "word": "孙颖莎乐呵呵开训",
+        "onboard_time": 1760084242,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124885,
+        "num": 124885,
+        "word": "王楚钦 时装男士",
+        "onboard_time": 1760081721,
+        "rank": 40,
+        "category": "体育,时尚"
+      },
+      {
+        "raw_hot": 123550,
+        "num": 123550,
+        "word": "英雄联盟S15",
+        "onboard_time": 1760079981,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122123,
+        "num": 122123,
+        "word": "王鹤润居然是知否里的华兰",
+        "onboard_time": 1760081121,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121162,
+        "num": 121162,
+        "word": "胡歌带老婆上海看房",
+        "onboard_time": 1760073141,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118002,
+        "num": 118002,
+        "word": "王楚钦迎来首本五大男刊",
+        "onboard_time": 1760084781,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114647,
+        "num": 114647,
+        "word": "许家印家族信托防线被击穿",
+        "onboard_time": 1760084302,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113303,
+        "num": 113303,
+        "word": "自驾俄罗斯被拒绝出境",
+        "onboard_time": 1760084062,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111670,
+        "num": 111670,
+        "word": "涉事医院回应家属不献血不给做手术",
+        "onboard_time": 1760083581,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102930,
+        "num": 102930,
+        "word": "恭喜王暖暖",
+        "onboard_time": 1760085142,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100085,
+        "num": 100085,
+        "word": "董子健带女儿公园玩耍",
+        "onboard_time": 1760085142,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向金正恩致贺电#"
+    }
+  }
+}
