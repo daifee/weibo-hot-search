@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1760096200602,
+  "endTime": 1760100688469,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -161,6 +161,14 @@
       "onboard_time": 1759974559,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1670006,
+      "num": 1670006,
+      "word": "日本史上第一位女首相恐难产",
+      "onboard_time": 1760098400,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1639171,
@@ -1219,6 +1227,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 739454,
+      "num": 739454,
+      "word": "人唯一不会长大的器官",
+      "onboard_time": 1760091261,
+      "rank": 21,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 734082,
       "num": 902946,
       "word": "高速5车追尾2死3伤",
@@ -1555,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 621336,
+      "num": 259650,
+      "word": "王暖暖离婚案推动制度进步",
+      "onboard_time": 1760093302,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 620276,
       "num": 203365,
       "word": "应鹏去世",
@@ -1697,6 +1721,14 @@
       "onboard_time": 1759653561,
       "rank": 33,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 583467,
+      "num": 162062,
+      "word": "Angelababy公主皇冠",
+      "onboard_time": 1760099122,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 582537,
@@ -2107,14 +2139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 508947,
-      "num": 508947,
-      "word": "人唯一不会长大的器官",
-      "onboard_time": 1760091261,
-      "rank": 21,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 506365,
       "num": 506365,
       "word": "林诗栋vsF勒布伦",
@@ -2433,6 +2457,14 @@
       "onboard_time": 1759845383,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 460562,
+      "num": 161261,
+      "word": "肖战直播",
+      "onboard_time": 1760097621,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 459704,
@@ -2825,6 +2857,14 @@
       "onboard_time": 1759899020,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 419596,
+      "num": 160787,
+      "word": "女子洗完澡发现窗外无人机悬停",
+      "onboard_time": 1760098221,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 418762,
@@ -4035,14 +4075,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 298206,
-      "num": 259650,
-      "word": "王暖暖离婚案推动制度进步",
-      "onboard_time": 1760093302,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 295017,
       "num": 295017,
       "word": "乌称遭俄50枚导弹500架无人机袭击",
@@ -4699,6 +4731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253733,
+      "num": 253733,
+      "word": "约女生去图书馆男生和妈妈冷战3月",
+      "onboard_time": 1760096241,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252983,
       "num": 252983,
       "word": "英雄联盟S15",
@@ -4907,6 +4947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242702,
+      "num": 242702,
+      "word": "48岁油漆工地下室刷漆后中毒离世",
+      "onboard_time": 1760095460,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241917,
       "num": 197204,
       "word": "沈星回来自星轨间",
@@ -4929,6 +4977,14 @@
       "onboard_time": 1759922182,
       "rank": 32,
       "category": "音乐,游戏"
+    },
+    {
+      "raw_hot": 240290,
+      "num": 240290,
+      "word": "原神直播",
+      "onboard_time": 1760098760,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 239413,
@@ -5600,6 +5656,14 @@
       "word": "慕胥辞",
       "onboard_time": 1759717400,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 207401,
+      "num": 159873,
+      "word": "李沁陈哲远情头",
+      "onboard_time": 1760099842,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -7739,6 +7803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163620,
+      "num": 163620,
+      "word": "2岁女童跌入开水锅特重度烧伤",
+      "onboard_time": 1760099601,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163497,
       "num": 162318,
       "word": "不接李昊事业运",
@@ -7963,6 +8035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159570,
+      "num": 159570,
+      "word": "张杰天下开场曲回归",
+      "onboard_time": 1760099541,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159523,
       "num": 159523,
       "word": "田曦薇玉兔塑",
@@ -8089,6 +8169,14 @@
       "onboard_time": 1759664902,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157584,
+      "num": 157584,
+      "word": "事业单位公众号停更2年变色情链接",
+      "onboard_time": 1760099001,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157474,
@@ -8555,6 +8643,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 150888,
+      "num": 150888,
+      "word": "张晚意 你不是只有一块肥皂吗",
+      "onboard_time": 1760096361,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150620,
       "num": 150620,
       "word": "韩国部分新婚夫妇放弃黄金戒指",
@@ -8769,6 +8865,14 @@
       "onboard_time": 1760091261,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147712,
+      "num": 147712,
+      "word": "张婧仪真公主",
+      "onboard_time": 1760098760,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 147498,
@@ -8987,6 +9091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145388,
+      "num": 145388,
+      "word": "白鹿跑过来这段也太美了",
+      "onboard_time": 1760098882,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145173,
       "num": 145173,
       "word": "加沙居民街头庆祝停火协议达成",
@@ -9041,6 +9153,14 @@
       "onboard_time": 1760005221,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144168,
+      "num": 144168,
+      "word": "吉利星愿",
+      "onboard_time": 1760100500,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 143989,
@@ -9208,6 +9328,14 @@
       "word": "逐玉",
       "onboard_time": 1759718360,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141520,
+      "num": 171388,
+      "word": "肖战视界大会登顶三榜",
+      "onboard_time": 1760095821,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -9995,6 +10123,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 133956,
+      "num": 133956,
+      "word": "彭昱畅 互交阑尾",
+      "onboard_time": 1760100382,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133888,
       "num": 133888,
       "word": "新疆独库公路10月10日晚封闭",
@@ -10539,6 +10675,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 127954,
+      "num": 127954,
+      "word": "TF四代10月考核",
+      "onboard_time": 1760098641,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127911,
       "num": 127911,
       "word": "国乒无缘会师男单决赛",
@@ -10601,6 +10745,14 @@
       "onboard_time": 1759999461,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127212,
+      "num": 127212,
+      "word": "焦俊艳说遇到过阴阳剧本",
+      "onboard_time": 1760100261,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 127175,
@@ -10963,6 +11115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124115,
+      "num": 124115,
+      "word": "白鹿说自己得了疑难杂症",
+      "onboard_time": 1760100322,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 123973,
       "num": 123973,
       "word": "50个深蹲对血糖的影响有多大",
@@ -11209,6 +11369,14 @@
       "onboard_time": 1759987220,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122044,
+      "num": 122044,
+      "word": "穆祉丞叫TFBOYS祖师爷",
+      "onboard_time": 1760097021,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 121904,
@@ -11793,6 +11961,14 @@
       "onboard_time": 1759659803,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116380,
+      "num": 123377,
+      "word": "Cat转型教练",
+      "onboard_time": 1760094921,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 116366,
@@ -13011,6 +13187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108816,
+      "num": 108816,
+      "word": "23万粉丝博主为百色抗洪捐1分钱",
+      "onboard_time": 1760097621,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108798,
       "num": 108798,
       "word": "邓超 为了家庭我可以随时退休",
@@ -13787,6 +13971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103103,
+      "num": 103103,
+      "word": "曝广西一小学老师踹飞两名学生",
+      "onboard_time": 1760099061,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102987,
       "num": 102987,
       "word": "苏翊鸣名字再一次写进滑雪史",
@@ -14387,6 +14579,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 98165,
+      "num": 98165,
+      "word": "太阳vs篮网",
+      "onboard_time": 1760100562,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98163,
       "num": 98163,
       "word": "我丢的这一年里你找过我吗",
@@ -14513,14 +14713,6 @@
       "onboard_time": 1760074822,
       "rank": 46,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 97551,
-      "num": 123377,
-      "word": "Cat转型教练",
-      "onboard_time": 1760094921,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 97534,
@@ -15659,14 +15851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88003,
-      "num": 124562,
-      "word": "48岁油漆工地下室刷漆后中毒离世",
-      "onboard_time": 1760095460,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88002,
       "num": 88002,
       "word": "NIP淘汰",
@@ -16643,6 +16827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78183,
+      "num": 122433,
+      "word": "婚礼跳河男子父亲暂不办丧事",
+      "onboard_time": 1760099422,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78102,
       "num": 124985,
       "word": "孙颖莎耍棍热身",
@@ -17192,6 +17384,14 @@
       "word": "国庆假期超24亿人次跨区域流动",
       "onboard_time": 1759900101,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67843,
+      "num": 122686,
+      "word": "5个月婴儿疑似被保姆扇脸扭甩",
+      "onboard_time": 1760099842,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -18315,6 +18515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42467,
+      "num": 161125,
+      "word": "张婧仪月光女神",
+      "onboard_time": 1760097860,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42098,
       "num": 118095,
       "word": "王星越剃头了",
@@ -18369,14 +18577,6 @@
       "onboard_time": 1759619778,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 40521,
-      "num": 171388,
-      "word": "肖战视界大会登顶三榜",
-      "onboard_time": 1760095821,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 40372,
@@ -18873,6 +19073,14 @@
       "onboard_time": 1760021542,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27377,
+      "num": 122868,
+      "word": "包文婧带女儿做美甲",
+      "onboard_time": 1760100621,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 27181,
