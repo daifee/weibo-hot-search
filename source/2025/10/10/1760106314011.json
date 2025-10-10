@@ -1,0 +1,410 @@
+{
+  "runTime": 1760106314011,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3077539,
+        "num": 3077539,
+        "word": "宗馥莉已经辞职",
+        "onboard_time": 1760105843,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 876331,
+        "num": 876331,
+        "word": "事业单位公众号停更2年变色情链接",
+        "onboard_time": 1760099001,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77308,
+        "num": 689944,
+        "word": "全国通办婚姻登记26.3万余对",
+        "onboard_time": 1760075421,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 624309,
+        "num": 624309,
+        "word": "人唯一不会长大的器官",
+        "onboard_time": 1760091261,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 506282,
+        "num": 506282,
+        "word": "新华社评小米对标苹果",
+        "onboard_time": 1760101942,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 443343,
+        "num": 443343,
+        "word": "官方通报小学老师脚踢2学生",
+        "onboard_time": 1760103741,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 418914,
+        "num": 418914,
+        "word": "云南鲁甸4.4级地震",
+        "onboard_time": 1760103322,
+        "rank": 6,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 294582,
+        "num": 294582,
+        "word": "脚踢2学生小学老师被辞退",
+        "onboard_time": 1760104462,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 284300,
+        "num": 284300,
+        "word": "高市早苗或无望日本首相",
+        "onboard_time": 1760098400,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 271589,
+        "num": 271589,
+        "word": "约女生去图书馆男生和妈妈冷战3月",
+        "onboard_time": 1760096241,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2249773,
+        "num": 271486,
+        "word": "白鹿说自己得了疑难杂症",
+        "onboard_time": 1760100322,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1058745,
+        "num": 271311,
+        "word": "曝广西一小学老师踹飞两名学生",
+        "onboard_time": 1760099061,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 811955,
+        "num": 271145,
+        "word": "关晓彤少喝点吧",
+        "onboard_time": 1760102602,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 765269,
+        "num": 271120,
+        "word": "王暖暖成功离婚",
+        "onboard_time": 1760081540,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 692079,
+        "num": 270895,
+        "word": "Angelababy公主皇冠",
+        "onboard_time": 1760099122,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1121731,
+        "num": 270813,
+        "word": "白鹿8月生病瘦到86斤",
+        "onboard_time": 1760102961,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 669236,
+        "num": 270609,
+        "word": "陈伟霆 早期baby严选的权威性",
+        "onboard_time": 1760091441,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42168,
+        "num": 270436,
+        "word": "肖战秋冬居家ootd",
+        "onboard_time": 1760103263,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589658,
+        "num": 270382,
+        "word": "向华强发声明回应向家破产",
+        "onboard_time": 1760094201,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543101,
+        "num": 270175,
+        "word": "日本母亲杀死女儿冰箱藏尸20年",
+        "onboard_time": 1760090840,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 524951,
+        "num": 270004,
+        "word": "2岁女童跌入开水锅特重度烧伤",
+        "onboard_time": 1760099601,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415345,
+        "num": 269838,
+        "word": "许我耀眼名场面 张翰娜扎官宣图",
+        "onboard_time": 1760081901,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301941,
+        "num": 269658,
+        "word": "王暖暖离婚案推动制度进步",
+        "onboard_time": 1760093302,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29263,
+        "num": 269651,
+        "word": "菲律宾地震至少7人死亡",
+        "onboard_time": 1760106024,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 269502,
+        "num": 269502,
+        "word": "漫长的季节一刀捅穿山海情",
+        "onboard_time": 1760103503,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239690,
+        "num": 239690,
+        "word": "女子洗完澡发现窗外无人机悬停",
+        "onboard_time": 1760098221,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173048,
+        "num": 214239,
+        "word": "石破茂发表战后80周年感言",
+        "onboard_time": 1760104702,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 211639,
+        "num": 211639,
+        "word": "肖战直播",
+        "onboard_time": 1760097621,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199815,
+        "num": 199815,
+        "word": "资助了6年的妹妹第一笔工资给了我",
+        "onboard_time": 1760092941,
+        "rank": 28,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 195379,
+        "num": 195379,
+        "word": "北方暴雨冷到破纪录",
+        "onboard_time": 1760086402,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191394,
+        "num": 191394,
+        "word": "鹿晗我回家了11周年",
+        "onboard_time": 1760105784,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177203,
+        "num": 177203,
+        "word": "无畏大乔MVP",
+        "onboard_time": 1760105604,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176072,
+        "num": 176072,
+        "word": "吉利星愿",
+        "onboard_time": 1760100500,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 170580,
+        "num": 170580,
+        "word": "李沁陈哲远情头",
+        "onboard_time": 1760099842,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159427,
+        "num": 159427,
+        "word": "张杰劝分劝的好坚定",
+        "onboard_time": 1760103624,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146000,
+        "num": 146000,
+        "word": "韩国0比5巴西",
+        "onboard_time": 1760102902,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141869,
+        "num": 141869,
+        "word": "内娱很少见剧情这么猛的剧了",
+        "onboard_time": 1760103082,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137630,
+        "num": 137630,
+        "word": "肝癌更容易找上3类人",
+        "onboard_time": 1760093600,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135923,
+        "num": 135923,
+        "word": "陈哲远 稍等我还没看到这",
+        "onboard_time": 1760105604,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 7237,
+        "num": 131476,
+        "word": "广西百色多个村庄被淹多日积水未退",
+        "onboard_time": 1760106203,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130791,
+        "num": 130791,
+        "word": "深圳警方通报车辆冲入餐厅致5伤",
+        "onboard_time": 1760106024,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 130519,
+        "num": 130519,
+        "word": "张远终于不做嘉宾做新郎了",
+        "onboard_time": 1760101041,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130118,
+        "num": 130118,
+        "word": "要是我这样三天不敢看微信",
+        "onboard_time": 1760104043,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125140,
+        "num": 125140,
+        "word": "中方一个个点名多个国家劣迹",
+        "onboard_time": 1760106203,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125116,
+        "num": 125116,
+        "word": "苏新皓复工 报复性营业",
+        "onboard_time": 1760102961,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124450,
+        "num": 124450,
+        "word": "冯建宇直播",
+        "onboard_time": 1760095460,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123972,
+        "num": 123972,
+        "word": "曾凡博 篮网",
+        "onboard_time": 1760102362,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116677,
+        "num": 116677,
+        "word": "今年9月新开户数293.72万户",
+        "onboard_time": 1760106203,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 115320,
+        "num": 115320,
+        "word": "少司缘新皮肤",
+        "onboard_time": 1760092881,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111117,
+        "num": 111117,
+        "word": "陈梦说每天三点一线的训练很充实",
+        "onboard_time": 1760104102,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中朝关系不断向前发展#"
+    }
+  }
+}

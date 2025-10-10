@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/10 21:44:52
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/10 22:25:14
 </p>
 </blockquote>
 <p>
@@ -59,6 +59,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BA%A4%E8%AD%A6%E9%80%9A%E6%8A%A5%E9%99%88%E9%9C%87%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8%23" target="weibo">
 北京交警通报陈震发生车祸（热度：3967870）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E5%B7%B2%E7%BB%8F%E8%BE%9E%E8%81%8C%23" target="weibo">
+宗馥莉已经辞职（热度：3077539）
 </a>
 </li>
 
@@ -119,6 +125,12 @@ K签（热度：2379627）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%942%E6%88%98%E8%83%9C%E5%AD%99%E9%A2%96%E8%8E%8E%23" target="weibo">
 王曼昱4比2战胜孙颖莎（热度：2363947）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%BE%97%E4%BA%86%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87%23" target="weibo">
+白鹿说自己得了疑难杂症（热度：2249773）
 </a>
 </li>
 
@@ -543,12 +555,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%BE%97%E4%BA%86%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87%23" target="weibo">
-白鹿说自己得了疑难杂症（热度：1228339）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%96%86%23" target="weibo">
 大疆（热度：1226757）
 </a>
@@ -651,6 +657,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF8%E6%9C%88%E7%94%9F%E7%97%85%E7%98%A6%E5%88%B086%E6%96%A4%23" target="weibo">
+白鹿8月生病瘦到86斤（热度：1121731）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%AF%B4%E8%A2%AB%E4%BA%BA%E4%B8%80%E8%84%9A%E8%B8%B9%E6%B0%B4%E9%87%8C%23" target="weibo">
 张继科说被人一脚踹水里（热度：1120719）
 </a>
@@ -749,6 +761,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E9%97%A8%E5%B1%B1%E6%99%AF%E5%8C%BA%E9%81%93%E6%AD%89%23" target="weibo">
 天门山景区道歉（热度：1062602）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E8%B8%B9%E9%A3%9E%E4%B8%A4%E5%90%8D%E5%AD%A6%E7%94%9F%23" target="weibo">
+曝广西一小学老师踹飞两名学生（热度：1058745）
 </a>
 </li>
 
@@ -1149,6 +1167,12 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E4%BC%97%E5%8F%B7%E5%81%9C%E6%9B%B42%E5%B9%B4%E5%8F%98%E8%89%B2%E6%83%85%E9%93%BE%E6%8E%A5%23" target="weibo">
+事业单位公众号停更2年变色情链接（热度：876331）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%BB%99%E8%87%AA%E5%B7%B1%E5%81%9A%E4%BA%86%E4%B8%AA%E5%BC%80%E6%B0%B4%E5%A3%B6%E8%9B%8B%E7%B3%95%23" target="weibo">
 肖战给自己做了个开水壶蛋糕（热度：875218）
 </a>
@@ -1319,6 +1343,12 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%B2%A1%E4%BA%BA%E6%8E%A52%E5%A4%A9%E5%90%8E%E5%8F%91%E7%8E%B0%E5%85%B6%E7%88%B6%E5%AE%B6%E4%B8%AD%E7%A6%BB%E4%B8%96%23" target="weibo">
 女孩没人接2天后发现其父家中离世（热度：813614）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B0%91%E5%96%9D%E7%82%B9%E5%90%A7%23" target="weibo">
+关晓彤少喝点吧（热度：811955）
 </a>
 </li>
 
@@ -1763,12 +1793,6 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%8E%A5%E5%88%B0%E9%AA%91%E6%89%8B%E7%94%B5%E8%AF%9D500%E5%85%83%E5%A4%96%E5%8D%96%E4%B8%8D%E7%BF%BC%E8%80%8C%E9%A3%9E%23" target="weibo">
 没接到骑手电话500元外卖不翼而飞（热度：678339）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF8%E6%9C%88%E7%94%9F%E7%97%85%E7%98%A6%E5%88%B086%E6%96%A4%23" target="weibo">
-白鹿8月生病瘦到86斤（热度：672613）
 </a>
 </li>
 
@@ -2781,6 +2805,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AF%84%E5%B0%8F%E7%B1%B3%E5%AF%B9%E6%A0%87%E8%8B%B9%E6%9E%9C%23" target="weibo">
+新华社评小米对标苹果（热度：506282）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8E%BB%E9%9F%A9%E5%9B%BD%E6%97%85%E6%B8%B8%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
 第一批去韩国旅游的受害者出现了（热度：505894）
 </a>
@@ -3117,12 +3147,6 @@ VaVa说自己分手是因为浪姐（热度：480031）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%B9%BF%E8%A5%BF%E4%B8%80%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E8%B8%B9%E9%A3%9E%E4%B8%A4%E5%90%8D%E5%AD%A6%E7%94%9F%23" target="weibo">
-曝广西一小学老师踹飞两名学生（热度：467561）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A5%A5%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23" target="weibo">
 迪奥巴黎时装周（热度：467123）
 </a>
@@ -3347,6 +3371,12 @@ K签证（热度：453444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%84%E5%88%B6%E7%94%9C%E5%93%81%E5%B7%B2%E8%BF%9B%E5%8C%96%E5%88%B0%E4%B8%8D%E7%9F%A5%E5%A4%A9%E5%9C%B0%E4%B8%BA%E4%BD%95%E7%89%A9%E4%BA%86%23" target="weibo">
 预制甜品已进化到不知天地为何物了（热度：443484）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E8%84%9A%E8%B8%A22%E5%AD%A6%E7%94%9F%23" target="weibo">
+官方通报小学老师脚踢2学生（热度：443343）
 </a>
 </li>
 
@@ -3707,12 +3737,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%20%E7%8E%B0%E5%9C%A8vlog%E9%83%BD%E8%A6%81%E6%88%91%E6%8F%90%E9%86%92%E4%BD%A0%E6%8B%8D%E4%BA%86%E5%90%97%23" target="weibo">
 白鹿 现在vlog都要我提醒你拍了吗（热度：406950）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8B%E4%B8%9A%E5%8D%95%E4%BD%8D%E5%85%AC%E4%BC%97%E5%8F%B7%E5%81%9C%E6%9B%B42%E5%B9%B4%E5%8F%98%E8%89%B2%E6%83%85%E9%93%BE%E6%8E%A5%23" target="weibo">
-事业单位公众号停更2年变色情链接（热度：406220）
 </a>
 </li>
 
@@ -4089,12 +4113,6 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AF%84%E5%B0%8F%E7%B1%B3%E5%AF%B9%E6%A0%87%E8%8B%B9%E6%9E%9C%23" target="weibo">
-新华社评小米对标苹果（热度：371910）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%B1%89%E5%9D%A4%E8%B8%A9%E5%88%B0%E5%AD%9F%E5%AD%90%E4%B9%89%E5%A4%B4%E7%BA%B1%23" target="weibo">
 吴汉坤踩到孟子义头纱（热度：371879）
 </a>
@@ -4457,12 +4475,6 @@ p图姐喊话黄俊捷（热度：342786）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B3%A5%E5%B5%98%E7%9B%B4%E6%92%AD%E8%AF%B4%E6%9C%80%E8%AE%A8%E5%8E%8C%E8%A3%85%E7%9A%84%E4%BA%BA%23" target="weibo">
 温峥嵘直播说最讨厌装的人（热度：341045）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%B0%91%E5%96%9D%E7%82%B9%E5%90%A7%23" target="weibo">
-关晓彤少喝点吧（热度：339184）
 </a>
 </li>
 
@@ -5145,6 +5157,12 @@ offer7播一半淘汰了三个人（热度：311785）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%84%9A%E8%B8%A22%E5%AD%A6%E7%94%9F%E5%B0%8F%E5%AD%A6%E8%80%81%E5%B8%88%E8%A2%AB%E8%BE%9E%E9%80%80%23" target="weibo">
+脚踢2学生小学老师被辞退（热度：294582）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%89%8B%E6%8B%BF%E6%8A%98%E6%89%87%E8%A2%AB%E8%AF%AF%E8%AE%A4%E6%8C%81%E5%88%80%23" target="weibo">
 当事人回应手拿折扇被误认持刀（热度：294425）
 </a>
@@ -5643,6 +5661,12 @@ A股（热度：274300）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%AB%E9%95%BF%E7%9A%84%E5%AD%A3%E8%8A%82%E4%B8%80%E5%88%80%E6%8D%85%E7%A9%BF%E5%B1%B1%E6%B5%B7%E6%83%85%23" target="weibo">
+漫长的季节一刀捅穿山海情（热度：269502）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%9C%86%E9%94%8B%E4%BD%A0%E6%9C%80%E5%A5%BD%E7%BB%99%E6%88%91%E4%B8%80%E4%B8%AA%E8%A7%A3%E9%87%8A%23" target="weibo">
 谢霆锋你最好给我一个解释（热度：269445）
 </a>
@@ -5987,30 +6011,6 @@ Faker微博更新（热度：252313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%92%8C%E5%AF%B9%E6%89%8B%E6%8F%A1%E6%89%8B%E5%90%88%E5%BD%B1%23" target="weibo">
 王一博和对手握手合影（热度：251248）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%82%92%E7%B2%89%E8%80%81%E6%9D%BF%E5%BC%80%E9%97%A8%E5%8F%91%E7%8E%B0%E7%99%BE%E7%B1%B3%E9%95%BF%E9%98%9F%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
-炒粉老板开门发现百米长队天塌了（热度：250956）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BD%95%E5%8D%93%E4%BD%B3%E9%A6%99%E6%B8%AF%E6%9C%BA%E5%9C%BA%E4%B9%B0%E7%8E%A9%E5%81%B6%23" target="weibo">
-孙颖莎何卓佳香港机场买玩偶（热度：250645）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%23" target="weibo">
-以色列发出警告（热度：250240）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BF%84%E4%B8%BA%E7%BA%B8%E8%80%81%E8%99%8E%23" target="weibo">
-普京回应特朗普称俄为纸老虎（热度：250219）
 </a>
 </li>
 
