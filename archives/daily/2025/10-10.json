@@ -1,6 +1,6 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760079047541,
+  "endTime": 1760081087674,
   "band_list": [
     {
       "raw_hot": 1603596,
@@ -163,12 +163,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 659660,
+      "num": 1105545,
+      "word": "有女犯反复怀孕流产逃避服刑",
+      "onboard_time": 1760074040,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 647352,
       "num": 367738,
       "word": "男子与女友吵架驾车撞死一家三口",
       "onboard_time": 1760050938,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 633043,
+      "num": 161832,
+      "word": "娱乐圈的顶级公关",
+      "onboard_time": 1760077042,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 620006,
+      "num": 177841,
+      "word": "宁艺卓 alo",
+      "onboard_time": 1760077462,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 607681,
@@ -185,14 +209,6 @@
       "onboard_time": 1760020822,
       "rank": 3,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 571213,
-      "num": 177841,
-      "word": "宁艺卓 alo",
-      "onboard_time": 1760077462,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 570913,
@@ -236,11 +252,19 @@
     },
     {
       "raw_hot": 495174,
-      "num": 202826,
+      "num": 211987,
       "word": "我雷这对CP",
       "onboard_time": 1760075061,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 486539,
+      "num": 486539,
+      "word": "新加坡父女双尸案现场曝光",
+      "onboard_time": 1760075841,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 479413,
@@ -257,6 +281,14 @@
       "onboard_time": 1760061739,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 464771,
+      "num": 223157,
+      "word": "奶奶节俭了一辈子最后栽豆汁身上了",
+      "onboard_time": 1760075121,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 451840,
@@ -281,14 +313,6 @@
       "onboard_time": 1760052319,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 447165,
-      "num": 447165,
-      "word": "有女犯反复怀孕流产逃避服刑",
-      "onboard_time": 1760074040,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 422862,
@@ -331,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 375593,
+      "num": 375593,
+      "word": "男孩被戳伤左眼老师涂猪油消肿致感染",
+      "onboard_time": 1760077343,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 352017,
       "num": 352017,
       "word": "气温冷出11月水平",
@@ -339,12 +371,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 326766,
-      "num": 199593,
-      "word": "奶奶节俭了一辈子最后栽豆汁身上了",
-      "onboard_time": 1760075121,
-      "rank": 14,
-      "category": "幽默"
+      "raw_hot": 325249,
+      "num": 325249,
+      "word": "957结婚",
+      "onboard_time": 1760075300,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 319375,
@@ -403,14 +435,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 293007,
-      "num": 293007,
-      "word": "新加坡父女双尸案现场曝光",
-      "onboard_time": 1760075841,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 289418,
       "num": 231450,
       "word": "张檬回应晚上不带孩子",
@@ -425,6 +449,14 @@
       "onboard_time": 1760022921,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 274300,
+      "num": 274300,
+      "word": "A股",
+      "onboard_time": 1760079441,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 264001,
@@ -451,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 253537,
-      "num": 253537,
-      "word": "男孩被戳伤左眼老师涂猪油消肿致感染",
-      "onboard_time": 1760077343,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 249798,
       "num": 213346,
       "word": "终于有剧拍蒙面不把观众当傻子了",
@@ -473,14 +497,6 @@
       "onboard_time": 1760020402,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 247272,
-      "num": 161832,
-      "word": "娱乐圈的顶级公关",
-      "onboard_time": 1760077042,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 236606,
@@ -539,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210983,
+      "num": 210983,
+      "word": "英雄联盟S15",
+      "onboard_time": 1760079981,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205887,
       "num": 205887,
       "word": "国庆宅家8天黄金净赚近1万元",
@@ -577,14 +601,6 @@
       "onboard_time": 1760075361,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 198018,
-      "num": 198018,
-      "word": "957结婚",
-      "onboard_time": 1760075300,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 197796,
@@ -787,8 +803,8 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 140254,
-      "num": 140254,
+      "raw_hot": 141057,
+      "num": 141057,
       "word": "张维伊高中时期",
       "onboard_time": 1760078181,
       "rank": 45,
@@ -907,6 +923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127776,
+      "num": 127776,
+      "word": "迪丽热巴入围剧综人物",
+      "onboard_time": 1760080642,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127646,
       "num": 127646,
       "word": "芒果请来了80个人为李斯丹妮伴舞",
@@ -971,6 +995,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124349,
+      "num": 124349,
+      "word": "王安宇在巴黎怎么敢这样背包的",
+      "onboard_time": 1760077161,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 124204,
+      "num": 124204,
+      "word": "A股格局突变三大原因",
+      "onboard_time": 1760078901,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 123968,
       "num": 123968,
       "word": "赌王千金看秀贵气藏不住",
@@ -987,6 +1027,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123733,
+      "num": 123733,
+      "word": "王暖暖前夫被判赔50万",
+      "onboard_time": 1760081001,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123531,
+      "num": 123879,
+      "word": "武契奇欧盟峰会座位风波",
+      "onboard_time": 1760079021,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123354,
       "num": 123354,
       "word": "苏晓彤官宣我家那闺女",
@@ -996,7 +1052,7 @@
     },
     {
       "raw_hot": 123201,
-      "num": 204097,
+      "num": 241810,
       "word": "孙颖莎香飘飘同款秒售罄",
       "onboard_time": 1760078540,
       "rank": 10,
@@ -1091,12 +1147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117177,
+      "num": 255619,
+      "word": "泰国孕妇坠崖案受害人离婚案宣判",
+      "onboard_time": 1760080701,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116353,
       "num": 116353,
       "word": "我已经把眼睛睁到最大了 雷军",
       "onboard_time": 1760067500,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116286,
+      "num": 116286,
+      "word": "你是谁快从黄晓明身上下来",
+      "onboard_time": 1760080222,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 115245,
@@ -1137,6 +1209,14 @@
       "onboard_time": 1760072063,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 111747,
+      "num": 112490,
+      "word": "强生爽身粉致癌更多证据公布",
+      "onboard_time": 1760077343,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 111702,
@@ -1187,14 +1267,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 109327,
-      "num": 109327,
-      "word": "A股格局突变三大原因",
-      "onboard_time": 1760078901,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 109281,
       "num": 109281,
       "word": "宋亚轩给胡先煦打电话必定在做惩罚",
@@ -1236,7 +1308,7 @@
     },
     {
       "raw_hot": 106961,
-      "num": 200976,
+      "num": 213229,
       "word": "全新OriginOS6发布",
       "onboard_time": 1760078540,
       "rank": 14,
@@ -1273,6 +1345,14 @@
       "onboard_time": 1760072662,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102987,
+      "num": 102987,
+      "word": "苏翊鸣名字再一次写进滑雪史",
+      "onboard_time": 1760080041,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 102940,
@@ -1323,12 +1403,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 98859,
-      "num": 98859,
-      "word": "武契奇欧盟峰会座位风波",
-      "onboard_time": 1760079021,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 98823,
+      "num": 98823,
+      "word": "你的timi是什么英雄",
+      "onboard_time": 1760079621,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 98288,
@@ -1371,6 +1451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 92836,
+      "num": 113118,
+      "word": "男搭子向高反失温女孩母亲道歉",
+      "onboard_time": 1760080820,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90731,
       "num": 90731,
       "word": "藏海传总收视率超过6%",
@@ -1393,14 +1481,6 @@
       "onboard_time": 1760057601,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 88486,
-      "num": 112490,
-      "word": "强生爽身粉致癌更多证据公布",
-      "onboard_time": 1760077343,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 87352,
@@ -1481,6 +1561,14 @@
       "onboard_time": 1760060000,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 80845,
+      "num": 212488,
+      "word": "中国篮协与NBA达成战略合作",
+      "onboard_time": 1760079741,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 77268,
@@ -1651,14 +1739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 58597,
-      "num": 115290,
-      "word": "王安宇在巴黎怎么敢这样背包的",
-      "onboard_time": 1760077161,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 58191,
       "num": 177022,
       "word": "宋佳的S级选择",
@@ -1776,6 +1856,14 @@
       "word": "穿秋裤",
       "onboard_time": 1760048418,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48799,
+      "num": 98838,
+      "word": "当一个拆二代开始送外卖",
+      "onboard_time": 1760079441,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -2075,7 +2163,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 5796,
+      "raw_hot": 5916,
       "num": 830670,
       "word": "2025中秋国庆假期名场面",
       "onboard_time": 1759974320,
