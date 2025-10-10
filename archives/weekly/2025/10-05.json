@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1760052968951,
+  "endTime": 1760061041382,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -787,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 871641,
+      "num": 233243,
+      "word": "朋友圈发照片一定要检查视野盲区",
+      "onboard_time": 1760050996,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 863881,
       "num": 279529,
       "word": "网红猴哥说车官宣离婚",
@@ -939,14 +947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 793154,
-      "num": 129876,
-      "word": "朋友圈发照片一定要检查视野盲区",
-      "onboard_time": 1760050996,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 792284,
       "num": 254654,
       "word": "鹿晗新壁纸",
@@ -985,6 +985,14 @@
       "onboard_time": 1759662503,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 772321,
+      "num": 232934,
+      "word": "童锦程承认恋情",
+      "onboard_time": 1760052378,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 770502,
@@ -1217,6 +1225,14 @@
       "onboard_time": 1759994121,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 647352,
+      "num": 367738,
+      "word": "男子与女友吵架驾车撞死一家三口",
+      "onboard_time": 1760050938,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 643680,
@@ -1771,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 513651,
+      "num": 1082184,
+      "word": "黄金",
+      "onboard_time": 1759729041,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 512760,
       "num": 512760,
       "word": "西贝未回应嫌馒头贵不如努力赚钱",
@@ -1843,28 +1867,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 499345,
-      "num": 127755,
-      "word": "童锦程承认恋情",
-      "onboard_time": 1760052378,
-      "rank": 12,
-      "category": "网红"
-    },
-    {
       "raw_hot": 498380,
       "num": 144077,
       "word": "公司回应联系不上得诺奖的员工",
       "onboard_time": 1759881621,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 497990,
-      "num": 497990,
-      "word": "黄金",
-      "onboard_time": 1759729041,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 497102,
@@ -1984,6 +1992,14 @@
       "word": "国庆去韩国的人后悔了吗",
       "onboard_time": 1759980138,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 479413,
+      "num": 479413,
+      "word": "男子因担保被银行擅自划扣35万元",
+      "onboard_time": 1760054000,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -2164,7 +2180,7 @@
     },
     {
       "raw_hot": 448737,
-      "num": 126361,
+      "num": 232530,
       "word": "李沁造型师上热搜后立马换衣服了",
       "onboard_time": 1760052319,
       "rank": 13,
@@ -2411,6 +2427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 419996,
+      "num": 231934,
+      "word": "影视飓风Tim曝公司营收构成",
+      "onboard_time": 1760059220,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 419822,
       "num": 538974,
       "word": "歼35机库首公开",
@@ -2481,6 +2505,14 @@
       "onboard_time": 1759998321,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410443,
+      "num": 231840,
+      "word": "盛夏芬德拉播放量破30亿",
+      "onboard_time": 1760055081,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 408054,
@@ -2819,14 +2851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 367738,
-      "num": 367738,
-      "word": "男子与女友吵架驾车撞死一家三口",
-      "onboard_time": 1760050938,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 363907,
       "num": 186788,
       "word": "郭富城回应三胎已出生",
@@ -2921,6 +2945,14 @@
       "onboard_time": 1759965019,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 352017,
+      "num": 352017,
+      "word": "气温冷出11月水平",
+      "onboard_time": 1760055979,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 350391,
@@ -3396,7 +3428,7 @@
     },
     {
       "raw_hot": 311046,
-      "num": 125989,
+      "num": 167827,
       "word": "石原里美3年生2娃",
       "onboard_time": 1760031376,
       "rank": 33,
@@ -3473,6 +3505,14 @@
       "onboard_time": 1759929801,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 302802,
+      "num": 302802,
+      "word": "台独水军指挥官照片",
+      "onboard_time": 1760052258,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302060,
@@ -3617,6 +3657,14 @@
       "onboard_time": 1759658903,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 289418,
+      "num": 231450,
+      "word": "张檬回应晚上不带孩子",
+      "onboard_time": 1760052319,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 288815,
@@ -3876,7 +3924,7 @@
     },
     {
       "raw_hot": 274782,
-      "num": 123552,
+      "num": 176481,
       "word": "高反失温女孩年仅20岁刚毕业",
       "onboard_time": 1760022921,
       "rank": 21,
@@ -3977,6 +4025,14 @@
       "onboard_time": 1759658062,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264001,
+      "num": 230802,
+      "word": "谢兴阳怎么了",
+      "onboard_time": 1760052378,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 263675,
@@ -4099,6 +4155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254972,
+      "num": 254972,
+      "word": "故宫同一片天空看到泪目",
+      "onboard_time": 1760054121,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 254494,
       "num": 158439,
       "word": "家有儿女还是太写实了",
@@ -4208,14 +4272,6 @@
       "word": "王影璐李昀锐发红包",
       "onboard_time": 1760011281,
       "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 249001,
-      "num": 124207,
-      "word": "张檬回应晚上不带孩子",
-      "onboard_time": 1760052319,
-      "rank": 15,
       "category": "艺人"
     },
     {
@@ -4489,6 +4545,14 @@
       "onboard_time": 1759837881,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 230732,
+      "num": 230732,
+      "word": "100秒致敬故宫百年守护",
+      "onboard_time": 1760060480,
+      "rank": 17,
+      "category": "正能量"
     },
     {
       "raw_hot": 230666,
@@ -5211,6 +5275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196457,
+      "num": 174380,
+      "word": "潘玮柏女儿完美继承爸爸碳水脑袋",
+      "onboard_time": 1760054600,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196185,
       "num": 196185,
       "word": "中秋节快乐",
@@ -5587,6 +5659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189170,
+      "num": 189170,
+      "word": "iPhone18Fold中框曝光",
+      "onboard_time": 1760050938,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 188788,
       "num": 188788,
       "word": "朱志鑫 能不能不上班就有工资",
@@ -5961,6 +6041,14 @@
       "onboard_time": 1759997000,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180092,
+      "num": 180092,
+      "word": "赖清德拍所谓抗中神剧给台青洗脑",
+      "onboard_time": 1760055081,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 180067,
@@ -6723,6 +6811,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 165104,
+      "num": 165104,
+      "word": "故宫博物院百岁生日快乐",
+      "onboard_time": 1760059760,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 164848,
       "num": 164848,
       "word": "姐姐骗弟弟学校提前一天开学",
@@ -6908,7 +7004,7 @@
     },
     {
       "raw_hot": 161677,
-      "num": 223874,
+      "num": 233403,
       "word": "完美婆娘涨粉7.31万",
       "onboard_time": 1760025621,
       "rank": 9,
@@ -7153,6 +7249,14 @@
       "onboard_time": 1759652000,
       "rank": 33,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 156404,
+      "num": 156404,
+      "word": "管金生突发疾病逝世",
+      "onboard_time": 1760058861,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 156375,
@@ -8203,6 +8307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139019,
+      "num": 139019,
+      "word": "台湾王氏研创艺术公司宣传台独",
+      "onboard_time": 1760058741,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138967,
       "num": 138967,
       "word": "同事称诺奖得主在徒步旅行联系不上",
@@ -8627,6 +8739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134690,
+      "num": 134690,
+      "word": "南北方天气差异为何那么大",
+      "onboard_time": 1760057541,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134588,
       "num": 134588,
       "word": "51岁的林志玲",
@@ -8707,6 +8827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134046,
+      "num": 134046,
+      "word": "李庚希抵制代拍",
+      "onboard_time": 1760058621,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133970,
       "num": 133970,
       "word": "吴邪私家笔记",
@@ -8721,6 +8849,14 @@
       "onboard_time": 1759969520,
       "rank": 24,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 133888,
+      "num": 133888,
+      "word": "新疆独库公路10月10日晚封闭",
+      "onboard_time": 1760055200,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133861,
@@ -8865,14 +9001,6 @@
       "onboard_time": 1759654461,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 132370,
-      "num": 132370,
-      "word": "iPhone18Fold中框曝光",
-      "onboard_time": 1760050938,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 132310,
@@ -9025,6 +9153,14 @@
       "onboard_time": 1760006241,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129936,
+      "num": 129936,
+      "word": "李沁越素越惊艳",
+      "onboard_time": 1760058741,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 129774,
@@ -9363,6 +9499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125053,
+      "num": 125053,
+      "word": "许我耀眼36.6%",
+      "onboard_time": 1760031436,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125012,
       "num": 133523,
       "word": "娜扎古装怎么美成这样",
@@ -9489,14 +9633,6 @@
       "onboard_time": 1759652121,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 123346,
-      "num": 123346,
-      "word": "台独水军指挥官照片",
-      "onboard_time": 1760052258,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 123285,
@@ -10179,6 +10315,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115863,
+      "num": 115863,
+      "word": "熬夜猝死前3个预警信号",
+      "onboard_time": 1760059220,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 115825,
       "num": 115825,
       "word": "王楚钦中秋限定月饼海报",
@@ -10489,6 +10633,14 @@
       "onboard_time": 1759668924,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113030,
+      "num": 113030,
+      "word": "许我耀眼开虐好命哥一家子",
+      "onboard_time": 1760058981,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 112999,
@@ -11939,6 +12091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102261,
+      "num": 102261,
+      "word": "男子停在应急车道接工作电话扣9分",
+      "onboard_time": 1760059519,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101981,
       "num": 166667,
       "word": "高市早苗要求大家玩命工作",
@@ -13371,6 +13531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89956,
+      "num": 89956,
+      "word": "停火后以军仍屠杀难民",
+      "onboard_time": 1760057601,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89927,
       "num": 93404,
       "word": "近视眼的世界真这么离谱吗",
@@ -13771,6 +13939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 86502,
+      "num": 86502,
+      "word": "自己动手卷出都市栗人羊毛卷",
+      "onboard_time": 1760060540,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 86423,
       "num": 106890,
       "word": "手机店免费充电线遭男子故意扯断",
@@ -14115,6 +14291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82827,
+      "num": 82827,
+      "word": "林孝埈孙龙刘少昂1500米全晋级",
+      "onboard_time": 1760059460,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82778,
       "num": 145100,
       "word": "中秋团圆",
@@ -14147,6 +14331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82292,
+      "num": 82292,
+      "word": "德国工业产值暴跌",
+      "onboard_time": 1760057481,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 82274,
       "num": 139440,
       "word": "钢铁战士王楚钦",
@@ -14161,6 +14353,14 @@
       "onboard_time": 1759910240,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82138,
+      "num": 82138,
+      "word": "杨幂破洞look",
+      "onboard_time": 1760060360,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 81971,
@@ -14225,6 +14425,14 @@
       "onboard_time": 1759730301,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81069,
+      "num": 81069,
+      "word": "拍八虚拍到猫咪的麻筋上了",
+      "onboard_time": 1760060000,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 80943,
@@ -14491,6 +14699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77268,
+      "num": 77268,
+      "word": "重庆百万粉丝抗癌博主黄三姐离世",
+      "onboard_time": 1760054301,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76922,
       "num": 198123,
       "word": "第十五届全运会",
@@ -14715,6 +14931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72296,
+      "num": 72296,
+      "word": "河南景区1元午餐实收多了1327元",
+      "onboard_time": 1760050938,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71846,
       "num": 71846,
       "word": "吴磊率先破门得分",
@@ -14803,14 +15027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 70506,
-      "num": 70506,
-      "word": "河南景区1元午餐实收多了1327元",
-      "onboard_time": 1760050938,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70444,
       "num": 118406,
       "word": "女子骗钱后怕暴露在朋友圈发布死讯",
@@ -14851,14 +15067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 69938,
-      "num": 69938,
-      "word": "谢兴阳怎么了",
-      "onboard_time": 1760052378,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 69828,
       "num": 69828,
       "word": "法拉利跌超13%",
@@ -14891,20 +15099,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69459,
+      "num": 69459,
+      "word": "第一批00后工作8年的感受",
+      "onboard_time": 1760061019,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 68946,
       "num": 128502,
       "word": "杨瀚森走步",
       "onboard_time": 1759987220,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68945,
-      "num": 68945,
-      "word": "许我耀眼36.6%",
-      "onboard_time": 1760031436,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 68632,
