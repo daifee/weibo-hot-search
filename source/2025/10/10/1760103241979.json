@@ -1,0 +1,410 @@
+{
+  "runTime": 1760103241979,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 599529,
+        "num": 1095924,
+        "word": "人唯一不会长大的器官",
+        "onboard_time": 1760091261,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 511678,
+        "num": 511678,
+        "word": "2岁女童跌入开水锅特重度烧伤",
+        "onboard_time": 1760099601,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23389,
+        "num": 338044,
+        "word": "全国通办婚姻登记26.3万余对",
+        "onboard_time": 1760075421,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 809271,
+        "num": 333981,
+        "word": "约女生去图书馆男生和妈妈冷战3月",
+        "onboard_time": 1760096241,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 320440,
+        "num": 320440,
+        "word": "曝广西一小学老师踹飞两名学生",
+        "onboard_time": 1760099061,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318084,
+        "num": 318084,
+        "word": "高市早苗或无望日本首相",
+        "onboard_time": 1760098400,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266842,
+        "num": 266842,
+        "word": "事业单位公众号停更2年变色情链接",
+        "onboard_time": 1760099001,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216867,
+        "num": 216867,
+        "word": "新华社评小米对标苹果",
+        "onboard_time": 1760101942,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 214740,
+        "num": 214740,
+        "word": "北方暴雨冷到破纪录",
+        "onboard_time": 1760086402,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179329,
+        "num": 179329,
+        "word": "曾凡博 篮网",
+        "onboard_time": 1760102362,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 819252,
+        "num": 179180,
+        "word": "Angelababy公主皇冠",
+        "onboard_time": 1760099122,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 776314,
+        "num": 179017,
+        "word": "王暖暖成功离婚",
+        "onboard_time": 1760081540,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 680981,
+        "num": 177346,
+        "word": "白鹿说自己得了疑难杂症",
+        "onboard_time": 1760100322,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174661,
+        "num": 174661,
+        "word": "美方限制中国航班飞越俄罗斯领空",
+        "onboard_time": 1760087121,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 651845,
+        "num": 174079,
+        "word": "陈伟霆 早期baby严选的权威性",
+        "onboard_time": 1760091441,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621482,
+        "num": 173692,
+        "word": "向华强发声明回应向家破产",
+        "onboard_time": 1760094201,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561622,
+        "num": 172588,
+        "word": "日本母亲杀死女儿冰箱藏尸20年",
+        "onboard_time": 1760090840,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 474379,
+        "num": 172125,
+        "word": "许我耀眼名场面 张翰娜扎官宣图",
+        "onboard_time": 1760081901,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429284,
+        "num": 171750,
+        "word": "资助了6年的妹妹第一笔工资给了我",
+        "onboard_time": 1760092941,
+        "rank": 18,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 49200,
+        "num": 170901,
+        "word": "兰蔻这趟专列的旅客好养眼",
+        "onboard_time": 1760101461,
+        "rank": 19,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 345294,
+        "num": 169818,
+        "word": "肖战直播",
+        "onboard_time": 1760097621,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38623,
+        "num": 169557,
+        "word": "石破茂讲话回避日本加害责任",
+        "onboard_time": 1760101942,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 332629,
+        "num": 168856,
+        "word": "王暖暖离婚案推动制度进步",
+        "onboard_time": 1760093302,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316491,
+        "num": 168143,
+        "word": "白鹿8月生病瘦到86斤",
+        "onboard_time": 1760102961,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293855,
+        "num": 167435,
+        "word": "女子洗完澡发现窗外无人机悬停",
+        "onboard_time": 1760098221,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252484,
+        "num": 166363,
+        "word": "陈都灵横店被骗",
+        "onboard_time": 1760102602,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187263,
+        "num": 165585,
+        "word": "李沁陈哲远情头",
+        "onboard_time": 1760099842,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209374,
+        "num": 165047,
+        "word": "关晓彤少喝点吧",
+        "onboard_time": 1760102602,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164815,
+        "num": 164815,
+        "word": "苏新皓复工 报复性营业",
+        "onboard_time": 1760102961,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157787,
+        "num": 157787,
+        "word": "少司缘新皮肤",
+        "onboard_time": 1760092881,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156122,
+        "num": 156122,
+        "word": "吉利星愿",
+        "onboard_time": 1760100500,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 148908,
+        "num": 148908,
+        "word": "冯建宇直播",
+        "onboard_time": 1760095460,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136271,
+        "num": 136271,
+        "word": "专家评必须注意石破茂讲话局限性",
+        "onboard_time": 1760102423,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131024,
+        "num": 131024,
+        "word": "张婧仪真公主",
+        "onboard_time": 1760098760,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130517,
+        "num": 130517,
+        "word": "王暖暖方回应成功离婚",
+        "onboard_time": 1760083404,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129504,
+        "num": 129504,
+        "word": "韩国0比5巴西",
+        "onboard_time": 1760102902,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117496,
+        "num": 117496,
+        "word": "内娱很少见剧情这么猛的剧了",
+        "onboard_time": 1760103082,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117150,
+        "num": 117150,
+        "word": "公明党称首相选举不给高市早苗投票",
+        "onboard_time": 1760101641,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115446,
+        "num": 115446,
+        "word": "肝癌更容易找上3类人",
+        "onboard_time": 1760093600,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114531,
+        "num": 115027,
+        "word": "23万粉丝博主为百色抗洪捐1分钱",
+        "onboard_time": 1760097621,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114465,
+        "num": 114807,
+        "word": "张晚意 你不是只有一块肥皂吗",
+        "onboard_time": 1760096361,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113713,
+        "num": 114751,
+        "word": "48岁油漆工地下室刷漆后中毒离世",
+        "onboard_time": 1760095460,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114733,
+        "num": 114733,
+        "word": "原神兑换码",
+        "onboard_time": 1760100740,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111922,
+        "num": 111922,
+        "word": "34款APP违规收集使用个人信息",
+        "onboard_time": 1760101101,
+        "rank": 43,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 106111,
+        "num": 106111,
+        "word": "35岁男子回应名字叫甄嬛",
+        "onboard_time": 1760102842,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105772,
+        "num": 105772,
+        "word": "Wolves对战DOU5",
+        "onboard_time": 1760102661,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101952,
+        "num": 101952,
+        "word": "故宫博物院建院100年",
+        "onboard_time": 1760086522,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100017,
+        "num": 100017,
+        "word": "NBA中国赛世纪同框",
+        "onboard_time": 1760102902,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98690,
+        "num": 98690,
+        "word": "TF四代10月考核",
+        "onboard_time": 1760098641,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96214,
+        "num": 98342,
+        "word": "张杰演唱会",
+        "onboard_time": 1760101222,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中朝关系不断向前发展#"
+    }
+  }
+}
