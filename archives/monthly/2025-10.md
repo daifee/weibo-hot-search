@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/11 06:39:16
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/11 07:22:32
 </p>
 </blockquote>
 <p>
@@ -2541,6 +2541,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%8D%8E%E5%BC%BA%20%E9%9A%86%E9%87%8D%E7%9A%84%E8%BE%9F%E8%B0%A3%E6%96%B9%E5%BC%8F%23" target="weibo">
+向华强 隆重的辟谣方式（热度：545032）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%81%8C%E9%9D%A2%E6%B1%A4%E5%91%9B%E6%AD%BB%E5%A6%BB%E5%AD%90%E6%A1%88%E5%86%8D%E6%AC%A1%E5%BB%B6%E6%9C%9F%E5%AE%A1%E7%90%86%23" target="weibo">
 男子灌面汤呛死妻子案再次延期审理（热度：544108）
 </a>
@@ -3707,6 +3713,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4%23" target="weibo">
 永劫无间（热度：416788）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%88%87%E5%89%B2%E5%A2%99%E4%BD%93%E6%97%B6%E5%88%87%E5%89%B2%E6%9C%BA%E5%BC%B9%E5%87%BA%E5%88%87%E5%85%A5%E8%85%B9%E9%83%A8%23" target="weibo">
+男子切割墙体时切割机弹出切入腹部（热度：416046）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iG全员回国（热度：266621）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B2%E6%AF%944F%E5%8B%92%E5%B8%83%E4%BC%A6%23" target="weibo">
 林诗栋2比4F勒布伦（热度：254435）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%87%E5%BA%A6%E5%8C%BB%E7%BE%8E%E9%9D%A2%E9%83%A8%E9%A6%92%E5%8C%96%E9%85%B7%E4%BC%BC%E9%9D%A2%E5%85%B7%E4%BA%BA%23" target="weibo">
-女子过度医美面部馒化酷似面具人（热度：253942）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%81%BF%E7%81%BF%E8%AF%B4%E4%B8%8D%E4%BC%9A%E7%BB%93%E5%A9%9A%E4%BA%86%23" target="weibo">
-黄灿灿说不会结婚了（热度：253649）
 </a>
 </li>
 

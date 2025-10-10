@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760135956858,
+  "endTime": 1760138552055,
   "band_list": [
     {
       "raw_hot": 3831995,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 545032,
+      "num": 118979,
+      "word": "向华强 隆重的辟谣方式",
+      "onboard_time": 1760120955,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 450503,
       "num": 450503,
       "word": "山姆大疆补偿方案",
@@ -41,6 +49,14 @@
       "onboard_time": 1760100322,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 416046,
+      "num": 118712,
+      "word": "男子切割墙体时切割机弹出切入腹部",
+      "onboard_time": 1760137758,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 305915,
@@ -75,12 +91,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 226445,
-      "num": 226445,
+      "raw_hot": 281648,
+      "num": 281648,
       "word": "中方一个个点名多个国家劣迹",
       "onboard_time": 1760106203,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 247822,
+      "num": 247822,
+      "word": "盘锦一养殖户数万斤罗氏虾一夜冻死",
+      "onboard_time": 1760107225,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223788,
@@ -91,20 +115,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 214110,
-      "num": 57737,
-      "word": "向华强 隆重的辟谣方式",
-      "onboard_time": 1760120955,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207089,
       "num": 207089,
       "word": "JDG战胜狼队",
       "onboard_time": 1760108725,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 193917,
+      "num": 117879,
+      "word": "第一次觉得曲筱绡的刻薄恰到好处",
+      "onboard_time": 1760129893,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 186832,
@@ -115,12 +139,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 186375,
+      "num": 186375,
+      "word": "消息称宗馥莉辞职因商标不合规",
+      "onboard_time": 1760110701,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184986,
       "num": 184986,
       "word": "美股",
       "onboard_time": 1760110941,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 182228,
+      "num": 182228,
+      "word": "山西一车站售票员上班刷手机被调岗",
+      "onboard_time": 1760112560,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174316,
@@ -139,11 +179,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 152942,
-      "num": 152942,
-      "word": "盘锦一养殖户数万斤罗氏虾一夜冻死",
-      "onboard_time": 1760107225,
-      "rank": 8,
+      "raw_hot": 154970,
+      "num": 117495,
+      "word": "女子洗完澡发现窗外无人机悬停",
+      "onboard_time": 1760098221,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -153,6 +193,14 @@
       "onboard_time": 1760090840,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 146316,
+      "num": 116557,
+      "word": "马云成龙贝克汉姆并排观赛",
+      "onboard_time": 1760137638,
+      "rank": 19,
+      "category": "互联网,体育"
     },
     {
       "raw_hot": 135516,
@@ -171,6 +219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128324,
+      "num": 128324,
+      "word": "美对中国船舶收费中方对美同时实施",
+      "onboard_time": 1760113879,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 122167,
       "num": 122167,
       "word": "向华强发声明回应向家破产",
@@ -187,22 +243,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 114767,
-      "num": 114767,
-      "word": "消息称宗馥莉辞职因商标不合规",
-      "onboard_time": 1760110701,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 111331,
-      "num": 111331,
-      "word": "女子洗完澡发现窗外无人机悬停",
-      "onboard_time": 1760098221,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 110976,
       "num": 110976,
       "word": "肯德基套餐被曝吃出活虫",
@@ -211,20 +251,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108696,
-      "num": 55273,
-      "word": "第一次觉得曲筱绡的刻薄恰到好处",
-      "onboard_time": 1760129893,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 109334,
+      "num": 109334,
+      "word": "建议早餐吃点高热量食物",
+      "onboard_time": 1760108663,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 100236,
-      "num": 100236,
-      "word": "山西一车站售票员上班刷手机被调岗",
-      "onboard_time": 1760112560,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 101618,
+      "num": 67449,
+      "word": "新加坡双亡案女儿同学发声",
+      "onboard_time": 1760138299,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 91970,
@@ -233,6 +273,14 @@
       "onboard_time": 1760112021,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90903,
+      "num": 90903,
+      "word": "徒步甘孜失温女生最新情况",
+      "onboard_time": 1760137638,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90529,
@@ -259,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80887,
-      "num": 80887,
-      "word": "美对中国船舶收费中方对美同时实施",
-      "onboard_time": 1760113879,
-      "rank": 26,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 78347,
       "num": 78347,
       "word": "许我耀眼31集预告",
@@ -291,12 +331,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 71190,
-      "num": 71190,
-      "word": "建议早餐吃点高热量食物",
-      "onboard_time": 1760108663,
+      "raw_hot": 71634,
+      "num": 71634,
+      "word": "李昀锐原来这就是传说中的C位",
+      "onboard_time": 1760135595,
       "rank": 47,
-      "category": "健康医疗"
+      "category": "剧集"
     },
     {
       "raw_hot": 69960,
@@ -419,6 +459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 56316,
+      "num": 56316,
+      "word": "身体5处不舒服可能是心梗",
+      "onboard_time": 1760138299,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 55967,
       "num": 55967,
       "word": "兰蔻晚宴上的张凌赫",
@@ -443,20 +491,44 @@
       "category": "情感"
     },
     {
-      "raw_hot": 36253,
-      "num": 43098,
+      "raw_hot": 46185,
+      "num": 46185,
+      "word": "花开锦绣预约人数破50万",
+      "onboard_time": 1760138358,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 43796,
+      "num": 43796,
+      "word": "全球每8人就有1人患精神疾病",
+      "onboard_time": 1760116637,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41613,
+      "num": 43796,
+      "word": "徒步高反失温女生不排除植物人风险",
+      "onboard_time": 1760130614,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41049,
+      "num": 43792,
       "word": "日本首相选举出现黑马",
       "onboard_time": 1760105604,
       "rank": 49,
       "category": "国际时政"
     },
     {
-      "raw_hot": 31309,
-      "num": 43131,
-      "word": "全球每8人就有1人患精神疾病",
-      "onboard_time": 1760116637,
+      "raw_hot": 40687,
+      "num": 43789,
+      "word": "这些症状是身体在拉响抑郁警报",
+      "onboard_time": 1760137758,
       "rank": 45,
-      "category": "民生新闻"
+      "category": "健康医疗"
     },
     {
       "raw_hot": 29971,
@@ -480,14 +552,6 @@
       "word": "全国通办婚姻登记26.3万余对",
       "onboard_time": 1760075421,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29122,
-      "num": 29122,
-      "word": "徒步高反失温女生不排除植物人风险",
-      "onboard_time": 1760130614,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -523,12 +587,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 15677,
-      "num": 29122,
-      "word": "李昀锐原来这就是传说中的C位",
-      "onboard_time": 1760135595,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 17059,
+      "num": 56557,
+      "word": "十个勤天新专辑",
+      "onboard_time": 1760119515,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 14939,
@@ -545,14 +609,6 @@
       "onboard_time": 1760115556,
       "rank": 45,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 14487,
-      "num": 34176,
-      "word": "十个勤天新专辑",
-      "onboard_time": 1760119515,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 14351,
