@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1760107376146,
+  "endTime": 1760109916881,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -11,20 +11,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9522596,
+      "num": 9522596,
+      "word": "宗馥莉已经辞职",
+      "onboard_time": 1760105843,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9127369,
       "num": 9127369,
       "word": "公司错发1.65亿工资员工被判不退款",
       "onboard_time": 1759988781,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 8791237,
-      "num": 8791237,
-      "word": "宗馥莉已经辞职",
-      "onboard_time": 1760105843,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7988861,
@@ -121,6 +121,22 @@
       "onboard_time": 1760100322,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2155622,
+      "num": 716262,
+      "word": "宗馥莉将独立经营娃小宗",
+      "onboard_time": 1760106863,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1970475,
+      "num": 280290,
+      "word": "王青回应",
+      "onboard_time": 1760106925,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1875430,
@@ -1211,6 +1227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 781950,
+      "num": 229473,
+      "word": "王青 不要因为我影响冯建宇",
+      "onboard_time": 1760107703,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 779523,
       "num": 213646,
       "word": "战沁",
@@ -1336,14 +1360,6 @@
       "word": "教育局回应家长跪地被学生轮流踩踏",
       "onboard_time": 1759749261,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 716262,
-      "num": 716262,
-      "word": "宗馥莉将独立经营娃小宗",
-      "onboard_time": 1760106863,
-      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -1587,14 +1603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 637372,
-      "num": 280290,
-      "word": "王青回应",
-      "onboard_time": 1760106925,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 636519,
       "num": 636519,
       "word": "鸡排哥有专属空调了",
@@ -1625,6 +1633,14 @@
       "onboard_time": 1759831821,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 630844,
+      "num": 630844,
+      "word": "JDG战胜狼队",
+      "onboard_time": 1760108725,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 629924,
@@ -1737,6 +1753,14 @@
       "onboard_time": 1760059220,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 607341,
+      "num": 286730,
+      "word": "娃哈哈回应宗馥莉辞职属实",
+      "onboard_time": 1760106443,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 606156,
@@ -3091,6 +3115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 401979,
+      "num": 401979,
+      "word": "中方一个个点名多个国家劣迹",
+      "onboard_time": 1760106203,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 401042,
       "num": 401042,
       "word": "湖南卫视中秋之夜节目单",
@@ -4227,6 +4259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294219,
+      "num": 294219,
+      "word": "美股跳水",
+      "onboard_time": 1760109503,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 293683,
       "num": 172764,
       "word": "时代少年团接触个代",
@@ -4336,14 +4376,6 @@
       "word": "家猫突然扑向主人挠20多道伤口",
       "onboard_time": 1759626139,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 286730,
-      "num": 286730,
-      "word": "娃哈哈回应宗馥莉辞职属实",
-      "onboard_time": 1760106443,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -4473,6 +4505,14 @@
       "onboard_time": 1759709838,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 279616,
+      "num": 279616,
+      "word": "山姆大疆补偿方案",
+      "onboard_time": 1760108844,
+      "rank": 6,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 279497,
@@ -5097,14 +5137,6 @@
       "onboard_time": 1760095460,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242067,
-      "num": 242067,
-      "word": "中方一个个点名多个国家劣迹",
-      "onboard_time": 1760106203,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 241917,
@@ -7659,6 +7691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170015,
+      "num": 170015,
+      "word": "徐若晗珍珠白裙",
+      "onboard_time": 1760108604,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169747,
       "num": 169747,
       "word": "王珞丹上身基础腿就不基础",
@@ -8553,6 +8593,14 @@
       "onboard_time": 1759736902,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155340,
+      "num": 155340,
+      "word": "穆祉丞高会更新",
+      "onboard_time": 1760109262,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 155330,
@@ -10411,6 +10459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133809,
+      "num": 133809,
+      "word": "侯明昊电梯神图",
+      "onboard_time": 1760109383,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133786,
       "num": 133786,
       "word": "华为回应多款APP无法完全适配",
@@ -10548,7 +10604,7 @@
     },
     {
       "raw_hot": 132689,
-      "num": 132689,
+      "num": 231814,
       "word": "盘锦一养殖户数万斤罗氏虾一夜冻死",
       "onboard_time": 1760107225,
       "rank": 40,
@@ -10560,6 +10616,14 @@
       "word": "王楚钦10900分世排第一",
       "onboard_time": 1759795699,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132623,
+      "num": 132623,
+      "word": "曾凡博抢断狄龙",
+      "onboard_time": 1760109622,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -10793,6 +10857,14 @@
       "onboard_time": 1760006241,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130144,
+      "num": 130144,
+      "word": "许我耀眼31集预告",
+      "onboard_time": 1760108725,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 130118,
@@ -11065,6 +11137,14 @@
       "onboard_time": 1759655658,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127143,
+      "num": 127143,
+      "word": "狼队对战JDG",
+      "onboard_time": 1760105422,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 127121,
@@ -11537,6 +11617,14 @@
       "onboard_time": 1760078540,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123181,
+      "num": 123181,
+      "word": "建议早餐吃点高热量食物",
+      "onboard_time": 1760108663,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 123175,
@@ -12251,6 +12339,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 117051,
+      "num": 227777,
+      "word": "宗馥莉仍持有29.4%娃哈哈集团股份",
+      "onboard_time": 1760108485,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117027,
       "num": 117027,
       "word": "林依轮说乒乓球特别上头",
@@ -12289,6 +12385,14 @@
       "onboard_time": 1759834461,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116903,
+      "num": 116903,
+      "word": "齐溪张子枫你们看何老师快哭了",
+      "onboard_time": 1760108005,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 116677,
@@ -13585,6 +13689,14 @@
       "onboard_time": 1760071342,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108485,
+      "num": 108485,
+      "word": "Doinb曝明年不打了",
+      "onboard_time": 1760109742,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 108457,
@@ -15155,6 +15267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97116,
+      "num": 97116,
+      "word": "肯德基套餐被曝吃出活虫",
+      "onboard_time": 1760108425,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97092,
       "num": 111575,
       "word": "李昀锐古装",
@@ -15299,6 +15419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95675,
+      "num": 95675,
+      "word": "中国在联合国霸气回应抹黑",
+      "onboard_time": 1760109862,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 95635,
       "num": 95635,
       "word": "丁程鑫冷帽眉钉",
@@ -15321,6 +15449,14 @@
       "onboard_time": 1759987820,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 95429,
+      "num": 95429,
+      "word": "陈伟霆听到男粉喊妍妍接电话的反应",
+      "onboard_time": 1760107525,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 95402,
@@ -15905,6 +16041,14 @@
       "onboard_time": 1759726101,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 90831,
+      "num": 197332,
+      "word": "宗馥莉仍是娃哈哈第二大股东",
+      "onboard_time": 1760108425,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90817,
@@ -19355,6 +19499,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 30539,
+      "num": 227311,
+      "word": "石破茂称日政府从未否认侵略战争",
+      "onboard_time": 1760109622,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30321,
       "num": 92386,
       "word": "央视中秋晚会 德阳",
@@ -19625,6 +19777,14 @@
       "onboard_time": 1759601956,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24049,
+      "num": 116609,
+      "word": "营口一所小学秋季开学1个月后关闭",
+      "onboard_time": 1760108904,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23925,

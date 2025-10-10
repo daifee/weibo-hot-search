@@ -1,10 +1,10 @@
 {
   "startTime": 1760027698551,
-  "endTime": 1760107376146,
+  "endTime": 1760109916881,
   "band_list": [
     {
-      "raw_hot": 8791237,
-      "num": 8791237,
+      "raw_hot": 9522596,
+      "num": 9522596,
       "word": "宗馥莉已经辞职",
       "onboard_time": 1760105843,
       "rank": 0,
@@ -25,6 +25,22 @@
       "onboard_time": 1760100322,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2155622,
+      "num": 716262,
+      "word": "宗馥莉将独立经营娃小宗",
+      "onboard_time": 1760106863,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1970475,
+      "num": 280290,
+      "word": "王青回应",
+      "onboard_time": 1760106925,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1670006,
@@ -267,6 +283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 781950,
+      "num": 229473,
+      "word": "王青 不要因为我影响冯建宇",
+      "onboard_time": 1760107703,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 772321,
       "num": 245173,
       "word": "童锦程承认恋情",
@@ -289,14 +313,6 @@
       "onboard_time": 1760091261,
       "rank": 21,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 716262,
-      "num": 716262,
-      "word": "宗馥莉将独立经营娃小宗",
-      "onboard_time": 1760106863,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 704812,
@@ -371,12 +387,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 637372,
-      "num": 280290,
-      "word": "王青回应",
-      "onboard_time": 1760106925,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 630844,
+      "num": 630844,
+      "word": "JDG战胜狼队",
+      "onboard_time": 1760108725,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 629924,
@@ -425,6 +441,14 @@
       "onboard_time": 1760059220,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 607341,
+      "num": 286730,
+      "word": "娃哈哈回应宗馥莉辞职属实",
+      "onboard_time": 1760106443,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 603113,
@@ -635,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 401979,
+      "num": 401979,
+      "word": "中方一个个点名多个国家劣迹",
+      "onboard_time": 1760106203,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 399617,
       "num": 399617,
       "word": "王暖暖前夫被判赔50万",
@@ -811,6 +843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 294219,
+      "num": 294219,
+      "word": "美股跳水",
+      "onboard_time": 1760109503,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
       "raw_hot": 289418,
       "num": 231450,
       "word": "张檬回应晚上不带孩子",
@@ -819,20 +859,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286730,
-      "num": 286730,
-      "word": "娃哈哈回应宗馥莉辞职属实",
-      "onboard_time": 1760106443,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 279971,
       "num": 279971,
       "word": "少司缘新皮肤",
       "onboard_time": 1760092881,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 279616,
+      "num": 279616,
+      "word": "山姆大疆补偿方案",
+      "onboard_time": 1760108844,
+      "rank": 6,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 274782,
@@ -937,14 +977,6 @@
       "onboard_time": 1760095460,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 242067,
-      "num": 242067,
-      "word": "中方一个个点名多个国家劣迹",
-      "onboard_time": 1760106203,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 240290,
@@ -1339,6 +1371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170015,
+      "num": 170015,
+      "word": "徐若晗珍珠白裙",
+      "onboard_time": 1760108604,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168783,
       "num": 168783,
       "word": "咪不要看 是黑图",
@@ -1504,6 +1544,14 @@
       "word": "霉霉曝未婚夫认错人乌龙事件",
       "onboard_time": 1760072421,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 155340,
+      "num": 155340,
+      "word": "穆祉丞高会更新",
+      "onboard_time": 1760109262,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -1875,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133809,
+      "num": 133809,
+      "word": "侯明昊电梯神图",
+      "onboard_time": 1760109383,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133476,
       "num": 133476,
       "word": "朱志鑫苏新皓入围影视cp",
@@ -1892,11 +1948,19 @@
     },
     {
       "raw_hot": 132689,
-      "num": 132689,
+      "num": 231814,
       "word": "盘锦一养殖户数万斤罗氏虾一夜冻死",
       "onboard_time": 1760107225,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132623,
+      "num": 132623,
+      "word": "曾凡博抢断狄龙",
+      "onboard_time": 1760109622,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 132118,
@@ -1969,6 +2033,14 @@
       "onboard_time": 1760101041,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130144,
+      "num": 130144,
+      "word": "许我耀眼31集预告",
+      "onboard_time": 1760108725,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 130118,
@@ -2073,6 +2145,14 @@
       "onboard_time": 1760073381,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127143,
+      "num": 127143,
+      "word": "狼队对战JDG",
+      "onboard_time": 1760105422,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 127006,
@@ -2233,6 +2313,14 @@
       "onboard_time": 1760078540,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123181,
+      "num": 123181,
+      "word": "建议早餐吃点高热量食物",
+      "onboard_time": 1760108663,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 123078,
@@ -2411,11 +2499,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117051,
+      "num": 227777,
+      "word": "宗馥莉仍持有29.4%娃哈哈集团股份",
+      "onboard_time": 1760108485,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116925,
       "num": 116925,
       "word": "有钱了第一件事就是忘本",
       "onboard_time": 1760089942,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116903,
+      "num": 116903,
+      "word": "齐溪张子枫你们看何老师快哭了",
+      "onboard_time": 1760108005,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -2683,6 +2787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108485,
+      "num": 108485,
+      "word": "Doinb曝明年不打了",
+      "onboard_time": 1760109742,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108457,
       "num": 206315,
       "word": "孙颖莎代言香飘飘奶茶高端线",
@@ -2915,11 +3027,43 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97116,
+      "num": 97116,
+      "word": "肯德基套餐被曝吃出活虫",
+      "onboard_time": 1760108425,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95675,
+      "num": 95675,
+      "word": "中国在联合国霸气回应抹黑",
+      "onboard_time": 1760109862,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 95429,
+      "num": 95429,
+      "word": "陈伟霆听到男粉喊妍妍接电话的反应",
+      "onboard_time": 1760107525,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 94274,
       "num": 130804,
       "word": "未成年放狼嚎烟花致10岁男孩死亡",
       "onboard_time": 1760087420,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90831,
+      "num": 197332,
+      "word": "宗馥莉仍是娃哈哈第二大股东",
+      "onboard_time": 1760108425,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -3643,6 +3787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30539,
+      "num": 227311,
+      "word": "石破茂称日政府从未否认侵略战争",
+      "onboard_time": 1760109622,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30286,
       "num": 127763,
       "word": "刘宇宁回应全赛道通吃",
@@ -3713,6 +3865,14 @@
       "onboard_time": 1760031556,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24049,
+      "num": 116609,
+      "word": "营口一所小学秋季开学1个月后关闭",
+      "onboard_time": 1760108904,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23925,

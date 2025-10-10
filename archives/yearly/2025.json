@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1760107376146,
+  "endTime": 1760109916881,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1395,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9522596,
+      "num": 9522596,
+      "word": "宗馥莉已经辞职",
+      "onboard_time": 1760105843,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9470454,
       "num": 9470454,
       "word": "官方通报蔡国强烟花秀",
@@ -1537,14 +1545,6 @@
       "onboard_time": 1744214184,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 8791237,
-      "num": 8791237,
-      "word": "宗馥莉已经辞职",
-      "onboard_time": 1760105843,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8778816,
