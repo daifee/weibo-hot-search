@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760132200269,
+  "endTime": 1760134953080,
   "band_list": [
     {
       "raw_hot": 3831995,
@@ -123,6 +123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 166471,
+      "num": 51298,
+      "word": "向华强 隆重的辟谣方式",
+      "onboard_time": 1760120955,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163349,
       "num": 163349,
       "word": "石破茂称日政府从未否认侵略战争",
@@ -219,19 +227,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84661,
-      "num": 27230,
-      "word": "向华强 隆重的辟谣方式",
-      "onboard_time": 1760120955,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 83117,
       "num": 83117,
       "word": "事业单位公众号停更2年变色情链接",
       "onboard_time": 1760099001,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82501,
+      "num": 51082,
+      "word": "第一次觉得曲筱绡的刻薄恰到好处",
+      "onboard_time": 1760129893,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 82029,
+      "num": 82029,
+      "word": "消息称宗馥莉辞职因商标不合规",
+      "onboard_time": 1760110701,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -259,6 +275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 76451,
+      "num": 76451,
+      "word": "山西一车站售票员上班刷手机被调岗",
+      "onboard_time": 1760112560,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72418,
       "num": 72418,
       "word": "新华社评小米对标苹果",
@@ -273,14 +297,6 @@
       "onboard_time": 1760108663,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 70286,
-      "num": 70286,
-      "word": "消息称宗馥莉辞职因商标不合规",
-      "onboard_time": 1760110701,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69960,
@@ -321,14 +337,6 @@
       "onboard_time": 1760101041,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 65681,
-      "num": 65681,
-      "word": "山西一车站售票员上班刷手机被调岗",
-      "onboard_time": 1760112560,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64795,
@@ -483,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26904,
+      "num": 26904,
+      "word": "徒步高反失温女生不排除植物人风险",
+      "onboard_time": 1760130614,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24548,
       "num": 22870,
       "word": "成龙演唱故宫百年主题曲",
@@ -499,24 +515,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17221,
-      "num": 17221,
-      "word": "徒步高反失温女生不排除植物人风险",
-      "onboard_time": 1760130614,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16511,
-      "num": 16511,
-      "word": "第一次觉得曲筱绡的刻薄恰到好处",
-      "onboard_time": 1760129893,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 14487,
-      "num": 29941,
+      "num": 30270,
       "word": "十个勤天新专辑",
       "onboard_time": 1760119515,
       "rank": 34,
@@ -531,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14295,
+      "num": 22166,
+      "word": "周深新歌重光",
+      "onboard_time": 1760132714,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 14209,
       "num": 27091,
       "word": "费德勒甄子丹vs郑洁吴磊",
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 14042,
-      "num": 16705,
+      "num": 22164,
       "word": "朝鲜迎建党80周年",
       "onboard_time": 1760127193,
       "rank": 46,
