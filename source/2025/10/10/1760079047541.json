@@ -1,0 +1,410 @@
+{
+  "runTime": 1760079047541,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 587361,
+        "num": 1093977,
+        "word": "许家印的23亿美元藏不住了",
+        "onboard_time": 1760070441,
+        "rank": 0,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 447165,
+        "num": 447165,
+        "word": "有女犯反复怀孕流产逃避服刑",
+        "onboard_time": 1760074040,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4788,
+        "num": 408718,
+        "word": "2025中秋国庆假期名场面",
+        "onboard_time": 1759974320,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 695130,
+        "num": 403688,
+        "word": "香港顶级豪宅命案",
+        "onboard_time": 1760075663,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393377,
+        "num": 393377,
+        "word": "永劫无间",
+        "onboard_time": 1760076620,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293007,
+        "num": 293007,
+        "word": "新加坡父女双尸案现场曝光",
+        "onboard_time": 1760075841,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 253537,
+        "num": 253537,
+        "word": "男孩被戳伤左眼老师涂猪油消肿致感染",
+        "onboard_time": 1760077343,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230562,
+        "num": 230562,
+        "word": "干部受贿95只鸽子价值132万",
+        "onboard_time": 1760067380,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205580,
+        "num": 205580,
+        "word": "多地考编放宽35岁门槛",
+        "onboard_time": 1760070682,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82792,
+        "num": 205431,
+        "word": "生命树发布预告",
+        "onboard_time": 1760070801,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123201,
+        "num": 204097,
+        "word": "孙颖莎香飘飘同款秒售罄",
+        "onboard_time": 1760078540,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 546277,
+        "num": 203594,
+        "word": "3人因追星引发肢体冲突被处罚",
+        "onboard_time": 1760070801,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495174,
+        "num": 202826,
+        "word": "我雷这对CP",
+        "onboard_time": 1760075061,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 469115,
+        "num": 202072,
+        "word": "警方通报上海国际赛车场外有人打架",
+        "onboard_time": 1760068702,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 106961,
+        "num": 200976,
+        "word": "全新OriginOS6发布",
+        "onboard_time": 1760078540,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 335537,
+        "num": 200289,
+        "word": "月收入一万以下的理财方法",
+        "onboard_time": 1760070321,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 326766,
+        "num": 199593,
+        "word": "奶奶节俭了一辈子最后栽豆汁身上了",
+        "onboard_time": 1760075121,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199116,
+        "num": 199116,
+        "word": "你们快哄哄张杰吧",
+        "onboard_time": 1760075361,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198018,
+        "num": 198018,
+        "word": "957结婚",
+        "onboard_time": 1760075300,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180717,
+        "num": 180717,
+        "word": "国庆宅家8天黄金净赚近1万元",
+        "onboard_time": 1760071762,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1487479,
+        "num": 180589,
+        "word": "李湘王岳伦发文恭喜王诗龄",
+        "onboard_time": 1760074702,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 832392,
+        "num": 178147,
+        "word": "董璇张维伊0人祝福1人尊重",
+        "onboard_time": 1760075481,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 825209,
+        "num": 177056,
+        "word": "英皇欠债派惠英红老太勇夺高奢",
+        "onboard_time": 1760076741,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175127,
+        "num": 175127,
+        "word": "朋友圈发照片一定要检查视野盲区",
+        "onboard_time": 1760050996,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 571213,
+        "num": 174817,
+        "word": "宁艺卓 alo",
+        "onboard_time": 1760077462,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247272,
+        "num": 161832,
+        "word": "娱乐圈的顶级公关",
+        "onboard_time": 1760077042,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244716,
+        "num": 158256,
+        "word": "胡歌带老婆上海看房",
+        "onboard_time": 1760073141,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200996,
+        "num": 149492,
+        "word": "发工资第一件事",
+        "onboard_time": 1760072002,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144265,
+        "num": 144265,
+        "word": "我国人口预期寿命越来越高",
+        "onboard_time": 1760066720,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140254,
+        "num": 140254,
+        "word": "张维伊高中时期",
+        "onboard_time": 1760078181,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49309,
+        "num": 138108,
+        "word": "刘宇宁打戏天花板",
+        "onboard_time": 1760077701,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137280,
+        "num": 137280,
+        "word": "气温冷出11月水平",
+        "onboard_time": 1760055979,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135169,
+        "num": 135169,
+        "word": "熊黛林双胞胎一个像爸爸一个像妈妈",
+        "onboard_time": 1760075121,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127646,
+        "num": 127646,
+        "word": "芒果请来了80个人为李斯丹妮伴舞",
+        "onboard_time": 1760078242,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124536,
+        "num": 124536,
+        "word": "比亚迪第1400万辆新能源车下线",
+        "onboard_time": 1760077343,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 18762,
+        "num": 120204,
+        "word": "季前赛龙狮不敌快船",
+        "onboard_time": 1760077042,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125764,
+        "num": 120107,
+        "word": "当内娱正剧演员开始演短剧",
+        "onboard_time": 1760077462,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119997,
+        "num": 119997,
+        "word": "男女主翻面吻唇享40秒",
+        "onboard_time": 1760076320,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55146,
+        "num": 118416,
+        "word": "王者全英雄胜利手势",
+        "onboard_time": 1760078362,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 42098,
+        "num": 118095,
+        "word": "王星越剃头了",
+        "onboard_time": 1760078540,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117851,
+        "num": 117851,
+        "word": "孩子这些表现可能是精神障碍",
+        "onboard_time": 1760077280,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110944,
+        "num": 110944,
+        "word": "卢昱晓神级路透那段播了",
+        "onboard_time": 1760074400,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109327,
+        "num": 109327,
+        "word": "A股格局突变三大原因",
+        "onboard_time": 1760078901,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106429,
+        "num": 106429,
+        "word": "榴莲大亨宣布与出轨儿子断绝关系",
+        "onboard_time": 1760062579,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105373,
+        "num": 105373,
+        "word": "微博视界大会",
+        "onboard_time": 1760075600,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102940,
+        "num": 102940,
+        "word": "影视飓风tim称3年后想拿奥斯卡",
+        "onboard_time": 1760078842,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 99571,
+        "num": 99571,
+        "word": "两个老外得知对方懂说中文后",
+        "onboard_time": 1760075540,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98859,
+        "num": 98859,
+        "word": "武契奇欧盟峰会座位风波",
+        "onboard_time": 1760079021,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88486,
+        "num": 98347,
+        "word": "强生爽身粉致癌更多证据公布",
+        "onboard_time": 1760077343,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98295,
+        "num": 98295,
+        "word": "全国通办婚姻登记26.3万余对",
+        "onboard_time": 1760075421,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向金正恩致贺电#"
+    }
+  }
+}

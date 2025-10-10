@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760078255520,
+  "endTime": 1760079047541,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -355,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1487479,
+      "num": 183058,
+      "word": "李湘王岳伦发文恭喜王诗龄",
+      "onboard_time": 1760074702,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1486138,
       "num": 859755,
       "word": "鸡排哥回应嘴唇发紫发白",
@@ -416,14 +424,6 @@
       "word": "戚薇 G社好离谱",
       "onboard_time": 1759588342,
       "rank": 32,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1426687,
-      "num": 183058,
-      "word": "李湘王岳伦发文恭喜王诗龄",
-      "onboard_time": 1760074702,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -1587,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 832392,
+      "num": 180307,
+      "word": "董璇张维伊0人祝福1人尊重",
+      "onboard_time": 1760075481,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 832077,
       "num": 832077,
       "word": "钱学森遭美方拘禁后失声暴瘦",
@@ -1971,14 +1979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 718943,
-      "num": 180307,
-      "word": "董璇张维伊0人祝福1人尊重",
-      "onboard_time": 1760075481,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 718725,
       "num": 718725,
       "word": "教育局回应家长跪地被学生轮流踩踏",
@@ -2081,6 +2081,14 @@
       "onboard_time": 1759280181,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 695130,
+      "num": 403688,
+      "word": "香港顶级豪宅命案",
+      "onboard_time": 1760075663,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 693787,
@@ -2385,14 +2393,6 @@
       "onboard_time": 1759551921,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 644413,
-      "num": 345510,
-      "word": "香港顶级豪宅命案",
-      "onboard_time": 1760075663,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 643295,
@@ -2849,6 +2849,14 @@
       "onboard_time": 1759373419,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 571213,
+      "num": 177841,
+      "word": "宁艺卓 alo",
+      "onboard_time": 1760077462,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 570913,
@@ -3627,6 +3635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 495174,
+      "num": 202826,
+      "word": "我雷这对CP",
+      "onboard_time": 1760075061,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 494991,
       "num": 314289,
       "word": "台逼人让座被踹老人竟是通缉犯",
@@ -4129,6 +4145,14 @@
       "onboard_time": 1759655420,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 447165,
+      "num": 447165,
+      "word": "有女犯反复怀孕流产逃避服刑",
+      "onboard_time": 1760074040,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 447049,
@@ -4777,14 +4801,6 @@
       "onboard_time": 1759975099,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 393486,
-      "num": 192570,
-      "word": "我雷这对CP",
-      "onboard_time": 1760075061,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 393210,
@@ -5739,14 +5755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 331934,
-      "num": 331934,
-      "word": "有女犯反复怀孕流产逃避服刑",
-      "onboard_time": 1760074040,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 331880,
       "num": 223194,
       "word": "向太称郭碧婷父亲患重病",
@@ -5785,6 +5793,14 @@
       "onboard_time": 1759930403,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 326766,
+      "num": 199593,
+      "word": "奶奶节俭了一辈子最后栽豆汁身上了",
+      "onboard_time": 1760075121,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 326609,
@@ -6505,6 +6521,14 @@
       "onboard_time": 1759389560,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 293007,
+      "num": 293007,
+      "word": "新加坡父女双尸案现场曝光",
+      "onboard_time": 1760075841,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 292982,
@@ -7491,6 +7515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253537,
+      "num": 253537,
+      "word": "男孩被戳伤左眼老师涂猪油消肿致感染",
+      "onboard_time": 1760077343,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253259,
       "num": 253259,
       "word": "伯远",
@@ -7697,6 +7729,14 @@
       "onboard_time": 1759991181,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 247272,
+      "num": 161832,
+      "word": "娱乐圈的顶级公关",
+      "onboard_time": 1760077042,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 247059,
@@ -8025,14 +8065,6 @@
       "onboard_time": 1759242442,
       "rank": 14,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 236135,
-      "num": 191490,
-      "word": "奶奶节俭了一辈子最后栽豆汁身上了",
-      "onboard_time": 1760075121,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 235868,
@@ -9363,14 +9395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202272,
-      "num": 177841,
-      "word": "宁艺卓 alo",
-      "onboard_time": 1760077462,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202262,
       "num": 202262,
       "word": "刘萧旭郭宇欣都哭了",
@@ -9571,6 +9595,14 @@
       "category": "演出,民生新闻"
     },
     {
+      "raw_hot": 199116,
+      "num": 199116,
+      "word": "你们快哄哄张杰吧",
+      "onboard_time": 1760075361,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198942,
       "num": 198942,
       "word": "去年的鸡排哥",
@@ -9601,6 +9633,14 @@
       "onboard_time": 1759412304,
       "rank": 9,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 198018,
+      "num": 198018,
+      "word": "957结婚",
+      "onboard_time": 1760075300,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 198017,
@@ -9939,14 +9979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193978,
-      "num": 191373,
-      "word": "你们快哄哄张杰吧",
-      "onboard_time": 1760075361,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 193861,
       "num": 193861,
       "word": "JDG",
@@ -10169,14 +10201,6 @@
       "onboard_time": 1759998921,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 191112,
-      "num": 191112,
-      "word": "新加坡父女双尸案现场曝光",
-      "onboard_time": 1760075841,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 190738,
@@ -10569,14 +10593,6 @@
       "onboard_time": 1759489222,
       "rank": 24,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 185069,
-      "num": 185069,
-      "word": "男孩被戳伤左眼老师涂猪油消肿致感染",
-      "onboard_time": 1760077343,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185023,
@@ -12667,14 +12683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161619,
-      "num": 161619,
-      "word": "957结婚",
-      "onboard_time": 1760075300,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 161556,
       "num": 136836,
       "word": "王一博8小时耐力赛",
@@ -13577,14 +13585,6 @@
       "onboard_time": 1759582282,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 151530,
-      "num": 151530,
-      "word": "娱乐圈的顶级公关",
-      "onboard_time": 1760077042,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 151513,
@@ -14793,6 +14793,14 @@
       "onboard_time": 1759984460,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 140254,
+      "num": 140254,
+      "word": "张维伊高中时期",
+      "onboard_time": 1760078181,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 140250,
@@ -16723,6 +16731,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 127646,
+      "num": 127646,
+      "word": "芒果请来了80个人为李斯丹妮伴舞",
+      "onboard_time": 1760078242,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127566,
       "num": 127566,
       "word": "王力宏穿了深圳校服",
@@ -17355,6 +17371,14 @@
       "category": "健康医疗,民生新闻"
     },
     {
+      "raw_hot": 123201,
+      "num": 204097,
+      "word": "孙颖莎香飘飘同款秒售罄",
+      "onboard_time": 1760078540,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123175,
       "num": 123175,
       "word": "宁静一提到孙红雷就藏不住喜欢",
@@ -17849,6 +17873,14 @@
       "onboard_time": 1759735761,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 119997,
+      "num": 119997,
+      "word": "男女主翻面吻唇享40秒",
+      "onboard_time": 1760076320,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 119949,
@@ -20163,6 +20195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109327,
+      "num": 109327,
+      "word": "A股格局突变三大原因",
+      "onboard_time": 1760078901,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 109301,
       "num": 109301,
       "word": "猫咪都看不下去躺一天的主人了",
@@ -20361,14 +20401,6 @@
       "onboard_time": 1759304359,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 108680,
-      "num": 108680,
-      "word": "男女主翻面吻唇享40秒",
-      "onboard_time": 1760076320,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 108664,
@@ -20803,6 +20835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106961,
+      "num": 200976,
+      "word": "全新OriginOS6发布",
+      "onboard_time": 1760078540,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 106943,
       "num": 106943,
       "word": "朋友等我时遭轰炸全部遇难",
@@ -21185,14 +21225,6 @@
       "onboard_time": 1760017281,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 105557,
-      "num": 105557,
-      "word": "张维伊高中时期",
-      "onboard_time": 1760078181,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 105547,
@@ -21793,6 +21825,14 @@
       "onboard_time": 1759580122,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102940,
+      "num": 102940,
+      "word": "影视飓风tim称3年后想拿奥斯卡",
+      "onboard_time": 1760078842,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 102932,
@@ -22499,6 +22539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99571,
+      "num": 99571,
+      "word": "两个老外得知对方懂说中文后",
+      "onboard_time": 1760075540,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99525,
       "num": 99525,
       "word": "六公主播肖战版射雕",
@@ -22643,14 +22691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98935,
-      "num": 98935,
-      "word": "芒果请来了80个人为李斯丹妮伴舞",
-      "onboard_time": 1760078242,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 98920,
       "num": 98920,
       "word": "BFX对战NIP",
@@ -22673,6 +22713,14 @@
       "onboard_time": 1759583182,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98859,
+      "num": 98859,
+      "word": "武契奇欧盟峰会座位风波",
+      "onboard_time": 1760079021,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98856,
@@ -24945,6 +24993,14 @@
       "onboard_time": 1759713559,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88486,
+      "num": 112490,
+      "word": "强生爽身粉致癌更多证据公布",
+      "onboard_time": 1760077343,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 88406,
@@ -27315,14 +27371,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 73925,
-      "num": 112490,
-      "word": "强生爽身粉致癌更多证据公布",
-      "onboard_time": 1760077343,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 73922,
       "num": 159822,
       "word": "2025年诺贝尔奖今起揭晓",
@@ -28867,6 +28915,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 55146,
+      "num": 118416,
+      "word": "王者全英雄胜利手势",
+      "onboard_time": 1760078362,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 55145,
       "num": 122510,
       "word": "高速抢电",
@@ -29331,6 +29387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49309,
+      "num": 184140,
+      "word": "刘宇宁打戏天花板",
+      "onboard_time": 1760077701,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49181,
       "num": 49181,
       "word": "穿秋裤",
@@ -29737,6 +29801,14 @@
       "onboard_time": 1759475001,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42098,
+      "num": 118095,
+      "word": "王星越剃头了",
+      "onboard_time": 1760078540,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 41983,
@@ -30377,14 +30449,6 @@
       "onboard_time": 1759656801,
       "rank": 39,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 32385,
-      "num": 184140,
-      "word": "刘宇宁打戏天花板",
-      "onboard_time": 1760077701,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 32323,
