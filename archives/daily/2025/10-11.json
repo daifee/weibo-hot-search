@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760113878765,
+  "endTime": 1760114741605,
   "band_list": [
     {
       "raw_hot": 3831995,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 450503,
+      "num": 450503,
+      "word": "山姆大疆补偿方案",
+      "onboard_time": 1760108844,
+      "rank": 1,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 439948,
       "num": 134783,
       "word": "白鹿说自己得了疑难杂症",
@@ -35,20 +43,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 340101,
-      "num": 340101,
-      "word": "山姆大疆补偿方案",
-      "onboard_time": 1760108844,
-      "rank": 1,
-      "category": "民生新闻,数码"
-    },
-    {
       "raw_hot": 305915,
       "num": 134642,
       "word": "陈伟霆 早期baby严选的权威性",
       "onboard_time": 1760091441,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303562,
+      "num": 134444,
+      "word": "关晓彤少喝点吧",
+      "onboard_time": 1760102602,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 298554,
@@ -91,14 +99,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 195679,
-      "num": 134444,
-      "word": "关晓彤少喝点吧",
-      "onboard_time": 1760102602,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 186832,
       "num": 186832,
       "word": "人唯一不会长大的器官",
@@ -121,6 +121,14 @@
       "onboard_time": 1760099122,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 163349,
+      "num": 163349,
+      "word": "石破茂称日政府从未否认侵略战争",
+      "onboard_time": 1760109622,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 152942,
@@ -147,14 +155,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 135004,
-      "num": 135004,
-      "word": "石破茂称日政府从未否认侵略战争",
-      "onboard_time": 1760109622,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 133543,
       "num": 133543,
       "word": "要是我这样三天不敢看微信",
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119036,
+      "num": 119036,
+      "word": "商务部回应对美国船舶收取特别港务费",
+      "onboard_time": 1760111541,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 111331,
       "num": 111331,
       "word": "女子洗完澡发现窗外无人机悬停",
@@ -185,14 +193,6 @@
       "onboard_time": 1760108425,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108504,
-      "num": 108504,
-      "word": "商务部回应对美国船舶收取特别港务费",
-      "onboard_time": 1760111541,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 91970,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83117,
+      "num": 83117,
+      "word": "事业单位公众号停更2年变色情链接",
+      "onboard_time": 1760099001,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78347,
       "num": 78347,
       "word": "许我耀眼31集预告",
@@ -235,12 +243,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 74364,
-      "num": 74364,
-      "word": "事业单位公众号停更2年变色情链接",
-      "onboard_time": 1760099001,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 76045,
+      "num": 76045,
+      "word": "美对中国船舶收费中方对美同时实施",
+      "onboard_time": 1760113879,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 72418,
+      "num": 72418,
+      "word": "新华社评小米对标苹果",
+      "onboard_time": 1760101942,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 71190,
+      "num": 71190,
+      "word": "建议早餐吃点高热量食物",
+      "onboard_time": 1760108663,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 70286,
@@ -257,14 +281,6 @@
       "onboard_time": 1760111541,
       "rank": 31,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 69238,
-      "num": 69238,
-      "word": "新华社评小米对标苹果",
-      "onboard_time": 1760101942,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 68653,
@@ -323,6 +339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 63711,
+      "num": 63711,
+      "word": "山西一车站售票员上班刷手机被调岗",
+      "onboard_time": 1760112560,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62580,
       "num": 62580,
       "word": "齐溪张子枫你们看何老师快哭了",
@@ -339,8 +363,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61038,
-      "num": 60358,
+      "raw_hot": 61274,
+      "num": 61274,
       "word": "李沁陈哲远情头",
       "onboard_time": 1760099842,
       "rank": 44,
@@ -363,6 +387,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 58645,
+      "num": 58645,
+      "word": "林高远王一博梦幻联动",
+      "onboard_time": 1760114539,
+      "rank": 41,
+      "category": "音乐,体育"
+    },
+    {
       "raw_hot": 57923,
       "num": 59827,
       "word": "清融女娲",
@@ -371,20 +403,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 57489,
-      "num": 59817,
-      "word": "建议早餐吃点高热量食物",
-      "onboard_time": 1760108663,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 56486,
-      "num": 59816,
-      "word": "山西一车站售票员上班刷手机被调岗",
-      "onboard_time": 1760112560,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 55967,
+      "num": 55967,
+      "word": "兰蔻晚宴上的张凌赫",
+      "onboard_time": 1760113998,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 55218,
@@ -395,8 +419,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49475,
+      "num": 49475,
+      "word": "什么才是最好的友情",
+      "onboard_time": 1760111180,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 29134,
-      "num": 265604,
+      "num": 281878,
       "word": "全国通办婚姻登记26.3万余对",
       "onboard_time": 1760075421,
       "rank": 2,
