@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760204185435,
+  "endTime": 1760207396719,
   "band_list": [
     {
       "raw_hot": 912924,
@@ -355,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64364,
+      "num": 45493,
+      "word": "井迪一直不谈恋爱的原因",
+      "onboard_time": 1760204419,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 61163,
       "num": 63078,
       "word": "何炅汪苏泷给徐志胜做局",
@@ -435,7 +443,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 31196,
+      "raw_hot": 41998,
+      "num": 41998,
+      "word": "许妍与父母和解",
+      "onboard_time": 1760206276,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 38650,
       "num": 57204,
       "word": "男子失联7年后家属才知命丧车祸",
       "onboard_time": 1760180301,
@@ -449,6 +465,30 @@
       "onboard_time": 1760189723,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 20526,
+      "num": 30190,
+      "word": "张杰翻唱天黑黑",
+      "onboard_time": 1760198121,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 18718,
+      "num": 30189,
+      "word": "成毅蒙眼打戏又帅又仙",
+      "onboard_time": 1760206996,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16709,
+      "num": 30187,
+      "word": "Doinb聊LPL和LCK训练环境",
+      "onboard_time": 1760195242,
+      "rank": 49,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
