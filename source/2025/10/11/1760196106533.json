@@ -1,0 +1,410 @@
+{
+  "runTime": 1760196106533,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 917817,
+        "num": 1146850,
+        "word": "故宫地下有一条15公里暗沟",
+        "onboard_time": 1760189843,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580483,
+        "num": 580483,
+        "word": "摊主女儿大口吃父母摊位剩食走红",
+        "onboard_time": 1760189123,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100247,
+        "num": 517291,
+        "word": "悬赏征集台军18人犯罪线索",
+        "onboard_time": 1760191463,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 512871,
+        "num": 512871,
+        "word": "千万富翁给丢失25年儿子婚礼办40桌",
+        "onboard_time": 1760193803,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 512249,
+        "num": 512249,
+        "word": "王老吉发文有病去医院有事找法院",
+        "onboard_time": 1760180422,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412881,
+        "num": 412881,
+        "word": "长期吃面vs长期吃米",
+        "onboard_time": 1760177421,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195804,
+        "num": 412628,
+        "word": "坦然 AG最后一舞",
+        "onboard_time": 1760192421,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175501,
+        "num": 412114,
+        "word": "亚锦赛",
+        "onboard_time": 1760183180,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174583,
+        "num": 411936,
+        "word": "12306回应无座乘客自带椅子",
+        "onboard_time": 1760180422,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169456,
+        "num": 411415,
+        "word": "JDG战胜KSG",
+        "onboard_time": 1760195602,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1356821,
+        "num": 410647,
+        "word": "张靓颖摔下舞台",
+        "onboard_time": 1760186182,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 641106,
+        "num": 410559,
+        "word": "魏大勋连续三年给孟宴臣庆生",
+        "onboard_time": 1760189363,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618880,
+        "num": 410143,
+        "word": "许我耀眼大结局",
+        "onboard_time": 1760179580,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 531092,
+        "num": 409479,
+        "word": "唐艺昕女儿睫毛好长",
+        "onboard_time": 1760193623,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30257,
+        "num": 409071,
+        "word": "王嘉尔澳门演唱会",
+        "onboard_time": 1760195242,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 408846,
+        "num": 408846,
+        "word": "差点没认出来李菲儿",
+        "onboard_time": 1760182401,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400253,
+        "num": 400253,
+        "word": "齐溪二胎是女儿",
+        "onboard_time": 1760192723,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 378950,
+        "num": 378950,
+        "word": "文章老了好多",
+        "onboard_time": 1760178981,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371649,
+        "num": 371649,
+        "word": "容祖儿说汪苏泷最好听的作品是年轮",
+        "onboard_time": 1760192242,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360833,
+        "num": 360833,
+        "word": "韩国男子在张家界举韩国国旗",
+        "onboard_time": 1760185281,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107890,
+        "num": 336439,
+        "word": "比亚迪汉长续航版15.98万起上市",
+        "onboard_time": 1760191463,
+        "rank": 20,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 324451,
+        "num": 324451,
+        "word": "许凯开机",
+        "onboard_time": 1760188402,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322065,
+        "num": 322065,
+        "word": "短短37秒吻戏床戏都上尺度了",
+        "onboard_time": 1760173461,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254795,
+        "num": 254795,
+        "word": "丈夫坚持AA制妻子无力支付要写欠条",
+        "onboard_time": 1760195002,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150019,
+        "num": 247709,
+        "word": "充电器一直不拔有多可怕",
+        "onboard_time": 1760171301,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 246949,
+        "num": 246949,
+        "word": "关晓彤 这才是我的衣服",
+        "onboard_time": 1760182581,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236745,
+        "num": 236745,
+        "word": "糖尿病女孩1天4杯奶茶惊掉医生下巴",
+        "onboard_time": 1760193441,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196795,
+        "num": 196795,
+        "word": "李承铉撮合张远和王霏霏",
+        "onboard_time": 1760194523,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196628,
+        "num": 196628,
+        "word": "迪丽热巴申请限消邓氏阿嬷手作",
+        "onboard_time": 1760195961,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196156,
+        "num": 196156,
+        "word": "唐艺昕和女儿亲子装出游",
+        "onboard_time": 1760193383,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181917,
+        "num": 181917,
+        "word": "白鹿有颗牙片磕碎了",
+        "onboard_time": 1760188942,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170697,
+        "num": 170697,
+        "word": "张靓颖报平安",
+        "onboard_time": 1760193925,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169448,
+        "num": 169448,
+        "word": "一个恋爱玄学",
+        "onboard_time": 1760191463,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153341,
+        "num": 153341,
+        "word": "周杰伦嘉年华收官场",
+        "onboard_time": 1760193081,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125561,
+        "num": 150042,
+        "word": "缂丝版清明上河图",
+        "onboard_time": 1760193623,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148856,
+        "num": 148856,
+        "word": "你刷到的奥运冠军代言可能是假的",
+        "onboard_time": 1760194943,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133149,
+        "num": 133149,
+        "word": "哇唧唧哇 哪壶不开提哪壶",
+        "onboard_time": 1760180721,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129177,
+        "num": 129177,
+        "word": "拜登接受癌症放射治疗",
+        "onboard_time": 1760195542,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127744,
+        "num": 127744,
+        "word": "一诺长沙我们来了",
+        "onboard_time": 1760194823,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105913,
+        "num": 125908,
+        "word": "Doinb聊LPL和LCK训练环境",
+        "onboard_time": 1760195242,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124206,
+        "num": 124206,
+        "word": "许我耀眼反转",
+        "onboard_time": 1760187262,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118883,
+        "num": 118883,
+        "word": "管乐寸头造型成披哥打卡景点",
+        "onboard_time": 1760195661,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114927,
+        "num": 114927,
+        "word": "20岁女孩天天喝奶茶脚趾险截肢",
+        "onboard_time": 1760195302,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114225,
+        "num": 114225,
+        "word": "华裔女星疑遭同组演员性侵",
+        "onboard_time": 1760189061,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111834,
+        "num": 111834,
+        "word": "毁牙第一名竟然不是可乐",
+        "onboard_time": 1760174060,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105929,
+        "num": 105929,
+        "word": "汪苏泷这么自律干什么都能成功",
+        "onboard_time": 1760195124,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102665,
+        "num": 102665,
+        "word": "陈小春你就宠李昊吧",
+        "onboard_time": 1760195901,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102043,
+        "num": 102043,
+        "word": "孙颖莎王曼昱开心训练",
+        "onboard_time": 1760195482,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95690,
+        "num": 95690,
+        "word": "美国总统破防的原因",
+        "onboard_time": 1760189843,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92691,
+        "num": 92691,
+        "word": "A股又现天价离婚34亿待分割",
+        "onboard_time": 1760189303,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为新时代妇女事业发展指方向#"
+    }
+  }
+}
