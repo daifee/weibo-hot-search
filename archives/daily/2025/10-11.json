@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760165164082,
+  "endTime": 1760167283301,
   "band_list": [
     {
       "raw_hot": 8491801,
@@ -243,6 +243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 485930,
+      "num": 1077748,
+      "word": "驴友爬山捡剧毒蛇后轮流抚摸",
+      "onboard_time": 1760164280,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 471535,
       "num": 471535,
       "word": "台军心战大队",
@@ -296,6 +304,14 @@
       "word": "男子切割墙体时切割机弹出切入腹部",
       "onboard_time": 1760137758,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 396598,
+      "num": 396598,
+      "word": "宗馥莉不在周末给一线员工发工作信息",
+      "onboard_time": 1760164280,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -387,11 +403,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 319917,
+      "num": 227932,
+      "word": "内娱00花开始演妈了",
+      "onboard_time": 1760163922,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317496,
       "num": 217815,
       "word": "新95四小花旦",
       "onboard_time": 1760156422,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 312746,
+      "num": 225991,
+      "word": "狐妖小红娘王权篇官宣改名天地剑心",
+      "onboard_time": 1760163980,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -475,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270921,
+      "num": 225729,
+      "word": "警方回应男子当街砍死哈士奇",
+      "onboard_time": 1760161162,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 269981,
       "num": 269981,
       "word": "徒步甘孜失温女生最新情况",
@@ -523,28 +563,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 227932,
-      "num": 227932,
-      "word": "内娱00花开始演妈了",
-      "onboard_time": 1760163922,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 223788,
       "num": 223788,
       "word": "纳斯达克",
       "onboard_time": 1760110222,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 213578,
-      "num": 213578,
-      "word": "狐妖小红娘王权篇官宣改名天地剑心",
-      "onboard_time": 1760163980,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 211894,
@@ -611,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205491,
+      "num": 205491,
+      "word": "太好了是林玉芬我们有救了",
+      "onboard_time": 1760165421,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203198,
       "num": 203198,
       "word": "广州两个高铁站改名",
@@ -625,14 +657,6 @@
       "onboard_time": 1760156782,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201405,
-      "num": 201405,
-      "word": "警方回应男子当街砍死哈士奇",
-      "onboard_time": 1760161162,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200891,
@@ -713,14 +737,6 @@
       "onboard_time": 1760110941,
       "rank": 7,
       "category": "财经"
-    },
-    {
-      "raw_hot": 183591,
-      "num": 183591,
-      "word": "宗馥莉不在周末给一线员工发工作信息",
-      "onboard_time": 1760164280,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 182228,
@@ -1035,6 +1051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133091,
+      "num": 133091,
+      "word": "杨瀚森说激动到手抖",
+      "onboard_time": 1760165421,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132831,
       "num": 132831,
       "word": "国家医保局加强监测药品阴阳价格",
@@ -1139,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123798,
+      "num": 123798,
+      "word": "水龙吟",
+      "onboard_time": 1760162421,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122911,
       "num": 122911,
       "word": "降温了小猫就会这样变得圆圆的",
@@ -1153,14 +1185,6 @@
       "onboard_time": 1760159662,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122729,
-      "num": 122729,
-      "word": "水龙吟",
-      "onboard_time": 1760162421,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 122596,
@@ -1187,11 +1211,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121354,
+      "num": 121354,
+      "word": "起初他只是想摆摊玩手机",
+      "onboard_time": 1760165781,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120438,
       "num": 120438,
       "word": "陈赫陈星旭喊话地球团都来上毛雪汪",
       "onboard_time": 1760159122,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120410,
+      "num": 120410,
+      "word": "迪丽热巴 剧综人物前十唯一90花",
+      "onboard_time": 1760164280,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1209,6 +1249,14 @@
       "onboard_time": 1760160441,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115506,
+      "num": 115506,
+      "word": "冉莹颖儿子橙发",
+      "onboard_time": 1760164822,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 115012,
@@ -1251,6 +1299,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109975,
+      "num": 109975,
+      "word": "恋情一曝昭昭墨墨排名反超",
+      "onboard_time": 1760165481,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109214,
+      "num": 109214,
+      "word": "歼16黄岩岛巡逻警戒画面",
+      "onboard_time": 1760165959,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 109204,
       "num": 109204,
       "word": "李诞 不能是同一个病房的神经病",
@@ -1265,14 +1329,6 @@
       "onboard_time": 1760160801,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 107817,
-      "num": 107817,
-      "word": "冉莹颖儿子橙发",
-      "onboard_time": 1760164822,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 107246,
@@ -1403,19 +1459,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95629,
+      "num": 95629,
+      "word": "毒角SHOW干一行行一行",
+      "onboard_time": 1760166980,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95476,
       "num": 95476,
       "word": "那英 早知道多演两场",
       "onboard_time": 1760162421,
       "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 95452,
-      "num": 115371,
-      "word": "迪丽热巴 剧综人物前十唯一90花",
-      "onboard_time": 1760164280,
-      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1427,12 +1483,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94698,
+      "num": 94698,
+      "word": "时代峰峻你怎么这么命好",
+      "onboard_time": 1760166621,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94637,
       "num": 94637,
       "word": "3男子停车场盗走迈巴赫手舞足蹈",
       "onboard_time": 1760151141,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94166,
+      "num": 116565,
+      "word": "接王楚钦的追星运",
+      "onboard_time": 1760163561,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 93293,
@@ -1507,14 +1579,6 @@
       "category": "体育,电影"
     },
     {
-      "raw_hot": 91142,
-      "num": 116565,
-      "word": "接王楚钦的追星运",
-      "onboard_time": 1760163561,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 91068,
       "num": 91068,
       "word": "比特币",
@@ -1563,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89040,
+      "num": 109259,
+      "word": "龚俊买不起但臭美得起",
+      "onboard_time": 1760166861,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88742,
       "num": 196512,
       "word": "杨瀚森杨眉吐气",
@@ -1595,6 +1667,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 86045,
+      "num": 86045,
+      "word": "丞磊晒拍的白鹿",
+      "onboard_time": 1760166980,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83117,
       "num": 83117,
       "word": "事业单位公众号停更2年变色情链接",
@@ -1617,14 +1697,6 @@
       "onboard_time": 1760141840,
       "rank": 42,
       "category": "财经,互联网"
-    },
-    {
-      "raw_hot": 80937,
-      "num": 115080,
-      "word": "驴友爬山捡剧毒蛇后轮流抚摸",
-      "onboard_time": 1760164280,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80809,
@@ -1699,6 +1771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 70468,
+      "num": 109324,
+      "word": "辟谣模板还得是毛晓彤",
+      "onboard_time": 1760166681,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69960,
       "num": 69960,
       "word": "吴磊费德勒网球对打",
@@ -1721,6 +1801,14 @@
       "onboard_time": 1760109262,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67448,
+      "num": 86923,
+      "word": "顾客在鲍师傅蛋挞吃出弹簧",
+      "onboard_time": 1760165661,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67353,
@@ -1929,6 +2017,14 @@
       "onboard_time": 1760144301,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44032,
+      "num": 109448,
+      "word": "朝鲜民众晚上在大雨中观礼阅兵",
+      "onboard_time": 1760166980,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 43796,
