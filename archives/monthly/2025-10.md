@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 00:27:55
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 00:41:29
 </p>
 </blockquote>
 <p>
@@ -1197,6 +1197,12 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%94%B3%E8%AF%B7%E9%99%90%E6%B6%88%E9%82%93%E6%B0%8F%E9%98%BF%E5%AC%B7%E6%89%8B%E4%BD%9C%23" target="weibo">
+迪丽热巴申请限消邓氏阿嬷手作（热度：912924）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E5%A4%AA%E4%BD%93%E9%9D%A2%E4%BA%86%23" target="weibo">
 孟子义太体面了（热度：911406）
 </a>
@@ -1271,12 +1277,6 @@ Angelababy公主皇冠（热度：925479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%20%E8%8E%B2%E6%B1%A0%E6%98%A5%E6%99%9A%23" target="weibo">
 张艺兴 莲池春晚（热度：883908）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%94%B3%E8%AF%B7%E9%99%90%E6%B6%88%E9%82%93%E6%B0%8F%E9%98%BF%E5%AC%B7%E6%89%8B%E4%BD%9C%23" target="weibo">
-迪丽热巴申请限消邓氏阿嬷手作（热度：882245）
 </a>
 </li>
 
@@ -2393,6 +2393,12 @@ JDG战胜狼队（热度：630844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E8%B4%AD%E7%BD%AE%E5%A4%9A%E5%A5%97%E6%88%BF%E4%BA%A7%23" target="weibo">
 鸡排哥回应被指购置多套房产（热度：611759）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%9E%9C%E7%84%B6%E6%98%AF%E8%A2%AB%E9%80%A0%E5%9E%8B%E5%B8%88%E9%99%B7%E5%AE%B3%E7%9A%84%23" target="weibo">
+关晓彤果然是被造型师陷害的（热度：611380）
 </a>
 </li>
 
@@ -3983,12 +3989,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%BB%B4%E5%A1%94%E5%9B%9E%E5%BA%94%E4%B8%80%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB%E8%87%B47%E8%BD%A6%E7%83%A7%E6%AF%81%23" target="weibo">
 阿维塔回应一车辆起火致7车烧毁（热度：424813）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%9E%9C%E7%84%B6%E6%98%AF%E8%A2%AB%E9%80%A0%E5%9E%8B%E5%B8%88%E9%99%B7%E5%AE%B3%E7%9A%84%23" target="weibo">
-关晓彤果然是被造型师陷害的（热度：424528）
 </a>
 </li>
 

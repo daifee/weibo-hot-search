@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760200075887,
+  "endTime": 1760200889051,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1579,6 +1579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 912924,
+      "num": 196628,
+      "word": "迪丽热巴申请限消邓氏阿嬷手作",
+      "onboard_time": 1760195961,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 911406,
       "num": 310886,
       "word": "孟子义太体面了",
@@ -1681,14 +1689,6 @@
       "onboard_time": 1759846702,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 882245,
-      "num": 196628,
-      "word": "迪丽热巴申请限消邓氏阿嬷手作",
-      "onboard_time": 1760195961,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 881454,
@@ -3177,6 +3177,14 @@
       "onboard_time": 1759416262,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 611380,
+      "num": 116810,
+      "word": "关晓彤果然是被造型师陷害的",
+      "onboard_time": 1760197282,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 610474,
@@ -5297,14 +5305,6 @@
       "onboard_time": 1759999881,
       "rank": 6,
       "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 424528,
-      "num": 116810,
-      "word": "关晓彤果然是被造型师陷害的",
-      "onboard_time": 1760197282,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 423420,
@@ -9555,6 +9555,14 @@
       "category": "民生新闻,剧集"
     },
     {
+      "raw_hot": 232317,
+      "num": 196795,
+      "word": "李承铉撮合张远和王霏霏",
+      "onboard_time": 1760194523,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232261,
       "num": 173974,
       "word": "丁禹兮控停暴冲马匹",
@@ -9987,14 +9995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 220291,
-      "num": 196795,
-      "word": "李承铉撮合张远和王霏霏",
-      "onboard_time": 1760194523,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 220205,
       "num": 220205,
       "word": "鸡排哥最大受益者 正新鸡排",
@@ -10185,6 +10185,14 @@
       "onboard_time": 1759536259,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214624,
+      "num": 214624,
+      "word": "聊天这样结尾的人往往很在乎你",
+      "onboard_time": 1760198241,
+      "rank": 5,
+      "category": "情感"
     },
     {
       "raw_hot": 214425,
@@ -13081,14 +13089,6 @@
       "onboard_time": 1760153783,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177436,
-      "num": 177436,
-      "word": "聊天这样结尾的人往往很在乎你",
-      "onboard_time": 1760198241,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 177203,
@@ -28931,6 +28931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91445,
+      "num": 91445,
+      "word": "侯明昊机场被粉丝包围了",
+      "onboard_time": 1760199741,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91429,
       "num": 146823,
       "word": "男孩劝阻无效母亲大闹赛场被抬离",
@@ -32459,14 +32467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72863,
-      "num": 76626,
-      "word": "侯明昊机场被粉丝包围了",
-      "onboard_time": 1760199741,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 72795,
       "num": 72795,
       "word": "南宁陷坑现场已采取安全保障措施",
@@ -32995,6 +32995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68297,
+      "num": 76636,
+      "word": "贝克汉姆也没买到labubu",
+      "onboard_time": 1760199021,
+      "rank": 39,
+      "category": "体育,休闲"
+    },
+    {
       "raw_hot": 68262,
       "num": 76874,
       "word": "又开始听反方向的钟了",
@@ -33209,14 +33217,6 @@
       "onboard_time": 1759739600,
       "rank": 40,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 65880,
-      "num": 76636,
-      "word": "贝克汉姆也没买到labubu",
-      "onboard_time": 1760199021,
-      "rank": 39,
-      "category": "体育,休闲"
     },
     {
       "raw_hot": 65841,
@@ -33593,6 +33593,14 @@
       "onboard_time": 1760015301,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61163,
+      "num": 63078,
+      "word": "何炅汪苏泷给徐志胜做局",
+      "onboard_time": 1760199800,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 61161,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/12 00:27:55 ~ 2025/10/12 00:27:55
+本榜单时间：2025/10/12 00:27:55 ~ 2025/10/12 00:41:29
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%94%B3%E8%AF%B7%E9%99%90%E6%B6%88%E9%82%93%E6%B0%8F%E9%98%BF%E5%AC%B7%E6%89%8B%E4%BD%9C%23" target="weibo">
-迪丽热巴申请限消邓氏阿嬷手作（热度：882245）
+迪丽热巴申请限消邓氏阿嬷手作（热度：912924）
 </a>
 </li>
 
@@ -34,7 +34,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%9E%9C%E7%84%B6%E6%98%AF%E8%A2%AB%E9%80%A0%E5%9E%8B%E5%B8%88%E9%99%B7%E5%AE%B3%E7%9A%84%23" target="weibo">
-关晓彤果然是被造型师陷害的（热度：424528）
+关晓彤果然是被造型师陷害的（热度：611380）
 </a>
 </li>
 
@@ -93,26 +93,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%89%BF%E9%93%89%E6%92%AE%E5%90%88%E5%BC%A0%E8%BF%9C%E5%92%8C%E7%8E%8B%E9%9C%8F%E9%9C%8F%23" target="weibo">
+李承铉撮合张远和王霏霏（热度：232317）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B9%B4%E7%BB%99%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%BA%86%E7%94%9F%23" target="weibo">
 魏大勋连续三年给孟宴臣庆生（热度：217728）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%89%BF%E9%93%89%E6%92%AE%E5%90%88%E5%BC%A0%E8%BF%9C%E5%92%8C%E7%8E%8B%E9%9C%8F%E9%9C%8F%23" target="weibo">
-李承铉撮合张远和王霏霏（热度：207224）
+<a href="https://s.weibo.com/weibo?q=%23%E8%81%8A%E5%A4%A9%E8%BF%99%E6%A0%B7%E7%BB%93%E5%B0%BE%E7%9A%84%E4%BA%BA%E5%BE%80%E5%BE%80%E5%BE%88%E5%9C%A8%E4%B9%8E%E4%BD%A0%23" target="weibo">
+聊天这样结尾的人往往很在乎你（热度：214624）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%91%8A%E4%B8%BB%E5%A5%B3%E5%84%BF%E5%A4%A7%E5%8F%A3%E5%90%83%E7%88%B6%E6%AF%8D%E6%91%8A%E4%BD%8D%E5%89%A9%E9%A3%9F%E8%B5%B0%E7%BA%A2%23" target="weibo">
 摊主女儿大口吃父母摊位剩食走红（热度：199449）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%81%8A%E5%A4%A9%E8%BF%99%E6%A0%B7%E7%BB%93%E5%B0%BE%E7%9A%84%E4%BA%BA%E5%BE%80%E5%BE%80%E5%BE%88%E5%9C%A8%E4%B9%8E%E4%BD%A0%23" target="weibo">
-聊天这样结尾的人往往很在乎你（热度：177436）
 </a>
 </li>
 
@@ -177,8 +177,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23JDG%E6%88%98%E8%83%9CKSG%23" target="weibo">
+JDG战胜KSG（热度：92251）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E5%AD%A6%E5%A7%90%23" target="weibo">
 杨超越学姐（热度：92241）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E6%9C%BA%E5%9C%BA%E8%A2%AB%E7%B2%89%E4%B8%9D%E5%8C%85%E5%9B%B4%E4%BA%86%23" target="weibo">
+侯明昊机场被粉丝包围了（热度：91445）
 </a>
 </li>
 
@@ -207,14 +219,14 @@ VOGUE盛典52位嘉宾（热度：87535）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23JDG%E6%88%98%E8%83%9CKSG%23" target="weibo">
-JDG战胜KSG（热度：84513）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E9%87%8D%E6%98%A0%E4%B9%9D%E9%87%8D%E7%B4%AB%E6%94%B6%E8%A7%86%E7%AC%AC%E4%B8%80%23" target="weibo">
+湖南卫视重映九重紫收视第一（热度：81507）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E9%87%8D%E6%98%A0%E4%B9%9D%E9%87%8D%E7%B4%AB%E6%94%B6%E8%A7%86%E7%AC%AC%E4%B8%80%23" target="weibo">
-湖南卫视重映九重紫收视第一（热度：81507）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%81%E7%89%99%E7%AC%AC%E4%B8%80%E5%90%8D%E7%AB%9F%E7%84%B6%E4%B8%8D%E6%98%AF%E5%8F%AF%E4%B9%90%23" target="weibo">
+毁牙第一名竟然不是可乐（热度：79419）
 </a>
 </li>
 
@@ -237,32 +249,20 @@ JDG战胜KSG（热度：84513）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%81%E7%89%99%E7%AC%AC%E4%B8%80%E5%90%8D%E7%AB%9F%E7%84%B6%E4%B8%8D%E6%98%AF%E5%8F%AF%E4%B9%90%23" target="weibo">
-毁牙第一名竟然不是可乐（热度：76643）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%9F%E8%B6%8A%E7%BB%99%E4%B8%81%E7%A8%8B%E9%91%AB%E5%B8%A6%E6%9D%A5%E4%BA%86%E5%B0%8F%E5%B0%8F%E7%9A%84%E9%9C%87%E6%92%BC%23" target="weibo">
 王星越给丁程鑫带来了小小的震撼（热度：74217）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E6%9C%BA%E5%9C%BA%E8%A2%AB%E7%B2%89%E4%B8%9D%E5%8C%85%E5%9B%B4%E4%BA%86%23" target="weibo">
-侯明昊机场被粉丝包围了（热度：72863）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E4%B9%9F%E6%B2%A1%E4%B9%B0%E5%88%B0labubu%23" target="weibo">
+贝克汉姆也没买到labubu（热度：68297）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9D%93%E9%A2%96%E6%8A%A5%E5%B9%B3%E5%AE%89%23" target="weibo">
 张靓颖报平安（热度：67149）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E4%B9%9F%E6%B2%A1%E4%B9%B0%E5%88%B0labubu%23" target="weibo">
-贝克汉姆也没买到labubu（热度：65880）
 </a>
 </li>
 
@@ -275,6 +275,12 @@ JDG战胜KSG（热度：84513）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E7%BC%98%E8%AE%A1%E5%88%92%23" target="weibo">
 音乐缘计划（热度：65088）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%BB%99%E5%BE%90%E5%BF%97%E8%83%9C%E5%81%9A%E5%B1%80%23" target="weibo">
+何炅汪苏泷给徐志胜做局（热度：61163）
 </a>
 </li>
 
@@ -305,6 +311,12 @@ JDG战胜KSG（热度：84513）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%8E%A8%E8%8D%90%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%AD%9F%E5%AD%90%E4%B9%89%E4%B8%8A%E6%AD%8C%E6%89%8B%23" target="weibo">
 汪苏泷推荐王鹤棣孟子义上歌手（热度：57239）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9E%E9%AD%82%E8%AE%A1%23" target="weibo">
+回魂计（热度：56805）
 </a>
 </li>
 
