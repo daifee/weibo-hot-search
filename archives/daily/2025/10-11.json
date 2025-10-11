@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760182640550,
+  "endTime": 1760186650065,
   "band_list": [
     {
       "raw_hot": 8491801,
@@ -105,6 +105,14 @@
       "onboard_time": 1760170461,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1049868,
+      "num": 162621,
+      "word": "差点没认出来李菲儿",
+      "onboard_time": 1760182401,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 1044342,
@@ -315,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 593437,
+      "num": 593437,
+      "word": "王老吉发文有病去医院有事找法院",
+      "onboard_time": 1760180422,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 585084,
       "num": 319369,
       "word": "黄磊 彭昱畅比张艺兴长得好看",
@@ -371,12 +387,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 496696,
+      "num": 496696,
+      "word": "12306回应无座乘客自带椅子",
+      "onboard_time": 1760180422,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 492874,
       "num": 492874,
       "word": "宗馥莉不在周末给一线员工发工作信息",
       "onboard_time": 1760164280,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 487215,
+      "num": 158814,
+      "word": "关晓彤 这才是我的衣服",
+      "onboard_time": 1760182581,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 476284,
@@ -451,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 400905,
+      "num": 400905,
+      "word": "亚锦赛",
+      "onboard_time": 1760183180,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 389800,
       "num": 389800,
       "word": "为什么一夜之间多了很多零食店",
@@ -497,6 +537,14 @@
       "onboard_time": 1760167521,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 365568,
+      "num": 176984,
+      "word": "哇唧唧哇 哪壶不开提哪壶",
+      "onboard_time": 1760180721,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 365344,
@@ -569,6 +617,14 @@
       "onboard_time": 1760138659,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 327936,
+      "num": 157395,
+      "word": "韩国男子在张家界举韩国国旗",
+      "onboard_time": 1760185281,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 326199,
@@ -771,14 +827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251551,
-      "num": 251551,
-      "word": "12306回应无座乘客自带椅子",
-      "onboard_time": 1760180422,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 249590,
       "num": 249590,
       "word": "劣质碳水是身体的慢性炎症推手",
@@ -809,6 +857,14 @@
       "onboard_time": 1760169022,
       "rank": 20,
       "category": "互联网,艺人"
+    },
+    {
+      "raw_hot": 232303,
+      "num": 156167,
+      "word": "张靓颖摔下舞台",
+      "onboard_time": 1760186182,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 223788,
@@ -971,14 +1027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191714,
-      "num": 176984,
-      "word": "哇唧唧哇 哪壶不开提哪壶",
-      "onboard_time": 1760180721,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190489,
       "num": 190489,
       "word": "云南地震",
@@ -1075,6 +1123,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176039,
+      "num": 154972,
+      "word": "陈哲远回应李沁",
+      "onboard_time": 1760184140,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 174518,
+      "num": 174518,
+      "word": "男子失联7年后家属才知命丧车祸",
+      "onboard_time": 1760180301,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174316,
       "num": 134243,
       "word": "Angelababy公主皇冠",
@@ -1161,6 +1225,14 @@
       "onboard_time": 1760109622,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 162953,
+      "num": 162953,
+      "word": "学生违纪向纠察队下跪磕头求放过",
+      "onboard_time": 1760181141,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161651,
@@ -1379,14 +1451,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 137705,
-      "num": 137705,
-      "word": "男子失联7年后家属才知命丧车祸",
-      "onboard_time": 1760180301,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137671,
       "num": 137671,
       "word": "张婧仪 女神级别",
@@ -1507,6 +1571,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 131889,
+      "num": 131889,
+      "word": "大疆水印的重要性具象化了",
+      "onboard_time": 1760184080,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 131193,
+      "num": 131193,
+      "word": "你好星期六",
+      "onboard_time": 1760185761,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131060,
       "num": 151734,
       "word": "杨瀚森季前赛主场首秀",
@@ -1521,6 +1601,14 @@
       "onboard_time": 1760171840,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130367,
+      "num": 130367,
+      "word": "只因手上有茧父亲遭日军枪杀",
+      "onboard_time": 1760185881,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129941,
@@ -1545,6 +1633,14 @@
       "onboard_time": 1760155822,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129600,
+      "num": 129600,
+      "word": "黄轩新剧面相都变了",
+      "onboard_time": 1760185401,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 128624,
@@ -1609,6 +1705,14 @@
       "onboard_time": 1760147660,
       "rank": 27,
       "category": "互联网,数码"
+    },
+    {
+      "raw_hot": 125251,
+      "num": 125251,
+      "word": "扬子鳄被老人们喂成小狗了",
+      "onboard_time": 1760184622,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 124965,
@@ -1715,14 +1819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121613,
-      "num": 121613,
-      "word": "学生违纪向纠察队下跪磕头求放过",
-      "onboard_time": 1760181141,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121354,
       "num": 121354,
       "word": "起初他只是想摆摊玩手机",
@@ -1753,6 +1849,14 @@
       "onboard_time": 1760111541,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 118883,
+      "num": 118883,
+      "word": "30多张婚礼照片被保洁当垃圾误扔",
+      "onboard_time": 1760182821,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118500,
@@ -1913,6 +2017,14 @@
       "onboard_time": 1760170939,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108146,
+      "num": 108146,
+      "word": "哇唧唧哇",
+      "onboard_time": 1760183481,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 107939,
@@ -2139,6 +2251,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 97841,
+      "num": 86854,
+      "word": "宏胜集团祝丽丹回应被带走调查",
+      "onboard_time": 1760184321,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97675,
       "num": 96577,
       "word": "考研对一个人的影响有多大",
@@ -2243,14 +2363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94492,
-      "num": 94492,
-      "word": "差点没认出来李菲儿",
-      "onboard_time": 1760182401,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 94239,
       "num": 94239,
       "word": "狗 你确定它真的是医生吗",
@@ -2281,6 +2393,14 @@
       "onboard_time": 1760167760,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93866,
+      "num": 93866,
+      "word": "生命树前传之风云再起",
+      "onboard_time": 1760186060,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 93716,
@@ -2411,6 +2531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91095,
+      "num": 91095,
+      "word": "瘦下来后很爽的瞬间",
+      "onboard_time": 1760182281,
+      "rank": 42,
+      "category": "幽默,运动健身"
+    },
+    {
       "raw_hot": 91068,
       "num": 91068,
       "word": "比特币",
@@ -2523,14 +2651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87141,
-      "num": 87141,
-      "word": "瘦下来后很爽的瞬间",
-      "onboard_time": 1760182281,
-      "rank": 42,
-      "category": "幽默,运动健身"
-    },
-    {
       "raw_hot": 87061,
       "num": 87061,
       "word": "身体5处不舒服可能是心梗",
@@ -2553,6 +2673,22 @@
       "onboard_time": 1760181380,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85848,
+      "num": 85848,
+      "word": "千万富豪之子解清帅明天结婚",
+      "onboard_time": 1760186123,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85554,
+      "num": 85554,
+      "word": "钎城还有多少库存都给我放出来",
+      "onboard_time": 1760186541,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 85532,
@@ -2587,11 +2723,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83803,
+      "num": 83803,
+      "word": "清清我们长沙见",
+      "onboard_time": 1760186362,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83117,
       "num": 83117,
       "word": "事业单位公众号停更2年变色情链接",
       "onboard_time": 1760099001,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83104,
+      "num": 83104,
+      "word": "无座乘客自带椅子坐高铁",
+      "onboard_time": 1760183601,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -2633,14 +2785,6 @@
       "onboard_time": 1760146220,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79913,
-      "num": 79913,
-      "word": "关晓彤 这才是我的衣服",
-      "onboard_time": 1760182581,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 79703,
@@ -2689,6 +2833,22 @@
       "onboard_time": 1760110402,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 76800,
+      "num": 76800,
+      "word": "2楼住户因3楼漏水去4楼养兔子大鹅",
+      "onboard_time": 1760184801,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74952,
+      "num": 74952,
+      "word": "多场马拉松赛事取消",
+      "onboard_time": 1760186602,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 74513,
@@ -2785,6 +2945,14 @@
       "onboard_time": 1760144002,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 66750,
+      "num": 77666,
+      "word": "男子每天工作15小时还清13万债务",
+      "onboard_time": 1760185101,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66409,
@@ -2995,20 +3163,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 50619,
-      "num": 95328,
-      "word": "王老吉发文有病去医院有事找法院",
-      "onboard_time": 1760180422,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50538,
       "num": 105092,
       "word": "一对上海父子同居养老十多年",
       "onboard_time": 1760171900,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50131,
+      "num": 70384,
+      "word": "微博视界大会24小时战报",
+      "onboard_time": 1760184922,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 49475,

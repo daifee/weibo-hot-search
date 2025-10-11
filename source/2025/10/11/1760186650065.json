@@ -1,0 +1,410 @@
+{
+  "runTime": 1760186650065,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 710342,
+        "num": 1113654,
+        "word": "长期吃面vs长期吃米",
+        "onboard_time": 1760177421,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 593437,
+        "num": 593437,
+        "word": "王老吉发文有病去医院有事找法院",
+        "onboard_time": 1760180422,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20460,
+        "num": 511415,
+        "word": "我国海上发射一箭三星",
+        "onboard_time": 1760151983,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 496696,
+        "num": 496696,
+        "word": "12306回应无座乘客自带椅子",
+        "onboard_time": 1760180422,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400905,
+        "num": 400905,
+        "word": "亚锦赛",
+        "onboard_time": 1760183180,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264208,
+        "num": 264208,
+        "word": "充电器一直不拔有多可怕",
+        "onboard_time": 1760171301,
+        "rank": 5,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 214225,
+        "num": 214225,
+        "word": "婴儿12克金手镯被偷已找回",
+        "onboard_time": 1760172020,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174518,
+        "num": 174518,
+        "word": "男子失联7年后家属才知命丧车祸",
+        "onboard_time": 1760180301,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172572,
+        "num": 172572,
+        "word": "山航空姐全面换穿平底鞋",
+        "onboard_time": 1760176761,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162953,
+        "num": 162953,
+        "word": "学生违纪向纠察队下跪磕头求放过",
+        "onboard_time": 1760181141,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1049868,
+        "num": 162621,
+        "word": "差点没认出来李菲儿",
+        "onboard_time": 1760182401,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 899407,
+        "num": 161383,
+        "word": "许我耀眼大结局",
+        "onboard_time": 1760179580,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494052,
+        "num": 160564,
+        "word": "文章老了好多",
+        "onboard_time": 1760178981,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488411,
+        "num": 159865,
+        "word": "王鹤润工作室辟谣吵架原因",
+        "onboard_time": 1760181621,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487215,
+        "num": 158814,
+        "word": "关晓彤 这才是我的衣服",
+        "onboard_time": 1760182581,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469455,
+        "num": 158323,
+        "word": "短短37秒吻戏床戏都上尺度了",
+        "onboard_time": 1760173461,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327936,
+        "num": 157395,
+        "word": "韩国男子在张家界举韩国国旗",
+        "onboard_time": 1760185281,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232303,
+        "num": 156167,
+        "word": "张靓颖摔下舞台",
+        "onboard_time": 1760186182,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 218125,
+        "num": 155216,
+        "word": "赵磊qko舞台上亲了",
+        "onboard_time": 1760180601,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176039,
+        "num": 154972,
+        "word": "陈哲远回应李沁",
+        "onboard_time": 1760184140,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 365568,
+        "num": 153850,
+        "word": "哇唧唧哇 哪壶不开提哪壶",
+        "onboard_time": 1760180721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174455,
+        "num": 153208,
+        "word": "毁牙第一名竟然不是可乐",
+        "onboard_time": 1760174060,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152407,
+        "num": 152407,
+        "word": "叙利亚前总统阿萨德现沉迷电子游戏",
+        "onboard_time": 1760174900,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132891,
+        "num": 132891,
+        "word": "许我耀眼",
+        "onboard_time": 1760178861,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339400,
+        "num": 132791,
+        "word": "特朗普",
+        "onboard_time": 1760173101,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132674,
+        "num": 132674,
+        "word": "易烊千玺大猫和小猫",
+        "onboard_time": 1760182100,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131889,
+        "num": 131889,
+        "word": "大疆水印的重要性具象化了",
+        "onboard_time": 1760184080,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131193,
+        "num": 131193,
+        "word": "你好星期六",
+        "onboard_time": 1760185761,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130367,
+        "num": 130367,
+        "word": "只因手上有茧父亲遭日军枪杀",
+        "onboard_time": 1760185881,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129600,
+        "num": 129600,
+        "word": "黄轩新剧面相都变了",
+        "onboard_time": 1760185401,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125251,
+        "num": 125251,
+        "word": "扬子鳄被老人们喂成小狗了",
+        "onboard_time": 1760184622,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122527,
+        "num": 122527,
+        "word": "WBG淘汰",
+        "onboard_time": 1760179941,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118883,
+        "num": 118883,
+        "word": "30多张婚礼照片被保洁当垃圾误扔",
+        "onboard_time": 1760182821,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108146,
+        "num": 108146,
+        "word": "哇唧唧哇",
+        "onboard_time": 1760183481,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107021,
+        "num": 107021,
+        "word": "新手机号注册网易云登到李玟账号",
+        "onboard_time": 1760167881,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105411,
+        "num": 105411,
+        "word": "李一桐刘宇宁第一",
+        "onboard_time": 1760181921,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97460,
+        "num": 97460,
+        "word": "黄磊 彭昱畅比张艺兴长得好看",
+        "onboard_time": 1760169322,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93866,
+        "num": 93866,
+        "word": "生命树前传之风云再起",
+        "onboard_time": 1760186060,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91095,
+        "num": 91095,
+        "word": "瘦下来后很爽的瞬间",
+        "onboard_time": 1760182281,
+        "rank": 38,
+        "category": "幽默,运动健身"
+      },
+      {
+        "raw_hot": 87707,
+        "num": 87707,
+        "word": "一奶落万奶生",
+        "onboard_time": 1760170461,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97841,
+        "num": 86854,
+        "word": "宏胜集团祝丽丹回应被带走调查",
+        "onboard_time": 1760184321,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92240,
+        "num": 86705,
+        "word": "刘宇宁在韩国连续6周荣获第一",
+        "onboard_time": 1760175140,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85848,
+        "num": 85848,
+        "word": "千万富豪之子解清帅明天结婚",
+        "onboard_time": 1760186123,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85554,
+        "num": 85554,
+        "word": "钎城还有多少库存都给我放出来",
+        "onboard_time": 1760186541,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83803,
+        "num": 83803,
+        "word": "清清我们长沙见",
+        "onboard_time": 1760186362,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83104,
+        "num": 83104,
+        "word": "无座乘客自带椅子坐高铁",
+        "onboard_time": 1760183601,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66750,
+        "num": 77666,
+        "word": "男子每天工作15小时还清13万债务",
+        "onboard_time": 1760185101,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76800,
+        "num": 76800,
+        "word": "2楼住户因3楼漏水去4楼养兔子大鹅",
+        "onboard_time": 1760184801,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74952,
+        "num": 74952,
+        "word": "多场马拉松赛事取消",
+        "onboard_time": 1760186602,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50131,
+        "num": 70384,
+        "word": "微博视界大会24小时战报",
+        "onboard_time": 1760184922,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心妇女事业发展的故事#"
+    }
+  }
+}
