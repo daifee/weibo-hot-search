@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/11 09:45:55
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/11 10:01:21
 </p>
 </blockquote>
 <p>
@@ -629,6 +629,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%B2%B3%E5%8D%97%E9%80%81%E4%BD%A0%E4%BA%86%23" target="weibo">
 迪丽热巴 河南送你了（热度：1175380）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%86%A0%E8%A2%AB%E5%90%88%E6%88%90AI%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%23" target="weibo">
+保时捷女销冠被合成AI不雅视频（热度：1168389）
 </a>
 </li>
 
@@ -1389,6 +1395,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%88%B3%E4%BC%A4%E5%A4%B1%E6%98%8E%E7%94%B7%E5%AD%A9%E5%AE%B6%E9%95%BF%E5%9B%9E%E5%BA%94%E8%8E%B7%E8%B5%94272%E4%B8%87%23" target="weibo">
+被戳伤失明男孩家长回应获赔272万（热度：808464）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E6%8A%A2%E7%A5%A8%23" target="weibo">
 王俊凯 抢票（热度：805585）
 </a>
@@ -1655,12 +1667,6 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%AE%B6%E9%95%BF%E8%B7%AA%E5%9C%B0%E8%A2%AB%E5%AD%A6%E7%94%9F%E8%BD%AE%E6%B5%81%E8%B8%A9%E8%B8%8F%23" target="weibo">
 教育局回应家长跪地被学生轮流踩踏（热度：718725）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%88%B3%E4%BC%A4%E5%A4%B1%E6%98%8E%E7%94%B7%E5%AD%A9%E5%AE%B6%E9%95%BF%E5%9B%9E%E5%BA%94%E8%8E%B7%E8%B5%94272%E4%B8%87%23" target="weibo">
-被戳伤失明男孩家长回应获赔272万（热度：716192）
 </a>
 </li>
 
@@ -2135,12 +2141,6 @@ JDG战胜狼队（热度：630844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E8%89%BA%E5%8D%93%20alo%23" target="weibo">
 宁艺卓 alo（热度：620006）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%86%A0%E8%A2%AB%E5%90%88%E6%88%90AI%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%23" target="weibo">
-保时捷女销冠被合成AI不雅视频（热度：618408）
 </a>
 </li>
 
@@ -3221,6 +3221,12 @@ VaVa说自己分手是因为浪姐（热度：480031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9A%84%E6%8C%87%E7%94%B2%23" target="weibo">
 范丞丞的指甲（热度：471933）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%86%9B%E5%BF%83%E6%88%98%E5%A4%A7%E9%98%9F%23" target="weibo">
+台军心战大队（热度：471535）
 </a>
 </li>
 
@@ -4371,6 +4377,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%85%E6%94%BF%E9%83%A8%E9%95%BF%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%81%8F%E5%88%B6%E7%A8%80%E5%9C%9F%E5%91%BD%E8%84%89%23" target="weibo">
+美国内政部长称中国遏制稀土命脉（热度：357778）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BA%AB%E5%AE%B6%E5%8D%83%E4%B8%87%E5%9B%A0%E6%97%A0%E5%AD%90%E8%A2%AB%E9%AA%82%E5%93%AD%E4%BA%86%E4%B8%80%E5%A4%9C%23" target="weibo">
 男子身家千万因无子被骂哭了一夜（热度：356347）
 </a>
@@ -4725,6 +4737,12 @@ WTT（热度：332672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E6%96%87%E8%89%BA%E6%BC%94%E5%87%BA%E7%94%BB%E9%9D%A2%23" target="weibo">
+朝鲜文艺演出画面（热度：330442）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%BC%80%E5%A7%8B%E7%84%A6%E8%99%91%23" target="weibo">
 美军开始焦虑（热度：330297）
 </a>
@@ -4917,12 +4935,6 @@ MiuMiu巴黎时装周（热度：318258）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E6%96%87%E8%89%BA%E6%BC%94%E5%87%BA%E7%94%BB%E9%9D%A2%23" target="weibo">
-朝鲜文艺演出画面（热度：317779）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%BD%E4%B8%8D%E8%83%BD%E7%A6%81%E6%AD%A2%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%94%BB%E4%B8%AD%E5%8D%8E%E9%A3%8E%23" target="weibo">
 能不能禁止日本人画中华风（热度：317764）
 </a>
@@ -4943,12 +4955,6 @@ MiuMiu巴黎时装周（热度：318258）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%95%88%E6%97%A9%E9%A4%90%23" target="weibo">
 无效早餐（热度：316553）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%86%9B%E5%BF%83%E6%88%98%E5%A4%A7%E9%98%9F%23" target="weibo">
-台军心战大队（热度：316395）
 </a>
 </li>
 
@@ -5615,12 +5621,6 @@ JDG对战DK（热度：286717）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%98%A6%E4%BA%8615%E6%96%A4%E5%90%8E%E9%BC%BB%E5%AD%90%E7%9A%84%E5%8F%98%E5%8C%96%23" target="weibo">
 瘦了15斤后鼻子的变化（热度：278474）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%85%E6%94%BF%E9%83%A8%E9%95%BF%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%81%8F%E5%88%B6%E7%A8%80%E5%9C%9F%E5%91%BD%E8%84%89%23" target="weibo">
-美国内政部长称中国遏制稀土命脉（热度：278371）
 </a>
 </li>
 

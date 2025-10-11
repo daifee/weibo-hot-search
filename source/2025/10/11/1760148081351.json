@@ -1,0 +1,410 @@
+{
+  "runTime": 1760148081351,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1168389,
+        "num": 1186942,
+        "word": "保时捷女销冠被合成AI不雅视频",
+        "onboard_time": 1760146940,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 808464,
+        "num": 808464,
+        "word": "被戳伤失明男孩家长回应获赔272万",
+        "onboard_time": 1760144541,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40285,
+        "num": 535147,
+        "word": "网警斩断侵公黑色产业链",
+        "onboard_time": 1760144301,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504221,
+        "num": 504221,
+        "word": "长期吃复合维生素是智商税么",
+        "onboard_time": 1760141481,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 471535,
+        "num": 471535,
+        "word": "台军心战大队",
+        "onboard_time": 1760146220,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1126339,
+        "num": 470657,
+        "word": "金价",
+        "onboard_time": 1760141961,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 463688,
+        "num": 463688,
+        "word": "中国迅速对美国亮出反制工具箱",
+        "onboard_time": 1760141001,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 442853,
+        "num": 442853,
+        "word": "朝鲜举行阅兵式",
+        "onboard_time": 1760142020,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 357778,
+        "num": 357778,
+        "word": "美国内政部长称中国遏制稀土命脉",
+        "onboard_time": 1760139621,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 340606,
+        "num": 340606,
+        "word": "纹面男孩称再洗2次纹身就干净了",
+        "onboard_time": 1760139980,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1615683,
+        "num": 339149,
+        "word": "米仓凉子 吸毒",
+        "onboard_time": 1760143221,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330442,
+        "num": 330442,
+        "word": "朝鲜文艺演出画面",
+        "onboard_time": 1760138659,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 329306,
+        "num": 329306,
+        "word": "南方高温下周或终结",
+        "onboard_time": 1760142862,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279297,
+        "num": 279297,
+        "word": "王青回应",
+        "onboard_time": 1760106925,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225319,
+        "num": 225319,
+        "word": "白鹿说自己得了疑难杂症",
+        "onboard_time": 1760100322,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198951,
+        "num": 198951,
+        "word": "美依礼芽无法再唱极乐净土",
+        "onboard_time": 1760147840,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193439,
+        "num": 193439,
+        "word": "男子切割墙体时切割机弹出切入腹部",
+        "onboard_time": 1760137758,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178265,
+        "num": 178265,
+        "word": "徒步甘孜失温女生最新情况",
+        "onboard_time": 1760137638,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256746,
+        "num": 175245,
+        "word": "王青 不要因为我影响冯建宇",
+        "onboard_time": 1760107703,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164300,
+        "num": 164300,
+        "word": "吴磊惜败天王费德勒",
+        "onboard_time": 1760146041,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 156849,
+        "num": 156849,
+        "word": "王暖暖收到判决百感交集",
+        "onboard_time": 1760145621,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144287,
+        "num": 144287,
+        "word": "中方一个个点名多个国家劣迹",
+        "onboard_time": 1760106203,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139899,
+        "num": 139899,
+        "word": "方媛回应日常生活有很多人打理",
+        "onboard_time": 1760147421,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139097,
+        "num": 139097,
+        "word": "关晓彤少喝点吧",
+        "onboard_time": 1760102602,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138583,
+        "num": 138583,
+        "word": "第一次觉得曲筱绡的刻薄恰到好处",
+        "onboard_time": 1760129893,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138387,
+        "num": 138387,
+        "word": "两大稀土巨头提价",
+        "onboard_time": 1760143881,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133945,
+        "num": 133945,
+        "word": "白鹿8月生病瘦到86斤",
+        "onboard_time": 1760102961,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125630,
+        "num": 125630,
+        "word": "高通回应涉嫌违反反垄断法",
+        "onboard_time": 1760147660,
+        "rank": 27,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 120573,
+        "num": 120573,
+        "word": "四川归来的大熊猫天天找萌兰聊天",
+        "onboard_time": 1760142802,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116060,
+        "num": 116060,
+        "word": "山姆大疆补偿方案",
+        "onboard_time": 1760108844,
+        "rank": 29,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 109993,
+        "num": 109993,
+        "word": "美国内政部长称必须破局",
+        "onboard_time": 1760146940,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107225,
+        "num": 107225,
+        "word": "盘锦一养殖户数万斤罗氏虾一夜冻死",
+        "onboard_time": 1760107225,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105709,
+        "num": 105709,
+        "word": "向华强 隆重的辟谣方式",
+        "onboard_time": 1760120955,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103868,
+        "num": 103868,
+        "word": "外婆把孩子的画织成了毛衣",
+        "onboard_time": 1760141481,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101670,
+        "num": 101670,
+        "word": "西班牙回应特朗普",
+        "onboard_time": 1760143101,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99804,
+        "num": 99804,
+        "word": "突然发现高跟鞋设计的很窄",
+        "onboard_time": 1760146520,
+        "rank": 35,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 93293,
+        "num": 93293,
+        "word": "苏新皓跳Richman",
+        "onboard_time": 1760147301,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92820,
+        "num": 92820,
+        "word": "马来西亚行李箱藏尸案死者双手被绑",
+        "onboard_time": 1760143761,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88941,
+        "num": 88941,
+        "word": "当主人亲了一下生气的小狗后",
+        "onboard_time": 1760139621,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 16834,
+        "num": 84074,
+        "word": "十个勤天新专辑",
+        "onboard_time": 1760119515,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83933,
+        "num": 83933,
+        "word": "国家医保局加强监测药品阴阳价格",
+        "onboard_time": 1760144901,
+        "rank": 40,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 82652,
+        "num": 82652,
+        "word": "女子洗完澡发现窗外无人机悬停",
+        "onboard_time": 1760098221,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81316,
+        "num": 81316,
+        "word": "美国军用炸药厂爆炸19人失踪",
+        "onboard_time": 1760140639,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74309,
+        "num": 74309,
+        "word": "年纪越大对任何人都不会有滤镜",
+        "onboard_time": 1760144901,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73464,
+        "num": 73464,
+        "word": "身体5处不舒服可能是心梗",
+        "onboard_time": 1760138299,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 72114,
+        "num": 72114,
+        "word": "马云成龙贝克汉姆并排观赛",
+        "onboard_time": 1760137638,
+        "rank": 45,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 71720,
+        "num": 71720,
+        "word": "为什么猫对小孩很容忍",
+        "onboard_time": 1760141781,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70610,
+        "num": 70610,
+        "word": "建议早餐吃点高热量食物",
+        "onboard_time": 1760108663,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 70019,
+        "num": 70019,
+        "word": "美股跳水",
+        "onboard_time": 1760109503,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 66002,
+        "num": 66002,
+        "word": "张远终于不做嘉宾做新郎了",
+        "onboard_time": 1760101041,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中朝关系不断向前发展#"
+    }
+  }
+}

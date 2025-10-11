@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760147155026,
+  "endTime": 1760148081351,
   "band_list": [
     {
       "raw_hot": 3831995,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1750676,
-      "num": 317260,
+      "num": 339149,
       "word": "米仓凉子 吸毒",
       "onboard_time": 1760143221,
       "rank": 10,
@@ -25,6 +25,14 @@
       "onboard_time": 1760141961,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1168389,
+      "num": 1186942,
+      "word": "保时捷女销冠被合成AI不雅视频",
+      "onboard_time": 1760146940,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 934956,
@@ -43,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 808464,
+      "num": 1114590,
+      "word": "被戳伤失明男孩家长回应获赔272万",
+      "onboard_time": 1760144541,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 780343,
       "num": 272953,
       "word": "特朗普关税",
@@ -51,28 +67,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 716192,
-      "num": 1114590,
-      "word": "被戳伤失明男孩家长回应获赔272万",
-      "onboard_time": 1760144541,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 642433,
       "num": 642433,
       "word": "中国迅速对美国亮出反制工具箱",
       "onboard_time": 1760141001,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 618408,
-      "num": 618408,
-      "word": "保时捷女销冠被合成AI不雅视频",
-      "onboard_time": 1760146940,
-      "rank": 3,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 599353,
@@ -97,6 +97,14 @@
       "onboard_time": 1760141481,
       "rank": 6,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 471535,
+      "num": 471535,
+      "word": "台军心战大队",
+      "onboard_time": 1760146220,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 450503,
@@ -124,11 +132,19 @@
     },
     {
       "raw_hot": 416046,
-      "num": 186211,
+      "num": 193439,
       "word": "男子切割墙体时切割机弹出切入腹部",
       "onboard_time": 1760137758,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357778,
+      "num": 357778,
+      "word": "美国内政部长称中国遏制稀土命脉",
+      "onboard_time": 1760139621,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 355831,
@@ -139,28 +155,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 323402,
-      "num": 323402,
-      "word": "中方一个个点名多个国家劣迹",
-      "onboard_time": 1760106203,
-      "rank": 3,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 317779,
-      "num": 317779,
+      "raw_hot": 330442,
+      "num": 330442,
       "word": "朝鲜文艺演出画面",
       "onboard_time": 1760138659,
       "rank": 34,
       "category": "国际时政"
     },
     {
-      "raw_hot": 316395,
-      "num": 316395,
-      "word": "台军心战大队",
-      "onboard_time": 1760146220,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 323402,
+      "num": 323402,
+      "word": "中方一个个点名多个国家劣迹",
+      "onboard_time": 1760106203,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 309286,
@@ -203,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 278371,
-      "num": 278371,
-      "word": "美国内政部长称中国遏制稀土命脉",
-      "onboard_time": 1760139621,
-      "rank": 14,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 269981,
       "num": 269981,
       "word": "徒步甘孜失温女生最新情况",
@@ -249,6 +249,14 @@
       "onboard_time": 1760110701,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198951,
+      "num": 198951,
+      "word": "美依礼芽无法再唱极乐净土",
+      "onboard_time": 1760147840,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 193917,
@@ -307,20 +315,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164300,
+      "num": 164300,
+      "word": "吴磊惜败天王费德勒",
+      "onboard_time": 1760146041,
+      "rank": 21,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 163349,
       "num": 163349,
       "word": "石破茂称日政府从未否认侵略战争",
       "onboard_time": 1760109622,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 161077,
-      "num": 161077,
-      "word": "吴磊惜败天王费德勒",
-      "onboard_time": 1760146041,
-      "rank": 21,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 156654,
@@ -345,6 +353,14 @@
       "onboard_time": 1760090840,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 139899,
+      "num": 139899,
+      "word": "方媛回应日常生活有很多人打理",
+      "onboard_time": 1760147421,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 137790,
@@ -403,6 +419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 125630,
+      "num": 125630,
+      "word": "高通回应涉嫌违反反垄断法",
+      "onboard_time": 1760147660,
+      "rank": 27,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 122596,
       "num": 122596,
       "word": "外婆把孩子的画织成了毛衣",
@@ -443,6 +467,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 109993,
+      "num": 109993,
+      "word": "美国内政部长称必须破局",
+      "onboard_time": 1760146940,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103828,
       "num": 103828,
       "word": "西班牙回应特朗普",
@@ -467,12 +499,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99804,
+      "num": 99804,
+      "word": "突然发现高跟鞋设计的很窄",
+      "onboard_time": 1760146520,
+      "rank": 39,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 99710,
       "num": 99710,
       "word": "马来西亚行李箱藏尸案死者双手被绑",
       "onboard_time": 1760143761,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93293,
+      "num": 93293,
+      "word": "苏新皓跳Richman",
+      "onboard_time": 1760147301,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 92527,
@@ -523,28 +571,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 87532,
-      "num": 87532,
-      "word": "突然发现高跟鞋设计的很窄",
-      "onboard_time": 1760146520,
-      "rank": 39,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 87061,
       "num": 87061,
       "word": "身体5处不舒服可能是心梗",
       "onboard_time": 1760138299,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 84332,
-      "num": 84332,
-      "word": "美国内政部长称必须破局",
-      "onboard_time": 1760146940,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 83117,
@@ -603,6 +635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 74309,
+      "num": 74309,
+      "word": "年纪越大对任何人都不会有滤镜",
+      "onboard_time": 1760144901,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 73744,
       "num": 73744,
       "word": "白宫官员称已开始裁员",
@@ -659,8 +699,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65950,
-      "num": 65950,
+      "raw_hot": 66002,
+      "num": 66002,
       "word": "张远终于不做嘉宾做新郎了",
       "onboard_time": 1760101041,
       "rank": 36,
