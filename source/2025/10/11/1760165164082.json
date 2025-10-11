@@ -1,0 +1,410 @@
+{
+  "runTime": 1760165164082,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1597428,
+        "num": 1597428,
+        "word": "妻子痛斥丈夫中奖1000万后变心",
+        "onboard_time": 1760162060,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539040,
+        "num": 539040,
+        "word": "张继科说凭啥不知情时换教练",
+        "onboard_time": 1760156782,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36122,
+        "num": 432959,
+        "word": "十四五成就",
+        "onboard_time": 1760155581,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 613783,
+        "num": 432767,
+        "word": "许家印车牌粤A98888劳斯莱斯被接管",
+        "onboard_time": 1760160501,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432523,
+        "num": 432523,
+        "word": "娃哈哈任命许思敏为总经理",
+        "onboard_time": 1760156661,
+        "rank": 4,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 416070,
+        "num": 416070,
+        "word": "杨瀚森大爆发",
+        "onboard_time": 1760159422,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267017,
+        "num": 267017,
+        "word": "苹果闹钟没响",
+        "onboard_time": 1760151445,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 260663,
+        "num": 260663,
+        "word": "失温女生母亲要确认女儿是否被抛弃",
+        "onboard_time": 1760151862,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244643,
+        "num": 244643,
+        "word": "特朗普对华关税恐吓把美股吓出心脏病了",
+        "onboard_time": 1760154622,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233201,
+        "num": 233201,
+        "word": "我国海上发射一箭三星",
+        "onboard_time": 1760151983,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 790004,
+        "num": 232380,
+        "word": "成都被砍伤哈士奇已安乐死",
+        "onboard_time": 1760158701,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 617081,
+        "num": 231864,
+        "word": "冯建宇经纪人发长文",
+        "onboard_time": 1760162902,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541446,
+        "num": 231021,
+        "word": "焦俊艳签了papi公司",
+        "onboard_time": 1760159541,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371476,
+        "num": 229829,
+        "word": "恋综史上首次母女同场相亲",
+        "onboard_time": 1760157622,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337137,
+        "num": 229513,
+        "word": "黄子弘凡聊天记录被发出来了",
+        "onboard_time": 1760155522,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235208,
+        "num": 228360,
+        "word": "第一次对虚岁的解释感到震撼",
+        "onboard_time": 1760151503,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227932,
+        "num": 227932,
+        "word": "内娱00花开始演妈了",
+        "onboard_time": 1760163922,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227363,
+        "num": 227363,
+        "word": "米仓凉子 吸毒",
+        "onboard_time": 1760143221,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213578,
+        "num": 213578,
+        "word": "狐妖小红娘王权篇官宣改名天地剑心",
+        "onboard_time": 1760163980,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201405,
+        "num": 201405,
+        "word": "警方回应男子当街砍死哈士奇",
+        "onboard_time": 1760161162,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208651,
+        "num": 201165,
+        "word": "小孩哥把芥末放水中让花甲吐沙",
+        "onboard_time": 1760160080,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200417,
+        "num": 200417,
+        "word": "新95四小花旦",
+        "onboard_time": 1760156422,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183591,
+        "num": 183591,
+        "word": "宗馥莉不在周末给一线员工发工作信息",
+        "onboard_time": 1760164280,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135423,
+        "num": 183221,
+        "word": "宗馥莉为何选择放弃娃哈哈",
+        "onboard_time": 1760163739,
+        "rank": 23,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 182961,
+        "num": 182961,
+        "word": "蒋一侨骗了15年奶奶信了15年",
+        "onboard_time": 1760153364,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173458,
+        "num": 173458,
+        "word": "警方通报女子网球比赛大声叫喊",
+        "onboard_time": 1760162242,
+        "rank": 25,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 166901,
+        "num": 166901,
+        "word": "花儿与少年同心季",
+        "onboard_time": 1760162060,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163472,
+        "num": 163472,
+        "word": "天地剑心",
+        "onboard_time": 1760163801,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142083,
+        "num": 142083,
+        "word": "朝鲜文艺演出画面",
+        "onboard_time": 1760138659,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95243,
+        "num": 137306,
+        "word": "新郎新娘结婚只有嘉宾当真",
+        "onboard_time": 1760164101,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135132,
+        "num": 135132,
+        "word": "白鹿真的可以去脱口秀试试",
+        "onboard_time": 1760162601,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133365,
+        "num": 133365,
+        "word": "感觉张一山真的要抽搐过去了",
+        "onboard_time": 1760160201,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131606,
+        "num": 131606,
+        "word": "金价",
+        "onboard_time": 1760141961,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127166,
+        "num": 127166,
+        "word": "劣质碳水是身体的慢性炎症推手",
+        "onboard_time": 1760151083,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112943,
+        "num": 112943,
+        "word": "肖战藏海断层第一",
+        "onboard_time": 1760160441,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109674,
+        "num": 109674,
+        "word": "水龙吟",
+        "onboard_time": 1760162421,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109204,
+        "num": 109204,
+        "word": "李诞 不能是同一个病房的神经病",
+        "onboard_time": 1760164760,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107817,
+        "num": 107817,
+        "word": "冉莹颖儿子橙发",
+        "onboard_time": 1760164822,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80937,
+        "num": 107427,
+        "word": "驴友爬山捡剧毒蛇后轮流抚摸",
+        "onboard_time": 1760164280,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95452,
+        "num": 107330,
+        "word": "迪丽热巴 剧综人物前十唯一90花",
+        "onboard_time": 1760164280,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107281,
+        "num": 107281,
+        "word": "葛沛豪奚安娜回归爸爸当家",
+        "onboard_time": 1760159961,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68930,
+        "num": 103453,
+        "word": "为什么建议你选鹅绒服",
+        "onboard_time": 1760164881,
+        "rank": 41,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 100572,
+        "num": 100572,
+        "word": "上次这么嗑的是唐嫣罗晋",
+        "onboard_time": 1760161281,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99664,
+        "num": 99664,
+        "word": "帝王蟹自助",
+        "onboard_time": 1760161761,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97955,
+        "num": 97955,
+        "word": "宋亚轩单手举起116斤彭昱畅",
+        "onboard_time": 1760156782,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97647,
+        "num": 97647,
+        "word": "曾黎 睡前5分钟放下手机这样做",
+        "onboard_time": 1760160681,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91881,
+        "num": 91881,
+        "word": "比卢普斯为杨瀚森感到骄傲",
+        "onboard_time": 1760165002,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87939,
+        "num": 87939,
+        "word": "接王楚钦的追星运",
+        "onboard_time": 1760163561,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89411,
+        "num": 87776,
+        "word": "多方回应商铺老板砍伤哈士奇",
+        "onboard_time": 1760161761,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87206,
+        "num": 87206,
+        "word": "原来身体早就告诉你在变老了",
+        "onboard_time": 1760158404,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心妇女事业发展的故事#"
+    }
+  }
+}
