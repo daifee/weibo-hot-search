@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760192427512,
+  "endTime": 1760193398888,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1395,6 +1395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 968443,
+      "num": 181997,
+      "word": "魏大勋连续三年给孟宴臣庆生",
+      "onboard_time": 1760189363,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 965786,
       "num": 1154525,
       "word": "美股跳水",
@@ -1465,14 +1473,6 @@
       "onboard_time": 1760156002,
       "rank": 15,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 939166,
-      "num": 181997,
-      "word": "魏大勋连续三年给孟宴臣庆生",
-      "onboard_time": 1760189363,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 936520,
@@ -1921,6 +1921,14 @@
       "onboard_time": 1759761024,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 826370,
+      "num": 1132219,
+      "word": "摊主女儿大口吃父母摊位剩食走红",
+      "onboard_time": 1760189123,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 818385,
@@ -2627,14 +2635,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 679536,
-      "num": 679536,
-      "word": "摊主女儿大口吃父母摊位剩食走红",
-      "onboard_time": 1760189123,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 678339,
       "num": 1106819,
       "word": "没接到骑手电话500元外卖不翼而飞",
@@ -3096,6 +3096,14 @@
       "word": "贵州31岁派出所副所长因公牺牲",
       "onboard_time": 1759584742,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 617160,
+      "num": 617160,
+      "word": "故宫地下有一条15公里暗沟",
+      "onboard_time": 1760189843,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -7395,14 +7403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 307022,
-      "num": 307022,
-      "word": "故宫地下有一条15公里暗沟",
-      "onboard_time": 1760189843,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 306422,
       "num": 183124,
       "word": "董璇张维伊婚礼合影站位",
@@ -7449,6 +7449,14 @@
       "onboard_time": 1760052258,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 302226,
+      "num": 168498,
+      "word": "齐溪二胎是女儿",
+      "onboard_time": 1760192723,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 302060,
@@ -8817,6 +8825,14 @@
       "onboard_time": 1759569501,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252491,
+      "num": 168211,
+      "word": "容祖儿说汪苏泷最好听的作品是年轮",
+      "onboard_time": 1760192242,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 252313,
@@ -12003,6 +12019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188731,
+      "num": 188731,
+      "word": "AG全胜收官擂台赛",
+      "onboard_time": 1760192484,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 188680,
       "num": 175638,
       "word": "王鹤棣太抢手了",
@@ -13835,6 +13859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168085,
+      "num": 168085,
+      "word": "A股又现天价离婚34亿待分割",
+      "onboard_time": 1760189303,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 168020,
       "num": 168020,
       "word": "普通人不上班六个月的真实感受",
@@ -14377,6 +14409,14 @@
       "onboard_time": 1759385901,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163530,
+      "num": 163530,
+      "word": "坦然 AG最后一舞",
+      "onboard_time": 1760192421,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 163497,
@@ -17027,14 +17067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140911,
-      "num": 140911,
-      "word": "A股又现天价离婚34亿待分割",
-      "onboard_time": 1760189303,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 140878,
       "num": 108186,
       "word": "高铁1分钟换乘",
@@ -17313,6 +17345,14 @@
       "onboard_time": 1760148679,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139500,
+      "num": 139500,
+      "word": "坦然吕布",
+      "onboard_time": 1760192181,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 139460,
@@ -19283,6 +19323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129093,
+      "num": 129093,
+      "word": "地球超新鲜庆功宴",
+      "onboard_time": 1760193143,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129055,
       "num": 145550,
       "word": "24节气中最早带寒的节气",
@@ -19721,6 +19769,14 @@
       "onboard_time": 1760106684,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126499,
+      "num": 126499,
+      "word": "一个恋爱玄学",
+      "onboard_time": 1760191463,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 126430,
@@ -20545,14 +20601,6 @@
       "onboard_time": 1759798699,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122490,
-      "num": 122490,
-      "word": "容祖儿说汪苏泷最好听的作品是年轮",
-      "onboard_time": 1760192242,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 122475,
@@ -21443,6 +21491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 118319,
+      "num": 118319,
+      "word": "魏大勋 孟宴臣",
+      "onboard_time": 1760192302,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118266,
       "num": 118266,
       "word": "谭松韵古装仪态",
@@ -22065,14 +22121,6 @@
       "onboard_time": 1759587442,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115270,
-      "num": 115270,
-      "word": "一个恋爱玄学",
-      "onboard_time": 1760191463,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 115245,
@@ -22833,6 +22881,14 @@
       "onboard_time": 1760187740,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111965,
+      "num": 111965,
+      "word": "周杰伦嘉年华收官场",
+      "onboard_time": 1760193081,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 111918,
@@ -23867,6 +23923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109062,
+      "num": 627073,
+      "word": "悬赏征集台军18人犯罪线索",
+      "onboard_time": 1760191463,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 109033,
       "num": 111722,
       "word": "阿维塔已支付引望10%股权全部价款",
@@ -24673,6 +24737,14 @@
       "onboard_time": 1759534277,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 106256,
+      "num": 106256,
+      "word": "孙恩盛 记得想我哦",
+      "onboard_time": 1760192782,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 106213,
@@ -26515,6 +26587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99244,
+      "num": 99244,
+      "word": "孙颖莎为印度亚锦赛录视频",
+      "onboard_time": 1760192962,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99208,
       "num": 99208,
       "word": "叶童 硬撑罢了",
@@ -26977,14 +27057,6 @@
       "onboard_time": 1759883780,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97579,
-      "num": 97579,
-      "word": "坦然吕布",
-      "onboard_time": 1760192181,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 97568,
@@ -27585,6 +27657,14 @@
       "onboard_time": 1760164101,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95240,
+      "num": 95240,
+      "word": "唐艺昕和女儿亲子装出游",
+      "onboard_time": 1760193383,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 95235,
@@ -28891,6 +28971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90495,
+      "num": 90495,
+      "word": "美国总统破防的原因",
+      "onboard_time": 1760189843,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90487,
       "num": 90487,
       "word": "光明集团将接手绿捷校园餐业务",
@@ -29091,14 +29179,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 89775,
-      "num": 89775,
-      "word": "魏大勋 孟宴臣",
-      "onboard_time": 1760192302,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 89754,
       "num": 89754,
       "word": "秦彻战损daddy",
@@ -29257,6 +29337,14 @@
       "onboard_time": 1760007802,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89052,
+      "num": 89052,
+      "word": "重生之我在娱乐圈文给昀牵孟绕当npc",
+      "onboard_time": 1760193383,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 89040,
@@ -29609,14 +29697,6 @@
       "onboard_time": 1759795398,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87381,
-      "num": 87381,
-      "word": "美国总统破防的原因",
-      "onboard_time": 1760189843,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 87380,
@@ -32059,14 +32139,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 73558,
-      "num": 435689,
-      "word": "悬赏征集台军18人犯罪线索",
-      "onboard_time": 1760191463,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 73516,
       "num": 85510,
       "word": "王楚钦说和孙颖莎沟通非常高效",
@@ -33529,6 +33601,14 @@
       "onboard_time": 1759716260,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 58322,
+      "num": 106473,
+      "word": "爸爸辞职带多动症儿子徒步去山东",
+      "onboard_time": 1760193023,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58217,
