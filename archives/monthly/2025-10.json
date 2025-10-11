@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760196106533,
+  "endTime": 1760196992505,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -3307,6 +3307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 597391,
+      "num": 409479,
+      "word": "唐艺昕女儿睫毛好长",
+      "onboard_time": 1760193623,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 594805,
       "num": 250390,
       "word": "张维伊看不了董璇这段",
@@ -3931,14 +3939,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 531092,
-      "num": 409479,
-      "word": "唐艺昕女儿睫毛好长",
-      "onboard_time": 1760193623,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 530300,
       "num": 334717,
       "word": "一家三口被撞死案目击者发声",
@@ -4425,6 +4425,14 @@
       "onboard_time": 1759826242,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 488665,
+      "num": 254795,
+      "word": "丈夫坚持AA制妻子无力支付要写欠条",
+      "onboard_time": 1760195002,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 488539,
@@ -8771,14 +8779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 254795,
-      "num": 254795,
-      "word": "丈夫坚持AA制妻子无力支付要写欠条",
-      "onboard_time": 1760195002,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 254494,
       "num": 158439,
       "word": "家有儿女还是太写实了",
@@ -9779,6 +9779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 225488,
+      "num": 411415,
+      "word": "JDG战胜KSG",
+      "onboard_time": 1760195602,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 225327,
       "num": 157924,
       "word": "严浩翔定妆剧照",
@@ -9841,6 +9849,14 @@
       "onboard_time": 1759936220,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223296,
+      "num": 196628,
+      "word": "迪丽热巴申请限消邓氏阿嬷手作",
+      "onboard_time": 1760195961,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 223184,
@@ -9961,6 +9977,14 @@
       "onboard_time": 1759546460,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220291,
+      "num": 196795,
+      "word": "李承铉撮合张远和王霏霏",
+      "onboard_time": 1760194523,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 220205,
@@ -10763,6 +10787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204282,
+      "num": 412628,
+      "word": "坦然 AG最后一舞",
+      "onboard_time": 1760192421,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204237,
       "num": 204237,
       "word": "闫妮不微醺了",
@@ -11307,22 +11339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 196795,
-      "num": 196795,
-      "word": "李承铉撮合张远和王霏霏",
-      "onboard_time": 1760194523,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 196628,
-      "num": 196628,
-      "word": "迪丽热巴申请限消邓氏阿嬷手作",
-      "onboard_time": 1760195961,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196522,
       "num": 85641,
       "word": "警方通报女子酒后观赛大声喧哗",
@@ -11401,14 +11417,6 @@
       "onboard_time": 1759812981,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 195804,
-      "num": 412628,
-      "word": "坦然 AG最后一舞",
-      "onboard_time": 1760192421,
-      "rank": 27,
-      "category": "电竞"
     },
     {
       "raw_hot": 195707,
@@ -13795,14 +13803,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 169456,
-      "num": 411415,
-      "word": "JDG战胜KSG",
-      "onboard_time": 1760195602,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 169448,
       "num": 169448,
       "word": "一个恋爱玄学",
@@ -14851,6 +14851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 159885,
+      "num": 159885,
+      "word": "岳云鹏说郭德纲就是个普通员工",
+      "onboard_time": 1760196142,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 159733,
       "num": 159733,
       "word": "精神病女子替人开公司租车20台",
@@ -15041,6 +15049,14 @@
       "onboard_time": 1759295959,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158357,
+      "num": 158357,
+      "word": "桂林山水甲天下具象化了",
+      "onboard_time": 1760196501,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 158199,
@@ -15265,6 +15281,14 @@
       "onboard_time": 1759908141,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 156079,
+      "num": 156079,
+      "word": "陈小春你就宠李昊吧",
+      "onboard_time": 1760195901,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 156047,
@@ -19091,6 +19115,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 130759,
+      "num": 130759,
+      "word": "拜登接受癌症放射治疗",
+      "onboard_time": 1760195542,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130757,
       "num": 130757,
       "word": "来战",
@@ -19401,14 +19433,6 @@
       "onboard_time": 1759909701,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 129177,
-      "num": 129177,
-      "word": "拜登接受癌症放射治疗",
-      "onboard_time": 1760195542,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 129157,
@@ -20417,6 +20441,14 @@
       "onboard_time": 1759322542,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124055,
+      "num": 124055,
+      "word": "管乐寸头造型成披哥打卡景点",
+      "onboard_time": 1760195661,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 123973,
@@ -21473,14 +21505,6 @@
       "onboard_time": 1760182821,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118883,
-      "num": 118883,
-      "word": "管乐寸头造型成披哥打卡景点",
-      "onboard_time": 1760195661,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 118796,
@@ -23907,6 +23931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109338,
+      "num": 109338,
+      "word": "极氪001",
+      "onboard_time": 1760193925,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 109303,
       "num": 109303,
       "word": "穿裙子的小小孙颖莎",
@@ -25873,14 +25905,6 @@
       "onboard_time": 1759673964,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 102665,
-      "num": 102665,
-      "word": "陈小春你就宠李昊吧",
-      "onboard_time": 1760195901,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 102646,
@@ -28931,6 +28955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91246,
+      "num": 91246,
+      "word": "回魂计",
+      "onboard_time": 1760196801,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91204,
       "num": 91204,
       "word": "结婚是爱人也是最好的朋友",
@@ -29633,6 +29665,14 @@
       "onboard_time": 1759394601,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 88310,
+      "num": 88310,
+      "word": "汪苏泷推荐王鹤棣孟子义上歌手",
+      "onboard_time": 1760196381,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 88278,
@@ -30579,6 +30619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 84480,
+      "num": 84480,
+      "word": "杨超越学姐",
+      "onboard_time": 1760196922,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84455,
       "num": 84455,
       "word": "30岁放弃稳定收入裸辞的一天",
@@ -30865,6 +30913,14 @@
       "onboard_time": 1760183601,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83087,
+      "num": 83087,
+      "word": "湖南卫视重映九重紫收视第一",
+      "onboard_time": 1760196742,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 83065,
