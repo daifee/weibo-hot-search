@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760207396719,
+  "endTime": 1760208142375,
   "band_list": [
     {
       "raw_hot": 912924,
@@ -283,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79617,
+      "num": 45493,
+      "word": "井迪一直不谈恋爱的原因",
+      "onboard_time": 1760204419,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79419,
       "num": 79419,
       "word": "毁牙第一名竟然不是可乐",
@@ -352,14 +360,6 @@
       "word": "音乐缘计划",
       "onboard_time": 1760199862,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 64364,
-      "num": 45493,
-      "word": "井迪一直不谈恋爱的原因",
-      "onboard_time": 1760204419,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42085,
+      "num": 57204,
+      "word": "男子失联7年后家属才知命丧车祸",
+      "onboard_time": 1760180301,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41998,
       "num": 41998,
       "word": "许妍与父母和解",
@@ -451,20 +459,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 38650,
-      "num": 57204,
-      "word": "男子失联7年后家属才知命丧车祸",
-      "onboard_time": 1760180301,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 28938,
       "num": 43846,
       "word": "消费10年后发现了拼多多的秘密",
       "onboard_time": 1760189723,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 28199,
+      "num": 28199,
+      "word": "入青云幻境副本",
+      "onboard_time": 1760207956,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25727,
+      "num": 26243,
+      "word": "张靓颖摔下舞台后先安慰大家",
+      "onboard_time": 1760207595,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 20526,
@@ -483,7 +499,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16709,
+      "raw_hot": 18181,
       "num": 30187,
       "word": "Doinb聊LPL和LCK训练环境",
       "onboard_time": 1760195242,
