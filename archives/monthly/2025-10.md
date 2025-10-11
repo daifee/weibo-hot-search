@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 06:37:58
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 07:21:56
 </p>
 </blockquote>
 <p>
@@ -4131,6 +4131,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A546%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A7%82%E8%B5%9B%E6%9C%9F%E9%97%B4%E5%8F%AB%E5%96%8A%23" target="weibo">
+警方通报46岁女子观赛期间叫喊（热度：413526）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%A5%A8%E6%88%BF%E5%89%8D3%23" target="weibo">
 国庆档票房前3（热度：412880）
 </a>
@@ -6005,12 +6011,6 @@ JDG对战DK（热度：286717）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%88%9A%E8%90%BD%E5%9C%B0%E5%8F%88%E9%A3%9E%E8%B5%B0%E4%BA%86%23" target="weibo">
 王俊凯刚落地又飞走了（热度：283669）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E9%80%81%E5%84%BF%E5%AD%90%E7%95%99%E5%AD%A6%E6%9C%BA%E5%9C%BA%E5%88%86%E5%88%AB%E8%90%BD%E6%B3%AA%23" target="weibo">
-张智霖送儿子留学机场分别落泪（热度：283497）
 </a>
 </li>
 
