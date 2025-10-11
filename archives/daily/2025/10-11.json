@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760178223699,
+  "endTime": 1760179171775,
   "band_list": [
     {
       "raw_hot": 8491801,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 484237,
+      "num": 209278,
+      "word": "短短37秒吻戏床戏都上尺度了",
+      "onboard_time": 1760173461,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 476284,
       "num": 476284,
       "word": "叙利亚前总统阿萨德现沉迷电子游戏",
@@ -443,14 +451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 379595,
-      "num": 209278,
-      "word": "短短37秒吻戏床戏都上尺度了",
-      "onboard_time": 1760173461,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 376274,
       "num": 376274,
       "word": "王者十周年三星堆皮肤首曝",
@@ -483,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359721,
+      "num": 187724,
+      "word": "长期吃面vs长期吃米",
+      "onboard_time": 1760177421,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 357778,
       "num": 357778,
       "word": "美国内政部长称中国遏制稀土命脉",
@@ -513,6 +521,14 @@
       "onboard_time": 1760151983,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 335507,
+      "num": 183447,
+      "word": "毁牙第一名竟然不是可乐",
+      "onboard_time": 1760174060,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 330442,
@@ -603,14 +619,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 301741,
-      "num": 157839,
-      "word": "毁牙第一名竟然不是可乐",
-      "onboard_time": 1760174060,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 300228,
       "num": 292733,
       "word": "太好了是林玉芬我们有救了",
@@ -649,6 +657,14 @@
       "onboard_time": 1760102961,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281136,
+      "num": 201485,
+      "word": "刘宇宁在韩国连续6周荣获第一",
+      "onboard_time": 1760175140,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 277631,
@@ -779,14 +795,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 208240,
-      "num": 201485,
-      "word": "刘宇宁在韩国连续6周荣获第一",
-      "onboard_time": 1760175140,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 207089,
       "num": 207089,
       "word": "JDG战胜狼队",
@@ -907,6 +915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187033,
+      "num": 187033,
+      "word": "许我耀眼",
+      "onboard_time": 1760117176,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186832,
       "num": 186832,
       "word": "人唯一不会长大的器官",
@@ -979,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176690,
+      "num": 176690,
+      "word": "上一秒刀马下一秒吻啦",
+      "onboard_time": 1760177960,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174316,
       "num": 134243,
       "word": "Angelababy公主皇冠",
@@ -1019,14 +1043,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 168257,
-      "num": 122423,
-      "word": "长期吃面vs长期吃米",
-      "onboard_time": 1760177421,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 168183,
       "num": 168183,
       "word": "包文婧自曝因长相选择包贝尔",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1760170939,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163421,
+      "num": 163421,
+      "word": "山航空姐全面换穿平底鞋",
+      "onboard_time": 1760176761,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163349,
@@ -1179,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145456,
-      "num": 145456,
-      "word": "上一秒刀马下一秒吻啦",
-      "onboard_time": 1760177960,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 143841,
       "num": 167780,
       "word": "昭昭墨墨第四",
@@ -1235,12 +1251,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140023,
-      "num": 140023,
-      "word": "山航空姐全面换穿平底鞋",
-      "onboard_time": 1760176761,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 139907,
+      "num": 139907,
+      "word": "WB对战RW",
+      "onboard_time": 1760178260,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 139899,
@@ -1304,6 +1320,14 @@
       "word": "周杰伦也成小众歌手了",
       "onboard_time": 1760174121,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135958,
+      "num": 135958,
+      "word": "李沁 现在还是不会接头",
+      "onboard_time": 1760178380,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -1443,6 +1467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128624,
+      "num": 128624,
+      "word": "林玉芬回复白鹿",
+      "onboard_time": 1760175500,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128324,
       "num": 128324,
       "word": "美对中国船舶收费中方对美同时实施",
@@ -1465,14 +1497,6 @@
       "onboard_time": 1760165959,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 126910,
-      "num": 126910,
-      "word": "林玉芬回复白鹿",
-      "onboard_time": 1760175500,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 125969,
@@ -1529,6 +1553,14 @@
       "onboard_time": 1760163442,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124079,
+      "num": 111452,
+      "word": "全球对中国实力认知颠覆",
+      "onboard_time": 1760178623,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 123798,
@@ -1667,6 +1699,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112817,
+      "num": 112817,
+      "word": "德约科维奇vs瓦舍罗",
+      "onboard_time": 1760178861,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112403,
+      "num": 112403,
+      "word": "资本看上小火锅",
+      "onboard_time": 1760177840,
+      "rank": 35,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 111910,
       "num": 111910,
       "word": "突然发现高跟鞋设计的很窄",
@@ -1763,6 +1811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 107790,
+      "num": 107790,
+      "word": "文章老了好多",
+      "onboard_time": 1760178981,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107733,
       "num": 107733,
       "word": "RW锁定年总突围赛",
@@ -1843,14 +1899,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 103773,
-      "num": 103773,
-      "word": "资本看上小火锅",
-      "onboard_time": 1760177840,
-      "rank": 35,
-      "category": "民生新闻,美食"
-    },
-    {
       "raw_hot": 103746,
       "num": 103746,
       "word": "宗馥莉仍是娃哈哈第二大股东",
@@ -1913,6 +1961,14 @@
       "onboard_time": 1760176822,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101084,
+      "num": 101084,
+      "word": "古偶怎么了",
+      "onboard_time": 1760178560,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 99806,
@@ -2083,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93522,
+      "num": 93522,
+      "word": "中国一反击打痛美国",
+      "onboard_time": 1760176282,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93293,
       "num": 93293,
       "word": "苏新皓跳Richman",
@@ -2113,6 +2177,14 @@
       "onboard_time": 1760177479,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 92953,
+      "num": 92953,
+      "word": "许我乱剪 许我乱嗑",
+      "onboard_time": 1760178501,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 92527,
@@ -2315,12 +2387,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86138,
+      "num": 86138,
+      "word": "特朗普生气的原因分析",
+      "onboard_time": 1760178321,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85125,
       "num": 90136,
       "word": "小说里眼尾猩红是侯明昊这样的",
       "onboard_time": 1760170761,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84036,
+      "num": 84036,
+      "word": "奥沙利文说王楚钦是传奇人物",
+      "onboard_time": 1760178623,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 83117,
@@ -2795,14 +2883,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 29520,
-      "num": 43102,
-      "word": "许我耀眼",
-      "onboard_time": 1760117176,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 29134,
       "num": 281878,
       "word": "全国通办婚姻登记26.3万余对",
@@ -2827,20 +2907,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27694,
+      "num": 103249,
+      "word": "今年最后一个调休日",
+      "onboard_time": 1760178141,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24548,
       "num": 22870,
       "word": "成龙演唱故宫百年主题曲",
       "onboard_time": 1760127494,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 20829,
-      "num": 103249,
-      "word": "今年最后一个调休日",
-      "onboard_time": 1760178141,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20176,
