@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/12 00:27:55 ~ 2025/10/12 04:37:16
+本榜单时间：2025/10/12 00:27:55 ~ 2025/10/12 05:20:46
 </p>
 </blockquote>
 <p>
@@ -143,6 +143,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%A6%E7%84%B6%20AG%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E%23" target="weibo">
 坦然 AG最后一舞（热度：136342）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A546%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A7%82%E8%B5%9B%E6%9C%9F%E9%97%B4%E5%8F%AB%E5%96%8A%23" target="weibo">
+警方通报46岁女子观赛期间叫喊（热度：136327）
 </a>
 </li>
 
@@ -327,12 +333,6 @@ VOGUE盛典52位嘉宾（热度：87535）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A546%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A7%82%E8%B5%9B%E6%9C%9F%E9%97%B4%E5%8F%AB%E5%96%8A%23" target="weibo">
-警方通报46岁女子观赛期间叫喊（热度：54165）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E9%B1%BC%E8%84%B8%E4%B8%8A%E7%9C%8B%E5%88%B0%E7%94%9F%E6%B0%94%E7%9A%84%E8%A1%A8%E6%83%85%23" target="weibo">
 第一次在鱼脸上看到生气的表情（热度：53619）
 </a>
@@ -405,6 +405,12 @@ Doinb聊LPL和LCK训练环境（热度：18181）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%8611%E5%A4%A9%23" target="weibo">
+美政府停摆11天（热度：16007）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E4%BA%BA%E9%83%BD%E8%BF%99%E4%B8%AA%E7%97%87%E7%8A%B6%E7%9C%9F%E7%9A%84%E9%9D%9E%E5%B8%B8%E7%BD%95%E8%A7%81%23" target="weibo">
 四人都这个症状真的非常罕见（热度：15919）
 </a>
@@ -412,7 +418,7 @@ Doinb聊LPL和LCK训练环境（热度：18181）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A9%9A%E7%A4%BC%E7%85%A7%E7%89%87%E8%A2%AB%E4%BF%9D%E6%B4%81%E5%BD%93%E5%9E%83%E5%9C%BE%E6%89%94%E6%8E%89%23" target="weibo">
-酒店回应婚礼照片被保洁当垃圾扔掉（热度：12985）
+酒店回应婚礼照片被保洁当垃圾扔掉（热度：14107）
 </a>
 </li>
 

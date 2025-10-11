@@ -1,0 +1,410 @@
+{
+  "runTime": 1760217646774,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 136327,
+        "num": 136327,
+        "word": "警方通报46岁女子观赛期间叫喊",
+        "onboard_time": 1760213413,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 57381,
+        "num": 57381,
+        "word": "聊天这样结尾的人往往很在乎你",
+        "onboard_time": 1760198241,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17134,
+        "num": 47439,
+        "word": "悬赏征集台军18人犯罪线索",
+        "onboard_time": 1760191463,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43157,
+        "num": 43157,
+        "word": "千万富翁给丢失25年儿子婚礼办40桌",
+        "onboard_time": 1760193803,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35277,
+        "num": 35277,
+        "word": "故宫地下有一条15公里暗沟",
+        "onboard_time": 1760189843,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30117,
+        "num": 30117,
+        "word": "长期吃面vs长期吃米",
+        "onboard_time": 1760177421,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24524,
+        "num": 24524,
+        "word": "王老吉发文有病去医院有事找法院",
+        "onboard_time": 1760180422,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21780,
+        "num": 21780,
+        "word": "摊主女儿大口吃父母摊位剩食走红",
+        "onboard_time": 1760189123,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21367,
+        "num": 21367,
+        "word": "男子失联7年后家属才知命丧车祸",
+        "onboard_time": 1760180301,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19960,
+        "num": 19960,
+        "word": "12306回应无座乘客自带椅子",
+        "onboard_time": 1760180422,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86890,
+        "num": 19828,
+        "word": "迪丽热巴申请限消邓氏阿嬷手作",
+        "onboard_time": 1760195961,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69725,
+        "num": 19620,
+        "word": "丈夫坚持AA制妻子无力支付要写欠条",
+        "onboard_time": 1760195002,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59847,
+        "num": 19531,
+        "word": "关晓彤果然是被造型师陷害的",
+        "onboard_time": 1760197282,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43782,
+        "num": 19317,
+        "word": "李承铉撮合张远和王霏霏",
+        "onboard_time": 1760194523,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42967,
+        "num": 19137,
+        "word": "韩国男子在张家界举韩国国旗",
+        "onboard_time": 1760185281,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38493,
+        "num": 19004,
+        "word": "井迪一直不谈恋爱的原因",
+        "onboard_time": 1760204419,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37097,
+        "num": 18765,
+        "word": "华裔女星疑遭同组演员性侵",
+        "onboard_time": 1760189061,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36580,
+        "num": 18561,
+        "word": "文章老了好多",
+        "onboard_time": 1760178981,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36243,
+        "num": 18341,
+        "word": "短短37秒吻戏床戏都上尺度了",
+        "onboard_time": 1760173461,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33717,
+        "num": 18110,
+        "word": "许我耀眼大结局",
+        "onboard_time": 1760179580,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32062,
+        "num": 17887,
+        "word": "张靓颖摔下舞台",
+        "onboard_time": 1760186182,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27988,
+        "num": 17809,
+        "word": "唐艺昕女儿睫毛好长",
+        "onboard_time": 1760193623,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26004,
+        "num": 17637,
+        "word": "差点没认出来李菲儿",
+        "onboard_time": 1760182401,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25092,
+        "num": 17361,
+        "word": "糖尿病女孩1天4杯奶茶惊掉医生下巴",
+        "onboard_time": 1760193441,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22537,
+        "num": 17238,
+        "word": "印企保证稀土不流入美国",
+        "onboard_time": 1760197221,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17110,
+        "num": 17110,
+        "word": "张杰翻唱天黑黑",
+        "onboard_time": 1760198121,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16929,
+        "num": 16929,
+        "word": "关晓彤 这才是我的衣服",
+        "onboard_time": 1760182581,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16122,
+        "num": 16122,
+        "word": "一个恋爱玄学",
+        "onboard_time": 1760191463,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 16007,
+        "num": 16007,
+        "word": "美政府停摆11天",
+        "onboard_time": 1760216654,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15941,
+        "num": 15941,
+        "word": "齐溪二胎是女儿",
+        "onboard_time": 1760192723,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15435,
+        "num": 15435,
+        "word": "回魂计",
+        "onboard_time": 1760196801,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14185,
+        "num": 14185,
+        "word": "许凯开机",
+        "onboard_time": 1760188402,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14160,
+        "num": 14160,
+        "word": "贝克汉姆也没买到labubu",
+        "onboard_time": 1760199021,
+        "rank": 32,
+        "category": "体育,休闲"
+      },
+      {
+        "raw_hot": 14107,
+        "num": 14107,
+        "word": "酒店回应婚礼照片被保洁当垃圾扔掉",
+        "onboard_time": 1760209994,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13168,
+        "num": 14098,
+        "word": "第一次在鱼脸上看到生气的表情",
+        "onboard_time": 1760202018,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12929,
+        "num": 14092,
+        "word": "纤维粒视频被禁止播放",
+        "onboard_time": 1760208255,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 12602,
+        "num": 14079,
+        "word": "许我耀眼反转",
+        "onboard_time": 1760187262,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12503,
+        "num": 14073,
+        "word": "四人都这个症状真的非常罕见",
+        "onboard_time": 1760209216,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 12361,
+        "num": 14062,
+        "word": "白鹿叶璃杀青记录",
+        "onboard_time": 1760205436,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12037,
+        "num": 14051,
+        "word": "毁牙第一名竟然不是可乐",
+        "onboard_time": 1760174060,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 11983,
+        "num": 14042,
+        "word": "容祖儿说汪苏泷最好听的作品是年轮",
+        "onboard_time": 1760192242,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11829,
+        "num": 14031,
+        "word": "许妍与父母和解",
+        "onboard_time": 1760206276,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11808,
+        "num": 14028,
+        "word": "坦然 AG最后一舞",
+        "onboard_time": 1760192421,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12354,
+        "num": 14019,
+        "word": "白鹿有颗牙片磕碎了",
+        "onboard_time": 1760188942,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11676,
+        "num": 14003,
+        "word": "VOGUE盛典52位嘉宾",
+        "onboard_time": 1760198420,
+        "rank": 44,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 11553,
+        "num": 14001,
+        "word": "陈伟霆好会亲",
+        "onboard_time": 1760202858,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11326,
+        "num": 13986,
+        "word": "魏大勋连续三年给孟宴臣庆生",
+        "onboard_time": 1760189363,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11303,
+        "num": 13983,
+        "word": "亚锦赛",
+        "onboard_time": 1760183180,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11248,
+        "num": 13966,
+        "word": "陈浚铭拜师兄2.0",
+        "onboard_time": 1760198241,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10839,
+        "num": 13954,
+        "word": "消费10年后发现了拼多多的秘密",
+        "onboard_time": 1760189723,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为新时代妇女事业发展指方向#"
+    }
+  }
+}
