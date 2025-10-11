@@ -1,0 +1,410 @@
+{
+  "runTime": 1760225789570,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 477334,
+        "num": 886373,
+        "word": "警方通报46岁女子观赛期间叫喊",
+        "onboard_time": 1760213413,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 185789,
+        "num": 185789,
+        "word": "聊天这样结尾的人往往很在乎你",
+        "onboard_time": 1760198241,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 47969,
+        "num": 180102,
+        "word": "悬赏征集台军18人犯罪线索",
+        "onboard_time": 1760191463,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176578,
+        "num": 176578,
+        "word": "故宫地下有一条15公里暗沟",
+        "onboard_time": 1760189843,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173760,
+        "num": 173760,
+        "word": "千万富翁给丢失25年儿子婚礼办40桌",
+        "onboard_time": 1760193803,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118511,
+        "num": 118511,
+        "word": "摊主女儿大口吃父母摊位剩食走红",
+        "onboard_time": 1760189123,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112155,
+        "num": 112155,
+        "word": "长期吃面vs长期吃米",
+        "onboard_time": 1760177421,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91567,
+        "num": 91567,
+        "word": "王老吉发文有病去医院有事找法院",
+        "onboard_time": 1760180422,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86697,
+        "num": 86697,
+        "word": "印企保证稀土不流入美国",
+        "onboard_time": 1760197221,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84411,
+        "num": 84411,
+        "word": "12306回应无座乘客自带椅子",
+        "onboard_time": 1760180422,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 424811,
+        "num": 84254,
+        "word": "丈夫坚持AA制妻子无力支付要写欠条",
+        "onboard_time": 1760195002,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318278,
+        "num": 83996,
+        "word": "迪丽热巴申请限消邓氏阿嬷手作",
+        "onboard_time": 1760195961,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272453,
+        "num": 83963,
+        "word": "李承铉撮合张远和王霏霏",
+        "onboard_time": 1760194523,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194137,
+        "num": 83554,
+        "word": "关晓彤果然是被造型师陷害的",
+        "onboard_time": 1760197282,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191592,
+        "num": 83461,
+        "word": "华裔女星疑遭同组演员性侵",
+        "onboard_time": 1760189061,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172497,
+        "num": 83230,
+        "word": "井迪一直不谈恋爱的原因",
+        "onboard_time": 1760204419,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156679,
+        "num": 82905,
+        "word": "韩国男子在张家界举韩国国旗",
+        "onboard_time": 1760185281,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135155,
+        "num": 82706,
+        "word": "张靓颖摔下舞台",
+        "onboard_time": 1760186182,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112266,
+        "num": 82543,
+        "word": "许我耀眼大结局",
+        "onboard_time": 1760179580,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109572,
+        "num": 82251,
+        "word": "差点没认出来李菲儿",
+        "onboard_time": 1760182401,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96951,
+        "num": 82049,
+        "word": "糖尿病女孩1天4杯奶茶惊掉医生下巴",
+        "onboard_time": 1760193441,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94741,
+        "num": 81963,
+        "word": "文章老了好多",
+        "onboard_time": 1760178981,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81748,
+        "num": 81748,
+        "word": "微博视界大会",
+        "onboard_time": 1760225477,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81461,
+        "num": 81461,
+        "word": "短短37秒吻戏床戏都上尺度了",
+        "onboard_time": 1760173461,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58635,
+        "num": 58635,
+        "word": "唐艺昕女儿睫毛好长",
+        "onboard_time": 1760193623,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51988,
+        "num": 51988,
+        "word": "第一次在鱼脸上看到生气的表情",
+        "onboard_time": 1760202018,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 50116,
+        "num": 50116,
+        "word": "男子失联7年后家属才知命丧车祸",
+        "onboard_time": 1760180301,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48480,
+        "num": 48480,
+        "word": "齐溪二胎是女儿",
+        "onboard_time": 1760192723,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46363,
+        "num": 46363,
+        "word": "美政府停摆11天",
+        "onboard_time": 1760216654,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44409,
+        "num": 44409,
+        "word": "魏大勋 孟宴臣",
+        "onboard_time": 1760192302,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40049,
+        "num": 40049,
+        "word": "中国常驻联合国代表点名美国",
+        "onboard_time": 1760218034,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39760,
+        "num": 39760,
+        "word": "毁牙第一名竟然不是可乐",
+        "onboard_time": 1760174060,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38584,
+        "num": 38584,
+        "word": "四人都这个症状真的非常罕见",
+        "onboard_time": 1760209216,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 38568,
+        "num": 38568,
+        "word": "许凯开机",
+        "onboard_time": 1760188402,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40127,
+        "num": 38204,
+        "word": "魏大勋连续三年给孟宴臣庆生",
+        "onboard_time": 1760189363,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37662,
+        "num": 37662,
+        "word": "入青云",
+        "onboard_time": 1760225297,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36769,
+        "num": 36769,
+        "word": "特朗普泽连斯基通话",
+        "onboard_time": 1760225116,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36099,
+        "num": 36099,
+        "word": "酒店回应婚礼照片被保洁当垃圾扔掉",
+        "onboard_time": 1760209994,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35881,
+        "num": 35881,
+        "word": "陈伟霆好会亲",
+        "onboard_time": 1760202858,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34848,
+        "num": 35876,
+        "word": "白鹿有颗牙片磕碎了",
+        "onboard_time": 1760188942,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32413,
+        "num": 35864,
+        "word": "容祖儿说汪苏泷最好听的作品是年轮",
+        "onboard_time": 1760192242,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31420,
+        "num": 35854,
+        "word": "周杰伦嘉年华收官场",
+        "onboard_time": 1760193081,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30840,
+        "num": 35846,
+        "word": "许妍与父母和解",
+        "onboard_time": 1760206276,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29644,
+        "num": 35831,
+        "word": "纤维粒视频被禁止播放",
+        "onboard_time": 1760208255,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 29054,
+        "num": 35826,
+        "word": "一个恋爱玄学",
+        "onboard_time": 1760191463,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28656,
+        "num": 35804,
+        "word": "关晓彤 这才是我的衣服",
+        "onboard_time": 1760182581,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28456,
+        "num": 35798,
+        "word": "贝克汉姆也没买到labubu",
+        "onboard_time": 1760199021,
+        "rank": 46,
+        "category": "体育,休闲"
+      },
+      {
+        "raw_hot": 27826,
+        "num": 35793,
+        "word": "许我耀眼反转",
+        "onboard_time": 1760187262,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27698,
+        "num": 35772,
+        "word": "坦然 AG最后一舞",
+        "onboard_time": 1760192421,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25307,
+        "num": 35762,
+        "word": "VOGUE盛典52位嘉宾",
+        "onboard_time": 1760198420,
+        "rank": 49,
+        "category": "时尚,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为新时代妇女事业发展指方向#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760224916164,
+  "endTime": 1760225789570,
   "band_list": [
     {
       "raw_hot": 912924,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 477334,
+      "num": 886373,
+      "word": "警方通报46岁女子观赛期间叫喊",
+      "onboard_time": 1760213413,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 426285,
       "num": 518223,
       "word": "聊天这样结尾的人往往很在乎你",
@@ -49,14 +57,6 @@
       "onboard_time": 1760189843,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 413526,
-      "num": 767570,
-      "word": "警方通报46岁女子观赛期间叫喊",
-      "onboard_time": 1760213413,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 399335,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272453,
+      "num": 114420,
+      "word": "李承铉撮合张远和王霏霏",
+      "onboard_time": 1760194523,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257619,
       "num": 257619,
       "word": "长期吃面vs长期吃米",
@@ -113,14 +121,6 @@
       "onboard_time": 1760178981,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 236771,
-      "num": 114420,
-      "word": "李承铉撮合张远和王霏霏",
-      "onboard_time": 1760194523,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 233315,
@@ -147,12 +147,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170163,
-      "num": 77283,
+      "raw_hot": 191592,
+      "num": 83461,
       "word": "华裔女星疑遭同组演员性侵",
       "onboard_time": 1760189061,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172497,
+      "num": 83230,
+      "word": "井迪一直不谈恋爱的原因",
+      "onboard_time": 1760204419,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 159713,
@@ -168,14 +176,6 @@
       "word": "容祖儿说汪苏泷最好听的作品是年轮",
       "onboard_time": 1760192242,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 153386,
-      "num": 63787,
-      "word": "井迪一直不谈恋爱的原因",
-      "onboard_time": 1760204419,
-      "rank": 20,
       "category": "综艺"
     },
     {
@@ -297,6 +297,14 @@
       "onboard_time": 1760198241,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81748,
+      "num": 81748,
+      "word": "微博视界大会",
+      "onboard_time": 1760225477,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 81507,
@@ -459,12 +467,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43977,
-      "num": 43977,
+      "raw_hot": 46363,
+      "num": 46363,
       "word": "美政府停摆11天",
       "onboard_time": 1760216654,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 44409,
+      "num": 44409,
+      "word": "魏大勋 孟宴臣",
+      "onboard_time": 1760192302,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 41998,
@@ -475,36 +491,52 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37395,
-      "num": 37395,
+      "raw_hot": 40049,
+      "num": 40049,
       "word": "中国常驻联合国代表点名美国",
       "onboard_time": 1760218034,
       "rank": 29,
       "category": "国际时政"
     },
     {
-      "raw_hot": 36050,
-      "num": 36050,
-      "word": "酒店回应婚礼照片被保洁当垃圾扔掉",
-      "onboard_time": 1760209994,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34272,
-      "num": 34272,
+      "raw_hot": 38584,
+      "num": 38584,
       "word": "四人都这个症状真的非常罕见",
       "onboard_time": 1760209216,
       "rank": 48,
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 32294,
-      "num": 33687,
-      "word": "魏大勋 孟宴臣",
-      "onboard_time": 1760192302,
-      "rank": 39,
+      "raw_hot": 37662,
+      "num": 37662,
+      "word": "入青云",
+      "onboard_time": 1760225297,
+      "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 36769,
+      "num": 36769,
+      "word": "特朗普泽连斯基通话",
+      "onboard_time": 1760225116,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 36099,
+      "num": 36099,
+      "word": "酒店回应婚礼照片被保洁当垃圾扔掉",
+      "onboard_time": 1760209994,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29644,
+      "num": 35831,
+      "word": "纤维粒视频被禁止播放",
+      "onboard_time": 1760208255,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 28938,
@@ -521,14 +553,6 @@
       "onboard_time": 1760207956,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26503,
-      "num": 33653,
-      "word": "纤维粒视频被禁止播放",
-      "onboard_time": 1760208255,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 25727,

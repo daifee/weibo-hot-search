@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 07:21:56
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 07:36:29
 </p>
 </blockquote>
 <p>
@@ -3465,6 +3465,12 @@ VaVa说自己分手是因为浪姐（热度：480031）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A546%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A7%82%E8%B5%9B%E6%9C%9F%E9%97%B4%E5%8F%AB%E5%96%8A%23" target="weibo">
+警方通报46岁女子观赛期间叫喊（热度：477334）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E6%9B%9D%E6%AD%8C%E6%89%8B%E5%85%B3%E6%B7%91%E6%80%A1%E7%97%85%E5%8D%B1%23" target="weibo">
 港媒曝歌手关淑怡病危（热度：476795）
 </a>
@@ -4127,12 +4133,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%97%B6%E9%97%B4%E8%83%BD%E5%88%87%E6%8D%A2%E6%98%BE%E7%A4%BA%E6%96%B9%E5%BC%8F%23" target="weibo">
 微信时间能切换显示方式（热度：413989）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A546%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A7%82%E8%B5%9B%E6%9C%9F%E9%97%B4%E5%8F%AB%E5%96%8A%23" target="weibo">
-警方通报46岁女子观赛期间叫喊（热度：413526）
 </a>
 </li>
 

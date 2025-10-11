@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760224916164,
+  "endTime": 1760225789570,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -4603,6 +4603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 477334,
+      "num": 886373,
+      "word": "警方通报46岁女子观赛期间叫喊",
+      "onboard_time": 1760213413,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 476795,
       "num": 204574,
       "word": "港媒曝歌手关淑怡病危",
@@ -5489,14 +5497,6 @@
       "onboard_time": 1759391661,
       "rank": 31,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 413526,
-      "num": 767570,
-      "word": "警方通报46岁女子观赛期间叫喊",
-      "onboard_time": 1760213413,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 412880,
@@ -8323,6 +8323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 272453,
+      "num": 196795,
+      "word": "李承铉撮合张远和王霏霏",
+      "onboard_time": 1760194523,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 272388,
       "num": 194262,
       "word": "展轩音乐节首秀",
@@ -9433,14 +9441,6 @@
       "onboard_time": 1759387881,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 236771,
-      "num": 196795,
-      "word": "李承铉撮合张远和王霏霏",
-      "onboard_time": 1760194523,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 236745,
@@ -11835,6 +11835,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 191592,
+      "num": 138539,
+      "word": "华裔女星疑遭同组演员性侵",
+      "onboard_time": 1760189061,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191463,
       "num": 174920,
       "word": "邝玲玲晒与迪丽热巴orm合照",
@@ -13531,6 +13539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172497,
+      "num": 83230,
+      "word": "井迪一直不谈恋爱的原因",
+      "onboard_time": 1760204419,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172341,
       "num": 172341,
       "word": "故宫的春夏秋冬一眼惊艳",
@@ -13745,14 +13761,6 @@
       "onboard_time": 1759715779,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 170163,
-      "num": 138539,
-      "word": "华裔女星疑遭同组演员性侵",
-      "onboard_time": 1760189061,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 170060,
@@ -15681,14 +15689,6 @@
       "onboard_time": 1759725141,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153386,
-      "num": 63787,
-      "word": "井迪一直不谈恋爱的原因",
-      "onboard_time": 1760204419,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 153350,
@@ -34979,6 +34979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 46363,
+      "num": 46363,
+      "word": "美政府停摆11天",
+      "onboard_time": 1760216654,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46205,
       "num": 189041,
       "word": "有一种爱叫塞满整个后备箱",
@@ -35129,14 +35137,6 @@
       "onboard_time": 1759981100,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 43977,
-      "num": 43977,
-      "word": "美政府停摆11天",
-      "onboard_time": 1760216654,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 43872,
@@ -35403,6 +35403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 40049,
+      "num": 40049,
+      "word": "中国常驻联合国代表点名美国",
+      "onboard_time": 1760218034,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40026,
       "num": 99902,
       "word": "国庆接待亲友 AA制",
@@ -35515,6 +35523,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 38584,
+      "num": 38584,
+      "word": "四人都这个症状真的非常罕见",
+      "onboard_time": 1760209216,
+      "rank": 48,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 38515,
       "num": 48091,
       "word": "洛杉矶最严重火灾纵火嫌疑人被捕",
@@ -35579,14 +35595,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 37395,
-      "num": 37395,
-      "word": "中国常驻联合国代表点名美国",
-      "onboard_time": 1760218034,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 37272,
       "num": 54721,
       "word": "十个勤天万里长歌",
@@ -35625,6 +35633,14 @@
       "onboard_time": 1759530616,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36769,
+      "num": 36769,
+      "word": "特朗普泽连斯基通话",
+      "onboard_time": 1760225116,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36667,
@@ -35683,20 +35699,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 36099,
+      "num": 36099,
+      "word": "酒店回应婚礼照片被保洁当垃圾扔掉",
+      "onboard_time": 1760209994,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36081,
       "num": 39009,
       "word": "进门是沈真出门是秦岚",
       "onboard_time": 1759619538,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 36050,
-      "num": 36050,
-      "word": "酒店回应婚礼照片被保洁当垃圾扔掉",
-      "onboard_time": 1760209994,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35984,
@@ -35841,14 +35857,6 @@
       "onboard_time": 1759464019,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34272,
-      "num": 34272,
-      "word": "四人都这个症状真的非常罕见",
-      "onboard_time": 1760209216,
-      "rank": 48,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 34247,
@@ -36227,6 +36235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29644,
+      "num": 35831,
+      "word": "纤维粒视频被禁止播放",
+      "onboard_time": 1760208255,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 29525,
       "num": 69423,
       "word": "奶奶粉如何追星肖战",
@@ -36497,14 +36513,6 @@
       "onboard_time": 1759309221,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26503,
-      "num": 33653,
-      "word": "纤维粒视频被禁止播放",
-      "onboard_time": 1760208255,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 26300,
