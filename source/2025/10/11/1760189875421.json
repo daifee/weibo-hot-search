@@ -1,0 +1,410 @@
+{
+  "runTime": 1760189875421,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 661839,
+        "num": 1105894,
+        "word": "长期吃面vs长期吃米",
+        "onboard_time": 1760177421,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 368843,
+        "num": 368843,
+        "word": "王老吉发文有病去医院有事找法院",
+        "onboard_time": 1760180422,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19202,
+        "num": 316967,
+        "word": "我国海上发射一箭三星",
+        "onboard_time": 1760151983,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 312660,
+        "num": 312660,
+        "word": "亚锦赛",
+        "onboard_time": 1760183180,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260326,
+        "num": 260326,
+        "word": "12306回应无座乘客自带椅子",
+        "onboard_time": 1760180422,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233993,
+        "num": 233993,
+        "word": "婴儿12克金手镯被偷已找回",
+        "onboard_time": 1760172020,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217397,
+        "num": 217397,
+        "word": "充电器一直不拔有多可怕",
+        "onboard_time": 1760171301,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 214012,
+        "num": 214012,
+        "word": "摊主女儿大口吃父母摊位剩食走红",
+        "onboard_time": 1760189123,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208011,
+        "num": 208011,
+        "word": "南京大屠杀幸存者唐复龙离世",
+        "onboard_time": 1760188461,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196876,
+        "num": 196876,
+        "word": "男子失联7年后家属才知命丧车祸",
+        "onboard_time": 1760180301,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2502769,
+        "num": 196082,
+        "word": "张靓颖摔下舞台",
+        "onboard_time": 1760186182,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 738801,
+        "num": 193514,
+        "word": "许我耀眼大结局",
+        "onboard_time": 1760179580,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 729458,
+        "num": 192969,
+        "word": "差点没认出来李菲儿",
+        "onboard_time": 1760182401,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 656726,
+        "num": 190185,
+        "word": "韩国男子在张家界举韩国国旗",
+        "onboard_time": 1760185281,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404205,
+        "num": 189967,
+        "word": "关晓彤 这才是我的衣服",
+        "onboard_time": 1760182581,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371360,
+        "num": 188135,
+        "word": "短短37秒吻戏床戏都上尺度了",
+        "onboard_time": 1760173461,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308147,
+        "num": 185757,
+        "word": "文章老了好多",
+        "onboard_time": 1760178981,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318339,
+        "num": 184605,
+        "word": "陈哲远回应李沁",
+        "onboard_time": 1760184140,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241666,
+        "num": 182144,
+        "word": "许凯开机",
+        "onboard_time": 1760188402,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181618,
+        "num": 181618,
+        "word": "魏大勋连续三年给孟宴臣庆生",
+        "onboard_time": 1760189363,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252244,
+        "num": 181505,
+        "word": "哇唧唧哇 哪壶不开提哪壶",
+        "onboard_time": 1760180721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185676,
+        "num": 181317,
+        "word": "盲婚哑嫁下的中式婚礼有多恐怖",
+        "onboard_time": 1760188822,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181118,
+        "num": 181118,
+        "word": "赵磊qko舞台上亲了",
+        "onboard_time": 1760180601,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176272,
+        "num": 176272,
+        "word": "许我耀眼反转",
+        "onboard_time": 1760187262,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163578,
+        "num": 176032,
+        "word": "萨巴伦卡vs佩古拉",
+        "onboard_time": 1760188581,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175965,
+        "num": 175965,
+        "word": "王鹤润工作室辟谣吵架原因",
+        "onboard_time": 1760181621,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171117,
+        "num": 171117,
+        "word": "只因手上有茧父亲遭日军枪杀",
+        "onboard_time": 1760185881,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168551,
+        "num": 168551,
+        "word": "毁牙第一名竟然不是可乐",
+        "onboard_time": 1760174060,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 27057,
+        "num": 160178,
+        "word": "消费10年后发现了拼多多的秘密",
+        "onboard_time": 1760189723,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154701,
+        "num": 154701,
+        "word": "陈哲远搜过李沁吻戏合集",
+        "onboard_time": 1760188402,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142189,
+        "num": 142189,
+        "word": "白鹿有颗牙片磕碎了",
+        "onboard_time": 1760188942,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128098,
+        "num": 128098,
+        "word": "陈数 俊俊看一眼沁沁",
+        "onboard_time": 1760189003,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126106,
+        "num": 126106,
+        "word": "AG对战TES",
+        "onboard_time": 1760188643,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119643,
+        "num": 119643,
+        "word": "2楼住户因3楼漏水去4楼养兔子大鹅",
+        "onboard_time": 1760184801,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118977,
+        "num": 118977,
+        "word": "山航空姐全面换穿平底鞋",
+        "onboard_time": 1760176761,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114248,
+        "num": 114248,
+        "word": "大疆水印的重要性具象化了",
+        "onboard_time": 1760184080,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112068,
+        "num": 112068,
+        "word": "华裔女星疑遭同组演员性侵",
+        "onboard_time": 1760189061,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107319,
+        "num": 107319,
+        "word": "苹果官网拼错AirPods",
+        "onboard_time": 1760187683,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 102868,
+        "num": 102868,
+        "word": "一诺护短",
+        "onboard_time": 1760188461,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98397,
+        "num": 98397,
+        "word": "扬子鳄被老人们喂成小狗了",
+        "onboard_time": 1760184622,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98177,
+        "num": 98177,
+        "word": "慢羊羊妈妈好漂亮",
+        "onboard_time": 1760187621,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 95414,
+        "num": 95414,
+        "word": "黄轩新剧面相都变了",
+        "onboard_time": 1760185401,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92584,
+        "num": 92584,
+        "word": "A股又现天价离婚34亿待分割",
+        "onboard_time": 1760189303,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90376,
+        "num": 90376,
+        "word": "故宫地下有一条15公里暗沟",
+        "onboard_time": 1760189843,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88589,
+        "num": 88589,
+        "word": "许我耀眼",
+        "onboard_time": 1760178861,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88005,
+        "num": 88005,
+        "word": "30多张婚礼照片被保洁当垃圾误扔",
+        "onboard_time": 1760182821,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87381,
+        "num": 87381,
+        "word": "美国总统破防的原因",
+        "onboard_time": 1760189843,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86346,
+        "num": 86346,
+        "word": "哇唧唧哇",
+        "onboard_time": 1760183481,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86055,
+        "num": 86055,
+        "word": "VOGUE盛典嘉宾",
+        "onboard_time": 1760188042,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 84022,
+        "num": 84022,
+        "word": "李一桐刘宇宁第一",
+        "onboard_time": 1760181921,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心妇女事业发展的故事#"
+    }
+  }
+}

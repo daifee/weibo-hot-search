@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760189189202,
+  "endTime": 1760189875421,
   "band_list": [
     {
       "raw_hot": 8491801,
@@ -19,7 +19,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2099421,
+      "raw_hot": 2502769,
       "num": 218569,
       "word": "张靓颖摔下舞台",
       "onboard_time": 1760186182,
@@ -556,7 +556,7 @@
     },
     {
       "raw_hot": 365568,
-      "num": 178829,
+      "num": 181505,
       "word": "哇唧唧哇 哪壶不开提哪壶",
       "onboard_time": 1760180721,
       "rank": 23,
@@ -667,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318339,
+      "num": 215114,
+      "word": "陈哲远回应李沁",
+      "onboard_time": 1760184140,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317496,
       "num": 217815,
       "word": "新95四小花旦",
@@ -697,14 +705,6 @@
       "onboard_time": 1760137638,
       "rank": 19,
       "category": "互联网,体育"
-    },
-    {
-      "raw_hot": 307434,
-      "num": 215114,
-      "word": "陈哲远回应李沁",
-      "onboard_time": 1760184140,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 305915,
@@ -859,6 +859,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 241666,
+      "num": 182144,
+      "word": "许凯开机",
+      "onboard_time": 1760188402,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241235,
       "num": 241235,
       "word": "WBG淘汰",
@@ -881,6 +889,14 @@
       "onboard_time": 1760110222,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 214012,
+      "num": 214012,
+      "word": "摊主女儿大口吃父母摊位剩食走红",
+      "onboard_time": 1760189123,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213586,
@@ -929,6 +945,14 @@
       "onboard_time": 1760148922,
       "rank": 26,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 208011,
+      "num": 208011,
+      "word": "南京大屠杀幸存者唐复龙离世",
+      "onboard_time": 1760188461,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207089,
@@ -1011,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196876,
+      "num": 219651,
+      "word": "男子失联7年后家属才知命丧车祸",
+      "onboard_time": 1760180301,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193917,
       "num": 161076,
       "word": "第一次觉得曲筱绡的刻薄恰到好处",
@@ -1059,20 +1091,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 188596,
-      "num": 219651,
-      "word": "男子失联7年后家属才知命丧车祸",
-      "onboard_time": 1760180301,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 186832,
       "num": 186832,
       "word": "人唯一不会长大的器官",
       "onboard_time": 1760091261,
       "rank": 6,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 185676,
+      "num": 181317,
+      "word": "盲婚哑嫁下的中式婚礼有多恐怖",
+      "onboard_time": 1760188822,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 184986,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1760163801,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181618,
+      "num": 181618,
+      "word": "魏大勋连续三年给孟宴臣庆生",
+      "onboard_time": 1760189363,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 179011,
@@ -1168,14 +1208,6 @@
       "word": "上一秒刀马下一秒吻啦",
       "onboard_time": 1760177960,
       "rank": 22,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 176220,
-      "num": 176220,
-      "word": "许凯开机",
-      "onboard_time": 1760188402,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -1291,14 +1323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157635,
-      "num": 157635,
-      "word": "南京大屠杀幸存者唐复龙离世",
-      "onboard_time": 1760188461,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156654,
       "num": 120251,
       "word": "女子洗完澡发现窗外无人机悬停",
@@ -1323,28 +1347,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 154532,
-      "num": 154532,
-      "word": "AG对战TES",
-      "onboard_time": 1760188643,
-      "rank": 25,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 153672,
-      "num": 153672,
+      "raw_hot": 154701,
+      "num": 154701,
       "word": "陈哲远搜过李沁吻戏合集",
       "onboard_time": 1760188402,
       "rank": 26,
       "category": "剧集"
     },
     {
-      "raw_hot": 153357,
-      "num": 153357,
-      "word": "摊主女儿大口吃父母摊位剩食走红",
-      "onboard_time": 1760189123,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 154532,
+      "num": 154532,
+      "word": "AG对战TES",
+      "onboard_time": 1760188643,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 151354,
@@ -1433,6 +1449,14 @@
       "onboard_time": 1760160080,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142189,
+      "num": 142189,
+      "word": "白鹿有颗牙片磕碎了",
+      "onboard_time": 1760188942,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 142188,
@@ -1715,6 +1739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128098,
+      "num": 128098,
+      "word": "陈数 俊俊看一眼沁沁",
+      "onboard_time": 1760189003,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127891,
       "num": 127891,
       "word": "婚礼上爷爷用扁担挑着龙凤胎入场",
@@ -1931,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119643,
+      "num": 119643,
+      "word": "2楼住户因3楼漏水去4楼养兔子大鹅",
+      "onboard_time": 1760184801,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119036,
       "num": 119036,
       "word": "商务部回应对美国船舶收取特别港务费",
@@ -1979,28 +2019,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116572,
-      "num": 116572,
-      "word": "2楼住户因3楼漏水去4楼养兔子大鹅",
-      "onboard_time": 1760184801,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115607,
       "num": 115607,
       "word": "水贝黄金市场人山人海",
       "onboard_time": 1760170160,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 115124,
-      "num": 117111,
-      "word": "盲婚哑嫁下的中式婚礼有多恐怖",
-      "onboard_time": 1760188822,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 115012,
@@ -2025,6 +2049,14 @@
       "onboard_time": 1760177840,
       "rank": 35,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 112068,
+      "num": 112068,
+      "word": "华裔女星疑遭同组演员性侵",
+      "onboard_time": 1760189061,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 111979,
@@ -2275,6 +2307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102868,
+      "num": 102868,
+      "word": "一诺护短",
+      "onboard_time": 1760188461,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102563,
       "num": 102563,
       "word": "巴黎偶遇陈都灵惠英红一起吃饭",
@@ -2377,14 +2417,6 @@
       "onboard_time": 1760184321,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97686,
-      "num": 97686,
-      "word": "陈数 俊俊看一眼沁沁",
-      "onboard_time": 1760189003,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 97675,
@@ -2603,20 +2635,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92584,
+      "num": 92584,
+      "word": "A股又现天价离婚34亿待分割",
+      "onboard_time": 1760189303,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 92527,
       "num": 92527,
       "word": "李昀锐原来这就是传说中的C位",
       "onboard_time": 1760135595,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92503,
-      "num": 92503,
-      "word": "白鹿有颗牙片磕碎了",
-      "onboard_time": 1760188942,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 92305,
@@ -2739,6 +2771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 90376,
+      "num": 90376,
+      "word": "故宫地下有一条15公里暗沟",
+      "onboard_time": 1760189843,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90181,
       "num": 90181,
       "word": "外公把碗刻上家人的名字",
@@ -2827,6 +2867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87381,
+      "num": 87381,
+      "word": "美国总统破防的原因",
+      "onboard_time": 1760189843,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87203,
       "num": 87203,
       "word": "世界冠军机场行窃被禁赛90天",
@@ -2913,14 +2961,6 @@
       "onboard_time": 1760183601,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82953,
-      "num": 82953,
-      "word": "华裔女星疑遭同组演员性侵",
-      "onboard_time": 1760189061,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 82901,

@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1760189189202,
+  "endTime": 1760189875421,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2502769,
+      "num": 218569,
+      "word": "张靓颖摔下舞台",
+      "onboard_time": 1760186182,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2464062,
       "num": 2464062,
       "word": "央视中秋晚会",
@@ -137,14 +145,6 @@
       "onboard_time": 1760106863,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2099421,
-      "num": 218569,
-      "word": "张靓颖摔下舞台",
-      "onboard_time": 1760186182,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 1970475,
@@ -3956,7 +3956,7 @@
     },
     {
       "raw_hot": 365568,
-      "num": 178829,
+      "num": 181505,
       "word": "哇唧唧哇 哪壶不开提哪壶",
       "onboard_time": 1760180721,
       "rank": 23,
@@ -4571,6 +4571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 318339,
+      "num": 215114,
+      "word": "陈哲远回应李沁",
+      "onboard_time": 1760184140,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318258,
       "num": 223336,
       "word": "MiuMiu巴黎时装周",
@@ -4785,14 +4793,6 @@
       "onboard_time": 1759645820,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 307434,
-      "num": 215114,
-      "word": "陈哲远回应李沁",
-      "onboard_time": 1760184140,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 307397,
@@ -5907,6 +5907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241666,
+      "num": 182144,
+      "word": "许凯开机",
+      "onboard_time": 1760188402,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241235,
       "num": 241235,
       "word": "WBG淘汰",
@@ -6459,6 +6467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214012,
+      "num": 214012,
+      "word": "摊主女儿大口吃父母摊位剩食走红",
+      "onboard_time": 1760189123,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213796,
       "num": 213796,
       "word": "好利来回应节后未售完月饼如何处理",
@@ -6641,6 +6657,14 @@
       "onboard_time": 1760007920,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208011,
+      "num": 208011,
+      "word": "南京大屠杀幸存者唐复龙离世",
+      "onboard_time": 1760188461,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207880,
@@ -7081,6 +7105,14 @@
       "onboard_time": 1760102362,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196876,
+      "num": 219651,
+      "word": "男子失联7年后家属才知命丧车祸",
+      "onboard_time": 1760180301,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196847,
@@ -7627,14 +7659,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 188596,
-      "num": 219651,
-      "word": "男子失联7年后家属才知命丧车祸",
-      "onboard_time": 1760180301,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188472,
       "num": 188472,
       "word": "打卡快乐十一",
@@ -7729,6 +7753,14 @@
       "onboard_time": 1760094561,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185676,
+      "num": 181317,
+      "word": "盲婚哑嫁下的中式婚礼有多恐怖",
+      "onboard_time": 1760188822,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 185622,
@@ -7969,6 +8001,14 @@
       "onboard_time": 1759811720,
       "rank": 26,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 181618,
+      "num": 181618,
+      "word": "魏大勋连续三年给孟宴臣庆生",
+      "onboard_time": 1760189363,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 181542,
@@ -8353,14 +8393,6 @@
       "onboard_time": 1759797678,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176220,
-      "num": 176220,
-      "word": "许凯开机",
-      "onboard_time": 1760188402,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 176216,
@@ -9619,14 +9651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157635,
-      "num": 157635,
-      "word": "南京大屠杀幸存者唐复龙离世",
-      "onboard_time": 1760188461,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157474,
       "num": 157474,
       "word": "郭俊辰工作室声明",
@@ -9875,6 +9899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154701,
+      "num": 154701,
+      "word": "陈哲远搜过李沁吻戏合集",
+      "onboard_time": 1760188402,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154644,
       "num": 154644,
       "word": "孙颖莎中秋节祝福",
@@ -9963,14 +9995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 153672,
-      "num": 153672,
-      "word": "陈哲远搜过李沁吻戏合集",
-      "onboard_time": 1760188402,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 153624,
       "num": 151007,
       "word": "国庆返程高速上演龟速前行",
@@ -10009,14 +10033,6 @@
       "onboard_time": 1759725141,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153357,
-      "num": 153357,
-      "word": "摊主女儿大口吃父母摊位剩食走红",
-      "onboard_time": 1760189123,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153350,
@@ -10873,6 +10889,14 @@
       "onboard_time": 1759662803,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142189,
+      "num": 142189,
+      "word": "白鹿有颗牙片磕碎了",
+      "onboard_time": 1760188942,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 142188,
@@ -12579,6 +12603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128098,
+      "num": 128098,
+      "word": "陈数 俊俊看一眼沁沁",
+      "onboard_time": 1760189003,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128095,
       "num": 144758,
       "word": "陈哲远G社生图状态",
@@ -13755,6 +13787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 119643,
+      "num": 119643,
+      "word": "2楼住户因3楼漏水去4楼养兔子大鹅",
+      "onboard_time": 1760184801,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119620,
       "num": 163440,
       "word": "面部八段锦让你气色变好",
@@ -14187,14 +14227,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 116572,
-      "num": 116572,
-      "word": "2楼住户因3楼漏水去4楼养兔子大鹅",
-      "onboard_time": 1760184801,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 116514,
       "num": 116514,
       "word": "成龙贝克汉姆NBA中国赛同框",
@@ -14401,14 +14433,6 @@
       "onboard_time": 1759830382,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 115124,
-      "num": 117111,
-      "word": "盲婚哑嫁下的中式婚礼有多恐怖",
-      "onboard_time": 1760188822,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 115101,
@@ -14825,6 +14849,14 @@
       "onboard_time": 1759803079,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 112068,
+      "num": 112068,
+      "word": "华裔女星疑遭同组演员性侵",
+      "onboard_time": 1760189061,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 112048,
@@ -16587,6 +16619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102868,
+      "num": 102868,
+      "word": "一诺护短",
+      "onboard_time": 1760188461,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102716,
       "num": 102716,
       "word": "李湘打码掌纹",
@@ -17377,14 +17417,6 @@
       "onboard_time": 1760063959,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 97686,
-      "num": 97686,
-      "word": "陈数 俊俊看一眼沁沁",
-      "onboard_time": 1760189003,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 97681,
@@ -18235,6 +18267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92584,
+      "num": 92584,
+      "word": "A股又现天价离婚34亿待分割",
+      "onboard_time": 1760189303,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 92581,
       "num": 92581,
       "word": "十七八岁看的电影 七八十年的售后",
@@ -18273,14 +18313,6 @@
       "onboard_time": 1759678103,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92503,
-      "num": 92503,
-      "word": "白鹿有颗牙片磕碎了",
-      "onboard_time": 1760188942,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 92442,
@@ -18641,6 +18673,14 @@
       "onboard_time": 1760138838,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 90376,
+      "num": 90376,
+      "word": "故宫地下有一条15公里暗沟",
+      "onboard_time": 1760189843,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90318,
@@ -19089,6 +19129,14 @@
       "onboard_time": 1759795398,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87381,
+      "num": 87381,
+      "word": "美国总统破防的原因",
+      "onboard_time": 1760189843,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 87369,
@@ -19664,14 +19712,6 @@
       "word": "杨乐乐回应独自住院汪涵没在",
       "onboard_time": 1760010921,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 82953,
-      "num": 82953,
-      "word": "华裔女星疑遭同组演员性侵",
-      "onboard_time": 1760189061,
-      "rank": 48,
       "category": "艺人"
     },
     {
