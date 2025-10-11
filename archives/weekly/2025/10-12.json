@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760218574621,
+  "endTime": 1760221361970,
   "band_list": [
     {
       "raw_hot": 912924,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174018,
+      "num": 377912,
+      "word": "警方通报46岁女子观赛期间叫喊",
+      "onboard_time": 1760213413,
+      "rank": 8,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 159713,
       "num": 114123,
       "word": "糖尿病女孩1天4杯奶茶惊掉医生下巴",
@@ -177,14 +185,6 @@
       "onboard_time": 1760192421,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 136327,
-      "num": 177514,
-      "word": "警方通报46岁女子观赛期间叫喊",
-      "onboard_time": 1760213413,
-      "rank": 8,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 122361,
@@ -299,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79609,
+      "num": 77283,
+      "word": "华裔女星疑遭同组演员性侵",
+      "onboard_time": 1760189061,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79419,
       "num": 79419,
       "word": "毁牙第一名竟然不是可乐",
@@ -312,14 +320,6 @@
       "word": "关晓彤 这才是我的衣服",
       "onboard_time": 1760182581,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 77283,
-      "num": 77283,
-      "word": "华裔女星疑遭同组演员性侵",
-      "onboard_time": 1760189061,
-      "rank": 36,
       "category": "艺人"
     },
     {
@@ -491,6 +491,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25341,
+      "num": 25341,
+      "word": "美政府停摆11天",
+      "onboard_time": 1760216654,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 24561,
+      "num": 24561,
+      "word": "中国常驻联合国代表点名美国",
+      "onboard_time": 1760218034,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22875,
       "num": 22875,
       "word": "纤维粒视频被禁止播放",
@@ -523,12 +539,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 16521,
-      "num": 16521,
-      "word": "美政府停摆11天",
-      "onboard_time": 1760216654,
-      "rank": 28,
-      "category": "国际时政"
+      "raw_hot": 17100,
+      "num": 17100,
+      "word": "酒店回应婚礼照片被保洁当垃圾扔掉",
+      "onboard_time": 1760209994,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15919,
@@ -537,22 +553,6 @@
       "onboard_time": 1760209216,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 14575,
-      "num": 14575,
-      "word": "中国常驻联合国代表点名美国",
-      "onboard_time": 1760218034,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 14107,
-      "num": 15689,
-      "word": "酒店回应婚礼照片被保洁当垃圾扔掉",
-      "onboard_time": 1760209994,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12404,
