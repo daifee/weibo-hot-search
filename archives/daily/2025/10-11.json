@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760189875421,
+  "endTime": 1760192427512,
   "band_list": [
     {
       "raw_hot": 8491801,
@@ -155,6 +155,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 939166,
+      "num": 181997,
+      "word": "魏大勋连续三年给孟宴臣庆生",
+      "onboard_time": 1760189363,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 934956,
       "num": 934956,
       "word": "美股跳水",
@@ -248,6 +256,14 @@
       "word": "驴友爬山捡剧毒蛇后轮流抚摸",
       "onboard_time": 1760164280,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 679536,
+      "num": 679536,
+      "word": "摊主女儿大口吃父母摊位剩食走红",
+      "onboard_time": 1760189123,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -441,6 +457,14 @@
       "onboard_time": 1760146220,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 465678,
+      "num": 182144,
+      "word": "许凯开机",
+      "onboard_time": 1760188402,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 450503,
@@ -707,6 +731,14 @@
       "category": "互联网,体育"
     },
     {
+      "raw_hot": 307022,
+      "num": 307022,
+      "word": "故宫地下有一条15公里暗沟",
+      "onboard_time": 1760189843,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305915,
       "num": 134642,
       "word": "陈伟霆 早期baby严选的权威性",
@@ -859,14 +891,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 241666,
-      "num": 182144,
-      "word": "许凯开机",
-      "onboard_time": 1760188402,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 241235,
       "num": 241235,
       "word": "WBG淘汰",
@@ -889,14 +913,6 @@
       "onboard_time": 1760110222,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 214012,
-      "num": 214012,
-      "word": "摊主女儿大口吃父母摊位剩食走红",
-      "onboard_time": 1760189123,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 213586,
@@ -1131,14 +1147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181618,
-      "num": 181618,
-      "word": "魏大勋连续三年给孟宴臣庆生",
-      "onboard_time": 1760189363,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179011,
       "num": 218759,
       "word": "只因手上有茧父亲遭日军枪杀",
@@ -1233,6 +1241,14 @@
       "onboard_time": 1760145621,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171704,
+      "num": 171704,
+      "word": "白鹿有颗牙片磕碎了",
+      "onboard_time": 1760188942,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169833,
@@ -1451,14 +1467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 142189,
-      "num": 142189,
-      "word": "白鹿有颗牙片磕碎了",
-      "onboard_time": 1760188942,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 142188,
       "num": 142188,
       "word": "为什么买东西不叫买南北",
@@ -1475,12 +1483,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140911,
+      "num": 140911,
+      "word": "A股又现天价离婚34亿待分割",
+      "onboard_time": 1760189303,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 140827,
       "num": 140827,
       "word": "霸王茶姬包装袋居然是十二生肖",
       "onboard_time": 1760153183,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 140422,
+      "num": 140422,
+      "word": "故宫雨天为啥不积水",
+      "onboard_time": 1760190861,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139907,
@@ -1512,6 +1536,14 @@
       "word": "肖战我的压力到底是有多大",
       "onboard_time": 1760148679,
       "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 138539,
+      "num": 138539,
+      "word": "华裔女星疑遭同组演员性侵",
+      "onboard_time": 1760189061,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -1665,6 +1697,14 @@
       "onboard_time": 1760184080,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 131194,
+      "num": 131194,
+      "word": "7个张韶涵同台飙歌",
+      "onboard_time": 1760191222,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 131193,
@@ -1907,6 +1947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122490,
+      "num": 122490,
+      "word": "容祖儿说汪苏泷最好听的作品是年轮",
+      "onboard_time": 1760192242,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122167,
       "num": 122167,
       "word": "向华强发声明回应向家破产",
@@ -1961,6 +2009,14 @@
       "onboard_time": 1760164280,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120265,
+      "num": 120265,
+      "word": "星品",
+      "onboard_time": 1760191160,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 119643,
@@ -2027,6 +2083,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 115270,
+      "num": 115270,
+      "word": "一个恋爱玄学",
+      "onboard_time": 1760191463,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115012,
       "num": 115012,
       "word": "多方回应商铺老板砍伤哈士奇",
@@ -2051,14 +2115,6 @@
       "category": "民生新闻,美食"
     },
     {
-      "raw_hot": 112068,
-      "num": 112068,
-      "word": "华裔女星疑遭同组演员性侵",
-      "onboard_time": 1760189061,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 111979,
       "num": 117337,
       "word": "汪苏泷 hi6",
@@ -2073,6 +2129,14 @@
       "onboard_time": 1760146520,
       "rank": 39,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 111127,
+      "num": 111127,
+      "word": "张靓颖回应摔下舞台",
+      "onboard_time": 1760190982,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 110976,
@@ -2211,6 +2275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106213,
+      "num": 106213,
+      "word": "一诺护短",
+      "onboard_time": 1760188461,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106043,
       "num": 106043,
       "word": "朱志鑫说苏新皓的身体更重要",
@@ -2305,14 +2377,6 @@
       "onboard_time": 1760139621,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 102868,
-      "num": 102868,
-      "word": "一诺护短",
-      "onboard_time": 1760188461,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 102563,
@@ -2427,6 +2491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97579,
+      "num": 97579,
+      "word": "坦然吕布",
+      "onboard_time": 1760192181,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96754,
       "num": 96754,
       "word": "世界游泳冠军机场行窃被抓",
@@ -2457,6 +2529,14 @@
       "onboard_time": 1760180721,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95903,
+      "num": 95903,
+      "word": "马龙备战2025全运会",
+      "onboard_time": 1760190202,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 95833,
@@ -2520,6 +2600,14 @@
       "word": "S15倒计时3天",
       "onboard_time": 1760176822,
       "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 94740,
+      "num": 94740,
+      "word": "伞兵烧烤主理人",
+      "onboard_time": 1760190383,
+      "rank": 46,
       "category": "电竞"
     },
     {
@@ -2633,14 +2721,6 @@
       "onboard_time": 1760178501,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 92584,
-      "num": 92584,
-      "word": "A股又现天价离婚34亿待分割",
-      "onboard_time": 1760189303,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 92527,
@@ -2771,14 +2851,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 90376,
-      "num": 90376,
-      "word": "故宫地下有一条15公里暗沟",
-      "onboard_time": 1760189843,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90181,
       "num": 90181,
       "word": "外公把碗刻上家人的名字",
@@ -2792,6 +2864,14 @@
       "word": "李庚希你这样我有点怕",
       "onboard_time": 1760186960,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89775,
+      "num": 89775,
+      "word": "魏大勋 孟宴臣",
+      "onboard_time": 1760192302,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -3091,6 +3171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 73558,
+      "num": 435689,
+      "word": "悬赏征集台军18人犯罪线索",
+      "onboard_time": 1760191463,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72418,
       "num": 72418,
       "word": "新华社评小米对标苹果",
@@ -3329,6 +3417,14 @@
       "onboard_time": 1760173520,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55784,
+      "num": 177208,
+      "word": "比亚迪汉长续航版15.98万起上市",
+      "onboard_time": 1760191463,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 55218,
@@ -3657,6 +3753,9 @@
     },
     {
       "word": "#总书记关心妇女事业发展的故事#"
+    },
+    {
+      "word": "#总书记为新时代妇女事业发展指方向#"
     }
   ]
 }

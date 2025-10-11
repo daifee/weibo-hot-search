@@ -1,0 +1,410 @@
+{
+  "runTime": 1760192427512,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 732697,
+        "num": 1117231,
+        "word": "长期吃面vs长期吃米",
+        "onboard_time": 1760177421,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 679536,
+        "num": 679536,
+        "word": "摊主女儿大口吃父母摊位剩食走红",
+        "onboard_time": 1760189123,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73558,
+        "num": 435689,
+        "word": "悬赏征集台军18人犯罪线索",
+        "onboard_time": 1760191463,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 366831,
+        "num": 366831,
+        "word": "王老吉发文有病去医院有事找法院",
+        "onboard_time": 1760180422,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307022,
+        "num": 307022,
+        "word": "故宫地下有一条15公里暗沟",
+        "onboard_time": 1760189843,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247577,
+        "num": 247577,
+        "word": "12306回应无座乘客自带椅子",
+        "onboard_time": 1760180422,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245002,
+        "num": 245002,
+        "word": "亚锦赛",
+        "onboard_time": 1760183180,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197571,
+        "num": 197571,
+        "word": "南京大屠杀幸存者唐复龙离世",
+        "onboard_time": 1760188461,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189326,
+        "num": 189326,
+        "word": "婴儿12克金手镯被偷已找回",
+        "onboard_time": 1760172020,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183778,
+        "num": 183778,
+        "word": "充电器一直不拔有多可怕",
+        "onboard_time": 1760171301,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1741109,
+        "num": 183011,
+        "word": "张靓颖摔下舞台",
+        "onboard_time": 1760186182,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 939166,
+        "num": 181997,
+        "word": "魏大勋连续三年给孟宴臣庆生",
+        "onboard_time": 1760189363,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 736431,
+        "num": 181679,
+        "word": "许我耀眼大结局",
+        "onboard_time": 1760179580,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 507254,
+        "num": 180250,
+        "word": "差点没认出来李菲儿",
+        "onboard_time": 1760182401,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488936,
+        "num": 179303,
+        "word": "韩国男子在张家界举韩国国旗",
+        "onboard_time": 1760185281,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465678,
+        "num": 178695,
+        "word": "许凯开机",
+        "onboard_time": 1760188402,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55784,
+        "num": 177208,
+        "word": "比亚迪汉长续航版15.98万起上市",
+        "onboard_time": 1760191463,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 375211,
+        "num": 176347,
+        "word": "短短37秒吻戏床戏都上尺度了",
+        "onboard_time": 1760173461,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335198,
+        "num": 175440,
+        "word": "关晓彤 这才是我的衣服",
+        "onboard_time": 1760182581,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72933,
+        "num": 174062,
+        "word": "消费10年后发现了拼多多的秘密",
+        "onboard_time": 1760189723,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 329402,
+        "num": 173201,
+        "word": "文章老了好多",
+        "onboard_time": 1760178981,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256285,
+        "num": 172256,
+        "word": "哇唧唧哇 哪壶不开提哪壶",
+        "onboard_time": 1760180721,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171704,
+        "num": 171704,
+        "word": "白鹿有颗牙片磕碎了",
+        "onboard_time": 1760188942,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171210,
+        "num": 171210,
+        "word": "男子失联7年后家属才知命丧车祸",
+        "onboard_time": 1760180301,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166772,
+        "num": 166772,
+        "word": "许我耀眼反转",
+        "onboard_time": 1760187262,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159075,
+        "num": 159075,
+        "word": "毁牙第一名竟然不是可乐",
+        "onboard_time": 1760174060,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145229,
+        "num": 145229,
+        "word": "陈哲远回应李沁",
+        "onboard_time": 1760184140,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140911,
+        "num": 140911,
+        "word": "A股又现天价离婚34亿待分割",
+        "onboard_time": 1760189303,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140422,
+        "num": 140422,
+        "word": "故宫雨天为啥不积水",
+        "onboard_time": 1760190861,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138539,
+        "num": 138539,
+        "word": "华裔女星疑遭同组演员性侵",
+        "onboard_time": 1760189061,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131194,
+        "num": 131194,
+        "word": "7个张韶涵同台飙歌",
+        "onboard_time": 1760191222,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130277,
+        "num": 130277,
+        "word": "盲婚哑嫁下的中式婚礼有多恐怖",
+        "onboard_time": 1760188822,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122904,
+        "num": 122904,
+        "word": "赵磊qko舞台上亲了",
+        "onboard_time": 1760180601,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122490,
+        "num": 122490,
+        "word": "容祖儿说汪苏泷最好听的作品是年轮",
+        "onboard_time": 1760192242,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121919,
+        "num": 121919,
+        "word": "慢羊羊妈妈好漂亮",
+        "onboard_time": 1760187621,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 120265,
+        "num": 120265,
+        "word": "星品",
+        "onboard_time": 1760191160,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119803,
+        "num": 119803,
+        "word": "陈哲远搜过李沁吻戏合集",
+        "onboard_time": 1760188402,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115270,
+        "num": 115270,
+        "word": "一个恋爱玄学",
+        "onboard_time": 1760191463,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111127,
+        "num": 111127,
+        "word": "张靓颖回应摔下舞台",
+        "onboard_time": 1760190982,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106213,
+        "num": 106213,
+        "word": "一诺护短",
+        "onboard_time": 1760188461,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101154,
+        "num": 101154,
+        "word": "王鹤润工作室辟谣吵架原因",
+        "onboard_time": 1760181621,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100380,
+        "num": 100380,
+        "word": "陈数 俊俊看一眼沁沁",
+        "onboard_time": 1760189003,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99904,
+        "num": 99904,
+        "word": "只因手上有茧父亲遭日军枪杀",
+        "onboard_time": 1760185881,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98431,
+        "num": 98431,
+        "word": "AG对战TES",
+        "onboard_time": 1760188643,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97579,
+        "num": 97579,
+        "word": "坦然吕布",
+        "onboard_time": 1760192181,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95903,
+        "num": 95903,
+        "word": "马龙备战2025全运会",
+        "onboard_time": 1760190202,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94740,
+        "num": 94740,
+        "word": "伞兵烧烤主理人",
+        "onboard_time": 1760190383,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92677,
+        "num": 92677,
+        "word": "2楼住户因3楼漏水去4楼养兔子大鹅",
+        "onboard_time": 1760184801,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90136,
+        "num": 90136,
+        "word": "苹果官网拼错AirPods",
+        "onboard_time": 1760187683,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 89775,
+        "num": 89775,
+        "word": "魏大勋 孟宴臣",
+        "onboard_time": 1760192302,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为新时代妇女事业发展指方向#"
+    }
+  }
+}
