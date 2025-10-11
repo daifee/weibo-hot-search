@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760187529270,
+  "endTime": 1760189189202,
   "band_list": [
     {
       "raw_hot": 8491801,
@@ -17,6 +17,14 @@
       "onboard_time": 1760105843,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2099421,
+      "num": 218569,
+      "word": "张靓颖摔下舞台",
+      "onboard_time": 1760186182,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 1750676,
@@ -49,14 +57,6 @@
       "onboard_time": 1760141961,
       "rank": 5,
       "category": "财经"
-    },
-    {
-      "raw_hot": 1254857,
-      "num": 218569,
-      "word": "张靓颖摔下舞台",
-      "onboard_time": 1760186182,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 1211115,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 698020,
+      "num": 217361,
+      "word": "韩国男子在张家界举韩国国旗",
+      "onboard_time": 1760185281,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 684916,
       "num": 1109586,
       "word": "驴友爬山捡剧毒蛇后轮流抚摸",
@@ -385,14 +393,6 @@
       "onboard_time": 1760142020,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 517053,
-      "num": 217361,
-      "word": "韩国男子在张家界举韩国国旗",
-      "onboard_time": 1760185281,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 514076,
@@ -699,6 +699,14 @@
       "category": "互联网,体育"
     },
     {
+      "raw_hot": 307434,
+      "num": 215114,
+      "word": "陈哲远回应李沁",
+      "onboard_time": 1760184140,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305915,
       "num": 134642,
       "word": "陈伟霆 早期baby严选的权威性",
@@ -875,14 +883,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 215114,
-      "num": 215114,
-      "word": "陈哲远回应李沁",
-      "onboard_time": 1760184140,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 213586,
       "num": 213586,
       "word": "易烊千玺大猫和小猫",
@@ -1043,12 +1043,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 190306,
+      "num": 190306,
+      "word": "萨巴伦卡vs佩古拉",
+      "onboard_time": 1760188581,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189407,
       "num": 189407,
       "word": "王者荣耀十周年",
       "onboard_time": 1760156002,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 188596,
+      "num": 219651,
+      "word": "男子失联7年后家属才知命丧车祸",
+      "onboard_time": 1760180301,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186832,
@@ -1081,6 +1097,14 @@
       "onboard_time": 1760163801,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179011,
+      "num": 218759,
+      "word": "只因手上有茧父亲遭日军枪杀",
+      "onboard_time": 1760185881,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178267,
@@ -1123,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177197,
+      "num": 177197,
+      "word": "许我耀眼反转",
+      "onboard_time": 1760187262,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177119,
       "num": 162953,
       "word": "学生违纪向纠察队下跪磕头求放过",
@@ -1139,12 +1171,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174518,
-      "num": 219651,
-      "word": "男子失联7年后家属才知命丧车祸",
-      "onboard_time": 1760180301,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 176220,
+      "num": 176220,
+      "word": "许凯开机",
+      "onboard_time": 1760188402,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 174316,
@@ -1259,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157635,
+      "num": 157635,
+      "word": "南京大屠杀幸存者唐复龙离世",
+      "onboard_time": 1760188461,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156654,
       "num": 120251,
       "word": "女子洗完澡发现窗外无人机悬停",
@@ -1283,12 +1323,28 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 154627,
-      "num": 154627,
-      "word": "许我耀眼反转",
-      "onboard_time": 1760187262,
-      "rank": 22,
+      "raw_hot": 154532,
+      "num": 154532,
+      "word": "AG对战TES",
+      "onboard_time": 1760188643,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 153672,
+      "num": 153672,
+      "word": "陈哲远搜过李沁吻戏合集",
+      "onboard_time": 1760188402,
+      "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153357,
+      "num": 153357,
+      "word": "摊主女儿大口吃父母摊位剩食走红",
+      "onboard_time": 1760189123,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151354,
@@ -1507,14 +1563,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 135164,
-      "num": 218759,
-      "word": "只因手上有茧父亲遭日军枪杀",
-      "onboard_time": 1760185881,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135132,
       "num": 135132,
       "word": "白鹿真的可以去脱口秀试试",
@@ -1707,12 +1755,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125896,
+      "num": 125896,
+      "word": "哇唧唧哇",
+      "onboard_time": 1760183481,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125872,
       "num": 125872,
       "word": "黄金再飙涨网友后悔没有早入场",
       "onboard_time": 1760168840,
       "rank": 38,
       "category": "财经"
+    },
+    {
+      "raw_hot": 125718,
+      "num": 125718,
+      "word": "慢羊羊妈妈好漂亮",
+      "onboard_time": 1760187621,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 125630,
@@ -1843,6 +1907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121062,
+      "num": 121062,
+      "word": "VOGUE盛典嘉宾",
+      "onboard_time": 1760188042,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 120438,
       "num": 120438,
       "word": "陈赫陈星旭喊话地球团都来上毛雪汪",
@@ -1865,6 +1937,14 @@
       "onboard_time": 1760111541,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119031,
+      "num": 119031,
+      "word": "苹果官网拼错AirPods",
+      "onboard_time": 1760187683,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 118883,
@@ -1899,12 +1979,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116572,
+      "num": 116572,
+      "word": "2楼住户因3楼漏水去4楼养兔子大鹅",
+      "onboard_time": 1760184801,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115607,
       "num": 115607,
       "word": "水贝黄金市场人山人海",
       "onboard_time": 1760170160,
       "rank": 32,
       "category": "财经"
+    },
+    {
+      "raw_hot": 115124,
+      "num": 117111,
+      "word": "盲婚哑嫁下的中式婚礼有多恐怖",
+      "onboard_time": 1760188822,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 115012,
@@ -1929,6 +2025,14 @@
       "onboard_time": 1760177840,
       "rank": 35,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 111979,
+      "num": 117337,
+      "word": "汪苏泷 hi6",
+      "onboard_time": 1760187740,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 111910,
@@ -2035,14 +2139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108146,
-      "num": 108146,
-      "word": "哇唧唧哇",
-      "onboard_time": 1760183481,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 107939,
       "num": 107939,
       "word": "幼儿园omakase",
@@ -2121,6 +2217,14 @@
       "onboard_time": 1760151862,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104739,
+      "num": 104739,
+      "word": "汪苏泷嘴上说不要手却很诚实",
+      "onboard_time": 1760188042,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 104276,
@@ -2273,6 +2377,14 @@
       "onboard_time": 1760184321,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97686,
+      "num": 97686,
+      "word": "陈数 俊俊看一眼沁沁",
+      "onboard_time": 1760189003,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 97675,
@@ -2435,6 +2547,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 93604,
+      "num": 93604,
+      "word": "管乐真是拼了",
+      "onboard_time": 1760188581,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93522,
       "num": 93522,
       "word": "中国一反击打痛美国",
@@ -2489,6 +2609,14 @@
       "onboard_time": 1760135595,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92503,
+      "num": 92503,
+      "word": "白鹿有颗牙片磕碎了",
+      "onboard_time": 1760188942,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 92305,
@@ -2787,6 +2915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82953,
+      "num": 82953,
+      "word": "华裔女星疑遭同组演员性侵",
+      "onboard_time": 1760189061,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82901,
       "num": 258486,
       "word": "京东双11发降温补贴了",
@@ -2833,14 +2969,6 @@
       "onboard_time": 1760179220,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79338,
-      "num": 79338,
-      "word": "2楼住户因3楼漏水去4楼养兔子大鹅",
-      "onboard_time": 1760184801,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78685,

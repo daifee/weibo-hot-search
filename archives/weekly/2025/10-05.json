@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1760187529270,
+  "endTime": 1760189189202,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -137,6 +137,14 @@
       "onboard_time": 1760106863,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2099421,
+      "num": 218569,
+      "word": "张靓颖摔下舞台",
+      "onboard_time": 1760186182,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 1970475,
@@ -465,14 +473,6 @@
       "onboard_time": 1759894761,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1254857,
-      "num": 218569,
-      "word": "张靓颖摔下舞台",
-      "onboard_time": 1760186182,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 1240867,
@@ -1603,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 698020,
+      "num": 217361,
+      "word": "韩国男子在张家界举韩国国旗",
+      "onboard_time": 1760185281,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 695264,
       "num": 213178,
       "word": "娱乐圈的顶级公关",
@@ -2569,14 +2577,6 @@
       "onboard_time": 1759740380,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 517053,
-      "num": 217361,
-      "word": "韩国男子在张家界举韩国国旗",
-      "onboard_time": 1760185281,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 516650,
@@ -4787,6 +4787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 307434,
+      "num": 215114,
+      "word": "陈哲远回应李沁",
+      "onboard_time": 1760184140,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307397,
       "num": 307397,
       "word": "国庆期间高速免费小车被收费",
@@ -6419,14 +6427,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 215114,
-      "num": 215114,
-      "word": "陈哲远回应李沁",
-      "onboard_time": 1760184140,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 214850,
       "num": 116011,
       "word": "方媛说现在已经不能坐飞机了",
@@ -7475,6 +7475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190306,
+      "num": 190306,
+      "word": "萨巴伦卡vs佩古拉",
+      "onboard_time": 1760188581,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190286,
       "num": 190286,
       "word": "这些风景会让人嘴角流泪",
@@ -7617,6 +7625,14 @@
       "onboard_time": 1759832361,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 188596,
+      "num": 219651,
+      "word": "男子失联7年后家属才知命丧车祸",
+      "onboard_time": 1760180301,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188472,
@@ -8107,6 +8123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179011,
+      "num": 218759,
+      "word": "只因手上有茧父亲遭日军枪杀",
+      "onboard_time": 1760185881,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178956,
       "num": 152278,
       "word": "董洁优雅小黑裙",
@@ -8235,6 +8259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177197,
+      "num": 177197,
+      "word": "许我耀眼反转",
+      "onboard_time": 1760187262,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177127,
       "num": 177127,
       "word": "赵今麦刘浩存李庚希时装周造型",
@@ -8321,6 +8353,14 @@
       "onboard_time": 1759797678,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176220,
+      "num": 176220,
+      "word": "许凯开机",
+      "onboard_time": 1760188402,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 176216,
@@ -8465,14 +8505,6 @@
       "onboard_time": 1759638141,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174518,
-      "num": 219651,
-      "word": "男子失联7年后家属才知命丧车祸",
-      "onboard_time": 1760180301,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174403,
@@ -9587,6 +9619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157635,
+      "num": 157635,
+      "word": "南京大屠杀幸存者唐复龙离世",
+      "onboard_time": 1760188461,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157474,
       "num": 157474,
       "word": "郭俊辰工作室声明",
@@ -9843,20 +9883,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154627,
-      "num": 154627,
-      "word": "许我耀眼反转",
-      "onboard_time": 1760187262,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 154542,
       "num": 154542,
       "word": "一个人长期不快乐的原因",
       "onboard_time": 1760071342,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154532,
+      "num": 154532,
+      "word": "AG对战TES",
+      "onboard_time": 1760188643,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 154520,
@@ -9923,6 +9963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153672,
+      "num": 153672,
+      "word": "陈哲远搜过李沁吻戏合集",
+      "onboard_time": 1760188402,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153624,
       "num": 151007,
       "word": "国庆返程高速上演龟速前行",
@@ -9961,6 +10009,14 @@
       "onboard_time": 1759725141,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153357,
+      "num": 153357,
+      "word": "摊主女儿大口吃父母摊位剩食走红",
+      "onboard_time": 1760189123,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153350,
@@ -11611,14 +11667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135164,
-      "num": 218759,
-      "word": "只因手上有茧父亲遭日军枪杀",
-      "onboard_time": 1760185881,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135132,
       "num": 135132,
       "word": "白鹿真的可以去脱口秀试试",
@@ -12803,6 +12851,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 125896,
+      "num": 125896,
+      "word": "哇唧唧哇",
+      "onboard_time": 1760183481,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125872,
       "num": 125872,
       "word": "黄金再飙涨网友后悔没有早入场",
@@ -12817,6 +12873,14 @@
       "onboard_time": 1760091741,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 125718,
+      "num": 125718,
+      "word": "慢羊羊妈妈好漂亮",
+      "onboard_time": 1760187621,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 125694,
@@ -13515,6 +13579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121062,
+      "num": 121062,
+      "word": "VOGUE盛典嘉宾",
+      "onboard_time": 1760188042,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 120987,
       "num": 120987,
       "word": "张凌赫向往的生活录制上班",
@@ -13777,6 +13849,14 @@
       "onboard_time": 1760111541,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119031,
+      "num": 119031,
+      "word": "苹果官网拼错AirPods",
+      "onboard_time": 1760187683,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 119030,
@@ -14107,6 +14187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 116572,
+      "num": 116572,
+      "word": "2楼住户因3楼漏水去4楼养兔子大鹅",
+      "onboard_time": 1760184801,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116514,
       "num": 116514,
       "word": "成龙贝克汉姆NBA中国赛同框",
@@ -14313,6 +14401,14 @@
       "onboard_time": 1759830382,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115124,
+      "num": 117111,
+      "word": "盲婚哑嫁下的中式婚礼有多恐怖",
+      "onboard_time": 1760188822,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 115101,
@@ -14753,6 +14849,14 @@
       "onboard_time": 1759914381,
       "rank": 44,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 111979,
+      "num": 117337,
+      "word": "汪苏泷 hi6",
+      "onboard_time": 1760187740,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 111918,
@@ -15603,14 +15707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108146,
-      "num": 108146,
-      "word": "哇唧唧哇",
-      "onboard_time": 1760183481,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 108114,
       "num": 108114,
       "word": "婚庆类一口价黄金销售走俏",
@@ -16160,6 +16256,14 @@
       "word": "意面来了中国也得被炒着吃",
       "onboard_time": 1759904720,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 104739,
+      "num": 104739,
+      "word": "汪苏泷嘴上说不要手却很诚实",
+      "onboard_time": 1760188042,
+      "rank": 40,
       "category": "综艺"
     },
     {
@@ -17275,6 +17379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 97686,
+      "num": 97686,
+      "word": "陈数 俊俊看一眼沁沁",
+      "onboard_time": 1760189003,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97681,
       "num": 97681,
       "word": "这两种人是最适合一起出去旅游的",
@@ -17947,6 +18059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 93604,
+      "num": 93604,
+      "word": "管乐真是拼了",
+      "onboard_time": 1760188581,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93561,
       "num": 93561,
       "word": "显脸小的氛围感披肩发",
@@ -18153,6 +18273,14 @@
       "onboard_time": 1759678103,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92503,
+      "num": 92503,
+      "word": "白鹿有颗牙片磕碎了",
+      "onboard_time": 1760188942,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 92442,
@@ -19539,6 +19667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82953,
+      "num": 82953,
+      "word": "华裔女星疑遭同组演员性侵",
+      "onboard_time": 1760189061,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82901,
       "num": 258486,
       "word": "京东双11发降温补贴了",
@@ -19881,14 +20017,6 @@
       "onboard_time": 1759687936,
       "rank": 28,
       "category": "网红"
-    },
-    {
-      "raw_hot": 79338,
-      "num": 79338,
-      "word": "2楼住户因3楼漏水去4楼养兔子大鹅",
-      "onboard_time": 1760184801,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79080,
