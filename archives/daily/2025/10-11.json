@@ -1,7 +1,15 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760152146155,
+  "endTime": 1760153537909,
   "band_list": [
+    {
+      "raw_hot": 8491801,
+      "num": 8491801,
+      "word": "工作室辟谣孟子义李昀锐恋情",
+      "onboard_time": 1760152343,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3831995,
       "num": 64745,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1211115,
-      "num": 213069,
+      "num": 251187,
       "word": "昀牵孟绕",
       "onboard_time": 1760149641,
       "rank": 10,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 642669,
-      "num": 208556,
+      "num": 252700,
       "word": "陈乔恩结婚了为什么不能接捧花",
       "onboard_time": 1760150123,
       "rank": 12,
@@ -99,8 +107,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 580023,
+      "num": 580023,
+      "word": "苹果闹钟没响",
+      "onboard_time": 1760151445,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 541808,
-      "num": 205354,
+      "num": 248477,
       "word": "美依礼芽无法再唱极乐净土",
       "onboard_time": 1760147840,
       "rank": 15,
@@ -113,6 +129,14 @@
       "onboard_time": 1760142020,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 517608,
+      "num": 517608,
+      "word": "宗泽后回应宗馥莉辞职",
+      "onboard_time": 1760152403,
+      "rank": 3,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 514076,
@@ -139,6 +163,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 444135,
+      "num": 444135,
+      "word": "失温女生母亲要确认女儿是否被抛弃",
+      "onboard_time": 1760151862,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 439948,
       "num": 281770,
       "word": "白鹿说自己得了疑难杂症",
@@ -163,8 +195,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389800,
+      "num": 389800,
+      "word": "为什么一夜之间多了很多零食店",
+      "onboard_time": 1760148561,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 386102,
-      "num": 203329,
+      "num": 237876,
       "word": "娃小宗无糖茶与娃哈哈包装区分鲜明",
       "onboard_time": 1760150724,
       "rank": 21,
@@ -195,12 +235,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 326199,
+      "num": 247391,
+      "word": "宋亚轩没认出彭昱畅",
+      "onboard_time": 1760151623,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323402,
       "num": 323402,
       "word": "中方一个个点名多个国家劣迹",
       "onboard_time": 1760106203,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 310519,
+      "num": 244891,
+      "word": "胡先煦 虾系男友有了头",
+      "onboard_time": 1760151803,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 309286,
@@ -228,7 +284,7 @@
     },
     {
       "raw_hot": 301800,
-      "num": 203316,
+      "num": 300873,
       "word": "王者荣耀共创之夜",
       "onboard_time": 1760151263,
       "rank": 24,
@@ -243,16 +299,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 297501,
-      "num": 297501,
-      "word": "为什么一夜之间多了很多零食店",
-      "onboard_time": 1760148561,
-      "rank": 23,
-      "category": "情感"
-    },
-    {
       "raw_hot": 296176,
-      "num": 203244,
+      "num": 236146,
       "word": "贵阳公鸡被宰后靠云南白药续命",
       "onboard_time": 1760149762,
       "rank": 22,
@@ -260,7 +308,7 @@
     },
     {
       "raw_hot": 291810,
-      "num": 203549,
+      "num": 205540,
       "word": "男子以亲生女儿性命挽留女友",
       "onboard_time": 1760148862,
       "rank": 14,
@@ -307,12 +355,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 231515,
-      "num": 203372,
-      "word": "苹果闹钟没响",
-      "onboard_time": 1760151445,
-      "rank": 30,
-      "category": "数码"
+      "raw_hot": 244247,
+      "num": 244247,
+      "word": "第一次对虚岁的解释感到震撼",
+      "onboard_time": 1760151503,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 242614,
+      "num": 242614,
+      "word": "我国海上发射一箭三星",
+      "onboard_time": 1760151983,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 223788,
@@ -323,12 +379,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 211894,
+      "num": 211894,
+      "word": "娃小宗",
+      "onboard_time": 1760152643,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208404,
+      "num": 208404,
+      "word": "娃小宗官方账号已注册",
+      "onboard_time": 1760148922,
+      "rank": 26,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 207089,
       "num": 207089,
       "word": "JDG战胜狼队",
       "onboard_time": 1760108725,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 206884,
+      "num": 206884,
+      "word": "你好星期六唱完你的唱你的",
+      "onboard_time": 1760152403,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 206764,
@@ -339,12 +419,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 206366,
-      "num": 206366,
-      "word": "我国海上发射一箭三星",
-      "onboard_time": 1760151983,
-      "rank": 8,
-      "category": "国内时政"
+      "raw_hot": 206191,
+      "num": 206191,
+      "word": "尚公主",
+      "onboard_time": 1760153061,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 203813,
+      "num": 203813,
+      "word": "劣质碳水是身体的慢性炎症推手",
+      "onboard_time": 1760151083,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 203198,
@@ -363,28 +451,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 195849,
-      "num": 195849,
-      "word": "娃小宗官方账号已注册",
-      "onboard_time": 1760148922,
-      "rank": 26,
-      "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 195008,
-      "num": 195008,
-      "word": "宋亚轩没认出彭昱畅",
-      "onboard_time": 1760151623,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193917,
       "num": 161076,
       "word": "第一次觉得曲筱绡的刻薄恰到好处",
       "onboard_time": 1760129893,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187521,
+      "num": 187521,
+      "word": "杨瀚森犯规",
+      "onboard_time": 1760151623,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 186832,
@@ -409,6 +489,14 @@
       "onboard_time": 1760112560,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178267,
+      "num": 178267,
+      "word": "普京说俄罗斯已掌握新型武器",
+      "onboard_time": 1760152702,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 178221,
@@ -451,6 +539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 163247,
+      "num": 163247,
+      "word": "蒋一侨骗了15年奶奶信了15年",
+      "onboard_time": 1760153364,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156654,
       "num": 120251,
       "word": "女子洗完澡发现窗外无人机悬停",
@@ -467,12 +563,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 148697,
-      "num": 148697,
-      "word": "胡先煦 虾系男友有了头",
-      "onboard_time": 1760151803,
-      "rank": 33,
-      "category": "综艺"
+      "raw_hot": 155004,
+      "num": 203428,
+      "word": "朝鲜阅兵洲际弹道导弹数量超以往",
+      "onboard_time": 1760151503,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147992,
@@ -491,14 +587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145814,
-      "num": 145814,
-      "word": "劣质碳水是身体的慢性炎症推手",
-      "onboard_time": 1760151083,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 145592,
       "num": 145592,
       "word": "莫离",
@@ -515,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140827,
+      "num": 140827,
+      "word": "霸王茶姬包装袋居然是十二生肖",
+      "onboard_time": 1760153183,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139899,
       "num": 139899,
       "word": "方媛回应日常生活有很多人打理",
@@ -529,6 +625,14 @@
       "onboard_time": 1760148679,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138384,
+      "num": 138384,
+      "word": "苹果客服曾回应调休日闹钟没响",
+      "onboard_time": 1760153001,
+      "rank": 45,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 137790,
@@ -579,28 +683,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 130097,
-      "num": 130097,
-      "word": "失温女生母亲要确认女儿是否被抛弃",
-      "onboard_time": 1760151862,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129941,
       "num": 129941,
       "word": "四川归来的大熊猫天天找萌兰聊天",
       "onboard_time": 1760142802,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128809,
-      "num": 128809,
-      "word": "第一次对虚岁的解释感到震撼",
-      "onboard_time": 1760151503,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 128324,
@@ -641,14 +729,6 @@
       "onboard_time": 1760111541,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 113343,
-      "num": 113343,
-      "word": "杨瀚森犯规",
-      "onboard_time": 1760151623,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 111910,
@@ -739,6 +819,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 96133,
+      "num": 151734,
+      "word": "杨瀚森季前赛主场首秀",
+      "onboard_time": 1760152824,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94637,
       "num": 94637,
       "word": "3男子停车场盗走迈巴赫手舞足蹈",
@@ -753,6 +841,14 @@
       "onboard_time": 1760147301,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93201,
+      "num": 153533,
+      "word": "库里谈杨瀚森",
+      "onboard_time": 1760152343,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 92527,
@@ -859,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82901,
+      "num": 240931,
+      "word": "京东双11发降温补贴了",
+      "onboard_time": 1760151503,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 82130,
       "num": 82130,
       "word": "比特币24小时暴跌超9%",
@@ -937,14 +1041,6 @@
       "onboard_time": 1760111541,
       "rank": 31,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 69049,
-      "num": 203428,
-      "word": "朝鲜阅兵洲际弹道导弹数量超以往",
-      "onboard_time": 1760151503,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 68653,
@@ -1099,12 +1195,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 45320,
-      "num": 203456,
-      "word": "京东双11发降温补贴了",
-      "onboard_time": 1760151503,
-      "rank": 37,
-      "category": "互联网"
+      "raw_hot": 46395,
+      "num": 234188,
+      "word": "王暖暖用一整夜平复心情",
+      "onboard_time": 1760153183,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44393,

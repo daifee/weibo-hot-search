@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/10/11 11:09:06
+本榜单时间：2025/01/01 00:26:38 ~ 2025/10/11 11:32:17
 </p>
 </blockquote>
 <p>
@@ -1215,6 +1215,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E6%81%8B%E6%83%85%23" target="weibo">
+工作室辟谣孟子义李昀锐恋情（热度：8491801）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%BA%E4%BB%94%E5%B0%8F%E4%B9%94%E9%81%93%E6%AD%89%E4%BF%A1%23" target="weibo">
 旺仔小乔道歉信（热度：8469133）
 </a>
@@ -1805,12 +1811,6 @@ ALin秒了（热度：6171972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9D%E7%BB%AA%E4%B8%B9%E7%A7%92%E5%88%A0%23" target="weibo">
 祝绪丹秒删（热度：4777046）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%87%8D%E5%BA%86%E8%B5%9B%E5%A4%BA%E5%86%A0%23" target="weibo">
-王楚钦重庆赛夺冠（热度：4703448）
 </a>
 </li>
 

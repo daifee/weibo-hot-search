@@ -1,0 +1,410 @@
+{
+  "runTime": 1760153537909,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 872755,
+        "num": 1139640,
+        "word": "保时捷女销冠被合成AI不雅视频",
+        "onboard_time": 1760146940,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580023,
+        "num": 580023,
+        "word": "苹果闹钟没响",
+        "onboard_time": 1760151445,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 35207,
+        "num": 534766,
+        "word": "网警斩断侵公黑色产业链",
+        "onboard_time": 1760144301,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 517608,
+        "num": 517608,
+        "word": "宗泽后回应宗馥莉辞职",
+        "onboard_time": 1760152403,
+        "rank": 3,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 444135,
+        "num": 444135,
+        "word": "失温女生母亲要确认女儿是否被抛弃",
+        "onboard_time": 1760151862,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416307,
+        "num": 416307,
+        "word": "被戳伤失明男孩家长回应获赔272万",
+        "onboard_time": 1760144541,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389800,
+        "num": 389800,
+        "word": "为什么一夜之间多了很多零食店",
+        "onboard_time": 1760148561,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300873,
+        "num": 300873,
+        "word": "王者荣耀共创之夜",
+        "onboard_time": 1760151263,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 260305,
+        "num": 260305,
+        "word": "朝鲜文艺演出画面",
+        "onboard_time": 1760138659,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255621,
+        "num": 255621,
+        "word": "台军心战大队",
+        "onboard_time": 1760146220,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8491801,
+        "num": 8491801,
+        "word": "工作室辟谣孟子义李昀锐恋情",
+        "onboard_time": 1760152343,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621336,
+        "num": 252700,
+        "word": "陈乔恩结婚了为什么不能接捧花",
+        "onboard_time": 1760150123,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579412,
+        "num": 251187,
+        "word": "昀牵孟绕",
+        "onboard_time": 1760149641,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 571836,
+        "num": 250275,
+        "word": "米仓凉子 吸毒",
+        "onboard_time": 1760143221,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328981,
+        "num": 248477,
+        "word": "美依礼芽无法再唱极乐净土",
+        "onboard_time": 1760147840,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326199,
+        "num": 247391,
+        "word": "宋亚轩没认出彭昱畅",
+        "onboard_time": 1760151623,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310519,
+        "num": 244891,
+        "word": "胡先煦 虾系男友有了头",
+        "onboard_time": 1760151803,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244247,
+        "num": 244247,
+        "word": "第一次对虚岁的解释感到震撼",
+        "onboard_time": 1760151503,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242614,
+        "num": 242614,
+        "word": "我国海上发射一箭三星",
+        "onboard_time": 1760151983,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82901,
+        "num": 240931,
+        "word": "京东双11发降温补贴了",
+        "onboard_time": 1760151503,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 632139,
+        "num": 239750,
+        "word": "金价",
+        "onboard_time": 1760141961,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 300007,
+        "num": 237876,
+        "word": "娃小宗无糖茶与娃哈哈包装区分鲜明",
+        "onboard_time": 1760150724,
+        "rank": 21,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 264648,
+        "num": 236146,
+        "word": "贵阳公鸡被宰后靠云南白药续命",
+        "onboard_time": 1760149762,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46395,
+        "num": 234188,
+        "word": "王暖暖用一整夜平复心情",
+        "onboard_time": 1760153183,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232525,
+        "num": 232525,
+        "word": "美国内政部长称中国遏制稀土命脉",
+        "onboard_time": 1760139621,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 211894,
+        "num": 211894,
+        "word": "娃小宗",
+        "onboard_time": 1760152643,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208404,
+        "num": 208404,
+        "word": "娃小宗官方账号已注册",
+        "onboard_time": 1760148922,
+        "rank": 26,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 206884,
+        "num": 206884,
+        "word": "你好星期六唱完你的唱你的",
+        "onboard_time": 1760152403,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206191,
+        "num": 206191,
+        "word": "尚公主",
+        "onboard_time": 1760153061,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205540,
+        "num": 205540,
+        "word": "男子以亲生女儿性命挽留女友",
+        "onboard_time": 1760148862,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203813,
+        "num": 203813,
+        "word": "劣质碳水是身体的慢性炎症推手",
+        "onboard_time": 1760151083,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187521,
+        "num": 187521,
+        "word": "杨瀚森犯规",
+        "onboard_time": 1760151623,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184087,
+        "num": 184087,
+        "word": "纹面男孩称再洗2次纹身就干净了",
+        "onboard_time": 1760139980,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178688,
+        "num": 178688,
+        "word": "李斯丹妮 不用拉腿瘦腰的女艺人",
+        "onboard_time": 1760150123,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155004,
+        "num": 178286,
+        "word": "朝鲜阅兵洲际弹道导弹数量超以往",
+        "onboard_time": 1760151503,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178267,
+        "num": 178267,
+        "word": "普京说俄罗斯已掌握新型武器",
+        "onboard_time": 1760152702,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163247,
+        "num": 163247,
+        "word": "蒋一侨骗了15年奶奶信了15年",
+        "onboard_time": 1760153364,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160111,
+        "num": 160111,
+        "word": "中国迅速对美国亮出反制工具箱",
+        "onboard_time": 1760141001,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93201,
+        "num": 153533,
+        "word": "库里谈杨瀚森",
+        "onboard_time": 1760152343,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96133,
+        "num": 151734,
+        "word": "杨瀚森季前赛主场首秀",
+        "onboard_time": 1760152824,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150660,
+        "num": 150660,
+        "word": "朝鲜举行阅兵式",
+        "onboard_time": 1760142020,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147883,
+        "num": 147883,
+        "word": "广州两个高铁站改名",
+        "onboard_time": 1760148200,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140827,
+        "num": 140827,
+        "word": "霸王茶姬包装袋居然是十二生肖",
+        "onboard_time": 1760153183,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140324,
+        "num": 140324,
+        "word": "长期吃复合维生素是智商税么",
+        "onboard_time": 1760141481,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 138678,
+        "num": 138678,
+        "word": "吴磊惜败天王费德勒",
+        "onboard_time": 1760146041,
+        "rank": 44,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 138384,
+        "num": 138384,
+        "word": "苹果客服曾回应调休日闹钟没响",
+        "onboard_time": 1760153001,
+        "rank": 45,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 138302,
+        "num": 138302,
+        "word": "王青回应",
+        "onboard_time": 1760106925,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135031,
+        "num": 135031,
+        "word": "男子切割墙体时切割机弹出切入腹部",
+        "onboard_time": 1760137758,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85289,
+        "num": 129569,
+        "word": "惊天魔盗团3确认引进",
+        "onboard_time": 1760151204,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126829,
+        "num": 126829,
+        "word": "南方高温下周或终结",
+        "onboard_time": 1760142862,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中朝关系不断向前发展#"
+    }
+  }
+}

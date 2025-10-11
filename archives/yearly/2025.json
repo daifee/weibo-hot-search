@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1760152146155,
+  "endTime": 1760153537909,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1603,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8491801,
+      "num": 8491801,
+      "word": "工作室辟谣孟子义李昀锐恋情",
+      "onboard_time": 1760152343,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 8469133,
       "num": 8469133,
       "word": "旺仔小乔道歉信",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1748601081,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 4703448,
-      "num": 5953448,
-      "word": "王楚钦重庆赛夺冠",
-      "onboard_time": 1742127505,
-      "rank": 0,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
