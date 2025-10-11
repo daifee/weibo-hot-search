@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760179171775,
+  "endTime": 1760181554146,
   "band_list": [
     {
       "raw_hot": 8491801,
@@ -75,12 +75,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1111037,
+      "num": 194642,
+      "word": "许我耀眼大结局",
+      "onboard_time": 1760179580,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1106722,
       "num": 1177075,
       "word": "苹果闹钟没响",
       "onboard_time": 1760151445,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1102084,
+      "num": 1176333,
+      "word": "长期吃面vs长期吃米",
+      "onboard_time": 1760177421,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1075158,
@@ -185,6 +201,14 @@
       "onboard_time": 1760172020,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 716744,
+      "num": 193205,
+      "word": "文章老了好多",
+      "onboard_time": 1760178981,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 706153,
@@ -299,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 543688,
+      "num": 209278,
+      "word": "短短37秒吻戏床戏都上尺度了",
+      "onboard_time": 1760173461,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 541808,
       "num": 259082,
       "word": "美依礼芽无法再唱极乐净土",
@@ -337,14 +369,6 @@
       "onboard_time": 1760164280,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 484237,
-      "num": 209278,
-      "word": "短短37秒吻戏床戏都上尺度了",
-      "onboard_time": 1760173461,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 476284,
@@ -483,14 +507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 359721,
-      "num": 187724,
-      "word": "长期吃面vs长期吃米",
-      "onboard_time": 1760177421,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 357778,
       "num": 357778,
       "word": "美国内政部长称中国遏制稀土命脉",
@@ -505,6 +521,14 @@
       "onboard_time": 1760142862,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 343555,
+      "num": 191394,
+      "word": "许我耀眼",
+      "onboard_time": 1760117176,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 341587,
@@ -723,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 257428,
+      "num": 257428,
+      "word": "山航空姐全面换穿平底鞋",
+      "onboard_time": 1760176761,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 249590,
       "num": 249590,
       "word": "劣质碳水是身体的慢性炎症推手",
@@ -737,6 +769,14 @@
       "onboard_time": 1760146041,
       "rank": 21,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 241235,
+      "num": 241235,
+      "word": "WBG淘汰",
+      "onboard_time": 1760179941,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 238379,
@@ -867,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197790,
+      "num": 187653,
+      "word": "赵磊qko舞台上亲了",
+      "onboard_time": 1760180601,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197514,
       "num": 197514,
       "word": "花儿与少年同心季",
@@ -913,14 +961,6 @@
       "onboard_time": 1760156002,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 187033,
-      "num": 187033,
-      "word": "许我耀眼",
-      "onboard_time": 1760117176,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 186832,
@@ -993,6 +1033,14 @@
       "onboard_time": 1760153783,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176984,
+      "num": 176984,
+      "word": "哇唧唧哇 哪壶不开提哪壶",
+      "onboard_time": 1760180721,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 176690,
@@ -1081,14 +1129,6 @@
       "onboard_time": 1760170939,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163421,
-      "num": 163421,
-      "word": "山航空姐全面换穿平底鞋",
-      "onboard_time": 1760176761,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163349,
@@ -1499,6 +1539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 126056,
+      "num": 126056,
+      "word": "音乐缘计划2阵容",
+      "onboard_time": 1760180541,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125969,
       "num": 153166,
       "word": "季前赛开拓者险胜国王",
@@ -1659,6 +1707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118892,
+      "num": 118892,
+      "word": "12306回应无座乘客自带椅子",
+      "onboard_time": 1760180422,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118500,
       "num": 118500,
       "word": "苹果 果张力",
@@ -1779,12 +1835,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109163,
+      "num": 109163,
+      "word": "男子失联7年后家属才知命丧车祸",
+      "onboard_time": 1760180301,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109120,
       "num": 109120,
       "word": "六公主说檀健次的势头有点猛",
       "onboard_time": 1760160801,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108939,
+      "num": 115497,
+      "word": "山东航空回应空姐换穿平底鞋",
+      "onboard_time": 1760180902,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108785,
+      "num": 108785,
+      "word": "嫁错人比投错胎还可怕",
+      "onboard_time": 1760180541,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 108439,
@@ -1809,14 +1889,6 @@
       "onboard_time": 1760169739,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 107790,
-      "num": 107790,
-      "word": "文章老了好多",
-      "onboard_time": 1760178981,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 107733,
@@ -2043,12 +2115,28 @@
       "category": "体育,海外新闻"
     },
     {
+      "raw_hot": 96683,
+      "num": 96683,
+      "word": "特朗普生气的原因分析",
+      "onboard_time": 1760178321,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96290,
       "num": 96290,
       "word": "安徽一男子洗车未晒干致全车发霉",
       "onboard_time": 1760167521,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95958,
+      "num": 95958,
+      "word": "谁家男主正室的地位勾栏的做派啊",
+      "onboard_time": 1760180721,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 95833,
@@ -2115,6 +2203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94239,
+      "num": 94239,
+      "word": "狗 你确定它真的是医生吗",
+      "onboard_time": 1760179640,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94199,
       "num": 94199,
       "word": "丞磊晒拍的白鹿",
@@ -2129,6 +2225,14 @@
       "onboard_time": 1760163561,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94057,
+      "num": 94057,
+      "word": "尹子维凌晨5点还在表白徐冬冬",
+      "onboard_time": 1760181201,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 93925,
@@ -2387,12 +2491,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86138,
-      "num": 86138,
-      "word": "特朗普生气的原因分析",
-      "onboard_time": 1760178321,
+      "raw_hot": 86528,
+      "num": 86528,
+      "word": "国羽重夺世青赛混团冠军",
+      "onboard_time": 1760181380,
       "rank": 45,
-      "category": "国际时政"
+      "category": "体育"
+    },
+    {
+      "raw_hot": 85532,
+      "num": 85532,
+      "word": "外国女子拿到中国永居证",
+      "onboard_time": 1760181440,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85125,
@@ -2409,6 +2521,14 @@
       "onboard_time": 1760178623,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83848,
+      "num": 83848,
+      "word": "命悬一生",
+      "onboard_time": 1760181322,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 83117,
@@ -2449,6 +2569,14 @@
       "onboard_time": 1760146220,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79703,
+      "num": 79703,
+      "word": "陆毅鲍蕾把婚礼搬上舞台了",
+      "onboard_time": 1760179220,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 78685,
@@ -2584,6 +2712,14 @@
       "word": "张远终于不做嘉宾做新郎了",
       "onboard_time": 1760101041,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 65196,
+      "num": 95243,
+      "word": "九重紫昨天十二今天第五",
+      "onboard_time": 1760180361,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -2769,6 +2905,14 @@
       "onboard_time": 1760153841,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50619,
+      "num": 95328,
+      "word": "王老吉发文有病去医院有事找法院",
+      "onboard_time": 1760180422,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50538,
