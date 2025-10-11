@@ -1,0 +1,410 @@
+{
+  "runTime": 1760171362824,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 656503,
+        "num": 1105040,
+        "word": "丽江市长李刚主动投案",
+        "onboard_time": 1760168780,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 594111,
+        "num": 594111,
+        "word": "驴友爬山捡剧毒蛇后轮流抚摸",
+        "onboard_time": 1760164280,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27111,
+        "num": 414725,
+        "word": "南方高温下周或终结",
+        "onboard_time": 1760142862,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374659,
+        "num": 374659,
+        "word": "iPhone17系列激活量曝光",
+        "onboard_time": 1760167521,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 425226,
+        "num": 372780,
+        "word": "宗泽后推出娃小智品牌",
+        "onboard_time": 1760168960,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187762,
+        "num": 371557,
+        "word": "张继科说凭啥不知情时换教练",
+        "onboard_time": 1760156782,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174086,
+        "num": 368800,
+        "word": "杨瀚森大爆发",
+        "onboard_time": 1760159422,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166098,
+        "num": 366888,
+        "word": "特朗普对华关税恐吓把美股吓出心脏病了",
+        "onboard_time": 1760154622,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138926,
+        "num": 363967,
+        "word": "苹果闹钟没响",
+        "onboard_time": 1760151445,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126159,
+        "num": 361501,
+        "word": "歼16黄岩岛巡逻警戒画面",
+        "onboard_time": 1760165959,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1132254,
+        "num": 359543,
+        "word": "特朗普体检结果",
+        "onboard_time": 1760167760,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 706153,
+        "num": 357814,
+        "word": "新手机号注册网易云登到李玟账号",
+        "onboard_time": 1760167881,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356273,
+        "num": 356273,
+        "word": "成都被砍伤哈士奇已安乐死",
+        "onboard_time": 1760158701,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307555,
+        "num": 307555,
+        "word": "黄磊 彭昱畅比张艺兴长得好看",
+        "onboard_time": 1760169322,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292733,
+        "num": 292733,
+        "word": "太好了是林玉芬我们有救了",
+        "onboard_time": 1760165421,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266960,
+        "num": 266960,
+        "word": "哈士奇被砍伤有人到涉事门店摆花圈",
+        "onboard_time": 1760169860,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253098,
+        "num": 253098,
+        "word": "冯建宇经纪人发长文",
+        "onboard_time": 1760162902,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250043,
+        "num": 250043,
+        "word": "内娱00花开始演妈了",
+        "onboard_time": 1760163922,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242439,
+        "num": 242439,
+        "word": "狐妖小红娘王权篇官宣改名天地剑心",
+        "onboard_time": 1760163980,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44370,
+        "num": 239194,
+        "word": "今年鹅绒服才是真时尚搭子",
+        "onboard_time": 1760167881,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 238379,
+        "num": 238379,
+        "word": "网易云音乐回应登入李玟账号",
+        "onboard_time": 1760169022,
+        "rank": 20,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 163760,
+        "num": 163760,
+        "word": "音乐缘计划2定档",
+        "onboard_time": 1760170939,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161651,
+        "num": 161651,
+        "word": "于正巡视于歪广场",
+        "onboard_time": 1760169561,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149771,
+        "num": 149771,
+        "word": "成毅不愧是bg剧爆出来的",
+        "onboard_time": 1760170761,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138278,
+        "num": 138278,
+        "word": "杨紫国色芳华获奖",
+        "onboard_time": 1760170221,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134577,
+        "num": 134577,
+        "word": "裁判王楚钦上线",
+        "onboard_time": 1760170221,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132653,
+        "num": 132653,
+        "word": "辟谣模板还得是毛晓彤",
+        "onboard_time": 1760166681,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131437,
+        "num": 131437,
+        "word": "警方回应男子当街砍死哈士奇",
+        "onboard_time": 1760161162,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129938,
+        "num": 129938,
+        "word": "时代峰峻你怎么这么命好",
+        "onboard_time": 1760166621,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127157,
+        "num": 127157,
+        "word": "小孩哥把芥末放水中让花甲吐沙",
+        "onboard_time": 1760160080,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209248,
+        "num": 124488,
+        "word": "一奶落万奶生",
+        "onboard_time": 1760170461,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 403070,
+        "num": 120259,
+        "word": "宗馥莉不在周末给一线员工发工作信息",
+        "onboard_time": 1760164280,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115607,
+        "num": 115607,
+        "word": "水贝黄金市场人山人海",
+        "onboard_time": 1760170160,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113832,
+        "num": 113832,
+        "word": "我国海上发射一箭三星",
+        "onboard_time": 1760151983,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111646,
+        "num": 111646,
+        "word": "黄子弘凡聊天记录被发出来了",
+        "onboard_time": 1760155522,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108439,
+        "num": 108439,
+        "word": "把惠英红陈都灵打包去花少",
+        "onboard_time": 1760169441,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107939,
+        "num": 107939,
+        "word": "幼儿园omakase",
+        "onboard_time": 1760169739,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107704,
+        "num": 107704,
+        "word": "焦俊艳签了papi公司",
+        "onboard_time": 1760159541,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107663,
+        "num": 107663,
+        "word": "黄金再飙涨网友后悔没有早入场",
+        "onboard_time": 1760168840,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 71024,
+        "num": 102560,
+        "word": "6900元请的婚庆开场喊错新郎名字",
+        "onboard_time": 1760170281,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100355,
+        "num": 100355,
+        "word": "丁程鑫就让这大雨全都落下舞蹈直拍",
+        "onboard_time": 1760171061,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100106,
+        "num": 100106,
+        "word": "恋情一曝昭昭墨墨排名反超",
+        "onboard_time": 1760165481,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99863,
+        "num": 99863,
+        "word": "这和自己亲生的有啥区别",
+        "onboard_time": 1760170939,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99806,
+        "num": 99806,
+        "word": "米勒众解说谈Light表现",
+        "onboard_time": 1760168660,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70066,
+        "num": 97647,
+        "word": "珩扫内鱼 横扫内娱",
+        "onboard_time": 1760169860,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95772,
+        "num": 95772,
+        "word": "充电器一直不拔有多可怕",
+        "onboard_time": 1760171301,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 42011,
+        "num": 95714,
+        "word": "人生最想重来的一幕",
+        "onboard_time": 1760170401,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95681,
+        "num": 95681,
+        "word": "顾客在鲍师傅蛋挞吃出弹簧",
+        "onboard_time": 1760165661,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92305,
+        "num": 94618,
+        "word": "汪苏泷hi6三连唱",
+        "onboard_time": 1760169981,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94476,
+        "num": 94476,
+        "word": "马思纯就差坐过去看热闹了",
+        "onboard_time": 1760167881,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心妇女事业发展的故事#"
+    }
+  }
+}

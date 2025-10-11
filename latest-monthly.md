@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/11 15:36:10
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/11 16:29:22
 </p>
 </blockquote>
 <p>
@@ -695,6 +695,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B900%E5%90%8E%E5%B7%A5%E4%BD%9C8%E5%B9%B4%E7%9A%84%E6%84%9F%E5%8F%97%23" target="weibo">
 第一批00后工作8年的感受（热度：1134482）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%93%E6%A3%80%E7%BB%93%E6%9E%9C%23" target="weibo">
+特朗普体检结果（热度：1132254）
 </a>
 </li>
 
@@ -1767,6 +1773,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%89%8B%E6%9C%BA%E5%8F%B7%E6%B3%A8%E5%86%8C%E7%BD%91%E6%98%93%E4%BA%91%E7%99%BB%E5%88%B0%E6%9D%8E%E7%8E%9F%E8%B4%A6%E5%8F%B7%23" target="weibo">
+新手机号注册网易云登到李玟账号（热度：706153）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%99%88%E5%9E%A3%E5%AE%87%E8%92%AF%E6%9B%BC%23" target="weibo">
 王楚钦孙颖莎vs陈垣宇蒯曼（热度：705961）
 </a>
@@ -2009,6 +2021,12 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%A6%8D%E5%8F%88%E6%8A%8A%E5%8F%8C%E7%9C%BC%E7%9A%AE%E8%B4%B4%E5%93%AD%E6%8E%89%E4%BA%86%23" target="weibo">
 许妍又把双眼皮贴哭掉了（热度：657912）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BD%E6%B1%9F%E5%B8%82%E9%95%BF%E6%9D%8E%E5%88%9A%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88%23" target="weibo">
+丽江市长李刚主动投案（热度：656503）
 </a>
 </li>
 
@@ -3789,6 +3807,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E6%B3%BD%E5%90%8E%E6%8E%A8%E5%87%BA%E5%A8%83%E5%B0%8F%E6%99%BA%E5%93%81%E7%89%8C%23" target="weibo">
+宗泽后推出娃小智品牌（热度：425226）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%B7%E5%86%B7%E5%86%B7%E5%86%B7%E5%86%B7%23" target="weibo">
 北京冷冷冷冷冷（热度：424857）
 </a>
@@ -4331,6 +4355,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%BD%E7%9C%9F%E5%A5%BD%E5%A4%B4%E8%83%8E%E7%94%9F%E4%BA%86%E4%B8%AA%E6%9C%88%E5%AB%82%23" target="weibo">
 命真好头胎生了个月嫂（热度：374856）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone17%E7%B3%BB%E5%88%97%E6%BF%80%E6%B4%BB%E9%87%8F%E6%9B%9D%E5%85%89%23" target="weibo">
+iPhone17系列激活量曝光（热度：374659）
 </a>
 </li>
 
@@ -5337,6 +5367,12 @@ offer7播一半淘汰了三个人（热度：311785）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%20%E5%BD%AD%E6%98%B1%E7%95%85%E6%AF%94%E5%BC%A0%E8%89%BA%E5%85%B4%E9%95%BF%E5%BE%97%E5%A5%BD%E7%9C%8B%23" target="weibo">
+黄磊 彭昱畅比张艺兴长得好看（热度：307555）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%9C%9F%E9%97%B4%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E5%B0%8F%E8%BD%A6%E8%A2%AB%E6%94%B6%E8%B4%B9%23" target="weibo">
 国庆期间高速免费小车被收费（热度：307397）
 </a>
@@ -5975,42 +6011,6 @@ A股（热度：274300）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%95%E8%BD%A9%E9%9F%B3%E4%B9%90%E8%8A%82%E9%A6%96%E7%A7%80%23" target="weibo">
 展轩音乐节首秀（热度：272388）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%91%B6%E7%94%B0%E6%9B%A6%E8%96%87%20%E4%B8%8A%E5%AE%98%E5%A9%89%E5%84%BF%E5%A4%AA%E5%B9%B3%E5%85%AC%E4%B8%BB%23" target="weibo">
-陈瑶田曦薇 上官婉儿太平公主（热度：272224）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E8%AF%B710%E4%B8%AA%E6%9C%8B%E5%8F%8B%E5%90%83%E5%A4%A7%E9%97%B8%E8%9F%B9%23" target="weibo">
-邓超请10个朋友吃大闸蟹（热度：272172）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E7%9A%93%E6%98%8E%20%E5%A6%8D%E5%A6%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E6%8E%A5%E6%88%91%E7%94%B5%E8%AF%9D%E5%98%9E%23" target="weibo">
-沈皓明 妍妍为什么不接我电话嘞（热度：271909）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%9C%9F%E4%B8%80%E9%83%A8%E5%88%86%23" target="weibo">
-台湾是中国领土一部分（热度：270941）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E7%A0%8D%E6%AD%BB%E5%93%88%E5%A3%AB%E5%A5%87%23" target="weibo">
-警方回应男子当街砍死哈士奇（热度：270921）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%E9%A6%96%E6%92%AD%E5%8F%8D%E9%A6%88%23" target="weibo">
-入青云首播反馈（热度：270392）
 </a>
 </li>
 
