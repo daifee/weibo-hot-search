@@ -1,0 +1,410 @@
+{
+  "runTime": 1760182640550,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1200798,
+        "num": 1200798,
+        "word": "长期吃面vs长期吃米",
+        "onboard_time": 1760177421,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 438361,
+        "num": 438361,
+        "word": "充电器一直不拔有多可怕",
+        "onboard_time": 1760171301,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 21739,
+        "num": 428318,
+        "word": "我国海上发射一箭三星",
+        "onboard_time": 1760151983,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 418553,
+        "num": 418553,
+        "word": "特朗普",
+        "onboard_time": 1760173101,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 331514,
+        "num": 331514,
+        "word": "婴儿12克金手镯被偷已找回",
+        "onboard_time": 1760172020,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310009,
+        "num": 310009,
+        "word": "山航空姐全面换穿平底鞋",
+        "onboard_time": 1760176761,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251551,
+        "num": 251551,
+        "word": "12306回应无座乘客自带椅子",
+        "onboard_time": 1760180422,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242860,
+        "num": 242860,
+        "word": "叙利亚前总统阿萨德现沉迷电子游戏",
+        "onboard_time": 1760174900,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 240445,
+        "num": 240445,
+        "word": "WBG淘汰",
+        "onboard_time": 1760179941,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160086,
+        "num": 237531,
+        "word": "中奖1000万男子回应打赏主播",
+        "onboard_time": 1760172200,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1186970,
+        "num": 233232,
+        "word": "许我耀眼大结局",
+        "onboard_time": 1760179580,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 979833,
+        "num": 230385,
+        "word": "文章老了好多",
+        "onboard_time": 1760178981,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 597748,
+        "num": 227293,
+        "word": "王鹤润工作室辟谣吵架原因",
+        "onboard_time": 1760181621,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545938,
+        "num": 219991,
+        "word": "短短37秒吻戏床戏都上尺度了",
+        "onboard_time": 1760173461,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294400,
+        "num": 219834,
+        "word": "赵磊qko舞台上亲了",
+        "onboard_time": 1760180601,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215882,
+        "num": 215882,
+        "word": "新手机号注册网易云登到李玟账号",
+        "onboard_time": 1760167881,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213586,
+        "num": 213586,
+        "word": "易烊千玺大猫和小猫",
+        "onboard_time": 1760182100,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206012,
+        "num": 206012,
+        "word": "许我耀眼",
+        "onboard_time": 1760178861,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179678,
+        "num": 179678,
+        "word": "刘宇宁在韩国连续6周荣获第一",
+        "onboard_time": 1760175140,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151354,
+        "num": 151354,
+        "word": "山东航空回应空姐换穿平底鞋",
+        "onboard_time": 1760180902,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191714,
+        "num": 147943,
+        "word": "哇唧唧哇 哪壶不开提哪壶",
+        "onboard_time": 1760180721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187503,
+        "num": 146564,
+        "word": "毁牙第一名竟然不是可乐",
+        "onboard_time": 1760174060,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178308,
+        "num": 145229,
+        "word": "一奶落万奶生",
+        "onboard_time": 1760170461,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142231,
+        "num": 142231,
+        "word": "王者十周年三星堆皮肤首曝",
+        "onboard_time": 1760173221,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139780,
+        "num": 139780,
+        "word": "哈士奇被砍伤有人到涉事门店摆花圈",
+        "onboard_time": 1760169860,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139558,
+        "num": 139558,
+        "word": "黄磊 彭昱畅比张艺兴长得好看",
+        "onboard_time": 1760169322,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137705,
+        "num": 137705,
+        "word": "男子失联7年后家属才知命丧车祸",
+        "onboard_time": 1760180301,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121613,
+        "num": 121613,
+        "word": "学生违纪向纠察队下跪磕头求放过",
+        "onboard_time": 1760181141,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120414,
+        "num": 120414,
+        "word": "龚俊 关系熟了人也熟了",
+        "onboard_time": 1760173161,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85934,
+        "num": 118586,
+        "word": "丽江市长李刚主动投案",
+        "onboard_time": 1760168780,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118161,
+        "num": 118161,
+        "word": "成都被砍伤哈士奇已安乐死",
+        "onboard_time": 1760158701,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111603,
+        "num": 111603,
+        "word": "全球对中国实力认知颠覆",
+        "onboard_time": 1760178623,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109962,
+        "num": 109962,
+        "word": "李一桐刘宇宁第一",
+        "onboard_time": 1760181921,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106581,
+        "num": 106581,
+        "word": "尹子维凌晨5点还在表白徐冬冬",
+        "onboard_time": 1760181201,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96692,
+        "num": 96692,
+        "word": "以军撤退后的巴奸待遇",
+        "onboard_time": 1760177060,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94492,
+        "num": 94492,
+        "word": "差点没认出来李菲儿",
+        "onboard_time": 1760182401,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94342,
+        "num": 94342,
+        "word": "iPhone17系列激活量曝光",
+        "onboard_time": 1760167521,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 74513,
+        "num": 93821,
+        "word": "白鹿 你们喊我妈妈好意思吗",
+        "onboard_time": 1760181560,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71657,
+        "num": 93737,
+        "word": "黄子弘凡回应聊天记录",
+        "onboard_time": 1760181621,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29907,
+        "num": 93721,
+        "word": "被戳伤抹猪油失明男孩家长再发声",
+        "onboard_time": 1760181800,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93716,
+        "num": 93716,
+        "word": "小学旁边3元的螺蛳粉",
+        "onboard_time": 1760182460,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88503,
+        "num": 88503,
+        "word": "天地剑心播出时间",
+        "onboard_time": 1760175980,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87141,
+        "num": 87141,
+        "word": "瘦下来后很爽的瞬间",
+        "onboard_time": 1760182281,
+        "rank": 42,
+        "category": "幽默,运动健身"
+      },
+      {
+        "raw_hot": 87095,
+        "num": 87095,
+        "word": "狗 你确定它真的是医生吗",
+        "onboard_time": 1760179640,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86696,
+        "num": 86696,
+        "word": "林玉芬回复白鹿",
+        "onboard_time": 1760175500,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81763,
+        "num": 81763,
+        "word": "官方通报男孩幼儿园被戳伤失明",
+        "onboard_time": 1760172681,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 81293,
+        "num": 81293,
+        "word": "李沁 现在还是不会接头",
+        "onboard_time": 1760178380,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80765,
+        "num": 80765,
+        "word": "盛夏芬德拉男主刘萧旭涨粉超200万",
+        "onboard_time": 1760182221,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79913,
+        "num": 79913,
+        "word": "关晓彤 这才是我的衣服",
+        "onboard_time": 1760182581,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79201,
+        "num": 79201,
+        "word": "特朗普生气的原因分析",
+        "onboard_time": 1760178321,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心妇女事业发展的故事#"
+    }
+  }
+}

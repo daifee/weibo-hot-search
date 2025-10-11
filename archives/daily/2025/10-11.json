@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760181554146,
+  "endTime": 1760182640550,
   "band_list": [
     {
       "raw_hot": 8491801,
@@ -59,6 +59,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1200798,
+      "num": 1200798,
+      "word": "长期吃面vs长期吃米",
+      "onboard_time": 1760177421,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1186970,
+      "num": 233232,
+      "word": "许我耀眼大结局",
+      "onboard_time": 1760179580,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1168389,
       "num": 1186942,
       "word": "保时捷女销冠被合成AI不雅视频",
@@ -75,28 +91,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1111037,
-      "num": 194642,
-      "word": "许我耀眼大结局",
-      "onboard_time": 1760179580,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1106722,
       "num": 1177075,
       "word": "苹果闹钟没响",
       "onboard_time": 1760151445,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1102084,
-      "num": 1176333,
-      "word": "长期吃面vs长期吃米",
-      "onboard_time": 1760177421,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1075158,
@@ -113,6 +113,14 @@
       "onboard_time": 1760171301,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 979833,
+      "num": 230385,
+      "word": "文章老了好多",
+      "onboard_time": 1760178981,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 975171,
@@ -201,14 +209,6 @@
       "onboard_time": 1760172020,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 716744,
-      "num": 193205,
-      "word": "文章老了好多",
-      "onboard_time": 1760178981,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 706153,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 597748,
+      "num": 227293,
+      "word": "王鹤润工作室辟谣吵架原因",
+      "onboard_time": 1760181621,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 585084,
       "num": 319369,
       "word": "黄磊 彭昱畅比张艺兴长得好看",
@@ -323,8 +331,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 543688,
-      "num": 209278,
+      "raw_hot": 545938,
+      "num": 219991,
       "word": "短短37秒吻戏床戏都上尺度了",
       "onboard_time": 1760173461,
       "rank": 21,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 343555,
-      "num": 191394,
+      "num": 206012,
       "word": "许我耀眼",
       "onboard_time": 1760117176,
       "rank": 48,
@@ -611,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310009,
+      "num": 310009,
+      "word": "山航空姐全面换穿平底鞋",
+      "onboard_time": 1760176761,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309286,
       "num": 125868,
       "word": "马云成龙贝克汉姆并排观赛",
@@ -665,6 +681,14 @@
       "onboard_time": 1760149762,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294400,
+      "num": 219834,
+      "word": "赵磊qko舞台上亲了",
+      "onboard_time": 1760180601,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 291810,
@@ -747,11 +771,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257428,
-      "num": 257428,
-      "word": "山航空姐全面换穿平底鞋",
-      "onboard_time": 1760176761,
-      "rank": 23,
+      "raw_hot": 251551,
+      "num": 251551,
+      "word": "12306回应无座乘客自带椅子",
+      "onboard_time": 1760180422,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -793,6 +817,14 @@
       "onboard_time": 1760110222,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 213586,
+      "num": 213586,
+      "word": "易烊千玺大猫和小猫",
+      "onboard_time": 1760182100,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 211894,
@@ -907,14 +939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197790,
-      "num": 187653,
-      "word": "赵磊qko舞台上亲了",
-      "onboard_time": 1760180601,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197514,
       "num": 197514,
       "word": "花儿与少年同心季",
@@ -945,6 +969,14 @@
       "onboard_time": 1760159961,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191714,
+      "num": 176984,
+      "word": "哇唧唧哇 哪壶不开提哪壶",
+      "onboard_time": 1760180721,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 190489,
@@ -1033,14 +1065,6 @@
       "onboard_time": 1760153783,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 176984,
-      "num": 176984,
-      "word": "哇唧唧哇 哪壶不开提哪壶",
-      "onboard_time": 1760180721,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 176690,
@@ -1185,6 +1209,14 @@
       "onboard_time": 1760151503,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 151354,
+      "num": 151354,
+      "word": "山东航空回应空姐换穿平底鞋",
+      "onboard_time": 1760180902,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147992,
@@ -1345,6 +1377,14 @@
       "onboard_time": 1760108663,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 137705,
+      "num": 137705,
+      "word": "男子失联7年后家属才知命丧车祸",
+      "onboard_time": 1760180301,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137671,
@@ -1604,7 +1644,7 @@
     },
     {
       "raw_hot": 124079,
-      "num": 111452,
+      "num": 111603,
       "word": "全球对中国实力认知颠覆",
       "onboard_time": 1760178623,
       "rank": 31,
@@ -1675,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121613,
+      "num": 121613,
+      "word": "学生违纪向纠察队下跪磕头求放过",
+      "onboard_time": 1760181141,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121354,
       "num": 121354,
       "word": "起初他只是想摆摊玩手机",
@@ -1705,14 +1753,6 @@
       "onboard_time": 1760111541,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 118892,
-      "num": 118892,
-      "word": "12306回应无座乘客自带椅子",
-      "onboard_time": 1760180422,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 118500,
@@ -1811,6 +1851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109962,
+      "num": 109962,
+      "word": "李一桐刘宇宁第一",
+      "onboard_time": 1760181921,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109303,
       "num": 109303,
       "word": "穿裙子的小小孙颖莎",
@@ -1835,28 +1883,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 109163,
-      "num": 109163,
-      "word": "男子失联7年后家属才知命丧车祸",
-      "onboard_time": 1760180301,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109120,
       "num": 109120,
       "word": "六公主说檀健次的势头有点猛",
       "onboard_time": 1760160801,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 108939,
-      "num": 115497,
-      "word": "山东航空回应空姐换穿平底鞋",
-      "onboard_time": 1760180902,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108785,
@@ -1903,6 +1935,14 @@
       "num": 107246,
       "word": "上次这么嗑的是唐嫣罗晋",
       "onboard_time": 1760161281,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 106581,
+      "num": 106581,
+      "word": "尹子维凌晨5点还在表白徐冬冬",
+      "onboard_time": 1760181201,
       "rank": 42,
       "category": "艺人"
     },
@@ -2203,6 +2243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94492,
+      "num": 94492,
+      "word": "差点没认出来李菲儿",
+      "onboard_time": 1760182401,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94239,
       "num": 94239,
       "word": "狗 你确定它真的是医生吗",
@@ -2227,20 +2275,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94057,
-      "num": 94057,
-      "word": "尹子维凌晨5点还在表白徐冬冬",
-      "onboard_time": 1760181201,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 93925,
       "num": 91762,
       "word": "杨瀚森发文感谢",
       "onboard_time": 1760167760,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93716,
+      "num": 93716,
+      "word": "小学旁边3元的螺蛳粉",
+      "onboard_time": 1760182460,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 93522,
@@ -2475,6 +2523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87141,
+      "num": 87141,
+      "word": "瘦下来后很爽的瞬间",
+      "onboard_time": 1760182281,
+      "rank": 42,
+      "category": "幽默,运动健身"
+    },
+    {
       "raw_hot": 87061,
       "num": 87061,
       "word": "身体5处不舒服可能是心梗",
@@ -2563,12 +2619,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 80765,
+      "num": 80765,
+      "word": "盛夏芬德拉男主刘萧旭涨粉超200万",
+      "onboard_time": 1760182221,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80324,
       "num": 80324,
       "word": "中国布克合影美国布克",
       "onboard_time": 1760146220,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79913,
+      "num": 79913,
+      "word": "关晓彤 这才是我的衣服",
+      "onboard_time": 1760182581,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 79703,
@@ -2619,6 +2691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 74513,
+      "num": 93821,
+      "word": "白鹿 你们喊我妈妈好意思吗",
+      "onboard_time": 1760181560,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74309,
       "num": 74309,
       "word": "年纪越大对任何人都不会有滤镜",
@@ -2641,6 +2721,14 @@
       "onboard_time": 1760101942,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 71657,
+      "num": 93737,
+      "word": "黄子弘凡回应聊天记录",
+      "onboard_time": 1760181621,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 71024,
@@ -3025,6 +3113,14 @@
       "onboard_time": 1760103624,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 29907,
+      "num": 93721,
+      "word": "被戳伤抹猪油失明男孩家长再发声",
+      "onboard_time": 1760181800,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29134,
