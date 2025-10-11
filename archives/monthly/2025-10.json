@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760203196114,
+  "endTime": 1760204185435,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -34363,6 +34363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 53619,
+      "num": 57306,
+      "word": "第一次在鱼脸上看到生气的表情",
+      "onboard_time": 1760202018,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 53593,
       "num": 53593,
       "word": "宋亚轩唱了youandi",
@@ -34537,14 +34545,6 @@
       "onboard_time": 1760052258,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 51567,
-      "num": 57306,
-      "word": "第一次在鱼脸上看到生气的表情",
-      "onboard_time": 1760202018,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 51397,
@@ -34921,6 +34921,14 @@
       "onboard_time": 1759826480,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46849,
+      "num": 57220,
+      "word": "陈伟霆好会亲",
+      "onboard_time": 1760202858,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 46669,
@@ -35313,14 +35321,6 @@
       "onboard_time": 1759307181,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40962,
-      "num": 57220,
-      "word": "陈伟霆好会亲",
-      "onboard_time": 1760202858,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 40687,

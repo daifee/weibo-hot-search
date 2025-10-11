@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/12 00:27:55 ~ 2025/10/12 01:19:56
+本榜单时间：2025/10/12 00:27:55 ~ 2025/10/12 01:36:25
 </p>
 </blockquote>
 <p>
@@ -322,7 +322,7 @@ VOGUE盛典52位嘉宾（热度：87535）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E9%B1%BC%E8%84%B8%E4%B8%8A%E7%9C%8B%E5%88%B0%E7%94%9F%E6%B0%94%E7%9A%84%E8%A1%A8%E6%83%85%23" target="weibo">
-第一次在鱼脸上看到生气的表情（热度：51567）
+第一次在鱼脸上看到生气的表情（热度：53619）
 </a>
 </li>
 
@@ -334,13 +334,19 @@ VOGUE盛典52位嘉宾（热度：87535）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E5%A5%BD%E4%BC%9A%E4%BA%B2%23" target="weibo">
-陈伟霆好会亲（热度：40962）
+陈伟霆好会亲（热度：46849）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%B1%E8%81%947%E5%B9%B4%E5%90%8E%E5%AE%B6%E5%B1%9E%E6%89%8D%E7%9F%A5%E5%91%BD%E4%B8%A7%E8%BD%A6%E7%A5%B8%23" target="weibo">
 男子失联7年后家属才知命丧车祸（热度：31196）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B6%88%E8%B4%B910%E5%B9%B4%E5%90%8E%E5%8F%91%E7%8E%B0%E4%BA%86%E6%8B%BC%E5%A4%9A%E5%A4%9A%E7%9A%84%E7%A7%98%E5%AF%86%23" target="weibo">
+消费10年后发现了拼多多的秘密（热度：28938）
 </a>
 </li>
 
