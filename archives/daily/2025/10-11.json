@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760171362824,
+  "endTime": 1760172115719,
   "band_list": [
     {
       "raw_hot": 8491801,
@@ -147,6 +147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 746914,
+      "num": 1119506,
+      "word": "丽江市长李刚主动投案",
+      "onboard_time": 1760168780,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 706153,
       "num": 357814,
       "word": "新手机号注册网易云登到李玟账号",
@@ -177,14 +185,6 @@
       "onboard_time": 1760159422,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 656503,
-      "num": 1105040,
-      "word": "丽江市长李刚主动投案",
-      "onboard_time": 1760168780,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 642669,
@@ -273,6 +273,14 @@
       "onboard_time": 1760141481,
       "rank": 6,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 506922,
+      "num": 319369,
+      "word": "黄磊 彭昱畅比张艺兴长得好看",
+      "onboard_time": 1760169322,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 492874,
@@ -387,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359197,
+      "num": 205797,
+      "word": "一奶落万奶生",
+      "onboard_time": 1760170461,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 357778,
       "num": 357778,
       "word": "美国内政部长称中国遏制稀土命脉",
@@ -467,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316164,
+      "num": 316164,
+      "word": "哈士奇被砍伤有人到涉事门店摆花圈",
+      "onboard_time": 1760169860,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 310519,
       "num": 266730,
       "word": "胡先煦 虾系男友有了头",
@@ -481,14 +505,6 @@
       "onboard_time": 1760137638,
       "rank": 19,
       "category": "互联网,体育"
-    },
-    {
-      "raw_hot": 307555,
-      "num": 307555,
-      "word": "黄磊 彭昱畅比张艺兴长得好看",
-      "onboard_time": 1760169322,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 305915,
@@ -603,14 +619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 266960,
-      "num": 266960,
-      "word": "哈士奇被砍伤有人到涉事门店摆花圈",
-      "onboard_time": 1760169860,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 249590,
       "num": 249590,
       "word": "劣质碳水是身体的慢性炎症推手",
@@ -657,14 +665,6 @@
       "onboard_time": 1760156842,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209248,
-      "num": 124488,
-      "word": "一奶落万奶生",
-      "onboard_time": 1760170461,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 208651,
@@ -955,6 +955,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160087,
+      "num": 160087,
+      "word": "成毅不愧是bg剧爆出来的",
+      "onboard_time": 1760170761,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 159992,
+      "num": 159992,
+      "word": "充电器一直不拔有多可怕",
+      "onboard_time": 1760171301,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 156654,
       "num": 120251,
       "word": "女子洗完澡发现窗外无人机悬停",
@@ -977,14 +993,6 @@
       "onboard_time": 1760151503,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 149771,
-      "num": 149771,
-      "word": "成毅不愧是bg剧爆出来的",
-      "onboard_time": 1760170761,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 147992,
@@ -1025,6 +1033,14 @@
       "onboard_time": 1760151023,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144383,
+      "num": 333156,
+      "word": "裁判王楚钦上线",
+      "onboard_time": 1760170221,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 143841,
@@ -1147,14 +1163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134577,
-      "num": 134577,
-      "word": "裁判王楚钦上线",
-      "onboard_time": 1760170221,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133957,
       "num": 200156,
       "word": "荣耀谢霆锋",
@@ -1267,7 +1275,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126159,
+      "raw_hot": 127091,
       "num": 361501,
       "word": "歼16黄岩岛巡逻警戒画面",
       "onboard_time": 1760165959,
@@ -1281,6 +1289,14 @@
       "onboard_time": 1760158522,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125872,
+      "num": 125872,
+      "word": "黄金再飙涨网友后悔没有早入场",
+      "onboard_time": 1760168840,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 125630,
@@ -1427,6 +1443,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 111245,
+      "num": 111245,
+      "word": "张杰带谢娜下场打球",
+      "onboard_time": 1760171961,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110976,
       "num": 110976,
       "word": "肯德基套餐被曝吃出活虫",
@@ -1467,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109177,
+      "num": 109177,
+      "word": "丁程鑫就让这大雨全都落下舞蹈直拍",
+      "onboard_time": 1760171061,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109120,
       "num": 109120,
       "word": "六公主说檀健次的势头有点猛",
@@ -1483,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108187,
+      "num": 108187,
+      "word": "这和自己亲生的有啥区别",
+      "onboard_time": 1760170939,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107939,
       "num": 107939,
       "word": "幼儿园omakase",
@@ -1491,12 +1531,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 107663,
-      "num": 107663,
-      "word": "黄金再飙涨网友后悔没有早入场",
-      "onboard_time": 1760168840,
-      "rank": 38,
-      "category": "财经"
+      "raw_hot": 107733,
+      "num": 107733,
+      "word": "RW锁定年总突围赛",
+      "onboard_time": 1760171541,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 107246,
@@ -1520,6 +1560,14 @@
       "word": "朱志鑫说苏新皓的身体更重要",
       "onboard_time": 1760162961,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 105750,
+      "num": 105750,
+      "word": "张峻豪综艺首秀",
+      "onboard_time": 1760171781,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1555,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103624,
+      "num": 103624,
+      "word": "婴儿12克金手镯被偷已找回",
+      "onboard_time": 1760172020,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103458,
       "num": 103458,
       "word": "哈马斯拒绝接受加沙被外国托管",
@@ -1577,22 +1633,6 @@
       "onboard_time": 1760163561,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 100355,
-      "num": 100355,
-      "word": "丁程鑫就让这大雨全都落下舞蹈直拍",
-      "onboard_time": 1760171061,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 99863,
-      "num": 99863,
-      "word": "这和自己亲生的有啥区别",
-      "onboard_time": 1760170939,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 99806,
@@ -1675,14 +1715,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 95772,
-      "num": 95772,
-      "word": "充电器一直不拔有多可怕",
-      "onboard_time": 1760171301,
-      "rank": 45,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 95681,
       "num": 95681,
       "word": "顾客在鲍师傅蛋挞吃出弹簧",
@@ -1697,6 +1729,14 @@
       "onboard_time": 1760162421,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95434,
+      "num": 95434,
+      "word": "炸弹卡车歼16已到黄岩岛领海就位",
+      "onboard_time": 1760168721,
+      "rank": 43,
+      "category": "军事"
     },
     {
       "raw_hot": 95329,
@@ -1883,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88864,
+      "num": 88864,
+      "word": "苹果 果张力",
+      "onboard_time": 1760171181,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88742,
       "num": 196512,
       "word": "杨瀚森杨眉吐气",
@@ -1913,6 +1961,14 @@
       "onboard_time": 1760138299,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 85125,
+      "num": 90136,
+      "word": "小说里眼尾猩红是侯明昊这样的",
+      "onboard_time": 1760170761,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 83117,
@@ -2243,6 +2299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50538,
+      "num": 105092,
+      "word": "一对上海父子同居养老十多年",
+      "onboard_time": 1760171900,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49475,
       "num": 49475,
       "word": "什么才是最好的友情",
@@ -2371,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24914,
+      "num": 105280,
+      "word": "吴磊宋祖儿心目中的少年夫妻",
+      "onboard_time": 1760171840,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24548,
       "num": 22870,
       "word": "成龙演唱故宫百年主题曲",
@@ -2401,6 +2473,14 @@
       "onboard_time": 1760127193,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15174,
+      "num": 380587,
+      "word": "青春华章",
+      "onboard_time": 1760172020,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14939,
@@ -2457,6 +2537,14 @@
       "onboard_time": 1760094081,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 9679,
+      "num": 321118,
+      "word": "高质量完成十四五规划",
+      "onboard_time": 1760171840,
+      "rank": 12,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

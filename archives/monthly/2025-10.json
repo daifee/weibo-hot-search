@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760171362824,
+  "endTime": 1760172115719,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -2211,6 +2211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 746914,
+      "num": 1119506,
+      "word": "丽江市长李刚主动投案",
+      "onboard_time": 1760168780,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 742367,
       "num": 877129,
       "word": "国庆",
@@ -2681,14 +2689,6 @@
       "onboard_time": 1759469721,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 656503,
-      "num": 1105040,
-      "word": "丽江市长李刚主动投案",
-      "onboard_time": 1760168780,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 655592,
@@ -4001,6 +4001,14 @@
       "onboard_time": 1759937541,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 506922,
+      "num": 319369,
+      "word": "黄磊 彭昱畅比张艺兴长得好看",
+      "onboard_time": 1760169322,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 506365,
@@ -6051,6 +6059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359197,
+      "num": 205797,
+      "word": "一奶落万奶生",
+      "onboard_time": 1760170461,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 358777,
       "num": 188016,
       "word": "吴倩回到了赵默笙时期",
@@ -6899,6 +6915,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 316164,
+      "num": 316164,
+      "word": "哈士奇被砍伤有人到涉事门店摆花圈",
+      "onboard_time": 1760169860,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315850,
       "num": 243374,
       "word": "许我耀眼下个月8号去产检",
@@ -7137,14 +7161,6 @@
       "onboard_time": 1759485259,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 307555,
-      "num": 307555,
-      "word": "黄磊 彭昱畅比张艺兴长得好看",
-      "onboard_time": 1760169322,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 307397,
@@ -8193,14 +8209,6 @@
       "onboard_time": 1759895119,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 266960,
-      "num": 266960,
-      "word": "哈士奇被砍伤有人到涉事门店摆花圈",
-      "onboard_time": 1760169860,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 266828,
@@ -10089,14 +10097,6 @@
       "onboard_time": 1760006361,
       "rank": 9,
       "category": "数码"
-    },
-    {
-      "raw_hot": 209248,
-      "num": 124488,
-      "word": "一奶落万奶生",
-      "onboard_time": 1760170461,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 209017,
@@ -14355,12 +14355,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 160087,
+      "num": 160087,
+      "word": "成毅不愧是bg剧爆出来的",
+      "onboard_time": 1760170761,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160002,
       "num": 160002,
       "word": "惠英红 你看你的女儿很争气",
       "onboard_time": 1760018302,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 159992,
+      "num": 159992,
+      "word": "充电器一直不拔有多可怕",
+      "onboard_time": 1760171301,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 159733,
@@ -15459,14 +15475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149771,
-      "num": 149771,
-      "word": "成毅不愧是bg剧爆出来的",
-      "onboard_time": 1760170761,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149559,
       "num": 149559,
       "word": "李一桐 我那体制内女友",
@@ -16169,6 +16177,14 @@
       "onboard_time": 1759578381,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144383,
+      "num": 333156,
+      "word": "裁判王楚钦上线",
+      "onboard_time": 1760170221,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 144215,
@@ -17763,14 +17779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134577,
-      "num": 134577,
-      "word": "裁判王楚钦上线",
-      "onboard_time": 1760170221,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134515,
       "num": 134515,
       "word": "长城偶遇林志玲",
@@ -19123,6 +19131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127091,
+      "num": 361501,
+      "word": "歼16黄岩岛巡逻警戒画面",
+      "onboard_time": 1760165959,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 127006,
       "num": 127006,
       "word": "阿维塔115亿入股华为引望",
@@ -19267,14 +19283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126159,
-      "num": 361501,
-      "word": "歼16黄岩岛巡逻警戒画面",
-      "onboard_time": 1760165959,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 126092,
       "num": 126092,
       "word": "留学中介现状",
@@ -19321,6 +19329,14 @@
       "onboard_time": 1759720281,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 125872,
+      "num": 125872,
+      "word": "黄金再飙涨网友后悔没有早入场",
+      "onboard_time": 1760168840,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 125784,
@@ -22443,6 +22459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111245,
+      "num": 111245,
+      "word": "张杰带谢娜下场打球",
+      "onboard_time": 1760171961,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111226,
       "num": 111226,
       "word": "阳光俱乐部定档",
@@ -23107,6 +23131,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 109177,
+      "num": 109177,
+      "word": "丁程鑫就让这大雨全都落下舞蹈直拍",
+      "onboard_time": 1760171061,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109149,
       "num": 109149,
       "word": "重庆人点评张掖麻辣烫",
@@ -23395,6 +23427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108187,
+      "num": 108187,
+      "word": "这和自己亲生的有啥区别",
+      "onboard_time": 1760170939,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108114,
       "num": 108114,
       "word": "婚庆类一口价黄金销售走俏",
@@ -23467,20 +23507,20 @@
       "category": "运动健身,其它"
     },
     {
+      "raw_hot": 107733,
+      "num": 107733,
+      "word": "RW锁定年总突围赛",
+      "onboard_time": 1760171541,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107719,
       "num": 107719,
       "word": "剑网3",
       "onboard_time": 1759979779,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 107663,
-      "num": 107663,
-      "word": "黄金再飙涨网友后悔没有早入场",
-      "onboard_time": 1760168840,
-      "rank": 38,
-      "category": "财经"
     },
     {
       "raw_hot": 107657,
@@ -24091,6 +24131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105750,
+      "num": 105750,
+      "word": "张峻豪综艺首秀",
+      "onboard_time": 1760171781,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105706,
       "num": 105706,
       "word": "霉霉夸一战再战太搞笑了",
@@ -24665,6 +24713,14 @@
       "onboard_time": 1759744761,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103624,
+      "num": 103624,
+      "word": "婴儿12克金手镯被偷已找回",
+      "onboard_time": 1760172020,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103608,
@@ -25387,14 +25443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100355,
-      "num": 100355,
-      "word": "丁程鑫就让这大雨全都落下舞蹈直拍",
-      "onboard_time": 1760171061,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 100339,
       "num": 100339,
       "word": "长尾效应最强的国产剧是哪部",
@@ -25521,14 +25569,6 @@
       "onboard_time": 1759919602,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 99863,
-      "num": 99863,
-      "word": "这和自己亲生的有啥区别",
-      "onboard_time": 1760170939,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 99837,
@@ -26571,14 +26611,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 95772,
-      "num": 95772,
-      "word": "充电器一直不拔有多可怕",
-      "onboard_time": 1760171301,
-      "rank": 45,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 95749,
       "num": 95749,
       "word": "男子旅游点两个菜661元后续",
@@ -26665,6 +26697,14 @@
       "onboard_time": 1760162421,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95434,
+      "num": 95434,
+      "word": "炸弹卡车歼16已到黄岩岛领海就位",
+      "onboard_time": 1760168721,
+      "rank": 43,
+      "category": "军事"
     },
     {
       "raw_hot": 95413,
@@ -28275,6 +28315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88864,
+      "num": 88864,
+      "word": "苹果 果张力",
+      "onboard_time": 1760171181,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88832,
       "num": 88832,
       "word": "惠英红陈都灵合照",
@@ -29121,6 +29169,14 @@
       "onboard_time": 1759563261,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85125,
+      "num": 90136,
+      "word": "小说里眼尾猩红是侯明昊这样的",
+      "onboard_time": 1760170761,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 85123,
@@ -33059,6 +33115,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 50538,
+      "num": 105092,
+      "word": "一对上海父子同居养老十多年",
+      "onboard_time": 1760171900,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50385,
       "num": 192338,
       "word": "路上生明月的浪漫谁懂啊",
@@ -34915,6 +34979,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 24914,
+      "num": 105280,
+      "word": "吴磊宋祖儿心目中的少年夫妻",
+      "onboard_time": 1760171840,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24806,
       "num": 37460,
       "word": "凌峰分享和肖战的互动",
@@ -35467,6 +35539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 15174,
+      "num": 380587,
+      "word": "青春华章",
+      "onboard_time": 1760172020,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14939,
       "num": 29122,
       "word": "周深新歌重光",
@@ -35809,6 +35889,14 @@
       "onboard_time": 1759722440,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9679,
+      "num": 321118,
+      "word": "高质量完成十四五规划",
+      "onboard_time": 1760171840,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9533,
