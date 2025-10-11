@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760139398881,
+  "endTime": 1760147155026,
   "band_list": [
     {
       "raw_hot": 3831995,
@@ -9,6 +9,22 @@
       "onboard_time": 1760105843,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1750676,
+      "num": 317260,
+      "word": "米仓凉子 吸毒",
+      "onboard_time": 1760143221,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1369460,
+      "num": 519243,
+      "word": "金价",
+      "onboard_time": 1760141961,
+      "rank": 5,
+      "category": "财经"
     },
     {
       "raw_hot": 934956,
@@ -20,7 +36,7 @@
     },
     {
       "raw_hot": 824844,
-      "num": 134920,
+      "num": 302934,
       "word": "王青回应",
       "onboard_time": 1760106925,
       "rank": 10,
@@ -35,12 +51,52 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 716192,
+      "num": 1114590,
+      "word": "被戳伤失明男孩家长回应获赔272万",
+      "onboard_time": 1760144541,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 642433,
+      "num": 642433,
+      "word": "中国迅速对美国亮出反制工具箱",
+      "onboard_time": 1760141001,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 618408,
+      "num": 618408,
+      "word": "保时捷女销冠被合成AI不雅视频",
+      "onboard_time": 1760146940,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 599353,
-      "num": 136567,
+      "num": 145305,
       "word": "向华强 隆重的辟谣方式",
       "onboard_time": 1760120955,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 522536,
+      "num": 522536,
+      "word": "朝鲜举行阅兵式",
+      "onboard_time": 1760142020,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 514076,
+      "num": 514076,
+      "word": "长期吃复合维生素是智商税么",
+      "onboard_time": 1760141481,
+      "rank": 6,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 450503,
@@ -52,18 +108,34 @@
     },
     {
       "raw_hot": 439948,
-      "num": 134783,
+      "num": 281770,
       "word": "白鹿说自己得了疑难杂症",
       "onboard_time": 1760100322,
       "rank": 11,
       "category": "作品衍生"
     },
     {
+      "raw_hot": 418381,
+      "num": 418381,
+      "word": "纹面男孩称再洗2次纹身就干净了",
+      "onboard_time": 1760139980,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 416046,
-      "num": 127373,
+      "num": 186211,
       "word": "男子切割墙体时切割机弹出切入腹部",
       "onboard_time": 1760137758,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 355831,
+      "num": 355831,
+      "word": "南方高温下周或终结",
+      "onboard_time": 1760142862,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -73,6 +145,22 @@
       "onboard_time": 1760106203,
       "rank": 3,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 317779,
+      "num": 317779,
+      "word": "朝鲜文艺演出画面",
+      "onboard_time": 1760138659,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 316395,
+      "num": 316395,
+      "word": "台军心战大队",
+      "onboard_time": 1760146220,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309286,
@@ -92,7 +180,7 @@
     },
     {
       "raw_hot": 303562,
-      "num": 134444,
+      "num": 185183,
       "word": "关晓彤少喝点吧",
       "onboard_time": 1760102602,
       "rank": 13,
@@ -100,7 +188,7 @@
     },
     {
       "raw_hot": 298554,
-      "num": 134068,
+      "num": 185756,
       "word": "王青 不要因为我影响冯建宇",
       "onboard_time": 1760107703,
       "rank": 15,
@@ -108,11 +196,27 @@
     },
     {
       "raw_hot": 283315,
-      "num": 133982,
+      "num": 152042,
       "word": "白鹿8月生病瘦到86斤",
       "onboard_time": 1760102961,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 278371,
+      "num": 278371,
+      "word": "美国内政部长称中国遏制稀土命脉",
+      "onboard_time": 1760139621,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 269981,
+      "num": 269981,
+      "word": "徒步甘孜失温女生最新情况",
+      "onboard_time": 1760137638,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268704,
@@ -148,7 +252,7 @@
     },
     {
       "raw_hot": 193917,
-      "num": 123335,
+      "num": 161076,
       "word": "第一次觉得曲筱绡的刻薄恰到好处",
       "onboard_time": 1760129893,
       "rank": 45,
@@ -195,6 +299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 173225,
+      "num": 173225,
+      "word": "王暖暖收到判决百感交集",
+      "onboard_time": 1760145621,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163349,
       "num": 163349,
       "word": "石破茂称日政府从未否认侵略战争",
@@ -203,12 +315,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 161077,
+      "num": 161077,
+      "word": "吴磊惜败天王费德勒",
+      "onboard_time": 1760146041,
+      "rank": 21,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 156654,
       "num": 120251,
       "word": "女子洗完澡发现窗外无人机悬停",
       "onboard_time": 1760098221,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155388,
+      "num": 155388,
+      "word": "两大稀土巨头提价",
+      "onboard_time": 1760143881,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 147992,
@@ -243,12 +371,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132831,
+      "num": 132831,
+      "word": "国家医保局加强监测药品阴阳价格",
+      "onboard_time": 1760144901,
+      "rank": 26,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 132295,
       "num": 88518,
       "word": "新加坡双亡案女儿同学发声",
       "onboard_time": 1760138299,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 129941,
+      "num": 129941,
+      "word": "四川归来的大熊猫天天找萌兰聊天",
+      "onboard_time": 1760142802,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128324,
@@ -259,20 +403,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 127821,
-      "num": 127821,
-      "word": "徒步甘孜失温女生最新情况",
-      "onboard_time": 1760137638,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124300,
-      "num": 81430,
-      "word": "朝鲜文艺演出画面",
-      "onboard_time": 1760138659,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 122596,
+      "num": 122596,
+      "word": "外婆把孩子的画织成了毛衣",
+      "onboard_time": 1760141481,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 122167,
@@ -299,6 +435,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 110793,
+      "num": 110793,
+      "word": "美国军用炸药厂爆炸19人失踪",
+      "onboard_time": 1760140639,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 103828,
+      "num": 103828,
+      "word": "西班牙回应特朗普",
+      "onboard_time": 1760143101,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 103746,
       "num": 103746,
       "word": "宗馥莉仍是娃哈哈第二大股东",
@@ -307,12 +459,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102992,
+      "num": 102992,
+      "word": "当主人亲了一下生气的小狗后",
+      "onboard_time": 1760139621,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 99710,
+      "num": 99710,
+      "word": "马来西亚行李箱藏尸案死者双手被绑",
+      "onboard_time": 1760143761,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 92527,
       "num": 92527,
       "word": "李昀锐原来这就是传说中的C位",
       "onboard_time": 1760135595,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92197,
+      "num": 92197,
+      "word": "美股黑色星期五",
+      "onboard_time": 1760145978,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 91970,
@@ -347,12 +523,68 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 87532,
+      "num": 87532,
+      "word": "突然发现高跟鞋设计的很窄",
+      "onboard_time": 1760146520,
+      "rank": 39,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 87061,
+      "num": 87061,
+      "word": "身体5处不舒服可能是心梗",
+      "onboard_time": 1760138299,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 84332,
+      "num": 84332,
+      "word": "美国内政部长称必须破局",
+      "onboard_time": 1760146940,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 83117,
       "num": 83117,
       "word": "事业单位公众号停更2年变色情链接",
       "onboard_time": 1760099001,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82130,
+      "num": 82130,
+      "word": "比特币24小时暴跌超9%",
+      "onboard_time": 1760141840,
+      "rank": 42,
+      "category": "财经,互联网"
+    },
+    {
+      "raw_hot": 80809,
+      "num": 80809,
+      "word": "秋天总要去一趟新疆喀纳斯吧",
+      "onboard_time": 1760146281,
+      "rank": 43,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 80324,
+      "num": 80324,
+      "word": "中国布克合影美国布克",
+      "onboard_time": 1760146220,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 78376,
+      "num": 78376,
+      "word": "为什么猫对小孩很容忍",
+      "onboard_time": 1760141781,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 78347,
@@ -371,12 +603,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 76744,
-      "num": 76744,
-      "word": "身体5处不舒服可能是心梗",
-      "onboard_time": 1760138299,
-      "rank": 35,
-      "category": "健康医疗"
+      "raw_hot": 73744,
+      "num": 73744,
+      "word": "白宫官员称已开始裁员",
+      "onboard_time": 1760140100,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 72418,
@@ -409,6 +641,14 @@
       "onboard_time": 1760092941,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 67063,
+      "num": 67063,
+      "word": "国际油价再次大跌",
+      "onboard_time": 1760144002,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 66409,
@@ -539,6 +779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 44393,
+      "num": 622132,
+      "word": "网警斩断侵公黑色产业链",
+      "onboard_time": 1760144301,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43796,
       "num": 47193,
       "word": "全球每8人就有1人患精神疾病",
@@ -619,8 +867,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 18157,
-      "num": 81602,
+      "raw_hot": 18621,
+      "num": 101261,
       "word": "十个勤天新专辑",
       "onboard_time": 1760119515,
       "rank": 34,
