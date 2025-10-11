@@ -1,0 +1,410 @@
+{
+  "runTime": 1760152146155,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1020919,
+        "num": 1163347,
+        "word": "保时捷女销冠被合成AI不雅视频",
+        "onboard_time": 1760146940,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505865,
+        "num": 505865,
+        "word": "被戳伤失明男孩家长回应获赔272万",
+        "onboard_time": 1760144541,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34270,
+        "num": 366448,
+        "word": "网警斩断侵公黑色产业链",
+        "onboard_time": 1760144301,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297501,
+        "num": 297501,
+        "word": "为什么一夜之间多了很多零食店",
+        "onboard_time": 1760148561,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272121,
+        "num": 272121,
+        "word": "台军心战大队",
+        "onboard_time": 1760146220,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267209,
+        "num": 267209,
+        "word": "美国内政部长称中国遏制稀土命脉",
+        "onboard_time": 1760139621,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255092,
+        "num": 255092,
+        "word": "纹面男孩称再洗2次纹身就干净了",
+        "onboard_time": 1760139980,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215485,
+        "num": 215485,
+        "word": "朝鲜文艺演出画面",
+        "onboard_time": 1760138659,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206366,
+        "num": 206366,
+        "word": "我国海上发射一箭三星",
+        "onboard_time": 1760151983,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204795,
+        "num": 204795,
+        "word": "朝鲜举行阅兵式",
+        "onboard_time": 1760142020,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1211115,
+        "num": 204333,
+        "word": "昀牵孟绕",
+        "onboard_time": 1760149641,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 816684,
+        "num": 204014,
+        "word": "米仓凉子 吸毒",
+        "onboard_time": 1760143221,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 642669,
+        "num": 203991,
+        "word": "陈乔恩结婚了为什么不能接捧花",
+        "onboard_time": 1760150123,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203583,
+        "num": 203583,
+        "word": "长期吃复合维生素是智商税么",
+        "onboard_time": 1760141481,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 504077,
+        "num": 203574,
+        "word": "美依礼芽无法再唱极乐净土",
+        "onboard_time": 1760147840,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279159,
+        "num": 203549,
+        "word": "男子以亲生女儿性命挽留女友",
+        "onboard_time": 1760148862,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277631,
+        "num": 203520,
+        "word": "李斯丹妮 不用拉腿瘦腰的女艺人",
+        "onboard_time": 1760150123,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247825,
+        "num": 203487,
+        "word": "吴磊惜败天王费德勒",
+        "onboard_time": 1760146041,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 45320,
+        "num": 203456,
+        "word": "京东双11发降温补贴了",
+        "onboard_time": 1760151503,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 69049,
+        "num": 203428,
+        "word": "朝鲜阅兵洲际弹道导弹数量超以往",
+        "onboard_time": 1760151503,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 675029,
+        "num": 203405,
+        "word": "金价",
+        "onboard_time": 1760141961,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 231515,
+        "num": 203372,
+        "word": "苹果闹钟没响",
+        "onboard_time": 1760151445,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 386102,
+        "num": 203329,
+        "word": "娃小宗无糖茶与娃哈哈包装区分鲜明",
+        "onboard_time": 1760150724,
+        "rank": 22,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 301800,
+        "num": 203316,
+        "word": "王者荣耀共创之夜",
+        "onboard_time": 1760151263,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198074,
+        "num": 203276,
+        "word": "中国迅速对美国亮出反制工具箱",
+        "onboard_time": 1760141001,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 296176,
+        "num": 203244,
+        "word": "贵阳公鸡被宰后靠云南白药续命",
+        "onboard_time": 1760149762,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206764,
+        "num": 203225,
+        "word": "惊天魔盗团3确认引进",
+        "onboard_time": 1760151204,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203198,
+        "num": 203198,
+        "word": "广州两个高铁站改名",
+        "onboard_time": 1760148200,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195849,
+        "num": 195849,
+        "word": "娃小宗官方账号已注册",
+        "onboard_time": 1760148922,
+        "rank": 28,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 195008,
+        "num": 195008,
+        "word": "宋亚轩没认出彭昱畅",
+        "onboard_time": 1760151623,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192117,
+        "num": 192117,
+        "word": "王青回应",
+        "onboard_time": 1760106925,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168183,
+        "num": 168183,
+        "word": "包文婧自曝因长相选择包贝尔",
+        "onboard_time": 1760149402,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153342,
+        "num": 153342,
+        "word": "南方高温下周或终结",
+        "onboard_time": 1760142862,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148697,
+        "num": 148697,
+        "word": "胡先煦 虾系男友有了头",
+        "onboard_time": 1760151803,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148197,
+        "num": 148197,
+        "word": "男子切割墙体时切割机弹出切入腹部",
+        "onboard_time": 1760137758,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146732,
+        "num": 146732,
+        "word": "李昀锐格纹西装",
+        "onboard_time": 1760151445,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145814,
+        "num": 145814,
+        "word": "劣质碳水是身体的慢性炎症推手",
+        "onboard_time": 1760151083,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145592,
+        "num": 145592,
+        "word": "莫离",
+        "onboard_time": 1760151743,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145422,
+        "num": 145422,
+        "word": "李昀锐这脸一出就是妈生正气",
+        "onboard_time": 1760151023,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144950,
+        "num": 144950,
+        "word": "王青 不要因为我影响冯建宇",
+        "onboard_time": 1760107703,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139541,
+        "num": 139541,
+        "word": "肖战我的压力到底是有多大",
+        "onboard_time": 1760148679,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132575,
+        "num": 132575,
+        "word": "出现6个症状说明肝不好",
+        "onboard_time": 1760152104,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130097,
+        "num": 130097,
+        "word": "失温女生母亲要确认女儿是否被抛弃",
+        "onboard_time": 1760151862,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128809,
+        "num": 128809,
+        "word": "第一次对虚岁的解释感到震撼",
+        "onboard_time": 1760151503,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121098,
+        "num": 121098,
+        "word": "方媛回应日常生活有很多人打理",
+        "onboard_time": 1760147421,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113343,
+        "num": 113343,
+        "word": "杨瀚森犯规",
+        "onboard_time": 1760151623,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105548,
+        "num": 105548,
+        "word": "两大稀土巨头提价",
+        "onboard_time": 1760143881,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105096,
+        "num": 105096,
+        "word": "十月第一批迟到的人出现了",
+        "onboard_time": 1760151862,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103692,
+        "num": 103692,
+        "word": "突然发现高跟鞋设计的很窄",
+        "onboard_time": 1760146520,
+        "rank": 48,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 103458,
+        "num": 103458,
+        "word": "哈马斯拒绝接受加沙被外国托管",
+        "onboard_time": 1760150784,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#推动中朝关系不断向前发展#"
+    }
+  }
+}
