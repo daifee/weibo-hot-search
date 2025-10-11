@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/12 00:27:55 ~ 2025/10/12 02:42:22
+本榜单时间：2025/10/12 00:27:55 ~ 2025/10/12 03:18:26
 </p>
 </blockquote>
 <p>
@@ -153,6 +153,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E8%BF%AA%E4%B8%80%E7%9B%B4%E4%B8%8D%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
+井迪一直不谈恋爱的原因（热度：118610）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E4%B9%98%E5%AE%A2%E8%87%AA%E5%B8%A6%E6%A4%85%E5%AD%90%23" target="weibo">
 12306回应无座乘客自带椅子（热度：118067）
 </a>
@@ -221,12 +227,6 @@ VOGUE盛典52位嘉宾（热度：87535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E9%87%8D%E6%98%A0%E4%B9%9D%E9%87%8D%E7%B4%AB%E6%94%B6%E8%A7%86%E7%AC%AC%E4%B8%80%23" target="weibo">
 湖南卫视重映九重紫收视第一（热度：81507）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E8%BF%AA%E4%B8%80%E7%9B%B4%E4%B8%8D%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
-井迪一直不谈恋爱的原因（热度：79617）
 </a>
 </li>
 
@@ -375,6 +375,12 @@ VOGUE盛典52位嘉宾（热度：87535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A4%E7%BB%B4%E7%B2%92%E8%A7%86%E9%A2%91%E8%A2%AB%E7%A6%81%E6%AD%A2%E6%92%AD%E6%94%BE%23" target="weibo">
+纤维粒视频被禁止播放（热度：22202）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%BF%BB%E5%94%B1%E5%A4%A9%E9%BB%91%E9%BB%91%23" target="weibo">
 张杰翻唱天黑黑（热度：20526）
 </a>
@@ -389,6 +395,12 @@ VOGUE盛典52位嘉宾（热度：87535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Doinb%E8%81%8ALPL%E5%92%8CLCK%E8%AE%AD%E7%BB%83%E7%8E%AF%E5%A2%83%23" target="weibo">
 Doinb聊LPL和LCK训练环境（热度：18181）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E4%BA%BA%E9%83%BD%E8%BF%99%E4%B8%AA%E7%97%87%E7%8A%B6%E7%9C%9F%E7%9A%84%E9%9D%9E%E5%B8%B8%E7%BD%95%E8%A7%81%23" target="weibo">
+四人都这个症状真的非常罕见（热度：14633）
 </a>
 </li>
 
