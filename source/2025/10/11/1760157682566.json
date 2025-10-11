@@ -1,0 +1,410 @@
+{
+  "runTime": 1760157682566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1045425,
+        "num": 1167268,
+        "word": "苹果闹钟没响",
+        "onboard_time": 1760151445,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 515201,
+        "num": 515201,
+        "word": "失温女生母亲要确认女儿是否被抛弃",
+        "onboard_time": 1760151862,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48541,
+        "num": 486614,
+        "word": "十四五成就",
+        "onboard_time": 1760155581,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 661574,
+        "num": 484853,
+        "word": "保时捷女销冠被合成AI不雅视频",
+        "onboard_time": 1760146940,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 482488,
+        "num": 482488,
+        "word": "宗泽后称水军害了宗馥莉",
+        "onboard_time": 1760156002,
+        "rank": 4,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 393454,
+        "num": 393454,
+        "word": "特朗普对华关税恐吓把美股吓出心脏病了",
+        "onboard_time": 1760154622,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 361904,
+        "num": 361904,
+        "word": "杨瀚森犯规",
+        "onboard_time": 1760151623,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335528,
+        "num": 335528,
+        "word": "我国海上发射一箭三星",
+        "onboard_time": 1760151983,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 324501,
+        "num": 324501,
+        "word": "云南昭通4.8级地震",
+        "onboard_time": 1760153841,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 77210,
+        "num": 316830,
+        "word": "娃哈哈任命许思敏为总经理",
+        "onboard_time": 1760156661,
+        "rank": 9,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 1484796,
+        "num": 309222,
+        "word": "宗泽后回应宗馥莉辞职",
+        "onboard_time": 1760152403,
+        "rank": 10,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 564428,
+        "num": 296641,
+        "word": "蒋一侨骗了15年奶奶信了15年",
+        "onboard_time": 1760153364,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 418087,
+        "num": 290974,
+        "word": "米仓凉子 吸毒",
+        "onboard_time": 1760143221,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415526,
+        "num": 279340,
+        "word": "黄子弘凡聊天记录被发出来了",
+        "onboard_time": 1760155522,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 9947,
+        "num": 273267,
+        "word": "微博V影响力大会嘉宾阵容揭晓",
+        "onboard_time": 1760094081,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 341587,
+        "num": 266105,
+        "word": "第一次对虚岁的解释感到震撼",
+        "onboard_time": 1760151503,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257735,
+        "num": 257735,
+        "word": "朝鲜文艺演出画面",
+        "onboard_time": 1760138659,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 237838,
+        "num": 237838,
+        "word": "胡先煦 虾系男友有了头",
+        "onboard_time": 1760151803,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221353,
+        "num": 221353,
+        "word": "为什么一夜之间多了很多零食店",
+        "onboard_time": 1760148561,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51030,
+        "num": 219409,
+        "word": "亚锦赛孙颖莎王艺迪对练",
+        "onboard_time": 1760156842,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2319251,
+        "num": 217486,
+        "word": "工作室辟谣孟子义李昀锐恋情",
+        "onboard_time": 1760152343,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385573,
+        "num": 216091,
+        "word": "金价",
+        "onboard_time": 1760141961,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 267842,
+        "num": 213410,
+        "word": "沈佳润带小沈阳上音乐节了",
+        "onboard_time": 1760155162,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211095,
+        "num": 211095,
+        "word": "杨瀚森半场2分2篮板1封盖",
+        "onboard_time": 1760156842,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201715,
+        "num": 201715,
+        "word": "宋亚轩单手举起116斤彭昱畅",
+        "onboard_time": 1760156782,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200891,
+        "num": 200891,
+        "word": "卢昱晓人生镜头加一",
+        "onboard_time": 1760155102,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196924,
+        "num": 196924,
+        "word": "劣质碳水是身体的慢性炎症推手",
+        "onboard_time": 1760151083,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92328,
+        "num": 194679,
+        "word": "荣耀谢霆锋",
+        "onboard_time": 1760153903,
+        "rank": 27,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 38882,
+        "num": 194562,
+        "word": "檀健次三宣美力城好暖",
+        "onboard_time": 1760157262,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77958,
+        "num": 194537,
+        "word": "视界大会 CP粉有家了",
+        "onboard_time": 1760156541,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194534,
+        "num": 194534,
+        "word": "新95四小花旦",
+        "onboard_time": 1760156422,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173976,
+        "num": 173976,
+        "word": "王者荣耀十周年",
+        "onboard_time": 1760156002,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171853,
+        "num": 171853,
+        "word": "杨瀚森连进两记三分",
+        "onboard_time": 1760157443,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169833,
+        "num": 169833,
+        "word": "NBA",
+        "onboard_time": 1760157443,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169410,
+        "num": 169410,
+        "word": "鹿晗演唱会补偿",
+        "onboard_time": 1760154563,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168587,
+        "num": 168587,
+        "word": "被戳伤失明男孩家长回应获赔272万",
+        "onboard_time": 1760144541,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87829,
+        "num": 148840,
+        "word": "乒乓球亚锦赛场馆长这样",
+        "onboard_time": 1760155642,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145984,
+        "num": 145984,
+        "word": "美依礼芽无法再唱极乐净土",
+        "onboard_time": 1760147840,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90077,
+        "num": 144139,
+        "word": "JDG劝学",
+        "onboard_time": 1760156782,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136025,
+        "num": 144104,
+        "word": "张继科说凭啥不知情时换教练",
+        "onboard_time": 1760156782,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144074,
+        "num": 144074,
+        "word": "昀牵孟绕",
+        "onboard_time": 1760149641,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143841,
+        "num": 143841,
+        "word": "昭昭墨墨第四",
+        "onboard_time": 1760155581,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141644,
+        "num": 141644,
+        "word": "金饰克价涨到1183元",
+        "onboard_time": 1760155162,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139607,
+        "num": 139607,
+        "word": "电影寻她定档",
+        "onboard_time": 1760157142,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132679,
+        "num": 132679,
+        "word": "王者荣耀共创之夜",
+        "onboard_time": 1760151263,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131060,
+        "num": 131060,
+        "word": "杨瀚森季前赛主场首秀",
+        "onboard_time": 1760152824,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128932,
+        "num": 128932,
+        "word": "贵阳公鸡被宰后靠云南白药续命",
+        "onboard_time": 1760149762,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125146,
+        "num": 125146,
+        "word": "恋综史上首次母女同场相亲",
+        "onboard_time": 1760157622,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121455,
+        "num": 121455,
+        "word": "小米将举办首届员工车展",
+        "onboard_time": 1760154202,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 119431,
+        "num": 119431,
+        "word": "台军心战大队",
+        "onboard_time": 1760146220,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心妇女事业发展的故事#"
+    }
+  }
+}

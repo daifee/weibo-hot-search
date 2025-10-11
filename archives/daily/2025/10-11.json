@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760156888560,
+  "endTime": 1760157682566,
   "band_list": [
     {
       "raw_hot": 8491801,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 576222,
-      "num": 281514,
+      "num": 296641,
       "word": "蒋一侨骗了15年奶奶信了15年",
       "onboard_time": 1760153364,
       "rank": 36,
@@ -161,6 +161,14 @@
       "onboard_time": 1760141481,
       "rank": 6,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 482488,
+      "num": 482488,
+      "word": "宗泽后称水军害了宗馥莉",
+      "onboard_time": 1760156002,
+      "rank": 15,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 471535,
@@ -203,6 +211,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 415526,
+      "num": 279340,
+      "word": "黄子弘凡聊天记录被发出来了",
+      "onboard_time": 1760155522,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 393454,
+      "num": 393454,
+      "word": "特朗普对华关税恐吓把美股吓出心脏病了",
+      "onboard_time": 1760154622,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 389800,
       "num": 389800,
       "word": "为什么一夜之间多了很多零食店",
@@ -217,6 +241,14 @@
       "onboard_time": 1760150724,
       "rank": 21,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 361904,
+      "num": 361904,
+      "word": "杨瀚森犯规",
+      "onboard_time": 1760151623,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 357778,
@@ -235,12 +267,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 354089,
-      "num": 354089,
-      "word": "杨瀚森犯规",
-      "onboard_time": 1760151623,
+      "raw_hot": 341587,
+      "num": 274840,
+      "word": "第一次对虚岁的解释感到震撼",
+      "onboard_time": 1760151503,
       "rank": 45,
-      "category": "体育"
+      "category": "情感"
+    },
+    {
+      "raw_hot": 335528,
+      "num": 335528,
+      "word": "我国海上发射一箭三星",
+      "onboard_time": 1760151983,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 330442,
@@ -259,12 +299,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 325029,
-      "num": 325029,
-      "word": "特朗普对华关税恐吓把美股吓出心脏病了",
-      "onboard_time": 1760154622,
-      "rank": 6,
-      "category": "国际时政"
+      "raw_hot": 324501,
+      "num": 324501,
+      "word": "云南昭通4.8级地震",
+      "onboard_time": 1760153841,
+      "rank": 7,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 323402,
@@ -273,14 +313,6 @@
       "onboard_time": 1760106203,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 320469,
-      "num": 320469,
-      "word": "云南昭通4.8级地震",
-      "onboard_time": 1760153841,
-      "rank": 7,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 310519,
@@ -305,14 +337,6 @@
       "onboard_time": 1760091441,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 305900,
-      "num": 274840,
-      "word": "第一次对虚岁的解释感到震撼",
-      "onboard_time": 1760151503,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 303562,
@@ -363,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 282945,
-      "num": 272416,
-      "word": "黄子弘凡聊天记录被发出来了",
-      "onboard_time": 1760155522,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 277631,
       "num": 203520,
       "word": "李斯丹妮 不用拉腿瘦腰的女艺人",
@@ -387,14 +403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 268757,
-      "num": 268757,
-      "word": "宗泽后称水军害了宗馥莉",
-      "onboard_time": 1760156002,
-      "rank": 15,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 268704,
       "num": 268704,
       "word": "盘锦一养殖户数万斤罗氏虾一夜冻死",
@@ -403,16 +411,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 261190,
-      "num": 261190,
-      "word": "我国海上发射一箭三星",
-      "onboard_time": 1760151983,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 258007,
-      "num": 200332,
+      "raw_hot": 267842,
+      "num": 213410,
       "word": "沈佳润带小沈阳上音乐节了",
       "onboard_time": 1760155162,
       "rank": 22,
@@ -449,6 +449,14 @@
       "onboard_time": 1760152643,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211095,
+      "num": 211095,
+      "word": "杨瀚森半场2分2篮板1封盖",
+      "onboard_time": 1760156842,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 208404,
@@ -499,12 +507,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201715,
+      "num": 201715,
+      "word": "宋亚轩单手举起116斤彭昱畅",
+      "onboard_time": 1760156782,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200891,
+      "num": 200891,
+      "word": "卢昱晓人生镜头加一",
+      "onboard_time": 1760155102,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199286,
       "num": 199286,
       "word": "消息称宗馥莉辞职因商标不合规",
       "onboard_time": 1760110701,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194534,
+      "num": 194534,
+      "word": "新95四小花旦",
+      "onboard_time": 1760156422,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 193917,
@@ -611,12 +643,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170359,
-      "num": 170359,
-      "word": "卢昱晓人生镜头加一",
-      "onboard_time": 1760155102,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 171853,
+      "num": 171853,
+      "word": "杨瀚森连进两记三分",
+      "onboard_time": 1760157443,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 169833,
+      "num": 169833,
+      "word": "NBA",
+      "onboard_time": 1760157443,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 169410,
+      "num": 169410,
+      "word": "鹿晗演唱会补偿",
+      "onboard_time": 1760154563,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 168183,
@@ -635,28 +683,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 163560,
-      "num": 163560,
-      "word": "杨瀚森半场2分2篮板1封盖",
-      "onboard_time": 1760156842,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163349,
       "num": 163349,
       "word": "石破茂称日政府从未否认侵略战争",
       "onboard_time": 1760109622,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 163015,
-      "num": 163015,
-      "word": "鹿晗演唱会补偿",
-      "onboard_time": 1760154563,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 156654,
@@ -681,14 +713,6 @@
       "onboard_time": 1760151503,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 150661,
-      "num": 150661,
-      "word": "新95四小花旦",
-      "onboard_time": 1760156422,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 147992,
@@ -731,7 +755,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142632,
+      "raw_hot": 143841,
       "num": 167780,
       "word": "昭昭墨墨第四",
       "onboard_time": 1760155581,
@@ -753,6 +777,14 @@
       "onboard_time": 1760147421,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139607,
+      "num": 139607,
+      "word": "电影寻她定档",
+      "onboard_time": 1760157142,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 139541,
@@ -785,6 +817,14 @@
       "onboard_time": 1760153662,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136025,
+      "num": 163130,
+      "word": "张继科说凭啥不知情时换教练",
+      "onboard_time": 1760156782,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 135516,
@@ -843,6 +883,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 131060,
+      "num": 151734,
+      "word": "杨瀚森季前赛主场首秀",
+      "onboard_time": 1760152824,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129941,
       "num": 129941,
       "word": "四川归来的大熊猫天天找萌兰聊天",
@@ -875,6 +923,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 125146,
+      "num": 125146,
+      "word": "恋综史上首次母女同场相亲",
+      "onboard_time": 1760157622,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122596,
       "num": 122596,
       "word": "外婆把孩子的画织成了毛衣",
@@ -905,14 +961,6 @@
       "onboard_time": 1760111541,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 116514,
-      "num": 163130,
-      "word": "张继科说凭啥不知情时换教练",
-      "onboard_time": 1760156782,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 111910,
@@ -1009,14 +1057,6 @@
       "onboard_time": 1760143761,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 96133,
-      "num": 151734,
-      "word": "杨瀚森季前赛主场首秀",
-      "onboard_time": 1760152824,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 95833,
@@ -1212,11 +1252,19 @@
     },
     {
       "raw_hot": 78039,
-      "num": 187012,
+      "num": 316830,
       "word": "娃哈哈任命许思敏为总经理",
       "onboard_time": 1760156661,
       "rank": 26,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 77958,
+      "num": 194537,
+      "word": "视界大会 CP粉有家了",
+      "onboard_time": 1760156541,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 76967,
@@ -1411,12 +1459,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53106,
-      "num": 181592,
-      "word": "视界大会 CP粉有家了",
-      "onboard_time": 1760156541,
-      "rank": 29,
-      "category": "综艺"
+      "raw_hot": 51030,
+      "num": 219409,
+      "word": "亚锦赛孙颖莎王艺迪对练",
+      "onboard_time": 1760156842,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 50960,
@@ -1441,14 +1489,6 @@
       "onboard_time": 1760155581,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 46457,
-      "num": 145741,
-      "word": "亚锦赛孙颖莎王艺迪对练",
-      "onboard_time": 1760156842,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 44393,
@@ -1489,6 +1529,14 @@
       "onboard_time": 1760137758,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 38882,
+      "num": 194562,
+      "word": "檀健次三宣美力城好暖",
+      "onboard_time": 1760157262,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 29971,
@@ -1603,8 +1651,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8580,
-      "num": 269466,
+      "raw_hot": 9947,
+      "num": 273267,
       "word": "微博V影响力大会嘉宾阵容揭晓",
       "onboard_time": 1760094081,
       "rank": 14,
