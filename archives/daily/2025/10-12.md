@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/12 00:27:55 ~ 2025/10/12 04:24:37
+本榜单时间：2025/10/12 00:27:55 ~ 2025/10/12 04:37:16
 </p>
 </blockquote>
 <p>
@@ -327,6 +327,12 @@ VOGUE盛典52位嘉宾（热度：87535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A546%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A7%82%E8%B5%9B%E6%9C%9F%E9%97%B4%E5%8F%AB%E5%96%8A%23" target="weibo">
+警方通报46岁女子观赛期间叫喊（热度：54165）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E9%B1%BC%E8%84%B8%E4%B8%8A%E7%9C%8B%E5%88%B0%E7%94%9F%E6%B0%94%E7%9A%84%E8%A1%A8%E6%83%85%23" target="weibo">
 第一次在鱼脸上看到生气的表情（热度：53619）
 </a>
@@ -375,12 +381,6 @@ VOGUE盛典52位嘉宾（热度：87535）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A546%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A7%82%E8%B5%9B%E6%9C%9F%E9%97%B4%E5%8F%AB%E5%96%8A%23" target="weibo">
-警方通报46岁女子观赛期间叫喊（热度：22996）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A4%E7%BB%B4%E7%B2%92%E8%A7%86%E9%A2%91%E8%A2%AB%E7%A6%81%E6%AD%A2%E6%92%AD%E6%94%BE%23" target="weibo">
 纤维粒视频被禁止播放（热度：22875）
 </a>
@@ -412,7 +412,7 @@ Doinb聊LPL和LCK训练环境（热度：18181）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E5%9B%9E%E5%BA%94%E5%A9%9A%E7%A4%BC%E7%85%A7%E7%89%87%E8%A2%AB%E4%BF%9D%E6%B4%81%E5%BD%93%E5%9E%83%E5%9C%BE%E6%89%94%E6%8E%89%23" target="weibo">
-酒店回应婚礼照片被保洁当垃圾扔掉（热度：12789）
+酒店回应婚礼照片被保洁当垃圾扔掉（热度：12985）
 </a>
 </li>
 
