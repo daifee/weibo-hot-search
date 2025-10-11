@@ -1,6 +1,6 @@
 {
   "startTime": 1760113878765,
-  "endTime": 1760167283301,
+  "endTime": 1760168170746,
   "band_list": [
     {
       "raw_hot": 8491801,
@@ -139,6 +139,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 684916,
+      "num": 1109586,
+      "word": "驴友爬山捡剧毒蛇后轮流抚摸",
+      "onboard_time": 1760164280,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 670904,
       "num": 670904,
       "word": "失温女生母亲要确认女儿是否被抛弃",
@@ -243,11 +251,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 485930,
-      "num": 1077748,
-      "word": "驴友爬山捡剧毒蛇后轮流抚摸",
+      "raw_hot": 492874,
+      "num": 492874,
+      "word": "宗馥莉不在周末给一线员工发工作信息",
       "onboard_time": 1760164280,
-      "rank": 39,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -307,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 396598,
-      "num": 396598,
-      "word": "宗馥莉不在周末给一线员工发工作信息",
-      "onboard_time": 1760164280,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 389800,
       "num": 389800,
       "word": "为什么一夜之间多了很多零食店",
@@ -329,6 +329,14 @@
       "onboard_time": 1760150724,
       "rank": 21,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 383923,
+      "num": 225991,
+      "word": "狐妖小红娘王权篇官宣改名天地剑心",
+      "onboard_time": 1760163980,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 361904,
@@ -419,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 312746,
-      "num": 225991,
-      "word": "狐妖小红娘王权篇官宣改名天地剑心",
-      "onboard_time": 1760163980,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 310519,
       "num": 266730,
       "word": "胡先煦 虾系男友有了头",
@@ -465,6 +465,14 @@
       "onboard_time": 1760151263,
       "rank": 24,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300228,
+      "num": 205491,
+      "word": "太好了是林玉芬我们有救了",
+      "onboard_time": 1760165421,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 298554,
@@ -563,6 +571,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 242427,
+      "num": 160398,
+      "word": "iPhone17系列激活量曝光",
+      "onboard_time": 1760167521,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 223788,
       "num": 223788,
       "word": "纳斯达克",
@@ -632,14 +648,6 @@
       "word": "尚公主",
       "onboard_time": 1760153061,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 205491,
-      "num": 205491,
-      "word": "太好了是林玉芬我们有救了",
-      "onboard_time": 1760165421,
-      "rank": 20,
       "category": "剧集"
     },
     {
@@ -891,6 +899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 149266,
+      "num": 166049,
+      "word": "特朗普体检结果",
+      "onboard_time": 1760167760,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147992,
       "num": 133850,
       "word": "日本母亲杀死女儿冰箱藏尸20年",
@@ -945,6 +961,14 @@
       "onboard_time": 1760160080,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142145,
+      "num": 142145,
+      "word": "毒角SHOW干一行行一行",
+      "onboard_time": 1760166980,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 140827,
@@ -1099,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130965,
+      "num": 130965,
+      "word": "新手机号注册网易云登到李玟账号",
+      "onboard_time": 1760167881,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129941,
       "num": 129941,
       "word": "四川归来的大熊猫天天找萌兰聊天",
@@ -1219,6 +1251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 120744,
+      "num": 165204,
+      "word": "歼16黄岩岛巡逻警戒画面",
+      "onboard_time": 1760165959,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120438,
       "num": 120438,
       "word": "陈赫陈星旭喊话地球团都来上毛雪汪",
@@ -1251,8 +1291,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115506,
-      "num": 115506,
+      "raw_hot": 117895,
+      "num": 117895,
       "word": "冉莹颖儿子橙发",
       "onboard_time": 1760164822,
       "rank": 37,
@@ -1265,6 +1305,14 @@
       "onboard_time": 1760161761,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112531,
+      "num": 112531,
+      "word": "时代峰峻你怎么这么命好",
+      "onboard_time": 1760166621,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 111910,
@@ -1291,6 +1339,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 109994,
+      "num": 109994,
+      "word": "辟谣模板还得是毛晓彤",
+      "onboard_time": 1760166681,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109993,
       "num": 109993,
       "word": "美国内政部长称必须破局",
@@ -1305,14 +1361,6 @@
       "onboard_time": 1760165481,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109214,
-      "num": 109214,
-      "word": "歼16黄岩岛巡逻警戒画面",
-      "onboard_time": 1760165959,
-      "rank": 40,
-      "category": "国内时政"
     },
     {
       "raw_hot": 109204,
@@ -1435,12 +1483,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 98793,
+      "num": 98793,
+      "word": "山东多处景区因降雨推出晴天险",
+      "onboard_time": 1760167521,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97925,
       "num": 105612,
       "word": "宋PLUS被曝将停产",
       "onboard_time": 1760162060,
       "rank": 45,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 97675,
+      "num": 96577,
+      "word": "考研对一个人的影响有多大",
+      "onboard_time": 1760167461,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 96754,
@@ -1451,6 +1515,14 @@
       "category": "体育,海外新闻"
     },
     {
+      "raw_hot": 96290,
+      "num": 96290,
+      "word": "安徽一男子洗车未晒干致全车发霉",
+      "onboard_time": 1760167521,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95833,
       "num": 163055,
       "word": "JDG劝学",
@@ -1459,19 +1531,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 95629,
-      "num": 95629,
-      "word": "毒角SHOW干一行行一行",
-      "onboard_time": 1760166980,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95476,
       "num": 95476,
       "word": "那英 早知道多演两场",
       "onboard_time": 1760162421,
       "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 95329,
+      "num": 95329,
+      "word": "马思纯就差坐过去看热闹了",
+      "onboard_time": 1760167881,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -1483,14 +1555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 94698,
-      "num": 94698,
-      "word": "时代峰峻你怎么这么命好",
-      "onboard_time": 1760166621,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 94637,
       "num": 94637,
       "word": "3男子停车场盗走迈巴赫手舞足蹈",
@@ -1499,11 +1563,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94199,
+      "num": 94199,
+      "word": "丞磊晒拍的白鹿",
+      "onboard_time": 1760166980,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94166,
       "num": 116565,
       "word": "接王楚钦的追星运",
       "onboard_time": 1760163561,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93925,
+      "num": 91762,
+      "word": "杨瀚森发文感谢",
+      "onboard_time": 1760167760,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1667,14 +1747,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 86045,
-      "num": 86045,
-      "word": "丞磊晒拍的白鹿",
-      "onboard_time": 1760166980,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 83117,
       "num": 83117,
       "word": "事业单位公众号停更2年变色情链接",
@@ -1769,14 +1841,6 @@
       "onboard_time": 1760101942,
       "rank": 32,
       "category": "数码"
-    },
-    {
-      "raw_hot": 70468,
-      "num": 109324,
-      "word": "辟谣模板还得是毛晓彤",
-      "onboard_time": 1760166681,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 69960,
@@ -1897,6 +1961,14 @@
       "onboard_time": 1760099842,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 60504,
+      "num": 129167,
+      "word": "今年鹅绒服才是真时尚搭子",
+      "onboard_time": 1760167881,
+      "rank": 26,
+      "category": "时尚"
     },
     {
       "raw_hot": 60431,
@@ -2067,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33369,
+      "num": 100969,
+      "word": "李杰灵谈如何平衡能力和野心",
+      "onboard_time": 1760168060,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 29971,
       "num": 43118,
       "word": "张杰劝分劝的好坚定",
@@ -2096,6 +2176,14 @@
       "word": "视界大会年度推荐整花活了",
       "onboard_time": 1760117896,
       "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 27863,
+      "num": 97376,
+      "word": "花少团集体迎接那英回来",
+      "onboard_time": 1760168060,
+      "rank": 37,
       "category": "综艺"
     },
     {
