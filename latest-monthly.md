@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/11 17:36:22
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/11 18:23:43
 </p>
 </blockquote>
 <p>
@@ -1389,6 +1389,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
+特朗普（热度：837862）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%84%E5%8A%A9%E4%BA%866%E5%B9%B4%E7%9A%84%E5%A6%B9%E5%A6%B9%E7%AC%AC%E4%B8%80%E7%AC%94%E5%B7%A5%E8%B5%84%E7%BB%99%E4%BA%86%E6%88%91%23" target="weibo">
 资助了6年的妹妹第一笔工资给了我（热度：834365）
 </a>
@@ -1757,12 +1763,6 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E7%91%9E%E5%A3%AB%E5%BA%A6%E5%81%87%23" target="weibo">
 陈赫一家四口瑞士度假（热度：715109）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
-特朗普（热度：714908）
 </a>
 </li>
 
@@ -2367,6 +2367,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A5%961000%E4%B8%87%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD%23" target="weibo">
+中奖1000万男子回应打赏主播（热度：605408）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E8%B4%BE%E4%B9%83%E4%BA%AE%E4%B9%B0%E9%87%91%E9%92%9E%23" target="weibo">
 偶遇贾乃亮买金钞（热度：605032）
 </a>
@@ -2411,6 +2417,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%8D%8E%E5%BC%BA%20%E9%9A%86%E9%87%8D%E7%9A%84%E8%BE%9F%E8%B0%A3%E6%96%B9%E5%BC%8F%23" target="weibo">
 向华强 隆重的辟谣方式（热度：599353）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%20%E5%85%B3%E7%B3%BB%E7%86%9F%E4%BA%86%E4%BA%BA%E4%B9%9F%E7%86%9F%E4%BA%86%23" target="weibo">
+龚俊 关系熟了人也熟了（热度：598754）
 </a>
 </li>
 
@@ -3351,6 +3363,12 @@ VaVa说自己分手是因为浪姐（热度：480031）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%E5%89%8D%E6%80%BB%E7%BB%9F%E9%98%BF%E8%90%A8%E5%BE%B7%E7%8E%B0%E6%B2%89%E8%BF%B7%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F%23" target="weibo">
+叙利亚前总统阿萨德现沉迷电子游戏（热度：476284）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%80%B3%E5%85%89%E6%89%93%E8%B5%B0%E5%A5%B3%E5%84%BF%E6%AF%8D%E4%BA%B2%E8%8A%B1%E5%85%89%E7%A7%AF%E8%93%84%E6%89%BE10%E5%B9%B4%23" target="weibo">
 一耳光打走女儿母亲花光积蓄找10年（热度：474998）
 </a>
@@ -3395,12 +3413,6 @@ VaVa说自己分手是因为浪姐（热度：480031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%86%9B%E5%BF%83%E6%88%98%E5%A4%A7%E9%98%9F%23" target="weibo">
 台军心战大队（热度：471535）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%A5%961000%E4%B8%87%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E6%89%93%E8%B5%8F%E4%B8%BB%E6%92%AD%23" target="weibo">
-中奖1000万男子回应打赏主播（热度：471476）
 </a>
 </li>
 
@@ -5493,6 +5505,12 @@ offer7播一半淘汰了三个人（热度：311785）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%81%E7%89%99%E7%AC%AC%E4%B8%80%E5%90%8D%E7%AB%9F%E7%84%B6%E4%B8%8D%E6%98%AF%E5%8F%AF%E4%B9%90%23" target="weibo">
+毁牙第一名竟然不是可乐（热度：301741）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%A6%8D%E6%B2%88%E7%9A%93%E6%98%8E%E7%94%9F%E7%90%86%E6%80%A7%E5%96%9C%E6%AC%A2%23" target="weibo">
 许妍沈皓明生理性喜欢（热度：301357）
 </a>
@@ -5993,24 +6011,6 @@ JDG对战DK（热度：286717）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%84%8F%E5%A8%81%E5%A4%A7%E7%A7%80%23" target="weibo">
 罗意威大秀（热度：276544）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E7%A7%B0%E4%BC%8A%E6%9C%97%E5%88%AB%E6%97%A0%E9%80%89%E6%8B%A9%E5%BF%85%E9%A1%BB%E8%BF%81%E9%83%BD%23" target="weibo">
-伊朗总统称伊朗别无选择必须迁都（热度：276382）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E9%99%88%E5%93%B2%E8%BF%9C%20%E7%BA%A2%E6%B0%94%E5%85%BB%E4%BA%BA%23" target="weibo">
-刘诗诗陈哲远 红气养人（热度：275655）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%85%A8%E7%90%83%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
-英雄联盟全球总决赛（热度：275582）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1760175382335,
+  "endTime": 1760178223699,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1187,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 837862,
+      "num": 714908,
+      "word": "特朗普",
+      "onboard_time": 1760173101,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 834365,
       "num": 202711,
       "word": "资助了6年的妹妹第一笔工资给了我",
@@ -1513,14 +1521,6 @@
       "onboard_time": 1760172020,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 714908,
-      "num": 714908,
-      "word": "特朗普",
-      "onboard_time": 1760173101,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 709021,
@@ -2011,6 +2011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 605408,
+      "num": 605408,
+      "word": "中奖1000万男子回应打赏主播",
+      "onboard_time": 1760172200,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 605032,
       "num": 203177,
       "word": "偶遇贾乃亮买金钞",
@@ -2049,6 +2057,14 @@
       "onboard_time": 1760120955,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 598754,
+      "num": 206713,
+      "word": "龚俊 关系熟了人也熟了",
+      "onboard_time": 1760173161,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 594717,
@@ -2803,6 +2819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 476284,
+      "num": 476284,
+      "word": "叙利亚前总统阿萨德现沉迷电子游戏",
+      "onboard_time": 1760174900,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 474151,
       "num": 221028,
       "word": "沈皓辰出现自闭症状",
@@ -2840,14 +2864,6 @@
       "word": "台军心战大队",
       "onboard_time": 1760146220,
       "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 471476,
-      "num": 471476,
-      "word": "中奖1000万男子回应打赏主播",
-      "onboard_time": 1760172200,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -4731,6 +4747,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301741,
+      "num": 157839,
+      "word": "毁牙第一名竟然不是可乐",
+      "onboard_time": 1760174060,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 301357,
       "num": 222860,
       "word": "许妍沈皓明生理性喜欢",
@@ -6459,6 +6483,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 208240,
+      "num": 201485,
+      "word": "刘宇宁在韩国连续6周荣获第一",
+      "onboard_time": 1760175140,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208173,
       "num": 208173,
       "word": "张晚意为李沁新剧宣传",
@@ -6771,20 +6803,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200585,
+      "num": 200585,
+      "word": "天地剑心播出时间",
+      "onboard_time": 1760175980,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200542,
       "num": 262454,
       "word": "小谢称王暖暖用4年血泪换来重生",
       "onboard_time": 1760091623,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200243,
-      "num": 200243,
-      "word": "龚俊 关系熟了人也熟了",
-      "onboard_time": 1760173161,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 199648,
@@ -8635,6 +8667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168257,
+      "num": 122423,
+      "word": "长期吃面vs长期吃米",
+      "onboard_time": 1760177421,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 168183,
       "num": 168183,
       "word": "包文婧自曝因长相选择包贝尔",
@@ -8833,14 +8873,6 @@
       "onboard_time": 1759922420,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 165766,
-      "num": 190593,
-      "word": "叙利亚前总统阿萨德现沉迷电子游戏",
-      "onboard_time": 1760174900,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 165711,
@@ -9267,6 +9299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159444,
+      "num": 159444,
+      "word": "上一季姐狗味这一季哥妹味儿",
+      "onboard_time": 1760177060,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159427,
       "num": 159427,
       "word": "张杰劝分劝的好坚定",
@@ -9369,14 +9409,6 @@
       "onboard_time": 1759659624,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157839,
-      "num": 157839,
-      "word": "毁牙第一名竟然不是可乐",
-      "onboard_time": 1760174060,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 157752,
@@ -10379,6 +10411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145456,
+      "num": 145456,
+      "word": "上一秒刀马下一秒吻啦",
+      "onboard_time": 1760177960,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145443,
       "num": 145443,
       "word": "女童一觉醒来成鬼剃头",
@@ -10505,6 +10545,14 @@
       "onboard_time": 1759901600,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143670,
+      "num": 122346,
+      "word": "以军撤退后的巴奸待遇",
+      "onboard_time": 1760177060,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 143620,
@@ -10833,6 +10881,14 @@
       "onboard_time": 1759659504,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140023,
+      "num": 140023,
+      "word": "山航空姐全面换穿平底鞋",
+      "onboard_time": 1760176761,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139899,
@@ -12419,6 +12475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126910,
+      "num": 126910,
+      "word": "林玉芬回复白鹿",
+      "onboard_time": 1760175500,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126728,
       "num": 126728,
       "word": "Gr对战ACT",
@@ -12664,6 +12728,14 @@
       "word": "为让孩子长到170我花了30万",
       "onboard_time": 1759810761,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124965,
+      "num": 124965,
+      "word": "顾客带狗进店咬死了店家鹦鹉",
+      "onboard_time": 1760175741,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -12963,6 +13035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122693,
+      "num": 122693,
+      "word": "MRC五连胜",
+      "onboard_time": 1760177721,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122677,
       "num": 122677,
       "word": "李昀锐新剧人在家中坐孙孙天上来",
@@ -13104,6 +13184,14 @@
       "word": "谁家好剧聚齐短国三巨头",
       "onboard_time": 1760155282,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121884,
+      "num": 121884,
+      "word": "卢昱晓扮狐狸新娘",
+      "onboard_time": 1760176581,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -13873,14 +13961,6 @@
       "onboard_time": 1759661724,
       "rank": 49,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 116008,
-      "num": 116008,
-      "word": "刘宇宁在韩国连续6周荣获第一",
-      "onboard_time": 1760175140,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 115925,
@@ -15867,6 +15947,14 @@
       "category": "情感,民生新闻"
     },
     {
+      "raw_hot": 104276,
+      "num": 104276,
+      "word": "WBG对战BFX",
+      "onboard_time": 1760176822,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104228,
       "num": 104228,
       "word": "爱是双向奔赴的",
@@ -15971,6 +16059,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 103773,
+      "num": 103773,
+      "word": "资本看上小火锅",
+      "onboard_time": 1760177840,
+      "rank": 35,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 103708,
       "num": 103708,
       "word": "NIP战胜VKE",
@@ -16057,6 +16153,14 @@
       "onboard_time": 1760072662,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 103158,
+      "num": 103158,
+      "word": "头都掉了 眼镜还在头上",
+      "onboard_time": 1760176282,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 102992,
@@ -16211,6 +16315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102172,
+      "num": 102172,
+      "word": "孙佳俊解释冰桶里小黄鸭用处",
+      "onboard_time": 1760177960,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101981,
       "num": 166667,
       "word": "高市早苗要求大家玩命工作",
@@ -16233,6 +16345,14 @@
       "onboard_time": 1759728142,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 101847,
+      "num": 101847,
+      "word": "孟凡利任广东省代省长",
+      "onboard_time": 1760176822,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 101810,
@@ -17203,6 +17323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95235,
+      "num": 95235,
+      "word": "S15倒计时3天",
+      "onboard_time": 1760176822,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95205,
       "num": 95205,
       "word": "韩国上厕所有多难",
@@ -17585,6 +17713,14 @@
       "onboard_time": 1760002762,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93017,
+      "num": 93017,
+      "word": "无意识变白行为",
+      "onboard_time": 1760177479,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 92993,
@@ -18187,6 +18323,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 89242,
+      "num": 89242,
+      "word": "第一次见鼻子能折叠的狗",
+      "onboard_time": 1760177899,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89235,
       "num": 89235,
       "word": "羊驼吃不下了真的吃不下了",
@@ -18337,6 +18481,14 @@
       "onboard_time": 1760014339,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 87866,
+      "num": 87866,
+      "word": "孙颖莎上一秒凶巴巴下一秒嘿嘿嘿",
+      "onboard_time": 1760177240,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 87829,
@@ -18513,6 +18665,14 @@
       "onboard_time": 1759851023,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86877,
+      "num": 86877,
+      "word": "深圳水贝商家忙转型",
+      "onboard_time": 1760177542,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86870,
@@ -21771,6 +21931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31320,
+      "num": 103440,
+      "word": "男孩被戳失明涉事幼儿园6月已关停",
+      "onboard_time": 1760177360,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31293,
       "num": 44516,
       "word": "王曼昱说跟莎莎决赛会全力以赴",
@@ -22209,6 +22377,14 @@
       "onboard_time": 1759775895,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20829,
+      "num": 103249,
+      "word": "今年最后一个调休日",
+      "onboard_time": 1760178141,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20270,
