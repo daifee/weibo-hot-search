@@ -1,0 +1,410 @@
+{
+  "runTime": 1760161163646,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 975171,
+        "num": 1156027,
+        "word": "张继科说凭啥不知情时换教练",
+        "onboard_time": 1760156782,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 663536,
+        "num": 663536,
+        "word": "杨瀚森大爆发",
+        "onboard_time": 1760159422,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45928,
+        "num": 543245,
+        "word": "十四五成就",
+        "onboard_time": 1760155581,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 517009,
+        "num": 517009,
+        "word": "苹果闹钟没响",
+        "onboard_time": 1760151445,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 516524,
+        "num": 516524,
+        "word": "失温女生母亲要确认女儿是否被抛弃",
+        "onboard_time": 1760151862,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349237,
+        "num": 349237,
+        "word": "特朗普对华关税恐吓把美股吓出心脏病了",
+        "onboard_time": 1760154622,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229240,
+        "num": 229240,
+        "word": "娃哈哈任命许思敏为总经理",
+        "onboard_time": 1760156661,
+        "rank": 6,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 202312,
+        "num": 202312,
+        "word": "许家印车牌粤A98888劳斯莱斯被接管",
+        "onboard_time": 1760160501,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177840,
+        "num": 202205,
+        "word": "我国海上发射一箭三星",
+        "onboard_time": 1760151983,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 874400,
+        "num": 202129,
+        "word": "宗泽后称水军害了宗馥莉",
+        "onboard_time": 1760156002,
+        "rank": 9,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 658705,
+        "num": 201960,
+        "word": "黄子弘凡聊天记录被发出来了",
+        "onboard_time": 1760155522,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 617898,
+        "num": 201851,
+        "word": "恋综史上首次母女同场相亲",
+        "onboard_time": 1760157622,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484894,
+        "num": 201604,
+        "word": "焦俊艳签了papi公司",
+        "onboard_time": 1760159541,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317496,
+        "num": 201570,
+        "word": "新95四小花旦",
+        "onboard_time": 1760156422,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301987,
+        "num": 201375,
+        "word": "成都被砍伤哈士奇已安乐死",
+        "onboard_time": 1760158701,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300139,
+        "num": 201194,
+        "word": "米仓凉子 吸毒",
+        "onboard_time": 1760143221,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269554,
+        "num": 201115,
+        "word": "蒋一侨骗了15年奶奶信了15年",
+        "onboard_time": 1760153364,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172822,
+        "num": 200857,
+        "word": "朝鲜文艺演出画面",
+        "onboard_time": 1760138659,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32411,
+        "num": 200748,
+        "word": "檀健次三宣美力城好暖",
+        "onboard_time": 1760157262,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200708,
+        "num": 200708,
+        "word": "第一次对虚岁的解释感到震撼",
+        "onboard_time": 1760151503,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254665,
+        "num": 198792,
+        "word": "金价",
+        "onboard_time": 1760141961,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192130,
+        "num": 192130,
+        "word": "葛沛豪奚安娜回归爸爸当家",
+        "onboard_time": 1760159961,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172873,
+        "num": 172873,
+        "word": "小孩哥把芥末放水中让花甲吐沙",
+        "onboard_time": 1760160080,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87317,
+        "num": 169036,
+        "word": "杨瀚森杨眉吐气",
+        "onboard_time": 1760159722,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167896,
+        "num": 167896,
+        "word": "感觉张一山真的要抽搐过去了",
+        "onboard_time": 1760160201,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150985,
+        "num": 150985,
+        "word": "杨瀚森连进两记三分",
+        "onboard_time": 1760157443,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137428,
+        "num": 137428,
+        "word": "胡先煦 虾系男友有了头",
+        "onboard_time": 1760151803,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135965,
+        "num": 135965,
+        "word": "孙颖莎跨栏",
+        "onboard_time": 1760160080,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131619,
+        "num": 131619,
+        "word": "劣质碳水是身体的慢性炎症推手",
+        "onboard_time": 1760151083,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126168,
+        "num": 126168,
+        "word": "金饰克价涨到1183元",
+        "onboard_time": 1760155162,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124495,
+        "num": 124495,
+        "word": "杨瀚森16分",
+        "onboard_time": 1760159901,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123685,
+        "num": 123685,
+        "word": "宋亚轩单手举起116斤彭昱畅",
+        "onboard_time": 1760156782,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121409,
+        "num": 121409,
+        "word": "卢昱晓人生镜头加一",
+        "onboard_time": 1760155102,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118243,
+        "num": 118243,
+        "word": "为什么一夜之间多了很多零食店",
+        "onboard_time": 1760148561,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117088,
+        "num": 117088,
+        "word": "沈佳润带小沈阳上音乐节了",
+        "onboard_time": 1760155162,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109120,
+        "num": 109120,
+        "word": "六公主说檀健次的势头有点猛",
+        "onboard_time": 1760160801,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107606,
+        "num": 107606,
+        "word": "鹿晗演唱会补偿",
+        "onboard_time": 1760154563,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105833,
+        "num": 105833,
+        "word": "婚礼上爷爷用扁担挑着龙凤胎入场",
+        "onboard_time": 1760157683,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90816,
+        "num": 104825,
+        "word": "王嘉尔 内娱最会泼水的男人",
+        "onboard_time": 1760160681,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 86174,
+        "num": 104571,
+        "word": "肖战藏海断层第一",
+        "onboard_time": 1760160441,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104348,
+        "num": 104348,
+        "word": "季前赛开拓者险胜国王",
+        "onboard_time": 1760158522,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104341,
+        "num": 104341,
+        "word": "原来身体早就告诉你在变老了",
+        "onboard_time": 1760158404,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98479,
+        "num": 98479,
+        "word": "被戳伤失明男孩家长回应获赔272万",
+        "onboard_time": 1760144541,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97456,
+        "num": 97456,
+        "word": "美依礼芽无法再唱极乐净土",
+        "onboard_time": 1760147840,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96754,
+        "num": 96754,
+        "word": "世界游泳冠军机场行窃被抓",
+        "onboard_time": 1760158341,
+        "rank": 44,
+        "category": "体育,海外新闻"
+      },
+      {
+        "raw_hot": 95420,
+        "num": 95420,
+        "word": "曾黎 睡前5分钟放下手机这样做",
+        "onboard_time": 1760160681,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93314,
+        "num": 93314,
+        "word": "降温了小猫就会这样变得圆圆的",
+        "onboard_time": 1760159001,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93290,
+        "num": 93290,
+        "word": "张子枫宋佳角色名有点东西",
+        "onboard_time": 1760161041,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54449,
+        "num": 92443,
+        "word": "江语晨两个孩子近照",
+        "onboard_time": 1760159481,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89798,
+        "num": 92062,
+        "word": "贵阳公鸡被宰后靠云南白药续命",
+        "onboard_time": 1760149762,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心妇女事业发展的故事#"
+    }
+  }
+}

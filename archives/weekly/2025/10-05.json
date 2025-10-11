@@ -1,6 +1,6 @@
 {
   "startTime": 1759595276102,
-  "endTime": 1760160180610,
+  "endTime": 1760161163646,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -819,6 +819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 975171,
+      "num": 1156027,
+      "word": "张继科说凭啥不知情时换教练",
+      "onboard_time": 1760156782,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 965786,
       "num": 1154525,
       "word": "美股跳水",
@@ -1443,14 +1451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 721525,
-      "num": 721525,
-      "word": "张继科说凭啥不知情时换教练",
-      "onboard_time": 1760156782,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 718725,
       "num": 718725,
       "word": "教育局回应家长跪地被学生轮流踩踏",
@@ -1609,6 +1609,14 @@
       "onboard_time": 1760063180,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 663536,
+      "num": 663536,
+      "word": "杨瀚森大爆发",
+      "onboard_time": 1760159422,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 661486,
@@ -1835,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 617898,
+      "num": 228758,
+      "word": "恋综史上首次母女同场相亲",
+      "onboard_time": 1760157622,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 616330,
       "num": 616330,
       "word": "孙颖莎中国大满贯亚军",
@@ -2016,14 +2032,6 @@
       "word": "蒋一侨骗了15年奶奶信了15年",
       "onboard_time": 1760153364,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 573603,
-      "num": 228758,
-      "word": "恋综史上首次母女同场相亲",
-      "onboard_time": 1760157622,
-      "rank": 47,
       "category": "综艺"
     },
     {
@@ -2609,6 +2617,14 @@
       "onboard_time": 1760075841,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 484894,
+      "num": 207292,
+      "word": "焦俊艳签了papi公司",
+      "onboard_time": 1760159541,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 482525,
@@ -3273,14 +3289,6 @@
       "onboard_time": 1759978819,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 406841,
-      "num": 406841,
-      "word": "杨瀚森大爆发",
-      "onboard_time": 1760159422,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 404867,
@@ -4259,6 +4267,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 317496,
+      "num": 217815,
+      "word": "新95四小花旦",
+      "onboard_time": 1760156422,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317417,
       "num": 317417,
       "word": "特朗普当加总理面提吞并加拿大",
@@ -4504,6 +4520,14 @@
       "word": "租客月租1400中介交给房东2500",
       "onboard_time": 1759742842,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301987,
+      "num": 201375,
+      "word": "成都被砍伤哈士奇已安乐死",
+      "onboard_time": 1760158701,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -5467,14 +5491,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 245847,
-      "num": 217815,
-      "word": "新95四小花旦",
-      "onboard_time": 1760156422,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 245799,
       "num": 245799,
       "word": "珠峰暴雪向导一人一狗带超百人撤离",
@@ -5529,14 +5545,6 @@
       "onboard_time": 1759894402,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 241115,
-      "num": 207292,
-      "word": "焦俊艳签了papi公司",
-      "onboard_time": 1760159541,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 240484,
@@ -5761,6 +5769,14 @@
       "onboard_time": 1759668684,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 229240,
+      "num": 316830,
+      "word": "娃哈哈任命许思敏为总经理",
+      "onboard_time": 1760156661,
+      "rank": 26,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 229084,
@@ -6427,6 +6443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202312,
+      "num": 202312,
+      "word": "许家印车牌粤A98888劳斯莱斯被接管",
+      "onboard_time": 1760160501,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202310,
       "num": 202310,
       "word": "张艺兴和张艺谋团队梦幻联动上了",
@@ -6891,20 +6915,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192435,
-      "num": 316830,
-      "word": "娃哈哈任命许思敏为总经理",
-      "onboard_time": 1760156661,
-      "rank": 26,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 192166,
       "num": 192166,
       "word": "火树才是来集邮的吧",
       "onboard_time": 1759916001,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 192130,
+      "num": 192130,
+      "word": "葛沛豪奚安娜回归爸爸当家",
+      "onboard_time": 1760159961,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 192072,
@@ -8123,6 +8147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 172873,
+      "num": 172873,
+      "word": "小孩哥把芥末放水中让花甲吐沙",
+      "onboard_time": 1760160080,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172792,
       "num": 172792,
       "word": "全球第一网红回复詹姆斯",
@@ -8393,6 +8425,14 @@
       "onboard_time": 1759809201,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167896,
+      "num": 167896,
+      "word": "感觉张一山真的要抽搐过去了",
+      "onboard_time": 1760160201,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 167791,
@@ -9649,14 +9689,6 @@
       "onboard_time": 1760091202,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 149711,
-      "num": 149711,
-      "word": "小孩哥把芥末放水中让花甲吐沙",
-      "onboard_time": 1760160080,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149258,
@@ -11833,14 +11865,6 @@
       "onboard_time": 1760113879,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 128302,
-      "num": 128302,
-      "word": "葛沛豪奚安娜回归爸爸当家",
-      "onboard_time": 1760159961,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 128297,
@@ -14555,6 +14579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109120,
+      "num": 109120,
+      "word": "六公主说檀健次的势头有点猛",
+      "onboard_time": 1760160801,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 109033,
       "num": 111722,
       "word": "阿维塔已支付引望10%股权全部价款",
@@ -16275,6 +16307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96754,
+      "num": 96754,
+      "word": "世界游泳冠军机场行窃被抓",
+      "onboard_time": 1760158341,
+      "rank": 44,
+      "category": "体育,海外新闻"
+    },
+    {
       "raw_hot": 96690,
       "num": 135873,
       "word": "李沁砍价也开始微醺了",
@@ -16441,6 +16481,14 @@
       "onboard_time": 1759987820,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 95420,
+      "num": 95420,
+      "word": "曾黎 睡前5分钟放下手机这样做",
+      "onboard_time": 1760160681,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 95402,
@@ -16761,6 +16809,14 @@
       "onboard_time": 1760147301,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93290,
+      "num": 93290,
+      "word": "张子枫宋佳角色名有点东西",
+      "onboard_time": 1760161041,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 93225,
@@ -17113,6 +17169,14 @@
       "onboard_time": 1759943418,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 90816,
+      "num": 104825,
+      "word": "王嘉尔 内娱最会泼水的男人",
+      "onboard_time": 1760160681,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 90783,
@@ -17745,6 +17809,14 @@
       "onboard_time": 1759934843,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 86174,
+      "num": 104571,
+      "word": "肖战藏海断层第一",
+      "onboard_time": 1760160441,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 85959,
@@ -19755,6 +19827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54449,
+      "num": 125027,
+      "word": "江语晨两个孩子近照",
+      "onboard_time": 1760159481,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54362,
       "num": 77364,
       "word": "阿尼西莫娃中网女单夺冠",
@@ -21161,14 +21241,6 @@
       "onboard_time": 1759784895,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23633,
-      "num": 125027,
-      "word": "江语晨两个孩子近照",
-      "onboard_time": 1760159481,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 23298,
