@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/12 00:27:55 ~ 2025/10/12 05:20:46
+本榜单时间：2025/10/12 00:27:55 ~ 2025/10/12 05:36:14
 </p>
 </blockquote>
 <p>
@@ -406,13 +406,19 @@ Doinb聊LPL和LCK训练环境（热度：18181）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%81%9C%E6%91%8611%E5%A4%A9%23" target="weibo">
-美政府停摆11天（热度：16007）
+美政府停摆11天（热度：16521）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E4%BA%BA%E9%83%BD%E8%BF%99%E4%B8%AA%E7%97%87%E7%8A%B6%E7%9C%9F%E7%9A%84%E9%9D%9E%E5%B8%B8%E7%BD%95%E8%A7%81%23" target="weibo">
 四人都这个症状真的非常罕见（热度：15919）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B8%B8%E9%A9%BB%E8%81%94%E5%90%88%E5%9B%BD%E4%BB%A3%E8%A1%A8%E7%82%B9%E5%90%8D%E7%BE%8E%E5%9B%BD%23" target="weibo">
+中国常驻联合国代表点名美国（热度：14575）
 </a>
 </li>
 
