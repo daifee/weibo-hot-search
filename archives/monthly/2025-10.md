@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/11 17:23:21
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/11 17:36:22
 </p>
 </blockquote>
 <p>
@@ -867,6 +867,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%85%E7%94%B5%E5%99%A8%E4%B8%80%E7%9B%B4%E4%B8%8D%E6%8B%94%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95%23" target="weibo">
+充电器一直不拔有多可怕（热度：1044342）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%9E%E4%BC%97%E6%9C%9B%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%E7%85%A7%23" target="weibo">
 庞众望回应女友发布结婚登记照（热度：1035926）
 </a>
@@ -1211,12 +1217,6 @@ Angelababy公主皇冠（热度：925479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E5%85%AC%E4%B8%BB%23" target="weibo">
 尚公主（热度：887154）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%85%E7%94%B5%E5%99%A8%E4%B8%80%E7%9B%B4%E4%B8%8D%E6%8B%94%E6%9C%89%E5%A4%9A%E5%8F%AF%E6%80%95%23" target="weibo">
-充电器一直不拔有多可怕（热度：886523）
 </a>
 </li>
 
@@ -1749,8 +1749,20 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF12%E5%85%8B%E9%87%91%E6%89%8B%E9%95%AF%E8%A2%AB%E5%81%B7%E5%B7%B2%E6%89%BE%E5%9B%9E%23" target="weibo">
+婴儿12克金手镯被偷已找回（热度：717909）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%E7%91%9E%E5%A3%AB%E5%BA%A6%E5%81%87%23" target="weibo">
 陈赫一家四口瑞士度假（热度：715109）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
+特朗普（热度：714908）
 </a>
 </li>
 
@@ -2039,12 +2051,6 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%A6%8D%E5%8F%88%E6%8A%8A%E5%8F%8C%E7%9C%BC%E7%9A%AE%E8%B4%B4%E5%93%AD%E6%8E%89%E4%BA%86%23" target="weibo">
 许妍又把双眼皮贴哭掉了（热度：657912）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF12%E5%85%8B%E9%87%91%E6%89%8B%E9%95%AF%E8%A2%AB%E5%81%B7%E5%B7%B2%E6%89%BE%E5%9B%9E%23" target="weibo">
-婴儿12克金手镯被偷已找回（热度：657894）
 </a>
 </li>
 
@@ -4353,6 +4359,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E5%8D%81%E5%91%A8%E5%B9%B4%E4%B8%89%E6%98%9F%E5%A0%86%E7%9A%AE%E8%82%A4%E9%A6%96%E6%9B%9D%23" target="weibo">
+王者十周年三星堆皮肤首曝（热度：376274）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23" target="weibo">
 王者荣耀（热度：376270）
 </a>
@@ -4533,6 +4545,12 @@ iPhone17系列激活量曝光（热度：374659）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%A9%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%A2%AB%E6%88%B3%E4%BC%A4%E5%A4%B1%E6%98%8E%23" target="weibo">
+官方通报男孩幼儿园被戳伤失明（热度：365344）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E9%97%AA%E7%88%86%E4%BA%8B%E6%95%85%E8%87%B41%E6%AD%BB2%E4%BC%A4%23" target="weibo">
 南京一小区发生闪爆事故致1死2伤（热度：365205）
 </a>
@@ -4637,12 +4655,6 @@ iPhone17系列激活量曝光（热度：374659）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A8%E5%B2%81%E5%84%BF%E5%AD%90%E8%BA%AB%E9%AB%98%23" target="weibo">
 黄磊8岁儿子身高（热度：355601）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%A9%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%A2%AB%E6%88%B3%E4%BC%A4%E5%A4%B1%E6%98%8E%23" target="weibo">
-官方通报男孩幼儿园被戳伤失明（热度：355456）
 </a>
 </li>
 
@@ -5111,12 +5123,6 @@ TF家族（热度：321156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B100%E8%8A%B1%E5%BC%80%E5%A7%8B%E6%BC%94%E5%A6%88%E4%BA%86%23" target="weibo">
 内娱00花开始演妈了（热度：319917）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
-特朗普（热度：319806）
 </a>
 </li>
 
@@ -5681,12 +5687,6 @@ G社拍的王俊凯巴黎看秀生图（热度：292362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%B8%8D%E5%80%92%E7%BF%81%E5%B0%8F%E5%A7%90%E5%A7%90%E6%8A%8A%E9%95%9C%E5%A4%B4%E7%BF%BB%E8%BD%AC%E8%BF%87%E6%9D%A5%23" target="weibo">
 当不倒翁小姐姐把镜头翻转过来（热度：291654）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E5%8D%81%E5%91%A8%E5%B9%B4%E4%B8%89%E6%98%9F%E5%A0%86%E7%9A%AE%E8%82%A4%E9%A6%96%E6%9B%9D%23" target="weibo">
-王者十周年三星堆皮肤首曝（热度：290862）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1760175382335,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1044342,
+        "num": 1167094,
+        "word": "充电器一直不拔有多可怕",
+        "onboard_time": 1760171301,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 717909,
+        "num": 717909,
+        "word": "婴儿12克金手镯被偷已找回",
+        "onboard_time": 1760172020,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31948,
+        "num": 715592,
+        "word": "我国海上发射一箭三星",
+        "onboard_time": 1760151983,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 714908,
+        "num": 714908,
+        "word": "特朗普",
+        "onboard_time": 1760173101,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 609620,
+        "num": 609620,
+        "word": "丽江市长李刚主动投案",
+        "onboard_time": 1760168780,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 428534,
+        "num": 428534,
+        "word": "中奖1000万男子回应打赏主播",
+        "onboard_time": 1760172200,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376274,
+        "num": 376274,
+        "word": "王者十周年三星堆皮肤首曝",
+        "onboard_time": 1760173221,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 365344,
+        "num": 365344,
+        "word": "官方通报男孩幼儿园被戳伤失明",
+        "onboard_time": 1760172681,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 274681,
+        "num": 274681,
+        "word": "驴友爬山捡剧毒蛇后轮流抚摸",
+        "onboard_time": 1760164280,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245672,
+        "num": 245672,
+        "word": "iPhone17系列激活量曝光",
+        "onboard_time": 1760167521,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 538152,
+        "num": 244627,
+        "word": "黄磊 彭昱畅比张艺兴长得好看",
+        "onboard_time": 1760169322,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403751,
+        "num": 243553,
+        "word": "新手机号注册网易云登到李玟账号",
+        "onboard_time": 1760167881,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388441,
+        "num": 243228,
+        "word": "哈士奇被砍伤有人到涉事门店摆花圈",
+        "onboard_time": 1760169860,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266262,
+        "num": 241357,
+        "word": "张晚意把李沁逗成啥样了",
+        "onboard_time": 1760173161,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18406,
+        "num": 240497,
+        "word": "李杰灵谈对抗焦虑的工作模式",
+        "onboard_time": 1760173940,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240102,
+        "num": 240102,
+        "word": "成都被砍伤哈士奇已安乐死",
+        "onboard_time": 1760158701,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192909,
+        "num": 192909,
+        "word": "裁判王楚钦上线",
+        "onboard_time": 1760170221,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124712,
+        "num": 191088,
+        "word": "消费10年后发现了拼多多的秘密",
+        "onboard_time": 1760173520,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165766,
+        "num": 190593,
+        "word": "叙利亚前总统阿萨德现沉迷电子游戏",
+        "onboard_time": 1760174900,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52199,
+        "num": 187182,
+        "word": "华小v谁将领跑中国手机市场",
+        "onboard_time": 1760173400,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 967839,
+        "num": 184520,
+        "word": "一奶落万奶生",
+        "onboard_time": 1760170461,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305064,
+        "num": 183479,
+        "word": "短短37秒吻戏床戏都上尺度了",
+        "onboard_time": 1760173461,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182031,
+        "num": 182031,
+        "word": "冯建宇经纪人发长文",
+        "onboard_time": 1760162902,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181339,
+        "num": 181339,
+        "word": "龚俊 关系熟了人也熟了",
+        "onboard_time": 1760173161,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165711,
+        "num": 165711,
+        "word": "小米SU7辅助泊车冲下路边草坡",
+        "onboard_time": 1760173221,
+        "rank": 24,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 157839,
+        "num": 157839,
+        "word": "毁牙第一名竟然不是可乐",
+        "onboard_time": 1760174060,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147830,
+        "num": 147830,
+        "word": "京东双11iPhone补贴超千元",
+        "onboard_time": 1760174841,
+        "rank": 26,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 142188,
+        "num": 142188,
+        "word": "为什么买东西不叫买南北",
+        "onboard_time": 1760174361,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137665,
+        "num": 137665,
+        "word": "周杰伦也成小众歌手了",
+        "onboard_time": 1760174121,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131432,
+        "num": 131432,
+        "word": "张杰带谢娜下场打球",
+        "onboard_time": 1760171961,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127462,
+        "num": 127462,
+        "word": "内娱00花开始演妈了",
+        "onboard_time": 1760163922,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116008,
+        "num": 116008,
+        "word": "刘宇宁在韩国连续6周荣获第一",
+        "onboard_time": 1760175140,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115827,
+        "num": 115827,
+        "word": "苹果 果张力",
+        "onboard_time": 1760171181,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115815,
+        "num": 115815,
+        "word": "特朗普对华关税恐吓把美股吓出心脏病了",
+        "onboard_time": 1760154622,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106530,
+        "num": 106530,
+        "word": "成毅不愧是bg剧爆出来的",
+        "onboard_time": 1760170761,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113632,
+        "num": 104571,
+        "word": "张继科说凭啥不知情时换教练",
+        "onboard_time": 1760156782,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102301,
+        "num": 102301,
+        "word": "樊振东的照片有种宿命感",
+        "onboard_time": 1760174900,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101318,
+        "num": 101318,
+        "word": "穿裙子的小小孙颖莎",
+        "onboard_time": 1760171961,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100687,
+        "num": 100687,
+        "word": "杨瀚森大爆发",
+        "onboard_time": 1760159422,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91369,
+        "num": 100664,
+        "word": "网友称曹氏鸭脖麻辣烫中吃出壁虎",
+        "onboard_time": 1760174661,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100647,
+        "num": 100647,
+        "word": "时代峰峻你怎么这么命好",
+        "onboard_time": 1760166621,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99511,
+        "num": 99511,
+        "word": "男孩被戳伤失明幼儿园已支付27万",
+        "onboard_time": 1760173641,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 98318,
+        "num": 98318,
+        "word": "闫妮关晓彤还笑呢",
+        "onboard_time": 1760175081,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96776,
+        "num": 96776,
+        "word": "狐妖小红娘王权篇官宣改名天地剑心",
+        "onboard_time": 1760163980,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96419,
+        "num": 96419,
+        "word": "黄子弘凡聊天记录被发出来了",
+        "onboard_time": 1760155522,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92993,
+        "num": 92993,
+        "word": "于正巡视于歪广场",
+        "onboard_time": 1760169561,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90833,
+        "num": 90833,
+        "word": "流量不是长剧万能药",
+        "onboard_time": 1760175320,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54334,
+        "num": 90694,
+        "word": "视界大会前十只有迪丽热巴一个女明星",
+        "onboard_time": 1760173760,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38500,
+        "num": 90616,
+        "word": "人生最想重来的一幕",
+        "onboard_time": 1760173400,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90563,
+        "num": 90563,
+        "word": "NBA主席称杨瀚森有前途",
+        "onboard_time": 1760175260,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心妇女事业发展的故事#"
+    }
+  }
+}
