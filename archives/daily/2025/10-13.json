@@ -1,6 +1,6 @@
 {
   "startTime": 1760286516759,
-  "endTime": 1760308705558,
+  "endTime": 1760311354006,
   "band_list": [
     {
       "raw_hot": 672384,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 519032,
+      "num": 94340,
+      "word": "多位明星都曾就读北大光华EMBA",
+      "onboard_time": 1760297774,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 450335,
       "num": 163884,
       "word": "鲁 俺想你了",
@@ -75,20 +83,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 240669,
-      "num": 48676,
-      "word": "多位明星都曾就读北大光华EMBA",
-      "onboard_time": 1760297774,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 220000,
       "num": 220000,
       "word": "白桃星座",
       "onboard_time": 1760284281,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219851,
+      "num": 219851,
+      "word": "放假8天7天半掰玉米大学生回应质疑",
+      "onboard_time": 1760279902,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203390,
@@ -129,14 +137,6 @@
       "onboard_time": 1760250799,
       "rank": 7,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 169338,
-      "num": 169338,
-      "word": "放假8天7天半掰玉米大学生回应质疑",
-      "onboard_time": 1760279902,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167068,
@@ -195,6 +195,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 114812,
+      "num": 114812,
+      "word": "阿富汗巴基斯坦冲突子弹来回穿梭",
+      "onboard_time": 1760290756,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 111786,
       "num": 111786,
       "word": "网友偶遇戚薇北大考试",
@@ -208,6 +216,14 @@
       "word": "晋A99999劳斯莱斯1544000元起拍",
       "onboard_time": 1760267480,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97851,
+      "num": 97851,
+      "word": "获1300万拆迁款被判刑男子发声",
+      "onboard_time": 1760265861,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -235,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94552,
-      "num": 94552,
-      "word": "获1300万拆迁款被判刑男子发声",
-      "onboard_time": 1760265861,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93633,
       "num": 93633,
       "word": "早田希娜2比3金琴英",
@@ -257,6 +265,22 @@
       "onboard_time": 1760280500,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 81921,
+      "num": 63876,
+      "word": "沈佳润说爸爸妈妈抱团很严重",
+      "onboard_time": 1760310918,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 80136,
+      "num": 88679,
+      "word": "服装店的秋装卖不动了",
+      "onboard_time": 1760262141,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78324,
@@ -275,12 +299,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 75699,
-      "num": 75699,
-      "word": "阿富汗巴基斯坦冲突子弹来回穿梭",
-      "onboard_time": 1760290756,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 73264,
+      "num": 73264,
+      "word": "比特币又跳水",
+      "onboard_time": 1760310979,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 72835,
@@ -297,6 +321,14 @@
       "onboard_time": 1760288178,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71407,
+      "num": 71407,
+      "word": "带状疱疹病毒激活的三大信号",
+      "onboard_time": 1760311038,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 71079,
@@ -339,6 +371,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64702,
+      "num": 64702,
+      "word": "管泽元预测T1对战iG比分",
+      "onboard_time": 1760311098,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 64596,
+      "num": 48834,
+      "word": "再懒都要做凯格尔运动",
+      "onboard_time": 1760311038,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 63947,
       "num": 88660,
       "word": "李沁陈哲远亲密戏",
@@ -361,6 +409,14 @@
       "onboard_time": 1760281401,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 61492,
+      "num": 61492,
+      "word": "黑神话悟空更新",
+      "onboard_time": 1760311219,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 60999,
@@ -395,14 +451,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56875,
-      "num": 88679,
-      "word": "服装店的秋装卖不动了",
-      "onboard_time": 1760262141,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55078,
       "num": 88646,
       "word": "高反失温女孩母亲回应轻松筹争议",
@@ -427,12 +475,52 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 50603,
+      "num": 50603,
+      "word": "吃饭顺序对血糖的影响有多大",
+      "onboard_time": 1760303654,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 50501,
+      "num": 50501,
+      "word": "余承恩震惊果果不是井迪的孩子",
+      "onboard_time": 1760310857,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47434,
       "num": 60349,
       "word": "蒙曼在长江上合唱长江之歌",
       "onboard_time": 1760282840,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43995,
+      "num": 43995,
+      "word": "从百草园到三味书屋到底多远",
+      "onboard_time": 1760310016,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 39026,
+      "num": 43953,
+      "word": "第一次见从浙江农村去贵州县城上学",
+      "onboard_time": 1760310438,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 37419,
+      "num": 43900,
+      "word": "李昀锐某来交作业",
+      "onboard_time": 1760311157,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 36685,
@@ -443,20 +531,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36488,
-      "num": 35730,
-      "word": "吃饭顺序对血糖的影响有多大",
-      "onboard_time": 1760303654,
-      "rank": 47,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 36191,
       "num": 81861,
       "word": "张杰演唱会",
       "onboard_time": 1760271620,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 31392,
+      "num": 43783,
+      "word": "垫底辣孩自曝拿到了八大美院的合格证",
+      "onboard_time": 1760257221,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 31031,
@@ -467,20 +555,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30739,
+      "num": 43725,
+      "word": "暗河传",
+      "onboard_time": 1760277441,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30185,
+      "num": 43646,
+      "word": "王暖暖称会上诉追讨前夫盗窃的钱",
+      "onboard_time": 1760298434,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23976,
       "num": 88754,
       "word": "院士合影成生意有商家报价3万起步",
       "onboard_time": 1760285479,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23068,
-      "num": 35627,
-      "word": "暗河传",
-      "onboard_time": 1760277441,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 19987,
@@ -497,22 +593,6 @@
       "onboard_time": 1760291476,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18831,
-      "num": 35545,
-      "word": "垫底辣孩自曝拿到了八大美院的合格证",
-      "onboard_time": 1760257221,
-      "rank": 44,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 17801,
-      "num": 35517,
-      "word": "王暖暖称会上诉追讨前夫盗窃的钱",
-      "onboard_time": 1760298434,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 16816,

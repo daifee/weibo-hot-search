@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760308705558,
+  "endTime": 1760311354006,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -4416,6 +4416,14 @@
       "word": "胡歌带老婆上海看房",
       "onboard_time": 1760073141,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 519032,
+      "num": 94340,
+      "word": "多位明星都曾就读北大光华EMBA",
+      "onboard_time": 1760297774,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -9955,14 +9963,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 240669,
-      "num": 48676,
-      "word": "多位明星都曾就读北大光华EMBA",
-      "onboard_time": 1760297774,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 240484,
       "num": 240484,
       "word": "时代峰峻楼下 拍立得发布会",
@@ -10785,6 +10785,14 @@
       "onboard_time": 1759494621,
       "rank": 20,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 219851,
+      "num": 219851,
+      "word": "放假8天7天半掰玉米大学生回应质疑",
+      "onboard_time": 1760279902,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219782,
@@ -14801,14 +14809,6 @@
       "onboard_time": 1759645280,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169338,
-      "num": 169338,
-      "word": "放假8天7天半掰玉米大学生回应质疑",
-      "onboard_time": 1760279902,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169293,
@@ -23929,6 +23929,14 @@
       "onboard_time": 1759822641,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114812,
+      "num": 114812,
+      "word": "阿富汗巴基斯坦冲突子弹来回穿梭",
+      "onboard_time": 1760290756,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114767,
@@ -33539,6 +33547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81921,
+      "num": 63876,
+      "word": "沈佳润说爸爸妈妈抱团很严重",
+      "onboard_time": 1760310918,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81894,
       "num": 81894,
       "word": "馒头月饼出现了",
@@ -34611,14 +34627,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 75699,
-      "num": 75699,
-      "word": "阿富汗巴基斯坦冲突子弹来回穿梭",
-      "onboard_time": 1760290756,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 75612,
       "num": 75612,
       "word": "上海时装周内衣外穿走秀引热议",
@@ -34939,6 +34947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 73264,
+      "num": 73264,
+      "word": "比特币又跳水",
+      "onboard_time": 1760310979,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 73240,
       "num": 93978,
       "word": "曝S15陪练团中单",
@@ -35177,6 +35193,14 @@
       "onboard_time": 1759370479,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71407,
+      "num": 71407,
+      "word": "带状疱疹病毒激活的三大信号",
+      "onboard_time": 1760311038,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 71384,
@@ -35979,6 +36003,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 64702,
+      "num": 64702,
+      "word": "管泽元预测T1对战iG比分",
+      "onboard_time": 1760311098,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 64596,
+      "num": 48834,
+      "word": "再懒都要做凯格尔运动",
+      "onboard_time": 1760311038,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 64566,
       "num": 915825,
       "word": "县域旅游已成为一种时尚",
@@ -36233,6 +36273,14 @@
       "onboard_time": 1759633820,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61492,
+      "num": 61492,
+      "word": "黑神话悟空更新",
+      "onboard_time": 1760311219,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 61389,
@@ -37331,6 +37379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50603,
+      "num": 50603,
+      "word": "吃饭顺序对血糖的影响有多大",
+      "onboard_time": 1760303654,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 50578,
       "num": 50578,
       "word": "王者timi和游戏胜利画面更新",
@@ -37353,6 +37409,14 @@
       "onboard_time": 1760171900,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50501,
+      "num": 50501,
+      "word": "余承恩震惊果果不是井迪的孩子",
+      "onboard_time": 1760310857,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 50385,
@@ -37883,6 +37947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43995,
+      "num": 43995,
+      "word": "从百草园到三味书屋到底多远",
+      "onboard_time": 1760310016,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 43872,
       "num": 147791,
       "word": "王曼昱3比0巴特拉",
@@ -38243,6 +38315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 39026,
+      "num": 43953,
+      "word": "第一次见从浙江农村去贵州县城上学",
+      "onboard_time": 1760310438,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 38992,
       "num": 38992,
       "word": "王楚钦中国大满贯冠军自拍",
@@ -38355,6 +38435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37419,
+      "num": 43900,
+      "word": "李昀锐某来交作业",
+      "onboard_time": 1760311157,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37272,
       "num": 54721,
       "word": "十个勤天万里长歌",
@@ -38433,14 +38521,6 @@
       "onboard_time": 1759569860,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36488,
-      "num": 35730,
-      "word": "吃饭顺序对血糖的影响有多大",
-      "onboard_time": 1760303654,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 36404,
@@ -39009,6 +39089,14 @@
       "onboard_time": 1760106024,
       "rank": 23,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 30185,
+      "num": 43646,
+      "word": "王暖暖称会上诉追讨前夫盗窃的钱",
+      "onboard_time": 1760298434,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30126,
@@ -39944,14 +40032,6 @@
       "word": "女游客海拔4700米高反被困求救",
       "onboard_time": 1759559120,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17801,
-      "num": 35517,
-      "word": "王暖暖称会上诉追讨前夫盗窃的钱",
-      "onboard_time": 1760298434,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
