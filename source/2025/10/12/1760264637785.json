@@ -1,0 +1,410 @@
+{
+  "runTime": 1760264637785,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 969193,
+        "num": 1155071,
+        "word": "美国女子在迪士尼鬼屋被吓死",
+        "onboard_time": 1760261060,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 898245,
+        "num": 898245,
+        "word": "冰箱贴已经比冰箱贵了",
+        "onboard_time": 1760253620,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 51029,
+        "num": 580124,
+        "word": "中国天眼已发现1152颗脉冲星",
+        "onboard_time": 1760242461,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 577559,
+        "num": 577559,
+        "word": "中国已确立11颗金钉子",
+        "onboard_time": 1760250799,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 557204,
+        "num": 557204,
+        "word": "海鲜价格暴跌了",
+        "onboard_time": 1760260640,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390928,
+        "num": 390928,
+        "word": "雷军被8000元小刀价格惊呆了",
+        "onboard_time": 1760256439,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 247055,
+        "num": 247055,
+        "word": "解清帅婚宴每桌30个菜2499元",
+        "onboard_time": 1760256439,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237675,
+        "num": 237675,
+        "word": "巴基斯坦",
+        "onboard_time": 1760248101,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224236,
+        "num": 224236,
+        "word": "四川芦山4.7级地震",
+        "onboard_time": 1760255179,
+        "rank": 8,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 199333,
+        "num": 199333,
+        "word": "高通公司承认了相关事实",
+        "onboard_time": 1760259681,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1158407,
+        "num": 199207,
+        "word": "网友偶遇戚薇北大考试",
+        "onboard_time": 1760262020,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 853267,
+        "num": 199173,
+        "word": "垫底辣孩自曝拿到了八大美院的合格证",
+        "onboard_time": 1760257221,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 659476,
+        "num": 198901,
+        "word": "李一桐造型",
+        "onboard_time": 1760260099,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363607,
+        "num": 198857,
+        "word": "这和Angelababy约会有什么区别",
+        "onboard_time": 1760256380,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300700,
+        "num": 198667,
+        "word": "于正认领张慧雯是许凯新剧女主",
+        "onboard_time": 1760255720,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256589,
+        "num": 198460,
+        "word": "三部大男主剧同期开播",
+        "onboard_time": 1760250562,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220225,
+        "num": 198304,
+        "word": "曝LPL俱乐部投入",
+        "onboard_time": 1760261120,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198257,
+        "num": 198257,
+        "word": "一笑随歌翻身仗",
+        "onboard_time": 1760256739,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195226,
+        "num": 195226,
+        "word": "沈佳润事业运",
+        "onboard_time": 1760257760,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167368,
+        "num": 167368,
+        "word": "特朗普扬言限制波音零部件对华出口",
+        "onboard_time": 1760257100,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 216531,
+        "num": 163463,
+        "word": "余承恩被外甥女叫爸爸吓出冷汗",
+        "onboard_time": 1760262620,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146384,
+        "num": 146384,
+        "word": "周杰伦发文告别嘉年华巡演",
+        "onboard_time": 1760264240,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145880,
+        "num": 145880,
+        "word": "带头下馆子区委书记骑自行车告别",
+        "onboard_time": 1760261721,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142272,
+        "num": 142272,
+        "word": "南北cp",
+        "onboard_time": 1760240900,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140730,
+        "num": 140730,
+        "word": "员工拉桌子碰碎近50个和田玉镯",
+        "onboard_time": 1760261240,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139657,
+        "num": 139657,
+        "word": "石凯暗流",
+        "onboard_time": 1760263161,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137190,
+        "num": 137190,
+        "word": "被田曦薇一套饭撒小连招美晕了",
+        "onboard_time": 1760263400,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126202,
+        "num": 126202,
+        "word": "被74岁刘銮雄的气场震着了",
+        "onboard_time": 1760255541,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118161,
+        "num": 118161,
+        "word": "服装店的秋装卖不动了",
+        "onboard_time": 1760262141,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115448,
+        "num": 115448,
+        "word": "一胎过成了二胎的待遇",
+        "onboard_time": 1760254941,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122638,
+        "num": 114952,
+        "word": "我那薪资是我5倍多的领导",
+        "onboard_time": 1760261481,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111312,
+        "num": 111312,
+        "word": "藏海传全员扛着音响向藏海走来",
+        "onboard_time": 1760263640,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110846,
+        "num": 110846,
+        "word": "CCTV认证断层第一的电视剧",
+        "onboard_time": 1760238620,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107003,
+        "num": 107003,
+        "word": "老板回应员工挪桌打碎百万玉镯",
+        "onboard_time": 1760260520,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106996,
+        "num": 106996,
+        "word": "孙红雷左手张艺兴右手刘宇宁",
+        "onboard_time": 1760259381,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96282,
+        "num": 96282,
+        "word": "还是村医敢下药",
+        "onboard_time": 1760262201,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95688,
+        "num": 95688,
+        "word": "白鹿想染头发",
+        "onboard_time": 1760247382,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93296,
+        "num": 93296,
+        "word": "魔卡少女樱画风男模变馍",
+        "onboard_time": 1760260281,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 88554,
+        "num": 88554,
+        "word": "长期不吃早餐身体的危害",
+        "onboard_time": 1760264181,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86398,
+        "num": 86398,
+        "word": "月入几万才跑得起马拉松",
+        "onboard_time": 1760262681,
+        "rank": 39,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 81941,
+        "num": 81941,
+        "word": "喜人奇妙夜第三期笑后感",
+        "onboard_time": 1760261540,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81796,
+        "num": 81796,
+        "word": "白鹿来了也不好使",
+        "onboard_time": 1760257700,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76756,
+        "num": 76756,
+        "word": "短袖从四五月穿到十月",
+        "onboard_time": 1760264181,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76670,
+        "num": 76670,
+        "word": "菲律宾叫嚣黄岩岛动工不会坐视不管",
+        "onboard_time": 1760261420,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75553,
+        "num": 75553,
+        "word": "广东人在等一个有实力的冷空气",
+        "onboard_time": 1760259439,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74474,
+        "num": 74474,
+        "word": "雷军回应没舍得买8000元小刀",
+        "onboard_time": 1760261839,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 74008,
+        "num": 74008,
+        "word": "近距离感受国之重器震撼4秒",
+        "onboard_time": 1760263580,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73954,
+        "num": 73954,
+        "word": "为什么商场里的马桶越来越多了",
+        "onboard_time": 1760256861,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71210,
+        "num": 71210,
+        "word": "菲律宾恶意擦碰中国海警船现场视频",
+        "onboard_time": 1760264541,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65477,
+        "num": 71204,
+        "word": "法考 李佳",
+        "onboard_time": 1760250200,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对广大妇女的温暖寄语#"
+    }
+  }
+}
