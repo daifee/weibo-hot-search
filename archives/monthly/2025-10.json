@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760301504093,
+  "endTime": 1760304088346,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -34483,6 +34483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76698,
+      "num": 23683,
+      "word": "多位明星都曾就读北大光华EMBA",
+      "onboard_time": 1760297774,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76677,
       "num": 76677,
       "word": "王者S41新赛季天元",
@@ -34497,14 +34505,6 @@
       "onboard_time": 1760261420,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 76527,
-      "num": 23683,
-      "word": "多位明星都曾就读北大光华EMBA",
-      "onboard_time": 1760297774,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 76516,
@@ -40204,7 +40204,7 @@
     },
     {
       "raw_hot": 14114,
-      "num": 16367,
+      "num": 16395,
       "word": "以前型人格",
       "onboard_time": 1760298915,
       "rank": 25,
@@ -40307,8 +40307,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 12539,
-      "num": 16325,
+      "raw_hot": 12600,
+      "num": 16345,
       "word": "王暖暖称会上诉追讨前夫盗窃的钱",
       "onboard_time": 1760298434,
       "rank": 39,
@@ -40345,6 +40345,14 @@
       "onboard_time": 1760037134,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 12098,
+      "num": 16330,
+      "word": "美国密西西比州枪击事件已致4死12伤",
+      "onboard_time": 1760300953,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11697,
@@ -40473,14 +40481,6 @@
       "onboard_time": 1760300653,
       "rank": 48,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 9850,
-      "num": 14082,
-      "word": "美国密西西比州枪击事件已致4死12伤",
-      "onboard_time": 1760300953,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 9731,
