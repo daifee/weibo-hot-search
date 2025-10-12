@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 16:29:50
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 16:41:51
 </p>
 </blockquote>
 <p>
@@ -1203,6 +1203,12 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E7%AE%B1%E8%B4%B4%E5%B7%B2%E7%BB%8F%E6%AF%94%E5%86%B0%E7%AE%B1%E8%B4%B5%E4%BA%86%23" target="weibo">
+冰箱贴已经比冰箱贵了（热度：924556）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B2%E9%83%A8%E5%8F%97%E8%B4%BF95%E5%8F%AA%E9%B8%BD%E5%AD%90%E4%BB%B7%E5%80%BC132%E4%B8%87%23" target="weibo">
 干部受贿95只鸽子价值132万（热度：920371）
 </a>
@@ -1313,12 +1319,6 @@ Angelababy公主皇冠（热度：925479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E6%9A%97%E7%A4%BA%E5%8F%AF%E8%83%BD%E7%88%86%E5%8F%91%E6%96%B0%E6%88%98%E4%BA%89%23" target="weibo">
 武契奇暗示可能爆发新战争（热度：881454）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E7%AE%B1%E8%B4%B4%E5%B7%B2%E7%BB%8F%E6%AF%94%E5%86%B0%E7%AE%B1%E8%B4%B5%E4%BA%86%23" target="weibo">
-冰箱贴已经比冰箱贵了（热度：880070）
 </a>
 </li>
 
@@ -2007,6 +2007,12 @@ CCTV认证断层第一的电视剧（热度：691065）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%AE%A4%E9%A2%86%E5%BC%A0%E6%85%A7%E9%9B%AF%E6%98%AF%E8%AE%B8%E5%87%AF%E6%96%B0%E5%89%A7%E5%A5%B3%E4%B8%BB%23" target="weibo">
+于正认领张慧雯是许凯新剧女主（热度：690760）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E4%B9%90%E4%B8%89%E8%BF%9E%E6%80%BC%E7%A5%9D%E7%BB%AA%E4%B8%B9%23" target="weibo">
 管乐三连怼祝绪丹（热度：690662）
 </a>
@@ -2327,12 +2333,6 @@ JDG输越南队（热度：648751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%20%E8%BF%99%E4%B8%8D%E7%A5%9E%E7%BB%8F%E7%97%85%E5%90%97%23" target="weibo">
 张颂文 这不神经病吗（热度：632850）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%AE%A4%E9%A2%86%E5%BC%A0%E6%85%A7%E9%9B%AF%E6%98%AF%E8%AE%B8%E5%87%AF%E6%96%B0%E5%89%A7%E5%A5%B3%E4%B8%BB%23" target="weibo">
-于正认领张慧雯是许凯新剧女主（热度：632712）
 </a>
 </li>
 
@@ -3561,6 +3561,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%A2%AB8000%E5%85%83%E5%B0%8F%E5%88%80%E4%BB%B7%E6%A0%BC%E6%83%8A%E5%91%86%E4%BA%86%23" target="weibo">
+雷军被8000元小刀价格惊呆了（热度：480311）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23VaVa%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%88%86%E6%89%8B%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%B5%AA%E5%A7%90%23" target="weibo">
 VaVa说自己分手是因为浪姐（热度：480031）
 </a>
@@ -4311,12 +4317,6 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%A2%AB8000%E5%85%83%E5%B0%8F%E5%88%80%E4%BB%B7%E6%A0%BC%E6%83%8A%E5%91%86%E4%BA%86%23" target="weibo">
-雷军被8000元小刀价格惊呆了（热度：415959）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%AF%9E%20%E7%8E%8B%E5%AE%89%E5%AE%87%E6%80%8E%E4%B9%88%E8%BF%99%E4%B9%88%E5%B8%85%23" target="weibo">
 李诞 王安宇怎么这么帅（热度：415858）
 </a>
@@ -4907,6 +4907,12 @@ iPhone17系列激活量曝光（热度：374659）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E8%A3%81%E5%88%A4%E6%9C%80%E5%A4%A7%23" target="weibo">
 王楚钦说裁判最大（热度：367588）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%B8%85%E5%B8%85%E5%A9%9A%E5%AE%B4%E6%AF%8F%E6%A1%8C30%E4%B8%AA%E8%8F%9C2499%E5%85%83%23" target="weibo">
+解清帅婚宴每桌30个菜2499元（热度：367216）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ offer7播一半淘汰了三个人（热度：311785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E4%B8%8D%E8%A6%81%E8%80%81%E5%8F%AB%E6%88%91%E5%A6%88%E5%A6%88%23" target="weibo">
 李一桐不要老叫我妈妈（热度：297963）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E6%80%8E%E4%B9%88%E7%BE%8E%E6%88%90%E8%BF%99%E6%A0%B7%23" target="weibo">
-刘诗诗怎么美成这样（热度：297956）
 </a>
 </li>
 

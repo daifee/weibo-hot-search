@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760257790374,
+  "endTime": 1760258511542,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -43,20 +43,20 @@
       "category": "民生新闻,民生新闻"
     },
     {
+      "raw_hot": 924556,
+      "num": 1147929,
+      "word": "冰箱贴已经比冰箱贵了",
+      "onboard_time": 1760253620,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 912924,
       "num": 217844,
       "word": "迪丽热巴申请限消邓氏阿嬷手作",
       "onboard_time": 1760195961,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 880070,
-      "num": 880070,
-      "word": "冰箱贴已经比冰箱贵了",
-      "onboard_time": 1760253620,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 810388,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 717562,
-      "num": 205454,
+      "num": 277066,
       "word": "三部大男主剧同期开播",
       "onboard_time": 1760250562,
       "rank": 19,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 690760,
+      "num": 281625,
+      "word": "于正认领张慧雯是许凯新剧女主",
+      "onboard_time": 1760255720,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 674573,
       "num": 282356,
       "word": "马思纯 自然得像没搞一样",
@@ -137,14 +145,6 @@
       "onboard_time": 1760186182,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 632712,
-      "num": 171630,
-      "word": "于正认领张慧雯是许凯新剧女主",
-      "onboard_time": 1760255720,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 613237,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 502105,
-      "num": 205730,
+      "num": 213022,
       "word": "白鹿想染头发",
       "onboard_time": 1760247382,
       "rank": 19,
@@ -217,6 +217,14 @@
       "onboard_time": 1760230340,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 480311,
+      "num": 480311,
+      "word": "雷军被8000元小刀价格惊呆了",
+      "onboard_time": 1760256439,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 477334,
@@ -323,14 +331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 415959,
-      "num": 415959,
-      "word": "雷军被8000元小刀价格惊呆了",
-      "onboard_time": 1760256439,
-      "rank": 4,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 399335,
       "num": 399335,
       "word": "千万富翁给丢失25年儿子婚礼办40桌",
@@ -369,6 +369,14 @@
       "onboard_time": 1760179580,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 367216,
+      "num": 367216,
+      "word": "解清帅婚宴每桌30个菜2499元",
+      "onboard_time": 1760256439,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 356214,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 284688,
-      "num": 162453,
+      "num": 199467,
       "word": "被74岁刘銮雄的气场震着了",
       "onboard_time": 1760255541,
       "rank": 21,
@@ -491,20 +499,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271153,
+      "num": 271153,
+      "word": "垫底辣孩自曝拿到了八大美院的合格证",
+      "onboard_time": 1760257221,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 267805,
       "num": 248997,
       "word": "张晚意李沁还好生在和平年代",
       "onboard_time": 1760241260,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 267183,
-      "num": 267183,
-      "word": "解清帅婚宴每桌30个菜2499元",
-      "onboard_time": 1760256439,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 257619,
@@ -529,6 +537,14 @@
       "onboard_time": 1760229919,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243954,
+      "num": 243954,
+      "word": "这和Angelababy约会有什么区别",
+      "onboard_time": 1760256380,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 233315,
@@ -563,6 +579,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219774,
+      "num": 219774,
+      "word": "一笑随歌翻身仗",
+      "onboard_time": 1760256739,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 218234,
+      "num": 218234,
+      "word": "一胎过成了二胎的待遇",
+      "onboard_time": 1760254941,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217728,
       "num": 114775,
       "word": "魏大勋连续三年给孟宴臣庆生",
@@ -579,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208760,
+      "num": 208760,
+      "word": "沈佳润事业运",
+      "onboard_time": 1760257760,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201729,
       "num": 201729,
       "word": "一个镜头拉满生理性恐惧",
@@ -592,6 +632,14 @@
       "word": "舒淇尹浩宇 姐狗",
       "onboard_time": 1760235320,
       "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199589,
+      "num": 199589,
+      "word": "侯明昊卢昱晓早期留子味",
+      "onboard_time": 1760254162,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -619,28 +667,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 195865,
-      "num": 165989,
-      "word": "这和Angelababy约会有什么区别",
-      "onboard_time": 1760256380,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195234,
       "num": 195234,
       "word": "保时捷女销冠晒行政处罚决定书",
       "onboard_time": 1760237120,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193107,
-      "num": 164751,
-      "word": "侯明昊卢昱晓早期留子味",
-      "onboard_time": 1760254162,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 191592,
@@ -665,22 +697,6 @@
       "onboard_time": 1760246721,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 183719,
-      "num": 164356,
-      "word": "一笑随歌翻身仗",
-      "onboard_time": 1760256739,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 180486,
-      "num": 117934,
-      "word": "垫底辣孩自曝拿到了八大美院的合格证",
-      "onboard_time": 1760257221,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 179058,
@@ -713,6 +729,14 @@
       "onboard_time": 1760239460,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 175823,
+      "num": 175823,
+      "word": "我家那闺女",
+      "onboard_time": 1760253620,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 175257,
@@ -777,14 +801,6 @@
       "onboard_time": 1760252120,
       "rank": 27,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 162258,
-      "num": 162258,
-      "word": "一胎过成了二胎的待遇",
-      "onboard_time": 1760254941,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 161444,
@@ -915,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141417,
+      "num": 141417,
+      "word": "第一次见逛街是女主拎包的剧",
+      "onboard_time": 1760257940,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139979,
       "num": 139979,
       "word": "阿富汗巴基斯坦边境深夜激战",
@@ -971,20 +995,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 132892,
-      "num": 132892,
-      "word": "我家那闺女",
-      "onboard_time": 1760253620,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130644,
       "num": 130644,
       "word": "王影璐无邪路透兔子警官",
       "onboard_time": 1760246840,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127774,
+      "num": 127774,
+      "word": "甘肃兰州闪爆事故致1死1伤",
+      "onboard_time": 1760256861,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126095,
@@ -1043,6 +1067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 122803,
+      "num": 122803,
+      "word": "特朗普扬言限制波音零部件对华出口",
+      "onboard_time": 1760257100,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 122362,
       "num": 122362,
       "word": "家里最没用的攻击家里最有用的",
@@ -1097,6 +1129,14 @@
       "onboard_time": 1760235560,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115341,
+      "num": 115341,
+      "word": "大冰快从于适身上下来",
+      "onboard_time": 1760255179,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 114856,
@@ -1203,12 +1243,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106405,
-      "num": 106405,
-      "word": "大冰快从于适身上下来",
-      "onboard_time": 1760255179,
-      "rank": 33,
-      "category": "电影"
+      "raw_hot": 106635,
+      "num": 106635,
+      "word": "为什么商场里的马桶越来越多了",
+      "onboard_time": 1760256861,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106212,
@@ -1225,6 +1265,14 @@
       "onboard_time": 1760255781,
       "rank": 34,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 105777,
+      "num": 105777,
+      "word": "痴情的长公主请再等一世吧",
+      "onboard_time": 1760258240,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 105740,
@@ -1249,14 +1297,6 @@
       "onboard_time": 1760237719,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105409,
-      "num": 105409,
-      "word": "甘肃兰州闪爆事故致1死1伤",
-      "onboard_time": 1760256861,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104607,
@@ -1315,14 +1355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98939,
-      "num": 98939,
-      "word": "为什么商场里的马桶越来越多了",
-      "onboard_time": 1760256861,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98392,
       "num": 161395,
       "word": "张晚意一看在家就没少和姐姐斗嘴",
@@ -1361,14 +1393,6 @@
       "onboard_time": 1760240719,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 95496,
-      "num": 95496,
-      "word": "特朗普扬言限制波音零部件对华出口",
-      "onboard_time": 1760257100,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 94880,
@@ -1539,14 +1563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87165,
-      "num": 87165,
-      "word": "沈佳润事业运",
-      "onboard_time": 1760257760,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 87071,
       "num": 87071,
       "word": "许我耀眼反转",
@@ -1555,12 +1571,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86547,
+      "num": 97101,
+      "word": "白鹿来了也不好使",
+      "onboard_time": 1760257700,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85406,
       "num": 85406,
       "word": "法考主观题答案",
       "onboard_time": 1760253681,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 85296,
+      "num": 85296,
+      "word": "卖麻糍一天能赚多少钱",
+      "onboard_time": 1760257340,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 85259,
@@ -1675,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80838,
+      "num": 80838,
+      "word": "时装周最亮眼艺人",
+      "onboard_time": 1760257400,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 80520,
       "num": 80520,
       "word": "特朗普要求确保发军饷",
@@ -1777,6 +1817,14 @@
       "onboard_time": 1760198481,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 71330,
+      "num": 95520,
+      "word": "生花换乘恋爱 换着换着就合适了",
+      "onboard_time": 1760258060,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 71228,
@@ -2001,14 +2049,6 @@
       "onboard_time": 1760249180,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46223,
-      "num": 97101,
-      "word": "白鹿来了也不好使",
-      "onboard_time": 1760257700,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 44431,

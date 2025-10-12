@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760257790374,
+  "endTime": 1760258511542,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1587,6 +1587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 924556,
+      "num": 1147929,
+      "word": "冰箱贴已经比冰箱贵了",
+      "onboard_time": 1760253620,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 920371,
       "num": 1147259,
       "word": "干部受贿95只鸽子价值132万",
@@ -1737,14 +1745,6 @@
       "onboard_time": 1759680801,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 880070,
-      "num": 880070,
-      "word": "冰箱贴已经比冰箱贵了",
-      "onboard_time": 1760253620,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 879839,
@@ -2468,7 +2468,7 @@
     },
     {
       "raw_hot": 717562,
-      "num": 205454,
+      "num": 277066,
       "word": "三部大男主剧同期开播",
       "onboard_time": 1760250562,
       "rank": 19,
@@ -2656,6 +2656,14 @@
       "word": "CCTV认证断层第一的电视剧",
       "onboard_time": 1760238620,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 690760,
+      "num": 281625,
+      "word": "于正认领张慧雯是许凯新剧女主",
+      "onboard_time": 1760255720,
+      "rank": 10,
       "category": "剧集"
     },
     {
@@ -3089,14 +3097,6 @@
       "onboard_time": 1759323742,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 632712,
-      "num": 171630,
-      "word": "于正认领张慧雯是许凯新剧女主",
-      "onboard_time": 1760255720,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 632624,
@@ -4428,7 +4428,7 @@
     },
     {
       "raw_hot": 502105,
-      "num": 205730,
+      "num": 213022,
       "word": "白鹿想染头发",
       "onboard_time": 1760247382,
       "rank": 19,
@@ -4729,6 +4729,14 @@
       "onboard_time": 1759980138,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 480311,
+      "num": 480311,
+      "word": "雷军被8000元小刀价格惊呆了",
+      "onboard_time": 1760256439,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 480031,
@@ -5731,14 +5739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 415959,
-      "num": 415959,
-      "word": "雷军被8000元小刀价格惊呆了",
-      "onboard_time": 1760256439,
-      "rank": 4,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 415858,
       "num": 231895,
       "word": "李诞 王安宇怎么这么帅",
@@ -6529,6 +6529,14 @@
       "onboard_time": 1759331782,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 367216,
+      "num": 367216,
+      "word": "解清帅婚宴每桌30个菜2499元",
+      "onboard_time": 1760256439,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 367084,
@@ -8340,7 +8348,7 @@
     },
     {
       "raw_hot": 284688,
-      "num": 162453,
+      "num": 199467,
       "word": "被74岁刘銮雄的气场震着了",
       "onboard_time": 1760255541,
       "rank": 21,
@@ -8739,6 +8747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271153,
+      "num": 271153,
+      "word": "垫底辣孩自曝拿到了八大美院的合格证",
+      "onboard_time": 1760257221,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 270941,
       "num": 270941,
       "word": "台湾是中国领土一部分",
@@ -8905,14 +8921,6 @@
       "onboard_time": 1759884979,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 267183,
-      "num": 267183,
-      "word": "解清帅婚宴每桌30个菜2499元",
-      "onboard_time": 1760256439,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 267043,
@@ -9601,6 +9609,14 @@
       "onboard_time": 1759966459,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 243954,
+      "num": 243954,
+      "word": "这和Angelababy约会有什么区别",
+      "onboard_time": 1760256380,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 243270,
@@ -10459,6 +10475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 219774,
+      "num": 219774,
+      "word": "一笑随歌翻身仗",
+      "onboard_time": 1760256739,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219759,
       "num": 219759,
       "word": "王嘉尔出席活动被陌生女子捏脸",
@@ -10497,6 +10521,14 @@
       "onboard_time": 1759750941,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218234,
+      "num": 218234,
+      "word": "一胎过成了二胎的待遇",
+      "onboard_time": 1760254941,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 217836,
@@ -10913,6 +10945,14 @@
       "onboard_time": 1759894040,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208760,
+      "num": 208760,
+      "word": "沈佳润事业运",
+      "onboard_time": 1760257760,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 208651,
@@ -11587,6 +11627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199589,
+      "num": 199589,
+      "word": "侯明昊卢昱晓早期留子味",
+      "onboard_time": 1760254162,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199511,
       "num": 178390,
       "word": "总台秋晚节目单发布",
@@ -11907,14 +11955,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195865,
-      "num": 165989,
-      "word": "这和Angelababy约会有什么区别",
-      "onboard_time": 1760256380,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 195707,
       "num": 195707,
       "word": "月饼",
@@ -12152,14 +12192,6 @@
       "word": "我被惹了就许妍这样",
       "onboard_time": 1759672584,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 193107,
-      "num": 164751,
-      "word": "侯明昊卢昱晓早期留子味",
-      "onboard_time": 1760254162,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -12971,14 +13003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183719,
-      "num": 164356,
-      "word": "一笑随歌翻身仗",
-      "onboard_time": 1760256739,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183394,
       "num": 183394,
       "word": "iG疑似韩国集训",
@@ -13329,14 +13353,6 @@
       "onboard_time": 1759909819,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 180486,
-      "num": 117934,
-      "word": "垫底辣孩自曝拿到了八大美院的合格证",
-      "onboard_time": 1760257221,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 180485,
@@ -15329,14 +15345,6 @@
       "onboard_time": 1759807161,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 162258,
-      "num": 162258,
-      "word": "一胎过成了二胎的待遇",
-      "onboard_time": 1760254941,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 161870,
@@ -17872,6 +17880,14 @@
       "word": "肖战视界大会登顶三榜",
       "onboard_time": 1760095821,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141417,
+      "num": 141417,
+      "word": "第一次见逛街是女主拎包的剧",
+      "onboard_time": 1760257940,
+      "rank": 26,
       "category": "剧集"
     },
     {
@@ -20523,6 +20539,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 127774,
+      "num": 127774,
+      "word": "甘肃兰州闪爆事故致1死1伤",
+      "onboard_time": 1760256861,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127744,
       "num": 127744,
       "word": "一诺长沙我们来了",
@@ -21529,6 +21553,14 @@
       "onboard_time": 1760159662,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 122803,
+      "num": 122803,
+      "word": "特朗普扬言限制波音零部件对华出口",
+      "onboard_time": 1760257100,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 122724,
@@ -23136,6 +23168,14 @@
       "word": "刺杀小说家在刺杀谁",
       "onboard_time": 1759326681,
       "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 115341,
+      "num": 115341,
+      "word": "大冰快从于适身上下来",
+      "onboard_time": 1760255179,
+      "rank": 33,
       "category": "电影"
     },
     {
@@ -25779,6 +25819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106635,
+      "num": 106635,
+      "word": "为什么商场里的马桶越来越多了",
+      "onboard_time": 1760256861,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106582,
       "num": 106582,
       "word": "王楚钦林诗栋回应夺得男双冠军",
@@ -25841,14 +25889,6 @@
       "onboard_time": 1759583481,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106405,
-      "num": 106405,
-      "word": "大冰快从于适身上下来",
-      "onboard_time": 1760255179,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 106389,
@@ -26099,6 +26139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105777,
+      "num": 105777,
+      "word": "痴情的长公主请再等一世吧",
+      "onboard_time": 1760258240,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105772,
       "num": 105772,
       "word": "Wolves对战DOU5",
@@ -26209,14 +26257,6 @@
       "onboard_time": 1759487421,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105409,
-      "num": 105409,
-      "word": "甘肃兰州闪爆事故致1死1伤",
-      "onboard_time": 1760256861,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105387,
@@ -27931,14 +27971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98939,
-      "num": 98939,
-      "word": "为什么商场里的马桶越来越多了",
-      "onboard_time": 1760256861,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98920,
       "num": 98920,
       "word": "BFX对战NIP",
@@ -28905,14 +28937,6 @@
       "onboard_time": 1759572861,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 95496,
-      "num": 95496,
-      "word": "特朗普扬言限制波音零部件对华出口",
-      "onboard_time": 1760257100,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 95478,
@@ -31259,14 +31283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87165,
-      "num": 87165,
-      "word": "沈佳润事业运",
-      "onboard_time": 1760257760,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 87123,
       "num": 105064,
       "word": "金晨跳着跳着大喜就出来了",
@@ -31416,6 +31432,14 @@
       "word": "马柏全兰西雅看秀现场",
       "onboard_time": 1759573400,
       "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 86547,
+      "num": 97101,
+      "word": "白鹿来了也不好使",
+      "onboard_time": 1760257700,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -31681,6 +31705,14 @@
       "onboard_time": 1759569800,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85296,
+      "num": 85296,
+      "word": "卖麻糍一天能赚多少钱",
+      "onboard_time": 1760257340,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 85294,
@@ -32713,6 +32745,14 @@
       "onboard_time": 1759964598,
       "rank": 28,
       "category": "民生新闻,旅游"
+    },
+    {
+      "raw_hot": 80838,
+      "num": 80838,
+      "word": "时装周最亮眼艺人",
+      "onboard_time": 1760257400,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 80809,
@@ -34073,6 +34113,14 @@
       "onboard_time": 1759458318,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71330,
+      "num": 95520,
+      "word": "生花换乘恋爱 换着换着就合适了",
+      "onboard_time": 1760258060,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 71317,
@@ -36473,14 +36521,6 @@
       "onboard_time": 1760249180,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46223,
-      "num": 97101,
-      "word": "白鹿来了也不好使",
-      "onboard_time": 1760257700,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 46205,
