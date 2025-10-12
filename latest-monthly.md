@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 15:36:40
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 16:29:50
 </p>
 </blockquote>
 <p>
@@ -1125,6 +1125,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%8A%A6%E5%B1%B14.7%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+四川芦山4.7级地震（热度：947840）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%E4%B8%80%E5%A4%A9%E6%AF%94%E4%B8%80%E5%A4%A9%E8%A3%82%23" target="weibo">
 杨洋的手机壳一天比一天裂（热度：945521）
 </a>
@@ -1307,6 +1313,12 @@ Angelababy公主皇冠（热度：925479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E6%9A%97%E7%A4%BA%E5%8F%AF%E8%83%BD%E7%88%86%E5%8F%91%E6%96%B0%E6%88%98%E4%BA%89%23" target="weibo">
 武契奇暗示可能爆发新战争（热度：881454）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E7%AE%B1%E8%B4%B4%E5%B7%B2%E7%BB%8F%E6%AF%94%E5%86%B0%E7%AE%B1%E8%B4%B5%E4%BA%86%23" target="weibo">
+冰箱贴已经比冰箱贵了（热度：880070）
 </a>
 </li>
 
@@ -2315,6 +2327,12 @@ JDG输越南队（热度：648751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%20%E8%BF%99%E4%B8%8D%E7%A5%9E%E7%BB%8F%E7%97%85%E5%90%97%23" target="weibo">
 张颂文 这不神经病吗（热度：632850）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%AE%A4%E9%A2%86%E5%BC%A0%E6%85%A7%E9%9B%AF%E6%98%AF%E8%AE%B8%E5%87%AF%E6%96%B0%E5%89%A7%E5%A5%B3%E4%B8%BB%23" target="weibo">
+于正认领张慧雯是许凯新剧女主（热度：632712）
 </a>
 </li>
 
@@ -4293,6 +4311,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%A2%AB8000%E5%85%83%E5%B0%8F%E5%88%80%E4%BB%B7%E6%A0%BC%E6%83%8A%E5%91%86%E4%BA%86%23" target="weibo">
+雷军被8000元小刀价格惊呆了（热度：415959）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%AF%9E%20%E7%8E%8B%E5%AE%89%E5%AE%87%E6%80%8E%E4%B9%88%E8%BF%99%E4%B9%88%E5%B8%85%23" target="weibo">
 李诞 王安宇怎么这么帅（热度：415858）
 </a>
@@ -5987,30 +6011,6 @@ offer7播一半淘汰了三个人（热度：311785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E6%80%8E%E4%B9%88%E7%BE%8E%E6%88%90%E8%BF%99%E6%A0%B7%23" target="weibo">
 刘诗诗怎么美成这样（热度：297956）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%B8%80%E7%9B%B4%E7%94%A8%E6%89%8B%E6%8A%A4%E7%9D%80%E8%85%B0%23" target="weibo">
-白鹿一直用手护着腰（热度：297327）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E6%BA%AA%E5%9B%9E%E5%BA%9441%E5%B2%81%E7%94%9F%E4%BA%8C%E8%83%8E%23" target="weibo">
-齐溪回应41岁生二胎（热度：296861）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E9%AB%98%E5%92%8C%E7%BF%81%E9%9D%92%E9%9B%85%E5%88%9A%E5%AE%98%E5%AE%A3%E4%B8%80%E4%B8%AA%E6%9C%88%E5%B0%B1%E5%88%86%E6%89%8B%23" target="weibo">
-彭高和翁青雅刚官宣一个月就分手（热度：296499）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E4%B8%87%E8%BE%BE%E7%94%B5%E5%BD%B1%23" target="weibo">
-恋与深空 万达电影（热度：296322）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760254600055,
+  "endTime": 1760257790374,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -35,12 +35,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 947840,
+      "num": 1151654,
+      "word": "四川芦山4.7级地震",
+      "onboard_time": 1760255179,
+      "rank": 0,
+      "category": "民生新闻,民生新闻"
+    },
+    {
       "raw_hot": 912924,
       "num": 217844,
       "word": "迪丽热巴申请限消邓氏阿嬷手作",
       "onboard_time": 1760195961,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 880070,
+      "num": 880070,
+      "word": "冰箱贴已经比冰箱贵了",
+      "onboard_time": 1760253620,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 810388,
@@ -121,6 +137,14 @@
       "onboard_time": 1760186182,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 632712,
+      "num": 171630,
+      "word": "于正认领张慧雯是许凯新剧女主",
+      "onboard_time": 1760255720,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 613237,
@@ -299,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 415959,
+      "num": 415959,
+      "word": "雷军被8000元小刀价格惊呆了",
+      "onboard_time": 1760256439,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 399335,
       "num": 399335,
       "word": "千万富翁给丢失25年儿子婚礼办40桌",
@@ -443,6 +475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 284688,
+      "num": 162453,
+      "word": "被74岁刘銮雄的气场震着了",
+      "onboard_time": 1760255541,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272453,
       "num": 114420,
       "word": "李承铉撮合张远和王霏霏",
@@ -459,12 +499,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263828,
-      "num": 164243,
-      "word": "冰箱贴已经比冰箱贵了",
-      "onboard_time": 1760253620,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 267183,
+      "num": 267183,
+      "word": "解清帅婚宴每桌30个菜2499元",
+      "onboard_time": 1760256439,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257619,
@@ -579,12 +619,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 195865,
+      "num": 165989,
+      "word": "这和Angelababy约会有什么区别",
+      "onboard_time": 1760256380,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195234,
       "num": 195234,
       "word": "保时捷女销冠晒行政处罚决定书",
       "onboard_time": 1760237120,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193107,
+      "num": 164751,
+      "word": "侯明昊卢昱晓早期留子味",
+      "onboard_time": 1760254162,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 191592,
@@ -609,6 +665,22 @@
       "onboard_time": 1760246721,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183719,
+      "num": 164356,
+      "word": "一笑随歌翻身仗",
+      "onboard_time": 1760256739,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180486,
+      "num": 117934,
+      "word": "垫底辣孩自曝拿到了八大美院的合格证",
+      "onboard_time": 1760257221,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 179058,
@@ -691,12 +763,28 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 163378,
+      "num": 163378,
+      "word": "赵磊回应官宣结婚",
+      "onboard_time": 1760252479,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162644,
       "num": 162644,
       "word": "桃黑黑不播盛世天下了",
       "onboard_time": 1760252120,
       "rank": 27,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 162258,
+      "num": 162258,
+      "word": "一胎过成了二胎的待遇",
+      "onboard_time": 1760254941,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 161444,
@@ -796,7 +884,7 @@
     },
     {
       "raw_hot": 150452,
-      "num": 150452,
+      "num": 162512,
       "word": "巴方称要像对印度一样回应阿富汗",
       "onboard_time": 1760252901,
       "rank": 26,
@@ -971,14 +1059,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 120469,
-      "num": 120469,
-      "word": "赵磊回应官宣结婚",
-      "onboard_time": 1760252479,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120326,
       "num": 120326,
       "word": "六公主镜头下的卢昱晓",
@@ -1123,6 +1203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106405,
+      "num": 106405,
+      "word": "大冰快从于适身上下来",
+      "onboard_time": 1760255179,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 106212,
       "num": 106212,
       "word": "台独分子出岛就得栽",
@@ -1131,12 +1219,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 105762,
-      "num": 105762,
-      "word": "侯明昊卢昱晓早期留子味",
-      "onboard_time": 1760254162,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 105829,
+      "num": 105829,
+      "word": "运动出汗与身体出汗的区别",
+      "onboard_time": 1760255781,
+      "rank": 34,
+      "category": "运动健身"
     },
     {
       "raw_hot": 105740,
@@ -1161,6 +1249,14 @@
       "onboard_time": 1760237719,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105409,
+      "num": 105409,
+      "word": "甘肃兰州闪爆事故致1死1伤",
+      "onboard_time": 1760256861,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104607,
@@ -1203,11 +1299,27 @@
       "category": "美食"
     },
     {
+      "raw_hot": 101064,
+      "num": 141036,
+      "word": "成都震感",
+      "onboard_time": 1760255179,
+      "rank": 24,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 98944,
       "num": 98944,
       "word": "4人凭2道黑影救下一命",
       "onboard_time": 1760231600,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98939,
+      "num": 98939,
+      "word": "为什么商场里的马桶越来越多了",
+      "onboard_time": 1760256861,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1251,6 +1363,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 95496,
+      "num": 95496,
+      "word": "特朗普扬言限制波音零部件对华出口",
+      "onboard_time": 1760257100,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94880,
       "num": 94880,
       "word": "齐溪二胎是女儿",
@@ -1265,6 +1385,14 @@
       "onboard_time": 1760241438,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 94120,
+      "num": 95506,
+      "word": "央视曝光无人岛旅游乱象",
+      "onboard_time": 1760255421,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93533,
@@ -1411,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 87165,
+      "num": 87165,
+      "word": "沈佳润事业运",
+      "onboard_time": 1760257760,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87071,
       "num": 87071,
       "word": "许我耀眼反转",
@@ -1435,12 +1571,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85258,
+      "num": 85258,
+      "word": "刘萧旭无名指戒指印",
+      "onboard_time": 1760254761,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85057,
       "num": 85057,
       "word": "陈浚铭拜师兄2.0",
       "onboard_time": 1760198241,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84435,
+      "num": 84435,
+      "word": "一个人就应该有两张床",
+      "onboard_time": 1760257760,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 84034,
@@ -1819,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47435,
+      "num": 95940,
+      "word": "大爷足疗店消费139元跳二楼逃单",
+      "onboard_time": 1760256500,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46849,
       "num": 57220,
       "word": "陈伟霆好会亲",
@@ -1841,6 +2001,14 @@
       "onboard_time": 1760249180,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46223,
+      "num": 97101,
+      "word": "白鹿来了也不好使",
+      "onboard_time": 1760257700,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 44431,
@@ -2028,7 +2196,7 @@
     },
     {
       "raw_hot": 4835,
-      "num": 537891,
+      "num": 889181,
       "word": "青春华章",
       "onboard_time": 1760172020,
       "rank": 2,
