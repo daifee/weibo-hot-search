@@ -1,0 +1,410 @@
+{
+  "runTime": 1760244098250,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 470754,
+        "num": 1075320,
+        "word": "中方回应美方威胁加征100%关税",
+        "onboard_time": 1760236580,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 465544,
+        "num": 465544,
+        "word": "卡塔尔代表团遭遇车祸已致3死3伤",
+        "onboard_time": 1760229739,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2601,
+        "num": 452362,
+        "word": "青春华章",
+        "onboard_time": 1760172020,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 452192,
+        "num": 452192,
+        "word": "商务部公告附件首次改为wps格式",
+        "onboard_time": 1760241380,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 331865,
+        "num": 331865,
+        "word": "解清帅与妻子相恋四年初遇经济拮据",
+        "onboard_time": 1760242461,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325061,
+        "num": 325061,
+        "word": "山航空姐的裤装上线了",
+        "onboard_time": 1760239580,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318636,
+        "num": 318636,
+        "word": "B站崩了",
+        "onboard_time": 1760240900,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 240568,
+        "num": 318209,
+        "word": "丽江一景区部分设计被指观感不适",
+        "onboard_time": 1760230340,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135506,
+        "num": 315233,
+        "word": "微博视界大会",
+        "onboard_time": 1760225477,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129819,
+        "num": 311226,
+        "word": "广东海洋大学被曝住宿环境差",
+        "onboard_time": 1760231059,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 905048,
+        "num": 308909,
+        "word": "万科董事长辛杰已失联",
+        "onboard_time": 1760233819,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 686259,
+        "num": 307412,
+        "word": "孟子义李昀锐广东开机同框",
+        "onboard_time": 1760239519,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570810,
+        "num": 306089,
+        "word": "南北cp",
+        "onboard_time": 1760240900,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 530603,
+        "num": 301234,
+        "word": "何晟铭女儿13岁了",
+        "onboard_time": 1760239340,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16741,
+        "num": 299130,
+        "word": "为自己的热爱买单真的很酷",
+        "onboard_time": 1760243361,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 387658,
+        "num": 298194,
+        "word": "关晓彤果然是被造型师陷害的",
+        "onboard_time": 1760197282,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353230,
+        "num": 294362,
+        "word": "原来小说里的道歉方式都是真的",
+        "onboard_time": 1760235020,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 335050,
+        "num": 292234,
+        "word": "济南一下肢瘫痪中年男子投河身亡",
+        "onboard_time": 1760237360,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291145,
+        "num": 291145,
+        "word": "合成保时捷女销冠不雅视频男子致歉",
+        "onboard_time": 1760236880,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37748,
+        "num": 285967,
+        "word": "来自此沙的双11特别推荐",
+        "onboard_time": 1760241140,
+        "rank": 19,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 364385,
+        "num": 284921,
+        "word": "CCTV认证断层第一的电视剧",
+        "onboard_time": 1760238620,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282356,
+        "num": 282356,
+        "word": "马思纯 自然得像没搞一样",
+        "onboard_time": 1760230460,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239415,
+        "num": 239415,
+        "word": "美国下架数百万件中国电子产品",
+        "onboard_time": 1760231480,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 235575,
+        "num": 235575,
+        "word": "外国游客称中国不说英语很正常",
+        "onboard_time": 1760242880,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201860,
+        "num": 201860,
+        "word": "张晚意李沁还好生在和平年代",
+        "onboard_time": 1760241260,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194962,
+        "num": 194962,
+        "word": "朱一龙檀健次 空枪",
+        "onboard_time": 1760237600,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160517,
+        "num": 160517,
+        "word": "丈夫坚持AA制妻子无力支付要写欠条",
+        "onboard_time": 1760195002,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158530,
+        "num": 158530,
+        "word": "李煜东 给大家说个好消息",
+        "onboard_time": 1760238620,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158403,
+        "num": 158403,
+        "word": "这居然是陶昕然",
+        "onboard_time": 1760239640,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135117,
+        "num": 135117,
+        "word": "李昀锐笑与不笑差别真的很大",
+        "onboard_time": 1760242880,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44431,
+        "num": 123979,
+        "word": "丽江景区否认设计夸张称梦幻温馨",
+        "onboard_time": 1760243960,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120835,
+        "num": 120835,
+        "word": "厦门公安接到台湾民众举报",
+        "onboard_time": 1760231480,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120326,
+        "num": 120326,
+        "word": "六公主镜头下的卢昱晓",
+        "onboard_time": 1760243599,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118268,
+        "num": 118268,
+        "word": "大学生识破间谍套路并举报获表彰",
+        "onboard_time": 1760229560,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117291,
+        "num": 117291,
+        "word": "迪丽热巴申请限消邓氏阿嬷手作",
+        "onboard_time": 1760195961,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115857,
+        "num": 115857,
+        "word": "为什么不吃米面体重很快会减轻",
+        "onboard_time": 1760240240,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108110,
+        "num": 108110,
+        "word": "李维嘉吴昕直播大声蛐蛐杜海涛",
+        "onboard_time": 1760240059,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106872,
+        "num": 106872,
+        "word": "一个镜头拉满生理性恐惧",
+        "onboard_time": 1760238739,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105327,
+        "num": 105327,
+        "word": "说中国没奢侈品的只是你听都没听过",
+        "onboard_time": 1760243660,
+        "rank": 38,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 37205,
+        "num": 103844,
+        "word": "刘宇宁李一桐影视cp推荐值破百万",
+        "onboard_time": 1760243660,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103527,
+        "num": 103527,
+        "word": "商务部就近期经贸措施答记者问",
+        "onboard_time": 1760236580,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102727,
+        "num": 102727,
+        "word": "2025还剩80天",
+        "onboard_time": 1760235261,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99612,
+        "num": 99612,
+        "word": "被清华大学的食堂震惊到了",
+        "onboard_time": 1760242099,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 98146,
+        "num": 98146,
+        "word": "赵磊回应粉丝都有知情的权利",
+        "onboard_time": 1760238680,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93533,
+        "num": 93533,
+        "word": "所有人都看好你 偏偏你不争气",
+        "onboard_time": 1760241800,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92411,
+        "num": 92411,
+        "word": "恋与深空",
+        "onboard_time": 1760243719,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 91987,
+        "num": 91987,
+        "word": "广州多个公交站惊现S型护栏",
+        "onboard_time": 1760240900,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89863,
+        "num": 89863,
+        "word": "黑芝麻糊炖奶",
+        "onboard_time": 1760240719,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 89594,
+        "num": 89594,
+        "word": "郭静下一个天亮等了十七年",
+        "onboard_time": 1760241438,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84034,
+        "num": 84034,
+        "word": "寝室最不熟那年的产物",
+        "onboard_time": 1760243541,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为新时代妇女事业发展指方向#"
+    }
+  }
+}
