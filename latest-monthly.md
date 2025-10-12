@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 17:23:23
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 17:36:15
 </p>
 </blockquote>
 <p>
@@ -765,6 +765,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%AD%A9%E8%87%AA%E6%9B%9D%E6%8B%BF%E5%88%B0%E4%BA%86%E5%85%AB%E5%A4%A7%E7%BE%8E%E9%99%A2%E7%9A%84%E5%90%88%E6%A0%BC%E8%AF%81%23" target="weibo">
+垫底辣孩自曝拿到了八大美院的合格证（热度：1115387）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%8B%92%E7%BB%9D%E4%BA%86%E7%B2%89%E4%B8%9D%E9%80%81%E7%9A%84%E5%86%B0%E6%B7%87%E6%B7%8B%23" target="weibo">
 鹿晗拒绝了粉丝送的冰淇淋（热度：1114167）
 </a>
@@ -803,6 +809,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%86%B3%E5%AE%9A%E4%BA%8C%20%E5%B9%BF%E5%91%8A%23" target="weibo">
 詹姆斯决定二 广告（热度：1099261）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E7%AE%B1%E8%B4%B4%E5%B7%B2%E7%BB%8F%E6%AF%94%E5%86%B0%E7%AE%B1%E8%B4%B5%E4%BA%86%23" target="weibo">
+冰箱贴已经比冰箱贵了（热度：1097417）
 </a>
 </li>
 
@@ -933,12 +945,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E7%AE%B1%E8%B4%B4%E5%B7%B2%E7%BB%8F%E6%AF%94%E5%86%B0%E7%AE%B1%E8%B4%B5%E4%BA%86%23" target="weibo">
-冰箱贴已经比冰箱贵了（热度：1030476）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E9%97%A8%E5%BA%97%20%E8%80%81%E9%BC%A0%E6%A8%AA%E8%A1%8C%23" target="weibo">
 蜜雪冰城门店 老鼠横行（热度：1028081）
 </a>
@@ -989,12 +995,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E7%A7%B0%E8%BF%98%E6%B2%A1%E8%B5%9A%E5%88%B01%E4%B8%AA%E4%BA%BF%23" target="weibo">
 鸡排哥称还没赚到1个亿（热度：1004335）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9E%AB%E5%BA%95%E8%BE%A3%E5%AD%A9%E8%87%AA%E6%9B%9D%E6%8B%BF%E5%88%B0%E4%BA%86%E5%85%AB%E5%A4%A7%E7%BE%8E%E9%99%A2%E7%9A%84%E5%90%88%E6%A0%BC%E8%AF%81%23" target="weibo">
-垫底辣孩自曝拿到了八大美院的合格证（热度：1003877）
 </a>
 </li>
 
@@ -3147,6 +3147,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%A2%AB8000%E5%85%83%E5%B0%8F%E5%88%80%E4%BB%B7%E6%A0%BC%E6%83%8A%E5%91%86%E4%BA%86%23" target="weibo">
+雷军被8000元小刀价格惊呆了（热度：525204）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E6%88%BF%E9%A1%B6%E5%9D%8D%E5%A1%8C%E6%97%B6%E6%AD%A3%E5%9C%A8%E5%8A%9E%E5%A9%9A%E7%A4%BC%23" target="weibo">
 酒店房顶坍塌时正在办婚礼（热度：523746）
 </a>
@@ -3299,12 +3305,6 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AF%84%E5%B0%8F%E7%B1%B3%E5%AF%B9%E6%A0%87%E8%8B%B9%E6%9E%9C%23" target="weibo">
 新华社评小米对标苹果（热度：506282）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%A2%AB8000%E5%85%83%E5%B0%8F%E5%88%80%E4%BB%B7%E6%A0%BC%E6%83%8A%E5%91%86%E4%BA%86%23" target="weibo">
-雷军被8000元小刀价格惊呆了（热度：506249）
 </a>
 </li>
 
@@ -3785,6 +3785,12 @@ TaylorSwift忘了通知EdSheeran订婚（热度：461697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%86%A0%E5%86%9B%23" target="weibo">
 王曼昱冠军（热度：458804）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E9%80%A0%E5%9E%8B%23" target="weibo">
+李一桐造型（热度：458552）
 </a>
 </li>
 
@@ -4923,6 +4929,12 @@ iPhone17系列激活量曝光（热度：374659）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9A%E5%85%AC%E5%8F%B8%E6%89%BF%E8%AE%A4%E4%BA%86%E7%9B%B8%E5%85%B3%E4%BA%8B%E5%AE%9E%23" target="weibo">
+高通公司承认了相关事实（热度：367094）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%85%88%E7%A7%81%E5%AF%86%E5%87%A0%E5%A4%A9%E5%90%8E%E5%86%8D%E5%85%AC%E5%BC%80%23" target="weibo">
 朋友圈先私密几天后再公开（热度：367084）
 </a>
@@ -4955,12 +4967,6 @@ iPhone17系列激活量曝光（热度：374659）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E5%91%A8%E8%BE%B9%E6%91%8A%E4%B8%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
 鸡排哥周边摊主发声（热度：365186）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9A%E5%85%AC%E5%8F%B8%E6%89%BF%E8%AE%A4%E4%BA%86%E7%9B%B8%E5%85%B3%E4%BA%8B%E5%AE%9E%23" target="weibo">
-高通公司承认了相关事实（热度：364166）
 </a>
 </li>
 
@@ -5529,6 +5535,12 @@ WTT（热度：332672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E8%BF%AA%E5%A3%AB%E5%B0%BC%E9%AC%BC%E5%B1%8B%E8%A2%AB%E5%90%93%E6%AD%BB%23" target="weibo">
+美国女子在迪士尼鬼屋被吓死（热度：322070）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%80%81%E5%B8%88%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%AF%86%E9%80%83%E8%A2%AB%E5%90%93%E5%88%B0%23" target="weibo">
 何老师第一次在密逃被吓到（热度：321908）
 </a>
@@ -6002,18 +6014,6 @@ offer7播一半淘汰了三个人（热度：311785）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B6%85%E8%8E%B2%20%E9%BB%91%E8%95%BE%E4%B8%9D%23" target="weibo">
-何超莲 黑蕾丝（热度：299324）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%85%A5%E9%80%89%E7%BE%8E%E7%89%88VOGUE%E6%9C%80%E4%BD%B3%E8%A1%97%E6%8B%8D%23" target="weibo">
-迪丽热巴入选美版VOGUE最佳街拍（热度：299035）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6197,6 +6197,12 @@ offer7播一半淘汰了三个人（热度：311785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%BF%80%E5%8A%B1%E5%B7%BE%E5%B8%BC%E4%B9%8B%E8%8A%B1%E7%BB%BD%E6%94%BE%E6%96%B0%E6%97%B6%E4%BB%A3%23%23" target="weibo">
 #总书记激励巾帼之花绽放新时代#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E9%87%8D%E6%B8%A9%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%B9%E5%B9%BF%E5%A4%A7%E5%A6%87%E5%A5%B3%E7%9A%84%E6%B8%A9%E6%9A%96%E5%AF%84%E8%AF%AD%23%23" target="weibo">
+#重温总书记对广大妇女的温暖寄语#
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1760261775263,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1097417,
+        "num": 1175586,
+        "word": "冰箱贴已经比冰箱贵了",
+        "onboard_time": 1760253620,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 693522,
+        "num": 693522,
+        "word": "中国已确立11颗金钉子",
+        "onboard_time": 1760250799,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 41626,
+        "num": 566538,
+        "word": "中国天眼已发现1152颗脉冲星",
+        "onboard_time": 1760242461,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 525204,
+        "num": 525204,
+        "word": "雷军被8000元小刀价格惊呆了",
+        "onboard_time": 1760256439,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 367094,
+        "num": 367094,
+        "word": "高通公司承认了相关事实",
+        "onboard_time": 1760259681,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 352673,
+        "num": 352673,
+        "word": "解清帅婚宴每桌30个菜2499元",
+        "onboard_time": 1760256439,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322070,
+        "num": 322070,
+        "word": "美国女子在迪士尼鬼屋被吓死",
+        "onboard_time": 1760261060,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 318939,
+        "num": 318939,
+        "word": "巴基斯坦",
+        "onboard_time": 1760248101,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 316764,
+        "num": 316764,
+        "word": "四川芦山4.7级地震",
+        "onboard_time": 1760255179,
+        "rank": 8,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 253333,
+        "num": 253333,
+        "word": "海鲜价格暴跌了",
+        "onboard_time": 1760260640,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1115387,
+        "num": 252821,
+        "word": "垫底辣孩自曝拿到了八大美院的合格证",
+        "onboard_time": 1760257221,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 500094,
+        "num": 251442,
+        "word": "于正认领张慧雯是许凯新剧女主",
+        "onboard_time": 1760255720,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458552,
+        "num": 250571,
+        "word": "李一桐造型",
+        "onboard_time": 1760260099,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347485,
+        "num": 250336,
+        "word": "这和Angelababy约会有什么区别",
+        "onboard_time": 1760256380,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304830,
+        "num": 249188,
+        "word": "三部大男主剧同期开播",
+        "onboard_time": 1760250562,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282191,
+        "num": 247677,
+        "word": "一笑随歌翻身仗",
+        "onboard_time": 1760256739,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281438,
+        "num": 246869,
+        "word": "沈佳润事业运",
+        "onboard_time": 1760257760,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236041,
+        "num": 245635,
+        "word": "被74岁刘銮雄的气场震着了",
+        "onboard_time": 1760255541,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245412,
+        "num": 245412,
+        "word": "特朗普扬言限制波音零部件对华出口",
+        "onboard_time": 1760257100,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174008,
+        "num": 174008,
+        "word": "一胎过成了二胎的待遇",
+        "onboard_time": 1760254941,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 159328,
+        "num": 159328,
+        "word": "南北cp",
+        "onboard_time": 1760240900,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146761,
+        "num": 146761,
+        "word": "白鹿想染头发",
+        "onboard_time": 1760247382,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138173,
+        "num": 138173,
+        "word": "CCTV认证断层第一的电视剧",
+        "onboard_time": 1760238620,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139131,
+        "num": 137719,
+        "word": "万科董事长辛杰已失联",
+        "onboard_time": 1760233819,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126356,
+        "num": 126356,
+        "word": "成都震感",
+        "onboard_time": 1760255179,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 123140,
+        "num": 123140,
+        "word": "老板回应员工挪桌打碎百万玉镯",
+        "onboard_time": 1760260520,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119211,
+        "num": 119211,
+        "word": "孙红雷左手张艺兴右手刘宇宁",
+        "onboard_time": 1760259381,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111186,
+        "num": 111186,
+        "word": "带头下馆子区委书记骑自行车告别",
+        "onboard_time": 1760261721,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110017,
+        "num": 110017,
+        "word": "浙江一住户5楼空心菜垂1楼像瀑布",
+        "onboard_time": 1760249601,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104338,
+        "num": 104338,
+        "word": "痴情的长公主请再等一世吧",
+        "onboard_time": 1760258240,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115500,
+        "num": 104128,
+        "word": "曝LPL俱乐部投入",
+        "onboard_time": 1760261120,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102333,
+        "num": 102333,
+        "word": "我那薪资是我5倍多的领导",
+        "onboard_time": 1760261481,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102237,
+        "num": 102237,
+        "word": "侯明昊卢昱晓早期留子味",
+        "onboard_time": 1760254162,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101574,
+        "num": 101574,
+        "word": "白鹿来了也不好使",
+        "onboard_time": 1760257700,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101855,
+        "num": 101219,
+        "word": "第一次见逛街是女主拎包的剧",
+        "onboard_time": 1760257940,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91775,
+        "num": 91775,
+        "word": "为什么商场里的马桶越来越多了",
+        "onboard_time": 1760256861,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90326,
+        "num": 90326,
+        "word": "喜人奇妙夜第三期笑后感",
+        "onboard_time": 1760261540,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88961,
+        "num": 88961,
+        "word": "南方的冷空气快到货了",
+        "onboard_time": 1760259982,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48160,
+        "num": 88433,
+        "word": "阿富汗巴基斯坦冲突巴方12人丧生",
+        "onboard_time": 1760261120,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79188,
+        "num": 88355,
+        "word": "员工拉桌子碰碎近50个和田玉镯",
+        "onboard_time": 1760261240,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88314,
+        "num": 88314,
+        "word": "陆军海军联合训练上下登陆舰",
+        "onboard_time": 1760259620,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 87575,
+        "num": 87575,
+        "word": "运动出汗与身体出汗的区别",
+        "onboard_time": 1760255781,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 83994,
+        "num": 83994,
+        "word": "法考 李佳",
+        "onboard_time": 1760250200,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 82045,
+        "num": 82045,
+        "word": "魔卡少女樱画风男模变馍",
+        "onboard_time": 1760260281,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 82031,
+        "num": 82031,
+        "word": "甘肃兰州闪爆事故致1死1伤",
+        "onboard_time": 1760256861,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81620,
+        "num": 81620,
+        "word": "广东人在等一个有实力的冷空气",
+        "onboard_time": 1760259439,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80263,
+        "num": 80263,
+        "word": "我家那闺女",
+        "onboard_time": 1760253620,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76615,
+        "num": 76615,
+        "word": "桃黑黑不播盛世天下了",
+        "onboard_time": 1760252120,
+        "rank": 47,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 74163,
+        "num": 74163,
+        "word": "李佳发文感谢大家",
+        "onboard_time": 1760258900,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 73026,
+        "num": 73026,
+        "word": "张智霖袁咏仪为儿子实习争吵",
+        "onboard_time": 1760248461,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对广大妇女的温暖寄语#"
+    }
+  }
+}

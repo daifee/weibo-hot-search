@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760261003679,
+  "endTime": 1760261775263,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -27,20 +27,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 1030476,
-      "num": 1164876,
-      "word": "冰箱贴已经比冰箱贵了",
-      "onboard_time": 1760253620,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 1003877,
+      "raw_hot": 1115387,
       "num": 271153,
       "word": "垫底辣孩自曝拿到了八大美院的合格证",
       "onboard_time": 1760257221,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1097417,
+      "num": 1175586,
+      "word": "冰箱贴已经比冰箱贵了",
+      "onboard_time": 1760253620,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 989262,
@@ -203,20 +203,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 525204,
+      "num": 525204,
+      "word": "雷军被8000元小刀价格惊呆了",
+      "onboard_time": 1760256439,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 520628,
       "num": 520628,
       "word": "大学生识破间谍套路并举报获表彰",
       "onboard_time": 1760229560,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 506249,
-      "num": 506249,
-      "word": "雷军被8000元小刀价格惊呆了",
-      "onboard_time": 1760256439,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 502105,
@@ -273,6 +273,14 @@
       "onboard_time": 1760231480,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 458552,
+      "num": 250571,
+      "word": "李一桐造型",
+      "onboard_time": 1760260099,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 449347,
@@ -387,8 +395,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 364166,
-      "num": 364166,
+      "raw_hot": 367094,
+      "num": 367094,
       "word": "高通公司承认了相关事实",
       "onboard_time": 1760259681,
       "rank": 4,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 360222,
-      "num": 243954,
+      "num": 250336,
       "word": "这和Angelababy约会有什么区别",
       "onboard_time": 1760256380,
       "rank": 15,
@@ -441,6 +449,14 @@
       "onboard_time": 1760239580,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 322070,
+      "num": 322070,
+      "word": "美国女子在迪士尼鬼屋被吓死",
+      "onboard_time": 1760261060,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 320543,
@@ -508,7 +524,7 @@
     },
     {
       "raw_hot": 290523,
-      "num": 219774,
+      "num": 247677,
       "word": "一笑随歌翻身仗",
       "onboard_time": 1760256739,
       "rank": 17,
@@ -516,15 +532,15 @@
     },
     {
       "raw_hot": 284688,
-      "num": 199467,
+      "num": 245635,
       "word": "被74岁刘銮雄的气场震着了",
       "onboard_time": 1760255541,
       "rank": 21,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 277037,
-      "num": 208760,
+      "raw_hot": 281438,
+      "num": 246869,
       "word": "沈佳润事业运",
       "onboard_time": 1760257760,
       "rank": 46,
@@ -555,6 +571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 253333,
+      "num": 253333,
+      "word": "海鲜价格暴跌了",
+      "onboard_time": 1760260640,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250139,
       "num": 115390,
       "word": "文章老了好多",
@@ -571,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245412,
+      "num": 245412,
+      "word": "特朗普扬言限制波音零部件对华出口",
+      "onboard_time": 1760257100,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 238454,
       "num": 218234,
       "word": "一胎过成了二胎的待遇",
@@ -585,14 +617,6 @@
       "onboard_time": 1760185281,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231827,
-      "num": 231827,
-      "word": "特朗普扬言限制波音零部件对华出口",
-      "onboard_time": 1760257100,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 227100,
@@ -683,14 +707,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 196413,
-      "num": 181812,
-      "word": "李一桐造型",
-      "onboard_time": 1760260099,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195234,
       "num": 195234,
       "word": "保时捷女销冠晒行政处罚决定书",
@@ -721,14 +737,6 @@
       "onboard_time": 1760246721,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 181760,
-      "num": 181760,
-      "word": "海鲜价格暴跌了",
-      "onboard_time": 1760260640,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179058,
@@ -1107,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123140,
+      "num": 123140,
+      "word": "老板回应员工挪桌打碎百万玉镯",
+      "onboard_time": 1760260520,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122972,
       "num": 122972,
       "word": "外围大跌",
@@ -1169,6 +1185,14 @@
       "onboard_time": 1760235560,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115500,
+      "num": 104128,
+      "word": "曝LPL俱乐部投入",
+      "onboard_time": 1760261120,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 115341,
@@ -1259,11 +1283,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 110988,
-      "num": 110988,
-      "word": "老板回应员工挪桌打碎百万玉镯",
-      "onboard_time": 1760260520,
-      "rank": 29,
+      "raw_hot": 111186,
+      "num": 111186,
+      "word": "带头下馆子区委书记骑自行车告别",
+      "onboard_time": 1760261721,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -1387,12 +1411,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 102333,
+      "num": 102333,
+      "word": "我那薪资是我5倍多的领导",
+      "onboard_time": 1760261481,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101593,
       "num": 101593,
       "word": "莲藕汤补气血还不上火",
       "onboard_time": 1760227758,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 101574,
+      "num": 101574,
+      "word": "白鹿来了也不好使",
+      "onboard_time": 1760257700,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 98944,
@@ -1441,14 +1481,6 @@
       "onboard_time": 1760240719,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 96210,
-      "num": 97101,
-      "word": "白鹿来了也不好使",
-      "onboard_time": 1760257700,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 94880,
@@ -1547,6 +1579,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 90326,
+      "num": 90326,
+      "word": "喜人奇妙夜第三期笑后感",
+      "onboard_time": 1760261540,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89734,
       "num": 140079,
       "word": "华晨宇 你直接报我名字得了",
@@ -1585,6 +1625,14 @@
       "onboard_time": 1760233999,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 88961,
+      "num": 88961,
+      "word": "南方的冷空气快到货了",
+      "onboard_time": 1760259982,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88339,
@@ -1747,6 +1795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82045,
+      "num": 82045,
+      "word": "魔卡少女樱画风男模变馍",
+      "onboard_time": 1760260281,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 81507,
       "num": 81507,
       "word": "湖南卫视重映九重紫收视第一",
@@ -1779,14 +1835,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 80021,
-      "num": 80021,
-      "word": "南方的冷空气快到货了",
-      "onboard_time": 1760259982,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79697,
       "num": 118359,
       "word": "花8299减肥4个月仅瘦8两",
@@ -1817,6 +1865,14 @@
       "onboard_time": 1760226620,
       "rank": 41,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 79188,
+      "num": 88355,
+      "word": "员工拉桌子碰碎近50个和田玉镯",
+      "onboard_time": 1760261240,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78403,
@@ -1897,6 +1953,14 @@
       "onboard_time": 1760198481,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74163,
+      "num": 74163,
+      "word": "李佳发文感谢大家",
+      "onboard_time": 1760258900,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 71330,
@@ -2099,6 +2163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48160,
+      "num": 88433,
+      "word": "阿富汗巴基斯坦冲突巴方12人丧生",
+      "onboard_time": 1760261120,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47435,
       "num": 95940,
       "word": "大爷足疗店消费139元跳二楼逃单",
@@ -2153,6 +2225,14 @@
       "onboard_time": 1760241140,
       "rank": 19,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 41626,
+      "num": 566538,
+      "word": "中国天眼已发现1152颗脉冲星",
+      "onboard_time": 1760242461,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40049,
@@ -2217,14 +2297,6 @@
       "onboard_time": 1760248881,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 31992,
-      "num": 524780,
-      "word": "中国天眼已发现1152颗脉冲星",
-      "onboard_time": 1760242461,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 29644,
@@ -2337,6 +2409,9 @@
     },
     {
       "word": "#总书记激励巾帼之花绽放新时代#"
+    },
+    {
+      "word": "#重温总书记对广大妇女的温暖寄语#"
     }
   ]
 }
