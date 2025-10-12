@@ -1,6 +1,6 @@
 {
   "startTime": 1760286516759,
-  "endTime": 1760289623420,
+  "endTime": 1760290605609,
   "band_list": [
     {
       "raw_hot": 672384,
@@ -147,7 +147,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137895,
+      "raw_hot": 146639,
       "num": 90357,
       "word": "陈泽下播",
       "onboard_time": 1760286259,
@@ -252,7 +252,7 @@
     },
     {
       "raw_hot": 78324,
-      "num": 78324,
+      "num": 82264,
       "word": "降低消耗感的小tips",
       "onboard_time": 1760287698,
       "rank": 22,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 64222,
-      "num": 71308,
+      "num": 82336,
       "word": "徐璐好美啊",
       "onboard_time": 1760288178,
       "rank": 25,
@@ -419,16 +419,24 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33531,
-      "num": 70968,
+      "raw_hot": 36685,
+      "num": 81948,
+      "word": "卢昱晓我笑纳了",
+      "onboard_time": 1760289676,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 36191,
+      "num": 81861,
       "word": "张杰演唱会",
       "onboard_time": 1760271620,
       "rank": 44,
       "category": "演出"
     },
     {
-      "raw_hot": 29070,
-      "num": 70864,
+      "raw_hot": 31031,
+      "num": 81734,
       "word": "申请加入棒棒小卖部",
       "onboard_time": 1760289556,
       "rank": 49,
