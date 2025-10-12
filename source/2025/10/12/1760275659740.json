@@ -1,0 +1,410 @@
+{
+  "runTime": 1760275659740,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 688362,
+        "num": 1110138,
+        "word": "晋A99999劳斯莱斯1544000元起拍",
+        "onboard_time": 1760267480,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459413,
+        "num": 459413,
+        "word": "中国已确立11颗金钉子",
+        "onboard_time": 1760250799,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 9067,
+        "num": 445760,
+        "word": "青春华章",
+        "onboard_time": 1760172020,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 436491,
+        "num": 436491,
+        "word": "获1300万拆迁款被判刑男子发声",
+        "onboard_time": 1760265861,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436407,
+        "num": 436407,
+        "word": "吃不吃麻辣烫的都沉默了",
+        "onboard_time": 1760266160,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 392302,
+        "num": 392302,
+        "word": "冰箱贴已经比冰箱贵了",
+        "onboard_time": 1760253620,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 360380,
+        "num": 360380,
+        "word": "法国第一夫人被迫证明自己不是男人",
+        "onboard_time": 1760271561,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 248318,
+        "num": 248318,
+        "word": "员工拉桌子碰碎近50个和田玉镯",
+        "onboard_time": 1760261240,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206676,
+        "num": 206676,
+        "word": "菲律宾恶意擦碰中国海警船现场视频",
+        "onboard_time": 1760264541,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203328,
+        "num": 203328,
+        "word": "四川芦山4.7级地震",
+        "onboard_time": 1760255179,
+        "rank": 9,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 881433,
+        "num": 202898,
+        "word": "建议睡眠不好的都去吃",
+        "onboard_time": 1760271921,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 640073,
+        "num": 202030,
+        "word": "王安宇华电",
+        "onboard_time": 1760271382,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 512273,
+        "num": 201428,
+        "word": "网友偶遇戚薇北大考试",
+        "onboard_time": 1760262020,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391680,
+        "num": 200305,
+        "word": "垫底辣孩自曝拿到了八大美院的合格证",
+        "onboard_time": 1760257221,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 31078,
+        "num": 200096,
+        "word": "大眼音乐节给内娱亿点震撼",
+        "onboard_time": 1760274142,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 358032,
+        "num": 198947,
+        "word": "我叫李飞没有脊椎",
+        "onboard_time": 1760273180,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274516,
+        "num": 198619,
+        "word": "美国女子在迪士尼鬼屋被吓死",
+        "onboard_time": 1760261060,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 265547,
+        "num": 197209,
+        "word": "陈哲远说今天26集看爽了",
+        "onboard_time": 1760272401,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257790,
+        "num": 196567,
+        "word": "李一桐造型",
+        "onboard_time": 1760260099,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75783,
+        "num": 196328,
+        "word": "选冰箱只看低温保鲜你就亏了",
+        "onboard_time": 1760274740,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 345302,
+        "num": 195353,
+        "word": "Angelababy跳刀马刀马了",
+        "onboard_time": 1760270480,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232705,
+        "num": 194204,
+        "word": "李沛恩娇兰",
+        "onboard_time": 1760274502,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223041,
+        "num": 193886,
+        "word": "周杰伦发文告别嘉年华巡演",
+        "onboard_time": 1760264240,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210201,
+        "num": 192531,
+        "word": "内娱第一个饭撒女儿的歌手",
+        "onboard_time": 1760272401,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192516,
+        "num": 192516,
+        "word": "剧看了6集男主不知叫啥名",
+        "onboard_time": 1760272159,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146078,
+        "num": 146078,
+        "word": "癌症患者多与这6点有关",
+        "onboard_time": 1760270960,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145681,
+        "num": 145681,
+        "word": "朝鲜阅兵持枪步兵压迫感拉满",
+        "onboard_time": 1760273121,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139650,
+        "num": 139650,
+        "word": "为了结婚登记连命都不要了",
+        "onboard_time": 1760274740,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130950,
+        "num": 130950,
+        "word": "邱贻可摸孙颖莎小脑袋",
+        "onboard_time": 1760274142,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129362,
+        "num": 129362,
+        "word": "海鲜价格暴跌了",
+        "onboard_time": 1760260640,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129497,
+        "num": 129115,
+        "word": "一笑随歌",
+        "onboard_time": 1760265260,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128130,
+        "num": 128130,
+        "word": "四川大川镇称震感强烈持续约4秒",
+        "onboard_time": 1760267419,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 122946,
+        "num": 122946,
+        "word": "服装店的秋装卖不动了",
+        "onboard_time": 1760262141,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117636,
+        "num": 117636,
+        "word": "曾凡博替补",
+        "onboard_time": 1760274020,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115296,
+        "num": 115296,
+        "word": "中国人新石器时代就驯养鸡了",
+        "onboard_time": 1760275099,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114072,
+        "num": 114072,
+        "word": "张杰演唱会",
+        "onboard_time": 1760271620,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110026,
+        "num": 110026,
+        "word": "浙江人的短袖已经穿回本了",
+        "onboard_time": 1760274261,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109533,
+        "num": 109533,
+        "word": "一个年轻人退学家里蹲啃老七年",
+        "onboard_time": 1760264781,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68336,
+        "num": 109295,
+        "word": "景区证实原来趵突泉下面真有水管",
+        "onboard_time": 1760275282,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47645,
+        "num": 109291,
+        "word": "特朗普被孙女问有什么梦想",
+        "onboard_time": 1760274801,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109287,
+        "num": 109287,
+        "word": "欧阳娜娜欧阳娣娣真姐妹就是好嗑",
+        "onboard_time": 1760270001,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108070,
+        "num": 108070,
+        "word": "于正认领张慧雯是许凯新剧女主",
+        "onboard_time": 1760255720,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106172,
+        "num": 106172,
+        "word": "入青云",
+        "onboard_time": 1760265861,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105134,
+        "num": 105134,
+        "word": "王楚钦有三把刀",
+        "onboard_time": 1760275282,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105266,
+        "num": 104884,
+        "word": "巴基斯坦",
+        "onboard_time": 1760248101,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101121,
+        "num": 101121,
+        "word": "高芙职业生涯第11冠",
+        "onboard_time": 1760275099,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93953,
+        "num": 93953,
+        "word": "判断一双鞋有没有足弓支撑的教程",
+        "onboard_time": 1760271501,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 92566,
+        "num": 92566,
+        "word": "肥猫生活的不易",
+        "onboard_time": 1760275282,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91376,
+        "num": 91376,
+        "word": "三部大男主剧同期开播",
+        "onboard_time": 1760250562,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88509,
+        "num": 88509,
+        "word": "到了民政局发现身份是假的",
+        "onboard_time": 1760275581,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#广大妇女起到了半边天的重要作用#"
+    }
+  }
+}
