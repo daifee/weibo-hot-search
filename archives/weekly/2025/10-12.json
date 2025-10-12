@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760304088346,
+  "endTime": 1760304977977,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -2699,6 +2699,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 80812,
+      "num": 23683,
+      "word": "多位明星都曾就读北大光华EMBA",
+      "onboard_time": 1760297774,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80588,
       "num": 80588,
       "word": "上海大师赛",
@@ -2817,14 +2825,6 @@
       "onboard_time": 1760264181,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 76698,
-      "num": 23683,
-      "word": "多位明星都曾就读北大光华EMBA",
-      "onboard_time": 1760297774,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 76670,
@@ -3531,12 +3531,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 12600,
+      "raw_hot": 12870,
       "num": 16345,
       "word": "王暖暖称会上诉追讨前夫盗窃的钱",
       "onboard_time": 1760298434,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12785,
+      "num": 16330,
+      "word": "美国密西西比州枪击事件已致4死12伤",
+      "onboard_time": 1760300953,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 12404,
@@ -3547,20 +3555,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 12098,
-      "num": 16330,
-      "word": "美国密西西比州枪击事件已致4死12伤",
-      "onboard_time": 1760300953,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 9924,
+      "raw_hot": 10879,
       "num": 16295,
       "word": "村民把粮食晒满派出所",
       "onboard_time": 1760300653,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 10397,
+      "num": 15546,
+      "word": "吃饭顺序对血糖的影响有多大",
+      "onboard_time": 1760303654,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 9067,
