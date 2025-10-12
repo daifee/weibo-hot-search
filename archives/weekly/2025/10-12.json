@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760287356648,
+  "endTime": 1760289623420,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -1419,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137895,
+      "num": 90357,
+      "word": "陈泽下播",
+      "onboard_time": 1760286259,
+      "rank": 37,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 137190,
       "num": 137190,
       "word": "被田曦薇一套饭撒小连招美晕了",
@@ -2755,6 +2763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78324,
+      "num": 78324,
+      "word": "降低消耗感的小tips",
+      "onboard_time": 1760287698,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 78263,
       "num": 78263,
       "word": "关晓彤 这才是我的衣服",
@@ -2891,14 +2907,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 72226,
-      "num": 88795,
-      "word": "陈泽下播",
-      "onboard_time": 1760286259,
-      "rank": 37,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 71613,
       "num": 71613,
       "word": "张函瑞变声之路",
@@ -3033,6 +3041,14 @@
       "onboard_time": 1760199862,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64222,
+      "num": 71308,
+      "word": "徐璐好美啊",
+      "onboard_time": 1760288178,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 63947,
@@ -3353,6 +3369,14 @@
       "onboard_time": 1760208255,
       "rank": 34,
       "category": "网红"
+    },
+    {
+      "raw_hot": 29070,
+      "num": 70864,
+      "word": "申请加入棒棒小卖部",
+      "onboard_time": 1760289556,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 28938,
