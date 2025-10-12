@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760247551521,
+  "endTime": 1760250807869,
   "band_list": [
     {
       "raw_hot": 1448521,
@@ -59,6 +59,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 701662,
+      "num": 1112266,
+      "word": "3名官员车祸身亡卡塔尔大使馆发声",
+      "onboard_time": 1760245821,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 691065,
       "num": 308500,
       "word": "CCTV认证断层第一的电视剧",
@@ -89,6 +97,14 @@
       "onboard_time": 1760186182,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 637652,
+      "num": 378633,
+      "word": "巴基斯坦",
+      "onboard_time": 1760248101,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 613237,
@@ -137,6 +153,14 @@
       "onboard_time": 1760229560,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 494781,
+      "num": 205501,
+      "word": "白鹿想染头发",
+      "onboard_time": 1760247382,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 486136,
@@ -195,6 +219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 441927,
+      "num": 213261,
+      "word": "被韩国人的结婚现场震惊到了",
+      "onboard_time": 1760246000,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 434483,
       "num": 434483,
       "word": "外国游客称中国不说英语很正常",
@@ -225,6 +257,14 @@
       "onboard_time": 1760245161,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 421766,
+      "num": 193399,
+      "word": "张智霖袁咏仪为儿子实习争吵",
+      "onboard_time": 1760248461,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 416333,
@@ -387,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 244609,
-      "num": 213261,
-      "word": "被韩国人的结婚现场震惊到了",
-      "onboard_time": 1760246000,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 233315,
       "num": 115064,
       "word": "韩国男子在张家界举韩国国旗",
@@ -411,6 +443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 221044,
+      "num": 192721,
+      "word": "杨幂从小就是大长腿",
+      "onboard_time": 1760247141,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217728,
       "num": 114775,
       "word": "魏大勋连续三年给孟宴臣庆生",
@@ -425,14 +465,6 @@
       "onboard_time": 1760239700,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205501,
-      "num": 205501,
-      "word": "白鹿想染头发",
-      "onboard_time": 1760247382,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 201729,
@@ -507,6 +539,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 187454,
+      "num": 187454,
+      "word": "三部大男主剧同期开播",
+      "onboard_time": 1760250562,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182957,
+      "num": 182957,
+      "word": "无人岛现巨大垃圾天坑",
+      "onboard_time": 1760248341,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179058,
       "num": 179058,
       "word": "原来你们买衣服不是随便摸摸",
@@ -545,14 +593,6 @@
       "onboard_time": 1760234660,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 173654,
-      "num": 173654,
-      "word": "3名官员车祸身亡卡塔尔大使馆发声",
-      "onboard_time": 1760245821,
-      "rank": 25,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 172497,
@@ -651,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144486,
+      "num": 144486,
+      "word": "张峻豪个人资源太好了吧",
+      "onboard_time": 1760249540,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 142426,
       "num": 142426,
       "word": "许我耀眼亲子关系概率0.01%",
@@ -675,6 +723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135385,
+      "num": 135385,
+      "word": "黄子弘凡发文催进度",
+      "onboard_time": 1760250381,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 135117,
       "num": 135117,
       "word": "李昀锐笑与不笑差别真的很大",
@@ -697,6 +753,38 @@
       "onboard_time": 1760246840,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128543,
+      "num": 128543,
+      "word": "浙江一住户5楼空心菜垂1楼像瀑布",
+      "onboard_time": 1760249601,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128302,
+      "num": 128302,
+      "word": "张继科回应和樊振东谁更强",
+      "onboard_time": 1760250322,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126651,
+      "num": 126651,
+      "word": "于文文汪苏泷 分手大师转角相遇",
+      "onboard_time": 1760249781,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126095,
+      "num": 122074,
+      "word": "LPL迎接全球总决赛",
+      "onboard_time": 1760248999,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 125849,
@@ -763,6 +851,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119160,
+      "num": 119160,
+      "word": "警方通报4人在地铁摆拍理发",
+      "onboard_time": 1760247441,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118763,
+      "num": 118763,
+      "word": "林允 VOGUE",
+      "onboard_time": 1760250440,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 118067,
       "num": 118067,
       "word": "12306回应无座乘客自带椅子",
@@ -771,12 +875,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117157,
-      "num": 117157,
-      "word": "杨幂从小就是大长腿",
-      "onboard_time": 1760247141,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 118063,
+      "num": 118063,
+      "word": "湖南博物院更名",
+      "onboard_time": 1760247860,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115531,
@@ -827,6 +931,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 111604,
+      "num": 111604,
+      "word": "没出息火到台湾王世坚本人听傻",
+      "onboard_time": 1760247980,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 111473,
       "num": 111473,
       "word": "也是有女演员闯进内娱小苦瓜赛道了",
@@ -859,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109136,
+      "num": 109136,
+      "word": "坚持长期运动的隐藏福利",
+      "onboard_time": 1760247382,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 108349,
       "num": 108349,
       "word": "许凯天都异闻录开机出妆",
@@ -873,22 +993,6 @@
       "onboard_time": 1760239340,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108202,
-      "num": 108202,
-      "word": "坚持长期运动的隐藏福利",
-      "onboard_time": 1760247382,
-      "rank": 46,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 107352,
-      "num": 107352,
-      "word": "警方通报4人在地铁摆拍理发",
-      "onboard_time": 1760247441,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106212,
@@ -953,6 +1057,14 @@
       "onboard_time": 1760227758,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 99081,
+      "num": 99081,
+      "word": "法考 李佳",
+      "onboard_time": 1760250200,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 98944,
@@ -1067,6 +1179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 89580,
+      "num": 89580,
+      "word": "妈妈会把所有东西都养成XXL",
+      "onboard_time": 1760250623,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 89378,
       "num": 89378,
       "word": "杨妞花杜小华已到解清帅婚礼现场",
@@ -1147,6 +1267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83969,
+      "num": 118334,
+      "word": "19岁女生骑7个半小时摩托车返校",
+      "onboard_time": 1760246781,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83887,
       "num": 83887,
       "word": "2人摆拍悬赏20万寻救命恩人被拘",
@@ -1169,6 +1297,14 @@
       "onboard_time": 1760228839,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83043,
+      "num": 83043,
+      "word": "印尼无缘2026世界杯",
+      "onboard_time": 1760249661,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 82503,
@@ -1281,14 +1417,6 @@
       "onboard_time": 1760238860,
       "rank": 49,
       "category": "民生新闻,时尚"
-    },
-    {
-      "raw_hot": 74936,
-      "num": 118334,
-      "word": "19岁女生骑7个半小时摩托车返校",
-      "onboard_time": 1760246781,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74510,
@@ -1507,6 +1635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 46258,
+      "num": 89152,
+      "word": "王曼昱刘海变条形码",
+      "onboard_time": 1760249180,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44431,
       "num": 123979,
       "word": "丽江景区否认设计夸张称梦幻温馨",
@@ -1577,6 +1713,14 @@
       "onboard_time": 1760209994,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32285,
+      "num": 193653,
+      "word": "为什么vlog不能追求短平快",
+      "onboard_time": 1760248881,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 29644,
