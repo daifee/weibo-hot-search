@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760290605609,
+  "endTime": 1760293919664,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -34995,6 +34995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 72645,
+      "num": 82336,
+      "word": "徐璐好美啊",
+      "onboard_time": 1760288178,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72614,
       "num": 72614,
       "word": "哥哥在旁边气得要崩溃了",
@@ -36017,14 +36025,6 @@
       "onboard_time": 1759481000,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64222,
-      "num": 82336,
-      "word": "徐璐好美啊",
-      "onboard_time": 1760288178,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 64132,
@@ -38419,6 +38419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36469,
+      "num": 41737,
+      "word": "阿富汗巴基斯坦冲突子弹来回穿梭",
+      "onboard_time": 1760290756,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36404,
       "num": 119857,
       "word": "西贝嫩烤大黄鱼仍使用冷冻食材",
@@ -39825,6 +39833,14 @@
       "onboard_time": 1759293140,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18838,
+      "num": 28537,
+      "word": "终于轮到汪苏泷的知识盲区了",
+      "onboard_time": 1760291476,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 18718,

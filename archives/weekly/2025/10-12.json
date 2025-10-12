@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760290605609,
+  "endTime": 1760293919664,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -2907,6 +2907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 72645,
+      "num": 82336,
+      "word": "徐璐好美啊",
+      "onboard_time": 1760288178,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71613,
       "num": 71613,
       "word": "张函瑞变声之路",
@@ -3041,14 +3049,6 @@
       "onboard_time": 1760199862,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 64222,
-      "num": 82336,
-      "word": "徐璐好美啊",
-      "onboard_time": 1760288178,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 63947,
@@ -3339,6 +3339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36469,
+      "num": 41737,
+      "word": "阿富汗巴基斯坦冲突子弹来回穿梭",
+      "onboard_time": 1760290756,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36099,
       "num": 36099,
       "word": "酒店回应婚礼照片被保洁当垃圾扔掉",
@@ -3465,6 +3473,14 @@
       "onboard_time": 1760198121,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 18838,
+      "num": 28537,
+      "word": "终于轮到汪苏泷的知识盲区了",
+      "onboard_time": 1760291476,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 18718,
