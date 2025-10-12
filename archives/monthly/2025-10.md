@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 22:21:28
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 22:38:26
 </p>
 </blockquote>
 <p>
@@ -575,6 +575,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E7%A7%B0%E6%88%91%E4%BA%BA%E9%83%BD%E8%A6%81%E7%AA%92%E6%81%AF%E4%BA%86%23" target="weibo">
 鸡排哥称我人都要窒息了（热度：1280118）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B4%B7%E6%AC%BE%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D%E5%8F%98%E5%B0%91%E4%BA%86%23" target="weibo">
+为什么贷款骚扰电话变少了（热度：1266268）
 </a>
 </li>
 
@@ -1395,12 +1401,6 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B4%B7%E6%AC%BE%E9%AA%9A%E6%89%B0%E7%94%B5%E8%AF%9D%E5%8F%98%E5%B0%91%E4%BA%86%23" target="weibo">
-为什么贷款骚扰电话变少了（热度：875209）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E7%85%A7%E7%89%87%E4%B8%80%E5%AE%9A%E8%A6%81%E6%A3%80%E6%9F%A5%E8%A7%86%E9%87%8E%E7%9B%B2%E5%8C%BA%23" target="weibo">
 朋友圈发照片一定要检查视野盲区（热度：871641）
 </a>
@@ -1499,6 +1499,12 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%96%B9%E5%B0%86%E6%89%BF%E6%8B%85%E6%9C%BA%E7%A5%A8%E5%92%8C%E9%85%92%E5%BA%97%E4%BA%A7%E7%94%9F%E7%9A%84%E6%8D%9F%E5%A4%B1%23" target="weibo">
 鹿晗方将承担机票和酒店产生的损失（热度：841724）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B2%81%20%E4%BF%BA%E6%83%B3%E4%BD%A0%E4%BA%86%23" target="weibo">
+鲁 俺想你了（热度：839994）
 </a>
 </li>
 
@@ -2817,6 +2823,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%82%A3%E5%BC%BA%E7%9B%B4%E6%80%A7%E8%84%8A%E6%9F%B1%E7%82%8E%E8%B6%8520%E5%B9%B4%23" target="weibo">
+周杰伦患强直性脊柱炎超20年（热度：572665）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E4%BA%86%E9%9A%90%E7%BF%85%E8%99%AB%23" target="weibo">
 发现了隐翅虫（热度：572264）
 </a>
@@ -3467,12 +3479,6 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B7%B3%E5%A6%BB%E5%AD%90%E5%9B%A0%E6%98%93%E6%A2%A6%E7%8E%B2%E6%83%B3%E6%95%B4%E5%AE%B9%23" target="weibo">
 杜淳妻子因易梦玲想整容（热度：499722）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B2%81%20%E4%BF%BA%E6%83%B3%E4%BD%A0%E4%BA%86%23" target="weibo">
-鲁 俺想你了（热度：499640）
 </a>
 </li>
 
@@ -4455,12 +4461,6 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%82%A3%E5%BC%BA%E7%9B%B4%E6%80%A7%E8%84%8A%E6%9F%B1%E7%82%8E%E8%B6%8520%E5%B9%B4%23" target="weibo">
-周杰伦患强直性脊柱炎超20年（热度：413741）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%A5%A8%E6%88%BF%E5%89%8D3%23" target="weibo">
 国庆档票房前3（热度：412880）
 </a>
@@ -4511,6 +4511,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%20%E7%8E%B0%E5%9C%A8vlog%E9%83%BD%E8%A6%81%E6%88%91%E6%8F%90%E9%86%92%E4%BD%A0%E6%8B%8D%E4%BA%86%E5%90%97%23" target="weibo">
 白鹿 现在vlog都要我提醒你拍了吗（热度：406950）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E6%88%8F%23" target="weibo">
+入戏（热度：405242）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ offer7播一半淘汰了三个人（热度：311785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%8E%8B%E6%9B%BC%E6%98%B1%E4%BA%92%E7%9B%B8%E9%81%93%E5%96%9C%23" target="weibo">
 王楚钦王曼昱互相道喜（热度：307390）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E5%BC%A0%E7%BB%B4%E4%BC%8A%E5%A9%9A%E7%A4%BC%E5%90%88%E5%BD%B1%E7%AB%99%E4%BD%8D%23" target="weibo">
-董璇张维伊婚礼合影站位（热度：306422）
 </a>
 </li>
 
