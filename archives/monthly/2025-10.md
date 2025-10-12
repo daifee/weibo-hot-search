@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 15:22:10
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 15:36:40
 </p>
 </blockquote>
 <p>
@@ -2591,6 +2591,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%89%BA%E6%98%95%E5%A5%B3%E5%84%BF%E7%9D%AB%E6%AF%9B%E5%A5%BD%E9%95%BF%23" target="weibo">
 唐艺昕女儿睫毛好长（热度：597391）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%98%BF%E5%9D%9D%E5%B7%9E%E5%9C%B0%E9%9C%87%23" target="weibo">
+四川阿坝州地震（热度：597001）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ offer7播一半淘汰了三个人（热度：311785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%20%E4%B8%87%E8%BE%BE%E7%94%B5%E5%BD%B1%23" target="weibo">
 恋与深空 万达电影（热度：296322）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B3%E5%85%AC%E9%B8%A1%E8%A2%AB%E5%AE%B0%E5%90%8E%E9%9D%A0%E4%BA%91%E5%8D%97%E7%99%BD%E8%8D%AF%E7%BB%AD%E5%91%BD%23" target="weibo">
-贵阳公鸡被宰后靠云南白药续命（热度：296176）
 </a>
 </li>
 

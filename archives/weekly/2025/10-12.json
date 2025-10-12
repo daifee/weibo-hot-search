@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760253730369,
+  "endTime": 1760254600055,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 713252,
-      "num": 378633,
+      "num": 524366,
       "word": "巴基斯坦",
       "onboard_time": 1760248101,
       "rank": 3,
@@ -137,6 +137,14 @@
       "onboard_time": 1760197282,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 597001,
+      "num": 597001,
+      "word": "四川阿坝州地震",
+      "onboard_time": 1760253861,
+      "rank": 1,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 557711,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 392476,
-      "num": 176078,
+      "num": 179850,
       "word": "经纪人回应女星抢娜扎休息室",
       "onboard_time": 1760251100,
       "rank": 30,
@@ -419,6 +427,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 293591,
+      "num": 293591,
+      "word": "浙江一住户5楼空心菜垂1楼像瀑布",
+      "onboard_time": 1760249601,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291587,
+      "num": 174612,
+      "word": "林允 VOGUE",
+      "onboard_time": 1760250440,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 272453,
       "num": 114420,
       "word": "李承铉撮合张远和王霏霏",
@@ -433,6 +457,14 @@
       "onboard_time": 1760241260,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263828,
+      "num": 164243,
+      "word": "冰箱贴已经比冰箱贵了",
+      "onboard_time": 1760253620,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 257619,
@@ -459,14 +491,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 242844,
-      "num": 242844,
-      "word": "浙江一住户5楼空心菜垂1楼像瀑布",
-      "onboard_time": 1760249601,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 233315,
       "num": 115064,
       "word": "韩国男子在张家界举韩国国旗",
@@ -475,20 +499,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227100,
+      "num": 227100,
+      "word": "法考 李佳",
+      "onboard_time": 1760250200,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 227099,
       "num": 227099,
       "word": "中国海警依法管控驱离菲船只",
       "onboard_time": 1760246360,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 225539,
-      "num": 174612,
-      "word": "林允 VOGUE",
-      "onboard_time": 1760250440,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 221044,
@@ -587,14 +611,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 179679,
-      "num": 179679,
-      "word": "法考 李佳",
-      "onboard_time": 1760250200,
-      "rank": 42,
-      "category": "教育"
-    },
-    {
       "raw_hot": 179058,
       "num": 179058,
       "word": "原来你们买衣服不是随便摸摸",
@@ -675,6 +691,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 162644,
+      "num": 162644,
+      "word": "桃黑黑不播盛世天下了",
+      "onboard_time": 1760252120,
+      "rank": 27,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 161444,
       "num": 161444,
       "word": "新加坡父女双尸案后续",
@@ -739,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154773,
+      "num": 154773,
+      "word": "这是刘涛还是王子文",
+      "onboard_time": 1760254162,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152478,
       "num": 152478,
       "word": "5人冒充院士钟世镇学生与其合影",
@@ -795,14 +827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142061,
-      "num": 142061,
-      "word": "桃黑黑不播盛世天下了",
-      "onboard_time": 1760252120,
-      "rank": 27,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 139979,
       "num": 139979,
       "word": "阿富汗巴基斯坦边境深夜激战",
@@ -857,6 +881,14 @@
       "onboard_time": 1760245580,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 132892,
+      "num": 132892,
+      "word": "我家那闺女",
+      "onboard_time": 1760253620,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 130644,
@@ -1067,8 +1099,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109257,
-      "num": 109257,
+      "raw_hot": 109267,
+      "num": 109267,
       "word": "国产循环剧终于不是天崩开局了",
       "onboard_time": 1760252060,
       "rank": 38,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1760246421,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 105762,
+      "num": 105762,
+      "word": "侯明昊卢昱晓早期留子味",
+      "onboard_time": 1760254162,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 105740,
@@ -1139,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104224,
+      "num": 101884,
+      "word": "徐振轩机场和路人大爷牵手成功",
+      "onboard_time": 1760254221,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102540,
       "num": 199788,
       "word": "中国海警回应菲船只侵闯铁线礁",
@@ -1163,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98392,
+      "num": 161395,
+      "word": "张晚意一看在家就没少和姐姐斗嘴",
+      "onboard_time": 1760252479,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97998,
       "num": 97998,
       "word": "周杰伦嘉年华收官场",
@@ -1177,6 +1233,14 @@
       "onboard_time": 1760230880,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 97035,
+      "num": 97035,
+      "word": "王者装备都能联名",
+      "onboard_time": 1760254401,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 96257,
@@ -1209,14 +1273,6 @@
       "onboard_time": 1760241800,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92491,
-      "num": 92491,
-      "word": "冰箱贴已经比冰箱贵了",
-      "onboard_time": 1760253620,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 92411,
@@ -1275,12 +1331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91051,
-      "num": 91051,
-      "word": "我家那闺女",
-      "onboard_time": 1760253620,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 91045,
+      "num": 91045,
+      "word": "比特币历史性大跌复盘",
+      "onboard_time": 1760251762,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 89734,
@@ -1459,20 +1515,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81402,
+      "num": 102356,
+      "word": "男孩次次前十仍遭妈妈质问致抑郁",
+      "onboard_time": 1760253983,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80520,
       "num": 80520,
       "word": "特朗普要求确保发军饷",
       "onboard_time": 1760231120,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 79947,
-      "num": 161395,
-      "word": "张晚意一看在家就没少和姐姐斗嘴",
-      "onboard_time": 1760252479,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 79697,
@@ -1972,7 +2028,7 @@
     },
     {
       "raw_hot": 4835,
-      "num": 496861,
+      "num": 537891,
       "word": "青春华章",
       "onboard_time": 1760172020,
       "rank": 2,

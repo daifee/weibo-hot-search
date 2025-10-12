@@ -1,0 +1,410 @@
+{
+  "runTime": 1760254600055,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1607904,
+        "num": 1607904,
+        "word": "中国已确立11颗金钉子",
+        "onboard_time": 1760250799,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 597001,
+        "num": 597001,
+        "word": "四川阿坝州地震",
+        "onboard_time": 1760253861,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 2756,
+        "num": 537891,
+        "word": "青春华章",
+        "onboard_time": 1760172020,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524366,
+        "num": 524366,
+        "word": "巴基斯坦",
+        "onboard_time": 1760248101,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 366029,
+        "num": 366029,
+        "word": "无人岛现巨大垃圾天坑",
+        "onboard_time": 1760248341,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293591,
+        "num": 293591,
+        "word": "浙江一住户5楼空心菜垂1楼像瀑布",
+        "onboard_time": 1760249601,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227100,
+        "num": 227100,
+        "word": "法考 李佳",
+        "onboard_time": 1760250200,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216015,
+        "num": 216015,
+        "word": "3名官员车祸身亡卡塔尔大使馆发声",
+        "onboard_time": 1760245821,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 189862,
+        "num": 189862,
+        "word": "外国游客称中国不说英语很正常",
+        "onboard_time": 1760242880,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182810,
+        "num": 182810,
+        "word": "菲律宾派出的挑衅船只越来越多",
+        "onboard_time": 1760245161,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 689351,
+        "num": 182610,
+        "word": "三部大男主剧同期开播",
+        "onboard_time": 1760250562,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387537,
+        "num": 179850,
+        "word": "经纪人回应女星抢娜扎休息室",
+        "onboard_time": 1760251100,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367075,
+        "num": 178256,
+        "word": "白鹿想染头发",
+        "onboard_time": 1760247382,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339362,
+        "num": 174175,
+        "word": "CCTV认证断层第一的电视剧",
+        "onboard_time": 1760238620,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315671,
+        "num": 171711,
+        "word": "万科董事长辛杰已失联",
+        "onboard_time": 1760233819,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315070,
+        "num": 169995,
+        "word": "张智霖袁咏仪为儿子实习争吵",
+        "onboard_time": 1760248461,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291587,
+        "num": 167596,
+        "word": "林允 VOGUE",
+        "onboard_time": 1760250440,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 282404,
+        "num": 165613,
+        "word": "被韩国人的结婚现场震惊到了",
+        "onboard_time": 1760246000,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263828,
+        "num": 164243,
+        "word": "冰箱贴已经比冰箱贵了",
+        "onboard_time": 1760253620,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162644,
+        "num": 162644,
+        "word": "桃黑黑不播盛世天下了",
+        "onboard_time": 1760252120,
+        "rank": 19,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 360676,
+        "num": 161849,
+        "word": "南北cp",
+        "onboard_time": 1760240900,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157918,
+        "num": 157918,
+        "word": "商务部公告附件首次改为wps格式",
+        "onboard_time": 1760241380,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155341,
+        "num": 155341,
+        "word": "杨幂从小就是大长腿",
+        "onboard_time": 1760247141,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154773,
+        "num": 154773,
+        "word": "这是刘涛还是王子文",
+        "onboard_time": 1760254162,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148740,
+        "num": 148740,
+        "word": "巴方称要像对印度一样回应阿富汗",
+        "onboard_time": 1760252901,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148071,
+        "num": 148071,
+        "word": "于文文汪苏泷 分手大师转角相遇",
+        "onboard_time": 1760249781,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145693,
+        "num": 145693,
+        "word": "张凌赫 偶遇照拍成情侣照",
+        "onboard_time": 1760252301,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141132,
+        "num": 141132,
+        "word": "关晓彤果然是被造型师陷害的",
+        "onboard_time": 1760197282,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135273,
+        "num": 135273,
+        "word": "张继科回应和樊振东谁更强",
+        "onboard_time": 1760250322,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134634,
+        "num": 134634,
+        "word": "张晚意李沁还好生在和平年代",
+        "onboard_time": 1760241260,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132892,
+        "num": 132892,
+        "word": "我家那闺女",
+        "onboard_time": 1760253620,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124904,
+        "num": 124904,
+        "word": "阿富汗巴基斯坦边境深夜激战",
+        "onboard_time": 1760251279,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123760,
+        "num": 123760,
+        "word": "法考主观题",
+        "onboard_time": 1760245161,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121655,
+        "num": 121655,
+        "word": "中方回应美方威胁加征100%关税",
+        "onboard_time": 1760236580,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120877,
+        "num": 120877,
+        "word": "余承恩在舅舅赛道无人能敌",
+        "onboard_time": 1760252600,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109607,
+        "num": 109607,
+        "word": "赵磊回应官宣结婚",
+        "onboard_time": 1760252479,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109267,
+        "num": 109267,
+        "word": "国产循环剧终于不是天崩开局了",
+        "onboard_time": 1760252060,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105762,
+        "num": 105762,
+        "word": "侯明昊卢昱晓早期留子味",
+        "onboard_time": 1760254162,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81402,
+        "num": 102356,
+        "word": "男孩次次前十仍遭妈妈质问致抑郁",
+        "onboard_time": 1760253983,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17540,
+        "num": 102071,
+        "word": "S15倒计时2天",
+        "onboard_time": 1760253561,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98392,
+        "num": 101975,
+        "word": "张晚意一看在家就没少和姐姐斗嘴",
+        "onboard_time": 1760252479,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101892,
+        "num": 101892,
+        "word": "孟子义李昀锐广东开机同框",
+        "onboard_time": 1760239519,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104224,
+        "num": 101884,
+        "word": "徐振轩机场和路人大爷牵手成功",
+        "onboard_time": 1760254221,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101802,
+        "num": 101802,
+        "word": "官方致歉公交站安装S型护栏",
+        "onboard_time": 1760252721,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97163,
+        "num": 97163,
+        "word": "LPL迎接全球总决赛",
+        "onboard_time": 1760248999,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97035,
+        "num": 97035,
+        "word": "王者装备都能联名",
+        "onboard_time": 1760254401,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93572,
+        "num": 93572,
+        "word": "卡塔尔代表团遭遇车祸已致3死3伤",
+        "onboard_time": 1760229739,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91872,
+        "num": 91872,
+        "word": "2025还剩80天",
+        "onboard_time": 1760235261,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91045,
+        "num": 91045,
+        "word": "比特币历史性大跌复盘",
+        "onboard_time": 1760251762,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90408,
+        "num": 90408,
+        "word": "没出息火到台湾王世坚本人听傻",
+        "onboard_time": 1760247980,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记激励巾帼之花绽放新时代#"
+    }
+  }
+}
