@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760238981045,
+  "endTime": 1760240885666,
   "band_list": [
     {
       "raw_hot": 1448521,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 912924,
-      "num": 202581,
+      "num": 217844,
       "word": "迪丽热巴申请限消邓氏阿嬷手作",
       "onboard_time": 1760195961,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 752959,
-      "num": 206894,
+      "num": 218065,
       "word": "原来小说里的道歉方式都是真的",
       "onboard_time": 1760235020,
       "rank": 39,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 674573,
-      "num": 205657,
+      "num": 218003,
       "word": "马思纯 自然得像没搞一样",
       "onboard_time": 1760230460,
       "rank": 10,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 613237,
-      "num": 204529,
+      "num": 217876,
       "word": "丈夫坚持AA制妻子无力支付要写欠条",
       "onboard_time": 1760195002,
       "rank": 12,
@@ -68,11 +68,27 @@
     },
     {
       "raw_hot": 611380,
-      "num": 206100,
+      "num": 217993,
       "word": "关晓彤果然是被造型师陷害的",
       "onboard_time": 1760197282,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553102,
+      "num": 218036,
+      "word": "济南一下肢瘫痪中年男子投河身亡",
+      "onboard_time": 1760237360,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 544796,
+      "num": 218020,
+      "word": "合成保时捷女销冠不雅视频男子致歉",
+      "onboard_time": 1760236880,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 520628,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 471484,
-      "num": 203217,
+      "num": 217853,
       "word": "摩托车死亡摇摆车主撞花坛当场身亡",
       "onboard_time": 1760230880,
       "rank": 13,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 467928,
-      "num": 205240,
+      "num": 217941,
       "word": "美国下架数百万件中国电子产品",
       "onboard_time": 1760231480,
       "rank": 15,
@@ -171,19 +187,51 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 362625,
-      "num": 203664,
-      "word": "合成保时捷女销冠不雅视频男子致歉",
-      "onboard_time": 1760236880,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 356214,
       "num": 116073,
       "word": "唐艺昕女儿睫毛好长",
       "onboard_time": 1760193623,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 345350,
+      "num": 217970,
+      "word": "朱一龙檀健次 空枪",
+      "onboard_time": 1760237600,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 341594,
+      "num": 217968,
+      "word": "何晟铭女儿13岁了",
+      "onboard_time": 1760239340,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 320543,
+      "num": 217936,
+      "word": "李煜东 给大家说个好消息",
+      "onboard_time": 1760238620,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 319494,
+      "num": 217923,
+      "word": "CCTV认证断层第一的电视剧",
+      "onboard_time": 1760238620,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 305726,
+      "num": 217902,
+      "word": "这居然是陶昕然",
+      "onboard_time": 1760239640,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -204,19 +252,19 @@
     },
     {
       "raw_hot": 296861,
-      "num": 202078,
+      "num": 217839,
       "word": "齐溪回应41岁生二胎",
       "onboard_time": 1760231660,
       "rank": 18,
       "category": "综艺"
     },
     {
-      "raw_hot": 277148,
-      "num": 201538,
-      "word": "济南一下肢瘫痪中年男子投河身亡",
-      "onboard_time": 1760237360,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 289206,
+      "num": 217883,
+      "word": "孟子义李昀锐广东开机同框",
+      "onboard_time": 1760239519,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 272453,
@@ -259,20 +307,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 224742,
-      "num": 201008,
-      "word": "朱一龙檀健次 空枪",
-      "onboard_time": 1760237600,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 217728,
       "num": 114775,
       "word": "魏大勋连续三年给孟宴臣庆生",
       "onboard_time": 1760189363,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 211341,
+      "num": 211341,
+      "word": "胡先煦 胡图图遇到牛爷爷",
+      "onboard_time": 1760239700,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 205920,
+      "num": 188370,
+      "word": "山航空姐的裤装上线了",
+      "onboard_time": 1760239580,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201729,
+      "num": 201729,
+      "word": "一个镜头拉满生理性恐惧",
+      "onboard_time": 1760238739,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 200497,
@@ -292,7 +356,7 @@
     },
     {
       "raw_hot": 197458,
-      "num": 197458,
+      "num": 218043,
       "word": "商务部就近期经贸措施答记者问",
       "onboard_time": 1760236580,
       "rank": 21,
@@ -313,6 +377,30 @@
       "onboard_time": 1760189061,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189540,
+      "num": 189540,
+      "word": "李维嘉吴昕直播大声蛐蛐杜海涛",
+      "onboard_time": 1760240059,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 177080,
+      "num": 177080,
+      "word": "为什么不吃米面体重很快会减轻",
+      "onboard_time": 1760240240,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 176882,
+      "num": 176882,
+      "word": "男子传保时捷女销冠不雅内容被拘",
+      "onboard_time": 1760239460,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175257,
@@ -387,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150332,
+      "num": 218079,
+      "word": "微博视界大会",
+      "onboard_time": 1760225477,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148349,
       "num": 148349,
       "word": "王老吉发文有病去医院有事找法院",
@@ -403,14 +499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137914,
-      "num": 207520,
-      "word": "微博视界大会",
-      "onboard_time": 1760225477,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137034,
       "num": 113651,
       "word": "许凯开机",
@@ -425,6 +513,14 @@
       "onboard_time": 1760192421,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125292,
+      "num": 125292,
+      "word": "乘客手机遗落飞机上被安全员带回家",
+      "onboard_time": 1760238560,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125077,
@@ -467,6 +563,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114856,
+      "num": 114856,
+      "word": "合成不雅视频男子悔过书曝光",
+      "onboard_time": 1760239519,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113288,
+      "num": 113288,
+      "word": "赵磊回应粉丝都有知情的权利",
+      "onboard_time": 1760238680,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113148,
       "num": 113148,
       "word": "印企保证稀土不流入美国",
@@ -481,6 +593,22 @@
       "onboard_time": 1760232140,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111473,
+      "num": 111473,
+      "word": "也是有女演员闯进内娱小苦瓜赛道了",
+      "onboard_time": 1760240659,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108207,
+      "num": 108207,
+      "word": "古装剧都知道射手站后排",
+      "onboard_time": 1760239340,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 105740,
@@ -539,12 +667,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 97120,
-      "num": 97120,
-      "word": "李煜东 给大家说个好消息",
-      "onboard_time": 1760238620,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 96257,
+      "num": 96257,
+      "word": "黑芝麻糊炖奶",
+      "onboard_time": 1760240719,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 94880,
@@ -609,14 +737,6 @@
       "onboard_time": 1760233999,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 88624,
-      "num": 88624,
-      "word": "CCTV认证断层第一的电视剧",
-      "onboard_time": 1760238620,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 88339,
@@ -699,14 +819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81144,
-      "num": 81144,
-      "word": "赵磊回应粉丝都有知情的权利",
-      "onboard_time": 1760238680,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 80520,
       "num": 80520,
       "word": "特朗普要求确保发军饷",
@@ -715,12 +827,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 79908,
-      "num": 79908,
-      "word": "一个镜头拉满生理性恐惧",
-      "onboard_time": 1760238739,
-      "rank": 47,
-      "category": "剧集"
+      "raw_hot": 79488,
+      "num": 113633,
+      "word": "高洪波卸任重庆荣昌区委书记",
+      "onboard_time": 1760240600,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79419,
@@ -737,14 +849,6 @@
       "onboard_time": 1760226620,
       "rank": 41,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 78920,
-      "num": 78920,
-      "word": "乘客手机遗落飞机上被安全员带回家",
-      "onboard_time": 1760238560,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78403,
@@ -955,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53638,
+      "num": 113303,
+      "word": "下肢瘫痪投河男子死前曾给妹妹转账",
+      "onboard_time": 1760240059,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53619,
       "num": 57306,
       "word": "第一次在鱼脸上看到生气的表情",
@@ -1097,6 +1209,14 @@
       "onboard_time": 1760205436,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1470,
+      "num": 496861,
+      "word": "青春华章",
+      "onboard_time": 1760172020,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

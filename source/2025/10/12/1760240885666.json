@@ -1,0 +1,410 @@
+{
+  "runTime": 1760240885666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1312069,
+        "num": 1312069,
+        "word": "万科董事长辛杰已失联",
+        "onboard_time": 1760233819,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 653515,
+        "num": 653515,
+        "word": "中方回应美方威胁加征100%关税",
+        "onboard_time": 1760236580,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1470,
+        "num": 496861,
+        "word": "青春华章",
+        "onboard_time": 1760172020,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441582,
+        "num": 441582,
+        "word": "卡塔尔代表团遭遇车祸已致3死3伤",
+        "onboard_time": 1760229739,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 288217,
+        "num": 288217,
+        "word": "丽江一景区部分设计被指观感不适",
+        "onboard_time": 1760230340,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221690,
+        "num": 221690,
+        "word": "大学生识破间谍套路并举报获表彰",
+        "onboard_time": 1760229560,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218111,
+        "num": 218111,
+        "word": "广东海洋大学被曝住宿环境差",
+        "onboard_time": 1760231059,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180876,
+        "num": 218099,
+        "word": "厦门公安接到台湾民众举报",
+        "onboard_time": 1760231480,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168136,
+        "num": 218087,
+        "word": "千万富翁给丢失25年儿子婚礼办40桌",
+        "onboard_time": 1760193803,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150332,
+        "num": 218079,
+        "word": "微博视界大会",
+        "onboard_time": 1760225477,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 668448,
+        "num": 218065,
+        "word": "原来小说里的道歉方式都是真的",
+        "onboard_time": 1760235020,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143207,
+        "num": 218043,
+        "word": "商务部就近期经贸措施答记者问",
+        "onboard_time": 1760236580,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 553102,
+        "num": 218036,
+        "word": "济南一下肢瘫痪中年男子投河身亡",
+        "onboard_time": 1760237360,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 544796,
+        "num": 218020,
+        "word": "合成保时捷女销冠不雅视频男子致歉",
+        "onboard_time": 1760236880,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 446669,
+        "num": 218003,
+        "word": "马思纯 自然得像没搞一样",
+        "onboard_time": 1760230460,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429497,
+        "num": 217993,
+        "word": "关晓彤果然是被造型师陷害的",
+        "onboard_time": 1760197282,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345350,
+        "num": 217970,
+        "word": "朱一龙檀健次 空枪",
+        "onboard_time": 1760237600,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 341594,
+        "num": 217968,
+        "word": "何晟铭女儿13岁了",
+        "onboard_time": 1760239340,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322180,
+        "num": 217941,
+        "word": "美国下架数百万件中国电子产品",
+        "onboard_time": 1760231480,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 320543,
+        "num": 217936,
+        "word": "李煜东 给大家说个好消息",
+        "onboard_time": 1760238620,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319494,
+        "num": 217923,
+        "word": "CCTV认证断层第一的电视剧",
+        "onboard_time": 1760238620,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305726,
+        "num": 217902,
+        "word": "这居然是陶昕然",
+        "onboard_time": 1760239640,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289206,
+        "num": 217883,
+        "word": "孟子义李昀锐广东开机同框",
+        "onboard_time": 1760239519,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287278,
+        "num": 217876,
+        "word": "丈夫坚持AA制妻子无力支付要写欠条",
+        "onboard_time": 1760195002,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265299,
+        "num": 217853,
+        "word": "摩托车死亡摇摆车主撞花坛当场身亡",
+        "onboard_time": 1760230880,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232939,
+        "num": 217844,
+        "word": "迪丽热巴申请限消邓氏阿嬷手作",
+        "onboard_time": 1760195961,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217839,
+        "num": 217839,
+        "word": "齐溪回应41岁生二胎",
+        "onboard_time": 1760231660,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211341,
+        "num": 211341,
+        "word": "胡先煦 胡图图遇到牛爷爷",
+        "onboard_time": 1760239700,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201729,
+        "num": 201729,
+        "word": "一个镜头拉满生理性恐惧",
+        "onboard_time": 1760238739,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189540,
+        "num": 189540,
+        "word": "李维嘉吴昕直播大声蛐蛐杜海涛",
+        "onboard_time": 1760240059,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205920,
+        "num": 188370,
+        "word": "山航空姐的裤装上线了",
+        "onboard_time": 1760239580,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177080,
+        "num": 177080,
+        "word": "为什么不吃米面体重很快会减轻",
+        "onboard_time": 1760240240,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176882,
+        "num": 176882,
+        "word": "男子传保时捷女销冠不雅内容被拘",
+        "onboard_time": 1760239460,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161743,
+        "num": 161743,
+        "word": "舒淇尹浩宇 姐狗",
+        "onboard_time": 1760235320,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141332,
+        "num": 141332,
+        "word": "2025还剩80天",
+        "onboard_time": 1760235261,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125292,
+        "num": 125292,
+        "word": "乘客手机遗落飞机上被安全员带回家",
+        "onboard_time": 1760238560,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114856,
+        "num": 114856,
+        "word": "合成不雅视频男子悔过书曝光",
+        "onboard_time": 1760239519,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79488,
+        "num": 113633,
+        "word": "高洪波卸任重庆荣昌区委书记",
+        "onboard_time": 1760240600,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53638,
+        "num": 113303,
+        "word": "下肢瘫痪投河男子死前曾给妹妹转账",
+        "onboard_time": 1760240059,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113288,
+        "num": 113288,
+        "word": "赵磊回应粉丝都有知情的权利",
+        "onboard_time": 1760238680,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112327,
+        "num": 112327,
+        "word": "保时捷女销冠晒行政处罚决定书",
+        "onboard_time": 1760237120,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111907,
+        "num": 111907,
+        "word": "迪丽热巴ins点赞转发破百万",
+        "onboard_time": 1760230821,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111473,
+        "num": 111473,
+        "word": "也是有女演员闯进内娱小苦瓜赛道了",
+        "onboard_time": 1760240659,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108207,
+        "num": 108207,
+        "word": "古装剧都知道射手站后排",
+        "onboard_time": 1760239340,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110591,
+        "num": 107811,
+        "word": "许我耀眼亲子关系概率0.01%",
+        "onboard_time": 1760233580,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107006,
+        "num": 107006,
+        "word": "外围大跌",
+        "onboard_time": 1760234479,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103562,
+        "num": 103562,
+        "word": "外卖骑手能屏蔽顾客了",
+        "onboard_time": 1760238380,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99596,
+        "num": 99596,
+        "word": "金价回调一度跌破4000美元",
+        "onboard_time": 1760226978,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96732,
+        "num": 96732,
+        "word": "高反失温女孩术后已昏迷3天",
+        "onboard_time": 1760227639,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96257,
+        "num": 96257,
+        "word": "黑芝麻糊炖奶",
+        "onboard_time": 1760240719,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为新时代妇女事业发展指方向#"
+    }
+  }
+}

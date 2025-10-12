@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 11:16:21
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 11:48:05
 </p>
 </blockquote>
 <p>
@@ -2799,6 +2799,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%8D%97%E4%B8%80%E4%B8%8B%E8%82%A2%E7%98%AB%E7%97%AA%E4%B8%AD%E5%B9%B4%E7%94%B7%E5%AD%90%E6%8A%95%E6%B2%B3%E8%BA%AB%E4%BA%A1%23" target="weibo">
+济南一下肢瘫痪中年男子投河身亡（热度：553102）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E7%A7%8B%E6%99%9A%E6%B1%B6%E5%B7%9D3%E5%88%86%E9%92%9F%E5%A4%AA%E5%82%AC%E6%B3%AA%23" target="weibo">
 央视秋晚汶川3分钟太催泪（热度：552412）
 </a>
@@ -2861,6 +2867,12 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E7%9F%AD37%E7%A7%92%E5%90%BB%E6%88%8F%E5%BA%8A%E6%88%8F%E9%83%BD%E4%B8%8A%E5%B0%BA%E5%BA%A6%E4%BA%86%23" target="weibo">
 短短37秒吻戏床戏都上尺度了（热度：545938）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E6%88%90%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%86%A0%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E7%94%B7%E5%AD%90%E8%87%B4%E6%AD%89%23" target="weibo">
+合成保时捷女销冠不雅视频男子致歉（热度：544796）
 </a>
 </li>
 
@@ -4815,12 +4827,6 @@ iPhone17系列激活量曝光（热度：374659）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E6%88%90%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%86%A0%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E7%94%B7%E5%AD%90%E8%87%B4%E6%AD%89%23" target="weibo">
-合成保时捷女销冠不雅视频男子致歉（热度：362625）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%80%9A%E6%A3%AE%E7%8A%AF%E8%A7%84%23" target="weibo">
 杨瀚森犯规（热度：361904）
 </a>
@@ -5037,6 +5043,12 @@ TF家族男团在湖南秋晚三代同台（热度：346043）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%AA%80%E5%81%A5%E6%AC%A1%20%E7%A9%BA%E6%9E%AA%23" target="weibo">
+朱一龙檀健次 空枪（热度：345350）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E6%9C%89%E4%BA%BA%E6%AD%A3%E5%9C%A8%E6%8C%82%E5%BF%B5%E4%BD%A0%23" target="weibo">
 易烊千玺 有人正在挂念你（热度：343347）
 </a>
@@ -5075,6 +5087,12 @@ p图姐喊话黄俊捷（热度：342786）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A6%81%E5%8D%96%E5%95%A4%E9%85%92%E4%BA%86%23" target="weibo">
 蜜雪冰城要卖啤酒了（热度：341689）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%99%9F%E9%93%AD%E5%A5%B3%E5%84%BF13%E5%B2%81%E4%BA%86%23" target="weibo">
+何晟铭女儿13岁了（热度：341594）
 </a>
 </li>
 
@@ -5361,6 +5379,12 @@ TF家族（热度：321156）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%85%9C%E4%B8%9C%20%E7%BB%99%E5%A4%A7%E5%AE%B6%E8%AF%B4%E4%B8%AA%E5%A5%BD%E6%B6%88%E6%81%AF%23" target="weibo">
+李煜东 给大家说个好消息（热度：320543）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E4%B8%80%E6%99%AF%E5%8C%BA%E6%BC%94%E5%91%98%E4%B8%8A%E6%BC%94%E4%BB%99%E5%A5%B3%E6%95%A3%E8%8A%B1%23" target="weibo">
 河南一景区演员上演仙女散花（热度：320189）
 </a>
@@ -5369,6 +5393,12 @@ TF家族（热度：321156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B100%E8%8A%B1%E5%BC%80%E5%A7%8B%E6%BC%94%E5%A6%88%E4%BA%86%23" target="weibo">
 内娱00花开始演妈了（热度：319917）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23CCTV%E8%AE%A4%E8%AF%81%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%E7%9A%84%E7%94%B5%E8%A7%86%E5%89%A7%23" target="weibo">
+CCTV认证断层第一的电视剧（热度：319494）
 </a>
 </li>
 
@@ -5715,6 +5745,12 @@ offer7播一半淘汰了三个人（热度：311785）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E9%99%B6%E6%98%95%E7%84%B6%23" target="weibo">
+这居然是陶昕然（热度：305726）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E9%A3%9F%E8%A2%AB%E6%AD%A7%E8%A7%86%E9%9F%A9%E5%9B%BD%E7%BD%91%E5%8F%8B%E6%80%92%E4%BA%86%23" target="weibo">
 一人食被歧视韩国网友怒了（热度：305294）
 </a>
@@ -5975,42 +6011,6 @@ G社拍的王俊凯巴黎看秀生图（热度：292362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%93%B6%E6%B2%B3%E5%B7%A6%E5%B2%B8%E8%8E%86%E7%94%B0%E9%98%B5%E5%AE%B9%23" target="weibo">
 银河左岸莆田阵容（热度：290329）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%AA%E4%B8%8D%E5%A4%AA%E5%A5%BD%E7%9A%84%E4%B9%A0%E6%83%AF%E5%8F%AB%E7%A9%B7%E6%80%9D%E7%AB%AD%E8%99%91%23" target="weibo">
-有个不太好的习惯叫穷思竭虑（热度：290324）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%A4%A7%E5%B0%BA%E5%BA%A6%E5%90%BB%E6%88%8F%E6%93%85%E8%87%AA%E7%A6%BB%E7%BB%84%23" target="weibo">
-短剧男主不接受大尺度吻戏擅自离组（热度：290202）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E8%BE%BE%E7%94%B5%E5%BD%B1App%E5%B4%A9%E4%BA%86%23" target="weibo">
-万达电影App崩了（热度：289684）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%20%E4%BD%A0%E7%BB%99%E5%BC%A0%E6%99%9A%E6%84%8F%E6%95%B4%E8%BF%99%E4%B9%88%E5%A4%9A%23" target="weibo">
-龚俊 你给张晚意整这么多（热度：289636）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23live%E5%9B%BE%E6%80%8E%E4%B9%88%E5%85%B3%E5%A3%B0%E9%9F%B3%23" target="weibo">
-live图怎么关声音（热度：289588）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%AA%AC%E5%9B%9E%E5%BA%94%E6%99%9A%E4%B8%8A%E4%B8%8D%E5%B8%A6%E5%AD%A9%E5%AD%90%23" target="weibo">
-张檬回应晚上不带孩子（热度：289418）
 </a>
 </li>
 
