@@ -1,7 +1,15 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760235332721,
+  "endTime": 1760238478081,
   "band_list": [
+    {
+      "raw_hot": 1448521,
+      "num": 1448521,
+      "word": "万科董事长辛杰已失联",
+      "onboard_time": 1760233819,
+      "rank": 30,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1431138,
       "num": 1431138,
@@ -12,23 +20,23 @@
     },
     {
       "raw_hot": 912924,
-      "num": 149774,
+      "num": 199215,
       "word": "迪丽热巴申请限消邓氏阿嬷手作",
       "onboard_time": 1760195961,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 742123,
-      "num": 154078,
-      "word": "万科董事长辛杰已失联",
-      "onboard_time": 1760233819,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 710643,
+      "num": 710643,
+      "word": "中方回应美方威胁加征100%关税",
+      "onboard_time": 1760236580,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 674573,
-      "num": 151405,
+      "num": 200685,
       "word": "马思纯 自然得像没搞一样",
       "onboard_time": 1760230460,
       "rank": 10,
@@ -43,8 +51,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 619958,
+      "num": 201208,
+      "word": "原来小说里的道歉方式都是真的",
+      "onboard_time": 1760235020,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 613237,
-      "num": 144989,
+      "num": 199772,
       "word": "丈夫坚持AA制妻子无力支付要写欠条",
       "onboard_time": 1760195002,
       "rank": 12,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 611380,
-      "num": 140660,
+      "num": 201036,
       "word": "关晓彤果然是被造型师陷害的",
       "onboard_time": 1760197282,
       "rank": 13,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 471484,
-      "num": 144070,
+      "num": 199318,
       "word": "摩托车死亡摇摆车主撞花坛当场身亡",
       "onboard_time": 1760230880,
       "rank": 13,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 467928,
-      "num": 146361,
+      "num": 200368,
       "word": "美国下架数百万件中国电子产品",
       "onboard_time": 1760231480,
       "rank": 15,
@@ -187,8 +203,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 259186,
-      "num": 139883,
+      "raw_hot": 270269,
+      "num": 198890,
+      "word": "合成保时捷女销冠不雅视频男子致歉",
+      "onboard_time": 1760236880,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 268941,
+      "num": 198475,
       "word": "齐溪回应41岁生二胎",
       "onboard_time": 1760231660,
       "rank": 18,
@@ -227,6 +251,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221728,
+      "num": 198135,
+      "word": "济南一下肢瘫痪中年男子投河身亡",
+      "onboard_time": 1760237360,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218451,
+      "num": 197471,
+      "word": "朱一龙檀健次 空枪",
+      "onboard_time": 1760237600,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 217728,
       "num": 114775,
       "word": "魏大勋连续三年给孟宴臣庆生",
@@ -241,6 +281,22 @@
       "onboard_time": 1760189123,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197458,
+      "num": 197458,
+      "word": "商务部就近期经贸措施答记者问",
+      "onboard_time": 1760236580,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 194817,
+      "num": 194817,
+      "word": "舒淇尹浩宇 姐狗",
+      "onboard_time": 1760235320,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 191592,
@@ -315,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152590,
+      "num": 152590,
+      "word": "保时捷女销冠晒行政处罚决定书",
+      "onboard_time": 1760237120,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152478,
       "num": 152478,
       "word": "5人冒充院士钟世镇学生与其合影",
@@ -329,6 +393,22 @@
       "onboard_time": 1760180422,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139653,
+      "num": 139653,
+      "word": "许我耀眼亲子关系概率0.01%",
+      "onboard_time": 1760233580,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137191,
+      "num": 201762,
+      "word": "微博视界大会",
+      "onboard_time": 1760225477,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 137034,
@@ -363,11 +443,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 121339,
+      "num": 121339,
+      "word": "外围大跌",
+      "onboard_time": 1760234479,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 118067,
       "num": 118067,
       "word": "12306回应无座乘客自带椅子",
       "onboard_time": 1760180422,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115531,
+      "num": 115531,
+      "word": "解清帅婚礼约100桌",
+      "onboard_time": 1760235560,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -387,14 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105206,
-      "num": 105206,
-      "word": "许我耀眼亲子关系概率0.01%",
-      "onboard_time": 1760233580,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 101593,
       "num": 101593,
       "word": "莲藕汤补气血还不上火",
@@ -403,20 +491,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 101068,
-      "num": 101068,
-      "word": "微博视界大会",
-      "onboard_time": 1760225477,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 100358,
-      "num": 100358,
-      "word": "外围大跌",
-      "onboard_time": 1760234479,
-      "rank": 27,
-      "category": "财经"
+      "raw_hot": 99274,
+      "num": 99274,
+      "word": "你觉得最有用的人生经验是什么",
+      "onboard_time": 1760237719,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 98944,
@@ -491,6 +571,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88551,
+      "num": 88551,
+      "word": "雷军回应早前娱乐视频",
+      "onboard_time": 1760236880,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 88370,
+      "num": 88370,
+      "word": "杨妞花杜小华已到解清帅婚礼现场",
+      "onboard_time": 1760234121,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87604,
+      "num": 87604,
+      "word": "魏大勋 孟宴臣",
+      "onboard_time": 1760192302,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87535,
       "num": 87535,
       "word": "VOGUE盛典52位嘉宾",
@@ -515,6 +619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83870,
+      "num": 83870,
+      "word": "2人摆拍悬赏20万寻救命恩人被拘",
+      "onboard_time": 1760236100,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83315,
       "num": 83315,
       "word": "导演对成毅的喜欢显而易见",
@@ -529,6 +641,14 @@
       "onboard_time": 1760233400,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82332,
+      "num": 82332,
+      "word": "微博大眼音乐节阵容官宣",
+      "onboard_time": 1760236999,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 81507,
@@ -553,14 +673,6 @@
       "onboard_time": 1760231120,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 79460,
-      "num": 79460,
-      "word": "魏大勋 孟宴臣",
-      "onboard_time": 1760192302,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 79419,
@@ -595,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78199,
+      "num": 84155,
+      "word": "王老吉自己先上火了",
+      "onboard_time": 1760237422,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77101,
       "num": 77101,
       "word": "这猫怎么一亲就响不停",
@@ -611,12 +731,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 75917,
-      "num": 75917,
-      "word": "原来小说里的道歉方式都是真的",
-      "onboard_time": 1760235020,
-      "rank": 39,
-      "category": "幽默"
+      "raw_hot": 76155,
+      "num": 76155,
+      "word": "外卖骑手能屏蔽顾客了",
+      "onboard_time": 1760238380,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74510,
+      "num": 121977,
+      "word": "商务部回应稀土相关物项出口管制",
+      "onboard_time": 1760236639,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 74217,
@@ -635,6 +763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 69888,
+      "num": 69888,
+      "word": "当研究生在外收到导师消息",
+      "onboard_time": 1760237899,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69797,
       "num": 69797,
       "word": "岳云鹏亲了薛之谦",
@@ -651,14 +787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 68977,
-      "num": 68977,
-      "word": "舒淇尹浩宇 姐狗",
-      "onboard_time": 1760235320,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 68922,
       "num": 68922,
       "word": "入青云",
@@ -668,7 +796,7 @@
     },
     {
       "raw_hot": 68492,
-      "num": 501377,
+      "num": 681648,
       "word": "悬赏征集台军18人犯罪线索",
       "onboard_time": 1760191463,
       "rank": 2,
@@ -689,6 +817,22 @@
       "onboard_time": 1760193925,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 66000,
+      "num": 66000,
+      "word": "一只狗的逆袭从绝望到重生",
+      "onboard_time": 1760237538,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 65760,
+      "num": 65760,
+      "word": "邓超说演员应该像水",
+      "onboard_time": 1760238261,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 65535,
