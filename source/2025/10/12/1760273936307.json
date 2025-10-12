@@ -1,0 +1,410 @@
+{
+  "runTime": 1760273936307,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 812539,
+        "num": 1130006,
+        "word": "晋A99999劳斯莱斯1544000元起拍",
+        "onboard_time": 1760267480,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 540880,
+        "num": 540880,
+        "word": "吃不吃麻辣烫的都沉默了",
+        "onboard_time": 1760266160,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 7653,
+        "num": 468954,
+        "word": "青春华章",
+        "onboard_time": 1760172020,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 435751,
+        "num": 435751,
+        "word": "冰箱贴已经比冰箱贵了",
+        "onboard_time": 1760253620,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 428448,
+        "num": 428448,
+        "word": "中国已确立11颗金钉子",
+        "onboard_time": 1760250799,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 379575,
+        "num": 379575,
+        "word": "获1300万拆迁款被判刑男子发声",
+        "onboard_time": 1760265861,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340622,
+        "num": 340622,
+        "word": "法国第一夫人被迫证明自己不是男人",
+        "onboard_time": 1760271561,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239791,
+        "num": 239791,
+        "word": "员工拉桌子碰碎近50个和田玉镯",
+        "onboard_time": 1760261240,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228133,
+        "num": 228133,
+        "word": "菲律宾恶意擦碰中国海警船现场视频",
+        "onboard_time": 1760264541,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209277,
+        "num": 209277,
+        "word": "四川芦山4.7级地震",
+        "onboard_time": 1760255179,
+        "rank": 9,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 1026319,
+        "num": 208110,
+        "word": "女子婚内出轨伴郎以夫妻名义同居生子",
+        "onboard_time": 1760267600,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 669544,
+        "num": 206840,
+        "word": "建议睡眠不好的都去吃",
+        "onboard_time": 1760271921,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 471269,
+        "num": 205268,
+        "word": "网友偶遇戚薇北大考试",
+        "onboard_time": 1760262020,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 404019,
+        "num": 203928,
+        "word": "王安宇华电",
+        "onboard_time": 1760271382,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366001,
+        "num": 202220,
+        "word": "垫底辣孩自曝拿到了八大美院的合格证",
+        "onboard_time": 1760257221,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 359768,
+        "num": 201168,
+        "word": "美国女子在迪士尼鬼屋被吓死",
+        "onboard_time": 1760261060,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 305713,
+        "num": 199660,
+        "word": "李一桐造型",
+        "onboard_time": 1760260099,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237700,
+        "num": 196760,
+        "word": "周杰伦发文告别嘉年华巡演",
+        "onboard_time": 1760264240,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 226570,
+        "num": 196495,
+        "word": "陈哲远说今天26集看爽了",
+        "onboard_time": 1760272401,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195051,
+        "num": 195051,
+        "word": "入青云",
+        "onboard_time": 1760265861,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 381067,
+        "num": 193503,
+        "word": "Angelababy跳刀马刀马了",
+        "onboard_time": 1760270480,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292982,
+        "num": 193232,
+        "word": "内娱第一个饭撒女儿的歌手",
+        "onboard_time": 1760272401,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181274,
+        "num": 181274,
+        "word": "剧看了6集男主不知叫啥名",
+        "onboard_time": 1760272159,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172084,
+        "num": 172084,
+        "word": "一笑随歌",
+        "onboard_time": 1760265260,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166896,
+        "num": 166896,
+        "word": "我叫李飞没有脊椎",
+        "onboard_time": 1760273180,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159384,
+        "num": 159384,
+        "word": "于正认领张慧雯是许凯新剧女主",
+        "onboard_time": 1760255720,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149498,
+        "num": 149498,
+        "word": "管乐拉票给TOP整静音了",
+        "onboard_time": 1760273301,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141859,
+        "num": 141859,
+        "word": "高芙首夺武网冠军",
+        "onboard_time": 1760272879,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139407,
+        "num": 139407,
+        "word": "海鲜价格暴跌了",
+        "onboard_time": 1760260640,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134270,
+        "num": 134270,
+        "word": "一个年轻人退学家里蹲啃老七年",
+        "onboard_time": 1760264781,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126461,
+        "num": 126461,
+        "word": "欧阳娜娜欧阳娣娣真姐妹就是好嗑",
+        "onboard_time": 1760270001,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116234,
+        "num": 116234,
+        "word": "吴晙诚3比0户上隼辅",
+        "onboard_time": 1760273423,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114036,
+        "num": 114036,
+        "word": "服装店的秋装卖不动了",
+        "onboard_time": 1760262141,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113807,
+        "num": 113807,
+        "word": "朝鲜阅兵持枪步兵压迫感拉满",
+        "onboard_time": 1760273121,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113663,
+        "num": 113663,
+        "word": "巴基斯坦",
+        "onboard_time": 1760248101,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111891,
+        "num": 111891,
+        "word": "乌克兰32岁知名交易员疑似自杀",
+        "onboard_time": 1760268321,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111402,
+        "num": 111402,
+        "word": "我多弯一次腰父母少吃一点苦",
+        "onboard_time": 1760272159,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99219,
+        "num": 108160,
+        "word": "何广智遇到了自己的仲天骐",
+        "onboard_time": 1760272700,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107751,
+        "num": 107751,
+        "word": "这和Angelababy约会有什么区别",
+        "onboard_time": 1760256380,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103089,
+        "num": 103089,
+        "word": "癌症患者多与这6点有关",
+        "onboard_time": 1760270960,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98661,
+        "num": 98661,
+        "word": "张杰演唱会",
+        "onboard_time": 1760271620,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98517,
+        "num": 98517,
+        "word": "四川大川镇称震感强烈持续约4秒",
+        "onboard_time": 1760267419,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 97525,
+        "num": 97525,
+        "word": "S15世界赛Top20",
+        "onboard_time": 1760272159,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94752,
+        "num": 94752,
+        "word": "韩七录返校",
+        "onboard_time": 1760268801,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 88488,
+        "num": 88488,
+        "word": "姚明再现表情包",
+        "onboard_time": 1760272941,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83503,
+        "num": 83503,
+        "word": "男子自学印制伪钞1650张被判刑",
+        "onboard_time": 1760273240,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83443,
+        "num": 83443,
+        "word": "雷军被8000元小刀价格惊呆了",
+        "onboard_time": 1760256439,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 82438,
+        "num": 82438,
+        "word": "三部大男主剧同期开播",
+        "onboard_time": 1760250562,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80399,
+        "num": 80399,
+        "word": "将上班内容可视化之后",
+        "onboard_time": 1760273541,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79510,
+        "num": 79510,
+        "word": "仙逆动画",
+        "onboard_time": 1760273180,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记激励巾帼之花绽放新时代#"
+    }
+  }
+}
