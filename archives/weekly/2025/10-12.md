@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/12 00:27:55 ~ 2025/10/13 05:36:17
+本榜单时间：2025/10/12 00:27:55 ~ 2025/10/13 06:22:43
 </p>
 </blockquote>
 <p>
@@ -857,6 +857,12 @@ Angelababy跳刀马刀马了（热度：440859）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%BE%E5%81%878%E5%A4%A97%E5%A4%A9%E5%8D%8A%E6%8E%B0%E7%8E%89%E7%B1%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%23" target="weibo">
 放假8天7天半掰玉米大学生回应质疑（热度：169338）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F%E9%83%BD%E6%9B%BE%E5%B0%B1%E8%AF%BB%E5%8C%97%E5%A4%A7%E5%85%89%E5%8D%8EEMBA%23" target="weibo">
+多位明星都曾就读北大光华EMBA（热度：167799）
 </a>
 </li>
 
@@ -2037,12 +2043,6 @@ NBA中国赛2025（热度：84882）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F%E9%83%BD%E6%9B%BE%E5%B0%B1%E8%AF%BB%E5%8C%97%E5%A4%A7%E5%85%89%E5%8D%8EEMBA%23" target="weibo">
-多位明星都曾就读北大光华EMBA（热度：80812）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%A4%A7%E5%B8%88%E8%B5%9B%23" target="weibo">
 上海大师赛（热度：80588）
 </a>
@@ -2385,6 +2385,12 @@ Fly腱鞘炎（热度：71228）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%86%B2%E7%AA%81%E5%AD%90%E5%BC%B9%E6%9D%A5%E5%9B%9E%E7%A9%BF%E6%A2%AD%23" target="weibo">
+阿富汗巴基斯坦冲突子弹来回穿梭（热度：55006）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E8%82%A2%E7%98%AB%E7%97%AA%E6%8A%95%E6%B2%B3%E7%94%B7%E5%AD%90%E6%AD%BB%E5%89%8D%E6%9B%BE%E7%BB%99%E5%A6%B9%E5%A6%B9%E8%BD%AC%E8%B4%A6%23" target="weibo">
 下肢瘫痪投河男子死前曾给妹妹转账（热度：53638）
 </a>
@@ -2423,12 +2429,6 @@ Fly腱鞘炎（热度：71228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%86%B2%E7%AA%81%E5%B7%B4%E6%96%B912%E4%BA%BA%E4%B8%A7%E7%94%9F%23" target="weibo">
 阿富汗巴基斯坦冲突巴方12人丧生（热度：48160）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AF%8C%E6%B1%97%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%86%B2%E7%AA%81%E5%AD%90%E5%BC%B9%E6%9D%A5%E5%9B%9E%E7%A9%BF%E6%A2%AD%23" target="weibo">
-阿富汗巴基斯坦冲突子弹来回穿梭（热度：47947）
 </a>
 </li>
 
@@ -2595,6 +2595,12 @@ Fly腱鞘炎（热度：71228）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E9%A5%AD%E9%A1%BA%E5%BA%8F%E5%AF%B9%E8%A1%80%E7%B3%96%E7%9A%84%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
+吃饭顺序对血糖的影响有多大（热度：25625）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E9%87%8C%E6%98%AF%E4%B8%AD%E5%9B%BD%23" target="weibo">
 这里是中国（热度：25026）
 </a>
@@ -2625,6 +2631,12 @@ S15倒计时2天（热度：21607）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AF%86%E8%A5%BF%E8%A5%BF%E6%AF%94%E5%B7%9E%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E5%B7%B2%E8%87%B44%E6%AD%BB12%E4%BC%A4%23" target="weibo">
+美国密西西比州枪击事件已致4死12伤（热度：19987）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E8%BD%AE%E5%88%B0%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%9A%84%E7%9F%A5%E8%AF%86%E7%9B%B2%E5%8C%BA%E4%BA%86%23" target="weibo">
 终于轮到汪苏泷的知识盲区了（热度：18838）
 </a>
@@ -2649,8 +2661,14 @@ Doinb聊LPL和LCK训练环境（热度：18181）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9A%96%E6%9A%96%E7%A7%B0%E4%BC%9A%E4%B8%8A%E8%AF%89%E8%BF%BD%E8%AE%A8%E5%89%8D%E5%A4%AB%E7%9B%97%E7%AA%83%E7%9A%84%E9%92%B1%23" target="weibo">
+王暖暖称会上诉追讨前夫盗窃的钱（热度：15589）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%BE%8E%E5%9B%BD%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%23" target="weibo">
-海绵宝宝派大星美国街头抗议（热度：14136）
+海绵宝宝派大星美国街头抗议（热度：15262）
 </a>
 </li>
 
@@ -2661,32 +2679,14 @@ Doinb聊LPL和LCK训练环境（热度：18181）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9A%96%E6%9A%96%E7%A7%B0%E4%BC%9A%E4%B8%8A%E8%AF%89%E8%BF%BD%E8%AE%A8%E5%89%8D%E5%A4%AB%E7%9B%97%E7%AA%83%E7%9A%84%E9%92%B1%23" target="weibo">
-王暖暖称会上诉追讨前夫盗窃的钱（热度：12870）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AF%86%E8%A5%BF%E8%A5%BF%E6%AF%94%E5%B7%9E%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E5%B7%B2%E8%87%B44%E6%AD%BB12%E4%BC%A4%23" target="weibo">
-美国密西西比州枪击事件已致4死12伤（热度：12785）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E6%8A%8A%E7%B2%AE%E9%A3%9F%E6%99%92%E6%BB%A1%E6%B4%BE%E5%87%BA%E6%89%80%23" target="weibo">
+村民把粮食晒满派出所（热度：13052）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%8F%B6%E7%92%83%E6%9D%80%E9%9D%92%E8%AE%B0%E5%BD%95%23" target="weibo">
 白鹿叶璃杀青记录（热度：12404）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E6%8A%8A%E7%B2%AE%E9%A3%9F%E6%99%92%E6%BB%A1%E6%B4%BE%E5%87%BA%E6%89%80%23" target="weibo">
-村民把粮食晒满派出所（热度：10879）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E9%A5%AD%E9%A1%BA%E5%BA%8F%E5%AF%B9%E8%A1%80%E7%B3%96%E7%9A%84%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7%23" target="weibo">
-吃饭顺序对血糖的影响有多大（热度：10397）
 </a>
 </li>
 

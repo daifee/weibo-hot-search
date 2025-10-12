@@ -1,6 +1,6 @@
 {
   "startTime": 1760286516759,
-  "endTime": 1760304977977,
+  "endTime": 1760307763617,
   "band_list": [
     {
       "raw_hot": 672384,
@@ -131,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167799,
+      "num": 35594,
+      "word": "多位明星都曾就读北大光华EMBA",
+      "onboard_time": 1760297774,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167068,
       "num": 167068,
       "word": "朝鲜迎来外交潮",
@@ -249,14 +257,6 @@
       "onboard_time": 1760280500,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 80812,
-      "num": 23683,
-      "word": "多位明星都曾就读北大光华EMBA",
-      "onboard_time": 1760297774,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 78324,
@@ -403,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55006,
+      "num": 55006,
+      "word": "阿富汗巴基斯坦冲突子弹来回穿梭",
+      "onboard_time": 1760290756,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53406,
       "num": 88623,
       "word": "员工拉桌子碰碎近50个和田玉镯",
@@ -417,14 +425,6 @@
       "onboard_time": 1760283260,
       "rank": 45,
       "category": "体育,民生新闻"
-    },
-    {
-      "raw_hot": 47947,
-      "num": 47947,
-      "word": "阿富汗巴基斯坦冲突子弹来回穿梭",
-      "onboard_time": 1760290756,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 47434,
@@ -459,6 +459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 25625,
+      "num": 25444,
+      "word": "吃饭顺序对血糖的影响有多大",
+      "onboard_time": 1760303654,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 23976,
       "num": 88754,
       "word": "院士合影成生意有商家报价3万起步",
@@ -473,6 +481,14 @@
       "onboard_time": 1760277441,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19987,
+      "num": 25346,
+      "word": "美国密西西比州枪击事件已致4死12伤",
+      "onboard_time": 1760300953,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 18838,
@@ -491,8 +507,16 @@
       "category": "网红"
     },
     {
-      "raw_hot": 14136,
-      "num": 19978,
+      "raw_hot": 15589,
+      "num": 25338,
+      "word": "王暖暖称会上诉追讨前夫盗窃的钱",
+      "onboard_time": 1760298434,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15262,
+      "num": 25336,
       "word": "海绵宝宝派大星美国街头抗议",
       "onboard_time": 1760295434,
       "rank": 44,
@@ -500,43 +524,19 @@
     },
     {
       "raw_hot": 14114,
-      "num": 16395,
+      "num": 25324,
       "word": "以前型人格",
       "onboard_time": 1760298915,
       "rank": 25,
       "category": "幽默"
     },
     {
-      "raw_hot": 12870,
-      "num": 16345,
-      "word": "王暖暖称会上诉追讨前夫盗窃的钱",
-      "onboard_time": 1760298434,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12785,
-      "num": 16330,
-      "word": "美国密西西比州枪击事件已致4死12伤",
-      "onboard_time": 1760300953,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 10879,
-      "num": 16295,
+      "raw_hot": 13052,
+      "num": 25327,
       "word": "村民把粮食晒满派出所",
       "onboard_time": 1760300653,
       "rank": 48,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 10397,
-      "num": 15546,
-      "word": "吃饭顺序对血糖的影响有多大",
-      "onboard_time": 1760303654,
-      "rank": 47,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 4186,
