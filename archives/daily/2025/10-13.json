@@ -1,6 +1,6 @@
 {
   "startTime": 1760286516759,
-  "endTime": 1760286516759,
+  "endTime": 1760287356648,
   "band_list": [
     {
       "raw_hot": 672384,
@@ -27,6 +27,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 566048,
+      "num": 566048,
+      "word": "央视曝光AI代写论文黑工厂",
+      "onboard_time": 1760283740,
+      "rank": 4,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 557053,
       "num": 557053,
       "word": "男子因买肉价低疑妻出轨将其捅伤获刑",
@@ -51,14 +59,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 271599,
-      "num": 271599,
-      "word": "央视曝光AI代写论文黑工厂",
-      "onboard_time": 1760283740,
-      "rank": 4,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 270169,
       "num": 161795,
       "word": "浙江人的短袖已经穿回本了",
@@ -75,12 +75,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 193486,
-      "num": 193486,
+      "raw_hot": 220000,
+      "num": 220000,
       "word": "白桃星座",
       "onboard_time": 1760284281,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 203390,
+      "num": 159599,
+      "word": "我叫李飞没有脊椎",
+      "onboard_time": 1760273180,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 190248,
@@ -89,14 +97,6 @@
       "onboard_time": 1760270480,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188018,
-      "num": 159599,
-      "word": "我叫李飞没有脊椎",
-      "onboard_time": 1760273180,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 186475,
@@ -147,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126239,
+      "num": 110977,
+      "word": "白鹿三部剧入围",
+      "onboard_time": 1760283980,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125595,
       "num": 125595,
       "word": "井迪一秒接住了摔倒的糖果",
@@ -177,14 +185,6 @@
       "onboard_time": 1760262020,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110977,
-      "num": 110977,
-      "word": "白鹿三部剧入围",
-      "onboard_time": 1760283980,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 100384,
@@ -259,6 +259,14 @@
       "category": "民生新闻,民生新闻"
     },
     {
+      "raw_hot": 72226,
+      "num": 88795,
+      "word": "陈泽下播",
+      "onboard_time": 1760286259,
+      "rank": 37,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 71079,
       "num": 88848,
       "word": "李一桐造型",
@@ -291,7 +299,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63394,
+      "raw_hot": 65513,
       "num": 88796,
       "word": "徐明浩炸毛",
       "onboard_time": 1760283500,
@@ -299,12 +307,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 63378,
-      "num": 88795,
-      "word": "陈泽下播",
-      "onboard_time": 1760286259,
-      "rank": 37,
-      "category": "游戏,网红"
+      "raw_hot": 63947,
+      "num": 88660,
+      "word": "李沁陈哲远亲密戏",
+      "onboard_time": 1760285958,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 63016,
+      "num": 88643,
+      "word": "苏晓彤家里有一柜子辣条",
+      "onboard_time": 1760284639,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 61997,
@@ -355,14 +371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55558,
-      "num": 88660,
-      "word": "李沁陈哲远亲密戏",
-      "onboard_time": 1760285958,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 55078,
       "num": 88646,
       "word": "高反失温女孩母亲回应轻松筹争议",
@@ -371,19 +379,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54988,
-      "num": 88643,
-      "word": "苏晓彤家里有一柜子辣条",
-      "onboard_time": 1760284639,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 53406,
       "num": 88623,
       "word": "员工拉桌子碰碎近50个和田玉镯",
       "onboard_time": 1760261240,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51582,
+      "num": 60354,
+      "word": "常州烧烤店主用热爱回馈苏超支持者",
+      "onboard_time": 1760283260,
+      "rank": 45,
+      "category": "体育,民生新闻"
+    },
+    {
+      "raw_hot": 47434,
+      "num": 60349,
+      "word": "蒙曼在长江上合唱长江之歌",
+      "onboard_time": 1760282840,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 4186,
-      "num": 399490,
+      "num": 548885,
       "word": "这里是中国",
       "onboard_time": 1760276421,
       "rank": 2,

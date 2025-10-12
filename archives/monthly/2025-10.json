@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760286516759,
+  "endTime": 1760287356648,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -3817,6 +3817,14 @@
       "onboard_time": 1759496961,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 566048,
+      "num": 566048,
+      "word": "央视曝光AI代写论文黑工厂",
+      "onboard_time": 1760283740,
+      "rank": 4,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 563954,
@@ -8993,14 +9001,6 @@
       "onboard_time": 1759515855,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 271599,
-      "num": 271599,
-      "word": "央视曝光AI代写论文黑工厂",
-      "onboard_time": 1760283740,
-      "rank": 4,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 270941,
@@ -21267,6 +21267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126239,
+      "num": 110977,
+      "word": "白鹿三部剧入围",
+      "onboard_time": 1760283980,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126231,
       "num": 251180,
       "word": "一天能卖出80吨的月饼有多好吃",
@@ -25041,14 +25049,6 @@
       "onboard_time": 1759824621,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 110977,
-      "num": 110977,
-      "word": "白鹿三部剧入围",
-      "onboard_time": 1760283980,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 110976,
@@ -35059,6 +35059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72226,
+      "num": 88795,
+      "word": "陈泽下播",
+      "onboard_time": 1760286259,
+      "rank": 37,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 72188,
       "num": 169884,
       "word": "广东进入台风戒备状态",
@@ -35851,6 +35859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65513,
+      "num": 88796,
+      "word": "徐明浩炸毛",
+      "onboard_time": 1760283500,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65495,
       "num": 136839,
       "word": "动物园羊驼被投喂撑到眼睛翻白",
@@ -36019,6 +36035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63947,
+      "num": 88660,
+      "word": "李沁陈哲远亲密戏",
+      "onboard_time": 1760285958,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63824,
       "num": 179015,
       "word": "荣耀Magic8夜神强上天",
@@ -36059,22 +36083,6 @@
       "category": "体育,民生新闻"
     },
     {
-      "raw_hot": 63394,
-      "num": 88796,
-      "word": "徐明浩炸毛",
-      "onboard_time": 1760283500,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 63378,
-      "num": 88795,
-      "word": "陈泽下播",
-      "onboard_time": 1760286259,
-      "rank": 37,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 63281,
       "num": 209744,
       "word": "华小v谁将领跑中国手机市场",
@@ -36113,6 +36121,14 @@
       "onboard_time": 1760282840,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63016,
+      "num": 88643,
+      "word": "苏晓彤家里有一柜子辣条",
+      "onboard_time": 1760284639,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 62975,
@@ -36739,14 +36755,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 55558,
-      "num": 88660,
-      "word": "李沁陈哲远亲密戏",
-      "onboard_time": 1760285958,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 55546,
       "num": 137784,
       "word": "多人曝婚庆摄影师接单后放鸽子",
@@ -36816,14 +36824,6 @@
       "word": "蒋一侨微商女强人",
       "onboard_time": 1759388960,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 54988,
-      "num": 88643,
-      "word": "苏晓彤家里有一柜子辣条",
-      "onboard_time": 1760284639,
-      "rank": 48,
       "category": "综艺"
     },
     {

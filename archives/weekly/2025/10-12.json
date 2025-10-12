@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760286516759,
+  "endTime": 1760287356648,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -281,6 +281,14 @@
       "onboard_time": 1760253861,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 566048,
+      "num": 566048,
+      "word": "央视曝光AI代写论文黑工厂",
+      "onboard_time": 1760283740,
+      "rank": 4,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 557711,
@@ -747,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 271599,
-      "num": 271599,
-      "word": "央视曝光AI代写论文黑工厂",
-      "onboard_time": 1760283740,
-      "rank": 4,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 267805,
       "num": 248997,
       "word": "张晚意李沁还好生在和平年代",
@@ -891,6 +891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 220000,
+      "num": 220000,
+      "word": "白桃星座",
+      "onboard_time": 1760284281,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 217808,
       "num": 217808,
       "word": "入青云",
@@ -985,14 +993,6 @@
       "onboard_time": 1760237120,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193486,
-      "num": 193486,
-      "word": "白桃星座",
-      "onboard_time": 1760284281,
-      "rank": 5,
-      "category": "情感"
     },
     {
       "raw_hot": 191592,
@@ -1523,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126239,
+      "num": 110977,
+      "word": "白鹿三部剧入围",
+      "onboard_time": 1760283980,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126176,
       "num": 126176,
       "word": "我那薪资是我5倍多的领导",
@@ -1880,14 +1888,6 @@
       "word": "藏海传全员扛着音响向藏海走来",
       "onboard_time": 1760263640,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 110977,
-      "num": 110977,
-      "word": "白鹿三部剧入围",
-      "onboard_time": 1760283980,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -2891,6 +2891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 72226,
+      "num": 88795,
+      "word": "陈泽下播",
+      "onboard_time": 1760286259,
+      "rank": 37,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 71613,
       "num": 71613,
       "word": "张函瑞变声之路",
@@ -3011,12 +3019,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65513,
+      "num": 88796,
+      "word": "徐明浩炸毛",
+      "onboard_time": 1760283500,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65088,
       "num": 76602,
       "word": "音乐缘计划",
       "onboard_time": 1760199862,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 63947,
+      "num": 88660,
+      "word": "李沁陈哲远亲密戏",
+      "onboard_time": 1760285958,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 63449,
@@ -3027,28 +3051,20 @@
       "category": "体育,民生新闻"
     },
     {
-      "raw_hot": 63394,
-      "num": 88796,
-      "word": "徐明浩炸毛",
-      "onboard_time": 1760283500,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 63378,
-      "num": 88795,
-      "word": "陈泽下播",
-      "onboard_time": 1760286259,
-      "rank": 37,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 63078,
       "num": 87620,
       "word": "蒙曼在长江上合唱长江之歌",
       "onboard_time": 1760282840,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63016,
+      "num": 88643,
+      "word": "苏晓彤家里有一柜子辣条",
+      "onboard_time": 1760284639,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 61163,
@@ -3121,22 +3137,6 @@
       "onboard_time": 1760246781,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 55558,
-      "num": 88660,
-      "word": "李沁陈哲远亲密戏",
-      "onboard_time": 1760285958,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 54988,
-      "num": 88643,
-      "word": "苏晓彤家里有一柜子辣条",
-      "onboard_time": 1760284639,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 53638,

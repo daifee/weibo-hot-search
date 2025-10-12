@@ -1,0 +1,410 @@
+{
+  "runTime": 1760287356648,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 591825,
+        "num": 782209,
+        "word": "为什么贷款骚扰电话变少了",
+        "onboard_time": 1760276901,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566048,
+        "num": 566048,
+        "word": "央视曝光AI代写论文黑工厂",
+        "onboard_time": 1760283740,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 3645,
+        "num": 548885,
+        "word": "这里是中国",
+        "onboard_time": 1760276421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 543497,
+        "num": 543497,
+        "word": "男子因买肉价低疑妻出轨将其捅伤获刑",
+        "onboard_time": 1760282721,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239217,
+        "num": 239217,
+        "word": "冰箱贴已经比冰箱贵了",
+        "onboard_time": 1760253620,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220000,
+        "num": 220000,
+        "word": "白桃星座",
+        "onboard_time": 1760284281,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166350,
+        "num": 166350,
+        "word": "法国第一夫人被迫证明自己不是男人",
+        "onboard_time": 1760271561,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159687,
+        "num": 159687,
+        "word": "中国已确立11颗金钉子",
+        "onboard_time": 1760250799,
+        "rank": 7,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 130653,
+        "num": 130653,
+        "word": "放假8天7天半掰玉米大学生回应质疑",
+        "onboard_time": 1760279902,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126445,
+        "num": 126445,
+        "word": "朝鲜迎来外交潮",
+        "onboard_time": 1760279361,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 524344,
+        "num": 126416,
+        "word": "周杰伦患强直性脊柱炎超20年",
+        "onboard_time": 1760277920,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515989,
+        "num": 126357,
+        "word": "树一官宣与慎婕分手",
+        "onboard_time": 1760279542,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 383186,
+        "num": 126321,
+        "word": "鲁 俺想你了",
+        "onboard_time": 1760277320,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 239484,
+        "num": 126239,
+        "word": "建议睡眠不好的都去吃",
+        "onboard_time": 1760271921,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226822,
+        "num": 126201,
+        "word": "浙江人的短袖已经穿回本了",
+        "onboard_time": 1760274261,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203390,
+        "num": 126124,
+        "word": "我叫李飞没有脊椎",
+        "onboard_time": 1760273180,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182232,
+        "num": 126100,
+        "word": "武汉一公厕旁花坛被贴上男士小便处",
+        "onboard_time": 1760280141,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126054,
+        "num": 126054,
+        "word": "入戏",
+        "onboard_time": 1760277142,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110307,
+        "num": 110307,
+        "word": "李沛恩娇兰",
+        "onboard_time": 1760274502,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102326,
+        "num": 102326,
+        "word": "井迪一秒接住了摔倒的糖果",
+        "onboard_time": 1760276901,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163695,
+        "num": 101146,
+        "word": "Angelababy跳刀马刀马了",
+        "onboard_time": 1760270480,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126239,
+        "num": 100519,
+        "word": "白鹿三部剧入围",
+        "onboard_time": 1760283980,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99289,
+        "num": 99289,
+        "word": "网友偶遇戚薇北大考试",
+        "onboard_time": 1760262020,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94960,
+        "num": 94960,
+        "word": "吃不吃麻辣烫的都沉默了",
+        "onboard_time": 1760266160,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 88347,
+        "num": 88347,
+        "word": "入青云",
+        "onboard_time": 1760265861,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82970,
+        "num": 82970,
+        "word": "早田希娜2比3金琴英",
+        "onboard_time": 1760282721,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82469,
+        "num": 82469,
+        "word": "张杰唱完你的唱你的",
+        "onboard_time": 1760282481,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79410,
+        "num": 79410,
+        "word": "获1300万拆迁款被判刑男子发声",
+        "onboard_time": 1760265861,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79262,
+        "num": 79262,
+        "word": "刘佩琦谈朱一龙易烊千玺入围金鸡奖",
+        "onboard_time": 1760280500,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 76396,
+        "num": 76396,
+        "word": "晋A99999劳斯莱斯1544000元起拍",
+        "onboard_time": 1760267480,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75126,
+        "num": 75126,
+        "word": "何晟铭担心带女儿出来被说是女朋友",
+        "onboard_time": 1760283440,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72672,
+        "num": 72672,
+        "word": "四川芦山4.7级地震",
+        "onboard_time": 1760255179,
+        "rank": 31,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 72226,
+        "num": 72226,
+        "word": "陈泽下播",
+        "onboard_time": 1760286259,
+        "rank": 32,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 66542,
+        "num": 66542,
+        "word": "美国女子在迪士尼鬼屋被吓死",
+        "onboard_time": 1760261060,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 65513,
+        "num": 65513,
+        "word": "徐明浩炸毛",
+        "onboard_time": 1760283500,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65015,
+        "num": 65015,
+        "word": "李一桐造型",
+        "onboard_time": 1760260099,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64699,
+        "num": 64699,
+        "word": "青年演员刘昊然青春华章说角色",
+        "onboard_time": 1760283740,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63947,
+        "num": 63947,
+        "word": "李沁陈哲远亲密戏",
+        "onboard_time": 1760285958,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63016,
+        "num": 63016,
+        "word": "苏晓彤家里有一柜子辣条",
+        "onboard_time": 1760284639,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60365,
+        "num": 60365,
+        "word": "6个表现说明骨头变糠了",
+        "onboard_time": 1760281401,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 58738,
+        "num": 60365,
+        "word": "宴遇永安原著",
+        "onboard_time": 1760276962,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56855,
+        "num": 60363,
+        "word": "刘昊然亮相河海大学",
+        "onboard_time": 1760284159,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55545,
+        "num": 60358,
+        "word": "红山动物园大猩猩征名投票翻车",
+        "onboard_time": 1760281641,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53432,
+        "num": 60356,
+        "word": "周杰伦发文告别嘉年华巡演",
+        "onboard_time": 1760264240,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52006,
+        "num": 60354,
+        "word": "内娱第一个饭撒女儿的歌手",
+        "onboard_time": 1760272401,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51582,
+        "num": 60354,
+        "word": "常州烧烤店主用热爱回馈苏超支持者",
+        "onboard_time": 1760283260,
+        "rank": 45,
+        "category": "体育,民生新闻"
+      },
+      {
+        "raw_hot": 49013,
+        "num": 60350,
+        "word": "服装店的秋装卖不动了",
+        "onboard_time": 1760262141,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47434,
+        "num": 60349,
+        "word": "蒙曼在长江上合唱长江之歌",
+        "onboard_time": 1760282840,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47160,
+        "num": 60347,
+        "word": "员工拉桌子碰碎近50个和田玉镯",
+        "onboard_time": 1760261240,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44695,
+        "num": 60344,
+        "word": "球迷高喊换曾凡博",
+        "onboard_time": 1760284400,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#广大妇女起到了半边天的重要作用#"
+    }
+  }
+}

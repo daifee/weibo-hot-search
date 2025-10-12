@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 00:28:36
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 00:42:36
 </p>
 </blockquote>
 <p>
@@ -2873,6 +2873,12 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E8%AF%B4%E7%8B%AC%E8%87%AA%E7%9B%B8%E5%A4%84%E8%A6%81%E6%8B%A5%E6%8A%B1%E5%8F%98%E5%8C%96%23" target="weibo">
 关晓彤说独自相处要拥抱变化（热度：568277）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E4%BB%A3%E5%86%99%E8%AE%BA%E6%96%87%E9%BB%91%E5%B7%A5%E5%8E%82%23" target="weibo">
+央视曝光AI代写论文黑工厂（热度：566048）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ offer7播一半淘汰了三个人（热度：311785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%BC%BA%E5%A4%A7%E7%9A%84%E6%84%8F%E5%BF%97%E5%93%81%E8%B4%A8%23" target="weibo">
 王楚钦强大的意志品质（热度：308611）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E6%96%87%E6%97%85%E8%AF%81%E5%AE%9E%E9%B8%A1%E6%8E%92%E5%93%A5%E8%AE%A1%E5%88%928%E6%97%A5%E4%BC%91%E6%81%AF%23" target="weibo">
-景德镇文旅证实鸡排哥计划8日休息（热度：308248）
 </a>
 </li>
 

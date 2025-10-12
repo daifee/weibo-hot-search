@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/12 00:27:55 ~ 2025/10/13 00:28:36
+本榜单时间：2025/10/12 00:27:55 ~ 2025/10/13 00:42:36
 </p>
 </blockquote>
 <p>
@@ -221,6 +221,12 @@ CCTV认证断层第一的电视剧（热度：691065）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%98%BF%E5%9D%9D%E5%B7%9E%E5%9C%B0%E9%9C%87%23" target="weibo">
 四川阿坝州地震（热度：597001）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E4%BB%A3%E5%86%99%E8%AE%BA%E6%96%87%E9%BB%91%E5%B7%A5%E5%8E%82%23" target="weibo">
+央视曝光AI代写论文黑工厂（热度：566048）
 </a>
 </li>
 
@@ -573,12 +579,6 @@ Angelababy跳刀马刀马了（热度：440859）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E4%BB%A3%E5%86%99%E8%AE%BA%E6%96%87%E9%BB%91%E5%B7%A5%E5%8E%82%23" target="weibo">
-央视曝光AI代写论文黑工厂（热度：271599）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E6%9D%8E%E6%B2%81%E8%BF%98%E5%A5%BD%E7%94%9F%E5%9C%A8%E5%92%8C%E5%B9%B3%E5%B9%B4%E4%BB%A3%23" target="weibo">
 张晚意李沁还好生在和平年代（热度：267805）
 </a>
@@ -681,6 +681,12 @@ Angelababy跳刀马刀马了（热度：440859）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23" target="weibo">
+白桃星座（热度：220000）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%23" target="weibo">
 入青云（热度：217808）
 </a>
@@ -749,12 +755,6 @@ Angelababy跳刀马刀马了（热度：440859）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9D%E6%97%B6%E6%8D%B7%E5%A5%B3%E9%94%80%E5%86%A0%E6%99%92%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A%E5%86%B3%E5%AE%9A%E4%B9%A6%23" target="weibo">
 保时捷女销冠晒行政处罚决定书（热度：195234）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23" target="weibo">
-白桃星座（热度：193486）
 </a>
 </li>
 
@@ -1155,6 +1155,12 @@ MANTAminini联动（热度：134154）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%B8%89%E9%83%A8%E5%89%A7%E5%85%A5%E5%9B%B4%23" target="weibo">
+白鹿三部剧入围（热度：126239）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E9%82%A3%E8%96%AA%E8%B5%84%E6%98%AF%E6%88%915%E5%80%8D%E5%A4%9A%E7%9A%84%E9%A2%86%E5%AF%BC%23" target="weibo">
 我那薪资是我5倍多的领导（热度：126176）
 </a>
@@ -1421,12 +1427,6 @@ LPL众人合唱出征曲（热度：111351）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%97%8F%E6%B5%B7%E4%BC%A0%E5%85%A8%E5%91%98%E6%89%9B%E7%9D%80%E9%9F%B3%E5%93%8D%E5%90%91%E8%97%8F%E6%B5%B7%E8%B5%B0%E6%9D%A5%23" target="weibo">
 藏海传全员扛着音响向藏海走来（热度：111312）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%B8%89%E9%83%A8%E5%89%A7%E5%85%A5%E5%9B%B4%23" target="weibo">
-白鹿三部剧入围（热度：110977）
 </a>
 </li>
 
@@ -2181,6 +2181,12 @@ S15非遗主题出征照（热度：78174）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B3%BD%E4%B8%8B%E6%92%AD%23" target="weibo">
+陈泽下播（热度：72226）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%BD%E7%91%9E%E5%8F%98%E5%A3%B0%E4%B9%8B%E8%B7%AF%23" target="weibo">
 张函瑞变声之路（热度：71613）
 </a>
@@ -2271,8 +2277,20 @@ Fly腱鞘炎（热度：71228）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%98%8E%E6%B5%A9%E7%82%B8%E6%AF%9B%23" target="weibo">
+徐明浩炸毛（热度：65513）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E7%BC%98%E8%AE%A1%E5%88%92%23" target="weibo">
 音乐缘计划（热度：65088）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E9%99%88%E5%93%B2%E8%BF%9C%E4%BA%B2%E5%AF%86%E6%88%8F%23" target="weibo">
+李沁陈哲远亲密戏（热度：63947）
 </a>
 </li>
 
@@ -2283,20 +2301,14 @@ Fly腱鞘炎（热度：71228）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%98%8E%E6%B5%A9%E7%82%B8%E6%AF%9B%23" target="weibo">
-徐明浩炸毛（热度：63394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B3%BD%E4%B8%8B%E6%92%AD%23" target="weibo">
-陈泽下播（热度：63378）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%99%E6%9B%BC%E5%9C%A8%E9%95%BF%E6%B1%9F%E4%B8%8A%E5%90%88%E5%94%B1%E9%95%BF%E6%B1%9F%E4%B9%8B%E6%AD%8C%23" target="weibo">
 蒙曼在长江上合唱长江之歌（热度：63078）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%99%93%E5%BD%A4%E5%AE%B6%E9%87%8C%E6%9C%89%E4%B8%80%E6%9F%9C%E5%AD%90%E8%BE%A3%E6%9D%A1%23" target="weibo">
+苏晓彤家里有一柜子辣条（热度：63016）
 </a>
 </li>
 
@@ -2351,18 +2363,6 @@ Fly腱鞘炎（热度：71228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%B8%80%E8%8A%82%E6%97%A5%E9%87%8D%E7%8E%B0%E7%A9%BA%E9%9A%BE%E5%9C%BA%E6%99%AF%E5%BC%95%E5%8F%91%E6%84%A4%E6%80%92%23" target="weibo">
 印度一节日重现空难场景引发愤怒（热度：55687）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E9%99%88%E5%93%B2%E8%BF%9C%E4%BA%B2%E5%AF%86%E6%88%8F%23" target="weibo">
-李沁陈哲远亲密戏（热度：55558）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%99%93%E5%BD%A4%E5%AE%B6%E9%87%8C%E6%9C%89%E4%B8%80%E6%9F%9C%E5%AD%90%E8%BE%A3%E6%9D%A1%23" target="weibo">
-苏晓彤家里有一柜子辣条（热度：54988）
 </a>
 </li>
 
