@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 14:33:27
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 14:45:54
 </p>
 </blockquote>
 <p>
@@ -1821,6 +1821,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%A1%AE%E7%AB%8B11%E9%A2%97%E9%87%91%E9%92%89%E5%AD%90%23" target="weibo">
+中国已确立11颗金钉子（热度：724671）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%239%E6%9C%88%E7%9A%84%E5%B7%A5%E8%B5%84%E4%B8%8D%E7%94%A8%E6%89%93%E7%BB%99%E6%88%91%E4%BA%86%23" target="weibo">
 9月的工资不用打给我了（热度：721830）
 </a>
@@ -1859,6 +1865,12 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23731%E6%AF%92%E6%B0%94%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%8E%A9%E5%85%B7%E5%B7%B2%E4%B8%8B%E6%9E%B6%23" target="weibo">
 731毒气实验室玩具已下架（热度：713938）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%23" target="weibo">
+巴基斯坦（热度：713252）
 </a>
 </li>
 
@@ -2261,12 +2273,6 @@ JDG输越南队（热度：648751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A510%E6%9C%889%E6%97%A5%E4%BC%91%E6%81%AF%23" target="weibo">
 鸡排哥10月9日休息（热度：637729）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%23" target="weibo">
-巴基斯坦（热度：637652）
 </a>
 </li>
 
@@ -3297,6 +3303,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%83%B3%E6%9F%93%E5%A4%B4%E5%8F%91%23" target="weibo">
+白鹿想染头发（热度：502105）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E6%9C%89%E5%9C%A8%E5%8A%AA%E5%8A%9B%E6%8E%A5%E4%BD%8F%E6%B3%BC%E5%A4%A9%E6%B5%81%E9%87%8F%23" target="weibo">
 景德镇有在努力接住泼天流量（热度：501857）
 </a>
@@ -3305,6 +3317,12 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%8D%88%E7%9D%A1vs%E5%8D%88%E7%9D%A1%E5%A4%AA%E4%B9%85%23" target="weibo">
 不午睡vs午睡太久（热度：501778）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%83%A8%E5%A4%A7%E7%94%B7%E4%B8%BB%E5%89%A7%E5%90%8C%E6%9C%9F%E5%BC%80%E6%92%AD%23" target="weibo">
+三部大男主剧同期开播（热度：501303）
 </a>
 </li>
 
@@ -3389,12 +3407,6 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%80%BC%E4%BA%BA%E8%AE%A9%E5%BA%A7%E8%A2%AB%E8%B8%B9%E8%80%81%E4%BA%BA%E7%AB%9F%E6%98%AF%E9%80%9A%E7%BC%89%E7%8A%AF%23" target="weibo">
 台逼人让座被踹老人竟是通缉犯（热度：494991）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%83%B3%E6%9F%93%E5%A4%B4%E5%8F%91%23" target="weibo">
-白鹿想染头发（热度：494781）
 </a>
 </li>
 
@@ -3591,6 +3603,12 @@ VaVa说自己分手是因为浪姐（热度：480031）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%9A%84%E7%BB%93%E5%A9%9A%E7%8E%B0%E5%9C%BA%E9%9C%87%E6%83%8A%E5%88%B0%E4%BA%86%23" target="weibo">
+被韩国人的结婚现场震惊到了（热度：475427）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%80%B3%E5%85%89%E6%89%93%E8%B5%B0%E5%A5%B3%E5%84%BF%E6%AF%8D%E4%BA%B2%E8%8A%B1%E5%85%89%E7%A7%AF%E8%93%84%E6%89%BE10%E5%B9%B4%23" target="weibo">
 一耳光打走女儿母亲花光积蓄找10年（热度：474998）
 </a>
@@ -3611,6 +3629,12 @@ VaVa说自己分手是因为浪姐（热度：480031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%AE%A3%E5%B8%83%E5%BE%AE%E5%8D%9A%E5%BE%AE%E4%BF%A1%E5%81%9C%E6%9B%B4%23" target="weibo">
 美驻华大使馆宣布微博微信停更（热度：473630）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E8%A2%81%E5%92%8F%E4%BB%AA%E4%B8%BA%E5%84%BF%E5%AD%90%E5%AE%9E%E4%B9%A0%E4%BA%89%E5%90%B5%23" target="weibo">
+张智霖袁咏仪为儿子实习争吵（热度：473047）
 </a>
 </li>
 
@@ -3939,12 +3963,6 @@ B站崩了（热度：442971）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%9A%84%E7%BB%93%E5%A9%9A%E7%8E%B0%E5%9C%BA%E9%9C%87%E6%83%8A%E5%88%B0%E4%BA%86%23" target="weibo">
-被韩国人的结婚现场震惊到了（热度：441927）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%96%B0%E9%83%8E%E5%9C%A8%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E8%B7%B3%E6%B2%B3%23" target="weibo">
 当地回应新郎在结婚当天跳河（热度：441877）
 </a>
@@ -4175,12 +4193,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%83%E4%B8%BB%E8%A7%82%E9%A2%98%23" target="weibo">
 法考主观题（热度：421975）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%BA%E9%9C%96%E8%A2%81%E5%92%8F%E4%BB%AA%E4%B8%BA%E5%84%BF%E5%AD%90%E5%AE%9E%E4%B9%A0%E4%BA%89%E5%90%B5%23" target="weibo">
-张智霖袁咏仪为儿子实习争吵（热度：421766）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ offer7播一半淘汰了三个人（热度：311785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E7%A7%B0%E9%81%AD%E4%BF%8450%E6%9E%9A%E5%AF%BC%E5%BC%B9500%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB%23" target="weibo">
 乌称遭俄50枚导弹500架无人机袭击（热度：295017）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%9B%9E%E5%BA%94%E6%89%8B%E6%8B%BF%E6%8A%98%E6%89%87%E8%A2%AB%E8%AF%AF%E8%AE%A4%E6%8C%81%E5%88%80%23" target="weibo">
-当事人回应手拿折扇被误认持刀（热度：294425）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%A3%8Aqko%E8%88%9E%E5%8F%B0%E4%B8%8A%E4%BA%B2%E4%BA%86%23" target="weibo">
-赵磊qko舞台上亲了（热度：294400）
 </a>
 </li>
 
