@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 13:23:14
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 13:39:11
 </p>
 </blockquote>
 <p>
@@ -1965,6 +1965,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23CCTV%E8%AE%A4%E8%AF%81%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%E7%9A%84%E7%94%B5%E8%A7%86%E5%89%A7%23" target="weibo">
+CCTV认证断层第一的电视剧（热度：691065）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E4%B9%90%E4%B8%89%E8%BF%9E%E6%80%BC%E7%A5%9D%E7%BB%AA%E4%B8%B9%23" target="weibo">
 管乐三连怼祝绪丹（热度：690662）
 </a>
@@ -3225,12 +3231,6 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23CCTV%E8%AE%A4%E8%AF%81%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%E7%9A%84%E7%94%B5%E8%A7%86%E5%89%A7%23" target="weibo">
-CCTV认证断层第一的电视剧（热度：511678）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E9%AB%98%E9%80%9F%23" target="weibo">
 下高速（热度：509971）
 </a>
@@ -3987,6 +3987,12 @@ B站崩了（热度：442971）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%B8%8D%E8%AF%B4%E8%8B%B1%E8%AF%AD%E5%BE%88%E6%AD%A3%E5%B8%B8%23" target="weibo">
+外国游客称中国不说英语很正常（热度：434483）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Dior%E8%BF%9E%E5%8F%914%E6%9D%A1%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
 Dior连发4条迪丽热巴（热度：434111）
 </a>
@@ -4019,6 +4025,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AE%E7%BD%84%23" target="weibo">
 宋亚轩第一个售罄（热度：431824）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%B4%BE%E5%87%BA%E7%9A%84%E6%8C%91%E8%A1%85%E8%88%B9%E5%8F%AA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%23" target="weibo">
+菲律宾派出的挑衅船只越来越多（热度：431395）
 </a>
 </li>
 
@@ -4133,6 +4145,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E8%8E%B7%E5%9B%BD%E9%99%85%E9%9D%92%E5%B0%91%E5%B9%B4%E7%BB%98%E7%94%BB%E5%A4%A7%E8%B5%9B%E9%87%91%E5%A5%96%23" target="weibo">
 王诗龄获国际青少年绘画大赛金奖（热度：422862）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%83%E4%B8%BB%E8%A7%82%E9%A2%98%23" target="weibo">
+法考主观题（热度：421975）
 </a>
 </li>
 
@@ -4347,12 +4365,6 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%83%E4%B8%BB%E8%A7%82%E9%A2%98%23" target="weibo">
-法考主观题（热度：402357）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%80%E4%B8%AA%E4%B8%AA%E7%82%B9%E5%90%8D%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8A%A3%E8%BF%B9%23" target="weibo">
 中方一个个点名多个国家劣迹（热度：401979）
 </a>
@@ -4403,12 +4415,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E9%98%85%E5%85%B5%E6%96%B9%E9%98%B5%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E5%8A%A8%E4%BD%9C%E6%98%AF%E4%B8%80%E6%A0%B7%E7%9A%84%23" target="weibo">
 美军阅兵方阵没有一个动作是一样的（热度：395717）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%B8%8D%E8%AF%B4%E8%8B%B1%E8%AF%AD%E5%BE%88%E6%AD%A3%E5%B8%B8%23" target="weibo">
-外国游客称中国不说英语很正常（热度：395573）
 </a>
 </li>
 
@@ -5963,12 +5969,6 @@ offer7播一半淘汰了三个人（热度：311785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E7%A7%B0%E9%81%AD%E4%BF%8450%E6%9E%9A%E5%AF%BC%E5%BC%B9500%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB%23" target="weibo">
 乌称遭俄50枚导弹500架无人机袭击（热度：295017）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%B4%BE%E5%87%BA%E7%9A%84%E6%8C%91%E8%A1%85%E8%88%B9%E5%8F%AA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%23" target="weibo">
-菲律宾派出的挑衅船只越来越多（热度：294960）
 </a>
 </li>
 

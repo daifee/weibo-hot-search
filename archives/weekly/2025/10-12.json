@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760246594350,
+  "endTime": 1760247551521,
   "band_list": [
     {
       "raw_hot": 1448521,
@@ -57,6 +57,14 @@
       "onboard_time": 1760236580,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 691065,
+      "num": 308500,
+      "word": "CCTV认证断层第一的电视剧",
+      "onboard_time": 1760238620,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 674573,
@@ -131,14 +139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 511678,
-      "num": 308500,
-      "word": "CCTV认证断层第一的电视剧",
-      "onboard_time": 1760238620,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 486136,
       "num": 486136,
       "word": "丽江一景区部分设计被指观感不适",
@@ -195,12 +195,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 434483,
+      "num": 434483,
+      "word": "外国游客称中国不说英语很正常",
+      "onboard_time": 1760242880,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 431395,
+      "num": 431395,
+      "word": "菲律宾派出的挑衅船只越来越多",
+      "onboard_time": 1760245161,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 426285,
       "num": 518223,
       "word": "聊天这样结尾的人往往很在乎你",
       "onboard_time": 1760198241,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 421975,
+      "num": 421975,
+      "word": "法考主观题",
+      "onboard_time": 1760245161,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 416333,
@@ -211,27 +235,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 402357,
-      "num": 402357,
-      "word": "法考主观题",
-      "onboard_time": 1760245161,
-      "rank": 4,
-      "category": "教育"
-    },
-    {
       "raw_hot": 399335,
       "num": 399335,
       "word": "千万富翁给丢失25年儿子婚礼办40桌",
       "onboard_time": 1760193803,
       "rank": 1,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 395573,
-      "num": 395573,
-      "word": "外国游客称中国不说英语很正常",
-      "onboard_time": 1760242880,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -339,19 +347,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294960,
-      "num": 294960,
-      "word": "菲律宾派出的挑衅船只越来越多",
-      "onboard_time": 1760245161,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 272453,
       "num": 114420,
       "word": "李承铉撮合张远和王霏霏",
       "onboard_time": 1760194523,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 267805,
+      "num": 248997,
+      "word": "张晚意李沁还好生在和平年代",
+      "onboard_time": 1760241260,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -371,20 +379,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248997,
-      "num": 248997,
-      "word": "张晚意李沁还好生在和平年代",
-      "onboard_time": 1760241260,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 247679,
       "num": 247679,
       "word": "多地大雨继续超长待机",
       "onboard_time": 1760229919,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244609,
+      "num": 213261,
+      "word": "被韩国人的结婚现场震惊到了",
+      "onboard_time": 1760246000,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 233315,
@@ -419,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205501,
+      "num": 205501,
+      "word": "白鹿想染头发",
+      "onboard_time": 1760247382,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201729,
       "num": 201729,
       "word": "一个镜头拉满生理性恐惧",
@@ -441,6 +457,14 @@
       "onboard_time": 1760189123,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198538,
+      "num": 198538,
+      "word": "华晨宇被打码了",
+      "onboard_time": 1760244319,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 197458,
@@ -475,20 +499,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189296,
+      "num": 189296,
+      "word": "沈佳润出道首封杂志",
+      "onboard_time": 1760246721,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179058,
       "num": 179058,
       "word": "原来你们买衣服不是随便摸摸",
       "onboard_time": 1760244801,
       "rank": 24,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 178861,
-      "num": 161235,
-      "word": "被韩国人的结婚现场震惊到了",
-      "onboard_time": 1760246000,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 177080,
@@ -603,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158076,
-      "num": 158076,
-      "word": "华晨宇被打码了",
-      "onboard_time": 1760244319,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 155386,
       "num": 155386,
       "word": "2025还剩80天",
@@ -675,6 +691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 130644,
+      "num": 130644,
+      "word": "王影璐无邪路透兔子警官",
+      "onboard_time": 1760246840,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125849,
       "num": 125849,
       "word": "广州多个公交站惊现S型护栏",
@@ -697,6 +721,14 @@
       "onboard_time": 1760233400,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124714,
+      "num": 124714,
+      "word": "孙天宇发吧唧原图",
+      "onboard_time": 1760247261,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 122972,
@@ -737,6 +769,14 @@
       "onboard_time": 1760180422,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117157,
+      "num": 117157,
+      "word": "杨幂从小就是大长腿",
+      "onboard_time": 1760247141,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 115531,
@@ -819,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108349,
+      "num": 108349,
+      "word": "许凯天都异闻录开机出妆",
+      "onboard_time": 1760247200,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108207,
       "num": 108207,
       "word": "古装剧都知道射手站后排",
@@ -827,8 +875,24 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 106007,
-      "num": 106007,
+      "raw_hot": 108202,
+      "num": 108202,
+      "word": "坚持长期运动的隐藏福利",
+      "onboard_time": 1760247382,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 107352,
+      "num": 107352,
+      "word": "警方通报4人在地铁摆拍理发",
+      "onboard_time": 1760247441,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106212,
+      "num": 106212,
       "word": "台独分子出岛就得栽",
       "onboard_time": 1760246421,
       "rank": 49,
@@ -995,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89734,
+      "num": 140079,
+      "word": "华晨宇 你直接报我名字得了",
+      "onboard_time": 1760246541,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 89378,
       "num": 89378,
       "word": "杨妞花杜小华已到解清帅婚礼现场",
@@ -1131,6 +1203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79697,
+      "num": 118359,
+      "word": "花8299减肥4个月仅瘦8两",
+      "onboard_time": 1760246840,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79488,
       "num": 113633,
       "word": "高洪波卸任重庆荣昌区委书记",
@@ -1201,6 +1281,14 @@
       "onboard_time": 1760238860,
       "rank": 49,
       "category": "民生新闻,时尚"
+    },
+    {
+      "raw_hot": 74936,
+      "num": 118334,
+      "word": "19岁女生骑7个半小时摩托车返校",
+      "onboard_time": 1760246781,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74510,
@@ -1363,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55687,
+      "num": 118341,
+      "word": "印度一节日重现空难场景引发愤怒",
+      "onboard_time": 1760246781,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 53638,
       "num": 113303,
       "word": "下肢瘫痪投河男子死前曾给妹妹转账",
@@ -1377,14 +1473,6 @@
       "onboard_time": 1760202018,
       "rank": 37,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 52794,
-      "num": 135096,
-      "word": "华晨宇 你直接报我名字得了",
-      "onboard_time": 1760246541,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 51245,
@@ -1451,6 +1539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39102,
+      "num": 224127,
+      "word": "真正的成熟从接纳孤独开始",
+      "onboard_time": 1760246481,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 38584,
       "num": 38584,
       "word": "四人都这个症状真的非常罕见",
@@ -1481,14 +1577,6 @@
       "onboard_time": 1760209994,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30298,
-      "num": 139095,
-      "word": "真正的成熟从接纳孤独开始",
-      "onboard_time": 1760246481,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 29644,

@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760246594350,
+  "endTime": 1760247551521,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -2603,6 +2603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 691065,
+      "num": 308500,
+      "word": "CCTV认证断层第一的电视剧",
+      "onboard_time": 1760238620,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 690662,
       "num": 199033,
       "word": "管乐三连怼祝绪丹",
@@ -4283,14 +4291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 511678,
-      "num": 308500,
-      "word": "CCTV认证断层第一的电视剧",
-      "onboard_time": 1760238620,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 509971,
       "num": 891595,
       "word": "下高速",
@@ -5299,6 +5299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 434483,
+      "num": 434483,
+      "word": "外国游客称中国不说英语很正常",
+      "onboard_time": 1760242880,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 434111,
       "num": 219995,
       "word": "Dior连发4条迪丽热巴",
@@ -5345,6 +5353,14 @@
       "onboard_time": 1759413862,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 431395,
+      "num": 431395,
+      "word": "菲律宾派出的挑衅船只越来越多",
+      "onboard_time": 1760245161,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 431100,
@@ -5497,6 +5513,14 @@
       "onboard_time": 1760069240,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 421975,
+      "num": 421975,
+      "word": "法考主观题",
+      "onboard_time": 1760245161,
+      "rank": 4,
+      "category": "教育"
     },
     {
       "raw_hot": 421267,
@@ -5779,14 +5803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 402357,
-      "num": 402357,
-      "word": "法考主观题",
-      "onboard_time": 1760245161,
-      "rank": 4,
-      "category": "教育"
-    },
-    {
       "raw_hot": 401979,
       "num": 401979,
       "word": "中方一个个点名多个国家劣迹",
@@ -5857,14 +5873,6 @@
       "onboard_time": 1759456577,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 395573,
-      "num": 395573,
-      "word": "外国游客称中国不说英语很正常",
-      "onboard_time": 1760242880,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 394639,
@@ -7939,14 +7947,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 294960,
-      "num": 294960,
-      "word": "菲律宾派出的挑衅船只越来越多",
-      "onboard_time": 1760245161,
-      "rank": 15,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 294425,
       "num": 294425,
       "word": "当事人回应手拿折扇被误认持刀",
@@ -8747,6 +8747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 267805,
+      "num": 248997,
+      "word": "张晚意李沁还好生在和平年代",
+      "onboard_time": 1760241260,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267685,
       "num": 267685,
       "word": "王楚钦孙颖莎大满贯混双第5冠",
@@ -9259,14 +9267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248997,
-      "num": 248997,
-      "word": "张晚意李沁还好生在和平年代",
-      "onboard_time": 1760241260,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 248880,
       "num": 123646,
       "word": "李纯马頔回复王菊",
@@ -9441,6 +9441,14 @@
       "onboard_time": 1759305200,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 244609,
+      "num": 213261,
+      "word": "被韩国人的结婚现场震惊到了",
+      "onboard_time": 1760246000,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 244531,
@@ -11011,6 +11019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205501,
+      "num": 205501,
+      "word": "白鹿想染头发",
+      "onboard_time": 1760247382,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205413,
       "num": 218403,
       "word": "邵东地震",
@@ -11505,6 +11521,14 @@
       "onboard_time": 1759412304,
       "rank": 9,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 198538,
+      "num": 198538,
+      "word": "华晨宇被打码了",
+      "onboard_time": 1760244319,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 198017,
@@ -12403,6 +12427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189296,
+      "num": 189296,
+      "word": "沈佳润出道首封杂志",
+      "onboard_time": 1760246721,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 189170,
       "num": 189170,
       "word": "iPhone18Fold中框曝光",
@@ -13281,14 +13313,6 @@
       "onboard_time": 1759706057,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178861,
-      "num": 161235,
-      "word": "被韩国人的结婚现场震惊到了",
-      "onboard_time": 1760246000,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 178725,
@@ -15537,14 +15561,6 @@
       "onboard_time": 1759659624,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158076,
-      "num": 158076,
-      "word": "华晨宇被打码了",
-      "onboard_time": 1760244319,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 158038,
@@ -19635,6 +19651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130644,
+      "num": 130644,
+      "word": "王影璐无邪路透兔子警官",
+      "onboard_time": 1760246840,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130577,
       "num": 130577,
       "word": "邓亚萍说王楚钦孙颖莎地位难以撼动",
@@ -20825,6 +20849,14 @@
       "onboard_time": 1759283601,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124714,
+      "num": 124714,
+      "word": "孙天宇发吧唧原图",
+      "onboard_time": 1760247261,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 124712,
@@ -22409,6 +22441,14 @@
       "onboard_time": 1759498703,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 117157,
+      "num": 117157,
+      "word": "杨幂从小就是大长腿",
+      "onboard_time": 1760247141,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 117153,
@@ -24923,6 +24963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108349,
+      "num": 108349,
+      "word": "许凯天都异闻录开机出妆",
+      "onboard_time": 1760247200,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108339,
       "num": 108339,
       "word": "地球超新鲜第二季",
@@ -24953,6 +25001,14 @@
       "onboard_time": 1760239340,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108202,
+      "num": 108202,
+      "word": "坚持长期运动的隐藏福利",
+      "onboard_time": 1760247382,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 108194,
@@ -25145,6 +25201,14 @@
       "onboard_time": 1759404321,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107352,
+      "num": 107352,
+      "word": "警方通报4人在地铁摆拍理发",
+      "onboard_time": 1760247441,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107347,
@@ -25539,6 +25603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106212,
+      "num": 106212,
+      "word": "台独分子出岛就得栽",
+      "onboard_time": 1760246421,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 106203,
       "num": 106203,
       "word": "朋友圈里感受到一种经济上行的美",
@@ -25585,14 +25657,6 @@
       "onboard_time": 1759473980,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106007,
-      "num": 106007,
-      "word": "台独分子出岛就得栽",
-      "onboard_time": 1760246421,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 105981,
@@ -30123,6 +30187,14 @@
       "category": "游戏,动漫"
     },
     {
+      "raw_hot": 89734,
+      "num": 140079,
+      "word": "华晨宇 你直接报我名字得了",
+      "onboard_time": 1760246541,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 89725,
       "num": 89725,
       "word": "北京国安",
@@ -32355,6 +32427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79697,
+      "num": 118359,
+      "word": "花8299减肥4个月仅瘦8两",
+      "onboard_time": 1760246840,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79650,
       "num": 101534,
       "word": "惊艳朋友圈的中秋祝福文案",
@@ -33129,6 +33209,14 @@
       "onboard_time": 1760186602,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74936,
+      "num": 118334,
+      "word": "19岁女生骑7个半小时摩托车返校",
+      "onboard_time": 1760246781,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74918,
@@ -35019,6 +35107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55687,
+      "num": 118341,
+      "word": "印度一节日重现空难场景引发愤怒",
+      "onboard_time": 1760246781,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 55546,
       "num": 137784,
       "word": "多人曝婚庆摄影师接单后放鸽子",
@@ -35345,14 +35441,6 @@
       "onboard_time": 1760085321,
       "rank": 17,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 52794,
-      "num": 135096,
-      "word": "华晨宇 你直接报我名字得了",
-      "onboard_time": 1760246541,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 52716,
@@ -36395,6 +36483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39102,
+      "num": 224127,
+      "word": "真正的成熟从接纳孤独开始",
+      "onboard_time": 1760246481,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 39058,
       "num": 39509,
       "word": "商家回应芒果礼盒内藏试卷课本",
@@ -37105,14 +37201,6 @@
       "onboard_time": 1759773078,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 30298,
-      "num": 139095,
-      "word": "真正的成熟从接纳孤独开始",
-      "onboard_time": 1760246481,
-      "rank": 36,
-      "category": "互联网"
     },
     {
       "raw_hot": 30286,

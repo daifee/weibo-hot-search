@@ -1,0 +1,410 @@
+{
+  "runTime": 1760247551521,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 665229,
+        "num": 1106436,
+        "word": "卡塔尔代表团遭遇车祸已致3死3伤",
+        "onboard_time": 1760229739,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 443578,
+        "num": 443578,
+        "word": "商务部公告附件首次改为wps格式",
+        "onboard_time": 1760241380,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3233,
+        "num": 435755,
+        "word": "青春华章",
+        "onboard_time": 1760172020,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434483,
+        "num": 434483,
+        "word": "外国游客称中国不说英语很正常",
+        "onboard_time": 1760242880,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431395,
+        "num": 431395,
+        "word": "菲律宾派出的挑衅船只越来越多",
+        "onboard_time": 1760245161,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 421975,
+        "num": 421975,
+        "word": "法考主观题",
+        "onboard_time": 1760245161,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 329203,
+        "num": 329203,
+        "word": "中方回应美方威胁加征100%关税",
+        "onboard_time": 1760236580,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 314094,
+        "num": 314094,
+        "word": "B站崩了",
+        "onboard_time": 1760240900,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 267473,
+        "num": 267473,
+        "word": "王者荣耀",
+        "onboard_time": 1760244200,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237988,
+        "num": 237988,
+        "word": "山航空姐的裤装上线了",
+        "onboard_time": 1760239580,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 720192,
+        "num": 236518,
+        "word": "万科董事长辛杰已失联",
+        "onboard_time": 1760233819,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691065,
+        "num": 234106,
+        "word": "CCTV认证断层第一的电视剧",
+        "onboard_time": 1760238620,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333248,
+        "num": 230727,
+        "word": "孟子义李昀锐广东开机同框",
+        "onboard_time": 1760239519,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323126,
+        "num": 226041,
+        "word": "关晓彤果然是被造型师陷害的",
+        "onboard_time": 1760197282,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39102,
+        "num": 224127,
+        "word": "真正的成熟从接纳孤独开始",
+        "onboard_time": 1760246481,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 267805,
+        "num": 220907,
+        "word": "张晚意李沁还好生在和平年代",
+        "onboard_time": 1760241260,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256897,
+        "num": 215091,
+        "word": "何晟铭女儿13岁了",
+        "onboard_time": 1760239340,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244609,
+        "num": 213261,
+        "word": "被韩国人的结婚现场震惊到了",
+        "onboard_time": 1760246000,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211238,
+        "num": 211238,
+        "word": "法考",
+        "onboard_time": 1760244440,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 205501,
+        "num": 205501,
+        "word": "白鹿想染头发",
+        "onboard_time": 1760247382,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 952107,
+        "num": 205436,
+        "word": "南北cp",
+        "onboard_time": 1760240900,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202097,
+        "num": 202097,
+        "word": "中国海警依法管控驱离菲船只",
+        "onboard_time": 1760246360,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198538,
+        "num": 198538,
+        "word": "华晨宇被打码了",
+        "onboard_time": 1760244319,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189296,
+        "num": 189296,
+        "word": "沈佳润出道首封杂志",
+        "onboard_time": 1760246721,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164754,
+        "num": 164754,
+        "word": "微博视界大会",
+        "onboard_time": 1760225477,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159054,
+        "num": 159054,
+        "word": "原来小说里的道歉方式都是真的",
+        "onboard_time": 1760235020,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157546,
+        "num": 157546,
+        "word": "原来你们买衣服不是随便摸摸",
+        "onboard_time": 1760244801,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 155714,
+        "num": 155714,
+        "word": "济南一下肢瘫痪中年男子投河身亡",
+        "onboard_time": 1760237360,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150911,
+        "num": 150911,
+        "word": "3名官员车祸身亡卡塔尔大使馆发声",
+        "onboard_time": 1760245821,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89734,
+        "num": 140079,
+        "word": "华晨宇 你直接报我名字得了",
+        "onboard_time": 1760246541,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138091,
+        "num": 138091,
+        "word": "马思纯 自然得像没搞一样",
+        "onboard_time": 1760230460,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136223,
+        "num": 136223,
+        "word": "说中国没奢侈品的只是你听都没听过",
+        "onboard_time": 1760243660,
+        "rank": 31,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 130938,
+        "num": 130938,
+        "word": "解清帅与妻子相恋四年初遇经济拮据",
+        "onboard_time": 1760242461,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130644,
+        "num": 130644,
+        "word": "王影璐无邪路透兔子警官",
+        "onboard_time": 1760246840,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124714,
+        "num": 124714,
+        "word": "孙天宇发吧唧原图",
+        "onboard_time": 1760247261,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122876,
+        "num": 122876,
+        "word": "丽江一景区部分设计被指观感不适",
+        "onboard_time": 1760230340,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119930,
+        "num": 119930,
+        "word": "合成保时捷女销冠不雅视频男子致歉",
+        "onboard_time": 1760236880,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79697,
+        "num": 118359,
+        "word": "花8299减肥4个月仅瘦8两",
+        "onboard_time": 1760246840,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55687,
+        "num": 118341,
+        "word": "印度一节日重现空难场景引发愤怒",
+        "onboard_time": 1760246781,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 74936,
+        "num": 118334,
+        "word": "19岁女生骑7个半小时摩托车返校",
+        "onboard_time": 1760246781,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118328,
+        "num": 118328,
+        "word": "养猫人让猫上床睡的手段",
+        "onboard_time": 1760245280,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117157,
+        "num": 117157,
+        "word": "杨幂从小就是大长腿",
+        "onboard_time": 1760247141,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64991,
+        "num": 113432,
+        "word": "中国海警回应菲船只侵闯铁线礁",
+        "onboard_time": 1760245220,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112871,
+        "num": 112871,
+        "word": "美国下架数百万件中国电子产品",
+        "onboard_time": 1760231480,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111389,
+        "num": 111389,
+        "word": "朱一龙檀健次 空枪",
+        "onboard_time": 1760237600,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108349,
+        "num": 108349,
+        "word": "许凯天都异闻录开机出妆",
+        "onboard_time": 1760247200,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108202,
+        "num": 108202,
+        "word": "坚持长期运动的隐藏福利",
+        "onboard_time": 1760247382,
+        "rank": 46,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 107352,
+        "num": 107352,
+        "word": "警方通报4人在地铁摆拍理发",
+        "onboard_time": 1760247441,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106212,
+        "num": 106212,
+        "word": "台独分子出岛就得栽",
+        "onboard_time": 1760246421,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105855,
+        "num": 105855,
+        "word": "2025还剩80天",
+        "onboard_time": 1760235261,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记激励巾帼之花绽放新时代#"
+    }
+  }
+}
