@@ -1,6 +1,6 @@
 {
   "startTime": 1760286516759,
-  "endTime": 1760300758959,
+  "endTime": 1760301504093,
   "band_list": [
     {
       "raw_hot": 672384,
@@ -267,6 +267,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 76527,
+      "num": 23683,
+      "word": "多位明星都曾就读北大光华EMBA",
+      "onboard_time": 1760297774,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72835,
       "num": 88859,
       "word": "四川芦山4.7级地震",
@@ -411,14 +419,6 @@
       "category": "体育,民生新闻"
     },
     {
-      "raw_hot": 50032,
-      "num": 20766,
-      "word": "多位明星都曾就读北大光华EMBA",
-      "onboard_time": 1760297774,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 47947,
       "num": 47947,
       "word": "阿富汗巴基斯坦冲突子弹来回穿梭",
@@ -491,15 +491,7 @@
       "category": "网红"
     },
     {
-      "raw_hot": 13628,
-      "num": 16367,
-      "word": "以前型人格",
-      "onboard_time": 1760298915,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 13182,
+      "raw_hot": 14136,
       "num": 19978,
       "word": "海绵宝宝派大星美国街头抗议",
       "onboard_time": 1760295434,
@@ -507,7 +499,15 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 11864,
+      "raw_hot": 14114,
+      "num": 16367,
+      "word": "以前型人格",
+      "onboard_time": 1760298915,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 12539,
       "num": 16325,
       "word": "王暖暖称会上诉追讨前夫盗窃的钱",
       "onboard_time": 1760298434,
@@ -515,12 +515,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9824,
+      "raw_hot": 9924,
       "num": 16295,
       "word": "村民把粮食晒满派出所",
       "onboard_time": 1760300653,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 9850,
+      "num": 14082,
+      "word": "美国密西西比州枪击事件已致4死12伤",
+      "onboard_time": 1760300953,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 4186,
