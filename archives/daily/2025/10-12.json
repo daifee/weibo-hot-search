@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760238478081,
+  "endTime": 1760238981045,
   "band_list": [
     {
       "raw_hot": 1448521,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 912924,
-      "num": 199215,
+      "num": 202581,
       "word": "迪丽热巴申请限消邓氏阿嬷手作",
       "onboard_time": 1760195961,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 752959,
+      "num": 206894,
+      "word": "原来小说里的道歉方式都是真的",
+      "onboard_time": 1760235020,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 710643,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 674573,
-      "num": 200685,
+      "num": 205657,
       "word": "马思纯 自然得像没搞一样",
       "onboard_time": 1760230460,
       "rank": 10,
@@ -51,16 +59,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 619958,
-      "num": 201208,
-      "word": "原来小说里的道歉方式都是真的",
-      "onboard_time": 1760235020,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 613237,
-      "num": 199772,
+      "num": 204529,
       "word": "丈夫坚持AA制妻子无力支付要写欠条",
       "onboard_time": 1760195002,
       "rank": 12,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 611380,
-      "num": 201036,
+      "num": 206100,
       "word": "关晓彤果然是被造型师陷害的",
       "onboard_time": 1760197282,
       "rank": 13,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 471484,
-      "num": 199318,
+      "num": 203217,
       "word": "摩托车死亡摇摆车主撞花坛当场身亡",
       "onboard_time": 1760230880,
       "rank": 13,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 467928,
-      "num": 200368,
+      "num": 205240,
       "word": "美国下架数百万件中国电子产品",
       "onboard_time": 1760231480,
       "rank": 15,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362625,
+      "num": 203664,
+      "word": "合成保时捷女销冠不雅视频男子致歉",
+      "onboard_time": 1760236880,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356214,
       "num": 116073,
       "word": "唐艺昕女儿睫毛好长",
@@ -195,27 +203,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296861,
+      "num": 202078,
+      "word": "齐溪回应41岁生二胎",
+      "onboard_time": 1760231660,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 277148,
+      "num": 201538,
+      "word": "济南一下肢瘫痪中年男子投河身亡",
+      "onboard_time": 1760237360,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272453,
       "num": 114420,
       "word": "李承铉撮合张远和王霏霏",
       "onboard_time": 1760194523,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 270269,
-      "num": 198890,
-      "word": "合成保时捷女销冠不雅视频男子致歉",
-      "onboard_time": 1760236880,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 268941,
-      "num": 198475,
-      "word": "齐溪回应41岁生二胎",
-      "onboard_time": 1760231660,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -251,16 +259,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 221728,
-      "num": 198135,
-      "word": "济南一下肢瘫痪中年男子投河身亡",
-      "onboard_time": 1760237360,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218451,
-      "num": 197471,
+      "raw_hot": 224742,
+      "num": 201008,
       "word": "朱一龙檀健次 空枪",
       "onboard_time": 1760237600,
       "rank": 20,
@@ -273,6 +273,14 @@
       "onboard_time": 1760189363,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200497,
+      "num": 200497,
+      "word": "舒淇尹浩宇 姐狗",
+      "onboard_time": 1760235320,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 199449,
@@ -291,12 +299,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 194817,
-      "num": 194817,
-      "word": "舒淇尹浩宇 姐狗",
-      "onboard_time": 1760235320,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 195234,
+      "num": 195234,
+      "word": "保时捷女销冠晒行政处罚决定书",
+      "onboard_time": 1760237120,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191592,
@@ -371,14 +379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 152590,
-      "num": 152590,
-      "word": "保时捷女销冠晒行政处罚决定书",
-      "onboard_time": 1760237120,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152478,
       "num": 152478,
       "word": "5人冒充院士钟世镇学生与其合影",
@@ -395,16 +395,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139653,
-      "num": 139653,
+      "raw_hot": 142426,
+      "num": 142426,
       "word": "许我耀眼亲子关系概率0.01%",
       "onboard_time": 1760233580,
       "rank": 45,
       "category": "剧集"
     },
     {
-      "raw_hot": 137191,
-      "num": 201762,
+      "raw_hot": 137914,
+      "num": 207520,
       "word": "微博视界大会",
       "onboard_time": 1760225477,
       "rank": 22,
@@ -435,20 +435,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122972,
+      "num": 122972,
+      "word": "外围大跌",
+      "onboard_time": 1760234479,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 122361,
       "num": 113208,
       "word": "白鹿有颗牙片磕碎了",
       "onboard_time": 1760188942,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 121339,
-      "num": 121339,
-      "word": "外围大跌",
-      "onboard_time": 1760234479,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 118067,
@@ -483,20 +483,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105740,
+      "num": 105740,
+      "word": "外卖骑手能屏蔽顾客了",
+      "onboard_time": 1760238380,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105613,
+      "num": 105613,
+      "word": "你觉得最有用的人生经验是什么",
+      "onboard_time": 1760237719,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 104433,
+      "num": 104433,
+      "word": "魏大勋 孟宴臣",
+      "onboard_time": 1760192302,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101593,
       "num": 101593,
       "word": "莲藕汤补气血还不上火",
       "onboard_time": 1760227758,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 99274,
-      "num": 99274,
-      "word": "你觉得最有用的人生经验是什么",
-      "onboard_time": 1760237719,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 98944,
@@ -523,6 +539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 97120,
+      "num": 97120,
+      "word": "李煜东 给大家说个好消息",
+      "onboard_time": 1760238620,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94880,
       "num": 94880,
       "word": "齐溪二胎是女儿",
@@ -547,12 +571,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91763,
+      "num": 91763,
+      "word": "雷军回应早前娱乐视频",
+      "onboard_time": 1760236880,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 91445,
       "num": 91445,
       "word": "侯明昊机场被粉丝包围了",
       "onboard_time": 1760199741,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89378,
+      "num": 89378,
+      "word": "杨妞花杜小华已到解清帅婚礼现场",
+      "onboard_time": 1760234121,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89197,
@@ -571,28 +611,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 88551,
-      "num": 88551,
-      "word": "雷军回应早前娱乐视频",
-      "onboard_time": 1760236880,
-      "rank": 36,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 88370,
-      "num": 88370,
-      "word": "杨妞花杜小华已到解清帅婚礼现场",
-      "onboard_time": 1760234121,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87604,
-      "num": 87604,
-      "word": "魏大勋 孟宴臣",
-      "onboard_time": 1760192302,
-      "rank": 39,
+      "raw_hot": 88624,
+      "num": 88624,
+      "word": "CCTV认证断层第一的电视剧",
+      "onboard_time": 1760238620,
+      "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88339,
+      "num": 88339,
+      "word": "呼吸道合胞病毒流行期提前",
+      "onboard_time": 1760233223,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 87535,
@@ -611,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85259,
+      "num": 85259,
+      "word": "男子深夜撬10座墓盗窃骨灰撒一地",
+      "onboard_time": 1760238920,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85057,
       "num": 85057,
       "word": "陈浚铭拜师兄2.0",
@@ -619,8 +659,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83870,
-      "num": 83870,
+      "raw_hot": 83887,
+      "num": 83887,
       "word": "2人摆拍悬赏20万寻救命恩人被拘",
       "onboard_time": 1760236100,
       "rank": 40,
@@ -659,12 +699,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80889,
-      "num": 80889,
-      "word": "呼吸道合胞病毒流行期提前",
-      "onboard_time": 1760233223,
-      "rank": 39,
-      "category": "健康医疗"
+      "raw_hot": 81144,
+      "num": 81144,
+      "word": "赵磊回应粉丝都有知情的权利",
+      "onboard_time": 1760238680,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 80520,
@@ -673,6 +713,14 @@
       "onboard_time": 1760231120,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 79908,
+      "num": 79908,
+      "word": "一个镜头拉满生理性恐惧",
+      "onboard_time": 1760238739,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 79419,
@@ -689,6 +737,14 @@
       "onboard_time": 1760226620,
       "rank": 41,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 78920,
+      "num": 78920,
+      "word": "乘客手机遗落飞机上被安全员带回家",
+      "onboard_time": 1760238560,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78403,
@@ -731,12 +787,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 76155,
-      "num": 76155,
-      "word": "外卖骑手能屏蔽顾客了",
-      "onboard_time": 1760238380,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 75612,
+      "num": 75612,
+      "word": "上海时装周内衣外穿走秀引热议",
+      "onboard_time": 1760238860,
+      "rank": 49,
+      "category": "民生新闻,时尚"
     },
     {
       "raw_hot": 74510,

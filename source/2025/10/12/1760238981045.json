@@ -1,0 +1,410 @@
+{
+  "runTime": 1760238981045,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1371825,
+        "num": 1371825,
+        "word": "万科董事长辛杰已失联",
+        "onboard_time": 1760233819,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 688359,
+        "num": 688359,
+        "word": "中方回应美方威胁加征100%关税",
+        "onboard_time": 1760236580,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50332,
+        "num": 630844,
+        "word": "悬赏征集台军18人犯罪线索",
+        "onboard_time": 1760191463,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 605569,
+        "num": 605569,
+        "word": "卡塔尔代表团遭遇车祸已致3死3伤",
+        "onboard_time": 1760229739,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 323299,
+        "num": 323299,
+        "word": "丽江一景区部分设计被指观感不适",
+        "onboard_time": 1760230340,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289203,
+        "num": 289203,
+        "word": "厦门公安接到台湾民众举报",
+        "onboard_time": 1760231480,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245293,
+        "num": 245293,
+        "word": "广东海洋大学被曝住宿环境差",
+        "onboard_time": 1760231059,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211059,
+        "num": 211059,
+        "word": "大学生识破间谍套路并举报获表彰",
+        "onboard_time": 1760229560,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207662,
+        "num": 207662,
+        "word": "千万富翁给丢失25年儿子婚礼办40桌",
+        "onboard_time": 1760193803,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137914,
+        "num": 207520,
+        "word": "微博视界大会",
+        "onboard_time": 1760225477,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 752959,
+        "num": 206894,
+        "word": "原来小说里的道歉方式都是真的",
+        "onboard_time": 1760235020,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 522617,
+        "num": 206100,
+        "word": "关晓彤果然是被造型师陷害的",
+        "onboard_time": 1760197282,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500436,
+        "num": 205657,
+        "word": "马思纯 自然得像没搞一样",
+        "onboard_time": 1760230460,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406772,
+        "num": 205240,
+        "word": "美国下架数百万件中国电子产品",
+        "onboard_time": 1760231480,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 365487,
+        "num": 204529,
+        "word": "丈夫坚持AA制妻子无力支付要写欠条",
+        "onboard_time": 1760195002,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362625,
+        "num": 203664,
+        "word": "合成保时捷女销冠不雅视频男子致歉",
+        "onboard_time": 1760236880,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 325360,
+        "num": 203217,
+        "word": "摩托车死亡摇摆车主撞花坛当场身亡",
+        "onboard_time": 1760230880,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324015,
+        "num": 202581,
+        "word": "迪丽热巴申请限消邓氏阿嬷手作",
+        "onboard_time": 1760195961,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296861,
+        "num": 202078,
+        "word": "齐溪回应41岁生二胎",
+        "onboard_time": 1760231660,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277148,
+        "num": 201538,
+        "word": "济南一下肢瘫痪中年男子投河身亡",
+        "onboard_time": 1760237360,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224742,
+        "num": 201008,
+        "word": "朱一龙檀健次 空枪",
+        "onboard_time": 1760237600,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200497,
+        "num": 200497,
+        "word": "舒淇尹浩宇 姐狗",
+        "onboard_time": 1760235320,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195234,
+        "num": 195234,
+        "word": "保时捷女销冠晒行政处罚决定书",
+        "onboard_time": 1760237120,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185317,
+        "num": 185317,
+        "word": "商务部就近期经贸措施答记者问",
+        "onboard_time": 1760236580,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142426,
+        "num": 142426,
+        "word": "许我耀眼亲子关系概率0.01%",
+        "onboard_time": 1760233580,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136770,
+        "num": 136770,
+        "word": "2025还剩80天",
+        "onboard_time": 1760235261,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126559,
+        "num": 126559,
+        "word": "高反失温女孩术后已昏迷3天",
+        "onboard_time": 1760227639,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124355,
+        "num": 124355,
+        "word": "多地大雨继续超长待机",
+        "onboard_time": 1760229919,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123521,
+        "num": 123521,
+        "word": "金价回调一度跌破4000美元",
+        "onboard_time": 1760226978,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122972,
+        "num": 122972,
+        "word": "外围大跌",
+        "onboard_time": 1760234479,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 122945,
+        "num": 122945,
+        "word": "迪丽热巴ins点赞转发破百万",
+        "onboard_time": 1760230821,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109214,
+        "num": 109214,
+        "word": "糖尿病女孩1天4杯奶茶惊掉医生下巴",
+        "onboard_time": 1760193441,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107198,
+        "num": 107198,
+        "word": "解清帅婚礼约100桌",
+        "onboard_time": 1760235560,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105740,
+        "num": 105740,
+        "word": "外卖骑手能屏蔽顾客了",
+        "onboard_time": 1760238380,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105613,
+        "num": 105613,
+        "word": "你觉得最有用的人生经验是什么",
+        "onboard_time": 1760237719,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104433,
+        "num": 104433,
+        "word": "魏大勋 孟宴臣",
+        "onboard_time": 1760192302,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97120,
+        "num": 97120,
+        "word": "李煜东 给大家说个好消息",
+        "onboard_time": 1760238620,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91763,
+        "num": 91763,
+        "word": "雷军回应早前娱乐视频",
+        "onboard_time": 1760236880,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 51598,
+        "num": 91087,
+        "word": "商务部回应稀土相关物项出口管制",
+        "onboard_time": 1760236639,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90792,
+        "num": 90792,
+        "word": "体检报告这些指标可能是加分项",
+        "onboard_time": 1760234660,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89378,
+        "num": 89378,
+        "word": "杨妞花杜小华已到解清帅婚礼现场",
+        "onboard_time": 1760234121,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88624,
+        "num": 88624,
+        "word": "CCTV认证断层第一的电视剧",
+        "onboard_time": 1760238620,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88339,
+        "num": 88339,
+        "word": "呼吸道合胞病毒流行期提前",
+        "onboard_time": 1760233223,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85259,
+        "num": 85259,
+        "word": "男子深夜撬10座墓盗窃骨灰撒一地",
+        "onboard_time": 1760238920,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83887,
+        "num": 83887,
+        "word": "2人摆拍悬赏20万寻救命恩人被拘",
+        "onboard_time": 1760236100,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77355,
+        "num": 81182,
+        "word": "王老吉自己先上火了",
+        "onboard_time": 1760237422,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81144,
+        "num": 81144,
+        "word": "赵磊回应粉丝都有知情的权利",
+        "onboard_time": 1760238680,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79908,
+        "num": 79908,
+        "word": "一个镜头拉满生理性恐惧",
+        "onboard_time": 1760238739,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78920,
+        "num": 78920,
+        "word": "乘客手机遗落飞机上被安全员带回家",
+        "onboard_time": 1760238560,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75612,
+        "num": 75612,
+        "word": "上海时装周内衣外穿走秀引热议",
+        "onboard_time": 1760238860,
+        "rank": 49,
+        "category": "民生新闻,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记为新时代妇女事业发展指方向#"
+    }
+  }
+}
