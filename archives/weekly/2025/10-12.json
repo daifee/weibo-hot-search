@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760244098250,
+  "endTime": 1760246594350,
   "band_list": [
     {
       "raw_hot": 1448521,
@@ -17,6 +17,14 @@
       "onboard_time": 1760229739,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 989262,
+      "num": 306089,
+      "word": "南北cp",
+      "onboard_time": 1760240900,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 912924,
@@ -41,14 +49,6 @@
       "onboard_time": 1760235020,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 729261,
-      "num": 306089,
-      "word": "南北cp",
-      "onboard_time": 1760240900,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 710643,
@@ -92,11 +92,19 @@
     },
     {
       "raw_hot": 611380,
-      "num": 298194,
+      "num": 301370,
       "word": "关晓彤果然是被造型师陷害的",
       "onboard_time": 1760197282,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 557711,
+      "num": 557711,
+      "word": "商务部公告附件首次改为wps格式",
+      "onboard_time": 1760241380,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 553102,
@@ -123,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 511678,
+      "num": 308500,
+      "word": "CCTV认证断层第一的电视剧",
+      "onboard_time": 1760238620,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 486136,
       "num": 486136,
       "word": "丽江一景区部分设计被指观感不适",
@@ -145,14 +161,6 @@
       "onboard_time": 1760230880,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 471028,
-      "num": 471028,
-      "word": "商务部公告附件首次改为wps格式",
-      "onboard_time": 1760241380,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 467928,
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 442971,
+      "num": 442971,
+      "word": "B站崩了",
+      "onboard_time": 1760240900,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 426285,
       "num": 518223,
       "word": "聊天这样结尾的人往往很在乎你",
@@ -195,11 +211,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 402357,
+      "num": 402357,
+      "word": "法考主观题",
+      "onboard_time": 1760245161,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 399335,
       "num": 399335,
       "word": "千万富翁给丢失25年儿子婚礼办40桌",
       "onboard_time": 1760193803,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 395573,
+      "num": 395573,
+      "word": "外国游客称中国不说英语很正常",
+      "onboard_time": 1760242880,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -219,14 +251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 372849,
-      "num": 284921,
-      "word": "CCTV认证断层第一的电视剧",
-      "onboard_time": 1760238620,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 356214,
       "num": 116073,
       "word": "唐艺昕女儿睫毛好长",
@@ -241,6 +265,14 @@
       "onboard_time": 1760237600,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 335727,
+      "num": 335727,
+      "word": "法考",
+      "onboard_time": 1760244440,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 331865,
@@ -267,12 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318636,
-      "num": 318636,
-      "word": "B站崩了",
-      "onboard_time": 1760240900,
-      "rank": 7,
-      "category": "互联网"
+      "raw_hot": 320051,
+      "num": 320051,
+      "word": "王者荣耀",
+      "onboard_time": 1760244200,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 305726,
@@ -307,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294960,
+      "num": 294960,
+      "word": "菲律宾派出的挑衅船只越来越多",
+      "onboard_time": 1760245161,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 272453,
       "num": 114420,
       "word": "李承铉撮合张远和王霏霏",
@@ -331,19 +371,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248997,
+      "num": 248997,
+      "word": "张晚意李沁还好生在和平年代",
+      "onboard_time": 1760241260,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247679,
       "num": 247679,
       "word": "多地大雨继续超长待机",
       "onboard_time": 1760229919,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235575,
-      "num": 235575,
-      "word": "外国游客称中国不说英语很正常",
-      "onboard_time": 1760242880,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -353,6 +393,14 @@
       "onboard_time": 1760185281,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227099,
+      "num": 227099,
+      "word": "中国海警依法管控驱离菲船只",
+      "onboard_time": 1760246360,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 217728,
@@ -367,14 +415,6 @@
       "num": 211341,
       "word": "胡先煦 胡图图遇到牛爷爷",
       "onboard_time": 1760239700,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 201860,
-      "num": 201860,
-      "word": "张晚意李沁还好生在和平年代",
-      "onboard_time": 1760241260,
       "rank": 27,
       "category": "综艺"
     },
@@ -435,6 +475,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179058,
+      "num": 179058,
+      "word": "原来你们买衣服不是随便摸摸",
+      "onboard_time": 1760244801,
+      "rank": 24,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 178861,
+      "num": 161235,
+      "word": "被韩国人的结婚现场震惊到了",
+      "onboard_time": 1760246000,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177080,
       "num": 177080,
       "word": "为什么不吃米面体重很快会减轻",
@@ -467,12 +523,44 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 173654,
+      "num": 173654,
+      "word": "3名官员车祸身亡卡塔尔大使馆发声",
+      "onboard_time": 1760245821,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 172497,
       "num": 83230,
       "word": "井迪一直不谈恋爱的原因",
       "onboard_time": 1760204419,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170241,
+      "num": 318875,
+      "word": "微博视界大会",
+      "onboard_time": 1760225477,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166999,
+      "num": 161141,
+      "word": "LASERminini联动",
+      "onboard_time": 1760246060,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 164079,
+      "num": 164079,
+      "word": "说中国没奢侈品的只是你听都没听过",
+      "onboard_time": 1760243660,
+      "rank": 38,
+      "category": "休闲"
     },
     {
       "raw_hot": 161444,
@@ -499,12 +587,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159563,
+      "num": 159563,
+      "word": "养猫人让猫上床睡的手段",
+      "onboard_time": 1760245280,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 159508,
       "num": 113779,
       "word": "容祖儿说汪苏泷最好听的作品是年轮",
       "onboard_time": 1760192242,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158076,
+      "num": 158076,
+      "word": "华晨宇被打码了",
+      "onboard_time": 1760244319,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 155386,
@@ -521,14 +625,6 @@
       "onboard_time": 1760227579,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150332,
-      "num": 315233,
-      "word": "微博视界大会",
-      "onboard_time": 1760225477,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 148349,
@@ -571,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134154,
+      "num": 134154,
+      "word": "MANTAminini联动",
+      "onboard_time": 1760245580,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 125849,
       "num": 125849,
       "word": "广州多个公交站惊现S型护栏",
@@ -601,6 +705,14 @@
       "onboard_time": 1760234479,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122362,
+      "num": 122362,
+      "word": "家里最没用的攻击家里最有用的",
+      "onboard_time": 1760245821,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 122361,
@@ -683,20 +795,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111351,
+      "num": 111351,
+      "word": "LPL众人合唱出征曲",
+      "onboard_time": 1760246481,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 109863,
+      "num": 109863,
+      "word": "郭静下一个天亮等了十七年",
+      "onboard_time": 1760241438,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 109544,
       "num": 109544,
       "word": "孙颖莎好适合穿亮色",
       "onboard_time": 1760242339,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 108918,
-      "num": 108918,
-      "word": "郭静下一个天亮等了十七年",
-      "onboard_time": 1760241438,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 108207,
@@ -707,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106007,
+      "num": 106007,
+      "word": "台独分子出岛就得栽",
+      "onboard_time": 1760246421,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105740,
       "num": 105740,
       "word": "外卖骑手能屏蔽顾客了",
@@ -715,20 +843,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105668,
+      "num": 137291,
+      "word": "王楚钦就爱坐这里",
+      "onboard_time": 1760245580,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105613,
       "num": 105613,
       "word": "你觉得最有用的人生经验是什么",
       "onboard_time": 1760237719,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105327,
-      "num": 105327,
-      "word": "说中国没奢侈品的只是你听都没听过",
-      "onboard_time": 1760243660,
-      "rank": 38,
-      "category": "休闲"
     },
     {
       "raw_hot": 104607,
@@ -745,6 +873,14 @@
       "onboard_time": 1760192302,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102540,
+      "num": 199788,
+      "word": "中国海警回应菲船只侵闯铁线礁",
+      "onboard_time": 1760245220,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 101593,
@@ -944,6 +1080,14 @@
       "word": "2人摆拍悬赏20万寻救命恩人被拘",
       "onboard_time": 1760236100,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83637,
+      "num": 139554,
+      "word": "2岁女童意外跌入开水锅仍在ICU",
+      "onboard_time": 1760245640,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1235,6 +1379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 52794,
+      "num": 135096,
+      "word": "华晨宇 你直接报我名字得了",
+      "onboard_time": 1760246541,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 51245,
       "num": 57204,
       "word": "男子失联7年后家属才知命丧车祸",
@@ -1331,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30298,
+      "num": 139095,
+      "word": "真正的成熟从接纳孤独开始",
+      "onboard_time": 1760246481,
+      "rank": 36,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 29644,
       "num": 35831,
       "word": "纤维粒视频被禁止播放",
@@ -1360,6 +1520,14 @@
       "word": "张靓颖摔下舞台后先安慰大家",
       "onboard_time": 1760207595,
       "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 20606,
+      "num": 137019,
+      "word": "这个阵容只有微博能请到",
+      "onboard_time": 1760245580,
+      "rank": 38,
       "category": "演出"
     },
     {
@@ -1403,7 +1571,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 2601,
+      "raw_hot": 4835,
       "num": 496861,
       "word": "青春华章",
       "onboard_time": 1760172020,
@@ -1414,6 +1582,9 @@
   "hotgov_list": [
     {
       "word": "#总书记为新时代妇女事业发展指方向#"
+    },
+    {
+      "word": "#总书记激励巾帼之花绽放新时代#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1760246594350,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 663768,
+        "num": 1106203,
+        "word": "卡塔尔代表团遭遇车祸已致3死3伤",
+        "onboard_time": 1760229739,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 557711,
+        "num": 557711,
+        "word": "商务部公告附件首次改为wps格式",
+        "onboard_time": 1760241380,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4835,
+        "num": 493456,
+        "word": "青春华章",
+        "onboard_time": 1760172020,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 442971,
+        "num": 442971,
+        "word": "B站崩了",
+        "onboard_time": 1760240900,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 402357,
+        "num": 402357,
+        "word": "法考主观题",
+        "onboard_time": 1760245161,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 400364,
+        "num": 400364,
+        "word": "中方回应美方威胁加征100%关税",
+        "onboard_time": 1760236580,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 395573,
+        "num": 395573,
+        "word": "外国游客称中国不说英语很正常",
+        "onboard_time": 1760242880,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335727,
+        "num": 335727,
+        "word": "法考",
+        "onboard_time": 1760244440,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 320051,
+        "num": 320051,
+        "word": "王者荣耀",
+        "onboard_time": 1760244200,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170241,
+        "num": 318875,
+        "word": "微博视界大会",
+        "onboard_time": 1760225477,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 794900,
+        "num": 314396,
+        "word": "万科董事长辛杰已失联",
+        "onboard_time": 1760233819,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511678,
+        "num": 308500,
+        "word": "CCTV认证断层第一的电视剧",
+        "onboard_time": 1760238620,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443954,
+        "num": 303752,
+        "word": "孟子义李昀锐广东开机同框",
+        "onboard_time": 1760239519,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353526,
+        "num": 301370,
+        "word": "关晓彤果然是被造型师陷害的",
+        "onboard_time": 1760197282,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326616,
+        "num": 296578,
+        "word": "何晟铭女儿13岁了",
+        "onboard_time": 1760239340,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294960,
+        "num": 294960,
+        "word": "菲律宾派出的挑衅船只越来越多",
+        "onboard_time": 1760245161,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 285552,
+        "num": 285552,
+        "word": "山航空姐的裤装上线了",
+        "onboard_time": 1760239580,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248997,
+        "num": 248997,
+        "word": "张晚意李沁还好生在和平年代",
+        "onboard_time": 1760241260,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230516,
+        "num": 230516,
+        "word": "原来小说里的道歉方式都是真的",
+        "onboard_time": 1760235020,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 227099,
+        "num": 227099,
+        "word": "中国海警依法管控驱离菲船只",
+        "onboard_time": 1760246360,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 989262,
+        "num": 221530,
+        "word": "南北cp",
+        "onboard_time": 1760240900,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204221,
+        "num": 204221,
+        "word": "解清帅与妻子相恋四年初遇经济拮据",
+        "onboard_time": 1760242461,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102540,
+        "num": 199788,
+        "word": "中国海警回应菲船只侵闯铁线礁",
+        "onboard_time": 1760245220,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196827,
+        "num": 196827,
+        "word": "济南一下肢瘫痪中年男子投河身亡",
+        "onboard_time": 1760237360,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179058,
+        "num": 179058,
+        "word": "原来你们买衣服不是随便摸摸",
+        "onboard_time": 1760244801,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 173654,
+        "num": 173654,
+        "word": "3名官员车祸身亡卡塔尔大使馆发声",
+        "onboard_time": 1760245821,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172823,
+        "num": 172823,
+        "word": "马思纯 自然得像没搞一样",
+        "onboard_time": 1760230460,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164812,
+        "num": 164812,
+        "word": "合成保时捷女销冠不雅视频男子致歉",
+        "onboard_time": 1760236880,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164079,
+        "num": 164079,
+        "word": "说中国没奢侈品的只是你听都没听过",
+        "onboard_time": 1760243660,
+        "rank": 28,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 162759,
+        "num": 162759,
+        "word": "丽江一景区部分设计被指观感不适",
+        "onboard_time": 1760230340,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178861,
+        "num": 161235,
+        "word": "被韩国人的结婚现场震惊到了",
+        "onboard_time": 1760246000,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166999,
+        "num": 161141,
+        "word": "LASERminini联动",
+        "onboard_time": 1760246060,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 159563,
+        "num": 159563,
+        "word": "养猫人让猫上床睡的手段",
+        "onboard_time": 1760245280,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158076,
+        "num": 158076,
+        "word": "华晨宇被打码了",
+        "onboard_time": 1760244319,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140178,
+        "num": 140178,
+        "word": "美国下架数百万件中国电子产品",
+        "onboard_time": 1760231480,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83637,
+        "num": 139554,
+        "word": "2岁女童意外跌入开水锅仍在ICU",
+        "onboard_time": 1760245640,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30298,
+        "num": 139095,
+        "word": "真正的成熟从接纳孤独开始",
+        "onboard_time": 1760246481,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105668,
+        "num": 137291,
+        "word": "王楚钦就爱坐这里",
+        "onboard_time": 1760245580,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20606,
+        "num": 137019,
+        "word": "这个阵容只有微博能请到",
+        "onboard_time": 1760245580,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52794,
+        "num": 135096,
+        "word": "华晨宇 你直接报我名字得了",
+        "onboard_time": 1760246541,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135029,
+        "num": 135029,
+        "word": "朱一龙檀健次 空枪",
+        "onboard_time": 1760237600,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134154,
+        "num": 134154,
+        "word": "MANTAminini联动",
+        "onboard_time": 1760245580,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 122362,
+        "num": 122362,
+        "word": "家里最没用的攻击家里最有用的",
+        "onboard_time": 1760245821,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 119210,
+        "num": 119210,
+        "word": "2025还剩80天",
+        "onboard_time": 1760235261,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116393,
+        "num": 116393,
+        "word": "六公主镜头下的卢昱晓",
+        "onboard_time": 1760243599,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111351,
+        "num": 111351,
+        "word": "LPL众人合唱出征曲",
+        "onboard_time": 1760246481,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109957,
+        "num": 109957,
+        "word": "广东海洋大学被曝住宿环境差",
+        "onboard_time": 1760231059,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109863,
+        "num": 109863,
+        "word": "郭静下一个天亮等了十七年",
+        "onboard_time": 1760241438,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109340,
+        "num": 109340,
+        "word": "为什么不吃米面体重很快会减轻",
+        "onboard_time": 1760240240,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106007,
+        "num": 106007,
+        "word": "台独分子出岛就得栽",
+        "onboard_time": 1760246421,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记激励巾帼之花绽放新时代#"
+    }
+  }
+}
