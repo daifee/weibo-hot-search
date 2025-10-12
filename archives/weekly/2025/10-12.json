@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760269025301,
+  "endTime": 1760273071641,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1158407,
-      "num": 214732,
+      "num": 219627,
       "word": "网友偶遇戚薇北大考试",
       "onboard_time": 1760262020,
       "rank": 10,
@@ -49,6 +49,14 @@
       "onboard_time": 1760253620,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1097185,
+      "num": 219803,
+      "word": "女子婚内出轨伴郎以夫妻名义同居生子",
+      "onboard_time": 1760267600,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 989262,
@@ -73,6 +81,14 @@
       "onboard_time": 1760255179,
       "rank": 0,
       "category": "民生新闻,民生新闻"
+    },
+    {
+      "raw_hot": 922181,
+      "num": 1147549,
+      "word": "晋A99999劳斯莱斯1544000元起拍",
+      "onboard_time": 1760267480,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 912924,
@@ -147,14 +163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 685583,
-      "num": 167345,
-      "word": "女子婚内出轨伴郎以夫妻名义同居生子",
-      "onboard_time": 1760267600,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 674573,
       "num": 282356,
       "word": "马思纯 自然得像没搞一样",
@@ -185,6 +193,14 @@
       "onboard_time": 1760186182,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 631509,
+      "num": 631509,
+      "word": "吃不吃麻辣烫的都沉默了",
+      "onboard_time": 1760266160,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 613237,
@@ -347,8 +363,16 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 440859,
+      "num": 210192,
+      "word": "Angelababy跳刀马刀马了",
+      "onboard_time": 1760270480,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 438367,
-      "num": 208680,
+      "num": 218230,
       "word": "周杰伦发文告别嘉年华巡演",
       "onboard_time": 1760264240,
       "rank": 21,
@@ -467,20 +491,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 355024,
+      "num": 355024,
+      "word": "获1300万拆迁款被判刑男子发声",
+      "onboard_time": 1760265861,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 353998,
+      "num": 353998,
+      "word": "法国第一夫人被迫证明自己不是男人",
+      "onboard_time": 1760271561,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 345350,
       "num": 231142,
       "word": "朱一龙檀健次 空枪",
       "onboard_time": 1760237600,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 339210,
-      "num": 339210,
-      "word": "吃不吃麻辣烫的都沉默了",
-      "onboard_time": 1760266160,
-      "rank": 15,
-      "category": "美食"
     },
     {
       "raw_hot": 335727,
@@ -521,6 +553,14 @@
       "onboard_time": 1760244200,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 319565,
+      "num": 218528,
+      "word": "建议睡眠不好的都去吃",
+      "onboard_time": 1760271921,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 305726,
@@ -659,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234632,
+      "num": 208848,
+      "word": "剧看了6集男主不知叫啥名",
+      "onboard_time": 1760272159,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233315,
       "num": 115064,
       "word": "韩国男子在张家界举韩国国旗",
@@ -683,6 +731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 221510,
+      "num": 217811,
+      "word": "一笑随歌",
+      "onboard_time": 1760265260,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221044,
       "num": 200668,
       "word": "杨幂从小就是大长腿",
@@ -699,6 +755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 217808,
+      "num": 217808,
+      "word": "入青云",
+      "onboard_time": 1760225297,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217728,
       "num": 114775,
       "word": "魏大勋连续三年给孟宴臣庆生",
@@ -713,6 +777,14 @@
       "onboard_time": 1760262620,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216484,
+      "num": 216484,
+      "word": "王安宇华电",
+      "onboard_time": 1760271382,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 211341,
@@ -779,12 +851,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 195471,
+      "num": 195471,
+      "word": "陈哲远说今天26集看爽了",
+      "onboard_time": 1760272401,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195234,
       "num": 195234,
       "word": "保时捷女销冠晒行政处罚决定书",
       "onboard_time": 1760237120,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191665,
+      "num": 191665,
+      "word": "内娱第一个饭撒女儿的歌手",
+      "onboard_time": 1760272401,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 191592,
@@ -907,28 +995,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167746,
-      "num": 167746,
-      "word": "晋A99999劳斯莱斯1544000元起拍",
-      "onboard_time": 1760267480,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166999,
       "num": 161141,
       "word": "LASERminini联动",
       "onboard_time": 1760246060,
       "rank": 31,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 166857,
-      "num": 163682,
-      "word": "获1300万拆迁款被判刑男子发声",
-      "onboard_time": 1760265861,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 164079,
@@ -1227,6 +1299,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 133767,
+      "num": 133767,
+      "word": "我多弯一次腰父母少吃一点苦",
+      "onboard_time": 1760272159,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130644,
       "num": 130644,
       "word": "王影璐无邪路透兔子警官",
@@ -1339,6 +1419,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120976,
+      "num": 120976,
+      "word": "癌症患者多与这6点有关",
+      "onboard_time": 1760270960,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 120718,
+      "num": 120718,
+      "word": "S15世界赛Top20",
+      "onboard_time": 1760272159,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120326,
       "num": 120326,
       "word": "六公主镜头下的卢昱晓",
@@ -1353,14 +1449,6 @@
       "onboard_time": 1760247441,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118193,
-      "num": 118193,
-      "word": "一笑随歌",
-      "onboard_time": 1760265260,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 118161,
@@ -1619,14 +1707,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 105327,
-      "num": 105327,
-      "word": "入青云",
-      "onboard_time": 1760225297,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104607,
       "num": 104607,
       "word": "为什么领导喜欢让下属去沟通",
@@ -1649,6 +1729,14 @@
       "onboard_time": 1760254221,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104078,
+      "num": 104078,
+      "word": "欧阳娜娜欧阳娣娣真姐妹就是好嗑",
+      "onboard_time": 1760270001,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 102540,
@@ -1689,6 +1777,14 @@
       "onboard_time": 1760231600,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98641,
+      "num": 98641,
+      "word": "高芙首夺武网冠军",
+      "onboard_time": 1760272879,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 98392,
@@ -1811,6 +1907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 92292,
+      "num": 92292,
+      "word": "乌克兰32岁知名交易员疑似自杀",
+      "onboard_time": 1760268321,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 92251,
       "num": 117855,
       "word": "JDG战胜KSG",
@@ -1825,14 +1929,6 @@
       "onboard_time": 1760196922,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92076,
-      "num": 92076,
-      "word": "乌克兰32岁知名交易员疑似自杀",
-      "onboard_time": 1760268321,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 91864,
@@ -1880,6 +1976,22 @@
       "word": "喜人奇妙夜第三期笑后感",
       "onboard_time": 1760261540,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 90275,
+      "num": 90275,
+      "word": "判断一双鞋有没有足弓支撑的教程",
+      "onboard_time": 1760271501,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 90026,
+      "num": 90026,
+      "word": "何广智遇到了自己的仲天骐",
+      "onboard_time": 1760272700,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1955,6 +2067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87865,
+      "num": 87865,
+      "word": "周深合肥演唱会座位图好圆",
+      "onboard_time": 1760271382,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 87535,
       "num": 87535,
       "word": "VOGUE盛典52位嘉宾",
@@ -1977,6 +2097,22 @@
       "onboard_time": 1760265199,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87170,
+      "num": 87170,
+      "word": "松岛辉空3比2赵大成",
+      "onboard_time": 1760272159,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87076,
+      "num": 87076,
+      "word": "男子狂偷外卖说骑手不容易偷便宜的",
+      "onboard_time": 1760270839,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87071,
@@ -2137,6 +2273,14 @@
       "onboard_time": 1760257400,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 80588,
+      "num": 80588,
+      "word": "上海大师赛",
+      "onboard_time": 1760271620,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 80520,
@@ -2763,7 +2907,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 4835,
+      "raw_hot": 7901,
       "num": 889181,
       "word": "青春华章",
       "onboard_time": 1760172020,
