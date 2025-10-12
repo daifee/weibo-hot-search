@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760240885666,
+  "endTime": 1760243347942,
   "band_list": [
     {
       "raw_hot": 1448521,
@@ -27,16 +27,32 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 810388,
+      "num": 239102,
+      "word": "孟子义李昀锐广东开机同框",
+      "onboard_time": 1760239519,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 752959,
-      "num": 218065,
+      "num": 236925,
       "word": "原来小说里的道歉方式都是真的",
       "onboard_time": 1760235020,
       "rank": 39,
       "category": "幽默"
     },
     {
+      "raw_hot": 729261,
+      "num": 238434,
+      "word": "南北cp",
+      "onboard_time": 1760240900,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 710643,
-      "num": 710643,
+      "num": 1088393,
       "word": "中方回应美方威胁加征100%关税",
       "onboard_time": 1760236580,
       "rank": 1,
@@ -44,11 +60,19 @@
     },
     {
       "raw_hot": 674573,
-      "num": 218003,
+      "num": 233936,
       "word": "马思纯 自然得像没搞一样",
       "onboard_time": 1760230460,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 643633,
+      "num": 237917,
+      "word": "何晟铭女儿13岁了",
+      "onboard_time": 1760239340,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 638113,
@@ -68,7 +92,7 @@
     },
     {
       "raw_hot": 611380,
-      "num": 217993,
+      "num": 235554,
       "word": "关晓彤果然是被造型师陷害的",
       "onboard_time": 1760197282,
       "rank": 13,
@@ -76,7 +100,7 @@
     },
     {
       "raw_hot": 553102,
-      "num": 218036,
+      "num": 236664,
       "word": "济南一下肢瘫痪中年男子投河身亡",
       "onboard_time": 1760237360,
       "rank": 19,
@@ -84,7 +108,7 @@
     },
     {
       "raw_hot": 544796,
-      "num": 218020,
+      "num": 234746,
       "word": "合成保时捷女销冠不雅视频男子致歉",
       "onboard_time": 1760236880,
       "rank": 17,
@@ -123,8 +147,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 471028,
+      "num": 471028,
+      "word": "商务部公告附件首次改为wps格式",
+      "onboard_time": 1760241380,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 467928,
-      "num": 217941,
+      "num": 233268,
       "word": "美国下架数百万件中国电子产品",
       "onboard_time": 1760231480,
       "rank": 15,
@@ -187,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 372849,
+      "num": 231822,
+      "word": "CCTV认证断层第一的电视剧",
+      "onboard_time": 1760238620,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356214,
       "num": 116073,
       "word": "唐艺昕女儿睫毛好长",
@@ -196,39 +236,31 @@
     },
     {
       "raw_hot": 345350,
-      "num": 217970,
+      "num": 231142,
       "word": "朱一龙檀健次 空枪",
       "onboard_time": 1760237600,
       "rank": 20,
       "category": "电影"
     },
     {
-      "raw_hot": 341594,
-      "num": 217968,
-      "word": "何晟铭女儿13岁了",
-      "onboard_time": 1760239340,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 320543,
-      "num": 217936,
+      "num": 225967,
       "word": "李煜东 给大家说个好消息",
       "onboard_time": 1760238620,
       "rank": 36,
       "category": "艺人"
     },
     {
-      "raw_hot": 319494,
-      "num": 217923,
-      "word": "CCTV认证断层第一的电视剧",
-      "onboard_time": 1760238620,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 312925,
+      "num": 312925,
+      "word": "山航空姐的裤装上线了",
+      "onboard_time": 1760239580,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 305726,
-      "num": 217902,
+      "num": 230964,
       "word": "这居然是陶昕然",
       "onboard_time": 1760239640,
       "rank": 21,
@@ -257,14 +289,6 @@
       "onboard_time": 1760231660,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 289206,
-      "num": 217883,
-      "word": "孟子义李昀锐广东开机同框",
-      "onboard_time": 1760239519,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 272453,
@@ -299,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 241004,
+      "num": 241004,
+      "word": "B站崩了",
+      "onboard_time": 1760240900,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 233315,
       "num": 115064,
       "word": "韩国男子在张家界举韩国国旗",
@@ -321,14 +353,6 @@
       "onboard_time": 1760239700,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205920,
-      "num": 188370,
-      "word": "山航空姐的裤装上线了",
-      "onboard_time": 1760239580,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 201729,
@@ -403,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 176151,
+      "num": 158239,
+      "word": "外国游客称中国不说英语很正常",
+      "onboard_time": 1760242880,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175257,
       "num": 133220,
       "word": "迪丽热巴ins点赞转发破百万",
@@ -424,6 +456,14 @@
       "word": "井迪一直不谈恋爱的原因",
       "onboard_time": 1760204419,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167541,
+      "num": 167541,
+      "word": "张晚意李沁还好生在和平年代",
+      "onboard_time": 1760241260,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -476,7 +516,7 @@
     },
     {
       "raw_hot": 150332,
-      "num": 218079,
+      "num": 240470,
       "word": "微博视界大会",
       "onboard_time": 1760225477,
       "rank": 22,
@@ -513,6 +553,14 @@
       "onboard_time": 1760192421,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125849,
+      "num": 125849,
+      "word": "广州多个公交站惊现S型护栏",
+      "onboard_time": 1760240900,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125292,
@@ -595,12 +643,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112954,
+      "num": 112954,
+      "word": "被清华大学的食堂震惊到了",
+      "onboard_time": 1760242099,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 112142,
+      "num": 112142,
+      "word": "李昀锐笑与不笑差别真的很大",
+      "onboard_time": 1760242880,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111473,
       "num": 111473,
       "word": "也是有女演员闯进内娱小苦瓜赛道了",
       "onboard_time": 1760240659,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109544,
+      "num": 109544,
+      "word": "孙颖莎好适合穿亮色",
+      "onboard_time": 1760242339,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108918,
+      "num": 108918,
+      "word": "郭静下一个天亮等了十七年",
+      "onboard_time": 1760241438,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 108207,
@@ -624,6 +704,14 @@
       "word": "你觉得最有用的人生经验是什么",
       "onboard_time": 1760237719,
       "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 104607,
+      "num": 104607,
+      "word": "为什么领导喜欢让下属去沟通",
+      "onboard_time": 1760241260,
+      "rank": 42,
       "category": "情感"
     },
     {
@@ -683,6 +771,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94633,
+      "num": 94633,
+      "word": "放弃打卡式旅行真的好爽",
+      "onboard_time": 1760241438,
+      "rank": 44,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 93394,
+      "num": 93394,
+      "word": "所有人都看好你 偏偏你不争气",
+      "onboard_time": 1760241800,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 92251,
       "num": 117855,
       "word": "JDG战胜KSG",
@@ -705,6 +809,14 @@
       "onboard_time": 1760236880,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 91663,
+      "num": 93735,
+      "word": "孙颖莎展示中国功夫",
+      "onboard_time": 1760241800,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 91445,
@@ -753,6 +865,14 @@
       "onboard_time": 1760198420,
       "rank": 31,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 87362,
+      "num": 87362,
+      "word": "汪苏泷坚持音乐创作的15年",
+      "onboard_time": 1760243301,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 87071,
@@ -897,6 +1017,14 @@
       "onboard_time": 1760238860,
       "rank": 49,
       "category": "民生新闻,时尚"
+    },
+    {
+      "raw_hot": 75123,
+      "num": 239646,
+      "word": "解清帅与妻子相恋四年初遇经济拮据",
+      "onboard_time": 1760242461,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74510,
@@ -1115,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41872,
+      "num": 233052,
+      "word": "来自此沙的双11特别推荐",
+      "onboard_time": 1760241140,
+      "rank": 19,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 40049,
       "num": 40049,
       "word": "中国常驻联合国代表点名美国",
@@ -1211,7 +1347,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1470,
+      "raw_hot": 2362,
       "num": 496861,
       "word": "青春华章",
       "onboard_time": 1760172020,
