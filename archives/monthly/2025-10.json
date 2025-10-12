@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760258511542,
+  "endTime": 1760261003679,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1227,6 +1227,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 1030476,
+      "num": 1164876,
+      "word": "冰箱贴已经比冰箱贵了",
+      "onboard_time": 1760253620,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1028081,
       "num": 819215,
       "word": "蜜雪冰城门店 老鼠横行",
@@ -1297,6 +1305,14 @@
       "onboard_time": 1759475001,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1003877,
+      "num": 271153,
+      "word": "垫底辣孩自曝拿到了八大美院的合格证",
+      "onboard_time": 1760257221,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 1003394,
@@ -1585,14 +1601,6 @@
       "onboard_time": 1760099122,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 924556,
-      "num": 1147929,
-      "word": "冰箱贴已经比冰箱贵了",
-      "onboard_time": 1760253620,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 920371,
@@ -4379,6 +4387,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 506249,
+      "num": 506249,
+      "word": "雷军被8000元小刀价格惊呆了",
+      "onboard_time": 1760256439,
+      "rank": 4,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 505894,
       "num": 505894,
       "word": "第一批去韩国旅游的受害者出现了",
@@ -4729,14 +4745,6 @@
       "onboard_time": 1759980138,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 480311,
-      "num": 480311,
-      "word": "雷军被8000元小刀价格惊呆了",
-      "onboard_time": 1760256439,
-      "rank": 4,
-      "category": "互联网"
     },
     {
       "raw_hot": 480031,
@@ -6587,6 +6595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 364166,
+      "num": 364166,
+      "word": "高通公司承认了相关事实",
+      "onboard_time": 1760259681,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 364012,
       "num": 196603,
       "word": "男子灌面汤呛死妻子案家属最新发声",
@@ -6625,6 +6641,14 @@
       "onboard_time": 1759844123,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 360222,
+      "num": 243954,
+      "word": "这和Angelababy约会有什么区别",
+      "onboard_time": 1760256380,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 360112,
@@ -8203,6 +8227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 290523,
+      "num": 219774,
+      "word": "一笑随歌翻身仗",
+      "onboard_time": 1760256739,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 290364,
       "num": 222313,
       "word": "王菊怎么瘦成这样了",
@@ -8595,6 +8627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277037,
+      "num": 208760,
+      "word": "沈佳润事业运",
+      "onboard_time": 1760257760,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276880,
       "num": 224510,
       "word": "李庚希生图",
@@ -8745,14 +8785,6 @@
       "onboard_time": 1759515855,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 271153,
-      "num": 271153,
-      "word": "垫底辣孩自曝拿到了八大美院的合格证",
-      "onboard_time": 1760257221,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 270941,
@@ -9611,14 +9643,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 243954,
-      "num": 243954,
-      "word": "这和Angelababy约会有什么区别",
-      "onboard_time": 1760256380,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 243270,
       "num": 243270,
       "word": "恋与深空 夏以昼",
@@ -9769,6 +9793,14 @@
       "onboard_time": 1759540459,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 238454,
+      "num": 218234,
+      "word": "一胎过成了二胎的待遇",
+      "onboard_time": 1760254941,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 238379,
@@ -10033,6 +10065,14 @@
       "onboard_time": 1759981040,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231827,
+      "num": 231827,
+      "word": "特朗普扬言限制波音零部件对华出口",
+      "onboard_time": 1760257100,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 231661,
@@ -10475,14 +10515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 219774,
-      "num": 219774,
-      "word": "一笑随歌翻身仗",
-      "onboard_time": 1760256739,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 219759,
       "num": 219759,
       "word": "王嘉尔出席活动被陌生女子捏脸",
@@ -10521,14 +10553,6 @@
       "onboard_time": 1759750941,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218234,
-      "num": 218234,
-      "word": "一胎过成了二胎的待遇",
-      "onboard_time": 1760254941,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 217836,
@@ -10945,14 +10969,6 @@
       "onboard_time": 1759894040,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208760,
-      "num": 208760,
-      "word": "沈佳润事业运",
-      "onboard_time": 1760257760,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 208651,
@@ -11889,6 +11905,14 @@
       "onboard_time": 1760054600,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196413,
+      "num": 181812,
+      "word": "李一桐造型",
+      "onboard_time": 1760260099,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 196263,
@@ -13257,6 +13281,14 @@
       "onboard_time": 1759583182,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181760,
+      "num": 181760,
+      "word": "海鲜价格暴跌了",
+      "onboard_time": 1760260640,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181542,
@@ -15347,6 +15379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161945,
+      "num": 161945,
+      "word": "成都震感",
+      "onboard_time": 1760255179,
+      "rank": 24,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 161870,
       "num": 161870,
       "word": "孙子误吃过期月饼奶奶又给过期药",
@@ -15457,6 +15497,14 @@
       "onboard_time": 1760226978,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 160951,
+      "num": 160951,
+      "word": "孙红雷左手张艺兴右手刘宇宁",
+      "onboard_time": 1760259381,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 160684,
@@ -21555,14 +21603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122803,
-      "num": 122803,
-      "word": "特朗普扬言限制波音零部件对华出口",
-      "onboard_time": 1760257100,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 122724,
       "num": 122724,
       "word": "张艺兴美猴王造型",
@@ -23875,6 +23915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112576,
+      "num": 112576,
+      "word": "陆军海军联合训练上下登陆舰",
+      "onboard_time": 1760259620,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 112540,
       "num": 112540,
       "word": "彭昱畅闫妮 微醺的妈妈和我",
@@ -23953,6 +24001,14 @@
       "onboard_time": 1760177840,
       "rank": 35,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 112328,
+      "num": 112328,
+      "word": "痴情的长公主请再等一世吧",
+      "onboard_time": 1760258240,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 112238,
@@ -24401,6 +24457,14 @@
       "onboard_time": 1759824621,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 110988,
+      "num": 110988,
+      "word": "老板回应员工挪桌打碎百万玉镯",
+      "onboard_time": 1760260520,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110976,
@@ -26139,14 +26203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105777,
-      "num": 105777,
-      "word": "痴情的长公主请再等一世吧",
-      "onboard_time": 1760258240,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105772,
       "num": 105772,
       "word": "Wolves对战DOU5",
@@ -27483,14 +27539,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 101064,
-      "num": 141036,
-      "word": "成都震感",
-      "onboard_time": 1760255179,
-      "rank": 24,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 101051,
       "num": 94039,
       "word": "普通女生苦练化妆技术的下场",
@@ -28721,6 +28769,14 @@
       "onboard_time": 1759577180,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96210,
+      "num": 97101,
+      "word": "白鹿来了也不好使",
+      "onboard_time": 1760257700,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 96201,
@@ -31027,6 +31083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 87943,
+      "num": 87943,
+      "word": "广东人在等一个有实力的冷空气",
+      "onboard_time": 1760259439,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87897,
       "num": 87897,
       "word": "每个月最愤怒的两笔花销",
@@ -31432,14 +31496,6 @@
       "word": "马柏全兰西雅看秀现场",
       "onboard_time": 1759573400,
       "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 86547,
-      "num": 97101,
-      "word": "白鹿来了也不好使",
-      "onboard_time": 1760257700,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -32891,6 +32947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80021,
+      "num": 80021,
+      "word": "南方的冷空气快到货了",
+      "onboard_time": 1760259982,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79985,
       "num": 111424,
       "word": "男子高速下车摘马蜂窝吃",
@@ -33233,6 +33297,14 @@
       "onboard_time": 1760099422,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78174,
+      "num": 78174,
+      "word": "S15非遗主题出征照",
+      "onboard_time": 1760259201,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 78102,
@@ -33729,6 +33801,14 @@
       "onboard_time": 1759392261,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74690,
+      "num": 73195,
+      "word": "北京的秋天",
+      "onboard_time": 1760260460,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 74588,
@@ -37593,6 +37673,14 @@
       "onboard_time": 1759856958,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 31992,
+      "num": 524780,
+      "word": "中国天眼已发现1152颗脉冲星",
+      "onboard_time": 1760242461,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31913,
