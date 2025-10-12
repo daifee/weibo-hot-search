@@ -1,6 +1,6 @@
 {
   "startTime": 1760286516759,
-  "endTime": 1760294679111,
+  "endTime": 1760296765622,
   "band_list": [
     {
       "raw_hot": 672384,
@@ -411,6 +411,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 47947,
+      "num": 47947,
+      "word": "阿富汗巴基斯坦冲突子弹来回穿梭",
+      "onboard_time": 1760290756,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47434,
       "num": 60349,
       "word": "蒙曼在长江上合唱长江之歌",
@@ -425,14 +433,6 @@
       "onboard_time": 1760289676,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 36469,
-      "num": 41737,
-      "word": "阿富汗巴基斯坦冲突子弹来回穿梭",
-      "onboard_time": 1760290756,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 36191,
@@ -481,6 +481,14 @@
       "onboard_time": 1760257221,
       "rank": 44,
       "category": "网红"
+    },
+    {
+      "raw_hot": 13182,
+      "num": 19978,
+      "word": "海绵宝宝派大星美国街头抗议",
+      "onboard_time": 1760295434,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 4186,

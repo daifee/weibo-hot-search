@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760294679111,
+  "endTime": 1760296765622,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -3211,6 +3211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47947,
+      "num": 47947,
+      "word": "阿富汗巴基斯坦冲突子弹来回穿梭",
+      "onboard_time": 1760290756,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 47645,
       "num": 109291,
       "word": "特朗普被孙女问有什么梦想",
@@ -3337,14 +3345,6 @@
       "onboard_time": 1760289676,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 36469,
-      "num": 41737,
-      "word": "阿富汗巴基斯坦冲突子弹来回穿梭",
-      "onboard_time": 1760290756,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 36099,
@@ -3505,6 +3505,14 @@
       "onboard_time": 1760243361,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 13182,
+      "num": 19978,
+      "word": "海绵宝宝派大星美国街头抗议",
+      "onboard_time": 1760295434,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12404,
