@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/12 00:27:55 ~ 2025/10/12 09:54:12
+本榜单时间：2025/10/12 00:27:55 ~ 2025/10/12 10:15:32
 </p>
 </blockquote>
 <p>
@@ -23,6 +23,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%94%B3%E8%AF%B7%E9%99%90%E6%B6%88%E9%82%93%E6%B0%8F%E9%98%BF%E5%AC%B7%E6%89%8B%E4%BD%9C%23" target="weibo">
 迪丽热巴申请限消邓氏阿嬷手作（热度：912924）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E7%A7%91%E8%91%A3%E4%BA%8B%E9%95%BF%E8%BE%9B%E6%9D%B0%E5%B7%B2%E5%A4%B1%E8%81%94%23" target="weibo">
+万科董事长辛杰已失联（热度：742123）
 </a>
 </li>
 
@@ -147,6 +153,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E6%BA%AA%E5%9B%9E%E5%BA%9441%E5%B2%81%E7%94%9F%E4%BA%8C%E8%83%8E%23" target="weibo">
+齐溪回应41岁生二胎（热度：259186）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%83%E9%9D%A2vs%E9%95%BF%E6%9C%9F%E5%90%83%E7%B1%B3%23" target="weibo">
 长期吃面vs长期吃米（热度：257619）
 </a>
@@ -155,6 +167,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E7%AB%A0%E8%80%81%E4%BA%86%E5%A5%BD%E5%A4%9A%23" target="weibo">
 文章老了好多（热度：250139）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%A4%A7%E9%9B%A8%E7%BB%A7%E7%BB%AD%E8%B6%85%E9%95%BF%E5%BE%85%E6%9C%BA%23" target="weibo">
+多地大雨继续超长待机（热度：247679）
 </a>
 </li>
 
@@ -183,8 +201,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E6%BA%AA%E5%9B%9E%E5%BA%9441%E5%B2%81%E7%94%9F%E4%BA%8C%E8%83%8E%23" target="weibo">
-齐溪回应41岁生二胎（热度：185386）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4ins%E7%82%B9%E8%B5%9E%E8%BD%AC%E5%8F%91%E7%A0%B4%E7%99%BE%E4%B8%87%23" target="weibo">
+迪丽热巴ins点赞转发破百万（热度：175257）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%A3%80%E6%8A%A5%E5%91%8A%E8%BF%99%E4%BA%9B%E6%8C%87%E6%A0%87%E5%8F%AF%E8%83%BD%E6%98%AF%E5%8A%A0%E5%88%86%E9%A1%B9%23" target="weibo">
+体检报告这些指标可能是加分项（热度：174270）
 </a>
 </li>
 
@@ -219,8 +243,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4ins%E7%82%B9%E8%B5%9E%E8%BD%AC%E5%8F%91%E7%A0%B4%E7%99%BE%E4%B8%87%23" target="weibo">
-迪丽热巴ins点赞转发破百万（热度：155912）
+<a href="https://s.weibo.com/weibo?q=%232025%E8%BF%98%E5%89%A980%E5%A4%A9%23" target="weibo">
+2025还剩80天（热度：155386）
 </a>
 </li>
 
@@ -233,18 +257,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%81%E5%90%89%E5%8F%91%E6%96%87%E6%9C%89%E7%97%85%E5%8E%BB%E5%8C%BB%E9%99%A2%E6%9C%89%E4%BA%8B%E6%89%BE%E6%B3%95%E9%99%A2%23" target="weibo">
 王老吉发文有病去医院有事找法院（热度：148349）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E7%A7%91%E8%91%A3%E4%BA%8B%E9%95%BF%E8%BE%9B%E6%9D%B0%E5%B7%B2%E5%A4%B1%E8%81%94%23" target="weibo">
-万科董事长辛杰已失联（热度：146900）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E5%A4%A7%E9%9B%A8%E7%BB%A7%E7%BB%AD%E8%B6%85%E9%95%BF%E5%BE%85%E6%9C%BA%23" target="weibo">
-多地大雨继续超长待机（热度：140891）
 </a>
 </li>
 
@@ -291,8 +303,26 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E4%BA%B2%E5%AD%90%E5%85%B3%E7%B3%BB%E6%A6%82%E7%8E%870.01%25%23" target="weibo">
+许我耀眼亲子关系概率0.01%（热度：105206）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%97%95%E6%B1%A4%E8%A1%A5%E6%B0%94%E8%A1%80%E8%BF%98%E4%B8%8D%E4%B8%8A%E7%81%AB%23" target="weibo">
 莲藕汤补气血还不上火（热度：101593）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%23" target="weibo">
+微博视界大会（热度：101068）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%B4%E5%A4%A7%E8%B7%8C%23" target="weibo">
+外围大跌（热度：100358）
 </a>
 </li>
 
@@ -345,6 +375,12 @@ JDG战胜KSG（热度：92251）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%9B%E5%AE%89%E5%9F%BA%E9%A1%BF%E5%8E%BB%E4%B8%96%23" target="weibo">
+黛安基顿去世（热度：89139）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23VOGUE%E7%9B%9B%E5%85%B852%E4%BD%8D%E5%98%89%E5%AE%BE%23" target="weibo">
 VOGUE盛典52位嘉宾（热度：87535）
 </a>
@@ -359,12 +395,6 @@ VOGUE盛典52位嘉宾（热度：87535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%B5%9A%E9%93%AD%E6%8B%9C%E5%B8%88%E5%85%842.0%23" target="weibo">
 陈浚铭拜师兄2.0（热度：85057）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%23" target="weibo">
-微博视界大会（热度：84416）
 </a>
 </li>
 
@@ -399,6 +429,12 @@ VOGUE盛典52位嘉宾（热度：87535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%20%E5%AD%9F%E5%AE%B4%E8%87%A3%23" target="weibo">
+魏大勋 孟宴臣（热度：79460）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%81%E7%89%99%E7%AC%AC%E4%B8%80%E5%90%8D%E7%AB%9F%E7%84%B6%E4%B8%8D%E6%98%AF%E5%8F%AF%E4%B9%90%23" target="weibo">
 毁牙第一名竟然不是可乐（热度：79419）
 </a>
@@ -423,14 +459,20 @@ VOGUE盛典52位嘉宾（热度：87535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%8C%AB%E6%80%8E%E4%B9%88%E4%B8%80%E4%BA%B2%E5%B0%B1%E5%93%8D%E4%B8%8D%E5%81%9C%23" target="weibo">
+这猫怎么一亲就响不停（热度：77101）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8E%A5%E5%8F%97%E7%99%8C%E7%97%87%E6%94%BE%E5%B0%84%E6%B2%BB%E7%96%97%23" target="weibo">
 拜登接受癌症放射治疗（热度：76982）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%20%E5%AD%9F%E5%AE%B4%E8%87%A3%23" target="weibo">
-魏大勋 孟宴臣（热度：75226）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%9A%84%E9%81%93%E6%AD%89%E6%96%B9%E5%BC%8F%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
+原来小说里的道歉方式都是真的（热度：75917）
 </a>
 </li>
 
@@ -447,14 +489,20 @@ Fly腱鞘炎（热度：71228）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E4%BA%B2%E5%AD%90%E5%85%B3%E7%B3%BB%E6%A6%82%E7%8E%870.01%25%23" target="weibo">
-许我耀眼亲子关系概率0.01%（热度：69886）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E4%BA%B2%E4%BA%86%E8%96%9B%E4%B9%8B%E8%B0%A6%23" target="weibo">
+岳云鹏亲了薛之谦（热度：69797）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B2%B3%E4%BA%91%E9%B9%8F%E4%BA%B2%E4%BA%86%E8%96%9B%E4%B9%8B%E8%B0%A6%23" target="weibo">
-岳云鹏亲了薛之谦（热度：69797）
+<a href="https://s.weibo.com/weibo?q=%23%E6%8C%AA%E5%A8%815%E6%AF%940%E4%BB%A5%E8%89%B2%E5%88%97%23" target="weibo">
+挪威5比0以色列（热度：69563）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%88%92%E6%B7%87%E5%B0%B9%E6%B5%A9%E5%AE%87%20%E5%A7%90%E7%8B%97%23" target="weibo">
+舒淇尹浩宇 姐狗（热度：68977）
 </a>
 </li>
 
@@ -473,12 +521,6 @@ Fly腱鞘炎（热度：71228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E4%B9%9F%E6%B2%A1%E4%B9%B0%E5%88%B0labubu%23" target="weibo">
 贝克汉姆也没买到labubu（热度：68297）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8C%AA%E5%A8%815%E6%AF%940%E4%BB%A5%E8%89%B2%E5%88%97%23" target="weibo">
-挪威5比0以色列（热度：67756）
 </a>
 </li>
 
@@ -515,12 +557,6 @@ Fly腱鞘炎（热度：71228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%94%A6%E8%B5%9B%23" target="weibo">
 亚锦赛（热度：59612）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%9B%E5%AE%89%E5%9F%BA%E9%A1%BF%E5%8E%BB%E4%B8%96%23" target="weibo">
-黛安基顿去世（热度：58731）
 </a>
 </li>
 

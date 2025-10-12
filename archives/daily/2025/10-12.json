@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760234052655,
+  "endTime": 1760235332721,
   "band_list": [
     {
       "raw_hot": 1431138,
@@ -12,15 +12,23 @@
     },
     {
       "raw_hot": 912924,
-      "num": 149396,
+      "num": 149774,
       "word": "迪丽热巴申请限消邓氏阿嬷手作",
       "onboard_time": 1760195961,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 742123,
+      "num": 154078,
+      "word": "万科董事长辛杰已失联",
+      "onboard_time": 1760233819,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 674573,
-      "num": 150072,
+      "num": 151405,
       "word": "马思纯 自然得像没搞一样",
       "onboard_time": 1760230460,
       "rank": 10,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 611380,
-      "num": 140105,
+      "num": 140660,
       "word": "关晓彤果然是被造型师陷害的",
       "onboard_time": 1760197282,
       "rank": 13,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 471484,
-      "num": 141331,
+      "num": 144070,
       "word": "摩托车死亡摇摆车主撞花坛当场身亡",
       "onboard_time": 1760230880,
       "rank": 13,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 467928,
-      "num": 140891,
+      "num": 146361,
       "word": "美国下架数百万件中国电子产品",
       "onboard_time": 1760231480,
       "rank": 15,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 449347,
-      "num": 140502,
+      "num": 417320,
       "word": "厦门公安接到台湾民众举报",
       "onboard_time": 1760231480,
       "rank": 16,
@@ -179,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259186,
+      "num": 139883,
+      "word": "齐溪回应41岁生二胎",
+      "onboard_time": 1760231660,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257619,
       "num": 257619,
       "word": "长期吃面vs长期吃米",
@@ -193,6 +209,14 @@
       "onboard_time": 1760178981,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247679,
+      "num": 247679,
+      "word": "多地大雨继续超长待机",
+      "onboard_time": 1760229919,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233315,
@@ -227,12 +251,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 185386,
-      "num": 139883,
-      "word": "齐溪回应41岁生二胎",
-      "onboard_time": 1760231660,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 175257,
+      "num": 133220,
+      "word": "迪丽热巴ins点赞转发破百万",
+      "onboard_time": 1760230821,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174270,
+      "num": 109258,
+      "word": "体检报告这些指标可能是加分项",
+      "onboard_time": 1760234660,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 172497,
@@ -275,12 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155912,
-      "num": 133220,
-      "word": "迪丽热巴ins点赞转发破百万",
-      "onboard_time": 1760230821,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 155386,
+      "num": 155386,
+      "word": "2025还剩80天",
+      "onboard_time": 1760235261,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152478,
@@ -296,22 +328,6 @@
       "word": "王老吉发文有病去医院有事找法院",
       "onboard_time": 1760180422,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146900,
-      "num": 98535,
-      "word": "万科董事长辛杰已失联",
-      "onboard_time": 1760233819,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140891,
-      "num": 140891,
-      "word": "多地大雨继续超长待机",
-      "onboard_time": 1760229919,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -371,12 +387,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105206,
+      "num": 105206,
+      "word": "许我耀眼亲子关系概率0.01%",
+      "onboard_time": 1760233580,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101593,
       "num": 101593,
       "word": "莲藕汤补气血还不上火",
       "onboard_time": 1760227758,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 101068,
+      "num": 101068,
+      "word": "微博视界大会",
+      "onboard_time": 1760225477,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100358,
+      "num": 100358,
+      "word": "外围大跌",
+      "onboard_time": 1760234479,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 98944,
@@ -443,6 +483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89139,
+      "num": 89139,
+      "word": "黛安基顿去世",
+      "onboard_time": 1760233999,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87535,
       "num": 87535,
       "word": "VOGUE盛典52位嘉宾",
@@ -465,14 +513,6 @@
       "onboard_time": 1760198241,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 84416,
-      "num": 84416,
-      "word": "微博视界大会",
-      "onboard_time": 1760225477,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 83315,
@@ -515,6 +555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79460,
+      "num": 79460,
+      "word": "魏大勋 孟宴臣",
+      "onboard_time": 1760192302,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79419,
       "num": 79419,
       "word": "毁牙第一名竟然不是可乐",
@@ -547,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77101,
+      "num": 77101,
+      "word": "这猫怎么一亲就响不停",
+      "onboard_time": 1760234600,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76982,
       "num": 76982,
       "word": "拜登接受癌症放射治疗",
@@ -555,12 +611,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 75226,
-      "num": 75226,
-      "word": "魏大勋 孟宴臣",
-      "onboard_time": 1760192302,
+      "raw_hot": 75917,
+      "num": 75917,
+      "word": "原来小说里的道歉方式都是真的",
+      "onboard_time": 1760235020,
       "rank": 39,
-      "category": "剧集"
+      "category": "幽默"
     },
     {
       "raw_hot": 74217,
@@ -579,20 +635,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 69886,
-      "num": 69886,
-      "word": "许我耀眼亲子关系概率0.01%",
-      "onboard_time": 1760233580,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 69797,
       "num": 69797,
       "word": "岳云鹏亲了薛之谦",
       "onboard_time": 1760232620,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 69563,
+      "num": 69563,
+      "word": "挪威5比0以色列",
+      "onboard_time": 1760233400,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68977,
+      "num": 68977,
+      "word": "舒淇尹浩宇 姐狗",
+      "onboard_time": 1760235320,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 68922,
@@ -617,14 +681,6 @@
       "onboard_time": 1760199021,
       "rank": 39,
       "category": "体育,休闲"
-    },
-    {
-      "raw_hot": 67756,
-      "num": 67756,
-      "word": "挪威5比0以色列",
-      "onboard_time": 1760233400,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 67149,
@@ -673,14 +729,6 @@
       "onboard_time": 1760183180,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58731,
-      "num": 58731,
-      "word": "黛安基顿去世",
-      "onboard_time": 1760233999,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 57895,
