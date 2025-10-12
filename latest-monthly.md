@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 23:36:42
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 00:28:36
 </p>
 </blockquote>
 <p>
@@ -2927,6 +2927,12 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%B0%BA%E5%BA%A6%E8%BF%99%E4%B9%88%E5%A4%A7%E7%9A%84%E5%89%A7%E5%AE%A3%23" target="weibo">
 第一次见尺度这么大的剧宣（热度：557175）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E4%B9%B0%E8%82%89%E4%BB%B7%E4%BD%8E%E7%96%91%E5%A6%BB%E5%87%BA%E8%BD%A8%E5%B0%86%E5%85%B6%E6%8D%85%E4%BC%A4%E8%8E%B7%E5%88%91%23" target="weibo">
+男子因买肉价低疑妻出轨将其捅伤获刑（热度：557053）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ offer7播一半淘汰了三个人（热度：311785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%BE%B7%E9%95%87%E6%96%87%E6%97%85%E8%AF%81%E5%AE%9E%E9%B8%A1%E6%8E%92%E5%93%A5%E8%AE%A1%E5%88%928%E6%97%A5%E4%BC%91%E6%81%AF%23" target="weibo">
 景德镇文旅证实鸡排哥计划8日休息（热度：308248）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%93%81%E5%88%97%E8%BD%A6%E8%87%AA%E5%B7%B1%E6%B4%97%E6%BE%A1%E7%9D%A1%E8%A7%89%23" target="weibo">
-深圳地铁列车自己洗澡睡觉（热度：308011）
 </a>
 </li>
 

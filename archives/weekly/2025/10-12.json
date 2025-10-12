@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760283402623,
+  "endTime": 1760286516759,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -296,6 +296,14 @@
       "word": "海鲜价格暴跌了",
       "onboard_time": 1760260640,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 557053,
+      "num": 557053,
+      "word": "男子因买肉价低疑妻出轨将其捅伤获刑",
+      "onboard_time": 1760282721,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -739,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271599,
+      "num": 271599,
+      "word": "央视曝光AI代写论文黑工厂",
+      "onboard_time": 1760283740,
+      "rank": 4,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 267805,
       "num": 248997,
       "word": "张晚意李沁还好生在和平年代",
@@ -971,6 +987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193486,
+      "num": 193486,
+      "word": "白桃星座",
+      "onboard_time": 1760284281,
+      "rank": 5,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191592,
       "num": 139798,
       "word": "华裔女星疑遭同组演员性侵",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1760225477,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169338,
+      "num": 169338,
+      "word": "放假8天7天半掰玉米大学生回应质疑",
+      "onboard_time": 1760279902,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166999,
@@ -1248,14 +1280,6 @@
       "word": "5人冒充院士钟世镇学生与其合影",
       "onboard_time": 1760227579,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152366,
-      "num": 152366,
-      "word": "放假8天7天半掰玉米大学生回应质疑",
-      "onboard_time": 1760279902,
-      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -1859,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110977,
+      "num": 110977,
+      "word": "白鹿三部剧入围",
+      "onboard_time": 1760283980,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109863,
       "num": 109863,
       "word": "郭静下一个天亮等了十七年",
@@ -1977,14 +2009,6 @@
       "onboard_time": 1760237719,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 104615,
-      "num": 104615,
-      "word": "男子因买肉价低疑妻出轨将其捅伤获刑",
-      "onboard_time": 1760282721,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104607,
@@ -2161,6 +2185,14 @@
       "onboard_time": 1760240719,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 95390,
+      "num": 95390,
+      "word": "何晟铭担心带女儿出来被说是女朋友",
+      "onboard_time": 1760283440,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 95007,
@@ -2907,6 +2939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69206,
+      "num": 88827,
+      "word": "青年演员刘昊然青春华章说角色",
+      "onboard_time": 1760283740,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68492,
       "num": 681648,
       "word": "悬赏征集台军18人犯罪线索",
@@ -2921,6 +2961,14 @@
       "onboard_time": 1760282541,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68370,
+      "num": 88754,
+      "word": "刘昊然亮相河海大学",
+      "onboard_time": 1760284159,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 68297,
@@ -2979,6 +3027,22 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 63394,
+      "num": 88796,
+      "word": "徐明浩炸毛",
+      "onboard_time": 1760283500,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 63378,
+      "num": 88795,
+      "word": "陈泽下播",
+      "onboard_time": 1760286259,
+      "rank": 37,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 63078,
       "num": 87620,
       "word": "蒙曼在长江上合唱长江之歌",
@@ -2993,6 +3057,14 @@
       "onboard_time": 1760199800,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59947,
+      "num": 88689,
+      "word": "球迷高喊换曾凡博",
+      "onboard_time": 1760284400,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 59700,
@@ -3049,6 +3121,22 @@
       "onboard_time": 1760246781,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 55558,
+      "num": 88660,
+      "word": "李沁陈哲远亲密戏",
+      "onboard_time": 1760285958,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 54988,
+      "num": 88643,
+      "word": "苏晓彤家里有一柜子辣条",
+      "onboard_time": 1760284639,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 53638,
@@ -3313,6 +3401,14 @@
       "onboard_time": 1760276421,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23976,
+      "num": 88754,
+      "word": "院士合影成生意有商家报价3万起步",
+      "onboard_time": 1760285479,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21607,
