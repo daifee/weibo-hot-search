@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760296765622,
+  "endTime": 1760297808662,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -3521,6 +3521,14 @@
       "onboard_time": 1760205436,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11926,
+      "num": 18677,
+      "word": "多位明星都曾就读北大光华EMBA",
+      "onboard_time": 1760297774,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 9067,

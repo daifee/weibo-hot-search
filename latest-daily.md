@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/13 00:28:36 ~ 2025/10/13 03:19:25
+本榜单时间：2025/10/13 00:28:36 ~ 2025/10/13 03:36:48
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,12 @@ Angelababy跳刀马刀马了（热度：190248）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%BE%8E%E5%9B%BD%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%23" target="weibo">
 海绵宝宝派大星美国街头抗议（热度：13182）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F%E9%83%BD%E6%9B%BE%E5%B0%B1%E8%AF%BB%E5%8C%97%E5%A4%A7%E5%85%89%E5%8D%8EEMBA%23" target="weibo">
+多位明星都曾就读北大光华EMBA（热度：11926）
 </a>
 </li>
 
