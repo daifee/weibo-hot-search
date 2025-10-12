@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/12 00:27:55 ~ 2025/10/13 07:22:34
+本榜单时间：2025/10/12 00:27:55 ~ 2025/10/13 07:36:36
 </p>
 </blockquote>
 <p>
@@ -219,6 +219,12 @@ CCTV认证断层第一的电视剧（热度：691065）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F%E9%83%BD%E6%9B%BE%E5%B0%B1%E8%AF%BB%E5%8C%97%E5%A4%A7%E5%85%89%E5%8D%8EEMBA%23" target="weibo">
+多位明星都曾就读北大光华EMBA（热度：610409）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E9%98%BF%E5%9D%9D%E5%B7%9E%E5%9C%B0%E9%9C%87%23" target="weibo">
 四川阿坝州地震（热度：597001）
 </a>
@@ -293,12 +299,6 @@ CCTV认证断层第一的电视剧（热度：691065）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%AF%86%E7%A0%B4%E9%97%B4%E8%B0%8D%E5%A5%97%E8%B7%AF%E5%B9%B6%E4%B8%BE%E6%8A%A5%E8%8E%B7%E8%A1%A8%E5%BD%B0%23" target="weibo">
 大学生识破间谍套路并举报获表彰（热度：520628）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F%E9%83%BD%E6%9B%BE%E5%B0%B1%E8%AF%BB%E5%8C%97%E5%A4%A7%E5%85%89%E5%8D%8EEMBA%23" target="weibo">
-多位明星都曾就读北大光华EMBA（热度：519032）
 </a>
 </li>
 
@@ -585,6 +585,12 @@ Angelababy跳刀马刀马了（热度：440859）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E7%97%85%E6%AF%92%E6%BF%80%E6%B4%BB%E7%9A%84%E4%B8%89%E5%A4%A7%E4%BF%A1%E5%8F%B7%23" target="weibo">
+带状疱疹病毒激活的三大信号（热度：271798）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E6%9D%8E%E6%B2%81%E8%BF%98%E5%A5%BD%E7%94%9F%E5%9C%A8%E5%92%8C%E5%B9%B3%E5%B9%B4%E4%BB%A3%23" target="weibo">
 张晚意李沁还好生在和平年代（热度：267805）
 </a>
@@ -599,6 +605,12 @@ Angelababy跳刀马刀马了（热度：440859）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E6%8B%89%E6%A1%8C%E5%AD%90%E7%A2%B0%E7%A2%8E%E8%BF%9150%E4%B8%AA%E5%92%8C%E7%94%B0%E7%8E%89%E9%95%AF%23" target="weibo">
 员工拉桌子碰碎近50个和田玉镯（热度：263096）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%94%BE%E5%81%878%E5%A4%A97%E5%A4%A9%E5%8D%8A%E6%8E%B0%E7%8E%89%E7%B1%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%23" target="weibo">
+放假8天7天半掰玉米大学生回应质疑（热度：263010）
 </a>
 </li>
 
@@ -689,12 +701,6 @@ Angelababy跳刀马刀马了（热度：440859）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%A1%83%E6%98%9F%E5%BA%A7%23" target="weibo">
 白桃星座（热度：220000）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%94%BE%E5%81%878%E5%A4%A97%E5%A4%A9%E5%8D%8A%E6%8E%B0%E7%8E%89%E7%B1%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%23" target="weibo">
-放假8天7天半掰玉米大学生回应质疑（热度：219851）
 </a>
 </li>
 
@@ -1143,6 +1149,12 @@ MANTAminini联动（热度：134154）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E8%AF%B4%E7%88%B8%E7%88%B8%E5%A6%88%E5%A6%88%E6%8A%B1%E5%9B%A2%E5%BE%88%E4%B8%A5%E9%87%8D%23" target="weibo">
+沈佳润说爸爸妈妈抱团很严重（热度：133513）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%B1%E8%B4%BB%E5%8F%AF%E6%91%B8%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%8F%E8%84%91%E8%A2%8B%23" target="weibo">
 邱贻可摸孙颖莎小脑袋（热度：130950）
 </a>
@@ -1437,6 +1449,12 @@ S15世界赛Top20（热度：120718）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E7%89%B9%E5%B8%81%E5%8F%88%E8%B7%B3%E6%B0%B4%23" target="weibo">
+比特币又跳水（热度：111451）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23LPL%E4%BC%97%E4%BA%BA%E5%90%88%E5%94%B1%E5%87%BA%E5%BE%81%E6%9B%B2%23" target="weibo">
 LPL众人合唱出征曲（热度：111351）
 </a>
@@ -1677,6 +1695,12 @@ LPL众人合唱出征曲（热度：111351）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E6%9F%90%E6%9D%A5%E4%BA%A4%E4%BD%9C%E4%B8%9A%23" target="weibo">
+李昀锐某来交作业（热度：95249）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%92%8C%E5%8D%B0%E5%BA%A6%E7%90%83%E8%BF%B7%E5%90%88%E5%BD%B1%E7%AD%BE%E5%90%8D%23" target="weibo">
 王楚钦和印度球迷合影签名（热度：95007）
 </a>
@@ -1827,6 +1851,12 @@ JDG战胜KSG（热度：92251）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%E9%A2%84%E6%B5%8BT1%E5%AF%B9%E6%88%98iG%E6%AF%94%E5%88%86%23" target="weibo">
+管泽元预测T1对战iG比分（热度：89056）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E7%9A%84%E5%86%B7%E7%A9%BA%E6%B0%94%E5%BF%AB%E5%88%B0%E8%B4%A7%E4%BA%86%23" target="weibo">
 南方的冷空气快到货了（热度：88961）
 </a>
@@ -1859,6 +1889,12 @@ JDG战胜KSG（热度：92251）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%90%88%E8%82%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BA%A7%E4%BD%8D%E5%9B%BE%E5%A5%BD%E5%9C%86%23" target="weibo">
 周深合肥演唱会座位图好圆（热度：87865）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E6%9B%B4%E6%96%B0%23" target="weibo">
+黑神话悟空更新（热度：87733）
 </a>
 </li>
 
@@ -1907,6 +1943,12 @@ VOGUE盛典52位嘉宾（热度：87535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%85%A5%E5%87%A0%E4%B8%87%E6%89%8D%E8%B7%91%E5%BE%97%E8%B5%B7%E9%A9%AC%E6%8B%89%E6%9D%BE%23" target="weibo">
 月入几万才跑得起马拉松（热度：86398）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E6%81%A9%E9%9C%87%E6%83%8A%E6%9E%9C%E6%9E%9C%E4%B8%8D%E6%98%AF%E4%BA%95%E8%BF%AA%E7%9A%84%E5%AD%A9%E5%AD%90%23" target="weibo">
+余承恩震惊果果不是井迪的孩子（热度：86045）
 </a>
 </li>
 
@@ -2015,12 +2057,6 @@ NBA中国赛2025（热度：84882）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%A4%A7%E7%9C%BC%E9%9F%B3%E4%B9%90%E8%8A%82%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
 微博大眼音乐节阵容官宣（热度：82332）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E8%AF%B4%E7%88%B8%E7%88%B8%E5%A6%88%E5%A6%88%E6%8A%B1%E5%9B%A2%E5%BE%88%E4%B8%A5%E9%87%8D%23" target="weibo">
-沈佳润说爸爸妈妈抱团很严重（热度：81921）
 </a>
 </li>
 
@@ -2205,12 +2241,6 @@ S15非遗主题出征照（热度：78174）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E7%89%B9%E5%B8%81%E5%8F%88%E8%B7%B3%E6%B0%B4%23" target="weibo">
-比特币又跳水（热度：73264）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%E5%88%A0%E5%87%8F%E7%89%87%E6%AE%B5%E5%83%8F%E7%BA%BF%E9%9D%A2%E4%B8%80%E6%A0%B7%E7%B9%81%E6%AE%96%23" target="weibo">
 震耳欲聋删减片段像线面一样繁殖（热度：73217）
 </a>
@@ -2225,12 +2255,6 @@ S15非遗主题出征照（热度：78174）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%BD%E7%91%9E%E5%8F%98%E5%A3%B0%E4%B9%8B%E8%B7%AF%23" target="weibo">
 张函瑞变声之路（热度：71613）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E7%97%85%E6%AF%92%E6%BF%80%E6%B4%BB%E7%9A%84%E4%B8%89%E5%A4%A7%E4%BF%A1%E5%8F%B7%23" target="weibo">
-带状疱疹病毒激活的三大信号（热度：71407）
 </a>
 </li>
 
@@ -2313,6 +2337,12 @@ Fly腱鞘炎（热度：71228）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8E%E7%99%BE%E8%8D%89%E5%9B%AD%E5%88%B0%E4%B8%89%E5%91%B3%E4%B9%A6%E5%B1%8B%E5%88%B0%E5%BA%95%E5%A4%9A%E8%BF%9C%23" target="weibo">
+从百草园到三味书屋到底多远（热度：65550）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E7%A3%8Aqko%E8%88%9E%E5%8F%B0%E4%B8%8A%E4%BA%B2%E4%BA%86%23" target="weibo">
 赵磊qko舞台上亲了（热度：65535）
 </a>
@@ -2327,12 +2357,6 @@ Fly腱鞘炎（热度：71228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E7%BC%98%E8%AE%A1%E5%88%92%23" target="weibo">
 音乐缘计划（热度：65088）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%E9%A2%84%E6%B5%8BT1%E5%AF%B9%E6%88%98iG%E6%AF%94%E5%88%86%23" target="weibo">
-管泽元预测T1对战iG比分（热度：64702）
 </a>
 </li>
 
@@ -2363,12 +2387,6 @@ Fly腱鞘炎（热度：71228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E6%99%93%E5%BD%A4%E5%AE%B6%E9%87%8C%E6%9C%89%E4%B8%80%E6%9F%9C%E5%AD%90%E8%BE%A3%E6%9D%A1%23" target="weibo">
 苏晓彤家里有一柜子辣条（热度：63016）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%A5%9E%E8%AF%9D%E6%82%9F%E7%A9%BA%E6%9B%B4%E6%96%B0%23" target="weibo">
-黑神话悟空更新（热度：61492）
 </a>
 </li>
 
@@ -2427,6 +2445,18 @@ Fly腱鞘炎（热度：71228）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%B8%BB%E5%8E%A8%E7%AB%9E%E4%BA%89%E9%A3%9F%E6%9D%90%E6%8A%A2%E5%A4%BA%23" target="weibo">
+时代少年团主厨竞争食材抢夺（热度：55221）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E4%BC%9A%E6%9C%89%E4%BA%BA%E4%B8%80%E6%8D%A1%E7%8C%AB%E5%B0%B1%E6%8D%A1%E5%88%B0%E4%BA%86%E9%95%BF%E6%AF%9B%E5%B0%8F%E6%A9%98%23" target="weibo">
+怎么会有人一捡猫就捡到了长毛小橘（热度：54960）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E8%82%A2%E7%98%AB%E7%97%AA%E6%8A%95%E6%B2%B3%E7%94%B7%E5%AD%90%E6%AD%BB%E5%89%8D%E6%9B%BE%E7%BB%99%E5%A6%B9%E5%A6%B9%E8%BD%AC%E8%B4%A6%23" target="weibo">
 下肢瘫痪投河男子死前曾给妹妹转账（热度：53638）
 </a>
@@ -2457,8 +2487,8 @@ Fly腱鞘炎（热度：71228）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E6%81%A9%E9%9C%87%E6%83%8A%E6%9E%9C%E6%9E%9C%E4%B8%8D%E6%98%AF%E4%BA%95%E8%BF%AA%E7%9A%84%E5%AD%A9%E5%AD%90%23" target="weibo">
-余承恩震惊果果不是井迪的孩子（热度：50501）
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E4%BB%8E%E6%B5%99%E6%B1%9F%E5%86%9C%E6%9D%91%E5%8E%BB%E8%B4%B5%E5%B7%9E%E5%8E%BF%E5%9F%8E%E4%B8%8A%E5%AD%A6%23" target="weibo">
+第一次见从浙江农村去贵州县城上学（热度：50520）
 </a>
 </li>
 
@@ -2489,6 +2519,12 @@ Fly腱鞘炎（热度：71228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E8%B6%B3%E7%96%97%E5%BA%97%E6%B6%88%E8%B4%B9139%E5%85%83%E8%B7%B3%E4%BA%8C%E6%A5%BC%E9%80%83%E5%8D%95%23" target="weibo">
 大爷足疗店消费139元跳二楼逃单（热度：47435）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%B7%E5%81%B7%E7%9C%8B%E4%B8%BB%E4%BA%BA%E7%9A%84%E8%90%A8%E6%91%A9%E8%80%B6%E5%AE%9D%E5%AE%9D%23" target="weibo">
+偷偷看主人的萨摩耶宝宝（热度：46902）
 </a>
 </li>
 
@@ -2529,8 +2565,8 @@ Fly腱鞘炎（热度：71228）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8E%E7%99%BE%E8%8D%89%E5%9B%AD%E5%88%B0%E4%B8%89%E5%91%B3%E4%B9%A6%E5%B1%8B%E5%88%B0%E5%BA%95%E5%A4%9A%E8%BF%9C%23" target="weibo">
-从百草园到三味书屋到底多远（热度：43995）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9DLPL%E8%BD%AC%E4%BC%9A%E6%9C%9F%E5%A4%A7%E5%8F%98%E9%9D%A9%23" target="weibo">
+曝LPL转会期大变革（热度：43915）
 </a>
 </li>
 
@@ -2559,20 +2595,14 @@ Fly腱鞘炎（热度：71228）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E4%BB%8E%E6%B5%99%E6%B1%9F%E5%86%9C%E6%9D%91%E5%8E%BB%E8%B4%B5%E5%B7%9E%E5%8E%BF%E5%9F%8E%E4%B8%8A%E5%AD%A6%23" target="weibo">
-第一次见从浙江农村去贵州县城上学（热度：39026）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E4%BA%BA%E9%83%BD%E8%BF%99%E4%B8%AA%E7%97%87%E7%8A%B6%E7%9C%9F%E7%9A%84%E9%9D%9E%E5%B8%B8%E7%BD%95%E8%A7%81%23" target="weibo">
 四人都这个症状真的非常罕见（热度：38584）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E6%9F%90%E6%9D%A5%E4%BA%A4%E4%BD%9C%E4%B8%9A%23" target="weibo">
-李昀锐某来交作业（热度：37419）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%94%A6%E8%B5%9B%E5%A5%B3%E5%9B%A2%E6%97%A5%E6%9C%AC1%E6%AF%941%E6%9C%9D%E9%B2%9C%23" target="weibo">
+亚锦赛女团日本1比1朝鲜（热度：37903）
 </a>
 </li>
 
@@ -2591,6 +2621,12 @@ Fly腱鞘炎（热度：71228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E6%88%91%E7%AC%91%E7%BA%B3%E4%BA%86%23" target="weibo">
 卢昱晓我笑纳了（热度：36685）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%BE%8E%E5%9B%BD%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%23" target="weibo">
+海绵宝宝派大星美国街头抗议（热度：36188）
 </a>
 </li>
 
@@ -2717,12 +2753,6 @@ S15倒计时2天（热度：21607）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Doinb%E8%81%8ALPL%E5%92%8CLCK%E8%AE%AD%E7%BB%83%E7%8E%AF%E5%A2%83%23" target="weibo">
 Doinb聊LPL和LCK训练环境（热度：18181）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E7%BB%B5%E5%AE%9D%E5%AE%9D%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%BE%8E%E5%9B%BD%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%23" target="weibo">
-海绵宝宝派大星美国街头抗议（热度：16816）
 </a>
 </li>
 

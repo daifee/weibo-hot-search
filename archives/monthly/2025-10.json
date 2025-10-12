@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760311354006,
+  "endTime": 1760312196058,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -3435,6 +3435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 610409,
+      "num": 126414,
+      "word": "多位明星都曾就读北大光华EMBA",
+      "onboard_time": 1760297774,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 609363,
       "num": 258525,
       "word": "这竟然是潘玮柏",
@@ -4416,14 +4424,6 @@
       "word": "胡歌带老婆上海看房",
       "onboard_time": 1760073141,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 519032,
-      "num": 94340,
-      "word": "多位明星都曾就读北大光华EMBA",
-      "onboard_time": 1760297774,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -9011,6 +9011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271798,
+      "num": 271798,
+      "word": "带状疱疹病毒激活的三大信号",
+      "onboard_time": 1760311038,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 270941,
       "num": 270941,
       "word": "台湾是中国领土一部分",
@@ -9280,6 +9288,14 @@
       "word": "员工拉桌子碰碎近50个和田玉镯",
       "onboard_time": 1760261240,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263010,
+      "num": 263010,
+      "word": "放假8天7天半掰玉米大学生回应质疑",
+      "onboard_time": 1760279902,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -10785,14 +10801,6 @@
       "onboard_time": 1759494621,
       "rank": 20,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 219851,
-      "num": 219851,
-      "word": "放假8天7天半掰玉米大学生回应质疑",
-      "onboard_time": 1760279902,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 219782,
@@ -19899,6 +19907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133513,
+      "num": 91468,
+      "word": "沈佳润说爸爸妈妈抱团很严重",
+      "onboard_time": 1760310918,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133509,
       "num": 131381,
       "word": "第五人格医生",
@@ -24907,6 +24923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111451,
+      "num": 111451,
+      "word": "比特币又跳水",
+      "onboard_time": 1760310979,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 111448,
       "num": 111448,
       "word": "周启豪想跟王楚钦学习",
@@ -29795,6 +29819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95249,
+      "num": 95249,
+      "word": "李昀锐某来交作业",
+      "onboard_time": 1760311157,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95243,
       "num": 144317,
       "word": "新郎新娘结婚只有嘉宾当真",
@@ -31643,6 +31675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89056,
+      "num": 89056,
+      "word": "管泽元预测T1对战iG比分",
+      "onboard_time": 1760311098,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89052,
       "num": 89052,
       "word": "重生之我在娱乐圈文给昀牵孟绕当npc",
@@ -31969,6 +32009,14 @@
       "onboard_time": 1759556241,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87733,
+      "num": 87733,
+      "word": "黑神话悟空更新",
+      "onboard_time": 1760311219,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 87725,
@@ -32449,6 +32497,14 @@
       "onboard_time": 1759552821,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86045,
+      "num": 86045,
+      "word": "余承恩震惊果果不是井迪的孩子",
+      "onboard_time": 1760310857,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 85997,
@@ -33545,14 +33601,6 @@
       "onboard_time": 1759455979,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 81921,
-      "num": 63876,
-      "word": "沈佳润说爸爸妈妈抱团很严重",
-      "onboard_time": 1760310918,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 81894,
@@ -34947,14 +34995,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 73264,
-      "num": 73264,
-      "word": "比特币又跳水",
-      "onboard_time": 1760310979,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 73240,
       "num": 93978,
       "word": "曝S15陪练团中单",
@@ -35193,14 +35233,6 @@
       "onboard_time": 1759370479,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71407,
-      "num": 71407,
-      "word": "带状疱疹病毒激活的三大信号",
-      "onboard_time": 1760311038,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 71384,
@@ -35899,6 +35931,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 65550,
+      "num": 65550,
+      "word": "从百草园到三味书屋到底多远",
+      "onboard_time": 1760310016,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 65543,
       "num": 118365,
       "word": "陈冠希45岁生日全家福",
@@ -36001,14 +36041,6 @@
       "onboard_time": 1760111840,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 64702,
-      "num": 64702,
-      "word": "管泽元预测T1对战iG比分",
-      "onboard_time": 1760311098,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 64596,
@@ -36273,14 +36305,6 @@
       "onboard_time": 1759633820,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61492,
-      "num": 61492,
-      "word": "黑神话悟空更新",
-      "onboard_time": 1760311219,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 61389,
@@ -36851,6 +36875,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 55221,
+      "num": 55221,
+      "word": "时代少年团主厨竞争食材抢夺",
+      "onboard_time": 1760311577,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55218,
       "num": 59802,
       "word": "委内瑞拉说美国可能很快会动武",
@@ -36913,6 +36945,14 @@
       "onboard_time": 1759972880,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54960,
+      "num": 54960,
+      "word": "怎么会有人一捡猫就捡到了长毛小橘",
+      "onboard_time": 1760311577,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 54945,
@@ -37411,12 +37451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50501,
-      "num": 50501,
-      "word": "余承恩震惊果果不是井迪的孩子",
-      "onboard_time": 1760310857,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 50520,
+      "num": 50520,
+      "word": "第一次见从浙江农村去贵州县城上学",
+      "onboard_time": 1760310438,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 50385,
@@ -37707,6 +37747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46902,
+      "num": 46902,
+      "word": "偷偷看主人的萨摩耶宝宝",
+      "onboard_time": 1760311758,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 46852,
       "num": 100511,
       "word": "银川夜空现不明发光物",
@@ -37947,12 +37995,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 43995,
-      "num": 43995,
-      "word": "从百草园到三味书屋到底多远",
-      "onboard_time": 1760310016,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 43915,
+      "num": 43915,
+      "word": "曝LPL转会期大变革",
+      "onboard_time": 1760311821,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 43872,
@@ -38315,14 +38363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39026,
-      "num": 43953,
-      "word": "第一次见从浙江农村去贵州县城上学",
-      "onboard_time": 1760310438,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 38992,
       "num": 38992,
       "word": "王楚钦中国大满贯冠军自拍",
@@ -38411,6 +38451,14 @@
       "category": "民生新闻,旅游"
     },
     {
+      "raw_hot": 37903,
+      "num": 42654,
+      "word": "亚锦赛女团日本1比1朝鲜",
+      "onboard_time": 1760311939,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37853,
       "num": 107577,
       "word": "景区NPC带数百游客攻打县城",
@@ -38433,14 +38481,6 @@
       "onboard_time": 1759845623,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 37419,
-      "num": 43900,
-      "word": "李昀锐某来交作业",
-      "onboard_time": 1760311157,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 37272,
@@ -38561,6 +38601,14 @@
       "onboard_time": 1759293560,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 36188,
+      "num": 42651,
+      "word": "海绵宝宝派大星美国街头抗议",
+      "onboard_time": 1760295434,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36099,
@@ -40073,14 +40121,6 @@
       "onboard_time": 1759866494,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 16816,
-      "num": 35489,
-      "word": "海绵宝宝派大星美国街头抗议",
-      "onboard_time": 1760295434,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 16741,

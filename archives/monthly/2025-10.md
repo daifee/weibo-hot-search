@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 07:22:34
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 07:36:36
 </p>
 </blockquote>
 <p>
@@ -2589,6 +2589,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F%E9%83%BD%E6%9B%BE%E5%B0%B1%E8%AF%BB%E5%8C%97%E5%A4%A7%E5%85%89%E5%8D%8EEMBA%23" target="weibo">
+多位明星都曾就读北大光华EMBA（热度：610409）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%AB%9F%E7%84%B6%E6%98%AF%E6%BD%98%E7%8E%AE%E6%9F%8F%23" target="weibo">
 这竟然是潘玮柏（热度：609363）
 </a>
@@ -3323,12 +3329,6 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%B8%A6%E8%80%81%E5%A9%86%E4%B8%8A%E6%B5%B7%E7%9C%8B%E6%88%BF%23" target="weibo">
 胡歌带老婆上海看房（热度：519856）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F%E9%83%BD%E6%9B%BE%E5%B0%B1%E8%AF%BB%E5%8C%97%E5%A4%A7%E5%85%89%E5%8D%8EEMBA%23" target="weibo">
-多位明星都曾就读北大光华EMBA（热度：519032）
 </a>
 </li>
 

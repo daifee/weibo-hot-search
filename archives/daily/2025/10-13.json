@@ -1,14 +1,22 @@
 {
   "startTime": 1760286516759,
-  "endTime": 1760311354006,
+  "endTime": 1760312196058,
   "band_list": [
     {
-      "raw_hot": 672384,
-      "num": 887859,
+      "raw_hot": 697601,
+      "num": 921616,
       "word": "为什么贷款骚扰电话变少了",
       "onboard_time": 1760276901,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 610409,
+      "num": 126414,
+      "word": "多位明星都曾就读北大光华EMBA",
+      "onboard_time": 1760297774,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 608801,
@@ -43,14 +51,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 519032,
-      "num": 94340,
-      "word": "多位明星都曾就读北大光华EMBA",
-      "onboard_time": 1760297774,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 450335,
       "num": 163884,
       "word": "鲁 俺想你了",
@@ -67,6 +67,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287889,
+      "num": 161065,
+      "word": "建议睡眠不好的都去吃",
+      "onboard_time": 1760271921,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 271798,
+      "num": 271798,
+      "word": "带状疱疹病毒激活的三大信号",
+      "onboard_time": 1760311038,
+      "rank": 18,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 270169,
       "num": 161795,
       "word": "浙江人的短袖已经穿回本了",
@@ -75,12 +91,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 255080,
-      "num": 161065,
-      "word": "建议睡眠不好的都去吃",
-      "onboard_time": 1760271921,
-      "rank": 14,
-      "category": "健康医疗"
+      "raw_hot": 263010,
+      "num": 263010,
+      "word": "放假8天7天半掰玉米大学生回应质疑",
+      "onboard_time": 1760279902,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220000,
@@ -89,14 +105,6 @@
       "onboard_time": 1760284281,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 219851,
-      "num": 219851,
-      "word": "放假8天7天半掰玉米大学生回应质疑",
-      "onboard_time": 1760279902,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203390,
@@ -115,8 +123,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186475,
-      "num": 186475,
+      "raw_hot": 187252,
+      "num": 187252,
       "word": "法国第一夫人被迫证明自己不是男人",
       "onboard_time": 1760271561,
       "rank": 6,
@@ -161,6 +169,22 @@
       "onboard_time": 1760286259,
       "rank": 37,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 133513,
+      "num": 91468,
+      "word": "沈佳润说爸爸妈妈抱团很严重",
+      "onboard_time": 1760310918,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127381,
+      "num": 127381,
+      "word": "获1300万拆迁款被判刑男子发声",
+      "onboard_time": 1760265861,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126239,
@@ -211,19 +235,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111451,
+      "num": 111451,
+      "word": "比特币又跳水",
+      "onboard_time": 1760310979,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 100384,
       "num": 100384,
       "word": "晋A99999劳斯莱斯1544000元起拍",
       "onboard_time": 1760267480,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97851,
-      "num": 97851,
-      "word": "获1300万拆迁款被判刑男子发声",
-      "onboard_time": 1760265861,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -251,12 +275,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95249,
+      "num": 95249,
+      "word": "李昀锐某来交作业",
+      "onboard_time": 1760311157,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93633,
       "num": 93633,
       "word": "早田希娜2比3金琴英",
       "onboard_time": 1760282721,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91570,
+      "num": 91570,
+      "word": "服装店的秋装卖不动了",
+      "onboard_time": 1760262141,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90532,
+      "num": 90532,
+      "word": "剧看了6集男主不知叫啥名",
+      "onboard_time": 1760272159,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89056,
+      "num": 89056,
+      "word": "管泽元预测T1对战iG比分",
+      "onboard_time": 1760311098,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 88878,
@@ -267,20 +323,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 81921,
-      "num": 63876,
-      "word": "沈佳润说爸爸妈妈抱团很严重",
-      "onboard_time": 1760310918,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 87733,
+      "num": 87733,
+      "word": "黑神话悟空更新",
+      "onboard_time": 1760311219,
+      "rank": 21,
+      "category": "游戏"
     },
     {
-      "raw_hot": 80136,
-      "num": 88679,
-      "word": "服装店的秋装卖不动了",
-      "onboard_time": 1760262141,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 86045,
+      "num": 86045,
+      "word": "余承恩震惊果果不是井迪的孩子",
+      "onboard_time": 1760310857,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 78324,
@@ -299,12 +355,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 73264,
-      "num": 73264,
-      "word": "比特币又跳水",
-      "onboard_time": 1760310979,
-      "rank": 17,
-      "category": "财经"
+      "raw_hot": 73869,
+      "num": 88737,
+      "word": "内娱第一个饭撒女儿的歌手",
+      "onboard_time": 1760272401,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 72835,
@@ -321,14 +377,6 @@
       "onboard_time": 1760288178,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71407,
-      "num": 71407,
-      "word": "带状疱疹病毒激活的三大信号",
-      "onboard_time": 1760311038,
-      "rank": 18,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 71079,
@@ -363,20 +411,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65550,
+      "num": 65550,
+      "word": "从百草园到三味书屋到底多远",
+      "onboard_time": 1760310016,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 65513,
       "num": 88796,
       "word": "徐明浩炸毛",
       "onboard_time": 1760283500,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 64702,
-      "num": 64702,
-      "word": "管泽元预测T1对战iG比分",
-      "onboard_time": 1760311098,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 64596,
@@ -411,22 +459,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 61492,
-      "num": 61492,
-      "word": "黑神话悟空更新",
-      "onboard_time": 1760311219,
-      "rank": 21,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 60999,
-      "num": 88737,
-      "word": "内娱第一个饭撒女儿的歌手",
-      "onboard_time": 1760272401,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 60991,
       "num": 88725,
       "word": "周杰伦发文告别嘉年华巡演",
@@ -451,12 +483,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55221,
+      "num": 55221,
+      "word": "时代少年团主厨竞争食材抢夺",
+      "onboard_time": 1760311577,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55078,
       "num": 88646,
       "word": "高反失温女孩母亲回应轻松筹争议",
       "onboard_time": 1760280082,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54960,
+      "num": 54960,
+      "word": "怎么会有人一捡猫就捡到了长毛小橘",
+      "onboard_time": 1760311577,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 53406,
@@ -483,12 +531,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 50501,
-      "num": 50501,
-      "word": "余承恩震惊果果不是井迪的孩子",
-      "onboard_time": 1760310857,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 50520,
+      "num": 50520,
+      "word": "第一次见从浙江农村去贵州县城上学",
+      "onboard_time": 1760310438,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 47434,
@@ -499,28 +547,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43995,
-      "num": 43995,
-      "word": "从百草园到三味书屋到底多远",
-      "onboard_time": 1760310016,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 46902,
+      "num": 46902,
+      "word": "偷偷看主人的萨摩耶宝宝",
+      "onboard_time": 1760311758,
+      "rank": 38,
+      "category": "幽默"
     },
     {
-      "raw_hot": 39026,
-      "num": 43953,
-      "word": "第一次见从浙江农村去贵州县城上学",
-      "onboard_time": 1760310438,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 37419,
-      "num": 43900,
-      "word": "李昀锐某来交作业",
-      "onboard_time": 1760311157,
+      "raw_hot": 46693,
+      "num": 46693,
+      "word": "千万富翁父亲在解清帅婚礼上大哭",
+      "onboard_time": 1760280203,
       "rank": 39,
-      "category": "艺人"
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43915,
+      "num": 43915,
+      "word": "曝LPL转会期大变革",
+      "onboard_time": 1760311821,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 37903,
+      "num": 42654,
+      "word": "亚锦赛女团日本1比1朝鲜",
+      "onboard_time": 1760311939,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 36685,
@@ -537,6 +593,14 @@
       "onboard_time": 1760271620,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 36188,
+      "num": 42651,
+      "word": "海绵宝宝派大星美国街头抗议",
+      "onboard_time": 1760295434,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31392,
@@ -595,14 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16816,
-      "num": 35489,
-      "word": "海绵宝宝派大星美国街头抗议",
-      "onboard_time": 1760295434,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 14114,
       "num": 25324,
       "word": "以前型人格",
@@ -619,7 +675,7 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 4186,
+      "raw_hot": 4205,
       "num": 548885,
       "word": "这里是中国",
       "onboard_time": 1760276421,
