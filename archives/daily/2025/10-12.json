@@ -1,18 +1,34 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760225789570,
+  "endTime": 1760234052655,
   "band_list": [
     {
+      "raw_hot": 1431138,
+      "num": 1431138,
+      "word": "卡塔尔代表团遭遇车祸已致3死3伤",
+      "onboard_time": 1760229739,
+      "rank": 0,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 912924,
-      "num": 117504,
+      "num": 149396,
       "word": "迪丽热巴申请限消邓氏阿嬷手作",
       "onboard_time": 1760195961,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 674573,
+      "num": 150072,
+      "word": "马思纯 自然得像没搞一样",
+      "onboard_time": 1760230460,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 638113,
-      "num": 117481,
+      "num": 121764,
       "word": "张靓颖摔下舞台",
       "onboard_time": 1760186182,
       "rank": 11,
@@ -20,7 +36,7 @@
     },
     {
       "raw_hot": 613237,
-      "num": 116929,
+      "num": 144989,
       "word": "丈夫坚持AA制妻子无力支付要写欠条",
       "onboard_time": 1760195002,
       "rank": 12,
@@ -28,11 +44,27 @@
     },
     {
       "raw_hot": 611380,
-      "num": 116810,
+      "num": 140105,
       "word": "关晓彤果然是被造型师陷害的",
       "onboard_time": 1760197282,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 520628,
+      "num": 520628,
+      "word": "大学生识破间谍套路并举报获表彰",
+      "onboard_time": 1760229560,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 486136,
+      "num": 486136,
+      "word": "丽江一景区部分设计被指观感不适",
+      "onboard_time": 1760230340,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 477334,
@@ -41,6 +73,38 @@
       "onboard_time": 1760213413,
       "rank": 8,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 471484,
+      "num": 141331,
+      "word": "摩托车死亡摇摆车主撞花坛当场身亡",
+      "onboard_time": 1760230880,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 467928,
+      "num": 140891,
+      "word": "美国下架数百万件中国电子产品",
+      "onboard_time": 1760231480,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 449347,
+      "num": 140502,
+      "word": "厦门公安接到台湾民众举报",
+      "onboard_time": 1760231480,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 445178,
+      "num": 445178,
+      "word": "高反失温女孩术后已昏迷3天",
+      "onboard_time": 1760227639,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 426285,
@@ -64,6 +128,14 @@
       "word": "千万富翁给丢失25年儿子婚礼办40桌",
       "onboard_time": 1760193803,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 385692,
+      "num": 385692,
+      "word": "广东海洋大学被曝住宿环境差",
+      "onboard_time": 1760231059,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -148,11 +220,19 @@
     },
     {
       "raw_hot": 191592,
-      "num": 83461,
+      "num": 139798,
       "word": "华裔女星疑遭同组演员性侵",
       "onboard_time": 1760189061,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185386,
+      "num": 139883,
+      "word": "齐溪回应41岁生二胎",
+      "onboard_time": 1760231660,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 172497,
@@ -163,8 +243,24 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161444,
+      "num": 161444,
+      "word": "新加坡父女双尸案后续",
+      "onboard_time": 1760226078,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 161050,
+      "num": 136865,
+      "word": "金价回调一度跌破4000美元",
+      "onboard_time": 1760226978,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 159713,
-      "num": 114123,
+      "num": 131711,
       "word": "糖尿病女孩1天4杯奶茶惊掉医生下巴",
       "onboard_time": 1760193441,
       "rank": 22,
@@ -179,11 +275,43 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155912,
+      "num": 133220,
+      "word": "迪丽热巴ins点赞转发破百万",
+      "onboard_time": 1760230821,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152478,
+      "num": 152478,
+      "word": "5人冒充院士钟世镇学生与其合影",
+      "onboard_time": 1760227579,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148349,
       "num": 148349,
       "word": "王老吉发文有病去医院有事找法院",
       "onboard_time": 1760180422,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146900,
+      "num": 98535,
+      "word": "万科董事长辛杰已失联",
+      "onboard_time": 1760233819,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140891,
+      "num": 140891,
+      "word": "多地大雨继续超长待机",
+      "onboard_time": 1760229919,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -201,6 +329,14 @@
       "onboard_time": 1760192421,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125077,
+      "num": 125077,
+      "word": "2025快递业务量破1500亿件",
+      "onboard_time": 1760233400,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122361,
@@ -227,12 +363,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 113046,
+      "num": 113046,
+      "word": "荒野之国景区回应作品被指观感不适",
+      "onboard_time": 1760232140,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101593,
+      "num": 101593,
+      "word": "莲藕汤补气血还不上火",
+      "onboard_time": 1760227758,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 98944,
+      "num": 98944,
+      "word": "4人凭2道黑影救下一命",
+      "onboard_time": 1760231600,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97998,
       "num": 97998,
       "word": "周杰伦嘉年华收官场",
       "onboard_time": 1760193081,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97814,
+      "num": 97814,
+      "word": "这4种维生素千万别乱补",
+      "onboard_time": 1760230880,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94880,
@@ -299,12 +467,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 81748,
-      "num": 81748,
+      "raw_hot": 84416,
+      "num": 84416,
       "word": "微博视界大会",
       "onboard_time": 1760225477,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83315,
+      "num": 83315,
+      "word": "导演对成毅的喜欢显而易见",
+      "onboard_time": 1760228839,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 82503,
+      "num": 82503,
+      "word": "迈阿密国际vs亚特兰大联",
+      "onboard_time": 1760233400,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 81507,
@@ -315,12 +499,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80889,
+      "num": 80889,
+      "word": "呼吸道合胞病毒流行期提前",
+      "onboard_time": 1760233223,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 80520,
+      "num": 80520,
+      "word": "特朗普要求确保发军饷",
+      "onboard_time": 1760231120,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79419,
       "num": 79419,
       "word": "毁牙第一名竟然不是可乐",
       "onboard_time": 1760174060,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 79231,
+      "num": 79231,
+      "word": "侧躺玩手机对颜值的影响",
+      "onboard_time": 1760226620,
+      "rank": 41,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 78403,
+      "num": 78403,
+      "word": "101岁院士寿宴上遭恶意纠缠拍摄",
+      "onboard_time": 1760229560,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78263,
@@ -339,6 +555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 75226,
+      "num": 75226,
+      "word": "魏大勋 孟宴臣",
+      "onboard_time": 1760192302,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74217,
       "num": 76635,
       "word": "王星越给丁程鑫带来了小小的震撼",
@@ -347,12 +571,60 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 71228,
+      "num": 71228,
+      "word": "Fly腱鞘炎",
+      "onboard_time": 1760231059,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 69886,
+      "num": 69886,
+      "word": "许我耀眼亲子关系概率0.01%",
+      "onboard_time": 1760233580,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 69797,
+      "num": 69797,
+      "word": "岳云鹏亲了薛之谦",
+      "onboard_time": 1760232620,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 68922,
+      "num": 68922,
+      "word": "入青云",
+      "onboard_time": 1760225297,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 68492,
+      "num": 501377,
+      "word": "悬赏征集台军18人犯罪线索",
+      "onboard_time": 1760191463,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 68297,
       "num": 76636,
       "word": "贝克汉姆也没买到labubu",
       "onboard_time": 1760199021,
       "rank": 39,
       "category": "体育,休闲"
+    },
+    {
+      "raw_hot": 67756,
+      "num": 67756,
+      "word": "挪威5比0以色列",
+      "onboard_time": 1760233400,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 67149,
@@ -387,14 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 60280,
-      "num": 298186,
-      "word": "悬赏征集台军18人犯罪线索",
-      "onboard_time": 1760191463,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 59700,
       "num": 76599,
       "word": "深巅采访",
@@ -409,6 +673,14 @@
       "onboard_time": 1760183180,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58731,
+      "num": 58731,
+      "word": "黛安基顿去世",
+      "onboard_time": 1760233999,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 57895,
@@ -475,14 +747,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 44409,
-      "num": 44409,
-      "word": "魏大勋 孟宴臣",
-      "onboard_time": 1760192302,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 41998,
       "num": 41998,
       "word": "许妍与父母和解",
@@ -505,14 +769,6 @@
       "onboard_time": 1760209216,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 37662,
-      "num": 37662,
-      "word": "入青云",
-      "onboard_time": 1760225297,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 36769,

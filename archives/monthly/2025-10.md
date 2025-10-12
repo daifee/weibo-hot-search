@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 07:36:29
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 09:54:12
 </p>
 </blockquote>
 <p>
@@ -395,6 +395,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%20G%E7%A4%BE%E5%A5%BD%E7%A6%BB%E8%B0%B1%23" target="weibo">
 戚薇 G社好离谱（热度：1434510）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E4%BB%A3%E8%A1%A8%E5%9B%A2%E9%81%AD%E9%81%87%E8%BD%A6%E7%A5%B8%E5%B7%B2%E8%87%B43%E6%AD%BB3%E4%BC%A4%23" target="weibo">
+卡塔尔代表团遭遇车祸已致3死3伤（热度：1431138）
 </a>
 </li>
 
@@ -2007,6 +2013,12 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%20%E8%87%AA%E7%84%B6%E5%BE%97%E5%83%8F%E6%B2%A1%E6%90%9E%E4%B8%80%E6%A0%B7%23" target="weibo">
+马思纯 自然得像没搞一样（热度：674573）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E6%B8%A9%E5%A5%B3%E7%94%9F%E6%AF%8D%E4%BA%B2%E8%A6%81%E7%A1%AE%E8%AE%A4%E5%A5%B3%E5%84%BF%E6%98%AF%E5%90%A6%E8%A2%AB%E6%8A%9B%E5%BC%83%23" target="weibo">
 失温女生母亲要确认女儿是否被抛弃（热度：670904）
 </a>
@@ -3051,6 +3063,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%AF%86%E7%A0%B4%E9%97%B4%E8%B0%8D%E5%A5%97%E8%B7%AF%E5%B9%B6%E4%B8%BE%E6%8A%A5%E8%8E%B7%E8%A1%A8%E5%BD%B0%23" target="weibo">
+大学生识破间谍套路并举报获表彰（热度：520628）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%20%E4%B8%8D%E9%87%8D%E8%A6%81%E6%88%91%E4%B9%B0%E5%8D%95%23" target="weibo">
 刘涛 不重要我买单（热度：520503）
 </a>
@@ -3387,6 +3405,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BD%E6%B1%9F%E4%B8%80%E6%99%AF%E5%8C%BA%E9%83%A8%E5%88%86%E8%AE%BE%E8%AE%A1%E8%A2%AB%E6%8C%87%E8%A7%82%E6%84%9F%E4%B8%8D%E9%80%82%23" target="weibo">
+丽江一景区部分设计被指观感不适（热度：486136）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E4%B9%90%E6%99%A8%E6%98%AF%E4%B8%BA%E4%BA%86%E6%B0%94%E5%89%8D%E5%A5%B3%E5%8F%8B%E8%B7%91%E5%8E%BB%E4%B8%8A%E7%BB%BC%E8%89%BA%23" target="weibo">
 曝王乐晨是为了气前女友跑去上综艺（热度：484736）
 </a>
@@ -3537,8 +3561,20 @@ VaVa说自己分手是因为浪姐（热度：480031）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%89%98%E8%BD%A6%E6%AD%BB%E4%BA%A1%E6%91%87%E6%91%86%E8%BD%A6%E4%B8%BB%E6%92%9E%E8%8A%B1%E5%9D%9B%E5%BD%93%E5%9C%BA%E8%BA%AB%E4%BA%A1%23" target="weibo">
+摩托车死亡摇摆车主撞花坛当场身亡（热度：471484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%A6%8D%E6%B2%88%E7%9A%93%E6%98%8E%E4%BA%B2%E7%83%AD%E8%A2%AB%E5%A9%86%E5%A9%86%E6%92%9E%E8%A7%81%23" target="weibo">
 许妍沈皓明亲热被婆婆撞见（热度：470095）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%8B%E6%9E%B6%E6%95%B0%E7%99%BE%E4%B8%87%E4%BB%B6%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81%23" target="weibo">
+美国下架数百万件中国电子产品（热度：467928）
 </a>
 </li>
 
@@ -3705,6 +3741,12 @@ K签证（热度：453444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E5%85%AC%E5%AE%89%E6%8E%A5%E5%88%B0%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E4%B8%BE%E6%8A%A5%23" target="weibo">
+厦门公安接到台湾民众举报（热度：449347）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E5%91%A8%E5%B3%BB%E7%BA%AC%23" target="weibo">
 这居然是周峻纬（热度：449072）
 </a>
@@ -3761,6 +3803,12 @@ K签证（热度：453444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%9B%BD%E5%BA%86%E6%99%9A%E4%BC%9A%23" target="weibo">
 央视国庆晚会（热度：445430）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%8D%E5%A4%B1%E6%B8%A9%E5%A5%B3%E5%AD%A9%E6%9C%AF%E5%90%8E%E5%B7%B2%E6%98%8F%E8%BF%B73%E5%A4%A9%23" target="weibo">
+高反失温女孩术后已昏迷3天（热度：445178）
 </a>
 </li>
 
@@ -4391,6 +4439,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%B0%8F%E5%AE%97%E6%97%A0%E7%B3%96%E8%8C%B6%E4%B8%8E%E5%A8%83%E5%93%88%E5%93%88%E5%8C%85%E8%A3%85%E5%8C%BA%E5%88%86%E9%B2%9C%E6%98%8E%23" target="weibo">
 娃小宗无糖茶与娃哈哈包装区分鲜明（热度：386102）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%A6%E8%A2%AB%E6%9B%9D%E4%BD%8F%E5%AE%BF%E7%8E%AF%E5%A2%83%E5%B7%AE%23" target="weibo">
+广东海洋大学被曝住宿环境差（热度：385692）
 </a>
 </li>
 
@@ -5957,60 +6011,6 @@ live图怎么关声音（热度：289588）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23JDG%E5%AF%B9%E6%88%98DK%23" target="weibo">
 JDG对战DK（热度：286717）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD%23" target="weibo">
-我爱你中国（热度：285973）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E5%8D%97%E9%80%9Avs%E6%B7%AE%E5%AE%89%E6%B7%98%E6%B1%B0%E8%B5%9B%23" target="weibo">
-苏超南通vs淮安淘汰赛（热度：285961）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E4%B8%80%E5%B2%9B%E4%B8%8A%E5%A4%B1%E8%81%94%23" target="weibo">
-2中国游客在马来西亚一岛上失联（热度：285195）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E7%BD%97%E4%BA%91%E7%86%99%E6%96%B0%E5%89%A7%E5%AF%B9%E6%89%93%23" target="weibo">
-成毅罗云熙新剧对打（热度：284772）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E9%AD%8F%E6%B4%B2%E8%A2%ABcpf%E8%B4%B4%E8%84%B8%23" target="weibo">
-许魏洲被cpf贴脸（热度：284700）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E5%90%8E%E5%8A%B2%E5%A4%AA%E5%A4%A7%E4%BA%86%23" target="weibo">
-假期后劲太大了（热度：284517）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%9B%9E%E5%A4%8D%23" target="weibo">
-王者荣耀回复（热度：284276）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%BD%A0%E6%89%A3%E5%AD%90%E6%89%A3%E5%B2%94%E4%BA%86%23" target="weibo">
-王楚钦你扣子扣岔了（热度：284161）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%88%9A%E8%90%BD%E5%9C%B0%E5%8F%88%E9%A3%9E%E8%B5%B0%E4%BA%86%23" target="weibo">
-王俊凯刚落地又飞走了（热度：283669）
 </a>
 </li>
 
