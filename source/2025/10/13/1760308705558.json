@@ -1,0 +1,410 @@
+{
+  "runTime": 1760308705558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 277926,
+        "num": 477871,
+        "word": "为什么贷款骚扰电话变少了",
+        "onboard_time": 1760276901,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127814,
+        "num": 127814,
+        "word": "男子因买肉价低疑妻出轨将其捅伤获刑",
+        "onboard_time": 1760282721,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1695,
+        "num": 115250,
+        "word": "这里是中国",
+        "onboard_time": 1760276421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104590,
+        "num": 104590,
+        "word": "央视曝光AI代写论文黑工厂",
+        "onboard_time": 1760283740,
+        "rank": 3,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 90043,
+        "num": 90043,
+        "word": "法国第一夫人被迫证明自己不是男人",
+        "onboard_time": 1760271561,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89087,
+        "num": 89087,
+        "word": "放假8天7天半掰玉米大学生回应质疑",
+        "onboard_time": 1760279902,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75699,
+        "num": 75699,
+        "word": "阿富汗巴基斯坦冲突子弹来回穿梭",
+        "onboard_time": 1760290756,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56523,
+        "num": 56523,
+        "word": "冰箱贴已经比冰箱贵了",
+        "onboard_time": 1760253620,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54927,
+        "num": 54927,
+        "word": "中国已确立11颗金钉子",
+        "onboard_time": 1760250799,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 49696,
+        "num": 49696,
+        "word": "获1300万拆迁款被判刑男子发声",
+        "onboard_time": 1760265861,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240669,
+        "num": 48676,
+        "word": "多位明星都曾就读北大光华EMBA",
+        "onboard_time": 1760297774,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220629,
+        "num": 47573,
+        "word": "周杰伦患强直性脊柱炎超20年",
+        "onboard_time": 1760277920,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119246,
+        "num": 47225,
+        "word": "建议睡眠不好的都去吃",
+        "onboard_time": 1760271921,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116338,
+        "num": 45185,
+        "word": "树一官宣与慎婕分手",
+        "onboard_time": 1760279542,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 57754,
+        "num": 44187,
+        "word": "内娱第一个饭撒女儿的歌手",
+        "onboard_time": 1760272401,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 51626,
+        "num": 43210,
+        "word": "武汉一公厕旁花坛被贴上男士小便处",
+        "onboard_time": 1760280141,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42668,
+        "num": 42668,
+        "word": "朝鲜迎来外交潮",
+        "onboard_time": 1760279361,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41191,
+        "num": 41191,
+        "word": "服装店的秋装卖不动了",
+        "onboard_time": 1760262141,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36360,
+        "num": 36360,
+        "word": "井迪一秒接住了摔倒的糖果",
+        "onboard_time": 1760276901,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35740,
+        "num": 35740,
+        "word": "白桃星座",
+        "onboard_time": 1760284281,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44795,
+        "num": 35733,
+        "word": "白鹿三部剧入围",
+        "onboard_time": 1760283980,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36488,
+        "num": 35730,
+        "word": "吃饭顺序对血糖的影响有多大",
+        "onboard_time": 1760303654,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33172,
+        "num": 35715,
+        "word": "Angelababy跳刀马刀马了",
+        "onboard_time": 1760270480,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33081,
+        "num": 35704,
+        "word": "张杰唱完你的唱你的",
+        "onboard_time": 1760282481,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31537,
+        "num": 35694,
+        "word": "早田希娜2比3金琴英",
+        "onboard_time": 1760282721,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29709,
+        "num": 35680,
+        "word": "鲁 俺想你了",
+        "onboard_time": 1760277320,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 29218,
+        "num": 35679,
+        "word": "何晟铭担心带女儿出来被说是女朋友",
+        "onboard_time": 1760283440,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27852,
+        "num": 35664,
+        "word": "陈泽下播",
+        "onboard_time": 1760286259,
+        "rank": 27,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 26734,
+        "num": 35655,
+        "word": "我叫李飞没有脊椎",
+        "onboard_time": 1760273180,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26558,
+        "num": 35645,
+        "word": "美国女子在迪士尼鬼屋被吓死",
+        "onboard_time": 1760261060,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23624,
+        "num": 35633,
+        "word": "浙江人的短袖已经穿回本了",
+        "onboard_time": 1760274261,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22943,
+        "num": 35627,
+        "word": "暗河传",
+        "onboard_time": 1760277441,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22836,
+        "num": 35612,
+        "word": "晋A99999劳斯莱斯1544000元起拍",
+        "onboard_time": 1760267480,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22043,
+        "num": 35602,
+        "word": "四川芦山4.7级地震",
+        "onboard_time": 1760255179,
+        "rank": 33,
+        "category": "民生新闻,民生新闻"
+      },
+      {
+        "raw_hot": 21860,
+        "num": 35586,
+        "word": "入青云",
+        "onboard_time": 1760265861,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21014,
+        "num": 35586,
+        "word": "李沁陈哲远亲密戏",
+        "onboard_time": 1760285958,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19286,
+        "num": 35575,
+        "word": "美国密西西比州枪击事件已致4死12伤",
+        "onboard_time": 1760300953,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18770,
+        "num": 35560,
+        "word": "徐璐好美啊",
+        "onboard_time": 1760288178,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18516,
+        "num": 35545,
+        "word": "垫底辣孩自曝拿到了八大美院的合格证",
+        "onboard_time": 1760257221,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 18216,
+        "num": 35539,
+        "word": "吃不吃麻辣烫的都沉默了",
+        "onboard_time": 1760266160,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 17959,
+        "num": 35532,
+        "word": "降低消耗感的小tips",
+        "onboard_time": 1760287698,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17801,
+        "num": 35517,
+        "word": "王暖暖称会上诉追讨前夫盗窃的钱",
+        "onboard_time": 1760298434,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17796,
+        "num": 35510,
+        "word": "入戏",
+        "onboard_time": 1760277142,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17306,
+        "num": 35501,
+        "word": "球迷高喊换曾凡博",
+        "onboard_time": 1760284400,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16816,
+        "num": 35489,
+        "word": "海绵宝宝派大星美国街头抗议",
+        "onboard_time": 1760295434,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16534,
+        "num": 35480,
+        "word": "李沛恩娇兰",
+        "onboard_time": 1760274502,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16382,
+        "num": 35467,
+        "word": "刘昊然亮相河海大学",
+        "onboard_time": 1760284159,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14887,
+        "num": 35457,
+        "word": "李一桐造型",
+        "onboard_time": 1760260099,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13778,
+        "num": 35451,
+        "word": "张杰演唱会",
+        "onboard_time": 1760271620,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13104,
+        "num": 35435,
+        "word": "村民把粮食晒满派出所",
+        "onboard_time": 1760300653,
+        "rank": 49,
+        "category": "正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#广大妇女起到了半边天的重要作用#"
+    }
+  }
+}
