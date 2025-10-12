@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 14:45:54
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 15:22:10
 </p>
 </blockquote>
 <p>
@@ -239,6 +239,12 @@ K签（热度：2379627）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%E5%85%8D%E8%B4%B9%E7%BB%93%E6%9D%9F%E5%89%8D%E6%94%B6%E8%B4%B9%E7%AB%99%E4%BA%BA%E5%91%98%E9%AB%98%E5%96%8A%E5%BF%AB%E7%82%B9%23" target="weibo">
 高速免费结束前收费站人员高喊快点（热度：1676027）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%A1%AE%E7%AB%8B11%E9%A2%97%E9%87%91%E9%92%89%E5%AD%90%23" target="weibo">
+中国已确立11颗金钉子（热度：1670722）
 </a>
 </li>
 
@@ -1821,12 +1827,6 @@ K字签证不能与移民划等号（热度：860737）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%A1%AE%E7%AB%8B11%E9%A2%97%E9%87%91%E9%92%89%E5%AD%90%23" target="weibo">
-中国已确立11颗金钉子（热度：724671）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%239%E6%9C%88%E7%9A%84%E5%B7%A5%E8%B5%84%E4%B8%8D%E7%94%A8%E6%89%93%E7%BB%99%E6%88%91%E4%BA%86%23" target="weibo">
 9月的工资不用打给我了（热度：721830）
 </a>
@@ -1847,6 +1847,12 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF12%E5%85%8B%E9%87%91%E6%89%8B%E9%95%AF%E8%A2%AB%E5%81%B7%E5%B7%B2%E6%89%BE%E5%9B%9E%23" target="weibo">
 婴儿12克金手镯被偷已找回（热度：717909）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%83%A8%E5%A4%A7%E7%94%B7%E4%B8%BB%E5%89%A7%E5%90%8C%E6%9C%9F%E5%BC%80%E6%92%AD%23" target="weibo">
+三部大男主剧同期开播（热度：717562）
 </a>
 </li>
 
@@ -3321,12 +3327,6 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%83%A8%E5%A4%A7%E7%94%B7%E4%B8%BB%E5%89%A7%E5%90%8C%E6%9C%9F%E5%BC%80%E6%92%AD%23" target="weibo">
-三部大男主剧同期开播（热度：501303）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%8F%96%E6%B6%8825%E5%88%86%E9%92%9F%E4%B8%8A%E8%8F%9C%E6%B2%99%E6%BC%8F%E8%AE%A1%E6%97%B6%23" target="weibo">
 西贝取消25分钟上菜沙漏计时（热度：500085）
 </a>
@@ -4431,6 +4431,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E5%B2%9B%E7%8E%B0%E5%B7%A8%E5%A4%A7%E5%9E%83%E5%9C%BE%E5%A4%A9%E5%9D%91%23" target="weibo">
+无人岛现巨大垃圾天坑（热度：398639）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%81%AA%E6%98%8E%E5%B7%B2%E7%BB%8F%E6%8F%90%E5%89%8D%E5%88%B05%E5%8F%B7%E8%BF%94%E7%A8%8B%E4%BA%86%23" target="weibo">
 大聪明已经提前到5号返程了（热度：397604）
 </a>
@@ -4493,6 +4499,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E9%A1%BA%E4%B8%B0%E9%80%9F%E5%AD%95%E8%BD%A6%E8%B4%B4%E8%AE%A9%E4%BA%BA%E4%B8%8D%E9%80%82%23" target="weibo">
 网友吐槽顺丰速孕车贴让人不适（热度：392946）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%9B%9E%E5%BA%94%E5%A5%B3%E6%98%9F%E6%8A%A2%E5%A8%9C%E6%89%8E%E4%BC%91%E6%81%AF%E5%AE%A4%23" target="weibo">
+经纪人回应女星抢娜扎休息室（热度：392476）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ offer7播一半淘汰了三个人（热度：311785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E9%98%B3%E5%85%AC%E9%B8%A1%E8%A2%AB%E5%AE%B0%E5%90%8E%E9%9D%A0%E4%BA%91%E5%8D%97%E7%99%BD%E8%8D%AF%E7%BB%AD%E5%91%BD%23" target="weibo">
 贵阳公鸡被宰后靠云南白药续命（热度：296176）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%90%A5%E5%85%BB%E9%92%88%23" target="weibo">
-韩国营养针（热度：295483）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E7%A7%B0%E9%81%AD%E4%BF%8450%E6%9E%9A%E5%AF%BC%E5%BC%B9500%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB%23" target="weibo">
-乌称遭俄50枚导弹500架无人机袭击（热度：295017）
 </a>
 </li>
 

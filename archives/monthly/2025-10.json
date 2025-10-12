@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760251554937,
+  "endTime": 1760253730369,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -305,6 +305,14 @@
       "onboard_time": 1759974559,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1670722,
+      "num": 1670722,
+      "word": "中国已确立11颗金钉子",
+      "onboard_time": 1760250799,
+      "rank": 0,
+      "category": "科学科普"
     },
     {
       "raw_hot": 1670006,
@@ -2411,14 +2419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 724671,
-      "num": 1115947,
-      "word": "中国已确立11颗金钉子",
-      "onboard_time": 1760250799,
-      "rank": 0,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 721830,
       "num": 1115492,
       "word": "9月的工资不用打给我了",
@@ -2449,6 +2449,14 @@
       "onboard_time": 1760172020,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 717562,
+      "num": 205454,
+      "word": "三部大男主剧同期开播",
+      "onboard_time": 1760250562,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 715109,
@@ -4411,14 +4419,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 501303,
-      "num": 205454,
-      "word": "三部大男主剧同期开播",
-      "onboard_time": 1760250562,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 500085,
       "num": 500085,
       "word": "西贝取消25分钟上菜沙漏计时",
@@ -5891,6 +5891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 398639,
+      "num": 398639,
+      "word": "无人岛现巨大垃圾天坑",
+      "onboard_time": 1760248341,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 397604,
       "num": 448502,
       "word": "大聪明已经提前到5号返程了",
@@ -5977,6 +5985,14 @@
       "onboard_time": 1759240821,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 392476,
+      "num": 176078,
+      "word": "经纪人回应女星抢娜扎休息室",
+      "onboard_time": 1760251100,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 391715,
@@ -9523,6 +9539,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 242844,
+      "num": 242844,
+      "word": "浙江一住户5楼空心菜垂1楼像瀑布",
+      "onboard_time": 1760249601,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 242702,
       "num": 242702,
       "word": "48岁油漆工地下室刷漆后中毒离世",
@@ -9657,14 +9681,6 @@
       "onboard_time": 1759293560,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 238527,
-      "num": 238527,
-      "word": "无人岛现巨大垃圾天坑",
-      "onboard_time": 1760248341,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 238480,
@@ -10145,6 +10161,14 @@
       "onboard_time": 1759802840,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225539,
+      "num": 174612,
+      "word": "林允 VOGUE",
+      "onboard_time": 1760250440,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 225488,
@@ -13283,6 +13307,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 179679,
+      "num": 179679,
+      "word": "法考 李佳",
+      "onboard_time": 1760250200,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 179675,
       "num": 179675,
       "word": "赵晴又有新剧了",
@@ -13579,6 +13611,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 176908,
+      "num": 160973,
+      "word": "余承恩在舅舅赛道无人能敌",
+      "onboard_time": 1760252600,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176882,
       "num": 176882,
       "word": "男子传保时捷女销冠不雅内容被拘",
@@ -13833,14 +13873,6 @@
       "onboard_time": 1759638141,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174512,
-      "num": 174512,
-      "word": "林允 VOGUE",
-      "onboard_time": 1760250440,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 174403,
@@ -14385,14 +14417,6 @@
       "onboard_time": 1759381281,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168461,
-      "num": 168461,
-      "word": "浙江一住户5楼空心菜垂1楼像瀑布",
-      "onboard_time": 1760249601,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168406,
@@ -15899,6 +15923,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 155577,
+      "num": 155577,
+      "word": "张凌赫 偶遇照拍成情侣照",
+      "onboard_time": 1760252301,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155466,
       "num": 155466,
       "word": "原来这就是修为散尽的感觉",
@@ -16459,6 +16491,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 151163,
+      "num": 151163,
+      "word": "于文文汪苏泷 分手大师转角相遇",
+      "onboard_time": 1760249781,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151094,
       "num": 151094,
       "word": "嘉人",
@@ -16489,6 +16529,14 @@
       "onboard_time": 1759844663,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 150452,
+      "num": 150452,
+      "word": "巴方称要像对印度一样回应阿富汗",
+      "onboard_time": 1760252901,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 150450,
@@ -17635,6 +17683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142061,
+      "num": 142061,
+      "word": "桃黑黑不播盛世天下了",
+      "onboard_time": 1760252120,
+      "rank": 27,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 142048,
       "num": 142048,
       "word": "现在就出发3大合影",
@@ -17977,6 +18033,14 @@
       "onboard_time": 1759292361,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139979,
+      "num": 139979,
+      "word": "阿富汗巴基斯坦边境深夜激战",
+      "onboard_time": 1760251279,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139907,
@@ -20163,14 +20227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128599,
-      "num": 128599,
-      "word": "于文文汪苏泷 分手大师转角相遇",
-      "onboard_time": 1760249781,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128557,
       "num": 122864,
       "word": "范丞丞让章若楠穿裙子的愿望实现了",
@@ -20304,14 +20360,6 @@
       "word": "TF四代10月考核",
       "onboard_time": 1760098641,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 127944,
-      "num": 127944,
-      "word": "经纪人回应女星抢娜扎休息室",
-      "onboard_time": 1760251100,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -21027,14 +21075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124566,
-      "num": 124566,
-      "word": "阿富汗巴基斯坦边境深夜激战",
-      "onboard_time": 1760251279,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 124539,
       "num": 124539,
       "word": "她是怎么想到在闺蜜婚礼表演这个的",
@@ -21195,6 +21235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123720,
+      "num": 123720,
+      "word": "官方致歉公交站安装S型护栏",
+      "onboard_time": 1760252721,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123678,
       "num": 123678,
       "word": "张康乐晒猫",
@@ -21321,14 +21369,6 @@
       "onboard_time": 1759549340,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 123053,
-      "num": 123053,
-      "word": "法考 李佳",
-      "onboard_time": 1760250200,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 122972,
@@ -21817,6 +21857,14 @@
       "onboard_time": 1759936580,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120469,
+      "num": 120469,
+      "word": "赵磊回应官宣结婚",
+      "onboard_time": 1760252479,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 120465,
@@ -23281,6 +23329,14 @@
       "onboard_time": 1760014821,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 114090,
+      "num": 114090,
+      "word": "周翊然赛车证件照太帅了",
+      "onboard_time": 1760253021,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 114015,
@@ -24785,6 +24841,14 @@
       "onboard_time": 1759997481,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109257,
+      "num": 109257,
+      "word": "国产循环剧终于不是天崩开局了",
+      "onboard_time": 1760252060,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 109250,
@@ -29579,6 +29643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92491,
+      "num": 92491,
+      "word": "冰箱贴已经比冰箱贵了",
+      "onboard_time": 1760253620,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92453,
       "num": 96423,
       "word": "副县长当客服每天接100多个电话",
@@ -29753,6 +29825,14 @@
       "onboard_time": 1760165002,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91864,
+      "num": 91864,
+      "word": "只有我妈放不下这段感情",
+      "onboard_time": 1760253080,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 91822,
@@ -31371,6 +31451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85406,
+      "num": 85406,
+      "word": "法考主观题答案",
+      "onboard_time": 1760253681,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
       "raw_hot": 85365,
       "num": 85365,
       "word": "张栋梁线下吃太好了吧",
@@ -32553,6 +32641,14 @@
       "onboard_time": 1759813762,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79947,
+      "num": 161395,
+      "word": "张晚意一看在家就没少和姐姐斗嘴",
+      "onboard_time": 1760252479,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 79864,
@@ -35923,6 +36019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49118,
+      "num": 85496,
+      "word": "师傅你一路开你的猪一路掉",
+      "onboard_time": 1760252001,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49109,
       "num": 680294,
       "word": "十四五成就",
@@ -38041,6 +38145,14 @@
       "onboard_time": 1759776255,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21607,
+      "num": 108758,
+      "word": "S15倒计时2天",
+      "onboard_time": 1760253561,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 21601,

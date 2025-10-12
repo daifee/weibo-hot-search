@@ -1,7 +1,15 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760251554937,
+  "endTime": 1760253730369,
   "band_list": [
+    {
+      "raw_hot": 1670722,
+      "num": 1670722,
+      "word": "中国已确立11颗金钉子",
+      "onboard_time": 1760250799,
+      "rank": 0,
+      "category": "科学科普"
+    },
     {
       "raw_hot": 1448521,
       "num": 1448521,
@@ -51,12 +59,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 724671,
-      "num": 1115947,
-      "word": "中国已确立11颗金钉子",
-      "onboard_time": 1760250799,
-      "rank": 0,
-      "category": "科学科普"
+      "raw_hot": 717562,
+      "num": 205454,
+      "word": "三部大男主剧同期开播",
+      "onboard_time": 1760250562,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 713252,
@@ -169,14 +177,6 @@
       "onboard_time": 1760247382,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 501303,
-      "num": 205454,
-      "word": "三部大男主剧同期开播",
-      "onboard_time": 1760250562,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 486136,
@@ -297,6 +297,22 @@
       "onboard_time": 1760193803,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 398639,
+      "num": 398639,
+      "word": "无人岛现巨大垃圾天坑",
+      "onboard_time": 1760248341,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 392476,
+      "num": 176078,
+      "word": "经纪人回应女星抢娜扎休息室",
+      "onboard_time": 1760251100,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 385692,
@@ -443,11 +459,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238527,
-      "num": 238527,
-      "word": "无人岛现巨大垃圾天坑",
-      "onboard_time": 1760248341,
-      "rank": 21,
+      "raw_hot": 242844,
+      "num": 242844,
+      "word": "浙江一住户5楼空心菜垂1楼像瀑布",
+      "onboard_time": 1760249601,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -465,6 +481,14 @@
       "onboard_time": 1760246360,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 225539,
+      "num": 174612,
+      "word": "林允 VOGUE",
+      "onboard_time": 1760250440,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 221044,
@@ -563,6 +587,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 179679,
+      "num": 179679,
+      "word": "法考 李佳",
+      "onboard_time": 1760250200,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 179058,
       "num": 179058,
       "word": "原来你们买衣服不是随便摸摸",
@@ -579,6 +611,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 176908,
+      "num": 160973,
+      "word": "余承恩在舅舅赛道无人能敌",
+      "onboard_time": 1760252600,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176882,
       "num": 176882,
       "word": "男子传保时捷女销冠不雅内容被拘",
@@ -593,14 +633,6 @@
       "onboard_time": 1760230821,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174512,
-      "num": 174512,
-      "word": "林允 VOGUE",
-      "onboard_time": 1760250440,
-      "rank": 33,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 174270,
@@ -625,14 +657,6 @@
       "onboard_time": 1760225477,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 168461,
-      "num": 168461,
-      "word": "浙江一住户5楼空心菜垂1楼像瀑布",
-      "onboard_time": 1760249601,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166999,
@@ -699,6 +723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155577,
+      "num": 155577,
+      "word": "张凌赫 偶遇照拍成情侣照",
+      "onboard_time": 1760252301,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155386,
       "num": 155386,
       "word": "2025还剩80天",
@@ -723,6 +755,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 151163,
+      "num": 151163,
+      "word": "于文文汪苏泷 分手大师转角相遇",
+      "onboard_time": 1760249781,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150452,
+      "num": 150452,
+      "word": "巴方称要像对印度一样回应阿富汗",
+      "onboard_time": 1760252901,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148349,
       "num": 148349,
       "word": "王老吉发文有病去医院有事找法院",
@@ -745,6 +793,22 @@
       "onboard_time": 1760233580,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142061,
+      "num": 142061,
+      "word": "桃黑黑不播盛世天下了",
+      "onboard_time": 1760252120,
+      "rank": 27,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 139979,
+      "num": 139979,
+      "word": "阿富汗巴基斯坦边境深夜激战",
+      "onboard_time": 1760251279,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 137034,
@@ -803,22 +867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128599,
-      "num": 128599,
-      "word": "于文文汪苏泷 分手大师转角相遇",
-      "onboard_time": 1760249781,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 127944,
-      "num": 127944,
-      "word": "经纪人回应女星抢娜扎休息室",
-      "onboard_time": 1760251100,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126095,
       "num": 122074,
       "word": "LPL迎接全球总决赛",
@@ -859,20 +907,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124566,
-      "num": 124566,
-      "word": "阿富汗巴基斯坦边境深夜激战",
-      "onboard_time": 1760251279,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 123053,
-      "num": 123053,
-      "word": "法考 李佳",
-      "onboard_time": 1760250200,
-      "rank": 42,
-      "category": "教育"
+      "raw_hot": 123720,
+      "num": 123720,
+      "word": "官方致歉公交站安装S型护栏",
+      "onboard_time": 1760252721,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122972,
@@ -897,6 +937,14 @@
       "onboard_time": 1760188942,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 120469,
+      "num": 120469,
+      "word": "赵磊回应官宣结婚",
+      "onboard_time": 1760252479,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 120326,
@@ -945,6 +993,14 @@
       "onboard_time": 1760239519,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114090,
+      "num": 114090,
+      "word": "周翊然赛车证件照太帅了",
+      "onboard_time": 1760253021,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 113288,
@@ -1009,6 +1065,14 @@
       "onboard_time": 1760242339,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109257,
+      "num": 109257,
+      "word": "国产循环剧终于不是天崩开局了",
+      "onboard_time": 1760252060,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 108349,
@@ -1147,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92491,
+      "num": 92491,
+      "word": "冰箱贴已经比冰箱贵了",
+      "onboard_time": 1760253620,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92411,
       "num": 92411,
       "word": "恋与深空",
@@ -1171,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91864,
+      "num": 91864,
+      "word": "只有我妈放不下这段感情",
+      "onboard_time": 1760253080,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 91763,
       "num": 91763,
       "word": "雷军回应早前娱乐视频",
@@ -1193,6 +1273,14 @@
       "onboard_time": 1760199741,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91051,
+      "num": 91051,
+      "word": "我家那闺女",
+      "onboard_time": 1760253620,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 89734,
@@ -1273,6 +1361,14 @@
       "onboard_time": 1760187262,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85406,
+      "num": 85406,
+      "word": "法考主观题答案",
+      "onboard_time": 1760253681,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 85259,
@@ -1369,6 +1465,14 @@
       "onboard_time": 1760231120,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 79947,
+      "num": 161395,
+      "word": "张晚意一看在家就没少和姐姐斗嘴",
+      "onboard_time": 1760252479,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 79697,
@@ -1643,6 +1747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49118,
+      "num": 85496,
+      "word": "师傅你一路开你的猪一路掉",
+      "onboard_time": 1760252001,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48742,
       "num": 76573,
       "word": "你刷到的奥运冠军代言可能是假的",
@@ -1793,6 +1905,14 @@
       "onboard_time": 1760207595,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21607,
+      "num": 108758,
+      "word": "S15倒计时2天",
+      "onboard_time": 1760253561,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 20606,
