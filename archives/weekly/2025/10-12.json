@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760276287553,
+  "endTime": 1760278888102,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -107,6 +107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 875209,
+      "num": 1140033,
+      "word": "为什么贷款骚扰电话变少了",
+      "onboard_time": 1760276901,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 810388,
       "num": 307412,
       "word": "孟子义李昀锐广东开机同框",
@@ -121,6 +129,14 @@
       "onboard_time": 1760235020,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 741596,
+      "num": 741596,
+      "word": "获1300万拆迁款被判刑男子发声",
+      "onboard_time": 1760265861,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 717562,
@@ -275,12 +291,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 543355,
+      "num": 212900,
+      "word": "李沛恩娇兰",
+      "onboard_time": 1760274502,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 537672,
       "num": 537672,
       "word": "菲律宾恶意擦碰中国海警船现场视频",
       "onboard_time": 1760264541,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 527468,
+      "num": 211116,
+      "word": "我叫李飞没有脊椎",
+      "onboard_time": 1760273180,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 525204,
@@ -299,12 +331,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 508113,
+      "num": 508113,
+      "word": "法国第一夫人被迫证明自己不是男人",
+      "onboard_time": 1760271561,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 502105,
       "num": 213022,
       "word": "白鹿想染头发",
       "onboard_time": 1760247382,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499640,
+      "num": 209504,
+      "word": "鲁 俺想你了",
+      "onboard_time": 1760277320,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 486136,
@@ -321,14 +369,6 @@
       "onboard_time": 1760213413,
       "rank": 8,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 476075,
-      "num": 476075,
-      "word": "获1300万拆迁款被判刑男子发声",
-      "onboard_time": 1760265861,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 475427,
@@ -419,14 +459,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 428338,
-      "num": 198947,
-      "word": "我叫李飞没有脊椎",
-      "onboard_time": 1760273180,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 426285,
       "num": 518223,
       "word": "聊天这样结尾的人往往很在乎你",
@@ -451,12 +483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 400193,
-      "num": 400193,
-      "word": "法国第一夫人被迫证明自己不是男人",
-      "onboard_time": 1760271561,
-      "rank": 6,
-      "category": "国际时政"
+      "raw_hot": 413741,
+      "num": 208551,
+      "word": "周杰伦患强直性脊柱炎超20年",
+      "onboard_time": 1760277920,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 399335,
@@ -520,14 +552,6 @@
       "word": "这和Angelababy约会有什么区别",
       "onboard_time": 1760256380,
       "rank": 15,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 358720,
-      "num": 194204,
-      "word": "李沛恩娇兰",
-      "onboard_time": 1760274502,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -755,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229270,
+      "num": 201204,
+      "word": "浙江人的短袖已经穿回本了",
+      "onboard_time": 1760274261,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 227100,
       "num": 227100,
       "word": "法考 李佳",
@@ -793,6 +825,14 @@
       "onboard_time": 1760261120,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 220172,
+      "num": 200394,
+      "word": "入戏",
+      "onboard_time": 1760277142,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 217808,
@@ -841,6 +881,14 @@
       "onboard_time": 1760235320,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199595,
+      "num": 199595,
+      "word": "井迪一秒接住了摔倒的糖果",
+      "onboard_time": 1760276901,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 199589,
@@ -1163,6 +1211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152074,
+      "num": 152074,
+      "word": "暗河传",
+      "onboard_time": 1760277441,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151587,
       "num": 151587,
       "word": "没出息火到台湾王世坚本人听傻",
@@ -1203,20 +1259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147279,
+      "num": 147279,
+      "word": "朝鲜阅兵持枪步兵压迫感拉满",
+      "onboard_time": 1760273121,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 146517,
+      "num": 146517,
+      "word": "宴遇永安原著",
+      "onboard_time": 1760276962,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145880,
       "num": 145880,
       "word": "带头下馆子区委书记骑自行车告别",
       "onboard_time": 1760261721,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 145681,
-      "num": 145681,
-      "word": "朝鲜阅兵持枪步兵压迫感拉满",
-      "onboard_time": 1760273121,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 144486,
@@ -1249,14 +1313,6 @@
       "onboard_time": 1760272879,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141673,
-      "num": 141673,
-      "word": "浙江人的短袖已经穿回本了",
-      "onboard_time": 1760274261,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 141417,
@@ -1452,7 +1508,7 @@
     },
     {
       "raw_hot": 123971,
-      "num": 116617,
+      "num": 118632,
       "word": "张杰演唱会",
       "onboard_time": 1760271620,
       "rank": 40,
@@ -1465,6 +1521,14 @@
       "onboard_time": 1760252721,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123265,
+      "num": 123265,
+      "word": "王楚钦有三把刀",
+      "onboard_time": 1760275282,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 123140,
@@ -1489,6 +1553,14 @@
       "onboard_time": 1760262141,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122661,
+      "num": 122661,
+      "word": "张呈直播",
+      "onboard_time": 1760276661,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 122362,
@@ -1585,6 +1657,14 @@
       "onboard_time": 1760273423,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115992,
+      "num": 115992,
+      "word": "应急管理部提醒的保命四件套",
+      "onboard_time": 1760277320,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115531,
@@ -1833,14 +1913,6 @@
       "onboard_time": 1760237719,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105134,
-      "num": 105134,
-      "word": "王楚钦有三把刀",
-      "onboard_time": 1760275282,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 104607,
@@ -2275,6 +2347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86564,
+      "num": 86564,
+      "word": "地震预警爸爸光速跑路差点忘了娃",
+      "onboard_time": 1760278582,
+      "rank": 44,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 86398,
       "num": 86398,
       "word": "月入几万才跑得起马拉松",
@@ -2393,6 +2473,14 @@
       "onboard_time": 1760233400,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82460,
+      "num": 82460,
+      "word": "度过一生的正确打开方式",
+      "onboard_time": 1760278761,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 82332,
@@ -2564,7 +2652,7 @@
     },
     {
       "raw_hot": 75960,
-      "num": 196328,
+      "num": 207146,
       "word": "选冰箱只看低温保鲜你就亏了",
       "onboard_time": 1760274740,
       "rank": 19,
@@ -2883,6 +2971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45431,
+      "num": 205140,
+      "word": "为14亿人治水有多难",
+      "onboard_time": 1760277801,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45111,
       "num": 97161,
       "word": "美政府大裁员第二天说裁错了",
@@ -3041,6 +3137,14 @@
       "onboard_time": 1760207595,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25026,
+      "num": 677074,
+      "word": "这里是中国",
+      "onboard_time": 1760276421,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21607,
