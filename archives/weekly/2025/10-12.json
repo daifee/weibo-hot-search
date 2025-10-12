@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760265595718,
+  "endTime": 1760267990006,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1158407,
-      "num": 199207,
+      "num": 214732,
       "word": "网友偶遇戚薇北大考试",
       "onboard_time": 1760262020,
       "rank": 10,
@@ -307,6 +307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 459974,
+      "num": 459974,
+      "word": "菲律宾恶意擦碰中国海警船现场视频",
+      "onboard_time": 1760264541,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 449347,
       "num": 417320,
       "word": "厦门公安接到台湾民众举报",
@@ -329,6 +337,14 @@
       "onboard_time": 1760240900,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 435092,
+      "num": 208680,
+      "word": "周杰伦发文告别嘉年华巡演",
+      "onboard_time": 1760264240,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 434483,
@@ -627,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230575,
+      "num": 230575,
+      "word": "员工拉桌子碰碎近50个和田玉镯",
+      "onboard_time": 1760261240,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 227100,
       "num": 227100,
       "word": "法考 李佳",
@@ -673,14 +697,6 @@
       "onboard_time": 1760262620,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 212245,
-      "num": 159329,
-      "word": "周杰伦发文告别嘉年华巡演",
-      "onboard_time": 1760264240,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 211341,
@@ -739,12 +755,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 196788,
+      "num": 167577,
+      "word": "对新疆帅哥颜值有了实感",
+      "onboard_time": 1760267359,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 195234,
       "num": 195234,
       "word": "保时捷女销冠晒行政处罚决定书",
       "onboard_time": 1760237120,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 193729,
+      "num": 193729,
+      "word": "吃不吃麻辣烫的都沉默了",
+      "onboard_time": 1760266160,
+      "rank": 15,
+      "category": "美食"
     },
     {
       "raw_hot": 191592,
@@ -769,6 +801,14 @@
       "onboard_time": 1760246721,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185248,
+      "num": 185248,
+      "word": "四川大川镇称震感强烈持续约4秒",
+      "onboard_time": 1760267419,
+      "rank": 16,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 179058,
@@ -833,6 +873,14 @@
       "onboard_time": 1760204419,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171322,
+      "num": 171322,
+      "word": "代号鸢",
+      "onboard_time": 1760266220,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 170241,
@@ -905,6 +953,14 @@
       "onboard_time": 1760259381,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160766,
+      "num": 160766,
+      "word": "获1300万拆迁款被判刑男子发声",
+      "onboard_time": 1760265861,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159713,
@@ -987,14 +1043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151025,
-      "num": 151025,
-      "word": "菲律宾恶意擦碰中国海警船现场视频",
-      "onboard_time": 1760264541,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 150452,
       "num": 162512,
       "word": "巴方称要像对印度一样回应阿富汗",
@@ -1008,14 +1056,6 @@
       "word": "王老吉发文有病去医院有事找法院",
       "onboard_time": 1760180422,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146232,
-      "num": 146232,
-      "word": "员工拉桌子碰碎近50个和田玉镯",
-      "onboard_time": 1760261240,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1043,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142354,
+      "num": 142354,
+      "word": "vivo法务部发文",
+      "onboard_time": 1760267480,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 141417,
       "num": 141417,
       "word": "第一次见逛街是女主拎包的剧",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1760263161,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 138457,
+      "num": 138457,
+      "word": "一个年轻人退学家里蹲啃老七年",
+      "onboard_time": 1760264781,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137190,
@@ -1403,6 +1459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109829,
+      "num": 109829,
+      "word": "苏醒说跟张远在一起了",
+      "onboard_time": 1760267600,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109544,
       "num": 109544,
       "word": "孙颖莎好适合穿亮色",
@@ -1483,6 +1547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105327,
+      "num": 105327,
+      "word": "入青云",
+      "onboard_time": 1760225297,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104607,
       "num": 104607,
       "word": "为什么领导喜欢让下属去沟通",
@@ -1515,6 +1587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 102318,
+      "num": 102318,
+      "word": "女子婚内出轨伴郎以夫妻名义同居生子",
+      "onboard_time": 1760267600,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101593,
       "num": 101593,
       "word": "莲藕汤补气血还不上火",
@@ -1529,6 +1609,14 @@
       "onboard_time": 1760257700,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99997,
+      "num": 99997,
+      "word": "陈昊宇扑面而来的高智感",
+      "onboard_time": 1760267001,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 98944,
@@ -1587,6 +1675,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 95007,
+      "num": 95007,
+      "word": "王楚钦和印度球迷合影签名",
+      "onboard_time": 1760266280,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94880,
       "num": 94880,
       "word": "齐溪二胎是女儿",
@@ -1601,6 +1697,14 @@
       "onboard_time": 1760241438,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 94290,
+      "num": 94290,
+      "word": "仙逆110",
+      "onboard_time": 1760267121,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 94120,
@@ -1657,14 +1761,6 @@
       "onboard_time": 1760253080,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 91852,
-      "num": 91852,
-      "word": "一个年轻人退学家里蹲啃老七年",
-      "onboard_time": 1760264781,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91763,
@@ -1793,6 +1889,14 @@
       "onboard_time": 1760243301,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87330,
+      "num": 87330,
+      "word": "原来黄金回收有这么多套路",
+      "onboard_time": 1760265199,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 87071,
@@ -1936,6 +2040,22 @@
       "word": "男孩次次前十仍遭妈妈质问致抑郁",
       "onboard_time": 1760253983,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81375,
+      "num": 81375,
+      "word": "老一辈最能吃苦的投胎回来了",
+      "onboard_time": 1760266340,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 80986,
+      "num": 80986,
+      "word": "又一地提前供暖",
+      "onboard_time": 1760265500,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -2107,14 +2227,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 72381,
-      "num": 72381,
-      "word": "原来黄金回收有这么多套路",
-      "onboard_time": 1760265199,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 71613,
       "num": 71613,
       "word": "张函瑞变声之路",
@@ -2139,14 +2251,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 70530,
-      "num": 70530,
-      "word": "又一地提前供暖",
-      "onboard_time": 1760265500,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69888,
       "num": 69888,
       "word": "当研究生在外收到导师消息",
@@ -2169,14 +2273,6 @@
       "onboard_time": 1760233400,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68922,
-      "num": 68922,
-      "word": "入青云",
-      "onboard_time": 1760225297,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 68492,
@@ -2257,6 +2353,14 @@
       "onboard_time": 1760183180,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57968,
+      "num": 97119,
+      "word": "晋A99999劳斯莱斯1544000元起拍",
+      "onboard_time": 1760267480,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57895,
@@ -2451,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35987,
+      "num": 97161,
+      "word": "美政府大裁员第二天说裁错了",
+      "onboard_time": 1760267480,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34347,
       "num": 108106,
       "word": "十个勤天粉丝来榜单种地了",
@@ -2489,6 +2601,14 @@
       "onboard_time": 1760207956,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27985,
+      "num": 97654,
+      "word": "陕西一小区塌陷滑坡多车被压",
+      "onboard_time": 1760266821,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26751,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 18:39:55
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/12 19:19:50
 </p>
 </blockquote>
 <p>
@@ -3801,6 +3801,12 @@ TaylorSwift忘了通知EdSheeran订婚（热度：461697）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%81%B6%E6%84%8F%E6%93%A6%E7%A2%B0%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E8%88%B9%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%23" target="weibo">
+菲律宾恶意擦碰中国海警船现场视频（热度：459974）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%93%AD%E8%AF%89%E5%9B%BD%E5%AE%B6%E6%B2%A1%E6%9C%89%E5%AD%98%E5%9C%A8%E6%84%9F%23" target="weibo">
 韩国博主哭诉国家没有存在感（热度：459098）
 </a>
@@ -4079,6 +4085,12 @@ B站崩了（热度：442971）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E5%A6%AE%20%E4%B8%AD%E5%B9%B4%E5%AD%9F%E5%AD%90%E4%B9%89%23" target="weibo">
 闫妮 中年孟子义（热度：435235）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E5%98%89%E5%B9%B4%E5%8D%8E%E5%B7%A1%E6%BC%94%23" target="weibo">
+周杰伦发文告别嘉年华巡演（热度：435092）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ offer7播一半淘汰了三个人（热度：311785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E5%90%8C%E6%84%8F%E9%87%8A%E6%94%BE%E5%85%A8%E9%83%A8%E4%BB%A5%E8%89%B2%E5%88%97%E4%BA%BA%E8%B4%A8%23" target="weibo">
 哈马斯同意释放全部以色列人质（热度：301229）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%BB%B4%E5%A1%94%E8%87%AA%E7%87%83%E5%90%8E%E5%8E%82%E5%AE%B6%E5%9B%9E%E5%BA%94%23" target="weibo">
-阿维塔自燃后厂家回应（热度：300561）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%A5%BD%E4%BA%86%E6%98%AF%E6%9E%97%E7%8E%89%E8%8A%AC%E6%88%91%E4%BB%AC%E6%9C%89%E6%95%91%E4%BA%86%23" target="weibo">
-太好了是林玉芬我们有救了（热度：300228）
 </a>
 </li>
 
