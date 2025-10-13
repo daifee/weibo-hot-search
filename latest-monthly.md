@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 07:36:36
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 09:57:28
 </p>
 </blockquote>
 <p>
@@ -885,6 +885,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A9%E5%BA%9C%E5%A4%A7%E9%81%93%E5%B0%8F%E7%B1%B3%E8%87%AA%E7%87%83%23" target="weibo">
+成都天府大道小米自燃（热度：1077843）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%A5%B6%E8%90%BD%E4%B8%87%E5%A5%B6%E7%94%9F%23" target="weibo">
 一奶落万奶生（热度：1075158）
 </a>
@@ -1403,6 +1409,12 @@ Angelababy公主皇冠（热度：925479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%BB%99%E8%87%AA%E5%B7%B1%E5%81%9A%E4%BA%86%E4%B8%AA%E5%BC%80%E6%B0%B4%E5%A3%B6%E8%9B%8B%E7%B3%95%23" target="weibo">
 肖战给自己做了个开水壶蛋糕（热度：875218）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%23" target="weibo">
+A股（热度：871787）
 </a>
 </li>
 
@@ -4479,6 +4491,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E9%9F%B3%E5%93%8D%E6%95%85%E9%9A%9C%E7%94%A8%E5%96%87%E5%8F%AD%E5%94%B1%E9%80%86%E6%88%98%23" target="weibo">
+张杰演唱会音响故障用喇叭唱逆战（热度：414560）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%B8%89%E5%A4%A7%E5%B9%B3%E5%8F%B0%E7%88%86%E5%89%A7%23" target="weibo">
 今年三大平台爆剧（热度：414442）
 </a>
@@ -5661,6 +5679,12 @@ WTT（热度：332672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%94%BE%E5%81%878%E5%A4%A97%E5%A4%A9%E5%8D%8A%E6%8E%B0%E7%8E%89%E7%B1%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%23" target="weibo">
+放假8天7天半掰玉米大学生回应质疑（热度：323340）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C%E7%83%9F%E8%8A%B1%23" target="weibo">
 南昌烟花（热度：323084）
 </a>
@@ -5987,30 +6011,6 @@ offer7播一半淘汰了三个人（热度：311785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%88%AA%E7%A9%BA%E5%A7%90%E5%85%A8%E9%9D%A2%E6%8D%A2%E7%A9%BF%E5%B9%B3%E5%BA%95%E9%9E%8B%23" target="weibo">
 山航空姐全面换穿平底鞋（热度：310009）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E6%98%AF%E9%AD%94%E4%B8%B8%E5%BC%9F%E5%BC%9F%E5%B0%B1%E6%98%AF%E7%81%B5%E7%8F%A0%23" target="weibo">
-姐姐是魔丸弟弟就是灵珠（热度：309941）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%BA%BA%E8%8A%B1%E8%BF%913%E4%B8%87%E5%9C%A8%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%8A%9E50%E6%A1%8C%E5%A9%9A%E5%AE%B4%23" target="weibo">
-新人花近3万在海底捞办50桌婚宴（热度：309928）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BA%91%E6%88%90%E9%BE%99%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E5%B9%B6%E6%8E%92%E8%A7%82%E8%B5%9B%23" target="weibo">
-马云成龙贝克汉姆并排观赛（热度：309286）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317pro%23" target="weibo">
-小米17pro（热度：309176）
 </a>
 </li>
 
