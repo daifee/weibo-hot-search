@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 23:27:28
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 23:41:09
 </p>
 </blockquote>
 <p>
@@ -2547,6 +2547,12 @@ JDG输越南队（热度：648751）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E6%8A%8A%E7%8E%8B%E8%AF%97%E9%BE%84%E8%8B%B1%E6%96%87%E5%90%8D%E6%8B%BC%E9%94%99%23" target="weibo">
+杜海涛把王诗龄英文名拼错（热度：631604）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E4%B8%8D%E5%90%83%E9%BA%BB%E8%BE%A3%E7%83%AB%E7%9A%84%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23" target="weibo">
 吃不吃麻辣烫的都沉默了（热度：631509）
 </a>
@@ -4019,12 +4025,6 @@ VaVa说自己分手是因为浪姐（热度：480031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E7%9A%93%E8%BE%B0%E5%87%BA%E7%8E%B0%E8%87%AA%E9%97%AD%E7%97%87%E7%8A%B6%23" target="weibo">
 沈皓辰出现自闭症状（热度：474151）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E6%8A%8A%E7%8E%8B%E8%AF%97%E9%BE%84%E8%8B%B1%E6%96%87%E5%90%8D%E6%8B%BC%E9%94%99%23" target="weibo">
-杜海涛把王诗龄英文名拼错（热度：474001）
 </a>
 </li>
 
