@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760338309785,
+  "endTime": 1760340386390,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -209,6 +209,14 @@
       "onboard_time": 1760239519,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 760738,
+      "num": 349069,
+      "word": "长期熬夜刷手机脸和身体垮了",
+      "onboard_time": 1760335642,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 757795,
@@ -579,14 +587,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 449747,
-      "num": 342867,
-      "word": "长期熬夜刷手机脸和身体垮了",
-      "onboard_time": 1760335642,
-      "rank": 3,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 449347,
       "num": 417320,
       "word": "厦门公安接到台湾民众举报",
@@ -795,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359803,
+      "num": 359803,
+      "word": "爸爸看手机婴儿车溜下坡翻车",
+      "onboard_time": 1760336002,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 356214,
       "num": 116073,
       "word": "唐艺昕女儿睫毛好长",
@@ -859,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327161,
+      "num": 228814,
+      "word": "女将军人设很多却火不起来",
+      "onboard_time": 1760335462,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 325061,
       "num": 325061,
       "word": "山航空姐的裤装上线了",
@@ -889,6 +905,14 @@
       "onboard_time": 1760244200,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 319227,
+      "num": 228787,
+      "word": "杨汝晴把王乐晨问懵了",
+      "onboard_time": 1760338401,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 305726,
@@ -1195,6 +1219,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229099,
+      "num": 285247,
+      "word": "张予曦毕雯珺第二",
+      "onboard_time": 1760335161,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 228361,
+      "num": 275488,
+      "word": "树莓小狗的泪痕",
+      "onboard_time": 1760337260,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 227296,
       "num": 186124,
       "word": "苏晓彤对周雨彤贴脸开大",
@@ -1224,14 +1264,6 @@
       "word": "井迪一秒接住了摔倒的糖果",
       "onboard_time": 1760276901,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 224740,
-      "num": 285247,
-      "word": "张予曦毕雯珺第二",
-      "onboard_time": 1760335161,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -1419,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192688,
+      "num": 192688,
+      "word": "竟然人 居然人",
+      "onboard_time": 1760338881,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 191592,
       "num": 139798,
       "word": "华裔女星疑遭同组演员性侵",
@@ -1459,14 +1499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180451,
-      "num": 326650,
-      "word": "爸爸看手机婴儿车溜下坡翻车",
-      "onboard_time": 1760336002,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179619,
       "num": 179619,
       "word": "宴遇永安原著",
@@ -1481,6 +1513,14 @@
       "onboard_time": 1760244801,
       "rank": 24,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 178562,
+      "num": 129479,
+      "word": "乒超总决赛12月底在南京举办",
+      "onboard_time": 1760340202,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 177080,
@@ -1633,6 +1673,14 @@
       "onboard_time": 1760255179,
       "rank": 24,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 161935,
+      "num": 228705,
+      "word": "王牌对王牌能录9季的原因找到了",
+      "onboard_time": 1760339782,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 161444,
@@ -2083,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134727,
+      "num": 134727,
+      "word": "建议贴身衣物不要穿黑色的",
+      "onboard_time": 1760337560,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 134154,
       "num": 134154,
       "word": "MANTAminini联动",
@@ -2163,12 +2219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128317,
-      "num": 128317,
-      "word": "女将军人设很多却火不起来",
-      "onboard_time": 1760335462,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 129240,
+      "num": 228636,
+      "word": "苏新皓 全楼的荣耀",
+      "onboard_time": 1760336661,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 128212,
@@ -2185,14 +2241,6 @@
       "onboard_time": 1760256861,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127770,
-      "num": 275488,
-      "word": "树莓小狗的泪痕",
-      "onboard_time": 1760337260,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 127557,
@@ -2811,14 +2859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110301,
-      "num": 155770,
-      "word": "苏新皓 全楼的荣耀",
-      "onboard_time": 1760336661,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 109997,
       "num": 109997,
       "word": "泰国导游强制消费威胁游客",
@@ -2865,6 +2905,14 @@
       "onboard_time": 1760333722,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109385,
+      "num": 109385,
+      "word": "共同构建保障妇女权益的治理格局",
+      "onboard_time": 1760338641,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109267,
@@ -3187,6 +3235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98237,
+      "num": 98237,
+      "word": "西部黄金再度涨停",
+      "onboard_time": 1760340260,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 97998,
       "num": 97998,
       "word": "周杰伦嘉年华收官场",
@@ -3345,14 +3401,6 @@
       "onboard_time": 1760260281,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 92873,
-      "num": 92873,
-      "word": "建议贴身衣物不要穿黑色的",
-      "onboard_time": 1760337560,
-      "rank": 37,
-      "category": "科学科普"
     },
     {
       "raw_hot": 92797,
@@ -3595,6 +3643,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 87429,
+      "num": 228551,
+      "word": "探访成都小汽车爆燃事发地",
+      "onboard_time": 1760339421,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87362,
       "num": 87362,
       "word": "汪苏泷坚持音乐创作的15年",
@@ -3633,6 +3689,14 @@
       "onboard_time": 1760187262,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86770,
+      "num": 228485,
+      "word": "成都起火汽车曾以极高速度行驶",
+      "onboard_time": 1760339659,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86564,
@@ -3721,6 +3785,22 @@
       "onboard_time": 1760257760,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84255,
+      "num": 82763,
+      "word": "外国女子在广州被外籍男子骚扰",
+      "onboard_time": 1760340260,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84252,
+      "num": 84252,
+      "word": "12306回应卧铺车厢禁止躺卧标识",
+      "onboard_time": 1760339600,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84034,
@@ -3907,6 +3987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81031,
+      "num": 81031,
+      "word": "降温了就学这个三明治穿衣法",
+      "onboard_time": 1760340021,
+      "rank": 41,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 81010,
       "num": 81010,
       "word": "16日前后将有较强冷空气来袭",
@@ -4025,6 +4113,14 @@
       "onboard_time": 1760287698,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 78321,
+      "num": 78321,
+      "word": "马頔又收到新婚祝福了",
+      "onboard_time": 1760340321,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 78263,
@@ -4179,6 +4275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 73984,
+      "num": 73984,
+      "word": "为什么久坐会诱发血栓",
+      "onboard_time": 1760339600,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 73217,
       "num": 87636,
       "word": "震耳欲聋删减片段像线面一样繁殖",
@@ -4227,6 +4331,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 70936,
+      "num": 70936,
+      "word": "刘畊宏谈周杰伦病情曾行走困难",
+      "onboard_time": 1760339841,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 70315,
+      "num": 70315,
+      "word": "终于找到克服洗澡拖延症的方法了",
+      "onboard_time": 1760340141,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69888,
       "num": 69888,
       "word": "当研究生在外收到导师消息",
@@ -4257,6 +4377,14 @@
       "onboard_time": 1760283740,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68928,
+      "num": 68928,
+      "word": "辅导员结婚还在回学生消息",
+      "onboard_time": 1760339481,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 68492,
@@ -4707,12 +4835,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 39758,
+      "num": 84443,
+      "word": "舒淇说她走过的路充满恶意",
+      "onboard_time": 1760339600,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 39102,
       "num": 224127,
       "word": "真正的成熟从接纳孤独开始",
       "onboard_time": 1760246481,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 38909,
+      "num": 72276,
+      "word": "男子扶老人被诬耗时十余日自证清白",
+      "onboard_time": 1760338821,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38584,
@@ -4888,6 +5032,14 @@
       "word": "院士合影成生意有商家报价3万起步",
       "onboard_time": 1760285479,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22223,
+      "num": 84637,
+      "word": "中国游客拯救韩国医美业",
+      "onboard_time": 1760340021,
+      "rank": 37,
       "category": "民生新闻"
     },
     {

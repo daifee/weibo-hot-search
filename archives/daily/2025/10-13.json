@@ -1,6 +1,6 @@
 {
   "startTime": 1760286516759,
-  "endTime": 1760338309785,
+  "endTime": 1760340386390,
   "band_list": [
     {
       "raw_hot": 1613573,
@@ -65,6 +65,14 @@
       "onboard_time": 1760333002,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 760738,
+      "num": 349069,
+      "word": "长期熬夜刷手机脸和身体垮了",
+      "onboard_time": 1760335642,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 757795,
@@ -187,14 +195,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 449747,
-      "num": 342867,
-      "word": "长期熬夜刷手机脸和身体垮了",
-      "onboard_time": 1760335642,
-      "rank": 3,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 435808,
       "num": 225469,
       "word": "相关部门回应天府大道汽车起火",
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 359803,
+      "num": 359803,
+      "word": "爸爸看手机婴儿车溜下坡翻车",
+      "onboard_time": 1760336002,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 344385,
       "num": 202091,
       "word": "鹿晗小卡",
@@ -275,12 +283,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327161,
+      "num": 228814,
+      "word": "女将军人设很多却火不起来",
+      "onboard_time": 1760335462,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323340,
       "num": 323340,
       "word": "放假8天7天半掰玉米大学生回应质疑",
       "onboard_time": 1760279902,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 319227,
+      "num": 228787,
+      "word": "杨汝晴把王乐晨问懵了",
+      "onboard_time": 1760338401,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 306701,
@@ -435,19 +459,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229099,
+      "num": 285247,
+      "word": "张予曦毕雯珺第二",
+      "onboard_time": 1760335161,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 228361,
+      "num": 275488,
+      "word": "树莓小狗的泪痕",
+      "onboard_time": 1760337260,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 227296,
       "num": 186124,
       "word": "苏晓彤对周雨彤贴脸开大",
       "onboard_time": 1760329704,
       "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 224740,
-      "num": 285247,
-      "word": "张予曦毕雯珺第二",
-      "onboard_time": 1760335161,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -515,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192688,
+      "num": 192688,
+      "word": "竟然人 居然人",
+      "onboard_time": 1760338881,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190248,
       "num": 122432,
       "word": "Angelababy跳刀马刀马了",
@@ -555,12 +595,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180451,
-      "num": 326650,
-      "word": "爸爸看手机婴儿车溜下坡翻车",
-      "onboard_time": 1760336002,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 178562,
+      "num": 129479,
+      "word": "乒超总决赛12月底在南京举办",
+      "onboard_time": 1760340202,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 174173,
@@ -601,6 +641,14 @@
       "onboard_time": 1760321479,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 161935,
+      "num": 228705,
+      "word": "王牌对王牌能录9季的原因找到了",
+      "onboard_time": 1760339782,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 161437,
@@ -763,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134727,
+      "num": 134727,
+      "word": "建议贴身衣物不要穿黑色的",
+      "onboard_time": 1760337560,
+      "rank": 37,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 132902,
       "num": 129810,
       "word": "Angelababy看到粉丝哭崩不住了",
@@ -811,12 +867,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 128317,
-      "num": 128317,
-      "word": "女将军人设很多却火不起来",
-      "onboard_time": 1760335462,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 129240,
+      "num": 228636,
+      "word": "苏新皓 全楼的荣耀",
+      "onboard_time": 1760336661,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 128212,
@@ -825,14 +881,6 @@
       "onboard_time": 1760326162,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127770,
-      "num": 275488,
-      "word": "树莓小狗的泪痕",
-      "onboard_time": 1760337260,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 127557,
@@ -1123,14 +1171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110301,
-      "num": 155770,
-      "word": "苏新皓 全楼的荣耀",
-      "onboard_time": 1760336661,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 109997,
       "num": 109997,
       "word": "泰国导游强制消费威胁游客",
@@ -1153,6 +1193,14 @@
       "onboard_time": 1760333722,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109385,
+      "num": 109385,
+      "word": "共同构建保障妇女权益的治理格局",
+      "onboard_time": 1760338641,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109195,
@@ -1259,6 +1307,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 98237,
+      "num": 98237,
+      "word": "西部黄金再度涨停",
+      "onboard_time": 1760340260,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 95875,
       "num": 95875,
       "word": "身体上的喜爱是骗不了人的",
@@ -1321,14 +1377,6 @@
       "onboard_time": 1760337081,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92873,
-      "num": 92873,
-      "word": "建议贴身衣物不要穿黑色的",
-      "onboard_time": 1760337560,
-      "rank": 37,
-      "category": "科学科普"
     },
     {
       "raw_hot": 92797,
@@ -1411,6 +1459,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87429,
+      "num": 228551,
+      "word": "探访成都小汽车爆燃事发地",
+      "onboard_time": 1760339421,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86770,
+      "num": 228485,
+      "word": "成都起火汽车曾以极高速度行驶",
+      "onboard_time": 1760339659,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86045,
       "num": 86045,
       "word": "余承恩震惊果果不是井迪的孩子",
@@ -1425,6 +1489,22 @@
       "onboard_time": 1760320279,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 84255,
+      "num": 82763,
+      "word": "外国女子在广州被外籍男子骚扰",
+      "onboard_time": 1760340260,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84252,
+      "num": 84252,
+      "word": "12306回应卧铺车厢禁止躺卧标识",
+      "onboard_time": 1760339600,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83665,
@@ -1491,6 +1571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81031,
+      "num": 81031,
+      "word": "降温了就学这个三明治穿衣法",
+      "onboard_time": 1760340021,
+      "rank": 41,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 81010,
       "num": 81010,
       "word": "16日前后将有较强冷空气来袭",
@@ -1539,6 +1627,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 78321,
+      "num": 78321,
+      "word": "马頔又收到新婚祝福了",
+      "onboard_time": 1760340321,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77822,
       "num": 88876,
       "word": "美国女子在迪士尼鬼屋被吓死",
@@ -1569,6 +1665,14 @@
       "onboard_time": 1760334802,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 73984,
+      "num": 73984,
+      "word": "为什么久坐会诱发血栓",
+      "onboard_time": 1760339600,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 73869,
@@ -1611,12 +1715,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 70936,
+      "num": 70936,
+      "word": "刘畊宏谈周杰伦病情曾行走困难",
+      "onboard_time": 1760339841,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 70315,
+      "num": 70315,
+      "word": "终于找到克服洗澡拖延症的方法了",
+      "onboard_time": 1760340141,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 69206,
       "num": 88827,
       "word": "青年演员刘昊然青春华章说角色",
       "onboard_time": 1760283740,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68928,
+      "num": 68928,
+      "word": "辅导员结婚还在回学生消息",
+      "onboard_time": 1760339481,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 68408,
@@ -1851,6 +1979,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39758,
+      "num": 84443,
+      "word": "舒淇说她走过的路充满恶意",
+      "onboard_time": 1760339600,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 38909,
+      "num": 72276,
+      "word": "男子扶老人被诬耗时十余日自证清白",
+      "onboard_time": 1760338821,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37903,
       "num": 42654,
       "word": "亚锦赛女团日本1比1朝鲜",
@@ -1936,6 +2080,14 @@
       "word": "院士合影成生意有商家报价3万起步",
       "onboard_time": 1760285479,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22223,
+      "num": 84637,
+      "word": "中国游客拯救韩国医美业",
+      "onboard_time": 1760340021,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
