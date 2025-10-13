@@ -1,6 +1,6 @@
 {
   "startTime": 1760373145920,
-  "endTime": 1760373965865,
+  "endTime": 1760376149927,
   "band_list": [
     {
       "raw_hot": 592408,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196662,
+      "num": 196662,
+      "word": "金毛在宠物馆洗澡后突然死亡",
+      "onboard_time": 1760371519,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183695,
       "num": 183695,
       "word": "山姆配送员电动车挂满大件货物",
@@ -131,15 +139,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115970,
-      "num": 115970,
-      "word": "金毛在宠物馆洗澡后突然死亡",
-      "onboard_time": 1760371519,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109838,
+      "raw_hot": 113727,
       "num": 109838,
       "word": "机构称去年发13万篇论文挣8000万",
       "onboard_time": 1760371460,
@@ -331,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61865,
+      "num": 61865,
+      "word": "邓孝慈演技",
+      "onboard_time": 1760374996,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61704,
       "num": 61704,
       "word": "沉默的荣耀",
@@ -395,12 +403,44 @@
       "category": "数码"
     },
     {
+      "raw_hot": 35381,
+      "num": 43921,
+      "word": "谢霆锋坚持出道几十年无妆造",
+      "onboard_time": 1760358021,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 33473,
       "num": 113696,
       "word": "手持影像大小王走哪儿都是主场",
       "onboard_time": 1760370620,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 31840,
+      "num": 43818,
+      "word": "桃黑黑植物大战僵尸",
+      "onboard_time": 1760370741,
+      "rank": 44,
+      "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 29156,
+      "num": 43789,
+      "word": "英雄联盟主题曲",
+      "onboard_time": 1760361321,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 28618,
+      "num": 43750,
+      "word": "中方回应巴基斯坦向美国赠送稀土",
+      "onboard_time": 1760343682,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3639,
