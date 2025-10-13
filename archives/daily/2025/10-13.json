@@ -1,6 +1,6 @@
 {
   "startTime": 1760286516759,
-  "endTime": 1760360829525,
+  "endTime": 1760362569708,
   "band_list": [
     {
       "raw_hot": 1688988,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 600812,
+      "num": 1096129,
+      "word": "vivo X300价格",
+      "onboard_time": 1760360481,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 600453,
       "num": 293929,
       "word": "竟然人 居然人",
@@ -251,12 +259,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 534710,
+      "raw_hot": 542300,
       "num": 1085553,
       "word": "成都七中校服潮到巴黎时装周",
       "onboard_time": 1760355320,
       "rank": 46,
       "category": "民生新闻,时尚"
+    },
+    {
+      "raw_hot": 522105,
+      "num": 522105,
+      "word": "两男子吃酸汤子中毒警方介入调查",
+      "onboard_time": 1760356881,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 518243,
@@ -363,6 +379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 421519,
+      "num": 421519,
+      "word": "女子过安检丢了90克金手镯",
+      "onboard_time": 1760355501,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 414560,
       "num": 221015,
       "word": "张杰演唱会音响故障用喇叭唱逆战",
@@ -403,12 +427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 391585,
-      "num": 391585,
-      "word": "女子过安检丢了90克金手镯",
-      "onboard_time": 1760355501,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 393228,
+      "num": 239548,
+      "word": "张晚意情商",
+      "onboard_time": 1760356281,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 391282,
@@ -419,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386702,
+      "num": 386702,
+      "word": "王皓坐下王楚钦开始指导",
+      "onboard_time": 1760360361,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 379121,
       "num": 186136,
       "word": "余景天 我连女孩子手都没牵过",
@@ -427,12 +459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 348070,
-      "num": 348070,
-      "word": "两男子吃酸汤子中毒警方介入调查",
-      "onboard_time": 1760356881,
-      "rank": 6,
-      "category": "民生新闻"
+      "raw_hot": 348082,
+      "num": 348082,
+      "word": "亚锦赛撤下台湾地区伪旗",
+      "onboard_time": 1760360421,
+      "rank": 17,
+      "category": "国内时政,体育"
     },
     {
       "raw_hot": 345669,
@@ -451,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 341541,
-      "num": 239548,
-      "word": "张晚意情商",
-      "onboard_time": 1760356281,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 339166,
       "num": 339166,
       "word": "丝袜奶茶 真有丝袜",
@@ -468,7 +492,7 @@
     },
     {
       "raw_hot": 336609,
-      "num": 169690,
+      "num": 196343,
       "word": "加微信一定要别人扫我",
       "onboard_time": 1760348481,
       "rank": 34,
@@ -489,6 +513,14 @@
       "onboard_time": 1760350281,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 323766,
+      "num": 207158,
+      "word": "王楚钦在印度真的很小心",
+      "onboard_time": 1760361802,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 323340,
@@ -723,14 +755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 249031,
-      "num": 182847,
-      "word": "王皓坐下王楚钦开始指导",
-      "onboard_time": 1760360361,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 246320,
       "num": 246320,
       "word": "林诗栋2比3法拉吉",
@@ -827,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 217872,
+      "num": 192259,
+      "word": "王楚钦11比0",
+      "onboard_time": 1760362462,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210575,
       "num": 214851,
       "word": "你好种地少年3",
@@ -843,12 +875,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 204490,
+      "num": 204490,
+      "word": "爸爸当家旅行团综大预告",
+      "onboard_time": 1760361022,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204007,
       "num": 156703,
       "word": "王俊凯聚星名人赛中场秀嘉宾",
       "onboard_time": 1760353641,
       "rank": 10,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 203493,
+      "num": 191751,
+      "word": "iphoneair本周预购",
+      "onboard_time": 1760361621,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 203390,
@@ -875,6 +923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 198222,
+      "num": 198222,
+      "word": "阴阳师",
+      "onboard_time": 1760362101,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 197818,
       "num": 197818,
       "word": "宋亚轩0帧起手技能五子棋",
@@ -891,6 +947,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 196590,
+      "num": 196590,
+      "word": "英雄联盟主题曲",
+      "onboard_time": 1760361321,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194324,
       "num": 194324,
       "word": "长安二十四计人物介绍",
@@ -905,6 +969,14 @@
       "onboard_time": 1760329944,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190711,
+      "num": 190711,
+      "word": "陈都灵居然是93年的",
+      "onboard_time": 1760358561,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 190248,
@@ -955,14 +1027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178610,
-      "num": 169027,
-      "word": "陈都灵居然是93年的",
-      "onboard_time": 1760358561,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 178562,
       "num": 129479,
       "word": "乒超总决赛12月底在南京举办",
@@ -1009,14 +1073,6 @@
       "onboard_time": 1760360421,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171095,
-      "num": 171095,
-      "word": "亚锦赛撤下台湾地区伪旗",
-      "onboard_time": 1760360421,
-      "rank": 17,
-      "category": "国内时政,体育"
     },
     {
       "raw_hot": 170374,
@@ -1091,6 +1147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163690,
+      "num": 163690,
+      "word": "西安下了1个多月雨后遍地长蘑菇",
+      "onboard_time": 1760359041,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163043,
       "num": 163043,
       "word": "王楚钦vs霍戴伊",
@@ -1105,6 +1169,14 @@
       "onboard_time": 1760331982,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159833,
+      "num": 159833,
+      "word": "祝绪丹把额头露出来大大方方的",
+      "onboard_time": 1760362221,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 159286,
@@ -1129,6 +1201,14 @@
       "onboard_time": 1760332043,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158145,
+      "num": 158145,
+      "word": "王楚钦正手强行变直线",
+      "onboard_time": 1760361442,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 157604,
@@ -1195,6 +1275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151641,
+      "num": 151641,
+      "word": "鲁豫坐飞机遇乘客要刘德华签名照",
+      "onboard_time": 1760361921,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146639,
       "num": 90357,
       "word": "陈泽下播",
@@ -1227,6 +1315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145426,
+      "num": 145426,
+      "word": "谁懂梁靖崑转身就走的救赎感",
+      "onboard_time": 1760361682,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143236,
       "num": 143236,
       "word": "黄河将出现2025年第1号洪水",
@@ -1257,6 +1353,14 @@
       "onboard_time": 1760351781,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140382,
+      "num": 140382,
+      "word": "孕妇不舒服蹲在商场遭保安驱赶",
+      "onboard_time": 1760360301,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139171,
@@ -1379,12 +1483,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131822,
-      "num": 131822,
-      "word": "vivo X300价格",
-      "onboard_time": 1760360481,
-      "rank": 28,
-      "category": "数码"
+      "raw_hot": 132248,
+      "num": 132248,
+      "word": "中国驻印度大使馆严正发声",
+      "onboard_time": 1760361142,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132098,
+      "num": 132098,
+      "word": "林俊杰浴袍",
+      "onboard_time": 1760360902,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 131559,
@@ -1436,7 +1548,7 @@
     },
     {
       "raw_hot": 128511,
-      "num": 169810,
+      "num": 208041,
       "word": "vivo发布会来了这么多科技圈大佬",
       "onboard_time": 1760360541,
       "rank": 20,
@@ -1507,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125971,
+      "num": 125971,
+      "word": "赵丽颖直播状态",
+      "onboard_time": 1760362221,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125595,
       "num": 125595,
       "word": "井迪一秒接住了摔倒的糖果",
@@ -1537,6 +1657,14 @@
       "onboard_time": 1760330005,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124123,
+      "num": 124123,
+      "word": "林诗栋11比3阿拉米扬",
+      "onboard_time": 1760362401,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 123890,
@@ -1681,6 +1809,14 @@
       "onboard_time": 1760332102,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 118603,
+      "num": 118603,
+      "word": "蒯曼vs吉尼帕",
+      "onboard_time": 1760361682,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 117953,
@@ -1841,22 +1977,6 @@
       "onboard_time": 1760313078,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 110996,
-      "num": 110996,
-      "word": "孕妇不舒服蹲在商场遭保安驱赶",
-      "onboard_time": 1760360301,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 110699,
-      "num": 110699,
-      "word": "西安下了1个多月雨后遍地长蘑菇",
-      "onboard_time": 1760359041,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110673,
@@ -2451,6 +2571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86150,
+      "num": 159875,
+      "word": "大使馆回应亚锦赛错误旗帜事件",
+      "onboard_time": 1760361442,
+      "rank": 29,
+      "category": "国内时政,体育"
+    },
+    {
       "raw_hot": 86045,
       "num": 86045,
       "word": "余承恩震惊果果不是井迪的孩子",
@@ -2995,6 +3123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59839,
+      "num": 160496,
+      "word": "一部vivo撬动所有全家桶",
+      "onboard_time": 1760360842,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 55221,
       "num": 55221,
       "word": "时代少年团主厨竞争食材抢夺",
@@ -3148,7 +3284,7 @@
     },
     {
       "raw_hot": 39713,
-      "num": 105041,
+      "num": 132118,
       "word": "vivoX300一张照片裁出电影感",
       "onboard_time": 1760360541,
       "rank": 39,
