@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760388020053,
+  "endTime": 1760390576527,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -43571,6 +43571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14311,
+      "num": 16349,
+      "word": "狗狗真心碎了一地",
+      "onboard_time": 1760387955,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 14287,
       "num": 26364,
       "word": "网红阿霞出海遇难丈夫发声",
@@ -43665,6 +43673,14 @@
       "onboard_time": 1760039775,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13282,
+      "num": 18163,
+      "word": "比伯海莉周年旅行照",
+      "onboard_time": 1760386574,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 13118,
@@ -43843,14 +43859,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 10411,
-      "num": 18163,
-      "word": "比伯海莉周年旅行照",
-      "onboard_time": 1760386574,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 10245,
       "num": 104678,
       "word": "去澳门看丝路展一眼千年",
@@ -43881,14 +43889,6 @@
       "onboard_time": 1760171840,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9640,
-      "num": 16263,
-      "word": "狗狗真心碎了一地",
-      "onboard_time": 1760387955,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 9533,
