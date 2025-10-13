@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760329861966,
+  "endTime": 1760330659891,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -9,6 +9,14 @@
       "onboard_time": 1760250799,
       "rank": 0,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1613573,
+      "num": 1613573,
+      "word": "小红书崩了",
+      "onboard_time": 1760329043,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 1448521,
@@ -25,14 +33,6 @@
       "onboard_time": 1760229739,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1335068,
-      "num": 1335068,
-      "word": "小红书崩了",
-      "onboard_time": 1760329043,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 1327731,
@@ -891,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285979,
+      "num": 180508,
+      "word": "衣服阴干那种臭味怎么除掉",
+      "onboard_time": 1760328864,
+      "rank": 17,
+      "category": "议题讨论,休闲"
+    },
+    {
       "raw_hot": 284688,
       "num": 245635,
       "word": "被74岁刘銮雄的气场震着了",
@@ -921,6 +929,14 @@
       "onboard_time": 1760318840,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 272718,
+      "num": 148163,
+      "word": "十年前的招聘要求",
+      "onboard_time": 1760329284,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 272453,
@@ -979,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261298,
+      "num": 199972,
+      "word": "外卖员 你还有时间拍照是吗",
+      "onboard_time": 1760325021,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 257619,
       "num": 257619,
       "word": "长期吃面vs长期吃米",
@@ -993,14 +1017,6 @@
       "onboard_time": 1760318898,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 256069,
-      "num": 199972,
-      "word": "外卖员 你还有时间拍照是吗",
-      "onboard_time": 1760325021,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 251998,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1760229919,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246164,
+      "num": 196956,
+      "word": "47岁的刘烨",
+      "onboard_time": 1760325021,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 245412,
@@ -1073,14 +1097,6 @@
       "onboard_time": 1760246360,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 226997,
-      "num": 196956,
-      "word": "47岁的刘烨",
-      "onboard_time": 1760325021,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 226065,
@@ -1195,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200899,
+      "num": 194207,
+      "word": "过度负责 傲慢懦弱",
+      "onboard_time": 1760325922,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200497,
       "num": 200497,
       "word": "舒淇尹浩宇 姐狗",
@@ -1251,12 +1275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194207,
-      "num": 194207,
-      "word": "过度负责 傲慢懦弱",
-      "onboard_time": 1760325922,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 192809,
+      "num": 134356,
+      "word": "4女6男谈出7段情",
+      "onboard_time": 1760329944,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 191592,
@@ -1297,14 +1321,6 @@
       "onboard_time": 1760326822,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180508,
-      "num": 180508,
-      "word": "衣服阴干那种臭味怎么除掉",
-      "onboard_time": 1760328864,
-      "rank": 17,
-      "category": "议题讨论,休闲"
     },
     {
       "raw_hot": 179619,
@@ -1675,14 +1691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147612,
-      "num": 119828,
-      "word": "十年前的招聘要求",
-      "onboard_time": 1760329284,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147279,
       "num": 147279,
       "word": "朝鲜阅兵持枪步兵压迫感拉满",
@@ -1721,6 +1729,14 @@
       "onboard_time": 1760249540,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 143942,
+      "num": 143942,
+      "word": "苏晓彤对周雨彤贴脸开大",
+      "onboard_time": 1760329704,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 143236,
@@ -1785,6 +1801,14 @@
       "onboard_time": 1760274740,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139360,
+      "num": 139360,
+      "word": "余景天 我连女孩子手都没牵过",
+      "onboard_time": 1760330303,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 138936,
@@ -1913,6 +1937,14 @@
       "onboard_time": 1760272159,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132902,
+      "num": 126569,
+      "word": "Angelababy看到粉丝哭崩不住了",
+      "onboard_time": 1760328984,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 132892,
@@ -2075,6 +2107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124143,
+      "num": 124143,
+      "word": "李沁打戏",
+      "onboard_time": 1760330005,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123971,
       "num": 118632,
       "word": "张杰演唱会",
@@ -2179,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121459,
+      "num": 121459,
+      "word": "老板说第一次短袖生意做了7个月",
+      "onboard_time": 1760330005,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121245,
       "num": 121245,
       "word": "花开中国MV致敬女性力量",
@@ -2241,6 +2289,14 @@
       "onboard_time": 1760275099,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119200,
+      "num": 119200,
+      "word": "包钢股份涨停",
+      "onboard_time": 1760330245,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 119160,
@@ -2699,6 +2755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105145,
+      "num": 105145,
+      "word": "挨家通报停火的巴勒斯坦记者被枪杀",
+      "onboard_time": 1760329763,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 104607,
       "num": 104607,
       "word": "为什么领导喜欢让下属去沟通",
@@ -2947,14 +3011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95008,
-      "num": 102448,
-      "word": "苏晓彤对周雨彤贴脸开大",
-      "onboard_time": 1760329704,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95007,
       "num": 95007,
       "word": "王楚钦和印度球迷合影签名",
@@ -2979,28 +3035,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 94578,
-      "num": 94578,
-      "word": "Angelababy看到粉丝哭崩不住了",
-      "onboard_time": 1760328984,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 94340,
       "num": 94340,
       "word": "花海直播",
       "onboard_time": 1760268321,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 94319,
-      "num": 94319,
-      "word": "挨家通报停火的巴勒斯坦记者被枪杀",
-      "onboard_time": 1760329763,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 94120,
@@ -3073,6 +3113,14 @@
       "onboard_time": 1760196922,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 91977,
+      "num": 91977,
+      "word": "洗脸巾 毛巾",
+      "onboard_time": 1760330543,
+      "rank": 43,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 91864,
@@ -3232,6 +3280,14 @@
       "word": "周深合肥演唱会座位图好圆",
       "onboard_time": 1760271382,
       "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 87588,
+      "num": 87588,
+      "word": "小品界又多了一位女歌手",
+      "onboard_time": 1760330603,
+      "rank": 47,
       "category": "演出"
     },
     {
@@ -3787,6 +3843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 72420,
+      "num": 103953,
+      "word": "西贝成立新公司卖预包装食品",
+      "onboard_time": 1760329524,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72351,
       "num": 72351,
       "word": "这个动物医院实在是太热闹了",
@@ -3817,14 +3881,6 @@
       "onboard_time": 1760231059,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 70041,
-      "num": 102183,
-      "word": "西贝成立新公司卖预包装食品",
-      "onboard_time": 1760329524,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69888,
@@ -4241,6 +4297,14 @@
       "onboard_time": 1760311821,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 42946,
+      "num": 104040,
+      "word": "司法部曝光一地设罚款指标",
+      "onboard_time": 1760330543,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41998,
