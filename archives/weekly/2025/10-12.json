@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760352324638,
+  "endTime": 1760354535752,
   "band_list": [
     {
       "raw_hot": 1688988,
@@ -307,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 685032,
+      "num": 685032,
+      "word": "莫言自曝刷短视频成瘾",
+      "onboard_time": 1760350281,
+      "rank": 25,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 674573,
       "num": 282356,
       "word": "马思纯 自然得像没搞一样",
@@ -483,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 556723,
+      "num": 556723,
+      "word": "日本大街天降老鼠伤人",
+      "onboard_time": 1760347522,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 553388,
       "num": 455121,
       "word": "黄金",
@@ -609,14 +625,6 @@
       "onboard_time": 1760230340,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 484631,
-      "num": 484631,
-      "word": "日本大街天降老鼠伤人",
-      "onboard_time": 1760347522,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 478728,
@@ -995,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 329660,
+      "num": 180814,
+      "word": "中方回应荷兰政府对安世半导体下手",
+      "onboard_time": 1760350281,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 325061,
       "num": 325061,
       "word": "山航空姐的裤装上线了",
@@ -1291,20 +1307,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262918,
+      "num": 262918,
+      "word": "NBA",
+      "onboard_time": 1760351301,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261298,
       "num": 199972,
       "word": "外卖员 你还有时间拍照是吗",
       "onboard_time": 1760325021,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 260589,
-      "num": 260589,
-      "word": "NBA",
-      "onboard_time": 1760351301,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 257619,
@@ -1563,20 +1579,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209463,
-      "num": 209463,
-      "word": "莫言自曝刷短视频成瘾",
-      "onboard_time": 1760350281,
-      "rank": 25,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 206111,
       "num": 206111,
       "word": "外交部回应美方关税威胁",
       "onboard_time": 1760345481,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 204007,
+      "num": 156703,
+      "word": "王俊凯聚星名人赛中场秀嘉宾",
+      "onboard_time": 1760353641,
+      "rank": 10,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 201729,
@@ -1721,14 +1737,6 @@
       "onboard_time": 1760326822,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180814,
-      "num": 180814,
-      "word": "中方回应荷兰政府对安世半导体下手",
-      "onboard_time": 1760350281,
-      "rank": 23,
-      "category": "国内时政"
     },
     {
       "raw_hot": 179619,
@@ -2107,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153849,
+      "num": 153849,
+      "word": "vivo发布会",
+      "onboard_time": 1760354241,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 153475,
       "num": 153475,
       "word": "北方秋裤穿了脱脱了穿",
@@ -2163,12 +2179,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151128,
+      "num": 151128,
+      "word": "全运会宣传片樊振东打头阵",
+      "onboard_time": 1760353641,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150452,
       "num": 162512,
       "word": "巴方称要像对印度一样回应阿富汗",
       "onboard_time": 1760252901,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 149829,
+      "num": 137038,
+      "word": "孙乐言最甜的脸跳最刚的舞",
+      "onboard_time": 1760351842,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 149498,
@@ -2355,14 +2387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137038,
-      "num": 137038,
-      "word": "孙乐言最甜的脸跳最刚的舞",
-      "onboard_time": 1760351842,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137034,
       "num": 113651,
       "word": "许凯开机",
@@ -2507,6 +2531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132047,
+      "num": 123153,
+      "word": "东北连自闭症都这么大大方方的",
+      "onboard_time": 1760351721,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131559,
       "num": 131559,
       "word": "咪的臀翘到可以顶起一瓶汽水",
@@ -2521,6 +2553,14 @@
       "onboard_time": 1760274142,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130674,
+      "num": 122398,
+      "word": "纪伯宰把明意吻出血了",
+      "onboard_time": 1760352561,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 130651,
@@ -2545,6 +2585,14 @@
       "onboard_time": 1760246840,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129964,
+      "num": 124691,
+      "word": "林诗栋vs法拉吉",
+      "onboard_time": 1760353579,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 128958,
@@ -2665,6 +2713,14 @@
       "onboard_time": 1760333242,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124729,
+      "num": 124729,
+      "word": "多地考公考编年龄放宽至38岁或43岁",
+      "onboard_time": 1760352621,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124714,
@@ -2849,6 +2905,14 @@
       "onboard_time": 1760279361,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120981,
+      "num": 120981,
+      "word": "亚锦赛",
+      "onboard_time": 1760183180,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 120718,
@@ -3283,6 +3347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109843,
+      "num": 167491,
+      "word": "被问及中国特朗普急了",
+      "onboard_time": 1760351482,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109829,
       "num": 109829,
       "word": "苏醒说跟张远在一起了",
@@ -3443,12 +3515,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 105825,
-      "num": 105825,
-      "word": "东北连自闭症都这么大大方方的",
-      "onboard_time": 1760351721,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 105821,
+      "num": 105821,
+      "word": "店家笑了半小时才开始做",
+      "onboard_time": 1760352981,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 105740,
@@ -3731,6 +3803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98283,
+      "num": 98283,
+      "word": "库克中国首站为labubu庆生",
+      "onboard_time": 1760353820,
+      "rank": 41,
+      "category": "互联网,休闲"
+    },
+    {
       "raw_hot": 97998,
       "num": 97998,
       "word": "周杰伦嘉年华收官场",
@@ -3777,6 +3857,14 @@
       "onboard_time": 1760262201,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96271,
+      "num": 96271,
+      "word": "王宁送库克labubu",
+      "onboard_time": 1760354301,
+      "rank": 42,
+      "category": "互联网,休闲"
     },
     {
       "raw_hot": 96257,
@@ -3873,6 +3961,14 @@
       "onboard_time": 1760271501,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 93906,
+      "num": 122162,
+      "word": "我国成功发射试验三十一号卫星",
+      "onboard_time": 1760352741,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 93744,
@@ -4595,6 +4691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80857,
+      "num": 80857,
+      "word": "梁靖崑vs阿拉米扬",
+      "onboard_time": 1760353881,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80838,
       "num": 80838,
       "word": "时装周最亮眼艺人",
@@ -4688,6 +4792,14 @@
       "word": "DK无缘ASI冠军",
       "onboard_time": 1760318600,
       "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 78688,
+      "num": 78688,
+      "word": "DRG对战EDGM",
+      "onboard_time": 1760353280,
+      "rank": 49,
       "category": "电竞"
     },
     {
@@ -5067,6 +5179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 67195,
+      "num": 98465,
+      "word": "韩国民调六成人反对四天半工作制",
+      "onboard_time": 1760353520,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 67149,
       "num": 76623,
       "word": "张靓颖报平安",
@@ -5203,14 +5323,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 59612,
-      "num": 76589,
-      "word": "亚锦赛",
-      "onboard_time": 1760183180,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 57895,
       "num": 76587,
       "word": "极氪001",
@@ -5265,14 +5377,6 @@
       "onboard_time": 1760311577,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 53983,
-      "num": 167491,
-      "word": "被问及中国特朗普急了",
-      "onboard_time": 1760351482,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 53638,
@@ -5409,6 +5513,14 @@
       "onboard_time": 1760249180,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45739,
+      "num": 613036,
+      "word": "特区之特",
+      "onboard_time": 1760349020,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 45111,
@@ -5619,20 +5731,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36018,
-      "num": 470423,
-      "word": "特区之特",
-      "onboard_time": 1760349020,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 34347,
       "num": 108106,
       "word": "十个勤天粉丝来榜单种地了",
       "onboard_time": 1760251041,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33064,
+      "num": 98404,
+      "word": "vivo还是太听劝了",
+      "onboard_time": 1760353339,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 32285,
@@ -5893,6 +6005,9 @@
     },
     {
       "word": "#习近平出席全球妇女峰会开幕式#"
+    },
+    {
+      "word": "#2025年全球妇女峰会#"
     }
   ]
 }
