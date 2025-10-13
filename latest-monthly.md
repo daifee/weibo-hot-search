@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 20:52:35
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 21:07:09
 </p>
 </blockquote>
 <p>
@@ -4941,6 +4941,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%87%E5%AE%89%E6%A3%80%E4%B8%A2%E4%BA%8690%E5%85%8B%E9%87%91%E6%89%8B%E9%95%AF%23" target="weibo">
+女子过安检丢了90克金手镯（热度：391585）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E9%99%8D%E6%B8%A9%23" target="weibo">
 南方降温（热度：391282）
 </a>
@@ -5553,6 +5559,12 @@ iPhone17系列激活量曝光（热度：374659）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E7%94%B7%E5%AD%90%E5%90%83%E9%85%B8%E6%B1%A4%E5%AD%90%E4%B8%AD%E6%AF%92%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%23" target="weibo">
+两男子吃酸汤子中毒警方介入调查（热度：348070）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23WBG%E9%9B%B6%E5%B0%81DK%23" target="weibo">
 WBG零封DK（热度：347907）
 </a>
@@ -5999,18 +6011,6 @@ WTT（热度：332672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E4%BB%A3%E7%9F%B3%E5%88%BB%20%E7%A6%81%E6%AD%A2%E6%97%A9%E5%A9%9A%23" target="weibo">
 明代石刻 禁止早婚（热度：321490）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%23" target="weibo">
-TF家族（热度：321156）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%85%9C%E4%B8%9C%20%E7%BB%99%E5%A4%A7%E5%AE%B6%E8%AF%B4%E4%B8%AA%E5%A5%BD%E6%B6%88%E6%81%AF%23" target="weibo">
-李煜东 给大家说个好消息（热度：320543）
 </a>
 </li>
 
