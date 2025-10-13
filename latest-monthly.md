@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 15:39:42
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 16:36:19
 </p>
 </blockquote>
 <p>
@@ -653,6 +653,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%9A8%E7%A7%92%E4%B8%8B%E9%AB%98%E9%80%9F%E8%A2%AB%E6%94%B6500%E5%85%83%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
 晚8秒下高速被收500元男子发声（热度：1204787）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%BA%9C%E5%A4%A7%E9%81%93%E8%BD%A6%E7%A5%B8%E7%B3%BB%E9%85%92%E9%A9%BE%E4%BA%8B%E6%95%85%23" target="weibo">
+天府大道车祸系酒驾事故（热度：1204073）
 </a>
 </li>
 
@@ -2553,6 +2559,12 @@ JDG战胜狼队（热度：630844）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B8%80%E8%BD%A6%E8%BE%86%E5%A4%B1%E6%8E%A7%E5%90%8E%E8%B5%B7%E7%81%AB%23" target="weibo">
+成都警方通报一车辆失控后起火（热度：621945）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9A%96%E6%9A%96%E7%A6%BB%E5%A9%9A%E6%A1%88%E6%8E%A8%E5%8A%A8%E5%88%B6%E5%BA%A6%E8%BF%9B%E6%AD%A5%23" target="weibo">
 王暖暖离婚案推动制度进步（热度：621336）
 </a>
@@ -2907,6 +2919,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%9F%E7%84%B6%E4%BA%BA%20%E5%B1%85%E7%84%B6%E4%BA%BA%23" target="weibo">
+竟然人 居然人（热度：575732）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E4%BA%86%E9%9A%90%E7%BF%85%E8%99%AB%23" target="weibo">
 发现了隐翅虫（热度：572264）
 </a>
@@ -3197,6 +3215,12 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%AE%97%E9%A6%A5%E8%8E%89%E6%AD%A3%E5%B8%B8%E4%B8%8A%E7%8F%AD%23" target="weibo">
 知情人士称宗馥莉正常上班（热度：539592）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%91%E7%BE%8E%E5%9B%BD%E8%B5%A0%E9%80%81%E7%A8%80%E5%9C%9F%23" target="weibo">
+中方回应巴基斯坦向美国赠送稀土（热度：538970）
 </a>
 </li>
 
@@ -4593,6 +4617,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%96%E6%B6%88%E8%80%B3%E6%9C%BA%E5%AD%94%E7%9A%84%E7%AE%80%E7%9B%B4%E6%98%AF%E8%A0%A2%E8%B4%A7%23" target="weibo">
+第一个取消耳机孔的简直是蠢货（热度：415150）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E9%9F%B3%E5%93%8D%E6%95%85%E9%9A%9C%E7%94%A8%E5%96%87%E5%8F%AD%E5%94%B1%E9%80%86%E6%88%98%23" target="weibo">
 张杰演唱会音响故障用喇叭唱逆战（热度：414560）
 </a>
@@ -5021,6 +5051,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E8%B5%9B%E5%90%8E%E7%94%9F%E6%B0%94%E4%BA%86%23" target="weibo">
 林诗栋赛后生气了（热度：378133）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%A4%AA%E5%BC%BA%E4%BA%86%23" target="weibo">
+A股太强了（热度：378053）
 </a>
 </li>
 
@@ -5975,42 +6011,6 @@ TF家族（热度：321156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23MiuMiu%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23" target="weibo">
 MiuMiu巴黎时装周（热度：318258）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%942%E9%9B%B7%E5%BE%B7%E9%BD%90%E5%A7%86%E6%96%AF%E5%9F%BA%23" target="weibo">
-王楚钦3比2雷德齐姆斯基（热度：318182）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%A0%94%20%E6%9D%8E%E7%BA%AF%E7%9C%9F%E5%A5%BD%E7%9C%8B%E5%91%80%23" target="weibo">
-马頔 李纯真好看呀（热度：318091）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%BD%E4%B8%8D%E8%83%BD%E7%A6%81%E6%AD%A2%E6%97%A5%E6%9C%AC%E4%BA%BA%E7%94%BB%E4%B8%AD%E5%8D%8E%E9%A3%8E%23" target="weibo">
-能不能禁止日本人画中华风（热度：317764）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B095%E5%9B%9B%E5%B0%8F%E8%8A%B1%E6%97%A6%23" target="weibo">
-新95四小花旦（热度：317496）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E5%8A%A0%E6%80%BB%E7%90%86%E9%9D%A2%E6%8F%90%E5%90%9E%E5%B9%B6%E5%8A%A0%E6%8B%BF%E5%A4%A7%23" target="weibo">
-特朗普当加总理面提吞并加拿大（热度：317417）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E7%9A%84%E4%BA%BA%E4%B8%8D%E8%A6%81%E7%95%99%E9%95%BF%E5%8F%91%23" target="weibo">
-建议气血不足的人不要留长发（热度：317064）
 </a>
 </li>
 
