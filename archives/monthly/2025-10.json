@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760355448635,
+  "endTime": 1760359955192,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -3155,6 +3155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 654514,
+      "num": 243034,
+      "word": "赵丽颖直播",
+      "onboard_time": 1760355681,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 654400,
       "num": 211525,
       "word": "奥斯卡孙乐言 现实版许我耀眼",
@@ -3803,6 +3811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 588481,
+      "num": 242051,
+      "word": "金龟子女儿自曝二胎流产",
+      "onboard_time": 1760355381,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 587904,
       "num": 193603,
       "word": "陈震车祸受伤司机家属发声",
@@ -4401,6 +4417,14 @@
       "onboard_time": 1759308261,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 534710,
+      "num": 1085553,
+      "word": "成都七中校服潮到巴黎时装周",
+      "onboard_time": 1760355320,
+      "rank": 46,
+      "category": "民生新闻,时尚"
     },
     {
       "raw_hot": 533884,
@@ -7531,6 +7555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 341541,
+      "num": 239548,
+      "word": "张晚意情商",
+      "onboard_time": 1760356281,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341175,
       "num": 192984,
       "word": "小酒窝 我喜欢宋亚轩",
@@ -8033,6 +8065,14 @@
       "onboard_time": 1759707797,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 318742,
+      "num": 237723,
+      "word": "嘎子谢孟伟被执行超1400万",
+      "onboard_time": 1760355560,
+      "rank": 13,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 318690,
@@ -8713,6 +8753,14 @@
       "onboard_time": 1759379002,
       "rank": 23,
       "category": "游戏,电影"
+    },
+    {
+      "raw_hot": 296254,
+      "num": 296254,
+      "word": "女子过安检丢了90克金手镯",
+      "onboard_time": 1760355501,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 296176,
@@ -10331,6 +10379,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246576,
+      "num": 246576,
+      "word": "两男子吃酸汤子中毒警方介入调查",
+      "onboard_time": 1760356881,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246320,
+      "num": 246320,
+      "word": "林诗栋2比3法拉吉",
+      "onboard_time": 1760355441,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246164,
       "num": 196956,
       "word": "47岁的刘烨",
@@ -10673,6 +10737,14 @@
       "onboard_time": 1759932080,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237184,
+      "num": 237184,
+      "word": "一笑随歌好虐",
+      "onboard_time": 1760356460,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 237025,
@@ -12321,6 +12393,14 @@
       "onboard_time": 1759914980,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202323,
+      "num": 202323,
+      "word": "王楚钦抱紧了头",
+      "onboard_time": 1760358261,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 202310,
@@ -15819,6 +15899,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 167044,
+      "num": 153876,
+      "word": "陈都灵居然是93年的",
+      "onboard_time": 1760358561,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167015,
       "num": 167015,
       "word": "向太 年轻人没有资格躺平",
@@ -17515,6 +17603,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153928,
+      "num": 153928,
+      "word": "孙乐言最甜的脸跳最刚的舞",
+      "onboard_time": 1760351842,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 153869,
+      "num": 153869,
+      "word": "Angelababy一把抱住要摔倒的粉丝",
+      "onboard_time": 1760356702,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153792,
       "num": 153792,
       "word": "曝方媛已产下第三胎",
@@ -17985,14 +18089,6 @@
       "onboard_time": 1759892841,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 149829,
-      "num": 137038,
-      "word": "孙乐言最甜的脸跳最刚的舞",
-      "onboard_time": 1760351842,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 149813,
@@ -18467,6 +18563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146459,
+      "num": 146459,
+      "word": "vivo X300",
+      "onboard_time": 1760359041,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 146447,
       "num": 146447,
       "word": "专家评必须注意石破茂讲话局限性",
@@ -18553,6 +18657,14 @@
       "onboard_time": 1760324060,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145909,
+      "num": 145909,
+      "word": "谢霆锋坚持出道几十年无妆造",
+      "onboard_time": 1760358021,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 145880,
@@ -21043,6 +21155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132678,
+      "num": 153927,
+      "word": "凤随歌失忆",
+      "onboard_time": 1760356281,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132671,
       "num": 132671,
       "word": "肖战包场毕正明的证明",
@@ -21625,6 +21745,14 @@
       "onboard_time": 1760083221,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 129928,
+      "num": 129928,
+      "word": "亚锦赛男团中国1比1伊朗",
+      "onboard_time": 1760358141,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 129914,
@@ -23947,6 +24075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119683,
+      "num": 245743,
+      "word": "我国成功发射试验三十一号卫星",
+      "onboard_time": 1760352741,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 119643,
       "num": 119643,
       "word": "2楼住户因3楼漏水去4楼养兔子大鹅",
@@ -24185,14 +24321,6 @@
       "onboard_time": 1759809380,
       "rank": 38,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 119011,
-      "num": 122162,
-      "word": "我国成功发射试验三十一号卫星",
-      "onboard_time": 1760352741,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 118883,
@@ -24481,6 +24609,14 @@
       "onboard_time": 1759844783,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117675,
+      "num": 117675,
+      "word": "店家笑了半小时才开始做",
+      "onboard_time": 1760352981,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 117636,
@@ -26241,6 +26377,14 @@
       "onboard_time": 1760240659,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111458,
+      "num": 111458,
+      "word": "辛芷蕾 五大史上最快二轮满贯",
+      "onboard_time": 1760358921,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 111451,
@@ -28043,14 +28187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106425,
-      "num": 106425,
-      "word": "店家笑了半小时才开始做",
-      "onboard_time": 1760352981,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 106414,
       "num": 106414,
       "word": "热巴业务能力太强",
@@ -29203,6 +29339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102913,
+      "num": 102913,
+      "word": "梁靖崑13比11阿拉米扬",
+      "onboard_time": 1760357721,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102906,
       "num": 102906,
       "word": "披荆斩棘最能治陈小春的人来了",
@@ -29553,6 +29697,14 @@
       "onboard_time": 1759312520,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 101732,
+      "num": 129137,
+      "word": "命悬一生前任结婚当天就守寡",
+      "onboard_time": 1760358561,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 101703,
@@ -31763,6 +31915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94194,
+      "num": 94194,
+      "word": "奶茶里最不能容忍的小料",
+      "onboard_time": 1760359521,
+      "rank": 38,
+      "category": "美食"
+    },
+    {
       "raw_hot": 94166,
       "num": 116565,
       "word": "接王楚钦的追星运",
@@ -33699,6 +33859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 87887,
+      "num": 128810,
+      "word": "蕴藏在汉字中的女性力量",
+      "onboard_time": 1760358921,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87866,
       "num": 87866,
       "word": "孙颖莎上一秒凶巴巴下一秒嘿嘿嘿",
@@ -34267,6 +34435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86128,
+      "num": 86128,
+      "word": "西安下了1个多月雨后遍地长蘑菇",
+      "onboard_time": 1760359041,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86045,
       "num": 86045,
       "word": "余承恩震惊果果不是井迪的孩子",
@@ -34289,6 +34465,14 @@
       "onboard_time": 1759909041,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85827,
+      "num": 85827,
+      "word": "减脂人做饭能有多省事",
+      "onboard_time": 1760356340,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 85789,
@@ -34763,6 +34947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84349,
+      "num": 84349,
+      "word": "孙颖莎的手",
+      "onboard_time": 1760354781,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84337,
       "num": 84337,
       "word": "郭焱说王楚钦今天比赛封神了",
@@ -34961,6 +35153,14 @@
       "onboard_time": 1759709238,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 83687,
+      "num": 83687,
+      "word": "62岁倪夏莲跨界主持国王登基",
+      "onboard_time": 1760359761,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 83665,
@@ -35923,6 +36123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79601,
+      "num": 83675,
+      "word": "美国700人被错误裁员",
+      "onboard_time": 1760359700,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 79488,
       "num": 113633,
       "word": "高洪波卸任重庆荣昌区委书记",
@@ -35947,14 +36155,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 79363,
-      "num": 79363,
-      "word": "孙颖莎的手",
-      "onboard_time": 1760354781,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 79358,
       "num": 79358,
       "word": "官方回应高速上SUV低速乱窜",
@@ -35977,6 +36177,14 @@
       "onboard_time": 1760226620,
       "rank": 41,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 79197,
+      "num": 83674,
+      "word": "干饭哥阿条姐后新增没事姐",
+      "onboard_time": 1760359101,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 79191,
@@ -36443,14 +36651,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 77017,
-      "num": 77017,
-      "word": "金龟子女儿自曝二胎流产",
-      "onboard_time": 1760355381,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 76959,
       "num": 76959,
       "word": "菲律宾地震68人死亡",
@@ -36563,14 +36763,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 76591,
-      "num": 76591,
-      "word": "成都七中校服潮到巴黎时装周",
-      "onboard_time": 1760355320,
-      "rank": 46,
-      "category": "民生新闻,时尚"
-    },
-    {
       "raw_hot": 76516,
       "num": 76516,
       "word": "以军被指向加沙救援船队发射水炮",
@@ -36585,6 +36777,14 @@
       "onboard_time": 1760187501,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 76424,
+      "num": 83654,
+      "word": "全球妇女峰会主席声明",
+      "onboard_time": 1760359580,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76260,
@@ -37739,6 +37939,14 @@
       "category": "体育,休闲"
     },
     {
+      "raw_hot": 68295,
+      "num": 83645,
+      "word": "喜剧之神又降临喜人舞台了",
+      "onboard_time": 1760357242,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68262,
       "num": 76874,
       "word": "又开始听反方向的钟了",
@@ -38169,6 +38377,14 @@
       "onboard_time": 1759922901,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64482,
+      "num": 87446,
+      "word": "张晚意说外面实在太好闻了",
+      "onboard_time": 1760358621,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 64431,
@@ -39577,6 +39793,14 @@
       "onboard_time": 1760310438,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 50453,
+      "num": 246357,
+      "word": "vivoX300系列发布会",
+      "onboard_time": 1760356522,
+      "rank": 7,
+      "category": "数码"
     },
     {
       "raw_hot": 50385,

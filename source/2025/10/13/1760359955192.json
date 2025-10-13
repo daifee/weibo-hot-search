@@ -1,0 +1,410 @@
+{
+  "runTime": 1760359955192,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 534710,
+        "num": 1085553,
+        "word": "成都七中校服潮到巴黎时装周",
+        "onboard_time": 1760355320,
+        "rank": 0,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 428510,
+        "num": 428510,
+        "word": "莫言自曝刷短视频成瘾",
+        "onboard_time": 1760350281,
+        "rank": 1,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 28765,
+        "num": 367243,
+        "word": "特区之特",
+        "onboard_time": 1760349020,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 365111,
+        "num": 365111,
+        "word": "英雄联盟",
+        "onboard_time": 1760357900,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 338447,
+        "num": 338447,
+        "word": "中方回应巴基斯坦向美国赠送稀土",
+        "onboard_time": 1760343682,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 296254,
+        "num": 296254,
+        "word": "女子过安检丢了90克金手镯",
+        "onboard_time": 1760355501,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246576,
+        "num": 246576,
+        "word": "两男子吃酸汤子中毒警方介入调查",
+        "onboard_time": 1760356881,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50453,
+        "num": 246357,
+        "word": "vivoX300系列发布会",
+        "onboard_time": 1760356522,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 246320,
+        "num": 246320,
+        "word": "林诗栋2比3法拉吉",
+        "onboard_time": 1760355441,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119683,
+        "num": 245743,
+        "word": "我国成功发射试验三十一号卫星",
+        "onboard_time": 1760352741,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 654514,
+        "num": 243034,
+        "word": "赵丽颖直播",
+        "onboard_time": 1760355681,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588481,
+        "num": 242051,
+        "word": "金龟子女儿自曝二胎流产",
+        "onboard_time": 1760355381,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341541,
+        "num": 239548,
+        "word": "张晚意情商",
+        "onboard_time": 1760356281,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318742,
+        "num": 237723,
+        "word": "嘎子谢孟伟被执行超1400万",
+        "onboard_time": 1760355560,
+        "rank": 13,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 237184,
+        "num": 237184,
+        "word": "一笑随歌好虐",
+        "onboard_time": 1760356460,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226763,
+        "num": 226763,
+        "word": "日本大街天降老鼠伤人",
+        "onboard_time": 1760347522,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202323,
+        "num": 202323,
+        "word": "王楚钦抱紧了头",
+        "onboard_time": 1760358261,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153928,
+        "num": 153928,
+        "word": "孙乐言最甜的脸跳最刚的舞",
+        "onboard_time": 1760351842,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132678,
+        "num": 153927,
+        "word": "凤随歌失忆",
+        "onboard_time": 1760356281,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130070,
+        "num": 153904,
+        "word": "入青云",
+        "onboard_time": 1760353401,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265634,
+        "num": 153889,
+        "word": "加微信一定要别人扫我",
+        "onboard_time": 1760348481,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167044,
+        "num": 153876,
+        "word": "陈都灵居然是93年的",
+        "onboard_time": 1760358561,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153869,
+        "num": 153869,
+        "word": "Angelababy一把抱住要摔倒的粉丝",
+        "onboard_time": 1760356702,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146459,
+        "num": 146459,
+        "word": "vivo X300",
+        "onboard_time": 1760359041,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145991,
+        "num": 145991,
+        "word": "iPhone的一生要经历三次死亡",
+        "onboard_time": 1760345720,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145909,
+        "num": 145909,
+        "word": "谢霆锋坚持出道几十年无妆造",
+        "onboard_time": 1760358021,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132189,
+        "num": 132189,
+        "word": "vivo发布会",
+        "onboard_time": 1760354241,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129928,
+        "num": 129928,
+        "word": "亚锦赛男团中国1比1伊朗",
+        "onboard_time": 1760358141,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101732,
+        "num": 129137,
+        "word": "命悬一生前任结婚当天就守寡",
+        "onboard_time": 1760358561,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87887,
+        "num": 128810,
+        "word": "蕴藏在汉字中的女性力量",
+        "onboard_time": 1760358921,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128711,
+        "num": 128711,
+        "word": "张维伊变帅了",
+        "onboard_time": 1760347941,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119424,
+        "num": 119424,
+        "word": "NBA",
+        "onboard_time": 1760351301,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117675,
+        "num": 117675,
+        "word": "店家笑了半小时才开始做",
+        "onboard_time": 1760352981,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111458,
+        "num": 111458,
+        "word": "辛芷蕾 五大史上最快二轮满贯",
+        "onboard_time": 1760358921,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105607,
+        "num": 105607,
+        "word": "东北连自闭症都这么大大方方的",
+        "onboard_time": 1760351721,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102913,
+        "num": 102913,
+        "word": "梁靖崑13比11阿拉米扬",
+        "onboard_time": 1760357721,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101082,
+        "num": 101082,
+        "word": "A股太强了",
+        "onboard_time": 1760343980,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100079,
+        "num": 100079,
+        "word": "王楚钦vs霍戴伊",
+        "onboard_time": 1760351901,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94194,
+        "num": 94194,
+        "word": "奶茶里最不能容忍的小料",
+        "onboard_time": 1760359521,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 91488,
+        "num": 91488,
+        "word": "我居然才爱上李沁",
+        "onboard_time": 1760351842,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89371,
+        "num": 89371,
+        "word": "亚锦赛",
+        "onboard_time": 1760354301,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64482,
+        "num": 87446,
+        "word": "张晚意说外面实在太好闻了",
+        "onboard_time": 1760358621,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86128,
+        "num": 86128,
+        "word": "西安下了1个多月雨后遍地长蘑菇",
+        "onboard_time": 1760359041,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85827,
+        "num": 85827,
+        "word": "减脂人做饭能有多省事",
+        "onboard_time": 1760356340,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84349,
+        "num": 84349,
+        "word": "孙颖莎的手",
+        "onboard_time": 1760354781,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83687,
+        "num": 83687,
+        "word": "62岁倪夏莲跨界主持国王登基",
+        "onboard_time": 1760359761,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79601,
+        "num": 83675,
+        "word": "美国700人被错误裁员",
+        "onboard_time": 1760359700,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79197,
+        "num": 83674,
+        "word": "干饭哥阿条姐后新增没事姐",
+        "onboard_time": 1760359101,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76424,
+        "num": 83654,
+        "word": "全球妇女峰会主席声明",
+        "onboard_time": 1760359580,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68295,
+        "num": 83645,
+        "word": "喜剧之神又降临喜人舞台了",
+        "onboard_time": 1760357242,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席全球妇女峰会开幕式#"
+    }
+  }
+}
