@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 21:47:45
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 22:27:10
 </p>
 </blockquote>
 <p>
@@ -641,6 +641,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%96%86%23" target="weibo">
 大疆（热度：1226757）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9C%A8%E5%8D%B0%E5%BA%A6%E7%9C%9F%E7%9A%84%E5%BE%88%E5%B0%8F%E5%BF%83%23" target="weibo">
+王楚钦在印度真的很小心（热度：1223635）
 </a>
 </li>
 
@@ -3171,12 +3177,6 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9C%A8%E5%8D%B0%E5%BA%A6%E7%9C%9F%E7%9A%84%E5%BE%88%E5%B0%8F%E5%BF%83%23" target="weibo">
-王楚钦在印度真的很小心（热度：549754）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E9%99%88%E4%BC%9F%E9%9C%86%20%E4%BA%8C%E6%90%AD%23" target="weibo">
 刘诗诗陈伟霆 二搭（热度：549630）
 </a>
@@ -3921,6 +3921,18 @@ VaVa说自己分手是因为浪姐（热度：480031）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E5%A6%87%E4%B8%8D%E8%88%92%E6%9C%8D%E8%B9%B2%E5%9C%A8%E5%95%86%E5%9C%BA%E9%81%AD%E4%BF%9D%E5%AE%89%E9%A9%B1%E8%B5%B6%23" target="weibo">
+孕妇不舒服蹲在商场遭保安驱赶（热度：478177）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%94%A6%E8%B5%9B%E6%92%A4%E4%B8%8B%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E4%BC%AA%E6%97%97%23" target="weibo">
+亚锦赛撤下台湾地区伪旗（热度：477999）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E9%AB%98%E4%BC%9A%E7%9B%B4%E6%92%AD%23" target="weibo">
 时代少年团高会直播（热度：477899）
 </a>
@@ -4311,6 +4323,12 @@ K签证（热度：453444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E4%B8%8B%E4%BA%861%E4%B8%AA%E5%A4%9A%E6%9C%88%E9%9B%A8%E5%90%8E%E9%81%8D%E5%9C%B0%E9%95%BF%E8%98%91%E8%8F%87%23" target="weibo">
+西安下了1个多月雨后遍地长蘑菇（热度：443093）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%BB%E5%B9%B2%E8%94%AC%E8%8F%9C%E8%84%86%20%E6%B2%B9%E7%82%B8%23" target="weibo">
 冻干蔬菜脆 油炸（热度：443010）
 </a>
@@ -4331,12 +4349,6 @@ B站崩了（热度：442971）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%20%E4%B8%8D%E8%A6%81%E9%97%AE%E4%BA%BA%E5%AE%B6%E8%BF%99%E7%A7%8D%E9%97%AE%E9%A2%98%23" target="weibo">
 王安宇 不要问人家这种问题（热度：442124）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%94%A6%E8%B5%9B%E6%92%A4%E4%B8%8B%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E4%BC%AA%E6%97%97%23" target="weibo">
-亚锦赛撤下台湾地区伪旗（热度：442003）
 </a>
 </li>
 
@@ -4781,6 +4793,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E8%9E%8D%23" target="weibo">
 清融（热度：409639）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B2%81%E8%B1%AB%E5%9D%90%E9%A3%9E%E6%9C%BA%E9%81%87%E4%B9%98%E5%AE%A2%E8%A6%81%E5%88%98%E5%BE%B7%E5%8D%8E%E7%AD%BE%E5%90%8D%E7%85%A7%23" target="weibo">
+鲁豫坐飞机遇乘客要刘德华签名照（热度：408811）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ WTT（热度：332672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%BE%E5%81%878%E5%A4%A97%E5%A4%A9%E5%8D%8A%E6%8E%B0%E7%8E%89%E7%B1%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%23" target="weibo">
 放假8天7天半掰玉米大学生回应质疑（热度：323340）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C%E7%83%9F%E8%8A%B1%23" target="weibo">
-南昌烟花（热度：323084）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E9%AB%98%E4%BC%9A%23" target="weibo">
-王橹杰高会（热度：323016）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E4%BA%91%E5%90%88%23" target="weibo">
-许我耀眼云合（热度：322587）
 </a>
 </li>
 
