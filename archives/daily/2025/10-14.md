@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/14 00:32:25 ~ 2025/10/14 00:32:25
+本榜单时间：2025/10/14 00:32:25 ~ 2025/10/14 00:46:05
 </p>
 </blockquote>
 <p>
@@ -51,6 +51,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E8%BF%BD%E5%A4%A7%E5%A5%89%E7%9A%84%E4%BA%BA%E5%98%B4%E8%A7%92%E5%8E%8B%E4%B8%8D%E4%BD%8F%E4%BA%86%23" target="weibo">
+第一批追大奉的人嘴角压不住了（热度：283887）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%84%8F%E5%A4%96%E6%8B%8D%E5%88%B0%E8%82%BF%E7%98%A4%E7%BB%86%E8%83%9E%E5%88%86%E8%A3%82%E5%85%A8%E8%BF%87%E7%A8%8B%23" target="weibo">
 女生意外拍到肿瘤细胞分裂全过程（热度：258859）
 </a>
@@ -87,6 +93,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23vivoX300%E7%B3%BB%E5%88%97%E5%BC%80%E7%AE%B1%E6%B5%8B%E8%AF%84%23" target="weibo">
+vivoX300系列开箱测评（热度：130268）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23vivo%20X300%E4%BB%B7%E6%A0%BC%23" target="weibo">
 vivo X300价格（热度：123693）
 </a>
@@ -99,8 +111,14 @@ vivo X300价格（热度：123693）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23vivoX300%E7%B3%BB%E5%88%97%E5%BC%80%E7%AE%B1%E6%B5%8B%E8%AF%84%23" target="weibo">
-vivoX300系列开箱测评（热度：111226）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E5%9C%A8%E5%AE%A0%E7%89%A9%E9%A6%86%E6%B4%97%E6%BE%A1%E5%90%8E%E7%AA%81%E7%84%B6%E6%AD%BB%E4%BA%A1%23" target="weibo">
+金毛在宠物馆洗澡后突然死亡（热度：115970）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%BA%E6%9E%84%E7%A7%B0%E5%8E%BB%E5%B9%B4%E5%8F%9113%E4%B8%87%E7%AF%87%E8%AE%BA%E6%96%87%E6%8C%A38000%E4%B8%87%23" target="weibo">
+机构称去年发13万篇论文挣8000万（热度：109838）
 </a>
 </li>
 
@@ -111,20 +129,8 @@ vivoX300系列开箱测评（热度：111226）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%BA%E6%9E%84%E7%A7%B0%E5%8E%BB%E5%B9%B4%E5%8F%9113%E4%B8%87%E7%AF%87%E8%AE%BA%E6%96%87%E6%8C%A38000%E4%B8%87%23" target="weibo">
-机构称去年发13万篇论文挣8000万（热度：103550）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%94%A6%E8%B5%9B%E6%92%A4%E4%B8%8B%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E4%BC%AA%E6%97%97%23" target="weibo">
 亚锦赛撤下台湾地区伪旗（热度：100029）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E8%BF%BD%E5%A4%A7%E5%A5%89%E7%9A%84%E4%BA%BA%E5%98%B4%E8%A7%92%E5%8E%8B%E4%B8%8D%E4%BD%8F%E4%BA%86%23" target="weibo">
-第一批追大奉的人嘴角压不住了（热度：99477）
 </a>
 </li>
 
@@ -135,8 +141,8 @@ vivoX300系列开箱测评（热度：111226）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E6%AF%9B%E5%9C%A8%E5%AE%A0%E7%89%A9%E9%A6%86%E6%B4%97%E6%BE%A1%E5%90%8E%E7%AA%81%E7%84%B6%E6%AD%BB%E4%BA%A1%23" target="weibo">
-金毛在宠物馆洗澡后突然死亡（热度：96081）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD3%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%9D%A0%E8%90%BD%E7%9B%B4%E5%8D%87%E6%9C%BA%E7%A0%B8%E4%BC%A4%E8%84%91%E8%82%BA%23" target="weibo">
+美国3岁男孩被坠落直升机砸伤脑肺（热度：91803）
 </a>
 </li>
 
@@ -173,12 +179,6 @@ vivoX300系列开箱测评（热度：111226）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%87%E5%AE%89%E6%A3%80%E4%B8%A2%E4%BA%8690%E5%85%8B%E9%87%91%E6%89%8B%E9%95%AF%23" target="weibo">
 女子过安检丢了90克金手镯（热度：76170）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD3%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%9D%A0%E8%90%BD%E7%9B%B4%E5%8D%87%E6%9C%BA%E7%A0%B8%E4%BC%A4%E8%84%91%E8%82%BA%23" target="weibo">
-美国3岁男孩被坠落直升机砸伤脑肺（热度：75384）
 </a>
 </li>
 
@@ -287,6 +287,12 @@ eSIM手机业务可以办理了（热度：69541）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%9C%89%E6%9C%9B%E7%AA%81%E7%A0%B44100%23" target="weibo">
 黄金有望突破4100（热度：55380）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%B4%E4%BC%8A%E5%8F%98%E5%B8%85%E4%BA%86%23" target="weibo">
+张维伊变帅了（热度：47784）
 </a>
 </li>
 
