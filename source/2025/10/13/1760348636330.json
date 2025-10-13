@@ -1,0 +1,410 @@
+{
+  "runTime": 1760348636330,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1068172,
+        "num": 1170907,
+        "word": "中方回应巴基斯坦向美国赠送稀土",
+        "onboard_time": 1760343682,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 482824,
+        "num": 482824,
+        "word": "A股太强了",
+        "onboard_time": 1760343980,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 3015,
+        "num": 427343,
+        "word": "青春华章",
+        "onboard_time": 1760172020,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 602177,
+        "num": 424769,
+        "word": "第一次在剧里看男女主拔充电器",
+        "onboard_time": 1760344700,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 396156,
+        "num": 396156,
+        "word": "加沙战争结束",
+        "onboard_time": 1760344882,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 356153,
+        "num": 356153,
+        "word": "iPhone的一生要经历三次死亡",
+        "onboard_time": 1760345720,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 295775,
+        "num": 295775,
+        "word": "美国知名精神病学家自杀",
+        "onboard_time": 1760342361,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 293996,
+        "num": 293996,
+        "word": "长期熬夜刷手机脸和身体垮了",
+        "onboard_time": 1760335642,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240954,
+        "num": 240954,
+        "word": "孙颖莎裹成灌汤包",
+        "onboard_time": 1760347402,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197778,
+        "num": 197778,
+        "word": "外交部回应美方关税威胁",
+        "onboard_time": 1760345481,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 657546,
+        "num": 197143,
+        "word": "女演员谢玲玲曝豪门生存潜规则",
+        "onboard_time": 1760345661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332578,
+        "num": 195397,
+        "word": "辅导员结婚还在回学生消息",
+        "onboard_time": 1760339481,
+        "rank": 11,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 301326,
+        "num": 193654,
+        "word": "张维伊 爬离现场",
+        "onboard_time": 1760342179,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272149,
+        "num": 192062,
+        "word": "竟然人 居然人",
+        "onboard_time": 1760338881,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265648,
+        "num": 190500,
+        "word": "徐娇回应标价1850元马面裙面料争议",
+        "onboard_time": 1760336181,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190233,
+        "num": 190233,
+        "word": "飞儿乐团前成员阿沁退圈",
+        "onboard_time": 1760346921,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171731,
+        "num": 171731,
+        "word": "黄磊 一代人有一代人的托举",
+        "onboard_time": 1760343021,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166944,
+        "num": 166944,
+        "word": "桃黑黑第67次减肥",
+        "onboard_time": 1760341462,
+        "rank": 17,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 159974,
+        "num": 159974,
+        "word": "杨汝晴把王乐晨问懵了",
+        "onboard_time": 1760338401,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127622,
+        "num": 155216,
+        "word": "长安二十四计人物介绍",
+        "onboard_time": 1760345781,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154247,
+        "num": 154247,
+        "word": "相恋两年要88.8万彩礼才肯结婚",
+        "onboard_time": 1760333481,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147370,
+        "num": 147370,
+        "word": "张维伊变帅了",
+        "onboard_time": 1760347941,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144239,
+        "num": 144239,
+        "word": "研二女生车祸致高位截瘫练出麒麟臂",
+        "onboard_time": 1760332522,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138038,
+        "num": 138038,
+        "word": "美方措施是典型单边主义",
+        "onboard_time": 1760348422,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134743,
+        "num": 134743,
+        "word": "日本大街天降老鼠伤人",
+        "onboard_time": 1760347522,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130411,
+        "num": 130411,
+        "word": "爸爸看手机婴儿车溜下坡翻车",
+        "onboard_time": 1760336002,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128958,
+        "num": 128958,
+        "word": "喜人奇妙夜发布会",
+        "onboard_time": 1760347522,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122111,
+        "num": 122111,
+        "word": "金针菇早知道烂地里了",
+        "onboard_time": 1760345960,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113062,
+        "num": 113062,
+        "word": "网红博主质疑闲鱼仅退款机制不合理",
+        "onboard_time": 1760348240,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97040,
+        "num": 97040,
+        "word": "少爷和我没去喜2的原因找到了",
+        "onboard_time": 1760344580,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106939,
+        "num": 96979,
+        "word": "24号台风要来了",
+        "onboard_time": 1760341341,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 96662,
+        "num": 96662,
+        "word": "建议word删除空白页纳入义务教育",
+        "onboard_time": 1760327303,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95173,
+        "num": 95173,
+        "word": "王安宇想来现场看喜人奇妙夜",
+        "onboard_time": 1760347581,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94341,
+        "num": 94341,
+        "word": "南方降温",
+        "onboard_time": 1760322499,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89039,
+        "num": 89039,
+        "word": "加微信一定要别人扫我",
+        "onboard_time": 1760348481,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87828,
+        "num": 87828,
+        "word": "李昀锐背受伤的孟子义路透",
+        "onboard_time": 1760346622,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86775,
+        "num": 86775,
+        "word": "易烊千玺张天赐经常聚会",
+        "onboard_time": 1760336480,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23834,
+        "num": 85637,
+        "word": "我们的盛会",
+        "onboard_time": 1760347941,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71839,
+        "num": 85353,
+        "word": "王楚钦在印度也是打卡景点",
+        "onboard_time": 1760347462,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73258,
+        "num": 85305,
+        "word": "34岁女生参加芒果选秀回应年龄偏大",
+        "onboard_time": 1760347701,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85296,
+        "num": 85296,
+        "word": "龚俊李沁这段仿佛看到了优秀员工和老板",
+        "onboard_time": 1760346740,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85028,
+        "num": 85028,
+        "word": "中国为何突然停购澳大利亚铁矿石",
+        "onboard_time": 1760348122,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84231,
+        "num": 84231,
+        "word": "建议贴身衣物不要穿黑色的",
+        "onboard_time": 1760337560,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 81442,
+        "num": 81442,
+        "word": "星期二因iG和T1与众不同",
+        "onboard_time": 1760344041,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80458,
+        "num": 80458,
+        "word": "洗脸巾残留化学纤维存在安全风险",
+        "onboard_time": 1760324180,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79923,
+        "num": 79923,
+        "word": "王俊凯 好像上辈子的事了",
+        "onboard_time": 1760342842,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76990,
+        "num": 76990,
+        "word": "刘浩存好萌",
+        "onboard_time": 1760344760,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75274,
+        "num": 75274,
+        "word": "美贸易代表想给中方打电话被拒",
+        "onboard_time": 1760345900,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75063,
+        "num": 75063,
+        "word": "这不是同中方打交道的正确方式",
+        "onboard_time": 1760343080,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 74049,
+        "num": 74049,
+        "word": "马思纯偷袭语音王安宇毫无防备",
+        "onboard_time": 1760345001,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025全球妇女峰会#"
+    }
+  }
+}

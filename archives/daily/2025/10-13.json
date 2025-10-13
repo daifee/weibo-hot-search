@@ -1,6 +1,6 @@
 {
   "startTime": 1760286516759,
-  "endTime": 1760347855228,
+  "endTime": 1760348636330,
   "band_list": [
     {
       "raw_hot": 1688988,
@@ -105,6 +105,14 @@
       "onboard_time": 1760276901,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 657546,
+      "num": 205010,
+      "word": "女演员谢玲玲曝豪门生存潜规则",
+      "onboard_time": 1760345661,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 655035,
@@ -217,14 +225,6 @@
       "onboard_time": 1760333002,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 506601,
-      "num": 205010,
-      "word": "女演员谢玲玲曝豪门生存潜规则",
-      "onboard_time": 1760345661,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 499178,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356153,
+      "num": 356153,
+      "word": "iPhone的一生要经历三次死亡",
+      "onboard_time": 1760345720,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 345669,
       "num": 283149,
       "word": "张维伊 爬离现场",
@@ -467,6 +475,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 295775,
+      "num": 295775,
+      "word": "美国知名精神病学家自杀",
+      "onboard_time": 1760342361,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 287889,
       "num": 173223,
       "word": "建议睡眠不好的都去吃",
@@ -489,14 +505,6 @@
       "onboard_time": 1760321119,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 281699,
-      "num": 281699,
-      "word": "美国知名精神病学家自杀",
-      "onboard_time": 1760342361,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 281351,
@@ -563,14 +571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252336,
-      "num": 252336,
-      "word": "iPhone的一生要经历三次死亡",
-      "onboard_time": 1760345720,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 251998,
       "num": 251998,
       "word": "黄力平任万科董事长",
@@ -593,6 +593,14 @@
       "onboard_time": 1760339421,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 240954,
+      "num": 240954,
+      "word": "孙颖莎裹成灌汤包",
+      "onboard_time": 1760347402,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 229099,
@@ -683,14 +691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 199705,
-      "num": 199705,
-      "word": "孙颖莎裹成灌汤包",
-      "onboard_time": 1760347402,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197818,
       "num": 197818,
       "word": "宋亚轩0帧起手技能五子棋",
@@ -720,6 +720,14 @@
       "word": "Angelababy跳刀马刀马了",
       "onboard_time": 1760270480,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190233,
+      "num": 190233,
+      "word": "飞儿乐团前成员阿沁退圈",
+      "onboard_time": 1760346921,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -769,14 +777,6 @@
       "onboard_time": 1760340202,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 176157,
-      "num": 176157,
-      "word": "飞儿乐团前成员阿沁退圈",
-      "onboard_time": 1760346921,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 174833,
@@ -931,6 +931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147370,
+      "num": 147370,
+      "word": "张维伊变帅了",
+      "onboard_time": 1760347941,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146639,
       "num": 90357,
       "word": "陈泽下播",
@@ -995,6 +1003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138038,
+      "num": 138038,
+      "word": "美方措施是典型单边主义",
+      "onboard_time": 1760348422,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 136661,
       "num": 189076,
       "word": "成都一小车失控后起火驾驶员遇难",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1760323220,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134743,
+      "num": 134743,
+      "word": "日本大街天降老鼠伤人",
+      "onboard_time": 1760347522,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 132902,
@@ -1091,12 +1115,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 128958,
+      "num": 128958,
+      "word": "喜人奇妙夜发布会",
+      "onboard_time": 1760347522,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128212,
       "num": 128212,
       "word": "想过是赝品没想过是甜品",
       "onboard_time": 1760326162,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 127622,
+      "num": 185148,
+      "word": "长安二十四计人物介绍",
+      "onboard_time": 1760345781,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 127557,
@@ -1163,14 +1203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 124933,
-      "num": 185148,
-      "word": "长安二十四计人物介绍",
-      "onboard_time": 1760345781,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124143,
       "num": 124143,
       "word": "李沁打戏",
@@ -1217,6 +1249,14 @@
       "onboard_time": 1760339600,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122111,
+      "num": 122111,
+      "word": "金针菇早知道烂地里了",
+      "onboard_time": 1760345960,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 122091,
@@ -1355,6 +1395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113062,
+      "num": 113062,
+      "word": "网红博主质疑闲鱼仅退款机制不合理",
+      "onboard_time": 1760348240,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 112908,
       "num": 112908,
       "word": "西贝成立新公司卖预包装食品",
@@ -1489,14 +1537,6 @@
       "onboard_time": 1760320279,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108641,
-      "num": 90453,
-      "word": "日本大街天降老鼠伤人",
-      "onboard_time": 1760347522,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 108044,
@@ -1691,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95173,
+      "num": 95173,
+      "word": "王安宇想来现场看喜人奇妙夜",
+      "onboard_time": 1760347581,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95014,
       "num": 95014,
       "word": "丹恒腾荒我为你翻山越岭",
@@ -1721,14 +1769,6 @@
       "onboard_time": 1760337081,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93226,
-      "num": 90405,
-      "word": "金针菇早知道烂地里了",
-      "onboard_time": 1760345960,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 92797,
@@ -1819,14 +1859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 90327,
-      "num": 90327,
-      "word": "喜人奇妙夜发布会",
-      "onboard_time": 1760347522,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 89902,
       "num": 122273,
       "word": "王者三星堆皮肤动画CG",
@@ -1857,6 +1889,14 @@
       "onboard_time": 1760311098,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89039,
+      "num": 89039,
+      "word": "加微信一定要别人扫我",
+      "onboard_time": 1760348481,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 88878,
@@ -1905,6 +1945,14 @@
       "onboard_time": 1760320279,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 85028,
+      "num": 85028,
+      "word": "中国为何突然停购澳大利亚铁矿石",
+      "onboard_time": 1760348122,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83848,
@@ -2019,14 +2067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79836,
-      "num": 79836,
-      "word": "王安宇想来现场看喜人奇妙夜",
-      "onboard_time": 1760347581,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 79610,
       "num": 79610,
       "word": "库房管理员网上卖国家秘密",
@@ -2076,7 +2116,7 @@
     },
     {
       "raw_hot": 76834,
-      "num": 82832,
+      "num": 85353,
       "word": "王楚钦在印度也是打卡景点",
       "onboard_time": 1760347462,
       "rank": 39,
@@ -2137,6 +2177,14 @@
       "onboard_time": 1760272401,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 73258,
+      "num": 85305,
+      "word": "34岁女生参加芒果选秀回应年龄偏大",
+      "onboard_time": 1760347701,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 72835,
@@ -2313,14 +2361,6 @@
       "onboard_time": 1760311577,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 53978,
-      "num": 82905,
-      "word": "34岁女生参加芒果选秀回应年龄偏大",
-      "onboard_time": 1760347701,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 53406,
@@ -2563,6 +2603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23834,
+      "num": 85637,
+      "word": "我们的盛会",
+      "onboard_time": 1760347941,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22223,
       "num": 95474,
       "word": "中国游客拯救韩国医美业",
@@ -2615,6 +2663,14 @@
       "num": 548885,
       "word": "这里是中国",
       "onboard_time": 1760276421,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 3015,
+      "num": 427343,
+      "word": "青春华章",
+      "onboard_time": 1760172020,
       "rank": 2,
       "category": "国内时政"
     }

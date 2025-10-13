@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760347855228,
+  "endTime": 1760348636330,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -3115,6 +3115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 657546,
+      "num": 205010,
+      "word": "女演员谢玲玲曝豪门生存潜规则",
+      "onboard_time": 1760345661,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 655592,
       "num": 379768,
       "word": "鸡排哥答应我别开美颜了好吗",
@@ -4705,14 +4713,6 @@
       "onboard_time": 1760271561,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 506601,
-      "num": 205010,
-      "word": "女演员谢玲玲曝豪门生存潜规则",
-      "onboard_time": 1760345661,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 506365,
@@ -7195,6 +7195,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 356153,
+      "num": 356153,
+      "word": "iPhone的一生要经历三次死亡",
+      "onboard_time": 1760345720,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 355831,
       "num": 414725,
       "word": "南方高温下周或终结",
@@ -8667,6 +8675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295775,
+      "num": 295775,
+      "word": "美国知名精神病学家自杀",
+      "onboard_time": 1760342361,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 295483,
       "num": 295483,
       "word": "韩国营养针",
@@ -9097,14 +9113,6 @@
       "onboard_time": 1759395381,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 281699,
-      "num": 281699,
-      "word": "美国知名精神病学家自杀",
-      "onboard_time": 1760342361,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 281438,
@@ -10027,14 +10035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 252336,
-      "num": 252336,
-      "word": "iPhone的一生要经历三次死亡",
-      "onboard_time": 1760345720,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 252313,
       "num": 214902,
       "word": "Faker微博更新",
@@ -10441,6 +10441,14 @@
       "onboard_time": 1760179941,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 240954,
+      "num": 240954,
+      "word": "孙颖莎裹成灌汤包",
+      "onboard_time": 1760347402,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 240866,
@@ -12475,14 +12483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199705,
-      "num": 199705,
-      "word": "孙颖莎裹成灌汤包",
-      "onboard_time": 1760347402,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199648,
       "num": 175879,
       "word": "苏新皓带伤彩排转身即心痛舞台",
@@ -13377,6 +13377,14 @@
       "onboard_time": 1759674264,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190233,
+      "num": 190233,
+      "word": "飞儿乐团前成员阿沁退圈",
+      "onboard_time": 1760346921,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 190150,
@@ -14713,14 +14721,6 @@
       "onboard_time": 1759999161,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 176157,
-      "num": 176157,
-      "word": "飞儿乐团前成员阿沁退圈",
-      "onboard_time": 1760346921,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 176150,
@@ -18163,6 +18163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147370,
+      "num": 147370,
+      "word": "张维伊变帅了",
+      "onboard_time": 1760347941,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147346,
       "num": 147346,
       "word": "年年体检无异常发现却是晚期",
@@ -19755,6 +19763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138038,
+      "num": 138038,
+      "word": "美方措施是典型单边主义",
+      "onboard_time": 1760348422,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 137929,
       "num": 137929,
       "word": "地球支撑文明9大边界已过界7个",
@@ -20473,6 +20489,14 @@
       "onboard_time": 1759373358,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134743,
+      "num": 134743,
+      "word": "日本大街天降老鼠伤人",
+      "onboard_time": 1760347522,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 134690,
@@ -21667,6 +21691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128958,
+      "num": 128958,
+      "word": "喜人奇妙夜发布会",
+      "onboard_time": 1760347522,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128924,
       "num": 128924,
       "word": "黄子弘凡 黄太子合体",
@@ -21945,6 +21977,14 @@
       "onboard_time": 1760078242,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127622,
+      "num": 185148,
+      "word": "长安二十四计人物介绍",
+      "onboard_time": 1760345781,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 127566,
@@ -22561,14 +22601,6 @@
       "onboard_time": 1760175741,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 124933,
-      "num": 185148,
-      "word": "长安二十四计人物介绍",
-      "onboard_time": 1760345781,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 124919,
@@ -23257,6 +23289,14 @@
       "onboard_time": 1760088501,
       "rank": 45,
       "category": "美妆,作品衍生"
+    },
+    {
+      "raw_hot": 122111,
+      "num": 122111,
+      "word": "金针菇早知道烂地里了",
+      "onboard_time": 1760345960,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 122091,
@@ -25515,6 +25555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 113062,
+      "num": 113062,
+      "word": "网红博主质疑闲鱼仅退款机制不合理",
+      "onboard_time": 1760348240,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 113046,
       "num": 113046,
       "word": "荒野之国景区回应作品被指观感不适",
@@ -27121,14 +27169,6 @@
       "onboard_time": 1759382421,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108641,
-      "num": 90453,
-      "word": "日本大街天降老鼠伤人",
-      "onboard_time": 1760347522,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 108571,
@@ -31243,6 +31283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95173,
+      "num": 95173,
+      "word": "王安宇想来现场看喜人奇妙夜",
+      "onboard_time": 1760347581,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95153,
       "num": 95153,
       "word": "谭维维给我递麦了 我没唱上去",
@@ -31889,14 +31937,6 @@
       "onboard_time": 1760161041,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 93226,
-      "num": 90405,
-      "word": "金针菇早知道烂地里了",
-      "onboard_time": 1760345960,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 93225,
@@ -32787,14 +32827,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 90327,
-      "num": 90327,
-      "word": "喜人奇妙夜发布会",
-      "onboard_time": 1760347522,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 90326,
       "num": 90326,
       "word": "喜人奇妙夜第三期笑后感",
@@ -33193,6 +33225,14 @@
       "onboard_time": 1760166861,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89039,
+      "num": 89039,
+      "word": "加微信一定要别人扫我",
+      "onboard_time": 1760348481,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 89016,
@@ -34321,6 +34361,14 @@
       "onboard_time": 1760198241,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85028,
+      "num": 85028,
+      "word": "中国为何突然停购澳大利亚铁矿石",
+      "onboard_time": 1760348122,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85010,
@@ -35587,14 +35635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79836,
-      "num": 79836,
-      "word": "王安宇想来现场看喜人奇妙夜",
-      "onboard_time": 1760347581,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 79799,
       "num": 79799,
       "word": "一个是真猫另一个是真狗",
@@ -36180,7 +36220,7 @@
     },
     {
       "raw_hot": 76834,
-      "num": 82832,
+      "num": 85353,
       "word": "王楚钦在印度也是打卡景点",
       "onboard_time": 1760347462,
       "rank": 39,
@@ -36721,6 +36761,14 @@
       "onboard_time": 1759549221,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 73258,
+      "num": 85305,
+      "word": "34岁女生参加芒果选秀回应年龄偏大",
+      "onboard_time": 1760347701,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 73240,
@@ -38825,14 +38873,6 @@
       "onboard_time": 1759935621,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53978,
-      "num": 82905,
-      "word": "34岁女生参加芒果选秀回应年龄偏大",
-      "onboard_time": 1760347701,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 53966,
@@ -41577,6 +41617,14 @@
       "onboard_time": 1760095821,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23834,
+      "num": 85637,
+      "word": "我们的盛会",
+      "onboard_time": 1760347941,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23679,
