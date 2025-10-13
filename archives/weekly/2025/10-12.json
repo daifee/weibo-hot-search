@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760333202653,
+  "endTime": 1760334152540,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -185,6 +185,14 @@
       "onboard_time": 1760239519,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 757795,
+      "num": 186157,
+      "word": "十年前的招聘要求",
+      "onboard_time": 1760329284,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 752959,
@@ -427,14 +435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 531693,
-      "num": 186157,
-      "word": "十年前的招聘要求",
-      "onboard_time": 1760329284,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 527468,
       "num": 228025,
       "word": "我叫李飞没有脊椎",
@@ -456,6 +456,22 @@
       "word": "大学生识破间谍套路并举报获表彰",
       "onboard_time": 1760229560,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 518243,
+      "num": 156928,
+      "word": "14岁女生与家人争吵后楼跳身亡",
+      "onboard_time": 1760333002,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 517442,
+      "num": 517442,
+      "word": "研二女生车祸致高位截瘫练出麒麟臂",
+      "onboard_time": 1760332522,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -481,6 +497,14 @@
       "onboard_time": 1760328383,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 496195,
+      "num": 186139,
+      "word": "衣服阴干那种臭味怎么除掉",
+      "onboard_time": 1760328864,
+      "rank": 17,
+      "category": "议题讨论,休闲"
     },
     {
       "raw_hot": 486136,
@@ -537,14 +561,6 @@
       "onboard_time": 1760231480,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 451723,
-      "num": 186139,
-      "word": "衣服阴干那种臭味怎么除掉",
-      "onboard_time": 1760328864,
-      "rank": 17,
-      "category": "议题讨论,休闲"
     },
     {
       "raw_hot": 449347,
@@ -715,7 +731,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 370163,
+      "raw_hot": 379121,
       "num": 186136,
       "word": "余景天 我连女孩子手都没牵过",
       "onboard_time": 1760330303,
@@ -851,6 +867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 303634,
+      "num": 303634,
+      "word": "老板说第一次短袖生意做了7个月",
+      "onboard_time": 1760330005,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301370,
       "num": 301370,
       "word": "比特币24小时逾18万人爆仓",
@@ -923,14 +947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287408,
-      "num": 287408,
-      "word": "老板说第一次短袖生意做了7个月",
-      "onboard_time": 1760330005,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 284688,
       "num": 245635,
       "word": "被74岁刘銮雄的气场震着了",
@@ -952,6 +968,22 @@
       "word": "沈佳润事业运",
       "onboard_time": 1760257760,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 281351,
+      "num": 281351,
+      "word": "挨家通报停火的巴勒斯坦记者被枪杀",
+      "onboard_time": 1760329763,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 279279,
+      "num": 148208,
+      "word": "曝何炅自带衣服救场内幕",
+      "onboard_time": 1760331262,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -1043,14 +1075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252055,
-      "num": 148208,
-      "word": "曝何炅自带衣服救场内幕",
-      "onboard_time": 1760331262,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 251998,
       "num": 251998,
       "word": "黄力平任万科董事长",
@@ -1099,14 +1123,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 235747,
-      "num": 235747,
-      "word": "挨家通报停火的巴勒斯坦记者被枪杀",
-      "onboard_time": 1760329763,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 234632,
       "num": 208848,
       "word": "剧看了6集男主不知叫啥名",
@@ -1121,6 +1137,14 @@
       "onboard_time": 1760185281,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227296,
+      "num": 186124,
+      "word": "苏晓彤对周雨彤贴脸开大",
+      "onboard_time": 1760329704,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 227100,
@@ -1153,6 +1177,14 @@
       "onboard_time": 1760328444,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 223964,
+      "num": 175461,
+      "word": "心动的信号",
+      "onboard_time": 1760331564,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 221510,
@@ -1347,14 +1379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 186125,
-      "num": 186124,
-      "word": "苏晓彤对周雨彤贴脸开大",
-      "onboard_time": 1760329704,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185248,
       "num": 185248,
       "word": "四川大川镇称震感强烈持续约4秒",
@@ -1364,7 +1388,7 @@
     },
     {
       "raw_hot": 181118,
-      "num": 357469,
+      "num": 370215,
       "word": "这是她她她她她她她她的手",
       "onboard_time": 1760326822,
       "rank": 2,
@@ -1416,14 +1440,6 @@
       "word": "我家那闺女",
       "onboard_time": 1760253620,
       "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 175461,
-      "num": 175461,
-      "word": "心动的信号",
-      "onboard_time": 1760331564,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -1603,14 +1619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159230,
-      "num": 186165,
-      "word": "研二女生车祸致高位截瘫练出麒麟臂",
-      "onboard_time": 1760332522,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159179,
       "num": 159179,
       "word": "癌症患者多与这6点有关",
@@ -1633,6 +1641,14 @@
       "onboard_time": 1760332043,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158571,
+      "num": 158571,
+      "word": "相恋两年要88.8万彩礼才肯结婚",
+      "onboard_time": 1760333481,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158416,
@@ -2027,6 +2043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131802,
+      "num": 131802,
+      "word": "曝JackeyLove与iG三人录节目",
+      "onboard_time": 1760331444,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131559,
       "num": 131559,
       "word": "咪的臀翘到可以顶起一瓶汽水",
@@ -2163,6 +2187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125042,
+      "num": 125042,
+      "word": "入青云史密斯夫妇大片",
+      "onboard_time": 1760333242,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124714,
       "num": 124714,
       "word": "孙天宇发吧唧原图",
@@ -2235,6 +2267,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 122953,
+      "num": 122953,
+      "word": "苏晓彤眉毛化了一个多小时",
+      "onboard_time": 1760333363,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122946,
       "num": 142611,
       "word": "服装店的秋装卖不动了",
@@ -2275,14 +2315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 122236,
-      "num": 122236,
-      "word": "曝JackeyLove与iG三人录节目",
-      "onboard_time": 1760331444,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 122091,
       "num": 122091,
       "word": "姚明回应养老金",
@@ -2313,14 +2345,6 @@
       "onboard_time": 1760326041,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121184,
-      "num": 121184,
-      "word": "14岁女生与家人争吵后楼跳身亡",
-      "onboard_time": 1760333002,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121088,
@@ -2587,6 +2611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 112908,
+      "num": 112908,
+      "word": "西贝成立新公司卖预包装食品",
+      "onboard_time": 1760329524,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112576,
       "num": 112576,
       "word": "陆军海军联合训练上下登陆舰",
@@ -2603,6 +2635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111933,
+      "num": 111933,
+      "word": "白鹿走啦么么哒",
+      "onboard_time": 1760333781,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111891,
       "num": 111891,
       "word": "乌克兰32岁知名交易员疑似自杀",
@@ -2617,6 +2657,14 @@
       "onboard_time": 1760322680,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111641,
+      "num": 111641,
+      "word": "丝袜奶茶 真有丝袜",
+      "onboard_time": 1760333600,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111597,
@@ -2705,6 +2753,14 @@
       "onboard_time": 1760242339,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109437,
+      "num": 123332,
+      "word": "胡歌可隆品牌代言人",
+      "onboard_time": 1760333722,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 109267,
@@ -2827,6 +2883,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105125,
+      "num": 105125,
+      "word": "王影璐扮鬼幻视袁湘琴",
+      "onboard_time": 1760333961,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104607,
       "num": 104607,
       "word": "为什么领导喜欢让下属去沟通",
@@ -2921,6 +2985,14 @@
       "onboard_time": 1760274561,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 101139,
+      "num": 101139,
+      "word": "洗脸巾 毛巾",
+      "onboard_time": 1760330543,
+      "rank": 43,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 101121,
@@ -3033,14 +3105,6 @@
       "onboard_time": 1760254401,
       "rank": 45,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 96680,
-      "num": 96680,
-      "word": "洗脸巾 毛巾",
-      "onboard_time": 1760330543,
-      "rank": 43,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 96282,
@@ -3203,14 +3267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92076,
-      "num": 103953,
-      "word": "西贝成立新公司卖预包装食品",
-      "onboard_time": 1760329524,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91864,
       "num": 91864,
       "word": "只有我妈放不下这段感情",
@@ -3251,6 +3307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91283,
+      "num": 91283,
+      "word": "中国反制后加拿大油菜籽价格大跌",
+      "onboard_time": 1760333663,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 91093,
       "num": 91093,
       "word": "6个表现说明骨头变糠了",
@@ -3265,6 +3329,14 @@
       "onboard_time": 1760251762,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90398,
+      "num": 90398,
+      "word": "心理学上有个词叫踢猫效应",
+      "onboard_time": 1760331444,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 90326,
@@ -3353,6 +3425,14 @@
       "onboard_time": 1760233223,
       "rank": 39,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 88292,
+      "num": 88292,
+      "word": "泰国导游强制消费威胁游客",
+      "onboard_time": 1760333363,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 88188,
@@ -3515,6 +3595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84650,
+      "num": 84650,
+      "word": "白鹿要回北京补牙了",
+      "onboard_time": 1760334142,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84435,
       "num": 84435,
       "word": "一个人就应该有两张床",
@@ -3635,6 +3723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82027,
+      "num": 82027,
+      "word": "你的头发怎么洗干净就不要了",
+      "onboard_time": 1760330903,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81742,
       "num": 109295,
       "word": "景区证实原来趵突泉下面真有水管",
@@ -3689,14 +3785,6 @@
       "onboard_time": 1760314159,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81007,
-      "num": 81007,
-      "word": "你的头发怎么洗干净就不要了",
-      "onboard_time": 1760330903,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 80838,
@@ -4507,6 +4595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36145,
+      "num": 114154,
+      "word": "刘宇宁自己打自己",
+      "onboard_time": 1760333062,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36099,
       "num": 36099,
       "word": "酒店回应婚礼照片被保洁当垃圾扔掉",
@@ -4689,14 +4785,6 @@
       "onboard_time": 1760243361,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 14810,
-      "num": 95496,
-      "word": "刘宇宁自己打自己",
-      "onboard_time": 1760333062,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 14114,

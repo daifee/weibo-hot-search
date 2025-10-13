@@ -1,6 +1,6 @@
 {
   "startTime": 1760286516759,
-  "endTime": 1760333202653,
+  "endTime": 1760334152540,
   "band_list": [
     {
       "raw_hot": 1613573,
@@ -41,6 +41,14 @@
       "onboard_time": 1760318959,
       "rank": 3,
       "category": "财经"
+    },
+    {
+      "raw_hot": 757795,
+      "num": 186157,
+      "word": "十年前的招聘要求",
+      "onboard_time": 1760329284,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 697601,
@@ -115,11 +123,19 @@
       "category": "财经"
     },
     {
-      "raw_hot": 531693,
-      "num": 186157,
-      "word": "十年前的招聘要求",
-      "onboard_time": 1760329284,
-      "rank": 30,
+      "raw_hot": 518243,
+      "num": 156928,
+      "word": "14岁女生与家人争吵后楼跳身亡",
+      "onboard_time": 1760333002,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 517442,
+      "num": 517442,
+      "word": "研二女生车祸致高位截瘫练出麒麟臂",
+      "onboard_time": 1760332522,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -131,20 +147,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 496195,
+      "num": 186139,
+      "word": "衣服阴干那种臭味怎么除掉",
+      "onboard_time": 1760328864,
+      "rank": 17,
+      "category": "议题讨论,休闲"
+    },
+    {
       "raw_hot": 469055,
       "num": 177688,
       "word": "建议word删除空白页纳入义务教育",
       "onboard_time": 1760327303,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 451723,
-      "num": 186139,
-      "word": "衣服阴干那种臭味怎么除掉",
-      "onboard_time": 1760328864,
-      "rank": 17,
-      "category": "议题讨论,休闲"
     },
     {
       "raw_hot": 450335,
@@ -195,7 +211,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 370163,
+      "raw_hot": 379121,
       "num": 186136,
       "word": "余景天 我连女孩子手都没牵过",
       "onboard_time": 1760330303,
@@ -243,6 +259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 303634,
+      "num": 303634,
+      "word": "老板说第一次短袖生意做了7个月",
+      "onboard_time": 1760330005,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301370,
       "num": 301370,
       "word": "比特币24小时逾18万人爆仓",
@@ -267,20 +291,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 287408,
-      "num": 287408,
-      "word": "老板说第一次短袖生意做了7个月",
-      "onboard_time": 1760330005,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 282925,
       "num": 234827,
       "word": "去韩国后文化自信具象化了",
       "onboard_time": 1760321119,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 281351,
+      "num": 281351,
+      "word": "挨家通报停火的巴勒斯坦记者被枪杀",
+      "onboard_time": 1760329763,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 279279,
+      "num": 148208,
+      "word": "曝何炅自带衣服救场内幕",
+      "onboard_time": 1760331262,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 275818,
@@ -331,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 252055,
-      "num": 148208,
-      "word": "曝何炅自带衣服救场内幕",
-      "onboard_time": 1760331262,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 251998,
       "num": 251998,
       "word": "黄力平任万科董事长",
@@ -355,12 +379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 235747,
-      "num": 235747,
-      "word": "挨家通报停火的巴勒斯坦记者被枪杀",
-      "onboard_time": 1760329763,
-      "rank": 46,
-      "category": "海外新闻"
+      "raw_hot": 227296,
+      "num": 186124,
+      "word": "苏晓彤对周雨彤贴脸开大",
+      "onboard_time": 1760329704,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 224714,
@@ -369,6 +393,14 @@
       "onboard_time": 1760328444,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 223964,
+      "num": 175461,
+      "word": "心动的信号",
+      "onboard_time": 1760331564,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 221047,
@@ -435,14 +467,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 186125,
-      "num": 186124,
-      "word": "苏晓彤对周雨彤贴脸开大",
-      "onboard_time": 1760329704,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 185623,
       "num": 158539,
       "word": "武汉一公厕旁花坛被贴上男士小便处",
@@ -460,19 +484,11 @@
     },
     {
       "raw_hot": 181118,
-      "num": 357469,
+      "num": 370215,
       "word": "这是她她她她她她她她的手",
       "onboard_time": 1760326822,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175461,
-      "num": 175461,
-      "word": "心动的信号",
-      "onboard_time": 1760331564,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 174173,
@@ -523,14 +539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159230,
-      "num": 186165,
-      "word": "研二女生车祸致高位截瘫练出麒麟臂",
-      "onboard_time": 1760332522,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 159148,
       "num": 137767,
       "word": "李宇春说张子枫的好不用说",
@@ -545,6 +553,14 @@
       "onboard_time": 1760332043,
       "rank": 17,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 158571,
+      "num": 158571,
+      "word": "相恋两年要88.8万彩礼才肯结婚",
+      "onboard_time": 1760333481,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157604,
@@ -691,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131802,
+      "num": 131802,
+      "word": "曝JackeyLove与iG三人录节目",
+      "onboard_time": 1760331444,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131559,
       "num": 131559,
       "word": "咪的臀翘到可以顶起一瓶汽水",
@@ -771,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125042,
+      "num": 125042,
+      "word": "入青云史密斯夫妇大片",
+      "onboard_time": 1760333242,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124143,
       "num": 124143,
       "word": "李沁打戏",
@@ -803,12 +835,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122236,
-      "num": 122236,
-      "word": "曝JackeyLove与iG三人录节目",
-      "onboard_time": 1760331444,
-      "rank": 33,
-      "category": "电竞"
+      "raw_hot": 122953,
+      "num": 122953,
+      "word": "苏晓彤眉毛化了一个多小时",
+      "onboard_time": 1760333363,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 122091,
@@ -833,14 +865,6 @@
       "onboard_time": 1760326041,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121184,
-      "num": 121184,
-      "word": "14岁女生与家人争吵后楼跳身亡",
-      "onboard_time": 1760333002,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120246,
@@ -939,6 +963,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112908,
+      "num": 112908,
+      "word": "西贝成立新公司卖预包装食品",
+      "onboard_time": 1760329524,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111933,
+      "num": 111933,
+      "word": "白鹿走啦么么哒",
+      "onboard_time": 1760333781,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111786,
       "num": 111786,
       "word": "网友偶遇戚薇北大考试",
@@ -953,6 +993,14 @@
       "onboard_time": 1760322680,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111641,
+      "num": 111641,
+      "word": "丝袜奶茶 真有丝袜",
+      "onboard_time": 1760333600,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111597,
@@ -995,6 +1043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 109437,
+      "num": 123332,
+      "word": "胡歌可隆品牌代言人",
+      "onboard_time": 1760333722,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109195,
       "num": 109195,
       "word": "Karsa分享20TES合照",
@@ -1017,6 +1073,14 @@
       "onboard_time": 1760326701,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105125,
+      "num": 105125,
+      "word": "王影璐扮鬼幻视袁湘琴",
+      "onboard_time": 1760333961,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 103849,
@@ -1051,6 +1115,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 101139,
+      "num": 101139,
+      "word": "洗脸巾 毛巾",
+      "onboard_time": 1760330543,
+      "rank": 43,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 100384,
       "num": 100384,
       "word": "晋A99999劳斯莱斯1544000元起拍",
@@ -1073,14 +1145,6 @@
       "onboard_time": 1760326701,
       "rank": 41,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 96680,
-      "num": 96680,
-      "word": "洗脸巾 毛巾",
-      "onboard_time": 1760330543,
-      "rank": 43,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 95875,
@@ -1147,14 +1211,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 92076,
-      "num": 103953,
-      "word": "西贝成立新公司卖预包装食品",
-      "onboard_time": 1760329524,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91570,
       "num": 91570,
       "word": "服装店的秋装卖不动了",
@@ -1171,12 +1227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91283,
+      "num": 91283,
+      "word": "中国反制后加拿大油菜籽价格大跌",
+      "onboard_time": 1760333663,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90532,
       "num": 90532,
       "word": "剧看了6集男主不知叫啥名",
       "onboard_time": 1760272159,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90398,
+      "num": 90398,
+      "word": "心理学上有个词叫踢猫效应",
+      "onboard_time": 1760331444,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 89078,
@@ -1203,6 +1275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 88292,
+      "num": 88292,
+      "word": "泰国导游强制消费威胁游客",
+      "onboard_time": 1760333363,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 87588,
       "num": 87588,
       "word": "小品界又多了一位女歌手",
@@ -1225,6 +1305,14 @@
       "onboard_time": 1760320279,
       "rank": 39,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 84650,
+      "num": 84650,
+      "word": "白鹿要回北京补牙了",
+      "onboard_time": 1760334142,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 83665,
@@ -1251,6 +1339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 82027,
+      "num": 82027,
+      "word": "你的头发怎么洗干净就不要了",
+      "onboard_time": 1760330903,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81303,
       "num": 81303,
       "word": "比特币24小时大涨4.25%",
@@ -1273,14 +1369,6 @@
       "onboard_time": 1760314159,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81007,
-      "num": 81007,
-      "word": "你的头发怎么洗干净就不要了",
-      "onboard_time": 1760330903,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 80800,
@@ -1627,6 +1715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36145,
+      "num": 114154,
+      "word": "刘宇宁自己打自己",
+      "onboard_time": 1760333062,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31392,
       "num": 43783,
       "word": "垫底辣孩自曝拿到了八大美院的合格证",
@@ -1688,14 +1784,6 @@
       "word": "终于轮到汪苏泷的知识盲区了",
       "onboard_time": 1760291476,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 14810,
-      "num": 95496,
-      "word": "刘宇宁自己打自己",
-      "onboard_time": 1760333062,
-      "rank": 39,
       "category": "综艺"
     },
     {
