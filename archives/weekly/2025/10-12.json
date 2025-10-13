@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760330659891,
+  "endTime": 1760333202653,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -427,6 +427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 531693,
+      "num": 186157,
+      "word": "十年前的招聘要求",
+      "onboard_time": 1760329284,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 527468,
       "num": 228025,
       "word": "我叫李飞没有脊椎",
@@ -465,6 +473,14 @@
       "onboard_time": 1760247382,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 499178,
+      "num": 186147,
+      "word": "汽车起火多人救援目击者发声",
+      "onboard_time": 1760328383,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 486136,
@@ -521,6 +537,14 @@
       "onboard_time": 1760231480,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 451723,
+      "num": 186139,
+      "word": "衣服阴干那种臭味怎么除掉",
+      "onboard_time": 1760328864,
+      "rank": 17,
+      "category": "议题讨论,休闲"
     },
     {
       "raw_hot": 449347,
@@ -689,6 +713,14 @@
       "onboard_time": 1760179580,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370163,
+      "num": 186136,
+      "word": "余景天 我连女孩子手都没牵过",
+      "onboard_time": 1760330303,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 367216,
@@ -891,12 +923,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 285979,
-      "num": 180508,
-      "word": "衣服阴干那种臭味怎么除掉",
-      "onboard_time": 1760328864,
-      "rank": 17,
-      "category": "议题讨论,休闲"
+      "raw_hot": 287408,
+      "num": 287408,
+      "word": "老板说第一次短袖生意做了7个月",
+      "onboard_time": 1760330005,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284688,
@@ -929,14 +961,6 @@
       "onboard_time": 1760318840,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 272718,
-      "num": 148163,
-      "word": "十年前的招聘要求",
-      "onboard_time": 1760329284,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 272453,
@@ -1019,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252055,
+      "num": 148208,
+      "word": "曝何炅自带衣服救场内幕",
+      "onboard_time": 1760331262,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251998,
       "num": 251998,
       "word": "黄力平任万科董事长",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1760254941,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 235747,
+      "num": 235747,
+      "word": "挨家通报停火的巴勒斯坦记者被枪杀",
+      "onboard_time": 1760329763,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 234632,
@@ -1276,7 +1316,7 @@
     },
     {
       "raw_hot": 192809,
-      "num": 134356,
+      "num": 145146,
       "word": "4女6男谈出7段情",
       "onboard_time": 1760329944,
       "rank": 24,
@@ -1305,6 +1345,14 @@
       "onboard_time": 1760246721,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186125,
+      "num": 186124,
+      "word": "苏晓彤对周雨彤贴脸开大",
+      "onboard_time": 1760329704,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 185248,
@@ -1368,6 +1416,14 @@
       "word": "我家那闺女",
       "onboard_time": 1760253620,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175461,
+      "num": 175461,
+      "word": "心动的信号",
+      "onboard_time": 1760331564,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -1499,6 +1555,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 161437,
+      "num": 144696,
+      "word": "她用一命换了十几条命",
+      "onboard_time": 1760331982,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161050,
       "num": 136865,
       "word": "金价回调一度跌破4000美元",
@@ -1539,6 +1603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159230,
+      "num": 186165,
+      "word": "研二女生车祸致高位截瘫练出麒麟臂",
+      "onboard_time": 1760332522,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159179,
       "num": 159179,
       "word": "癌症患者多与这6点有关",
@@ -1553,6 +1625,14 @@
       "onboard_time": 1760326401,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158785,
+      "num": 158785,
+      "word": "芙宁娜",
+      "onboard_time": 1760332043,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 158416,
@@ -1731,14 +1811,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 143942,
-      "num": 143942,
-      "word": "苏晓彤对周雨彤贴脸开大",
-      "onboard_time": 1760329704,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143236,
       "num": 143236,
       "word": "黄河将出现2025年第1号洪水",
@@ -1801,14 +1873,6 @@
       "onboard_time": 1760274740,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 139360,
-      "num": 139360,
-      "word": "余景天 我连女孩子手都没牵过",
-      "onboard_time": 1760330303,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 138936,
@@ -1940,7 +2004,7 @@
     },
     {
       "raw_hot": 132902,
-      "num": 126569,
+      "num": 129810,
       "word": "Angelababy看到粉丝哭崩不住了",
       "onboard_time": 1760328984,
       "rank": 44,
@@ -2211,20 +2275,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 122236,
+      "num": 122236,
+      "word": "曝JackeyLove与iG三人录节目",
+      "onboard_time": 1760331444,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122091,
       "num": 122091,
       "word": "姚明回应养老金",
       "onboard_time": 1760320220,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 121459,
-      "num": 121459,
-      "word": "老板说第一次短袖生意做了7个月",
-      "onboard_time": 1760330005,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121245,
@@ -2249,6 +2313,14 @@
       "onboard_time": 1760326041,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121184,
+      "num": 121184,
+      "word": "14岁女生与家人争吵后楼跳身亡",
+      "onboard_time": 1760333002,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121088,
@@ -2321,6 +2393,14 @@
       "onboard_time": 1760315901,
       "rank": 31,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 118793,
+      "num": 118793,
+      "word": "大张伟问秦昊我是伊能静吗",
+      "onboard_time": 1760332102,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 118376,
@@ -2400,14 +2480,6 @@
       "word": "应急管理部提醒的保命四件套",
       "onboard_time": 1760277320,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115833,
-      "num": 118914,
-      "word": "汽车起火多人救援目击者发声",
-      "onboard_time": 1760328383,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -2755,14 +2827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 105145,
-      "num": 105145,
-      "word": "挨家通报停火的巴勒斯坦记者被枪杀",
-      "onboard_time": 1760329763,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 104607,
       "num": 104607,
       "word": "为什么领导喜欢让下属去沟通",
@@ -2971,6 +3035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96680,
+      "num": 96680,
+      "word": "洗脸巾 毛巾",
+      "onboard_time": 1760330543,
+      "rank": 43,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 96282,
       "num": 96282,
       "word": "还是村医敢下药",
@@ -3009,6 +3081,14 @@
       "onboard_time": 1760311157,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95014,
+      "num": 95014,
+      "word": "丹恒腾荒我为你翻山越岭",
+      "onboard_time": 1760332821,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 95007,
@@ -3057,6 +3137,14 @@
       "onboard_time": 1760271501,
       "rank": 40,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 93744,
+      "num": 93744,
+      "word": "想通了一切就觉得人生真好玩",
+      "onboard_time": 1760332043,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 93533,
@@ -3115,12 +3203,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 91977,
-      "num": 91977,
-      "word": "洗脸巾 毛巾",
-      "onboard_time": 1760330543,
-      "rank": 43,
-      "category": "议题讨论"
+      "raw_hot": 92076,
+      "num": 103953,
+      "word": "西贝成立新公司卖预包装食品",
+      "onboard_time": 1760329524,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91864,
@@ -3225,6 +3313,14 @@
       "onboard_time": 1760233999,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89078,
+      "num": 89078,
+      "word": "成都小车起火车门难开消防电锯破拆",
+      "onboard_time": 1760332642,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89056,
@@ -3491,6 +3587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83229,
+      "num": 149178,
+      "word": "可隆户外寓言故事片",
+      "onboard_time": 1760330903,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 83075,
       "num": 83075,
       "word": "体检查出6种疾病不需要过度治疗",
@@ -3571,12 +3675,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 81039,
+      "num": 81039,
+      "word": "停火后加沙城街头爆发枪战",
+      "onboard_time": 1760330663,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81010,
       "num": 81010,
       "word": "16日前后将有较强冷空气来袭",
       "onboard_time": 1760314159,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81007,
+      "num": 81007,
+      "word": "你的头发怎么洗干净就不要了",
+      "onboard_time": 1760330903,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 80838,
@@ -3841,14 +3961,6 @@
       "onboard_time": 1760288178,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72420,
-      "num": 103953,
-      "word": "西贝成立新公司卖预包装食品",
-      "onboard_time": 1760329524,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72351,
@@ -4323,6 +4435,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 40168,
+      "num": 151045,
+      "word": "浙江队破女子气步枪团体世界纪录",
+      "onboard_time": 1760332401,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40049,
       "num": 40049,
       "word": "中国常驻联合国代表点名美国",
@@ -4569,6 +4689,14 @@
       "onboard_time": 1760243361,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 14810,
+      "num": 95496,
+      "word": "刘宇宁自己打自己",
+      "onboard_time": 1760333062,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 14114,
