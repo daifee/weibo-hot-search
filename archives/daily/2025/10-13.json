@@ -1,6 +1,6 @@
 {
   "startTime": 1760286516759,
-  "endTime": 1760348636330,
+  "endTime": 1760351388594,
   "band_list": [
     {
       "raw_hot": 1688988,
@@ -243,6 +243,14 @@
       "category": "议题讨论,休闲"
     },
     {
+      "raw_hot": 494807,
+      "num": 494807,
+      "word": "iPhone的一生要经历三次死亡",
+      "onboard_time": 1760345720,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 478728,
       "num": 478728,
       "word": "爸爸看手机婴儿车溜下坡翻车",
@@ -289,6 +297,14 @@
       "onboard_time": 1760339481,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 425435,
+      "num": 176589,
+      "word": "日本大街天降老鼠伤人",
+      "onboard_time": 1760347522,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 422845,
@@ -355,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 356153,
-      "num": 356153,
-      "word": "iPhone的一生要经历三次死亡",
-      "onboard_time": 1760345720,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 345669,
       "num": 283149,
       "word": "张维伊 爬离现场",
@@ -387,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 336609,
+      "num": 147445,
+      "word": "加微信一定要别人扫我",
+      "onboard_time": 1760348481,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 332778,
       "num": 335624,
       "word": "洗脸巾残留化学纤维存在安全风险",
@@ -401,6 +417,14 @@
       "onboard_time": 1760279902,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310878,
+      "num": 147370,
+      "word": "张维伊变帅了",
+      "onboard_time": 1760347941,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 309221,
@@ -555,6 +579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 263112,
+      "num": 196537,
+      "word": "黄磊 一代人有一代人的托举",
+      "onboard_time": 1760343021,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261298,
       "num": 199972,
       "word": "外卖员 你还有时间拍照是吗",
@@ -601,6 +633,14 @@
       "onboard_time": 1760347402,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236000,
+      "num": 190233,
+      "word": "飞儿乐团前成员阿沁退圈",
+      "onboard_time": 1760346921,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 229099,
@@ -667,6 +707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210531,
+      "num": 143937,
+      "word": "NBA",
+      "onboard_time": 1760351301,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206111,
       "num": 206111,
       "word": "外交部回应美方关税威胁",
@@ -699,12 +747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196537,
-      "num": 196537,
-      "word": "黄磊 一代人有一代人的托举",
-      "onboard_time": 1760343021,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 194324,
+      "num": 194324,
+      "word": "长安二十四计人物介绍",
+      "onboard_time": 1760345781,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 192809,
@@ -720,14 +768,6 @@
       "word": "Angelababy跳刀马刀马了",
       "onboard_time": 1760270480,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 190233,
-      "num": 190233,
-      "word": "飞儿乐团前成员阿沁退圈",
-      "onboard_time": 1760346921,
-      "rank": 21,
       "category": "艺人"
     },
     {
@@ -843,6 +883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163563,
+      "num": 163563,
+      "word": "金针菇早知道烂地里了",
+      "onboard_time": 1760345960,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161437,
       "num": 144696,
       "word": "她用一命换了十几条命",
@@ -931,14 +979,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 147370,
-      "num": 147370,
-      "word": "张维伊变帅了",
-      "onboard_time": 1760347941,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146639,
       "num": 90357,
       "word": "陈泽下播",
@@ -969,6 +1009,14 @@
       "onboard_time": 1760313980,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142151,
+      "num": 142151,
+      "word": "中方回应荷兰政府对安世半导体下手",
+      "onboard_time": 1760350281,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 141446,
@@ -1059,12 +1107,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134743,
-      "num": 134743,
-      "word": "日本大街天降老鼠伤人",
-      "onboard_time": 1760347522,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 134150,
+      "num": 134150,
+      "word": "莫言自曝刷短视频成瘾",
+      "onboard_time": 1760350281,
+      "rank": 25,
+      "category": "读书作家"
     },
     {
       "raw_hot": 132902,
@@ -1089,6 +1137,14 @@
       "onboard_time": 1760327060,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132653,
+      "num": 107600,
+      "word": "以王楚钦的视角走进故宫",
+      "onboard_time": 1760350881,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 131559,
@@ -1129,14 +1185,6 @@
       "onboard_time": 1760326162,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127622,
-      "num": 185148,
-      "word": "长安二十四计人物介绍",
-      "onboard_time": 1760345781,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 127557,
@@ -1251,20 +1299,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122111,
-      "num": 122111,
-      "word": "金针菇早知道烂地里了",
-      "onboard_time": 1760345960,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 122091,
       "num": 122091,
       "word": "姚明回应养老金",
       "onboard_time": 1760320220,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121499,
+      "num": 121499,
+      "word": "张晋 差点就当上叔叔了",
+      "onboard_time": 1760350220,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 121483,
@@ -1363,6 +1411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117001,
+      "num": 106773,
+      "word": "3人获2025诺贝尔经济学奖",
+      "onboard_time": 1760350881,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 116443,
       "num": 116443,
       "word": "苹果或迎特努斯时代",
@@ -1393,6 +1449,14 @@
       "onboard_time": 1760327482,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113200,
+      "num": 113200,
+      "word": "差点忘了欧豪也是个歌手",
+      "onboard_time": 1760348961,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 113062,
@@ -1569,6 +1633,14 @@
       "onboard_time": 1760333961,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104935,
+      "num": 104935,
+      "word": "中国为何突然停购澳大利亚铁矿石",
+      "onboard_time": 1760348122,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104311,
@@ -1891,14 +1963,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 89039,
-      "num": 89039,
-      "word": "加微信一定要别人扫我",
-      "onboard_time": 1760348481,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 88878,
       "num": 88878,
       "word": "刘佩琦谈朱一龙易烊千玺入围金鸡奖",
@@ -1945,14 +2009,6 @@
       "onboard_time": 1760320279,
       "rank": 39,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 85028,
-      "num": 85028,
-      "word": "中国为何突然停购澳大利亚铁矿石",
-      "onboard_time": 1760348122,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83848,
@@ -2027,6 +2083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81514,
+      "num": 81514,
+      "word": "段永平再买茅台",
+      "onboard_time": 1760351181,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81303,
       "num": 81303,
       "word": "比特币24小时大涨4.25%",
@@ -2059,10 +2123,26 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80821,
+      "num": 80821,
+      "word": "大疆公司回应降价",
+      "onboard_time": 1760350700,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 80800,
       "num": 79459,
       "word": "李昀锐新剧被公主霸道示爱",
       "onboard_time": 1760315961,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 79789,
+      "num": 79789,
+      "word": "一笑随歌",
+      "onboard_time": 1760350581,
       "rank": 45,
       "category": "剧集"
     },
@@ -2107,6 +2187,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 77344,
+      "num": 112098,
+      "word": "显微镜闪开让vivoX300来",
+      "onboard_time": 1760350281,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 77048,
       "num": 77048,
       "word": "柚子就是很有灵性",
@@ -2129,6 +2217,14 @@
       "onboard_time": 1760320640,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76334,
+      "num": 76334,
+      "word": "宴遇永安",
+      "onboard_time": 1760351181,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 75483,
@@ -2211,6 +2307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71758,
+      "num": 109960,
+      "word": "vivoX300拍出了烟火人间",
+      "onboard_time": 1760350281,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 71079,
       "num": 88848,
       "word": "李一桐造型",
@@ -2289,6 +2393,14 @@
       "onboard_time": 1760285958,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63739,
+      "num": 149252,
+      "word": "旅拍界掌管出片的神",
+      "onboard_time": 1760350220,
+      "rank": 19,
+      "category": "旅游"
     },
     {
       "raw_hot": 63016,
@@ -2555,6 +2667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32551,
+      "num": 459358,
+      "word": "特区之特",
+      "onboard_time": 1760349020,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31392,
       "num": 43783,
       "word": "垫底辣孩自曝拿到了八大美院的合格证",
@@ -2593,6 +2713,14 @@
       "onboard_time": 1760337861,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25755,
+      "num": 88646,
+      "word": "孙颖莎快热化了",
+      "onboard_time": 1760350941,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 23976,
@@ -2681,6 +2809,9 @@
     },
     {
       "word": "#2025全球妇女峰会#"
+    },
+    {
+      "word": "#习近平出席全球妇女峰会开幕式#"
     }
   ]
 }

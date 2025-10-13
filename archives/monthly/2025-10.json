@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760348636330,
+  "endTime": 1760351388594,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -4931,6 +4931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 494807,
+      "num": 494807,
+      "word": "iPhone的一生要经历三次死亡",
+      "onboard_time": 1760345720,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 494192,
       "num": 494192,
       "word": "云南鲁甸4.4级地震",
@@ -5977,6 +5985,14 @@
       "onboard_time": 1759796178,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 425435,
+      "num": 176589,
+      "word": "日本大街天降老鼠伤人",
+      "onboard_time": 1760347522,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 425226,
@@ -7195,14 +7211,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 356153,
-      "num": 356153,
-      "word": "iPhone的一生要经历三次死亡",
-      "onboard_time": 1760345720,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 355831,
       "num": 414725,
       "word": "南方高温下周或终结",
@@ -7585,6 +7593,14 @@
       "onboard_time": 1759902380,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 336609,
+      "num": 147445,
+      "word": "加微信一定要别人扫我",
+      "onboard_time": 1760348481,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 336296,
@@ -8281,6 +8297,14 @@
       "onboard_time": 1759905320,
       "rank": 32,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 310878,
+      "num": 147370,
+      "word": "张维伊变帅了",
+      "onboard_time": 1760347941,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 310519,
@@ -9723,6 +9747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 263112,
+      "num": 196537,
+      "word": "黄磊 一代人有一代人的托举",
+      "onboard_time": 1760343021,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263096,
       "num": 263096,
       "word": "员工拉桌子碰碎近50个和田玉镯",
@@ -10665,6 +10697,14 @@
       "onboard_time": 1759242442,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 236000,
+      "num": 190233,
+      "word": "飞儿乐团前成员阿沁退圈",
+      "onboard_time": 1760346921,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 235868,
@@ -11739,6 +11779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210531,
+      "num": 169833,
+      "word": "NBA",
+      "onboard_time": 1759980259,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210223,
       "num": 156372,
       "word": "张晚意问还能演正剧吗",
@@ -12755,14 +12803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 196537,
-      "num": 196537,
-      "word": "黄磊 一代人有一代人的托举",
-      "onboard_time": 1760343021,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196522,
       "num": 85641,
       "word": "警方通报女子酒后观赛大声喧哗",
@@ -12968,6 +13008,14 @@
       "word": "内娱很少见剧情这么猛的剧了",
       "onboard_time": 1760103082,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 194324,
+      "num": 194324,
+      "word": "长安二十四计人物介绍",
+      "onboard_time": 1760345781,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -13377,14 +13425,6 @@
       "onboard_time": 1759674264,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 190233,
-      "num": 190233,
-      "word": "飞儿乐团前成员阿沁退圈",
-      "onboard_time": 1760346921,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 190150,
@@ -15355,14 +15395,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 169833,
-      "num": 169833,
-      "word": "NBA",
-      "onboard_time": 1759980259,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169810,
       "num": 169810,
       "word": "墨西哥活火山上空疑出现UFO舰队",
@@ -16153,6 +16185,14 @@
       "onboard_time": 1759385901,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163563,
+      "num": 163563,
+      "word": "金针菇早知道烂地里了",
+      "onboard_time": 1760345960,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 163497,
@@ -18163,14 +18203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 147370,
-      "num": 147370,
-      "word": "张维伊变帅了",
-      "onboard_time": 1760347941,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147346,
       "num": 147346,
       "word": "年年体检无异常发现却是晚期",
@@ -18985,6 +19017,14 @@
       "onboard_time": 1760174361,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 142151,
+      "num": 142151,
+      "word": "中方回应荷兰政府对安世半导体下手",
+      "onboard_time": 1760350281,
+      "rank": 23,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142145,
@@ -20491,14 +20531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134743,
-      "num": 134743,
-      "word": "日本大街天降老鼠伤人",
-      "onboard_time": 1760347522,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 134690,
       "num": 134690,
       "word": "南北方天气差异为何那么大",
@@ -20601,6 +20633,14 @@
       "onboard_time": 1760245580,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 134150,
+      "num": 134150,
+      "word": "莫言自曝刷短视频成瘾",
+      "onboard_time": 1760350281,
+      "rank": 25,
+      "category": "读书作家"
     },
     {
       "raw_hot": 134117,
@@ -20953,6 +20993,14 @@
       "onboard_time": 1760166681,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132653,
+      "num": 107600,
+      "word": "以王楚钦的视角走进故宫",
+      "onboard_time": 1760350881,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 132623,
@@ -21977,14 +22025,6 @@
       "onboard_time": 1760078242,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 127622,
-      "num": 185148,
-      "word": "长安二十四计人物介绍",
-      "onboard_time": 1760345781,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 127566,
@@ -23291,14 +23331,6 @@
       "category": "美妆,作品衍生"
     },
     {
-      "raw_hot": 122111,
-      "num": 122111,
-      "word": "金针菇早知道烂地里了",
-      "onboard_time": 1760345960,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 122091,
       "num": 122091,
       "word": "姚明回应养老金",
@@ -23449,6 +23481,14 @@
       "onboard_time": 1759852822,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121499,
+      "num": 121499,
+      "word": "张晋 差点就当上叔叔了",
+      "onboard_time": 1760350220,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 121489,
@@ -24547,6 +24587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117001,
+      "num": 106773,
+      "word": "3人获2025诺贝尔经济学奖",
+      "onboard_time": 1760350881,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 116972,
       "num": 116972,
       "word": "陈幸同总结中国大满贯",
@@ -25489,6 +25537,14 @@
       "onboard_time": 1759290381,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113200,
+      "num": 113200,
+      "word": "差点忘了欧豪也是个歌手",
+      "onboard_time": 1760348961,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 113197,
@@ -28409,6 +28465,14 @@
       "onboard_time": 1759995321,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 104935,
+      "num": 104935,
+      "word": "中国为何突然停购澳大利亚铁矿石",
+      "onboard_time": 1760348122,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104873,
@@ -33227,14 +33291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 89039,
-      "num": 89039,
-      "word": "加微信一定要别人扫我",
-      "onboard_time": 1760348481,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 89016,
       "num": 89016,
       "word": "美官员称加沙战争已经结束",
@@ -34363,14 +34419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85028,
-      "num": 85028,
-      "word": "中国为何突然停购澳大利亚铁矿石",
-      "onboard_time": 1760348122,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85010,
       "num": 85010,
       "word": "周深国庆场再唱灯火里的中国",
@@ -35331,6 +35379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81514,
+      "num": 81514,
+      "word": "段永平再买茅台",
+      "onboard_time": 1760351181,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 81402,
       "num": 102356,
       "word": "男孩次次前十仍遭妈妈质问致抑郁",
@@ -35441,6 +35497,14 @@
       "onboard_time": 1760257400,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 80821,
+      "num": 80821,
+      "word": "大疆公司回应降价",
+      "onboard_time": 1760350700,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 80809,
@@ -36121,6 +36185,14 @@
       "onboard_time": 1759740380,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77344,
+      "num": 112098,
+      "word": "显微镜闪开让vivoX300来",
+      "onboard_time": 1760350281,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 77311,
@@ -36977,6 +37049,14 @@
       "onboard_time": 1759935682,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71758,
+      "num": 109960,
+      "word": "vivoX300拍出了烟火人间",
+      "onboard_time": 1760350281,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 71715,
@@ -37961,6 +38041,14 @@
       "onboard_time": 1759370900,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63739,
+      "num": 149252,
+      "word": "旅拍界掌管出片的神",
+      "onboard_time": 1760350220,
+      "rank": 19,
+      "category": "旅游"
     },
     {
       "raw_hot": 63555,
@@ -40795,6 +40883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32551,
+      "num": 459358,
+      "word": "特区之特",
+      "onboard_time": 1760349020,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32522,
       "num": 76799,
       "word": "我请狂野时代吃吃喝喝",
@@ -41441,6 +41537,14 @@
       "onboard_time": 1759688655,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25755,
+      "num": 88646,
+      "word": "孙颖莎快热化了",
+      "onboard_time": 1760350941,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 25728,
@@ -42750,6 +42854,9 @@
     },
     {
       "word": "#2025全球妇女峰会#"
+    },
+    {
+      "word": "#习近平出席全球妇女峰会开幕式#"
     }
   ]
 }
