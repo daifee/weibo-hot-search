@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760340386390,
+  "endTime": 1760341182424,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 760738,
-      "num": 349069,
+      "num": 383960,
       "word": "长期熬夜刷手机脸和身体垮了",
       "onboard_time": 1760335642,
       "rank": 3,
@@ -539,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 478728,
+      "num": 478728,
+      "word": "爸爸看手机婴儿车溜下坡翻车",
+      "onboard_time": 1760336002,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 477334,
       "num": 886373,
       "word": "警方通报46岁女子观赛期间叫喊",
@@ -707,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403815,
+      "num": 228814,
+      "word": "女将军人设很多却火不起来",
+      "onboard_time": 1760335462,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 399335,
       "num": 399335,
       "word": "千万富翁给丢失25年儿子婚礼办40桌",
@@ -729,6 +745,14 @@
       "onboard_time": 1760333663,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 394487,
+      "num": 228787,
+      "word": "杨汝晴把王乐晨问懵了",
+      "onboard_time": 1760338401,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 392476,
@@ -795,14 +819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 359803,
-      "num": 359803,
-      "word": "爸爸看手机婴儿车溜下坡翻车",
-      "onboard_time": 1760336002,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 356214,
       "num": 116073,
       "word": "唐艺昕女儿睫毛好长",
@@ -867,14 +883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 327161,
-      "num": 228814,
-      "word": "女将军人设很多却火不起来",
-      "onboard_time": 1760335462,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 325061,
       "num": 325061,
       "word": "山航空姐的裤装上线了",
@@ -905,14 +913,6 @@
       "onboard_time": 1760244200,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 319227,
-      "num": 228787,
-      "word": "杨汝晴把王乐晨问懵了",
-      "onboard_time": 1760338401,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 305726,
@@ -953,6 +953,14 @@
       "onboard_time": 1760319498,
       "rank": 5,
       "category": "财经"
+    },
+    {
+      "raw_hot": 301241,
+      "num": 301241,
+      "word": "王牌对王牌能录9季的原因找到了",
+      "onboard_time": 1760339782,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 300625,
@@ -1193,6 +1201,14 @@
       "onboard_time": 1760257100,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 244044,
+      "num": 244044,
+      "word": "探访成都小汽车爆燃事发地",
+      "onboard_time": 1760339421,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 238454,
@@ -1491,8 +1507,16 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 183924,
+      "num": 228485,
+      "word": "成都起火汽车曾以极高速度行驶",
+      "onboard_time": 1760339659,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181118,
-      "num": 370215,
+      "num": 386469,
       "word": "这是她她她她她她她她的手",
       "onboard_time": 1760326822,
       "rank": 2,
@@ -1635,6 +1659,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 166516,
+      "num": 166516,
+      "word": "马頔又收到新婚祝福了",
+      "onboard_time": 1760340321,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 166319,
+      "num": 124430,
+      "word": "辅导员结婚还在回学生消息",
+      "onboard_time": 1760339481,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 164871,
       "num": 164871,
       "word": "追星女老了的样子在此刻具像化",
@@ -1673,14 +1713,6 @@
       "onboard_time": 1760255179,
       "rank": 24,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 161935,
-      "num": 228705,
-      "word": "王牌对王牌能录9季的原因找到了",
-      "onboard_time": 1760339782,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 161444,
@@ -1793,6 +1825,14 @@
       "onboard_time": 1760324001,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156064,
+      "num": 156064,
+      "word": "建议贴身衣物不要穿黑色的",
+      "onboard_time": 1760337560,
+      "rank": 37,
+      "category": "科学科普"
     },
     {
       "raw_hot": 155577,
@@ -1995,6 +2035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141297,
+      "num": 228636,
+      "word": "苏新皓 全楼的荣耀",
+      "onboard_time": 1760336661,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139979,
       "num": 139979,
       "word": "阿富汗巴基斯坦边境深夜激战",
@@ -2131,14 +2179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134727,
-      "num": 134727,
-      "word": "建议贴身衣物不要穿黑色的",
-      "onboard_time": 1760337560,
-      "rank": 37,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 134154,
       "num": 134154,
       "word": "MANTAminini联动",
@@ -2217,14 +2257,6 @@
       "onboard_time": 1760246840,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129240,
-      "num": 228636,
-      "word": "苏新皓 全楼的荣耀",
-      "onboard_time": 1760336661,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 128212,
@@ -2425,6 +2457,14 @@
       "onboard_time": 1760282721,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122824,
+      "num": 122824,
+      "word": "12306回应卧铺车厢禁止躺卧标识",
+      "onboard_time": 1760339600,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122661,
@@ -3107,6 +3147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 102147,
+      "num": 102147,
+      "word": "西部黄金再度涨停",
+      "onboard_time": 1760340260,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 101990,
       "num": 101990,
       "word": "金饰克价一夜涨12元",
@@ -3121,6 +3169,14 @@
       "onboard_time": 1760280500,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101953,
+      "num": 101953,
+      "word": "引导型老板",
+      "onboard_time": 1760340561,
+      "rank": 35,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 101593,
@@ -3233,14 +3289,6 @@
       "onboard_time": 1760280082,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98237,
-      "num": 98237,
-      "word": "西部黄金再度涨停",
-      "onboard_time": 1760340260,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 97998,
@@ -3483,6 +3531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91097,
+      "num": 91097,
+      "word": "外国女子在广州被外籍男子骚扰",
+      "onboard_time": 1760340260,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91093,
       "num": 91093,
       "word": "6个表现说明骨头变糠了",
@@ -3497,6 +3553,14 @@
       "onboard_time": 1760251762,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 90424,
+      "num": 90424,
+      "word": "刘涛会让女儿先撞南墙",
+      "onboard_time": 1760340441,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 90398,
@@ -3571,6 +3635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89074,
+      "num": 89074,
+      "word": "刘畊宏谈周杰伦病情曾行走困难",
+      "onboard_time": 1760339841,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89056,
       "num": 89056,
       "word": "管泽元预测T1对战iG比分",
@@ -3585,6 +3657,14 @@
       "onboard_time": 1760259982,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88669,
+      "num": 88669,
+      "word": "舒淇说她走过的路充满恶意",
+      "onboard_time": 1760339600,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 88488,
@@ -3643,14 +3723,6 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 87429,
-      "num": 228551,
-      "word": "探访成都小汽车爆燃事发地",
-      "onboard_time": 1760339421,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87362,
       "num": 87362,
       "word": "汪苏泷坚持音乐创作的15年",
@@ -3689,14 +3761,6 @@
       "onboard_time": 1760187262,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86770,
-      "num": 228485,
-      "word": "成都起火汽车曾以极高速度行驶",
-      "onboard_time": 1760339659,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86564,
@@ -3785,22 +3849,6 @@
       "onboard_time": 1760257760,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 84255,
-      "num": 82763,
-      "word": "外国女子在广州被外籍男子骚扰",
-      "onboard_time": 1760340260,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 84252,
-      "num": 84252,
-      "word": "12306回应卧铺车厢禁止躺卧标识",
-      "onboard_time": 1760339600,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84034,
@@ -4115,14 +4163,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 78321,
-      "num": 78321,
-      "word": "马頔又收到新婚祝福了",
-      "onboard_time": 1760340321,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 78263,
       "num": 78263,
       "word": "关晓彤 这才是我的衣服",
@@ -4152,6 +4192,14 @@
       "word": "这猫怎么一亲就响不停",
       "onboard_time": 1760234600,
       "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 77048,
+      "num": 77048,
+      "word": "柚子就是很有灵性",
+      "onboard_time": 1760340741,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -4331,14 +4379,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 70936,
-      "num": 70936,
-      "word": "刘畊宏谈周杰伦病情曾行走困难",
-      "onboard_time": 1760339841,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 70315,
       "num": 70315,
       "word": "终于找到克服洗澡拖延症的方法了",
@@ -4379,12 +4419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68928,
-      "num": 68928,
-      "word": "辅导员结婚还在回学生消息",
-      "onboard_time": 1760339481,
-      "rank": 49,
-      "category": "情感,幽默"
+      "raw_hot": 68570,
+      "num": 178495,
+      "word": "成都警方通报一车辆失控后起火",
+      "onboard_time": 1760340681,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 68492,
@@ -4835,14 +4875,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 39758,
-      "num": 84443,
-      "word": "舒淇说她走过的路充满恶意",
-      "onboard_time": 1760339600,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 39102,
       "num": 224127,
       "word": "真正的成熟从接纳孤独开始",
@@ -4881,6 +4913,14 @@
       "onboard_time": 1760243660,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36926,
+      "num": 96440,
+      "word": "1人报名竞拍200万尾号66666666",
+      "onboard_time": 1760340801,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36769,
@@ -5036,7 +5076,7 @@
     },
     {
       "raw_hot": 22223,
-      "num": 84637,
+      "num": 95474,
       "word": "中国游客拯救韩国医美业",
       "onboard_time": 1760340021,
       "rank": 37,
