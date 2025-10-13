@@ -1,6 +1,6 @@
 {
   "startTime": 1760286516759,
-  "endTime": 1760320648248,
+  "endTime": 1760321931566,
   "band_list": [
     {
       "raw_hot": 1077843,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 871787,
-      "num": 302631,
+      "num": 455270,
       "word": "A股",
       "onboard_time": 1760318959,
       "rank": 3,
@@ -36,11 +36,19 @@
     },
     {
       "raw_hot": 608801,
-      "num": 216571,
+      "num": 247179,
       "word": "周杰伦患强直性脊柱炎超20年",
       "onboard_time": 1760277920,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 588618,
+      "num": 455210,
+      "word": "特朗普",
+      "onboard_time": 1760319678,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 575546,
@@ -49,14 +57,6 @@
       "onboard_time": 1760279542,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 571087,
-      "num": 302525,
-      "word": "特朗普",
-      "onboard_time": 1760319678,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 566048,
@@ -75,6 +75,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 489956,
+      "num": 1078392,
+      "word": "男女平等不是要一种特权",
+      "onboard_time": 1760319560,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 455121,
+      "num": 455121,
+      "word": "黄金",
+      "onboard_time": 1760320159,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 450335,
       "num": 163884,
       "word": "鲁 俺想你了",
@@ -89,6 +105,14 @@
       "onboard_time": 1760315783,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 406782,
+      "num": 406782,
+      "word": "父母多次嘱咐走红大学生要低调",
+      "onboard_time": 1760319560,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 323340,
@@ -107,6 +131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305111,
+      "num": 305111,
+      "word": "张杰演唱会电力故障用喇叭唱逆战",
+      "onboard_time": 1760315783,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 301370,
       "num": 301370,
       "word": "比特币24小时逾18万人爆仓",
@@ -121,14 +153,6 @@
       "onboard_time": 1760271921,
       "rank": 14,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 282543,
-      "num": 282543,
-      "word": "男女平等不是要一种特权",
-      "onboard_time": 1760319560,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 271798,
@@ -147,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 260955,
+      "num": 260955,
+      "word": "130万美军欠薪特朗普阅兵狂欢",
+      "onboard_time": 1760318840,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 251998,
       "num": 251998,
       "word": "黄力平任万科董事长",
@@ -155,8 +187,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 232929,
-      "num": 232929,
+      "raw_hot": 245194,
+      "num": 245194,
       "word": "妇女的手是什么样的",
       "onboard_time": 1760318898,
       "rank": 9,
@@ -177,30 +209,6 @@
       "onboard_time": 1760273180,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194550,
-      "num": 194550,
-      "word": "父母多次嘱咐走红大学生要低调",
-      "onboard_time": 1760319560,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 193638,
-      "num": 193638,
-      "word": "黄金",
-      "onboard_time": 1760320159,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 190375,
-      "num": 190375,
-      "word": "130万美军欠薪特朗普阅兵狂欢",
-      "onboard_time": 1760318840,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 190248,
@@ -267,20 +275,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153475,
+      "num": 153475,
+      "word": "北方秋裤穿了脱脱了穿",
+      "onboard_time": 1760317520,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146649,
+      "num": 146649,
+      "word": "和男朋友分手后妈妈仿佛中年丧子",
+      "onboard_time": 1760318359,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 146639,
       "num": 90357,
       "word": "陈泽下播",
       "onboard_time": 1760286259,
       "rank": 37,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 144077,
-      "num": 144077,
-      "word": "北方秋裤穿了脱脱了穿",
-      "onboard_time": 1760317520,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 143236,
@@ -355,12 +371,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 118123,
-      "num": 118123,
-      "word": "和男朋友分手后妈妈仿佛中年丧子",
-      "onboard_time": 1760318359,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 122091,
+      "num": 122091,
+      "word": "姚明回应养老金",
+      "onboard_time": 1760320220,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121245,
+      "num": 121245,
+      "word": "花开中国MV致敬女性力量",
+      "onboard_time": 1760320699,
+      "rank": 26,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 118849,
+      "num": 118849,
+      "word": "为什么你卫生间里总是有小飞蛾",
+      "onboard_time": 1760315901,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 117953,
@@ -369,14 +401,6 @@
       "onboard_time": 1760266160,
       "rank": 21,
       "category": "美食"
-    },
-    {
-      "raw_hot": 115985,
-      "num": 115985,
-      "word": "为什么你卫生间里总是有小飞蛾",
-      "onboard_time": 1760315901,
-      "rank": 31,
-      "category": "科学科普"
     },
     {
       "raw_hot": 115737,
@@ -427,12 +451,36 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 108113,
-      "num": 108113,
-      "word": "姚明回应养老金",
-      "onboard_time": 1760320220,
-      "rank": 35,
+      "raw_hot": 108967,
+      "num": 108967,
+      "word": "花莲救灾现场6人铲1块石头",
+      "onboard_time": 1760320279,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108958,
+      "num": 108958,
+      "word": "盛世天下主演两个小时的杂志销量",
+      "onboard_time": 1760321420,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 107575,
+      "num": 107575,
+      "word": "张继科说永远不会到国外当教练",
+      "onboard_time": 1760320699,
+      "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106058,
+      "num": 106058,
+      "word": "去韩国后文化自信具象化了",
+      "onboard_time": 1760321119,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 103700,
@@ -441,14 +489,6 @@
       "onboard_time": 1760311219,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 102477,
-      "num": 102477,
-      "word": "花莲救灾现场6人铲1块石头",
-      "onboard_time": 1760320279,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 100384,
@@ -555,6 +595,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 84298,
+      "num": 84298,
+      "word": "追星女老了的样子在此刻具像化",
+      "onboard_time": 1760321479,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 83665,
       "num": 83665,
       "word": "中国短道队2000米混合接力金牌",
@@ -571,6 +619,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 81303,
+      "num": 81303,
+      "word": "比特币24小时大涨4.25%",
+      "onboard_time": 1760318481,
+      "rank": 38,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 81010,
+      "num": 81010,
+      "word": "16日前后将有较强冷空气来袭",
+      "onboard_time": 1760314159,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80800,
       "num": 79459,
       "word": "李昀锐新剧被公主霸道示爱",
@@ -579,20 +643,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80686,
-      "num": 80686,
-      "word": "16日前后将有较强冷空气来袭",
-      "onboard_time": 1760314159,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79610,
       "num": 79610,
       "word": "库房管理员网上卖国家秘密",
       "onboard_time": 1760312238,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79024,
+      "num": 79024,
+      "word": "DK无缘ASI冠军",
+      "onboard_time": 1760318600,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 78681,
@@ -619,6 +683,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 76804,
+      "num": 76804,
+      "word": "一群猫有一只聪明的就饿不死",
+      "onboard_time": 1760320640,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73869,
       "num": 88737,
       "word": "内娱第一个饭撒女儿的歌手",
@@ -641,6 +713,14 @@
       "onboard_time": 1760288178,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 72351,
+      "num": 72351,
+      "word": "这个动物医院实在是太热闹了",
+      "onboard_time": 1760321841,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 71079,
@@ -673,14 +753,6 @@
       "onboard_time": 1760284159,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67839,
-      "num": 67839,
-      "word": "一群猫有一只聪明的就饿不死",
-      "onboard_time": 1760320640,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 65550,
@@ -841,6 +913,14 @@
       "onboard_time": 1760311821,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 43648,
+      "num": 149185,
+      "word": "用2亿像素接住国宝浪漫",
+      "onboard_time": 1760321300,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37903,
