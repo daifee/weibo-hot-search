@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/14 00:32:25 ~ 2025/10/14 03:20:46
+本榜单时间：2025/10/14 00:32:25 ~ 2025/10/14 03:36:49
 </p>
 </blockquote>
 <p>
@@ -365,6 +365,12 @@ vivoX300系列全系适配增距镜（热度：46358）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23vivo%E5%8F%91%E5%B8%83%E4%BC%9A%E6%9D%A5%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E7%A7%91%E6%8A%80%E5%9C%88%E5%A4%A7%E4%BD%AC%23" target="weibo">
 vivo发布会来了这么多科技圈大佬（热度：16039）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23vivoX300%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+vivoX300系列发布会（热度：13050）
 </a>
 </li>
 

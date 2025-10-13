@@ -1,6 +1,6 @@
 {
   "startTime": 1760373145920,
-  "endTime": 1760383246898,
+  "endTime": 1760384209830,
   "band_list": [
     {
       "raw_hot": 592408,
@@ -472,6 +472,14 @@
       "word": "vivo发布会来了这么多科技圈大佬",
       "onboard_time": 1760360541,
       "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 13050,
+      "num": 17162,
+      "word": "vivoX300系列发布会",
+      "onboard_time": 1760356522,
+      "rank": 41,
       "category": "数码"
     },
     {
