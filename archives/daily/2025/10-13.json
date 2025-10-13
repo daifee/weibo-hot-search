@@ -1,6 +1,6 @@
 {
   "startTime": 1760286516759,
-  "endTime": 1760354535752,
+  "endTime": 1760355448635,
   "band_list": [
     {
       "raw_hot": 1688988,
@@ -83,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 830534,
+      "num": 1132885,
+      "word": "莫言自曝刷短视频成瘾",
+      "onboard_time": 1760350281,
+      "rank": 25,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 760738,
       "num": 396605,
       "word": "长期熬夜刷手机脸和身体垮了",
@@ -105,14 +113,6 @@
       "onboard_time": 1760276901,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 685032,
-      "num": 685032,
-      "word": "莫言自曝刷短视频成瘾",
-      "onboard_time": 1760350281,
-      "rank": 25,
-      "category": "读书作家"
     },
     {
       "raw_hot": 657546,
@@ -345,6 +345,14 @@
       "onboard_time": 1760335462,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 401128,
+      "num": 401128,
+      "word": "林诗栋vs法拉吉",
+      "onboard_time": 1760353579,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 398572,
@@ -755,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201442,
+      "num": 201442,
+      "word": "亚锦赛",
+      "onboard_time": 1760354301,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200899,
       "num": 194207,
       "word": "过度负责 傲慢懦弱",
@@ -769,6 +785,14 @@
       "onboard_time": 1760343921,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196903,
+      "num": 196903,
+      "word": "vivo发布会",
+      "onboard_time": 1760354241,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 194324,
@@ -843,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177616,
+      "num": 177616,
+      "word": "全运会宣传片樊振东打头阵",
+      "onboard_time": 1760353641,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175804,
       "num": 175804,
       "word": "入青云",
@@ -881,6 +913,14 @@
       "onboard_time": 1760325142,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 168155,
+      "num": 124494,
+      "word": "东北连自闭症都这么大大方方的",
+      "onboard_time": 1760351721,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167880,
@@ -1003,14 +1043,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153849,
-      "num": 153849,
-      "word": "vivo发布会",
-      "onboard_time": 1760354241,
-      "rank": 11,
-      "category": "数码"
-    },
-    {
       "raw_hot": 153475,
       "num": 153475,
       "word": "北方秋裤穿了脱脱了穿",
@@ -1025,14 +1057,6 @@
       "onboard_time": 1760331444,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 151128,
-      "num": 151128,
-      "word": "全运会宣传片樊振东打头阵",
-      "onboard_time": 1760353641,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 149829,
@@ -1089,6 +1113,14 @@
       "onboard_time": 1760351781,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139171,
+      "num": 139171,
+      "word": "王宁送库克labubu",
+      "onboard_time": 1760354301,
+      "rank": 42,
+      "category": "互联网,休闲"
     },
     {
       "raw_hot": 138936,
@@ -1195,14 +1227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132047,
-      "num": 123153,
-      "word": "东北连自闭症都这么大大方方的",
-      "onboard_time": 1760351721,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131559,
       "num": 131559,
       "word": "咪的臀翘到可以顶起一瓶汽水",
@@ -1233,14 +1257,6 @@
       "onboard_time": 1760319920,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 129964,
-      "num": 124691,
-      "word": "林诗栋vs法拉吉",
-      "onboard_time": 1760353579,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 128958,
@@ -1419,14 +1435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120981,
-      "num": 120981,
-      "word": "亚锦赛",
-      "onboard_time": 1760354301,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 120246,
       "num": 120246,
       "word": "熬夜后多吃这3类食物",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1760344580,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119011,
+      "num": 122162,
+      "word": "我国成功发射试验三十一号卫星",
+      "onboard_time": 1760352741,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 118875,
@@ -1731,8 +1747,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 105821,
-      "num": 105821,
+      "raw_hot": 106425,
+      "num": 106425,
       "word": "店家笑了半小时才开始做",
       "onboard_time": 1760352981,
       "rank": 35,
@@ -1883,20 +1899,20 @@
       "category": "互联网,休闲"
     },
     {
+      "raw_hot": 97850,
+      "num": 98465,
+      "word": "韩国民调六成人反对四天半工作制",
+      "onboard_time": 1760353520,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 97814,
       "num": 97814,
       "word": "李昀锐背受伤的孟子义路透",
       "onboard_time": 1760346622,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96271,
-      "num": 96271,
-      "word": "王宁送库克labubu",
-      "onboard_time": 1760354301,
-      "rank": 42,
-      "category": "互联网,休闲"
     },
     {
       "raw_hot": 95875,
@@ -1945,14 +1961,6 @@
       "onboard_time": 1760332821,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 93906,
-      "num": 122162,
-      "word": "我国成功发射试验三十一号卫星",
-      "onboard_time": 1760352741,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 93744,
@@ -2147,6 +2155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86329,
+      "num": 86329,
+      "word": "陈哲远新剧说四个字的压迫感",
+      "onboard_time": 1760352381,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86045,
       "num": 86045,
       "word": "余承恩震惊果果不是井迪的孩子",
@@ -2227,6 +2243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81964,
+      "num": 81964,
+      "word": "梁靖崑vs阿拉米扬",
+      "onboard_time": 1760353881,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81736,
       "num": 81736,
       "word": "白举纲周笔畅十二年了还是咱仨",
@@ -2275,14 +2299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80857,
-      "num": 80857,
-      "word": "梁靖崑vs阿拉米扬",
-      "onboard_time": 1760353881,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 80821,
       "num": 80821,
       "word": "大疆公司回应降价",
@@ -2300,7 +2316,7 @@
     },
     {
       "raw_hot": 79789,
-      "num": 79789,
+      "num": 101260,
       "word": "一笑随歌",
       "onboard_time": 1760350581,
       "rank": 45,
@@ -2313,6 +2329,14 @@
       "onboard_time": 1760312238,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79363,
+      "num": 79363,
+      "word": "孙颖莎的手",
+      "onboard_time": 1760354781,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 79024,
@@ -2371,6 +2395,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 77017,
+      "num": 77017,
+      "word": "金龟子女儿自曝二胎流产",
+      "onboard_time": 1760355381,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76834,
       "num": 85353,
       "word": "王楚钦在印度也是打卡景点",
@@ -2385,6 +2417,14 @@
       "onboard_time": 1760320640,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76591,
+      "num": 76591,
+      "word": "成都七中校服潮到巴黎时装周",
+      "onboard_time": 1760355320,
+      "rank": 46,
+      "category": "民生新闻,时尚"
     },
     {
       "raw_hot": 76334,
@@ -2433,6 +2473,14 @@
       "onboard_time": 1760339600,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 73908,
+      "num": 73908,
+      "word": "李沁用emoji形容今晚的付一笑",
+      "onboard_time": 1760354842,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 73869,
@@ -2529,14 +2577,6 @@
       "onboard_time": 1760337861,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 67195,
-      "num": 98465,
-      "word": "韩国民调六成人反对四天半工作制",
-      "onboard_time": 1760353520,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 65550,
@@ -2731,6 +2771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44040,
+      "num": 98404,
+      "word": "vivo还是太听劝了",
+      "onboard_time": 1760353339,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 43915,
       "num": 43915,
       "word": "曝LPL转会期大变革",
@@ -2857,14 +2905,6 @@
       "onboard_time": 1760333062,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 33064,
-      "num": 98404,
-      "word": "vivo还是太听劝了",
-      "onboard_time": 1760353339,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 31392,

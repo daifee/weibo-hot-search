@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760354535752,
+  "endTime": 1760355448635,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -2131,6 +2131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 830534,
+      "num": 1132885,
+      "word": "莫言自曝刷短视频成瘾",
+      "onboard_time": 1760350281,
+      "rank": 25,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 827159,
       "num": 243349,
       "word": "赵今麦在国外美成啥了",
@@ -2889,14 +2897,6 @@
       "onboard_time": 1759756463,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 685032,
-      "num": 685032,
-      "word": "莫言自曝刷短视频成瘾",
-      "onboard_time": 1760350281,
-      "rank": 25,
-      "category": "读书作家"
     },
     {
       "raw_hot": 684916,
@@ -6385,6 +6385,14 @@
       "onboard_time": 1760106203,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 401128,
+      "num": 401128,
+      "word": "林诗栋vs法拉吉",
+      "onboard_time": 1760353579,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 401042,
@@ -12787,6 +12795,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 196903,
+      "num": 196903,
+      "word": "vivo发布会",
+      "onboard_time": 1760354241,
+      "rank": 11,
+      "category": "数码"
+    },
+    {
       "raw_hot": 196882,
       "num": 196882,
       "word": "曾凡博 篮网",
@@ -14635,6 +14651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177616,
+      "num": 177616,
+      "word": "全运会宣传片樊振东打头阵",
+      "onboard_time": 1760353641,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177605,
       "num": 177605,
       "word": "2025共创之夜阵容官宣",
@@ -15601,6 +15625,14 @@
       "onboard_time": 1759983561,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168155,
+      "num": 124494,
+      "word": "东北连自闭症都这么大大方方的",
+      "onboard_time": 1760351721,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168154,
@@ -17483,14 +17515,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 153849,
-      "num": 153849,
-      "word": "vivo发布会",
-      "onboard_time": 1760354241,
-      "rank": 11,
-      "category": "数码"
-    },
-    {
       "raw_hot": 153792,
       "num": 153792,
       "word": "曝方媛已产下第三胎",
@@ -17833,14 +17857,6 @@
       "onboard_time": 1760249781,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151128,
-      "num": 151128,
-      "word": "全运会宣传片樊振东打头阵",
-      "onboard_time": 1760353641,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 151094,
@@ -19651,6 +19667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139171,
+      "num": 139171,
+      "word": "王宁送库克labubu",
+      "onboard_time": 1760354301,
+      "rank": 42,
+      "category": "互联网,休闲"
+    },
+    {
       "raw_hot": 139154,
       "num": 139154,
       "word": "车被狗啃到面目全非女车主最新发声",
@@ -21131,14 +21155,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 132047,
-      "num": 123153,
-      "word": "东北连自闭症都这么大大方方的",
-      "onboard_time": 1760351721,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 131999,
       "num": 154721,
       "word": "大学生卖雪王送鸡排哥高清写真",
@@ -21576,14 +21592,6 @@
       "word": "王楚钦林诗栋3比0徐瑛彬袁励岑",
       "onboard_time": 1759377978,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 129964,
-      "num": 124691,
-      "word": "林诗栋vs法拉吉",
-      "onboard_time": 1760353579,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -24177,6 +24185,14 @@
       "onboard_time": 1759809380,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 119011,
+      "num": 122162,
+      "word": "我国成功发射试验三十一号卫星",
+      "onboard_time": 1760352741,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 118883,
@@ -28027,6 +28043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106425,
+      "num": 106425,
+      "word": "店家笑了半小时才开始做",
+      "onboard_time": 1760352981,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106414,
       "num": 106414,
       "word": "热巴业务能力太强",
@@ -28273,14 +28297,6 @@
       "onboard_time": 1759808302,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105821,
-      "num": 105821,
-      "word": "店家笑了半小时才开始做",
-      "onboard_time": 1760352981,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 105806,
@@ -30651,6 +30667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97850,
+      "num": 98465,
+      "word": "韩国民调六成人反对四天半工作制",
+      "onboard_time": 1760353520,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 97841,
       "num": 86854,
       "word": "宏胜集团祝丽丹回应被带走调查",
@@ -31089,14 +31113,6 @@
       "onboard_time": 1759922182,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 96271,
-      "num": 96271,
-      "word": "王宁送库克labubu",
-      "onboard_time": 1760354301,
-      "rank": 42,
-      "category": "互联网,休闲"
     },
     {
       "raw_hot": 96257,
@@ -31889,14 +31905,6 @@
       "onboard_time": 1759914020,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93906,
-      "num": 122162,
-      "word": "我国成功发射试验三十一号卫星",
-      "onboard_time": 1760352741,
-      "rank": 28,
-      "category": "国内时政"
     },
     {
       "raw_hot": 93866,
@@ -34211,6 +34219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86329,
+      "num": 86329,
+      "word": "陈哲远新剧说四个字的压迫感",
+      "onboard_time": 1760352381,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86308,
       "num": 136639,
       "word": "赵睿和7号搭档的神级预判",
@@ -35411,6 +35427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81964,
+      "num": 81964,
+      "word": "梁靖崑vs阿拉米扬",
+      "onboard_time": 1760353881,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81963,
       "num": 81963,
       "word": "徐志胜被庞铮虐哭了",
@@ -35633,14 +35657,6 @@
       "onboard_time": 1759964598,
       "rank": 28,
       "category": "民生新闻,旅游"
-    },
-    {
-      "raw_hot": 80857,
-      "num": 80857,
-      "word": "梁靖崑vs阿拉米扬",
-      "onboard_time": 1760353881,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 80838,
@@ -35929,6 +35945,14 @@
       "onboard_time": 1759687936,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 79363,
+      "num": 79363,
+      "word": "孙颖莎的手",
+      "onboard_time": 1760354781,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 79358,
@@ -36419,6 +36443,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 77017,
+      "num": 77017,
+      "word": "金龟子女儿自曝二胎流产",
+      "onboard_time": 1760355381,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76959,
       "num": 76959,
       "word": "菲律宾地震68人死亡",
@@ -36529,6 +36561,14 @@
       "onboard_time": 1760261420,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 76591,
+      "num": 76591,
+      "word": "成都七中校服潮到巴黎时装周",
+      "onboard_time": 1760355320,
+      "rank": 46,
+      "category": "民生新闻,时尚"
     },
     {
       "raw_hot": 76516,
@@ -36929,6 +36969,14 @@
       "onboard_time": 1759734020,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 73908,
+      "num": 73908,
+      "word": "李沁用emoji形容今晚的付一笑",
+      "onboard_time": 1760354842,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 73903,
@@ -37809,14 +37857,6 @@
       "onboard_time": 1759825341,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67195,
-      "num": 98465,
-      "word": "韩国民调六成人反对四天半工作制",
-      "onboard_time": 1760353520,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 67063,
@@ -40067,6 +40107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44040,
+      "num": 98404,
+      "word": "vivo还是太听劝了",
+      "onboard_time": 1760353339,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 44032,
       "num": 109448,
       "word": "朝鲜民众晚上在大雨中观礼阅兵",
@@ -41033,14 +41081,6 @@
       "onboard_time": 1759605194,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 33064,
-      "num": 98404,
-      "word": "vivo还是太听劝了",
-      "onboard_time": 1760353339,
-      "rank": 39,
-      "category": "数码"
     },
     {
       "raw_hot": 32961,
