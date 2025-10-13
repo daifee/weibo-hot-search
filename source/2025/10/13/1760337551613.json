@@ -1,0 +1,410 @@
+{
+  "runTime": 1760337551613,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 871066,
+        "num": 1139370,
+        "word": "研二女生车祸致高位截瘫练出麒麟臂",
+        "onboard_time": 1760332522,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 328859,
+        "num": 328859,
+        "word": "中国反制后加拿大油菜籽价格大跌",
+        "onboard_time": 1760333663,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74943,
+        "num": 305851,
+        "word": "这是她她她她她她她她的手",
+        "onboard_time": 1760326822,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296189,
+        "num": 296189,
+        "word": "长期熬夜刷手机脸和身体垮了",
+        "onboard_time": 1760335642,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 291262,
+        "num": 291262,
+        "word": "小红书崩了",
+        "onboard_time": 1760329043,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 262786,
+        "num": 262786,
+        "word": "丝袜奶茶 真有丝袜",
+        "onboard_time": 1760333600,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229215,
+        "num": 229215,
+        "word": "挨家通报停火的巴勒斯坦记者被枪杀",
+        "onboard_time": 1760329763,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 225529,
+        "num": 225529,
+        "word": "老板说第一次短袖生意做了7个月",
+        "onboard_time": 1760330005,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216767,
+        "num": 216767,
+        "word": "洗脸巾残留化学纤维存在安全风险",
+        "onboard_time": 1760324180,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92435,
+        "num": 214851,
+        "word": "你好种地少年3",
+        "onboard_time": 1760322920,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 864530,
+        "num": 208039,
+        "word": "徐娇回应标价1850元马面裙面料争议",
+        "onboard_time": 1760336181,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 838594,
+        "num": 202248,
+        "word": "14岁女生与家人争吵后跳楼身亡",
+        "onboard_time": 1760333002,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338198,
+        "num": 194630,
+        "word": "十年前的招聘要求",
+        "onboard_time": 1760329284,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321184,
+        "num": 189058,
+        "word": "衣服阴干那种臭味怎么除掉",
+        "onboard_time": 1760328864,
+        "rank": 13,
+        "category": "议题讨论,休闲"
+      },
+      {
+        "raw_hot": 310153,
+        "num": 185424,
+        "word": "余景天 我连女孩子手都没牵过",
+        "onboard_time": 1760330303,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233755,
+        "num": 177689,
+        "word": "易烊千玺张天赐经常聚会",
+        "onboard_time": 1760336480,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176750,
+        "num": 176750,
+        "word": "心动的信号",
+        "onboard_time": 1760331564,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153130,
+        "num": 153130,
+        "word": "曝JackeyLove与iG三人录节目",
+        "onboard_time": 1760331444,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156614,
+        "num": 153087,
+        "word": "张予曦毕雯珺第二",
+        "onboard_time": 1760335161,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50964,
+        "num": 153037,
+        "word": "哈马斯开始释放以方被扣押人员",
+        "onboard_time": 1760336661,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304108,
+        "num": 152975,
+        "word": "相恋两年要88.8万彩礼才肯结婚",
+        "onboard_time": 1760333481,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288741,
+        "num": 152846,
+        "word": "建议word删除空白页纳入义务教育",
+        "onboard_time": 1760327303,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209243,
+        "num": 152782,
+        "word": "曝何炅自带衣服救场内幕",
+        "onboard_time": 1760331262,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152761,
+        "num": 152761,
+        "word": "南方降温",
+        "onboard_time": 1760322499,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150158,
+        "num": 150158,
+        "word": "儿子考61分全家沸腾下馆子庆祝",
+        "onboard_time": 1760325443,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138891,
+        "num": 138891,
+        "word": "黄金",
+        "onboard_time": 1760320159,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131759,
+        "num": 131759,
+        "word": "爸爸看手机婴儿车溜下坡翻车",
+        "onboard_time": 1760336002,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128317,
+        "num": 128317,
+        "word": "女将军人设很多却火不起来",
+        "onboard_time": 1760335462,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125521,
+        "num": 125521,
+        "word": "妇女的手是什么样的",
+        "onboard_time": 1760318898,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89902,
+        "num": 122273,
+        "word": "王者三星堆皮肤动画CG",
+        "onboard_time": 1760336421,
+        "rank": 29,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 141446,
+        "num": 122118,
+        "word": "LPL冠军选手聚会",
+        "onboard_time": 1760336720,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121483,
+        "num": 121483,
+        "word": "白鹿要回北京补牙了",
+        "onboard_time": 1760334142,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111594,
+        "num": 111594,
+        "word": "A股",
+        "onboard_time": 1760318959,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 64621,
+        "num": 110739,
+        "word": "胡歌可隆品牌代言人",
+        "onboard_time": 1760333722,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109997,
+        "num": 109997,
+        "word": "泰国导游强制消费威胁游客",
+        "onboard_time": 1760333363,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109939,
+        "num": 109939,
+        "word": "苏新皓 全楼的荣耀",
+        "onboard_time": 1760336661,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108769,
+        "num": 108769,
+        "word": "苏晓彤对周雨彤贴脸开大",
+        "onboard_time": 1760329704,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30153,
+        "num": 108060,
+        "word": "里夫斯膝盖受伤",
+        "onboard_time": 1760336720,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81839,
+        "num": 108052,
+        "word": "明星AI擦边内容成流量密码",
+        "onboard_time": 1760337081,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108044,
+        "num": 108044,
+        "word": "小红书异常已恢复",
+        "onboard_time": 1760337380,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 92089,
+        "num": 92089,
+        "word": "树莓小狗的泪痕",
+        "onboard_time": 1760337260,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 91192,
+        "num": 91192,
+        "word": "洗脸巾 毛巾",
+        "onboard_time": 1760330543,
+        "rank": 41,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 89883,
+        "num": 89883,
+        "word": "苏晓彤眉毛化了一个多小时",
+        "onboard_time": 1760333363,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83334,
+        "num": 83334,
+        "word": "4女6男谈出7段情",
+        "onboard_time": 1760329944,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82731,
+        "num": 82731,
+        "word": "陈哲远哭戏免检",
+        "onboard_time": 1760336602,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81736,
+        "num": 81736,
+        "word": "白举纲周笔畅十二年了还是咱仨",
+        "onboard_time": 1760334981,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79227,
+        "num": 79227,
+        "word": "熬夜后多吃这3类食物",
+        "onboard_time": 1760329345,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 78209,
+        "num": 78209,
+        "word": "你的头发怎么洗干净就不要了",
+        "onboard_time": 1760330903,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77001,
+        "num": 77001,
+        "word": "Angelababy看到粉丝哭崩不住了",
+        "onboard_time": 1760328984,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74354,
+        "num": 74354,
+        "word": "金饰价格涨到1189元",
+        "onboard_time": 1760334802,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025全球妇女峰会#"
+    }
+  }
+}

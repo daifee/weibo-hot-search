@@ -1,6 +1,6 @@
 {
   "startTime": 1760286516759,
-  "endTime": 1760334152540,
+  "endTime": 1760337551613,
   "band_list": [
     {
       "raw_hot": 1613573,
@@ -43,8 +43,32 @@
       "category": "财经"
     },
     {
+      "raw_hot": 871066,
+      "num": 1139370,
+      "word": "研二女生车祸致高位截瘫练出麒麟臂",
+      "onboard_time": 1760332522,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 864530,
+      "num": 208039,
+      "word": "徐娇回应标价1850元马面裙面料争议",
+      "onboard_time": 1760336181,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 838594,
+      "num": 202248,
+      "word": "14岁女生与家人争吵后跳楼身亡",
+      "onboard_time": 1760333002,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 757795,
-      "num": 186157,
+      "num": 194630,
       "word": "十年前的招聘要求",
       "onboard_time": 1760329284,
       "rank": 30,
@@ -131,14 +155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 517442,
-      "num": 517442,
-      "word": "研二女生车祸致高位截瘫练出麒麟臂",
-      "onboard_time": 1760332522,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 499178,
       "num": 186147,
       "word": "汽车起火多人救援目击者发声",
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 496195,
-      "num": 186139,
+      "num": 189058,
       "word": "衣服阴干那种臭味怎么除掉",
       "onboard_time": 1760328864,
       "rank": 17,
@@ -235,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 328859,
+      "num": 328859,
+      "word": "中国反制后加拿大油菜籽价格大跌",
+      "onboard_time": 1760333663,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 323340,
       "num": 323340,
       "word": "放假8天7天半掰玉米大学生回应质疑",
@@ -259,6 +283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 304108,
+      "num": 158571,
+      "word": "相恋两年要88.8万彩礼才肯结婚",
+      "onboard_time": 1760333481,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303634,
       "num": 303634,
       "word": "老板说第一次短袖生意做了7个月",
@@ -281,6 +313,14 @@
       "onboard_time": 1760321420,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 296189,
+      "num": 296189,
+      "word": "长期熬夜刷手机脸和身体垮了",
+      "onboard_time": 1760335642,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 287889,
@@ -308,7 +348,7 @@
     },
     {
       "raw_hot": 279279,
-      "num": 148208,
+      "num": 152782,
       "word": "曝何炅自带衣服救场内幕",
       "onboard_time": 1760331262,
       "rank": 22,
@@ -347,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 262786,
+      "num": 262786,
+      "word": "丝袜奶茶 真有丝袜",
+      "onboard_time": 1760333600,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261298,
       "num": 199972,
       "word": "外卖员 你还有时间拍照是吗",
@@ -379,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233755,
+      "num": 177689,
+      "word": "易烊千玺张天赐经常聚会",
+      "onboard_time": 1760336480,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 227296,
       "num": 186124,
       "word": "苏晓彤对周雨彤贴脸开大",
@@ -396,7 +452,7 @@
     },
     {
       "raw_hot": 223964,
-      "num": 175461,
+      "num": 176750,
       "word": "心动的信号",
       "onboard_time": 1760331564,
       "rank": 16,
@@ -420,7 +476,7 @@
     },
     {
       "raw_hot": 210575,
-      "num": 210575,
+      "num": 214851,
       "word": "你好种地少年3",
       "onboard_time": 1760322920,
       "rank": 19,
@@ -555,14 +611,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158571,
-      "num": 158571,
-      "word": "相恋两年要88.8万彩礼才肯结婚",
-      "onboard_time": 1760333481,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157604,
       "num": 157604,
       "word": "入戏",
@@ -587,6 +635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 156614,
+      "num": 153087,
+      "word": "张予曦毕雯珺第二",
+      "onboard_time": 1760335161,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155419,
       "num": 155419,
       "word": "河南阴雨天气按下暂停键",
@@ -601,6 +657,14 @@
       "onboard_time": 1760317520,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153130,
+      "num": 153130,
+      "word": "曝JackeyLove与iG三人录节目",
+      "onboard_time": 1760331444,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 146639,
@@ -633,6 +697,14 @@
       "onboard_time": 1760313980,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141446,
+      "num": 122118,
+      "word": "LPL冠军选手聚会",
+      "onboard_time": 1760336720,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 138936,
@@ -707,12 +779,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131802,
-      "num": 131802,
-      "word": "曝JackeyLove与iG三人录节目",
-      "onboard_time": 1760331444,
-      "rank": 33,
-      "category": "电竞"
+      "raw_hot": 131759,
+      "num": 131759,
+      "word": "爸爸看手机婴儿车溜下坡翻车",
+      "onboard_time": 1760336002,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131559,
@@ -737,6 +809,14 @@
       "onboard_time": 1760319920,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 128317,
+      "num": 128317,
+      "word": "女将军人设很多却火不起来",
+      "onboard_time": 1760335462,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 128212,
@@ -849,6 +929,14 @@
       "onboard_time": 1760320220,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121483,
+      "num": 121483,
+      "word": "白鹿要回北京补牙了",
+      "onboard_time": 1760334142,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 121245,
@@ -995,14 +1083,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 111641,
-      "num": 111641,
-      "word": "丝袜奶茶 真有丝袜",
-      "onboard_time": 1760333600,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111597,
       "num": 111597,
       "word": "35岁自学化妆1个月的变化",
@@ -1035,6 +1115,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109997,
+      "num": 109997,
+      "word": "泰国导游强制消费威胁游客",
+      "onboard_time": 1760333363,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 109939,
+      "num": 109939,
+      "word": "苏新皓 全楼的荣耀",
+      "onboard_time": 1760336661,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109854,
       "num": 109854,
       "word": "悲秋综合征",
@@ -1065,6 +1161,14 @@
       "onboard_time": 1760320279,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108044,
+      "num": 108044,
+      "word": "小红书异常已恢复",
+      "onboard_time": 1760337380,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 107337,
@@ -1211,6 +1315,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 92089,
+      "num": 92089,
+      "word": "树莓小狗的泪痕",
+      "onboard_time": 1760337260,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 91570,
       "num": 91570,
       "word": "服装店的秋装卖不动了",
@@ -1227,14 +1339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91283,
-      "num": 91283,
-      "word": "中国反制后加拿大油菜籽价格大跌",
-      "onboard_time": 1760333663,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 90532,
       "num": 90532,
       "word": "剧看了6集男主不知叫啥名",
@@ -1249,6 +1353,14 @@
       "onboard_time": 1760331444,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89902,
+      "num": 122273,
+      "word": "王者三星堆皮肤动画CG",
+      "onboard_time": 1760336421,
+      "rank": 29,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 89078,
@@ -1275,14 +1387,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 88292,
-      "num": 88292,
-      "word": "泰国导游强制消费威胁游客",
-      "onboard_time": 1760333363,
-      "rank": 46,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 87588,
       "num": 87588,
       "word": "小品界又多了一位女歌手",
@@ -1305,14 +1409,6 @@
       "onboard_time": 1760320279,
       "rank": 39,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 84650,
-      "num": 84650,
-      "word": "白鹿要回北京补牙了",
-      "onboard_time": 1760334142,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 83665,
@@ -1339,12 +1435,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 82731,
+      "num": 82731,
+      "word": "陈哲远哭戏免检",
+      "onboard_time": 1760336602,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82027,
       "num": 82027,
       "word": "你的头发怎么洗干净就不要了",
       "onboard_time": 1760330903,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81839,
+      "num": 108052,
+      "word": "明星AI擦边内容成流量密码",
+      "onboard_time": 1760337081,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81736,
+      "num": 81736,
+      "word": "白举纲周笔畅十二年了还是咱仨",
+      "onboard_time": 1760334981,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 81303,
@@ -1425,6 +1545,14 @@
       "onboard_time": 1760320640,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74354,
+      "num": 74354,
+      "word": "金饰价格涨到1189元",
+      "onboard_time": 1760334802,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 73869,
@@ -1619,6 +1747,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 50964,
+      "num": 153037,
+      "word": "哈马斯开始释放以方被扣押人员",
+      "onboard_time": 1760336661,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 50603,
       "num": 50603,
       "word": "吃饭顺序对血糖的影响有多大",
@@ -1753,6 +1889,14 @@
       "onboard_time": 1760298434,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30153,
+      "num": 108060,
+      "word": "里夫斯膝盖受伤",
+      "onboard_time": 1760336720,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 23976,

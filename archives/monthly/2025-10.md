@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 13:42:32
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 14:39:11
 </p>
 </blockquote>
 <p>
@@ -1443,6 +1443,12 @@ A股（热度：871787）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E4%BA%8C%E5%A5%B3%E7%94%9F%E8%BD%A6%E7%A5%B8%E8%87%B4%E9%AB%98%E4%BD%8D%E6%88%AA%E7%98%AB%E7%BB%83%E5%87%BA%E9%BA%92%E9%BA%9F%E8%87%82%23" target="weibo">
+研二女生车祸致高位截瘫练出麒麟臂（热度：871066）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%239%E4%BA%BA%E8%BD%AE%E6%B5%81%E7%9D%A18%E5%BC%A0%E5%BA%8A%E5%AD%A6%E7%94%9F%E5%B7%B2%E5%AE%9E%E7%8E%B01%E4%BA%BA1%E9%93%BA%23" target="weibo">
 9人轮流睡8张床学生已实现1人1铺（热度：871020）
 </a>
@@ -1457,6 +1463,12 @@ A股（热度：871787）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%20%E7%96%B2%E6%83%AB%23" target="weibo">
 鸡排哥 疲惫（热度：864980）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%A8%87%E5%9B%9E%E5%BA%94%E6%A0%87%E4%BB%B71850%E5%85%83%E9%A9%AC%E9%9D%A2%E8%A3%99%E9%9D%A2%E6%96%99%E4%BA%89%E8%AE%AE%23" target="weibo">
+徐娇回应标价1850元马面裙面料争议（热度：864530）
 </a>
 </li>
 
@@ -1541,6 +1553,12 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B2%81%20%E4%BF%BA%E6%83%B3%E4%BD%A0%E4%BA%86%23" target="weibo">
 鲁 俺想你了（热度：839994）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%A5%B3%E7%94%9F%E4%B8%8E%E5%AE%B6%E4%BA%BA%E4%BA%89%E5%90%B5%E5%90%8E%E8%B7%B3%E6%A5%BC%E8%BA%AB%E4%BA%A1%23" target="weibo">
+14岁女生与家人争吵后跳楼身亡（热度：838594）
 </a>
 </li>
 
@@ -3395,12 +3413,6 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E5%A5%B3%E7%94%9F%E4%B8%8E%E5%AE%B6%E4%BA%BA%E4%BA%89%E5%90%B5%E5%90%8E%E6%A5%BC%E8%B7%B3%E8%BA%AB%E4%BA%A1%23" target="weibo">
 14岁女生与家人争吵后楼跳身亡（热度：518243）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E4%BA%8C%E5%A5%B3%E7%94%9F%E8%BD%A6%E7%A5%B8%E8%87%B4%E9%AB%98%E4%BD%8D%E6%88%AA%E7%98%AB%E7%BB%83%E5%87%BA%E9%BA%92%E9%BA%9F%E8%87%82%23" target="weibo">
-研二女生车祸致高位截瘫练出麒麟臂（热度：517442）
 </a>
 </li>
 
@@ -5715,6 +5727,12 @@ WTT（热度：332672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%8D%E5%88%B6%E5%90%8E%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%B2%B9%E8%8F%9C%E7%B1%BD%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%8C%23" target="weibo">
+中国反制后加拿大油菜籽价格大跌（热度：328859）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E6%97%A0%E9%94%A13%E6%AF%940%E7%9B%90%E5%9F%8E%23" target="weibo">
 苏超无锡3比0盐城（热度：327154）
 </a>
@@ -5993,24 +6011,6 @@ MiuMiu巴黎时装周（热度：318258）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E7%98%A6%E4%BA%8650%E6%96%A4%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
 当我瘦了50斤奶奶的反应（热度：315459）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%83%A8%E9%98%9F%E9%94%85%E5%8E%9F%E8%BA%AB%E6%98%AF%E5%89%A9%E8%8F%9C%E7%8C%AA%E9%A3%9F%E7%B2%A5%23" target="weibo">
-韩国部队锅原身是剩菜猪食粥（热度：314460）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E5%91%BD%E5%93%A5%E8%A3%85%E7%97%85%E8%BA%B2%E7%A6%BB%E5%A9%9A%23" target="weibo">
-好命哥装病躲离婚（热度：313818）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%8A%95%E7%A5%A8%23" target="weibo">
-王者荣耀投票（热度：313584）
 </a>
 </li>
 
