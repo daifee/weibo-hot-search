@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/12 00:27:55 ~ 2025/10/14 05:36:24
+本榜单时间：2025/10/12 00:27:55 ~ 2025/10/14 06:23:24
 </p>
 </blockquote>
 <p>
@@ -5145,6 +5145,12 @@ NI家的老车是一部活相册（热度：37970）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E8%80%81%E5%B8%88%E8%A6%81%E6%B1%82%E5%AD%A6%E7%94%9F%E7%A0%B8%E6%AF%81%E6%89%8B%E6%9C%BA%23" target="weibo">
+教育局回应老师要求学生砸毁手机（热度：29705）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A4%E7%BB%B4%E7%B2%92%E8%A7%86%E9%A2%91%E8%A2%AB%E7%A6%81%E6%AD%A2%E6%92%AD%E6%94%BE%23" target="weibo">
 纤维粒视频被禁止播放（热度：29644）
 </a>
@@ -5253,6 +5259,12 @@ S15倒计时2天（热度：21607）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E6%86%8B%E4%BA%86%E5%8D%8A%E8%BE%88%E5%AD%90%E7%BB%88%E4%BA%8E%E8%83%BD%E8%AF%B4%E4%BA%86%23" target="weibo">
+大爷憋了半辈子终于能说了（热度：19609）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%BD%E4%BF%AE%E5%BA%97%E4%B8%BB%E9%80%92%E6%B0%B4%E5%8D%81%E5%B9%B4%E5%90%8E%E8%8E%B7%E5%BE%8B%E5%B8%88%E5%85%8D%E8%B4%B9%E8%BE%A9%E6%8A%A4%23" target="weibo">
 汽修店主递水十年后获律师免费辩护（热度：19522）
 </a>
@@ -5271,8 +5283,20 @@ S15倒计时2天（热度：21607）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%94%E8%B1%A1%E5%B1%80%E8%A7%A3%E9%87%8A%E8%A5%BF%E5%AE%89%E8%BF%9E%E7%BB%AD%E9%99%8D%E9%9B%A8%E6%88%90%E5%9B%A0%23" target="weibo">
+气象局解释西安连续降雨成因（热度：18222）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Doinb%E8%81%8ALPL%E5%92%8CLCK%E8%AE%AD%E7%BB%83%E7%8E%AF%E5%A2%83%23" target="weibo">
 Doinb聊LPL和LCK训练环境（热度：18181）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AF%E6%B5%B7%E8%8E%89%E5%91%A8%E5%B9%B4%E6%97%85%E8%A1%8C%E7%85%A7%23" target="weibo">
+比伯海莉周年旅行照（热度：16824）
 </a>
 </li>
 
@@ -5284,7 +5308,7 @@ Doinb聊LPL和LCK训练环境（热度：18181）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E7%8B%97%E7%9C%9F%E5%BF%83%E7%A2%8E%E4%BA%86%E4%B8%80%E5%9C%B0%23" target="weibo">
-狗狗真心碎了一地（热度：15415）
+狗狗真心碎了一地（热度：16336）
 </a>
 </li>
 
@@ -5295,8 +5319,8 @@ Doinb聊LPL和LCK训练环境（热度：18181）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AF%E6%B5%B7%E8%8E%89%E5%91%A8%E5%B9%B4%E6%97%85%E8%A1%8C%E7%85%A7%23" target="weibo">
-比伯海莉周年旅行照（热度：13282）
+<a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%86%E4%BA%BA%E6%95%B0TOP%E5%89%8D%E4%B8%89%23" target="weibo">
+豆瓣评分人数TOP前三（热度：13977）
 </a>
 </li>
 
