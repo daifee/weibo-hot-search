@@ -1,0 +1,410 @@
+{
+  "runTime": 1760325347705,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 631058,
+        "num": 1100969,
+        "word": "男女平等不是要一种特权",
+        "onboard_time": 1760319560,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422285,
+        "num": 422285,
+        "word": "父母多次嘱咐走红大学生要低调",
+        "onboard_time": 1760319560,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17778,
+        "num": 404969,
+        "word": "刘老庄人在刘老庄连",
+        "onboard_time": 1760325262,
+        "rank": 2,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 1075670,
+        "num": 402422,
+        "word": "成都 小米",
+        "onboard_time": 1760324120,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 553388,
+        "num": 397942,
+        "word": "黄金",
+        "onboard_time": 1760320159,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 391282,
+        "num": 391282,
+        "word": "南方降温",
+        "onboard_time": 1760322499,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293574,
+        "num": 293574,
+        "word": "洗脸巾残留化学纤维存在安全风险",
+        "onboard_time": 1760324180,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283144,
+        "num": 283144,
+        "word": "A股",
+        "onboard_time": 1760318959,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 275818,
+        "num": 275818,
+        "word": "130万美军欠薪特朗普阅兵狂欢",
+        "onboard_time": 1760318840,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 274416,
+        "num": 274416,
+        "word": "特朗普",
+        "onboard_time": 1760319678,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8127,
+        "num": 272080,
+        "word": "这里是中国",
+        "onboard_time": 1760276421,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 299235,
+        "num": 272012,
+        "word": "盛世天下主演两个小时的杂志销量",
+        "onboard_time": 1760321420,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 271041,
+        "num": 271041,
+        "word": "和男朋友分手后妈妈仿佛中年丧子",
+        "onboard_time": 1760318359,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 257168,
+        "num": 257168,
+        "word": "妇女的手是什么样的",
+        "onboard_time": 1760318898,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 247996,
+        "num": 247996,
+        "word": "成都一车辆起火多人救援打不开门",
+        "onboard_time": 1760324300,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225729,
+        "num": 225729,
+        "word": "去韩国后文化自信具象化了",
+        "onboard_time": 1760321119,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222445,
+        "num": 222445,
+        "word": "周杰伦患强直性脊柱炎超20年",
+        "onboard_time": 1760277920,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221597,
+        "num": 221597,
+        "word": "为什么贷款骚扰电话变少了",
+        "onboard_time": 1760276901,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62676,
+        "num": 214916,
+        "word": "用2亿像素接住国宝浪漫",
+        "onboard_time": 1760321300,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210575,
+        "num": 210575,
+        "word": "你好种地少年3",
+        "onboard_time": 1760322920,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208781,
+        "num": 208781,
+        "word": "张杰演唱会电力故障用喇叭唱逆战",
+        "onboard_time": 1760315783,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190541,
+        "num": 190541,
+        "word": "相关部门回应天府大道汽车起火",
+        "onboard_time": 1760324180,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174173,
+        "num": 174173,
+        "word": "绿茶出场最短的短剧出现了",
+        "onboard_time": 1760324482,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170799,
+        "num": 170799,
+        "word": "比特币24小时逾18万人爆仓",
+        "onboard_time": 1760319498,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153782,
+        "num": 153782,
+        "word": "周杰伦明年启动全新巡演",
+        "onboard_time": 1760324001,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148288,
+        "num": 148288,
+        "word": "央视曝光AI代写论文黑工厂",
+        "onboard_time": 1760283740,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 144642,
+        "num": 144642,
+        "word": "追星女老了的样子在此刻具像化",
+        "onboard_time": 1760321479,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141046,
+        "num": 141046,
+        "word": "北方秋裤穿了脱脱了穿",
+        "onboard_time": 1760317520,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134919,
+        "num": 134919,
+        "word": "李昀锐吃成蜜蜂狗了",
+        "onboard_time": 1760323220,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130564,
+        "num": 130564,
+        "word": "艾热孜巴曾因分手删完了三年的照片",
+        "onboard_time": 1760324300,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127557,
+        "num": 127557,
+        "word": "勇士vs湖人",
+        "onboard_time": 1760324120,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124016,
+        "num": 124016,
+        "word": "鹿晗小卡",
+        "onboard_time": 1760325142,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123375,
+        "num": 123375,
+        "word": "长沙子弹库战国帛书划拨入藏",
+        "onboard_time": 1760325081,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122825,
+        "num": 122825,
+        "word": "OPPO陈希爆料最新一代ColorOS",
+        "onboard_time": 1760325142,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 62532,
+        "num": 119237,
+        "word": "成都一小车失控后起火驾驶员遇难",
+        "onboard_time": 1760325262,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117401,
+        "num": 117401,
+        "word": "井胧一上央视就不一样",
+        "onboard_time": 1760323100,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117057,
+        "num": 117057,
+        "word": "姚明回应养老金",
+        "onboard_time": 1760320220,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114363,
+        "num": 114363,
+        "word": "河南阴雨天气按下暂停键",
+        "onboard_time": 1760319498,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113483,
+        "num": 113483,
+        "word": "带状疱疹病毒激活的三大信号",
+        "onboard_time": 1760311038,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 113304,
+        "num": 113304,
+        "word": "47岁的刘烨",
+        "onboard_time": 1760325021,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111775,
+        "num": 111775,
+        "word": "飞儿的歌还得是Faye来唱",
+        "onboard_time": 1760322680,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106773,
+        "num": 106773,
+        "word": "苹果或迎特努斯时代",
+        "onboard_time": 1760325262,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 102981,
+        "num": 102981,
+        "word": "宋亚轩的真身是红色塑料袋",
+        "onboard_time": 1760324600,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101020,
+        "num": 101020,
+        "word": "张继科说永远不会到国外当教练",
+        "onboard_time": 1760320699,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97955,
+        "num": 97955,
+        "word": "沈佳润说爸爸妈妈抱团很严重",
+        "onboard_time": 1760310918,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93157,
+        "num": 93157,
+        "word": "黄力平任万科董事长",
+        "onboard_time": 1760317160,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145916,
+        "num": 93043,
+        "word": "演员杨祐宁父亲因癌症去世",
+        "onboard_time": 1760324060,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92797,
+        "num": 92797,
+        "word": "用粘土和桂花留住秋天",
+        "onboard_time": 1760324662,
+        "rank": 47,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 91204,
+        "num": 91204,
+        "word": "刘少昂一穿二绝杀",
+        "onboard_time": 1760319920,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49134,
+        "num": 91083,
+        "word": "白鹿三部剧入围",
+        "onboard_time": 1760283980,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#2025全球妇女峰会#"
+    }
+  }
+}
