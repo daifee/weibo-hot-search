@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/12 00:27:55 ~ 2025/10/14 06:23:24
+本榜单时间：2025/10/12 00:27:55 ~ 2025/10/14 06:39:57
 </p>
 </blockquote>
 <p>
@@ -4371,6 +4371,12 @@ S15非遗主题出征照（热度：78174）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E8%AE%BA%E6%96%87%E4%BB%A3%E5%86%99%E4%BB%A3%E5%8F%91%E5%B7%A5%E5%8E%82%23" target="weibo">
+记者卧底论文代写代发工厂（热度：75779）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%97%B6%E8%A3%85%E5%91%A8%E5%86%85%E8%A1%A3%E5%A4%96%E7%A9%BF%E8%B5%B0%E7%A7%80%E5%BC%95%E7%83%AD%E8%AE%AE%23" target="weibo">
 上海时装周内衣外穿走秀引热议（热度：75612）
 </a>
@@ -4601,12 +4607,6 @@ Fly腱鞘炎（热度：71228）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9D%93%E9%A2%96%E6%8A%A5%E5%B9%B3%E5%AE%89%23" target="weibo">
 张靓颖报平安（热度：67149）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E5%8D%A7%E5%BA%95%E8%AE%BA%E6%96%87%E4%BB%A3%E5%86%99%E4%BB%A3%E5%8F%91%E5%B7%A5%E5%8E%82%23" target="weibo">
-记者卧底论文代写代发工厂（热度：66186）
 </a>
 </li>
 
@@ -5109,6 +5109,12 @@ NI家的老车是一部活相册（热度：37970）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E8%80%81%E5%B8%88%E8%A6%81%E6%B1%82%E5%AD%A6%E7%94%9F%E7%A0%B8%E6%AF%81%E6%89%8B%E6%9C%BA%23" target="weibo">
+教育局回应老师要求学生砸毁手机（热度：33047）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%90%8C%E5%93%81%E7%89%8C%E7%9A%842%E4%BA%BF%E5%83%8F%E7%B4%A0%E6%89%8B%E6%9C%BA%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%23" target="weibo">
 不同品牌的2亿像素手机有什么区别（热度：32754）
 </a>
@@ -5145,8 +5151,8 @@ NI家的老车是一部活相册（热度：37970）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E8%80%81%E5%B8%88%E8%A6%81%E6%B1%82%E5%AD%A6%E7%94%9F%E7%A0%B8%E6%AF%81%E6%89%8B%E6%9C%BA%23" target="weibo">
-教育局回应老师要求学生砸毁手机（热度：29705）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E6%86%8B%E4%BA%86%E5%8D%8A%E8%BE%88%E5%AD%90%E7%BB%88%E4%BA%8E%E8%83%BD%E8%AF%B4%E4%BA%86%23" target="weibo">
+大爷憋了半辈子终于能说了（热度：29672）
 </a>
 </li>
 
@@ -5183,6 +5189,12 @@ NI家的老车是一部活相册（热度：37970）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%AB%E6%A1%89%E9%A2%9C%E5%AE%89%E9%A6%96%E6%AC%A1%E5%90%88%E4%BD%93%23" target="weibo">
 闫桉颜安首次合体（热度：26751）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%94%E8%B1%A1%E5%B1%80%E8%A7%A3%E9%87%8A%E8%A5%BF%E5%AE%89%E8%BF%9E%E7%BB%AD%E9%99%8D%E9%9B%A8%E6%88%90%E5%9B%A0%23" target="weibo">
+气象局解释西安连续降雨成因（热度：25796）
 </a>
 </li>
 
@@ -5229,6 +5241,12 @@ NI家的老车是一部活相册（热度：37970）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%86%E4%BA%BA%E6%95%B0TOP%E5%89%8D%E4%B8%89%23" target="weibo">
+豆瓣评分人数TOP前三（热度：21930）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23S15%E5%80%92%E8%AE%A1%E6%97%B62%E5%A4%A9%23" target="weibo">
 S15倒计时2天（热度：21607）
 </a>
@@ -5259,8 +5277,8 @@ S15倒计时2天（热度：21607）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E6%86%8B%E4%BA%86%E5%8D%8A%E8%BE%88%E5%AD%90%E7%BB%88%E4%BA%8E%E8%83%BD%E8%AF%B4%E4%BA%86%23" target="weibo">
-大爷憋了半辈子终于能说了（热度：19609）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AF%E6%B5%B7%E8%8E%89%E5%91%A8%E5%B9%B4%E6%97%85%E8%A1%8C%E7%85%A7%23" target="weibo">
+比伯海莉周年旅行照（热度：19792）
 </a>
 </li>
 
@@ -5283,20 +5301,14 @@ S15倒计时2天（热度：21607）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%94%E8%B1%A1%E5%B1%80%E8%A7%A3%E9%87%8A%E8%A5%BF%E5%AE%89%E8%BF%9E%E7%BB%AD%E9%99%8D%E9%9B%A8%E6%88%90%E5%9B%A0%23" target="weibo">
-气象局解释西安连续降雨成因（热度：18222）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Doinb%E8%81%8ALPL%E5%92%8CLCK%E8%AE%AD%E7%BB%83%E7%8E%AF%E5%A2%83%23" target="weibo">
 Doinb聊LPL和LCK训练环境（热度：18181）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AF%E6%B5%B7%E8%8E%89%E5%91%A8%E5%B9%B4%E6%97%85%E8%A1%8C%E7%85%A7%23" target="weibo">
-比伯海莉周年旅行照（热度：16824）
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E6%B4%9B%E6%A1%91%E7%BE%A4%E5%9F%B9%E5%8E%BB%E4%B8%96%23" target="weibo">
+演员洛桑群培去世（热度：17037）
 </a>
 </li>
 
@@ -5315,12 +5327,6 @@ Doinb聊LPL和LCK训练环境（热度：18181）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%89%8D%E5%9E%8B%E4%BA%BA%E6%A0%BC%23" target="weibo">
 以前型人格（热度：14114）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%86%E4%BA%BA%E6%95%B0TOP%E5%89%8D%E4%B8%89%23" target="weibo">
-豆瓣评分人数TOP前三（热度：13977）
 </a>
 </li>
 

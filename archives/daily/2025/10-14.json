@@ -1,6 +1,6 @@
 {
   "startTime": 1760373145920,
-  "endTime": 1760394204434,
+  "endTime": 1760395197018,
   "band_list": [
     {
       "raw_hot": 592408,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75779,
+      "num": 75779,
+      "word": "记者卧底论文代写代发工厂",
+      "onboard_time": 1760372539,
+      "rank": 41,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 74322,
       "num": 74322,
       "word": "在黑龙江鹤岗2万块钱买了房子",
@@ -305,14 +313,6 @@
       "onboard_time": 1760348481,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 66186,
-      "num": 66186,
-      "word": "记者卧底论文代写代发工厂",
-      "onboard_time": 1760372539,
-      "rank": 41,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 64494,
@@ -427,6 +427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 33047,
+      "num": 33047,
+      "word": "教育局回应老师要求学生砸毁手机",
+      "onboard_time": 1760390594,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32500,
       "num": 50917,
       "word": "英雄联盟主题曲",
@@ -443,12 +451,12 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 29705,
-      "num": 29705,
-      "word": "教育局回应老师要求学生砸毁手机",
-      "onboard_time": 1760390594,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 29672,
+      "num": 29672,
+      "word": "大爷憋了半辈子终于能说了",
+      "onboard_time": 1760393054,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 28618,
@@ -457,6 +465,14 @@
       "onboard_time": 1760343682,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25796,
+      "num": 29653,
+      "word": "气象局解释西安连续降雨成因",
+      "onboard_time": 1760393174,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24829,
@@ -475,32 +491,32 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 19609,
-      "num": 28383,
-      "word": "大爷憋了半辈子终于能说了",
-      "onboard_time": 1760393054,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 21930,
+      "num": 33166,
+      "word": "豆瓣评分人数TOP前三",
+      "onboard_time": 1760394074,
+      "rank": 48,
+      "category": "剧集"
     },
     {
-      "raw_hot": 18222,
-      "num": 28279,
-      "word": "气象局解释西安连续降雨成因",
-      "onboard_time": 1760393174,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16824,
-      "num": 28257,
+      "raw_hot": 19792,
+      "num": 29632,
       "word": "比伯海莉周年旅行照",
       "onboard_time": 1760386574,
       "rank": 49,
       "category": "艺人"
     },
     {
+      "raw_hot": 17037,
+      "num": 29621,
+      "word": "演员洛桑群培去世",
+      "onboard_time": 1760394795,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16336,
-      "num": 28244,
+      "num": 29619,
       "word": "狗狗真心碎了一地",
       "onboard_time": 1760387955,
       "rank": 49,
@@ -513,14 +529,6 @@
       "onboard_time": 1760360541,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 13977,
-      "num": 28221,
-      "word": "豆瓣评分人数TOP前三",
-      "onboard_time": 1760394074,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 13050,
