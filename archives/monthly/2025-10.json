@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760397776108,
+  "endTime": 1760398607574,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -2811,6 +2811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 697579,
+      "num": 921612,
+      "word": "业主私挖300平地下室32户开裂",
+      "onboard_time": 1760367802,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 695264,
       "num": 213178,
       "word": "娱乐圈的顶级公关",
@@ -3152,6 +3160,14 @@
       "word": "女演员谢玲玲曝豪门生存潜规则",
       "onboard_time": 1760345661,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 655728,
+      "num": 124364,
+      "word": "宁静说明星私底下都不太联系",
+      "onboard_time": 1760397317,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -4281,14 +4297,6 @@
       "onboard_time": 1759377320,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 546185,
-      "num": 819510,
-      "word": "业主私挖300平地下室32户开裂",
-      "onboard_time": 1760367802,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 545938,
@@ -6704,14 +6712,6 @@
       "word": "经纪人回应女星抢娜扎休息室",
       "onboard_time": 1760251100,
       "rank": 30,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 391800,
-      "num": 114978,
-      "word": "宁静说明星私底下都不太联系",
-      "onboard_time": 1760397317,
-      "rank": 12,
       "category": "艺人"
     },
     {
@@ -9276,7 +9276,7 @@
     },
     {
       "raw_hot": 283887,
-      "num": 204103,
+      "num": 215935,
       "word": "第一批追大奉的人嘴角压不住了",
       "onboard_time": 1760369061,
       "rank": 38,
@@ -14971,6 +14971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 177654,
+      "num": 177654,
+      "word": "记者卧底论文代写代发工厂",
+      "onboard_time": 1760372539,
+      "rank": 41,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 177616,
       "num": 177616,
       "word": "全运会宣传片樊振东打头阵",
@@ -15369,6 +15377,14 @@
       "onboard_time": 1760324482,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174161,
+      "num": 121372,
+      "word": "黄子韬十月十六号婚礼",
+      "onboard_time": 1760397678,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 174144,
@@ -18411,6 +18427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149315,
+      "num": 130779,
+      "word": "葛荟婕自曝没带走女儿的原因",
+      "onboard_time": 1760368701,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149258,
       "num": 149258,
       "word": "丞磊云包场入青云",
@@ -18435,12 +18459,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148993,
-      "num": 148993,
-      "word": "记者卧底论文代写代发工厂",
-      "onboard_time": 1760372539,
-      "rank": 41,
-      "category": "民生新闻,互联网"
+      "raw_hot": 148989,
+      "num": 148989,
+      "word": "豆瓣评分人数TOP前三",
+      "onboard_time": 1760394074,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 148969,
@@ -21923,14 +21947,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 130779,
-      "num": 130779,
-      "word": "葛荟婕自曝没带走女儿的原因",
-      "onboard_time": 1760368701,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130759,
       "num": 130759,
       "word": "拜登接受癌症放射治疗",
@@ -25003,14 +25019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117951,
-      "num": 117951,
-      "word": "豆瓣评分人数TOP前三",
-      "onboard_time": 1760394074,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117900,
       "num": 117900,
       "word": "时装周最亮眼艺人推荐",
@@ -26124,7 +26132,7 @@
     },
     {
       "raw_hot": 113727,
-      "num": 109838,
+      "num": 111533,
       "word": "机构称去年发13万篇论文挣8000万",
       "onboard_time": 1760371460,
       "rank": 23,
@@ -31931,6 +31939,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 96033,
+      "num": 96033,
+      "word": "国乒全员油头",
+      "onboard_time": 1760397619,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95960,
       "num": 95960,
       "word": "大学生对钱没概念有多可怕",
@@ -34947,6 +34963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86582,
+      "num": 86582,
+      "word": "气象局解释西安连续降雨成因",
+      "onboard_time": 1760393174,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86564,
       "num": 86564,
       "word": "地震预警爸爸光速跑路差点忘了娃",
@@ -35705,6 +35729,14 @@
       "onboard_time": 1760236100,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83882,
+      "num": 68963,
+      "word": "中国篮协发布处罚通报",
+      "onboard_time": 1760397558,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 83848,
@@ -36763,6 +36795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79466,
+      "num": 68948,
+      "word": "被体制内大佬的工作留痕震撼到了",
+      "onboard_time": 1760397619,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 79458,
       "num": 87522,
       "word": "我们喝的西米到底是哪里来的",
@@ -37627,6 +37667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74986,
+      "num": 74986,
+      "word": "交通部发布对美船舶收费10条实施办法",
+      "onboard_time": 1760395216,
+      "rank": 22,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 74974,
       "num": 91160,
       "word": "娜扎面对闪光灯不眨眼挑战",
@@ -37865,14 +37913,6 @@
       "onboard_time": 1759420400,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 73370,
-      "num": 73370,
-      "word": "交通部发布对美船舶收费10条实施办法",
-      "onboard_time": 1760395216,
-      "rank": 22,
-      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 73322,
@@ -38219,6 +38259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 71122,
+      "num": 68838,
+      "word": "小狗在街上认出妈妈时的反应",
+      "onboard_time": 1760397619,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71117,
       "num": 111516,
       "word": "猫猫 人不吃的话猫可以吃吗",
@@ -38273,14 +38321,6 @@
       "onboard_time": 1759850182,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 70770,
-      "num": 62978,
-      "word": "中国篮协发布处罚通报",
-      "onboard_time": 1760397558,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 70710,
@@ -38499,6 +38539,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 68991,
+      "num": 68991,
+      "word": "减肥真的要发狠",
+      "onboard_time": 1760397678,
+      "rank": 39,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 68946,
       "num": 128502,
       "word": "杨瀚森走步",
@@ -38579,6 +38627,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 68528,
+      "num": 68528,
+      "word": "物业回应业主私挖300平地下室",
+      "onboard_time": 1760397919,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68522,
       "num": 68522,
       "word": "金价涨势能否持续",
@@ -38625,6 +38681,14 @@
       "onboard_time": 1759886720,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68228,
+      "num": 68228,
+      "word": "荷兰政府将限制闻泰科技子公司",
+      "onboard_time": 1760379195,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 68226,
@@ -38819,20 +38883,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66635,
+      "num": 66635,
+      "word": "iG对战海报",
+      "onboard_time": 1760397619,
+      "rank": 36,
+      "category": "电竞,其它"
+    },
+    {
       "raw_hot": 66577,
       "num": 150284,
       "word": "金靖搞笑女人设被换了吗",
       "onboard_time": 1759498341,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 66464,
-      "num": 66464,
-      "word": "气象局解释西安连续降雨成因",
-      "onboard_time": 1760393174,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66455,
@@ -39019,14 +39083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 65071,
-      "num": 62691,
-      "word": "被体制内大佬的工作留痕震撼到了",
-      "onboard_time": 1760397619,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 65016,
       "num": 65016,
       "word": "普京称扣押运俄油油轮或引发冲突",
@@ -39123,6 +39179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64282,
+      "num": 64282,
+      "word": "库克宣布iPhoneAir上市时间",
+      "onboard_time": 1760398218,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 64132,
       "num": 67463,
       "word": "有这个全自动洗头机你愿意天天洗头吗",
@@ -39195,28 +39259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63480,
-      "num": 62487,
-      "word": "国乒全员油头",
-      "onboard_time": 1760397619,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 63468,
       "num": 246357,
       "word": "vivoX300系列发布会",
       "onboard_time": 1760356522,
       "rank": 7,
       "category": "数码"
-    },
-    {
-      "raw_hot": 63456,
-      "num": 63456,
-      "word": "荷兰政府将限制闻泰科技子公司",
-      "onboard_time": 1760379195,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 63449,
@@ -39321,14 +39369,6 @@
       "onboard_time": 1759232782,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 62369,
-      "num": 62369,
-      "word": "小狗在街上认出妈妈时的反应",
-      "onboard_time": 1760397619,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 62181,
@@ -39443,6 +39483,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 60822,
+      "num": 60822,
+      "word": "GALA乐队为GALA加油",
+      "onboard_time": 1760397678,
+      "rank": 48,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 60808,
       "num": 60808,
       "word": "东北虎不爱干净得名二埋汰",
@@ -39467,14 +39515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 60634,
-      "num": 60634,
-      "word": "黄子韬十月十六号婚礼",
-      "onboard_time": 1760397678,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 60608,
       "num": 60608,
       "word": "第一次国庆不用写作业",
@@ -39489,14 +39529,6 @@
       "onboard_time": 1760167881,
       "rank": 26,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 60487,
-      "num": 60487,
-      "word": "iG对战海报",
-      "onboard_time": 1760397619,
-      "rank": 36,
-      "category": "电竞,其它"
     },
     {
       "raw_hot": 60467,
@@ -39987,6 +40019,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 55387,
+      "num": 55387,
+      "word": "王俊凯NBA名人赛核心C位",
+      "onboard_time": 1760398158,
+      "rank": 43,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 55380,
       "num": 59673,
       "word": "黄金有望突破4100",
@@ -40089,6 +40129,14 @@
       "onboard_time": 1759630579,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54765,
+      "num": 54765,
+      "word": "婚礼全家福狗狗找位置被新郎抱入镜",
+      "onboard_time": 1760397738,
+      "rank": 47,
+      "category": "正能量"
     },
     {
       "raw_hot": 54549,
@@ -40209,14 +40257,6 @@
       "onboard_time": 1760024540,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53917,
-      "num": 53917,
-      "word": "减肥真的要发狠",
-      "onboard_time": 1760397678,
-      "rank": 39,
-      "category": "运动健身"
     },
     {
       "raw_hot": 53893,
@@ -40491,6 +40531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 51125,
+      "num": 51125,
+      "word": "伊朗教练违规进入场地争论",
+      "onboard_time": 1760397979,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51078,
       "num": 100916,
       "word": "吉祥航空回应连换3驾飞机未起飞",
@@ -40601,6 +40649,14 @@
       "onboard_time": 1760310438,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 50519,
+      "num": 50519,
+      "word": "徐璐 人间水蜜桃",
+      "onboard_time": 1760398278,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 50385,
@@ -41171,14 +41227,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 43974,
-      "num": 43974,
-      "word": "婚礼全家福狗狗找位置被新郎抱入镜",
-      "onboard_time": 1760397738,
-      "rank": 47,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 43915,
       "num": 43915,
       "word": "曝LPL转会期大变革",
@@ -41505,14 +41553,6 @@
       "onboard_time": 1760336720,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40051,
-      "num": 40051,
-      "word": "GALA乐队为GALA加油",
-      "onboard_time": 1760397678,
-      "rank": 48,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 40049,
