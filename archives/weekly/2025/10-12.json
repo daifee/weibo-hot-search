@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760325347705,
+  "endTime": 1760326315868,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -25,6 +25,14 @@
       "onboard_time": 1760229739,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1327731,
+      "num": 402422,
+      "word": "成都 小米",
+      "onboard_time": 1760324120,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1266268,
@@ -72,14 +80,6 @@
       "word": "成都天府大道小米自燃",
       "onboard_time": 1760318121,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1075670,
-      "num": 402422,
-      "word": "成都 小米",
-      "onboard_time": 1760324120,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -251,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 655035,
+      "num": 1104805,
+      "word": "男女平等不是要一种特权",
+      "onboard_time": 1760319560,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 643633,
       "num": 301234,
       "word": "何晟铭女儿13岁了",
@@ -281,14 +289,6 @@
       "onboard_time": 1760266160,
       "rank": 15,
       "category": "美食"
-    },
-    {
-      "raw_hot": 631058,
-      "num": 1100969,
-      "word": "男女平等不是要一种特权",
-      "onboard_time": 1760319560,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 613237,
@@ -512,6 +512,14 @@
       "word": "高反失温女孩术后已昏迷3天",
       "onboard_time": 1760227639,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 445172,
+      "num": 445172,
+      "word": "成都一车辆起火多人救援打不开门",
+      "onboard_time": 1760324300,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -763,6 +771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 303637,
+      "num": 187762,
+      "word": "儿子考61分全家沸腾下馆子庆祝",
+      "onboard_time": 1760325443,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301370,
       "num": 301370,
       "word": "比特币24小时逾18万人爆仓",
@@ -787,6 +803,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 298841,
+      "num": 298841,
+      "word": "洗脸巾残留化学纤维存在安全风险",
+      "onboard_time": 1760324180,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 297427,
       "num": 115733,
       "word": "差点没认出来李菲儿",
@@ -808,14 +832,6 @@
       "word": "浙江一住户5楼空心菜垂1楼像瀑布",
       "onboard_time": 1760249601,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 293574,
-      "num": 293574,
-      "word": "洗脸巾残留化学纤维存在安全风险",
-      "onboard_time": 1760324180,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -849,6 +865,14 @@
       "onboard_time": 1760255541,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282925,
+      "num": 234827,
+      "word": "去韩国后文化自信具象化了",
+      "onboard_time": 1760321119,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 281438,
@@ -955,14 +979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247996,
-      "num": 247996,
-      "word": "成都一车辆起火多人救援打不开门",
-      "onboard_time": 1760324300,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 247679,
       "num": 247679,
       "word": "多地大雨继续超长待机",
@@ -1025,14 +1041,6 @@
       "onboard_time": 1760276901,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225729,
-      "num": 225729,
-      "word": "去韩国后文化自信具象化了",
-      "onboard_time": 1760321119,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 221510,
@@ -1163,6 +1171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 197234,
+      "num": 197234,
+      "word": "鹿晗小卡",
+      "onboard_time": 1760325142,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196788,
       "num": 167577,
       "word": "对新疆帅哥颜值有了实感",
@@ -1179,20 +1195,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193014,
+      "num": 193014,
+      "word": "相关部门回应天府大道汽车起火",
+      "onboard_time": 1760324180,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191592,
       "num": 139798,
       "word": "华裔女星疑遭同组演员性侵",
       "onboard_time": 1760189061,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190541,
-      "num": 190541,
-      "word": "相关部门回应天府大道汽车起火",
-      "onboard_time": 1760324180,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189540,
@@ -1217,6 +1233,14 @@
       "onboard_time": 1760267419,
       "rank": 16,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 184444,
+      "num": 184444,
+      "word": "外卖员 你还有时间拍照是吗",
+      "onboard_time": 1760325021,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 179619,
@@ -1323,6 +1347,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168708,
+      "num": 168708,
+      "word": "OPPO陈希爆料最新一代ColorOS",
+      "onboard_time": 1760325142,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 168595,
+      "num": 168595,
+      "word": "47岁的刘烨",
+      "onboard_time": 1760325021,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167880,
       "num": 164149,
       "word": "沈佳润说爸爸妈妈抱团很严重",
@@ -1337,6 +1377,14 @@
       "onboard_time": 1760246060,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 164871,
+      "num": 164871,
+      "word": "追星女老了的样子在此刻具像化",
+      "onboard_time": 1760321479,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 164079,
@@ -1443,6 +1491,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157094,
+      "num": 157094,
+      "word": "艾热孜巴曾因分手删完了三年的照片",
+      "onboard_time": 1760324300,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156616,
+      "num": 156616,
+      "word": "周杰伦明年启动全新巡演",
+      "onboard_time": 1760324001,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155577,
       "num": 155577,
       "word": "张凌赫 偶遇照拍成情侣照",
@@ -1473,14 +1537,6 @@
       "onboard_time": 1760254162,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153782,
-      "num": 153782,
-      "word": "周杰伦明年启动全新巡演",
-      "onboard_time": 1760324001,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 153475,
@@ -1587,14 +1643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144642,
-      "num": 144642,
-      "word": "追星女老了的样子在此刻具像化",
-      "onboard_time": 1760321479,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 144486,
       "num": 144486,
       "word": "张峻豪个人资源太好了吧",
@@ -1675,6 +1723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138783,
+      "num": 138783,
+      "word": "半导体板块再度爆发",
+      "onboard_time": 1760325861,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 138457,
       "num": 138457,
       "word": "一个年轻人退学家里蹲啃老七年",
@@ -1705,6 +1761,14 @@
       "onboard_time": 1760247382,
       "rank": 46,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 136661,
+      "num": 189076,
+      "word": "成都一小车失控后起火驾驶员遇难",
+      "onboard_time": 1760325262,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136342,
@@ -1803,14 +1867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130564,
-      "num": 130564,
-      "word": "艾热孜巴曾因分手删完了三年的照片",
-      "onboard_time": 1760324300,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 127774,
       "num": 127774,
       "word": "甘肃兰州闪爆事故致1死1伤",
@@ -1833,6 +1889,14 @@
       "onboard_time": 1760270001,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126436,
+      "num": 126436,
+      "word": "客服回应网传小米SU7成都起火",
+      "onboard_time": 1760325562,
+      "rank": 31,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 126239,
@@ -1888,14 +1952,6 @@
       "word": "孙天宇发吧唧原图",
       "onboard_time": 1760247261,
       "rank": 34,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 124016,
-      "num": 124016,
-      "word": "鹿晗小卡",
-      "onboard_time": 1760325142,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -1961,14 +2017,6 @@
       "onboard_time": 1760282721,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122825,
-      "num": 122825,
-      "word": "OPPO陈希爆料最新一代ColorOS",
-      "onboard_time": 1760325142,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 122661,
@@ -2115,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116443,
+      "num": 116443,
+      "word": "苹果或迎特努斯时代",
+      "onboard_time": 1760325262,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 116234,
       "num": 116234,
       "word": "吴晙诚3比0户上隼辅",
@@ -2137,6 +2193,14 @@
       "onboard_time": 1760315961,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115624,
+      "num": 115624,
+      "word": "过度负责 傲慢懦弱",
+      "onboard_time": 1760325922,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 115531,
@@ -2192,14 +2256,6 @@
       "word": "周翊然赛车证件照太帅了",
       "onboard_time": 1760253021,
       "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 113304,
-      "num": 113304,
-      "word": "47岁的刘烨",
-      "onboard_time": 1760325021,
-      "rank": 39,
       "category": "艺人"
     },
     {
@@ -2307,12 +2363,44 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 110951,
+      "num": 110951,
+      "word": "欧豪又染头了",
+      "onboard_time": 1760326041,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 110598,
+      "num": 110598,
+      "word": "想过是赝品没想过是甜品",
+      "onboard_time": 1760326162,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 110456,
+      "num": 110456,
+      "word": "张继科说永远不会到国外当教练",
+      "onboard_time": 1760320699,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109863,
       "num": 109863,
       "word": "郭静下一个天亮等了十七年",
       "onboard_time": 1760241438,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 109854,
+      "num": 109854,
+      "word": "悲秋综合征",
+      "onboard_time": 1760326221,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 109829,
@@ -2371,28 +2459,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107575,
-      "num": 107575,
-      "word": "张继科说永远不会到国外当教练",
-      "onboard_time": 1760320699,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 107490,
       "num": 107490,
       "word": "到了民政局发现身份是假的",
       "onboard_time": 1760275581,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106773,
-      "num": 106773,
-      "word": "苹果或迎特努斯时代",
-      "onboard_time": 1760325262,
-      "rank": 41,
-      "category": "数码"
     },
     {
       "raw_hot": 106635,
@@ -2481,6 +2553,14 @@
       "onboard_time": 1760254221,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103849,
+      "num": 103849,
+      "word": "股市",
+      "onboard_time": 1760322680,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 103700,
@@ -3683,14 +3763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62532,
-      "num": 119237,
-      "word": "成都一小车失控后起火驾驶员遇难",
-      "onboard_time": 1760325262,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 61163,
       "num": 63078,
       "word": "何炅汪苏泷给徐志胜做局",
@@ -4147,6 +4219,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20180,
+      "num": 404969,
+      "word": "刘老庄人在刘老庄连",
+      "onboard_time": 1760325262,
+      "rank": 2,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 19987,
       "num": 35575,
       "word": "美国密西西比州枪击事件已致4死12伤",
@@ -4177,14 +4257,6 @@
       "onboard_time": 1760195242,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 17778,
-      "num": 404969,
-      "word": "刘老庄人在刘老庄连",
-      "onboard_time": 1760325262,
-      "rank": 2,
-      "category": "正能量"
     },
     {
       "raw_hot": 16741,
