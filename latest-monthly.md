@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 16:36:19
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 16:50:03
 </p>
 </blockquote>
 <p>
@@ -233,6 +233,12 @@ K签（热度：2379627）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%AA%E5%90%83%E6%B0%B4%E6%9E%9C%E5%A5%B3%E5%AD%90%E5%8E%BB%E4%B8%96%E5%89%8D%E4%BD%93%E9%87%8D%E4%BB%8544%E6%96%A4%23" target="weibo">
 只吃水果女子去世前体重仅44斤（热度：1697422）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%BA%9C%E5%A4%A7%E9%81%93%E8%BD%A6%E7%A5%B8%E7%B3%BB%E9%85%92%E9%A9%BE%E4%BA%8B%E6%95%85%23" target="weibo">
+天府大道车祸系酒驾事故（热度：1688988）
 </a>
 </li>
 
@@ -657,12 +663,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%BA%9C%E5%A4%A7%E9%81%93%E8%BD%A6%E7%A5%B8%E7%B3%BB%E9%85%92%E9%A9%BE%E4%BA%8B%E6%95%85%23" target="weibo">
-天府大道车祸系酒驾事故（热度：1204073）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%83%E9%9D%A2vs%E9%95%BF%E6%9C%9F%E5%90%83%E7%B1%B3%23" target="weibo">
 长期吃面vs长期吃米（热度：1200798）
 </a>
@@ -713,6 +713,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%B2%B3%E5%8D%97%E9%80%81%E4%BD%A0%E4%BA%86%23" target="weibo">
 迪丽热巴 河南送你了（热度：1175380）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%91%E7%BE%8E%E5%9B%BD%E8%B5%A0%E9%80%81%E7%A8%80%E5%9C%9F%23" target="weibo">
+中方回应巴基斯坦向美国赠送稀土（热度：1171793）
 </a>
 </li>
 
@@ -2739,6 +2745,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%9F%E7%84%B6%E4%BA%BA%20%E5%B1%85%E7%84%B6%E4%BA%BA%23" target="weibo">
+竟然人 居然人（热度：600453）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E5%AD%A9%E5%AD%90%20%E6%89%8B%E6%8F%A1%E9%A1%B6%E7%BA%A7%E4%BA%BA%E7%94%9F%E5%89%A7%E6%9C%AC%23" target="weibo">
 文咏珊孩子 手握顶级人生剧本（热度：600318）
 </a>
@@ -2807,6 +2819,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E9%99%8D%E4%BB%B7%E9%A6%96%E6%97%A5%E4%B8%8D%E5%88%B012%E7%82%B9%E6%BB%A1%E5%BA%A7%23" target="weibo">
 西贝降价首日不到12点满座（热度：594000）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%A4%AA%E5%BC%BA%E4%BA%86%23" target="weibo">
+A股太强了（热度：593831）
 </a>
 </li>
 
@@ -2919,12 +2937,6 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AB%9F%E7%84%B6%E4%BA%BA%20%E5%B1%85%E7%84%B6%E4%BA%BA%23" target="weibo">
-竟然人 居然人（热度：575732）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E4%BA%86%E9%9A%90%E7%BF%85%E8%99%AB%23" target="weibo">
 发现了隐翅虫（热度：572264）
 </a>
@@ -2933,6 +2945,12 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E9%BA%A6%E8%BF%AA%E5%A8%9C%E7%BB%99%E5%AD%A9%E5%AD%90%E5%8F%96%E5%90%8D%E8%B7%9F%E5%86%99%E5%B0%8F%E8%AF%B4%E4%B8%80%E6%A0%B7%23" target="weibo">
 姜潮麦迪娜给孩子取名跟写小说一样（热度：570913）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%96%E6%B6%88%E8%80%B3%E6%9C%BA%E5%AD%94%E7%9A%84%E7%AE%80%E7%9B%B4%E6%98%AF%E8%A0%A2%E8%B4%A7%23" target="weibo">
+第一个取消耳机孔的简直是蠢货（热度：570746）
 </a>
 </li>
 
@@ -3215,12 +3233,6 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E4%BA%BA%E5%A3%AB%E7%A7%B0%E5%AE%97%E9%A6%A5%E8%8E%89%E6%AD%A3%E5%B8%B8%E4%B8%8A%E7%8F%AD%23" target="weibo">
 知情人士称宗馥莉正常上班（热度：539592）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%91%E7%BE%8E%E5%9B%BD%E8%B5%A0%E9%80%81%E7%A8%80%E5%9C%9F%23" target="weibo">
-中方回应巴基斯坦向美国赠送稀土（热度：538970）
 </a>
 </li>
 
@@ -4617,12 +4629,6 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%96%E6%B6%88%E8%80%B3%E6%9C%BA%E5%AD%94%E7%9A%84%E7%AE%80%E7%9B%B4%E6%98%AF%E8%A0%A2%E8%B4%A7%23" target="weibo">
-第一个取消耳机孔的简直是蠢货（热度：415150）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A%E9%9F%B3%E5%93%8D%E6%95%85%E9%9A%9C%E7%94%A8%E5%96%87%E5%8F%AD%E5%94%B1%E9%80%86%E6%88%98%23" target="weibo">
 张杰演唱会音响故障用喇叭唱逆战（热度：414560）
 </a>
@@ -5051,12 +5057,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E8%B5%9B%E5%90%8E%E7%94%9F%E6%B0%94%E4%BA%86%23" target="weibo">
 林诗栋赛后生气了（热度：378133）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%A4%AA%E5%BC%BA%E4%BA%86%23" target="weibo">
-A股太强了（热度：378053）
 </a>
 </li>
 

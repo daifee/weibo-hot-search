@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760344579857,
+  "endTime": 1760345403073,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -297,6 +297,14 @@
       "onboard_time": 1759709959,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1688988,
+      "num": 986729,
+      "word": "天府大道车祸系酒驾事故",
+      "onboard_time": 1760341520,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1676027,
@@ -859,14 +867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1204073,
-      "num": 986729,
-      "word": "天府大道车祸系酒驾事故",
-      "onboard_time": 1760341520,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 1200798,
       "num": 1200798,
       "word": "长期吃面vs长期吃米",
@@ -937,6 +937,14 @@
       "onboard_time": 1759667245,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1171793,
+      "num": 1187487,
+      "word": "中方回应巴基斯坦向美国赠送稀土",
+      "onboard_time": 1760343682,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1168389,
@@ -3635,6 +3643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 600453,
+      "num": 293929,
+      "word": "竟然人 居然人",
+      "onboard_time": 1760338881,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 600318,
       "num": 245764,
       "word": "文咏珊孩子 手握顶级人生剧本",
@@ -3729,6 +3745,14 @@
       "onboard_time": 1759314680,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 593831,
+      "num": 593831,
+      "word": "A股太强了",
+      "onboard_time": 1760343980,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 593437,
@@ -3875,14 +3899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 575732,
-      "num": 293929,
-      "word": "竟然人 居然人",
-      "onboard_time": 1760338881,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 572264,
       "num": 572264,
       "word": "发现了隐翅虫",
@@ -3897,6 +3913,14 @@
       "onboard_time": 1760067320,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 570746,
+      "num": 570746,
+      "word": "第一个取消耳机孔的简直是蠢货",
+      "onboard_time": 1760341700,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 570592,
@@ -4273,14 +4297,6 @@
       "onboard_time": 1760040494,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 538970,
-      "num": 1086235,
-      "word": "中方回应巴基斯坦向美国赠送稀土",
-      "onboard_time": 1760343682,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 538932,
@@ -6139,14 +6155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415150,
-      "num": 415150,
-      "word": "第一个取消耳机孔的简直是蠢货",
-      "onboard_time": 1760341700,
-      "rank": 4,
-      "category": "数码"
-    },
-    {
       "raw_hot": 414560,
       "num": 221015,
       "word": "张杰演唱会音响故障用喇叭唱逆战",
@@ -6721,14 +6729,6 @@
       "onboard_time": 1759478841,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 378053,
-      "num": 378053,
-      "word": "A股太强了",
-      "onboard_time": 1760343980,
-      "rank": 6,
-      "category": "财经"
     },
     {
       "raw_hot": 377485,
@@ -8067,6 +8067,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 316028,
+      "num": 283149,
+      "word": "张维伊 爬离现场",
+      "onboard_time": 1760342179,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315850,
       "num": 243374,
       "word": "许我耀眼下个月8号去产检",
@@ -8643,6 +8651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 294837,
+      "num": 245608,
+      "word": "辅导员结婚还在回学生消息",
+      "onboard_time": 1760339481,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 294425,
       "num": 294425,
       "word": "当事人回应手拿折扇被误认持刀",
@@ -9009,14 +9025,6 @@
       "onboard_time": 1759919841,
       "rank": 28,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 283149,
-      "num": 283149,
-      "word": "张维伊 爬离现场",
-      "onboard_time": 1760342179,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 282925,
@@ -10257,14 +10265,6 @@
       "onboard_time": 1759292302,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245608,
-      "num": 245608,
-      "word": "辅导员结婚还在回学生消息",
-      "onboard_time": 1760339481,
-      "rank": 49,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 245412,
@@ -12073,6 +12073,14 @@
       "onboard_time": 1759493901,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 204653,
+      "num": 204653,
+      "word": "第一次在剧里看男女主拔充电器",
+      "onboard_time": 1760344700,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 204619,
@@ -19971,6 +19979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136624,
+      "num": 136624,
+      "word": "成毅天地剑心",
+      "onboard_time": 1760344882,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136461,
       "num": 136461,
       "word": "曾舜晞衣服上全是口红印",
@@ -22017,6 +22033,14 @@
       "onboard_time": 1759741581,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126811,
+      "num": 126811,
+      "word": "马思纯偷袭语音王安宇毫无防备",
+      "onboard_time": 1760345001,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 126728,
@@ -24723,6 +24747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115753,
+      "num": 129249,
+      "word": "少爷和我没去喜2的原因找到了",
+      "onboard_time": 1760344580,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115737,
       "num": 115737,
       "word": "哈马斯计划重新进入加沙地带",
@@ -26387,6 +26419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110171,
+      "num": 110171,
+      "word": "王俊凯 好像上辈子的事了",
+      "onboard_time": 1760342842,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110150,
       "num": 110150,
       "word": "偶遇孙涵清刘子晗",
@@ -26657,6 +26697,14 @@
       "onboard_time": 1759811959,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 109606,
+      "num": 109606,
+      "word": "刘浩存好萌",
+      "onboard_time": 1760344760,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 109570,
@@ -28435,20 +28483,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 104365,
-      "num": 104365,
-      "word": "王俊凯 好像上辈子的事了",
-      "onboard_time": 1760342842,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 104333,
       "num": 144920,
       "word": "愿你心怀皓月步履不停",
       "onboard_time": 1759765161,
       "rank": 41,
       "category": "情感,民生新闻"
+    },
+    {
+      "raw_hot": 104311,
+      "num": 104311,
+      "word": "Ming采访TheShy",
+      "onboard_time": 1760345180,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 104298,
@@ -31987,6 +32035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92454,
+      "num": 92454,
+      "word": "星期二因iG和T1与众不同",
+      "onboard_time": 1760344041,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92453,
       "num": 96423,
       "word": "副县长当客服每天接100多个电话",
@@ -32433,6 +32489,14 @@
       "onboard_time": 1760251762,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 91026,
+      "num": 91026,
+      "word": "中国游客马来西亚失联已停止搜救",
+      "onboard_time": 1760344101,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91003,
@@ -33091,14 +33155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88741,
-      "num": 88741,
-      "word": "中国游客马来西亚失联已停止搜救",
-      "onboard_time": 1760344101,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88715,
       "num": 88715,
       "word": "缅北魏怀仁等3人被提起公诉",
@@ -33417,6 +33473,14 @@
       "onboard_time": 1760330603,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87577,
+      "num": 87577,
+      "word": "私家笔记2明年开机",
+      "onboard_time": 1760345361,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 87576,
@@ -36363,6 +36427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 74367,
+      "num": 104593,
+      "word": "筋膜枪的邪修用法",
+      "onboard_time": 1760344641,
+      "rank": 38,
+      "category": "科学科普,运动健身"
+    },
+    {
       "raw_hot": 74354,
       "num": 74354,
       "word": "金饰价格涨到1189元",
@@ -38091,6 +38163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 59064,
+      "num": 203459,
+      "word": "加沙战争结束",
+      "onboard_time": 1760344882,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59010,
       "num": 72235,
       "word": "南京DNA音乐节",
@@ -39777,6 +39857,14 @@
       "onboard_time": 1759479861,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41161,
+      "num": 104423,
+      "word": "晋A99999劳斯莱斯只卖车不卖牌",
+      "onboard_time": 1760345059,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41049,

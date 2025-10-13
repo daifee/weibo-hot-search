@@ -1,7 +1,15 @@
 {
   "startTime": 1760286516759,
-  "endTime": 1760344579857,
+  "endTime": 1760345403073,
   "band_list": [
+    {
+      "raw_hot": 1688988,
+      "num": 986729,
+      "word": "天府大道车祸系酒驾事故",
+      "onboard_time": 1760341520,
+      "rank": 1,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1613573,
       "num": 1613573,
@@ -19,12 +27,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1204073,
-      "num": 986729,
-      "word": "天府大道车祸系酒驾事故",
-      "onboard_time": 1760341520,
-      "rank": 1,
-      "category": "民生新闻"
+      "raw_hot": 1171793,
+      "num": 1187487,
+      "word": "中方回应巴基斯坦向美国赠送稀土",
+      "onboard_time": 1760343682,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1153646,
@@ -131,6 +139,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 600453,
+      "num": 293929,
+      "word": "竟然人 居然人",
+      "onboard_time": 1760338881,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 593831,
+      "num": 593831,
+      "word": "A股太强了",
+      "onboard_time": 1760343980,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 588618,
       "num": 455210,
       "word": "特朗普",
@@ -139,20 +163,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 575732,
-      "num": 293929,
-      "word": "竟然人 居然人",
-      "onboard_time": 1760338881,
-      "rank": 25,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 575546,
       "num": 166618,
       "word": "树一官宣与慎婕分手",
       "onboard_time": 1760279542,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 570746,
+      "num": 570746,
+      "word": "第一个取消耳机孔的简直是蠢货",
+      "onboard_time": 1760341700,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 566048,
@@ -177,14 +201,6 @@
       "onboard_time": 1760320159,
       "rank": 15,
       "category": "财经"
-    },
-    {
-      "raw_hot": 538970,
-      "num": 1086235,
-      "word": "中方回应巴基斯坦向美国赠送稀土",
-      "onboard_time": 1760343682,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 518243,
@@ -259,14 +275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 415150,
-      "num": 415150,
-      "word": "第一个取消耳机孔的简直是蠢货",
-      "onboard_time": 1760341700,
-      "rank": 4,
-      "category": "数码"
-    },
-    {
       "raw_hot": 414560,
       "num": 221015,
       "word": "张杰演唱会音响故障用喇叭唱逆战",
@@ -315,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 378053,
-      "num": 378053,
-      "word": "A股太强了",
-      "onboard_time": 1760343980,
-      "rank": 6,
-      "category": "财经"
-    },
-    {
       "raw_hot": 344385,
       "num": 202091,
       "word": "鹿晗小卡",
@@ -353,6 +353,14 @@
       "onboard_time": 1760279902,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316028,
+      "num": 283149,
+      "word": "张维伊 爬离现场",
+      "onboard_time": 1760342179,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 309221,
@@ -427,6 +435,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 294837,
+      "num": 245608,
+      "word": "辅导员结婚还在回学生消息",
+      "onboard_time": 1760339481,
+      "rank": 49,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 287889,
       "num": 173223,
       "word": "建议睡眠不好的都去吃",
@@ -440,14 +456,6 @@
       "word": "易烊千玺张天赐经常聚会",
       "onboard_time": 1760336480,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 283149,
-      "num": 283149,
-      "word": "张维伊 爬离现场",
-      "onboard_time": 1760342179,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -539,14 +547,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245608,
-      "num": 245608,
-      "word": "辅导员结婚还在回学生消息",
-      "onboard_time": 1760339481,
-      "rank": 49,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 244044,
       "num": 244044,
       "word": "探访成都小汽车爆燃事发地",
@@ -625,6 +625,14 @@
       "onboard_time": 1760322920,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204653,
+      "num": 204653,
+      "word": "第一次在剧里看男女主拔充电器",
+      "onboard_time": 1760344700,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 203390,
@@ -947,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136624,
+      "num": 136624,
+      "word": "成毅天地剑心",
+      "onboard_time": 1760344882,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136131,
       "num": 136131,
       "word": "2名公费师范生违约责令各退5.1万",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1760265861,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126811,
+      "num": 126811,
+      "word": "马思纯偷袭语音王安宇毫无防备",
+      "onboard_time": 1760345001,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 126637,
@@ -1243,6 +1267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 115753,
+      "num": 129249,
+      "word": "少爷和我没去喜2的原因找到了",
+      "onboard_time": 1760344580,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115737,
       "num": 115737,
       "word": "哈马斯计划重新进入加沙地带",
@@ -1339,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110171,
+      "num": 110171,
+      "word": "王俊凯 好像上辈子的事了",
+      "onboard_time": 1760342842,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109997,
       "num": 109997,
       "word": "泰国导游强制消费威胁游客",
@@ -1353,6 +1393,14 @@
       "onboard_time": 1760326221,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 109606,
+      "num": 109606,
+      "word": "刘浩存好萌",
+      "onboard_time": 1760344760,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 109437,
@@ -1419,12 +1467,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104365,
-      "num": 104365,
-      "word": "王俊凯 好像上辈子的事了",
-      "onboard_time": 1760342842,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 104311,
+      "num": 104311,
+      "word": "Ming采访TheShy",
+      "onboard_time": 1760345180,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 103849,
@@ -1603,6 +1651,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 92454,
+      "num": 92454,
+      "word": "星期二因iG和T1与众不同",
+      "onboard_time": 1760344041,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91570,
       "num": 91570,
       "word": "服装店的秋装卖不动了",
@@ -1632,6 +1688,14 @@
       "word": "外国女子在广州被外籍男子骚扰",
       "onboard_time": 1760340260,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91026,
+      "num": 91026,
+      "word": "中国游客马来西亚失联已停止搜救",
+      "onboard_time": 1760344101,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1699,14 +1763,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 88741,
-      "num": 88741,
-      "word": "中国游客马来西亚失联已停止搜救",
-      "onboard_time": 1760344101,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88669,
       "num": 88669,
       "word": "舒淇说她走过的路充满恶意",
@@ -1721,6 +1777,14 @@
       "onboard_time": 1760330603,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 87577,
+      "num": 87577,
+      "word": "私家笔记2明年开机",
+      "onboard_time": 1760345361,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 86045,
@@ -1899,6 +1963,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74367,
+      "num": 104593,
+      "word": "筋膜枪的邪修用法",
+      "onboard_time": 1760344641,
+      "rank": 38,
+      "category": "科学科普,运动健身"
+    },
+    {
       "raw_hot": 74354,
       "num": 74354,
       "word": "金饰价格涨到1189元",
@@ -2075,6 +2147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59064,
+      "num": 203459,
+      "word": "加沙战争结束",
+      "onboard_time": 1760344882,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55221,
       "num": 55221,
       "word": "时代少年团主厨竞争食材抢夺",
@@ -2184,6 +2264,14 @@
       "word": "司法部曝光一地设罚款指标",
       "onboard_time": 1760330543,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41161,
+      "num": 104423,
+      "word": "晋A99999劳斯莱斯只卖车不卖牌",
+      "onboard_time": 1760345059,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
