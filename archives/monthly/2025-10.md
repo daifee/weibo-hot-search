@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 11:31:55
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 11:56:31
 </p>
 </blockquote>
 <p>
@@ -713,6 +713,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E6%88%9A%E8%96%87%E5%8C%97%E5%A4%A7%E8%80%83%E8%AF%95%23" target="weibo">
 网友偶遇戚薇北大考试（热度：1158407）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB%E5%A4%9A%E4%BA%BA%E6%95%91%E6%8F%B4%E6%89%93%E4%B8%8D%E5%BC%80%E9%97%A8%23" target="weibo">
+成都一车辆起火多人救援打不开门（热度：1153646）
 </a>
 </li>
 
@@ -4107,12 +4113,6 @@ K签证（热度：453444）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB%E5%A4%9A%E4%BA%BA%E6%95%91%E6%8F%B4%E6%89%93%E4%B8%8D%E5%BC%80%E9%97%A8%23" target="weibo">
-成都一车辆起火多人救援打不开门（热度：445172）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%BA%E8%83%BD%E9%A9%AC%E6%A1%B6%E5%96%B7%E5%87%BA%E5%BC%80%E6%B0%B4%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%83%AB%E4%BC%A4%23" target="weibo">
 智能马桶喷出开水女子被烫伤（热度：444818）
 </a>
@@ -4397,6 +4397,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E8%8E%B7%E5%9B%BD%E9%99%85%E9%9D%92%E5%B0%91%E5%B9%B4%E7%BB%98%E7%94%BB%E5%A4%A7%E8%B5%9B%E9%87%91%E5%A5%96%23" target="weibo">
 王诗龄获国际青少年绘画大赛金奖（热度：422862）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E8%80%8361%E5%88%86%E5%85%A8%E5%AE%B6%E6%B2%B8%E8%85%BE%E4%B8%8B%E9%A6%86%E5%AD%90%E5%BA%86%E7%A5%9D%23" target="weibo">
+儿子考61分全家沸腾下馆子庆祝（热度：422845）
 </a>
 </li>
 
@@ -5409,6 +5415,12 @@ TF家族男团在湖南秋晚三代同台（热度：346043）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%B0%8F%E5%8D%A1%23" target="weibo">
+鹿晗小卡（热度：344385）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E6%9C%89%E4%BA%BA%E6%AD%A3%E5%9C%A8%E6%8C%82%E5%BF%B5%E4%BD%A0%23" target="weibo">
 易烊千玺 有人正在挂念你（热度：343347）
 </a>
@@ -5573,6 +5585,12 @@ p图姐喊话黄俊捷（热度：342786）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%9B%9E%E5%BA%944%E6%AF%942%E5%AD%99%E9%A2%96%E8%8E%8E%23" target="weibo">
 王曼昱回应4比2孙颖莎（热度：333715）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E8%84%B8%E5%B7%BE%E6%AE%8B%E7%95%99%E5%8C%96%E5%AD%A6%E7%BA%A4%E7%BB%B4%E5%AD%98%E5%9C%A8%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9%23" target="weibo">
+洗脸巾残留化学纤维存在安全风险（热度：332778）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ MiuMiu巴黎时装周（热度：318258）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23offer7%E6%92%AD%E4%B8%80%E5%8D%8A%E6%B7%98%E6%B1%B0%E4%BA%86%E4%B8%89%E4%B8%AA%E4%BA%BA%23" target="weibo">
 offer7播一半淘汰了三个人（热度：311785）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E7%94%B3%E8%A3%95%E6%96%8C%23" target="weibo">
-王曼昱vs申裕斌（热度：311776）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%92%AF%E6%9B%BCvs%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C%E6%9C%B1%E8%8A%8A%E6%9B%A6%23" target="weibo">
-王曼昱蒯曼vs早田希娜朱芊曦（热度：311741）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E7%AC%AC2%E6%94%AF%E5%9B%9B%E5%BC%BA%E7%90%83%E9%98%9F%E8%AF%9E%E7%94%9F%23" target="weibo">
-苏超第2支四强球队诞生（热度：311387）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1760286516759,
-  "endTime": 1760326315868,
+  "endTime": 1760327791603,
   "band_list": [
     {
       "raw_hot": 1327731,
@@ -8,6 +8,14 @@
       "word": "成都 小米",
       "onboard_time": 1760324120,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1153646,
+      "num": 445172,
+      "word": "成都一车辆起火多人救援打不开门",
+      "onboard_time": 1760324300,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -107,11 +115,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 445172,
-      "num": 445172,
-      "word": "成都一车辆起火多人救援打不开门",
-      "onboard_time": 1760324300,
-      "rank": 14,
+      "raw_hot": 422845,
+      "num": 187762,
+      "word": "儿子考61分全家沸腾下馆子庆祝",
+      "onboard_time": 1760325443,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -139,6 +147,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 344385,
+      "num": 197234,
+      "word": "鹿晗小卡",
+      "onboard_time": 1760325142,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 332778,
+      "num": 332778,
+      "word": "洗脸巾残留化学纤维存在安全风险",
+      "onboard_time": 1760324180,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 323340,
       "num": 323340,
       "word": "放假8天7天半掰玉米大学生回应质疑",
@@ -163,14 +187,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 303637,
-      "num": 187762,
-      "word": "儿子考61分全家沸腾下馆子庆祝",
-      "onboard_time": 1760325443,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 301370,
       "num": 301370,
       "word": "比特币24小时逾18万人爆仓",
@@ -185,14 +201,6 @@
       "onboard_time": 1760321420,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 298841,
-      "num": 298841,
-      "word": "洗脸巾残留化学纤维存在安全风险",
-      "onboard_time": 1760324180,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 287889,
@@ -251,6 +259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256069,
+      "num": 184444,
+      "word": "外卖员 你还有时间拍照是吗",
+      "onboard_time": 1760325021,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 251998,
       "num": 251998,
       "word": "黄力平任万科董事长",
@@ -259,12 +275,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225469,
+      "num": 225469,
+      "word": "相关部门回应天府大道汽车起火",
+      "onboard_time": 1760324180,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221047,
+      "num": 137889,
+      "word": "祝绪丹仪态这一块强得可怕",
+      "onboard_time": 1760327243,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 220000,
       "num": 220000,
       "word": "白桃星座",
       "onboard_time": 1760284281,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219205,
+      "num": 181507,
+      "word": "47岁的刘烨",
+      "onboard_time": 1760325021,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 210575,
@@ -283,20 +323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197234,
-      "num": 197234,
-      "word": "鹿晗小卡",
-      "onboard_time": 1760325142,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 193014,
-      "num": 193014,
-      "word": "相关部门回应天府大道汽车起火",
-      "onboard_time": 1760324180,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 199474,
+      "num": 130003,
+      "word": "建议word删除空白页纳入义务教育",
+      "onboard_time": 1760327303,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 190248,
@@ -323,20 +355,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184444,
-      "num": 184444,
-      "word": "外卖员 你还有时间拍照是吗",
-      "onboard_time": 1760325021,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 182357,
       "num": 182357,
       "word": "中国已确立11颗金钉子",
       "onboard_time": 1760250799,
       "rank": 7,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 181118,
+      "num": 262782,
+      "word": "这是她她她她她她她她的手",
+      "onboard_time": 1760326822,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174173,
@@ -347,20 +379,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174041,
+      "num": 174041,
+      "word": "过度负责 傲慢懦弱",
+      "onboard_time": 1760325922,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168708,
       "num": 168708,
       "word": "OPPO陈希爆料最新一代ColorOS",
       "onboard_time": 1760325142,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 168595,
-      "num": 168595,
-      "word": "47岁的刘烨",
-      "onboard_time": 1760325021,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 167880,
@@ -385,6 +417,14 @@
       "onboard_time": 1760321479,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159148,
+      "num": 137767,
+      "word": "李宇春说张子枫的好不用说",
+      "onboard_time": 1760326401,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 157604,
@@ -475,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135690,
+      "num": 135690,
+      "word": "杨幂冰雪女王",
+      "onboard_time": 1760327422,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134919,
       "num": 134919,
       "word": "李昀锐吃成蜜蜂狗了",
@@ -489,6 +537,14 @@
       "onboard_time": 1760319920,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 132794,
+      "num": 132794,
+      "word": "差点没认出来这是韩东君",
+      "onboard_time": 1760327060,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 130651,
@@ -507,6 +563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 128212,
+      "num": 128212,
+      "word": "想过是赝品没想过是甜品",
+      "onboard_time": 1760326162,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 127557,
       "num": 127557,
       "word": "勇士vs湖人",
@@ -521,6 +585,14 @@
       "onboard_time": 1760265861,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126637,
+      "num": 126637,
+      "word": "原来这就是范丞丞被黄渤夸的哭戏",
+      "onboard_time": 1760326401,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 126436,
@@ -579,6 +651,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 121192,
+      "num": 121192,
+      "word": "欧豪又染头了",
+      "onboard_time": 1760326041,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118849,
       "num": 118849,
       "word": "为什么你卫生间里总是有小飞蛾",
@@ -619,12 +699,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 115624,
-      "num": 115624,
-      "word": "过度负责 傲慢懦弱",
-      "onboard_time": 1760325922,
-      "rank": 36,
-      "category": "情感"
+      "raw_hot": 115311,
+      "num": 115311,
+      "word": "相亲对象疑似用AI聊天",
+      "onboard_time": 1760327422,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 114812,
@@ -633,6 +713,14 @@
       "onboard_time": 1760290756,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 113626,
+      "num": 113626,
+      "word": "从一个陈雨菲到另一个陈雨菲",
+      "onboard_time": 1760327482,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 111786,
@@ -651,6 +739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111597,
+      "num": 111597,
+      "word": "35岁自学化妆1个月的变化",
+      "onboard_time": 1760327543,
+      "rank": 37,
+      "category": "情感,美妆"
+    },
+    {
       "raw_hot": 111451,
       "num": 111451,
       "word": "比特币又跳水",
@@ -665,22 +761,6 @@
       "onboard_time": 1760313078,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 110951,
-      "num": 110951,
-      "word": "欧豪又染头了",
-      "onboard_time": 1760326041,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 110598,
-      "num": 110598,
-      "word": "想过是赝品没想过是甜品",
-      "onboard_time": 1760326162,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 110456,
@@ -739,6 +819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102663,
+      "num": 102663,
+      "word": "林则徐你的权威我后知后觉",
+      "onboard_time": 1760326701,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100384,
       "num": 100384,
       "word": "晋A99999劳斯莱斯1544000元起拍",
@@ -747,12 +835,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100157,
+      "num": 100157,
+      "word": "新能源汽车起火多人破窗救援未果",
+      "onboard_time": 1760326761,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99015,
+      "num": 99015,
+      "word": "终于有人把工作的难受描述清楚了",
+      "onboard_time": 1760326701,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 96665,
+      "num": 96665,
+      "word": "近视眼的世界真这么离谱吗",
+      "onboard_time": 1760327724,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 96631,
       "num": 96631,
       "word": "入青云",
       "onboard_time": 1760265861,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95875,
+      "num": 95875,
+      "word": "身体上的喜爱是骗不了人的",
+      "onboard_time": 1760327122,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 95750,
