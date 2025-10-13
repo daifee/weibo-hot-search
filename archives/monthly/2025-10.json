@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760370069461,
+  "endTime": 1760373145920,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -3827,6 +3827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 592408,
+      "num": 180695,
+      "word": "赵丽颖工作室",
+      "onboard_time": 1760368761,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 591763,
       "num": 263059,
       "word": "肖战巴黎",
@@ -4065,6 +4073,14 @@
       "onboard_time": 1759626139,
       "rank": 18,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 561040,
+      "num": 152224,
+      "word": "14岁自闭症男孩坠楼妈妈崩溃大哭",
+      "onboard_time": 1760369601,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 559985,
@@ -6827,6 +6843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 382248,
+      "num": 819510,
+      "word": "业主私挖300平地下室32户开裂",
+      "onboard_time": 1760367802,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 382031,
       "num": 382031,
       "word": "吴艳妮假期重回90公斤",
@@ -9035,14 +9059,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 291520,
-      "num": 291520,
-      "word": "业主私挖300平地下室32户开裂",
-      "onboard_time": 1760367802,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 290739,
       "num": 290739,
       "word": "环保少女承认遭以方虐待",
@@ -9753,14 +9769,6 @@
       "onboard_time": 1759918940,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 269349,
-      "num": 180695,
-      "word": "赵丽颖工作室",
-      "onboard_time": 1760368761,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 268704,
@@ -18072,14 +18080,6 @@
       "word": "被困珠峰游客称暴雪闪电中挺过一晚",
       "onboard_time": 1759766661,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152224,
-      "num": 152224,
-      "word": "14岁自闭症男孩坠楼妈妈崩溃大哭",
-      "onboard_time": 1760369601,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -26955,6 +26955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111226,
+      "num": 111226,
+      "word": "vivoX300系列开箱测评",
+      "onboard_time": 1760370620,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 111193,
       "num": 111193,
       "word": "蔡文静扛住了G社镜头",
@@ -29635,6 +29643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103550,
+      "num": 103550,
+      "word": "机构称去年发13万篇论文挣8000万",
+      "onboard_time": 1760371460,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103548,
       "num": 103548,
       "word": "金饰克价涨到1132元",
@@ -31841,6 +31857,14 @@
       "onboard_time": 1759981519,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 96081,
+      "num": 96081,
+      "word": "金毛在宠物馆洗澡后突然死亡",
+      "onboard_time": 1760371519,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96068,
@@ -37755,6 +37779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73871,
+      "num": 152148,
+      "word": "台湾缺药问题愈演愈烈",
+      "onboard_time": 1760369601,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73812,
       "num": 73812,
       "word": "西梅汁式恋爱",
@@ -38001,6 +38033,14 @@
       "onboard_time": 1759289299,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72008,
+      "num": 72008,
+      "word": "李昀锐对王影璐说只有自己失眠",
+      "onboard_time": 1760371278,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 71861,
@@ -38611,6 +38651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67652,
+      "num": 90327,
+      "word": "打电话时外卖小哥正在吃我外卖",
+      "onboard_time": 1760369601,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67492,
       "num": 67492,
       "word": "张予曦毕雯珺入围年度影视CP",
@@ -38721,6 +38769,14 @@
       "onboard_time": 1759658542,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66186,
+      "num": 66186,
+      "word": "记者卧底论文代写代发工厂",
+      "onboard_time": 1760372539,
+      "rank": 41,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 66134,
@@ -39203,20 +39259,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 61704,
+      "num": 61704,
+      "word": "沉默的荣耀",
+      "onboard_time": 1760370800,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 61619,
       "num": 77868,
       "word": "WTT祝张怡宁生日快乐",
       "onboard_time": 1759633820,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61429,
-      "num": 90327,
-      "word": "打电话时外卖小哥正在吃我外卖",
-      "onboard_time": 1760369601,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61389,
@@ -39771,6 +39827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55758,
+      "num": 59683,
+      "word": "世界最高峰遇上日落悬日",
+      "onboard_time": 1760371460,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55719,
       "num": 136876,
       "word": "专家建议设立里斯本丸沉船纪念日",
@@ -39801,6 +39865,14 @@
       "onboard_time": 1759361178,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 55380,
+      "num": 59673,
+      "word": "黄金有望突破4100",
+      "onboard_time": 1760370679,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 55221,
@@ -40675,14 +40747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47256,
-      "num": 152148,
-      "word": "台湾缺药问题愈演愈烈",
-      "onboard_time": 1760369601,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47141,
       "num": 119098,
       "word": "哈马斯谈判团长首次公开表态",
@@ -40761,6 +40825,14 @@
       "onboard_time": 1760216654,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46358,
+      "num": 96919,
+      "word": "vivoX300系列全系适配增距镜",
+      "onboard_time": 1760370620,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 46258,
@@ -41185,6 +41257,14 @@
       "onboard_time": 1759479861,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 41208,
+      "num": 112313,
+      "word": "老用户换vivoX300值得吗",
+      "onboard_time": 1760370620,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 41161,
@@ -41889,6 +41969,14 @@
       "onboard_time": 1759388661,
       "rank": 18,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 33473,
+      "num": 113696,
+      "word": "手持影像大小王走哪儿都是主场",
+      "onboard_time": 1760370620,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 33456,

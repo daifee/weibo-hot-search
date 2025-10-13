@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760370069461,
+  "endTime": 1760373145920,
   "band_list": [
     {
       "raw_hot": 1688988,
@@ -491,6 +491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 592408,
+      "num": 180695,
+      "word": "赵丽颖工作室",
+      "onboard_time": 1760368761,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 588618,
       "num": 455210,
       "word": "特朗普",
@@ -521,6 +529,14 @@
       "onboard_time": 1760283740,
       "rank": 4,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 561040,
+      "num": 152224,
+      "word": "14岁自闭症男孩坠楼妈妈崩溃大哭",
+      "onboard_time": 1760369601,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 557711,
@@ -1051,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382248,
+      "num": 819510,
+      "word": "业主私挖300平地下室32户开裂",
+      "onboard_time": 1760367802,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 379121,
       "num": 186136,
       "word": "余景天 我连女孩子手都没牵过",
@@ -1355,14 +1379,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 291520,
-      "num": 291520,
-      "word": "业主私挖300平地下室32户开裂",
-      "onboard_time": 1760367802,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 290523,
       "num": 247677,
       "word": "一笑随歌翻身仗",
@@ -1457,14 +1473,6 @@
       "onboard_time": 1760318359,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 269349,
-      "num": 180695,
-      "word": "赵丽颖工作室",
-      "onboard_time": 1760368761,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 267805,
@@ -2568,14 +2576,6 @@
       "word": "5人冒充院士钟世镇学生与其合影",
       "onboard_time": 1760227579,
       "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152224,
-      "num": 152224,
-      "word": "14岁自闭症男孩坠楼妈妈崩溃大哭",
-      "onboard_time": 1760369601,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -3947,6 +3947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 111226,
+      "num": 111226,
+      "word": "vivoX300系列开箱测评",
+      "onboard_time": 1760370620,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
       "raw_hot": 111152,
       "num": 111152,
       "word": "小猫爱干净和不爱干净的区别",
@@ -4283,6 +4291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103550,
+      "num": 103550,
+      "word": "机构称去年发13万篇论文挣8000万",
+      "onboard_time": 1760371460,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103035,
       "num": 159875,
       "word": "大使馆回应亚锦赛错误旗帜事件",
@@ -4609,6 +4625,14 @@
       "onboard_time": 1760240719,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 96081,
+      "num": 96081,
+      "word": "金毛在宠物馆洗澡后突然死亡",
+      "onboard_time": 1760371519,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95875,
@@ -5899,6 +5923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73871,
+      "num": 152148,
+      "word": "台湾缺药问题愈演愈烈",
+      "onboard_time": 1760369601,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73258,
       "num": 85305,
       "word": "34岁女生参加芒果选秀回应年龄偏大",
@@ -5929,6 +5961,14 @@
       "onboard_time": 1760321841,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72008,
+      "num": 72008,
+      "word": "李昀锐对王影璐说只有自己失眠",
+      "onboard_time": 1760371278,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 71758,
@@ -6043,6 +6083,14 @@
       "category": "体育,休闲"
     },
     {
+      "raw_hot": 67652,
+      "num": 90327,
+      "word": "打电话时外卖小哥正在吃我外卖",
+      "onboard_time": 1760369601,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67492,
       "num": 67492,
       "word": "张予曦毕雯珺入围年度影视CP",
@@ -6065,6 +6113,14 @@
       "onboard_time": 1760193925,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 66186,
+      "num": 66186,
+      "word": "记者卧底论文代写代发工厂",
+      "onboard_time": 1760372539,
+      "rank": 41,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 66000,
@@ -6187,12 +6243,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61429,
-      "num": 90327,
-      "word": "打电话时外卖小哥正在吃我外卖",
-      "onboard_time": 1760369601,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 61704,
+      "num": 61704,
+      "word": "沉默的荣耀",
+      "onboard_time": 1760370800,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 61203,
@@ -6267,12 +6323,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55758,
+      "num": 59683,
+      "word": "世界最高峰遇上日落悬日",
+      "onboard_time": 1760371460,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55687,
       "num": 118341,
       "word": "印度一节日重现空难场景引发愤怒",
       "onboard_time": 1760246781,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 55380,
+      "num": 59673,
+      "word": "黄金有望突破4100",
+      "onboard_time": 1760370679,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 55221,
@@ -6395,14 +6467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47256,
-      "num": 152148,
-      "word": "台湾缺药问题愈演愈烈",
-      "onboard_time": 1760369601,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 46902,
       "num": 46902,
       "word": "偷偷看主人的萨摩耶宝宝",
@@ -6425,6 +6489,14 @@
       "onboard_time": 1760216654,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 46358,
+      "num": 96919,
+      "word": "vivoX300系列全系适配增距镜",
+      "onboard_time": 1760370620,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 46258,
@@ -6505,6 +6577,14 @@
       "onboard_time": 1760241140,
       "rank": 19,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 41208,
+      "num": 112313,
+      "word": "老用户换vivoX300值得吗",
+      "onboard_time": 1760370620,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 41161,
@@ -6689,6 +6769,14 @@
       "onboard_time": 1760251041,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33473,
+      "num": 113696,
+      "word": "手持影像大小王走哪儿都是主场",
+      "onboard_time": 1760370620,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 32754,

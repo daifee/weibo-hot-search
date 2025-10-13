@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 23:41:09
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/14 00:32:25
 </p>
 </blockquote>
 <p>
@@ -2883,6 +2883,12 @@ A股太强了（热度：593831）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%23" target="weibo">
+赵丽颖工作室（热度：592408）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B7%B4%E9%BB%8E%23" target="weibo">
 肖战巴黎（热度：591763）
 </a>
@@ -3059,6 +3065,12 @@ hi6（热度：563954）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%A6%E7%9D%80%E9%A5%A5%E9%A5%BF%E6%84%9F%E5%85%A5%E7%9D%A1%E8%84%82%E8%82%AA%E7%87%83%E7%83%A7%E7%9A%84%E5%85%A8%E8%BF%87%E7%A8%8B%23" target="weibo">
 带着饥饿感入睡脂肪燃烧的全过程（热度：562035）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E8%87%AA%E9%97%AD%E7%97%87%E7%94%B7%E5%AD%A9%E5%9D%A0%E6%A5%BC%E5%A6%88%E5%A6%88%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD%23" target="weibo">
+14岁自闭症男孩坠楼妈妈崩溃大哭（热度：561040）
 </a>
 </li>
 
@@ -5133,6 +5145,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9A%E4%B8%BB%E7%A7%81%E6%8C%96300%E5%B9%B3%E5%9C%B0%E4%B8%8B%E5%AE%A432%E6%88%B7%E5%BC%80%E8%A3%82%23" target="weibo">
+业主私挖300平地下室32户开裂（热度：382248）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E5%81%87%E6%9C%9F%E9%87%8D%E5%9B%9E90%E5%85%AC%E6%96%A4%23" target="weibo">
 吴艳妮假期重回90公斤（热度：382031）
 </a>
@@ -5993,24 +6011,6 @@ WTT（热度：332672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%B0%E4%B9%B010%E6%96%A4%E8%8A%92%E6%9E%9C%E7%A4%BC%E7%9B%923%E6%96%A4%E6%98%AF%E4%B9%A6%23" target="weibo">
 网友称买10斤芒果礼盒3斤是书（热度：325868）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23957%E7%BB%93%E5%A9%9A%23" target="weibo">
-957结婚（热度：325249）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%88%AA%E7%A9%BA%E5%A7%90%E7%9A%84%E8%A3%A4%E8%A3%85%E4%B8%8A%E7%BA%BF%E4%BA%86%23" target="weibo">
-山航空姐的裤装上线了（热度：325061）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E6%9F%8F%E9%9D%92%E5%A4%8D%E5%B7%A5%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88%23" target="weibo">
-辛柏青复工演出取消（热度：324662）
 </a>
 </li>
 
