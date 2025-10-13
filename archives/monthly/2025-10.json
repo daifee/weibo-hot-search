@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760395197018,
+  "endTime": 1760397776108,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -4283,6 +4283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546185,
+      "num": 819510,
+      "word": "业主私挖300平地下室32户开裂",
+      "onboard_time": 1760367802,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 545938,
       "num": 322065,
       "word": "短短37秒吻戏床戏都上尺度了",
@@ -5441,6 +5449,14 @@
       "onboard_time": 1760327303,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 469044,
+      "num": 117813,
+      "word": "女子踩指压板20分钟脚底喷血",
+      "onboard_time": 1760397198,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 467928,
@@ -6691,6 +6707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391800,
+      "num": 114978,
+      "word": "宁静说明星私底下都不太联系",
+      "onboard_time": 1760397317,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 391715,
       "num": 391715,
       "word": "老人被干儿子骗走失联直至离世",
@@ -6840,14 +6864,6 @@
       "word": "成都漫展小伙cos辱华角色被扯掉假发",
       "onboard_time": 1759590322,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 382248,
-      "num": 819510,
-      "word": "业主私挖300平地下室32户开裂",
-      "onboard_time": 1760367802,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -17979,6 +17995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153159,
+      "num": 136618,
+      "word": "辛芷蕾 五大史上最快二轮满贯",
+      "onboard_time": 1760358921,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153138,
       "num": 153138,
       "word": "徐振轩直播",
@@ -18409,6 +18433,14 @@
       "onboard_time": 1759309819,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148993,
+      "num": 148993,
+      "word": "记者卧底论文代写代发工厂",
+      "onboard_time": 1760372539,
+      "rank": 41,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 148969,
@@ -20585,14 +20617,6 @@
       "onboard_time": 1760344882,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136618,
-      "num": 136618,
-      "word": "辛芷蕾 五大史上最快二轮满贯",
-      "onboard_time": 1760358921,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 136461,
@@ -24977,6 +25001,14 @@
       "onboard_time": 1759415062,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117951,
+      "num": 117951,
+      "word": "豆瓣评分人数TOP前三",
+      "onboard_time": 1760394074,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 117900,
@@ -37459,14 +37491,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 75779,
-      "num": 75779,
-      "word": "记者卧底论文代写代发工厂",
-      "onboard_time": 1760372539,
-      "rank": 41,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 75701,
       "num": 75701,
       "word": "鹿晗画了泪痣",
@@ -37843,6 +37867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73370,
+      "num": 73370,
+      "word": "交通部发布对美船舶收费10条实施办法",
+      "onboard_time": 1760395216,
+      "rank": 22,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 73322,
       "num": 73322,
       "word": "焦虑时吃点发酵食物",
@@ -38083,6 +38115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71793,
+      "num": 71793,
+      "word": "大爷憋了半辈子终于能说了",
+      "onboard_time": 1760393054,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71758,
       "num": 137359,
       "word": "vivoX300拍出了烟火人间",
@@ -38233,6 +38273,14 @@
       "onboard_time": 1759850182,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 70770,
+      "num": 62978,
+      "word": "中国篮协发布处罚通报",
+      "onboard_time": 1760397558,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 70710,
@@ -38779,6 +38827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66464,
+      "num": 66464,
+      "word": "气象局解释西安连续降雨成因",
+      "onboard_time": 1760393174,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66455,
       "num": 105431,
       "word": "隧道车祸男孩跪地求路人救母",
@@ -38963,6 +39019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65071,
+      "num": 62691,
+      "word": "被体制内大佬的工作留痕震撼到了",
+      "onboard_time": 1760397619,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 65016,
       "num": 65016,
       "word": "普京称扣押运俄油油轮或引发冲突",
@@ -39131,12 +39195,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63480,
+      "num": 62487,
+      "word": "国乒全员油头",
+      "onboard_time": 1760397619,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63468,
       "num": 246357,
       "word": "vivoX300系列发布会",
       "onboard_time": 1760356522,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 63456,
+      "num": 63456,
+      "word": "荷兰政府将限制闻泰科技子公司",
+      "onboard_time": 1760379195,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63449,
@@ -39243,6 +39323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62369,
+      "num": 62369,
+      "word": "小狗在街上认出妈妈时的反应",
+      "onboard_time": 1760397619,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 62181,
       "num": 257063,
       "word": "王曼昱蒯曼女双进四强",
@@ -39268,7 +39356,7 @@
     },
     {
       "raw_hot": 61704,
-      "num": 61704,
+      "num": 63170,
       "word": "沉默的荣耀",
       "onboard_time": 1760370800,
       "rank": 45,
@@ -39379,6 +39467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 60634,
+      "num": 60634,
+      "word": "黄子韬十月十六号婚礼",
+      "onboard_time": 1760397678,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60608,
       "num": 60608,
       "word": "第一次国庆不用写作业",
@@ -39395,12 +39491,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 60487,
+      "num": 60487,
+      "word": "iG对战海报",
+      "onboard_time": 1760397619,
+      "rank": 36,
+      "category": "电竞,其它"
+    },
+    {
       "raw_hot": 60467,
       "num": 153144,
       "word": "十一当天有3.6亿人用高德",
       "onboard_time": 1759388600,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 60441,
+      "num": 60441,
+      "word": "教育局回应老师要求学生砸毁手机",
+      "onboard_time": 1760390594,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60232,
@@ -39851,14 +39963,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55706,
-      "num": 55706,
-      "word": "荷兰政府将限制闻泰科技子公司",
-      "onboard_time": 1760379195,
-      "rank": 17,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 55687,
       "num": 118341,
       "word": "印度一节日重现空难场景引发愤怒",
@@ -40105,6 +40209,14 @@
       "onboard_time": 1760024540,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53917,
+      "num": 53917,
+      "word": "减肥真的要发狠",
+      "onboard_time": 1760397678,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 53893,
@@ -40521,6 +40633,14 @@
       "onboard_time": 1760020341,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49864,
+      "num": 49864,
+      "word": "全身上下血栓最容易堵在哪儿",
+      "onboard_time": 1760397678,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 49479,
@@ -41051,6 +41171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43974,
+      "num": 43974,
+      "word": "婚礼全家福狗狗找位置被新郎抱入镜",
+      "onboard_time": 1760397738,
+      "rank": 47,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 43915,
       "num": 43915,
       "word": "曝LPL转会期大变革",
@@ -41379,6 +41507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40051,
+      "num": 40051,
+      "word": "GALA乐队为GALA加油",
+      "onboard_time": 1760397678,
+      "rank": 48,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 40049,
       "num": 40049,
       "word": "中国常驻联合国代表点名美国",
@@ -41481,6 +41617,14 @@
       "onboard_time": 1759706057,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38989,
+      "num": 38989,
+      "word": "演员洛桑群培去世",
+      "onboard_time": 1760394795,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 38909,
@@ -42043,14 +42187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33047,
-      "num": 33047,
-      "word": "教育局回应老师要求学生砸毁手机",
-      "onboard_time": 1760390594,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32961,
       "num": 100702,
       "word": "文旅局回应多人挤破音乐节围栏逃票",
@@ -42385,14 +42521,6 @@
       "onboard_time": 1759618335,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29672,
-      "num": 29672,
-      "word": "大爷憋了半辈子终于能说了",
-      "onboard_time": 1760393054,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 29644,
@@ -42755,14 +42883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25796,
-      "num": 29653,
-      "word": "气象局解释西安连续降雨成因",
-      "onboard_time": 1760393174,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25728,
       "num": 111401,
       "word": "新疆喀纳斯景区暂停户外徒步",
@@ -43065,14 +43185,6 @@
       "onboard_time": 1759776255,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 21930,
-      "num": 33166,
-      "word": "豆瓣评分人数TOP前三",
-      "onboard_time": 1760394074,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 21607,
@@ -43401,14 +43513,6 @@
       "onboard_time": 1759691715,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 17037,
-      "num": 29621,
-      "word": "演员洛桑群培去世",
-      "onboard_time": 1760394795,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 16959,

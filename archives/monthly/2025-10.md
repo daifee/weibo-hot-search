@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/14 06:39:57
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/14 07:22:56
 </p>
 </blockquote>
 <p>
@@ -3225,6 +3225,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9A%E4%B8%BB%E7%A7%81%E6%8C%96300%E5%B9%B3%E5%9C%B0%E4%B8%8B%E5%AE%A432%E6%88%B7%E5%BC%80%E8%A3%82%23" target="weibo">
+业主私挖300平地下室32户开裂（热度：546185）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E7%9F%AD37%E7%A7%92%E5%90%BB%E6%88%8F%E5%BA%8A%E6%88%8F%E9%83%BD%E4%B8%8A%E5%B0%BA%E5%BA%A6%E4%BA%86%23" target="weibo">
 短短37秒吻戏床戏都上尺度了（热度：545938）
 </a>
@@ -4091,6 +4097,12 @@ VaVa说自己分手是因为浪姐（热度：480031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AEword%E5%88%A0%E9%99%A4%E7%A9%BA%E7%99%BD%E9%A1%B5%E7%BA%B3%E5%85%A5%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%23" target="weibo">
 建议word删除空白页纳入义务教育（热度：469055）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B8%A9%E6%8C%87%E5%8E%8B%E6%9D%BF20%E5%88%86%E9%92%9F%E8%84%9A%E5%BA%95%E5%96%B7%E8%A1%80%23" target="weibo">
+女子踩指压板20分钟脚底喷血（热度：469044）
 </a>
 </li>
 
@@ -5031,6 +5043,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E8%AF%B4%E6%98%8E%E6%98%9F%E7%A7%81%E5%BA%95%E4%B8%8B%E9%83%BD%E4%B8%8D%E5%A4%AA%E8%81%94%E7%B3%BB%23" target="weibo">
+宁静说明星私底下都不太联系（热度：391800）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E8%A2%AB%E5%B9%B2%E5%84%BF%E5%AD%90%E9%AA%97%E8%B5%B0%E5%A4%B1%E8%81%94%E7%9B%B4%E8%87%B3%E7%A6%BB%E4%B8%96%23" target="weibo">
 老人被干儿子骗走失联直至离世（热度：391715）
 </a>
@@ -5141,12 +5159,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%BC%AB%E5%B1%95%E5%B0%8F%E4%BC%99cos%E8%BE%B1%E5%8D%8E%E8%A7%92%E8%89%B2%E8%A2%AB%E6%89%AF%E6%8E%89%E5%81%87%E5%8F%91%23" target="weibo">
 成都漫展小伙cos辱华角色被扯掉假发（热度：382617）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9A%E4%B8%BB%E7%A7%81%E6%8C%96300%E5%B9%B3%E5%9C%B0%E4%B8%8B%E5%AE%A432%E6%88%B7%E5%BC%80%E8%A3%82%23" target="weibo">
-业主私挖300平地下室32户开裂（热度：382248）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ WTT（热度：332672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%20%E4%BD%A0%E9%97%AE%E9%97%AE%E9%85%92%E7%AA%9D%E5%90%8C%E4%B8%8D%E5%90%8C%E6%84%8F%23" target="weibo">
 董璇 你问问酒窝同不同意（热度：326376）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E6%B2%A1%E8%AE%A4%E5%87%BA%E5%BD%AD%E6%98%B1%E7%95%85%23" target="weibo">
-宋亚轩没认出彭昱畅（热度：326199）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E7%A7%B0%E4%B9%B010%E6%96%A4%E8%8A%92%E6%9E%9C%E7%A4%BC%E7%9B%923%E6%96%A4%E6%98%AF%E4%B9%A6%23" target="weibo">
-网友称买10斤芒果礼盒3斤是书（热度：325868）
 </a>
 </li>
 
