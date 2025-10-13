@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760390576527,
+  "endTime": 1760391384283,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -43483,6 +43483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 15415,
+      "num": 17198,
+      "word": "狗狗真心碎了一地",
+      "onboard_time": 1760387955,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 15372,
       "num": 29761,
       "word": "外交部回应美国抹黑中美教育交流",
@@ -43569,14 +43577,6 @@
       "onboard_time": 1760118675,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14311,
-      "num": 16349,
-      "word": "狗狗真心碎了一地",
-      "onboard_time": 1760387955,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 14287,
