@@ -1,6 +1,6 @@
 {
   "startTime": 1760373145920,
-  "endTime": 1760387300193,
+  "endTime": 1760388020053,
   "band_list": [
     {
       "raw_hot": 592408,
@@ -483,12 +483,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 9893,
+      "raw_hot": 10411,
       "num": 18163,
       "word": "比伯海莉周年旅行照",
       "onboard_time": 1760386574,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9640,
+      "num": 16263,
+      "word": "狗狗真心碎了一地",
+      "onboard_time": 1760387955,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 3639,
