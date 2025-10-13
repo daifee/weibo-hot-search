@@ -1,0 +1,410 @@
+{
+  "runTime": 1760366630758,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1074744,
+        "num": 1171959,
+        "word": "王楚钦在印度真的很小心",
+        "onboard_time": 1760361802,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 682276,
+        "num": 682276,
+        "word": "孕妇不舒服蹲在商场遭保安驱赶",
+        "onboard_time": 1760360301,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14436,
+        "num": 472048,
+        "word": "我们的盛会",
+        "onboard_time": 1760347941,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 415902,
+        "num": 415902,
+        "word": "西安下了1个多月雨后遍地长蘑菇",
+        "onboard_time": 1760359041,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375005,
+        "num": 375005,
+        "word": "vivo X300价格",
+        "onboard_time": 1760360481,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 369983,
+        "num": 369983,
+        "word": "亚锦赛撤下台湾地区伪旗",
+        "onboard_time": 1760360421,
+        "rank": 5,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 300255,
+        "num": 300255,
+        "word": "张晚意情商",
+        "onboard_time": 1760356281,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289419,
+        "num": 289419,
+        "word": "王皓坐下王楚钦开始指导",
+        "onboard_time": 1760360361,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279427,
+        "num": 279427,
+        "word": "一笑随歌编剧",
+        "onboard_time": 1760364621,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269775,
+        "num": 269775,
+        "word": "成都七中校服潮到巴黎时装周",
+        "onboard_time": 1760355320,
+        "rank": 9,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 35085,
+        "num": 269345,
+        "word": "给好好生活的自己颁个奖吧",
+        "onboard_time": 1760364381,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 512533,
+        "num": 264950,
+        "word": "鲁豫坐飞机遇乘客要刘德华签名照",
+        "onboard_time": 1760361921,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42332,
+        "num": 262020,
+        "word": "特区之特",
+        "onboard_time": 1760349020,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34658,
+        "num": 259179,
+        "word": "一秒解锁地球巨清版",
+        "onboard_time": 1760364321,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 273753,
+        "num": 257906,
+        "word": "赵丽颖直播",
+        "onboard_time": 1760355681,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256529,
+        "num": 256529,
+        "word": "女子过安检丢了90克金手镯",
+        "onboard_time": 1760355501,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254915,
+        "num": 254915,
+        "word": "两男子吃酸汤子中毒警方介入调查",
+        "onboard_time": 1760356881,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219310,
+        "num": 219310,
+        "word": "北方稀土被内蒙古证监局出具警示函",
+        "onboard_time": 1760363543,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216377,
+        "num": 216377,
+        "word": "英雄联盟主题曲",
+        "onboard_time": 1760361321,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183013,
+        "num": 201475,
+        "word": "微博视界大会年度推荐",
+        "onboard_time": 1760365702,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142002,
+        "num": 200972,
+        "word": "这棵古树种子曾遨游太空",
+        "onboard_time": 1760363362,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355154,
+        "num": 200967,
+        "word": "女生意外拍到肿瘤细胞分裂全过程",
+        "onboard_time": 1760366421,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200945,
+        "num": 200945,
+        "word": "英雄联盟S15",
+        "onboard_time": 1760365583,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180852,
+        "num": 180852,
+        "word": "加微信一定要别人扫我",
+        "onboard_time": 1760348481,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61993,
+        "num": 175973,
+        "word": "什么是演唱会的神仙装备",
+        "onboard_time": 1760362581,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175039,
+        "num": 175039,
+        "word": "戴燕妮 看得出她是千金",
+        "onboard_time": 1760365702,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167342,
+        "num": 167342,
+        "word": "张维伊变帅了",
+        "onboard_time": 1760347941,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162788,
+        "num": 162788,
+        "word": "中方回应巴基斯坦向美国赠送稀土",
+        "onboard_time": 1760343682,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 160868,
+        "num": 160868,
+        "word": "Angelababy一把抱住要摔倒的粉丝",
+        "onboard_time": 1760356702,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120133,
+        "num": 158312,
+        "word": "一笑随歌好虐",
+        "onboard_time": 1760356460,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155826,
+        "num": 155826,
+        "word": "发工资第一件事",
+        "onboard_time": 1760364201,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149182,
+        "num": 149182,
+        "word": "孙颖莎像素小鼻嘎",
+        "onboard_time": 1760366421,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148287,
+        "num": 148287,
+        "word": "陈都灵居然是93年的",
+        "onboard_time": 1760358561,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138250,
+        "num": 138250,
+        "word": "在黑龙江鹤岗2万块钱买了房子",
+        "onboard_time": 1760366421,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136618,
+        "num": 136618,
+        "word": "辛芷蕾 五大史上最快二轮满贯",
+        "onboard_time": 1760358921,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56980,
+        "num": 135765,
+        "word": "为什么身边的人拍照都在换vivo",
+        "onboard_time": 1760366361,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118437,
+        "num": 135488,
+        "word": "真实自然是未来影像的趋势吗",
+        "onboard_time": 1760364321,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135303,
+        "num": 135303,
+        "word": "祝绪丹把额头露出来大大方方的",
+        "onboard_time": 1760362221,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130125,
+        "num": 130125,
+        "word": "iPhone的一生要经历三次死亡",
+        "onboard_time": 1760345720,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 32754,
+        "num": 129856,
+        "word": "不同品牌的2亿像素手机有什么区别",
+        "onboard_time": 1760366361,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129677,
+        "num": 129677,
+        "word": "我国成功发射试验三十一号卫星",
+        "onboard_time": 1760352741,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129370,
+        "num": 129370,
+        "word": "山姆回应配送员电动车挂满大件货物",
+        "onboard_time": 1760366001,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126240,
+        "num": 126240,
+        "word": "特朗普在以色列议会演讲被打断",
+        "onboard_time": 1760365643,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83841,
+        "num": 126112,
+        "word": "圆是橘子不是苹果",
+        "onboard_time": 1760366302,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126045,
+        "num": 126045,
+        "word": "王安宇 我没有宿醉",
+        "onboard_time": 1760366241,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107226,
+        "num": 117805,
+        "word": "果然是女儿更能共情妈妈",
+        "onboard_time": 1760364922,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89020,
+        "num": 117536,
+        "word": "爸爸当家旅行团综大预告",
+        "onboard_time": 1760361022,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117321,
+        "num": 117321,
+        "word": "莫言自曝刷短视频成瘾",
+        "onboard_time": 1760350281,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 115991,
+        "num": 115991,
+        "word": "桂林山水甲天下",
+        "onboard_time": 1760366483,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 113860,
+        "num": 113860,
+        "word": "丹恒的独家理疗",
+        "onboard_time": 1760365761,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#每一位妇女都是主角#"
+    }
+  }
+}
