@@ -1,6 +1,6 @@
 {
   "startTime": 1760286516759,
-  "endTime": 1760351388594,
+  "endTime": 1760352324638,
   "band_list": [
     {
       "raw_hot": 1688988,
@@ -251,6 +251,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 484631,
+      "num": 484631,
+      "word": "日本大街天降老鼠伤人",
+      "onboard_time": 1760347522,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 478728,
       "num": 478728,
       "word": "爸爸看手机婴儿车溜下坡翻车",
@@ -297,14 +305,6 @@
       "onboard_time": 1760339481,
       "rank": 49,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 425435,
-      "num": 176589,
-      "word": "日本大街天降老鼠伤人",
-      "onboard_time": 1760347522,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 422845,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 336609,
-      "num": 147445,
+      "num": 164838,
       "word": "加微信一定要别人扫我",
       "onboard_time": 1760348481,
       "rank": 34,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 310878,
-      "num": 147370,
+      "num": 166176,
       "word": "张维伊变帅了",
       "onboard_time": 1760347941,
       "rank": 21,
@@ -595,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 260589,
+      "num": 260589,
+      "word": "NBA",
+      "onboard_time": 1760351301,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 257168,
       "num": 257168,
       "word": "妇女的手是什么样的",
@@ -707,12 +715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210531,
-      "num": 143937,
-      "word": "NBA",
-      "onboard_time": 1760351301,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 209463,
+      "num": 209463,
+      "word": "莫言自曝刷短视频成瘾",
+      "onboard_time": 1760350281,
+      "rank": 25,
+      "category": "读书作家"
     },
     {
       "raw_hot": 206111,
@@ -811,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180814,
+      "num": 180814,
+      "word": "中方回应荷兰政府对安世半导体下手",
+      "onboard_time": 1760350281,
+      "rank": 23,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 178562,
       "num": 129479,
       "word": "乒超总决赛12月底在南京举办",
@@ -859,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167221,
+      "num": 167221,
+      "word": "金针菇早知道烂地里了",
+      "onboard_time": 1760345960,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167068,
       "num": 167068,
       "word": "朝鲜迎来外交潮",
@@ -883,12 +907,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 163563,
-      "num": 163563,
-      "word": "金针菇早知道烂地里了",
-      "onboard_time": 1760345960,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 163043,
+      "num": 163043,
+      "word": "王楚钦vs霍戴伊",
+      "onboard_time": 1760351901,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 161437,
@@ -1011,14 +1035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 142151,
-      "num": 142151,
-      "word": "中方回应荷兰政府对安世半导体下手",
-      "onboard_time": 1760350281,
-      "rank": 23,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 141446,
       "num": 122118,
       "word": "LPL冠军选手聚会",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1760336661,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140949,
+      "num": 140949,
+      "word": "亚锦赛男团中国vs伊朗",
+      "onboard_time": 1760351781,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 138936,
@@ -1057,6 +1081,14 @@
       "onboard_time": 1760348422,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 137038,
+      "num": 137038,
+      "word": "孙乐言最甜的脸跳最刚的舞",
+      "onboard_time": 1760351842,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 136661,
@@ -1105,14 +1137,6 @@
       "onboard_time": 1760323220,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134150,
-      "num": 134150,
-      "word": "莫言自曝刷短视频成瘾",
-      "onboard_time": 1760350281,
-      "rank": 25,
-      "category": "读书作家"
     },
     {
       "raw_hot": 132902,
@@ -1627,6 +1651,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107095,
+      "num": 107095,
+      "word": "我居然才爱上李沁",
+      "onboard_time": 1760351842,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 105825,
+      "num": 105825,
+      "word": "东北连自闭症都这么大大方方的",
+      "onboard_time": 1760351721,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105125,
       "num": 105125,
       "word": "王影璐扮鬼幻视袁湘琴",
@@ -1859,6 +1899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92320,
+      "num": 92320,
+      "word": "张博恒第三次出征世锦赛",
+      "onboard_time": 1760352022,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91570,
       "num": 91570,
       "word": "服装店的秋装卖不动了",
@@ -1937,6 +1985,14 @@
       "onboard_time": 1760336421,
       "rank": 29,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 89723,
+      "num": 167957,
+      "word": "年轻人开始追求真实感出片",
+      "onboard_time": 1760351842,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 89078,
@@ -2188,7 +2244,7 @@
     },
     {
       "raw_hot": 77344,
-      "num": 112098,
+      "num": 137058,
       "word": "显微镜闪开让vivoX300来",
       "onboard_time": 1760350281,
       "rank": 28,
@@ -2220,7 +2276,7 @@
     },
     {
       "raw_hot": 76334,
-      "num": 76334,
+      "num": 77320,
       "word": "宴遇永安",
       "onboard_time": 1760351181,
       "rank": 48,
@@ -2308,7 +2364,7 @@
     },
     {
       "raw_hot": 71758,
-      "num": 109960,
+      "num": 137359,
       "word": "vivoX300拍出了烟火人间",
       "onboard_time": 1760350281,
       "rank": 29,
@@ -2396,7 +2452,7 @@
     },
     {
       "raw_hot": 63739,
-      "num": 149252,
+      "num": 167450,
       "word": "旅拍界掌管出片的神",
       "onboard_time": 1760350220,
       "rank": 19,
@@ -2473,6 +2529,14 @@
       "onboard_time": 1760311577,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 53983,
+      "num": 167491,
+      "word": "被问及中国特朗普急了",
+      "onboard_time": 1760351482,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53406,
@@ -2619,6 +2683,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 37538,
+      "num": 92931,
+      "word": "孙颖莎快热化了",
+      "onboard_time": 1760350941,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37430,
       "num": 74849,
       "word": "医院出口闸机 欢迎再次光临",
@@ -2667,8 +2739,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32551,
-      "num": 459358,
+      "raw_hot": 36018,
+      "num": 470423,
       "word": "特区之特",
       "onboard_time": 1760349020,
       "rank": 2,
@@ -2715,14 +2787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25755,
-      "num": 88646,
-      "word": "孙颖莎快热化了",
-      "onboard_time": 1760350941,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 23976,
       "num": 88754,
       "word": "院士合影成生意有商家报价3万起步",
@@ -2761,6 +2825,14 @@
       "onboard_time": 1760300953,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 19522,
+      "num": 96256,
+      "word": "汽修店主递水十年后获律师免费辩护",
+      "onboard_time": 1760351721,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18838,
