@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 16:50:03
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 17:30:55
 </p>
 </blockquote>
 <p>
@@ -2457,6 +2457,12 @@ JDG输越南队（热度：648751）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%89%A7%E9%87%8C%E7%9C%8B%E7%94%B7%E5%A5%B3%E4%B8%BB%E6%8B%94%E5%85%85%E7%94%B5%E5%99%A8%23" target="weibo">
+第一次在剧里看男女主拔充电器（热度：637637）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%E7%A1%AE%E5%AE%9A%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
 网传将门毒后确定迪丽热巴（热度：637256）
 </a>
@@ -3537,6 +3543,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%BC%94%E5%91%98%E8%B0%A2%E7%8E%B2%E7%8E%B2%E6%9B%9D%E8%B1%AA%E9%97%A8%E7%94%9F%E5%AD%98%E6%BD%9C%E8%A7%84%E5%88%99%23" target="weibo">
+女演员谢玲玲曝豪门生存潜规则（热度：506601）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8BvsF%E5%8B%92%E5%B8%83%E4%BC%A6%23" target="weibo">
 林诗栋vsF勒布伦（热度：506365）
 </a>
@@ -4353,6 +4365,12 @@ Angelababy跳刀马刀马了（热度：440859）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E7%BB%93%E6%9D%9F%23" target="weibo">
+加沙战争结束（热度：434311）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Dior%E8%BF%9E%E5%8F%914%E6%9D%A1%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
 Dior连发4条迪丽热巴（热度：434111）
 </a>
@@ -4433,6 +4451,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E5%85%B3%E7%A8%8E%E6%81%90%E5%90%93%E6%8A%8A%E7%BE%8E%E8%82%A1%E5%90%93%E5%87%BA%E5%BF%83%E8%84%8F%E7%97%85%E4%BA%86%23" target="weibo">
 特朗普对华关税恐吓把美股吓出心脏病了（热度：428495）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%85%E5%AF%BC%E5%91%98%E7%BB%93%E5%A9%9A%E8%BF%98%E5%9C%A8%E5%9B%9E%E5%AD%A6%E7%94%9F%E6%B6%88%E6%81%AF%23" target="weibo">
+辅导员结婚还在回学生消息（热度：428136）
 </a>
 </li>
 
@@ -5529,6 +5553,12 @@ TF家族男团在湖南秋晚三代同台（热度：346043）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%B4%E4%BC%8A%20%E7%88%AC%E7%A6%BB%E7%8E%B0%E5%9C%BA%23" target="weibo">
+张维伊 爬离现场（热度：345669）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%23" target="weibo">
 我家那闺女（热度：345471）
 </a>
@@ -5981,36 +6011,6 @@ TF家族（热度：321156）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%97%E4%B8%80%E5%A4%A98%E5%9C%BA%E5%A9%9A%E7%A4%BC%E5%85%B1%E7%94%A8%E4%B8%80%E4%B8%AA%E6%8B%B1%E9%97%A8%23" target="weibo">
 酒店一天8场婚礼共用一个拱门（热度：318650）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%8F%B6%E4%B8%96%E8%8D%A3%E5%8A%A8%E4%BA%86%E8%B0%81%E7%9A%84DNA%23" target="weibo">
-檀健次叶世荣动了谁的DNA（热度：318525）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%A2%E5%A4%B111%E4%B8%87%E6%89%8B%E9%95%AF%E5%8F%91%E5%B8%96%E6%89%BE%E5%9B%9E%23" target="weibo">
-女子演唱会丢失11万手镯发帖找回（热度：318380）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%9B%9E%E5%BA%94%E6%9D%8E%E6%B2%81%23" target="weibo">
-陈哲远回应李沁（热度：318339）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E5%BD%95%E5%8A%A0%E6%B2%99%E7%9A%84%E6%91%84%E5%BD%B1%E5%B8%88%E8%A2%AB%E7%82%B8%E6%AD%BB%23" target="weibo">
-记录加沙的摄影师被炸死（热度：318275）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23MiuMiu%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23" target="weibo">
-MiuMiu巴黎时装周（热度：318258）
 </a>
 </li>
 

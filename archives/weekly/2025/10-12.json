@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760345403073,
+  "endTime": 1760347855228,
   "band_list": [
     {
       "raw_hot": 1688988,
@@ -355,6 +355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 637637,
+      "num": 438936,
+      "word": "第一次在剧里看男女主拔充电器",
+      "onboard_time": 1760344700,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 631509,
       "num": 631509,
       "word": "吃不吃麻辣烫的都沉默了",
@@ -555,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 506601,
+      "num": 205010,
+      "word": "女演员谢玲玲曝豪门生存潜规则",
+      "onboard_time": 1760345661,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 502105,
       "num": 213022,
       "word": "白鹿想染头发",
@@ -699,12 +715,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 434311,
+      "num": 434311,
+      "word": "加沙战争结束",
+      "onboard_time": 1760344882,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 431395,
       "num": 431395,
       "word": "菲律宾派出的挑衅船只越来越多",
       "onboard_time": 1760245161,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 428136,
+      "num": 245608,
+      "word": "辅导员结婚还在回学生消息",
+      "onboard_time": 1760339481,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 426285,
@@ -875,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345669,
+      "num": 283149,
+      "word": "张维伊 爬离现场",
+      "onboard_time": 1760342179,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345350,
       "num": 231142,
       "word": "朱一龙檀健次 空枪",
@@ -961,14 +1001,6 @@
       "onboard_time": 1760244200,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 316028,
-      "num": 283149,
-      "word": "张维伊 爬离现场",
-      "onboard_time": 1760342179,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 309221,
@@ -1067,14 +1099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294837,
-      "num": 245608,
-      "word": "辅导员结婚还在回学生消息",
-      "onboard_time": 1760339481,
-      "rank": 49,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 293591,
       "num": 293591,
       "word": "浙江一住户5楼空心菜垂1楼像瀑布",
@@ -1129,6 +1153,14 @@
       "onboard_time": 1760321119,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 281699,
+      "num": 281699,
+      "word": "美国知名精神病学家自杀",
+      "onboard_time": 1760342361,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 281438,
@@ -1243,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252336,
+      "num": 252336,
+      "word": "iPhone的一生要经历三次死亡",
+      "onboard_time": 1760345720,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 251998,
       "num": 251998,
       "word": "黄力平任万科董事长",
@@ -1289,14 +1329,6 @@
       "onboard_time": 1760339421,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 238467,
-      "num": 238467,
-      "word": "美国知名精神病学家自杀",
-      "onboard_time": 1760342361,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 238454,
@@ -1475,12 +1507,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204653,
-      "num": 204653,
-      "word": "第一次在剧里看男女主拔充电器",
-      "onboard_time": 1760344700,
+      "raw_hot": 206111,
+      "num": 206111,
+      "word": "外交部回应美方关税威胁",
+      "onboard_time": 1760345481,
       "rank": 8,
-      "category": "剧集"
+      "category": "国内时政"
     },
     {
       "raw_hot": 201729,
@@ -1505,6 +1537,14 @@
       "onboard_time": 1760235320,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199705,
+      "num": 199705,
+      "word": "孙颖莎裹成灌汤包",
+      "onboard_time": 1760347402,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 199589,
@@ -1555,6 +1595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196537,
+      "num": 196537,
+      "word": "黄磊 一代人有一代人的托举",
+      "onboard_time": 1760343021,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195234,
       "num": 195234,
       "word": "保时捷女销冠晒行政处罚决定书",
@@ -1584,14 +1632,6 @@
       "word": "李维嘉吴昕直播大声蛐蛐杜海涛",
       "onboard_time": 1760240059,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 189477,
-      "num": 189477,
-      "word": "黄磊 一代人有一代人的托举",
-      "onboard_time": 1760343021,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -1673,6 +1713,14 @@
       "onboard_time": 1760239460,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176157,
+      "num": 176157,
+      "word": "飞儿乐团前成员阿沁退圈",
+      "onboard_time": 1760346921,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 175823,
@@ -2507,6 +2555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124933,
+      "num": 185148,
+      "word": "长安二十四计人物介绍",
+      "onboard_time": 1760345781,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124714,
       "num": 124714,
       "word": "孙天宇发吧唧原图",
@@ -2723,6 +2779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 119162,
+      "num": 129249,
+      "word": "少爷和我没去喜2的原因找到了",
+      "onboard_time": 1760344580,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119160,
       "num": 119160,
       "word": "警方通报4人在地铁摆拍理发",
@@ -2833,14 +2897,6 @@
       "onboard_time": 1760277320,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115753,
-      "num": 129249,
-      "word": "少爷和我没去喜2的原因找到了",
-      "onboard_time": 1760344580,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 115737,
@@ -3155,6 +3211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108641,
+      "num": 90453,
+      "word": "日本大街天降老鼠伤人",
+      "onboard_time": 1760347522,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 108349,
       "num": 108349,
       "word": "许凯天都异闻录开机出妆",
@@ -3435,6 +3499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100758,
+      "num": 100758,
+      "word": "龚俊李沁这段仿佛看到了优秀员工和老板",
+      "onboard_time": 1760346740,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100357,
       "num": 100357,
       "word": "张本美和3比2车秀英",
@@ -3521,6 +3593,14 @@
       "onboard_time": 1760230880,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 97814,
+      "num": 97814,
+      "word": "李昀锐背受伤的孟子义路透",
+      "onboard_time": 1760346622,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 97329,
@@ -3667,6 +3747,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 93226,
+      "num": 90405,
+      "word": "金针菇早知道烂地里了",
+      "onboard_time": 1760345960,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 92797,
       "num": 92797,
       "word": "用粘土和桂花留住秋天",
@@ -3795,6 +3883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90635,
+      "num": 90635,
+      "word": "乳胶枕变成锅贴",
+      "onboard_time": 1760346260,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90424,
       "num": 90424,
       "word": "刘涛会让女儿先撞南墙",
@@ -3809,6 +3905,14 @@
       "onboard_time": 1760331444,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90327,
+      "num": 90327,
+      "word": "喜人奇妙夜发布会",
+      "onboard_time": 1760347522,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 90326,
@@ -4123,6 +4227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83848,
+      "num": 83848,
+      "word": "刑法几乎没有任何变化",
+      "onboard_time": 1760347581,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 83799,
       "num": 87703,
       "word": "千万富翁父亲在解清帅婚礼上大哭",
@@ -4185,6 +4297,14 @@
       "onboard_time": 1760249661,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82810,
+      "num": 82810,
+      "word": "为人民服务大字遭人开车漂移破坏",
+      "onboard_time": 1760344641,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82731,
@@ -4347,6 +4467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 79836,
+      "num": 79836,
+      "word": "王安宇想来现场看喜人奇妙夜",
+      "onboard_time": 1760347581,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79697,
       "num": 118359,
       "word": "花8299减肥4个月仅瘦8两",
@@ -4467,6 +4595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 76834,
+      "num": 82832,
+      "word": "王楚钦在印度也是打卡景点",
+      "onboard_time": 1760347462,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76804,
       "num": 76804,
       "word": "一群猫有一只聪明的就饿不死",
@@ -4505,6 +4641,14 @@
       "onboard_time": 1760238860,
       "rank": 49,
       "category": "民生新闻,时尚"
+    },
+    {
+      "raw_hot": 75483,
+      "num": 75483,
+      "word": "美贸易代表想给中方打电话被拒",
+      "onboard_time": 1760345900,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75426,
@@ -4859,14 +5003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59064,
-      "num": 203459,
-      "word": "加沙战争结束",
-      "onboard_time": 1760344882,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 57895,
       "num": 76587,
       "word": "极氪001",
@@ -4921,6 +5057,14 @@
       "onboard_time": 1760311577,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 53978,
+      "num": 82905,
+      "word": "34岁女生参加芒果选秀回应年龄偏大",
+      "onboard_time": 1760347701,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 53638,
@@ -5193,6 +5337,14 @@
       "onboard_time": 1760341520,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 37430,
+      "num": 74849,
+      "word": "医院出口闸机 欢迎再次光临",
+      "onboard_time": 1760346260,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37205,
