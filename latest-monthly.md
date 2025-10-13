@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 22:43:50
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/13 23:27:28
 </p>
 </blockquote>
 <p>
@@ -3231,6 +3231,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9%E7%A8%80%E5%9C%9F%E8%A2%AB%E5%86%85%E8%92%99%E5%8F%A4%E8%AF%81%E7%9B%91%E5%B1%80%E5%87%BA%E5%85%B7%E8%AD%A6%E7%A4%BA%E5%87%BD%23" target="weibo">
+北方稀土被内蒙古证监局出具警示函（热度：543408）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%9B%E6%81%A9%E5%A8%87%E5%85%B0%23" target="weibo">
 李沛恩娇兰（热度：543355）
 </a>
@@ -3897,6 +3903,12 @@ iPhone的一生要经历三次死亡（热度：494807）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%84%8F%E5%A4%96%E6%8B%8D%E5%88%B0%E8%82%BF%E7%98%A4%E7%BB%86%E8%83%9E%E5%88%86%E8%A3%82%E5%85%A8%E8%BF%87%E7%A8%8B%23" target="weibo">
+女生意外拍到肿瘤细胞分裂全过程（热度：480724）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E5%8E%BB%E9%9F%A9%E5%9B%BD%E7%9A%84%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%E5%90%97%23" target="weibo">
 国庆去韩国的人后悔了吗（热度：480511）
 </a>
@@ -4007,6 +4019,12 @@ VaVa说自己分手是因为浪姐（热度：480031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E7%9A%93%E8%BE%B0%E5%87%BA%E7%8E%B0%E8%87%AA%E9%97%AD%E7%97%87%E7%8A%B6%23" target="weibo">
 沈皓辰出现自闭症状（热度：474151）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E6%B5%B7%E6%B6%9B%E6%8A%8A%E7%8E%8B%E8%AF%97%E9%BE%84%E8%8B%B1%E6%96%87%E5%90%8D%E6%8B%BC%E9%94%99%23" target="weibo">
+杜海涛把王诗龄英文名拼错（热度：474001）
 </a>
 </li>
 
@@ -4473,6 +4491,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%9B%9E%E5%BA%94%E9%85%8D%E9%80%81%E5%91%98%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%8C%82%E6%BB%A1%E5%A4%A7%E4%BB%B6%E8%B4%A7%E7%89%A9%23" target="weibo">
+山姆回应配送员电动车挂满大件货物（热度：432554）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E4%BB%BB%E5%91%BD%E8%AE%B8%E6%80%9D%E6%95%8F%E4%B8%BA%E6%80%BB%E7%BB%8F%E7%90%86%23" target="weibo">
 娃哈哈任命许思敏为总经理（热度：432523）
 </a>
@@ -4737,6 +4761,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E6%83%85%E5%95%86%23" target="weibo">
+张晚意情商（热度：415523）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E5%9B%BD%E5%BA%86%E5%90%83%E8%83%96%E4%BA%86%E5%8D%81%E6%96%A4%23" target="weibo">
 沙溢国庆吃胖了十斤（热度：415437）
 </a>
@@ -4961,12 +4991,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%A4%A7%E4%BC%A4%E8%82%9D%E5%85%83%E5%87%B6%23" target="weibo">
 四大伤肝元凶（热度：393669）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%99%9A%E6%84%8F%E6%83%85%E5%95%86%23" target="weibo">
-张晚意情商（热度：393228）
 </a>
 </li>
 
@@ -5529,12 +5553,6 @@ iPhone17系列激活量曝光（热度：374659）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E6%84%8F%E5%A4%96%E6%8B%8D%E5%88%B0%E8%82%BF%E7%98%A4%E7%BB%86%E8%83%9E%E5%88%86%E8%A3%82%E5%85%A8%E8%BF%87%E7%A8%8B%23" target="weibo">
-女生意外拍到肿瘤细胞分裂全过程（热度：355154）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%88%96%E6%88%90%E6%97%A5%E6%9C%AC%E9%A6%96%E4%B8%AA%E5%A5%B3%E9%A6%96%E7%9B%B8%23" target="weibo">
 高市早苗或成日本首个女首相（热度：354564）
 </a>
@@ -5993,24 +6011,6 @@ WTT（热度：332672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E6%9F%8F%E9%9D%92%E5%A4%8D%E5%B7%A5%E6%BC%94%E5%87%BA%E5%8F%96%E6%B6%88%23" target="weibo">
 辛柏青复工演出取消（热度：324662）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E6%98%AD%E9%80%9A4.8%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
-云南昭通4.8级地震（热度：324501）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E6%BC%94%E5%94%B1%E4%BC%9A%20%E6%9E%81%E9%99%90%E7%94%B7%E4%BA%BA%E5%B8%AE%23" target="weibo">
-张艺兴演唱会 极限男人帮（热度：324012）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%88%E5%A6%88%E8%80%81%E5%BC%80%E6%88%91%E6%88%BF%E9%97%A8%E4%BA%86%23" target="weibo">
-终于知道为什么妈妈老开我房门了（热度：323347）
 </a>
 </li>
 

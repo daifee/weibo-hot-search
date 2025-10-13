@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760366630758,
+  "endTime": 1760369248361,
   "band_list": [
     {
       "raw_hot": 1688988,
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 663510,
+      "num": 185034,
+      "word": "卢远 王乐晨",
+      "onboard_time": 1760366661,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 660203,
       "num": 1105632,
       "word": "vivo X300价格",
@@ -563,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 543408,
+      "num": 543408,
+      "word": "北方稀土被内蒙古证监局出具警示函",
+      "onboard_time": 1760363543,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 543355,
       "num": 227084,
       "word": "李沛恩娇兰",
@@ -699,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 480724,
+      "num": 200967,
+      "word": "女生意外拍到肿瘤细胞分裂全过程",
+      "onboard_time": 1760366421,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 478728,
       "num": 478728,
       "word": "爸爸看手机婴儿车溜下坡翻车",
@@ -737,6 +761,14 @@
       "onboard_time": 1760246000,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 474001,
+      "num": 179449,
+      "word": "杜海涛把王诗龄英文名拼错",
+      "onboard_time": 1760367382,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 473047,
@@ -843,6 +875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 432554,
+      "num": 432554,
+      "word": "山姆回应配送员电动车挂满大件货物",
+      "onboard_time": 1760366001,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431395,
       "num": 431395,
       "word": "菲律宾派出的挑衅船只越来越多",
@@ -907,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 415523,
+      "num": 367895,
+      "word": "张晚意情商",
+      "onboard_time": 1760356281,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 414560,
       "num": 221015,
       "word": "张杰演唱会音响故障用喇叭唱逆战",
@@ -968,14 +1016,6 @@
       "word": "杨汝晴把王乐晨问懵了",
       "onboard_time": 1760338401,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 393228,
-      "num": 300255,
-      "word": "张晚意情商",
-      "onboard_time": 1760356281,
-      "rank": 12,
       "category": "综艺"
     },
     {
@@ -1049,14 +1089,6 @@
       "onboard_time": 1760193623,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 355154,
-      "num": 200967,
-      "word": "女生意外拍到肿瘤细胞分裂全过程",
-      "onboard_time": 1760366421,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 345669,
@@ -1193,6 +1225,14 @@
       "onboard_time": 1760341520,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307569,
+      "num": 307569,
+      "word": "一笑随歌编剧",
+      "onboard_time": 1760364621,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 305726,
@@ -1361,14 +1401,6 @@
       "onboard_time": 1760329763,
       "rank": 46,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 279427,
-      "num": 279427,
-      "word": "一笑随歌编剧",
-      "onboard_time": 1760364621,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 279279,
@@ -1715,14 +1747,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 219310,
-      "num": 219310,
-      "word": "北方稀土被内蒙古证监局出具警示函",
-      "onboard_time": 1760363543,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 217872,
       "num": 192259,
       "word": "王楚钦11比0",
@@ -1939,6 +1963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193651,
+      "num": 193651,
+      "word": "孙颖莎像素小鼻嘎",
+      "onboard_time": 1760366421,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192809,
       "num": 145146,
       "word": "4女6男谈出7段情",
@@ -1969,6 +2001,14 @@
       "onboard_time": 1760246721,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 185443,
+      "num": 155771,
+      "word": "孙颖莎3比0战胜素塔西尼",
+      "onboard_time": 1760368522,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 185248,
@@ -2251,6 +2291,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162939,
+      "num": 162939,
+      "word": "业主私挖300平地下室32户开裂",
+      "onboard_time": 1760367802,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162747,
+      "num": 155826,
+      "word": "发工资第一件事",
+      "onboard_time": 1760364201,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 162644,
       "num": 162644,
       "word": "桃黑黑不播盛世天下了",
@@ -2299,6 +2355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159798,
+      "num": 159798,
+      "word": "山姆配送员电动车挂满大件货物",
+      "onboard_time": 1760365102,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159713,
       "num": 131711,
       "word": "糖尿病女孩1天4杯奶茶惊掉医生下巴",
@@ -2345,6 +2409,14 @@
       "onboard_time": 1760326401,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 158974,
+      "num": 131903,
+      "word": "赵丽颖工作室",
+      "onboard_time": 1760368761,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 158785,
@@ -2403,14 +2475,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 155826,
-      "num": 155826,
-      "word": "发工资第一件事",
-      "onboard_time": 1760364201,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 155577,
       "num": 155577,
       "word": "张凌赫 偶遇照拍成情侣照",
@@ -2433,6 +2497,14 @@
       "onboard_time": 1760235261,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155104,
+      "num": 136595,
+      "word": "想看全运会的心按捺不住了",
+      "onboard_time": 1760368881,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 154773,
@@ -2537,14 +2609,6 @@
       "onboard_time": 1760273301,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149182,
-      "num": 149182,
-      "word": "孙颖莎像素小鼻嘎",
-      "onboard_time": 1760366421,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 148349,
@@ -3035,14 +3099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129370,
-      "num": 129370,
-      "word": "山姆回应配送员电动车挂满大件货物",
-      "onboard_time": 1760366001,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128958,
       "num": 128958,
       "word": "喜人奇妙夜发布会",
@@ -3368,6 +3424,14 @@
       "word": "白鹿要回北京补牙了",
       "onboard_time": 1760334142,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 121249,
+      "num": 121249,
+      "word": "葛荟婕自曝没带走女儿的原因",
+      "onboard_time": 1760368701,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -3891,6 +3955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110005,
+      "num": 110005,
+      "word": "美股",
+      "onboard_time": 1760367501,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 109997,
       "num": 109997,
       "word": "泰国导游强制消费威胁游客",
@@ -4043,6 +4115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 106848,
+      "num": 106848,
+      "word": "上班族注意藏在腿部的隐形地雷",
+      "onboard_time": 1760368641,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 106635,
       "num": 106635,
       "word": "为什么商场里的马桶越来越多了",
@@ -4179,14 +4259,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103088,
-      "num": 103088,
-      "word": "山姆配送员电动车挂满大件货物",
-      "onboard_time": 1760365102,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 103035,
       "num": 159875,
       "word": "大使馆回应亚锦赛错误旗帜事件",
@@ -4307,6 +4379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 101388,
+      "num": 101388,
+      "word": "第一批追大奉的人嘴角压不住了",
+      "onboard_time": 1760369061,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101139,
       "num": 101139,
       "word": "洗脸巾 毛巾",
@@ -4377,6 +4457,14 @@
       "onboard_time": 1760360361,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99434,
+      "num": 99434,
+      "word": "以后我打到臭车就学张晚意这么说",
+      "onboard_time": 1760367142,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 99219,
@@ -4531,6 +4619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95158,
+      "num": 95158,
+      "word": "eSIM手机业务可以办理了",
+      "onboard_time": 1760367802,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 95014,
       "num": 95014,
       "word": "丹恒腾荒我为你翻山越岭",
@@ -4627,6 +4723,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 93232,
+      "num": 93232,
+      "word": "王皓对王楚钦主打无微不至",
+      "onboard_time": 1760367922,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92797,
       "num": 92797,
       "word": "用粘土和桂花留住秋天",
@@ -4657,6 +4761,14 @@
       "onboard_time": 1760243719,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 92402,
+      "num": 92402,
+      "word": "王楚钦超绝反应全队起立鼓掌",
+      "onboard_time": 1760368402,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 92320,
@@ -5811,6 +5923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 71014,
+      "num": 121684,
+      "word": "国产三强华小v",
+      "onboard_time": 1760365402,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 70315,
       "num": 70315,
       "word": "终于找到克服洗澡拖延症的方法了",
@@ -6027,12 +6147,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61203,
+      "num": 259179,
+      "word": "一秒解锁地球巨清版",
+      "onboard_time": 1760364321,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 61163,
       "num": 63078,
       "word": "何炅汪苏泷给徐志胜做局",
       "onboard_time": 1760199800,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61067,
+      "num": 135765,
+      "word": "为什么身边的人拍照都在换vivo",
+      "onboard_time": 1760366361,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 59947,
@@ -6060,7 +6196,7 @@
     },
     {
       "raw_hot": 57522,
-      "num": 205140,
+      "num": 438806,
       "word": "为14亿人治水有多难",
       "onboard_time": 1760277801,
       "rank": 19,
@@ -6073,14 +6209,6 @@
       "onboard_time": 1760196381,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 56980,
-      "num": 135765,
-      "word": "为什么身边的人拍照都在换vivo",
-      "onboard_time": 1760366361,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 56805,
@@ -6177,14 +6305,6 @@
       "onboard_time": 1760310438,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 49777,
-      "num": 98473,
-      "word": "国产三强华小v",
-      "onboard_time": 1760365402,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 49118,
@@ -6467,6 +6587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36721,
+      "num": 269345,
+      "word": "给好好生活的自己颁个奖吧",
+      "onboard_time": 1760364381,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 36685,
       "num": 81948,
       "word": "卢昱晓我笑纳了",
@@ -6497,22 +6625,6 @@
       "onboard_time": 1760209994,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35276,
-      "num": 269345,
-      "word": "给好好生活的自己颁个奖吧",
-      "onboard_time": 1760364381,
-      "rank": 12,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 34658,
-      "num": 259179,
-      "word": "一秒解锁地球巨清版",
-      "onboard_time": 1760364321,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 34347,
@@ -6609,6 +6721,14 @@
       "onboard_time": 1760265320,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26438,
+      "num": 150530,
+      "word": "论文机构销售直接进医院拉客",
+      "onboard_time": 1760369001,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25727,
