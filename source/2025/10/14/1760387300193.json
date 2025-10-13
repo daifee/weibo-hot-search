@@ -1,0 +1,410 @@
+{
+  "runTime": 1760387300193,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 49662,
+        "num": 49662,
+        "word": "金毛在宠物馆洗澡后突然死亡",
+        "onboard_time": 1760371519,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37727,
+        "num": 37727,
+        "word": "业主私挖300平地下室32户开裂",
+        "onboard_time": 1760367802,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 982,
+        "num": 36197,
+        "word": "为14亿人治水有多难",
+        "onboard_time": 1760277801,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35970,
+        "num": 35970,
+        "word": "荷兰政府将限制闻泰科技子公司",
+        "onboard_time": 1760379195,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31052,
+        "num": 31052,
+        "word": "记者卧底论文代写代发工厂",
+        "onboard_time": 1760372539,
+        "rank": 4,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 27487,
+        "num": 27487,
+        "word": "山姆配送员电动车挂满大件货物",
+        "onboard_time": 1760365102,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26231,
+        "num": 26231,
+        "word": "北方稀土被内蒙古证监局出具警示函",
+        "onboard_time": 1760363543,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23630,
+        "num": 23630,
+        "word": "山姆回应配送员电动车挂满大件货物",
+        "onboard_time": 1760366001,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23034,
+        "num": 23034,
+        "word": "第一批追大奉的人嘴角压不住了",
+        "onboard_time": 1760369061,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22687,
+        "num": 22687,
+        "word": "美国3岁男孩被坠落直升机砸伤脑肺",
+        "onboard_time": 1760369780,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 53981,
+        "num": 22446,
+        "word": "14岁自闭症男孩坠楼妈妈崩溃大哭",
+        "onboard_time": 1760369601,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46376,
+        "num": 22097,
+        "word": "赵丽颖工作室",
+        "onboard_time": 1760368761,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43365,
+        "num": 21933,
+        "word": "杜海涛把王诗龄英文名拼错",
+        "onboard_time": 1760367382,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21696,
+        "num": 21696,
+        "word": "西安下了1个多月雨后遍地长蘑菇",
+        "onboard_time": 1760359041,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20879,
+        "num": 20879,
+        "word": "王楚钦在印度真的很小心",
+        "onboard_time": 1760361802,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20471,
+        "num": 20471,
+        "word": "卢远 王乐晨",
+        "onboard_time": 1760366661,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20138,
+        "num": 20138,
+        "word": "机构称去年发13万篇论文挣8000万",
+        "onboard_time": 1760371460,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19744,
+        "num": 19744,
+        "word": "亚锦赛撤下台湾地区伪旗",
+        "onboard_time": 1760360421,
+        "rank": 17,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 18451,
+        "num": 18451,
+        "word": "世界最高峰遇上日落悬日",
+        "onboard_time": 1760371460,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13750,
+        "num": 18442,
+        "word": "微博视界大会年度推荐",
+        "onboard_time": 1760365702,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33068,
+        "num": 18440,
+        "word": "女生意外拍到肿瘤细胞分裂全过程",
+        "onboard_time": 1760366421,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15286,
+        "num": 18426,
+        "word": "辛芷蕾 五大史上最快二轮满贯",
+        "onboard_time": 1760358921,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15133,
+        "num": 18423,
+        "word": "加微信一定要别人扫我",
+        "onboard_time": 1760348481,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14955,
+        "num": 18412,
+        "word": "女子过安检丢了90克金手镯",
+        "onboard_time": 1760355501,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12038,
+        "num": 18396,
+        "word": "入青云",
+        "onboard_time": 1760353401,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11208,
+        "num": 18395,
+        "word": "沉默的荣耀",
+        "onboard_time": 1760370800,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14764,
+        "num": 18382,
+        "word": "打电话时外卖小哥正在吃我外卖",
+        "onboard_time": 1760369601,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14706,
+        "num": 18375,
+        "word": "特朗普在以色列议会演讲被打断",
+        "onboard_time": 1760365643,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14489,
+        "num": 18358,
+        "word": "成都七中校服潮到巴黎时装周",
+        "onboard_time": 1760355320,
+        "rank": 28,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 14399,
+        "num": 18352,
+        "word": "葛荟婕自曝没带走女儿的原因",
+        "onboard_time": 1760368701,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14125,
+        "num": 18343,
+        "word": "在黑龙江鹤岗2万块钱买了房子",
+        "onboard_time": 1760366421,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 13401,
+        "num": 18336,
+        "word": "中方回应巴基斯坦向美国赠送稀土",
+        "onboard_time": 1760343682,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13360,
+        "num": 18321,
+        "word": "英雄联盟主题曲",
+        "onboard_time": 1760361321,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12394,
+        "num": 18315,
+        "word": "台湾缺药问题愈演愈烈",
+        "onboard_time": 1760369601,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11955,
+        "num": 18302,
+        "word": "vivoX300系列开箱测评",
+        "onboard_time": 1760370620,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 11900,
+        "num": 18301,
+        "word": "谢霆锋坚持出道几十年无妆造",
+        "onboard_time": 1760358021,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 11346,
+        "num": 18292,
+        "word": "陈都灵居然是93年的",
+        "onboard_time": 1760358561,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11278,
+        "num": 18279,
+        "word": "老用户换vivoX300值得吗",
+        "onboard_time": 1760370620,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 11249,
+        "num": 18270,
+        "word": "vivoX300系列发布会",
+        "onboard_time": 1760356522,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 11184,
+        "num": 18256,
+        "word": "eSIM手机业务可以办理了",
+        "onboard_time": 1760367802,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 10932,
+        "num": 18246,
+        "word": "以后我打到臭车就学张晚意这么说",
+        "onboard_time": 1760367142,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10699,
+        "num": 18239,
+        "word": "黄金有望突破4100",
+        "onboard_time": 1760370679,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 10696,
+        "num": 18226,
+        "word": "vivoX300系列全系适配增距镜",
+        "onboard_time": 1760370620,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 10593,
+        "num": 18220,
+        "word": "星品影响力",
+        "onboard_time": 1760377155,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 10418,
+        "num": 18213,
+        "word": "vivo X300价格",
+        "onboard_time": 1760360481,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 10318,
+        "num": 18204,
+        "word": "桃黑黑植物大战僵尸",
+        "onboard_time": 1760370741,
+        "rank": 45,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 10152,
+        "num": 18193,
+        "word": "Angelababy一把抱住要摔倒的粉丝",
+        "onboard_time": 1760356702,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10091,
+        "num": 18183,
+        "word": "一笑随歌编剧",
+        "onboard_time": 1760364621,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 10068,
+        "num": 18173,
+        "word": "手持影像大小王走哪儿都是主场",
+        "onboard_time": 1760370620,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 9893,
+        "num": 18163,
+        "word": "比伯海莉周年旅行照",
+        "onboard_time": 1760386574,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#每一位妇女都是主角#"
+    }
+  }
+}

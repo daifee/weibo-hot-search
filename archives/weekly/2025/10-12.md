@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/12 00:27:55 ~ 2025/10/14 03:36:49
+本榜单时间：2025/10/12 00:27:55 ~ 2025/10/14 04:28:20
 </p>
 </blockquote>
 <p>
@@ -5297,6 +5297,12 @@ Doinb聊LPL和LCK训练环境（热度：18181）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%8F%B6%E7%92%83%E6%9D%80%E9%9D%92%E8%AE%B0%E5%BD%95%23" target="weibo">
 白鹿叶璃杀青记录（热度：12404）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BC%AF%E6%B5%B7%E8%8E%89%E5%91%A8%E5%B9%B4%E6%97%85%E8%A1%8C%E7%85%A7%23" target="weibo">
+比伯海莉周年旅行照（热度：9893）
 </a>
 </li>
 

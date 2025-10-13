@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760384209830,
+  "endTime": 1760387300193,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -43857,6 +43857,14 @@
       "onboard_time": 1760043433,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9893,
+      "num": 18163,
+      "word": "比伯海莉周年旅行照",
+      "onboard_time": 1760386574,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 9731,

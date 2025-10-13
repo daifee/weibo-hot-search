@@ -1,6 +1,6 @@
 {
   "startTime": 1760373145920,
-  "endTime": 1760384209830,
+  "endTime": 1760387300193,
   "band_list": [
     {
       "raw_hot": 592408,
@@ -476,11 +476,19 @@
     },
     {
       "raw_hot": 13050,
-      "num": 17162,
+      "num": 18270,
       "word": "vivoX300系列发布会",
       "onboard_time": 1760356522,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 9893,
+      "num": 18163,
+      "word": "比伯海莉周年旅行照",
+      "onboard_time": 1760386574,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 3639,
