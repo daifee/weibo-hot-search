@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760327791603,
+  "endTime": 1760329861966,
   "band_list": [
     {
       "raw_hot": 1670722,
@@ -25,6 +25,14 @@
       "onboard_time": 1760229739,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1335068,
+      "num": 1335068,
+      "word": "小红书崩了",
+      "onboard_time": 1760329043,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 1327731,
@@ -499,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 469055,
+      "num": 177688,
+      "word": "建议word删除空白页纳入义务教育",
+      "onboard_time": 1760327303,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 467928,
       "num": 239415,
       "word": "美国下架数百万件中国电子产品",
@@ -545,6 +561,14 @@
       "onboard_time": 1760264240,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 435808,
+      "num": 225469,
+      "word": "相关部门回应天府大道汽车起火",
+      "onboard_time": 1760324180,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 434483,
@@ -708,7 +732,7 @@
     },
     {
       "raw_hot": 344385,
-      "num": 197234,
+      "num": 202091,
       "word": "鹿晗小卡",
       "onboard_time": 1760325142,
       "rank": 31,
@@ -972,7 +996,7 @@
     },
     {
       "raw_hot": 256069,
-      "num": 184444,
+      "num": 199972,
       "word": "外卖员 你还有时间拍照是吗",
       "onboard_time": 1760325021,
       "rank": 22,
@@ -1051,6 +1075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 226997,
+      "num": 196956,
+      "word": "47岁的刘烨",
+      "onboard_time": 1760325021,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226065,
       "num": 226065,
       "word": "井迪一秒接住了摔倒的糖果",
@@ -1059,12 +1091,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225469,
-      "num": 225469,
-      "word": "相关部门回应天府大道汽车起火",
-      "onboard_time": 1760324180,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 224714,
+      "num": 173953,
+      "word": "OPPO周意保首秀哈苏影像套装",
+      "onboard_time": 1760328444,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 221510,
@@ -1084,7 +1116,7 @@
     },
     {
       "raw_hot": 221047,
-      "num": 137889,
+      "num": 155803,
       "word": "祝绪丹仪态这一块强得可怕",
       "onboard_time": 1760327243,
       "rank": 22,
@@ -1113,14 +1145,6 @@
       "onboard_time": 1760284281,
       "rank": 5,
       "category": "情感"
-    },
-    {
-      "raw_hot": 219205,
-      "num": 181507,
-      "word": "47岁的刘烨",
-      "onboard_time": 1760325021,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 217808,
@@ -1187,14 +1211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199474,
-      "num": 130003,
-      "word": "建议word删除空白页纳入义务教育",
-      "onboard_time": 1760327303,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 199449,
       "num": 199449,
       "word": "摊主女儿大口吃父母摊位剩食走红",
@@ -1235,6 +1251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194207,
+      "num": 194207,
+      "word": "过度负责 傲慢懦弱",
+      "onboard_time": 1760325922,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 191592,
       "num": 139798,
       "word": "华裔女星疑遭同组演员性侵",
@@ -1268,11 +1292,19 @@
     },
     {
       "raw_hot": 181118,
-      "num": 262782,
+      "num": 357469,
       "word": "这是她她她她她她她她的手",
       "onboard_time": 1760326822,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180508,
+      "num": 180508,
+      "word": "衣服阴干那种臭味怎么除掉",
+      "onboard_time": 1760328864,
+      "rank": 17,
+      "category": "议题讨论,休闲"
     },
     {
       "raw_hot": 179619,
@@ -1345,14 +1377,6 @@
       "onboard_time": 1760324482,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174041,
-      "num": 174041,
-      "word": "过度负责 傲慢懦弱",
-      "onboard_time": 1760325922,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 173511,
@@ -1651,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147612,
+      "num": 119828,
+      "word": "十年前的招聘要求",
+      "onboard_time": 1760329284,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147279,
       "num": 147279,
       "word": "朝鲜阅兵持枪步兵压迫感拉满",
@@ -1843,6 +1875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135338,
+      "num": 179202,
+      "word": "近视眼的世界真这么离谱吗",
+      "onboard_time": 1760327724,
+      "rank": 43,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 135117,
       "num": 135117,
       "word": "李昀锐笑与不笑差别真的很大",
@@ -1889,6 +1929,14 @@
       "onboard_time": 1760327060,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131559,
+      "num": 131559,
+      "word": "咪的臀翘到可以顶起一瓶汽水",
+      "onboard_time": 1760327422,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 130950,
@@ -2035,6 +2083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123890,
+      "num": 123890,
+      "word": "Win10即将停服",
+      "onboard_time": 1760329464,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 123720,
       "num": 123720,
       "word": "官方致歉公交站安装S型护栏",
@@ -2171,6 +2227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120246,
+      "num": 120246,
+      "word": "熬夜后多吃这3类食物",
+      "onboard_time": 1760329345,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 119537,
       "num": 119537,
       "word": "中国人新石器时代就驯养鸡了",
@@ -2185,6 +2249,14 @@
       "onboard_time": 1760247441,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118875,
+      "num": 118875,
+      "word": "王楚钦眼神训话",
+      "onboard_time": 1760329284,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 118849,
@@ -2243,6 +2315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117012,
+      "num": 117012,
+      "word": "相亲对象疑似用AI聊天",
+      "onboard_time": 1760327422,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116443,
       "num": 116443,
       "word": "苹果或迎特努斯时代",
@@ -2264,6 +2344,14 @@
       "word": "应急管理部提醒的保命四件套",
       "onboard_time": 1760277320,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115833,
+      "num": 118914,
+      "word": "汽车起火多人救援目击者发声",
+      "onboard_time": 1760328383,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -2289,14 +2377,6 @@
       "onboard_time": 1760255179,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115311,
-      "num": 115311,
-      "word": "相亲对象疑似用AI聊天",
-      "onboard_time": 1760327422,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 114856,
@@ -2547,6 +2627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107337,
+      "num": 107337,
+      "word": "林则徐你的权威我后知后觉",
+      "onboard_time": 1760326701,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106635,
       "num": 106635,
       "word": "为什么商场里的马桶越来越多了",
@@ -2659,20 +2747,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102663,
-      "num": 102663,
-      "word": "林则徐你的权威我后知后觉",
-      "onboard_time": 1760326701,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
       "raw_hot": 102540,
       "num": 199788,
       "word": "中国海警回应菲船只侵闯铁线礁",
       "onboard_time": 1760245220,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101990,
+      "num": 101990,
+      "word": "金饰克价一夜涨12元",
+      "onboard_time": 1760327783,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 101976,
@@ -2819,14 +2907,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 96665,
-      "num": 96665,
-      "word": "近视眼的世界真这么离谱吗",
-      "onboard_time": 1760327724,
-      "rank": 43,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 96282,
       "num": 96282,
       "word": "还是村医敢下药",
@@ -2867,6 +2947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95008,
+      "num": 102448,
+      "word": "苏晓彤对周雨彤贴脸开大",
+      "onboard_time": 1760329704,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95007,
       "num": 95007,
       "word": "王楚钦和印度球迷合影签名",
@@ -2891,12 +2979,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 94578,
+      "num": 94578,
+      "word": "Angelababy看到粉丝哭崩不住了",
+      "onboard_time": 1760328984,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94340,
       "num": 94340,
       "word": "花海直播",
       "onboard_time": 1760268321,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 94319,
+      "num": 94319,
+      "word": "挨家通报停火的巴勒斯坦记者被枪杀",
+      "onboard_time": 1760329763,
+      "rank": 46,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 94120,
@@ -3715,6 +3819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 70041,
+      "num": 102183,
+      "word": "西贝成立新公司卖预包装食品",
+      "onboard_time": 1760329524,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69888,
       "num": 69888,
       "word": "当研究生在外收到导师消息",
@@ -3985,6 +4097,14 @@
       "onboard_time": 1760202018,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 51642,
+      "num": 177880,
+      "word": "蒋奇明跨界vivo旅拍摄影师",
+      "onboard_time": 1760328264,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 51245,
