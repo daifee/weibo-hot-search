@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760362569708,
+  "endTime": 1760363265558,
   "band_list": [
     {
       "raw_hot": 1688988,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 660203,
+      "num": 1105632,
+      "word": "vivo X300价格",
+      "onboard_time": 1760360481,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 659476,
       "num": 250571,
       "word": "李一桐造型",
@@ -427,14 +435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 600812,
-      "num": 1096129,
-      "word": "vivo X300价格",
-      "onboard_time": 1760360481,
-      "rank": 28,
-      "category": "数码"
-    },
-    {
       "raw_hot": 600453,
       "num": 293929,
       "word": "竟然人 居然人",
@@ -537,6 +537,14 @@
       "onboard_time": 1760237360,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 549754,
+      "num": 549754,
+      "word": "王楚钦在印度真的很小心",
+      "onboard_time": 1760361802,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 544796,
@@ -683,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 477416,
+      "num": 477416,
+      "word": "王皓坐下王楚钦开始指导",
+      "onboard_time": 1760360361,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 477334,
       "num": 886373,
       "word": "警方通报46岁女子观赛期间叫喊",
@@ -753,6 +769,14 @@
       "onboard_time": 1760240900,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 442003,
+      "num": 442003,
+      "word": "亚锦赛撤下台湾地区伪旗",
+      "onboard_time": 1760360421,
+      "rank": 17,
+      "category": "国内时政,体育"
     },
     {
       "raw_hot": 440859,
@@ -947,14 +971,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 386702,
-      "num": 386702,
-      "word": "王皓坐下王楚钦开始指导",
-      "onboard_time": 1760360361,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 385692,
       "num": 385692,
       "word": "广东海洋大学被曝住宿环境差",
@@ -1009,14 +1025,6 @@
       "onboard_time": 1760193623,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 348082,
-      "num": 348082,
-      "word": "亚锦赛撤下台湾地区伪旗",
-      "onboard_time": 1760360421,
-      "rank": 17,
-      "category": "国内时政,体育"
     },
     {
       "raw_hot": 345669,
@@ -1105,14 +1113,6 @@
       "onboard_time": 1760239580,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 323766,
-      "num": 207158,
-      "word": "王楚钦在印度真的很小心",
-      "onboard_time": 1760361802,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 323340,
@@ -1547,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234129,
+      "num": 190711,
+      "word": "陈都灵居然是93年的",
+      "onboard_time": 1760358561,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 233315,
       "num": 115064,
       "word": "韩国男子在张家界举韩国国旗",
@@ -1731,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204165,
+      "num": 174280,
+      "word": "王楚钦3比0霍戴伊",
+      "onboard_time": 1760360063,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204007,
       "num": 156703,
       "word": "王俊凯聚星名人赛中场秀嘉宾",
@@ -1883,14 +1899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190711,
-      "num": 190711,
-      "word": "陈都灵居然是93年的",
-      "onboard_time": 1760358561,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 189540,
       "num": 189540,
       "word": "李维嘉吴昕直播大声蛐蛐杜海涛",
@@ -1928,6 +1936,14 @@
       "word": "这是她她她她她她她她的手",
       "onboard_time": 1760326822,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180049,
+      "num": 180049,
+      "word": "西安下了1个多月雨后遍地长蘑菇",
+      "onboard_time": 1760359041,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -2035,6 +2051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 172726,
+      "num": 172726,
+      "word": "祝绪丹把额头露出来大大方方的",
+      "onboard_time": 1760362221,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172497,
       "num": 83230,
       "word": "井迪一直不谈恋爱的原因",
@@ -2107,6 +2131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167319,
+      "num": 167319,
+      "word": "鲁豫坐飞机遇乘客要刘德华签名照",
+      "onboard_time": 1760361921,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167221,
       "num": 167221,
       "word": "金针菇早知道烂地里了",
@@ -2145,14 +2177,6 @@
       "onboard_time": 1760243660,
       "rank": 38,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 163690,
-      "num": 163690,
-      "word": "西安下了1个多月雨后遍地长蘑菇",
-      "onboard_time": 1760359041,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163378,
@@ -2216,14 +2240,6 @@
       "word": "孙红雷左手张艺兴右手刘宇宁",
       "onboard_time": 1760259381,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 159833,
-      "num": 159833,
-      "word": "祝绪丹把额头露出来大大方方的",
-      "onboard_time": 1760362221,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -2379,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153179,
+      "num": 153179,
+      "word": "林诗栋11比3阿拉米扬",
+      "onboard_time": 1760362401,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153138,
       "num": 153138,
       "word": "徐振轩直播",
@@ -2411,20 +2435,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151641,
-      "num": 151641,
-      "word": "鲁豫坐飞机遇乘客要刘德华签名照",
-      "onboard_time": 1760361921,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151587,
       "num": 151587,
       "word": "没出息火到台湾王世坚本人听傻",
       "onboard_time": 1760247980,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 151473,
+      "num": 151473,
+      "word": "孕妇不舒服蹲在商场遭保安驱赶",
+      "onboard_time": 1760360301,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151163,
@@ -2587,14 +2611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140382,
-      "num": 140382,
-      "word": "孕妇不舒服蹲在商场遭保安驱赶",
-      "onboard_time": 1760360301,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 139979,
       "num": 139979,
       "word": "阿富汗巴基斯坦边境深夜激战",
@@ -2649,6 +2665,14 @@
       "onboard_time": 1760264781,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138154,
+      "num": 138154,
+      "word": "孙颖莎轻松开启亚锦赛首战",
+      "onboard_time": 1760362941,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 138038,
@@ -2761,6 +2785,14 @@
       "onboard_time": 1760323220,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134578,
+      "num": 134578,
+      "word": "赵丽颖直播状态",
+      "onboard_time": 1760362221,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 134154,
@@ -2915,14 +2947,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 128121,
-      "num": 128121,
-      "word": "王楚钦3比0霍戴伊",
-      "onboard_time": 1760360063,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127774,
       "num": 127774,
       "word": "甘肃兰州闪爆事故致1死1伤",
@@ -2995,14 +3019,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125971,
-      "num": 125971,
-      "word": "赵丽颖直播状态",
-      "onboard_time": 1760362221,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125849,
       "num": 125849,
       "word": "广州多个公交站惊现S型护栏",
@@ -3057,14 +3073,6 @@
       "onboard_time": 1760330005,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124123,
-      "num": 124123,
-      "word": "林诗栋11比3阿拉米扬",
-      "onboard_time": 1760362401,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 123971,
@@ -3145,6 +3153,14 @@
       "onboard_time": 1760282721,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122838,
+      "num": 122838,
+      "word": "联通获批eSIM手机运营服务商用试验",
+      "onboard_time": 1760363243,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 122824,
@@ -3347,6 +3363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118165,
+      "num": 118165,
+      "word": "北方稀土回应被出具警示函",
+      "onboard_time": 1760362941,
+      "rank": 44,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 118067,
       "num": 118067,
       "word": "12306回应无座乘客自带椅子",
@@ -3465,6 +3489,14 @@
       "onboard_time": 1760255179,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 115047,
+      "num": 115047,
+      "word": "亚锦赛男团中国vs日本",
+      "onboard_time": 1760362881,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 114856,
@@ -3665,6 +3697,14 @@
       "onboard_time": 1760313078,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 111152,
+      "num": 111152,
+      "word": "小猫爱干净和不爱干净的区别",
+      "onboard_time": 1760360301,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 110673,
@@ -4097,14 +4137,6 @@
       "onboard_time": 1760275099,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101046,
-      "num": 101046,
-      "word": "小猫爱干净和不爱干净的区别",
-      "onboard_time": 1760360301,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 100951,
@@ -5555,6 +5587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72304,
+      "num": 158743,
+      "word": "什么是演唱会的神仙装备",
+      "onboard_time": 1760362581,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 71758,
       "num": 137359,
       "word": "vivoX300拍出了烟火人间",
@@ -5665,6 +5705,14 @@
       "onboard_time": 1760337861,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 67287,
+      "num": 161123,
+      "word": "一部vivo撬动所有全家桶",
+      "onboard_time": 1760360842,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 67149,
@@ -5809,14 +5857,6 @@
       "onboard_time": 1760284400,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59839,
-      "num": 160496,
-      "word": "一部vivo撬动所有全家桶",
-      "onboard_time": 1760360842,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 59700,

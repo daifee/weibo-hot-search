@@ -1,0 +1,410 @@
+{
+  "runTime": 1760363265558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 660203,
+        "num": 1105632,
+        "word": "vivo X300价格",
+        "onboard_time": 1760360481,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 549754,
+        "num": 549754,
+        "word": "王楚钦在印度真的很小心",
+        "onboard_time": 1760361802,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39802,
+        "num": 495567,
+        "word": "特区之特",
+        "onboard_time": 1760349020,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 490963,
+        "num": 490963,
+        "word": "成都七中校服潮到巴黎时装周",
+        "onboard_time": 1760355320,
+        "rank": 3,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 477416,
+        "num": 477416,
+        "word": "王皓坐下王楚钦开始指导",
+        "onboard_time": 1760360361,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 442003,
+        "num": 442003,
+        "word": "亚锦赛撤下台湾地区伪旗",
+        "onboard_time": 1760360421,
+        "rank": 5,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 410838,
+        "num": 410838,
+        "word": "女子过安检丢了90克金手镯",
+        "onboard_time": 1760355501,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388092,
+        "num": 388092,
+        "word": "英雄联盟",
+        "onboard_time": 1760357900,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195626,
+        "num": 195626,
+        "word": "英雄联盟主题曲",
+        "onboard_time": 1760361321,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107527,
+        "num": 194873,
+        "word": "我国成功发射试验三十一号卫星",
+        "onboard_time": 1760352741,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 498709,
+        "num": 193162,
+        "word": "两男子吃酸汤子中毒警方介入调查",
+        "onboard_time": 1760356881,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423200,
+        "num": 190837,
+        "word": "赵丽颖直播",
+        "onboard_time": 1760355681,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341522,
+        "num": 189524,
+        "word": "张晚意情商",
+        "onboard_time": 1760356281,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45304,
+        "num": 185980,
+        "word": "vivo发布会来了这么多科技圈大佬",
+        "onboard_time": 1760360541,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 273071,
+        "num": 185096,
+        "word": "中方回应巴基斯坦向美国赠送稀土",
+        "onboard_time": 1760343682,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 183849,
+        "num": 183849,
+        "word": "一笑随歌好虐",
+        "onboard_time": 1760356460,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182281,
+        "num": 182281,
+        "word": "莫言自曝刷短视频成瘾",
+        "onboard_time": 1760350281,
+        "rank": 16,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 180049,
+        "num": 180049,
+        "word": "西安下了1个多月雨后遍地长蘑菇",
+        "onboard_time": 1760359041,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177463,
+        "num": 177463,
+        "word": "阴阳师",
+        "onboard_time": 1760362101,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175710,
+        "num": 175710,
+        "word": "爸爸当家旅行团综大预告",
+        "onboard_time": 1760361022,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252475,
+        "num": 175507,
+        "word": "加微信一定要别人扫我",
+        "onboard_time": 1760348481,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234129,
+        "num": 174674,
+        "word": "陈都灵居然是93年的",
+        "onboard_time": 1760358561,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204165,
+        "num": 174280,
+        "word": "王楚钦3比0霍戴伊",
+        "onboard_time": 1760362462,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172726,
+        "num": 172726,
+        "word": "祝绪丹把额头露出来大大方方的",
+        "onboard_time": 1760362221,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167319,
+        "num": 167319,
+        "word": "鲁豫坐飞机遇乘客要刘德华签名照",
+        "onboard_time": 1760361921,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163095,
+        "num": 163095,
+        "word": "嘎子谢孟伟被执行超1400万",
+        "onboard_time": 1760355560,
+        "rank": 25,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 67287,
+        "num": 161123,
+        "word": "一部vivo撬动所有全家桶",
+        "onboard_time": 1760360842,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 160493,
+        "num": 160493,
+        "word": "Angelababy一把抱住要摔倒的粉丝",
+        "onboard_time": 1760356702,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72304,
+        "num": 158743,
+        "word": "什么是演唱会的神仙装备",
+        "onboard_time": 1760362581,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83839,
+        "num": 158409,
+        "word": "大使馆回应亚锦赛错误旗帜事件",
+        "onboard_time": 1760361442,
+        "rank": 29,
+        "category": "国内时政,体育"
+      },
+      {
+        "raw_hot": 158271,
+        "num": 158271,
+        "word": "iPhone的一生要经历三次死亡",
+        "onboard_time": 1760345720,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153179,
+        "num": 153179,
+        "word": "林诗栋11比3阿拉米扬",
+        "onboard_time": 1760362401,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151473,
+        "num": 151473,
+        "word": "孕妇不舒服蹲在商场遭保安驱赶",
+        "onboard_time": 1760360301,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138514,
+        "num": 138514,
+        "word": "日本大街天降老鼠伤人",
+        "onboard_time": 1760347522,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138154,
+        "num": 138154,
+        "word": "孙颖莎轻松开启亚锦赛首战",
+        "onboard_time": 1760362941,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137790,
+        "num": 137790,
+        "word": "王楚钦抱紧了头",
+        "onboard_time": 1760358261,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133914,
+        "num": 137210,
+        "word": "谁懂梁靖崑转身就走的救赎感",
+        "onboard_time": 1760361682,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137053,
+        "num": 137053,
+        "word": "iphoneair本周预购",
+        "onboard_time": 1760361621,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134578,
+        "num": 134578,
+        "word": "赵丽颖直播状态",
+        "onboard_time": 1760362221,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26412,
+        "num": 128885,
+        "word": "vivoX300一张照片裁出电影感",
+        "onboard_time": 1760360541,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128857,
+        "num": 128857,
+        "word": "林俊杰浴袍",
+        "onboard_time": 1760360902,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127799,
+        "num": 127799,
+        "word": "张维伊变帅了",
+        "onboard_time": 1760347941,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122838,
+        "num": 122838,
+        "word": "联通获批eSIM手机运营服务商用试验",
+        "onboard_time": 1760363243,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120813,
+        "num": 120813,
+        "word": "林诗栋2比3法拉吉",
+        "onboard_time": 1760355441,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118165,
+        "num": 118165,
+        "word": "北方稀土回应被出具警示函",
+        "onboard_time": 1760362941,
+        "rank": 44,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 115047,
+        "num": 115047,
+        "word": "亚锦赛男团中国vs日本",
+        "onboard_time": 1760362881,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114702,
+        "num": 114702,
+        "word": "中国驻印度大使馆严正发声",
+        "onboard_time": 1760361142,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111152,
+        "num": 111152,
+        "word": "小猫爱干净和不爱干净的区别",
+        "onboard_time": 1760360301,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110345,
+        "num": 110345,
+        "word": "谢霆锋坚持出道几十年无妆造",
+        "onboard_time": 1760358021,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108367,
+        "num": 108367,
+        "word": "王楚钦正手强行变直线",
+        "onboard_time": 1760361442,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席全球妇女峰会开幕式#"
+    }
+  }
+}
