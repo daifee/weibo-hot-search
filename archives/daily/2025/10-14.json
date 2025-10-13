@@ -1,6 +1,6 @@
 {
   "startTime": 1760373145920,
-  "endTime": 1760376149927,
+  "endTime": 1760377217624,
   "band_list": [
     {
       "raw_hot": 592408,
@@ -171,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94123,
+      "num": 61865,
+      "word": "邓孝慈演技",
+      "onboard_time": 1760374996,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91803,
       "num": 91803,
       "word": "美国3岁男孩被坠落直升机砸伤脑肺",
@@ -331,14 +339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 61865,
-      "num": 61865,
-      "word": "邓孝慈演技",
-      "onboard_time": 1760374996,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 61704,
       "num": 61704,
       "word": "沉默的荣耀",
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 47784,
-      "num": 47784,
+      "num": 50958,
       "word": "张维伊变帅了",
       "onboard_time": 1760347941,
       "rank": 46,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 35381,
-      "num": 43921,
+      "num": 50868,
       "word": "谢霆锋坚持出道几十年无妆造",
       "onboard_time": 1760358021,
       "rank": 36,
@@ -419,28 +419,44 @@
       "category": "数码"
     },
     {
-      "raw_hot": 31840,
-      "num": 43818,
-      "word": "桃黑黑植物大战僵尸",
-      "onboard_time": 1760370741,
-      "rank": 44,
-      "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 29156,
-      "num": 43789,
+      "raw_hot": 32500,
+      "num": 50917,
       "word": "英雄联盟主题曲",
       "onboard_time": 1760361321,
       "rank": 46,
       "category": "电竞"
     },
     {
+      "raw_hot": 31840,
+      "num": 50857,
+      "word": "桃黑黑植物大战僵尸",
+      "onboard_time": 1760370741,
+      "rank": 44,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 28618,
-      "num": 43750,
+      "num": 50820,
       "word": "中方回应巴基斯坦向美国赠送稀土",
       "onboard_time": 1760343682,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24829,
+      "num": 50767,
+      "word": "余宇涵出发录制一路繁花2",
+      "onboard_time": 1760374337,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 24336,
+      "num": 50748,
+      "word": "星品影响力",
+      "onboard_time": 1760377155,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 3639,
