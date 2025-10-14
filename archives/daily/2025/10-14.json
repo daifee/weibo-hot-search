@@ -1,10 +1,10 @@
 {
   "startTime": 1760373145920,
-  "endTime": 1760423839628,
+  "endTime": 1760424600709,
   "band_list": [
     {
-      "raw_hot": 4980296,
-      "num": 259537,
+      "raw_hot": 8054511,
+      "num": 8054511,
       "word": "李亚鹏离婚",
       "onboard_time": 1760422942,
       "rank": 10,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 475597,
+      "num": 214905,
+      "word": "糖尿病男子剪趾甲破皮失去10根脚趾",
+      "onboard_time": 1760420602,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 469044,
       "num": 165996,
       "word": "女子踩指压板20分钟脚底喷血",
@@ -235,23 +243,23 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 406884,
-      "num": 214905,
-      "word": "糖尿病男子剪趾甲破皮失去10根脚趾",
-      "onboard_time": 1760420602,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 371086,
-      "num": 236742,
+      "raw_hot": 407761,
+      "num": 407761,
       "word": "卖不出去的东西加个壳就卖出去了",
       "onboard_time": 1760420901,
       "rank": 15,
       "category": "幽默"
     },
     {
-      "raw_hot": 356689,
+      "raw_hot": 393911,
+      "num": 192934,
+      "word": "印度女医学生与朋友外出遭轮奸",
+      "onboard_time": 1760423180,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 370339,
       "num": 232051,
       "word": "A股",
       "onboard_time": 1760422641,
@@ -435,15 +443,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 224033,
-      "num": 130221,
-      "word": "印度女医学生与朋友外出遭轮奸",
-      "onboard_time": 1760423180,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 215150,
+      "raw_hot": 226354,
       "num": 215150,
       "word": "向太后悔给太多钱宠坏向佑",
       "onboard_time": 1760419400,
@@ -456,6 +456,14 @@
       "word": "田曦薇28岁生日晒照",
       "onboard_time": 1760401281,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 212297,
+      "num": 212297,
+      "word": "李亚鹏 共创离婚视频",
+      "onboard_time": 1760424381,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -515,12 +523,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183212,
+      "num": 183212,
+      "word": "金价银价跳水",
+      "onboard_time": 1760423843,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 181394,
       "num": 181394,
       "word": "苹果官网确认iPhoneAir非合约机",
       "onboard_time": 1760406140,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 178448,
+      "num": 178448,
+      "word": "婴儿被抢家人开车追了好几条街",
+      "onboard_time": 1760421622,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177654,
@@ -531,20 +555,20 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 173534,
-      "num": 173534,
-      "word": "婴儿被抢家人开车追了好几条街",
-      "onboard_time": 1760421622,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173267,
       "num": 173266,
       "word": "睡眠不足会让700多个基因发生改变",
       "onboard_time": 1760412980,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 170725,
+      "num": 234420,
+      "word": "国乒女团3比0晋级决赛",
+      "onboard_time": 1760424142,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 170254,
@@ -739,12 +763,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 142639,
+      "num": 142639,
+      "word": "为什么今年的大闸蟹还没上市",
+      "onboard_time": 1760423302,
+      "rank": 43,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 140908,
       "num": 140908,
       "word": "成都七中校服潮到巴黎时装周",
       "onboard_time": 1760355320,
       "rank": 7,
       "category": "民生新闻,时尚"
+    },
+    {
+      "raw_hot": 140067,
+      "num": 140067,
+      "word": "黄子韬徐艺洋方回应婚礼相关传闻",
+      "onboard_time": 1760424381,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 138944,
@@ -859,20 +899,20 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 124175,
+      "num": 124175,
+      "word": "努力型 天赋型",
+      "onboard_time": 1760421141,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124032,
       "num": 255042,
       "word": "更适合中国宝宝的含金量还在上升",
       "onboard_time": 1760419100,
       "rank": 22,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 123708,
-      "num": 123708,
-      "word": "努力型 天赋型",
-      "onboard_time": 1760421141,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 123693,
@@ -963,6 +1003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 116754,
+      "num": 116754,
+      "word": "花海吃上大学食堂了",
+      "onboard_time": 1760424142,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116153,
       "num": 116153,
       "word": "把帝王蟹自助吃成路边摊",
@@ -1019,6 +1067,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 111846,
+      "num": 111846,
+      "word": "丁真让大冰邓亚萍都哭了",
+      "onboard_time": 1760424443,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111626,
       "num": 111626,
       "word": "刘小涛当选江苏省长",
@@ -1027,20 +1083,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 110216,
+      "num": 110216,
+      "word": "马嘉祺胜负欲最强的一集",
+      "onboard_time": 1760423363,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 109351,
+      "num": 109351,
+      "word": "全运会10米气步枪盛李豪金牌",
+      "onboard_time": 1760424443,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108750,
       "num": 108750,
       "word": "每天走多少步抵消久坐伤害",
       "onboard_time": 1760409740,
       "rank": 34,
       "category": "运动健身,健康医疗"
-    },
-    {
-      "raw_hot": 105924,
-      "num": 105924,
-      "word": "马嘉祺胜负欲最强的一集",
-      "onboard_time": 1760423363,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 105629,
@@ -1059,20 +1123,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104279,
-      "num": 104279,
-      "word": "为什么今年的大闸蟹还没上市",
-      "onboard_time": 1760423302,
-      "rank": 43,
-      "category": "民生新闻,美食"
-    },
-    {
       "raw_hot": 101733,
       "num": 101733,
       "word": "同花顺原唱认可陈浚铭翻唱",
       "onboard_time": 1760405840,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100408,
+      "num": 100408,
+      "word": "美航母被撞8个月了没修",
+      "onboard_time": 1760423783,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100234,
@@ -1113,14 +1177,6 @@
       "onboard_time": 1760420121,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 98330,
-      "num": 98330,
-      "word": "美航母被撞8个月了没修",
-      "onboard_time": 1760423783,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 97724,
@@ -1507,6 +1563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 69469,
+      "num": 107169,
+      "word": "Lulu再次否认怀孕",
+      "onboard_time": 1760422821,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69110,
       "num": 100212,
       "word": "家中灶台爆炸老人对着老伴遗像哭诉",
@@ -1779,15 +1843,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36611,
-      "num": 107169,
-      "word": "Lulu再次否认怀孕",
-      "onboard_time": 1760422821,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 36139,
+      "raw_hot": 36709,
       "num": 229159,
       "word": "兰蔻90周年活动",
       "onboard_time": 1760422942,
@@ -1907,7 +1963,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1642,
+      "raw_hot": 1943,
       "num": 592253,
       "word": "青春华章",
       "onboard_time": 1760172020,

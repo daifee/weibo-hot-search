@@ -1,0 +1,410 @@
+{
+  "runTime": 1760424600709,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 847114,
+        "num": 1135538,
+        "word": "单亲妈妈误转看病钱对方全程沉默",
+        "onboard_time": 1760418142,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 831549,
+        "num": 831549,
+        "word": "黄金",
+        "onboard_time": 1760421141,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1943,
+        "num": 453358,
+        "word": "青春华章",
+        "onboard_time": 1760172020,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407761,
+        "num": 407761,
+        "word": "卖不出去的东西加个壳就卖出去了",
+        "onboard_time": 1760420901,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 358675,
+        "num": 358675,
+        "word": "美军肥胖照火遍全网",
+        "onboard_time": 1760412980,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 298147,
+        "num": 298147,
+        "word": "韩22岁大学生在柬疑遭贩卖致死",
+        "onboard_time": 1760417721,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 284467,
+        "num": 284467,
+        "word": "国考岗位表",
+        "onboard_time": 1760417482,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 259395,
+        "num": 259395,
+        "word": "杨舒予因家里紧急情况无法参赛",
+        "onboard_time": 1760415560,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237182,
+        "num": 237182,
+        "word": "学生自习看恐怖片被吓病索赔3万",
+        "onboard_time": 1760414003,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170725,
+        "num": 234420,
+        "word": "国乒女团3比0晋级决赛",
+        "onboard_time": 1760424142,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8054511,
+        "num": 8054511,
+        "word": "李亚鹏离婚",
+        "onboard_time": 1760422942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1002906,
+        "num": 229661,
+        "word": "董璇 我办婚礼了吗",
+        "onboard_time": 1760415082,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 739078,
+        "num": 227223,
+        "word": "她只是我的妹妹",
+        "onboard_time": 1760416643,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 703480,
+        "num": 224145,
+        "word": "谭松韵回应暴瘦",
+        "onboard_time": 1760417181,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 540130,
+        "num": 220724,
+        "word": "向太谈儿子向佑",
+        "onboard_time": 1760416940,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370339,
+        "num": 218288,
+        "word": "A股",
+        "onboard_time": 1760422641,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 36709,
+        "num": 215620,
+        "word": "兰蔻90周年活动",
+        "onboard_time": 1760422942,
+        "rank": 16,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 213903,
+        "num": 213903,
+        "word": "刘轩丞称女生是家里亲戚",
+        "onboard_time": 1760415142,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212297,
+        "num": 212297,
+        "word": "李亚鹏 共创离婚视频",
+        "onboard_time": 1760424381,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152092,
+        "num": 209756,
+        "word": "应届硕博生国考年龄放宽到43岁",
+        "onboard_time": 1760417542,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 57217,
+        "num": 200900,
+        "word": "刘宇宁16日在哪直播",
+        "onboard_time": 1760421920,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475597,
+        "num": 197237,
+        "word": "糖尿病男子剪趾甲破皮失去10根脚趾",
+        "onboard_time": 1760420602,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393911,
+        "num": 192934,
+        "word": "印度女医学生与朋友外出遭轮奸",
+        "onboard_time": 1760423180,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 226354,
+        "num": 184488,
+        "word": "向太后悔给太多钱宠坏向佑",
+        "onboard_time": 1760419400,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183212,
+        "num": 183212,
+        "word": "金价银价跳水",
+        "onboard_time": 1760423843,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182731,
+        "num": 182731,
+        "word": "肖战幼儿园时期的照片",
+        "onboard_time": 1760413161,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21127,
+        "num": 180431,
+        "word": "更适合中国宝宝的含金量还在上升",
+        "onboard_time": 1760419100,
+        "rank": 26,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 178448,
+        "num": 178448,
+        "word": "婴儿被抢家人开车追了好几条街",
+        "onboard_time": 1760421622,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151793,
+        "num": 151793,
+        "word": "孙颖莎vs申裕斌",
+        "onboard_time": 1760417243,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143216,
+        "num": 143216,
+        "word": "关晓彤说28岁要爱自己明媚的活着",
+        "onboard_time": 1760412020,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142639,
+        "num": 142639,
+        "word": "为什么今年的大闸蟹还没上市",
+        "onboard_time": 1760423302,
+        "rank": 30,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 140067,
+        "num": 140067,
+        "word": "黄子韬徐艺洋方回应婚礼相关传闻",
+        "onboard_time": 1760424381,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130025,
+        "num": 130025,
+        "word": "金饰价格涨到1213元",
+        "onboard_time": 1760407400,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124175,
+        "num": 124175,
+        "word": "努力型 天赋型",
+        "onboard_time": 1760421141,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123861,
+        "num": 123861,
+        "word": "特朗普又把英国首相当众耍了",
+        "onboard_time": 1760412980,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123650,
+        "num": 123650,
+        "word": "最不显老的何老师也怕老了",
+        "onboard_time": 1760422641,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119715,
+        "num": 119715,
+        "word": "睡眠不足会让700多个基因发生改变",
+        "onboard_time": 1760412980,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117989,
+        "num": 117989,
+        "word": "黄子韬十月十六号婚礼",
+        "onboard_time": 1760397678,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116754,
+        "num": 116754,
+        "word": "花海吃上大学食堂了",
+        "onboard_time": 1760424142,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111846,
+        "num": 111846,
+        "word": "丁真让大冰邓亚萍都哭了",
+        "onboard_time": 1760424443,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111214,
+        "num": 111214,
+        "word": "迪丽热巴邓妍第四杨紫何惟芳第七",
+        "onboard_time": 1760416402,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110216,
+        "num": 110216,
+        "word": "马嘉祺胜负欲最强的一集",
+        "onboard_time": 1760423363,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109356,
+        "num": 109356,
+        "word": "把近8年更换手机的成本做了一张表",
+        "onboard_time": 1760421801,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109351,
+        "num": 109351,
+        "word": "全运会10米气步枪盛李豪金牌",
+        "onboard_time": 1760424443,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108577,
+        "num": 108577,
+        "word": "刘涛 秦海璐是可以兜底的闺蜜",
+        "onboard_time": 1760421622,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104902,
+        "num": 104902,
+        "word": "国考年龄放宽到38岁",
+        "onboard_time": 1760412980,
+        "rank": 45,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 100408,
+        "num": 100408,
+        "word": "美航母被撞8个月了没修",
+        "onboard_time": 1760423783,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98423,
+        "num": 98423,
+        "word": "原来买一送一和5折不是一回事",
+        "onboard_time": 1760407700,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96076,
+        "num": 96076,
+        "word": "美国或失1600万吨大豆订单",
+        "onboard_time": 1760417004,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69469,
+        "num": 94319,
+        "word": "Lulu再次否认怀孕",
+        "onboard_time": 1760422821,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#每一位妇女都是主角#"
+    }
+  }
+}
