@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/14 19:21:37
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/14 19:37:13
 </p>
 </blockquote>
 <p>
@@ -5361,6 +5361,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%80%E5%B1%8A%E7%94%9F%E7%9A%84%E5%A4%A9%E5%A1%8C%E4%BA%86%23" target="weibo">
+往届生的天塌了（热度：389460）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E5%A4%8F%E8%8A%AC%E5%BE%B7%E6%8B%89%E8%A7%81%E9%9D%A2%E4%BC%9A%23" target="weibo">
 盛夏芬德拉见面会（热度：389333）
 </a>
@@ -6005,12 +6011,6 @@ TF家族男团在湖南秋晚三代同台（热度：346043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%AA%80%E5%81%A5%E6%AC%A1%20%E7%A9%BA%E6%9E%AA%23" target="weibo">
 朱一龙檀健次 空枪（热度：345350）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%B0%8F%E5%8D%A1%23" target="weibo">
-鹿晗小卡（热度：344385）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1760441833255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1559609,
+        "num": 1559609,
+        "word": "iG对战T1",
+        "onboard_time": 1760427263,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1277801,
+        "num": 1277801,
+        "word": "菜鸟驿站对取件未出库罚款100元",
+        "onboard_time": 1760436861,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30082,
+        "num": 628112,
+        "word": "第二届世界中国学大会",
+        "onboard_time": 1760430201,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351849,
+        "num": 351849,
+        "word": "Wei龙坑排眼",
+        "onboard_time": 1760439923,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 331378,
+        "num": 331378,
+        "word": "禁毒大队长被控走私毒品获刑3年半",
+        "onboard_time": 1760435361,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318929,
+        "num": 318929,
+        "word": "大疆硬刚美国防部",
+        "onboard_time": 1760435601,
+        "rank": 5,
+        "category": "国际时政,数码"
+      },
+      {
+        "raw_hot": 282277,
+        "num": 282277,
+        "word": "王波受贿4.49亿余元",
+        "onboard_time": 1760435540,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281274,
+        "num": 281274,
+        "word": "Wei什么",
+        "onboard_time": 1760440102,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 272097,
+        "num": 272097,
+        "word": "印度女医学生与朋友外出遭轮奸",
+        "onboard_time": 1760423180,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 236034,
+        "num": 236034,
+        "word": "iG别急",
+        "onboard_time": 1760440880,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 389460,
+        "num": 222834,
+        "word": "往届生的天塌了",
+        "onboard_time": 1760439983,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 387994,
+        "num": 210982,
+        "word": "陈都灵身上的飘带20多斤",
+        "onboard_time": 1760434161,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315675,
+        "num": 208334,
+        "word": "阳澄湖大闸蟹今年是淹死了吗",
+        "onboard_time": 1760430621,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197057,
+        "num": 197057,
+        "word": "黄星邱鼎杰杂志销量破10万",
+        "onboard_time": 1760440702,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174797,
+        "num": 174797,
+        "word": "现在就出发3定档节奏",
+        "onboard_time": 1760435241,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169915,
+        "num": 169915,
+        "word": "谭松韵回应暴瘦",
+        "onboard_time": 1760417181,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147968,
+        "num": 147968,
+        "word": "凤戏阳 夏静炎",
+        "onboard_time": 1760441241,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141955,
+        "num": 141955,
+        "word": "香肠里竟吃出完整3颗牙",
+        "onboard_time": 1760438961,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80758,
+        "num": 141943,
+        "word": "失眠后能快速入睡的方法",
+        "onboard_time": 1760440042,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 44073,
+        "num": 141850,
+        "word": "t1面对ig拿到赛点",
+        "onboard_time": 1760441119,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 251010,
+        "num": 141799,
+        "word": "金价银价跳水",
+        "onboard_time": 1760423843,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 250652,
+        "num": 141722,
+        "word": "张馨予家里已经生了100多条小鱼了",
+        "onboard_time": 1760426903,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232610,
+        "num": 141640,
+        "word": "朱丹8岁女儿设计的沙发在卢浮宫展出",
+        "onboard_time": 1760437940,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141640,
+        "num": 141639,
+        "word": "申裕斌摸孙颖莎肚子",
+        "onboard_time": 1760429660,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203065,
+        "num": 141411,
+        "word": "头发尽量不要洗得太勤",
+        "onboard_time": 1760429542,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200968,
+        "num": 141375,
+        "word": "董璇 我办婚礼了吗",
+        "onboard_time": 1760415082,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178343,
+        "num": 141183,
+        "word": "花海找贺峻霖吃饭",
+        "onboard_time": 1760438000,
+        "rank": 26,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 140652,
+        "num": 140652,
+        "word": "原来大家都听不清啊",
+        "onboard_time": 1760439923,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136319,
+        "num": 136319,
+        "word": "哈尔滨的冰箱贴是要考研吗",
+        "onboard_time": 1760437880,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133251,
+        "num": 133251,
+        "word": "舒淇 一手烂牌打出王炸",
+        "onboard_time": 1760433681,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128223,
+        "num": 128223,
+        "word": "李亚鹏和前妻没有房产",
+        "onboard_time": 1760436381,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22073,
+        "num": 127840,
+        "word": "刘宇宁莫非是靠长腿拿下京东代言",
+        "onboard_time": 1760441600,
+        "rank": 31,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 127653,
+        "num": 127653,
+        "word": "天猫团队 灵隐寺",
+        "onboard_time": 1760429961,
+        "rank": 32,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 116250,
+        "num": 127232,
+        "word": "易梦玲又瘦又有",
+        "onboard_time": 1760440461,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127214,
+        "num": 127214,
+        "word": "有偿带人进山姆5元一个人头",
+        "onboard_time": 1760438121,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119564,
+        "num": 119564,
+        "word": "李威出庭不认罪",
+        "onboard_time": 1760435420,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118888,
+        "num": 118888,
+        "word": "TheShy在干啥",
+        "onboard_time": 1760432783,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110308,
+        "num": 110308,
+        "word": "马思唯带女友参加朋友婚礼",
+        "onboard_time": 1760441540,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108190,
+        "num": 108190,
+        "word": "黄子韬徐艺洋聚餐",
+        "onboard_time": 1760441301,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99809,
+        "num": 99809,
+        "word": "昆凌谈好身材秘诀就是不吃",
+        "onboard_time": 1760441660,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106648,
+        "num": 99434,
+        "word": "一天中洗头的最佳时间",
+        "onboard_time": 1760441600,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98842,
+        "num": 98842,
+        "word": "孙颖莎嘟嘟嘟嘟嘟嘟嘟",
+        "onboard_time": 1760439561,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16345,
+        "num": 97174,
+        "word": "国外现实版豌豆公主",
+        "onboard_time": 1760440402,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96560,
+        "num": 96560,
+        "word": "宋亚轩到底还有多少隐藏技能",
+        "onboard_time": 1760441480,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96347,
+        "num": 96347,
+        "word": "老人被咬后手提2条眼镜蛇进急诊",
+        "onboard_time": 1760428641,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93665,
+        "num": 93665,
+        "word": "盛李豪打羽毛球笑翻樊振东",
+        "onboard_time": 1760440702,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91179,
+        "num": 91179,
+        "word": "决战公考",
+        "onboard_time": 1760441000,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 87895,
+        "num": 87895,
+        "word": "周深把自己演红温了",
+        "onboard_time": 1760441780,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87538,
+        "num": 87538,
+        "word": "T1拿到赛点",
+        "onboard_time": 1760440283,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75128,
+        "num": 85941,
+        "word": "赴山海剧本穿帮好出圈",
+        "onboard_time": 1760430201,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程上每位妇女都是主角#"
+    }
+  }
+}
