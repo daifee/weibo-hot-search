@@ -1,0 +1,410 @@
+{
+  "runTime": 1760413712161,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1123355,
+        "num": 1179736,
+        "word": "金饰价格涨到1213元",
+        "onboard_time": 1760407400,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 773070,
+        "num": 773070,
+        "word": "国考公告",
+        "onboard_time": 1760404820,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1204,
+        "num": 440725,
+        "word": "青春华章",
+        "onboard_time": 1760172020,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317367,
+        "num": 317367,
+        "word": "韩国几十年后或将种不了苹果",
+        "onboard_time": 1760407641,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 266241,
+        "num": 266241,
+        "word": "人民空军回应小伙修复为人民服务标语",
+        "onboard_time": 1760410280,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262605,
+        "num": 262605,
+        "word": "中国半导体行业协会严重关切",
+        "onboard_time": 1760407820,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205367,
+        "num": 205367,
+        "word": "石破茂卸任在即说出心里话",
+        "onboard_time": 1760410461,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190622,
+        "num": 190622,
+        "word": "中国唱将定档",
+        "onboard_time": 1760410940,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187226,
+        "num": 187226,
+        "word": "1元奶茶低价内卷新法有规定",
+        "onboard_time": 1760404581,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173942,
+        "num": 173942,
+        "word": "业主私挖300平地下室32户开裂",
+        "onboard_time": 1760367802,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 508580,
+        "num": 173260,
+        "word": "伦敦偶遇王诗龄一家三口",
+        "onboard_time": 1760410040,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355677,
+        "num": 173063,
+        "word": "跳河身亡新郎家人想看行车记录仪",
+        "onboard_time": 1760411901,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322970,
+        "num": 171678,
+        "word": "黄子韬十月十六号婚礼",
+        "onboard_time": 1760397678,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250850,
+        "num": 171079,
+        "word": "关晓彤说28岁要爱自己明媚的活着",
+        "onboard_time": 1760412020,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203012,
+        "num": 170492,
+        "word": "配音演员回应许我耀眼许妍配音",
+        "onboard_time": 1760401521,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190769,
+        "num": 169563,
+        "word": "宁静说明星私底下都不太联系",
+        "onboard_time": 1760397317,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174758,
+        "num": 168614,
+        "word": "肖战幼儿园时期的照片",
+        "onboard_time": 1760413161,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168037,
+        "num": 168037,
+        "word": "很少用震撼来形容一个手机壳",
+        "onboard_time": 1760404939,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129250,
+        "num": 167880,
+        "word": "第一批追大奉的人嘴角压不住了",
+        "onboard_time": 1760369061,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47477,
+        "num": 167665,
+        "word": "乒乓球亚锦赛10月14日赛程",
+        "onboard_time": 1760412561,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260630,
+        "num": 167335,
+        "word": "网传鹿晗王俊凯张艺兴参加黄子韬婚礼",
+        "onboard_time": 1760408660,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118767,
+        "num": 167064,
+        "word": "刘宇宁京东",
+        "onboard_time": 1760413401,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143386,
+        "num": 166986,
+        "word": "中美经贸进行了最新一轮工作层会谈",
+        "onboard_time": 1760411360,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 235934,
+        "num": 166617,
+        "word": "姜潮麦迪娜明年在新疆举办婚礼",
+        "onboard_time": 1760411841,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203964,
+        "num": 166275,
+        "word": "原来买一送一和5折不是一回事",
+        "onboard_time": 1760407700,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202696,
+        "num": 166161,
+        "word": "国考年龄放宽到38岁",
+        "onboard_time": 1760412980,
+        "rank": 25,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 165996,
+        "num": 165996,
+        "word": "女子踩指压板20分钟脚底喷血",
+        "onboard_time": 1760397198,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153692,
+        "num": 153692,
+        "word": "第一次见不开机也全是秘密的手机",
+        "onboard_time": 1760411660,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150641,
+        "num": 150641,
+        "word": "金饰克价年内已涨400元",
+        "onboard_time": 1760413401,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131520,
+        "num": 131520,
+        "word": "吃味千拉面发现碗里全是飞虫",
+        "onboard_time": 1760412681,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205489,
+        "num": 131466,
+        "word": "特朗普又把英国首相当众耍了",
+        "onboard_time": 1760412980,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131308,
+        "num": 131308,
+        "word": "北方人不许写末世文",
+        "onboard_time": 1760412561,
+        "rank": 31,
+        "category": "读书作家,幽默"
+      },
+      {
+        "raw_hot": 124415,
+        "num": 124415,
+        "word": "美军肥胖照火遍全网",
+        "onboard_time": 1760412980,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122264,
+        "num": 122264,
+        "word": "马思纯早期书模的含金量",
+        "onboard_time": 1760411120,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120995,
+        "num": 120995,
+        "word": "杭州你冷得让我陌生",
+        "onboard_time": 1760402421,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112018,
+        "num": 112018,
+        "word": "原来散步才是最顶级的纯爱",
+        "onboard_time": 1760411360,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111816,
+        "num": 111816,
+        "word": "黄金白银飙涨原因",
+        "onboard_time": 1760404760,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111060,
+        "num": 111060,
+        "word": "国乒全员油头",
+        "onboard_time": 1760397619,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106581,
+        "num": 106581,
+        "word": "紫金矿业86亿又拿下一座金矿",
+        "onboard_time": 1760411120,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105968,
+        "num": 105968,
+        "word": "Doinb预测T1对战IG比分",
+        "onboard_time": 1760407220,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102819,
+        "num": 102819,
+        "word": "建议久坐的人每天喝够水",
+        "onboard_time": 1760400561,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100939,
+        "num": 100939,
+        "word": "女生意外拍到肿瘤细胞分裂全过程",
+        "onboard_time": 1760366421,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100204,
+        "num": 100204,
+        "word": "Win10停服",
+        "onboard_time": 1760411301,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 99194,
+        "num": 99194,
+        "word": "苹果官网确认iPhoneAir非合约机",
+        "onboard_time": 1760406140,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 94957,
+        "num": 94957,
+        "word": "6省市一周雨雨雨",
+        "onboard_time": 1760404460,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89532,
+        "num": 89532,
+        "word": "GALA高情商回应质疑",
+        "onboard_time": 1760409201,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88173,
+        "num": 88173,
+        "word": "睡眠不足会让700多个基因发生改变",
+        "onboard_time": 1760412980,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85075,
+        "num": 85075,
+        "word": "14岁自闭症男孩坠楼妈妈崩溃大哭",
+        "onboard_time": 1760369601,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82920,
+        "num": 82920,
+        "word": "小伙用20吨石头修复为人民服务标语",
+        "onboard_time": 1760404339,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81012,
+        "num": 81012,
+        "word": "卢远 王乐晨",
+        "onboard_time": 1760366661,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席推动全球妇女事业发展#"
+    }
+  }
+}
