@@ -1,0 +1,410 @@
+{
+  "runTime": 1760416964998,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 858883,
+        "num": 1137421,
+        "word": "国考年龄放宽到38岁",
+        "onboard_time": 1760412980,
+        "rank": 0,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 523742,
+        "num": 523742,
+        "word": "美军肥胖照火遍全网",
+        "onboard_time": 1760412980,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1111,
+        "num": 324651,
+        "word": "青春华章",
+        "onboard_time": 1760172020,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 817567,
+        "num": 312156,
+        "word": "金饰价格涨到1213元",
+        "onboard_time": 1760407400,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 271313,
+        "num": 271313,
+        "word": "国考公告",
+        "onboard_time": 1760404820,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 652459,
+        "num": 257254,
+        "word": "跳河身亡新郎家人想看行车记录仪",
+        "onboard_time": 1760411901,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496595,
+        "num": 243184,
+        "word": "关晓彤说28岁要爱自己明媚的活着",
+        "onboard_time": 1760412020,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218126,
+        "num": 218126,
+        "word": "韩国几十年后或将种不了苹果",
+        "onboard_time": 1760407641,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 184884,
+        "num": 217011,
+        "word": "人民空军回应小伙修复为人民服务标语",
+        "onboard_time": 1760410280,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167363,
+        "num": 216476,
+        "word": "大奉打更人奉上的是什么",
+        "onboard_time": 1760416281,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2718548,
+        "num": 215674,
+        "word": "刘轩丞称女生是家里亲戚",
+        "onboard_time": 1760415142,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1843737,
+        "num": 214036,
+        "word": "董璇 我办婚礼了吗",
+        "onboard_time": 1760415082,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560179,
+        "num": 212424,
+        "word": "特朗普又把英国首相当众耍了",
+        "onboard_time": 1760412980,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35993,
+        "num": 212176,
+        "word": "刘宇宁京东",
+        "onboard_time": 1760413401,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 547691,
+        "num": 210462,
+        "word": "肖战幼儿园时期的照片",
+        "onboard_time": 1760413161,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365609,
+        "num": 209840,
+        "word": "伦敦偶遇王诗龄一家三口",
+        "onboard_time": 1760410040,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310488,
+        "num": 208127,
+        "word": "杨舒予因家里紧急情况无法参赛",
+        "onboard_time": 1760415560,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237174,
+        "num": 207407,
+        "word": "黄子韬十月十六号婚礼",
+        "onboard_time": 1760397678,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148194,
+        "num": 205882,
+        "word": "中国对5家美国相关子公司采取反制措施",
+        "onboard_time": 1760416643,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62414,
+        "num": 204740,
+        "word": "陈震单挑荣耀Magic8",
+        "onboard_time": 1760415623,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 91950,
+        "num": 203829,
+        "word": "你的人生被修剪过吗",
+        "onboard_time": 1760416703,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242267,
+        "num": 202698,
+        "word": "谭松韵 除了体重一切安好",
+        "onboard_time": 1760414724,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235565,
+        "num": 201378,
+        "word": "姜潮麦迪娜明年在新疆举办婚礼",
+        "onboard_time": 1760411841,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200508,
+        "num": 200508,
+        "word": "原来买一送一和5折不是一回事",
+        "onboard_time": 1760407700,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199320,
+        "num": 199320,
+        "word": "她只是我的妹妹",
+        "onboard_time": 1760416643,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189049,
+        "num": 189049,
+        "word": "家里亲戚",
+        "onboard_time": 1760416523,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160290,
+        "num": 181814,
+        "word": "中国半导体行业协会严重关切",
+        "onboard_time": 1760407820,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179506,
+        "num": 179506,
+        "word": "网传鹿晗王俊凯张艺兴参加黄子韬婚礼",
+        "onboard_time": 1760408660,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104544,
+        "num": 175657,
+        "word": "华为耳夹耳机成国际时装周常客",
+        "onboard_time": 1760415262,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 157949,
+        "num": 174059,
+        "word": "余生有涯定档1016",
+        "onboard_time": 1760414541,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35058,
+        "num": 173267,
+        "word": "男子25米手枪速射团体赛山东队夺金",
+        "onboard_time": 1760415441,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173267,
+        "num": 173266,
+        "word": "睡眠不足会让700多个基因发生改变",
+        "onboard_time": 1760412980,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152853,
+        "num": 170445,
+        "word": "石破茂卸任在即说出心里话",
+        "onboard_time": 1760410461,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168948,
+        "num": 168948,
+        "word": "以后结婚就这么分桌",
+        "onboard_time": 1760414963,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159279,
+        "num": 159279,
+        "word": "雷军晒新疆测车照片",
+        "onboard_time": 1760414782,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149680,
+        "num": 149680,
+        "word": "北方人不许写末世文",
+        "onboard_time": 1760412561,
+        "rank": 35,
+        "category": "读书作家,幽默"
+      },
+      {
+        "raw_hot": 147585,
+        "num": 147585,
+        "word": "配音演员回应许我耀眼许妍配音",
+        "onboard_time": 1760401521,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37291,
+        "num": 146921,
+        "word": "湾芯展上600家企业展示新成果",
+        "onboard_time": 1760416162,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55005,
+        "num": 146054,
+        "word": "迪丽热巴邓妍第四杨紫何惟芳第七",
+        "onboard_time": 1760416402,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34285,
+        "num": 143916,
+        "word": "医院工会活动 折腾医护",
+        "onboard_time": 1760416762,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113832,
+        "num": 143521,
+        "word": "林子君回应像李承铉",
+        "onboard_time": 1760415741,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142464,
+        "num": 142464,
+        "word": "宁静说明星私底下都不太联系",
+        "onboard_time": 1760397317,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136011,
+        "num": 136011,
+        "word": "李昀锐 男生看甜妹的感觉",
+        "onboard_time": 1760414541,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124635,
+        "num": 124635,
+        "word": "余宇涵一个电话闯五次祸",
+        "onboard_time": 1760416823,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124504,
+        "num": 124504,
+        "word": "吃味千拉面发现碗里全是飞虫",
+        "onboard_time": 1760412681,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124352,
+        "num": 124352,
+        "word": "光遇复刻",
+        "onboard_time": 1760415560,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 122188,
+        "num": 122188,
+        "word": "金饰克价年内已涨400元",
+        "onboard_time": 1760413401,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118311,
+        "num": 118311,
+        "word": "学生自习看恐怖片被吓病索赔3万",
+        "onboard_time": 1760414003,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115279,
+        "num": 115279,
+        "word": "1元奶茶低价内卷新法有规定",
+        "onboard_time": 1760404581,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113570,
+        "num": 113570,
+        "word": "向太谈儿子向佑",
+        "onboard_time": 1760416940,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#每一位妇女都是主角#"
+    }
+  }
+}
