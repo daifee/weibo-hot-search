@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760477812490,
+  "endTime": 1760480651345,
   "band_list": [
     {
       "raw_hot": 8054511,
@@ -3200,6 +3200,14 @@
       "word": "这是她她她她她她她她的手",
       "onboard_time": 1760326822,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180899,
+      "num": 180899,
+      "word": "官方介入调查为人民服务地标被破坏",
+      "onboard_time": 1760465176,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -7715,14 +7723,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 88136,
-      "num": 88136,
-      "word": "官方介入调查为人民服务地标被破坏",
-      "onboard_time": 1760465176,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88088,
       "num": 88088,
       "word": "S15赛程",
@@ -10283,6 +10283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27778,
+      "num": 27778,
+      "word": "赵樱子自曝不拍戏的原因",
+      "onboard_time": 1760477174,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26751,
       "num": 82335,
       "word": "闫桉颜安首次合体",
@@ -10297,6 +10305,22 @@
       "onboard_time": 1760463136,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26288,
+      "num": 30220,
+      "word": "新娘全程都在吃瓜",
+      "onboard_time": 1760467454,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 25789,
+      "num": 25789,
+      "word": "中方对稀土采取出口管制措施正当合法",
+      "onboard_time": 1760471114,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25727,
@@ -10379,14 +10403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21371,
-      "num": 30220,
-      "word": "新娘全程都在吃瓜",
-      "onboard_time": 1760467454,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 20606,
       "num": 137019,
       "word": "这个阵容只有微博能请到",
@@ -10425,14 +10441,6 @@
       "onboard_time": 1760386574,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 19723,
-      "num": 19723,
-      "word": "中方对稀土采取出口管制措施正当合法",
-      "onboard_time": 1760471114,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19522,
@@ -10491,6 +10499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 17268,
+      "num": 20991,
+      "word": "49岁男子医院坠亡排除刑案",
+      "onboard_time": 1760473333,
+      "rank": 49,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 16741,
       "num": 299130,
       "word": "为自己的热爱买单真的很酷",
@@ -10513,14 +10529,6 @@
       "onboard_time": 1760387955,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 15307,
-      "num": 16985,
-      "word": "49岁男子医院坠亡排除刑案",
-      "onboard_time": 1760473333,
-      "rank": 49,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 14114,
@@ -10553,14 +10561,6 @@
       "onboard_time": 1760205436,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12309,
-      "num": 16819,
-      "word": "赵樱子自曝不拍戏的原因",
-      "onboard_time": 1760477174,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 10580,
