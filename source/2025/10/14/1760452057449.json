@@ -1,0 +1,410 @@
+{
+  "runTime": 1760452057449,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 917964,
+        "num": 1146874,
+        "word": "解清帅举办婚礼一天后奶奶离世",
+        "onboard_time": 1760448201,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600532,
+        "num": 600532,
+        "word": "T1战胜iG",
+        "onboard_time": 1760442922,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27145,
+        "num": 518289,
+        "word": "第二届世界中国学大会",
+        "onboard_time": 1760430201,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 504954,
+        "num": 504954,
+        "word": "香港家庭雇的印尼女佣竟是富家女",
+        "onboard_time": 1760444720,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479591,
+        "num": 479591,
+        "word": "于东来称胖东来账上有41亿",
+        "onboard_time": 1760447362,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400475,
+        "num": 400475,
+        "word": "约80名韩国人下落不明",
+        "onboard_time": 1760450002,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 368701,
+        "num": 368701,
+        "word": "菜鸟驿站对取件未出库罚款100元",
+        "onboard_time": 1760436861,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355906,
+        "num": 355906,
+        "word": "意外运到美国的中国小猫已恢复健康",
+        "onboard_time": 1760444480,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 310176,
+        "num": 310176,
+        "word": "女子1千元找不到人为临终父亲理发",
+        "onboard_time": 1760442561,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 292971,
+        "num": 292971,
+        "word": "日本3比2巴西",
+        "onboard_time": 1760447241,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1316562,
+        "num": 292738,
+        "word": "汪苏泷张碧晨音综对打",
+        "onboard_time": 1760445621,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 830317,
+        "num": 291840,
+        "word": "田曦薇 好奇怪有人比我更相信我",
+        "onboard_time": 1760444780,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 569275,
+        "num": 290698,
+        "word": "李沛恩合约",
+        "onboard_time": 1760448562,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545979,
+        "num": 289950,
+        "word": "考研没把握就报清华北大",
+        "onboard_time": 1760444180,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 307517,
+        "num": 289306,
+        "word": "刘亦菲十月行程",
+        "onboard_time": 1760448621,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288988,
+        "num": 288988,
+        "word": "加沙内战",
+        "onboard_time": 1760445501,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 249386,
+        "num": 249386,
+        "word": "徐璐 帮我修瘦一点",
+        "onboard_time": 1760445021,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112949,
+        "num": 247880,
+        "word": "凤戏阳 夏静炎",
+        "onboard_time": 1760441241,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53381,
+        "num": 239025,
+        "word": "飞鹤发布新一代奶粉",
+        "onboard_time": 1760450962,
+        "rank": 18,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 127762,
+        "num": 237186,
+        "word": "南北方的空调竟然不是一个物种",
+        "onboard_time": 1760449283,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385675,
+        "num": 226561,
+        "word": "金价银价跳水",
+        "onboard_time": 1760423843,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 271156,
+        "num": 223436,
+        "word": "梁靖崑vs张本智和",
+        "onboard_time": 1760451682,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220180,
+        "num": 220180,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1760448923,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203267,
+        "num": 203267,
+        "word": "张馨予家里已经生了100多条小鱼了",
+        "onboard_time": 1760426903,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199723,
+        "num": 199723,
+        "word": "终于有让素人当主角的综艺了",
+        "onboard_time": 1760451322,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197544,
+        "num": 197544,
+        "word": "周传雄和女儿同台好养眼",
+        "onboard_time": 1760448982,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192492,
+        "num": 192492,
+        "word": "KPL",
+        "onboard_time": 1760450841,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 190195,
+        "num": 190195,
+        "word": "梁靖崑13比11张本智和",
+        "onboard_time": 1760451741,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183896,
+        "num": 183896,
+        "word": "金价",
+        "onboard_time": 1760450962,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 170288,
+        "num": 170288,
+        "word": "iG对战T1",
+        "onboard_time": 1760427263,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170038,
+        "num": 170038,
+        "word": "头发尽量不要洗得太勤",
+        "onboard_time": 1760429542,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161498,
+        "num": 161498,
+        "word": "陈都灵身上的飘带20多斤",
+        "onboard_time": 1760434161,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154024,
+        "num": 154024,
+        "word": "禾马娱乐声明",
+        "onboard_time": 1760450662,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153824,
+        "num": 153824,
+        "word": "吃螃蟹禁忌一次性看完",
+        "onboard_time": 1760448923,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 137894,
+        "num": 137894,
+        "word": "Jiejie说iG已经打得很好了",
+        "onboard_time": 1760447842,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132304,
+        "num": 132304,
+        "word": "特朗普改口称是想帮中国",
+        "onboard_time": 1760447602,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127637,
+        "num": 127637,
+        "word": "女主播每天播12小时替榜一还钱",
+        "onboard_time": 1760444720,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37875,
+        "num": 127428,
+        "word": "使馆通报中国游客在泰被威胁购物",
+        "onboard_time": 1760451741,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 57124,
+        "num": 127410,
+        "word": "日本女子恶搞旋转寿司挨个手摸",
+        "onboard_time": 1760451503,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75267,
+        "num": 127407,
+        "word": "TheShy赛后拥抱安慰Wei",
+        "onboard_time": 1760451982,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127404,
+        "num": 127404,
+        "word": "朱丹8岁女儿设计的沙发在卢浮宫展出",
+        "onboard_time": 1760437940,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127249,
+        "num": 127249,
+        "word": "S15抽签",
+        "onboard_time": 1760444780,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70479,
+        "num": 121579,
+        "word": "网民跟风用胖东来洗洁精洗头",
+        "onboard_time": 1760450722,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118448,
+        "num": 118448,
+        "word": "昆凌谈好身材秘诀就是不吃",
+        "onboard_time": 1760441660,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117484,
+        "num": 117484,
+        "word": "刘浩存双马尾",
+        "onboard_time": 1760450903,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111295,
+        "num": 111295,
+        "word": "国考",
+        "onboard_time": 1760448022,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109840,
+        "num": 109840,
+        "word": "iG回家",
+        "onboard_time": 1760442982,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109356,
+        "num": 109356,
+        "word": "郭宇欣回应和刘萧旭坦坦荡荡",
+        "onboard_time": 1760450841,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89433,
+        "num": 99483,
+        "word": "现在就出发3定档节奏",
+        "onboard_time": 1760435241,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73752,
+        "num": 95940,
+        "word": "付一笑开大射出一个摄影师",
+        "onboard_time": 1760450662,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#全球妇女命运与共#"
+    }
+  }
+}
