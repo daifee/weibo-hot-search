@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760407917847,
+  "endTime": 1760411176499,
   "band_list": [
     {
       "raw_hot": 1688988,
@@ -57,6 +57,14 @@
       "onboard_time": 1760276901,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1257776,
+      "num": 1257776,
+      "word": "国考公告",
+      "onboard_time": 1760404820,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1223635,
@@ -201,14 +209,6 @@
       "onboard_time": 1760332522,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 854164,
-      "num": 1136666,
-      "word": "国考公告",
-      "onboard_time": 1760404820,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 841915,
@@ -835,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471760,
+      "num": 471760,
+      "word": "金饰价格涨到1213元",
+      "onboard_time": 1760407400,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 471484,
       "num": 217853,
       "word": "摩托车死亡摇摆车主撞花坛当场身亡",
@@ -864,6 +872,14 @@
       "word": "美国下架数百万件中国电子产品",
       "onboard_time": 1760231480,
       "rank": 15,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 450581,
+      "num": 450581,
+      "word": "韩国几十年后或将种不了苹果",
+      "onboard_time": 1760407641,
+      "rank": 26,
       "category": "海外新闻"
     },
     {
@@ -1251,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 323445,
+      "num": 173758,
+      "word": "伦敦偶遇王诗龄一家三口",
+      "onboard_time": 1760410040,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323340,
       "num": 323340,
       "word": "放假8天7天半掰玉米大学生回应质疑",
@@ -1443,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290287,
+      "num": 144608,
+      "word": "网传鹿晗王俊凯张艺兴参加黄子韬婚礼",
+      "onboard_time": 1760408660,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 287016,
       "num": 287016,
       "word": "第一批追大奉的人嘴角压不住了",
@@ -1563,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264510,
+      "num": 264510,
+      "word": "很少用震撼来形容一个手机壳",
+      "onboard_time": 1760404939,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 264306,
       "num": 264306,
       "word": "6省市一周雨雨雨",
@@ -1656,6 +1696,14 @@
       "word": "多地大雨继续超长待机",
       "onboard_time": 1760229919,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247670,
+      "num": 157846,
+      "word": "原来买一送一和5折不是一回事",
+      "onboard_time": 1760407700,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -1931,14 +1979,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 205732,
-      "num": 158339,
-      "word": "金饰价格涨到1213元",
-      "onboard_time": 1760407400,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 204490,
       "num": 204490,
       "word": "爸爸当家旅行团综大预告",
@@ -2091,14 +2131,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194579,
-      "num": 194579,
-      "word": "很少用震撼来形容一个手机壳",
-      "onboard_time": 1760404939,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 194324,
       "num": 194324,
       "word": "长安二十四计人物介绍",
@@ -2123,14 +2155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191606,
-      "num": 157846,
-      "word": "原来买一送一和5折不是一回事",
-      "onboard_time": 1760407700,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 191592,
       "num": 139798,
       "word": "华裔女星疑遭同组演员性侵",
@@ -2153,6 +2177,14 @@
       "onboard_time": 1760246721,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187532,
+      "num": 187532,
+      "word": "杭州你冷得让我陌生",
+      "onboard_time": 1760402421,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185443,
@@ -2225,6 +2257,14 @@
       "onboard_time": 1760340202,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178318,
+      "num": 178318,
+      "word": "中国半导体行业协会严重关切",
+      "onboard_time": 1760407820,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177654,
@@ -2459,14 +2499,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 163785,
-      "num": 163785,
-      "word": "杭州你冷得让我陌生",
-      "onboard_time": 1760402421,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163378,
       "num": 163378,
       "word": "赵磊回应官宣结婚",
@@ -2641,6 +2673,14 @@
       "onboard_time": 1760324001,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156432,
+      "num": 156432,
+      "word": "Doinb预测T1对战IG比分",
+      "onboard_time": 1760407220,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 156064,
@@ -2881,14 +2921,6 @@
       "onboard_time": 1760249540,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 143838,
-      "num": 143838,
-      "word": "韩国几十年后或将种不了苹果",
-      "onboard_time": 1760407641,
-      "rank": 26,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 143236,
@@ -3171,6 +3203,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 133970,
+      "num": 133970,
+      "word": "人民空军回应小伙修复为人民服务标语",
+      "onboard_time": 1760410280,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133933,
       "num": 133933,
       "word": "中美贸易冲突风险上升",
@@ -3257,6 +3297,14 @@
       "onboard_time": 1760352741,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 131030,
+      "num": 131030,
+      "word": "石破茂卸任在即说出心里话",
+      "onboard_time": 1760410461,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 130950,
@@ -3931,6 +3979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115578,
+      "num": 115578,
+      "word": "GALA高情商回应质疑",
+      "onboard_time": 1760409201,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115531,
       "num": 115531,
       "word": "解清帅婚礼约100桌",
@@ -4313,6 +4369,14 @@
       "onboard_time": 1760320279,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108750,
+      "num": 108750,
+      "word": "每天走多少步抵消久坐伤害",
+      "onboard_time": 1760409740,
+      "rank": 34,
+      "category": "运动健身,健康医疗"
     },
     {
       "raw_hot": 108349,
@@ -4728,14 +4792,6 @@
       "word": "今屿康平路第一病娇",
       "onboard_time": 1760360361,
       "rank": 47,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 99502,
-      "num": 99502,
-      "word": "Doinb预测T1对战IG比分",
-      "onboard_time": 1760407220,
-      "rank": 36,
       "category": "电竞"
     },
     {
@@ -5507,6 +5563,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 86378,
+      "num": 86378,
+      "word": "多用户反映无法激活iPhone",
+      "onboard_time": 1760408540,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 86329,
       "num": 86329,
       "word": "陈哲远新剧说四个字的压迫感",
@@ -5523,8 +5587,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86009,
+      "num": 86009,
+      "word": "紫金矿业86亿又拿下一座金矿",
+      "onboard_time": 1760411120,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 85990,
-      "num": 118989,
+      "num": 148530,
       "word": "刘宇宁腿长超1.1米",
       "onboard_time": 1760407759,
       "rank": 30,
@@ -5811,6 +5883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81971,
+      "num": 134167,
+      "word": "中国唱将定档",
+      "onboard_time": 1760410940,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81964,
       "num": 81964,
       "word": "梁靖崑vs阿拉米扬",
@@ -5939,6 +6019,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80501,
+      "num": 80501,
+      "word": "2026国考报名15日开始",
+      "onboard_time": 1760409201,
+      "rank": 42,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 80457,
+      "num": 80457,
+      "word": "吃剩的柚子皮不要丢",
+      "onboard_time": 1760407400,
+      "rank": 43,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 80399,
       "num": 80399,
       "word": "将上班内容可视化之后",
@@ -6019,6 +6115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78979,
+      "num": 78979,
+      "word": "马思纯早期书模的含金量",
+      "onboard_time": 1760411120,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78688,
       "num": 78688,
       "word": "DRG对战EDGM",
@@ -6073,14 +6177,6 @@
       "onboard_time": 1760259201,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 77757,
-      "num": 77757,
-      "word": "中国半导体行业协会严重关切",
-      "onboard_time": 1760407820,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77344,
@@ -6371,6 +6467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71390,
+      "num": 71390,
+      "word": "小猫打针一下子立正了",
+      "onboard_time": 1760408120,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71330,
       "num": 95520,
       "word": "生花换乘恋爱 换着换着就合适了",
@@ -6399,6 +6503,14 @@
       "num": 130201,
       "word": "国产三强华小v",
       "onboard_time": 1760365402,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 70472,
+      "num": 70472,
+      "word": "苹果智能将引入第三方AI",
+      "onboard_time": 1760408480,
       "rank": 49,
       "category": "数码"
     },
@@ -7281,6 +7393,14 @@
       "onboard_time": 1760248881,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 31969,
+      "num": 460947,
+      "word": "千年永定润北京",
+      "onboard_time": 1760409799,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31840,

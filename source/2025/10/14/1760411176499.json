@@ -1,0 +1,410 @@
+{
+  "runTime": 1760411176499,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1257776,
+        "num": 1257776,
+        "word": "国考公告",
+        "onboard_time": 1760404820,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 471760,
+        "num": 471760,
+        "word": "金饰价格涨到1213元",
+        "onboard_time": 1760407400,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31969,
+        "num": 460947,
+        "word": "千年永定润北京",
+        "onboard_time": 1760409799,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450581,
+        "num": 450581,
+        "word": "韩国几十年后或将种不了苹果",
+        "onboard_time": 1760407641,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 268665,
+        "num": 268665,
+        "word": "业主私挖300平地下室32户开裂",
+        "onboard_time": 1760367802,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264510,
+        "num": 264510,
+        "word": "很少用震撼来形容一个手机壳",
+        "onboard_time": 1760404939,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220387,
+        "num": 220387,
+        "word": "1元奶茶低价内卷新法有规定",
+        "onboard_time": 1760404581,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196556,
+        "num": 196556,
+        "word": "第一批追大奉的人嘴角压不住了",
+        "onboard_time": 1760369061,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187532,
+        "num": 187532,
+        "word": "杭州你冷得让我陌生",
+        "onboard_time": 1760402421,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178318,
+        "num": 178318,
+        "word": "中国半导体行业协会严重关切",
+        "onboard_time": 1760407820,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 768619,
+        "num": 177230,
+        "word": "赵丽颖被问是儿子暖还是羊绒暖",
+        "onboard_time": 1760406919,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359959,
+        "num": 176215,
+        "word": "黄子韬十月十六号婚礼",
+        "onboard_time": 1760397678,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323445,
+        "num": 173758,
+        "word": "伦敦偶遇王诗龄一家三口",
+        "onboard_time": 1760410040,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170691,
+        "num": 170691,
+        "word": "6省市一周雨雨雨",
+        "onboard_time": 1760404460,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240253,
+        "num": 168589,
+        "word": "宁静说明星私底下都不太联系",
+        "onboard_time": 1760397317,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228739,
+        "num": 165835,
+        "word": "配音演员回应许我耀眼许妍配音",
+        "onboard_time": 1760401521,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163012,
+        "num": 163012,
+        "word": "国乒全员油头",
+        "onboard_time": 1760397619,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156432,
+        "num": 156432,
+        "word": "Doinb预测T1对战IG比分",
+        "onboard_time": 1760407220,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151429,
+        "num": 151429,
+        "word": "苹果官网确认iPhoneAir非合约机",
+        "onboard_time": 1760406140,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 72837,
+        "num": 148530,
+        "word": "刘宇宁腿长超1.1米",
+        "onboard_time": 1760407759,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290287,
+        "num": 144608,
+        "word": "网传鹿晗王俊凯张艺兴参加黄子韬婚礼",
+        "onboard_time": 1760408660,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247670,
+        "num": 142095,
+        "word": "原来买一送一和5折不是一回事",
+        "onboard_time": 1760407700,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201142,
+        "num": 138151,
+        "word": "女子踩指压板20分钟脚底喷血",
+        "onboard_time": 1760397198,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137639,
+        "num": 137639,
+        "word": "女生意外拍到肿瘤细胞分裂全过程",
+        "onboard_time": 1760366421,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81971,
+        "num": 134167,
+        "word": "中国唱将定档",
+        "onboard_time": 1760410940,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133970,
+        "num": 133970,
+        "word": "人民空军回应小伙修复为人民服务标语",
+        "onboard_time": 1760410280,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131030,
+        "num": 131030,
+        "word": "石破茂卸任在即说出心里话",
+        "onboard_time": 1760410461,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123886,
+        "num": 123886,
+        "word": "14岁自闭症男孩坠楼妈妈崩溃大哭",
+        "onboard_time": 1760369601,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122835,
+        "num": 122835,
+        "word": "黄金白银飙涨原因",
+        "onboard_time": 1760404760,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117752,
+        "num": 117752,
+        "word": "TheShy赛前发博",
+        "onboard_time": 1760401700,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115744,
+        "num": 115744,
+        "word": "山姆配送员电动车挂满大件货物",
+        "onboard_time": 1760365102,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115578,
+        "num": 115578,
+        "word": "GALA高情商回应质疑",
+        "onboard_time": 1760409201,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110699,
+        "num": 110699,
+        "word": "建议久坐的人每天喝够水",
+        "onboard_time": 1760400561,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 57596,
+        "num": 109055,
+        "word": "微博视界大会年度推荐",
+        "onboard_time": 1760365702,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108750,
+        "num": 108750,
+        "word": "每天走多少步抵消久坐伤害",
+        "onboard_time": 1760409740,
+        "rank": 34,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 107052,
+        "num": 107052,
+        "word": "田曦薇28岁生日晒照",
+        "onboard_time": 1760401281,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100820,
+        "num": 100820,
+        "word": "卢远 王乐晨",
+        "onboard_time": 1760366661,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97659,
+        "num": 97659,
+        "word": "小伙用20吨石头修复为人民服务标语",
+        "onboard_time": 1760404339,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86378,
+        "num": 86378,
+        "word": "多用户反映无法激活iPhone",
+        "onboard_time": 1760408540,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 86009,
+        "num": 86009,
+        "word": "紫金矿业86亿又拿下一座金矿",
+        "onboard_time": 1760411120,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82294,
+        "num": 82294,
+        "word": "西安下了1个多月雨后遍地长蘑菇",
+        "onboard_time": 1760359041,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81653,
+        "num": 81653,
+        "word": "中方支持共同清算殖民主义危害",
+        "onboard_time": 1760405240,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80501,
+        "num": 80501,
+        "word": "2026国考报名15日开始",
+        "onboard_time": 1760409201,
+        "rank": 42,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 80457,
+        "num": 80457,
+        "word": "吃剩的柚子皮不要丢",
+        "onboard_time": 1760407400,
+        "rank": 43,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 78979,
+        "num": 78979,
+        "word": "马思纯早期书模的含金量",
+        "onboard_time": 1760411120,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78654,
+        "num": 78654,
+        "word": "许凯请客天都异闻录剧组饮料",
+        "onboard_time": 1760407641,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74317,
+        "num": 74317,
+        "word": "同花顺原唱认可陈浚铭翻唱",
+        "onboard_time": 1760405840,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71670,
+        "num": 71670,
+        "word": "徐璐 人间水蜜桃",
+        "onboard_time": 1760398278,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71390,
+        "num": 71390,
+        "word": "小猫打针一下子立正了",
+        "onboard_time": 1760408120,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70472,
+        "num": 70472,
+        "word": "苹果智能将引入第三方AI",
+        "onboard_time": 1760408480,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#每一位妇女都是主角#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760407917847,
+  "endTime": 1760411176499,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -793,6 +793,14 @@
       "onboard_time": 1759902079,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1257776,
+      "num": 1257776,
+      "word": "国考公告",
+      "onboard_time": 1760404820,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1255648,
@@ -2009,14 +2017,6 @@
       "onboard_time": 1759740621,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 854164,
-      "num": 1136666,
-      "word": "国考公告",
-      "onboard_time": 1760404820,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 852900,
@@ -5451,6 +5451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 471760,
+      "num": 471760,
+      "word": "金饰价格涨到1213元",
+      "onboard_time": 1760407400,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 471535,
       "num": 471535,
       "word": "台军心战大队",
@@ -5697,6 +5705,14 @@
       "onboard_time": 1759706117,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 450581,
+      "num": 450581,
+      "word": "韩国几十年后或将种不了苹果",
+      "onboard_time": 1760407641,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 450503,
@@ -8091,6 +8107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 323445,
+      "num": 173758,
+      "word": "伦敦偶遇王诗龄一家三口",
+      "onboard_time": 1760410040,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323347,
       "num": 323347,
       "word": "终于知道为什么妈妈老开我房门了",
@@ -9155,6 +9179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 290287,
+      "num": 144608,
+      "word": "网传鹿晗王俊凯张艺兴参加黄子韬婚礼",
+      "onboard_time": 1760408660,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290202,
       "num": 193915,
       "word": "短剧男主不接受大尺度吻戏擅自离组",
@@ -9979,6 +10011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264510,
+      "num": 264510,
+      "word": "很少用震撼来形容一个手机壳",
+      "onboard_time": 1760404939,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 264306,
       "num": 264306,
       "word": "6省市一周雨雨雨",
@@ -10560,6 +10600,14 @@
       "word": "多地大雨继续超长待机",
       "onboard_time": 1760229919,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247670,
+      "num": 157846,
+      "word": "原来买一送一和5折不是一回事",
+      "onboard_time": 1760407700,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -12451,14 +12499,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 205732,
-      "num": 158339,
-      "word": "金饰价格涨到1213元",
-      "onboard_time": 1760407400,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 205605,
       "num": 181226,
       "word": "田曦薇鹅黄吊带襦裙",
@@ -13395,14 +13435,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 194579,
-      "num": 194579,
-      "word": "很少用震撼来形容一个手机壳",
-      "onboard_time": 1760404939,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 194453,
       "num": 194453,
       "word": "14亿中国人心同此愿",
@@ -13721,14 +13753,6 @@
       "onboard_time": 1759491321,
       "rank": 24,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 191606,
-      "num": 157846,
-      "word": "原来买一送一和5折不是一回事",
-      "onboard_time": 1760407700,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191592,
@@ -14097,6 +14121,14 @@
       "onboard_time": 1759500862,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187532,
+      "num": 187532,
+      "word": "杭州你冷得让我陌生",
+      "onboard_time": 1760402421,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187352,
@@ -14968,6 +15000,14 @@
       "word": "主人回应狗狗下地掰玉米掰了三年了",
       "onboard_time": 1759916481,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178318,
+      "num": 178318,
+      "word": "中国半导体行业协会严重关切",
+      "onboard_time": 1760407820,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -16699,14 +16739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163785,
-      "num": 163785,
-      "word": "杭州你冷得让我陌生",
-      "onboard_time": 1760402421,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 163760,
       "num": 163760,
       "word": "音乐缘计划2定档",
@@ -17617,6 +17649,14 @@
       "onboard_time": 1759652000,
       "rank": 33,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 156432,
+      "num": 156432,
+      "word": "Doinb预测T1对战IG比分",
+      "onboard_time": 1760407220,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 156404,
@@ -19409,14 +19449,6 @@
       "onboard_time": 1760155581,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143838,
-      "num": 143838,
-      "word": "韩国几十年后或将种不了苹果",
-      "onboard_time": 1760407641,
-      "rank": 26,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 143733,
@@ -21355,6 +21387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133970,
+      "num": 133970,
+      "word": "人民空军回应小伙修复为人民服务标语",
+      "onboard_time": 1760410280,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133957,
       "num": 122935,
       "word": "CELINE的选人眼光",
@@ -22025,6 +22065,14 @@
       "onboard_time": 1760152824,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131030,
+      "num": 131030,
+      "word": "石破茂卸任在即说出心里话",
+      "onboard_time": 1760410461,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131003,
@@ -25827,6 +25875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 115578,
+      "num": 115578,
+      "word": "GALA高情商回应质疑",
+      "onboard_time": 1760409201,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115559,
       "num": 115559,
       "word": "丁程鑫哈尔滨路演路透",
@@ -28153,6 +28209,14 @@
       "onboard_time": 1760071342,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108750,
+      "num": 108750,
+      "word": "每天走多少步抵消久坐伤害",
+      "onboard_time": 1760409740,
+      "rank": 34,
+      "category": "运动健身,健康医疗"
     },
     {
       "raw_hot": 108748,
@@ -31065,14 +31129,6 @@
       "onboard_time": 1759459279,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 99502,
-      "num": 99502,
-      "word": "Doinb预测T1对战IG比分",
-      "onboard_time": 1760407220,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 99459,
@@ -35275,6 +35331,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 86378,
+      "num": 86378,
+      "word": "多用户反映无法激活iPhone",
+      "onboard_time": 1760408540,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 86358,
       "num": 86358,
       "word": "感觉车站有一亿人",
@@ -35339,6 +35403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86009,
+      "num": 86009,
+      "word": "紫金矿业86亿又拿下一座金矿",
+      "onboard_time": 1760411120,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 85997,
       "num": 85997,
       "word": "秦臆博原型爆火后请发小当助理",
@@ -35348,7 +35420,7 @@
     },
     {
       "raw_hot": 85990,
-      "num": 118989,
+      "num": 148530,
       "word": "刘宇宁腿长超1.1米",
       "onboard_time": 1760407759,
       "rank": 30,
@@ -36563,6 +36635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81971,
+      "num": 134167,
+      "word": "中国唱将定档",
+      "onboard_time": 1760410940,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81964,
       "num": 81964,
       "word": "梁靖崑vs阿拉米扬",
@@ -36899,6 +36979,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80501,
+      "num": 80501,
+      "word": "2026国考报名15日开始",
+      "onboard_time": 1760409201,
+      "rank": 42,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 80457,
+      "num": 80457,
+      "word": "吃剩的柚子皮不要丢",
+      "onboard_time": 1760407400,
+      "rank": 43,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 80447,
       "num": 149061,
       "word": "王珞丹往那一站有白月光那味儿了",
@@ -37211,6 +37307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 78979,
+      "num": 78979,
+      "word": "马思纯早期书模的含金量",
+      "onboard_time": 1760411120,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78977,
       "num": 78977,
       "word": "网传极氪CBO关海涛已离职",
@@ -37473,14 +37577,6 @@
       "onboard_time": 1759396581,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77757,
-      "num": 77757,
-      "word": "中国半导体行业协会严重关切",
-      "onboard_time": 1760407820,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77641,
@@ -38499,6 +38595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71390,
+      "num": 71390,
+      "word": "小猫打针一下子立正了",
+      "onboard_time": 1760408120,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 71384,
       "num": 102087,
       "word": "蜜雪冰城回应小票上可看连载小说",
@@ -38657,6 +38761,14 @@
       "onboard_time": 1759544780,
       "rank": 47,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 70472,
+      "num": 70472,
+      "word": "苹果智能将引入第三方AI",
+      "onboard_time": 1760408480,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 70444,
@@ -42595,6 +42707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 31969,
+      "num": 698230,
+      "word": "千年永定润北京",
+      "onboard_time": 1760081121,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31913,
       "num": 39509,
       "word": "孟子义回复吴汉坤",
@@ -44407,14 +44527,6 @@
       "num": 858801,
       "word": "月满中秋共迎盛会",
       "onboard_time": 1759501582,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 3574,
-      "num": 698230,
-      "word": "千年永定润北京",
-      "onboard_time": 1760081121,
       "rank": 2,
       "category": "民生新闻"
     },
