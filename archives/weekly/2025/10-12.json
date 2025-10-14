@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760427558891,
+  "endTime": 1760430765073,
   "band_list": [
     {
       "raw_hot": 8054511,
@@ -49,6 +49,14 @@
       "onboard_time": 1760329043,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1580976,
+      "num": 1580976,
+      "word": "国考 无岗",
+      "onboard_time": 1760427022,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 1574027,
@@ -291,6 +299,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 841070,
+      "num": 841070,
+      "word": "iG对战T1",
+      "onboard_time": 1760427263,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 840835,
+      "num": 706978,
+      "word": "金价银价跳水",
+      "onboard_time": 1760423843,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 839994,
       "num": 228923,
       "word": "鲁 俺想你了",
@@ -340,7 +364,7 @@
     },
     {
       "raw_hot": 802036,
-      "num": 212297,
+      "num": 215974,
       "word": "李亚鹏 共创离婚视频",
       "onboard_time": 1760424381,
       "rank": 18,
@@ -387,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 734912,
+      "num": 216267,
+      "word": "张馨予家里已经生了100多条小鱼了",
+      "onboard_time": 1760426903,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 717562,
       "num": 277066,
       "word": "三部大男主剧同期开播",
@@ -409,14 +441,6 @@
       "onboard_time": 1760236580,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 706978,
-      "num": 706978,
-      "word": "金价银价跳水",
-      "onboard_time": 1760423843,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 701662,
@@ -907,14 +931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 498923,
-      "num": 186169,
-      "word": "张馨予家里已经生了100多条小鱼了",
-      "onboard_time": 1760426903,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 496195,
       "num": 289696,
       "word": "衣服阴干那种臭味怎么除掉",
@@ -1220,7 +1236,7 @@
     },
     {
       "raw_hot": 408131,
-      "num": 192934,
+      "num": 213327,
       "word": "印度女医学生与朋友外出遭轮奸",
       "onboard_time": 1760423180,
       "rank": 30,
@@ -1345,6 +1361,14 @@
       "onboard_time": 1760259681,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 365888,
+      "num": 365888,
+      "word": "在南太行拍照坠崖大学生确认身亡",
+      "onboard_time": 1760429061,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 363607,
@@ -1547,6 +1571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302125,
+      "num": 302125,
+      "word": "德基广场会员厕所 年消费20万可用",
+      "onboard_time": 1760428282,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 301370,
       "num": 301370,
       "word": "比特币24小时逾18万人爆仓",
@@ -1651,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290335,
+      "num": 215333,
+      "word": "申裕斌摸孙颖莎肚子",
+      "onboard_time": 1760429660,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290287,
       "num": 197316,
       "word": "网传鹿晗王俊凯张艺兴参加黄子韬婚礼",
@@ -1697,6 +1737,14 @@
       "onboard_time": 1760321119,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 281997,
+      "num": 281997,
+      "word": "驴友队在玉函山断崖下发现苏阳阳遗体",
+      "onboard_time": 1760428522,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281438,
@@ -1881,6 +1929,14 @@
       "onboard_time": 1760318898,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255574,
+      "num": 255574,
+      "word": "美航母被撞8个月了没修",
+      "onboard_time": 1760423783,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 251998,
@@ -2107,6 +2163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223118,
+      "num": 212691,
+      "word": "后羿新皮肤神树通天",
+      "onboard_time": 1760430681,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 221510,
       "num": 217811,
       "word": "一笑随歌",
@@ -2179,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216551,
+      "num": 216551,
+      "word": "赴山海剧本穿帮好出圈",
+      "onboard_time": 1760430201,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216531,
       "num": 163463,
       "word": "余承恩被外甥女叫爸爸吓出冷汗",
@@ -2203,20 +2275,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 212397,
+      "num": 212397,
+      "word": "头发尽量不要洗得太勤",
+      "onboard_time": 1760429542,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 211797,
       "num": 173577,
       "word": "陈都灵玉面观音写真",
       "onboard_time": 1760426722,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 211756,
-      "num": 211756,
-      "word": "美航母被撞8个月了没修",
-      "onboard_time": 1760423783,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 211341,
@@ -2419,6 +2491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193915,
+      "num": 193915,
+      "word": "老人被咬后手提2条眼镜蛇进急诊",
+      "onboard_time": 1760428641,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193651,
       "num": 193651,
       "word": "孙颖莎像素小鼻嘎",
@@ -2449,6 +2529,14 @@
       "onboard_time": 1760410940,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189684,
+      "num": 189684,
+      "word": "阳澄湖大闸蟹今年是淹死了吗",
+      "onboard_time": 1760430621,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 189540,
@@ -2497,14 +2585,6 @@
       "onboard_time": 1760415322,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185924,
-      "num": 185924,
-      "word": "iG对战T1",
-      "onboard_time": 1760427263,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 185443,
@@ -2729,6 +2809,14 @@
       "onboard_time": 1760266220,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 170874,
+      "num": 170874,
+      "word": "天猫团队 灵隐寺",
+      "onboard_time": 1760429961,
+      "rank": 32,
+      "category": "互联网,幽默"
     },
     {
       "raw_hot": 170725,
@@ -3235,6 +3323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150912,
+      "num": 150912,
+      "word": "龚俊李沁马思纯 三张有故事感的脸",
+      "onboard_time": 1760425103,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150779,
       "num": 150779,
       "word": "一糖尿病患者2年内失去10根脚趾",
@@ -3273,6 +3369,14 @@
       "onboard_time": 1760422641,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149322,
+      "num": 149322,
+      "word": "警方通报49岁男子医院坠亡",
+      "onboard_time": 1760429781,
+      "rank": 36,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 149315,
@@ -3329,6 +3433,14 @@
       "onboard_time": 1760359041,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 146419,
+      "num": 212974,
+      "word": "音乐缘计划",
+      "onboard_time": 1760199862,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 145997,
@@ -3561,14 +3673,6 @@
       "onboard_time": 1760264781,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138266,
-      "num": 138266,
-      "word": "国考 无岗",
-      "onboard_time": 1760427022,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 138250,
@@ -3953,14 +4057,6 @@
       "onboard_time": 1760324120,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126845,
-      "num": 126845,
-      "word": "龚俊李沁马思纯 三张有故事感的脸",
-      "onboard_time": 1760425103,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 126811,
@@ -4409,6 +4505,14 @@
       "onboard_time": 1760329345,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 120037,
+      "num": 120037,
+      "word": "南宁一医院有人坠楼",
+      "onboard_time": 1760427442,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119537,
@@ -4875,6 +4979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112659,
+      "num": 112659,
+      "word": "LPL",
+      "onboard_time": 1760430681,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112576,
       "num": 112576,
       "word": "陆军海军联合训练上下登陆舰",
@@ -4945,6 +5057,14 @@
       "onboard_time": 1760327543,
       "rank": 37,
       "category": "情感,美妆"
+    },
+    {
+      "raw_hot": 111528,
+      "num": 111528,
+      "word": "阿条姐全运会首金",
+      "onboard_time": 1760430561,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 111473,
@@ -5267,6 +5387,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105980,
+      "num": 105980,
+      "word": "恋与深空玩家反映游戏被盗号并出售",
+      "onboard_time": 1760430322,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 105908,
+      "num": 105908,
+      "word": "中央巡视组原副部级许传智被查",
+      "onboard_time": 1760429961,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105829,
       "num": 105829,
       "word": "运动出汗与身体出汗的区别",
@@ -5313,6 +5449,14 @@
       "onboard_time": 1760348122,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104679,
+      "num": 190869,
+      "word": "入青云我承认之前声音大了点",
+      "onboard_time": 1760428823,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 104639,
@@ -7547,6 +7691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 66691,
+      "num": 121890,
+      "word": "6人开奔驰去餐馆消费370元逃单",
+      "onboard_time": 1760430201,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66635,
       "num": 66635,
       "word": "iG对战海报",
@@ -7561,6 +7713,14 @@
       "onboard_time": 1760418801,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66137,
+      "num": 121229,
+      "word": "孙颖莎为王曼昱加油",
+      "onboard_time": 1760430741,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 66000,
@@ -7603,14 +7763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65088,
-      "num": 76602,
-      "word": "音乐缘计划",
-      "onboard_time": 1760199862,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 64596,
       "num": 48834,
       "word": "再懒都要做凯格尔运动",
@@ -7641,6 +7793,14 @@
       "onboard_time": 1760285958,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 63933,
+      "num": 216217,
+      "word": "京东秒杀",
+      "onboard_time": 1760425881,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 63739,
@@ -7681,6 +7841,14 @@
       "onboard_time": 1760284639,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62694,
+      "num": 120515,
+      "word": "假期的正确关闭方式",
+      "onboard_time": 1760430681,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 62676,
@@ -7761,14 +7929,6 @@
       "onboard_time": 1760403501,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59158,
-      "num": 189267,
-      "word": "京东秒杀",
-      "onboard_time": 1760425881,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 58202,
@@ -7955,12 +8115,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 49985,
+      "num": 214567,
+      "word": "荣耀高管回应Magic8跑分",
+      "onboard_time": 1760429121,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 49864,
       "num": 49864,
       "word": "全身上下血栓最容易堵在哪儿",
       "onboard_time": 1760397678,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 49794,
+      "num": 120653,
+      "word": "孙颖莎坐得好板正",
+      "onboard_time": 1760429482,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 49118,
@@ -8088,14 +8264,6 @@
       "word": "丽江景区否认设计夸张称梦幻温馨",
       "onboard_time": 1760243960,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44059,
-      "num": 111562,
-      "word": "南宁一医院有人坠楼",
-      "onboard_time": 1760427442,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -8355,6 +8523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34347,
+      "num": 215158,
+      "word": "业主私挖300平地下室为何无人制止",
+      "onboard_time": 1760429722,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34285,
       "num": 143916,
       "word": "医院工会活动 折腾医护",
@@ -8555,6 +8731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 21385,
+      "num": 122122,
+      "word": "新手宝妈带娃急出白发求助心理医生",
+      "onboard_time": 1760429722,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20606,
       "num": 137019,
       "word": "这个阵容只有微博能请到",
@@ -8617,6 +8801,14 @@
       "onboard_time": 1760206996,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18639,
+      "num": 581285,
+      "word": "第二届世界中国学大会",
+      "onboard_time": 1760430201,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18181,
@@ -8710,6 +8902,9 @@
     },
     {
       "word": "#习近平主席推动全球妇女事业发展#"
+    },
+    {
+      "word": "#新征程上每位妇女都是主角#"
     }
   ]
 }

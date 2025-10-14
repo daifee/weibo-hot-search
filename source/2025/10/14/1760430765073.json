@@ -1,0 +1,410 @@
+{
+  "runTime": 1760430765073,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1580976,
+        "num": 1580976,
+        "word": "国考 无岗",
+        "onboard_time": 1760427022,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 841070,
+        "num": 841070,
+        "word": "iG对战T1",
+        "onboard_time": 1760427263,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18639,
+        "num": 581285,
+        "word": "第二届世界中国学大会",
+        "onboard_time": 1760430201,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365888,
+        "num": 365888,
+        "word": "在南太行拍照坠崖大学生确认身亡",
+        "onboard_time": 1760429061,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302125,
+        "num": 302125,
+        "word": "德基广场会员厕所 年消费20万可用",
+        "onboard_time": 1760428282,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281997,
+        "num": 281997,
+        "word": "驴友队在玉函山断崖下发现苏阳阳遗体",
+        "onboard_time": 1760428522,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272588,
+        "num": 272588,
+        "word": "美军肥胖照火遍全网",
+        "onboard_time": 1760412980,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 255574,
+        "num": 255574,
+        "word": "美航母被撞8个月了没修",
+        "onboard_time": 1760423783,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 254045,
+        "num": 254045,
+        "word": "王者荣耀",
+        "onboard_time": 1760427982,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 216551,
+        "num": 216551,
+        "word": "赴山海剧本穿帮好出圈",
+        "onboard_time": 1760430201,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2126523,
+        "num": 216486,
+        "word": "李亚鹏离婚",
+        "onboard_time": 1760422942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1012733,
+        "num": 216426,
+        "word": "跳河新郎和新娘在婚车上一直争吵",
+        "onboard_time": 1760424683,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 734912,
+        "num": 216267,
+        "word": "张馨予家里已经生了100多条小鱼了",
+        "onboard_time": 1760426903,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63933,
+        "num": 216217,
+        "word": "京东秒杀",
+        "onboard_time": 1760425881,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 216113,
+        "num": 216113,
+        "word": "卖不出去的东西加个壳就卖出去了",
+        "onboard_time": 1760420901,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 438212,
+        "num": 215974,
+        "word": "李亚鹏 共创离婚视频",
+        "onboard_time": 1760424381,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 411026,
+        "num": 215692,
+        "word": "董璇 我办婚礼了吗",
+        "onboard_time": 1760415082,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290335,
+        "num": 215333,
+        "word": "申裕斌摸孙颖莎肚子",
+        "onboard_time": 1760429660,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34347,
+        "num": 215158,
+        "word": "业主私挖300平地下室为何无人制止",
+        "onboard_time": 1760429722,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49985,
+        "num": 214567,
+        "word": "荣耀高管回应Magic8跑分",
+        "onboard_time": 1760429121,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 840835,
+        "num": 214508,
+        "word": "金价银价跳水",
+        "onboard_time": 1760423843,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 342952,
+        "num": 214033,
+        "word": "单亲妈妈误转看病钱对方全程沉默",
+        "onboard_time": 1760418142,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265955,
+        "num": 213933,
+        "word": "谭松韵回应暴瘦",
+        "onboard_time": 1760417181,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257117,
+        "num": 213327,
+        "word": "印度女医学生与朋友外出遭轮奸",
+        "onboard_time": 1760423180,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 229741,
+        "num": 213150,
+        "word": "她只是我的妹妹",
+        "onboard_time": 1760416643,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146419,
+        "num": 212974,
+        "word": "音乐缘计划",
+        "onboard_time": 1760429781,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223118,
+        "num": 212691,
+        "word": "后羿新皮肤神树通天",
+        "onboard_time": 1760430681,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 212397,
+        "num": 212397,
+        "word": "头发尽量不要洗得太勤",
+        "onboard_time": 1760429542,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193915,
+        "num": 193915,
+        "word": "老人被咬后手提2条眼镜蛇进急诊",
+        "onboard_time": 1760428641,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104679,
+        "num": 190869,
+        "word": "入青云我承认之前声音大了点",
+        "onboard_time": 1760428823,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189684,
+        "num": 189684,
+        "word": "阳澄湖大闸蟹今年是淹死了吗",
+        "onboard_time": 1760430621,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182628,
+        "num": 182628,
+        "word": "向太谈儿子向佑",
+        "onboard_time": 1760416940,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170874,
+        "num": 170874,
+        "word": "天猫团队 灵隐寺",
+        "onboard_time": 1760429961,
+        "rank": 32,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 164620,
+        "num": 164620,
+        "word": "黄金",
+        "onboard_time": 1760421141,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164547,
+        "num": 164547,
+        "word": "糖尿病男子剪趾甲破皮失去10根脚趾",
+        "onboard_time": 1760420602,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150912,
+        "num": 150912,
+        "word": "龚俊李沁马思纯 三张有故事感的脸",
+        "onboard_time": 1760425103,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149322,
+        "num": 149322,
+        "word": "警方通报49岁男子医院坠亡",
+        "onboard_time": 1760429781,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 122618,
+        "num": 122618,
+        "word": "国考岗位表",
+        "onboard_time": 1760417482,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 21385,
+        "num": 122122,
+        "word": "新手宝妈带娃急出白发求助心理医生",
+        "onboard_time": 1760429722,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66691,
+        "num": 121890,
+        "word": "6人开奔驰去餐馆消费370元逃单",
+        "onboard_time": 1760430201,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66137,
+        "num": 121229,
+        "word": "孙颖莎为王曼昱加油",
+        "onboard_time": 1760430741,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49794,
+        "num": 120653,
+        "word": "孙颖莎坐得好板正",
+        "onboard_time": 1760429482,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62694,
+        "num": 120515,
+        "word": "假期的正确关闭方式",
+        "onboard_time": 1760430681,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120037,
+        "num": 120037,
+        "word": "南宁一医院有人坠楼",
+        "onboard_time": 1760427442,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112659,
+        "num": 112659,
+        "word": "LPL",
+        "onboard_time": 1760430681,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111528,
+        "num": 111528,
+        "word": "阿条姐全运会首金",
+        "onboard_time": 1760430561,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109778,
+        "num": 109778,
+        "word": "刘轩丞称女生是家里亲戚",
+        "onboard_time": 1760415142,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105980,
+        "num": 105980,
+        "word": "恋与深空玩家反映游戏被盗号并出售",
+        "onboard_time": 1760430322,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105908,
+        "num": 105908,
+        "word": "中央巡视组原副部级许传智被查",
+        "onboard_time": 1760429961,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103642,
+        "num": 103642,
+        "word": "为什么今年的大闸蟹还没上市",
+        "onboard_time": 1760423302,
+        "rank": 49,
+        "category": "民生新闻,美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程上每位妇女都是主角#"
+    }
+  }
+}
