@@ -1,6 +1,6 @@
 {
   "startTime": 1760373145920,
-  "endTime": 1760452057449,
+  "endTime": 1760453122286,
   "band_list": [
     {
       "raw_hot": 8054511,
@@ -99,6 +99,14 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 1078099,
+      "num": 1172495,
+      "word": "解清帅举办婚礼一天后奶奶离世",
+      "onboard_time": 1760448201,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1018522,
       "num": 1158457,
       "word": "跳河新郎和新娘在婚车上一直争吵",
@@ -115,20 +123,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 917964,
-      "num": 1146874,
-      "word": "解清帅举办婚礼一天后奶奶离世",
-      "onboard_time": 1760448201,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 858883,
       "num": 1137421,
       "word": "国考年龄放宽到38岁",
       "onboard_time": 1760412980,
       "rank": 25,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 853096,
+      "num": 853096,
+      "word": "约80名韩国人下落不明",
+      "onboard_time": 1760450002,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 850108,
@@ -275,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 565088,
+      "num": 565088,
+      "word": "于东来称胖东来账上有41亿",
+      "onboard_time": 1760447362,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 561040,
       "num": 181604,
       "word": "14岁自闭症男孩坠楼妈妈崩溃大哭",
@@ -339,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 504285,
+      "num": 504285,
+      "word": "梁靖崑vs张本智和",
+      "onboard_time": 1760451682,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 490397,
       "num": 490397,
       "word": "申裕斌摸孙颖莎肚子",
@@ -353,14 +377,6 @@
       "onboard_time": 1760442982,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 479591,
-      "num": 479591,
-      "word": "于东来称胖东来账上有41亿",
-      "onboard_time": 1760447362,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 475597,
@@ -489,14 +505,6 @@
       "onboard_time": 1760420901,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 400475,
-      "num": 400475,
-      "word": "约80名韩国人下落不明",
-      "onboard_time": 1760450002,
-      "rank": 5,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 389460,
@@ -691,14 +699,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 271156,
-      "num": 223436,
-      "word": "梁靖崑vs张本智和",
-      "onboard_time": 1760451682,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 270884,
       "num": 270884,
       "word": "学生自习看恐怖片被吓病索赔3万",
@@ -841,6 +841,14 @@
       "onboard_time": 1760365102,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231845,
+      "num": 231845,
+      "word": "金价",
+      "onboard_time": 1760450962,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 230844,
@@ -1019,6 +1027,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192426,
+      "num": 192426,
+      "word": "TTG",
+      "onboard_time": 1760452104,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 191970,
+      "num": 191970,
+      "word": "KPL抽签",
+      "onboard_time": 1760452403,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190622,
       "num": 190622,
       "word": "中国唱将定档",
@@ -1081,14 +1105,6 @@
       "onboard_time": 1760415322,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183896,
-      "num": 183896,
-      "word": "金价",
-      "onboard_time": 1760450962,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 181394,
@@ -1177,6 +1193,14 @@
       "onboard_time": 1760424142,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170692,
+      "num": 170692,
+      "word": "全球央行狂买黄金",
+      "onboard_time": 1760452163,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 170254,
@@ -1627,6 +1651,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 128209,
+      "num": 128209,
+      "word": "刘浩存双马尾",
+      "onboard_time": 1760450903,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127836,
       "num": 127836,
       "word": "美财长扬言或驱逐数万中国留学生",
@@ -1939,14 +1971,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117484,
-      "num": 117484,
-      "word": "刘浩存双马尾",
-      "onboard_time": 1760450903,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117328,
       "num": 117328,
       "word": "曾舜晞在我手机里吻了半个月了",
@@ -1969,6 +1993,14 @@
       "onboard_time": 1760423541,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 116061,
+      "num": 128732,
+      "word": "TheShy赛后拥抱安慰Wei",
+      "onboard_time": 1760451982,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 115980,
@@ -2089,6 +2121,14 @@
       "onboard_time": 1760423363,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110137,
+      "num": 226502,
+      "word": "加沙孩子举起了五星红旗",
+      "onboard_time": 1760452342,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 109356,
@@ -2835,14 +2875,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 75267,
-      "num": 127407,
-      "word": "TheShy赛后拥抱安慰Wei",
-      "onboard_time": 1760451982,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 75002,
       "num": 79917,
       "word": "单亲妈妈回应误转女儿看病钱",
@@ -2881,6 +2913,14 @@
       "onboard_time": 1760450662,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73206,
+      "num": 127410,
+      "word": "日本女子恶搞旋转寿司挨个手摸",
+      "onboard_time": 1760451503,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 72976,
@@ -3083,6 +3123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61985,
+      "num": 136063,
+      "word": "商务舱乘客控诉宝妈带娃在车厢小便",
+      "onboard_time": 1760452883,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61902,
       "num": 172818,
       "word": "京东上线1折秒手机电视活动",
@@ -3163,12 +3211,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57124,
-      "num": 127410,
-      "word": "日本女子恶搞旋转寿司挨个手摸",
-      "onboard_time": 1760451503,
-      "rank": 38,
-      "category": "海外新闻"
+      "raw_hot": 56231,
+      "num": 127428,
+      "word": "使馆通报中国游客在泰被威胁购物",
+      "onboard_time": 1760451741,
+      "rank": 37,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 55778,
@@ -3395,14 +3443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 37875,
-      "num": 127428,
-      "word": "使馆通报中国游客在泰被威胁购物",
-      "onboard_time": 1760451741,
-      "rank": 37,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 37444,
       "num": 205643,
       "word": "广西一村涨水最高至15米",
@@ -3547,6 +3587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19385,
+      "num": 219688,
+      "word": "世界市长对话敦煌",
+      "onboard_time": 1760452463,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16345,
       "num": 109386,
       "word": "国外现实版豌豆公主",
@@ -3593,6 +3641,14 @@
       "onboard_time": 1760448262,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6964,
+      "num": 673266,
+      "word": "张雨霏希望30岁还能站上奥运赛场",
+      "onboard_time": 1760452883,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 3642,

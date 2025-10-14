@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760452057449,
+  "endTime": 1760453122286,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1307,6 +1307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1078099,
+      "num": 1172495,
+      "word": "解清帅举办婚礼一天后奶奶离世",
+      "onboard_time": 1760448201,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1077843,
       "num": 224135,
       "word": "成都天府大道小米自燃",
@@ -1843,14 +1851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 917964,
-      "num": 1146874,
-      "word": "解清帅举办婚礼一天后奶奶离世",
-      "onboard_time": 1760448201,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 917837,
       "num": 184312,
       "word": "母亲为救癌症儿子在医院角落做吃播",
@@ -2137,6 +2137,14 @@
       "onboard_time": 1759740621,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 853096,
+      "num": 853096,
+      "word": "约80名韩国人下落不明",
+      "onboard_time": 1760450002,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 852900,
@@ -4307,6 +4315,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 565088,
+      "num": 565088,
+      "word": "于东来称胖东来账上有41亿",
+      "onboard_time": 1760447362,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 563954,
       "num": 313963,
       "word": "hi6",
@@ -5179,6 +5195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504285,
+      "num": 504285,
+      "word": "梁靖崑vs张本智和",
+      "onboard_time": 1760451682,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 504247,
       "num": 504247,
       "word": "法国网红拿针管假装扎人获刑半年",
@@ -5561,14 +5585,6 @@
       "onboard_time": 1759472241,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 479591,
-      "num": 479591,
-      "word": "于东来称胖东来账上有41亿",
-      "onboard_time": 1760447362,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 479548,
@@ -7009,14 +7025,6 @@
       "onboard_time": 1759747642,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 400475,
-      "num": 400475,
-      "word": "约80名韩国人下落不明",
-      "onboard_time": 1760450002,
-      "rank": 5,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 400253,
@@ -10289,14 +10297,6 @@
       "onboard_time": 1760311038,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 271156,
-      "num": 223436,
-      "word": "梁靖崑vs张本智和",
-      "onboard_time": 1760451682,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 271041,
@@ -14403,6 +14403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192426,
+      "num": 192426,
+      "word": "TTG",
+      "onboard_time": 1760452104,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192315,
       "num": 192315,
       "word": "LOEWE眼光 惠英红就是奢侈品",
@@ -14481,6 +14489,14 @@
       "onboard_time": 1759766182,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191970,
+      "num": 191970,
+      "word": "KPL抽签",
+      "onboard_time": 1760452403,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 191847,
@@ -16697,6 +16713,14 @@
       "onboard_time": 1760193925,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 170692,
+      "num": 170692,
+      "word": "全球央行狂买黄金",
+      "onboard_time": 1760452163,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 170616,
@@ -23915,6 +23939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128209,
+      "num": 128209,
+      "word": "刘浩存双马尾",
+      "onboard_time": 1760450903,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128204,
       "num": 128204,
       "word": "WBG对战DK",
@@ -26851,14 +26883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117484,
-      "num": 117484,
-      "word": "刘浩存双马尾",
-      "onboard_time": 1760450903,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 117482,
       "num": 117482,
       "word": "陈幸同3比2李昱谆",
@@ -27233,6 +27257,14 @@
       "onboard_time": 1759331662,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 116061,
+      "num": 128732,
+      "word": "TheShy赛后拥抱安慰Wei",
+      "onboard_time": 1760451982,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 116030,
@@ -29201,6 +29233,14 @@
       "onboard_time": 1759725260,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110137,
+      "num": 226502,
+      "word": "加沙孩子举起了五星红旗",
+      "onboard_time": 1760452342,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110131,
@@ -40059,14 +40099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75267,
-      "num": 127407,
-      "word": "TheShy赛后拥抱安慰Wei",
-      "onboard_time": 1760451982,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 75251,
       "num": 114841,
       "word": "徐帆陪女儿美国过中秋",
@@ -40433,6 +40465,14 @@
       "onboard_time": 1760281161,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 73206,
+      "num": 127410,
+      "word": "日本女子恶搞旋转寿司挨个手摸",
+      "onboard_time": 1760451503,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 73194,
@@ -41923,6 +41963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 61985,
+      "num": 136063,
+      "word": "商务舱乘客控诉宝妈带娃在车厢小便",
+      "onboard_time": 1760452883,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61902,
       "num": 172818,
       "word": "京东上线1折秒手机电视活动",
@@ -42483,14 +42531,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 57124,
-      "num": 127410,
-      "word": "日本女子恶搞旋转寿司挨个手摸",
-      "onboard_time": 1760451503,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 56924,
       "num": 56924,
       "word": "清空聊天记录和消除记忆没什么区别",
@@ -42537,6 +42577,14 @@
       "onboard_time": 1759464859,
       "rank": 29,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 56231,
+      "num": 127428,
+      "word": "使馆通报中国游客在泰被威胁购物",
+      "onboard_time": 1760451741,
+      "rank": 37,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 56154,
@@ -44475,14 +44523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37875,
-      "num": 127428,
-      "word": "使馆通报中国游客在泰被威胁购物",
-      "onboard_time": 1760451741,
-      "rank": 37,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 37853,
       "num": 107577,
       "word": "景区NPC带数百游客攻打县城",
@@ -46227,6 +46267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19385,
+      "num": 219688,
+      "word": "世界市长对话敦煌",
+      "onboard_time": 1760452463,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19058,
       "num": 218139,
       "word": "76秒接力表白祖国",
@@ -46937,6 +46985,14 @@
       "onboard_time": 1760251279,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6964,
+      "num": 673266,
+      "word": "张雨霏希望30岁还能站上奥运赛场",
+      "onboard_time": 1760452883,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 6759,
