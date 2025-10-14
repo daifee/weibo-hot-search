@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760484214200,
+  "endTime": 1760485038098,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -2635,6 +2635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 772428,
+      "num": 933588,
+      "word": "国乒男团3比2逆转日本",
+      "onboard_time": 1760483117,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 772321,
       "num": 245173,
       "word": "童锦程承认恋情",
@@ -2865,14 +2873,6 @@
       "onboard_time": 1760444180,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 722978,
-      "num": 831110,
-      "word": "国乒男团3比2逆转日本",
-      "onboard_time": 1760483117,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 721830,
@@ -9329,6 +9329,14 @@
       "onboard_time": 1760239640,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305356,
+      "num": 305356,
+      "word": "日本队集体凝固",
+      "onboard_time": 1760483418,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 305294,
@@ -16779,14 +16787,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 171626,
-      "num": 171626,
-      "word": "日本队集体凝固",
-      "onboard_time": 1760483418,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 171606,
       "num": 141905,
       "word": "张峻豪演唱会",
@@ -16840,6 +16840,14 @@
       "word": "F勒布伦首进大满贯决赛",
       "onboard_time": 1759645640,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171208,
+      "num": 75791,
+      "word": "一句话形容中国男乒晋级决赛",
+      "onboard_time": 1760484679,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -35523,6 +35531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92667,
+      "num": 92667,
+      "word": "美联储",
+      "onboard_time": 1760484619,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 92646,
       "num": 92646,
       "word": "新郎跳河前说从未受过这么大委屈",
@@ -35947,6 +35963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 91571,
+      "num": 89186,
+      "word": "花少7 是妈妈是女儿",
+      "onboard_time": 1760484079,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91474,
       "num": 91474,
       "word": "向阳而生奔赴未来",
@@ -36257,6 +36281,14 @@
       "onboard_time": 1759885038,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90734,
+      "num": 90734,
+      "word": "梁靖崑王楚钦拥抱",
+      "onboard_time": 1760481618,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 90731,
@@ -38619,6 +38651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83258,
+      "num": 83258,
+      "word": "林诗栋3比2篠塚大登",
+      "onboard_time": 1760484198,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83229,
       "num": 149178,
       "word": "可隆户外寓言故事片",
@@ -38993,14 +39033,6 @@
       "onboard_time": 1759389981,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 81953,
-      "num": 81953,
-      "word": "梁靖崑王楚钦拥抱",
-      "onboard_time": 1760481618,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 81926,
@@ -39561,6 +39593,14 @@
       "onboard_time": 1760359700,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 79563,
+      "num": 79563,
+      "word": "亚锦赛男团",
+      "onboard_time": 1760484020,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 79488,
@@ -40131,6 +40171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76901,
+      "num": 76901,
+      "word": "王楚钦球不落地永不放弃",
+      "onboard_time": 1760483839,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76877,
       "num": 76877,
       "word": "阿尔巴宣布退役",
@@ -40345,6 +40393,14 @@
       "onboard_time": 1759273878,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 75659,
+      "num": 75659,
+      "word": "田曦薇 再也不说自己是举重运动员了",
+      "onboard_time": 1760482337,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 75612,
@@ -40971,6 +41027,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 72143,
+      "num": 72143,
+      "word": "大湾区朋友圈全是王嘉尔演唱会",
+      "onboard_time": 1760480896,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 72135,
       "num": 72135,
       "word": "再看孙颖莎亚运夺金依旧很燃",
@@ -41185,14 +41249,6 @@
       "onboard_time": 1759230622,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70701,
-      "num": 70701,
-      "word": "大湾区朋友圈全是王嘉尔演唱会",
-      "onboard_time": 1760480896,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 70687,
@@ -41635,14 +41691,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 68085,
-      "num": 70377,
-      "word": "花少7 是妈妈是女儿",
-      "onboard_time": 1760484079,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 68071,
       "num": 68071,
       "word": "中国维和官兵被授予联合国和平勋章",
@@ -41987,14 +42035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65350,
-      "num": 65350,
-      "word": "田曦薇 再也不说自己是举重运动员了",
-      "onboard_time": 1760482337,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 65344,
       "num": 65344,
       "word": "刘萧旭 祝我们都好",
@@ -42025,14 +42065,6 @@
       "onboard_time": 1759374558,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 65021,
-      "num": 65021,
-      "word": "王楚钦球不落地永不放弃",
-      "onboard_time": 1760483839,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 65016,
@@ -42387,6 +42419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61390,
+      "num": 61390,
+      "word": "曝iG转会期前瞻",
+      "onboard_time": 1760483839,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 61389,
       "num": 213165,
       "word": "巴黎世家新设计师首秀",
@@ -42521,6 +42561,14 @@
       "onboard_time": 1759388600,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 60459,
+      "num": 60459,
+      "word": "冷冷冷冷我冷冷冷冷",
+      "onboard_time": 1760483898,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60441,
@@ -42713,14 +42761,6 @@
       "onboard_time": 1759831579,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 58914,
-      "num": 58914,
-      "word": "曝iG转会期前瞻",
-      "onboard_time": 1760483839,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 58872,
@@ -42939,6 +42979,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 57295,
+      "num": 57295,
+      "word": "22年前太空有了中国人",
+      "onboard_time": 1760484920,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57171,
       "num": 57171,
       "word": "孙颖莎兼职裁判",
@@ -43009,14 +43057,6 @@
       "onboard_time": 1760451741,
       "rank": 37,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 56172,
-      "num": 56172,
-      "word": "亚锦赛男团",
-      "onboard_time": 1760484020,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 56154,
@@ -43571,6 +43611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52313,
+      "num": 52313,
+      "word": "葡萄牙2比2匈牙利",
+      "onboard_time": 1760484319,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52165,
       "num": 112741,
       "word": "国庆返程车尾挂满鸡鸭大鹅",
@@ -43609,6 +43657,14 @@
       "onboard_time": 1759334299,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51709,
+      "num": 70455,
+      "word": "许我耀眼最好命的是韩卫平吧",
+      "onboard_time": 1760484859,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 51686,
@@ -43651,6 +43707,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51372,
+      "num": 51372,
+      "word": "山姆枣泥核桃蛋糕被曝吃出一颗牙",
+      "onboard_time": 1760484979,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51345,
       "num": 93631,
       "word": "章莹颖男友否认纪录片中鸟坠亡是摆拍",
@@ -43679,14 +43743,6 @@
       "num": 51125,
       "word": "伊朗教练违规进入场地争论",
       "onboard_time": 1760397979,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 51090,
-      "num": 51090,
-      "word": "林诗栋3比2篠塚大登",
-      "onboard_time": 1760484198,
       "rank": 48,
       "category": "体育"
     },

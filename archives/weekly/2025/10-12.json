@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760484214200,
+  "endTime": 1760485038098,
   "band_list": [
     {
       "raw_hot": 8054511,
@@ -451,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 772428,
+      "num": 933588,
+      "word": "国乒男团3比2逆转日本",
+      "onboard_time": 1760483117,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 760738,
       "num": 396605,
       "word": "长期熬夜刷手机脸和身体垮了",
@@ -505,14 +513,6 @@
       "onboard_time": 1760444180,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 722978,
-      "num": 831110,
-      "word": "国乒男团3比2逆转日本",
-      "onboard_time": 1760483117,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 717562,
@@ -1969,6 +1969,14 @@
       "onboard_time": 1760239640,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 305356,
+      "num": 305356,
+      "word": "日本队集体凝固",
+      "onboard_time": 1760483418,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 305111,
@@ -3451,14 +3459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171626,
-      "num": 171626,
-      "word": "日本队集体凝固",
-      "onboard_time": 1760483418,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 171585,
       "num": 171585,
       "word": "林允你在你美丽的脸上做什么",
@@ -3473,6 +3473,14 @@
       "onboard_time": 1760266220,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171208,
+      "num": 75791,
+      "word": "一句话形容中国男乒晋级决赛",
+      "onboard_time": 1760484679,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 171198,
@@ -7363,6 +7371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92667,
+      "num": 92667,
+      "word": "美联储",
+      "onboard_time": 1760484619,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 92646,
       "num": 92646,
       "word": "新郎跳河前说从未受过这么大委屈",
@@ -7475,6 +7491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91571,
+      "num": 89186,
+      "word": "花少7 是妈妈是女儿",
+      "onboard_time": 1760484079,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91445,
       "num": 91445,
       "word": "侯明昊机场被粉丝包围了",
@@ -7576,6 +7600,14 @@
       "word": "孙颖莎3比1申裕斌",
       "onboard_time": 1760419643,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90734,
+      "num": 90734,
+      "word": "梁靖崑王楚钦拥抱",
+      "onboard_time": 1760481618,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -8171,6 +8203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83258,
+      "num": 83258,
+      "word": "林诗栋3比2篠塚大登",
+      "onboard_time": 1760484198,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83229,
       "num": 149178,
       "word": "可隆户外寓言故事片",
@@ -8264,14 +8304,6 @@
       "word": "梁靖崑vs阿拉米扬",
       "onboard_time": 1760353881,
       "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 81953,
-      "num": 81953,
-      "word": "梁靖崑王楚钦拥抱",
-      "onboard_time": 1760481618,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -8499,6 +8531,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 79563,
+      "num": 79563,
+      "word": "亚锦赛男团",
+      "onboard_time": 1760484020,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79488,
       "num": 113633,
       "word": "高洪波卸任重庆荣昌区委书记",
@@ -8659,6 +8699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 76901,
+      "num": 76901,
+      "word": "王楚钦球不落地永不放弃",
+      "onboard_time": 1760483839,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76834,
       "num": 85353,
       "word": "王楚钦在印度也是打卡景点",
@@ -8721,6 +8769,14 @@
       "onboard_time": 1760408120,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75659,
+      "num": 75659,
+      "word": "田曦薇 再也不说自己是举重运动员了",
+      "onboard_time": 1760482337,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 75612,
@@ -8939,6 +8995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72143,
+      "num": 72143,
+      "word": "大湾区朋友圈全是王嘉尔演唱会",
+      "onboard_time": 1760480896,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 72008,
       "num": 72008,
       "word": "李昀锐对王影璐说只有自己失眠",
@@ -9001,14 +9065,6 @@
       "onboard_time": 1760365402,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 70701,
-      "num": 70701,
-      "word": "大湾区朋友圈全是王嘉尔演唱会",
-      "onboard_time": 1760480896,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 70479,
@@ -9163,14 +9219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68085,
-      "num": 70377,
-      "word": "花少7 是妈妈是女儿",
-      "onboard_time": 1760484079,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 67652,
       "num": 90327,
       "word": "打电话时外卖小哥正在吃我外卖",
@@ -9265,22 +9313,6 @@
       "onboard_time": 1760283500,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 65350,
-      "num": 65350,
-      "word": "田曦薇 再也不说自己是举重运动员了",
-      "onboard_time": 1760482337,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 65021,
-      "num": 65021,
-      "word": "王楚钦球不落地永不放弃",
-      "onboard_time": 1760483839,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 64596,
@@ -9395,6 +9427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 61390,
+      "num": 61390,
+      "word": "曝iG转会期前瞻",
+      "onboard_time": 1760483839,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 61203,
       "num": 259179,
       "word": "一秒解锁地球巨清版",
@@ -9433,6 +9473,14 @@
       "onboard_time": 1760397678,
       "rank": 48,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 60459,
+      "num": 60459,
+      "word": "冷冷冷冷我冷冷冷冷",
+      "onboard_time": 1760483898,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60441,
@@ -9481,14 +9529,6 @@
       "onboard_time": 1760403501,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58914,
-      "num": 58914,
-      "word": "曝iG转会期前瞻",
-      "onboard_time": 1760483839,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 58792,
@@ -9547,6 +9587,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 57295,
+      "num": 57295,
+      "word": "22年前太空有了中国人",
+      "onboard_time": 1760484920,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57281,
       "num": 57281,
       "word": "第十五届全运会",
@@ -9577,14 +9625,6 @@
       "onboard_time": 1760451741,
       "rank": 37,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 56172,
-      "num": 56172,
-      "word": "亚锦赛男团",
-      "onboard_time": 1760484020,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 55778,
@@ -9731,12 +9771,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52313,
+      "num": 52313,
+      "word": "葡萄牙2比2匈牙利",
+      "onboard_time": 1760484319,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51709,
+      "num": 70455,
+      "word": "许我耀眼最好命的是韩卫平吧",
+      "onboard_time": 1760484859,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51642,
       "num": 177880,
       "word": "蒋奇明跨界vivo旅拍摄影师",
       "onboard_time": 1760328264,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51372,
+      "num": 51372,
+      "word": "山姆枣泥核桃蛋糕被曝吃出一颗牙",
+      "onboard_time": 1760484979,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51245,
@@ -9751,14 +9815,6 @@
       "num": 51125,
       "word": "伊朗教练违规进入场地争论",
       "onboard_time": 1760397979,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 51090,
-      "num": 51090,
-      "word": "林诗栋3比2篠塚大登",
-      "onboard_time": 1760484198,
       "rank": 48,
       "category": "体育"
     },
