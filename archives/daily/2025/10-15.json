@@ -1,6 +1,6 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760476953467,
+  "endTime": 1760477812490,
   "band_list": [
     {
       "raw_hot": 1270480,
@@ -251,8 +251,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87941,
-      "num": 87941,
+      "raw_hot": 88136,
+      "num": 88136,
       "word": "官方介入调查为人民服务地标被破坏",
       "onboard_time": 1760465176,
       "rank": 22,
@@ -459,20 +459,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 50632,
+      "num": 53326,
+      "word": "女主播每天播12小时替榜一还钱",
+      "onboard_time": 1760444720,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50141,
       "num": 79215,
       "word": "做多黄金成最拥挤交易",
       "onboard_time": 1760460020,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 47525,
-      "num": 53326,
-      "word": "女主播每天播12小时替榜一还钱",
-      "onboard_time": 1760444720,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42672,
@@ -577,6 +577,14 @@
       "onboard_time": 1760473333,
       "rank": 49,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 12309,
+      "num": 16819,
+      "word": "赵樱子自曝不拍戏的原因",
+      "onboard_time": 1760477174,
+      "rank": 45,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
