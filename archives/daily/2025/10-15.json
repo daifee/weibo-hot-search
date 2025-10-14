@@ -1,6 +1,6 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760467745836,
+  "endTime": 1760469702564,
   "band_list": [
     {
       "raw_hot": 1270480,
@@ -355,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61166,
+      "num": 61166,
+      "word": "鲍威尔",
+      "onboard_time": 1760464876,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 60443,
       "num": 96204,
       "word": "全球央行狂买黄金",
@@ -459,20 +467,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45048,
-      "num": 45048,
-      "word": "鲍威尔",
-      "onboard_time": 1760464876,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 42672,
       "num": 95940,
       "word": "凤戏阳 夏静炎",
       "onboard_time": 1760441241,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41348,
+      "num": 41348,
+      "word": "官方介入调查为人民服务地标被破坏",
+      "onboard_time": 1760465176,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39459,
@@ -497,14 +505,6 @@
       "onboard_time": 1760461637,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30797,
-      "num": 30797,
-      "word": "官方介入调查为人民服务地标被破坏",
-      "onboard_time": 1760465176,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29984,
@@ -539,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21371,
+      "num": 30220,
+      "word": "新娘全程都在吃瓜",
+      "onboard_time": 1760467454,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 19327,
       "num": 29335,
       "word": "一起开麦吧艺人阵容官宣",
@@ -553,14 +561,6 @@
       "onboard_time": 1760467215,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 18274,
-      "num": 30220,
-      "word": "新娘全程都在吃瓜",
-      "onboard_time": 1760467454,
-      "rank": 45,
-      "category": "幽默"
     }
   ],
   "hotgov_list": [

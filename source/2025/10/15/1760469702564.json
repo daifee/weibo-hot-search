@@ -1,0 +1,410 @@
+{
+  "runTime": 1760469702564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 197939,
+        "num": 197939,
+        "word": "王楚钦扇自己巴掌",
+        "onboard_time": 1760457321,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113924,
+        "num": 113924,
+        "word": "王皓脸色铁青",
+        "onboard_time": 1760460199,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10736,
+        "num": 64511,
+        "word": "张雨霏希望30岁还能站上奥运赛场",
+        "onboard_time": 1760452883,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61166,
+        "num": 61166,
+        "word": "鲍威尔",
+        "onboard_time": 1760464876,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58655,
+        "num": 58655,
+        "word": "梁靖崑决胜盘",
+        "onboard_time": 1760464934,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58165,
+        "num": 58165,
+        "word": "约80名韩国人下落不明",
+        "onboard_time": 1760450002,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 51990,
+        "num": 51990,
+        "word": "王楚钦单局让张本智和得1分",
+        "onboard_time": 1760459899,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45780,
+        "num": 45780,
+        "word": "T1战胜iG",
+        "onboard_time": 1760442922,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41348,
+        "num": 41348,
+        "word": "官方介入调查为人民服务地标被破坏",
+        "onboard_time": 1760465176,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40702,
+        "num": 40702,
+        "word": "国乒男团0比2日本",
+        "onboard_time": 1760455401,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72002,
+        "num": 40629,
+        "word": "汪苏泷张碧晨音综对打",
+        "onboard_time": 1760445621,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66343,
+        "num": 40511,
+        "word": "演员馨子回应不拍戏",
+        "onboard_time": 1760456482,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47000,
+        "num": 40409,
+        "word": "我两天不能玩手机了",
+        "onboard_time": 1760454562,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40239,
+        "num": 40239,
+        "word": "男子变现2公斤金条净赚百万",
+        "onboard_time": 1760454623,
+        "rank": 13,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 38400,
+        "num": 38400,
+        "word": "国乒男团2比2日本",
+        "onboard_time": 1760460679,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34893,
+        "num": 34893,
+        "word": "香港家庭雇的印尼女佣竟是富家女",
+        "onboard_time": 1760444720,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33283,
+        "num": 33283,
+        "word": "王楚钦3比2胜张本智和",
+        "onboard_time": 1760460737,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32222,
+        "num": 32222,
+        "word": "李沛恩合约",
+        "onboard_time": 1760448562,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15952,
+        "num": 29878,
+        "word": "一笑随歌预告",
+        "onboard_time": 1760458460,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14445,
+        "num": 29662,
+        "word": "凤戏阳 夏静炎",
+        "onboard_time": 1760441241,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29501,
+        "num": 29501,
+        "word": "林允你在你美丽的脸上做什么",
+        "onboard_time": 1760454442,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27243,
+        "num": 27243,
+        "word": "女主播每天播12小时替榜一还钱",
+        "onboard_time": 1760444720,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27113,
+        "num": 27113,
+        "word": "田曦薇 好奇怪有人比我更相信我",
+        "onboard_time": 1760444780,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25869,
+        "num": 25869,
+        "word": "解清帅举办婚礼一天后奶奶离世",
+        "onboard_time": 1760448201,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25565,
+        "num": 25565,
+        "word": "林诗栋12比14篠塚大登",
+        "onboard_time": 1760456662,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23631,
+        "num": 23631,
+        "word": "女子1千元找不到人为临终父亲理发",
+        "onboard_time": 1760442561,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 22816,
+        "num": 22816,
+        "word": "意外运到美国的中国小猫已恢复健康",
+        "onboard_time": 1760444480,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 22784,
+        "num": 22784,
+        "word": "国乒男团1比2日本",
+        "onboard_time": 1760459120,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22328,
+        "num": 22328,
+        "word": "王楚钦呐喊鼓劲",
+        "onboard_time": 1760464934,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15408,
+        "num": 21830,
+        "word": "终于有让素人当主角的综艺了",
+        "onboard_time": 1760451322,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21815,
+        "num": 21815,
+        "word": "林诗栋11比2篠塚大登",
+        "onboard_time": 1760459479,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21515,
+        "num": 21515,
+        "word": "菜鸟驿站对取件未出库罚款100元",
+        "onboard_time": 1760436861,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21371,
+        "num": 21371,
+        "word": "新娘全程都在吃瓜",
+        "onboard_time": 1760467454,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20464,
+        "num": 20464,
+        "word": "iG对战T1",
+        "onboard_time": 1760427263,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19997,
+        "num": 19997,
+        "word": "林诗栋11比5篠塚大登",
+        "onboard_time": 1760457740,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19871,
+        "num": 19871,
+        "word": "央视曝光奢侈品低价代购骗局",
+        "onboard_time": 1760457920,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19104,
+        "num": 19104,
+        "word": "王楚钦11比9松岛辉空",
+        "onboard_time": 1760456181,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18967,
+        "num": 18967,
+        "word": "金价银价跳水",
+        "onboard_time": 1760423843,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18669,
+        "num": 18669,
+        "word": "金价",
+        "onboard_time": 1760450962,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18385,
+        "num": 18385,
+        "word": "考研没把握就报清华北大",
+        "onboard_time": 1760444180,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17961,
+        "num": 17961,
+        "word": "于东来称胖东来账上有41亿",
+        "onboard_time": 1760447362,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17507,
+        "num": 17507,
+        "word": "王源宇宙超级无敌大狂欢巡演",
+        "onboard_time": 1760457621,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17498,
+        "num": 17498,
+        "word": "国乒男团扳平比分",
+        "onboard_time": 1760460438,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17083,
+        "num": 17497,
+        "word": "特朗普改口称是想帮中国",
+        "onboard_time": 1760447602,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16618,
+        "num": 17494,
+        "word": "王楚钦vs张本智和",
+        "onboard_time": 1760453602,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15946,
+        "num": 17494,
+        "word": "加沙内战",
+        "onboard_time": 1760445501,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15259,
+        "num": 17493,
+        "word": "iG告别S15",
+        "onboard_time": 1760458580,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13495,
+        "num": 17491,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1760448923,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13323,
+        "num": 17487,
+        "word": "帝释天全新典藏皮肤",
+        "onboard_time": 1760467215,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13319,
+        "num": 17485,
+        "word": "KPL抽签",
+        "onboard_time": 1760452403,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#全球妇女命运与共#"
+    }
+  }
+}
