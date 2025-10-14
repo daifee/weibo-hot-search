@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760448955325,
+  "endTime": 1760449660219,
   "band_list": [
     {
       "raw_hot": 8054511,
@@ -67,6 +67,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1663592,
+      "num": 253551,
+      "word": "汪苏泷张碧晨音综对打",
+      "onboard_time": 1760445621,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1613573,
       "num": 1613573,
       "word": "小红书崩了",
@@ -81,14 +89,6 @@
       "onboard_time": 1760416643,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1485622,
-      "num": 253551,
-      "word": "汪苏泷张碧晨音综对打",
-      "onboard_time": 1760445621,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1448521,
@@ -331,6 +331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 848028,
+      "num": 253409,
+      "word": "田曦薇 好奇怪有人比我更相信我",
+      "onboard_time": 1760444780,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 847862,
       "num": 847862,
       "word": "黄金",
@@ -451,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 724022,
+      "num": 252731,
+      "word": "考研没把握就报清华北大",
+      "onboard_time": 1760444180,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 717562,
       "num": 277066,
       "word": "三部大男主剧同期开播",
@@ -489,14 +505,6 @@
       "onboard_time": 1760367802,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 697014,
-      "num": 253409,
-      "word": "田曦薇 好奇怪有人比我更相信我",
-      "onboard_time": 1760444780,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 691065,
@@ -659,8 +667,8 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 616101,
-      "num": 616101,
+      "raw_hot": 617066,
+      "num": 617066,
       "word": "香港家庭雇的印尼女佣竟是富家女",
       "onboard_time": 1760444720,
       "rank": 10,
@@ -713,6 +721,14 @@
       "onboard_time": 1760253861,
       "rank": 1,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 594772,
+      "num": 594772,
+      "word": "解清帅举办婚礼一天后奶奶离世",
+      "onboard_time": 1760448201,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 593831,
@@ -905,14 +921,6 @@
       "onboard_time": 1760274261,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 536862,
-      "num": 252731,
-      "word": "考研没把握就报清华北大",
-      "onboard_time": 1760444180,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 528426,
@@ -1259,6 +1267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 436246,
+      "num": 436246,
+      "word": "意外运到美国的中国小猫已恢复健康",
+      "onboard_time": 1760444480,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 435808,
       "num": 225469,
       "word": "相关部门回应天府大道汽车起火",
@@ -1451,14 +1467,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 395967,
-      "num": 395967,
-      "word": "意外运到美国的中国小猫已恢复健康",
-      "onboard_time": 1760444480,
-      "rank": 8,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 394487,
       "num": 286930,
       "word": "杨汝晴把王乐晨问懵了",
@@ -1481,6 +1489,14 @@
       "onboard_time": 1760322499,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391102,
+      "num": 210806,
+      "word": "李沛恩合约",
+      "onboard_time": 1760448562,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 389460,
@@ -1851,6 +1867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 298439,
+      "num": 252019,
+      "word": "徐璐 帮我修瘦一点",
+      "onboard_time": 1760445021,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297427,
       "num": 115733,
       "word": "差点没认出来李菲儿",
@@ -2051,14 +2075,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 268432,
-      "num": 268432,
-      "word": "解清帅举办婚礼一天后奶奶离世",
-      "onboard_time": 1760448201,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 268230,
       "num": 268230,
       "word": "国乒全员油头",
@@ -2184,14 +2200,6 @@
       "word": "朱丹8岁女儿设计的沙发在卢浮宫展出",
       "onboard_time": 1760437940,
       "rank": 14,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 252019,
-      "num": 252019,
-      "word": "徐璐 帮我修瘦一点",
-      "onboard_time": 1760445021,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -2707,12 +2715,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 198992,
-      "num": 198992,
-      "word": "李沛恩合约",
-      "onboard_time": 1760448562,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 199124,
+      "num": 199462,
+      "word": "于东来称胖东来账上有41亿",
+      "onboard_time": 1760447362,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198538,
@@ -2737,6 +2745,14 @@
       "onboard_time": 1760343921,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197468,
+      "num": 197468,
+      "word": "周传雄和女儿同台好养眼",
+      "onboard_time": 1760448982,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 197458,
@@ -2788,7 +2804,7 @@
     },
     {
       "raw_hot": 196727,
-      "num": 196727,
+      "num": 197766,
       "word": "王楚钦vs松岛辉空",
       "onboard_time": 1760448923,
       "rank": 27,
@@ -2803,20 +2819,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196248,
-      "num": 199462,
-      "word": "于东来称胖东来账上有41亿",
-      "onboard_time": 1760447362,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195234,
       "num": 195234,
       "word": "保时捷女销冠晒行政处罚决定书",
       "onboard_time": 1760237120,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194346,
+      "num": 194346,
+      "word": "Jiejie说iG已经打得很好了",
+      "onboard_time": 1760447842,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 194324,
@@ -2913,6 +2929,14 @@
       "onboard_time": 1760426600,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187909,
+      "num": 187909,
+      "word": "刘亦菲十月行程",
+      "onboard_time": 1760448621,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 187532,
@@ -3017,6 +3041,14 @@
       "onboard_time": 1760421622,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178263,
+      "num": 178263,
+      "word": "廖振珽11比0陈颢桦",
+      "onboard_time": 1760449283,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 178234,
@@ -4107,6 +4139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139326,
+      "num": 139326,
+      "word": "吃螃蟹禁忌一次性看完",
+      "onboard_time": 1760448923,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 139171,
       "num": 139171,
       "word": "王宁送库克labubu",
@@ -4579,14 +4619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127256,
-      "num": 127256,
-      "word": "吃螃蟹禁忌一次性看完",
-      "onboard_time": 1760448923,
-      "rank": 32,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 127214,
       "num": 148579,
       "word": "有偿带人进山姆5元一个人头",
@@ -4713,14 +4745,6 @@
       "onboard_time": 1760240900,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125687,
-      "num": 125687,
-      "word": "刘亦菲十月行程",
-      "onboard_time": 1760448621,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 125292,
@@ -4947,12 +4971,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122476,
-      "num": 122476,
-      "word": "Jiejie说iG已经打得很好了",
-      "onboard_time": 1760447842,
-      "rank": 37,
-      "category": "电竞"
+      "raw_hot": 122395,
+      "num": 198187,
+      "word": "南北方的空调竟然不是一个物种",
+      "onboard_time": 1760449283,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122362,
@@ -5113,6 +5137,14 @@
       "onboard_time": 1760431041,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119611,
+      "num": 202238,
+      "word": "大龄公务员也有晋升希望",
+      "onboard_time": 1760447842,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119537,
@@ -6291,6 +6323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102741,
+      "num": 102741,
+      "word": "可以买一个给父母添乱",
+      "onboard_time": 1760446640,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102540,
       "num": 199788,
       "word": "中国海警回应菲船只侵闯铁线礁",
@@ -6401,14 +6441,6 @@
       "onboard_time": 1760274561,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 101283,
-      "num": 101283,
-      "word": "可以买一个给父母添乱",
-      "onboard_time": 1760446640,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 101185,
@@ -6787,6 +6819,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 95056,
+      "num": 107546,
+      "word": "金价狂飙淘金工具卖爆了",
+      "onboard_time": 1760446280,
+      "rank": 39,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 95014,
       "num": 95014,
       "word": "丹恒腾荒我为你翻山越岭",
@@ -7041,14 +7081,6 @@
       "onboard_time": 1760241800,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91639,
-      "num": 202238,
-      "word": "大龄公务员也有晋升希望",
-      "onboard_time": 1760447842,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91445,
@@ -7353,6 +7385,14 @@
       "onboard_time": 1760251401,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 88088,
+      "num": 88088,
+      "word": "S15赛程",
+      "onboard_time": 1760449583,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 87955,
@@ -8747,14 +8787,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 64214,
-      "num": 107546,
-      "word": "金价狂飙淘金工具卖爆了",
-      "onboard_time": 1760446280,
-      "rank": 39,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 63947,
       "num": 88660,
       "word": "李沁陈哲远亲密戏",
@@ -9363,6 +9395,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 41391,
+      "num": 121269,
+      "word": "中国手握稀土一招制敌",
+      "onboard_time": 1760448082,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41208,
       "num": 112313,
       "word": "老用户换vivoX300值得吗",
@@ -9585,14 +9625,6 @@
       "onboard_time": 1760430201,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34664,
-      "num": 121269,
-      "word": "中国手握稀土一招制敌",
-      "onboard_time": 1760448082,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34347,

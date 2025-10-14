@@ -1,0 +1,410 @@
+{
+  "runTime": 1760449660219,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 884371,
+        "num": 1141499,
+        "word": "T1战胜iG",
+        "onboard_time": 1760442922,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 617066,
+        "num": 617066,
+        "word": "香港家庭雇的印尼女佣竟是富家女",
+        "onboard_time": 1760444720,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21278,
+        "num": 605601,
+        "word": "第二届世界中国学大会",
+        "onboard_time": 1760430201,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 594772,
+        "num": 594772,
+        "word": "解清帅举办婚礼一天后奶奶离世",
+        "onboard_time": 1760448201,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436246,
+        "num": 436246,
+        "word": "意外运到美国的中国小猫已恢复健康",
+        "onboard_time": 1760444480,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 419001,
+        "num": 419001,
+        "word": "菜鸟驿站对取件未出库罚款100元",
+        "onboard_time": 1760436861,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362616,
+        "num": 362616,
+        "word": "女子1千元找不到人为临终父亲理发",
+        "onboard_time": 1760442561,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 270259,
+        "num": 270259,
+        "word": "日本3比2巴西",
+        "onboard_time": 1760447241,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248771,
+        "num": 248771,
+        "word": "iG对战T1",
+        "onboard_time": 1760427263,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 223482,
+        "num": 223482,
+        "word": "S15抽签",
+        "onboard_time": 1760444780,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1663592,
+        "num": 220332,
+        "word": "汪苏泷张碧晨音综对打",
+        "onboard_time": 1760445621,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 848028,
+        "num": 217353,
+        "word": "田曦薇 好奇怪有人比我更相信我",
+        "onboard_time": 1760444780,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 724022,
+        "num": 214832,
+        "word": "考研没把握就报清华北大",
+        "onboard_time": 1760444180,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 391102,
+        "num": 210806,
+        "word": "李沛恩合约",
+        "onboard_time": 1760448562,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318765,
+        "num": 205206,
+        "word": "加沙内战",
+        "onboard_time": 1760445501,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 298439,
+        "num": 201532,
+        "word": "徐璐 帮我修瘦一点",
+        "onboard_time": 1760445021,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199124,
+        "num": 199124,
+        "word": "于东来称胖东来账上有41亿",
+        "onboard_time": 1760447362,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125854,
+        "num": 199103,
+        "word": "凤戏阳 夏静炎",
+        "onboard_time": 1760441241,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79232,
+        "num": 198766,
+        "word": "现在就出发3定档节奏",
+        "onboard_time": 1760435241,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122395,
+        "num": 198187,
+        "word": "南北方的空调竟然不是一个物种",
+        "onboard_time": 1760449283,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376635,
+        "num": 197976,
+        "word": "金价银价跳水",
+        "onboard_time": 1760423843,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 194714,
+        "num": 197766,
+        "word": "王楚钦vs松岛辉空",
+        "onboard_time": 1760448923,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197468,
+        "num": 197468,
+        "word": "周传雄和女儿同台好养眼",
+        "onboard_time": 1760448982,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196083,
+        "num": 196083,
+        "word": "张馨予家里已经生了100多条小鱼了",
+        "onboard_time": 1760426903,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194346,
+        "num": 194346,
+        "word": "Jiejie说iG已经打得很好了",
+        "onboard_time": 1760447842,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192639,
+        "num": 192639,
+        "word": "头发尽量不要洗得太勤",
+        "onboard_time": 1760429542,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187909,
+        "num": 187909,
+        "word": "刘亦菲十月行程",
+        "onboard_time": 1760448621,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177297,
+        "num": 185640,
+        "word": "特朗普改口称是想帮中国",
+        "onboard_time": 1760447602,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185497,
+        "num": 185497,
+        "word": "陈都灵身上的飘带20多斤",
+        "onboard_time": 1760434161,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178509,
+        "num": 178509,
+        "word": "iG回家",
+        "onboard_time": 1760442982,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178263,
+        "num": 178263,
+        "word": "廖振珽11比0陈颢桦",
+        "onboard_time": 1760449283,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143019,
+        "num": 143019,
+        "word": "女主播每天播12小时替榜一还钱",
+        "onboard_time": 1760444720,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139326,
+        "num": 139326,
+        "word": "吃螃蟹禁忌一次性看完",
+        "onboard_time": 1760448923,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 119611,
+        "num": 136472,
+        "word": "大龄公务员也有晋升希望",
+        "onboard_time": 1760447842,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135460,
+        "num": 135460,
+        "word": "国考",
+        "onboard_time": 1760448022,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124673,
+        "num": 124673,
+        "word": "昆凌谈好身材秘诀就是不吃",
+        "onboard_time": 1760441660,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122739,
+        "num": 122739,
+        "word": "朱丹8岁女儿设计的沙发在卢浮宫展出",
+        "onboard_time": 1760437940,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121414,
+        "num": 121414,
+        "word": "阳澄湖大闸蟹今年是淹死了吗",
+        "onboard_time": 1760430621,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116709,
+        "num": 116709,
+        "word": "Wei什么",
+        "onboard_time": 1760440102,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107327,
+        "num": 107327,
+        "word": "卢昱晓新剧你是我的神",
+        "onboard_time": 1760447722,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102741,
+        "num": 102741,
+        "word": "可以买一个给父母添乱",
+        "onboard_time": 1760446640,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102306,
+        "num": 102306,
+        "word": "TheShy在干啥",
+        "onboard_time": 1760432783,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95056,
+        "num": 95056,
+        "word": "金价狂飙淘金工具卖爆了",
+        "onboard_time": 1760446280,
+        "rank": 42,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 7460,
+        "num": 91825,
+        "word": "医护人员投诉白天忙救人晚上要背稿",
+        "onboard_time": 1760448262,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70933,
+        "num": 91382,
+        "word": "京东11.11真的包了一辆高铁",
+        "onboard_time": 1760443702,
+        "rank": 44,
+        "category": "互联网,体育"
+      },
+      {
+        "raw_hot": 91151,
+        "num": 91151,
+        "word": "法拉利新电车被重庆人先坐上了",
+        "onboard_time": 1760445981,
+        "rank": 45,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 88088,
+        "num": 88088,
+        "word": "S15赛程",
+        "onboard_time": 1760449583,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86451,
+        "num": 86451,
+        "word": "史森明手气",
+        "onboard_time": 1760446941,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41391,
+        "num": 85739,
+        "word": "中国手握稀土一招制敌",
+        "onboard_time": 1760448082,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85704,
+        "num": 85704,
+        "word": "GALA首次无缘八强",
+        "onboard_time": 1760446041,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程上每位妇女都是主角#"
+    }
+  }
+}

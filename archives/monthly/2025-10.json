@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760448955325,
+  "endTime": 1760449660219,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -379,6 +379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1663592,
+      "num": 253551,
+      "word": "汪苏泷张碧晨音综对打",
+      "onboard_time": 1760445621,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1655850,
       "num": 1655850,
       "word": "景区回应张继科落水",
@@ -537,14 +545,6 @@
       "onboard_time": 1759840824,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1485622,
-      "num": 253551,
-      "word": "汪苏泷张碧晨音综对打",
-      "onboard_time": 1760445621,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 1475503,
@@ -2155,6 +2155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 848028,
+      "num": 253409,
+      "word": "田曦薇 好奇怪有人比我更相信我",
+      "onboard_time": 1760444780,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 847862,
       "num": 1082184,
       "word": "黄金",
@@ -2811,6 +2819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 724022,
+      "num": 252731,
+      "word": "考研没把握就报清华北大",
+      "onboard_time": 1760444180,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 721830,
       "num": 1115492,
       "word": "9月的工资不用打给我了",
@@ -2985,14 +3001,6 @@
       "onboard_time": 1760367802,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 697014,
-      "num": 253409,
-      "word": "田曦薇 好奇怪有人比我更相信我",
-      "onboard_time": 1760444780,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 695264,
@@ -3747,6 +3755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 617066,
+      "num": 617066,
+      "word": "香港家庭雇的印尼女佣竟是富家女",
+      "onboard_time": 1760444720,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 616990,
       "num": 616990,
       "word": "王楚钦vs松岛辉空",
@@ -3761,14 +3777,6 @@
       "onboard_time": 1759658843,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 616101,
-      "num": 616101,
-      "word": "香港家庭雇的印尼女佣竟是富家女",
-      "onboard_time": 1760444720,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 616055,
@@ -4009,6 +4017,14 @@
       "onboard_time": 1759496541,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 594772,
+      "num": 594772,
+      "word": "解清帅举办婚礼一天后奶奶离世",
+      "onboard_time": 1760448201,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 594717,
@@ -4729,14 +4745,6 @@
       "onboard_time": 1760274261,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 536862,
-      "num": 252731,
-      "word": "考研没把握就报清华北大",
-      "onboard_time": 1760444180,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 536624,
@@ -6315,6 +6323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 436246,
+      "num": 436246,
+      "word": "意外运到美国的中国小猫已恢复健康",
+      "onboard_time": 1760444480,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 435808,
       "num": 225469,
       "word": "相关部门回应天府大道汽车起火",
@@ -7043,14 +7059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 395967,
-      "num": 395967,
-      "word": "意外运到美国的中国小猫已恢复健康",
-      "onboard_time": 1760444480,
-      "rank": 8,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 395717,
       "num": 395717,
       "word": "美军阅兵方阵没有一个动作是一样的",
@@ -7137,6 +7145,14 @@
       "onboard_time": 1760322499,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391102,
+      "num": 210806,
+      "word": "李沛恩合约",
+      "onboard_time": 1760448562,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 390999,
@@ -9363,6 +9379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 298439,
+      "num": 252019,
+      "word": "徐璐 帮我修瘦一点",
+      "onboard_time": 1760445021,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 297963,
       "num": 180544,
       "word": "李一桐不要老叫我妈妈",
@@ -10363,14 +10387,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 268432,
-      "num": 268432,
-      "word": "解清帅举办婚礼一天后奶奶离世",
-      "onboard_time": 1760448201,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 268368,
       "num": 268368,
       "word": "我国有望2030年用核聚变发电",
@@ -10929,14 +10945,6 @@
       "onboard_time": 1760015842,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 252019,
-      "num": 252019,
-      "word": "徐璐 帮我修瘦一点",
-      "onboard_time": 1760445021,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 251998,
@@ -13651,20 +13659,20 @@
       "category": "演出,民生新闻"
     },
     {
+      "raw_hot": 199124,
+      "num": 199462,
+      "word": "于东来称胖东来账上有41亿",
+      "onboard_time": 1760447362,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199116,
       "num": 199116,
       "word": "你们快哄哄张杰吧",
       "onboard_time": 1760075361,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 198992,
-      "num": 198992,
-      "word": "李沛恩合约",
-      "onboard_time": 1760448562,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 198942,
@@ -13785,6 +13793,14 @@
       "onboard_time": 1759978159,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 197468,
+      "num": 197468,
+      "word": "周传雄和女儿同台好养眼",
+      "onboard_time": 1760448982,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 197458,
@@ -13945,14 +13961,6 @@
       "onboard_time": 1759304180,
       "rank": 27,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 196248,
-      "num": 199462,
-      "word": "于东来称胖东来账上有41亿",
-      "onboard_time": 1760447362,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 196228,
@@ -14137,6 +14145,14 @@
       "onboard_time": 1760103082,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 194346,
+      "num": 194346,
+      "word": "Jiejie说iG已经打得很好了",
+      "onboard_time": 1760447842,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 194324,
@@ -14841,6 +14857,14 @@
       "onboard_time": 1759916841,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187909,
+      "num": 187909,
+      "word": "刘亦菲十月行程",
+      "onboard_time": 1760448621,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 187577,
@@ -15761,6 +15785,14 @@
       "onboard_time": 1760152702,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 178263,
+      "num": 178263,
+      "word": "廖振珽11比0陈颢桦",
+      "onboard_time": 1760449283,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 178234,
@@ -21323,6 +21355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139326,
+      "num": 139326,
+      "word": "吃螃蟹禁忌一次性看完",
+      "onboard_time": 1760448923,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 139315,
       "num": 139315,
       "word": "人人人人广州塔人人人人",
@@ -24059,14 +24099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127256,
-      "num": 127256,
-      "word": "吃螃蟹禁忌一次性看完",
-      "onboard_time": 1760448923,
-      "rank": 32,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 127214,
       "num": 148579,
       "word": "有偿带人进山姆5元一个人头",
@@ -24481,14 +24513,6 @@
       "onboard_time": 1759668203,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125687,
-      "num": 125687,
-      "word": "刘亦菲十月行程",
-      "onboard_time": 1760448621,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 125663,
@@ -25371,14 +25395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122476,
-      "num": 122476,
-      "word": "Jiejie说iG已经打得很好了",
-      "onboard_time": 1760447842,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 122475,
       "num": 122475,
       "word": "一诺不管在哪里我们未来见",
@@ -25409,6 +25425,14 @@
       "onboard_time": 1759815982,
       "rank": 43,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 122395,
+      "num": 198187,
+      "word": "南北方的空调竟然不是一个物种",
+      "onboard_time": 1760449283,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122362,
@@ -26089,6 +26113,14 @@
       "onboard_time": 1759287199,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 119611,
+      "num": 202238,
+      "word": "大龄公务员也有晋升希望",
+      "onboard_time": 1760447842,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119605,
@@ -31803,6 +31835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102741,
+      "num": 102741,
+      "word": "可以买一个给父母添乱",
+      "onboard_time": 1760446640,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102724,
       "num": 102724,
       "word": "月饼界的爱马仕一粒售价40元",
@@ -32313,14 +32353,6 @@
       "onboard_time": 1759291641,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 101283,
-      "num": 101283,
-      "word": "可以买一个给父母添乱",
-      "onboard_time": 1760446640,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 101185,
@@ -34331,6 +34363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95056,
+      "num": 107546,
+      "word": "金价狂飙淘金工具卖爆了",
+      "onboard_time": 1760446280,
+      "rank": 39,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 95033,
       "num": 105346,
       "word": "青海门源1名徒步者失温高反遇难",
@@ -35523,14 +35563,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 91639,
-      "num": 202238,
-      "word": "大龄公务员也有晋升希望",
-      "onboard_time": 1760447842,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91609,
       "num": 91609,
       "word": "王耀庆贾静雯复刻35年前旧照",
@@ -36657,6 +36689,14 @@
       "onboard_time": 1759648999,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88088,
+      "num": 88088,
+      "word": "S15赛程",
+      "onboard_time": 1760449583,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 88078,
@@ -41595,14 +41635,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 64214,
-      "num": 107546,
-      "word": "金价狂飙淘金工具卖爆了",
-      "onboard_time": 1760446280,
-      "rank": 39,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 64132,
       "num": 67463,
       "word": "有这个全自动洗头机你愿意天天洗头吗",
@@ -44003,6 +44035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41391,
+      "num": 121269,
+      "word": "中国手握稀土一招制敌",
+      "onboard_time": 1760448082,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41325,
       "num": 41325,
       "word": "王力宏鹿晗隔老远就开始弯腰",
@@ -44697,14 +44737,6 @@
       "onboard_time": 1759552821,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 34664,
-      "num": 121269,
-      "word": "中国手握稀土一招制敌",
-      "onboard_time": 1760448082,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34636,
