@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760430765073,
+  "endTime": 1760431543398,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -259,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1784384,
+      "num": 1784384,
+      "word": "国考 无岗",
+      "onboard_time": 1760427022,
+      "rank": 28,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1781382,
       "num": 1781382,
       "word": "肯德基保密54年的炸鸡配方将被公开",
@@ -441,14 +449,6 @@
       "onboard_time": 1760162060,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1580976,
-      "num": 1580976,
-      "word": "国考 无岗",
-      "onboard_time": 1760427022,
-      "rank": 28,
-      "category": "教育"
     },
     {
       "raw_hot": 1574027,
@@ -1883,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 894082,
+      "num": 894082,
+      "word": "iG对战T1",
+      "onboard_time": 1760427263,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 889597,
       "num": 1142335,
       "word": "您已进入鸡排大道请打开您的塑料袋",
@@ -2099,6 +2107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 850108,
+      "num": 706978,
+      "word": "金价银价跳水",
+      "onboard_time": 1760423843,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 849435,
       "num": 246030,
       "word": "陈赫问张子萱需不需要打码",
@@ -2169,22 +2185,6 @@
       "onboard_time": 1759759762,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 841070,
-      "num": 841070,
-      "word": "iG对战T1",
-      "onboard_time": 1760427263,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 840835,
-      "num": 706978,
-      "word": "金价银价跳水",
-      "onboard_time": 1760423843,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 839994,
@@ -2507,6 +2507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 782028,
+      "num": 236477,
+      "word": "张馨予家里已经生了100多条小鱼了",
+      "onboard_time": 1760426903,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 781950,
       "num": 229473,
       "word": "王青 不要因为我影响冯建宇",
@@ -2737,14 +2745,6 @@
       "onboard_time": 1760091261,
       "rank": 21,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 734912,
-      "num": 216267,
-      "word": "张馨予家里已经生了100多条小鱼了",
-      "onboard_time": 1760426903,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 734082,
@@ -5843,6 +5843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 453472,
+      "num": 453472,
+      "word": "德基广场会员厕所 年消费20万可用",
+      "onboard_time": 1760428282,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 453444,
       "num": 164607,
       "word": "K签证",
@@ -6089,6 +6097,14 @@
       "onboard_time": 1759732040,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 441905,
+      "num": 232623,
+      "word": "申裕斌摸孙颖莎肚子",
+      "onboard_time": 1760429660,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 441877,
@@ -6448,6 +6464,14 @@
       "word": "儿子考61分全家沸腾下馆子庆祝",
       "onboard_time": 1760325443,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422737,
+      "num": 422737,
+      "word": "在南太行拍照坠崖大学生确认身亡",
+      "onboard_time": 1760429061,
+      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -7499,14 +7523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 365888,
-      "num": 365888,
-      "word": "在南太行拍照坠崖大学生确认身亡",
-      "onboard_time": 1760429061,
-      "rank": 3,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 365767,
       "num": 202330,
       "word": "霉霉开撕查理",
@@ -7737,6 +7753,14 @@
       "onboard_time": 1759965019,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 352933,
+      "num": 352933,
+      "word": "驴友队在玉函山断崖下发现苏阳阳遗体",
+      "onboard_time": 1760428522,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 352017,
@@ -8835,6 +8859,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 308872,
+      "num": 308872,
+      "word": "赴山海剧本穿帮好出圈",
+      "onboard_time": 1760430201,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308611,
       "num": 308611,
       "word": "王楚钦强大的意志品质",
@@ -8968,14 +9000,6 @@
       "word": "台独水军指挥官照片",
       "onboard_time": 1760052258,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 302125,
-      "num": 302125,
-      "word": "德基广场会员厕所 年消费20万可用",
-      "onboard_time": 1760428282,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -9145,6 +9169,14 @@
       "onboard_time": 1759551681,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 297939,
+      "num": 212397,
+      "word": "头发尽量不要洗得太勤",
+      "onboard_time": 1760429542,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 297327,
@@ -9377,14 +9409,6 @@
       "onboard_time": 1759233380,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 290335,
-      "num": 215333,
-      "word": "申裕斌摸孙颖莎肚子",
-      "onboard_time": 1760429660,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 290329,
@@ -9664,14 +9688,6 @@
       "word": "有人出发2天还没到目的地",
       "onboard_time": 1759395381,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 281997,
-      "num": 281997,
-      "word": "驴友队在玉函山断崖下发现苏阳阳遗体",
-      "onboard_time": 1760428522,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -10433,6 +10449,14 @@
       "onboard_time": 1759974559,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 259935,
+      "num": 212691,
+      "word": "后羿新皮肤神树通天",
+      "onboard_time": 1760430681,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 259783,
@@ -11243,6 +11267,14 @@
       "category": "辟谣/通报,演出"
     },
     {
+      "raw_hot": 238283,
+      "num": 189684,
+      "word": "阳澄湖大闸蟹今年是淹死了吗",
+      "onboard_time": 1760430621,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238001,
       "num": 231581,
       "word": "管乐寸头",
@@ -11787,6 +11819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 225950,
+      "num": 225950,
+      "word": "天猫团队 灵隐寺",
+      "onboard_time": 1760429961,
+      "rank": 32,
+      "category": "互联网,幽默"
+    },
+    {
       "raw_hot": 225488,
       "num": 411415,
       "word": "JDG战胜KSG",
@@ -11881,14 +11921,6 @@
       "onboard_time": 1759380503,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 223118,
-      "num": 212691,
-      "word": "后羿新皮肤神树通天",
-      "onboard_time": 1760430681,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 223059,
@@ -12179,14 +12211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216551,
-      "num": 216551,
-      "word": "赴山海剧本穿帮好出圈",
-      "onboard_time": 1760430201,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 216531,
       "num": 163463,
       "word": "余承恩被外甥女叫爸爸吓出冷汗",
@@ -12377,14 +12401,6 @@
       "onboard_time": 1759331481,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212397,
-      "num": 212397,
-      "word": "头发尽量不要洗得太勤",
-      "onboard_time": 1760429542,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 212278,
@@ -14331,14 +14347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189684,
-      "num": 189684,
-      "word": "阳澄湖大闸蟹今年是淹死了吗",
-      "onboard_time": 1760430621,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 189666,
       "num": 189666,
       "word": "诺贝尔化学奖",
@@ -14369,6 +14377,14 @@
       "onboard_time": 1759308681,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 189457,
+      "num": 189457,
+      "word": "警方通报49岁男子医院坠亡",
+      "onboard_time": 1760429781,
+      "rank": 36,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 189425,
@@ -16235,14 +16251,6 @@
       "category": "体育,体育"
     },
     {
-      "raw_hot": 170874,
-      "num": 170874,
-      "word": "天猫团队 灵隐寺",
-      "onboard_time": 1760429961,
-      "rank": 32,
-      "category": "互联网,幽默"
-    },
-    {
       "raw_hot": 170869,
       "num": 125440,
       "word": "王楚钦孙颖莎赛前对练",
@@ -17555,6 +17563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 161005,
+      "num": 161005,
+      "word": "中央巡视组原副部级许传智被查",
+      "onboard_time": 1760429961,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 160951,
       "num": 160951,
       "word": "孙红雷左手张艺兴右手刘宇宁",
@@ -17969,6 +17985,14 @@
       "onboard_time": 1759672165,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157693,
+      "num": 157693,
+      "word": "LPL",
+      "onboard_time": 1760430681,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 157663,
@@ -19121,14 +19145,6 @@
       "onboard_time": 1760422641,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149322,
-      "num": 149322,
-      "word": "警方通报49岁男子医院坠亡",
-      "onboard_time": 1760429781,
-      "rank": 36,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 149315,
@@ -21881,6 +21897,14 @@
       "onboard_time": 1759373358,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134702,
+      "num": 134702,
+      "word": "3名小孩哥拾金不昧民警送玩具",
+      "onboard_time": 1760430921,
+      "rank": 37,
+      "category": "正能量"
     },
     {
       "raw_hot": 134690,
@@ -25483,6 +25507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119632,
+      "num": 119632,
+      "word": "亚太市场集体跳水拖累A股",
+      "onboard_time": 1760431041,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 119620,
       "num": 163440,
       "word": "面部八段锦让你气色变好",
@@ -27171,6 +27203,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 113736,
+      "num": 207827,
+      "word": "入青云我承认之前声音大了点",
+      "onboard_time": 1760428823,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113727,
       "num": 111533,
       "word": "机构称去年发13万篇论文挣8000万",
@@ -27521,14 +27561,6 @@
       "onboard_time": 1760087242,
       "rank": 40,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 112659,
-      "num": 112659,
-      "word": "LPL",
-      "onboard_time": 1760430681,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 112617,
@@ -30051,14 +30083,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 105908,
-      "num": 105908,
-      "word": "中央巡视组原副部级许传智被查",
-      "onboard_time": 1760429961,
-      "rank": 48,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 105906,
       "num": 105906,
       "word": "全红婵发跳水动态",
@@ -30177,6 +30201,14 @@
       "onboard_time": 1759557621,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105695,
+      "num": 105695,
+      "word": "上班暂停 看iG",
+      "onboard_time": 1760431342,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 105668,
@@ -30481,14 +30513,6 @@
       "onboard_time": 1759485081,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104679,
-      "num": 190869,
-      "word": "入青云我承认之前声音大了点",
-      "onboard_time": 1760428823,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 104672,
@@ -32617,6 +32641,14 @@
       "onboard_time": 1759822581,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97899,
+      "num": 97899,
+      "word": "全球市场跳水原因",
+      "onboard_time": 1760431461,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 97850,
@@ -38043,6 +38075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80250,
+      "num": 127993,
+      "word": "孙颖莎为王曼昱加油",
+      "onboard_time": 1760430741,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80144,
       "num": 131120,
       "word": "90后女律师偷30多次蛋糕盒饭获刑",
@@ -39291,6 +39331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73778,
+      "num": 121890,
+      "word": "6人开奔驰去餐馆消费370元逃单",
+      "onboard_time": 1760430201,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73744,
       "num": 73744,
       "word": "白宫官员称已开始裁员",
@@ -39875,6 +39923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69969,
+      "num": 216217,
+      "word": "京东秒杀",
+      "onboard_time": 1760425881,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 69960,
       "num": 69960,
       "word": "吴磊费德勒网球对打",
@@ -40323,14 +40379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66691,
-      "num": 121890,
-      "word": "6人开奔驰去餐馆消费370元逃单",
-      "onboard_time": 1760430201,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 66635,
       "num": 66635,
       "word": "iG对战海报",
@@ -40361,14 +40409,6 @@
       "onboard_time": 1759658542,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66137,
-      "num": 121229,
-      "word": "孙颖莎为王曼昱加油",
-      "onboard_time": 1760430741,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 66134,
@@ -40675,14 +40715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 63933,
-      "num": 216217,
-      "word": "京东秒杀",
-      "onboard_time": 1760425881,
-      "rank": 10,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 63824,
       "num": 179015,
       "word": "荣耀Magic8夜神强上天",
@@ -40812,7 +40844,7 @@
     },
     {
       "raw_hot": 62694,
-      "num": 120515,
+      "num": 127877,
       "word": "假期的正确关闭方式",
       "onboard_time": 1760430681,
       "rank": 42,
@@ -41473,6 +41505,14 @@
       "onboard_time": 1760173520,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55778,
+      "num": 214567,
+      "word": "荣耀高管回应Magic8跑分",
+      "onboard_time": 1760429121,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 55758,
@@ -42171,14 +42211,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 49985,
-      "num": 214567,
-      "word": "荣耀高管回应Magic8跑分",
-      "onboard_time": 1760429121,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 49932,
       "num": 79683,
       "word": "17岁学徒工杀人疑云",
@@ -42456,6 +42488,14 @@
       "word": "风波后有西贝成商场最冷清连锁餐厅",
       "onboard_time": 1759262474,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47177,
+      "num": 215158,
+      "word": "业主私挖300平地下室为何无人制止",
+      "onboard_time": 1760429722,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -43331,6 +43371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37444,
+      "num": 205643,
+      "word": "广西一村涨水最高至15米",
+      "onboard_time": 1760431281,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37430,
       "num": 74849,
       "word": "医院出口闸机 欢迎再次光临",
@@ -43673,14 +43721,6 @@
       "onboard_time": 1760251041,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 34347,
-      "num": 215158,
-      "word": "业主私挖300平地下室为何无人制止",
-      "onboard_time": 1760429722,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34285,
@@ -44491,6 +44531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25959,
+      "num": 651024,
+      "word": "第二届世界中国学大会",
+      "onboard_time": 1760430201,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25896,
       "num": 31938,
       "word": "中秋奇妙游",
@@ -45051,14 +45099,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 18639,
-      "num": 581285,
-      "word": "第二届世界中国学大会",
-      "onboard_time": 1760430201,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18621,
       "num": 101261,
       "word": "十个勤天新专辑",
@@ -45425,6 +45465,14 @@
       "onboard_time": 1759268054,
       "rank": 45,
       "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 13789,
+      "num": 128802,
+      "word": "聋人吵架闭眼算不算冷战",
+      "onboard_time": 1760431402,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 13612,
