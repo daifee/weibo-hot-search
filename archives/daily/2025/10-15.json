@@ -1,6 +1,6 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760469702564,
+  "endTime": 1760470635626,
   "band_list": [
     {
       "raw_hot": 1270480,
@@ -379,6 +379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 60063,
+      "num": 60063,
+      "word": "官方介入调查为人民服务地标被破坏",
+      "onboard_time": 1760465176,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59929,
       "num": 95965,
       "word": "王楚钦11比9松岛辉空",
@@ -473,14 +481,6 @@
       "onboard_time": 1760441241,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41348,
-      "num": 41348,
-      "word": "官方介入调查为人民服务地标被破坏",
-      "onboard_time": 1760465176,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39459,

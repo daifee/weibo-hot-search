@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/15 00:32:16 ~ 2025/10/15 03:21:42
+本榜单时间：2025/10/15 00:32:16 ~ 2025/10/15 03:37:15
 </p>
 </blockquote>
 <p>
@@ -297,6 +297,12 @@ Rookie赛后发博（热度：65891）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E5%9C%B0%E6%A0%87%E8%A2%AB%E7%A0%B4%E5%9D%8F%23" target="weibo">
+官方介入调查为人民服务地标被破坏（热度：60063）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A611%E6%AF%949%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA%23" target="weibo">
 王楚钦11比9松岛辉空（热度：59929）
 </a>
@@ -365,12 +371,6 @@ iG告别S15（热度：53918）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%A4%E6%88%8F%E9%98%B3%20%E5%A4%8F%E9%9D%99%E7%82%8E%23" target="weibo">
 凤戏阳 夏静炎（热度：42672）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E5%9C%B0%E6%A0%87%E8%A2%AB%E7%A0%B4%E5%9D%8F%23" target="weibo">
-官方介入调查为人民服务地标被破坏（热度：41348）
 </a>
 </li>
 
