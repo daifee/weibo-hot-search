@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/14 16:45:43
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/14 17:29:02
 </p>
 </blockquote>
 <p>
@@ -305,6 +305,12 @@ K签（热度：2379627）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E6%B3%BD%E5%90%8E%E5%9B%9E%E5%BA%94%E5%AE%97%E9%A6%A5%E8%8E%89%E8%BE%9E%E8%81%8C%23" target="weibo">
 宗泽后回应宗馥莉辞职（热度：1639078）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iG%E5%AF%B9%E6%88%98T1%23" target="weibo">
+iG对战T1（热度：1638256）
 </a>
 </li>
 
@@ -939,6 +945,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E9%80%A0%E8%BD%A6%23" target="weibo">
+京东造车（热度：1091223）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%20%E8%A6%81%E7%88%86%E4%BA%86%23" target="weibo">
 华晨宇 要爆了（热度：1089802）
 </a>
@@ -1421,12 +1433,6 @@ Angelababy公主皇冠（热度：925479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8D%A1%E5%A3%B3%E5%8D%8A%E5%A4%A9%E8%B9%A6%E5%87%BA%E6%9D%A5%E4%B8%80%E5%8F%A5%E4%BB%96%E8%80%81%E5%A9%86%23" target="weibo">
 王楚钦卡壳半天蹦出来一句他老婆（热度：895011）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iG%E5%AF%B9%E6%88%98T1%23" target="weibo">
-iG对战T1（热度：894082）
 </a>
 </li>
 
@@ -2561,6 +2567,12 @@ JDG输越南队（热度：648751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E9%A6%96%E6%B3%A2%E9%98%B5%E5%AE%B9%23" target="weibo">
 央视中秋晚会首波阵容（热度：646755）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23TheShy%E5%9C%A8%E5%B9%B2%E5%95%A5%23" target="weibo">
+TheShy在干啥（热度：644110）
 </a>
 </li>
 
@@ -3999,6 +4011,12 @@ iPhone的一生要经历三次死亡（热度：494807）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B3%E8%A3%95%E6%96%8C%E6%91%B8%E5%AD%99%E9%A2%96%E8%8E%8E%E8%82%9A%E5%AD%90%23" target="weibo">
+申裕斌摸孙颖莎肚子（热度：490397）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E4%BB%8A%E5%A4%A9%E7%9A%84%E7%89%A9%E6%96%99%E6%9C%89%E7%82%B9%E5%A4%AA%E5%A4%9A%E4%BA%86%23" target="weibo">
 肖战今天的物料有点太多了（热度：489450）
 </a>
@@ -4247,6 +4265,12 @@ VaVa说自己分手是因为浪姐（热度：480031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%91%A9%E6%89%98%E8%BD%A6%E6%AD%BB%E4%BA%A1%E6%91%87%E6%91%86%E8%BD%A6%E4%B8%BB%E6%92%9E%E8%8A%B1%E5%9D%9B%E5%BD%93%E5%9C%BA%E8%BA%AB%E4%BA%A1%23" target="weibo">
 摩托车死亡摇摆车主撞花坛当场身亡（热度：471484）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8C%AB%E5%9B%A2%E9%98%9F%20%E7%81%B5%E9%9A%90%E5%AF%BA%23" target="weibo">
+天猫团队 灵隐寺（热度：471157）
 </a>
 </li>
 
@@ -4583,12 +4607,6 @@ B站崩了（热度：442971）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%20%E4%B8%8D%E8%A6%81%E9%97%AE%E4%BA%BA%E5%AE%B6%E8%BF%99%E7%A7%8D%E9%97%AE%E9%A2%98%23" target="weibo">
 王安宇 不要问人家这种问题（热度：442124）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B3%E8%A3%95%E6%96%8C%E6%91%B8%E5%AD%99%E9%A2%96%E8%8E%8E%E8%82%9A%E5%AD%90%23" target="weibo">
-申裕斌摸孙颖莎肚子（热度：441905）
 </a>
 </li>
 
@@ -4967,6 +4985,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%8A%AB%E6%97%A0%E9%97%B4%23" target="weibo">
 永劫无间（热度：416788）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%B3%E6%BE%84%E6%B9%96%E5%A4%A7%E9%97%B8%E8%9F%B9%E4%BB%8A%E5%B9%B4%E6%98%AF%E6%B7%B9%E6%AD%BB%E4%BA%86%E5%90%97%23" target="weibo">
+阳澄湖大闸蟹今年是淹死了吗（热度：416654）
 </a>
 </li>
 
@@ -5435,6 +5459,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E5%AE%9A%E4%BA%B2%E5%B7%AE15%E4%B8%87%E8%80%81%E6%9D%BF%E7%9B%B4%E6%8E%A5%E6%8B%BF20%E4%B8%87%23" target="weibo">
 员工定亲差15万老板直接拿20万（热度：378556）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B4%E5%8F%91%E5%B0%BD%E9%87%8F%E4%B8%8D%E8%A6%81%E6%B4%97%E5%BE%97%E5%A4%AA%E5%8B%A4%23" target="weibo">
+头发尽量不要洗得太勤（热度：378245）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ p图姐喊话黄俊捷（热度：342786）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E7%A7%B0%E4%BB%A5%E8%BD%A6%E8%BE%86EDR%E6%95%B0%E6%8D%AE%E9%80%9A%E5%91%8A%E4%B8%BA%E5%87%86%23" target="weibo">
 陈震称以车辆EDR数据通告为准（热度：342174）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E8%BA%AB%E5%85%BC%E4%B8%89%E9%A1%B9%E6%B6%88%E8%80%97%E8%B6%85%E5%87%BA%E8%87%AA%E5%B7%B1%E6%83%B3%E8%B1%A1%23" target="weibo">
-王楚钦说身兼三项消耗超出自己想象（热度：341741）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E8%A6%81%E5%8D%96%E5%95%A4%E9%85%92%E4%BA%86%23" target="weibo">
-蜜雪冰城要卖啤酒了（热度：341689）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%AF%B9%E8%99%9A%E5%B2%81%E7%9A%84%E8%A7%A3%E9%87%8A%E6%84%9F%E5%88%B0%E9%9C%87%E6%92%BC%23" target="weibo">
-第一次对虚岁的解释感到震撼（热度：341587）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%20%E6%88%91%E5%96%9C%E6%AC%A2%E5%AE%8B%E4%BA%9A%E8%BD%A9%23" target="weibo">
-小酒窝 我喜欢宋亚轩（热度：341175）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%A9%E5%B3%A5%E5%B5%98%E7%9B%B4%E6%92%AD%E8%AF%B4%E6%9C%80%E8%AE%A8%E5%8E%8C%E8%A3%85%E7%9A%84%E4%BA%BA%23" target="weibo">
-温峥嵘直播说最讨厌装的人（热度：341045）
 </a>
 </li>
 
