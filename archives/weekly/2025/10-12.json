@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760398607574,
+  "endTime": 1760406651693,
   "band_list": [
     {
       "raw_hot": 1688988,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 697579,
-      "num": 921612,
+      "num": 1091209,
       "word": "业主私挖300平地下室32户开裂",
       "onboard_time": 1760367802,
       "rank": 17,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 655728,
-      "num": 124364,
+      "num": 174159,
       "word": "宁静说明星私底下都不太联系",
       "onboard_time": 1760397317,
       "rank": 12,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 561040,
-      "num": 152224,
+      "num": 171338,
       "word": "14岁自闭症男孩坠楼妈妈崩溃大哭",
       "onboard_time": 1760369601,
       "rank": 18,
@@ -649,6 +649,14 @@
       "onboard_time": 1760274261,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 530795,
+      "num": 175241,
+      "word": "黄子韬十月十六号婚礼",
+      "onboard_time": 1760397678,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 527468,
@@ -828,7 +836,7 @@
     },
     {
       "raw_hot": 469044,
-      "num": 117813,
+      "num": 119830,
       "word": "女子踩指压板20分钟脚底喷血",
       "onboard_time": 1760397198,
       "rank": 10,
@@ -873,6 +881,14 @@
       "onboard_time": 1760240900,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 442736,
+      "num": 172776,
+      "word": "配音演员回应许我耀眼许妍配音",
+      "onboard_time": 1760401521,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 440859,
@@ -1179,6 +1195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 336143,
+      "num": 336143,
+      "word": "国考公告",
+      "onboard_time": 1760404820,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 335727,
       "num": 335727,
       "word": "法考",
@@ -1371,6 +1395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 293592,
+      "num": 293592,
+      "word": "1元奶茶低价内卷新法有规定",
+      "onboard_time": 1760404581,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 293591,
       "num": 293591,
       "word": "浙江一住户5楼空心菜垂1楼像瀑布",
@@ -1403,6 +1435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287016,
+      "num": 287016,
+      "word": "第一批追大奉的人嘴角压不住了",
+      "onboard_time": 1760369061,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 285991,
       "num": 285991,
       "word": "易烊千玺张天赐经常聚会",
@@ -1417,14 +1457,6 @@
       "onboard_time": 1760255541,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 283887,
-      "num": 215935,
-      "word": "第一批追大奉的人嘴角压不住了",
-      "onboard_time": 1760369061,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 282925,
@@ -1499,6 +1531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 268230,
+      "num": 268230,
+      "word": "国乒全员油头",
+      "onboard_time": 1760397619,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267805,
       "num": 248997,
       "word": "张晚意李沁还好生在和平年代",
@@ -1512,6 +1552,14 @@
       "word": "武汉一公厕旁花坛被贴上男士小便处",
       "onboard_time": 1760280141,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264306,
+      "num": 264306,
+      "word": "6省市一周雨雨雨",
+      "onboard_time": 1760404460,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -1833,6 +1881,14 @@
       "onboard_time": 1760361321,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 214662,
+      "num": 169327,
+      "word": "田曦薇28岁生日晒照",
+      "onboard_time": 1760401281,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 211341,
@@ -2219,14 +2275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174161,
-      "num": 121372,
-      "word": "黄子韬十月十六号婚礼",
-      "onboard_time": 1760397678,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173511,
       "num": 161187,
       "word": "韩七录返校",
@@ -2305,6 +2353,14 @@
       "onboard_time": 1760351721,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168023,
+      "num": 168023,
+      "word": "TheShy赛前发博",
+      "onboard_time": 1760401700,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 167880,
@@ -2425,6 +2481,14 @@
       "onboard_time": 1760259381,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160330,
+      "num": 118188,
+      "word": "建议久坐的人每天喝够水",
+      "onboard_time": 1760400561,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 159713,
@@ -2571,6 +2635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154025,
+      "num": 154025,
+      "word": "很少用震撼来形容一个手机壳",
+      "onboard_time": 1760404939,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 153938,
       "num": 153938,
       "word": "真实自然是未来影像的趋势吗",
@@ -2689,6 +2761,14 @@
       "onboard_time": 1760394074,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148618,
+      "num": 116914,
+      "word": "黄金白银飙涨原因",
+      "onboard_time": 1760404760,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 148349,
@@ -3209,6 +3289,14 @@
       "onboard_time": 1760256861,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127590,
+      "num": 116429,
+      "word": "被体制内大佬的工作留痕震撼到了",
+      "onboard_time": 1760397619,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 127557,
@@ -3747,6 +3835,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 115962,
+      "num": 115962,
+      "word": "苹果再向清华捐赠",
+      "onboard_time": 1760403380,
+      "rank": 26,
+      "category": "数码,互联网"
+    },
+    {
       "raw_hot": 115825,
       "num": 115825,
       "word": "王楚钦11比8霍戴伊",
@@ -3768,6 +3864,14 @@
       "word": "解清帅婚礼约100桌",
       "onboard_time": 1760235560,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115387,
+      "num": 115387,
+      "word": "男子到山东认亲问路问到亲叔叔",
+      "onboard_time": 1760403141,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -3809,6 +3913,14 @@
       "onboard_time": 1760264181,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 114626,
+      "num": 114626,
+      "word": "杭州你冷得让我陌生",
+      "onboard_time": 1760402421,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114486,
@@ -4275,6 +4387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105263,
+      "num": 105263,
+      "word": "苹果官网确认iPhoneAir非合约机",
+      "onboard_time": 1760406140,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 105125,
       "num": 105125,
       "word": "王影璐扮鬼幻视袁湘琴",
@@ -4297,6 +4417,14 @@
       "onboard_time": 1760241260,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104471,
+      "num": 104471,
+      "word": "爸爸求你了谁懂这句话",
+      "onboard_time": 1760401223,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104433,
@@ -4433,6 +4561,14 @@
       "onboard_time": 1760358141,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101733,
+      "num": 101733,
+      "word": "同花顺原唱认可陈浚铭翻唱",
+      "onboard_time": 1760405840,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 101732,
@@ -4643,6 +4779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97724,
+      "num": 97724,
+      "word": "中方敦促美方尽快纠正错误做法",
+      "onboard_time": 1760406079,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 97329,
       "num": 97329,
       "word": "又一地提前供暖",
@@ -4673,14 +4817,6 @@
       "onboard_time": 1760240719,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 96033,
-      "num": 96033,
-      "word": "国乒全员油头",
-      "onboard_time": 1760397619,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 95875,
@@ -4803,6 +4939,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 93714,
+      "num": 93714,
+      "word": "中方支持共同清算殖民主义危害",
+      "onboard_time": 1760405240,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93540,
       "num": 108052,
       "word": "明星AI擦边内容成流量密码",
@@ -4875,6 +5019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92379,
+      "num": 92379,
+      "word": "徐璐 人间水蜜桃",
+      "onboard_time": 1760398278,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 92320,
       "num": 92320,
       "word": "张博恒第三次出征世锦赛",
@@ -4897,6 +5049,14 @@
       "onboard_time": 1760196922,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92183,
+      "num": 92183,
+      "word": "金价首次站上4130美元",
+      "onboard_time": 1760402661,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 91864,
@@ -4947,6 +5107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91098,
+      "num": 91098,
+      "word": "小狗在街上认出妈妈时的反应",
+      "onboard_time": 1760397619,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 91097,
       "num": 91097,
       "word": "外国女子在广州被外籍男子骚扰",
@@ -4977,6 +5145,22 @@
       "onboard_time": 1760344101,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91000,
+      "num": 91000,
+      "word": "唐嫣新剧大事很妙",
+      "onboard_time": 1760400260,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 90695,
+      "num": 90695,
+      "word": "一只猫跑出了一头野猪的气势",
+      "onboard_time": 1760402181,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 90635,
@@ -5195,6 +5379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87565,
+      "num": 87565,
+      "word": "53万人口小国进世界杯了",
+      "onboard_time": 1760403441,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87535,
       "num": 87535,
       "word": "VOGUE盛典52位嘉宾",
@@ -5289,6 +5481,14 @@
       "onboard_time": 1760356340,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 85513,
+      "num": 85513,
+      "word": "建议大家去过规律且有支点的生活",
+      "onboard_time": 1760405539,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 85406,
@@ -5675,6 +5875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79681,
+      "num": 79681,
+      "word": "美星舰第11次试飞",
+      "onboard_time": 1760400381,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 79610,
       "num": 79610,
       "word": "库房管理员网上卖国家秘密",
@@ -5697,14 +5905,6 @@
       "onboard_time": 1760240600,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 79466,
-      "num": 68948,
-      "word": "被体制内大佬的工作留痕震撼到了",
-      "onboard_time": 1760397619,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 79419,
@@ -6035,6 +6235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 72976,
+      "num": 72976,
+      "word": "官方通报鸭腿套餐发现有活蛆",
+      "onboard_time": 1760406079,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72645,
       "num": 82336,
       "word": "徐璐好美啊",
@@ -6083,6 +6291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71345,
+      "num": 71345,
+      "word": "小伙用20吨石头修复为人民服务标语",
+      "onboard_time": 1760404339,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71330,
       "num": 95520,
       "word": "生花换乘恋爱 换着换着就合适了",
@@ -6099,12 +6315,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 71122,
-      "num": 68838,
-      "word": "小狗在街上认出妈妈时的反应",
-      "onboard_time": 1760397619,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 71024,
+      "num": 71024,
+      "word": "减肥真的要发狠",
+      "onboard_time": 1760397678,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 71014,
@@ -6153,14 +6369,6 @@
       "onboard_time": 1760283740,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68991,
-      "num": 68991,
-      "word": "减肥真的要发狠",
-      "onboard_time": 1760397678,
-      "rank": 39,
-      "category": "运动健身"
     },
     {
       "raw_hot": 68528,
@@ -6483,6 +6691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56341,
+      "num": 313020,
+      "word": "网警带你看网恋女友杀熟局",
+      "onboard_time": 1760403501,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55758,
       "num": 59683,
       "word": "世界最高峰遇上日落悬日",
@@ -6609,14 +6825,6 @@
       "onboard_time": 1760310438,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 50519,
-      "num": 50519,
-      "word": "徐璐 人间水蜜桃",
-      "onboard_time": 1760398278,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 49864,
