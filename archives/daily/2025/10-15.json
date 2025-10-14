@@ -1,6 +1,6 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760470635626,
+  "endTime": 1760473742478,
   "band_list": [
     {
       "raw_hot": 1270480,
@@ -291,6 +291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 76586,
+      "num": 76586,
+      "word": "官方介入调查为人民服务地标被破坏",
+      "onboard_time": 1760465176,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75842,
       "num": 96388,
       "word": "弄简晒李沛恩解约案一审判决书",
@@ -377,14 +385,6 @@
       "onboard_time": 1760457621,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 60063,
-      "num": 60063,
-      "word": "官方介入调查为人民服务地标被破坏",
-      "onboard_time": 1760465176,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59929,
@@ -561,6 +561,22 @@
       "onboard_time": 1760467215,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 16762,
+      "num": 16989,
+      "word": "中方对稀土采取出口管制措施正当合法",
+      "onboard_time": 1760471114,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 11957,
+      "num": 16985,
+      "word": "49岁男子医院坠亡排除刑案",
+      "onboard_time": 1760473333,
+      "rank": 49,
+      "category": "辟谣/通报"
     }
   ],
   "hotgov_list": [
