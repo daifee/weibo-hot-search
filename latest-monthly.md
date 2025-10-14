@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/15 00:47:18
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/15 01:21:51
 </p>
 </blockquote>
 <p>
@@ -4491,6 +4491,12 @@ TaylorSwift忘了通知EdSheeran订婚（热度：461697）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92%23" target="weibo">
+王皓脸色铁青（热度：458928）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%86%A0%E5%86%9B%23" target="weibo">
 王曼昱冠军（热度：458804）
 </a>
@@ -6005,12 +6011,6 @@ S15抽签（热度：360276）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%B5%E7%AA%81%E6%B3%89%E8%83%96%E9%94%A6%E9%B2%A4%E7%97%85%E9%87%8D%23" target="weibo">
 趵突泉胖锦鲤病重（热度：353961）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A2%84%E5%88%B6%E6%8B%89%E9%9D%A2%23" target="weibo">
-日本预制拉面（热度：353663）
 </a>
 </li>
 
