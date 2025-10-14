@@ -1,0 +1,410 @@
+{
+  "runTime": 1760434919597,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1211769,
+        "num": 1211769,
+        "word": "iG对战T1",
+        "onboard_time": 1760427263,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 470290,
+        "num": 470290,
+        "word": "TheShy在干啥",
+        "onboard_time": 1760432783,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33750,
+        "num": 463722,
+        "word": "第二届世界中国学大会",
+        "onboard_time": 1760430201,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462207,
+        "num": 462207,
+        "word": "天猫团队 灵隐寺",
+        "onboard_time": 1760429961,
+        "rank": 3,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 424502,
+        "num": 424502,
+        "word": "申裕斌摸孙颖莎肚子",
+        "onboard_time": 1760429660,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338034,
+        "num": 338034,
+        "word": "中央巡视组原副部级许传智被查",
+        "onboard_time": 1760429961,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 850685,
+        "num": 337064,
+        "word": "京东造车",
+        "onboard_time": 1760432242,
+        "rank": 6,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 282487,
+        "num": 329233,
+        "word": "赴山海剧本穿帮好出圈",
+        "onboard_time": 1760430201,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200378,
+        "num": 326215,
+        "word": "入青云我承认之前声音大了点",
+        "onboard_time": 1760428823,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175341,
+        "num": 320412,
+        "word": "京东汽车",
+        "onboard_time": 1760434161,
+        "rank": 9,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 533627,
+        "num": 318303,
+        "word": "阳澄湖大闸蟹今年是淹死了吗",
+        "onboard_time": 1760430621,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315391,
+        "num": 315391,
+        "word": "张馨予家里已经生了100多条小鱼了",
+        "onboard_time": 1760426903,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285773,
+        "num": 285773,
+        "word": "董璇 我办婚礼了吗",
+        "onboard_time": 1760415082,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232139,
+        "num": 232139,
+        "word": "陈都灵身上的飘带20多斤",
+        "onboard_time": 1760434161,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226677,
+        "num": 226677,
+        "word": "老人被咬后手提2条眼镜蛇进急诊",
+        "onboard_time": 1760428641,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174160,
+        "num": 174160,
+        "word": "谭松韵回应暴瘦",
+        "onboard_time": 1760417181,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165044,
+        "num": 165044,
+        "word": "驴友队在玉函山断崖下发现苏阳阳遗体",
+        "onboard_time": 1760428522,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162273,
+        "num": 162273,
+        "word": "京东回应下场造车",
+        "onboard_time": 1760433500,
+        "rank": 17,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 153970,
+        "num": 153970,
+        "word": "警方通报49岁男子医院坠亡",
+        "onboard_time": 1760429781,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 48055,
+        "num": 153955,
+        "word": "秋天的第一补是抖音双11给的",
+        "onboard_time": 1760432841,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 523065,
+        "num": 153850,
+        "word": "金价银价跳水",
+        "onboard_time": 1760423843,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 364663,
+        "num": 153831,
+        "word": "头发尽量不要洗得太勤",
+        "onboard_time": 1760429542,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 272424,
+        "num": 153722,
+        "word": "在南太行拍照坠崖大学生确认身亡",
+        "onboard_time": 1760429061,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304613,
+        "num": 153652,
+        "word": "德基广场会员厕所 年消费20万可用",
+        "onboard_time": 1760428282,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212900,
+        "num": 153563,
+        "word": "印度女医学生与朋友外出遭轮奸",
+        "onboard_time": 1760423180,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1348777,
+        "num": 153521,
+        "word": "国考 无岗",
+        "onboard_time": 1760427022,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154261,
+        "num": 153453,
+        "word": "她只是我的妹妹",
+        "onboard_time": 1760416643,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153417,
+        "num": 153417,
+        "word": "糖尿病男子剪趾甲破皮失去10根脚趾",
+        "onboard_time": 1760420602,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141654,
+        "num": 141654,
+        "word": "舒淇 一手烂牌打出王炸",
+        "onboard_time": 1760433681,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102970,
+        "num": 131876,
+        "word": "12306回应火车配大床房还是双层",
+        "onboard_time": 1760434401,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122839,
+        "num": 122839,
+        "word": "单亲妈妈误转看病钱对方全程沉默",
+        "onboard_time": 1760418142,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120257,
+        "num": 120257,
+        "word": "王嘉尔这滴泪是一路羁绊的证明",
+        "onboard_time": 1760433681,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113294,
+        "num": 113294,
+        "word": "后羿新皮肤神树通天",
+        "onboard_time": 1760430681,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113121,
+        "num": 113121,
+        "word": "Faker闭眼",
+        "onboard_time": 1760432721,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111560,
+        "num": 111560,
+        "word": "rita好美",
+        "onboard_time": 1760431461,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109376,
+        "num": 109376,
+        "word": "杭州降温 菩萨显灵",
+        "onboard_time": 1760433981,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107893,
+        "num": 107893,
+        "word": "李亚鹏离婚 很文艺了",
+        "onboard_time": 1760432001,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82228,
+        "num": 101077,
+        "word": "全球市场跳水原因",
+        "onboard_time": 1760431461,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 100681,
+        "num": 100681,
+        "word": "徐璐卢昱晓唐嫣 爱人如养花",
+        "onboard_time": 1760433860,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42938,
+        "num": 100241,
+        "word": "特朗普当众夸梅洛尼美丽",
+        "onboard_time": 1760434220,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100240,
+        "num": 100240,
+        "word": "向太谈儿子向佑",
+        "onboard_time": 1760416940,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95474,
+        "num": 95474,
+        "word": "美航母被撞8个月了没修",
+        "onboard_time": 1760423783,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86186,
+        "num": 86186,
+        "word": "王者荣耀",
+        "onboard_time": 1760427982,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86035,
+        "num": 86035,
+        "word": "张凌赫红皮衣",
+        "onboard_time": 1760433981,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83927,
+        "num": 83927,
+        "word": "生孩子的时候闺蜜变成了战地记者",
+        "onboard_time": 1760434102,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81405,
+        "num": 81405,
+        "word": "周深嗷地一下出现了",
+        "onboard_time": 1760434640,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80173,
+        "num": 80173,
+        "word": "张小斐于适开机路透",
+        "onboard_time": 1760432180,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75002,
+        "num": 79917,
+        "word": "单亲妈妈回应误转女儿看病钱",
+        "onboard_time": 1760434640,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74368,
+        "num": 79770,
+        "word": "商场设会员制厕所年消费门槛20万",
+        "onboard_time": 1760432122,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60862,
+        "num": 79607,
+        "word": "都五杀了没猜出一个凶手",
+        "onboard_time": 1760432361,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程上每位妇女都是主角#"
+    }
+  }
+}

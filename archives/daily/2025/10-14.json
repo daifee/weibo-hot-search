@@ -1,6 +1,6 @@
 {
   "startTime": 1760373145920,
-  "endTime": 1760434142702,
+  "endTime": 1760434919597,
   "band_list": [
     {
       "raw_hot": 8054511,
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 533627,
+      "num": 416654,
+      "word": "阳澄湖大闸蟹今年是淹死了吗",
+      "onboard_time": 1760430621,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 528426,
       "num": 287296,
       "word": "杨舒予因家里紧急情况无法参赛",
@@ -339,14 +347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 416654,
-      "num": 416654,
-      "word": "阳澄湖大闸蟹今年是淹死了吗",
-      "onboard_time": 1760430621,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 408131,
       "num": 213327,
       "word": "印度女医学生与朋友外出遭轮奸",
@@ -393,6 +393,14 @@
       "onboard_time": 1760428522,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338034,
+      "num": 338034,
+      "word": "中央巡视组原副部级许传智被查",
+      "onboard_time": 1760429961,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 331343,
@@ -587,11 +595,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232139,
+      "num": 232139,
+      "word": "陈都灵身上的飘带20多斤",
+      "onboard_time": 1760434161,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 230844,
       "num": 230844,
       "word": "西安下了1个多月雨后遍地长蘑菇",
       "onboard_time": 1760359041,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226677,
+      "num": 226677,
+      "word": "老人被咬后手提2条眼镜蛇进急诊",
+      "onboard_time": 1760428641,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -625,14 +649,6 @@
       "onboard_time": 1760426722,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209390,
-      "num": 209390,
-      "word": "老人被咬后手提2条眼镜蛇进急诊",
-      "onboard_time": 1760428641,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 205367,
@@ -739,6 +755,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 175341,
+      "num": 320412,
+      "word": "京东汽车",
+      "onboard_time": 1760434161,
+      "rank": 9,
+      "category": "互联网,汽车"
+    },
+    {
       "raw_hot": 173267,
       "num": 173266,
       "word": "睡眠不足会让700多个基因发生改变",
@@ -809,14 +833,6 @@
       "onboard_time": 1760431461,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 166228,
-      "num": 186767,
-      "word": "中央巡视组原副部级许传智被查",
-      "onboard_time": 1760429961,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 163029,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1760424443,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141654,
+      "num": 141654,
+      "word": "舒淇 一手烂牌打出王炸",
+      "onboard_time": 1760433681,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 140908,
@@ -1243,6 +1267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120257,
+      "num": 120257,
+      "word": "王嘉尔这滴泪是一路羁绊的证明",
+      "onboard_time": 1760433681,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120037,
       "num": 120037,
       "word": "南宁一医院有人坠楼",
@@ -1329,14 +1361,6 @@
       "onboard_time": 1760424142,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116479,
-      "num": 116479,
-      "word": "王嘉尔这滴泪是一路羁绊的证明",
-      "onboard_time": 1760433681,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 116153,
@@ -1459,20 +1483,20 @@
       "category": "运动健身,健康医疗"
     },
     {
+      "raw_hot": 107893,
+      "num": 107893,
+      "word": "李亚鹏离婚 很文艺了",
+      "onboard_time": 1760432001,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107294,
       "num": 107294,
       "word": "侯英超吐槽亚锦赛",
       "onboard_time": 1760427382,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107136,
-      "num": 107136,
-      "word": "李亚鹏离婚 很文艺了",
-      "onboard_time": 1760432001,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 106011,
@@ -1523,12 +1547,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102970,
+      "num": 131876,
+      "word": "12306回应火车配大床房还是双层",
+      "onboard_time": 1760434401,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101733,
       "num": 101733,
       "word": "同花顺原唱认可陈浚铭翻唱",
       "onboard_time": 1760405840,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100681,
+      "num": 111739,
+      "word": "徐璐卢昱晓唐嫣 爱人如养花",
+      "onboard_time": 1760433860,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 100234,
@@ -1859,6 +1899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81405,
+      "num": 81405,
+      "word": "周深嗷地一下出现了",
+      "onboard_time": 1760434640,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80861,
       "num": 80861,
       "word": "这棵古树种子曾遨游太空",
@@ -1945,6 +1993,22 @@
       "onboard_time": 1760408120,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75002,
+      "num": 79917,
+      "word": "单亲妈妈回应误转女儿看病钱",
+      "onboard_time": 1760434640,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74368,
+      "num": 79770,
+      "word": "商场设会员制厕所年消费门槛20万",
+      "onboard_time": 1760432122,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73871,
@@ -2155,6 +2219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60862,
+      "num": 79607,
+      "word": "都五杀了没猜出一个凶手",
+      "onboard_time": 1760432361,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60822,
       "num": 60822,
       "word": "GALA乐队为GALA加油",
@@ -2339,20 +2411,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 43598,
-      "num": 111302,
-      "word": "舒淇 一手烂牌打出王炸",
-      "onboard_time": 1760433681,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 43468,
       "num": 92809,
       "word": "林诗栋比赛时无人机飞过整懵解说",
       "onboard_time": 1760432601,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42938,
+      "num": 100241,
+      "word": "特朗普当众夸梅洛尼美丽",
+      "onboard_time": 1760434220,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41208,
@@ -2449,14 +2521,6 @@
       "onboard_time": 1760370741,
       "rank": 44,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 31504,
-      "num": 111739,
-      "word": "徐璐卢昱晓唐嫣 爱人如养花",
-      "onboard_time": 1760433860,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 31429,
