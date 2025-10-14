@@ -1,10 +1,10 @@
 {
   "startTime": 1760373145920,
-  "endTime": 1760419478736,
+  "endTime": 1760420466721,
   "band_list": [
     {
       "raw_hot": 2718548,
-      "num": 220985,
+      "num": 242786,
       "word": "刘轩丞称女生是家里亲戚",
       "onboard_time": 1760415142,
       "rank": 11,
@@ -12,15 +12,15 @@
     },
     {
       "raw_hot": 1843737,
-      "num": 221588,
+      "num": 249604,
       "word": "董璇 我办婚礼了吗",
       "onboard_time": 1760415082,
       "rank": 12,
       "category": "艺人"
     },
     {
-      "raw_hot": 1559918,
-      "num": 223743,
+      "raw_hot": 1574027,
+      "num": 252873,
       "word": "她只是我的妹妹",
       "onboard_time": 1760416643,
       "rank": 24,
@@ -59,8 +59,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 837917,
+      "num": 246357,
+      "word": "谭松韵回应暴瘦",
+      "onboard_time": 1760417181,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 740180,
-      "num": 219744,
+      "num": 241954,
       "word": "向太谈儿子向佑",
       "onboard_time": 1760416940,
       "rank": 49,
@@ -73,14 +81,6 @@
       "onboard_time": 1760367802,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 695292,
-      "num": 217747,
-      "word": "谭松韵回应暴瘦",
-      "onboard_time": 1760417181,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 655728,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 602797,
-      "num": 602797,
+      "num": 1092782,
       "word": "美军肥胖照火遍全网",
       "onboard_time": 1760412980,
       "rank": 32,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 590754,
-      "num": 212424,
+      "num": 213616,
       "word": "特朗普又把英国首相当众耍了",
       "onboard_time": 1760412980,
       "rank": 30,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 528426,
-      "num": 209673,
+      "num": 221605,
       "word": "杨舒予因家里紧急情况无法参赛",
       "onboard_time": 1760415560,
       "rank": 30,
@@ -177,6 +177,14 @@
       "onboard_time": 1760397198,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 465276,
+      "num": 422243,
+      "word": "韩22岁大学生在柬疑遭贩卖致死",
+      "onboard_time": 1760417721,
+      "rank": 3,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 450581,
@@ -203,12 +211,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 422243,
-      "num": 422243,
-      "word": "韩22岁大学生在柬疑遭贩卖致死",
-      "onboard_time": 1760417721,
-      "rank": 3,
-      "category": "海外新闻"
+      "raw_hot": 402799,
+      "num": 402799,
+      "word": "单亲妈妈误转看病钱对方全程沉默",
+      "onboard_time": 1760418142,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353776,
@@ -273,6 +281,14 @@
       "onboard_time": 1760417542,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 270884,
+      "num": 270884,
+      "word": "学生自习看恐怖片被吓病索赔3万",
+      "onboard_time": 1760414003,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 268230,
@@ -363,27 +379,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 234356,
-      "num": 234356,
-      "word": "学生自习看恐怖片被吓病索赔3万",
-      "onboard_time": 1760414003,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 230844,
       "num": 230844,
       "word": "西安下了1个多月雨后遍地长蘑菇",
       "onboard_time": 1760359041,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 226882,
-      "num": 226882,
-      "word": "单亲妈妈误转看病钱对方全程沉默",
-      "onboard_time": 1760418142,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -395,20 +395,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208547,
+      "num": 208547,
+      "word": "国考岗位表",
+      "onboard_time": 1760417482,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 205367,
       "num": 212820,
       "word": "石破茂卸任在即说出心里话",
       "onboard_time": 1760410461,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 201663,
-      "num": 201663,
-      "word": "国考岗位表",
-      "onboard_time": 1760417482,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 197389,
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 145997,
-      "num": 216135,
+      "num": 235598,
       "word": "谁能扛住大男主剧",
       "onboard_time": 1760418681,
       "rank": 16,
@@ -705,6 +705,14 @@
       "onboard_time": 1760411360,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 134988,
+      "num": 134988,
+      "word": "向太后悔给太多钱宠坏向佑",
+      "onboard_time": 1760419400,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 134429,
@@ -779,6 +787,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 124032,
+      "num": 255042,
+      "word": "更适合中国宝宝的含金量还在上升",
+      "onboard_time": 1760419100,
+      "rank": 22,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 123693,
       "num": 123693,
       "word": "vivo X300价格",
@@ -827,11 +843,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118490,
+      "num": 118490,
+      "word": "王曼昱vs金娜英",
+      "onboard_time": 1760419820,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118216,
       "num": 118216,
       "word": "中方支持共同清算殖民主义危害",
       "onboard_time": 1760405240,
       "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 117853,
+      "num": 237106,
+      "word": "美国或失1600万吨大豆订单",
+      "onboard_time": 1760417004,
+      "rank": 15,
       "category": "国际时政"
     },
     {
@@ -865,14 +897,6 @@
       "onboard_time": 1760409201,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 115463,
-      "num": 207440,
-      "word": "更适合中国宝宝的含金量还在上升",
-      "onboard_time": 1760419100,
-      "rank": 22,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 113832,
@@ -947,6 +971,14 @@
       "category": "国内时政,体育"
     },
     {
+      "raw_hot": 99842,
+      "num": 99842,
+      "word": "我想睡觉 我不太舍得睡觉",
+      "onboard_time": 1760420121,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 97724,
       "num": 97724,
       "word": "中方敦促美方尽快纠正错误做法",
@@ -961,6 +993,22 @@
       "onboard_time": 1760356281,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96595,
+      "num": 96595,
+      "word": "恋与深空",
+      "onboard_time": 1760420241,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 95533,
+      "num": 95533,
+      "word": "文班亚马24分钟27分",
+      "onboard_time": 1760420061,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 94490,
@@ -996,7 +1044,7 @@
     },
     {
       "raw_hot": 91950,
-      "num": 212375,
+      "num": 228512,
       "word": "你的人生被修剪过吗",
       "onboard_time": 1760416703,
       "rank": 20,
@@ -1049,6 +1097,14 @@
       "onboard_time": 1760400260,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90784,
+      "num": 230730,
+      "word": "孙颖莎3比1申裕斌",
+      "onboard_time": 1760419643,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 90242,
@@ -1291,6 +1347,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 69110,
+      "num": 100212,
+      "word": "家中灶台爆炸老人对着老伴遗像哭诉",
+      "onboard_time": 1760420241,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68611,
       "num": 68611,
       "word": "赵丽颖直播",
@@ -1403,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57375,
+      "num": 225058,
+      "word": "高血压人群更需警惕带状疱疹风险",
+      "onboard_time": 1760418561,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 57281,
       "num": 57281,
       "word": "第十五届全运会",
@@ -1489,14 +1561,6 @@
       "onboard_time": 1760415441,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47989,
-      "num": 211209,
-      "word": "高血压人群更需警惕带状疱疹风险",
-      "onboard_time": 1760418561,
-      "rank": 19,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 47784,
