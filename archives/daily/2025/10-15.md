@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/15 00:32:16 ~ 2025/10/15 04:29:02
+本榜单时间：2025/10/15 00:32:16 ~ 2025/10/15 04:41:49
 </p>
 </blockquote>
 <p>
@@ -213,6 +213,12 @@ T1战胜iG（热度：200542）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E5%9C%B0%E6%A0%87%E8%A2%AB%E7%A0%B4%E5%9D%8F%23" target="weibo">
+官方介入调查为人民服务地标被破坏（热度：84827）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B11%E6%AF%942%E7%AF%A0%E5%A1%9A%E5%A4%A7%E7%99%BB%23" target="weibo">
 林诗栋11比2篠塚大登（热度：83378）
 </a>
@@ -227,12 +233,6 @@ T1战胜iG（热度：200542）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%96%B0%E7%89%87%E6%B8%85%E5%8D%8E%E9%A6%96%E6%98%A0%E5%8F%A3%E7%A2%91%23" target="weibo">
 黄晓明新片清华首映口碑（热度：81017）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E5%9C%B0%E6%A0%87%E8%A2%AB%E7%A0%B4%E5%9D%8F%23" target="weibo">
-官方介入调查为人民服务地标被破坏（热度：76586）
 </a>
 </li>
 
@@ -429,20 +429,20 @@ KPL抽签（热度：27352）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E7%A8%80%E5%9C%9F%E9%87%87%E5%8F%96%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%8E%AA%E6%96%BD%E6%AD%A3%E5%BD%93%E5%90%88%E6%B3%95%23" target="weibo">
+中方对稀土采取出口管制措施正当合法（热度：18726）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%9D%E9%87%8A%E5%A4%A9%E5%85%A8%E6%96%B0%E5%85%B8%E8%97%8F%E7%9A%AE%E8%82%A4%23" target="weibo">
 帝释天全新典藏皮肤（热度：18311）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E7%A8%80%E5%9C%9F%E9%87%87%E5%8F%96%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%8E%AA%E6%96%BD%E6%AD%A3%E5%BD%93%E5%90%88%E6%B3%95%23" target="weibo">
-中方对稀土采取出口管制措施正当合法（热度：16762）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2349%E5%B2%81%E7%94%B7%E5%AD%90%E5%8C%BB%E9%99%A2%E5%9D%A0%E4%BA%A1%E6%8E%92%E9%99%A4%E5%88%91%E6%A1%88%23" target="weibo">
-49岁男子医院坠亡排除刑案（热度：11957）
+49岁男子医院坠亡排除刑案（热度：15307）
 </a>
 </li>
 
