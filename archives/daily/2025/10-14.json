@@ -1,6 +1,6 @@
 {
   "startTime": 1760373145920,
-  "endTime": 1760434919597,
+  "endTime": 1760437682476,
   "band_list": [
     {
       "raw_hot": 8054511,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1886560,
+      "num": 1886560,
+      "word": "iG对战T1",
+      "onboard_time": 1760427263,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1843737,
       "num": 319909,
       "word": "董璇 我办婚礼了吗",
@@ -33,14 +41,6 @@
       "onboard_time": 1760427022,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1638256,
-      "num": 1638256,
-      "word": "iG对战T1",
-      "onboard_time": 1760427263,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 1574027,
@@ -235,20 +235,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546932,
+      "num": 416654,
+      "word": "阳澄湖大闸蟹今年是淹死了吗",
+      "onboard_time": 1760430621,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 537811,
       "num": 246231,
       "word": "关晓彤说28岁要爱自己明媚的活着",
       "onboard_time": 1760412020,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 533627,
-      "num": 416654,
-      "word": "阳澄湖大闸蟹今年是淹死了吗",
-      "onboard_time": 1760430621,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 528426,
@@ -281,6 +281,14 @@
       "onboard_time": 1760420602,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 471809,
+      "num": 232139,
+      "word": "陈都灵身上的飘带20多斤",
+      "onboard_time": 1760434161,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 471157,
@@ -395,6 +403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 351334,
+      "num": 351334,
+      "word": "大疆硬刚美国防部",
+      "onboard_time": 1760435601,
+      "rank": 3,
+      "category": "国际时政,数码"
+    },
+    {
       "raw_hot": 338034,
       "num": 338034,
       "word": "中央巡视组原副部级许传智被查",
@@ -467,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284858,
+      "num": 284858,
+      "word": "iG扳平",
+      "onboard_time": 1760436261,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 274208,
       "num": 274208,
       "word": "应届硕博生国考年龄放宽到43岁",
@@ -512,6 +536,14 @@
       "word": "6省市一周雨雨雨",
       "onboard_time": 1760404460,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263686,
+      "num": 263686,
+      "word": "禁毒大队长被控走私毒品获刑3年半",
+      "onboard_time": 1760435361,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -571,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245602,
+      "num": 245602,
+      "word": "现在就出发3定档节奏",
+      "onboard_time": 1760435241,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242267,
       "num": 210729,
       "word": "谭松韵 除了体重一切安好",
@@ -593,14 +633,6 @@
       "onboard_time": 1760365102,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 232139,
-      "num": 232139,
-      "word": "陈都灵身上的飘带20多斤",
-      "onboard_time": 1760434161,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 230844,
@@ -635,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 217859,
+      "num": 217859,
+      "word": "多兰 LPL的好兄弟",
+      "onboard_time": 1760435540,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 214662,
       "num": 181147,
       "word": "田曦薇28岁生日晒照",
@@ -657,6 +697,14 @@
       "onboard_time": 1760410461,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 202163,
+      "num": 144441,
+      "word": "李威出庭不认罪",
+      "onboard_time": 1760435420,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 197389,
@@ -779,6 +827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172446,
+      "num": 145717,
+      "word": "舒淇 一手烂牌打出王炸",
+      "onboard_time": 1760433681,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170725,
       "num": 234420,
       "word": "国乒女团3比0晋级决赛",
@@ -899,6 +955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 154251,
+      "num": 154251,
+      "word": "猎豹",
+      "onboard_time": 1760437341,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153692,
       "num": 153692,
       "word": "第一次见不开机也全是秘密的手机",
@@ -971,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148386,
+      "num": 137259,
+      "word": "李亚鹏和前妻没有房产",
+      "onboard_time": 1760436381,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148194,
       "num": 205882,
       "word": "中国对5家美国相关子公司采取反制措施",
@@ -1011,6 +1083,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 145053,
+      "num": 145053,
+      "word": "王波受贿4.49亿余元",
+      "onboard_time": 1760435540,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144662,
       "num": 144662,
       "word": "为什么今年的大闸蟹还没上市",
@@ -1041,14 +1121,6 @@
       "onboard_time": 1760424443,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141654,
-      "num": 141654,
-      "word": "舒淇 一手烂牌打出王炸",
-      "onboard_time": 1760433681,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 140908,
@@ -1083,6 +1155,14 @@
       "category": "数码,互联网"
     },
     {
+      "raw_hot": 136542,
+      "num": 136542,
+      "word": "徐璐卢昱晓唐嫣 爱人如养花",
+      "onboard_time": 1760433860,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136011,
       "num": 136322,
       "word": "李昀锐 男生看甜妹的感觉",
@@ -1115,6 +1195,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133756,
+      "num": 133756,
+      "word": "刘宇宁让导播别拍张萌了",
+      "onboard_time": 1760435241,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 130268,
       "num": 111226,
       "word": "vivoX300系列开箱测评",
@@ -1145,6 +1233,14 @@
       "onboard_time": 1760397619,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 127567,
+      "num": 122247,
+      "word": "李亚鹏离婚 很文艺了",
+      "onboard_time": 1760432001,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 126515,
@@ -1227,6 +1323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123816,
+      "num": 137529,
+      "word": "用vivo在上海迪士尼巨出片",
+      "onboard_time": 1760435480,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 123693,
       "num": 123693,
       "word": "vivo X300价格",
@@ -1265,6 +1369,14 @@
       "onboard_time": 1760426482,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120376,
+      "num": 120376,
+      "word": "管住嘴",
+      "onboard_time": 1760437520,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 120257,
@@ -1387,6 +1499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 114841,
+      "num": 114841,
+      "word": "为何要打破国考35岁门槛",
+      "onboard_time": 1760436741,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 113832,
       "num": 143521,
       "word": "林子君回应像李承铉",
@@ -1417,6 +1537,14 @@
       "onboard_time": 1760411181,
       "rank": 33,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 111957,
+      "num": 111957,
+      "word": "菜鸟驿站对取件未出库罚款100元",
+      "onboard_time": 1760436861,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111700,
@@ -1475,20 +1603,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109255,
+      "num": 111264,
+      "word": "业主曝外卖员撕喜字网友却不买账",
+      "onboard_time": 1760436441,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108750,
       "num": 108750,
       "word": "每天走多少步抵消久坐伤害",
       "onboard_time": 1760409740,
       "rank": 34,
       "category": "运动健身,健康医疗"
-    },
-    {
-      "raw_hot": 107893,
-      "num": 107893,
-      "word": "李亚鹏离婚 很文艺了",
-      "onboard_time": 1760432001,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 107294,
@@ -1563,12 +1691,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100681,
-      "num": 111739,
-      "word": "徐璐卢昱晓唐嫣 爱人如养花",
-      "onboard_time": 1760433860,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 101185,
+      "num": 101185,
+      "word": "艾琳鹤鸣心笺皮肤",
+      "onboard_time": 1760437220,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 100234,
@@ -1577,6 +1705,14 @@
       "onboard_time": 1760421801,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100219,
+      "num": 100219,
+      "word": "iG计划有变",
+      "onboard_time": 1760436741,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 100204,
@@ -1673,6 +1809,14 @@
       "onboard_time": 1760420841,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 95024,
+      "num": 95024,
+      "word": "王者十周年返场皮肤票选",
+      "onboard_time": 1760435241,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 94490,
@@ -2011,6 +2155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74102,
+      "num": 111984,
+      "word": "每天睡不到3小时380天唤醒植物人丈夫",
+      "onboard_time": 1760436561,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73871,
       "num": 73871,
       "word": "台湾缺药问题愈演愈烈",
@@ -2323,6 +2475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 55034,
+      "num": 146230,
+      "word": "NI的出行神级搭子",
+      "onboard_time": 1760435480,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 54765,
       "num": 54765,
       "word": "婚礼全家福狗狗找位置被新郎抱入镜",
@@ -2441,6 +2601,14 @@
       "onboard_time": 1760394795,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38372,
+      "num": 112103,
+      "word": "卤肉店为揽客往卤汁里加罂粟壳",
+      "onboard_time": 1760437640,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37444,
