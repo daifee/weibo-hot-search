@@ -1,7 +1,15 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760420466721,
+  "endTime": 1760423839628,
   "band_list": [
+    {
+      "raw_hot": 4980296,
+      "num": 259537,
+      "word": "李亚鹏离婚",
+      "onboard_time": 1760422942,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 2718548,
       "num": 242786,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 1843737,
-      "num": 249604,
+      "num": 253993,
       "word": "董璇 我办婚礼了吗",
       "onboard_time": 1760415082,
       "rank": 12,
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 992289,
+      "num": 1158766,
+      "word": "单亲妈妈误转看病钱对方全程沉默",
+      "onboard_time": 1760418142,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 989262,
       "num": 306089,
       "word": "南北cp",
@@ -249,6 +265,14 @@
       "onboard_time": 1760412980,
       "rank": 25,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 847862,
+      "num": 847862,
+      "word": "黄金",
+      "onboard_time": 1760320159,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 841915,
@@ -340,7 +364,7 @@
     },
     {
       "raw_hot": 740180,
-      "num": 241954,
+      "num": 243863,
       "word": "向太谈儿子向佑",
       "onboard_time": 1760416940,
       "rank": 49,
@@ -683,14 +707,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 553388,
-      "num": 455121,
-      "word": "黄金",
-      "onboard_time": 1760320159,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
       "raw_hot": 553102,
       "num": 292234,
       "word": "济南一下肢瘫痪中年男子投河身亡",
@@ -708,7 +724,7 @@
     },
     {
       "raw_hot": 547691,
-      "num": 211653,
+      "num": 214868,
       "word": "肖战幼儿园时期的照片",
       "onboard_time": 1760413161,
       "rank": 16,
@@ -772,7 +788,7 @@
     },
     {
       "raw_hot": 528426,
-      "num": 221605,
+      "num": 287296,
       "word": "杨舒予因家里紧急情况无法参赛",
       "onboard_time": 1760415560,
       "rank": 30,
@@ -1163,6 +1179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 406884,
+      "num": 214905,
+      "word": "糖尿病男子剪趾甲破皮失去10根脚趾",
+      "onboard_time": 1760420602,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 405242,
       "num": 227666,
       "word": "入戏",
@@ -1177,14 +1201,6 @@
       "onboard_time": 1760335462,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 402799,
-      "num": 402799,
-      "word": "单亲妈妈误转看病钱对方全程沉默",
-      "onboard_time": 1760418142,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 401128,
@@ -1265,6 +1281,14 @@
       "onboard_time": 1760330303,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 371086,
+      "num": 236742,
+      "word": "卖不出去的东西加个壳就卖出去了",
+      "onboard_time": 1760420901,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 367216,
@@ -1593,6 +1617,14 @@
       "onboard_time": 1760408660,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289797,
+      "num": 289797,
+      "word": "国考岗位表",
+      "onboard_time": 1760417482,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 287016,
@@ -2019,6 +2051,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 224033,
+      "num": 130221,
+      "word": "印度女医学生与朋友外出遭轮奸",
+      "onboard_time": 1760423180,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 223964,
       "num": 280205,
       "word": "心动的信号",
@@ -2115,6 +2155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 215150,
+      "num": 215150,
+      "word": "向太后悔给太多钱宠坏向佑",
+      "onboard_time": 1760419400,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 214662,
       "num": 181147,
       "word": "田曦薇28岁生日晒照",
@@ -2137,14 +2185,6 @@
       "onboard_time": 1760322920,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208547,
-      "num": 208547,
-      "word": "国考岗位表",
-      "onboard_time": 1760417482,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 206111,
@@ -2561,6 +2601,14 @@
       "onboard_time": 1760324482,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173534,
+      "num": 173534,
+      "word": "婴儿被抢家人开车追了好几条街",
+      "onboard_time": 1760421622,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 173511,
@@ -3139,6 +3187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149477,
+      "num": 149477,
+      "word": "最不显老的何老师也怕老了",
+      "onboard_time": 1760422641,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149315,
       "num": 130779,
       "word": "葛荟婕自曝没带走女儿的原因",
@@ -3547,14 +3603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134988,
-      "num": 134988,
-      "word": "向太后悔给太多钱宠坏向佑",
-      "onboard_time": 1760419400,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134919,
       "num": 134919,
       "word": "李昀锐吃成蜜蜂狗了",
@@ -3899,6 +3947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125116,
+      "num": 125116,
+      "word": "把近8年更换手机的成本做了一张表",
+      "onboard_time": 1760421801,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 125077,
       "num": 125077,
       "word": "2025快递业务量破1500亿件",
@@ -3993,6 +4049,14 @@
       "onboard_time": 1760252721,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123708,
+      "num": 123708,
+      "word": "努力型 天赋型",
+      "onboard_time": 1760421141,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 123375,
@@ -4411,6 +4475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116153,
+      "num": 116153,
+      "word": "把帝王蟹自助吃成路边摊",
+      "onboard_time": 1760423541,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 116115,
       "num": 116115,
       "word": "终于懂了桂林山水甲天下的含金量",
@@ -4555,6 +4627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113665,
+      "num": 113665,
+      "word": "刘涛 秦海璐是可以兜底的闺蜜",
+      "onboard_time": 1760421622,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113626,
       "num": 113626,
       "word": "从一个陈雨菲到另一个陈雨菲",
@@ -4681,6 +4761,14 @@
       "onboard_time": 1760322680,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111626,
+      "num": 111626,
+      "word": "刘小涛当选江苏省长",
+      "onboard_time": 1760422942,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111597,
@@ -4971,6 +5059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 105924,
+      "num": 105924,
+      "word": "马嘉祺胜负欲最强的一集",
+      "onboard_time": 1760423363,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105829,
       "num": 105829,
       "word": "运动出汗与身体出汗的区别",
@@ -5049,6 +5145,14 @@
       "onboard_time": 1760345180,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104279,
+      "num": 104279,
+      "word": "为什么今年的大闸蟹还没上市",
+      "onboard_time": 1760423302,
+      "rank": 43,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 104224,
@@ -5267,6 +5371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100234,
+      "num": 100234,
+      "word": "王艺迪vs李恩惠",
+      "onboard_time": 1760421801,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100204,
       "num": 100204,
       "word": "Win10停服",
@@ -5281,6 +5393,14 @@
       "onboard_time": 1760326761,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100093,
+      "num": 100093,
+      "word": "iPhone通话语音隔离",
+      "onboard_time": 1760420901,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 99997,
@@ -5353,6 +5473,14 @@
       "onboard_time": 1760280082,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98330,
+      "num": 98330,
+      "word": "美航母被撞8个月了没修",
+      "onboard_time": 1760423783,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98300,
@@ -5483,6 +5611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95221,
+      "num": 95221,
+      "word": "蜜雪冰城啤酒5.9元一杯",
+      "onboard_time": 1760420841,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 95173,
       "num": 95173,
       "word": "王安宇想来现场看喜人奇妙夜",
@@ -5529,6 +5665,14 @@
       "onboard_time": 1760241438,
       "rank": 44,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 94398,
+      "num": 94398,
+      "word": "李沁说张晚意让人捉摸不透",
+      "onboard_time": 1760422221,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 94340,
@@ -7155,6 +7299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 68211,
+      "num": 214919,
+      "word": "刘宇宁16日在哪直播",
+      "onboard_time": 1760421920,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67652,
       "num": 90327,
       "word": "打电话时外卖小哥正在吃我外卖",
@@ -7923,6 +8075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36611,
+      "num": 107169,
+      "word": "Lulu再次否认怀孕",
+      "onboard_time": 1760422821,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36403,
       "num": 153823,
       "word": "论文机构销售直接进医院拉客",
@@ -7945,6 +8105,14 @@
       "onboard_time": 1760333062,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36139,
+      "num": 229159,
+      "word": "兰蔻90周年活动",
+      "onboard_time": 1760422942,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 36099,
@@ -7993,6 +8161,14 @@
       "onboard_time": 1760366361,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 32571,
+      "num": 106568,
+      "word": "董璇带小酒窝逛乐园",
+      "onboard_time": 1760422641,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 32285,
