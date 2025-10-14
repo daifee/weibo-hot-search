@@ -1,6 +1,6 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760474509052,
+  "endTime": 1760476953467,
   "band_list": [
     {
       "raw_hot": 1270480,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87941,
+      "num": 87941,
+      "word": "官方介入调查为人民服务地标被破坏",
+      "onboard_time": 1760465176,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87145,
       "num": 96477,
       "word": "意外运到美国的中国小猫已恢复健康",
@@ -265,14 +273,6 @@
       "onboard_time": 1760458460,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 84827,
-      "num": 84827,
-      "word": "官方介入调查为人民服务地标被破坏",
-      "onboard_time": 1760465176,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83378,
@@ -547,20 +547,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 19723,
+      "num": 19723,
+      "word": "中方对稀土采取出口管制措施正当合法",
+      "onboard_time": 1760471114,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19327,
       "num": 29335,
       "word": "一起开麦吧艺人阵容官宣",
       "onboard_time": 1760465836,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18726,
-      "num": 18726,
-      "word": "中方对稀土采取出口管制措施正当合法",
-      "onboard_time": 1760471114,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18311,

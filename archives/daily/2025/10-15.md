@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/15 00:32:16 ~ 2025/10/15 04:41:49
+本榜单时间：2025/10/15 00:32:16 ~ 2025/10/15 05:22:33
 </p>
 </blockquote>
 <p>
@@ -201,6 +201,12 @@ T1战胜iG（热度：200542）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E5%9C%B0%E6%A0%87%E8%A2%AB%E7%A0%B4%E5%9D%8F%23" target="weibo">
+官方介入调查为人民服务地标被破坏（热度：87941）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%8F%E5%A4%96%E8%BF%90%E5%88%B0%E7%BE%8E%E5%9B%BD%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%B0%8F%E7%8C%AB%E5%B7%B2%E6%81%A2%E5%A4%8D%E5%81%A5%E5%BA%B7%23" target="weibo">
 意外运到美国的中国小猫已恢复健康（热度：87145）
 </a>
@@ -209,12 +215,6 @@ T1战胜iG（热度：200542）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%AC%91%E9%9A%8F%E6%AD%8C%E9%A2%84%E5%91%8A%23" target="weibo">
 一笑随歌预告（热度：85285）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E4%BB%8B%E5%85%A5%E8%B0%83%E6%9F%A5%E4%B8%BA%E4%BA%BA%E6%B0%91%E6%9C%8D%E5%8A%A1%E5%9C%B0%E6%A0%87%E8%A2%AB%E7%A0%B4%E5%9D%8F%23" target="weibo">
-官方介入调查为人民服务地标被破坏（热度：84827）
 </a>
 </li>
 
@@ -423,14 +423,14 @@ KPL抽签（热度：27352）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E5%BC%80%E9%BA%A6%E5%90%A7%E8%89%BA%E4%BA%BA%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
-一起开麦吧艺人阵容官宣（热度：19327）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E7%A8%80%E5%9C%9F%E9%87%87%E5%8F%96%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%8E%AA%E6%96%BD%E6%AD%A3%E5%BD%93%E5%90%88%E6%B3%95%23" target="weibo">
+中方对稀土采取出口管制措施正当合法（热度：19723）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E7%A8%80%E5%9C%9F%E9%87%87%E5%8F%96%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%8E%AA%E6%96%BD%E6%AD%A3%E5%BD%93%E5%90%88%E6%B3%95%23" target="weibo">
-中方对稀土采取出口管制措施正当合法（热度：18726）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E5%BC%80%E9%BA%A6%E5%90%A7%E8%89%BA%E4%BA%BA%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
+一起开麦吧艺人阵容官宣（热度：19327）
 </a>
 </li>
 
