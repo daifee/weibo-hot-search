@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760481625086,
+  "endTime": 1760484214200,
   "band_list": [
     {
       "raw_hot": 8054511,
@@ -505,6 +505,14 @@
       "onboard_time": 1760444180,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 722978,
+      "num": 831110,
+      "word": "国乒男团3比2逆转日本",
+      "onboard_time": 1760483117,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 717562,
@@ -1099,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 500930,
+      "num": 500930,
+      "word": "官方介入调查为人民服务地标被破坏",
+      "onboard_time": 1760465176,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 499178,
       "num": 186147,
       "word": "汽车起火多人救援目击者发声",
@@ -1603,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 390271,
+      "num": 169244,
+      "word": "演员馨子回应不拍戏",
+      "onboard_time": 1760456482,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 389460,
       "num": 222834,
       "word": "往届生的天塌了",
@@ -1875,6 +1899,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 315220,
+      "num": 315220,
+      "word": "女主播每天播12小时替榜一还钱",
+      "onboard_time": 1760444720,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 312165,
       "num": 312165,
       "word": "日本vs巴西",
@@ -1889,6 +1921,14 @@
       "onboard_time": 1760347941,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 309342,
+      "num": 166082,
+      "word": "减肥连续一个月每天吃一顿的后果",
+      "onboard_time": 1760483778,
+      "rank": 11,
+      "category": "运动健身"
     },
     {
       "raw_hot": 309221,
@@ -1928,14 +1968,6 @@
       "word": "这居然是陶昕然",
       "onboard_time": 1760239640,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 305175,
-      "num": 147914,
-      "word": "演员馨子回应不拍戏",
-      "onboard_time": 1760456482,
-      "rank": 14,
       "category": "艺人"
     },
     {
@@ -2361,14 +2393,6 @@
       "onboard_time": 1760178981,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249688,
-      "num": 249688,
-      "word": "官方介入调查为人民服务地标被破坏",
-      "onboard_time": 1760465176,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249632,
@@ -3315,14 +3339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176760,
-      "num": 176760,
-      "word": "女主播每天播12小时替榜一还钱",
-      "onboard_time": 1760444720,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 175823,
       "num": 175823,
       "word": "我家那闺女",
@@ -3379,6 +3395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 173902,
+      "num": 173902,
+      "word": "网传花少8阵容",
+      "onboard_time": 1760483238,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173511,
       "num": 161187,
       "word": "韩七录返校",
@@ -3424,6 +3448,14 @@
       "word": "孙颖莎王曼昱携手出战泰国",
       "onboard_time": 1760360421,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 171626,
+      "num": 171626,
+      "word": "日本队集体凝固",
+      "onboard_time": 1760483418,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -5955,6 +5987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 112382,
+      "num": 98406,
+      "word": "张本智和去哪儿了",
+      "onboard_time": 1760483418,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112328,
       "num": 112328,
       "word": "痴情的长公主请再等一世吧",
@@ -6177,6 +6217,14 @@
       "onboard_time": 1760267600,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109752,
+      "num": 109752,
+      "word": "央视曝光奢侈品低价代购骗局",
+      "onboard_time": 1760457920,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109606,
@@ -7211,6 +7259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94311,
+      "num": 94311,
+      "word": "国乒男团打进决赛",
+      "onboard_time": 1760481195,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94194,
       "num": 94194,
       "word": "奶茶里最不能容忍的小料",
@@ -7449,14 +7505,6 @@
       "onboard_time": 1760344340,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91253,
-      "num": 91253,
-      "word": "国乒男团打进决赛",
-      "onboard_time": 1760481195,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 91179,
@@ -8219,6 +8267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81953,
+      "num": 81953,
+      "word": "梁靖崑王楚钦拥抱",
+      "onboard_time": 1760481618,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81742,
       "num": 109295,
       "word": "景区证实原来趵突泉下面真有水管",
@@ -8537,6 +8593,14 @@
       "onboard_time": 1760237422,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78199,
+      "num": 78199,
+      "word": "王楚钦8比11张本智和",
+      "onboard_time": 1760483898,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 78174,
@@ -8939,6 +9003,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 70701,
+      "num": 70701,
+      "word": "大湾区朋友圈全是王嘉尔演唱会",
+      "onboard_time": 1760480896,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 70479,
       "num": 121579,
       "word": "网民跟风用胖东来洗洁精洗头",
@@ -8953,6 +9025,14 @@
       "onboard_time": 1760408480,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 70375,
+      "num": 70374,
+      "word": "鲍威尔",
+      "onboard_time": 1760464876,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 70315,
@@ -8985,6 +9065,14 @@
       "onboard_time": 1760232620,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 69618,
+      "num": 69618,
+      "word": "GALA分享iG大合照",
+      "onboard_time": 1760483478,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 69563,
@@ -9075,6 +9163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68085,
+      "num": 70377,
+      "word": "花少7 是妈妈是女儿",
+      "onboard_time": 1760484079,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67652,
       "num": 90327,
       "word": "打电话时外卖小哥正在吃我外卖",
@@ -9105,6 +9201,14 @@
       "onboard_time": 1760193925,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 66754,
+      "num": 66754,
+      "word": "河南一奶爸用购物袋提娃直接摔头",
+      "onboard_time": 1760483778,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66635,
@@ -9161,6 +9265,22 @@
       "onboard_time": 1760283500,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65350,
+      "num": 65350,
+      "word": "田曦薇 再也不说自己是举重运动员了",
+      "onboard_time": 1760482337,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 65021,
+      "num": 65021,
+      "word": "王楚钦球不落地永不放弃",
+      "onboard_time": 1760483839,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 64596,
@@ -9283,14 +9403,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 61166,
-      "num": 61166,
-      "word": "鲍威尔",
-      "onboard_time": 1760464876,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 61163,
       "num": 63078,
       "word": "何炅汪苏泷给徐志胜做局",
@@ -9347,6 +9459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59791,
+      "num": 59791,
+      "word": "梁靖崑13比11松岛辉空",
+      "onboard_time": 1760484198,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59700,
       "num": 76599,
       "word": "深巅采访",
@@ -9363,12 +9483,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59441,
-      "num": 96051,
-      "word": "央视曝光奢侈品低价代购骗局",
-      "onboard_time": 1760457920,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 58914,
+      "num": 58914,
+      "word": "曝iG转会期前瞻",
+      "onboard_time": 1760483839,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 58792,
+      "num": 58792,
+      "word": "赵樱子自曝不拍戏的原因",
+      "onboard_time": 1760477174,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 58588,
@@ -9449,6 +9577,14 @@
       "onboard_time": 1760451741,
       "rank": 37,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 56172,
+      "num": 56172,
+      "word": "亚锦赛男团",
+      "onboard_time": 1760484020,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 55778,
@@ -9587,6 +9723,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 53376,
+      "num": 53376,
+      "word": "黄景瑜谁打招呼都大大方方的",
+      "onboard_time": 1760480715,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51642,
       "num": 177880,
       "word": "蒋奇明跨界vivo旅拍摄影师",
@@ -9607,6 +9751,14 @@
       "num": 51125,
       "word": "伊朗教练违规进入场地争论",
       "onboard_time": 1760397979,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 51090,
+      "num": 51090,
+      "word": "林诗栋3比2篠塚大登",
+      "onboard_time": 1760484198,
       "rank": 48,
       "category": "体育"
     },
@@ -9953,14 +10105,6 @@
       "onboard_time": 1760360541,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 39405,
-      "num": 39405,
-      "word": "赵樱子自曝不拍戏的原因",
-      "onboard_time": 1760477174,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 39102,
@@ -10339,14 +10483,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 25060,
-      "num": 31461,
-      "word": "大湾区朋友圈全是王嘉尔演唱会",
-      "onboard_time": 1760480896,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 25026,
       "num": 677074,
       "word": "这里是中国",
@@ -10369,14 +10505,6 @@
       "onboard_time": 1760441600,
       "rank": 31,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 24423,
-      "num": 31458,
-      "word": "黄景瑜谁打招呼都大大方方的",
-      "onboard_time": 1760480715,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 24336,
