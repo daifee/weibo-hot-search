@@ -1,42 +1,42 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760459536334,
+  "endTime": 1760460438075,
   "band_list": [
     {
-      "raw_hot": 1165617,
-      "num": 1165617,
+      "raw_hot": 1171434,
+      "num": 1171434,
       "word": "国乒男团0比2日本",
       "onboard_time": 1760455401,
       "rank": 0,
       "category": "体育"
     },
     {
-      "raw_hot": 817249,
-      "num": 817249,
+      "raw_hot": 997753,
+      "num": 997753,
       "word": "王楚钦扇自己巴掌",
       "onboard_time": 1760457321,
       "rank": 1,
       "category": "体育"
     },
     {
-      "raw_hot": 611911,
-      "num": 146267,
-      "word": "我两天不能玩手机了",
-      "onboard_time": 1760454562,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 571661,
-      "num": 571661,
+      "raw_hot": 703308,
+      "num": 703308,
       "word": "王楚钦vs张本智和",
       "onboard_time": 1760453602,
       "rank": 3,
       "category": "体育"
     },
     {
+      "raw_hot": 611911,
+      "num": 149494,
+      "word": "我两天不能玩手机了",
+      "onboard_time": 1760454562,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 443775,
-      "num": 144210,
+      "num": 148520,
       "word": "汪苏泷张碧晨音综对打",
       "onboard_time": 1760445621,
       "rank": 11,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 347920,
-      "num": 142104,
+      "num": 146961,
       "word": "田曦薇 好奇怪有人比我更相信我",
       "onboard_time": 1760444780,
       "rank": 12,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 328345,
-      "num": 138929,
+      "num": 145882,
       "word": "谭松韵宣布结束高强度拍摄",
       "onboard_time": 1760454083,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305175,
+      "num": 147914,
+      "word": "演员馨子回应不拍戏",
+      "onboard_time": 1760456482,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 294969,
@@ -73,14 +81,6 @@
       "onboard_time": 1760454623,
       "rank": 5,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 294299,
-      "num": 136651,
-      "word": "演员馨子回应不拍戏",
-      "onboard_time": 1760456482,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 274531,
@@ -92,11 +92,19 @@
     },
     {
       "raw_hot": 271712,
-      "num": 121114,
+      "num": 127260,
       "word": "金价",
       "onboard_time": 1760450962,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 207373,
+      "num": 126918,
+      "word": "国乒男团1比2日本",
+      "onboard_time": 1760459120,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 200542,
@@ -107,8 +115,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200105,
+      "num": 145030,
+      "word": "王楚钦单局让张本智和得1分",
+      "onboard_time": 1760459899,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186706,
-      "num": 113202,
+      "num": 123536,
       "word": "金价银价跳水",
       "onboard_time": 1760423843,
       "rank": 21,
@@ -131,16 +147,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152220,
-      "num": 104701,
-      "word": "国乒男团1比2日本",
-      "onboard_time": 1760459120,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 148149,
-      "num": 132008,
+      "num": 135785,
       "word": "李沛恩合约",
       "onboard_time": 1760448562,
       "rank": 16,
@@ -148,11 +156,19 @@
     },
     {
       "raw_hot": 148101,
-      "num": 148101,
+      "num": 150388,
       "word": "解清帅举办婚礼一天后奶奶离世",
       "onboard_time": 1760448201,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144914,
+      "num": 144914,
+      "word": "考研没把握就报清华北大",
+      "onboard_time": 1760444180,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 131524,
@@ -161,14 +177,6 @@
       "onboard_time": 1760448923,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127284,
-      "num": 127284,
-      "word": "考研没把握就报清华北大",
-      "onboard_time": 1760444180,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 103150,
@@ -211,6 +219,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 85285,
+      "num": 128307,
+      "word": "一笑随歌预告",
+      "onboard_time": 1760458460,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 83378,
+      "num": 96119,
+      "word": "林诗栋11比2篠塚大登",
+      "onboard_time": 1760459479,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82372,
       "num": 96462,
       "word": "林允你在你美丽的脸上做什么",
@@ -219,7 +243,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 78020,
+      "raw_hot": 81017,
       "num": 96419,
       "word": "黄晓明新片清华首映口碑",
       "onboard_time": 1760456662,
@@ -235,12 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72995,
-      "num": 123561,
-      "word": "一笑随歌预告",
-      "onboard_time": 1760458460,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 70867,
+      "num": 80512,
+      "word": "王皓脸色铁青",
+      "onboard_time": 1760460199,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 69479,
@@ -259,7 +283,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 65933,
+      "raw_hot": 66075,
       "num": 96318,
       "word": "特朗普改口称是想帮中国",
       "onboard_time": 1760447602,
@@ -307,7 +331,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 58279,
+      "raw_hot": 60304,
       "num": 96178,
       "word": "王源宇宙超级无敌大狂欢巡演",
       "onboard_time": 1760457621,
@@ -315,19 +339,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 59929,
+      "num": 95965,
+      "word": "王楚钦11比9松岛辉空",
+      "onboard_time": 1760456181,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58218,
       "num": 96152,
       "word": "林诗栋11比5篠塚大登",
       "onboard_time": 1760457740,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 57515,
-      "num": 96119,
-      "word": "林诗栋11比2篠塚大登",
-      "onboard_time": 1760459479,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -371,12 +395,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51072,
-      "num": 95965,
-      "word": "王楚钦11比9松岛辉空",
-      "onboard_time": 1760456181,
-      "rank": 47,
-      "category": "体育"
+      "raw_hot": 53918,
+      "num": 79617,
+      "word": "iG告别S15",
+      "onboard_time": 1760458580,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 50141,
+      "num": 79215,
+      "word": "做多黄金成最拥挤交易",
+      "onboard_time": 1760460020,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 42672,
@@ -396,7 +428,7 @@
     },
     {
       "raw_hot": 23963,
-      "num": 590009,
+      "num": 770075,
       "word": "张雨霏希望30岁还能站上奥运赛场",
       "onboard_time": 1760452883,
       "rank": 2,

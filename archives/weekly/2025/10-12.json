@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760459536334,
+  "endTime": 1760460438075,
   "band_list": [
     {
       "raw_hot": 8054511,
@@ -155,8 +155,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1165617,
-      "num": 1165617,
+      "raw_hot": 1171434,
+      "num": 1171434,
       "word": "国乒男团0比2日本",
       "onboard_time": 1760455401,
       "rank": 21,
@@ -257,6 +257,14 @@
       "onboard_time": 1760336181,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 997753,
+      "num": 997753,
+      "word": "王楚钦扇自己巴掌",
+      "onboard_time": 1760457321,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 992289,
@@ -419,14 +427,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 817249,
-      "num": 817249,
-      "word": "王楚钦扇自己巴掌",
-      "onboard_time": 1760457321,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 810388,
       "num": 307412,
       "word": "孟子义李昀锐广东开机同框",
@@ -529,6 +529,14 @@
       "onboard_time": 1760236580,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 703308,
+      "num": 703308,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1760453602,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 701662,
@@ -817,14 +825,6 @@
       "onboard_time": 1760355381,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 571661,
-      "num": 571661,
-      "word": "王楚钦vs张本智和",
-      "onboard_time": 1760453602,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 570746,
@@ -1915,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 305175,
+      "num": 147914,
+      "word": "演员馨子回应不拍戏",
+      "onboard_time": 1760456482,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305111,
       "num": 305111,
       "word": "张杰演唱会电力故障用喇叭唱逆战",
@@ -2009,14 +2017,6 @@
       "onboard_time": 1760342361,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 294299,
-      "num": 136651,
-      "word": "演员馨子回应不拍戏",
-      "onboard_time": 1760456482,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 293592,
@@ -2731,6 +2731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 207373,
+      "num": 126918,
+      "word": "国乒男团1比2日本",
+      "onboard_time": 1760459120,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206111,
       "num": 206111,
       "word": "外交部回应美方关税威胁",
@@ -2833,6 +2841,14 @@
       "onboard_time": 1760235320,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200105,
+      "num": 145030,
+      "word": "王楚钦单局让张本智和得1分",
+      "onboard_time": 1760459899,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 199723,
@@ -3961,14 +3977,6 @@
       "onboard_time": 1760227579,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152220,
-      "num": 104701,
-      "word": "国乒男团1比2日本",
-      "onboard_time": 1760459120,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 152074,
@@ -7875,6 +7883,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 85285,
+      "num": 128307,
+      "word": "一笑随歌预告",
+      "onboard_time": 1760458460,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85259,
       "num": 85259,
       "word": "男子深夜撬10座墓盗窃骨灰撒一地",
@@ -8033,6 +8049,14 @@
       "onboard_time": 1760273240,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83378,
+      "num": 96119,
+      "word": "林诗栋11比2篠塚大登",
+      "onboard_time": 1760459479,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 83315,
@@ -8225,6 +8249,14 @@
       "onboard_time": 1760340021,
       "rank": 41,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 81017,
+      "num": 96419,
+      "word": "黄晓明新片清华首映口碑",
+      "onboard_time": 1760456662,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 81010,
@@ -8457,14 +8489,6 @@
       "onboard_time": 1760259201,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 78020,
-      "num": 96419,
-      "word": "黄晓明新片清华首映口碑",
-      "onboard_time": 1760456662,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 77839,
@@ -8763,14 +8787,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 72995,
-      "num": 123561,
-      "word": "一笑随歌预告",
-      "onboard_time": 1760458460,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 72976,
       "num": 72976,
       "word": "官方通报鸭腿套餐发现有活蛆",
@@ -8865,6 +8881,14 @@
       "onboard_time": 1760365402,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 70867,
+      "num": 80512,
+      "word": "王皓脸色铁青",
+      "onboard_time": 1760460199,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 70479,
@@ -9251,6 +9275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60304,
+      "num": 96178,
+      "word": "王源宇宙超级无敌大狂欢巡演",
+      "onboard_time": 1760457621,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 59947,
       "num": 88689,
       "word": "球迷高喊换曾凡博",
@@ -9283,14 +9315,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 58279,
-      "num": 96178,
-      "word": "王源宇宙超级无敌大狂欢巡演",
-      "onboard_time": 1760457621,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 58218,
       "num": 96152,
       "word": "林诗栋11比5篠塚大登",
@@ -9321,14 +9345,6 @@
       "onboard_time": 1760277801,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57515,
-      "num": 96119,
-      "word": "林诗栋11比2篠塚大登",
-      "onboard_time": 1760459479,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 57375,
@@ -9475,6 +9491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53918,
+      "num": 79617,
+      "word": "iG告别S15",
+      "onboard_time": 1760458580,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 53638,
       "num": 113303,
       "word": "下肢瘫痪投河男子死前曾给妹妹转账",
@@ -9553,6 +9577,14 @@
       "onboard_time": 1760310438,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 50141,
+      "num": 79215,
+      "word": "做多黄金成最拥挤交易",
+      "onboard_time": 1760460020,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 49864,
@@ -10084,7 +10116,7 @@
     },
     {
       "raw_hot": 32437,
-      "num": 673266,
+      "num": 770075,
       "word": "张雨霏希望30岁还能站上奥运赛场",
       "onboard_time": 1760452883,
       "rank": 2,
