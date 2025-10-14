@@ -1,6 +1,6 @@
 {
   "startTime": 1760373145920,
-  "endTime": 1760453122286,
+  "endTime": 1760455743439,
   "band_list": [
     {
       "raw_hot": 8054511,
@@ -83,6 +83,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1149838,
+      "num": 1183974,
+      "word": "约80名韩国人下落不明",
+      "onboard_time": 1760450002,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1123355,
       "num": 1179736,
       "word": "金饰价格涨到1213元",
@@ -129,14 +137,6 @@
       "onboard_time": 1760412980,
       "rank": 25,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 853096,
-      "num": 853096,
-      "word": "约80名韩国人下落不明",
-      "onboard_time": 1760450002,
-      "rank": 5,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 850108,
@@ -201,6 +201,14 @@
       "onboard_time": 1760416940,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 730577,
+      "num": 730577,
+      "word": "王楚钦vs松岛辉空",
+      "onboard_time": 1760448923,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 724022,
@@ -305,6 +313,14 @@
       "onboard_time": 1760434161,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 558220,
+      "num": 558220,
+      "word": "金价",
+      "onboard_time": 1760450962,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 550301,
@@ -521,6 +537,14 @@
       "onboard_time": 1760440102,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 380290,
+      "num": 380290,
+      "word": "林诗栋vs篠塚大登",
+      "onboard_time": 1760453842,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 378245,
@@ -827,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236313,
+      "num": 236313,
+      "word": "黄灿灿用了李煜东的bgm",
+      "onboard_time": 1760453842,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 236034,
       "num": 236034,
       "word": "iG别急",
@@ -841,14 +873,6 @@
       "onboard_time": 1760365102,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231845,
-      "num": 231845,
-      "word": "金价",
-      "onboard_time": 1760450962,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 230844,
@@ -875,20 +899,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221921,
+      "num": 221921,
+      "word": "男子变现2公斤金条净赚百万",
+      "onboard_time": 1760454623,
+      "rank": 16,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 220555,
       "num": 454864,
       "word": "入青云我承认之前声音大了点",
       "onboard_time": 1760428823,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 220180,
-      "num": 220180,
-      "word": "王楚钦vs松岛辉空",
-      "onboard_time": 1760448923,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 217859,
@@ -913,6 +937,14 @@
       "onboard_time": 1760426722,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209736,
+      "num": 177604,
+      "word": "国乒男团0比2日本",
+      "onboard_time": 1760455401,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 207575,
@@ -945,6 +977,14 @@
       "onboard_time": 1760435420,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202081,
+      "num": 202081,
+      "word": "王楚钦不敌松岛辉空",
+      "onboard_time": 1760455042,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 199723,
@@ -1107,6 +1147,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185924,
+      "num": 135770,
+      "word": "我两天不能玩手机了",
+      "onboard_time": 1760454562,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 185382,
+      "num": 185382,
+      "word": "谭松韵宣布结束高强度拍摄",
+      "onboard_time": 1760454083,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181394,
       "num": 181394,
       "word": "苹果官网确认iPhoneAir非合约机",
@@ -1185,6 +1241,14 @@
       "onboard_time": 1760437880,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170767,
+      "num": 170767,
+      "word": "林允你在你美丽的脸上做什么",
+      "onboard_time": 1760454442,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 170725,
@@ -1321,6 +1385,14 @@
       "onboard_time": 1760418681,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 154655,
+      "num": 154655,
+      "word": "刘浩存双马尾",
+      "onboard_time": 1760450903,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 154405,
@@ -1555,6 +1627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140454,
+      "num": 140454,
+      "word": "弄简晒李沛恩解约案一审判决书",
+      "onboard_time": 1760455462,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140067,
       "num": 140067,
       "word": "黄子韬徐艺洋方回应婚礼相关传闻",
@@ -1577,6 +1657,14 @@
       "onboard_time": 1760403380,
       "rank": 26,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 136855,
+      "num": 136854,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1760453602,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 136542,
@@ -1649,14 +1737,6 @@
       "onboard_time": 1760370620,
       "rank": 21,
       "category": "数码"
-    },
-    {
-      "raw_hot": 128209,
-      "num": 128209,
-      "word": "刘浩存双马尾",
-      "onboard_time": 1760450903,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 127836,
@@ -2067,6 +2147,22 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 112833,
+      "num": 226502,
+      "word": "加沙孩子举起了五星红旗",
+      "onboard_time": 1760452342,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 112699,
+      "num": 112699,
+      "word": "黄子弘凡张峻豪正是憋不住笑的年纪",
+      "onboard_time": 1760454862,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 111700,
       "num": 111700,
       "word": "孙颖莎擦汗工作人员擦地",
@@ -2123,14 +2219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110137,
-      "num": 226502,
-      "word": "加沙孩子举起了五星红旗",
-      "onboard_time": 1760452342,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 109356,
       "num": 109356,
       "word": "郭宇欣回应和刘萧旭坦坦荡荡",
@@ -2152,6 +2240,14 @@
       "word": "业主曝外卖员撕喜字网友却不买账",
       "onboard_time": 1760436441,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109019,
+      "num": 109019,
+      "word": "高中学历杨涛鸣称能教人致富骗3.8亿",
+      "onboard_time": 1760454682,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -2243,6 +2339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105989,
+      "num": 105989,
+      "word": "Rookie赛后发博",
+      "onboard_time": 1760453664,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105980,
       "num": 105980,
       "word": "恋与深空玩家反映游戏被盗号并出售",
@@ -2315,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101943,
+      "num": 101943,
+      "word": "跑步真的会很伤膝盖吗",
+      "onboard_time": 1760454981,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 101733,
       "num": 101733,
       "word": "同花顺原唱认可陈浚铭翻唱",
@@ -2329,6 +2441,14 @@
       "onboard_time": 1760437220,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 100492,
+      "num": 100492,
+      "word": "县城羽绒服之王口碑要塌了",
+      "onboard_time": 1760453183,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100234,
@@ -2401,6 +2521,14 @@
       "onboard_time": 1760406079,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97501,
+      "num": 97501,
+      "word": "前iG打野发文",
+      "onboard_time": 1760452282,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 97330,
@@ -3275,6 +3403,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 54861,
+      "num": 100762,
+      "word": "成功学大师杨涛鸣诈骗3.8亿判无期",
+      "onboard_time": 1760453602,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54765,
       "num": 54765,
       "word": "婚礼全家福狗狗找位置被新郎抱入镜",
@@ -3467,6 +3603,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 35510,
+      "num": 136855,
+      "word": "章子怡谈女儿现场落泪",
+      "onboard_time": 1760453722,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34939,
       "num": 745855,
       "word": "第二届世界中国学大会",
@@ -3513,6 +3657,14 @@
       "onboard_time": 1760361321,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 32437,
+      "num": 673266,
+      "word": "张雨霏希望30岁还能站上奥运赛场",
+      "onboard_time": 1760452883,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 31840,
@@ -3641,14 +3793,6 @@
       "onboard_time": 1760448262,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6964,
-      "num": 673266,
-      "word": "张雨霏希望30岁还能站上奥运赛场",
-      "onboard_time": 1760452883,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 3642,
