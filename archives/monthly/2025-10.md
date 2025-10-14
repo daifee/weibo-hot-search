@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/14 19:37:13
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/14 20:54:45
 </p>
 </blockquote>
 <p>
@@ -149,6 +149,12 @@ K签（热度：2379627）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%942%E6%88%98%E8%83%9C%E5%AD%99%E9%A2%96%E8%8E%8E%23" target="weibo">
 王曼昱4比2战胜孙颖莎（热度：2363947）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E6%88%98%E8%83%9CiG%23" target="weibo">
+T1战胜iG（热度：2289458）
 </a>
 </li>
 
@@ -4065,6 +4071,12 @@ iPhone的一生要经历三次死亡（热度：494807）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iG%E5%9B%9E%E5%AE%B6%23" target="weibo">
+iG回家（热度：487321）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%20%E8%BF%99%E6%89%8D%E6%98%AF%E6%88%91%E7%9A%84%E8%A1%A3%E6%9C%8D%23" target="weibo">
 关晓彤 这才是我的衣服（热度：487215）
 </a>
@@ -5001,6 +5013,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%AE%B6%E5%BA%AD%E9%9B%87%E7%9A%84%E5%8D%B0%E5%B0%BC%E5%A5%B3%E4%BD%A3%E7%AB%9F%E6%98%AF%E5%AF%8C%E5%AE%B6%E5%A5%B3%23" target="weibo">
+香港家庭雇的印尼女佣竟是富家女（热度：417522）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%8C%A4%E6%BB%A1%E5%9B%BD%E5%A4%96%E6%99%AF%E5%8C%BA%E6%B8%B8%E5%AE%A2%E5%8F%91%E5%A3%B0%23" target="weibo">
 中国人挤满国外景区游客发声（热度：417518）
 </a>
@@ -5613,6 +5631,12 @@ iPhone17系列激活量曝光（热度：374659）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%BC%A0%E7%A2%A7%E6%99%A8%E9%9F%B3%E7%BB%BC%E5%AF%B9%E6%89%93%23" target="weibo">
+汪苏泷张碧晨音综对打（热度：372536）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%23" target="weibo">
 中秋晚会（热度：372478）
 </a>
@@ -5727,6 +5751,12 @@ iPhone17系列激活量曝光（热度：374659）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%901%E5%8D%83%E5%85%83%E6%89%BE%E4%B8%8D%E5%88%B0%E4%BA%BA%E4%B8%BA%E4%B8%B4%E7%BB%88%E7%88%B6%E4%BA%B2%E7%90%86%E5%8F%91%23" target="weibo">
+女子1千元找不到人为临终父亲理发（热度：366054）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%89%E9%9C%89%E5%BC%80%E6%92%95%E6%9F%A5%E7%90%86%23" target="weibo">
 霉霉开撕查理（热度：365767）
 </a>
@@ -5789,6 +5819,12 @@ iPhone17系列激活量曝光（热度：374659）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%86%E9%95%BF%E8%A2%AB%E5%8F%B0%E6%B9%BE%E8%AD%A6%E6%96%B9%E4%BE%A6%E5%8A%9E%23" target="weibo">
 馆长被台湾警方侦办（热度：360617）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23S15%E6%8A%BD%E7%AD%BE%23" target="weibo">
+S15抽签（热度：360276）
 </a>
 </li>
 
@@ -5975,42 +6011,6 @@ WBG零封DK（热度：347907）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B2%E6%9C%89350%E5%90%8D%E8%A2%AB%E5%9B%B0%E7%8F%A0%E5%B3%B0%E6%B8%B8%E5%AE%A2%E8%8E%B7%E6%95%91%23" target="weibo">
 已有350名被困珠峰游客获救（热度：346102）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E7%94%B7%E5%9B%A2%E5%9C%A8%E6%B9%96%E5%8D%97%E7%A7%8B%E6%99%9A%E4%B8%89%E4%BB%A3%E5%90%8C%E5%8F%B0%23" target="weibo">
-TF家族男团在湖南秋晚三代同台（热度：346043）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%9D%80%E9%9D%92%23" target="weibo">
-白鹿杀青（热度：345966）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%B4%E4%BC%8A%20%E7%88%AC%E7%A6%BB%E7%8E%B0%E5%9C%BA%23" target="weibo">
-张维伊 爬离现场（热度：345669）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%AE%B6%E9%82%A3%E9%97%BA%E5%A5%B3%23" target="weibo">
-我家那闺女（热度：345471）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E4%B8%AA%E6%9C%88%E7%98%A655%E6%96%A4%E7%9A%84%E9%9D%A2%E9%83%A8%E5%8F%98%E5%8C%96%23" target="weibo">
-六个月瘦55斤的面部变化（热度：345390）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%AA%80%E5%81%A5%E6%AC%A1%20%E7%A9%BA%E6%9E%AA%23" target="weibo">
-朱一龙檀健次 空枪（热度：345350）
 </a>
 </li>
 

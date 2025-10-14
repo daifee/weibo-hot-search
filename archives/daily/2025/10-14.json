@@ -1,6 +1,6 @@
 {
   "startTime": 1760373145920,
-  "endTime": 1760441833255,
+  "endTime": 1760446485109,
   "band_list": [
     {
       "raw_hot": 8054511,
@@ -17,6 +17,14 @@
       "onboard_time": 1760415142,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2289458,
+      "num": 2289458,
+      "word": "T1战胜iG",
+      "onboard_time": 1760442922,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 1886560,
@@ -291,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 487321,
+      "num": 487321,
+      "word": "iG回家",
+      "onboard_time": 1760442982,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 475597,
       "num": 214905,
       "word": "糖尿病男子剪趾甲破皮失去10根脚趾",
@@ -379,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 417522,
+      "num": 232227,
+      "word": "香港家庭雇的印尼女佣竟是富家女",
+      "onboard_time": 1760444720,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 412252,
       "num": 412252,
       "word": "大疆硬刚美国防部",
@@ -427,12 +451,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 372536,
+      "num": 225066,
+      "word": "汪苏泷张碧晨音综对打",
+      "onboard_time": 1760445621,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 370339,
       "num": 232051,
       "word": "A股",
       "onboard_time": 1760422641,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 366054,
+      "num": 366054,
+      "word": "女子1千元找不到人为临终父亲理发",
+      "onboard_time": 1760442561,
+      "rank": 5,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 360276,
+      "num": 360276,
+      "word": "S15抽签",
+      "onboard_time": 1760444780,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 353776,
@@ -449,6 +497,14 @@
       "onboard_time": 1760428522,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 345103,
+      "num": 217124,
+      "word": "田曦薇 好奇怪有人比我更相信我",
+      "onboard_time": 1760444780,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 338034,
@@ -659,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245983,
+      "num": 245983,
+      "word": "意外运到美国的中国小猫已恢复健康",
+      "onboard_time": 1760444480,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 242267,
       "num": 210729,
       "word": "谭松韵 除了体重一切安好",
@@ -689,6 +753,14 @@
       "onboard_time": 1760365102,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232473,
+      "num": 232473,
+      "word": "日本vs巴西",
+      "onboard_time": 1760445501,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 230844,
@@ -747,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207575,
+      "num": 207575,
+      "word": "AL打HLE",
+      "onboard_time": 1760444841,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205367,
       "num": 212820,
       "word": "石破茂卸任在即说出心里话",
@@ -793,6 +873,14 @@
       "onboard_time": 1760371519,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196209,
+      "num": 133364,
+      "word": "加沙内战",
+      "onboard_time": 1760445501,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 193675,
@@ -897,6 +985,14 @@
       "onboard_time": 1760434161,
       "rank": 9,
       "category": "互联网,汽车"
+    },
+    {
+      "raw_hot": 174837,
+      "num": 174837,
+      "word": "考研没把握就报清华北大",
+      "onboard_time": 1760444180,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 173267,
@@ -1043,12 +1139,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 154405,
+      "num": 154405,
+      "word": "小米澎湃OS3",
+      "onboard_time": 1760445561,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 154251,
       "num": 154251,
       "word": "猎豹",
       "onboard_time": 1760437341,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154087,
+      "num": 154087,
+      "word": "昆凌谈好身材秘诀就是不吃",
+      "onboard_time": 1760441660,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 153692,
@@ -1140,7 +1252,7 @@
     },
     {
       "raw_hot": 147968,
-      "num": 147968,
+      "num": 173948,
       "word": "凤戏阳 夏静炎",
       "onboard_time": 1760441241,
       "rank": 16,
@@ -1169,6 +1281,14 @@
       "onboard_time": 1760418681,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145537,
+      "num": 145537,
+      "word": "iG十七强",
+      "onboard_time": 1760443581,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 145492,
@@ -1211,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142134,
+      "num": 132667,
+      "word": "易梦玲又瘦又有",
+      "onboard_time": 1760440461,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141955,
       "num": 143769,
       "word": "香肠里竟吃出完整3颗牙",
@@ -1247,6 +1375,14 @@
       "num": 138944,
       "word": "吃味千拉面发现碗里全是飞虫",
       "onboard_time": 1760412681,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138709,
+      "num": 138709,
+      "word": "女主播每天播12小时替榜一还钱",
+      "onboard_time": 1760444720,
       "rank": 29,
       "category": "民生新闻"
     },
@@ -1515,6 +1651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119798,
+      "num": 119798,
+      "word": "迪丽热巴初秋plog",
+      "onboard_time": 1760444421,
+      "rank": 33,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 119632,
       "num": 119632,
       "word": "亚太市场集体跳水拖累A股",
@@ -1571,6 +1715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117862,
+      "num": 117862,
+      "word": "央行明日开展6000亿买断式逆回购操作",
+      "onboard_time": 1760445561,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 117853,
       "num": 237106,
       "word": "美国或失1600万吨大豆订单",
@@ -1601,14 +1753,6 @@
       "onboard_time": 1760424142,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116250,
-      "num": 127232,
-      "word": "易梦玲又瘦又有",
-      "onboard_time": 1760440461,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 116153,
@@ -1747,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108986,
+      "num": 108986,
+      "word": "徐璐 帮我修瘦一点",
+      "onboard_time": 1760445021,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108750,
       "num": 108750,
       "word": "每天走多少步抵消久坐伤害",
@@ -1776,6 +1928,22 @@
       "word": "Rookie找回状态",
       "onboard_time": 1760440461,
       "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 107536,
+      "num": 107536,
+      "word": "万科",
+      "onboard_time": 1760444300,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 107397,
+      "num": 107397,
+      "word": "T1晋级瑞士轮",
+      "onboard_time": 1760445321,
+      "rank": 41,
       "category": "电竞"
     },
     {
@@ -1833,6 +2001,14 @@
       "onboard_time": 1760353401,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105561,
+      "num": 105561,
+      "word": "GALA首次无缘八强",
+      "onboard_time": 1760446041,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 104639,
@@ -1929,14 +2105,6 @@
       "onboard_time": 1760420121,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 99809,
-      "num": 99809,
-      "word": "昆凌谈好身材秘诀就是不吃",
-      "onboard_time": 1760441660,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 99327,
@@ -2041,6 +2209,14 @@
       "onboard_time": 1760374996,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92674,
+      "num": 92674,
+      "word": "惊天大涅槃",
+      "onboard_time": 1760443222,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 92646,
@@ -2161,6 +2337,22 @@
       "onboard_time": 1760425223,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89273,
+      "num": 89273,
+      "word": "法拉利新电车被重庆人先坐上了",
+      "onboard_time": 1760445981,
+      "rank": 47,
+      "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 88620,
+      "num": 88620,
+      "word": "虫虫的日常好精致",
+      "onboard_time": 1760446400,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 88397,
@@ -2411,6 +2603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72740,
+      "num": 218246,
+      "word": "京东11.11真的包了一辆高铁",
+      "onboard_time": 1760443702,
+      "rank": 12,
+      "category": "互联网,体育"
+    },
+    {
       "raw_hot": 72008,
       "num": 72008,
       "word": "李昀锐对王影璐说只有自己失眠",
@@ -2579,6 +2779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62228,
+      "num": 107546,
+      "word": "金价狂飙淘金工具卖爆了",
+      "onboard_time": 1760446280,
+      "rank": 39,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 62185,
       "num": 62185,
       "word": "发工资第一件事",
@@ -2593,6 +2801,14 @@
       "onboard_time": 1760370800,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 61343,
+      "num": 172818,
+      "word": "京东上线1折秒手机电视活动",
+      "onboard_time": 1760443581,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 60862,
@@ -2625,6 +2841,14 @@
       "onboard_time": 1760403501,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58588,
+      "num": 88510,
+      "word": "时装周最亮眼艺人TOP10",
+      "onboard_time": 1760443822,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 58202,
@@ -2971,20 +3195,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24534,
+      "num": 127840,
+      "word": "刘宇宁莫非是靠长腿拿下京东代言",
+      "onboard_time": 1760441600,
+      "rank": 31,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 24336,
       "num": 50748,
       "word": "星品影响力",
       "onboard_time": 1760377155,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22073,
-      "num": 127840,
-      "word": "刘宇宁莫非是靠长腿拿下京东代言",
-      "onboard_time": 1760441600,
-      "rank": 31,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 21385,
