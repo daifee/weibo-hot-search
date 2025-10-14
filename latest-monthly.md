@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/14 23:29:03
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/14 23:40:23
 </p>
 </blockquote>
 <p>
@@ -4551,6 +4551,12 @@ K签证（热度：453444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%98%E7%8E%B02%E5%85%AC%E6%96%A4%E9%87%91%E6%9D%A1%E5%87%80%E8%B5%9A%E7%99%BE%E4%B8%87%23" target="weibo">
+男子变现2公斤金条净赚百万（热度：451581）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E5%A6%8D%E5%A6%8D%E6%8E%A5%E7%94%B5%E8%AF%9D%E5%90%8D%E5%9C%BA%E9%9D%A2%E6%9D%A5%E4%BA%86%23" target="weibo">
 许我耀眼妍妍接电话名场面来了（热度：451290）
 </a>
@@ -5307,6 +5313,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8Bvs%E7%AF%A0%E5%A1%9A%E5%A4%A7%E7%99%BB%23" target="weibo">
+林诗栋vs篠塚大登（热度：398104）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%81%AA%E6%98%8E%E5%B7%B2%E7%BB%8F%E6%8F%90%E5%89%8D%E5%88%B05%E5%8F%B7%E8%BF%94%E7%A8%8B%E4%BA%86%23" target="weibo">
 大聪明已经提前到5号返程了（热度：397604）
 </a>
@@ -5537,12 +5549,6 @@ Wei什么（热度：385683）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%A4%A9%E5%9C%B0%E5%89%91%E5%BF%83%E8%BF%87%E5%AE%A1%E4%B8%8B%E8%AF%81%23" target="weibo">
 成毅天地剑心过审下证（热度：380734）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8Bvs%E7%AF%A0%E5%A1%9A%E5%A4%A7%E7%99%BB%23" target="weibo">
-林诗栋vs篠塚大登（热度：380290）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ S15抽签（热度：360276）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%94%E6%B8%A9%E5%86%B7%E5%87%BA11%E6%9C%88%E6%B0%B4%E5%B9%B3%23" target="weibo">
 气温冷出11月水平（热度：352017）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A81%E5%85%831%E4%B8%AA%23" target="weibo">
-大国重器1元1个（热度：350391）
 </a>
 </li>
 

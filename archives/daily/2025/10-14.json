@@ -1,6 +1,6 @@
 {
   "startTime": 1760373145920,
-  "endTime": 1760455743439,
+  "endTime": 1760456423216,
   "band_list": [
     {
       "raw_hot": 8054511,
@@ -251,6 +251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 623738,
+      "num": 623738,
+      "word": "金价",
+      "onboard_time": 1760450962,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 617066,
       "num": 617066,
       "word": "香港家庭雇的印尼女佣竟是富家女",
@@ -313,14 +321,6 @@
       "onboard_time": 1760434161,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 558220,
-      "num": 558220,
-      "word": "金价",
-      "onboard_time": 1760450962,
-      "rank": 28,
-      "category": "财经"
     },
     {
       "raw_hot": 550301,
@@ -451,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 451581,
+      "num": 451581,
+      "word": "男子变现2公斤金条净赚百万",
+      "onboard_time": 1760454623,
+      "rank": 16,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 450903,
       "num": 450903,
       "word": "女子1千元找不到人为临终父亲理发",
@@ -523,6 +531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 398104,
+      "num": 398104,
+      "word": "林诗栋vs篠塚大登",
+      "onboard_time": 1760453842,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 389460,
       "num": 222834,
       "word": "往届生的天塌了",
@@ -537,14 +553,6 @@
       "onboard_time": 1760440102,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 380290,
-      "num": 380290,
-      "word": "林诗栋vs篠塚大登",
-      "onboard_time": 1760453842,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 378245,
@@ -595,12 +603,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 347594,
+      "num": 288896,
+      "word": "黄灿灿用了李煜东的bgm",
+      "onboard_time": 1760453842,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 344929,
       "num": 288988,
       "word": "加沙内战",
       "onboard_time": 1760445501,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 338682,
+      "num": 338682,
+      "word": "国乒男团0比2日本",
+      "onboard_time": 1760455401,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 338034,
@@ -617,6 +641,14 @@
       "onboard_time": 1760417243,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 325300,
+      "num": 288211,
+      "word": "我两天不能玩手机了",
+      "onboard_time": 1760454562,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 320064,
@@ -851,14 +883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236313,
-      "num": 236313,
-      "word": "黄灿灿用了李煜东的bgm",
-      "onboard_time": 1760453842,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 236034,
       "num": 236034,
       "word": "iG别急",
@@ -899,14 +923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221921,
-      "num": 221921,
-      "word": "男子变现2公斤金条净赚百万",
-      "onboard_time": 1760454623,
-      "rank": 16,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 220555,
       "num": 454864,
       "word": "入青云我承认之前声音大了点",
@@ -921,6 +937,14 @@
       "onboard_time": 1760435540,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 215507,
+      "num": 215507,
+      "word": "王楚钦不敌松岛辉空",
+      "onboard_time": 1760455042,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 214662,
@@ -939,14 +963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 209736,
-      "num": 177604,
-      "word": "国乒男团0比2日本",
-      "onboard_time": 1760455401,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207575,
       "num": 207575,
       "word": "AL打HLE",
@@ -963,6 +979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 205040,
+      "num": 205040,
+      "word": "谭松韵宣布结束高强度拍摄",
+      "onboard_time": 1760454083,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203042,
       "num": 203042,
       "word": "国考",
@@ -977,14 +1001,6 @@
       "onboard_time": 1760435420,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202081,
-      "num": 202081,
-      "word": "王楚钦不敌松岛辉空",
-      "onboard_time": 1760455042,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 199723,
@@ -1147,28 +1163,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185924,
-      "num": 135770,
-      "word": "我两天不能玩手机了",
-      "onboard_time": 1760454562,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 185382,
-      "num": 185382,
-      "word": "谭松韵宣布结束高强度拍摄",
-      "onboard_time": 1760454083,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 181394,
       "num": 181394,
       "word": "苹果官网确认iPhoneAir非合约机",
       "onboard_time": 1760406140,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 180083,
+      "num": 180083,
+      "word": "弄简晒李沛恩解约案一审判决书",
+      "onboard_time": 1760455462,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 178448,
@@ -1235,20 +1243,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171585,
+      "num": 171585,
+      "word": "林允你在你美丽的脸上做什么",
+      "onboard_time": 1760454442,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171198,
       "num": 171198,
       "word": "哈尔滨的冰箱贴是要考研吗",
       "onboard_time": 1760437880,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 170767,
-      "num": 170767,
-      "word": "林允你在你美丽的脸上做什么",
-      "onboard_time": 1760454442,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 170725,
@@ -1339,12 +1347,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 160330,
+      "num": 160330,
+      "word": "王楚钦11比9松岛辉空",
+      "onboard_time": 1760456181,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159279,
       "num": 159279,
       "word": "雷军晒新疆测车照片",
       "onboard_time": 1760414782,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 158075,
+      "num": 158075,
+      "word": "刘浩存双马尾",
+      "onboard_time": 1760450903,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 157949,
@@ -1385,14 +1409,6 @@
       "onboard_time": 1760418681,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 154655,
-      "num": 154655,
-      "word": "刘浩存双马尾",
-      "onboard_time": 1760450903,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 154405,
@@ -1571,6 +1587,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 143793,
+      "num": 143793,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1760453602,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143397,
       "num": 143397,
       "word": "紫金矿业86亿又拿下一座金矿",
@@ -1627,14 +1651,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 140454,
-      "num": 140454,
-      "word": "弄简晒李沛恩解约案一审判决书",
-      "onboard_time": 1760455462,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140067,
       "num": 140067,
       "word": "黄子韬徐艺洋方回应婚礼相关传闻",
@@ -1657,14 +1673,6 @@
       "onboard_time": 1760403380,
       "rank": 26,
       "category": "数码,互联网"
-    },
-    {
-      "raw_hot": 136855,
-      "num": 136854,
-      "word": "王楚钦vs张本智和",
-      "onboard_time": 1760453602,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 136542,
@@ -2907,6 +2915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81259,
+      "num": 81259,
+      "word": "以35岁划线违背人才成长的客观规律",
+      "onboard_time": 1760456062,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80861,
       "num": 80861,
       "word": "这棵古树种子曾遨游太空",
@@ -3604,7 +3620,7 @@
     },
     {
       "raw_hot": 35510,
-      "num": 136855,
+      "num": 147561,
       "word": "章子怡谈女儿现场落泪",
       "onboard_time": 1760453722,
       "rank": 29,
