@@ -1,10 +1,10 @@
 {
   "startTime": 1760373145920,
-  "endTime": 1760416964998,
+  "endTime": 1760419478736,
   "band_list": [
     {
       "raw_hot": 2718548,
-      "num": 215674,
+      "num": 220985,
       "word": "刘轩丞称女生是家里亲戚",
       "onboard_time": 1760415142,
       "rank": 11,
@@ -12,10 +12,18 @@
     },
     {
       "raw_hot": 1843737,
-      "num": 214036,
+      "num": 221588,
       "word": "董璇 我办婚礼了吗",
       "onboard_time": 1760415082,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1559918,
+      "num": 223743,
+      "word": "她只是我的妹妹",
+      "onboard_time": 1760416643,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -51,12 +59,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 740180,
+      "num": 219744,
+      "word": "向太谈儿子向佑",
+      "onboard_time": 1760416940,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 697579,
       "num": 1091209,
       "word": "业主私挖300平地下室32户开裂",
       "onboard_time": 1760367802,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 695292,
+      "num": 217747,
+      "word": "谭松韵回应暴瘦",
+      "onboard_time": 1760417181,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 655728,
@@ -73,6 +97,14 @@
       "onboard_time": 1760411901,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 602797,
+      "num": 602797,
+      "word": "美军肥胖照火遍全网",
+      "onboard_time": 1760412980,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 592408,
@@ -123,12 +155,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 523742,
-      "num": 523742,
-      "word": "美军肥胖照火遍全网",
-      "onboard_time": 1760412980,
-      "rank": 32,
-      "category": "海外新闻"
+      "raw_hot": 528426,
+      "num": 209673,
+      "word": "杨舒予因家里紧急情况无法参赛",
+      "onboard_time": 1760415560,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 508580,
@@ -171,12 +203,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422243,
+      "num": 422243,
+      "word": "韩22岁大学生在柬疑遭贩卖致死",
+      "onboard_time": 1760417721,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 353776,
       "num": 121328,
       "word": "卢远 王乐晨",
       "onboard_time": 1760366661,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 331343,
+      "num": 331343,
+      "word": "孙颖莎vs申裕斌",
+      "onboard_time": 1760417243,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 320064,
@@ -193,14 +241,6 @@
       "onboard_time": 1760366001,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 310488,
-      "num": 208127,
-      "word": "杨舒予因家里紧急情况无法参赛",
-      "onboard_time": 1760415560,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 293592,
@@ -225,6 +265,14 @@
       "onboard_time": 1760369061,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274208,
+      "num": 274208,
+      "word": "应届硕博生国考年龄放宽到43岁",
+      "onboard_time": 1760417542,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 268230,
@@ -315,11 +363,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 234356,
+      "num": 234356,
+      "word": "学生自习看恐怖片被吓病索赔3万",
+      "onboard_time": 1760414003,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 230844,
       "num": 230844,
       "word": "西安下了1个多月雨后遍地长蘑菇",
       "onboard_time": 1760359041,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226882,
+      "num": 226882,
+      "word": "单亲妈妈误转看病钱对方全程沉默",
+      "onboard_time": 1760418142,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -339,12 +403,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 199320,
-      "num": 199320,
-      "word": "她只是我的妹妹",
-      "onboard_time": 1760416643,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 201663,
+      "num": 201663,
+      "word": "国考岗位表",
+      "onboard_time": 1760417482,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 197389,
@@ -491,6 +555,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 156355,
+      "num": 156355,
+      "word": "迪丽热巴邓妍第四杨紫何惟芳第七",
+      "onboard_time": 1760416402,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 155119,
+      "num": 225304,
+      "word": "体测",
+      "onboard_time": 1760418681,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 153692,
       "num": 153692,
       "word": "第一次见不开机也全是秘密的手机",
@@ -513,6 +593,14 @@
       "onboard_time": 1760412561,
       "rank": 31,
       "category": "读书作家,幽默"
+    },
+    {
+      "raw_hot": 150779,
+      "num": 150779,
+      "word": "一糖尿病患者2年内失去10根脚趾",
+      "onboard_time": 1760419161,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150641,
@@ -545,6 +633,22 @@
       "onboard_time": 1760416643,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 145997,
+      "num": 216135,
+      "word": "谁能扛住大男主剧",
+      "onboard_time": 1760418681,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145492,
+      "num": 217519,
+      "word": "明日方舟",
+      "onboard_time": 1760417482,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 143397,
@@ -611,14 +715,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 134264,
-      "num": 134264,
-      "word": "学生自习看恐怖片被吓病索赔3万",
-      "onboard_time": 1760414003,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130268,
       "num": 111226,
       "word": "vivoX300系列开箱测评",
@@ -635,12 +731,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126515,
+      "num": 184477,
+      "word": "川音到底出了多少个冠军",
+      "onboard_time": 1760417721,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126407,
       "num": 126407,
       "word": "普通家庭结婚要花多少钱",
       "onboard_time": 1760414662,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126328,
+      "num": 202399,
+      "word": "华为耳夹耳机成国际时装周常客",
+      "onboard_time": 1760415262,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 126015,
@@ -673,6 +785,14 @@
       "onboard_time": 1760360481,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 122302,
+      "num": 122302,
+      "word": "A股光伏领域大涨",
+      "onboard_time": 1760419100,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 122264,
@@ -723,12 +843,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117328,
+      "num": 117328,
+      "word": "曾舜晞在我手机里吻了半个月了",
+      "onboard_time": 1760418323,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 115980,
+      "num": 115980,
+      "word": "孙颖莎大长腿",
+      "onboard_time": 1760419281,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115578,
       "num": 115578,
       "word": "GALA高情商回应质疑",
       "onboard_time": 1760409201,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 115463,
+      "num": 207440,
+      "word": "更适合中国宝宝的含金量还在上升",
+      "onboard_time": 1760419100,
+      "rank": 22,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 113832,
@@ -747,14 +891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 113570,
-      "num": 113570,
-      "word": "向太谈儿子向佑",
-      "onboard_time": 1760416940,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113416,
       "num": 113416,
       "word": "半导体行业协会声明",
@@ -763,20 +899,20 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 113361,
-      "num": 184527,
-      "word": "华为耳夹耳机成国际时装周常客",
-      "onboard_time": 1760415262,
-      "rank": 27,
-      "category": "数码"
-    },
-    {
       "raw_hot": 108750,
       "num": 108750,
       "word": "每天走多少步抵消久坐伤害",
       "onboard_time": 1760409740,
       "rank": 34,
       "category": "运动健身,健康医疗"
+    },
+    {
+      "raw_hot": 105629,
+      "num": 115024,
+      "word": "入青云",
+      "onboard_time": 1760353401,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 104471,
@@ -860,7 +996,7 @@
     },
     {
       "raw_hot": 91950,
-      "num": 203829,
+      "num": 212375,
       "word": "你的人生被修剪过吗",
       "onboard_time": 1760416703,
       "rank": 20,
@@ -921,14 +1057,6 @@
       "onboard_time": 1760365643,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 88235,
-      "num": 115024,
-      "word": "入青云",
-      "onboard_time": 1760353401,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 87565,
@@ -1020,7 +1148,7 @@
     },
     {
       "raw_hot": 80515,
-      "num": 204740,
+      "num": 213982,
       "word": "陈震单挑荣耀Magic8",
       "onboard_time": 1760415623,
       "rank": 29,
@@ -1203,6 +1331,14 @@
       "category": "电竞,其它"
     },
     {
+      "raw_hot": 66616,
+      "num": 127869,
+      "word": "外卖荷包蛋硬到可以挡子弹",
+      "onboard_time": 1760418801,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66312,
       "num": 66312,
       "word": "加微信一定要别人扫我",
@@ -1307,14 +1443,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 55005,
-      "num": 146054,
-      "word": "迪丽热巴邓妍第四杨紫何惟芳第七",
-      "onboard_time": 1760416402,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 54765,
       "num": 54765,
       "word": "婚礼全家福狗狗找位置被新郎抱入镜",
@@ -1361,6 +1489,14 @@
       "onboard_time": 1760415441,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47989,
+      "num": 211209,
+      "word": "高血压人群更需警惕带状疱疹风险",
+      "onboard_time": 1760418561,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 47784,
