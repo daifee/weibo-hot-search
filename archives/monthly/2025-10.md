@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/14 14:50:00
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/14 15:26:12
 </p>
 </blockquote>
 <p>
@@ -1149,6 +1149,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%B2%B3%E6%96%B0%E9%83%8E%E5%92%8C%E6%96%B0%E5%A8%98%E5%9C%A8%E5%A9%9A%E8%BD%A6%E4%B8%8A%E4%B8%80%E7%9B%B4%E4%BA%89%E5%90%B5%23" target="weibo">
+跳河新郎和新娘在婚车上一直争吵（热度：990361）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%8C%97cp%23" target="weibo">
 南北cp（热度：989262）
 </a>
@@ -1979,6 +1985,12 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E8%85%BE%E8%AE%AF%E7%83%AD%E5%BA%A6%E7%A0%B432000%23" target="weibo">
 许我耀眼腾讯热度破32000（热度：754318）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BA%9A%E9%B9%8F%20%E5%85%B1%E5%88%9B%E7%A6%BB%E5%A9%9A%E8%A7%86%E9%A2%91%23" target="weibo">
+李亚鹏 共创离婚视频（热度：753897）
 </a>
 </li>
 
@@ -3897,6 +3909,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23" target="weibo">
+金价银价跳水（热度：496167）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E4%BD%A9%E5%B2%91%E4%B8%BB%E6%8C%81%E5%A4%AE%E8%A7%86%E7%A7%8B%E6%99%9A%23" target="weibo">
 侯佩岑主持央视秋晚（热度：495661）
 </a>
@@ -5001,6 +5019,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%8C%BB%E5%AD%A6%E7%94%9F%E4%B8%8E%E6%9C%8B%E5%8F%8B%E5%A4%96%E5%87%BA%E9%81%AD%E8%BD%AE%E5%A5%B8%23" target="weibo">
+印度女医学生与朋友外出遭轮奸（热度：408131）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232025%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%A5%A8%E6%88%BF18.35%E4%BA%BF%23" target="weibo">
 2025国庆档票房18.35亿（热度：408054）
 </a>
@@ -5159,12 +5183,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%B1%B1%E5%B1%B1%E9%A1%B6%E5%AE%BE%E9%A6%86%E6%8F%90%E4%BE%9B99%E5%85%83%E5%9D%90%E5%B8%AD%E5%8F%AF%E8%BF%87%E5%A4%9C%23" target="weibo">
 泰山山顶宾馆提供99元坐席可过夜（热度：394008）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%8C%BB%E5%AD%A6%E7%94%9F%E4%B8%8E%E6%9C%8B%E5%8F%8B%E5%A4%96%E5%87%BA%E9%81%AD%E8%BD%AE%E5%A5%B8%23" target="weibo">
-印度女医学生与朋友外出遭轮奸（热度：393911）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ p图姐喊话黄俊捷（热度：342786）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%AF%E4%BF%9D%E5%B0%91%E5%A5%B3%E6%8A%B5%E8%BE%BE%E5%B8%8C%E8%85%8A%E6%95%B0%E7%99%BE%E4%BA%BA%E6%AC%A2%E8%BF%8E%23" target="weibo">
 环保少女抵达希腊数百人欢迎（热度：336772）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E4%BC%AF%E9%AA%9E%E4%BB%A5%E4%B8%BA%E6%98%AF%E9%A9%AC%E5%98%89%E7%A5%BA%E4%B8%8D%E6%95%A2%E5%96%8A%23" target="weibo">
-马伯骞以为是马嘉祺不敢喊（热度：336765）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E5%BE%AE%E4%BF%A1%E4%B8%80%E5%AE%9A%E8%A6%81%E5%88%AB%E4%BA%BA%E6%89%AB%E6%88%91%23" target="weibo">
-加微信一定要别人扫我（热度：336609）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E8%AF%B4%E9%A9%AC%E9%A0%94%E5%93%AA%E5%93%AA%E9%83%BD%E6%98%AF%E5%8A%A0%E5%88%86%E9%A1%B9%23" target="weibo">
-李纯说马頔哪哪都是加分项（热度：336296）
 </a>
 </li>
 
