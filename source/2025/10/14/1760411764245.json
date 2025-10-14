@@ -1,0 +1,410 @@
+{
+  "runTime": 1760411764245,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1113488,
+        "num": 1178158,
+        "word": "国考公告",
+        "onboard_time": 1760404820,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 568324,
+        "num": 568324,
+        "word": "金饰价格涨到1213元",
+        "onboard_time": 1760407400,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 33051,
+        "num": 467917,
+        "word": "千年永定润北京",
+        "onboard_time": 1760409799,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408925,
+        "num": 408925,
+        "word": "韩国几十年后或将种不了苹果",
+        "onboard_time": 1760407641,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 238195,
+        "num": 238195,
+        "word": "业主私挖300平地下室32户开裂",
+        "onboard_time": 1760367802,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226725,
+        "num": 226725,
+        "word": "很少用震撼来形容一个手机壳",
+        "onboard_time": 1760404939,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210430,
+        "num": 210430,
+        "word": "1元奶茶低价内卷新法有规定",
+        "onboard_time": 1760404581,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172060,
+        "num": 172060,
+        "word": "中国半导体行业协会严重关切",
+        "onboard_time": 1760407820,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171232,
+        "num": 171232,
+        "word": "第一批追大奉的人嘴角压不住了",
+        "onboard_time": 1760369061,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162626,
+        "num": 162626,
+        "word": "杭州你冷得让我陌生",
+        "onboard_time": 1760402421,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622221,
+        "num": 162426,
+        "word": "赵丽颖被问是儿子暖还是羊绒暖",
+        "onboard_time": 1760406919,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319028,
+        "num": 162331,
+        "word": "黄子韬十月十六号婚礼",
+        "onboard_time": 1760397678,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311605,
+        "num": 162021,
+        "word": "伦敦偶遇王诗龄一家三口",
+        "onboard_time": 1760410040,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209430,
+        "num": 161957,
+        "word": "宁静说明星私底下都不太联系",
+        "onboard_time": 1760397317,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202658,
+        "num": 161627,
+        "word": "配音演员回应许我耀眼许妍配音",
+        "onboard_time": 1760401521,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161611,
+        "num": 161611,
+        "word": "中国唱将定档",
+        "onboard_time": 1760410940,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159974,
+        "num": 159974,
+        "word": "石破茂卸任在即说出心里话",
+        "onboard_time": 1760410461,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155774,
+        "num": 155774,
+        "word": "人民空军回应小伙修复为人民服务标语",
+        "onboard_time": 1760410280,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57071,
+        "num": 155448,
+        "word": "刘宇宁腿长超1.1米",
+        "onboard_time": 1760407759,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15860,
+        "num": 154584,
+        "word": "中美经贸进行了最新一轮工作层会谈",
+        "onboard_time": 1760411360,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 260796,
+        "num": 154081,
+        "word": "网传鹿晗王俊凯张艺兴参加黄子韬婚礼",
+        "onboard_time": 1760408660,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224119,
+        "num": 152679,
+        "word": "原来买一送一和5折不是一回事",
+        "onboard_time": 1760407700,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187840,
+        "num": 151868,
+        "word": "女子踩指压板20分钟脚底喷血",
+        "onboard_time": 1760397198,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151862,
+        "num": 151862,
+        "word": "Doinb预测T1对战IG比分",
+        "onboard_time": 1760407220,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146592,
+        "num": 146592,
+        "word": "国乒全员油头",
+        "onboard_time": 1760397619,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144067,
+        "num": 144067,
+        "word": "6省市一周雨雨雨",
+        "onboard_time": 1760404460,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143397,
+        "num": 143397,
+        "word": "紫金矿业86亿又拿下一座金矿",
+        "onboard_time": 1760411120,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131618,
+        "num": 131618,
+        "word": "苹果官网确认iPhoneAir非合约机",
+        "onboard_time": 1760406140,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117581,
+        "num": 117581,
+        "word": "14岁自闭症男孩坠楼妈妈崩溃大哭",
+        "onboard_time": 1760369601,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117108,
+        "num": 117108,
+        "word": "建议久坐的人每天喝够水",
+        "onboard_time": 1760400561,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135328,
+        "num": 116275,
+        "word": "原来散步才是最顶级的纯爱",
+        "onboard_time": 1760411360,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115313,
+        "num": 115313,
+        "word": "女生意外拍到肿瘤细胞分裂全过程",
+        "onboard_time": 1760366421,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113952,
+        "num": 113952,
+        "word": "黄金白银飙涨原因",
+        "onboard_time": 1760404760,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113416,
+        "num": 113416,
+        "word": "半导体行业协会声明",
+        "onboard_time": 1760411181,
+        "rank": 33,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 106342,
+        "num": 106342,
+        "word": "马思纯早期书模的含金量",
+        "onboard_time": 1760411120,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104467,
+        "num": 104467,
+        "word": "TheShy赛前发博",
+        "onboard_time": 1760401700,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104003,
+        "num": 104003,
+        "word": "GALA高情商回应质疑",
+        "onboard_time": 1760409201,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99809,
+        "num": 99809,
+        "word": "田曦薇28岁生日晒照",
+        "onboard_time": 1760401281,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97324,
+        "num": 97324,
+        "word": "Win10停服",
+        "onboard_time": 1760411301,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 95919,
+        "num": 95919,
+        "word": "卢远 王乐晨",
+        "onboard_time": 1760366661,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91592,
+        "num": 91592,
+        "word": "第一次见不开机也全是秘密的手机",
+        "onboard_time": 1760411660,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90472,
+        "num": 90472,
+        "word": "每天走多少步抵消久坐伤害",
+        "onboard_time": 1760409740,
+        "rank": 41,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 88375,
+        "num": 88375,
+        "word": "山姆配送员电动车挂满大件货物",
+        "onboard_time": 1760365102,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87585,
+        "num": 87585,
+        "word": "西安下了1个多月雨后遍地长蘑菇",
+        "onboard_time": 1760359041,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59132,
+        "num": 85625,
+        "word": "微博视界大会年度推荐",
+        "onboard_time": 1760365702,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84333,
+        "num": 84333,
+        "word": "小伙用20吨石头修复为人民服务标语",
+        "onboard_time": 1760404339,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81143,
+        "num": 81143,
+        "word": "许凯请客天都异闻录剧组饮料",
+        "onboard_time": 1760407641,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78786,
+        "num": 78786,
+        "word": "林诗栋惜败本雅明",
+        "onboard_time": 1760408181,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75738,
+        "num": 75738,
+        "word": "小猫打针一下子立正了",
+        "onboard_time": 1760408120,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73881,
+        "num": 73881,
+        "word": "同花顺原唱认可陈浚铭翻唱",
+        "onboard_time": 1760405840,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#每一位妇女都是主角#"
+    }
+  }
+}

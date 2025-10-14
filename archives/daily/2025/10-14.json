@@ -1,6 +1,6 @@
 {
   "startTime": 1760373145920,
-  "endTime": 1760411176499,
+  "endTime": 1760411764245,
   "band_list": [
     {
       "raw_hot": 1257776,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 568324,
+      "num": 568324,
+      "word": "金饰价格涨到1213元",
+      "onboard_time": 1760407400,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 561040,
       "num": 181604,
       "word": "14岁自闭症男孩坠楼妈妈崩溃大哭",
@@ -57,14 +65,6 @@
       "onboard_time": 1760397678,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 471760,
-      "num": 471760,
-      "word": "金饰价格涨到1213元",
-      "onboard_time": 1760407400,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 469044,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 290287,
-      "num": 144608,
+      "num": 154081,
       "word": "网传鹿晗王俊凯张艺兴参加黄子韬婚礼",
       "onboard_time": 1760408660,
       "rank": 20,
@@ -283,6 +283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161611,
+      "num": 161611,
+      "word": "中国唱将定档",
+      "onboard_time": 1760410940,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160330,
       "num": 156634,
       "word": "建议久坐的人每天喝够水",
@@ -291,12 +299,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159974,
+      "num": 159974,
+      "word": "石破茂卸任在即说出心里话",
+      "onboard_time": 1760410461,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156432,
       "num": 156432,
       "word": "Doinb预测T1对战IG比分",
       "onboard_time": 1760407220,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155774,
+      "num": 155774,
+      "word": "人民空军回应小伙修复为人民服务标语",
+      "onboard_time": 1760410280,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153159,
@@ -323,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143397,
+      "num": 143397,
+      "word": "紫金矿业86亿又拿下一座金矿",
+      "onboard_time": 1760411120,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 140908,
       "num": 140908,
       "word": "成都七中校服潮到巴黎时装周",
@@ -339,20 +371,12 @@
       "category": "数码,互联网"
     },
     {
-      "raw_hot": 133970,
-      "num": 133970,
-      "word": "人民空军回应小伙修复为人民服务标语",
-      "onboard_time": 1760410280,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 131030,
-      "num": 131030,
-      "word": "石破茂卸任在即说出心里话",
-      "onboard_time": 1760410461,
-      "rank": 26,
-      "category": "国际时政"
+      "raw_hot": 135328,
+      "num": 116275,
+      "word": "原来散步才是最顶级的纯爱",
+      "onboard_time": 1760411360,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 130268,
@@ -427,12 +451,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113416,
+      "num": 113416,
+      "word": "半导体行业协会声明",
+      "onboard_time": 1760411181,
+      "rank": 33,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 108750,
       "num": 108750,
       "word": "每天走多少步抵消久坐伤害",
       "onboard_time": 1760409740,
       "rank": 34,
       "category": "运动健身,健康医疗"
+    },
+    {
+      "raw_hot": 106342,
+      "num": 106342,
+      "word": "马思纯早期书模的含金量",
+      "onboard_time": 1760411120,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 104471,
@@ -473,6 +513,14 @@
       "onboard_time": 1760356281,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97324,
+      "num": 97324,
+      "word": "Win10停服",
+      "onboard_time": 1760411301,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 94490,
@@ -521,6 +569,14 @@
       "onboard_time": 1760369780,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 91592,
+      "num": 91592,
+      "word": "第一次见不开机也全是秘密的手机",
+      "onboard_time": 1760411660,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 91098,
@@ -595,16 +651,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 86009,
-      "num": 86009,
-      "word": "紫金矿业86亿又拿下一座金矿",
-      "onboard_time": 1760411120,
-      "rank": 39,
-      "category": "财经"
-    },
-    {
       "raw_hot": 85990,
-      "num": 148530,
+      "num": 155448,
       "word": "刘宇宁腿长超1.1米",
       "onboard_time": 1760407759,
       "rank": 30,
@@ -659,14 +707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81971,
-      "num": 134167,
-      "word": "中国唱将定档",
-      "onboard_time": 1760410940,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 80861,
       "num": 80861,
       "word": "这棵古树种子曾遨游太空",
@@ -707,12 +747,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78979,
-      "num": 78979,
-      "word": "马思纯早期书模的含金量",
-      "onboard_time": 1760411120,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 78786,
+      "num": 78786,
+      "word": "林诗栋惜败本雅明",
+      "onboard_time": 1760408181,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75738,
+      "num": 75738,
+      "word": "小猫打针一下子立正了",
+      "onboard_time": 1760408120,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 73871,
@@ -744,14 +792,6 @@
       "word": "大爷憋了半辈子终于能说了",
       "onboard_time": 1760393054,
       "rank": 36,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 71390,
-      "num": 71390,
-      "word": "小猫打针一下子立正了",
-      "onboard_time": 1760408120,
-      "rank": 48,
       "category": "幽默"
     },
     {
@@ -1019,20 +1059,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 33051,
+      "num": 467917,
+      "word": "千年永定润北京",
+      "onboard_time": 1760409799,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32500,
       "num": 50917,
       "word": "英雄联盟主题曲",
       "onboard_time": 1760361321,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 31969,
-      "num": 460947,
-      "word": "千年永定润北京",
-      "onboard_time": 1760409799,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31840,
@@ -1089,6 +1129,14 @@
       "onboard_time": 1760360541,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 15860,
+      "num": 154584,
+      "word": "中美经贸进行了最新一轮工作层会谈",
+      "onboard_time": 1760411360,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13050,
