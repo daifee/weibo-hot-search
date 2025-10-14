@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760456423216,
+  "endTime": 1760459536334,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1041,6 +1041,14 @@
       "onboard_time": 1760146940,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1165617,
+      "num": 1165617,
+      "word": "国乒男团0比2日本",
+      "onboard_time": 1760455401,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 1158407,
@@ -2353,6 +2361,14 @@
       "onboard_time": 1759816401,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 817249,
+      "num": 817249,
+      "word": "王楚钦扇自己巴掌",
+      "onboard_time": 1760457321,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 815960,
@@ -3819,6 +3835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 611911,
+      "num": 288211,
+      "word": "我两天不能玩手机了",
+      "onboard_time": 1760454562,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 611866,
       "num": 1097898,
       "word": "向鹏vs雨果",
@@ -4241,6 +4265,14 @@
       "onboard_time": 1759373419,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 571661,
+      "num": 571661,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1760453602,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 570913,
@@ -8267,14 +8299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 338682,
-      "num": 338682,
-      "word": "国乒男团0比2日本",
-      "onboard_time": 1760455401,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 338368,
       "num": 181148,
       "word": "金价涨涨涨疯了",
@@ -8531,6 +8555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 328345,
+      "num": 205040,
+      "word": "谭松韵宣布结束高强度拍摄",
+      "onboard_time": 1760454083,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327154,
       "num": 259930,
       "word": "苏超无锡3比0盐城",
@@ -8569,14 +8601,6 @@
       "onboard_time": 1759923142,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 325300,
-      "num": 288211,
-      "word": "我两天不能玩手机了",
-      "onboard_time": 1760454562,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 325249,
@@ -9563,6 +9587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294299,
+      "num": 136651,
+      "word": "演员馨子回应不拍戏",
+      "onboard_time": 1760456482,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293683,
       "num": 172764,
       "word": "时代少年团接触个代",
@@ -10249,6 +10281,14 @@
       "onboard_time": 1759754902,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 274531,
+      "num": 274531,
+      "word": "林诗栋12比14篠塚大登",
+      "onboard_time": 1760456662,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 274208,
@@ -13249,14 +13289,6 @@
       "onboard_time": 1759911501,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 205040,
-      "num": 205040,
-      "word": "谭松韵宣布结束高强度拍摄",
-      "onboard_time": 1760454083,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 204834,
@@ -19411,6 +19443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152220,
+      "num": 104701,
+      "word": "国乒男团1比2日本",
+      "onboard_time": 1760459120,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152218,
       "num": 152218,
       "word": "时代少年团吃完火锅骑自行车回家",
@@ -20657,14 +20697,6 @@
       "onboard_time": 1760155581,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143793,
-      "num": 143793,
-      "word": "王楚钦vs张本智和",
-      "onboard_time": 1760453602,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 143733,
@@ -39739,6 +39771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78020,
+      "num": 96419,
+      "word": "黄晓明新片清华首映口碑",
+      "onboard_time": 1760456662,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 78014,
       "num": 110734,
       "word": "霉霉秀订婚钻戒",
@@ -40640,6 +40680,14 @@
       "word": "李沉舟出场名场面",
       "onboard_time": 1759973239,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 72995,
+      "num": 123561,
+      "word": "一笑随歌预告",
+      "onboard_time": 1760458460,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -42539,6 +42587,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58279,
+      "num": 96178,
+      "word": "王源宇宙超级无敌大狂欢巡演",
+      "onboard_time": 1759600456,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 58218,
+      "num": 96152,
+      "word": "林诗栋11比5篠塚大登",
+      "onboard_time": 1760457740,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58217,
       "num": 218315,
       "word": "十一沪签三件套",
@@ -42643,6 +42707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57515,
+      "num": 96119,
+      "word": "林诗栋11比2篠塚大登",
+      "onboard_time": 1760459479,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57501,
       "num": 113432,
       "word": "国庆朋友圈主理人",
@@ -42737,6 +42809,14 @@
       "onboard_time": 1759813221,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 56023,
+      "num": 96051,
+      "word": "央视曝光奢侈品低价代购骗局",
+      "onboard_time": 1760457920,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55967,
@@ -42953,6 +43033,14 @@
       "onboard_time": 1760397738,
       "rank": 47,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 54722,
+      "num": 95983,
+      "word": "部分药店买药刷医保比自费更贵",
+      "onboard_time": 1760456721,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54549,
@@ -44953,14 +45041,6 @@
       "onboard_time": 1759465941,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35605,
-      "num": 49452,
-      "word": "王源宇宙超级无敌大狂欢巡演",
-      "onboard_time": 1759600456,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 35580,

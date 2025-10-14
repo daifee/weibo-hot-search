@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760456423216,
+  "endTime": 1760459536334,
   "band_list": [
     {
       "raw_hot": 8054511,
@@ -153,6 +153,14 @@
       "onboard_time": 1760343682,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1165617,
+      "num": 1165617,
+      "word": "国乒男团0比2日本",
+      "onboard_time": 1760455401,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 1158407,
@@ -409,6 +417,14 @@
       "onboard_time": 1760279542,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 817249,
+      "num": 817249,
+      "word": "王楚钦扇自己巴掌",
+      "onboard_time": 1760457321,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 810388,
@@ -715,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 611911,
+      "num": 288211,
+      "word": "我两天不能玩手机了",
+      "onboard_time": 1760454562,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 611380,
       "num": 301370,
       "word": "关晓彤果然是被造型师陷害的",
@@ -793,6 +817,14 @@
       "onboard_time": 1760355381,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 571661,
+      "num": 571661,
+      "word": "王楚钦vs张本智和",
+      "onboard_time": 1760453602,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 570746,
@@ -1715,14 +1747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 338682,
-      "num": 338682,
-      "word": "国乒男团0比2日本",
-      "onboard_time": 1760455401,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 338034,
       "num": 338034,
       "word": "中央巡视组原副部级许传智被查",
@@ -1779,12 +1803,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 325300,
-      "num": 288211,
-      "word": "我两天不能玩手机了",
-      "onboard_time": 1760454562,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 328345,
+      "num": 205040,
+      "word": "谭松韵宣布结束高强度拍摄",
+      "onboard_time": 1760454083,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 325061,
@@ -1987,6 +2011,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 294299,
+      "num": 136651,
+      "word": "演员馨子回应不拍戏",
+      "onboard_time": 1760456482,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293592,
       "num": 293592,
       "word": "1元奶茶低价内卷新法有规定",
@@ -2113,6 +2145,14 @@
       "onboard_time": 1760318840,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 274531,
+      "num": 274531,
+      "word": "林诗栋12比14篠塚大登",
+      "onboard_time": 1760456662,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 274208,
@@ -2705,14 +2745,6 @@
       "onboard_time": 1760410461,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 205040,
-      "num": 205040,
-      "word": "谭松韵宣布结束高强度拍摄",
-      "onboard_time": 1760454083,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 204490,
@@ -3931,6 +3963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152220,
+      "num": 104701,
+      "word": "国乒男团1比2日本",
+      "onboard_time": 1760459120,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152074,
       "num": 152074,
       "word": "暗河传",
@@ -4161,14 +4201,6 @@
       "onboard_time": 1760249540,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 143793,
-      "num": 143793,
-      "word": "王楚钦vs张本智和",
-      "onboard_time": 1760453602,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 143397,
@@ -8427,6 +8459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78020,
+      "num": 96419,
+      "word": "黄晓明新片清华首映口碑",
+      "onboard_time": 1760456662,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 77839,
       "num": 139144,
       "word": "新凯来最新半导体设备将亮相",
@@ -8721,6 +8761,14 @@
       "onboard_time": 1760451503,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 72995,
+      "num": 123561,
+      "word": "一笑随歌预告",
+      "onboard_time": 1760458460,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 72976,
@@ -9235,6 +9283,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 58279,
+      "num": 96178,
+      "word": "王源宇宙超级无敌大狂欢巡演",
+      "onboard_time": 1760457621,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 58218,
+      "num": 96152,
+      "word": "林诗栋11比5篠塚大登",
+      "onboard_time": 1760457740,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58202,
       "num": 115466,
       "word": "爆剧大男主剧综人物前十只有2个",
@@ -9257,6 +9321,14 @@
       "onboard_time": 1760277801,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57515,
+      "num": 96119,
+      "word": "林诗栋11比2篠塚大登",
+      "onboard_time": 1760459479,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 57375,
@@ -9297,6 +9369,14 @@
       "onboard_time": 1760451741,
       "rank": 37,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 56023,
+      "num": 96051,
+      "word": "央视曝光奢侈品低价代购骗局",
+      "onboard_time": 1760457920,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55778,
@@ -9385,6 +9465,14 @@
       "onboard_time": 1760397738,
       "rank": 47,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 54722,
+      "num": 95983,
+      "word": "部分药店买药刷医保比自费更贵",
+      "onboard_time": 1760456721,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53638,
