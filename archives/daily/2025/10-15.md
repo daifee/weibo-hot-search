@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/15 00:32:16 ~ 2025/10/15 02:36:34
+本榜单时间：2025/10/15 00:32:16 ~ 2025/10/15 02:49:05
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ iG告别S15（热度：53918）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B2%8D%E5%A8%81%E5%B0%94%23" target="weibo">
+鲍威尔（热度：45048）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%A4%E6%88%8F%E9%98%B3%20%E5%A4%8F%E9%9D%99%E7%82%8E%23" target="weibo">
 凤戏阳 夏静炎（热度：42672）
 </a>
@@ -365,12 +371,6 @@ iG告别S15（热度：53918）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E8%AE%A9%E7%B4%A0%E4%BA%BA%E5%BD%93%E4%B8%BB%E8%A7%92%E7%9A%84%E7%BB%BC%E8%89%BA%E4%BA%86%23" target="weibo">
 终于有让素人当主角的综艺了（热度：39459）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B2%8D%E5%A8%81%E5%B0%94%23" target="weibo">
-鲍威尔（热度：36859）
 </a>
 </li>
 
@@ -419,6 +419,18 @@ KPL抽签（热度：27352）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E5%BC%80%E9%BA%A6%E5%90%A7%E8%89%BA%E4%BA%BA%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
 一起开麦吧艺人阵容官宣（热度：19327）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%9D%E9%87%8A%E5%A4%A9%E5%85%A8%E6%96%B0%E5%85%B8%E8%97%8F%E7%9A%AE%E8%82%A4%23" target="weibo">
+帝释天全新典藏皮肤（热度：18311）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%A8%98%E5%85%A8%E7%A8%8B%E9%83%BD%E5%9C%A8%E5%90%83%E7%93%9C%23" target="weibo">
+新娘全程都在吃瓜（热度：18274）
 </a>
 </li>
 

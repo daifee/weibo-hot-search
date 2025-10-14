@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760466994565,
+  "endTime": 1760467745836,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -44123,6 +44123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45048,
+      "num": 45048,
+      "word": "鲍威尔",
+      "onboard_time": 1760464876,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 44970,
       "num": 139981,
       "word": "杨博文被同学贴脸开大",
@@ -44953,14 +44961,6 @@
       "onboard_time": 1759530616,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36859,
-      "num": 36859,
-      "word": "鲍威尔",
-      "onboard_time": 1760464876,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 36769,
@@ -46705,6 +46705,22 @@
       "onboard_time": 1760173940,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 18311,
+      "num": 30228,
+      "word": "帝释天全新典藏皮肤",
+      "onboard_time": 1760467215,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 18274,
+      "num": 30220,
+      "word": "新娘全程都在吃瓜",
+      "onboard_time": 1760467454,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 18205,
