@@ -1,0 +1,410 @@
+{
+  "runTime": 1760440897826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1470038,
+        "num": 1470038,
+        "word": "iG对战T1",
+        "onboard_time": 1760427263,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1374201,
+        "num": 1374201,
+        "word": "菜鸟驿站对取件未出库罚款100元",
+        "onboard_time": 1760436861,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28617,
+        "num": 745855,
+        "word": "第二届世界中国学大会",
+        "onboard_time": 1760430201,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 468476,
+        "num": 468476,
+        "word": "禁毒大队长被控走私毒品获刑3年半",
+        "onboard_time": 1760435361,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 465191,
+        "num": 465191,
+        "word": "Wei龙坑排眼",
+        "onboard_time": 1760439923,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 412252,
+        "num": 412252,
+        "word": "大疆硬刚美国防部",
+        "onboard_time": 1760435601,
+        "rank": 5,
+        "category": "国际时政,数码"
+      },
+      {
+        "raw_hot": 385683,
+        "num": 385683,
+        "word": "Wei什么",
+        "onboard_time": 1760440102,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 320060,
+        "num": 320060,
+        "word": "王波受贿4.49亿余元",
+        "onboard_time": 1760435540,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308449,
+        "num": 308449,
+        "word": "印度女医学生与朋友外出遭轮奸",
+        "onboard_time": 1760423180,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 248852,
+        "num": 248852,
+        "word": "现在就出发3定档节奏",
+        "onboard_time": 1760435241,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 438208,
+        "num": 248612,
+        "word": "阳澄湖大闸蟹今年是淹死了吗",
+        "onboard_time": 1760430621,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 408482,
+        "num": 248495,
+        "word": "陈都灵身上的飘带20多斤",
+        "onboard_time": 1760434161,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254589,
+        "num": 248444,
+        "word": "朱丹8岁女儿设计的沙发在卢浮宫展出",
+        "onboard_time": 1760437940,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248341,
+        "num": 248341,
+        "word": "张馨予家里已经生了100多条小鱼了",
+        "onboard_time": 1760426903,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223635,
+        "num": 223635,
+        "word": "董璇 我办婚礼了吗",
+        "onboard_time": 1760415082,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218311,
+        "num": 218311,
+        "word": "iG别急",
+        "onboard_time": 1760440880,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197083,
+        "num": 197083,
+        "word": "花海找贺峻霖吃饭",
+        "onboard_time": 1760438000,
+        "rank": 16,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 195963,
+        "num": 195963,
+        "word": "天猫团队 灵隐寺",
+        "onboard_time": 1760429961,
+        "rank": 17,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 194430,
+        "num": 194430,
+        "word": "TheShy在干啥",
+        "onboard_time": 1760432783,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63434,
+        "num": 193626,
+        "word": "失眠后能快速入睡的方法",
+        "onboard_time": 1760440042,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 296195,
+        "num": 193557,
+        "word": "金价银价跳水",
+        "onboard_time": 1760423843,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 235048,
+        "num": 193427,
+        "word": "头发尽量不要洗得太勤",
+        "onboard_time": 1760429542,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192913,
+        "num": 192913,
+        "word": "陶白白支持iG",
+        "onboard_time": 1760439923,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180369,
+        "num": 180369,
+        "word": "舒淇 一手烂牌打出王炸",
+        "onboard_time": 1760433681,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180647,
+        "num": 178596,
+        "word": "谭松韵回应暴瘦",
+        "onboard_time": 1760417181,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171198,
+        "num": 171198,
+        "word": "哈尔滨的冰箱贴是要考研吗",
+        "onboard_time": 1760437880,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158129,
+        "num": 158129,
+        "word": "李威出庭不认罪",
+        "onboard_time": 1760435420,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157987,
+        "num": 157987,
+        "word": "申裕斌摸孙颖莎肚子",
+        "onboard_time": 1760429660,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130199,
+        "num": 143769,
+        "word": "香肠里竟吃出完整3颗牙",
+        "onboard_time": 1760438961,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86326,
+        "num": 139355,
+        "word": "赴山海剧本穿帮好出圈",
+        "onboard_time": 1760430201,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169270,
+        "num": 138840,
+        "word": "往届生的天塌了",
+        "onboard_time": 1760439983,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138068,
+        "num": 138068,
+        "word": "原来大家都听不清啊",
+        "onboard_time": 1760439923,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132712,
+        "num": 132712,
+        "word": "T1拿到赛点",
+        "onboard_time": 1760440283,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125054,
+        "num": 125054,
+        "word": "黄星邱鼎杰杂志销量破10万",
+        "onboard_time": 1760440702,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120102,
+        "num": 120102,
+        "word": "李亚鹏和前妻没有房产",
+        "onboard_time": 1760436381,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117679,
+        "num": 117679,
+        "word": "有偿带人进山姆5元一个人头",
+        "onboard_time": 1760438121,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115595,
+        "num": 115595,
+        "word": "老人被咬后手提2条眼镜蛇进急诊",
+        "onboard_time": 1760428641,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113798,
+        "num": 113798,
+        "word": "糖尿病男子剪趾甲破皮失去10根脚趾",
+        "onboard_time": 1760420602,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9140,
+        "num": 109386,
+        "word": "国外现实版豌豆公主",
+        "onboard_time": 1760440402,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 105410,
+        "num": 109201,
+        "word": "易梦玲又瘦又有",
+        "onboard_time": 1760440461,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109099,
+        "num": 109099,
+        "word": "管住嘴",
+        "onboard_time": 1760437520,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108235,
+        "num": 108235,
+        "word": "孙颖莎嘟嘟嘟嘟嘟嘟嘟",
+        "onboard_time": 1760439561,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44314,
+        "num": 107820,
+        "word": "用vivo在上海迪士尼巨出片",
+        "onboard_time": 1760435480,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107733,
+        "num": 107733,
+        "word": "Rookie找回状态",
+        "onboard_time": 1760440461,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104324,
+        "num": 104324,
+        "word": "iG计划有变",
+        "onboard_time": 1760436741,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103389,
+        "num": 103389,
+        "word": "王者十周年返场皮肤票选",
+        "onboard_time": 1760435241,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102451,
+        "num": 102451,
+        "word": "盛李豪打羽毛球笑翻樊振东",
+        "onboard_time": 1760440702,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46314,
+        "num": 100437,
+        "word": "刘宇宁黑皮衣",
+        "onboard_time": 1760439439,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43962,
+        "num": 100139,
+        "word": "神秘快递掉出610克黄金",
+        "onboard_time": 1760439260,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99916,
+        "num": 99916,
+        "word": "每天睡不到3小时380天唤醒植物人丈夫",
+        "onboard_time": 1760436561,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#新征程上每位妇女都是主角#"
+    }
+  }
+}

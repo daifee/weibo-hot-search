@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760438646571,
+  "endTime": 1760440897826,
   "band_list": [
     {
       "raw_hot": 8054511,
@@ -89,6 +89,14 @@
       "onboard_time": 1760229739,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1374201,
+      "num": 1374201,
+      "word": "菜鸟驿站对取件未出库罚款100元",
+      "onboard_time": 1760436861,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1327731,
@@ -740,7 +748,7 @@
     },
     {
       "raw_hot": 558913,
-      "num": 232139,
+      "num": 248495,
       "word": "陈都灵身上的飘带20多斤",
       "onboard_time": 1760434161,
       "rank": 13,
@@ -1091,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 468476,
+      "num": 468476,
+      "word": "禁毒大队长被控走私毒品获刑3年半",
+      "onboard_time": 1760435361,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 467928,
       "num": 239415,
       "word": "美国下架数百万件中国电子产品",
@@ -1105,6 +1121,14 @@
       "onboard_time": 1760417721,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 465191,
+      "num": 465191,
+      "word": "Wei龙坑排眼",
+      "onboard_time": 1760439923,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 453472,
@@ -1299,8 +1323,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 412252,
+      "num": 412252,
+      "word": "大疆硬刚美国防部",
+      "onboard_time": 1760435601,
+      "rank": 3,
+      "category": "国际时政,数码"
+    },
+    {
       "raw_hot": 408131,
-      "num": 244375,
+      "num": 308449,
       "word": "印度女医学生与朋友外出遭轮奸",
       "onboard_time": 1760423180,
       "rank": 30,
@@ -1387,20 +1419,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 391141,
-      "num": 391141,
-      "word": "菜鸟驿站对取件未出库罚款100元",
-      "onboard_time": 1760436861,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 385692,
       "num": 385692,
       "word": "广东海洋大学被曝住宿环境差",
       "onboard_time": 1760231059,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 385683,
+      "num": 385683,
+      "word": "Wei什么",
+      "onboard_time": 1760440102,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 384659,
@@ -1467,14 +1499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 351334,
-      "num": 351334,
-      "word": "大疆硬刚美国防部",
-      "onboard_time": 1760435601,
-      "rank": 3,
-      "category": "国际时政,数码"
-    },
-    {
       "raw_hot": 345669,
       "num": 283149,
       "word": "张维伊 爬离现场",
@@ -1505,14 +1529,6 @@
       "onboard_time": 1760279361,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 339420,
-      "num": 339420,
-      "word": "禁毒大队长被控走私毒品获刑3年半",
-      "onboard_time": 1760435361,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 339166,
@@ -1601,6 +1617,14 @@
       "onboard_time": 1760238620,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320060,
+      "num": 320060,
+      "word": "王波受贿4.49亿余元",
+      "onboard_time": 1760435540,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 320051,
@@ -2043,6 +2067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 254589,
+      "num": 248444,
+      "word": "朱丹8岁女儿设计的沙发在卢浮宫展出",
+      "onboard_time": 1760437940,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251998,
       "num": 251998,
       "word": "黄力平任万科董事长",
@@ -2073,6 +2105,14 @@
       "onboard_time": 1760358261,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248852,
+      "num": 248852,
+      "word": "现在就出发3定档节奏",
+      "onboard_time": 1760435241,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 247679,
@@ -2107,14 +2147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245602,
-      "num": 245602,
-      "word": "现在就出发3定档节奏",
-      "onboard_time": 1760435241,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 245412,
       "num": 245412,
       "word": "特朗普扬言限制波音零部件对华出口",
@@ -2129,14 +2161,6 @@
       "onboard_time": 1760339421,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 243978,
-      "num": 198230,
-      "word": "朱丹8岁女儿设计的沙发在卢浮宫展出",
-      "onboard_time": 1760437940,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 242267,
@@ -2347,6 +2371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 218311,
+      "num": 218311,
+      "word": "iG别急",
+      "onboard_time": 1760440880,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 217872,
       "num": 192259,
       "word": "王楚钦11比0",
@@ -2476,7 +2508,7 @@
     },
     {
       "raw_hot": 202163,
-      "num": 147982,
+      "num": 158129,
       "word": "李威出庭不认罪",
       "onboard_time": 1760435420,
       "rank": 24,
@@ -2579,6 +2611,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 197083,
+      "num": 197083,
+      "word": "花海找贺峻霖吃饭",
+      "onboard_time": 1760438000,
+      "rank": 25,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 196903,
       "num": 196903,
       "word": "vivo发布会",
@@ -2633,6 +2673,14 @@
       "onboard_time": 1760366421,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192913,
+      "num": 192913,
+      "word": "陶白白支持iG",
+      "onboard_time": 1760439923,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 192809,
@@ -2955,6 +3003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 171198,
+      "num": 171198,
+      "word": "哈尔滨的冰箱贴是要考研吗",
+      "onboard_time": 1760437880,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170725,
       "num": 234420,
       "word": "国乒女团3比0晋级决赛",
@@ -2993,6 +3049,14 @@
       "onboard_time": 1760404760,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 169270,
+      "num": 138840,
+      "word": "往届生的天塌了",
+      "onboard_time": 1760439983,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 168948,
@@ -3403,14 +3467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153776,
-      "num": 208238,
-      "word": "王波受贿4.49亿余元",
-      "onboard_time": 1760435540,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153692,
       "num": 153692,
       "word": "第一次见不开机也全是秘密的手机",
@@ -3585,14 +3641,6 @@
       "onboard_time": 1760416643,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 147872,
-      "num": 147872,
-      "word": "花海找贺峻霖吃饭",
-      "onboard_time": 1760438000,
-      "rank": 25,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 147279,
@@ -3883,6 +3931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138068,
+      "num": 138068,
+      "word": "原来大家都听不清啊",
+      "onboard_time": 1760439923,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138038,
       "num": 138038,
       "word": "美方措施是典型单边主义",
@@ -4107,6 +4163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132712,
+      "num": 132712,
+      "word": "T1拿到赛点",
+      "onboard_time": 1760440283,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132678,
       "num": 170395,
       "word": "凤随歌失忆",
@@ -4201,6 +4265,14 @@
       "onboard_time": 1760370620,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 130199,
+      "num": 143769,
+      "word": "香肠里竟吃出完整3颗牙",
+      "onboard_time": 1760438961,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129928,
@@ -4417,6 +4489,14 @@
       "onboard_time": 1760233400,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125054,
+      "num": 125054,
+      "word": "黄星邱鼎杰杂志销量破10万",
+      "onboard_time": 1760440702,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 125042,
@@ -4715,14 +4795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 121083,
-      "num": 121083,
-      "word": "哈尔滨的冰箱贴是要考研吗",
-      "onboard_time": 1760437880,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 120718,
       "num": 120718,
       "word": "S15世界赛Top20",
@@ -4929,6 +5001,14 @@
       "onboard_time": 1760417004,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 117679,
+      "num": 148579,
+      "word": "有偿带人进山姆5元一个人头",
+      "onboard_time": 1760438121,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117675,
@@ -5579,6 +5659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108235,
+      "num": 108235,
+      "word": "孙颖莎嘟嘟嘟嘟嘟嘟嘟",
+      "onboard_time": 1760439561,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108207,
       "num": 108207,
       "word": "古装剧都知道射手站后排",
@@ -5601,6 +5689,14 @@
       "onboard_time": 1760343621,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107733,
+      "num": 107733,
+      "word": "Rookie找回状态",
+      "onboard_time": 1760440461,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 107490,
@@ -5739,6 +5835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105410,
+      "num": 109201,
+      "word": "易梦玲又瘦又有",
+      "onboard_time": 1760440461,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105125,
       "num": 105125,
       "word": "王影璐扮鬼幻视袁湘琴",
@@ -5785,6 +5889,14 @@
       "onboard_time": 1760192302,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104324,
+      "num": 104324,
+      "word": "iG计划有变",
+      "onboard_time": 1760436741,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 104311,
@@ -5872,6 +5984,14 @@
       "word": "乒乓亚锦赛男团四强出炉",
       "onboard_time": 1760365583,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102451,
+      "num": 102451,
+      "word": "盛李豪打羽毛球笑翻樊振东",
+      "onboard_time": 1760440702,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -6033,14 +6153,6 @@
       "onboard_time": 1760421801,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100219,
-      "num": 100219,
-      "word": "iG计划有变",
-      "onboard_time": 1760436741,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 100204,
@@ -8235,6 +8347,14 @@
       "category": "体育,民生新闻"
     },
     {
+      "raw_hot": 63434,
+      "num": 193626,
+      "word": "失眠后能快速入睡的方法",
+      "onboard_time": 1760440042,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 63078,
       "num": 87620,
       "word": "蒙曼在长江上合唱长江之歌",
@@ -8667,20 +8787,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 46314,
+      "num": 100437,
+      "word": "刘宇宁黑皮衣",
+      "onboard_time": 1760439439,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46258,
       "num": 89152,
       "word": "王曼昱刘海变条形码",
       "onboard_time": 1760249180,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46047,
-      "num": 148579,
-      "word": "有偿带人进山姆5元一个人头",
-      "onboard_time": 1760438121,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45739,
@@ -8721,6 +8841,14 @@
       "onboard_time": 1760353339,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 43962,
+      "num": 100139,
+      "word": "神秘快递掉出610克黄金",
+      "onboard_time": 1760439260,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43915,
@@ -8996,7 +9124,7 @@
     },
     {
       "raw_hot": 34939,
-      "num": 694080,
+      "num": 745855,
       "word": "第二届世界中国学大会",
       "onboard_time": 1760430201,
       "rank": 2,
@@ -9345,6 +9473,14 @@
       "onboard_time": 1760205436,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 9140,
+      "num": 109386,
+      "word": "国外现实版豌豆公主",
+      "onboard_time": 1760440402,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 9067,

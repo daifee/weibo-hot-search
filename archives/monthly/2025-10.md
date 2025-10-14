@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/14 18:44:06
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/14 19:21:37
 </p>
 </blockquote>
 <p>
@@ -527,6 +527,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%88%96%E6%97%A0%E6%9C%9B%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%23" target="weibo">
 高市早苗或无望日本首相（热度：1378773）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8F%9C%E9%B8%9F%E9%A9%BF%E7%AB%99%E5%AF%B9%E5%8F%96%E4%BB%B6%E6%9C%AA%E5%87%BA%E5%BA%93%E7%BD%9A%E6%AC%BE100%E5%85%83%23" target="weibo">
+菜鸟驿站对取件未出库罚款100元（热度：1374201）
 </a>
 </li>
 
@@ -4305,6 +4311,12 @@ VaVa说自己分手是因为浪姐（热度：480031）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%81%E6%AF%92%E5%A4%A7%E9%98%9F%E9%95%BF%E8%A2%AB%E6%8E%A7%E8%B5%B0%E7%A7%81%E6%AF%92%E5%93%81%E8%8E%B7%E5%88%913%E5%B9%B4%E5%8D%8A%23" target="weibo">
+禁毒大队长被控走私毒品获刑3年半（热度：468476）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%8B%E6%9E%B6%E6%95%B0%E7%99%BE%E4%B8%87%E4%BB%B6%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81%23" target="weibo">
 美国下架数百万件中国电子产品（热度：467928）
 </a>
@@ -4331,6 +4343,12 @@ VaVa说自己分手是因为浪姐（热度：480031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A922%E5%B2%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%9F%AC%E7%96%91%E9%81%AD%E8%B4%A9%E5%8D%96%E8%87%B4%E6%AD%BB%23" target="weibo">
 韩22岁大学生在柬疑遭贩卖致死（热度：465276）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Wei%E9%BE%99%E5%9D%91%E6%8E%92%E7%9C%BC%23" target="weibo">
+Wei龙坑排眼（热度：465191）
 </a>
 </li>
 
@@ -5055,6 +5073,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%96%86%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%23" target="weibo">
+大疆硬刚美国防部（热度：412252）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%94%A6%E8%B5%9B%23" target="weibo">
 亚锦赛（热度：412078）
 </a>
@@ -5295,12 +5319,6 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8F%9C%E9%B8%9F%E9%A9%BF%E7%AB%99%E5%AF%B9%E5%8F%96%E4%BB%B6%E6%9C%AA%E5%87%BA%E5%BA%93%E7%BD%9A%E6%AC%BE100%E5%85%83%23" target="weibo">
-菜鸟驿站对取件未出库罚款100元（热度：391141）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%86%9B%23" target="weibo">
 俄罗斯强烈谴责美军（热度：390999）
 </a>
@@ -5369,6 +5387,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%A6%E8%A2%AB%E6%9B%9D%E4%BD%8F%E5%AE%BF%E7%8E%AF%E5%A2%83%E5%B7%AE%23" target="weibo">
 广东海洋大学被曝住宿环境差（热度：385692）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Wei%E4%BB%80%E4%B9%88%23" target="weibo">
+Wei什么（热度：385683）
 </a>
 </li>
 
@@ -5883,12 +5907,6 @@ iPhone17系列激活量曝光（热度：374659）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%96%86%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8%23" target="weibo">
-大疆硬刚美国防部（热度：351334）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A81%E5%85%831%E4%B8%AA%23" target="weibo">
 大国重器1元1个（热度：350391）
 </a>
@@ -5993,24 +6011,6 @@ TF家族男团在湖南秋晚三代同台（热度：346043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%B0%8F%E5%8D%A1%23" target="weibo">
 鹿晗小卡（热度：344385）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%20%E6%9C%89%E4%BA%BA%E6%AD%A3%E5%9C%A8%E6%8C%82%E5%BF%B5%E4%BD%A0%23" target="weibo">
-易烊千玺 有人正在挂念你（热度：343347）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E5%8D%97%E9%80%9A5%E6%AF%940%E6%B7%AE%E5%AE%89%23" target="weibo">
-苏超南通5比0淮安（热度：343152）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E5%AE%98%E5%AE%A3%E5%BD%93%E5%A6%88%23" target="weibo">
-文咏珊官宣当妈（热度：343147）
 </a>
 </li>
 
