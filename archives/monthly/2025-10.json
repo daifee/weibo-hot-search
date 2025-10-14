@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760426772274,
+  "endTime": 1760427558891,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1411,6 +1411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1018522,
+      "num": 1158457,
+      "word": "跳河新郎和新娘在婚车上一直争吵",
+      "onboard_time": 1760424683,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1015104,
       "num": 226632,
       "word": "蒋欣经纪人看完天塌了",
@@ -1513,14 +1521,6 @@
       "onboard_time": 1759467621,
       "rank": 4,
       "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 990361,
-      "num": 1158457,
-      "word": "跳河新郎和新娘在婚车上一直争吵",
-      "onboard_time": 1760424683,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 989262,
@@ -2387,6 +2387,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 802036,
+      "num": 212297,
+      "word": "李亚鹏 共创离婚视频",
+      "onboard_time": 1760424381,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 798493,
       "num": 1119506,
       "word": "丽江市长李刚主动投案",
@@ -2635,14 +2643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 753897,
-      "num": 212297,
-      "word": "李亚鹏 共创离婚视频",
-      "onboard_time": 1760424381,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 752959,
       "num": 294362,
       "word": "原来小说里的道歉方式都是真的",
@@ -2849,6 +2849,14 @@
       "onboard_time": 1759756282,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 706978,
+      "num": 706978,
+      "word": "金价银价跳水",
+      "onboard_time": 1760423843,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 706971,
@@ -5139,6 +5147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 498923,
+      "num": 186169,
+      "word": "张馨予家里已经生了100多条小鱼了",
+      "onboard_time": 1760426903,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 498380,
       "num": 144077,
       "word": "公司回应联系不上得诺奖的员工",
@@ -5193,14 +5209,6 @@
       "onboard_time": 1760328864,
       "rank": 17,
       "category": "议题讨论,休闲"
-    },
-    {
-      "raw_hot": 496167,
-      "num": 496167,
-      "word": "金价银价跳水",
-      "onboard_time": 1760423843,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 495661,
@@ -12355,6 +12363,22 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 211797,
+      "num": 173577,
+      "word": "陈都灵玉面观音写真",
+      "onboard_time": 1760426722,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 211756,
+      "num": 211756,
+      "word": "美航母被撞8个月了没修",
+      "onboard_time": 1760423783,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 211688,
       "num": 192058,
       "word": "曾舜晞确认被爱",
@@ -14355,6 +14379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 188593,
+      "num": 165916,
+      "word": "何赛飞问余宇涵你有粉丝吗",
+      "onboard_time": 1760426600,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188472,
       "num": 692737,
       "word": "打卡快乐十一",
@@ -14497,6 +14529,14 @@
       "onboard_time": 1759982240,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185924,
+      "num": 185924,
+      "word": "iG对战T1",
+      "onboard_time": 1760427263,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 185855,
@@ -15931,6 +15971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172640,
+      "num": 190126,
+      "word": "Daeny说3比1拿下T1",
+      "onboard_time": 1760425402,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172632,
       "num": 172632,
       "word": "杨紫生命树中秋vlog",
@@ -15993,14 +16041,6 @@
       "onboard_time": 1759846882,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 172075,
-      "num": 172075,
-      "word": "陈都灵玉面观音写真",
-      "onboard_time": 1760426722,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 172032,
@@ -18603,14 +18643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152890,
-      "num": 190126,
-      "word": "Daeny说3比1拿下T1",
-      "onboard_time": 1760425402,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 152563,
       "num": 146715,
       "word": "第一集撕第二集哈第三集嘶哈",
@@ -19787,6 +19819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144662,
+      "num": 144662,
+      "word": "为什么今年的大闸蟹还没上市",
+      "onboard_time": 1760423302,
+      "rank": 43,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 144617,
       "num": 144617,
       "word": "许我耀眼让我重新认识了陈伟霆",
@@ -20075,14 +20115,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 142639,
-      "num": 142639,
-      "word": "为什么今年的大闸蟹还没上市",
-      "onboard_time": 1760423302,
-      "rank": 43,
-      "category": "民生新闻,美食"
-    },
-    {
       "raw_hot": 142621,
       "num": 142621,
       "word": "偶遇戚薇李承铉带儿子逛凡尔赛宫",
@@ -20233,14 +20265,6 @@
       "onboard_time": 1759494200,
       "rank": 38,
       "category": "汽车,网红"
-    },
-    {
-      "raw_hot": 141577,
-      "num": 141577,
-      "word": "美航母被撞8个月了没修",
-      "onboard_time": 1760423783,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 141554,
@@ -20465,14 +20489,6 @@
       "onboard_time": 1759533736,
       "rank": 22,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 140276,
-      "num": 140276,
-      "word": "何赛飞问余宇涵你有粉丝吗",
-      "onboard_time": 1760426600,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 140256,
@@ -20953,6 +20969,14 @@
       "onboard_time": 1760170221,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138266,
+      "num": 138266,
+      "word": "国考 无岗",
+      "onboard_time": 1760427022,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 138250,
@@ -23331,6 +23355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127649,
+      "num": 185477,
+      "word": "安徽私挖地下室致楼房开裂业主被逮捕",
+      "onboard_time": 1760425162,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127646,
       "num": 127646,
       "word": "芒果请来了80个人为李斯丹妮伴舞",
@@ -23481,6 +23513,14 @@
       "onboard_time": 1759741581,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126845,
+      "num": 126845,
+      "word": "龚俊李沁马思纯 三张有故事感的脸",
+      "onboard_time": 1760425103,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 126811,
@@ -24881,6 +24921,14 @@
       "onboard_time": 1759609815,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121845,
+      "num": 121845,
+      "word": "李昀锐怎么又演了个小苦瓜",
+      "onboard_time": 1760426482,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 121698,
@@ -28075,6 +28123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 110788,
+      "num": 110788,
+      "word": "S15揭幕战投票结果公布",
+      "onboard_time": 1760426061,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110769,
       "num": 110769,
       "word": "胡先煦不想上班但那可是offer啊",
@@ -29347,6 +29403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 107294,
+      "num": 107294,
+      "word": "侯英超吐槽亚锦赛",
+      "onboard_time": 1760427382,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107258,
       "num": 107258,
       "word": "单依纯音乐节路人评价",
@@ -29785,14 +29849,6 @@
       "onboard_time": 1759551921,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106073,
-      "num": 106073,
-      "word": "龚俊李沁马思纯 三张有故事感的脸",
-      "onboard_time": 1760425103,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 106043,
@@ -30299,14 +30355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104643,
-      "num": 185477,
-      "word": "安徽私挖地下室致楼房开裂业主被逮捕",
-      "onboard_time": 1760425162,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 104639,
       "num": 104639,
       "word": "刘俊谦结婚了",
@@ -30713,14 +30761,6 @@
       "onboard_time": 1759643481,
       "rank": 49,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 103421,
-      "num": 103421,
-      "word": "S15揭幕战投票结果公布",
-      "onboard_time": 1760426061,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 103397,
@@ -32009,14 +32049,6 @@
       "onboard_time": 1760192962,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99240,
-      "num": 99240,
-      "word": "李昀锐怎么又演了个小苦瓜",
-      "onboard_time": 1760426482,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 99219,
@@ -35017,6 +35049,14 @@
       "onboard_time": 1759676664,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90075,
+      "num": 142546,
+      "word": "国乒女团亚锦赛决赛见",
+      "onboard_time": 1760425223,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 90068,
@@ -40947,6 +40987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 59158,
+      "num": 189267,
+      "word": "京东秒杀",
+      "onboard_time": 1760425881,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 59152,
       "num": 115924,
       "word": "肖战整晚的音乐纯享版",
@@ -41057,6 +41105,14 @@
       "onboard_time": 1759464619,
       "rank": 15,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 58202,
+      "num": 115466,
+      "word": "爆剧大男主剧综人物前十只有2个",
+      "onboard_time": 1760426304,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 58191,
@@ -41177,14 +41233,6 @@
       "onboard_time": 1759851802,
       "rank": 42,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 57128,
-      "num": 189267,
-      "word": "京东秒杀",
-      "onboard_time": 1760425881,
-      "rank": 10,
-      "category": "互联网"
     },
     {
       "raw_hot": 56924,
@@ -41785,14 +41833,6 @@
       "onboard_time": 1760328264,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51439,
-      "num": 142546,
-      "word": "国乒女团亚锦赛决赛见",
-      "onboard_time": 1760425223,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 51397,
@@ -42504,6 +42544,14 @@
       "word": "高速堵车的原因竟是路面撒满活鱼",
       "onboard_time": 1759399040,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44059,
+      "num": 111562,
+      "word": "南宁一医院有人坠楼",
+      "onboard_time": 1760427442,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -43740,7 +43788,7 @@
     },
     {
       "raw_hot": 31429,
-      "num": 400253,
+      "num": 747778,
       "word": "每一位妇女都是主角",
       "onboard_time": 1760411960,
       "rank": 2,
@@ -44177,14 +44225,6 @@
       "onboard_time": 1759581501,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27062,
-      "num": 115466,
-      "word": "爆剧大男主剧综人物前十只有2个",
-      "onboard_time": 1760426304,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 27003,

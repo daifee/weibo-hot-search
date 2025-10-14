@@ -1,0 +1,410 @@
+{
+  "runTime": 1760427558891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 291131,
+        "num": 1046581,
+        "word": "美军肥胖照火遍全网",
+        "onboard_time": 1760412980,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1018522,
+        "num": 1018522,
+        "word": "跳河新郎和新娘在婚车上一直争吵",
+        "onboard_time": 1760424683,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31042,
+        "num": 747778,
+        "word": "每一位妇女都是主角",
+        "onboard_time": 1760411960,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 706978,
+        "num": 706978,
+        "word": "金价银价跳水",
+        "onboard_time": 1760423843,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 303822,
+        "num": 303822,
+        "word": "卖不出去的东西加个壳就卖出去了",
+        "onboard_time": 1760420901,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 679246,
+        "num": 279482,
+        "word": "单亲妈妈误转看病钱对方全程沉默",
+        "onboard_time": 1760418142,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221314,
+        "num": 221314,
+        "word": "杨舒予因家里紧急情况无法参赛",
+        "onboard_time": 1760415560,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215246,
+        "num": 215246,
+        "word": "国考岗位表",
+        "onboard_time": 1760417482,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 211756,
+        "num": 211756,
+        "word": "美航母被撞8个月了没修",
+        "onboard_time": 1760423783,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187409,
+        "num": 187409,
+        "word": "韩22岁大学生在柬疑遭贩卖致死",
+        "onboard_time": 1760417721,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 5273210,
+        "num": 5273210,
+        "word": "李亚鹏离婚",
+        "onboard_time": 1760422942,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 769531,
+        "num": 187085,
+        "word": "黄金",
+        "onboard_time": 1760421141,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 766597,
+        "num": 186703,
+        "word": "董璇 我办婚礼了吗",
+        "onboard_time": 1760415082,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59158,
+        "num": 186279,
+        "word": "京东秒杀",
+        "onboard_time": 1760425881,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 498923,
+        "num": 186169,
+        "word": "张馨予家里已经生了100多条小鱼了",
+        "onboard_time": 1760426903,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185924,
+        "num": 185924,
+        "word": "iG对战T1",
+        "onboard_time": 1760427263,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 802036,
+        "num": 185487,
+        "word": "李亚鹏 共创离婚视频",
+        "onboard_time": 1760424381,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451646,
+        "num": 183256,
+        "word": "谭松韵回应暴瘦",
+        "onboard_time": 1760417181,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442943,
+        "num": 182029,
+        "word": "她只是我的妹妹",
+        "onboard_time": 1760416643,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311995,
+        "num": 179045,
+        "word": "向太谈儿子向佑",
+        "onboard_time": 1760416940,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390875,
+        "num": 178101,
+        "word": "印度女医学生与朋友外出遭轮奸",
+        "onboard_time": 1760423180,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 309193,
+        "num": 174646,
+        "word": "糖尿病男子剪趾甲破皮失去10根脚趾",
+        "onboard_time": 1760420602,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211797,
+        "num": 173577,
+        "word": "陈都灵玉面观音写真",
+        "onboard_time": 1760426722,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172640,
+        "num": 172640,
+        "word": "Daeny说3比1拿下T1",
+        "onboard_time": 1760425402,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188593,
+        "num": 165916,
+        "word": "何赛飞问余宇涵你有粉丝吗",
+        "onboard_time": 1760426600,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155874,
+        "num": 155874,
+        "word": "婴儿被抢家人开车追了好几条街",
+        "onboard_time": 1760421622,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152965,
+        "num": 152965,
+        "word": "刘轩丞称女生是家里亲戚",
+        "onboard_time": 1760415142,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144662,
+        "num": 144662,
+        "word": "为什么今年的大闸蟹还没上市",
+        "onboard_time": 1760423302,
+        "rank": 27,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 138266,
+        "num": 138266,
+        "word": "国考 无岗",
+        "onboard_time": 1760427022,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136631,
+        "num": 136631,
+        "word": "A股",
+        "onboard_time": 1760422641,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127649,
+        "num": 127649,
+        "word": "安徽私挖地下室致楼房开裂业主被逮捕",
+        "onboard_time": 1760425162,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131504,
+        "num": 127330,
+        "word": "肖战幼儿园时期的照片",
+        "onboard_time": 1760413161,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126845,
+        "num": 126845,
+        "word": "龚俊李沁马思纯 三张有故事感的脸",
+        "onboard_time": 1760425103,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124748,
+        "num": 124748,
+        "word": "美财长扬言或驱逐数万中国留学生",
+        "onboard_time": 1760425343,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121845,
+        "num": 121845,
+        "word": "李昀锐怎么又演了个小苦瓜",
+        "onboard_time": 1760426482,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121419,
+        "num": 121419,
+        "word": "丁真让大冰邓亚萍都哭了",
+        "onboard_time": 1760424443,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114288,
+        "num": 114288,
+        "word": "向太后悔给太多钱宠坏向佑",
+        "onboard_time": 1760419400,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112286,
+        "num": 112286,
+        "word": "最不显老的何老师也怕老了",
+        "onboard_time": 1760422641,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44059,
+        "num": 111562,
+        "word": "南宁一医院有人坠楼",
+        "onboard_time": 1760427442,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58202,
+        "num": 111378,
+        "word": "爆剧大男主剧综人物前十只有2个",
+        "onboard_time": 1760426304,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111335,
+        "num": 111335,
+        "word": "睡眠不足会让700多个基因发生改变",
+        "onboard_time": 1760412980,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111199,
+        "num": 111199,
+        "word": "IG对战T1宣传片",
+        "onboard_time": 1760424983,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110788,
+        "num": 110788,
+        "word": "S15揭幕战投票结果公布",
+        "onboard_time": 1760426061,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90075,
+        "num": 107701,
+        "word": "国乒女团亚锦赛决赛见",
+        "onboard_time": 1760425223,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107294,
+        "num": 107294,
+        "word": "侯英超吐槽亚锦赛",
+        "onboard_time": 1760427382,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22507,
+        "num": 105038,
+        "word": "兰蔻90周年活动",
+        "onboard_time": 1760422942,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 104790,
+        "num": 104790,
+        "word": "花海吃上大学食堂了",
+        "onboard_time": 1760424142,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103895,
+        "num": 103895,
+        "word": "努力型 天赋型",
+        "onboard_time": 1760421141,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100943,
+        "num": 100943,
+        "word": "邓佳鑫爆料苏新皓从来不玩游戏",
+        "onboard_time": 1760424623,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100360,
+        "num": 100360,
+        "word": "孙颖莎擦汗工作人员擦地",
+        "onboard_time": 1760425461,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平主席推动全球妇女事业发展#"
+    }
+  }
+}
