@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/15 19:36:56
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/15 20:54:18
 </p>
 </blockquote>
 <p>
@@ -1887,6 +1887,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%B0%8F%E7%8E%AB%E5%8E%BB%E4%B8%96%23" target="weibo">
+黄小玫去世（热度：824957）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A0%91%E4%B8%80%E5%AE%98%E5%AE%A3%E4%B8%8E%E6%85%8E%E5%A9%95%E5%88%86%E6%89%8B%23" target="weibo">
 树一官宣与慎婕分手（热度：820775）
 </a>
@@ -2139,6 +2145,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%90%8C%E5%AD%A6%E7%94%B7%E7%94%9F%E5%90%AC%E5%88%B0%E6%AD%BB%E5%88%91%E8%AF%89%E6%B1%82%E5%90%8E%E6%B1%82%E9%A5%B6%23" target="weibo">
+杀害女同学男生听到死刑诉求后求饶（热度：761747）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E7%86%AC%E5%A4%9C%E5%88%B7%E6%89%8B%E6%9C%BA%E8%84%B8%E5%92%8C%E8%BA%AB%E4%BD%93%E5%9E%AE%E4%BA%86%23" target="weibo">
 长期熬夜刷手机脸和身体垮了（热度：760738）
 </a>
@@ -2147,6 +2159,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E5%8A%9E%E6%96%B9%E8%AF%B7%E6%B2%88%E4%BD%B3%E6%B6%A6%E5%B0%B1%E5%A5%BD%E5%A5%B9%E7%88%B9%E4%BC%9A%E8%B7%9F%E7%9D%80%E5%8E%BB%E7%9A%84%23" target="weibo">
 主办方请沈佳润就好她爹会跟着去的（热度：759795）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A512%E5%B9%B4%E8%80%81%E5%91%98%E5%B7%A5%E6%9C%AA%E5%8F%8A%E6%97%B6%E8%BF%8E%E5%AE%A2%E8%A2%AB%E5%BC%80%E9%99%A4%23" target="weibo">
+胖东来12年老员工未及时迎客被开除（热度：759004）
 </a>
 </li>
 
@@ -2225,6 +2243,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%B71300%E4%B8%87%E6%8B%86%E8%BF%81%E6%AC%BE%E8%A2%AB%E5%88%A4%E5%88%91%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
 获1300万拆迁款被判刑男子发声（热度：741596）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E9%AD%8F%E5%AE%B6%E7%AE%80%E7%9B%B4%E6%AE%8B%E5%BF%8D%E5%88%B0%E6%B2%A1%E4%BA%BA%E6%80%A7%23" target="weibo">
+缅北魏家简直残忍到没人性（热度：740655）
 </a>
 </li>
 
@@ -2901,12 +2925,6 @@ JDG战胜狼队（热度：630844）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%B0%8F%E7%8E%AB%E5%8E%BB%E4%B8%96%23" target="weibo">
-黄小玫去世（热度：630611）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%B7%8C%E5%85%A5%E5%BC%80%E6%B0%B4%E9%94%85%E7%89%B9%E9%87%8D%E5%BA%A6%E7%83%A7%E4%BC%A4%23" target="weibo">
 2岁女童跌入开水锅特重度烧伤（热度：629924）
 </a>
@@ -2915,6 +2933,12 @@ JDG战胜狼队（热度：630844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%86%8D%E8%A2%AB%E5%88%A4%E5%8F%91%E7%90%83%E9%81%AE%E6%8C%A1%E5%86%A4%E4%B8%8D%E5%86%A4%23" target="weibo">
 王楚钦再被判发球遮挡冤不冤（热度：629922）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%AD%BE%E7%BA%A6%E6%96%B0%E7%BB%8F%E7%BA%AA%E4%BA%BA%23" target="weibo">
+曝赵丽颖签约新经纪人（热度：629841）
 </a>
 </li>
 
@@ -5505,12 +5529,6 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E9%AD%8F%E5%AE%B6%E7%AE%80%E7%9B%B4%E6%AE%8B%E5%BF%8D%E5%88%B0%E6%B2%A1%E4%BA%BA%E6%80%A7%23" target="weibo">
-缅北魏家简直残忍到没人性（热度：408081）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%232025%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%A5%A8%E6%88%BF18.35%E4%BA%BF%23" target="weibo">
 2025国庆档票房18.35亿（热度：408054）
 </a>
@@ -5993,24 +6011,6 @@ Wei什么（热度：385683）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BD%95%E5%8D%93%E4%BD%B3%E4%B8%A4%E4%B8%AA%E4%BA%BA%E5%87%91%E4%B8%8D%E5%87%BA%E4%B8%80%E6%8A%8A%E5%A5%BD%E4%BC%9E%23" target="weibo">
 孙颖莎何卓佳两个人凑不出一把好伞（热度：375061）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E9%86%92%E7%88%86%E6%96%99%E5%BC%A0%E8%BF%9C%E5%96%9C%E6%AC%A2%E5%90%8C%E4%B8%80%E6%AC%BE%E5%A5%B3%E7%94%9F%23" target="weibo">
-苏醒爆料张远喜欢同一款女生（热度：375035）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%93%E6%9E%9C%E5%8F%AA%E6%9C%89%E7%8E%8B%E5%AE%89%E5%AE%87%E6%B2%A1%E7%AC%91%23" target="weibo">
-结果只有王安宇没笑（热度：374887）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%BD%E7%9C%9F%E5%A5%BD%E5%A4%B4%E8%83%8E%E7%94%9F%E4%BA%86%E4%B8%AA%E6%9C%88%E5%AB%82%23" target="weibo">
-命真好头胎生了个月嫂（热度：374856）
 </a>
 </li>
 

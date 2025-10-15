@@ -1,0 +1,410 @@
+{
+  "runTime": 1760532858350,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 759004,
+        "num": 1121440,
+        "word": "胖东来12年老员工未及时迎客被开除",
+        "onboard_time": 1760528002,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362090,
+        "num": 362090,
+        "word": "100T嘲讽LPL",
+        "onboard_time": 1760525000,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 21657,
+        "num": 354010,
+        "word": "非凡十四五",
+        "onboard_time": 1760517860,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 638828,
+        "num": 353675,
+        "word": "再见爱人5官宣",
+        "onboard_time": 1760521103,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348746,
+        "num": 348746,
+        "word": "国乒女团重夺亚锦赛冠军",
+        "onboard_time": 1760528303,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224925,
+        "num": 224925,
+        "word": "TES战胜G2",
+        "onboard_time": 1760530042,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187952,
+        "num": 224892,
+        "word": "荣耀发布会",
+        "onboard_time": 1760532082,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167820,
+        "num": 223789,
+        "word": "瑞达",
+        "onboard_time": 1760520321,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138227,
+        "num": 221870,
+        "word": "特朗普威胁更换2028年奥运举办地",
+        "onboard_time": 1760528421,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99947,
+        "num": 221254,
+        "word": "林诗栋3比0黄镇廷",
+        "onboard_time": 1760531662,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 840373,
+        "num": 220113,
+        "word": "内娱四位粉丝破百万的站姐",
+        "onboard_time": 1760522601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 824957,
+        "num": 219480,
+        "word": "黄小玫去世",
+        "onboard_time": 1760527641,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 795246,
+        "num": 217670,
+        "word": "向太儿子向佑近照曝光",
+        "onboard_time": 1760526442,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 740655,
+        "num": 217067,
+        "word": "缅北魏家简直残忍到没人性",
+        "onboard_time": 1760525121,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 698098,
+        "num": 216480,
+        "word": "蔡国强烟花秀调查情况",
+        "onboard_time": 1760515580,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 43549,
+        "num": 215070,
+        "word": "谢霆锋荣耀发布会",
+        "onboard_time": 1760530222,
+        "rank": 15,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 629841,
+        "num": 213574,
+        "word": "曝赵丽颖签约新经纪人",
+        "onboard_time": 1760531304,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397577,
+        "num": 212883,
+        "word": "黄子韬徐艺洋婚纱照 全是右脸",
+        "onboard_time": 1760517860,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133598,
+        "num": 212156,
+        "word": "这届年轻人过冬爱上丑袜子",
+        "onboard_time": 1760530762,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 266672,
+        "num": 210932,
+        "word": "突然悟到了上班打扮漂亮的意义",
+        "onboard_time": 1760523561,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 761747,
+        "num": 209384,
+        "word": "杀害女同学男生听到死刑诉求后求饶",
+        "onboard_time": 1760527581,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365881,
+        "num": 209228,
+        "word": "被杀害初三女生家属透露庭审细节",
+        "onboard_time": 1760529143,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 395465,
+        "num": 207599,
+        "word": "黄子韬徐艺洋接吻婚纱照",
+        "onboard_time": 1760514501,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322873,
+        "num": 206649,
+        "word": "始祖鸟承担相应赔偿修复责任",
+        "onboard_time": 1760516721,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 239065,
+        "num": 205782,
+        "word": "宋伊人去云南了",
+        "onboard_time": 1760532321,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233830,
+        "num": 204998,
+        "word": "王楚钦一单对战中国香港",
+        "onboard_time": 1760529023,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204112,
+        "num": 204112,
+        "word": "林心如再见爱人5官宣",
+        "onboard_time": 1760526621,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191942,
+        "num": 202616,
+        "word": "微信回应出朋友圈访客功能",
+        "onboard_time": 1760523142,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120507,
+        "num": 202509,
+        "word": "荣耀Magic8每天都在自进化",
+        "onboard_time": 1760531902,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137644,
+        "num": 202470,
+        "word": "王楚钦vs陈颢桦",
+        "onboard_time": 1760529742,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202441,
+        "num": 202441,
+        "word": "孙颖莎有自己的击掌方式",
+        "onboard_time": 1760532682,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202217,
+        "num": 202217,
+        "word": "毛衣原来可以不起球啊",
+        "onboard_time": 1760529923,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162623,
+        "num": 162623,
+        "word": "再见爱人 李施嬅",
+        "onboard_time": 1760525421,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138403,
+        "num": 138403,
+        "word": "85花粉你睡着了吗我睡不着",
+        "onboard_time": 1760524940,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134937,
+        "num": 134937,
+        "word": "肖战要进组了",
+        "onboard_time": 1760525781,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125462,
+        "num": 125462,
+        "word": "刘宇宁即兴发挥的神",
+        "onboard_time": 1760532142,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123407,
+        "num": 123407,
+        "word": "今年是最简单的一届双11",
+        "onboard_time": 1760528062,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37302,
+        "num": 121159,
+        "word": "健康的消费观才是第一原则",
+        "onboard_time": 1760531601,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120243,
+        "num": 120243,
+        "word": "王楚钦可他也才25岁",
+        "onboard_time": 1760532801,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118318,
+        "num": 118318,
+        "word": "沈腾回归王牌对王牌",
+        "onboard_time": 1760527281,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118118,
+        "num": 118118,
+        "word": "张艺兴演唱会已经nextlevel了",
+        "onboard_time": 1760532682,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116790,
+        "num": 116790,
+        "word": "100T爆冷战胜BLG",
+        "onboard_time": 1760518942,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115409,
+        "num": 115409,
+        "word": "AL战胜HLE",
+        "onboard_time": 1760526561,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110253,
+        "num": 110253,
+        "word": "刘亦菲一种气血很足的美",
+        "onboard_time": 1760532801,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107562,
+        "num": 107562,
+        "word": "中国队3比0胜日本",
+        "onboard_time": 1760530403,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104424,
+        "num": 104424,
+        "word": "李沛恩直播",
+        "onboard_time": 1760525121,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103809,
+        "num": 103809,
+        "word": "国乒女团夺冠与国旗合影",
+        "onboard_time": 1760530582,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102978,
+        "num": 102978,
+        "word": "尔滨的雪一出手就是王炸",
+        "onboard_time": 1760531482,
+        "rank": 47,
+        "category": "民生新闻,旅游"
+      },
+      {
+        "raw_hot": 100976,
+        "num": 100976,
+        "word": "樊振东现役乒乓球运动员全运金牌最多",
+        "onboard_time": 1760529081,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100419,
+        "num": 100419,
+        "word": "张康乐RV晚宴",
+        "onboard_time": 1760532741,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这份关心从未改变#"
+    }
+  }
+}
