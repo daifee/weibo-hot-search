@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/15 14:50:18
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/15 15:26:41
 </p>
 </blockquote>
 <p>
@@ -4053,6 +4053,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%B4%9B%E8%8A%AC%E7%8E%87%E5%85%88%E5%8F%91%E7%8E%B0%E4%BA%86%E7%94%B2%E6%B2%9F%E7%82%8E%23" target="weibo">
+布洛芬率先发现了甲沟炎（热度：503879）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E6%9C%89%E7%82%8E%E7%97%87%E6%97%B6%E5%B0%91%E5%90%834%E7%A7%8D%E9%A3%9F%E7%89%A9%23" target="weibo">
 身体有炎症时少吃4种食物（热度：502358）
 </a>
@@ -5517,6 +5523,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%90%B8%E6%AF%92%E9%BC%BB%E6%B2%BEK%E7%B2%89%E8%A2%AB%E6%B5%B7%E5%85%B3%E5%BD%93%E5%9C%BA%E6%8A%93%E8%8E%B7%23" target="weibo">
+女子吸毒鼻沾K粉被海关当场抓获（热度：397405）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%AF%8C%E5%9F%8E%E6%96%B9%E5%AA%9B%E5%9B%9E%E5%BA%94%E4%B8%89%E8%83%8E%E5%BE%97%E5%AD%90%E4%BC%A0%E9%97%BB%23" target="weibo">
 郭富城方媛回应三胎得子传闻（热度：396535）
 </a>
@@ -5999,18 +6011,6 @@ iPhone17系列激活量曝光（热度：374659）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%A4%AB%E5%A6%BBkisskiss%E5%81%87%E5%A4%AB%E5%A6%BBkillkill%23" target="weibo">
 真夫妻kisskiss假夫妻killkill（热度：369037）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%82%B9%E8%B5%9E%E5%A4%96%E4%BA%A4%E9%83%A8%E5%BE%AE%E5%8D%9A%23" target="weibo">
-樊振东点赞外交部微博（热度：368457）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%B2%B3%E7%81%AF%23" target="weibo">
-王者荣耀河灯（热度：367707）
 </a>
 </li>
 

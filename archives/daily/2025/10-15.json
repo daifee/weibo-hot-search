@@ -1,6 +1,6 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760511018691,
+  "endTime": 1760513201280,
   "band_list": [
     {
       "raw_hot": 1543352,
@@ -179,6 +179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 503879,
+      "num": 190235,
+      "word": "布洛芬率先发现了甲沟炎",
+      "onboard_time": 1760506880,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 501679,
       "num": 194415,
       "word": "辛芷蕾又提名一个国际大奖",
@@ -265,6 +273,14 @@
       "onboard_time": 1760488222,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 397405,
+      "num": 172599,
+      "word": "女子吸毒鼻沾K粉被海关当场抓获",
+      "onboard_time": 1760512399,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 395329,
@@ -411,6 +427,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 295813,
+      "num": 170418,
+      "word": "梁靖崑老婆边吸氧边看球",
+      "onboard_time": 1760509221,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280876,
       "num": 280876,
       "word": "缅北果敢魏家犯罪集团专案细节曝光",
@@ -457,6 +481,30 @@
       "onboard_time": 1760494641,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 251746,
+      "num": 251746,
+      "word": "九重紫执行制片人参加芒果恋综",
+      "onboard_time": 1760510001,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 235938,
+      "num": 166982,
+      "word": "鸡柳大人向黄星道歉",
+      "onboard_time": 1760511260,
+      "rank": 23,
+      "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 232328,
+      "num": 232328,
+      "word": "奥迪车主为躲闯红灯电动车不慎坠河",
+      "onboard_time": 1760508021,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 230975,
@@ -579,12 +627,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 197191,
-      "num": 190235,
-      "word": "布洛芬率先发现了甲沟炎",
-      "onboard_time": 1760506880,
-      "rank": 17,
-      "category": "幽默"
+      "raw_hot": 195654,
+      "num": 166410,
+      "word": "村长李锐在迪拜拿下超12亿订单",
+      "onboard_time": 1760512521,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 187436,
@@ -643,14 +691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172622,
-      "num": 166926,
-      "word": "梁靖崑老婆边吸氧边看球",
-      "onboard_time": 1760509221,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 172562,
       "num": 170387,
       "word": "iPhone键盘生小熊了",
@@ -699,6 +739,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 166186,
+      "num": 166186,
+      "word": "鸡排哥 炸鸡叔",
+      "onboard_time": 1760511140,
+      "rank": 25,
+      "category": "民生新闻,幽默"
+    },
+    {
       "raw_hot": 165565,
       "num": 165565,
       "word": "剑网3",
@@ -723,20 +771,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159867,
+      "num": 159867,
+      "word": "于正说明天有大事宣布",
+      "onboard_time": 1760512821,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159434,
       "num": 159434,
       "word": "解清帅举办婚礼一天后奶奶离世",
       "onboard_time": 1760448201,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159371,
-      "num": 159371,
-      "word": "九重紫执行制片人参加芒果恋综",
-      "onboard_time": 1760510001,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 157971,
@@ -796,7 +844,7 @@
     },
     {
       "raw_hot": 148778,
-      "num": 132460,
+      "num": 147439,
       "word": "iG教练回应选用上单维鲁斯",
       "onboard_time": 1760510420,
       "rank": 30,
@@ -891,19 +939,19 @@
       "category": "教育"
     },
     {
+      "raw_hot": 137179,
+      "num": 137179,
+      "word": "原来夫妻相是真的",
+      "onboard_time": 1760512039,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 134592,
       "num": 134592,
       "word": "缅北魏家致8名中国公民死亡",
       "onboard_time": 1760509160,
       "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132305,
-      "num": 132305,
-      "word": "奥迪车主为躲闯红灯电动车不慎坠河",
-      "onboard_time": 1760508021,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -995,11 +1043,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125092,
+      "num": 125092,
+      "word": "面试通知等了一年",
+      "onboard_time": 1760512221,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123583,
       "num": 165636,
       "word": "芒果短剧刚开播居然就大结局",
       "onboard_time": 1760498541,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123384,
+      "num": 123384,
+      "word": "卢昱晓没设计过眼神戏",
+      "onboard_time": 1760512760,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1155,6 +1219,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111849,
+      "num": 111849,
+      "word": "上海一博物馆展览内容惊悚吓人",
+      "onboard_time": 1760509101,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111539,
+      "num": 111539,
+      "word": "存不到一套房都对不起这个蛋",
+      "onboard_time": 1760512880,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 110480,
       "num": 106476,
       "word": "剑网3牧川套",
@@ -1177,6 +1257,14 @@
       "onboard_time": 1760457920,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109319,
+      "num": 109319,
+      "word": "胡璇貂蝉",
+      "onboard_time": 1760510600,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 109291,
@@ -1227,6 +1315,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 108068,
+      "num": 108068,
+      "word": "Bin复仇宣言",
+      "onboard_time": 1760512221,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 107940,
+      "num": 170006,
+      "word": "这个双11告别预售",
+      "onboard_time": 1760511979,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 107568,
       "num": 232580,
       "word": "全新ColorOS16发布",
@@ -1257,14 +1361,6 @@
       "onboard_time": 1760488640,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106164,
-      "num": 106164,
-      "word": "上海一博物馆展览内容惊悚吓人",
-      "onboard_time": 1760509101,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104595,
@@ -1371,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96089,
+      "num": 96089,
+      "word": "建议焦虑内耗的人去培养输出型爱好",
+      "onboard_time": 1760513000,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95997,
       "num": 95997,
       "word": "男子回国手机遭运营商保护性关停",
@@ -1385,6 +1489,14 @@
       "onboard_time": 1760491939,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 94621,
+      "num": 94621,
+      "word": "怪不得班主任会发无名火",
+      "onboard_time": 1760513059,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 94311,
@@ -1491,14 +1603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90215,
-      "num": 90215,
-      "word": "胡璇貂蝉",
-      "onboard_time": 1760510600,
-      "rank": 38,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 89640,
       "num": 105062,
       "word": "欧盟拟强制中国企业转让技术",
@@ -1529,6 +1633,14 @@
       "onboard_time": 1760499680,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88488,
+      "num": 88488,
+      "word": "潘玮柏菜到嘴边被欧阳娜娜偷了",
+      "onboard_time": 1760513120,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 88393,
@@ -1795,6 +1907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 75463,
+      "num": 97657,
+      "word": "养猫的人看不得这个",
+      "onboard_time": 1760511619,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72143,
       "num": 72143,
       "word": "大湾区朋友圈全是王嘉尔演唱会",
@@ -1987,6 +2107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57986,
+      "num": 168978,
+      "word": "天猫一张图讲清双11折扣脱水",
+      "onboard_time": 1760511979,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 57901,
       "num": 131411,
       "word": "刘宇宁本人听了都得愣3秒",
@@ -2099,6 +2227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 48997,
+      "num": 169222,
+      "word": "于正劝退无颜值优势素人自荐当演员",
+      "onboard_time": 1760512039,
+      "rank": 18,
+      "category": "艺人,艺人"
+    },
+    {
       "raw_hot": 45983,
       "num": 204819,
       "word": "直击湾芯展",
@@ -2113,6 +2249,14 @@
       "onboard_time": 1760451322,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 42723,
+      "num": 171218,
+      "word": "抽猫盒集猫猫得红包",
+      "onboard_time": 1760511681,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 42672,
@@ -2201,6 +2345,14 @@
       "onboard_time": 1760452403,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 26821,
+      "num": 111693,
+      "word": "库明加被驱逐",
+      "onboard_time": 1760512399,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 26508,
