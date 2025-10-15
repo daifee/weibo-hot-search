@@ -1,6 +1,6 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760485038098,
+  "endTime": 1760493244850,
   "band_list": [
     {
       "raw_hot": 1270480,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 733812,
+      "num": 241628,
+      "word": "林永健人日发文批某顶流演员排场大",
+      "onboard_time": 1760492118,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 713915,
       "num": 713915,
       "word": "王皓脸色铁青",
@@ -43,12 +51,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 673107,
+      "num": 421743,
+      "word": "人体蜈蚣雕塑引景区致歉",
+      "onboard_time": 1760486240,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 611911,
-      "num": 149494,
+      "num": 234033,
       "word": "我两天不能玩手机了",
       "onboard_time": 1760454562,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 581920,
+      "num": 1093107,
+      "word": "日本队集体凝固",
+      "onboard_time": 1760483418,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 560064,
+      "num": 237473,
+      "word": "125斤左右的姐姐们别减肥了",
+      "onboard_time": 1760490741,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 524970,
+      "num": 524970,
+      "word": "高市早苗回应当上总裁却当不上首相",
+      "onboard_time": 1760491041,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 500930,
@@ -76,7 +116,7 @@
     },
     {
       "raw_hot": 390271,
-      "num": 169244,
+      "num": 228973,
       "word": "演员馨子回应不拍戏",
       "onboard_time": 1760456482,
       "rank": 14,
@@ -97,6 +137,14 @@
       "onboard_time": 1760444780,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335750,
+      "num": 335750,
+      "word": "网传花少8阵容",
+      "onboard_time": 1760483238,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 328345,
@@ -123,20 +171,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 305356,
-      "num": 305356,
-      "word": "日本队集体凝固",
-      "onboard_time": 1760483418,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 294969,
-      "num": 294969,
+      "raw_hot": 301353,
+      "num": 301353,
       "word": "男子变现2公斤金条净赚百万",
       "onboard_time": 1760454623,
       "rank": 5,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 274871,
+      "num": 274871,
+      "word": "你在南方吹空调我在北方看雾凇",
+      "onboard_time": 1760489721,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274531,
@@ -155,6 +203,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 257719,
+      "num": 257719,
+      "word": "现在就出发",
+      "onboard_time": 1760488222,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 247156,
+      "num": 247156,
+      "word": "南方降温北方跑步入冬",
+      "onboard_time": 1760488161,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 223365,
       "num": 223365,
       "word": "香港家庭雇的印尼女佣竟是富家女",
@@ -169,6 +233,14 @@
       "onboard_time": 1760460438,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214685,
+      "num": 214685,
+      "word": "王者荣耀貂蝉投票",
+      "onboard_time": 1760487801,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 207373,
@@ -203,6 +275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 181891,
+      "num": 181891,
+      "word": "白敬亭32岁庆生照",
+      "onboard_time": 1760486000,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178331,
       "num": 135593,
       "word": "黄灿灿用了李煜东的bgm",
@@ -211,12 +291,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173902,
-      "num": 173902,
-      "word": "网传花少8阵容",
-      "onboard_time": 1760483238,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 177086,
+      "num": 177086,
+      "word": "水果越来越甜了吗",
+      "onboard_time": 1760491519,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 171459,
+      "num": 171459,
+      "word": "新凯来",
+      "onboard_time": 1760491341,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 171208,
@@ -227,11 +315,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163751,
+      "num": 163751,
+      "word": "原来头像真的很影响聊天欲",
+      "onboard_time": 1760491100,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 159434,
       "num": 159434,
       "word": "解清帅举办婚礼一天后奶奶离世",
       "onboard_time": 1760448201,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156036,
+      "num": 156036,
+      "word": "山姆客服回应枣泥核桃蛋糕吃出牙",
+      "onboard_time": 1760491519,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -251,12 +355,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150521,
+      "num": 150521,
+      "word": "男子在以色列监狱暴瘦近120斤",
+      "onboard_time": 1760490741,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148149,
       "num": 135785,
       "word": "李沛恩合约",
       "onboard_time": 1760448562,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 147200,
+      "num": 147200,
+      "word": "下雪",
+      "onboard_time": 1760492719,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144914,
@@ -267,12 +387,60 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142322,
+      "num": 142322,
+      "word": "美政府停摆进入第3周",
+      "onboard_time": 1760491879,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 141942,
+      "num": 141942,
+      "word": "美联储",
+      "onboard_time": 1760484619,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 131524,
       "num": 131524,
       "word": "王楚钦vs松岛辉空",
       "onboard_time": 1760448923,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123163,
+      "num": 179448,
+      "word": "许我耀眼最好命的是韩卫平吧",
+      "onboard_time": 1760484859,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121857,
+      "num": 121857,
+      "word": "现货黄金突破4180美元",
+      "onboard_time": 1760492660,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 117454,
+      "num": 117454,
+      "word": "李沁挖土名场面原声删减戏份",
+      "onboard_time": 1760489361,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116379,
+      "num": 116379,
+      "word": "李亚鹏曾欠债4000万终审败诉",
+      "onboard_time": 1760489721,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 112382,
@@ -289,6 +457,30 @@
       "onboard_time": 1760457920,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106778,
+      "num": 106778,
+      "word": "肖露晒和田曦薇合照",
+      "onboard_time": 1760488640,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105638,
+      "num": 105638,
+      "word": "神五飞天已经是22年前了",
+      "onboard_time": 1760491579,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 103928,
+      "num": 103928,
+      "word": "舒淇大赞张子枫",
+      "onboard_time": 1760491999,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 103150,
@@ -331,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97836,
+      "num": 125950,
+      "word": "花少7 是妈妈是女儿",
+      "onboard_time": 1760484079,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96491,
       "num": 96491,
       "word": "于东来称胖东来账上有41亿",
@@ -347,20 +547,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92667,
-      "num": 92667,
-      "word": "美联储",
-      "onboard_time": 1760484619,
-      "rank": 17,
-      "category": "财经"
+      "raw_hot": 92565,
+      "num": 92565,
+      "word": "花花这孩子打小就鼓鼓囊囊",
+      "onboard_time": 1760491579,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 91571,
-      "num": 89186,
-      "word": "花少7 是妈妈是女儿",
-      "onboard_time": 1760484079,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 91756,
+      "num": 91756,
+      "word": "香港警方回应豪宅双尸案",
+      "onboard_time": 1760487920,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91730,
+      "num": 91730,
+      "word": "iG回应止步入围赛",
+      "onboard_time": 1760491939,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 90734,
@@ -371,6 +579,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89761,
+      "num": 89761,
+      "word": "男子回国手机遭运营商保护性关停",
+      "onboard_time": 1760491700,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89102,
+      "num": 89102,
+      "word": "中国首次载人航天飞行22周年",
+      "onboard_time": 1760487982,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 88393,
       "num": 96318,
       "word": "特朗普改口称是想帮中国",
@@ -379,12 +603,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85428,
+      "num": 85428,
+      "word": "为中国航天点赞",
+      "onboard_time": 1760485759,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85285,
       "num": 128307,
       "word": "一笑随歌预告",
       "onboard_time": 1760458460,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 83885,
+      "num": 83885,
+      "word": "金饰价格涨到1235元",
+      "onboard_time": 1760493200,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 83378,
@@ -411,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81405,
+      "num": 81405,
+      "word": "C罗加冕世预赛历史射手王",
+      "onboard_time": 1760490440,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81017,
       "num": 96419,
       "word": "黄晓明新片清华首映口碑",
@@ -419,12 +667,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 80169,
+      "num": 80169,
+      "word": "王楚钦两次摸头安慰梁靖崑",
+      "onboard_time": 1760487382,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79563,
       "num": 79563,
       "word": "亚锦赛男团",
       "onboard_time": 1760484020,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78251,
+      "num": 78251,
+      "word": "22年前太空有了中国人",
+      "onboard_time": 1760484920,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78199,
@@ -473,6 +737,14 @@
       "onboard_time": 1760464876,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 69806,
+      "num": 90029,
+      "word": "iG赛后群像",
+      "onboard_time": 1760491939,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 69618,
@@ -603,14 +875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 57295,
-      "num": 57295,
-      "word": "22年前太空有了中国人",
-      "onboard_time": 1760484920,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56601,
       "num": 96096,
       "word": "刘亦菲十月行程",
@@ -673,14 +937,6 @@
       "onboard_time": 1760484319,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51709,
-      "num": 70455,
-      "word": "许我耀眼最好命的是韩卫平吧",
-      "onboard_time": 1760484859,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 51372,
@@ -755,6 +1011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 26508,
+      "num": 770075,
+      "word": "张雨霏希望30岁还能站上奥运赛场",
+      "onboard_time": 1760452883,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 26312,
       "num": 52598,
       "word": "猎心",
@@ -769,14 +1033,6 @@
       "onboard_time": 1760471114,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 23963,
-      "num": 770075,
-      "word": "张雨霏希望30岁还能站上奥运赛场",
-      "onboard_time": 1760452883,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 20883,

@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760485038098,
+  "endTime": 1760493244850,
   "band_list": [
     {
       "raw_hot": 8054511,
@@ -499,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 733812,
+      "num": 241628,
+      "word": "林永健人日发文批某顶流演员排场大",
+      "onboard_time": 1760492118,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 730577,
       "num": 730577,
       "word": "王楚钦vs松岛辉空",
@@ -601,6 +609,14 @@
       "onboard_time": 1760230460,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 673107,
+      "num": 421743,
+      "word": "人体蜈蚣雕塑引景区致歉",
+      "onboard_time": 1760486240,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 663510,
@@ -843,6 +859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 581920,
+      "num": 1093107,
+      "word": "日本队集体凝固",
+      "onboard_time": 1760483418,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 570746,
       "num": 570746,
       "word": "第一个取消耳机孔的简直是蠢货",
@@ -880,6 +904,14 @@
       "word": "14岁自闭症男孩坠楼妈妈崩溃大哭",
       "onboard_time": 1760369601,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 560064,
+      "num": 237473,
+      "word": "125斤左右的姐姐们别减肥了",
+      "onboard_time": 1760490741,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -1033,6 +1065,14 @@
       "onboard_time": 1760256439,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 524970,
+      "num": 524970,
+      "word": "高市早苗回应当上总裁却当不上首相",
+      "onboard_time": 1760491041,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 522105,
@@ -1620,7 +1660,7 @@
     },
     {
       "raw_hot": 390271,
-      "num": 169244,
+      "num": 228973,
       "word": "演员馨子回应不拍戏",
       "onboard_time": 1760456482,
       "rank": 14,
@@ -1803,6 +1843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 335750,
+      "num": 335750,
+      "word": "网传花少8阵容",
+      "onboard_time": 1760483238,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 335727,
       "num": 335727,
       "word": "法考",
@@ -1969,14 +2017,6 @@
       "onboard_time": 1760239640,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 305356,
-      "num": 305356,
-      "word": "日本队集体凝固",
-      "onboard_time": 1760483418,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 305111,
@@ -2203,6 +2243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 274871,
+      "num": 274871,
+      "word": "你在南方吹空调我在北方看雾凇",
+      "onboard_time": 1760489721,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274531,
       "num": 274531,
       "word": "林诗栋12比14篠塚大登",
@@ -2355,6 +2403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 257719,
+      "num": 257719,
+      "word": "现在就出发",
+      "onboard_time": 1760488222,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257619,
       "num": 257619,
       "word": "长期吃面vs长期吃米",
@@ -2440,6 +2496,14 @@
       "word": "原来买一送一和5折不是一回事",
       "onboard_time": 1760407700,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247156,
+      "num": 247156,
+      "word": "南方降温北方跑步入冬",
+      "onboard_time": 1760488161,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -2753,6 +2817,14 @@
       "onboard_time": 1760455042,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214685,
+      "num": 214685,
+      "word": "王者荣耀貂蝉投票",
+      "onboard_time": 1760487801,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 214662,
@@ -3227,6 +3299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181891,
+      "num": 181891,
+      "word": "白敬亭32岁庆生照",
+      "onboard_time": 1760486000,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181394,
       "num": 181394,
       "word": "苹果官网确认iPhoneAir非合约机",
@@ -3323,6 +3403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177086,
+      "num": 177086,
+      "word": "水果越来越甜了吗",
+      "onboard_time": 1760491519,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177080,
       "num": 177080,
       "word": "为什么不吃米面体重很快会减轻",
@@ -3403,14 +3491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173902,
-      "num": 173902,
-      "word": "网传花少8阵容",
-      "onboard_time": 1760483238,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 173511,
       "num": 161187,
       "word": "韩七录返校",
@@ -3465,6 +3545,14 @@
       "onboard_time": 1760454442,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171459,
+      "num": 171459,
+      "word": "新凯来",
+      "onboard_time": 1760491341,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 171322,
@@ -3641,6 +3729,14 @@
       "onboard_time": 1760243660,
       "rank": 38,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 163751,
+      "num": 163751,
+      "word": "原来头像真的很影响聊天欲",
+      "onboard_time": 1760491100,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 163378,
@@ -3899,6 +3995,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 156036,
+      "num": 156036,
+      "word": "山姆客服回应枣泥核桃蛋糕吃出牙",
+      "onboard_time": 1760491519,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155577,
       "num": 155577,
       "word": "张凌赫 偶遇照拍成情侣照",
@@ -4123,6 +4227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 150521,
+      "num": 150521,
+      "word": "男子在以色列监狱暴瘦近120斤",
+      "onboard_time": 1760490741,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 150452,
       "num": 162512,
       "word": "巴方称要像对印度一样回应阿富汗",
@@ -4193,6 +4305,14 @@
       "onboard_time": 1760273121,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 147200,
+      "num": 147200,
+      "word": "下雪",
+      "onboard_time": 1760492719,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147155,
@@ -4347,6 +4467,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 142322,
+      "num": 142322,
+      "word": "美政府停摆进入第3周",
+      "onboard_time": 1760491879,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142134,
       "num": 132667,
       "word": "易梦玲又瘦又有",
@@ -4369,6 +4497,14 @@
       "onboard_time": 1760438961,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141942,
+      "num": 141942,
+      "word": "美联储",
+      "onboard_time": 1760484619,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 141859,
@@ -5211,6 +5347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123163,
+      "num": 179448,
+      "word": "许我耀眼最好命的是韩卫平吧",
+      "onboard_time": 1760484859,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123140,
       "num": 123140,
       "word": "老板回应员工挪桌打碎百万玉镯",
@@ -5321,6 +5465,14 @@
       "onboard_time": 1760320220,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121857,
+      "num": 121857,
+      "word": "现货黄金突破4180美元",
+      "onboard_time": 1760492660,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 121845,
@@ -5643,6 +5795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117454,
+      "num": 117454,
+      "word": "李沁挖土名场面原声删减戏份",
+      "onboard_time": 1760489361,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117401,
       "num": 117401,
       "word": "井胧一上央视就不一样",
@@ -5697,6 +5857,14 @@
       "onboard_time": 1760325262,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 116379,
+      "num": 116379,
+      "word": "李亚鹏曾欠债4000万终审败诉",
+      "onboard_time": 1760489721,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 116234,
@@ -6451,6 +6619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 106778,
+      "num": 106778,
+      "word": "肖露晒和田曦薇合照",
+      "onboard_time": 1760488640,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106730,
       "num": 106730,
       "word": "王者十周年返场皮肤票选",
@@ -6555,6 +6731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105638,
+      "num": 105638,
+      "word": "神五飞天已经是22年前了",
+      "onboard_time": 1760491579,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105613,
       "num": 105613,
       "word": "你觉得最有用的人生经验是什么",
@@ -6633,6 +6817,14 @@
       "onboard_time": 1760254221,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103928,
+      "num": 103928,
+      "word": "舒淇大赞张子枫",
+      "onboard_time": 1760491999,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 103849,
@@ -7051,6 +7243,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97836,
+      "num": 125950,
+      "word": "花少7 是妈妈是女儿",
+      "onboard_time": 1760484079,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97814,
       "num": 97814,
       "word": "这4种维生素千万别乱补",
@@ -7371,14 +7571,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 92667,
-      "num": 92667,
-      "word": "美联储",
-      "onboard_time": 1760484619,
-      "rank": 17,
-      "category": "财经"
-    },
-    {
       "raw_hot": 92646,
       "num": 92646,
       "word": "新郎跳河前说从未受过这么大委屈",
@@ -7393,6 +7585,14 @@
       "onboard_time": 1760275282,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 92565,
+      "num": 92565,
+      "word": "花花这孩子打小就鼓鼓囊囊",
+      "onboard_time": 1760491579,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92454,
@@ -7483,20 +7683,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 91756,
+      "num": 91756,
+      "word": "香港警方回应豪宅双尸案",
+      "onboard_time": 1760487920,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91730,
+      "num": 91730,
+      "word": "iG回应止步入围赛",
+      "onboard_time": 1760491939,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91663,
       "num": 93735,
       "word": "孙颖莎展示中国功夫",
       "onboard_time": 1760241800,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91571,
-      "num": 89186,
-      "word": "花少7 是妈妈是女儿",
-      "onboard_time": 1760484079,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 91445,
@@ -7667,6 +7875,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 89761,
+      "num": 89761,
+      "word": "男子回国手机遭运营商保护性关停",
+      "onboard_time": 1760491700,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89734,
       "num": 140079,
       "word": "华晨宇 你直接报我名字得了",
@@ -7729,6 +7945,14 @@
       "onboard_time": 1760233999,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89102,
+      "num": 89102,
+      "word": "中国首次载人航天飞行22周年",
+      "onboard_time": 1760487982,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 89078,
@@ -8003,6 +8227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85428,
+      "num": 85428,
+      "word": "为中国航天点赞",
+      "onboard_time": 1760485759,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85406,
       "num": 85406,
       "word": "法考主观题答案",
@@ -8113,6 +8345,14 @@
       "onboard_time": 1760236100,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83885,
+      "num": 83885,
+      "word": "金饰价格涨到1235元",
+      "onboard_time": 1760493200,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 83882,
@@ -8347,6 +8587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81405,
+      "num": 81405,
+      "word": "C罗加冕世预赛历史射手王",
+      "onboard_time": 1760490440,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81402,
       "num": 102356,
       "word": "男孩次次前十仍遭妈妈质问致抑郁",
@@ -8499,6 +8747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80169,
+      "num": 80169,
+      "word": "王楚钦两次摸头安慰梁靖崑",
+      "onboard_time": 1760487382,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79697,
       "num": 118359,
       "word": "花8299减肥4个月仅瘦8两",
@@ -8625,6 +8881,14 @@
       "onboard_time": 1760182581,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78251,
+      "num": 78251,
+      "word": "22年前太空有了中国人",
+      "onboard_time": 1760484920,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78199,
@@ -9115,6 +9379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69806,
+      "num": 90029,
+      "word": "iG赛后群像",
+      "onboard_time": 1760491939,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 69797,
       "num": 69797,
       "word": "岳云鹏亲了薛之谦",
@@ -9587,14 +9859,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 57295,
-      "num": 57295,
-      "word": "22年前太空有了中国人",
-      "onboard_time": 1760484920,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 57281,
       "num": 57281,
       "word": "第十五届全运会",
@@ -9777,14 +10041,6 @@
       "onboard_time": 1760484319,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51709,
-      "num": 70455,
-      "word": "许我耀眼最好命的是韩卫平吧",
-      "onboard_time": 1760484859,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 51642,
