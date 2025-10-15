@@ -1,6 +1,6 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760532858350,
+  "endTime": 1760533697868,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -155,6 +155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 859007,
+      "num": 209228,
+      "word": "被杀害初三女生家属透露庭审细节",
+      "onboard_time": 1760529143,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 844326,
       "num": 844326,
       "word": "BLG对战100T",
@@ -163,12 +171,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 832476,
+      "num": 408081,
+      "word": "缅北魏家简直残忍到没人性",
+      "onboard_time": 1760525121,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 824957,
       "num": 219480,
       "word": "黄小玫去世",
       "onboard_time": 1760527641,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 824334,
+      "num": 1131893,
+      "word": "胖东来12年老员工未及时迎客被开除",
+      "onboard_time": 1760528002,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 772428,
@@ -187,28 +211,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 759004,
-      "num": 1121440,
-      "word": "胖东来12年老员工未及时迎客被开除",
-      "onboard_time": 1760528002,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 747625,
       "num": 386888,
       "word": "始祖鸟承担相应赔偿修复责任",
       "onboard_time": 1760516721,
       "rank": 18,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 740655,
-      "num": 408081,
-      "word": "缅北魏家简直残忍到没人性",
-      "onboard_time": 1760525121,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 713915,
@@ -379,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 496408,
+      "num": 496408,
+      "word": "王楚钦一单对战中国香港",
+      "onboard_time": 1760529023,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 476232,
       "num": 476232,
       "word": "梁靖崑在王楚钦怀里小鸟依人",
@@ -515,14 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 365881,
-      "num": 209228,
-      "word": "被杀害初三女生家属透露庭审细节",
-      "onboard_time": 1760529143,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 360879,
       "num": 217892,
       "word": "立案查处蔡国强工作室违法行为",
@@ -657,6 +665,14 @@
       "onboard_time": 1760454623,
       "rank": 5,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 294881,
+      "num": 205782,
+      "word": "宋伊人去云南了",
+      "onboard_time": 1760532321,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 292365,
@@ -803,28 +819,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 239065,
-      "num": 205782,
-      "word": "宋伊人去云南了",
-      "onboard_time": 1760532321,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235938,
       "num": 166982,
       "word": "鸡柳大人向黄星道歉",
       "onboard_time": 1760511260,
       "rank": 23,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 233830,
-      "num": 204998,
-      "word": "王楚钦一单对战中国香港",
-      "onboard_time": 1760529023,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 231677,
@@ -1011,6 +1011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202289,
+      "num": 142418,
+      "word": "孙颖莎救球把球桌都撞移位了",
+      "onboard_time": 1760532922,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202217,
       "num": 202217,
       "word": "毛衣原来可以不起球啊",
@@ -1059,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197284,
+      "num": 176979,
+      "word": "张艺兴演唱会已经nextlevel了",
+      "onboard_time": 1760532682,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197199,
       "num": 197199,
       "word": "新凯来子公司发布两款EDA设计软件",
@@ -1083,6 +1099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 195458,
+      "num": 224892,
+      "word": "荣耀发布会",
+      "onboard_time": 1760532082,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
       "raw_hot": 193509,
       "num": 193509,
       "word": "成毅人民日报对话",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1760523142,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190243,
+      "num": 190243,
+      "word": "王楚钦可他也才25岁",
+      "onboard_time": 1760532801,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 190162,
@@ -1129,14 +1161,6 @@
       "onboard_time": 1760524102,
       "rank": 48,
       "category": "网红"
-    },
-    {
-      "raw_hot": 187952,
-      "num": 224892,
-      "word": "荣耀发布会",
-      "onboard_time": 1760532082,
-      "rank": 6,
-      "category": "数码"
     },
     {
       "raw_hot": 187795,
@@ -1259,6 +1283,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 172540,
+      "num": 221870,
+      "word": "特朗普威胁更换2028年奥运举办地",
+      "onboard_time": 1760528421,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172071,
       "num": 172071,
       "word": "黄宗泽 陈俊生丈母娘",
@@ -1307,12 +1339,28 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 166416,
+      "num": 140083,
+      "word": "白敬亭生日直播",
+      "onboard_time": 1760533400,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165565,
       "num": 165565,
       "word": "剑网3",
       "onboard_time": 1760495181,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165204,
+      "num": 212156,
+      "word": "这届年轻人过冬爱上丑袜子",
+      "onboard_time": 1760530762,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 164315,
@@ -1417,6 +1465,14 @@
       "onboard_time": 1760527762,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153554,
+      "num": 153554,
+      "word": "王曼昱双杀桥本帆乃香",
+      "onboard_time": 1760532922,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 151775,
@@ -1595,6 +1651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140694,
+      "num": 202470,
+      "word": "王楚钦vs陈颢桦",
+      "onboard_time": 1760529742,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140676,
       "num": 128388,
       "word": "存不到一套房都对不起这个蛋",
@@ -1611,6 +1675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 139803,
+      "num": 139803,
+      "word": "刘亦菲一种气血很足的美",
+      "onboard_time": 1760532801,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139605,
       "num": 139605,
       "word": "一图看2026国考时间节点",
@@ -1619,28 +1691,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 138227,
-      "num": 221870,
-      "word": "特朗普威胁更换2028年奥运举办地",
-      "onboard_time": 1760528421,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 137644,
-      "num": 202470,
-      "word": "王楚钦vs陈颢桦",
-      "onboard_time": 1760529742,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 136423,
       "num": 136423,
       "word": "新疆下雪了",
       "onboard_time": 1760528181,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136272,
+      "num": 136272,
+      "word": "王楚钦陈颢桦首局爆分",
+      "onboard_time": 1760533641,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 134720,
@@ -1667,12 +1731,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133598,
-      "num": 212156,
-      "word": "这届年轻人过冬爱上丑袜子",
-      "onboard_time": 1760530762,
-      "rank": 18,
-      "category": "幽默"
+      "raw_hot": 133748,
+      "num": 133748,
+      "word": "孙颖莎女团拍照动作指导",
+      "onboard_time": 1760533400,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 133519,
@@ -1891,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121971,
+      "num": 121971,
+      "word": "樊振东现役乒乓球运动员全运金牌最多",
+      "onboard_time": 1760529081,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121857,
       "num": 121857,
       "word": "现货黄金突破4180美元",
@@ -1947,14 +2019,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 120243,
-      "num": 120243,
-      "word": "王楚钦可他也才25岁",
-      "onboard_time": 1760532801,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 119948,
       "num": 119948,
       "word": "杨瀚森人气火爆",
@@ -1985,14 +2049,6 @@
       "onboard_time": 1760517860,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 118118,
-      "num": 118118,
-      "word": "张艺兴演唱会已经nextlevel了",
-      "onboard_time": 1760532682,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 117990,
@@ -2169,14 +2225,6 @@
       "onboard_time": 1760496559,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 110253,
-      "num": 110253,
-      "word": "刘亦菲一种气血很足的美",
-      "onboard_time": 1760532801,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 110051,
@@ -2417,14 +2465,6 @@
       "onboard_time": 1760500102,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100976,
-      "num": 100976,
-      "word": "樊振东现役乒乓球运动员全运金牌最多",
-      "onboard_time": 1760529081,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 100419,
@@ -2819,6 +2859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82123,
+      "num": 140430,
+      "word": "荣耀李健带3500人疯狂购物",
+      "onboard_time": 1760533582,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 81405,
       "num": 81405,
       "word": "C罗加冕世预赛历史射手王",
@@ -3065,6 +3113,14 @@
       "onboard_time": 1760505021,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65453,
+      "num": 140219,
+      "word": "健康的消费观才是第一原则",
+      "onboard_time": 1760531601,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 65346,
@@ -3355,20 +3411,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 44755,
+      "num": 215070,
+      "word": "谢霆锋荣耀发布会",
+      "onboard_time": 1760530222,
+      "rank": 15,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 43781,
       "num": 95908,
       "word": "终于有让素人当主角的综艺了",
       "onboard_time": 1760451322,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 43549,
-      "num": 215070,
-      "word": "谢霆锋荣耀发布会",
-      "onboard_time": 1760530222,
-      "rank": 15,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 42723,
@@ -3433,14 +3489,6 @@
       "onboard_time": 1760502081,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 37302,
-      "num": 121159,
-      "word": "健康的消费观才是第一原则",
-      "onboard_time": 1760531601,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 37230,
@@ -3691,6 +3739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12777,
+      "num": 139868,
+      "word": "京东补贴",
+      "onboard_time": 1760533582,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 12584,
       "num": 696250,
       "word": "万千气象看天津",
@@ -3705,6 +3761,14 @@
       "onboard_time": 1760520022,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8983,
+      "num": 145999,
+      "word": "双十一领券神器出现了",
+      "onboard_time": 1760533582,
+      "rank": 32,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [
