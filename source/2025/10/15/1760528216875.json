@@ -1,0 +1,410 @@
+{
+  "runTime": 1760528216875,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 616832,
+        "num": 1098693,
+        "word": "AL战胜HLE",
+        "onboard_time": 1760526561,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 561360,
+        "num": 561360,
+        "word": "100T嘲讽LPL",
+        "onboard_time": 1760525000,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19560,
+        "num": 422878,
+        "word": "非凡十四五",
+        "onboard_time": 1760517860,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1297400,
+        "num": 421897,
+        "word": "再见爱人5官宣",
+        "onboard_time": 1760521103,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 408081,
+        "num": 408081,
+        "word": "缅北魏家简直残忍到没人性",
+        "onboard_time": 1760525121,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435234,
+        "num": 386888,
+        "word": "始祖鸟承担相应赔偿修复责任",
+        "onboard_time": 1760516721,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 281761,
+        "num": 281761,
+        "word": "国乒女团vs日本",
+        "onboard_time": 1760520681,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249024,
+        "num": 249024,
+        "word": "100T爆冷战胜BLG",
+        "onboard_time": 1760518942,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186848,
+        "num": 186848,
+        "word": "孙颖莎3比0张本美和",
+        "onboard_time": 1760526200,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177138,
+        "num": 177138,
+        "word": "刘安琪解约",
+        "onboard_time": 1760521460,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1809268,
+        "num": 176573,
+        "word": "蔡国强烟花秀调查情况",
+        "onboard_time": 1760515580,
+        "rank": 10,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1087778,
+        "num": 176131,
+        "word": "内娱四位粉丝破百万的站姐",
+        "onboard_time": 1760522601,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1074201,
+        "num": 175583,
+        "word": "向太儿子向佑近照曝光",
+        "onboard_time": 1760526442,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630611,
+        "num": 175309,
+        "word": "黄小玫去世",
+        "onboard_time": 1760527641,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44945,
+        "num": 174662,
+        "word": "京东现货",
+        "onboard_time": 1760526321,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 536741,
+        "num": 173975,
+        "word": "黄子韬徐艺洋婚纱照 全是右脸",
+        "onboard_time": 1760517860,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390219,
+        "num": 173517,
+        "word": "突然悟到了上班打扮漂亮的意义",
+        "onboard_time": 1760523561,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 354499,
+        "num": 173012,
+        "word": "再见爱人 李施嬅",
+        "onboard_time": 1760525421,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87791,
+        "num": 172400,
+        "word": "AL开门红",
+        "onboard_time": 1760527402,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208340,
+        "num": 171679,
+        "word": "沈腾回归王牌对王牌",
+        "onboard_time": 1760527281,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471876,
+        "num": 171187,
+        "word": "黄子韬徐艺洋接吻婚纱照",
+        "onboard_time": 1760514501,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245948,
+        "num": 170557,
+        "word": "微信回应出朋友圈访客功能",
+        "onboard_time": 1760523142,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 237971,
+        "num": 170143,
+        "word": "朱丹删除女儿作品在卢浮宫展出帖子",
+        "onboard_time": 1760523082,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231677,
+        "num": 169473,
+        "word": "林心如再见爱人5官宣",
+        "onboard_time": 1760526621,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230407,
+        "num": 168802,
+        "word": "雍和宫 仅退款",
+        "onboard_time": 1760518161,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189289,
+        "num": 168214,
+        "word": "银河左岸酒店事件严正声明",
+        "onboard_time": 1760526142,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178466,
+        "num": 167760,
+        "word": "上拉如开上奔驰了",
+        "onboard_time": 1760524102,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 167317,
+        "num": 167317,
+        "word": "蒯曼vs早田希娜",
+        "onboard_time": 1760526142,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136872,
+        "num": 164474,
+        "word": "入戏 影视化",
+        "onboard_time": 1760520622,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156751,
+        "num": 164316,
+        "word": "大疆pocket3天猫现货直降900",
+        "onboard_time": 1760524520,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 176096,
+        "num": 164315,
+        "word": "再见爱人5有邓莎",
+        "onboard_time": 1760523801,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164315,
+        "num": 164314,
+        "word": "EDG无畏契约分部经理寿文君离队",
+        "onboard_time": 1760527521,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162177,
+        "num": 162177,
+        "word": "85花粉你睡着了吗我睡不着",
+        "onboard_time": 1760524940,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159832,
+        "num": 159832,
+        "word": "外交部回应韩国正与中国谈判",
+        "onboard_time": 1760523922,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151287,
+        "num": 151287,
+        "word": "折腰",
+        "onboard_time": 1760528062,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31990,
+        "num": 151116,
+        "word": "南天门计划新机型紫火首次亮相",
+        "onboard_time": 1760527703,
+        "rank": 35,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 134705,
+        "num": 150925,
+        "word": "杀害女同学男生听到死刑诉求后求饶",
+        "onboard_time": 1760527581,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71250,
+        "num": 150851,
+        "word": "中方反制美国后韩国急忙与中国沟通",
+        "onboard_time": 1760527222,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135551,
+        "num": 150634,
+        "word": "胖东来12年老员工未及时迎客被开除",
+        "onboard_time": 1760528002,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134720,
+        "num": 150391,
+        "word": "罗永浩点赞天猫折扣脱水",
+        "onboard_time": 1760526200,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 152636,
+        "num": 150256,
+        "word": "肖战要进组了",
+        "onboard_time": 1760525781,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153565,
+        "num": 150090,
+        "word": "胡彦斌好像对再见爱人上瘾了",
+        "onboard_time": 1760527762,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150013,
+        "num": 150013,
+        "word": "李沛恩直播",
+        "onboard_time": 1760525121,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149219,
+        "num": 149219,
+        "word": "28nm芯片",
+        "onboard_time": 1760519902,
+        "rank": 43,
+        "category": "议题讨论,数码"
+      },
+      {
+        "raw_hot": 64342,
+        "num": 145725,
+        "word": "奶奶带娃6年起诉要求75万保姆费",
+        "onboard_time": 1760526802,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143068,
+        "num": 143068,
+        "word": "BLG惊天2.2",
+        "onboard_time": 1760523142,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136423,
+        "num": 136423,
+        "word": "新疆下雪了",
+        "onboard_time": 1760528181,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136272,
+        "num": 136272,
+        "word": "何美延 TSong梁老师",
+        "onboard_time": 1760526802,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135765,
+        "num": 135765,
+        "word": "村长李锐在迪拜拿下超12亿订单",
+        "onboard_time": 1760512521,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8640,
+        "num": 134015,
+        "word": "今年是最简单的一届双11",
+        "onboard_time": 1760528062,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这份关心从未改变#"
+    }
+  }
+}

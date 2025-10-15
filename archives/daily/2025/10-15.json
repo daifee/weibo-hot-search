@@ -1,6 +1,6 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760527346859,
+  "endTime": 1760528216875,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1074201,
+      "num": 195937,
+      "word": "向太儿子向佑近照曝光",
+      "onboard_time": 1760526442,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1048866,
       "num": 1167818,
       "word": "下雪",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 747625,
-      "num": 368100,
+      "num": 386888,
       "word": "始祖鸟承担相应赔偿修复责任",
       "onboard_time": 1760516721,
       "rank": 18,
@@ -201,6 +209,14 @@
       "onboard_time": 1760486240,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 630611,
+      "num": 175309,
+      "word": "黄小玫去世",
+      "onboard_time": 1760527641,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 619570,
@@ -259,11 +275,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 538256,
-      "num": 195937,
-      "word": "向太儿子向佑近照曝光",
-      "onboard_time": 1760526442,
-      "rank": 12,
+      "raw_hot": 536741,
+      "num": 213697,
+      "word": "黄子韬徐艺洋婚纱照 全是右脸",
+      "onboard_time": 1760517860,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -305,14 +321,6 @@
       "onboard_time": 1760506880,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 503471,
-      "num": 213697,
-      "word": "黄子韬徐艺洋婚纱照 全是右脸",
-      "onboard_time": 1760517860,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 501679,
@@ -411,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 408081,
+      "num": 408081,
+      "word": "缅北魏家简直残忍到没人性",
+      "onboard_time": 1760525121,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 404972,
       "num": 385165,
       "word": "现在就出发",
@@ -481,6 +497,14 @@
       "onboard_time": 1760516721,
       "rank": 17,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 354499,
+      "num": 191116,
+      "word": "再见爱人 李施嬅",
+      "onboard_time": 1760525421,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 349023,
@@ -577,14 +601,6 @@
       "onboard_time": 1760483778,
       "rank": 11,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 309297,
-      "num": 191116,
-      "word": "再见爱人 李施嬅",
-      "onboard_time": 1760525421,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 308141,
@@ -699,14 +715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 256211,
-      "num": 256211,
-      "word": "缅北魏家简直残忍到没人性",
-      "onboard_time": 1760525121,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252997,
       "num": 193901,
       "word": "朱丹删除女儿作品在卢浮宫展出帖子",
@@ -721,6 +729,14 @@
       "onboard_time": 1760510001,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245948,
+      "num": 190921,
+      "word": "微信回应出朋友圈访客功能",
+      "onboard_time": 1760523142,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 244425,
@@ -755,6 +771,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 231677,
+      "num": 190861,
+      "word": "林心如再见爱人5官宣",
+      "onboard_time": 1760526621,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230975,
       "num": 183981,
       "word": "网购卫生巾上有手写字",
@@ -763,28 +787,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 228939,
-      "num": 190921,
-      "word": "微信回应出朋友圈访客功能",
-      "onboard_time": 1760523142,
-      "rank": 28,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 227204,
       "num": 195617,
       "word": "蔡国强烟花秀影响草地面积30.06公顷",
       "onboard_time": 1760518401,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 223375,
-      "num": 190861,
-      "word": "林心如再见爱人5官宣",
-      "onboard_time": 1760526621,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 223365,
@@ -841,6 +849,14 @@
       "onboard_time": 1760515522,
       "rank": 22,
       "category": "网红,时尚"
+    },
+    {
+      "raw_hot": 208340,
+      "num": 171679,
+      "word": "沈腾回归王牌对王牌",
+      "onboard_time": 1760527281,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 208154,
@@ -1211,6 +1227,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 164315,
+      "num": 164314,
+      "word": "EDG无畏契约分部经理寿文君离队",
+      "onboard_time": 1760527521,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163423,
       "num": 170385,
       "word": "看offer7跟父母的查岗电话和解了",
@@ -1224,6 +1248,14 @@
       "word": "看了这剧从此不敢看关公",
       "onboard_time": 1760501781,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162177,
+      "num": 162177,
+      "word": "85花粉你睡着了吗我睡不着",
+      "onboard_time": 1760524940,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -1291,12 +1323,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153565,
+      "num": 150090,
+      "word": "胡彦斌好像对再见爱人上瘾了",
+      "onboard_time": 1760527762,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151775,
       "num": 90037,
       "word": "王楚钦3比2胜张本智和",
       "onboard_time": 1760460737,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151287,
+      "num": 151287,
+      "word": "折腰",
+      "onboard_time": 1760528062,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 150936,
@@ -1345,14 +1393,6 @@
       "onboard_time": 1760448562,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147528,
-      "num": 147528,
-      "word": "85花粉你睡着了吗我睡不着",
-      "onboard_time": 1760524940,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 147500,
@@ -1489,6 +1529,38 @@
       "onboard_time": 1760494400,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 136423,
+      "num": 136423,
+      "word": "新疆下雪了",
+      "onboard_time": 1760528181,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135551,
+      "num": 150634,
+      "word": "胖东来12年老员工未及时迎客被开除",
+      "onboard_time": 1760528002,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134720,
+      "num": 150391,
+      "word": "罗永浩点赞天猫折扣脱水",
+      "onboard_time": 1760526200,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 134705,
+      "num": 150925,
+      "word": "杀害女同学男生听到死刑诉求后求饶",
+      "onboard_time": 1760527581,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134637,
@@ -2339,14 +2411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91186,
-      "num": 138167,
-      "word": "罗永浩点赞天猫折扣脱水",
-      "onboard_time": 1760526200,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 90970,
       "num": 93805,
       "word": "60岁老党员为救落水儿童牺牲",
@@ -2443,6 +2507,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 87791,
+      "num": 172400,
+      "word": "AL开门红",
+      "onboard_time": 1760527402,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87584,
       "num": 87584,
       "word": "女子晒爸爸养护20年榕树屋感动网友",
@@ -2497,14 +2569,6 @@
       "onboard_time": 1760458460,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85137,
-      "num": 165686,
-      "word": "沈腾回归王牌对王牌",
-      "onboard_time": 1760527281,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 84820,
@@ -2715,6 +2779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 71250,
+      "num": 163911,
+      "word": "中方反制美国后韩国急忙与中国沟通",
+      "onboard_time": 1760527222,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71078,
       "num": 170260,
       "word": "全球外贸人的宇宙中心来了",
@@ -2809,6 +2881,14 @@
       "onboard_time": 1760445501,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 64342,
+      "num": 168598,
+      "word": "奶奶带娃6年起诉要求75万保姆费",
+      "onboard_time": 1760526802,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 63966,
@@ -3051,14 +3131,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 48062,
-      "num": 168598,
-      "word": "奶奶带娃6年起诉要求75万保姆费",
-      "onboard_time": 1760526802,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47661,
       "num": 147397,
       "word": "你可能一直都在无效化妆",
@@ -3083,7 +3155,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 44054,
+      "raw_hot": 44945,
       "num": 191188,
       "word": "京东现货",
       "onboard_time": 1760526321,
@@ -3137,14 +3209,6 @@
       "onboard_time": 1760508441,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 40201,
-      "num": 163911,
-      "word": "中方反制美国后韩国急忙与中国沟通",
-      "onboard_time": 1760527222,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40138,
@@ -3225,6 +3289,14 @@
       "onboard_time": 1760512399,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31990,
+      "num": 151116,
+      "word": "南天门计划新机型紫火首次亮相",
+      "onboard_time": 1760527703,
+      "rank": 35,
+      "category": "军事"
     },
     {
       "raw_hot": 31759,
@@ -3425,6 +3497,14 @@
       "onboard_time": 1760520022,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8640,
+      "num": 134015,
+      "word": "今年是最简单的一届双11",
+      "onboard_time": 1760528062,
+      "rank": 49,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [

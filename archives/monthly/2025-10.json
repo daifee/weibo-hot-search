@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760527346859,
+  "endTime": 1760528216875,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1441,6 +1441,14 @@
       "onboard_time": 1760170461,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1074201,
+      "num": 195937,
+      "word": "向太儿子向佑近照曝光",
+      "onboard_time": 1760526442,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1062602,
@@ -2924,7 +2932,7 @@
     },
     {
       "raw_hot": 747625,
-      "num": 368100,
+      "num": 386888,
       "word": "始祖鸟承担相应赔偿修复责任",
       "onboard_time": 1760516721,
       "rank": 18,
@@ -3841,6 +3849,14 @@
       "onboard_time": 1760108725,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 630611,
+      "num": 175309,
+      "word": "黄小玫去世",
+      "onboard_time": 1760527641,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 629924,
@@ -4987,14 +5003,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 538256,
-      "num": 195937,
-      "word": "向太儿子向佑近照曝光",
-      "onboard_time": 1760526442,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 538085,
       "num": 278042,
       "word": "鹿晗吉隆坡站横滨站演出取消",
@@ -5033,6 +5041,14 @@
       "onboard_time": 1760274261,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 536741,
+      "num": 213697,
+      "word": "黄子韬徐艺洋婚纱照 全是右脸",
+      "onboard_time": 1760517860,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 536624,
@@ -5513,14 +5529,6 @@
       "onboard_time": 1760506880,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 503471,
-      "num": 213697,
-      "word": "黄子韬徐艺洋婚纱照 全是右脸",
-      "onboard_time": 1760517860,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 502358,
@@ -7315,6 +7323,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 408081,
+      "num": 408081,
+      "word": "缅北魏家简直残忍到没人性",
+      "onboard_time": 1760525121,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 408054,
       "num": 408054,
       "word": "2025国庆档票房18.35亿",
@@ -8401,6 +8417,14 @@
       "onboard_time": 1759559060,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 354499,
+      "num": 191116,
+      "word": "再见爱人 李施嬅",
+      "onboard_time": 1760525421,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 354347,
@@ -9657,14 +9681,6 @@
       "onboard_time": 1760483778,
       "rank": 11,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 309297,
-      "num": 191116,
-      "word": "再见爱人 李施嬅",
-      "onboard_time": 1760525421,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 309286,
@@ -11483,14 +11499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256211,
-      "num": 256211,
-      "word": "缅北魏家简直残忍到没人性",
-      "onboard_time": 1760525121,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 256010,
       "num": 256010,
       "word": "他爷爷为什么不接他电话",
@@ -11953,6 +11961,14 @@
       "onboard_time": 1760325021,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245948,
+      "num": 190921,
+      "word": "微信回应出朋友圈访客功能",
+      "onboard_time": 1760523142,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 245872,
@@ -12579,6 +12595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231677,
+      "num": 190861,
+      "word": "林心如再见爱人5官宣",
+      "onboard_time": 1760526621,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231661,
       "num": 148861,
       "word": "陈伟霆称开始不敢接霸总戏",
@@ -12689,14 +12713,6 @@
       "onboard_time": 1759936282,
       "rank": 23,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 228939,
-      "num": 190921,
-      "word": "微信回应出朋友圈访客功能",
-      "onboard_time": 1760523142,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 228382,
@@ -12953,14 +12969,6 @@
       "onboard_time": 1759936220,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223375,
-      "num": 190861,
-      "word": "林心如再见爱人5官宣",
-      "onboard_time": 1760526621,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 223184,
@@ -13745,6 +13753,14 @@
       "onboard_time": 1760148922,
       "rank": 26,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 208340,
+      "num": 171679,
+      "word": "沈腾回归王牌对王牌",
+      "onboard_time": 1760527281,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 208173,
@@ -18771,6 +18787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164315,
+      "num": 164314,
+      "word": "EDG无畏契约分部经理寿文君离队",
+      "onboard_time": 1760527521,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164079,
       "num": 164079,
       "word": "说中国没奢侈品的只是你听都没听过",
@@ -19080,6 +19104,14 @@
       "word": "看了这剧从此不敢看关公",
       "onboard_time": 1760501781,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162177,
+      "num": 162177,
+      "word": "85花粉你睡着了吗我睡不着",
+      "onboard_time": 1760524940,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -20371,6 +20403,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 153565,
+      "num": 150090,
+      "word": "胡彦斌好像对再见爱人上瘾了",
+      "onboard_time": 1760527762,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153501,
       "num": 153501,
       "word": "长期不用的银行卡一定要注销",
@@ -20680,6 +20720,14 @@
       "word": "莲花楼主题爱奇艺乐园",
       "onboard_time": 1759929624,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 151287,
+      "num": 151287,
+      "word": "折腰",
+      "onboard_time": 1760528062,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -21217,14 +21265,6 @@
       "onboard_time": 1759497442,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 147528,
-      "num": 147528,
-      "word": "85花粉你睡着了吗我睡不着",
-      "onboard_time": 1760524940,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 147490,
@@ -23419,6 +23459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136423,
+      "num": 136423,
+      "word": "新疆下雪了",
+      "onboard_time": 1760528181,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 136421,
       "num": 136421,
       "word": "三个少年",
@@ -23625,6 +23673,14 @@
       "onboard_time": 1759588581,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 135551,
+      "num": 150634,
+      "word": "胖东来12年老员工未及时迎客被开除",
+      "onboard_time": 1760528002,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135449,
@@ -23865,6 +23921,22 @@
       "onboard_time": 1759373358,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134720,
+      "num": 150391,
+      "word": "罗永浩点赞天猫折扣脱水",
+      "onboard_time": 1760526200,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 134705,
+      "num": 150925,
+      "word": "杀害女同学男生听到死刑诉求后求饶",
+      "onboard_time": 1760527581,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134702,
@@ -38011,14 +38083,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 91186,
-      "num": 138167,
-      "word": "罗永浩点赞天猫折扣脱水",
-      "onboard_time": 1760526200,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 91181,
       "num": 91181,
       "word": "8种食物最好带皮吃",
@@ -39227,6 +39291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87791,
+      "num": 172400,
+      "word": "AL开门红",
+      "onboard_time": 1760527402,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 87738,
       "num": 87738,
       "word": "芬芳喜事",
@@ -40121,14 +40193,6 @@
       "onboard_time": 1759563261,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 85137,
-      "num": 165686,
-      "word": "沈腾回归王牌对王牌",
-      "onboard_time": 1760527281,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 85125,
@@ -43363,6 +43427,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 71250,
+      "num": 163911,
+      "word": "中方反制美国后韩国急忙与中国沟通",
+      "onboard_time": 1760527222,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71228,
       "num": 71228,
       "word": "Fly腱鞘炎",
@@ -44368,6 +44440,14 @@
       "word": "网络中国节",
       "onboard_time": 1759719379,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64342,
+      "num": 168598,
+      "word": "奶奶带娃6年起诉要求75万保姆费",
+      "onboard_time": 1760526802,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -46395,14 +46475,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 48062,
-      "num": 168598,
-      "word": "奶奶带娃6年起诉要求75万保姆费",
-      "onboard_time": 1760526802,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 48061,
       "num": 86558,
       "word": "张峻豪唱了爱是一场浩大的冒险",
@@ -46691,6 +46763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44945,
+      "num": 191188,
+      "word": "京东现货",
+      "onboard_time": 1760526321,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 44815,
       "num": 144420,
       "word": "文化人讲脱口秀就是高级",
@@ -46785,14 +46865,6 @@
       "onboard_time": 1760441119,
       "rank": 19,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 44054,
-      "num": 191188,
-      "word": "京东现货",
-      "onboard_time": 1760526321,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 44040,
@@ -47193,14 +47265,6 @@
       "onboard_time": 1760364021,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40201,
-      "num": 163911,
-      "word": "中方反制美国后韩国急忙与中国沟通",
-      "onboard_time": 1760527222,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40168,
@@ -48121,6 +48185,14 @@
       "onboard_time": 1759856958,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 31990,
+      "num": 151116,
+      "word": "南天门计划新机型紫火首次亮相",
+      "onboard_time": 1760527703,
+      "rank": 35,
+      "category": "军事"
     },
     {
       "raw_hot": 31913,
@@ -50145,6 +50217,14 @@
       "onboard_time": 1760006001,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 8640,
+      "num": 134015,
+      "word": "今年是最简单的一届双11",
+      "onboard_time": 1760528062,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 8433,
