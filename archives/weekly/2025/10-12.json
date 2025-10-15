@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760497859254,
+  "endTime": 1760498857226,
   "band_list": [
     {
       "raw_hot": 8054511,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 1039775,
-      "num": 232370,
+      "num": 237520,
       "word": "熊黛林婉拒祝福郭富城",
       "onboard_time": 1760495539,
       "rank": 10,
@@ -1507,6 +1507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 425025,
+      "num": 425025,
+      "word": "医院300万预算1000元中标采购暂停",
+      "onboard_time": 1760495539,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 422845,
       "num": 187762,
       "word": "儿子考61分全家沸腾下馆子庆祝",
@@ -1691,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 390750,
+      "num": 228484,
+      "word": "一直没明白为什么微信能取代QQ",
+      "onboard_time": 1760496559,
+      "rank": 14,
+      "category": "互联网,幽默"
+    },
+    {
       "raw_hot": 390271,
       "num": 228973,
       "word": "演员馨子回应不拍戏",
@@ -1747,14 +1763,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 372024,
-      "num": 372024,
-      "word": "医院300万预算1000元中标采购暂停",
-      "onboard_time": 1760495539,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 367707,
       "num": 367707,
       "word": "王者荣耀河灯",
@@ -1785,6 +1793,14 @@
       "onboard_time": 1760256380,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362172,
+      "num": 362172,
+      "word": "现在就出发3定档",
+      "onboard_time": 1760496800,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 361160,
@@ -2387,6 +2403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 267059,
+      "num": 203053,
+      "word": "别亲了要生小小咪了",
+      "onboard_time": 1760494641,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 266241,
       "num": 266241,
       "word": "人民空军回应小伙修复为人民服务标语",
@@ -2465,14 +2489,6 @@
       "onboard_time": 1760430681,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 258736,
-      "num": 203053,
-      "word": "别亲了要生小小咪了",
-      "onboard_time": 1760494641,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 257619,
@@ -2673,14 +2689,6 @@
       "onboard_time": 1760185281,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 232643,
-      "num": 232643,
-      "word": "现在就出发3定档",
-      "onboard_time": 1760496800,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 229099,
@@ -2937,14 +2945,6 @@
       "onboard_time": 1760322920,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 208829,
-      "num": 208829,
-      "word": "一直没明白为什么微信能取代QQ",
-      "onboard_time": 1760496559,
-      "rank": 14,
-      "category": "互联网,幽默"
     },
     {
       "raw_hot": 207575,
@@ -3955,6 +3955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159594,
+      "num": 159594,
+      "word": "勇士vs开拓者",
+      "onboard_time": 1760495359,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159563,
       "num": 159563,
       "word": "养猫人让猫上床睡的手段",
@@ -4065,14 +4073,6 @@
       "onboard_time": 1760491879,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 157121,
-      "num": 157121,
-      "word": "勇士vs开拓者",
-      "onboard_time": 1760495359,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 157094,
@@ -4451,6 +4451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146125,
+      "num": 132391,
+      "word": "新凯来称2025湾芯展不会发布新品",
+      "onboard_time": 1760498541,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 145997,
       "num": 235598,
       "word": "谁能扛住大男主剧",
@@ -4729,6 +4737,14 @@
       "onboard_time": 1760325861,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 138534,
+      "num": 138534,
+      "word": "修复为人民服务标语小伙公布费用",
+      "onboard_time": 1760495839,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138457,
@@ -5179,6 +5195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127243,
+      "num": 165157,
+      "word": "成年人的摇摇车5元能开两小时",
+      "onboard_time": 1760497700,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 127214,
       "num": 148579,
       "word": "有偿带人进山姆5元一个人头",
@@ -5241,6 +5265,14 @@
       "onboard_time": 1760414662,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126392,
+      "num": 126392,
+      "word": "9月CPI同比下降0.3%",
+      "onboard_time": 1760498661,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 126328,
@@ -5377,6 +5409,14 @@
       "onboard_time": 1760414061,
       "rank": 48,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 124430,
+      "num": 124430,
+      "word": "第一批国考报名失败的人已经出现",
+      "onboard_time": 1760498720,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 124175,
@@ -5651,12 +5691,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121070,
+      "num": 132586,
+      "word": "芒果短剧刚开播居然就大结局",
+      "onboard_time": 1760498541,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120718,
       "num": 120718,
       "word": "S15世界赛Top20",
       "onboard_time": 1760272159,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120512,
+      "num": 120512,
+      "word": "梁靖崑在王楚钦怀里小鸟依人",
+      "onboard_time": 1760498479,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 120376,
@@ -5699,12 +5755,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119861,
-      "num": 119861,
-      "word": "修复为人民服务标语小伙公布费用",
-      "onboard_time": 1760495839,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 119948,
+      "num": 119948,
+      "word": "杨瀚森人气火爆",
+      "onboard_time": 1760496260,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 119798,
@@ -6089,6 +6145,14 @@
       "onboard_time": 1760235560,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115466,
+      "num": 115466,
+      "word": "金价走高什么信号",
+      "onboard_time": 1760498421,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 115341,
@@ -6667,6 +6731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108252,
+      "num": 108252,
+      "word": "女童落水被冲走两钓鱼小伙抛竿救人",
+      "onboard_time": 1760498720,
+      "rank": 41,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 108235,
       "num": 108235,
       "word": "孙颖莎嘟嘟嘟嘟嘟嘟嘟",
@@ -6716,7 +6788,7 @@
     },
     {
       "raw_hot": 107568,
-      "num": 131713,
+      "num": 162670,
       "word": "全新ColorOS16发布",
       "onboard_time": 1760497700,
       "rank": 32,
@@ -7083,14 +7155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 102154,
-      "num": 132018,
-      "word": "成年人的摇摇车5元能开两小时",
-      "onboard_time": 1760497700,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 102147,
       "num": 102147,
       "word": "西部黄金再度涨停",
@@ -7305,6 +7369,14 @@
       "onboard_time": 1760420121,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 99760,
+      "num": 247063,
+      "word": "缅北果敢魏家和刘家犯罪集团专案侦破",
+      "onboard_time": 1760498360,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 99434,
@@ -8891,6 +8963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80852,
+      "num": 115242,
+      "word": "这个镜头切得属于是世界名画了",
+      "onboard_time": 1760497760,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80838,
       "num": 80838,
       "word": "时装周最亮眼艺人",
@@ -9843,6 +9923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65094,
+      "num": 160476,
+      "word": "刘宇宁京东红包",
+      "onboard_time": 1760497819,
+      "rank": 36,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 64596,
       "num": 48834,
       "word": "再懒都要做凯格尔运动",
@@ -9857,14 +9945,6 @@
       "onboard_time": 1760358621,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 64322,
-      "num": 110156,
-      "word": "这个镜头切得属于是世界名画了",
-      "onboard_time": 1760497760,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 64282,
@@ -10507,6 +10587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45983,
+      "num": 271931,
+      "word": "直击湾芯展",
+      "onboard_time": 1760337861,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45739,
       "num": 613036,
       "word": "特区之特",
@@ -10707,14 +10795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38684,
-      "num": 112182,
-      "word": "刘宇宁京东红包",
-      "onboard_time": 1760497819,
-      "rank": 36,
-      "category": "艺人,互联网"
-    },
-    {
       "raw_hot": 38584,
       "num": 38584,
       "word": "四人都这个症状真的非常罕见",
@@ -10857,14 +10937,6 @@
       "onboard_time": 1760453722,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35094,
-      "num": 271931,
-      "word": "直击湾芯展",
-      "onboard_time": 1760337861,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34939,

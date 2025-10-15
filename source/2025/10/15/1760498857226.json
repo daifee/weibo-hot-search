@@ -1,0 +1,410 @@
+{
+  "runTime": 1760498857226,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 891138,
+        "num": 1142582,
+        "word": "下雪",
+        "onboard_time": 1760492719,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488255,
+        "num": 488255,
+        "word": "山姆客服回应枣泥核桃蛋糕吃出牙",
+        "onboard_time": 1760491519,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18576,
+        "num": 450460,
+        "word": "张雨霏希望30岁还能站上奥运赛场",
+        "onboard_time": 1760452883,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425025,
+        "num": 425025,
+        "word": "医院300万预算1000元中标采购暂停",
+        "onboard_time": 1760495539,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369889,
+        "num": 369889,
+        "word": "人体蜈蚣雕塑引景区致歉",
+        "onboard_time": 1760486240,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362172,
+        "num": 362172,
+        "word": "现在就出发3定档",
+        "onboard_time": 1760496800,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338958,
+        "num": 338958,
+        "word": "王者荣耀河灯",
+        "onboard_time": 1760494819,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 293288,
+        "num": 293288,
+        "word": "现在就出发",
+        "onboard_time": 1760488222,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251492,
+        "num": 251492,
+        "word": "新凯来",
+        "onboard_time": 1760491341,
+        "rank": 8,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 99760,
+        "num": 247063,
+        "word": "缅北果敢魏家和刘家犯罪集团专案侦破",
+        "onboard_time": 1760498360,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1082141,
+        "num": 243645,
+        "word": "林永健人日发文批某顶流演员排场大",
+        "onboard_time": 1760492118,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 984080,
+        "num": 237520,
+        "word": "熊黛林婉拒祝福郭富城",
+        "onboard_time": 1760495539,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390750,
+        "num": 228484,
+        "word": "一直没明白为什么微信能取代QQ",
+        "onboard_time": 1760496559,
+        "rank": 12,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 275669,
+        "num": 220883,
+        "word": "125斤左右的姐姐们别减肥了",
+        "onboard_time": 1760490741,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220333,
+        "num": 220333,
+        "word": "杨瀚森篮板",
+        "onboard_time": 1760496620,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177473,
+        "num": 177473,
+        "word": "你在南方吹空调我在北方看雾凇",
+        "onboard_time": 1760489721,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166901,
+        "num": 166901,
+        "word": "网传花少8阵容",
+        "onboard_time": 1760483238,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107306,
+        "num": 166254,
+        "word": "花少7 是妈妈是女儿",
+        "onboard_time": 1760484079,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127243,
+        "num": 165157,
+        "word": "成年人的摇摇车5元能开两小时",
+        "onboard_time": 1760497700,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 43244,
+        "num": 162670,
+        "word": "全新ColorOS16发布",
+        "onboard_time": 1760497700,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 267059,
+        "num": 161294,
+        "word": "别亲了要生小小咪了",
+        "onboard_time": 1760494641,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65094,
+        "num": 160476,
+        "word": "刘宇宁京东红包",
+        "onboard_time": 1760497819,
+        "rank": 21,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 159594,
+        "num": 159594,
+        "word": "勇士vs开拓者",
+        "onboard_time": 1760495359,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151835,
+        "num": 151835,
+        "word": "新凯来子公司发布两款EDA设计软件",
+        "onboard_time": 1760494641,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 71825,
+        "num": 148311,
+        "word": "智能辅助驾驶规范该不该纳入驾考",
+        "onboard_time": 1760494459,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 146588,
+        "num": 146588,
+        "word": "原来头像真的很影响聊天欲",
+        "onboard_time": 1760491100,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138534,
+        "num": 138534,
+        "word": "修复为人民服务标语小伙公布费用",
+        "onboard_time": 1760495839,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45983,
+        "num": 134175,
+        "word": "直击湾芯展",
+        "onboard_time": 1760497281,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 133370,
+        "num": 133370,
+        "word": "淘宝闪购 侯明昊",
+        "onboard_time": 1760493679,
+        "rank": 28,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 121070,
+        "num": 132586,
+        "word": "芒果短剧刚开播居然就大结局",
+        "onboard_time": 1760498541,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146125,
+        "num": 132391,
+        "word": "新凯来称2025湾芯展不会发布新品",
+        "onboard_time": 1760498541,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 132127,
+        "num": 132127,
+        "word": "我两天不能玩手机了",
+        "onboard_time": 1760454562,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126392,
+        "num": 126392,
+        "word": "9月CPI同比下降0.3%",
+        "onboard_time": 1760498661,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124430,
+        "num": 124430,
+        "word": "第一批国考报名失败的人已经出现",
+        "onboard_time": 1760498720,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121571,
+        "num": 121571,
+        "word": "日本队集体凝固",
+        "onboard_time": 1760483418,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120512,
+        "num": 120512,
+        "word": "梁靖崑在王楚钦怀里小鸟依人",
+        "onboard_time": 1760498479,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119948,
+        "num": 119948,
+        "word": "杨瀚森人气火爆",
+        "onboard_time": 1760496260,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115466,
+        "num": 115466,
+        "word": "金价走高什么信号",
+        "onboard_time": 1760498421,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80852,
+        "num": 115242,
+        "word": "这个镜头切得属于是世界名画了",
+        "onboard_time": 1760497760,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115062,
+        "num": 115062,
+        "word": "南方降温北方跑步入冬",
+        "onboard_time": 1760488161,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112184,
+        "num": 112184,
+        "word": "男子变现2公斤金条净赚百万",
+        "onboard_time": 1760454623,
+        "rank": 40,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 108252,
+        "num": 108252,
+        "word": "女童落水被冲走两钓鱼小伙抛竿救人",
+        "onboard_time": 1760498720,
+        "rank": 41,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 106604,
+        "num": 106604,
+        "word": "EVA终引进内地",
+        "onboard_time": 1760496740,
+        "rank": 42,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 104560,
+        "num": 104560,
+        "word": "美政府停摆进入第3周",
+        "onboard_time": 1760491879,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102458,
+        "num": 102458,
+        "word": "减肥连续一个月每天吃一顿的后果",
+        "onboard_time": 1760483778,
+        "rank": 44,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 101556,
+        "num": 101556,
+        "word": "神五飞天已经是22年前了",
+        "onboard_time": 1760491579,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97485,
+        "num": 97485,
+        "word": "王楚钦扇自己巴掌",
+        "onboard_time": 1760457321,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95546,
+        "num": 95546,
+        "word": "国乒男团3比2逆转日本",
+        "onboard_time": 1760483117,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64528,
+        "num": 95243,
+        "word": "这个十月到底哪三家在对打",
+        "onboard_time": 1760497100,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95123,
+        "num": 95123,
+        "word": "剑网3",
+        "onboard_time": 1760495181,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#全球妇女命运与共#"
+    }
+  }
+}
