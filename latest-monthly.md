@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/15 12:43:18
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/15 13:25:43
 </p>
 </blockquote>
 <p>
@@ -545,6 +545,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%88%96%E6%97%A0%E6%9C%9B%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%23" target="weibo">
 高市早苗或无望日本首相（热度：1378773）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%89%E5%A5%B3%E7%94%9F%E5%AE%B6%E9%97%A8%E5%8F%A3%E9%81%AD%E5%90%8C%E7%8F%AD%E7%94%B7%E7%94%9F%E6%9D%80%E5%AE%B3%23" target="weibo">
+初三女生家门口遭同班男生杀害（热度：1376312）
 </a>
 </li>
 
@@ -2949,12 +2955,6 @@ JDG战胜狼队（热度：630844）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%9D%E4%B8%89%E5%A5%B3%E7%94%9F%E5%AE%B6%E9%97%A8%E5%8F%A3%E9%81%AD%E5%90%8C%E7%8F%AD%E7%94%B7%E7%94%9F%E6%9D%80%E5%AE%B3%23" target="weibo">
-初三女生家门口遭同班男生杀害（热度：612964）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B8%A4%E5%A4%A9%E4%B8%8D%E8%83%BD%E7%8E%A9%E6%89%8B%E6%9C%BA%E4%BA%86%23" target="weibo">
 我两天不能玩手机了（热度：611911）
 </a>
@@ -4833,6 +4833,12 @@ B站崩了（热度：442971）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%88%B8%E7%88%B8%E5%9B%9E%E5%BA%94%E7%97%85%E5%8D%B1%E4%BC%A0%E8%A8%80%23" target="weibo">
+郭碧婷爸爸回应病危传言（热度：442943）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E5%9B%9E%E5%BA%94%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E8%AE%B8%E5%A6%8D%E9%85%8D%E9%9F%B3%23" target="weibo">
 配音演员回应许我耀眼许妍配音（热度：442736）
 </a>
@@ -4841,6 +4847,12 @@ B站崩了（热度：442971）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%A4%B1%E8%B8%AA4%E5%B9%B4%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%97%B6%E5%B7%B2%E6%88%90%E5%B9%B2%E5%B0%B8%23" target="weibo">
 姐姐失踪4年被发现时已成干尸（热度：442684）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E4%B9%90%E9%A2%82%E7%BC%96%E5%89%A7%E8%B0%88%E6%9D%A8%E7%B4%AB%E5%B0%8F%E8%9A%AF%E8%9A%93%23" target="weibo">
+欢乐颂编剧谈杨紫小蚯蚓（热度：442548）
 </a>
 </li>
 
@@ -5835,8 +5847,8 @@ iPhone17系列激活量曝光（热度：374659）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E4%B9%90%E9%A2%82%E7%BC%96%E5%89%A7%E8%B0%88%E6%9D%A8%E7%B4%AB%E5%B0%8F%E8%9A%AF%E8%9A%93%23" target="weibo">
-欢乐颂编剧谈杨紫小蚯蚓（热度：374426）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%A1%B0%E8%80%81%E7%84%A6%E8%99%91%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
+何炅衰老焦虑的原因找到了（热度：374295）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone17系列激活量曝光（热度：374659）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%A9%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%A2%AB%E6%88%B3%E4%BC%A4%E5%A4%B1%E6%98%8E%23" target="weibo">
 官方通报男孩幼儿园被戳伤失明（热度：365344）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%8F%91%E7%94%9F%E9%97%AA%E7%88%86%E4%BA%8B%E6%95%85%E8%87%B41%E6%AD%BB2%E4%BC%A4%23" target="weibo">
-南京一小区发生闪爆事故致1死2伤（热度：365205）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E5%91%A8%E8%BE%B9%E6%91%8A%E4%B8%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
-鸡排哥周边摊主发声（热度：365186）
 </a>
 </li>
 

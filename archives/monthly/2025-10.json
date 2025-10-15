@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760503398819,
+  "endTime": 1760505943904,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -713,6 +713,14 @@
       "onboard_time": 1760098400,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1376312,
+      "num": 209562,
+      "word": "初三女生家门口遭同班男生杀害",
+      "onboard_time": 1760501961,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1374201,
@@ -3915,14 +3923,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 612964,
-      "num": 209562,
-      "word": "初三女生家门口遭同班男生杀害",
-      "onboard_time": 1760501961,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 611911,
       "num": 288211,
       "word": "我两天不能玩手机了",
@@ -6427,6 +6427,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 442943,
+      "num": 170910,
+      "word": "郭碧婷爸爸回应病危传言",
+      "onboard_time": 1760502622,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 442736,
       "num": 181755,
       "word": "配音演员回应许我耀眼许妍配音",
@@ -6441,6 +6449,14 @@
       "onboard_time": 1759823422,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 442548,
+      "num": 238661,
+      "word": "欢乐颂编剧谈杨紫小蚯蚓",
+      "onboard_time": 1760500522,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 442124,
@@ -7763,12 +7779,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 374426,
-      "num": 238661,
-      "word": "欢乐颂编剧谈杨紫小蚯蚓",
-      "onboard_time": 1760500522,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 374295,
+      "num": 242981,
+      "word": "何炅衰老焦虑的原因找到了",
+      "onboard_time": 1760501240,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 374075,
@@ -8049,14 +8065,6 @@
       "onboard_time": 1760447241,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 361127,
-      "num": 242981,
-      "word": "何炅衰老焦虑的原因找到了",
-      "onboard_time": 1760501240,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 360617,
@@ -8579,6 +8587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 336560,
+      "num": 170264,
+      "word": "网易恭喜QQ音乐",
+      "onboard_time": 1760505201,
+      "rank": 16,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 336296,
       "num": 176721,
       "word": "李纯说马頔哪哪都是加分项",
@@ -8689,6 +8705,14 @@
       "onboard_time": 1759975279,
       "rank": 13,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 332216,
+      "num": 332216,
+      "word": "杨瀚森库里互飙三分",
+      "onboard_time": 1760502861,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 332210,
@@ -9547,6 +9571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 304025,
+      "num": 183591,
+      "word": "谁是灵珠谁是魔丸我一眼就认出来了",
+      "onboard_time": 1760501540,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 303807,
       "num": 216702,
       "word": "这居然是兰西雅",
@@ -9745,6 +9777,14 @@
       "onboard_time": 1759551681,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 297907,
+      "num": 169440,
+      "word": "姜珮瑶 偏偏你最争气",
+      "onboard_time": 1760504482,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 297327,
@@ -11891,6 +11931,14 @@
       "category": "辟谣/通报,演出"
     },
     {
+      "raw_hot": 238284,
+      "num": 169833,
+      "word": "短剧折腰尺度好大",
+      "onboard_time": 1760505621,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238001,
       "num": 231581,
       "word": "管乐寸头",
@@ -12289,6 +12337,14 @@
       "onboard_time": 1759936282,
       "rank": 23,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 228662,
+      "num": 228662,
+      "word": "短剧折腰",
+      "onboard_time": 1760505021,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 228382,
@@ -13217,6 +13273,14 @@
       "onboard_time": 1759892301,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210066,
+      "num": 169137,
+      "word": "网购卫生巾上有手写字",
+      "onboard_time": 1760502622,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 209765,
@@ -15595,6 +15659,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184563,
+      "num": 186594,
+      "word": "你好星期六直播",
+      "onboard_time": 1760503102,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184440,
       "num": 168685,
       "word": "太湖湾音乐节",
@@ -15689,14 +15761,6 @@
       "onboard_time": 1759571060,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 183591,
-      "num": 183591,
-      "word": "谁是灵珠谁是魔丸我一眼就认出来了",
-      "onboard_time": 1760501540,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 183394,
@@ -17195,6 +17259,14 @@
       "category": "体育,体育"
     },
     {
+      "raw_hot": 171108,
+      "num": 171108,
+      "word": "央视梳理缅北魏家覆灭之路",
+      "onboard_time": 1760504541,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170869,
       "num": 125440,
       "word": "王楚钦孙颖莎赛前对练",
@@ -17457,6 +17529,14 @@
       "onboard_time": 1759554801,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168983,
+      "num": 168983,
+      "word": "长佩崩了",
+      "onboard_time": 1760503342,
+      "rank": 34,
+      "category": "读书作家"
     },
     {
       "raw_hot": 168948,
@@ -18211,6 +18291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163423,
+      "num": 163423,
+      "word": "看offer7跟父母的查岗电话和解了",
+      "onboard_time": 1760505380,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163378,
       "num": 163378,
       "word": "赵磊回应官宣结婚",
@@ -18625,14 +18713,6 @@
       "onboard_time": 1760456181,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160298,
-      "num": 160298,
-      "word": "郭碧婷爸爸回应病危传言",
-      "onboard_time": 1760502622,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 160106,
@@ -19897,14 +19977,6 @@
       "onboard_time": 1759919421,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 152043,
-      "num": 152043,
-      "word": "杨瀚森库里互飙三分",
-      "onboard_time": 1760502861,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 152007,
@@ -21251,6 +21323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143486,
+      "num": 143486,
+      "word": "缅北果敢魏家犯罪集团专案细节曝光",
+      "onboard_time": 1760505139,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143427,
       "num": 138324,
       "word": "卢昱晓神级路透那段播了",
@@ -21281,14 +21361,6 @@
       "onboard_time": 1760411360,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 143379,
-      "num": 186594,
-      "word": "你好星期六直播",
-      "onboard_time": 1760503102,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 143341,
@@ -23995,6 +24067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130844,
+      "num": 130844,
+      "word": "在泰威胁中国游客导游已被逮捕",
+      "onboard_time": 1760503282,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130836,
       "num": 105768,
       "word": "吴磊宋祖儿心目中的少年夫妻",
@@ -24075,6 +24155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130578,
+      "num": 130578,
+      "word": "杨瀚森9分6板1助1帽",
+      "onboard_time": 1760504002,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130577,
       "num": 130577,
       "word": "邓亚萍说王楚钦孙颖莎地位难以撼动",
@@ -24137,6 +24225,14 @@
       "onboard_time": 1760448381,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130492,
+      "num": 130492,
+      "word": "梁靖崑赛后哭了",
+      "onboard_time": 1760503942,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 130430,
@@ -26451,6 +26547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121506,
+      "num": 121506,
+      "word": "李沁马思纯你俩别争了",
+      "onboard_time": 1760503282,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121500,
       "num": 121500,
       "word": "马主回应70多匹马下山时被绑前腿",
@@ -26889,14 +26993,6 @@
       "onboard_time": 1760184801,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119643,
-      "num": 119643,
-      "word": "长佩崩了",
-      "onboard_time": 1760503342,
-      "rank": 34,
-      "category": "读书作家"
     },
     {
       "raw_hot": 119632,
@@ -28585,6 +28681,14 @@
       "onboard_time": 1759483823,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114133,
+      "num": 114133,
+      "word": "入青云 还我凉亭吻",
+      "onboard_time": 1760504301,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 114103,
@@ -30395,14 +30499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109521,
-      "num": 109521,
-      "word": "在泰威胁中国游客导游已被逮捕",
-      "onboard_time": 1760503282,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109510,
       "num": 109510,
       "word": "张雨绮素颜主打一个真实",
@@ -30793,6 +30889,14 @@
       "onboard_time": 1760409740,
       "rank": 34,
       "category": "运动健身,健康医疗"
+    },
+    {
+      "raw_hot": 108750,
+      "num": 125453,
+      "word": "库里史诗级加强",
+      "onboard_time": 1760505680,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 108748,
@@ -31265,14 +31369,6 @@
       "onboard_time": 1760326701,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 107299,
-      "num": 113224,
-      "word": "李沁马思纯你俩别争了",
-      "onboard_time": 1760503282,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 107294,
@@ -32313,6 +32409,14 @@
       "onboard_time": 1760241260,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104595,
+      "num": 104595,
+      "word": "杨瀚森 进步",
+      "onboard_time": 1760503942,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 104576,
@@ -34177,6 +34281,14 @@
       "onboard_time": 1759828161,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98916,
+      "num": 98916,
+      "word": "魏家称杀人没什么感受",
+      "onboard_time": 1760505861,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98884,
@@ -37459,6 +37571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89640,
+      "num": 105062,
+      "word": "欧盟拟强制中国企业转让技术",
+      "onboard_time": 1760504482,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 89580,
       "num": 89580,
       "word": "妈妈会把所有东西都养成XXL",
@@ -38585,6 +38705,14 @@
       "onboard_time": 1759552821,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86177,
+      "num": 102319,
+      "word": "当家爸爸的聚会",
+      "onboard_time": 1760504901,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 86045,
@@ -41555,14 +41683,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 74347,
-      "num": 113286,
-      "word": "网购卫生巾上有手写字",
-      "onboard_time": 1760502622,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74309,
       "num": 74309,
       "word": "年纪越大对任何人都不会有滤镜",
@@ -42105,6 +42225,14 @@
       "onboard_time": 1760023882,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 71078,
+      "num": 150049,
+      "word": "全球外贸人的宇宙中心来了",
+      "onboard_time": 1760504780,
+      "rank": 29,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 71024,
@@ -42907,6 +43035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65609,
+      "num": 124811,
+      "word": "郭涛18岁儿子身高",
+      "onboard_time": 1760505021,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 65558,
       "num": 65558,
       "word": "广西通报高速5车追尾2死3伤",
@@ -43529,6 +43665,14 @@
       "onboard_time": 1760067021,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60228,
+      "num": 170026,
+      "word": "全网都在抄的抖音双11爆款清单",
+      "onboard_time": 1760504780,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 60143,
@@ -47505,6 +47649,14 @@
       "onboard_time": 1759438273,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23422,
+      "num": 170427,
+      "word": "刘宇宁加盟京东双11晚会",
+      "onboard_time": 1760504723,
+      "rank": 15,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 23413,
