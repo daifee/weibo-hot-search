@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760560180794,
+  "endTime": 1760560947742,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -13987,6 +13987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26161,
+      "num": 20119,
+      "word": "李昀锐 某来到了你的家乡",
+      "onboard_time": 1760557333,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 26095,
       "num": 162091,
       "word": "汕头唯一西贝门店将闭店",
@@ -14195,14 +14203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19353,
-      "num": 19353,
-      "word": "李昀锐 某来到了你的家乡",
-      "onboard_time": 1760557333,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 19327,
       "num": 29335,
       "word": "一起开麦吧艺人阵容官宣",
@@ -14241,6 +14241,14 @@
       "onboard_time": 1760206996,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18630,
+      "num": 18630,
+      "word": "何晟铭说接机人太少",
+      "onboard_time": 1760557874,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 18311,
@@ -14315,14 +14323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15874,
-      "num": 15874,
-      "word": "何晟铭说接机人太少",
-      "onboard_time": 1760557874,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 15711,
       "num": 30960,
       "word": "让五官更耐看的面部瑜伽",
@@ -14395,19 +14395,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 11723,
-      "num": 15098,
-      "word": "这次山东的目标是星辰大海",
-      "onboard_time": 1760559133,
-      "rank": 41,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 11717,
-      "num": 15097,
+      "raw_hot": 11967,
+      "num": 15589,
       "word": "国台办套用没出息歌词回应",
       "onboard_time": 1760557035,
       "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 11723,
+      "num": 15577,
+      "word": "这次山东的目标是星辰大海",
+      "onboard_time": 1760559133,
+      "rank": 41,
       "category": "国内时政"
     },
     {
