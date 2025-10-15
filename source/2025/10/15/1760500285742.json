@@ -1,0 +1,410 @@
+{
+  "runTime": 1760500285742,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 807292,
+        "num": 1129166,
+        "word": "下雪",
+        "onboard_time": 1760492719,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533001,
+        "num": 533001,
+        "word": "医院300万预算1000元中标采购暂停",
+        "onboard_time": 1760495539,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18291,
+        "num": 398796,
+        "word": "张雨霏希望30岁还能站上奥运赛场",
+        "onboard_time": 1760452883,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394384,
+        "num": 394384,
+        "word": "现在就出发3定档",
+        "onboard_time": 1760496800,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362957,
+        "num": 362957,
+        "word": "山姆客服回应枣泥核桃蛋糕吃出牙",
+        "onboard_time": 1760491519,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341706,
+        "num": 341706,
+        "word": "梁靖崑在王楚钦怀里小鸟依人",
+        "onboard_time": 1760498479,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337983,
+        "num": 337983,
+        "word": "缅北果敢魏家和刘家犯罪集团专案侦破",
+        "onboard_time": 1760498360,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 295897,
+        "num": 295897,
+        "word": "人体蜈蚣雕塑引景区致歉",
+        "onboard_time": 1760486240,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295014,
+        "num": 295014,
+        "word": "王者荣耀河灯",
+        "onboard_time": 1760494819,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270859,
+        "num": 270859,
+        "word": "杨瀚森篮板",
+        "onboard_time": 1760496620,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 829872,
+        "num": 270789,
+        "word": "一直没明白为什么微信能取代QQ",
+        "onboard_time": 1760496559,
+        "rank": 10,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 679745,
+        "num": 261567,
+        "word": "熊黛林婉拒祝福郭富城",
+        "onboard_time": 1760495539,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548384,
+        "num": 261465,
+        "word": "Doinb怒喷TheShy",
+        "onboard_time": 1760499320,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 251941,
+        "num": 251941,
+        "word": "洞洞鞋下岗勃肯鞋上岗",
+        "onboard_time": 1760499201,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 248536,
+        "num": 248536,
+        "word": "125斤左右的姐姐们别减肥了",
+        "onboard_time": 1760490741,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190673,
+        "num": 248357,
+        "word": "现在就出发",
+        "onboard_time": 1760488222,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143989,
+        "num": 239266,
+        "word": "网传花少8阵容",
+        "onboard_time": 1760483238,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47386,
+        "num": 232580,
+        "word": "全新ColorOS16发布",
+        "onboard_time": 1760497700,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92023,
+        "num": 229211,
+        "word": "成年人的摇摇车5元能开两小时",
+        "onboard_time": 1760497700,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 67737,
+        "num": 222757,
+        "word": "新凯来并未展示光刻机",
+        "onboard_time": 1760499080,
+        "rank": 19,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 1282713,
+        "num": 214761,
+        "word": "林永健人日发文批某顶流演员排场大",
+        "onboard_time": 1760492118,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258582,
+        "num": 211520,
+        "word": "别亲了要生小小咪了",
+        "onboard_time": 1760494641,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208044,
+        "num": 208044,
+        "word": "水贝老板囤实物黄金交了几十万学费",
+        "onboard_time": 1760499080,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 201086,
+        "num": 201086,
+        "word": "王凯沐吻戏",
+        "onboard_time": 1760499080,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71022,
+        "num": 198983,
+        "word": "刘宇宁京东红包",
+        "onboard_time": 1760497819,
+        "rank": 24,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 198676,
+        "num": 198676,
+        "word": "勇士vs开拓者",
+        "onboard_time": 1760495359,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178764,
+        "num": 178764,
+        "word": "新凯来",
+        "onboard_time": 1760491341,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123583,
+        "num": 165636,
+        "word": "芒果短剧刚开播居然就大结局",
+        "onboard_time": 1760498541,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112423,
+        "num": 160004,
+        "word": "华为耳夹何方联名配饰开启预售",
+        "onboard_time": 1760499441,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 71340,
+        "num": 158610,
+        "word": "花少7 是妈妈是女儿",
+        "onboard_time": 1760484079,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157971,
+        "num": 157971,
+        "word": "第一批国考报名失败的人已经出现",
+        "onboard_time": 1760498720,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145816,
+        "num": 145816,
+        "word": "修复为人民服务标语小伙公布费用",
+        "onboard_time": 1760495839,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133414,
+        "num": 133414,
+        "word": "你在南方吹空调我在北方看雾凇",
+        "onboard_time": 1760489721,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126089,
+        "num": 126089,
+        "word": "南方降温北方跑步入冬",
+        "onboard_time": 1760488161,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121149,
+        "num": 121149,
+        "word": "国台办引用沉默的荣耀台词",
+        "onboard_time": 1760499860,
+        "rank": 34,
+        "category": "国内时政,剧集"
+      },
+      {
+        "raw_hot": 118935,
+        "num": 118935,
+        "word": "新凯来展位被挤爆",
+        "onboard_time": 1760499620,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114853,
+        "num": 114853,
+        "word": "沈星回寰宇流光",
+        "onboard_time": 1760499019,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86202,
+        "num": 114684,
+        "word": "特朗普抱怨称中国故意不买美国大豆",
+        "onboard_time": 1760500161,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56795,
+        "num": 114659,
+        "word": "浙大拟2360万租房当学生宿舍",
+        "onboard_time": 1760499680,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88605,
+        "num": 114658,
+        "word": "王楚钦抬手是抱歉",
+        "onboard_time": 1760499680,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114658,
+        "num": 114657,
+        "word": "原来头像真的很影响聊天欲",
+        "onboard_time": 1760491100,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30253,
+        "num": 114612,
+        "word": "7年前国乒包揽青奥会三金",
+        "onboard_time": 1760498960,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114608,
+        "num": 114608,
+        "word": "淘宝闪购 侯明昊",
+        "onboard_time": 1760493679,
+        "rank": 42,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 108940,
+        "num": 108940,
+        "word": "苹果预告M5芯片登场",
+        "onboard_time": 1760499378,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108503,
+        "num": 108503,
+        "word": "杨瀚森球商好高",
+        "onboard_time": 1760499919,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107007,
+        "num": 107007,
+        "word": "海马汽车股价涨停",
+        "onboard_time": 1760499501,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102099,
+        "num": 102099,
+        "word": "小猫突然把狗狗的脑袋扶正了",
+        "onboard_time": 1760500041,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101283,
+        "num": 101283,
+        "word": "陈哲远内娱破碎男主赛道",
+        "onboard_time": 1760500102,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100310,
+        "num": 100310,
+        "word": "美政府停摆进入第3周",
+        "onboard_time": 1760491879,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93078,
+        "num": 93078,
+        "word": "金价走高什么信号",
+        "onboard_time": 1760498421,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#30年后再聚北京共商妇女全面发展#"
+    }
+  }
+}
