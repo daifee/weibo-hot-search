@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/12 00:27:55 ~ 2025/10/16 02:37:33
+本榜单时间：2025/10/12 00:27:55 ~ 2025/10/16 02:49:56
 </p>
 </blockquote>
 <p>
@@ -10751,6 +10751,12 @@ Doinb聊LPL和LCK训练环境（热度：18181）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%BE%E8%BD%A6%E6%BC%82%E7%A7%BB%E8%87%B4%E6%A0%87%E8%AF%AD%E8%A2%AB%E7%A0%B4%E5%9D%8F%E8%BD%A6%E4%B8%BB%E5%B7%B2%E6%89%BE%E5%88%B0%23" target="weibo">
 驾车漂移致标语被破坏车主已找到（热度：15574）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E6%B0%B4%E9%BE%99%E5%90%9F%E9%AB%98%E7%87%83%E6%89%93%E6%88%8F%23" target="weibo">
+罗云熙水龙吟高燃打戏（热度：15370）
 </a>
 </li>
 

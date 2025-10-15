@@ -1,6 +1,6 @@
 {
   "startTime": 1760545770711,
-  "endTime": 1760553453159,
+  "endTime": 1760554196292,
   "band_list": [
     {
       "raw_hot": 990684,
@@ -499,7 +499,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 16533,
+      "raw_hot": 16739,
       "num": 31026,
       "word": "京东补贴",
       "onboard_time": 1760533582,
@@ -529,6 +529,30 @@
       "onboard_time": 1760553074,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 15411,
+      "num": 18951,
+      "word": "荣耀李健带3500人疯狂购物",
+      "onboard_time": 1760533582,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 15370,
+      "num": 18949,
+      "word": "罗云熙水龙吟高燃打戏",
+      "onboard_time": 1760553735,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 14838,
+      "num": 18948,
+      "word": "双十一领券神器出现了",
+      "onboard_time": 1760533582,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 3831,
