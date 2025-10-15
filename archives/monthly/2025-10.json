@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760494512611,
+  "endTime": 1760497859254,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -1395,6 +1395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1048866,
+      "num": 1167818,
+      "word": "下雪",
+      "onboard_time": 1760492719,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1048444,
       "num": 269838,
       "word": "许我耀眼名场面 张翰娜扎官宣图",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1760171301,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 1039775,
+      "num": 232370,
+      "word": "熊黛林婉拒祝福郭富城",
+      "onboard_time": 1760495539,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1035926,
@@ -5339,6 +5355,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 501589,
+      "num": 501589,
+      "word": "山姆客服回应枣泥核桃蛋糕吃出牙",
+      "onboard_time": 1760491519,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 500930,
       "num": 500930,
       "word": "官方介入调查为人民服务地标被破坏",
@@ -7044,7 +7068,7 @@
     },
     {
       "raw_hot": 404972,
-      "num": 345660,
+      "num": 385165,
       "word": "现在就出发",
       "onboard_time": 1759557981,
       "rank": 20,
@@ -7121,14 +7145,6 @@
       "onboard_time": 1760106203,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 401947,
-      "num": 401947,
-      "word": "下雪",
-      "onboard_time": 1760492719,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 401128,
@@ -7739,6 +7755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 372024,
+      "num": 372024,
+      "word": "医院300万预算1000元中标采购暂停",
+      "onboard_time": 1760495539,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 371879,
       "num": 172953,
       "word": "吴汉坤踩到孟子义头纱",
@@ -7833,6 +7857,14 @@
       "onboard_time": 1759325421,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 367707,
+      "num": 367707,
+      "word": "王者荣耀河灯",
+      "onboard_time": 1760494819,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 367588,
@@ -10963,6 +10995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 258736,
+      "num": 203053,
+      "word": "别亲了要生小小咪了",
+      "onboard_time": 1760494641,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 258437,
       "num": 258437,
       "word": "高反被救女子有成植物人的可能",
@@ -11995,6 +12035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232643,
+      "num": 232643,
+      "word": "现在就出发3定档",
+      "onboard_time": 1760496800,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232623,
       "num": 232623,
       "word": "王源被绊一下之后的反应",
@@ -12505,6 +12553,14 @@
       "onboard_time": 1759494081,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221309,
+      "num": 221309,
+      "word": "杨瀚森篮板",
+      "onboard_time": 1760496620,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 221274,
@@ -13139,6 +13195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208829,
+      "num": 208829,
+      "word": "一直没明白为什么微信能取代QQ",
+      "onboard_time": 1760496559,
+      "rank": 14,
+      "category": "互联网,幽默"
+    },
+    {
       "raw_hot": 208651,
       "num": 201165,
       "word": "小孩哥把芥末放水中让花甲吐沙",
@@ -13683,6 +13747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201871,
+      "num": 201871,
+      "word": "EVA终引进内地",
+      "onboard_time": 1760496740,
+      "rank": 21,
+      "category": "动漫,电影"
+    },
+    {
       "raw_hot": 201729,
       "num": 201729,
       "word": "一个镜头拉满生理性恐惧",
@@ -13857,14 +13929,6 @@
       "onboard_time": 1759321579,
       "rank": 22,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 200336,
-      "num": 200336,
-      "word": "山姆客服回应枣泥核桃蛋糕吃出牙",
-      "onboard_time": 1760491519,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 200303,
@@ -14137,6 +14201,14 @@
       "onboard_time": 1759385961,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197199,
+      "num": 197199,
+      "word": "新凯来子公司发布两款EDA设计软件",
+      "onboard_time": 1760494641,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 197194,
@@ -17787,6 +17859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165565,
+      "num": 165565,
+      "word": "剑网3",
+      "onboard_time": 1759979779,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 165477,
       "num": 165477,
       "word": "鹿晗演唱会",
@@ -18833,6 +18913,14 @@
       "onboard_time": 1759649600,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157121,
+      "num": 157121,
+      "word": "勇士vs开拓者",
+      "onboard_time": 1760495359,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 157094,
@@ -26091,6 +26179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121595,
+      "num": 207040,
+      "word": "这个十月到底哪三家在对打",
+      "onboard_time": 1760497100,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121575,
       "num": 121575,
       "word": "董璇佟丽娅小酒窝朵朵中秋合照",
@@ -26505,6 +26601,14 @@
       "onboard_time": 1759477460,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119861,
+      "num": 119861,
+      "word": "修复为人民服务标语小伙公布费用",
+      "onboard_time": 1760495839,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119798,
@@ -27236,7 +27340,7 @@
     },
     {
       "raw_hot": 117565,
-      "num": 169435,
+      "num": 205975,
       "word": "花少7 是妈妈是女儿",
       "onboard_time": 1760484079,
       "rank": 28,
@@ -29507,6 +29611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 110480,
+      "num": 106476,
+      "word": "剑网3牧川套",
+      "onboard_time": 1760496559,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 110471,
       "num": 110471,
       "word": "王一博请大家遵守观赛规定",
@@ -30659,14 +30771,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 107719,
-      "num": 107719,
-      "word": "剑网3",
-      "onboard_time": 1759979779,
-      "rank": 41,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 107657,
       "num": 107657,
       "word": "董璇张维伊北大合体",
@@ -30681,6 +30785,14 @@
       "onboard_time": 1759836681,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107568,
+      "num": 131713,
+      "word": "全新ColorOS16发布",
+      "onboard_time": 1760497700,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 107536,
@@ -32625,6 +32737,14 @@
       "onboard_time": 1760177960,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102154,
+      "num": 132018,
+      "word": "成年人的摇摇车5元能开两小时",
+      "onboard_time": 1760497700,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 102147,
@@ -35267,6 +35387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94088,
+      "num": 94088,
+      "word": "全国大部将迎换季式降温",
+      "onboard_time": 1760494400,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94084,
       "num": 94084,
       "word": "川超绵阳vs德阳",
@@ -35433,6 +35561,14 @@
       "onboard_time": 1760332043,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93721,
+      "num": 93721,
+      "word": "披头发里的小心机",
+      "onboard_time": 1760497641,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 93716,
@@ -35788,7 +35924,7 @@
     },
     {
       "raw_hot": 92630,
-      "num": 97642,
+      "num": 204184,
       "word": "智能辅助驾驶规范该不该纳入驾考",
       "onboard_time": 1760494459,
       "rank": 35,
@@ -35891,6 +36027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92463,
+      "num": 92463,
+      "word": "哈尔滨乌鲁木齐下雪了",
+      "onboard_time": 1760496981,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92454,
       "num": 92454,
       "word": "星期二因iG和T1与众不同",
@@ -35969,6 +36113,14 @@
       "onboard_time": 1759846944,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 92328,
+      "num": 92328,
+      "word": "情绪也会影响你的体态",
+      "onboard_time": 1760497340,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 92320,
@@ -36465,6 +36617,14 @@
       "onboard_time": 1759400061,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 90970,
+      "num": 93805,
+      "word": "60岁老党员为救落水儿童牺牲",
+      "onboard_time": 1760494701,
+      "rank": 46,
+      "category": "正能量"
     },
     {
       "raw_hot": 90914,
@@ -37369,6 +37529,14 @@
       "onboard_time": 1759462880,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 88039,
+      "num": 132474,
+      "word": "天鹰战士",
+      "onboard_time": 1760497520,
+      "rank": 29,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 88002,
@@ -39883,14 +40051,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 79628,
-      "num": 79628,
-      "word": "全国大部将迎换季式降温",
-      "onboard_time": 1760494400,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79610,
       "num": 79610,
       "word": "库房管理员网上卖国家秘密",
@@ -40292,7 +40452,7 @@
     },
     {
       "raw_hot": 77964,
-      "num": 94731,
+      "num": 110433,
       "word": "央视财经见证马自达EZ60安全实力",
       "onboard_time": 1760494159,
       "rank": 39,
@@ -42496,6 +42656,14 @@
       "word": "塞斯库里加盟勇士",
       "onboard_time": 1759281019,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64322,
+      "num": 110156,
+      "word": "这个镜头切得属于是世界名画了",
+      "onboard_time": 1760497760,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -45339,6 +45507,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 38684,
+      "num": 112182,
+      "word": "刘宇宁京东红包",
+      "onboard_time": 1760497819,
+      "rank": 36,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 38584,
       "num": 38584,
       "word": "四人都这个症状真的非常罕见",
@@ -45713,6 +45889,14 @@
       "onboard_time": 1759392440,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 35094,
+      "num": 271931,
+      "word": "直击湾芯展",
+      "onboard_time": 1760337861,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35064,
@@ -46313,14 +46497,6 @@
       "onboard_time": 1759259594,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 29516,
-      "num": 271931,
-      "word": "直击湾芯展",
-      "onboard_time": 1760337861,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29466,

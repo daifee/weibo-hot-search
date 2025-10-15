@@ -1,6 +1,6 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760494512611,
+  "endTime": 1760497859254,
   "band_list": [
     {
       "raw_hot": 1543352,
@@ -25,6 +25,22 @@
       "onboard_time": 1760455401,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1048866,
+      "num": 1167818,
+      "word": "下雪",
+      "onboard_time": 1760492719,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1039775,
+      "num": 232370,
+      "word": "熊黛林婉拒祝福郭富城",
+      "onboard_time": 1760495539,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 772428,
@@ -91,6 +107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 501589,
+      "num": 501589,
+      "word": "山姆客服回应枣泥核桃蛋糕吃出牙",
+      "onboard_time": 1760491519,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 500930,
       "num": 500930,
       "word": "官方介入调查为人民服务地标被破坏",
@@ -108,19 +132,11 @@
     },
     {
       "raw_hot": 404972,
-      "num": 345660,
+      "num": 385165,
       "word": "现在就出发",
       "onboard_time": 1760488222,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 401947,
-      "num": 401947,
-      "word": "下雪",
-      "onboard_time": 1760492719,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 395329,
@@ -145,6 +161,22 @@
       "onboard_time": 1760450002,
       "rank": 4,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 372024,
+      "num": 372024,
+      "word": "医院300万预算1000元中标采购暂停",
+      "onboard_time": 1760495539,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 367707,
+      "num": 367707,
+      "word": "王者荣耀河灯",
+      "onboard_time": 1760494819,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 347920,
@@ -235,12 +267,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258736,
+      "num": 203053,
+      "word": "别亲了要生小小咪了",
+      "onboard_time": 1760494641,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 232643,
+      "num": 232643,
+      "word": "现在就出发3定档",
+      "onboard_time": 1760496800,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223365,
       "num": 223365,
       "word": "香港家庭雇的印尼女佣竟是富家女",
       "onboard_time": 1760444720,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 221309,
+      "num": 221309,
+      "word": "杨瀚森篮板",
+      "onboard_time": 1760496620,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 216422,
@@ -267,12 +323,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208829,
+      "num": 208829,
+      "word": "一直没明白为什么微信能取代QQ",
+      "onboard_time": 1760496559,
+      "rank": 14,
+      "category": "互联网,幽默"
+    },
+    {
       "raw_hot": 207373,
       "num": 126918,
       "word": "国乒男团1比2日本",
       "onboard_time": 1760459120,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201871,
+      "num": 201871,
+      "word": "EVA终引进内地",
+      "onboard_time": 1760496740,
+      "rank": 21,
+      "category": "动漫,电影"
     },
     {
       "raw_hot": 200542,
@@ -283,20 +355,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 200336,
-      "num": 200336,
-      "word": "山姆客服回应枣泥核桃蛋糕吃出牙",
-      "onboard_time": 1760491519,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 200105,
       "num": 145030,
       "word": "王楚钦单局让张本智和得1分",
       "onboard_time": 1760459899,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197199,
+      "num": 197199,
+      "word": "新凯来子公司发布两款EDA设计软件",
+      "onboard_time": 1760494641,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 187436,
@@ -347,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165565,
+      "num": 165565,
+      "word": "剑网3",
+      "onboard_time": 1760495181,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 159434,
       "num": 159434,
       "word": "解清帅举办婚礼一天后奶奶离世",
@@ -361,6 +441,14 @@
       "onboard_time": 1760491879,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 157121,
+      "num": 157121,
+      "word": "勇士vs开拓者",
+      "onboard_time": 1760495359,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 151775,
@@ -427,6 +515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 131694,
+      "num": 131694,
+      "word": "NBA",
+      "onboard_time": 1760496681,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131524,
       "num": 131524,
       "word": "王楚钦vs松岛辉空",
@@ -451,8 +547,24 @@
       "category": "财经"
     },
     {
+      "raw_hot": 121595,
+      "num": 207040,
+      "word": "这个十月到底哪三家在对打",
+      "onboard_time": 1760497100,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119861,
+      "num": 119861,
+      "word": "修复为人民服务标语小伙公布费用",
+      "onboard_time": 1760495839,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117565,
-      "num": 169435,
+      "num": 205975,
       "word": "花少7 是妈妈是女儿",
       "onboard_time": 1760484079,
       "rank": 28,
@@ -483,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110480,
+      "num": 106476,
+      "word": "剑网3牧川套",
+      "onboard_time": 1760496559,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 110051,
       "num": 110051,
       "word": "金饰价格涨到1235元",
@@ -505,6 +625,14 @@
       "onboard_time": 1760491999,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 107568,
+      "num": 131713,
+      "word": "全新ColorOS16发布",
+      "onboard_time": 1760497700,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 106883,
@@ -537,6 +665,14 @@
       "onboard_time": 1760442561,
       "rank": 24,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 102154,
+      "num": 132018,
+      "word": "成年人的摇摇车5元能开两小时",
+      "onboard_time": 1760497700,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 101345,
@@ -595,8 +731,24 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94088,
+      "num": 94088,
+      "word": "全国大部将迎换季式降温",
+      "onboard_time": 1760494400,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93721,
+      "num": 93721,
+      "word": "披头发里的小心机",
+      "onboard_time": 1760497641,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 92630,
-      "num": 97642,
+      "num": 204184,
       "word": "智能辅助驾驶规范该不该纳入驾考",
       "onboard_time": 1760494459,
       "rank": 35,
@@ -611,12 +763,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92463,
+      "num": 92463,
+      "word": "哈尔滨乌鲁木齐下雪了",
+      "onboard_time": 1760496981,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92328,
+      "num": 92328,
+      "word": "情绪也会影响你的体态",
+      "onboard_time": 1760497340,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 91756,
       "num": 91756,
       "word": "香港警方回应豪宅双尸案",
       "onboard_time": 1760487920,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90970,
+      "num": 93805,
+      "word": "60岁老党员为救落水儿童牺牲",
+      "onboard_time": 1760494701,
+      "rank": 46,
+      "category": "正能量"
     },
     {
       "raw_hot": 90734,
@@ -641,6 +817,14 @@
       "onboard_time": 1760447602,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88039,
+      "num": 132474,
+      "word": "天鹰战士",
+      "onboard_time": 1760497520,
+      "rank": 29,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 87584,
@@ -731,14 +915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79628,
-      "num": 79628,
-      "word": "全国大部将迎换季式降温",
-      "onboard_time": 1760494400,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79563,
       "num": 79563,
       "word": "亚锦赛男团",
@@ -764,7 +940,7 @@
     },
     {
       "raw_hot": 77964,
-      "num": 94731,
+      "num": 110433,
       "word": "央视财经见证马自达EZ60安全实力",
       "onboard_time": 1760494159,
       "rank": 39,
@@ -881,6 +1057,14 @@
       "onboard_time": 1760445501,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 64322,
+      "num": 110156,
+      "word": "这个镜头切得属于是世界名画了",
+      "onboard_time": 1760497760,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 63331,
@@ -1057,6 +1241,22 @@
       "onboard_time": 1760441241,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 38684,
+      "num": 112182,
+      "word": "刘宇宁京东红包",
+      "onboard_time": 1760497819,
+      "rank": 36,
+      "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 35094,
+      "num": 204819,
+      "word": "直击湾芯展",
+      "onboard_time": 1760497281,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 34843,
