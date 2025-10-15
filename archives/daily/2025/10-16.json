@@ -1,6 +1,6 @@
 {
   "startTime": 1760545770711,
-  "endTime": 1760556084175,
+  "endTime": 1760557002828,
   "band_list": [
     {
       "raw_hot": 990684,
@@ -499,7 +499,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17280,
+      "raw_hot": 18462,
       "num": 33184,
       "word": "京东补贴",
       "onboard_time": 1760533582,
@@ -555,7 +555,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 13285,
+      "raw_hot": 13609,
       "num": 32907,
       "word": "京东现货",
       "onboard_time": 1760526321,
