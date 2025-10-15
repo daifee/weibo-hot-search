@@ -1,7 +1,23 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760514043584,
+  "endTime": 1760517348470,
   "band_list": [
+    {
+      "raw_hot": 2710906,
+      "num": 212895,
+      "word": "蔡国强烟花秀调查情况",
+      "onboard_time": 1760515580,
+      "rank": 3,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 2696220,
+      "num": 212082,
+      "word": "黄子韬徐艺洋接吻婚纱照",
+      "onboard_time": 1760514501,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1543352,
       "num": 305841,
@@ -12,7 +28,7 @@
     },
     {
       "raw_hot": 1501901,
-      "num": 195133,
+      "num": 211753,
       "word": "网易恭喜QQ音乐",
       "onboard_time": 1760505201,
       "rank": 16,
@@ -20,7 +36,7 @@
     },
     {
       "raw_hot": 1437955,
-      "num": 209562,
+      "num": 210772,
       "word": "初三女生家门口遭同班男生杀害",
       "onboard_time": 1760501961,
       "rank": 22,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 1199304,
-      "num": 193866,
+      "num": 210959,
       "word": "短剧折腰尺度好大",
       "onboard_time": 1760505621,
       "rank": 19,
@@ -99,20 +115,20 @@
       "category": "互联网,幽默"
     },
     {
+      "raw_hot": 860114,
+      "num": 732096,
+      "word": "女子吸毒鼻沾K粉被海关当场抓获",
+      "onboard_time": 1760512399,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 772428,
       "num": 933588,
       "word": "国乒男团3比2逆转日本",
       "onboard_time": 1760483117,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 732096,
-      "num": 732096,
-      "word": "女子吸毒鼻沾K粉被海关当场抓获",
-      "onboard_time": 1760512399,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 713915,
@@ -137,6 +153,14 @@
       "onboard_time": 1760486240,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 619570,
+      "num": 211949,
+      "word": "村长李锐在迪拜拿下超12亿订单",
+      "onboard_time": 1760512521,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 611911,
@@ -169,6 +193,14 @@
       "onboard_time": 1760490741,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 542258,
+      "num": 211813,
+      "word": "汪峰抱着森林北难舍难分",
+      "onboard_time": 1760513480,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 533001,
@@ -307,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390124,
+      "num": 211542,
+      "word": "面试通知等了一年",
+      "onboard_time": 1760512221,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 385677,
       "num": 385677,
       "word": "约80名韩国人下落不明",
@@ -387,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 317856,
-      "num": 175834,
-      "word": "村长李锐在迪拜拿下超12亿订单",
-      "onboard_time": 1760512521,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 316517,
       "num": 316517,
       "word": "你在南方吹空调我在北方看雾凇",
@@ -412,7 +444,7 @@
     },
     {
       "raw_hot": 313170,
-      "num": 313170,
+      "num": 1044840,
       "word": "梁靖崑老婆边吸氧边看球",
       "onboard_time": 1760509221,
       "rank": 30,
@@ -507,12 +539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 244417,
-      "num": 167470,
-      "word": "汪峰抱着森林北难舍难分",
-      "onboard_time": 1760513480,
+      "raw_hot": 248348,
+      "num": 211273,
+      "word": "立案查处蔡国强工作室违法行为",
+      "onboard_time": 1760516721,
       "rank": 17,
-      "category": "艺人"
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 235938,
@@ -555,6 +587,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 214026,
+      "num": 211117,
+      "word": "始祖鸟承担相应赔偿修复责任",
+      "onboard_time": 1760516721,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 213894,
       "num": 213894,
       "word": "央视梳理缅北魏家覆灭之路",
@@ -569,6 +609,14 @@
       "onboard_time": 1760491100,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210765,
+      "num": 210765,
+      "word": "ELLE拍了31个网红",
+      "onboard_time": 1760515522,
+      "rank": 22,
+      "category": "网红,时尚"
     },
     {
       "raw_hot": 208154,
@@ -635,14 +683,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197377,
-      "num": 154165,
-      "word": "面试通知等了一年",
-      "onboard_time": 1760512221,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 197199,
       "num": 197199,
       "word": "新凯来子公司发布两款EDA设计软件",
@@ -667,12 +707,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186440,
+      "num": 186440,
+      "word": "身体虚的人秋天就要多出去玩",
+      "onboard_time": 1760517021,
+      "rank": 23,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 184563,
       "num": 186594,
       "word": "你好星期六直播",
       "onboard_time": 1760503102,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182726,
+      "num": 182726,
+      "word": "王鹤棣工作室艾特的是谁啊",
+      "onboard_time": 1760515461,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 181891,
@@ -756,7 +812,7 @@
     },
     {
       "raw_hot": 166186,
-      "num": 166186,
+      "num": 212416,
       "word": "鸡排哥 炸鸡叔",
       "onboard_time": 1760511140,
       "rank": 25,
@@ -769,6 +825,14 @@
       "onboard_time": 1760495181,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164580,
+      "num": 164580,
+      "word": "升龙烟花秀多人被处理",
+      "onboard_time": 1760516601,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163423,
@@ -915,12 +979,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142840,
+      "num": 142840,
+      "word": "原来夫妻相是真的",
+      "onboard_time": 1760512039,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141942,
       "num": 141942,
       "word": "美联储",
       "onboard_time": 1760484619,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 141687,
+      "num": 141687,
+      "word": "张晚意 6只脚没有一份鱿鱼贵",
+      "onboard_time": 1760514681,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 141022,
@@ -963,20 +1043,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 137179,
-      "num": 137179,
-      "word": "原来夫妻相是真的",
-      "onboard_time": 1760512039,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 134592,
       "num": 134592,
       "word": "缅北魏家致8名中国公民死亡",
       "onboard_time": 1760509160,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133519,
+      "num": 133519,
+      "word": "王影璐我才是女生",
+      "onboard_time": 1760516061,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 132181,
@@ -1033,6 +1113,22 @@
       "onboard_time": 1760503942,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130261,
+      "num": 130261,
+      "word": "美国救不了台湾的稀土荒",
+      "onboard_time": 1760515941,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 129505,
+      "num": 211042,
+      "word": "BLG对战100T",
+      "onboard_time": 1760516302,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 129055,
@@ -1147,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119468,
+      "num": 119468,
+      "word": "林永健在人民日报撰文",
+      "onboard_time": 1760516302,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119350,
       "num": 119350,
       "word": "潘玮柏菜到嘴边被欧阳娜娜偷了",
@@ -1233,6 +1337,14 @@
       "onboard_time": 1760501121,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113582,
+      "num": 113582,
+      "word": "考公年龄放宽大龄考生发声",
+      "onboard_time": 1760517320,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 112650,
@@ -1427,12 +1539,28 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 103238,
+      "num": 103238,
+      "word": "一批抹黑军队军人形象账号被处置",
+      "onboard_time": 1760516480,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103150,
       "num": 103150,
       "word": "菜鸟驿站对取件未出库罚款100元",
       "onboard_time": 1760436861,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103047,
+      "num": 103047,
+      "word": "樊振东十五运参加男单男团",
+      "onboard_time": 1760516841,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 102362,
@@ -1457,6 +1585,14 @@
       "onboard_time": 1760506880,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101472,
+      "num": 142847,
+      "word": "双11直播红包已全面脱水",
+      "onboard_time": 1760515701,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 101345,
@@ -1497,6 +1633,14 @@
       "onboard_time": 1760450903,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 99122,
+      "num": 143584,
+      "word": "技能五子棋走入悬疑剧",
+      "onboard_time": 1760516961,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 96491,
@@ -2259,6 +2403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50884,
+      "num": 123823,
+      "word": "辛芷蕾不许开这种玩笑",
+      "onboard_time": 1760516480,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 50459,
       "num": 97818,
       "word": "95生在古偶卷生卷死",
@@ -2307,6 +2459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41300,
+      "num": 123708,
+      "word": "奚梦瑶带俩孩子游迪士尼",
+      "onboard_time": 1760516480,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40376,
       "num": 78744,
       "word": "S15第二轮抽签嘉宾JieJie",
@@ -2321,6 +2481,14 @@
       "onboard_time": 1760501420,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39518,
+      "num": 103050,
+      "word": "新凯来子公司全新软件打破国外垄断",
+      "onboard_time": 1760515101,
+      "rank": 45,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 37527,
@@ -2387,6 +2555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 27652,
+      "num": 123958,
+      "word": "在魏家和金主眼里几千万是小数目",
+      "onboard_time": 1760517201,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27352,
       "num": 52594,
       "word": "KPL抽签",
@@ -2425,6 +2601,22 @@
       "onboard_time": 1760471114,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22762,
+      "num": 123442,
+      "word": "常熟不止是时尚",
+      "onboard_time": 1760515281,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21049,
+      "num": 211619,
+      "word": "这届双11靠集猫猫实现财富自由",
+      "onboard_time": 1760516361,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 20883,
