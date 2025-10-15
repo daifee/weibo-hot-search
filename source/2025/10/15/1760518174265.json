@@ -1,0 +1,410 @@
+{
+  "runTime": 1760518174265,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 266793,
+        "num": 1042687,
+        "word": "奥迪车主为躲闯红灯电动车不慎坠河",
+        "onboard_time": 1760508021,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254468,
+        "num": 254468,
+        "word": "BLG对战100T",
+        "onboard_time": 1760516302,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10608,
+        "num": 253664,
+        "word": "非凡十四五",
+        "onboard_time": 1760517860,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3108485,
+        "num": 250849,
+        "word": "蔡国强烟花秀调查情况",
+        "onboard_time": 1760515580,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 630736,
+        "num": 249899,
+        "word": "女子吸毒鼻沾K粉被海关当场抓获",
+        "onboard_time": 1760512399,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187769,
+        "num": 246006,
+        "word": "鸡排哥 炸鸡叔",
+        "onboard_time": 1760511140,
+        "rank": 5,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 149765,
+        "num": 244915,
+        "word": "缅北果敢魏家犯罪集团专案细节曝光",
+        "onboard_time": 1760505139,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267786,
+        "num": 243346,
+        "word": "梁靖崑老婆边吸氧边看球",
+        "onboard_time": 1760509221,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135104,
+        "num": 240454,
+        "word": "Doinb怒喷TheShy",
+        "onboard_time": 1760499320,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127548,
+        "num": 237731,
+        "word": "央视梳理缅北魏家覆灭之路",
+        "onboard_time": 1760504541,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68340,
+        "num": 236098,
+        "word": "天猫双11多点看头",
+        "onboard_time": 1760517380,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1929514,
+        "num": 233807,
+        "word": "黄子韬徐艺洋接吻婚纱照",
+        "onboard_time": 1760514501,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 691151,
+        "num": 232463,
+        "word": "始祖鸟承担相应赔偿修复责任",
+        "onboard_time": 1760516721,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 598671,
+        "num": 228893,
+        "word": "缅北一个中国人卖30多万",
+        "onboard_time": 1760508080,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28643,
+        "num": 227652,
+        "word": "这届双11靠集猫猫实现财富自由",
+        "onboard_time": 1760516361,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 508954,
+        "num": 224437,
+        "word": "面试通知等了一年",
+        "onboard_time": 1760512221,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 505636,
+        "num": 222799,
+        "word": "村长李锐在迪拜拿下超12亿订单",
+        "onboard_time": 1760512521,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486256,
+        "num": 220005,
+        "word": "汪峰抱着森林北难舍难分",
+        "onboard_time": 1760513480,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360879,
+        "num": 217892,
+        "word": "立案查处蔡国强工作室违法行为",
+        "onboard_time": 1760516721,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 116440,
+        "num": 217243,
+        "word": "日喀则江孜县主要领导被追责问责",
+        "onboard_time": 1760517501,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 411191,
+        "num": 215257,
+        "word": "短剧折腰尺度好大",
+        "onboard_time": 1760505621,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 340410,
+        "num": 212484,
+        "word": "初三女生家门口遭同班男生杀害",
+        "onboard_time": 1760501961,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295345,
+        "num": 209613,
+        "word": "网易恭喜QQ音乐",
+        "onboard_time": 1760505201,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 269808,
+        "num": 208279,
+        "word": "西藏江孜县委书记被免职",
+        "onboard_time": 1760517501,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 206736,
+        "num": 206736,
+        "word": "ELLE拍了31个网红",
+        "onboard_time": 1760515522,
+        "rank": 24,
+        "category": "网红,时尚"
+      },
+      {
+        "raw_hot": 190156,
+        "num": 190156,
+        "word": "升龙烟花秀多人被处理",
+        "onboard_time": 1760516601,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177939,
+        "num": 177939,
+        "word": "黄子韬徐艺洋婚纱照 全是右脸",
+        "onboard_time": 1760517860,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172730,
+        "num": 172730,
+        "word": "身体虚的人秋天就要多出去玩",
+        "onboard_time": 1760517021,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 107392,
+        "num": 163060,
+        "word": "技能五子棋走入悬疑剧",
+        "onboard_time": 1760516961,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114081,
+        "num": 159856,
+        "word": "双11直播红包已全面脱水",
+        "onboard_time": 1760515701,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159321,
+        "num": 159321,
+        "word": "姜珮瑶 偏偏你最争气",
+        "onboard_time": 1760504482,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12779,
+        "num": 146678,
+        "word": "中国首次载人航天飞行22周年",
+        "onboard_time": 1760487982,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146652,
+        "num": 146652,
+        "word": "王鹤棣工作室艾特的是谁啊",
+        "onboard_time": 1760515461,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143976,
+        "num": 143976,
+        "word": "带薪摸鱼真的不如带薪保健",
+        "onboard_time": 1760517501,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124627,
+        "num": 124627,
+        "word": "辛芷蕾又提名一个国际大奖",
+        "onboard_time": 1760507722,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118403,
+        "num": 118403,
+        "word": "沈星回双星之剑",
+        "onboard_time": 1760517860,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 29349,
+        "num": 118334,
+        "word": "在魏家和金主眼里几千万是小数目",
+        "onboard_time": 1760517201,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50176,
+        "num": 118286,
+        "word": "小酒窝让董璇来学校前化化妆",
+        "onboard_time": 1760517680,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45745,
+        "num": 118100,
+        "word": "黄晓明曾因闹太套的梗抑郁",
+        "onboard_time": 1760517680,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15222,
+        "num": 117993,
+        "word": "常熟不止是时尚",
+        "onboard_time": 1760515281,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117139,
+        "num": 117937,
+        "word": "林永健在人民日报撰文",
+        "onboard_time": 1760516302,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117889,
+        "num": 117889,
+        "word": "美国救不了台湾的稀土荒",
+        "onboard_time": 1760515941,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117232,
+        "num": 117232,
+        "word": "原来夫妻相是真的",
+        "onboard_time": 1760512039,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113363,
+        "num": 113363,
+        "word": "存不到一套房都对不起这个蛋",
+        "onboard_time": 1760512880,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107101,
+        "num": 107101,
+        "word": "考公年龄放宽大龄考生发声",
+        "onboard_time": 1760517320,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20654,
+        "num": 106938,
+        "word": "南方降温北方跑步入冬",
+        "onboard_time": 1760488161,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106907,
+        "num": 106907,
+        "word": "于正说明天有大事宣布",
+        "onboard_time": 1760512821,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104460,
+        "num": 104460,
+        "word": "张晚意 6只脚没有一份鱿鱼贵",
+        "onboard_time": 1760514681,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102864,
+        "num": 102864,
+        "word": "王影璐我才是女生",
+        "onboard_time": 1760516061,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100189,
+        "num": 100189,
+        "word": "辛芷蕾不许开这种玩笑",
+        "onboard_time": 1760516480,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这份关心从未改变#"
+    }
+  }
+}
