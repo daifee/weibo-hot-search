@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760525132628,
+  "endTime": 1760527346859,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2114161,
-      "num": 351529,
+      "num": 438086,
       "word": "再见爱人5官宣",
       "onboard_time": 1760521103,
       "rank": 8,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1152055,
+      "num": 221509,
+      "word": "内娱四位粉丝破百万的站姐",
+      "onboard_time": 1760522601,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1149838,
       "num": 1183974,
       "word": "约80名韩国人下落不明",
@@ -433,14 +441,6 @@
       "onboard_time": 1760496559,
       "rank": 14,
       "category": "互联网,幽默"
-    },
-    {
-      "raw_hot": 885511,
-      "num": 221509,
-      "word": "内娱四位粉丝破百万的站姐",
-      "onboard_time": 1760522601,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 881433,
@@ -620,7 +620,7 @@
     },
     {
       "raw_hot": 747625,
-      "num": 232463,
+      "num": 368100,
       "word": "始祖鸟承担相应赔偿修复责任",
       "onboard_time": 1760516721,
       "rank": 18,
@@ -729,6 +729,14 @@
       "onboard_time": 1760255720,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 684053,
+      "num": 1109448,
+      "word": "AL战胜HLE",
+      "onboard_time": 1760526561,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 682276,
@@ -1011,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 582896,
+      "num": 582896,
+      "word": "100T嘲讽LPL",
+      "onboard_time": 1760525000,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 581920,
       "num": 1093107,
       "word": "日本队集体凝固",
@@ -1179,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 538256,
+      "num": 195937,
+      "word": "向太儿子向佑近照曝光",
+      "onboard_time": 1760526442,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 537811,
       "num": 246231,
       "word": "关晓彤说28岁要爱自己明媚的活着",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1760506880,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 503471,
+      "num": 213697,
+      "word": "黄子韬徐艺洋婚纱照 全是右脸",
+      "onboard_time": 1760517860,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 502105,
@@ -1545,14 +1577,6 @@
       "onboard_time": 1760439923,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 462555,
-      "num": 213697,
-      "word": "黄子韬徐艺洋婚纱照 全是右脸",
-      "onboard_time": 1760517860,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 453472,
@@ -1825,6 +1849,14 @@
       "onboard_time": 1760435601,
       "rank": 3,
       "category": "国际时政,数码"
+    },
+    {
+      "raw_hot": 409367,
+      "num": 213290,
+      "word": "突然悟到了上班打扮漂亮的意义",
+      "onboard_time": 1760523561,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 408131,
@@ -2355,6 +2387,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 309297,
+      "num": 191116,
+      "word": "再见爱人 李施嬅",
+      "onboard_time": 1760525421,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309221,
       "num": 300273,
       "word": "男子酒驾与小车碰撞致1人死亡",
@@ -2521,6 +2561,14 @@
       "onboard_time": 1760272401,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 292365,
+      "num": 292365,
+      "word": "国乒女团vs日本",
+      "onboard_time": 1760520681,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 291587,
@@ -2867,6 +2915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256211,
+      "num": 256211,
+      "word": "缅北魏家简直残忍到没人性",
+      "onboard_time": 1760525121,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 255574,
       "num": 255574,
       "word": "美航母被撞8个月了没修",
@@ -2883,12 +2939,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254354,
-      "num": 213290,
-      "word": "突然悟到了上班打扮漂亮的意义",
-      "onboard_time": 1760523561,
-      "rank": 16,
-      "category": "情感"
+      "raw_hot": 252997,
+      "num": 193901,
+      "word": "朱丹删除女儿作品在卢浮宫展出帖子",
+      "onboard_time": 1760523082,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 251998,
@@ -3003,6 +3059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242113,
+      "num": 192342,
+      "word": "再见爱人5有邓莎",
+      "onboard_time": 1760523801,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241986,
       "num": 241986,
       "word": "美国救不了台湾的稀土荒",
@@ -3099,20 +3163,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 230373,
-      "num": 193901,
-      "word": "朱丹删除女儿作品在卢浮宫展出帖子",
-      "onboard_time": 1760523082,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229099,
       "num": 285247,
       "word": "张予曦毕雯珺第二",
       "onboard_time": 1760335161,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228939,
+      "num": 190921,
+      "word": "微信回应出朋友圈访客功能",
+      "onboard_time": 1760523142,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 228361,
@@ -3195,12 +3259,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221824,
-      "num": 185048,
-      "word": "微信回应出朋友圈访客功能",
-      "onboard_time": 1760523142,
-      "rank": 28,
-      "category": "互联网"
+      "raw_hot": 223375,
+      "num": 190861,
+      "word": "林心如再见爱人5官宣",
+      "onboard_time": 1760526621,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 221510,
@@ -3499,12 +3563,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203234,
+      "num": 190846,
+      "word": "银河左岸酒店事件严正声明",
+      "onboard_time": 1760526142,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203042,
       "num": 203042,
       "word": "国考",
       "onboard_time": 1760448022,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 202419,
+      "num": 190529,
+      "word": "肖战要进组了",
+      "onboard_time": 1760525781,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202407,
+      "num": 202407,
+      "word": "孙颖莎3比0张本美和",
+      "onboard_time": 1760526200,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 202163,
@@ -3571,14 +3659,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200303,
-      "num": 192342,
-      "word": "再见爱人5有邓莎",
-      "onboard_time": 1760523801,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200239,
       "num": 181673,
       "word": "王源演唱会宜昌站官宣",
@@ -3617,14 +3697,6 @@
       "onboard_time": 1760189123,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199321,
-      "num": 199321,
-      "word": "国乒女团vs日本",
-      "onboard_time": 1760520681,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 198538,
@@ -3835,6 +3907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191206,
+      "num": 229693,
+      "word": "BLG惊天2.2",
+      "onboard_time": 1760523142,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190622,
       "num": 190622,
       "word": "中国唱将定档",
@@ -3849,6 +3929,14 @@
       "onboard_time": 1760451741,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190162,
+      "num": 190162,
+      "word": "大疆pocket3天猫现货直降900",
+      "onboard_time": 1760524520,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 190156,
@@ -3899,6 +3987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188896,
+      "num": 188896,
+      "word": "上拉如开上奔驰了",
+      "onboard_time": 1760524102,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 188593,
       "num": 165916,
       "word": "何赛飞问余宇涵你有粉丝吗",
@@ -3939,20 +4035,20 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 186910,
+      "num": 186910,
+      "word": "李沛恩直播",
+      "onboard_time": 1760525121,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186440,
       "num": 186440,
       "word": "身体虚的人秋天就要多出去玩",
       "onboard_time": 1760517021,
       "rank": 23,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 186330,
-      "num": 229693,
-      "word": "BLG惊天2.2",
-      "onboard_time": 1760523142,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 186047,
@@ -4003,6 +4099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182785,
+      "num": 182785,
+      "word": "外交部回应韩国正与中国谈判",
+      "onboard_time": 1760523922,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 182726,
       "num": 182726,
       "word": "王鹤棣工作室艾特的是谁啊",
@@ -4033,14 +4137,6 @@
       "onboard_time": 1760326822,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 180593,
-      "num": 180593,
-      "word": "上拉如开上奔驰了",
-      "onboard_time": 1760524102,
-      "rank": 48,
-      "category": "网红"
     },
     {
       "raw_hot": 180083,
@@ -4241,6 +4337,14 @@
       "onboard_time": 1760412980,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 172812,
+      "num": 172812,
+      "word": "蒯曼vs早田希娜",
+      "onboard_time": 1760526142,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 172726,
@@ -5155,20 +5259,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148296,
-      "num": 148296,
-      "word": "外交部回应韩国正与中国谈判",
-      "onboard_time": 1760523922,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 148194,
       "num": 205882,
       "word": "中国对5家美国相关子公司采取反制措施",
       "onboard_time": 1760416643,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 147528,
+      "num": 147528,
+      "word": "85花粉你睡着了吗我睡不着",
+      "onboard_time": 1760524940,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 147279,
@@ -5299,6 +5403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145279,
+      "num": 145279,
+      "word": "何美延 TSong梁老师",
+      "onboard_time": 1760526802,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144662,
       "num": 144662,
       "word": "为什么今年的大闸蟹还没上市",
@@ -5329,14 +5441,6 @@
       "onboard_time": 1760411120,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 143391,
-      "num": 143391,
-      "word": "100T嘲讽LPL",
-      "onboard_time": 1760525000,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 143386,
@@ -6057,14 +6161,6 @@
       "onboard_time": 1760518341,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128976,
-      "num": 180624,
-      "word": "大疆pocket3天猫现货直降900",
-      "onboard_time": 1760524520,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 128958,
@@ -9379,6 +9475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91186,
+      "num": 138167,
+      "word": "罗永浩点赞天猫折扣脱水",
+      "onboard_time": 1760526200,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 91179,
       "num": 91179,
       "word": "决战公考",
@@ -10027,6 +10131,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 85137,
+      "num": 165686,
+      "word": "沈腾回归王牌对王牌",
+      "onboard_time": 1760527281,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85057,
       "num": 85057,
       "word": "陈浚铭拜师兄2.0",
@@ -10409,6 +10521,14 @@
       "onboard_time": 1760340021,
       "rank": 41,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 81026,
+      "num": 132021,
+      "word": "张凌赫卢昱晓叔嫂文学",
+      "onboard_time": 1760525601,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 81017,
@@ -11531,6 +11651,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62714,
+      "num": 206301,
+      "word": "整个微博都在抽猫盒",
+      "onboard_time": 1760522841,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 62694,
       "num": 127877,
       "word": "假期的正确关闭方式",
@@ -12099,6 +12227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48062,
+      "num": 168598,
+      "word": "奶奶带娃6年起诉要求75万保姆费",
+      "onboard_time": 1760526802,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47661,
       "num": 147397,
       "word": "你可能一直都在无效化妆",
@@ -12153,6 +12289,14 @@
       "onboard_time": 1760202858,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46794,
+      "num": 170009,
+      "word": "第一次换iPhone的尴尬瞬间",
+      "onboard_time": 1760525601,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 46363,
@@ -12235,6 +12379,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 44054,
+      "num": 191188,
+      "word": "京东现货",
+      "onboard_time": 1760526321,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 44040,
       "num": 98404,
       "word": "vivo还是太听劝了",
@@ -12281,14 +12433,6 @@
       "onboard_time": 1760434220,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 42875,
-      "num": 206301,
-      "word": "整个微博都在抽猫盒",
-      "onboard_time": 1760522841,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 42723,
@@ -12377,6 +12521,14 @@
       "onboard_time": 1760364021,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40201,
+      "num": 163911,
+      "word": "中方反制美国后韩国急忙与中国沟通",
+      "onboard_time": 1760527222,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40168,
@@ -12939,6 +13091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 24037,
+      "num": 166910,
+      "word": "女婿跳河砸窗救人岳父得知后请喝酒",
+      "onboard_time": 1760526381,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23976,
       "num": 88754,
       "word": "院士合影成生意有商家报价3万起步",
@@ -12961,14 +13121,6 @@
       "onboard_time": 1760515281,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22760,
-      "num": 136347,
-      "word": "85花粉你睡着了吗我睡不着",
-      "onboard_time": 1760524940,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 22223,
@@ -13121,6 +13273,14 @@
       "onboard_time": 1760195242,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 18000,
+      "num": 161708,
+      "word": "官方回应宠物诊所给狗做消声手术",
+      "onboard_time": 1760526021,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16741,

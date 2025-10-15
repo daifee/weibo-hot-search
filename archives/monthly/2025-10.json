@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760525132628,
+  "endTime": 1760527346859,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 2114161,
-      "num": 351529,
+      "num": 438086,
       "word": "再见爱人5官宣",
       "onboard_time": 1760521103,
       "rank": 8,
@@ -1161,6 +1161,14 @@
       "onboard_time": 1759825941,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1152055,
+      "num": 221509,
+      "word": "内娱四位粉丝破百万的站姐",
+      "onboard_time": 1760522601,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1149838,
@@ -2107,14 +2115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 885511,
-      "num": 221509,
-      "word": "内娱四位粉丝破百万的站姐",
-      "onboard_time": 1760522601,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 883908,
       "num": 229859,
       "word": "张艺兴 莲池春晚",
@@ -2924,7 +2924,7 @@
     },
     {
       "raw_hot": 747625,
-      "num": 232463,
+      "num": 368100,
       "word": "始祖鸟承担相应赔偿修复责任",
       "onboard_time": 1760516721,
       "rank": 18,
@@ -3321,6 +3321,14 @@
       "onboard_time": 1759463721,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 684053,
+      "num": 1109448,
+      "word": "AL战胜HLE",
+      "onboard_time": 1760526561,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 684008,
@@ -4387,6 +4395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 582896,
+      "num": 582896,
+      "word": "100T嘲讽LPL",
+      "onboard_time": 1760525000,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 582537,
       "num": 582537,
       "word": "女生找回手机后发现相册多了段视频",
@@ -4971,6 +4987,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 538256,
+      "num": 195937,
+      "word": "向太儿子向佑近照曝光",
+      "onboard_time": 1760526442,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 538085,
       "num": 278042,
       "word": "鹿晗吉隆坡站横滨站演出取消",
@@ -5489,6 +5513,14 @@
       "onboard_time": 1760506880,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 503471,
+      "num": 213697,
+      "word": "黄子韬徐艺洋婚纱照 全是右脸",
+      "onboard_time": 1760517860,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 502358,
@@ -6209,14 +6241,6 @@
       "onboard_time": 1759996581,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 462555,
-      "num": 213697,
-      "word": "黄子韬徐艺洋婚纱照 全是右脸",
-      "onboard_time": 1760517860,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 461697,
@@ -7273,6 +7297,14 @@
       "onboard_time": 1759583120,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 409367,
+      "num": 213290,
+      "word": "突然悟到了上班打扮漂亮的意义",
+      "onboard_time": 1760523561,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 408131,
@@ -9627,6 +9659,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 309297,
+      "num": 191116,
+      "word": "再见爱人 李施嬅",
+      "onboard_time": 1760525421,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 309286,
       "num": 125868,
       "word": "马云成龙贝克汉姆并排观赛",
@@ -10136,6 +10176,14 @@
       "word": "王楚钦说不要攻击其他运动员",
       "onboard_time": 1759475121,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 292365,
+      "num": 292365,
+      "word": "国乒女团vs日本",
+      "onboard_time": 1760520681,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -11435,6 +11483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256211,
+      "num": 256211,
+      "word": "缅北魏家简直残忍到没人性",
+      "onboard_time": 1760525121,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256010,
       "num": 256010,
       "word": "他爷爷为什么不接他电话",
@@ -11547,14 +11603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 254354,
-      "num": 213290,
-      "word": "突然悟到了上班打扮漂亮的意义",
-      "onboard_time": 1760523561,
-      "rank": 16,
-      "category": "情感"
-    },
-    {
       "raw_hot": 253942,
       "num": 253942,
       "word": "女子过度医美面部馒化酷似面具人",
@@ -11577,6 +11625,14 @@
       "onboard_time": 1759484840,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 252997,
+      "num": 193901,
+      "word": "朱丹删除女儿作品在卢浮宫展出帖子",
+      "onboard_time": 1760523082,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 252983,
@@ -12057,6 +12113,14 @@
       "onboard_time": 1759464321,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242113,
+      "num": 192342,
+      "word": "再见爱人5有邓莎",
+      "onboard_time": 1760523801,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 241986,
@@ -12595,14 +12659,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 230373,
-      "num": 193901,
-      "word": "朱丹删除女儿作品在卢浮宫展出帖子",
-      "onboard_time": 1760523082,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 230306,
       "num": 178650,
       "word": "轻断食从130斤瘦到90斤",
@@ -12633,6 +12689,14 @@
       "onboard_time": 1759936282,
       "rank": 23,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 228939,
+      "num": 190921,
+      "word": "微信回应出朋友圈访客功能",
+      "onboard_time": 1760523142,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 228382,
@@ -12891,6 +12955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223375,
+      "num": 190861,
+      "word": "林心如再见爱人5官宣",
+      "onboard_time": 1760526621,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223184,
       "num": 223184,
       "word": "宗馥莉心腹严学峰被调查",
@@ -12961,14 +13033,6 @@
       "onboard_time": 1759325962,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 221824,
-      "num": 185048,
-      "word": "微信回应出朋友圈访客功能",
-      "onboard_time": 1760523142,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 221739,
@@ -14139,6 +14203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 203234,
+      "num": 190846,
+      "word": "银河左岸酒店事件严正声明",
+      "onboard_time": 1760526142,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203198,
       "num": 203198,
       "word": "广州两个高铁站改名",
@@ -14185,6 +14257,22 @@
       "onboard_time": 1759914980,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 202419,
+      "num": 190529,
+      "word": "肖战要进组了",
+      "onboard_time": 1760525781,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 202407,
+      "num": 202407,
+      "word": "孙颖莎3比0张本美和",
+      "onboard_time": 1760526200,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 202310,
@@ -14435,14 +14523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200303,
-      "num": 192342,
-      "word": "再见爱人5有邓莎",
-      "onboard_time": 1760523801,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 200239,
       "num": 181673,
       "word": "王源演唱会宜昌站官宣",
@@ -14521,14 +14601,6 @@
       "onboard_time": 1759449497,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 199321,
-      "num": 199321,
-      "word": "国乒女团vs日本",
-      "onboard_time": 1760520681,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 199286,
@@ -15443,6 +15515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191206,
+      "num": 229693,
+      "word": "BLG惊天2.2",
+      "onboard_time": 1760523142,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 190738,
       "num": 190738,
       "word": "李沁 英气",
@@ -15545,6 +15625,14 @@
       "onboard_time": 1760451741,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190162,
+      "num": 190162,
+      "word": "大疆pocket3天猫现货直降900",
+      "onboard_time": 1760524520,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 190156,
@@ -15747,6 +15835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188896,
+      "num": 188896,
+      "word": "上拉如开上奔驰了",
+      "onboard_time": 1760524102,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 188788,
       "num": 188788,
       "word": "朱志鑫 能不能不上班就有工资",
@@ -15899,6 +15995,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 186910,
+      "num": 186910,
+      "word": "李沛恩直播",
+      "onboard_time": 1760525121,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186623,
       "num": 186623,
       "word": "卢昱晓神女拉弓镜头",
@@ -15945,14 +16049,6 @@
       "onboard_time": 1759654340,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186330,
-      "num": 229693,
-      "word": "BLG惊天2.2",
-      "onboard_time": 1760523142,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 186047,
@@ -16315,6 +16411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182785,
+      "num": 182785,
+      "word": "外交部回应韩国正与中国谈判",
+      "onboard_time": 1760523922,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 182726,
       "num": 182726,
       "word": "王鹤棣工作室艾特的是谁啊",
@@ -16569,14 +16673,6 @@
       "onboard_time": 1759909819,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 180593,
-      "num": 180593,
-      "word": "上拉如开上奔驰了",
-      "onboard_time": 1760524102,
-      "rank": 48,
-      "category": "网红"
     },
     {
       "raw_hot": 180485,
@@ -17465,6 +17561,14 @@
       "onboard_time": 1759489162,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172812,
+      "num": 172812,
+      "word": "蒯曼vs早田希娜",
+      "onboard_time": 1760526142,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 172792,
@@ -20995,14 +21099,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 148296,
-      "num": 148296,
-      "word": "外交部回应韩国正与中国谈判",
-      "onboard_time": 1760523922,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 148222,
       "num": 148222,
       "word": "白鹿跑过来这段也太美了",
@@ -21121,6 +21217,14 @@
       "onboard_time": 1759497442,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147528,
+      "num": 147528,
+      "word": "85花粉你睡着了吗我睡不着",
+      "onboard_time": 1760524940,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 147490,
@@ -21619,6 +21723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145279,
+      "num": 145279,
+      "word": "何美延 TSong梁老师",
+      "onboard_time": 1760526802,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145223,
       "num": 145223,
       "word": "檀健次主演电影票房破10亿",
@@ -21881,14 +21993,6 @@
       "onboard_time": 1760411120,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 143391,
-      "num": 143391,
-      "word": "100T嘲讽LPL",
-      "onboard_time": 1760525000,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 143387,
@@ -25185,14 +25289,6 @@
       "onboard_time": 1759329021,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128976,
-      "num": 180624,
-      "word": "大疆pocket3天猫现货直降900",
-      "onboard_time": 1760524520,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 128958,
@@ -37915,6 +38011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91186,
+      "num": 138167,
+      "word": "罗永浩点赞天猫折扣脱水",
+      "onboard_time": 1760526200,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 91181,
       "num": 91181,
       "word": "8种食物最好带皮吃",
@@ -40019,6 +40123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 85137,
+      "num": 165686,
+      "word": "沈腾回归王牌对王牌",
+      "onboard_time": 1760527281,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85125,
       "num": 90136,
       "word": "小说里眼尾猩红是侯明昊这样的",
@@ -41241,6 +41353,14 @@
       "onboard_time": 1760340021,
       "rank": 41,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 81026,
+      "num": 132021,
+      "word": "张凌赫卢昱晓叔嫂文学",
+      "onboard_time": 1760525601,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 81017,
@@ -44451,6 +44571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 62714,
+      "num": 206301,
+      "word": "整个微博都在抽猫盒",
+      "onboard_time": 1760522841,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 62694,
       "num": 127877,
       "word": "假期的正确关闭方式",
@@ -46267,6 +46395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48062,
+      "num": 168598,
+      "word": "奶奶带娃6年起诉要求75万保姆费",
+      "onboard_time": 1760526802,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48061,
       "num": 86558,
       "word": "张峻豪唱了爱是一场浩大的冒险",
@@ -46393,6 +46529,14 @@
       "onboard_time": 1760202858,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46794,
+      "num": 170009,
+      "word": "第一次换iPhone的尴尬瞬间",
+      "onboard_time": 1760525601,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 46669,
@@ -46643,6 +46787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 44054,
+      "num": 191188,
+      "word": "京东现货",
+      "onboard_time": 1760526321,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 44040,
       "num": 98404,
       "word": "vivo还是太听劝了",
@@ -46777,14 +46929,6 @@
       "onboard_time": 1760434220,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 42875,
-      "num": 206301,
-      "word": "整个微博都在抽猫盒",
-      "onboard_time": 1760522841,
-      "rank": 18,
-      "category": "互联网"
     },
     {
       "raw_hot": 42723,
@@ -47049,6 +47193,14 @@
       "onboard_time": 1760364021,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40201,
+      "num": 163911,
+      "word": "中方反制美国后韩国急忙与中国沟通",
+      "onboard_time": 1760527222,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40168,
@@ -48843,6 +48995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24037,
+      "num": 166910,
+      "word": "女婿跳河砸窗救人岳父得知后请喝酒",
+      "onboard_time": 1760526381,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24007,
       "num": 38730,
       "word": "王曼昱说半决赛要做好困难准备",
@@ -48961,14 +49121,6 @@
       "onboard_time": 1760515281,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22760,
-      "num": 136347,
-      "word": "85花粉你睡着了吗我睡不着",
-      "onboard_time": 1760524940,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 22668,
@@ -49344,6 +49496,14 @@
       "word": "骑车过斑马线被撞因未推行被判责",
       "onboard_time": 1760506160,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18000,
+      "num": 161708,
+      "word": "官方回应宠物诊所给狗做消声手术",
+      "onboard_time": 1760526021,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
