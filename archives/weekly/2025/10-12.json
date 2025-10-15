@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760564234781,
+  "endTime": 1760566955626,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -10715,6 +10715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86880,
+      "num": 78563,
+      "word": "食用酸汤子后离世男子家属再发声",
+      "onboard_time": 1760546360,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86582,
       "num": 86582,
       "word": "气象局解释西安连续降雨成因",
@@ -11769,14 +11777,6 @@
       "onboard_time": 1760238860,
       "rank": 49,
       "category": "民生新闻,时尚"
-    },
-    {
-      "raw_hot": 75570,
-      "num": 78563,
-      "word": "食用酸汤子后离世男子家属再发声",
-      "onboard_time": 1760546360,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75483,
@@ -13787,6 +13787,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 32666,
+      "num": 32666,
+      "word": "晚上的冷和早上的冷的区别",
+      "onboard_time": 1760564353,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 32571,
       "num": 106568,
       "word": "董璇带小酒窝逛乐园",
@@ -13900,7 +13908,7 @@
     },
     {
       "raw_hot": 28988,
-      "num": 24895,
+      "num": 26325,
       "word": "何晟铭说接机人太少",
       "onboard_time": 1760557874,
       "rank": 22,
@@ -13929,6 +13937,14 @@
       "onboard_time": 1760438060,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28256,
+      "num": 28256,
+      "word": "ally收下出轨前男友礼物",
+      "onboard_time": 1760562134,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 28199,
@@ -13963,6 +13979,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 27402,
+      "num": 27402,
+      "word": "李昀锐 某来到了你的家乡",
+      "onboard_time": 1760557333,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 27329,
       "num": 99561,
       "word": "那英努力在天赋面前的无力感",
@@ -13992,14 +14016,6 @@
       "word": "猎心",
       "onboard_time": 1760463136,
       "rank": 29,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 26161,
-      "num": 23521,
-      "word": "李昀锐 某来到了你的家乡",
-      "onboard_time": 1760557333,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -14315,6 +14331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 16121,
+      "num": 24327,
+      "word": "罗云熙水龙吟高燃打戏",
+      "onboard_time": 1760553735,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16107,
       "num": 30974,
       "word": "孙颖莎举起奖杯",
@@ -14339,28 +14363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15370,
-      "num": 18949,
-      "word": "罗云熙水龙吟高燃打戏",
-      "onboard_time": 1760553735,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 14419,
       "num": 158327,
       "word": "为了凑单你都买过什么",
       "onboard_time": 1760536642,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 14138,
-      "num": 14138,
-      "word": "ally收下出轨前男友礼物",
-      "onboard_time": 1760562134,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 14114,
@@ -14377,6 +14385,14 @@
       "onboard_time": 1760431402,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 13621,
+      "num": 24281,
+      "word": "阿富汗首都喀布尔突发爆炸",
+      "onboard_time": 1760566935,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 13104,

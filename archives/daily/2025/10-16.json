@@ -1,6 +1,6 @@
 {
   "startTime": 1760545770711,
-  "endTime": 1760564234781,
+  "endTime": 1760566955626,
   "band_list": [
     {
       "raw_hot": 990684,
@@ -259,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86880,
+      "num": 78563,
+      "word": "食用酸汤子后离世男子家属再发声",
+      "onboard_time": 1760546360,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86496,
       "num": 86496,
       "word": "王楚钦林诗栋梁靖崑登上领奖台",
@@ -297,14 +305,6 @@
       "onboard_time": 1760546779,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75570,
-      "num": 78563,
-      "word": "食用酸汤子后离世男子家属再发声",
-      "onboard_time": 1760546360,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75426,
@@ -451,6 +451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 32666,
+      "num": 32666,
+      "word": "晚上的冷和早上的冷的区别",
+      "onboard_time": 1760564353,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 29552,
       "num": 78380,
       "word": "2025华晨宇火星演唱会",
@@ -460,11 +468,19 @@
     },
     {
       "raw_hot": 28988,
-      "num": 24895,
+      "num": 26325,
       "word": "何晟铭说接机人太少",
       "onboard_time": 1760557874,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28256,
+      "num": 28256,
+      "word": "ally收下出轨前男友礼物",
+      "onboard_time": 1760562134,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 28011,
@@ -475,8 +491,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26161,
-      "num": 23521,
+      "raw_hot": 27402,
+      "num": 27402,
       "word": "李昀锐 某来到了你的家乡",
       "onboard_time": 1760557333,
       "rank": 15,
@@ -531,6 +547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 16121,
+      "num": 24327,
+      "word": "罗云熙水龙吟高燃打戏",
+      "onboard_time": 1760553735,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16107,
       "num": 30974,
       "word": "孙颖莎举起奖杯",
@@ -547,20 +571,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 15418,
+      "num": 32907,
+      "word": "京东现货",
+      "onboard_time": 1760526321,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 15411,
       "num": 18951,
       "word": "荣耀李健带3500人疯狂购物",
       "onboard_time": 1760533582,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 15370,
-      "num": 18949,
-      "word": "罗云熙水龙吟高燃打戏",
-      "onboard_time": 1760553735,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 14838,
@@ -571,20 +595,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 14820,
-      "num": 32907,
-      "word": "京东现货",
-      "onboard_time": 1760526321,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 14138,
-      "num": 14138,
-      "word": "ally收下出轨前男友礼物",
-      "onboard_time": 1760562134,
-      "rank": 33,
-      "category": "网红"
+      "raw_hot": 13621,
+      "num": 24281,
+      "word": "阿富汗首都喀布尔突发爆炸",
+      "onboard_time": 1760566935,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 12907,
