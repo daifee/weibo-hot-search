@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760500285742,
+  "endTime": 1760502606866,
   "band_list": [
     {
       "raw_hot": 8054511,
@@ -161,6 +161,14 @@
       "onboard_time": 1760361802,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1181384,
+      "num": 1189021,
+      "word": "洞洞鞋下岗勃肯鞋上岗",
+      "onboard_time": 1760499201,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 1171793,
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 910262,
+      "num": 270789,
+      "word": "一直没明白为什么微信能取代QQ",
+      "onboard_time": 1760496559,
+      "rank": 14,
+      "category": "互联网,幽默"
+    },
+    {
       "raw_hot": 881433,
       "num": 228228,
       "word": "建议睡眠不好的都去吃",
@@ -443,14 +459,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 829872,
-      "num": 270789,
-      "word": "一直没明白为什么微信能取代QQ",
-      "onboard_time": 1760496559,
-      "rank": 14,
-      "category": "互联网,幽默"
-    },
-    {
       "raw_hot": 820775,
       "num": 228684,
       "word": "树一官宣与慎婕分手",
@@ -473,6 +481,14 @@
       "onboard_time": 1760424381,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 790891,
+      "num": 790891,
+      "word": "特朗普抱怨称中国故意不买美国大豆",
+      "onboard_time": 1760500161,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 782028,
@@ -867,6 +883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 590180,
+      "num": 590180,
+      "word": "Doinb怒喷TheShy",
+      "onboard_time": 1760499320,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 588618,
       "num": 455210,
       "word": "特朗普",
@@ -993,14 +1017,6 @@
       "onboard_time": 1760397678,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 548384,
-      "num": 261465,
-      "word": "Doinb怒喷TheShy",
-      "onboard_time": 1760499320,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 547691,
@@ -1289,6 +1305,14 @@
       "onboard_time": 1760213413,
       "rank": 8,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 476232,
+      "num": 476232,
+      "word": "梁靖崑在王楚钦怀里小鸟依人",
+      "onboard_time": 1760498479,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 475597,
@@ -1819,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 361127,
+      "num": 242981,
+      "word": "何炅衰老焦虑的原因找到了",
+      "onboard_time": 1760501240,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360276,
       "num": 360276,
       "word": "S15抽签",
@@ -1841,6 +1873,14 @@
       "onboard_time": 1760428522,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 349023,
+      "num": 349023,
+      "word": "缅北果敢魏家和刘家犯罪集团专案侦破",
+      "onboard_time": 1760498360,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 347594,
@@ -1899,14 +1939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 341706,
-      "num": 341706,
-      "word": "梁靖崑在王楚钦怀里小鸟依人",
-      "onboard_time": 1760498479,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 339166,
       "num": 339166,
       "word": "丝袜奶茶 真有丝袜",
@@ -1920,14 +1952,6 @@
       "word": "中央巡视组原副部级许传智被查",
       "onboard_time": 1760429961,
       "rank": 48,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 337983,
-      "num": 337983,
-      "word": "缅北果敢魏家和刘家犯罪集团专案侦破",
-      "onboard_time": 1760498360,
-      "rank": 9,
       "category": "国内时政"
     },
     {
@@ -2211,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296409,
+      "num": 238661,
+      "word": "欢乐颂编剧谈杨紫小蚯蚓",
+      "onboard_time": 1760500522,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295775,
       "num": 295775,
       "word": "美国知名精神病学家自杀",
@@ -2313,6 +2345,14 @@
       "onboard_time": 1760321119,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 281874,
+      "num": 209562,
+      "word": "初三女生家门口遭同班男生杀害",
+      "onboard_time": 1760501961,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281438,
@@ -2561,14 +2601,6 @@
       "onboard_time": 1760317160,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251941,
-      "num": 251941,
-      "word": "洞洞鞋下岗勃肯鞋上岗",
-      "onboard_time": 1760499201,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 250139,
@@ -2979,6 +3011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208154,
+      "num": 208154,
+      "word": "勇士vs开拓者",
+      "onboard_time": 1760495359,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208044,
       "num": 208044,
       "word": "水贝老板囤实物黄金交了几十万学费",
@@ -3153,14 +3193,6 @@
       "onboard_time": 1760189123,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198676,
-      "num": 198676,
-      "word": "勇士vs开拓者",
-      "onboard_time": 1760495359,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 198538,
@@ -3691,6 +3723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 172562,
+      "num": 141764,
+      "word": "iPhone键盘生小熊了",
+      "onboard_time": 1760502261,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 172497,
       "num": 83230,
       "word": "井迪一直不谈恋爱的原因",
@@ -3705,6 +3745,14 @@
       "onboard_time": 1760360421,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172071,
+      "num": 172071,
+      "word": "黄宗泽 陈俊生丈母娘",
+      "onboard_time": 1760500882,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 171585,
@@ -3937,6 +3985,14 @@
       "onboard_time": 1760252120,
       "rank": 27,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 162198,
+      "num": 213628,
+      "word": "看了这剧从此不敢看关公",
+      "onboard_time": 1760501781,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 161945,
@@ -4235,6 +4291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154067,
+      "num": 141092,
+      "word": "谁是灵珠谁是魔丸我一眼就认出来了",
+      "onboard_time": 1760501540,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 154024,
       "num": 154024,
       "word": "禾马娱乐声明",
@@ -4435,6 +4499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149200,
+      "num": 149200,
+      "word": "洛杉矶县宣布进入紧急状态",
+      "onboard_time": 1760501420,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148989,
       "num": 148989,
       "word": "豆瓣评分人数TOP前三",
@@ -4520,6 +4592,14 @@
       "word": "谁能扛住大男主剧",
       "onboard_time": 1760418681,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145986,
+      "num": 145986,
+      "word": "谁家长剧里开了个短剧",
+      "onboard_time": 1760501540,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -4745,6 +4825,14 @@
       "onboard_time": 1760251279,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 139888,
+      "num": 139888,
+      "word": "没想到这些梗竟然火了10年",
+      "onboard_time": 1760501361,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 139657,
@@ -5107,6 +5195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131168,
+      "num": 131168,
+      "word": "国乒男女团亚锦赛冲冠",
+      "onboard_time": 1760502021,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130950,
       "num": 130950,
       "word": "邱贻可摸孙颖莎小脑袋",
@@ -5193,6 +5289,14 @@
       "onboard_time": 1760326162,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128131,
+      "num": 128131,
+      "word": "GALA向粉丝道歉",
+      "onboard_time": 1760501301,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 127836,
@@ -6003,6 +6107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 117756,
+      "num": 117756,
+      "word": "沈腾带着自己的兵来了",
+      "onboard_time": 1760501721,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117675,
       "num": 117675,
       "word": "店家笑了半小时才开始做",
@@ -6219,6 +6331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115147,
+      "num": 115147,
+      "word": "罗云熙吃特辣螺蛳粉",
+      "onboard_time": 1760502382,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115047,
       "num": 115047,
       "word": "亚锦赛男团中国vs日本",
@@ -6305,6 +6425,14 @@
       "onboard_time": 1760415741,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113815,
+      "num": 113815,
+      "word": "姿态众人谈iG失利原因",
+      "onboard_time": 1760501121,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 113727,
@@ -6428,7 +6556,7 @@
     },
     {
       "raw_hot": 112423,
-      "num": 160004,
+      "num": 175305,
       "word": "华为耳夹何方联名配饰开启预售",
       "onboard_time": 1760499441,
       "rank": 28,
@@ -7179,6 +7307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 103376,
+      "num": 222757,
+      "word": "新凯来并未展示光刻机",
+      "onboard_time": 1760499080,
+      "rank": 19,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 103035,
       "num": 159875,
       "word": "大使馆回应亚锦赛错误旗帜事件",
@@ -7257,6 +7393,14 @@
       "onboard_time": 1760340260,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102111,
+      "num": 102111,
+      "word": "00后已经实现自主加薪了",
+      "onboard_time": 1760500701,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 102099,
@@ -8603,14 +8747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86202,
-      "num": 114684,
-      "word": "特朗普抱怨称中国故意不买美国大豆",
-      "onboard_time": 1760500161,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 86045,
       "num": 86045,
       "word": "余承恩震惊果果不是井迪的孩子",
@@ -9185,6 +9321,14 @@
       "onboard_time": 1760487382,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80147,
+      "num": 124790,
+      "word": "90生剧粉盘最大的是谁",
+      "onboard_time": 1760502081,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 79697,
@@ -9953,14 +10097,6 @@
       "onboard_time": 1760421920,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67737,
-      "num": 222757,
-      "word": "新凯来并未展示光刻机",
-      "onboard_time": 1760499080,
-      "rank": 19,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 67652,
@@ -10883,6 +11019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40138,
+      "num": 124991,
+      "word": "客人带狗攻击民宿小猫后失联",
+      "onboard_time": 1760501420,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40066,
       "num": 108060,
       "word": "里夫斯膝盖受伤",
@@ -10969,6 +11113,14 @@
       "onboard_time": 1760350941,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37527,
+      "num": 124763,
+      "word": "日本幽灵舰队毒害太平洋环礁",
+      "onboard_time": 1760502081,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 37444,
@@ -11513,6 +11665,14 @@
       "onboard_time": 1760300653,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12584,
+      "num": 696250,
+      "word": "万千气象看天津",
+      "onboard_time": 1760501182,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12404,

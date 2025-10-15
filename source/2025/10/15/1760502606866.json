@@ -1,0 +1,410 @@
+{
+  "runTime": 1760502606866,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1181384,
+        "num": 1189021,
+        "word": "洞洞鞋下岗勃肯鞋上岗",
+        "onboard_time": 1760499201,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 790891,
+        "num": 790891,
+        "word": "特朗普抱怨称中国故意不买美国大豆",
+        "onboard_time": 1760500161,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 12584,
+        "num": 696250,
+        "word": "万千气象看天津",
+        "onboard_time": 1760501182,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 649901,
+        "num": 649901,
+        "word": "下雪",
+        "onboard_time": 1760492719,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 590180,
+        "num": 590180,
+        "word": "Doinb怒喷TheShy",
+        "onboard_time": 1760499320,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 476232,
+        "num": 476232,
+        "word": "梁靖崑在王楚钦怀里小鸟依人",
+        "onboard_time": 1760498479,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 384748,
+        "num": 384748,
+        "word": "医院300万预算1000元中标采购暂停",
+        "onboard_time": 1760495539,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 355134,
+        "num": 355134,
+        "word": "现在就出发3定档",
+        "onboard_time": 1760496800,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349023,
+        "num": 349023,
+        "word": "缅北果敢魏家和刘家犯罪集团专案侦破",
+        "onboard_time": 1760498360,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 249355,
+        "num": 249355,
+        "word": "山姆客服回应枣泥核桃蛋糕吃出牙",
+        "onboard_time": 1760491519,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 910262,
+        "num": 247820,
+        "word": "一直没明白为什么微信能取代QQ",
+        "onboard_time": 1760496559,
+        "rank": 10,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 426292,
+        "num": 244534,
+        "word": "熊黛林婉拒祝福郭富城",
+        "onboard_time": 1760495539,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361127,
+        "num": 242981,
+        "word": "何炅衰老焦虑的原因找到了",
+        "onboard_time": 1760501240,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296409,
+        "num": 238661,
+        "word": "欢乐颂编剧谈杨紫小蚯蚓",
+        "onboard_time": 1760500522,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270951,
+        "num": 235290,
+        "word": "125斤左右的姐姐们别减肥了",
+        "onboard_time": 1760490741,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234998,
+        "num": 234998,
+        "word": "杨瀚森篮板",
+        "onboard_time": 1760496620,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214223,
+        "num": 214223,
+        "word": "人体蜈蚣雕塑引景区致歉",
+        "onboard_time": 1760486240,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162198,
+        "num": 213628,
+        "word": "看了这剧从此不敢看关公",
+        "onboard_time": 1760501781,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148353,
+        "num": 213102,
+        "word": "网传花少8阵容",
+        "onboard_time": 1760483238,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89505,
+        "num": 212341,
+        "word": "现在就出发",
+        "onboard_time": 1760488222,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1452077,
+        "num": 210857,
+        "word": "林永健人日发文批某顶流演员排场大",
+        "onboard_time": 1760492118,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206515,
+        "num": 209898,
+        "word": "王者荣耀河灯",
+        "onboard_time": 1760494819,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281874,
+        "num": 209562,
+        "word": "初三女生家门口遭同班男生杀害",
+        "onboard_time": 1760501961,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237657,
+        "num": 208630,
+        "word": "别亲了要生小小咪了",
+        "onboard_time": 1760494641,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208154,
+        "num": 208154,
+        "word": "勇士vs开拓者",
+        "onboard_time": 1760495359,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89419,
+        "num": 175305,
+        "word": "华为耳夹何方联名配饰开启预售",
+        "onboard_time": 1760499441,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 172071,
+        "num": 172071,
+        "word": "黄宗泽 陈俊生丈母娘",
+        "onboard_time": 1760500882,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162272,
+        "num": 162272,
+        "word": "王凯沐吻戏",
+        "onboard_time": 1760499080,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149200,
+        "num": 149200,
+        "word": "洛杉矶县宣布进入紧急状态",
+        "onboard_time": 1760501420,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145986,
+        "num": 145986,
+        "word": "谁家长剧里开了个短剧",
+        "onboard_time": 1760501540,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53030,
+        "num": 142206,
+        "word": "刘宇宁京东红包",
+        "onboard_time": 1760497819,
+        "rank": 30,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 172562,
+        "num": 141764,
+        "word": "iPhone键盘生小熊了",
+        "onboard_time": 1760502261,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 154067,
+        "num": 141092,
+        "word": "谁是灵珠谁是魔丸我一眼就认出来了",
+        "onboard_time": 1760501540,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139888,
+        "num": 139888,
+        "word": "没想到这些梗竟然火了10年",
+        "onboard_time": 1760501361,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131168,
+        "num": 131168,
+        "word": "国乒男女团亚锦赛冲冠",
+        "onboard_time": 1760502021,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128131,
+        "num": 128131,
+        "word": "GALA向粉丝道歉",
+        "onboard_time": 1760501301,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125950,
+        "num": 125950,
+        "word": "第一批国考报名失败的人已经出现",
+        "onboard_time": 1760498720,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 40138,
+        "num": 124991,
+        "word": "客人带狗攻击民宿小猫后失联",
+        "onboard_time": 1760501420,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80147,
+        "num": 124790,
+        "word": "90生剧粉盘最大的是谁",
+        "onboard_time": 1760502081,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37527,
+        "num": 124763,
+        "word": "日本幽灵舰队毒害太平洋环礁",
+        "onboard_time": 1760502081,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124758,
+        "num": 124758,
+        "word": "新凯来",
+        "onboard_time": 1760491341,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 117756,
+        "num": 117756,
+        "word": "沈腾带着自己的兵来了",
+        "onboard_time": 1760501721,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115366,
+        "num": 115366,
+        "word": "原来头像真的很影响聊天欲",
+        "onboard_time": 1760491100,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115147,
+        "num": 115147,
+        "word": "罗云熙吃特辣螺蛳粉",
+        "onboard_time": 1760502382,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113815,
+        "num": 113815,
+        "word": "姿态众人谈iG失利原因",
+        "onboard_time": 1760501121,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109401,
+        "num": 109401,
+        "word": "修复为人民服务标语小伙公布费用",
+        "onboard_time": 1760495839,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108686,
+        "num": 108686,
+        "word": "水贝老板囤实物黄金交了几十万学费",
+        "onboard_time": 1760499080,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103376,
+        "num": 103376,
+        "word": "新凯来并未展示光刻机",
+        "onboard_time": 1760499080,
+        "rank": 47,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 102111,
+        "num": 102111,
+        "word": "00后已经实现自主加薪了",
+        "onboard_time": 1760500701,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81364,
+        "num": 101216,
+        "word": "芒果短剧刚开播居然就大结局",
+        "onboard_time": 1760498541,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#30年后再聚北京共商妇女全面发展#"
+    }
+  }
+}

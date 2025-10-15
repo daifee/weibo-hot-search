@@ -1,6 +1,6 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760500285742,
+  "endTime": 1760502606866,
   "band_list": [
     {
       "raw_hot": 1543352,
@@ -17,6 +17,14 @@
       "onboard_time": 1760457321,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1181384,
+      "num": 1189021,
+      "word": "洞洞鞋下岗勃肯鞋上岗",
+      "onboard_time": 1760499201,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 1171434,
@@ -43,12 +51,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 829872,
+      "raw_hot": 910262,
       "num": 270789,
       "word": "一直没明白为什么微信能取代QQ",
       "onboard_time": 1760496559,
       "rank": 14,
       "category": "互联网,幽默"
+    },
+    {
+      "raw_hot": 790891,
+      "num": 790891,
+      "word": "特朗普抱怨称中国故意不买美国大豆",
+      "onboard_time": 1760500161,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 772428,
@@ -91,6 +107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 590180,
+      "num": 590180,
+      "word": "Doinb怒喷TheShy",
+      "onboard_time": 1760499320,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 581920,
       "num": 1093107,
       "word": "日本队集体凝固",
@@ -105,14 +129,6 @@
       "onboard_time": 1760490741,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 548384,
-      "num": 261465,
-      "word": "Doinb怒喷TheShy",
-      "onboard_time": 1760499320,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 533001,
@@ -145,6 +161,14 @@
       "onboard_time": 1760465176,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 476232,
+      "num": 476232,
+      "word": "梁靖崑在王楚钦怀里小鸟依人",
+      "onboard_time": 1760498479,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 443775,
@@ -203,6 +227,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 361127,
+      "num": 242981,
+      "word": "何炅衰老焦虑的原因找到了",
+      "onboard_time": 1760501240,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 349023,
+      "num": 349023,
+      "word": "缅北果敢魏家和刘家犯罪集团专案侦破",
+      "onboard_time": 1760498360,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 347920,
       "num": 146961,
       "word": "田曦薇 好奇怪有人比我更相信我",
@@ -217,22 +257,6 @@
       "onboard_time": 1760483238,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 341706,
-      "num": 341706,
-      "word": "梁靖崑在王楚钦怀里小鸟依人",
-      "onboard_time": 1760498479,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 337983,
-      "num": 337983,
-      "word": "缅北果敢魏家和刘家犯罪集团专案侦破",
-      "onboard_time": 1760498360,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 331205,
@@ -283,6 +307,22 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 296409,
+      "num": 238661,
+      "word": "欢乐颂编剧谈杨紫小蚯蚓",
+      "onboard_time": 1760500522,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 281874,
+      "num": 209562,
+      "word": "初三女生家门口遭同班男生杀害",
+      "onboard_time": 1760501961,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274531,
       "num": 274531,
       "word": "林诗栋12比14篠塚大登",
@@ -323,14 +363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 251941,
-      "num": 251941,
-      "word": "洞洞鞋下岗勃肯鞋上岗",
-      "onboard_time": 1760499201,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 223365,
       "num": 223365,
       "word": "香港家庭雇的印尼女佣竟是富家女",
@@ -361,6 +393,14 @@
       "onboard_time": 1760491100,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208154,
+      "num": 208154,
+      "word": "勇士vs开拓者",
+      "onboard_time": 1760495359,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 208044,
@@ -408,14 +448,6 @@
       "word": "王楚钦单局让张本智和得1分",
       "onboard_time": 1760459899,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 198676,
-      "num": 198676,
-      "word": "勇士vs开拓者",
-      "onboard_time": 1760495359,
-      "rank": 26,
       "category": "体育"
     },
     {
@@ -467,6 +499,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172562,
+      "num": 141764,
+      "word": "iPhone键盘生小熊了",
+      "onboard_time": 1760502261,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 172071,
+      "num": 172071,
+      "word": "黄宗泽 陈俊生丈母娘",
+      "onboard_time": 1760500882,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171208,
       "num": 75791,
       "word": "一句话形容中国男乒晋级决赛",
@@ -481,6 +529,14 @@
       "onboard_time": 1760495181,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 162198,
+      "num": 213628,
+      "word": "看了这剧从此不敢看关公",
+      "onboard_time": 1760501781,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 159434,
@@ -507,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 154067,
+      "num": 141092,
+      "word": "谁是灵珠谁是魔丸我一眼就认出来了",
+      "onboard_time": 1760501540,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151775,
       "num": 90037,
       "word": "王楚钦3比2胜张本智和",
@@ -531,6 +595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 149200,
+      "num": 149200,
+      "word": "洛杉矶县宣布进入紧急状态",
+      "onboard_time": 1760501420,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 148149,
       "num": 135785,
       "word": "李沛恩合约",
@@ -545,6 +617,14 @@
       "onboard_time": 1760498541,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 145986,
+      "num": 145986,
+      "word": "谁家长剧里开了个短剧",
+      "onboard_time": 1760501540,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 145816,
@@ -579,6 +659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 139888,
+      "num": 139888,
+      "word": "没想到这些梗竟然火了10年",
+      "onboard_time": 1760501361,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 139605,
       "num": 139605,
       "word": "一图看2026国考时间节点",
@@ -601,6 +689,22 @@
       "onboard_time": 1760448923,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131168,
+      "num": 131168,
+      "word": "国乒男女团亚锦赛冲冠",
+      "onboard_time": 1760502021,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128131,
+      "num": 128131,
+      "word": "GALA向粉丝道歉",
+      "onboard_time": 1760501301,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 127243,
@@ -675,6 +779,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 117756,
+      "num": 117756,
+      "word": "沈腾带着自己的兵来了",
+      "onboard_time": 1760501721,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117565,
       "num": 205975,
       "word": "花少7 是妈妈是女儿",
@@ -707,6 +819,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 115147,
+      "num": 115147,
+      "word": "罗云熙吃特辣螺蛳粉",
+      "onboard_time": 1760502382,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114853,
       "num": 114853,
       "word": "沈星回寰宇流光",
@@ -715,8 +835,16 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 113815,
+      "num": 113815,
+      "word": "姿态众人谈iG失利原因",
+      "onboard_time": 1760501121,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112423,
-      "num": 160004,
+      "num": 175305,
       "word": "华为耳夹何方联名配饰开启预售",
       "onboard_time": 1760499441,
       "rank": 28,
@@ -819,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103376,
+      "num": 222757,
+      "word": "新凯来并未展示光刻机",
+      "onboard_time": 1760499080,
+      "rank": 19,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 103150,
       "num": 103150,
       "word": "菜鸟驿站对取件未出库罚款100元",
@@ -833,6 +969,14 @@
       "onboard_time": 1760442561,
       "rank": 24,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 102111,
+      "num": 102111,
+      "word": "00后已经实现自主加薪了",
+      "onboard_time": 1760500701,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 102099,
@@ -1019,14 +1163,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86202,
-      "num": 114684,
-      "word": "特朗普抱怨称中国故意不买美国大豆",
-      "onboard_time": 1760500161,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 85428,
       "num": 85428,
       "word": "为中国航天点赞",
@@ -1113,6 +1249,14 @@
       "onboard_time": 1760487382,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80147,
+      "num": 124790,
+      "word": "90生剧粉盘最大的是谁",
+      "onboard_time": 1760502081,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 79563,
@@ -1241,14 +1385,6 @@
       "onboard_time": 1760427263,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 67737,
-      "num": 222757,
-      "word": "新凯来并未展示光刻机",
-      "onboard_time": 1760499080,
-      "rank": 19,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 66754,
@@ -1467,6 +1603,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40138,
+      "num": 124991,
+      "word": "客人带狗攻击民宿小猫后失联",
+      "onboard_time": 1760501420,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37527,
+      "num": 124763,
+      "word": "日本幽灵舰队毒害太平洋环礁",
+      "onboard_time": 1760502081,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 34843,
       "num": 53316,
       "word": "梁靖崑vs张本智和",
@@ -1569,6 +1721,14 @@
       "onboard_time": 1760467215,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 12584,
+      "num": 696250,
+      "word": "万千气象看天津",
+      "onboard_time": 1760501182,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
