@@ -1,6 +1,6 @@
 {
   "startTime": 1760545770711,
-  "endTime": 1760560947742,
+  "endTime": 1760563400867,
   "band_list": [
     {
       "raw_hot": 990684,
@@ -467,8 +467,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27578,
+      "num": 23655,
+      "word": "何晟铭说接机人太少",
+      "onboard_time": 1760557874,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26161,
-      "num": 20119,
+      "num": 23521,
       "word": "李昀锐 某来到了你的家乡",
       "onboard_time": 1760557333,
       "rank": 15,
@@ -505,14 +513,6 @@
       "onboard_time": 1760550497,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18630,
-      "num": 18630,
-      "word": "何晟铭说接机人太少",
-      "onboard_time": 1760557874,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 18462,
@@ -571,7 +571,7 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 13609,
+      "raw_hot": 13965,
       "num": 32907,
       "word": "京东现货",
       "onboard_time": 1760526321,
@@ -579,7 +579,15 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 11967,
+      "raw_hot": 13379,
+      "num": 13379,
+      "word": "ally收下出轨前男友礼物",
+      "onboard_time": 1760562134,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 12019,
       "num": 15589,
       "word": "国台办套用没出息歌词回应",
       "onboard_time": 1760557035,
