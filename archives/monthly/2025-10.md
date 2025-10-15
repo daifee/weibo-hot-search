@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/15 09:54:04
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/15 10:15:12
 </p>
 </blockquote>
 <p>
@@ -383,6 +383,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%8F%E4%BE%BF%E4%BA%8B%E4%BB%B6220%E4%B8%87%E5%88%A4%E5%86%B3%E5%B7%B2%E7%94%9F%E6%95%88%23" target="weibo">
 海底捞小便事件220万判决已生效（热度：1560536）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%B0%B8%E5%81%A5%E4%BA%BA%E6%97%A5%E5%8F%91%E6%96%87%E6%89%B9%E6%9F%90%E9%A1%B6%E6%B5%81%E6%BC%94%E5%91%98%E6%8E%92%E5%9C%BA%E5%A4%A7%23" target="weibo">
+林永健人日发文批某顶流演员排场大（热度：1543352）
 </a>
 </li>
 
@@ -2135,12 +2141,6 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F5%E8%BD%A6%E8%BF%BD%E5%B0%BE2%E6%AD%BB3%E4%BC%A4%23" target="weibo">
 高速5车追尾2死3伤（热度：734082）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%B0%B8%E5%81%A5%E4%BA%BA%E6%97%A5%E5%8F%91%E6%96%87%E6%89%B9%E6%9F%90%E9%A1%B6%E6%B5%81%E6%BC%94%E5%91%98%E6%8E%92%E5%9C%BA%E5%A4%A7%23" target="weibo">
-林永健人日发文批某顶流演员排场大（热度：733812）
 </a>
 </li>
 
@@ -5295,6 +5295,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91%23" target="weibo">
+现在就出发（热度：404972）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%9C%80%E7%88%B1%E6%88%91%E4%BB%AC%E6%A2%B3%E7%9A%84%E5%8F%91%E5%9E%8B%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
 妈妈最爱我们梳的发型出现了（热度：404867）
 </a>
@@ -5345,6 +5351,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%80%E4%B8%AA%E4%B8%AA%E7%82%B9%E5%90%8D%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8A%A3%E8%BF%B9%23" target="weibo">
 中方一个个点名多个国家劣迹（热度：401979）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E9%9B%AA%23" target="weibo">
+下雪（热度：401947）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ S15抽签（热度：360276）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%80%A9%E5%9B%9E%E5%88%B0%E4%BA%86%E8%B5%B5%E9%BB%98%E7%AC%99%E6%97%B6%E6%9C%9F%23" target="weibo">
 吴倩回到了赵默笙时期（热度：358777）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B7%A8%E5%9E%8B%E7%94%BB%E5%8D%B7%23" target="weibo">
-张艺兴鸟巢演唱会巨型画卷（热度：358257）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%86%85%E6%94%BF%E9%83%A8%E9%95%BF%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%81%8F%E5%88%B6%E7%A8%80%E5%9C%9F%E5%91%BD%E8%84%89%23" target="weibo">
-美国内政部长称中国遏制稀土命脉（热度：357778）
 </a>
 </li>
 

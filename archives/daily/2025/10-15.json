@@ -1,7 +1,15 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760493244850,
+  "endTime": 1760494512611,
   "band_list": [
+    {
+      "raw_hot": 1543352,
+      "num": 305841,
+      "word": "林永健人日发文批某顶流演员排场大",
+      "onboard_time": 1760492118,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1270480,
       "num": 1270480,
@@ -25,14 +33,6 @@
       "onboard_time": 1760483117,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 733812,
-      "num": 241628,
-      "word": "林永健人日发文批某顶流演员排场大",
-      "onboard_time": 1760492118,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 713915,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 611911,
-      "num": 234033,
+      "num": 284787,
       "word": "我两天不能玩手机了",
       "onboard_time": 1760454562,
       "rank": 10,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 560064,
-      "num": 237473,
+      "num": 289883,
       "word": "125斤左右的姐姐们别减肥了",
       "onboard_time": 1760490741,
       "rank": 11,
@@ -105,6 +105,22 @@
       "onboard_time": 1760445621,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 404972,
+      "num": 345660,
+      "word": "现在就出发",
+      "onboard_time": 1760488222,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 401947,
+      "num": 401947,
+      "word": "下雪",
+      "onboard_time": 1760492719,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 395329,
@@ -139,12 +155,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335750,
-      "num": 335750,
+      "raw_hot": 341858,
+      "num": 341858,
       "word": "网传花少8阵容",
       "onboard_time": 1760483238,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 331205,
+      "num": 331205,
+      "word": "新凯来",
+      "onboard_time": 1760491341,
+      "rank": 21,
+      "category": "财经"
     },
     {
       "raw_hot": 328345,
@@ -153,6 +177,14 @@
       "onboard_time": 1760454083,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 316517,
+      "num": 316517,
+      "word": "你在南方吹空调我在北方看雾凇",
+      "onboard_time": 1760489721,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 315220,
@@ -171,20 +203,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 301353,
-      "num": 301353,
+      "raw_hot": 306089,
+      "num": 306089,
       "word": "男子变现2公斤金条净赚百万",
       "onboard_time": 1760454623,
       "rank": 5,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 274871,
-      "num": 274871,
-      "word": "你在南方吹空调我在北方看雾凇",
-      "onboard_time": 1760489721,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 274531,
@@ -203,16 +227,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 257719,
-      "num": 257719,
-      "word": "现在就出发",
-      "onboard_time": 1760488222,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 247156,
-      "num": 247156,
+      "raw_hot": 271628,
+      "num": 271628,
       "word": "南方降温北方跑步入冬",
       "onboard_time": 1760488161,
       "rank": 8,
@@ -243,6 +259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 211591,
+      "num": 169273,
+      "word": "原来头像真的很影响聊天欲",
+      "onboard_time": 1760491100,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 207373,
       "num": 126918,
       "word": "国乒男团1比2日本",
@@ -259,12 +283,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200336,
+      "num": 200336,
+      "word": "山姆客服回应枣泥核桃蛋糕吃出牙",
+      "onboard_time": 1760491519,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200105,
       "num": 145030,
       "word": "王楚钦单局让张本智和得1分",
       "onboard_time": 1760459899,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187436,
+      "num": 187436,
+      "word": "淘宝闪购 侯明昊",
+      "onboard_time": 1760493679,
+      "rank": 17,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 186706,
@@ -299,28 +339,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 171459,
-      "num": 171459,
-      "word": "新凯来",
-      "onboard_time": 1760491341,
-      "rank": 21,
-      "category": "财经"
-    },
-    {
       "raw_hot": 171208,
       "num": 75791,
       "word": "一句话形容中国男乒晋级决赛",
       "onboard_time": 1760484679,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163751,
-      "num": 163751,
-      "word": "原来头像真的很影响聊天欲",
-      "onboard_time": 1760491100,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 159434,
@@ -331,12 +355,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156036,
-      "num": 156036,
-      "word": "山姆客服回应枣泥核桃蛋糕吃出牙",
-      "onboard_time": 1760491519,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 157254,
+      "num": 157254,
+      "word": "美政府停摆进入第3周",
+      "onboard_time": 1760491879,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 151775,
@@ -371,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147200,
-      "num": 147200,
-      "word": "下雪",
-      "onboard_time": 1760492719,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 144914,
       "num": 144914,
       "word": "考研没把握就报清华北大",
@@ -387,12 +403,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 142322,
-      "num": 142322,
-      "word": "美政府停摆进入第3周",
-      "onboard_time": 1760491879,
+      "raw_hot": 143265,
+      "num": 143265,
+      "word": "剑网3新校服",
+      "onboard_time": 1760494280,
       "rank": 27,
-      "category": "国际时政"
+      "category": "游戏"
     },
     {
       "raw_hot": 141942,
@@ -401,6 +417,14 @@
       "onboard_time": 1760484619,
       "rank": 17,
       "category": "财经"
+    },
+    {
+      "raw_hot": 139605,
+      "num": 139605,
+      "word": "一图看2026国考时间节点",
+      "onboard_time": 1760494400,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 131524,
@@ -427,6 +451,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117565,
+      "num": 169435,
+      "word": "花少7 是妈妈是女儿",
+      "onboard_time": 1760484079,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117454,
       "num": 117454,
       "word": "李沁挖土名场面原声删减戏份",
@@ -451,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110051,
+      "num": 110051,
+      "word": "金饰价格涨到1235元",
+      "onboard_time": 1760493200,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 109752,
       "num": 109752,
       "word": "央视曝光奢侈品低价代购骗局",
@@ -459,28 +499,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106778,
-      "num": 106778,
-      "word": "肖露晒和田曦薇合照",
-      "onboard_time": 1760488640,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 109125,
+      "num": 109125,
+      "word": "舒淇大赞张子枫",
+      "onboard_time": 1760491999,
+      "rank": 36,
+      "category": "电影"
     },
     {
-      "raw_hot": 105638,
-      "num": 105638,
+      "raw_hot": 106883,
+      "num": 106883,
       "word": "神五飞天已经是22年前了",
       "onboard_time": 1760491579,
       "rank": 35,
       "category": "国内时政"
     },
     {
-      "raw_hot": 103928,
-      "num": 103928,
-      "word": "舒淇大赞张子枫",
-      "onboard_time": 1760491999,
-      "rank": 36,
-      "category": "电影"
+      "raw_hot": 106778,
+      "num": 106778,
+      "word": "肖露晒和田曦薇合照",
+      "onboard_time": 1760488640,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 103150,
@@ -523,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 97836,
-      "num": 125950,
-      "word": "花少7 是妈妈是女儿",
-      "onboard_time": 1760484079,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96491,
       "num": 96491,
       "word": "于东来称胖东来账上有41亿",
@@ -539,12 +571,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95997,
+      "num": 95997,
+      "word": "男子回国手机遭运营商保护性关停",
+      "onboard_time": 1760491700,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94718,
+      "num": 94718,
+      "word": "iG回应止步入围赛",
+      "onboard_time": 1760491939,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94311,
       "num": 94311,
       "word": "国乒男团打进决赛",
       "onboard_time": 1760481195,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92630,
+      "num": 97642,
+      "word": "智能辅助驾驶规范该不该纳入驾考",
+      "onboard_time": 1760494459,
+      "rank": 35,
+      "category": "汽车"
     },
     {
       "raw_hot": 92565,
@@ -563,28 +619,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91730,
-      "num": 91730,
-      "word": "iG回应止步入围赛",
-      "onboard_time": 1760491939,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 90734,
       "num": 90734,
       "word": "梁靖崑王楚钦拥抱",
       "onboard_time": 1760481618,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 89761,
-      "num": 89761,
-      "word": "男子回国手机遭运营商保护性关停",
-      "onboard_time": 1760491700,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89102,
@@ -603,6 +643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87584,
+      "num": 87584,
+      "word": "女子晒爸爸养护20年榕树屋感动网友",
+      "onboard_time": 1760493439,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85428,
       "num": 85428,
       "word": "为中国航天点赞",
@@ -619,12 +667,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 83885,
-      "num": 83885,
-      "word": "金饰价格涨到1235元",
-      "onboard_time": 1760493200,
-      "rank": 44,
+      "raw_hot": 84820,
+      "num": 84820,
+      "word": "英伟达市值一夜蒸发超1.4万亿",
+      "onboard_time": 1760494039,
+      "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 84775,
+      "num": 84775,
+      "word": "王楚钦孙颖莎青奥混团夺冠7周年",
+      "onboard_time": 1760493260,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 83378,
@@ -675,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79628,
+      "num": 79628,
+      "word": "全国大部将迎换季式降温",
+      "onboard_time": 1760494400,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79563,
       "num": 79563,
       "word": "亚锦赛男团",
@@ -699,12 +763,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77964,
+      "num": 94731,
+      "word": "央视财经见证马自达EZ60安全实力",
+      "onboard_time": 1760494159,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 76901,
       "num": 76901,
       "word": "王楚钦球不落地永不放弃",
       "onboard_time": 1760483839,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76662,
+      "num": 76662,
+      "word": "河南一幼儿园除了上课还上地",
+      "onboard_time": 1760491819,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75842,
@@ -721,6 +801,14 @@
       "onboard_time": 1760482337,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 75647,
+      "num": 75647,
+      "word": "IG状态不佳问题出在哪",
+      "onboard_time": 1760494220,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 72143,
