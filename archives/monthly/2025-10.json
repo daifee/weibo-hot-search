@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760566955626,
+  "endTime": 1760567959880,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -30883,6 +30883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112079,
+      "num": 78563,
+      "word": "食用酸汤子后离世男子家属再发声",
+      "onboard_time": 1760546360,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112077,
       "num": 112077,
       "word": "张福正不许哭",
@@ -40283,14 +40291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86880,
-      "num": 78563,
-      "word": "食用酸汤子后离世男子家属再发声",
-      "onboard_time": 1760546360,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86878,
       "num": 115722,
       "word": "被赵今麦美到了",
@@ -45355,6 +45355,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 63153,
+      "num": 52805,
+      "word": "晚上的冷和早上的冷的区别",
+      "onboard_time": 1760564353,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63147,
       "num": 63147,
       "word": "苏北五虎遭团灭",
@@ -46729,6 +46737,14 @@
       "onboard_time": 1760085321,
       "rank": 17,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 52782,
+      "num": 52782,
+      "word": "ally收下出轨前男友礼物",
+      "onboard_time": 1760562134,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 52716,
@@ -48995,14 +49011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32666,
-      "num": 32666,
-      "word": "晚上的冷和早上的冷的区别",
-      "onboard_time": 1760564353,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 32571,
       "num": 106568,
       "word": "董璇带小酒窝逛乐园",
@@ -49129,6 +49137,14 @@
       "onboard_time": 1759339577,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 31687,
+      "num": 40095,
+      "word": "李昀锐 某来到了你的家乡",
+      "onboard_time": 1760557333,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 31664,
@@ -49460,7 +49476,7 @@
     },
     {
       "raw_hot": 28988,
-      "num": 26325,
+      "num": 40092,
       "word": "何晟铭说接机人太少",
       "onboard_time": 1760557874,
       "rank": 22,
@@ -49521,14 +49537,6 @@
       "onboard_time": 1760438060,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28256,
-      "num": 28256,
-      "word": "ally收下出轨前男友礼物",
-      "onboard_time": 1760562134,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 28232,
@@ -49641,14 +49649,6 @@
       "onboard_time": 1760521640,
       "rank": 40,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 27402,
-      "num": 27402,
-      "word": "李昀锐 某来到了你的家乡",
-      "onboard_time": 1760557333,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 27377,
@@ -50219,6 +50219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21252,
+      "num": 40085,
+      "word": "阿富汗首都喀布尔突发爆炸",
+      "onboard_time": 1760566935,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 21060,
       "num": 24036,
       "word": "国庆档",
@@ -50307,6 +50315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20153,
+      "num": 40082,
+      "word": "孙颖莎举起奖杯",
+      "onboard_time": 1760543602,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20132,
       "num": 31415,
       "word": "49岁男子医院坠亡排除刑案",
@@ -50345,6 +50361,14 @@
       "onboard_time": 1759987040,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19854,
+      "num": 40082,
+      "word": "罗云熙水龙吟高燃打戏",
+      "onboard_time": 1760553735,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 19792,
@@ -50579,6 +50603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 17074,
+      "num": 40079,
+      "word": "一笑随歌凤戏阳怀孕了",
+      "onboard_time": 1760567715,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 16959,
       "num": 28185,
       "word": "我不想听到8这个字",
@@ -50673,22 +50705,6 @@
       "onboard_time": 1759783215,
       "rank": 49,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 16121,
-      "num": 24327,
-      "word": "罗云熙水龙吟高燃打戏",
-      "onboard_time": 1760553735,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 16107,
-      "num": 30974,
-      "word": "孙颖莎举起奖杯",
-      "onboard_time": 1760543602,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 16082,
@@ -50913,14 +50929,6 @@
       "onboard_time": 1760431402,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 13621,
-      "num": 24281,
-      "word": "阿富汗首都喀布尔突发爆炸",
-      "onboard_time": 1760566935,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 13612,
