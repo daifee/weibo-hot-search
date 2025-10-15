@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760570570268,
+  "endTime": 1760571401006,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -2787,6 +2787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290129,
+      "num": 290129,
+      "word": "医院发喜报庆祝门诊人数创佳绩",
+      "onboard_time": 1760543240,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 289797,
       "num": 289797,
       "word": "国考岗位表",
@@ -3075,20 +3083,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262766,
-      "num": 262766,
-      "word": "医院发喜报庆祝门诊人数创佳绩",
-      "onboard_time": 1760543240,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 262605,
       "num": 262605,
       "word": "中国半导体行业协会严重关切",
       "onboard_time": 1760407820,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261571,
+      "num": 80628,
+      "word": "白敬亭回应垫鼻子",
+      "onboard_time": 1760570839,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 261298,
@@ -3145,6 +3153,14 @@
       "onboard_time": 1760437940,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253095,
+      "num": 96630,
+      "word": "俄无人机救下一名正遭乌军性侵女子",
+      "onboard_time": 1760570240,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 252997,
@@ -3401,6 +3417,14 @@
       "onboard_time": 1760337260,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 228316,
+      "num": 80803,
+      "word": "女子在台北车站大厅遭侵犯无人制止",
+      "onboard_time": 1760570479,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227296,
@@ -3816,14 +3840,6 @@
       "word": "银河左岸酒店事件严正声明",
       "onboard_time": 1760526142,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203069,
-      "num": 80803,
-      "word": "女子在台北车站大厅遭侵犯无人制止",
-      "onboard_time": 1760570479,
-      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -4427,6 +4443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184054,
+      "num": 93475,
+      "word": "肖战或演十日终焉",
+      "onboard_time": 1760570539,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183924,
       "num": 228485,
       "word": "成都起火汽车曾以极高速度行驶",
@@ -4491,14 +4515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 179895,
-      "num": 96630,
-      "word": "俄无人机救下一名正遭乌军性侵女子",
-      "onboard_time": 1760570240,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 179619,
       "num": 179619,
       "word": "宴遇永安原著",
@@ -4537,6 +4553,14 @@
       "onboard_time": 1760421622,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178318,
+      "num": 221870,
+      "word": "特朗普威胁更换2028年奥运举办地",
+      "onboard_time": 1760528421,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 178263,
@@ -4729,14 +4753,6 @@
       "onboard_time": 1760502261,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 172540,
-      "num": 221870,
-      "word": "特朗普威胁更换2028年奥运举办地",
-      "onboard_time": 1760528421,
-      "rank": 8,
-      "category": "国际时政"
     },
     {
       "raw_hot": 172497,
@@ -5651,6 +5667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 150015,
+      "num": 92772,
+      "word": "林诗栋说花儿有股臭味",
+      "onboard_time": 1760569939,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149498,
       "num": 149498,
       "word": "管乐拉票给TOP整静音了",
@@ -6377,14 +6401,6 @@
       "onboard_time": 1760543302,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134950,
-      "num": 93475,
-      "word": "肖战或演十日终焉",
-      "onboard_time": 1760570539,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 134919,
@@ -9171,14 +9187,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 103642,
-      "num": 92772,
-      "word": "林诗栋说花儿有股臭味",
-      "onboard_time": 1760569939,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 103376,
       "num": 222757,
       "word": "新凯来并未展示光刻机",
@@ -10507,6 +10515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89115,
+      "num": 76807,
+      "word": "一声东方巨响让中国人挺直了腰杆",
+      "onboard_time": 1760570479,
+      "rank": 30,
+      "category": "国内时政,民生新闻"
+    },
+    {
       "raw_hot": 89102,
       "num": 146678,
       "word": "中国首次载人航天飞行22周年",
@@ -11571,6 +11587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 78817,
+      "num": 73787,
+      "word": "维密大秀",
+      "onboard_time": 1760571380,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 78786,
       "num": 78786,
       "word": "林诗栋惜败本雅明",
@@ -11763,6 +11787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 76443,
+      "num": 80928,
+      "word": "一笑随歌凤戏阳怀孕了",
+      "onboard_time": 1760567715,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76424,
       "num": 83654,
       "word": "全球妇女峰会主席声明",
@@ -11785,14 +11817,6 @@
       "onboard_time": 1760274740,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 75805,
-      "num": 58565,
-      "word": "一声东方巨响让中国人挺直了腰杆",
-      "onboard_time": 1760570479,
-      "rank": 30,
-      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 75738,
@@ -12355,6 +12379,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68132,
+      "num": 78778,
+      "word": "金价飙涨三大原因",
+      "onboard_time": 1760548278,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 68042,
+      "num": 68042,
+      "word": "赵丽颖从花向朵生日照",
+      "onboard_time": 1760570839,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67652,
       "num": 90327,
       "word": "打电话时外卖小哥正在吃我外卖",
@@ -12409,6 +12449,14 @@
       "onboard_time": 1760418801,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66307,
+      "num": 66307,
+      "word": "以为在装病结果真确诊了",
+      "onboard_time": 1760569759,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 66000,
@@ -12587,22 +12635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62390,
-      "num": 80928,
-      "word": "一笑随歌凤戏阳怀孕了",
-      "onboard_time": 1760567715,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 62349,
-      "num": 78778,
-      "word": "金价飙涨三大原因",
-      "onboard_time": 1760548278,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 62081,
       "num": 114158,
       "word": "郭品超觉醒山东人考公血脉",
@@ -12737,6 +12769,14 @@
       "onboard_time": 1760484198,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59706,
+      "num": 59706,
+      "word": "趵突泉再现水涌若轮景象",
+      "onboard_time": 1760570539,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59700,
@@ -12881,6 +12921,14 @@
       "onboard_time": 1760196801,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56775,
+      "num": 56775,
+      "word": "威少加盟国王",
+      "onboard_time": 1760571019,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 56519,
@@ -13043,6 +13091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 53408,
+      "num": 53408,
+      "word": "122号选手樊振东",
+      "onboard_time": 1760570539,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53381,
       "num": 239025,
       "word": "飞鹤发布新一代奶粉",
@@ -13057,14 +13113,6 @@
       "onboard_time": 1760480715,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53083,
-      "num": 53083,
-      "word": "122号选手樊振东",
-      "onboard_time": 1760570539,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 52313,
@@ -13187,6 +13235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49082,
+      "num": 49082,
+      "word": "小米17系列背屏将更新",
+      "onboard_time": 1760570479,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 48742,
       "num": 76573,
       "word": "你刷到的奥运冠军代言可能是假的",
@@ -13203,14 +13259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48556,
-      "num": 48556,
-      "word": "小米17系列背屏将更新",
-      "onboard_time": 1760570479,
-      "rank": 38,
-      "category": "数码"
-    },
-    {
       "raw_hot": 48160,
       "num": 88433,
       "word": "阿富汗巴基斯坦冲突巴方12人丧生",
@@ -13225,6 +13273,14 @@
       "onboard_time": 1760543602,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 47701,
+      "num": 47246,
+      "word": "iG收官长文",
+      "onboard_time": 1760570719,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 47661,
@@ -13265,6 +13321,14 @@
       "onboard_time": 1760256500,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47324,
+      "num": 47324,
+      "word": "黄金大牛股大股东宣布减持",
+      "onboard_time": 1760570719,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 47177,
@@ -13531,14 +13595,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 41165,
-      "num": 41165,
-      "word": "以为在装病结果真确诊了",
-      "onboard_time": 1760569759,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 41161,
       "num": 104423,
       "word": "晋A99999劳斯莱斯只卖车不卖牌",
@@ -13553,14 +13609,6 @@
       "onboard_time": 1760508441,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 40289,
-      "num": 40289,
-      "word": "趵突泉再现水涌若轮景象",
-      "onboard_time": 1760570539,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40227,
