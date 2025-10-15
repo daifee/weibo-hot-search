@@ -1,6 +1,6 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760506882046,
+  "endTime": 1760510251105,
   "band_list": [
     {
       "raw_hot": 1543352,
@@ -11,6 +11,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1501901,
+      "num": 195133,
+      "word": "网易恭喜QQ音乐",
+      "onboard_time": 1760505201,
+      "rank": 16,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 1437955,
       "num": 209562,
       "word": "初三女生家门口遭同班男生杀害",
@@ -19,20 +27,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1345821,
-      "num": 184371,
-      "word": "网易恭喜QQ音乐",
-      "onboard_time": 1760505201,
-      "rank": 16,
-      "category": "互联网,艺人"
-    },
-    {
       "raw_hot": 1270480,
       "num": 1270480,
       "word": "王楚钦扇自己巴掌",
       "onboard_time": 1760457321,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1227123,
+      "num": 1227123,
+      "word": "缅北一个中国人卖30多万",
+      "onboard_time": 1760508080,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1199304,
+      "num": 193866,
+      "word": "短剧折腰尺度好大",
+      "onboard_time": 1760505621,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 1181384,
@@ -89,14 +105,6 @@
       "onboard_time": 1760483117,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 734323,
-      "num": 184365,
-      "word": "短剧折腰尺度好大",
-      "onboard_time": 1760505621,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 713915,
@@ -171,6 +179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 501679,
+      "num": 194415,
+      "word": "辛芷蕾又提名一个国际大奖",
+      "onboard_time": 1760507722,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 501589,
       "num": 501589,
       "word": "山姆客服回应枣泥核桃蛋糕吃出牙",
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 442943,
-      "num": 184251,
+      "num": 191472,
       "word": "郭碧婷爸爸回应病危传言",
       "onboard_time": 1760502622,
       "rank": 30,
@@ -225,6 +241,14 @@
       "onboard_time": 1760500522,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 416540,
+      "num": 416540,
+      "word": "魏家称杀人没什么感受",
+      "onboard_time": 1760505861,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 404972,
@@ -299,6 +323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 348106,
+      "num": 192364,
+      "word": "姜珮瑶 偏偏你最争气",
+      "onboard_time": 1760504482,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 347920,
       "num": 146961,
       "word": "田曦薇 好奇怪有人比我更相信我",
@@ -363,6 +395,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 308141,
+      "num": 308141,
+      "word": "全运会乒乓球决赛参赛运动员名单",
+      "onboard_time": 1760506400,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306089,
       "num": 306089,
       "word": "男子变现2公斤金条净赚百万",
@@ -371,12 +411,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 297907,
-      "num": 183845,
-      "word": "姜珮瑶 偏偏你最争气",
-      "onboard_time": 1760504482,
-      "rank": 22,
-      "category": "剧集"
+      "raw_hot": 280876,
+      "num": 280876,
+      "word": "缅北果敢魏家犯罪集团专案细节曝光",
+      "onboard_time": 1760505139,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274531,
@@ -419,14 +459,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 251385,
-      "num": 251385,
-      "word": "缅北果敢魏家犯罪集团专案细节曝光",
-      "onboard_time": 1760505139,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 230975,
       "num": 183981,
       "word": "网购卫生巾上有手写字",
@@ -459,6 +491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213894,
+      "num": 213894,
+      "word": "央视梳理缅北魏家覆灭之路",
+      "onboard_time": 1760504541,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211591,
       "num": 169273,
       "word": "原来头像真的很影响聊天欲",
@@ -488,14 +528,6 @@
       "word": "国乒男团1比2日本",
       "onboard_time": 1760459120,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 206419,
-      "num": 206419,
-      "word": "全运会乒乓球决赛参赛运动员名单",
-      "onboard_time": 1760506400,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -547,12 +579,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 187899,
-      "num": 187899,
-      "word": "央视梳理缅北魏家覆灭之路",
-      "onboard_time": 1760504541,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 190235,
+      "num": 190235,
+      "word": "布洛芬率先发现了甲沟炎",
+      "onboard_time": 1760506880,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 187436,
@@ -611,6 +643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172622,
+      "num": 131259,
+      "word": "梁靖崑老婆边吸氧边看球",
+      "onboard_time": 1760509221,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172562,
       "num": 170387,
       "word": "iPhone键盘生小熊了",
@@ -643,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169092,
+      "num": 169092,
+      "word": "男生刺死女同学谎称见义勇为受伤",
+      "onboard_time": 1760503942,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168983,
       "num": 168983,
       "word": "长佩崩了",
@@ -665,14 +713,6 @@
       "onboard_time": 1760505380,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163084,
-      "num": 163084,
-      "word": "魏家称杀人没什么感受",
-      "onboard_time": 1760505861,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162198,
@@ -705,6 +745,14 @@
       "onboard_time": 1760491879,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 155620,
+      "num": 155620,
+      "word": "易烊千玺粉丝挑战吉尼斯世界纪录成功",
+      "onboard_time": 1760506822,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 151775,
@@ -819,6 +867,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 134177,
+      "num": 134177,
+      "word": "缅北魏家致8名中国公民死亡",
+      "onboard_time": 1760509160,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131694,
       "num": 131694,
       "word": "NBA",
@@ -867,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129055,
+      "num": 129055,
+      "word": "陈铭武大学生潜伏28天当卧底记者",
+      "onboard_time": 1760509040,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128131,
       "num": 128131,
       "word": "GALA向粉丝道歉",
@@ -881,14 +945,6 @@
       "onboard_time": 1760497700,
       "rank": 30,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 127050,
-      "num": 127050,
-      "word": "男生刺死女同学谎称见义勇为受伤",
-      "onboard_time": 1760503942,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126392,
@@ -947,6 +1003,14 @@
       "category": "国内时政,剧集"
     },
     {
+      "raw_hot": 120880,
+      "num": 120880,
+      "word": "奥迪车主为躲闯红灯电动车不慎坠河",
+      "onboard_time": 1760508021,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119948,
       "num": 119948,
       "word": "杨瀚森人气火爆",
@@ -961,6 +1025,14 @@
       "onboard_time": 1760499620,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 117990,
+      "num": 184184,
+      "word": "刘宇宁加盟京东双11晚会",
+      "onboard_time": 1760504723,
+      "rank": 15,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 117756,
@@ -1155,12 +1227,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 104686,
-      "num": 104686,
-      "word": "易烊千玺粉丝挑战吉尼斯世界纪录成功",
-      "onboard_time": 1760506822,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 106531,
+      "num": 106531,
+      "word": "九重紫执行制片人参加芒果恋综",
+      "onboard_time": 1760510001,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106164,
+      "num": 106164,
+      "word": "上海一博物馆展览内容惊悚吓人",
+      "onboard_time": 1760509101,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104595,
@@ -1211,6 +1291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101530,
+      "num": 101530,
+      "word": "许嵩陈晓杨洋张兴朝合肥F4",
+      "onboard_time": 1760506880,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101345,
       "num": 101345,
       "word": "朱丹8岁女儿设计的沙发在卢浮宫展出",
@@ -1225,6 +1313,14 @@
       "onboard_time": 1760500102,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100246,
+      "num": 100246,
+      "word": "杨祐宁发长文悼念父亲",
+      "onboard_time": 1760506941,
+      "rank": 37,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 99612,
@@ -1331,6 +1427,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 91939,
+      "num": 91939,
+      "word": "孙颖莎王楚钦等今晚冲冠",
+      "onboard_time": 1760509939,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91756,
       "num": 91756,
       "word": "香港警方回应豪宅双尸案",
@@ -1355,12 +1459,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90653,
+      "num": 90653,
+      "word": "缅北魏家五年建14个电诈园区",
+      "onboard_time": 1760509340,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89640,
       "num": 105062,
       "word": "欧盟拟强制中国企业转让技术",
       "onboard_time": 1760504482,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 89519,
+      "num": 113302,
+      "word": "3块钱的豆腐切丝能卖45块",
+      "onboard_time": 1760507901,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 89102,
@@ -1409,6 +1529,14 @@
       "onboard_time": 1760504901,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85571,
+      "num": 85571,
+      "word": "工信部部长会见苹果CEO库克",
+      "onboard_time": 1760508861,
+      "rank": 45,
+      "category": "国内时政,数码"
     },
     {
       "raw_hot": 85428,
@@ -1467,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81989,
+      "num": 81989,
+      "word": "京东新车预计在10万至12万之间",
+      "onboard_time": 1760509701,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 81405,
       "num": 81405,
       "word": "C罗加冕世预赛历史射手王",
@@ -1491,12 +1627,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80792,
+      "num": 80792,
+      "word": "私家笔记2老锅蒸新饭",
+      "onboard_time": 1760508980,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80169,
       "num": 80169,
       "word": "王楚钦两次摸头安慰梁靖崑",
       "onboard_time": 1760487382,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79637,
+      "num": 79637,
+      "word": "胡兵 超模带的崽也是超模",
+      "onboard_time": 1760507480,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 79563,
@@ -1803,6 +1955,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54599,
+      "num": 175284,
+      "word": "舒享大7座星光730预售76800元起",
+      "onboard_time": 1760508380,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 54440,
+      "num": 131411,
+      "word": "刘宇宁本人听了都得愣3秒",
+      "onboard_time": 1760509459,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 53918,
       "num": 79617,
       "word": "iG告别S15",
@@ -1827,12 +1995,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51761,
+      "num": 85689,
+      "word": "国乒逆转之夜把球迷看哭",
+      "onboard_time": 1760508741,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51372,
       "num": 51372,
       "word": "山姆枣泥核桃蛋糕被曝吃出一颗牙",
       "onboard_time": 1760484979,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50459,
+      "num": 97818,
+      "word": "95生在古偶卷生卷死",
+      "onboard_time": 1760509340,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 50141,
@@ -1865,6 +2049,14 @@
       "onboard_time": 1760441241,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40376,
+      "num": 78744,
+      "word": "S15第二轮抽签嘉宾JieJie",
+      "onboard_time": 1760508441,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 40138,
@@ -1961,14 +2153,6 @@
       "onboard_time": 1760471114,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 23422,
-      "num": 184184,
-      "word": "刘宇宁加盟京东双11晚会",
-      "onboard_time": 1760504723,
-      "rank": 15,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 20883,

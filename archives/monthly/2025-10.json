@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760506882046,
+  "endTime": 1760510251105,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -539,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1501901,
+      "num": 195133,
+      "word": "网易恭喜QQ音乐",
+      "onboard_time": 1760505201,
+      "rank": 16,
+      "category": "互联网,艺人"
+    },
+    {
       "raw_hot": 1487479,
       "num": 183058,
       "word": "李湘王岳伦发文恭喜王诗龄",
@@ -755,14 +763,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1345821,
-      "num": 184371,
-      "word": "网易恭喜QQ音乐",
-      "onboard_time": 1760505201,
-      "rank": 16,
-      "category": "互联网,艺人"
-    },
-    {
       "raw_hot": 1342050,
       "num": 1342050,
       "word": "王者荣耀崩了",
@@ -947,6 +947,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1227123,
+      "num": 1227123,
+      "word": "缅北一个中国人卖30多万",
+      "onboard_time": 1760508080,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1226757,
       "num": 1226757,
       "word": "大疆",
@@ -993,6 +1001,14 @@
       "onboard_time": 1760177421,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1199304,
+      "num": 193866,
+      "word": "短剧折腰尺度好大",
+      "onboard_time": 1760505621,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 1197599,
@@ -2889,14 +2905,6 @@
       "onboard_time": 1760091261,
       "rank": 21,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 734323,
-      "num": 184365,
-      "word": "短剧折腰尺度好大",
-      "onboard_time": 1760505621,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 734082,
@@ -5419,6 +5427,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 501679,
+      "num": 194415,
+      "word": "辛芷蕾又提名一个国际大奖",
+      "onboard_time": 1760507722,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 501589,
       "num": 501589,
       "word": "山姆客服回应枣泥核桃蛋糕吃出牙",
@@ -6452,7 +6468,7 @@
     },
     {
       "raw_hot": 442943,
-      "num": 184251,
+      "num": 191472,
       "word": "郭碧婷爸爸回应病危传言",
       "onboard_time": 1760502622,
       "rank": 30,
@@ -7001,6 +7017,14 @@
       "onboard_time": 1760076620,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 416540,
+      "num": 416540,
+      "word": "魏家称杀人没什么感受",
+      "onboard_time": 1760505861,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 416046,
@@ -8331,6 +8355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 348106,
+      "num": 192364,
+      "word": "姜珮瑶 偏偏你最争气",
+      "onboard_time": 1760504482,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 347907,
       "num": 347907,
       "word": "WBG零封DK",
@@ -9491,6 +9523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308141,
+      "num": 308141,
+      "word": "全运会乒乓球决赛参赛运动员名单",
+      "onboard_time": 1760506400,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308011,
       "num": 308011,
       "word": "深圳地铁列车自己洗澡睡觉",
@@ -9793,14 +9833,6 @@
       "onboard_time": 1759551681,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 297907,
-      "num": 183845,
-      "word": "姜珮瑶 偏偏你最争气",
-      "onboard_time": 1760504482,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 297327,
@@ -10353,6 +10385,14 @@
       "onboard_time": 1759661965,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 280876,
+      "num": 280876,
+      "word": "缅北果敢魏家犯罪集团专案细节曝光",
+      "onboard_time": 1760505139,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280415,
@@ -11401,14 +11441,6 @@
       "onboard_time": 1759988120,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 251385,
-      "num": 251385,
-      "word": "缅北果敢魏家犯罪集团专案细节曝光",
-      "onboard_time": 1760505139,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 251248,
@@ -13067,6 +13099,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 213894,
+      "num": 213894,
+      "word": "央视梳理缅北魏家覆灭之路",
+      "onboard_time": 1760504541,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 213887,
       "num": 213887,
       "word": "三婚就是比前两次会挑时候",
@@ -13553,14 +13593,6 @@
       "onboard_time": 1759537579,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206419,
-      "num": 206419,
-      "word": "全运会乒乓球决赛参赛运动员名单",
-      "onboard_time": 1760506400,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 206346,
@@ -15171,6 +15203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190235,
+      "num": 190235,
+      "word": "布洛芬率先发现了甲沟炎",
+      "onboard_time": 1760506880,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190195,
       "num": 190195,
       "word": "梁靖崑13比11张本智和",
@@ -15432,14 +15472,6 @@
       "word": "女子久坐16小时火车旅游心脏骤停",
       "onboard_time": 1759916841,
       "rank": 29,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187899,
-      "num": 187899,
-      "word": "央视梳理缅北魏家覆灭之路",
-      "onboard_time": 1760504541,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -17083,6 +17115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172622,
+      "num": 131259,
+      "word": "梁靖崑老婆边吸氧边看球",
+      "onboard_time": 1760509221,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172562,
       "num": 170387,
       "word": "iPhone键盘生小熊了",
@@ -17553,6 +17593,14 @@
       "onboard_time": 1759456819,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169092,
+      "num": 169092,
+      "word": "男生刺死女同学谎称见义勇为受伤",
+      "onboard_time": 1760503942,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169064,
@@ -18409,14 +18457,6 @@
       "onboard_time": 1760066240,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163084,
-      "num": 163084,
-      "word": "魏家称杀人没什么感受",
-      "onboard_time": 1760505861,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163081,
@@ -19417,6 +19457,14 @@
       "onboard_time": 1759745839,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155620,
+      "num": 155620,
+      "word": "易烊千玺粉丝挑战吉尼斯世界纪录成功",
+      "onboard_time": 1760506822,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 155598,
@@ -23347,6 +23395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 134177,
+      "num": 134177,
+      "word": "缅北魏家致8名中国公民死亡",
+      "onboard_time": 1760509160,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134154,
       "num": 134154,
       "word": "MANTAminini联动",
@@ -24563,6 +24619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129055,
+      "num": 129055,
+      "word": "陈铭武大学生潜伏28天当卧底记者",
+      "onboard_time": 1760509040,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129013,
       "num": 129013,
       "word": "李沁张雅钦夏梦跳Fancy",
@@ -25041,14 +25105,6 @@
       "onboard_time": 1760165959,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 127050,
-      "num": 127050,
-      "word": "男生刺死女同学谎称见义勇为受伤",
-      "onboard_time": 1760503942,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127006,
@@ -26755,6 +26811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120880,
+      "num": 120880,
+      "word": "奥迪车主为躲闯红灯电动车不慎坠河",
+      "onboard_time": 1760508021,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120855,
       "num": 120855,
       "word": "趵突泉XXXL码锦鲤来了",
@@ -27593,6 +27657,14 @@
       "onboard_time": 1759415062,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117990,
+      "num": 184184,
+      "word": "刘宇宁加盟京东双11晚会",
+      "onboard_time": 1760504723,
+      "rank": 15,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 117900,
@@ -31763,6 +31835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106531,
+      "num": 106531,
+      "word": "九重紫执行制片人参加芒果恋综",
+      "onboard_time": 1760510001,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106529,
       "num": 106529,
       "word": "脾气不好的人吃不了这个",
@@ -31881,6 +31961,14 @@
       "onboard_time": 1759656621,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106164,
+      "num": 106164,
+      "word": "上海一博物馆展览内容惊悚吓人",
+      "onboard_time": 1760509101,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106126,
@@ -32425,14 +32513,6 @@
       "onboard_time": 1759485081,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104686,
-      "num": 104686,
-      "word": "易烊千玺粉丝挑战吉尼斯世界纪录成功",
-      "onboard_time": 1760506822,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 104672,
@@ -33539,6 +33619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101530,
+      "num": 101530,
+      "word": "许嵩陈晓杨洋张兴朝合肥F4",
+      "onboard_time": 1760506880,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101470,
       "num": 101470,
       "word": "射雕英雄传侠之大者收视率",
@@ -33873,6 +33961,14 @@
       "onboard_time": 1759746682,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100246,
+      "num": 100246,
+      "word": "杨祐宁发长文悼念父亲",
+      "onboard_time": 1760506941,
+      "rank": 37,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 100240,
@@ -36803,6 +36899,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91939,
+      "num": 91939,
+      "word": "孙颖莎王楚钦等今晚冲冠",
+      "onboard_time": 1760509939,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91898,
       "num": 91898,
       "word": "阿根廷vs委内瑞拉",
@@ -37275,6 +37379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90653,
+      "num": 90653,
+      "word": "缅北魏家五年建14个电诈园区",
+      "onboard_time": 1760509340,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90636,
       "num": 90636,
       "word": "内娱平均年龄最大的影后团要出发了",
@@ -37657,6 +37769,14 @@
       "onboard_time": 1759726221,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89519,
+      "num": 113302,
+      "word": "3块钱的豆腐切丝能卖45块",
+      "onboard_time": 1760507901,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 89502,
@@ -38875,6 +38995,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85571,
+      "num": 85571,
+      "word": "工信部部长会见苹果CEO库克",
+      "onboard_time": 1760508861,
+      "rank": 45,
+      "category": "国内时政,数码"
+    },
+    {
       "raw_hot": 85532,
       "num": 85532,
       "word": "外国女子拿到中国永居证",
@@ -40043,6 +40171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81989,
+      "num": 81989,
+      "word": "京东新车预计在10万至12万之间",
+      "onboard_time": 1760509701,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 81971,
       "num": 81971,
       "word": "小孩哥看王楚钦比赛看哭了",
@@ -40355,6 +40491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80792,
+      "num": 80792,
+      "word": "私家笔记2老锅蒸新饭",
+      "onboard_time": 1760508980,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80765,
       "num": 80765,
       "word": "盛夏芬德拉男主刘萧旭涨粉超200万",
@@ -40633,6 +40777,14 @@
       "onboard_time": 1759730120,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 79637,
+      "num": 79637,
+      "word": "胡兵 超模带的崽也是超模",
+      "onboard_time": 1760507480,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 79610,
@@ -44427,6 +44579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54599,
+      "num": 175284,
+      "word": "舒享大7座星光730预售76800元起",
+      "onboard_time": 1760508380,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 54549,
       "num": 365748,
       "word": "刘嘉玲私人健康顾问被曝光",
@@ -44449,6 +44609,14 @@
       "onboard_time": 1760159481,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54440,
+      "num": 131411,
+      "word": "刘宇宁本人听了都得愣3秒",
+      "onboard_time": 1760509459,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 54362,
@@ -44787,6 +44955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51761,
+      "num": 85689,
+      "word": "国乒逆转之夜把球迷看哭",
+      "onboard_time": 1760508741,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51686,
       "num": 182915,
       "word": "炸鸡主理人Wa一声登场",
@@ -44977,6 +45153,14 @@
       "onboard_time": 1760310438,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 50459,
+      "num": 97818,
+      "word": "95生在古偶卷生卷死",
+      "onboard_time": 1760509340,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 50385,
@@ -45929,6 +46113,14 @@
       "onboard_time": 1759577540,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40376,
+      "num": 78744,
+      "word": "S15第二轮抽签嘉宾JieJie",
+      "onboard_time": 1760508441,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 40372,
@@ -47705,14 +47897,6 @@
       "onboard_time": 1759438273,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 23422,
-      "num": 184184,
-      "word": "刘宇宁加盟京东双11晚会",
-      "onboard_time": 1760504723,
-      "rank": 15,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 23413,

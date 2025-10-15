@@ -1,0 +1,410 @@
+{
+  "runTime": 1760510251105,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1227123,
+        "num": 1227123,
+        "word": "缅北一个中国人卖30多万",
+        "onboard_time": 1760508080,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502769,
+        "num": 502769,
+        "word": "洞洞鞋下岗勃肯鞋上岗",
+        "onboard_time": 1760499201,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 3984,
+        "num": 417002,
+        "word": "万千气象看天津",
+        "onboard_time": 1760501182,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416540,
+        "num": 416540,
+        "word": "魏家称杀人没什么感受",
+        "onboard_time": 1760505861,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308141,
+        "num": 308141,
+        "word": "全运会乒乓球决赛参赛运动员名单",
+        "onboard_time": 1760506400,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280876,
+        "num": 280876,
+        "word": "缅北果敢魏家犯罪集团专案细节曝光",
+        "onboard_time": 1760505139,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269583,
+        "num": 269583,
+        "word": "Doinb怒喷TheShy",
+        "onboard_time": 1760499320,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 224844,
+        "num": 224844,
+        "word": "短剧折腰",
+        "onboard_time": 1760505021,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213894,
+        "num": 213894,
+        "word": "央视梳理缅北魏家覆灭之路",
+        "onboard_time": 1760504541,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195425,
+        "num": 195425,
+        "word": "杨瀚森库里互飙三分",
+        "onboard_time": 1760502861,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1501901,
+        "num": 195133,
+        "word": "网易恭喜QQ音乐",
+        "onboard_time": 1760505201,
+        "rank": 10,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 501679,
+        "num": 194415,
+        "word": "辛芷蕾又提名一个国际大奖",
+        "onboard_time": 1760507722,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1199304,
+        "num": 193866,
+        "word": "短剧折腰尺度好大",
+        "onboard_time": 1760505621,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370266,
+        "num": 192795,
+        "word": "一直没明白为什么微信能取代QQ",
+        "onboard_time": 1760496559,
+        "rank": 13,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 348106,
+        "num": 192364,
+        "word": "姜珮瑶 偏偏你最争气",
+        "onboard_time": 1760504482,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263993,
+        "num": 191472,
+        "word": "郭碧婷爸爸回应病危传言",
+        "onboard_time": 1760502622,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244353,
+        "num": 190587,
+        "word": "何炅衰老焦虑的原因找到了",
+        "onboard_time": 1760501240,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190235,
+        "num": 190235,
+        "word": "布洛芬率先发现了甲沟炎",
+        "onboard_time": 1760506880,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180965,
+        "num": 180965,
+        "word": "网购卫生巾上有手写字",
+        "onboard_time": 1760502622,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54599,
+        "num": 175284,
+        "word": "舒享大7座星光730预售76800元起",
+        "onboard_time": 1760508380,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 894771,
+        "num": 175186,
+        "word": "初三女生家门口遭同班男生杀害",
+        "onboard_time": 1760501961,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351920,
+        "num": 174912,
+        "word": "林永健人日发文批某顶流演员排场大",
+        "onboard_time": 1760492118,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174360,
+        "num": 174360,
+        "word": "谁是灵珠谁是魔丸我一眼就认出来了",
+        "onboard_time": 1760501540,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169092,
+        "num": 169092,
+        "word": "男生刺死女同学谎称见义勇为受伤",
+        "onboard_time": 1760503942,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166065,
+        "num": 166065,
+        "word": "孙楠已经瘦成巴掌脸了",
+        "onboard_time": 1760505981,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155620,
+        "num": 155620,
+        "word": "易烊千玺粉丝挑战吉尼斯世界纪录成功",
+        "onboard_time": 1760506822,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117990,
+        "num": 140561,
+        "word": "刘宇宁加盟京东双11晚会",
+        "onboard_time": 1760504723,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134177,
+        "num": 134177,
+        "word": "缅北魏家致8名中国公民死亡",
+        "onboard_time": 1760509160,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134167,
+        "num": 134167,
+        "word": "125斤左右的姐姐们别减肥了",
+        "onboard_time": 1760490741,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54440,
+        "num": 131411,
+        "word": "刘宇宁本人听了都得愣3秒",
+        "onboard_time": 1760509459,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172622,
+        "num": 131259,
+        "word": "梁靖崑老婆边吸氧边看球",
+        "onboard_time": 1760509221,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129055,
+        "num": 129055,
+        "word": "陈铭武大学生潜伏28天当卧底记者",
+        "onboard_time": 1760509040,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120880,
+        "num": 120880,
+        "word": "奥迪车主为躲闯红灯电动车不慎坠河",
+        "onboard_time": 1760508021,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89519,
+        "num": 113302,
+        "word": "3块钱的豆腐切丝能卖45块",
+        "onboard_time": 1760507901,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106531,
+        "num": 106531,
+        "word": "九重紫执行制片人参加芒果恋综",
+        "onboard_time": 1760510001,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106164,
+        "num": 106164,
+        "word": "上海一博物馆展览内容惊悚吓人",
+        "onboard_time": 1760509101,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101530,
+        "num": 101530,
+        "word": "许嵩陈晓杨洋张兴朝合肥F4",
+        "onboard_time": 1760506880,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100246,
+        "num": 100246,
+        "word": "杨祐宁发长文悼念父亲",
+        "onboard_time": 1760506941,
+        "rank": 37,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 99825,
+        "num": 99825,
+        "word": "iPhone键盘生小熊了",
+        "onboard_time": 1760502261,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 50459,
+        "num": 97818,
+        "word": "95生在古偶卷生卷死",
+        "onboard_time": 1760509340,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96758,
+        "num": 96758,
+        "word": "欢乐颂编剧谈杨紫小蚯蚓",
+        "onboard_time": 1760500522,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91939,
+        "num": 91939,
+        "word": "孙颖莎王楚钦等今晚冲冠",
+        "onboard_time": 1760509939,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90653,
+        "num": 90653,
+        "word": "缅北魏家五年建14个电诈园区",
+        "onboard_time": 1760509340,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88866,
+        "num": 88866,
+        "word": "梁靖崑在王楚钦怀里小鸟依人",
+        "onboard_time": 1760498479,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51761,
+        "num": 85689,
+        "word": "国乒逆转之夜把球迷看哭",
+        "onboard_time": 1760508741,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85571,
+        "num": 85571,
+        "word": "工信部部长会见苹果CEO库克",
+        "onboard_time": 1760508861,
+        "rank": 45,
+        "category": "国内时政,数码"
+      },
+      {
+        "raw_hot": 81989,
+        "num": 81989,
+        "word": "京东新车预计在10万至12万之间",
+        "onboard_time": 1760509701,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 80792,
+        "num": 80792,
+        "word": "私家笔记2老锅蒸新饭",
+        "onboard_time": 1760508980,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79637,
+        "num": 79637,
+        "word": "胡兵 超模带的崽也是超模",
+        "onboard_time": 1760507480,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40376,
+        "num": 78744,
+        "word": "S15第二轮抽签嘉宾JieJie",
+        "onboard_time": 1760508441,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#30年后再聚北京共商妇女全面发展#"
+    }
+  }
+}
