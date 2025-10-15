@@ -1,6 +1,6 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760538449461,
+  "endTime": 1760539551379,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -11,6 +11,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 8137930,
+      "num": 8137930,
+      "word": "李禹熹称荣梓杉出轨打人",
+      "onboard_time": 1760537542,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2696220,
       "num": 233807,
       "word": "黄子韬徐艺洋接吻婚纱照",
@@ -19,12 +27,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2347348,
-      "num": 208638,
-      "word": "李禹熹称荣梓杉出轨打人",
-      "onboard_time": 1760537542,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 2611269,
+      "num": 208398,
+      "word": "刘嘉瑞 若若",
+      "onboard_time": 1760537243,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 2187134,
+      "num": 449440,
+      "word": "折腰短剧下架",
+      "onboard_time": 1760537362,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 2114161,
@@ -33,14 +49,6 @@
       "onboard_time": 1760521103,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1956586,
-      "num": 208398,
-      "word": "刘嘉瑞 若若",
-      "onboard_time": 1760537243,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 1585620,
@@ -57,14 +65,6 @@
       "onboard_time": 1760492118,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1543019,
-      "num": 449440,
-      "word": "折腰短剧下架",
-      "onboard_time": 1760537362,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1501901,
@@ -427,20 +427,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 495684,
+      "num": 495684,
+      "word": "近13万枚比特币被查获",
+      "onboard_time": 1760535262,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 495052,
       "num": 495052,
       "word": "王楚钦可他也才25岁",
       "onboard_time": 1760532801,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 484035,
-      "num": 484035,
-      "word": "近13万枚比特币被查获",
-      "onboard_time": 1760535262,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 476232,
@@ -521,6 +521,14 @@
       "onboard_time": 1760523561,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 405028,
+      "num": 405028,
+      "word": "卖出500克黄金 日赚五万",
+      "onboard_time": 1760538142,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 404972,
@@ -625,6 +633,14 @@
       "onboard_time": 1760444780,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343758,
+      "num": 343758,
+      "word": "亚锦赛 颁奖",
+      "onboard_time": 1760538564,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 341858,
@@ -1211,6 +1227,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 191631,
+      "num": 191631,
+      "word": "M5芯片",
+      "onboard_time": 1760538804,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 191206,
       "num": 229693,
       "word": "BLG惊天2.2",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1760517021,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 184876,
+      "num": 184876,
+      "word": "四代北京",
+      "onboard_time": 1760538323,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 184563,
@@ -1467,6 +1499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163924,
+      "num": 163924,
+      "word": "真正长大了好像就是这样",
+      "onboard_time": 1760536642,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163423,
       "num": 170385,
       "word": "看offer7跟父母的查岗电话和解了",
@@ -1635,14 +1675,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 148890,
-      "num": 148890,
-      "word": "真正长大了好像就是这样",
-      "onboard_time": 1760536642,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 148778,
       "num": 147439,
       "word": "iG教练回应选用上单维鲁斯",
@@ -1729,6 +1761,14 @@
       "onboard_time": 1760526802,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 144925,
+      "num": 144925,
+      "word": "李禹熹要求荣梓杉道歉",
+      "onboard_time": 1760539405,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 144914,
@@ -2049,14 +2089,6 @@
       "onboard_time": 1760497700,
       "rank": 30,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 126402,
-      "num": 126402,
-      "word": "四代北京",
-      "onboard_time": 1760538323,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 126392,
@@ -2563,6 +2595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107512,
+      "num": 156497,
+      "word": "受害女生妈妈接送涉案男生上学3年",
+      "onboard_time": 1760538444,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107392,
       "num": 163060,
       "word": "技能五子棋走入悬疑剧",
@@ -3043,14 +3083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84432,
-      "num": 205846,
-      "word": "卖出500克黄金 日赚五万",
-      "onboard_time": 1760538142,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84319,
       "num": 84319,
       "word": "中国移动已投资新凯来",
@@ -3097,6 +3129,14 @@
       "onboard_time": 1760533582,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 81847,
+      "num": 206219,
+      "word": "丰县市监局回应注水牛肉",
+      "onboard_time": 1760537902,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 81405,
@@ -3555,6 +3595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 56090,
+      "num": 156920,
+      "word": "警方通报女生被合租男偷拍",
+      "onboard_time": 1760538564,
+      "rank": 38,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 55788,
       "num": 118583,
       "word": "台积电高管回应新凯来技术发展",
@@ -3699,14 +3747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43340,
-      "num": 206219,
-      "word": "丰县市监局回应注水牛肉",
-      "onboard_time": 1760537902,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 42723,
       "num": 172029,
       "word": "抽猫盒集猫猫得红包",
@@ -3761,6 +3801,22 @@
       "onboard_time": 1760515101,
       "rank": 45,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 38441,
+      "num": 204905,
+      "word": "荣耀李健打造机圈最高的山",
+      "onboard_time": 1760538983,
+      "rank": 19,
+      "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 38232,
+      "num": 205639,
+      "word": "荣耀Magic8真夜神手机",
+      "onboard_time": 1760538623,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 37527,
@@ -3971,6 +4027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 20750,
+      "num": 112445,
+      "word": "第一批穿秋裤的人出现了",
+      "onboard_time": 1760538804,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20132,
       "num": 31415,
       "word": "49岁男子医院坠亡排除刑案",
@@ -4036,7 +4100,7 @@
     },
     {
       "raw_hot": 14419,
-      "num": 148118,
+      "num": 158327,
       "word": "为了凑单你都买过什么",
       "onboard_time": 1760536642,
       "rank": 38,

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1760538449461,
+  "endTime": 1760539551379,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1723,6 +1723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8137930,
+      "num": 8137930,
+      "word": "李禹熹称荣梓杉出轨打人",
+      "onboard_time": 1760537542,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 8108051,
       "num": 8108051,
       "word": "肖战是谁的新郎",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1736048910,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4801086,
-      "num": 4801086,
-      "word": "沈腾马丽 你们怎么在唱歌",
-      "onboard_time": 1738070443,
-      "rank": 8,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

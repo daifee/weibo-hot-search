@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760538449461,
+  "endTime": 1760539551379,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -39,6 +39,14 @@
       "num": 8491801,
       "word": "工作室辟谣孟子义李昀锐恋情",
       "onboard_time": 1760152343,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 8137930,
+      "num": 8137930,
+      "word": "李禹熹称荣梓杉出轨打人",
+      "onboard_time": 1760537542,
       "rank": 10,
       "category": "艺人"
     },
@@ -147,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2611269,
+      "num": 208398,
+      "word": "刘嘉瑞 若若",
+      "onboard_time": 1760537243,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 2572562,
       "num": 2572562,
       "word": "王楚钦3冠王",
@@ -203,14 +219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2347348,
-      "num": 208638,
-      "word": "李禹熹称荣梓杉出轨打人",
-      "onboard_time": 1760537542,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2289458,
       "num": 2289458,
       "word": "T1战胜iG",
@@ -225,6 +233,14 @@
       "onboard_time": 1760100322,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2187134,
+      "num": 449440,
+      "word": "折腰短剧下架",
+      "onboard_time": 1760537362,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 2155622,
@@ -257,14 +273,6 @@
       "onboard_time": 1760106925,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1956586,
-      "num": 208398,
-      "word": "刘嘉瑞 若若",
-      "onboard_time": 1760537243,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 1886560,
@@ -553,14 +561,6 @@
       "onboard_time": 1760492118,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1543019,
-      "num": 449440,
-      "word": "折腰短剧下架",
-      "onboard_time": 1760537362,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1530425,
@@ -5771,6 +5771,14 @@
       "category": "议题讨论,休闲"
     },
     {
+      "raw_hot": 495684,
+      "num": 495684,
+      "word": "近13万枚比特币被查获",
+      "onboard_time": 1760535262,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 495661,
       "num": 343767,
       "word": "侯佩岑主持央视秋晚",
@@ -5969,14 +5977,6 @@
       "onboard_time": 1759462220,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 484035,
-      "num": 484035,
-      "word": "近13万枚比特币被查获",
-      "onboard_time": 1760535262,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 482525,
@@ -7459,6 +7459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 405028,
+      "num": 405028,
+      "word": "卖出500克黄金 日赚五万",
+      "onboard_time": 1760538142,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 404972,
       "num": 385165,
       "word": "现在就出发",
@@ -8761,6 +8769,14 @@
       "onboard_time": 1760325142,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343758,
+      "num": 343758,
+      "word": "亚锦赛 颁奖",
+      "onboard_time": 1760538564,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 343347,
@@ -15691,6 +15707,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 191631,
+      "num": 191631,
+      "word": "M5芯片",
+      "onboard_time": 1760538804,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 191592,
       "num": 139798,
       "word": "华裔女星疑遭同组演员性侵",
@@ -16385,6 +16409,14 @@
       "onboard_time": 1760110941,
       "rank": 7,
       "category": "财经"
+    },
+    {
+      "raw_hot": 184876,
+      "num": 184876,
+      "word": "四代北京",
+      "onboard_time": 1760538323,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 184760,
@@ -19075,6 +19107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 163924,
+      "num": 163924,
+      "word": "真正长大了好像就是这样",
+      "onboard_time": 1760536642,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 163868,
       "num": 163868,
       "word": "熊黛林双胞胎一个像爸爸一个像妈妈",
@@ -21299,14 +21339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148890,
-      "num": 148890,
-      "word": "真正长大了好像就是这样",
-      "onboard_time": 1760536642,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 148856,
       "num": 148856,
       "word": "你刷到的奥运冠军代言可能是假的",
@@ -22105,6 +22137,14 @@
       "onboard_time": 1759288521,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144925,
+      "num": 144925,
+      "word": "李禹熹要求荣梓杉道歉",
+      "onboard_time": 1760539405,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 144846,
@@ -26321,14 +26361,6 @@
       "onboard_time": 1760414662,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 126402,
-      "num": 126402,
-      "word": "四代北京",
-      "onboard_time": 1760538323,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 126392,
@@ -32713,6 +32745,14 @@
       "onboard_time": 1759291521,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107512,
+      "num": 156497,
+      "word": "受害女生妈妈接送涉案男生上学3年",
+      "onboard_time": 1760538444,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107509,
@@ -40867,14 +40907,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 84432,
-      "num": 205846,
-      "word": "卖出500克黄金 日赚五万",
-      "onboard_time": 1760538142,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84367,
       "num": 85329,
       "word": "蔡文静戴的耳坠比鸡蛋还大",
@@ -41681,6 +41713,14 @@
       "onboard_time": 1759404981,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 81847,
+      "num": 206219,
+      "word": "丰县市监局回应注水牛肉",
+      "onboard_time": 1760537902,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 81834,
@@ -45931,6 +45971,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 56090,
+      "num": 156920,
+      "word": "警方通报女生被合租男偷拍",
+      "onboard_time": 1760538564,
+      "rank": 38,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 55967,
       "num": 55967,
       "word": "兰蔻晚宴上的张凌赫",
@@ -47491,14 +47539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43340,
-      "num": 206219,
-      "word": "丰县市监局回应注水牛肉",
-      "onboard_time": 1760537902,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 43255,
       "num": 45212,
       "word": "陈俊崧回应不敌王楚钦林诗栋",
@@ -48017,6 +48057,22 @@
       "onboard_time": 1759337421,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38441,
+      "num": 204905,
+      "word": "荣耀李健打造机圈最高的山",
+      "onboard_time": 1760538983,
+      "rank": 19,
+      "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 38232,
+      "num": 205639,
+      "word": "荣耀Magic8真夜神手机",
+      "onboard_time": 1760538623,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 38180,
@@ -49851,6 +49907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 20750,
+      "num": 112445,
+      "word": "第一批穿秋裤的人出现了",
+      "onboard_time": 1760538804,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20606,
       "num": 137019,
       "word": "这个阵容只有微博能请到",
@@ -50396,7 +50460,7 @@
     },
     {
       "raw_hot": 14419,
-      "num": 148118,
+      "num": 158327,
       "word": "为了凑单你都买过什么",
       "onboard_time": 1760536642,
       "rank": 38,

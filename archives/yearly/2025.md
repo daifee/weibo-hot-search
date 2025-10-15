@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/10/15 22:27:29
+本榜单时间：2025/01/01 00:26:38 ~ 2025/10/15 22:45:51
 </p>
 </blockquote>
 <p>
@@ -1305,6 +1305,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%A6%B9%E7%86%B9%E7%A7%B0%E8%8D%A3%E6%A2%93%E6%9D%89%E5%87%BA%E8%BD%A8%E6%89%93%E4%BA%BA%23" target="weibo">
+李禹熹称荣梓杉出轨打人（热度：8137930）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%98%AF%E8%B0%81%E7%9A%84%E6%96%B0%E9%83%8E%23" target="weibo">
 肖战是谁的新郎（热度：8108051）
 </a>
@@ -1805,12 +1811,6 @@ ALin秒了（热度：6171972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%96%E6%85%A7%E4%BD%B3%E5%8F%91%E9%95%BF%E6%96%87%E6%8C%87%E8%B4%A3%E6%9D%8E%E6%98%8E%E5%BE%B7%23" target="weibo">
 廖慧佳发长文指责李明德（热度：4846940）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%20%E4%BD%A0%E4%BB%AC%E6%80%8E%E4%B9%88%E5%9C%A8%E5%94%B1%E6%AD%8C%23" target="weibo">
-沈腾马丽 你们怎么在唱歌（热度：4801086）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/15 22:27:29
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/15 22:45:51
 </p>
 </blockquote>
 <p>
@@ -41,6 +41,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E6%81%8B%E6%83%85%23" target="weibo">
 工作室辟谣孟子义李昀锐恋情（热度：8491801）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%A6%B9%E7%86%B9%E7%A7%B0%E8%8D%A3%E6%A2%93%E6%9D%89%E5%87%BA%E8%BD%A8%E6%89%93%E4%BA%BA%23" target="weibo">
+李禹熹称荣梓杉出轨打人（热度：8137930）
 </a>
 </li>
 
@@ -123,6 +129,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%98%89%E7%91%9E%20%E8%8B%A5%E8%8B%A5%23" target="weibo">
+刘嘉瑞 若若（热度：2611269）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E5%86%A0%E7%8E%8B%23" target="weibo">
 王楚钦3冠王（热度：2572562）
 </a>
@@ -165,12 +177,6 @@ K签（热度：2379627）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%A6%B9%E7%86%B9%E7%A7%B0%E8%8D%A3%E6%A2%93%E6%9D%89%E5%87%BA%E8%BD%A8%E6%89%93%E4%BA%BA%23" target="weibo">
-李禹熹称荣梓杉出轨打人（热度：2347348）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E6%88%98%E8%83%9CiG%23" target="weibo">
 T1战胜iG（热度：2289458）
 </a>
@@ -179,6 +185,12 @@ T1战胜iG（热度：2289458）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%BE%97%E4%BA%86%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87%23" target="weibo">
 白鹿说自己得了疑难杂症（热度：2249773）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%98%E8%85%B0%E7%9F%AD%E5%89%A7%E4%B8%8B%E6%9E%B6%23" target="weibo">
+折腰短剧下架（热度：2187134）
 </a>
 </li>
 
@@ -203,12 +215,6 @@ T1战胜iG（热度：2289458）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9D%92%E5%9B%9E%E5%BA%94%23" target="weibo">
 王青回应（热度：1970475）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%98%89%E7%91%9E%20%E8%8B%A5%E8%8B%A5%23" target="weibo">
-刘嘉瑞 若若（热度：1956586）
 </a>
 </li>
 
@@ -425,12 +431,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%B0%B8%E5%81%A5%E4%BA%BA%E6%97%A5%E5%8F%91%E6%96%87%E6%89%B9%E6%9F%90%E9%A1%B6%E6%B5%81%E6%BC%94%E5%91%98%E6%8E%92%E5%9C%BA%E5%A4%A7%23" target="weibo">
 林永健人日发文批某顶流演员排场大（热度：1543352）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%98%E8%85%B0%E7%9F%AD%E5%89%A7%E4%B8%8B%E6%9E%B6%23" target="weibo">
-折腰短剧下架（热度：1543019）
 </a>
 </li>
 
@@ -4341,6 +4341,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9113%E4%B8%87%E6%9E%9A%E6%AF%94%E7%89%B9%E5%B8%81%E8%A2%AB%E6%9F%A5%E8%8E%B7%23" target="weibo">
+近13万枚比特币被查获（热度：495684）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E4%BD%A9%E5%B2%91%E4%B8%BB%E6%8C%81%E5%A4%AE%E8%A7%86%E7%A7%8B%E6%99%9A%23" target="weibo">
 侯佩岑主持央视秋晚（热度：495661）
 </a>
@@ -4487,12 +4493,6 @@ iG回家（热度：487321）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%AE%98%E5%AE%A3%E5%A7%90%E5%A7%90%E5%8A%A0%E7%9B%9F%23" target="weibo">
 披荆斩棘官宣姐姐加盟（热度：484633）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%9113%E4%B8%87%E6%9E%9A%E6%AF%94%E7%89%B9%E5%B8%81%E8%A2%AB%E6%9F%A5%E8%8E%B7%23" target="weibo">
-近13万枚比特币被查获（热度：484035）
 </a>
 </li>
 
@@ -5607,6 +5607,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%96%E5%87%BA500%E5%85%8B%E9%BB%84%E9%87%91%20%E6%97%A5%E8%B5%9A%E4%BA%94%E4%B8%87%23" target="weibo">
+卖出500克黄金 日赚五万（热度：405028）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91%23" target="weibo">
 现在就出发（热度：404972）
 </a>
@@ -6005,12 +6011,6 @@ Wei什么（热度：385683）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E5%AE%9A%E4%BA%B2%E5%B7%AE15%E4%B8%87%E8%80%81%E6%9D%BF%E7%9B%B4%E6%8E%A5%E6%8B%BF20%E4%B8%87%23" target="weibo">
 员工定亲差15万老板直接拿20万（热度：378556）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B4%E5%8F%91%E5%B0%BD%E9%87%8F%E4%B8%8D%E8%A6%81%E6%B4%97%E5%BE%97%E5%A4%AA%E5%8B%A4%23" target="weibo">
-头发尽量不要洗得太勤（热度：378245）
 </a>
 </li>
 
