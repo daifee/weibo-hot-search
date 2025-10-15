@@ -1,6 +1,6 @@
 {
   "startTime": 1760545770711,
-  "endTime": 1760554196292,
+  "endTime": 1760556084175,
   "band_list": [
     {
       "raw_hot": 990684,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 21992,
-      "num": 31416,
+      "num": 33209,
       "word": "纽约接到杨幂到达",
       "onboard_time": 1760551817,
       "rank": 27,
@@ -492,15 +492,15 @@
     },
     {
       "raw_hot": 19094,
-      "num": 31262,
+      "num": 33040,
       "word": "君无戏炎",
       "onboard_time": 1760550497,
       "rank": 34,
       "category": "剧集"
     },
     {
-      "raw_hot": 16739,
-      "num": 31026,
+      "raw_hot": 17280,
+      "num": 33184,
       "word": "京东补贴",
       "onboard_time": 1760533582,
       "rank": 45,
@@ -548,10 +548,18 @@
     },
     {
       "raw_hot": 14838,
-      "num": 18948,
+      "num": 33005,
       "word": "双十一领券神器出现了",
       "onboard_time": 1760533582,
       "rank": 47,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 13285,
+      "num": 32907,
+      "word": "京东现货",
+      "onboard_time": 1760526321,
+      "rank": 44,
       "category": "互联网"
     },
     {

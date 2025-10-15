@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/16 00:29:30 ~ 2025/10/16 02:49:56
+本榜单时间：2025/10/16 00:29:30 ~ 2025/10/16 03:21:24
 </p>
 </blockquote>
 <p>
@@ -388,7 +388,7 @@ M5芯片（热度：75426）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E8%A1%A5%E8%B4%B4%23" target="weibo">
-京东补贴（热度：16739）
+京东补贴（热度：17280）
 </a>
 </li>
 
@@ -425,6 +425,12 @@ S15瑞士轮第二轮抽签（热度：16372）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%E9%A2%86%E5%88%B8%E7%A5%9E%E5%99%A8%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
 双十一领券神器出现了（热度：14838）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E7%8E%B0%E8%B4%A7%23" target="weibo">
+京东现货（热度：13285）
 </a>
 </li>
 
