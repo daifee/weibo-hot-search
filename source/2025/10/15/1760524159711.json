@@ -1,0 +1,410 @@
+{
+  "runTime": 1760524159711,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5973099,
+        "num": 5973099,
+        "word": "蔡国强烟花秀调查情况",
+        "onboard_time": 1760515580,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 639768,
+        "num": 639768,
+        "word": "100T爆冷战胜BLG",
+        "onboard_time": 1760518942,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20935,
+        "num": 390696,
+        "word": "非凡十四五",
+        "onboard_time": 1760517860,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2100294,
+        "num": 351529,
+        "word": "再见爱人5官宣",
+        "onboard_time": 1760521103,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281077,
+        "num": 281077,
+        "word": "刘安琪解约",
+        "onboard_time": 1760521460,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 259284,
+        "num": 259284,
+        "word": "瑞达",
+        "onboard_time": 1760520321,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 240529,
+        "num": 240529,
+        "word": "入戏 影视化",
+        "onboard_time": 1760520622,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231825,
+        "num": 231825,
+        "word": "28nm芯片",
+        "onboard_time": 1760519902,
+        "rank": 7,
+        "category": "议题讨论,数码"
+      },
+      {
+        "raw_hot": 178409,
+        "num": 229693,
+        "word": "BLG惊天2.2",
+        "onboard_time": 1760523142,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176084,
+        "num": 228175,
+        "word": "美国救不了台湾的稀土荒",
+        "onboard_time": 1760515941,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 786895,
+        "num": 226633,
+        "word": "黄子韬徐艺洋接吻婚纱照",
+        "onboard_time": 1760514501,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526754,
+        "num": 224054,
+        "word": "雍和宫 仅退款",
+        "onboard_time": 1760518161,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 501902,
+        "num": 221509,
+        "word": "内娱四位粉丝破百万的站姐",
+        "onboard_time": 1760522601,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487704,
+        "num": 218383,
+        "word": "始祖鸟承担相应赔偿修复责任",
+        "onboard_time": 1760516721,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 274373,
+        "num": 216132,
+        "word": "女子吸毒鼻沾K粉被海关当场抓获",
+        "onboard_time": 1760512399,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 400059,
+        "num": 213697,
+        "word": "黄子韬徐艺洋婚纱照 全是右脸",
+        "onboard_time": 1760517860,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213290,
+        "num": 213290,
+        "word": "突然悟到了上班打扮漂亮的意义",
+        "onboard_time": 1760523561,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 209610,
+        "num": 209610,
+        "word": "村长李锐在迪拜拿下超12亿订单",
+        "onboard_time": 1760512521,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42875,
+        "num": 206301,
+        "word": "整个微博都在抽猫盒",
+        "onboard_time": 1760522841,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 205901,
+        "num": 205901,
+        "word": "西藏江孜县委书记被免职",
+        "onboard_time": 1760517501,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 280228,
+        "num": 205154,
+        "word": "王霏霏瘦了八斤大大方方的",
+        "onboard_time": 1760521220,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249647,
+        "num": 201380,
+        "word": "初三女生家门口遭同班男生杀害",
+        "onboard_time": 1760501961,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216264,
+        "num": 197518,
+        "word": "这个变美方法是真便宜啊",
+        "onboard_time": 1760523382,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 182990,
+        "num": 193901,
+        "word": "朱丹删除女儿作品在卢浮宫展出帖子",
+        "onboard_time": 1760523082,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193509,
+        "num": 193509,
+        "word": "成毅人民日报对话",
+        "onboard_time": 1760523561,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45490,
+        "num": 192897,
+        "word": "天猫双11美妆补贴历史新高",
+        "onboard_time": 1760521103,
+        "rank": 25,
+        "category": "美妆,互联网"
+      },
+      {
+        "raw_hot": 36846,
+        "num": 192405,
+        "word": "面对中国美国只剩自残招数",
+        "onboard_time": 1760522601,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192342,
+        "num": 192342,
+        "word": "再见爱人5有邓莎",
+        "onboard_time": 1760523801,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170329,
+        "num": 170329,
+        "word": "微信回应出朋友圈访客功能",
+        "onboard_time": 1760523142,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168311,
+        "num": 168311,
+        "word": "王源演唱会宜昌站官宣",
+        "onboard_time": 1760523922,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14302,
+        "num": 165931,
+        "word": "中方回应特朗普涉大豆言论",
+        "onboard_time": 1760523981,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165278,
+        "num": 165278,
+        "word": "汪峰抱着森林北难舍难分",
+        "onboard_time": 1760513480,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164873,
+        "num": 164873,
+        "word": "蔡国强烟花秀影响草地面积30.06公顷",
+        "onboard_time": 1760518401,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121283,
+        "num": 163335,
+        "word": "再见爱人",
+        "onboard_time": 1760520981,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163160,
+        "num": 163160,
+        "word": "国乒女团vs日本",
+        "onboard_time": 1760520681,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157106,
+        "num": 162867,
+        "word": "Fly对战T1",
+        "onboard_time": 1760522660,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160323,
+        "num": 162590,
+        "word": "BLG对战100T",
+        "onboard_time": 1760516302,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158445,
+        "num": 162341,
+        "word": "网易恭喜QQ音乐",
+        "onboard_time": 1760505201,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 26095,
+        "num": 162091,
+        "word": "汕头唯一西贝门店将闭店",
+        "onboard_time": 1760523020,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120608,
+        "num": 161551,
+        "word": "终于有这么宠我的婆婆了",
+        "onboard_time": 1760523801,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27465,
+        "num": 161296,
+        "word": "秋冬季节吹空调容易晕的原因",
+        "onboard_time": 1760521640,
+        "rank": 40,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 146909,
+        "num": 160838,
+        "word": "管泽元 阿bin",
+        "onboard_time": 1760521521,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160672,
+        "num": 160672,
+        "word": "王曼昱vs桥本帆乃香",
+        "onboard_time": 1760521401,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159322,
+        "num": 159322,
+        "word": "肖战小城良方开通官方账号",
+        "onboard_time": 1760522541,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148296,
+        "num": 148296,
+        "word": "外交部回应韩国正与中国谈判",
+        "onboard_time": 1760523922,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130983,
+        "num": 130983,
+        "word": "微信公关总监回应朋友圈凉了",
+        "onboard_time": 1760520981,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129846,
+        "num": 129846,
+        "word": "立案查处蔡国强工作室违法行为",
+        "onboard_time": 1760516721,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 128258,
+        "num": 128258,
+        "word": "孙颖莎vs张本美和",
+        "onboard_time": 1760520801,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127401,
+        "num": 127401,
+        "word": "上拉如开上奔驰了",
+        "onboard_time": 1760524102,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 126475,
+        "num": 126475,
+        "word": "小酒窝让董璇来学校前化化妆",
+        "onboard_time": 1760517680,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这份关心从未改变#"
+    }
+  }
+}

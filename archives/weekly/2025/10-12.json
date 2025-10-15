@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760521327992,
+  "endTime": 1760524159711,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -41,6 +41,14 @@
       "onboard_time": 1760442922,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2100294,
+      "num": 351529,
+      "word": "再见爱人5官宣",
+      "onboard_time": 1760521103,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 1886560,
@@ -1211,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 526754,
+      "num": 224054,
+      "word": "雍和宫 仅退款",
+      "onboard_time": 1760518161,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 525204,
       "num": 525204,
       "word": "雷军被8000元小刀价格惊呆了",
@@ -1312,6 +1328,14 @@
       "word": "白鹿想染头发",
       "onboard_time": 1760247382,
       "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 501902,
+      "num": 221509,
+      "word": "内娱四位粉丝破百万的站姐",
+      "onboard_time": 1760522601,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -1457,14 +1481,6 @@
       "onboard_time": 1760248461,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 472250,
-      "num": 195910,
-      "word": "雍和宫 仅退款",
-      "onboard_time": 1760518161,
-      "rank": 16,
-      "category": "幽默"
     },
     {
       "raw_hot": 471484,
@@ -1851,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 400059,
+      "num": 213697,
+      "word": "黄子韬徐艺洋婚纱照 全是右脸",
+      "onboard_time": 1760517860,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 399335,
       "num": 399335,
       "word": "千万富翁给丢失25年儿子婚礼办40桌",
@@ -2217,14 +2241,6 @@
       "onboard_time": 1760454083,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 327379,
-      "num": 195881,
-      "word": "黄子韬徐艺洋婚纱照 全是右脸",
-      "onboard_time": 1760517860,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 325356,
@@ -2603,12 +2619,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 281077,
+      "num": 281077,
+      "word": "刘安琪解约",
+      "onboard_time": 1760521460,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 280876,
       "num": 280876,
       "word": "缅北果敢魏家犯罪集团专案细节曝光",
       "onboard_time": 1760505139,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 280228,
+      "num": 205154,
+      "word": "王霏霏瘦了八斤大大方方的",
+      "onboard_time": 1760521220,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 279279,
@@ -2963,6 +2995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240529,
+      "num": 240529,
+      "word": "入戏 影视化",
+      "onboard_time": 1760520622,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238454,
       "num": 218234,
       "word": "一胎过成了二胎的待遇",
@@ -3033,6 +3073,14 @@
       "onboard_time": 1760185281,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231825,
+      "num": 231825,
+      "word": "28nm芯片",
+      "onboard_time": 1760519902,
+      "rank": 26,
+      "category": "议题讨论,数码"
     },
     {
       "raw_hot": 230975,
@@ -3171,14 +3219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220372,
-      "num": 191010,
-      "word": "28nm芯片",
-      "onboard_time": 1760519902,
-      "rank": 26,
-      "category": "议题讨论,数码"
-    },
-    {
       "raw_hot": 220225,
       "num": 198304,
       "word": "曝LPL俱乐部投入",
@@ -3251,6 +3291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 216264,
+      "num": 197518,
+      "word": "这个变美方法是真便宜啊",
+      "onboard_time": 1760523382,
+      "rank": 22,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 215507,
       "num": 215507,
       "word": "王楚钦不敌松岛辉空",
@@ -3281,6 +3329,14 @@
       "onboard_time": 1760504541,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213290,
+      "num": 213290,
+      "word": "突然悟到了上班打扮漂亮的意义",
+      "onboard_time": 1760523561,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 211797,
@@ -3320,14 +3376,6 @@
       "word": "你好种地少年3",
       "onboard_time": 1760322920,
       "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 209430,
-      "num": 209430,
-      "word": "再见爱人5官宣",
-      "onboard_time": 1760521103,
-      "rank": 8,
       "category": "综艺"
     },
     {
@@ -3691,12 +3739,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193182,
-      "num": 193182,
-      "word": "入戏 影视化",
-      "onboard_time": 1760520622,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 193509,
+      "num": 193509,
+      "word": "成毅人民日报对话",
+      "onboard_time": 1760523561,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 192913,
@@ -3729,6 +3777,14 @@
       "onboard_time": 1760452104,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192342,
+      "num": 192342,
+      "word": "再见爱人5有邓莎",
+      "onboard_time": 1760523801,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 191970,
@@ -3907,6 +3963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182990,
+      "num": 193901,
+      "word": "朱丹删除女儿作品在卢浮宫展出帖子",
+      "onboard_time": 1760523082,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182726,
       "num": 182726,
       "word": "王鹤棣工作室艾特的是谁啊",
@@ -3977,6 +4041,14 @@
       "onboard_time": 1760421622,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178409,
+      "num": 229693,
+      "word": "BLG惊天2.2",
+      "onboard_time": 1760523142,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 178263,
@@ -4259,6 +4331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 170329,
+      "num": 170329,
+      "word": "微信回应出朋友圈访客功能",
+      "onboard_time": 1760523142,
+      "rank": 28,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 170254,
       "num": 170254,
       "word": "光遇复刻",
@@ -4321,6 +4401,14 @@
       "onboard_time": 1760325142,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 168311,
+      "num": 168311,
+      "word": "王源演唱会宜昌站官宣",
+      "onboard_time": 1760523922,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 168155,
@@ -4427,6 +4515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163160,
+      "num": 163160,
+      "word": "国乒女团vs日本",
+      "onboard_time": 1760520681,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163043,
       "num": 163043,
       "word": "王楚钦vs霍戴伊",
@@ -4515,6 +4611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160672,
+      "num": 160672,
+      "word": "王曼昱vs桥本帆乃香",
+      "onboard_time": 1760521401,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160330,
       "num": 156634,
       "word": "建议久坐的人每天喝够水",
@@ -4561,6 +4665,14 @@
       "onboard_time": 1760192242,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159322,
+      "num": 159322,
+      "word": "肖战小城良方开通官方账号",
+      "onboard_time": 1760522541,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 159286,
@@ -4665,6 +4777,14 @@
       "onboard_time": 1760491879,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 157106,
+      "num": 162867,
+      "word": "Fly对战T1",
+      "onboard_time": 1760522660,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 157094,
@@ -5019,6 +5139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148296,
+      "num": 148296,
+      "word": "外交部回应韩国正与中国谈判",
+      "onboard_time": 1760523922,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 148194,
       "num": 205882,
       "word": "中国对5家美国相关子公司采取反制措施",
@@ -5040,6 +5168,14 @@
       "word": "iG拿下火龙魂",
       "onboard_time": 1760433021,
       "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 146909,
+      "num": 160838,
+      "word": "管泽元 阿bin",
+      "onboard_time": 1760521521,
+      "rank": 41,
       "category": "电竞"
     },
     {
@@ -5065,14 +5201,6 @@
       "onboard_time": 1760199862,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146309,
-      "num": 146309,
-      "word": "国乒女团vs日本",
-      "onboard_time": 1760520681,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 146125,
@@ -5393,14 +5521,6 @@
       "onboard_time": 1760494400,
       "rank": 28,
       "category": "教育"
-    },
-    {
-      "raw_hot": 139420,
-      "num": 139420,
-      "word": "王霏霏瘦了八斤大大方方的",
-      "onboard_time": 1760521220,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 139171,
@@ -5787,6 +5907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130983,
+      "num": 130983,
+      "word": "微信公关总监回应朋友圈凉了",
+      "onboard_time": 1760520981,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 130950,
       "num": 130950,
       "word": "邱贻可摸孙颖莎小脑袋",
@@ -5993,6 +6121,14 @@
       "onboard_time": 1760324120,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127401,
+      "num": 127401,
+      "word": "上拉如开上奔驰了",
+      "onboard_time": 1760524102,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 127243,
@@ -6467,14 +6603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121832,
-      "num": 121832,
-      "word": "微信公关总监回应朋友圈凉了",
-      "onboard_time": 1760520981,
-      "rank": 48,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 121595,
       "num": 207040,
       "word": "这个十月到底哪三家在对打",
@@ -6553,6 +6681,14 @@
       "onboard_time": 1760272159,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 120608,
+      "num": 161551,
+      "word": "终于有这么宠我的婆婆了",
+      "onboard_time": 1760523801,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 120376,
@@ -7236,7 +7372,7 @@
     },
     {
       "raw_hot": 113254,
-      "num": 190280,
+      "num": 192897,
       "word": "天猫双11美妆补贴历史新高",
       "onboard_time": 1760521103,
       "rank": 25,
@@ -12099,6 +12235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42875,
+      "num": 206301,
+      "word": "整个微博都在抽猫盒",
+      "onboard_time": 1760522841,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 42723,
       "num": 172029,
       "word": "抽猫盒集猫猫得红包",
@@ -12353,6 +12497,14 @@
       "onboard_time": 1760340801,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36846,
+      "num": 192405,
+      "word": "面对中国美国只剩自残招数",
+      "onboard_time": 1760522601,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36769,
@@ -12627,6 +12779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27465,
+      "num": 161296,
+      "word": "秋冬季节吹空调容易晕的原因",
+      "onboard_time": 1760521640,
+      "rank": 40,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 27329,
       "num": 99561,
       "word": "那英努力在天赋面前的无力感",
@@ -12657,6 +12817,14 @@
       "onboard_time": 1760463136,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26095,
+      "num": 162091,
+      "word": "汕头唯一西贝门店将闭店",
+      "onboard_time": 1760523020,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26045,
@@ -12913,6 +13081,14 @@
       "onboard_time": 1760513900,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14302,
+      "num": 165931,
+      "word": "中方回应特朗普涉大豆言论",
+      "onboard_time": 1760523981,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14114,
