@@ -1,10 +1,10 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760518174265,
+  "endTime": 1760520532286,
   "band_list": [
     {
-      "raw_hot": 3108485,
-      "num": 250849,
+      "raw_hot": 8585988,
+      "num": 9793919,
       "word": "蔡国强烟花秀调查情况",
       "onboard_time": 1760515580,
       "rank": 3,
@@ -17,6 +17,14 @@
       "onboard_time": 1760514501,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1585620,
+      "num": 1585620,
+      "word": "100T爆冷战胜BLG",
+      "onboard_time": 1760518942,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 1543352,
@@ -123,12 +131,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 844326,
+      "num": 844326,
+      "word": "BLG对战100T",
+      "onboard_time": 1760516302,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 772428,
       "num": 933588,
       "word": "国乒男团3比2逆转日本",
       "onboard_time": 1760483117,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 747625,
+      "num": 232463,
+      "word": "始祖鸟承担相应赔偿修复责任",
+      "onboard_time": 1760516721,
+      "rank": 18,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 713915,
@@ -145,14 +169,6 @@
       "onboard_time": 1760453602,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 691151,
-      "num": 232463,
-      "word": "始祖鸟承担相应赔偿修复责任",
-      "onboard_time": 1760516721,
-      "rank": 18,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 673107,
@@ -315,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416879,
+      "num": 208279,
+      "word": "西藏江孜县委书记被免职",
+      "onboard_time": 1760517501,
+      "rank": 23,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 414349,
       "num": 192364,
       "word": "姜珮瑶 偏偏你最争气",
@@ -419,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335933,
+      "num": 195910,
+      "word": "雍和宫 仅退款",
+      "onboard_time": 1760518161,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 332216,
       "num": 332216,
       "word": "杨瀚森库里互飙三分",
@@ -443,6 +475,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327379,
+      "num": 195881,
+      "word": "黄子韬徐艺洋婚纱照 全是右脸",
+      "onboard_time": 1760517860,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 325356,
+      "num": 325356,
+      "word": "BLG状态",
+      "onboard_time": 1760518523,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 316517,
       "num": 316517,
       "word": "你在南方吹空调我在北方看雾凇",
@@ -465,6 +513,14 @@
       "onboard_time": 1760509221,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 309613,
+      "num": 309613,
+      "word": "Bin被单杀",
+      "onboard_time": 1760518523,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 309342,
@@ -539,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 269808,
-      "num": 208279,
-      "word": "西藏江孜县委书记被免职",
-      "onboard_time": 1760517501,
-      "rank": 23,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 267059,
       "num": 211520,
       "word": "别亲了要生小小咪了",
@@ -555,20 +603,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 254468,
-      "num": 254468,
-      "word": "BLG对战100T",
-      "onboard_time": 1760516302,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 251746,
       "num": 251746,
       "word": "九重紫执行制片人参加芒果恋综",
       "onboard_time": 1760510001,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241986,
+      "num": 241986,
+      "word": "美国救不了台湾的稀土荒",
+      "onboard_time": 1760515941,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 235938,
@@ -584,6 +632,14 @@
       "word": "网购卫生巾上有手写字",
       "onboard_time": 1760502622,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227204,
+      "num": 195617,
+      "word": "蔡国强烟花秀影响草地面积30.06公顷",
+      "onboard_time": 1760518401,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -651,6 +707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 207389,
+      "num": 207389,
+      "word": "王牌对王牌",
+      "onboard_time": 1760519661,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207373,
       "num": 126918,
       "word": "国乒男团1比2日本",
@@ -707,20 +771,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 196177,
+      "num": 246006,
+      "word": "鸡排哥 炸鸡叔",
+      "onboard_time": 1760511140,
+      "rank": 25,
+      "category": "民生新闻,幽默"
+    },
+    {
+      "raw_hot": 195564,
+      "num": 195564,
+      "word": "黄晓明曾因闹太套的梗抑郁",
+      "onboard_time": 1760517680,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 191010,
+      "num": 191010,
+      "word": "28nm芯片",
+      "onboard_time": 1760519902,
+      "rank": 26,
+      "category": "议题讨论,数码"
+    },
+    {
       "raw_hot": 190156,
       "num": 190156,
       "word": "升龙烟花秀多人被处理",
       "onboard_time": 1760516601,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187769,
-      "num": 246006,
-      "word": "鸡排哥 炸鸡叔",
-      "onboard_time": 1760511140,
-      "rank": 25,
-      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 187436,
@@ -771,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181602,
+      "num": 181602,
+      "word": "瑞达",
+      "onboard_time": 1760520321,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 178331,
       "num": 135593,
       "word": "黄灿灿用了李煜东的bgm",
@@ -779,11 +867,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 177939,
-      "num": 177939,
-      "word": "黄子韬徐艺洋婚纱照 全是右脸",
-      "onboard_time": 1760517860,
-      "rank": 26,
+      "raw_hot": 177910,
+      "num": 177910,
+      "word": "小酒窝让董璇来学校前化化妆",
+      "onboard_time": 1760517680,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -1147,12 +1235,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130261,
-      "num": 130261,
-      "word": "美国救不了台湾的稀土荒",
-      "onboard_time": 1760515941,
-      "rank": 34,
-      "category": "国内时政"
+      "raw_hot": 129092,
+      "num": 129092,
+      "word": "林永健在人民日报撰文",
+      "onboard_time": 1760516302,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 129055,
@@ -1161,6 +1249,14 @@
       "onboard_time": 1760509040,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129038,
+      "num": 129038,
+      "word": "萧山机场保洁阿姨",
+      "onboard_time": 1760518341,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128131,
@@ -1201,6 +1297,30 @@
       "onboard_time": 1760510600,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125972,
+      "num": 125972,
+      "word": "王楚钦林诗栋拥抱",
+      "onboard_time": 1760519843,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125417,
+      "num": 125417,
+      "word": "刘宇宁张艺兴 隔空二搭",
+      "onboard_time": 1760519183,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124372,
+      "num": 124372,
+      "word": "小黄豆谈网红结婚随礼",
+      "onboard_time": 1760519002,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 123583,
@@ -1267,14 +1387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119468,
-      "num": 119468,
-      "word": "林永健在人民日报撰文",
-      "onboard_time": 1760516302,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119350,
       "num": 119350,
       "word": "潘玮柏菜到嘴边被欧阳娜娜偷了",
@@ -1331,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116953,
+      "num": 116953,
+      "word": "在村里开饭店被全村人嘲笑",
+      "onboard_time": 1760520381,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116440,
       "num": 217243,
       "word": "日喀则江孜县主要领导被追责问责",
@@ -1363,6 +1483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114656,
+      "num": 114656,
+      "word": "樊振东十五运参加男单男团",
+      "onboard_time": 1760516841,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114133,
       "num": 114133,
       "word": "入青云 还我凉亭吻",
@@ -1379,6 +1507,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 114046,
+      "num": 114046,
+      "word": "蔡国强烟花秀对土壤草毡层造成破坏",
+      "onboard_time": 1760519661,
+      "rank": 44,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 113815,
       "num": 113815,
       "word": "姿态众人谈iG失利原因",
@@ -1393,6 +1529,14 @@
       "onboard_time": 1760517320,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 112913,
+      "num": 123823,
+      "word": "辛芷蕾不许开这种玩笑",
+      "onboard_time": 1760516480,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 112650,
@@ -1611,14 +1755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103047,
-      "num": 103047,
-      "word": "樊振东十五运参加男单男团",
-      "onboard_time": 1760516841,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102362,
       "num": 102362,
       "word": "女子1千元找不到人为临终父亲理发",
@@ -1667,14 +1803,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 100189,
-      "num": 123823,
-      "word": "辛芷蕾不许开这种玩笑",
-      "onboard_time": 1760516480,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 99612,
       "num": 99612,
       "word": "意外运到美国的中国小猫已恢复健康",
@@ -1689,6 +1817,14 @@
       "onboard_time": 1760450903,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98023,
+      "num": 117631,
+      "word": "一笑随歌好大一张床",
+      "onboard_time": 1760519241,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 96491,
@@ -2051,6 +2187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80418,
+      "num": 120302,
+      "word": "男子维修ATM机后感染致命病菌",
+      "onboard_time": 1760520081,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80169,
       "num": 80169,
       "word": "王楚钦两次摸头安慰梁靖崑",
@@ -2275,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62081,
+      "num": 114158,
+      "word": "郭品超觉醒山东人考公血脉",
+      "onboard_time": 1760518942,
+      "rank": 43,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 61570,
       "num": 96227,
       "word": "张馨予家里已经生了100多条小鱼了",
@@ -2395,6 +2547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55788,
+      "num": 118583,
+      "word": "台积电高管回应新凯来技术发展",
+      "onboard_time": 1760519541,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54780,
       "num": 44457,
       "word": "王楚钦呐喊鼓劲",
@@ -2467,14 +2627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 50176,
-      "num": 118286,
-      "word": "小酒窝让董璇来学校前化化妆",
-      "onboard_time": 1760517680,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 50141,
       "num": 79215,
       "word": "做多黄金成最拥挤交易",
@@ -2483,20 +2635,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 46278,
+      "num": 123107,
+      "word": "你可能一直都在无效化妆",
+      "onboard_time": 1760518761,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 45983,
       "num": 204819,
       "word": "直击湾芯展",
       "onboard_time": 1760497281,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 45745,
-      "num": 118100,
-      "word": "黄晓明曾因闹太套的梗抑郁",
-      "onboard_time": 1760517680,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 43781,
@@ -2561,6 +2713,14 @@
       "onboard_time": 1760502081,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 37230,
+      "num": 105763,
+      "word": "杨瀚森CBA球衣亮相开拓者主场",
+      "onboard_time": 1760518883,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 34929,
@@ -2651,6 +2811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26851,
+      "num": 1043740,
+      "word": "非凡十四五",
+      "onboard_time": 1760517860,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26508,
       "num": 770075,
       "word": "张雨霏希望30岁还能站上奥运赛场",
@@ -2739,12 +2907,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10608,
-      "num": 253664,
-      "word": "非凡十四五",
-      "onboard_time": 1760517860,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 9826,
+      "num": 122849,
+      "word": "保安将学生外卖扔进花坛",
+      "onboard_time": 1760520022,
+      "rank": 37,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

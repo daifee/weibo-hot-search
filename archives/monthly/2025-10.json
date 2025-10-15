@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760518174265,
+  "endTime": 1760520532286,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -25,6 +25,14 @@
       "onboard_time": 1759988781,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 8585988,
+      "num": 9793919,
+      "word": "蔡国强烟花秀调查情况",
+      "onboard_time": 1760515580,
+      "rank": 3,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 8491801,
@@ -88,14 +96,6 @@
       "word": "北京交警通报陈震发生车祸",
       "onboard_time": 1759550240,
       "rank": 0,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 3108485,
-      "num": 250849,
-      "word": "蔡国强烟花秀调查情况",
-      "onboard_time": 1760515580,
-      "rank": 3,
       "category": "辟谣/通报"
     },
     {
@@ -489,6 +489,14 @@
       "onboard_time": 1760162060,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1585620,
+      "num": 1585620,
+      "word": "100T爆冷战胜BLG",
+      "onboard_time": 1760518942,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 1574027,
@@ -2331,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 844326,
+      "num": 844326,
+      "word": "BLG对战100T",
+      "onboard_time": 1760516302,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 843326,
       "num": 256080,
       "word": "英皇欠债派惠英红老太勇夺高奢",
@@ -2891,6 +2907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 747625,
+      "num": 232463,
+      "word": "始祖鸟承担相应赔偿修复责任",
+      "onboard_time": 1760516721,
+      "rank": 18,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 742367,
       "num": 877129,
       "word": "国庆",
@@ -3209,14 +3233,6 @@
       "onboard_time": 1759715779,
       "rank": 19,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 691151,
-      "num": 232463,
-      "word": "始祖鸟承担相应赔偿修复责任",
-      "onboard_time": 1760516721,
-      "rank": 18,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 691065,
@@ -7083,6 +7099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 416879,
+      "num": 208279,
+      "word": "西藏江孜县委书记被免职",
+      "onboard_time": 1760517501,
+      "rank": 23,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 416788,
       "num": 416788,
       "word": "永劫无间",
@@ -8731,6 +8755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 335933,
+      "num": 195910,
+      "word": "雍和宫 仅退款",
+      "onboard_time": 1760518161,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 335752,
       "num": 335752,
       "word": "脚踢2学生小学老师被辞退",
@@ -8939,6 +8971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327379,
+      "num": 195881,
+      "word": "黄子韬徐艺洋婚纱照 全是右脸",
+      "onboard_time": 1760517860,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 327154,
       "num": 259930,
       "word": "苏超无锡3比0盐城",
@@ -8977,6 +9017,14 @@
       "onboard_time": 1759923142,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 325356,
+      "num": 325356,
+      "word": "BLG状态",
+      "onboard_time": 1760518523,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 325249,
@@ -9545,6 +9593,14 @@
       "onboard_time": 1759243283,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 309613,
+      "num": 309613,
+      "word": "Bin被单杀",
+      "onboard_time": 1760518523,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 309342,
@@ -10899,14 +10955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 269808,
-      "num": 208279,
-      "word": "西藏江孜县委书记被免职",
-      "onboard_time": 1760517501,
-      "rank": 23,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 269620,
       "num": 269620,
       "word": "杨瀚森连进两记三分",
@@ -11435,14 +11483,6 @@
       "category": "作品衍生,幽默"
     },
     {
-      "raw_hot": 254468,
-      "num": 254468,
-      "word": "BLG对战100T",
-      "onboard_time": 1760516302,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 254440,
       "num": 217267,
       "word": "接下来都是考考考",
@@ -11953,6 +11993,14 @@
       "onboard_time": 1759464321,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241986,
+      "num": 241986,
+      "word": "美国救不了台湾的稀土荒",
+      "onboard_time": 1760515941,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 241917,
@@ -12561,6 +12609,14 @@
       "onboard_time": 1760329704,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227204,
+      "num": 195617,
+      "word": "蔡国强烟花秀影响草地面积30.06公顷",
+      "onboard_time": 1760518401,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 227188,
@@ -13651,6 +13707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207389,
+      "num": 207389,
+      "word": "王牌对王牌",
+      "onboard_time": 1759986200,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207373,
       "num": 126918,
       "word": "国乒男团1比2日本",
@@ -14691,6 +14755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196177,
+      "num": 246006,
+      "word": "鸡排哥 炸鸡叔",
+      "onboard_time": 1760511140,
+      "rank": 25,
+      "category": "民生新闻,幽默"
+    },
+    {
       "raw_hot": 196156,
       "num": 196156,
       "word": "唐艺昕和女儿亲子装出游",
@@ -14753,6 +14825,14 @@
       "onboard_time": 1759403241,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 195564,
+      "num": 195564,
+      "word": "黄晓明曾因闹太套的梗抑郁",
+      "onboard_time": 1760517680,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 195234,
@@ -15235,6 +15315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191010,
+      "num": 191010,
+      "word": "28nm芯片",
+      "onboard_time": 1760519902,
+      "rank": 26,
+      "category": "议题讨论,数码"
+    },
+    {
       "raw_hot": 190738,
       "num": 190738,
       "word": "李沁 英气",
@@ -15601,14 +15689,6 @@
       "onboard_time": 1759916841,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187769,
-      "num": 246006,
-      "word": "鸡排哥 炸鸡叔",
-      "onboard_time": 1760511140,
-      "rank": 25,
-      "category": "民生新闻,幽默"
     },
     {
       "raw_hot": 187577,
@@ -16243,6 +16323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 181602,
+      "num": 181602,
+      "word": "瑞达",
+      "onboard_time": 1760520321,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 181542,
       "num": 181542,
       "word": "KPL一千零一夜",
@@ -16643,19 +16731,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 177939,
-      "num": 177939,
-      "word": "黄子韬徐艺洋婚纱照 全是右脸",
-      "onboard_time": 1760517860,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177918,
       "num": 177918,
       "word": "64岁演员林俊贤景区打工",
       "onboard_time": 1759965558,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 177910,
+      "num": 177910,
+      "word": "小酒窝让董璇来学校前化化妆",
+      "onboard_time": 1760517680,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -19577,14 +19665,6 @@
       "onboard_time": 1759903880,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156039,
-      "num": 156039,
-      "word": "王牌对王牌",
-      "onboard_time": 1759986200,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 155811,
@@ -24571,14 +24651,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 130261,
-      "num": 130261,
-      "word": "美国救不了台湾的稀土荒",
-      "onboard_time": 1760515941,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 130156,
       "num": 130156,
       "word": "奶皮子拿铁",
@@ -24835,6 +24907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129092,
+      "num": 129092,
+      "word": "林永健在人民日报撰文",
+      "onboard_time": 1760516302,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129055,
       "num": 145550,
       "word": "24节气中最早带寒的节气",
@@ -24849,6 +24929,14 @@
       "onboard_time": 1760509040,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129038,
+      "num": 129038,
+      "word": "萧山机场保洁阿姨",
+      "onboard_time": 1760518341,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129013,
@@ -25635,6 +25723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125972,
+      "num": 125972,
+      "word": "王楚钦林诗栋拥抱",
+      "onboard_time": 1760519843,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125970,
       "num": 125970,
       "word": "郑钦文退出中国赛季",
@@ -25769,6 +25865,14 @@
       "onboard_time": 1759883959,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125417,
+      "num": 125417,
+      "word": "刘宇宁张艺兴 隔空二搭",
+      "onboard_time": 1760519183,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 125387,
@@ -26089,6 +26193,14 @@
       "onboard_time": 1759896801,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124372,
+      "num": 124372,
+      "word": "小黄豆谈网红结婚随礼",
+      "onboard_time": 1760519002,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 124349,
@@ -27419,14 +27531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 119468,
-      "num": 119468,
-      "word": "林永健在人民日报撰文",
-      "onboard_time": 1760516302,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 119436,
       "num": 119436,
       "word": "法国股市直线跳水",
@@ -28275,6 +28379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116953,
+      "num": 116953,
+      "word": "在村里开饭店被全村人嘲笑",
+      "onboard_time": 1760520381,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 116930,
       "num": 389670,
       "word": "新中国成立76周年",
@@ -28955,6 +29067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 114656,
+      "num": 114656,
+      "word": "樊振东十五运参加男单男团",
+      "onboard_time": 1760516841,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114647,
       "num": 114647,
       "word": "许家印家族信托防线被击穿",
@@ -29105,6 +29225,14 @@
       "onboard_time": 1760515701,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 114046,
+      "num": 114046,
+      "word": "蔡国强烟花秀对土壤草毡层造成破坏",
+      "onboard_time": 1760519661,
+      "rank": 44,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 114015,
@@ -29529,6 +29657,14 @@
       "onboard_time": 1759462340,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112913,
+      "num": 123823,
+      "word": "辛芷蕾不许开这种玩笑",
+      "onboard_time": 1760516480,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 112908,
@@ -33379,14 +33515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 103047,
-      "num": 103047,
-      "word": "樊振东十五运参加男单男团",
-      "onboard_time": 1760516841,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 103035,
       "num": 159875,
       "word": "大使馆回应亚锦赛错误旗帜事件",
@@ -34331,14 +34459,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 100189,
-      "num": 123823,
-      "word": "辛芷蕾不许开这种玩笑",
-      "onboard_time": 1760516480,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 100186,
       "num": 100186,
       "word": "孙颖莎陈幸同每一局都好接近",
@@ -35065,6 +35185,14 @@
       "onboard_time": 1759897161,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98023,
+      "num": 117631,
+      "word": "一笑随歌好大一张床",
+      "onboard_time": 1760519241,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 98012,
@@ -41019,6 +41147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80418,
+      "num": 120302,
+      "word": "男子维修ATM机后感染致命病菌",
+      "onboard_time": 1760520081,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80399,
       "num": 80399,
       "word": "将上班内容可视化之后",
@@ -44083,6 +44219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62081,
+      "num": 114158,
+      "word": "郭品超觉醒山东人考公血脉",
+      "onboard_time": 1760518942,
+      "rank": 43,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 62032,
       "num": 62032,
       "word": "普京称美供乌战斧不会改变战场局势",
@@ -44815,6 +44959,14 @@
       "num": 109022,
       "word": "女子路遇野生猞猁直呼咪咪",
       "onboard_time": 1760173520,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55788,
+      "num": 118583,
+      "word": "台积电高管回应新凯来技术发展",
+      "onboard_time": 1760519541,
       "rank": 39,
       "category": "民生新闻"
     },
@@ -45611,14 +45763,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 50176,
-      "num": 118286,
-      "word": "小酒窝让董璇来学校前化化妆",
-      "onboard_time": 1760517680,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 50141,
       "num": 79215,
       "word": "做多黄金成最拥挤交易",
@@ -46027,6 +46171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46278,
+      "num": 123107,
+      "word": "你可能一直都在无效化妆",
+      "onboard_time": 1760518761,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 46258,
       "num": 89152,
       "word": "王曼昱刘海变条形码",
@@ -46065,14 +46217,6 @@
       "onboard_time": 1760337861,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45745,
-      "num": 118100,
-      "word": "黄晓明曾因闹太套的梗抑郁",
-      "onboard_time": 1760517680,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 45739,
@@ -46953,6 +47097,14 @@
       "onboard_time": 1760030596,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 37230,
+      "num": 105763,
+      "word": "杨瀚森CBA球衣亮相开拓者主场",
+      "onboard_time": 1760518883,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 37206,
@@ -48089,6 +48241,14 @@
       "onboard_time": 1759339996,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26851,
+      "num": 1043740,
+      "word": "非凡十四五",
+      "onboard_time": 1760517860,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26782,
@@ -49411,14 +49571,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 10608,
-      "num": 253664,
-      "word": "非凡十四五",
-      "onboard_time": 1760517860,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 10580,
       "num": 121954,
       "word": "医护人员投诉白天忙救人晚上要背稿",
@@ -49440,6 +49592,14 @@
       "word": "当地回应轿车坠海致1死",
       "onboard_time": 1760043433,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9826,
+      "num": 122849,
+      "word": "保安将学生外卖扔进花坛",
+      "onboard_time": 1760520022,
+      "rank": 37,
       "category": "民生新闻"
     },
     {

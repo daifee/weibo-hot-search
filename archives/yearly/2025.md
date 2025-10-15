@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/10/15 16:49:34
+本榜单时间：2025/01/01 00:26:38 ~ 2025/10/15 17:28:52
 </p>
 </blockquote>
 <p>
@@ -1209,6 +1209,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E5%9B%BD%E5%BC%BA%E7%83%9F%E8%8A%B1%E7%A7%80%E8%B0%83%E6%9F%A5%E6%83%85%E5%86%B5%23" target="weibo">
+蔡国强烟花秀调查情况（热度：8585988）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%9F%90%E8%8E%B9%E6%88%90%E7%BB%A9%E5%8D%95%E9%80%A0%E5%81%87%23" target="weibo">
 董某莹成绩单造假（热度：8493340）
 </a>
@@ -1805,12 +1811,6 @@ ALin秒了（热度：6171972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E9%A9%AC%E4%B8%BD%20%E4%BD%A0%E4%BB%AC%E6%80%8E%E4%B9%88%E5%9C%A8%E5%94%B1%E6%AD%8C%23" target="weibo">
 沈腾马丽 你们怎么在唱歌（热度：4801086）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
-歌手总决赛（热度：4783468）
 </a>
 </li>
 
