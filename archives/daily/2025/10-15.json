@@ -1,6 +1,6 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760502606866,
+  "endTime": 1760503398819,
   "band_list": [
     {
       "raw_hot": 1543352,
@@ -51,20 +51,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 951570,
+      "num": 790891,
+      "word": "特朗普抱怨称中国故意不买美国大豆",
+      "onboard_time": 1760500161,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 910262,
       "num": 270789,
       "word": "一直没明白为什么微信能取代QQ",
       "onboard_time": 1760496559,
       "rank": 14,
       "category": "互联网,幽默"
-    },
-    {
-      "raw_hot": 790891,
-      "num": 790891,
-      "word": "特朗普抱怨称中国故意不买美国大豆",
-      "onboard_time": 1760500161,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 772428,
@@ -96,6 +96,14 @@
       "word": "人体蜈蚣雕塑引景区致歉",
       "onboard_time": 1760486240,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 612964,
+      "num": 209562,
+      "word": "初三女生家门口遭同班男生杀害",
+      "onboard_time": 1760501961,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -219,6 +227,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 374426,
+      "num": 238661,
+      "word": "欢乐颂编剧谈杨紫小蚯蚓",
+      "onboard_time": 1760500522,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367707,
       "num": 367707,
       "word": "王者荣耀河灯",
@@ -305,22 +321,6 @@
       "onboard_time": 1760454623,
       "rank": 5,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 296409,
-      "num": 238661,
-      "word": "欢乐颂编剧谈杨紫小蚯蚓",
-      "onboard_time": 1760500522,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 281874,
-      "num": 209562,
-      "word": "初三女生家门口遭同班男生杀害",
-      "onboard_time": 1760501961,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 274531,
@@ -475,6 +475,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 183591,
+      "num": 183591,
+      "word": "谁是灵珠谁是魔丸我一眼就认出来了",
+      "onboard_time": 1760501540,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181891,
       "num": 181891,
       "word": "白敬亭32岁庆生照",
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 172562,
-      "num": 141764,
+      "num": 170387,
       "word": "iPhone键盘生小熊了",
       "onboard_time": 1760502261,
       "rank": 31,
@@ -512,6 +520,14 @@
       "word": "黄宗泽 陈俊生丈母娘",
       "onboard_time": 1760500882,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171967,
+      "num": 171967,
+      "word": "罗云熙吃特辣螺蛳粉",
+      "onboard_time": 1760502382,
+      "rank": 43,
       "category": "艺人"
     },
     {
@@ -539,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160298,
+      "num": 160298,
+      "word": "郭碧婷爸爸回应病危传言",
+      "onboard_time": 1760502622,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159434,
       "num": 159434,
       "word": "解清帅举办婚礼一天后奶奶离世",
@@ -563,12 +587,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 154067,
-      "num": 141092,
-      "word": "谁是灵珠谁是魔丸我一眼就认出来了",
-      "onboard_time": 1760501540,
-      "rank": 32,
-      "category": "幽默"
+      "raw_hot": 152043,
+      "num": 152043,
+      "word": "杨瀚森库里互飙三分",
+      "onboard_time": 1760502861,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 151775,
@@ -620,7 +644,7 @@
     },
     {
       "raw_hot": 145986,
-      "num": 145986,
+      "num": 160923,
       "word": "谁家长剧里开了个短剧",
       "onboard_time": 1760501540,
       "rank": 29,
@@ -641,6 +665,14 @@
       "onboard_time": 1760444180,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143379,
+      "num": 186594,
+      "word": "你好星期六直播",
+      "onboard_time": 1760503102,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 143265,
@@ -771,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119643,
+      "num": 119643,
+      "word": "长佩崩了",
+      "onboard_time": 1760503342,
+      "rank": 34,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 118935,
       "num": 118935,
       "word": "新凯来展位被挤爆",
@@ -819,14 +859,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 115147,
-      "num": 115147,
-      "word": "罗云熙吃特辣螺蛳粉",
-      "onboard_time": 1760502382,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 114853,
       "num": 114853,
       "word": "沈星回寰宇流光",
@@ -843,8 +875,16 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112650,
+      "num": 114659,
+      "word": "浙大拟2360万租房当学生宿舍",
+      "onboard_time": 1760499680,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112423,
-      "num": 175305,
+      "num": 175360,
       "word": "华为耳夹何方联名配饰开启预售",
       "onboard_time": 1760499441,
       "rank": 28,
@@ -883,6 +923,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109521,
+      "num": 109521,
+      "word": "在泰威胁中国游客导游已被逮捕",
+      "onboard_time": 1760503282,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109291,
+      "num": 109291,
+      "word": "小猫突然把狗狗的脑袋扶正了",
+      "onboard_time": 1760500041,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109125,
       "num": 109125,
       "word": "舒淇大赞张子枫",
@@ -897,6 +953,14 @@
       "onboard_time": 1760499378,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 108925,
+      "num": 108925,
+      "word": "这才是符合绝大数人的穿搭",
+      "onboard_time": 1760503041,
+      "rank": 46,
+      "category": "时尚,休闲"
     },
     {
       "raw_hot": 108503,
@@ -921,6 +985,14 @@
       "onboard_time": 1760497700,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 107299,
+      "num": 113224,
+      "word": "李沁马思纯你俩别争了",
+      "onboard_time": 1760503282,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 107007,
@@ -976,14 +1048,6 @@
       "word": "00后已经实现自主加薪了",
       "onboard_time": 1760500701,
       "rank": 48,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 102099,
-      "num": 102099,
-      "word": "小猫突然把狗狗的脑袋扶正了",
-      "onboard_time": 1760500041,
-      "rank": 46,
       "category": "幽默"
     },
     {
@@ -1049,6 +1113,14 @@
       "onboard_time": 1760481195,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94153,
+      "num": 124790,
+      "word": "90生剧粉盘最大的是谁",
+      "onboard_time": 1760502081,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 94088,
@@ -1251,14 +1323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80147,
-      "num": 124790,
-      "word": "90生剧粉盘最大的是谁",
-      "onboard_time": 1760502081,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 79563,
       "num": 79563,
       "word": "亚锦赛男团",
@@ -1329,6 +1393,14 @@
       "onboard_time": 1760494220,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 74347,
+      "num": 113286,
+      "word": "网购卫生巾上有手写字",
+      "onboard_time": 1760502622,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72143,
@@ -1491,14 +1563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 56795,
-      "num": 114659,
-      "word": "浙大拟2360万租房当学生宿舍",
-      "onboard_time": 1760499680,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56601,
       "num": 96096,
       "word": "刘亦菲十月行程",
@@ -1617,6 +1681,14 @@
       "onboard_time": 1760502081,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 34929,
+      "num": 113182,
+      "word": "00后患病女孩转卖安眠药被控贩毒",
+      "onboard_time": 1760503282,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34843,
