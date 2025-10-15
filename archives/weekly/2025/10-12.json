@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760539551379,
+  "endTime": 1760541927810,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2611269,
-      "num": 208398,
+      "num": 227358,
       "word": "刘嘉瑞 若若",
       "onboard_time": 1760537243,
       "rank": 11,
@@ -660,7 +660,7 @@
     },
     {
       "raw_hot": 761747,
-      "num": 209384,
+      "num": 209669,
       "word": "杀害女同学男生听到死刑诉求后求饶",
       "onboard_time": 1760527581,
       "rank": 36,
@@ -2059,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 397097,
+      "num": 219890,
+      "word": "刘嘉瑞直播",
+      "onboard_time": 1760540184,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 395329,
       "num": 395329,
       "word": "国乒男团2比2日本",
@@ -2081,6 +2089,14 @@
       "onboard_time": 1760496800,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 393681,
+      "num": 393681,
+      "word": "亚锦赛 颁奖",
+      "onboard_time": 1760538564,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 392476,
@@ -2307,14 +2323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 343758,
-      "num": 343758,
-      "word": "亚锦赛 颁奖",
-      "onboard_time": 1760538564,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 342983,
       "num": 342983,
       "word": "朝鲜迎来外交潮",
@@ -2329,6 +2337,14 @@
       "onboard_time": 1760483238,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 341347,
+      "num": 341347,
+      "word": "王者荣耀 貂蝉",
+      "onboard_time": 1760540784,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 339166,
@@ -2576,6 +2592,14 @@
       "word": "孙颖莎救球把球桌都撞移位了",
       "onboard_time": 1760532922,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 305782,
+      "num": 305782,
+      "word": "曾凡博被裁",
+      "onboard_time": 1760540663,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -3172,7 +3196,7 @@
     },
     {
       "raw_hot": 245948,
-      "num": 202616,
+      "num": 209548,
       "word": "微信回应出朋友圈访客功能",
       "onboard_time": 1760523142,
       "rank": 28,
@@ -3321,6 +3345,14 @@
       "onboard_time": 1760502622,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229903,
+      "num": 229903,
+      "word": "王者荣耀 李白",
+      "onboard_time": 1760541265,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 229099,
@@ -3569,6 +3601,14 @@
       "onboard_time": 1760504541,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213537,
+      "num": 213537,
+      "word": "jiejie欢迎来到中国",
+      "onboard_time": 1760540243,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 211797,
@@ -8539,6 +8579,14 @@
       "category": "时尚,休闲"
     },
     {
+      "raw_hot": 108863,
+      "num": 156920,
+      "word": "警方通报女生被合租男偷拍",
+      "onboard_time": 1760538564,
+      "rank": 38,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 108750,
       "num": 108750,
       "word": "每天走多少步抵消久坐伤害",
@@ -8979,6 +9027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103769,
+      "num": 103769,
+      "word": "微信对长时间不使用账号已不再回收",
+      "onboard_time": 1760541743,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 103700,
       "num": 103700,
       "word": "黑神话悟空更新",
@@ -9377,6 +9433,14 @@
       "onboard_time": 1760272700,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99094,
+      "num": 99094,
+      "word": "李昀锐只是呼吸 剧粉称手段了得",
+      "onboard_time": 1760539583,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 99027,
@@ -10521,6 +10585,14 @@
       "onboard_time": 1760265199,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87253,
+      "num": 87253,
+      "word": "长隆动物园玛利亚萌晕了",
+      "onboard_time": 1760541863,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 87170,
@@ -12491,6 +12563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58013,
+      "num": 194251,
+      "word": "海尔洗衣机装了个摩天大楼稳定器",
+      "onboard_time": 1760541682,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 57901,
       "num": 131411,
       "word": "刘宇宁本人听了都得愣3秒",
@@ -12552,14 +12632,6 @@
       "word": "使馆通报中国游客在泰被威胁购物",
       "onboard_time": 1760451741,
       "rank": 37,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 56090,
-      "num": 156920,
-      "word": "警方通报女生被合租男偷拍",
-      "onboard_time": 1760538564,
-      "rank": 38,
       "category": "辟谣/通报"
     },
     {
@@ -13123,6 +13195,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41640,
+      "num": 209679,
+      "word": "荣耀李健打造机圈最高的山",
+      "onboard_time": 1760538983,
+      "rank": 19,
+      "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 41539,
+      "num": 215237,
+      "word": "荣耀Magic8真夜神手机",
+      "onboard_time": 1760538623,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 41391,
       "num": 121269,
       "word": "中国手握稀土一招制敌",
@@ -13169,6 +13257,14 @@
       "onboard_time": 1760364021,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40214,
+      "num": 171142,
+      "word": "荣耀Magic8牙膏挤爆了",
+      "onboard_time": 1760541682,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 40168,
@@ -13249,22 +13345,6 @@
       "onboard_time": 1760209216,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 38441,
-      "num": 204905,
-      "word": "荣耀李健打造机圈最高的山",
-      "onboard_time": 1760538983,
-      "rank": 19,
-      "category": "艺人,数码"
-    },
-    {
-      "raw_hot": 38232,
-      "num": 205639,
-      "word": "荣耀Magic8真夜神手机",
-      "onboard_time": 1760538623,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 37970,
@@ -13729,6 +13809,14 @@
       "onboard_time": 1760207595,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25543,
+      "num": 108908,
+      "word": "全国南北温差50度",
+      "onboard_time": 1760541085,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25026,
