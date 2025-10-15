@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760520532286,
+  "endTime": 1760521327992,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -1459,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472250,
+      "num": 195910,
+      "word": "雍和宫 仅退款",
+      "onboard_time": 1760518161,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 471484,
       "num": 217853,
       "word": "摩托车死亡摇摆车主撞花坛当场身亡",
@@ -2147,14 +2155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 335933,
-      "num": 195910,
-      "word": "雍和宫 仅退款",
-      "onboard_time": 1760518161,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 335727,
       "num": 335727,
       "word": "法考",
@@ -2707,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267882,
+      "num": 267882,
+      "word": "瑞达",
+      "onboard_time": 1760520321,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 267805,
       "num": 248997,
       "word": "张晚意李沁还好生在和平年代",
@@ -3163,6 +3171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220372,
+      "num": 191010,
+      "word": "28nm芯片",
+      "onboard_time": 1760519902,
+      "rank": 26,
+      "category": "议题讨论,数码"
+    },
+    {
       "raw_hot": 220225,
       "num": 198304,
       "word": "曝LPL俱乐部投入",
@@ -3307,6 +3323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209430,
+      "num": 209430,
+      "word": "再见爱人5官宣",
+      "onboard_time": 1760521103,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208154,
       "num": 208154,
       "word": "勇士vs开拓者",
@@ -3368,6 +3392,14 @@
       "word": "爸爸当家旅行团综大预告",
       "onboard_time": 1760361022,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 204178,
+      "num": 204178,
+      "word": "再见爱人",
+      "onboard_time": 1760520981,
+      "rank": 9,
       "category": "综艺"
     },
     {
@@ -3659,6 +3691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193182,
+      "num": 193182,
+      "word": "入戏 影视化",
+      "onboard_time": 1760520622,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192913,
       "num": 192913,
       "word": "陶白白支持iG",
@@ -3707,14 +3747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191010,
-      "num": 191010,
-      "word": "28nm芯片",
-      "onboard_time": 1760519902,
-      "rank": 26,
-      "category": "议题讨论,数码"
-    },
-    {
       "raw_hot": 190622,
       "num": 190622,
       "word": "中国唱将定档",
@@ -3737,6 +3769,14 @@
       "onboard_time": 1760516601,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189953,
+      "num": 189953,
+      "word": "小城良方",
+      "onboard_time": 1760520920,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 189540,
@@ -3777,6 +3817,14 @@
       "onboard_time": 1760426600,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187795,
+      "num": 187795,
+      "word": "孙颖莎vs张本美和",
+      "onboard_time": 1760520801,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 187532,
@@ -3873,14 +3921,6 @@
       "onboard_time": 1760486000,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181602,
-      "num": 181602,
-      "word": "瑞达",
-      "onboard_time": 1760520321,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 181394,
@@ -4185,6 +4225,14 @@
       "onboard_time": 1760437880,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170952,
+      "num": 170952,
+      "word": "日本派桥本帆乃香打一单",
+      "onboard_time": 1760521041,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 170725,
@@ -5019,6 +5067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146309,
+      "num": 146309,
+      "word": "国乒女团vs日本",
+      "onboard_time": 1760520681,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146125,
       "num": 132391,
       "word": "新凯来称2025湾芯展不会发布新品",
@@ -5339,6 +5395,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 139420,
+      "num": 139420,
+      "word": "王霏霏瘦了八斤大大方方的",
+      "onboard_time": 1760521220,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139171,
       "num": 139171,
       "word": "王宁送库克labubu",
@@ -5547,6 +5611,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 134637,
+      "num": 188104,
+      "word": "新人录节目狂哭5小时",
+      "onboard_time": 1760520622,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134592,
       "num": 134592,
       "word": "缅北魏家致8名中国公民死亡",
@@ -5665,6 +5737,14 @@
       "onboard_time": 1760361142,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132239,
+      "num": 132239,
+      "word": "小黄豆谈网红结婚随礼",
+      "onboard_time": 1760519002,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 132181,
@@ -6155,14 +6235,6 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 124372,
-      "num": 124372,
-      "word": "小黄豆谈网红结婚随礼",
-      "onboard_time": 1760519002,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
       "raw_hot": 124175,
       "num": 124175,
       "word": "努力型 天赋型",
@@ -6393,6 +6465,14 @@
       "onboard_time": 1760426482,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121832,
+      "num": 121832,
+      "word": "微信公关总监回应朋友圈凉了",
+      "onboard_time": 1760520981,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 121595,
@@ -7153,6 +7233,14 @@
       "onboard_time": 1760238680,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113254,
+      "num": 190280,
+      "word": "天猫双11美妆补贴历史新高",
+      "onboard_time": 1760521103,
+      "rank": 25,
+      "category": "美妆,互联网"
     },
     {
       "raw_hot": 113200,
@@ -9243,6 +9331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90271,
+      "num": 146753,
+      "word": "男子维修ATM机后感染致命病菌",
+      "onboard_time": 1760520081,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90262,
       "num": 90262,
       "word": "TES打G2",
@@ -10233,14 +10329,6 @@
       "onboard_time": 1760407400,
       "rank": 43,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 80418,
-      "num": 120302,
-      "word": "男子维修ATM机后感染致命病菌",
-      "onboard_time": 1760520081,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80399,
@@ -11827,6 +11915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47661,
+      "num": 147397,
+      "word": "你可能一直都在无效化妆",
+      "onboard_time": 1760518761,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 47645,
       "num": 109291,
       "word": "特朗普被孙女问有什么梦想",
@@ -11897,14 +11993,6 @@
       "onboard_time": 1760439439,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46278,
-      "num": 123107,
-      "word": "你可能一直都在无效化妆",
-      "onboard_time": 1760518761,
-      "rank": 36,
-      "category": "美妆"
     },
     {
       "raw_hot": 46258,
@@ -12041,6 +12129,14 @@
       "onboard_time": 1760241140,
       "rank": 19,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 41762,
+      "num": 146945,
+      "word": "刘宇宁你是怎么忍住不笑的",
+      "onboard_time": 1760520740,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 41391,
@@ -12747,6 +12843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18795,
+      "num": 147054,
+      "word": "短剧F4谁掉队了",
+      "onboard_time": 1760521282,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18718,
       "num": 30189,
       "word": "成毅蒙眼打戏又帅又仙",
@@ -12851,19 +12955,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 11494,
+      "num": 146319,
+      "word": "保安将学生外卖扔进花坛",
+      "onboard_time": 1760520022,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10580,
       "num": 121954,
       "word": "医护人员投诉白天忙救人晚上要背稿",
       "onboard_time": 1760448262,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9826,
-      "num": 122849,
-      "word": "保安将学生外卖扔进花坛",
-      "onboard_time": 1760520022,
-      "rank": 37,
       "category": "民生新闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760520532286,
+  "endTime": 1760521327992,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -291,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 472250,
+      "num": 195910,
+      "word": "雍和宫 仅退款",
+      "onboard_time": 1760518161,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 453281,
       "num": 453281,
       "word": "魏家称杀人没什么感受",
@@ -443,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 335933,
-      "num": 195910,
-      "word": "雍和宫 仅退款",
-      "onboard_time": 1760518161,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 332216,
       "num": 332216,
       "word": "杨瀚森库里互飙三分",
@@ -595,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267882,
+      "num": 267882,
+      "word": "瑞达",
+      "onboard_time": 1760520321,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 267059,
       "num": 211520,
       "word": "别亲了要生小小咪了",
@@ -651,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 220372,
+      "num": 191010,
+      "word": "28nm芯片",
+      "onboard_time": 1760519902,
+      "rank": 26,
+      "category": "议题讨论,数码"
+    },
+    {
       "raw_hot": 216422,
       "num": 216422,
       "word": "国乒男团扳平比分",
@@ -691,6 +707,14 @@
       "category": "网红,时尚"
     },
     {
+      "raw_hot": 209430,
+      "num": 209430,
+      "word": "再见爱人5官宣",
+      "onboard_time": 1760521103,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208154,
       "num": 208154,
       "word": "勇士vs开拓者",
@@ -721,6 +745,14 @@
       "onboard_time": 1760459120,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204178,
+      "num": 204178,
+      "word": "再见爱人",
+      "onboard_time": 1760520981,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 203269,
@@ -787,12 +819,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 191010,
-      "num": 191010,
-      "word": "28nm芯片",
-      "onboard_time": 1760519902,
-      "rank": 26,
-      "category": "议题讨论,数码"
+      "raw_hot": 193182,
+      "num": 193182,
+      "word": "入戏 影视化",
+      "onboard_time": 1760520622,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 190156,
@@ -801,6 +833,22 @@
       "onboard_time": 1760516601,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189953,
+      "num": 189953,
+      "word": "小城良方",
+      "onboard_time": 1760520920,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 187795,
+      "num": 187795,
+      "word": "孙颖莎vs张本美和",
+      "onboard_time": 1760520801,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 187436,
@@ -849,14 +897,6 @@
       "onboard_time": 1760486000,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181602,
-      "num": 181602,
-      "word": "瑞达",
-      "onboard_time": 1760520321,
-      "rank": 27,
-      "category": "教育"
     },
     {
       "raw_hot": 178331,
@@ -920,6 +960,14 @@
       "word": "一句话形容中国男乒晋级决赛",
       "onboard_time": 1760484679,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 170952,
+      "num": 170952,
+      "word": "日本派桥本帆乃香打一单",
+      "onboard_time": 1760521041,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -1051,6 +1099,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147500,
+      "num": 147500,
+      "word": "亚锦赛",
+      "onboard_time": 1760520622,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146309,
+      "num": 146309,
+      "word": "国乒女团vs日本",
+      "onboard_time": 1760520681,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146125,
       "num": 132391,
       "word": "新凯来称2025湾芯展不会发布新品",
@@ -1163,6 +1227,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 139420,
+      "num": 139420,
+      "word": "王霏霏瘦了八斤大大方方的",
+      "onboard_time": 1760521220,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134637,
+      "num": 188104,
+      "word": "新人录节目狂哭5小时",
+      "onboard_time": 1760520622,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134592,
       "num": 134592,
       "word": "缅北魏家致8名中国公民死亡",
@@ -1177,6 +1257,14 @@
       "onboard_time": 1760516061,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132239,
+      "num": 132239,
+      "word": "小黄豆谈网红结婚随礼",
+      "onboard_time": 1760519002,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 132181,
@@ -1315,14 +1403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124372,
-      "num": 124372,
-      "word": "小黄豆谈网红结婚随礼",
-      "onboard_time": 1760519002,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
       "raw_hot": 123583,
       "num": 165636,
       "word": "芒果短剧刚开播居然就大结局",
@@ -1353,6 +1433,14 @@
       "onboard_time": 1760492660,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 121832,
+      "num": 121832,
+      "word": "微信公关总监回应朋友圈凉了",
+      "onboard_time": 1760520981,
+      "rank": 48,
+      "category": "互联网"
     },
     {
       "raw_hot": 121595,
@@ -1529,6 +1617,14 @@
       "onboard_time": 1760517320,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 113254,
+      "num": 190280,
+      "word": "天猫双11美妆补贴历史新高",
+      "onboard_time": 1760521103,
+      "rank": 25,
+      "category": "美妆,互联网"
     },
     {
       "raw_hot": 112913,
@@ -1987,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90271,
+      "num": 146753,
+      "word": "男子维修ATM机后感染致命病菌",
+      "onboard_time": 1760520081,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89640,
       "num": 105062,
       "word": "欧盟拟强制中国企业转让技术",
@@ -2185,14 +2289,6 @@
       "onboard_time": 1760508980,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80418,
-      "num": 120302,
-      "word": "男子维修ATM机后感染致命病菌",
-      "onboard_time": 1760520081,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80169,
@@ -2635,8 +2731,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 46278,
-      "num": 123107,
+      "raw_hot": 47661,
+      "num": 147397,
       "word": "你可能一直都在无效化妆",
       "onboard_time": 1760518761,
       "rank": 36,
@@ -2673,6 +2769,14 @@
       "onboard_time": 1760441241,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41762,
+      "num": 146945,
+      "word": "刘宇宁你是怎么忍住不笑的",
+      "onboard_time": 1760520740,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 41300,
@@ -2875,6 +2979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18795,
+      "num": 147054,
+      "word": "短剧F4谁掉队了",
+      "onboard_time": 1760521282,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18311,
       "num": 30228,
       "word": "帝释天全新典藏皮肤",
@@ -2907,8 +3019,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9826,
-      "num": 122849,
+      "raw_hot": 11494,
+      "num": 146319,
       "word": "保安将学生外卖扔进花坛",
       "onboard_time": 1760520022,
       "rank": 37,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1760521327992,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8348854,
+        "num": 9015805,
+        "word": "蔡国强烟花秀调查情况",
+        "onboard_time": 1760515580,
+        "rank": 0,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 1148080,
+        "num": 1148080,
+        "word": "100T爆冷战胜BLG",
+        "onboard_time": 1760518942,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24455,
+        "num": 517573,
+        "word": "非凡十四五",
+        "onboard_time": 1760517860,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 480465,
+        "num": 480465,
+        "word": "BLG对战100T",
+        "onboard_time": 1760516302,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 267882,
+        "num": 267882,
+        "word": "瑞达",
+        "onboard_time": 1760520321,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 247336,
+        "num": 247336,
+        "word": "Bin被单杀",
+        "onboard_time": 1760518523,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 237799,
+        "num": 237799,
+        "word": "美国救不了台湾的稀土荒",
+        "onboard_time": 1760515941,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209963,
+        "num": 209963,
+        "word": "奥迪车主为躲闯红灯电动车不慎坠河",
+        "onboard_time": 1760508021,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209430,
+        "num": 209430,
+        "word": "再见爱人5官宣",
+        "onboard_time": 1760521103,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204178,
+        "num": 204178,
+        "word": "再见爱人",
+        "onboard_time": 1760520981,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26045,
+        "num": 200836,
+        "word": "天猫双11多点看头",
+        "onboard_time": 1760517380,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1169191,
+        "num": 200830,
+        "word": "黄子韬徐艺洋接吻婚纱照",
+        "onboard_time": 1760514501,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198220,
+        "num": 198220,
+        "word": "BLG状态",
+        "onboard_time": 1760518523,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193182,
+        "num": 193182,
+        "word": "入戏 影视化",
+        "onboard_time": 1760520622,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 481976,
+        "num": 193057,
+        "word": "始祖鸟承担相应赔偿修复责任",
+        "onboard_time": 1760516721,
+        "rank": 14,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 472250,
+        "num": 192700,
+        "word": "雍和宫 仅退款",
+        "onboard_time": 1760518161,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 385907,
+        "num": 192614,
+        "word": "女子吸毒鼻沾K粉被海关当场抓获",
+        "onboard_time": 1760512399,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362496,
+        "num": 192318,
+        "word": "西藏江孜县委书记被免职",
+        "onboard_time": 1760517501,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 311707,
+        "num": 192117,
+        "word": "黄子韬徐艺洋婚纱照 全是右脸",
+        "onboard_time": 1760517860,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304286,
+        "num": 191704,
+        "word": "面试通知等了一年",
+        "onboard_time": 1760512221,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 333452,
+        "num": 191668,
+        "word": "短剧折腰尺度好大",
+        "onboard_time": 1760505621,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 259603,
+        "num": 191223,
+        "word": "村长李锐在迪拜拿下超12亿订单",
+        "onboard_time": 1760512521,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259034,
+        "num": 190992,
+        "word": "汪峰抱着森林北难舍难分",
+        "onboard_time": 1760513480,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248021,
+        "num": 190903,
+        "word": "立案查处蔡国强工作室违法行为",
+        "onboard_time": 1760516721,
+        "rank": 23,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 220372,
+        "num": 190503,
+        "word": "28nm芯片",
+        "onboard_time": 1760519902,
+        "rank": 24,
+        "category": "议题讨论,数码"
+      },
+      {
+        "raw_hot": 113254,
+        "num": 190280,
+        "word": "天猫双11美妆补贴历史新高",
+        "onboard_time": 1760521103,
+        "rank": 25,
+        "category": "美妆,互联网"
+      },
+      {
+        "raw_hot": 213507,
+        "num": 190020,
+        "word": "网易恭喜QQ音乐",
+        "onboard_time": 1760505201,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 189953,
+        "num": 189953,
+        "word": "小城良方",
+        "onboard_time": 1760520920,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169255,
+        "num": 188493,
+        "word": "王牌对王牌",
+        "onboard_time": 1760519661,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134637,
+        "num": 188104,
+        "word": "新人录节目狂哭5小时",
+        "onboard_time": 1760520622,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212158,
+        "num": 188036,
+        "word": "初三女生家门口遭同班男生杀害",
+        "onboard_time": 1760501961,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187795,
+        "num": 187795,
+        "word": "孙颖莎vs张本美和",
+        "onboard_time": 1760520801,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177796,
+        "num": 177796,
+        "word": "小酒窝让董璇来学校前化化妆",
+        "onboard_time": 1760517680,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176795,
+        "num": 176795,
+        "word": "蔡国强烟花秀影响草地面积30.06公顷",
+        "onboard_time": 1760518401,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172673,
+        "num": 172673,
+        "word": "黄晓明曾因闹太套的梗抑郁",
+        "onboard_time": 1760517680,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170952,
+        "num": 170952,
+        "word": "日本派桥本帆乃香打一单",
+        "onboard_time": 1760521041,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147500,
+        "num": 147500,
+        "word": "亚锦赛",
+        "onboard_time": 1760520622,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47661,
+        "num": 147397,
+        "word": "你可能一直都在无效化妆",
+        "onboard_time": 1760518761,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 18795,
+        "num": 147054,
+        "word": "短剧F4谁掉队了",
+        "onboard_time": 1760521282,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41762,
+        "num": 146945,
+        "word": "刘宇宁你是怎么忍住不笑的",
+        "onboard_time": 1760520740,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90271,
+        "num": 146753,
+        "word": "男子维修ATM机后感染致命病菌",
+        "onboard_time": 1760520081,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11494,
+        "num": 146319,
+        "word": "保安将学生外卖扔进花坛",
+        "onboard_time": 1760520022,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146309,
+        "num": 146309,
+        "word": "国乒女团vs日本",
+        "onboard_time": 1760520681,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143475,
+        "num": 143475,
+        "word": "鸡排哥 炸鸡叔",
+        "onboard_time": 1760511140,
+        "rank": 43,
+        "category": "民生新闻,幽默"
+      },
+      {
+        "raw_hot": 139420,
+        "num": 139420,
+        "word": "王霏霏瘦了八斤大大方方的",
+        "onboard_time": 1760521220,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132239,
+        "num": 132239,
+        "word": "小黄豆谈网红结婚随礼",
+        "onboard_time": 1760519002,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 126480,
+        "num": 126480,
+        "word": "萧山机场保洁阿姨",
+        "onboard_time": 1760518341,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123338,
+        "num": 123338,
+        "word": "林永健在人民日报撰文",
+        "onboard_time": 1760516302,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121832,
+        "num": 121832,
+        "word": "微信公关总监回应朋友圈凉了",
+        "onboard_time": 1760520981,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119859,
+        "num": 119859,
+        "word": "缅北果敢魏家犯罪集团专案细节曝光",
+        "onboard_time": 1760505139,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这份关心从未改变#"
+    }
+  }
+}
