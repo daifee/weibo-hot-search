@@ -1,6 +1,6 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760513201280,
+  "endTime": 1760514043584,
   "band_list": [
     {
       "raw_hot": 1543352,
@@ -105,6 +105,14 @@
       "onboard_time": 1760483117,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 732096,
+      "num": 732096,
+      "word": "女子吸毒鼻沾K粉被海关当场抓获",
+      "onboard_time": 1760512399,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 713915,
@@ -275,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 397405,
-      "num": 172599,
-      "word": "女子吸毒鼻沾K粉被海关当场抓获",
-      "onboard_time": 1760512399,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 395329,
       "num": 395329,
       "word": "国乒男团2比2日本",
@@ -387,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317856,
+      "num": 175834,
+      "word": "村长李锐在迪拜拿下超12亿订单",
+      "onboard_time": 1760512521,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316517,
       "num": 316517,
       "word": "你在南方吹空调我在北方看雾凇",
@@ -401,6 +409,14 @@
       "onboard_time": 1760444720,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 313170,
+      "num": 313170,
+      "word": "梁靖崑老婆边吸氧边看球",
+      "onboard_time": 1760509221,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 309342,
@@ -427,12 +443,12 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 295813,
-      "num": 170418,
-      "word": "梁靖崑老婆边吸氧边看球",
-      "onboard_time": 1760509221,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 287002,
+      "num": 287002,
+      "word": "奥迪车主为躲闯红灯电动车不慎坠河",
+      "onboard_time": 1760508021,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280876,
@@ -491,20 +507,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244417,
+      "num": 167470,
+      "word": "汪峰抱着森林北难舍难分",
+      "onboard_time": 1760513480,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235938,
       "num": 166982,
       "word": "鸡柳大人向黄星道歉",
       "onboard_time": 1760511260,
       "rank": 23,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 232328,
-      "num": 232328,
-      "word": "奥迪车主为躲闯红灯电动车不慎坠河",
-      "onboard_time": 1760508021,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 230975,
@@ -619,20 +635,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197377,
+      "num": 154165,
+      "word": "面试通知等了一年",
+      "onboard_time": 1760512221,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197199,
       "num": 197199,
       "word": "新凯来子公司发布两款EDA设计软件",
       "onboard_time": 1760494641,
       "rank": 22,
       "category": "数码"
-    },
-    {
-      "raw_hot": 195654,
-      "num": 166410,
-      "word": "村长李锐在迪拜拿下超12亿订单",
-      "onboard_time": 1760512521,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 187436,
@@ -923,6 +939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140676,
+      "num": 128388,
+      "word": "存不到一套房都对不起这个蛋",
+      "onboard_time": 1760512880,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 139888,
       "num": 139888,
       "word": "没想到这些梗竟然火了10年",
@@ -953,6 +977,14 @@
       "onboard_time": 1760509160,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132181,
+      "num": 132181,
+      "word": "鞠婧祎成立新工作室",
+      "onboard_time": 1760513360,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 131694,
@@ -1019,6 +1051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 127781,
+      "num": 127781,
+      "word": "缅北魏家创立电诈园区武装管控",
+      "onboard_time": 1760513840,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127243,
       "num": 229211,
       "word": "成年人的摇摇车5元能开两小时",
@@ -1041,14 +1081,6 @@
       "onboard_time": 1760510600,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 125092,
-      "num": 125092,
-      "word": "面试通知等了一年",
-      "onboard_time": 1760512221,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 123583,
@@ -1113,6 +1145,14 @@
       "onboard_time": 1760496260,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119350,
+      "num": 119350,
+      "word": "潘玮柏菜到嘴边被欧阳娜娜偷了",
+      "onboard_time": 1760513120,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 118935,
@@ -1227,14 +1267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111539,
-      "num": 111539,
-      "word": "存不到一套房都对不起这个蛋",
-      "onboard_time": 1760512880,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 110480,
       "num": 106476,
       "word": "剑网3牧川套",
@@ -1329,6 +1361,14 @@
       "onboard_time": 1760511979,
       "rank": 17,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 107696,
+      "num": 169222,
+      "word": "于正劝退无颜值优势素人自荐当演员",
+      "onboard_time": 1760512039,
+      "rank": 18,
+      "category": "艺人,艺人"
     },
     {
       "raw_hot": 107568,
@@ -1563,6 +1603,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 92168,
+      "num": 92168,
+      "word": "A股上涨个股近3900只",
+      "onboard_time": 1760513780,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 91939,
       "num": 91939,
       "word": "孙颖莎王楚钦等今晚冲冠",
@@ -1585,6 +1633,14 @@
       "onboard_time": 1760494701,
       "rank": 46,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 90960,
+      "num": 90960,
+      "word": "马龙只参加全运会男团",
+      "onboard_time": 1760514021,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 90734,
@@ -1633,14 +1689,6 @@
       "onboard_time": 1760499680,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88488,
-      "num": 88488,
-      "word": "潘玮柏菜到嘴边被欧阳娜娜偷了",
-      "onboard_time": 1760513120,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 88393,
@@ -2011,6 +2059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63966,
+      "num": 168978,
+      "word": "天猫一张图讲清双11折扣脱水",
+      "onboard_time": 1760511979,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 63331,
       "num": 96259,
       "word": "林诗栋vs篠塚大登",
@@ -2105,14 +2161,6 @@
       "onboard_time": 1760457740,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57986,
-      "num": 168978,
-      "word": "天猫一张图讲清双11折扣脱水",
-      "onboard_time": 1760511979,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 57901,
@@ -2227,14 +2275,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 48997,
-      "num": 169222,
-      "word": "于正劝退无颜值优势素人自荐当演员",
-      "onboard_time": 1760512039,
-      "rank": 18,
-      "category": "艺人,艺人"
-    },
-    {
       "raw_hot": 45983,
       "num": 204819,
       "word": "直击湾芯展",
@@ -2252,7 +2292,7 @@
     },
     {
       "raw_hot": 42723,
-      "num": 171218,
+      "num": 172029,
       "word": "抽猫盒集猫猫得红包",
       "onboard_time": 1760511681,
       "rank": 14,
@@ -2315,6 +2355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 32776,
+      "num": 111693,
+      "word": "库明加被驱逐",
+      "onboard_time": 1760512399,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31759,
       "num": 53314,
       "word": "黄灿灿也认识李煜东",
@@ -2347,12 +2395,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 26821,
-      "num": 111693,
-      "word": "库明加被驱逐",
-      "onboard_time": 1760512399,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 27329,
+      "num": 99561,
+      "word": "那英努力在天赋面前的无力感",
+      "onboard_time": 1760513600,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 26508,
@@ -2416,6 +2464,14 @@
       "word": "骑车过斑马线被撞因未推行被判责",
       "onboard_time": 1760506160,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15574,
+      "num": 128410,
+      "word": "驾车漂移致标语被破坏车主已找到",
+      "onboard_time": 1760513900,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
