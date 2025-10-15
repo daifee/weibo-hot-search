@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760536143203,
+  "endTime": 1760538449461,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2347348,
+      "num": 208638,
+      "word": "李禹熹称荣梓杉出轨打人",
+      "onboard_time": 1760537542,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2289458,
       "num": 2289458,
       "word": "T1战胜iG",
@@ -49,6 +57,14 @@
       "onboard_time": 1760521103,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1956586,
+      "num": 208398,
+      "word": "刘嘉瑞 若若",
+      "onboard_time": 1760537243,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 1886560,
@@ -129,6 +145,14 @@
       "onboard_time": 1760492118,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1543019,
+      "num": 449440,
+      "word": "折腰短剧下架",
+      "onboard_time": 1760537362,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1501901,
@@ -1515,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 484035,
+      "num": 484035,
+      "word": "近13万枚比特币被查获",
+      "onboard_time": 1760535262,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 480724,
       "num": 200967,
       "word": "女生意外拍到肿瘤细胞分裂全过程",
@@ -1713,6 +1745,14 @@
       "onboard_time": 1760227639,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 443312,
+      "num": 443312,
+      "word": "国乒男团亚锦赛三连冠",
+      "onboard_time": 1760535323,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 443093,
@@ -2516,7 +2556,7 @@
     },
     {
       "raw_hot": 306592,
-      "num": 200752,
+      "num": 204677,
       "word": "孙颖莎救球把球桌都撞移位了",
       "onboard_time": 1760532922,
       "rank": 33,
@@ -2713,14 +2753,6 @@
       "onboard_time": 1760336480,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285942,
-      "num": 285942,
-      "word": "国乒男团亚锦赛三连冠",
-      "onboard_time": 1760535323,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 284858,
@@ -2996,7 +3028,7 @@
     },
     {
       "raw_hot": 258734,
-      "num": 217244,
+      "num": 247792,
       "word": "S15瑞士轮第二轮抽签",
       "onboard_time": 1760535022,
       "rank": 36,
@@ -3193,14 +3225,6 @@
       "onboard_time": 1760254941,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 237543,
-      "num": 237543,
-      "word": "近13万枚比特币被查获",
-      "onboard_time": 1760535262,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 237038,
@@ -3651,6 +3675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204375,
+      "num": 204375,
+      "word": "荣耀Magic8价格",
+      "onboard_time": 1760537964,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 204178,
       "num": 204178,
       "word": "再见爱人",
@@ -3923,6 +3955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197039,
+      "num": 197039,
+      "word": "邓莎说我是丧偶式婚姻",
+      "onboard_time": 1760535683,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196903,
       "num": 196903,
       "word": "vivo发布会",
@@ -4065,6 +4105,14 @@
       "onboard_time": 1760452403,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191710,
+      "num": 191710,
+      "word": "魏建军称服务用户没有完成时",
+      "onboard_time": 1760536222,
+      "rank": 31,
+      "category": "汽车"
     },
     {
       "raw_hot": 191592,
@@ -4339,6 +4387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178517,
+      "num": 178517,
+      "word": "S15",
+      "onboard_time": 1760537302,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178448,
       "num": 178448,
       "word": "婴儿被抢家人开车追了好几条街",
@@ -4440,14 +4496,6 @@
       "word": "我家那闺女",
       "onboard_time": 1760253620,
       "rank": 45,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 175511,
-      "num": 166217,
-      "word": "邓莎说我是丧偶式婚姻",
-      "onboard_time": 1760535683,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -4673,6 +4721,14 @@
       "onboard_time": 1760404760,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 169168,
+      "num": 169168,
+      "word": "看亚锦赛赠送30分钟live",
+      "onboard_time": 1760538203,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 169092,
@@ -5091,6 +5147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157882,
+      "num": 157882,
+      "word": "洗衣机这么多筒是不是叠叠乐",
+      "onboard_time": 1760537663,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 157693,
       "num": 157693,
       "word": "LPL",
@@ -5475,6 +5539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148890,
+      "num": 148890,
+      "word": "真正长大了好像就是这样",
+      "onboard_time": 1760536642,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148778,
       "num": 147439,
       "word": "iG教练回应选用上单维鲁斯",
@@ -5513,6 +5585,14 @@
       "onboard_time": 1760416643,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 147939,
+      "num": 147939,
+      "word": "杨紫的vlog笑点太密了",
+      "onboard_time": 1760536463,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 147429,
@@ -5713,6 +5793,14 @@
       "onboard_time": 1760313980,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143161,
+      "num": 143161,
+      "word": "黄奕的礼服拉链好懂事",
+      "onboard_time": 1760536463,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 142840,
@@ -6649,6 +6737,14 @@
       "onboard_time": 1760414662,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126402,
+      "num": 126402,
+      "word": "四代北京",
+      "onboard_time": 1760538323,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 126392,
@@ -7707,6 +7803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115153,
+      "num": 115153,
+      "word": "孙颖莎我准备好啦",
+      "onboard_time": 1760536463,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115047,
       "num": 115047,
       "word": "亚锦赛男团中国vs日本",
@@ -7769,6 +7873,14 @@
       "onboard_time": 1760268261,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 114431,
+      "num": 224495,
+      "word": "京东补贴",
+      "onboard_time": 1760533582,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 114133,
@@ -9811,14 +9923,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 92017,
-      "num": 224495,
-      "word": "京东补贴",
-      "onboard_time": 1760533582,
-      "rank": 41,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 91950,
       "num": 228512,
       "word": "你的人生被修剪过吗",
@@ -10601,6 +10705,14 @@
       "onboard_time": 1760257760,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84432,
+      "num": 205846,
+      "word": "卖出500克黄金 日赚五万",
+      "onboard_time": 1760538142,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84319,
@@ -12299,6 +12411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59134,
+      "num": 191722,
+      "word": "私挖地下室不出事就没人管现象当止",
+      "onboard_time": 1760536703,
+      "rank": 30,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 58792,
       "num": 58792,
       "word": "赵樱子自曝不拍戏的原因",
@@ -12715,6 +12835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47629,
+      "num": 146762,
+      "word": "购物焦虑",
+      "onboard_time": 1760536703,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 47477,
       "num": 167665,
       "word": "乒乓球亚锦赛10月14日赛程",
@@ -12827,6 +12955,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 44886,
+      "num": 191814,
+      "word": "谢霆锋进化路上的同行者",
+      "onboard_time": 1760537182,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44501,
       "num": 95137,
       "word": "考编年龄松绑能打破职场35岁门槛吗",
@@ -12881,6 +13017,14 @@
       "onboard_time": 1760432601,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 43340,
+      "num": 206219,
+      "word": "丰县市监局回应注水牛肉",
+      "onboard_time": 1760537902,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 42946,
@@ -13795,6 +13939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14419,
+      "num": 148118,
+      "word": "为了凑单你都买过什么",
+      "onboard_time": 1760536642,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 14114,
       "num": 25324,
       "word": "以前型人格",
@@ -13875,7 +14027,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 2587,
+      "raw_hot": 5741,
       "num": 471590,
       "word": "我国首次批量发行盲文版地图",
       "onboard_time": 1760486842,
