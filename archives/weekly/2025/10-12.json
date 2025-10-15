@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760541927810,
+  "endTime": 1760542831285,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 2187134,
-      "num": 449440,
+      "num": 472764,
       "word": "折腰短剧下架",
       "onboard_time": 1760537362,
       "rank": 3,
@@ -777,6 +777,14 @@
       "onboard_time": 1760245821,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 700354,
+      "num": 1112056,
+      "word": "王者荣耀 貂蝉",
+      "onboard_time": 1760540784,
+      "rank": 5,
+      "category": "游戏"
     },
     {
       "raw_hot": 697579,
@@ -1595,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 476091,
+      "num": 476091,
+      "word": "亚锦赛 颁奖",
+      "onboard_time": 1760538564,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 475597,
       "num": 214905,
       "word": "糖尿病男子剪趾甲破皮失去10根脚趾",
@@ -1963,6 +1979,14 @@
       "category": "国际时政,数码"
     },
     {
+      "raw_hot": 410469,
+      "num": 410469,
+      "word": "曾凡博被裁",
+      "onboard_time": 1760540663,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 409367,
       "num": 213290,
       "word": "突然悟到了上班打扮漂亮的意义",
@@ -2089,14 +2113,6 @@
       "onboard_time": 1760496800,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 393681,
-      "num": 393681,
-      "word": "亚锦赛 颁奖",
-      "onboard_time": 1760538564,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 392476,
@@ -2337,14 +2353,6 @@
       "onboard_time": 1760483238,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 341347,
-      "num": 341347,
-      "word": "王者荣耀 貂蝉",
-      "onboard_time": 1760540784,
-      "rank": 5,
-      "category": "游戏"
     },
     {
       "raw_hot": 339166,
@@ -2592,14 +2600,6 @@
       "word": "孙颖莎救球把球桌都撞移位了",
       "onboard_time": 1760532922,
       "rank": 33,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 305782,
-      "num": 305782,
-      "word": "曾凡博被裁",
-      "onboard_time": 1760540663,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -2865,6 +2865,14 @@
       "onboard_time": 1760331262,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276032,
+      "num": 276032,
+      "word": "王者荣耀 李白",
+      "onboard_time": 1760541265,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 275818,
@@ -3345,14 +3353,6 @@
       "onboard_time": 1760502622,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 229903,
-      "num": 229903,
-      "word": "王者荣耀 李白",
-      "onboard_time": 1760541265,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 229099,
@@ -5595,6 +5595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149405,
+      "num": 149405,
+      "word": "星链 缅甸",
+      "onboard_time": 1760542524,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 149315,
       "num": 130779,
       "word": "葛荟婕自曝没带走女儿的原因",
@@ -6507,6 +6515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131230,
+      "num": 131230,
+      "word": "日媒称赞王楚钦气魄",
+      "onboard_time": 1760539705,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131214,
       "num": 131214,
       "word": "宋伊人出发去看海",
@@ -6633,6 +6649,14 @@
       "onboard_time": 1760516302,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129068,
+      "num": 193728,
+      "word": "隐秘的角落",
+      "onboard_time": 1760542461,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 129055,
@@ -9467,6 +9491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98739,
+      "num": 98739,
+      "word": "AL专打LCK",
+      "onboard_time": 1760540784,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98392,
       "num": 161395,
       "word": "张晚意一看在家就没少和姐姐斗嘴",
@@ -10912,6 +10944,14 @@
       "word": "2岁女童意外跌入开水锅仍在ICU",
       "onboard_time": 1760245640,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83584,
+      "num": 199852,
+      "word": "央视曝多地共享单车骑行中自动锁车",
+      "onboard_time": 1760541984,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -12411,6 +12451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 61368,
+      "num": 171142,
+      "word": "荣耀Magic8牙膏挤爆了",
+      "onboard_time": 1760541682,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 61203,
       "num": 259179,
       "word": "一秒解锁地球巨清版",
@@ -12564,7 +12612,7 @@
     },
     {
       "raw_hot": 58013,
-      "num": 194251,
+      "num": 206714,
       "word": "海尔洗衣机装了个摩天大楼稳定器",
       "onboard_time": 1760541682,
       "rank": 24,
@@ -13259,14 +13307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40214,
-      "num": 171142,
-      "word": "荣耀Magic8牙膏挤爆了",
-      "onboard_time": 1760541682,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 40168,
       "num": 151045,
       "word": "浙江队破女子气步枪团体世界纪录",
@@ -13345,6 +13385,14 @@
       "onboard_time": 1760209216,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 38186,
+      "num": 108908,
+      "word": "全国南北温差50度",
+      "onboard_time": 1760541085,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37970,
@@ -13811,14 +13859,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 25543,
-      "num": 108908,
-      "word": "全国南北温差50度",
-      "onboard_time": 1760541085,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 25026,
       "num": 677074,
       "word": "这里是中国",
@@ -14123,6 +14163,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 13063,
+      "num": 202802,
+      "word": "中国游客马来西亚失联酒店拒看监控",
+      "onboard_time": 1760542344,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12584,
       "num": 696250,
       "word": "万千气象看天津",
@@ -14180,7 +14228,7 @@
     },
     {
       "raw_hot": 5741,
-      "num": 471590,
+      "num": 473114,
       "word": "我国首次批量发行盲文版地图",
       "onboard_time": 1760486842,
       "rank": 2,
