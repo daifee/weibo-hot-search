@@ -1,6 +1,6 @@
 {
   "startTime": 1760545770711,
-  "endTime": 1760546703591,
+  "endTime": 1760549005549,
   "band_list": [
     {
       "raw_hot": 990684,
@@ -123,6 +123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 188724,
+      "num": 188724,
+      "word": "医院发喜报庆祝门诊人数创佳绩",
+      "onboard_time": 1760543240,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168257,
       "num": 168257,
       "word": "卖出500克黄金 日赚五万",
@@ -171,20 +179,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121826,
-      "num": 121826,
-      "word": "医院发喜报庆祝门诊人数创佳绩",
-      "onboard_time": 1760543240,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 120108,
       "num": 120108,
       "word": "jiejie欢迎来到中国",
       "onboard_time": 1760540243,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 110452,
+      "num": 92477,
+      "word": "深圳女生被同班男生刺死案择期宣判",
+      "onboard_time": 1760546539,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109836,
@@ -235,14 +243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 92477,
-      "num": 92477,
-      "word": "深圳女生被同班男生刺死案择期宣判",
-      "onboard_time": 1760546539,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90240,
       "num": 90240,
       "word": "近13万枚比特币被查获",
@@ -291,6 +291,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77655,
+      "num": 77655,
+      "word": "邱贻可奖杯就要给孙颖莎",
+      "onboard_time": 1760546779,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75570,
+      "num": 71043,
+      "word": "食用酸汤子后离世男子家属再发声",
+      "onboard_time": 1760546360,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75426,
       "num": 75426,
       "word": "M5芯片",
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 69950,
-      "num": 70940,
+      "num": 71100,
       "word": "100T嘲讽LPL",
       "onboard_time": 1760525000,
       "rank": 43,
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 57368,
-      "num": 57368,
+      "num": 70838,
       "word": "家门口遭同学杀害女生母亲发声",
       "onboard_time": 1760546300,
       "rank": 40,
@@ -388,11 +404,19 @@
     },
     {
       "raw_hot": 55624,
-      "num": 55624,
+      "num": 70704,
       "word": "再见爱人 李施嬅",
       "onboard_time": 1760525421,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 55308,
+      "num": 71225,
+      "word": "金价飙涨三大原因",
+      "onboard_time": 1760548278,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 53120,
