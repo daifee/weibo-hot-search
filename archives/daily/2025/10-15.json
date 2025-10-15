@@ -1,6 +1,6 @@
 {
   "startTime": 1760459536334,
-  "endTime": 1760533697868,
+  "endTime": 1760535456460,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2114161,
-      "num": 438086,
+      "num": 468883,
       "word": "再见爱人5官宣",
       "onboard_time": 1760521103,
       "rank": 8,
@@ -299,12 +299,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 564028,
+      "num": 205782,
+      "word": "宋伊人去云南了",
+      "onboard_time": 1760532321,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 560064,
       "num": 289883,
       "word": "125斤左右的姐姐们别减肥了",
       "onboard_time": 1760490741,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 556181,
+      "num": 556181,
+      "word": "王楚钦一单对战中国香港",
+      "onboard_time": 1760529023,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 542258,
@@ -387,19 +403,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 496408,
-      "num": 496408,
-      "word": "王楚钦一单对战中国香港",
-      "onboard_time": 1760529023,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 476232,
       "num": 476232,
       "word": "梁靖崑在王楚钦怀里小鸟依人",
       "onboard_time": 1760498479,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 456835,
+      "num": 456835,
+      "word": "王楚钦可他也才25岁",
+      "onboard_time": 1760532801,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -531,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365244,
+      "num": 365244,
+      "word": "国乒女团重夺亚锦赛冠军",
+      "onboard_time": 1760528303,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 360879,
       "num": 217892,
       "word": "立案查处蔡国强工作室违法行为",
@@ -553,14 +577,6 @@
       "onboard_time": 1760498360,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 348746,
-      "num": 348746,
-      "word": "国乒女团重夺亚锦赛冠军",
-      "onboard_time": 1760528303,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 347920,
@@ -659,20 +675,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 306592,
+      "num": 196307,
+      "word": "孙颖莎救球把球桌都撞移位了",
+      "onboard_time": 1760532922,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306089,
       "num": 306089,
       "word": "男子变现2公斤金条净赚百万",
       "onboard_time": 1760454623,
       "rank": 5,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 294881,
-      "num": 205782,
-      "word": "宋伊人去云南了",
-      "onboard_time": 1760532321,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 292365,
@@ -955,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204950,
+      "num": 195769,
+      "word": "白敬亭生日直播",
+      "onboard_time": 1760533400,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204610,
       "num": 190449,
       "word": "一笑随歌",
@@ -1008,14 +1032,6 @@
       "word": "孙颖莎3比0张本美和",
       "onboard_time": 1760526200,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 202289,
-      "num": 142418,
-      "word": "孙颖莎救球把球桌都撞移位了",
-      "onboard_time": 1760532922,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -1091,6 +1107,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 195655,
+      "num": 195655,
+      "word": "孙颖莎永远说到做到",
+      "onboard_time": 1760534963,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195564,
       "num": 195564,
       "word": "黄晓明曾因闹太套的梗抑郁",
@@ -1121,14 +1145,6 @@
       "onboard_time": 1760523142,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 190243,
-      "num": 190243,
-      "word": "王楚钦可他也才25岁",
-      "onboard_time": 1760532801,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 190162,
@@ -1307,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171314,
+      "num": 171314,
+      "word": "S15瑞士轮第二轮抽签",
+      "onboard_time": 1760535022,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 171208,
       "num": 75791,
       "word": "一句话形容中国男乒晋级决赛",
@@ -1339,12 +1363,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 166416,
-      "num": 140083,
-      "word": "白敬亭生日直播",
-      "onboard_time": 1760533400,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 168096,
+      "num": 212156,
+      "word": "这届年轻人过冬爱上丑袜子",
+      "onboard_time": 1760530762,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 165565,
@@ -1353,14 +1377,6 @@
       "onboard_time": 1760495181,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165204,
-      "num": 212156,
-      "word": "这届年轻人过冬爱上丑袜子",
-      "onboard_time": 1760530762,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 164315,
@@ -1400,6 +1416,14 @@
       "word": "王曼昱vs桥本帆乃香",
       "onboard_time": 1760521401,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 160588,
+      "num": 160588,
+      "word": "梁靖崑vs姚钧涛",
+      "onboard_time": 1760534783,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -1449,6 +1473,14 @@
       "onboard_time": 1760522660,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156590,
+      "num": 195901,
+      "word": "双十一领券神器出现了",
+      "onboard_time": 1760533582,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 155620,
@@ -1555,6 +1587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146759,
+      "num": 146759,
+      "word": "刘亦菲一种气血很足的美",
+      "onboard_time": 1760532801,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146125,
       "num": 132391,
       "word": "新凯来称2025湾芯展不会发布新品",
@@ -1635,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141217,
+      "num": 197297,
+      "word": "王楚钦3比1陈颢桦",
+      "onboard_time": 1760534122,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141022,
       "num": 141022,
       "word": "英雄联盟",
@@ -1673,14 +1721,6 @@
       "onboard_time": 1760501361,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 139803,
-      "num": 139803,
-      "word": "刘亦菲一种气血很足的美",
-      "onboard_time": 1760532801,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 139605,
@@ -1827,6 +1867,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130299,
+      "num": 130299,
+      "word": "近13万枚比特币被查获",
+      "onboard_time": 1760535262,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 129966,
+      "num": 129966,
+      "word": "孙颖莎化身social莎",
+      "onboard_time": 1760534183,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129092,
       "num": 129092,
       "word": "林永健在人民日报撰文",
@@ -1929,6 +1985,14 @@
       "onboard_time": 1760498541,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123561,
+      "num": 132658,
+      "word": "两人食用酸汤子1死1伤卫健部门介入",
+      "onboard_time": 1760533821,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123407,
@@ -2257,6 +2321,14 @@
       "onboard_time": 1760500041,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 109228,
+      "num": 149039,
+      "word": "缅北魏家人员受审时口出狂言",
+      "onboard_time": 1760533942,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109125,
@@ -2627,6 +2699,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 92017,
+      "num": 197112,
+      "word": "京东补贴",
+      "onboard_time": 1760533582,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 91939,
       "num": 91939,
       "word": "孙颖莎王楚钦等今晚冲冠",
@@ -2860,7 +2940,7 @@
     },
     {
       "raw_hot": 82123,
-      "num": 140430,
+      "num": 196581,
       "word": "荣耀李健带3500人疯狂购物",
       "onboard_time": 1760533582,
       "rank": 37,
@@ -2985,6 +3065,22 @@
       "onboard_time": 1760455462,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75742,
+      "num": 175804,
+      "word": "国乒男团亚锦赛三连冠",
+      "onboard_time": 1760535323,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75705,
+      "num": 215070,
+      "word": "谢霆锋荣耀发布会",
+      "onboard_time": 1760530222,
+      "rank": 15,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 75659,
@@ -3403,20 +3499,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 45660,
+      "num": 160626,
+      "word": "宋佳衣服上写着装货",
+      "onboard_time": 1760535143,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44945,
       "num": 191188,
       "word": "京东现货",
       "onboard_time": 1760526321,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 44755,
-      "num": 215070,
-      "word": "谢霆锋荣耀发布会",
-      "onboard_time": 1760530222,
-      "rank": 15,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 43781,
@@ -3513,6 +3609,14 @@
       "onboard_time": 1760523981,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35029,
+      "num": 172792,
+      "word": "全国通用秋裤",
+      "onboard_time": 1760534002,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 34929,
@@ -3739,14 +3843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12777,
-      "num": 139868,
-      "word": "京东补贴",
-      "onboard_time": 1760533582,
-      "rank": 41,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 12584,
       "num": 696250,
       "word": "万千气象看天津",
@@ -3763,12 +3859,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 8983,
-      "num": 145999,
-      "word": "双十一领券神器出现了",
-      "onboard_time": 1760533582,
-      "rank": 32,
-      "category": "互联网"
+      "raw_hot": 11148,
+      "num": 161085,
+      "word": "婚礼被直播婚庆公司称签字即授权",
+      "onboard_time": 1760534842,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1407,
+      "num": 471590,
+      "word": "我国首次批量发行盲文版地图",
+      "onboard_time": 1760486842,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1173,
+      "num": 197255,
+      "word": "十四五粮食流通改革发展成效",
+      "onboard_time": 1760409020,
+      "rank": 12,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -3783,6 +3895,9 @@
     },
     {
       "word": "#总书记这份关心从未改变#"
+    },
+    {
+      "word": "#习近平经济思想引领新时代经济工作#"
     }
   ]
 }
