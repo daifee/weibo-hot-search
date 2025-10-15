@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760524159711,
+  "endTime": 1760525132628,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -43,7 +43,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 2100294,
+      "raw_hot": 2114161,
       "num": 351529,
       "word": "再见爱人5官宣",
       "onboard_time": 1760521103,
@@ -433,6 +433,14 @@
       "onboard_time": 1760496559,
       "rank": 14,
       "category": "互联网,幽默"
+    },
+    {
+      "raw_hot": 885511,
+      "num": 221509,
+      "word": "内娱四位粉丝破百万的站姐",
+      "onboard_time": 1760522601,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 881433,
@@ -1331,14 +1339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 501902,
-      "num": 221509,
-      "word": "内娱四位粉丝破百万的站姐",
-      "onboard_time": 1760522601,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 501679,
       "num": 194415,
       "word": "辛芷蕾又提名一个国际大奖",
@@ -1545,6 +1545,14 @@
       "onboard_time": 1760439923,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 462555,
+      "num": 213697,
+      "word": "黄子韬徐艺洋婚纱照 全是右脸",
+      "onboard_time": 1760517860,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 453472,
@@ -1865,14 +1873,6 @@
       "onboard_time": 1760353579,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 400059,
-      "num": 213697,
-      "word": "黄子韬徐艺洋婚纱照 全是右脸",
-      "onboard_time": 1760517860,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 399335,
@@ -2731,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269512,
+      "num": 240529,
+      "word": "入戏 影视化",
+      "onboard_time": 1760520622,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268230,
       "num": 268230,
       "word": "国乒全员油头",
@@ -2875,6 +2883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254354,
+      "num": 213290,
+      "word": "突然悟到了上班打扮漂亮的意义",
+      "onboard_time": 1760523561,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
       "raw_hot": 251998,
       "num": 251998,
       "word": "黄力平任万科董事长",
@@ -2963,6 +2979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 244425,
+      "num": 244425,
+      "word": "28nm芯片",
+      "onboard_time": 1760519902,
+      "rank": 26,
+      "category": "议题讨论,数码"
+    },
+    {
       "raw_hot": 244044,
       "num": 244044,
       "word": "探访成都小汽车爆燃事发地",
@@ -2993,14 +3017,6 @@
       "onboard_time": 1760347402,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 240529,
-      "num": 240529,
-      "word": "入戏 影视化",
-      "onboard_time": 1760520622,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 238454,
@@ -3075,20 +3091,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231825,
-      "num": 231825,
-      "word": "28nm芯片",
-      "onboard_time": 1760519902,
-      "rank": 26,
-      "category": "议题讨论,数码"
-    },
-    {
       "raw_hot": 230975,
       "num": 183981,
       "word": "网购卫生巾上有手写字",
       "onboard_time": 1760502622,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 230373,
+      "num": 193901,
+      "word": "朱丹删除女儿作品在卢浮宫展出帖子",
+      "onboard_time": 1760523082,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 229099,
@@ -3177,6 +3193,14 @@
       "onboard_time": 1760331564,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221824,
+      "num": 185048,
+      "word": "微信回应出朋友圈访客功能",
+      "onboard_time": 1760523142,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 221510,
@@ -3329,14 +3353,6 @@
       "onboard_time": 1760504541,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213290,
-      "num": 213290,
-      "word": "突然悟到了上班打扮漂亮的意义",
-      "onboard_time": 1760523561,
-      "rank": 16,
-      "category": "情感"
     },
     {
       "raw_hot": 211797,
@@ -3555,6 +3571,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200303,
+      "num": 192342,
+      "word": "再见爱人5有邓莎",
+      "onboard_time": 1760523801,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200239,
+      "num": 181673,
+      "word": "王源演唱会宜昌站官宣",
+      "onboard_time": 1760523922,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200105,
       "num": 145030,
       "word": "王楚钦单局让张本智和得1分",
@@ -3585,6 +3617,14 @@
       "onboard_time": 1760189123,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199321,
+      "num": 199321,
+      "word": "国乒女团vs日本",
+      "onboard_time": 1760520681,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 198538,
@@ -3779,14 +3819,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192342,
-      "num": 192342,
-      "word": "再见爱人5有邓莎",
-      "onboard_time": 1760523801,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 191970,
       "num": 191970,
       "word": "KPL抽签",
@@ -3915,6 +3947,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 186330,
+      "num": 229693,
+      "word": "BLG惊天2.2",
+      "onboard_time": 1760523142,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186047,
       "num": 186047,
       "word": "亚锦赛女团中国vs韩国",
@@ -3963,14 +4003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 182990,
-      "num": 193901,
-      "word": "朱丹删除女儿作品在卢浮宫展出帖子",
-      "onboard_time": 1760523082,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182726,
       "num": 182726,
       "word": "王鹤棣工作室艾特的是谁啊",
@@ -4001,6 +4033,14 @@
       "onboard_time": 1760326822,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180593,
+      "num": 180593,
+      "word": "上拉如开上奔驰了",
+      "onboard_time": 1760524102,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 180083,
@@ -4041,14 +4081,6 @@
       "onboard_time": 1760421622,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178409,
-      "num": 229693,
-      "word": "BLG惊天2.2",
-      "onboard_time": 1760523142,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 178263,
@@ -4331,14 +4363,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 170329,
-      "num": 170329,
-      "word": "微信回应出朋友圈访客功能",
-      "onboard_time": 1760523142,
-      "rank": 28,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 170254,
       "num": 170254,
       "word": "光遇复刻",
@@ -4401,14 +4425,6 @@
       "onboard_time": 1760325142,
       "rank": 33,
       "category": "数码"
-    },
-    {
-      "raw_hot": 168311,
-      "num": 168311,
-      "word": "王源演唱会宜昌站官宣",
-      "onboard_time": 1760523922,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 168155,
@@ -4513,14 +4529,6 @@
       "onboard_time": 1760252479,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163160,
-      "num": 163160,
-      "word": "国乒女团vs日本",
-      "onboard_time": 1760520681,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 163043,
@@ -5123,6 +5131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148745,
+      "num": 148745,
+      "word": "日媒说击败中国队仅差一步之遥",
+      "onboard_time": 1760524761,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148386,
       "num": 137259,
       "word": "李亚鹏和前妻没有房产",
@@ -5313,6 +5329,14 @@
       "onboard_time": 1760411120,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 143391,
+      "num": 143391,
+      "word": "100T嘲讽LPL",
+      "onboard_time": 1760525000,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 143386,
@@ -5899,6 +5923,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 131214,
+      "num": 131214,
+      "word": "宋伊人出发去看海",
+      "onboard_time": 1760524821,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131168,
       "num": 131168,
       "word": "国乒男女团亚锦赛冲冠",
@@ -6027,6 +6059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128976,
+      "num": 180624,
+      "word": "大疆pocket3天猫现货直降900",
+      "onboard_time": 1760524520,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 128958,
       "num": 128958,
       "word": "喜人奇妙夜发布会",
@@ -6121,14 +6161,6 @@
       "onboard_time": 1760324120,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127401,
-      "num": 127401,
-      "word": "上拉如开上奔驰了",
-      "onboard_time": 1760524102,
-      "rank": 48,
-      "category": "网红"
     },
     {
       "raw_hot": 127243,
@@ -6329,6 +6361,14 @@
       "onboard_time": 1760333242,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124945,
+      "num": 124945,
+      "word": "王曼昱3比1桥本帆乃香",
+      "onboard_time": 1760525061,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 124732,
@@ -6673,6 +6713,14 @@
       "onboard_time": 1760279361,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120972,
+      "num": 120972,
+      "word": "韩心怡解约",
+      "onboard_time": 1760524281,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 120718,
@@ -12571,6 +12619,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35307,
+      "num": 185963,
+      "word": "中方回应特朗普涉大豆言论",
+      "onboard_time": 1760523981,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34939,
       "num": 745855,
       "word": "第二届世界中国学大会",
@@ -12779,6 +12835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27527,
+      "num": 136631,
+      "word": "屠宰点藏身农家院切开牛胸注水",
+      "onboard_time": 1760524341,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27465,
       "num": 161296,
       "word": "秋冬季节吹空调容易晕的原因",
@@ -12897,6 +12961,14 @@
       "onboard_time": 1760515281,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22760,
+      "num": 136347,
+      "word": "85花粉你睡着了吗我睡不着",
+      "onboard_time": 1760524940,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 22223,
@@ -13081,14 +13153,6 @@
       "onboard_time": 1760513900,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14302,
-      "num": 165931,
-      "word": "中方回应特朗普涉大豆言论",
-      "onboard_time": 1760523981,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14114,

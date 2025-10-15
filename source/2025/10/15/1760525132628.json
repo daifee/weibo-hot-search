@@ -1,0 +1,410 @@
+{
+  "runTime": 1760525132628,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 472932,
+        "num": 1075669,
+        "word": "100T爆冷战胜BLG",
+        "onboard_time": 1760518942,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 271111,
+        "num": 271111,
+        "word": "刘安琪解约",
+        "onboard_time": 1760521460,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 22588,
+        "num": 247666,
+        "word": "非凡十四五",
+        "onboard_time": 1760517860,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2114161,
+        "num": 246680,
+        "word": "再见爱人5官宣",
+        "onboard_time": 1760521103,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244425,
+        "num": 244425,
+        "word": "28nm芯片",
+        "onboard_time": 1760519902,
+        "rank": 4,
+        "category": "议题讨论,数码"
+      },
+      {
+        "raw_hot": 199321,
+        "num": 199321,
+        "word": "国乒女团vs日本",
+        "onboard_time": 1760520681,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269512,
+        "num": 194816,
+        "word": "入戏 影视化",
+        "onboard_time": 1760520622,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5865550,
+        "num": 5865550,
+        "word": "蔡国强烟花秀调查情况",
+        "onboard_time": 1760515580,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 204610,
+        "num": 190449,
+        "word": "一笑随歌",
+        "onboard_time": 1760524461,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186330,
+        "num": 186330,
+        "word": "BLG惊天2.2",
+        "onboard_time": 1760523142,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 885511,
+        "num": 186300,
+        "word": "内娱四位粉丝破百万的站姐",
+        "onboard_time": 1760522601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 741904,
+        "num": 186273,
+        "word": "黄子韬徐艺洋接吻婚纱照",
+        "onboard_time": 1760514501,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424893,
+        "num": 186223,
+        "word": "雍和宫 仅退款",
+        "onboard_time": 1760518161,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 412099,
+        "num": 186174,
+        "word": "始祖鸟承担相应赔偿修复责任",
+        "onboard_time": 1760516721,
+        "rank": 13,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 276052,
+        "num": 186164,
+        "word": "女子吸毒鼻沾K粉被海关当场抓获",
+        "onboard_time": 1760512399,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254354,
+        "num": 186113,
+        "word": "突然悟到了上班打扮漂亮的意义",
+        "onboard_time": 1760523561,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 462555,
+        "num": 186058,
+        "word": "黄子韬徐艺洋婚纱照 全是右脸",
+        "onboard_time": 1760517860,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230373,
+        "num": 186055,
+        "word": "朱丹删除女儿作品在卢浮宫展出帖子",
+        "onboard_time": 1760523082,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36499,
+        "num": 185999,
+        "word": "整个微博都在抽猫盒",
+        "onboard_time": 1760522841,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 35307,
+        "num": 185963,
+        "word": "中方回应特朗普涉大豆言论",
+        "onboard_time": 1760523981,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185938,
+        "num": 185938,
+        "word": "瑞达",
+        "onboard_time": 1760520321,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 237826,
+        "num": 185587,
+        "word": "王霏霏瘦了八斤大大方方的",
+        "onboard_time": 1760521220,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221824,
+        "num": 185048,
+        "word": "微信回应出朋友圈访客功能",
+        "onboard_time": 1760523142,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 220914,
+        "num": 184488,
+        "word": "初三女生家门口遭同班男生杀害",
+        "onboard_time": 1760501961,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217438,
+        "num": 184083,
+        "word": "村长李锐在迪拜拿下超12亿订单",
+        "onboard_time": 1760512521,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214532,
+        "num": 183412,
+        "word": "这个变美方法是真便宜啊",
+        "onboard_time": 1760523382,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 43576,
+        "num": 182691,
+        "word": "天猫双11美妆补贴历史新高",
+        "onboard_time": 1760521103,
+        "rank": 26,
+        "category": "美妆,互联网"
+      },
+      {
+        "raw_hot": 200303,
+        "num": 181838,
+        "word": "再见爱人5有邓莎",
+        "onboard_time": 1760523801,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200239,
+        "num": 181673,
+        "word": "王源演唱会宜昌站官宣",
+        "onboard_time": 1760523922,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128976,
+        "num": 180624,
+        "word": "大疆pocket3天猫现货直降900",
+        "onboard_time": 1760524520,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180593,
+        "num": 180593,
+        "word": "上拉如开上奔驰了",
+        "onboard_time": 1760524102,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 179427,
+        "num": 179427,
+        "word": "西藏江孜县委书记被免职",
+        "onboard_time": 1760517501,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 150114,
+        "num": 150114,
+        "word": "汪峰抱着森林北难舍难分",
+        "onboard_time": 1760513480,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148745,
+        "num": 148745,
+        "word": "日媒说击败中国队仅差一步之遥",
+        "onboard_time": 1760524761,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144875,
+        "num": 144875,
+        "word": "孙颖莎vs张本美和",
+        "onboard_time": 1760520801,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143391,
+        "num": 143391,
+        "word": "100T嘲讽LPL",
+        "onboard_time": 1760525000,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138311,
+        "num": 138311,
+        "word": "美国救不了台湾的稀土荒",
+        "onboard_time": 1760515941,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138209,
+        "num": 138209,
+        "word": "网易恭喜QQ音乐",
+        "onboard_time": 1760505201,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 27527,
+        "num": 136631,
+        "word": "屠宰点藏身农家院切开牛胸注水",
+        "onboard_time": 1760524341,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22760,
+        "num": 136347,
+        "word": "85花粉你睡着了吗我睡不着",
+        "onboard_time": 1760524940,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136250,
+        "num": 136250,
+        "word": "外交部回应韩国正与中国谈判",
+        "onboard_time": 1760523922,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92693,
+        "num": 132608,
+        "word": "终于有这么宠我的婆婆了",
+        "onboard_time": 1760523801,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131214,
+        "num": 131214,
+        "word": "宋伊人出发去看海",
+        "onboard_time": 1760524821,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128831,
+        "num": 128831,
+        "word": "王曼昱vs桥本帆乃香",
+        "onboard_time": 1760521401,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124945,
+        "num": 124945,
+        "word": "王曼昱3比1桥本帆乃香",
+        "onboard_time": 1760525061,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123780,
+        "num": 123780,
+        "word": "肖战小城良方开通官方账号",
+        "onboard_time": 1760522541,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122248,
+        "num": 122248,
+        "word": "Fly对战T1",
+        "onboard_time": 1760522660,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120972,
+        "num": 120972,
+        "word": "韩心怡解约",
+        "onboard_time": 1760524281,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 115129,
+        "num": 120083,
+        "word": "成毅人民日报对话",
+        "onboard_time": 1760523561,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144619,
+        "num": 120043,
+        "word": "蔡国强烟花秀影响草地面积30.06公顷",
+        "onboard_time": 1760518401,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这份关心从未改变#"
+    }
+  }
+}
