@@ -1,0 +1,410 @@
+{
+  "runTime": 1760511018691,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1195116,
+        "num": 1195116,
+        "word": "缅北一个中国人卖30多万",
+        "onboard_time": 1760508080,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453281,
+        "num": 453281,
+        "word": "魏家称杀人没什么感受",
+        "onboard_time": 1760505861,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4246,
+        "num": 396064,
+        "word": "万千气象看天津",
+        "onboard_time": 1760501182,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376227,
+        "num": 376227,
+        "word": "洞洞鞋下岗勃肯鞋上岗",
+        "onboard_time": 1760499201,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273118,
+        "num": 273118,
+        "word": "全运会乒乓球决赛参赛运动员名单",
+        "onboard_time": 1760506400,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234653,
+        "num": 234653,
+        "word": "Doinb怒喷TheShy",
+        "onboard_time": 1760499320,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 219647,
+        "num": 219647,
+        "word": "缅北果敢魏家犯罪集团专案细节曝光",
+        "onboard_time": 1760505139,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212772,
+        "num": 212772,
+        "word": "短剧折腰",
+        "onboard_time": 1760505021,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183286,
+        "num": 183286,
+        "word": "央视梳理缅北魏家覆灭之路",
+        "onboard_time": 1760504541,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175663,
+        "num": 175663,
+        "word": "杨瀚森库里互飙三分",
+        "onboard_time": 1760502861,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1215534,
+        "num": 175657,
+        "word": "网易恭喜QQ音乐",
+        "onboard_time": 1760505201,
+        "rank": 10,
+        "category": "互联网,艺人"
+      },
+      {
+        "raw_hot": 442840,
+        "num": 174358,
+        "word": "辛芷蕾又提名一个国际大奖",
+        "onboard_time": 1760507722,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 414349,
+        "num": 173960,
+        "word": "姜珮瑶 偏偏你最争气",
+        "onboard_time": 1760504482,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319772,
+        "num": 172931,
+        "word": "一直没明白为什么微信能取代QQ",
+        "onboard_time": 1760496559,
+        "rank": 13,
+        "category": "互联网,幽默"
+      },
+      {
+        "raw_hot": 235908,
+        "num": 172063,
+        "word": "郭碧婷爸爸回应病危传言",
+        "onboard_time": 1760502622,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197191,
+        "num": 171733,
+        "word": "布洛芬率先发现了甲沟炎",
+        "onboard_time": 1760506880,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170991,
+        "num": 170991,
+        "word": "何炅衰老焦虑的原因找到了",
+        "onboard_time": 1760501240,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166926,
+        "num": 166926,
+        "word": "梁靖崑老婆边吸氧边看球",
+        "onboard_time": 1760509221,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49783,
+        "num": 160772,
+        "word": "舒享大7座星光730预售76800元起",
+        "onboard_time": 1760508380,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 159371,
+        "num": 159371,
+        "word": "九重紫执行制片人参加芒果恋综",
+        "onboard_time": 1760510001,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1133834,
+        "num": 157501,
+        "word": "短剧折腰尺度好大",
+        "onboard_time": 1760505621,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 762568,
+        "num": 156805,
+        "word": "初三女生家门口遭同班男生杀害",
+        "onboard_time": 1760501961,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296283,
+        "num": 156410,
+        "word": "林永健人日发文批某顶流演员排场大",
+        "onboard_time": 1760492118,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155571,
+        "num": 155571,
+        "word": "网购卫生巾上有手写字",
+        "onboard_time": 1760502622,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154664,
+        "num": 154664,
+        "word": "孙楠已经瘦成巴掌脸了",
+        "onboard_time": 1760505981,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141022,
+        "num": 141022,
+        "word": "英雄联盟",
+        "onboard_time": 1760510420,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140309,
+        "num": 140309,
+        "word": "男生刺死女同学谎称见义勇为受伤",
+        "onboard_time": 1760503942,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134592,
+        "num": 134592,
+        "word": "缅北魏家致8名中国公民死亡",
+        "onboard_time": 1760509160,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133582,
+        "num": 133582,
+        "word": "易烊千玺粉丝挑战吉尼斯世界纪录成功",
+        "onboard_time": 1760506822,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85774,
+        "num": 132493,
+        "word": "幼崽版人在干坏事时总是不辞辛苦",
+        "onboard_time": 1760510239,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148778,
+        "num": 132460,
+        "word": "iG教练回应选用上单维鲁斯",
+        "onboard_time": 1760510420,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132305,
+        "num": 132305,
+        "word": "奥迪车主为躲闯红灯电动车不慎坠河",
+        "onboard_time": 1760508021,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126017,
+        "num": 126017,
+        "word": "S15瑞士轮",
+        "onboard_time": 1760510600,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122765,
+        "num": 122765,
+        "word": "125斤左右的姐姐们别减肥了",
+        "onboard_time": 1760490741,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106029,
+        "num": 106029,
+        "word": "谁是灵珠谁是魔丸我一眼就认出来了",
+        "onboard_time": 1760501540,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 57901,
+        "num": 100204,
+        "word": "刘宇宁本人听了都得愣3秒",
+        "onboard_time": 1760509459,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100192,
+        "num": 100192,
+        "word": "上海一博物馆展览内容惊悚吓人",
+        "onboard_time": 1760509101,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80257,
+        "num": 92559,
+        "word": "3块钱的豆腐切丝能卖45块",
+        "onboard_time": 1760507901,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90215,
+        "num": 90215,
+        "word": "胡璇貂蝉",
+        "onboard_time": 1760510600,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88900,
+        "num": 88900,
+        "word": "孙颖莎王楚钦等今晚冲冠",
+        "onboard_time": 1760509939,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88127,
+        "num": 88127,
+        "word": "为什么微胖的人看起来更年轻",
+        "onboard_time": 1760507422,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87524,
+        "num": 87524,
+        "word": "丁禹兮邓恩熙敦煌实景路透",
+        "onboard_time": 1760510660,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82510,
+        "num": 87319,
+        "word": "京东新车预计在10万至12万之间",
+        "onboard_time": 1760509701,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 87193,
+        "num": 87193,
+        "word": "陈铭武大学生潜伏28天当卧底记者",
+        "onboard_time": 1760509040,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86727,
+        "num": 86727,
+        "word": "iPhone键盘生小熊了",
+        "onboard_time": 1760502261,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 85285,
+        "num": 85285,
+        "word": "许嵩陈晓杨洋张兴朝合肥F4",
+        "onboard_time": 1760506880,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84319,
+        "num": 84319,
+        "word": "中国移动已投资新凯来",
+        "onboard_time": 1760510420,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 83900,
+        "num": 83900,
+        "word": "杨祐宁发长文悼念父亲",
+        "onboard_time": 1760506941,
+        "rank": 47,
+        "category": "艺人,作品衍生"
+      },
+      {
+        "raw_hot": 82212,
+        "num": 82212,
+        "word": "欢乐颂编剧谈杨紫小蚯蚓",
+        "onboard_time": 1760500522,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80075,
+        "num": 80075,
+        "word": "谁家偶像72岁还给粉丝开派对",
+        "onboard_time": 1760510960,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平20余次提到这个词#"
+    }
+  }
+}

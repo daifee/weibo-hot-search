@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760510251105,
+  "endTime": 1760511018691,
   "band_list": [
     {
       "raw_hot": 8054511,
@@ -1451,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 453281,
+      "num": 453281,
+      "word": "魏家称杀人没什么感受",
+      "onboard_time": 1760505861,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 451581,
       "num": 451581,
       "word": "男子变现2公斤金条净赚百万",
@@ -1659,14 +1667,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 416540,
-      "num": 416540,
-      "word": "魏家称杀人没什么感受",
-      "onboard_time": 1760505861,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 416333,
       "num": 854269,
       "word": "故宫地下有一条15公里暗沟",
@@ -1689,6 +1689,14 @@
       "onboard_time": 1760315783,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 414349,
+      "num": 192364,
+      "word": "姜珮瑶 偏偏你最争气",
+      "onboard_time": 1760504482,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 412252,
@@ -1961,14 +1969,6 @@
       "onboard_time": 1760498360,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 348106,
-      "num": 192364,
-      "word": "姜珮瑶 偏偏你最争气",
-      "onboard_time": 1760504482,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 347594,
@@ -3371,6 +3371,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 197191,
+      "num": 190235,
+      "word": "布洛芬率先发现了甲沟炎",
+      "onboard_time": 1760506880,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 197083,
       "num": 197083,
       "word": "花海找贺峻霖吃饭",
@@ -3505,14 +3513,6 @@
       "onboard_time": 1760410940,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 190235,
-      "num": 190235,
-      "word": "布洛芬率先发现了甲沟炎",
-      "onboard_time": 1760506880,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 190195,
@@ -3868,7 +3868,7 @@
     },
     {
       "raw_hot": 172622,
-      "num": 131259,
+      "num": 166926,
       "word": "梁靖崑老婆边吸氧边看球",
       "onboard_time": 1760509221,
       "rank": 30,
@@ -4264,6 +4264,14 @@
       "word": "容祖儿说汪苏泷最好听的作品是年轮",
       "onboard_time": 1760192242,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159371,
+      "num": 159371,
+      "word": "九重紫执行制片人参加芒果恋综",
+      "onboard_time": 1760510001,
+      "rank": 34,
       "category": "综艺"
     },
     {
@@ -4697,6 +4705,14 @@
       "onboard_time": 1760394074,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 148778,
+      "num": 132460,
+      "word": "iG教练回应选用上单维鲁斯",
+      "onboard_time": 1760510420,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 148386,
@@ -5259,6 +5275,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 134592,
+      "num": 134592,
+      "word": "缅北魏家致8名中国公民死亡",
+      "onboard_time": 1760509160,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134578,
       "num": 134578,
       "word": "赵丽颖直播状态",
@@ -5273,14 +5297,6 @@
       "onboard_time": 1760415082,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 134177,
-      "num": 134177,
-      "word": "缅北魏家致8名中国公民死亡",
-      "onboard_time": 1760509160,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134154,
@@ -5361,6 +5377,14 @@
       "onboard_time": 1760350881,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132305,
+      "num": 132305,
+      "word": "奥迪车主为躲闯红灯电动车不慎坠河",
+      "onboard_time": 1760508021,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132248,
@@ -5713,6 +5737,14 @@
       "onboard_time": 1760366241,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126017,
+      "num": 126017,
+      "word": "S15瑞士轮",
+      "onboard_time": 1760510600,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 126015,
@@ -6097,14 +6129,6 @@
       "onboard_time": 1760279361,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120880,
-      "num": 120880,
-      "word": "奥迪车主为躲闯红灯电动车不慎坠河",
-      "onboard_time": 1760508021,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120718,
@@ -7401,14 +7425,6 @@
       "onboard_time": 1760256861,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106531,
-      "num": 106531,
-      "word": "九重紫执行制片人参加芒果恋综",
-      "onboard_time": 1760510001,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 106331,
@@ -8739,6 +8755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90215,
+      "num": 90215,
+      "word": "胡璇貂蝉",
+      "onboard_time": 1760510600,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 90075,
       "num": 142546,
       "word": "国乒女团亚锦赛决赛见",
@@ -8931,6 +8955,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 88127,
+      "num": 88127,
+      "word": "为什么微胖的人看起来更年轻",
+      "onboard_time": 1760507422,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 88088,
       "num": 88088,
       "word": "S15赛程",
@@ -9025,6 +9057,14 @@
       "onboard_time": 1760198420,
       "rank": 31,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 87524,
+      "num": 87524,
+      "word": "丁禹兮邓恩熙敦煌实景路透",
+      "onboard_time": 1760510660,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 87362,
@@ -9137,6 +9177,14 @@
       "onboard_time": 1760356340,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 85774,
+      "num": 132493,
+      "word": "幼崽版人在干坏事时总是不辞辛苦",
+      "onboard_time": 1760510239,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 85571,
@@ -9257,6 +9305,14 @@
       "onboard_time": 1760257760,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84319,
+      "num": 84319,
+      "word": "中国移动已投资新凯来",
+      "onboard_time": 1760510420,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 84099,
@@ -9435,6 +9491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82510,
+      "num": 87319,
+      "word": "京东新车预计在10万至12万之间",
+      "onboard_time": 1760509701,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 82503,
       "num": 82503,
       "word": "迈阿密国际vs亚特兰大联",
@@ -9473,14 +9537,6 @@
       "onboard_time": 1760330903,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 81989,
-      "num": 81989,
-      "word": "京东新车预计在10万至12万之间",
-      "onboard_time": 1760509701,
-      "rank": 46,
-      "category": "汽车"
     },
     {
       "raw_hot": 81964,
@@ -9713,6 +9769,14 @@
       "onboard_time": 1760487382,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80075,
+      "num": 80075,
+      "word": "谁家偶像72岁还给粉丝开派对",
+      "onboard_time": 1760510960,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 79697,
@@ -10867,6 +10931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57901,
+      "num": 131411,
+      "word": "刘宇宁本人听了都得愣3秒",
+      "onboard_time": 1760509459,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57895,
       "num": 76587,
       "word": "极氪001",
@@ -11033,14 +11105,6 @@
       "onboard_time": 1760508380,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 54440,
-      "num": 131411,
-      "word": "刘宇宁本人听了都得愣3秒",
-      "onboard_time": 1760509459,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 53918,
@@ -12215,6 +12279,9 @@
     },
     {
       "word": "#30年后再聚北京共商妇女全面发展#"
+    },
+    {
+      "word": "#习近平20余次提到这个词#"
     }
   ]
 }
