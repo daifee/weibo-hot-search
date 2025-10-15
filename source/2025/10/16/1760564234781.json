@@ -1,0 +1,410 @@
+{
+  "runTime": 1760564234781,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 143744,
+        "num": 182999,
+        "word": "星链 缅甸",
+        "onboard_time": 1760542524,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41387,
+        "num": 41387,
+        "word": "医院发喜报庆祝门诊人数创佳绩",
+        "onboard_time": 1760543240,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1073,
+        "num": 38284,
+        "word": "我国首次批量发行盲文版地图",
+        "onboard_time": 1760486842,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89267,
+        "num": 38220,
+        "word": "折腰短剧下架",
+        "onboard_time": 1760537362,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38070,
+        "num": 38070,
+        "word": "王者荣耀 貂蝉",
+        "onboard_time": 1760540784,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 36062,
+        "num": 36062,
+        "word": "央视曝多地共享单车骑行中自动锁车",
+        "onboard_time": 1760541984,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35195,
+        "num": 35195,
+        "word": "国乒男团女团登上领奖台笑了",
+        "onboard_time": 1760544442,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30617,
+        "num": 30617,
+        "word": "特朗普威胁更换2028年奥运举办地",
+        "onboard_time": 1760528421,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25978,
+        "num": 25978,
+        "word": "近13万枚比特币被查获",
+        "onboard_time": 1760535262,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25892,
+        "num": 25892,
+        "word": "中国游客马来西亚失联酒店拒看监控",
+        "onboard_time": 1760542344,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63561,
+        "num": 25799,
+        "word": "向太儿子向佑近照曝光",
+        "onboard_time": 1760526442,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44820,
+        "num": 25411,
+        "word": "食用酸汤子后离世男子家属再发声",
+        "onboard_time": 1760546360,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35950,
+        "num": 25176,
+        "word": "邱贻可奖杯就要给孙颖莎",
+        "onboard_time": 1760546779,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28988,
+        "num": 24895,
+        "word": "何晟铭说接机人太少",
+        "onboard_time": 1760557874,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24852,
+        "num": 24852,
+        "word": "再见爱人5官宣",
+        "onboard_time": 1760521103,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22643,
+        "num": 22643,
+        "word": "李昀锐 某来到了你的家乡",
+        "onboard_time": 1760557333,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22186,
+        "num": 22186,
+        "word": "巴基斯坦同意与阿富汗临时停火",
+        "onboard_time": 1760543423,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21493,
+        "num": 21493,
+        "word": "宋伊人去云南了",
+        "onboard_time": 1760532321,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20295,
+        "num": 20295,
+        "word": "卖出500克黄金 日赚五万",
+        "onboard_time": 1760538142,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18889,
+        "num": 18889,
+        "word": "曾凡博被裁",
+        "onboard_time": 1760540663,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38177,
+        "num": 18850,
+        "word": "金店老板说金价跌起来像泄洪",
+        "onboard_time": 1760544262,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18919,
+        "num": 18826,
+        "word": "微信回应出朋友圈访客功能",
+        "onboard_time": 1760523142,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 18763,
+        "num": 18763,
+        "word": "王楚钦林诗栋梁靖崑登上领奖台",
+        "onboard_time": 1760545100,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18598,
+        "num": 18598,
+        "word": "京东补贴",
+        "onboard_time": 1760533582,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 18082,
+        "num": 18082,
+        "word": "金价飙涨三大原因",
+        "onboard_time": 1760548278,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 17491,
+        "num": 17491,
+        "word": "刘嘉瑞直播",
+        "onboard_time": 1760540184,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 17126,
+        "num": 17126,
+        "word": "邓莎说我是丧偶式婚姻",
+        "onboard_time": 1760535683,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16469,
+        "num": 16469,
+        "word": "王者荣耀 李白",
+        "onboard_time": 1760541265,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13044,
+        "num": 16451,
+        "word": "微博视界大会投票",
+        "onboard_time": 1760543602,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16443,
+        "num": 16443,
+        "word": "警方通报女生被合租男偷拍",
+        "onboard_time": 1760538564,
+        "rank": 29,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 15295,
+        "num": 15295,
+        "word": "荣耀发布会含金量真高",
+        "onboard_time": 1760544322,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14820,
+        "num": 14820,
+        "word": "京东现货",
+        "onboard_time": 1760526321,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 14138,
+        "num": 14138,
+        "word": "ally收下出轨前男友礼物",
+        "onboard_time": 1760562134,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 14125,
+        "num": 14125,
+        "word": "内娱四位粉丝破百万的站姐",
+        "onboard_time": 1760522601,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14068,
+        "num": 14068,
+        "word": "真正长大了好像就是这样",
+        "onboard_time": 1760536642,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12996,
+        "num": 14065,
+        "word": "孙颖莎举起奖杯",
+        "onboard_time": 1760543602,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12907,
+        "num": 14065,
+        "word": "这次山东的目标是星辰大海",
+        "onboard_time": 1760559133,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12885,
+        "num": 14061,
+        "word": "jiejie欢迎来到中国",
+        "onboard_time": 1760540243,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12865,
+        "num": 14057,
+        "word": "国台办套用没出息歌词回应",
+        "onboard_time": 1760557035,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 12699,
+        "num": 14055,
+        "word": "嘉宾将奖杯交给孙颖莎",
+        "onboard_time": 1760543302,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12578,
+        "num": 14051,
+        "word": "曝赵丽颖签约新经纪人",
+        "onboard_time": 1760531304,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12510,
+        "num": 14047,
+        "word": "突然悟到了上班打扮漂亮的意义",
+        "onboard_time": 1760523561,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12282,
+        "num": 14044,
+        "word": "M5芯片",
+        "onboard_time": 1760538804,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 12233,
+        "num": 14043,
+        "word": "林心如再见爱人5官宣",
+        "onboard_time": 1760526621,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12187,
+        "num": 14040,
+        "word": "亚锦赛 颁奖",
+        "onboard_time": 1760538564,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12146,
+        "num": 14036,
+        "word": "再见爱人 李施嬅",
+        "onboard_time": 1760525421,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11788,
+        "num": 14034,
+        "word": "黄子韬徐艺洋接吻婚纱照",
+        "onboard_time": 1760514501,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11737,
+        "num": 14030,
+        "word": "罗云熙水龙吟高燃打戏",
+        "onboard_time": 1760553735,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11640,
+        "num": 14030,
+        "word": "85花粉你睡着了吗我睡不着",
+        "onboard_time": 1760524940,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11432,
+        "num": 14027,
+        "word": "100T嘲讽LPL",
+        "onboard_time": 1760525000,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平经济思想引领新时代经济工作#"
+    }
+  }
+}

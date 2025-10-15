@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760563400867,
+  "endTime": 1760564234781,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -13899,6 +13899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28988,
+      "num": 24895,
+      "word": "何晟铭说接机人太少",
+      "onboard_time": 1760557874,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28938,
       "num": 43846,
       "word": "消费10年后发现了拼多多的秘密",
@@ -13937,14 +13945,6 @@
       "onboard_time": 1760266821,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27578,
-      "num": 23655,
-      "word": "何晟铭说接机人太少",
-      "onboard_time": 1760557874,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 27527,
@@ -14355,6 +14355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 14138,
+      "num": 14138,
+      "word": "ally收下出轨前男友礼物",
+      "onboard_time": 1760562134,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 14114,
       "num": 25324,
       "word": "以前型人格",
@@ -14371,20 +14379,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 13379,
-      "num": 13379,
-      "word": "ally收下出轨前男友礼物",
-      "onboard_time": 1760562134,
-      "rank": 33,
-      "category": "网红"
-    },
-    {
       "raw_hot": 13104,
       "num": 35435,
       "word": "村民把粮食晒满派出所",
       "onboard_time": 1760300653,
       "rank": 48,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 12907,
+      "num": 15577,
+      "word": "这次山东的目标是星辰大海",
+      "onboard_time": 1760559133,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 12865,
+      "num": 15589,
+      "word": "国台办套用没出息歌词回应",
+      "onboard_time": 1760557035,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12584,
@@ -14401,22 +14417,6 @@
       "onboard_time": 1760205436,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12019,
-      "num": 15589,
-      "word": "国台办套用没出息歌词回应",
-      "onboard_time": 1760557035,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 11723,
-      "num": 15577,
-      "word": "这次山东的目标是星辰大海",
-      "onboard_time": 1760559133,
-      "rank": 41,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11494,
