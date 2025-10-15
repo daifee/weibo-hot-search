@@ -1,6 +1,6 @@
 {
   "startTime": 1760545770711,
-  "endTime": 1760567959880,
+  "endTime": 1760570570268,
   "band_list": [
     {
       "raw_hot": 990684,
@@ -56,6 +56,14 @@
       "word": "央视曝多地共享单车骑行中自动锁车",
       "onboard_time": 1760541984,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262766,
+      "num": 262766,
+      "word": "医院发喜报庆祝门诊人数创佳绩",
+      "onboard_time": 1760543240,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -115,6 +123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203069,
+      "num": 80803,
+      "word": "女子在台北车站大厅遭侵犯无人制止",
+      "onboard_time": 1760570479,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201606,
       "num": 154562,
       "word": "金店老板说金价跌起来像泄洪",
@@ -123,12 +139,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 188724,
-      "num": 188724,
-      "word": "医院发喜报庆祝门诊人数创佳绩",
-      "onboard_time": 1760543240,
-      "rank": 24,
+      "raw_hot": 186539,
+      "num": 98987,
+      "word": "食用酸汤子后离世男子家属再发声",
+      "onboard_time": 1760546360,
+      "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179895,
+      "num": 96630,
+      "word": "俄无人机救下一名正遭乌军性侵女子",
+      "onboard_time": 1760570240,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 168257,
@@ -137,6 +161,14 @@
       "onboard_time": 1760538142,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164838,
+      "num": 95595,
+      "word": "晚上的冷和早上的冷的区别",
+      "onboard_time": 1760564353,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 163734,
@@ -155,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150367,
+      "num": 150367,
+      "word": "特朗普威胁更换2028年奥运举办地",
+      "onboard_time": 1760528421,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137656,
       "num": 137656,
       "word": "微信回应出朋友圈访客功能",
@@ -171,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134950,
+      "num": 93475,
+      "word": "肖战或演十日终焉",
+      "onboard_time": 1760570539,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125445,
       "num": 125445,
       "word": "国乒男团女团登上领奖台笑了",
@@ -185,14 +233,6 @@
       "onboard_time": 1760540243,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 112079,
-      "num": 78563,
-      "word": "食用酸汤子后离世男子家属再发声",
-      "onboard_time": 1760546360,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110452,
@@ -217,6 +257,14 @@
       "onboard_time": 1760544501,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 103642,
+      "num": 92772,
+      "word": "林诗栋说花儿有股臭味",
+      "onboard_time": 1760569939,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 102981,
@@ -249,6 +297,14 @@
       "onboard_time": 1760517860,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91559,
+      "num": 91559,
+      "word": "中国原子弹爆炸成功61周年",
+      "onboard_time": 1760570059,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90240,
@@ -291,12 +347,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 82339,
-      "num": 82339,
-      "word": "特朗普威胁更换2028年奥运举办地",
-      "onboard_time": 1760528421,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 78382,
+      "num": 79023,
+      "word": "邱贻可奖杯就要给孙颖莎",
+      "onboard_time": 1760546779,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 77905,
@@ -307,12 +363,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77655,
-      "num": 79023,
-      "word": "邱贻可奖杯就要给孙颖莎",
-      "onboard_time": 1760546779,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 75805,
+      "num": 58565,
+      "word": "一声东方巨响让中国人挺直了腰杆",
+      "onboard_time": 1760570479,
+      "rank": 30,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 75426,
@@ -329,6 +385,14 @@
       "onboard_time": 1760544322,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 73963,
+      "num": 73963,
+      "word": "何晟铭说接机人太少",
+      "onboard_time": 1760557874,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 71081,
@@ -363,12 +427,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63153,
-      "num": 52805,
-      "word": "晚上的冷和早上的冷的区别",
-      "onboard_time": 1760564353,
-      "rank": 15,
-      "category": "幽默"
+      "raw_hot": 65133,
+      "num": 65133,
+      "word": "ally收下出轨前男友礼物",
+      "onboard_time": 1760562134,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 62390,
+      "num": 80928,
+      "word": "一笑随歌凤戏阳怀孕了",
+      "onboard_time": 1760567715,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 62349,
+      "num": 78778,
+      "word": "金价飙涨三大原因",
+      "onboard_time": 1760548278,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 61319,
@@ -411,20 +491,20 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 56519,
+      "num": 56519,
+      "word": "阿富汗首都喀布尔突发爆炸",
+      "onboard_time": 1760566935,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 55624,
       "num": 78398,
       "word": "再见爱人 李施嬅",
       "onboard_time": 1760525421,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 55308,
-      "num": 78778,
-      "word": "金价飙涨三大原因",
-      "onboard_time": 1760548278,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 53120,
@@ -435,12 +515,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 52782,
-      "num": 52782,
-      "word": "ally收下出轨前男友礼物",
-      "onboard_time": 1760562134,
-      "rank": 33,
-      "category": "网红"
+      "raw_hot": 53083,
+      "num": 53083,
+      "word": "122号选手樊振东",
+      "onboard_time": 1760570539,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 48556,
+      "num": 48556,
+      "word": "小米17系列背屏将更新",
+      "onboard_time": 1760570479,
+      "rank": 38,
+      "category": "数码"
     },
     {
       "raw_hot": 48068,
@@ -451,12 +539,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44273,
+      "num": 44273,
+      "word": "李昀锐 某来到了你的家乡",
+      "onboard_time": 1760557333,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 41165,
+      "num": 41165,
+      "word": "以为在装病结果真确诊了",
+      "onboard_time": 1760569759,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 41008,
       "num": 161738,
       "word": "海尔洗衣机装了个摩天大楼稳定器",
       "onboard_time": 1760541682,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 40289,
+      "num": 40289,
+      "word": "趵突泉再现水涌若轮景象",
+      "onboard_time": 1760570539,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39348,
+      "num": 39348,
+      "word": "爷爷就知道天天梳他的宝贝",
+      "onboard_time": 1760569577,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 34727,
@@ -467,28 +587,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 31687,
-      "num": 40095,
-      "word": "李昀锐 某来到了你的家乡",
-      "onboard_time": 1760557333,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 29552,
       "num": 78380,
       "word": "2025华晨宇火星演唱会",
       "onboard_time": 1760549357,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 28988,
-      "num": 40092,
-      "word": "何晟铭说接机人太少",
-      "onboard_time": 1760557874,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 28011,
@@ -521,14 +625,6 @@
       "onboard_time": 1760551817,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21252,
-      "num": 40085,
-      "word": "阿富汗首都喀布尔突发爆炸",
-      "onboard_time": 1760566935,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 20153,
@@ -569,14 +665,6 @@
       "onboard_time": 1760533582,
       "rank": 45,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 17074,
-      "num": 40079,
-      "word": "一笑随歌凤戏阳怀孕了",
-      "onboard_time": 1760567715,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 16757,

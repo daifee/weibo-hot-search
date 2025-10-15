@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760567959880,
+  "endTime": 1760570570268,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -11515,6 +11515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262766,
+      "num": 262766,
+      "word": "医院发喜报庆祝门诊人数创佳绩",
+      "onboard_time": 1760543240,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262605,
       "num": 262605,
       "word": "中国半导体行业协会严重关切",
@@ -14467,6 +14475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203069,
+      "num": 80803,
+      "word": "女子在台北车站大厅遭侵犯无人制止",
+      "onboard_time": 1760570479,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203042,
       "num": 203042,
       "word": "国考",
@@ -16171,14 +16187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 188724,
-      "num": 188724,
-      "word": "医院发喜报庆祝门诊人数创佳绩",
-      "onboard_time": 1760543240,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 188680,
       "num": 175638,
       "word": "王鹤棣太抢手了",
@@ -16329,6 +16337,14 @@
       "onboard_time": 1760014220,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186539,
+      "num": 98987,
+      "word": "食用酸汤子后离世男子家属再发声",
+      "onboard_time": 1760546360,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186534,
@@ -17073,6 +17089,14 @@
       "onboard_time": 1759668263,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 179895,
+      "num": 96630,
+      "word": "俄无人机救下一名正遭乌军性侵女子",
+      "onboard_time": 1760570240,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 179675,
@@ -19088,6 +19112,14 @@
       "word": "姐姐骗弟弟学校提前一天开学",
       "onboard_time": 1759992381,
       "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 164838,
+      "num": 95595,
+      "word": "晚上的冷和早上的冷的区别",
+      "onboard_time": 1760564353,
+      "rank": 15,
       "category": "幽默"
     },
     {
@@ -24321,6 +24353,14 @@
       "onboard_time": 1759983621,
       "rank": 36,
       "category": "游戏,电竞"
+    },
+    {
+      "raw_hot": 134950,
+      "num": 93475,
+      "word": "肖战或演十日终焉",
+      "onboard_time": 1760570539,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 134919,
@@ -30883,14 +30923,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 112079,
-      "num": 78563,
-      "word": "食用酸汤子后离世男子家属再发声",
-      "onboard_time": 1760546360,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112077,
       "num": 112077,
       "word": "张福正不许哭",
@@ -34425,6 +34457,14 @@
       "onboard_time": 1759744761,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103642,
+      "num": 92772,
+      "word": "林诗栋说花儿有股臭味",
+      "onboard_time": 1760569939,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 103608,
@@ -38627,6 +38667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 91559,
+      "num": 91559,
+      "word": "中国原子弹爆炸成功61周年",
+      "onboard_time": 1760570059,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 91474,
       "num": 91474,
       "word": "向阳而生奔赴未来",
@@ -42779,6 +42827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78382,
+      "num": 79023,
+      "word": "邱贻可奖杯就要给孙颖莎",
+      "onboard_time": 1760546779,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78376,
       "num": 78376,
       "word": "为什么猫对小孩很容忍",
@@ -42961,14 +43017,6 @@
       "onboard_time": 1759396581,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77655,
-      "num": 79023,
-      "word": "邱贻可奖杯就要给孙颖莎",
-      "onboard_time": 1760546779,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 77641,
@@ -43329,6 +43377,14 @@
       "onboard_time": 1759451659,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 75805,
+      "num": 58565,
+      "word": "一声东方巨响让中国人挺直了腰杆",
+      "onboard_time": 1760570479,
+      "rank": 30,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 75738,
@@ -43697,6 +43753,14 @@
       "onboard_time": 1760339600,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 73963,
+      "num": 73963,
+      "word": "何晟铭说接机人太少",
+      "onboard_time": 1760557874,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 73922,
@@ -45123,6 +45187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 65133,
+      "num": 65133,
+      "word": "ally收下出轨前男友礼物",
+      "onboard_time": 1760562134,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 65127,
       "num": 107013,
       "word": "俄罗斯石脑油最大买家是台湾",
@@ -45355,14 +45427,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 63153,
-      "num": 52805,
-      "word": "晚上的冷和早上的冷的区别",
-      "onboard_time": 1760564353,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 63147,
       "num": 63147,
       "word": "苏北五虎遭团灭",
@@ -45457,6 +45521,22 @@
       "onboard_time": 1759232782,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62390,
+      "num": 80928,
+      "word": "一笑随歌凤戏阳怀孕了",
+      "onboard_time": 1760567715,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 62349,
+      "num": 78778,
+      "word": "金价飙涨三大原因",
+      "onboard_time": 1760548278,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 62181,
@@ -46203,6 +46283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56519,
+      "num": 56519,
+      "word": "阿富汗首都喀布尔突发爆炸",
+      "onboard_time": 1760566935,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 56357,
       "num": 197237,
       "word": "在旅游中才懂历史真的可以触摸",
@@ -46328,14 +46416,6 @@
       "word": "黄金有望突破4100",
       "onboard_time": 1760370679,
       "rank": 49,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 55308,
-      "num": 78778,
-      "word": "金价飙涨三大原因",
-      "onboard_time": 1760548278,
-      "rank": 22,
       "category": "财经"
     },
     {
@@ -46723,6 +46803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53083,
+      "num": 53083,
+      "word": "122号选手樊振东",
+      "onboard_time": 1760570539,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53071,
       "num": 53071,
       "word": "欧冠联赛",
@@ -46737,14 +46825,6 @@
       "onboard_time": 1760085321,
       "rank": 17,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 52782,
-      "num": 52782,
-      "word": "ally收下出轨前男友礼物",
-      "onboard_time": 1760562134,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 52716,
@@ -47251,6 +47331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48556,
+      "num": 48556,
+      "word": "小米17系列背屏将更新",
+      "onboard_time": 1760570479,
+      "rank": 38,
+      "category": "数码"
+    },
+    {
       "raw_hot": 48526,
       "num": 110240,
       "word": "乌军一英国雇佣兵返乡后自杀",
@@ -47681,6 +47769,14 @@
       "onboard_time": 1760144301,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44273,
+      "num": 44273,
+      "word": "李昀锐 某来到了你的家乡",
+      "onboard_time": 1760557333,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 44231,
@@ -48115,6 +48211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40289,
+      "num": 40289,
+      "word": "趵突泉再现水涌若轮景象",
+      "onboard_time": 1760570539,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40268,
       "num": 40268,
       "word": "蔡徐坤国际认可度",
@@ -48217,6 +48321,14 @@
       "onboard_time": 1759561639,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 39348,
+      "num": 39348,
+      "word": "爷爷就知道天天梳他的宝贝",
+      "onboard_time": 1760569577,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 39307,
@@ -49139,14 +49251,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 31687,
-      "num": 40095,
-      "word": "李昀锐 某来到了你的家乡",
-      "onboard_time": 1760557333,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 31664,
       "num": 200096,
       "word": "大眼音乐节给内娱亿点震撼",
@@ -49473,14 +49577,6 @@
       "onboard_time": 1759831221,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28988,
-      "num": 40092,
-      "word": "何晟铭说接机人太少",
-      "onboard_time": 1760557874,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 28898,
@@ -50219,14 +50315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21252,
-      "num": 40085,
-      "word": "阿富汗首都喀布尔突发爆炸",
-      "onboard_time": 1760566935,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 21060,
       "num": 24036,
       "word": "国庆档",
@@ -50601,14 +50689,6 @@
       "onboard_time": 1759691715,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 17074,
-      "num": 40079,
-      "word": "一笑随歌凤戏阳怀孕了",
-      "onboard_time": 1760567715,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 16959,
