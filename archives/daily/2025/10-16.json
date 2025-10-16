@@ -1,13 +1,21 @@
 {
   "startTime": 1760545770711,
-  "endTime": 1760600386126,
+  "endTime": 1760603772276,
   "band_list": [
     {
       "raw_hot": 4061269,
-      "num": 191486,
+      "num": 234829,
       "word": "黄子韬徐艺洋婚礼",
       "onboard_time": 1760597781,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1330856,
+      "num": 225851,
+      "word": "黄子韬婚礼有没有鹿晗",
+      "onboard_time": 1760603722,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -147,6 +155,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 691581,
+      "num": 354247,
+      "word": "网友拍到孩子赤裸爬行形似野人",
+      "onboard_time": 1760598861,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 635008,
       "num": 1101601,
       "word": "小车突然爆胎后排女子被甩出车窗",
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 616184,
-      "num": 218757,
+      "num": 222663,
       "word": "王俊凯几乎零片酬出演刺猬",
       "onboard_time": 1760595681,
       "rank": 17,
@@ -209,6 +225,14 @@
       "onboard_time": 1760574442,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 503410,
+      "num": 233715,
+      "word": "旺仔小乔掉粉超695万",
+      "onboard_time": 1760598861,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 486060,
@@ -363,20 +387,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307011,
-      "num": 307011,
-      "word": "网友拍到孩子赤裸爬行形似野人",
-      "onboard_time": 1760598861,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 303760,
       "num": 196601,
       "word": "刘雯好红",
       "onboard_time": 1760574142,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 303666,
+      "num": 303666,
+      "word": "辽宁4岁女童翻车窗后失联正搜救",
+      "onboard_time": 1760599341,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294967,
@@ -499,6 +523,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 237578,
+      "num": 237578,
+      "word": "TES对战100T",
+      "onboard_time": 1760602102,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 235517,
       "num": 235517,
       "word": "我听交警的事件有后续了",
@@ -529,6 +561,14 @@
       "onboard_time": 1760586262,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 221127,
+      "num": 221127,
+      "word": "美甲也是轮回",
+      "onboard_time": 1760599521,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 220030,
@@ -627,14 +667,6 @@
       "category": "美食,民生新闻"
     },
     {
-      "raw_hot": 195365,
-      "num": 183816,
-      "word": "旺仔小乔掉粉超695万",
-      "onboard_time": 1760598861,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193856,
       "num": 193856,
       "word": "肖战或演十日终焉",
@@ -715,14 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180440,
-      "num": 148313,
-      "word": "美甲也是轮回",
-      "onboard_time": 1760599521,
-      "rank": 31,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 178318,
       "num": 178318,
       "word": "特朗普威胁更换2028年奥运举办地",
@@ -731,11 +755,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 175656,
-      "num": 175656,
-      "word": "辽宁4岁女童翻车窗后失联正搜救",
-      "onboard_time": 1760599341,
-      "rank": 45,
+      "raw_hot": 176616,
+      "num": 176616,
+      "word": "男孩偷卖姥姥13克黄金仅换4200元",
+      "onboard_time": 1760599822,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176309,
+      "num": 176309,
+      "word": "湖南一女主播收到炸弹包裹被炸伤",
+      "onboard_time": 1760602642,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -779,6 +811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 166541,
+      "num": 221537,
+      "word": "再见爱人 rapper夫妇",
+      "onboard_time": 1760598861,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164838,
       "num": 95595,
       "word": "晚上的冷和早上的冷的区别",
@@ -811,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162747,
+      "num": 162747,
+      "word": "陈哲远新手机摔了",
+      "onboard_time": 1760599460,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162111,
       "num": 162111,
       "word": "大气温室气体浓度创人类历史新高",
@@ -835,12 +883,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154953,
-      "num": 154953,
-      "word": "陈哲远新手机摔了",
-      "onboard_time": 1760599460,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 154852,
+      "num": 150867,
+      "word": "孔雪儿想象中穿一字肩的样子",
+      "onboard_time": 1760602401,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 154837,
@@ -867,6 +915,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152207,
+      "num": 152207,
+      "word": "掉的不成串的葡萄有销路了",
+      "onboard_time": 1760602642,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 150492,
+      "num": 235682,
+      "word": "外交部回应美方所谓去中国化",
+      "onboard_time": 1760603000,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 150015,
       "num": 92772,
       "word": "林诗栋说花儿有股臭味",
@@ -884,7 +948,7 @@
     },
     {
       "raw_hot": 148530,
-      "num": 148530,
+      "num": 153555,
       "word": "普通人改命是要刮一层皮的",
       "onboard_time": 1760599281,
       "rank": 37,
@@ -897,6 +961,14 @@
       "onboard_time": 1760579421,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147844,
+      "num": 147844,
+      "word": "金价疯涨黄金回收商生意火爆",
+      "onboard_time": 1760598260,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 147588,
@@ -915,14 +987,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 145695,
-      "num": 145695,
-      "word": "金价疯涨黄金回收商生意火爆",
-      "onboard_time": 1760598260,
-      "rank": 27,
-      "category": "财经"
-    },
-    {
       "raw_hot": 145319,
       "num": 145319,
       "word": "免签入境外国人同比增48.3%",
@@ -937,14 +1001,6 @@
       "onboard_time": 1760589442,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 140102,
-      "num": 140102,
-      "word": "男孩偷卖姥姥13克黄金仅换4200元",
-      "onboard_time": 1760599822,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139247,
@@ -1243,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115894,
+      "num": 120821,
+      "word": "警方回应香港女游客在台车站遭性侵",
+      "onboard_time": 1760603361,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114127,
       "num": 114127,
       "word": "柯淳让刘嘉玲跟梁朝伟发语音撒娇",
@@ -1467,6 +1531,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 101053,
+      "num": 101053,
+      "word": "TES战胜100T",
+      "onboard_time": 1760603722,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100980,
       "num": 100980,
       "word": "近13万枚比特币被查获",
@@ -1507,6 +1579,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 98539,
+      "num": 158127,
+      "word": "折腰长剧爆火短剧夭折",
+      "onboard_time": 1760601202,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98303,
       "num": 132592,
       "word": "光刻机是拿来用的不是拿来展的",
@@ -1529,6 +1609,14 @@
       "onboard_time": 1760587402,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 97048,
+      "num": 157355,
+      "word": "少年歌行对家的故事拍成剧了",
+      "onboard_time": 1760603542,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 97033,
@@ -1617,6 +1705,14 @@
       "onboard_time": 1760592682,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 93026,
+      "num": 93026,
+      "word": "把张晚意判给每一个不会拍照的人",
+      "onboard_time": 1760603661,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 90771,
@@ -1835,6 +1931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 73595,
+      "num": 235352,
+      "word": "刘宇宁京东直播",
+      "onboard_time": 1760598441,
+      "rank": 10,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 71081,
       "num": 71081,
       "word": "巴基斯坦同意与阿富汗临时停火",
@@ -1849,6 +1953,14 @@
       "onboard_time": 1760538564,
       "rank": 42,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 70840,
+      "num": 97378,
+      "word": "张凌赫何苏叶 前10唯一现偶角色",
+      "onboard_time": 1760602281,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 69950,
@@ -1881,6 +1993,22 @@
       "onboard_time": 1760591241,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66535,
+      "num": 221294,
+      "word": "虹桥机场2名外国人脱鞋占6个座",
+      "onboard_time": 1760602701,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66321,
+      "num": 102138,
+      "word": "05超女的女儿参加芒果选秀",
+      "onboard_time": 1760602462,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 66307,
@@ -2107,14 +2235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44683,
-      "num": 190523,
-      "word": "刘宇宁京东直播",
-      "onboard_time": 1760598441,
-      "rank": 10,
-      "category": "艺人,互联网"
-    },
-    {
       "raw_hot": 44273,
       "num": 44273,
       "word": "李昀锐 某来到了你的家乡",
@@ -2225,6 +2345,14 @@
       "onboard_time": 1760549177,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22188,
+      "num": 104796,
+      "word": "算力如何变成生产力",
+      "onboard_time": 1760602522,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21992,
@@ -2363,7 +2491,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 870,
+      "raw_hot": 6091,
       "num": 462929,
       "word": "万千气象看天津",
       "onboard_time": 1760501182,
