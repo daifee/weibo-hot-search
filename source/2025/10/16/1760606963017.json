@@ -1,0 +1,410 @@
+{
+  "runTime": 1760606963017,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 647919,
+        "num": 1103667,
+        "word": "缅北刘家强迫女性吸毒",
+        "onboard_time": 1760593043,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 502664,
+        "num": 502664,
+        "word": "T1对战CFO",
+        "onboard_time": 1760605879,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19539,
+        "num": 433910,
+        "word": "中国原子弹爆炸成功61周年",
+        "onboard_time": 1760570059,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 421349,
+        "num": 421349,
+        "word": "网友拍到孩子赤裸爬行形似野人",
+        "onboard_time": 1760598861,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401976,
+        "num": 401976,
+        "word": "湖南一女主播收到炸弹包裹被炸伤",
+        "onboard_time": 1760602642,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373164,
+        "num": 373164,
+        "word": "缅北电诈首富",
+        "onboard_time": 1760591901,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292550,
+        "num": 292550,
+        "word": "TES战胜100T",
+        "onboard_time": 1760603722,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 280193,
+        "num": 280193,
+        "word": "男孩偷卖姥姥13克黄金仅换4200元",
+        "onboard_time": 1760599822,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229186,
+        "num": 229186,
+        "word": "辽宁4岁女童翻车窗后失联正搜救",
+        "onboard_time": 1760599341,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223379,
+        "num": 223379,
+        "word": "刘家电诈园区统一建炮楼",
+        "onboard_time": 1760594840,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2778001,
+        "num": 222002,
+        "word": "黄子韬徐艺洋婚礼",
+        "onboard_time": 1760597781,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450219,
+        "num": 216952,
+        "word": "旺仔小乔掉粉超695万",
+        "onboard_time": 1760598861,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426522,
+        "num": 208252,
+        "word": "警方回应香港女游客在台车站遭性侵",
+        "onboard_time": 1760603361,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 264608,
+        "num": 201666,
+        "word": "掉的不成串的葡萄有销路了",
+        "onboard_time": 1760602642,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20352,
+        "num": 196523,
+        "word": "到底哪里有淘趣猫啊",
+        "onboard_time": 1760605280,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1513680,
+        "num": 191644,
+        "word": "姜潮抢到了黄子韬的西兰花",
+        "onboard_time": 1760604801,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496387,
+        "num": 186479,
+        "word": "徐艺洋500克拉玻璃戒",
+        "onboard_time": 1760606722,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259374,
+        "num": 178970,
+        "word": "何炅说现在特别痛苦又近视又老花",
+        "onboard_time": 1760591421,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225862,
+        "num": 174975,
+        "word": "王俊凯几乎零片酬出演刺猬",
+        "onboard_time": 1760595681,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42793,
+        "num": 169594,
+        "word": "纵横G700的守护型人格",
+        "onboard_time": 1760605520,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 98389,
+        "num": 161672,
+        "word": "京东直播",
+        "onboard_time": 1760605581,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 160470,
+        "num": 160470,
+        "word": "外交部回应美方所谓去中国化",
+        "onboard_time": 1760603000,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156355,
+        "num": 156355,
+        "word": "板垣伴信去世",
+        "onboard_time": 1760604680,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154474,
+        "num": 154474,
+        "word": "白俄罗斯女子在缅甸被贩卖器官",
+        "onboard_time": 1760605341,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111224,
+        "num": 151888,
+        "word": "折腰长剧爆火短剧夭折",
+        "onboard_time": 1760601202,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151819,
+        "num": 151819,
+        "word": "榜一大哥称已正式起诉旺仔小乔",
+        "onboard_time": 1760590162,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136628,
+        "num": 136628,
+        "word": "谁家节目让六旬老人哐哐做饭啊",
+        "onboard_time": 1760604500,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134618,
+        "num": 134618,
+        "word": "美甲也是轮回",
+        "onboard_time": 1760599521,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 133238,
+        "num": 133238,
+        "word": "怀孕9个月的超模为维密大秀开场",
+        "onboard_time": 1760584522,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127407,
+        "num": 127407,
+        "word": "孙颖莎何卓佳可爱合影",
+        "onboard_time": 1760606061,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141844,
+        "num": 122637,
+        "word": "西湖的水居然肥成这样",
+        "onboard_time": 1760605581,
+        "rank": 30,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 108090,
+        "num": 117273,
+        "word": "邓莎儿子说你们不吵架也不说话",
+        "onboard_time": 1760604861,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114238,
+        "num": 114238,
+        "word": "路行说邓莎最大的付出是生儿子",
+        "onboard_time": 1760592861,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111400,
+        "num": 111400,
+        "word": "刘嘉玲被问怎么不生孩子",
+        "onboard_time": 1760591901,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119890,
+        "num": 109834,
+        "word": "当年轻人的装修思路打开后",
+        "onboard_time": 1760606782,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107597,
+        "num": 107597,
+        "word": "陈哲远新手机摔了",
+        "onboard_time": 1760599460,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107370,
+        "num": 107370,
+        "word": "虹桥机场2名外国人脱鞋占6个座",
+        "onboard_time": 1760602701,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106813,
+        "num": 106813,
+        "word": "内娱第一对爱豆夫妻",
+        "onboard_time": 1760605161,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103339,
+        "num": 103339,
+        "word": "包子铺蒸笼 发霉",
+        "onboard_time": 1760602102,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101172,
+        "num": 101172,
+        "word": "实习生第一次接受句号冲击",
+        "onboard_time": 1760604680,
+        "rank": 39,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 93858,
+        "num": 93858,
+        "word": "当地公安回应主播收到炸弹包裹被炸伤",
+        "onboard_time": 1760604981,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87581,
+        "num": 87581,
+        "word": "黄金涨幅52%专家称有短期回调可能",
+        "onboard_time": 1760594962,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86200,
+        "num": 86200,
+        "word": "沈月演技",
+        "onboard_time": 1760601982,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84984,
+        "num": 84984,
+        "word": "金价疯涨黄金回收商生意火爆",
+        "onboard_time": 1760598260,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82116,
+        "num": 82116,
+        "word": "05超女的女儿参加芒果选秀",
+        "onboard_time": 1760602462,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80618,
+        "num": 80618,
+        "word": "内娱拍出味最正的坠入爱河了",
+        "onboard_time": 1760606839,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79960,
+        "num": 79960,
+        "word": "居民在家睡觉灭蚊人员闯入拿走绿植",
+        "onboard_time": 1760603900,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73474,
+        "num": 77983,
+        "word": "奔跑吧特别季阵容",
+        "onboard_time": 1760585720,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72060,
+        "num": 77252,
+        "word": "再见爱人 rapper夫妇",
+        "onboard_time": 1760598861,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70371,
+        "num": 77116,
+        "word": "再见爱人5开播",
+        "onboard_time": 1760588240,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平给中国农业大学全体师生回信#"
+    }
+  }
+}

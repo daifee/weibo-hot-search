@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760604562485,
+  "endTime": 1760606963017,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -160,6 +160,14 @@
       "word": "林永健人日发文批某顶流演员排场大",
       "onboard_time": 1760492118,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1513680,
+      "num": 191644,
+      "word": "姜潮抢到了黄子韬的西兰花",
+      "onboard_time": 1760604801,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -932,7 +940,7 @@
     },
     {
       "raw_hot": 691581,
-      "num": 354247,
+      "num": 421349,
       "word": "网友拍到孩子赤裸爬行形似野人",
       "onboard_time": 1760598861,
       "rank": 32,
@@ -1675,6 +1683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502664,
+      "num": 502664,
+      "word": "T1对战CFO",
+      "onboard_time": 1760605879,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 502105,
       "num": 213022,
       "word": "白鹿想染头发",
@@ -1713,6 +1729,14 @@
       "onboard_time": 1760328383,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 496387,
+      "num": 186479,
+      "word": "徐艺洋500克拉玻璃戒",
+      "onboard_time": 1760606722,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 496195,
@@ -2155,6 +2179,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 426522,
+      "num": 208252,
+      "word": "警方回应香港女游客在台车站遭性侵",
+      "onboard_time": 1760603361,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 426285,
       "num": 518223,
       "word": "聊天这样结尾的人往往很在乎你",
@@ -2329,6 +2361,14 @@
       "onboard_time": 1760335462,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 401976,
+      "num": 401976,
+      "word": "湖南一女主播收到炸弹包裹被炸伤",
+      "onboard_time": 1760602642,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 401128,
@@ -3115,6 +3155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 292550,
+      "num": 292550,
+      "word": "TES战胜100T",
+      "onboard_time": 1760603722,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 292365,
       "num": 292365,
       "word": "国乒女团vs日本",
@@ -3267,6 +3315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 280193,
+      "num": 280193,
+      "word": "男孩偷卖姥姥13克黄金仅换4200元",
+      "onboard_time": 1760599822,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279279,
       "num": 188062,
       "word": "曝何炅自带衣服救场内幕",
@@ -3417,6 +3473,14 @@
       "onboard_time": 1760280141,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264608,
+      "num": 201666,
+      "word": "掉的不成串的葡萄有销路了",
+      "onboard_time": 1760602642,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 264510,
@@ -4187,14 +4251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210387,
-      "num": 174381,
-      "word": "警方回应香港女游客在台车站遭性侵",
-      "onboard_time": 1760603361,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209853,
       "num": 209853,
       "word": "刘晓庆说的不背词演员是谁",
@@ -4352,14 +4408,6 @@
       "word": "银河左岸酒店事件严正声明",
       "onboard_time": 1760526142,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203150,
-      "num": 203150,
-      "word": "湖南一女主播收到炸弹包裹被炸伤",
-      "onboard_time": 1760602642,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -4691,14 +4739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193921,
-      "num": 173569,
-      "word": "掉的不成串的葡萄有销路了",
-      "onboard_time": 1760602642,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 193856,
       "num": 193856,
       "word": "肖战或演十日终焉",
@@ -4883,14 +4923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 189185,
-      "num": 176616,
-      "word": "男孩偷卖姥姥13克黄金仅换4200元",
-      "onboard_time": 1760599822,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189049,
       "num": 189049,
       "word": "家里亲戚",
@@ -4921,14 +4953,6 @@
       "onboard_time": 1760426600,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188137,
-      "num": 188137,
-      "word": "TES战胜100T",
-      "onboard_time": 1760603722,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 187795,
@@ -6091,6 +6115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156355,
+      "num": 156355,
+      "word": "板垣伴信去世",
+      "onboard_time": 1760604680,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 156064,
       "num": 156064,
       "word": "建议贴身衣物不要穿黑色的",
@@ -6161,6 +6193,14 @@
       "onboard_time": 1760254162,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154474,
+      "num": 154474,
+      "word": "白俄罗斯女子在缅甸被贩卖器官",
+      "onboard_time": 1760605341,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 154405,
@@ -6835,6 +6875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141844,
+      "num": 122637,
+      "word": "西湖的水居然肥成这样",
+      "onboard_time": 1760605581,
+      "rank": 30,
+      "category": "旅游,幽默"
+    },
+    {
       "raw_hot": 141704,
       "num": 141704,
       "word": "微博视界大会公告",
@@ -7121,6 +7169,14 @@
       "onboard_time": 1760325262,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136628,
+      "num": 136628,
+      "word": "谁家节目让六旬老人哐哐做饭啊",
+      "onboard_time": 1760604500,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 136624,
@@ -7792,6 +7848,14 @@
       "word": "勇士vs湖人",
       "onboard_time": 1760324120,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127407,
+      "num": 127407,
+      "word": "孙颖莎何卓佳可爱合影",
+      "onboard_time": 1760606061,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -8545,6 +8609,14 @@
       "onboard_time": 1760592021,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 119890,
+      "num": 109834,
+      "word": "当年轻人的装修思路打开后",
+      "onboard_time": 1760606782,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 119798,
@@ -9515,6 +9587,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 111224,
+      "num": 170457,
+      "word": "折腰长剧爆火短剧夭折",
+      "onboard_time": 1760601202,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111152,
       "num": 111152,
       "word": "小猫爱干净和不爱干净的区别",
@@ -9907,6 +9987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108090,
+      "num": 117273,
+      "word": "邓莎儿子说你们不吵架也不说话",
+      "onboard_time": 1760604861,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108068,
       "num": 108068,
       "word": "Bin复仇宣言",
@@ -10097,6 +10185,14 @@
       "onboard_time": 1760368641,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 106813,
+      "num": 106813,
+      "word": "内娱第一对爱豆夫妻",
+      "onboard_time": 1760605161,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 106778,
@@ -10411,6 +10507,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 103339,
+      "num": 103339,
+      "word": "包子铺蒸笼 发霉",
+      "onboard_time": 1760602102,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103238,
       "num": 103238,
       "word": "一批抹黑军队军人形象账号被处置",
@@ -10465,14 +10569,6 @@
       "onboard_time": 1760446640,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 102614,
-      "num": 170457,
-      "word": "折腰长剧爆火短剧夭折",
-      "onboard_time": 1760601202,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 102540,
@@ -10673,6 +10769,14 @@
       "onboard_time": 1760437220,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101172,
+      "num": 101172,
+      "word": "实习生第一次接受句号冲击",
+      "onboard_time": 1760604680,
+      "rank": 39,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 101139,
@@ -10921,6 +11025,14 @@
       "onboard_time": 1760252479,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98389,
+      "num": 161672,
+      "word": "京东直播",
+      "onboard_time": 1760605581,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 98356,
@@ -11339,14 +11451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94106,
-      "num": 94106,
-      "word": "谁家节目让六旬老人哐哐做饭啊",
-      "onboard_time": 1760604500,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94088,
       "num": 94088,
       "word": "全国大部将迎换季式降温",
@@ -11369,6 +11473,14 @@
       "onboard_time": 1760600902,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 93858,
+      "num": 93858,
+      "word": "当地公安回应主播收到炸弹包裹被炸伤",
+      "onboard_time": 1760604981,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93744,
@@ -12275,6 +12387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86200,
+      "num": 86200,
+      "word": "沈月演技",
+      "onboard_time": 1760601982,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86177,
       "num": 102319,
       "word": "当家爸爸的聚会",
@@ -12899,6 +13019,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 80618,
+      "num": 80618,
+      "word": "内娱拍出味最正的坠入爱河了",
+      "onboard_time": 1760606839,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80589,
       "num": 80589,
       "word": "秦彻Daddy逃酒",
@@ -12993,6 +13121,14 @@
       "onboard_time": 1760580080,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 79960,
+      "num": 174303,
+      "word": "居民在家睡觉灭蚊人员闯入拿走绿植",
+      "onboard_time": 1760603900,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79697,
@@ -13673,14 +13809,6 @@
       "onboard_time": 1760265260,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71408,
-      "num": 174303,
-      "word": "居民在家睡觉灭蚊人员闯入拿走绿植",
-      "onboard_time": 1760603900,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71330,
@@ -15155,6 +15283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 42793,
+      "num": 169594,
+      "word": "纵横G700的守护型人格",
+      "onboard_time": 1760605520,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 42723,
       "num": 172029,
       "word": "抽猫盒集猫猫得红包",
@@ -16017,6 +16153,14 @@
       "onboard_time": 1760198121,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20352,
+      "num": 196523,
+      "word": "到底哪里有淘趣猫啊",
+      "onboard_time": 1760605280,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 20180,
