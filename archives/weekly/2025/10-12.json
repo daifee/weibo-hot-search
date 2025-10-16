@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760607749892,
+  "endTime": 1760610563995,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -73,6 +73,14 @@
       "onboard_time": 1760537362,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2182559,
+      "num": 186479,
+      "word": "徐艺洋500克拉玻璃戒",
+      "onboard_time": 1760606722,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 2114161,
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1552235,
+      "num": 175973,
+      "word": "徐艺洋婚礼口误",
+      "onboard_time": 1760609781,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1543352,
       "num": 305841,
       "word": "林永健人日发文批某顶流演员排场大",
@@ -209,14 +225,6 @@
       "onboard_time": 1760436861,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1337404,
-      "num": 186479,
-      "word": "徐艺洋500克拉玻璃戒",
-      "onboard_time": 1760606722,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 1330856,
@@ -1011,6 +1019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 662519,
+      "num": 1106003,
+      "word": "CFO爆冷战胜T1",
+      "onboard_time": 1760606961,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 660203,
       "num": 1105632,
       "word": "vivo X300价格",
@@ -1105,14 +1121,6 @@
       "onboard_time": 1760344700,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 636027,
-      "num": 1101764,
-      "word": "CFO爆冷战胜T1",
-      "onboard_time": 1760606961,
-      "rank": 0,
-      "category": "电竞"
     },
     {
       "raw_hot": 635008,
@@ -1681,6 +1689,14 @@
       "onboard_time": 1760271561,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 507034,
+      "num": 177662,
+      "word": "西湖的水居然肥成这样",
+      "onboard_time": 1760605581,
+      "rank": 30,
+      "category": "旅游,幽默"
     },
     {
       "raw_hot": 504285,
@@ -3347,6 +3363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276251,
+      "num": 174455,
+      "word": "杨幂维密看秀大喊刘雯",
+      "onboard_time": 1760607022,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 276032,
       "num": 276032,
       "word": "王者荣耀 李白",
@@ -4515,14 +4539,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 200900,
-      "num": 170405,
-      "word": "西湖的水居然肥成这样",
-      "onboard_time": 1760605581,
-      "rank": 30,
-      "category": "旅游,幽默"
-    },
-    {
       "raw_hot": 200899,
       "num": 194207,
       "word": "过度负责 傲慢懦弱",
@@ -5419,6 +5435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 172666,
+      "num": 172666,
+      "word": "奔跑吧天路篇没有孟子义",
+      "onboard_time": 1760610441,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 172640,
       "num": 190126,
       "word": "Daeny说3比1拿下T1",
@@ -5497,6 +5521,14 @@
       "onboard_time": 1760437880,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171173,
+      "num": 171173,
+      "word": "京东直播",
+      "onboard_time": 1760605581,
+      "rank": 20,
+      "category": "互联网"
     },
     {
       "raw_hot": 170952,
@@ -5611,14 +5643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168717,
-      "num": 168717,
-      "word": "京东直播",
-      "onboard_time": 1760605581,
-      "rank": 20,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 168708,
       "num": 168708,
       "word": "OPPO陈希爆料最新一代ColorOS",
@@ -5665,14 +5689,6 @@
       "onboard_time": 1760310918,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167593,
-      "num": 139676,
-      "word": "杨幂维密看秀大喊刘雯",
-      "onboard_time": 1760607022,
-      "rank": 30,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 167363,
@@ -6025,6 +6041,14 @@
       "onboard_time": 1760270960,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159168,
+      "num": 159168,
+      "word": "王晶曝舒淇家境很差总是被欺负",
+      "onboard_time": 1760609060,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 159148,
@@ -6619,6 +6643,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 147827,
+      "num": 147827,
+      "word": "王楚钦亚锦赛后发文",
+      "onboard_time": 1760609781,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147588,
       "num": 147588,
       "word": "美财长称要尽快供应链去中国化",
@@ -6825,6 +6857,14 @@
       "onboard_time": 1760517501,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143803,
+      "num": 179573,
+      "word": "曹德旺辞去福耀玻璃董事长职务",
+      "onboard_time": 1760607622,
+      "rank": 31,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 143397,
@@ -8595,6 +8635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120626,
+      "num": 179249,
+      "word": "菲2架侦察机非法侵入我黄岩岛领空",
+      "onboard_time": 1760609961,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 120608,
       "num": 161551,
       "word": "终于有这么宠我的婆婆了",
@@ -8673,6 +8721,14 @@
       "onboard_time": 1760444421,
       "rank": 33,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 119739,
+      "num": 119739,
+      "word": "家属回应女子缅北器官被摘除售卖",
+      "onboard_time": 1760609541,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 119632,
@@ -11027,6 +11083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99077,
+      "num": 99077,
+      "word": "柯淳一间房13个labubu",
+      "onboard_time": 1760608701,
+      "rank": 36,
+      "category": "综艺,休闲"
+    },
+    {
       "raw_hot": 99027,
       "num": 101928,
       "word": "法拉利新电车被重庆人先坐上了",
@@ -11107,6 +11171,14 @@
       "category": "互联网,休闲"
     },
     {
+      "raw_hot": 98109,
+      "num": 98109,
+      "word": "王嘉尔他好像知道自己很帅",
+      "onboard_time": 1760610079,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 98070,
       "num": 143086,
       "word": "内娱拍出味最正的坠入爱河了",
@@ -11177,6 +11249,14 @@
       "onboard_time": 1760577501,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97612,
+      "num": 119115,
+      "word": "让艺人录制十天眼里就没光的节目",
+      "onboard_time": 1760607801,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 97501,
@@ -11259,6 +11339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96385,
+      "num": 96385,
+      "word": "出门忘记关火回来家没了",
+      "onboard_time": 1760609961,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96368,
       "num": 96368,
       "word": "张小斐于适开机路透",
@@ -11337,6 +11425,14 @@
       "onboard_time": 1760283440,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95294,
+      "num": 101153,
+      "word": "有事言哥哥 无事言仙君",
+      "onboard_time": 1760610379,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 95249,
@@ -11771,6 +11867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91894,
+      "num": 91894,
+      "word": "王楚钦发博总结亚锦赛",
+      "onboard_time": 1760610260,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91864,
       "num": 91864,
       "word": "只有我妈放不下这段感情",
@@ -12139,6 +12243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88794,
+      "num": 88794,
+      "word": "AL对战GEN",
+      "onboard_time": 1760609181,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 88669,
       "num": 88669,
       "word": "舒淇说她走过的路充满恶意",
@@ -12315,12 +12427,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87469,
+      "num": 87469,
+      "word": "苹果手机的长按你真的会用吗",
+      "onboard_time": 1760610079,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 87411,
       "num": 87411,
       "word": "王楚钦教科书级假拧真摆",
       "onboard_time": 1760579541,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87382,
+      "num": 87382,
+      "word": "24岁研三上一休六的一天",
+      "onboard_time": 1760609720,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 87362,
@@ -12369,6 +12497,14 @@
       "onboard_time": 1760187262,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86731,
+      "num": 86731,
+      "word": "原来热暴力比冷暴力有用",
+      "onboard_time": 1760610021,
+      "rank": 46,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 86661,
@@ -12777,6 +12913,14 @@
       "onboard_time": 1760330903,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 83222,
+      "num": 84191,
+      "word": "起底缅北刘家发家术",
+      "onboard_time": 1760607861,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83075,
@@ -15059,6 +15203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48167,
+      "num": 173337,
+      "word": "刘宇宁机器人PK唱歌",
+      "onboard_time": 1760609421,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48160,
       "num": 88433,
       "word": "阿富汗巴基斯坦冲突巴方12人丧生",
@@ -15145,6 +15297,14 @@
       "onboard_time": 1760311758,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 46881,
+      "num": 98407,
+      "word": "日本流感病毒可能扩散至周边国家",
+      "onboard_time": 1760610321,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 46849,
@@ -15899,14 +16059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30091,
-      "num": 138214,
-      "word": "曹德旺辞去福耀玻璃董事长职务",
-      "onboard_time": 1760607622,
-      "rank": 31,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 29644,
       "num": 35831,
       "word": "纤维粒视频被禁止播放",
@@ -16001,6 +16153,14 @@
       "onboard_time": 1760513600,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27211,
+      "num": 314975,
+      "word": "红星照耀中国",
+      "onboard_time": 1760593821,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26851,
@@ -16137,6 +16297,14 @@
       "onboard_time": 1760347941,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23774,
+      "num": 98115,
+      "word": "杨幂安妮柯蒂斯秀场自拍",
+      "onboard_time": 1760609360,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 22762,
@@ -16459,6 +16627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 13322,
+      "num": 98228,
+      "word": "周冬雨看见粉丝就摘口罩",
+      "onboard_time": 1760610260,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13104,
       "num": 35435,
       "word": "村民把粮食晒满派出所",
@@ -16633,6 +16809,9 @@
     },
     {
       "word": "#弘扬优良办学传统矢志强农报国#"
+    },
+    {
+      "word": "#培养更多知农爱农的专业人才#"
     }
   ]
 }
