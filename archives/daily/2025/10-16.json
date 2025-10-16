@@ -1,6 +1,6 @@
 {
   "startTime": 1760545770711,
-  "endTime": 1760588992404,
+  "endTime": 1760589795729,
   "band_list": [
     {
       "raw_hot": 1214362,
@@ -41,6 +41,14 @@
       "onboard_time": 1760579239,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 835850,
+      "num": 274610,
+      "word": "何捷用张馨予泡酸萝卜的缸给鱼坐月子",
+      "onboard_time": 1760588422,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 799057,
@@ -99,12 +107,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 523589,
-      "num": 274610,
-      "word": "何捷用张馨予泡酸萝卜的缸给鱼坐月子",
-      "onboard_time": 1760588422,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 558560,
+      "num": 384269,
+      "word": "再见爱人5开播",
+      "onboard_time": 1760588240,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 518950,
@@ -131,8 +139,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 471992,
-      "num": 471992,
+      "raw_hot": 477977,
+      "num": 477977,
       "word": "TheShy回应上单韦鲁斯",
       "onboard_time": 1760587521,
       "rank": 1,
@@ -177,14 +185,6 @@
       "onboard_time": 1760583081,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 384269,
-      "num": 384269,
-      "word": "再见爱人5开播",
-      "onboard_time": 1760588240,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 380074,
@@ -235,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 345257,
+      "num": 274200,
+      "word": "内娱圆房戏上新了",
+      "onboard_time": 1760587580,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308721,
       "num": 234493,
       "word": "再见爱人5官宣",
@@ -283,14 +291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 274200,
-      "num": 274200,
-      "word": "内娱圆房戏上新了",
-      "onboard_time": 1760587580,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 261571,
       "num": 148855,
       "word": "白敬亭回应垫鼻子",
@@ -329,6 +329,14 @@
       "onboard_time": 1760570240,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 245754,
+      "num": 224303,
+      "word": "国产剧终于有坠崖不让松手的女主",
+      "onboard_time": 1760588122,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 243163,
@@ -393,6 +401,14 @@
       "onboard_time": 1760587402,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217756,
+      "num": 189442,
+      "word": "研究生自己的4399",
+      "onboard_time": 1760587402,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 217515,
@@ -475,28 +491,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190020,
-      "num": 190020,
-      "word": "国产剧终于有坠崖不让松手的女主",
-      "onboard_time": 1760588122,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 189442,
-      "num": 189442,
-      "word": "研究生自己的4399",
-      "onboard_time": 1760587402,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 188912,
       "num": 188912,
       "word": "momo猫步",
       "onboard_time": 1760588542,
       "rank": 31,
       "category": "其它,时尚"
+    },
+    {
+      "raw_hot": 187530,
+      "num": 187530,
+      "word": "我听交警的事件涉事女子被行拘",
+      "onboard_time": 1760587402,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186935,
+      "num": 190273,
+      "word": "男子进轨道欲自杀获救后索赔百万",
+      "onboard_time": 1760587462,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186539,
@@ -513,6 +529,14 @@
       "onboard_time": 1760572459,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181151,
+      "num": 160771,
+      "word": "网友吐槽喜茶界面太阴间",
+      "onboard_time": 1760588903,
+      "rank": 37,
+      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 178318,
@@ -587,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153777,
+      "num": 153777,
+      "word": "王俊凯出发NBA名人赛",
+      "onboard_time": 1760588662,
+      "rank": 36,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 150015,
       "num": 92772,
       "word": "林诗栋说花儿有股臭味",
@@ -627,12 +659,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140923,
-      "num": 140923,
-      "word": "王俊凯出发NBA名人赛",
-      "onboard_time": 1760588662,
-      "rank": 36,
-      "category": "艺人,体育"
+      "raw_hot": 140319,
+      "num": 140319,
+      "word": "沈腾说出发团不是一家人都难",
+      "onboard_time": 1760589442,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 139247,
@@ -659,6 +691,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 135735,
+      "num": 135735,
+      "word": "男子买300克黄金宠妻3年后赚5万",
+      "onboard_time": 1760586021,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135161,
       "num": 135161,
       "word": "方媛怀三胎现身",
@@ -675,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132729,
-      "num": 132729,
-      "word": "网友吐槽喜茶界面太阴间",
-      "onboard_time": 1760588903,
-      "rank": 37,
-      "category": "美食,民生新闻"
-    },
-    {
       "raw_hot": 132614,
       "num": 132614,
       "word": "小沈阳直接被沈佳润抬到象山了",
@@ -691,12 +723,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 129890,
-      "num": 132529,
-      "word": "男子买300克黄金宠妻3年后赚5万",
-      "onboard_time": 1760586021,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 131838,
+      "num": 131838,
+      "word": "奔跑吧",
+      "onboard_time": 1760589322,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 129705,
@@ -713,14 +745,6 @@
       "onboard_time": 1760585601,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 128813,
-      "num": 190273,
-      "word": "男子进轨道欲自杀获救后索赔百万",
-      "onboard_time": 1760587462,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128534,
@@ -827,6 +851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116657,
+      "num": 116657,
+      "word": "文森特投疯了",
+      "onboard_time": 1760589205,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114127,
       "num": 114127,
       "word": "柯淳让刘嘉玲跟梁朝伟发语音撒娇",
@@ -865,6 +897,14 @@
       "onboard_time": 1760585901,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108742,
+      "num": 108742,
+      "word": "杨超越扫腿舞被徐志胜带跑偏了",
+      "onboard_time": 1760589743,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 108419,
@@ -987,6 +1027,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98589,
+      "num": 251933,
+      "word": "京东拍卖80万的耳机",
+      "onboard_time": 1760587642,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 98303,
+      "num": 132592,
+      "word": "光刻机是拿来用的不是拿来展的",
+      "onboard_time": 1760588422,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97716,
       "num": 97716,
       "word": "Shad0w首发出战FNC",
@@ -995,20 +1051,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 97297,
+      "num": 219100,
+      "word": "荣耀发布机器人手机",
+      "onboard_time": 1760587402,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 96300,
       "num": 96300,
       "word": "邓莎说我是丧偶式婚姻",
       "onboard_time": 1760535683,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 96079,
-      "num": 132592,
-      "word": "光刻机是拿来用的不是拿来展的",
-      "onboard_time": 1760588422,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95537,
@@ -1025,14 +1081,6 @@
       "onboard_time": 1760517860,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93935,
-      "num": 219100,
-      "word": "荣耀发布机器人手机",
-      "onboard_time": 1760587402,
-      "rank": 23,
-      "category": "数码"
     },
     {
       "raw_hot": 93362,
@@ -1179,14 +1227,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 75552,
-      "num": 251933,
-      "word": "京东拍卖80万的耳机",
-      "onboard_time": 1760587642,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 75426,
       "num": 78512,
       "word": "M5芯片",
@@ -1307,8 +1347,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 60250,
-      "num": 132694,
+      "raw_hot": 61002,
+      "num": 137321,
       "word": "张晚意的名字里有父母爱情",
       "onboard_time": 1760588842,
       "rank": 38,
@@ -1577,6 +1617,14 @@
       "onboard_time": 1760533582,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 17483,
+      "num": 127216,
+      "word": "企业如何实现绿色转型",
+      "onboard_time": 1760589743,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16757,
