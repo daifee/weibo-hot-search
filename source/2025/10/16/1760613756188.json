@@ -1,0 +1,410 @@
+{
+  "runTime": 1760613756188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 876248,
+        "num": 1140199,
+        "word": "AL战胜GEN",
+        "onboard_time": 1760611761,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 367119,
+        "num": 367119,
+        "word": "家属回应女子缅北器官被摘除售卖",
+        "onboard_time": 1760609541,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30322,
+        "num": 329356,
+        "word": "红星照耀中国",
+        "onboard_time": 1760593821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314820,
+        "num": 314820,
+        "word": "AL对战GEN",
+        "onboard_time": 1760609181,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 309665,
+        "num": 309665,
+        "word": "CFO爆冷战胜T1",
+        "onboard_time": 1760606961,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 291182,
+        "num": 291182,
+        "word": "一笑随歌大结局",
+        "onboard_time": 1760612062,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247935,
+        "num": 247935,
+        "word": "缅北刘家强迫女性吸毒",
+        "onboard_time": 1760593043,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204165,
+        "num": 204165,
+        "word": "一笑随歌",
+        "onboard_time": 1760609300,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180898,
+        "num": 180898,
+        "word": "CFO 全华班",
+        "onboard_time": 1760606961,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157136,
+        "num": 157136,
+        "word": "缅北电诈首富",
+        "onboard_time": 1760591901,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1494338,
+        "num": 156899,
+        "word": "徐艺洋500克拉玻璃戒",
+        "onboard_time": 1760606722,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 812818,
+        "num": 155987,
+        "word": "王晶曝舒淇家境很差总是被欺负",
+        "onboard_time": 1760609060,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446754,
+        "num": 155567,
+        "word": "黄子韬婚礼有没有鹿晗",
+        "onboard_time": 1760603722,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382261,
+        "num": 155099,
+        "word": "西湖的水居然肥成这样",
+        "onboard_time": 1760605581,
+        "rank": 13,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 263422,
+        "num": 154255,
+        "word": "湖南一女主播收到炸弹包裹被炸伤",
+        "onboard_time": 1760602642,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 708428,
+        "num": 153870,
+        "word": "徐艺洋婚礼口误",
+        "onboard_time": 1760609781,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255000,
+        "num": 152911,
+        "word": "旺仔小乔掉粉超695万",
+        "onboard_time": 1760598861,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303514,
+        "num": 152381,
+        "word": "姜潮抢到了黄子韬的西兰花",
+        "onboard_time": 1760604801,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31187,
+        "num": 151778,
+        "word": "刘宇宁机器人PK唱歌",
+        "onboard_time": 1760609421,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146570,
+        "num": 151435,
+        "word": "曹德旺辞去福耀玻璃董事长职务",
+        "onboard_time": 1760607622,
+        "rank": 19,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 228830,
+        "num": 150786,
+        "word": "杨幂维密看秀大喊刘雯",
+        "onboard_time": 1760607022,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 60144,
+        "num": 150079,
+        "word": "女子到澳门卖淫牵出数十人团伙",
+        "onboard_time": 1760612421,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204351,
+        "num": 149607,
+        "word": "警方回应香港女游客在台车站遭性侵",
+        "onboard_time": 1760603361,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195416,
+        "num": 148939,
+        "word": "郭碧婷父亲患肺癌",
+        "onboard_time": 1760613320,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159036,
+        "num": 148198,
+        "word": "kael波比神了",
+        "onboard_time": 1760612421,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148003,
+        "num": 148003,
+        "word": "外战看AL",
+        "onboard_time": 1760613201,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130362,
+        "num": 130362,
+        "word": "2025年有爆剧吗",
+        "onboard_time": 1760610681,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118741,
+        "num": 118741,
+        "word": "奔跑吧天路篇没有孟子义",
+        "onboard_time": 1760610441,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117848,
+        "num": 117848,
+        "word": "迪丽热巴时装周人气女艺人TOP",
+        "onboard_time": 1760612480,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 101644,
+        "num": 116637,
+        "word": "王楚钦亚锦赛后发文",
+        "onboard_time": 1760609781,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153696,
+        "num": 116605,
+        "word": "韩财阀千金成电诈大佬",
+        "onboard_time": 1760613201,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115979,
+        "num": 115979,
+        "word": "100T向LPL道歉",
+        "onboard_time": 1760607141,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 105666,
+        "num": 105666,
+        "word": "24岁研三上一休六的一天",
+        "onboard_time": 1760609720,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99186,
+        "num": 105532,
+        "word": "日本流感病毒可能扩散至周边国家",
+        "onboard_time": 1760610321,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 12002,
+        "num": 105360,
+        "word": "国补下的第二个双11",
+        "onboard_time": 1760613440,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 27239,
+        "num": 105233,
+        "word": "广西一地被洪水围村断电十余天",
+        "onboard_time": 1760612541,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 27432,
+        "num": 105062,
+        "word": "美国拉帮结伙应对稀土管制",
+        "onboard_time": 1760612661,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31898,
+        "num": 104850,
+        "word": "不买中国食用油可能是指废弃食用油",
+        "onboard_time": 1760613622,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35913,
+        "num": 104580,
+        "word": "男子造谣新娘与摄影师的瓜被行拘",
+        "onboard_time": 1760613320,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 104565,
+        "num": 104565,
+        "word": "周冬雨给我干哪年来了",
+        "onboard_time": 1760609720,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98751,
+        "num": 104148,
+        "word": "菲2架侦察机非法侵入我黄岩岛领空",
+        "onboard_time": 1760609961,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103783,
+        "num": 103783,
+        "word": "男孩偷卖姥姥13克黄金仅换4200元",
+        "onboard_time": 1760599822,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103022,
+        "num": 103022,
+        "word": "李庚希长了一张杀渣男的脸",
+        "onboard_time": 1760613440,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101819,
+        "num": 101819,
+        "word": "Kael神了",
+        "onboard_time": 1760613201,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100450,
+        "num": 100450,
+        "word": "王俊凯几乎零片酬出演刺猬",
+        "onboard_time": 1760595681,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93955,
+        "num": 93955,
+        "word": "AL只打精锐",
+        "onboard_time": 1760613440,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92745,
+        "num": 92745,
+        "word": "邱贻可说中国队继续加油",
+        "onboard_time": 1760613680,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31894,
+        "num": 91786,
+        "word": "两男子学野鸡叫打猎误将对方打伤",
+        "onboard_time": 1760612062,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91461,
+        "num": 91461,
+        "word": "学校的打印机无敌了",
+        "onboard_time": 1760612362,
+        "rank": 48,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 91172,
+        "num": 91172,
+        "word": "李纯为赵丽颖庆生",
+        "onboard_time": 1760613680,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬优良办学传统矢志强农报国#"
+    }
+  }
+}

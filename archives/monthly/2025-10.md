@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/16 18:45:13
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/16 19:22:36
 </p>
 </blockquote>
 <p>
@@ -1743,6 +1743,12 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AL%E6%88%98%E8%83%9CGEN%23" target="weibo">
+AL战胜GEN（热度：876248）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%BB%99%E8%87%AA%E5%B7%B1%E5%81%9A%E4%BA%86%E4%B8%AA%E5%BC%80%E6%B0%B4%E5%A3%B6%E8%9B%8B%E7%B3%95%23" target="weibo">
 肖战给自己做了个开水壶蛋糕（热度：875218）
 </a>
@@ -2051,6 +2057,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E6%B2%A1%E4%BA%BA%E6%8E%A52%E5%A4%A9%E5%90%8E%E5%8F%91%E7%8E%B0%E5%85%B6%E7%88%B6%E5%AE%B6%E4%B8%AD%E7%A6%BB%E4%B8%96%23" target="weibo">
 女孩没人接2天后发现其父家中离世（热度：813614）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%99%B6%E6%9B%9D%E8%88%92%E6%B7%87%E5%AE%B6%E5%A2%83%E5%BE%88%E5%B7%AE%E6%80%BB%E6%98%AF%E8%A2%AB%E6%AC%BA%E8%B4%9F%23" target="weibo">
+王晶曝舒淇家境很差总是被欺负（热度：812818）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E8%81%AA%E6%98%8E%E5%B7%B2%E7%BB%8F%E6%8F%90%E5%89%8D%E5%88%B05%E5%8F%B7%E8%BF%94%E7%A8%8B%E4%BA%86%23" target="weibo">
 大聪明已经提前到5号返程了（热度：397604）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%98%89%E7%91%9E%E7%9B%B4%E6%92%AD%23" target="weibo">
-刘嘉瑞直播（热度：397097）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E5%AF%8C%E5%9F%8E%E6%96%B9%E5%AA%9B%E5%9B%9E%E5%BA%94%E4%B8%89%E8%83%8E%E5%BE%97%E5%AD%90%E4%BC%A0%E9%97%BB%23" target="weibo">
-郭富城方媛回应三胎得子传闻（热度：396535）
 </a>
 </li>
 
