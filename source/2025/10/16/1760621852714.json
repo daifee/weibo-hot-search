@@ -1,0 +1,410 @@
+{
+  "runTime": 1760621852714,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 692900,
+        "num": 1110864,
+        "word": "宝蓝抽签",
+        "onboard_time": 1760619201,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 304498,
+        "num": 304498,
+        "word": "S15瑞士轮第三轮抽签",
+        "onboard_time": 1760619082,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23003,
+        "num": 283007,
+        "word": "红星照耀中国",
+        "onboard_time": 1760593821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280746,
+        "num": 280746,
+        "word": "日本流感病毒可能扩散至周边国家",
+        "onboard_time": 1760610321,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 261461,
+        "num": 261461,
+        "word": "王健林被起诉",
+        "onboard_time": 1760616442,
+        "rank": 4,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 196064,
+        "num": 260923,
+        "word": "一笑随歌热度",
+        "onboard_time": 1760616081,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144880,
+        "num": 260803,
+        "word": "十个勤天还剩七个勤天",
+        "onboard_time": 1760616381,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144272,
+        "num": 260050,
+        "word": "日本进入流感大流行期多所学校关闭",
+        "onboard_time": 1760614820,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124111,
+        "num": 259358,
+        "word": "AL战胜GEN",
+        "onboard_time": 1760611761,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118333,
+        "num": 258698,
+        "word": "沉默的荣耀",
+        "onboard_time": 1760621423,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 813944,
+        "num": 258322,
+        "word": "宁艺卓参加黄子韬徐艺洋婚礼",
+        "onboard_time": 1760619622,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529084,
+        "num": 257481,
+        "word": "成毅说演员先做人再演戏",
+        "onboard_time": 1760616381,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395251,
+        "num": 257227,
+        "word": "章泽天烫头了",
+        "onboard_time": 1760616740,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381128,
+        "num": 256615,
+        "word": "郭碧婷父亲患肺癌",
+        "onboard_time": 1760613320,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380337,
+        "num": 256241,
+        "word": "祖孙2人车祸死亡司机十余日后病逝",
+        "onboard_time": 1760617461,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57116,
+        "num": 255263,
+        "word": "孙颖莎第一张4K超清实况",
+        "onboard_time": 1760619924,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370258,
+        "num": 255099,
+        "word": "陈哲远发红包",
+        "onboard_time": 1760615182,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347780,
+        "num": 254265,
+        "word": "村长李锐已从湖南卫视离职",
+        "onboard_time": 1760617223,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283397,
+        "num": 253561,
+        "word": "王安宇走完秀扑倒在李现怀里",
+        "onboard_time": 1760619022,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95099,
+        "num": 252868,
+        "word": "向鹏被王楚钦梁靖崑做局了",
+        "onboard_time": 1760618302,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252840,
+        "num": 252840,
+        "word": "男子应聘船员出海严重晕船自缢身亡",
+        "onboard_time": 1760620704,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117207,
+        "num": 251218,
+        "word": "CFO爆冷战胜T1",
+        "onboard_time": 1760606961,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 250022,
+        "num": 250022,
+        "word": "徐艺洋婚礼口误",
+        "onboard_time": 1760609781,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238515,
+        "num": 238515,
+        "word": "影像旗舰进入7000毫安大电池时代",
+        "onboard_time": 1760619924,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 72727,
+        "num": 209824,
+        "word": "今天起传递这颗红星",
+        "onboard_time": 1760620583,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200800,
+        "num": 200800,
+        "word": "OPPO Find X9价格",
+        "onboard_time": 1760621184,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 196517,
+        "num": 196517,
+        "word": "黄轩生理性抽搐不像演的",
+        "onboard_time": 1760618541,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165680,
+        "num": 165680,
+        "word": "凤戏阳成为女帝",
+        "onboard_time": 1760620405,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23165,
+        "num": 146541,
+        "word": "刘宇宁答案",
+        "onboard_time": 1760616740,
+        "rank": 28,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 73146,
+        "num": 145164,
+        "word": "邱贻可给孙颖莎煮泡面",
+        "onboard_time": 1760618781,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144598,
+        "num": 144598,
+        "word": "韩财阀千金成电诈大佬",
+        "onboard_time": 1760613201,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138385,
+        "num": 138385,
+        "word": "李纯为赵丽颖庆生",
+        "onboard_time": 1760613680,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131944,
+        "num": 131944,
+        "word": "再见爱人吵架的顶级心态",
+        "onboard_time": 1760620104,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131784,
+        "num": 131784,
+        "word": "4岁女童车内睡着后失踪超20小时",
+        "onboard_time": 1760614881,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65400,
+        "num": 128537,
+        "word": "王曼昱说冠军属于中国",
+        "onboard_time": 1760617762,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126765,
+        "num": 126765,
+        "word": "香港浮尸案",
+        "onboard_time": 1760616622,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118170,
+        "num": 118170,
+        "word": "孙颖莎大藤沙月互换花束",
+        "onboard_time": 1760621483,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78512,
+        "num": 116407,
+        "word": "35岁女子应聘人事岗被HR嫌年龄大",
+        "onboard_time": 1760621423,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61506,
+        "num": 116282,
+        "word": "韩国人成柬埔寨电诈园区新猎物",
+        "onboard_time": 1760621364,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 116184,
+        "num": 116184,
+        "word": "LPL蜻蜓队长 宝蓝",
+        "onboard_time": 1760621304,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113407,
+        "num": 113407,
+        "word": "美术生又多了一个就业方向",
+        "onboard_time": 1760621364,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107528,
+        "num": 107528,
+        "word": "警方多地抓获24名卖淫女42名嫖客",
+        "onboard_time": 1760618242,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 105520,
+        "num": 105520,
+        "word": "鹿晗的IP显示在北京",
+        "onboard_time": 1760615662,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102856,
+        "num": 102856,
+        "word": "第一次清洗鼻窦是什么体验",
+        "onboard_time": 1760621663,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101479,
+        "num": 101479,
+        "word": "瘦人变胖和胖人减肥一样难",
+        "onboard_time": 1760619262,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 52671,
+        "num": 98726,
+        "word": "客户手机被保护性关停中国移动致歉",
+        "onboard_time": 1760619503,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97309,
+        "num": 97309,
+        "word": "雷军呼吁企业共同抵制水军黑公关",
+        "onboard_time": 1760615182,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 96626,
+        "num": 96626,
+        "word": "一笑随歌大结局",
+        "onboard_time": 1760612062,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95736,
+        "num": 95736,
+        "word": "西湖的水居然肥成这样",
+        "onboard_time": 1760605581,
+        "rank": 48,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 94498,
+        "num": 94498,
+        "word": "陈鹤一发红包",
+        "onboard_time": 1760618603,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强农报国#"
+    }
+  }
+}
