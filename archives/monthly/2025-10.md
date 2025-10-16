@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/16 13:40:51
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/16 14:37:35
 </p>
 </blockquote>
 <p>
@@ -873,6 +873,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%AF%B4%E7%8E%B0%E5%9C%A8%E7%89%B9%E5%88%AB%E7%97%9B%E8%8B%A6%E5%8F%88%E8%BF%91%E8%A7%86%E5%8F%88%E8%80%81%E8%8A%B1%23" target="weibo">
+何炅说现在特别痛苦又近视又老花（热度：1174009）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%90%91%E7%BE%8E%E5%9B%BD%E8%B5%A0%E9%80%81%E7%A8%80%E5%9C%9F%23" target="weibo">
 中方回应巴基斯坦向美国赠送稀土（热度：1171793）
 </a>
@@ -959,6 +965,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%90%91%E9%B9%8F%23" target="weibo">
 王楚钦vs向鹏（热度：1130628）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E9%A6%96%E5%AF%8C%23" target="weibo">
+缅北电诈首富（热度：1127464）
 </a>
 </li>
 
@@ -2163,6 +2175,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E5%88%98%E5%AE%B6%E5%BC%BA%E8%BF%AB%E5%A5%B3%E6%80%A7%E5%90%B8%E6%AF%92%23" target="weibo">
+缅北刘家强迫女性吸毒（热度：781248）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%B3%E7%A8%8E%23" target="weibo">
 特朗普关税（热度：780343）
 </a>
@@ -2535,6 +2553,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E5%84%BF%E5%AD%90%E4%B8%8E%E9%9F%A6%E9%9B%AA%E6%81%8B%E6%83%85%23" target="weibo">
+妈妈回应儿子与韦雪恋情（热度：698021）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%94%B7%E5%AD%90%E5%9C%A8%E5%BC%A0%E5%AE%B6%E7%95%8C%E4%B8%BE%E9%9F%A9%E5%9B%BD%E5%9B%BD%E6%97%97%23" target="weibo">
 韩国男子在张家界举韩国国旗（热度：698020）
 </a>
@@ -2735,12 +2759,6 @@ AL战胜HLE（热度：684053）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%87%BA%E9%81%93%E4%BB%A5%E6%9D%A5%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%91%87%E4%BA%BA%E5%AE%A3%E4%BC%A0%23" target="weibo">
 李沁出道以来第一次摇人宣传（热度：664661）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E9%A6%96%E5%AF%8C%23" target="weibo">
-缅北电诈首富（热度：664490）
 </a>
 </li>
 
@@ -5235,6 +5253,12 @@ B站崩了（热度：442971）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E8%A1%8C%E8%AF%B4%E9%82%93%E8%8E%8E%E6%9C%80%E5%A4%A7%E7%9A%84%E4%BB%98%E5%87%BA%E6%98%AF%E7%94%9F%E5%84%BF%E5%AD%90%23" target="weibo">
+路行说邓莎最大的付出是生儿子（热度：442272）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%20%E4%B8%8D%E8%A6%81%E9%97%AE%E4%BA%BA%E5%AE%B6%E8%BF%99%E7%A7%8D%E9%97%AE%E9%A2%98%23" target="weibo">
 王安宇 不要问人家这种问题（热度：442124）
 </a>
@@ -5990,30 +6014,6 @@ Dior连发4条迪丽热巴（热度：434111）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%96%B9%E9%99%8D%E6%B8%A9%23" target="weibo">
-南方降温（热度：391282）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E5%BC%BA%E7%83%88%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%86%9B%23" target="weibo">
-俄罗斯强烈谴责美军（热度：390999）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A0%91%E8%8E%93%20%E6%91%84%E5%93%A5%23" target="weibo">
-树莓 摄哥（热度：390704）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%23" target="weibo">
-入青云（热度：390564）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6275,6 +6275,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%8F%E6%B5%8E%E6%80%9D%E6%83%B3%E5%BC%95%E9%A2%86%E6%96%B0%E6%97%B6%E4%BB%A3%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%23%23" target="weibo">
 #习近平经济思想引领新时代经济工作#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%8A%AA%E5%8A%9B%E5%9F%B9%E5%85%BB%E6%9B%B4%E5%A4%9A%E7%9F%A5%E5%86%9C%E7%88%B1%E5%86%9C%E4%B8%93%E4%B8%9A%E4%BA%BA%E6%89%8D%23%23" target="weibo">
+#努力培养更多知农爱农专业人才#
 </a>
 </li>
 
