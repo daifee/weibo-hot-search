@@ -1,0 +1,410 @@
+{
+  "runTime": 1760628504531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 419083,
+        "num": 1067053,
+        "word": "人贩子被判3年后又卖了十余个孩子",
+        "onboard_time": 1760624665,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316540,
+        "num": 316540,
+        "word": "宝蓝抽签",
+        "onboard_time": 1760619201,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 38922,
+        "num": 275955,
+        "word": "十四五成就",
+        "onboard_time": 1760623767,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 275233,
+        "num": 275233,
+        "word": "韩国人成柬埔寨电诈园区新猎物",
+        "onboard_time": 1760621364,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 237665,
+        "num": 237665,
+        "word": "胡塞武装总参谋长身亡",
+        "onboard_time": 1760625566,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 436807,
+        "num": 232842,
+        "word": "成毅说演员先做人再演戏",
+        "onboard_time": 1760616381,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259476,
+        "num": 229275,
+        "word": "陈俊生去的是邱莹莹的咖啡馆",
+        "onboard_time": 1760622565,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217382,
+        "num": 217382,
+        "word": "王健林被起诉",
+        "onboard_time": 1760616442,
+        "rank": 7,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 193457,
+        "num": 217259,
+        "word": "上海地铁称地铁一词统一译为metro",
+        "onboard_time": 1760624366,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186817,
+        "num": 216685,
+        "word": "凤戏阳成为女帝",
+        "onboard_time": 1760620405,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1017399,
+        "num": 215951,
+        "word": "黄子韬婚礼归国四子一缺三",
+        "onboard_time": 1760627964,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330959,
+        "num": 215903,
+        "word": "每月攒一颗小金饰00后女生发声",
+        "onboard_time": 1760626224,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313956,
+        "num": 215118,
+        "word": "村长李锐已从湖南卫视离职",
+        "onboard_time": 1760617223,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288201,
+        "num": 214522,
+        "word": "男子应聘船员出海严重晕船自缢身亡",
+        "onboard_time": 1760620704,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282200,
+        "num": 214425,
+        "word": "陈哲远发红包",
+        "onboard_time": 1760615182,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 665281,
+        "num": 213602,
+        "word": "刘宇宁坐黄子韬婚礼主桌",
+        "onboard_time": 1760624004,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231916,
+        "num": 213169,
+        "word": "郭碧婷父亲患肺癌",
+        "onboard_time": 1760613320,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50751,
+        "num": 212746,
+        "word": "OPPOFindX9挑战万元相机",
+        "onboard_time": 1760624064,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212511,
+        "num": 212511,
+        "word": "王安宇走完秀扑倒在李现怀里",
+        "onboard_time": 1760619022,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208558,
+        "num": 208558,
+        "word": "穆祉丞谈成团遗憾泪崩了",
+        "onboard_time": 1760626345,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200157,
+        "num": 200157,
+        "word": "赵丽颖庆生照片",
+        "onboard_time": 1760627903,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189425,
+        "num": 189425,
+        "word": "徐艺洋 谢彬彬我的男朋友",
+        "onboard_time": 1760618843,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148869,
+        "num": 148869,
+        "word": "台积电业绩炸裂",
+        "onboard_time": 1760624424,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 50300,
+        "num": 143526,
+        "word": "NI真的不一样了",
+        "onboard_time": 1760623642,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 66527,
+        "num": 143330,
+        "word": "FindX9推出相机置换百万补贴",
+        "onboard_time": 1760623706,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 143289,
+        "num": 143289,
+        "word": "零跑推出旗舰D平台谁慌了",
+        "onboard_time": 1760627125,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 143211,
+        "num": 143211,
+        "word": "章泽天烫头了",
+        "onboard_time": 1760616740,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141992,
+        "num": 141992,
+        "word": "秦天宇眼神戏",
+        "onboard_time": 1760627723,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140951,
+        "num": 140951,
+        "word": "他们打光子弹用牙齿当武器",
+        "onboard_time": 1760627065,
+        "rank": 28,
+        "category": "民生新闻,军事"
+      },
+      {
+        "raw_hot": 94476,
+        "num": 140348,
+        "word": "十个勤天还剩七个勤天",
+        "onboard_time": 1760616381,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139827,
+        "num": 139827,
+        "word": "Peanut和Mark见面了",
+        "onboard_time": 1760626284,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133316,
+        "num": 133316,
+        "word": "徐艺洋婚礼口误",
+        "onboard_time": 1760609781,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122124,
+        "num": 122124,
+        "word": "美财长暗示关税换稀土",
+        "onboard_time": 1760624543,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124516,
+        "num": 121962,
+        "word": "4岁女童车内睡着后失踪超20小时",
+        "onboard_time": 1760614881,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110912,
+        "num": 110912,
+        "word": "李现马思纯看王安宇走秀笑成啥了",
+        "onboard_time": 1760621964,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110509,
+        "num": 110509,
+        "word": "baolan神之一手",
+        "onboard_time": 1760624304,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108088,
+        "num": 108088,
+        "word": "日本流感病毒可能扩散至周边国家",
+        "onboard_time": 1760610321,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106000,
+        "num": 106000,
+        "word": "日本进入流感大流行期多所学校关闭",
+        "onboard_time": 1760614820,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73460,
+        "num": 105951,
+        "word": "孙颖莎大藤沙月互换花束",
+        "onboard_time": 1760621483,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87652,
+        "num": 105949,
+        "word": "10元15个散装月饼用来喂狗",
+        "onboard_time": 1760627367,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105947,
+        "num": 105947,
+        "word": "韩财阀千金成电诈大佬",
+        "onboard_time": 1760613201,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103968,
+        "num": 103968,
+        "word": "男子偷上万辆共享单车每辆卖105元",
+        "onboard_time": 1760627065,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99453,
+        "num": 99453,
+        "word": "李纯为赵丽颖庆生",
+        "onboard_time": 1760613680,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99298,
+        "num": 99298,
+        "word": "35岁女子应聘人事岗被HR嫌年龄大",
+        "onboard_time": 1760621423,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91645,
+        "num": 91645,
+        "word": "山姆配送员与小区保安打架",
+        "onboard_time": 1760623164,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83230,
+        "num": 83230,
+        "word": "KT抽到TES",
+        "onboard_time": 1760628262,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78324,
+        "num": 78324,
+        "word": "Viper全中文采访",
+        "onboard_time": 1760622264,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72329,
+        "num": 72329,
+        "word": "陈哲远这几年发的红包总数",
+        "onboard_time": 1760624665,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69760,
+        "num": 72088,
+        "word": "河南培育全球最大钻石156克拉",
+        "onboard_time": 1760628324,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59380,
+        "num": 72022,
+        "word": "君无戏炎be",
+        "onboard_time": 1760625984,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强农报国#"
+    }
+  }
+}

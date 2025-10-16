@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760625933322,
+  "endTime": 1760628504531,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -473,6 +473,14 @@
       "onboard_time": 1760424683,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1017399,
+      "num": 215951,
+      "word": "黄子韬婚礼归国四子一缺三",
+      "onboard_time": 1760627964,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1000352,
@@ -2371,6 +2379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 419083,
+      "num": 1067053,
+      "word": "人贩子被判3年后又卖了十余个孩子",
+      "onboard_time": 1760624665,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 416879,
       "num": 208279,
       "word": "西藏江孜县委书记被免职",
@@ -2987,6 +3003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 330959,
+      "num": 215903,
+      "word": "每月攒一颗小金饰00后女生发声",
+      "onboard_time": 1760626224,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329660,
       "num": 180814,
       "word": "中方回应荷兰政府对安世半导体下手",
@@ -3579,6 +3603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 275233,
+      "num": 301686,
+      "word": "韩国人成柬埔寨电诈园区新猎物",
+      "onboard_time": 1760621364,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 275121,
       "num": 185587,
       "word": "李纯为赵丽颖庆生",
@@ -3801,14 +3833,6 @@
       "onboard_time": 1760585361,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 259003,
-      "num": 301686,
-      "word": "韩国人成柬埔寨电诈园区新猎物",
-      "onboard_time": 1760621364,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 258734,
@@ -4073,6 +4097,14 @@
       "onboard_time": 1760254941,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237665,
+      "num": 290238,
+      "word": "胡塞武装总参谋长身亡",
+      "onboard_time": 1760625566,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 237578,
@@ -4531,6 +4563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 208558,
+      "num": 208558,
+      "word": "穆祉丞谈成团遗憾泪崩了",
+      "onboard_time": 1760626345,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208340,
       "num": 171679,
       "word": "沈腾回归王牌对王牌",
@@ -4811,6 +4851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 200157,
+      "num": 200157,
+      "word": "赵丽颖庆生照片",
+      "onboard_time": 1760627903,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200105,
       "num": 145030,
       "word": "王楚钦单局让张本智和得1分",
@@ -5067,6 +5115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193457,
+      "num": 296896,
+      "word": "上海地铁称地铁一词统一译为metro",
+      "onboard_time": 1760624366,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193171,
       "num": 193171,
       "word": "赵丽颖是谁生日呢是我呀",
@@ -5225,6 +5281,14 @@
       "onboard_time": 1760429781,
       "rank": 36,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 189425,
+      "num": 189425,
+      "word": "徐艺洋 谢彬彬我的男朋友",
+      "onboard_time": 1760618843,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 189296,
@@ -6419,14 +6483,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 158997,
-      "num": 296896,
-      "word": "上海地铁称地铁一词统一译为metro",
-      "onboard_time": 1760624366,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 158996,
       "num": 158996,
       "word": "王曼昱总结亚锦赛",
@@ -7315,6 +7371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 143289,
+      "num": 143289,
+      "word": "零跑推出旗舰D平台谁慌了",
+      "onboard_time": 1760627125,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 143265,
       "num": 143265,
       "word": "剑网3新校服",
@@ -7385,6 +7449,14 @@
       "onboard_time": 1760363362,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141992,
+      "num": 141992,
+      "word": "秦天宇眼神戏",
+      "onboard_time": 1760627723,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 141955,
@@ -7467,6 +7539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 140951,
+      "num": 140951,
+      "word": "他们打光子弹用牙齿当武器",
+      "onboard_time": 1760627065,
+      "rank": 28,
+      "category": "民生新闻,军事"
+    },
+    {
       "raw_hot": 140949,
       "num": 140949,
       "word": "亚锦赛男团中国vs伊朗",
@@ -7545,6 +7625,14 @@
       "onboard_time": 1760501361,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 139827,
+      "num": 139827,
+      "word": "Peanut和Mark见面了",
+      "onboard_time": 1760626284,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 139657,
@@ -8315,14 +8403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129985,
-      "num": 290811,
-      "word": "人贩子被判3年后又卖了十余个孩子",
-      "onboard_time": 1760624665,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129966,
       "num": 129966,
       "word": "孙颖莎化身social莎",
@@ -8633,14 +8713,6 @@
       "onboard_time": 1760283980,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126233,
-      "num": 290238,
-      "word": "胡塞武装总参谋长身亡",
-      "onboard_time": 1760625566,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 126176,
@@ -11275,6 +11347,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 103968,
+      "num": 103968,
+      "word": "男子偷上万辆共享单车每辆卖105元",
+      "onboard_time": 1760627065,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103849,
       "num": 103849,
       "word": "股市",
@@ -12715,6 +12795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91645,
+      "num": 91645,
+      "word": "山姆配送员与小区保安打架",
+      "onboard_time": 1760623164,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91461,
       "num": 91461,
       "word": "学校的打印机无敌了",
@@ -13193,6 +13281,14 @@
       "onboard_time": 1760527402,
       "rank": 18,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 87652,
+      "num": 105949,
+      "word": "10元15个散装月饼用来喂狗",
+      "onboard_time": 1760627367,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87588,
@@ -13721,6 +13817,14 @@
       "onboard_time": 1760484198,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83230,
+      "num": 83230,
+      "word": "KT抽到TES",
+      "onboard_time": 1760628262,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 83229,
@@ -15011,6 +15115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 69760,
+      "num": 72088,
+      "word": "河南培育全球最大钻石156克拉",
+      "onboard_time": 1760628324,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69618,
       "num": 69618,
       "word": "GALA分享iG大合照",
@@ -15585,6 +15697,14 @@
       "onboard_time": 1760403501,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59380,
+      "num": 72022,
+      "word": "君无戏炎be",
+      "onboard_time": 1760625984,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 59314,
