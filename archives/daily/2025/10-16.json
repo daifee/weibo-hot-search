@@ -1,6 +1,6 @@
 {
   "startTime": 1760545770711,
-  "endTime": 1760596655914,
+  "endTime": 1760597409506,
   "band_list": [
     {
       "raw_hot": 1214362,
@@ -19,11 +19,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1127464,
-      "num": 1180394,
+      "raw_hot": 1156748,
+      "num": 1185079,
       "word": "缅北电诈首富",
       "onboard_time": 1760591901,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1036979,
+      "num": 1036979,
+      "word": "缅北刘家强迫女性吸毒",
+      "onboard_time": 1760593043,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -99,14 +107,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 781248,
-      "num": 781248,
-      "word": "缅北刘家强迫女性吸毒",
-      "onboard_time": 1760593043,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 757014,
       "num": 757014,
       "word": "王者荣耀 貂蝉",
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 698021,
-      "num": 219799,
+      "num": 223278,
       "word": "妈妈回应儿子与韦雪恋情",
       "onboard_time": 1760592921,
       "rank": 36,
@@ -211,6 +211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 477010,
+      "num": 477010,
+      "word": "路行说邓莎最大的付出是生儿子",
+      "onboard_time": 1760592861,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 455259,
       "num": 284567,
       "word": "英国制裁11家中国实体",
@@ -232,14 +240,6 @@
       "word": "奔跑吧特别季阵容",
       "onboard_time": 1760585720,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 442272,
-      "num": 442272,
-      "word": "路行说邓莎最大的付出是生儿子",
-      "onboard_time": 1760592861,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -323,11 +323,27 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 333272,
+      "num": 333272,
+      "word": "刘家电诈园区统一建炮楼",
+      "onboard_time": 1760594840,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 308721,
       "num": 234493,
       "word": "再见爱人5官宣",
       "onboard_time": 1760521103,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 306127,
+      "num": 236417,
+      "word": "刘嘉玲被问怎么不生孩子",
+      "onboard_time": 1760591901,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -337,6 +353,14 @@
       "onboard_time": 1760574142,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 300209,
+      "num": 218757,
+      "word": "王俊凯几乎零片酬出演刺猬",
+      "onboard_time": 1760595681,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 294967,
@@ -371,20 +395,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289311,
+      "num": 289311,
+      "word": "金昭玉醉 暧昧氛围",
+      "onboard_time": 1760587580,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261571,
       "num": 148855,
       "word": "白敬亭回应垫鼻子",
       "onboard_time": 1760570839,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 261520,
-      "num": 236417,
-      "word": "刘嘉玲被问怎么不生孩子",
-      "onboard_time": 1760591901,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 259013,
@@ -417,14 +441,6 @@
       "onboard_time": 1760570240,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 250325,
-      "num": 250325,
-      "word": "刘家电诈园区统一建炮楼",
-      "onboard_time": 1760594840,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 245754,
@@ -481,14 +497,6 @@
       "onboard_time": 1760586262,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 225329,
-      "num": 217838,
-      "word": "王俊凯几乎零片酬出演刺猬",
-      "onboard_time": 1760595681,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 220030,
@@ -603,6 +611,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192882,
+      "num": 192882,
+      "word": "夏静石死在了大仇得报的那一天",
+      "onboard_time": 1760596041,
+      "rank": 24,
+      "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 192842,
+      "num": 192842,
+      "word": "暗河传OST阵容",
+      "onboard_time": 1760596941,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188912,
       "num": 188912,
       "word": "momo猫步",
@@ -649,14 +673,6 @@
       "onboard_time": 1760572459,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178490,
-      "num": 178490,
-      "word": "夏静石死在了大仇得报的那一天",
-      "onboard_time": 1760596041,
-      "rank": 24,
-      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 178318,
@@ -811,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140593,
+      "num": 140593,
+      "word": "黄金涨幅52%专家称有短期回调可能",
+      "onboard_time": 1760594962,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 140319,
       "num": 140319,
       "word": "沈腾说出发团不是一家人都难",
@@ -820,7 +844,7 @@
     },
     {
       "raw_hot": 139247,
-      "num": 482198,
+      "num": 728587,
       "word": "中国原子弹爆炸成功61周年",
       "onboard_time": 1760570059,
       "rank": 16,
@@ -873,14 +897,6 @@
       "onboard_time": 1760543302,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133214,
-      "num": 133214,
-      "word": "黄金涨幅52%专家称有短期回调可能",
-      "onboard_time": 1760594962,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 132614,
@@ -969,6 +985,14 @@
       "onboard_time": 1760544442,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122532,
+      "num": 115186,
+      "word": "苏醒披哥大漏勺本勺",
+      "onboard_time": 1760596401,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 121308,
@@ -1155,14 +1179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107294,
-      "num": 107294,
-      "word": "苏醒披哥大漏勺本勺",
-      "onboard_time": 1760596401,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107286,
       "num": 107286,
       "word": "高三女生眼中风永久致盲",
@@ -1257,6 +1273,14 @@
       "onboard_time": 1760578941,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101404,
+      "num": 101404,
+      "word": "33岁高中老师一天6节课的生活",
+      "onboard_time": 1760595681,
+      "rank": 47,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 100980,
@@ -1355,6 +1379,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 95123,
+      "num": 95123,
+      "word": "粮食安全宣传主题曲粮安天下",
+      "onboard_time": 1760595202,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94500,
       "num": 94500,
       "word": "黄子韬徐艺洋婚纱照 全是右脸",
@@ -1379,22 +1411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93995,
-      "num": 93995,
-      "word": "33岁高中老师一天6节课的生活",
-      "onboard_time": 1760595681,
-      "rank": 47,
-      "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 93822,
-      "num": 93822,
-      "word": "粮食安全宣传主题曲粮安天下",
-      "onboard_time": 1760595202,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93362,
       "num": 93362,
       "word": "杨幂扛住G社镜头",
@@ -1411,6 +1427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90771,
+      "num": 115506,
+      "word": "再见爱人",
+      "onboard_time": 1760589802,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90044,
       "num": 90044,
       "word": "新郎买了女生最喜欢的包去接亲",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1760524940,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87856,
+      "num": 87856,
+      "word": "eSIM手机",
+      "onboard_time": 1760597361,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 87411,
@@ -1531,6 +1563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 79341,
+      "num": 102444,
+      "word": "李晟一个眼神权谋味上来了",
+      "onboard_time": 1760597242,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78382,
       "num": 79023,
       "word": "邱贻可奖杯就要给孙颖莎",
@@ -1545,6 +1585,14 @@
       "onboard_time": 1760574982,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78104,
+      "num": 105068,
+      "word": "范丞丞小学证件照",
+      "onboard_time": 1760596161,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 77905,
@@ -1601,14 +1649,6 @@
       "onboard_time": 1760557874,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 72165,
-      "num": 88811,
-      "word": "再见爱人",
-      "onboard_time": 1760589802,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 71081,
@@ -1705,14 +1745,6 @@
       "onboard_time": 1760581941,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 61469,
-      "num": 105068,
-      "word": "范丞丞小学证件照",
-      "onboard_time": 1760596161,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 61319,
@@ -1931,6 +1963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 27807,
+      "num": 100134,
+      "word": "张子枫和妈妈逛公园",
+      "onboard_time": 1760597181,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26067,
       "num": 143120,
       "word": "筑牢大国粮仓",
@@ -2001,6 +2041,14 @@
       "onboard_time": 1760550497,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19086,
+      "num": 100572,
+      "word": "小区9米高大树倾倒砸中七旬老人",
+      "onboard_time": 1760597301,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19041,
