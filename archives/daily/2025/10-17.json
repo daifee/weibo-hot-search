@@ -1,6 +1,6 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760650603173,
+  "endTime": 1760653280169,
   "band_list": [
     {
       "raw_hot": 936620,
@@ -75,6 +75,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 171749,
+      "num": 367757,
+      "word": "新西兰从韩国抢回造船订单塞给中国",
+      "onboard_time": 1760639416,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 166994,
       "num": 432459,
       "word": "村长李锐已从湖南卫视离职",
@@ -121,14 +129,6 @@
       "onboard_time": 1760613320,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 110252,
-      "num": 170444,
-      "word": "新西兰从韩国抢回造船订单塞给中国",
-      "onboard_time": 1760639416,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107012,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52603,
+      "num": 52603,
+      "word": "商务部回应美方以100%新关税施压",
+      "onboard_time": 1760643254,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51216,
       "num": 410729,
       "word": "秦天宇眼神戏",
@@ -363,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44780,
+      "num": 44780,
+      "word": "白俄外交部回应女子被骗至缅北后身亡",
+      "onboard_time": 1760645415,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44286,
       "num": 408548,
       "word": "三个少年",
@@ -395,12 +411,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 39386,
-      "num": 39386,
-      "word": "白俄外交部回应女子被骗至缅北后身亡",
-      "onboard_time": 1760645415,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 41568,
+      "num": 41568,
+      "word": "超1000个韩国人在柬埔寨搞电诈",
+      "onboard_time": 1760647214,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 38659,
@@ -427,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34791,
+      "num": 34791,
+      "word": "苦练化妆就为了这张学信网照片",
+      "onboard_time": 1760648654,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 31823,
       "num": 412099,
       "word": "印度回应特朗普称该国承诺停购俄油",
@@ -451,12 +475,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29688,
-      "num": 29688,
-      "word": "商务部回应美方以100%新关税施压",
-      "onboard_time": 1760643254,
-      "rank": 29,
-      "category": "国内时政"
+      "raw_hot": 26789,
+      "num": 34727,
+      "word": "警方核实野人小孩监护人俱在",
+      "onboard_time": 1760646493,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26347,
@@ -476,11 +500,27 @@
     },
     {
       "raw_hot": 21671,
-      "num": 34004,
+      "num": 34492,
       "word": "感觉看了一集无耻之徒",
       "onboard_time": 1760639834,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 20270,
+      "num": 34627,
+      "word": "美国被爆施压荷兰",
+      "onboard_time": 1760646433,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 19513,
+      "num": 34622,
+      "word": "papi酱形容邓莎和路行的关系",
+      "onboard_time": 1760651773,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 18386,
@@ -491,22 +531,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 18081,
-      "num": 25249,
-      "word": "警方核实野人小孩监护人俱在",
-      "onboard_time": 1760646493,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17161,
-      "num": 16806,
-      "word": "苦练化妆就为了这张学信网照片",
-      "onboard_time": 1760648654,
-      "rank": 31,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 16721,
       "num": 324676,
       "word": "王健林与万达因合同纠纷被告",
@@ -515,19 +539,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16186,
-      "num": 26945,
-      "word": "超1000个韩国人在柬埔寨搞电诈",
-      "onboard_time": 1760647214,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 15019,
-      "num": 16797,
-      "word": "美国被爆施压荷兰",
-      "onboard_time": 1760646433,
-      "rank": 44,
+      "raw_hot": 14170,
+      "num": 34474,
+      "word": "美国会调查星链是否成电诈园区帮凶",
+      "onboard_time": 1760649254,
+      "rank": 47,
       "category": "国际时政"
     },
     {
@@ -553,14 +569,6 @@
       "onboard_time": 1760640855,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 10069,
-      "num": 13844,
-      "word": "美国会调查星链是否成电诈园区帮凶",
-      "onboard_time": 1760649254,
-      "rank": 47,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
