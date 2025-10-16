@@ -1,6 +1,6 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760646515232,
+  "endTime": 1760647274492,
   "band_list": [
     {
       "raw_hot": 936620,
@@ -451,20 +451,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 25716,
+      "num": 28379,
+      "word": "商务部回应美方以100%新关税施压",
+      "onboard_time": 1760643254,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24098,
       "num": 406000,
       "word": "沉默的荣耀",
       "onboard_time": 1760621423,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 23775,
-      "num": 28379,
-      "word": "商务部回应美方以100%新关税施压",
-      "onboard_time": 1760643254,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21671,
@@ -499,6 +499,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 12108,
+      "num": 25239,
+      "word": "白俄外交部回应女子被骗至缅北后身亡",
+      "onboard_time": 1760645415,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 11864,
       "num": 25249,
       "word": "警方核实野人小孩监护人俱在",
@@ -507,15 +515,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11667,
-      "num": 25239,
-      "word": "白俄外交部回应女子被骗至缅北后身亡",
-      "onboard_time": 1760645415,
-      "rank": 45,
-      "category": "国际时政"
+      "raw_hot": 11760,
+      "num": 14471,
+      "word": "超1000个韩国人在柬埔寨搞电诈",
+      "onboard_time": 1760647214,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
-      "raw_hot": 11559,
+      "raw_hot": 11630,
       "num": 25235,
       "word": "刘宇宁答案",
       "onboard_time": 1760616740,
