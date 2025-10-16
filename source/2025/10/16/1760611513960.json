@@ -1,0 +1,410 @@
+{
+  "runTime": 1760611513960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 548156,
+        "num": 1087705,
+        "word": "CFO爆冷战胜T1",
+        "onboard_time": 1760606961,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 379230,
+        "num": 379230,
+        "word": "缅北刘家强迫女性吸毒",
+        "onboard_time": 1760593043,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30400,
+        "num": 301375,
+        "word": "红星照耀中国",
+        "onboard_time": 1760593821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261902,
+        "num": 261902,
+        "word": "湖南一女主播收到炸弹包裹被炸伤",
+        "onboard_time": 1760602642,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 232772,
+        "num": 232772,
+        "word": "CFO 全华班",
+        "onboard_time": 1760606961,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 230233,
+        "num": 230233,
+        "word": "一笑随歌",
+        "onboard_time": 1760609300,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199741,
+        "num": 199741,
+        "word": "家属回应女子缅北器官被摘除售卖",
+        "onboard_time": 1760609541,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190665,
+        "num": 190665,
+        "word": "缅北电诈首富",
+        "onboard_time": 1760591901,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179129,
+        "num": 179129,
+        "word": "曹德旺辞去福耀玻璃董事长职务",
+        "onboard_time": 1760607622,
+        "rank": 8,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 170499,
+        "num": 170499,
+        "word": "AL对战GEN",
+        "onboard_time": 1760609181,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1840679,
+        "num": 169260,
+        "word": "徐艺洋500克拉玻璃戒",
+        "onboard_time": 1760606722,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527819,
+        "num": 166952,
+        "word": "姜潮抢到了黄子韬的西兰花",
+        "onboard_time": 1760604801,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494572,
+        "num": 165528,
+        "word": "西湖的水居然肥成这样",
+        "onboard_time": 1760605581,
+        "rank": 12,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 164026,
+        "num": 164026,
+        "word": "刘家电诈园区统一建炮楼",
+        "onboard_time": 1760594840,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310292,
+        "num": 162266,
+        "word": "旺仔小乔掉粉超695万",
+        "onboard_time": 1760598861,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1198096,
+        "num": 160422,
+        "word": "徐艺洋婚礼口误",
+        "onboard_time": 1760609781,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 444214,
+        "num": 157884,
+        "word": "黄子韬婚礼有没有鹿晗",
+        "onboard_time": 1760603722,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293283,
+        "num": 155212,
+        "word": "警方回应香港女游客在台车站遭性侵",
+        "onboard_time": 1760603361,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36167,
+        "num": 151087,
+        "word": "刘宇宁机器人PK唱歌",
+        "onboard_time": 1760609421,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27091,
+        "num": 148026,
+        "word": "获赔38万男子称羁押541天是羞辱",
+        "onboard_time": 1760611041,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278397,
+        "num": 145998,
+        "word": "王晶曝舒淇家境很差总是被欺负",
+        "onboard_time": 1760609060,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258444,
+        "num": 143958,
+        "word": "杨幂维密看秀大喊刘雯",
+        "onboard_time": 1760607022,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174319,
+        "num": 139279,
+        "word": "男孩偷卖姥姥13克黄金仅换4200元",
+        "onboard_time": 1760599822,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139119,
+        "num": 139119,
+        "word": "掉的不成串的葡萄有销路了",
+        "onboard_time": 1760602642,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132282,
+        "num": 132282,
+        "word": "奔跑吧天路篇没有孟子义",
+        "onboard_time": 1760610441,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131758,
+        "num": 131758,
+        "word": "有事言哥哥 无事言仙君",
+        "onboard_time": 1760610379,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128371,
+        "num": 128371,
+        "word": "王俊凯几乎零片酬出演刺猬",
+        "onboard_time": 1760595681,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122751,
+        "num": 122751,
+        "word": "菲2架侦察机非法侵入我黄岩岛领空",
+        "onboard_time": 1760609961,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121547,
+        "num": 121547,
+        "word": "王楚钦亚锦赛后发文",
+        "onboard_time": 1760609781,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115415,
+        "num": 115415,
+        "word": "2025年有爆剧吗",
+        "onboard_time": 1760610681,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123508,
+        "num": 115320,
+        "word": "24岁研三上一休六的一天",
+        "onboard_time": 1760609720,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116631,
+        "num": 115314,
+        "word": "京东直播",
+        "onboard_time": 1760605581,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120229,
+        "num": 115270,
+        "word": "何炅说现在特别痛苦又近视又老花",
+        "onboard_time": 1760591421,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115197,
+        "num": 115197,
+        "word": "外卖应对无堂食商家加专属标识",
+        "onboard_time": 1760611160,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105680,
+        "num": 105680,
+        "word": "周冬雨给我干哪年来了",
+        "onboard_time": 1760609720,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98175,
+        "num": 98175,
+        "word": "现在就出发3官宣王安宇",
+        "onboard_time": 1760610622,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81535,
+        "num": 97753,
+        "word": "让艺人录制十天眼里就没光的节目",
+        "onboard_time": 1760607801,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24913,
+        "num": 97559,
+        "word": "梁王丹麦赛复仇对手",
+        "onboard_time": 1760610980,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54837,
+        "num": 97176,
+        "word": "日本流感病毒可能扩散至周边国家",
+        "onboard_time": 1760610321,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43451,
+        "num": 96573,
+        "word": "新娘回应婚礼不收红包返还宾客",
+        "onboard_time": 1760610741,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14929,
+        "num": 96086,
+        "word": "周冬雨看见粉丝就摘口罩",
+        "onboard_time": 1760610260,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95842,
+        "num": 95842,
+        "word": "100T向LPL道歉",
+        "onboard_time": 1760607141,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 51744,
+        "num": 95028,
+        "word": "4岁女孩车里睡觉走失家属发声",
+        "onboard_time": 1760611461,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94920,
+        "num": 94920,
+        "word": "T1对战CFO",
+        "onboard_time": 1760605879,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89154,
+        "num": 89154,
+        "word": "辽宁4岁女童翻车窗后失联正搜救",
+        "onboard_time": 1760599341,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87847,
+        "num": 87847,
+        "word": "白俄罗斯女子在缅甸被贩卖器官",
+        "onboard_time": 1760605341,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87035,
+        "num": 87035,
+        "word": "孙颖莎何卓佳可爱合影",
+        "onboard_time": 1760606061,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84455,
+        "num": 84455,
+        "word": "柯淳一间房13个labubu",
+        "onboard_time": 1760608701,
+        "rank": 47,
+        "category": "综艺,休闲"
+      },
+      {
+        "raw_hot": 83599,
+        "num": 83599,
+        "word": "金价除以10等于1979年大牛市",
+        "onboard_time": 1760607981,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79978,
+        "num": 79978,
+        "word": "内娱第一对爱豆夫妻",
+        "onboard_time": 1760605161,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬优良办学传统矢志强农报国#"
+    }
+  }
+}
