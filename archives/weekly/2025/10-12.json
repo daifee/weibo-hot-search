@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760585218041,
+  "endTime": 1760586715614,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -241,6 +241,14 @@
       "onboard_time": 1760361802,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1214362,
+      "num": 270706,
+      "word": "怀孕9个月的超模为维密大秀开场",
+      "onboard_time": 1760584522,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1199304,
@@ -817,6 +825,14 @@
       "onboard_time": 1760236580,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 708369,
+      "num": 269174,
+      "word": "黄子韬 抛西兰花",
+      "onboard_time": 1760584339,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 703308,
@@ -1835,6 +1851,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 449540,
+      "num": 449540,
+      "word": "印尼将采购中国歼10战机",
+      "onboard_time": 1760581701,
+      "rank": 6,
+      "category": "军事"
+    },
+    {
       "raw_hot": 449347,
       "num": 417320,
       "word": "厦门公安接到台湾民众举报",
@@ -2163,14 +2187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 398715,
-      "num": 398715,
-      "word": "印尼将采购中国歼10战机",
-      "onboard_time": 1760581701,
-      "rank": 6,
-      "category": "军事"
-    },
-    {
       "raw_hot": 398639,
       "num": 398639,
       "word": "无人岛现巨大垃圾天坑",
@@ -2315,14 +2331,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 367941,
-      "num": 137424,
-      "word": "怀孕9个月的超模为维密大秀开场",
-      "onboard_time": 1760584522,
-      "rank": 30,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 367707,
       "num": 367707,
       "word": "王者荣耀河灯",
@@ -2428,7 +2436,7 @@
     },
     {
       "raw_hot": 350404,
-      "num": 204253,
+      "num": 215630,
       "word": "第一批爱喝咖啡的受害者出现了",
       "onboard_time": 1760575582,
       "rank": 20,
@@ -2923,6 +2931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291745,
+      "num": 291745,
+      "word": "明日方舟 三丽鸥",
+      "onboard_time": 1760585121,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 291587,
       "num": 174612,
       "word": "林允 VOGUE",
@@ -3163,14 +3179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267967,
-      "num": 246165,
-      "word": "黄子韬 抛西兰花",
-      "onboard_time": 1760584339,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 267882,
       "num": 267882,
       "word": "瑞达",
@@ -3283,6 +3291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 259013,
+      "num": 259013,
+      "word": "奔跑吧替嗨放派定档",
+      "onboard_time": 1760585361,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258734,
       "num": 247792,
       "word": "S15瑞士轮第二轮抽签",
@@ -3313,6 +3329,14 @@
       "onboard_time": 1760423783,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 254942,
+      "num": 254942,
+      "word": "当年爱情公寓的选角手稿",
+      "onboard_time": 1760584041,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 254589,
@@ -3353,14 +3377,6 @@
       "onboard_time": 1760510001,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250470,
-      "num": 250470,
-      "word": "当年爱情公寓的选角手稿",
-      "onboard_time": 1760584041,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 250139,
@@ -3609,6 +3625,14 @@
       "onboard_time": 1760570479,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227602,
+      "num": 151569,
+      "word": "刘雯秀服重30斤",
+      "onboard_time": 1760586262,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 227296,
@@ -3896,6 +3920,14 @@
       "word": "你好种地少年3",
       "onboard_time": 1760322920,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 209853,
+      "num": 209853,
+      "word": "刘晓庆说的不背词演员是谁",
+      "onboard_time": 1760584762,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -4403,6 +4435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 193171,
+      "num": 193171,
+      "word": "赵丽颖是谁生日呢是我呀",
+      "onboard_time": 1760585301,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192913,
       "num": 192913,
       "word": "陶白白支持iG",
@@ -4619,6 +4659,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 186240,
+      "num": 186240,
+      "word": "我听交警的事件有后续了",
+      "onboard_time": 1760584822,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 186047,
       "num": 186047,
       "word": "亚锦赛女团中国vs韩国",
@@ -4633,6 +4681,14 @@
       "onboard_time": 1760368522,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185369,
+      "num": 250793,
+      "word": "第一次见恋综嘉宾聊房租",
+      "onboard_time": 1760585781,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 185248,
@@ -4929,6 +4985,14 @@
       "onboard_time": 1760268801,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173286,
+      "num": 173286,
+      "word": "奔跑吧特别季阵容",
+      "onboard_time": 1760585720,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 173267,
@@ -5273,6 +5337,14 @@
       "onboard_time": 1760252479,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163222,
+      "num": 163222,
+      "word": "这跟读一辈子高三有什么区别",
+      "onboard_time": 1760585061,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 163043,
@@ -5673,14 +5745,6 @@
       "onboard_time": 1760254162,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 154672,
-      "num": 154672,
-      "word": "刘晓庆说的不背词演员是谁",
-      "onboard_time": 1760584762,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 154405,
@@ -6451,6 +6515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 139247,
+      "num": 139247,
+      "word": "中国原子弹爆炸成功61周年",
+      "onboard_time": 1760570059,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139171,
       "num": 139171,
       "word": "王宁送库克labubu",
@@ -6891,14 +6963,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 131366,
-      "num": 131366,
-      "word": "明日方舟 三丽鸥",
-      "onboard_time": 1760585121,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 131308,
       "num": 131308,
       "word": "邓恩熙好权威一张古人脸",
@@ -7035,6 +7099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129674,
+      "num": 129674,
+      "word": "用微信表情看了一部凶杀案",
+      "onboard_time": 1760585601,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 129092,
       "num": 129092,
       "word": "林永健在人民日报撰文",
@@ -7105,6 +7177,14 @@
       "onboard_time": 1760425343,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127806,
+      "num": 127806,
+      "word": "夏之光成立新工作室",
+      "onboard_time": 1760585181,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 127781,
@@ -7320,6 +7400,14 @@
       "word": "王楚钦林诗栋拥抱",
       "onboard_time": 1760519843,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125955,
+      "num": 125955,
+      "word": "独行侠vs湖人",
+      "onboard_time": 1760585061,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -8019,6 +8107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118308,
+      "num": 118308,
+      "word": "石破茂好开心",
+      "onboard_time": 1760585660,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118269,
       "num": 118269,
       "word": "孙颖莎尽兴拥抱不留遗憾",
@@ -8283,14 +8379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115956,
-      "num": 115956,
-      "word": "中国原子弹爆炸成功61周年",
-      "onboard_time": 1760570059,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 115825,
       "num": 115825,
       "word": "王楚钦11比8霍戴伊",
@@ -8425,6 +8513,14 @@
       "onboard_time": 1760504301,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114127,
+      "num": 114127,
+      "word": "柯淳让刘嘉玲跟梁朝伟发语音撒娇",
+      "onboard_time": 1760586562,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 114090,
@@ -8923,6 +9019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109660,
+      "num": 109660,
+      "word": "特朗普称莫迪保证停止购买俄石油",
+      "onboard_time": 1760585901,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109606,
       "num": 109606,
       "word": "刘浩存好萌",
@@ -9083,6 +9187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108419,
+      "num": 108419,
+      "word": "展轩博客天下封面",
+      "onboard_time": 1760586681,
+      "rank": 49,
+      "category": "作品衍生,艺人"
+    },
+    {
       "raw_hot": 108349,
       "num": 108349,
       "word": "许凯天都异闻录开机出妆",
@@ -9145,14 +9257,6 @@
       "onboard_time": 1760343621,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107956,
-      "num": 107956,
-      "word": "夏之光成立新工作室",
-      "onboard_time": 1760585181,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 107940,
@@ -9313,14 +9417,6 @@
       "onboard_time": 1760368641,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 106794,
-      "num": 106794,
-      "word": "我听交警的事件有后续了",
-      "onboard_time": 1760584822,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106778,
@@ -9683,14 +9779,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 102540,
-      "num": 102540,
-      "word": "独行侠vs湖人",
-      "onboard_time": 1760585061,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102531,
       "num": 102531,
       "word": "乒乓亚锦赛男团四强出炉",
@@ -9897,14 +9985,6 @@
       "onboard_time": 1760574621,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100502,
-      "num": 100502,
-      "word": "这跟读一辈子高三有什么区别",
-      "onboard_time": 1760585061,
-      "rank": 47,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 100492,
@@ -13003,6 +13083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 65914,
+      "num": 126952,
+      "word": "S15瑞士轮第二日赛程",
+      "onboard_time": 1760585841,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 65760,
       "num": 65760,
       "word": "邓超说演员应该像水",
@@ -13363,6 +13451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58591,
+      "num": 235044,
+      "word": "京东上线霉霉稀缺黑胶",
+      "onboard_time": 1760583921,
+      "rank": 20,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 58588,
       "num": 88510,
       "word": "时装周最亮眼艺人TOP10",
@@ -13409,14 +13505,6 @@
       "onboard_time": 1760193925,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 57524,
-      "num": 204398,
-      "word": "京东上线霉霉稀缺黑胶",
-      "onboard_time": 1760583921,
-      "rank": 20,
-      "category": "音乐"
     },
     {
       "raw_hot": 57522,
@@ -13665,6 +13753,14 @@
       "onboard_time": 1760480715,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52756,
+      "num": 126495,
+      "word": "男子买300克黄金宠妻3年后赚5万",
+      "onboard_time": 1760586021,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52313,
@@ -14009,6 +14105,14 @@
       "onboard_time": 1760557333,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 44210,
+      "num": 243359,
+      "word": "环保少女讲述如何遭以色列虐待",
+      "onboard_time": 1760586081,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 44073,
@@ -15153,6 +15257,14 @@
       "onboard_time": 1760448262,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9919,
+      "num": 127450,
+      "word": "一个AI女歌手和她的幕后操控者",
+      "onboard_time": 1760586562,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 9067,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/16 11:26:58
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/16 11:51:55
 </p>
 </blockquote>
 <p>
@@ -785,6 +785,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B6%9B%E5%A5%B3%E5%84%BF%E5%B1%85%E7%84%B6%E9%A9%AC%E4%B8%8A%E8%A6%81%E8%AF%BB%E5%A4%A7%E5%AD%A6%E4%BA%86%23" target="weibo">
 刘涛女儿居然马上要读大学了（热度：1220104）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%80%E5%AD%959%E4%B8%AA%E6%9C%88%E7%9A%84%E8%B6%85%E6%A8%A1%E4%B8%BA%E7%BB%B4%E5%AF%86%E5%A4%A7%E7%A7%80%E5%BC%80%E5%9C%BA%23" target="weibo">
+怀孕9个月的超模为维密大秀开场（热度：1214362）
 </a>
 </li>
 
@@ -2453,6 +2459,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%B7%E5%AD%90%E4%BA%B2%E9%99%8C%E7%94%9F%E5%A5%B3%E5%A8%83%E7%A7%B0%E5%A4%AA%E5%8F%AF%E7%88%B1%23" target="weibo">
 高铁上男子亲陌生女娃称太可爱（热度：708860）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%20%E6%8A%9B%E8%A5%BF%E5%85%B0%E8%8A%B1%23" target="weibo">
+黄子韬 抛西兰花（热度：708369）
 </a>
 </li>
 
@@ -5013,6 +5025,12 @@ K签证（热度：453444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E5%B0%86%E9%87%87%E8%B4%AD%E4%B8%AD%E5%9B%BD%E6%AD%BC10%E6%88%98%E6%9C%BA%23" target="weibo">
+印尼将采购中国歼10战机（热度：449540）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E5%85%AC%E5%AE%89%E6%8E%A5%E5%88%B0%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E4%B8%BE%E6%8A%A5%23" target="weibo">
 厦门公安接到台湾民众举报（热度：449347）
 </a>
@@ -5793,12 +5811,6 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E5%B0%86%E9%87%87%E8%B4%AD%E4%B8%AD%E5%9B%BD%E6%AD%BC10%E6%88%98%E6%9C%BA%23" target="weibo">
-印尼将采购中国歼10战机（热度：398715）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E4%BA%BA%E5%B2%9B%E7%8E%B0%E5%B7%A8%E5%A4%A7%E5%9E%83%E5%9C%BE%E5%A4%A9%E5%9D%91%23" target="weibo">
 无人岛现巨大垃圾天坑（热度：398639）
 </a>
@@ -5999,18 +6011,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%B0%8F%E5%AE%97%E6%97%A0%E7%B3%96%E8%8C%B6%E4%B8%8E%E5%A8%83%E5%93%88%E5%93%88%E5%8C%85%E8%A3%85%E5%8C%BA%E5%88%86%E9%B2%9C%E6%98%8E%23" target="weibo">
 娃小宗无糖茶与娃哈哈包装区分鲜明（热度：386102）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%A6%E8%A2%AB%E6%9B%9D%E4%BD%8F%E5%AE%BF%E7%8E%AF%E5%A2%83%E5%B7%AE%23" target="weibo">
-广东海洋大学被曝住宿环境差（热度：385692）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Wei%E4%BB%80%E4%B9%88%23" target="weibo">
-Wei什么（热度：385683）
 </a>
 </li>
 

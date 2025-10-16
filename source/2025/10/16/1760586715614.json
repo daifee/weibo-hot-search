@@ -1,0 +1,410 @@
+{
+  "runTime": 1760586715614,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 623185,
+        "num": 1099709,
+        "word": "小车突然爆胎后排女子被甩出车窗",
+        "onboard_time": 1760578941,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449540,
+        "num": 449540,
+        "word": "印尼将采购中国歼10战机",
+        "onboard_time": 1760581701,
+        "rank": 1,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 5418,
+        "num": 427939,
+        "word": "我国首次批量发行盲文版地图",
+        "onboard_time": 1760486842,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 577468,
+        "num": 426784,
+        "word": "印度首富妻子的爱马仕镶了3025颗钻",
+        "onboard_time": 1760579239,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 425557,
+        "num": 425557,
+        "word": "研究生学费暴涨你还会选择读研吗",
+        "onboard_time": 1760574863,
+        "rank": 4,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 319704,
+        "num": 319704,
+        "word": "我国边境缴毒1.35吨",
+        "onboard_time": 1760583081,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313841,
+        "num": 313841,
+        "word": "维密大秀",
+        "onboard_time": 1760571380,
+        "rank": 6,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 291745,
+        "num": 291745,
+        "word": "明日方舟 三丽鸥",
+        "onboard_time": 1760585121,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283326,
+        "num": 283326,
+        "word": "金店老板说金价跌起来像泄洪",
+        "onboard_time": 1760544262,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 273612,
+        "num": 273612,
+        "word": "甘肃发现超40吨金矿",
+        "onboard_time": 1760576961,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1214362,
+        "num": 270706,
+        "word": "怀孕9个月的超模为维密大秀开场",
+        "onboard_time": 1760584522,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 708369,
+        "num": 269174,
+        "word": "黄子韬 抛西兰花",
+        "onboard_time": 1760584339,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475394,
+        "num": 266745,
+        "word": "于正 会对夏之光好一点的",
+        "onboard_time": 1760581462,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355458,
+        "num": 264724,
+        "word": "杨幂维密翅膀",
+        "onboard_time": 1760572700,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 336255,
+        "num": 261807,
+        "word": "英国制裁11家中国实体",
+        "onboard_time": 1760579001,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 259013,
+        "num": 259013,
+        "word": "奔跑吧替嗨放派定档",
+        "onboard_time": 1760585361,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254942,
+        "num": 254942,
+        "word": "当年爱情公寓的选角手稿",
+        "onboard_time": 1760584041,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185369,
+        "num": 250793,
+        "word": "第一次见恋综嘉宾聊房租",
+        "onboard_time": 1760585781,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44210,
+        "num": 243359,
+        "word": "环保少女讲述如何遭以色列虐待",
+        "onboard_time": 1760586081,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58591,
+        "num": 235044,
+        "word": "京东上线霉霉稀缺黑胶",
+        "onboard_time": 1760583921,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 629603,
+        "num": 224319,
+        "word": "黄子韬徐艺洋婚礼流程",
+        "onboard_time": 1760580921,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258717,
+        "num": 215630,
+        "word": "第一批爱喝咖啡的受害者出现了",
+        "onboard_time": 1760575582,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209853,
+        "num": 209853,
+        "word": "刘晓庆说的不背词演员是谁",
+        "onboard_time": 1760584762,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193171,
+        "num": 193171,
+        "word": "赵丽颖是谁生日呢是我呀",
+        "onboard_time": 1760585301,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186240,
+        "num": 186240,
+        "word": "我听交警的事件有后续了",
+        "onboard_time": 1760584822,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178758,
+        "num": 178758,
+        "word": "人类未出现时的二氧化碳浓度再现",
+        "onboard_time": 1760578162,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173286,
+        "num": 173286,
+        "word": "奔跑吧特别季阵容",
+        "onboard_time": 1760585720,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163222,
+        "num": 163222,
+        "word": "这跟读一辈子高三有什么区别",
+        "onboard_time": 1760585061,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 172030,
+        "num": 162448,
+        "word": "周放赵丽颖友谊",
+        "onboard_time": 1760578761,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158657,
+        "num": 158657,
+        "word": "雎晓雯产后首登维密",
+        "onboard_time": 1760577802,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 153690,
+        "num": 153690,
+        "word": "肖战第二次演医生",
+        "onboard_time": 1760583020,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227602,
+        "num": 151569,
+        "word": "刘雯秀服重30斤",
+        "onboard_time": 1760586262,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148672,
+        "num": 148672,
+        "word": "怪不得实体店衣服这么贵",
+        "onboard_time": 1760574442,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139247,
+        "num": 139247,
+        "word": "中国原子弹爆炸成功61周年",
+        "onboard_time": 1760570059,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139059,
+        "num": 139059,
+        "word": "女子在台北车站大厅遭侵犯无人制止",
+        "onboard_time": 1760570479,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129674,
+        "num": 129674,
+        "word": "用微信表情看了一部凶杀案",
+        "onboard_time": 1760585601,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127806,
+        "num": 127806,
+        "word": "夏之光成立新工作室",
+        "onboard_time": 1760585181,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9919,
+        "num": 127450,
+        "word": "一个AI女歌手和她的幕后操控者",
+        "onboard_time": 1760586562,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65914,
+        "num": 126952,
+        "word": "S15瑞士轮第二日赛程",
+        "onboard_time": 1760585841,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52756,
+        "num": 126495,
+        "word": "男子买300克黄金宠妻3年后赚5万",
+        "onboard_time": 1760586021,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124393,
+        "num": 126402,
+        "word": "宁静 该说得说不能装死",
+        "onboard_time": 1760584160,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125955,
+        "num": 125955,
+        "word": "独行侠vs湖人",
+        "onboard_time": 1760585061,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118642,
+        "num": 118642,
+        "word": "刘雯第二套",
+        "onboard_time": 1760576061,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118308,
+        "num": 118308,
+        "word": "石破茂好开心",
+        "onboard_time": 1760585660,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114127,
+        "num": 114127,
+        "word": "柯淳让刘嘉玲跟梁朝伟发语音撒娇",
+        "onboard_time": 1760586562,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113444,
+        "num": 113444,
+        "word": "剑网三",
+        "onboard_time": 1760584339,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109796,
+        "num": 109796,
+        "word": "一声东方巨响让中国人挺直了腰杆",
+        "onboard_time": 1760570479,
+        "rank": 46,
+        "category": "国内时政,民生新闻"
+      },
+      {
+        "raw_hot": 109660,
+        "num": 109660,
+        "word": "特朗普称莫迪保证停止购买俄石油",
+        "onboard_time": 1760585901,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108929,
+        "num": 108929,
+        "word": "小沈阳直接被沈佳润抬到象山了",
+        "onboard_time": 1760583620,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108419,
+        "num": 108419,
+        "word": "展轩博客天下封面",
+        "onboard_time": 1760586681,
+        "rank": 49,
+        "category": "作品衍生,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记这份关心从未改变#"
+    }
+  }
+}
