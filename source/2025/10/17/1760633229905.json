@@ -1,0 +1,410 @@
+{
+  "runTime": 1760633229905,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 183225,
+        "num": 682718,
+        "word": "人贩子被判3年后又卖了十余个孩子",
+        "onboard_time": 1760624665,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153267,
+        "num": 153267,
+        "word": "韩国人成柬埔寨电诈园区新猎物",
+        "onboard_time": 1760621364,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23225,
+        "num": 123720,
+        "word": "十四五成就",
+        "onboard_time": 1760623767,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116946,
+        "num": 116946,
+        "word": "上海地铁称地铁一词统一译为metro",
+        "onboard_time": 1760624366,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110771,
+        "num": 110771,
+        "word": "胡塞武装总参谋长身亡",
+        "onboard_time": 1760625566,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 293739,
+        "num": 110660,
+        "word": "成毅说演员先做人再演戏",
+        "onboard_time": 1760616381,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89680,
+        "num": 109767,
+        "word": "君无戏炎be",
+        "onboard_time": 1760625984,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79240,
+        "num": 109422,
+        "word": "台积电业绩炸裂",
+        "onboard_time": 1760624424,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 67898,
+        "num": 108898,
+        "word": "baolan神之一手",
+        "onboard_time": 1760624304,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66939,
+        "num": 107987,
+        "word": "宝蓝抽签",
+        "onboard_time": 1760619201,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 810246,
+        "num": 107891,
+        "word": "黄子韬婚礼归国四子一缺三",
+        "onboard_time": 1760627964,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428804,
+        "num": 107114,
+        "word": "第一批爱侧睡的受害者出现了",
+        "onboard_time": 1760628622,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 348419,
+        "num": 106808,
+        "word": "赵丽颖庆生照片",
+        "onboard_time": 1760627903,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186938,
+        "num": 105976,
+        "word": "徐艺洋 谢彬彬我的男朋友",
+        "onboard_time": 1760618843,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184946,
+        "num": 105266,
+        "word": "每月攒一颗小金饰00后女生发声",
+        "onboard_time": 1760626224,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229038,
+        "num": 105147,
+        "word": "刘宇宁坐黄子韬婚礼主桌",
+        "onboard_time": 1760624004,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154373,
+        "num": 104267,
+        "word": "村长李锐已从湖南卫视离职",
+        "onboard_time": 1760617223,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131297,
+        "num": 103784,
+        "word": "男子应聘船员出海严重晕船自缢身亡",
+        "onboard_time": 1760620704,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127530,
+        "num": 103038,
+        "word": "陈哲远发红包",
+        "onboard_time": 1760615182,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102927,
+        "num": 102927,
+        "word": "郭碧婷父亲患肺癌",
+        "onboard_time": 1760613320,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83055,
+        "num": 102919,
+        "word": "陈俊生去的是邱莹莹的咖啡馆",
+        "onboard_time": 1760622565,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79076,
+        "num": 102826,
+        "word": "凤戏阳成为女帝",
+        "onboard_time": 1760620405,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55358,
+        "num": 102808,
+        "word": "零跑推出旗舰D平台谁慌了",
+        "onboard_time": 1760627125,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 75717,
+        "num": 102772,
+        "word": "韩财阀千金成电诈大佬",
+        "onboard_time": 1760613201,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 70240,
+        "num": 102700,
+        "word": "王安宇走完秀扑倒在李现怀里",
+        "onboard_time": 1760619022,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68909,
+        "num": 102665,
+        "word": "4岁女童车内睡着后失踪超20小时",
+        "onboard_time": 1760614881,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68706,
+        "num": 102574,
+        "word": "男子偷上万辆共享单车每辆卖105元",
+        "onboard_time": 1760627065,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62572,
+        "num": 102568,
+        "word": "刘些宁徐艺洋对视差点哭了",
+        "onboard_time": 1760630242,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46062,
+        "num": 102485,
+        "word": "王健林被起诉",
+        "onboard_time": 1760616442,
+        "rank": 28,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 45412,
+        "num": 102419,
+        "word": "缅北刘家娱乐场所消费单曝光",
+        "onboard_time": 1760628083,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66819,
+        "num": 102416,
+        "word": "孙颖莎都被看呆了",
+        "onboard_time": 1760628862,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61458,
+        "num": 102344,
+        "word": "章泽天烫头了",
+        "onboard_time": 1760616740,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58085,
+        "num": 102276,
+        "word": "穆祉丞谈成团遗憾泪崩了",
+        "onboard_time": 1760626345,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57917,
+        "num": 102226,
+        "word": "Peanut和Mark见面了",
+        "onboard_time": 1760626284,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44096,
+        "num": 102185,
+        "word": "三个少年",
+        "onboard_time": 1760629042,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50836,
+        "num": 102142,
+        "word": "李现马思纯看王安宇走秀笑成啥了",
+        "onboard_time": 1760621964,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49332,
+        "num": 102069,
+        "word": "警方多地抓获24名卖淫女42名嫖客",
+        "onboard_time": 1760618242,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 48170,
+        "num": 102008,
+        "word": "35岁女子应聘人事岗被HR嫌年龄大",
+        "onboard_time": 1760621423,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46419,
+        "num": 102007,
+        "word": "Viper全中文采访",
+        "onboard_time": 1760622264,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44802,
+        "num": 101916,
+        "word": "李纯为赵丽颖庆生",
+        "onboard_time": 1760613680,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44055,
+        "num": 101883,
+        "word": "秦天宇眼神戏",
+        "onboard_time": 1760627723,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43829,
+        "num": 101846,
+        "word": "美财长暗示关税换稀土",
+        "onboard_time": 1760624543,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42812,
+        "num": 101769,
+        "word": "现货黄金突破4260美元",
+        "onboard_time": 1760632641,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 42252,
+        "num": 101746,
+        "word": "卢昱晓在我首页吊一天了",
+        "onboard_time": 1760624424,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42155,
+        "num": 101677,
+        "word": "黄轩生理性抽搐不像演的",
+        "onboard_time": 1760618541,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40517,
+        "num": 101634,
+        "word": "十个勤天还剩七个勤天",
+        "onboard_time": 1760616381,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37260,
+        "num": 101551,
+        "word": "日本流感病毒可能扩散至周边国家",
+        "onboard_time": 1760610321,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35990,
+        "num": 101545,
+        "word": "一笑随歌热度",
+        "onboard_time": 1760616081,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30211,
+        "num": 101466,
+        "word": "孙颖莎第一张4K超清实况",
+        "onboard_time": 1760619924,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27784,
+        "num": 101442,
+        "word": "孙颖莎小手一挥爽快同意交换",
+        "onboard_time": 1760627243,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强农报国#"
+    }
+  }
+}
