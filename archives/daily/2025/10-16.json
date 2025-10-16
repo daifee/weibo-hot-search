@@ -1,6 +1,6 @@
 {
   "startTime": 1760545770711,
-  "endTime": 1760603772276,
+  "endTime": 1760604562485,
   "band_list": [
     {
       "raw_hot": 4061269,
@@ -563,7 +563,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 221127,
+      "raw_hot": 225991,
       "num": 221127,
       "word": "美甲也是轮回",
       "onboard_time": 1760599521,
@@ -619,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210387,
+      "num": 174381,
+      "word": "警方回应香港女游客在台车站遭性侵",
+      "onboard_time": 1760603361,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209853,
       "num": 209853,
       "word": "刘晓庆说的不背词演员是谁",
@@ -651,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203150,
+      "num": 203150,
+      "word": "湖南一女主播收到炸弹包裹被炸伤",
+      "onboard_time": 1760602642,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200415,
       "num": 200415,
       "word": "蹲一下黄子韬徐艺洋婚礼直播",
@@ -665,6 +681,14 @@
       "onboard_time": 1760588903,
       "rank": 37,
       "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 193921,
+      "num": 173569,
+      "word": "掉的不成串的葡萄有销路了",
+      "onboard_time": 1760602642,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 193856,
@@ -691,12 +715,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189185,
+      "num": 176616,
+      "word": "男孩偷卖姥姥13克黄金仅换4200元",
+      "onboard_time": 1760599822,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188912,
       "num": 188912,
       "word": "momo猫步",
       "onboard_time": 1760588542,
       "rank": 31,
       "category": "其它,时尚"
+    },
+    {
+      "raw_hot": 188137,
+      "num": 188137,
+      "word": "TES战胜100T",
+      "onboard_time": 1760603722,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 187530,
@@ -755,20 +795,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 176616,
-      "num": 176616,
-      "word": "男孩偷卖姥姥13克黄金仅换4200元",
-      "onboard_time": 1760599822,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176309,
-      "num": 176309,
-      "word": "湖南一女主播收到炸弹包裹被炸伤",
-      "onboard_time": 1760602642,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 174295,
+      "num": 235682,
+      "word": "外交部回应美方所谓去中国化",
+      "onboard_time": 1760603000,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 173331,
@@ -785,6 +817,14 @@
       "onboard_time": 1760599402,
       "rank": 24,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 169938,
+      "num": 169938,
+      "word": "孔雪儿想象中穿一字肩的样子",
+      "onboard_time": 1760602401,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 168558,
@@ -883,14 +923,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154852,
-      "num": 150867,
-      "word": "孔雪儿想象中穿一字肩的样子",
-      "onboard_time": 1760602401,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 154837,
       "num": 154837,
       "word": "多家银行就金价紧急提醒",
@@ -913,22 +945,6 @@
       "onboard_time": 1760595501,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152207,
-      "num": 152207,
-      "word": "掉的不成串的葡萄有销路了",
-      "onboard_time": 1760602642,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 150492,
-      "num": 235682,
-      "word": "外交部回应美方所谓去中国化",
-      "onboard_time": 1760603000,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 150015,
@@ -1059,6 +1075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135633,
+      "num": 114170,
+      "word": "把张晚意判给每一个不会拍照的人",
+      "onboard_time": 1760603661,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135161,
       "num": 135161,
       "word": "方媛怀三胎现身",
@@ -1073,6 +1097,14 @@
       "onboard_time": 1760543302,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 134718,
+      "num": 221294,
+      "word": "虹桥机场2名外国人脱鞋占6个座",
+      "onboard_time": 1760602701,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132614,
@@ -1187,6 +1219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122068,
+      "num": 171600,
+      "word": "少年歌行对家的故事拍成剧了",
+      "onboard_time": 1760603542,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121932,
       "num": 121932,
       "word": "林心如霍建华财务各自独立",
@@ -1297,14 +1337,6 @@
       "onboard_time": 1760594242,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 115894,
-      "num": 120821,
-      "word": "警方回应香港女游客在台车站遭性侵",
-      "onboard_time": 1760603361,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114127,
@@ -1483,6 +1515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102614,
+      "num": 170457,
+      "word": "折腰长剧爆火短剧夭折",
+      "onboard_time": 1760601202,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102255,
       "num": 102255,
       "word": "eSIM手机",
@@ -1531,14 +1571,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 101053,
-      "num": 101053,
-      "word": "TES战胜100T",
-      "onboard_time": 1760603722,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 100980,
       "num": 100980,
       "word": "近13万枚比特币被查获",
@@ -1579,14 +1611,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 98539,
-      "num": 158127,
-      "word": "折腰长剧爆火短剧夭折",
-      "onboard_time": 1760601202,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 98303,
       "num": 132592,
       "word": "光刻机是拿来用的不是拿来展的",
@@ -1609,14 +1633,6 @@
       "onboard_time": 1760587402,
       "rank": 23,
       "category": "数码"
-    },
-    {
-      "raw_hot": 97048,
-      "num": 157355,
-      "word": "少年歌行对家的故事拍成剧了",
-      "onboard_time": 1760603542,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 97033,
@@ -1691,6 +1707,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94106,
+      "num": 94106,
+      "word": "谁家节目让六旬老人哐哐做饭啊",
+      "onboard_time": 1760604500,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 93948,
+      "num": 92332,
+      "word": "A股缩量1417亿",
+      "onboard_time": 1760600902,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 93362,
       "num": 93362,
       "word": "杨幂扛住G社镜头",
@@ -1699,20 +1731,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 93223,
+      "num": 102138,
+      "word": "05超女的女儿参加芒果选秀",
+      "onboard_time": 1760602462,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93131,
       "num": 93491,
       "word": "猫咪也知道自己闯祸了",
       "onboard_time": 1760592682,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 93026,
-      "num": 93026,
-      "word": "把张晚意判给每一个不会拍照的人",
-      "onboard_time": 1760603661,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 90771,
@@ -1731,6 +1763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89968,
+      "num": 89968,
+      "word": "太好了是黄景瑜我们有笑了",
+      "onboard_time": 1760604259,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87878,
       "num": 87878,
       "word": "85花粉你睡着了吗我睡不着",
@@ -1745,6 +1785,14 @@
       "onboard_time": 1760579541,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86661,
+      "num": 86661,
+      "word": "因为一个露台买了一套房",
+      "onboard_time": 1760604379,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 86496,
@@ -1939,6 +1987,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 71408,
+      "num": 174303,
+      "word": "居民在家睡觉灭蚊人员闯入拿走绿植",
+      "onboard_time": 1760603900,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71081,
       "num": 71081,
       "word": "巴基斯坦同意与阿富汗临时停火",
@@ -1993,22 +2049,6 @@
       "onboard_time": 1760591241,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66535,
-      "num": 221294,
-      "word": "虹桥机场2名外国人脱鞋占6个座",
-      "onboard_time": 1760602701,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66321,
-      "num": 102138,
-      "word": "05超女的女儿参加芒果选秀",
-      "onboard_time": 1760602462,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 66307,
@@ -2348,7 +2388,7 @@
     },
     {
       "raw_hot": 22188,
-      "num": 104796,
+      "num": 110868,
       "word": "算力如何变成生产力",
       "onboard_time": 1760602522,
       "rank": 39,
@@ -2475,6 +2515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11975,
+      "num": 111828,
+      "word": "夏雨发文祝袁泉生日快乐",
+      "onboard_time": 1760603841,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 9919,
       "num": 127450,
       "word": "一个AI女歌手和她的幕后操控者",
@@ -2491,7 +2539,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 6091,
+      "raw_hot": 7057,
       "num": 462929,
       "word": "万千气象看天津",
       "onboard_time": 1760501182,
