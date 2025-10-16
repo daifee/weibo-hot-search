@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/12 00:27:55 ~ 2025/10/17 00:47:09
+本榜单时间：2025/10/12 00:27:55 ~ 2025/10/17 01:23:34
 </p>
 </blockquote>
 <p>
@@ -11391,6 +11391,12 @@ GALA分享iG大合照（热度：69618）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23NBA%E7%BB%99%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%BB%BB%E5%98%89%E4%BC%A6%E7%AB%AF%E6%B0%B4%23" target="weibo">
+NBA给王俊凯任嘉伦端水（热度：69519）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Lulu%E5%86%8D%E6%AC%A1%E5%90%A6%E8%AE%A4%E6%80%80%E5%AD%95%23" target="weibo">
 Lulu再次否认怀孕（热度：69469）
 </a>
@@ -12875,6 +12881,12 @@ NI家的老车是一部活相册（热度：37970）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A1%83%E9%BB%91%E9%BB%91%E6%A4%8D%E7%89%A9%E5%A4%A7%E6%88%98%E5%83%B5%E5%B0%B8%23" target="weibo">
 桃黑黑植物大战僵尸（热度：31840）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AF%A5%E5%9B%BD%E6%89%BF%E8%AF%BA%E5%81%9C%E8%B4%AD%E4%BF%84%E6%B2%B9%23" target="weibo">
+印度回应特朗普称该国承诺停购俄油（热度：31823）
 </a>
 </li>
 
