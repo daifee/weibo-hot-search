@@ -1,0 +1,410 @@
+{
+  "runTime": 1760629331059,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 474268,
+        "num": 1075882,
+        "word": "人贩子被判3年后又卖了十余个孩子",
+        "onboard_time": 1760624665,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239008,
+        "num": 239008,
+        "word": "韩国人成柬埔寨电诈园区新猎物",
+        "onboard_time": 1760621364,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37183,
+        "num": 238564,
+        "word": "十四五成就",
+        "onboard_time": 1760623767,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221091,
+        "num": 238152,
+        "word": "宝蓝抽签",
+        "onboard_time": 1760619201,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 220164,
+        "num": 237795,
+        "word": "上海地铁称地铁一词统一译为metro",
+        "onboard_time": 1760624366,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 503702,
+        "num": 236899,
+        "word": "成毅说演员先做人再演戏",
+        "onboard_time": 1760616381,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203640,
+        "num": 236648,
+        "word": "胡塞武装总参谋长身亡",
+        "onboard_time": 1760625566,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198625,
+        "num": 235724,
+        "word": "陈俊生去的是邱莹莹的咖啡馆",
+        "onboard_time": 1760622565,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157595,
+        "num": 235313,
+        "word": "王健林被起诉",
+        "onboard_time": 1760616442,
+        "rank": 8,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 148008,
+        "num": 234772,
+        "word": "凤戏阳成为女帝",
+        "onboard_time": 1760620405,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1186158,
+        "num": 234443,
+        "word": "黄子韬婚礼归国四子一缺三",
+        "onboard_time": 1760627964,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497434,
+        "num": 233863,
+        "word": "赵丽颖庆生照片",
+        "onboard_time": 1760627903,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313196,
+        "num": 233297,
+        "word": "每月攒一颗小金饰00后女生发声",
+        "onboard_time": 1760626224,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254000,
+        "num": 232540,
+        "word": "陈哲远发红包",
+        "onboard_time": 1760615182,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232419,
+        "num": 232419,
+        "word": "徐艺洋 谢彬彬我的男朋友",
+        "onboard_time": 1760618843,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518251,
+        "num": 232126,
+        "word": "刘宇宁坐黄子韬婚礼主桌",
+        "onboard_time": 1760624004,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230863,
+        "num": 230863,
+        "word": "村长李锐已从湖南卫视离职",
+        "onboard_time": 1760617223,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221608,
+        "num": 221608,
+        "word": "男子应聘船员出海严重晕船自缢身亡",
+        "onboard_time": 1760620704,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191423,
+        "num": 221596,
+        "word": "郭碧婷父亲患肺癌",
+        "onboard_time": 1760613320,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173301,
+        "num": 221582,
+        "word": "王安宇走完秀扑倒在李现怀里",
+        "onboard_time": 1760619022,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159013,
+        "num": 221544,
+        "word": "穆祉丞谈成团遗憾泪崩了",
+        "onboard_time": 1760626345,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141514,
+        "num": 221531,
+        "word": "台积电业绩炸裂",
+        "onboard_time": 1760624424,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120249,
+        "num": 221492,
+        "word": "章泽天烫头了",
+        "onboard_time": 1760616740,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81069,
+        "num": 221462,
+        "word": "零跑推出旗舰D平台谁慌了",
+        "onboard_time": 1760627125,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 119824,
+        "num": 221441,
+        "word": "第一批爱侧睡的受害者出现了",
+        "onboard_time": 1760628622,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110597,
+        "num": 221433,
+        "word": "4岁女童车内睡着后失踪超20小时",
+        "onboard_time": 1760614881,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101632,
+        "num": 221388,
+        "word": "baolan神之一手",
+        "onboard_time": 1760624304,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85189,
+        "num": 221366,
+        "word": "他们打光子弹用牙齿当武器",
+        "onboard_time": 1760627065,
+        "rank": 27,
+        "category": "民生新闻,军事"
+      },
+      {
+        "raw_hot": 83728,
+        "num": 221349,
+        "word": "三个少年",
+        "onboard_time": 1760629042,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79224,
+        "num": 221316,
+        "word": "君无戏炎be",
+        "onboard_time": 1760625984,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109046,
+        "num": 221310,
+        "word": "Peanut和Mark见面了",
+        "onboard_time": 1760626284,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95272,
+        "num": 221285,
+        "word": "秦天宇眼神戏",
+        "onboard_time": 1760627723,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101408,
+        "num": 221252,
+        "word": "美财长暗示关税换稀土",
+        "onboard_time": 1760624543,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97837,
+        "num": 221235,
+        "word": "徐艺洋婚礼口误",
+        "onboard_time": 1760609781,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92627,
+        "num": 221197,
+        "word": "李现马思纯看王安宇走秀笑成啥了",
+        "onboard_time": 1760621964,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58596,
+        "num": 221163,
+        "word": "FindX9推出相机置换百万补贴",
+        "onboard_time": 1760623706,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 90384,
+        "num": 221155,
+        "word": "韩财阀千金成电诈大佬",
+        "onboard_time": 1760613201,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89239,
+        "num": 221123,
+        "word": "男子偷上万辆共享单车每辆卖105元",
+        "onboard_time": 1760627065,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87732,
+        "num": 221096,
+        "word": "日本流感病毒可能扩散至周边国家",
+        "onboard_time": 1760610321,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75839,
+        "num": 221069,
+        "word": "孙颖莎都被看呆了",
+        "onboard_time": 1760628862,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81828,
+        "num": 221050,
+        "word": "日本进入流感大流行期多所学校关闭",
+        "onboard_time": 1760614820,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81670,
+        "num": 221023,
+        "word": "35岁女子应聘人事岗被HR嫌年龄大",
+        "onboard_time": 1760621423,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79873,
+        "num": 221009,
+        "word": "10元15个散装月饼用来喂狗",
+        "onboard_time": 1760627367,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75792,
+        "num": 220965,
+        "word": "十个勤天还剩七个勤天",
+        "onboard_time": 1760616381,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77447,
+        "num": 220951,
+        "word": "李纯为赵丽颖庆生",
+        "onboard_time": 1760613680,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72098,
+        "num": 220932,
+        "word": "辽宁失联女童附近山崖有老鹰洞",
+        "onboard_time": 1760625804,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69188,
+        "num": 220898,
+        "word": "KT抽到TES",
+        "onboard_time": 1760628262,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 68888,
+        "num": 220882,
+        "word": "山姆配送员与小区保安打架",
+        "onboard_time": 1760623164,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66654,
+        "num": 220862,
+        "word": "孙颖莎小手一挥爽快同意交换",
+        "onboard_time": 1760627243,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57930,
+        "num": 220820,
+        "word": "梁靖崑林诗栋玩谐音梗",
+        "onboard_time": 1760628502,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#矢志强农报国#"
+    }
+  }
+}
