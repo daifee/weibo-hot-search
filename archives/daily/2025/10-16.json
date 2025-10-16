@@ -1,6 +1,6 @@
 {
   "startTime": 1760545770711,
-  "endTime": 1760579543564,
+  "endTime": 1760580817612,
   "band_list": [
     {
       "raw_hot": 990684,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 794390,
-      "num": 197668,
+      "num": 204163,
       "word": "杨幂维密翅膀",
       "onboard_time": 1760572700,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 765631,
+      "num": 458030,
+      "word": "印度首富妻子的爱马仕镶了3025颗钻",
+      "onboard_time": 1760579239,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 757014,
@@ -51,6 +59,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 518950,
+      "num": 518950,
+      "word": "甘肃发现超40吨金矿",
+      "onboard_time": 1760576961,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 511549,
       "num": 511549,
       "word": "女子酒后走捷径坠亡同饮者不担责",
@@ -60,19 +76,19 @@
     },
     {
       "raw_hot": 508199,
-      "num": 196939,
+      "num": 203725,
       "word": "怪不得实体店衣服这么贵",
       "onboard_time": 1760574442,
       "rank": 11,
       "category": "幽默"
     },
     {
-      "raw_hot": 486255,
-      "num": 486255,
-      "word": "甘肃发现超40吨金矿",
-      "onboard_time": 1760576961,
-      "rank": 5,
-      "category": "民生新闻"
+      "raw_hot": 455259,
+      "num": 202678,
+      "word": "英国制裁11家中国实体",
+      "onboard_time": 1760579001,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 435650,
@@ -99,6 +115,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 350404,
+      "num": 169532,
+      "word": "第一批爱喝咖啡的受害者出现了",
+      "onboard_time": 1760575582,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 346470,
+      "num": 202244,
+      "word": "周放赵丽颖友谊",
+      "onboard_time": 1760578761,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308721,
       "num": 234493,
       "word": "再见爱人5官宣",
@@ -107,19 +139,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 304986,
-      "num": 156154,
-      "word": "第一批爱喝咖啡的受害者出现了",
-      "onboard_time": 1760575582,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 303760,
       "num": 196601,
       "word": "刘雯好红",
       "onboard_time": 1760574142,
       "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 294967,
+      "num": 201744,
+      "word": "刘雯第二套",
+      "onboard_time": 1760576061,
+      "rank": 17,
       "category": "作品衍生,时尚"
     },
     {
@@ -136,6 +168,14 @@
       "word": "医院发喜报庆祝门诊人数创佳绩",
       "onboard_time": 1760543240,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 284111,
+      "num": 284111,
+      "word": "人类未出现时的二氧化碳浓度再现",
+      "onboard_time": 1760578162,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -164,7 +204,7 @@
     },
     {
       "raw_hot": 243163,
-      "num": 195552,
+      "num": 200449,
       "word": "雎晓雯产后首登维密",
       "onboard_time": 1760577802,
       "rank": 13,
@@ -187,28 +227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 233609,
-      "num": 192840,
-      "word": "刘雯第二套",
-      "onboard_time": 1760576061,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 228316,
-      "num": 155774,
+      "num": 168598,
       "word": "女子在台北车站大厅遭侵犯无人制止",
       "onboard_time": 1760570479,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 224106,
-      "num": 195220,
-      "word": "周放赵丽颖友谊",
-      "onboard_time": 1760578761,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 220030,
@@ -235,12 +259,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207232,
-      "num": 207232,
-      "word": "人类未出现时的二氧化碳浓度再现",
-      "onboard_time": 1760578162,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 204417,
+      "num": 204417,
+      "word": "一声东方巨响让中国人挺直了腰杆",
+      "onboard_time": 1760570479,
+      "rank": 30,
+      "category": "国内时政,民生新闻"
     },
     {
       "raw_hot": 204158,
@@ -251,12 +275,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 198969,
-      "num": 198969,
-      "word": "一声东方巨响让中国人挺直了腰杆",
-      "onboard_time": 1760570479,
-      "rank": 30,
-      "category": "国内时政,民生新闻"
+      "raw_hot": 200415,
+      "num": 200415,
+      "word": "蹲一下黄子韬徐艺洋婚礼直播",
+      "onboard_time": 1760576722,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 193856,
@@ -265,14 +289,6 @@
       "onboard_time": 1760570539,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 191023,
-      "num": 191023,
-      "word": "英国制裁11家中国实体",
-      "onboard_time": 1760579001,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 186539,
@@ -299,6 +315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 172811,
+      "num": 172811,
+      "word": "小车突然爆胎后排女子被甩出车窗",
+      "onboard_time": 1760578941,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168257,
       "num": 168257,
       "word": "卖出500克黄金 日赚五万",
@@ -323,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162111,
+      "num": 162111,
+      "word": "大气温室气体浓度创人类历史新高",
+      "onboard_time": 1760578162,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159911,
       "num": 159911,
       "word": "曝赵丽颖签约新经纪人",
@@ -331,36 +363,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152577,
-      "num": 152577,
-      "word": "大气温室气体浓度创人类历史新高",
-      "onboard_time": 1760578162,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150015,
       "num": 92772,
       "word": "林诗栋说花儿有股臭味",
       "onboard_time": 1760569939,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149666,
-      "num": 149666,
-      "word": "蹲一下黄子韬徐艺洋婚礼直播",
-      "onboard_time": 1760576722,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 140281,
-      "num": 140281,
-      "word": "印度首富妻子的爱马仕镶了3025颗钻",
-      "onboard_time": 1760579239,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 137656,
@@ -387,12 +395,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129685,
+      "num": 170627,
+      "word": "孙颖莎的尽兴每一拍",
+      "onboard_time": 1760579421,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128534,
+      "num": 128534,
+      "word": "宋祖儿表妹万福白衣头纱造型",
+      "onboard_time": 1760579902,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125445,
       "num": 125445,
       "word": "国乒男团女团登上领奖台笑了",
       "onboard_time": 1760544442,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123120,
+      "num": 123120,
+      "word": "苹果华为OPPO将推出eSIM手机",
+      "onboard_time": 1760580140,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 120108,
@@ -403,20 +435,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117990,
+      "num": 104295,
+      "word": "郭富城说方媛月末生产",
+      "onboard_time": 1760579301,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115956,
       "num": 115956,
       "word": "中国原子弹爆炸成功61周年",
       "onboard_time": 1760570059,
       "rank": 16,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 111064,
-      "num": 111064,
-      "word": "小车突然爆胎后排女子被甩出车窗",
-      "onboard_time": 1760578941,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110452,
@@ -459,14 +491,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 104295,
-      "num": 104295,
-      "word": "郭富城说方媛月末生产",
-      "onboard_time": 1760579301,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 103512,
       "num": 103512,
       "word": "多地收到冬日体验卡",
@@ -481,6 +505,14 @@
       "onboard_time": 1760526621,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102132,
+      "num": 102132,
+      "word": "赵丽颖从花向朵生日照",
+      "onboard_time": 1760570839,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 102084,
@@ -513,6 +545,14 @@
       "onboard_time": 1760543963,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98018,
+      "num": 98018,
+      "word": "高三女生眼中风永久致盲",
+      "onboard_time": 1760578640,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97716,
@@ -563,28 +603,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 89066,
-      "num": 89066,
-      "word": "赵丽颖从花向朵生日照",
-      "onboard_time": 1760570839,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 88460,
-      "num": 88460,
-      "word": "高三女生眼中风永久致盲",
-      "onboard_time": 1760578640,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87878,
       "num": 87878,
       "word": "85花粉你睡着了吗我睡不着",
       "onboard_time": 1760524940,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87411,
+      "num": 87411,
+      "word": "王楚钦教科书级假拧真摆",
+      "onboard_time": 1760579541,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 86496,
@@ -603,12 +635,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 84663,
-      "num": 105833,
-      "word": "孙颖莎的尽兴每一拍",
-      "onboard_time": 1760579421,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 86397,
+      "num": 86397,
+      "word": "00后老板准备百只土鸡奖励员工",
+      "onboard_time": 1760580261,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85024,
+      "num": 85024,
+      "word": "今天重温61年前的那声东方巨响",
+      "onboard_time": 1760573841,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84641,
@@ -627,12 +667,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 83059,
-      "num": 83059,
-      "word": "今天重温61年前的那声东方巨响",
-      "onboard_time": 1760573841,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 81321,
+      "num": 81321,
+      "word": "我练腿就这样",
+      "onboard_time": 1760577140,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 80054,
+      "num": 80054,
+      "word": "金饰价还在涨",
+      "onboard_time": 1760580080,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 78382,
@@ -673,6 +721,14 @@
       "onboard_time": 1760538804,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 75084,
+      "num": 76979,
+      "word": "刘安琪称会起诉瑞达",
+      "onboard_time": 1760580741,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 74515,
@@ -737,6 +793,14 @@
       "onboard_time": 1760569759,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 65488,
+      "num": 119708,
+      "word": "暗河传",
+      "onboard_time": 1760571199,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 65133,
@@ -817,14 +881,6 @@
       "onboard_time": 1760525421,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 53892,
-      "num": 100809,
-      "word": "暗河传",
-      "onboard_time": 1760571199,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 53408,
