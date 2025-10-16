@@ -1,6 +1,6 @@
 {
   "startTime": 1760545770711,
-  "endTime": 1760614671462,
+  "endTime": 1760619255969,
   "band_list": [
     {
       "raw_hot": 4061269,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1552235,
-      "num": 175973,
+      "num": 186559,
       "word": "徐艺洋婚礼口误",
       "onboard_time": 1760609781,
       "rank": 15,
@@ -65,6 +65,14 @@
       "onboard_time": 1760591901,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1155501,
+      "num": 189079,
+      "word": "沪上阿姨子宫形玩偶引争议",
+      "onboard_time": 1760615000,
+      "rank": 10,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 1036979,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 826199,
-      "num": 148939,
+      "num": 188817,
       "word": "郭碧婷父亲患肺癌",
       "onboard_time": 1760613320,
       "rank": 23,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 812818,
-      "num": 159168,
+      "num": 185174,
       "word": "王晶曝舒淇家境很差总是被欺负",
       "onboard_time": 1760609060,
       "rank": 23,
@@ -192,6 +200,14 @@
       "word": "黄子韬 抛西兰花",
       "onboard_time": 1760584339,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 702311,
+      "num": 188635,
+      "word": "章泽天烫头了",
+      "onboard_time": 1760616740,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -259,6 +275,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 580360,
+      "num": 188008,
+      "word": "陈哲远发红包",
+      "onboard_time": 1760615182,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 558560,
       "num": 384269,
       "word": "再见爱人5开播",
@@ -299,11 +323,27 @@
       "category": "旅游,幽默"
     },
     {
+      "raw_hot": 504024,
+      "num": 1080643,
+      "word": "日本流感病毒可能扩散至周边国家",
+      "onboard_time": 1760610321,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 503410,
       "num": 233715,
       "word": "旺仔小乔掉粉超695万",
       "onboard_time": 1760598861,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 499641,
+      "num": 187304,
+      "word": "成毅说演员先做人再演戏",
+      "onboard_time": 1760616381,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -419,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 380293,
+      "num": 186661,
+      "word": "韩财阀千金成电诈大佬",
+      "onboard_time": 1760613201,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 380074,
       "num": 380074,
       "word": "第一次见恋综嘉宾聊房租",
@@ -499,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307369,
+      "num": 307369,
+      "word": "王健林被起诉",
+      "onboard_time": 1760616442,
+      "rank": 1,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 305351,
       "num": 305351,
       "word": "CFO 全华班",
@@ -521,6 +577,22 @@
       "onboard_time": 1760599341,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301539,
+      "num": 301539,
+      "word": "一笑随歌热度",
+      "onboard_time": 1760616081,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 298532,
+      "num": 186113,
+      "word": "村长李锐已从湖南卫视离职",
+      "onboard_time": 1760617223,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 294967,
@@ -585,6 +657,22 @@
       "onboard_time": 1760607022,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 275121,
+      "num": 185587,
+      "word": "李纯为赵丽颖庆生",
+      "onboard_time": 1760613680,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 272100,
+      "num": 185789,
+      "word": "祖孙2人车祸死亡司机十余日后病逝",
+      "onboard_time": 1760617461,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 265028,
@@ -755,20 +843,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216808,
-      "num": 116605,
-      "word": "韩财阀千金成电诈大佬",
-      "onboard_time": 1760613201,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 216559,
       "num": 216559,
       "word": "胖东来12年老员工未及时迎客被开除",
       "onboard_time": 1760528002,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216108,
+      "num": 216108,
+      "word": "宝蓝抽签",
+      "onboard_time": 1760619201,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 211545,
@@ -835,6 +923,14 @@
       "category": "美食,民生新闻"
     },
     {
+      "raw_hot": 194883,
+      "num": 194883,
+      "word": "十个勤天还剩七个勤天",
+      "onboard_time": 1760616381,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193856,
       "num": 193856,
       "word": "肖战或演十日终焉",
@@ -856,6 +952,22 @@
       "word": "暗河传OST阵容",
       "onboard_time": 1760596941,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190479,
+      "num": 184332,
+      "word": "PSG对战HLE",
+      "onboard_time": 1760618002,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 189476,
+      "num": 189476,
+      "word": "2025年有爆剧吗",
+      "onboard_time": 1760610681,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -891,14 +1003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 184932,
-      "num": 120046,
-      "word": "李纯为赵丽颖庆生",
-      "onboard_time": 1760613680,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 184667,
       "num": 162491,
       "word": "肖战说永远要真诚",
@@ -913,6 +1017,14 @@
       "onboard_time": 1760590643,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 184178,
+      "num": 184178,
+      "word": "黄轩生理性抽搐不像演的",
+      "onboard_time": 1760618541,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 181598,
@@ -939,14 +1051,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 176831,
-      "num": 176831,
-      "word": "2025年有爆剧吗",
-      "onboard_time": 1760610681,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 174295,
       "num": 235682,
       "word": "外交部回应美方所谓去中国化",
@@ -961,6 +1065,14 @@
       "onboard_time": 1760592261,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 173151,
+      "num": 173151,
+      "word": "王安宇走秀",
+      "onboard_time": 1760617400,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 172666,
@@ -995,6 +1107,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 168737,
+      "num": 189282,
+      "word": "S15瑞士轮第三轮抽签",
+      "onboard_time": 1760619082,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168558,
       "num": 98440,
       "word": "黄奕 地母系长相",
@@ -1012,11 +1132,19 @@
     },
     {
       "raw_hot": 166854,
-      "num": 135787,
+      "num": 187004,
       "word": "孙颖莎说荣誉属于我们每一个人",
       "onboard_time": 1760613981,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166768,
+      "num": 166768,
+      "word": "雷军呼吁企业共同抵制水军黑公关",
+      "onboard_time": 1760615182,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 166722,
@@ -1033,6 +1161,14 @@
       "onboard_time": 1760598861,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165245,
+      "num": 188113,
+      "word": "日本进入流感大流行期多所学校关闭",
+      "onboard_time": 1760614820,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 164838,
@@ -1091,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161866,
+      "num": 161866,
+      "word": "4岁女童车内睡着后失踪超20小时",
+      "onboard_time": 1760614881,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161400,
       "num": 186755,
       "word": "入青云仙品",
@@ -1115,12 +1259,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158235,
+      "num": 158235,
+      "word": "陈鹤一发红包",
+      "onboard_time": 1760618603,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158041,
       "num": 158041,
       "word": "当年轻人的装修思路打开后",
       "onboard_time": 1760606782,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157844,
+      "num": 188284,
+      "word": "王曼昱说冠军属于中国",
+      "onboard_time": 1760617762,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 156355,
@@ -1177,6 +1337,22 @@
       "onboard_time": 1760584339,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149121,
+      "num": 149121,
+      "word": "警方多地抓获24名卖淫女42名嫖客",
+      "onboard_time": 1760618242,
+      "rank": 36,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 148729,
+      "num": 148729,
+      "word": "TES回应虐了100T",
+      "onboard_time": 1760619082,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 148530,
@@ -1259,11 +1435,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140551,
+      "num": 140551,
+      "word": "CFO主教练赛后发文",
+      "onboard_time": 1760618002,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140319,
       "num": 140319,
       "word": "沈腾说出发团不是一家人都难",
       "onboard_time": 1760589442,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139321,
+      "num": 139321,
+      "word": "这居然是邵子恒的妈妈",
+      "onboard_time": 1760615421,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -1299,6 +1491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 138715,
+      "num": 138715,
+      "word": "鹿晗的IP显示在北京",
+      "onboard_time": 1760615662,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137693,
       "num": 137693,
       "word": "剑网三",
@@ -1329,6 +1529,14 @@
       "onboard_time": 1760604500,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136278,
+      "num": 148776,
+      "word": "侯明昊古人直播",
+      "onboard_time": 1760617762,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 135735,
@@ -1411,20 +1619,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 131637,
-      "num": 131637,
-      "word": "日本流感病毒可能扩散至周边国家",
-      "onboard_time": 1760610321,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 131477,
       "num": 131477,
       "word": "呼吸道合胞病毒已进入流行期",
       "onboard_time": 1760597961,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 131095,
+      "num": 186101,
+      "word": "OPPOFindX9标准版超Pro",
+      "onboard_time": 1760616740,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 129705,
@@ -1472,6 +1680,22 @@
       "word": "孙颖莎何卓佳可爱合影",
       "onboard_time": 1760606061,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127350,
+      "num": 127350,
+      "word": "Knight最想抽到T1",
+      "onboard_time": 1760617641,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 127343,
+      "num": 149117,
+      "word": "向鹏被王楚钦梁靖崑做局了",
+      "onboard_time": 1760618302,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -1561,6 +1785,14 @@
       "onboard_time": 1760598621,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120200,
+      "num": 148832,
+      "word": "LPL今日三战全胜",
+      "onboard_time": 1760618661,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 120108,
@@ -1665,6 +1897,14 @@
       "onboard_time": 1760594242,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115703,
+      "num": 127530,
+      "word": "警方通报女主播被快递包裹炸伤",
+      "onboard_time": 1760617042,
+      "rank": 46,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 115197,
@@ -1995,6 +2235,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 100757,
+      "num": 184785,
+      "word": "邱贻可给孙颖莎煮泡面",
+      "onboard_time": 1760618781,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100693,
       "num": 100693,
       "word": "杭州人成年后 往西湖里倒藕粉",
@@ -2257,6 +2505,14 @@
       "onboard_time": 1760572821,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90036,
+      "num": 149014,
+      "word": "王安宇走完秀扑倒在李现怀里",
+      "onboard_time": 1760619022,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 89968,
@@ -2635,6 +2891,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 64315,
+      "num": 127302,
+      "word": "郎平朱婷再叙师徒情",
+      "onboard_time": 1760615902,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64215,
+      "num": 127297,
+      "word": "邱贻可说中国队NO.1",
+      "onboard_time": 1760617461,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63329,
       "num": 104820,
       "word": "全运会乒乓球前八可直通国家队",
@@ -2768,6 +3040,14 @@
       "word": "荣耀Magic8牙膏挤爆了",
       "onboard_time": 1760541682,
       "rank": 28,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 52631,
+      "num": 187565,
+      "word": "OPPOFindX9首发4K超清实况",
+      "onboard_time": 1760616321,
+      "rank": 16,
       "category": "数码"
     },
     {
@@ -2961,6 +3241,14 @@
       "onboard_time": 1760593821,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30046,
+      "num": 187429,
+      "word": "刘宇宁答案",
+      "onboard_time": 1760616740,
+      "rank": 17,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 29552,
