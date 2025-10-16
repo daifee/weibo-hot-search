@@ -1,6 +1,6 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760654302965,
+  "endTime": 1760656911522,
   "band_list": [
     {
       "raw_hot": 936620,
@@ -9,6 +9,14 @@
       "onboard_time": 1760627964,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 457282,
+      "num": 774571,
+      "word": "新西兰从韩国抢回造船订单塞给中国",
+      "onboard_time": 1760639416,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 429718,
@@ -35,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315907,
+      "num": 432459,
+      "word": "村长李锐已从湖南卫视离职",
+      "onboard_time": 1760617223,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282553,
       "num": 433741,
       "word": "刘宇宁坐黄子韬婚礼主桌",
@@ -43,15 +59,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 275929,
-      "num": 472082,
-      "word": "新西兰从韩国抢回造船订单塞给中国",
-      "onboard_time": 1760639416,
-      "rank": 1,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 229239,
+      "raw_hot": 280231,
       "num": 434358,
       "word": "每月攒一颗小金饰00后女生发声",
       "onboard_time": 1760626224,
@@ -75,20 +83,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183414,
+      "raw_hot": 211556,
       "num": 445973,
       "word": "韩国人成柬埔寨电诈园区新猎物",
       "onboard_time": 1760621364,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 166994,
-      "num": 432459,
-      "word": "村长李锐已从湖南卫视离职",
-      "onboard_time": 1760617223,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 150731,
@@ -97,6 +97,14 @@
       "onboard_time": 1760615182,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150333,
+      "num": 423332,
+      "word": "4岁女童车内睡着后失踪超20小时",
+      "onboard_time": 1760614881,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144994,
@@ -115,12 +123,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138566,
+      "num": 138566,
+      "word": "商务部回应美方以100%新关税施压",
+      "onboard_time": 1760643254,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 133494,
       "num": 443802,
       "word": "胡塞武装总参谋长身亡",
       "onboard_time": 1760625566,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116412,
+      "num": 333413,
+      "word": "警方通报网传新娘与摄影师事件",
+      "onboard_time": 1760635577,
+      "rank": 36,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 113567,
@@ -155,6 +179,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 93697,
+      "num": 93697,
+      "word": "白俄外交部回应女子被骗至缅北后身亡",
+      "onboard_time": 1760645415,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 90639,
+      "num": 84307,
+      "word": "卡戴珊透露与侃爷离婚原因",
+      "onboard_time": 1760653335,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89680,
       "num": 440884,
       "word": "君无戏炎be",
@@ -171,12 +211,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83777,
+      "num": 83777,
+      "word": "papi酱形容邓莎和路行的关系",
+      "onboard_time": 1760651773,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83680,
       "num": 428169,
       "word": "韩财阀千金成电诈大佬",
       "onboard_time": 1760613201,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 81468,
+      "num": 426669,
+      "word": "警方多地抓获24名卖淫女42名嫖客",
+      "onboard_time": 1760618242,
+      "rank": 41,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 80695,
+      "num": 416668,
+      "word": "35岁女子应聘人事岗被HR嫌年龄大",
+      "onboard_time": 1760621423,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78375,
@@ -211,36 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74095,
-      "num": 423332,
-      "word": "4岁女童车内睡着后失踪超20小时",
-      "onboard_time": 1760614881,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73835,
       "num": 439341,
       "word": "baolan神之一手",
       "onboard_time": 1760624304,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 73477,
-      "num": 333413,
-      "word": "警方通报网传新娘与摄影师事件",
-      "onboard_time": 1760635577,
-      "rank": 36,
-      "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 72937,
-      "num": 72937,
-      "word": "商务部回应美方以100%新关税施压",
-      "onboard_time": 1760643254,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 72383,
@@ -283,12 +323,60 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65392,
+      "num": 56971,
+      "word": "王楚钦梁靖崑又又又被改名了",
+      "onboard_time": 1760656639,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64494,
+      "num": 64494,
+      "word": "苦练化妆就为了这张学信网照片",
+      "onboard_time": 1760648654,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 62292,
+      "num": 417799,
+      "word": "美财长暗示关税换稀土",
+      "onboard_time": 1760624543,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 62078,
+      "num": 56969,
+      "word": "HLE宝蓝",
+      "onboard_time": 1760656759,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 60817,
+      "num": 60817,
+      "word": "李施嬅四次手术男友全程缺席",
+      "onboard_time": 1760656579,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 60767,
       "num": 421852,
       "word": "王健林被起诉",
       "onboard_time": 1760616442,
       "rank": 28,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 57827,
+      "num": 89909,
+      "word": "超1000个韩国人在柬埔寨搞电诈",
+      "onboard_time": 1760647214,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 56640,
@@ -307,28 +395,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54534,
-      "num": 417799,
-      "word": "美财长暗示关税换稀土",
-      "onboard_time": 1760624543,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 54095,
-      "num": 416668,
-      "word": "35岁女子应聘人事岗被HR嫌年龄大",
-      "onboard_time": 1760621423,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52918,
       "num": 413456,
       "word": "李纯为赵丽颖庆生",
       "onboard_time": 1760613680,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52546,
+      "num": 52546,
+      "word": "今年金价已经创45次新高",
+      "onboard_time": 1760656819,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 51950,
+      "num": 412099,
+      "word": "印度回应特朗普称该国承诺停购俄油",
+      "onboard_time": 1760634857,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 51662,
+      "num": 51662,
+      "word": "警方核实野人小孩监护人俱在",
+      "onboard_time": 1760646493,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51216,
@@ -339,36 +435,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50866,
-      "num": 40755,
-      "word": "苦练化妆就为了这张学信网照片",
-      "onboard_time": 1760648654,
-      "rank": 31,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 50208,
-      "num": 426669,
-      "word": "警方多地抓获24名卖淫女42名嫖客",
-      "onboard_time": 1760618242,
-      "rank": 41,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 49790,
       "num": 407631,
       "word": "十个勤天还剩七个勤天",
       "onboard_time": 1760616381,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 49522,
-      "num": 49522,
-      "word": "白俄外交部回应女子被骗至缅北后身亡",
-      "onboard_time": 1760645415,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 46419,
@@ -385,14 +457,6 @@
       "onboard_time": 1760628083,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44933,
-      "num": 44933,
-      "word": "超1000个韩国人在柬埔寨搞电诈",
-      "onboard_time": 1760647214,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 44286,
@@ -427,6 +491,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 42325,
+      "num": 42325,
+      "word": "阿姨以后再也不会对闺女催婚了",
+      "onboard_time": 1760655917,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 38659,
       "num": 409271,
       "word": "陈哲远这几年发的红包总数",
@@ -451,22 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34255,
-      "num": 34622,
-      "word": "papi酱形容邓莎和路行的关系",
-      "onboard_time": 1760651773,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 33971,
-      "num": 412099,
-      "word": "印度回应特朗普称该国承诺停购俄油",
-      "onboard_time": 1760634857,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 31788,
       "num": 143285,
       "word": "他们打光子弹用牙齿当武器",
@@ -483,20 +539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28432,
-      "num": 34727,
-      "word": "警方核实野人小孩监护人俱在",
-      "onboard_time": 1760646493,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 30088,
+      "num": 42262,
+      "word": "星品影响力",
+      "onboard_time": 1760637375,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 26730,
-      "num": 33940,
-      "word": "卡戴珊透露与侃爷离婚原因",
-      "onboard_time": 1760653335,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 26808,
+      "num": 406000,
+      "word": "沉默的荣耀",
+      "onboard_time": 1760621423,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 26347,
@@ -505,14 +561,6 @@
       "onboard_time": 1760623767,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24227,
-      "num": 406000,
-      "word": "沉默的荣耀",
-      "onboard_time": 1760621423,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 21671,
@@ -529,14 +577,6 @@
       "onboard_time": 1760646433,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 18386,
-      "num": 33917,
-      "word": "星品影响力",
-      "onboard_time": 1760637375,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 18057,
