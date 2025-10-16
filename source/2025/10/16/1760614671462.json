@@ -1,0 +1,410 @@
+{
+  "runTime": 1760614671462,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 649784,
+        "num": 1103965,
+        "word": "AL战胜GEN",
+        "onboard_time": 1760611761,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 243323,
+        "num": 243323,
+        "word": "CFO爆冷战胜T1",
+        "onboard_time": 1760606961,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 28460,
+        "num": 225500,
+        "word": "红星照耀中国",
+        "onboard_time": 1760593821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346582,
+        "num": 224282,
+        "word": "一笑随歌大结局",
+        "onboard_time": 1760612062,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220630,
+        "num": 220630,
+        "word": "缅北刘家强迫女性吸毒",
+        "onboard_time": 1760593043,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168969,
+        "num": 181579,
+        "word": "AL对战GEN",
+        "onboard_time": 1760609181,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 176831,
+        "num": 176831,
+        "word": "2025年有爆剧吗",
+        "onboard_time": 1760610681,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174112,
+        "num": 174112,
+        "word": "一笑随歌",
+        "onboard_time": 1760609300,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168482,
+        "num": 168482,
+        "word": "缅北电诈首富",
+        "onboard_time": 1760591901,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136949,
+        "num": 136949,
+        "word": "BLG对战FNC",
+        "onboard_time": 1760613981,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1408477,
+        "num": 136869,
+        "word": "徐艺洋500克拉玻璃戒",
+        "onboard_time": 1760606722,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 826199,
+        "num": 136623,
+        "word": "郭碧婷父亲患肺癌",
+        "onboard_time": 1760613320,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 771863,
+        "num": 136599,
+        "word": "王晶曝舒淇家境很差总是被欺负",
+        "onboard_time": 1760609060,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483444,
+        "num": 136359,
+        "word": "黄子韬婚礼有没有鹿晗",
+        "onboard_time": 1760603722,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355838,
+        "num": 136199,
+        "word": "西湖的水居然肥成这样",
+        "onboard_time": 1760605581,
+        "rank": 14,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 136084,
+        "num": 136084,
+        "word": "CFO 全华班",
+        "onboard_time": 1760606961,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166854,
+        "num": 135787,
+        "word": "孙颖莎说荣誉属于我们每一个人",
+        "onboard_time": 1760613981,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131637,
+        "num": 131637,
+        "word": "日本流感病毒可能扩散至周边国家",
+        "onboard_time": 1760610321,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48056,
+        "num": 130511,
+        "word": "刘宇宁为了粉丝宁愿自己1米6",
+        "onboard_time": 1760613800,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31892,
+        "num": 129959,
+        "word": "不买中国食用油可能是指废弃食用油",
+        "onboard_time": 1760613622,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 659156,
+        "num": 127967,
+        "word": "徐艺洋婚礼口误",
+        "onboard_time": 1760609781,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285040,
+        "num": 126260,
+        "word": "湖南一女主播收到炸弹包裹被炸伤",
+        "onboard_time": 1760602642,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250878,
+        "num": 124938,
+        "word": "姜潮抢到了黄子韬的西兰花",
+        "onboard_time": 1760604801,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249038,
+        "num": 124776,
+        "word": "旺仔小乔掉粉超695万",
+        "onboard_time": 1760598861,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208878,
+        "num": 123135,
+        "word": "杨幂维密看秀大喊刘雯",
+        "onboard_time": 1760607022,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 472681,
+        "num": 121030,
+        "word": "家属回应女子缅北器官被摘除售卖",
+        "onboard_time": 1760609541,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184932,
+        "num": 120046,
+        "word": "李纯为赵丽颖庆生",
+        "onboard_time": 1760613680,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171447,
+        "num": 118810,
+        "word": "警方回应香港女游客在台车站遭性侵",
+        "onboard_time": 1760603361,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118178,
+        "num": 118178,
+        "word": "孙颖莎感谢四连",
+        "onboard_time": 1760614520,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108789,
+        "num": 108789,
+        "word": "曹德旺辞去福耀玻璃董事长职务",
+        "onboard_time": 1760607622,
+        "rank": 29,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 216808,
+        "num": 108641,
+        "word": "韩财阀千金成电诈大佬",
+        "onboard_time": 1760613201,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147382,
+        "num": 108148,
+        "word": "李庚希长了一张杀渣男的脸",
+        "onboard_time": 1760613440,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135016,
+        "num": 108058,
+        "word": "王皓老婆吐槽只有他没瘦",
+        "onboard_time": 1760614220,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107436,
+        "num": 107436,
+        "word": "女子到澳门卖淫牵出数十人团伙",
+        "onboard_time": 1760612421,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111879,
+        "num": 106999,
+        "word": "薛凯琪评论区哭声一片",
+        "onboard_time": 1760614341,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107825,
+        "num": 106389,
+        "word": "奔跑吧天路篇没有孟子义",
+        "onboard_time": 1760610441,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49011,
+        "num": 105718,
+        "word": "国补下的第二个双11",
+        "onboard_time": 1760613440,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 61308,
+        "num": 105160,
+        "word": "曹德旺之子成为福耀董事长",
+        "onboard_time": 1760613740,
+        "rank": 37,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 27784,
+        "num": 104820,
+        "word": "白俄罗斯女子被骗缅北家属得知已火化",
+        "onboard_time": 1760614220,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80104,
+        "num": 104066,
+        "word": "妇联称已介入服务区现野人小孩一事",
+        "onboard_time": 1760614520,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103863,
+        "num": 103863,
+        "word": "王俊凯几乎零片酬出演刺猬",
+        "onboard_time": 1760595681,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101226,
+        "num": 101226,
+        "word": "邱贻可说中国队继续加油",
+        "onboard_time": 1760613680,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100693,
+        "num": 100693,
+        "word": "杭州人成年后 往西湖里倒藕粉",
+        "onboard_time": 1760613800,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 43225,
+        "num": 97152,
+        "word": "男子造谣新娘与摄影师的瓜被行拘",
+        "onboard_time": 1760613320,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 95753,
+        "num": 95753,
+        "word": "外战看AL",
+        "onboard_time": 1760613201,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93294,
+        "num": 93294,
+        "word": "100T向LPL道歉",
+        "onboard_time": 1760607141,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91601,
+        "num": 91601,
+        "word": "王楚钦亚锦赛后发文",
+        "onboard_time": 1760609781,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90785,
+        "num": 90785,
+        "word": "24岁研三上一休六的一天",
+        "onboard_time": 1760609720,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90202,
+        "num": 90202,
+        "word": "周冬雨给我干哪年来了",
+        "onboard_time": 1760609720,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89706,
+        "num": 89706,
+        "word": "迪丽热巴时装周人气女艺人TOP",
+        "onboard_time": 1760612480,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬优良办学传统矢志强农报国#"
+    }
+  }
+}

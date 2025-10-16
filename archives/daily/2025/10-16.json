@@ -1,6 +1,6 @@
 {
   "startTime": 1760545770711,
-  "endTime": 1760613756188,
+  "endTime": 1760614671462,
   "band_list": [
     {
       "raw_hot": 4061269,
@@ -128,6 +128,14 @@
       "word": "何捷用张馨予泡酸萝卜的缸给鱼坐月子",
       "onboard_time": 1760588422,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 826199,
+      "num": 148939,
+      "word": "郭碧婷父亲患肺癌",
+      "onboard_time": 1760613320,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -323,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 472681,
+      "num": 367119,
+      "word": "家属回应女子缅北器官被摘除售卖",
+      "onboard_time": 1760609541,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 455259,
       "num": 284567,
       "word": "英国制裁11家中国实体",
@@ -419,14 +435,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 367119,
-      "num": 367119,
-      "word": "家属回应女子缅北器官被摘除售卖",
-      "onboard_time": 1760609541,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 357642,
       "num": 241553,
       "word": "隐秘的角落",
@@ -449,6 +457,14 @@
       "onboard_time": 1760578162,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 346582,
+      "num": 291182,
+      "word": "一笑随歌大结局",
+      "onboard_time": 1760612062,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 346470,
@@ -537,14 +553,6 @@
       "onboard_time": 1760585121,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 291182,
-      "num": 291182,
-      "word": "一笑随歌大结局",
-      "onboard_time": 1760612062,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 290129,
@@ -747,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216808,
+      "num": 116605,
+      "word": "韩财阀千金成电诈大佬",
+      "onboard_time": 1760613201,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 216559,
       "num": 216559,
       "word": "胖东来12年老员工未及时迎客被开除",
@@ -819,14 +835,6 @@
       "category": "美食,民生新闻"
     },
     {
-      "raw_hot": 195416,
-      "num": 148939,
-      "word": "郭碧婷父亲患肺癌",
-      "onboard_time": 1760613320,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193856,
       "num": 193856,
       "word": "肖战或演十日终焉",
@@ -883,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184932,
+      "num": 120046,
+      "word": "李纯为赵丽颖庆生",
+      "onboard_time": 1760613680,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184667,
       "num": 162491,
       "word": "肖战说永远要真诚",
@@ -921,6 +937,14 @@
       "onboard_time": 1760528421,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 176831,
+      "num": 176831,
+      "word": "2025年有爆剧吗",
+      "onboard_time": 1760610681,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 174295,
@@ -985,6 +1009,14 @@
       "onboard_time": 1760538142,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166854,
+      "num": 135787,
+      "word": "孙颖莎说荣誉属于我们每一个人",
+      "onboard_time": 1760613981,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 166722,
@@ -1123,14 +1155,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 153696,
-      "num": 116605,
-      "word": "韩财阀千金成电诈大佬",
-      "onboard_time": 1760613201,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 152838,
       "num": 152838,
       "word": "全扬州都在偶遇展轩",
@@ -1201,6 +1225,14 @@
       "onboard_time": 1760590942,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 147382,
+      "num": 108148,
+      "word": "李庚希长了一张杀渣男的脸",
+      "onboard_time": 1760613440,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 146373,
@@ -1283,6 +1315,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 136949,
+      "num": 136949,
+      "word": "BLG对战FNC",
+      "onboard_time": 1760613981,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136628,
       "num": 144950,
       "word": "谁家节目让六旬老人哐哐做饭啊",
@@ -1320,6 +1360,14 @@
       "word": "嘉宾将奖杯交给孙颖莎",
       "onboard_time": 1760543302,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135016,
+      "num": 108058,
+      "word": "王皓老婆吐槽只有他没瘦",
+      "onboard_time": 1760614220,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -1363,20 +1411,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131637,
+      "num": 131637,
+      "word": "日本流感病毒可能扩散至周边国家",
+      "onboard_time": 1760610321,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 131477,
       "num": 131477,
       "word": "呼吸道合胞病毒已进入流行期",
       "onboard_time": 1760597961,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 130362,
-      "num": 130362,
-      "word": "2025年有爆剧吗",
-      "onboard_time": 1760610681,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 129705,
@@ -1563,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118178,
+      "num": 118178,
+      "word": "孙颖莎感谢四连",
+      "onboard_time": 1760614520,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117990,
       "num": 104295,
       "word": "郭富城说方媛月末生产",
@@ -1625,6 +1681,14 @@
       "onboard_time": 1760586562,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111879,
+      "num": 106999,
+      "word": "薛凯琪评论区哭声一片",
+      "onboard_time": 1760614341,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 111543,
@@ -1739,6 +1803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107436,
+      "num": 150079,
+      "word": "女子到澳门卖淫牵出数十人团伙",
+      "onboard_time": 1760612421,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107286,
       "num": 107286,
       "word": "高三女生眼中风永久致盲",
@@ -1835,14 +1907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 103022,
-      "num": 103022,
-      "word": "李庚希长了一张杀渣男的脸",
-      "onboard_time": 1760613440,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102981,
       "num": 102981,
       "word": "林心如再见爱人5官宣",
@@ -1899,6 +1963,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 101226,
+      "num": 101226,
+      "word": "邱贻可说中国队继续加油",
+      "onboard_time": 1760613680,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101214,
       "num": 101214,
       "word": "两个小户型打通到底有多爽",
@@ -1923,6 +1995,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 100693,
+      "num": 100693,
+      "word": "杭州人成年后 往西湖里倒藕粉",
+      "onboard_time": 1760613800,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100676,
       "num": 100676,
       "word": "申裕斌晒孙颖莎王曼昱蒯曼合影",
@@ -1937,14 +2017,6 @@
       "onboard_time": 1760543963,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99186,
-      "num": 105532,
-      "word": "日本流感病毒可能扩散至周边国家",
-      "onboard_time": 1760610321,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 99077,
@@ -2155,14 +2227,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 92745,
-      "num": 92745,
-      "word": "邱贻可说中国队继续加油",
-      "onboard_time": 1760613680,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 91894,
       "num": 91894,
       "word": "王楚钦发博总结亚锦赛",
@@ -2177,14 +2241,6 @@
       "onboard_time": 1760612362,
       "rank": 48,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 91172,
-      "num": 91172,
-      "word": "李纯为赵丽颖庆生",
-      "onboard_time": 1760613680,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 90771,
@@ -2361,6 +2417,14 @@
       "onboard_time": 1760593222,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 80104,
+      "num": 104066,
+      "word": "妇联称已介入服务区现野人小孩一事",
+      "onboard_time": 1760614520,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80054,
@@ -2595,20 +2659,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61308,
+      "num": 105160,
+      "word": "曹德旺之子成为福耀董事长",
+      "onboard_time": 1760613740,
+      "rank": 37,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 61002,
       "num": 137321,
       "word": "张晚意的名字里有父母爱情",
       "onboard_time": 1760588842,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 60144,
-      "num": 150079,
-      "word": "女子到澳门卖淫牵出数十人团伙",
-      "onboard_time": 1760612421,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59879,
@@ -2739,6 +2803,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 49011,
+      "num": 105718,
+      "word": "国补下的第二个双11",
+      "onboard_time": 1760613440,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 48167,
       "num": 173337,
       "word": "刘宇宁机器人PK唱歌",
@@ -2753,6 +2825,14 @@
       "onboard_time": 1760543602,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48056,
+      "num": 130511,
+      "word": "刘宇宁为了粉丝宁愿自己1米6",
+      "onboard_time": 1760613800,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 47701,
@@ -2811,6 +2891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43225,
+      "num": 104580,
+      "word": "男子造谣新娘与摄影师的瓜被行拘",
+      "onboard_time": 1760613320,
+      "rank": 38,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 42793,
       "num": 171168,
       "word": "纵横G700的守护型人格",
@@ -2843,14 +2931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 35913,
-      "num": 104580,
-      "word": "男子造谣新娘与摄影师的瓜被行拘",
-      "onboard_time": 1760613320,
-      "rank": 38,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 34727,
       "num": 78645,
       "word": "蒲熠星进行曲还是太权威了",
@@ -2860,7 +2940,7 @@
     },
     {
       "raw_hot": 31898,
-      "num": 104850,
+      "num": 129959,
       "word": "不买中国食用油可能是指废弃食用油",
       "onboard_time": 1760613622,
       "rank": 37,
@@ -2905,6 +2985,14 @@
       "onboard_time": 1760597181,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 27784,
+      "num": 104820,
+      "word": "白俄罗斯女子被骗缅北家属得知已火化",
+      "onboard_time": 1760614220,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 27432,
@@ -3129,14 +3217,6 @@
       "onboard_time": 1760557035,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 12002,
-      "num": 105360,
-      "word": "国补下的第二个双11",
-      "onboard_time": 1760613440,
-      "rank": 34,
-      "category": "财经"
     },
     {
       "raw_hot": 11975,
