@@ -1,6 +1,6 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760636433307,
+  "endTime": 1760639785763,
   "band_list": [
     {
       "raw_hot": 936620,
@@ -219,6 +219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73477,
+      "num": 333413,
+      "word": "警方通报网传新娘与摄影师事件",
+      "onboard_time": 1760635577,
+      "rank": 36,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 72383,
       "num": 415651,
       "word": "穆祉丞谈成团遗憾泪崩了",
@@ -331,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49648,
+      "num": 133196,
+      "word": "新西兰从韩国抢回造船订单塞给中国",
+      "onboard_time": 1760639416,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46419,
       "num": 143511,
       "word": "Viper全中文采访",
@@ -419,14 +435,6 @@
       "category": "民生新闻,军事"
     },
     {
-      "raw_hot": 30878,
-      "num": 333413,
-      "word": "警方通报网传新娘与摄影师事件",
-      "onboard_time": 1760635577,
-      "rank": 36,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 30211,
       "num": 404904,
       "word": "孙颖莎第一张4K超清实况",
@@ -457,6 +465,14 @@
       "onboard_time": 1760628202,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16216,
+      "num": 32098,
+      "word": "星品影响力",
+      "onboard_time": 1760637375,
+      "rank": 46,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
