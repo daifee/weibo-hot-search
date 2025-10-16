@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/16 23:42:11
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 00:33:17
 </p>
 </blockquote>
 <p>
@@ -5757,6 +5757,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E7%88%B1%E4%BE%A7%E7%9D%A1%E7%9A%84%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+第一批爱侧睡的受害者出现了（热度：420100）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%BC35%E6%9C%BA%E5%BA%93%E9%A6%96%E5%85%AC%E5%BC%80%23" target="weibo">
 歼35机库首公开（热度：419822）
 </a>
@@ -6005,12 +6011,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%AD%E8%A1%A3%E6%9C%8D%E4%B8%8D%E8%A6%81%E5%8F%AA%E7%9B%AF%E7%9D%80%E5%8D%96%E8%A1%A3%E6%9C%8D%E7%9A%84%E5%BA%97%23" target="weibo">
 网购衣服不要只盯着卖衣服的店（热度：404385）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E5%85%B3%E6%B3%A8%E9%B8%A1%E6%8E%92%E5%93%A5%23" target="weibo">
-美媒关注鸡排哥（热度：404200）
 </a>
 </li>
 
