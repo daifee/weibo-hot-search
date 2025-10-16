@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760589795729,
+  "endTime": 1760592326608,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -699,6 +699,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 782137,
+      "num": 274200,
+      "word": "内娱圆房戏上新了",
+      "onboard_time": 1760587580,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 782028,
       "num": 407446,
       "word": "张馨予家里已经生了100多条小鱼了",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1760483418,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 571929,
+      "num": 227745,
+      "word": "黄子韬徐艺洋钻戒",
+      "onboard_time": 1760590342,
+      "rank": 12,
+      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 570746,
@@ -1777,6 +1793,14 @@
       "onboard_time": 1760429961,
       "rank": 32,
       "category": "互联网,幽默"
+    },
+    {
+      "raw_hot": 470912,
+      "num": 219127,
+      "word": "榜一大哥称已正式起诉旺仔小乔",
+      "onboard_time": 1760590162,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 469055,
@@ -2531,14 +2555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 345257,
-      "num": 274200,
-      "word": "内娱圆房戏上新了",
-      "onboard_time": 1760587580,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 344929,
       "num": 288988,
       "word": "加沙内战",
@@ -2811,6 +2827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 306595,
+      "num": 306595,
+      "word": "女孩经短视频引流治疗后12天去世",
+      "onboard_time": 1760590883,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 306592,
       "num": 204677,
       "word": "孙颖莎救球把球桌都撞移位了",
@@ -2921,6 +2945,14 @@
       "onboard_time": 1760231660,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 295780,
+      "num": 295780,
+      "word": "研究生自己的4399",
+      "onboard_time": 1760587402,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 295775,
@@ -3579,6 +3611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238454,
+      "num": 238454,
+      "word": "有人卖七八公斤金条变现700多万",
+      "onboard_time": 1760590822,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237038,
       "num": 211036,
       "word": "姜潮麦迪娜明年在新疆举办婚礼",
@@ -3867,14 +3907,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 217756,
-      "num": 189442,
-      "word": "研究生自己的4399",
-      "onboard_time": 1760587402,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 217728,
       "num": 114775,
       "word": "魏大勋连续三年给孟宴臣庆生",
@@ -4001,6 +4033,14 @@
       "onboard_time": 1760322920,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210135,
+      "num": 195798,
+      "word": "何炅说现在特别痛苦又近视又老花",
+      "onboard_time": 1760591421,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 209853,
@@ -4467,6 +4507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 195100,
+      "num": 195100,
+      "word": "网友吐槽喜茶界面太阴间",
+      "onboard_time": 1760588903,
+      "rank": 37,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 194346,
       "num": 194346,
       "word": "Jiejie说iG已经打得很好了",
@@ -4691,6 +4739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188327,
+      "num": 188327,
+      "word": "缅北电诈首富",
+      "onboard_time": 1760591901,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187795,
       "num": 187795,
       "word": "孙颖莎vs张本美和",
@@ -4811,6 +4867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183856,
+      "num": 183856,
+      "word": "刘嘉玲被问怎么不生孩子",
+      "onboard_time": 1760591901,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183013,
       "num": 201475,
       "word": "微博视界大会年度推荐",
@@ -4857,14 +4921,6 @@
       "onboard_time": 1760406140,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 181151,
-      "num": 160771,
-      "word": "网友吐槽喜茶界面太阴间",
-      "onboard_time": 1760588903,
-      "rank": 37,
-      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 181118,
@@ -5371,6 +5427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165516,
+      "num": 165516,
+      "word": "美英联合打击柬埔寨特大电诈集团",
+      "onboard_time": 1760590643,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 164871,
       "num": 164871,
       "word": "追星女老了的样子在此刻具像化",
@@ -5529,6 +5593,14 @@
       "onboard_time": 1760331982,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161400,
+      "num": 186755,
+      "word": "入青云仙品",
+      "onboard_time": 1760591601,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 161050,
@@ -6179,6 +6251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147588,
+      "num": 147588,
+      "word": "美财长称要尽快供应链去中国化",
+      "onboard_time": 1760590942,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147429,
       "num": 147429,
       "word": "刘亦菲一种气血很足的美",
@@ -6633,6 +6713,14 @@
       "onboard_time": 1760570059,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 139177,
+      "num": 139177,
+      "word": "展轩杂志",
+      "onboard_time": 1760590942,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 139171,
@@ -7241,6 +7329,14 @@
       "onboard_time": 1760585601,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 129287,
+      "num": 129287,
+      "word": "影视剧阴湿男鬼一",
+      "onboard_time": 1760591542,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 129092,
@@ -9403,6 +9499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108101,
+      "num": 108101,
+      "word": "别把自己舍不得买的东西送别人",
+      "onboard_time": 1760589802,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 108068,
       "num": 108068,
       "word": "Bin复仇宣言",
@@ -9729,6 +9833,14 @@
       "onboard_time": 1760576841,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 105139,
+      "num": 105139,
+      "word": "Elk回应输给100T",
+      "onboard_time": 1760592261,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 105125,
@@ -10697,6 +10809,14 @@
       "onboard_time": 1760502081,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94134,
+      "num": 140664,
+      "word": "王楚钦合影环节快睡着了",
+      "onboard_time": 1760591062,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 94123,
@@ -12267,6 +12387,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 80419,
+      "num": 145439,
+      "word": "市场价165万凶宅26.6万开拍",
+      "onboard_time": 1760592081,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80399,
       "num": 80399,
       "word": "将上班内容可视化之后",
@@ -12521,6 +12649,14 @@
       "onboard_time": 1760415201,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77234,
+      "num": 188130,
+      "word": "海底捞和西贝抢娃",
+      "onboard_time": 1760590822,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77101,
@@ -13243,6 +13379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66740,
+      "num": 146591,
+      "word": "王艺迪亚锦赛后发文",
+      "onboard_time": 1760591241,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66635,
       "num": 66635,
       "word": "iG对战海报",
@@ -13787,6 +13931,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 56374,
+      "num": 195893,
+      "word": "美国护照首次跌出全球前十",
+      "onboard_time": 1760592021,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 56231,
       "num": 127428,
       "word": "使馆通报中国游客在泰被威胁购物",
@@ -13969,6 +14121,14 @@
       "onboard_time": 1760484319,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52047,
+      "num": 130025,
+      "word": "医院称新员工将工作量做成喜报发朋友圈",
+      "onboard_time": 1760590822,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51761,
@@ -15043,6 +15203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26067,
+      "num": 141955,
+      "word": "筑牢大国粮仓",
+      "onboard_time": 1760590883,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 26045,
       "num": 31481,
       "word": "中方对稀土采取出口管制措施正当合法",
@@ -15313,6 +15481,14 @@
       "onboard_time": 1760467215,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18247,
+      "num": 216940,
+      "word": "AI如何重塑社会未来",
+      "onboard_time": 1760591663,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 18213,
