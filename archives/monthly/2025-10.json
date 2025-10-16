@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760599580634,
+  "endTime": 1760600386126,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -99,6 +99,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 4061269,
+      "num": 191486,
+      "word": "黄子韬徐艺洋婚礼",
+      "onboard_time": 1760597781,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3967870,
       "num": 3967870,
       "word": "北京交警通报陈震发生车祸",
@@ -112,14 +120,6 @@
       "word": "肖战工作室",
       "onboard_time": 1759595120,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 2817152,
-      "num": 167483,
-      "word": "黄子韬徐艺洋婚礼",
-      "onboard_time": 1760597781,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -7107,6 +7107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 436329,
+      "num": 436329,
+      "word": "刘家电诈园区统一建炮楼",
+      "onboard_time": 1760594840,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 436246,
       "num": 436246,
       "word": "意外运到美国的中国小猫已恢复健康",
@@ -8601,14 +8609,6 @@
       "onboard_time": 1760505021,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 367288,
-      "num": 367288,
-      "word": "刘家电诈园区统一建炮楼",
-      "onboard_time": 1760594840,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 367216,
@@ -10257,6 +10257,14 @@
       "onboard_time": 1759666702,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 307011,
+      "num": 307011,
+      "word": "网友拍到孩子赤裸爬行形似野人",
+      "onboard_time": 1760598861,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 306592,
@@ -12051,6 +12059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256896,
+      "num": 256896,
+      "word": "夏静石死在了大仇得报的那一天",
+      "onboard_time": 1760596041,
+      "rank": 24,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 256458,
       "num": 256458,
       "word": "向鹏4比3雨果",
@@ -12427,14 +12443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 248628,
-      "num": 248628,
-      "word": "夏静石死在了大仇得报的那一天",
-      "onboard_time": 1760596041,
-      "rank": 24,
-      "category": "剧集,作品衍生"
-    },
-    {
       "raw_hot": 248567,
       "num": 213075,
       "word": "冰咖啡和热咖啡的差别居然这么大",
@@ -12457,6 +12465,14 @@
       "onboard_time": 1759714519,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248066,
+      "num": 248066,
+      "word": "黄金涨幅52%专家称有短期回调可能",
+      "onboard_time": 1760594962,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 247825,
@@ -15811,6 +15827,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 195365,
+      "num": 183816,
+      "word": "旺仔小乔掉粉超695万",
+      "onboard_time": 1760598861,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195234,
       "num": 195234,
       "word": "保时捷女销冠晒行政处罚决定书",
@@ -17579,6 +17603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 180440,
+      "num": 148313,
+      "word": "美甲也是轮回",
+      "onboard_time": 1760599521,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 180352,
       "num": 180352,
       "word": "王楚钦孙颖莎3比0雨果高桥布鲁娜",
@@ -18153,6 +18185,14 @@
       "onboard_time": 1759490362,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175656,
+      "num": 175656,
+      "word": "辽宁4岁女童翻车窗后失联正搜救",
+      "onboard_time": 1760599341,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175457,
@@ -18747,6 +18787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170890,
+      "num": 170890,
+      "word": "出生50天早产儿咳嗽到呼吸衰竭住进ICU",
+      "onboard_time": 1760599402,
+      "rank": 24,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 170869,
       "num": 125440,
       "word": "王楚钦孙颖莎赛前对练",
@@ -19177,14 +19225,6 @@
       "onboard_time": 1759995920,
       "rank": 25,
       "category": "情感"
-    },
-    {
-      "raw_hot": 168020,
-      "num": 168020,
-      "word": "黄金涨幅52%专家称有短期回调可能",
-      "onboard_time": 1760594962,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 168001,
@@ -20081,14 +20121,6 @@
       "onboard_time": 1760578162,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162095,
-      "num": 162095,
-      "word": "出生50天早产儿咳嗽到呼吸衰竭住进ICU",
-      "onboard_time": 1760599402,
-      "rank": 24,
-      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 161945,
@@ -21179,6 +21211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154953,
+      "num": 154953,
+      "word": "陈哲远新手机摔了",
+      "onboard_time": 1760599460,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154919,
       "num": 154919,
       "word": "宋亚轩用自己照片当壁纸",
@@ -21193,6 +21233,14 @@
       "onboard_time": 1759737620,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154837,
+      "num": 154837,
+      "word": "多家银行就金价紧急提醒",
+      "onboard_time": 1760599402,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 154773,
@@ -22155,12 +22203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148479,
-      "num": 148479,
-      "word": "多家银行就金价紧急提醒",
-      "onboard_time": 1760599402,
-      "rank": 25,
-      "category": "财经"
+      "raw_hot": 148530,
+      "num": 148530,
+      "word": "普通人改命是要刮一层皮的",
+      "onboard_time": 1760599281,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 148465,
@@ -22313,14 +22361,6 @@
       "onboard_time": 1759300520,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 147783,
-      "num": 147783,
-      "word": "旺仔小乔掉粉超695万",
-      "onboard_time": 1760598861,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 147740,
@@ -23843,6 +23883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140102,
+      "num": 140102,
+      "word": "男孩偷卖姥姥13克黄金仅换4200元",
+      "onboard_time": 1760599822,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140095,
       "num": 195792,
       "word": "无限暖暖",
@@ -24065,6 +24113,14 @@
       "onboard_time": 1760570059,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 139242,
+      "num": 139242,
+      "word": "林诗栋回应被花臭到",
+      "onboard_time": 1760599460,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 139185,
@@ -24891,14 +24947,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 135500,
-      "num": 135500,
-      "word": "美甲也是轮回",
-      "onboard_time": 1760599521,
-      "rank": 31,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 135449,
       "num": 135449,
       "word": "苏新皓12点一到全部allin",
@@ -25465,14 +25513,6 @@
       "onboard_time": 1759900702,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 133565,
-      "num": 133565,
-      "word": "网友拍到孩子赤裸爬行形似野人",
-      "onboard_time": 1760598861,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133562,
@@ -28731,6 +28771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121932,
+      "num": 121932,
+      "word": "林心如霍建华财务各自独立",
+      "onboard_time": 1760597660,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121904,
       "num": 121904,
       "word": "捐肾好友否认与赛琳娜不和",
@@ -31843,14 +31891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112333,
-      "num": 112333,
-      "word": "林心如霍建华财务各自独立",
-      "onboard_time": 1760597660,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112328,
       "num": 112328,
       "word": "痴情的长公主请再等一世吧",
@@ -32177,6 +32217,14 @@
       "onboard_time": 1759310000,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111543,
+      "num": 111543,
+      "word": "杨幂笑到了谁的心里",
+      "onboard_time": 1760599942,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 111534,
@@ -35971,6 +36019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102255,
+      "num": 102255,
+      "word": "eSIM手机",
+      "onboard_time": 1760597361,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 102241,
       "num": 102241,
       "word": "王曼昱蒯曼3比0杜凯琹朱成竹",
@@ -36009,6 +36065,14 @@
       "onboard_time": 1760340260,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102134,
+      "num": 102134,
+      "word": "给iPhone的emoji加上蝴蝶结",
+      "onboard_time": 1760598980,
+      "rank": 42,
+      "category": "数码,幽默"
     },
     {
       "raw_hot": 102132,
@@ -36363,6 +36427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101214,
+      "num": 101214,
+      "word": "两个小户型打通到底有多爽",
+      "onboard_time": 1760599761,
+      "rank": 43,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 101185,
       "num": 101185,
       "word": "艾琳鹤鸣心笺皮肤",
@@ -36505,14 +36577,6 @@
       "onboard_time": 1760276061,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100935,
-      "num": 100935,
-      "word": "陈哲远新手机摔了",
-      "onboard_time": 1760599460,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 100921,
@@ -37161,14 +37225,6 @@
       "onboard_time": 1759828161,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 98916,
-      "num": 98916,
-      "word": "辽宁4岁女童翻车窗后失联正搜救",
-      "onboard_time": 1760599341,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 98884,
@@ -38177,14 +38233,6 @@
       "onboard_time": 1759731500,
       "rank": 34,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 96024,
-      "num": 96024,
-      "word": "林诗栋回应被花臭到",
-      "onboard_time": 1760599460,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 95997,
@@ -40467,14 +40515,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 90106,
-      "num": 120438,
-      "word": "普通人改命是要刮一层皮的",
-      "onboard_time": 1760599281,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 90090,
       "num": 90644,
       "word": "柏林偶遇欧阳娜娜",
@@ -41217,14 +41257,6 @@
       "onboard_time": 1759325481,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 87856,
-      "num": 87856,
-      "word": "eSIM手机",
-      "onboard_time": 1760597361,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 87829,
@@ -48676,7 +48708,7 @@
     },
     {
       "raw_hot": 49376,
-      "num": 164113,
+      "num": 185205,
       "word": "大国粮仓的科技密码",
       "onboard_time": 1760598381,
       "rank": 19,
@@ -49204,7 +49236,7 @@
     },
     {
       "raw_hot": 44683,
-      "num": 167798,
+      "num": 190523,
       "word": "刘宇宁京东直播",
       "onboard_time": 1760598441,
       "rank": 10,
@@ -49809,6 +49841,14 @@
       "onboard_time": 1760515101,
       "rank": 45,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 39459,
+      "num": 112247,
+      "word": "留几手吐槽邓莎老公爹味重",
+      "onboard_time": 1760600121,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 39426,
