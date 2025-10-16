@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/16 17:29:23
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/16 17:42:29
 </p>
 </blockquote>
 <p>
@@ -641,6 +641,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E5%B4%A9%E4%BA%86%23" target="weibo">
 王者荣耀崩了（热度：1342050）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B500%E5%85%8B%E6%8B%89%E7%8E%BB%E7%92%83%E6%88%92%23" target="weibo">
+徐艺洋500克拉玻璃戒（热度：1337404）
 </a>
 </li>
 
@@ -3015,6 +3021,12 @@ TheShy在干啥（热度：644110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23CFO%E7%88%86%E5%86%B7%E6%88%98%E8%83%9CT1%23" target="weibo">
+CFO爆冷战胜T1（热度：636027）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%BD%A6%E7%AA%81%E7%84%B6%E7%88%86%E8%83%8E%E5%90%8E%E6%8E%92%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%94%A9%E5%87%BA%E8%BD%A6%E7%AA%97%23" target="weibo">
 小车突然爆胎后排女子被甩出车窗（热度：635008）
 </a>
@@ -3227,6 +3239,12 @@ JDG战胜狼队（热度：630844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%B4%E5%AF%86%E5%A4%A7%E7%A7%80%23" target="weibo">
 维密大秀（热度：612944）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23T1%E5%AF%B9%E6%88%98CFO%23" target="weibo">
+T1对战CFO（热度：612331）
 </a>
 </li>
 
@@ -4395,12 +4413,6 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23T1%E5%AF%B9%E6%88%98CFO%23" target="weibo">
-T1对战CFO（热度：502664）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BD%93%E6%9C%89%E7%82%8E%E7%97%87%E6%97%B6%E5%B0%91%E5%90%834%E7%A7%8D%E9%A3%9F%E7%89%A9%23" target="weibo">
 身体有炎症时少吃4种食物（热度：502358）
 </a>
@@ -4511,12 +4523,6 @@ T1对战CFO（热度：502664）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%B0%8F%E7%A5%A8%E8%97%8F%E8%BF%9E%E8%BD%BD%E5%B0%8F%E8%AF%B4%23" target="weibo">
 蜜雪冰城小票藏连载小说（热度：496447）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E8%89%BA%E6%B4%8B500%E5%85%8B%E6%8B%89%E7%8E%BB%E7%92%83%E6%88%92%23" target="weibo">
-徐艺洋500克拉玻璃戒（热度：496387）
 </a>
 </li>
 
@@ -6008,12 +6014,6 @@ Dior连发4条迪丽热巴（热度：434111）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E9%98%85%E5%85%B5%E6%96%B9%E9%98%B5%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E5%8A%A8%E4%BD%9C%E6%98%AF%E4%B8%80%E6%A0%B7%E7%9A%84%23" target="weibo">
-美军阅兵方阵没有一个动作是一样的（热度：395717）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6287,6 +6287,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%99%E4%B8%AD%E5%9B%BD%E5%86%9C%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%85%A8%E4%BD%93%E5%B8%88%E7%94%9F%E5%9B%9E%E4%BF%A1%23%23" target="weibo">
 #习近平给中国农业大学全体师生回信#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%BC%98%E6%89%AC%E4%BC%98%E8%89%AF%E5%8A%9E%E5%AD%A6%E4%BC%A0%E7%BB%9F%E7%9F%A2%E5%BF%97%E5%BC%BA%E5%86%9C%E6%8A%A5%E5%9B%BD%23%23" target="weibo">
+#弘扬优良办学传统矢志强农报国#
 </a>
 </li>
 

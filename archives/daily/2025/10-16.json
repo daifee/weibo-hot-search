@@ -1,6 +1,6 @@
 {
   "startTime": 1760545770711,
-  "endTime": 1760606963017,
+  "endTime": 1760607749892,
   "band_list": [
     {
       "raw_hot": 4061269,
@@ -16,6 +16,14 @@
       "word": "姜潮抢到了黄子韬的西兰花",
       "onboard_time": 1760604801,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1337404,
+      "num": 186479,
+      "word": "徐艺洋500克拉玻璃戒",
+      "onboard_time": 1760606722,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -171,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 636027,
+      "num": 1101764,
+      "word": "CFO爆冷战胜T1",
+      "onboard_time": 1760606961,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 635008,
       "num": 1101601,
       "word": "小车突然爆胎后排女子被甩出车窗",
@@ -193,6 +209,14 @@
       "onboard_time": 1760571380,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 612331,
+      "num": 612331,
+      "word": "T1对战CFO",
+      "onboard_time": 1760605879,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 589631,
@@ -240,22 +264,6 @@
       "word": "旺仔小乔掉粉超695万",
       "onboard_time": 1760598861,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 502664,
-      "num": 502664,
-      "word": "T1对战CFO",
-      "onboard_time": 1760605879,
-      "rank": 1,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 496387,
-      "num": 186479,
-      "word": "徐艺洋500克拉玻璃戒",
-      "onboard_time": 1760606722,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -427,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305351,
+      "num": 305351,
+      "word": "CFO 全华班",
+      "onboard_time": 1760606961,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 303760,
       "num": 196601,
       "word": "刘雯好红",
@@ -499,7 +515,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 264608,
+      "raw_hot": 265028,
       "num": 201666,
       "word": "掉的不成串的葡萄有销路了",
       "onboard_time": 1760602642,
@@ -715,6 +731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 200900,
+      "num": 170405,
+      "word": "西湖的水居然肥成这样",
+      "onboard_time": 1760605581,
+      "rank": 30,
+      "category": "旅游,幽默"
+    },
+    {
       "raw_hot": 200415,
       "num": 200415,
       "word": "蹲一下黄子韬徐艺洋婚礼直播",
@@ -851,6 +875,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 168717,
+      "num": 168717,
+      "word": "京东直播",
+      "onboard_time": 1760605581,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 168558,
       "num": 98440,
       "word": "黄奕 地母系长相",
@@ -865,6 +897,14 @@
       "onboard_time": 1760538142,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167593,
+      "num": 139676,
+      "word": "杨幂维密看秀大喊刘雯",
+      "onboard_time": 1760607022,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166722,
@@ -889,6 +929,14 @@
       "onboard_time": 1760564353,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163825,
+      "num": 136033,
+      "word": "Zeus谈Zeka叠女神泪",
+      "onboard_time": 1760607561,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 163734,
@@ -945,6 +993,14 @@
       "onboard_time": 1760531304,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158041,
+      "num": 158041,
+      "word": "当年轻人的装修思路打开后",
+      "onboard_time": 1760606782,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 156355,
@@ -1043,20 +1099,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 145891,
+      "num": 145891,
+      "word": "100T向LPL道歉",
+      "onboard_time": 1760607141,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145319,
       "num": 145319,
       "word": "免签入境外国人同比增48.3%",
       "onboard_time": 1760583141,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 141844,
-      "num": 122637,
-      "word": "西湖的水居然肥成这样",
-      "onboard_time": 1760605581,
-      "rank": 30,
-      "category": "旅游,幽默"
     },
     {
       "raw_hot": 140319,
@@ -1116,7 +1172,7 @@
     },
     {
       "raw_hot": 136628,
-      "num": 136628,
+      "num": 144950,
       "word": "谁家节目让六旬老人哐哐做饭啊",
       "onboard_time": 1760604500,
       "rank": 43,
@@ -1331,14 +1387,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 119890,
-      "num": 109834,
-      "word": "当年轻人的装修思路打开后",
-      "onboard_time": 1760606782,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 119205,
       "num": 119205,
       "word": "历史知识",
@@ -1483,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108549,
+      "num": 108549,
+      "word": "实习生第一次接受句号冲击",
+      "onboard_time": 1760604680,
+      "rank": 39,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 108419,
       "num": 108419,
       "word": "展轩博客天下封面",
@@ -1539,8 +1595,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 106813,
-      "num": 106813,
+      "raw_hot": 106962,
+      "num": 106962,
       "word": "内娱第一对爱豆夫妻",
       "onboard_time": 1760605161,
       "rank": 37,
@@ -1667,14 +1723,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 101172,
-      "num": 101172,
-      "word": "实习生第一次接受句号冲击",
-      "onboard_time": 1760604680,
-      "rank": 39,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 100980,
       "num": 100980,
       "word": "近13万枚比特币被查获",
@@ -1715,20 +1763,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 98389,
-      "num": 161672,
-      "word": "京东直播",
-      "onboard_time": 1760605581,
-      "rank": 20,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 98303,
       "num": 132592,
       "word": "光刻机是拿来用的不是拿来展的",
       "onboard_time": 1760588422,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98070,
+      "num": 143086,
+      "word": "内娱拍出味最正的坠入爱河了",
+      "onboard_time": 1760606839,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 97716,
@@ -1769,6 +1817,14 @@
       "onboard_time": 1760596460,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96334,
+      "num": 101760,
+      "word": "黄子弘凡 劝学型艺人",
+      "onboard_time": 1760607022,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 96300,
@@ -1985,14 +2041,6 @@
       "onboard_time": 1760577140,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 80618,
-      "num": 80618,
-      "word": "内娱拍出味最正的坠入爱河了",
-      "onboard_time": 1760606839,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 80589,
@@ -2403,6 +2451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 45245,
+      "num": 102194,
+      "word": "向鹏说国乒永远最棒",
+      "onboard_time": 1760606961,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44273,
       "num": 44273,
       "word": "李昀锐 某来到了你的家乡",
@@ -2420,7 +2476,7 @@
     },
     {
       "raw_hot": 42793,
-      "num": 169594,
+      "num": 171168,
       "word": "纵横G700的守护型人格",
       "onboard_time": 1760605520,
       "rank": 19,
@@ -2457,6 +2513,14 @@
       "onboard_time": 1760549417,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 30091,
+      "num": 138214,
+      "word": "曹德旺辞去福耀玻璃董事长职务",
+      "onboard_time": 1760607622,
+      "rank": 31,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 29552,
@@ -2675,6 +2739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9010,
+      "num": 174045,
+      "word": "7次开庭5次重审案件循环30年",
+      "onboard_time": 1760607022,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7339,
       "num": 633654,
       "word": "我国首次批量发行盲文版地图",
@@ -2703,6 +2775,9 @@
     },
     {
       "word": "#习近平给中国农业大学全体师生回信#"
+    },
+    {
+      "word": "#弘扬优良办学传统矢志强农报国#"
     }
   ]
 }
