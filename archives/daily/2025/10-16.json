@@ -1,6 +1,6 @@
 {
   "startTime": 1760545770711,
-  "endTime": 1760624809140,
+  "endTime": 1760625933322,
   "band_list": [
     {
       "raw_hot": 4061269,
@@ -123,20 +123,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 874750,
+      "num": 295425,
+      "word": "刘宇宁坐黄子韬婚礼主桌",
+      "onboard_time": 1760624004,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 864713,
       "num": 458030,
       "word": "印度首富妻子的爱马仕镶了3025颗钻",
       "onboard_time": 1760579239,
       "rank": 27,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 836524,
-      "num": 295425,
-      "word": "刘宇宁坐黄子韬婚礼主桌",
-      "onboard_time": 1760624004,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 835850,
@@ -531,20 +531,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 352335,
+      "num": 293350,
+      "word": "男子应聘船员出海严重晕船自缢身亡",
+      "onboard_time": 1760620704,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 350404,
       "num": 221857,
       "word": "第一批爱喝咖啡的受害者出现了",
       "onboard_time": 1760575582,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 348343,
-      "num": 293350,
-      "word": "男子应聘船员出海严重晕船自缢身亡",
-      "onboard_time": 1760620704,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 347780,
@@ -587,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317572,
+      "num": 1084426,
+      "word": "王健林被起诉",
+      "onboard_time": 1760616442,
+      "rank": 1,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 314820,
       "num": 314820,
       "word": "AL对战GEN",
@@ -603,20 +611,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311165,
+      "num": 311165,
+      "word": "陈俊生去的是邱莹莹的咖啡馆",
+      "onboard_time": 1760622565,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308721,
       "num": 234493,
       "word": "再见爱人5官宣",
       "onboard_time": 1760521103,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 307369,
-      "num": 1084426,
-      "word": "王健林被起诉",
-      "onboard_time": 1760616442,
-      "rank": 1,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 305351,
@@ -673,6 +681,14 @@
       "onboard_time": 1760603722,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 292152,
+      "num": 303655,
+      "word": "凤戏阳成为女帝",
+      "onboard_time": 1760620405,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 291745,
@@ -747,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259003,
+      "num": 301686,
+      "word": "韩国人成柬埔寨电诈园区新猎物",
+      "onboard_time": 1760621364,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 256896,
       "num": 256896,
       "word": "夏静石死在了大仇得报的那一天",
@@ -792,14 +816,6 @@
       "word": "国产剧终于有坠崖不让松手的女主",
       "onboard_time": 1760588122,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 243827,
-      "num": 303655,
-      "word": "凤戏阳成为女帝",
-      "onboard_time": 1760620405,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -1123,14 +1139,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 178511,
-      "num": 299728,
-      "word": "陈俊生去的是邱莹莹的咖啡馆",
-      "onboard_time": 1760622565,
-      "rank": 6,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 178318,
       "num": 178318,
       "word": "特朗普威胁更换2028年奥运举办地",
@@ -1219,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168239,
+      "num": 278709,
+      "word": "美财长暗示关税换稀土",
+      "onboard_time": 1760624543,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 166854,
       "num": 187004,
       "word": "孙颖莎说荣誉属于我们每一个人",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1760514501,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163292,
+      "num": 163292,
+      "word": "肖战谈什么是侠之大者",
+      "onboard_time": 1760625024,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 163222,
@@ -1363,6 +1387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158997,
+      "num": 296896,
+      "word": "上海地铁称地铁一词统一译为metro",
+      "onboard_time": 1760624366,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158996,
       "num": 158996,
       "word": "王曼昱总结亚锦赛",
@@ -1385,6 +1417,14 @@
       "onboard_time": 1760606782,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157949,
+      "num": 157949,
+      "word": "李现马思纯看王安宇走秀笑成啥了",
+      "onboard_time": 1760621964,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 157844,
@@ -1425,14 +1465,6 @@
       "onboard_time": 1760588662,
       "rank": 36,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 153027,
-      "num": 153027,
-      "word": "李现马思纯看王安宇走秀笑成啥了",
-      "onboard_time": 1760621964,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 152838,
@@ -1635,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138157,
+      "num": 221555,
+      "word": "FindX9推出相机置换百万补贴",
+      "onboard_time": 1760623706,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 137693,
       "num": 137693,
       "word": "剑网三",
@@ -1697,14 +1737,6 @@
       "onboard_time": 1760603661,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135391,
-      "num": 221555,
-      "word": "FindX9推出相机置换百万补贴",
-      "onboard_time": 1760623706,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 135215,
@@ -1803,12 +1835,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 129857,
-      "num": 301686,
-      "word": "韩国人成柬埔寨电诈园区新猎物",
-      "onboard_time": 1760621364,
-      "rank": 38,
-      "category": "海外新闻"
+      "raw_hot": 130014,
+      "num": 130014,
+      "word": "天赐的声音导演发了苏新皓",
+      "onboard_time": 1760624724,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129985,
+      "num": 290811,
+      "word": "人贩子被判3年后又卖了十余个孩子",
+      "onboard_time": 1760624665,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129705,
@@ -1883,6 +1923,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 126233,
+      "num": 290238,
+      "word": "胡塞武装总参谋长身亡",
+      "onboard_time": 1760625566,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125955,
       "num": 125955,
       "word": "独行侠vs湖人",
@@ -1923,6 +1971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123239,
+      "num": 123239,
+      "word": "35岁女子应聘人事岗被HR嫌年龄大",
+      "onboard_time": 1760621423,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122751,
       "num": 179249,
       "word": "菲2架侦察机非法侵入我黄岩岛领空",
@@ -1956,7 +2012,7 @@
     },
     {
       "raw_hot": 121599,
-      "num": 185775,
+      "num": 208004,
       "word": "孙颖莎大藤沙月互换花束",
       "onboard_time": 1760621483,
       "rank": 36,
@@ -1977,6 +2033,14 @@
       "onboard_time": 1760588542,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121040,
+      "num": 121040,
+      "word": "Viper全中文采访",
+      "onboard_time": 1760622264,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 120964,
@@ -2115,20 +2179,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 115215,
+      "num": 115215,
+      "word": "韩国财阀婚外情被判与妻子分割69亿",
+      "onboard_time": 1760622383,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 115197,
       "num": 115197,
       "word": "外卖应对无堂食商家加专属标识",
       "onboard_time": 1760611160,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114834,
-      "num": 114834,
-      "word": "韩国财阀婚外情被判与妻子分割69亿",
-      "onboard_time": 1760622383,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 114127,
@@ -2161,14 +2225,6 @@
       "onboard_time": 1760599942,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111262,
-      "num": 111262,
-      "word": "Viper全中文采访",
-      "onboard_time": 1760622264,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 111224,
@@ -2315,14 +2371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105939,
-      "num": 105939,
-      "word": "天赐的声音导演发了苏新皓",
-      "onboard_time": 1760624724,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105680,
       "num": 105680,
       "word": "周冬雨给我干哪年来了",
@@ -2433,14 +2481,6 @@
       "onboard_time": 1760597361,
       "rank": 48,
       "category": "数码"
-    },
-    {
-      "raw_hot": 102160,
-      "num": 116407,
-      "word": "35岁女子应聘人事岗被HR嫌年龄大",
-      "onboard_time": 1760621423,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102134,
@@ -2579,14 +2619,6 @@
       "category": "综艺,休闲"
     },
     {
-      "raw_hot": 98987,
-      "num": 296896,
-      "word": "上海地铁称地铁一词统一译为metro",
-      "onboard_time": 1760624366,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98589,
       "num": 251933,
       "word": "京东拍卖80万的耳机",
@@ -2625,6 +2657,14 @@
       "onboard_time": 1760606839,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 97946,
+      "num": 97946,
+      "word": "辽宁失联女童附近山崖有老鹰洞",
+      "onboard_time": 1760625804,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97716,
@@ -2955,14 +2995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 82678,
-      "num": 136191,
-      "word": "人贩子被判3年后又卖了十余个孩子",
-      "onboard_time": 1760624665,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 81998,
       "num": 223453,
       "word": "天猫直播间在线教你算双11脱水折扣",
@@ -3033,6 +3065,14 @@
       "onboard_time": 1760603900,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79916,
+      "num": 284826,
+      "word": "OPPOFindX9挑战万元相机",
+      "onboard_time": 1760624064,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 79341,
@@ -3163,6 +3203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70050,
+      "num": 114488,
+      "word": "孙颖莎训练后蹲地吃泡面",
+      "onboard_time": 1760625144,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69950,
       "num": 78592,
       "word": "100T嘲讽LPL",
@@ -3225,14 +3273,6 @@
       "onboard_time": 1760598441,
       "rank": 39,
       "category": "网红"
-    },
-    {
-      "raw_hot": 65369,
-      "num": 278709,
-      "word": "美财长暗示关税换稀土",
-      "onboard_time": 1760624543,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 65133,
@@ -3419,14 +3459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51945,
-      "num": 284826,
-      "word": "OPPOFindX9挑战万元相机",
-      "onboard_time": 1760624064,
-      "rank": 17,
-      "category": "数码"
-    },
-    {
       "raw_hot": 51744,
       "num": 95028,
       "word": "4岁女孩车里睡觉走失家属发声",
@@ -3515,6 +3547,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 45598,
+      "num": 312671,
+      "word": "十四五成就",
+      "onboard_time": 1760623767,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45245,
       "num": 102194,
       "word": "向鹏说国乒永远最棒",
@@ -3569,14 +3609,6 @@
       "onboard_time": 1760541682,
       "rank": 17,
       "category": "数码"
-    },
-    {
-      "raw_hot": 40134,
-      "num": 304303,
-      "word": "十四五成就",
-      "onboard_time": 1760623767,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 39459,
