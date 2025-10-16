@@ -1,6 +1,6 @@
 {
   "startTime": 1760545770711,
-  "endTime": 1760592326608,
+  "endTime": 1760593251571,
   "band_list": [
     {
       "raw_hot": 1214362,
@@ -17,6 +17,14 @@
       "onboard_time": 1760542524,
       "rank": 0,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 949168,
+      "num": 274200,
+      "word": "内娱圆房戏上新了",
+      "onboard_time": 1760587580,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 932529,
@@ -51,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 799365,
+      "num": 275702,
+      "word": "榜一大哥称已正式起诉旺仔小乔",
+      "onboard_time": 1760590162,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 799057,
       "num": 633016,
       "word": "折腰短剧下架",
@@ -65,14 +81,6 @@
       "onboard_time": 1760572700,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 782137,
-      "num": 274200,
-      "word": "内娱圆房戏上新了",
-      "onboard_time": 1760587580,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 757014,
@@ -99,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 664490,
+      "num": 1106318,
+      "word": "缅北电诈首富",
+      "onboard_time": 1760591901,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 635008,
       "num": 1101601,
       "word": "小车突然爆胎后排女子被甩出车窗",
@@ -115,8 +131,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 571929,
-      "num": 227745,
+      "raw_hot": 589631,
+      "num": 255114,
       "word": "黄子韬徐艺洋钻戒",
       "onboard_time": 1760590342,
       "rank": 12,
@@ -155,20 +171,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 486060,
+      "num": 486060,
+      "word": "女孩经短视频引流治疗后12天去世",
+      "onboard_time": 1760590883,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 477977,
       "num": 477977,
       "word": "TheShy回应上单韦鲁斯",
       "onboard_time": 1760587521,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 470912,
-      "num": 219127,
-      "word": "榜一大哥称已正式起诉旺仔小乔",
-      "onboard_time": 1760590162,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 455259,
@@ -203,10 +219,26 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425826,
+      "num": 425826,
+      "word": "研究生自己的4399",
+      "onboard_time": 1760587402,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 409438,
       "num": 409438,
       "word": "我国边境缴毒1.35吨",
       "onboard_time": 1760583081,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 383447,
+      "num": 383447,
+      "word": "有人卖七八公斤金条变现700多万",
+      "onboard_time": 1760590822,
       "rank": 9,
       "category": "民生新闻"
     },
@@ -259,6 +291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 320997,
+      "num": 237940,
+      "word": "何炅说现在特别痛苦又近视又老花",
+      "onboard_time": 1760591421,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308721,
       "num": 234493,
       "word": "再见爱人5官宣",
@@ -267,28 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 306595,
-      "num": 306595,
-      "word": "女孩经短视频引流治疗后12天去世",
-      "onboard_time": 1760590883,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 303760,
       "num": 196601,
       "word": "刘雯好红",
       "onboard_time": 1760574142,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 295780,
-      "num": 295780,
-      "word": "研究生自己的4399",
-      "onboard_time": 1760587402,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 294967,
@@ -387,12 +411,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 238454,
-      "num": 238454,
-      "word": "有人卖七八公斤金条变现700多万",
-      "onboard_time": 1760590822,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 236417,
+      "num": 236417,
+      "word": "刘嘉玲被问怎么不生孩子",
+      "onboard_time": 1760591901,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 235517,
@@ -467,14 +491,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 210135,
-      "num": 195798,
-      "word": "何炅说现在特别痛苦又近视又老花",
-      "onboard_time": 1760591421,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209853,
       "num": 209853,
       "word": "刘晓庆说的不背词演员是谁",
@@ -515,8 +531,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195100,
-      "num": 195100,
+      "raw_hot": 198145,
+      "num": 198145,
       "word": "网友吐槽喜茶界面太阴间",
       "onboard_time": 1760588903,
       "rank": 37,
@@ -547,14 +563,6 @@
       "category": "其它,时尚"
     },
     {
-      "raw_hot": 188327,
-      "num": 188327,
-      "word": "缅北电诈首富",
-      "onboard_time": 1760591901,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187530,
       "num": 187530,
       "word": "我听交警的事件涉事女子被行拘",
@@ -579,12 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 183856,
-      "num": 183856,
-      "word": "刘嘉玲被问怎么不生孩子",
-      "onboard_time": 1760591901,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 184404,
+      "num": 184404,
+      "word": "美英联合打击柬埔寨特大电诈集团",
+      "onboard_time": 1760590643,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 181598,
@@ -603,6 +611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 173331,
+      "num": 153704,
+      "word": "Elk回应输给100T",
+      "onboard_time": 1760592261,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168257,
       "num": 168257,
       "word": "卖出500克黄金 日赚五万",
@@ -617,14 +633,6 @@
       "onboard_time": 1760582481,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165516,
-      "num": 165516,
-      "word": "美英联合打击柬埔寨特大电诈集团",
-      "onboard_time": 1760590643,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 164838,
@@ -723,6 +731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147030,
+      "num": 147030,
+      "word": "妈妈回应儿子与韦雪恋情",
+      "onboard_time": 1760592921,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 146373,
       "num": 146373,
       "word": "苹果华为OPPO将推出eSIM手机",
@@ -737,6 +753,14 @@
       "onboard_time": 1760583141,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141754,
+      "num": 153917,
+      "word": "路行说邓莎最大的付出是生儿子",
+      "onboard_time": 1760592861,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 140319,
@@ -836,7 +860,7 @@
     },
     {
       "raw_hot": 129287,
-      "num": 129287,
+      "num": 147833,
       "word": "影视剧阴湿男鬼一",
       "onboard_time": 1760591542,
       "rank": 45,
@@ -899,6 +923,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119904,
+      "num": 218468,
+      "word": "美国护照首次跌出全球前十",
+      "onboard_time": 1760592021,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 119205,
       "num": 119205,
       "word": "历史知识",
@@ -947,6 +979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117327,
+      "num": 117327,
+      "word": "冷空气三件套要来深圳了",
+      "onboard_time": 1760592503,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116657,
       "num": 116657,
       "word": "文森特投疯了",
@@ -961,6 +1001,14 @@
       "onboard_time": 1760586562,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110507,
+      "num": 110507,
+      "word": "缅北刘家强迫女性吸毒",
+      "onboard_time": 1760593043,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110452,
@@ -1067,14 +1115,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 105139,
-      "num": 105139,
-      "word": "Elk回应输给100T",
-      "onboard_time": 1760592261,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 104019,
       "num": 102732,
       "word": "卢伟冰称K90不排斥和小米直接竞争",
@@ -1121,6 +1161,14 @@
       "onboard_time": 1760535262,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100952,
+      "num": 100952,
+      "word": "造年轻人的第一台车而不是最后一台",
+      "onboard_time": 1760590223,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 100676,
@@ -1187,6 +1235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 94529,
+      "num": 94529,
+      "word": "我国科学家攻克固态电池卡脖子难关",
+      "onboard_time": 1760593161,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94500,
       "num": 94500,
       "word": "黄子韬徐艺洋婚纱照 全是右脸",
@@ -1209,6 +1265,22 @@
       "onboard_time": 1760582600,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 93131,
+      "num": 93491,
+      "word": "猫咪也知道自己闯祸了",
+      "onboard_time": 1760592682,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 92848,
+      "num": 145439,
+      "word": "市场价165万凶宅26.6万开拍",
+      "onboard_time": 1760592081,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90044,
@@ -1291,6 +1363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 81998,
+      "num": 223453,
+      "word": "天猫直播间在线教你算双11脱水折扣",
+      "onboard_time": 1760592802,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 81321,
       "num": 81321,
       "word": "我练腿就这样",
@@ -1307,12 +1387,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 80419,
-      "num": 145439,
-      "word": "市场价165万凶宅26.6万开拍",
-      "onboard_time": 1760592081,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 80421,
+      "num": 147290,
+      "word": "33岁中国男子在柬埔寨高坠身亡",
+      "onboard_time": 1760593222,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 80054,
@@ -1571,14 +1651,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 56374,
-      "num": 195893,
-      "word": "美国护照首次跌出全球前十",
-      "onboard_time": 1760592021,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 55624,
       "num": 78398,
       "word": "再见爱人 李施嬅",
@@ -1708,11 +1780,19 @@
     },
     {
       "raw_hot": 26067,
-      "num": 141955,
+      "num": 143120,
       "word": "筑牢大国粮仓",
       "onboard_time": 1760590883,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25354,
+      "num": 248735,
+      "word": "AI如何重塑社会未来",
+      "onboard_time": 1760591663,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 25194,
@@ -1784,14 +1864,6 @@
       "word": "京东补贴",
       "onboard_time": 1760533582,
       "rank": 45,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 18247,
-      "num": 216940,
-      "word": "AI如何重塑社会未来",
-      "onboard_time": 1760591663,
-      "rank": 14,
       "category": "互联网"
     },
     {

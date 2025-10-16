@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760592326608,
+  "endTime": 1760593251571,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -459,6 +459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 949168,
+      "num": 274200,
+      "word": "内娱圆房戏上新了",
+      "onboard_time": 1760587580,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 947840,
       "num": 1151654,
       "word": "四川芦山4.7级地震",
@@ -691,20 +699,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 799365,
+      "num": 275702,
+      "word": "榜一大哥称已正式起诉旺仔小乔",
+      "onboard_time": 1760590162,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 794390,
       "num": 292598,
       "word": "杨幂维密翅膀",
       "onboard_time": 1760572700,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 782137,
-      "num": 274200,
-      "word": "内娱圆房戏上新了",
-      "onboard_time": 1760587580,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 782028,
@@ -920,6 +928,14 @@
       "word": "人体蜈蚣雕塑引景区致歉",
       "onboard_time": 1760486240,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 664490,
+      "num": 1106318,
+      "word": "缅北电诈首富",
+      "onboard_time": 1760591901,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -1187,6 +1203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 589631,
+      "num": 255114,
+      "word": "黄子韬徐艺洋钻戒",
+      "onboard_time": 1760590342,
+      "rank": 12,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 588618,
       "num": 455210,
       "word": "特朗普",
@@ -1217,14 +1241,6 @@
       "onboard_time": 1760483418,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 571929,
-      "num": 227745,
-      "word": "黄子韬徐艺洋钻戒",
-      "onboard_time": 1760590342,
-      "rank": 12,
-      "category": "艺人,作品衍生"
     },
     {
       "raw_hot": 570746,
@@ -1691,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 486060,
+      "num": 486060,
+      "word": "女孩经短视频引流治疗后12天去世",
+      "onboard_time": 1760590883,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 480724,
       "num": 200967,
       "word": "女生意外拍到肿瘤细胞分裂全过程",
@@ -1793,14 +1817,6 @@
       "onboard_time": 1760429961,
       "rank": 32,
       "category": "互联网,幽默"
-    },
-    {
-      "raw_hot": 470912,
-      "num": 219127,
-      "word": "榜一大哥称已正式起诉旺仔小乔",
-      "onboard_time": 1760590162,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 469055,
@@ -2065,6 +2081,14 @@
       "onboard_time": 1760198241,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 425826,
+      "num": 425826,
+      "word": "研究生自己的4399",
+      "onboard_time": 1760587402,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 422845,
@@ -2353,6 +2377,14 @@
       "onboard_time": 1760179580,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 383447,
+      "num": 383447,
+      "word": "有人卖七八公斤金条变现700多万",
+      "onboard_time": 1760590822,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 382206,
@@ -2699,6 +2731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320997,
+      "num": 237940,
+      "word": "何炅说现在特别痛苦又近视又老花",
+      "onboard_time": 1760591421,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320543,
       "num": 225967,
       "word": "李煜东 给大家说个好消息",
@@ -2827,14 +2867,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 306595,
-      "num": 306595,
-      "word": "女孩经短视频引流治疗后12天去世",
-      "onboard_time": 1760590883,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 306592,
       "num": 204677,
       "word": "孙颖莎救球把球桌都撞移位了",
@@ -2945,14 +2977,6 @@
       "onboard_time": 1760231660,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 295780,
-      "num": 295780,
-      "word": "研究生自己的4399",
-      "onboard_time": 1760587402,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 295775,
@@ -3611,19 +3635,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 238454,
-      "num": 238454,
-      "word": "有人卖七八公斤金条变现700多万",
-      "onboard_time": 1760590822,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 237038,
       "num": 211036,
       "word": "姜潮麦迪娜明年在新疆举办婚礼",
       "onboard_time": 1760411841,
       "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 236417,
+      "num": 236417,
+      "word": "刘嘉玲被问怎么不生孩子",
+      "onboard_time": 1760591901,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -4035,14 +4059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210135,
-      "num": 195798,
-      "word": "何炅说现在特别痛苦又近视又老花",
-      "onboard_time": 1760591421,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209853,
       "num": 209853,
       "word": "刘晓庆说的不背词演员是谁",
@@ -4371,6 +4387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198145,
+      "num": 198145,
+      "word": "网友吐槽喜茶界面太阴间",
+      "onboard_time": 1760588903,
+      "rank": 37,
+      "category": "美食,民生新闻"
+    },
+    {
       "raw_hot": 197818,
       "num": 197818,
       "word": "宋亚轩0帧起手技能五子棋",
@@ -4505,14 +4529,6 @@
       "onboard_time": 1760237120,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195100,
-      "num": 195100,
-      "word": "网友吐槽喜茶界面太阴间",
-      "onboard_time": 1760588903,
-      "rank": 37,
-      "category": "美食,民生新闻"
     },
     {
       "raw_hot": 194346,
@@ -4739,14 +4755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188327,
-      "num": 188327,
-      "word": "缅北电诈首富",
-      "onboard_time": 1760591901,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187795,
       "num": 187795,
       "word": "孙颖莎vs张本美和",
@@ -4859,20 +4867,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184404,
+      "num": 184404,
+      "word": "美英联合打击柬埔寨特大电诈集团",
+      "onboard_time": 1760590643,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 183924,
       "num": 228485,
       "word": "成都起火汽车曾以极高速度行驶",
       "onboard_time": 1760339659,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 183856,
-      "num": 183856,
-      "word": "刘嘉玲被问怎么不生孩子",
-      "onboard_time": 1760591901,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 183013,
@@ -5137,6 +5145,14 @@
       "onboard_time": 1760268801,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 173331,
+      "num": 153704,
+      "word": "Elk回应输给100T",
+      "onboard_time": 1760592261,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 173267,
@@ -5425,14 +5441,6 @@
       "onboard_time": 1760495181,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 165516,
-      "num": 165516,
-      "word": "美英联合打击柬埔寨特大电诈集团",
-      "onboard_time": 1760590643,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 164871,
@@ -6283,6 +6291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147030,
+      "num": 147030,
+      "word": "妈妈回应儿子与韦雪恋情",
+      "onboard_time": 1760592921,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 146909,
       "num": 160838,
       "word": "管泽元 阿bin",
@@ -6561,6 +6577,14 @@
       "onboard_time": 1760272879,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141754,
+      "num": 153917,
+      "word": "路行说邓莎最大的付出是生儿子",
+      "onboard_time": 1760592861,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 141704,
@@ -7332,7 +7356,7 @@
     },
     {
       "raw_hot": 129287,
-      "num": 129287,
+      "num": 147833,
       "word": "影视剧阴湿男鬼一",
       "onboard_time": 1760591542,
       "rank": 45,
@@ -8179,6 +8203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119904,
+      "num": 218468,
+      "word": "美国护照首次跌出全球前十",
+      "onboard_time": 1760592021,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 119798,
       "num": 119798,
       "word": "迪丽热巴初秋plog",
@@ -8505,6 +8537,14 @@
       "onboard_time": 1760418323,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 117327,
+      "num": 117327,
+      "word": "冷空气三件套要来深圳了",
+      "onboard_time": 1760592503,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117251,
@@ -9153,6 +9193,14 @@
       "onboard_time": 1760342541,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110507,
+      "num": 110507,
+      "word": "缅北刘家强迫女性吸毒",
+      "onboard_time": 1760593043,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110480,
@@ -9835,14 +9883,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 105139,
-      "num": 105139,
-      "word": "Elk回应输给100T",
-      "onboard_time": 1760592261,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 105125,
       "num": 105125,
       "word": "王影璐扮鬼幻视袁湘琴",
@@ -10241,6 +10281,14 @@
       "onboard_time": 1760369780,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100952,
+      "num": 100952,
+      "word": "造年轻人的第一台车而不是最后一台",
+      "onboard_time": 1760590223,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 100951,
@@ -10771,6 +10819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94529,
+      "num": 94529,
+      "word": "我国科学家攻克固态电池卡脖子难关",
+      "onboard_time": 1760593161,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94398,
       "num": 94398,
       "word": "李沁说张晚意让人捉摸不透",
@@ -10913,6 +10969,22 @@
       "onboard_time": 1760447482,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93131,
+      "num": 93491,
+      "word": "猫咪也知道自己闯祸了",
+      "onboard_time": 1760592682,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 92848,
+      "num": 145439,
+      "word": "市场价165万凶宅26.6万开拍",
+      "onboard_time": 1760592081,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92797,
@@ -12147,6 +12219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81998,
+      "num": 223453,
+      "word": "天猫直播间在线教你算双11脱水折扣",
+      "onboard_time": 1760592802,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 81964,
       "num": 81964,
       "word": "梁靖崑vs阿拉米扬",
@@ -12387,12 +12467,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 80419,
-      "num": 145439,
-      "word": "市场价165万凶宅26.6万开拍",
-      "onboard_time": 1760592081,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 80421,
+      "num": 147290,
+      "word": "33岁中国男子在柬埔寨高坠身亡",
+      "onboard_time": 1760593222,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 80399,
@@ -13931,14 +14011,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 56374,
-      "num": 195893,
-      "word": "美国护照首次跌出全球前十",
-      "onboard_time": 1760592021,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 56231,
       "num": 127428,
       "word": "使馆通报中国游客在泰被威胁购物",
@@ -15204,7 +15276,7 @@
     },
     {
       "raw_hot": 26067,
-      "num": 141955,
+      "num": 143120,
       "word": "筑牢大国粮仓",
       "onboard_time": 1760590883,
       "rank": 39,
@@ -15225,6 +15297,14 @@
       "onboard_time": 1760207595,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25354,
+      "num": 248735,
+      "word": "AI如何重塑社会未来",
+      "onboard_time": 1760591663,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 25194,
@@ -15481,14 +15561,6 @@
       "onboard_time": 1760467215,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 18247,
-      "num": 216940,
-      "word": "AI如何重塑社会未来",
-      "onboard_time": 1760591663,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 18213,

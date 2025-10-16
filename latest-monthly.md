@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/16 13:25:26
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/16 13:40:51
 </p>
 </blockquote>
 <p>
@@ -1443,6 +1443,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%9C%86%E6%88%BF%E6%88%8F%E4%B8%8A%E6%96%B0%E4%BA%86%23" target="weibo">
+内娱圆房戏上新了（热度：949168）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%8A%A6%E5%B1%B14.7%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 四川芦山4.7级地震（热度：947840）
 </a>
@@ -2067,6 +2073,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E7%A7%B0%E5%B7%B2%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89%E6%97%BA%E4%BB%94%E5%B0%8F%E4%B9%94%23" target="weibo">
+榜一大哥称已正式起诉旺仔小乔（热度：799365）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BD%E6%B1%9F%E5%B8%82%E9%95%BF%E6%9D%8E%E5%88%9A%E4%B8%BB%E5%8A%A8%E6%8A%95%E6%A1%88%23" target="weibo">
 丽江市长李刚主动投案（热度：798493）
 </a>
@@ -2135,12 +2147,6 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%80%E4%B8%87%E4%BB%A5%E4%B8%8B%E7%9A%84%E7%90%86%E8%B4%A2%E6%96%B9%E6%B3%95%23" target="weibo">
 月收入一万以下的理财方法（热度：786563）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%9C%86%E6%88%BF%E6%88%8F%E4%B8%8A%E6%96%B0%E4%BA%86%23" target="weibo">
-内娱圆房戏上新了（热度：782137）
 </a>
 </li>
 
@@ -2729,6 +2735,12 @@ AL战胜HLE（热度：684053）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%87%BA%E9%81%93%E4%BB%A5%E6%9D%A5%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%91%87%E4%BA%BA%E5%AE%A3%E4%BC%A0%23" target="weibo">
 李沁出道以来第一次摇人宣传（热度：664661）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E9%A6%96%E5%AF%8C%23" target="weibo">
+缅北电诈首富（热度：664490）
 </a>
 </li>
 
@@ -3399,6 +3411,12 @@ Doinb怒喷TheShy（热度：590180）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E9%92%BB%E6%88%92%23" target="weibo">
+黄子韬徐艺洋钻戒（热度：589631）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%BE%9F%E5%AD%90%E5%A5%B3%E5%84%BF%E8%87%AA%E6%9B%9D%E4%BA%8C%E8%83%8E%E6%B5%81%E4%BA%A7%23" target="weibo">
 金龟子女儿自曝二胎流产（热度：588481）
 </a>
@@ -3509,12 +3527,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E4%BA%86%E9%9A%90%E7%BF%85%E8%99%AB%23" target="weibo">
 发现了隐翅虫（热度：572264）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E9%92%BB%E6%88%92%23" target="weibo">
-黄子韬徐艺洋钻戒（热度：571929）
 </a>
 </li>
 
@@ -4593,6 +4605,12 @@ iG回家（热度：487321）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%BB%8F%E7%9F%AD%E8%A7%86%E9%A2%91%E5%BC%95%E6%B5%81%E6%B2%BB%E7%96%97%E5%90%8E12%E5%A4%A9%E5%8E%BB%E4%B8%96%23" target="weibo">
+女孩经短视频引流治疗后12天去世（热度：486060）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E4%B9%90%E6%99%A8%E6%98%AF%E4%B8%BA%E4%BA%86%E6%B0%94%E5%89%8D%E5%A5%B3%E5%8F%8B%E8%B7%91%E5%8E%BB%E4%B8%8A%E7%BB%BC%E8%89%BA%23" target="weibo">
 曝王乐晨是为了气前女友跑去上综艺（热度：484736）
 </a>
@@ -4811,12 +4829,6 @@ TheShy回应上单韦鲁斯（热度：477977）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8C%AB%E5%9B%A2%E9%98%9F%20%E7%81%B5%E9%9A%90%E5%AF%BA%23" target="weibo">
 天猫团队 灵隐寺（热度：471157）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E7%A7%B0%E5%B7%B2%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89%E6%97%BA%E4%BB%94%E5%B0%8F%E4%B9%94%23" target="weibo">
-榜一大哥称已正式起诉旺仔小乔（热度：470912）
 </a>
 </li>
 
@@ -5457,6 +5469,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E8%87%AA%E5%B7%B1%E7%9A%844399%23" target="weibo">
+研究生自己的4399（热度：425826）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B0%86%E5%AE%A3%E5%B8%83%E9%87%8D%E5%A4%A7%E5%86%B3%E7%AD%96%23" target="weibo">
 詹姆斯将宣布重大决策（热度：425582）
 </a>
@@ -5993,24 +6011,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%23" target="weibo">
 入青云（热度：390564）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B8%80%E8%8F%B2cos%E7%81%B5%E5%84%BF%23" target="weibo">
-刘一菲cos灵儿（热度：390557）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E5%91%98%E9%A6%A8%E5%AD%90%E5%9B%9E%E5%BA%94%E4%B8%8D%E6%8B%8D%E6%88%8F%23" target="weibo">
-演员馨子回应不拍戏（热度：390271）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%A4%9C%E4%B9%8B%E9%97%B4%E5%A4%9A%E4%BA%86%E5%BE%88%E5%A4%9A%E9%9B%B6%E9%A3%9F%E5%BA%97%23" target="weibo">
-为什么一夜之间多了很多零食店（热度：389800）
 </a>
 </li>
 
