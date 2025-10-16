@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/16 07:36:41
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/16 09:52:23
 </p>
 </blockquote>
 <p>
@@ -1485,6 +1485,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E5%AD%A6%E8%B4%B9%E6%9A%B4%E6%B6%A8%E4%BD%A0%E8%BF%98%E4%BC%9A%E9%80%89%E6%8B%A9%E8%AF%BB%E7%A0%94%E5%90%97%23" target="weibo">
+研究生学费暴涨你还会选择读研吗（热度：932529）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E8%A2%AB%E7%A0%8D%E4%BC%A4%E5%93%88%E5%A3%AB%E5%A5%87%E5%B7%B2%E5%AE%89%E4%B9%90%E6%AD%BB%23" target="weibo">
 成都被砍伤哈士奇已安乐死（热度：930406）
 </a>
@@ -2057,6 +2063,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E8%AF%B4%E5%BC%A0%E7%BB%B4%E4%BC%8A%E7%83%A6%E4%BA%BA%E9%9A%BE%E7%9C%8B%E5%B9%BC%E7%A8%9A%23" target="weibo">
 董璇说张维伊烦人难看幼稚（热度：794647）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%BB%B4%E5%AF%86%E7%BF%85%E8%86%80%23" target="weibo">
+杨幂维密翅膀（热度：794390）
 </a>
 </li>
 
@@ -3101,6 +3113,12 @@ JDG战胜狼队（热度：630844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%9D%9A%E6%8C%81AA%E5%88%B6%E5%A6%BB%E5%AD%90%E6%97%A0%E5%8A%9B%E6%94%AF%E4%BB%98%E8%A6%81%E5%86%99%E6%AC%A0%E6%9D%A1%23" target="weibo">
 丈夫坚持AA制妻子无力支付要写欠条（热度：613237）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%B4%E5%AF%86%E5%A4%A7%E7%A7%80%23" target="weibo">
+维密大秀（热度：612944）
 </a>
 </li>
 
@@ -4161,6 +4179,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%85%92%E5%90%8E%E8%B5%B0%E6%8D%B7%E5%BE%84%E5%9D%A0%E4%BA%A1%E5%90%8C%E9%A5%AE%E8%80%85%E4%B8%8D%E6%8B%85%E8%B4%A3%23" target="weibo">
+女子酒后走捷径坠亡同饮者不担责（热度：511549）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8B%E9%AB%98%E9%80%9F%23" target="weibo">
 下高速（热度：509971）
 </a>
@@ -4175,6 +4199,12 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%A6%E6%95%A6%E5%81%B6%E9%81%87%E7%8E%8B%E8%AF%97%E9%BE%84%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%23" target="weibo">
 伦敦偶遇王诗龄一家三口（热度：508580）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E5%AE%9E%E4%BD%93%E5%BA%97%E8%A1%A3%E6%9C%8D%E8%BF%99%E4%B9%88%E8%B4%B5%23" target="weibo">
+怪不得实体店衣服这么贵（热度：508199）
 </a>
 </li>
 
@@ -4487,6 +4517,12 @@ iG回家（热度：487321）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%88%B6%E5%A5%B3%E5%8F%8C%E5%B0%B8%E6%A1%88%E7%8E%B0%E5%9C%BA%E6%9B%9D%E5%85%89%23" target="weibo">
 新加坡父女双尸案现场曝光（热度：486539）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%8F%91%E7%8E%B0%E8%B6%8540%E5%90%A8%E9%87%91%E7%9F%BF%23" target="weibo">
+甘肃发现超40吨金矿（热度：486255）
 </a>
 </li>
 
@@ -5975,42 +6011,6 @@ Wei什么（热度：385683）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E5%81%87%E6%9C%9F%E9%87%8D%E5%9B%9E90%E5%85%AC%E6%96%A4%23" target="weibo">
 吴艳妮假期重回90公斤（热度：382031）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E5%B0%8F%E9%BE%84%E7%AB%A5%20%E7%8C%B4%E5%AD%90%E7%8C%B4%E5%AD%99%E8%BF%99%E4%B9%88%E5%A4%9A%23" target="weibo">
-六小龄童 猴子猴孙这么多（热度：381971）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%A4%96%E5%BE%88%E8%B4%B5%E4%BD%86%E5%9B%BD%E5%86%85%E5%8D%B4%E4%BE%BF%E5%AE%9C%E7%9A%84%E4%B8%9C%E8%A5%BF%23" target="weibo">
-国外很贵但国内却便宜的东西（热度：381612）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B7%E5%8F%8C%23" target="weibo">
-混双（热度：380916）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%A4%A9%E5%9C%B0%E5%89%91%E5%BF%83%E8%BF%87%E5%AE%A1%E4%B8%8B%E8%AF%81%23" target="weibo">
-成毅天地剑心过审下证（热度：380734）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%80%A7%E5%90%91%E6%B8%B8%E6%88%8F%23" target="weibo">
-女性向游戏（热度：379581）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%B4%E5%AD%90%E8%A2%AB%E6%B8%B8%E5%AE%A2%E6%89%87%E5%B7%B4%E6%8E%8C%23" target="weibo">
-猴子被游客扇巴掌（热度：379291）
 </a>
 </li>
 
