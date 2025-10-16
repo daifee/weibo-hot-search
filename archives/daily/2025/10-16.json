@@ -1,6 +1,6 @@
 {
   "startTime": 1760545770711,
-  "endTime": 1760584136926,
+  "endTime": 1760585218041,
   "band_list": [
     {
       "raw_hot": 990684,
@@ -67,20 +67,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 635008,
+      "num": 1101601,
+      "word": "小车突然爆胎后排女子被甩出车窗",
+      "onboard_time": 1760578941,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 612944,
       "num": 523498,
       "word": "维密大秀",
       "onboard_time": 1760571380,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 533082,
-      "num": 533082,
-      "word": "小车突然爆胎后排女子被甩出车窗",
-      "onboard_time": 1760578941,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 518950,
@@ -123,6 +123,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409438,
+      "num": 409438,
+      "word": "我国边境缴毒1.35吨",
+      "onboard_time": 1760583081,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 398715,
+      "num": 398715,
+      "word": "印尼将采购中国歼10战机",
+      "onboard_time": 1760581701,
+      "rank": 6,
+      "category": "军事"
+    },
+    {
       "raw_hot": 376263,
       "num": 376263,
       "word": "金店老板说金价跌起来像泄洪",
@@ -131,12 +147,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 368958,
-      "num": 368958,
-      "word": "印尼将采购中国歼10战机",
-      "onboard_time": 1760581701,
-      "rank": 6,
-      "category": "军事"
+      "raw_hot": 367941,
+      "num": 137424,
+      "word": "怀孕9个月的超模为维密大秀开场",
+      "onboard_time": 1760584522,
+      "rank": 30,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 357642,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 350404,
-      "num": 175817,
+      "num": 204253,
       "word": "第一批爱喝咖啡的受害者出现了",
       "onboard_time": 1760575582,
       "rank": 20,
@@ -187,14 +203,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 302158,
-      "num": 302158,
-      "word": "我国边境缴毒1.35吨",
-      "onboard_time": 1760583081,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 294967,
       "num": 201744,
       "word": "刘雯第二套",
@@ -217,6 +225,14 @@
       "onboard_time": 1760543240,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267967,
+      "num": 246165,
+      "word": "黄子韬 抛西兰花",
+      "onboard_time": 1760584339,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 261571,
@@ -243,8 +259,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 250470,
+      "num": 250470,
+      "word": "当年爱情公寓的选角手稿",
+      "onboard_time": 1760584041,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243163,
-      "num": 200449,
+      "num": 224411,
       "word": "雎晓雯产后首登维密",
       "onboard_time": 1760577802,
       "rank": 13,
@@ -323,6 +347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 203371,
+      "num": 203371,
+      "word": "宁静 该说得说不能装死",
+      "onboard_time": 1760584160,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200415,
       "num": 200415,
       "word": "蹲一下黄子韬徐艺洋婚礼直播",
@@ -387,14 +419,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 164566,
-      "num": 194115,
-      "word": "当年爱情公寓的选角手稿",
-      "onboard_time": 1760584041,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 163734,
       "num": 163734,
       "word": "黄子韬徐艺洋接吻婚纱照",
@@ -419,11 +443,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154672,
+      "num": 154672,
+      "word": "刘晓庆说的不背词演员是谁",
+      "onboard_time": 1760584762,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150015,
       "num": 92772,
       "word": "林诗栋说花儿有股臭味",
       "onboard_time": 1760569939,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149719,
+      "num": 149719,
+      "word": "恋综混子变香饽饽",
+      "onboard_time": 1760584339,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 148391,
+      "num": 188080,
+      "word": "孙颖莎的尽兴每一拍",
+      "onboard_time": 1760579421,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -433,6 +481,22 @@
       "onboard_time": 1760580140,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 145319,
+      "num": 145319,
+      "word": "免签入境外国人同比增48.3%",
+      "onboard_time": 1760583141,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137693,
+      "num": 137693,
+      "word": "剑网三",
+      "onboard_time": 1760584339,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 137656,
@@ -459,12 +523,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129685,
-      "num": 188080,
-      "word": "孙颖莎的尽兴每一拍",
-      "onboard_time": 1760579421,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 132614,
+      "num": 132614,
+      "word": "小沈阳直接被沈佳润抬到象山了",
+      "onboard_time": 1760583620,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 131366,
+      "num": 131366,
+      "word": "明日方舟 三丽鸥",
+      "onboard_time": 1760585121,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 128534,
@@ -523,14 +595,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116472,
-      "num": 116472,
-      "word": "免签入境外国人同比增48.3%",
-      "onboard_time": 1760583141,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115956,
       "num": 115956,
       "word": "中国原子弹爆炸成功61周年",
@@ -563,6 +627,46 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107956,
+      "num": 107956,
+      "word": "夏之光成立新工作室",
+      "onboard_time": 1760585181,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 107536,
+      "num": 107536,
+      "word": "世界粮食日网友想念袁爷爷了",
+      "onboard_time": 1760573542,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107286,
+      "num": 107286,
+      "word": "高三女生眼中风永久致盲",
+      "onboard_time": 1760578640,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107168,
+      "num": 107168,
+      "word": "杨幂气场不输超模",
+      "onboard_time": 1760584522,
+      "rank": 42,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 106794,
+      "num": 106794,
+      "word": "我听交警的事件有后续了",
+      "onboard_time": 1760584822,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105644,
       "num": 105644,
       "word": "一看王源就没少上网",
@@ -587,6 +691,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 104019,
+      "num": 102732,
+      "word": "卢伟冰称K90不排斥和小米直接竞争",
+      "onboard_time": 1760584339,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 103512,
       "num": 103512,
       "word": "多地收到冬日体验卡",
@@ -601,6 +713,14 @@
       "onboard_time": 1760526621,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102540,
+      "num": 102540,
+      "word": "独行侠vs湖人",
+      "onboard_time": 1760585061,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 102132,
@@ -619,14 +739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 101891,
-      "num": 101891,
-      "word": "高三女生眼中风永久致盲",
-      "onboard_time": 1760578640,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 100980,
       "num": 100980,
       "word": "近13万枚比特币被查获",
@@ -641,6 +753,14 @@
       "onboard_time": 1760574621,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100502,
+      "num": 100502,
+      "word": "这跟读一辈子高三有什么区别",
+      "onboard_time": 1760585061,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 99742,
@@ -673,22 +793,6 @@
       "onboard_time": 1760573722,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 94997,
-      "num": 94997,
-      "word": "世界粮食日网友想念袁爷爷了",
-      "onboard_time": 1760573542,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94804,
-      "num": 94804,
-      "word": "小沈阳直接被沈佳润抬到象山了",
-      "onboard_time": 1760583620,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 94500,
@@ -980,7 +1084,7 @@
     },
     {
       "raw_hot": 57524,
-      "num": 180415,
+      "num": 204398,
       "word": "京东上线霉霉稀缺黑胶",
       "onboard_time": 1760583921,
       "rank": 20,
@@ -1152,6 +1256,14 @@
       "word": "孙颖莎举起奖杯",
       "onboard_time": 1760543602,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20026,
+      "num": 107590,
+      "word": "林诗栋天生喜剧人实锤了",
+      "onboard_time": 1760584642,
+      "rank": 38,
       "category": "体育"
     },
     {
