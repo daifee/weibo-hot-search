@@ -1,7 +1,15 @@
 {
   "startTime": 1760545770711,
-  "endTime": 1760597409506,
+  "endTime": 1760599580634,
   "band_list": [
+    {
+      "raw_hot": 2817152,
+      "num": 167483,
+      "word": "黄子韬徐艺洋婚礼",
+      "onboard_time": 1760597781,
+      "rank": 11,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1214362,
       "num": 274706,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1036979,
-      "num": 1036979,
+      "num": 1143047,
       "word": "缅北刘家强迫女性吸毒",
       "onboard_time": 1760593043,
       "rank": 45,
@@ -145,6 +153,14 @@
       "onboard_time": 1760578941,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 616184,
+      "num": 218757,
+      "word": "王俊凯几乎零片酬出演刺猬",
+      "onboard_time": 1760595681,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 612944,
@@ -291,6 +307,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 367288,
+      "num": 367288,
+      "word": "刘家电诈园区统一建炮楼",
+      "onboard_time": 1760594840,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 357642,
       "num": 241553,
       "word": "隐秘的角落",
@@ -323,12 +347,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 333272,
-      "num": 333272,
-      "word": "刘家电诈园区统一建炮楼",
-      "onboard_time": 1760594840,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 314503,
+      "num": 236417,
+      "word": "刘嘉玲被问怎么不生孩子",
+      "onboard_time": 1760591901,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 308721,
@@ -339,28 +363,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 306127,
-      "num": 236417,
-      "word": "刘嘉玲被问怎么不生孩子",
-      "onboard_time": 1760591901,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 303760,
       "num": 196601,
       "word": "刘雯好红",
       "onboard_time": 1760574142,
       "rank": 12,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 300209,
-      "num": 218757,
-      "word": "王俊凯几乎零片酬出演刺猬",
-      "onboard_time": 1760595681,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 294967,
@@ -441,6 +449,14 @@
       "onboard_time": 1760570240,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 248628,
+      "num": 248628,
+      "word": "夏静石死在了大仇得报的那一天",
+      "onboard_time": 1760596041,
+      "rank": 24,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 245754,
@@ -531,7 +547,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211072,
+      "raw_hot": 211545,
       "num": 211072,
       "word": "徐志胜回应和孟子义直播说国粹",
       "onboard_time": 1760596520,
@@ -611,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192882,
-      "num": 192882,
-      "word": "夏静石死在了大仇得报的那一天",
-      "onboard_time": 1760596041,
-      "rank": 24,
-      "category": "剧集,作品衍生"
-    },
-    {
       "raw_hot": 192842,
       "num": 192842,
       "word": "暗河传OST阵容",
@@ -659,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184667,
+      "num": 162491,
+      "word": "肖战说永远要真诚",
+      "onboard_time": 1760599041,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184404,
       "num": 184404,
       "word": "美英联合打击柬埔寨特大电诈集团",
@@ -691,12 +707,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 168558,
+      "num": 98440,
+      "word": "黄奕 地母系长相",
+      "onboard_time": 1760597660,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168257,
       "num": 168257,
       "word": "卖出500克黄金 日赚五万",
       "onboard_time": 1760538142,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168020,
+      "num": 168020,
+      "word": "黄金涨幅52%专家称有短期回调可能",
+      "onboard_time": 1760594962,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 166722,
@@ -747,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162095,
+      "num": 162095,
+      "word": "出生50天早产儿咳嗽到呼吸衰竭住进ICU",
+      "onboard_time": 1760599402,
+      "rank": 24,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 161400,
       "num": 186755,
       "word": "入青云仙品",
@@ -795,12 +835,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148479,
+      "num": 148479,
+      "word": "多家银行就金价紧急提醒",
+      "onboard_time": 1760599402,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 148391,
       "num": 188080,
       "word": "孙颖莎的尽兴每一拍",
       "onboard_time": 1760579421,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147783,
+      "num": 147783,
+      "word": "旺仔小乔掉粉超695万",
+      "onboard_time": 1760598861,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 147588,
@@ -819,20 +875,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 145695,
+      "num": 145695,
+      "word": "金价疯涨黄金回收商生意火爆",
+      "onboard_time": 1760598260,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 145319,
       "num": 145319,
       "word": "免签入境外国人同比增48.3%",
       "onboard_time": 1760583141,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140593,
-      "num": 140593,
-      "word": "黄金涨幅52%专家称有短期回调可能",
-      "onboard_time": 1760594962,
-      "rank": 30,
-      "category": "财经"
     },
     {
       "raw_hot": 140319,
@@ -859,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139126,
+      "num": 139126,
+      "word": "KPL选手的王者ID",
+      "onboard_time": 1760598800,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137693,
       "num": 137693,
       "word": "剑网三",
@@ -883,6 +947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135500,
+      "num": 135500,
+      "word": "美甲也是轮回",
+      "onboard_time": 1760599521,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 135161,
       "num": 135161,
       "word": "方媛怀三胎现身",
@@ -897,6 +969,14 @@
       "onboard_time": 1760543302,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 133565,
+      "num": 133565,
+      "word": "网友拍到孩子赤裸爬行形似野人",
+      "onboard_time": 1760598861,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132614,
@@ -921,6 +1001,14 @@
       "onboard_time": 1760589322,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131477,
+      "num": 131477,
+      "word": "呼吸道合胞病毒已进入流行期",
+      "onboard_time": 1760597961,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 129705,
@@ -987,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124593,
+      "num": 124593,
+      "word": "考研人发型",
+      "onboard_time": 1760597781,
+      "rank": 35,
+      "category": "教育,幽默"
+    },
+    {
       "raw_hot": 122532,
       "num": 115186,
       "word": "苏醒披哥大漏勺本勺",
@@ -1001,6 +1097,14 @@
       "onboard_time": 1760588542,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120964,
+      "num": 120964,
+      "word": "这居然是高伟光",
+      "onboard_time": 1760598621,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 120108,
@@ -1096,6 +1200,14 @@
       "word": "柯淳让刘嘉玲跟梁朝伟发语音撒娇",
       "onboard_time": 1760586562,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 112333,
+      "num": 112333,
+      "word": "林心如霍建华财务各自独立",
+      "onboard_time": 1760597660,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -1299,6 +1411,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 100935,
+      "num": 100935,
+      "word": "陈哲远新手机摔了",
+      "onboard_time": 1760599460,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100676,
       "num": 100676,
       "word": "申裕斌晒孙颖莎王曼昱蒯曼合影",
@@ -1313,6 +1433,14 @@
       "onboard_time": 1760543963,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98916,
+      "num": 98916,
+      "word": "辽宁4岁女童翻车窗后失联正搜救",
+      "onboard_time": 1760599341,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98589,
@@ -1347,6 +1475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 97033,
+      "num": 97033,
+      "word": "蔚来",
+      "onboard_time": 1760598020,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 96921,
       "num": 217269,
       "word": "六成妈妈因哺乳不便减少外出",
@@ -1369,6 +1505,14 @@
       "onboard_time": 1760535683,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96024,
+      "num": 96024,
+      "word": "林诗栋回应被花臭到",
+      "onboard_time": 1760599460,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 95537,
@@ -1433,6 +1577,14 @@
       "onboard_time": 1760589802,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90106,
+      "num": 120438,
+      "word": "普通人改命是要刮一层皮的",
+      "onboard_time": 1760599281,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 90044,
@@ -1723,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65450,
+      "num": 116543,
+      "word": "前男友直播谈与韦雪分手哭了",
+      "onboard_time": 1760598441,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 65133,
       "num": 65133,
       "word": "ally收下出轨前男友礼物",
@@ -1867,6 +2027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49376,
+      "num": 164113,
+      "word": "大国粮仓的科技密码",
+      "onboard_time": 1760598381,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49082,
       "num": 49082,
       "word": "小米17系列背屏将更新",
@@ -1905,6 +2073,14 @@
       "onboard_time": 1760587642,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44683,
+      "num": 167798,
+      "word": "刘宇宁京东直播",
+      "onboard_time": 1760598441,
+      "rank": 10,
+      "category": "艺人,互联网"
     },
     {
       "raw_hot": 44273,
@@ -1977,6 +2153,14 @@
       "onboard_time": 1760590883,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25383,
+      "num": 118227,
+      "word": "王俊凯出发参加NBA名人赛路透",
+      "onboard_time": 1760598501,
+      "rank": 38,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 25354,
@@ -2148,6 +2332,9 @@
     },
     {
       "word": "#努力培养更多知农爱农专业人才#"
+    },
+    {
+      "word": "#习近平给中国农业大学全体师生回信#"
     }
   ]
 }
