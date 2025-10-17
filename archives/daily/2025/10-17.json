@@ -1,10 +1,10 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760693301867,
+  "endTime": 1760694055899,
   "band_list": [
     {
-      "raw_hot": 2297014,
-      "num": 169124,
+      "raw_hot": 3904292,
+      "num": 207797,
       "word": "杨振宁",
       "onboard_time": 1760692041,
       "rank": 10,
@@ -163,8 +163,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 613364,
-      "num": 192248,
+      "raw_hot": 630492,
+      "num": 199976,
       "word": "黄子韬徐艺洋婚礼主桌视角",
       "onboard_time": 1760689223,
       "rank": 17,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 478626,
+      "num": 478626,
+      "word": "KT对战TES",
+      "onboard_time": 1760688022,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 476771,
       "num": 229711,
       "word": "野人小孩父母均大学毕业",
@@ -227,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 463297,
+      "num": 191738,
+      "word": "克拉拉官宣离婚",
+      "onboard_time": 1760692941,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459383,
       "num": 189495,
       "word": "邓莎哭着说从20多岁就开始当妈",
@@ -241,6 +257,14 @@
       "onboard_time": 1760639416,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 445439,
+      "num": 445439,
+      "word": "KT战胜TES",
+      "onboard_time": 1760693842,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 429718,
@@ -281,6 +305,14 @@
       "onboard_time": 1760668700,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 362369,
+      "num": 362369,
+      "word": "TES皇子",
+      "onboard_time": 1760691200,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 361369,
@@ -332,7 +364,7 @@
     },
     {
       "raw_hot": 318839,
-      "num": 161280,
+      "num": 166226,
       "word": "蔡威泽回应周杰伦",
       "onboard_time": 1760691441,
       "rank": 20,
@@ -369,6 +401,14 @@
       "onboard_time": 1760679922,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 310763,
+      "num": 310763,
+      "word": "何卫东等9人被开除党籍军籍",
+      "onboard_time": 1760693962,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 303538,
@@ -499,14 +539,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 249273,
-      "num": 249273,
-      "word": "TES皇子",
-      "onboard_time": 1760691200,
-      "rank": 5,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 244283,
       "num": 241151,
       "word": "秘鲁男子遭自家斗鸡攻击致死",
@@ -588,7 +620,7 @@
     },
     {
       "raw_hot": 224082,
-      "num": 159228,
+      "num": 166323,
       "word": "张若昀牵手就牵手还把人往怀里带",
       "onboard_time": 1760691802,
       "rank": 23,
@@ -651,14 +683,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 209919,
-      "num": 157888,
-      "word": "克拉拉官宣离婚",
-      "onboard_time": 1760692941,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208275,
       "num": 208275,
       "word": "秋裤羽绒服该出场了",
@@ -673,14 +697,6 @@
       "onboard_time": 1760684722,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207829,
-      "num": 207829,
-      "word": "KT对战TES",
-      "onboard_time": 1760688022,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 206860,
@@ -835,6 +851,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 166417,
+      "num": 166417,
+      "word": "关晓彤脱鞋证明自己172",
+      "onboard_time": 1760693661,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166320,
+      "num": 166320,
+      "word": "金晨体态",
+      "onboard_time": 1760691142,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165845,
       "num": 165845,
       "word": "王源画的不错下次别画了",
@@ -849,6 +881,14 @@
       "onboard_time": 1760671581,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161438,
+      "num": 161438,
+      "word": "徐艺洋 你可以全程站我们右边吗",
+      "onboard_time": 1760692762,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 161416,
@@ -915,20 +955,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 153806,
-      "num": 153806,
-      "word": "金晨体态",
-      "onboard_time": 1760691142,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153353,
       "num": 153353,
       "word": "商务部回应美方以100%新关税施压",
       "onboard_time": 1760643254,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 152883,
+      "num": 152883,
+      "word": "摄影店用粉蓝相框暗示胎儿性别被罚",
+      "onboard_time": 1760693482,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151815,
@@ -1027,12 +1067,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145144,
+      "num": 145144,
+      "word": "龚俊 长的漂亮给你多吃点",
+      "onboard_time": 1760693242,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144994,
       "num": 432204,
       "word": "男子应聘船员出海严重晕船自缢身亡",
       "onboard_time": 1760620704,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144824,
+      "num": 144823,
+      "word": "7种癌症最喜欢的饮食习惯",
+      "onboard_time": 1760690420,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144526,
@@ -1075,14 +1131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141241,
-      "num": 141241,
-      "word": "徐艺洋 你可以全程站我们右边吗",
-      "onboard_time": 1760692762,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141070,
       "num": 443040,
       "word": "上海地铁称地铁一词统一译为metro",
@@ -1113,6 +1161,14 @@
       "onboard_time": 1760674583,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 137032,
+      "num": 163278,
+      "word": "山东智己车主事故后称仍选智己",
+      "onboard_time": 1760691921,
+      "rank": 28,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 136411,
@@ -1235,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124149,
+      "num": 124149,
+      "word": "外公在天上急得团团转",
+      "onboard_time": 1760692224,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 121943,
       "num": 197789,
       "word": "零跑D19纯电500km刷新增程纪录",
@@ -1283,6 +1347,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 118754,
+      "num": 118754,
+      "word": "为中国航天点赞",
+      "onboard_time": 1760693724,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 118146,
       "num": 118146,
       "word": "彭昱畅镜头下的张子枫",
@@ -1315,12 +1387,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 116869,
-      "num": 116869,
-      "word": "7种癌症最喜欢的饮食习惯",
-      "onboard_time": 1760690420,
-      "rank": 48,
-      "category": "健康医疗"
+      "raw_hot": 116753,
+      "num": 116753,
+      "word": "广东女篮发文悼念杨父",
+      "onboard_time": 1760693962,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 116412,
@@ -1427,14 +1499,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 110875,
-      "num": 155370,
-      "word": "山东智己车主事故后称仍选智己",
-      "onboard_time": 1760691921,
-      "rank": 28,
-      "category": "民生新闻,汽车"
-    },
-    {
       "raw_hot": 110787,
       "num": 110787,
       "word": "原来双人杂志都这样拍出来的",
@@ -1513,14 +1577,6 @@
       "onboard_time": 1760685801,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105426,
-      "num": 105426,
-      "word": "龚俊 长的漂亮给你多吃点",
-      "onboard_time": 1760693242,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 105246,
@@ -1673,6 +1729,14 @@
       "onboard_time": 1760668641,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97015,
+      "num": 146689,
+      "word": "内娱马上要热闹起来了",
+      "onboard_time": 1760692281,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 96597,
@@ -1875,6 +1939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83765,
+      "num": 113931,
+      "word": "深情眼前十唯一现偶",
+      "onboard_time": 1760688682,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 83680,
       "num": 428169,
       "word": "韩财阀千金成电诈大佬",
@@ -1961,14 +2033,6 @@
       "onboard_time": 1760619201,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 77623,
-      "num": 94223,
-      "word": "深情眼前十唯一现偶",
-      "onboard_time": 1760688682,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 76471,
@@ -2107,6 +2171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64903,
+      "num": 162477,
+      "word": "镇政府回应野人小孩上学问题",
+      "onboard_time": 1760692402,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64494,
       "num": 69217,
       "word": "苦练化妆就为了这张学信网照片",
@@ -2137,14 +2209,6 @@
       "onboard_time": 1760616442,
       "rank": 28,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 59904,
-      "num": 128924,
-      "word": "内娱马上要热闹起来了",
-      "onboard_time": 1760692281,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 58959,
@@ -2227,12 +2291,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 51667,
+      "num": 129760,
+      "word": "甘肃一垃圾转运车向渭河倾倒垃圾",
+      "onboard_time": 1760692460,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 51662,
       "num": 69216,
       "word": "警方核实野人小孩监护人俱在",
       "onboard_time": 1760646493,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51329,
+      "num": 144827,
+      "word": "付航 内向人格",
+      "onboard_time": 1760693902,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 51216,
@@ -2267,12 +2347,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 48175,
+      "num": 166416,
+      "word": "墨墨背单词助记内容被指低俗擦边",
+      "onboard_time": 1760693122,
+      "rank": 29,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 46419,
       "num": 143511,
       "word": "Viper全中文采访",
       "onboard_time": 1760622264,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 45604,
+      "num": 144824,
+      "word": "张馨予 脸在江山在",
+      "onboard_time": 1760693001,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 45412,
@@ -2331,36 +2427,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42284,
-      "num": 162477,
-      "word": "镇政府回应野人小孩上学问题",
-      "onboard_time": 1760692402,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40237,
       "num": 69167,
       "word": "男人的花期到底能有多短",
       "onboard_time": 1760657599,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 39408,
-      "num": 153924,
-      "word": "墨墨背单词助记内容被指低俗擦边",
-      "onboard_time": 1760693122,
-      "rank": 29,
-      "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 38808,
-      "num": 126889,
-      "word": "张馨予 脸在江山在",
-      "onboard_time": 1760693001,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 38659,
@@ -2396,7 +2468,7 @@
     },
     {
       "raw_hot": 35572,
-      "num": 164997,
+      "num": 172783,
       "word": "三条纹闪耀上海时装周",
       "onboard_time": 1760692341,
       "rank": 16,
@@ -2457,14 +2529,6 @@
       "onboard_time": 1760621423,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 24112,
-      "num": 129760,
-      "word": "甘肃一垃圾转运车向渭河倾倒垃圾",
-      "onboard_time": 1760692460,
-      "rank": 37,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 23981,
@@ -2529,6 +2593,14 @@
       "onboard_time": 1760628202,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15023,
+      "num": 144901,
+      "word": "把孩子教成野人是否涉嫌虐待儿童",
+      "onboard_time": 1760693724,
+      "rank": 37,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 14730,

@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760693301867,
+  "endTime": 1760694055899,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3904292,
+      "num": 207797,
+      "word": "杨振宁",
+      "onboard_time": 1760692041,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2718548,
       "num": 242786,
       "word": "刘轩丞称女生是家里亲戚",
@@ -57,14 +65,6 @@
       "onboard_time": 1760537243,
       "rank": 11,
       "category": "网红"
-    },
-    {
-      "raw_hot": 2297014,
-      "num": 169124,
-      "word": "杨振宁",
-      "onboard_time": 1760692041,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2289458,
@@ -1363,6 +1363,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 630492,
+      "num": 199976,
+      "word": "黄子韬徐艺洋婚礼主桌视角",
+      "onboard_time": 1760689223,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 629841,
       "num": 222855,
       "word": "曝赵丽颖签约新经纪人",
@@ -1409,14 +1417,6 @@
       "onboard_time": 1760595681,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 613364,
-      "num": 192248,
-      "word": "黄子韬徐艺洋婚礼主桌视角",
-      "onboard_time": 1760689223,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 613237,
@@ -2139,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 478626,
+      "num": 478626,
+      "word": "KT对战TES",
+      "onboard_time": 1760688022,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 477999,
       "num": 477999,
       "word": "亚锦赛撤下台湾地区伪旗",
@@ -2315,6 +2323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 463297,
+      "num": 191738,
+      "word": "克拉拉官宣离婚",
+      "onboard_time": 1760692941,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459383,
       "num": 189495,
       "word": "邓莎哭着说从20多岁就开始当妈",
@@ -2409,6 +2425,14 @@
       "onboard_time": 1760501240,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 445439,
+      "num": 445439,
+      "word": "KT战胜TES",
+      "onboard_time": 1760693842,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 445178,
@@ -3019,6 +3043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 362369,
+      "num": 362369,
+      "word": "TES皇子",
+      "onboard_time": 1760691200,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 361369,
       "num": 361369,
       "word": "水龙吟",
@@ -3372,7 +3404,7 @@
     },
     {
       "raw_hot": 318839,
-      "num": 161280,
+      "num": 166226,
       "word": "蔡威泽回应周杰伦",
       "onboard_time": 1760691441,
       "rank": 20,
@@ -3481,6 +3513,14 @@
       "onboard_time": 1760347941,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310763,
+      "num": 310763,
+      "word": "何卫东等9人被开除党籍军籍",
+      "onboard_time": 1760693962,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309613,
@@ -4387,14 +4427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 249273,
-      "num": 249273,
-      "word": "TES皇子",
-      "onboard_time": 1760691200,
-      "rank": 5,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 248852,
       "num": 248852,
       "word": "现在就出发3定档节奏",
@@ -4844,7 +4876,7 @@
     },
     {
       "raw_hot": 224082,
-      "num": 159228,
+      "num": 166323,
       "word": "张若昀牵手就牵手还把人往怀里带",
       "onboard_time": 1760691802,
       "rank": 23,
@@ -5123,14 +5155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 209919,
-      "num": 157888,
-      "word": "克拉拉官宣离婚",
-      "onboard_time": 1760692941,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209853,
       "num": 209853,
       "word": "刘晓庆说的不背词演员是谁",
@@ -5193,14 +5217,6 @@
       "onboard_time": 1760499080,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 207829,
-      "num": 207829,
-      "word": "KT对战TES",
-      "onboard_time": 1760688022,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 207575,
@@ -6867,6 +6883,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166417,
+      "num": 166417,
+      "word": "关晓彤脱鞋证明自己172",
+      "onboard_time": 1760693661,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166320,
+      "num": 166320,
+      "word": "金晨体态",
+      "onboard_time": 1760691142,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165845,
       "num": 165845,
       "word": "王源画的不错下次别画了",
@@ -7081,6 +7113,14 @@
       "onboard_time": 1760226078,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 161438,
+      "num": 161438,
+      "word": "徐艺洋 你可以全程站我们右边吗",
+      "onboard_time": 1760692762,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 161437,
@@ -7595,14 +7635,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 153806,
-      "num": 153806,
-      "word": "金晨体态",
-      "onboard_time": 1760691142,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153777,
       "num": 153777,
       "word": "王俊凯出发NBA名人赛",
@@ -7681,6 +7713,14 @@
       "onboard_time": 1760331444,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152883,
+      "num": 152883,
+      "word": "摄影店用粉蓝相框暗示胎儿性别被罚",
+      "onboard_time": 1760693482,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152838,
@@ -8227,12 +8267,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 145144,
+      "num": 145144,
+      "word": "龚俊 长的漂亮给你多吃点",
+      "onboard_time": 1760693242,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144925,
       "num": 144925,
       "word": "李禹熹要求荣梓杉道歉",
       "onboard_time": 1760539405,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144824,
+      "num": 144823,
+      "word": "7种癌症最喜欢的饮食习惯",
+      "onboard_time": 1760690420,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144662,
@@ -8465,14 +8521,6 @@
       "onboard_time": 1760336661,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141241,
-      "num": 141241,
-      "word": "徐艺洋 你可以全程站我们右边吗",
-      "onboard_time": 1760692762,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 141217,
@@ -8785,6 +8833,14 @@
       "onboard_time": 1760188402,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137032,
+      "num": 163278,
+      "word": "山东智己车主事故后称仍选智己",
+      "onboard_time": 1760691921,
+      "rank": 28,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 136997,
@@ -9987,6 +10043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124149,
+      "num": 124149,
+      "word": "外公在天上急得团团转",
+      "onboard_time": 1760692224,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124143,
       "num": 124143,
       "word": "李沁打戏",
@@ -10675,6 +10739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118754,
+      "num": 118754,
+      "word": "为中国航天点赞",
+      "onboard_time": 1760485759,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 118603,
       "num": 118603,
       "word": "蒯曼vs吉尼帕",
@@ -10979,20 +11051,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 116869,
-      "num": 116869,
-      "word": "7种癌症最喜欢的饮食习惯",
-      "onboard_time": 1760690420,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 116754,
       "num": 116754,
       "word": "花海吃上大学食堂了",
       "onboard_time": 1760424142,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116753,
+      "num": 116753,
+      "word": "广东女篮发文悼念杨父",
+      "onboard_time": 1760693962,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 116657,
@@ -11745,14 +11817,6 @@
       "onboard_time": 1760658140,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 110875,
-      "num": 155370,
-      "word": "山东智己车主事故后称仍选智己",
-      "onboard_time": 1760691921,
-      "rank": 28,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 110788,
@@ -12577,14 +12641,6 @@
       "onboard_time": 1760685801,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105426,
-      "num": 105426,
-      "word": "龚俊 长的漂亮给你多吃点",
-      "onboard_time": 1760693242,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 105316,
@@ -13689,6 +13745,14 @@
       "onboard_time": 1760598020,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 97015,
+      "num": 146689,
+      "word": "内娱马上要热闹起来了",
+      "onboard_time": 1760692281,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 96921,
@@ -15163,14 +15227,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 85428,
-      "num": 85428,
-      "word": "为中国航天点赞",
-      "onboard_time": 1760485759,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 85406,
       "num": 85406,
       "word": "法考主观题答案",
@@ -15401,6 +15457,14 @@
       "onboard_time": 1760651773,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 83765,
+      "num": 113931,
+      "word": "深情眼前十唯一现偶",
+      "onboard_time": 1760688682,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 83728,
@@ -16209,14 +16273,6 @@
       "onboard_time": 1760414240,
       "rank": 40,
       "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 77623,
-      "num": 94223,
-      "word": "深情眼前十唯一现偶",
-      "onboard_time": 1760688682,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 77344,
@@ -17219,6 +17275,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 64903,
+      "num": 162477,
+      "word": "镇政府回应野人小孩上学问题",
+      "onboard_time": 1760692402,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64596,
       "num": 48834,
       "word": "再懒都要做凯格尔运动",
@@ -17521,14 +17585,6 @@
       "onboard_time": 1760284400,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 59904,
-      "num": 128924,
-      "word": "内娱马上要热闹起来了",
-      "onboard_time": 1760692281,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 59791,
@@ -18011,6 +18067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51667,
+      "num": 129760,
+      "word": "甘肃一垃圾转运车向渭河倾倒垃圾",
+      "onboard_time": 1760692460,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 51662,
       "num": 69216,
       "word": "警方核实野人小孩监护人俱在",
@@ -18033,6 +18097,14 @@
       "onboard_time": 1760484979,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51329,
+      "num": 144827,
+      "word": "付航 内向人格",
+      "onboard_time": 1760693902,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 51245,
@@ -18177,6 +18249,14 @@
       "onboard_time": 1760415441,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48175,
+      "num": 166416,
+      "word": "墨墨背单词助记内容被指低俗擦边",
+      "onboard_time": 1760693122,
+      "rank": 29,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 48167,
@@ -18361,6 +18441,14 @@
       "onboard_time": 1760349020,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 45604,
+      "num": 144824,
+      "word": "张馨予 脸在江山在",
+      "onboard_time": 1760693001,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 45598,
@@ -18563,14 +18651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42284,
-      "num": 162477,
-      "word": "镇政府回应野人小孩上学问题",
-      "onboard_time": 1760692402,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41998,
       "num": 41998,
       "word": "许妍与父母和解",
@@ -18723,14 +18803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 39408,
-      "num": 153924,
-      "word": "墨墨背单词助记内容被指低俗擦边",
-      "onboard_time": 1760693122,
-      "rank": 29,
-      "category": "民生新闻,互联网"
-    },
-    {
       "raw_hot": 39348,
       "num": 39348,
       "word": "爷爷就知道天天梳他的宝贝",
@@ -18761,14 +18833,6 @@
       "onboard_time": 1760338821,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38808,
-      "num": 126889,
-      "word": "张馨予 脸在江山在",
-      "onboard_time": 1760693001,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 38584,
@@ -18948,7 +19012,7 @@
     },
     {
       "raw_hot": 35572,
-      "num": 164997,
+      "num": 172783,
       "word": "三条纹闪耀上海时装周",
       "onboard_time": 1760692341,
       "rank": 16,
@@ -19435,14 +19499,6 @@
       "category": "艺人,互联网"
     },
     {
-      "raw_hot": 24112,
-      "num": 129760,
-      "word": "甘肃一垃圾转运车向渭河倾倒垃圾",
-      "onboard_time": 1760692460,
-      "rank": 37,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 24037,
       "num": 166910,
       "word": "女婿跳河砸窗救人岳父得知后请喝酒",
@@ -19833,6 +19889,14 @@
       "onboard_time": 1760513900,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15023,
+      "num": 144901,
+      "word": "把孩子教成野人是否涉嫌虐待儿童",
+      "onboard_time": 1760693724,
+      "rank": 37,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 14929,
