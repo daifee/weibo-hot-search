@@ -1,10 +1,10 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760696906909,
+  "endTime": 1760697808432,
   "band_list": [
     {
-      "raw_hot": 6183671,
-      "num": 7433671,
+      "raw_hot": 6997623,
+      "num": 8038150,
       "word": "何卫东等9人被开除党籍军籍",
       "onboard_time": 1760693962,
       "rank": 7,
@@ -163,12 +163,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 698479,
+      "num": 189755,
+      "word": "第五人格前瞻直播",
+      "onboard_time": 1760697142,
+      "rank": 10,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 686729,
       "num": 686729,
       "word": "电诈窝点墙上有血手印",
       "onboard_time": 1760681241,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 678522,
+      "num": 678522,
+      "word": "第五人格",
+      "onboard_time": 1760694981,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 677765,
@@ -219,14 +235,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 512420,
-      "num": 512420,
-      "word": "第五人格",
-      "onboard_time": 1760694981,
-      "rank": 4,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 492607,
       "num": 265872,
       "word": "杨幂已到家吃上豆腐脑了",
@@ -241,6 +249,14 @@
       "onboard_time": 1760688022,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 477278,
+      "num": 188438,
+      "word": "日本药 下料狠",
+      "onboard_time": 1760694861,
+      "rank": 14,
+      "category": "科学科普"
     },
     {
       "raw_hot": 476771,
@@ -283,6 +299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 432823,
+      "num": 187411,
+      "word": "小S 金钟奖",
+      "onboard_time": 1760695162,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 429718,
       "num": 436244,
       "word": "赵丽颖庆生照片",
@@ -323,22 +347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 378034,
-      "num": 169008,
-      "word": "小S 金钟奖",
-      "onboard_time": 1760695162,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 374971,
-      "num": 168904,
-      "word": "日本药 下料狠",
-      "onboard_time": 1760694861,
-      "rank": 14,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 362369,
       "num": 362369,
       "word": "TES皇子",
@@ -361,6 +369,14 @@
       "onboard_time": 1760616381,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354086,
+      "num": 354086,
+      "word": "摄影店用粉蓝相框暗示胎儿性别被罚",
+      "onboard_time": 1760693482,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334683,
@@ -433,14 +449,6 @@
       "onboard_time": 1760679922,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 307153,
-      "num": 307153,
-      "word": "摄影店用粉蓝相框暗示胎儿性别被罚",
-      "onboard_time": 1760693482,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 303538,
@@ -555,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253549,
+      "num": 183937,
+      "word": "关晓彤脱鞋证明自己172",
+      "onboard_time": 1760693661,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252028,
       "num": 178093,
       "word": "黄仁勋称英伟达中国份额从95%降至0",
@@ -595,12 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 233113,
-      "num": 168206,
-      "word": "关晓彤脱鞋证明自己172",
-      "onboard_time": 1760693661,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 233558,
+      "num": 233558,
+      "word": "金钟奖",
+      "onboard_time": 1760695822,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 232696,
@@ -609,6 +625,14 @@
       "onboard_time": 1760668522,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230308,
+      "num": 182306,
+      "word": "国考审核人员 好强的活人感",
+      "onboard_time": 1760696482,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 230161,
@@ -683,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218931,
+      "num": 181815,
+      "word": "张婧仪生图也太生了",
+      "onboard_time": 1760696601,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218133,
       "num": 235933,
       "word": "Gumayusi无法接受输给GEN",
@@ -723,6 +755,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 208483,
+      "num": 180953,
+      "word": "陈奕恒日本",
+      "onboard_time": 1760697202,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208275,
       "num": 208275,
       "word": "秋裤羽绒服该出场了",
@@ -747,20 +787,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 203844,
+      "num": 203844,
+      "word": "CFO对战AL",
+      "onboard_time": 1760695341,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199550,
       "num": 199550,
       "word": "邓莎和老公因为狗分居",
       "onboard_time": 1760677163,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196074,
-      "num": 154771,
-      "word": "国考审核人员 好强的活人感",
-      "onboard_time": 1760696482,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 195721,
@@ -785,6 +825,14 @@
       "onboard_time": 1760666181,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 190391,
+      "num": 190391,
+      "word": "入青云19集封神",
+      "onboard_time": 1760696903,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 189413,
@@ -851,6 +899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179790,
+      "num": 179790,
+      "word": "刘诗诗关晓彤 千里江山图",
+      "onboard_time": 1760696184,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178333,
       "num": 178333,
       "word": "孙颖莎王楚钦球迷写的歌火了",
@@ -859,12 +915,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177584,
-      "num": 177584,
-      "word": "金钟奖",
-      "onboard_time": 1760695822,
-      "rank": 8,
-      "category": "电影"
+      "raw_hot": 178028,
+      "num": 178028,
+      "word": "徐艺洋 你可以全程站我们右边吗",
+      "onboard_time": 1760692762,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 177512,
@@ -883,11 +939,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176987,
-      "num": 168155,
-      "word": "徐艺洋 你可以全程站我们右边吗",
-      "onboard_time": 1760692762,
-      "rank": 33,
+      "raw_hot": 176073,
+      "num": 176073,
+      "word": "金晨体态",
+      "onboard_time": 1760691142,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -929,14 +985,6 @@
       "onboard_time": 1760683520,
       "rank": 28,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 166320,
-      "num": 166320,
-      "word": "金晨体态",
-      "onboard_time": 1760691142,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 165845,
@@ -993,6 +1041,14 @@
       "onboard_time": 1760674102,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 157963,
+      "num": 157963,
+      "word": "吴佳怡回复于正",
+      "onboard_time": 1760697443,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 157812,
@@ -1131,12 +1187,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146397,
+      "num": 134982,
+      "word": "第五人格女王蜂",
+      "onboard_time": 1760697501,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 146305,
       "num": 146305,
       "word": "保安打死校内流浪狗遭开除",
       "onboard_time": 1760671581,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146185,
+      "num": 146185,
+      "word": "TES梦游",
+      "onboard_time": 1760697024,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 145927,
@@ -1299,14 +1371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 133744,
-      "num": 133744,
-      "word": "刘诗诗关晓彤 千里江山图",
-      "onboard_time": 1760696184,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133532,
       "num": 133532,
       "word": "网红柯铭 我饿死也不会找他们要钱",
@@ -1353,14 +1417,6 @@
       "onboard_time": 1760667561,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129954,
-      "num": 129954,
-      "word": "张婧仪生图也太生了",
-      "onboard_time": 1760696601,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 128429,
@@ -1497,14 +1553,6 @@
       "onboard_time": 1760678662,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117303,
-      "num": 155675,
-      "word": "CFO对战AL",
-      "onboard_time": 1760695341,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 116976,
@@ -1659,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110179,
+      "num": 110179,
+      "word": "那艺娜时尚芭莎 巨星Ladynana",
+      "onboard_time": 1760697262,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 108937,
       "num": 141773,
       "word": "李沁说七老童心都不矫情",
@@ -1697,6 +1753,14 @@
       "onboard_time": 1760620405,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106608,
+      "num": 106608,
+      "word": "时尚芭莎",
+      "onboard_time": 1760697683,
+      "rank": 49,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 106280,
@@ -1985,6 +2049,14 @@
       "onboard_time": 1760625984,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89477,
+      "num": 144631,
+      "word": "学霸夫妻非洲卖纸尿裤年入32亿",
+      "onboard_time": 1760696844,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89226,
@@ -2563,14 +2635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40486,
-      "num": 144631,
-      "word": "学霸夫妻非洲卖纸尿裤年入32亿",
-      "onboard_time": 1760696844,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40237,
       "num": 69167,
       "word": "男人的花期到底能有多短",
@@ -2585,6 +2649,14 @@
       "onboard_time": 1760624665,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37552,
+      "num": 146127,
+      "word": "官方回应云冈石窟大佛前办时装秀",
+      "onboard_time": 1760696601,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36908,
@@ -2673,14 +2745,6 @@
       "onboard_time": 1760621423,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28173,
-      "num": 146127,
-      "word": "官方回应云冈石窟大佛前办时装秀",
-      "onboard_time": 1760696601,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25963,
@@ -2811,6 +2875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 10369,
+      "num": 742057,
+      "word": "长征系列火箭55年累计发射600次",
+      "onboard_time": 1760667381,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 8843,
       "num": 807224,
       "word": "红星照耀中国",
@@ -2825,14 +2897,6 @@
       "onboard_time": 1760680881,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6142,
-      "num": 714912,
-      "word": "长征系列火箭55年累计发射600次",
-      "onboard_time": 1760667381,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

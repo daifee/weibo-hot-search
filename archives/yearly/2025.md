@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/10/17 18:28:26
+本榜单时间：2025/01/01 00:26:38 ~ 2025/10/17 18:43:28
 </p>
 </blockquote>
 <p>
@@ -1527,6 +1527,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%8D%AB%E4%B8%9C%E7%AD%899%E4%BA%BA%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%86%9B%E7%B1%8D%23" target="weibo">
+何卫东等9人被开除党籍军籍（热度：6997623）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E5%B0%8F%E8%8F%B2%E8%AF%84%E8%AE%BA%E5%A4%A7S%E8%80%81%E5%A9%86%E6%88%91%E5%A5%BD%E6%83%B3%E4%BD%A0%23" target="weibo">
 汪小菲评论大S老婆我好想你（热度：6995860）
 </a>
@@ -1637,12 +1643,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E8%96%87%E5%A4%AA%E7%89%9B%E4%BA%86%23" target="weibo">
 李佳薇太牛了（热度：6390116）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%8D%AB%E4%B8%9C%E7%AD%899%E4%BA%BA%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%86%9B%E7%B1%8D%23" target="weibo">
-何卫东等9人被开除党籍军籍（热度：6183671）
 </a>
 </li>
 

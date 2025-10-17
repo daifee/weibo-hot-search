@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 18:28:26
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 18:43:28
 </p>
 </blockquote>
 <p>
@@ -63,14 +63,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E9%A9%AC%E9%A0%94%E7%BB%93%E5%A9%9A%23" target="weibo">
-李纯马頔结婚（热度：6668945）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%8D%AB%E4%B8%9C%E7%AD%899%E4%BA%BA%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%86%9B%E7%B1%8D%23" target="weibo">
+何卫东等9人被开除党籍军籍（热度：6997623）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%8D%AB%E4%B8%9C%E7%AD%899%E4%BA%BA%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%86%9B%E7%B1%8D%23" target="weibo">
-何卫东等9人被开除党籍军籍（热度：6183671）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E9%A9%AC%E9%A0%94%E7%BB%93%E5%A9%9A%23" target="weibo">
+李纯马頔结婚（热度：6668945）
 </a>
 </li>
 
@@ -2745,6 +2745,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%89%8D%E7%9E%BB%E7%9B%B4%E6%92%AD%23" target="weibo">
+第五人格前瞻直播（热度：698479）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%9B%9E%E5%BA%94%E5%84%BF%E5%AD%90%E4%B8%8E%E9%9F%A6%E9%9B%AA%E6%81%8B%E6%83%85%23" target="weibo">
 妈妈回应儿子与韦雪恋情（热度：698021）
 </a>
@@ -2897,6 +2903,12 @@ AL战胜HLE（热度：684053）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4ins%23" target="weibo">
 迪丽热巴ins（热度：679763）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%23" target="weibo">
+第五人格（热度：678522）
 </a>
 </li>
 
@@ -4539,12 +4551,6 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%23" target="weibo">
-第五人格（热度：512420）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A510%E6%9C%888%E6%97%A5%E6%AD%A3%E5%B8%B8%E5%87%BA%E6%91%8A%23" target="weibo">
 鸡排哥10月8日正常出摊（热度：512017）
 </a>
@@ -5051,6 +5057,12 @@ TheShy回应上单韦鲁斯（热度：477977）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A546%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A7%82%E8%B5%9B%E6%9C%9F%E9%97%B4%E5%8F%AB%E5%96%8A%23" target="weibo">
 警方通报46岁女子观赛期间叫喊（热度：477334）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%8D%AF%20%E4%B8%8B%E6%96%99%E7%8B%A0%23" target="weibo">
+日本药 下料狠（热度：477278）
 </a>
 </li>
 
@@ -5751,6 +5763,12 @@ Dior连发4条迪丽热巴（热度：434111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%20%E9%87%91%E9%92%9F%E5%A5%96%23" target="weibo">
+小S 金钟奖（热度：432823）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%9B%9E%E5%BA%94%E9%85%8D%E9%80%81%E5%91%98%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%8C%82%E6%BB%A1%E5%A4%A7%E4%BB%B6%E8%B4%A7%E7%89%A9%23" target="weibo">
 山姆回应配送员电动车挂满大件货物（热度：432554）
 </a>
@@ -5993,24 +6011,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E7%BA%B6%E9%95%8141%E5%B2%81%E7%8A%B6%E6%80%81%23" target="weibo">
 桂纶镁41岁状态（热度：418762）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E4%B8%80%E5%95%86%E5%9C%BA%E7%BA%A2%E5%8C%85%E9%9B%A8%E8%87%B4%E4%BA%BA%E7%BE%A4%E6%8B%A5%E6%8C%A4%E5%8F%97%E4%BC%A4%23" target="weibo">
-三亚一商场红包雨致人群拥挤受伤（热度：418691）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%B9%E9%9D%A2%E7%94%B7%E5%AD%A9%E7%A7%B0%E5%86%8D%E6%B4%972%E6%AC%A1%E7%BA%B9%E8%BA%AB%E5%B0%B1%E5%B9%B2%E5%87%80%E4%BA%86%23" target="weibo">
-纹面男孩称再洗2次纹身就干净了（热度：418381）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%96%B0%E5%8F%91%E5%9E%8B%23" target="weibo">
-辛芷蕾新发型（热度：417546）
 </a>
 </li>
 
