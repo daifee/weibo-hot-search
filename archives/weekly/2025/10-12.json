@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760722801645,
+  "endTime": 1760726017722,
   "band_list": [
     {
       "raw_hot": 9427103,
@@ -19507,6 +19507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48194,
+      "num": 80064,
+      "word": "冷帽",
+      "onboard_time": 1760721618,
+      "rank": 49,
+      "category": "时尚,休闲"
+    },
+    {
       "raw_hot": 48175,
       "num": 166416,
       "word": "墨墨背单词助记内容被指低俗擦边",
@@ -19689,14 +19697,6 @@
       "onboard_time": 1760616740,
       "rank": 17,
       "category": "艺人,互联网"
-    },
-    {
-      "raw_hot": 46044,
-      "num": 80064,
-      "word": "冷帽",
-      "onboard_time": 1760721618,
-      "rank": 49,
-      "category": "时尚,休闲"
     },
     {
       "raw_hot": 45983,
@@ -20865,6 +20865,30 @@
       "onboard_time": 1760670082,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23536,
+      "num": 33653,
+      "word": "是时候打王牌对王牌商战了",
+      "onboard_time": 1760725636,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 23430,
+      "num": 33647,
+      "word": "音乐缘计划2先导片",
+      "onboard_time": 1760724916,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 23351,
+      "num": 33642,
+      "word": "白鹿鞭子舞",
+      "onboard_time": 1760724496,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 23133,
