@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/12 00:27:55 ~ 2025/10/18 07:22:24
+本榜单时间：2025/10/12 00:27:55 ~ 2025/10/18 07:36:49
 </p>
 </blockquote>
 <p>
@@ -7701,6 +7701,12 @@ vivoX300系列开箱测评（热度：130268）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E6%9D%BE%E5%BC%80%E5%BE%90%E8%89%BA%E6%B4%8B%E6%8C%BD%E5%88%98%E5%AE%87%E5%AE%81%23" target="weibo">
+黄子韬松开徐艺洋挽刘宇宁（热度：130175）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E8%B5%90%E7%9A%84%E5%A3%B0%E9%9F%B3%E5%AF%BC%E6%BC%94%E5%8F%91%E4%BA%86%E8%8B%8F%E6%96%B0%E7%9A%93%23" target="weibo">
 天赐的声音导演发了苏新皓（热度：130014）
 </a>
@@ -9585,6 +9591,12 @@ LPL众人合唱出征曲（热度：111351）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E5%BE%90%E8%80%81%E5%8F%91%E6%9A%B4%E5%8A%9B%E6%80%A7%E4%B8%8D%E4%BA%9A%E4%BA%8E%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%23" target="weibo">
+缅北徐老发暴力性不亚于四大家族（热度：110859）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23S15%E6%8F%AD%E5%B9%95%E6%88%98%E6%8A%95%E7%A5%A8%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83%23" target="weibo">
 S15揭幕战投票结果公布（热度：110788）
 </a>
@@ -9977,12 +9989,6 @@ Rookie找回状态（热度：107733）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%8A%9D%E9%80%80%E6%97%A0%E9%A2%9C%E5%80%BC%E4%BC%98%E5%8A%BF%E7%B4%A0%E4%BA%BA%E8%87%AA%E8%8D%90%E5%BD%93%E6%BC%94%E5%91%98%23" target="weibo">
 于正劝退无颜值优势素人自荐当演员（热度：107696）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E5%BE%90%E8%80%81%E5%8F%91%E6%9A%B4%E5%8A%9B%E6%80%A7%E4%B8%8D%E4%BA%9A%E4%BA%8E%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%23" target="weibo">
-缅北徐老发暴力性不亚于四大家族（热度：107672）
 </a>
 </li>
 
@@ -10859,6 +10865,12 @@ Kael神了（热度：101819）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B3%E8%A3%95%E6%96%8C%E6%99%92%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%92%AF%E6%9B%BC%E5%90%88%E5%BD%B1%23" target="weibo">
 申裕斌晒孙颖莎王曼昱蒯曼合影（热度：100676）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%9A%B4%E9%9B%A8%23" target="weibo">
+上海暴雨（热度：100524）
 </a>
 </li>
 
@@ -14349,6 +14361,12 @@ Peanut回应最后一舞（热度：56570）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E7%BC%93%E8%A7%A3%E4%BE%BF%E7%A7%98%E7%9A%843%E7%A7%8D%E9%A3%9F%E7%89%A9%23" target="weibo">
+真正缓解便秘的3种食物（热度：55572）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%AC%AC%E4%B8%80%E8%A1%A5%E6%98%AF%E6%8A%96%E9%9F%B3%E5%8F%8C11%E7%BB%99%E7%9A%84%23" target="weibo">
 秋天的第一补是抖音双11给的（热度：55506）
 </a>
@@ -14487,6 +14505,12 @@ OPPOFindX9首发4K超清实况（热度：52631）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E6%89%93%E9%9B%B7%23" target="weibo">
+上海打雷（热度：52403）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%992%E6%AF%942%E5%8C%88%E7%89%99%E5%88%A9%23" target="weibo">
 葡萄牙2比2匈牙利（热度：52313）
 </a>
@@ -14615,12 +14639,6 @@ OPPOFindX9首发4K超清实况（热度：52631）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9D%90%E5%BE%97%E5%A5%BD%E6%9D%BF%E6%AD%A3%23" target="weibo">
 孙颖莎坐得好板正（热度：49794）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E6%AD%A3%E7%BC%93%E8%A7%A3%E4%BE%BF%E7%A7%98%E7%9A%843%E7%A7%8D%E9%A3%9F%E7%89%A9%23" target="weibo">
-真正缓解便秘的3种食物（热度：49615）
 </a>
 </li>
 
@@ -14865,6 +14883,12 @@ vivoX300系列全系适配增距镜（热度：46358）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%BF%E5%AD%90%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BE%88%E5%85%A8%E8%83%BD%E7%9A%84%E6%B0%B4%E6%9E%9C%23" target="weibo">
+柿子是一种很全能的水果（热度：44608）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%BC%96%E5%B9%B4%E9%BE%84%E6%9D%BE%E7%BB%91%E8%83%BD%E6%89%93%E7%A0%B4%E8%81%8C%E5%9C%BA35%E5%B2%81%E9%97%A8%E6%A7%9B%E5%90%97%23" target="weibo">
 考编年龄松绑能打破职场35岁门槛吗（热度：44501）
 </a>
@@ -14969,12 +14993,6 @@ vivo还是太听劝了（热度：44040）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%BD%E7%8C%AB%E7%9B%92%E9%9B%86%E7%8C%AB%E7%8C%AB%E5%BE%97%E7%BA%A2%E5%8C%85%23" target="weibo">
 抽猫盒集猫猫得红包（热度：42723）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%BF%E5%AD%90%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BE%88%E5%85%A8%E8%83%BD%E7%9A%84%E6%B0%B4%E6%9E%9C%23" target="weibo">
-柿子是一种很全能的水果（热度：42515）
 </a>
 </li>
 
@@ -15917,6 +15935,12 @@ S15倒计时2天（热度：21607）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E8%92%99%E7%9C%BC%E6%89%93%E6%88%8F%E5%8F%88%E5%B8%85%E5%8F%88%E4%BB%99%23" target="weibo">
 成毅蒙眼打戏又帅又仙（热度：18718）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E6%89%93%E7%AE%97%E4%BE%9B%E4%B9%8C%E6%88%98%E6%96%A7%E5%AF%BC%E5%BC%B9%23" target="weibo">
+特朗普称不打算供乌战斧导弹（热度：18540）
 </a>
 </li>
 
