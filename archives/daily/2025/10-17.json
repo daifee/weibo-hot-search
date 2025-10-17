@@ -1,10 +1,10 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760672947440,
+  "endTime": 1760675463112,
   "band_list": [
     {
       "raw_hot": 1713011,
-      "num": 203087,
+      "num": 267289,
       "word": "微信 一删皆空",
       "onboard_time": 1760663901,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1142464,
-      "num": 203634,
+      "num": 266840,
       "word": "咬嘴 口腔癌",
       "onboard_time": 1760667321,
       "rank": 12,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1048474,
-      "num": 202087,
+      "num": 266153,
       "word": "迪丽热巴代言骆驼",
       "onboard_time": 1760668822,
       "rank": 11,
@@ -52,15 +52,23 @@
     },
     {
       "raw_hot": 818648,
-      "num": 196215,
+      "num": 264439,
       "word": "黄金",
       "onboard_time": 1760659760,
       "rank": 20,
       "category": "财经"
     },
     {
+      "raw_hot": 806805,
+      "num": 267396,
+      "word": "刘奕畅被曝酒后围殴他人",
+      "onboard_time": 1760672781,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 801008,
-      "num": 201727,
+      "num": 266725,
       "word": "逼员工卖淫女嫌犯因外貌在日本走红",
       "onboard_time": 1760662762,
       "rank": 11,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 677765,
-      "num": 195464,
+      "num": 266267,
       "word": "李茂自曝在弦子洗澡时求婚",
       "onboard_time": 1760670142,
       "rank": 31,
@@ -92,11 +100,19 @@
     },
     {
       "raw_hot": 530172,
-      "num": 200604,
+      "num": 253280,
       "word": "加微信一定要别人扫我",
       "onboard_time": 1760667321,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 461164,
+      "num": 265872,
+      "word": "杨幂已到家吃上豆腐脑了",
+      "onboard_time": 1760670982,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 457282,
@@ -121,14 +137,6 @@
       "onboard_time": 1760628622,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 410953,
-      "num": 194120,
-      "word": "杨幂已到家吃上豆腐脑了",
-      "onboard_time": 1760670982,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 378151,
@@ -195,6 +203,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282155,
+      "num": 263611,
+      "word": "在美读博中国小伙被控下药鸡奸罪",
+      "onboard_time": 1760673201,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 281393,
+      "num": 281393,
+      "word": "杨瀚森6犯离场",
+      "onboard_time": 1760673502,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269871,
       "num": 269871,
       "word": "iPhoneAir正式开售",
@@ -203,8 +227,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 263592,
+      "num": 263592,
+      "word": "700万兰博基尼遭暴力审车",
+      "onboard_time": 1760673982,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262835,
-      "num": 262835,
+      "num": 268327,
       "word": "石破茂再向靖国神社供奉祭品",
       "onboard_time": 1760670681,
       "rank": 26,
@@ -260,7 +292,7 @@
     },
     {
       "raw_hot": 217990,
-      "num": 217990,
+      "num": 267890,
       "word": "你见过全圆彩虹吗",
       "onboard_time": 1760667021,
       "rank": 16,
@@ -291,20 +323,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194086,
-      "num": 194085,
-      "word": "刘奕畅被曝酒后围殴他人",
-      "onboard_time": 1760672781,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 192636,
       "num": 192636,
       "word": "拉肚子 用水冲洗",
       "onboard_time": 1760666181,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 189516,
+      "num": 184170,
+      "word": "刘宇宁陪黄子韬敬酒",
+      "onboard_time": 1760675245,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 189413,
@@ -315,12 +347,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186508,
+      "num": 268596,
+      "word": "美国一储藏约816吨大豆粮仓倒塌",
+      "onboard_time": 1760675003,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 184605,
       "num": 184605,
       "word": "命悬一生烂芒果",
       "onboard_time": 1760671040,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183923,
+      "num": 183923,
+      "word": "直接报TOP名字得了",
+      "onboard_time": 1760674882,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183808,
+      "num": 183808,
+      "word": "先天考公圣体",
+      "onboard_time": 1760674461,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 178333,
+      "num": 178333,
+      "word": "孙颖莎王楚钦球迷写的歌火了",
+      "onboard_time": 1760673563,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 177512,
@@ -355,6 +419,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 168022,
+      "num": 168022,
+      "word": "王者荣耀 是初恋是冰释前嫌的前任",
+      "onboard_time": 1760673741,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 167928,
       "num": 178886,
       "word": "一年一度生气综艺",
@@ -387,12 +459,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 151093,
+      "num": 151093,
+      "word": "毛衣原来可以不起球啊",
+      "onboard_time": 1760675245,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 150731,
       "num": 430848,
       "word": "陈哲远发红包",
       "onboard_time": 1760615182,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149480,
+      "num": 149480,
+      "word": "罗云熙熙妃回宫",
+      "onboard_time": 1760671102,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 148223,
@@ -409,6 +497,14 @@
       "onboard_time": 1760668941,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145927,
+      "num": 145927,
+      "word": "秦天宇演技",
+      "onboard_time": 1760674282,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 144994,
@@ -443,6 +539,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141229,
+      "num": 141229,
+      "word": "A股",
+      "onboard_time": 1760667381,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 141073,
+      "num": 264896,
+      "word": "洗衣机用完该不该开门晾着",
+      "onboard_time": 1760674102,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 141070,
       "num": 443040,
       "word": "上海地铁称地铁一词统一译为metro",
@@ -459,20 +571,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 139118,
-      "num": 139118,
-      "word": "A股",
-      "onboard_time": 1760667381,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 138386,
       "num": 194399,
       "word": "樊振东ProMax状态太能打",
       "onboard_time": 1760670201,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137505,
+      "num": 137505,
+      "word": "央视鸿蒙星光盛典定档",
+      "onboard_time": 1760674583,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 136366,
@@ -523,6 +635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133490,
+      "num": 133490,
+      "word": "比亚迪召回115783辆汽车",
+      "onboard_time": 1760673982,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 132187,
       "num": 132187,
       "word": "杨瀚森又进三分球了",
@@ -547,14 +667,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 123217,
-      "num": 123217,
-      "word": "罗云熙熙妃回宫",
-      "onboard_time": 1760671102,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121943,
       "num": 197789,
       "word": "零跑D19纯电500km刷新增程纪录",
@@ -569,6 +681,14 @@
       "onboard_time": 1760660241,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 119090,
+      "num": 149353,
+      "word": "终于有剧拍出了堕落的第一口",
+      "onboard_time": 1760674642,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 117798,
@@ -643,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105325,
+      "num": 265540,
+      "word": "日本前首相村山富市去世",
+      "onboard_time": 1760675123,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105176,
       "num": 105176,
       "word": "doinb谈cfo战胜t1",
@@ -665,6 +793,14 @@
       "onboard_time": 1760670801,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100665,
+      "num": 147519,
+      "word": "金价一夜暴涨有投资者彻夜难眠",
+      "onboard_time": 1760675182,
+      "rank": 38,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 99247,
@@ -721,6 +857,14 @@
       "onboard_time": 1760666661,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92461,
+      "num": 141773,
+      "word": "李沁说七老童心都不矫情",
+      "onboard_time": 1760674223,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 90639,
@@ -1011,6 +1155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 64721,
+      "num": 265179,
+      "word": "豪华品牌里第一台具有性价比的车",
+      "onboard_time": 1760672121,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 64494,
       "num": 69217,
       "word": "苦练化妆就为了这张学信网照片",
@@ -1033,14 +1185,6 @@
       "onboard_time": 1760616442,
       "rank": 28,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 60458,
-      "num": 194105,
-      "word": "豪华品牌里第一台具有性价比的车",
-      "onboard_time": 1760672121,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 58959,
@@ -1081,6 +1225,14 @@
       "onboard_time": 1760624424,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54925,
+      "num": 141474,
+      "word": "0人看完这两分钟能不哭",
+      "onboard_time": 1760673262,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 52918,
@@ -1267,6 +1419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23126,
+      "num": 146306,
+      "word": "国外男子把女儿留车内致其热死",
+      "onboard_time": 1760674461,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 21671,
       "num": 34492,
       "word": "感觉看了一集无耻之徒",
@@ -1331,7 +1491,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 2956,
+      "raw_hot": 3291,
       "num": 515110,
       "word": "红星照耀中国",
       "onboard_time": 1760593821,

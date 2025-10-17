@@ -1,0 +1,410 @@
+{
+  "runTime": 1760675463112,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 615658,
+        "num": 1098505,
+        "word": "辽宁失联4岁女童已找到",
+        "onboard_time": 1760669242,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418924,
+        "num": 418924,
+        "word": "银行长期不动账户将被清理",
+        "onboard_time": 1760662521,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 3291,
+        "num": 334055,
+        "word": "红星照耀中国",
+        "onboard_time": 1760593821,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306845,
+        "num": 306845,
+        "word": "杭州有人600元时囤150万黄金",
+        "onboard_time": 1760663482,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 281393,
+        "num": 281393,
+        "word": "杨瀚森6犯离场",
+        "onboard_time": 1760673502,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268833,
+        "num": 268833,
+        "word": "水龙吟",
+        "onboard_time": 1760669301,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186508,
+        "num": 268596,
+        "word": "美国一储藏约816吨大豆粮仓倒塌",
+        "onboard_time": 1760675003,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183542,
+        "num": 268327,
+        "word": "石破茂再向靖国神社供奉祭品",
+        "onboard_time": 1760670681,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173291,
+        "num": 268097,
+        "word": "成毅说演员先做人再演戏",
+        "onboard_time": 1760616381,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155368,
+        "num": 267890,
+        "word": "你见过全圆彩虹吗",
+        "onboard_time": 1760667021,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 806805,
+        "num": 267396,
+        "word": "刘奕畅被曝酒后围殴他人",
+        "onboard_time": 1760672781,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 760403,
+        "num": 267289,
+        "word": "微信 一删皆空",
+        "onboard_time": 1760663901,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 757538,
+        "num": 266840,
+        "word": "咬嘴 口腔癌",
+        "onboard_time": 1760667321,
+        "rank": 12,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 736326,
+        "num": 266725,
+        "word": "逼员工卖淫女嫌犯因外貌在日本走红",
+        "onboard_time": 1760662762,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 633730,
+        "num": 266267,
+        "word": "李茂自曝在弦子洗澡时求婚",
+        "onboard_time": 1760670142,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 506810,
+        "num": 266153,
+        "word": "迪丽热巴代言骆驼",
+        "onboard_time": 1760668822,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461164,
+        "num": 265872,
+        "word": "杨幂已到家吃上豆腐脑了",
+        "onboard_time": 1760670982,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105325,
+        "num": 265540,
+        "word": "日本前首相村山富市去世",
+        "onboard_time": 1760675123,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64721,
+        "num": 265179,
+        "word": "豪华品牌里第一台具有性价比的车",
+        "onboard_time": 1760672121,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 141073,
+        "num": 264896,
+        "word": "洗衣机用完该不该开门晾着",
+        "onboard_time": 1760674102,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153454,
+        "num": 264544,
+        "word": "知乎崩了",
+        "onboard_time": 1760664681,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 416734,
+        "num": 264439,
+        "word": "黄金",
+        "onboard_time": 1760659760,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 346414,
+        "num": 264003,
+        "word": "黄子韬婚礼归国四子一缺三",
+        "onboard_time": 1760627964,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282155,
+        "num": 263611,
+        "word": "在美读博中国小伙被控下药鸡奸罪",
+        "onboard_time": 1760673201,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 263592,
+        "num": 263592,
+        "word": "700万兰博基尼遭暴力审车",
+        "onboard_time": 1760673982,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253280,
+        "num": 253280,
+        "word": "加微信一定要别人扫我",
+        "onboard_time": 1760667321,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184248,
+        "num": 184248,
+        "word": "女子卖26万结婚五金赚18.4万",
+        "onboard_time": 1760668700,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189516,
+        "num": 184170,
+        "word": "刘宇宁陪黄子韬敬酒",
+        "onboard_time": 1760675245,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183923,
+        "num": 183923,
+        "word": "直接报TOP名字得了",
+        "onboard_time": 1760674882,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129069,
+        "num": 183828,
+        "word": "命悬一生烂芒果",
+        "onboard_time": 1760671040,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183808,
+        "num": 183808,
+        "word": "先天考公圣体",
+        "onboard_time": 1760674461,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178333,
+        "num": 178333,
+        "word": "孙颖莎王楚钦球迷写的歌火了",
+        "onboard_time": 1760673563,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168022,
+        "num": 168022,
+        "word": "王者荣耀 是初恋是冰释前嫌的前任",
+        "onboard_time": 1760673741,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151093,
+        "num": 151093,
+        "word": "毛衣原来可以不起球啊",
+        "onboard_time": 1760675245,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149480,
+        "num": 149480,
+        "word": "罗云熙熙妃回宫",
+        "onboard_time": 1760671102,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127250,
+        "num": 149369,
+        "word": "樊振东ProMax状态太能打",
+        "onboard_time": 1760670201,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119090,
+        "num": 149353,
+        "word": "终于有剧拍出了堕落的第一口",
+        "onboard_time": 1760674642,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149346,
+        "num": 149346,
+        "word": "拉肚子 用水冲洗",
+        "onboard_time": 1760666181,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100665,
+        "num": 147519,
+        "word": "金价一夜暴涨有投资者彻夜难眠",
+        "onboard_time": 1760675182,
+        "rank": 38,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 23126,
+        "num": 146306,
+        "word": "国外男子把女儿留车内致其热死",
+        "onboard_time": 1760674461,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145927,
+        "num": 145927,
+        "word": "秦天宇演技",
+        "onboard_time": 1760674282,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145635,
+        "num": 145635,
+        "word": "女童走失超40小时找回救援队发声",
+        "onboard_time": 1760671581,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92461,
+        "num": 141773,
+        "word": "李沁说七老童心都不矫情",
+        "onboard_time": 1760674223,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54925,
+        "num": 141474,
+        "word": "0人看完这两分钟能不哭",
+        "onboard_time": 1760673262,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141229,
+        "num": 141229,
+        "word": "A股",
+        "onboard_time": 1760667381,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 64162,
+        "num": 139232,
+        "word": "零跑D19纯电500km刷新增程纪录",
+        "onboard_time": 1760670201,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 137505,
+        "num": 137505,
+        "word": "央视鸿蒙星光盛典定档",
+        "onboard_time": 1760674583,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 133490,
+        "num": 133490,
+        "word": "比亚迪召回115783辆汽车",
+        "onboard_time": 1760673982,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130009,
+        "num": 130009,
+        "word": "钟丽缇张伦硕回应贪财好色吃嫩草",
+        "onboard_time": 1760669542,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82637,
+        "num": 129512,
+        "word": "你好种地少年",
+        "onboard_time": 1760668522,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领筑牢国家粮食安全#"
+    }
+  }
+}
