@@ -1,7 +1,31 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760657809080,
+  "endTime": 1760665910656,
   "band_list": [
+    {
+      "raw_hot": 1205291,
+      "num": 175714,
+      "word": "微信 一删皆空",
+      "onboard_time": 1760663901,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 947064,
+      "num": 1151530,
+      "word": "知乎崩了",
+      "onboard_time": 1760664681,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 943011,
+      "num": 943011,
+      "word": "银行长期不动账户将被清理",
+      "onboard_time": 1760662521,
+      "rank": 1,
+      "category": "财经"
+    },
     {
       "raw_hot": 936620,
       "num": 437728,
@@ -11,12 +35,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 818648,
+      "num": 145923,
+      "word": "黄金",
+      "onboard_time": 1760659760,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 777089,
+      "num": 175009,
+      "word": "逼员工卖淫女嫌犯因外貌在日本走红",
+      "onboard_time": 1760662762,
+      "rank": 11,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 457282,
       "num": 881312,
       "word": "新西兰从韩国抢回造船订单塞给中国",
       "onboard_time": 1760639416,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 455449,
+      "num": 455449,
+      "word": "杭州有人600元时囤150万黄金",
+      "onboard_time": 1760663482,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 429718,
@@ -59,6 +107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 286880,
+      "num": 141542,
+      "word": "鹿晗没去黄子韬婚礼",
+      "onboard_time": 1760660180,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282553,
       "num": 433741,
       "word": "刘宇宁坐黄子韬婚礼主桌",
@@ -89,6 +145,38 @@
       "onboard_time": 1760621364,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 180927,
+      "num": 180927,
+      "word": "秘鲁男子遭自家斗鸡攻击致死",
+      "onboard_time": 1760663962,
+      "rank": 7,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 178489,
+      "num": 178489,
+      "word": "秋裤羽绒服该出场了",
+      "onboard_time": 1760661442,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 177512,
+      "num": 177512,
+      "word": "俄美总统通话细节",
+      "onboard_time": 1760662101,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 175555,
+      "num": 132669,
+      "word": "一旦染上了早睡",
+      "onboard_time": 1760659221,
+      "rank": 22,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 155394,
@@ -139,12 +227,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 132637,
+      "num": 132637,
+      "word": "猎罪图鉴2演员与ip共生",
+      "onboard_time": 1760663422,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120626,
+      "num": 120626,
+      "word": "美军3架B52飞赴委内瑞拉近海",
+      "onboard_time": 1760660241,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 117798,
+      "num": 117798,
+      "word": "王伊瑶晒和赵丽颖合照",
+      "onboard_time": 1760662762,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116412,
       "num": 333413,
       "word": "警方通报网传新娘与摄影师事件",
       "onboard_time": 1760635577,
       "rank": 36,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 114888,
+      "num": 114888,
+      "word": "陈哲远破9000红包",
+      "onboard_time": 1760662641,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 113567,
@@ -155,12 +275,52 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110876,
+      "num": 110876,
+      "word": "特朗普与普京约定在匈牙利会面",
+      "onboard_time": 1760658140,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 107012,
       "num": 427544,
       "word": "凤戏阳成为女帝",
       "onboard_time": 1760620405,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105176,
+      "num": 105176,
+      "word": "doinb谈cfo战胜t1",
+      "onboard_time": 1760662462,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 104102,
+      "num": 104102,
+      "word": "十四五期间这些大国重器出圈了",
+      "onboard_time": 1760664020,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 103764,
+      "num": 162168,
+      "word": "一年一度生气综艺",
+      "onboard_time": 1760664681,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99100,
+      "num": 99100,
+      "word": "特朗普将于17日与泽连斯基会晤",
+      "onboard_time": 1760660841,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97255,
@@ -227,6 +387,46 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86604,
+      "num": 416668,
+      "word": "35岁女子应聘人事岗被HR嫌年龄大",
+      "onboard_time": 1760621423,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85940,
+      "num": 85940,
+      "word": "原来一切都是他蓄谋已久的求婚",
+      "onboard_time": 1760662341,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 85205,
+      "num": 85205,
+      "word": "这就是祖国给咱们的安全感",
+      "onboard_time": 1760664020,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84774,
+      "num": 157624,
+      "word": "向往的生活",
+      "onboard_time": 1760661681,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 84059,
+      "num": 420362,
+      "word": "男子偷上万辆共享单车每辆卖105元",
+      "onboard_time": 1760627065,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83777,
       "num": 83777,
       "word": "papi酱形容邓莎和路行的关系",
@@ -251,12 +451,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 83131,
-      "num": 416668,
-      "word": "35岁女子应聘人事岗被HR嫌年龄大",
-      "onboard_time": 1760621423,
-      "rank": 38,
+      "raw_hot": 80862,
+      "num": 80862,
+      "word": "4岁女童在地头失踪超20小时家属发声",
+      "onboard_time": 1760664201,
+      "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80393,
+      "num": 80393,
+      "word": "HLE宝蓝",
+      "onboard_time": 1760656759,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 78375,
@@ -275,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78083,
+      "num": 78083,
+      "word": "原来小猫觉得自己是小宝宝",
+      "onboard_time": 1760660963,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77762,
       "num": 438644,
       "word": "宝蓝抽签",
@@ -283,20 +499,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 75436,
-      "num": 75436,
-      "word": "HLE宝蓝",
-      "onboard_time": 1760656759,
-      "rank": 31,
-      "category": "电竞"
+      "raw_hot": 77703,
+      "num": 77703,
+      "word": "全红婵大湾区全运会复出",
+      "onboard_time": 1760663482,
+      "rank": 42,
+      "category": "体育"
     },
     {
-      "raw_hot": 74966,
-      "num": 420362,
-      "word": "男子偷上万辆共享单车每辆卖105元",
-      "onboard_time": 1760627065,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 75983,
+      "num": 75983,
+      "word": "三手烟",
+      "onboard_time": 1760663241,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 73835,
@@ -321,6 +537,14 @@
       "onboard_time": 1760616740,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 71412,
+      "num": 71412,
+      "word": "市场价3块4护臀霜美容院卖6万",
+      "onboard_time": 1760665701,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70658,
@@ -363,12 +587,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67403,
+      "num": 67403,
+      "word": "美银行股突然爆雷",
+      "onboard_time": 1760663482,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 67262,
+      "num": 67262,
+      "word": "为什么运动1小时吃回来5分钟",
+      "onboard_time": 1760663302,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 64494,
       "num": 69217,
       "word": "苦练化妆就为了这张学信网照片",
       "onboard_time": 1760648654,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 63422,
+      "num": 152396,
+      "word": "开拓者vs爵士",
+      "onboard_time": 1760665101,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 63252,
@@ -409,6 +657,14 @@
       "onboard_time": 1760621964,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55688,
+      "num": 67227,
+      "word": "我同意再见爱人转型喜剧综艺",
+      "onboard_time": 1760658500,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 55177,
@@ -547,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34118,
+      "num": 629330,
+      "word": "十四五成就",
+      "onboard_time": 1760623767,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31788,
       "num": 143285,
       "word": "他们打光子弹用牙齿当武器",
@@ -577,14 +841,6 @@
       "onboard_time": 1760621423,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 26347,
-      "num": 444860,
-      "word": "十四五成就",
-      "onboard_time": 1760623767,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 21671,
