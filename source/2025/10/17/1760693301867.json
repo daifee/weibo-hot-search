@@ -1,0 +1,410 @@
+{
+  "runTime": 1760693301867,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1408695,
+        "num": 1408695,
+        "word": "杨力维杨舒予父亲去世",
+        "onboard_time": 1760691200,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 784419,
+        "num": 784419,
+        "word": "缅北电诈园区剁人手指泡酒",
+        "onboard_time": 1760679982,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8843,
+        "num": 525363,
+        "word": "红星照耀中国",
+        "onboard_time": 1760593821,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 402168,
+        "num": 402168,
+        "word": "警方通报51岁女子撞车致6伤",
+        "onboard_time": 1760688202,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 314320,
+        "num": 314320,
+        "word": "成都一小车与7车相撞致6伤",
+        "onboard_time": 1760687361,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249273,
+        "num": 249273,
+        "word": "TES皇子",
+        "onboard_time": 1760691200,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207829,
+        "num": 207829,
+        "word": "KT对战TES",
+        "onboard_time": 1760688022,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207185,
+        "num": 207185,
+        "word": "电诈窝点墙上有血手印",
+        "onboard_time": 1760681241,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175436,
+        "num": 175436,
+        "word": "陈梦全运会证件照",
+        "onboard_time": 1760685982,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169818,
+        "num": 169818,
+        "word": "小城良方将开机",
+        "onboard_time": 1760688261,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2297014,
+        "num": 169124,
+        "word": "杨振宁",
+        "onboard_time": 1760692041,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 613364,
+        "num": 168603,
+        "word": "黄子韬徐艺洋婚礼主桌视角",
+        "onboard_time": 1760689223,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541813,
+        "num": 167978,
+        "word": "微信 一删皆空",
+        "onboard_time": 1760663901,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 459383,
+        "num": 166645,
+        "word": "邓莎哭着说从20多岁就开始当妈",
+        "onboard_time": 1760685982,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 47147,
+        "num": 166274,
+        "word": "无人在意的角落拼多多10岁了",
+        "onboard_time": 1760684842,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 408138,
+        "num": 165283,
+        "word": "周杰伦警告蔡威泽再不出现就完了",
+        "onboard_time": 1760683822,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35572,
+        "num": 164997,
+        "word": "三条纹闪耀上海时装周",
+        "onboard_time": 1760692341,
+        "rank": 16,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 407518,
+        "num": 163692,
+        "word": "娜扎肿成蜜蜂小狗",
+        "onboard_time": 1760688682,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398361,
+        "num": 162651,
+        "word": "咬嘴 口腔癌",
+        "onboard_time": 1760667321,
+        "rank": 18,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 42284,
+        "num": 162477,
+        "word": "镇政府回应野人小孩上学问题",
+        "onboard_time": 1760692402,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318839,
+        "num": 161280,
+        "word": "蔡威泽回应周杰伦",
+        "onboard_time": 1760691441,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316842,
+        "num": 160792,
+        "word": "毛晓彤杀青4个月才缓过来",
+        "onboard_time": 1760686702,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252028,
+        "num": 159874,
+        "word": "黄仁勋称英伟达中国份额从95%降至0",
+        "onboard_time": 1760690362,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224082,
+        "num": 159228,
+        "word": "张若昀牵手就牵手还把人往怀里带",
+        "onboard_time": 1760691802,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209919,
+        "num": 157888,
+        "word": "克拉拉官宣离婚",
+        "onboard_time": 1760692941,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184872,
+        "num": 157430,
+        "word": "邓莎老公怎么把沈皓明台词说了",
+        "onboard_time": 1760684481,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175070,
+        "num": 156401,
+        "word": "谢可寅 她穿婚纱很漂亮",
+        "onboard_time": 1760676563,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105744,
+        "num": 155853,
+        "word": "什么剧大结局一口气刀七个",
+        "onboard_time": 1760688261,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110875,
+        "num": 155370,
+        "word": "山东智己车主事故后称仍选智己",
+        "onboard_time": 1760691921,
+        "rank": 28,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 39408,
+        "num": 153924,
+        "word": "墨墨背单词助记内容被指低俗擦边",
+        "onboard_time": 1760693122,
+        "rank": 29,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 153806,
+        "num": 153806,
+        "word": "金晨体态",
+        "onboard_time": 1760691142,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151815,
+        "num": 151815,
+        "word": "极氪积极回应用户获好评",
+        "onboard_time": 1760691921,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 142732,
+        "num": 142732,
+        "word": "白敬亭回应范丞丞想演难哄2",
+        "onboard_time": 1760685202,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141241,
+        "num": 141241,
+        "word": "徐艺洋 你可以全程站我们右边吗",
+        "onboard_time": 1760692762,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136411,
+        "num": 136411,
+        "word": "建议大家想发就发",
+        "onboard_time": 1760692224,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 134046,
+        "num": 134046,
+        "word": "爱吃蜂蜜小面包的我沉默了",
+        "onboard_time": 1760686161,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130331,
+        "num": 130331,
+        "word": "美国一储藏约816吨大豆粮仓倒塌",
+        "onboard_time": 1760675003,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24112,
+        "num": 129760,
+        "word": "甘肃一垃圾转运车向渭河倾倒垃圾",
+        "onboard_time": 1760692460,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 59904,
+        "num": 128924,
+        "word": "内娱马上要热闹起来了",
+        "onboard_time": 1760692281,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38808,
+        "num": 126889,
+        "word": "张馨予 脸在江山在",
+        "onboard_time": 1760693001,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94203,
+        "num": 125491,
+        "word": "第一次在学霸脸上看到了生无可恋",
+        "onboard_time": 1760691622,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124913,
+        "num": 124913,
+        "word": "股市",
+        "onboard_time": 1760688381,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116869,
+        "num": 116869,
+        "word": "7种癌症最喜欢的饮食习惯",
+        "onboard_time": 1760690420,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111376,
+        "num": 111376,
+        "word": "双十一 搞不懂",
+        "onboard_time": 1760691322,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 46653,
+        "num": 108600,
+        "word": "吉利浙大校招一座难求",
+        "onboard_time": 1760688621,
+        "rank": 44,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 106856,
+        "num": 106856,
+        "word": "野人小孩父母均大学毕业",
+        "onboard_time": 1760678304,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105426,
+        "num": 105426,
+        "word": "龚俊 长的漂亮给你多吃点",
+        "onboard_time": 1760693242,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104191,
+        "num": 104191,
+        "word": "2026冬奥会开幕式主题定为和谐",
+        "onboard_time": 1760692762,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103028,
+        "num": 103028,
+        "word": "王楚钦全运会证件照",
+        "onboard_time": 1760690721,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102830,
+        "num": 102830,
+        "word": "杨幂穿着睡衣回国",
+        "onboard_time": 1760675664,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领筑牢国家粮食安全#"
+    }
+  }
+}
