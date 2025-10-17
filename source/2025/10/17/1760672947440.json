@@ -1,0 +1,410 @@
+{
+  "runTime": 1760672947440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 745366,
+        "num": 1119258,
+        "word": "辽宁失联4岁女童已找到",
+        "onboard_time": 1760669242,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429029,
+        "num": 429029,
+        "word": "银行长期不动账户将被清理",
+        "onboard_time": 1760662521,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2956,
+        "num": 403415,
+        "word": "红星照耀中国",
+        "onboard_time": 1760593821,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 403088,
+        "num": 403088,
+        "word": "知乎崩了",
+        "onboard_time": 1760664681,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 361369,
+        "num": 361369,
+        "word": "水龙吟",
+        "onboard_time": 1760669301,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309730,
+        "num": 309730,
+        "word": "杭州有人600元时囤150万黄金",
+        "onboard_time": 1760663482,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262835,
+        "num": 262835,
+        "word": "石破茂再向靖国神社供奉祭品",
+        "onboard_time": 1760670681,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197598,
+        "num": 197598,
+        "word": "你见过全圆彩虹吗",
+        "onboard_time": 1760667021,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194154,
+        "num": 194154,
+        "word": "成毅说演员先做人再演戏",
+        "onboard_time": 1760616381,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165694,
+        "num": 194153,
+        "word": "女童走失超40小时找回救援队发声",
+        "onboard_time": 1760671581,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1050738,
+        "num": 194145,
+        "word": "咬嘴 口腔癌",
+        "onboard_time": 1760667321,
+        "rank": 10,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 798195,
+        "num": 194143,
+        "word": "微信 一删皆空",
+        "onboard_time": 1760663901,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 787981,
+        "num": 194138,
+        "word": "迪丽热巴代言骆驼",
+        "onboard_time": 1760668822,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 677765,
+        "num": 194132,
+        "word": "李茂自曝在弦子洗澡时求婚",
+        "onboard_time": 1760670142,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 677472,
+        "num": 194128,
+        "word": "逼员工卖淫女嫌犯因外貌在日本走红",
+        "onboard_time": 1760662762,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 417197,
+        "num": 194126,
+        "word": "加微信一定要别人扫我",
+        "onboard_time": 1760667321,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 410953,
+        "num": 194120,
+        "word": "杨幂已到家吃上豆腐脑了",
+        "onboard_time": 1760670982,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378151,
+        "num": 194113,
+        "word": "女子卖26万结婚五金赚18.4万",
+        "onboard_time": 1760668700,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34156,
+        "num": 194109,
+        "word": "零跑D19纯电500km刷新增程纪录",
+        "onboard_time": 1760670201,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 60458,
+        "num": 194105,
+        "word": "豪华品牌里第一台具有性价比的车",
+        "onboard_time": 1760672121,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 349071,
+        "num": 194104,
+        "word": "黄金",
+        "onboard_time": 1760659760,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 316912,
+        "num": 194097,
+        "word": "黄子韬婚礼归国四子一缺三",
+        "onboard_time": 1760627964,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222744,
+        "num": 194094,
+        "word": "丈母娘拒收彩礼称不是卖女儿",
+        "onboard_time": 1760670801,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138386,
+        "num": 194086,
+        "word": "樊振东ProMax状态太能打",
+        "onboard_time": 1760670201,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194086,
+        "num": 194085,
+        "word": "刘奕畅被曝酒后围殴他人",
+        "onboard_time": 1760672781,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191492,
+        "num": 191492,
+        "word": "汪峰与森林北聚餐时抽烟",
+        "onboard_time": 1760668881,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184605,
+        "num": 184605,
+        "word": "命悬一生烂芒果",
+        "onboard_time": 1760671040,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178913,
+        "num": 178913,
+        "word": "钟丽缇张伦硕回应贪财好色吃嫩草",
+        "onboard_time": 1760669542,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159270,
+        "num": 159270,
+        "word": "水龙吟OST阵容官宣",
+        "onboard_time": 1760670381,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153743,
+        "num": 153743,
+        "word": "你好种地少年",
+        "onboard_time": 1760668522,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153501,
+        "num": 153501,
+        "word": "拉肚子 用水冲洗",
+        "onboard_time": 1760666181,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146390,
+        "num": 146390,
+        "word": "雀巢拟裁员1.6万人",
+        "onboard_time": 1760669660,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139197,
+        "num": 139197,
+        "word": "在猫圈才知道产粮的含金量",
+        "onboard_time": 1760672662,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128804,
+        "num": 128804,
+        "word": "江西小伙回应彩礼视频爆火",
+        "onboard_time": 1760672541,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127426,
+        "num": 127426,
+        "word": "A股",
+        "onboard_time": 1760667381,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126931,
+        "num": 126931,
+        "word": "鹿晗没去黄子韬婚礼",
+        "onboard_time": 1760660180,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42510,
+        "num": 126848,
+        "word": "徐老发掌控400民兵庇护诈骗园区",
+        "onboard_time": 1760672901,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69390,
+        "num": 126741,
+        "word": "夫妻均拒养残疾女儿判不准离婚",
+        "onboard_time": 1760671823,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78308,
+        "num": 126706,
+        "word": "郑州爆火炒八掺小店老板体力透支",
+        "onboard_time": 1760672241,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16526,
+        "num": 126538,
+        "word": "医疗如何提高人类健康水平",
+        "onboard_time": 1760670082,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126505,
+        "num": 126505,
+        "word": "西安城墙已变成巨型生态缸",
+        "onboard_time": 1760668941,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123217,
+        "num": 123217,
+        "word": "罗云熙熙妃回宫",
+        "onboard_time": 1760671102,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122388,
+        "num": 122388,
+        "word": "秋裤羽绒服该出场了",
+        "onboard_time": 1760661442,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118542,
+        "num": 118542,
+        "word": "秘鲁男子遭自家斗鸡攻击致死",
+        "onboard_time": 1760663962,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117642,
+        "num": 117642,
+        "word": "iPhoneAir正式开售",
+        "onboard_time": 1760667142,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115427,
+        "num": 115427,
+        "word": "Keria回应输给CFO",
+        "onboard_time": 1760668041,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106045,
+        "num": 106045,
+        "word": "中国半导体行业协会声明",
+        "onboard_time": 1760672541,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103686,
+        "num": 103686,
+        "word": "马来西亚14岁男生在女厕刺死学姐",
+        "onboard_time": 1760670921,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101945,
+        "num": 101945,
+        "word": "陈乔恩被艾伦小鸡啄米式亲醒",
+        "onboard_time": 1760669182,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97738,
+        "num": 100264,
+        "word": "一年一度生气综艺",
+        "onboard_time": 1760664681,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领筑牢国家粮食安全#"
+    }
+  }
+}

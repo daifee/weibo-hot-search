@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760670971396,
+  "endTime": 1760672947440,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -955,6 +955,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 745366,
+      "num": 1119258,
+      "word": "辽宁失联4岁女童已找到",
+      "onboard_time": 1760669242,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 742563,
       "num": 293492,
       "word": "于正 会对夏之光好一点的",
@@ -1113,6 +1121,14 @@
       "onboard_time": 1760360301,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 677765,
+      "num": 195464,
+      "word": "李茂自曝在弦子洗澡时求婚",
+      "onboard_time": 1760670142,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 674573,
@@ -1641,14 +1657,6 @@
       "onboard_time": 1760274502,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 543031,
-      "num": 543031,
-      "word": "辽宁失联4岁女童已找到",
-      "onboard_time": 1760669242,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 542300,
@@ -2531,6 +2539,14 @@
       "category": "国际时政,数码"
     },
     {
+      "raw_hot": 410953,
+      "num": 194120,
+      "word": "杨幂已到家吃上豆腐脑了",
+      "onboard_time": 1760670982,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410469,
       "num": 410469,
       "word": "曾凡博被裁",
@@ -2795,6 +2811,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 378151,
+      "num": 199648,
+      "word": "女子卖26万结婚五金赚18.4万",
+      "onboard_time": 1760668700,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376263,
       "num": 376263,
       "word": "金店老板说金价跌起来像泄洪",
@@ -2849,6 +2873,14 @@
       "onboard_time": 1760256380,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361369,
+      "num": 361369,
+      "word": "水龙吟",
+      "onboard_time": 1760669301,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 361160,
@@ -3043,14 +3075,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 337318,
-      "num": 199648,
-      "word": "女子卖26万结婚五金赚18.4万",
-      "onboard_time": 1760668700,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 335727,
       "num": 335727,
       "word": "法考",
@@ -3120,14 +3144,6 @@
       "word": "谭松韵宣布结束高强度拍摄",
       "onboard_time": 1760454083,
       "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 326679,
-      "num": 326679,
-      "word": "水龙吟",
-      "onboard_time": 1760669301,
-      "rank": 7,
       "category": "剧集"
     },
     {
@@ -3923,6 +3939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262835,
+      "num": 262835,
+      "word": "石破茂再向靖国神社供奉祭品",
+      "onboard_time": 1760670681,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 262605,
       "num": 262605,
       "word": "中国半导体行业协会严重关切",
@@ -4363,14 +4387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229745,
-      "num": 195464,
-      "word": "李茂自曝在弦子洗澡时求婚",
-      "onboard_time": 1760670142,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 229099,
       "num": 285247,
       "word": "张予曦毕雯珺第二",
@@ -4497,6 +4513,14 @@
       "onboard_time": 1760331564,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222744,
+      "num": 194094,
+      "word": "丈母娘拒收彩礼称不是卖女儿",
+      "onboard_time": 1760670801,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221223,
@@ -5275,6 +5299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194086,
+      "num": 194085,
+      "word": "刘奕畅被曝酒后围殴他人",
+      "onboard_time": 1760672781,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193856,
       "num": 193856,
       "word": "肖战或演十日终焉",
@@ -5476,7 +5508,7 @@
     },
     {
       "raw_hot": 189413,
-      "num": 173375,
+      "num": 178913,
       "word": "钟丽缇张伦硕回应贪财好色吃嫩草",
       "onboard_time": 1760669542,
       "rank": 29,
@@ -5633,6 +5665,14 @@
       "onboard_time": 1760599041,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184605,
+      "num": 184605,
+      "word": "命悬一生烂芒果",
+      "onboard_time": 1760671040,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 184563,
@@ -6361,6 +6401,14 @@
       "onboard_time": 1760340321,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165694,
+      "num": 194153,
+      "word": "女童走失超40小时找回救援队发声",
+      "onboard_time": 1760671581,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165565,
@@ -7963,6 +8011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139197,
+      "num": 139197,
+      "word": "在猫圈才知道产粮的含金量",
+      "onboard_time": 1760672662,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139177,
       "num": 139177,
       "word": "展轩杂志",
@@ -8025,6 +8081,14 @@
       "onboard_time": 1760264781,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138386,
+      "num": 194399,
+      "word": "樊振东ProMax状态太能打",
+      "onboard_time": 1760670201,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 138250,
@@ -8803,6 +8867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128804,
+      "num": 128804,
+      "word": "江西小伙回应彩礼视频爆火",
+      "onboard_time": 1760672541,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128534,
       "num": 128534,
       "word": "宋祖儿表妹万福白衣头纱造型",
@@ -8897,14 +8969,6 @@
       "onboard_time": 1760397619,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 127571,
-      "num": 194399,
-      "word": "樊振东ProMax状态太能打",
-      "onboard_time": 1760670201,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 127567,
@@ -9377,6 +9441,14 @@
       "onboard_time": 1760621423,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123217,
+      "num": 123217,
+      "word": "罗云熙熙妃回宫",
+      "onboard_time": 1760671102,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 123163,
@@ -11545,6 +11617,14 @@
       "onboard_time": 1760246421,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 106045,
+      "num": 106045,
+      "word": "中国半导体行业协会声明",
+      "onboard_time": 1760672541,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106011,
@@ -14883,14 +14963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 79554,
-      "num": 176601,
-      "word": "丈母娘拒收彩礼称不是卖女儿",
-      "onboard_time": 1760670801,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79488,
       "num": 113633,
       "word": "高洪波卸任重庆荣昌区委书记",
@@ -14993,6 +15065,14 @@
       "onboard_time": 1760287698,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 78308,
+      "num": 126706,
+      "word": "郑州爆火炒八掺小店老板体力透支",
+      "onboard_time": 1760672241,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78263,
@@ -15755,6 +15835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69390,
+      "num": 126741,
+      "word": "夫妻均拒养残疾女儿判不准离婚",
+      "onboard_time": 1760671823,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69328,
       "num": 69328,
       "word": "王楚钦梁靖崑又又又被改名了",
@@ -16313,6 +16401,14 @@
       "onboard_time": 1760483898,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60458,
+      "num": 194105,
+      "word": "豪华品牌里第一台具有性价比的车",
+      "onboard_time": 1760672121,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 60441,
@@ -17147,14 +17243,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 45653,
-      "num": 180647,
-      "word": "石破茂再向靖国神社供奉祭品",
-      "onboard_time": 1760670681,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 45598,
       "num": 629330,
       "word": "十四五成就",
@@ -17329,6 +17417,14 @@
       "onboard_time": 1760511681,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 42510,
+      "num": 126848,
+      "word": "徐老发掌控400民兵庇护诈骗园区",
+      "onboard_time": 1760672901,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42445,

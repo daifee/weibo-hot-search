@@ -1,6 +1,6 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760670971396,
+  "endTime": 1760672947440,
   "band_list": [
     {
       "raw_hot": 1713011,
@@ -67,12 +67,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 543031,
-      "num": 543031,
+      "raw_hot": 745366,
+      "num": 1119258,
       "word": "辽宁失联4岁女童已找到",
       "onboard_time": 1760669242,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 677765,
+      "num": 195464,
+      "word": "李茂自曝在弦子洗澡时求婚",
+      "onboard_time": 1760670142,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 539215,
@@ -115,15 +123,15 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 354645,
-      "num": 441731,
-      "word": "成毅说演员先做人再演戏",
-      "onboard_time": 1760616381,
-      "rank": 5,
+      "raw_hot": 410953,
+      "num": 194120,
+      "word": "杨幂已到家吃上豆腐脑了",
+      "onboard_time": 1760670982,
+      "rank": 16,
       "category": "艺人"
     },
     {
-      "raw_hot": 337318,
+      "raw_hot": 378151,
       "num": 199648,
       "word": "女子卖26万结婚五金赚18.4万",
       "onboard_time": 1760668700,
@@ -131,12 +139,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 326679,
-      "num": 326679,
+      "raw_hot": 361369,
+      "num": 361369,
       "word": "水龙吟",
       "onboard_time": 1760669301,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354645,
+      "num": 441731,
+      "word": "成毅说演员先做人再演戏",
+      "onboard_time": 1760616381,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 315907,
@@ -187,6 +203,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 262835,
+      "num": 262835,
+      "word": "石破茂再向靖国神社供奉祭品",
+      "onboard_time": 1760670681,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 244283,
       "num": 241151,
       "word": "秘鲁男子遭自家斗鸡攻击致死",
@@ -203,14 +227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229745,
-      "num": 195464,
-      "word": "李茂自曝在弦子洗澡时求婚",
-      "onboard_time": 1760670142,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 227566,
       "num": 193626,
       "word": "汪峰与森林北聚餐时抽烟",
@@ -224,6 +240,14 @@
       "word": "人贩子被判3年后又卖了十余个孩子",
       "onboard_time": 1760624665,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222744,
+      "num": 194094,
+      "word": "丈母娘拒收彩礼称不是卖女儿",
+      "onboard_time": 1760670801,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -267,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194086,
+      "num": 194085,
+      "word": "刘奕畅被曝酒后围殴他人",
+      "onboard_time": 1760672781,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192636,
       "num": 192636,
       "word": "拉肚子 用水冲洗",
@@ -276,11 +308,19 @@
     },
     {
       "raw_hot": 189413,
-      "num": 173375,
+      "num": 178913,
       "word": "钟丽缇张伦硕回应贪财好色吃嫩草",
       "onboard_time": 1760669542,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184605,
+      "num": 184605,
+      "word": "命悬一生烂芒果",
+      "onboard_time": 1760671040,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 177512,
@@ -321,6 +361,14 @@
       "onboard_time": 1760664681,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165694,
+      "num": 194153,
+      "word": "女童走失超40小时找回救援队发声",
+      "onboard_time": 1760671581,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155394,
@@ -403,12 +451,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139197,
+      "num": 139197,
+      "word": "在猫圈才知道产粮的含金量",
+      "onboard_time": 1760672662,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139118,
       "num": 139118,
       "word": "A股",
       "onboard_time": 1760667381,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 138386,
+      "num": 194399,
+      "word": "樊振东ProMax状态太能打",
+      "onboard_time": 1760670201,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 136366,
@@ -467,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128804,
+      "num": 128804,
+      "word": "江西小伙回应彩礼视频爆火",
+      "onboard_time": 1760672541,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128429,
       "num": 135146,
       "word": "知乎回应崩了",
@@ -475,12 +547,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 127571,
-      "num": 194399,
-      "word": "樊振东ProMax状态太能打",
-      "onboard_time": 1760670201,
-      "rank": 22,
-      "category": "体育"
+      "raw_hot": 123217,
+      "num": 123217,
+      "word": "罗云熙熙妃回宫",
+      "onboard_time": 1760671102,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 121943,
@@ -561,6 +633,14 @@
       "onboard_time": 1760620405,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106045,
+      "num": 106045,
+      "word": "中国半导体行业协会声明",
+      "onboard_time": 1760672541,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105176,
@@ -771,14 +851,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 79554,
-      "num": 176601,
-      "word": "丈母娘拒收彩礼称不是卖女儿",
-      "onboard_time": 1760670801,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78922,
       "num": 78922,
       "word": "全红婵大湾区全运会复出",
@@ -793,6 +865,14 @@
       "onboard_time": 1760626284,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78308,
+      "num": 126706,
+      "word": "郑州爆火炒八掺小店老板体力透支",
+      "onboard_time": 1760672241,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78178,
@@ -865,6 +945,14 @@
       "onboard_time": 1760634138,
       "rank": 20,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 69390,
+      "num": 126741,
+      "word": "夫妻均拒养残疾女儿判不准离婚",
+      "onboard_time": 1760671823,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69328,
@@ -945,6 +1033,14 @@
       "onboard_time": 1760616442,
       "rank": 28,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 60458,
+      "num": 194105,
+      "word": "豪华品牌里第一台具有性价比的车",
+      "onboard_time": 1760672121,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 58959,
@@ -1043,14 +1139,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 45653,
-      "num": 180647,
-      "word": "石破茂再向靖国神社供奉祭品",
-      "onboard_time": 1760670681,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 45412,
       "num": 412735,
       "word": "缅北刘家娱乐场所消费单曝光",
@@ -1089,6 +1177,14 @@
       "onboard_time": 1760632641,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 42510,
+      "num": 126848,
+      "word": "徐老发掌控400民兵庇护诈骗园区",
+      "onboard_time": 1760672901,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40237,
@@ -1235,7 +1331,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 1543,
+      "raw_hot": 2956,
       "num": 515110,
       "word": "红星照耀中国",
       "onboard_time": 1760593821,
