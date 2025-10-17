@@ -1,6 +1,6 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760686745446,
+  "endTime": 1760690055803,
   "band_list": [
     {
       "raw_hot": 1898196,
@@ -107,6 +107,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 805101,
+      "num": 189635,
+      "word": "惠州街头多人爬行学狗叫",
+      "onboard_time": 1760685442,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 801008,
       "num": 464293,
       "word": "逼员工卖淫女嫌犯因外貌在日本走红",
@@ -179,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 466726,
+      "num": 186993,
+      "word": "毛晓彤杀青4个月才缓过来",
+      "onboard_time": 1760686702,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 457282,
       "num": 881312,
       "word": "新西兰从韩国抢回造船订单塞给中国",
@@ -201,6 +217,14 @@
       "onboard_time": 1760628622,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 402690,
+      "num": 402690,
+      "word": "警方通报51岁女子撞车致6伤",
+      "onboard_time": 1760688202,
+      "rank": 1,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 379419,
@@ -243,6 +267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333247,
+      "num": 186073,
+      "word": "邓莎老公怎么把沈皓明台词说了",
+      "onboard_time": 1760684481,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 325008,
       "num": 325008,
       "word": "电诈业务不熟被竹片挑断手筋",
@@ -257,6 +289,14 @@
       "onboard_time": 1760673201,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 317195,
+      "num": 185381,
+      "word": "黄子韬徐艺洋婚礼主桌视角",
+      "onboard_time": 1760689223,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 315907,
@@ -299,20 +339,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 292798,
+      "num": 182799,
+      "word": "邓莎哭着说从20多岁就开始当妈",
+      "onboard_time": 1760685982,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 290239,
+      "num": 184224,
+      "word": "白敬亭回应范丞丞想演难哄2",
+      "onboard_time": 1760685202,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 287002,
+      "num": 287002,
+      "word": "陈梦全运会证件照",
+      "onboard_time": 1760685982,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286880,
       "num": 145280,
       "word": "鹿晗没去黄子韬婚礼",
       "onboard_time": 1760660180,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 284950,
-      "num": 166393,
-      "word": "惠州街头多人爬行学狗叫",
-      "onboard_time": 1760685442,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 282553,
@@ -435,12 +491,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 229911,
+      "num": 181858,
+      "word": "股市",
+      "onboard_time": 1760688381,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 227566,
       "num": 193626,
       "word": "汪峰与森林北聚餐时抽烟",
       "onboard_time": 1760668881,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226120,
+      "num": 183755,
+      "word": "爱吃蜂蜜小面包的我沉默了",
+      "onboard_time": 1760686161,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 225728,
+      "num": 181360,
+      "word": "娜扎肿成蜜蜂小狗",
+      "onboard_time": 1760688682,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 224645,
@@ -523,20 +603,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207078,
-      "num": 161127,
-      "word": "白敬亭回应范丞丞想演难哄2",
-      "onboard_time": 1760685202,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 206860,
       "num": 183808,
       "word": "先天考公圣体",
       "onboard_time": 1760674461,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 200993,
+      "num": 200993,
+      "word": "小城良方将开机",
+      "onboard_time": 1760688261,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 199550,
@@ -547,12 +627,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192659,
-      "num": 146413,
-      "word": "邓莎哭着说从20多岁就开始当妈",
-      "onboard_time": 1760685982,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 194622,
+      "num": 194622,
+      "word": "什么剧大结局一口气刀七个",
+      "onboard_time": 1760688261,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 192636,
@@ -667,14 +747,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 173897,
-      "num": 127657,
-      "word": "爱吃蜂蜜小面包的我沉默了",
-      "onboard_time": 1760686161,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 167928,
       "num": 178886,
       "word": "一年一度生气综艺",
@@ -689,6 +761,14 @@
       "onboard_time": 1760683520,
       "rank": 28,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 165845,
+      "num": 165845,
+      "word": "王源画的不错下次别画了",
+      "onboard_time": 1760688803,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 165694,
@@ -811,6 +891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149572,
+      "num": 149572,
+      "word": "成都一小车与7车相撞致6伤",
+      "onboard_time": 1760687361,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148223,
       "num": 148223,
       "word": "苹果闹钟 只亮不响",
@@ -833,14 +921,6 @@
       "onboard_time": 1760671581,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146262,
-      "num": 146262,
-      "word": "陈梦全运会证件照",
-      "onboard_time": 1760685982,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 145927,
@@ -1027,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125957,
-      "num": 125957,
-      "word": "邓莎老公怎么把沈皓明台词说了",
-      "onboard_time": 1760684481,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 124376,
       "num": 124376,
       "word": "荷兰被批劫掠中企",
@@ -1195,6 +1267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111069,
+      "num": 150647,
+      "word": "花儿与少年同心季",
+      "onboard_time": 1760689223,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110876,
       "num": 110876,
       "word": "特朗普与普京约定在匈牙利会面",
@@ -1224,6 +1304,22 @@
       "word": "李沁说七老童心都不矫情",
       "onboard_time": 1760674223,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107998,
+      "num": 107998,
+      "word": "王楚钦赶飞机演我",
+      "onboard_time": 1760688562,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107805,
+      "num": 149887,
+      "word": "敖瑞鹏燕迟妆造录王牌",
+      "onboard_time": 1760688742,
+      "rank": 29,
       "category": "综艺"
     },
     {
@@ -1299,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103570,
+      "num": 103570,
+      "word": "孙颖莎全运证件照",
+      "onboard_time": 1760680761,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103518,
       "num": 208886,
       "word": "无人在意的角落拼多多10岁了",
@@ -1323,20 +1427,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 102656,
+      "num": 180075,
+      "word": "吉利浙大校招一座难求",
+      "onboard_time": 1760688621,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 102353,
       "num": 102353,
       "word": "本届金鸡女主最大遗珠",
       "onboard_time": 1760677763,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 102219,
-      "num": 102219,
-      "word": "孙颖莎全运证件照",
-      "onboard_time": 1760680761,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 101463,
@@ -1353,6 +1457,14 @@
       "onboard_time": 1760676503,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 99302,
+      "num": 99302,
+      "word": "小车滚下坡车主无恙感谢雷军",
+      "onboard_time": 1760689162,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99247,
@@ -1403,12 +1515,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95820,
-      "num": 95820,
-      "word": "毛晓彤杀青4个月才缓过来",
-      "onboard_time": 1760686702,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 96383,
+      "num": 96383,
+      "word": "第一针还没哭完第二针就来了",
+      "onboard_time": 1760689403,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 95350,
@@ -1427,12 +1539,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94328,
+      "num": 102957,
+      "word": "KT对战TES",
+      "onboard_time": 1760688022,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93670,
       "num": 105246,
       "word": "王曼昱全运会证件照",
       "onboard_time": 1760686642,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92747,
+      "num": 92747,
+      "word": "关闭朋友圈一年后的变化",
+      "onboard_time": 1760687780,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 90639,
@@ -1475,6 +1603,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87896,
+      "num": 87896,
+      "word": "十月必吃的应季水果",
+      "onboard_time": 1760689762,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 87285,
+      "num": 87285,
+      "word": "马龙全运会证件照",
+      "onboard_time": 1760690001,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87120,
       "num": 425293,
       "word": "王安宇走完秀扑倒在李现怀里",
@@ -1505,6 +1649,14 @@
       "onboard_time": 1760664020,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84805,
+      "num": 84805,
+      "word": "网友逛超市偶遇曾黎",
+      "onboard_time": 1760689820,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 84774,
@@ -1707,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68128,
+      "num": 94223,
+      "word": "深情眼前十唯一现偶",
+      "onboard_time": 1760688682,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67917,
       "num": 170051,
       "word": "零跑推出旗舰D平台谁慌了",
@@ -1891,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51039,
+      "num": 101469,
+      "word": "张峻豪有效外务又来了",
+      "onboard_time": 1760689881,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 49790,
       "num": 407631,
       "word": "十个勤天还剩七个勤天",
@@ -1985,6 +2153,14 @@
       "onboard_time": 1760624665,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 36908,
+      "num": 96403,
+      "word": "香港八所公立大学学费齐涨",
+      "onboard_time": 1760688742,
+      "rank": 41,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 36703,
@@ -2123,6 +2299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13373,
+      "num": 100918,
+      "word": "周震南保密协议到期",
+      "onboard_time": 1760689941,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 13132,
       "num": 131075,
       "word": "刘雯是首位登上维密秀的亚洲模特",
@@ -2171,7 +2355,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 6145,
+      "raw_hot": 6778,
       "num": 807224,
       "word": "红星照耀中国",
       "onboard_time": 1760593821,

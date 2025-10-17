@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 15:39:05
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 16:34:15
 </p>
 </blockquote>
 <p>
@@ -2201,6 +2201,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E6%8A%A2%E7%A5%A8%23" target="weibo">
 王俊凯 抢票（热度：805585）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E5%B7%9E%E8%A1%97%E5%A4%B4%E5%A4%9A%E4%BA%BA%E7%88%AC%E8%A1%8C%E5%AD%A6%E7%8B%97%E5%8F%AB%23" target="weibo">
+惠州街头多人爬行学狗叫（热度：805101）
 </a>
 </li>
 
@@ -5169,6 +5175,12 @@ TheShy回应上单韦鲁斯（热度：477977）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A4%E6%9D%80%E9%9D%924%E4%B8%AA%E6%9C%88%E6%89%8D%E7%BC%93%E8%BF%87%E6%9D%A5%23" target="weibo">
+毛晓彤杀青4个月才缓过来（热度：466726）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%89%9B%E6%9D%82%E5%BA%97%E7%8E%B0%E5%9C%BA%E6%89%8B%E5%8A%A8%E6%94%B9%E4%BB%B7%23" target="weibo">
 官方通报牛杂店现场手动改价（热度：466195）
 </a>
@@ -5999,18 +6011,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E4%B8%89%E5%A4%A7%E5%B9%B3%E5%8F%B0%E7%88%86%E5%89%A7%23" target="weibo">
 今年三大平台爆剧（热度：414442）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E7%8F%AE%E7%91%B6%20%E5%81%8F%E5%81%8F%E4%BD%A0%E6%9C%80%E4%BA%89%E6%B0%94%23" target="weibo">
-姜珮瑶 偏偏你最争气（热度：414349）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E6%97%B6%E9%97%B4%E8%83%BD%E5%88%87%E6%8D%A2%E6%98%BE%E7%A4%BA%E6%96%B9%E5%BC%8F%23" target="weibo">
-微信时间能切换显示方式（热度：413989）
 </a>
 </li>
 
