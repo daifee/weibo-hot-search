@@ -1,6 +1,6 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760683751209,
+  "endTime": 1760685967399,
   "band_list": [
     {
       "raw_hot": 1898196,
@@ -17,6 +17,14 @@
       "onboard_time": 1760663901,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1363809,
+      "num": 212853,
+      "word": "周杰伦警告蔡威泽再不出现就完了",
+      "onboard_time": 1760683822,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1182644,
@@ -115,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 686729,
+      "num": 686729,
+      "word": "电诈窝点墙上有血手印",
+      "onboard_time": 1760681241,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 677765,
       "num": 362798,
       "word": "李茂自曝在弦子洗澡时求婚",
@@ -155,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 476771,
+      "num": 229711,
+      "word": "野人小孩父母均大学毕业",
+      "onboard_time": 1760678304,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 457282,
       "num": 881312,
       "word": "新西兰从韩国抢回造船订单塞给中国",
@@ -177,14 +201,6 @@
       "onboard_time": 1760628622,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 406016,
-      "num": 229711,
-      "word": "野人小孩父母均大学毕业",
-      "onboard_time": 1760678304,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 379419,
@@ -217,14 +233,6 @@
       "onboard_time": 1760616381,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337469,
-      "num": 337469,
-      "word": "电诈窝点墙上有血手印",
-      "onboard_time": 1760681241,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 334683,
@@ -387,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238227,
+      "num": 238227,
+      "word": "打死人的电诈嫌犯挑衅民警",
+      "onboard_time": 1760682682,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232696,
       "num": 232696,
       "word": "你好种地少年",
@@ -481,6 +497,14 @@
       "onboard_time": 1760661442,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208070,
+      "num": 208070,
+      "word": "卢昱晓演技",
+      "onboard_time": 1760684722,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 206860,
@@ -627,11 +651,27 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 166393,
+      "num": 166393,
+      "word": "惠州街头多人爬行学狗叫",
+      "onboard_time": 1760685442,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165694,
       "num": 194153,
       "word": "女童走失超40小时找回救援队发声",
       "onboard_time": 1760671581,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163808,
+      "num": 213642,
+      "word": "电诈业务不熟被竹片挑断手筋",
+      "onboard_time": 1760681480,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -641,6 +681,14 @@
       "onboard_time": 1760672541,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161127,
+      "num": 161127,
+      "word": "白敬亭回应范丞丞想演难哄2",
+      "onboard_time": 1760685202,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 159266,
@@ -665,6 +713,14 @@
       "onboard_time": 1760614881,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154990,
+      "num": 154990,
+      "word": "A股中兴通讯跌停",
+      "onboard_time": 1760684842,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 154072,
@@ -715,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 150259,
+      "num": 150259,
+      "word": "柯淳短剧一哥 刘晓庆短剧一姐",
+      "onboard_time": 1760683702,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149991,
       "num": 227256,
       "word": "王源官宣加盟一起开麦吧",
@@ -744,6 +808,14 @@
       "word": "西安城墙已变成巨型生态缸",
       "onboard_time": 1760668941,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146305,
+      "num": 146305,
+      "word": "保安打死校内流浪狗遭开除",
+      "onboard_time": 1760671581,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -803,14 +875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141117,
-      "num": 141117,
-      "word": "保安打死校内流浪狗遭开除",
-      "onboard_time": 1760671581,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 141070,
       "num": 443040,
       "word": "上海地铁称地铁一词统一译为metro",
@@ -849,14 +913,6 @@
       "onboard_time": 1760670560,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 135617,
-      "num": 135617,
-      "word": "打死人的电诈嫌犯挑衅民警",
-      "onboard_time": 1760682682,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 135585,
@@ -915,20 +971,20 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 132285,
+      "num": 132285,
+      "word": "鸡和土豆真是满门忠烈",
+      "onboard_time": 1760679982,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 132187,
       "num": 132187,
       "word": "杨瀚森又进三分球了",
       "onboard_time": 1760667561,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 130082,
-      "num": 130082,
-      "word": "鸡和土豆真是满门忠烈",
-      "onboard_time": 1760679982,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 128429,
@@ -947,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125957,
+      "num": 125957,
+      "word": "邓莎老公怎么把沈皓明台词说了",
+      "onboard_time": 1760684481,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124376,
       "num": 124376,
       "word": "荷兰被批劫掠中企",
@@ -961,14 +1025,6 @@
       "onboard_time": 1760675964,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122125,
-      "num": 122125,
-      "word": "电诈业务不熟被竹片挑断手筋",
-      "onboard_time": 1760681480,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121943,
@@ -1083,6 +1139,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112777,
+      "num": 112777,
+      "word": "华熙生物董事长希望让人活到120岁",
+      "onboard_time": 1760684901,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112229,
+      "num": 112229,
+      "word": "什么能力很重要但大多数人没有",
+      "onboard_time": 1760684241,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111957,
       "num": 111957,
       "word": "特朗普将于17日与泽连斯基会晤",
@@ -1097,6 +1169,22 @@
       "onboard_time": 1760658140,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110787,
+      "num": 110787,
+      "word": "原来双人杂志都这样拍出来的",
+      "onboard_time": 1760684599,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 110636,
+      "num": 112308,
+      "word": "王者杨玉环美神降临",
+      "onboard_time": 1760685261,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 108937,
@@ -1131,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105468,
+      "num": 105468,
+      "word": "这房子没有说明书都住不了",
+      "onboard_time": 1760685801,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105176,
       "num": 105176,
       "word": "doinb谈cfo战胜t1",
@@ -1147,14 +1243,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 104596,
-      "num": 104596,
-      "word": "柯淳短剧一哥 刘晓庆短剧一姐",
-      "onboard_time": 1760683702,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 104102,
       "num": 414444,
       "word": "十四五期间这些大国重器出圈了",
@@ -1169,6 +1257,22 @@
       "onboard_time": 1760670801,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103518,
+      "num": 208886,
+      "word": "无人在意的角落拼多多10岁了",
+      "onboard_time": 1760684842,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 103354,
+      "num": 103354,
+      "word": "曝iPhoneAir国行最多写入2张eSIM",
+      "onboard_time": 1760685801,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 102353,
@@ -1635,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56570,
+      "num": 104676,
+      "word": "Peanut回应最后一舞",
+      "onboard_time": 1760684360,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 55688,
       "num": 67227,
       "word": "我同意再见爱人转型喜剧综艺",
@@ -1723,6 +1835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44506,
+      "num": 112600,
+      "word": "原来双人杂志都是这样拍出来的",
+      "onboard_time": 1760685681,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44382,
       "num": 313547,
       "word": "小当家特级厨师争霸赛重启",
@@ -1803,20 +1923,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34260,
+      "num": 232786,
+      "word": "央视官宣鸿蒙星光盛典",
+      "onboard_time": 1760681721,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 34118,
       "num": 629330,
       "word": "十四五成就",
       "onboard_time": 1760623767,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 33822,
-      "num": 232786,
-      "word": "央视官宣鸿蒙星光盛典",
-      "onboard_time": 1760681721,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 31788,
@@ -1971,7 +2091,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 5261,
+      "raw_hot": 6145,
       "num": 807224,
       "word": "红星照耀中国",
       "onboard_time": 1760593821,

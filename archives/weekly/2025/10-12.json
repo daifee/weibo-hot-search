@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760683751209,
+  "endTime": 1760685967399,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -241,6 +241,14 @@
       "onboard_time": 1760436861,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1363809,
+      "num": 212853,
+      "word": "周杰伦警告蔡威泽再不出现就完了",
+      "onboard_time": 1760683822,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1330856,
@@ -1145,6 +1153,14 @@
       "onboard_time": 1760255720,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 686729,
+      "num": 686729,
+      "word": "电诈窝点墙上有血手印",
+      "onboard_time": 1760681241,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 684053,
@@ -2123,6 +2139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 476771,
+      "num": 229711,
+      "word": "野人小孩父母均大学毕业",
+      "onboard_time": 1760678304,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 476232,
       "num": 476232,
       "word": "梁靖崑在王楚钦怀里小鸟依人",
@@ -2635,14 +2659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 406016,
-      "num": 229711,
-      "word": "野人小孩父母均大学毕业",
-      "onboard_time": 1760678304,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 405242,
       "num": 227666,
       "word": "入戏",
@@ -3137,14 +3153,6 @@
       "onboard_time": 1760429961,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 337469,
-      "num": 337469,
-      "word": "电诈窝点墙上有血手印",
-      "onboard_time": 1760681241,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 335727,
@@ -4427,6 +4435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 238227,
+      "num": 238227,
+      "word": "打死人的电诈嫌犯挑衅民警",
+      "onboard_time": 1760682682,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237665,
       "num": 443802,
       "word": "胡塞武装总参谋长身亡",
@@ -4993,6 +5009,14 @@
       "onboard_time": 1760495359,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208070,
+      "num": 208070,
+      "word": "卢昱晓演技",
+      "onboard_time": 1760684722,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 208044,
@@ -6659,6 +6683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166393,
+      "num": 166393,
+      "word": "惠州街头多人爬行学狗叫",
+      "onboard_time": 1760685442,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165694,
       "num": 194153,
       "word": "女童走失超40小时找回救援队发声",
@@ -6729,6 +6761,14 @@
       "onboard_time": 1760607561,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163808,
+      "num": 213642,
+      "word": "电诈业务不熟被竹片挑断手筋",
+      "onboard_time": 1760681480,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163423,
@@ -6889,6 +6929,14 @@
       "onboard_time": 1760672541,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161127,
+      "num": 161127,
+      "word": "白敬亭回应范丞丞想演难哄2",
+      "onboard_time": 1760685202,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 161050,
@@ -7275,6 +7323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154990,
+      "num": 154990,
+      "word": "A股中兴通讯跌停",
+      "onboard_time": 1760684842,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 154837,
       "num": 154837,
       "word": "多家银行就金价紧急提醒",
@@ -7571,6 +7627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 150259,
+      "num": 150259,
+      "word": "柯淳短剧一哥 刘晓庆短剧一姐",
+      "onboard_time": 1760683702,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150015,
       "num": 92772,
       "word": "林诗栋说花儿有股臭味",
@@ -7841,6 +7905,14 @@
       "onboard_time": 1760580140,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 146305,
+      "num": 146305,
+      "word": "保安打死校内流浪狗遭开除",
+      "onboard_time": 1760671581,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146125,
@@ -8201,14 +8273,6 @@
       "onboard_time": 1760534122,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 141117,
-      "num": 141117,
-      "word": "保安打死校内流浪狗遭开除",
-      "onboard_time": 1760671581,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 141068,
@@ -8659,14 +8723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135617,
-      "num": 135617,
-      "word": "打死人的电诈嫌犯挑衅民警",
-      "onboard_time": 1760682682,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135585,
       "num": 135585,
       "word": "朋友圈编辑功能 人生无法修改",
@@ -8955,6 +9011,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 132285,
+      "num": 132285,
+      "word": "鸡和土豆真是满门忠烈",
+      "onboard_time": 1760679982,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 132248,
       "num": 132248,
       "word": "中国驻印度大使馆严正发声",
@@ -9169,14 +9233,6 @@
       "onboard_time": 1760370620,
       "rank": 21,
       "category": "数码"
-    },
-    {
-      "raw_hot": 130082,
-      "num": 130082,
-      "word": "鸡和土豆真是满门忠烈",
-      "onboard_time": 1760679982,
-      "rank": 41,
-      "category": "美食"
     },
     {
       "raw_hot": 130014,
@@ -9561,6 +9617,14 @@
       "onboard_time": 1760519843,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125957,
+      "num": 125957,
+      "word": "邓莎老公怎么把沈皓明台词说了",
+      "onboard_time": 1760684481,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 125955,
@@ -9977,14 +10041,6 @@
       "onboard_time": 1760411120,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122125,
-      "num": 122125,
-      "word": "电诈业务不熟被竹片挑断手筋",
-      "onboard_time": 1760681480,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122091,
@@ -11203,6 +11259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112777,
+      "num": 112777,
+      "word": "华熙生物董事长希望让人活到120岁",
+      "onboard_time": 1760684901,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112699,
       "num": 112699,
       "word": "黄子弘凡张峻豪正是憋不住笑的年纪",
@@ -11249,6 +11313,14 @@
       "onboard_time": 1760258240,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112229,
+      "num": 112229,
+      "word": "什么能力很重要但大多数人没有",
+      "onboard_time": 1760684241,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 112077,
@@ -11427,12 +11499,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110787,
+      "num": 110787,
+      "word": "原来双人杂志都这样拍出来的",
+      "onboard_time": 1760684599,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 110673,
       "num": 110673,
       "word": "杨汝晴徐如蓝双A恋综高智女",
       "onboard_time": 1760342541,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110636,
+      "num": 112308,
+      "word": "王者杨玉环美神降临",
+      "onboard_time": 1760685261,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 110480,
@@ -12195,6 +12283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105468,
+      "num": 105468,
+      "word": "这房子没有说明书都住不了",
+      "onboard_time": 1760685801,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 105316,
       "num": 105316,
       "word": "Karsa吐槽Ming和Jiejie",
@@ -12265,14 +12361,6 @@
       "onboard_time": 1760241260,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 104596,
-      "num": 104596,
-      "word": "柯淳短剧一哥 刘晓庆短剧一姐",
-      "onboard_time": 1760683702,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 104595,
@@ -12411,6 +12499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 103518,
+      "num": 208886,
+      "word": "无人在意的角落拼多多10岁了",
+      "onboard_time": 1760684842,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 103512,
       "num": 103512,
       "word": "多地收到冬日体验卡",
@@ -12433,6 +12529,14 @@
       "onboard_time": 1760499080,
       "rank": 19,
       "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 103354,
+      "num": 103354,
+      "word": "曝iPhoneAir国行最多写入2张eSIM",
+      "onboard_time": 1760685801,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 103339,
@@ -17211,6 +17315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56570,
+      "num": 104676,
+      "word": "Peanut回应最后一舞",
+      "onboard_time": 1760684360,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 56519,
       "num": 56519,
       "word": "阿富汗首都喀布尔突发爆炸",
@@ -17859,6 +17971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44506,
+      "num": 112600,
+      "word": "原来双人杂志都是这样拍出来的",
+      "onboard_time": 1760685681,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44501,
       "num": 95137,
       "word": "考编年龄松绑能打破职场35岁门槛吗",
@@ -18427,20 +18547,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34260,
+      "num": 232786,
+      "word": "央视官宣鸿蒙星光盛典",
+      "onboard_time": 1760681721,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 34107,
       "num": 32111,
       "word": "新娘全程都在吃瓜",
       "onboard_time": 1760467454,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 33822,
-      "num": 232786,
-      "word": "央视官宣鸿蒙星光盛典",
-      "onboard_time": 1760681721,
-      "rank": 13,
-      "category": "数码"
     },
     {
       "raw_hot": 33473,
