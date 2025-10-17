@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760719570465,
+  "endTime": 1760721729290,
   "band_list": [
     {
       "raw_hot": 9427103,
@@ -7147,7 +7147,7 @@
       "category": "健康医疗,民生新闻"
     },
     {
-      "raw_hot": 170772,
+      "raw_hot": 170858,
       "num": 170772,
       "word": "丈夫中1000万变心但不想离婚",
       "onboard_time": 1760717303,
@@ -8683,6 +8683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147212,
+      "num": 214856,
+      "word": "爱奇艺Q4排播",
+      "onboard_time": 1760718622,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147155,
       "num": 147155,
       "word": "iG拿下火龙魂",
@@ -8961,14 +8969,6 @@
       "onboard_time": 1760668041,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 143548,
-      "num": 214856,
-      "word": "爱奇艺Q4排播",
-      "onboard_time": 1760718622,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 143397,
@@ -18052,7 +18052,7 @@
     },
     {
       "raw_hot": 70622,
-      "num": 79304,
+      "num": 80165,
       "word": "热巴邓为鞠婧祎最亮眼艺人前三",
       "onboard_time": 1760715801,
       "rank": 43,
@@ -19331,6 +19331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51505,
+      "num": 80199,
+      "word": "郑恺人活着就为了个体面",
+      "onboard_time": 1760720540,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51372,
       "num": 51372,
       "word": "山姆枣泥核桃蛋糕被曝吃出一颗牙",
@@ -19680,6 +19688,14 @@
       "word": "直击湾芯展",
       "onboard_time": 1760337861,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45931,
+      "num": 80153,
+      "word": "请积极夺回你的注意力",
+      "onboard_time": 1760719698,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -20361,6 +20377,14 @@
       "onboard_time": 1760467454,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 33801,
+      "num": 80064,
+      "word": "冷帽",
+      "onboard_time": 1760721618,
+      "rank": 49,
+      "category": "时尚,休闲"
     },
     {
       "raw_hot": 33473,
