@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/18 00:32:52 ~ 2025/10/18 02:33:37
+本榜单时间：2025/10/18 00:32:52 ~ 2025/10/18 02:46:37
 </p>
 </blockquote>
 <p>
@@ -309,14 +309,14 @@ AL晋级S15八强（热度：75484）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E4%BA%BA%E6%B4%BB%E7%9D%80%E5%B0%B1%E4%B8%BA%E4%BA%86%E4%B8%AA%E4%BD%93%E9%9D%A2%23" target="weibo">
-郑恺人活着就为了个体面（热度：51505）
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E7%A7%AF%E6%9E%81%E5%A4%BA%E5%9B%9E%E4%BD%A0%E7%9A%84%E6%B3%A8%E6%84%8F%E5%8A%9B%23" target="weibo">
+请积极夺回你的注意力（热度：53158）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E7%A7%AF%E6%9E%81%E5%A4%BA%E5%9B%9E%E4%BD%A0%E7%9A%84%E6%B3%A8%E6%84%8F%E5%8A%9B%23" target="weibo">
-请积极夺回你的注意力（热度：48425）
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E4%BA%BA%E6%B4%BB%E7%9D%80%E5%B0%B1%E4%B8%BA%E4%BA%86%E4%B8%AA%E4%BD%93%E9%9D%A2%23" target="weibo">
+郑恺人活着就为了个体面（热度：51505）
 </a>
 </li>
 
@@ -357,8 +357,14 @@ AL晋级S15八强（热度：75484）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E5%9B%9E%E5%BA%94%E6%89%BE%E5%88%B0%E5%A4%B1%E8%81%94%E5%A5%B3%E7%AB%A5%E7%9E%AC%E9%97%B4%E8%90%BD%E6%B3%AA%23" target="weibo">
+民警回应找到失联女童瞬间落泪（热度：27262）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%AF%E6%97%B6%E5%80%99%E6%89%93%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%E5%95%86%E6%88%98%E4%BA%86%23" target="weibo">
-是时候打王牌对王牌商战了（热度：23536）
+是时候打王牌对王牌商战了（热度：25808）
 </a>
 </li>
 
@@ -371,6 +377,12 @@ AL晋级S15八强（热度：75484）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E9%9E%AD%E5%AD%90%E8%88%9E%23" target="weibo">
 白鹿鞭子舞（热度：23351）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%9C%BC%E9%9F%B3%E4%B9%90%E8%8A%82%E9%98%B5%E5%AE%B9%23" target="weibo">
+大眼音乐节阵容（热度：20457）
 </a>
 </li>
 
