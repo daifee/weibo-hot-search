@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760740775374,
+  "endTime": 1760743344849,
   "band_list": [
     {
       "raw_hot": 1246473,
@@ -17,6 +17,14 @@
       "onboard_time": 1760715923,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 578248,
+      "num": 793926,
+      "word": "上海",
+      "onboard_time": 1760740035,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 548525,
@@ -59,6 +67,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 273636,
+      "num": 170772,
+      "word": "丈夫中1000万变心但不想离婚",
+      "onboard_time": 1760717303,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265584,
+      "num": 172976,
+      "word": "野人小孩没有户口",
+      "onboard_time": 1760710704,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256543,
       "num": 256543,
       "word": "5家企业涉嫌支持台军心战大队",
@@ -83,36 +107,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 250609,
-      "num": 172976,
-      "word": "野人小孩没有户口",
-      "onboard_time": 1760710704,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 221699,
-      "num": 170772,
-      "word": "丈夫中1000万变心但不想离婚",
-      "onboard_time": 1760717303,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207215,
       "num": 219356,
       "word": "杨力维杨舒予父亲去世",
       "onboard_time": 1760691200,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199461,
-      "num": 470820,
-      "word": "上海",
-      "onboard_time": 1760740035,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 160574,
@@ -137,6 +137,14 @@
       "onboard_time": 1760718622,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145315,
+      "num": 202948,
+      "word": "辽宁失联女童因红衣被快速找到",
+      "onboard_time": 1760709202,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140750,
@@ -187,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126747,
-      "num": 202948,
-      "word": "辽宁失联女童因红衣被快速找到",
-      "onboard_time": 1760709202,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124416,
       "num": 205781,
       "word": "入青云热度",
@@ -217,6 +217,14 @@
       "onboard_time": 1760716821,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107672,
+      "num": 107672,
+      "word": "缅北徐老发暴力性不亚于四大家族",
+      "onboard_time": 1760712025,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107402,
@@ -291,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83555,
+      "num": 83555,
+      "word": "网红柴怼怼被正式逮捕",
+      "onboard_time": 1760711247,
+      "rank": 39,
+      "category": "网红,民生新闻"
+    },
+    {
       "raw_hot": 80922,
       "num": 80922,
       "word": "女生泼男生饮料叫嚣对方没资格说活",
@@ -305,14 +321,6 @@
       "onboard_time": 1760694861,
       "rank": 38,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 79782,
-      "num": 80177,
-      "word": "网红柴怼怼被正式逮捕",
-      "onboard_time": 1760711247,
-      "rank": 39,
-      "category": "网红,民生新闻"
     },
     {
       "raw_hot": 75484,
@@ -355,12 +363,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67234,
+      "num": 83816,
+      "word": "王者荣耀",
+      "onboard_time": 1760742677,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 64976,
       "num": 79522,
       "word": "王楚钦大气请队友吃饭",
       "onboard_time": 1760712446,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61216,
+      "num": 72699,
+      "word": "民警回应找到失联女童瞬间落泪",
+      "onboard_time": 1760726418,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60306,
@@ -385,14 +409,6 @@
       "onboard_time": 1760711546,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 57665,
-      "num": 80090,
-      "word": "缅北徐老发暴力性不亚于四大家族",
-      "onboard_time": 1760712025,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55900,
@@ -427,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 49615,
+      "num": 49615,
+      "word": "真正缓解便秘的3种食物",
+      "onboard_time": 1760743220,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 48266,
       "num": 78513,
       "word": "金钟奖",
@@ -443,14 +467,6 @@
       "category": "时尚,休闲"
     },
     {
-      "raw_hot": 45998,
-      "num": 72699,
-      "word": "民警回应找到失联女童瞬间落泪",
-      "onboard_time": 1760726418,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44459,
       "num": 78241,
       "word": "国考审核人员 好强的活人感",
@@ -459,8 +475,24 @@
       "category": "教育"
     },
     {
+      "raw_hot": 43021,
+      "num": 43021,
+      "word": "如果一个人长期不工作",
+      "onboard_time": 1760743159,
+      "rank": 36,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 42515,
+      "num": 42515,
+      "word": "柿子是一种很全能的水果",
+      "onboard_time": 1760743220,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 38521,
-      "num": 38521,
+      "num": 40136,
       "word": "九寨沟",
       "onboard_time": 1760734694,
       "rank": 39,
@@ -473,6 +505,22 @@
       "onboard_time": 1760706802,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33218,
+      "num": 53546,
+      "word": "入青云",
+      "onboard_time": 1760742977,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 30827,
+      "num": 57277,
+      "word": "周杰伦蔡威泽纠纷细节曝光",
+      "onboard_time": 1760727076,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 29692,
@@ -521,14 +569,6 @@
       "onboard_time": 1760733434,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20808,
-      "num": 57277,
-      "word": "周杰伦蔡威泽纠纷细节曝光",
-      "onboard_time": 1760727076,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 20457,
