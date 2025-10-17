@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 23:41:05
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 00:32:52
 </p>
 </blockquote>
 <p>
@@ -1541,6 +1541,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%AF%B4%E5%87%AD%E5%95%A5%E4%B8%8D%E7%9F%A5%E6%83%85%E6%97%B6%E6%8D%A2%E6%95%99%E7%BB%83%23" target="weibo">
 张继科说凭啥不知情时换教练（热度：975171）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%20%E5%A7%90%E4%BD%A0%E4%B8%8D%E5%9C%A8%E7%9A%84%E4%BA%BA%E7%94%9F%E7%9C%9F%E7%9A%84%E5%BE%88%E8%BE%9B%E8%8B%A6%23" target="weibo">
+小S 姐你不在的人生真的很辛苦（热度：971495）
 </a>
 </li>
 
@@ -4149,6 +4155,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%B2%B3%E6%96%B0%E9%83%8E%E6%AF%8D%E4%BA%B2%E9%A6%96%E5%BA%A6%E5%8F%91%E5%A3%B0%23" target="weibo">
+跳河新郎母亲首度发声（热度：548525）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%97%B6%E6%9C%9F%E7%9A%84%E7%85%A7%E7%89%87%23" target="weibo">
 肖战幼儿园时期的照片（热度：547691）
 </a>
@@ -5139,6 +5151,12 @@ TheShy回应上单韦鲁斯（热度：477977）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E6%99%92%E5%A9%9A%E7%A4%BC%E7%85%A7%23" target="weibo">
+黄子韬徐艺洋晒婚礼照（热度：477445）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%E5%9D%90%E4%B8%8B%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%BC%80%E5%A7%8B%E6%8C%87%E5%AF%BC%23" target="weibo">
 王皓坐下王楚钦开始指导（热度：477416）
 </a>
@@ -5993,24 +6011,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E6%B3%BD%E5%90%8E%E6%8E%A8%E5%87%BA%E5%A8%83%E5%B0%8F%E6%99%BA%E5%93%81%E7%89%8C%23" target="weibo">
 宗泽后推出娃小智品牌（热度：425226）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%86%B7%E5%86%B7%E5%86%B7%E5%86%B7%E5%86%B7%23" target="weibo">
-北京冷冷冷冷冷（热度：424857）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E7%BB%B4%E5%A1%94%E5%9B%9E%E5%BA%94%E4%B8%80%E8%BD%A6%E8%BE%86%E8%B5%B7%E7%81%AB%E8%87%B47%E8%BD%A6%E7%83%A7%E6%AF%81%23" target="weibo">
-阿维塔回应一车辆起火致7车烧毁（热度：424813）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%9A%E6%96%87%E6%89%AB%E8%85%BF%E8%88%9E%20%E8%AF%A1%E5%BC%82%E5%A6%82ai%23" target="weibo">
-杨博文扫腿舞 诡异如ai（热度：423420）
 </a>
 </li>
 

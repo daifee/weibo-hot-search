@@ -1,0 +1,411 @@
+{
+  "startTime": 1760718772419,
+  "endTime": 1760718772419,
+  "band_list": [
+    {
+      "raw_hot": 1246473,
+      "num": 182916,
+      "word": "小S得奖",
+      "onboard_time": 1760713284,
+      "rank": 10,
+      "category": "电影,艺人"
+    },
+    {
+      "raw_hot": 971495,
+      "num": 157134,
+      "word": "小S 姐你不在的人生真的很辛苦",
+      "onboard_time": 1760715923,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 548525,
+      "num": 838875,
+      "word": "跳河新郎母亲首度发声",
+      "onboard_time": 1760713524,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477445,
+      "num": 179524,
+      "word": "黄子韬徐艺洋晒婚礼照",
+      "onboard_time": 1760715203,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 443137,
+      "num": 173821,
+      "word": "肖战新剧女主姜妍",
+      "onboard_time": 1760712804,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 342049,
+      "num": 342049,
+      "word": "缅北电诈园区剁人手指泡酒",
+      "onboard_time": 1760679982,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256543,
+      "num": 256543,
+      "word": "5家企业涉嫌支持台军心战大队",
+      "onboard_time": 1760714183,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250609,
+      "num": 167277,
+      "word": "野人小孩没有户口",
+      "onboard_time": 1760710704,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232820,
+      "num": 162158,
+      "word": "娃都三岁了产妇竟被酒店索月子房费",
+      "onboard_time": 1760713643,
+      "rank": 14,
+      "category": "舆论监督"
+    },
+    {
+      "raw_hot": 211258,
+      "num": 156740,
+      "word": "蒋龙 张弛",
+      "onboard_time": 1760715983,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207215,
+      "num": 207215,
+      "word": "杨力维杨舒予父亲去世",
+      "onboard_time": 1760691200,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 152581,
+      "num": 152581,
+      "word": "日本女子强迫她人卖淫接客400人",
+      "onboard_time": 1760712985,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 150114,
+      "num": 150114,
+      "word": "虽然离很久了 但婚纱照超好看",
+      "onboard_time": 1760716461,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 140448,
+      "num": 140448,
+      "word": "一家三口被撞身亡案家属透露新细节",
+      "onboard_time": 1760707403,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138575,
+      "num": 206762,
+      "word": "国际金银快速下挫",
+      "onboard_time": 1760712625,
+      "rank": 5,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 138307,
+      "num": 198486,
+      "word": "爱奇艺Q4排播",
+      "onboard_time": 1760718622,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 135526,
+      "num": 135526,
+      "word": "肖战到达锦州",
+      "onboard_time": 1760716941,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 134745,
+      "num": 134745,
+      "word": "丈夫中1000万变心但不想离婚",
+      "onboard_time": 1760717303,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132672,
+      "num": 132672,
+      "word": "鹿晗张艺兴黄子韬在南山塔挂过锁头",
+      "onboard_time": 1760700383,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 130247,
+      "num": 130247,
+      "word": "辽宁一幼儿园被指15天虐童上千次",
+      "onboard_time": 1760715801,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126747,
+      "num": 197744,
+      "word": "辽宁失联女童因红衣被快速找到",
+      "onboard_time": 1760709202,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124416,
+      "num": 192172,
+      "word": "入青云热度",
+      "onboard_time": 1760709924,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114027,
+      "num": 187092,
+      "word": "金价暴涨时4万5黄金订单蒸发",
+      "onboard_time": 1760699183,
+      "rank": 9,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 113545,
+      "num": 113545,
+      "word": "关晓彤古装",
+      "onboard_time": 1760717482,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 108695,
+      "num": 108695,
+      "word": "黄金",
+      "onboard_time": 1760711183,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 107402,
+      "num": 96634,
+      "word": "字节跳动程序员降薪一半去德国",
+      "onboard_time": 1760707282,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 106663,
+      "num": 106663,
+      "word": "克拉拉官宣离婚",
+      "onboard_time": 1760692941,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 102722,
+      "num": 102722,
+      "word": "婚俗争执成压垮新郎最后稻草",
+      "onboard_time": 1760713582,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99609,
+      "num": 99609,
+      "word": "减肥减成杨幂了",
+      "onboard_time": 1760698702,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 92830,
+      "num": 92830,
+      "word": "毛晓彤这15秒明媚得我想哭",
+      "onboard_time": 1760716821,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 92308,
+      "num": 92308,
+      "word": "男子回酒店惊现一只猴坐床上",
+      "onboard_time": 1760714302,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91746,
+      "num": 91746,
+      "word": "胡彦斌都脱敏成这样了吗",
+      "onboard_time": 1760711606,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91164,
+      "num": 91164,
+      "word": "易烊千玺小网站更新",
+      "onboard_time": 1760714183,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 90472,
+      "num": 90472,
+      "word": "金价暴涨男子买黄金反亏千元",
+      "onboard_time": 1760712203,
+      "rank": 35,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 88505,
+      "num": 88505,
+      "word": "卢昱晓 我对你何止半分真心",
+      "onboard_time": 1760703984,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 80922,
+      "num": 80922,
+      "word": "女生泼男生饮料叫嚣对方没资格说活",
+      "onboard_time": 1760714244,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80787,
+      "num": 80787,
+      "word": "日本药 下料狠",
+      "onboard_time": 1760694861,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 79782,
+      "num": 79782,
+      "word": "网红柴怼怼被正式逮捕",
+      "onboard_time": 1760711247,
+      "rank": 39,
+      "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 75484,
+      "num": 133638,
+      "word": "AL晋级S15八强",
+      "onboard_time": 1760704461,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 68084,
+      "num": 79750,
+      "word": "于和伟到吴石墓前献花",
+      "onboard_time": 1760708663,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64976,
+      "num": 79522,
+      "word": "王楚钦大气请队友吃饭",
+      "onboard_time": 1760712446,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 62100,
+      "num": 79383,
+      "word": "金价",
+      "onboard_time": 1760710644,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 61941,
+      "num": 79304,
+      "word": "热巴邓为鞠婧祎最亮眼艺人前三",
+      "onboard_time": 1760715801,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 60306,
+      "num": 79050,
+      "word": "陈奕恒日本",
+      "onboard_time": 1760697202,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 60023,
+      "num": 78905,
+      "word": "孙恩盛 费加罗",
+      "onboard_time": 1760712084,
+      "rank": 45,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 59655,
+      "num": 78818,
+      "word": "董事长爷爷带孙女参观他的公司",
+      "onboard_time": 1760711546,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 55663,
+      "num": 78664,
+      "word": "缅北徐老发暴力性不亚于四大家族",
+      "onboard_time": 1760712025,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48266,
+      "num": 78513,
+      "word": "金钟奖",
+      "onboard_time": 1760695822,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 43546,
+      "num": 78241,
+      "word": "国考审核人员 好强的活人感",
+      "onboard_time": 1760696482,
+      "rank": 49,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 35699,
+      "num": 295379,
+      "word": "今天起传递这颗红星",
+      "onboard_time": 1760706802,
+      "rank": 2,
+      "category": "国内时政"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#中国经济关键时刻必有关键抉择#"
+    }
+  ]
+}
