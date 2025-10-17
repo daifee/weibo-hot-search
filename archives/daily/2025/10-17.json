@@ -1,7 +1,15 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760683027519,
+  "endTime": 1760683751209,
   "band_list": [
+    {
+      "raw_hot": 1898196,
+      "num": 1898196,
+      "word": "缅北电诈园区剁人手指泡酒",
+      "onboard_time": 1760679982,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 1713011,
       "num": 606700,
@@ -9,14 +17,6 @@
       "onboard_time": 1760663901,
       "rank": 10,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1682393,
-      "num": 1682393,
-      "word": "缅北电诈园区剁人手指泡酒",
-      "onboard_time": 1760679982,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1182644,
@@ -179,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 406016,
+      "num": 229711,
+      "word": "野人小孩父母均大学毕业",
+      "onboard_time": 1760678304,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 379419,
       "num": 296387,
       "word": "杨幂穿着睡衣回国",
@@ -211,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337469,
+      "num": 337469,
+      "word": "电诈窝点墙上有血手印",
+      "onboard_time": 1760681241,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 334683,
       "num": 334683,
       "word": "杨瀚森哭了",
@@ -241,6 +257,14 @@
       "onboard_time": 1760664201,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312855,
+      "num": 312855,
+      "word": "樊振东全运会证件照",
+      "onboard_time": 1760679922,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 302896,
@@ -283,14 +307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 278753,
-      "num": 193660,
-      "word": "野人小孩父母均大学毕业",
-      "onboard_time": 1760678304,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269871,
       "num": 269871,
       "word": "iPhoneAir正式开售",
@@ -323,14 +339,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 262127,
-      "num": 262127,
-      "word": "樊振东全运会证件照",
-      "onboard_time": 1760679922,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 256795,
       "num": 781469,
       "word": "王腾宣传K90ProMax",
@@ -339,8 +347,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 256015,
-      "num": 192746,
+      "raw_hot": 256634,
+      "num": 225312,
       "word": "黄子韬徐艺洋中式婚服",
       "onboard_time": 1760681782,
       "rank": 21,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 238717,
-      "num": 192515,
+      "num": 225255,
       "word": "张智霖 要爆了",
       "onboard_time": 1760681782,
       "rank": 22,
@@ -385,6 +393,14 @@
       "onboard_time": 1760668522,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230161,
+      "num": 225812,
+      "word": "A股",
+      "onboard_time": 1760667381,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 227566,
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 218133,
-      "num": 194753,
+      "num": 235933,
       "word": "Gumayusi无法接受输给GEN",
       "onboard_time": 1760675784,
       "rank": 30,
@@ -459,14 +475,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 208498,
-      "num": 208498,
-      "word": "电诈窝点墙上有血手印",
-      "onboard_time": 1760681241,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208275,
       "num": 208275,
       "word": "秋裤羽绒服该出场了",
@@ -497,14 +505,6 @@
       "onboard_time": 1760666181,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 192209,
-      "num": 192209,
-      "word": "A股",
-      "onboard_time": 1760667381,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 189413,
@@ -544,6 +544,14 @@
       "word": "直接报TOP名字得了",
       "onboard_time": 1760674882,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 182764,
+      "num": 182764,
+      "word": "梁朝伟让刘嘉玲出来少说话",
+      "onboard_time": 1760682741,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -611,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166887,
+      "num": 166887,
+      "word": "终于有人把羽绒服怎么选讲透了",
+      "onboard_time": 1760683520,
+      "rank": 28,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 165694,
       "num": 194153,
       "word": "女童走失超40小时找回救援队发声",
@@ -651,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154072,
+      "num": 154072,
+      "word": "王者荣耀十周年",
+      "onboard_time": 1760683520,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 153353,
       "num": 153353,
       "word": "商务部回应美方以100%新关税施压",
@@ -688,6 +712,14 @@
       "word": "现在就出发3先导预告片",
       "onboard_time": 1760678781,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149991,
+      "num": 227256,
+      "word": "王源官宣加盟一起开麦吧",
+      "onboard_time": 1760683221,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -731,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144526,
+      "num": 144526,
+      "word": "小米王化回复王腾",
+      "onboard_time": 1760678362,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 144000,
       "num": 193479,
       "word": "终于有剧拍出了堕落的第一口",
@@ -753,14 +793,6 @@
       "onboard_time": 1760668041,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 143518,
-      "num": 143518,
-      "word": "小米王化回复王腾",
-      "onboard_time": 1760678362,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 142048,
@@ -817,6 +849,14 @@
       "onboard_time": 1760670560,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135617,
+      "num": 135617,
+      "word": "打死人的电诈嫌犯挑衅民警",
+      "onboard_time": 1760682682,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135585,
@@ -883,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130082,
+      "num": 130082,
+      "word": "鸡和土豆真是满门忠烈",
+      "onboard_time": 1760679982,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 128429,
       "num": 135146,
       "word": "知乎回应崩了",
@@ -897,6 +945,14 @@
       "onboard_time": 1760679381,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124376,
+      "num": 124376,
+      "word": "荷兰被批劫掠中企",
+      "onboard_time": 1760682141,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124284,
@@ -955,19 +1011,11 @@
       "category": "财经"
     },
     {
-      "raw_hot": 118354,
-      "num": 118354,
-      "word": "鸡和土豆真是满门忠烈",
-      "onboard_time": 1760679982,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 117997,
-      "num": 117997,
-      "word": "梁朝伟让刘嘉玲出来少说话",
-      "onboard_time": 1760682741,
-      "rank": 42,
+      "raw_hot": 118146,
+      "num": 118146,
+      "word": "彭昱畅镜头下的张子枫",
+      "onboard_time": 1760682441,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -995,6 +1043,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 115108,
+      "num": 155268,
+      "word": "新世代披哥淘汰",
+      "onboard_time": 1760682980,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114888,
       "num": 114888,
       "word": "陈哲远破9000红包",
@@ -1009,6 +1065,14 @@
       "onboard_time": 1760613320,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113525,
+      "num": 113525,
+      "word": "宁静 都是一个村的狐狸",
+      "onboard_time": 1760680042,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 113359,
@@ -1027,44 +1091,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 111791,
-      "num": 111791,
-      "word": "彭昱畅镜头下的张子枫",
-      "onboard_time": 1760682441,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 111186,
-      "num": 111186,
-      "word": "宁静 都是一个村的狐狸",
-      "onboard_time": 1760680042,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110876,
       "num": 110876,
       "word": "特朗普与普京约定在匈牙利会面",
       "onboard_time": 1760658140,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 110458,
-      "num": 110458,
-      "word": "荷兰被批劫掠中企",
-      "onboard_time": 1760682141,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 108975,
-      "num": 108975,
-      "word": "打死人的电诈嫌犯挑衅民警",
-      "onboard_time": 1760682682,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108937,
@@ -1115,6 +1147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 104596,
+      "num": 104596,
+      "word": "柯淳短剧一哥 刘晓庆短剧一姐",
+      "onboard_time": 1760683702,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104102,
       "num": 414444,
       "word": "十四五期间这些大国重器出圈了",
@@ -1161,14 +1201,6 @@
       "onboard_time": 1760676503,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 100502,
-      "num": 100502,
-      "word": "新世代披哥淘汰",
-      "onboard_time": 1760682980,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 99247,
@@ -1299,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84592,
+      "num": 226538,
+      "word": "第一批X300用户已经出片了",
+      "onboard_time": 1760681002,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 84059,
       "num": 420362,
       "word": "男子偷上万辆共享单车每辆卖105元",
@@ -1345,14 +1385,6 @@
       "onboard_time": 1760665101,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82619,
-      "num": 192960,
-      "word": "第一批X300用户已经出片了",
-      "onboard_time": 1760681002,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 80393,
@@ -1780,7 +1812,7 @@
     },
     {
       "raw_hot": 33822,
-      "num": 194187,
+      "num": 232786,
       "word": "央视官宣鸿蒙星光盛典",
       "onboard_time": 1760681721,
       "rank": 13,
@@ -1891,6 +1923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13132,
+      "num": 131075,
+      "word": "刘雯是首位登上维密秀的亚洲模特",
+      "onboard_time": 1760683160,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12217,
       "num": 33876,
       "word": "这些硬核数字密码你知道吗",
@@ -1907,6 +1947,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 11211,
+      "num": 131202,
+      "word": "王灿助养藏区小孩",
+      "onboard_time": 1760683281,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 11207,
       "num": 26506,
       "word": "原神辛焱",
@@ -1916,14 +1964,14 @@
     },
     {
       "raw_hot": 8037,
-      "num": 118897,
+      "num": 131049,
       "word": "行业顶尖专家谈技术普惠",
       "onboard_time": 1760680881,
       "rank": 39,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 4847,
+      "raw_hot": 5261,
       "num": 807224,
       "word": "红星照耀中国",
       "onboard_time": 1760593821,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 14:37:07
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 14:49:11
 </p>
 </blockquote>
 <p>
@@ -231,6 +231,12 @@ T1战胜iG（热度：2289458）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E5%89%81%E4%BA%BA%E6%89%8B%E6%8C%87%E6%B3%A1%E9%85%92%23" target="weibo">
+缅北电诈园区剁人手指泡酒（热度：1898196）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iG%E5%AF%B9%E6%88%98T1%23" target="weibo">
 iG对战T1（热度：1886560）
 </a>
@@ -329,12 +335,6 @@ iG对战T1（热度：1886560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%BA%9C%E5%A4%A7%E9%81%93%E8%BD%A6%E7%A5%B8%E7%B3%BB%E9%85%92%E9%A9%BE%E4%BA%8B%E6%95%85%23" target="weibo">
 天府大道车祸系酒驾事故（热度：1688988）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%9B%AD%E5%8C%BA%E5%89%81%E4%BA%BA%E6%89%8B%E6%8C%87%E6%B3%A1%E9%85%92%23" target="weibo">
-缅北电诈园区剁人手指泡酒（热度：1682393）
 </a>
 </li>
 
