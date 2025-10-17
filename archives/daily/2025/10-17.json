@@ -1,10 +1,10 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760678694233,
+  "endTime": 1760679672988,
   "band_list": [
     {
       "raw_hot": 1713011,
-      "num": 267289,
+      "num": 606700,
       "word": "微信 一删皆空",
       "onboard_time": 1760663901,
       "rank": 10,
@@ -20,15 +20,23 @@
     },
     {
       "raw_hot": 1142464,
-      "num": 266840,
+      "num": 549465,
       "word": "咬嘴 口腔癌",
       "onboard_time": 1760667321,
       "rank": 12,
       "category": "科学科普,健康医疗"
     },
     {
+      "raw_hot": 1115414,
+      "num": 633482,
+      "word": "谢可寅 她穿婚纱很漂亮",
+      "onboard_time": 1760676563,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1102571,
-      "num": 267396,
+      "num": 628518,
       "word": "刘奕畅被曝酒后围殴他人",
       "onboard_time": 1760672781,
       "rank": 24,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1048474,
-      "num": 266153,
+      "num": 302751,
       "word": "迪丽热巴代言骆驼",
       "onboard_time": 1760668822,
       "rank": 11,
@@ -59,8 +67,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 915371,
+      "num": 1146459,
+      "word": "美国一储藏约816吨大豆粮仓倒塌",
+      "onboard_time": 1760675003,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 824200,
-      "num": 276485,
+      "num": 806510,
       "word": "金价一夜暴涨有投资者彻夜难眠",
       "onboard_time": 1760675182,
       "rank": 38,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 801008,
-      "num": 266725,
+      "num": 464293,
       "word": "逼员工卖淫女嫌犯因外貌在日本走红",
       "onboard_time": 1760662762,
       "rank": 11,
@@ -91,24 +107,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 698638,
-      "num": 1111782,
-      "word": "美国一储藏约816吨大豆粮仓倒塌",
-      "onboard_time": 1760675003,
-      "rank": 6,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 689950,
-      "num": 220854,
-      "word": "谢可寅 她穿婚纱很漂亮",
-      "onboard_time": 1760676563,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 677765,
-      "num": 266267,
+      "num": 362798,
       "word": "李茂自曝在弦子洗澡时求婚",
       "onboard_time": 1760670142,
       "rank": 31,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 539215,
-      "num": 539215,
+      "num": 778937,
       "word": "杭州有人600元时囤150万黄金",
       "onboard_time": 1760663482,
       "rank": 3,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 537652,
-      "num": 243506,
+      "num": 351293,
       "word": "刘宇宁陪黄子韬敬酒",
       "onboard_time": 1760675245,
       "rank": 27,
@@ -188,11 +188,19 @@
     },
     {
       "raw_hot": 354645,
-      "num": 441731,
+      "num": 665740,
       "word": "成毅说演员先做人再演戏",
       "onboard_time": 1760616381,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334683,
+      "num": 334683,
+      "word": "杨瀚森哭了",
+      "onboard_time": 1760677882,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 324291,
@@ -228,7 +236,7 @@
     },
     {
       "raw_hot": 298798,
-      "num": 217875,
+      "num": 296387,
       "word": "杨幂穿着睡衣回国",
       "onboard_time": 1760675664,
       "rank": 38,
@@ -291,8 +299,24 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 256795,
+      "num": 781469,
+      "word": "王腾宣传K90ProMax",
+      "onboard_time": 1760676263,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 254342,
+      "num": 254342,
+      "word": "男童掉进烧烤店炭堆全身烧伤",
+      "onboard_time": 1760678241,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 250208,
-      "num": 265540,
+      "num": 753757,
       "word": "日本前首相村山富市去世",
       "onboard_time": 1760675123,
       "rank": 17,
@@ -339,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 222205,
-      "num": 222205,
-      "word": "王腾宣传K90ProMax",
-      "onboard_time": 1760676263,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 219839,
       "num": 434950,
       "word": "徐艺洋 谢彬彬我的男朋友",
@@ -356,7 +372,7 @@
     },
     {
       "raw_hot": 218133,
-      "num": 164041,
+      "num": 178580,
       "word": "Gumayusi无法接受输给GEN",
       "onboard_time": 1760675784,
       "rank": 30,
@@ -411,16 +427,16 @@
       "category": "教育"
     },
     {
-      "raw_hot": 196970,
-      "num": 196970,
-      "word": "杨瀚森哭了",
-      "onboard_time": 1760677882,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 204969,
+      "num": 712855,
+      "word": "陆虎新歌烂人",
+      "onboard_time": 1760678602,
+      "rank": 37,
+      "category": "音乐"
     },
     {
-      "raw_hot": 192720,
-      "num": 192720,
+      "raw_hot": 199550,
+      "num": 199550,
       "word": "邓莎和老公因为狗分居",
       "onboard_time": 1760677163,
       "rank": 30,
@@ -433,6 +449,14 @@
       "onboard_time": 1760666181,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 191472,
+      "num": 191472,
+      "word": "野人小孩父母均大学毕业",
+      "onboard_time": 1760678304,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189413,
@@ -555,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159266,
+      "num": 159266,
+      "word": "蒋龙张弛断联和好就一句对不起",
+      "onboard_time": 1760678420,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158226,
       "num": 264896,
       "word": "洗衣机用完该不该开门晾着",
@@ -601,6 +633,22 @@
       "onboard_time": 1760671102,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150488,
+      "num": 192179,
+      "word": "现在就出发3先导预告片",
+      "onboard_time": 1760678781,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149884,
+      "num": 149884,
+      "word": "喻言新综艺录到自己家门口了",
+      "onboard_time": 1760679381,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 148223,
@@ -683,12 +731,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140837,
-      "num": 140837,
-      "word": "野人小孩父母均大学毕业",
-      "onboard_time": 1760678304,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 140379,
+      "num": 140379,
+      "word": "小米王化回复王腾",
+      "onboard_time": 1760678362,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 139197,
@@ -803,12 +851,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 125091,
-      "num": 135552,
-      "word": "蒋龙张弛断联和好就一句对不起",
-      "onboard_time": 1760678420,
+      "raw_hot": 126762,
+      "num": 126762,
+      "word": "环球人物 黄子弘凡",
+      "onboard_time": 1760679381,
       "rank": 38,
-      "category": "综艺"
+      "category": "艺人"
     },
     {
       "raw_hot": 124284,
@@ -817,22 +865,6 @@
       "onboard_time": 1760675964,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124074,
-      "num": 135658,
-      "word": "陆虎新歌烂人",
-      "onboard_time": 1760678602,
-      "rank": 37,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 123313,
-      "num": 123313,
-      "word": "小米王化回复王腾",
-      "onboard_time": 1760678362,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 121943,
@@ -987,6 +1019,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102353,
+      "num": 102353,
+      "word": "本届金鸡女主最大遗珠",
+      "onboard_time": 1760677763,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 101463,
+      "num": 218825,
+      "word": "化学老师用火焰掌奖励学生引争议",
+      "onboard_time": 1760678002,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101037,
+      "num": 101037,
+      "word": "微信提现23万免手续费的方法",
+      "onboard_time": 1760676503,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 99247,
       "num": 99247,
       "word": "何美延和梁淞因为孩子才没离婚",
@@ -1040,14 +1096,6 @@
       "word": "王浩泽回家乡分享了3句话",
       "onboard_time": 1760666661,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93237,
-      "num": 218825,
-      "word": "化学老师用火焰掌奖励学生引争议",
-      "onboard_time": 1760678002,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1169,14 +1217,6 @@
       "onboard_time": 1760665101,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 82420,
-      "num": 218986,
-      "word": "男童掉进烧烤店炭堆全身烧伤",
-      "onboard_time": 1760678241,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80393,
@@ -1507,6 +1547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44382,
+      "num": 313547,
+      "word": "小当家特级厨师争霸赛重启",
+      "onboard_time": 1760677402,
+      "rank": 17,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 44286,
       "num": 408548,
       "word": "三个少年",
@@ -1595,14 +1643,6 @@
       "category": "民生新闻,军事"
     },
     {
-      "raw_hot": 30307,
-      "num": 219323,
-      "word": "小当家特级厨师争霸赛重启",
-      "onboard_time": 1760677402,
-      "rank": 17,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 30211,
       "num": 404904,
       "word": "孙颖莎第一张4K超清实况",
@@ -1612,7 +1652,7 @@
     },
     {
       "raw_hot": 30187,
-      "num": 220376,
+      "num": 473167,
       "word": "机器人怎样改变人类生活",
       "onboard_time": 1760677284,
       "rank": 14,
@@ -1715,8 +1755,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 3984,
-      "num": 515110,
+      "raw_hot": 4847,
+      "num": 807224,
       "word": "红星照耀中国",
       "onboard_time": 1760593821,
       "rank": 2,
