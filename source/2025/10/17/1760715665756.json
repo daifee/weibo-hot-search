@@ -1,0 +1,410 @@
+{
+  "runTime": 1760715665756,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 657339,
+        "num": 1105174,
+        "word": "缅北电诈园区剁人手指泡酒",
+        "onboard_time": 1760679982,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 374486,
+        "num": 374486,
+        "word": "跳河新郎母亲首度发声",
+        "onboard_time": 1760713524,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40148,
+        "num": 355874,
+        "word": "今天起传递这颗红星",
+        "onboard_time": 1760706802,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 355344,
+        "num": 355344,
+        "word": "杨力维杨舒予父亲去世",
+        "onboard_time": 1760691200,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321000,
+        "num": 321000,
+        "word": "国际金银快速下挫",
+        "onboard_time": 1760712625,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 276651,
+        "num": 276651,
+        "word": "杨振宁院士半月前刚过103岁生日",
+        "onboard_time": 1760711183,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234245,
+        "num": 234245,
+        "word": "5家企业涉嫌支持台军心战大队",
+        "onboard_time": 1760714183,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221433,
+        "num": 221433,
+        "word": "辽宁朝阳失联女童找到后派出所所长泪流满面",
+        "onboard_time": 1760707225,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186735,
+        "num": 186735,
+        "word": "入青云热度",
+        "onboard_time": 1760709924,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185763,
+        "num": 185763,
+        "word": "辽宁失联女童因红衣被快速找到",
+        "onboard_time": 1760709202,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2730759,
+        "num": 185426,
+        "word": "小S得奖",
+        "onboard_time": 1760713284,
+        "rank": 10,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 569863,
+        "num": 185260,
+        "word": "肖战新剧女主姜妍",
+        "onboard_time": 1760712804,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384118,
+        "num": 184742,
+        "word": "野人小孩没有户口",
+        "onboard_time": 1760710704,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201947,
+        "num": 184325,
+        "word": "娃都三岁了产妇竟被酒店索月子房费",
+        "onboard_time": 1760713643,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 184259,
+        "num": 184259,
+        "word": "一家三口被撞身亡案家属透露新细节",
+        "onboard_time": 1760707403,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397303,
+        "num": 183800,
+        "word": "小S 金钟奖",
+        "onboard_time": 1760695162,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177229,
+        "num": 177229,
+        "word": "减肥减成杨幂了",
+        "onboard_time": 1760698702,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175705,
+        "num": 175705,
+        "word": "鹿晗张艺兴黄子韬在南山塔挂过锁头",
+        "onboard_time": 1760700383,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159783,
+        "num": 159783,
+        "word": "金价暴涨时4万5黄金订单蒸发",
+        "onboard_time": 1760699183,
+        "rank": 18,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 143920,
+        "num": 143920,
+        "word": "易烊千玺小网站更新",
+        "onboard_time": 1760714183,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260284,
+        "num": 143847,
+        "word": "黄金",
+        "onboard_time": 1760711183,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143604,
+        "num": 143604,
+        "word": "胡彦斌都脱敏成这样了吗",
+        "onboard_time": 1760711606,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136120,
+        "num": 136120,
+        "word": "卢昱晓 我对你何止半分真心",
+        "onboard_time": 1760703984,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122724,
+        "num": 122724,
+        "word": "黄子韬徐艺洋晒婚礼照",
+        "onboard_time": 1760715203,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121928,
+        "num": 121928,
+        "word": "网红柴怼怼被正式逮捕",
+        "onboard_time": 1760711247,
+        "rank": 24,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 121171,
+        "num": 121171,
+        "word": "克拉拉官宣离婚",
+        "onboard_time": 1760692941,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119567,
+        "num": 119567,
+        "word": "于和伟到吴石墓前献花",
+        "onboard_time": 1760708663,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117275,
+        "num": 117275,
+        "word": "金钟奖",
+        "onboard_time": 1760695822,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115830,
+        "num": 115830,
+        "word": "王楚钦大气请队友吃饭",
+        "onboard_time": 1760712446,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115262,
+        "num": 115262,
+        "word": "男子回酒店惊现一只猴坐床上",
+        "onboard_time": 1760714302,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132362,
+        "num": 112363,
+        "word": "字节跳动程序员降薪一半去德国",
+        "onboard_time": 1760707282,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 109021,
+        "num": 109021,
+        "word": "孙恩盛 费加罗",
+        "onboard_time": 1760712084,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 108221,
+        "num": 108221,
+        "word": "日本女子强迫她人卖淫接客400人",
+        "onboard_time": 1760712985,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96932,
+        "num": 96932,
+        "word": "日本药 下料狠",
+        "onboard_time": 1760694861,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 95896,
+        "num": 95896,
+        "word": "惠州人社局介入爬行学狗叫事件",
+        "onboard_time": 1760708901,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95075,
+        "num": 95075,
+        "word": "金价暴涨男子买黄金反亏千元",
+        "onboard_time": 1760712203,
+        "rank": 35,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 94311,
+        "num": 94311,
+        "word": "董事长爷爷带孙女参观他的公司",
+        "onboard_time": 1760711546,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89547,
+        "num": 89547,
+        "word": "婚俗争执成压垮新郎最后稻草",
+        "onboard_time": 1760713582,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 538346,
+        "num": 89352,
+        "word": "荣某某李某某因情感纠纷引发拉拽",
+        "onboard_time": 1760710463,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88084,
+        "num": 88084,
+        "word": "AL晋级S15八强",
+        "onboard_time": 1760704461,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 6139873,
+        "num": 6139873,
+        "word": "警方通报荣梓杉李禹熹纠纷",
+        "onboard_time": 1760709984,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88045,
+        "num": 88045,
+        "word": "周深福州",
+        "onboard_time": 1760715321,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85742,
+        "num": 85742,
+        "word": "周洁琼辟谣被甩归国女艺人",
+        "onboard_time": 1760708603,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52293,
+        "num": 84201,
+        "word": "女生泼男生饮料叫嚣对方没资格说活",
+        "onboard_time": 1760714244,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84053,
+        "num": 84053,
+        "word": "李亚鹏说真相比猜想更残忍",
+        "onboard_time": 1760710226,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83948,
+        "num": 83948,
+        "word": "邓紫棋演唱会",
+        "onboard_time": 1760715563,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81625,
+        "num": 81625,
+        "word": "张婧仪生图也太生了",
+        "onboard_time": 1760696601,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80046,
+        "num": 80046,
+        "word": "王楚钦怎么有沧桑感了",
+        "onboard_time": 1760715382,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77983,
+        "num": 77983,
+        "word": "人到一定年纪就会成为老吃家",
+        "onboard_time": 1760714784,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77178,
+        "num": 77178,
+        "word": "女博士比利时卖面月入6万",
+        "onboard_time": 1760714903,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济关键时刻必有关键抉择#"
+    }
+  }
+}
