@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760739805738,
+  "endTime": 1760740775374,
   "band_list": [
     {
       "raw_hot": 1246473,
@@ -105,6 +105,14 @@
       "onboard_time": 1760691200,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199461,
+      "num": 470820,
+      "word": "上海",
+      "onboard_time": 1760740035,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160574,
@@ -379,20 +387,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 57665,
+      "num": 80090,
+      "word": "缅北徐老发暴力性不亚于四大家族",
+      "onboard_time": 1760712025,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55900,
       "num": 80076,
       "word": "张婧仪生图也太生了",
       "onboard_time": 1760696601,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55663,
-      "num": 80090,
-      "word": "缅北徐老发暴力性不亚于四大家族",
-      "onboard_time": 1760712025,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54576,
@@ -435,6 +443,14 @@
       "category": "时尚,休闲"
     },
     {
+      "raw_hot": 45998,
+      "num": 72699,
+      "word": "民警回应找到失联女童瞬间落泪",
+      "onboard_time": 1760726418,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44459,
       "num": 78241,
       "word": "国考审核人员 好强的活人感",
@@ -443,11 +459,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 44239,
-      "num": 72699,
-      "word": "民警回应找到失联女童瞬间落泪",
-      "onboard_time": 1760726418,
-      "rank": 37,
+      "raw_hot": 38521,
+      "num": 38521,
+      "word": "九寨沟",
+      "onboard_time": 1760734694,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -457,14 +473,6 @@
       "onboard_time": 1760706802,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32348,
-      "num": 32348,
-      "word": "九寨沟",
-      "onboard_time": 1760734694,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29692,
@@ -484,7 +492,7 @@
     },
     {
       "raw_hot": 25808,
-      "num": 33653,
+      "num": 35624,
       "word": "是时候打王牌对王牌商战了",
       "onboard_time": 1760725636,
       "rank": 45,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 23430,
-      "num": 33803,
+      "num": 35622,
       "word": "音乐缘计划2先导片",
       "onboard_time": 1760724916,
       "rank": 47,
@@ -507,8 +515,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 21055,
-      "num": 32143,
+      "raw_hot": 22920,
+      "num": 35631,
       "word": "郭晶晶说人生不该只有一种可能",
       "onboard_time": 1760733434,
       "rank": 35,
