@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 10:12:48
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 11:07:12
 </p>
 </blockquote>
 <p>
@@ -1221,8 +1221,20 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%BB%A3%E8%A8%80%E9%AA%86%E9%A9%BC%23" target="weibo">
+迪丽热巴代言骆驼（热度：1048474）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E5%90%8D%E5%9C%BA%E9%9D%A2%20%E5%BC%A0%E7%BF%B0%E5%A8%9C%E6%89%8E%E5%AE%98%E5%AE%A3%E5%9B%BE%23" target="weibo">
 许我耀眼名场面 张翰娜扎官宣图（热度：1048444）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%AC%E5%98%B4%20%E5%8F%A3%E8%85%94%E7%99%8C%23" target="weibo">
+咬嘴 口腔癌（热度：1048296）
 </a>
 </li>
 
@@ -4203,6 +4215,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E5%BE%AE%E4%BF%A1%E4%B8%80%E5%AE%9A%E8%A6%81%E5%88%AB%E4%BA%BA%E6%89%AB%E6%88%91%23" target="weibo">
+加微信一定要别人扫我（热度：530172）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%BF%AA%E5%A6%86%E9%80%A0%E6%AD%A3%E7%A1%AE%23" target="weibo">
 孙俪妆造正确（热度：530004）
 </a>
@@ -5996,24 +6014,6 @@ Dior连发4条迪丽热巴（热度：434111）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%232025%E5%9B%BD%E5%BA%86%E6%A1%A3%E7%A5%A8%E6%88%BF18.35%E4%BA%BF%23" target="weibo">
-2025国庆档票房18.35亿（热度：408054）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%96%E4%B8%8D%E5%87%BA%E5%8E%BB%E7%9A%84%E4%B8%9C%E8%A5%BF%E5%8A%A0%E4%B8%AA%E5%A3%B3%E5%B0%B1%E5%8D%96%E5%87%BA%E5%8E%BB%E4%BA%86%23" target="weibo">
-卖不出去的东西加个壳就卖出去了（热度：407761）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%20%E7%8E%B0%E5%9C%A8vlog%E9%83%BD%E8%A6%81%E6%88%91%E6%8F%90%E9%86%92%E4%BD%A0%E6%8B%8D%E4%BA%86%E5%90%97%23" target="weibo">
-白鹿 现在vlog都要我提醒你拍了吗（热度：406950）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6305,6 +6305,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E7%9F%A2%E5%BF%97%E5%BC%BA%E5%86%9C%E6%8A%A5%E5%9B%BD%23%23" target="weibo">
 #矢志强农报国#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%BC%95%E9%A2%86%E7%AD%91%E7%89%A2%E5%9B%BD%E5%AE%B6%E7%B2%AE%E9%A3%9F%E5%AE%89%E5%85%A8%23%23" target="weibo">
+#总书记引领筑牢国家粮食安全#
 </a>
 </li>
 

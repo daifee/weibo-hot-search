@@ -1,10 +1,10 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760667168591,
+  "endTime": 1760670432601,
   "band_list": [
     {
       "raw_hot": 1713011,
-      "num": 175714,
+      "num": 179668,
       "word": "微信 一删皆空",
       "onboard_time": 1760663901,
       "rank": 10,
@@ -17,6 +17,22 @@
       "onboard_time": 1760664681,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1048474,
+      "num": 183496,
+      "word": "迪丽热巴代言骆驼",
+      "onboard_time": 1760668822,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1048296,
+      "num": 182679,
+      "word": "咬嘴 口腔癌",
+      "onboard_time": 1760667321,
+      "rank": 12,
+      "category": "科学科普,健康医疗"
     },
     {
       "raw_hot": 943011,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 818648,
-      "num": 145923,
+      "num": 178635,
       "word": "黄金",
       "onboard_time": 1760659760,
       "rank": 20,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 801008,
-      "num": 175009,
+      "num": 179363,
       "word": "逼员工卖淫女嫌犯因外貌在日本走红",
       "onboard_time": 1760662762,
       "rank": 11,
@@ -57,6 +73,14 @@
       "onboard_time": 1760663482,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 530172,
+      "num": 179290,
+      "word": "加微信一定要别人扫我",
+      "onboard_time": 1760667321,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 457282,
@@ -99,6 +123,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315702,
+      "num": 178837,
+      "word": "4岁女童在地头失踪超20小时家属发声",
+      "onboard_time": 1760664201,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 313348,
+      "num": 313348,
+      "word": "辽宁失联4岁女童已找到",
+      "onboard_time": 1760669242,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302896,
       "num": 434358,
       "word": "每月攒一颗小金饰00后女生发声",
@@ -123,12 +163,44 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 241151,
+      "raw_hot": 272753,
+      "num": 178403,
+      "word": "女子卖26万结婚五金赚18.4万",
+      "onboard_time": 1760668700,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269871,
+      "num": 269871,
+      "word": "iPhoneAir正式开售",
+      "onboard_time": 1760667142,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 244283,
       "num": 241151,
       "word": "秘鲁男子遭自家斗鸡攻击致死",
       "onboard_time": 1760663962,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 232696,
+      "num": 232696,
+      "word": "你好种地少年",
+      "onboard_time": 1760668522,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 225997,
+      "num": 225997,
+      "word": "水龙吟",
+      "onboard_time": 1760669301,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 224645,
@@ -147,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218194,
+      "num": 177601,
+      "word": "汪峰与森林北聚餐时抽烟",
+      "onboard_time": 1760668881,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211556,
       "num": 445973,
       "word": "韩国人成柬埔寨电诈园区新猎物",
@@ -155,11 +235,27 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 178489,
-      "num": 178489,
+      "raw_hot": 208275,
+      "num": 208275,
       "word": "秋裤羽绒服该出场了",
       "onboard_time": 1760661442,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196585,
+      "num": 196585,
+      "word": "水龙吟OST阵容官宣",
+      "onboard_time": 1760670381,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179693,
+      "num": 179693,
+      "word": "你见过全圆彩虹吗",
+      "onboard_time": 1760667021,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -171,6 +267,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 177494,
+      "num": 177494,
+      "word": "陈乔恩被艾伦小鸡啄米式亲醒",
+      "onboard_time": 1760669182,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175913,
+      "num": 173375,
+      "word": "钟丽缇张伦硕回应贪财好色吃嫩草",
+      "onboard_time": 1760669542,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 175855,
+      "num": 175855,
+      "word": "雀巢拟裁员1.6万人",
+      "onboard_time": 1760669660,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 175555,
       "num": 132669,
       "word": "一旦染上了早睡",
@@ -179,12 +299,36 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 167928,
+      "num": 178886,
+      "word": "一年一度生气综艺",
+      "onboard_time": 1760664681,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 160812,
+      "num": 160812,
+      "word": "李茂自曝在弦子洗澡时求婚",
+      "onboard_time": 1760670142,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155394,
       "num": 423332,
       "word": "4岁女童车内睡着后失踪超20小时",
       "onboard_time": 1760614881,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155079,
+      "num": 155079,
+      "word": "拉肚子 用水冲洗",
+      "onboard_time": 1760666181,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 153353,
@@ -203,19 +347,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149274,
-      "num": 149274,
-      "word": "4岁女童在地头失踪超20小时家属发声",
-      "onboard_time": 1760664201,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 148223,
+      "num": 148223,
+      "word": "苹果闹钟 只亮不响",
+      "onboard_time": 1760668221,
+      "rank": 35,
+      "category": "数码"
     },
     {
-      "raw_hot": 145646,
-      "num": 145646,
-      "word": "你见过全圆彩虹吗",
-      "onboard_time": 1760667021,
-      "rank": 16,
+      "raw_hot": 147315,
+      "num": 147315,
+      "word": "西安城墙已变成巨型生态缸",
+      "onboard_time": 1760668941,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -227,8 +371,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143644,
+      "num": 143644,
+      "word": "Keria回应输给CFO",
+      "onboard_time": 1760668041,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142048,
-      "num": 132637,
+      "num": 143894,
       "word": "猎罪图鉴2演员与ip共生",
       "onboard_time": 1760663422,
       "rank": 23,
@@ -243,6 +395,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139118,
+      "num": 139118,
+      "word": "A股",
+      "onboard_time": 1760667381,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 135364,
+      "num": 135364,
+      "word": "iPhoneAir首批售罄",
+      "onboard_time": 1760669660,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 135137,
+      "num": 135137,
+      "word": "单亲爸爸带女儿跑网约车住车上",
+      "onboard_time": 1760669481,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133532,
+      "num": 133532,
+      "word": "网红柯铭 我饿死也不会找他们要钱",
+      "onboard_time": 1760669602,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 133494,
       "num": 443802,
       "word": "胡塞武装总参谋长身亡",
@@ -251,12 +435,36 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 121414,
-      "num": 162168,
-      "word": "一年一度生气综艺",
-      "onboard_time": 1760664681,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 132187,
+      "num": 132187,
+      "word": "杨瀚森又进三分球了",
+      "onboard_time": 1760667561,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 128429,
+      "num": 135146,
+      "word": "知乎回应崩了",
+      "onboard_time": 1760669720,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 127571,
+      "num": 178270,
+      "word": "樊振东ProMax状态太能打",
+      "onboard_time": 1760670201,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121943,
+      "num": 177966,
+      "word": "零跑D19纯电500km刷新增程纪录",
+      "onboard_time": 1760670201,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 120626,
@@ -332,11 +540,19 @@
     },
     {
       "raw_hot": 104102,
-      "num": 104102,
+      "num": 414444,
       "word": "十四五期间这些大国重器出圈了",
       "onboard_time": 1760664020,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 99247,
+      "num": 99247,
+      "word": "何美延和梁淞因为孩子才没离婚",
+      "onboard_time": 1760670021,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 97255,
@@ -345,6 +561,14 @@
       "onboard_time": 1760645415,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97135,
+      "num": 97135,
+      "word": "官方通报滨州职业学院多名学生呕吐腹泻",
+      "onboard_time": 1760668641,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96597,
@@ -361,14 +585,6 @@
       "onboard_time": 1760622565,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 95497,
-      "num": 87145,
-      "word": "拉肚子 用水冲洗",
-      "onboard_time": 1760666181,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 95350,
@@ -651,14 +867,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 65968,
-      "num": 65968,
-      "word": "iPhoneAir正式开售",
-      "onboard_time": 1760667142,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 65787,
       "num": 65787,
       "word": "洗头先用护发素 防脱",
@@ -899,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23738,
+      "num": 139544,
+      "word": "医疗如何提高人类健康水平",
+      "onboard_time": 1760670082,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21671,
       "num": 34492,
       "word": "感觉看了一集无耻之徒",
@@ -966,6 +1182,9 @@
   "hotgov_list": [
     {
       "word": "#矢志强农报国#"
+    },
+    {
+      "word": "#总书记引领筑牢国家粮食安全#"
     }
   ]
 }
