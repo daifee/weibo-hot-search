@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 21:05:57
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 21:33:58
 </p>
 </blockquote>
 <p>
@@ -1197,6 +1197,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9D%9F%E5%A4%B4%E7%82%B8%E6%AD%BB3%E4%BE%84%E5%A5%B3%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+男子坟头炸死3侄女被执行死刑（热度：1090493）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%20%E8%A6%81%E7%88%86%E4%BA%86%23" target="weibo">
 华晨宇 要爆了（热度：1089802）
 </a>
@@ -1966,7 +1972,7 @@ K字签证不能与移民划等号（热度：860737）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%20%E9%87%91%E9%92%9F%E5%A5%96%23" target="weibo">
-小S 金钟奖（热度：850468）
+小S 金钟奖（热度：851179）
 </a>
 </li>
 
@@ -2039,6 +2045,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E6%96%B9%E5%B0%86%E6%89%BF%E6%8B%85%E6%9C%BA%E7%A5%A8%E5%92%8C%E9%85%92%E5%BA%97%E4%BA%A7%E7%94%9F%E7%9A%84%E6%8D%9F%E5%A4%B1%23" target="weibo">
 鹿晗方将承担机票和酒店产生的损失（热度：841724）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E9%99%A2%E5%A3%AB%E5%9B%9E%E5%BA%94%E6%9D%A8%E6%8C%AF%E5%AE%81%E9%80%9D%E4%B8%96%E4%BC%A0%E9%97%BB%23" target="weibo">
+中科院院士回应杨振宁逝世传闻（热度：841198）
 </a>
 </li>
 
@@ -2171,12 +2183,6 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E8%8F%9C661%E5%85%83%E5%95%86%E5%AE%B6%E9%80%80%E6%AC%BE400%E5%85%83%23" target="weibo">
 两个菜661元商家退款400元（热度：818385）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9D%9F%E5%A4%B4%E7%82%B8%E6%AD%BB3%E4%BE%84%E5%A5%B3%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
-男子坟头炸死3侄女被执行死刑（热度：816874）
 </a>
 </li>
 
@@ -4167,12 +4173,6 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E9%99%A2%E5%A3%AB%E5%9B%9E%E5%BA%94%E6%9D%A8%E6%8C%AF%E5%AE%81%E9%80%9D%E4%B8%96%E4%BC%A0%E9%97%BB%23" target="weibo">
-中科院院士回应杨振宁逝世传闻（热度：543176）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%85%8B%E5%85%B0%E5%88%B6%E8%A3%81%E4%BF%84%E7%BD%97%E6%96%AF%23" target="weibo">
 乌克兰制裁俄罗斯（热度：543094）
 </a>
@@ -5421,6 +5421,12 @@ UNINE合体（热度：458011）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%20%E6%88%91%E5%AF%B9%E4%BD%A0%E4%BD%95%E6%AD%A2%E5%8D%8A%E5%88%86%E7%9C%9F%E5%BF%83%23" target="weibo">
+卢昱晓 我对你何止半分真心（热度：454259）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%AF%B4%E6%9C%89%E7%82%B9%E4%B8%8D%E6%95%A2%E6%8E%A5%E9%9F%B3%E4%B9%90%E8%8A%82%E4%BA%86%23" target="weibo">
 薛之谦说有点不敢接音乐节了（热度：453879）
 </a>
@@ -6005,12 +6011,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E8%80%83%E4%B8%BB%E8%A7%82%E9%A2%98%23" target="weibo">
 法考主观题（热度：421975）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%BF%87%E5%AE%89%E6%A3%80%E4%B8%A2%E4%BA%8690%E5%85%8B%E9%87%91%E6%89%8B%E9%95%AF%23" target="weibo">
-女子过安检丢了90克金手镯（热度：421519）
 </a>
 </li>
 

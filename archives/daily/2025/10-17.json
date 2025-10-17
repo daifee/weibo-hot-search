@@ -1,6 +1,6 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760706357612,
+  "endTime": 1760708038895,
   "band_list": [
     {
       "raw_hot": 6997623,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1090493,
+      "num": 256726,
+      "word": "男子坟头炸死3侄女被执行死刑",
+      "onboard_time": 1760702482,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1048474,
       "num": 302751,
       "word": "迪丽热巴代言骆驼",
@@ -131,12 +139,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 850468,
+      "raw_hot": 851179,
       "num": 287466,
       "word": "小S 金钟奖",
       "onboard_time": 1760695162,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 841198,
+      "num": 1134591,
+      "word": "中科院院士回应杨振宁逝世传闻",
+      "onboard_time": 1760705062,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 835643,
@@ -161,14 +177,6 @@
       "onboard_time": 1760659760,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 816874,
-      "num": 256726,
-      "word": "男子坟头炸死3侄女被执行死刑",
-      "onboard_time": 1760702482,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 805101,
@@ -259,14 +267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 543176,
-      "num": 543176,
-      "word": "中科院院士回应杨振宁逝世传闻",
-      "onboard_time": 1760705062,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 539215,
       "num": 778937,
       "word": "杭州有人600元时囤150万黄金",
@@ -355,6 +355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 454259,
+      "num": 243023,
+      "word": "卢昱晓 我对你何止半分真心",
+      "onboard_time": 1760703984,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 445439,
       "num": 445439,
       "word": "KT战胜TES",
@@ -419,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 363049,
+      "num": 363049,
+      "word": "国考审核人员 好强的活人感",
+      "onboard_time": 1760696482,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 362369,
       "num": 362369,
       "word": "TES皇子",
@@ -435,28 +451,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 360103,
-      "num": 360103,
-      "word": "国考审核人员 好强的活人感",
-      "onboard_time": 1760696482,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 354645,
       "num": 665740,
       "word": "成毅说演员先做人再演戏",
       "onboard_time": 1760616381,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 354202,
-      "num": 243023,
-      "word": "卢昱晓 我对你何止半分真心",
-      "onboard_time": 1760703984,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 354086,
@@ -923,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195356,
+      "num": 195356,
+      "word": "刘宇宁选张靓颖最美周深最帅",
+      "onboard_time": 1760706802,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193954,
       "num": 193954,
       "word": "TES 听见你说",
@@ -1307,6 +1315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150540,
+      "num": 150540,
+      "word": "黄奕救助的烧烫伤孩子十年变化",
+      "onboard_time": 1760707225,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150488,
       "num": 192179,
       "word": "现在就出发3先导预告片",
@@ -1395,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145802,
+      "num": 145802,
+      "word": "潘建伟称杨振宁逝世是谣传",
+      "onboard_time": 1760705360,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145144,
       "num": 145144,
       "word": "龚俊 长的漂亮给你多吃点",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1760663422,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141513,
+      "num": 132264,
+      "word": "字节跳动程序员降薪一半去德国",
+      "onboard_time": 1760707282,
+      "rank": 30,
+      "category": "互联网"
     },
     {
       "raw_hot": 141070,
@@ -1619,6 +1651,14 @@
       "category": "互联网,数码"
     },
     {
+      "raw_hot": 132300,
+      "num": 132300,
+      "word": "辽宁朝阳失联女童找到后派出所所长泪流满面",
+      "onboard_time": 1760707225,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132285,
       "num": 132285,
       "word": "鸡和土豆真是满门忠烈",
@@ -1627,20 +1667,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 132264,
+      "num": 132263,
+      "word": "林诗栋也是火了",
+      "onboard_time": 1760707282,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132187,
       "num": 132187,
       "word": "杨瀚森又进三分球了",
       "onboard_time": 1760667561,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129419,
-      "num": 129419,
-      "word": "潘建伟称杨振宁逝世是谣传",
-      "onboard_time": 1760705360,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128429,
@@ -1827,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117400,
+      "num": 117400,
+      "word": "一家三口被撞身亡案家属透露新细节",
+      "onboard_time": 1760707403,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116976,
       "num": 116976,
       "word": "王腾称在考虑创业",
@@ -1979,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111735,
+      "num": 111735,
+      "word": "汪苏泷演唱会",
+      "onboard_time": 1760707523,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111625,
       "num": 111625,
       "word": "AI为了流量也无底线",
@@ -2059,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108247,
+      "num": 108247,
+      "word": "张康乐喝过期牛奶",
+      "onboard_time": 1760707881,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107998,
       "num": 107998,
       "word": "王楚钦赶飞机演我",
@@ -2099,6 +2163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106587,
+      "num": 106587,
+      "word": "正式被确诊为蛋挞",
+      "onboard_time": 1760707701,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106366,
       "num": 106366,
       "word": "梁淞何美延两个魔丸结婚了",
@@ -2120,6 +2192,14 @@
       "word": "中国半导体行业协会声明",
       "onboard_time": 1760672541,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105551,
+      "num": 105551,
+      "word": "住酒店发现房间对外透明",
+      "onboard_time": 1760704822,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -2283,6 +2363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 99498,
+      "num": 99498,
+      "word": "那艺娜登时尚芭莎",
+      "onboard_time": 1760708002,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 99302,
       "num": 99302,
       "word": "小车滚下坡车主无恙感谢雷军",
@@ -2297,14 +2385,6 @@
       "onboard_time": 1760670021,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 99048,
-      "num": 99048,
-      "word": "住酒店发现房间对外透明",
-      "onboard_time": 1760704822,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97836,
@@ -2417,6 +2497,14 @@
       "onboard_time": 1760686642,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 91876,
+      "num": 107701,
+      "word": "05超女看21岁女儿舞台热泪盈眶",
+      "onboard_time": 1760707225,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 91170,
@@ -2699,6 +2787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71120,
+      "num": 195757,
+      "word": "被姐姐们种草汕尾了",
+      "onboard_time": 1760706262,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70658,
       "num": 417799,
       "word": "美财长暗示关税换稀土",
@@ -2875,14 +2971,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 56035,
-      "num": 130243,
-      "word": "被姐姐们种草汕尾了",
-      "onboard_time": 1760706262,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 55688,
       "num": 67227,
       "word": "我同意再见爱人转型喜剧综艺",
@@ -2929,6 +3017,14 @@
       "onboard_time": 1760634857,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 51815,
+      "num": 427035,
+      "word": "今天起传递这颗红星",
+      "onboard_time": 1760706802,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 51667,
