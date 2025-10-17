@@ -1,10 +1,10 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760670432601,
+  "endTime": 1760670971396,
   "band_list": [
     {
       "raw_hot": 1713011,
-      "num": 179668,
+      "num": 203087,
       "word": "微信 一删皆空",
       "onboard_time": 1760663901,
       "rank": 10,
@@ -19,20 +19,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1048474,
-      "num": 183496,
-      "word": "迪丽热巴代言骆驼",
-      "onboard_time": 1760668822,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1048296,
-      "num": 182679,
+      "raw_hot": 1142464,
+      "num": 203634,
       "word": "咬嘴 口腔癌",
       "onboard_time": 1760667321,
       "rank": 12,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 1048474,
+      "num": 202087,
+      "word": "迪丽热巴代言骆驼",
+      "onboard_time": 1760668822,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 943011,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 818648,
-      "num": 178635,
+      "num": 196215,
       "word": "黄金",
       "onboard_time": 1760659760,
       "rank": 20,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 801008,
-      "num": 179363,
+      "num": 201727,
       "word": "逼员工卖淫女嫌犯因外貌在日本走红",
       "onboard_time": 1760662762,
       "rank": 11,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 543031,
+      "num": 543031,
+      "word": "辽宁失联4岁女童已找到",
+      "onboard_time": 1760669242,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 539215,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 530172,
-      "num": 179290,
+      "num": 200604,
       "word": "加微信一定要别人扫我",
       "onboard_time": 1760667321,
       "rank": 16,
@@ -115,6 +123,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337318,
+      "num": 199648,
+      "word": "女子卖26万结婚五金赚18.4万",
+      "onboard_time": 1760668700,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326679,
+      "num": 326679,
+      "word": "水龙吟",
+      "onboard_time": 1760669301,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 315907,
       "num": 432459,
       "word": "村长李锐已从湖南卫视离职",
@@ -124,18 +148,10 @@
     },
     {
       "raw_hot": 315702,
-      "num": 178837,
+      "num": 196999,
       "word": "4岁女童在地头失踪超20小时家属发声",
       "onboard_time": 1760664201,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 313348,
-      "num": 313348,
-      "word": "辽宁失联4岁女童已找到",
-      "onboard_time": 1760669242,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -163,14 +179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 272753,
-      "num": 178403,
-      "word": "女子卖26万结婚五金赚18.4万",
-      "onboard_time": 1760668700,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 269871,
       "num": 269871,
       "word": "iPhoneAir正式开售",
@@ -195,12 +203,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 225997,
-      "num": 225997,
-      "word": "水龙吟",
-      "onboard_time": 1760669301,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 229745,
+      "num": 195464,
+      "word": "李茂自曝在弦子洗澡时求婚",
+      "onboard_time": 1760670142,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 227566,
+      "num": 193626,
+      "word": "汪峰与森林北聚餐时抽烟",
+      "onboard_time": 1760668881,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 224645,
@@ -219,12 +235,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 218194,
-      "num": 177601,
-      "word": "汪峰与森林北聚餐时抽烟",
-      "onboard_time": 1760668881,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 217990,
+      "num": 217990,
+      "word": "你见过全圆彩虹吗",
+      "onboard_time": 1760667021,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214849,
+      "num": 214849,
+      "word": "水龙吟OST阵容官宣",
+      "onboard_time": 1760670381,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 211556,
@@ -243,20 +267,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 196585,
-      "num": 196585,
-      "word": "水龙吟OST阵容官宣",
-      "onboard_time": 1760670381,
-      "rank": 9,
-      "category": "剧集"
+      "raw_hot": 192636,
+      "num": 192636,
+      "word": "拉肚子 用水冲洗",
+      "onboard_time": 1760666181,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
-      "raw_hot": 179693,
-      "num": 179693,
-      "word": "你见过全圆彩虹吗",
-      "onboard_time": 1760667021,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 189413,
+      "num": 173375,
+      "word": "钟丽缇张伦硕回应贪财好色吃嫩草",
+      "onboard_time": 1760669542,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 177512,
@@ -272,14 +296,6 @@
       "word": "陈乔恩被艾伦小鸡啄米式亲醒",
       "onboard_time": 1760669182,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 175913,
-      "num": 173375,
-      "word": "钟丽缇张伦硕回应贪财好色吃嫩草",
-      "onboard_time": 1760669542,
-      "rank": 29,
       "category": "综艺"
     },
     {
@@ -307,28 +323,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160812,
-      "num": 160812,
-      "word": "李茂自曝在弦子洗澡时求婚",
-      "onboard_time": 1760670142,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155394,
       "num": 423332,
       "word": "4岁女童车内睡着后失踪超20小时",
       "onboard_time": 1760614881,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 155079,
-      "num": 155079,
-      "word": "拉肚子 用水冲洗",
-      "onboard_time": 1760666181,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 153353,
@@ -371,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 143667,
+      "num": 143667,
+      "word": "给王安宇说爽了",
+      "onboard_time": 1760670142,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143644,
       "num": 143644,
       "word": "Keria回应输给CFO",
@@ -401,6 +409,22 @@
       "onboard_time": 1760667381,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136366,
+      "num": 136366,
+      "word": "恋与深空",
+      "onboard_time": 1760670560,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 135585,
+      "num": 135585,
+      "word": "朋友圈编辑功能 人生无法修改",
+      "onboard_time": 1760670560,
+      "rank": 41,
+      "category": "互联网"
     },
     {
       "raw_hot": 135364,
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 127571,
-      "num": 178270,
+      "num": 194399,
       "word": "樊振东ProMax状态太能打",
       "onboard_time": 1760670201,
       "rank": 22,
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 121943,
-      "num": 177966,
+      "num": 197789,
       "word": "零跑D19纯电500km刷新增程纪录",
       "onboard_time": 1760670201,
       "rank": 24,
@@ -523,6 +547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107194,
+      "num": 107194,
+      "word": "马来西亚14岁男生在女厕刺死学姐",
+      "onboard_time": 1760670921,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 107012,
       "num": 427544,
       "word": "凤戏阳成为女帝",
@@ -545,6 +577,14 @@
       "onboard_time": 1760664020,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 103594,
+      "num": 136052,
+      "word": "李晟还笑呢出大事了",
+      "onboard_time": 1760670801,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 99247,
@@ -729,6 +769,14 @@
       "onboard_time": 1760656759,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79554,
+      "num": 176601,
+      "word": "丈母娘拒收彩礼称不是卖女儿",
+      "onboard_time": 1760670801,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78922,
@@ -995,6 +1043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 45653,
+      "num": 180647,
+      "word": "石破茂再向靖国神社供奉祭品",
+      "onboard_time": 1760670681,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45412,
       "num": 412735,
       "word": "缅北刘家娱乐场所消费单曝光",
@@ -1177,6 +1233,14 @@
       "onboard_time": 1760640855,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1543,
+      "num": 515110,
+      "word": "红星照耀中国",
+      "onboard_time": 1760593821,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
