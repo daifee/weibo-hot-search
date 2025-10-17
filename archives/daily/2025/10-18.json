@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760721729290,
+  "endTime": 1760722801645,
   "band_list": [
     {
       "raw_hot": 1246473,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255743,
+      "num": 169066,
+      "word": "虽然离很久了 但婚纱照超好看",
+      "onboard_time": 1760716461,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255323,
       "num": 179591,
       "word": "娃都三岁了产妇竟被酒店索月子房费",
@@ -83,15 +91,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 207215,
-      "num": 219356,
-      "word": "杨力维杨舒予父亲去世",
-      "onboard_time": 1760691200,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 170858,
+      "raw_hot": 221699,
       "num": 170772,
       "word": "丈夫中1000万变心但不想离婚",
       "onboard_time": 1760717303,
@@ -99,12 +99,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169066,
-      "num": 169066,
-      "word": "虽然离很久了 但婚纱照超好看",
-      "onboard_time": 1760716461,
-      "rank": 18,
-      "category": "艺人"
+      "raw_hot": 207215,
+      "num": 219356,
+      "word": "杨力维杨舒予父亲去世",
+      "onboard_time": 1760691200,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 160574,
@@ -403,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48425,
+      "num": 80153,
+      "word": "请积极夺回你的注意力",
+      "onboard_time": 1760719698,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48266,
       "num": 78513,
       "word": "金钟奖",
@@ -411,12 +419,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 45931,
-      "num": 80153,
-      "word": "请积极夺回你的注意力",
-      "onboard_time": 1760719698,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 46044,
+      "num": 80064,
+      "word": "冷帽",
+      "onboard_time": 1760721618,
+      "rank": 49,
+      "category": "时尚,休闲"
     },
     {
       "raw_hot": 44459,
@@ -435,12 +443,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 33801,
-      "num": 80064,
-      "word": "冷帽",
-      "onboard_time": 1760721618,
+      "raw_hot": 29692,
+      "num": 61721,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1760722517,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 28506,
+      "num": 61709,
+      "word": "余生有涯",
+      "onboard_time": 1760722219,
       "rank": 49,
-      "category": "时尚,休闲"
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
