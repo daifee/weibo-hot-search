@@ -1,6 +1,6 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760679672988,
+  "endTime": 1760683027519,
   "band_list": [
     {
       "raw_hot": 1713011,
@@ -9,6 +9,14 @@
       "onboard_time": 1760663901,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1682393,
+      "num": 1682393,
+      "word": "缅北电诈园区剁人手指泡酒",
+      "onboard_time": 1760679982,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1182644,
@@ -171,6 +179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 379419,
+      "num": 296387,
+      "word": "杨幂穿着睡衣回国",
+      "onboard_time": 1760675664,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 378151,
       "num": 199648,
       "word": "女子卖26万结婚五金赚18.4万",
@@ -235,12 +251,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 298798,
-      "num": 296387,
-      "word": "杨幂穿着睡衣回国",
-      "onboard_time": 1760675664,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 295849,
+      "num": 712855,
+      "word": "陆虎新歌烂人",
+      "onboard_time": 1760678602,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 286880,
@@ -265,6 +281,14 @@
       "onboard_time": 1760673502,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278753,
+      "num": 193660,
+      "word": "野人小孩父母均大学毕业",
+      "onboard_time": 1760678304,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 269871,
@@ -299,12 +323,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 262127,
+      "num": 262127,
+      "word": "樊振东全运会证件照",
+      "onboard_time": 1760679922,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256795,
       "num": 781469,
       "word": "王腾宣传K90ProMax",
       "onboard_time": 1760676263,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 256015,
+      "num": 192746,
+      "word": "黄子韬徐艺洋中式婚服",
+      "onboard_time": 1760681782,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 254342,
@@ -329,6 +369,14 @@
       "onboard_time": 1760663962,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 238717,
+      "num": 192515,
+      "word": "张智霖 要爆了",
+      "onboard_time": 1760681782,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 232696,
@@ -372,7 +420,7 @@
     },
     {
       "raw_hot": 218133,
-      "num": 178580,
+      "num": 194753,
       "word": "Gumayusi无法接受输给GEN",
       "onboard_time": 1760675784,
       "rank": 30,
@@ -411,6 +459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 208498,
+      "num": 208498,
+      "word": "电诈窝点墙上有血手印",
+      "onboard_time": 1760681241,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208275,
       "num": 208275,
       "word": "秋裤羽绒服该出场了",
@@ -425,14 +481,6 @@
       "onboard_time": 1760674461,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 204969,
-      "num": 712855,
-      "word": "陆虎新歌烂人",
-      "onboard_time": 1760678602,
-      "rank": 37,
-      "category": "音乐"
     },
     {
       "raw_hot": 199550,
@@ -451,12 +499,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 191472,
-      "num": 191472,
-      "word": "野人小孩父母均大学毕业",
-      "onboard_time": 1760678304,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 192209,
+      "num": 192209,
+      "word": "A股",
+      "onboard_time": 1760667381,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 189413,
@@ -707,6 +755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143518,
+      "num": 143518,
+      "word": "小米王化回复王腾",
+      "onboard_time": 1760678362,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 142048,
       "num": 143894,
       "word": "猎罪图鉴2演员与ip共生",
@@ -715,12 +771,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141229,
-      "num": 141229,
-      "word": "A股",
-      "onboard_time": 1760667381,
-      "rank": 40,
-      "category": "财经"
+      "raw_hot": 141117,
+      "num": 141117,
+      "word": "保安打死校内流浪狗遭开除",
+      "onboard_time": 1760671581,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141070,
@@ -729,14 +785,6 @@
       "onboard_time": 1760624366,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140379,
-      "num": 140379,
-      "word": "小米王化回复王腾",
-      "onboard_time": 1760678362,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 139197,
@@ -835,14 +883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128823,
-      "num": 128823,
-      "word": "保安打死校内流浪狗遭开除",
-      "onboard_time": 1760671581,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128429,
       "num": 135146,
       "word": "知乎回应崩了",
@@ -867,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122125,
+      "num": 122125,
+      "word": "电诈业务不熟被竹片挑断手筋",
+      "onboard_time": 1760681480,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121943,
       "num": 197789,
       "word": "零跑D19纯电500km刷新增程纪录",
@@ -883,12 +931,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119977,
+      "num": 119977,
+      "word": "登陆少年组合官宣ELLE风尚大典",
+      "onboard_time": 1760682560,
+      "rank": 36,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 119555,
       "num": 119555,
       "word": "这居然是方家翊",
       "onboard_time": 1760676743,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118880,
+      "num": 118880,
+      "word": "A股半日成交1.18万亿缩量326亿",
+      "onboard_time": 1760682801,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 118354,
+      "num": 118354,
+      "word": "鸡和土豆真是满门忠烈",
+      "onboard_time": 1760679982,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 117997,
+      "num": 117997,
+      "word": "梁朝伟让刘嘉玲出来少说话",
+      "onboard_time": 1760682741,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 117798,
@@ -947,12 +1027,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111791,
+      "num": 111791,
+      "word": "彭昱畅镜头下的张子枫",
+      "onboard_time": 1760682441,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 111186,
+      "num": 111186,
+      "word": "宁静 都是一个村的狐狸",
+      "onboard_time": 1760680042,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110876,
       "num": 110876,
       "word": "特朗普与普京约定在匈牙利会面",
       "onboard_time": 1760658140,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110458,
+      "num": 110458,
+      "word": "荷兰被批劫掠中企",
+      "onboard_time": 1760682141,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 108975,
+      "num": 108975,
+      "word": "打死人的电诈嫌犯挑衅民警",
+      "onboard_time": 1760682682,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108937,
@@ -1027,6 +1139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102219,
+      "num": 102219,
+      "word": "孙颖莎全运证件照",
+      "onboard_time": 1760680761,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101463,
       "num": 218825,
       "word": "化学老师用火焰掌奖励学生引争议",
@@ -1041,6 +1161,14 @@
       "onboard_time": 1760676503,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 100502,
+      "num": 100502,
+      "word": "新世代披哥淘汰",
+      "onboard_time": 1760682980,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 99247,
@@ -1217,6 +1345,14 @@
       "onboard_time": 1760665101,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82619,
+      "num": 192960,
+      "word": "第一批X300用户已经出片了",
+      "onboard_time": 1760681002,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 80393,
@@ -1427,6 +1563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62916,
+      "num": 119192,
+      "word": "哈登儿子都六岁了",
+      "onboard_time": 1760682081,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 60767,
       "num": 421852,
       "word": "王健林被起诉",
@@ -1635,6 +1779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33822,
+      "num": 194187,
+      "word": "央视官宣鸿蒙星光盛典",
+      "onboard_time": 1760681721,
+      "rank": 13,
+      "category": "数码"
+    },
+    {
       "raw_hot": 31788,
       "num": 143285,
       "word": "他们打光子弹用牙齿当武器",
@@ -1673,6 +1825,14 @@
       "onboard_time": 1760621423,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23847,
+      "num": 118966,
+      "word": "杨瀚森期待新赛季交手约基奇申京",
+      "onboard_time": 1760681960,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 23738,
@@ -1753,6 +1913,14 @@
       "onboard_time": 1760640855,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 8037,
+      "num": 118897,
+      "word": "行业顶尖专家谈技术普惠",
+      "onboard_time": 1760680881,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 4847,

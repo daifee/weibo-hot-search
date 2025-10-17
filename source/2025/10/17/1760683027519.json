@@ -1,0 +1,410 @@
+{
+  "runTime": 1760683027519,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1682393,
+        "num": 1682393,
+        "word": "缅北电诈园区剁人手指泡酒",
+        "onboard_time": 1760679982,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486787,
+        "num": 486787,
+        "word": "美国一储藏约816吨大豆粮仓倒塌",
+        "onboard_time": 1760675003,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 3696,
+        "num": 472253,
+        "word": "红星照耀中国",
+        "onboard_time": 1760593821,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 465479,
+        "num": 465479,
+        "word": "金价一夜暴涨有投资者彻夜难眠",
+        "onboard_time": 1760675182,
+        "rank": 3,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 262127,
+        "num": 262127,
+        "word": "樊振东全运会证件照",
+        "onboard_time": 1760679922,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295849,
+        "num": 244236,
+        "word": "陆虎新歌烂人",
+        "onboard_time": 1760678602,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208498,
+        "num": 208498,
+        "word": "电诈窝点墙上有血手印",
+        "onboard_time": 1760681241,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204380,
+        "num": 204380,
+        "word": "杭州有人600元时囤150万黄金",
+        "onboard_time": 1760663482,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198424,
+        "num": 198424,
+        "word": "杨瀚森哭了",
+        "onboard_time": 1760677882,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194753,
+        "num": 194753,
+        "word": "Gumayusi无法接受输给GEN",
+        "onboard_time": 1760675784,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 984013,
+        "num": 194663,
+        "word": "谢可寅 她穿婚纱很漂亮",
+        "onboard_time": 1760676563,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544833,
+        "num": 194402,
+        "word": "咬嘴 口腔癌",
+        "onboard_time": 1760667321,
+        "rank": 11,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 379419,
+        "num": 194258,
+        "word": "杨幂穿着睡衣回国",
+        "onboard_time": 1760675664,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33822,
+        "num": 194187,
+        "word": "央视官宣鸿蒙星光盛典",
+        "onboard_time": 1760681721,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 359776,
+        "num": 193931,
+        "word": "微信 一删皆空",
+        "onboard_time": 1760663901,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 279189,
+        "num": 193811,
+        "word": "刘宇宁陪黄子韬敬酒",
+        "onboard_time": 1760675245,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278753,
+        "num": 193660,
+        "word": "野人小孩父母均大学毕业",
+        "onboard_time": 1760678304,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 270206,
+        "num": 193334,
+        "word": "刘奕畅被曝酒后围殴他人",
+        "onboard_time": 1760672781,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256164,
+        "num": 193263,
+        "word": "逼员工卖淫女嫌犯因外貌在日本走红",
+        "onboard_time": 1760662762,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82619,
+        "num": 192960,
+        "word": "第一批X300用户已经出片了",
+        "onboard_time": 1760681002,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 182760,
+        "num": 192876,
+        "word": "王腾宣传K90ProMax",
+        "onboard_time": 1760676263,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 256015,
+        "num": 192746,
+        "word": "黄子韬徐艺洋中式婚服",
+        "onboard_time": 1760681782,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238717,
+        "num": 192515,
+        "word": "张智霖 要爆了",
+        "onboard_time": 1760681782,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234824,
+        "num": 192218,
+        "word": "李茂自曝在弦子洗澡时求婚",
+        "onboard_time": 1760670142,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192209,
+        "num": 192209,
+        "word": "A股",
+        "onboard_time": 1760667381,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187404,
+        "num": 187404,
+        "word": "迪丽热巴代言骆驼",
+        "onboard_time": 1760668822,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166515,
+        "num": 166515,
+        "word": "黄金",
+        "onboard_time": 1760659760,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 158975,
+        "num": 158975,
+        "word": "男童掉进烧烤店炭堆全身烧伤",
+        "onboard_time": 1760678241,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148755,
+        "num": 148755,
+        "word": "成毅说演员先做人再演戏",
+        "onboard_time": 1760616381,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143518,
+        "num": 143518,
+        "word": "小米王化回复王腾",
+        "onboard_time": 1760678362,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141117,
+        "num": 141117,
+        "word": "保安打死校内流浪狗遭开除",
+        "onboard_time": 1760671581,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141098,
+        "num": 141098,
+        "word": "蒋龙张弛断联和好就一句对不起",
+        "onboard_time": 1760678420,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138775,
+        "num": 138775,
+        "word": "在美读博中国小伙被控下药鸡奸罪",
+        "onboard_time": 1760673201,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128062,
+        "num": 128062,
+        "word": "邓莎和老公因为狗分居",
+        "onboard_time": 1760677163,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122843,
+        "num": 122843,
+        "word": "辽宁失联4岁女童已找到",
+        "onboard_time": 1760669242,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122125,
+        "num": 122125,
+        "word": "电诈业务不熟被竹片挑断手筋",
+        "onboard_time": 1760681480,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119977,
+        "num": 119977,
+        "word": "登陆少年组合官宣ELLE风尚大典",
+        "onboard_time": 1760682560,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 62916,
+        "num": 119192,
+        "word": "哈登儿子都六岁了",
+        "onboard_time": 1760682081,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23847,
+        "num": 118966,
+        "word": "杨瀚森期待新赛季交手约基奇申京",
+        "onboard_time": 1760681960,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8037,
+        "num": 118897,
+        "word": "行业顶尖专家谈技术普惠",
+        "onboard_time": 1760680881,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118880,
+        "num": 118880,
+        "word": "A股半日成交1.18万亿缩量326亿",
+        "onboard_time": 1760682801,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118354,
+        "num": 118354,
+        "word": "鸡和土豆真是满门忠烈",
+        "onboard_time": 1760679982,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117997,
+        "num": 117997,
+        "word": "梁朝伟让刘嘉玲出来少说话",
+        "onboard_time": 1760682741,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111791,
+        "num": 111791,
+        "word": "彭昱畅镜头下的张子枫",
+        "onboard_time": 1760682441,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111186,
+        "num": 111186,
+        "word": "宁静 都是一个村的狐狸",
+        "onboard_time": 1760680042,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110458,
+        "num": 110458,
+        "word": "荷兰被批劫掠中企",
+        "onboard_time": 1760682141,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110275,
+        "num": 110275,
+        "word": "王腾回应红米新手机是遗作",
+        "onboard_time": 1760676743,
+        "rank": 46,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 108975,
+        "num": 108975,
+        "word": "打死人的电诈嫌犯挑衅民警",
+        "onboard_time": 1760682682,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102219,
+        "num": 102219,
+        "word": "孙颖莎全运证件照",
+        "onboard_time": 1760680761,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100502,
+        "num": 100502,
+        "word": "新世代披哥淘汰",
+        "onboard_time": 1760682980,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领筑牢国家粮食安全#"
+    }
+  }
+}
