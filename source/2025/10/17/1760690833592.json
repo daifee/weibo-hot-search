@@ -1,0 +1,410 @@
+{
+  "runTime": 1760690833592,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 995377,
+        "num": 1159260,
+        "word": "缅北电诈园区剁人手指泡酒",
+        "onboard_time": 1760679982,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 526881,
+        "num": 526881,
+        "word": "警方通报51岁女子撞车致6伤",
+        "onboard_time": 1760688202,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 6602,
+        "num": 360816,
+        "word": "红星照耀中国",
+        "onboard_time": 1760593821,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 341059,
+        "num": 341059,
+        "word": "电诈窝点墙上有血手印",
+        "onboard_time": 1760681241,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 303538,
+        "num": 303538,
+        "word": "陈梦全运会证件照",
+        "onboard_time": 1760685982,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226980,
+        "num": 226980,
+        "word": "小城良方将开机",
+        "onboard_time": 1760688261,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220827,
+        "num": 220827,
+        "word": "美国一储藏约816吨大豆粮仓倒塌",
+        "onboard_time": 1760675003,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 203589,
+        "num": 203589,
+        "word": "成都一小车与7车相撞致6伤",
+        "onboard_time": 1760687361,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195721,
+        "num": 195721,
+        "word": "什么剧大结局一口气刀七个",
+        "onboard_time": 1760688261,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175293,
+        "num": 194972,
+        "word": "打死人的电诈嫌犯挑衅民警",
+        "onboard_time": 1760682682,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627629,
+        "num": 194157,
+        "word": "微信 一删皆空",
+        "onboard_time": 1760663901,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 604468,
+        "num": 193796,
+        "word": "周杰伦警告蔡威泽再不出现就完了",
+        "onboard_time": 1760683822,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483969,
+        "num": 192248,
+        "word": "黄子韬徐艺洋婚礼主桌视角",
+        "onboard_time": 1760689223,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469813,
+        "num": 191183,
+        "word": "毛晓彤杀青4个月才缓过来",
+        "onboard_time": 1760686702,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449253,
+        "num": 190808,
+        "word": "咬嘴 口腔癌",
+        "onboard_time": 1760667321,
+        "rank": 14,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 398364,
+        "num": 189495,
+        "word": "邓莎哭着说从20多岁就开始当妈",
+        "onboard_time": 1760685982,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360918,
+        "num": 188428,
+        "word": "谢可寅 她穿婚纱很漂亮",
+        "onboard_time": 1760676563,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288904,
+        "num": 188186,
+        "word": "白敬亭回应范丞丞想演难哄2",
+        "onboard_time": 1760685202,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279593,
+        "num": 186778,
+        "word": "娜扎肿成蜜蜂小狗",
+        "onboard_time": 1760688682,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223365,
+        "num": 185612,
+        "word": "爱吃蜂蜜小面包的我沉默了",
+        "onboard_time": 1760686161,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302119,
+        "num": 185162,
+        "word": "邓莎老公怎么把沈皓明台词说了",
+        "onboard_time": 1760684481,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229255,
+        "num": 183775,
+        "word": "金价一夜暴涨有投资者彻夜难眠",
+        "onboard_time": 1760675182,
+        "rank": 21,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 183756,
+        "num": 183756,
+        "word": "股市",
+        "onboard_time": 1760688381,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178093,
+        "num": 178093,
+        "word": "黄仁勋称英伟达中国份额从95%降至0",
+        "onboard_time": 1760690362,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173001,
+        "num": 173001,
+        "word": "刘宇宁陪黄子韬敬酒",
+        "onboard_time": 1760675245,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99368,
+        "num": 163901,
+        "word": "吉利浙大校招一座难求",
+        "onboard_time": 1760688621,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 161416,
+        "num": 161416,
+        "word": "黄奕把额头露出来大大方方的",
+        "onboard_time": 1760690060,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158937,
+        "num": 158937,
+        "word": "KT对战TES",
+        "onboard_time": 1760688022,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157812,
+        "num": 157812,
+        "word": "张歆艺被朱洁静送走了",
+        "onboard_time": 1760690122,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147098,
+        "num": 147098,
+        "word": "野人小孩父母均大学毕业",
+        "onboard_time": 1760678304,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134433,
+        "num": 134433,
+        "word": "电诈业务不熟被竹片挑断手筋",
+        "onboard_time": 1760681480,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122120,
+        "num": 122120,
+        "word": "王腾宣传K90ProMax",
+        "onboard_time": 1760676263,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 120622,
+        "num": 120622,
+        "word": "十月必吃的应季水果",
+        "onboard_time": 1760689762,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117510,
+        "num": 117510,
+        "word": "卢昱晓演技",
+        "onboard_time": 1760684722,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114494,
+        "num": 114494,
+        "word": "杨幂穿着睡衣回国",
+        "onboard_time": 1760675664,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 746904,
+        "num": 114126,
+        "word": "惠州街头多人爬行学狗叫",
+        "onboard_time": 1760685442,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91828,
+        "num": 113855,
+        "word": "花儿与少年同心季",
+        "onboard_time": 1760689223,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23981,
+        "num": 113415,
+        "word": "周震南保密协议到期",
+        "onboard_time": 1760689941,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 38576,
+        "num": 112596,
+        "word": "张峻豪有效外务又来了",
+        "onboard_time": 1760689881,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 5405,
+        "num": 112260,
+        "word": "澳门2049亮相乌镇戏剧节",
+        "onboard_time": 1760666481,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111933,
+        "num": 111933,
+        "word": "周杰伦 蔡威泽",
+        "onboard_time": 1760686823,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106280,
+        "num": 106280,
+        "word": "张彬彬毛晓彤好伟大的狗猫塑",
+        "onboard_time": 1760690420,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101473,
+        "num": 101473,
+        "word": "孙颖莎全运证件照",
+        "onboard_time": 1760680761,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96012,
+        "num": 96012,
+        "word": "关闭朋友圈一年后的变化",
+        "onboard_time": 1760687780,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95950,
+        "num": 95950,
+        "word": "王楚钦全运会证件照",
+        "onboard_time": 1760690721,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95307,
+        "num": 95307,
+        "word": "马龙全运会证件照",
+        "onboard_time": 1760690001,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93602,
+        "num": 93602,
+        "word": "小车滚下坡车主无恙感谢雷军",
+        "onboard_time": 1760689162,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91170,
+        "num": 91170,
+        "word": "大家都朝左看就不告诉张柏芝",
+        "onboard_time": 1760690541,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87616,
+        "num": 87616,
+        "word": "7种癌症最喜欢的饮食习惯",
+        "onboard_time": 1760690420,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77623,
+        "num": 86668,
+        "word": "深情眼前十唯一现偶",
+        "onboard_time": 1760688682,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领筑牢国家粮食安全#"
+    }
+  }
+}

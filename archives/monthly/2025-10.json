@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760690055803,
+  "endTime": 1760690833592,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -5755,6 +5755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 526881,
+      "num": 526881,
+      "word": "警方通报51岁女子撞车致6伤",
+      "onboard_time": 1760688202,
+      "rank": 1,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 526754,
       "num": 224054,
       "word": "雍和宫 仅退款",
@@ -6523,6 +6531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 483969,
+      "num": 192248,
+      "word": "黄子韬徐艺洋婚礼主桌视角",
+      "onboard_time": 1760689223,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 482525,
       "num": 482525,
       "word": "德国提议将退休年龄提高至73岁",
@@ -6843,6 +6859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 469813,
+      "num": 191183,
+      "word": "毛晓彤杀青4个月才缓过来",
+      "onboard_time": 1760686702,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 469055,
       "num": 271015,
       "word": "建议word删除空白页纳入义务教育",
@@ -6881,14 +6905,6 @@
       "onboard_time": 1759288457,
       "rank": 28,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 466726,
-      "num": 186993,
-      "word": "毛晓彤杀青4个月才缓过来",
-      "onboard_time": 1760686702,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 466195,
@@ -8219,14 +8235,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 402690,
-      "num": 402690,
-      "word": "警方通报51岁女子撞车致6伤",
-      "onboard_time": 1760688202,
-      "rank": 1,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 402393,
       "num": 402393,
       "word": "南昌遭误会被打扇子哥已离职",
@@ -8305,6 +8313,14 @@
       "onboard_time": 1760333663,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 398364,
+      "num": 189495,
+      "word": "邓莎哭着说从20多岁就开始当妈",
+      "onboard_time": 1760685982,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 398104,
@@ -10395,14 +10411,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 317195,
-      "num": 185381,
-      "word": "黄子韬徐艺洋婚礼主桌视角",
-      "onboard_time": 1760689223,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 317064,
       "num": 203811,
       "word": "建议气血不足的人不要留长发",
@@ -10931,6 +10939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 303538,
+      "num": 303538,
+      "word": "陈梦全运会证件照",
+      "onboard_time": 1760685982,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302802,
       "num": 302802,
       "word": "台独水军指挥官照片",
@@ -11283,14 +11299,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 292798,
-      "num": 182799,
-      "word": "邓莎哭着说从20多岁就开始当妈",
-      "onboard_time": 1760685982,
-      "rank": 23,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 292741,
       "num": 166996,
       "word": "王楚钦说不要攻击其他运动员",
@@ -11436,7 +11444,7 @@
     },
     {
       "raw_hot": 290239,
-      "num": 184224,
+      "num": 188186,
       "word": "白敬亭回应范丞丞想演难哄2",
       "onboard_time": 1760685202,
       "rank": 27,
@@ -11553,14 +11561,6 @@
       "onboard_time": 1760508021,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 287002,
-      "num": 287002,
-      "word": "陈梦全运会证件照",
-      "onboard_time": 1760685982,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 286880,
@@ -11849,6 +11849,14 @@
       "onboard_time": 1759709838,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 279593,
+      "num": 186778,
+      "word": "娜扎肿成蜜蜂小狗",
+      "onboard_time": 1760688682,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 279497,
@@ -14140,7 +14148,7 @@
     },
     {
       "raw_hot": 229911,
-      "num": 181858,
+      "num": 183756,
       "word": "股市",
       "onboard_time": 1760322680,
       "rank": 46,
@@ -14299,6 +14307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226980,
+      "num": 226980,
+      "word": "小城良方将开机",
+      "onboard_time": 1760688261,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226891,
       "num": 226891,
       "word": "国际金价早盘跳水",
@@ -14340,7 +14356,7 @@
     },
     {
       "raw_hot": 226120,
-      "num": 183755,
+      "num": 185612,
       "word": "爱吃蜂蜜小面包的我沉默了",
       "onboard_time": 1760686161,
       "rank": 30,
@@ -14377,14 +14393,6 @@
       "onboard_time": 1759802840,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 225728,
-      "num": 181360,
-      "word": "娜扎肿成蜜蜂小狗",
-      "onboard_time": 1760688682,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 225488,
@@ -15835,6 +15843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203589,
+      "num": 203589,
+      "word": "成都一小车与7车相撞致6伤",
+      "onboard_time": 1760687361,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203493,
       "num": 191751,
       "word": "iphoneair本周预购",
@@ -16105,14 +16121,6 @@
       "onboard_time": 1759283239,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200993,
-      "num": 200993,
-      "word": "小城良方将开机",
-      "onboard_time": 1760688261,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 200978,
@@ -16739,6 +16747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195721,
+      "num": 195721,
+      "word": "什么剧大结局一口气刀七个",
+      "onboard_time": 1760688261,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195707,
       "num": 195707,
       "word": "月饼",
@@ -16865,14 +16881,6 @@
       "onboard_time": 1759965438,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 194622,
-      "num": 194622,
-      "word": "什么剧大结局一口气刀七个",
-      "onboard_time": 1760688261,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 194620,
@@ -18937,6 +18945,14 @@
       "onboard_time": 1759458559,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 178093,
+      "num": 178093,
+      "word": "黄仁勋称英伟达中国份额从95%降至0",
+      "onboard_time": 1760690362,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 178091,
@@ -21491,6 +21507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161416,
+      "num": 161416,
+      "word": "黄奕把额头露出来大大方方的",
+      "onboard_time": 1760690060,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161400,
       "num": 186755,
       "word": "入青云仙品",
@@ -21867,6 +21891,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 158937,
+      "num": 158937,
+      "word": "KT对战TES",
+      "onboard_time": 1760688022,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158912,
       "num": 186431,
       "word": "广西一游客坐滑道遇蛇从腿下穿过",
@@ -22073,6 +22105,14 @@
       "onboard_time": 1760617762,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157812,
+      "num": 157812,
+      "word": "张歆艺被朱洁静送走了",
+      "onboard_time": 1760690122,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 157752,
@@ -23441,14 +23481,6 @@
       "onboard_time": 1760584339,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149572,
-      "num": 149572,
-      "word": "成都一小车与7车相撞致6伤",
-      "onboard_time": 1760687361,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 149559,
@@ -31027,6 +31059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 120622,
+      "num": 120622,
+      "word": "十月必吃的应季水果",
+      "onboard_time": 1760689762,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 120608,
       "num": 161551,
       "word": "终于有这么宠我的婆婆了",
@@ -34067,6 +34107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111933,
+      "num": 111933,
+      "word": "周杰伦 蔡威泽",
+      "onboard_time": 1760686823,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111918,
       "num": 111918,
       "word": "会玩其实是个很重要的能力",
@@ -36744,6 +36792,14 @@
       "word": "网剧金昭玉醉",
       "onboard_time": 1759938201,
       "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106280,
+      "num": 106280,
+      "word": "张彬彬毛晓彤好伟大的狗猫塑",
+      "onboard_time": 1760690420,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -40779,6 +40835,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 96012,
+      "num": 96012,
+      "word": "关闭朋友圈一年后的变化",
+      "onboard_time": 1760687780,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95997,
       "num": 95997,
       "word": "男子回国手机遭运营商保护性关停",
@@ -40801,6 +40865,14 @@
       "onboard_time": 1760180721,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95950,
+      "num": 95950,
+      "word": "王楚钦全运会证件照",
+      "onboard_time": 1760690721,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 95940,
@@ -41009,6 +41081,14 @@
       "onboard_time": 1760167881,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95307,
+      "num": 95307,
+      "word": "马龙全运会证件照",
+      "onboard_time": 1760690001,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 95277,
@@ -41369,14 +41449,6 @@
       "onboard_time": 1759505541,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 94328,
-      "num": 102957,
-      "word": "KT对战TES",
-      "onboard_time": 1760688022,
-      "rank": 36,
-      "category": "电竞"
     },
     {
       "raw_hot": 94323,
@@ -42041,14 +42113,6 @@
       "onboard_time": 1760324662,
       "rank": 47,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 92747,
-      "num": 92747,
-      "word": "关闭朋友圈一年后的变化",
-      "onboard_time": 1760687780,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 92713,
@@ -42721,6 +42785,14 @@
       "onboard_time": 1760441000,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 91170,
+      "num": 91170,
+      "word": "大家都朝左看就不告诉张柏芝",
+      "onboard_time": 1760690541,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 91153,
@@ -43907,14 +43979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 87896,
-      "num": 87896,
-      "word": "十月必吃的应季水果",
-      "onboard_time": 1760689762,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 87895,
       "num": 87895,
       "word": "周深把自己演红温了",
@@ -44057,6 +44121,14 @@
       "onboard_time": 1759966518,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87616,
+      "num": 87616,
+      "word": "7种癌症最喜欢的饮食习惯",
+      "onboard_time": 1760690420,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 87589,
@@ -44233,14 +44305,6 @@
       "onboard_time": 1759738161,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 87285,
-      "num": 87285,
-      "word": "马龙全运会证件照",
-      "onboard_time": 1760690001,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 87253,
@@ -47315,6 +47379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77623,
+      "num": 94223,
+      "word": "深情眼前十唯一现偶",
+      "onboard_time": 1760688682,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77613,
       "num": 127003,
       "word": "8岁女孩练舞下腰双下肢截瘫",
@@ -49193,14 +49265,6 @@
       "onboard_time": 1760548278,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 68128,
-      "num": 94223,
-      "word": "深情眼前十唯一现偶",
-      "onboard_time": 1760688682,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 68107,
@@ -51700,7 +51764,7 @@
     },
     {
       "raw_hot": 51039,
-      "num": 101469,
+      "num": 112596,
       "word": "张峻豪有效外务又来了",
       "onboard_time": 1760689881,
       "rank": 37,
@@ -55051,6 +55115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23981,
+      "num": 113415,
+      "word": "周震南保密协议到期",
+      "onboard_time": 1760689941,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23976,
       "num": 88754,
       "word": "院士合影成生意有商家报价3万起步",
@@ -56113,14 +56185,6 @@
       "onboard_time": 1760039775,
       "rank": 42,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13373,
-      "num": 100918,
-      "word": "周震南保密协议到期",
-      "onboard_time": 1760689941,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 13132,
