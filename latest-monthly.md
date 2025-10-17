@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 12:31:03
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 12:43:39
 </p>
 </blockquote>
 <p>
@@ -1095,6 +1095,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%A5%95%E7%95%85%E8%A2%AB%E6%9B%9D%E9%85%92%E5%90%8E%E5%9B%B4%E6%AE%B4%E4%BB%96%E4%BA%BA%23" target="weibo">
+刘奕畅被曝酒后围殴他人（热度：1102571）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E5%95%A5%E6%84%8F%E6%80%9D%23" target="weibo">
 穆祉丞啥意思（热度：1100102）
 </a>
@@ -2159,12 +2165,6 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%88%B3%E4%BC%A4%E5%A4%B1%E6%98%8E%E7%94%B7%E5%AD%A9%E5%AE%B6%E9%95%BF%E5%9B%9E%E5%BA%94%E8%8E%B7%E8%B5%94272%E4%B8%87%23" target="weibo">
 被戳伤失明男孩家长回应获赔272万（热度：808464）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%A5%95%E7%95%85%E8%A2%AB%E6%9B%9D%E9%85%92%E5%90%8E%E5%9B%B4%E6%AE%B4%E4%BB%96%E4%BA%BA%23" target="weibo">
-刘奕畅被曝酒后围殴他人（热度：806805）
 </a>
 </li>
 
@@ -4749,6 +4749,12 @@ iPhone的一生要经历三次死亡（热度：494807）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%B7%B2%E5%88%B0%E5%AE%B6%E5%90%83%E4%B8%8A%E8%B1%86%E8%85%90%E8%84%91%E4%BA%86%23" target="weibo">
+杨幂已到家吃上豆腐脑了（热度：492607）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8C%AA%E5%A8%812%E4%B8%87%E4%BA%BA%E5%8F%A3%E5%B0%8F%E5%B2%9B%E5%9B%A0%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%A0%B5%E8%BD%A6%23" target="weibo">
 挪威2万人口小岛因中国游客堵车（热度：492489）
 </a>
@@ -5169,12 +5175,6 @@ TaylorSwift忘了通知EdSheeran订婚（热度：461697）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%B7%B2%E5%88%B0%E5%AE%B6%E5%90%83%E4%B8%8A%E8%B1%86%E8%85%90%E8%84%91%E4%BA%86%23" target="weibo">
-杨幂已到家吃上豆腐脑了（热度：461164）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%20%E4%B8%8D%E8%BE%93%E6%AC%A7%E7%BE%8E%E4%BA%BA%E7%9A%84%E9%AA%A8%E7%9B%B8%23" target="weibo">
 周也 不输欧美人的骨相（热度：460741）
 </a>
@@ -5513,6 +5513,12 @@ B站崩了（热度：442971）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8%23" target="weibo">
 广州暴雨（热度：441429）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%82%A8%E8%97%8F%E7%BA%A6816%E5%90%A8%E5%A4%A7%E8%B1%86%E7%B2%AE%E4%BB%93%E5%80%92%E5%A1%8C%23" target="weibo">
+美国一储藏约816吨大豆粮仓倒塌（热度：441327）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E5%87%A1%E5%8D%9A%E8%A2%AB%E8%A3%81%23" target="weibo">
 曾凡博被裁（热度：410469）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E5%A4%8F%E8%8A%AC%E5%BE%B7%E6%8B%89%E6%92%AD%E6%94%BE%E9%87%8F%E7%A0%B430%E4%BA%BF%23" target="weibo">
-盛夏芬德拉播放量破30亿（热度：410443）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760675463112,
+  "endTime": 1760676219336,
   "band_list": [
     {
       "raw_hot": 1713011,
@@ -25,6 +25,14 @@
       "onboard_time": 1760667321,
       "rank": 12,
       "category": "科学科普,健康医疗"
+    },
+    {
+      "raw_hot": 1102571,
+      "num": 267396,
+      "word": "刘奕畅被曝酒后围殴他人",
+      "onboard_time": 1760672781,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 1048474,
@@ -57,14 +65,6 @@
       "onboard_time": 1760659760,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 806805,
-      "num": 267396,
-      "word": "刘奕畅被曝酒后围殴他人",
-      "onboard_time": 1760672781,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 801008,
@@ -107,7 +107,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 461164,
+      "raw_hot": 492607,
       "num": 265872,
       "word": "杨幂已到家吃上豆腐脑了",
       "onboard_time": 1760670982,
@@ -121,6 +121,14 @@
       "onboard_time": 1760639416,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 441327,
+      "num": 441327,
+      "word": "美国一储藏约816吨大豆粮仓倒塌",
+      "onboard_time": 1760675003,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 429718,
@@ -137,6 +145,14 @@
       "onboard_time": 1760628622,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 398075,
+      "num": 243506,
+      "word": "刘宇宁陪黄子韬敬酒",
+      "onboard_time": 1760675245,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 378151,
@@ -161,6 +177,14 @@
       "onboard_time": 1760616381,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 324291,
+      "num": 263611,
+      "word": "在美读博中国小伙被控下药鸡奸罪",
+      "onboard_time": 1760673201,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 315907,
@@ -203,20 +227,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 282155,
-      "num": 263611,
-      "word": "在美读博中国小伙被控下药鸡奸罪",
-      "onboard_time": 1760673201,
-      "rank": 23,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 281393,
       "num": 281393,
       "word": "杨瀚森6犯离场",
       "onboard_time": 1760673502,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 276485,
+      "num": 276485,
+      "word": "金价一夜暴涨有投资者彻夜难眠",
+      "onboard_time": 1760675182,
+      "rank": 38,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 269871,
@@ -291,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218133,
+      "num": 164041,
+      "word": "Gumayusi无法接受输给GEN",
+      "onboard_time": 1760675784,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 217990,
       "num": 267890,
       "word": "你见过全圆彩虹吗",
@@ -323,20 +355,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206860,
+      "num": 183808,
+      "word": "先天考公圣体",
+      "onboard_time": 1760674461,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 192636,
       "num": 192636,
       "word": "拉肚子 用水冲洗",
       "onboard_time": 1760666181,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 189516,
-      "num": 184170,
-      "word": "刘宇宁陪黄子韬敬酒",
-      "onboard_time": 1760675245,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 189413,
@@ -347,12 +379,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 186508,
-      "num": 268596,
-      "word": "美国一储藏约816吨大豆粮仓倒塌",
-      "onboard_time": 1760675003,
-      "rank": 6,
-      "category": "海外新闻"
+      "raw_hot": 188070,
+      "num": 188070,
+      "word": "经常开车的建议反复观看",
+      "onboard_time": 1760675603,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 185384,
+      "num": 185384,
+      "word": "王者荣耀 是初恋是冰释前嫌的前任",
+      "onboard_time": 1760673741,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 184605,
@@ -371,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183808,
-      "num": 183808,
-      "word": "先天考公圣体",
-      "onboard_time": 1760674461,
-      "rank": 30,
-      "category": "教育"
+      "raw_hot": 179808,
+      "num": 179808,
+      "word": "张柏芝戴了泉州非遗簪花",
+      "onboard_time": 1760675844,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 178333,
@@ -419,12 +459,12 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 168022,
-      "num": 168022,
-      "word": "王者荣耀 是初恋是冰释前嫌的前任",
-      "onboard_time": 1760673741,
-      "rank": 32,
-      "category": "游戏"
+      "raw_hot": 170228,
+      "num": 265540,
+      "word": "日本前首相村山富市去世",
+      "onboard_time": 1760675123,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 167928,
@@ -441,6 +481,22 @@
       "onboard_time": 1760671581,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161248,
+      "num": 161248,
+      "word": "江西小伙回应彩礼视频爆火",
+      "onboard_time": 1760672541,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158226,
+      "num": 264896,
+      "word": "洗衣机用完该不该开门晾着",
+      "onboard_time": 1760674102,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 155394,
@@ -475,8 +531,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149480,
-      "num": 149480,
+      "raw_hot": 150721,
+      "num": 150721,
       "word": "罗云熙熙妃回宫",
       "onboard_time": 1760671102,
       "rank": 41,
@@ -515,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144000,
+      "num": 164331,
+      "word": "终于有剧拍出了堕落的第一口",
+      "onboard_time": 1760674642,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143667,
       "num": 143667,
       "word": "给王安宇说爽了",
@@ -545,14 +609,6 @@
       "onboard_time": 1760667381,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 141073,
-      "num": 264896,
-      "word": "洗衣机用完该不该开门晾着",
-      "onboard_time": 1760674102,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 141070,
@@ -619,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134718,
+      "num": 150388,
+      "word": "杨幂穿着睡衣回国",
+      "onboard_time": 1760675664,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133532,
       "num": 133532,
       "word": "网红柯铭 我饿死也不会找他们要钱",
@@ -651,20 +715,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128804,
-      "num": 128804,
-      "word": "江西小伙回应彩礼视频爆火",
-      "onboard_time": 1760672541,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128429,
       "num": 135146,
       "word": "知乎回应崩了",
       "onboard_time": 1760669720,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 124284,
+      "num": 124284,
+      "word": "陈鹤一古早网红的权威",
+      "onboard_time": 1760675964,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 121943,
@@ -683,14 +747,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 119090,
-      "num": 149353,
-      "word": "终于有剧拍出了堕落的第一口",
-      "onboard_time": 1760674642,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117798,
       "num": 117798,
       "word": "王伊瑶晒和赵丽颖合照",
@@ -705,6 +761,14 @@
       "onboard_time": 1760635577,
       "rank": 36,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 115218,
+      "num": 115218,
+      "word": "保安打死校内流浪狗遭开除",
+      "onboard_time": 1760671581,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114888,
@@ -723,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113359,
+      "num": 113359,
+      "word": "王嘉尔 把事业调成手动挡",
+      "onboard_time": 1760676203,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111957,
       "num": 111957,
       "word": "特朗普将于17日与泽连斯基会晤",
@@ -737,6 +809,14 @@
       "onboard_time": 1760658140,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108937,
+      "num": 141773,
+      "word": "李沁说七老童心都不矫情",
+      "onboard_time": 1760674223,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 107194,
@@ -763,20 +843,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105325,
-      "num": 265540,
-      "word": "日本前首相村山富市去世",
-      "onboard_time": 1760675123,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 105176,
       "num": 105176,
       "word": "doinb谈cfo战胜t1",
       "onboard_time": 1760662462,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104924,
+      "num": 110766,
+      "word": "现货黄金跌破4280",
+      "onboard_time": 1760673982,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 104102,
@@ -793,14 +873,6 @@
       "onboard_time": 1760670801,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 100665,
-      "num": 147519,
-      "word": "金价一夜暴涨有投资者彻夜难眠",
-      "onboard_time": 1760675182,
-      "rank": 38,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 99247,
@@ -857,14 +929,6 @@
       "onboard_time": 1760666661,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92461,
-      "num": 141773,
-      "word": "李沁说七老童心都不矫情",
-      "onboard_time": 1760674223,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 90639,
@@ -1139,6 +1203,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 67216,
+      "num": 265179,
+      "word": "豪华品牌里第一台具有性价比的车",
+      "onboard_time": 1760672121,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 66913,
       "num": 66913,
       "word": "近视眼得了老花要怎么看清世界",
@@ -1153,14 +1225,6 @@
       "onboard_time": 1760663722,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 64721,
-      "num": 265179,
-      "word": "豪华品牌里第一台具有性价比的车",
-      "onboard_time": 1760672121,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 64494,
