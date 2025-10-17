@@ -1,6 +1,6 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760708696878,
+  "endTime": 1760711148070,
   "band_list": [
     {
       "raw_hot": 6997623,
@@ -9,6 +9,14 @@
       "onboard_time": 1760693962,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6139592,
+      "num": 6139592,
+      "word": "警方通报荣梓杉李禹熹纠纷",
+      "onboard_time": 1760709984,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 3904292,
@@ -67,6 +75,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1144617,
+      "num": 314884,
+      "word": "荣梓杉最喜欢的女性特质是漂亮",
+      "onboard_time": 1760709262,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1142464,
       "num": 549465,
       "word": "咬嘴 口腔癌",
@@ -107,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1000340,
+      "num": 314814,
+      "word": "小S 金钟奖",
+      "onboard_time": 1760695162,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 943011,
       "num": 943011,
       "word": "银行长期不动账户将被清理",
@@ -139,11 +163,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 898946,
-      "num": 287466,
-      "word": "小S 金钟奖",
-      "onboard_time": 1760695162,
-      "rank": 13,
+      "raw_hot": 884756,
+      "num": 219518,
+      "word": "荣某某李某某因情感纠纷引发拉拽",
+      "onboard_time": 1760710463,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -228,7 +252,7 @@
     },
     {
       "raw_hot": 679722,
-      "num": 254130,
+      "num": 298918,
       "word": "鹿晗张艺兴黄子韬在南山塔挂过锁头",
       "onboard_time": 1760700383,
       "rank": 23,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 552348,
-      "num": 252106,
+      "num": 314254,
       "word": "男女主浴池吻唇享60秒",
       "onboard_time": 1760698344,
       "rank": 20,
@@ -292,7 +316,7 @@
     },
     {
       "raw_hot": 528590,
-      "num": 243023,
+      "num": 314314,
       "word": "卢昱晓 我对你何止半分真心",
       "onboard_time": 1760703984,
       "rank": 20,
@@ -305,6 +329,14 @@
       "onboard_time": 1760688202,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 516929,
+      "num": 314634,
+      "word": "一家三口被撞身亡案家属透露新细节",
+      "onboard_time": 1760707403,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 492607,
@@ -409,6 +441,14 @@
       "onboard_time": 1760688682,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402944,
+      "num": 402944,
+      "word": "辽宁朝阳失联女童找到后派出所所长泪流满面",
+      "onboard_time": 1760707225,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 390793,
@@ -579,6 +619,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 298808,
+      "num": 315456,
+      "word": "金钟奖",
+      "onboard_time": 1760695822,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 296085,
+      "num": 137354,
+      "word": "字节跳动程序员降薪一半去德国",
+      "onboard_time": 1760707282,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 295849,
       "num": 712855,
       "word": "陆虎新歌烂人",
@@ -619,14 +675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 279618,
-      "num": 294389,
-      "word": "金钟奖",
-      "onboard_time": 1760695822,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 269871,
       "num": 269871,
       "word": "iPhoneAir正式开售",
@@ -657,14 +705,6 @@
       "onboard_time": 1760670681,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 261171,
-      "num": 137354,
-      "word": "字节跳动程序员降薪一半去德国",
-      "onboard_time": 1760707282,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 259175,
@@ -723,14 +763,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 250404,
-      "num": 172398,
-      "word": "一家三口被撞身亡案家属透露新细节",
-      "onboard_time": 1760707403,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 250208,
       "num": 753757,
       "word": "日本前首相村山富市去世",
@@ -745,6 +777,14 @@
       "onboard_time": 1760663962,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 241935,
+      "num": 241935,
+      "word": "周洁琼辟谣被甩归国女艺人",
+      "onboard_time": 1760708603,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 238717,
@@ -883,6 +923,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 209269,
+      "num": 315242,
+      "word": "入青云热度",
+      "onboard_time": 1760709924,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208275,
       "num": 208275,
       "word": "秋裤羽绒服该出场了",
@@ -913,6 +961,14 @@
       "onboard_time": 1760695341,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 201907,
+      "num": 201907,
+      "word": "金价",
+      "onboard_time": 1760710644,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 199550,
@@ -953,14 +1009,6 @@
       "onboard_time": 1760706802,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 194366,
-      "num": 194366,
-      "word": "辽宁朝阳失联女童找到后派出所所长泪流满面",
-      "onboard_time": 1760707225,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 193954,
@@ -1163,6 +1211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 174988,
+      "num": 174988,
+      "word": "于和伟到吴石墓前献花",
+      "onboard_time": 1760708663,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170070,
       "num": 170070,
       "word": "乌贼被喂食时显示出一张人脸",
@@ -1232,6 +1288,14 @@
       "word": "江西小伙回应彩礼视频爆火",
       "onboard_time": 1760672541,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159850,
+      "num": 159850,
+      "word": "惠州人社局介入爬行学狗叫事件",
+      "onboard_time": 1760708901,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1315,12 +1379,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 153248,
-      "num": 137331,
-      "word": "于和伟到吴石墓前献花",
-      "onboard_time": 1760708663,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 151840,
+      "num": 151840,
+      "word": "沙溢你裸泳的视频是不是这个",
+      "onboard_time": 1760710584,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 151815,
@@ -1531,12 +1595,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143531,
+      "num": 315064,
+      "word": "金钟奖直播",
+      "onboard_time": 1760705722,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143015,
       "num": 143015,
       "word": "那艺娜登时尚芭莎",
       "onboard_time": 1760708002,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 142897,
+      "num": 314444,
+      "word": "京城大师赛",
+      "onboard_time": 1760708663,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 142048,
@@ -1552,6 +1632,14 @@
       "word": "上海地铁称地铁一词统一译为metro",
       "onboard_time": 1760624366,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139260,
+      "num": 139260,
+      "word": "辽宁失联女童因红衣被快速找到",
+      "onboard_time": 1760709202,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -1755,14 +1843,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 126932,
-      "num": 158524,
-      "word": "金钟奖直播",
-      "onboard_time": 1760705722,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 126762,
       "num": 126762,
       "word": "环球人物 黄子弘凡",
@@ -1777,6 +1857,14 @@
       "onboard_time": 1760695701,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125209,
+      "num": 125209,
+      "word": "胖人坐车会更耗电吗",
+      "onboard_time": 1760710823,
+      "rank": 33,
+      "category": "科学科普"
     },
     {
       "raw_hot": 124376,
@@ -1961,6 +2049,14 @@
       "onboard_time": 1760700503,
       "rank": 38,
       "category": "美食,休闲"
+    },
+    {
+      "raw_hot": 115149,
+      "num": 115149,
+      "word": "谁懂洗完衣服忘晾的痛",
+      "onboard_time": 1760710284,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 115108,
@@ -2179,14 +2275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107312,
-      "num": 107312,
-      "word": "周洁琼辟谣被甩归国女艺人",
-      "onboard_time": 1760708603,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 107194,
       "num": 107194,
       "word": "马来西亚14岁男生在女厕刺死学姐",
@@ -2267,12 +2355,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105108,
+      "num": 105108,
+      "word": "LGDNBW对战WB",
+      "onboard_time": 1760710103,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 104924,
       "num": 110766,
       "word": "现货黄金跌破4280",
       "onboard_time": 1760673982,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 104495,
+      "num": 104495,
+      "word": "舒淇白客寻她撤档",
+      "onboard_time": 1760710704,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 104191,
@@ -2387,6 +2491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 102227,
+      "num": 102227,
+      "word": "解放军将持续提升反分裂反干涉实战能力",
+      "onboard_time": 1760710644,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 101606,
       "num": 101606,
       "word": "偶遇杨幂看北京珠宝展",
@@ -2409,14 +2521,6 @@
       "onboard_time": 1760676503,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 99719,
-      "num": 99719,
-      "word": "京城大师赛",
-      "onboard_time": 1760708663,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 99302,
@@ -2595,12 +2699,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 89238,
+      "num": 89238,
+      "word": "李亚鹏说真相比猜想更残忍",
+      "onboard_time": 1760710226,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89226,
       "num": 89226,
       "word": "李施嬅四次手术男友全程缺席",
       "onboard_time": 1760656579,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88338,
+      "num": 88338,
+      "word": "成都蓉城vs梅州客家",
+      "onboard_time": 1760710161,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 88335,
@@ -3060,7 +3180,7 @@
     },
     {
       "raw_hot": 51815,
-      "num": 427035,
+      "num": 473840,
       "word": "今天起传递这颗红星",
       "onboard_time": 1760706802,
       "rank": 2,
@@ -3145,6 +3265,14 @@
       "onboard_time": 1760622264,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 45696,
+      "num": 105588,
+      "word": "野人小孩没有户口",
+      "onboard_time": 1760710704,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45604,

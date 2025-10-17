@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/10/17 21:44:56
+本榜单时间：2025/01/01 00:26:38 ~ 2025/10/17 22:25:48
 </p>
 </blockquote>
 <p>
@@ -1665,6 +1665,12 @@ ALin秒了（热度：6171972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E8%8D%A3%E6%A2%93%E6%9D%89%E6%9D%8E%E7%A6%B9%E7%86%B9%E7%BA%A0%E7%BA%B7%23" target="weibo">
+警方通报荣梓杉李禹熹纠纷（热度：6139592）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8C%97%E5%A4%A7%E6%8B%9F%E5%BD%95%E5%8F%96%23" target="weibo">
 王楚钦北大拟录取（热度：6115383）
 </a>
@@ -1805,12 +1811,6 @@ ALin秒了（热度：6171972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%9F%90%E9%9B%AA%E6%9C%89%E4%B8%A5%E9%87%8D%E7%B2%BE%E7%A5%9E%E9%9A%9C%E7%A2%8D%23" target="weibo">
 李某雪有严重精神障碍（热度：4871233）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E9%A9%AC%E4%BB%95%20%E5%80%92%E9%97%AD%23" target="weibo">
-罗马仕 倒闭（热度：4866007）
 </a>
 </li>
 

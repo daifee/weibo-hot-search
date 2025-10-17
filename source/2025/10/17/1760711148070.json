@@ -1,0 +1,410 @@
+{
+  "runTime": 1760711148070,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 678770,
+        "num": 1108603,
+        "word": "杨力维杨舒予父亲去世",
+        "onboard_time": 1760691200,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 587552,
+        "num": 587552,
+        "word": "缅北电诈园区剁人手指泡酒",
+        "onboard_time": 1760679982,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44711,
+        "num": 473840,
+        "word": "今天起传递这颗红星",
+        "onboard_time": 1760706802,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 467709,
+        "num": 467709,
+        "word": "金价暴涨时4万5黄金订单蒸发",
+        "onboard_time": 1760699183,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 402944,
+        "num": 402944,
+        "word": "辽宁朝阳失联女童找到后派出所所长泪流满面",
+        "onboard_time": 1760707225,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315519,
+        "num": 315519,
+        "word": "国考审核人员 好强的活人感",
+        "onboard_time": 1760696482,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 298808,
+        "num": 315456,
+        "word": "金钟奖",
+        "onboard_time": 1760695822,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209269,
+        "num": 315242,
+        "word": "入青云热度",
+        "onboard_time": 1760709924,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187078,
+        "num": 315140,
+        "word": "AL晋级S15八强",
+        "onboard_time": 1760704461,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143531,
+        "num": 315064,
+        "word": "金钟奖直播",
+        "onboard_time": 1760705722,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1144617,
+        "num": 314884,
+        "word": "荣梓杉最喜欢的女性特质是漂亮",
+        "onboard_time": 1760709262,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1000340,
+        "num": 314814,
+        "word": "小S 金钟奖",
+        "onboard_time": 1760695162,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516929,
+        "num": 314634,
+        "word": "一家三口被撞身亡案家属透露新细节",
+        "onboard_time": 1760707403,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142897,
+        "num": 314444,
+        "word": "京城大师赛",
+        "onboard_time": 1760708663,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 480421,
+        "num": 314314,
+        "word": "卢昱晓 我对你何止半分真心",
+        "onboard_time": 1760703984,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314254,
+        "num": 314254,
+        "word": "男女主浴池吻唇享60秒",
+        "onboard_time": 1760698344,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298918,
+        "num": 298918,
+        "word": "鹿晗张艺兴黄子韬在南山塔挂过锁头",
+        "onboard_time": 1760700383,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241935,
+        "num": 241935,
+        "word": "周洁琼辟谣被甩归国女艺人",
+        "onboard_time": 1760708603,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223461,
+        "num": 223461,
+        "word": "日本药 下料狠",
+        "onboard_time": 1760694861,
+        "rank": 18,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 222224,
+        "num": 222224,
+        "word": "方媛小腿浮肿",
+        "onboard_time": 1760705122,
+        "rank": 19,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 6139592,
+        "num": 6139592,
+        "word": "警方通报荣梓杉李禹熹纠纷",
+        "onboard_time": 1760709984,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 884756,
+        "num": 219518,
+        "word": "荣某某李某某因情感纠纷引发拉拽",
+        "onboard_time": 1760710463,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213339,
+        "num": 213339,
+        "word": "减肥减成杨幂了",
+        "onboard_time": 1760698702,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206888,
+        "num": 206888,
+        "word": "克拉拉官宣离婚",
+        "onboard_time": 1760692941,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201907,
+        "num": 201907,
+        "word": "金价",
+        "onboard_time": 1760710644,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 174988,
+        "num": 174988,
+        "word": "于和伟到吴石墓前献花",
+        "onboard_time": 1760708663,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159850,
+        "num": 159850,
+        "word": "惠州人社局介入爬行学狗叫事件",
+        "onboard_time": 1760708901,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151840,
+        "num": 151840,
+        "word": "沙溢你裸泳的视频是不是这个",
+        "onboard_time": 1760710584,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139260,
+        "num": 139260,
+        "word": "辽宁失联女童因红衣被快速找到",
+        "onboard_time": 1760709202,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97746,
+        "num": 131984,
+        "word": "小城良方",
+        "onboard_time": 1760701942,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147471,
+        "num": 131829,
+        "word": "张婧仪生图也太生了",
+        "onboard_time": 1760696601,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296085,
+        "num": 131653,
+        "word": "字节跳动程序员降薪一半去德国",
+        "onboard_time": 1760707282,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131372,
+        "num": 131372,
+        "word": "住酒店发现房间对外透明",
+        "onboard_time": 1760704822,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125209,
+        "num": 125209,
+        "word": "胖人坐车会更耗电吗",
+        "onboard_time": 1760710823,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 121679,
+        "num": 121679,
+        "word": "林诗栋也是火了",
+        "onboard_time": 1760707282,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115149,
+        "num": 115149,
+        "word": "谁懂洗完衣服忘晾的痛",
+        "onboard_time": 1760710284,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114219,
+        "num": 114219,
+        "word": "陈奕恒日本",
+        "onboard_time": 1760697202,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107479,
+        "num": 107479,
+        "word": "其实你根本不喜欢玩手机",
+        "onboard_time": 1760708603,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 720733,
+        "num": 106764,
+        "word": "中科院院士回应杨振宁逝世传闻",
+        "onboard_time": 1760705062,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45696,
+        "num": 105588,
+        "word": "野人小孩没有户口",
+        "onboard_time": 1760710704,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105108,
+        "num": 105108,
+        "word": "LGDNBW对战WB",
+        "onboard_time": 1760710103,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104495,
+        "num": 104495,
+        "word": "舒淇白客寻她撤档",
+        "onboard_time": 1760710704,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102227,
+        "num": 102227,
+        "word": "解放军将持续提升反分裂反干涉实战能力",
+        "onboard_time": 1760710644,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99669,
+        "num": 99669,
+        "word": "黄子韬徐艺洋婚礼主桌视角",
+        "onboard_time": 1760689223,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95704,
+        "num": 95704,
+        "word": "第五人格",
+        "onboard_time": 1760694981,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92525,
+        "num": 92525,
+        "word": "贵州一溶洞流出大量污水含有煤",
+        "onboard_time": 1760700624,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 89238,
+        "num": 89238,
+        "word": "李亚鹏说真相比猜想更残忍",
+        "onboard_time": 1760710226,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89073,
+        "num": 89073,
+        "word": "这居然是林子烨",
+        "onboard_time": 1760703022,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88338,
+        "num": 88338,
+        "word": "成都蓉城vs梅州客家",
+        "onboard_time": 1760710161,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87237,
+        "num": 87237,
+        "word": "中南大学原校长张尧学被查",
+        "onboard_time": 1760704762,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济关键时刻必有关键抉择#"
+    }
+  }
+}
