@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 09:51:50
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 10:12:48
 </p>
 </blockquote>
 <p>
@@ -305,6 +305,12 @@ iG对战T1（热度：1886560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%92%E7%89%8C%E9%B8%A1%E6%8E%92%E5%93%A5%E8%BF%9E%E4%BA%BA%E5%B8%A6%E8%BD%A6%E8%A2%AB%E5%8A%9D%E8%BF%94%23" target="weibo">
 冒牌鸡排哥连人带车被劝返（热度：1728253）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%20%E4%B8%80%E5%88%A0%E7%9A%86%E7%A9%BA%23" target="weibo">
+微信 一删皆空（热度：1713011）
 </a>
 </li>
 
@@ -831,12 +837,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%20%E4%B8%80%E5%88%A0%E7%9A%86%E7%A9%BA%23" target="weibo">
-微信 一删皆空（热度：1205291）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%9A8%E7%A7%92%E4%B8%8B%E9%AB%98%E9%80%9F%E8%A2%AB%E6%94%B6500%E5%85%83%E7%94%B7%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
 晚8秒下高速被收500元男子发声（热度：1204787）
 </a>
@@ -893,6 +893,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E4%BA%BA%E6%B0%91%E9%83%BD%E7%9F%A5%E9%81%93%E6%88%91%E4%BB%AC%E6%94%BE%E5%81%87%E4%BA%86%23" target="weibo">
 全球人民都知道我们放假了（热度：1185375）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E4%B9%8E%E5%B4%A9%E4%BA%86%23" target="weibo">
+知乎崩了（热度：1182644）
 </a>
 </li>
 
@@ -1517,12 +1523,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%8A%A6%E5%B1%B14.7%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 四川芦山4.7级地震（热度：947840）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E4%B9%8E%E5%B4%A9%E4%BA%86%23" target="weibo">
-知乎崩了（热度：947064）
 </a>
 </li>
 
@@ -2187,6 +2187,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%BC%E5%91%98%E5%B7%A5%E5%8D%96%E6%B7%AB%E5%A5%B3%E5%AB%8C%E7%8A%AF%E5%9B%A0%E5%A4%96%E8%B2%8C%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%B5%B0%E7%BA%A2%23" target="weibo">
+逼员工卖淫女嫌犯因外貌在日本走红（热度：801008）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A6%9C%E4%B8%80%E5%A4%A7%E5%93%A5%E7%A7%B0%E5%B7%B2%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89%E6%97%BA%E4%BB%94%E5%B0%8F%E4%B9%94%23" target="weibo">
 榜一大哥称已正式起诉旺仔小乔（热度：799365）
 </a>
@@ -2303,12 +2309,6 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E6%8E%80%E6%A1%8C%E4%BA%86%23" target="weibo">
 马思纯掀桌了（热度：777517）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%BC%E5%91%98%E5%B7%A5%E5%8D%96%E6%B7%AB%E5%A5%B3%E5%AB%8C%E7%8A%AF%E5%9B%A0%E5%A4%96%E8%B2%8C%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%B5%B0%E7%BA%A2%23" target="weibo">
-逼员工卖淫女嫌犯因外貌在日本走红（热度：777089）
 </a>
 </li>
 
@@ -4077,6 +4077,12 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%9C%89%E4%BA%BA600%E5%85%83%E6%97%B6%E5%9B%A4150%E4%B8%87%E9%BB%84%E9%87%91%23" target="weibo">
+杭州有人600元时囤150万黄金（热度：539215）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E7%94%9F%E6%9C%88%E7%A7%9F1500%E5%85%83%E4%BD%8F%E8%BF%9B%E5%85%BB%E8%80%81%E9%99%A2%23" target="weibo">
 27岁女生月租1500元住进养老院（热度：538932）
 </a>
@@ -5183,12 +5189,6 @@ UNINE合体（热度：458011）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%85%85%E7%94%B5%E5%8F%A3%E4%BD%BF%E7%94%A8%E6%9D%83%E4%BA%89%E8%AE%AE%23" target="weibo">
 12306回应充电口使用权争议（热度：456135）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%9C%89%E4%BA%BA600%E5%85%83%E6%97%B6%E5%9B%A4150%E4%B8%87%E9%BB%84%E9%87%91%23" target="weibo">
-杭州有人600元时囤150万黄金（热度：455449）
 </a>
 </li>
 
