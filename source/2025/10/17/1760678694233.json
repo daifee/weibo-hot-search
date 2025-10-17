@@ -1,0 +1,410 @@
+{
+  "runTime": 1760678694233,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 698638,
+        "num": 1111782,
+        "word": "美国一储藏约816吨大豆粮仓倒塌",
+        "onboard_time": 1760675003,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 323904,
+        "num": 323904,
+        "word": "辽宁失联4岁女童已找到",
+        "onboard_time": 1760669242,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3984,
+        "num": 261152,
+        "word": "红星照耀中国",
+        "onboard_time": 1760593821,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 824200,
+        "num": 260228,
+        "word": "金价一夜暴涨有投资者彻夜难眠",
+        "onboard_time": 1760675182,
+        "rank": 3,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 250208,
+        "num": 250208,
+        "word": "日本前首相村山富市去世",
+        "onboard_time": 1760675123,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239021,
+        "num": 239021,
+        "word": "杭州有人600元时囤150万黄金",
+        "onboard_time": 1760663482,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227972,
+        "num": 227972,
+        "word": "银行长期不动账户将被清理",
+        "onboard_time": 1760662521,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222205,
+        "num": 222205,
+        "word": "王腾宣传K90ProMax",
+        "onboard_time": 1760676263,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 188337,
+        "num": 222125,
+        "word": "成毅说演员先做人再演戏",
+        "onboard_time": 1760616381,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149491,
+        "num": 221723,
+        "word": "杨瀚森6犯离场",
+        "onboard_time": 1760673502,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 829059,
+        "num": 221447,
+        "word": "刘奕畅被曝酒后围殴他人",
+        "onboard_time": 1760672781,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 711334,
+        "num": 221209,
+        "word": "微信 一删皆空",
+        "onboard_time": 1760663901,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 689950,
+        "num": 220854,
+        "word": "谢可寅 她穿婚纱很漂亮",
+        "onboard_time": 1760676563,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 595797,
+        "num": 220584,
+        "word": "咬嘴 口腔癌",
+        "onboard_time": 1760667321,
+        "rank": 13,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 30187,
+        "num": 220376,
+        "word": "机器人怎样改变人类生活",
+        "onboard_time": 1760677284,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 538877,
+        "num": 220091,
+        "word": "逼员工卖淫女嫌犯因外貌在日本走红",
+        "onboard_time": 1760662762,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 537652,
+        "num": 219738,
+        "word": "刘宇宁陪黄子韬敬酒",
+        "onboard_time": 1760675245,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30307,
+        "num": 219323,
+        "word": "小当家特级厨师争霸赛重启",
+        "onboard_time": 1760677402,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 82420,
+        "num": 218986,
+        "word": "男童掉进烧烤店炭堆全身烧伤",
+        "onboard_time": 1760678241,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93237,
+        "num": 218825,
+        "word": "化学老师用火焰掌奖励学生引争议",
+        "onboard_time": 1760678002,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401669,
+        "num": 218608,
+        "word": "李茂自曝在弦子洗澡时求婚",
+        "onboard_time": 1760670142,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321792,
+        "num": 218092,
+        "word": "迪丽热巴代言骆驼",
+        "onboard_time": 1760668822,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298798,
+        "num": 217875,
+        "word": "杨幂穿着睡衣回国",
+        "onboard_time": 1760675664,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264340,
+        "num": 217714,
+        "word": "侯明昊是直播大漏勺吧",
+        "onboard_time": 1760677163,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217503,
+        "num": 217503,
+        "word": "7岁娃爬邻居阳台坠亡父母索赔27万",
+        "onboard_time": 1760677223,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256239,
+        "num": 210893,
+        "word": "黄金",
+        "onboard_time": 1760659760,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 232561,
+        "num": 208370,
+        "word": "在美读博中国小伙被控下药鸡奸罪",
+        "onboard_time": 1760673201,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 287017,
+        "num": 207720,
+        "word": "杨幂已到家吃上豆腐脑了",
+        "onboard_time": 1760670982,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196970,
+        "num": 196970,
+        "word": "杨瀚森哭了",
+        "onboard_time": 1760677882,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116608,
+        "num": 193479,
+        "word": "终于有剧拍出了堕落的第一口",
+        "onboard_time": 1760674642,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192720,
+        "num": 192720,
+        "word": "邓莎和老公因为狗分居",
+        "onboard_time": 1760677163,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175921,
+        "num": 175921,
+        "word": "双高胎 替身文学",
+        "onboard_time": 1760677822,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175580,
+        "num": 175580,
+        "word": "黄子韬婚礼归国四子一缺三",
+        "onboard_time": 1760627964,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167037,
+        "num": 167037,
+        "word": "先天考公圣体",
+        "onboard_time": 1760674461,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161722,
+        "num": 161722,
+        "word": "Gumayusi无法接受输给GEN",
+        "onboard_time": 1760675784,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140837,
+        "num": 140837,
+        "word": "野人小孩父母均大学毕业",
+        "onboard_time": 1760678304,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136306,
+        "num": 136306,
+        "word": "王者荣耀 是初恋是冰释前嫌的前任",
+        "onboard_time": 1760673741,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124074,
+        "num": 135658,
+        "word": "陆虎新歌烂人",
+        "onboard_time": 1760678602,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 125091,
+        "num": 135552,
+        "word": "蒋龙张弛断联和好就一句对不起",
+        "onboard_time": 1760678420,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 6937,
+        "num": 135522,
+        "word": "澳门2049亮相乌镇戏剧节",
+        "onboard_time": 1760666481,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135522,
+        "num": 135521,
+        "word": "张柏芝戴了泉州非遗簪花",
+        "onboard_time": 1760675844,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132408,
+        "num": 132408,
+        "word": "王腾回应红米新手机是遗作",
+        "onboard_time": 1760676743,
+        "rank": 41,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 128823,
+        "num": 128823,
+        "word": "保安打死校内流浪狗遭开除",
+        "onboard_time": 1760671581,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123313,
+        "num": 123313,
+        "word": "小米王化回复王腾",
+        "onboard_time": 1760678362,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123115,
+        "num": 123115,
+        "word": "700万兰博基尼遭暴力审车",
+        "onboard_time": 1760673982,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119555,
+        "num": 119555,
+        "word": "这居然是方家翊",
+        "onboard_time": 1760676743,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70204,
+        "num": 117818,
+        "word": "500平住宅装20多台空调",
+        "onboard_time": 1760677223,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117601,
+        "num": 117601,
+        "word": "杨瀚森回应6犯离场",
+        "onboard_time": 1760678662,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96523,
+        "num": 107617,
+        "word": "水龙吟",
+        "onboard_time": 1760669301,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79668,
+        "num": 105585,
+        "word": "喜人奇妙夜2",
+        "onboard_time": 1760676862,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领筑牢国家粮食安全#"
+    }
+  }
+}

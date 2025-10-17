@@ -1,6 +1,6 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760676219336,
+  "endTime": 1760678694233,
   "band_list": [
     {
       "raw_hot": 1713011,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 824200,
+      "num": 276485,
+      "word": "金价一夜暴涨有投资者彻夜难眠",
+      "onboard_time": 1760675182,
+      "rank": 38,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 818648,
       "num": 264439,
       "word": "黄金",
@@ -83,6 +91,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 698638,
+      "num": 1111782,
+      "word": "美国一储藏约816吨大豆粮仓倒塌",
+      "onboard_time": 1760675003,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 689950,
+      "num": 220854,
+      "word": "谢可寅 她穿婚纱很漂亮",
+      "onboard_time": 1760676563,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 677765,
       "num": 266267,
       "word": "李茂自曝在弦子洗澡时求婚",
@@ -97,6 +121,14 @@
       "onboard_time": 1760663482,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 537652,
+      "num": 243506,
+      "word": "刘宇宁陪黄子韬敬酒",
+      "onboard_time": 1760675245,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 530172,
@@ -123,14 +155,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 441327,
-      "num": 441327,
-      "word": "美国一储藏约816吨大豆粮仓倒塌",
-      "onboard_time": 1760675003,
-      "rank": 6,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 429718,
       "num": 436244,
       "word": "赵丽颖庆生照片",
@@ -145,14 +169,6 @@
       "onboard_time": 1760628622,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 398075,
-      "num": 243506,
-      "word": "刘宇宁陪黄子韬敬酒",
-      "onboard_time": 1760675245,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 378151,
@@ -211,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 298798,
+      "num": 217875,
+      "word": "杨幂穿着睡衣回国",
+      "onboard_time": 1760675664,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286880,
       "num": 145280,
       "word": "鹿晗没去黄子韬婚礼",
@@ -235,20 +259,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 276485,
-      "num": 276485,
-      "word": "金价一夜暴涨有投资者彻夜难眠",
-      "onboard_time": 1760675182,
-      "rank": 38,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 269871,
       "num": 269871,
       "word": "iPhoneAir正式开售",
       "onboard_time": 1760667142,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 264340,
+      "num": 217714,
+      "word": "侯明昊是直播大漏勺吧",
+      "onboard_time": 1760677163,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 263592,
@@ -264,6 +288,14 @@
       "word": "石破茂再向靖国神社供奉祭品",
       "onboard_time": 1760670681,
       "rank": 26,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 250208,
+      "num": 265540,
+      "word": "日本前首相村山富市去世",
+      "onboard_time": 1760675123,
+      "rank": 17,
       "category": "国际时政"
     },
     {
@@ -307,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222205,
+      "num": 222205,
+      "word": "王腾宣传K90ProMax",
+      "onboard_time": 1760676263,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 219839,
       "num": 434950,
       "word": "徐艺洋 谢彬彬我的男朋友",
@@ -328,6 +368,14 @@
       "word": "你见过全圆彩虹吗",
       "onboard_time": 1760667021,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217503,
+      "num": 217503,
+      "word": "7岁娃爬邻居阳台坠亡父母索赔27万",
+      "onboard_time": 1760677223,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -361,6 +409,22 @@
       "onboard_time": 1760674461,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 196970,
+      "num": 196970,
+      "word": "杨瀚森哭了",
+      "onboard_time": 1760677882,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192720,
+      "num": 192720,
+      "word": "邓莎和老公因为狗分居",
+      "onboard_time": 1760677163,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 192636,
@@ -443,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175921,
+      "num": 175921,
+      "word": "双高胎 替身文学",
+      "onboard_time": 1760677822,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175855,
       "num": 175855,
       "word": "雀巢拟裁员1.6万人",
@@ -457,14 +529,6 @@
       "onboard_time": 1760659221,
       "rank": 22,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 170228,
-      "num": 265540,
-      "word": "日本前首相村山富市去世",
-      "onboard_time": 1760675123,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 167928,
@@ -572,7 +636,7 @@
     },
     {
       "raw_hot": 144000,
-      "num": 164331,
+      "num": 193479,
       "word": "终于有剧拍出了堕落的第一口",
       "onboard_time": 1760674642,
       "rank": 36,
@@ -616,6 +680,14 @@
       "word": "上海地铁称地铁一词统一译为metro",
       "onboard_time": 1760624366,
       "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140837,
+      "num": 140837,
+      "word": "野人小孩父母均大学毕业",
+      "onboard_time": 1760678304,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -675,14 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134718,
-      "num": 150388,
-      "word": "杨幂穿着睡衣回国",
-      "onboard_time": 1760675664,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133532,
       "num": 133532,
       "word": "网红柯铭 我饿死也不会找他们要钱",
@@ -707,12 +771,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 132408,
+      "num": 132408,
+      "word": "王腾回应红米新手机是遗作",
+      "onboard_time": 1760676743,
+      "rank": 41,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 132187,
       "num": 132187,
       "word": "杨瀚森又进三分球了",
       "onboard_time": 1760667561,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128823,
+      "num": 128823,
+      "word": "保安打死校内流浪狗遭开除",
+      "onboard_time": 1760671581,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128429,
@@ -723,12 +803,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 125091,
+      "num": 135552,
+      "word": "蒋龙张弛断联和好就一句对不起",
+      "onboard_time": 1760678420,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124284,
       "num": 124284,
       "word": "陈鹤一古早网红的权威",
       "onboard_time": 1760675964,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124074,
+      "num": 135658,
+      "word": "陆虎新歌烂人",
+      "onboard_time": 1760678602,
+      "rank": 37,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 123313,
+      "num": 123313,
+      "word": "小米王化回复王腾",
+      "onboard_time": 1760678362,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 121943,
@@ -747,6 +851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119555,
+      "num": 119555,
+      "word": "这居然是方家翊",
+      "onboard_time": 1760676743,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117798,
       "num": 117798,
       "word": "王伊瑶晒和赵丽颖合照",
@@ -755,20 +867,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117601,
+      "num": 117601,
+      "word": "杨瀚森回应6犯离场",
+      "onboard_time": 1760678662,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116412,
       "num": 333413,
       "word": "警方通报网传新娘与摄影师事件",
       "onboard_time": 1760635577,
       "rank": 36,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 115218,
-      "num": 115218,
-      "word": "保安打死校内流浪狗遭开除",
-      "onboard_time": 1760671581,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114888,
@@ -931,6 +1043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93237,
+      "num": 218825,
+      "word": "化学老师用火焰掌奖励学生引争议",
+      "onboard_time": 1760678002,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90639,
       "num": 85175,
       "word": "卡戴珊透露与侃爷离婚原因",
@@ -1051,12 +1171,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82420,
+      "num": 218986,
+      "word": "男童掉进烧烤店炭堆全身烧伤",
+      "onboard_time": 1760678241,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80393,
       "num": 80393,
       "word": "HLE宝蓝",
       "onboard_time": 1760656759,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 79668,
+      "num": 105585,
+      "word": "喜人奇妙夜2",
+      "onboard_time": 1760676862,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 78922,
@@ -1145,6 +1281,14 @@
       "onboard_time": 1760624543,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 70204,
+      "num": 117818,
+      "word": "500平住宅装20多台空调",
+      "onboard_time": 1760677223,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69519,
@@ -1451,12 +1595,28 @@
       "category": "民生新闻,军事"
     },
     {
+      "raw_hot": 30307,
+      "num": 219323,
+      "word": "小当家特级厨师争霸赛重启",
+      "onboard_time": 1760677402,
+      "rank": 17,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 30211,
       "num": 404904,
       "word": "孙颖莎第一张4K超清实况",
       "onboard_time": 1760619924,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30187,
+      "num": 220376,
+      "word": "机器人怎样改变人类生活",
+      "onboard_time": 1760677284,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 30088,
@@ -1524,7 +1684,7 @@
     },
     {
       "raw_hot": 14730,
-      "num": 73219,
+      "num": 135522,
       "word": "澳门2049亮相乌镇戏剧节",
       "onboard_time": 1760666481,
       "rank": 39,
@@ -1555,7 +1715,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 3291,
+      "raw_hot": 3984,
       "num": 515110,
       "word": "红星照耀中国",
       "onboard_time": 1760593821,

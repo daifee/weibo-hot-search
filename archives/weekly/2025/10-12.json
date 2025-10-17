@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760676219336,
+  "endTime": 1760678694233,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -827,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 824200,
+      "num": 276485,
+      "word": "金价一夜暴涨有投资者彻夜难眠",
+      "onboard_time": 1760675182,
+      "rank": 38,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 822797,
       "num": 1131647,
       "word": "宝蓝抽签",
@@ -1075,6 +1083,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 698638,
+      "num": 1111782,
+      "word": "美国一储藏约816吨大豆粮仓倒塌",
+      "onboard_time": 1760675003,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 698021,
       "num": 223278,
       "word": "妈妈回应儿子与韦雪恋情",
@@ -1113,6 +1129,14 @@
       "onboard_time": 1760255720,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 689950,
+      "num": 220854,
+      "word": "谢可寅 她穿婚纱很漂亮",
+      "onboard_time": 1760676563,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 684053,
@@ -1705,6 +1729,14 @@
       "onboard_time": 1760264541,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 537652,
+      "num": 243506,
+      "word": "刘宇宁陪黄子韬敬酒",
+      "onboard_time": 1760675245,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 537428,
@@ -2355,14 +2387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 441327,
-      "num": 441327,
-      "word": "美国一储藏约816吨大豆粮仓倒塌",
-      "onboard_time": 1760675003,
-      "rank": 6,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 440859,
       "num": 226816,
       "word": "Angelababy跳刀马刀马了",
@@ -2689,14 +2713,6 @@
       "onboard_time": 1760453842,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 398075,
-      "num": 243506,
-      "word": "刘宇宁陪黄子韬敬酒",
-      "onboard_time": 1760675245,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 397097,
@@ -3483,6 +3499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 298798,
+      "num": 217875,
+      "word": "杨幂穿着睡衣回国",
+      "onboard_time": 1760675664,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 298439,
       "num": 252019,
       "word": "徐璐 帮我修瘦一点",
@@ -3755,14 +3779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276485,
-      "num": 276485,
-      "word": "金价一夜暴涨有投资者彻夜难眠",
-      "onboard_time": 1760675182,
-      "rank": 38,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 276251,
       "num": 174455,
       "word": "杨幂维密看秀大喊刘雯",
@@ -3955,6 +3971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 264340,
+      "num": 217714,
+      "word": "侯明昊是直播大漏勺吧",
+      "onboard_time": 1760677163,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 264306,
       "num": 264306,
       "word": "6省市一周雨雨雨",
@@ -4129,6 +4153,14 @@
       "onboard_time": 1760510001,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250208,
+      "num": 265540,
+      "word": "日本前首相村山富市去世",
+      "onboard_time": 1760675123,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 250139,
@@ -4579,6 +4611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222205,
+      "num": 222205,
+      "word": "王腾宣传K90ProMax",
+      "onboard_time": 1760676263,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 221223,
       "num": 201697,
       "word": "张杰唱完你的唱你的",
@@ -4689,6 +4729,14 @@
       "onboard_time": 1760189363,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 217503,
+      "num": 217503,
+      "word": "7岁娃爬邻居阳台坠亡父母索赔27万",
+      "onboard_time": 1760677223,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216531,
@@ -5275,6 +5323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196970,
+      "num": 196970,
+      "word": "杨瀚森哭了",
+      "onboard_time": 1760677882,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196903,
       "num": 196903,
       "word": "vivo发布会",
@@ -5433,6 +5489,14 @@
       "onboard_time": 1760329944,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192720,
+      "num": 192720,
+      "word": "邓莎和老公因为狗分居",
+      "onboard_time": 1760677163,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 192636,
@@ -6027,6 +6091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175921,
+      "num": 175921,
+      "word": "双高胎 替身文学",
+      "onboard_time": 1760677822,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175855,
       "num": 175855,
       "word": "雀巢拟裁员1.6万人",
@@ -6313,14 +6385,6 @@
       "onboard_time": 1760225477,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170228,
-      "num": 265540,
-      "word": "日本前首相村山富市去世",
-      "onboard_time": 1760675123,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 170189,
@@ -7796,7 +7860,7 @@
     },
     {
       "raw_hot": 144000,
-      "num": 164331,
+      "num": 193479,
       "word": "终于有剧拍出了堕落的第一口",
       "onboard_time": 1760674642,
       "rank": 36,
@@ -8033,6 +8097,14 @@
       "onboard_time": 1760351781,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140837,
+      "num": 140837,
+      "word": "野人小孩父母均大学毕业",
+      "onboard_time": 1760678304,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140781,
@@ -8571,14 +8643,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134718,
-      "num": 150388,
-      "word": "杨幂穿着睡衣回国",
-      "onboard_time": 1760675664,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 134702,
       "num": 134702,
       "word": "3名小孩哥拾金不昧民警送玩具",
@@ -8745,6 +8809,14 @@
       "onboard_time": 1760583620,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 132408,
+      "num": 132408,
+      "word": "王腾回应红米新手机是遗作",
+      "onboard_time": 1760676743,
+      "rank": 41,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 132248,
@@ -9041,6 +9113,14 @@
       "onboard_time": 1760347522,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128823,
+      "num": 128823,
+      "word": "保安打死校内流浪狗遭开除",
+      "onboard_time": 1760671581,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128534,
@@ -9395,6 +9475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 125091,
+      "num": 135552,
+      "word": "蒋龙张弛断联和好就一句对不起",
+      "onboard_time": 1760678420,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125077,
       "num": 125077,
       "word": "2025快递业务量破1500亿件",
@@ -9489,6 +9577,14 @@
       "onboard_time": 1760330005,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124074,
+      "num": 135658,
+      "word": "陆虎新歌烂人",
+      "onboard_time": 1760678602,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 124032,
@@ -9601,6 +9697,14 @@
       "onboard_time": 1760325081,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123313,
+      "num": 123313,
+      "word": "小米王化回复王腾",
+      "onboard_time": 1760678362,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 123265,
@@ -10043,6 +10147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119555,
+      "num": 119555,
+      "word": "这居然是方家翊",
+      "onboard_time": 1760676743,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119537,
       "num": 119537,
       "word": "中国人新石器时代就驯养鸡了",
@@ -10331,6 +10443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117601,
+      "num": 117601,
+      "word": "杨瀚森回应6犯离场",
+      "onboard_time": 1760678662,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117600,
       "num": 117600,
       "word": "和一个人关系好的证明",
@@ -10585,14 +10705,6 @@
       "onboard_time": 1760255179,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115218,
-      "num": 115218,
-      "word": "保安打死校内流浪狗遭开除",
-      "onboard_time": 1760671581,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115215,
@@ -13315,6 +13427,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 93237,
+      "num": 218825,
+      "word": "化学老师用火焰掌奖励学生引争议",
+      "onboard_time": 1760678002,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93232,
       "num": 93232,
       "word": "王皓对王楚钦主打无微不至",
@@ -14739,6 +14859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 82420,
+      "num": 218986,
+      "word": "男童掉进烧烤店炭堆全身烧伤",
+      "onboard_time": 1760678241,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82332,
       "num": 82332,
       "word": "微博大眼音乐节阵容官宣",
@@ -15129,6 +15257,14 @@
       "onboard_time": 1760400381,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 79668,
+      "num": 105585,
+      "word": "喜人奇妙夜2",
+      "onboard_time": 1760676862,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 79637,
@@ -15945,6 +16081,14 @@
       "onboard_time": 1760340141,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 70204,
+      "num": 117818,
+      "word": "500平住宅装20多台空调",
+      "onboard_time": 1760677223,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70050,
@@ -18195,12 +18339,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30307,
+      "num": 219323,
+      "word": "小当家特级厨师争霸赛重启",
+      "onboard_time": 1760677402,
+      "rank": 17,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 30253,
       "num": 114612,
       "word": "7年前国乒包揽青奥会三金",
       "onboard_time": 1760498960,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30187,
+      "num": 220376,
+      "word": "机器人怎样改变人类生活",
+      "onboard_time": 1760677284,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 30185,
@@ -18844,7 +19004,7 @@
     },
     {
       "raw_hot": 14730,
-      "num": 73219,
+      "num": 135522,
       "word": "澳门2049亮相乌镇戏剧节",
       "onboard_time": 1760666481,
       "rank": 39,
