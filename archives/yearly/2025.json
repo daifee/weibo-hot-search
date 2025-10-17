@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1760694055899,
+  "endTime": 1760696906909,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2171,6 +2171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 6183671,
+      "num": 7433671,
+      "word": "何卫东等9人被开除党籍军籍",
+      "onboard_time": 1760693962,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 6171972,
       "num": 6171972,
       "word": "ALin秒了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1751554224,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 4846940,
-      "num": 1237235,
-      "word": "廖慧佳发长文指责李明德",
-      "onboard_time": 1736048910,
-      "rank": 5,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

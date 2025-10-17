@@ -1,7 +1,15 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760694055899,
+  "endTime": 1760696906909,
   "band_list": [
+    {
+      "raw_hot": 6183671,
+      "num": 7433671,
+      "word": "何卫东等9人被开除党籍军籍",
+      "onboard_time": 1760693962,
+      "rank": 7,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 3904292,
       "num": 207797,
@@ -139,6 +147,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 763573,
+      "num": 191738,
+      "word": "克拉拉官宣离婚",
+      "onboard_time": 1760692941,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 745366,
       "num": 1119258,
       "word": "辽宁失联4岁女童已找到",
@@ -203,6 +219,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 512420,
+      "num": 512420,
+      "word": "第五人格",
+      "onboard_time": 1760694981,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 492607,
       "num": 265872,
       "word": "杨幂已到家吃上豆腐脑了",
@@ -233,14 +257,6 @@
       "onboard_time": 1760686702,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 463297,
-      "num": 191738,
-      "word": "克拉拉官宣离婚",
-      "onboard_time": 1760692941,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 459383,
@@ -305,6 +321,22 @@
       "onboard_time": 1760668700,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 378034,
+      "num": 169008,
+      "word": "小S 金钟奖",
+      "onboard_time": 1760695162,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 374971,
+      "num": 168904,
+      "word": "日本药 下料狠",
+      "onboard_time": 1760694861,
+      "rank": 14,
+      "category": "科学科普"
     },
     {
       "raw_hot": 362369,
@@ -403,11 +435,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 310763,
-      "num": 310763,
-      "word": "何卫东等9人被开除党籍军籍",
-      "onboard_time": 1760693962,
-      "rank": 7,
+      "raw_hot": 307153,
+      "num": 307153,
+      "word": "摄影店用粉蓝相框暗示胎儿性别被罚",
+      "onboard_time": 1760693482,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -563,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233113,
+      "num": 168206,
+      "word": "关晓彤脱鞋证明自己172",
+      "onboard_time": 1760693661,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232696,
       "num": 232696,
       "word": "你好种地少年",
@@ -715,12 +755,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196074,
+      "num": 154771,
+      "word": "国考审核人员 好强的活人感",
+      "onboard_time": 1760696482,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 195721,
       "num": 195721,
       "word": "什么剧大结局一口气刀七个",
       "onboard_time": 1760688261,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193954,
+      "num": 193954,
+      "word": "TES 听见你说",
+      "onboard_time": 1760695402,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 192636,
@@ -753,6 +809,14 @@
       "onboard_time": 1760673741,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 185335,
+      "num": 168338,
+      "word": "宁艺卓芭莎11月刊封面",
+      "onboard_time": 1760696425,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 184605,
@@ -795,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177584,
+      "num": 177584,
+      "word": "金钟奖",
+      "onboard_time": 1760695822,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177512,
       "num": 177512,
       "word": "俄美总统通话细节",
@@ -809,6 +881,14 @@
       "onboard_time": 1760669182,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176987,
+      "num": 168155,
+      "word": "徐艺洋 你可以全程站我们右边吗",
+      "onboard_time": 1760692762,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 175921,
@@ -851,14 +931,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 166417,
-      "num": 166417,
-      "word": "关晓彤脱鞋证明自己172",
-      "onboard_time": 1760693661,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 166320,
       "num": 166320,
       "word": "金晨体态",
@@ -875,20 +947,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165701,
+      "num": 165701,
+      "word": "宋亚轩 舞台上摔屁股墩不疼",
+      "onboard_time": 1760695582,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165694,
       "num": 194153,
       "word": "女童走失超40小时找回救援队发声",
       "onboard_time": 1760671581,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 161438,
-      "num": 161438,
-      "word": "徐艺洋 你可以全程站我们右边吗",
-      "onboard_time": 1760692762,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 161416,
@@ -931,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156063,
+      "num": 156063,
+      "word": "papi酱说李施嬅男友是不是语文不好",
+      "onboard_time": 1760695582,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155394,
       "num": 423332,
       "word": "4岁女童车内睡着后失踪超20小时",
@@ -947,6 +1027,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 154867,
+      "num": 168705,
+      "word": "王牌对王牌直播",
+      "onboard_time": 1760696184,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154072,
       "num": 154072,
       "word": "王者荣耀十周年",
@@ -961,14 +1049,6 @@
       "onboard_time": 1760643254,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 152883,
-      "num": 152883,
-      "word": "摄影店用粉蓝相框暗示胎儿性别被罚",
-      "onboard_time": 1760693482,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151815,
@@ -1187,6 +1267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 135627,
+      "num": 154786,
+      "word": "内娱马上要热闹起来了",
+      "onboard_time": 1760692281,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135585,
       "num": 135585,
       "word": "朋友圈编辑功能 人生无法修改",
@@ -1209,6 +1297,14 @@
       "onboard_time": 1760669481,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133744,
+      "num": 133744,
+      "word": "刘诗诗关晓彤 千里江山图",
+      "onboard_time": 1760696184,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 133532,
@@ -1259,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129954,
+      "num": 129954,
+      "word": "张婧仪生图也太生了",
+      "onboard_time": 1760696601,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128429,
       "num": 135146,
       "word": "知乎回应崩了",
@@ -1272,6 +1376,14 @@
       "word": "环球人物 黄子弘凡",
       "onboard_time": 1760679381,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 125476,
+      "num": 135302,
+      "word": "张凌赫又给粉丝喷香水了",
+      "onboard_time": 1760695701,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -1297,6 +1409,14 @@
       "onboard_time": 1760692224,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 123153,
+      "num": 123153,
+      "word": "被黄鼠狼骚扰 两天睡了4小时",
+      "onboard_time": 1760696062,
+      "rank": 43,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 121943,
@@ -1379,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117303,
+      "num": 155675,
+      "word": "CFO对战AL",
+      "onboard_time": 1760695341,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 116976,
       "num": 116976,
       "word": "王腾称在考虑创业",
@@ -1401,6 +1529,14 @@
       "onboard_time": 1760635577,
       "rank": 36,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 115955,
+      "num": 115955,
+      "word": "王者文创皮肤全是细糠",
+      "onboard_time": 1760696482,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 115108,
@@ -1513,6 +1649,14 @@
       "onboard_time": 1760685261,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110597,
+      "num": 110597,
+      "word": "陈伟霆沈阳",
+      "onboard_time": 1760694562,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 108937,
@@ -1729,14 +1873,6 @@
       "onboard_time": 1760668641,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97015,
-      "num": 146689,
-      "word": "内娱马上要热闹起来了",
-      "onboard_time": 1760692281,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 96597,
@@ -2427,6 +2563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40486,
+      "num": 144631,
+      "word": "学霸夫妻非洲卖纸尿裤年入32亿",
+      "onboard_time": 1760696844,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40237,
       "num": 69167,
       "word": "男人的花期到底能有多短",
@@ -2529,6 +2673,22 @@
       "onboard_time": 1760621423,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28173,
+      "num": 146127,
+      "word": "官方回应云冈石窟大佛前办时装秀",
+      "onboard_time": 1760696601,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25963,
+      "num": 138230,
+      "word": "国考都放松年龄要求企业为何卡脖子",
+      "onboard_time": 1760696122,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23981,
@@ -2665,6 +2825,14 @@
       "onboard_time": 1760680881,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6142,
+      "num": 714912,
+      "word": "长征系列火箭55年累计发射600次",
+      "onboard_time": 1760667381,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -2673,6 +2841,9 @@
     },
     {
       "word": "#总书记引领筑牢国家粮食安全#"
+    },
+    {
+      "word": "#总书记对民生福祉惦念在心#"
     }
   ]
 }

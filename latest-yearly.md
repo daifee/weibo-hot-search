@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/10/17 17:40:55
+本榜单时间：2025/01/01 00:26:38 ~ 2025/10/17 18:28:26
 </p>
 </blockquote>
 <p>
@@ -1641,6 +1641,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%8D%AB%E4%B8%9C%E7%AD%899%E4%BA%BA%E8%A2%AB%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%86%9B%E7%B1%8D%23" target="weibo">
+何卫东等9人被开除党籍军籍（热度：6183671）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23ALin%E7%A7%92%E4%BA%86%23" target="weibo">
 ALin秒了（热度：6171972）
 </a>
@@ -1805,12 +1811,6 @@ ALin秒了（热度：6171972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E9%A9%AC%E4%BB%95%20%E5%80%92%E9%97%AD%23" target="weibo">
 罗马仕 倒闭（热度：4866007）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%96%E6%85%A7%E4%BD%B3%E5%8F%91%E9%95%BF%E6%96%87%E6%8C%87%E8%B4%A3%E6%9D%8E%E6%98%8E%E5%BE%B7%23" target="weibo">
-廖慧佳发长文指责李明德（热度：4846940）
 </a>
 </li>
 
