@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/18 00:32:52 ~ 2025/10/18 02:46:37
+本榜单时间：2025/10/18 00:32:52 ~ 2025/10/18 03:20:49
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,12 @@ AL晋级S15八强（热度：75484）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E9%9E%AD%E5%AD%90%E8%88%9E%23" target="weibo">
 白鹿鞭子舞（热度：23351）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%94%A1%E5%A8%81%E6%B3%BD%E7%BA%A0%E7%BA%B7%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23" target="weibo">
+周杰伦蔡威泽纠纷细节曝光（热度：20808）
 </a>
 </li>
 
