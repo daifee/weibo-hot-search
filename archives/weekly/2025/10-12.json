@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760701041916,
+  "endTime": 1760705553175,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -707,6 +707,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 881136,
+      "num": 391067,
+      "word": "金价暴涨时4万5黄金订单蒸发",
+      "onboard_time": 1760699183,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 876248,
       "num": 1140199,
       "word": "AL战胜GEN",
@@ -979,12 +987,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 796445,
+      "num": 256726,
+      "word": "男子坟头炸死3侄女被执行死刑",
+      "onboard_time": 1760702482,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 794390,
       "num": 292598,
       "word": "杨幂维密翅膀",
       "onboard_time": 1760572700,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 783771,
+      "num": 287466,
+      "word": "小S 金钟奖",
+      "onboard_time": 1760695162,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 782028,
@@ -1241,6 +1265,14 @@
       "onboard_time": 1760360301,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 679722,
+      "num": 254130,
+      "word": "鹿晗张艺兴黄子韬在南山塔挂过锁头",
+      "onboard_time": 1760700383,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 678522,
@@ -1923,14 +1955,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 522262,
-      "num": 287466,
-      "word": "小S 金钟奖",
-      "onboard_time": 1760695162,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 522105,
       "num": 522105,
       "word": "两男子吃酸汤子中毒警方介入调查",
@@ -2281,6 +2305,14 @@
       "onboard_time": 1760246000,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 475035,
+      "num": 252106,
+      "word": "男女主浴池吻唇享60秒",
+      "onboard_time": 1760698344,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 474268,
@@ -2939,6 +2971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 390793,
+      "num": 390793,
+      "word": "AL战胜CFO",
+      "onboard_time": 1760703863,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 390271,
       "num": 228973,
       "word": "演员馨子回应不拍戏",
@@ -3139,6 +3179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 360103,
+      "num": 360103,
+      "word": "国考审核人员 好强的活人感",
+      "onboard_time": 1760696482,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 357642,
       "num": 241553,
       "word": "隐秘的角落",
@@ -3201,6 +3249,14 @@
       "onboard_time": 1760575582,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 349349,
+      "num": 349349,
+      "word": "AL晋级S15八强",
+      "onboard_time": 1760704461,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 349023,
@@ -3489,6 +3545,14 @@
       "onboard_time": 1760355560,
       "rank": 13,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 318565,
+      "num": 318565,
+      "word": "贵州一溶洞流出大量污水含有煤",
+      "onboard_time": 1760700624,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 317572,
@@ -4043,6 +4107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 279618,
+      "num": 294389,
+      "word": "金钟奖",
+      "onboard_time": 1760695822,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 279279,
       "num": 188062,
       "word": "曝何炅自带衣服救场内幕",
@@ -4331,6 +4403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 259175,
+      "num": 259175,
+      "word": "小城良方",
+      "onboard_time": 1760520920,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259013,
       "num": 259013,
       "word": "奔跑吧替嗨放派定档",
@@ -4475,14 +4555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251074,
-      "num": 294389,
-      "word": "金钟奖",
-      "onboard_time": 1760695822,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 250208,
       "num": 753757,
       "word": "日本前首相村山富市去世",
@@ -4619,6 +4691,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 243023,
+      "num": 243023,
+      "word": "卢昱晓 我对你何止半分真心",
+      "onboard_time": 1760703984,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242267,
       "num": 210729,
       "word": "谭松韵 除了体重一切安好",
@@ -4641,14 +4721,6 @@
       "onboard_time": 1760515941,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 241752,
-      "num": 241752,
-      "word": "男女主浴池吻唇享60秒",
-      "onboard_time": 1760698344,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 240954,
@@ -4699,6 +4771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237837,
+      "num": 237837,
+      "word": "方媛小腿浮肿",
+      "onboard_time": 1760705122,
+      "rank": 21,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 237665,
       "num": 443802,
       "word": "胡塞武装总参谋长身亡",
@@ -4745,14 +4825,6 @@
       "onboard_time": 1760511260,
       "rank": 23,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 235787,
-      "num": 235787,
-      "word": "鹿晗张艺兴黄子韬在南山塔挂过锁头",
-      "onboard_time": 1760700383,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 235517,
@@ -4811,14 +4883,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 231943,
-      "num": 231943,
-      "word": "金价暴涨时4万5黄金订单蒸发",
-      "onboard_time": 1760699183,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 231677,
       "num": 204112,
       "word": "林心如再见爱人5官宣",
@@ -4833,14 +4897,6 @@
       "onboard_time": 1760502622,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 230308,
-      "num": 202486,
-      "word": "国考审核人员 好强的活人感",
-      "onboard_time": 1760696482,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 230233,
@@ -6035,14 +6091,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189953,
-      "num": 189953,
-      "word": "小城良方",
-      "onboard_time": 1760520920,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189540,
       "num": 189540,
       "word": "李维嘉吴昕直播大声蛐蛐杜海涛",
@@ -6353,6 +6401,14 @@
       "onboard_time": 1760326822,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180110,
+      "num": 180110,
+      "word": "小S没走红毯",
+      "onboard_time": 1760703682,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 180083,
@@ -6883,6 +6939,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 170070,
+      "num": 170070,
+      "word": "乌贼被喂食时显示出一张人脸",
+      "onboard_time": 1760701521,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 169938,
       "num": 169938,
       "word": "孔雪儿想象中穿一字肩的样子",
@@ -7273,6 +7337,14 @@
       "onboard_time": 1760255179,
       "rank": 24,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 161904,
+      "num": 161904,
+      "word": "王一博这期是雪地帅哥",
+      "onboard_time": 1760704642,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161866,
@@ -8147,6 +8219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148876,
+      "num": 148876,
+      "word": "敖瑞鹏想常驻王牌",
+      "onboard_time": 1760703022,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148778,
       "num": 147439,
       "word": "iG教练回应选用上单维鲁斯",
@@ -8537,6 +8617,14 @@
       "onboard_time": 1760517501,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143924,
+      "num": 143924,
+      "word": "这居然是林子烨",
+      "onboard_time": 1760703022,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 143667,
@@ -9169,6 +9257,14 @@
       "onboard_time": 1760414541,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135766,
+      "num": 135766,
+      "word": "Ella为了演唱会卷成啥样了",
+      "onboard_time": 1760702002,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 135735,
@@ -9849,6 +9945,14 @@
       "onboard_time": 1760360541,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 128442,
+      "num": 128442,
+      "word": "中南大学原校长张尧学被查",
+      "onboard_time": 1760704762,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128429,
@@ -10859,6 +10963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120021,
+      "num": 120021,
+      "word": "朱一龙刘亦菲确认出席vogueworld",
+      "onboard_time": 1760700624,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119977,
       "num": 119977,
       "word": "登陆少年组合官宣ELLE风尚大典",
@@ -11547,14 +11659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 115166,
-      "num": 115166,
-      "word": "朱一龙刘亦菲确认出席vogueworld",
-      "onboard_time": 1760700624,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115153,
       "num": 115153,
       "word": "孙颖莎我准备好啦",
@@ -11955,6 +12059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112217,
+      "num": 112217,
+      "word": "MRC战胜ACT",
+      "onboard_time": 1760705003,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112083,
       "num": 112083,
       "word": "AL大树",
@@ -12041,6 +12153,14 @@
       "onboard_time": 1760422942,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 111625,
+      "num": 111625,
+      "word": "AI为了流量也无底线",
+      "onboard_time": 1760705181,
+      "rank": 40,
+      "category": "科学科普"
     },
     {
       "raw_hot": 111597,
@@ -12811,6 +12931,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 106974,
+      "num": 106974,
+      "word": "TES无缘直通淘汰赛",
+      "onboard_time": 1760702423,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106962,
       "num": 106962,
       "word": "内娱第一对爱豆夫妻",
@@ -13211,6 +13339,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 103672,
+      "num": 103672,
+      "word": "王楚钦抵达北京",
+      "onboard_time": 1760702663,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103594,
       "num": 136052,
       "word": "李晟还笑呢出大事了",
@@ -13520,6 +13656,14 @@
       "word": "金晨走秀官摄镜头",
       "onboard_time": 1760622323,
       "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 101606,
+      "num": 101606,
+      "word": "偶遇杨幂看北京珠宝展",
+      "onboard_time": 1760701162,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -14075,6 +14219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97321,
+      "num": 97321,
+      "word": "黄轩毁容式演技",
+      "onboard_time": 1760705302,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97297,
       "num": 219100,
       "word": "荣耀发布机器人手机",
@@ -14139,6 +14291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96731,
+      "num": 96731,
+      "word": "潘建伟称杨振宁逝世是谣传",
+      "onboard_time": 1760705360,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96597,
       "num": 96597,
       "word": "金饰克价涨到1281元",
@@ -14153,6 +14313,14 @@
       "onboard_time": 1760441480,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96550,
+      "num": 101972,
+      "word": "梁淞何美延两个魔丸结婚了",
+      "onboard_time": 1760703563,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 96513,
@@ -14217,6 +14385,14 @@
       "onboard_time": 1760240719,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 96230,
+      "num": 111785,
+      "word": "广西百色一地洪水内涝已被泡10天",
+      "onboard_time": 1760704642,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 96089,
@@ -14968,6 +15144,14 @@
       "word": "刘涛会让女儿先撞南墙",
       "onboard_time": 1760340441,
       "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 90417,
+      "num": 96717,
+      "word": "王牌9收官直播太费脑",
+      "onboard_time": 1760704642,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -17475,6 +17659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 67331,
+      "num": 243606,
+      "word": "中科院院士回应杨振宁逝世传闻",
+      "onboard_time": 1760705062,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67287,
       "num": 161123,
       "word": "一部vivo撬动所有全家桶",
@@ -17497,6 +17689,14 @@
       "onboard_time": 1760672121,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 67213,
+      "num": 154464,
+      "word": "荣耀高管称Magic8不装杯",
+      "onboard_time": 1760705242,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 67149,
@@ -19225,14 +19425,6 @@
       "onboard_time": 1760209216,
       "rank": 48,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 38445,
-      "num": 273479,
-      "word": "贵州一溶洞流出大量污水含有煤",
-      "onboard_time": 1760700624,
-      "rank": 18,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 38186,

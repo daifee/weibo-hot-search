@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 19:37:21
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 20:52:33
 </p>
 </blockquote>
 <p>
@@ -1809,6 +1809,12 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%97%B64%E4%B8%875%E9%BB%84%E9%87%91%E8%AE%A2%E5%8D%95%E8%92%B8%E5%8F%91%23" target="weibo">
+金价暴涨时4万5黄金订单蒸发（热度：881136）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%9A%E6%89%8B%E6%9C%AF%E5%89%8D%E4%B8%80%E5%AE%9A%E8%A6%81%E5%A4%9A%E9%97%AE%E4%B8%80%E5%8F%A5%23" target="weibo">
 做手术前一定要多问一句（热度：879839）
 </a>
@@ -2301,6 +2307,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9D%9F%E5%A4%B4%E7%82%B8%E6%AD%BB3%E4%BE%84%E5%A5%B3%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91%23" target="weibo">
+男子坟头炸死3侄女被执行死刑（热度：796445）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E8%AF%B4%E5%BC%A0%E7%BB%B4%E4%BC%8A%E7%83%A6%E4%BA%BA%E9%9A%BE%E7%9C%8B%E5%B9%BC%E7%A8%9A%23" target="weibo">
 董璇说张维伊烦人难看幼稚（热度：794647）
 </a>
@@ -2351,6 +2363,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%80%E4%B8%87%E4%BB%A5%E4%B8%8B%E7%9A%84%E7%90%86%E8%B4%A2%E6%96%B9%E6%B3%95%23" target="weibo">
 月收入一万以下的理财方法（热度：786563）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%20%E9%87%91%E9%92%9F%E5%A5%96%23" target="weibo">
+小S 金钟奖（热度：783771）
 </a>
 </li>
 
@@ -2915,6 +2933,12 @@ AL战胜HLE（热度：684053）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4ins%23" target="weibo">
 迪丽热巴ins（热度：679763）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%BC%A0%E8%89%BA%E5%85%B4%E9%BB%84%E5%AD%90%E9%9F%AC%E5%9C%A8%E5%8D%97%E5%B1%B1%E5%A1%94%E6%8C%82%E8%BF%87%E9%94%81%E5%A4%B4%23" target="weibo">
+鹿晗张艺兴黄子韬在南山塔挂过锁头（热度：679722）
 </a>
 </li>
 
@@ -4425,12 +4449,6 @@ miumiu 好多围裙（热度：559985）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%20%E9%87%91%E9%92%9F%E5%A5%96%23" target="weibo">
-小S 金钟奖（热度：522262）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%9B%9D%E9%BB%84%E5%AD%90%E4%BD%BC%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%23" target="weibo">
 台媒曝黄子佼肇事逃逸（热度：522243）
 </a>
@@ -5129,6 +5147,12 @@ TheShy回应上单韦鲁斯（热度：477977）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%9A%84%E7%BB%93%E5%A9%9A%E7%8E%B0%E5%9C%BA%E9%9C%87%E6%83%8A%E5%88%B0%E4%BA%86%23" target="weibo">
 被韩国人的结婚现场震惊到了（热度：475427）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%A5%B3%E4%B8%BB%E6%B5%B4%E6%B1%A0%E5%90%BB%E5%94%87%E4%BA%AB60%E7%A7%92%23" target="weibo">
+男女主浴池吻唇享60秒（热度：475035）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%B1%8D%E7%94%B7%E5%AD%90%E5%9C%A8%E8%A7%A3%E6%94%BE%E5%86%9B%E8%88%B0%E9%98%9F%E9%99%84%E8%BF%91%E6%94%BE%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AB%E6%8D%95%23" target="weibo">
 美籍男子在解放军舰队附近放无人机被捕（热度：421083）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BC35%E6%9C%BA%E5%BA%93%E9%A6%96%E5%85%AC%E5%BC%80%23" target="weibo">
-歼35机库首公开（热度：419822）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A7%8B%E7%BB%88%E8%AE%A4%E4%B8%BA%E7%94%A8%E4%B9%9D%E9%94%AE%E6%89%93%E5%AD%97%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E5%A4%A9%E6%89%8D%23" target="weibo">
-我始终认为用九键打字的人都是天才（热度：419813）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E5%A5%B3%E5%84%BF%E9%AB%98%E5%8F%8D%E8%A2%AB%E6%90%AD%E5%AD%90%E6%8A%9B%E5%BC%83%23" target="weibo">
-母亲回应网传女儿高反被搭子抛弃（热度：419669）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8offer7%E5%97%91%E5%88%B0%E4%BA%86%E7%9C%9F%E5%A4%AB%E5%A6%BB%23" target="weibo">
-在offer7嗑到了真夫妻（热度：419599）
 </a>
 </li>
 
