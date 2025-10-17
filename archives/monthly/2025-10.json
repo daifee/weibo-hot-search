@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760700123969,
+  "endTime": 1760701041916,
   "band_list": [
     {
       "raw_hot": 13334858,
@@ -2748,7 +2748,7 @@
     },
     {
       "raw_hot": 835643,
-      "num": 231392,
+      "num": 288647,
       "word": "日本药 下料狠",
       "onboard_time": 1760694861,
       "rank": 14,
@@ -3228,7 +3228,7 @@
     },
     {
       "raw_hot": 763573,
-      "num": 229073,
+      "num": 282849,
       "word": "克拉拉官宣离婚",
       "onboard_time": 1760692941,
       "rank": 24,
@@ -3660,7 +3660,7 @@
     },
     {
       "raw_hot": 698479,
-      "num": 233651,
+      "num": 279702,
       "word": "第五人格前瞻直播",
       "onboard_time": 1760697142,
       "rank": 10,
@@ -4372,7 +4372,7 @@
     },
     {
       "raw_hot": 630492,
-      "num": 225012,
+      "num": 274865,
       "word": "黄子韬徐艺洋婚礼主桌视角",
       "onboard_time": 1760689223,
       "rank": 17,
@@ -5884,7 +5884,7 @@
     },
     {
       "raw_hot": 522262,
-      "num": 229966,
+      "num": 287466,
       "word": "小S 金钟奖",
       "onboard_time": 1760695162,
       "rank": 13,
@@ -7025,6 +7025,14 @@
       "onboard_time": 1760075121,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 464305,
+      "num": 284975,
+      "word": "减肥减成杨幂了",
+      "onboard_time": 1760698702,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 464187,
@@ -9484,7 +9492,7 @@
     },
     {
       "raw_hot": 353543,
-      "num": 227547,
+      "num": 276063,
       "word": "陈奕恒日本",
       "onboard_time": 1760697202,
       "rank": 21,
@@ -11041,14 +11049,6 @@
       "onboard_time": 1760333481,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 303904,
-      "num": 222121,
-      "word": "减肥减成杨幂了",
-      "onboard_time": 1760698702,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 303807,
@@ -13164,7 +13164,7 @@
     },
     {
       "raw_hot": 252292,
-      "num": 220601,
+      "num": 224921,
       "word": "张婧仪生图也太生了",
       "onboard_time": 1760696601,
       "rank": 41,
@@ -13217,6 +13217,14 @@
       "onboard_time": 1759926021,
       "rank": 17,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 251074,
+      "num": 294389,
+      "word": "金钟奖",
+      "onboard_time": 1760695822,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 250956,
@@ -13691,6 +13699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 241752,
+      "num": 241752,
+      "word": "男女主浴池吻唇享60秒",
+      "onboard_time": 1760698344,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241273,
       "num": 241273,
       "word": "被15秒3次敬礼暖到",
@@ -13947,14 +13963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 236814,
-      "num": 236814,
-      "word": "金钟奖",
-      "onboard_time": 1760695822,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 236779,
       "num": 236779,
       "word": "两客机在纽约机场相撞",
@@ -14025,6 +14033,14 @@
       "onboard_time": 1759549099,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 235787,
+      "num": 235787,
+      "word": "鹿晗张艺兴黄子韬在南山塔挂过锁头",
+      "onboard_time": 1760700383,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 235517,
@@ -14209,6 +14225,14 @@
       "onboard_time": 1759981040,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 231943,
+      "num": 231943,
+      "word": "金价暴涨时4万5黄金订单蒸发",
+      "onboard_time": 1760699183,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 231677,
@@ -14857,14 +14881,6 @@
       "onboard_time": 1759494621,
       "rank": 20,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 219862,
-      "num": 219862,
-      "word": "男女主浴池吻唇享60秒",
-      "onboard_time": 1760698344,
-      "rank": 20,
-      "category": "剧集"
     },
     {
       "raw_hot": 219782,
@@ -16020,7 +16036,7 @@
     },
     {
       "raw_hot": 203844,
-      "num": 203844,
+      "num": 291109,
       "word": "CFO对战AL",
       "onboard_time": 1760695341,
       "rank": 26,
@@ -18939,6 +18955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179677,
+      "num": 293215,
+      "word": "宴遇永安",
+      "onboard_time": 1759638141,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179675,
       "num": 179675,
       "word": "赵晴又有新剧了",
@@ -19571,6 +19595,14 @@
       "category": "互联网,汽车"
     },
     {
+      "raw_hot": 175334,
+      "num": 175334,
+      "word": "谢霆锋你怎么舍得",
+      "onboard_time": 1760700383,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 175318,
       "num": 162188,
       "word": "王一博惠英红陈都灵秀场造型",
@@ -19697,14 +19729,6 @@
       "onboard_time": 1759679360,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 174600,
-      "num": 174600,
-      "word": "宴遇永安",
-      "onboard_time": 1759638141,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 174403,
@@ -27251,6 +27275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134749,
+      "num": 134749,
+      "word": "张彬彬毛晓彤手型差",
+      "onboard_time": 1760700323,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134720,
       "num": 150391,
       "word": "罗永浩点赞天猫折扣脱水",
@@ -28905,14 +28937,6 @@
       "onboard_time": 1759412304,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128782,
-      "num": 128782,
-      "word": "金价暴涨时4万5黄金订单蒸发",
-      "onboard_time": 1760699183,
-      "rank": 31,
-      "category": "财经"
     },
     {
       "raw_hot": 128767,
@@ -32123,6 +32147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118578,
+      "num": 118578,
+      "word": "CFO好强",
+      "onboard_time": 1760700023,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118568,
       "num": 118568,
       "word": "国庆中秋假期第6天你在干什么",
@@ -33195,6 +33227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115778,
+      "num": 115778,
+      "word": "苹果红枣枸杞水",
+      "onboard_time": 1760700503,
+      "rank": 38,
+      "category": "美食,休闲"
+    },
+    {
       "raw_hot": 115773,
       "num": 115773,
       "word": "香港海心公园割喉案嫌犯系流浪汉",
@@ -33377,6 +33417,14 @@
       "onboard_time": 1760087002,
       "rank": 47,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 115166,
+      "num": 115166,
+      "word": "朱一龙刘亦菲确认出席vogueworld",
+      "onboard_time": 1760700624,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 115159,
@@ -33649,6 +33697,14 @@
       "onboard_time": 1759727961,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114383,
+      "num": 114383,
+      "word": "这才是面包该有的价格",
+      "onboard_time": 1760700323,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 114365,
@@ -34467,6 +34523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 112083,
+      "num": 112083,
+      "word": "AL大树",
+      "onboard_time": 1760698224,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112077,
       "num": 112077,
       "word": "张福正不许哭",
@@ -34545,14 +34609,6 @@
       "onboard_time": 1760146520,
       "rank": 39,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 111899,
-      "num": 111899,
-      "word": "AL大树",
-      "onboard_time": 1760698224,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 111897,
@@ -36249,6 +36305,14 @@
       "onboard_time": 1759293320,
       "rank": 47,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 108465,
+      "num": 108465,
+      "word": "鹭卓直播",
+      "onboard_time": 1759929981,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 108463,
@@ -38404,7 +38468,7 @@
     },
     {
       "raw_hot": 103518,
-      "num": 227314,
+      "num": 281662,
       "word": "无人在意的角落拼多多10岁了",
       "onboard_time": 1760684842,
       "rank": 19,
@@ -40619,6 +40683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97836,
+      "num": 97836,
+      "word": "施一公说不要以讹传讹",
+      "onboard_time": 1760699903,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97814,
       "num": 97814,
       "word": "这4种维生素千万别乱补",
@@ -41433,14 +41505,6 @@
       "onboard_time": 1759533798,
       "rank": 29,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 95557,
-      "num": 95557,
-      "word": "鹭卓直播",
-      "onboard_time": 1759929981,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 95538,
@@ -46233,14 +46297,6 @@
       "onboard_time": 1760607861,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 83132,
-      "num": 114444,
-      "word": "CFO好强",
-      "onboard_time": 1760700023,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 83121,
@@ -52787,6 +52843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47359,
+      "num": 270812,
+      "word": "李昀锐泡茶是林晏祖传的",
+      "onboard_time": 1760700142,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47324,
       "num": 47324,
       "word": "黄金大牛股大股东宣布减持",
@@ -53873,6 +53937,14 @@
       "onboard_time": 1759337421,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38445,
+      "num": 273479,
+      "word": "贵州一溶洞流出大量污水含有煤",
+      "onboard_time": 1760700624,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 38186,

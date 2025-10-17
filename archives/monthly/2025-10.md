@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 19:22:03
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 19:37:21
 </p>
 </blockquote>
 <p>
@@ -5283,6 +5283,12 @@ Wei龙坑排眼（热度：465191）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E5%87%8F%E6%88%90%E6%9D%A8%E5%B9%82%E4%BA%86%23" target="weibo">
+减肥减成杨幂了（热度：464305）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%9C%A8%E5%9B%BA%E6%80%81%E9%94%82%E7%94%B5%E6%B1%A0%E9%A2%86%E5%9F%9F%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4%23" target="weibo">
 我国在固态锂电池领域取得突破（热度：464187）
 </a>
@@ -6005,12 +6011,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8offer7%E5%97%91%E5%88%B0%E4%BA%86%E7%9C%9F%E5%A4%AB%E5%A6%BB%23" target="weibo">
 在offer7嗑到了真夫妻（热度：419599）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B4%97%E5%AE%8C%E6%BE%A1%E5%8F%91%E7%8E%B0%E7%AA%97%E5%A4%96%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%82%AC%E5%81%9C%23" target="weibo">
-女子洗完澡发现窗外无人机悬停（热度：419596）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1760701041916,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5895284,
+        "num": 5895284,
+        "word": "何卫东等9人被开除党籍军籍",
+        "onboard_time": 1760693962,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1695644,
+        "num": 1695644,
+        "word": "施一公回应杨振宁逝世传闻",
+        "onboard_time": 1760698103,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12687,
+        "num": 972098,
+        "word": "长征系列火箭55年累计发射600次",
+        "onboard_time": 1760667381,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 663467,
+        "num": 663467,
+        "word": "杨力维杨舒予父亲去世",
+        "onboard_time": 1760691200,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379923,
+        "num": 379923,
+        "word": "缅北电诈园区剁人手指泡酒",
+        "onboard_time": 1760679982,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300533,
+        "num": 300533,
+        "word": "摄影店用粉蓝相框暗示胎儿性别被罚",
+        "onboard_time": 1760693482,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 296342,
+        "num": 296342,
+        "word": "第五人格",
+        "onboard_time": 1760694981,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 251074,
+        "num": 294389,
+        "word": "金钟奖",
+        "onboard_time": 1760695822,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179677,
+        "num": 293215,
+        "word": "宴遇永安",
+        "onboard_time": 1760699782,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170152,
+        "num": 291109,
+        "word": "CFO对战AL",
+        "onboard_time": 1760695341,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 712269,
+        "num": 288647,
+        "word": "日本药 下料狠",
+        "onboard_time": 1760694861,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 481417,
+        "num": 287466,
+        "word": "小S 金钟奖",
+        "onboard_time": 1760695162,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 464305,
+        "num": 284975,
+        "word": "减肥减成杨幂了",
+        "onboard_time": 1760698702,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439637,
+        "num": 282849,
+        "word": "克拉拉官宣离婚",
+        "onboard_time": 1760692941,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36437,
+        "num": 281662,
+        "word": "无人在意的角落拼多多10岁了",
+        "onboard_time": 1760684842,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163548,
+        "num": 279702,
+        "word": "第五人格前瞻直播",
+        "onboard_time": 1760697142,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 321587,
+        "num": 276063,
+        "word": "陈奕恒日本",
+        "onboard_time": 1760697202,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319284,
+        "num": 274865,
+        "word": "黄子韬徐艺洋婚礼主桌视角",
+        "onboard_time": 1760689223,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38445,
+        "num": 273479,
+        "word": "贵州一溶洞流出大量污水含有煤",
+        "onboard_time": 1760700624,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 47359,
+        "num": 270812,
+        "word": "李昀锐泡茶是林晏祖传的",
+        "onboard_time": 1760700142,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269412,
+        "num": 269412,
+        "word": "微信 一删皆空",
+        "onboard_time": 1760663901,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 266973,
+        "num": 266973,
+        "word": "咬嘴 口腔癌",
+        "onboard_time": 1760667321,
+        "rank": 21,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 241752,
+        "num": 241752,
+        "word": "男女主浴池吻唇享60秒",
+        "onboard_time": 1760698344,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235787,
+        "num": 235787,
+        "word": "鹿晗张艺兴黄子韬在南山塔挂过锁头",
+        "onboard_time": 1760700383,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231943,
+        "num": 231943,
+        "word": "金价暴涨时4万5黄金订单蒸发",
+        "onboard_time": 1760699183,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 224921,
+        "num": 224921,
+        "word": "张婧仪生图也太生了",
+        "onboard_time": 1760696601,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175334,
+        "num": 175334,
+        "word": "谢霆锋你怎么舍得",
+        "onboard_time": 1760700383,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172762,
+        "num": 172762,
+        "word": "国考审核人员 好强的活人感",
+        "onboard_time": 1760696482,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169296,
+        "num": 169296,
+        "word": "周杰伦警告蔡威泽再不出现就完了",
+        "onboard_time": 1760683822,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158251,
+        "num": 158251,
+        "word": "KT战胜TES",
+        "onboard_time": 1760693842,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149205,
+        "num": 149205,
+        "word": "关晓彤脱鞋证明自己172",
+        "onboard_time": 1760693661,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134749,
+        "num": 134749,
+        "word": "张彬彬毛晓彤手型差",
+        "onboard_time": 1760700323,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134547,
+        "num": 134547,
+        "word": "吴佳怡回复于正",
+        "onboard_time": 1760697443,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131992,
+        "num": 131992,
+        "word": "学霸夫妻非洲卖纸尿裤年入32亿",
+        "onboard_time": 1760696844,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123674,
+        "num": 123674,
+        "word": "金晨体态",
+        "onboard_time": 1760691142,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118578,
+        "num": 118578,
+        "word": "CFO好强",
+        "onboard_time": 1760700023,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118429,
+        "num": 118429,
+        "word": "刘诗诗关晓彤 千里江山图",
+        "onboard_time": 1760696184,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118328,
+        "num": 118328,
+        "word": "何运晨李晋晔 不好吃我给你发函",
+        "onboard_time": 1760697983,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115778,
+        "num": 115778,
+        "word": "苹果红枣枸杞水",
+        "onboard_time": 1760700503,
+        "rank": 38,
+        "category": "美食,休闲"
+      },
+      {
+        "raw_hot": 115166,
+        "num": 115166,
+        "word": "朱一龙刘亦菲确认出席vogueworld",
+        "onboard_time": 1760700624,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114383,
+        "num": 114383,
+        "word": "这才是面包该有的价格",
+        "onboard_time": 1760700323,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112883,
+        "num": 112883,
+        "word": "黄金暴涨意味着什么",
+        "onboard_time": 1760699963,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112083,
+        "num": 112083,
+        "word": "AL大树",
+        "onboard_time": 1760698224,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110297,
+        "num": 110297,
+        "word": "黄仁勋称英伟达中国份额从95%降至0",
+        "onboard_time": 1760690362,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108465,
+        "num": 108465,
+        "word": "鹭卓直播",
+        "onboard_time": 1760700923,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99325,
+        "num": 99325,
+        "word": "时尚芭莎",
+        "onboard_time": 1760697683,
+        "rank": 45,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 97836,
+        "num": 97836,
+        "word": "施一公说不要以讹传讹",
+        "onboard_time": 1760699903,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96649,
+        "num": 96649,
+        "word": "入青云19集封神",
+        "onboard_time": 1760696903,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95779,
+        "num": 95779,
+        "word": "毛晓彤杀青4个月才缓过来",
+        "onboard_time": 1760686702,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66913,
+        "num": 95272,
+        "word": "樊振东刚练完球就拍证件照",
+        "onboard_time": 1760699243,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对民生福祉惦念在心#"
+    }
+  }
+}
