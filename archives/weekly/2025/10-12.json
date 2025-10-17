@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760708038895,
+  "endTime": 1760708696878,
   "band_list": [
     {
       "raw_hot": 8585988,
@@ -467,6 +467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1120421,
+      "num": 256726,
+      "word": "男子坟头炸死3侄女被执行死刑",
+      "onboard_time": 1760702482,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1115414,
       "num": 633482,
       "word": "谢可寅 她穿婚纱很漂亮",
@@ -513,14 +521,6 @@
       "onboard_time": 1760432242,
       "rank": 1,
       "category": "互联网,汽车"
-    },
-    {
-      "raw_hot": 1090493,
-      "num": 256726,
-      "word": "男子坟头炸死3侄女被执行死刑",
-      "onboard_time": 1760702482,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1078099,
@@ -691,6 +691,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 913911,
+      "num": 1134591,
+      "word": "中科院院士回应杨振宁逝世传闻",
+      "onboard_time": 1760705062,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 912924,
       "num": 217844,
       "word": "迪丽热巴申请限消邓氏阿嬷手作",
@@ -705,6 +713,14 @@
       "onboard_time": 1760496559,
       "rank": 14,
       "category": "互联网,幽默"
+    },
+    {
+      "raw_hot": 898946,
+      "num": 287466,
+      "word": "小S 金钟奖",
+      "onboard_time": 1760695162,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 881433,
@@ -795,14 +811,6 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 851179,
-      "num": 287466,
-      "word": "小S 金钟奖",
-      "onboard_time": 1760695162,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 850108,
       "num": 706978,
       "word": "金价银价跳水",
@@ -841,14 +849,6 @@
       "onboard_time": 1760406919,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 841198,
-      "num": 1134591,
-      "word": "中科院院士回应杨振宁逝世传闻",
-      "onboard_time": 1760705062,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 839994,
@@ -1923,6 +1923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 528590,
+      "num": 243023,
+      "word": "卢昱晓 我对你何止半分真心",
+      "onboard_time": 1760703984,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 528426,
       "num": 287296,
       "word": "杨舒予因家里紧急情况无法参赛",
@@ -2451,14 +2459,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 454259,
-      "num": 243023,
-      "word": "卢昱晓 我对你何止半分真心",
-      "onboard_time": 1760703984,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 453472,
       "num": 453472,
       "word": "德基广场会员厕所 年消费20万可用",
@@ -2809,6 +2809,14 @@
       "onboard_time": 1760435601,
       "rank": 3,
       "category": "国际时政,数码"
+    },
+    {
+      "raw_hot": 412193,
+      "num": 239087,
+      "word": "方媛小腿浮肿",
+      "onboard_time": 1760705122,
+      "rank": 21,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 410469,
@@ -3643,14 +3651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 312258,
-      "num": 239087,
-      "word": "方媛小腿浮肿",
-      "onboard_time": 1760705122,
-      "rank": 21,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 312165,
       "num": 312165,
       "word": "日本vs巴西",
@@ -4419,6 +4419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 261171,
+      "num": 137354,
+      "word": "字节跳动程序员降薪一半去德国",
+      "onboard_time": 1760707282,
+      "rank": 30,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 259935,
       "num": 212691,
       "word": "后羿新皮肤神树通天",
@@ -4577,6 +4585,14 @@
       "onboard_time": 1760510001,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 250404,
+      "num": 172398,
+      "word": "一家三口被撞身亡案家属透露新细节",
+      "onboard_time": 1760707403,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250208,
@@ -5755,6 +5771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197557,
+      "num": 172234,
+      "word": "张康乐喝过期牛奶",
+      "onboard_time": 1760707881,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197544,
       "num": 197544,
       "word": "周传雄和女儿同台好养眼",
@@ -5913,6 +5937,14 @@
       "onboard_time": 1760616381,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 194366,
+      "num": 194366,
+      "word": "辽宁朝阳失联女童找到后派出所所长泪流满面",
+      "onboard_time": 1760707225,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 194346,
@@ -7995,6 +8027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 153248,
+      "num": 137331,
+      "word": "于和伟到吴石墓前献花",
+      "onboard_time": 1760708663,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153179,
       "num": 153179,
       "word": "林诗栋11比3阿拉米扬",
@@ -8121,6 +8161,14 @@
       "onboard_time": 1760425103,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150782,
+      "num": 150782,
+      "word": "林诗栋也是火了",
+      "onboard_time": 1760707282,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 150779,
@@ -8659,6 +8707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144483,
+      "num": 144483,
+      "word": "汪苏泷演唱会",
+      "onboard_time": 1760707523,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144000,
       "num": 193479,
       "word": "终于有剧拍出了堕落的第一口",
@@ -8737,6 +8793,14 @@
       "onboard_time": 1760536463,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 143015,
+      "num": 143015,
+      "word": "那艺娜登时尚芭莎",
+      "onboard_time": 1760708002,
+      "rank": 48,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 142840,
@@ -8841,14 +8905,6 @@
       "onboard_time": 1760514681,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141513,
-      "num": 132264,
-      "word": "字节跳动程序员降薪一半去德国",
-      "onboard_time": 1760707282,
-      "rank": 30,
-      "category": "互联网"
     },
     {
       "raw_hot": 141446,
@@ -9603,6 +9659,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 133192,
+      "num": 133192,
+      "word": "WB赛点局镜",
+      "onboard_time": 1760708543,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 132902,
       "num": 129810,
       "word": "Angelababy看到粉丝哭崩不住了",
@@ -9633,6 +9697,14 @@
       "onboard_time": 1760327060,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132792,
+      "num": 132792,
+      "word": "住酒店发现房间对外透明",
+      "onboard_time": 1760704822,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132712,
@@ -9683,28 +9755,12 @@
       "category": "互联网,数码"
     },
     {
-      "raw_hot": 132300,
-      "num": 132300,
-      "word": "辽宁朝阳失联女童找到后派出所所长泪流满面",
-      "onboard_time": 1760707225,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 132285,
       "num": 132285,
       "word": "鸡和土豆真是满门忠烈",
       "onboard_time": 1760679982,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 132264,
-      "num": 132263,
-      "word": "林诗栋也是火了",
-      "onboard_time": 1760707282,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 132248,
@@ -11467,14 +11523,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 117400,
-      "num": 117400,
-      "word": "一家三口被撞身亡案家属透露新细节",
-      "onboard_time": 1760707403,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117328,
       "num": 117328,
       "word": "曾舜晞在我手机里吻了半个月了",
@@ -12235,14 +12283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 111735,
-      "num": 111735,
-      "word": "汪苏泷演唱会",
-      "onboard_time": 1760707523,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 111700,
       "num": 111700,
       "word": "孙颖莎擦汗工作人员擦地",
@@ -12409,6 +12449,14 @@
       "onboard_time": 1760685261,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 110621,
+      "num": 110621,
+      "word": "其实你根本不喜欢玩手机",
+      "onboard_time": 1760708603,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 110597,
@@ -12779,14 +12827,6 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 108247,
-      "num": 108247,
-      "word": "张康乐喝过期牛奶",
-      "onboard_time": 1760707881,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 108235,
       "num": 108235,
       "word": "孙颖莎嘟嘟嘟嘟嘟嘟嘟",
@@ -12985,6 +13025,14 @@
       "onboard_time": 1760326701,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 107312,
+      "num": 107312,
+      "word": "周洁琼辟谣被甩归国女艺人",
+      "onboard_time": 1760708603,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 107294,
@@ -13249,14 +13297,6 @@
       "onboard_time": 1760237719,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 105551,
-      "num": 105551,
-      "word": "住酒店发现房间对外透明",
-      "onboard_time": 1760704822,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105468,
@@ -13617,6 +13657,14 @@
       "onboard_time": 1760621663,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 102850,
+      "num": 107701,
+      "word": "05超女看21岁女儿舞台热泪盈眶",
+      "onboard_time": 1760707225,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 102784,
@@ -14107,12 +14155,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99498,
-      "num": 99498,
-      "word": "那艺娜登时尚芭莎",
-      "onboard_time": 1760708002,
+      "raw_hot": 99719,
+      "num": 99719,
+      "word": "京城大师赛",
+      "onboard_time": 1760708663,
       "rank": 48,
-      "category": "作品衍生,时尚"
+      "category": "游戏"
     },
     {
       "raw_hot": 99434,
@@ -15057,14 +15105,6 @@
       "onboard_time": 1760610260,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91876,
-      "num": 107701,
-      "word": "05超女看21岁女儿舞台热泪盈眶",
-      "onboard_time": 1760707225,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 91864,
@@ -16931,6 +16971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78182,
+      "num": 195757,
+      "word": "被姐姐们种草汕尾了",
+      "onboard_time": 1760706262,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78178,
       "num": 422151,
       "word": "孙颖莎都被看呆了",
@@ -17473,14 +17521,6 @@
       "onboard_time": 1760231059,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 71120,
-      "num": 195757,
-      "word": "被姐姐们种草汕尾了",
-      "onboard_time": 1760706262,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 71081,
@@ -19385,6 +19425,14 @@
       "onboard_time": 1760241140,
       "rank": 19,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 41825,
+      "num": 110881,
+      "word": "梁王组合绝佳状态",
+      "onboard_time": 1760708543,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 41762,
