@@ -1,0 +1,410 @@
+{
+  "runTime": 1760686745446,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1204127,
+        "num": 1204127,
+        "word": "缅北电诈园区剁人手指泡酒",
+        "onboard_time": 1760679982,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 605200,
+        "num": 605200,
+        "word": "电诈窝点墙上有血手印",
+        "onboard_time": 1760681241,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4875,
+        "num": 400305,
+        "word": "红星照耀中国",
+        "onboard_time": 1760593821,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 325008,
+        "num": 325008,
+        "word": "电诈业务不熟被竹片挑断手筋",
+        "onboard_time": 1760681480,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252675,
+        "num": 252675,
+        "word": "美国一储藏约816吨大豆粮仓倒塌",
+        "onboard_time": 1760675003,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 224191,
+        "num": 224191,
+        "word": "打死人的电诈嫌犯挑衅民警",
+        "onboard_time": 1760682682,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160752,
+        "num": 160752,
+        "word": "王腾宣传K90ProMax",
+        "onboard_time": 1760676263,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156459,
+        "num": 156459,
+        "word": "Gumayusi无法接受输给GEN",
+        "onboard_time": 1760675784,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154273,
+        "num": 154273,
+        "word": "杨瀚森哭了",
+        "onboard_time": 1760677882,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153196,
+        "num": 153196,
+        "word": "樊振东全运会证件照",
+        "onboard_time": 1760679922,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1446063,
+        "num": 153176,
+        "word": "周杰伦警告蔡威泽再不出现就完了",
+        "onboard_time": 1760683822,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622440,
+        "num": 152701,
+        "word": "谢可寅 她穿婚纱很漂亮",
+        "onboard_time": 1760676563,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498904,
+        "num": 152005,
+        "word": "咬嘴 口腔癌",
+        "onboard_time": 1760667321,
+        "rank": 12,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 330446,
+        "num": 151702,
+        "word": "微信 一删皆空",
+        "onboard_time": 1760663901,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 326585,
+        "num": 150806,
+        "word": "野人小孩父母均大学毕业",
+        "onboard_time": 1760678304,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297956,
+        "num": 150544,
+        "word": "金价一夜暴涨有投资者彻夜难眠",
+        "onboard_time": 1760675182,
+        "rank": 15,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 286904,
+        "num": 149873,
+        "word": "刘宇宁陪黄子韬敬酒",
+        "onboard_time": 1760675245,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284950,
+        "num": 149568,
+        "word": "惠州街头多人爬行学狗叫",
+        "onboard_time": 1760685442,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207078,
+        "num": 149040,
+        "word": "白敬亭回应范丞丞想演难哄2",
+        "onboard_time": 1760685202,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89393,
+        "num": 148543,
+        "word": "无人在意的角落拼多多10岁了",
+        "onboard_time": 1760684842,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 203066,
+        "num": 148043,
+        "word": "杨幂穿着睡衣回国",
+        "onboard_time": 1760675664,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221833,
+        "num": 147461,
+        "word": "黄子韬徐艺洋中式婚服",
+        "onboard_time": 1760681782,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199224,
+        "num": 147171,
+        "word": "李茂自曝在弦子洗澡时求婚",
+        "onboard_time": 1760670142,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192659,
+        "num": 146413,
+        "word": "邓莎哭着说从20多岁就开始当妈",
+        "onboard_time": 1760685982,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146262,
+        "num": 146262,
+        "word": "陈梦全运会证件照",
+        "onboard_time": 1760685982,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144785,
+        "num": 144785,
+        "word": "A股中兴通讯跌停",
+        "onboard_time": 1760684842,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139653,
+        "num": 139653,
+        "word": "张智霖 要爆了",
+        "onboard_time": 1760681782,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136730,
+        "num": 136730,
+        "word": "卢昱晓演技",
+        "onboard_time": 1760684722,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134015,
+        "num": 134015,
+        "word": "逼员工卖淫女嫌犯因外貌在日本走红",
+        "onboard_time": 1760662762,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 128050,
+        "num": 128050,
+        "word": "柯淳短剧一哥 刘晓庆短剧一姐",
+        "onboard_time": 1760683702,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173897,
+        "num": 127657,
+        "word": "爱吃蜂蜜小面包的我沉默了",
+        "onboard_time": 1760686161,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121370,
+        "num": 121370,
+        "word": "A股",
+        "onboard_time": 1760667381,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116976,
+        "num": 116976,
+        "word": "王腾称在考虑创业",
+        "onboard_time": 1760686402,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 114274,
+        "num": 114274,
+        "word": "王腾回应红米新手机是遗作",
+        "onboard_time": 1760676743,
+        "rank": 33,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 109841,
+        "num": 109841,
+        "word": "邓莎老公怎么把沈皓明台词说了",
+        "onboard_time": 1760684481,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132453,
+        "num": 108185,
+        "word": "陆虎新歌烂人",
+        "onboard_time": 1760678602,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 105835,
+        "num": 105835,
+        "word": "保安打死校内流浪狗遭开除",
+        "onboard_time": 1760671581,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105316,
+        "num": 105316,
+        "word": "鸡和土豆真是满门忠烈",
+        "onboard_time": 1760679982,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 49216,
+        "num": 105253,
+        "word": "原来双人杂志都是这样拍出来的",
+        "onboard_time": 1760685681,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93670,
+        "num": 105246,
+        "word": "王曼昱全运会证件照",
+        "onboard_time": 1760686642,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105246,
+        "num": 105245,
+        "word": "夏梦这朵00花藏不住了",
+        "onboard_time": 1760686462,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102784,
+        "num": 102784,
+        "word": "老铺黄金10月将涨价",
+        "onboard_time": 1760686402,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102047,
+        "num": 102047,
+        "word": "黄金",
+        "onboard_time": 1760659760,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96700,
+        "num": 96700,
+        "word": "终于有人把羽绒服怎么选讲透了",
+        "onboard_time": 1760683520,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 96513,
+        "num": 96513,
+        "word": "如何买到旺自己的衣服",
+        "onboard_time": 1760685322,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95820,
+        "num": 95820,
+        "word": "毛晓彤杀青4个月才缓过来",
+        "onboard_time": 1760686702,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95162,
+        "num": 95162,
+        "word": "荷兰被批劫掠中企",
+        "onboard_time": 1760682141,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94058,
+        "num": 94058,
+        "word": "小米王化回复王腾",
+        "onboard_time": 1760678362,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 89613,
+        "num": 89613,
+        "word": "杭州有人600元时囤150万黄金",
+        "onboard_time": 1760663482,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88335,
+        "num": 88335,
+        "word": "社区回应多人当街爬行学狗叫",
+        "onboard_time": 1760686462,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领筑牢国家粮食安全#"
+    }
+  }
+}

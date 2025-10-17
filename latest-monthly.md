@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 15:26:07
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/17 15:39:05
 </p>
 </blockquote>
 <p>
@@ -543,6 +543,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%AD%A6%E5%91%8A%E8%94%A1%E5%A8%81%E6%B3%BD%E5%86%8D%E4%B8%8D%E5%87%BA%E7%8E%B0%E5%B0%B1%E5%AE%8C%E4%BA%86%23" target="weibo">
+周杰伦警告蔡威泽再不出现就完了（热度：1446063）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%8A%E6%99%92%E5%92%8C%E6%9D%8E%E7%BA%AF%E5%9C%A8%E5%A9%9A%E5%A7%BB%E7%99%BB%E8%AE%B0%E5%A4%84%E5%90%88%E7%85%A7%23" target="weibo">
 王菊晒和李纯在婚姻登记处合照（热度：1445744）
 </a>
@@ -647,12 +653,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E5%8D%95%E6%96%B9%E9%9D%A2%E5%AE%98%E5%AE%A3%E8%A2%AB%E9%BA%A6%E8%BF%AA%E5%A8%9C%E5%85%AC%E5%8F%B8%E5%A9%89%E6%8B%92%E4%BA%86%23" target="weibo">
 姜潮单方面官宣被麦迪娜公司婉拒了（热度：1364560）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E8%AD%A6%E5%91%8A%E8%94%A1%E5%A8%81%E6%B3%BD%E5%86%8D%E4%B8%8D%E5%87%BA%E7%8E%B0%E5%B0%B1%E5%AE%8C%E4%BA%86%23" target="weibo">
-周杰伦警告蔡威泽再不出现就完了（热度：1363809）
 </a>
 </li>
 
