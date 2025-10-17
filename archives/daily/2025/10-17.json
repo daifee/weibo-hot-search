@@ -1,6 +1,6 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760705553175,
+  "endTime": 1760706357612,
   "band_list": [
     {
       "raw_hot": 6997623,
@@ -124,11 +124,19 @@
     },
     {
       "raw_hot": 881136,
-      "num": 391067,
+      "num": 530867,
       "word": "金价暴涨时4万5黄金订单蒸发",
       "onboard_time": 1760699183,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 850468,
+      "num": 287466,
+      "word": "小S 金钟奖",
+      "onboard_time": 1760695162,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 835643,
@@ -155,6 +163,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 816874,
+      "num": 256726,
+      "word": "男子坟头炸死3侄女被执行死刑",
+      "onboard_time": 1760702482,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 805101,
       "num": 189635,
       "word": "惠州街头多人爬行学狗叫",
@@ -169,22 +185,6 @@
       "onboard_time": 1760662762,
       "rank": 11,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 796445,
-      "num": 256726,
-      "word": "男子坟头炸死3侄女被执行死刑",
-      "onboard_time": 1760702482,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 783771,
-      "num": 287466,
-      "word": "小S 金钟奖",
-      "onboard_time": 1760695162,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 763573,
@@ -251,6 +251,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 552348,
+      "num": 252106,
+      "word": "男女主浴池吻唇享60秒",
+      "onboard_time": 1760698344,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 543176,
+      "num": 543176,
+      "word": "中科院院士回应杨振宁逝世传闻",
+      "onboard_time": 1760705062,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 539215,
       "num": 778937,
       "word": "杭州有人600元时囤150万黄金",
@@ -307,14 +323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 475035,
-      "num": 252106,
-      "word": "男女主浴池吻唇享60秒",
-      "onboard_time": 1760698344,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 469813,
       "num": 191183,
       "word": "毛晓彤杀青4个月才缓过来",
@@ -353,6 +361,14 @@
       "onboard_time": 1760693842,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 431591,
+      "num": 431591,
+      "word": "贵州一溶洞流出大量污水含有煤",
+      "onboard_time": 1760700624,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 429718,
@@ -435,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354202,
+      "num": 243023,
+      "word": "卢昱晓 我对你何止半分真心",
+      "onboard_time": 1760703984,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354086,
       "num": 354086,
       "word": "摄影店用粉蓝相框暗示胎儿性别被罚",
@@ -499,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 318565,
-      "num": 318565,
-      "word": "贵州一溶洞流出大量污水含有煤",
-      "onboard_time": 1760700624,
-      "rank": 18,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 315907,
       "num": 432459,
       "word": "村长李锐已从湖南卫视离职",
@@ -537,6 +553,14 @@
       "onboard_time": 1760679922,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 312258,
+      "num": 239087,
+      "word": "方媛小腿浮肿",
+      "onboard_time": 1760705122,
+      "rank": 21,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 303538,
@@ -707,14 +731,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 243023,
-      "num": 243023,
-      "word": "卢昱晓 我对你何止半分真心",
-      "onboard_time": 1760703984,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 238717,
       "num": 225255,
       "word": "张智霖 要爆了",
@@ -729,14 +745,6 @@
       "onboard_time": 1760682682,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237837,
-      "num": 237837,
-      "word": "方媛小腿浮肿",
-      "onboard_time": 1760705122,
-      "rank": 21,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 232696,
@@ -899,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199479,
+      "num": 199479,
+      "word": "中南大学原校长张尧学被查",
+      "onboard_time": 1760704762,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195721,
       "num": 195721,
       "word": "什么剧大结局一口气刀七个",
@@ -921,6 +937,14 @@
       "onboard_time": 1760666181,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 191832,
+      "num": 191832,
+      "word": "黄轩毁容式演技",
+      "onboard_time": 1760705302,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 190391,
@@ -985,6 +1009,14 @@
       "onboard_time": 1760682741,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182679,
+      "num": 182679,
+      "word": "这居然是林子烨",
+      "onboard_time": 1760703022,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 180110,
@@ -1403,14 +1435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143924,
-      "num": 143924,
-      "word": "这居然是林子烨",
-      "onboard_time": 1760703022,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143667,
       "num": 143667,
       "word": "给王安宇说爽了",
@@ -1611,11 +1635,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 128442,
-      "num": 128442,
-      "word": "中南大学原校长张尧学被查",
-      "onboard_time": 1760704762,
-      "rank": 34,
+      "raw_hot": 129419,
+      "num": 129419,
+      "word": "潘建伟称杨振宁逝世是谣传",
+      "onboard_time": 1760705360,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -1625,6 +1649,22 @@
       "onboard_time": 1760669720,
       "rank": 42,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 127065,
+      "num": 127065,
+      "word": "Doinb说JackeyLove最有机会拿双冠",
+      "onboard_time": 1760705843,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 126932,
+      "num": 158524,
+      "word": "金钟奖直播",
+      "onboard_time": 1760705722,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 126762,
@@ -1843,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114725,
+      "num": 114725,
+      "word": "广西百色一地洪水内涝已被泡10天",
+      "onboard_time": 1760704642,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 114383,
       "num": 114383,
       "word": "这才是面包该有的价格",
@@ -2051,6 +2099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106366,
+      "num": 106366,
+      "word": "梁淞何美延两个魔丸结婚了",
+      "onboard_time": 1760703563,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106280,
       "num": 106280,
       "word": "张彬彬毛晓彤好伟大的狗猫塑",
@@ -2155,6 +2211,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 103341,
+      "num": 103341,
+      "word": "周深模仿啃苹果的杂技女生",
+      "onboard_time": 1760706203,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 103028,
       "num": 103028,
       "word": "王楚钦全运会证件照",
@@ -2169,6 +2233,14 @@
       "onboard_time": 1760686402,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102773,
+      "num": 102773,
+      "word": "早睡早起真的很重要",
+      "onboard_time": 1760705901,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 102656,
@@ -2227,20 +2299,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99048,
+      "num": 99048,
+      "word": "住酒店发现房间对外透明",
+      "onboard_time": 1760704822,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97836,
       "num": 97836,
       "word": "施一公说不要以讹传讹",
       "onboard_time": 1760699903,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97321,
-      "num": 97321,
-      "word": "黄轩毁容式演技",
-      "onboard_time": 1760705302,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 97255,
@@ -2255,14 +2327,6 @@
       "num": 97135,
       "word": "官方通报滨州职业学院多名学生呕吐腹泻",
       "onboard_time": 1760668641,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96731,
-      "num": 96731,
-      "word": "潘建伟称杨振宁逝世是谣传",
-      "onboard_time": 1760705360,
       "rank": 48,
       "category": "民生新闻"
     },
@@ -2283,14 +2347,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 96550,
-      "num": 101972,
-      "word": "梁淞何美延两个魔丸结婚了",
-      "onboard_time": 1760703563,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96513,
       "num": 96513,
       "word": "如何买到旺自己的衣服",
@@ -2305,14 +2361,6 @@
       "onboard_time": 1760689403,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 96230,
-      "num": 111785,
-      "word": "广西百色一地洪水内涝已被泡10天",
-      "onboard_time": 1760704642,
-      "rank": 39,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 96012,
@@ -2715,14 +2763,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 67331,
-      "num": 243606,
-      "word": "中科院院士回应杨振宁逝世传闻",
-      "onboard_time": 1760705062,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67262,
       "num": 67262,
       "word": "为什么运动1小时吃回来5分钟",
@@ -2740,7 +2780,7 @@
     },
     {
       "raw_hot": 67213,
-      "num": 154464,
+      "num": 156847,
       "word": "荣耀高管称Magic8不装杯",
       "onboard_time": 1760705242,
       "rank": 29,
@@ -2833,6 +2873,14 @@
       "onboard_time": 1760684360,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 56035,
+      "num": 130243,
+      "word": "被姐姐们种草汕尾了",
+      "onboard_time": 1760706262,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 55688,
@@ -3300,6 +3348,9 @@
     },
     {
       "word": "#总书记对民生福祉惦念在心#"
+    },
+    {
+      "word": "#中国经济关键时刻必有关键抉择#"
     }
   ]
 }

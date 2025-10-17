@@ -1,0 +1,410 @@
+{
+  "runTime": 1760706357612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 748694,
+        "num": 1119791,
+        "word": "杨力维杨舒予父亲去世",
+        "onboard_time": 1760691200,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 543176,
+        "num": 543176,
+        "word": "中科院院士回应杨振宁逝世传闻",
+        "onboard_time": 1760705062,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4597,
+        "num": 531106,
+        "word": "长征系列火箭55年累计发射600次",
+        "onboard_time": 1760667381,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 801278,
+        "num": 530867,
+        "word": "金价暴涨时4万5黄金订单蒸发",
+        "onboard_time": 1760699183,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 523050,
+        "num": 523050,
+        "word": "缅北电诈园区剁人手指泡酒",
+        "onboard_time": 1760679982,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431591,
+        "num": 431591,
+        "word": "贵州一溶洞流出大量污水含有煤",
+        "onboard_time": 1760700624,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 354471,
+        "num": 354471,
+        "word": "国考审核人员 好强的活人感",
+        "onboard_time": 1760696482,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 337926,
+        "num": 337926,
+        "word": "AL晋级S15八强",
+        "onboard_time": 1760704461,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 274282,
+        "num": 274282,
+        "word": "AL战胜CFO",
+        "onboard_time": 1760703863,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 251609,
+        "num": 251609,
+        "word": "金钟奖",
+        "onboard_time": 1760695822,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1276404,
+        "num": 251218,
+        "word": "何卫东等9人被开除党籍军籍",
+        "onboard_time": 1760693962,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 850468,
+        "num": 248805,
+        "word": "小S 金钟奖",
+        "onboard_time": 1760695162,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 816874,
+        "num": 248154,
+        "word": "男子坟头炸死3侄女被执行死刑",
+        "onboard_time": 1760702482,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 673527,
+        "num": 246796,
+        "word": "鹿晗张艺兴黄子韬在南山塔挂过锁头",
+        "onboard_time": 1760700383,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552348,
+        "num": 244252,
+        "word": "男女主浴池吻唇享60秒",
+        "onboard_time": 1760698344,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 491289,
+        "num": 243504,
+        "word": "日本药 下料狠",
+        "onboard_time": 1760694861,
+        "rank": 15,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 374929,
+        "num": 241332,
+        "word": "减肥减成杨幂了",
+        "onboard_time": 1760698702,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354202,
+        "num": 240407,
+        "word": "卢昱晓 我对你何止半分真心",
+        "onboard_time": 1760703984,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312258,
+        "num": 239087,
+        "word": "方媛小腿浮肿",
+        "onboard_time": 1760705122,
+        "rank": 18,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 237997,
+        "num": 237997,
+        "word": "小城良方",
+        "onboard_time": 1760701942,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271848,
+        "num": 237420,
+        "word": "克拉拉官宣离婚",
+        "onboard_time": 1760692941,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211465,
+        "num": 211465,
+        "word": "陈奕恒日本",
+        "onboard_time": 1760697202,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199479,
+        "num": 199479,
+        "word": "中南大学原校长张尧学被查",
+        "onboard_time": 1760704762,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191832,
+        "num": 191832,
+        "word": "黄轩毁容式演技",
+        "onboard_time": 1760705302,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189897,
+        "num": 189897,
+        "word": "咬嘴 口腔癌",
+        "onboard_time": 1760667321,
+        "rank": 24,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 182679,
+        "num": 182679,
+        "word": "这居然是林子烨",
+        "onboard_time": 1760703022,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178927,
+        "num": 178927,
+        "word": "小S没走红毯",
+        "onboard_time": 1760703682,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168768,
+        "num": 168768,
+        "word": "黄子韬徐艺洋婚礼主桌视角",
+        "onboard_time": 1760689223,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126932,
+        "num": 158524,
+        "word": "金钟奖直播",
+        "onboard_time": 1760705722,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56856,
+        "num": 156847,
+        "word": "荣耀高管称Magic8不装杯",
+        "onboard_time": 1760705242,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 156200,
+        "num": 156200,
+        "word": "乌贼被喂食时显示出一张人脸",
+        "onboard_time": 1760701521,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146344,
+        "num": 146344,
+        "word": "张婧仪生图也太生了",
+        "onboard_time": 1760696601,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140327,
+        "num": 140327,
+        "word": "摄影店用粉蓝相框暗示胎儿性别被罚",
+        "onboard_time": 1760693482,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134092,
+        "num": 134092,
+        "word": "敖瑞鹏想常驻王牌",
+        "onboard_time": 1760703022,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56035,
+        "num": 130243,
+        "word": "被姐姐们种草汕尾了",
+        "onboard_time": 1760706262,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129419,
+        "num": 129419,
+        "word": "潘建伟称杨振宁逝世是谣传",
+        "onboard_time": 1760705360,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127065,
+        "num": 127065,
+        "word": "Doinb说JackeyLove最有机会拿双冠",
+        "onboard_time": 1760705843,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120794,
+        "num": 120794,
+        "word": "微信 一删皆空",
+        "onboard_time": 1760663901,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119154,
+        "num": 119154,
+        "word": "黄金暴涨意味着什么",
+        "onboard_time": 1760699963,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117658,
+        "num": 117658,
+        "word": "Ella为了演唱会卷成啥样了",
+        "onboard_time": 1760702002,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115301,
+        "num": 115301,
+        "word": "朱一龙刘亦菲确认出席vogueworld",
+        "onboard_time": 1760700624,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114725,
+        "num": 114725,
+        "word": "广西百色一地洪水内涝已被泡10天",
+        "onboard_time": 1760704642,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 111500,
+        "num": 111500,
+        "word": "CFO对战AL",
+        "onboard_time": 1760695341,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111012,
+        "num": 111012,
+        "word": "第五人格",
+        "onboard_time": 1760694981,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106366,
+        "num": 106366,
+        "word": "梁淞何美延两个魔丸结婚了",
+        "onboard_time": 1760703563,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103341,
+        "num": 103341,
+        "word": "周深模仿啃苹果的杂技女生",
+        "onboard_time": 1760706203,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102773,
+        "num": 102773,
+        "word": "早睡早起真的很重要",
+        "onboard_time": 1760705901,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102330,
+        "num": 102330,
+        "word": "王一博这期是雪地帅哥",
+        "onboard_time": 1760704642,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99048,
+        "num": 99048,
+        "word": "住酒店发现房间对外透明",
+        "onboard_time": 1760704822,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95835,
+        "num": 95835,
+        "word": "TES无缘直通淘汰赛",
+        "onboard_time": 1760702423,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济关键时刻必有关键抉择#"
+    }
+  }
+}
