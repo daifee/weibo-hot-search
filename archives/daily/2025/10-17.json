@@ -1,7 +1,15 @@
 {
   "startTime": 1760632397219,
-  "endTime": 1760711148070,
+  "endTime": 1760712191359,
   "band_list": [
+    {
+      "raw_hot": 9427103,
+      "num": 9427103,
+      "word": "警方通报荣梓杉李禹熹纠纷",
+      "onboard_time": 1760709984,
+      "rank": 20,
+      "category": "艺人"
+    },
     {
       "raw_hot": 6997623,
       "num": 8038150,
@@ -9,14 +17,6 @@
       "onboard_time": 1760693962,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6139592,
-      "num": 6139592,
-      "word": "警方通报荣梓杉李禹熹纠纷",
-      "onboard_time": 1760709984,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 3904292,
@@ -51,6 +51,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1462401,
+      "num": 317207,
+      "word": "小S 金钟奖",
+      "onboard_time": 1760695162,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1446063,
       "num": 212853,
       "word": "周杰伦警告蔡威泽再不出现就完了",
@@ -73,6 +81,14 @@
       "onboard_time": 1760664681,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1161590,
+      "num": 264439,
+      "word": "黄金",
+      "onboard_time": 1760659760,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 1144617,
@@ -115,19 +131,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1094727,
+      "num": 219518,
+      "word": "荣某某李某某因情感纠纷引发拉拽",
+      "onboard_time": 1760710463,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1048474,
       "num": 302751,
       "word": "迪丽热巴代言骆驼",
       "onboard_time": 1760668822,
       "rank": 11,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1000340,
-      "num": 314814,
-      "word": "小S 金钟奖",
-      "onboard_time": 1760695162,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -163,14 +179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 884756,
-      "num": 219518,
-      "word": "荣某某李某某因情感纠纷引发拉拽",
-      "onboard_time": 1760710463,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 881136,
       "num": 530867,
       "word": "金价暴涨时4万5黄金订单蒸发",
@@ -193,14 +201,6 @@
       "onboard_time": 1760675182,
       "rank": 38,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 818648,
-      "num": 264439,
-      "word": "黄金",
-      "onboard_time": 1760659760,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 805101,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 528590,
-      "num": 314314,
+      "num": 316798,
       "word": "卢昱晓 我对你何止半分真心",
       "onboard_time": 1760703984,
       "rank": 20,
@@ -332,7 +332,7 @@
     },
     {
       "raw_hot": 516929,
-      "num": 314634,
+      "num": 318191,
       "word": "一家三口被撞身亡案家属透露新细节",
       "onboard_time": 1760707403,
       "rank": 35,
@@ -427,6 +427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 415183,
+      "num": 415183,
+      "word": "辽宁朝阳失联女童找到后派出所所长泪流满面",
+      "onboard_time": 1760707225,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 412193,
       "num": 239087,
       "word": "方媛小腿浮肿",
@@ -441,14 +449,6 @@
       "onboard_time": 1760688682,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 402944,
-      "num": 402944,
-      "word": "辽宁朝阳失联女童找到后派出所所长泪流满面",
-      "onboard_time": 1760707225,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 390793,
@@ -563,12 +563,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 321309,
+      "num": 321309,
+      "word": "金钟奖",
+      "onboard_time": 1760695822,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 318839,
       "num": 166226,
       "word": "蔡威泽回应周杰伦",
       "onboard_time": 1760691441,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316223,
+      "num": 316223,
+      "word": "网红柴怼怼被正式逮捕",
+      "onboard_time": 1760711247,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 315907,
@@ -619,16 +635,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 298808,
-      "num": 315456,
-      "word": "金钟奖",
-      "onboard_time": 1760695822,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 296085,
-      "num": 137354,
+      "num": 141271,
       "word": "字节跳动程序员降薪一半去德国",
       "onboard_time": 1760707282,
       "rank": 30,
@@ -761,6 +769,14 @@
       "onboard_time": 1760690362,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 251579,
+      "num": 321222,
+      "word": "入青云热度",
+      "onboard_time": 1760709924,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 250208,
@@ -923,14 +939,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 209269,
-      "num": 315242,
-      "word": "入青云热度",
-      "onboard_time": 1760709924,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 208275,
       "num": 208275,
       "word": "秋裤羽绒服该出场了",
@@ -1035,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191265,
+      "num": 319307,
+      "word": "辽宁失联女童因红衣被快速找到",
+      "onboard_time": 1760709202,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190391,
       "num": 190391,
       "word": "入青云19集封神",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1760675603,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 186754,
+      "num": 318615,
+      "word": "金钟奖直播",
+      "onboard_time": 1760705722,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 185384,
@@ -1171,6 +1195,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176198,
+      "num": 176198,
+      "word": "胡彦斌都脱敏成这样了吗",
+      "onboard_time": 1760711606,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 176195,
+      "num": 199309,
+      "word": "杨振宁院士半月前刚过103岁生日",
+      "onboard_time": 1760711183,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176073,
       "num": 176073,
       "word": "金晨体态",
@@ -1193,6 +1233,14 @@
       "onboard_time": 1760669660,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 175735,
+      "num": 175735,
+      "word": "惠州人社局介入爬行学狗叫事件",
+      "onboard_time": 1760708901,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175555,
@@ -1288,14 +1336,6 @@
       "word": "江西小伙回应彩礼视频爆火",
       "onboard_time": 1760672541,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159850,
-      "num": 159850,
-      "word": "惠州人社局介入爬行学狗叫事件",
-      "onboard_time": 1760708901,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1595,14 +1635,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 143531,
-      "num": 315064,
-      "word": "金钟奖直播",
-      "onboard_time": 1760705722,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 143015,
       "num": 143015,
       "word": "那艺娜登时尚芭莎",
@@ -1635,12 +1667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139260,
-      "num": 139260,
-      "word": "辽宁失联女童因红衣被快速找到",
-      "onboard_time": 1760709202,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 139251,
+      "num": 139251,
+      "word": "WB战胜LGDNBW",
+      "onboard_time": 1760711365,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 139197,
@@ -1867,6 +1899,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 124817,
+      "num": 124817,
+      "word": "董事长爷爷带孙女参观他的公司",
+      "onboard_time": 1760711546,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124376,
       "num": 124376,
       "word": "荷兰被批劫掠中企",
@@ -2051,6 +2091,14 @@
       "category": "美食,休闲"
     },
     {
+      "raw_hot": 115440,
+      "num": 115440,
+      "word": "赵小童直播",
+      "onboard_time": 1760711846,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115149,
       "num": 115149,
       "word": "谁懂洗完衣服忘晾的痛",
@@ -2097,6 +2145,14 @@
       "onboard_time": 1760699963,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 113692,
+      "num": 113692,
+      "word": "WB确定年总胜者组半决赛",
+      "onboard_time": 1760711965,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 113567,
@@ -2187,6 +2243,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 111113,
+      "num": 111113,
+      "word": "院人把林子烨逗成啥样了",
+      "onboard_time": 1760712025,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111069,
       "num": 150647,
       "word": "花儿与少年同心季",
@@ -2243,6 +2307,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 110098,
+      "num": 110098,
+      "word": "李亚鹏说真相比猜想更残忍",
+      "onboard_time": 1760710226,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109336,
+      "num": 109336,
+      "word": "野人小孩没有户口",
+      "onboard_time": 1760710704,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108937,
       "num": 141773,
       "word": "李沁说七老童心都不矫情",
@@ -2273,6 +2353,14 @@
       "onboard_time": 1760688742,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107243,
+      "num": 107243,
+      "word": "2025年丹麦羽毛球公开赛",
+      "onboard_time": 1760711965,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 107194,
@@ -2427,6 +2515,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 103377,
+      "num": 103377,
+      "word": "成毅唱腔勾勒出武侠画卷",
+      "onboard_time": 1760711846,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103354,
       "num": 103354,
       "word": "曝iPhoneAir国行最多写入2张eSIM",
@@ -2497,6 +2593,14 @@
       "onboard_time": 1760710644,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101627,
+      "num": 103725,
+      "word": "杨力维曾回应父亲患癌",
+      "onboard_time": 1760711546,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 101606,
@@ -2697,14 +2801,6 @@
       "onboard_time": 1760625984,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89238,
-      "num": 89238,
-      "word": "李亚鹏说真相比猜想更残忍",
-      "onboard_time": 1760710226,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 89226,
@@ -2929,6 +3025,14 @@
       "onboard_time": 1760663241,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 75107,
+      "num": 111963,
+      "word": "惠州多人爬行学狗叫系团建时发生",
+      "onboard_time": 1760711247,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73835,
@@ -3180,7 +3284,7 @@
     },
     {
       "raw_hot": 51815,
-      "num": 473840,
+      "num": 476262,
       "word": "今天起传递这颗红星",
       "onboard_time": 1760706802,
       "rank": 2,
@@ -3265,14 +3369,6 @@
       "onboard_time": 1760622264,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 45696,
-      "num": 105588,
-      "word": "野人小孩没有户口",
-      "onboard_time": 1760710704,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45604,
@@ -3361,6 +3457,14 @@
       "onboard_time": 1760624665,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37632,
+      "num": 99371,
+      "word": "缅北徐老发暴力性不亚于四大家族",
+      "onboard_time": 1760712025,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37552,

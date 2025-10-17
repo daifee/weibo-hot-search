@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/10/17 22:25:48
+本榜单时间：2025/01/01 00:26:38 ~ 2025/10/17 22:43:11
 </p>
 </blockquote>
 <p>
@@ -1077,6 +1077,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E8%8D%A3%E6%A2%93%E6%9D%89%E6%9D%8E%E7%A6%B9%E7%86%B9%E7%BA%A0%E7%BA%B7%23" target="weibo">
+警方通报荣梓杉李禹熹纠纷（热度：9427103）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A1%A6%E5%8A%A0%E6%B2%99%E7%99%BB%E9%99%86%E5%B9%BF%E4%B8%9C%23" target="weibo">
 桦加沙登陆广东（热度：9419194）
 </a>
@@ -1661,12 +1667,6 @@ ALin秒了（热度：6171972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E5%AE%A3%E5%B8%83%E9%80%80%E5%9C%88%23" target="weibo">
 金子涵宣布退圈（热度：6152899）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E8%8D%A3%E6%A2%93%E6%9D%89%E6%9D%8E%E7%A6%B9%E7%86%B9%E7%BA%A0%E7%BA%B7%23" target="weibo">
-警方通报荣梓杉李禹熹纠纷（热度：6139592）
 </a>
 </li>
 
