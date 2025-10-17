@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/18 00:32:52 ~ 2025/10/18 03:20:49
+本榜单时间：2025/10/18 00:32:52 ~ 2025/10/18 03:36:51
 </p>
 </blockquote>
 <p>
@@ -305,6 +305,12 @@ AL晋级S15八强（热度：75484）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E5%BE%90%E8%80%81%E5%8F%91%E6%9A%B4%E5%8A%9B%E6%80%A7%E4%B8%8D%E4%BA%9A%E4%BA%8E%E5%9B%9B%E5%A4%A7%E5%AE%B6%E6%97%8F%23" target="weibo">
 缅北徐老发暴力性不亚于四大家族（热度：55663）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%23" target="weibo">
+小S（热度：54576）
 </a>
 </li>
 
