@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760812343730,
+  "endTime": 1760813105760,
   "band_list": [
     {
       "raw_hot": 995617,
@@ -451,6 +451,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 39167,
+      "num": 42995,
+      "word": "凌晨三点叫你出来玩你不出来",
+      "onboard_time": 1760811556,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 37475,
+      "num": 42934,
+      "word": "汪苏泷又出神图了",
+      "onboard_time": 1760811856,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 37028,
       "num": 43032,
       "word": "陈建州范玮琪听到小S致辞哭了",
@@ -459,26 +475,34 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 34688,
-      "num": 42934,
-      "word": "汪苏泷又出神图了",
-      "onboard_time": 1760811856,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 30761,
-      "num": 42995,
-      "word": "凌晨三点叫你出来玩你不出来",
-      "onboard_time": 1760811556,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 26112,
+      "raw_hot": 32551,
       "num": 42558,
       "word": "侯明昊看姻缘石刻字名场面reaction",
       "onboard_time": 1760812218,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25453,
+      "num": 39055,
+      "word": "小城良方开机",
+      "onboard_time": 1760812576,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24332,
+      "num": 39044,
+      "word": "一起开麦吧",
+      "onboard_time": 1760812756,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 23780,
+      "num": 39032,
+      "word": "侯明昊古偶可靠丈夫赛道",
+      "onboard_time": 1760813055,
       "rank": 47,
       "category": "剧集"
     },

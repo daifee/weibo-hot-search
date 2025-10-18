@@ -1,0 +1,410 @@
+{
+  "runTime": 1760813105760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 367398,
+        "num": 367398,
+        "word": "北京下雪了",
+        "onboard_time": 1760805440,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94143,
+        "num": 94143,
+        "word": "今年秋冬或形成一次弱拉尼娜事件",
+        "onboard_time": 1760804722,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 981,
+        "num": 82142,
+        "word": "非凡十四五",
+        "onboard_time": 1760706502,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70853,
+        "num": 70853,
+        "word": "月亮姐姐官宣离开少儿频道",
+        "onboard_time": 1760799203,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68783,
+        "num": 68783,
+        "word": "北京今天就下雪了",
+        "onboard_time": 1760784202,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82767,
+        "num": 65787,
+        "word": "杨振宁在美办公室有人凌晨献花",
+        "onboard_time": 1760799742,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75578,
+        "num": 64324,
+        "word": "杨振宁逝世",
+        "onboard_time": 1760761410,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61462,
+        "num": 61462,
+        "word": "G2战胜BLG",
+        "onboard_time": 1760785103,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60944,
+        "num": 60944,
+        "word": "猴哥已在南宁小区住5天了",
+        "onboard_time": 1760800103,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53841,
+        "num": 53841,
+        "word": "入青云",
+        "onboard_time": 1760786302,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204099,
+        "num": 53590,
+        "word": "请求核查野人男孩父母收入来源",
+        "onboard_time": 1760800883,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178423,
+        "num": 52779,
+        "word": "野人小孩",
+        "onboard_time": 1760799862,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173972,
+        "num": 52431,
+        "word": "网传何穗前夫参加过再见爱人",
+        "onboard_time": 1760799384,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93188,
+        "num": 51750,
+        "word": "沈佳润音乐节没报备版美美Sunday",
+        "onboard_time": 1760800763,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 67167,
+        "num": 51672,
+        "word": "杨振宁20年前预言已基本实现",
+        "onboard_time": 1760781621,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63914,
+        "num": 51099,
+        "word": "回南雀",
+        "onboard_time": 1760790861,
+        "rank": 15,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 60013,
+        "num": 50403,
+        "word": "郭碧婷爸爸回应女儿一人养家",
+        "onboard_time": 1760791642,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50057,
+        "num": 50057,
+        "word": "刘雨昕说和THE9都有联系",
+        "onboard_time": 1760802023,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48425,
+        "num": 48425,
+        "word": "李一桐回应美人余造型",
+        "onboard_time": 1760799862,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46724,
+        "num": 46724,
+        "word": "杨老一路走好",
+        "onboard_time": 1760787802,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62024,
+        "num": 46060,
+        "word": "寿命长的人脖子一般有5个特征",
+        "onboard_time": 1760796982,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 45348,
+        "num": 45348,
+        "word": "郑恺苗苗从小共用一张脸",
+        "onboard_time": 1760791704,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43186,
+        "num": 43186,
+        "word": "Crisp给BLG抽个T1吧",
+        "onboard_time": 1760801364,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42205,
+        "num": 42205,
+        "word": "痞幼变美了",
+        "onboard_time": 1760791104,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 39167,
+        "num": 39167,
+        "word": "凌晨三点叫你出来玩你不出来",
+        "onboard_time": 1760811556,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37475,
+        "num": 39164,
+        "word": "汪苏泷又出神图了",
+        "onboard_time": 1760811856,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35743,
+        "num": 39161,
+        "word": "蔡徐坤这里是红毯不是秀场",
+        "onboard_time": 1760791282,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35107,
+        "num": 39153,
+        "word": "陈建州范玮琪听到小S致辞哭了",
+        "onboard_time": 1760810356,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34053,
+        "num": 39144,
+        "word": "新任中国国民党主席郑丽文",
+        "onboard_time": 1760787982,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32551,
+        "num": 39136,
+        "word": "侯明昊看姻缘石刻字名场面reaction",
+        "onboard_time": 1760812218,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35090,
+        "num": 39136,
+        "word": "汪苏泷演唱会现场点奶茶都是坑",
+        "onboard_time": 1760807778,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32145,
+        "num": 39126,
+        "word": "圆明园复原后长这样",
+        "onboard_time": 1760797343,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30870,
+        "num": 39123,
+        "word": "天蚕土豆锐评BLG",
+        "onboard_time": 1760798843,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30046,
+        "num": 39115,
+        "word": "易烊千玺角色宇宙C位争夺战",
+        "onboard_time": 1760794163,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30024,
+        "num": 39107,
+        "word": "张函瑞自作曲tears",
+        "onboard_time": 1760802923,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 29271,
+        "num": 39104,
+        "word": "杨振宁曾在百岁生日宴后摔倒",
+        "onboard_time": 1760789783,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29000,
+        "num": 39094,
+        "word": "这居然是任敏",
+        "onboard_time": 1760777782,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28413,
+        "num": 39089,
+        "word": "中国游客去夏威夷被原住民骂",
+        "onboard_time": 1760796803,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28379,
+        "num": 39085,
+        "word": "乘客开门杀撞伤人司机被判赔200万",
+        "onboard_time": 1760796083,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27573,
+        "num": 39079,
+        "word": "微信文件助手才是真的职场邪修",
+        "onboard_time": 1760793202,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27190,
+        "num": 39070,
+        "word": "新加坡的印度人",
+        "onboard_time": 1760796803,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25925,
+        "num": 39065,
+        "word": "Bin和Doran迎来生死战",
+        "onboard_time": 1760794105,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25921,
+        "num": 39062,
+        "word": "曾舜晞送走汤唯牵走白鹿",
+        "onboard_time": 1760797043,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25453,
+        "num": 39055,
+        "word": "小城良方开机",
+        "onboard_time": 1760812576,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25016,
+        "num": 39048,
+        "word": "王俊凯又来炸场了",
+        "onboard_time": 1760796864,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 24332,
+        "num": 39044,
+        "word": "一起开麦吧",
+        "onboard_time": 1760812756,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24147,
+        "num": 39036,
+        "word": "邓莎老公上再见爱人后辞职",
+        "onboard_time": 1760784623,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23780,
+        "num": 39032,
+        "word": "侯明昊古偶可靠丈夫赛道",
+        "onboard_time": 1760813055,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19779,
+        "num": 39025,
+        "word": "南京vs泰州",
+        "onboard_time": 1760791942,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14097,
+        "num": 39017,
+        "word": "郭艾伦聚星名人赛MVP",
+        "onboard_time": 1760810716,
+        "rank": 49,
+        "category": "体育,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画中国式现代化新篇章#"
+    }
+  }
+}
