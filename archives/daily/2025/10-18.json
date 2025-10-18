@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760744209172,
+  "endTime": 1760751989722,
   "band_list": [
     {
       "raw_hot": 1246473,
@@ -11,6 +11,14 @@
       "category": "电影,艺人"
     },
     {
+      "raw_hot": 1079225,
+      "num": 123514,
+      "word": "万鹏 笑脸给多了惯的都是病",
+      "onboard_time": 1760751741,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1057349,
       "num": 194259,
       "word": "小S 姐你不在的人生真的很辛苦",
@@ -19,11 +27,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 785694,
+      "num": 122635,
+      "word": "张慧贤给万鹏道歉",
+      "onboard_time": 1760745379,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 578248,
       "num": 895847,
       "word": "上海",
       "onboard_time": 1760740035,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 576277,
+      "num": 123225,
+      "word": "网约车司机中途赶客乘客秒懂下车",
+      "onboard_time": 1760748741,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -35,12 +59,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 491468,
+      "num": 1078635,
+      "word": "iPhone天气你可能真的不会用",
+      "onboard_time": 1760746700,
+      "rank": 0,
+      "category": "数码"
+    },
+    {
       "raw_hot": 477445,
       "num": 191939,
       "word": "黄子韬徐艺洋晒婚礼照",
       "onboard_time": 1760715203,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 469050,
+      "num": 123188,
+      "word": "黄子韬松开徐艺洋挽刘宇宁",
+      "onboard_time": 1760743698,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 458474,
+      "num": 458474,
+      "word": "韩四大集团CEO将赴海湖庄园",
+      "onboard_time": 1760746700,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 443137,
@@ -83,6 +131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 266841,
+      "num": 266841,
+      "word": "上海暴雨",
+      "onboard_time": 1760743577,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256543,
       "num": 256543,
       "word": "5家企业涉嫌支持台军心战大队",
@@ -107,12 +163,52 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 245144,
+      "num": 122855,
+      "word": "民政局回应老人扎堆领结婚证",
+      "onboard_time": 1760749281,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227005,
+      "num": 227005,
+      "word": "王者荣耀 河灯",
+      "onboard_time": 1760750421,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207215,
       "num": 219356,
       "word": "杨力维杨舒予父亲去世",
       "onboard_time": 1760691200,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190459,
+      "num": 122340,
+      "word": "黄子韬给徐艺洋戴黄金皇冠",
+      "onboard_time": 1760747360,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 184212,
+      "num": 121825,
+      "word": "黄金大跳水原因",
+      "onboard_time": 1760749581,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 181291,
+      "num": 122118,
+      "word": "邓莎老公路行持股市值不足5000万",
+      "onboard_time": 1760748141,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 170538,
@@ -203,11 +299,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130175,
-      "num": 88213,
-      "word": "黄子韬松开徐艺洋挽刘宇宁",
-      "onboard_time": 1760743698,
-      "rank": 17,
+      "raw_hot": 128799,
+      "num": 121598,
+      "word": "澳门CoCo姐负债千万不舍卖劳斯莱斯",
+      "onboard_time": 1760749761,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 125801,
+      "num": 94598,
+      "word": "刘品言挺8个月孕肚走红毯",
+      "onboard_time": 1760748622,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -219,11 +323,27 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110859,
-      "num": 110859,
+      "raw_hot": 124077,
+      "num": 124077,
+      "word": "上海打雷",
+      "onboard_time": 1760740035,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123711,
+      "num": 123711,
       "word": "缅北徐老发暴力性不亚于四大家族",
       "onboard_time": 1760712025,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117435,
+      "num": 117435,
+      "word": "妈妈看店半天没卖出儿子5分钟开单",
+      "onboard_time": 1760745079,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -233,6 +353,14 @@
       "onboard_time": 1760716821,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107899,
+      "num": 107899,
+      "word": "英安德鲁王子放弃王室头衔",
+      "onboard_time": 1760745258,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 107402,
@@ -275,20 +403,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100524,
-      "num": 100524,
-      "word": "上海暴雨",
-      "onboard_time": 1760743577,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95922,
       "num": 95922,
       "word": "金价暴涨男子买黄金反亏千元",
       "onboard_time": 1760712203,
       "rank": 35,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 95314,
+      "num": 95314,
+      "word": "如果一个人长期不工作",
+      "onboard_time": 1760743159,
+      "rank": 36,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 94878,
@@ -299,11 +427,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94757,
+      "num": 94757,
+      "word": "Tabe承认BP失误",
+      "onboard_time": 1760746521,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92308,
       "num": 92308,
       "word": "男子回酒店惊现一只猴坐床上",
       "onboard_time": 1760714302,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92017,
+      "num": 94541,
+      "word": "景德镇胡女士回忆一家三口陆续离世",
+      "onboard_time": 1760747061,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -331,12 +475,28 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 85435,
+      "num": 94419,
+      "word": "时尚品牌创始人坠崖儿子涉嫌谋杀",
+      "onboard_time": 1760747121,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 85017,
       "num": 85017,
       "word": "董事长爷爷带孙女参观他的公司",
       "onboard_time": 1760711546,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81050,
+      "num": 94217,
+      "word": "真正缓解便秘的3种食物",
+      "onboard_time": 1760743220,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 80922,
@@ -353,6 +513,14 @@
       "onboard_time": 1760694861,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 79164,
+      "num": 94190,
+      "word": "广东人终于不用穿短袖了",
+      "onboard_time": 1760749281,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75484,
@@ -379,6 +547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 70435,
+      "num": 93985,
+      "word": "全红婵十五运证件照",
+      "onboard_time": 1760751681,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68206,
       "num": 80191,
       "word": "邓紫棋演唱会",
@@ -395,6 +571,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66572,
+      "num": 93842,
+      "word": "特朗普对进口中重卡征收25%关税",
+      "onboard_time": 1760749100,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 65029,
+      "num": 93718,
+      "word": "套内114平花费19万装修的家",
+      "onboard_time": 1760749700,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 64976,
       "num": 79522,
       "word": "王楚钦大气请队友吃饭",
@@ -403,12 +595,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62292,
+      "num": 93480,
+      "word": "睡觉时自己盖好被子的小狗",
+      "onboard_time": 1760751441,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 61216,
       "num": 72699,
       "word": "民警回应找到失联女童瞬间落泪",
       "onboard_time": 1760726418,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61165,
+      "num": 93471,
+      "word": "果然狗是狗边牧是边牧",
+      "onboard_time": 1760749221,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 60306,
@@ -435,14 +643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55572,
-      "num": 62527,
-      "word": "真正缓解便秘的3种食物",
-      "onboard_time": 1760743220,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 54576,
       "num": 46136,
       "word": "小S",
@@ -456,14 +656,6 @@
       "word": "请积极夺回你的注意力",
       "onboard_time": 1760719698,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 52403,
-      "num": 62457,
-      "word": "上海打雷",
-      "onboard_time": 1760743878,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -508,19 +700,11 @@
     },
     {
       "raw_hot": 44278,
-      "num": 67945,
+      "num": 94648,
       "word": "入青云",
       "onboard_time": 1760742977,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43021,
-      "num": 62331,
-      "word": "如果一个人长期不工作",
-      "onboard_time": 1760743159,
-      "rank": 36,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 38521,
@@ -532,7 +716,7 @@
     },
     {
       "raw_hot": 35699,
-      "num": 295379,
+      "num": 344846,
       "word": "今天起传递这颗红星",
       "onboard_time": 1760706802,
       "rank": 2,
@@ -609,6 +793,14 @@
       "onboard_time": 1760744119,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15594,
+      "num": 94081,
+      "word": "汽车产业将走向何方",
+      "onboard_time": 1760749281,
+      "rank": 39,
+      "category": "汽车"
     },
     {
       "raw_hot": 14157,

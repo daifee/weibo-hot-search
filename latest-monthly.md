@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 07:36:49
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 09:46:29
 </p>
 </blockquote>
 <p>
@@ -1257,6 +1257,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E9%B9%8F%20%E7%AC%91%E8%84%B8%E7%BB%99%E5%A4%9A%E4%BA%86%E6%83%AF%E7%9A%84%E9%83%BD%E6%98%AF%E7%97%85%23" target="weibo">
+万鹏 笑脸给多了惯的都是病（热度：1079225）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BA%84%E6%94%B6%E8%B4%B9%E7%AB%99%20%E9%9C%87%E6%92%BC%23" target="weibo">
 吴庄收费站 震撼（热度：1078242）
 </a>
@@ -2405,6 +2411,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%80%E4%B8%87%E4%BB%A5%E4%B8%8B%E7%9A%84%E7%90%86%E8%B4%A2%E6%96%B9%E6%B3%95%23" target="weibo">
 月收入一万以下的理财方法（热度：786563）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%85%A7%E8%B4%A4%E7%BB%99%E4%B8%87%E9%B9%8F%E9%81%93%E6%AD%89%23" target="weibo">
+张慧贤给万鹏道歉（热度：785694）
 </a>
 </li>
 
@@ -3867,6 +3879,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A6%E8%BD%A6%E5%8F%B8%E6%9C%BA%E4%B8%AD%E9%80%94%E8%B5%B6%E5%AE%A2%E4%B9%98%E5%AE%A2%E7%A7%92%E6%87%82%E4%B8%8B%E8%BD%A6%23" target="weibo">
+网约车司机中途赶客乘客秒懂下车（热度：576277）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E4%B8%80%E4%BE%A8%E9%AA%97%E4%BA%8615%E5%B9%B4%E5%A5%B6%E5%A5%B6%E4%BF%A1%E4%BA%8615%E5%B9%B4%23" target="weibo">
 蒋一侨骗了15年奶奶信了15年（热度：576222）
 </a>
@@ -4965,6 +4983,12 @@ iPhone的一生要经历三次死亡（热度：494807）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone%E5%A4%A9%E6%B0%94%E4%BD%A0%E5%8F%AF%E8%83%BD%E7%9C%9F%E7%9A%84%E4%B8%8D%E4%BC%9A%E7%94%A8%23" target="weibo">
+iPhone天气你可能真的不会用（热度：491468）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%A9%AC%E6%80%9D%E7%BA%AF%E8%AF%B4%E7%9A%84%E8%BF%99%E4%B8%AA%E4%BA%BA%E6%98%AF%E6%9D%A8%E7%B4%AB%23" target="weibo">
 原来马思纯说的这个人是杨紫（热度：491167）
 </a>
@@ -5325,6 +5349,12 @@ TheShy回应上单韦鲁斯（热度：477977）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E6%9D%BE%E5%BC%80%E5%BE%90%E8%89%BA%E6%B4%8B%E6%8C%BD%E5%88%98%E5%AE%87%E5%AE%81%23" target="weibo">
+黄子韬松开徐艺洋挽刘宇宁（热度：469050）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B8%A9%E6%8C%87%E5%8E%8B%E6%9D%BF20%E5%88%86%E9%92%9F%E8%84%9A%E5%BA%95%E5%96%B7%E8%A1%80%23" target="weibo">
 女子踩指压板20分钟脚底喷血（热度：469044）
 </a>
@@ -5435,6 +5465,12 @@ TaylorSwift忘了通知EdSheeran订婚（热度：461697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%86%A0%E5%86%9B%23" target="weibo">
 王曼昱冠军（热度：458804）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%9B%E5%A4%A7%E9%9B%86%E5%9B%A2CEO%E5%B0%86%E8%B5%B4%E6%B5%B7%E6%B9%96%E5%BA%84%E5%9B%AD%23" target="weibo">
+韩四大集团CEO将赴海湖庄园（热度：458474）
 </a>
 </li>
 
@@ -5975,42 +6011,6 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9B%9E%E5%9B%BD%23" target="weibo">
 迪丽热巴回国（热度：427342）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%B8%80%E9%B8%A3%E6%9B%9D%E9%97%AA%E9%97%AA%E8%A6%81%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
-黄一鸣曝闪闪要回来了（热度：426707）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E9%A6%99%E6%B8%AF%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%9C%A8%E5%8F%B0%E8%BD%A6%E7%AB%99%E9%81%AD%E6%80%A7%E4%BE%B5%23" target="weibo">
-警方回应香港女游客在台车站遭性侵（热度：426522）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%81%8A%E5%A4%A9%E8%BF%99%E6%A0%B7%E7%BB%93%E5%B0%BE%E7%9A%84%E4%BA%BA%E5%BE%80%E5%BE%80%E5%BE%88%E5%9C%A8%E4%B9%8E%E4%BD%A0%23" target="weibo">
-聊天这样结尾的人往往很在乎你（热度：426285）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%8F%E4%BC%99%E4%B8%8E%E5%A5%B3%E5%8F%8B%E5%90%83%E9%A5%AD%E8%A2%AB%E9%93%90%E8%B5%B0%23" target="weibo">
-警方回应小伙与女友吃饭被铐走（热度：426263）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%94%9F%E8%87%AA%E5%B7%B1%E7%9A%844399%23" target="weibo">
-研究生自己的4399（热度：425826）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B0%86%E5%AE%A3%E5%B8%83%E9%87%8D%E5%A4%A7%E5%86%B3%E7%AD%96%23" target="weibo">
-詹姆斯将宣布重大决策（热度：425582）
 </a>
 </li>
 
