@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760805786201,
+  "endTime": 1760808016786,
   "band_list": [
     {
       "raw_hot": 995617,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 508868,
+      "num": 531436,
+      "word": "北京下雪了",
+      "onboard_time": 1760805440,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 487490,
       "num": 454257,
       "word": "请求核查野人男孩父母收入来源",
@@ -49,6 +57,14 @@
       "onboard_time": 1760800763,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 352183,
+      "num": 457854,
+      "word": "今年秋冬或形成一次弱拉尼娜事件",
+      "onboard_time": 1760804722,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 291634,
@@ -171,14 +187,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125529,
-      "num": 457854,
-      "word": "今年秋冬或形成一次弱拉尼娜事件",
-      "onboard_time": 1760804722,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119775,
       "num": 456250,
       "word": "猴哥已在南宁小区住5天了",
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106397,
+      "num": 97423,
+      "word": "杨老一路走好",
+      "onboard_time": 1760787802,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102775,
       "num": 189305,
       "word": "南京vs泰州",
@@ -249,14 +265,6 @@
       "onboard_time": 1760796803,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 97423,
-      "num": 97423,
-      "word": "杨老一路走好",
-      "onboard_time": 1760787802,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 91848,
@@ -339,14 +347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 72836,
-      "num": 74495,
-      "word": "北京下雪了",
-      "onboard_time": 1760805440,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 72400,
       "num": 74458,
       "word": "周深退场临时改变方案",
@@ -417,6 +417,30 @@
       "onboard_time": 1760801543,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48844,
+      "num": 64598,
+      "word": "肖战数红包",
+      "onboard_time": 1760806340,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 43141,
+      "num": 64587,
+      "word": "汪苏泷演唱会现场点奶茶都是坑",
+      "onboard_time": 1760807778,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 40774,
+      "num": 64577,
+      "word": "每个省都有自己专属应急食物",
+      "onboard_time": 1760807718,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 2175,
