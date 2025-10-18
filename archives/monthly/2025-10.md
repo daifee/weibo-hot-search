@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 00:28:53
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 00:43:06
 </p>
 </blockquote>
 <p>
@@ -5367,6 +5367,12 @@ iPhone的一生要经历三次死亡（热度：494807）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%B1%82%E6%A0%B8%E6%9F%A5%E9%87%8E%E4%BA%BA%E7%94%B7%E5%AD%A9%E7%88%B6%E6%AF%8D%E6%94%B6%E5%85%A5%E6%9D%A5%E6%BA%90%23" target="weibo">
+请求核查野人男孩父母收入来源（热度：487490）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iG%E5%9B%9E%E5%AE%B6%23" target="weibo">
 iG回家（热度：487321）
 </a>
@@ -5655,12 +5661,6 @@ TheShy回应上单韦鲁斯（热度：477977）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%B1%82%E6%A0%B8%E6%9F%A5%E9%87%8E%E4%BA%BA%E7%94%B7%E5%AD%A9%E7%88%B6%E6%AF%8D%E6%94%B6%E5%85%A5%E6%9D%A5%E6%BA%90%23" target="weibo">
-请求核查野人男孩父母收入来源（热度：471313）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8C%AB%E5%9B%A2%E9%98%9F%20%E7%81%B5%E9%9A%90%E5%AF%BA%23" target="weibo">
 天猫团队 灵隐寺（热度：471157）
 </a>
@@ -5883,6 +5883,12 @@ UNINE合体（热度：458011）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E9%9F%B3%E4%B9%90%E8%8A%82%E6%B2%A1%E6%8A%A5%E5%A4%87%E7%89%88%E7%BE%8E%E7%BE%8ESunday%23" target="weibo">
+沈佳润音乐节没报备版美美Sunday（热度：454179）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E8%AF%B4%E6%9C%89%E7%82%B9%E4%B8%8D%E6%95%A2%E6%8E%A5%E9%9F%B3%E4%B9%90%E8%8A%82%E4%BA%86%23" target="weibo">
 薛之谦说有点不敢接音乐节了（热度：453879）
 </a>
@@ -6005,12 +6011,6 @@ S15瑞士轮第三轮抽签（热度：449595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E9%80%A0%E5%9E%8B%E5%B8%88%E4%B8%8A%E7%83%AD%E6%90%9C%E5%90%8E%E7%AB%8B%E9%A9%AC%E6%8D%A2%E8%A1%A3%E6%9C%8D%E4%BA%86%23" target="weibo">
 李沁造型师上热搜后立马换衣服了（热度：448737）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%23" target="weibo">
-诺贝尔物理学奖（热度：447754）
 </a>
 </li>
 
