@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 18:24:42
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 18:40:35
 </p>
 </blockquote>
 <p>
@@ -1611,6 +1611,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E4%BB%BB%E6%95%8F%23" target="weibo">
+这居然是任敏（热度：985249）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E4%BB%99%E5%A5%B3%E6%95%A3%E7%9A%84%E6%98%AF%E5%81%87%E8%8A%B1%23" target="weibo">
 景区回应仙女散的是假花（热度：980225）
 </a>
@@ -2325,6 +2331,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%A1%E8%AF%85%E5%92%925%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%94%B1%E6%AD%8C%E7%94%B7%E5%AD%90%E5%B7%B2%E9%81%93%E6%AD%89%23" target="weibo">
+死亡诅咒5岁女童唱歌男子已道歉（热度：817794）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%AF%E5%92%8C%E4%BA%95%E6%9F%8F%E7%84%B6%E7%A5%9D%E5%A4%A7%E5%AE%B6%E4%B8%AD%E7%A7%8B%E5%BF%AB%E4%B9%90%23" target="weibo">
 刘雯和井柏然祝大家中秋快乐（热度：815960）
 </a>
@@ -2685,12 +2697,6 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E4%BB%BB%E6%95%8F%23" target="weibo">
-这居然是任敏（热度：753092）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%9A%84%E9%81%93%E6%AD%89%E6%96%B9%E5%BC%8F%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
 原来小说里的道歉方式都是真的（热度：752959）
 </a>
@@ -2855,12 +2861,6 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92%23" target="weibo">
 王皓脸色铁青（热度：713915）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%A1%E8%AF%85%E5%92%925%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%94%B1%E6%AD%8C%E7%94%B7%E5%AD%90%E5%B7%B2%E9%81%93%E6%AD%89%23" target="weibo">
-死亡诅咒5岁女童唱歌男子已道歉（热度：713268）
 </a>
 </li>
 
@@ -3617,6 +3617,12 @@ JDG战胜狼队（热度：630844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E31%E5%B2%81%E6%B4%BE%E5%87%BA%E6%89%80%E5%89%AF%E6%89%80%E9%95%BF%E5%9B%A0%E5%85%AC%E7%89%BA%E7%89%B2%23" target="weibo">
 贵州31岁派出所副所长因公牺牲（热度：617719）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD%E6%94%BE%E5%BC%83%E6%8A%B5%E6%8A%97%E9%87%87%E7%94%A8%E9%87%8E%E8%8F%9CF4%23" target="weibo">
+红山动物园放弃抵抗采用野菜F4（热度：617572）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ B站崩了（热度：442971）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E5%9B%9E%E5%BA%94%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E8%AE%B8%E5%A6%8D%E9%85%8D%E9%9F%B3%23" target="weibo">
 配音演员回应许我耀眼许妍配音（热度：442736）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%A4%B1%E8%B8%AA4%E5%B9%B4%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%97%B6%E5%B7%B2%E6%88%90%E5%B9%B2%E5%B0%B8%23" target="weibo">
-姐姐失踪4年被发现时已成干尸（热度：442684）
 </a>
 </li>
 

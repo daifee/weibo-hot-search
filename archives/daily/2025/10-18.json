@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760783082074,
+  "endTime": 1760784035610,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 985249,
+      "num": 233007,
+      "word": "这居然是任敏",
+      "onboard_time": 1760777782,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 964839,
       "num": 711320,
       "word": "狼人杀腿毛去世",
@@ -168,6 +176,14 @@
       "word": "飞韩国的航班行李架起火",
       "onboard_time": 1760768126,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 817794,
+      "num": 259714,
+      "word": "死亡诅咒5岁女童唱歌男子已道歉",
+      "onboard_time": 1760778023,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -195,28 +211,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 753092,
-      "num": 233007,
-      "word": "这居然是任敏",
-      "onboard_time": 1760777782,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 732112,
       "num": 366562,
       "word": "赛琳娜回应海莉",
       "onboard_time": 1760764172,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 713268,
-      "num": 259714,
-      "word": "死亡诅咒5岁女童唱歌男子已道歉",
-      "onboard_time": 1760778023,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 624727,
@@ -233,6 +233,14 @@
       "onboard_time": 1760768426,
       "rank": 3,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 617572,
+      "num": 1098811,
+      "word": "红山动物园放弃抵抗采用野菜F4",
+      "onboard_time": 1760781742,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 600529,
@@ -499,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 311858,
+      "num": 221002,
+      "word": "国民党今日选出新主席",
+      "onboard_time": 1760781502,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 308158,
       "num": 254554,
       "word": "Faker回应Karsa致敬",
@@ -755,22 +771,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 229320,
-      "num": 172541,
-      "word": "国民党今日选出新主席",
-      "onboard_time": 1760781502,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 225193,
-      "num": 225193,
-      "word": "红山动物园放弃抵抗采用野菜F4",
-      "onboard_time": 1760781742,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224469,
       "num": 224469,
       "word": "安世半导体通知中国员工停薪",
@@ -820,7 +820,7 @@
     },
     {
       "raw_hot": 208986,
-      "num": 172540,
+      "num": 204381,
       "word": "杨振宁20年前预言已基本实现",
       "onboard_time": 1760781621,
       "rank": 22,
@@ -963,6 +963,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 187434,
+      "num": 187434,
+      "word": "四十万先买车还是先买房",
+      "onboard_time": 1760780182,
+      "rank": 32,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 187393,
       "num": 369649,
       "word": "无期迷途",
@@ -985,6 +993,14 @@
       "onboard_time": 1760764890,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183144,
+      "num": 183144,
+      "word": "入青云仙侣约会日",
+      "onboard_time": 1760783963,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 180439,
@@ -1043,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173263,
+      "num": 173263,
+      "word": "白鹿cha了宋雨琦mo",
+      "onboard_time": 1760780061,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172632,
       "num": 172632,
       "word": "金饰克价跌到1262元",
@@ -1065,14 +1089,6 @@
       "onboard_time": 1760778983,
       "rank": 18,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 172458,
-      "num": 172458,
-      "word": "四十万先买车还是先买房",
-      "onboard_time": 1760780182,
-      "rank": 32,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 171507,
@@ -1235,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151238,
+      "num": 151238,
+      "word": "长沙1对情侣撞脸欧豪和刘浩存",
+      "onboard_time": 1760780721,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151072,
       "num": 151072,
       "word": "只要你谈过几次恋爱就会发现",
@@ -1265,14 +1289,6 @@
       "onboard_time": 1760777722,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 143775,
-      "num": 143775,
-      "word": "长沙1对情侣撞脸欧豪和刘浩存",
-      "onboard_time": 1760780721,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 141510,
@@ -1331,12 +1347,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 137644,
-      "num": 137644,
-      "word": "白鹿cha了宋雨琦mo",
-      "onboard_time": 1760780061,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 138183,
+      "num": 138183,
+      "word": "东北丧尸末世文",
+      "onboard_time": 1760783424,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 137043,
@@ -1345,6 +1361,14 @@
       "onboard_time": 1760768485,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136982,
+      "num": 136982,
+      "word": "用一年九个月还清30万欠款",
+      "onboard_time": 1760783122,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 135526,
@@ -1401,6 +1425,14 @@
       "onboard_time": 1760700383,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131539,
+      "num": 131539,
+      "word": "空腹爬楼四个月瘦20斤",
+      "onboard_time": 1760783662,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 130583,
@@ -1483,6 +1515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123354,
+      "num": 122167,
+      "word": "qko回应给赵磊粉丝退钱",
+      "onboard_time": 1760781202,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122513,
       "num": 130117,
       "word": "梁淞一个人扛起了再见爱人的笑点",
@@ -1507,19 +1547,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120875,
-      "num": 120875,
-      "word": "qko回应给赵磊粉丝退钱",
-      "onboard_time": 1760781202,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 120700,
       "num": 120700,
       "word": "邓稼先杨振宁最后一次见面",
       "onboard_time": 1760777902,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120205,
+      "num": 120205,
+      "word": "奥本海默是杨振宁同事",
+      "onboard_time": 1760783483,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -1529,6 +1569,14 @@
       "onboard_time": 1760757090,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119469,
+      "num": 119469,
+      "word": "喻言被认证团内美女",
+      "onboard_time": 1760780782,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 118782,
@@ -1561,6 +1609,14 @@
       "onboard_time": 1760763094,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117509,
+      "num": 231964,
+      "word": "BLG对战G2",
+      "onboard_time": 1760782763,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 116549,
@@ -1603,6 +1659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111290,
+      "num": 111290,
+      "word": "深圳新鹏城2比1北京国安",
+      "onboard_time": 1760783722,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110122,
       "num": 110122,
       "word": "周深又来音综闯祸了",
@@ -1643,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107957,
+      "num": 107957,
+      "word": "龚俊新剧显示器分辨率不够用了",
+      "onboard_time": 1760782883,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107702,
       "num": 107702,
       "word": "河村勇辉被公牛裁掉",
@@ -1657,22 +1729,6 @@
       "onboard_time": 1760707282,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 107168,
-      "num": 107168,
-      "word": "BLG对战G2",
-      "onboard_time": 1760782763,
-      "rank": 40,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 106909,
-      "num": 106909,
-      "word": "喻言被认证团内美女",
-      "onboard_time": 1760780782,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 106663,
@@ -1811,14 +1867,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 99641,
-      "num": 99641,
-      "word": "龚俊新剧显示器分辨率不够用了",
-      "onboard_time": 1760782883,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99590,
       "num": 99590,
       "word": "Faker打GEN赛前闭眼",
@@ -1947,6 +1995,14 @@
       "category": "网红,民生新闻"
     },
     {
+      "raw_hot": 85920,
+      "num": 219357,
+      "word": "李政道儿子悼念杨振宁",
+      "onboard_time": 1760783302,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85588,
       "num": 233127,
       "word": "中国歼10把美国F15的订单挤了",
@@ -2033,6 +2089,14 @@
       "onboard_time": 1760751681,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73635,
+      "num": 100344,
+      "word": "华为云CEO张平安连降三等",
+      "onboard_time": 1760783302,
+      "rank": 49,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 73366,
@@ -2267,6 +2331,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 44429,
+      "num": 118865,
+      "word": "董璇探班张维伊",
+      "onboard_time": 1760783424,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42074,
       "num": 427305,
       "word": "北京惊现野人部落",
@@ -2396,7 +2468,7 @@
     },
     {
       "raw_hot": 24524,
-      "num": 172541,
+      "num": 224226,
       "word": "浪浪友人部落人人人人人人",
       "onboard_time": 1760781683,
       "rank": 14,
@@ -2460,7 +2532,7 @@
     },
     {
       "raw_hot": 17084,
-      "num": 107331,
+      "num": 118596,
       "word": "真正的黑钻至臻补给",
       "onboard_time": 1760781683,
       "rank": 39,
@@ -2492,7 +2564,7 @@
     },
     {
       "raw_hot": 10938,
-      "num": 298515,
+      "num": 305338,
       "word": "红星照耀中国",
       "onboard_time": 1760593821,
       "rank": 34,

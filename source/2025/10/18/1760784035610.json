@@ -1,0 +1,410 @@
+{
+  "runTime": 1760784035610,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 617572,
+        "num": 1098811,
+        "word": "红山动物园放弃抵抗采用野菜F4",
+        "onboard_time": 1760781742,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406378,
+        "num": 406378,
+        "word": "GEN战胜T1",
+        "onboard_time": 1760781683,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 9353,
+        "num": 305338,
+        "word": "红星照耀中国",
+        "onboard_time": 1760593821,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 273997,
+        "num": 273997,
+        "word": "飞韩国的航班行李架起火",
+        "onboard_time": 1760768126,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235051,
+        "num": 235051,
+        "word": "李在明女翻译因高颜值走红",
+        "onboard_time": 1760773463,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 854515,
+        "num": 234544,
+        "word": "杨振宁逝世",
+        "onboard_time": 1760761410,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291364,
+        "num": 233086,
+        "word": "西南联大五才子仅剩一人",
+        "onboard_time": 1760777603,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117509,
+        "num": 231964,
+        "word": "BLG对战G2",
+        "onboard_time": 1760782763,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104304,
+        "num": 231407,
+        "word": "曝iG多位选手已续约",
+        "onboard_time": 1760777541,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103272,
+        "num": 230715,
+        "word": "当了反派才知道自己人缘有多差",
+        "onboard_time": 1760777963,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 985249,
+        "num": 228835,
+        "word": "这居然是任敏",
+        "onboard_time": 1760777782,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 817794,
+        "num": 227474,
+        "word": "死亡诅咒5岁女童唱歌男子已道歉",
+        "onboard_time": 1760778023,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507254,
+        "num": 227207,
+        "word": "杨振宁曾回应自己去世翁帆怎么办",
+        "onboard_time": 1760767046,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474371,
+        "num": 225918,
+        "word": "时代峰峻要告数据组",
+        "onboard_time": 1760773642,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23870,
+        "num": 224226,
+        "word": "浪浪友人部落人人人人人人",
+        "onboard_time": 1760781683,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 604434,
+        "num": 224126,
+        "word": "陈伟霆不用偷别人家的小孩了",
+        "onboard_time": 1760775982,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596454,
+        "num": 222215,
+        "word": "野人小孩母亲衣着暴露不穿完整衣服",
+        "onboard_time": 1760775562,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311858,
+        "num": 221002,
+        "word": "国民党今日选出新主席",
+        "onboard_time": 1760781502,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256026,
+        "num": 220868,
+        "word": "林心如孕期没有和霍建华一直在一块",
+        "onboard_time": 1760769325,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85920,
+        "num": 219357,
+        "word": "李政道儿子悼念杨振宁",
+        "onboard_time": 1760783302,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218812,
+        "num": 218812,
+        "word": "杨振宁讣告",
+        "onboard_time": 1760762914,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204381,
+        "num": 204381,
+        "word": "杨振宁20年前预言已基本实现",
+        "onboard_time": 1760781621,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201885,
+        "num": 201885,
+        "word": "陈伟霆长情",
+        "onboard_time": 1760777422,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187434,
+        "num": 187434,
+        "word": "四十万先买车还是先买房",
+        "onboard_time": 1760780182,
+        "rank": 23,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 89855,
+        "num": 184173,
+        "word": "GEN对战T1",
+        "onboard_time": 1760778983,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183144,
+        "num": 183144,
+        "word": "入青云仙侣约会日",
+        "onboard_time": 1760783963,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173890,
+        "num": 173890,
+        "word": "那是刘雯 那是奚梦瑶",
+        "onboard_time": 1760760806,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173263,
+        "num": 173263,
+        "word": "白鹿cha了宋雨琦mo",
+        "onboard_time": 1760780061,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151238,
+        "num": 151238,
+        "word": "长沙1对情侣撞脸欧豪和刘浩存",
+        "onboard_time": 1760780721,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149097,
+        "num": 149097,
+        "word": "金价银价大跳水",
+        "onboard_time": 1760752102,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138183,
+        "num": 138183,
+        "word": "东北丧尸末世文",
+        "onboard_time": 1760783424,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136982,
+        "num": 136982,
+        "word": "用一年九个月还清30万欠款",
+        "onboard_time": 1760783122,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131539,
+        "num": 131539,
+        "word": "空腹爬楼四个月瘦20斤",
+        "onboard_time": 1760783662,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 122303,
+        "num": 122303,
+        "word": "杨振宁曾谈高龄恢复中国籍",
+        "onboard_time": 1760769085,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123354,
+        "num": 122167,
+        "word": "qko回应给赵磊粉丝退钱",
+        "onboard_time": 1760781202,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120205,
+        "num": 120205,
+        "word": "奥本海默是杨振宁同事",
+        "onboard_time": 1760783483,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119965,
+        "num": 119965,
+        "word": "卢昱晓 偏偏你最争气",
+        "onboard_time": 1760775742,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119469,
+        "num": 119469,
+        "word": "喻言被认证团内美女",
+        "onboard_time": 1760780782,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44429,
+        "num": 118865,
+        "word": "董璇探班张维伊",
+        "onboard_time": 1760783424,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10113,
+        "num": 118596,
+        "word": "真正的黑钻至臻补给",
+        "onboard_time": 1760781683,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118342,
+        "num": 118342,
+        "word": "办银行卡 多重审核",
+        "onboard_time": 1760775083,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118262,
+        "num": 118262,
+        "word": "3个千万不能洗澡的时间段",
+        "onboard_time": 1760771365,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 119088,
+        "num": 115942,
+        "word": "杨振宁享年103岁",
+        "onboard_time": 1760762318,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111290,
+        "num": 111290,
+        "word": "深圳新鹏城2比1北京国安",
+        "onboard_time": 1760783722,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107957,
+        "num": 107957,
+        "word": "龚俊新剧显示器分辨率不够用了",
+        "onboard_time": 1760782883,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107736,
+        "num": 107736,
+        "word": "狼人杀腿毛去世",
+        "onboard_time": 1760761167,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105605,
+        "num": 105605,
+        "word": "野人小孩和父母住在房车上",
+        "onboard_time": 1760778263,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105488,
+        "num": 105488,
+        "word": "送别杨振宁",
+        "onboard_time": 1760762138,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104445,
+        "num": 104445,
+        "word": "女子一袋银镯遗忘两年狂赚7万多",
+        "onboard_time": 1760773943,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73635,
+        "num": 100344,
+        "word": "华为云CEO张平安连降三等",
+        "onboard_time": 1760783302,
+        "rank": 49,
+        "category": "互联网,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平经济思想引领新时代经济工作#"
+    }
+  }
+}
