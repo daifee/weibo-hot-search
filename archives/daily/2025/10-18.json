@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760797311985,
+  "endTime": 1760798302136,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -288,6 +288,14 @@
       "word": "赛琳娜回应海莉",
       "onboard_time": 1760764172,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 714336,
+      "num": 257757,
+      "word": "曾舜晞送走汤唯牵走白鹿",
+      "onboard_time": 1760797043,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -611,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 364763,
+      "num": 255954,
+      "word": "乘客开门杀撞伤人司机被判赔200万",
+      "onboard_time": 1760796083,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349312,
       "num": 668934,
       "word": "入青云",
@@ -651,12 +667,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 334090,
-      "num": 224298,
-      "word": "曾舜晞送走汤唯牵走白鹿",
-      "onboard_time": 1760797043,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 332570,
+      "num": 248151,
+      "word": "寿命长的人脖子一般有5个特征",
+      "onboard_time": 1760796982,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 327166,
@@ -843,14 +859,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 261125,
-      "num": 208842,
-      "word": "寿命长的人脖子一般有5个特征",
-      "onboard_time": 1760796982,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 259933,
       "num": 758381,
       "word": "iPhone17全系包揽销量榜前三",
@@ -939,6 +947,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 242580,
+      "num": 242580,
+      "word": "新加坡的印度人",
+      "onboard_time": 1760796803,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 241364,
       "num": 241364,
       "word": "苗苗把种子倒进了袜子里",
@@ -1011,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216066,
+      "num": 216066,
+      "word": "黄宗泽恭喜陈伟霆当爸爸",
+      "onboard_time": 1760797284,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215340,
       "num": 506686,
       "word": "花儿与少年",
@@ -1043,8 +1067,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 207712,
-      "num": 207712,
+      "raw_hot": 208910,
+      "num": 208910,
       "word": "王俊凯又来炸场了",
       "onboard_time": 1760796864,
       "rank": 24,
@@ -1097,14 +1121,6 @@
       "onboard_time": 1760763692,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 203125,
-      "num": 190939,
-      "word": "新加坡的印度人",
-      "onboard_time": 1760796803,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 202428,
@@ -1233,14 +1249,6 @@
       "onboard_time": 1760786122,
       "rank": 31,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 191923,
-      "num": 191923,
-      "word": "黄宗泽恭喜陈伟霆当爸爸",
-      "onboard_time": 1760797284,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 190459,
@@ -1459,6 +1467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173366,
+      "num": 173366,
+      "word": "DRG爆冷击败狼队",
+      "onboard_time": 1760797704,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 173263,
       "num": 173263,
       "word": "白鹿cha了宋雨琦mo",
@@ -1627,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160612,
+      "num": 160612,
+      "word": "这居然是者来女",
+      "onboard_time": 1760796743,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160595,
       "num": 160595,
       "word": "吃水煮菜减肥的受害者出现了",
@@ -1659,12 +1683,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158692,
-      "num": 158692,
-      "word": "这居然是者来女",
-      "onboard_time": 1760796743,
-      "rank": 36,
-      "category": "演出"
+      "raw_hot": 158606,
+      "num": 158606,
+      "word": "中国游客去夏威夷被原住民骂",
+      "onboard_time": 1760796803,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 157420,
@@ -1691,6 +1715,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 156327,
+      "num": 156327,
+      "word": "张予曦晚宴内场生视频",
+      "onboard_time": 1760797224,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156159,
       "num": 156159,
       "word": "林一的大衣能给我当被子盖",
@@ -1705,14 +1737,6 @@
       "onboard_time": 1760757570,
       "rank": 28,
       "category": "数码"
-    },
-    {
-      "raw_hot": 153383,
-      "num": 210562,
-      "word": "乘客开门杀撞伤人司机被判赔200万",
-      "onboard_time": 1760796083,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153004,
@@ -1771,14 +1795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144723,
-      "num": 144723,
-      "word": "中国游客去夏威夷被原住民骂",
-      "onboard_time": 1760796803,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 144511,
       "num": 234823,
       "word": "王牌后期是不是吃毒蘑菇了",
@@ -1793,6 +1809,14 @@
       "onboard_time": 1760777722,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 142989,
+      "num": 142989,
+      "word": "金靖编发高马尾",
+      "onboard_time": 1760797523,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 142226,
@@ -2227,6 +2251,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 116134,
+      "num": 116134,
+      "word": "圆明园复原后长这样",
+      "onboard_time": 1760797343,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115891,
       "num": 222617,
       "word": "33完全男神来的",
@@ -2337,6 +2369,14 @@
       "onboard_time": 1760768365,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 109689,
+      "num": 109689,
+      "word": "第一次用外酥里嫩来形容房子",
+      "onboard_time": 1760796982,
+      "rank": 49,
+      "category": "休闲"
     },
     {
       "raw_hot": 109300,
@@ -2875,6 +2915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 70127,
+      "num": 145687,
+      "word": "今年冬天会不会更冷",
+      "onboard_time": 1760798183,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68206,
       "num": 80191,
       "word": "邓紫棋演唱会",
@@ -3131,7 +3179,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40040,
+      "raw_hot": 41364,
       "num": 157350,
       "word": "30000元直角皮鞋被嘲俯卧撑专用",
       "onboard_time": 1760797043,
@@ -3211,6 +3259,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 29769,
+      "num": 256360,
+      "word": "这段高腔的含金量",
+      "onboard_time": 1760797043,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 29692,
       "num": 62085,
       "word": "喜人奇妙夜",
@@ -3249,14 +3305,6 @@
       "onboard_time": 1760767287,
       "rank": 14,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 27041,
-      "num": 221980,
-      "word": "这段高腔的含金量",
-      "onboard_time": 1760797043,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 25808,
@@ -3395,7 +3443,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 3128,
+      "raw_hot": 3269,
       "num": 487520,
       "word": "非凡十四五",
       "onboard_time": 1760706502,

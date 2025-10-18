@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 22:21:51
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 22:38:22
 </p>
 </blockquote>
 <p>
@@ -2903,6 +2903,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%BC%A0%E9%A6%A8%E4%BA%88%E5%B7%B4%E9%BB%8E%E8%A1%97%E5%A4%B4%E8%81%9A%E9%A4%90%23" target="weibo">
 迪丽热巴张馨予巴黎街头聚餐（热度：714651）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E9%80%81%E8%B5%B0%E6%B1%A4%E5%94%AF%E7%89%B5%E8%B5%B0%E7%99%BD%E9%B9%BF%23" target="weibo">
+曾舜晞送走汤唯牵走白鹿（热度：714336）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ S15瑞士轮第三轮抽签（热度：449595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E8%AE%A9%E5%A9%9A%E7%A4%BC%E8%B7%B3%E6%B2%B3%E7%9A%84%E7%97%9B%E6%88%90%E9%94%AE%E7%9B%98%E6%96%AD%E6%A1%88%E7%9A%84%E7%93%9C%23" target="weibo">
 别让婚礼跳河的痛成键盘断案的瓜（热度：445530）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23KT%E6%88%98%E8%83%9CTES%23" target="weibo">
-KT战胜TES（热度：445439）
 </a>
 </li>
 
