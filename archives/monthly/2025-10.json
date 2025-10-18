@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760808016786,
+  "endTime": 1760809013992,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -5139,6 +5139,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 601734,
+      "num": 601734,
+      "word": "北京下雪了",
+      "onboard_time": 1760805440,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 600529,
       "num": 600529,
       "word": "金价银价大跳水",
@@ -6681,14 +6689,6 @@
       "onboard_time": 1760512221,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 508868,
-      "num": 531436,
-      "word": "北京下雪了",
-      "onboard_time": 1760805440,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 508580,
@@ -54043,6 +54043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 64183,
+      "num": 64587,
+      "word": "汪苏泷演唱会现场点奶茶都是坑",
+      "onboard_time": 1760807778,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 64132,
       "num": 67463,
       "word": "有这个全自动洗头机你愿意天天洗头吗",
@@ -57129,14 +57137,6 @@
       "onboard_time": 1759357155,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43141,
-      "num": 64587,
-      "word": "汪苏泷演唱会现场点奶茶都是坑",
-      "onboard_time": 1760807778,
-      "rank": 45,
-      "category": "演出"
     },
     {
       "raw_hot": 42946,
