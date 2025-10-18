@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760780223624,
+  "endTime": 1760783082074,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -1291,6 +1291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 753092,
+      "num": 233007,
+      "word": "这居然是任敏",
+      "onboard_time": 1760777782,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 752959,
       "num": 294362,
       "word": "原来小说里的道歉方式都是真的",
@@ -1377,6 +1385,14 @@
       "onboard_time": 1760460199,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 713268,
+      "num": 259714,
+      "word": "死亡诅咒5岁女童唱歌男子已道歉",
+      "onboard_time": 1760778023,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 713252,
@@ -2299,6 +2315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 526738,
+      "num": 1084278,
+      "word": "GEN战胜T1",
+      "onboard_time": 1760781683,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 525204,
       "num": 525204,
       "word": "雷军被8000元小刀价格惊呆了",
@@ -2832,14 +2856,6 @@
       "word": "减肥减成杨幂了",
       "onboard_time": 1760698702,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 462321,
-      "num": 233007,
-      "word": "这居然是任敏",
-      "onboard_time": 1760777782,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -3491,6 +3507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 386098,
+      "num": 261989,
+      "word": "西南联大五才子仅剩一人",
+      "onboard_time": 1760777603,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385692,
       "num": 385692,
       "word": "广东海洋大学被曝住宿环境差",
@@ -3585,14 +3609,6 @@
       "onboard_time": 1760544262,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 371682,
-      "num": 261989,
-      "word": "西南联大五才子仅剩一人",
-      "onboard_time": 1760777603,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 369651,
@@ -5115,14 +5131,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 259714,
-      "num": 259714,
-      "word": "死亡诅咒5岁女童唱歌男子已道歉",
-      "onboard_time": 1760778023,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 259175,
       "num": 259175,
       "word": "小城良方",
@@ -5755,6 +5763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 229320,
+      "num": 172541,
+      "word": "国民党今日选出新主席",
+      "onboard_time": 1760781502,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 229099,
       "num": 285247,
       "word": "张予曦毕雯珺第二",
@@ -5873,6 +5889,14 @@
       "onboard_time": 1760599521,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 225193,
+      "num": 225193,
+      "word": "红山动物园放弃抵抗采用野菜F4",
+      "onboard_time": 1760781742,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224925,
@@ -6225,6 +6249,14 @@
       "onboard_time": 1760758411,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 208986,
+      "num": 172540,
+      "word": "杨振宁20年前预言已基本实现",
+      "onboard_time": 1760781621,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208585,
@@ -7987,12 +8019,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 172542,
+      "num": 272981,
+      "word": "GEN对战T1",
+      "onboard_time": 1760778983,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172497,
       "num": 83230,
       "word": "井迪一直不谈恋爱的原因",
       "onboard_time": 1760204419,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172458,
+      "num": 172458,
+      "word": "四十万先买车还是先买房",
+      "onboard_time": 1760780182,
+      "rank": 32,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 172271,
@@ -9763,14 +9811,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 146579,
-      "num": 146579,
-      "word": "四十万先买车还是先买房",
-      "onboard_time": 1760780182,
-      "rank": 32,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 146459,
       "num": 146459,
       "word": "vivo X300",
@@ -9825,14 +9865,6 @@
       "onboard_time": 1760498541,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 146037,
-      "num": 272981,
-      "word": "GEN对战T1",
-      "onboard_time": 1760778983,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 145997,
@@ -10033,6 +10065,14 @@
       "onboard_time": 1760517501,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143775,
+      "num": 143775,
+      "word": "长沙1对情侣撞脸欧豪和刘浩存",
+      "onboard_time": 1760780721,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 143667,
@@ -10561,6 +10601,14 @@
       "onboard_time": 1760584339,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137644,
+      "num": 137644,
+      "word": "白鹿cha了宋雨琦mo",
+      "onboard_time": 1760780061,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 137505,
@@ -12459,6 +12507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121255,
+      "num": 121255,
+      "word": "G2打BLG投票结果公布",
+      "onboard_time": 1760782524,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121245,
       "num": 121245,
       "word": "花开中国MV致敬女性力量",
@@ -12525,9 +12581,9 @@
     {
       "raw_hot": 120875,
       "num": 120875,
-      "word": "白鹿cha了宋雨琦mo",
-      "onboard_time": 1760780061,
-      "rank": 35,
+      "word": "qko回应给赵磊粉丝退钱",
+      "onboard_time": 1760781202,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -14779,6 +14835,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 107168,
+      "num": 107168,
+      "word": "BLG对战G2",
+      "onboard_time": 1760782763,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107124,
       "num": 107124,
       "word": "史森明手气",
@@ -14817,6 +14881,14 @@
       "onboard_time": 1760605161,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106909,
+      "num": 106909,
+      "word": "喻言被认证团内美女",
+      "onboard_time": 1760780782,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 106883,
@@ -15089,6 +15161,14 @@
       "onboard_time": 1760710103,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 104996,
+      "num": 112381,
+      "word": "山姆胖东来优选 碰瓷",
+      "onboard_time": 1760780901,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104935,
@@ -16011,6 +16091,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99715,
+      "num": 99715,
+      "word": "全伊伦重回cos圈",
+      "onboard_time": 1760783003,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 99641,
+      "num": 99641,
+      "word": "龚俊新剧显示器分辨率不够用了",
+      "onboard_time": 1760782883,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99590,
+      "num": 99590,
+      "word": "Faker打GEN赛前闭眼",
+      "onboard_time": 1760781380,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99434,
       "num": 99434,
       "word": "以后我打到臭车就学张晚意这么说",
@@ -16385,6 +16489,14 @@
       "onboard_time": 1760685322,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 96432,
+      "num": 96432,
+      "word": "肖战第一章回城",
+      "onboard_time": 1760782703,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 96385,
@@ -18313,6 +18425,14 @@
       "onboard_time": 1760343141,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82543,
+      "num": 96256,
+      "word": "卖128的干炒牛河长什么样",
+      "onboard_time": 1760782401,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 82510,
@@ -22579,6 +22699,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 24524,
+      "num": 172541,
+      "word": "浪浪友人部落人人人人人人",
+      "onboard_time": 1760781683,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24037,
       "num": 166910,
       "word": "女婿跳河砸窗救人岳父得知后请喝酒",
@@ -22985,6 +23113,14 @@
       "onboard_time": 1760589743,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17084,
+      "num": 107331,
+      "word": "真正的黑钻至臻补给",
+      "onboard_time": 1760781683,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 16926,

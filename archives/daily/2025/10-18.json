@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760780223624,
+  "endTime": 1760783082074,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -195,12 +195,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 753092,
+      "num": 233007,
+      "word": "这居然是任敏",
+      "onboard_time": 1760777782,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 732112,
       "num": 366562,
       "word": "赛琳娜回应海莉",
       "onboard_time": 1760764172,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 713268,
+      "num": 259714,
+      "word": "死亡诅咒5岁女童唱歌男子已道歉",
+      "onboard_time": 1760778023,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 624727,
@@ -307,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 526738,
+      "num": 1084278,
+      "word": "GEN战胜T1",
+      "onboard_time": 1760781683,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 514873,
       "num": 473053,
       "word": "杨振宁35岁荣获诺贝尔奖",
@@ -363,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 462321,
-      "num": 233007,
-      "word": "这居然是任敏",
-      "onboard_time": 1760777782,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 458474,
       "num": 574676,
       "word": "韩四大集团CEO将赴海湖庄园",
@@ -419,7 +435,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 371682,
+      "raw_hot": 386098,
       "num": 261989,
       "word": "西南联大五才子仅剩一人",
       "onboard_time": 1760777603,
@@ -627,14 +643,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 259714,
-      "num": 259714,
-      "word": "死亡诅咒5岁女童唱歌男子已道歉",
-      "onboard_time": 1760778023,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 256543,
       "num": 256543,
       "word": "5家企业涉嫌支持台军心战大队",
@@ -747,6 +755,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 229320,
+      "num": 172541,
+      "word": "国民党今日选出新主席",
+      "onboard_time": 1760781502,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 225193,
+      "num": 225193,
+      "word": "红山动物园放弃抵抗采用野菜F4",
+      "onboard_time": 1760781742,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224469,
       "num": 224469,
       "word": "安世半导体通知中国员工停薪",
@@ -793,6 +817,14 @@
       "onboard_time": 1760758411,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 208986,
+      "num": 172540,
+      "word": "杨振宁20年前预言已基本实现",
+      "onboard_time": 1760781621,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207215,
@@ -1027,6 +1059,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 172542,
+      "num": 272981,
+      "word": "GEN对战T1",
+      "onboard_time": 1760778983,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 172458,
+      "num": 172458,
+      "word": "四十万先买车还是先买房",
+      "onboard_time": 1760780182,
+      "rank": 32,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 171507,
       "num": 172833,
       "word": "暗河传",
@@ -1203,22 +1251,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 146579,
-      "num": 146579,
-      "word": "四十万先买车还是先买房",
-      "onboard_time": 1760780182,
-      "rank": 32,
-      "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 146037,
-      "num": 272981,
-      "word": "GEN对战T1",
-      "onboard_time": 1760778983,
-      "rank": 18,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 144511,
       "num": 234823,
       "word": "王牌后期是不是吃毒蘑菇了",
@@ -1233,6 +1265,14 @@
       "onboard_time": 1760777722,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143775,
+      "num": 143775,
+      "word": "长沙1对情侣撞脸欧豪和刘浩存",
+      "onboard_time": 1760780721,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 141510,
@@ -1289,6 +1329,14 @@
       "onboard_time": 1760717482,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137644,
+      "num": 137644,
+      "word": "白鹿cha了宋雨琦mo",
+      "onboard_time": 1760780061,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 137043,
@@ -1451,11 +1499,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121255,
+      "num": 121255,
+      "word": "G2打BLG投票结果公布",
+      "onboard_time": 1760782524,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120875,
       "num": 120875,
-      "word": "白鹿cha了宋雨琦mo",
-      "onboard_time": 1760780061,
-      "rank": 35,
+      "word": "qko回应给赵磊粉丝退钱",
+      "onboard_time": 1760781202,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1603,6 +1659,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 107168,
+      "num": 107168,
+      "word": "BLG对战G2",
+      "onboard_time": 1760782763,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 106909,
+      "num": 106909,
+      "word": "喻言被认证团内美女",
+      "onboard_time": 1760780782,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106663,
       "num": 106663,
       "word": "克拉拉官宣离婚",
@@ -1641,6 +1713,14 @@
       "onboard_time": 1760769024,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104996,
+      "num": 112381,
+      "word": "山姆胖东来优选 碰瓷",
+      "onboard_time": 1760780901,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104857,
@@ -1723,6 +1803,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99715,
+      "num": 99715,
+      "word": "全伊伦重回cos圈",
+      "onboard_time": 1760783003,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 99641,
+      "num": 99641,
+      "word": "龚俊新剧显示器分辨率不够用了",
+      "onboard_time": 1760782883,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99590,
+      "num": 99590,
+      "word": "Faker打GEN赛前闭眼",
+      "onboard_time": 1760781380,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98203,
       "num": 98203,
       "word": "湘玉 我开始明白你了",
@@ -1745,6 +1849,14 @@
       "onboard_time": 1760747121,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96432,
+      "num": 96432,
+      "word": "肖战第一章回城",
+      "onboard_time": 1760782703,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 95922,
@@ -1849,6 +1961,14 @@
       "onboard_time": 1760711546,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82543,
+      "num": 96256,
+      "word": "卖128的干炒牛河长什么样",
+      "onboard_time": 1760782401,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 81050,
@@ -2275,6 +2395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24524,
+      "num": 172541,
+      "word": "浪浪友人部落人人人人人人",
+      "onboard_time": 1760781683,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23430,
       "num": 35622,
       "word": "音乐缘计划2先导片",
@@ -2331,6 +2459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 17084,
+      "num": 107331,
+      "word": "真正的黑钻至臻补给",
+      "onboard_time": 1760781683,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 15290,
       "num": 206850,
       "word": "智能制造意味着什么",
@@ -2355,8 +2491,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 6224,
-      "num": 283749,
+      "raw_hot": 10938,
+      "num": 298515,
       "word": "红星照耀中国",
       "onboard_time": 1760593821,
       "rank": 34,

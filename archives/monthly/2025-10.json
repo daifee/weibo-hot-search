@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760780223624,
+  "endTime": 1760783082074,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -3563,6 +3563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 753092,
+      "num": 233007,
+      "word": "这居然是任敏",
+      "onboard_time": 1760777782,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 752959,
       "num": 294362,
       "word": "原来小说里的道歉方式都是真的",
@@ -3785,6 +3793,14 @@
       "onboard_time": 1760460199,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 713268,
+      "num": 259714,
+      "word": "死亡诅咒5岁女童唱歌男子已道歉",
+      "onboard_time": 1760778023,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 713252,
@@ -6227,6 +6243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 526738,
+      "num": 1084278,
+      "word": "GEN战胜T1",
+      "onboard_time": 1760781683,
+      "rank": 0,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 525204,
       "num": 525204,
       "word": "雷军被8000元小刀价格惊呆了",
@@ -7489,14 +7513,6 @@
       "onboard_time": 1759996581,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 462321,
-      "num": 233007,
-      "word": "这居然是任敏",
-      "onboard_time": 1760777782,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 461697,
@@ -9211,6 +9227,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 386098,
+      "num": 261989,
+      "word": "西南联大五才子仅剩一人",
+      "onboard_time": 1760777603,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 385692,
       "num": 385692,
       "word": "广东海洋大学被曝住宿环境差",
@@ -9593,14 +9617,6 @@
       "onboard_time": 1759898422,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 371682,
-      "num": 261989,
-      "word": "西南联大五才子仅剩一人",
-      "onboard_time": 1760777603,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 371649,
@@ -13611,14 +13627,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 259714,
-      "num": 259714,
-      "word": "死亡诅咒5岁女童唱歌男子已道歉",
-      "onboard_time": 1760778023,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 259573,
       "num": 259573,
       "word": "美国19岁女生车祸丧生家属追责特斯拉",
@@ -15251,6 +15259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 229320,
+      "num": 172541,
+      "word": "国民党今日选出新主席",
+      "onboard_time": 1760781502,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 229099,
       "num": 285247,
       "word": "张予曦毕雯珺第二",
@@ -15497,6 +15513,14 @@
       "onboard_time": 1759307419,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225193,
+      "num": 225193,
+      "word": "红山动物园放弃抵抗采用野菜F4",
+      "onboard_time": 1760781742,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224925,
@@ -16456,6 +16480,14 @@
       "word": "夫妻国庆开两架飞机带女儿回老家",
       "onboard_time": 1759508540,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208986,
+      "num": 172540,
+      "word": "杨振宁20年前预言已基本实现",
+      "onboard_time": 1760781621,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -21187,12 +21219,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 172542,
+      "num": 272981,
+      "word": "GEN对战T1",
+      "onboard_time": 1760778983,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 172497,
       "num": 83230,
       "word": "井迪一直不谈恋爱的原因",
       "onboard_time": 1760204419,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172458,
+      "num": 172458,
+      "word": "四十万先买车还是先买房",
+      "onboard_time": 1760780182,
+      "rank": 32,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 172341,
@@ -25819,14 +25867,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 146579,
-      "num": 146579,
-      "word": "四十万先买车还是先买房",
-      "onboard_time": 1760780182,
-      "rank": 32,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 146537,
       "num": 146537,
       "word": "檀健次说自己是长期主义者",
@@ -25953,14 +25993,6 @@
       "onboard_time": 1759274479,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146037,
-      "num": 272981,
-      "word": "GEN对战T1",
-      "onboard_time": 1760778983,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 146012,
@@ -26449,6 +26481,14 @@
       "onboard_time": 1760155581,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143775,
+      "num": 143775,
+      "word": "长沙1对情侣撞脸欧豪和刘浩存",
+      "onboard_time": 1760780721,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 143733,
@@ -27961,6 +28001,14 @@
       "onboard_time": 1760174121,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137644,
+      "num": 137644,
+      "word": "白鹿cha了宋雨琦mo",
+      "onboard_time": 1760780061,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 137613,
@@ -33019,6 +33067,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121255,
+      "num": 121255,
+      "word": "G2打BLG投票结果公布",
+      "onboard_time": 1760782524,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121245,
       "num": 121245,
       "word": "花开中国MV致敬女性力量",
@@ -33141,9 +33197,9 @@
     {
       "raw_hot": 120875,
       "num": 120875,
-      "word": "白鹿cha了宋雨琦mo",
-      "onboard_time": 1760780061,
-      "rank": 35,
+      "word": "qko回应给赵磊粉丝退钱",
+      "onboard_time": 1760781202,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -38867,6 +38923,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 107168,
+      "num": 107168,
+      "word": "BLG对战G2",
+      "onboard_time": 1760782763,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107166,
       "num": 107166,
       "word": "原来侯明昊是接了个虐文本",
@@ -39040,6 +39104,14 @@
       "word": "丁程鑫一个心软全世界都开始闹了",
       "onboard_time": 1759731681,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 106909,
+      "num": 106909,
+      "word": "喻言被认证团内美女",
+      "onboard_time": 1760780782,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -39889,6 +39961,14 @@
       "onboard_time": 1759645880,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104996,
+      "num": 112381,
+      "word": "山姆胖东来优选 碰瓷",
+      "onboard_time": 1760780901,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104986,
@@ -42147,6 +42227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99715,
+      "num": 99715,
+      "word": "全伊伦重回cos圈",
+      "onboard_time": 1760783003,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 99710,
       "num": 99710,
       "word": "马来西亚行李箱藏尸案死者双手被绑",
@@ -42171,12 +42259,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99641,
+      "num": 99641,
+      "word": "龚俊新剧显示器分辨率不够用了",
+      "onboard_time": 1760782883,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99610,
       "num": 147167,
       "word": "林诗栋晋级中国大满贯8强",
       "onboard_time": 1759387160,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99590,
+      "num": 99590,
+      "word": "Faker打GEN赛前闭眼",
+      "onboard_time": 1760781380,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 99571,
@@ -43393,6 +43497,14 @@
       "onboard_time": 1759765041,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 96432,
+      "num": 96432,
+      "word": "肖战第一章回城",
+      "onboard_time": 1760782703,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 96385,
@@ -48777,6 +48889,14 @@
       "onboard_time": 1759892361,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82543,
+      "num": 96256,
+      "word": "卖128的干炒牛河长什么样",
+      "onboard_time": 1760782401,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 82510,
@@ -58323,6 +58443,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 24524,
+      "num": 172541,
+      "word": "浪浪友人部落人人人人人人",
+      "onboard_time": 1760781683,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24335,
       "num": 26200,
       "word": "菲律宾地震可能会引发局地海啸",
@@ -59121,6 +59249,14 @@
       "onboard_time": 1760589743,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17084,
+      "num": 107331,
+      "word": "真正的黑钻至臻补给",
+      "onboard_time": 1760781683,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 16959,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 17:37:03
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 18:24:42
 </p>
 </blockquote>
 <p>
@@ -2685,6 +2685,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E4%BB%BB%E6%95%8F%23" target="weibo">
+这居然是任敏（热度：753092）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%9A%84%E9%81%93%E6%AD%89%E6%96%B9%E5%BC%8F%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
 原来小说里的道歉方式都是真的（热度：752959）
 </a>
@@ -2849,6 +2855,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%E8%84%B8%E8%89%B2%E9%93%81%E9%9D%92%23" target="weibo">
 王皓脸色铁青（热度：713915）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%BB%E4%BA%A1%E8%AF%85%E5%92%925%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%94%B1%E6%AD%8C%E7%94%B7%E5%AD%90%E5%B7%B2%E9%81%93%E6%AD%89%23" target="weibo">
+死亡诅咒5岁女童唱歌男子已道歉（热度：713268）
 </a>
 </li>
 
@@ -4683,6 +4695,12 @@ iPhone天气你可能真的不会用（热度：556452）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23GEN%E6%88%98%E8%83%9CT1%23" target="weibo">
+GEN战胜T1（热度：526738）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%A2%AB8000%E5%85%83%E5%B0%8F%E5%88%80%E4%BB%B7%E6%A0%BC%E6%83%8A%E5%91%86%E4%BA%86%23" target="weibo">
 雷军被8000元小刀价格惊呆了（热度：525204）
 </a>
@@ -5631,12 +5649,6 @@ Wei龙坑排眼（热度：465191）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E4%BB%BB%E6%95%8F%23" target="weibo">
-这居然是任敏（热度：462321）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23TaylorSwift%E5%BF%98%E4%BA%86%E9%80%9A%E7%9F%A5EdSheeran%E8%AE%A2%E5%A9%9A%23" target="weibo">
 TaylorSwift忘了通知EdSheeran订婚（热度：461697）
 </a>
@@ -5999,18 +6011,6 @@ B站崩了（热度：442971）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%A7%90%E5%A4%B1%E8%B8%AA4%E5%B9%B4%E8%A2%AB%E5%8F%91%E7%8E%B0%E6%97%B6%E5%B7%B2%E6%88%90%E5%B9%B2%E5%B0%B8%23" target="weibo">
 姐姐失踪4年被发现时已成干尸（热度：442684）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A2%E4%B9%90%E9%A2%82%E7%BC%96%E5%89%A7%E8%B0%88%E6%9D%A8%E7%B4%AB%E5%B0%8F%E8%9A%AF%E8%9A%93%23" target="weibo">
-欢乐颂编剧谈杨紫小蚯蚓（热度：442548）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%20%E4%B8%8D%E8%A6%81%E9%97%AE%E4%BA%BA%E5%AE%B6%E8%BF%99%E7%A7%8D%E9%97%AE%E9%A2%98%23" target="weibo">
-王安宇 不要问人家这种问题（热度：442124）
 </a>
 </li>
 
