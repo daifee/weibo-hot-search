@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 21:00:13
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 21:28:19
 </p>
 </blockquote>
 <p>
@@ -1391,6 +1391,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%B6%E7%99%BD%E7%99%BD%E5%89%8D%E5%A6%BB%E4%B8%8E%E7%8E%B0%E4%BB%BB%E5%90%8C%E6%B8%B8%E8%A5%BF%E8%97%8F%23" target="weibo">
 陶白白前妻与现任同游西藏（热度：1055083）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E7%A7%B0%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E4%B8%80%E5%B9%B4%E5%9B%9B%E5%AD%A3%E4%B8%8D%E7%A9%BF%E8%A1%A3%23" target="weibo">
+村民称野人小孩一年四季不穿衣（热度：1051557）
 </a>
 </li>
 
@@ -3399,6 +3405,12 @@ JDG输越南队（热度：648751）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC%E5%8F%98%E7%BE%8E%E4%BA%86%23" target="weibo">
+痞幼变美了（热度：645635）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TheShy%E5%9C%A8%E5%B9%B2%E5%95%A5%23" target="weibo">
 TheShy在干啥（热度：644110）
 </a>
@@ -3809,12 +3821,6 @@ TF四代出道团成员由公司自主决定（热度：610474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%82%A5%E8%83%96%E7%85%A7%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91%23" target="weibo">
 美军肥胖照火遍全网（热度：602797）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%B0%91%E7%A7%B0%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E4%B8%80%E5%B9%B4%E5%9B%9B%E5%AD%A3%E4%B8%8D%E7%A9%BF%E8%A1%A3%23" target="weibo">
-村民称野人小孩一年四季不穿衣（热度：600603）
 </a>
 </li>
 
@@ -6008,12 +6014,6 @@ KT战胜TES（热度：445439）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%A4%AB%E5%A6%87%E9%95%BF%E5%BE%97%E5%83%8F%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%23" target="weibo">
-广东一夫妇长得像复制粘贴（热度：444397）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6329,6 +6329,12 @@ KT战胜TES（热度：445439）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9C%8B%E7%9C%8B%E8%BF%99%E4%BA%94%E5%B9%B4%23%23" target="weibo">
 #跟着总书记看看这五年#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%93%98%E7%94%BB%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%96%B0%E7%AF%87%E7%AB%A0%23%23" target="weibo">
+#总书记擘画中国式现代化新篇章#
 </a>
 </li>
 

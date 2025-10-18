@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760792413038,
+  "endTime": 1760794099173,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -1841,6 +1841,14 @@
       "onboard_time": 1759317620,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1051557,
+      "num": 555887,
+      "word": "村民称野人小孩一年四季不穿衣",
+      "onboard_time": 1760787923,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1049868,
@@ -4515,6 +4523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 645635,
+      "num": 281918,
+      "word": "痞幼变美了",
+      "onboard_time": 1760791104,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 644110,
       "num": 644110,
       "word": "TheShy在干啥",
@@ -5065,14 +5081,6 @@
       "onboard_time": 1760412980,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 600603,
-      "num": 555887,
-      "word": "村民称野人小孩一年四季不穿衣",
-      "onboard_time": 1760787923,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 600529,
@@ -8092,7 +8100,7 @@
     },
     {
       "raw_hot": 442668,
-      "num": 323493,
+      "num": 391133,
       "word": "Shad0w 我们会从地狱归来的",
       "onboard_time": 1760790503,
       "rank": 17,
@@ -8360,6 +8368,14 @@
       "word": "妈妈给男孩喝了一口糖竟致呕吐晕厥",
       "onboard_time": 1759292900,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 430125,
+      "num": 606764,
+      "word": "杨振宁曾在百岁生日宴后摔倒",
+      "onboard_time": 1760789783,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -8889,6 +8905,14 @@
       "onboard_time": 1759553660,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 405519,
+      "num": 278258,
+      "word": "回南雀",
+      "onboard_time": 1760790861,
+      "rank": 42,
+      "category": "读书作家"
     },
     {
       "raw_hot": 405242,
@@ -11291,6 +11315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 317051,
+      "num": 276272,
+      "word": "郑恺苗苗从小共用一张脸",
+      "onboard_time": 1760791704,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 316553,
       "num": 241087,
       "word": "无效早餐",
@@ -11304,14 +11336,6 @@
       "word": "你在南方吹空调我在北方看雾凇",
       "onboard_time": 1760489721,
       "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 316313,
-      "num": 606764,
-      "word": "杨振宁曾在百岁生日宴后摔倒",
-      "onboard_time": 1760789783,
-      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -11657,6 +11681,14 @@
       "onboard_time": 1760430201,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308613,
+      "num": 308613,
+      "word": "gemini 毒奶",
+      "onboard_time": 1760790624,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 308611,
@@ -12539,6 +12571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285075,
+      "num": 275780,
+      "word": "郭碧婷爸爸回应女儿一人养家",
+      "onboard_time": 1760791642,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284858,
       "num": 284858,
       "word": "iG扳平",
@@ -12649,14 +12689,6 @@
       "onboard_time": 1760321119,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 282820,
-      "num": 229002,
-      "word": "痞幼变美了",
-      "onboard_time": 1760791104,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 282752,
@@ -15379,14 +15411,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 230259,
-      "num": 230259,
-      "word": "gemini 毒奶",
-      "onboard_time": 1760790624,
-      "rank": 21,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 230233,
       "num": 230233,
       "word": "一笑随歌",
@@ -17075,14 +17099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 204654,
-      "num": 204654,
-      "word": "回南雀",
-      "onboard_time": 1760790861,
-      "rank": 42,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 204619,
       "num": 204619,
       "word": "张凌赫张淼怡归鸾",
@@ -17968,6 +17984,14 @@
       "word": "张艺兴演唱会已经nextlevel了",
       "onboard_time": 1760532682,
       "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 197213,
+      "num": 197213,
+      "word": "王俊凯AintGotNoLove改编舞台",
+      "onboard_time": 1760793023,
+      "rank": 22,
       "category": "演出"
     },
     {
@@ -19275,6 +19299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 188612,
+      "num": 188612,
+      "word": "陆毅因鲍蕾不花他的钱而生气",
+      "onboard_time": 1760790683,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188599,
       "num": 188599,
       "word": "诺贝尔奖",
@@ -19297,6 +19329,14 @@
       "onboard_time": 1759361478,
       "rank": 9,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 188420,
+      "num": 144717,
+      "word": "G2战胜BLG后嘲讽Shad0w",
+      "onboard_time": 1760792843,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 188380,
@@ -19337,14 +19377,6 @@
       "onboard_time": 1760675603,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 188060,
-      "num": 188060,
-      "word": "郑恺苗苗从小共用一张脸",
-      "onboard_time": 1760791704,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 187795,
@@ -22939,6 +22971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163832,
+      "num": 163832,
+      "word": "南京vs泰州",
+      "onboard_time": 1760791942,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163825,
       "num": 136033,
       "word": "Zeus谈Zeka叠女神泪",
@@ -25635,14 +25675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148917,
-      "num": 148917,
-      "word": "郭碧婷爸爸回应女儿一人养家",
-      "onboard_time": 1760791642,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148916,
       "num": 145605,
       "word": "李沁鸡腿姑娘爆改鸭梨夫人",
@@ -27595,14 +27627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 140396,
-      "num": 140396,
-      "word": "陆毅因鲍蕾不花他的钱而生气",
-      "onboard_time": 1760790683,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 140319,
       "num": 140319,
       "word": "沈腾说出发团不是一家人都难",
@@ -29137,6 +29161,14 @@
       "onboard_time": 1760000179,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 135059,
+      "num": 135059,
+      "word": "李兰迪粉色水蜜桃",
+      "onboard_time": 1760792063,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 135052,
@@ -31649,6 +31681,14 @@
       "onboard_time": 1760270001,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126458,
+      "num": 126458,
+      "word": "张钧甯好长一条人好美一张脸",
+      "onboard_time": 1760792843,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 126436,
@@ -39059,6 +39099,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 107841,
+      "num": 107841,
+      "word": "张起灵我笑纳了陆雪琪我也笑纳了",
+      "onboard_time": 1760791942,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 107812,
       "num": 145431,
       "word": "浏阳无人机烟花表演现场失火",
@@ -39995,14 +40043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105892,
-      "num": 105892,
-      "word": "李兰迪粉色水蜜桃",
-      "onboard_time": 1760792063,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105885,
       "num": 105885,
       "word": "关晓彤碎钻裙",
@@ -40097,6 +40137,14 @@
       "onboard_time": 1760238380,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105713,
+      "num": 105713,
+      "word": "微信文件助手才是真的职场邪修",
+      "onboard_time": 1760793202,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 105706,
@@ -41259,14 +41307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 103150,
-      "num": 103150,
-      "word": "南京vs泰州",
-      "onboard_time": 1760791942,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 103078,
       "num": 103078,
       "word": "婚俗争执成压垮新郎最后稻草",
@@ -41785,6 +41825,14 @@
       "onboard_time": 1760280500,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101959,
+      "num": 101959,
+      "word": "被上海的农村大席震惊到了",
+      "onboard_time": 1760793202,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 101953,
@@ -42401,6 +42449,14 @@
       "onboard_time": 1759574120,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 100537,
+      "num": 100537,
+      "word": "白举纲 真内娱男菩萨",
+      "onboard_time": 1760793803,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 100511,
@@ -43209,14 +43265,6 @@
       "onboard_time": 1760062160,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98287,
-      "num": 98287,
-      "word": "张起灵我笑纳了陆雪琪我也笑纳了",
-      "onboard_time": 1760791942,
-      "rank": 49,
-      "category": "动漫"
     },
     {
       "raw_hot": 98283,
@@ -44225,6 +44273,14 @@
       "onboard_time": 1760156782,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95806,
+      "num": 95806,
+      "word": "关晓彤一袭红衣惊艳登场",
+      "onboard_time": 1760793984,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 95772,
@@ -47065,6 +47121,14 @@
       "onboard_time": 1760186123,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88849,
+      "num": 166196,
+      "word": "国民党新主席郑丽文是谁",
+      "onboard_time": 1760792483,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 88832,
@@ -52355,6 +52419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70535,
+      "num": 118627,
+      "word": "刘浩存给自己签名照点痣",
+      "onboard_time": 1760793323,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70518,
       "num": 72870,
       "word": "山东舰航母若能停台湾就好了",
@@ -56065,6 +56137,14 @@
       "onboard_time": 1759903220,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 47026,
+      "num": 279740,
+      "word": "和电子闺蜜终于面基了",
+      "onboard_time": 1760792483,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 47017,
@@ -60847,6 +60927,9 @@
     },
     {
       "word": "#跟着总书记看看这五年#"
+    },
+    {
+      "word": "#总书记擘画中国式现代化新篇章#"
     }
   ]
 }

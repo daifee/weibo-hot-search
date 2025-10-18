@@ -1,0 +1,410 @@
+{
+  "runTime": 1760794099173,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 753699,
+        "num": 1120591,
+        "word": "北京今天就下雪了",
+        "onboard_time": 1760784202,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 458778,
+        "num": 458778,
+        "word": "G2战胜BLG",
+        "onboard_time": 1760785103,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1645,
+        "num": 391602,
+        "word": "非凡十四五",
+        "onboard_time": 1760706502,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391133,
+        "num": 391133,
+        "word": "Shad0w 我们会从地狱归来的",
+        "onboard_time": 1760790503,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 308613,
+        "num": 308613,
+        "word": "gemini 毒奶",
+        "onboard_time": 1760790624,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 578797,
+        "num": 302199,
+        "word": "新任中国国民党主席郑丽文",
+        "onboard_time": 1760787982,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 563144,
+        "num": 296761,
+        "word": "杨振宁逝世",
+        "onboard_time": 1760761410,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430125,
+        "num": 292317,
+        "word": "杨振宁曾在百岁生日宴后摔倒",
+        "onboard_time": 1760789783,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283452,
+        "num": 283452,
+        "word": "入青云",
+        "onboard_time": 1760786302,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177691,
+        "num": 283307,
+        "word": "NBA名人赛",
+        "onboard_time": 1760788702,
+        "rank": 9,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 685485,
+        "num": 282469,
+        "word": "这4种电话别接别回别点",
+        "onboard_time": 1760787383,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 645635,
+        "num": 281918,
+        "word": "痞幼变美了",
+        "onboard_time": 1760791104,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 518507,
+        "num": 280899,
+        "word": "杨振宁20年前预言已基本实现",
+        "onboard_time": 1760781621,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434439,
+        "num": 280054,
+        "word": "白鹿戴比尔斯晚宴",
+        "onboard_time": 1760788822,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47026,
+        "num": 279740,
+        "word": "和电子闺蜜终于面基了",
+        "onboard_time": 1760792483,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1051557,
+        "num": 279136,
+        "word": "村民称野人小孩一年四季不穿衣",
+        "onboard_time": 1760787923,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405519,
+        "num": 278258,
+        "word": "回南雀",
+        "onboard_time": 1760790861,
+        "rank": 16,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 379243,
+        "num": 277685,
+        "word": "这居然是任敏",
+        "onboard_time": 1760777782,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338877,
+        "num": 276853,
+        "word": "杨振宁曾回应自己去世翁帆怎么办",
+        "onboard_time": 1760767046,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 317051,
+        "num": 276272,
+        "word": "郑恺苗苗从小共用一张脸",
+        "onboard_time": 1760791704,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285075,
+        "num": 275780,
+        "word": "郭碧婷爸爸回应女儿一人养家",
+        "onboard_time": 1760791642,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275139,
+        "num": 275139,
+        "word": "邓莎老公上再见爱人后辞职",
+        "onboard_time": 1760784623,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197213,
+        "num": 197213,
+        "word": "王俊凯AintGotNoLove改编舞台",
+        "onboard_time": 1760793023,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188612,
+        "num": 188612,
+        "word": "陆毅因鲍蕾不花他的钱而生气",
+        "onboard_time": 1760790683,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187960,
+        "num": 187960,
+        "word": "蔡徐坤这里是红毯不是秀场",
+        "onboard_time": 1760791282,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170469,
+        "num": 170469,
+        "word": "住酒店可以免费拿走的东西",
+        "onboard_time": 1760784744,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88849,
+        "num": 166196,
+        "word": "国民党新主席郑丽文是谁",
+        "onboard_time": 1760792483,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163832,
+        "num": 163832,
+        "word": "南京vs泰州",
+        "onboard_time": 1760791942,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159959,
+        "num": 159959,
+        "word": "哈萨克斯坦将向中国出口猪肉",
+        "onboard_time": 1760789242,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145385,
+        "num": 145385,
+        "word": "空腹爬楼四个月瘦20斤",
+        "onboard_time": 1760783662,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 188420,
+        "num": 144717,
+        "word": "G2战胜BLG后嘲讽Shad0w",
+        "onboard_time": 1760792843,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140055,
+        "num": 140055,
+        "word": "时代峰峻要告数据组",
+        "onboard_time": 1760773642,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137287,
+        "num": 137287,
+        "word": "小蘑菇亲签",
+        "onboard_time": 1760789843,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 135059,
+        "num": 135059,
+        "word": "李兰迪粉色水蜜桃",
+        "onboard_time": 1760792063,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128669,
+        "num": 128669,
+        "word": "杨老一路走好",
+        "onboard_time": 1760787802,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126458,
+        "num": 126458,
+        "word": "张钧甯好长一条人好美一张脸",
+        "onboard_time": 1760792843,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124106,
+        "num": 124106,
+        "word": "红山动物园放弃抵抗采用野菜F4",
+        "onboard_time": 1760781742,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118810,
+        "num": 118810,
+        "word": "香港抓获未成年卖淫集团主犯18岁",
+        "onboard_time": 1760784202,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92008,
+        "num": 118679,
+        "word": "你好星期六",
+        "onboard_time": 1760791223,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70535,
+        "num": 118627,
+        "word": "刘浩存给自己签名照点痣",
+        "onboard_time": 1760793323,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118606,
+        "num": 118606,
+        "word": "李沁 爱是相互的",
+        "onboard_time": 1760786003,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117398,
+        "num": 117398,
+        "word": "苏超",
+        "onboard_time": 1760786542,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12577,
+        "num": 107956,
+        "word": "红星照耀中国",
+        "onboard_time": 1760593821,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107841,
+        "num": 107841,
+        "word": "张起灵我笑纳了陆雪琪我也笑纳了",
+        "onboard_time": 1760791942,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 105857,
+        "num": 105857,
+        "word": "欧豪戴钻石耳钉了",
+        "onboard_time": 1760790983,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105713,
+        "num": 105713,
+        "word": "微信文件助手才是真的职场邪修",
+        "onboard_time": 1760793202,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101959,
+        "num": 101959,
+        "word": "被上海的农村大席震惊到了",
+        "onboard_time": 1760793202,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100863,
+        "num": 100863,
+        "word": "金价暴涨下的水贝",
+        "onboard_time": 1760785343,
+        "rank": 47,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 100537,
+        "num": 100537,
+        "word": "白举纲 真内娱男菩萨",
+        "onboard_time": 1760793803,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95806,
+        "num": 95806,
+        "word": "关晓彤一袭红衣惊艳登场",
+        "onboard_time": 1760793984,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画中国式现代化新篇章#"
+    }
+  }
+}
