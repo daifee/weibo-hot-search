@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760757000424,
+  "endTime": 1760758493791,
   "band_list": [
     {
       "raw_hot": 23107983,
@@ -27,7 +27,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1283320,
+      "raw_hot": 1455740,
       "num": 566218,
       "word": "压力给到井柏然刘雯",
       "onboard_time": 1760755712,
@@ -43,20 +43,20 @@
       "category": "电影,艺人"
     },
     {
+      "raw_hot": 1159812,
+      "num": 955450,
+      "word": "许我耀眼",
+      "onboard_time": 1760755352,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1057349,
       "num": 194259,
       "word": "小S 姐你不在的人生真的很辛苦",
       "onboard_time": 1760715923,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 955450,
-      "num": 955450,
-      "word": "许我耀眼",
-      "onboard_time": 1760755352,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 785694,
@@ -163,8 +163,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338691,
+      "num": 587834,
+      "word": "间谍在民宿拍军港被老板举报",
+      "onboard_time": 1760755772,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321368,
-      "num": 175847,
+      "num": 253270,
       "word": "倪大红姜妍领衔主演小城良方",
       "onboard_time": 1760754931,
       "rank": 24,
@@ -201,6 +209,14 @@
       "onboard_time": 1760717303,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 270133,
+      "num": 254643,
+      "word": "暗河传官宣定档",
+      "onboard_time": 1760756613,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 266024,
@@ -251,6 +267,38 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 254829,
+      "num": 582833,
+      "word": "iPhone17全系包揽销量榜前三",
+      "onboard_time": 1760756613,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 251906,
+      "num": 130041,
+      "word": "岳父机场接机梁靖崑",
+      "onboard_time": 1760757271,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 242282,
+      "num": 242282,
+      "word": "肖战王彦霖首搭",
+      "onboard_time": 1760755835,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 233845,
+      "num": 233845,
+      "word": "特朗普承认对华关税不可持续",
+      "onboard_time": 1760757271,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 231146,
       "num": 231146,
       "word": "王者荣耀 河灯",
@@ -259,12 +307,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 226539,
-      "num": 587834,
-      "word": "间谍在民宿拍军港被老板举报",
-      "onboard_time": 1760755772,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 225858,
+      "num": 225858,
+      "word": "麦当劳 没那么灵",
+      "onboard_time": 1760755533,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 214307,
@@ -281,14 +329,6 @@
       "onboard_time": 1760691200,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205780,
-      "num": 175072,
-      "word": "肖战王彦霖首搭",
-      "onboard_time": 1760755835,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 197167,
@@ -313,22 +353,6 @@
       "onboard_time": 1760756912,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 181698,
-      "num": 582833,
-      "word": "iPhone17全系包揽销量榜前三",
-      "onboard_time": 1760756613,
-      "rank": 8,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 176031,
-      "num": 176031,
-      "word": "麦当劳 没那么灵",
-      "onboard_time": 1760755533,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 175571,
@@ -363,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165589,
+      "num": 165589,
+      "word": "邵子恒 归国爱豆爆改古风小生",
+      "onboard_time": 1760758050,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160574,
       "num": 160574,
       "word": "辽宁一幼儿园被指15天虐童上千次",
@@ -372,7 +404,7 @@
     },
     {
       "raw_hot": 156656,
-      "num": 173523,
+      "num": 246569,
       "word": "穆祉丞翻唱恋人未满上线",
       "onboard_time": 1760755051,
       "rank": 18,
@@ -380,11 +412,19 @@
     },
     {
       "raw_hot": 156102,
-      "num": 178592,
+      "num": 253784,
       "word": "中美同意尽快举行新一轮经贸磋商",
       "onboard_time": 1760756253,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 154675,
+      "num": 144888,
+      "word": "华为Mate80Pro备案颜色曝光",
+      "onboard_time": 1760757570,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 152581,
@@ -483,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130071,
+      "num": 130071,
+      "word": "蓝溪镇",
+      "onboard_time": 1760758411,
+      "rank": 29,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 128492,
       "num": 169851,
       "word": "33个弹片成了老兵摘不掉的项链",
@@ -497,6 +545,14 @@
       "onboard_time": 1760753361,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126323,
+      "num": 126323,
+      "word": "汪铎的基本功被央视考验了",
+      "onboard_time": 1760757691,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 124416,
@@ -523,12 +579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120388,
-      "num": 173169,
-      "word": "暗河传官宣定档",
-      "onboard_time": 1760756613,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 119469,
+      "num": 119469,
+      "word": "孙颖莎阳光姐妹淘",
+      "onboard_time": 1760757090,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 118782,
@@ -553,6 +609,14 @@
       "onboard_time": 1760755772,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116549,
+      "num": 116549,
+      "word": "韩国作家白洗嬉去世",
+      "onboard_time": 1760757090,
+      "rank": 37,
+      "category": "读书作家"
     },
     {
       "raw_hot": 112494,
@@ -627,6 +691,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103939,
+      "num": 103939,
+      "word": "孙颖莎比个树杈",
+      "onboard_time": 1760757212,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103239,
+      "num": 103239,
+      "word": "广西通报一国企负责人婚内出轨",
+      "onboard_time": 1760757872,
+      "rank": 41,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 102722,
       "num": 102722,
       "word": "婚俗争执成压垮新郎最后稻草",
@@ -643,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102503,
+      "num": 111744,
+      "word": "杜淳妻子说因戏生情的演员不专业",
+      "onboard_time": 1760756852,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101978,
       "num": 101978,
       "word": "减肥减成杨幂了",
@@ -657,6 +745,14 @@
       "onboard_time": 1760747121,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96679,
+      "num": 96679,
+      "word": "邵阳通报一学校围墙操场坍塌",
+      "onboard_time": 1760755652,
+      "rank": 46,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 95922,
@@ -1048,14 +1144,6 @@
       "word": "白鹿鞭子舞",
       "onboard_time": 1760724496,
       "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 22923,
-      "num": 111744,
-      "word": "杜淳妻子说因戏生情的演员不专业",
-      "onboard_time": 1760756852,
-      "rank": 39,
       "category": "艺人"
     },
     {

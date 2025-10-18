@@ -1,0 +1,410 @@
+{
+  "runTime": 1760758493791,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 407909,
+        "num": 1065265,
+        "word": "iPhone天气你可能真的不会用",
+        "onboard_time": 1760746700,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 338691,
+        "num": 338691,
+        "word": "间谍在民宿拍军港被老板举报",
+        "onboard_time": 1760755772,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26757,
+        "num": 284361,
+        "word": "WannaCry勒索风暴的警示与防范",
+        "onboard_time": 1760752880,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 527434,
+        "num": 276855,
+        "word": "金价银价大跳水",
+        "onboard_time": 1760752102,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 254829,
+        "num": 254829,
+        "word": "iPhone17全系包揽销量榜前三",
+        "onboard_time": 1760756613,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 18958277,
+        "num": 18958277,
+        "word": "陈伟霆何穗官宣生子",
+        "onboard_time": 1760753301,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270133,
+        "num": 254643,
+        "word": "暗河传官宣定档",
+        "onboard_time": 1760756613,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227412,
+        "num": 254561,
+        "word": "广东人终于不用穿短袖了",
+        "onboard_time": 1760749281,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224671,
+        "num": 254475,
+        "word": "中美经贸磋商",
+        "onboard_time": 1760754511,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 163087,
+        "num": 254378,
+        "word": "上海暴雨",
+        "onboard_time": 1760743577,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5973380,
+        "num": 5973380,
+        "word": "陈伟霆何穗什么时候在一起的",
+        "onboard_time": 1760753604,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1455740,
+        "num": 254129,
+        "word": "压力给到井柏然刘雯",
+        "onboard_time": 1760755712,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1159812,
+        "num": 253995,
+        "word": "许我耀眼",
+        "onboard_time": 1760755352,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 813064,
+        "num": 253890,
+        "word": "万鹏 笑脸给多了惯的都是病",
+        "onboard_time": 1760751741,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117284,
+        "num": 253784,
+        "word": "中美同意尽快举行新一轮经贸磋商",
+        "onboard_time": 1760756253,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 417215,
+        "num": 253666,
+        "word": "与已婚女同居博士生被解除公派留学",
+        "onboard_time": 1760754271,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379941,
+        "num": 253538,
+        "word": "好命哥真好命",
+        "onboard_time": 1760754990,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355094,
+        "num": 253421,
+        "word": "网约车司机中途赶客乘客秒懂下车",
+        "onboard_time": 1760748741,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448355,
+        "num": 253344,
+        "word": "张慧贤给万鹏道歉",
+        "onboard_time": 1760745379,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253270,
+        "num": 253270,
+        "word": "倪大红姜妍领衔主演小城良方",
+        "onboard_time": 1760754931,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109863,
+        "num": 246569,
+        "word": "穆祉丞翻唱恋人未满上线",
+        "onboard_time": 1760755051,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242282,
+        "num": 242282,
+        "word": "肖战王彦霖首搭",
+        "onboard_time": 1760755835,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233845,
+        "num": 233845,
+        "word": "特朗普承认对华关税不可持续",
+        "onboard_time": 1760757271,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225858,
+        "num": 225858,
+        "word": "麦当劳 没那么灵",
+        "onboard_time": 1760755533,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165589,
+        "num": 165589,
+        "word": "邵子恒 归国爱豆爆改古风小生",
+        "onboard_time": 1760758050,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164688,
+        "num": 164688,
+        "word": "黄子韬松开徐艺洋挽刘宇宁",
+        "onboard_time": 1760743698,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237706,
+        "num": 162556,
+        "word": "肖战新剧女主姜妍",
+        "onboard_time": 1760712804,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146294,
+        "num": 146294,
+        "word": "金饰克价跌到1262元",
+        "onboard_time": 1760752941,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154675,
+        "num": 144888,
+        "word": "华为Mate80Pro备案颜色曝光",
+        "onboard_time": 1760757570,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130071,
+        "num": 130071,
+        "word": "蓝溪镇",
+        "onboard_time": 1760758411,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 251906,
+        "num": 130041,
+        "word": "岳父机场接机梁靖崑",
+        "onboard_time": 1760757271,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129540,
+        "num": 129540,
+        "word": "民政局回应老人扎堆领结婚证",
+        "onboard_time": 1760749281,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126323,
+        "num": 126323,
+        "word": "汪铎的基本功被央视考验了",
+        "onboard_time": 1760757691,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120963,
+        "num": 120963,
+        "word": "梁靖崑给王楚钦直男P图",
+        "onboard_time": 1760753664,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120749,
+        "num": 120749,
+        "word": "蒋龙 张弛",
+        "onboard_time": 1760715983,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119469,
+        "num": 119469,
+        "word": "孙颖莎阳光姐妹淘",
+        "onboard_time": 1760757090,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118991,
+        "num": 118991,
+        "word": "刘品言挺8个月孕肚走红毯",
+        "onboard_time": 1760748622,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116549,
+        "num": 116549,
+        "word": "韩国作家白洗嬉去世",
+        "onboard_time": 1760757090,
+        "rank": 37,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 112092,
+        "num": 112092,
+        "word": "只要你谈过几次恋爱就会发现",
+        "onboard_time": 1760755592,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108667,
+        "num": 108667,
+        "word": "金价涨到头了吗",
+        "onboard_time": 1760756912,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103939,
+        "num": 103939,
+        "word": "孙颖莎比个树杈",
+        "onboard_time": 1760757212,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103239,
+        "num": 103239,
+        "word": "广西通报一国企负责人婚内出轨",
+        "onboard_time": 1760757872,
+        "rank": 41,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 102835,
+        "num": 102835,
+        "word": "英安德鲁王子放弃王室头衔",
+        "onboard_time": 1760745258,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102503,
+        "num": 102503,
+        "word": "杜淳妻子说因戏生情的演员不专业",
+        "onboard_time": 1760756852,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101853,
+        "num": 101853,
+        "word": "黄子韬给徐艺洋戴黄金皇冠",
+        "onboard_time": 1760747360,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98751,
+        "num": 98751,
+        "word": "韩四大集团CEO将赴海湖庄园",
+        "onboard_time": 1760746700,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96679,
+        "num": 96679,
+        "word": "邵阳通报一学校围墙操场坍塌",
+        "onboard_time": 1760755652,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 92598,
+        "num": 92598,
+        "word": "娃都三岁了产妇竟被酒店索月子房费",
+        "onboard_time": 1760713643,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 92348,
+        "num": 92348,
+        "word": "mango创始人堕亡长子成嫌疑人",
+        "onboard_time": 1760753001,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73713,
+        "num": 92234,
+        "word": "暗河传",
+        "onboard_time": 1760755236,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济关键时刻必有关键抉择#"
+    }
+  }
+}
