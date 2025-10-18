@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760822509808,
+  "endTime": 1760823400064,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -60163,6 +60163,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 20099,
+      "num": 22500,
+      "word": "记者2年前照片里的城市消失了",
+      "onboard_time": 1760818995,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20034,
       "num": 436598,
       "word": "王嘉尔MAGICMAN2世界巡演",
@@ -60305,14 +60313,6 @@
       "onboard_time": 1759293140,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18930,
-      "num": 22500,
-      "word": "记者2年前照片里的城市消失了",
-      "onboard_time": 1760818995,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18838,
@@ -61073,6 +61073,14 @@
       "onboard_time": 1760603841,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11940,
+      "num": 17642,
+      "word": "王雷演活了西迁人的家国心",
+      "onboard_time": 1760822835,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 11697,

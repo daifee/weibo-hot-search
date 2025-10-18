@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760822509808,
+  "endTime": 1760823400064,
   "band_list": [
     {
       "raw_hot": 995617,
@@ -523,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20099,
+      "num": 22500,
+      "word": "记者2年前照片里的城市消失了",
+      "onboard_time": 1760818995,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19159,
       "num": 33264,
       "word": "小城良方官宣阵容",
@@ -537,14 +545,6 @@
       "onboard_time": 1760813715,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 18930,
-      "num": 22500,
-      "word": "记者2年前照片里的城市消失了",
-      "onboard_time": 1760818995,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18120,
@@ -569,6 +569,14 @@
       "onboard_time": 1760817555,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11940,
+      "num": 17642,
+      "word": "王雷演活了西迁人的家国心",
+      "onboard_time": 1760822835,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 10726,
