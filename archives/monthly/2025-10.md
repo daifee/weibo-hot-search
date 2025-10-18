@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 14:46:31
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 15:22:08
 </p>
 </blockquote>
 <p>
@@ -1293,6 +1293,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%95%E7%A9%97%E4%B8%8D%E6%98%AF%E9%80%80%E5%9C%88%E8%80%8C%E6%98%AF%E5%9C%A8%E5%BE%85%E4%BA%A7%23" target="weibo">
+原来何穗不是退圈而是在待产（热度：1092670）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E9%80%A0%E8%BD%A6%23" target="weibo">
 京东造车（热度：1091223）
 </a>
@@ -1781,6 +1787,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Angelababy%E5%85%AC%E4%B8%BB%E7%9A%87%E5%86%A0%23" target="weibo">
 Angelababy公主皇冠（热度：925479）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E5%AD%95%E6%9C%9F%E6%B2%A1%E6%9C%89%E5%92%8C%E9%9C%8D%E5%BB%BA%E5%8D%8E%E4%B8%80%E7%9B%B4%E5%9C%A8%E4%B8%80%E5%9D%97%23" target="weibo">
+林心如孕期没有和霍建华一直在一块（热度：924640）
 </a>
 </li>
 
@@ -3357,6 +3369,12 @@ TheShy在干啥（热度：644110）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A3%9E%E9%9F%A9%E5%9B%BD%E7%9A%84%E8%88%AA%E7%8F%AD%E8%A1%8C%E6%9D%8E%E6%9E%B6%E8%B5%B7%E7%81%AB%23" target="weibo">
+飞韩国的航班行李架起火（热度：638747）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A510%E6%9C%889%E6%97%A5%E4%BC%91%E6%81%AF%23" target="weibo">
 鸡排哥10月9日休息（热度：637729）
 </a>
@@ -3497,6 +3515,12 @@ JDG战胜狼队（热度：630844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B8%BA%E9%B8%A1%E6%8E%92%E5%93%A5%E7%9A%84%E7%94%A8%E6%B2%B9%E5%90%B5%E7%BF%BB%E4%BA%86%E5%A4%A9%23" target="weibo">
 网友为鸡排哥的用油吵翻了天（热度：623863）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%9C%B0%E9%9C%87%23" target="weibo">
+山西地震（热度：623682）
 </a>
 </li>
 
@@ -4599,12 +4623,6 @@ iPhone天气你可能真的不会用（热度：556452）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%9C%B0%E9%9C%87%23" target="weibo">
-山西地震（热度：528543）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%88%92%E4%BA%88%E5%9B%A0%E5%AE%B6%E9%87%8C%E7%B4%A7%E6%80%A5%E6%83%85%E5%86%B5%E6%97%A0%E6%B3%95%E5%8F%82%E8%B5%9B%23" target="weibo">
 杨舒予因家里紧急情况无法参赛（热度：528426）
 </a>
@@ -4901,12 +4919,6 @@ iPhone天气你可能真的不会用（热度：556452）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2329%E5%B2%81%E6%99%BA%E9%9A%9C%E5%A5%B3%E5%AD%90%E7%BB%A7%E6%89%BF%E9%81%97%E4%BA%A7%E5%90%8E%E8%A2%AB%E4%BA%89%E7%9B%B8%E7%85%A7%E9%A1%BE%23" target="weibo">
 29岁智障女子继承遗产后被争相照顾（热度：505410）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%95%E7%A9%97%E4%B8%8D%E6%98%AF%E9%80%80%E5%9C%88%E8%80%8C%E6%98%AF%E5%9C%A8%E5%BE%85%E4%BA%A7%23" target="weibo">
-原来何穗不是退圈而是在待产（热度：505159）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Angelababy跳刀马刀马了（热度：440859）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%A9%9A%E7%A4%BC%E8%A6%81%E5%9C%A8%E4%B8%8B%E6%B0%B4%E9%81%93%E4%BA%95%E7%9B%96%E8%B4%B4%E5%96%9C%E5%AD%97%23" target="weibo">
 山西婚礼要在下水道井盖贴喜字（热度：438654）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E5%89%A7%E7%BB%84%E5%9B%9E%E5%BA%94%23" target="weibo">
-许我耀眼剧组回应（热度：438623）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E5%98%89%E5%B9%B4%E5%8D%8E%E5%B7%A1%E6%BC%94%23" target="weibo">
-周杰伦发文告别嘉年华巡演（热度：438367）
 </a>
 </li>
 

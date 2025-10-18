@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760769991195,
+  "endTime": 1760772128760,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2745307,
-      "num": 314944,
+      "num": 484095,
       "word": "杨振宁曾回应自己去世翁帆怎么办",
       "onboard_time": 1760767046,
       "rank": 10,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1092670,
+      "num": 479651,
+      "word": "原来何穗不是退圈而是在待产",
+      "onboard_time": 1760765430,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1057349,
       "num": 194259,
       "word": "小S 姐你不在的人生真的很辛苦",
@@ -113,6 +121,14 @@
       "onboard_time": 1760761167,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 924640,
+      "num": 474306,
+      "word": "林心如孕期没有和霍建华一直在一块",
+      "onboard_time": 1760769325,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 789364,
@@ -147,12 +163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 638747,
+      "num": 1102199,
+      "word": "飞韩国的航班行李架起火",
+      "onboard_time": 1760768126,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 624727,
       "num": 365848,
       "word": "邓莎老公路行辞职",
       "onboard_time": 1760762615,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 623682,
+      "num": 623682,
+      "word": "山西地震",
+      "onboard_time": 1760768426,
+      "rank": 3,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 600529,
@@ -164,7 +196,7 @@
     },
     {
       "raw_hot": 590716,
-      "num": 285463,
+      "num": 377663,
       "word": "杨振宁得知原子弹没美国人参加哭了",
       "onboard_time": 1760767046,
       "rank": 13,
@@ -243,16 +275,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 528543,
-      "num": 528543,
-      "word": "山西地震",
-      "onboard_time": 1760768426,
-      "rank": 3,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 514873,
-      "num": 273345,
+      "num": 473053,
       "word": "杨振宁35岁荣获诺贝尔奖",
       "onboard_time": 1760767046,
       "rank": 16,
@@ -275,16 +299,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 505159,
-      "num": 269596,
-      "word": "原来何穗不是退圈而是在待产",
-      "onboard_time": 1760765430,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 492244,
-      "num": 299412,
+      "num": 459065,
       "word": "杨振宁曾谈高龄恢复中国籍",
       "onboard_time": 1760769085,
       "rank": 17,
@@ -347,14 +363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 372452,
-      "num": 372452,
-      "word": "飞韩国的航班行李架起火",
-      "onboard_time": 1760768126,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 369651,
       "num": 746327,
       "word": "杨振宁享年103岁",
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 327166,
-      "num": 327166,
+      "num": 492022,
       "word": "山西3.9级地震",
       "onboard_time": 1760769024,
       "rank": 8,
@@ -603,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238607,
+      "num": 238607,
+      "word": "5岁女童唱歌遭男子死亡诅咒",
+      "onboard_time": 1760766748,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231146,
       "num": 231146,
       "word": "王者荣耀 河灯",
@@ -617,6 +633,14 @@
       "onboard_time": 1760763034,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223427,
+      "num": 160099,
+      "word": "能考85分偏要考84分",
+      "onboard_time": 1760771604,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 222368,
@@ -635,12 +659,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218995,
-      "num": 218995,
-      "word": "5岁女童唱歌遭男子死亡诅咒",
-      "onboard_time": 1760766748,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 215340,
+      "num": 506686,
+      "word": "花儿与少年",
+      "onboard_time": 1760765129,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 214307,
@@ -667,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205881,
+      "num": 205881,
+      "word": "肖战演戏主打一个剧抛自己",
+      "onboard_time": 1760771245,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204575,
       "num": 204575,
       "word": "iPhone17被曝机身褪色",
@@ -691,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195015,
-      "num": 320440,
-      "word": "花儿与少年",
-      "onboard_time": 1760765129,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193716,
       "num": 193716,
       "word": "三顾茅庐",
@@ -713,14 +737,6 @@
       "onboard_time": 1760761410,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192265,
-      "num": 192265,
-      "word": "林心如孕期没有和霍建华一直在一块",
-      "onboard_time": 1760769325,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 190459,
@@ -867,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170299,
+      "num": 170299,
+      "word": "音综有自己的迪丽热巴",
+      "onboard_time": 1760769864,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170022,
       "num": 170022,
       "word": "梁靖崑给王楚钦直男P图",
@@ -920,6 +944,30 @@
       "word": "辽宁一幼儿园被指15天虐童上千次",
       "onboard_time": 1760715801,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160513,
+      "num": 160513,
+      "word": "国航通报锂电池自燃致行李架起火",
+      "onboard_time": 1760771484,
+      "rank": 29,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 158671,
+      "num": 158671,
+      "word": "3个千万不能洗澡的时间段",
+      "onboard_time": 1760771365,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 158366,
+      "num": 158366,
+      "word": "野人小孩父母认为爬行是孩子天性",
+      "onboard_time": 1760771784,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1067,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134023,
+      "num": 134023,
+      "word": "没想到奥运冠军也抢不到苏超门票",
+      "onboard_time": 1760771903,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133800,
       "num": 198585,
       "word": "金价暴涨时4万5黄金订单蒸发",
@@ -1193,6 +1249,14 @@
       "onboard_time": 1760763094,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116829,
+      "num": 116829,
+      "word": "国航一杭州起飞航班起火备降",
+      "onboard_time": 1760771543,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116549,
@@ -1339,20 +1403,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 102763,
-      "num": 124135,
-      "word": "音综有自己的迪丽热巴",
-      "onboard_time": 1760769864,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 102722,
       "num": 102722,
       "word": "婚俗争执成压垮新郎最后稻草",
       "onboard_time": 1760713582,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102129,
+      "num": 102129,
+      "word": "原来胶囊要低着头吃",
+      "onboard_time": 1760770523,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 102078,
@@ -1377,6 +1441,14 @@
       "onboard_time": 1760767825,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 101160,
+      "num": 101160,
+      "word": "欧阳娜娜 高情商的底色是尊重",
+      "onboard_time": 1760772025,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 98203,
@@ -1825,6 +1897,14 @@
       "onboard_time": 1760767287,
       "rank": 14,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 25863,
+      "num": 461989,
+      "word": "峰哥亡命天涯赛博鲁滨逊",
+      "onboard_time": 1760770885,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 25808,
