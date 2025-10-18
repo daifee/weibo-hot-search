@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760829760614,
+  "endTime": 1760830606014,
   "band_list": [
     {
       "raw_hot": 995617,
@@ -19,8 +19,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 686354,
+      "num": 100600,
+      "word": "任嘉伦",
+      "onboard_time": 1760829258,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 601734,
-      "num": 793184,
+      "num": 889714,
       "word": "北京下雪了",
       "onboard_time": 1760805440,
       "rank": 41,
@@ -99,20 +107,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235770,
+      "num": 97957,
+      "word": "沙溢曾吃了狗吃过的面发烧三天",
+      "onboard_time": 1760829377,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235497,
       "num": 235497,
       "word": "凌晨三点叫你出来玩你不出来",
       "onboard_time": 1760811556,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233856,
-      "num": 100600,
-      "word": "任嘉伦",
-      "onboard_time": 1760829258,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 227392,
@@ -195,12 +203,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 131754,
-      "num": 97957,
-      "word": "沙溢曾吃了狗吃过的面发烧三天",
-      "onboard_time": 1760829377,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 135159,
+      "num": 456250,
+      "word": "猴哥已在南宁小区住5天了",
+      "onboard_time": 1760800103,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130787,
@@ -208,14 +216,6 @@
       "word": "圆明园复原后长这样",
       "onboard_time": 1760797343,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119775,
-      "num": 456250,
-      "word": "猴哥已在南宁小区住5天了",
-      "onboard_time": 1760800103,
-      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -291,6 +291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 93982,
+      "num": 110584,
+      "word": "香港中环突发火灾",
+      "onboard_time": 1760828596,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91848,
       "num": 91848,
       "word": "杨振宁曾在百岁生日宴后摔倒",
@@ -313,6 +321,14 @@
       "onboard_time": 1760767046,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84778,
+      "num": 84778,
+      "word": "F1",
+      "onboard_time": 1760829797,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 83074,
@@ -387,6 +403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70830,
+      "num": 70830,
+      "word": "中国拳王在澳遭袭致严重心理创伤",
+      "onboard_time": 1760784802,
+      "rank": 19,
+      "category": "海外新闻,体育"
+    },
+    {
       "raw_hot": 69624,
       "num": 73273,
       "word": "怎样辨别月经是否快来了",
@@ -417,6 +441,14 @@
       "onboard_time": 1760828596,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65666,
+      "num": 65666,
+      "word": "陈建州范玮琪听到小S致辞哭了",
+      "onboard_time": 1760810356,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 64183,
@@ -451,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61988,
-      "num": 61988,
-      "word": "陈建州范玮琪听到小S致辞哭了",
-      "onboard_time": 1760810356,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 61628,
+      "num": 61628,
+      "word": "Bin曾说16强就不打了",
+      "onboard_time": 1760829797,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 56473,
@@ -467,20 +499,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56072,
+      "num": 56072,
+      "word": "杨谨华金钟奖视后",
+      "onboard_time": 1760829377,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 53866,
       "num": 53866,
       "word": "高级河灯",
       "onboard_time": 1760829137,
       "rank": 28,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 51177,
-      "num": 110584,
-      "word": "香港中环突发火灾",
-      "onboard_time": 1760828596,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50151,
@@ -507,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 46143,
+      "num": 46143,
+      "word": "王玉雯大衣配凉鞋",
+      "onboard_time": 1760830278,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40774,
       "num": 64577,
       "word": "每个省都有自己专属应急食物",
@@ -521,14 +561,6 @@
       "onboard_time": 1760828897,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38191,
-      "num": 53742,
-      "word": "杨谨华金钟奖视后",
-      "onboard_time": 1760829377,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 37475,
@@ -563,7 +595,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24419,
+      "raw_hot": 24813,
       "num": 53567,
       "word": "沉默的荣耀",
       "onboard_time": 1760801243,
