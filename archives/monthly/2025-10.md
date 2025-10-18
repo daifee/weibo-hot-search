@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 17:24:06
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 17:37:03
 </p>
 </blockquote>
 <p>
@@ -5631,6 +5631,12 @@ Wei龙坑排眼（热度：465191）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E4%BB%BB%E6%95%8F%23" target="weibo">
+这居然是任敏（热度：462321）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TaylorSwift%E5%BF%98%E4%BA%86%E9%80%9A%E7%9F%A5EdSheeran%E8%AE%A2%E5%A9%9A%23" target="weibo">
 TaylorSwift忘了通知EdSheeran订婚（热度：461697）
 </a>
@@ -6005,12 +6011,6 @@ B站崩了（热度：442971）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%20%E4%B8%8D%E8%A6%81%E9%97%AE%E4%BA%BA%E5%AE%B6%E8%BF%99%E7%A7%8D%E9%97%AE%E9%A2%98%23" target="weibo">
 王安宇 不要问人家这种问题（热度：442124）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%96%B0%E9%83%8E%E5%9C%A8%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E8%B7%B3%E6%B2%B3%23" target="weibo">
-当地回应新郎在结婚当天跳河（热度：441877）
 </a>
 </li>
 

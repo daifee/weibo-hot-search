@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760779446180,
+  "endTime": 1760780223624,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -7491,6 +7491,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 462321,
+      "num": 233007,
+      "word": "这居然是任敏",
+      "onboard_time": 1760777782,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 461697,
       "num": 243834,
       "word": "TaylorSwift忘了通知EdSheeran订婚",
@@ -8023,14 +8031,6 @@
       "num": 226816,
       "word": "Angelababy跳刀马刀马了",
       "onboard_time": 1760270480,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 438698,
-      "num": 233007,
-      "word": "这居然是任敏",
-      "onboard_time": 1760777782,
       "rank": 20,
       "category": "艺人"
     },
@@ -9596,7 +9596,7 @@
     },
     {
       "raw_hot": 371682,
-      "num": 233409,
+      "num": 261989,
       "word": "西南联大五才子仅剩一人",
       "onboard_time": 1760777603,
       "rank": 15,
@@ -12459,6 +12459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 284201,
+      "num": 430123,
+      "word": "办银行卡 多重审核",
+      "onboard_time": 1760775083,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284161,
       "num": 224153,
       "word": "王楚钦你扣子扣岔了",
@@ -12883,6 +12891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274831,
+      "num": 232907,
+      "word": "陈伟霆长情",
+      "onboard_time": 1760777422,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274782,
       "num": 176481,
       "word": "高反失温女孩年仅20岁刚毕业",
@@ -12929,14 +12945,6 @@
       "onboard_time": 1760717303,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 273077,
-      "num": 232907,
-      "word": "陈伟霆长情",
-      "onboard_time": 1760777422,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 272772,
@@ -13601,6 +13609,14 @@
       "onboard_time": 1759448117,
       "rank": 15,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 259714,
+      "num": 259714,
+      "word": "死亡诅咒5岁女童唱歌男子已道歉",
+      "onboard_time": 1760778023,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259573,
@@ -14467,14 +14483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 243824,
-      "num": 430123,
-      "word": "办银行卡 多重审核",
-      "onboard_time": 1760775083,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 243270,
       "num": 243270,
       "word": "恋与深空 夏以昼",
@@ -14980,7 +14988,7 @@
     },
     {
       "raw_hot": 233914,
-      "num": 233914,
+      "num": 275239,
       "word": "曝iG多位选手已续约",
       "onboard_time": 1760777541,
       "rank": 7,
@@ -15025,14 +15033,6 @@
       "onboard_time": 1759547539,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 232769,
-      "num": 232769,
-      "word": "死亡诅咒5岁女童唱歌男子已道歉",
-      "onboard_time": 1760778023,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 232696,
@@ -25819,6 +25819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 146579,
+      "num": 146579,
+      "word": "四十万先买车还是先买房",
+      "onboard_time": 1760780182,
+      "rank": 32,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 146537,
       "num": 146537,
       "word": "檀健次说自己是长期主义者",
@@ -25945,6 +25953,14 @@
       "onboard_time": 1759274479,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146037,
+      "num": 272981,
+      "word": "GEN对战T1",
+      "onboard_time": 1760778983,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 146012,
@@ -27267,6 +27283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140129,
+      "num": 267336,
+      "word": "当了反派才知道自己人缘有多差",
+      "onboard_time": 1760777963,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140128,
       "num": 153733,
       "word": "王暖暖称众望所归",
@@ -27825,14 +27849,6 @@
       "onboard_time": 1759673785,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 138211,
-      "num": 233805,
-      "word": "当了反派才知道自己人缘有多差",
-      "onboard_time": 1760777963,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 138158,
@@ -29201,14 +29217,6 @@
       "onboard_time": 1759836200,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 133543,
-      "num": 233156,
-      "word": "GEN对战T1",
-      "onboard_time": 1760778983,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 133534,
@@ -31017,6 +31025,14 @@
       "onboard_time": 1760438121,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127196,
+      "num": 127196,
+      "word": "孟子义出席腾讯海外活动",
+      "onboard_time": 1760779582,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 127175,
@@ -33120,6 +33136,14 @@
       "word": "这居然是高伟光",
       "onboard_time": 1760598621,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 120875,
+      "num": 120875,
+      "word": "白鹿cha了宋雨琦mo",
+      "onboard_time": 1760780061,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -47611,6 +47635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85588,
+      "num": 233127,
+      "word": "中国歼10把美国F15的订单挤了",
+      "onboard_time": 1760779042,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85571,
       "num": 85571,
       "word": "工信部部长会见苹果CEO库克",
@@ -52115,14 +52147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68240,
-      "num": 233127,
-      "word": "中国歼10把美国F15的订单挤了",
-      "onboard_time": 1760779042,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 68228,
       "num": 68228,
       "word": "荷兰政府将限制闻泰科技子公司",
@@ -52721,6 +52745,14 @@
       "onboard_time": 1760111840,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 64718,
+      "num": 130201,
+      "word": "被大陆通缉台军麻烦大了",
+      "onboard_time": 1760778862,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 64596,
@@ -53955,14 +53987,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 56063,
-      "num": 130201,
-      "word": "被大陆通缉台军麻烦大了",
-      "onboard_time": 1760778862,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 55967,
       "num": 55967,
       "word": "兰蔻晚宴上的张凌赫",
@@ -54241,6 +54265,14 @@
       "onboard_time": 1759635742,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54521,
+      "num": 114389,
+      "word": "马思纯 你落水了我一定会陪你",
+      "onboard_time": 1760780061,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 54484,
@@ -57420,7 +57452,7 @@
     },
     {
       "raw_hot": 31034,
-      "num": 233451,
+      "num": 264550,
       "word": "自媒体遇到创作瓶颈如何破局",
       "onboard_time": 1760778084,
       "rank": 14,
