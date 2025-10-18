@@ -1,0 +1,410 @@
+{
+  "runTime": 1760787422258,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1883197,
+        "num": 1883197,
+        "word": "G2战胜BLG",
+        "onboard_time": 1760785103,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 687946,
+        "num": 687946,
+        "word": "红山动物园放弃抵抗采用野菜F4",
+        "onboard_time": 1760781742,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12089,
+        "num": 685113,
+        "word": "红星照耀中国",
+        "onboard_time": 1760593821,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 320875,
+        "num": 668934,
+        "word": "入青云",
+        "onboard_time": 1760786302,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221380,
+        "num": 663754,
+        "word": "李在明女翻译因高颜值走红",
+        "onboard_time": 1760773463,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 826361,
+        "num": 652593,
+        "word": "杨振宁逝世",
+        "onboard_time": 1760761410,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176335,
+        "num": 634226,
+        "word": "GEN战胜T1",
+        "onboard_time": 1760781683,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 173139,
+        "num": 631664,
+        "word": "BLG对战G2",
+        "onboard_time": 1760782763,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166786,
+        "num": 621055,
+        "word": "飞韩国的航班行李架起火",
+        "onboard_time": 1760768126,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146015,
+        "num": 600937,
+        "word": "杨振宁讣告",
+        "onboard_time": 1760762914,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 757801,
+        "num": 596311,
+        "word": "杨振宁20年前预言已基本实现",
+        "onboard_time": 1760781621,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 588442,
+        "num": 588442,
+        "word": "这居然是任敏",
+        "onboard_time": 1760777782,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560740,
+        "num": 560740,
+        "word": "杨振宁曾回应自己去世翁帆怎么办",
+        "onboard_time": 1760767046,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195228,
+        "num": 509223,
+        "word": "BLG想去找T1",
+        "onboard_time": 1760786662,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16336,
+        "num": 478666,
+        "word": "微博V影响力大会年度荣誉",
+        "onboard_time": 1760785283,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 467976,
+        "num": 467976,
+        "word": "国民党今日选出新主席",
+        "onboard_time": 1760781502,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 463530,
+        "num": 463530,
+        "word": "邓莎老公上再见爱人后辞职",
+        "onboard_time": 1760784623,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411987,
+        "num": 411987,
+        "word": "香港抓获未成年卖淫集团主犯18岁",
+        "onboard_time": 1760784202,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307436,
+        "num": 307436,
+        "word": "死亡诅咒5岁女童唱歌男子已道歉",
+        "onboard_time": 1760778023,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267594,
+        "num": 267594,
+        "word": "时代峰峻要告数据组",
+        "onboard_time": 1760773642,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66491,
+        "num": 259786,
+        "word": "潘建伟说大家以为杨振宁能挺过去",
+        "onboard_time": 1760787143,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 382398,
+        "num": 257976,
+        "word": "林心如孕期没有和霍建华一直在一块",
+        "onboard_time": 1760769325,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288959,
+        "num": 257136,
+        "word": "北京今天就下雪了",
+        "onboard_time": 1760784202,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254396,
+        "num": 254396,
+        "word": "侯明昊卢昱晓直播",
+        "onboard_time": 1760785162,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220026,
+        "num": 220026,
+        "word": "丫蛋38岁状态",
+        "onboard_time": 1760786602,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210649,
+        "num": 210649,
+        "word": "确认过榜单短剧演员真升咖了",
+        "onboard_time": 1760786602,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205698,
+        "num": 205698,
+        "word": "金价暴涨下的水贝",
+        "onboard_time": 1760785343,
+        "rank": 26,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 181467,
+        "num": 181467,
+        "word": "BrokenBlade单杀Bin",
+        "onboard_time": 1760786182,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181445,
+        "num": 181445,
+        "word": "奥本海默是杨振宁同事",
+        "onboard_time": 1760783483,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123011,
+        "num": 167709,
+        "word": "入青云仙侣约会日",
+        "onboard_time": 1760783963,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196269,
+        "num": 166849,
+        "word": "Bin连送两波",
+        "onboard_time": 1760785883,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164450,
+        "num": 164450,
+        "word": "每天上班我只做三件事",
+        "onboard_time": 1760786662,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163272,
+        "num": 163272,
+        "word": "李沁 爱是相互的",
+        "onboard_time": 1760786003,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158450,
+        "num": 158450,
+        "word": "王多多 本来是从从容容游刃有余",
+        "onboard_time": 1760785702,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151803,
+        "num": 151803,
+        "word": "空腹爬楼四个月瘦20斤",
+        "onboard_time": 1760783662,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 150308,
+        "num": 150308,
+        "word": "住酒店可以免费拿走的东西",
+        "onboard_time": 1760784744,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140437,
+        "num": 140437,
+        "word": "中华田园犬都有自己的名字",
+        "onboard_time": 1760786122,
+        "rank": 36,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 135735,
+        "num": 135735,
+        "word": "白鹿cha了宋雨琦mo",
+        "onboard_time": 1760780061,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130889,
+        "num": 130889,
+        "word": "西南联大五才子仅剩一人",
+        "onboard_time": 1760777603,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72312,
+        "num": 130041,
+        "word": "特朗普又把问题缘由甩给尼克松",
+        "onboard_time": 1760785283,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131646,
+        "num": 129986,
+        "word": "四十万先买车还是先买房",
+        "onboard_time": 1760780182,
+        "rank": 40,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 129480,
+        "num": 129480,
+        "word": "陈伟霆长情",
+        "onboard_time": 1760777422,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126499,
+        "num": 126499,
+        "word": "蔡徐坤条纹西装慵懒感",
+        "onboard_time": 1760786423,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125685,
+        "num": 125685,
+        "word": "樊振东小卡已经进化成这样了吗",
+        "onboard_time": 1760785103,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125675,
+        "num": 125675,
+        "word": "曝85男流量不配合剧宣",
+        "onboard_time": 1760787143,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122497,
+        "num": 122497,
+        "word": "一代人有一代人的丝巾",
+        "onboard_time": 1760787024,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118554,
+        "num": 118554,
+        "word": "陈都灵生日直播连读粉丝来信",
+        "onboard_time": 1760786602,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96112,
+        "num": 117527,
+        "word": "苏超",
+        "onboard_time": 1760786542,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74760,
+        "num": 117197,
+        "word": "聚星名人赛",
+        "onboard_time": 1760786842,
+        "rank": 48,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 117153,
+        "num": 117153,
+        "word": "这4种电话别接别回别点",
+        "onboard_time": 1760787383,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平经济思想引领新时代经济工作#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760786411051,
+  "endTime": 1760787422258,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2745307,
-      "num": 484095,
+      "num": 560740,
       "word": "杨振宁曾回应自己去世翁帆怎么办",
       "onboard_time": 1760767046,
       "rank": 10,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 985249,
-      "num": 233007,
+      "num": 588442,
       "word": "这居然是任敏",
       "onboard_time": 1760777782,
       "rank": 20,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 817794,
-      "num": 259714,
+      "num": 307436,
       "word": "死亡诅咒5岁女童唱歌男子已道歉",
       "onboard_time": 1760778023,
       "rank": 24,
@@ -225,6 +225,14 @@
       "onboard_time": 1760768485,
       "rank": 0,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 757801,
+      "num": 596311,
+      "word": "杨振宁20年前预言已基本实现",
+      "onboard_time": 1760781621,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 732112,
@@ -403,6 +411,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467976,
+      "num": 467976,
+      "word": "国民党今日选出新主席",
+      "onboard_time": 1760781502,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 463530,
+      "num": 463530,
+      "word": "邓莎老公上再见爱人后辞职",
+      "onboard_time": 1760784623,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 458474,
       "num": 574676,
       "word": "韩四大集团CEO将赴海湖庄园",
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 457241,
-      "num": 189915,
+      "num": 411987,
       "word": "香港抓获未成年卖淫集团主犯18岁",
       "onboard_time": 1760784202,
       "rank": 12,
@@ -459,22 +483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 433213,
-      "num": 219745,
-      "word": "杨振宁20年前预言已基本实现",
-      "onboard_time": 1760781621,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 429422,
-      "num": 221002,
-      "word": "国民党今日选出新主席",
-      "onboard_time": 1760781502,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 386098,
       "num": 261989,
       "word": "西南联大五才子仅剩一人",
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 347956,
-      "num": 347956,
+      "num": 631664,
       "word": "BLG对战G2",
       "onboard_time": 1760782763,
       "rank": 40,
@@ -547,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 320875,
+      "num": 668934,
+      "word": "入青云",
+      "onboard_time": 1760742977,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308158,
       "num": 254554,
       "word": "Faker回应Karsa致敬",
@@ -561,6 +577,14 @@
       "onboard_time": 1760760030,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288959,
+      "num": 257136,
+      "word": "北京今天就下雪了",
+      "onboard_time": 1760784202,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 284201,
@@ -731,20 +755,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 254396,
+      "num": 254396,
+      "word": "侯明昊卢昱晓直播",
+      "onboard_time": 1760785162,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253111,
       "num": 232799,
       "word": "卢昱晓 偏偏你最争气",
       "onboard_time": 1760775742,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 252379,
-      "num": 182904,
-      "word": "北京今天就下雪了",
-      "onboard_time": 1760784202,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 251906,
@@ -811,22 +835,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 231110,
-      "num": 186590,
-      "word": "侯明昊卢昱晓直播",
-      "onboard_time": 1760785162,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 224935,
-      "num": 186210,
-      "word": "邓莎老公上再见爱人后辞职",
-      "onboard_time": 1760784623,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224469,
       "num": 224469,
       "word": "安世半导体通知中国员工停薪",
@@ -851,6 +859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220026,
+      "num": 220026,
+      "word": "丫蛋38岁状态",
+      "onboard_time": 1760786602,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215340,
       "num": 506686,
       "word": "花儿与少年",
@@ -865,6 +881,14 @@
       "onboard_time": 1760749581,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 210649,
+      "num": 210649,
+      "word": "确认过榜单短剧演员真升咖了",
+      "onboard_time": 1760786602,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 209163,
@@ -897,6 +921,14 @@
       "onboard_time": 1760772623,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205698,
+      "num": 205698,
+      "word": "金价暴涨下的水贝",
+      "onboard_time": 1760785343,
+      "rank": 24,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 204575,
@@ -963,12 +995,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 194224,
-      "num": 181588,
-      "word": "金价暴涨下的水贝",
-      "onboard_time": 1760785343,
-      "rank": 24,
-      "category": "财经,民生新闻"
+      "raw_hot": 195228,
+      "num": 509223,
+      "word": "BLG想去找T1",
+      "onboard_time": 1760786662,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 193716,
@@ -993,14 +1025,6 @@
       "onboard_time": 1760786122,
       "rank": 31,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 191762,
-      "num": 191762,
-      "word": "入青云",
-      "onboard_time": 1760742977,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 190459,
@@ -1091,6 +1115,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 181467,
+      "num": 181467,
+      "word": "BrokenBlade单杀Bin",
+      "onboard_time": 1760786182,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 181445,
+      "num": 181445,
+      "word": "奥本海默是杨振宁同事",
+      "onboard_time": 1760783483,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 180439,
       "num": 327674,
       "word": "日本员工扫浴池时被熊叼走池边有血",
@@ -1105,14 +1145,6 @@
       "onboard_time": 1760761837,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179959,
-      "num": 179959,
-      "word": "奥本海默是杨振宁同事",
-      "onboard_time": 1760783483,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 179871,
@@ -1203,14 +1235,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 172480,
-      "num": 172480,
-      "word": "BrokenBlade单杀Bin",
-      "onboard_time": 1760786182,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 171507,
       "num": 172833,
       "word": "暗河传",
@@ -1283,12 +1307,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164450,
+      "num": 164450,
+      "word": "每天上班我只做三件事",
+      "onboard_time": 1760786662,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164049,
       "num": 164049,
       "word": "王多多 本来是从从容容游刃有余",
       "onboard_time": 1760785702,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163272,
+      "num": 163272,
+      "word": "李沁 爱是相互的",
+      "onboard_time": 1760786003,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 161261,
@@ -1595,14 +1635,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 128209,
-      "num": 128209,
-      "word": "李沁 爱是相互的",
-      "onboard_time": 1760786003,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 128071,
       "num": 128071,
       "word": "杜淳妻子说因戏生情的演员不专业",
@@ -1635,12 +1667,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126499,
+      "num": 126499,
+      "word": "蔡徐坤条纹西装慵懒感",
+      "onboard_time": 1760786423,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 126323,
       "num": 126323,
       "word": "汪铎的基本功被央视考验了",
       "onboard_time": 1760757691,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125675,
+      "num": 125675,
+      "word": "曝85男流量不配合剧宣",
+      "onboard_time": 1760787143,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 124416,
@@ -1681,6 +1729,14 @@
       "onboard_time": 1760779222,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122497,
+      "num": 122497,
+      "word": "一代人有一代人的丝巾",
+      "onboard_time": 1760787024,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 121354,
@@ -1731,6 +1787,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 118554,
+      "num": 118554,
+      "word": "陈都灵生日直播连读粉丝来信",
+      "onboard_time": 1760786602,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118169,
       "num": 118169,
       "word": "妈妈看店半天没卖出儿子5分钟开单",
@@ -1753,6 +1817,14 @@
       "onboard_time": 1760763094,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117153,
+      "num": 117153,
+      "word": "这4种电话别接别回别点",
+      "onboard_time": 1760787383,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116549,
@@ -2051,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96112,
+      "num": 117527,
+      "word": "苏超",
+      "onboard_time": 1760786542,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95922,
       "num": 95922,
       "word": "金价暴涨男子买黄金反亏千元",
@@ -2219,6 +2299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74760,
+      "num": 117197,
+      "word": "聚星名人赛",
+      "onboard_time": 1760786842,
+      "rank": 48,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 74524,
       "num": 93471,
       "word": "果然狗是狗边牧是边牧",
@@ -2257,6 +2345,14 @@
       "onboard_time": 1760784684,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 72312,
+      "num": 185132,
+      "word": "特朗普又把问题缘由甩给尼克松",
+      "onboard_time": 1760785283,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 71398,
@@ -2313,6 +2409,14 @@
       "onboard_time": 1760749100,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 66491,
+      "num": 259786,
+      "word": "潘建伟说大家以为杨振宁能挺过去",
+      "onboard_time": 1760787143,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66006,
@@ -2457,14 +2561,6 @@
       "onboard_time": 1760721618,
       "rank": 49,
       "category": "时尚,休闲"
-    },
-    {
-      "raw_hot": 47709,
-      "num": 185132,
-      "word": "特朗普又把问题缘由甩给尼克松",
-      "onboard_time": 1760785283,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 47273,
@@ -2699,6 +2795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 16336,
+      "num": 478666,
+      "word": "微博V影响力大会年度荣誉",
+      "onboard_time": 1760785283,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 15464,
       "num": 140677,
       "word": "曝王玉雯谦让有礼貌",
@@ -2715,14 +2819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15121,
-      "num": 188572,
-      "word": "微博V影响力大会年度荣誉",
-      "onboard_time": 1760785283,
-      "rank": 14,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 14157,
       "num": 33787,
       "word": "蒋龙张弛伯牙绝弦",
@@ -2731,20 +2827,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 12089,
+      "num": 685113,
+      "word": "红星照耀中国",
+      "onboard_time": 1760593821,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12001,
       "num": 31953,
       "word": "湖南卫视连发6条罗云熙",
       "onboard_time": 1760739736,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 10938,
-      "num": 630672,
-      "word": "红星照耀中国",
-      "onboard_time": 1760593821,
-      "rank": 34,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
