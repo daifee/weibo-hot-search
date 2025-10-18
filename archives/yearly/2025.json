@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1760752946106,
+  "endTime": 1760756425137,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -104,6 +104,14 @@
       "word": "于朦胧去世",
       "onboard_time": 1757587963,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 23107983,
+      "num": 23107983,
+      "word": "陈伟霆何穗官宣生子",
+      "onboard_time": 1760753301,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -2059,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6918312,
+      "num": 6918312,
+      "word": "陈伟霆何穗什么时候在一起的",
+      "onboard_time": 1760753604,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6912060,
       "num": 6912060,
       "word": "王楚钦孙颖莎vs吉村真晴大藤沙月",
@@ -2384,22 +2400,6 @@
       "word": "泰国喊话中国游客",
       "onboard_time": 1736756359,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 4878590,
-      "num": 1561572,
-      "word": "难听",
-      "onboard_time": 1739278102,
-      "rank": 25,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 4871233,
-      "num": 4871233,
-      "word": "李某雪有严重精神障碍",
-      "onboard_time": 1736560758,
-      "rank": 0,
       "category": "民生新闻"
     }
   ],

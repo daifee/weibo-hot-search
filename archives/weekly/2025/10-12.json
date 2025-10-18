@@ -1,7 +1,15 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760752946106,
+  "endTime": 1760756425137,
   "band_list": [
+    {
+      "raw_hot": 23107983,
+      "num": 23107983,
+      "word": "陈伟霆何穗官宣生子",
+      "onboard_time": 1760753301,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 9427103,
       "num": 9427103,
@@ -41,6 +49,14 @@
       "onboard_time": 1760693962,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6918312,
+      "num": 6918312,
+      "word": "陈伟霆何穗什么时候在一起的",
+      "onboard_time": 1760753604,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 4061269,
@@ -1068,7 +1084,7 @@
     },
     {
       "raw_hot": 785694,
-      "num": 168048,
+      "num": 170797,
       "word": "张慧贤给万鹏道歉",
       "onboard_time": 1760745379,
       "rank": 15,
@@ -1563,6 +1579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 613839,
+      "num": 171299,
+      "word": "压力给到井柏然刘雯",
+      "onboard_time": 1760755712,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 613237,
       "num": 217876,
       "word": "丈夫坚持AA制妻子无力支付要写欠条",
@@ -1785,6 +1809,14 @@
       "onboard_time": 1760532321,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 561247,
+      "num": 171156,
+      "word": "与已婚女同居博士生被解除公派留学",
+      "onboard_time": 1760754271,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 561040,
@@ -2331,6 +2363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 483655,
+      "num": 483655,
+      "word": "金价银价大跳水",
+      "onboard_time": 1760752102,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 480724,
       "num": 200967,
       "word": "女生意外拍到肿瘤细胞分裂全过程",
@@ -2500,7 +2540,7 @@
     },
     {
       "raw_hot": 469050,
-      "num": 170333,
+      "num": 170389,
       "word": "黄子韬松开徐艺洋挽刘宇宁",
       "onboard_time": 1760743698,
       "rank": 17,
@@ -2891,6 +2931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 421494,
+      "num": 421494,
+      "word": "许我耀眼",
+      "onboard_time": 1760755352,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 416879,
       "num": 208279,
       "word": "西藏江孜县委书记被免职",
@@ -3225,6 +3273,14 @@
       "onboard_time": 1760585781,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 379456,
+      "num": 170716,
+      "word": "好命哥真好命",
+      "onboard_time": 1760754990,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 379419,
@@ -4524,7 +4580,7 @@
     },
     {
       "raw_hot": 266024,
-      "num": 167651,
+      "num": 170287,
       "word": "民政局回应老人扎堆领结婚证",
       "onboard_time": 1760749281,
       "rank": 14,
@@ -4609,6 +4665,22 @@
       "onboard_time": 1760407820,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262545,
+      "num": 648728,
+      "word": "广东人终于不用穿短袖了",
+      "onboard_time": 1760749281,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262094,
+      "num": 262094,
+      "word": "中美经贸磋商",
+      "onboard_time": 1760754511,
+      "rank": 5,
+      "category": "国内时政"
     },
     {
       "raw_hot": 261571,
@@ -5129,6 +5201,14 @@
       "onboard_time": 1760185281,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 232795,
+      "num": 161662,
+      "word": "倪大红姜妍领衔主演小城良方",
+      "onboard_time": 1760754931,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 232696,
@@ -5883,6 +5963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201674,
+      "num": 201674,
+      "word": "间谍在民宿拍军港被老板举报",
+      "onboard_time": 1760755772,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201442,
       "num": 201442,
       "word": "亚锦赛",
@@ -6025,6 +6113,14 @@
       "onboard_time": 1760588903,
       "rank": 37,
       "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 197977,
+      "num": 160676,
+      "word": "肖战王彦霖首搭",
+      "onboard_time": 1760755835,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 197818,
@@ -7219,6 +7315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171507,
+      "num": 171507,
+      "word": "暗河传",
+      "onboard_time": 1760277441,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171322,
       "num": 171322,
       "word": "代号鸢",
@@ -7659,6 +7763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162775,
+      "num": 162775,
+      "word": "梁靖崑给王楚钦直男P图",
+      "onboard_time": 1760753664,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162747,
       "num": 155826,
       "word": "发工资第一件事",
@@ -7955,6 +8067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158306,
+      "num": 158306,
+      "word": "金饰克价跌到1262元",
+      "onboard_time": 1760752941,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 158235,
       "num": 158235,
       "word": "陈鹤一发红包",
@@ -8089,6 +8209,14 @@
       "onboard_time": 1760324300,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156656,
+      "num": 170672,
+      "word": "穆祉丞翻唱恋人未满上线",
+      "onboard_time": 1760755051,
+      "rank": 18,
+      "category": "音乐"
     },
     {
       "raw_hot": 156616,
@@ -8331,6 +8459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153380,
+      "num": 153380,
+      "word": "中美同意尽快举行新一轮经贸磋商",
+      "onboard_time": 1760756253,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153353,
       "num": 153353,
       "word": "商务部回应美方以100%新关税施压",
@@ -8401,14 +8537,6 @@
       "onboard_time": 1760227579,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 152074,
-      "num": 152074,
-      "word": "暗河传",
-      "onboard_time": 1760277441,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 151975,
@@ -9243,6 +9371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141510,
+      "num": 141510,
+      "word": "刘品言挺8个月孕肚走红毯",
+      "onboard_time": 1760748622,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141446,
       "num": 122118,
       "word": "LPL冠军选手聚会",
@@ -9955,6 +10091,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 134126,
+      "num": 134126,
+      "word": "只要你谈过几次恋爱就会发现",
+      "onboard_time": 1760755592,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133933,
       "num": 133933,
       "word": "中美贸易冲突风险上升",
@@ -10057,14 +10201,6 @@
       "onboard_time": 1760697983,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132804,
-      "num": 132804,
-      "word": "金价银价大跳水",
-      "onboard_time": 1760752102,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 132794,
@@ -10459,6 +10595,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 128492,
+      "num": 169851,
+      "word": "33个弹片成了老兵摘不掉的项链",
+      "onboard_time": 1760752761,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128429,
       "num": 135146,
       "word": "知乎回应崩了",
@@ -10611,6 +10755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126997,
+      "num": 142777,
+      "word": "小城良方特邀主演王彦霖",
+      "onboard_time": 1760753361,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126811,
       "num": 126811,
       "word": "马思纯偷袭语音王安宇毫无防备",
@@ -10689,14 +10841,6 @@
       "onboard_time": 1760498661,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 126387,
-      "num": 126387,
-      "word": "刘品言挺8个月孕肚走红毯",
-      "onboard_time": 1760748622,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 126328,
@@ -11691,6 +11835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118782,
+      "num": 118782,
+      "word": "mango创始人堕亡长子成嫌疑人",
+      "onboard_time": 1760753001,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 118767,
       "num": 212450,
       "word": "刘宇宁京东",
@@ -12355,6 +12507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114636,
+      "num": 114636,
+      "word": "麦当劳 没那么灵",
+      "onboard_time": 1760755533,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114486,
       "num": 114486,
       "word": "电影震耳欲聋票房破2亿",
@@ -12377,6 +12537,14 @@
       "onboard_time": 1760700323,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 114368,
+      "num": 114368,
+      "word": "辽宁失联女童在病床上感谢大家",
+      "onboard_time": 1760755772,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114133,
@@ -12817,6 +12985,14 @@
       "onboard_time": 1760599942,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111540,
+      "num": 111540,
+      "word": "多名男女在草原上跳纸片舞",
+      "onboard_time": 1760756253,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111528,
@@ -13443,6 +13619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107702,
+      "num": 107702,
+      "word": "河村勇辉被公牛裁掉",
+      "onboard_time": 1760755592,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107696,
       "num": 169222,
       "word": "于正劝退无颜值优势素人自荐当演员",
@@ -13817,6 +14001,14 @@
       "onboard_time": 1760237719,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105476,
+      "num": 105476,
+      "word": "被王楚钦孙颖莎刘少昂等鼓舞到了",
+      "onboard_time": 1760755172,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 105468,
@@ -14275,6 +14467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102521,
+      "num": 102521,
+      "word": "多地断崖式降温",
+      "onboard_time": 1760752821,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102451,
       "num": 102451,
       "word": "盛李豪打羽毛球笑翻樊振东",
@@ -14473,14 +14673,6 @@
       "onboard_time": 1760619262,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 101475,
-      "num": 169851,
-      "word": "33个弹片成了老兵摘不掉的项链",
-      "onboard_time": 1760752761,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101463,
@@ -15067,6 +15259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96766,
+      "num": 96766,
+      "word": "时尚品牌创始人坠崖儿子涉嫌谋杀",
+      "onboard_time": 1760747121,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 96597,
       "num": 96597,
       "word": "金饰克价涨到1281元",
@@ -15481,14 +15681,6 @@
       "onboard_time": 1760241800,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93407,
-      "num": 93407,
-      "word": "多地断崖式降温",
-      "onboard_time": 1760752821,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93362,
@@ -16081,14 +16273,6 @@
       "onboard_time": 1760234121,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 89375,
-      "num": 94419,
-      "word": "时尚品牌创始人坠崖儿子涉嫌谋杀",
-      "onboard_time": 1760747121,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 89226,
@@ -17499,6 +17683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79549,
+      "num": 105778,
+      "word": "陈飞宇胖到过220斤",
+      "onboard_time": 1760755109,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 79488,
       "num": 113633,
       "word": "高洪波卸任重庆荣昌区委书记",
@@ -17537,14 +17729,6 @@
       "onboard_time": 1760359101,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 79164,
-      "num": 94190,
-      "word": "广东人终于不用穿短袖了",
-      "onboard_time": 1760749281,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79024,
@@ -20923,6 +21107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28466,
+      "num": 493466,
+      "word": "WannaCry勒索风暴的警示与防范",
+      "onboard_time": 1760752880,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28314,
       "num": 106929,
       "word": "孙颖莎肯定邱指导的指导",
@@ -21817,14 +22009,6 @@
       "onboard_time": 1760486842,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 5908,
-      "num": 289062,
-      "word": "WannaCry勒索风暴的警示与防范",
-      "onboard_time": 1760752880,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1173,
