@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760769258589,
+  "endTime": 1760769991195,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -43,19 +43,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 2745307,
+      "num": 314944,
+      "word": "杨振宁曾回应自己去世翁帆怎么办",
+      "onboard_time": 1760767046,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2477642,
       "num": 1924240,
       "word": "杨振宁翁帆相伴20余年",
       "onboard_time": 1760762497,
       "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2130054,
-      "num": 271258,
-      "word": "杨振宁曾回应自己去世翁帆怎么办",
-      "onboard_time": 1760767046,
-      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 590716,
-      "num": 270843,
+      "num": 285463,
       "word": "杨振宁得知原子弹没美国人参加哭了",
       "onboard_time": 1760767046,
       "rank": 13,
@@ -203,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 558166,
+      "num": 1089306,
+      "word": "三亚撞劳斯莱斯女子涉嫌危险驾驶罪",
+      "onboard_time": 1760766209,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 556452,
       "num": 1089032,
       "word": "iPhone天气你可能真的不会用",
@@ -235,8 +243,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 528543,
+      "num": 528543,
+      "word": "山西地震",
+      "onboard_time": 1760768426,
+      "rank": 3,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 514873,
-      "num": 270280,
+      "num": 273345,
       "word": "杨振宁35岁荣获诺贝尔奖",
       "onboard_time": 1760767046,
       "rank": 16,
@@ -259,11 +275,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 485524,
-      "num": 485524,
-      "word": "三亚撞劳斯莱斯女子涉嫌危险驾驶罪",
-      "onboard_time": 1760766209,
-      "rank": 1,
+      "raw_hot": 505159,
+      "num": 269596,
+      "word": "原来何穗不是退圈而是在待产",
+      "onboard_time": 1760765430,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 492244,
+      "num": 299412,
+      "word": "杨振宁曾谈高龄恢复中国籍",
+      "onboard_time": 1760769085,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -323,28 +347,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 432566,
-      "num": 270136,
-      "word": "杨振宁曾谈高龄恢复中国籍",
-      "onboard_time": 1760769085,
-      "rank": 17,
+      "raw_hot": 372452,
+      "num": 372452,
+      "word": "飞韩国的航班行李架起火",
+      "onboard_time": 1760768126,
+      "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 409698,
-      "num": 269596,
-      "word": "原来何穗不是退圈而是在待产",
-      "onboard_time": 1760765430,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 383879,
-      "num": 383879,
-      "word": "山西地震",
-      "onboard_time": 1760768426,
-      "rank": 3,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 369651,
@@ -385,6 +393,14 @@
       "onboard_time": 1760679982,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327166,
+      "num": 327166,
+      "word": "山西3.9级地震",
+      "onboard_time": 1760769024,
+      "rank": 8,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 321368,
@@ -448,14 +464,6 @@
       "word": "丈夫中1000万变心但不想离婚",
       "onboard_time": 1760717303,
       "rank": 21,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 272178,
-      "num": 272178,
-      "word": "飞韩国的航班行李架起火",
-      "onboard_time": 1760768126,
-      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -627,8 +635,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215136,
-      "num": 215136,
+      "raw_hot": 218995,
+      "num": 218995,
       "word": "5岁女童唱歌遭男子死亡诅咒",
       "onboard_time": 1760766748,
       "rank": 26,
@@ -684,10 +692,18 @@
     },
     {
       "raw_hot": 195015,
-      "num": 305606,
+      "num": 320440,
       "word": "花儿与少年",
       "onboard_time": 1760765129,
       "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 193716,
+      "num": 193716,
+      "word": "三顾茅庐",
+      "onboard_time": 1760769383,
+      "rank": 27,
       "category": "综艺"
     },
     {
@@ -697,6 +713,14 @@
       "onboard_time": 1760761410,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192265,
+      "num": 192265,
+      "word": "林心如孕期没有和霍建华一直在一块",
+      "onboard_time": 1760769325,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 190459,
@@ -801,14 +825,6 @@
       "onboard_time": 1760765249,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175204,
-      "num": 271563,
-      "word": "山西3.9级地震",
-      "onboard_time": 1760769024,
-      "rank": 8,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 172632,
@@ -1012,7 +1028,7 @@
     },
     {
       "raw_hot": 137043,
-      "num": 137043,
+      "num": 158615,
       "word": "太监赛道越来越拥挤了",
       "onboard_time": 1760768485,
       "rank": 36,
@@ -1096,6 +1112,14 @@
       "word": "汪铎的基本功被央视考验了",
       "onboard_time": 1760757691,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126290,
+      "num": 126290,
+      "word": "李沁安排礼物眼睛都不带眨的",
+      "onboard_time": 1760769264,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -1275,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105264,
+      "num": 105264,
+      "word": "面具之下是更帅一张脸",
+      "onboard_time": 1760769024,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104857,
       "num": 221746,
       "word": "妻子患癌去世前被三次起诉离婚",
@@ -1305,6 +1337,14 @@
       "onboard_time": 1760757872,
       "rank": 41,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 102763,
+      "num": 124135,
+      "word": "音综有自己的迪丽热巴",
+      "onboard_time": 1760769864,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 102722,
@@ -1780,7 +1820,7 @@
     },
     {
       "raw_hot": 27709,
-      "num": 270576,
+      "num": 293490,
       "word": "韩路有话直说的狠人",
       "onboard_time": 1760767287,
       "rank": 14,
