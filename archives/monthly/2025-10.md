@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 18:40:35
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 19:20:11
 </p>
 </blockquote>
 <p>
@@ -227,6 +227,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%23" target="weibo">
 央视中秋晚会（热度：2464062）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23G2%E6%88%98%E8%83%9CBLG%23" target="weibo">
+G2战胜BLG（热度：2411570）
 </a>
 </li>
 
@@ -1721,6 +1727,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%88%96%E5%B0%86%E8%BF%8E%E6%9D%A5%E9%A6%96%E4%BD%8D%E5%A5%B3%E9%A6%96%E7%9B%B8%23" target="weibo">
 日本或将迎来首位女首相（热度：950465）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD%E6%94%BE%E5%BC%83%E6%8A%B5%E6%8A%97%E9%87%87%E7%94%A8%E9%87%8E%E8%8F%9CF4%23" target="weibo">
+红山动物园放弃抵抗采用野菜F4（热度：950375）
 </a>
 </li>
 
@@ -3617,12 +3629,6 @@ JDG战胜狼队（热度：630844）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E31%E5%B2%81%E6%B4%BE%E5%87%BA%E6%89%80%E5%89%AF%E6%89%80%E9%95%BF%E5%9B%A0%E5%85%AC%E7%89%BA%E7%89%B2%23" target="weibo">
 贵州31岁派出所副所长因公牺牲（热度：617719）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD%E6%94%BE%E5%BC%83%E6%8A%B5%E6%8A%97%E9%87%87%E7%94%A8%E9%87%8E%E8%8F%9CF4%23" target="weibo">
-红山动物园放弃抵抗采用野菜F4（热度：617572）
 </a>
 </li>
 
@@ -5733,6 +5739,12 @@ UNINE合体（热度：458011）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%8A%93%E8%8E%B7%E6%9C%AA%E6%88%90%E5%B9%B4%E5%8D%96%E6%B7%AB%E9%9B%86%E5%9B%A2%E4%B8%BB%E7%8A%AF18%E5%B2%81%23" target="weibo">
+香港抓获未成年卖淫集团主犯18岁（热度：457241）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%B0%8F%E6%A3%A0%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%23" target="weibo">
 赵小棠姥姥去世（热度：457114）
 </a>
@@ -5999,18 +6011,6 @@ KT战胜TES（热度：445439）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23B%E7%AB%99%E5%B4%A9%E4%BA%86%23" target="weibo">
 B站崩了（热度：442971）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%88%B8%E7%88%B8%E5%9B%9E%E5%BA%94%E7%97%85%E5%8D%B1%E4%BC%A0%E8%A8%80%23" target="weibo">
-郭碧婷爸爸回应病危传言（热度：442943）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E5%9B%9E%E5%BA%94%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E8%AE%B8%E5%A6%8D%E9%85%8D%E9%9F%B3%23" target="weibo">
-配音演员回应许我耀眼许妍配音（热度：442736）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760784035610,
+  "endTime": 1760786411051,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -145,6 +145,14 @@
       "onboard_time": 1760762497,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2411570,
+      "num": 2411570,
+      "word": "G2战胜BLG",
+      "onboard_time": 1760785103,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 2289458,
@@ -849,6 +857,14 @@
       "onboard_time": 1760500161,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 950375,
+      "num": 1098811,
+      "word": "红山动物园放弃抵抗采用野菜F4",
+      "onboard_time": 1760781742,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 949168,
@@ -1745,14 +1761,6 @@
       "onboard_time": 1760512521,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 617572,
-      "num": 1098811,
-      "word": "红山动物园放弃抵抗采用野菜F4",
-      "onboard_time": 1760781742,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 617066,
@@ -2891,6 +2899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 457241,
+      "num": 189915,
+      "word": "香港抓获未成年卖淫集团主犯18岁",
+      "onboard_time": 1760784202,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 457114,
       "num": 363144,
       "word": "赵小棠姥姥去世",
@@ -3131,6 +3147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 433213,
+      "num": 219745,
+      "word": "杨振宁20年前预言已基本实现",
+      "onboard_time": 1760781621,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 432554,
       "num": 432554,
       "word": "山姆回应配送员电动车挂满大件货物",
@@ -3152,6 +3176,14 @@
       "word": "菲律宾派出的挑衅船只越来越多",
       "onboard_time": 1760245161,
       "rank": 15,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 429422,
+      "num": 221002,
+      "word": "国民党今日选出新主席",
+      "onboard_time": 1760781502,
+      "rank": 19,
       "category": "国内时政"
     },
     {
@@ -3811,6 +3843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 347956,
+      "num": 347956,
+      "word": "BLG对战G2",
+      "onboard_time": 1760782763,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 347780,
       "num": 432459,
       "word": "村长李锐已从湖南卫视离职",
@@ -4225,14 +4265,6 @@
       "onboard_time": 1760445501,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 311858,
-      "num": 221002,
-      "word": "国民党今日选出新主席",
-      "onboard_time": 1760781502,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 311165,
@@ -5315,6 +5347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252379,
+      "num": 182904,
+      "word": "北京今天就下雪了",
+      "onboard_time": 1760784202,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252292,
       "num": 224921,
       "word": "张婧仪生图也太生了",
@@ -5755,6 +5795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 231110,
+      "num": 186590,
+      "word": "侯明昊卢昱晓直播",
+      "onboard_time": 1760785162,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230975,
       "num": 183981,
       "word": "网购卫生巾上有手写字",
@@ -5897,6 +5945,14 @@
       "onboard_time": 1760599521,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 224935,
+      "num": 186210,
+      "word": "邓莎老公上再见爱人后辞职",
+      "onboard_time": 1760784623,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 224925,
@@ -6249,14 +6305,6 @@
       "onboard_time": 1760758411,
       "rank": 29,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 208986,
-      "num": 204381,
-      "word": "杨振宁20年前预言已基本实现",
-      "onboard_time": 1760781621,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 208585,
@@ -6819,6 +6867,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 196876,
+      "num": 169955,
+      "word": "Bin连送两波",
+      "onboard_time": 1760785883,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196788,
       "num": 167577,
       "word": "对新疆帅哥颜值有了实感",
@@ -6931,6 +6987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194224,
+      "num": 181588,
+      "word": "金价暴涨下的水贝",
+      "onboard_time": 1760785343,
+      "rank": 24,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 193954,
       "num": 193954,
       "word": "TES 听见你说",
@@ -7041,6 +7105,14 @@
       "onboard_time": 1760452104,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 192320,
+      "num": 168117,
+      "word": "中华田园犬都有自己的名字",
+      "onboard_time": 1760786122,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 191970,
@@ -7587,6 +7659,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179959,
+      "num": 179959,
+      "word": "奥本海默是杨振宁同事",
+      "onboard_time": 1760783483,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179871,
+      "num": 179871,
+      "word": "住酒店可以免费拿走的东西",
+      "onboard_time": 1760784744,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179808,
       "num": 179808,
       "word": "张柏芝戴了泉州非遗簪花",
@@ -7745,6 +7833,14 @@
       "onboard_time": 1760669182,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177435,
+      "num": 182142,
+      "word": "DRG对战狼队",
+      "onboard_time": 1760785582,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 177324,
@@ -8057,6 +8153,14 @@
       "onboard_time": 1760204419,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172480,
+      "num": 172480,
+      "word": "BrokenBlade单杀Bin",
+      "onboard_time": 1760786182,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 172271,
@@ -8521,6 +8625,14 @@
       "onboard_time": 1760243660,
       "rank": 38,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 164049,
+      "num": 164049,
+      "word": "王多多 本来是从从容容游刃有余",
+      "onboard_time": 1760785702,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 163924,
@@ -9043,6 +9155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 157183,
+      "num": 157183,
+      "word": "空腹爬楼四个月瘦20斤",
+      "onboard_time": 1760783662,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 157106,
       "num": 162867,
       "word": "Fly对战T1",
@@ -9057,6 +9177,14 @@
       "onboard_time": 1760324300,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 157059,
+      "num": 165389,
+      "word": "樊振东小卡已经进化成这样了吗",
+      "onboard_time": 1760785103,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 156656,
@@ -10363,6 +10491,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 140659,
+      "num": 140659,
+      "word": "G2打BLG投票结果公布",
+      "onboard_time": 1760782524,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140652,
       "num": 140652,
       "word": "原来大家都听不清啊",
@@ -11307,14 +11443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 131539,
-      "num": 131539,
-      "word": "空腹爬楼四个月瘦20斤",
-      "onboard_time": 1760783662,
-      "rank": 32,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 131477,
       "num": 131477,
       "word": "呼吸道合胞病毒已进入流行期",
@@ -11593,6 +11721,14 @@
       "onboard_time": 1760326162,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128209,
+      "num": 128209,
+      "word": "李沁 爱是相互的",
+      "onboard_time": 1760786003,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 128131,
@@ -12547,14 +12683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 121255,
-      "num": 121255,
-      "word": "G2打BLG投票结果公布",
-      "onboard_time": 1760782524,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 121245,
       "num": 121245,
       "word": "花开中国MV致敬女性力量",
@@ -12697,14 +12825,6 @@
       "onboard_time": 1760329345,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 120205,
-      "num": 120205,
-      "word": "奥本海默是杨振宁同事",
-      "onboard_time": 1760783483,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 120200,
@@ -12865,6 +12985,14 @@
       "onboard_time": 1760499620,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 118934,
+      "num": 118934,
+      "word": "展轩音乐节舞台",
+      "onboard_time": 1760784924,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 118880,
@@ -13177,14 +13305,6 @@
       "onboard_time": 1760484079,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117509,
-      "num": 231964,
-      "word": "BLG对战G2",
-      "onboard_time": 1760782763,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 117454,
@@ -14209,6 +14329,14 @@
       "onboard_time": 1760684599,
       "rank": 42,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 110735,
+      "num": 110735,
+      "word": "张晚意成李沁马思纯水印了",
+      "onboard_time": 1760786182,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 110673,
@@ -19596,7 +19724,7 @@
     },
     {
       "raw_hot": 73635,
-      "num": 100344,
+      "num": 110365,
       "word": "华为云CEO张平安连降三等",
       "onboard_time": 1760783302,
       "rank": 49,
@@ -19633,6 +19761,14 @@
       "onboard_time": 1760451503,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 73083,
+      "num": 110577,
+      "word": "陈哲远陈飞宇李昀锐祖宗101",
+      "onboard_time": 1760784684,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 72976,
@@ -20595,6 +20731,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 60790,
+      "num": 140801,
+      "word": "男子扇猴子脸下一秒被飞踹",
+      "onboard_time": 1760785404,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60459,
       "num": 60459,
       "word": "冷冷冷冷我冷冷冷冷",
@@ -21385,6 +21529,14 @@
       "onboard_time": 1760613800,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47709,
+      "num": 185132,
+      "word": "特朗普又把问题缘由甩给尼克松",
+      "onboard_time": 1760785283,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47701,
@@ -23243,12 +23395,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15464,
+      "num": 140677,
+      "word": "曝王玉雯谦让有礼貌",
+      "onboard_time": 1760785883,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15290,
       "num": 206850,
       "word": "智能制造意味着什么",
       "onboard_time": 1760760089,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15121,
+      "num": 188572,
+      "word": "微博V影响力大会年度荣誉",
+      "onboard_time": 1760785283,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 15023,
