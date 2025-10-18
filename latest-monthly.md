@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 21:39:26
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 22:21:51
 </p>
 </blockquote>
 <p>
@@ -1563,6 +1563,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E7%88%B8%E7%88%B8%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%84%BF%E4%B8%80%E4%BA%BA%E5%85%BB%E5%AE%B6%23" target="weibo">
+郭碧婷爸爸回应女儿一人养家（热度：1001297）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E9%BE%84%E9%9F%B3%E8%85%94%E5%8F%A3%E9%9F%B3%23" target="weibo">
 王诗龄音腔口音（热度：1000546）
 </a>
@@ -1613,6 +1619,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E9%93%BE%20%E7%BC%85%E7%94%B8%23" target="weibo">
 星链 缅甸（热度：990684）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%ACvs%E6%B3%B0%E5%B7%9E%23" target="weibo">
+南京vs泰州（热度：989945）
 </a>
 </li>
 
@@ -3017,6 +3029,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9A%E4%B8%BB%E7%A7%81%E6%8C%96300%E5%B9%B3%E5%9C%B0%E4%B8%8B%E5%AE%A432%E6%88%B7%E5%BC%80%E8%A3%82%23" target="weibo">
 业主私挖300平地下室32户开裂（热度：697579）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E8%8B%97%E8%8B%97%E4%BB%8E%E5%B0%8F%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8%23" target="weibo">
+郑恺苗苗从小共用一张脸（热度：697323）
 </a>
 </li>
 
@@ -5247,12 +5265,6 @@ iPhone的一生要经历三次死亡（热度：494807）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E8%8B%97%E8%8B%97%E4%BB%8E%E5%B0%8F%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8%23" target="weibo">
-郑恺苗苗从小共用一张脸（热度：493434）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E4%B8%8D%E5%9C%A8%E5%91%A8%E6%9C%AB%E7%BB%99%E4%B8%80%E7%BA%BF%E5%91%98%E5%B7%A5%E5%8F%91%E5%B7%A5%E4%BD%9C%E4%BF%A1%E6%81%AF%23" target="weibo">
 宗馥莉不在周末给一线员工发工作信息（热度：492874）
 </a>
@@ -5999,18 +6011,6 @@ S15瑞士轮第三轮抽签（热度：449595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23KT%E6%88%98%E8%83%9CTES%23" target="weibo">
 KT战胜TES（热度：445439）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E5%9B%BD%E5%BA%86%E6%99%9A%E4%BC%9A%23" target="weibo">
-央视国庆晚会（热度：445430）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%8D%E5%A4%B1%E6%B8%A9%E5%A5%B3%E5%AD%A9%E6%9C%AF%E5%90%8E%E5%B7%B2%E6%98%8F%E8%BF%B73%E5%A4%A9%23" target="weibo">
-高反失温女孩术后已昏迷3天（热度：445178）
 </a>
 </li>
 
