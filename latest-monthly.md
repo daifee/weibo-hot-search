@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 16:43:35
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 17:24:06
 </p>
 </blockquote>
 <p>
@@ -557,6 +557,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%88%97%E8%BD%A6%E8%B6%85%E5%91%98%E6%8A%A5%E8%AD%A6%E4%B8%B4%E5%81%9C%23" target="weibo">
 12306回应列车超员报警临停（热度：1523643）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E4%B8%8D%E7%94%A8%E5%81%B7%E5%88%AB%E4%BA%BA%E5%AE%B6%E7%9A%84%E5%B0%8F%E5%AD%A9%E4%BA%86%23" target="weibo">
+陈伟霆不用偷别人家的小孩了（热度：1523531）
 </a>
 </li>
 
@@ -1457,6 +1463,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%A6%8D%E5%BD%93%E4%BC%97%E6%89%BF%E8%AE%A4%E6%B2%88%E7%9A%93%E8%BE%B0%E6%98%AF%E8%87%AA%E5%B7%B1%E5%84%BF%E5%AD%90%23" target="weibo">
 许妍当众承认沈皓辰是自己儿子（热度：1034736）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E6%AF%8D%E4%BA%B2%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%E4%B8%8D%E7%A9%BF%E5%AE%8C%E6%95%B4%E8%A1%A3%E6%9C%8D%23" target="weibo">
+野人小孩母亲衣着暴露不穿完整衣服（热度：1032091）
 </a>
 </li>
 
@@ -2441,12 +2453,6 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%AD%95%E5%A6%87%E5%9D%A0%E5%B4%96%E6%A1%88%E5%8F%97%E5%AE%B3%E4%BA%BA%E7%A6%BB%E5%A9%9A%E6%A1%88%E5%AE%A3%E5%88%A4%23" target="weibo">
 泰国孕妇坠崖案受害人离婚案宣判（热度：797712）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E6%AF%8D%E4%BA%B2%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%E4%B8%8D%E7%A9%BF%E5%AE%8C%E6%95%B4%E8%A1%A3%E6%9C%8D%23" target="weibo">
-野人小孩母亲衣着暴露不穿完整衣服（热度：797265）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ B站崩了（热度：442971）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%96%B0%E9%83%8E%E5%9C%A8%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E8%B7%B3%E6%B2%B3%23" target="weibo">
 当地回应新郎在结婚当天跳河（热度：441877）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8%23" target="weibo">
-广州暴雨（热度：441429）
 </a>
 </li>
 
