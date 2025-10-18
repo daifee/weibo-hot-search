@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760787422258,
+  "endTime": 1760791561871,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -755,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1035886,
+      "num": 596311,
+      "word": "杨振宁20年前预言已基本实现",
+      "onboard_time": 1760781621,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1034870,
       "num": 921706,
       "word": "李在明女翻译因高颜值走红",
@@ -944,6 +952,14 @@
       "word": "飞韩国的航班行李架起火",
       "onboard_time": 1760768126,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 890196,
+      "num": 1142431,
+      "word": "北京今天就下雪了",
+      "onboard_time": 1760784202,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -1235,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 798511,
+      "num": 676850,
+      "word": "新任中国国民党主席郑丽文",
+      "onboard_time": 1760787982,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 794390,
       "num": 292598,
       "word": "杨幂维密翅膀",
@@ -1305,14 +1329,6 @@
       "onboard_time": 1760335642,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 757801,
-      "num": 596311,
-      "word": "杨振宁20年前预言已基本实现",
-      "onboard_time": 1760781621,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 757795,
@@ -1513,6 +1529,14 @@
       "onboard_time": 1760255720,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 687918,
+      "num": 687918,
+      "word": "这4种电话别接别回别点",
+      "onboard_time": 1760787383,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 686729,
@@ -2131,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 555887,
+      "num": 555887,
+      "word": "村民称野人小孩一年四季不穿衣",
+      "onboard_time": 1760787923,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 553102,
       "num": 292234,
       "word": "济南一下肢瘫痪中年男子投河身亡",
@@ -2489,6 +2521,14 @@
       "onboard_time": 1760271561,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 507643,
+      "num": 507643,
+      "word": "白鹿戴比尔斯晚宴",
+      "onboard_time": 1760788822,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 507034,
@@ -3843,6 +3883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 349312,
+      "num": 668934,
+      "word": "入青云",
+      "onboard_time": 1760225297,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 349023,
       "num": 349023,
       "word": "缅北果敢魏家和刘家犯罪集团专案侦破",
@@ -4115,6 +4163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 323493,
+      "num": 323493,
+      "word": "Shad0w 我们会从地狱归来的",
+      "onboard_time": 1760790503,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 323340,
       "num": 323340,
       "word": "放假8天7天半掰玉米大学生回应质疑",
@@ -4145,14 +4201,6 @@
       "onboard_time": 1760712625,
       "rank": 3,
       "category": "财经"
-    },
-    {
-      "raw_hot": 320875,
-      "num": 668934,
-      "word": "入青云",
-      "onboard_time": 1760225297,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 320543,
@@ -4675,14 +4723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 288959,
-      "num": 257136,
-      "word": "北京今天就下雪了",
-      "onboard_time": 1760784202,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 287016,
       "num": 287016,
       "word": "第一批追大奉的人嘴角压不住了",
@@ -4737,6 +4777,14 @@
       "onboard_time": 1760775083,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 282967,
+      "num": 282967,
+      "word": "小蘑菇亲签",
+      "onboard_time": 1760789843,
+      "rank": 18,
+      "category": "动漫"
     },
     {
       "raw_hot": 282925,
@@ -5137,6 +5185,14 @@
       "onboard_time": 1760351301,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262867,
+      "num": 639919,
+      "word": "NBA名人赛",
+      "onboard_time": 1760788702,
+      "rank": 7,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 262835,
@@ -5833,6 +5889,14 @@
       "onboard_time": 1760265260,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230112,
+      "num": 606764,
+      "word": "杨振宁曾在百岁生日宴后摔倒",
+      "onboard_time": 1760789783,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229911,
@@ -6539,6 +6603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203312,
+      "num": 203312,
+      "word": "gemini 毒奶",
+      "onboard_time": 1760790624,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203269,
       "num": 183814,
       "word": "刘宇宁抢票改时间",
@@ -6569,6 +6641,14 @@
       "onboard_time": 1760532682,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202428,
+      "num": 509223,
+      "word": "BLG想去找T1",
+      "onboard_time": 1760786662,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 202419,
@@ -6985,14 +7065,6 @@
       "onboard_time": 1760237120,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 195228,
-      "num": 509223,
-      "word": "BLG想去找T1",
-      "onboard_time": 1760786662,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 194883,
@@ -7473,6 +7545,14 @@
       "onboard_time": 1760756253,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 185589,
+      "num": 185589,
+      "word": "王俊凯 今晚舞台见",
+      "onboard_time": 1760788283,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 185443,
@@ -7971,6 +8051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175709,
+      "num": 175709,
+      "word": "痞幼变美了",
+      "onboard_time": 1760791104,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 175555,
       "num": 132669,
       "word": "一旦染上了早睡",
@@ -8209,6 +8297,14 @@
       "onboard_time": 1760502382,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171896,
+      "num": 171896,
+      "word": "哈萨克斯坦将向中国出口猪肉",
+      "onboard_time": 1760789242,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171585,
@@ -8859,6 +8955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161314,
+      "num": 161314,
+      "word": "欧豪戴钻石耳钉了",
+      "onboard_time": 1760790983,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161261,
       "num": 209857,
       "word": "王俊凯刘昊然董子健早期胶片",
@@ -9353,6 +9457,14 @@
       "onboard_time": 1760684842,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 154921,
+      "num": 154921,
+      "word": "苏超",
+      "onboard_time": 1760786542,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 154867,
@@ -10371,6 +10483,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 142226,
+      "num": 142226,
+      "word": "孙恩盛费加罗MODE封面预告",
+      "onboard_time": 1760790383,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 142134,
       "num": 132667,
       "word": "易梦玲又瘦又有",
@@ -10489,6 +10609,14 @@
       "onboard_time": 1760624424,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 141059,
+      "num": 141059,
+      "word": "蔡徐坤这里是红毯不是秀场",
+      "onboard_time": 1760791282,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 140951,
@@ -11459,6 +11587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131921,
+      "num": 127300,
+      "word": "NBA名人赛直播",
+      "onboard_time": 1760791223,
+      "rank": 40,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 131838,
       "num": 131838,
       "word": "奔跑吧",
@@ -11817,6 +11953,14 @@
       "onboard_time": 1760449283,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127705,
+      "num": 127705,
+      "word": "蒋敦豪的九个迷弟走来了",
+      "onboard_time": 1760790022,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 127649,
@@ -12323,6 +12467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 123937,
+      "num": 154432,
+      "word": "你好星期六",
+      "onboard_time": 1760791223,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123899,
       "num": 123899,
       "word": "IG对战T1宣传片",
@@ -12505,6 +12657,14 @@
       "onboard_time": 1760699963,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122896,
+      "num": 122896,
+      "word": "杨老一路走好",
+      "onboard_time": 1760787802,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122883,
@@ -12801,6 +12961,14 @@
       "onboard_time": 1760598621,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120774,
+      "num": 120774,
+      "word": "回南雀",
+      "onboard_time": 1760790861,
+      "rank": 42,
+      "category": "读书作家"
     },
     {
       "raw_hot": 120718,
@@ -13347,6 +13515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117630,
+      "num": 117630,
+      "word": "陆毅因鲍蕾不花他的钱而生气",
+      "onboard_time": 1760790683,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117601,
       "num": 117601,
       "word": "杨瀚森回应6犯离场",
@@ -13409,14 +13585,6 @@
       "onboard_time": 1760268561,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 117153,
-      "num": 117153,
-      "word": "这4种电话别接别回别点",
-      "onboard_time": 1760787383,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117130,
@@ -13739,6 +13907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114944,
+      "num": 114944,
+      "word": "再看樊振东夺冠依然热血",
+      "onboard_time": 1760790683,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114888,
       "num": 114888,
       "word": "陈哲远破9000红包",
@@ -13811,6 +13987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114454,
+      "num": 128472,
+      "word": "清华大学设杨振宁吊唁处",
+      "onboard_time": 1760789182,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114431,
       "num": 224495,
       "word": "京东补贴",
@@ -13825,6 +14009,14 @@
       "onboard_time": 1760700323,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 114243,
+      "num": 114243,
+      "word": "两个宝宝趴着也太犯规了吧",
+      "onboard_time": 1760789362,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 114133,
@@ -15347,6 +15539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105611,
+      "num": 105611,
+      "word": "林高远行程好满",
+      "onboard_time": 1760789542,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105476,
       "num": 105476,
       "word": "被王楚钦孙颖莎刘少昂等鼓舞到了",
@@ -16803,14 +17003,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 96112,
-      "num": 117527,
-      "word": "苏超",
-      "onboard_time": 1760786542,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 96089,
       "num": 96089,
       "word": "建议焦虑内耗的人去培养输出型爱好",
@@ -17385,6 +17577,14 @@
       "onboard_time": 1760236880,
       "rank": 36,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 91763,
+      "num": 103581,
+      "word": "入青云明天加更",
+      "onboard_time": 1760789603,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 91756,
@@ -20715,6 +20915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62578,
+      "num": 109107,
+      "word": "汪苏泷把重庆轻轨P到腹肌上",
+      "onboard_time": 1760789903,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 62498,
       "num": 80210,
       "word": "暗河传背水一战预告",
@@ -22907,6 +23115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 26118,
+      "num": 392747,
+      "word": "蒋芸说真诚是唯一的流量密码",
+      "onboard_time": 1760788883,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26095,
       "num": 162091,
       "word": "汕头唯一西贝门店将闭店",
@@ -23489,6 +23705,14 @@
       "onboard_time": 1760553074,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 15601,
+      "num": 241187,
+      "word": "杨振宁的故乡下雨了",
+      "onboard_time": 1760791042,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15574,

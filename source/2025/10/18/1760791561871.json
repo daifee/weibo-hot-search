@@ -1,0 +1,410 @@
+{
+  "runTime": 1760791561871,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 890196,
+        "num": 1142431,
+        "word": "北京今天就下雪了",
+        "onboard_time": 1760784202,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 687918,
+        "num": 687918,
+        "word": "这4种电话别接别回别点",
+        "onboard_time": 1760787383,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10736,
+        "num": 680028,
+        "word": "红星照耀中国",
+        "onboard_time": 1760593821,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 798511,
+        "num": 676850,
+        "word": "新任中国国民党主席郑丽文",
+        "onboard_time": 1760787982,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 672291,
+        "num": 672291,
+        "word": "G2战胜BLG",
+        "onboard_time": 1760785103,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 668347,
+        "num": 668347,
+        "word": "杨振宁逝世",
+        "onboard_time": 1760761410,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349312,
+        "num": 651474,
+        "word": "入青云",
+        "onboard_time": 1760786302,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262867,
+        "num": 639919,
+        "word": "NBA名人赛",
+        "onboard_time": 1760788702,
+        "rank": 7,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 230112,
+        "num": 606764,
+        "word": "杨振宁曾在百岁生日宴后摔倒",
+        "onboard_time": 1760789783,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211691,
+        "num": 594567,
+        "word": "红山动物园放弃抵抗采用野菜F4",
+        "onboard_time": 1760781742,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1035886,
+        "num": 563401,
+        "word": "杨振宁20年前预言已基本实现",
+        "onboard_time": 1760781621,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 555887,
+        "num": 555887,
+        "word": "村民称野人小孩一年四季不穿衣",
+        "onboard_time": 1760787923,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 507643,
+        "num": 507643,
+        "word": "白鹿戴比尔斯晚宴",
+        "onboard_time": 1760788822,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396690,
+        "num": 396690,
+        "word": "这居然是任敏",
+        "onboard_time": 1760777782,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26118,
+        "num": 392747,
+        "word": "蒋芸说真诚是唯一的流量密码",
+        "onboard_time": 1760788883,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390938,
+        "num": 390938,
+        "word": "杨振宁曾回应自己去世翁帆怎么办",
+        "onboard_time": 1760767046,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363616,
+        "num": 363616,
+        "word": "邓莎老公上再见爱人后辞职",
+        "onboard_time": 1760784623,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323493,
+        "num": 323493,
+        "word": "Shad0w 我们会从地狱归来的",
+        "onboard_time": 1760790503,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 282967,
+        "num": 282967,
+        "word": "小蘑菇亲签",
+        "onboard_time": 1760789843,
+        "rank": 18,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 15601,
+        "num": 241187,
+        "word": "杨振宁的故乡下雨了",
+        "onboard_time": 1760791042,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203496,
+        "num": 203496,
+        "word": "香港抓获未成年卖淫集团主犯18岁",
+        "onboard_time": 1760784202,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203312,
+        "num": 203312,
+        "word": "gemini 毒奶",
+        "onboard_time": 1760790624,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 202428,
+        "num": 202428,
+        "word": "BLG想去找T1",
+        "onboard_time": 1760786662,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185589,
+        "num": 185589,
+        "word": "王俊凯 今晚舞台见",
+        "onboard_time": 1760788283,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178798,
+        "num": 178798,
+        "word": "时代峰峻要告数据组",
+        "onboard_time": 1760773642,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175709,
+        "num": 175709,
+        "word": "痞幼变美了",
+        "onboard_time": 1760791104,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 171896,
+        "num": 171896,
+        "word": "哈萨克斯坦将向中国出口猪肉",
+        "onboard_time": 1760789242,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161314,
+        "num": 161314,
+        "word": "欧豪戴钻石耳钉了",
+        "onboard_time": 1760790983,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154921,
+        "num": 154921,
+        "word": "苏超",
+        "onboard_time": 1760786542,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123937,
+        "num": 154432,
+        "word": "你好星期六",
+        "onboard_time": 1760791223,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154302,
+        "num": 154302,
+        "word": "丫蛋38岁状态",
+        "onboard_time": 1760786602,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151082,
+        "num": 151082,
+        "word": "空腹爬楼四个月瘦20斤",
+        "onboard_time": 1760783662,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 144570,
+        "num": 144570,
+        "word": "李沁 爱是相互的",
+        "onboard_time": 1760786003,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143987,
+        "num": 143987,
+        "word": "住酒店可以免费拿走的东西",
+        "onboard_time": 1760784744,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142226,
+        "num": 142226,
+        "word": "孙恩盛费加罗MODE封面预告",
+        "onboard_time": 1760790383,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141059,
+        "num": 141059,
+        "word": "蔡徐坤这里是红毯不是秀场",
+        "onboard_time": 1760791282,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140428,
+        "num": 140428,
+        "word": "金价暴涨下的水贝",
+        "onboard_time": 1760785343,
+        "rank": 36,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 133882,
+        "num": 133882,
+        "word": "死亡诅咒5岁女童唱歌男子已道歉",
+        "onboard_time": 1760778023,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114454,
+        "num": 128472,
+        "word": "清华大学设杨振宁吊唁处",
+        "onboard_time": 1760789182,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127705,
+        "num": 127705,
+        "word": "蒋敦豪的九个迷弟走来了",
+        "onboard_time": 1760790022,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131921,
+        "num": 127300,
+        "word": "NBA名人赛直播",
+        "onboard_time": 1760791223,
+        "rank": 40,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 122896,
+        "num": 122896,
+        "word": "杨老一路走好",
+        "onboard_time": 1760787802,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120774,
+        "num": 120774,
+        "word": "回南雀",
+        "onboard_time": 1760790861,
+        "rank": 42,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 117630,
+        "num": 117630,
+        "word": "陆毅因鲍蕾不花他的钱而生气",
+        "onboard_time": 1760790683,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115700,
+        "num": 115700,
+        "word": "奥本海默是杨振宁同事",
+        "onboard_time": 1760783483,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114944,
+        "num": 114944,
+        "word": "再看樊振东夺冠依然热血",
+        "onboard_time": 1760790683,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114243,
+        "num": 114243,
+        "word": "两个宝宝趴着也太犯规了吧",
+        "onboard_time": 1760789362,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62578,
+        "num": 109107,
+        "word": "汪苏泷把重庆轻轨P到腹肌上",
+        "onboard_time": 1760789903,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105611,
+        "num": 105611,
+        "word": "林高远行程好满",
+        "onboard_time": 1760789542,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91763,
+        "num": 103581,
+        "word": "入青云明天加更",
+        "onboard_time": 1760789603,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平经济思想引领新时代经济工作#"
+    }
+  }
+}
