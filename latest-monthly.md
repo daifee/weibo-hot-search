@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 21:28:19
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 21:39:26
 </p>
 </blockquote>
 <p>
@@ -3381,6 +3381,12 @@ JDG输越南队（热度：648751）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC%E5%8F%98%E7%BE%8E%E4%BA%86%23" target="weibo">
+痞幼变美了（热度：648353）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BF%81%E9%9D%92%E9%9B%85%E5%BD%AD%E9%AB%98%E5%88%86%E6%89%8B%E7%9A%84%E6%A0%B9%E6%9C%AC%E5%8E%9F%E5%9B%A0%23" target="weibo">
 翁青雅彭高分手的根本原因（热度：648272）
 </a>
@@ -3401,12 +3407,6 @@ JDG输越南队（热度：648751）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E9%A6%96%E6%B3%A2%E9%98%B5%E5%AE%B9%23" target="weibo">
 央视中秋晚会首波阵容（热度：646755）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC%E5%8F%98%E7%BE%8E%E4%BA%86%23" target="weibo">
-痞幼变美了（热度：645635）
 </a>
 </li>
 
@@ -5247,6 +5247,12 @@ iPhone的一生要经历三次死亡（热度：494807）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E6%81%BA%E8%8B%97%E8%8B%97%E4%BB%8E%E5%B0%8F%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8%23" target="weibo">
+郑恺苗苗从小共用一张脸（热度：493434）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E4%B8%8D%E5%9C%A8%E5%91%A8%E6%9C%AB%E7%BB%99%E4%B8%80%E7%BA%BF%E5%91%98%E5%B7%A5%E5%8F%91%E5%B7%A5%E4%BD%9C%E4%BF%A1%E6%81%AF%23" target="weibo">
 宗馥莉不在周末给一线员工发工作信息（热度：492874）
 </a>
@@ -6005,12 +6011,6 @@ KT战胜TES（热度：445439）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%8F%8D%E5%A4%B1%E6%B8%A9%E5%A5%B3%E5%AD%A9%E6%9C%AF%E5%90%8E%E5%B7%B2%E6%98%8F%E8%BF%B73%E5%A4%A9%23" target="weibo">
 高反失温女孩术后已昏迷3天（热度：445178）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%BA%E8%83%BD%E9%A9%AC%E6%A1%B6%E5%96%B7%E5%87%BA%E5%BC%80%E6%B0%B4%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%83%AB%E4%BC%A4%23" target="weibo">
-智能马桶喷出开水女子被烫伤（热度：444818）
 </a>
 </li>
 

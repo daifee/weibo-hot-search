@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760794099173,
+  "endTime": 1760794766079,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -275,7 +275,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 645635,
+      "raw_hot": 648353,
       "num": 281918,
       "word": "痞幼变美了",
       "onboard_time": 1760791104,
@@ -443,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 493434,
+      "num": 276272,
+      "word": "郑恺苗苗从小共用一张脸",
+      "onboard_time": 1760791704,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477445,
       "num": 191939,
       "word": "黄子韬徐艺洋晒婚礼照",
@@ -563,6 +571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 374112,
+      "num": 275780,
+      "word": "郭碧婷爸爸回应女儿一人养家",
+      "onboard_time": 1760791642,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 369651,
       "num": 746327,
       "word": "杨振宁享年103岁",
@@ -635,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 317051,
-      "num": 276272,
-      "word": "郑恺苗苗从小共用一张脸",
-      "onboard_time": 1760791704,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 308613,
       "num": 308613,
       "word": "gemini 毒奶",
@@ -665,14 +673,6 @@
       "onboard_time": 1760760030,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285075,
-      "num": 275780,
-      "word": "郭碧婷爸爸回应女儿一人养家",
-      "onboard_time": 1760791642,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 284201,
@@ -987,6 +987,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 213284,
+      "num": 213284,
+      "word": "南京vs泰州",
+      "onboard_time": 1760791942,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210649,
       "num": 210649,
       "word": "确认过榜单短剧演员真升咖了",
@@ -1083,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 198438,
+      "num": 198438,
+      "word": "易烊千玺角色宇宙C位争夺战",
+      "onboard_time": 1760794163,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197285,
       "num": 197285,
       "word": "陈伟霆何穗的孩子得有多好看",
@@ -1177,6 +1193,14 @@
       "onboard_time": 1760759309,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188975,
+      "num": 188975,
+      "word": "Bin和Doran迎来生死战",
+      "onboard_time": 1760794105,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 188612,
@@ -1473,14 +1497,6 @@
       "onboard_time": 1760785702,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 163832,
-      "num": 163832,
-      "word": "南京vs泰州",
-      "onboard_time": 1760791942,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 163272,
@@ -1843,6 +1859,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 128743,
+      "num": 128743,
+      "word": "白举纲 真内娱男菩萨",
+      "onboard_time": 1760793803,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128492,
       "num": 169851,
       "word": "33个弹片成了老兵摘不掉的项链",
@@ -1931,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124330,
+      "num": 124330,
+      "word": "微信文件助手才是真的职场邪修",
+      "onboard_time": 1760793202,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124077,
       "num": 124077,
       "word": "上海打雷",
@@ -1985,6 +2017,14 @@
       "onboard_time": 1760777902,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120696,
+      "num": 120696,
+      "word": "刘浩存给自己签名照点痣",
+      "onboard_time": 1760793323,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 119469,
@@ -2075,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114687,
+      "num": 114687,
+      "word": "关晓彤一袭红衣惊艳登场",
+      "onboard_time": 1760793984,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114454,
       "num": 128472,
       "word": "清华大学设杨振宁吊唁处",
@@ -2105,6 +2153,14 @@
       "onboard_time": 1760743159,
       "rank": 36,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 111542,
+      "num": 111542,
+      "word": "上海高境一中通报女生泼饮料事件",
+      "onboard_time": 1760794163,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111540,
@@ -2203,6 +2259,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 107329,
+      "num": 104101,
+      "word": "张小斐李兰迪董思成秀场同框",
+      "onboard_time": 1760794403,
+      "rank": 49,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 106663,
       "num": 106663,
       "word": "克拉拉官宣离婚",
@@ -2225,14 +2289,6 @@
       "onboard_time": 1760742677,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 105713,
-      "num": 105713,
-      "word": "微信文件助手才是真的职场邪修",
-      "onboard_time": 1760793202,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 105611,
@@ -2363,14 +2419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100537,
-      "num": 100537,
-      "word": "白举纲 真内娱男菩萨",
-      "onboard_time": 1760793803,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 99715,
       "num": 99715,
       "word": "全伊伦重回cos圈",
@@ -2425,14 +2473,6 @@
       "onboard_time": 1760712203,
       "rank": 35,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 95806,
-      "num": 95806,
-      "word": "关晓彤一袭红衣惊艳登场",
-      "onboard_time": 1760793984,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 94878,
@@ -2499,20 +2539,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90019,
+      "num": 166196,
+      "word": "国民党新主席郑丽文是谁",
+      "onboard_time": 1760792483,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 90017,
       "num": 90017,
       "word": "很想把自己朋友圈都删完",
       "onboard_time": 1760779402,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 88849,
-      "num": 166196,
-      "word": "国民党新主席郑丽文是谁",
-      "onboard_time": 1760792483,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 88492,
@@ -2603,12 +2643,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77916,
+      "num": 201364,
+      "word": "2岁70公斤袖珍牛售价14000元",
+      "onboard_time": 1760794105,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75484,
       "num": 133638,
       "word": "AL晋级S15八强",
       "onboard_time": 1760704461,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75085,
+      "num": 118819,
+      "word": "美计划建立100万枚比特币国家储备",
+      "onboard_time": 1760794163,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74760,
@@ -2689,14 +2745,6 @@
       "onboard_time": 1760715801,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 70535,
-      "num": 118627,
-      "word": "刘浩存给自己签名照点痣",
-      "onboard_time": 1760793323,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 68206,
@@ -2849,6 +2897,14 @@
       "onboard_time": 1760696601,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55238,
+      "num": 119036,
+      "word": "百色靖西持续内涝半月",
+      "onboard_time": 1760794105,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54576,
@@ -3195,7 +3251,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1645,
+      "raw_hot": 1818,
       "num": 391602,
       "word": "非凡十四五",
       "onboard_time": 1760706502,
