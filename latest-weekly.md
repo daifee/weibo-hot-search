@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/19 00:28:53 ~ 2025/10/19 06:22:34
+本榜单时间：2025/10/19 00:28:53 ~ 2025/10/19 06:38:47
 </p>
 </blockquote>
 <p>
@@ -351,6 +351,12 @@ Bin和Doran迎来生死战（热度：63760）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A4%90%E9%A6%86%E7%BB%99%E9%87%8E%E4%BA%BA%E7%94%B7%E5%AD%A9%E9%80%81%E9%A5%AD%E8%A2%AB%E8%A6%81%E6%B1%82%E6%94%BE%E5%9C%B0%E4%B8%8A%23" target="weibo">
+餐馆给野人男孩送饭被要求放地上（热度：44511）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E7%9C%81%E9%83%BD%E6%9C%89%E8%87%AA%E5%B7%B1%E4%B8%93%E5%B1%9E%E5%BA%94%E6%80%A5%E9%A3%9F%E7%89%A9%23" target="weibo">
 每个省都有自己专属应急食物（热度：40774）
 </a>
@@ -365,12 +371,6 @@ Bin和Doran迎来生死战（热度：63760）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E5%B7%9E%E8%8C%83%E7%8E%AE%E7%90%AA%E5%90%AC%E5%88%B0%E5%B0%8FS%E8%87%B4%E8%BE%9E%E5%93%AD%E4%BA%86%23" target="weibo">
 陈建州范玮琪听到小S致辞哭了（热度：37028）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A4%90%E9%A6%86%E7%BB%99%E9%87%8E%E4%BA%BA%E7%94%B7%E5%AD%A9%E9%80%81%E9%A5%AD%E8%A2%AB%E8%A6%81%E6%B1%82%E6%94%BE%E5%9C%B0%E4%B8%8A%23" target="weibo">
-餐馆给野人男孩送饭被要求放地上（热度：35998）
 </a>
 </li>
 
@@ -406,7 +406,7 @@ Bin和Doran迎来生死战（热度：63760）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%852%E5%B9%B4%E5%89%8D%E7%85%A7%E7%89%87%E9%87%8C%E7%9A%84%E5%9F%8E%E5%B8%82%E6%B6%88%E5%A4%B1%E4%BA%86%23" target="weibo">
-记者2年前照片里的城市消失了（热度：20099）
+记者2年前照片里的城市消失了（热度：20636）
 </a>
 </li>
 
