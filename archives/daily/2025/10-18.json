@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760766006120,
+  "endTime": 1760769258589,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -48,6 +48,14 @@
       "word": "杨振宁翁帆相伴20余年",
       "onboard_time": 1760762497,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2130054,
+      "num": 271258,
+      "word": "杨振宁曾回应自己去世翁帆怎么办",
+      "onboard_time": 1760767046,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -123,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 772759,
+      "num": 1123641,
+      "word": "太原震感",
+      "onboard_time": 1760768485,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 732112,
       "num": 366562,
       "word": "赛琳娜回应海莉",
@@ -145,6 +161,14 @@
       "onboard_time": 1760752102,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 590716,
+      "num": 270843,
+      "word": "杨振宁得知原子弹没美国人参加哭了",
+      "onboard_time": 1760767046,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 578248,
@@ -211,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514873,
+      "num": 270280,
+      "word": "杨振宁35岁荣获诺贝尔奖",
+      "onboard_time": 1760767046,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 514493,
       "num": 514493,
       "word": "好命哥真好命",
@@ -224,6 +256,14 @@
       "word": "翁帆",
       "onboard_time": 1760762438,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 485524,
+      "num": 485524,
+      "word": "三亚撞劳斯莱斯女子涉嫌危险驾驶罪",
+      "onboard_time": 1760766209,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -281,6 +321,30 @@
       "onboard_time": 1760712804,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 432566,
+      "num": 270136,
+      "word": "杨振宁曾谈高龄恢复中国籍",
+      "onboard_time": 1760769085,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 409698,
+      "num": 269596,
+      "word": "原来何穗不是退圈而是在待产",
+      "onboard_time": 1760765430,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 383879,
+      "num": 383879,
+      "word": "山西地震",
+      "onboard_time": 1760768426,
+      "rank": 3,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 369651,
@@ -384,6 +448,14 @@
       "word": "丈夫中1000万变心但不想离婚",
       "onboard_time": 1760717303,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 272178,
+      "num": 272178,
+      "word": "飞韩国的航班行李架起火",
+      "onboard_time": 1760768126,
+      "rank": 4,
       "category": "民生新闻"
     },
     {
@@ -555,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215136,
+      "num": 215136,
+      "word": "5岁女童唱歌遭男子死亡诅咒",
+      "onboard_time": 1760766748,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214307,
       "num": 164957,
       "word": "黄金大跳水原因",
@@ -723,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175204,
+      "num": 271563,
+      "word": "山西3.9级地震",
+      "onboard_time": 1760769024,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 172632,
       "num": 172632,
       "word": "金饰克价跌到1262元",
@@ -851,6 +939,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 152383,
+      "num": 152383,
+      "word": "再浮夸的礼服是黄子韬穿就合理了",
+      "onboard_time": 1760767646,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151072,
       "num": 151072,
       "word": "只要你谈过几次恋爱就会发现",
@@ -915,6 +1011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 137043,
+      "num": 137043,
+      "word": "太监赛道越来越拥挤了",
+      "onboard_time": 1760768485,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135526,
       "num": 135526,
       "word": "肖战到达锦州",
@@ -937,6 +1041,14 @@
       "onboard_time": 1760749761,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 134530,
+      "num": 134530,
+      "word": "肖战小城良方开机发言",
+      "onboard_time": 1760766568,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 133800,
@@ -1099,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109746,
+      "num": 109746,
+      "word": "代露娃现场表演什么叫崩溃",
+      "onboard_time": 1760768365,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109300,
       "num": 109300,
       "word": "毛晓彤这15秒明媚得我想哭",
@@ -1209,6 +1329,14 @@
       "onboard_time": 1760698702,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101562,
+      "num": 101562,
+      "word": "肥而不自知的小猫",
+      "onboard_time": 1760767825,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 98203,
@@ -1649,6 +1777,14 @@
       "onboard_time": 1760722219,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27709,
+      "num": 270576,
+      "word": "韩路有话直说的狠人",
+      "onboard_time": 1760767287,
+      "rank": 14,
+      "category": "汽车"
     },
     {
       "raw_hot": 25808,
