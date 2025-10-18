@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760756425137,
+  "endTime": 1760757000424,
   "band_list": [
     {
       "raw_hot": 23107983,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 6918312,
-      "num": 6918312,
+      "raw_hot": 7745708,
+      "num": 7745708,
       "word": "陈伟霆何穗什么时候在一起的",
       "onboard_time": 1760753604,
       "rank": 15,
@@ -20,10 +20,18 @@
     },
     {
       "raw_hot": 1649808,
-      "num": 172357,
+      "num": 561429,
       "word": "万鹏 笑脸给多了惯的都是病",
       "onboard_time": 1760751741,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1283320,
+      "num": 566218,
+      "word": "压力给到井柏然刘雯",
+      "onboard_time": 1760755712,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -43,20 +51,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 955450,
+      "num": 955450,
+      "word": "许我耀眼",
+      "onboard_time": 1760755352,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 785694,
-      "num": 170797,
+      "num": 416601,
       "word": "张慧贤给万鹏道歉",
       "onboard_time": 1760745379,
       "rank": 15,
       "category": "艺人"
     },
     {
-      "raw_hot": 613839,
-      "num": 171299,
-      "word": "压力给到井柏然刘雯",
-      "onboard_time": 1760755712,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 600529,
+      "num": 600529,
+      "word": "金价银价大跳水",
+      "onboard_time": 1760752102,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 578248,
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 576277,
-      "num": 171130,
+      "num": 457954,
       "word": "网约车司机中途赶客乘客秒懂下车",
       "onboard_time": 1760748741,
       "rank": 11,
@@ -76,15 +92,15 @@
     },
     {
       "raw_hot": 561247,
-      "num": 171156,
+      "num": 557938,
       "word": "与已婚女同居博士生被解除公派留学",
       "onboard_time": 1760754271,
       "rank": 13,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 552040,
-      "num": 1088326,
+      "raw_hot": 556452,
+      "num": 1089032,
       "word": "iPhone天气你可能真的不会用",
       "onboard_time": 1760746700,
       "rank": 0,
@@ -99,12 +115,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 483655,
-      "num": 483655,
-      "word": "金价银价大跳水",
-      "onboard_time": 1760752102,
-      "rank": 23,
-      "category": "财经"
+      "raw_hot": 514493,
+      "num": 514493,
+      "word": "好命哥真好命",
+      "onboard_time": 1760754990,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 477445,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 469050,
-      "num": 170389,
+      "num": 230153,
       "word": "黄子韬松开徐艺洋挽刘宇宁",
       "onboard_time": 1760743698,
       "rank": 17,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 458474,
-      "num": 458474,
+      "num": 574676,
       "word": "韩四大集团CEO将赴海湖庄园",
       "onboard_time": 1760746700,
       "rank": 1,
@@ -132,27 +148,11 @@
     },
     {
       "raw_hot": 443137,
-      "num": 189671,
+      "num": 329496,
       "word": "肖战新剧女主姜妍",
       "onboard_time": 1760712804,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 421494,
-      "num": 421494,
-      "word": "许我耀眼",
-      "onboard_time": 1760755352,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 379456,
-      "num": 170716,
-      "word": "好命哥真好命",
-      "onboard_time": 1760754990,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 342049,
@@ -161,6 +161,14 @@
       "onboard_time": 1760679982,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321368,
+      "num": 175847,
+      "word": "倪大红姜妍领衔主演小城良方",
+      "onboard_time": 1760754931,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 282517,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 282014,
-      "num": 282014,
+      "num": 599877,
       "word": "上海暴雨",
       "onboard_time": 1760743577,
       "rank": 8,
@@ -196,15 +204,15 @@
     },
     {
       "raw_hot": 266024,
-      "num": 170287,
+      "num": 173597,
       "word": "民政局回应老人扎堆领结婚证",
       "onboard_time": 1760749281,
       "rank": 14,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 262545,
-      "num": 648728,
+      "raw_hot": 264217,
+      "num": 965157,
       "word": "广东人终于不用穿短袖了",
       "onboard_time": 1760749281,
       "rank": 37,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 262094,
-      "num": 262094,
+      "num": 591464,
       "word": "中美经贸磋商",
       "onboard_time": 1760754511,
       "rank": 5,
@@ -243,20 +251,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 232795,
-      "num": 161662,
-      "word": "倪大红姜妍领衔主演小城良方",
-      "onboard_time": 1760754931,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 231146,
       "num": 231146,
       "word": "王者荣耀 河灯",
       "onboard_time": 1760750421,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 226539,
+      "num": 587834,
+      "word": "间谍在民宿拍军港被老板举报",
+      "onboard_time": 1760755772,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 214307,
@@ -275,16 +283,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201674,
-      "num": 201674,
-      "word": "间谍在民宿拍军港被老板举报",
-      "onboard_time": 1760755772,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 197977,
-      "num": 160676,
+      "raw_hot": 205780,
+      "num": 175072,
       "word": "肖战王彦霖首搭",
       "onboard_time": 1760755835,
       "rank": 25,
@@ -307,6 +307,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188612,
+      "num": 188612,
+      "word": "金价涨到头了吗",
+      "onboard_time": 1760756912,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 181698,
+      "num": 582833,
+      "word": "iPhone17全系包揽销量榜前三",
+      "onboard_time": 1760756613,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 176031,
+      "num": 176031,
+      "word": "麦当劳 没那么灵",
+      "onboard_time": 1760755533,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175571,
       "num": 202948,
       "word": "辽宁失联女童因红衣被快速找到",
@@ -315,16 +339,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172632,
+      "num": 172632,
+      "word": "金饰克价跌到1262元",
+      "onboard_time": 1760752941,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 171507,
-      "num": 171507,
+      "num": 172833,
       "word": "暗河传",
       "onboard_time": 1760755236,
       "rank": 9,
       "category": "剧集"
     },
     {
-      "raw_hot": 162775,
-      "num": 162775,
+      "raw_hot": 170022,
+      "num": 170022,
       "word": "梁靖崑给王楚钦直男P图",
       "onboard_time": 1760753664,
       "rank": 23,
@@ -339,24 +371,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158306,
-      "num": 158306,
-      "word": "金饰克价跌到1262元",
-      "onboard_time": 1760752941,
-      "rank": 26,
-      "category": "财经"
-    },
-    {
       "raw_hot": 156656,
-      "num": 170672,
+      "num": 173523,
       "word": "穆祉丞翻唱恋人未满上线",
       "onboard_time": 1760755051,
       "rank": 18,
       "category": "音乐"
     },
     {
-      "raw_hot": 153380,
-      "num": 153380,
+      "raw_hot": 156102,
+      "num": 178592,
       "word": "中美同意尽快举行新一轮经贸磋商",
       "onboard_time": 1760756253,
       "rank": 27,
@@ -468,7 +492,7 @@
     },
     {
       "raw_hot": 126997,
-      "num": 142777,
+      "num": 172941,
       "word": "小城良方特邀主演王彦霖",
       "onboard_time": 1760753361,
       "rank": 29,
@@ -499,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120388,
+      "num": 173169,
+      "word": "暗河传官宣定档",
+      "onboard_time": 1760756613,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118782,
       "num": 118782,
       "word": "mango创始人堕亡长子成嫌疑人",
@@ -507,24 +539,16 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 117435,
-      "num": 117435,
+      "raw_hot": 118169,
+      "num": 118169,
       "word": "妈妈看店半天没卖出儿子5分钟开单",
       "onboard_time": 1760745079,
       "rank": 23,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114636,
-      "num": 114636,
-      "word": "麦当劳 没那么灵",
-      "onboard_time": 1760755533,
-      "rank": 35,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 114368,
-      "num": 114368,
+      "raw_hot": 118156,
+      "num": 118156,
       "word": "辽宁失联女童在病床上感谢大家",
       "onboard_time": 1760755772,
       "rank": 36,
@@ -996,7 +1020,7 @@
     },
     {
       "raw_hot": 28466,
-      "num": 493466,
+      "num": 957434,
       "word": "WannaCry勒索风暴的警示与防范",
       "onboard_time": 1760752880,
       "rank": 2,
@@ -1024,6 +1048,14 @@
       "word": "白鹿鞭子舞",
       "onboard_time": 1760724496,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22923,
+      "num": 111744,
+      "word": "杜淳妻子说因戏生情的演员不专业",
+      "onboard_time": 1760756852,
+      "rank": 39,
       "category": "艺人"
     },
     {
