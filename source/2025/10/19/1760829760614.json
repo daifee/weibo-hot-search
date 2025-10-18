@@ -1,0 +1,410 @@
+{
+  "runTime": 1760829760614,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 529888,
+        "num": 793184,
+        "word": "北京下雪了",
+        "onboard_time": 1760805440,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260119,
+        "num": 260119,
+        "word": "今年秋冬或形成一次弱拉尼娜事件",
+        "onboard_time": 1760804722,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1405,
+        "num": 243185,
+        "word": "非凡十四五",
+        "onboard_time": 1760706502,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 235497,
+        "num": 235497,
+        "word": "凌晨三点叫你出来玩你不出来",
+        "onboard_time": 1760811556,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118086,
+        "num": 118086,
+        "word": "猴哥已在南宁小区住5天了",
+        "onboard_time": 1760800103,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278512,
+        "num": 117138,
+        "word": "杨振宁在美办公室有人凌晨献花",
+        "onboard_time": 1760799742,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181702,
+        "num": 115704,
+        "word": "月亮姐姐官宣离开少儿频道",
+        "onboard_time": 1760799203,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121573,
+        "num": 113507,
+        "word": "杨振宁逝世",
+        "onboard_time": 1760761410,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51177,
+        "num": 110584,
+        "word": "香港中环突发火灾",
+        "onboard_time": 1760828596,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41865,
+        "num": 107402,
+        "word": "天蚕土豆锐评BLG",
+        "onboard_time": 1760798843,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 331076,
+        "num": 106583,
+        "word": "请求核查野人男孩父母收入来源",
+        "onboard_time": 1760800883,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312142,
+        "num": 104502,
+        "word": "网传何穗前夫参加过再见爱人",
+        "onboard_time": 1760799384,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233856,
+        "num": 100600,
+        "word": "任嘉伦",
+        "onboard_time": 1760829258,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131754,
+        "num": 97957,
+        "word": "沙溢曾吃了狗吃过的面发烧三天",
+        "onboard_time": 1760829377,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97768,
+        "num": 97768,
+        "word": "杨振宁20年前预言已基本实现",
+        "onboard_time": 1760781621,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94476,
+        "num": 94476,
+        "word": "沈佳润音乐节没报备版美美Sunday",
+        "onboard_time": 1760800763,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 94252,
+        "num": 94252,
+        "word": "郭碧婷爸爸回应女儿一人养家",
+        "onboard_time": 1760791642,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87867,
+        "num": 87867,
+        "word": "野人小孩",
+        "onboard_time": 1760799862,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80872,
+        "num": 80872,
+        "word": "餐馆给野人男孩送饭被要求放地上",
+        "onboard_time": 1760815154,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63328,
+        "num": 63328,
+        "word": "杨振宁曾在百岁生日宴后摔倒",
+        "onboard_time": 1760789783,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93278,
+        "num": 63246,
+        "word": "寿命长的人脖子一般有5个特征",
+        "onboard_time": 1760796982,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 68407,
+        "num": 63212,
+        "word": "迈凯伦双车退赛",
+        "onboard_time": 1760828596,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62986,
+        "num": 62986,
+        "word": "郑恺苗苗从小共用一张脸",
+        "onboard_time": 1760791704,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61988,
+        "num": 61988,
+        "word": "陈建州范玮琪听到小S致辞哭了",
+        "onboard_time": 1760810356,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56113,
+        "num": 56113,
+        "word": "中国游客去夏威夷被原住民骂",
+        "onboard_time": 1760796803,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 54994,
+        "num": 54994,
+        "word": "邓莎老公上再见爱人后辞职",
+        "onboard_time": 1760784623,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54944,
+        "num": 54944,
+        "word": "乘客开门杀撞伤人司机被判赔200万",
+        "onboard_time": 1760796083,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55493,
+        "num": 54606,
+        "word": "北京今天就下雪了",
+        "onboard_time": 1760784202,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53866,
+        "num": 53866,
+        "word": "高级河灯",
+        "onboard_time": 1760829137,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47965,
+        "num": 53861,
+        "word": "黄宗泽恭喜陈伟霆当爸爸",
+        "onboard_time": 1760797284,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45787,
+        "num": 53835,
+        "word": "曾舜晞送走汤唯牵走白鹿",
+        "onboard_time": 1760797043,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45753,
+        "num": 53831,
+        "word": "杨老一路走好",
+        "onboard_time": 1760787802,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45329,
+        "num": 53804,
+        "word": "蔡徐坤这里是红毯不是秀场",
+        "onboard_time": 1760791282,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42546,
+        "num": 53801,
+        "word": "痞幼变美了",
+        "onboard_time": 1760791104,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 44670,
+        "num": 53787,
+        "word": "新加坡的印度人",
+        "onboard_time": 1760796803,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 39147,
+        "num": 53765,
+        "word": "月亮姐姐回应离开少儿频道",
+        "onboard_time": 1760828897,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38191,
+        "num": 53742,
+        "word": "杨谨华金钟奖视后",
+        "onboard_time": 1760829377,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34419,
+        "num": 53739,
+        "word": "圆明园复原后长这样",
+        "onboard_time": 1760797343,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33754,
+        "num": 53714,
+        "word": "新任中国国民党主席郑丽文",
+        "onboard_time": 1760787982,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33442,
+        "num": 53699,
+        "word": "李一桐回应美人余造型",
+        "onboard_time": 1760799862,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33227,
+        "num": 53695,
+        "word": "G2战胜BLG",
+        "onboard_time": 1760785103,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32810,
+        "num": 53665,
+        "word": "王俊凯又来炸场了",
+        "onboard_time": 1760796864,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32169,
+        "num": 53664,
+        "word": "记者2年前照片里的城市消失了",
+        "onboard_time": 1760818995,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29358,
+        "num": 53647,
+        "word": "微信文件助手才是真的职场邪修",
+        "onboard_time": 1760793202,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28422,
+        "num": 53629,
+        "word": "李兰迪怎么美成这样",
+        "onboard_time": 1760801303,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28068,
+        "num": 53616,
+        "word": "这居然是任敏",
+        "onboard_time": 1760777782,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27608,
+        "num": 53593,
+        "word": "南京vs泰州",
+        "onboard_time": 1760791942,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27384,
+        "num": 53573,
+        "word": "Crisp给BLG抽个T1吧",
+        "onboard_time": 1760801364,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24419,
+        "num": 53567,
+        "word": "沉默的荣耀",
+        "onboard_time": 1760801243,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22810,
+        "num": 53551,
+        "word": "小城良方官宣阵容",
+        "onboard_time": 1760815215,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画中国式现代化新篇章#"
+    }
+  }
+}

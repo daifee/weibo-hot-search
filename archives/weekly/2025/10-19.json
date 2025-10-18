@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760827127864,
+  "endTime": 1760829760614,
   "band_list": [
     {
       "raw_hot": 995617,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 601734,
-      "num": 601734,
+      "num": 793184,
       "word": "北京下雪了",
       "onboard_time": 1760805440,
       "rank": 41,
@@ -99,6 +99,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235497,
+      "num": 235497,
+      "word": "凌晨三点叫你出来玩你不出来",
+      "onboard_time": 1760811556,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 233856,
+      "num": 100600,
+      "word": "任嘉伦",
+      "onboard_time": 1760829258,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227392,
       "num": 816660,
       "word": "北京今天就下雪了",
@@ -163,14 +179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163286,
-      "num": 121938,
-      "word": "凌晨三点叫你出来玩你不出来",
-      "onboard_time": 1760811556,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 147541,
       "num": 185698,
       "word": "新任中国国民党主席郑丽文",
@@ -185,6 +193,14 @@
       "onboard_time": 1760796083,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131754,
+      "num": 97957,
+      "word": "沙溢曾吃了狗吃过的面发烧三天",
+      "onboard_time": 1760829377,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 130787,
@@ -315,6 +331,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 80872,
+      "num": 80872,
+      "word": "餐馆给野人男孩送饭被要求放地上",
+      "onboard_time": 1760815154,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79929,
       "num": 79929,
       "word": "张函瑞自作曲tears",
@@ -387,6 +411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 68407,
+      "num": 63212,
+      "word": "迈凯伦双车退赛",
+      "onboard_time": 1760828596,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64183,
       "num": 64587,
       "word": "汪苏泷演唱会现场点奶茶都是坑",
@@ -419,12 +451,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 61988,
+      "num": 61988,
+      "word": "陈建州范玮琪听到小S致辞哭了",
+      "onboard_time": 1760810356,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56473,
       "num": 74431,
       "word": "易烊千玺角色宇宙C位争夺战",
       "onboard_time": 1760794163,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53866,
+      "num": 53866,
+      "word": "高级河灯",
+      "onboard_time": 1760829137,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 51177,
+      "num": 110584,
+      "word": "香港中环突发火灾",
+      "onboard_time": 1760828596,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50151,
@@ -451,20 +507,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44511,
-      "num": 44511,
-      "word": "餐馆给野人男孩送饭被要求放地上",
-      "onboard_time": 1760815154,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40774,
       "num": 64577,
       "word": "每个省都有自己专属应急食物",
       "onboard_time": 1760807718,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 39147,
+      "num": 53765,
+      "word": "月亮姐姐回应离开少儿频道",
+      "onboard_time": 1760828897,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38191,
+      "num": 53742,
+      "word": "杨谨华金钟奖视后",
+      "onboard_time": 1760829377,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 37475,
@@ -475,14 +539,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 37028,
-      "num": 43032,
-      "word": "陈建州范玮琪听到小S致辞哭了",
-      "onboard_time": 1760810356,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 32551,
       "num": 42558,
       "word": "侯明昊看姻缘石刻字名场面reaction",
@@ -491,11 +547,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32169,
+      "num": 53664,
+      "word": "记者2年前照片里的城市消失了",
+      "onboard_time": 1760818995,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 25453,
       "num": 39055,
       "word": "小城良方开机",
       "onboard_time": 1760812576,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24419,
+      "num": 53567,
+      "word": "沉默的荣耀",
+      "onboard_time": 1760801243,
+      "rank": 46,
       "category": "剧集"
     },
     {
@@ -515,27 +587,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22810,
+      "num": 53551,
+      "word": "小城良方官宣阵容",
+      "onboard_time": 1760815215,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20909,
       "num": 34881,
       "word": "肖战刘铮亮白大褂海报",
       "onboard_time": 1760814434,
       "rank": 38,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 20636,
-      "num": 24965,
-      "word": "记者2年前照片里的城市消失了",
-      "onboard_time": 1760818995,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 19159,
-      "num": 33264,
-      "word": "小城良方官宣阵容",
-      "onboard_time": 1760815215,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -545,14 +609,6 @@
       "onboard_time": 1760813715,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 18120,
-      "num": 34747,
-      "word": "沉默的荣耀",
-      "onboard_time": 1760801243,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 17257,

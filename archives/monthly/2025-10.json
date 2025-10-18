@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760827127864,
+  "endTime": 1760829760614,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -5140,7 +5140,7 @@
     },
     {
       "raw_hot": 601734,
-      "num": 601734,
+      "num": 793184,
       "word": "北京下雪了",
       "onboard_time": 1760805440,
       "rank": 41,
@@ -15227,6 +15227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 235497,
+      "num": 235497,
+      "word": "凌晨三点叫你出来玩你不出来",
+      "onboard_time": 1760811556,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234882,
       "num": 234882,
       "word": "山姆配送员电动车挂满大件货物",
@@ -15305,6 +15313,14 @@
       "onboard_time": 1759818861,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 233856,
+      "num": 100600,
+      "word": "任嘉伦",
+      "onboard_time": 1760829258,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 233848,
@@ -23331,14 +23347,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 163286,
-      "num": 121938,
-      "word": "凌晨三点叫你出来玩你不出来",
-      "onboard_time": 1760811556,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 163272,
       "num": 163272,
       "word": "李沁 爱是相互的",
@@ -30489,6 +30497,14 @@
       "onboard_time": 1760610379,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131754,
+      "num": 97957,
+      "word": "沙溢曾吃了狗吃过的面发烧三天",
+      "onboard_time": 1760829377,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 131751,
@@ -50379,6 +50395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80872,
+      "num": 80872,
+      "word": "餐馆给野人男孩送饭被要求放地上",
+      "onboard_time": 1760815154,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80852,
       "num": 115242,
       "word": "这个镜头切得属于是世界名画了",
@@ -53275,6 +53299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68407,
+      "num": 63212,
+      "word": "迈凯伦双车退赛",
+      "onboard_time": 1760828596,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68370,
       "num": 88754,
       "word": "刘昊然亮相河海大学",
@@ -54345,6 +54377,14 @@
       "onboard_time": 1759455079,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 61988,
+      "num": 61988,
+      "word": "陈建州范玮琪听到小S致辞哭了",
+      "onboard_time": 1760810356,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 61985,
@@ -55635,6 +55675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53866,
+      "num": 53866,
+      "word": "高级河灯",
+      "onboard_time": 1760829137,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 53810,
       "num": 95507,
       "word": "国庆旅游家里马桶炸得焦黑",
@@ -56017,6 +56065,14 @@
       "onboard_time": 1760693902,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 51177,
+      "num": 110584,
+      "word": "香港中环突发火灾",
+      "onboard_time": 1760828596,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51144,
@@ -56915,14 +56971,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44511,
-      "num": 44511,
-      "word": "餐馆给野人男孩送饭被要求放地上",
-      "onboard_time": 1760815154,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44501,
       "num": 95137,
       "word": "考编年龄松绑能打破职场35岁门槛吗",
@@ -57643,6 +57691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39147,
+      "num": 53765,
+      "word": "月亮姐姐回应离开少儿频道",
+      "onboard_time": 1760828897,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39102,
       "num": 224127,
       "word": "真正的成熟从接纳孤独开始",
@@ -57753,6 +57809,14 @@
       "onboard_time": 1759337421,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38191,
+      "num": 53742,
+      "word": "杨谨华金钟奖视后",
+      "onboard_time": 1760829377,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 38186,
@@ -57929,14 +57993,6 @@
       "onboard_time": 1759534097,
       "rank": 45,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 37028,
-      "num": 43032,
-      "word": "陈建州范玮琪听到小S致辞哭了",
-      "onboard_time": 1760810356,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 36926,
@@ -58537,6 +58593,14 @@
       "onboard_time": 1759371080,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32169,
+      "num": 53664,
+      "word": "记者2年前照片里的城市消失了",
+      "onboard_time": 1760818995,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32158,
@@ -59875,6 +59939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22810,
+      "num": 53551,
+      "word": "小城良方官宣阵容",
+      "onboard_time": 1760815215,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22808,
       "num": 102756,
       "word": "学生踩踏家长闹剧缘何上演",
@@ -60049,14 +60121,6 @@
       "onboard_time": 1760538804,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 20636,
-      "num": 24965,
-      "word": "记者2年前照片里的城市消失了",
-      "onboard_time": 1760818995,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20606,
@@ -60273,14 +60337,6 @@
       "onboard_time": 1760465836,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19159,
-      "num": 33264,
-      "word": "小城良方官宣阵容",
-      "onboard_time": 1760815215,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 19094,
