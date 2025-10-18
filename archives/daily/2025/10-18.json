@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760772984010,
+  "endTime": 1760776260167,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -129,6 +129,22 @@
       "onboard_time": 1760761167,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 921706,
+      "num": 921706,
+      "word": "李在明女翻译因高颜值走红",
+      "onboard_time": 1760773463,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 913415,
+      "num": 219792,
+      "word": "时代峰峻要告数据组",
+      "onboard_time": 1760773642,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 891465,
@@ -307,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 498939,
+      "num": 284404,
+      "word": "能考85分偏要考84分",
+      "onboard_time": 1760771604,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 477445,
       "num": 191939,
       "word": "黄子韬徐艺洋晒婚礼照",
@@ -379,6 +403,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 352319,
+      "num": 212686,
+      "word": "野人小孩母亲衣着暴露不穿完整衣服",
+      "onboard_time": 1760775562,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 349582,
+      "num": 349582,
+      "word": "国航一杭州起飞航班起火备降",
+      "onboard_time": 1760771543,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 343232,
       "num": 343232,
       "word": "回顾杨振宁生平",
@@ -433,14 +473,6 @@
       "onboard_time": 1760760030,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284404,
-      "num": 284404,
-      "word": "能考85分偏要考84分",
-      "onboard_time": 1760771604,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 282517,
@@ -627,12 +659,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232655,
+      "num": 210658,
+      "word": "女子一袋银镯遗忘两年狂赚7万多",
+      "onboard_time": 1760773943,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 231146,
       "num": 231146,
       "word": "王者荣耀 河灯",
       "onboard_time": 1760750421,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 229095,
+      "num": 209694,
+      "word": "3个千万不能洗澡的时间段",
+      "onboard_time": 1760771365,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 224469,
@@ -707,6 +755,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 202049,
+      "num": 202049,
+      "word": "王俊凯NBA名人赛人气",
+      "onboard_time": 1760775262,
+      "rank": 27,
+      "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 200610,
+      "num": 200610,
+      "word": "杨振宁说血管流的是中华文化血液",
+      "onboard_time": 1760775143,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200073,
       "num": 200073,
       "word": "公安机关已介入赤裸小孩事件",
@@ -721,6 +785,22 @@
       "onboard_time": 1760748141,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196752,
+      "num": 196752,
+      "word": "林允现在美成这样了",
+      "onboard_time": 1760772623,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195660,
+      "num": 195660,
+      "word": "杨振宁留给大家的8个字",
+      "onboard_time": 1760773943,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193716,
@@ -825,6 +905,14 @@
       "onboard_time": 1760762378,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 176947,
+      "num": 176947,
+      "word": "陈伟霆不用偷别人家的小孩了",
+      "onboard_time": 1760775982,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 176229,
@@ -963,20 +1051,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 158671,
-      "num": 158671,
-      "word": "3个千万不能洗澡的时间段",
-      "onboard_time": 1760771365,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 156656,
       "num": 246569,
       "word": "穆祉丞翻唱恋人未满上线",
       "onboard_time": 1760755051,
       "rank": 18,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 156159,
+      "num": 156159,
+      "word": "林一的大衣能给我当被子盖",
+      "onboard_time": 1760775022,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 154675,
@@ -1019,11 +1107,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149764,
+      "num": 149764,
+      "word": "卢昱晓 偏偏你最争气",
+      "onboard_time": 1760775742,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147212,
       "num": 214856,
       "word": "爱奇艺Q4排播",
       "onboard_time": 1760718622,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145902,
+      "num": 145902,
+      "word": "剧方称肖战是刘铮亮不二的人选",
+      "onboard_time": 1760773583,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1235,14 +1339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119013,
-      "num": 132683,
-      "word": "国航一杭州起飞航班起火备降",
-      "onboard_time": 1760771543,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118782,
       "num": 118782,
       "word": "mango创始人堕亡长子成嫌疑人",
@@ -1281,6 +1377,14 @@
       "onboard_time": 1760757090,
       "rank": 37,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 115891,
+      "num": 222617,
+      "word": "33完全男神来的",
+      "onboard_time": 1760774783,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 112494,
@@ -1361,6 +1465,14 @@
       "onboard_time": 1760692941,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106348,
+      "num": 106348,
+      "word": "冠军灶偶遇樊振东",
+      "onboard_time": 1760775682,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 105909,
@@ -1467,12 +1579,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 97483,
-      "num": 97483,
-      "word": "林允现在美成这样了",
-      "onboard_time": 1760772623,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 96990,
+      "num": 100312,
+      "word": "怕冷的人最好查查甲状腺",
+      "onboard_time": 1760776103,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96766,
@@ -1675,6 +1787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 68200,
+      "num": 214132,
+      "word": "办银行卡 多重审核",
+      "onboard_time": 1760775083,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68084,
       "num": 80134,
       "word": "于和伟到吴石墓前献花",
@@ -1843,6 +1963,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 42074,
+      "num": 217884,
+      "word": "北京惊现野人部落",
+      "onboard_time": 1760774484,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38521,
       "num": 62148,
       "word": "九寨沟",
@@ -1859,6 +1987,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35533,
+      "num": 146046,
+      "word": "有农户为抢收霉菌中毒被送医",
+      "onboard_time": 1760775624,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31783,
       "num": 655250,
       "word": "杨振宁生平回顾",
@@ -1872,6 +2008,14 @@
       "word": "什么样的消费才可持续",
       "onboard_time": 1760764052,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31060,
+      "num": 145914,
+      "word": "12306回应男子疑站台抽烟错过车",
+      "onboard_time": 1760775083,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1928,6 +2072,14 @@
       "word": "是时候打王牌对王牌商战了",
       "onboard_time": 1760725636,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 25263,
+      "num": 214304,
+      "word": "花少团眼里有光",
+      "onboard_time": 1760775742,
+      "rank": 18,
       "category": "综艺"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760772984010,
+  "endTime": 1760776260167,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -851,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 921706,
+      "num": 921706,
+      "word": "李在明女翻译因高颜值走红",
+      "onboard_time": 1760773463,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 915371,
       "num": 1146459,
       "word": "美国一储藏约816吨大豆粮仓倒塌",
@@ -865,6 +873,14 @@
       "onboard_time": 1760705062,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 913415,
+      "num": 219792,
+      "word": "时代峰峻要告数据组",
+      "onboard_time": 1760773642,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 912924,
@@ -2491,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 498939,
+      "num": 284404,
+      "word": "能考85分偏要考84分",
+      "onboard_time": 1760771604,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 497434,
       "num": 436244,
       "word": "赵丽颖庆生照片",
@@ -3699,12 +3723,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 352319,
+      "num": 212686,
+      "word": "野人小孩母亲衣着暴露不穿完整衣服",
+      "onboard_time": 1760775562,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 350404,
       "num": 221857,
       "word": "第一批爱喝咖啡的受害者出现了",
       "onboard_time": 1760575582,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 349582,
+      "num": 349582,
+      "word": "国航一杭州起飞航班起火备降",
+      "onboard_time": 1760771543,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 349349,
@@ -4577,14 +4617,6 @@
       "onboard_time": 1760255541,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 284404,
-      "num": 284404,
-      "word": "能考85分偏要考84分",
-      "onboard_time": 1760771604,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 282925,
@@ -5595,6 +5627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232655,
+      "num": 210658,
+      "word": "女子一袋银镯遗忘两年狂赚7万多",
+      "onboard_time": 1760773943,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 232419,
       "num": 434950,
       "word": "徐艺洋 谢彬彬我的男朋友",
@@ -5649,6 +5689,14 @@
       "onboard_time": 1760335161,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229095,
+      "num": 209694,
+      "word": "3个千万不能洗澡的时间段",
+      "onboard_time": 1760771365,
+      "rank": 31,
+      "category": "科学科普"
     },
     {
       "raw_hot": 228361,
@@ -6379,6 +6427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202049,
+      "num": 202049,
+      "word": "王俊凯NBA名人赛人气",
+      "onboard_time": 1760775262,
+      "rank": 27,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 201871,
       "num": 201871,
       "word": "EVA终引进内地",
@@ -6433,6 +6489,14 @@
       "onboard_time": 1760621184,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 200610,
+      "num": 200610,
+      "word": "杨振宁说血管流的是中华文化血液",
+      "onboard_time": 1760775143,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200497,
@@ -6651,6 +6715,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196752,
+      "num": 196752,
+      "word": "林允现在美成这样了",
+      "onboard_time": 1760772623,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196662,
       "num": 196662,
       "word": "金毛在宠物馆洗澡后突然死亡",
@@ -6681,6 +6753,14 @@
       "onboard_time": 1760688261,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195660,
+      "num": 195660,
+      "word": "杨振宁留给大家的8个字",
+      "onboard_time": 1760773943,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195655,
@@ -7577,6 +7657,14 @@
       "onboard_time": 1760240240,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 176947,
+      "num": 176947,
+      "word": "陈伟霆不用偷别人家的小孩了",
+      "onboard_time": 1760775982,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 176908,
@@ -8675,14 +8763,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 158671,
-      "num": 158671,
-      "word": "3个千万不能洗澡的时间段",
-      "onboard_time": 1760771365,
-      "rank": 31,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 158416,
       "num": 158416,
       "word": "张继科回应和樊振东谁更强",
@@ -8873,6 +8953,14 @@
       "onboard_time": 1760604680,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 156159,
+      "num": 156159,
+      "word": "林一的大衣能给我当被子盖",
+      "onboard_time": 1760775022,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 156064,
@@ -9347,6 +9435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149764,
+      "num": 149764,
+      "word": "卢昱晓 偏偏你最争气",
+      "onboard_time": 1760775742,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149719,
       "num": 149719,
       "word": "恋综混子变香饽饽",
@@ -9681,6 +9777,14 @@
       "onboard_time": 1760358021,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 145902,
+      "num": 145902,
+      "word": "剧方称肖战是刘铮亮不二的人选",
+      "onboard_time": 1760773583,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 145891,
@@ -12515,14 +12619,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 119013,
-      "num": 132683,
-      "word": "国航一杭州起飞航班起火备降",
-      "onboard_time": 1760771543,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118935,
       "num": 118935,
       "word": "新凯来展位被挤爆",
@@ -13065,6 +13161,14 @@
       "onboard_time": 1760696482,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115891,
+      "num": 222617,
+      "word": "33完全男神来的",
+      "onboard_time": 1760774783,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 115825,
@@ -14635,6 +14739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106348,
+      "num": 106348,
+      "word": "冠军灶偶遇樊振东",
+      "onboard_time": 1760775682,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106331,
       "num": 106331,
       "word": "仙逆110",
@@ -16011,14 +16123,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 97483,
-      "num": 97483,
-      "word": "林允现在美成这样了",
-      "onboard_time": 1760772623,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97329,
       "num": 97329,
       "word": "又一地提前供暖",
@@ -16065,6 +16169,14 @@
       "onboard_time": 1760598020,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 96990,
+      "num": 100312,
+      "word": "怕冷的人最好查查甲状腺",
+      "onboard_time": 1760776103,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 96921,
@@ -19571,6 +19683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68200,
+      "num": 214132,
+      "word": "办银行卡 多重审核",
+      "onboard_time": 1760775083,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68132,
       "num": 78778,
       "word": "金价飙涨三大原因",
@@ -21283,6 +21403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42074,
+      "num": 217884,
+      "word": "北京惊现野人部落",
+      "onboard_time": 1760774484,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41998,
       "num": 41998,
       "word": "许妍与父母和解",
@@ -21675,6 +21803,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 35533,
+      "num": 146046,
+      "word": "有农户为抢收霉菌中毒被送医",
+      "onboard_time": 1760775624,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35510,
       "num": 147561,
       "word": "章子怡谈女儿现场落泪",
@@ -21880,6 +22016,14 @@
       "word": "什么样的消费才可持续",
       "onboard_time": 1760764052,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31060,
+      "num": 145914,
+      "word": "12306回应男子疑站台抽烟错过车",
+      "onboard_time": 1760775083,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -22193,6 +22337,14 @@
       "onboard_time": 1760591663,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 25263,
+      "num": 214304,
+      "word": "花少团眼里有光",
+      "onboard_time": 1760775742,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 25194,
