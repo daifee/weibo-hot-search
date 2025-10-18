@@ -1,7 +1,15 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760751989722,
+  "endTime": 1760752946106,
   "band_list": [
+    {
+      "raw_hot": 1649808,
+      "num": 172357,
+      "word": "万鹏 笑脸给多了惯的都是病",
+      "onboard_time": 1760751741,
+      "rank": 10,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1246473,
       "num": 182916,
@@ -9,14 +17,6 @@
       "onboard_time": 1760713284,
       "rank": 10,
       "category": "电影,艺人"
-    },
-    {
-      "raw_hot": 1079225,
-      "num": 123514,
-      "word": "万鹏 笑脸给多了惯的都是病",
-      "onboard_time": 1760751741,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1057349,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 785694,
-      "num": 122635,
+      "num": 168048,
       "word": "张慧贤给万鹏道歉",
       "onboard_time": 1760745379,
       "rank": 15,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 576277,
-      "num": 123225,
+      "num": 171130,
       "word": "网约车司机中途赶客乘客秒懂下车",
       "onboard_time": 1760748741,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 552040,
+      "num": 1088326,
+      "word": "iPhone天气你可能真的不会用",
+      "onboard_time": 1760746700,
+      "rank": 0,
+      "category": "数码"
     },
     {
       "raw_hot": 548525,
@@ -57,14 +65,6 @@
       "onboard_time": 1760713524,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 491468,
-      "num": 1078635,
-      "word": "iPhone天气你可能真的不会用",
-      "onboard_time": 1760746700,
-      "rank": 0,
-      "category": "数码"
     },
     {
       "raw_hot": 477445,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 469050,
-      "num": 123188,
+      "num": 170333,
       "word": "黄子韬松开徐艺洋挽刘宇宁",
       "onboard_time": 1760743698,
       "rank": 17,
@@ -115,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282014,
+      "num": 282014,
+      "word": "上海暴雨",
+      "onboard_time": 1760743577,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 275329,
       "num": 172976,
       "word": "野人小孩没有户口",
@@ -131,11 +139,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 266841,
-      "num": 266841,
-      "word": "上海暴雨",
-      "onboard_time": 1760743577,
-      "rank": 8,
+      "raw_hot": 266024,
+      "num": 167651,
+      "word": "民政局回应老人扎堆领结婚证",
+      "onboard_time": 1760749281,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -163,20 +171,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 245144,
-      "num": 122855,
-      "word": "民政局回应老人扎堆领结婚证",
-      "onboard_time": 1760749281,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 227005,
-      "num": 227005,
+      "raw_hot": 231146,
+      "num": 231146,
       "word": "王者荣耀 河灯",
       "onboard_time": 1760750421,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214307,
+      "num": 164957,
+      "word": "黄金大跳水原因",
+      "onboard_time": 1760749581,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 207215,
@@ -187,31 +195,23 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190459,
-      "num": 122340,
-      "word": "黄子韬给徐艺洋戴黄金皇冠",
-      "onboard_time": 1760747360,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 184212,
-      "num": 121825,
-      "word": "黄金大跳水原因",
-      "onboard_time": 1760749581,
-      "rank": 20,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 181291,
-      "num": 122118,
+      "raw_hot": 197167,
+      "num": 167057,
       "word": "邓莎老公路行持股市值不足5000万",
       "onboard_time": 1760748141,
       "rank": 18,
       "category": "综艺"
     },
     {
-      "raw_hot": 170538,
+      "raw_hot": 190459,
+      "num": 165850,
+      "word": "黄子韬给徐艺洋戴黄金皇冠",
+      "onboard_time": 1760747360,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 175571,
       "num": 202948,
       "word": "辽宁失联女童因红衣被快速找到",
       "onboard_time": 1760709202,
@@ -283,12 +283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 135016,
+      "num": 135016,
+      "word": "澳门CoCo姐负债千万不舍卖劳斯莱斯",
+      "onboard_time": 1760749761,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 133800,
       "num": 198585,
       "word": "金价暴涨时4万5黄金订单蒸发",
       "onboard_time": 1760699183,
       "rank": 9,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 132804,
+      "num": 132804,
+      "word": "金价银价大跳水",
+      "onboard_time": 1760752102,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 132672,
@@ -299,16 +315,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128799,
-      "num": 121598,
-      "word": "澳门CoCo姐负债千万不舍卖劳斯莱斯",
-      "onboard_time": 1760749761,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 125801,
-      "num": 94598,
+      "raw_hot": 126387,
+      "num": 126387,
       "word": "刘品言挺8个月孕肚走红毯",
       "onboard_time": 1760748622,
       "rank": 30,
@@ -332,7 +340,7 @@
     },
     {
       "raw_hot": 123711,
-      "num": 123711,
+      "num": 174751,
       "word": "缅北徐老发暴力性不亚于四大家族",
       "onboard_time": 1760712025,
       "rank": 47,
@@ -347,20 +355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112494,
+      "num": 112494,
+      "word": "英安德鲁王子放弃王室头衔",
+      "onboard_time": 1760745258,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 112319,
+      "num": 112319,
+      "word": "如果一个人长期不工作",
+      "onboard_time": 1760743159,
+      "rank": 36,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 109300,
       "num": 109300,
       "word": "毛晓彤这15秒明媚得我想哭",
       "onboard_time": 1760716821,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107899,
-      "num": 107899,
-      "word": "英安德鲁王子放弃王室头衔",
-      "onboard_time": 1760745258,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107402,
@@ -403,20 +419,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101475,
+      "num": 169851,
+      "word": "33个弹片成了老兵摘不掉的项链",
+      "onboard_time": 1760752761,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95922,
       "num": 95922,
       "word": "金价暴涨男子买黄金反亏千元",
       "onboard_time": 1760712203,
       "rank": 35,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 95314,
-      "num": 95314,
-      "word": "如果一个人长期不工作",
-      "onboard_time": 1760743159,
-      "rank": 36,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 94878,
@@ -433,6 +449,14 @@
       "onboard_time": 1760746521,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93407,
+      "num": 93407,
+      "word": "多地断崖式降温",
+      "onboard_time": 1760752821,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92308,
@@ -467,20 +491,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89375,
+      "num": 94419,
+      "word": "时尚品牌创始人坠崖儿子涉嫌谋杀",
+      "onboard_time": 1760747121,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 88492,
+      "num": 93400,
+      "word": "金黄的秋天真是治愈感拉满",
+      "onboard_time": 1760752821,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86883,
       "num": 86883,
       "word": "网红柴怼怼被正式逮捕",
       "onboard_time": 1760711247,
       "rank": 39,
       "category": "网红,民生新闻"
-    },
-    {
-      "raw_hot": 85435,
-      "num": 94419,
-      "word": "时尚品牌创始人坠崖儿子涉嫌谋杀",
-      "onboard_time": 1760747121,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 85017,
@@ -523,12 +555,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78507,
+      "num": 93387,
+      "word": "小城良方",
+      "onboard_time": 1760701942,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75484,
       "num": 133638,
       "word": "AL晋级S15八强",
       "onboard_time": 1760704461,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 74524,
+      "num": 93471,
+      "word": "果然狗是狗边牧是边牧",
+      "onboard_time": 1760749221,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73797,
+      "num": 93985,
+      "word": "全红婵十五运证件照",
+      "onboard_time": 1760751681,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 73366,
@@ -539,20 +595,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 70814,
+      "num": 93367,
+      "word": "原配称丈夫中1000万后想再找人生娃",
+      "onboard_time": 1760750121,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70622,
       "num": 80165,
       "word": "热巴邓为鞠婧祎最亮眼艺人前三",
       "onboard_time": 1760715801,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 70435,
-      "num": 93985,
-      "word": "全红婵十五运证件照",
-      "onboard_time": 1760751681,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 68206,
@@ -577,6 +633,14 @@
       "onboard_time": 1760749100,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65442,
+      "num": 93389,
+      "word": "Flandre雷克塞神了",
+      "onboard_time": 1760752581,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 65029,
@@ -609,14 +673,6 @@
       "onboard_time": 1760726418,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61165,
-      "num": 93471,
-      "word": "果然狗是狗边牧是边牧",
-      "onboard_time": 1760749221,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 60306,
@@ -683,6 +739,14 @@
       "category": "时尚,休闲"
     },
     {
+      "raw_hot": 47255,
+      "num": 112334,
+      "word": "入青云",
+      "onboard_time": 1760742977,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44608,
       "num": 62390,
       "word": "柿子是一种很全能的水果",
@@ -697,14 +761,6 @@
       "onboard_time": 1760696482,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 44278,
-      "num": 94648,
-      "word": "入青云",
-      "onboard_time": 1760742977,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 38521,
@@ -787,20 +843,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18799,
+      "num": 94081,
+      "word": "汽车产业将走向何方",
+      "onboard_time": 1760749281,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 18540,
       "num": 62563,
       "word": "特朗普称不打算供乌战斧导弹",
       "onboard_time": 1760744119,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 15594,
-      "num": 94081,
-      "word": "汽车产业将走向何方",
-      "onboard_time": 1760749281,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 14157,
@@ -817,6 +873,14 @@
       "onboard_time": 1760739736,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 5908,
+      "num": 289062,
+      "word": "WannaCry勒索风暴的警示与防范",
+      "onboard_time": 1760752880,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

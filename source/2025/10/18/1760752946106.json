@@ -1,0 +1,410 @@
+{
+  "runTime": 1760752946106,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 552040,
+        "num": 1088326,
+        "word": "iPhone天气你可能真的不会用",
+        "onboard_time": 1760746700,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 351570,
+        "num": 351570,
+        "word": "韩四大集团CEO将赴海湖庄园",
+        "onboard_time": 1760746700,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5908,
+        "num": 289062,
+        "word": "WannaCry勒索风暴的警示与防范",
+        "onboard_time": 1760752880,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282014,
+        "num": 282014,
+        "word": "上海暴雨",
+        "onboard_time": 1760743577,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231146,
+        "num": 231146,
+        "word": "王者荣耀 河灯",
+        "onboard_time": 1760750421,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 175571,
+        "num": 175571,
+        "word": "辽宁失联女童因红衣被快速找到",
+        "onboard_time": 1760709202,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33064,
+        "num": 174972,
+        "word": "今天起传递这颗红星",
+        "onboard_time": 1760706802,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122194,
+        "num": 174751,
+        "word": "缅北徐老发暴力性不亚于四大家族",
+        "onboard_time": 1760712025,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114045,
+        "num": 173432,
+        "word": "5家企业涉嫌支持台军心战大队",
+        "onboard_time": 1760714183,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111260,
+        "num": 173023,
+        "word": "国际金银快速下挫",
+        "onboard_time": 1760712625,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1649808,
+        "num": 172357,
+        "word": "万鹏 笑脸给多了惯的都是病",
+        "onboard_time": 1760751741,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 483938,
+        "num": 171130,
+        "word": "网约车司机中途赶客乘客秒懂下车",
+        "onboard_time": 1760748741,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406170,
+        "num": 170333,
+        "word": "黄子韬松开徐艺洋挽刘宇宁",
+        "onboard_time": 1760743698,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101475,
+        "num": 169851,
+        "word": "33个弹片成了老兵摘不掉的项链",
+        "onboard_time": 1760752761,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351060,
+        "num": 169398,
+        "word": "肖战新剧女主姜妍",
+        "onboard_time": 1760712804,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 681751,
+        "num": 168048,
+        "word": "张慧贤给万鹏道歉",
+        "onboard_time": 1760745379,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266024,
+        "num": 167651,
+        "word": "民政局回应老人扎堆领结婚证",
+        "onboard_time": 1760749281,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197167,
+        "num": 167057,
+        "word": "邓莎老公路行持股市值不足5000万",
+        "onboard_time": 1760748141,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183924,
+        "num": 165850,
+        "word": "黄子韬给徐艺洋戴黄金皇冠",
+        "onboard_time": 1760747360,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165731,
+        "num": 165731,
+        "word": "娃都三岁了产妇竟被酒店索月子房费",
+        "onboard_time": 1760713643,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 214307,
+        "num": 164957,
+        "word": "黄金大跳水原因",
+        "onboard_time": 1760749581,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 157144,
+        "num": 157144,
+        "word": "蒋龙 张弛",
+        "onboard_time": 1760715983,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135016,
+        "num": 135016,
+        "word": "澳门CoCo姐负债千万不舍卖劳斯莱斯",
+        "onboard_time": 1760749761,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132804,
+        "num": 132804,
+        "word": "金价银价大跳水",
+        "onboard_time": 1760752102,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 126387,
+        "num": 126387,
+        "word": "刘品言挺8个月孕肚走红毯",
+        "onboard_time": 1760748622,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85370,
+        "num": 116816,
+        "word": "上海打雷",
+        "onboard_time": 1760740035,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115792,
+        "num": 115792,
+        "word": "虽然离很久了 但婚纱照超好看",
+        "onboard_time": 1760716461,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112494,
+        "num": 112494,
+        "word": "英安德鲁王子放弃王室头衔",
+        "onboard_time": 1760745258,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69908,
+        "num": 112398,
+        "word": "爱奇艺Q4排播",
+        "onboard_time": 1760718622,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47255,
+        "num": 112334,
+        "word": "入青云",
+        "onboard_time": 1760742977,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112319,
+        "num": 112319,
+        "word": "如果一个人长期不工作",
+        "onboard_time": 1760743159,
+        "rank": 30,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 103883,
+        "num": 103883,
+        "word": "妈妈看店半天没卖出儿子5分钟开单",
+        "onboard_time": 1760745079,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93407,
+        "num": 93407,
+        "word": "多地断崖式降温",
+        "onboard_time": 1760752821,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90637,
+        "num": 93405,
+        "word": "景德镇胡女士回忆一家三口陆续离世",
+        "onboard_time": 1760747061,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89375,
+        "num": 93402,
+        "word": "时尚品牌创始人坠崖儿子涉嫌谋杀",
+        "onboard_time": 1760747121,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88635,
+        "num": 93402,
+        "word": "小S得奖",
+        "onboard_time": 1760713284,
+        "rank": 35,
+        "category": "电影,艺人"
+      },
+      {
+        "raw_hot": 88492,
+        "num": 93400,
+        "word": "金黄的秋天真是治愈感拉满",
+        "onboard_time": 1760752821,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83043,
+        "num": 93394,
+        "word": "金价暴涨时4万5黄金订单蒸发",
+        "onboard_time": 1760699183,
+        "rank": 37,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 80400,
+        "num": 93394,
+        "word": "丈夫中1000万变心但不想离婚",
+        "onboard_time": 1760717303,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65442,
+        "num": 93389,
+        "word": "Flandre雷克塞神了",
+        "onboard_time": 1760752581,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78966,
+        "num": 93387,
+        "word": "Tabe承认BP失误",
+        "onboard_time": 1760746521,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78507,
+        "num": 93387,
+        "word": "小城良方",
+        "onboard_time": 1760701942,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76864,
+        "num": 93384,
+        "word": "广东人终于不用穿短袖了",
+        "onboard_time": 1760749281,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75909,
+        "num": 93379,
+        "word": "毛晓彤这15秒明媚得我想哭",
+        "onboard_time": 1760716821,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74524,
+        "num": 93378,
+        "word": "果然狗是狗边牧是边牧",
+        "onboard_time": 1760749221,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74085,
+        "num": 93374,
+        "word": "真正缓解便秘的3种食物",
+        "onboard_time": 1760743220,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 73797,
+        "num": 93372,
+        "word": "全红婵十五运证件照",
+        "onboard_time": 1760751681,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72314,
+        "num": 93369,
+        "word": "日本女子强迫她人卖淫接客400人",
+        "onboard_time": 1760712985,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 70814,
+        "num": 93367,
+        "word": "原配称丈夫中1000万后想再找人生娃",
+        "onboard_time": 1760750121,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18799,
+        "num": 93365,
+        "word": "汽车产业将走向何方",
+        "onboard_time": 1760749281,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济关键时刻必有关键抉择#"
+    }
+  }
+}

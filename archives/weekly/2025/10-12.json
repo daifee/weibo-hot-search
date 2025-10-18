@@ -1,6 +1,6 @@
 {
   "startTime": 1760200075887,
-  "endTime": 1760751989722,
+  "endTime": 1760752946106,
   "band_list": [
     {
       "raw_hot": 9427103,
@@ -193,6 +193,14 @@
       "onboard_time": 1760445621,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1649808,
+      "num": 172357,
+      "word": "万鹏 笑脸给多了惯的都是病",
+      "onboard_time": 1760751741,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1613573,
@@ -569,14 +577,6 @@
       "onboard_time": 1760432242,
       "rank": 1,
       "category": "互联网,汽车"
-    },
-    {
-      "raw_hot": 1079225,
-      "num": 123514,
-      "word": "万鹏 笑脸给多了惯的都是病",
-      "onboard_time": 1760751741,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1078099,
@@ -1068,7 +1068,7 @@
     },
     {
       "raw_hot": 785694,
-      "num": 122635,
+      "num": 168048,
       "word": "张慧贤给万鹏道歉",
       "onboard_time": 1760745379,
       "rank": 15,
@@ -1724,7 +1724,7 @@
     },
     {
       "raw_hot": 576277,
-      "num": 123225,
+      "num": 171130,
       "word": "网约车司机中途赶客乘客秒懂下车",
       "onboard_time": 1760748741,
       "rank": 11,
@@ -1873,6 +1873,14 @@
       "onboard_time": 1760698344,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 552040,
+      "num": 1088326,
+      "word": "iPhone天气你可能真的不会用",
+      "onboard_time": 1760746700,
+      "rank": 0,
+      "category": "数码"
     },
     {
       "raw_hot": 550301,
@@ -2291,14 +2299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 491468,
-      "num": 1078635,
-      "word": "iPhone天气你可能真的不会用",
-      "onboard_time": 1760746700,
-      "rank": 0,
-      "category": "数码"
-    },
-    {
       "raw_hot": 490397,
       "num": 490397,
       "word": "申裕斌摸孙颖莎肚子",
@@ -2500,7 +2500,7 @@
     },
     {
       "raw_hot": 469050,
-      "num": 123188,
+      "num": 170333,
       "word": "黄子韬松开徐艺洋挽刘宇宁",
       "onboard_time": 1760743698,
       "rank": 17,
@@ -4267,6 +4267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 282014,
+      "num": 282014,
+      "word": "上海暴雨",
+      "onboard_time": 1760743577,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281438,
       "num": 246869,
       "word": "沈佳润事业运",
@@ -4499,14 +4507,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 266841,
-      "num": 266841,
-      "word": "上海暴雨",
-      "onboard_time": 1760743577,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 266241,
       "num": 266241,
       "word": "人民空军回应小伙修复为人民服务标语",
@@ -4520,6 +4520,14 @@
       "word": "武汉一公厕旁花坛被贴上男士小便处",
       "onboard_time": 1760280141,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 266024,
+      "num": 167651,
+      "word": "民政局回应老人扎堆领结婚证",
+      "onboard_time": 1760749281,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -4915,14 +4923,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 245144,
-      "num": 122855,
-      "word": "民政局回应老人扎堆领结婚证",
-      "onboard_time": 1760749281,
-      "rank": 14,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 244425,
       "num": 244425,
       "word": "28nm芯片",
@@ -5155,6 +5155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231146,
+      "num": 231146,
+      "word": "王者荣耀 河灯",
+      "onboard_time": 1760750421,
+      "rank": 4,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 230975,
       "num": 183981,
       "word": "网购卫生巾上有手写字",
@@ -5249,14 +5257,6 @@
       "onboard_time": 1760246360,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 227005,
-      "num": 227005,
-      "word": "王者荣耀 河灯",
-      "onboard_time": 1760750421,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 226980,
@@ -5529,6 +5529,14 @@
       "onboard_time": 1760401281,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 214307,
+      "num": 164957,
+      "word": "黄金大跳水原因",
+      "onboard_time": 1760749581,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 213894,
@@ -6075,6 +6083,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 197167,
+      "num": 167057,
+      "word": "邓莎老公路行持股市值不足5000万",
+      "onboard_time": 1760748141,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197083,
       "num": 197083,
       "word": "花海找贺峻霖吃饭",
@@ -6372,7 +6388,7 @@
     },
     {
       "raw_hot": 190459,
-      "num": 122340,
+      "num": 165850,
       "word": "黄子韬给徐艺洋戴黄金皇冠",
       "onboard_time": 1760747360,
       "rank": 17,
@@ -6659,14 +6675,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 184212,
-      "num": 121825,
-      "word": "黄金大跳水原因",
-      "onboard_time": 1760749581,
-      "rank": 20,
-      "category": "财经"
-    },
-    {
       "raw_hot": 183924,
       "num": 228485,
       "word": "成都起火汽车曾以极高速度行驶",
@@ -6745,14 +6753,6 @@
       "onboard_time": 1760406140,
       "rank": 30,
       "category": "数码"
-    },
-    {
-      "raw_hot": 181291,
-      "num": 122118,
-      "word": "邓莎老公路行持股市值不足5000万",
-      "onboard_time": 1760748141,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 181118,
@@ -9867,6 +9867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135016,
+      "num": 135016,
+      "word": "澳门CoCo姐负债千万不舍卖劳斯莱斯",
+      "onboard_time": 1760749761,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 134919,
       "num": 134919,
       "word": "李昀锐吃成蜜蜂狗了",
@@ -10049,6 +10057,14 @@
       "onboard_time": 1760697983,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132804,
+      "num": 132804,
+      "word": "金价银价大跳水",
+      "onboard_time": 1760752102,
+      "rank": 23,
+      "category": "财经"
     },
     {
       "raw_hot": 132794,
@@ -10427,14 +10443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128799,
-      "num": 121598,
-      "word": "澳门CoCo姐负债千万不舍卖劳斯莱斯",
-      "onboard_time": 1760749761,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 128534,
       "num": 128534,
       "word": "宋祖儿表妹万福白衣头纱造型",
@@ -10683,6 +10691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 126387,
+      "num": 126387,
+      "word": "刘品言挺8个月孕肚走红毯",
+      "onboard_time": 1760748622,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126328,
       "num": 202399,
       "word": "华为耳夹耳机成国际时装周常客",
@@ -10769,14 +10785,6 @@
       "onboard_time": 1760240900,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 125801,
-      "num": 94598,
-      "word": "刘品言挺8个月孕肚走红毯",
-      "onboard_time": 1760748622,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 125476,
@@ -11012,7 +11020,7 @@
     },
     {
       "raw_hot": 123711,
-      "num": 123711,
+      "num": 174751,
       "word": "缅北徐老发暴力性不亚于四大家族",
       "onboard_time": 1760712025,
       "rank": 49,
@@ -12643,6 +12651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 112494,
+      "num": 112494,
+      "word": "英安德鲁王子放弃王室头衔",
+      "onboard_time": 1760745258,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112423,
       "num": 175360,
       "word": "华为耳夹何方联名配饰开启预售",
@@ -12665,6 +12681,14 @@
       "onboard_time": 1760258240,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112319,
+      "num": 112319,
+      "word": "如果一个人长期不工作",
+      "onboard_time": 1760743159,
+      "rank": 36,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 112229,
@@ -13401,14 +13425,6 @@
       "onboard_time": 1760511979,
       "rank": 17,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 107899,
-      "num": 107899,
-      "word": "英安德鲁王子放弃王室头衔",
-      "onboard_time": 1760745258,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 107805,
@@ -14459,6 +14475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 101475,
+      "num": 169851,
+      "word": "33个弹片成了老兵摘不掉的项链",
+      "onboard_time": 1760752761,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101463,
       "num": 218825,
       "word": "化学老师用火焰掌奖励学生引争议",
@@ -15171,14 +15195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95314,
-      "num": 95314,
-      "word": "如果一个人长期不工作",
-      "onboard_time": 1760743159,
-      "rank": 36,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 95307,
       "num": 95307,
       "word": "马龙全运会证件照",
@@ -15465,6 +15481,14 @@
       "onboard_time": 1760241800,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93407,
+      "num": 93407,
+      "word": "多地断崖式降温",
+      "onboard_time": 1760752821,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93362,
@@ -16059,6 +16083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89375,
+      "num": 94419,
+      "word": "时尚品牌创始人坠崖儿子涉嫌谋杀",
+      "onboard_time": 1760747121,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 89226,
       "num": 89226,
       "word": "李施嬅四次手术男友全程缺席",
@@ -16161,6 +16193,14 @@
       "onboard_time": 1760499680,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88492,
+      "num": 93400,
+      "word": "金黄的秋天真是治愈感拉满",
+      "onboard_time": 1760752821,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88488,
@@ -16561,14 +16601,6 @@
       "onboard_time": 1760405539,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 85435,
-      "num": 94419,
-      "word": "时尚品牌创始人坠崖儿子涉嫌谋杀",
-      "onboard_time": 1760747121,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 85406,
@@ -17939,6 +17971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74524,
+      "num": 93471,
+      "word": "果然狗是狗边牧是边牧",
+      "onboard_time": 1760749221,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 74515,
       "num": 155850,
       "word": "荣耀发布会含金量真高",
@@ -18049,6 +18089,14 @@
       "onboard_time": 1760369601,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73797,
+      "num": 93985,
+      "word": "全红婵十五运证件照",
+      "onboard_time": 1760751681,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 73778,
@@ -18251,6 +18299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 70814,
+      "num": 93367,
+      "word": "原配称丈夫中1000万后想再找人生娃",
+      "onboard_time": 1760750121,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70622,
       "num": 80165,
       "word": "热巴邓为鞠婧祎最亮眼艺人前三",
@@ -18273,14 +18329,6 @@
       "onboard_time": 1760408480,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 70435,
-      "num": 93985,
-      "word": "全红婵十五运证件照",
-      "onboard_time": 1760751681,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 70375,
@@ -18715,6 +18763,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 65442,
+      "num": 93389,
+      "word": "Flandre雷克塞神了",
+      "onboard_time": 1760752581,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 65133,
       "num": 65133,
       "word": "ally收下出轨前男友礼物",
@@ -18977,14 +19033,6 @@
       "onboard_time": 1760364321,
       "rank": 16,
       "category": "数码"
-    },
-    {
-      "raw_hot": 61165,
-      "num": 93471,
-      "word": "果然狗是狗边牧是边牧",
-      "onboard_time": 1760749221,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 61163,
@@ -21403,6 +21451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18799,
+      "num": 94081,
+      "word": "汽车产业将走向何方",
+      "onboard_time": 1760749281,
+      "rank": 39,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 18795,
       "num": 147054,
       "word": "短剧F4谁掉队了",
@@ -21521,14 +21577,6 @@
       "onboard_time": 1760553074,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 15594,
-      "num": 94081,
-      "word": "汽车产业将走向何方",
-      "onboard_time": 1760749281,
-      "rank": 39,
-      "category": "汽车"
     },
     {
       "raw_hot": 15574,
@@ -21769,6 +21817,14 @@
       "onboard_time": 1760486842,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 5908,
+      "num": 289062,
+      "word": "WannaCry勒索风暴的警示与防范",
+      "onboard_time": 1760752880,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1173,
