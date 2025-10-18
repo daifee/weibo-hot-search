@@ -1,0 +1,410 @@
+{
+  "runTime": 1760759151139,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 392965,
+        "num": 1062874,
+        "word": "间谍在民宿拍军港被老板举报",
+        "onboard_time": 1760755772,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 391658,
+        "num": 391658,
+        "word": "iPhone天气你可能真的不会用",
+        "onboard_time": 1760746700,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 24553,
+        "num": 391364,
+        "word": "WannaCry勒索风暴的警示与防范",
+        "onboard_time": 1760752880,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 515435,
+        "num": 391198,
+        "word": "金价银价大跳水",
+        "onboard_time": 1760752102,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 242271,
+        "num": 390748,
+        "word": "iPhone17全系包揽销量榜前三",
+        "onboard_time": 1760756613,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 19315866,
+        "num": 19315866,
+        "word": "陈伟霆何穗官宣生子",
+        "onboard_time": 1760753301,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228109,
+        "num": 389987,
+        "word": "暗河传官宣定档",
+        "onboard_time": 1760756613,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222113,
+        "num": 389666,
+        "word": "中美经贸磋商",
+        "onboard_time": 1760754511,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209193,
+        "num": 389403,
+        "word": "广东人终于不用穿短袖了",
+        "onboard_time": 1760749281,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209163,
+        "num": 389158,
+        "word": "蓝溪镇",
+        "onboard_time": 1760758411,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 5889519,
+        "num": 5889519,
+        "word": "陈伟霆何穗什么时候在一起的",
+        "onboard_time": 1760753604,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1389016,
+        "num": 388324,
+        "word": "压力给到井柏然刘雯",
+        "onboard_time": 1760755712,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1074414,
+        "num": 388127,
+        "word": "许我耀眼",
+        "onboard_time": 1760755352,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 835809,
+        "num": 387729,
+        "word": "万鹏 笑脸给多了惯的都是病",
+        "onboard_time": 1760751741,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 425078,
+        "num": 387320,
+        "word": "与已婚女同居博士生被解除公派留学",
+        "onboard_time": 1760754271,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387182,
+        "num": 387182,
+        "word": "好命哥真好命",
+        "onboard_time": 1760754990,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361240,
+        "num": 361240,
+        "word": "网约车司机中途赶客乘客秒懂下车",
+        "onboard_time": 1760748741,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275905,
+        "num": 275905,
+        "word": "肖战王彦霖首搭",
+        "onboard_time": 1760755835,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 464135,
+        "num": 273944,
+        "word": "张慧贤给万鹏道歉",
+        "onboard_time": 1760745379,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107729,
+        "num": 269162,
+        "word": "19岁男孩自查文献确诊罕见卟啉病",
+        "onboard_time": 1760758531,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 280428,
+        "num": 268718,
+        "word": "秦彻深渊主宰",
+        "onboard_time": 1760758649,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 265868,
+        "num": 265868,
+        "word": "麦当劳 没那么灵",
+        "onboard_time": 1760755533,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244212,
+        "num": 244212,
+        "word": "特朗普承认对华关税不可持续",
+        "onboard_time": 1760757271,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 229257,
+        "num": 229257,
+        "word": "倪大红姜妍领衔主演小城良方",
+        "onboard_time": 1760754931,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179259,
+        "num": 179259,
+        "word": "黄子韬松开徐艺洋挽刘宇宁",
+        "onboard_time": 1760743698,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172834,
+        "num": 172834,
+        "word": "男子1个月暴瘦15斤等来母亲良性报告",
+        "onboard_time": 1760758889,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153162,
+        "num": 153162,
+        "word": "金饰克价跌到1262元",
+        "onboard_time": 1760752941,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137010,
+        "num": 153099,
+        "word": "上海暴雨",
+        "onboard_time": 1760743577,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133043,
+        "num": 152656,
+        "word": "中美同意尽快举行新一轮经贸磋商",
+        "onboard_time": 1760756253,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107923,
+        "num": 152386,
+        "word": "穆祉丞翻唱恋人未满上线",
+        "onboard_time": 1760755051,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249621,
+        "num": 151896,
+        "word": "岳父机场接机梁靖崑",
+        "onboard_time": 1760757271,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213122,
+        "num": 151728,
+        "word": "肖战新剧女主姜妍",
+        "onboard_time": 1760712804,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165959,
+        "num": 151309,
+        "word": "英伟达已完全脱离中国市场",
+        "onboard_time": 1760758649,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 151072,
+        "num": 151072,
+        "word": "只要你谈过几次恋爱就会发现",
+        "onboard_time": 1760755592,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144777,
+        "num": 144777,
+        "word": "邵子恒 归国爱豆爆改古风小生",
+        "onboard_time": 1760758050,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144386,
+        "num": 144386,
+        "word": "华为Mate80Pro备案颜色曝光",
+        "onboard_time": 1760757570,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131283,
+        "num": 131283,
+        "word": "民政局回应老人扎堆领结婚证",
+        "onboard_time": 1760749281,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131117,
+        "num": 131117,
+        "word": "刘品言挺8个月孕肚走红毯",
+        "onboard_time": 1760748622,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95844,
+        "num": 126705,
+        "word": "一代超模都找到了幸福",
+        "onboard_time": 1760758889,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123789,
+        "num": 123789,
+        "word": "蒋龙 张弛",
+        "onboard_time": 1760715983,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121354,
+        "num": 121354,
+        "word": "试婚纱让老公全程摆臭脸",
+        "onboard_time": 1760758889,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115906,
+        "num": 115906,
+        "word": "梁靖崑给王楚钦直男P图",
+        "onboard_time": 1760753664,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108950,
+        "num": 108950,
+        "word": "金价涨到头了吗",
+        "onboard_time": 1760756912,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80827,
+        "num": 108089,
+        "word": "汪铎的基本功被央视考验了",
+        "onboard_time": 1760757691,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107307,
+        "num": 107307,
+        "word": "娃都三岁了产妇竟被酒店索月子房费",
+        "onboard_time": 1760713643,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 104148,
+        "num": 104148,
+        "word": "邵阳通报一学校围墙操场坍塌",
+        "onboard_time": 1760755652,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 99231,
+        "num": 99231,
+        "word": "杜淳妻子说因戏生情的演员不专业",
+        "onboard_time": 1760756852,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101765,
+        "num": 98846,
+        "word": "韩四大集团CEO将赴海湖庄园",
+        "onboard_time": 1760746700,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98203,
+        "num": 98203,
+        "word": "湘玉 我开始明白你了",
+        "onboard_time": 1760759070,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93003,
+        "num": 93003,
+        "word": "眼妆的意义",
+        "onboard_time": 1760759130,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国经济关键时刻必有关键抉择#"
+    }
+  }
+}
