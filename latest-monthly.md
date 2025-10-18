@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 22:38:22
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 23:22:51
 </p>
 </blockquote>
 <p>
@@ -605,6 +605,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E5%9B%9E%E5%BA%94%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E5%8F%91%E7%99%BD%23" target="weibo">
 鸡排哥回应嘴唇发紫发白（热度：1486138）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%BD%95%E7%A9%97%E5%89%8D%E5%A4%AB%E5%8F%82%E5%8A%A0%E8%BF%87%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%23" target="weibo">
+网传何穗前夫参加过再见爱人（热度：1481478）
 </a>
 </li>
 
@@ -4119,6 +4125,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%AE%A2%E5%BC%80%E9%97%A8%E6%9D%80%E6%92%9E%E4%BC%A4%E4%BA%BA%E5%8F%B8%E6%9C%BA%E8%A2%AB%E5%88%A4%E8%B5%94200%E4%B8%87%23" target="weibo">
+乘客开门杀撞伤人司机被判赔200万（热度：575642）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E4%BA%86%E9%9A%90%E7%BF%85%E8%99%AB%23" target="weibo">
 发现了隐翅虫（热度：572264）
 </a>
@@ -4187,6 +4199,12 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E4%BB%A3%E5%86%99%E8%AE%BA%E6%96%87%E9%BB%91%E5%B7%A5%E5%8E%82%23" target="weibo">
 央视曝光AI代写论文黑工厂（热度：566048）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E4%BA%AE%E5%A7%90%E5%A7%90%E5%AE%98%E5%AE%A3%E7%A6%BB%E5%BC%80%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93%23" target="weibo">
+月亮姐姐官宣离开少儿频道（热度：565572）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ S15瑞士轮第三轮抽签（热度：449595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%E5%A4%84%E5%A4%84%E8%A2%AB%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7%23" target="weibo">
 黄磊处处被贴脸开大（热度：447049）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E5%BB%BA%E8%AE%AE%E9%B8%A1%E6%8E%92%E5%93%A5%E4%B8%8D%E8%A6%81%E7%94%A8%E5%A4%A7%E8%B1%86%E6%B2%B9%23" target="weibo">
-专家建议鸡排哥不要用大豆油（热度：446686）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%A1%B0%E8%80%81%E7%84%A6%E8%99%91%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
-何炅衰老焦虑的原因找到了（热度：445966）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E8%AE%A9%E5%A9%9A%E7%A4%BC%E8%B7%B3%E6%B2%B3%E7%9A%84%E7%97%9B%E6%88%90%E9%94%AE%E7%9B%98%E6%96%AD%E6%A1%88%E7%9A%84%E7%93%9C%23" target="weibo">
-别让婚礼跳河的痛成键盘断案的瓜（热度：445530）
 </a>
 </li>
 

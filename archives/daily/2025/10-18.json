@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760798302136,
+  "endTime": 1760800971936,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -88,6 +88,14 @@
       "word": "陈伟霆不用偷别人家的小孩了",
       "onboard_time": 1760775982,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1481478,
+      "num": 270230,
+      "word": "网传何穗前夫参加过再见爱人",
+      "onboard_time": 1760799384,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 714336,
-      "num": 257757,
+      "num": 264796,
       "word": "曾舜晞送走汤唯牵走白鹿",
       "onboard_time": 1760797043,
       "rank": 14,
@@ -361,6 +369,22 @@
       "onboard_time": 1760748741,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 575642,
+      "num": 269024,
+      "word": "乘客开门杀撞伤人司机被判赔200万",
+      "onboard_time": 1760796083,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 565572,
+      "num": 267905,
+      "word": "月亮姐姐官宣离开少儿频道",
+      "onboard_time": 1760799203,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 562402,
@@ -579,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 428385,
+      "num": 258241,
+      "word": "寿命长的人脖子一般有5个特征",
+      "onboard_time": 1760796982,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 405519,
       "num": 278258,
       "word": "回南雀",
@@ -593,6 +625,14 @@
       "onboard_time": 1760777603,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 378642,
+      "num": 261815,
+      "word": "新加坡的印度人",
+      "onboard_time": 1760796803,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 369651,
@@ -617,14 +657,6 @@
       "onboard_time": 1760755835,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 364763,
-      "num": 255954,
-      "word": "乘客开门杀撞伤人司机被判赔200万",
-      "onboard_time": 1760796083,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 349312,
@@ -667,14 +699,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 332570,
-      "num": 248151,
-      "word": "寿命长的人脖子一般有5个特征",
-      "onboard_time": 1760796982,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 327166,
       "num": 492022,
       "word": "山西3.9级地震",
@@ -713,6 +737,14 @@
       "onboard_time": 1760786542,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 297864,
+      "num": 297864,
+      "word": "杨振宁在美办公室有人凌晨献花",
+      "onboard_time": 1760799742,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295616,
@@ -761,6 +793,14 @@
       "onboard_time": 1760758649,
       "rank": 20,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 278815,
+      "num": 258997,
+      "word": "李一桐回应美人余造型",
+      "onboard_time": 1760799862,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 275329,
@@ -947,14 +987,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 242580,
-      "num": 242580,
-      "word": "新加坡的印度人",
-      "onboard_time": 1760796803,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 241364,
       "num": 241364,
       "word": "苗苗把种子倒进了袜子里",
@@ -1059,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209880,
+      "num": 209880,
+      "word": "张小斐像是来谈收购的",
+      "onboard_time": 1760800285,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209163,
       "num": 722204,
       "word": "蓝溪镇",
@@ -1123,6 +1163,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 203201,
+      "num": 203201,
+      "word": "野人小孩",
+      "onboard_time": 1760799862,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202428,
       "num": 509223,
       "word": "BLG想去找T1",
@@ -1177,6 +1225,14 @@
       "onboard_time": 1760794163,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198071,
+      "num": 198071,
+      "word": "天蚕土豆锐评BLG",
+      "onboard_time": 1760798843,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 197285,
@@ -1329,6 +1385,14 @@
       "onboard_time": 1760764052,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 187293,
+      "num": 187293,
+      "word": "圆明园复原后长这样",
+      "onboard_time": 1760797343,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185790,
@@ -1555,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168818,
+      "num": 168818,
+      "word": "刘雨昕再跳YESOK",
+      "onboard_time": 1760800285,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 166650,
       "num": 166650,
       "word": "第一次见有人把房子装到我眼花缭乱",
@@ -1577,6 +1649,14 @@
       "onboard_time": 1760758050,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165421,
+      "num": 272328,
+      "word": "今年冬天会不会更冷",
+      "onboard_time": 1760798183,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164586,
@@ -1979,6 +2059,22 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 133370,
+      "num": 133370,
+      "word": "第一次用外酥里嫩来形容房子",
+      "onboard_time": 1760796982,
+      "rank": 49,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 133060,
+      "num": 133060,
+      "word": "这个男团刚出道6个月就拿3个奖",
+      "onboard_time": 1760799624,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132672,
       "num": 132672,
       "word": "鹿晗张艺兴黄子韬在南山塔挂过锁头",
@@ -1993,6 +2089,14 @@
       "onboard_time": 1760791223,
       "rank": 40,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 131408,
+      "num": 131408,
+      "word": "怎样辨别月经是否快来了",
+      "onboard_time": 1760798300,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 130583,
@@ -2019,6 +2123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128318,
+      "num": 128318,
+      "word": "廖俊涛转型做唱跳歌手",
+      "onboard_time": 1760800522,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 128071,
       "num": 128071,
       "word": "杜淳妻子说因戏生情的演员不专业",
@@ -2033,6 +2145,14 @@
       "onboard_time": 1760790022,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127524,
+      "num": 130447,
+      "word": "周深退场临时改变方案",
+      "onboard_time": 1760799263,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 127450,
@@ -2081,6 +2201,14 @@
       "onboard_time": 1760757691,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 125984,
+      "num": 125984,
+      "word": "北京西部北部将有雨雪",
+      "onboard_time": 1760799624,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125675,
@@ -2153,6 +2281,14 @@
       "onboard_time": 1760777902,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120553,
+      "num": 120553,
+      "word": "沈佳润音乐节没报备版美美Sunday",
+      "onboard_time": 1760800763,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 119469,
@@ -2251,14 +2387,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 116134,
-      "num": 116134,
-      "word": "圆明园复原后长这样",
-      "onboard_time": 1760797343,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 115891,
       "num": 222617,
       "word": "33完全男神来的",
@@ -2315,6 +2443,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 112304,
+      "num": 112304,
+      "word": "压力给到刘青松",
+      "onboard_time": 1760800285,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111542,
       "num": 111542,
       "word": "上海高境一中通报女生泼饮料事件",
@@ -2369,14 +2505,6 @@
       "onboard_time": 1760768365,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109689,
-      "num": 109689,
-      "word": "第一次用外酥里嫩来形容房子",
-      "onboard_time": 1760796982,
-      "rank": 49,
-      "category": "休闲"
     },
     {
       "raw_hot": 109300,
@@ -2915,14 +3043,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 70127,
-      "num": 145687,
-      "word": "今年冬天会不会更冷",
-      "onboard_time": 1760798183,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68206,
       "num": 80191,
       "word": "邓紫棋演唱会",
@@ -2979,6 +3099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 65341,
+      "num": 191959,
+      "word": "灭蚊行动 私闯民宅",
+      "onboard_time": 1760799323,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65029,
       "num": 93718,
       "word": "套内114平花费19万装修的家",
@@ -3017,6 +3145,14 @@
       "onboard_time": 1760751441,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 62276,
+      "num": 130573,
+      "word": "请求核查野人男孩父母收入来源",
+      "onboard_time": 1760800883,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61216,
@@ -3443,7 +3579,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 3269,
+      "raw_hot": 3623,
       "num": 487520,
       "word": "非凡十四五",
       "onboard_time": 1760706502,
