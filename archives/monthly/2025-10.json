@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760791561871,
+  "endTime": 1760792413038,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -3067,6 +3067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 826351,
+      "num": 1132216,
+      "word": "这4种电话别接别回别点",
+      "onboard_time": 1760787383,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 826199,
       "num": 430152,
       "word": "郭碧婷父亲患肺癌",
@@ -3292,7 +3300,7 @@
     },
     {
       "raw_hot": 798511,
-      "num": 676850,
+      "num": 677701,
       "word": "新任中国国民党主席郑丽文",
       "onboard_time": 1760787982,
       "rank": 3,
@@ -4065,14 +4073,6 @@
       "onboard_time": 1759388960,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 687918,
-      "num": 687918,
-      "word": "这4种电话别接别回别点",
-      "onboard_time": 1760787383,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 686729,
@@ -5067,6 +5067,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 600603,
+      "num": 555887,
+      "word": "村民称野人小孩一年四季不穿衣",
+      "onboard_time": 1760787923,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 600529,
       "num": 600529,
       "word": "金价银价大跳水",
@@ -5713,14 +5721,6 @@
       "onboard_time": 1760529023,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 555887,
-      "num": 555887,
-      "word": "村民称野人小孩一年四季不穿衣",
-      "onboard_time": 1760787923,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 555665,
@@ -8089,6 +8089,14 @@
       "onboard_time": 1759823422,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 442668,
+      "num": 323493,
+      "word": "Shad0w 我们会从地狱归来的",
+      "onboard_time": 1760790503,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 442548,
@@ -10971,14 +10979,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 323493,
-      "num": 323493,
-      "word": "Shad0w 我们会从地狱归来的",
-      "onboard_time": 1760790503,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 323347,
       "num": 323347,
       "word": "终于知道为什么妈妈老开我房门了",
@@ -11304,6 +11304,14 @@
       "word": "你在南方吹空调我在北方看雾凇",
       "onboard_time": 1760489721,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 316313,
+      "num": 606764,
+      "word": "杨振宁曾在百岁生日宴后摔倒",
+      "onboard_time": 1760789783,
+      "rank": 8,
       "category": "民生新闻"
     },
     {
@@ -12641,6 +12649,14 @@
       "onboard_time": 1760321119,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 282820,
+      "num": 229002,
+      "word": "痞幼变美了",
+      "onboard_time": 1760791104,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 282752,
@@ -15363,20 +15379,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 230259,
+      "num": 230259,
+      "word": "gemini 毒奶",
+      "onboard_time": 1760790624,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 230233,
       "num": 230233,
       "word": "一笑随歌",
       "onboard_time": 1759378642,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 230112,
-      "num": 606764,
-      "word": "杨振宁曾在百岁生日宴后摔倒",
-      "onboard_time": 1760789783,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 229911,
@@ -17059,6 +17075,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 204654,
+      "num": 204654,
+      "word": "回南雀",
+      "onboard_time": 1760790861,
+      "rank": 42,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 204619,
       "num": 204619,
       "word": "张凌赫张淼怡归鸾",
@@ -17217,14 +17241,6 @@
       "onboard_time": 1760584160,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203312,
-      "num": 203312,
-      "word": "gemini 毒奶",
-      "onboard_time": 1760790624,
-      "rank": 21,
-      "category": "电竞"
     },
     {
       "raw_hot": 203269,
@@ -17489,6 +17505,14 @@
       "onboard_time": 1759569259,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200935,
+      "num": 200935,
+      "word": "蔡徐坤这里是红毯不是秀场",
+      "onboard_time": 1760791282,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 200899,
@@ -19315,6 +19339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188060,
+      "num": 188060,
+      "word": "郑恺苗苗从小共用一张脸",
+      "onboard_time": 1760791704,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187795,
       "num": 187795,
       "word": "孙颖莎vs张本美和",
@@ -20977,14 +21009,6 @@
       "onboard_time": 1760708901,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 175709,
-      "num": 175709,
-      "word": "痞幼变美了",
-      "onboard_time": 1760791104,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 175694,
@@ -23233,6 +23257,14 @@
       "onboard_time": 1760578162,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162092,
+      "num": 228979,
+      "word": "你好星期六",
+      "onboard_time": 1760185761,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 161945,
@@ -25603,6 +25635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148917,
+      "num": 148917,
+      "word": "郭碧婷爸爸回应女儿一人养家",
+      "onboard_time": 1760791642,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148916,
       "num": 145605,
       "word": "李沁鸡腿姑娘爆改鸭梨夫人",
@@ -27371,14 +27411,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 141059,
-      "num": 141059,
-      "word": "蔡徐坤这里是红毯不是秀场",
-      "onboard_time": 1760791282,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 141057,
       "num": 141057,
       "word": "张维伊高中时期",
@@ -27563,6 +27595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140396,
+      "num": 140396,
+      "word": "陆毅因鲍蕾不花他的钱而生气",
+      "onboard_time": 1760790683,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140319,
       "num": 140319,
       "word": "沈腾说出发团不是一家人都难",
@@ -27577,6 +27617,14 @@
       "onboard_time": 1759533736,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140267,
+      "num": 140267,
+      "word": "杨老一路走好",
+      "onboard_time": 1760787802,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140256,
@@ -30267,14 +30315,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 131193,
-      "num": 154432,
-      "word": "你好星期六",
-      "onboard_time": 1760185761,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131170,
       "num": 131170,
       "word": "啥剧穷嗖嗖又香喷喷啊",
@@ -32843,14 +32883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122896,
-      "num": 122896,
-      "word": "杨老一路走好",
-      "onboard_time": 1760787802,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122889,
       "num": 122889,
       "word": "祝绪丹开机前一天被换角",
@@ -33577,14 +33609,6 @@
       "onboard_time": 1759323023,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 120774,
-      "num": 120774,
-      "word": "回南雀",
-      "onboard_time": 1760790861,
-      "rank": 42,
-      "category": "读书作家"
     },
     {
       "raw_hot": 120718,
@@ -34777,14 +34801,6 @@
       "onboard_time": 1760274020,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117630,
-      "num": 117630,
-      "word": "陆毅因鲍蕾不花他的钱而生气",
-      "onboard_time": 1760790683,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 117629,
@@ -39979,6 +39995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105892,
+      "num": 105892,
+      "word": "李兰迪粉色水蜜桃",
+      "onboard_time": 1760792063,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105885,
       "num": 105885,
       "word": "关晓彤碎钻裙",
@@ -41043,6 +41067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 103548,
+      "num": 103548,
+      "word": "英雄联盟手游",
+      "onboard_time": 1760792063,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103518,
       "num": 281662,
       "word": "无人在意的角落拼多多10岁了",
@@ -41225,6 +41257,14 @@
       "onboard_time": 1760176282,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 103150,
+      "num": 103150,
+      "word": "南京vs泰州",
+      "onboard_time": 1760791942,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 103078,
@@ -43169,6 +43209,14 @@
       "onboard_time": 1760062160,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98287,
+      "num": 98287,
+      "word": "张起灵我笑纳了陆雪琪我也笑纳了",
+      "onboard_time": 1760791942,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 98283,
@@ -54219,6 +54267,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 58894,
+      "num": 241187,
+      "word": "杨振宁的故乡下雨了",
+      "onboard_time": 1760791042,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58872,
       "num": 99587,
       "word": "鸡排家族裂变式出摊",
@@ -58339,6 +58395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29136,
+      "num": 392747,
+      "word": "蒋芸说真诚是唯一的流量密码",
+      "onboard_time": 1760788883,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29132,
       "num": 29132,
       "word": "上海市西初中学生午餐选择自由",
@@ -58721,14 +58785,6 @@
       "onboard_time": 1759869074,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 26118,
-      "num": 392747,
-      "word": "蒋芸说真诚是唯一的流量密码",
-      "onboard_time": 1760788883,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 26095,
@@ -59929,14 +59985,6 @@
       "onboard_time": 1759947674,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 15601,
-      "num": 241187,
-      "word": "杨振宁的故乡下雨了",
-      "onboard_time": 1760791042,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15575,

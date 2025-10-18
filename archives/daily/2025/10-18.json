@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760791561871,
+  "endTime": 1760792413038,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 826351,
+      "num": 1132216,
+      "word": "这4种电话别接别回别点",
+      "onboard_time": 1760787383,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 817794,
       "num": 307436,
       "word": "死亡诅咒5岁女童唱歌男子已道歉",
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 798511,
-      "num": 676850,
+      "num": 677701,
       "word": "新任中国国民党主席郑丽文",
       "onboard_time": 1760787982,
       "rank": 3,
@@ -259,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 687918,
-      "num": 687918,
-      "word": "这4种电话别接别回别点",
-      "onboard_time": 1760787383,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 624727,
       "num": 365848,
       "word": "邓莎老公路行辞职",
@@ -281,6 +281,14 @@
       "onboard_time": 1760768426,
       "rank": 3,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 600603,
+      "num": 555887,
+      "word": "村民称野人小孩一年四季不穿衣",
+      "onboard_time": 1760787923,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 600529,
@@ -345,14 +353,6 @@
       "onboard_time": 1760746700,
       "rank": 0,
       "category": "数码"
-    },
-    {
-      "raw_hot": 555887,
-      "num": 555887,
-      "word": "村民称野人小孩一年四季不穿衣",
-      "onboard_time": 1760787923,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 548525,
@@ -515,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 442668,
+      "num": 323493,
+      "word": "Shad0w 我们会从地狱归来的",
+      "onboard_time": 1760790503,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 434097,
       "num": 434097,
       "word": "国航一杭州起飞航班起火备降",
@@ -595,20 +603,20 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 323493,
-      "num": 323493,
-      "word": "Shad0w 我们会从地狱归来的",
-      "onboard_time": 1760790503,
-      "rank": 17,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 321368,
       "num": 253270,
       "word": "倪大红姜妍领衔主演小城良方",
       "onboard_time": 1760754931,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 316313,
+      "num": 606764,
+      "word": "杨振宁曾在百岁生日宴后摔倒",
+      "onboard_time": 1760789783,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308158,
@@ -641,6 +649,14 @@
       "onboard_time": 1760789843,
       "rank": 18,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 282820,
+      "num": 229002,
+      "word": "痞幼变美了",
+      "onboard_time": 1760791104,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 282517,
@@ -891,12 +907,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 230112,
-      "num": 606764,
-      "word": "杨振宁曾在百岁生日宴后摔倒",
-      "onboard_time": 1760789783,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 230259,
+      "num": 230259,
+      "word": "gemini 毒奶",
+      "onboard_time": 1760790624,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 224469,
@@ -995,20 +1011,20 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 204654,
+      "num": 204654,
+      "word": "回南雀",
+      "onboard_time": 1760790861,
+      "rank": 42,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 204575,
       "num": 204575,
       "word": "iPhone17被曝机身褪色",
       "onboard_time": 1760763692,
       "rank": 35,
       "category": "数码"
-    },
-    {
-      "raw_hot": 203312,
-      "num": 203312,
-      "word": "gemini 毒奶",
-      "onboard_time": 1760790624,
-      "rank": 21,
-      "category": "电竞"
     },
     {
       "raw_hot": 202428,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1760775262,
       "rank": 27,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 200935,
+      "num": 200935,
+      "word": "蔡徐坤这里是红毯不是秀场",
+      "onboard_time": 1760791282,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 200610,
@@ -1137,6 +1161,14 @@
       "onboard_time": 1760756912,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 188060,
+      "num": 188060,
+      "word": "郑恺苗苗从小共用一张脸",
+      "onboard_time": 1760791704,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 187434,
@@ -1257,14 +1289,6 @@
       "onboard_time": 1760765009,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 175709,
-      "num": 175709,
-      "word": "痞幼变美了",
-      "onboard_time": 1760791104,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 175571,
@@ -1427,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162092,
+      "num": 228979,
+      "word": "你好星期六",
+      "onboard_time": 1760791223,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161314,
       "num": 161314,
       "word": "欧豪戴钻石耳钉了",
@@ -1563,6 +1595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148917,
+      "num": 148917,
+      "word": "郭碧婷爸爸回应女儿一人养家",
+      "onboard_time": 1760791642,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147212,
       "num": 214856,
       "word": "爱奇艺Q4排播",
@@ -1603,14 +1643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 141059,
-      "num": 141059,
-      "word": "蔡徐坤这里是红毯不是秀场",
-      "onboard_time": 1760791282,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140750,
       "num": 140750,
       "word": "黄金",
@@ -1632,6 +1664,22 @@
       "word": "一家三口被撞身亡案家属透露新细节",
       "onboard_time": 1760707403,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 140396,
+      "num": 140396,
+      "word": "陆毅因鲍蕾不花他的钱而生气",
+      "onboard_time": 1760790683,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 140267,
+      "num": 140267,
+      "word": "杨老一路走好",
+      "onboard_time": 1760787802,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -1851,14 +1899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123937,
-      "num": 154432,
-      "word": "你好星期六",
-      "onboard_time": 1760791223,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 123711,
       "num": 174751,
       "word": "缅北徐老发暴力性不亚于四大家族",
@@ -1873,14 +1913,6 @@
       "onboard_time": 1760781202,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122896,
-      "num": 122896,
-      "word": "杨老一路走好",
-      "onboard_time": 1760787802,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 122513,
@@ -1905,14 +1937,6 @@
       "onboard_time": 1760758889,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120774,
-      "num": 120774,
-      "word": "回南雀",
-      "onboard_time": 1760790861,
-      "rank": 42,
-      "category": "读书作家"
     },
     {
       "raw_hot": 120700,
@@ -1984,14 +2008,6 @@
       "word": "现在就出发",
       "onboard_time": 1760763094,
       "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 117630,
-      "num": 117630,
-      "word": "陆毅因鲍蕾不花他的钱而生气",
-      "onboard_time": 1760790683,
-      "rank": 43,
       "category": "综艺"
     },
     {
@@ -2163,6 +2179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 105892,
+      "num": 105892,
+      "word": "李兰迪粉色水蜜桃",
+      "onboard_time": 1760792063,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105611,
       "num": 105611,
       "word": "林高远行程好满",
@@ -2219,12 +2243,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103548,
+      "num": 103548,
+      "word": "英雄联盟手游",
+      "onboard_time": 1760792063,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103239,
       "num": 103239,
       "word": "广西通报一国企负责人婚内出轨",
       "onboard_time": 1760757872,
       "rank": 41,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 103150,
+      "num": 103150,
+      "word": "南京vs泰州",
+      "onboard_time": 1760791942,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 102722,
@@ -2289,6 +2329,14 @@
       "onboard_time": 1760781380,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 98287,
+      "num": 98287,
+      "word": "张起灵我笑纳了陆雪琪我也笑纳了",
+      "onboard_time": 1760791942,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 98203,
@@ -2707,6 +2755,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 58894,
+      "num": 241187,
+      "word": "杨振宁的故乡下雨了",
+      "onboard_time": 1760791042,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58621,
       "num": 332088,
       "word": "特朗普呼吁俄乌双方立即停火",
@@ -2899,6 +2955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29136,
+      "num": 392747,
+      "word": "蒋芸说真诚是唯一的流量密码",
+      "onboard_time": 1760788883,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28506,
       "num": 61709,
       "word": "余生有涯",
@@ -2913,14 +2977,6 @@
       "onboard_time": 1760767287,
       "rank": 14,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 26118,
-      "num": 392747,
-      "word": "蒋芸说真诚是唯一的流量密码",
-      "onboard_time": 1760788883,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 25808,
@@ -3019,14 +3075,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 15601,
-      "num": 241187,
-      "word": "杨振宁的故乡下雨了",
-      "onboard_time": 1760791042,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15464,
       "num": 140677,
       "word": "曝王玉雯谦让有礼貌",
@@ -3052,7 +3100,7 @@
     },
     {
       "raw_hot": 12089,
-      "num": 685113,
+      "num": 725002,
       "word": "红星照耀中国",
       "onboard_time": 1760593821,
       "rank": 34,
