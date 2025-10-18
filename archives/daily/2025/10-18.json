@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760765008888,
+  "endTime": 1760766006120,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -35,15 +35,15 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2662821,
-      "num": 2825643,
+      "raw_hot": 2751852,
+      "num": 3003705,
       "word": "杨振宁讣告",
       "onboard_time": 1760762914,
       "rank": 0,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1924240,
+      "raw_hot": 2477642,
       "num": 1924240,
       "word": "杨振宁翁帆相伴20余年",
       "onboard_time": 1760762497,
@@ -195,8 +195,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 519961,
-      "num": 519961,
+      "raw_hot": 548442,
+      "num": 548442,
+      "word": "杨澜采访杨振宁翁帆夫妇完整版",
+      "onboard_time": 1760762438,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 540467,
+      "num": 540467,
       "word": "清华大学悼念杨振宁",
       "onboard_time": 1760762677,
       "rank": 4,
@@ -289,6 +297,14 @@
       "onboard_time": 1760755835,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 343232,
+      "num": 343232,
+      "word": "回顾杨振宁生平",
+      "onboard_time": 1760763094,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 343089,
@@ -393,6 +409,22 @@
       "onboard_time": 1760755533,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 265441,
+      "num": 265441,
+      "word": "清华大学头像变黑白",
+      "onboard_time": 1760764412,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 264400,
+      "num": 264400,
+      "word": "孟子义还笑呢出大事了",
+      "onboard_time": 1760765430,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 264217,
@@ -507,6 +539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 222368,
+      "num": 222368,
+      "word": "胡彦斌分析李施嬅男友",
+      "onboard_time": 1760765308,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221770,
       "num": 221770,
       "word": "肖战为新剧小城良方减重15斤",
@@ -521,14 +561,6 @@
       "onboard_time": 1760749581,
       "rank": 20,
       "category": "财经"
-    },
-    {
-      "raw_hot": 212047,
-      "num": 212047,
-      "word": "清华大学头像变黑白",
-      "onboard_time": 1760764412,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209163,
@@ -568,6 +600,14 @@
       "word": "邓莎老公路行持股市值不足5000万",
       "onboard_time": 1760748141,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 195015,
+      "num": 305606,
+      "word": "花儿与少年",
+      "onboard_time": 1760765129,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -627,6 +667,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 183239,
+      "num": 183239,
+      "word": "李沁给大家买了冰箱贴",
+      "onboard_time": 1760764890,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180439,
       "num": 327674,
       "word": "日本员工扫浴池时被熊叼走池边有血",
@@ -651,6 +699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176229,
+      "num": 176229,
+      "word": "周深没用上的增高神器刘宇宁用上了",
+      "onboard_time": 1760765009,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175571,
       "num": 202948,
       "word": "辽宁失联女童因红衣被快速找到",
@@ -659,11 +715,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175219,
+      "num": 175219,
+      "word": "李木戈说毛晓彤演戏毛孔都是张开的",
+      "onboard_time": 1760765249,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172632,
       "num": 172632,
       "word": "金饰克价跌到1262元",
       "onboard_time": 1760752941,
       "rank": 26,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 172601,
+      "num": 172601,
+      "word": "金饰价格跌至1253元",
+      "onboard_time": 1760765967,
+      "rank": 45,
       "category": "财经"
     },
     {
@@ -699,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166650,
+      "num": 166650,
+      "word": "第一次见有人把房子装到我眼花缭乱",
+      "onboard_time": 1760760867,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 166169,
       "num": 166169,
       "word": "外卖焦虑症",
@@ -715,12 +795,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 161274,
-      "num": 161274,
-      "word": "第一次见有人把房子装到我眼花缭乱",
-      "onboard_time": 1760760867,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 161261,
+      "num": 209857,
+      "word": "王俊凯刘昊然董子健早期胶片",
+      "onboard_time": 1760761957,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 160595,
@@ -737,22 +817,6 @@
       "onboard_time": 1760715801,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 158944,
-      "num": 209857,
-      "word": "王俊凯刘昊然董子健早期胶片",
-      "onboard_time": 1760761957,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 156709,
-      "num": 156709,
-      "word": "李沁给大家买了冰箱贴",
-      "onboard_time": 1760764890,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 156656,
@@ -1025,6 +1089,14 @@
       "onboard_time": 1760756253,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109775,
+      "num": 181897,
+      "word": "张维伊一言不合跳街舞",
+      "onboard_time": 1760765189,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 109300,
@@ -1363,6 +1435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66006,
+      "num": 364685,
+      "word": "中科院物理所悼念杨振宁",
+      "onboard_time": 1760764591,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65442,
       "num": 93389,
       "word": "Flandre雷克塞神了",
@@ -1512,14 +1592,6 @@
       "word": "九寨沟",
       "onboard_time": 1760734694,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35716,
-      "num": 364685,
-      "word": "中科院物理所悼念杨振宁",
-      "onboard_time": 1760764591,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
