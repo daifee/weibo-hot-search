@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 16:31:00
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 16:43:35
 </p>
 </blockquote>
 <p>
@@ -1449,6 +1449,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%A5%B3%E7%BF%BB%E8%AF%91%E5%9B%A0%E9%AB%98%E9%A2%9C%E5%80%BC%E8%B5%B0%E7%BA%A2%23" target="weibo">
+李在明女翻译因高颜值走红（热度：1034870）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%A6%8D%E5%BD%93%E4%BC%97%E6%89%BF%E8%AE%A4%E6%B2%88%E7%9A%93%E8%BE%B0%E6%98%AF%E8%87%AA%E5%B7%B1%E5%84%BF%E5%AD%90%23" target="weibo">
 许妍当众承认沈皓辰是自己儿子（热度：1034736）
 </a>
@@ -1677,6 +1683,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E8%A6%81%E5%91%8A%E6%95%B0%E6%8D%AE%E7%BB%84%23" target="weibo">
+时代峰峻要告数据组（热度：958335）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E7%88%B6%E6%AF%8D%E5%BC%80%E7%9A%84%E5%A5%B6%E8%8C%B6%E5%BA%97%E5%81%9C%E4%B8%9A%23" target="weibo">
 王俊凯父母开的奶茶店停业（热度：954744）
 </a>
@@ -1803,12 +1815,6 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%A5%B3%E7%BF%BB%E8%AF%91%E5%9B%A0%E9%AB%98%E9%A2%9C%E5%80%BC%E8%B5%B0%E7%BA%A2%23" target="weibo">
-李在明女翻译因高颜值走红（热度：921706）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B2%E9%83%A8%E5%8F%97%E8%B4%BF95%E5%8F%AA%E9%B8%BD%E5%AD%90%E4%BB%B7%E5%80%BC132%E4%B8%87%23" target="weibo">
 干部受贿95只鸽子价值132万（热度：920371）
 </a>
@@ -1841,12 +1847,6 @@ Angelababy公主皇冠（热度：925479）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E9%99%A2%E9%99%A2%E5%A3%AB%E5%9B%9E%E5%BA%94%E6%9D%A8%E6%8C%AF%E5%AE%81%E9%80%9D%E4%B8%96%E4%BC%A0%E9%97%BB%23" target="weibo">
 中科院院士回应杨振宁逝世传闻（热度：913911）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E8%A6%81%E5%91%8A%E6%95%B0%E6%8D%AE%E7%BB%84%23" target="weibo">
-时代峰峻要告数据组（热度：913415）
 </a>
 </li>
 
@@ -2441,6 +2441,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%AD%95%E5%A6%87%E5%9D%A0%E5%B4%96%E6%A1%88%E5%8F%97%E5%AE%B3%E4%BA%BA%E7%A6%BB%E5%A9%9A%E6%A1%88%E5%AE%A3%E5%88%A4%23" target="weibo">
 泰国孕妇坠崖案受害人离婚案宣判（热度：797712）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E6%AF%8D%E4%BA%B2%E8%A1%A3%E7%9D%80%E6%9A%B4%E9%9C%B2%E4%B8%8D%E7%A9%BF%E5%AE%8C%E6%95%B4%E8%A1%A3%E6%9C%8D%23" target="weibo">
+野人小孩母亲衣着暴露不穿完整衣服（热度：797265）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ B站崩了（热度：442971）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8%23" target="weibo">
 广州暴雨（热度：441429）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B9%98%E6%89%93%E7%A0%81%E6%8E%8C%E7%BA%B9%23" target="weibo">
-李湘打码掌纹（热度：440942）
 </a>
 </li>
 

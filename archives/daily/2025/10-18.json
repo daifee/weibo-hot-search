@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760776260167,
+  "endTime": 1760777015666,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -123,6 +123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1034870,
+      "num": 921706,
+      "word": "李在明女翻译因高颜值走红",
+      "onboard_time": 1760773463,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 964839,
       "num": 711320,
       "word": "狼人杀腿毛去世",
@@ -131,16 +139,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 921706,
-      "num": 921706,
-      "word": "李在明女翻译因高颜值走红",
-      "onboard_time": 1760773463,
-      "rank": 1,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 913415,
-      "num": 219792,
+      "raw_hot": 958335,
+      "num": 428893,
       "word": "时代峰峻要告数据组",
       "onboard_time": 1760773642,
       "rank": 12,
@@ -152,6 +152,14 @@
       "word": "飞韩国的航班行李架起火",
       "onboard_time": 1760768126,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 797265,
+      "num": 427775,
+      "word": "野人小孩母亲衣着暴露不穿完整衣服",
+      "onboard_time": 1760775562,
+      "rank": 20,
       "category": "民生新闻"
     },
     {
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 498939,
-      "num": 284404,
+      "num": 343021,
       "word": "能考85分偏要考84分",
       "onboard_time": 1760771604,
       "rank": 30,
@@ -387,6 +395,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 434097,
+      "num": 434097,
+      "word": "国航一杭州起飞航班起火备降",
+      "onboard_time": 1760771543,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 426656,
+      "num": 426656,
+      "word": "陈伟霆不用偷别人家的小孩了",
+      "onboard_time": 1760775982,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 369651,
       "num": 746327,
       "word": "杨振宁享年103岁",
@@ -401,22 +425,6 @@
       "onboard_time": 1760755835,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 352319,
-      "num": 212686,
-      "word": "野人小孩母亲衣着暴露不穿完整衣服",
-      "onboard_time": 1760775562,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 349582,
-      "num": 349582,
-      "word": "国航一杭州起飞航班起火备降",
-      "onboard_time": 1760771543,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 343232,
@@ -643,6 +651,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 249328,
+      "num": 249328,
+      "word": "3个千万不能洗澡的时间段",
+      "onboard_time": 1760771365,
+      "rank": 31,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 241364,
       "num": 241364,
       "word": "苗苗把种子倒进了袜子里",
@@ -660,7 +676,7 @@
     },
     {
       "raw_hot": 232655,
-      "num": 210658,
+      "num": 216104,
       "word": "女子一袋银镯遗忘两年狂赚7万多",
       "onboard_time": 1760773943,
       "rank": 23,
@@ -673,14 +689,6 @@
       "onboard_time": 1760750421,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 229095,
-      "num": 209694,
-      "word": "3个千万不能洗澡的时间段",
-      "onboard_time": 1760771365,
-      "rank": 31,
-      "category": "科学科普"
     },
     {
       "raw_hot": 224469,
@@ -747,6 +755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205880,
+      "num": 205880,
+      "word": "林允现在美成这样了",
+      "onboard_time": 1760772623,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204575,
       "num": 204575,
       "word": "iPhone17被曝机身褪色",
@@ -779,20 +795,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197285,
+      "num": 197285,
+      "word": "陈伟霆何穗的孩子得有多好看",
+      "onboard_time": 1760776643,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197167,
       "num": 167057,
       "word": "邓莎老公路行持股市值不足5000万",
       "onboard_time": 1760748141,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196752,
-      "num": 196752,
-      "word": "林允现在美成这样了",
-      "onboard_time": 1760772623,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 195660,
@@ -867,6 +883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 187343,
+      "num": 187343,
+      "word": "卢昱晓 偏偏你最争气",
+      "onboard_time": 1760775742,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185790,
       "num": 732392,
       "word": "中美同意尽快举行新一轮经贸磋商",
@@ -905,14 +929,6 @@
       "onboard_time": 1760762378,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 176947,
-      "num": 176947,
-      "word": "陈伟霆不用偷别人家的小孩了",
-      "onboard_time": 1760775982,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 176229,
@@ -1051,6 +1067,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 159124,
+      "num": 159124,
+      "word": "剧方称肖战是刘铮亮不二的人选",
+      "onboard_time": 1760773583,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156656,
       "num": 246569,
       "word": "穆祉丞翻唱恋人未满上线",
@@ -1107,27 +1131,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149764,
-      "num": 149764,
-      "word": "卢昱晓 偏偏你最争气",
-      "onboard_time": 1760775742,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 147212,
       "num": 214856,
       "word": "爱奇艺Q4排播",
       "onboard_time": 1760718622,
       "rank": 6,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 145902,
-      "num": 145902,
-      "word": "剧方称肖战是刘铮亮不二的人选",
-      "onboard_time": 1760773583,
-      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1371,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117713,
+      "num": 430123,
+      "word": "办银行卡 多重审核",
+      "onboard_time": 1760775083,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116549,
       "num": 116549,
       "word": "韩国作家白洗嬉去世",
@@ -1409,6 +1425,14 @@
       "onboard_time": 1760756253,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110122,
+      "num": 110122,
+      "word": "周深又来音综闯祸了",
+      "onboard_time": 1760776583,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 109775,
@@ -1569,6 +1593,14 @@
       "onboard_time": 1760767825,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100723,
+      "num": 100723,
+      "word": "黄景瑜说这个节目来对了",
+      "onboard_time": 1760776823,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 98203,
@@ -1787,19 +1819,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 68200,
-      "num": 214132,
-      "word": "办银行卡 多重审核",
-      "onboard_time": 1760775083,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 68084,
       "num": 80134,
       "word": "于和伟到吴石墓前献花",
       "onboard_time": 1760708663,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67988,
+      "num": 123996,
+      "word": "男子穿假警服到派出所指导工作",
+      "onboard_time": 1760776943,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1964,7 +1996,7 @@
     },
     {
       "raw_hot": 42074,
-      "num": 217884,
+      "num": 427305,
       "word": "北京惊现野人部落",
       "onboard_time": 1760774484,
       "rank": 14,
@@ -2076,7 +2108,7 @@
     },
     {
       "raw_hot": 25263,
-      "num": 214304,
+      "num": 297573,
       "word": "花少团眼里有光",
       "onboard_time": 1760775742,
       "rank": 18,

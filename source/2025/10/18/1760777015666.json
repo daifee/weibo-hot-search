@@ -1,0 +1,410 @@
+{
+  "runTime": 1760777015666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 619061,
+        "num": 1099049,
+        "word": "飞韩国的航班行李架起火",
+        "onboard_time": 1760768126,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434097,
+        "num": 434097,
+        "word": "国航一杭州起飞航班起火备降",
+        "onboard_time": 1760771543,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43907,
+        "num": 434050,
+        "word": "多地断崖式降温",
+        "onboard_time": 1760752821,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1034870,
+        "num": 433334,
+        "word": "李在明女翻译因高颜值走红",
+        "onboard_time": 1760773463,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 214793,
+        "num": 432954,
+        "word": "三亚撞劳斯莱斯女子涉嫌危险驾驶罪",
+        "onboard_time": 1760766209,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1231033,
+        "num": 432216,
+        "word": "杨振宁逝世",
+        "onboard_time": 1760761410,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 549493,
+        "num": 431868,
+        "word": "杨振宁讣告",
+        "onboard_time": 1760762914,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201949,
+        "num": 430981,
+        "word": "山西地震",
+        "onboard_time": 1760768426,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 167550,
+        "num": 430562,
+        "word": "花儿与少年",
+        "onboard_time": 1760765129,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117713,
+        "num": 430123,
+        "word": "办银行卡 多重审核",
+        "onboard_time": 1760775083,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1124249,
+        "num": 429717,
+        "word": "杨振宁曾回应自己去世翁帆怎么办",
+        "onboard_time": 1760767046,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 958335,
+        "num": 428893,
+        "word": "时代峰峻要告数据组",
+        "onboard_time": 1760773642,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1130195,
+        "num": 428277,
+        "word": "原来何穗不是退圈而是在待产",
+        "onboard_time": 1760765430,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 797265,
+        "num": 427775,
+        "word": "野人小孩母亲衣着暴露不穿完整衣服",
+        "onboard_time": 1760775562,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39550,
+        "num": 427305,
+        "word": "北京惊现野人部落",
+        "onboard_time": 1760774484,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 650283,
+        "num": 426921,
+        "word": "林心如孕期没有和霍建华一直在一块",
+        "onboard_time": 1760769325,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426656,
+        "num": 426656,
+        "word": "陈伟霆不用偷别人家的小孩了",
+        "onboard_time": 1760775982,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376503,
+        "num": 376503,
+        "word": "杨振宁曾谈高龄恢复中国籍",
+        "onboard_time": 1760769085,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 343021,
+        "num": 343021,
+        "word": "能考85分偏要考84分",
+        "onboard_time": 1760771604,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23457,
+        "num": 297573,
+        "word": "花少团眼里有光",
+        "onboard_time": 1760775742,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348242,
+        "num": 290213,
+        "word": "那是刘雯 那是奚梦瑶",
+        "onboard_time": 1760760806,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265166,
+        "num": 265166,
+        "word": "金价银价大跳水",
+        "onboard_time": 1760752102,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252615,
+        "num": 252615,
+        "word": "邓莎老公路行辞职",
+        "onboard_time": 1760762615,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249328,
+        "num": 249328,
+        "word": "3个千万不能洗澡的时间段",
+        "onboard_time": 1760771365,
+        "rank": 23,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 216104,
+        "num": 216104,
+        "word": "女子一袋银镯遗忘两年狂赚7万多",
+        "onboard_time": 1760773943,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205880,
+        "num": 205880,
+        "word": "林允现在美成这样了",
+        "onboard_time": 1760772623,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204897,
+        "num": 204897,
+        "word": "赛琳娜回应海莉",
+        "onboard_time": 1760764172,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197285,
+        "num": 197285,
+        "word": "陈伟霆何穗的孩子得有多好看",
+        "onboard_time": 1760776643,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187343,
+        "num": 187343,
+        "word": "卢昱晓 偏偏你最争气",
+        "onboard_time": 1760775742,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184080,
+        "num": 184080,
+        "word": "杨振宁留给大家的8个字",
+        "onboard_time": 1760773943,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183935,
+        "num": 183935,
+        "word": "狼人杀腿毛去世",
+        "onboard_time": 1760761167,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180453,
+        "num": 180453,
+        "word": "杨振宁说血管流的是中华文化血液",
+        "onboard_time": 1760775143,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175108,
+        "num": 175108,
+        "word": "杨振宁得知原子弹没美国人参加哭了",
+        "onboard_time": 1760767046,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159124,
+        "num": 159124,
+        "word": "剧方称肖战是刘铮亮不二的人选",
+        "onboard_time": 1760773583,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141513,
+        "num": 141513,
+        "word": "压力给到井柏然刘雯",
+        "onboard_time": 1760755712,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139510,
+        "num": 139510,
+        "word": "杨振宁35岁荣获诺贝尔奖",
+        "onboard_time": 1760767046,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135945,
+        "num": 135945,
+        "word": "野人小孩父母认为爬行是孩子天性",
+        "onboard_time": 1760771784,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133697,
+        "num": 133697,
+        "word": "5岁女童唱歌遭男子死亡诅咒",
+        "onboard_time": 1760766748,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126046,
+        "num": 126046,
+        "word": "杨振宁享年103岁",
+        "onboard_time": 1760762318,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67988,
+        "num": 123996,
+        "word": "男子穿假警服到派出所指导工作",
+        "onboard_time": 1760776943,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92998,
+        "num": 123292,
+        "word": "山西3.9级地震",
+        "onboard_time": 1760769024,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 122756,
+        "num": 122756,
+        "word": "iPhone17被曝机身褪色",
+        "onboard_time": 1760763692,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 33092,
+        "num": 120747,
+        "word": "有农户为抢收霉菌中毒被送医",
+        "onboard_time": 1760775624,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120282,
+        "num": 120282,
+        "word": "送别杨振宁",
+        "onboard_time": 1760762138,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112026,
+        "num": 112026,
+        "word": "网红南笙生娃",
+        "onboard_time": 1760762438,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 110122,
+        "num": 110122,
+        "word": "周深又来音综闯祸了",
+        "onboard_time": 1760776583,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100723,
+        "num": 100723,
+        "word": "黄景瑜说这个节目来对了",
+        "onboard_time": 1760776823,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98566,
+        "num": 98566,
+        "word": "王俊凯NBA名人赛人气",
+        "onboard_time": 1760775262,
+        "rank": 47,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 81179,
+        "num": 92649,
+        "word": "怕冷的人最好查查甲状腺",
+        "onboard_time": 1760776103,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 66425,
+        "num": 92429,
+        "word": "英伟达已完全脱离中国市场",
+        "onboard_time": 1760758649,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看看这五年#"
+    }
+  }
+}
