@@ -1,0 +1,410 @@
+{
+  "runTime": 1760801826429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 387537,
+        "num": 1062006,
+        "word": "北京今天就下雪了",
+        "onboard_time": 1760784202,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263240,
+        "num": 764245,
+        "word": "南京vs泰州",
+        "onboard_time": 1760791942,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3027,
+        "num": 756577,
+        "word": "非凡十四五",
+        "onboard_time": 1760706502,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 755477,
+        "num": 755477,
+        "word": "月亮姐姐官宣离开少儿频道",
+        "onboard_time": 1760799203,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223592,
+        "num": 501755,
+        "word": "G2战胜BLG",
+        "onboard_time": 1760785103,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 500614,
+        "num": 500614,
+        "word": "杨振宁在美办公室有人凌晨献花",
+        "onboard_time": 1760799742,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418315,
+        "num": 418315,
+        "word": "杨振宁逝世",
+        "onboard_time": 1760761410,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224338,
+        "num": 418304,
+        "word": "新任中国国民党主席郑丽文",
+        "onboard_time": 1760787982,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193632,
+        "num": 418195,
+        "word": "入青云",
+        "onboard_time": 1760786302,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180361,
+        "num": 418045,
+        "word": "今年冬天会不会更冷",
+        "onboard_time": 1760798183,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1404311,
+        "num": 417954,
+        "word": "网传何穗前夫参加过再见爱人",
+        "onboard_time": 1760799384,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417848,
+        "num": 417848,
+        "word": "曾舜晞送走汤唯牵走白鹿",
+        "onboard_time": 1760797043,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417180,
+        "num": 417180,
+        "word": "郭碧婷爸爸回应女儿一人养家",
+        "onboard_time": 1760791642,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399727,
+        "num": 399727,
+        "word": "乘客开门杀撞伤人司机被判赔200万",
+        "onboard_time": 1760796083,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 389360,
+        "num": 389360,
+        "word": "杨振宁20年前预言已基本实现",
+        "onboard_time": 1760781621,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315599,
+        "num": 315599,
+        "word": "郑恺苗苗从小共用一张脸",
+        "onboard_time": 1760791704,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296281,
+        "num": 296281,
+        "word": "新加坡的印度人",
+        "onboard_time": 1760796803,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 272962,
+        "num": 272962,
+        "word": "李一桐回应美人余造型",
+        "onboard_time": 1760799862,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219012,
+        "num": 219012,
+        "word": "这居然是任敏",
+        "onboard_time": 1760777782,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214100,
+        "num": 214100,
+        "word": "张小斐像是来谈收购的",
+        "onboard_time": 1760800285,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374812,
+        "num": 207872,
+        "word": "寿命长的人脖子一般有5个特征",
+        "onboard_time": 1760796982,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256409,
+        "num": 206126,
+        "word": "沈佳润音乐节没报备版美美Sunday",
+        "onboard_time": 1760800763,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198039,
+        "num": 198039,
+        "word": "圆明园复原后长这样",
+        "onboard_time": 1760797343,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180000,
+        "num": 180000,
+        "word": "杨振宁曾在百岁生日宴后摔倒",
+        "onboard_time": 1760789783,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172070,
+        "num": 172070,
+        "word": "天蚕土豆锐评BLG",
+        "onboard_time": 1760798843,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167680,
+        "num": 167680,
+        "word": "黄宗泽恭喜陈伟霆当爸爸",
+        "onboard_time": 1760797284,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167145,
+        "num": 167145,
+        "word": "回南雀",
+        "onboard_time": 1760790861,
+        "rank": 26,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 164408,
+        "num": 164408,
+        "word": "李兰迪怎么美成这样",
+        "onboard_time": 1760801303,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153858,
+        "num": 153858,
+        "word": "杨振宁曾回应自己去世翁帆怎么办",
+        "onboard_time": 1760767046,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152991,
+        "num": 152991,
+        "word": "野人小孩",
+        "onboard_time": 1760799862,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144877,
+        "num": 144877,
+        "word": "Crisp给BLG抽个T1吧",
+        "onboard_time": 1760801364,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132126,
+        "num": 132126,
+        "word": "王俊凯又来炸场了",
+        "onboard_time": 1760796864,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119363,
+        "num": 119363,
+        "word": "Shad0w 我们会从地狱归来的",
+        "onboard_time": 1760790503,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116295,
+        "num": 116295,
+        "word": "怎样辨别月经是否快来了",
+        "onboard_time": 1760798300,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 114599,
+        "num": 114599,
+        "word": "微信文件助手才是真的职场邪修",
+        "onboard_time": 1760793202,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109722,
+        "num": 109722,
+        "word": "压力给到刘青松",
+        "onboard_time": 1760800285,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108498,
+        "num": 108498,
+        "word": "刘雨昕再跳YESOK",
+        "onboard_time": 1760800285,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108150,
+        "num": 108150,
+        "word": "北京西部北部将有雨雪",
+        "onboard_time": 1760799624,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107622,
+        "num": 107622,
+        "word": "第一次用外酥里嫩来形容房子",
+        "onboard_time": 1760796982,
+        "rank": 38,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 87842,
+        "num": 107575,
+        "word": "请求核查野人男孩父母收入来源",
+        "onboard_time": 1760800883,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107528,
+        "num": 107528,
+        "word": "陈梦和球迷手对手比心",
+        "onboard_time": 1760801543,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105859,
+        "num": 105859,
+        "word": "廖俊涛转型做唱跳歌手",
+        "onboard_time": 1760800522,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104252,
+        "num": 104252,
+        "word": "张予曦晚宴内场生视频",
+        "onboard_time": 1760797224,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102983,
+        "num": 102983,
+        "word": "中国游客去夏威夷被原住民骂",
+        "onboard_time": 1760796803,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100538,
+        "num": 100538,
+        "word": "刘雨昕好会让我哭",
+        "onboard_time": 1760801603,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100097,
+        "num": 100097,
+        "word": "这个男团刚出道6个月就拿3个奖",
+        "onboard_time": 1760799624,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100090,
+        "num": 100090,
+        "word": "刘浩存给自己签名照点痣",
+        "onboard_time": 1760793323,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96578,
+        "num": 96578,
+        "word": "猴哥已在南宁小区住5天了",
+        "onboard_time": 1760800103,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94756,
+        "num": 94756,
+        "word": "苏超泰州点球淘汰南京",
+        "onboard_time": 1760795904,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94106,
+        "num": 94106,
+        "word": "周深退场临时改变方案",
+        "onboard_time": 1760799263,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画中国式现代化新篇章#"
+    }
+  }
+}
