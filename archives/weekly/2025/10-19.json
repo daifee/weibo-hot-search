@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760815140881,
+  "endTime": 1760816223379,
   "band_list": [
     {
       "raw_hot": 995617,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163286,
+      "num": 59541,
+      "word": "凌晨三点叫你出来玩你不出来",
+      "onboard_time": 1760811556,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147541,
       "num": 185698,
       "word": "新任中国国民党主席郑丽文",
@@ -201,14 +209,6 @@
       "onboard_time": 1760798843,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 118106,
-      "num": 54185,
-      "word": "凌晨三点叫你出来玩你不出来",
-      "onboard_time": 1760811556,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 114704,
@@ -515,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19159,
+      "num": 33264,
+      "word": "小城良方官宣阵容",
+      "onboard_time": 1760815215,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 19082,
       "num": 34770,
       "word": "汪苏泷在演唱会做俯卧撑",
@@ -523,7 +531,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 17805,
+      "raw_hot": 18224,
+      "num": 33187,
+      "word": "餐馆给野人男孩送饭被要求放地上",
+      "onboard_time": 1760815154,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18120,
       "num": 34747,
       "word": "沉默的荣耀",
       "onboard_time": 1760801243,
