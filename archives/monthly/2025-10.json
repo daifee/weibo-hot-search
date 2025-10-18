@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760801826429,
+  "endTime": 1760804933190,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -3315,6 +3315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 801334,
+      "num": 203201,
+      "word": "野人小孩",
+      "onboard_time": 1760799862,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 801008,
       "num": 464293,
       "word": "逼员工卖淫女嫌犯因外貌在日本走红",
@@ -5843,6 +5851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 552089,
+      "num": 500614,
+      "word": "杨振宁在美办公室有人凌晨献花",
+      "onboard_time": 1760799742,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 551875,
       "num": 255346,
       "word": "方媛说现在已经不能坐飞机了",
@@ -6851,14 +6867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 500614,
-      "num": 500614,
-      "word": "杨振宁在美办公室有人凌晨献花",
-      "onboard_time": 1760799742,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 500085,
       "num": 500085,
       "word": "西贝取消25分钟上菜沙漏计时",
@@ -7512,6 +7520,14 @@
       "word": "摩托车死亡摇摆车主撞花坛当场身亡",
       "onboard_time": 1760230880,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 471313,
+      "num": 187225,
+      "word": "请求核查野人男孩父母收入来源",
+      "onboard_time": 1760800883,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -17395,14 +17411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 203201,
-      "num": 203201,
-      "word": "野人小孩",
-      "onboard_time": 1760799862,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 203198,
       "num": 203198,
       "word": "广州两个高铁站改名",
@@ -20297,6 +20305,14 @@
       "onboard_time": 1759667483,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181941,
+      "num": 169395,
+      "word": "Crisp给BLG抽个T1吧",
+      "onboard_time": 1760801364,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 181917,
@@ -23851,6 +23867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160061,
+      "num": 160061,
+      "word": "刘雨昕说和THE9都有联系",
+      "onboard_time": 1760802023,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160002,
       "num": 160002,
       "word": "惠英红 你看你的女儿很争气",
@@ -26913,14 +26937,6 @@
       "onboard_time": 1760539405,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144877,
-      "num": 144877,
-      "word": "Crisp给BLG抽个T1吧",
-      "onboard_time": 1760801364,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 144846,
@@ -47867,14 +47883,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 87842,
-      "num": 130573,
-      "word": "请求核查野人男孩父母收入来源",
-      "onboard_time": 1760800883,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87829,
       "num": 87829,
       "word": "微信长按图标就能调出付款码",
@@ -50347,6 +50355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80915,
+      "num": 188575,
+      "word": "今年秋冬或形成一次弱拉尼娜事件",
+      "onboard_time": 1760804722,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80852,
       "num": 115242,
       "word": "这个镜头切得属于是世界名画了",
@@ -51049,6 +51065,14 @@
       "onboard_time": 1759838601,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 78545,
+      "num": 78545,
+      "word": "张函瑞自作曲tears",
+      "onboard_time": 1760802923,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 78410,
@@ -52017,6 +52041,14 @@
       "onboard_time": 1760236639,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 74480,
+      "num": 74480,
+      "word": "汪苏泷一脚把我从内场踹到看台",
+      "onboard_time": 1760801902,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 74474,

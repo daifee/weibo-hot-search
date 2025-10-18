@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 23:37:06
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 00:28:53
 </p>
 </blockquote>
 <p>
@@ -2499,6 +2499,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%23" target="weibo">
+野人小孩（热度：801334）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%BC%E5%91%98%E5%B7%A5%E5%8D%96%E6%B7%AB%E5%A5%B3%E5%AB%8C%E7%8A%AF%E5%9B%A0%E5%A4%96%E8%B2%8C%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%B5%B0%E7%BA%A2%23" target="weibo">
 逼员工卖淫女嫌犯因外貌在日本走红（热度：801008）
 </a>
@@ -4395,6 +4401,12 @@ iPhone天气你可能真的不会用（热度：556452）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%8C%AF%E5%AE%81%E5%9C%A8%E7%BE%8E%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%9C%89%E4%BA%BA%E5%87%8C%E6%99%A8%E7%8C%AE%E8%8A%B1%23" target="weibo">
+杨振宁在美办公室有人凌晨献花（热度：552089）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%AA%9B%E8%AF%B4%E7%8E%B0%E5%9C%A8%E5%B7%B2%E7%BB%8F%E4%B8%8D%E8%83%BD%E5%9D%90%E9%A3%9E%E6%9C%BA%E4%BA%86%23" target="weibo">
 方媛说现在已经不能坐飞机了（热度：551875）
 </a>
@@ -5151,12 +5163,6 @@ GEN战胜T1（热度：526738）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%8C%AF%E5%AE%81%E5%9C%A8%E7%BE%8E%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%9C%89%E4%BA%BA%E5%87%8C%E6%99%A8%E7%8C%AE%E8%8A%B1%23" target="weibo">
-杨振宁在美办公室有人凌晨献花（热度：500614）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E5%8F%96%E6%B6%8825%E5%88%86%E9%92%9F%E4%B8%8A%E8%8F%9C%E6%B2%99%E6%BC%8F%E8%AE%A1%E6%97%B6%23" target="weibo">
 西贝取消25分钟上菜沙漏计时（热度：500085）
 </a>
@@ -5649,6 +5655,12 @@ TheShy回应上单韦鲁斯（热度：477977）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%B1%82%E6%A0%B8%E6%9F%A5%E9%87%8E%E4%BA%BA%E7%94%B7%E5%AD%A9%E7%88%B6%E6%AF%8D%E6%94%B6%E5%85%A5%E6%9D%A5%E6%BA%90%23" target="weibo">
+请求核查野人男孩父母收入来源（热度：471313）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8C%AB%E5%9B%A2%E9%98%9F%20%E7%81%B5%E9%9A%90%E5%AF%BA%23" target="weibo">
 天猫团队 灵隐寺（热度：471157）
 </a>
@@ -5999,18 +6011,6 @@ S15瑞士轮第三轮抽签（热度：449595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%23" target="weibo">
 诺贝尔物理学奖（热度：447754）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2360%E5%B2%81%E8%80%81%E4%BA%BA%E7%A6%BB%E9%80%80%E4%BC%91%E4%BB%8523%E5%A4%A9%E8%B7%B3%E6%B0%B4%E6%95%91%E4%BA%BA%E6%BA%BA%E4%BA%A1%23" target="weibo">
-60岁老人离退休仅23天跳水救人溺亡（热度：447513）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%B3%BB%E7%BA%AC%E9%9F%B3%E4%B9%90%E8%8A%82%E8%A2%AB%E7%AA%81%E7%84%B6%E5%86%B2%E4%B8%8A%E5%8F%B0%E7%94%B7%E5%AD%90%E6%89%92%E8%A1%A3%23" target="weibo">
-周峻纬音乐节被突然冲上台男子扒衣（热度：447286）
 </a>
 </li>
 
