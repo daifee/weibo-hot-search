@@ -1,7 +1,15 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760761715985,
+  "endTime": 1760762533716,
   "band_list": [
+    {
+      "raw_hot": 29191951,
+      "num": 30441951,
+      "word": "杨振宁逝世",
+      "onboard_time": 1760761410,
+      "rank": 0,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 23107983,
       "num": 23107983,
@@ -11,19 +19,27 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 9005470,
-      "num": 10255470,
-      "word": "杨振宁逝世",
-      "onboard_time": 1760761410,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 7745708,
       "num": 7745708,
       "word": "陈伟霆何穗什么时候在一起的",
       "onboard_time": 1760753604,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2821998,
+      "num": 490335,
+      "word": "怪不得何穗没去维密",
+      "onboard_time": 1760761898,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1689287,
+      "num": 613747,
+      "word": "那是刘雯 那是奚梦瑶",
+      "onboard_time": 1760760806,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -67,12 +83,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 809301,
+      "raw_hot": 964839,
       "num": 711320,
       "word": "狼人杀腿毛去世",
       "onboard_time": 1760761167,
       "rank": 11,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 789364,
+      "num": 1062874,
+      "word": "间谍在民宿拍军港被老板举报",
+      "onboard_time": 1760755772,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 785694,
@@ -81,14 +105,6 @@
       "onboard_time": 1760745379,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 759331,
-      "num": 1062874,
-      "word": "间谍在民宿拍军港被老板举报",
-      "onboard_time": 1760755772,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 600529,
@@ -123,14 +139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 558806,
-      "num": 558806,
-      "word": "那是刘雯 那是奚梦瑶",
-      "onboard_time": 1760760806,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 556452,
       "num": 1089032,
       "word": "iPhone天气你可能真的不会用",
@@ -153,6 +161,14 @@
       "onboard_time": 1760754990,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 513302,
+      "num": 513302,
+      "word": "翁帆",
+      "onboard_time": 1760762438,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 477445,
@@ -195,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 343089,
+      "num": 317623,
+      "word": "时尚先生",
+      "onboard_time": 1760762016,
+      "rank": 24,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 342049,
       "num": 342049,
       "word": "缅北电诈园区剁人手指泡酒",
@@ -209,6 +233,22 @@
       "onboard_time": 1760754931,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308158,
+      "num": 254554,
+      "word": "Faker回应Karsa致敬",
+      "onboard_time": 1760760928,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 295616,
+      "num": 295616,
+      "word": "黄雅莉回应第一笔工资有八万块",
+      "onboard_time": 1760760030,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 282517,
@@ -300,11 +340,19 @@
     },
     {
       "raw_hot": 259933,
-      "num": 744070,
+      "num": 758381,
       "word": "iPhone17全系包揽销量榜前三",
       "onboard_time": 1760756613,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 258189,
+      "num": 746327,
+      "word": "杨振宁享年103岁",
+      "onboard_time": 1760762318,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256543,
@@ -331,6 +379,30 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 255082,
+      "num": 255082,
+      "word": "我只喜欢你的人设影视化",
+      "onboard_time": 1760759609,
+      "rank": 24,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 254487,
+      "num": 254487,
+      "word": "英伟达已完全脱离中国市场",
+      "onboard_time": 1760758649,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 254402,
+      "num": 726770,
+      "word": "送别杨振宁",
+      "onboard_time": 1760762138,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251906,
       "num": 186967,
       "word": "岳父机场接机梁靖崑",
@@ -339,36 +411,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 247977,
-      "num": 247977,
-      "word": "我只喜欢你的人设影视化",
-      "onboard_time": 1760759609,
-      "rank": 24,
-      "category": "读书作家"
+      "raw_hot": 251127,
+      "num": 251127,
+      "word": "汪苏泷baby回归",
+      "onboard_time": 1760761108,
+      "rank": 40,
+      "category": "演出"
     },
     {
-      "raw_hot": 243810,
-      "num": 243810,
-      "word": "黄雅莉回应第一笔工资有八万块",
-      "onboard_time": 1760760030,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 237882,
-      "num": 237882,
+      "raw_hot": 241364,
+      "num": 241364,
       "word": "苗苗把种子倒进了袜子里",
       "onboard_time": 1760759668,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 234106,
-      "num": 234106,
-      "word": "Faker回应Karsa致敬",
-      "onboard_time": 1760760928,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 231146,
@@ -379,12 +435,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 221713,
-      "num": 221713,
-      "word": "英伟达已完全脱离中国市场",
-      "onboard_time": 1760758649,
-      "rank": 32,
-      "category": "数码"
+      "raw_hot": 221770,
+      "num": 221770,
+      "word": "肖战为新剧小城良方减重15斤",
+      "onboard_time": 1760760988,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 214307,
@@ -411,12 +467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201161,
-      "num": 201161,
-      "word": "肖战为新剧小城良方减重15斤",
-      "onboard_time": 1760760988,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 201212,
+      "num": 201212,
+      "word": "网红南笙生娃",
+      "onboard_time": 1760762438,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 197167,
@@ -435,8 +491,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188761,
-      "num": 188761,
+      "raw_hot": 190398,
+      "num": 190398,
+      "word": "男子1个月暴瘦15斤等来母亲良性报告",
+      "onboard_time": 1760758889,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189774,
+      "num": 189774,
       "word": "男子将遗产留给外甥名却写错了",
       "onboard_time": 1760759309,
       "rank": 36,
@@ -459,20 +523,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 182920,
-      "num": 182920,
-      "word": "汪苏泷baby回归",
-      "onboard_time": 1760761108,
-      "rank": 40,
-      "category": "演出"
+      "raw_hot": 180439,
+      "num": 327674,
+      "word": "日本员工扫浴池时被熊叼走池边有血",
+      "onboard_time": 1760760747,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
-      "raw_hot": 175897,
-      "num": 175897,
-      "word": "男子1个月暴瘦15斤等来母亲良性报告",
-      "onboard_time": 1760758889,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 180358,
+      "num": 180358,
+      "word": "苏醒平均分个人第一团队也第一",
+      "onboard_time": 1760761837,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177895,
+      "num": 177895,
+      "word": "以闪亮之名",
+      "onboard_time": 1760762378,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 175571,
@@ -577,14 +649,6 @@
       "onboard_time": 1760760627,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 143623,
-      "num": 327674,
-      "word": "日本员工扫浴池时被熊叼走池边有血",
-      "onboard_time": 1760760747,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 141510,
@@ -900,10 +964,18 @@
     },
     {
       "raw_hot": 102521,
-      "num": 102521,
+      "num": 776928,
       "word": "多地断崖式降温",
       "onboard_time": 1760752821,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102078,
+      "num": 319980,
+      "word": "清华大学沉痛悼念深切缅怀杨振宁",
+      "onboard_time": 1760762078,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -912,6 +984,14 @@
       "word": "减肥减成杨幂了",
       "onboard_time": 1760698702,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 101054,
+      "num": 209857,
+      "word": "王俊凯刘昊然董子健早期胶片",
+      "onboard_time": 1760761957,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -1195,7 +1275,7 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 56395,
+      "raw_hot": 58621,
       "num": 332088,
       "word": "特朗普呼吁俄乌双方立即停火",
       "onboard_time": 1760760867,
@@ -1291,6 +1371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31783,
+      "num": 655250,
+      "word": "杨振宁生平回顾",
+      "onboard_time": 1760762138,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30827,
       "num": 57277,
       "word": "周杰伦蔡威泽纠纷细节曝光",
@@ -1355,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20514,
+      "num": 206201,
+      "word": "杨振宁刚刚过完103岁生日",
+      "onboard_time": 1760762199,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20457,
       "num": 55734,
       "word": "大眼音乐节阵容",
@@ -1380,7 +1476,7 @@
     },
     {
       "raw_hot": 15290,
-      "num": 183021,
+      "num": 206850,
       "word": "智能制造意味着什么",
       "onboard_time": 1760760089,
       "rank": 39,
@@ -1401,6 +1497,22 @@
       "onboard_time": 1760739736,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 7382,
+      "num": 201493,
+      "word": "杨振宁翁帆相伴20余年",
+      "onboard_time": 1760762497,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 4148,
+      "num": 251513,
+      "word": "红星照耀中国",
+      "onboard_time": 1760593821,
+      "rank": 34,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

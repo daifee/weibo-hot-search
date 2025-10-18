@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/10/18 12:28:35
+本榜单时间：2025/01/01 00:26:38 ~ 2025/10/18 12:42:13
 </p>
 </blockquote>
 <p>
@@ -47,6 +47,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%23" target="weibo">
 关晓彤（热度：31189573）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%8C%AF%E5%AE%81%E9%80%9D%E4%B8%96%23" target="weibo">
+杨振宁逝世（热度：29191951）
 </a>
 </li>
 
@@ -1157,12 +1163,6 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E4%B8%B4%E6%B1%BE%E5%9C%B0%E9%9C%87%23" target="weibo">
 山西临汾地震（热度：9076991）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%8C%AF%E5%AE%81%E9%80%9D%E4%B8%96%23" target="weibo">
-杨振宁逝世（热度：9005470）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1760761715985,
+  "endTime": 1760762533716,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -49,6 +49,14 @@
       "onboard_time": 1740674355,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29191951,
+      "num": 30441951,
+      "word": "杨振宁逝世",
+      "onboard_time": 1760761410,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28573099,
@@ -1529,14 +1537,6 @@
       "onboard_time": 1736513302,
       "rank": 0,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 9005470,
-      "num": 10255470,
-      "word": "杨振宁逝世",
-      "onboard_time": 1760761410,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8960529,
