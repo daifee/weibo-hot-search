@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 12:42:13
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/18 13:23:28
 </p>
 </blockquote>
 <p>
@@ -177,6 +177,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%8C%AF%E5%AE%81%E8%AE%A3%E5%91%8A%23" target="weibo">
+杨振宁讣告（热度：2662821）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%20%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%23" target="weibo">
 谢娜 央视主持（热度：2638790）
 </a>
@@ -281,6 +287,12 @@ T1战胜iG（热度：2289458）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%BD%E4%B8%80%E5%85%AC%E5%9B%9E%E5%BA%94%E6%9D%A8%E6%8C%AF%E5%AE%81%E9%80%9D%E4%B8%96%E4%BC%A0%E9%97%BB%23" target="weibo">
 施一公回应杨振宁逝世传闻（热度：1947726）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%8C%AF%E5%AE%81%E7%BF%81%E5%B8%86%E7%9B%B8%E4%BC%B420%E4%BD%99%E5%B9%B4%23" target="weibo">
+杨振宁翁帆相伴20余年（热度：1924240）
 </a>
 </li>
 
@@ -2703,6 +2715,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%9B%E7%90%B3%E5%A8%9C%E5%9B%9E%E5%BA%94%E6%B5%B7%E8%8E%89%23" target="weibo">
+赛琳娜回应海莉（热度：732112）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA%23" target="weibo">
 王楚钦vs松岛辉空（热度：730577）
 </a>
@@ -3453,6 +3471,12 @@ JDG战胜狼队（热度：630844）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%8E%8E%E8%80%81%E5%85%AC%E8%B7%AF%E8%A1%8C%E8%BE%9E%E8%81%8C%23" target="weibo">
+邓莎老公路行辞职（热度：624727）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9A%E6%B6%89%E5%AB%8C%E8%BF%9D%E5%8F%8D%E5%8F%8D%E5%9E%84%E6%96%AD%E6%B3%95%23" target="weibo">
 高通涉嫌违反反垄断法（热度：624068）
 </a>
@@ -4037,6 +4061,12 @@ hi6（热度：563954）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E8%B8%B9%E9%A3%9E%E8%80%81%E5%A4%AA%E5%BD%93%E4%BA%8B%E7%94%B7%E5%AD%90%E9%81%93%E6%AD%89%23" target="weibo">
 台湾踹飞老太当事男子道歉（热度：563717）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%8D%97%E7%AC%99%E7%94%9F%E5%A8%83%23" target="weibo">
+网红南笙生娃（热度：562402）
 </a>
 </li>
 
@@ -4631,6 +4661,12 @@ iPhone天气你可能真的不会用（热度：556452）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%94%B5%E8%AF%9D%E5%BE%97%E7%9F%A5%E8%BD%A6%E8%A2%AB%E7%8B%97%E5%95%83%E4%BB%A5%E4%B8%BA%E6%98%AF%E8%AF%88%E9%AA%97%23" target="weibo">
 女子电话得知车被狗啃以为是诈骗（热度：520344）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E6%82%BC%E5%BF%B5%E6%9D%A8%E6%8C%AF%E5%AE%81%23" target="weibo">
+清华大学悼念杨振宁（热度：519961）
 </a>
 </li>
 
@@ -5577,6 +5613,12 @@ UNINE合体（热度：458011）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%B0%8F%E6%A3%A0%E5%A7%A5%E5%A7%A5%E5%8E%BB%E4%B8%96%23" target="weibo">
+赵小棠姥姥去世（热度：457114）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%85%85%E7%94%B5%E5%8F%A3%E4%BD%BF%E7%94%A8%E6%9D%83%E4%BA%89%E8%AE%AE%23" target="weibo">
 12306回应充电口使用权争议（热度：456135）
 </a>
@@ -5681,6 +5723,12 @@ K签证（热度：453444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23S15%E7%91%9E%E5%A3%AB%E8%BD%AE%E7%AC%AC%E4%B8%89%E8%BD%AE%E6%8A%BD%E7%AD%BE%23" target="weibo">
 S15瑞士轮第三轮抽签（热度：449595）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%8C%AF%E5%AE%81%E4%B8%80%E7%94%9F%E6%9C%80%E5%A4%A7%E7%9A%84%E8%B4%A1%E7%8C%AE%23" target="weibo">
+杨振宁一生最大的贡献（热度：449554）
 </a>
 </li>
 
@@ -5807,6 +5855,12 @@ KT战胜TES（热度：445439）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E7%89%B9%E5%88%AB%E5%AD%A3%E9%98%B5%E5%AE%B9%23" target="weibo">
 奔跑吧特别季阵容（热度：443299）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%81%E5%88%AB%E6%9D%A8%E6%8C%AF%E5%AE%81%23" target="weibo">
+送别杨振宁（热度：443252）
 </a>
 </li>
 
@@ -5957,60 +6011,6 @@ Angelababy跳刀马刀马了（热度：440859）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%B8%8D%E8%AF%B4%E8%8B%B1%E8%AF%AD%E5%BE%88%E6%AD%A3%E5%B8%B8%23" target="weibo">
 外国游客称中国不说英语很正常（热度：434483）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E7%BB%93%E6%9D%9F%23" target="weibo">
-加沙战争结束（热度：434311）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Dior%E8%BF%9E%E5%8F%914%E6%9D%A1%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
-Dior连发4条迪丽热巴（热度：434111）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%AB%98%E4%B8%AD%E7%94%9F%E5%A4%AA%E7%B4%AF%E5%B0%B1%E6%89%8E%E9%92%88%23" target="weibo">
-韩国高中生太累就扎针（热度：433902）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E5%A5%B3%E5%8F%8B%E4%B8%8E%E8%B5%B0%E5%A4%B1%E5%A5%B3%E5%AD%A9%E6%92%9E%E8%84%B8%E7%94%B7%E5%AD%90%E8%A2%AB%E8%AF%AF%E6%8A%93%23" target="weibo">
-因女友与走失女孩撞脸男子被误抓（热度：433632）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%9B%9E%E5%BA%94%E9%85%8D%E9%80%81%E5%91%98%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%8C%82%E6%BB%A1%E5%A4%A7%E4%BB%B6%E8%B4%A7%E7%89%A9%23" target="weibo">
-山姆回应配送员电动车挂满大件货物（热度：432554）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A8%83%E5%93%88%E5%93%88%E4%BB%BB%E5%91%BD%E8%AE%B8%E6%80%9D%E6%95%8F%E4%B8%BA%E6%80%BB%E7%BB%8F%E7%90%86%23" target="weibo">
-娃哈哈任命许思敏为总经理（热度：432523）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E4%B8%AD%E4%BF%84%E5%8F%8C%E8%AF%AD%E8%87%B4%E6%95%AC%E8%8B%B1%E7%83%88%23" target="weibo">
-周深中俄双语致敬英烈（热度：432408）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AE%E7%BD%84%23" target="weibo">
-宋亚轩第一个售罄（热度：431824）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E4%B8%80%E6%BA%B6%E6%B4%9E%E6%B5%81%E5%87%BA%E5%A4%A7%E9%87%8F%E6%B1%A1%E6%B0%B4%E5%90%AB%E6%9C%89%E7%85%A4%23" target="weibo">
-贵州一溶洞流出大量污水含有煤（热度：431591）
 </a>
 </li>
 
@@ -6323,6 +6323,12 @@ Dior连发4条迪丽热巴（热度：434111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%E5%BF%85%E6%9C%89%E5%85%B3%E9%94%AE%E6%8A%89%E6%8B%A9%23%23" target="weibo">
 #中国经济关键时刻必有关键抉择#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E8%B7%9F%E7%9D%80%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9C%8B%E7%9C%8B%E8%BF%99%E4%BA%94%E5%B9%B4%23%23" target="weibo">
+#跟着总书记看看这五年#
 </a>
 </li>
 
