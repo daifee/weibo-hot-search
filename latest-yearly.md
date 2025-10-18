@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/10/18 11:45:51
+本榜单时间：2025/01/01 00:26:38 ~ 2025/10/18 12:28:35
 </p>
 </blockquote>
 <p>
@@ -1161,6 +1161,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%8C%AF%E5%AE%81%E9%80%9D%E4%B8%96%23" target="weibo">
+杨振宁逝世（热度：9005470）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%87%AF%E5%9B%9E%E5%BA%94%23" target="weibo">
 石凯回应（热度：8960529）
 </a>
@@ -1805,12 +1811,6 @@ ALin秒了（热度：6171972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
 关晓彤朋友圈（热度：4916125）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E5%96%8A%E8%AF%9D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%23" target="weibo">
-泰国喊话中国游客（热度：4913394）
 </a>
 </li>
 

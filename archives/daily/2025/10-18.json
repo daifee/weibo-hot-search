@@ -1,6 +1,6 @@
 {
   "startTime": 1760718772419,
-  "endTime": 1760759151139,
+  "endTime": 1760761715985,
   "band_list": [
     {
       "raw_hot": 23107983,
@@ -9,6 +9,14 @@
       "onboard_time": 1760753301,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9005470,
+      "num": 10255470,
+      "word": "杨振宁逝世",
+      "onboard_time": 1760761410,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7745708,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1649808,
-      "num": 561429,
+      "num": 707754,
       "word": "万鹏 笑脸给多了惯的都是病",
       "onboard_time": 1760751741,
       "rank": 10,
@@ -59,12 +67,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 809301,
+      "num": 711320,
+      "word": "狼人杀腿毛去世",
+      "onboard_time": 1760761167,
+      "rank": 11,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 785694,
       "num": 416601,
       "word": "张慧贤给万鹏道歉",
       "onboard_time": 1760745379,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 759331,
+      "num": 1062874,
+      "word": "间谍在民宿拍军港被老板举报",
+      "onboard_time": 1760755772,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 600529,
@@ -97,6 +121,14 @@
       "onboard_time": 1760754271,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 558806,
+      "num": 558806,
+      "word": "那是刘雯 那是奚梦瑶",
+      "onboard_time": 1760760806,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 556452,
@@ -155,12 +187,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 392965,
-      "num": 1062874,
-      "word": "间谍在民宿拍军港被老板举报",
-      "onboard_time": 1760755772,
-      "rank": 7,
-      "category": "民生新闻"
+      "raw_hot": 365194,
+      "num": 365194,
+      "word": "肖战王彦霖首搭",
+      "onboard_time": 1760755835,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 342049,
@@ -203,14 +235,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 275905,
-      "num": 275905,
-      "word": "肖战王彦霖首搭",
-      "onboard_time": 1760755835,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 275329,
       "num": 172976,
       "word": "野人小孩没有户口",
@@ -228,7 +252,7 @@
     },
     {
       "raw_hot": 270133,
-      "num": 389987,
+      "num": 726231,
       "word": "暗河传官宣定档",
       "onboard_time": 1760756613,
       "rank": 27,
@@ -259,12 +283,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 262635,
+      "num": 262635,
+      "word": "特朗普承认对华关税不可持续",
+      "onboard_time": 1760757271,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 262094,
-      "num": 591464,
+      "num": 736025,
       "word": "中美经贸磋商",
       "onboard_time": 1760754511,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 259933,
+      "num": 744070,
+      "word": "iPhone17全系包揽销量榜前三",
+      "onboard_time": 1760756613,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 256543,
@@ -291,28 +331,44 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 254829,
-      "num": 582833,
-      "word": "iPhone17全系包揽销量榜前三",
-      "onboard_time": 1760756613,
-      "rank": 8,
-      "category": "数码"
-    },
-    {
       "raw_hot": 251906,
-      "num": 151896,
+      "num": 186967,
       "word": "岳父机场接机梁靖崑",
       "onboard_time": 1760757271,
       "rank": 30,
       "category": "体育"
     },
     {
-      "raw_hot": 244212,
-      "num": 244212,
-      "word": "特朗普承认对华关税不可持续",
-      "onboard_time": 1760757271,
-      "rank": 22,
-      "category": "国内时政"
+      "raw_hot": 247977,
+      "num": 247977,
+      "word": "我只喜欢你的人设影视化",
+      "onboard_time": 1760759609,
+      "rank": 24,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 243810,
+      "num": 243810,
+      "word": "黄雅莉回应第一笔工资有八万块",
+      "onboard_time": 1760760030,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 237882,
+      "num": 237882,
+      "word": "苗苗把种子倒进了袜子里",
+      "onboard_time": 1760759668,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 234106,
+      "num": 234106,
+      "word": "Faker回应Karsa致敬",
+      "onboard_time": 1760760928,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 231146,
@@ -321,6 +377,14 @@
       "onboard_time": 1760750421,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 221713,
+      "num": 221713,
+      "word": "英伟达已完全脱离中国市场",
+      "onboard_time": 1760758649,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 214307,
@@ -332,7 +396,7 @@
     },
     {
       "raw_hot": 209163,
-      "num": 389158,
+      "num": 722204,
       "word": "蓝溪镇",
       "onboard_time": 1760758411,
       "rank": 29,
@@ -345,6 +409,14 @@
       "onboard_time": 1760691200,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201161,
+      "num": 201161,
+      "word": "肖战为新剧小城良方减重15斤",
+      "onboard_time": 1760760988,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 197167,
@@ -363,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188761,
+      "num": 188761,
+      "word": "男子将遗产留给外甥名却写错了",
+      "onboard_time": 1760759309,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188612,
       "num": 188612,
       "word": "金价涨到头了吗",
@@ -371,19 +451,35 @@
       "category": "财经"
     },
     {
+      "raw_hot": 185790,
+      "num": 732392,
+      "word": "中美同意尽快举行新一轮经贸磋商",
+      "onboard_time": 1760756253,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 182920,
+      "num": 182920,
+      "word": "汪苏泷baby回归",
+      "onboard_time": 1760761108,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 175897,
+      "num": 175897,
+      "word": "男子1个月暴瘦15斤等来母亲良性报告",
+      "onboard_time": 1760758889,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 175571,
       "num": 202948,
       "word": "辽宁失联女童因红衣被快速找到",
       "onboard_time": 1760709202,
       "rank": 7,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 172834,
-      "num": 172834,
-      "word": "男子1个月暴瘦15斤等来母亲良性报告",
-      "onboard_time": 1760758889,
-      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -403,20 +499,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171196,
+      "num": 171196,
+      "word": "一代超模都找到了幸福",
+      "onboard_time": 1760758889,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170022,
       "num": 170022,
       "word": "梁靖崑给王楚钦直男P图",
       "onboard_time": 1760753664,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165959,
-      "num": 151309,
-      "word": "英伟达已完全脱离中国市场",
-      "onboard_time": 1760758649,
-      "rank": 32,
-      "category": "数码"
     },
     {
       "raw_hot": 165589,
@@ -441,14 +537,6 @@
       "onboard_time": 1760755051,
       "rank": 18,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 156102,
-      "num": 253784,
-      "word": "中美同意尽快举行新一轮经贸磋商",
-      "onboard_time": 1760756253,
-      "rank": 27,
-      "category": "国内时政"
     },
     {
       "raw_hot": 154675,
@@ -481,6 +569,22 @@
       "onboard_time": 1760718622,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144511,
+      "num": 234823,
+      "word": "王牌后期是不是吃毒蘑菇了",
+      "onboard_time": 1760760627,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 143623,
+      "num": 327674,
+      "word": "日本员工扫浴池时被熊叼走池边有血",
+      "onboard_time": 1760760747,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 141510,
@@ -523,12 +627,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 137613,
+      "num": 137613,
+      "word": "第一次见有人把房子装到我眼花缭乱",
+      "onboard_time": 1760760867,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 135526,
       "num": 135526,
       "word": "肖战到达锦州",
       "onboard_time": 1760716941,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135139,
+      "num": 269162,
+      "word": "19岁男孩自查文献确诊罕见卟啉病",
+      "onboard_time": 1760758531,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135016,
@@ -561,6 +681,14 @@
       "onboard_time": 1760752761,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128071,
+      "num": 128071,
+      "word": "杜淳妻子说因戏生情的演员不专业",
+      "onboard_time": 1760756852,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 126997,
@@ -643,6 +771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117158,
+      "num": 208061,
+      "word": "林孝埈意外摔倒进复活赛",
+      "onboard_time": 1760761410,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116549,
       "num": 116549,
       "word": "韩国作家白洗嬉去世",
@@ -681,14 +817,6 @@
       "onboard_time": 1760716821,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107729,
-      "num": 269162,
-      "word": "19岁男孩自查文献确诊罕见卟啉病",
-      "onboard_time": 1760758531,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107702,
@@ -731,6 +859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104857,
+      "num": 221746,
+      "word": "妻子患癌去世前被三次起诉离婚",
+      "onboard_time": 1760759909,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104148,
       "num": 104148,
       "word": "邵阳通报一学校围墙操场坍塌",
@@ -771,14 +907,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102503,
-      "num": 111744,
-      "word": "杜淳妻子说因戏生情的演员不专业",
-      "onboard_time": 1760756852,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101978,
       "num": 101978,
       "word": "减肥减成杨幂了",
@@ -809,14 +937,6 @@
       "onboard_time": 1760712203,
       "rank": 35,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 95844,
-      "num": 126705,
-      "word": "一代超模都找到了幸福",
-      "onboard_time": 1760758889,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 94878,
@@ -971,6 +1091,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 71398,
+      "num": 147365,
+      "word": "内娱真的不能没有何老师",
+      "onboard_time": 1760760210,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70814,
       "num": 93367,
       "word": "原配称丈夫中1000万后想再找人生娃",
@@ -1065,6 +1193,14 @@
       "onboard_time": 1760712084,
       "rank": 45,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 56395,
+      "num": 332088,
+      "word": "特朗普呼吁俄乌双方立即停火",
+      "onboard_time": 1760760867,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55900,
@@ -1171,20 +1307,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29540,
+      "num": 957434,
+      "word": "WannaCry勒索风暴的警示与防范",
+      "onboard_time": 1760752880,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28506,
       "num": 61709,
       "word": "余生有涯",
       "onboard_time": 1760722219,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28466,
-      "num": 957434,
-      "word": "WannaCry勒索风暴的警示与防范",
-      "onboard_time": 1760752880,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25808,
@@ -1241,6 +1377,14 @@
       "onboard_time": 1760744119,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15290,
+      "num": 183021,
+      "word": "智能制造意味着什么",
+      "onboard_time": 1760760089,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14157,

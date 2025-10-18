@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1760759151139,
+  "endTime": 1760761715985,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1531,6 +1531,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 9005470,
+      "num": 10255470,
+      "word": "杨振宁逝世",
+      "onboard_time": 1760761410,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 8960529,
       "num": 8960529,
       "word": "石凯回应",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1745194945,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 4913394,
-      "num": 4076214,
-      "word": "泰国喊话中国游客",
-      "onboard_time": 1736756359,
-      "rank": 16,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
