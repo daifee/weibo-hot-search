@@ -1,10 +1,10 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760849057245,
+  "endTime": 1760851496843,
   "band_list": [
     {
       "raw_hot": 2202319,
-      "num": 286123,
+      "num": 680118,
       "word": "翁帆发文纪念杨振宁",
       "onboard_time": 1760839400,
       "rank": 16,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1143673,
-      "num": 216257,
+      "num": 508359,
       "word": "杨紫李现友情",
       "onboard_time": 1760845221,
       "rank": 11,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 851419,
-      "num": 215774,
+      "num": 520579,
       "word": "翁帆说杨振宁交出了满意答卷",
       "onboard_time": 1760838320,
       "rank": 11,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 717000,
-      "num": 201510,
+      "num": 247155,
       "word": "跳河新郎亲属放弃追究新娘方责任",
       "onboard_time": 1760845161,
       "rank": 26,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 699962,
-      "num": 213504,
+      "num": 245903,
       "word": "27岁瞒着家人买了一套房",
       "onboard_time": 1760837360,
       "rank": 14,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 496617,
+      "num": 496617,
+      "word": "周杰伦新歌灵感与霉霉相撞",
+      "onboard_time": 1760848639,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 487490,
       "num": 454257,
       "word": "请求核查野人男孩父母收入来源",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 418821,
-      "num": 288132,
+      "num": 804936,
       "word": "天地剑心",
       "onboard_time": 1760844439,
       "rank": 9,
@@ -187,6 +195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 379957,
+      "num": 379957,
+      "word": "陈伟霆好友2022年就已知道恋情",
+      "onboard_time": 1760847682,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367254,
       "num": 367254,
       "word": "高市早苗首相稳了",
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 356756,
-      "num": 199055,
+      "num": 237524,
       "word": "李沁 顶级P人",
       "onboard_time": 1760845341,
       "rank": 25,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 304915,
-      "num": 304915,
+      "num": 734107,
       "word": "4K修复志愿军跨过鸭绿江影像",
       "onboard_time": 1760844261,
       "rank": 7,
@@ -244,10 +260,18 @@
     },
     {
       "raw_hot": 299049,
-      "num": 299049,
+      "num": 1021441,
       "word": "切莫用黑公关污名化公众安全关切",
       "onboard_time": 1760843839,
       "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294945,
+      "num": 294945,
+      "word": "杨振宁与二次诺奖失之交臂",
+      "onboard_time": 1760850081,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -257,6 +281,14 @@
       "onboard_time": 1760781621,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281414,
+      "num": 281414,
+      "word": "迪丽热巴粉丝回应上热搜",
+      "onboard_time": 1760849120,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 267826,
@@ -307,8 +339,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231990,
-      "num": 189152,
+      "raw_hot": 235425,
+      "num": 235425,
       "word": "周迅闷声干大事",
       "onboard_time": 1760847741,
       "rank": 24,
@@ -331,28 +363,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 206928,
-      "num": 206928,
-      "word": "郭碧婷爸爸回应女儿一人养家",
-      "onboard_time": 1760791642,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 202618,
-      "num": 457024,
+      "raw_hot": 210159,
+      "num": 670143,
       "word": "入青云",
       "onboard_time": 1760786302,
       "rank": 7,
       "category": "剧集"
     },
     {
-      "raw_hot": 197938,
-      "num": 197938,
-      "word": "周杰伦新歌灵感与霉霉相撞",
-      "onboard_time": 1760848639,
+      "raw_hot": 206928,
+      "num": 206928,
+      "word": "郭碧婷爸爸回应女儿一人养家",
+      "onboard_time": 1760791642,
       "rank": 17,
-      "category": "音乐"
+      "category": "艺人"
     },
     {
       "raw_hot": 195819,
@@ -387,14 +411,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191318,
-      "num": 188572,
-      "word": "陈伟霆好友2022年就已知道恋情",
-      "onboard_time": 1760847682,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190251,
       "num": 190251,
       "word": "时代峰峻新贴的海报",
@@ -403,12 +419,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189234,
+      "num": 189234,
+      "word": "多地警方联动寻找野人小孩一家",
+      "onboard_time": 1760846420,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186793,
+      "num": 628493,
+      "word": "我家那闺女",
+      "onboard_time": 1760851101,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184536,
       "num": 184536,
       "word": "崩坏星穹铁道",
       "onboard_time": 1760846780,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 183737,
+      "num": 183737,
+      "word": "长期缺乏雌激素的风险",
+      "onboard_time": 1760848881,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 183039,
@@ -443,11 +483,35 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 170220,
+      "num": 170220,
+      "word": "西安城墙已变成巨型生态缸了",
+      "onboard_time": 1760848699,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166712,
+      "num": 247166,
+      "word": "我国成功发射力箭一号遥八运载火箭",
+      "onboard_time": 1760849120,
+      "rank": 15,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 166518,
       "num": 166518,
       "word": "张柏芝镜头下的邵子恒",
       "onboard_time": 1760844559,
       "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165579,
+      "num": 165579,
+      "word": "蒋敦豪我该怎么解释mbti",
+      "onboard_time": 1760850320,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -483,14 +547,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156034,
-      "num": 156034,
-      "word": "多地警方联动寻找野人小孩一家",
-      "onboard_time": 1760846420,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153781,
       "num": 153781,
       "word": "任嘉伦NBA最佳全能艺人奖",
@@ -523,20 +579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 139898,
-      "num": 139898,
-      "word": "西安城墙已变成巨型生态缸了",
-      "onboard_time": 1760848699,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138846,
-      "num": 138846,
-      "word": "长期缺乏雌激素的风险",
-      "onboard_time": 1760848881,
-      "rank": 32,
-      "category": "健康医疗"
+      "raw_hot": 143376,
+      "num": 143376,
+      "word": "陈乔恩辟谣艾伦私生子",
+      "onboard_time": 1760850981,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 137675,
@@ -611,12 +659,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130071,
+      "num": 130071,
+      "word": "李现回复杨紫谢谢白菊",
+      "onboard_time": 1760850141,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125171,
       "num": 125171,
       "word": "Knight想和T1瑞士轮交手",
       "onboard_time": 1760843001,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122619,
+      "num": 122619,
+      "word": "美国多地爆发反特朗普集会",
+      "onboard_time": 1760850800,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122050,
@@ -643,6 +707,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 119324,
+      "num": 119324,
+      "word": "珠海无人机表演为全运会加油",
+      "onboard_time": 1760850500,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118737,
       "num": 118737,
       "word": "天蚕土豆锐评BLG",
@@ -665,6 +737,14 @@
       "onboard_time": 1760848340,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115699,
+      "num": 115699,
+      "word": "明意纪伯宰圆房",
+      "onboard_time": 1760851160,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 114704,
@@ -739,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106770,
+      "num": 106770,
+      "word": "网购金豆含金量为0",
+      "onboard_time": 1760848579,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106410,
       "num": 154443,
       "word": "学校坍塌前有居民听到异响但未在意",
@@ -752,6 +840,14 @@
       "word": "杨老一路走好",
       "onboard_time": 1760787802,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105910,
+      "num": 105910,
+      "word": "51岁大哥摆摊半年一分钱没挣",
+      "onboard_time": 1760850621,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -819,6 +915,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 99491,
+      "num": 99491,
+      "word": "周深点歌点到中国台湾歌迷",
+      "onboard_time": 1760849841,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99017,
       "num": 99017,
       "word": "梅西帽子戏法",
@@ -865,6 +969,14 @@
       "onboard_time": 1760843839,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94219,
+      "num": 94219,
+      "word": "时尚先生",
+      "onboard_time": 1760849239,
+      "rank": 45,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 93982,
@@ -923,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90137,
+      "num": 90137,
+      "word": "顶流零食蒟蒻果冻到底是啥",
+      "onboard_time": 1760851461,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 89622,
       "num": 89622,
       "word": "清华学子说得知杨振宁病逝很震惊",
@@ -953,6 +1073,14 @@
       "onboard_time": 1760842400,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87584,
+      "num": 87584,
+      "word": "宠物店给每个小狗毛巾都写了名字",
+      "onboard_time": 1760850441,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 87472,
@@ -1113,6 +1241,14 @@
       "onboard_time": 1760839641,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77599,
+      "num": 99201,
+      "word": "刘同黑脸上台",
+      "onboard_time": 1760849783,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 77047,
@@ -1363,6 +1499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 40303,
+      "num": 104901,
+      "word": "家属称新郎跳河前曾在车上哭泣",
+      "onboard_time": 1760851340,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39147,
       "num": 53765,
       "word": "月亮姐姐回应离开少儿频道",
@@ -1531,8 +1675,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 3754,
-      "num": 289241,
+      "raw_hot": 9036,
+      "num": 111787,
+      "word": "跟一群电子榨菜面基了",
+      "onboard_time": 1760851402,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 4957,
+      "num": 937094,
       "word": "红星照耀中国",
       "onboard_time": 1760593821,
       "rank": 2,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 12:44:17
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 13:24:56
 </p>
 </blockquote>
 <p>
@@ -5313,6 +5313,12 @@ GEN战胜T1（热度：526738）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E7%81%B5%E6%84%9F%E4%B8%8E%E9%9C%89%E9%9C%89%E7%9B%B8%E6%92%9E%23" target="weibo">
+周杰伦新歌灵感与霉霉相撞（热度：496617）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%B0%8F%E7%A5%A8%E8%97%8F%E8%BF%9E%E8%BD%BD%E5%B0%8F%E8%AF%B4%23" target="weibo">
 蜜雪冰城小票藏连载小说（热度：496447）
 </a>
@@ -6005,12 +6011,6 @@ K签证（热度：453444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%AE%B6%E7%A7%B0%E6%9D%80%E4%BA%BA%E6%B2%A1%E4%BB%80%E4%B9%88%E6%84%9F%E5%8F%97%23" target="weibo">
 魏家称杀人没什么感受（热度：453281）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%B7%B4%E5%A8%9C%E6%89%8E%20%E6%96%B0%E7%96%86%E5%8F%8C%E7%BE%8E%E9%97%AA%E8%80%80%E5%B7%B4%E9%BB%8E%23" target="weibo">
-热巴娜扎 新疆双美闪耀巴黎（热度：452020）
 </a>
 </li>
 
