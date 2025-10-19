@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 23:36:57
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 00:29:23
 </p>
 </blockquote>
 <p>
@@ -323,6 +323,12 @@ T1战胜iG（热度：2289458）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iG%E5%AF%B9%E6%88%98T1%23" target="weibo">
 iG对战T1（热度：1886560）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%AD%A9%E5%AD%90%E5%B7%B2%E5%87%BA%E7%8E%B0%E5%8A%A8%E7%89%A9%E5%8C%96%E7%89%B9%E5%BE%81%23" target="weibo">
+野人孩子已出现动物化特征（热度：1885905）
 </a>
 </li>
 
@@ -1775,6 +1781,12 @@ GEN抽到TES（热度：1062021）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B9%B4%E7%BB%99%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%BA%86%E7%94%9F%23" target="weibo">
 魏大勋连续三年给孟宴臣庆生（热度：968443）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%B0%86%E7%BB%99%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E8%90%BD%E6%88%B7%E5%8C%97%E4%BA%AC%23" target="weibo">
+家属将给野人小孩落户北京（热度：967993）
 </a>
 </li>
 
@@ -4317,6 +4329,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%AA%E5%BE%92%E4%BB%8E%E5%8D%A2%E6%B5%AE%E5%AE%AB%E9%80%83%E8%B7%91%E6%97%B6%E6%8E%89%E8%90%BD%E7%9A%87%E5%86%A0%23" target="weibo">
+匪徒从卢浮宫逃跑时掉落皇冠（热度：574895）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BF%81%E5%B8%86%E8%AF%B4%E6%9C%89%E4%BB%96%E5%A4%9A%E5%B9%B4%E7%9A%84%E9%99%AA%E4%BC%B4%E6%88%91%E4%BD%95%E5%85%B6%E6%9C%89%E5%B9%B8%23" target="weibo">
 翁帆说有他多年的陪伴我何其有幸（热度：572649）
 </a>
@@ -5325,6 +5343,12 @@ GEN战胜T1（热度：526738）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8D%A2%E6%98%B1%E6%99%93%20%E6%8E%A5%E4%BA%8C%E6%90%AD%23" target="weibo">
+侯明昊卢昱晓 接二搭（热度：503435）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%BA%E4%BB%94%E5%B0%8F%E4%B9%94%E6%8E%89%E7%B2%89%E8%B6%85695%E4%B8%87%23" target="weibo">
 旺仔小乔掉粉超695万（热度：503410）
 </a>
@@ -5987,30 +6011,6 @@ Wei龙坑排眼（热度：465191）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E8%8A%82%E4%BF%AD%E4%BA%86%E4%B8%80%E8%BE%88%E5%AD%90%E6%9C%80%E5%90%8E%E6%A0%BD%E8%B1%86%E6%B1%81%E8%BA%AB%E4%B8%8A%E4%BA%86%23" target="weibo">
 奶奶节俭了一辈子最后栽豆汁身上了（热度：464771）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E5%87%8F%E6%88%90%E6%9D%A8%E5%B9%82%E4%BA%86%23" target="weibo">
-减肥减成杨幂了（热度：464305）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%9C%A8%E5%9B%BA%E6%80%81%E9%94%82%E7%94%B5%E6%B1%A0%E9%A2%86%E5%9F%9F%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4%23" target="weibo">
-我国在固态锂电池领域取得突破（热度：464187）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%8E%8E%E8%80%81%E5%85%AC%E4%B8%8A%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%E5%90%8E%E8%BE%9E%E8%81%8C%23" target="weibo">
-邓莎老公上再见爱人后辞职（热度：463530）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A8%B2%E6%96%B0%E7%9A%AE%E8%82%A4%23" target="weibo">
-女娲新皮肤（热度：462878）
 </a>
 </li>
 
