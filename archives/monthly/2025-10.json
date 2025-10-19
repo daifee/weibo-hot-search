@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760869475950,
+  "endTime": 1760870420633,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -1323,6 +1323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1198576,
+      "num": 1198576,
+      "word": "卢浮宫多件藏品被盗",
+      "onboard_time": 1760867780,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1197599,
       "num": 1197599,
       "word": "今年冬天将更冷",
@@ -1961,14 +1969,6 @@
       "onboard_time": 1760171301,
       "rank": 45,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 1040279,
-      "num": 1040279,
-      "word": "卢浮宫多件藏品被盗",
-      "onboard_time": 1760867780,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1039775,
@@ -3891,6 +3891,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 726753,
+      "num": 192069,
+      "word": "杨振宁父亲",
+      "onboard_time": 1760868020,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 726627,
       "num": 199255,
       "word": "阿沁回应被踢出飞儿乐团",
@@ -4769,14 +4777,6 @@
       "onboard_time": 1759764501,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 637752,
-      "num": 192069,
-      "word": "杨振宁父亲",
-      "onboard_time": 1760868020,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 637729,
@@ -7235,6 +7235,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 493296,
+      "num": 175903,
+      "word": "黄宗泽被开价5亿聘金当女婿",
+      "onboard_time": 1760869400,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 492874,
       "num": 492874,
       "word": "宗馥莉不在周末给一线员工发工作信息",
@@ -8928,6 +8936,14 @@
       "word": "母亲回应网传女儿高反被搭子抛弃",
       "onboard_time": 1760023041,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 419662,
+      "num": 182263,
+      "word": "野人小孩不是个例",
+      "onboard_time": 1760868382,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -16323,14 +16339,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 223658,
-      "num": 182263,
-      "word": "野人小孩不是个例",
-      "onboard_time": 1760868382,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 223509,
       "num": 223509,
       "word": "张继科说比赛输了就没下次了",
@@ -17467,6 +17475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207381,
+      "num": 160870,
+      "word": "孙乐言看到冯琳ootd眼都亮了",
+      "onboard_time": 1760869400,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207373,
       "num": 126918,
       "word": "国乒男团1比2日本",
@@ -18563,6 +18579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197747,
+      "num": 197747,
+      "word": "未来3天冷冷冷冷冷",
+      "onboard_time": 1760865801,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197674,
       "num": 191458,
       "word": "98岁母亲问67岁儿子做手术疼不疼",
@@ -19425,14 +19449,6 @@
       "onboard_time": 1760159961,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192083,
-      "num": 192083,
-      "word": "未来3天冷冷冷冷冷",
-      "onboard_time": 1760865801,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 192072,
@@ -23329,6 +23345,14 @@
       "onboard_time": 1760624424,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166736,
+      "num": 166736,
+      "word": "S15瑞士轮第四轮抽签",
+      "onboard_time": 1760868922,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 166730,
@@ -28033,14 +28057,6 @@
       "onboard_time": 1759409421,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 143116,
-      "num": 143116,
-      "word": "S15瑞士轮第四轮抽签",
-      "onboard_time": 1760868922,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 143035,
@@ -33723,6 +33739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124400,
+      "num": 161524,
+      "word": "短剧真情侣就是好嗑",
+      "onboard_time": 1760869641,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124376,
       "num": 124376,
       "word": "荷兰被批劫掠中企",
@@ -38875,6 +38899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111279,
+      "num": 111279,
+      "word": "广东省考 本来应该从从容容",
+      "onboard_time": 1760869522,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 111256,
       "num": 111256,
       "word": "智能手表测睡眠真的靠谱吗",
@@ -40235,6 +40267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108694,
+      "num": 108694,
+      "word": "女子被救后举报施救者侵犯肖像权",
+      "onboard_time": 1760869762,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108664,
       "num": 135910,
       "word": "男子开飞机15分钟回老家过国庆",
@@ -40665,6 +40705,14 @@
       "onboard_time": 1760440461,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107719,
+      "num": 107719,
+      "word": "被拐18年男孩住孙海洋家附近7年",
+      "onboard_time": 1760869101,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107702,
@@ -41249,14 +41297,6 @@
       "onboard_time": 1759835780,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106684,
-      "num": 106684,
-      "word": "黄宗泽被开价5亿聘金当女婿",
-      "onboard_time": 1760869400,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 106663,
@@ -43267,6 +43307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102270,
+      "num": 102270,
+      "word": "锦州烧烤",
+      "onboard_time": 1760870001,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 102262,
       "num": 102262,
       "word": "王欣瑜挂着labubu想着wakuku",
@@ -44009,6 +44057,14 @@
       "onboard_time": 1760618781,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100737,
+      "num": 100737,
+      "word": "韩称一朝鲜军人越过军事分界线",
+      "onboard_time": 1760868202,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100724,
@@ -46203,14 +46259,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 95263,
-      "num": 95263,
-      "word": "孙乐言看到冯琳ootd眼都亮了",
-      "onboard_time": 1760869400,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95258,
       "num": 95258,
       "word": "普京称解放近5000平方公里领土",
@@ -47811,14 +47859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91763,
-      "num": 91763,
-      "word": "被拐18年男孩住孙海洋家附近7年",
-      "onboard_time": 1760869101,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91756,
       "num": 91756,
       "word": "香港警方回应豪宅双尸案",
@@ -47881,6 +47921,14 @@
       "onboard_time": 1759399159,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 91511,
+      "num": 91511,
+      "word": "南天门计划紫火太火了",
+      "onboard_time": 1760870240,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91474,
@@ -49185,6 +49233,14 @@
       "onboard_time": 1760431641,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 88391,
+      "num": 88391,
+      "word": "中国短道速滑男子接力犯规无缘决赛",
+      "onboard_time": 1760869822,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 88339,
@@ -52369,6 +52425,14 @@
       "onboard_time": 1759916241,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 79769,
+      "num": 79769,
+      "word": "深圳市政也太听劝了",
+      "onboard_time": 1760867001,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79703,
@@ -62785,6 +62849,14 @@
       "onboard_time": 1760118675,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14333,
+      "num": 100760,
+      "word": "安世中国发致员工信",
+      "onboard_time": 1760870301,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14331,

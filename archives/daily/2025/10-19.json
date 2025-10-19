@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760869475950,
+  "endTime": 1760870420633,
   "band_list": [
     {
       "raw_hot": 2202319,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1198576,
+      "num": 1198576,
+      "word": "卢浮宫多件藏品被盗",
+      "onboard_time": 1760867780,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1152492,
       "num": 1184398,
       "word": "当年微信可是求着我上线",
@@ -41,14 +49,6 @@
       "onboard_time": 1760845221,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1040279,
-      "num": 1040279,
-      "word": "卢浮宫多件藏品被盗",
-      "onboard_time": 1760867780,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 995617,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 726753,
+      "num": 192069,
+      "word": "杨振宁父亲",
+      "onboard_time": 1760868020,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 717000,
       "num": 247155,
       "word": "跳河新郎亲属放弃追究新娘方责任",
@@ -136,14 +144,6 @@
       "word": "沙县小吃12元鸡腿饭减肥餐火了",
       "onboard_time": 1760852422,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 637752,
-      "num": 192069,
-      "word": "杨振宁父亲",
-      "onboard_time": 1760868020,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -219,6 +219,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 493296,
+      "num": 175903,
+      "word": "黄宗泽被开价5亿聘金当女婿",
+      "onboard_time": 1760869400,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487490,
       "num": 454257,
       "word": "请求核查野人男孩父母收入来源",
@@ -265,6 +273,14 @@
       "onboard_time": 1760862741,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 419662,
+      "num": 182263,
+      "word": "野人小孩不是个例",
+      "onboard_time": 1760868382,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 418821,
@@ -555,14 +571,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 223658,
-      "num": 182263,
-      "word": "野人小孩不是个例",
-      "onboard_time": 1760868382,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222405,
       "num": 222405,
       "word": "刘雨昕说和THE9都有联系",
@@ -603,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207381,
+      "num": 160870,
+      "word": "孙乐言看到冯琳ootd眼都亮了",
+      "onboard_time": 1760869400,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207308,
       "num": 202427,
       "word": "喝豆浆真的能补雌激素吗",
@@ -625,6 +641,14 @@
       "onboard_time": 1760865442,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197747,
+      "num": 197747,
+      "word": "未来3天冷冷冷冷冷",
+      "onboard_time": 1760865801,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195819,
@@ -657,14 +681,6 @@
       "onboard_time": 1760847020,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192083,
-      "num": 192083,
-      "word": "未来3天冷冷冷冷冷",
-      "onboard_time": 1760865801,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191980,
@@ -769,6 +785,14 @@
       "onboard_time": 1760853560,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166736,
+      "num": 166736,
+      "word": "S15瑞士轮第四轮抽签",
+      "onboard_time": 1760868922,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 166730,
@@ -921,14 +945,6 @@
       "onboard_time": 1760862440,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 143116,
-      "num": 143116,
-      "word": "S15瑞士轮第四轮抽签",
-      "onboard_time": 1760868922,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 139537,
@@ -1147,6 +1163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124400,
+      "num": 161524,
+      "word": "短剧真情侣就是好嗑",
+      "onboard_time": 1760869641,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124305,
       "num": 124305,
       "word": "王影璐偏偏你最争气",
@@ -1331,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111279,
+      "num": 111279,
+      "word": "广东省考 本来应该从从容容",
+      "onboard_time": 1760869522,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 110688,
       "num": 110688,
       "word": "走失3天女童吃上棒棒糖了",
@@ -1371,6 +1403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108694,
+      "num": 108694,
+      "word": "女子被救后举报施救者侵犯肖像权",
+      "onboard_time": 1760869762,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108589,
       "num": 108589,
       "word": "村民回应2年前初见野人孩子",
@@ -1395,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107719,
+      "num": 107719,
+      "word": "被拐18年男孩住孙海洋家附近7年",
+      "onboard_time": 1760869101,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107282,
       "num": 107282,
       "word": "网购金豆含金量为0",
@@ -1408,14 +1456,6 @@
       "word": "央视镜头下的李艾",
       "onboard_time": 1760846180,
       "rank": 46,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 106684,
-      "num": 106684,
-      "word": "黄宗泽被开价5亿聘金当女婿",
-      "onboard_time": 1760869400,
-      "rank": 35,
       "category": "艺人"
     },
     {
@@ -1507,6 +1547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102270,
+      "num": 102270,
+      "word": "锦州烧烤",
+      "onboard_time": 1760870001,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 101983,
       "num": 146491,
       "word": "HPV科普遇见麦迪校园行",
@@ -1537,6 +1585,14 @@
       "onboard_time": 1760847860,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 100737,
+      "num": 100737,
+      "word": "韩称一朝鲜军人越过军事分界线",
+      "onboard_time": 1760868202,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100724,
@@ -1651,14 +1707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95263,
-      "num": 95263,
-      "word": "孙乐言看到冯琳ootd眼都亮了",
-      "onboard_time": 1760869400,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 94219,
       "num": 94219,
       "word": "时尚先生",
@@ -1747,11 +1795,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91763,
-      "num": 91763,
-      "word": "被拐18年男孩住孙海洋家附近7年",
-      "onboard_time": 1760869101,
-      "rank": 46,
+      "raw_hot": 91511,
+      "num": 91511,
+      "word": "南天门计划紫火太火了",
+      "onboard_time": 1760870240,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -1825,6 +1873,14 @@
       "onboard_time": 1760835501,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 88391,
+      "num": 88391,
+      "word": "中国短道速滑男子接力犯规无缘决赛",
+      "onboard_time": 1760869822,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 88268,
@@ -2009,6 +2065,14 @@
       "onboard_time": 1760802923,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 79769,
+      "num": 79769,
+      "word": "深圳市政也太听劝了",
+      "onboard_time": 1760867001,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79637,
@@ -2601,6 +2665,14 @@
       "onboard_time": 1760810716,
       "rank": 49,
       "category": "体育,作品衍生"
+    },
+    {
+      "raw_hot": 14333,
+      "num": 100760,
+      "word": "安世中国发致员工信",
+      "onboard_time": 1760870301,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14331,
