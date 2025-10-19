@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760859403751,
+  "endTime": 1760862582006,
   "band_list": [
     {
       "raw_hot": 2202319,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 792089,
+      "num": 157319,
+      "word": "奚梦瑶何猷君带儿子出席活动",
+      "onboard_time": 1760857460,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 753854,
       "num": 238824,
       "word": "男子喝奶茶的黄金吸管骑车时丢失",
@@ -121,6 +129,14 @@
       "onboard_time": 1760805440,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 588046,
+      "num": 1094087,
+      "word": "广东省考提前",
+      "onboard_time": 1760859023,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 572649,
@@ -283,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 345785,
+      "num": 147263,
+      "word": "百万粉丝吃播网红切胃",
+      "onboard_time": 1760857399,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
       "raw_hot": 338995,
       "num": 200059,
       "word": "金饰克价一夜降17元",
@@ -305,14 +329,6 @@
       "onboard_time": 1760839761,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 322409,
-      "num": 157319,
-      "word": "奚梦瑶何猷君带儿子出席活动",
-      "onboard_time": 1760857460,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 305060,
@@ -435,6 +451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 226100,
+      "num": 135495,
+      "word": "嫁到韩国的女子晒婆婆做的家常菜",
+      "onboard_time": 1760862560,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 222405,
       "num": 222405,
       "word": "刘雨昕说和THE9都有联系",
@@ -467,11 +491,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215777,
+      "num": 215777,
+      "word": "好爸爸梁靖崑带娃日常",
+      "onboard_time": 1760858900,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206928,
       "num": 206928,
       "word": "郭碧婷爸爸回应女儿一人养家",
       "onboard_time": 1760791642,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197795,
+      "num": 136905,
+      "word": "徐艺洋回复谢可寅",
+      "onboard_time": 1760861481,
+      "rank": 16,
       "category": "艺人"
     },
     {
@@ -513,14 +553,6 @@
       "onboard_time": 1760845281,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188544,
-      "num": 147263,
-      "word": "百万粉丝吃播网红切胃",
-      "onboard_time": 1760857399,
-      "rank": 23,
-      "category": "网红"
     },
     {
       "raw_hot": 184536,
@@ -611,14 +643,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 161694,
-      "num": 161694,
-      "word": "广东省考提前",
-      "onboard_time": 1760859023,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 161377,
       "num": 161377,
       "word": "没有伴郎提醒新郎已经回家装显卡了",
@@ -657,6 +681,14 @@
       "onboard_time": 1760844379,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154666,
+      "num": 136192,
+      "word": "卖崽青蛙已经成为美国抵抗军旗帜",
+      "onboard_time": 1760860521,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 153781,
@@ -699,12 +731,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139537,
+      "num": 119995,
+      "word": "新加坡成了新德里",
+      "onboard_time": 1760861600,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 139485,
-      "num": 123935,
+      "num": 132243,
       "word": "猫挂网上了 又被主人挂网上了",
       "onboard_time": 1760858361,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138891,
+      "num": 138891,
+      "word": "老年艾滋病患者数量快速增加",
+      "onboard_time": 1760857881,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138313,
@@ -763,12 +811,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 134330,
-      "num": 134330,
-      "word": "好爸爸梁靖崑带娃日常",
-      "onboard_time": 1760858900,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 134749,
+      "num": 134749,
+      "word": "刘嘉玲问刘晓庆繁花1谁是领队",
+      "onboard_time": 1760859440,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 134122,
@@ -843,12 +891,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122520,
+      "num": 122520,
+      "word": "广东省考公告",
+      "onboard_time": 1760860040,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 122298,
+      "num": 116321,
+      "word": "惠英红杨幂张小斐 恶女集团",
+      "onboard_time": 1760862499,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 122050,
       "num": 122050,
       "word": "小区10个月停水11次最长停10天",
       "onboard_time": 1760847620,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121713,
+      "num": 121713,
+      "word": "喝豆浆真的能补雌激素吗",
+      "onboard_time": 1760861841,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 121147,
@@ -929,6 +1001,14 @@
       "onboard_time": 1760856140,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117321,
+      "num": 117321,
+      "word": "何穗曾表示想早点生小孩",
+      "onboard_time": 1760860581,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 116424,
@@ -1019,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108081,
+      "num": 121849,
+      "word": "利剑玫瑰",
+      "onboard_time": 1760860341,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108046,
       "num": 108046,
       "word": "这居然是任敏",
@@ -1075,12 +1163,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104183,
+      "num": 104183,
+      "word": "广东省考招录人数较去年减少32%",
+      "onboard_time": 1760862440,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 104115,
       "num": 104115,
       "word": "网购定制婚礼布幔10天后退回破布",
       "onboard_time": 1760840000,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103667,
+      "num": 103667,
+      "word": "宁静张柏芝拒绝当繁花2领队",
+      "onboard_time": 1760860521,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 103602,
@@ -1171,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97852,
+      "num": 97852,
+      "word": "杨振宁晚年在清华缅怀室楼里工作",
+      "onboard_time": 1760860458,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97136,
       "num": 97136,
       "word": "肚腩变大可能是缺雌激素",
@@ -1235,14 +1347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 93893,
-      "num": 93893,
-      "word": "老年艾滋病患者数量快速增加",
-      "onboard_time": 1760857881,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93747,
       "num": 93747,
       "word": "顶流零食蒟蒻果冻到底是啥",
@@ -1251,12 +1355,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 93488,
+      "num": 121718,
+      "word": "旅综最担心的事情还是出现了",
+      "onboard_time": 1760861001,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93373,
       "num": 136344,
       "word": "石宇奇安赛龙争执致比赛中断",
       "onboard_time": 1760848040,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92544,
+      "num": 92544,
+      "word": "罗云熙出声干大事",
+      "onboard_time": 1760862381,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 92116,
@@ -1347,6 +1467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 88268,
+      "num": 88268,
+      "word": "增强做中国人的志气骨气底气",
+      "onboard_time": 1760860700,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 88214,
       "num": 88214,
       "word": "清华设立杨振宁缅怀室接受吊唁",
@@ -1376,6 +1504,14 @@
       "word": "黄景瑜东北人包饺子这一块",
       "onboard_time": 1760858361,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 85548,
+      "num": 85548,
+      "word": "孙乐言说offer7熟人太多了",
+      "onboard_time": 1760862199,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1449,6 +1585,14 @@
       "onboard_time": 1760852721,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82141,
+      "num": 82141,
+      "word": "周杰伦说真是伤脑筋",
+      "onboard_time": 1760862560,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 81835,
@@ -1561,6 +1705,14 @@
       "onboard_time": 1760839641,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77742,
+      "num": 84989,
+      "word": "朱志鑫你这样可没人跟你玩了",
+      "onboard_time": 1760861059,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 77599,
@@ -1827,6 +1979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47464,
+      "num": 135770,
+      "word": "MKOI对战FNC",
+      "onboard_time": 1760862140,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 46143,
       "num": 46143,
       "word": "王玉雯大衣配凉鞋",
@@ -1865,6 +2025,14 @@
       "onboard_time": 1760838680,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38857,
+      "num": 94251,
+      "word": "苏晓彤因说话太直得罪男演员被换掉",
+      "onboard_time": 1760862440,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 37475,
@@ -2057,6 +2225,14 @@
       "onboard_time": 1760856080,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11014,
+      "num": 137346,
+      "word": "闯入浪浪友人部落现场",
+      "onboard_time": 1760860880,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 10726,
