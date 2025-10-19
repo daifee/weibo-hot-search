@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760880505814,
+  "endTime": 1760881185508,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 1762143,
-      "num": 285920,
+      "num": 391533,
       "word": "黄宗泽被开价5亿聘金当女婿",
       "onboard_time": 1760869400,
       "rank": 35,
@@ -955,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1422125,
+      "num": 1422125,
+      "word": "卢浮宫一件被盗文物已损毁",
+      "onboard_time": 1760876183,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1411855,
       "num": 213301,
       "word": "王俊凯工作室修图遗落了个鼻子",
@@ -1241,14 +1249,6 @@
       "onboard_time": 1759568000,
       "rank": 3,
       "category": "汽车,网红"
-    },
-    {
-      "raw_hot": 1242927,
-      "num": 1242927,
-      "word": "卢浮宫一件被盗文物已损毁",
-      "onboard_time": 1760876183,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1235949,
@@ -1897,6 +1897,14 @@
       "onboard_time": 1759744100,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1062021,
+      "num": 1062021,
+      "word": "GEN抽到TES",
+      "onboard_time": 1760880562,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 1058745,
@@ -4044,7 +4052,7 @@
     },
     {
       "raw_hot": 712303,
-      "num": 289851,
+      "num": 392141,
       "word": "邵雨轩 复旦学子来也",
       "onboard_time": 1760875582,
       "rank": 11,
@@ -5113,6 +5121,14 @@
       "onboard_time": 1760444720,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 616626,
+      "num": 616626,
+      "word": "南通vs无锡",
+      "onboard_time": 1760875702,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 616330,
@@ -7307,6 +7323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 492481,
+      "num": 492481,
+      "word": "入青云热度",
+      "onboard_time": 1759922780,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 491167,
       "num": 200433,
       "word": "原来马思纯说的这个人是杨紫",
@@ -8083,14 +8107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 454697,
-      "num": 454697,
-      "word": "入青云热度",
-      "onboard_time": 1759922780,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 454179,
       "num": 454179,
       "word": "沈佳润音乐节没报备版美美Sunday",
@@ -8161,6 +8177,14 @@
       "onboard_time": 1760070682,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 451750,
+      "num": 451750,
+      "word": "刘青松抽签",
+      "onboard_time": 1760880201,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 451660,
@@ -9427,14 +9451,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 401984,
-      "num": 401984,
-      "word": "南通vs无锡",
-      "onboard_time": 1760875702,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 401979,
       "num": 401979,
       "word": "中方一个个点名多个国家劣迹",
@@ -9547,6 +9563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 396146,
+      "num": 396146,
+      "word": "印度食脑虫已致26人死亡",
+      "onboard_time": 1760876120,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 396129,
       "num": 253591,
       "word": "你叫王影璐 你又叫李昀锐",
@@ -9657,6 +9681,14 @@
       "onboard_time": 1760322499,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 391166,
+      "num": 391166,
+      "word": "BLG签运",
+      "onboard_time": 1760880562,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 390999,
@@ -10451,6 +10483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 363495,
+      "num": 297247,
+      "word": "S15瑞士轮第四轮抽签",
+      "onboard_time": 1760868922,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 363049,
       "num": 363049,
       "word": "国考审核人员 好强的活人感",
@@ -11027,6 +11067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342528,
+      "num": 342528,
+      "word": "披荆斩棘总决赛",
+      "onboard_time": 1760879301,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 342174,
       "num": 300346,
       "word": "陈震称以车辆EDR数据通告为准",
@@ -11081,14 +11129,6 @@
       "onboard_time": 1759670724,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 339798,
-      "num": 339798,
-      "word": "印度食脑虫已致26人死亡",
-      "onboard_time": 1760876120,
-      "rank": 15,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 339183,
@@ -11529,6 +11569,14 @@
       "onboard_time": 1759827441,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 323521,
+      "num": 323521,
+      "word": "奔跑吧特别季",
+      "onboard_time": 1760876962,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 323347,
@@ -12699,6 +12747,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 295755,
+      "num": 295755,
+      "word": "盗窃者用升降吊篮进入卢浮宫",
+      "onboard_time": 1760879481,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 295616,
       "num": 295616,
       "word": "黄雅莉回应第一笔工资有八万块",
@@ -13369,14 +13425,6 @@
       "onboard_time": 1760175140,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 281118,
-      "num": 281118,
-      "word": "S15瑞士轮第四轮抽签",
-      "onboard_time": 1760868922,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 281077,
@@ -14473,14 +14521,6 @@
       "onboard_time": 1759986800,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 257810,
-      "num": 257810,
-      "word": "奔跑吧特别季",
-      "onboard_time": 1760876962,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 257808,
@@ -16347,14 +16387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 225760,
-      "num": 225760,
-      "word": "盗窃者用升降吊篮进入卢浮宫",
-      "onboard_time": 1760879481,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 225488,
       "num": 411415,
       "word": "JDG战胜KSG",
@@ -17347,14 +17379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210048,
-      "num": 210048,
-      "word": "披荆斩棘总决赛",
-      "onboard_time": 1760879301,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209853,
       "num": 209853,
       "word": "刘晓庆说的不背词演员是谁",
@@ -17545,6 +17569,14 @@
       "onboard_time": 1759835601,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207849,
+      "num": 308038,
+      "word": "贵州失联2岁女童已找到",
+      "onboard_time": 1760880082,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207812,
@@ -20635,6 +20667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184821,
+      "num": 184821,
+      "word": "杨振宁在平静安详中从容离开",
+      "onboard_time": 1760878882,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184760,
       "num": 128507,
       "word": "许我耀眼都市爽剧爆改抽象癫剧",
@@ -22963,14 +23003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169740,
-      "num": 169740,
-      "word": "杨振宁在平静安详中从容离开",
-      "onboard_time": 1760878882,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169660,
       "num": 162751,
       "word": "时代少年团高鼻梁这一块",
@@ -23499,14 +23531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166789,
-      "num": 166789,
-      "word": "刘青松抽签",
-      "onboard_time": 1760880201,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 166768,
       "num": 166768,
       "word": "雷军呼吁企业共同抵制水军黑公关",
@@ -23633,6 +23657,14 @@
       "onboard_time": 1759399401,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166276,
+      "num": 166276,
+      "word": "Karsa告别S15",
+      "onboard_time": 1760880622,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 166242,
@@ -24844,7 +24876,7 @@
     },
     {
       "raw_hot": 159459,
-      "num": 166907,
+      "num": 315767,
       "word": "入青云追剧日历呢",
       "onboard_time": 1760874141,
       "rank": 25,
@@ -26643,6 +26675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 150571,
+      "num": 150571,
+      "word": "VKS战胜PSG",
+      "onboard_time": 1760880082,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150540,
       "num": 150540,
       "word": "黄奕救助的烧烫伤孩子十年变化",
@@ -28337,14 +28377,6 @@
       "onboard_time": 1760708663,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142890,
-      "num": 142890,
-      "word": "VKS战胜PSG",
-      "onboard_time": 1760880082,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 142858,
@@ -34251,6 +34283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123692,
+      "num": 123692,
+      "word": "歼10将飞抵印尼",
+      "onboard_time": 1760880922,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123678,
       "num": 123678,
       "word": "张康乐晒猫",
@@ -40059,6 +40099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109768,
+      "num": 109768,
+      "word": "全网都在等刘青松抽签",
+      "onboard_time": 1760880683,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109752,
       "num": 109752,
       "word": "央视曝光奢侈品低价代购骗局",
@@ -42323,6 +42371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105241,
+      "num": 105241,
+      "word": "贵州2岁女童家门口失踪超40小时",
+      "onboard_time": 1760880683,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105221,
       "num": 105221,
       "word": "杨幂维密粉毯G社生图",
@@ -42377,6 +42433,14 @@
       "onboard_time": 1760710103,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 105101,
+      "num": 105101,
+      "word": "情侣用小麦留印记",
+      "onboard_time": 1760880862,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 105096,
@@ -42772,7 +42836,7 @@
     },
     {
       "raw_hot": 104102,
-      "num": 813159,
+      "num": 1094704,
       "word": "十四五期间这些大国重器出圈了",
       "onboard_time": 1760664020,
       "rank": 30,
@@ -49113,14 +49177,6 @@
       "onboard_time": 1760186960,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 89826,
-      "num": 206855,
-      "word": "贵州失联2岁女童已找到",
-      "onboard_time": 1760880082,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89786,
@@ -60251,6 +60307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 38219,
+      "num": 351857,
+      "word": "德云社嘴皮子有多厉害",
+      "onboard_time": 1760878882,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38186,
       "num": 108908,
       "word": "全国南北温差50度",
@@ -61905,14 +61969,6 @@
       "onboard_time": 1759309221,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26610,
-      "num": 260197,
-      "word": "德云社嘴皮子有多厉害",
-      "onboard_time": 1760878882,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 26312,

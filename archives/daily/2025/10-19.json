@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760880505814,
+  "endTime": 1760881185508,
   "band_list": [
     {
       "raw_hot": 2202319,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1762143,
-      "num": 285920,
+      "num": 391533,
       "word": "黄宗泽被开价5亿聘金当女婿",
       "onboard_time": 1760869400,
       "rank": 35,
@@ -43,8 +43,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1242927,
-      "num": 1242927,
+      "raw_hot": 1422125,
+      "num": 1422125,
       "word": "卢浮宫一件被盗文物已损毁",
       "onboard_time": 1760876183,
       "rank": 4,
@@ -73,6 +73,14 @@
       "onboard_time": 1760845221,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1062021,
+      "num": 1062021,
+      "word": "GEN抽到TES",
+      "onboard_time": 1760880562,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 995617,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 712303,
-      "num": 289851,
+      "num": 392141,
       "word": "邵雨轩 复旦学子来也",
       "onboard_time": 1760875582,
       "rank": 11,
@@ -185,6 +193,14 @@
       "onboard_time": 1760852422,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 616626,
+      "num": 616626,
+      "word": "南通vs无锡",
+      "onboard_time": 1760875702,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 601734,
@@ -267,6 +283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 492481,
+      "num": 492481,
+      "word": "入青云热度",
+      "onboard_time": 1760876183,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 487490,
       "num": 454257,
       "word": "请求核查野人男孩父母收入来源",
@@ -299,14 +323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 454697,
-      "num": 454697,
-      "word": "入青云热度",
-      "onboard_time": 1760876183,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 454179,
       "num": 454179,
       "word": "沈佳润音乐节没报备版美美Sunday",
@@ -321,6 +337,14 @@
       "onboard_time": 1760862741,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 451750,
+      "num": 451750,
+      "word": "刘青松抽签",
+      "onboard_time": 1760880201,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 441124,
@@ -379,12 +403,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 401984,
-      "num": 401984,
-      "word": "南通vs无锡",
-      "onboard_time": 1760875702,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 396146,
+      "num": 396146,
+      "word": "印度食脑虫已致26人死亡",
+      "onboard_time": 1760876120,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 391166,
+      "num": 391166,
+      "word": "BLG签运",
+      "onboard_time": 1760880562,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 384557,
@@ -419,6 +451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 363495,
+      "num": 297247,
+      "word": "S15瑞士轮第四轮抽签",
+      "onboard_time": 1760868922,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 356756,
       "num": 237524,
       "word": "李沁 顶级P人",
@@ -451,12 +491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 339798,
-      "num": 339798,
-      "word": "印度食脑虫已致26人死亡",
-      "onboard_time": 1760876120,
-      "rank": 15,
-      "category": "海外新闻"
+      "raw_hot": 342528,
+      "num": 342528,
+      "word": "披荆斩棘总决赛",
+      "onboard_time": 1760879301,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 338995,
@@ -481,6 +521,14 @@
       "onboard_time": 1760839761,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 323521,
+      "num": 323521,
+      "word": "奔跑吧特别季",
+      "onboard_time": 1760876962,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 321185,
@@ -531,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295755,
+      "num": 295755,
+      "word": "盗窃者用升降吊篮进入卢浮宫",
+      "onboard_time": 1760879481,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 291634,
       "num": 262206,
       "word": "杨振宁20年前预言已基本实现",
@@ -571,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 281118,
-      "num": 281118,
-      "word": "S15瑞士轮第四轮抽签",
-      "onboard_time": 1760868922,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 279290,
       "num": 279290,
       "word": "卢浮宫持械抢劫事件",
@@ -603,14 +651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 257810,
-      "num": 257810,
-      "word": "奔跑吧特别季",
-      "onboard_time": 1760876962,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 255891,
       "num": 204766,
       "word": "农商行员工被要求退回三年过节费",
@@ -625,6 +665,14 @@
       "onboard_time": 1760833759,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 244739,
+      "num": 670143,
+      "word": "入青云",
+      "onboard_time": 1760786302,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 241053,
@@ -691,14 +739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 225760,
-      "num": 225760,
-      "word": "盗窃者用升降吊篮进入卢浮宫",
-      "onboard_time": 1760879481,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 224441,
       "num": 1024509,
       "word": "以色列空袭加沙南部拉法地区",
@@ -739,28 +779,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 216686,
-      "num": 670143,
-      "word": "入青云",
-      "onboard_time": 1760786302,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 210048,
-      "num": 210048,
-      "word": "披荆斩棘总决赛",
-      "onboard_time": 1760879301,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 209154,
       "num": 209154,
       "word": "辛巴罚款赵梦澈100万",
       "onboard_time": 1760870962,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 207849,
+      "num": 308038,
+      "word": "贵州失联2岁女童已找到",
+      "onboard_time": 1760880082,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207381,
@@ -875,6 +907,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188143,
+      "num": 188143,
+      "word": "苏超",
+      "onboard_time": 1760875222,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184821,
+      "num": 184821,
+      "word": "杨振宁在平静安详中从容离开",
+      "onboard_time": 1760878882,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184626,
       "num": 144826,
       "word": "疑似T1队员国服ID",
@@ -955,14 +1003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 169740,
-      "num": 169740,
-      "word": "杨振宁在平静安详中从容离开",
-      "onboard_time": 1760878882,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168414,
       "num": 168414,
       "word": "锦州文旅就看你的了",
@@ -979,14 +1019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 166789,
-      "num": 166789,
-      "word": "刘青松抽签",
-      "onboard_time": 1760880201,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 166730,
       "num": 692334,
       "word": "我国成功发射力箭一号遥八运载火箭",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1760844559,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166276,
+      "num": 166276,
+      "word": "Karsa告别S15",
+      "onboard_time": 1760880622,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 165692,
@@ -1060,7 +1100,7 @@
     },
     {
       "raw_hot": 159459,
-      "num": 166907,
+      "num": 315767,
       "word": "入青云追剧日历呢",
       "onboard_time": 1760874141,
       "rank": 25,
@@ -1139,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150571,
+      "num": 150571,
+      "word": "VKS战胜PSG",
+      "onboard_time": 1760880082,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 149832,
       "num": 149832,
       "word": "国家安全部发文致敬聂曦烈士",
@@ -1185,14 +1233,6 @@
       "onboard_time": 1760862440,
       "rank": 35,
       "category": "教育"
-    },
-    {
-      "raw_hot": 142890,
-      "num": 142890,
-      "word": "VKS战胜PSG",
-      "onboard_time": 1760880082,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 139608,
@@ -1475,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123692,
+      "num": 123692,
+      "word": "歼10将飞抵印尼",
+      "onboard_time": 1760880922,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123665,
       "num": 123665,
       "word": "周杰伦说真是伤脑筋",
@@ -1731,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109768,
+      "num": 109768,
+      "word": "全网都在等刘青松抽签",
+      "onboard_time": 1760880683,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109365,
       "num": 109365,
       "word": "李兰迪怎么美成这样",
@@ -1811,20 +1867,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105241,
+      "num": 105241,
+      "word": "贵州2岁女童家门口失踪超40小时",
+      "onboard_time": 1760880683,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105101,
+      "num": 105101,
+      "word": "情侣用小麦留印记",
+      "onboard_time": 1760880862,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104575,
       "num": 124347,
       "word": "一路繁花这季的俩男仆是谁",
       "onboard_time": 1760846841,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 104419,
-      "num": 104419,
-      "word": "苏超",
-      "onboard_time": 1760875222,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 104115,
@@ -2265,14 +2329,6 @@
       "onboard_time": 1760863221,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 89826,
-      "num": 206855,
-      "word": "贵州失联2岁女童已找到",
-      "onboard_time": 1760880082,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 89684,
@@ -3011,6 +3067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41612,
+      "num": 1094704,
+      "word": "十四五期间这些大国重器出圈了",
+      "onboard_time": 1760879243,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40774,
       "num": 64577,
       "word": "每个省都有自己专属应急食物",
@@ -3051,6 +3115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38219,
+      "num": 351857,
+      "word": "德云社嘴皮子有多厉害",
+      "onboard_time": 1760878882,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37475,
       "num": 42934,
       "word": "汪苏泷又出神图了",
@@ -3081,14 +3153,6 @@
       "onboard_time": 1760878882,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32730,
-      "num": 813159,
-      "word": "十四五期间这些大国重器出圈了",
-      "onboard_time": 1760879243,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32551,
@@ -3145,14 +3209,6 @@
       "onboard_time": 1760868081,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 26610,
-      "num": 260197,
-      "word": "德云社嘴皮子有多厉害",
-      "onboard_time": 1760878882,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 26033,

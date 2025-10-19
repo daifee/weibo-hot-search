@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 21:28:25
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 21:39:45
 </p>
 </blockquote>
 <p>
@@ -729,6 +729,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E4%B8%80%E4%BB%B6%E8%A2%AB%E7%9B%97%E6%96%87%E7%89%A9%E5%B7%B2%E6%8D%9F%E6%AF%81%23" target="weibo">
+卢浮宫一件被盗文物已损毁（热度：1422125）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%BF%AE%E5%9B%BE%E9%81%97%E8%90%BD%E4%BA%86%E4%B8%AA%E9%BC%BB%E5%AD%90%23" target="weibo">
 王俊凯工作室修图遗落了个鼻子（热度：1411855）
 </a>
@@ -941,12 +947,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E8%87%B4%E6%AD%89%23" target="weibo">
 陈震致歉（热度：1249025）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E4%B8%80%E4%BB%B6%E8%A2%AB%E7%9B%97%E6%96%87%E7%89%A9%E5%B7%B2%E6%8D%9F%E6%AF%81%23" target="weibo">
-卢浮宫一件被盗文物已损毁（热度：1242927）
 </a>
 </li>
 
@@ -1433,6 +1433,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E9%97%A8%E5%B1%B1%E6%99%AF%E5%8C%BA%E9%81%93%E6%AD%89%23" target="weibo">
 天门山景区道歉（热度：1062602）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23GEN%E6%8A%BD%E5%88%B0TES%23" target="weibo">
+GEN抽到TES（热度：1062021）
 </a>
 </li>
 
@@ -3849,6 +3855,12 @@ JDG战胜狼队（热度：630844）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9Avs%E6%97%A0%E9%94%A1%23" target="weibo">
+南通vs无锡（热度：616626）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%BB%A1%E8%B4%AF%E4%BA%9A%E5%86%9B%23" target="weibo">
 孙颖莎中国大满贯亚军（热度：616330）
 </a>
@@ -5493,6 +5505,12 @@ iPhone的一生要经历三次死亡（热度：494807）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%E7%83%AD%E5%BA%A6%23" target="weibo">
+入青云热度（热度：492481）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%A9%AC%E6%80%9D%E7%BA%AF%E8%AF%B4%E7%9A%84%E8%BF%99%E4%B8%AA%E4%BA%BA%E6%98%AF%E6%9D%A8%E7%B4%AB%23" target="weibo">
 原来马思纯说的这个人是杨紫（热度：491167）
 </a>
@@ -5993,24 +6011,6 @@ TaylorSwift忘了通知EdSheeran订婚（热度：461697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%93%AD%E8%AF%89%E5%9B%BD%E5%AE%B6%E6%B2%A1%E6%9C%89%E5%AD%98%E5%9C%A8%E6%84%9F%23" target="weibo">
 韩国博主哭诉国家没有存在感（热度：459098）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%86%A0%E5%86%9B%23" target="weibo">
-王曼昱冠军（热度：458804）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%9B%E5%A4%A7%E9%9B%86%E5%9B%A2CEO%E5%B0%86%E8%B5%B4%E6%B5%B7%E6%B9%96%E5%BA%84%E5%9B%AD%23" target="weibo">
-韩四大集团CEO将赴海湖庄园（热度：458474）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23UNINE%E5%90%88%E4%BD%93%23" target="weibo">
-UNINE合体（热度：458011）
 </a>
 </li>
 
