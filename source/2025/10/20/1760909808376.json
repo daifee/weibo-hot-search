@@ -1,0 +1,410 @@
+{
+  "runTime": 1760909808376,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 46856,
+        "num": 167497,
+        "word": "卢浮宫多件藏品被盗",
+        "onboard_time": 1760867780,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38434,
+        "num": 38434,
+        "word": "50克金条订单被拦截买家发声",
+        "onboard_time": 1760888122,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12574,
+        "num": 31873,
+        "word": "十四五期间这些大国重器出圈了",
+        "onboard_time": 1760879243,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27371,
+        "num": 27371,
+        "word": "把生命力养起来的方法",
+        "onboard_time": 1760894716,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25360,
+        "num": 25360,
+        "word": "利物浦1比2曼联",
+        "onboard_time": 1760898435,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32359,
+        "num": 24519,
+        "word": "卢浮宫一件被盗文物已损毁",
+        "onboard_time": 1760876183,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 31440,
+        "num": 24242,
+        "word": "匪徒从卢浮宫逃跑时掉落皇冠",
+        "onboard_time": 1760885183,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 23290,
+        "num": 23290,
+        "word": "入青云",
+        "onboard_time": 1760880201,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19804,
+        "num": 23162,
+        "word": "女子7万买游乐场设施直呼太疯狂",
+        "onboard_time": 1760887281,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19451,
+        "num": 22901,
+        "word": "卢浮宫找回一件被盗珠宝",
+        "onboard_time": 1760873423,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 472006,
+        "num": 22686,
+        "word": "野人孩子已出现动物化特征",
+        "onboard_time": 1760889441,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196386,
+        "num": 22621,
+        "word": "家属将给野人小孩落户北京",
+        "onboard_time": 1760889321,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54038,
+        "num": 22180,
+        "word": "野人孩子和父母已在管控范围内",
+        "onboard_time": 1760893219,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44253,
+        "num": 22158,
+        "word": "黄宗泽被开价5亿聘金当女婿",
+        "onboard_time": 1760869400,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34173,
+        "num": 21831,
+        "word": "邵雨轩 复旦学子来也",
+        "onboard_time": 1760875582,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 26173,
+        "num": 21663,
+        "word": "卢浮宫窃贼恐很难销赃",
+        "onboard_time": 1760889021,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21510,
+        "num": 21510,
+        "word": "薛之谦大闹沈梦辰直播间",
+        "onboard_time": 1760882301,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21093,
+        "num": 21093,
+        "word": "侯明昊卢昱晓 接二搭",
+        "onboard_time": 1760888840,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19376,
+        "num": 21074,
+        "word": "卢浮宫被盗过程仅7分钟",
+        "onboard_time": 1760870842,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17754,
+        "num": 21020,
+        "word": "披荆斩棘总决赛",
+        "onboard_time": 1760879301,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19362,
+        "num": 20982,
+        "word": "入青云破万",
+        "onboard_time": 1760886442,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18950,
+        "num": 20958,
+        "word": "盗窃者用升降吊篮进入卢浮宫",
+        "onboard_time": 1760879481,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16024,
+        "num": 20942,
+        "word": "汪苏泷收到老鼠干",
+        "onboard_time": 1760885602,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15482,
+        "num": 20873,
+        "word": "卢浮宫持械抢劫事件",
+        "onboard_time": 1760866461,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 15033,
+        "num": 20863,
+        "word": "熬夜后这三类食物帮你快速回血",
+        "onboard_time": 1760902753,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 14584,
+        "num": 20817,
+        "word": "刘昊然李兰迪到达厦门",
+        "onboard_time": 1760889861,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14002,
+        "num": 20780,
+        "word": "入青云热度",
+        "onboard_time": 1760876183,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 9672,
+        "num": 20721,
+        "word": "短剧真情侣就是好嗑",
+        "onboard_time": 1760869641,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 8576,
+        "num": 20705,
+        "word": "奔跑吧特别季",
+        "onboard_time": 1760876962,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8504,
+        "num": 20653,
+        "word": "暗河传优酷热度破6000",
+        "onboard_time": 1760883202,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14182,
+        "num": 20622,
+        "word": "惊天魔盗团",
+        "onboard_time": 1760872761,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 14020,
+        "num": 20578,
+        "word": "贵州失联2岁女童已找到",
+        "onboard_time": 1760880082,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13993,
+        "num": 20548,
+        "word": "印度食脑虫已致26人死亡",
+        "onboard_time": 1760876120,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 13769,
+        "num": 20528,
+        "word": "BLG签运",
+        "onboard_time": 1760880562,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12824,
+        "num": 20484,
+        "word": "杨振宁父亲",
+        "onboard_time": 1760868020,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12610,
+        "num": 20444,
+        "word": "王俊凯乌镇",
+        "onboard_time": 1760882423,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12559,
+        "num": 20416,
+        "word": "清华邻居悼念杨振宁",
+        "onboard_time": 1760905393,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12420,
+        "num": 20385,
+        "word": "利物浦vs曼联",
+        "onboard_time": 1760887701,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12385,
+        "num": 20334,
+        "word": "孟子义我真爬不上去",
+        "onboard_time": 1760885362,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12174,
+        "num": 20282,
+        "word": "杨振宁在平静安详中从容离开",
+        "onboard_time": 1760878882,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11524,
+        "num": 20240,
+        "word": "AG战胜TTG",
+        "onboard_time": 1760883382,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11444,
+        "num": 20209,
+        "word": "浏阳烟花节成功挑战两项吉尼斯世界纪录",
+        "onboard_time": 1760888301,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11415,
+        "num": 20185,
+        "word": "双红会",
+        "onboard_time": 1760888122,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10655,
+        "num": 20161,
+        "word": "当年微信可是求着我上线",
+        "onboard_time": 1760866221,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 10511,
+        "num": 20091,
+        "word": "歼10将飞抵印尼",
+        "onboard_time": 1760880922,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 10501,
+        "num": 20069,
+        "word": "豆制品是对女性很好的食物",
+        "onboard_time": 1760882842,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 10219,
+        "num": 20026,
+        "word": "疾控部门提醒老年人预防艾滋病",
+        "onboard_time": 1760908274,
+        "rank": 46,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 10102,
+        "num": 20000,
+        "word": "官方回应贵州失联2岁女童已找到",
+        "onboard_time": 1760901735,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10093,
+        "num": 19967,
+        "word": "神二十乘组太空出差渐入尾声",
+        "onboard_time": 1760906955,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 9924,
+        "num": 19907,
+        "word": "GEN抽到TES",
+        "onboard_time": 1760880562,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看看这五年#"
+    }
+  }
+}
