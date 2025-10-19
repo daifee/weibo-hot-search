@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760887395633,
+  "endTime": 1760888217240,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -1572,7 +1572,7 @@
     },
     {
       "raw_hot": 1145376,
-      "num": 670143,
+      "num": 794199,
       "word": "入青云",
       "onboard_time": 1759634300,
       "rank": 26,
@@ -3619,6 +3619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 778754,
+      "num": 254558,
+      "word": "野人小孩家人称采用自然教育法",
+      "onboard_time": 1760885062,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 778502,
       "num": 1081502,
       "word": "中秋",
@@ -4553,14 +4561,6 @@
       "onboard_time": 1759580002,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 664752,
-      "num": 254558,
-      "word": "野人小孩家人称采用自然教育法",
-      "onboard_time": 1760885062,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 664661,
@@ -8603,6 +8603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 440348,
+      "num": 190501,
+      "word": "卢昱晓空降",
+      "onboard_time": 1760886981,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 438676,
       "num": 223433,
       "word": "石原里美二胎产后状态",
@@ -10241,6 +10249,14 @@
       "onboard_time": 1759657820,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 372766,
+      "num": 1059642,
+      "word": "匪徒从卢浮宫逃跑时掉落皇冠",
+      "onboard_time": 1760885183,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 372751,
@@ -15779,14 +15795,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 236927,
-      "num": 236927,
-      "word": "匪徒从卢浮宫逃跑时掉落皇冠",
-      "onboard_time": 1760885183,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 236898,
       "num": 236898,
       "word": "林高远赛后抚摸球台",
@@ -18241,6 +18249,14 @@
       "onboard_time": 1759299621,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202568,
+      "num": 202568,
+      "word": "林高远好正宗一个广东人",
+      "onboard_time": 1760886981,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 202547,
@@ -22504,14 +22520,6 @@
       "word": "白鹿cha了宋雨琦mo",
       "onboard_time": 1760780061,
       "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 173256,
-      "num": 134904,
-      "word": "卢昱晓空降",
-      "onboard_time": 1760886981,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -27361,6 +27369,14 @@
       "onboard_time": 1760609781,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147823,
+      "num": 147823,
+      "word": "女子7万买游乐场设施直呼太疯狂",
+      "onboard_time": 1760887281,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147817,
@@ -32667,14 +32683,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128950,
-      "num": 128950,
-      "word": "林高远好正宗一个广东人",
-      "onboard_time": 1760886981,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128924,
       "num": 128924,
       "word": "黄子弘凡 黄太子合体",
@@ -33251,6 +33259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127173,
+      "num": 127173,
+      "word": "晚上做好5件事养脾胃",
+      "onboard_time": 1760887880,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 127156,
       "num": 127156,
       "word": "Doinb自曝ASI约不到训练赛",
@@ -33321,14 +33337,6 @@
       "onboard_time": 1760753361,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126967,
-      "num": 126967,
-      "word": "女子7万买游乐场设施直呼太疯狂",
-      "onboard_time": 1760887281,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126965,
@@ -36083,6 +36091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119324,
+      "num": 119324,
+      "word": "贵州花江峡谷大桥无绳蹦极引热议",
+      "onboard_time": 1760884522,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119314,
       "num": 119314,
       "word": "为什么运动后感觉皮肤变好了",
@@ -37185,6 +37201,14 @@
       "onboard_time": 1760712203,
       "rank": 35,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 116812,
+      "num": 116812,
+      "word": "利物浦vs曼联",
+      "onboard_time": 1760887701,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 116754,
@@ -38881,14 +38905,6 @@
       "onboard_time": 1760014522,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112409,
-      "num": 112409,
-      "word": "贵州花江峡谷大桥无绳蹦极引热议",
-      "onboard_time": 1760884522,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 112403,
@@ -43017,6 +43033,14 @@
       "onboard_time": 1760254221,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104204,
+      "num": 104204,
+      "word": "AG确定年总胜者组半决赛",
+      "onboard_time": 1760885002,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 104191,
@@ -47851,6 +47875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93393,
+      "num": 93393,
+      "word": "双红会",
+      "onboard_time": 1760888122,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93373,
       "num": 136344,
       "word": "石宇奇安赛龙争执致比赛中断",
@@ -52499,6 +52531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81937,
+      "num": 81937,
+      "word": "50克金条订单被拦截买家发声",
+      "onboard_time": 1760888122,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81926,
       "num": 81926,
       "word": "王曼昱回应被称日乒叹息之墙",
@@ -53929,6 +53969,14 @@
       "onboard_time": 1759970962,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77398,
+      "num": 77398,
+      "word": "南通泰州会师苏超决赛",
+      "onboard_time": 1760888181,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 77372,
@@ -63435,6 +63483,14 @@
       "category": "音乐,体育"
     },
     {
+      "raw_hot": 17552,
+      "num": 247987,
+      "word": "孙子团BTSZD舞蹈快闪好燃",
+      "onboard_time": 1760886082,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17483,
       "num": 127216,
       "word": "企业如何实现绿色转型",
@@ -63865,14 +63921,6 @@
       "onboard_time": 1760123714,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 13540,
-      "num": 247987,
-      "word": "孙子团BTSZD舞蹈快闪好燃",
-      "onboard_time": 1760886082,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 13419,

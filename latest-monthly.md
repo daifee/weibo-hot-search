@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 23:23:15
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 23:36:57
 </p>
 </blockquote>
 <p>
@@ -2727,6 +2727,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E5%AE%B6%E4%BA%BA%E7%A7%B0%E9%87%87%E7%94%A8%E8%87%AA%E7%84%B6%E6%95%99%E8%82%B2%E6%B3%95%23" target="weibo">
+野人小孩家人称采用自然教育法（热度：778754）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%23" target="weibo">
 中秋（热度：778502）
 </a>
@@ -3425,12 +3431,6 @@ AL战胜HLE（热度：684053）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E9%B9%B0%E7%9C%BC%E6%8C%91%E6%88%98%E5%A4%B1%E8%B4%A5%23" target="weibo">
 王曼昱鹰眼挑战失败（热度：665099）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E5%AE%B6%E4%BA%BA%E7%A7%B0%E9%87%87%E7%94%A8%E8%87%AA%E7%84%B6%E6%95%99%E8%82%B2%E6%B3%95%23" target="weibo">
-野人小孩家人称采用自然教育法（热度：664752）
 </a>
 </li>
 

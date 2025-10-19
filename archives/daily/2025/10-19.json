@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760887395633,
+  "endTime": 1760888217240,
   "band_list": [
     {
       "raw_hot": 2202319,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1145376,
-      "num": 670143,
+      "num": 794199,
       "word": "入青云",
       "onboard_time": 1760786302,
       "rank": 7,
@@ -137,6 +137,14 @@
       "onboard_time": 1760857460,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 778754,
+      "num": 254558,
+      "word": "野人小孩家人称采用自然教育法",
+      "onboard_time": 1760885062,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 767686,
@@ -216,14 +224,6 @@
       "word": "沙县小吃12元鸡腿饭减肥餐火了",
       "onboard_time": 1760852422,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 664752,
-      "num": 254558,
-      "word": "野人小孩家人称采用自然教育法",
-      "onboard_time": 1760885062,
-      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -411,6 +411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 440348,
+      "num": 190501,
+      "word": "卢昱晓空降",
+      "onboard_time": 1760886981,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 429719,
       "num": 429719,
       "word": "锦州烧烤",
@@ -497,6 +505,14 @@
       "onboard_time": 1760850081,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 372766,
+      "num": 1059642,
+      "word": "匪徒从卢浮宫逃跑时掉落皇冠",
+      "onboard_time": 1760885183,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 372089,
@@ -763,14 +779,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 236927,
-      "num": 236927,
-      "word": "匪徒从卢浮宫逃跑时掉落皇冠",
-      "onboard_time": 1760885183,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 236356,
       "num": 227074,
       "word": "李一桐回应美人余造型",
@@ -923,6 +931,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 202568,
+      "num": 202568,
+      "word": "林高远好正宗一个广东人",
+      "onboard_time": 1760886981,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195819,
       "num": 195819,
       "word": "75年前的今天志愿军跨过鸭绿江",
@@ -1073,14 +1089,6 @@
       "onboard_time": 1760791704,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173256,
-      "num": 134904,
-      "word": "卢昱晓空降",
-      "onboard_time": 1760886981,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 172533,
@@ -1313,6 +1321,14 @@
       "onboard_time": 1760886683,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147823,
+      "num": 147823,
+      "word": "女子7万买游乐场设施直呼太疯狂",
+      "onboard_time": 1760887281,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147541,
@@ -1603,14 +1619,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 128950,
-      "num": 128950,
-      "word": "林高远好正宗一个广东人",
-      "onboard_time": 1760886981,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128857,
       "num": 175951,
       "word": "TOP披哥总决赛造型",
@@ -1635,12 +1643,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126967,
-      "num": 126967,
-      "word": "女子7万买游乐场设施直呼太疯狂",
-      "onboard_time": 1760887281,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 127173,
+      "num": 127173,
+      "word": "晚上做好5件事养脾胃",
+      "onboard_time": 1760887880,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 126718,
@@ -1811,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119324,
+      "num": 119324,
+      "word": "贵州花江峡谷大桥无绳蹦极引热议",
+      "onboard_time": 1760884522,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118737,
       "num": 118737,
       "word": "天蚕土豆锐评BLG",
@@ -1867,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116812,
+      "num": 116812,
+      "word": "利物浦vs曼联",
+      "onboard_time": 1760887701,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116424,
       "num": 116424,
       "word": "建议你在吃了药以后一定不要吃西柚",
@@ -1920,14 +1944,6 @@
       "word": "今年冬天会不会更冷",
       "onboard_time": 1760798183,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112409,
-      "num": 112409,
-      "word": "贵州花江峡谷大桥无绳蹦极引热议",
-      "onboard_time": 1760884522,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -2105,6 +2121,14 @@
       "onboard_time": 1760846841,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104204,
+      "num": 104204,
+      "word": "AG确定年总胜者组半决赛",
+      "onboard_time": 1760885002,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 104115,
@@ -2457,6 +2481,14 @@
       "onboard_time": 1760876602,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93393,
+      "num": 93393,
+      "word": "双红会",
+      "onboard_time": 1760888122,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 93373,
@@ -2819,6 +2851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81937,
+      "num": 81937,
+      "word": "50克金条订单被拦截买家发声",
+      "onboard_time": 1760888122,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81835,
       "num": 81835,
       "word": "刘芸你要对我的爱情负责",
@@ -2969,6 +3009,14 @@
       "onboard_time": 1760849783,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77398,
+      "num": 77398,
+      "word": "南通泰州会师苏超决赛",
+      "onboard_time": 1760888181,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 77047,
@@ -3611,6 +3659,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 17552,
+      "num": 247987,
+      "word": "孙子团BTSZD舞蹈快闪好燃",
+      "onboard_time": 1760886082,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17257,
       "num": 42510,
       "word": "郭艾伦聚星名人赛MVP",
@@ -3633,14 +3689,6 @@
       "onboard_time": 1760817555,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13540,
-      "num": 247987,
-      "word": "孙子团BTSZD舞蹈快闪好燃",
-      "onboard_time": 1760886082,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 11940,
