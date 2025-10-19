@@ -1,0 +1,410 @@
+{
+  "runTime": 1760884764858,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 658226,
+        "num": 1105316,
+        "word": "南通4比2无锡",
+        "onboard_time": 1760882182,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 565641,
+        "num": 565641,
+        "word": "BLG签运",
+        "onboard_time": 1760880562,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62318,
+        "num": 541053,
+        "word": "十四五期间这些大国重器出圈了",
+        "onboard_time": 1760879243,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 537312,
+        "num": 537312,
+        "word": "入青云热度",
+        "onboard_time": 1760876183,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 387567,
+        "num": 387567,
+        "word": "贵州失联2岁女童已找到",
+        "onboard_time": 1760880082,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1550693,
+        "num": 386341,
+        "word": "卢浮宫一件被盗文物已损毁",
+        "onboard_time": 1760876183,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1023037,
+        "num": 385667,
+        "word": "卢浮宫被盗过程仅7分钟",
+        "onboard_time": 1760870842,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 467810,
+        "num": 384408,
+        "word": "暗河传优酷热度破6000",
+        "onboard_time": 1760883202,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 421499,
+        "num": 383063,
+        "word": "披荆斩棘总决赛",
+        "onboard_time": 1760879301,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 382059,
+        "num": 382059,
+        "word": "印度食脑虫已致26人死亡",
+        "onboard_time": 1760876120,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 350042,
+        "num": 382054,
+        "word": "卢浮宫多件藏品被盗",
+        "onboard_time": 1760867780,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 503303,
+        "num": 380450,
+        "word": "黄宗泽被开价5亿聘金当女婿",
+        "onboard_time": 1760869400,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397704,
+        "num": 379725,
+        "word": "王俊凯乌镇",
+        "onboard_time": 1760882423,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 389475,
+        "num": 378378,
+        "word": "邵雨轩 复旦学子来也",
+        "onboard_time": 1760875582,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 378276,
+        "num": 378276,
+        "word": "入青云",
+        "onboard_time": 1760880201,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363857,
+        "num": 363857,
+        "word": "卢浮宫找回一件被盗珠宝",
+        "onboard_time": 1760873423,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 346270,
+        "num": 346270,
+        "word": "GEN抽到TES",
+        "onboard_time": 1760880562,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 320982,
+        "num": 320982,
+        "word": "薛之谦大闹沈梦辰直播间",
+        "onboard_time": 1760882301,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29986,
+        "num": 307178,
+        "word": "开纵横G700越野从从容容游刃有余",
+        "onboard_time": 1760883502,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114567,
+        "num": 306722,
+        "word": "卢浮宫盗窃案4人作案",
+        "onboard_time": 1760883742,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 306454,
+        "num": 306454,
+        "word": "盗窃者用升降吊篮进入卢浮宫",
+        "onboard_time": 1760879481,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 248757,
+        "num": 248757,
+        "word": "惊天魔盗团",
+        "onboard_time": 1760872761,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 211000,
+        "num": 211000,
+        "word": "未来3天冷冷冷冷冷",
+        "onboard_time": 1760865801,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185807,
+        "num": 185807,
+        "word": "AG战胜TTG",
+        "onboard_time": 1760883382,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 183365,
+        "num": 183365,
+        "word": "汪苏泷是我到全国给大家演",
+        "onboard_time": 1760884102,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176555,
+        "num": 176555,
+        "word": "卢浮宫持械抢劫事件",
+        "onboard_time": 1760866461,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 166207,
+        "num": 166207,
+        "word": "杨振宁在平静安详中从容离开",
+        "onboard_time": 1760878882,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145252,
+        "num": 145252,
+        "word": "奔跑吧特别季",
+        "onboard_time": 1760876962,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124388,
+        "num": 138723,
+        "word": "入青云追剧日历呢",
+        "onboard_time": 1760874141,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97076,
+        "num": 136634,
+        "word": "短剧真情侣就是好嗑",
+        "onboard_time": 1760869641,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164378,
+        "num": 136619,
+        "word": "Karsa挥手告别",
+        "onboard_time": 1760881283,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136200,
+        "num": 136200,
+        "word": "南通替补门将神了",
+        "onboard_time": 1760884463,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135871,
+        "num": 135871,
+        "word": "当年微信可是求着我上线",
+        "onboard_time": 1760866221,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134391,
+        "num": 134391,
+        "word": "陈梦新发型又飒又美",
+        "onboard_time": 1760878941,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134211,
+        "num": 134211,
+        "word": "东方财富实控人父亲累计套现超70亿",
+        "onboard_time": 1760883561,
+        "rank": 34,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 129914,
+        "num": 129914,
+        "word": "一诺年总二连mvp",
+        "onboard_time": 1760883622,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119969,
+        "num": 127436,
+        "word": "南通vs无锡",
+        "onboard_time": 1760875702,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125167,
+        "num": 125167,
+        "word": "卢浮宫暂停开放",
+        "onboard_time": 1760870542,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123000,
+        "num": 123000,
+        "word": "豆制品是对女性很好的食物",
+        "onboard_time": 1760882842,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 59470,
+        "num": 109562,
+        "word": "盗窃者伪装成施工人员进卢浮宫",
+        "onboard_time": 1760882543,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106957,
+        "num": 106957,
+        "word": "杨振宁曾参观三星堆3小时未歇脚",
+        "onboard_time": 1760882423,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106732,
+        "num": 106732,
+        "word": "歼10将飞抵印尼",
+        "onboard_time": 1760880922,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96958,
+        "num": 96958,
+        "word": "山西太原高中语文老师赵旭封神演讲",
+        "onboard_time": 1760884401,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 96938,
+        "num": 96938,
+        "word": "贵州花江峡谷大桥无绳蹦极引热议",
+        "onboard_time": 1760884522,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96817,
+        "num": 96817,
+        "word": "AG对战TTG",
+        "onboard_time": 1760868261,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94621,
+        "num": 94621,
+        "word": "女子被救后举报施救者侵犯肖像权",
+        "onboard_time": 1760869762,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93239,
+        "num": 93239,
+        "word": "BLG抽到VKS",
+        "onboard_time": 1760881523,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92886,
+        "num": 92886,
+        "word": "杨振宁父亲",
+        "onboard_time": 1760868020,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91172,
+        "num": 91172,
+        "word": "杜兰特与火箭续约两年",
+        "onboard_time": 1760881223,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89376,
+        "num": 89376,
+        "word": "TES 证明自己的机会来了",
+        "onboard_time": 1760884580,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视战略规划工作#"
+    }
+  }
+}

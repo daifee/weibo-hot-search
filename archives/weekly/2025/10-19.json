@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760883716567,
+  "endTime": 1760884764858,
   "band_list": [
     {
       "raw_hot": 2202319,
@@ -243,6 +243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 565641,
+      "num": 565641,
+      "word": "BLG签运",
+      "onboard_time": 1760880562,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 552089,
       "num": 457573,
       "word": "杨振宁在美办公室有人凌晨献花",
@@ -259,12 +267,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 523349,
-      "num": 523349,
-      "word": "BLG签运",
-      "onboard_time": 1760880562,
-      "rank": 13,
-      "category": "电竞"
+      "raw_hot": 537312,
+      "num": 537312,
+      "word": "入青云热度",
+      "onboard_time": 1760876183,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 522750,
@@ -299,20 +307,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 492481,
-      "num": 492481,
-      "word": "入青云热度",
-      "onboard_time": 1760876183,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 487490,
       "num": 454257,
       "word": "请求核查野人男孩父母收入来源",
       "onboard_time": 1760800883,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 467810,
+      "num": 384408,
+      "word": "暗河传优酷热度破6000",
+      "onboard_time": 1760883202,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 465852,
@@ -379,6 +387,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 421499,
+      "num": 383063,
+      "word": "披荆斩棘总决赛",
+      "onboard_time": 1760879301,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418821,
       "num": 804936,
       "word": "天地剑心",
@@ -427,12 +443,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 397704,
+      "num": 379725,
+      "word": "王俊凯乌镇",
+      "onboard_time": 1760882423,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 387567,
+      "num": 387567,
+      "word": "贵州失联2岁女童已找到",
+      "onboard_time": 1760880082,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384557,
       "num": 384557,
       "word": "杨振宁与二次诺奖失之交臂",
       "onboard_time": 1760850081,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 378276,
+      "num": 670143,
+      "word": "入青云",
+      "onboard_time": 1760786302,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 372089,
@@ -472,14 +512,6 @@
       "word": "李沁 顶级P人",
       "onboard_time": 1760845341,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 355440,
-      "num": 355440,
-      "word": "披荆斩棘总决赛",
-      "onboard_time": 1760879301,
-      "rank": 17,
       "category": "综艺"
     },
     {
@@ -547,12 +579,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 320630,
-      "num": 320630,
-      "word": "贵州失联2岁女童已找到",
-      "onboard_time": 1760880082,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 320982,
+      "num": 320982,
+      "word": "薛之谦大闹沈梦辰直播间",
+      "onboard_time": 1760882301,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 306454,
+      "num": 306454,
+      "word": "盗窃者用升降吊篮进入卢浮宫",
+      "onboard_time": 1760879481,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 305060,
@@ -579,14 +619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 300214,
-      "num": 670143,
-      "word": "入青云",
-      "onboard_time": 1760786302,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 299788,
       "num": 281857,
       "word": "明意纪伯宰圆房",
@@ -601,14 +633,6 @@
       "onboard_time": 1760843839,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 295755,
-      "num": 295755,
-      "word": "盗窃者用升降吊篮进入卢浮宫",
-      "onboard_time": 1760879481,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 291634,
@@ -635,14 +659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 290724,
-      "num": 290724,
-      "word": "王俊凯乌镇",
-      "onboard_time": 1760882423,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 281655,
       "num": 281655,
       "word": "未来3天冷冷冷冷冷",
@@ -665,14 +681,6 @@
       "onboard_time": 1760866461,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 270243,
-      "num": 270243,
-      "word": "薛之谦大闹沈梦辰直播间",
-      "onboard_time": 1760882301,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 267826,
@@ -819,14 +827,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 212506,
-      "num": 261857,
-      "word": "暗河传优酷热度破6000",
-      "onboard_time": 1760883202,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209154,
       "num": 209154,
       "word": "辛巴罚款赵梦澈100万",
@@ -955,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185807,
+      "num": 185807,
+      "word": "AG战胜TTG",
+      "onboard_time": 1760883382,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184821,
       "num": 184821,
       "word": "杨振宁在平静安详中从容离开",
@@ -977,6 +985,14 @@
       "onboard_time": 1760846780,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 183365,
+      "num": 183365,
+      "word": "汪苏泷是我到全国给大家演",
+      "onboard_time": 1760884102,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 183039,
@@ -1137,14 +1153,6 @@
       "onboard_time": 1760854940,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 159853,
-      "num": 159853,
-      "word": "AG战胜TTG",
-      "onboard_time": 1760883382,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 159459,
@@ -1355,6 +1363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136200,
+      "num": 136200,
+      "word": "南通替补门将神了",
+      "onboard_time": 1760884463,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135856,
       "num": 135856,
       "word": "仙逆",
@@ -1393,6 +1409,14 @@
       "onboard_time": 1760859440,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134211,
+      "num": 134211,
+      "word": "东方财富实控人父亲累计套现超70亿",
+      "onboard_time": 1760883561,
+      "rank": 42,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 134122,
@@ -1505,6 +1529,14 @@
       "onboard_time": 1760883022,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129914,
+      "num": 129914,
+      "word": "一诺年总二连mvp",
+      "onboard_time": 1760883622,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 129752,
@@ -1620,7 +1652,7 @@
     },
     {
       "raw_hot": 122149,
-      "num": 163081,
+      "num": 307178,
       "word": "开纵横G700越野从从容容游刃有余",
       "onboard_time": 1760883502,
       "rank": 28,
@@ -1747,14 +1779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116542,
-      "num": 116542,
-      "word": "东方财富实控人父亲累计套现超70亿",
-      "onboard_time": 1760883561,
-      "rank": 42,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 116424,
       "num": 116424,
       "word": "建议你在吃了药以后一定不要吃西柚",
@@ -1769,6 +1793,14 @@
       "onboard_time": 1760800285,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114567,
+      "num": 306722,
+      "word": "卢浮宫盗窃案4人作案",
+      "onboard_time": 1760883742,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 114404,
@@ -1953,14 +1985,6 @@
       "onboard_time": 1760787802,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 106283,
-      "num": 106283,
-      "word": "一诺年总二连mvp",
-      "onboard_time": 1760883622,
-      "rank": 45,
-      "category": "电竞"
     },
     {
       "raw_hot": 105910,
@@ -2195,12 +2219,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96958,
+      "num": 96958,
+      "word": "山西太原高中语文老师赵旭封神演讲",
+      "onboard_time": 1760884401,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 96942,
       "num": 96942,
       "word": "陆虎你也很难戒断吧",
       "onboard_time": 1760848940,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 96938,
+      "num": 96938,
+      "word": "贵州花江峡谷大桥无绳蹦极引热议",
+      "onboard_time": 1760884522,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96716,
@@ -2355,6 +2395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93239,
+      "num": 93239,
+      "word": "BLG抽到VKS",
+      "onboard_time": 1760881523,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 92969,
       "num": 96837,
       "word": "披荆斩棘的饼狗",
@@ -2473,6 +2521,14 @@
       "onboard_time": 1760835501,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 89376,
+      "num": 89376,
+      "word": "TES 证明自己的机会来了",
+      "onboard_time": 1760884580,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 88391,
@@ -3067,6 +3123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62318,
+      "num": 1094704,
+      "word": "十四五期间这些大国重器出圈了",
+      "onboard_time": 1760879243,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58629,
       "num": 117752,
       "word": "卢浮宫劫案亲历者讲述",
@@ -3113,14 +3177,6 @@
       "onboard_time": 1760865202,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 50808,
-      "num": 1094704,
-      "word": "十四五期间这些大国重器出圈了",
-      "onboard_time": 1760879243,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 50151,
