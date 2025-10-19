@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760898793518,
+  "endTime": 1760899513618,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -3339,6 +3339,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 57571,
+      "num": 57571,
+      "word": "利物浦1比2曼联",
+      "onboard_time": 1760898435,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57004,
       "num": 338449,
       "word": "周深学了2年才敢表演的魔术",
@@ -3361,14 +3369,6 @@
       "onboard_time": 1760794163,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55794,
-      "num": 55794,
-      "word": "利物浦1比2曼联",
-      "onboard_time": 1760898435,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 55094,

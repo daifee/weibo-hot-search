@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/19 00:28:53 ~ 2025/10/20 02:33:13
+本榜单时间：2025/10/19 00:28:53 ~ 2025/10/20 02:45:13
 </p>
 </blockquote>
 <p>
@@ -2517,6 +2517,12 @@ Bin和Doran迎来生死战（热度：63760）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%89%A9%E6%B5%A61%E6%AF%942%E6%9B%BC%E8%81%94%23" target="weibo">
+利物浦1比2曼联（热度：57571）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%AD%A6%E4%BA%862%E5%B9%B4%E6%89%8D%E6%95%A2%E8%A1%A8%E6%BC%94%E7%9A%84%E9%AD%94%E6%9C%AF%23" target="weibo">
 周深学了2年才敢表演的魔术（热度：57004）
 </a>
@@ -2531,12 +2537,6 @@ Bin和Doran迎来生死战（热度：63760）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%A7%92%E8%89%B2%E5%AE%87%E5%AE%99C%E4%BD%8D%E4%BA%89%E5%A4%BA%E6%88%98%23" target="weibo">
 易烊千玺角色宇宙C位争夺战（热度：56473）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%89%A9%E6%B5%A61%E6%AF%942%E6%9B%BC%E8%81%94%23" target="weibo">
-利物浦1比2曼联（热度：55794）
 </a>
 </li>
 
