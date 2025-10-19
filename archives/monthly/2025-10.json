@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760873829055,
+  "endTime": 1760877958621,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -3881,6 +3881,14 @@
       "onboard_time": 1759854859,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 733902,
+      "num": 733902,
+      "word": "惊天魔盗团",
+      "onboard_time": 1760872761,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 733769,
@@ -8467,6 +8475,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 441124,
+      "num": 441124,
+      "word": "卢浮宫找回一件被盗珠宝",
+      "onboard_time": 1760873423,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 440942,
       "num": 212324,
       "word": "李湘打码掌纹",
@@ -8899,6 +8915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 422728,
+      "num": 422728,
+      "word": "卢浮宫一件被盗文物已损毁",
+      "onboard_time": 1760876183,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 422285,
       "num": 422285,
       "word": "父母多次嘱咐走红大学生要低调",
@@ -9017,6 +9041,14 @@
       "onboard_time": 1760847682,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 417960,
+      "num": 417960,
+      "word": "入青云热度",
+      "onboard_time": 1759922780,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 417546,
@@ -9969,6 +10001,14 @@
       "onboard_time": 1759478841,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 377904,
+      "num": 234940,
+      "word": "邵雨轩 复旦学子来也",
+      "onboard_time": 1760875582,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 377485,
@@ -14523,6 +14563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 255794,
+      "num": 255794,
+      "word": "南通vs无锡",
+      "onboard_time": 1760875702,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255743,
       "num": 169066,
       "word": "虽然离很久了 但婚纱照超好看",
@@ -14808,14 +14856,6 @@
       "word": "卢昱晓哭戏靠掐大腿",
       "onboard_time": 1759988120,
       "rank": 33,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 251579,
-      "num": 321222,
-      "word": "入青云热度",
-      "onboard_time": 1759922780,
-      "rank": 30,
       "category": "剧集"
     },
     {
@@ -16035,6 +16075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230186,
+      "num": 230186,
+      "word": "印度食脑虫已致26人死亡",
+      "onboard_time": 1760876120,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 229911,
       "num": 183756,
       "word": "股市",
@@ -16265,14 +16313,6 @@
       "onboard_time": 1760276901,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 226055,
-      "num": 119992,
-      "word": "惊天魔盗团",
-      "onboard_time": 1760872761,
-      "rank": 44,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 226045,
@@ -17339,6 +17379,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 209154,
+      "num": 209154,
+      "word": "辛巴罚款赵梦澈100万",
+      "onboard_time": 1760870962,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 209017,
       "num": 209017,
       "word": "夫妻国庆开两架飞机带女儿回老家",
@@ -17603,14 +17651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 207182,
-      "num": 207182,
-      "word": "卢浮宫找回一件被盗珠宝",
-      "onboard_time": 1760873423,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 206884,
       "num": 206884,
       "word": "你好星期六唱完你的唱你的",
@@ -17649,6 +17689,14 @@
       "onboard_time": 1759537579,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206664,
+      "num": 206664,
+      "word": "陈乔恩回应看艾伦豪宅变脸",
+      "onboard_time": 1760871500,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 206346,
@@ -21347,14 +21395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 179565,
-      "num": 179565,
-      "word": "陈乔恩回应看艾伦豪宅变脸",
-      "onboard_time": 1760871500,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179504,
       "num": 179504,
       "word": "黄子弘凡周笔畅 将进酒",
@@ -21681,14 +21721,6 @@
       "onboard_time": 1760669182,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177465,
-      "num": 177465,
-      "word": "辛巴罚款赵梦澈100万",
-      "onboard_time": 1760870962,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 177435,
@@ -26259,6 +26291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152164,
+      "num": 152164,
+      "word": "印度食脑虫感染病例数激增已致死26人",
+      "onboard_time": 1760877200,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 152089,
       "num": 152089,
       "word": "DNA感谢林俊杰",
@@ -28467,6 +28507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141742,
+      "num": 141742,
+      "word": "国家安全部发文致敬聂曦烈士",
+      "onboard_time": 1760873181,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 141704,
       "num": 141704,
       "word": "微博视界大会公告",
@@ -28561,6 +28609,14 @@
       "onboard_time": 1760336661,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141221,
+      "num": 141221,
+      "word": "入青云追剧日历呢",
+      "onboard_time": 1760874141,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 141217,
@@ -29801,6 +29857,14 @@
       "onboard_time": 1760014762,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136849,
+      "num": 136849,
+      "word": "奔跑吧特别季",
+      "onboard_time": 1760876962,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 136848,
@@ -34067,6 +34131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123822,
+      "num": 123822,
+      "word": "罗永浩说易烊千玺是新生代演员旗帜",
+      "onboard_time": 1760877082,
+      "rank": 27,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 123816,
       "num": 137529,
       "word": "用vivo在上海迪士尼巨出片",
@@ -36993,14 +37065,6 @@
       "onboard_time": 1760423541,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 116132,
-      "num": 116132,
-      "word": "国家安全部发文致敬聂曦烈士",
-      "onboard_time": 1760873181,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 116115,
@@ -40483,6 +40547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108515,
+      "num": 108515,
+      "word": "卢昱晓内娱新晋哭妃",
+      "onboard_time": 1760875942,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108503,
       "num": 108503,
       "word": "杨瀚森球商好高",
@@ -43235,6 +43307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102903,
+      "num": 102903,
+      "word": "Supa为Uzi而战",
+      "onboard_time": 1760877742,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102856,
       "num": 102856,
       "word": "第一次清洗鼻窦是什么体验",
@@ -44459,6 +44539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100163,
+      "num": 100163,
+      "word": "卢浮宫劫匪用电锯盗窃骑摩托逃走",
+      "onboard_time": 1760876000,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 100162,
       "num": 100162,
       "word": "张佳宁车内化妆像极了我赶早八",
@@ -45651,6 +45739,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 97185,
+      "num": 97185,
+      "word": "余生有涯",
+      "onboard_time": 1760722219,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97175,
       "num": 97175,
       "word": "李一桐曾素颜参演古装剧",
@@ -46619,6 +46715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 94995,
+      "num": 94995,
+      "word": "加沙再起硝烟",
+      "onboard_time": 1760876541,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94969,
       "num": 94969,
       "word": "单依纯唱珠玉又开净化了",
@@ -47059,6 +47163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93921,
+      "num": 91633,
+      "word": "金晨 咋不哄我呢",
+      "onboard_time": 1760874260,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93916,
       "num": 116254,
       "word": "震耳欲聋路演",
@@ -47137,6 +47249,14 @@
       "onboard_time": 1760332043,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93744,
+      "num": 92860,
+      "word": "马思纯你多拍点压根不够看",
+      "onboard_time": 1760876902,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 93726,
@@ -47289,6 +47409,14 @@
       "onboard_time": 1759792876,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 93468,
+      "num": 93468,
+      "word": "佳心曹操好强",
+      "onboard_time": 1760876602,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 93465,
@@ -50035,6 +50163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 86972,
+      "num": 86972,
+      "word": "用南北方的食物做孩子小名",
+      "onboard_time": 1760877742,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86886,
       "num": 149162,
       "word": "林诗栋vs宇田幸矢",
@@ -50073,6 +50209,14 @@
       "onboard_time": 1759829780,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86862,
+      "num": 84890,
+      "word": "披荆斩棘的饼狗",
+      "onboard_time": 1760877922,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 86856,
@@ -50723,6 +50867,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 85117,
+      "num": 85117,
+      "word": "邓恩熙人生镜头上新",
+      "onboard_time": 1760876422,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85101,
       "num": 85101,
       "word": "鸡排哥同款炸鸡排",
@@ -51275,6 +51427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83663,
+      "num": 83663,
+      "word": "希音新加坡公司去年收入达370亿美元",
+      "onboard_time": 1760874321,
+      "rank": 48,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 83661,
       "num": 83661,
       "word": "菲律宾地震36万人受灾",
@@ -51411,12 +51571,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83284,
+      "num": 83284,
+      "word": "季节性情感障碍",
+      "onboard_time": 1760876902,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83258,
       "num": 83258,
       "word": "林诗栋3比2篠塚大登",
       "onboard_time": 1760484198,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83254,
+      "num": 113424,
+      "word": "西安交大查处多起涉教职工案件",
+      "onboard_time": 1760876183,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83230,
@@ -53297,6 +53473,14 @@
       "onboard_time": 1759970962,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 77531,
+      "num": 93527,
+      "word": "金价上涨后50克金条订单被拦截",
+      "onboard_time": 1760876781,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77372,
@@ -56835,6 +57019,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 58950,
+      "num": 156267,
+      "word": "安世东莞工厂已限制出货",
+      "onboard_time": 1760876660,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58941,
       "num": 184803,
       "word": "诺奖得主或还不知道自己得奖了",
@@ -58369,6 +58561,14 @@
       "onboard_time": 1759966518,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49172,
+      "num": 93471,
+      "word": "找骑手送4部手机只收到3部",
+      "onboard_time": 1760876962,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49118,
@@ -61267,14 +61467,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 28506,
-      "num": 61709,
-      "word": "余生有涯",
-      "onboard_time": 1760722219,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 28365,
       "num": 133272,
       "word": "广西百色多个村庄被淹多日积水未退",
@@ -62969,6 +63161,14 @@
       "onboard_time": 1760693724,
       "rank": 37,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 14981,
+      "num": 230474,
+      "word": "浪浪友人部落太好玩了",
+      "onboard_time": 1760875280,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 14939,
