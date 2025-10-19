@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 10:25:56
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 11:34:53
 </p>
 </blockquote>
 <p>
@@ -4257,6 +4257,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E7%AA%81%E7%A0%B4%23" target="weibo">
+固态电池突破（热度：567410）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E4%BB%A3%E5%86%99%E8%AE%BA%E6%96%87%E9%BB%91%E5%B7%A5%E5%8E%82%23" target="weibo">
 央视曝光AI代写论文黑工厂（热度：566048）
 </a>
@@ -4415,12 +4421,6 @@ iPhone天气你可能真的不会用（热度：556452）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%97%E4%BD%86%E6%98%AF%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87%E7%9A%84%E5%B7%A5%E4%BD%9C%23" target="weibo">
 小众但是月入过万的工作（热度：555369）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E7%AA%81%E7%A0%B4%23" target="weibo">
-固态电池突破（热度：555282）
 </a>
 </li>
 
@@ -4877,6 +4877,12 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%BC%8F%E6%81%8B%E7%88%B1%23" target="weibo">
 微信式恋爱（热度：522837）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85%E9%B2%8D%E8%95%BE50%E5%B2%81%E5%A4%AB%E5%A6%BB%E4%B9%9F%E8%A6%81%E7%9D%A1%E4%B8%80%E5%BC%A0%E5%BA%8A%23" target="weibo">
+陆毅鲍蕾50岁夫妻也要睡一张床（热度：522750）
 </a>
 </li>
 
@@ -5781,6 +5787,12 @@ TheShy回应上单韦鲁斯（热度：477977）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E6%91%A7%E6%AF%81%E4%B8%80%E5%A4%A7%E5%9E%8B%E6%BD%9C%E8%89%87%23" target="weibo">
+特朗普称美军摧毁一大型潜艇（热度：465852）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%87%AF%E5%BC%80%E6%9C%BA%23" target="weibo">
 许凯开机（热度：465678）
 </a>
@@ -5999,18 +6011,6 @@ K签证（热度：453444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%98%E7%8E%B02%E5%85%AC%E6%96%A4%E9%87%91%E6%9D%A1%E5%87%80%E8%B5%9A%E7%99%BE%E4%B8%87%23" target="weibo">
 男子变现2公斤金条净赚百万（热度：451581）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E5%A6%8D%E5%A6%8D%E6%8E%A5%E7%94%B5%E8%AF%9D%E5%90%8D%E5%9C%BA%E9%9D%A2%E6%9D%A5%E4%BA%86%23" target="weibo">
-许我耀眼妍妍接电话名场面来了（热度：451290）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%901%E5%8D%83%E5%85%83%E6%89%BE%E4%B8%8D%E5%88%B0%E4%BA%BA%E4%B8%BA%E4%B8%B4%E7%BB%88%E7%88%B6%E4%BA%B2%E7%90%86%E5%8F%91%23" target="weibo">
-女子1千元找不到人为临终父亲理发（热度：450903）
 </a>
 </li>
 
@@ -6335,6 +6335,12 @@ K签证（热度：453444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%93%98%E7%94%BB%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%96%B0%E7%AF%87%E7%AB%A0%23%23" target="weibo">
 #总书记擘画中国式现代化新篇章#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E7%9A%84%E5%8D%81%E5%9B%9B%E4%BA%94%E7%9E%A9%E6%9C%9B%E5%B7%B2%E7%84%B6%E8%90%BD%E5%9C%B0%E7%94%9F%E6%A0%B9%23%23" target="weibo">
+#总书记的十四五瞩望已然落地生根#
 </a>
 </li>
 
