@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760870420633,
+  "endTime": 1760872811236,
   "band_list": [
     {
       "raw_hot": 2202319,
@@ -9,6 +9,14 @@
       "onboard_time": 1760839400,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1762143,
+      "num": 216295,
+      "word": "黄宗泽被开价5亿聘金当女婿",
+      "onboard_time": 1760869400,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 1701503,
@@ -51,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 999296,
+      "num": 999296,
+      "word": "卢浮宫被盗过程仅7分钟",
+      "onboard_time": 1760870842,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 995617,
       "num": 455383,
       "word": "网传何穗前夫参加过再见爱人",
@@ -91,19 +107,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 767686,
+      "num": 311247,
+      "word": "杨振宁父亲",
+      "onboard_time": 1760868020,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 753854,
       "num": 238824,
       "word": "男子喝奶茶的黄金吸管骑车时丢失",
       "onboard_time": 1760855120,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 726753,
-      "num": 192069,
-      "word": "杨振宁父亲",
-      "onboard_time": 1760868020,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -211,20 +227,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 500773,
+      "num": 213397,
+      "word": "野人小孩不是个例",
+      "onboard_time": 1760868382,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 496617,
       "num": 496617,
       "word": "周杰伦新歌灵感与霉霉相撞",
       "onboard_time": 1760848639,
       "rank": 17,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 493296,
-      "num": 175903,
-      "word": "黄宗泽被开价5亿聘金当女婿",
-      "onboard_time": 1760869400,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 487490,
@@ -273,14 +289,6 @@
       "onboard_time": 1760862741,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 419662,
-      "num": 182263,
-      "word": "野人小孩不是个例",
-      "onboard_time": 1760868382,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 418821,
@@ -403,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 317211,
+      "num": 317211,
+      "word": "短剧真情侣就是好嗑",
+      "onboard_time": 1760869641,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 305060,
       "num": 385526,
       "word": "杨振宁关门弟子翟荟悼念恩师",
@@ -467,12 +483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281655,
+      "num": 281655,
+      "word": "未来3天冷冷冷冷冷",
+      "onboard_time": 1760865801,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281414,
       "num": 281414,
       "word": "迪丽热巴粉丝回应上热搜",
       "onboard_time": 1760849120,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 273212,
+      "num": 273212,
+      "word": "锦州烧烤",
+      "onboard_time": 1760870001,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 267826,
@@ -489,6 +521,14 @@
       "onboard_time": 1760761410,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257292,
+      "num": 257292,
+      "word": "卢浮宫持械抢劫事件",
+      "onboard_time": 1760866461,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 255891,
@@ -555,6 +595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 228227,
+      "num": 205532,
+      "word": "S15瑞士轮第四轮抽签",
+      "onboard_time": 1760868922,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 227392,
       "num": 816660,
       "word": "北京今天就下雪了",
@@ -587,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218537,
+      "num": 218537,
+      "word": "卢浮宫暂停开放",
+      "onboard_time": 1760870542,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 218294,
       "num": 218294,
       "word": "多地警方联动寻找野人小孩一家",
@@ -611,8 +667,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209104,
+      "num": 209104,
+      "word": "女子被救后举报施救者侵犯肖像权",
+      "onboard_time": 1760869762,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207381,
-      "num": 160870,
+      "num": 202802,
       "word": "孙乐言看到冯琳ootd眼都亮了",
       "onboard_time": 1760869400,
       "rank": 43,
@@ -643,12 +707,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197747,
-      "num": 197747,
-      "word": "未来3天冷冷冷冷冷",
-      "onboard_time": 1760865801,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 203288,
+      "num": 203288,
+      "word": "2025年聚星名人赛杭州站",
+      "onboard_time": 1760871862,
+      "rank": 18,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 195819,
@@ -681,14 +745,6 @@
       "onboard_time": 1760847020,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191980,
-      "num": 191980,
-      "word": "卢浮宫持械抢劫事件",
-      "onboard_time": 1760866461,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 190509,
@@ -779,20 +835,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168414,
+      "num": 168414,
+      "word": "锦州文旅就看你的了",
+      "onboard_time": 1760871801,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167955,
       "num": 167955,
       "word": "晋A99999劳斯莱斯180万成功拍卖",
       "onboard_time": 1760853560,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166736,
-      "num": 166736,
-      "word": "S15瑞士轮第四轮抽签",
-      "onboard_time": 1760868922,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 166730,
@@ -811,12 +867,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 165692,
+      "num": 165692,
+      "word": "一诺孙权",
+      "onboard_time": 1760872042,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165579,
       "num": 165579,
       "word": "蒋敦豪我该怎么解释mbti",
       "onboard_time": 1760850320,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164669,
+      "num": 164669,
+      "word": "一诺孙权暴力开团",
+      "onboard_time": 1760872401,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 163917,
@@ -875,6 +947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 157823,
+      "num": 157823,
+      "word": "辛巴罚款赵梦澈100万",
+      "onboard_time": 1760870962,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 157340,
       "num": 157340,
       "word": "李沁去有风的地方",
@@ -905,6 +985,14 @@
       "onboard_time": 1760847440,
       "rank": 32,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 150804,
+      "num": 150804,
+      "word": "常华森就该演古装",
+      "onboard_time": 1760871561,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 147541,
@@ -1003,6 +1091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135856,
+      "num": 135856,
+      "word": "仙逆",
+      "onboard_time": 1760871141,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 135737,
       "num": 135737,
       "word": "Knight赛后发博",
@@ -1059,12 +1155,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132291,
+      "num": 132291,
+      "word": "汪顺第五次参加全运会",
+      "onboard_time": 1760872101,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131855,
       "num": 131855,
       "word": "那艺娜回应",
       "onboard_time": 1760847020,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131651,
+      "num": 131651,
+      "word": "陈乔恩回应看艾伦豪宅变脸",
+      "onboard_time": 1760871500,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 131306,
@@ -1163,14 +1275,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 124400,
-      "num": 161524,
-      "word": "短剧真情侣就是好嗑",
-      "onboard_time": 1760869641,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124305,
       "num": 124305,
       "word": "王影璐偏偏你最争气",
@@ -1251,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119838,
+      "num": 119838,
+      "word": "被拐18年男孩住孙海洋家附近7年",
+      "onboard_time": 1760869101,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119324,
       "num": 119324,
       "word": "珠海无人机表演为全运会加油",
@@ -1273,6 +1385,14 @@
       "onboard_time": 1760840361,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118580,
+      "num": 143363,
+      "word": "入青云主仆一对比一对好嗑",
+      "onboard_time": 1760871981,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 118487,
@@ -1355,6 +1475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111679,
+      "num": 111679,
+      "word": "王一博标记了一处出片地点",
+      "onboard_time": 1760870962,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111279,
       "num": 111279,
       "word": "广东省考 本来应该从从容容",
@@ -1403,14 +1531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108694,
-      "num": 108694,
-      "word": "女子被救后举报施救者侵犯肖像权",
-      "onboard_time": 1760869762,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108589,
       "num": 108589,
       "word": "村民回应2年前初见野人孩子",
@@ -1433,14 +1553,6 @@
       "onboard_time": 1760777782,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107719,
-      "num": 107719,
-      "word": "被拐18年男孩住孙海洋家附近7年",
-      "onboard_time": 1760869101,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107282,
@@ -1547,14 +1659,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 102270,
-      "num": 102270,
-      "word": "锦州烧烤",
-      "onboard_time": 1760870001,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 101983,
       "num": 146491,
       "word": "HPV科普遇见麦迪校园行",
@@ -1625,6 +1729,14 @@
       "onboard_time": 1760865801,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99549,
+      "num": 99549,
+      "word": "数名蒙面歹徒冲入卢浮宫",
+      "onboard_time": 1760872641,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 99017,
@@ -1731,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93860,
+      "num": 93860,
+      "word": "惊天魔盗团",
+      "onboard_time": 1760872761,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93747,
       "num": 93747,
       "word": "顶流零食蒟蒻果冻到底是啥",
@@ -1752,6 +1872,14 @@
       "word": "旅综最担心的事情还是出现了",
       "onboard_time": 1760861001,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 93443,
+      "num": 93443,
+      "word": "王安宇一分钟被淘汰两次",
+      "onboard_time": 1760872702,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -2291,6 +2419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66295,
+      "num": 134002,
+      "word": "蒙面者从卢浮宫盗走9件珠宝后逃离",
+      "onboard_time": 1760870902,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 65666,
       "num": 65666,
       "word": "陈建州范玮琪听到小S致辞哭了",
@@ -2459,6 +2595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 39526,
+      "num": 202988,
+      "word": "PSG对战VKS",
+      "onboard_time": 1760872101,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 39147,
       "num": 53765,
       "word": "月亮姐姐回应离开少儿频道",
@@ -2473,6 +2617,14 @@
       "onboard_time": 1760838680,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38093,
+      "num": 205532,
+      "word": "王鹤棣直播超绝镜头感",
+      "onboard_time": 1760870962,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 37475,
@@ -2537,6 +2689,14 @@
       "onboard_time": 1760848639,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27297,
+      "num": 206008,
+      "word": "北京的秋天有多适合慢跑",
+      "onboard_time": 1760872161,
+      "rank": 14,
+      "category": "运动健身"
     },
     {
       "raw_hot": 27211,

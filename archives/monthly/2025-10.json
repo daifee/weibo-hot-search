@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760870420633,
+  "endTime": 1760872811236,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -473,6 +473,14 @@
       "onboard_time": 1759494261,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1762143,
+      "num": 216295,
+      "word": "黄宗泽被开价5亿聘金当女婿",
+      "onboard_time": 1760869400,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 1750676,
@@ -2155,6 +2163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 999296,
+      "num": 999296,
+      "word": "卢浮宫被盗过程仅7分钟",
+      "onboard_time": 1760870842,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 998253,
       "num": 1152073,
       "word": "陈震劳斯莱斯车祸后发博",
@@ -3627,6 +3643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 767686,
+      "num": 311247,
+      "word": "杨振宁父亲",
+      "onboard_time": 1760868020,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 767308,
       "num": 277347,
       "word": "彭高",
@@ -3889,14 +3913,6 @@
       "onboard_time": 1759749382,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 726753,
-      "num": 192069,
-      "word": "杨振宁父亲",
-      "onboard_time": 1760868020,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 726627,
@@ -7043,6 +7059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 500773,
+      "num": 213397,
+      "word": "野人小孩不是个例",
+      "onboard_time": 1760868382,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 500085,
       "num": 500085,
       "word": "西贝取消25分钟上菜沙漏计时",
@@ -7233,14 +7257,6 @@
       "onboard_time": 1759844304,
       "rank": 28,
       "category": "网红"
-    },
-    {
-      "raw_hot": 493296,
-      "num": 175903,
-      "word": "黄宗泽被开价5亿聘金当女婿",
-      "onboard_time": 1760869400,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 492874,
@@ -8936,14 +8952,6 @@
       "word": "母亲回应网传女儿高反被搭子抛弃",
       "onboard_time": 1760023041,
       "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 419662,
-      "num": 182263,
-      "word": "野人小孩不是个例",
-      "onboard_time": 1760868382,
-      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -11755,6 +11763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 317211,
+      "num": 317211,
+      "word": "短剧真情侣就是好嗑",
+      "onboard_time": 1760869641,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 317064,
       "num": 203811,
       "word": "建议气血不足的人不要留长发",
@@ -13235,6 +13251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281655,
+      "num": 281655,
+      "word": "未来3天冷冷冷冷冷",
+      "onboard_time": 1760865801,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 281438,
       "num": 246869,
       "word": "沈佳润事业运",
@@ -13625,6 +13649,14 @@
       "onboard_time": 1760717303,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273212,
+      "num": 273212,
+      "word": "锦州烧烤",
+      "onboard_time": 1760870001,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 272772,
@@ -14377,6 +14409,14 @@
       "onboard_time": 1760001320,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 257292,
+      "num": 257292,
+      "word": "卢浮宫持械抢劫事件",
+      "onboard_time": 1760866461,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 257259,
@@ -16035,6 +16075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228227,
+      "num": 205532,
+      "word": "S15瑞士轮第四轮抽签",
+      "onboard_time": 1760868922,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 227907,
       "num": 270531,
       "word": "旬阳警方辟谣新郎母亲跳江",
@@ -16617,6 +16665,14 @@
       "onboard_time": 1759467621,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218537,
+      "num": 218537,
+      "word": "卢浮宫暂停开放",
+      "onboard_time": 1760870542,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 218453,
@@ -17267,6 +17323,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 209104,
+      "num": 209104,
+      "word": "女子被救后举报施救者侵犯肖像权",
+      "onboard_time": 1760869762,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209017,
       "num": 209017,
       "word": "夫妻国庆开两架飞机带女儿回老家",
@@ -17476,7 +17540,7 @@
     },
     {
       "raw_hot": 207381,
-      "num": 160870,
+      "num": 202802,
       "word": "孙乐言看到冯琳ootd眼都亮了",
       "onboard_time": 1760869400,
       "rank": 43,
@@ -17913,6 +17977,14 @@
       "onboard_time": 1760584160,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203288,
+      "num": 203288,
+      "word": "2025年聚星名人赛杭州站",
+      "onboard_time": 1760871862,
+      "rank": 18,
+      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 203269,
@@ -18577,14 +18649,6 @@
       "onboard_time": 1760061500,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 197747,
-      "num": 197747,
-      "word": "未来3天冷冷冷冷冷",
-      "onboard_time": 1760865801,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197674,
@@ -19489,14 +19553,6 @@
       "onboard_time": 1759637421,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 191980,
-      "num": 191980,
-      "word": "卢浮宫持械抢劫事件",
-      "onboard_time": 1760866461,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 191979,
@@ -22979,6 +23035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168414,
+      "num": 168414,
+      "word": "锦州文旅就看你的了",
+      "onboard_time": 1760871801,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168406,
       "num": 168406,
       "word": "十个勤天月饼礼盒被指割韭菜",
@@ -23347,14 +23411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166736,
-      "num": 166736,
-      "word": "S15瑞士轮第四轮抽签",
-      "onboard_time": 1760868922,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 166730,
       "num": 692334,
       "word": "我国成功发射力箭一号遥八运载火箭",
@@ -23563,6 +23619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165692,
+      "num": 165692,
+      "word": "一诺孙权",
+      "onboard_time": 1760872042,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165667,
       "num": 201356,
       "word": "打卡最美月亮",
@@ -23737,6 +23801,14 @@
       "onboard_time": 1760100740,
       "rank": 13,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 164669,
+      "num": 164669,
+      "word": "一诺孙权暴力开团",
+      "onboard_time": 1760872401,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 164614,
@@ -25041,6 +25113,14 @@
       "onboard_time": 1760617762,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157823,
+      "num": 157823,
+      "word": "辛巴罚款赵梦澈100万",
+      "onboard_time": 1760870962,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 157812,
@@ -26369,6 +26449,14 @@
       "onboard_time": 1760096361,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150804,
+      "num": 150804,
+      "word": "常华森就该演古装",
+      "onboard_time": 1760871561,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 150782,
@@ -29939,6 +30027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135856,
+      "num": 135856,
+      "word": "仙逆",
+      "onboard_time": 1760871141,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 135796,
       "num": 135796,
       "word": "吴邪私家笔记2立项了",
@@ -31179,6 +31275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 132291,
+      "num": 132291,
+      "word": "汪顺第五次参加全运会",
+      "onboard_time": 1760872101,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132285,
       "num": 132285,
       "word": "鸡和土豆真是满门忠烈",
@@ -31369,6 +31473,14 @@
       "onboard_time": 1759899442,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131651,
+      "num": 131651,
+      "word": "陈乔恩回应看艾伦豪宅变脸",
+      "onboard_time": 1760871500,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 131587,
@@ -33739,14 +33851,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 124400,
-      "num": 161524,
-      "word": "短剧真情侣就是好嗑",
-      "onboard_time": 1760869641,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 124376,
       "num": 124376,
       "word": "荷兰被批劫掠中企",
@@ -35339,6 +35443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119838,
+      "num": 119838,
+      "word": "被拐18年男孩住孙海洋家附近7年",
+      "onboard_time": 1760869101,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119798,
       "num": 119798,
       "word": "迪丽热巴初秋plog",
@@ -35833,6 +35945,14 @@
       "onboard_time": 1760084781,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118580,
+      "num": 143363,
+      "word": "入青云主仆一对比一对好嗑",
+      "onboard_time": 1760871981,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 118578,
@@ -38643,6 +38763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111679,
+      "num": 111679,
+      "word": "王一博标记了一处出片地点",
+      "onboard_time": 1760870962,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111670,
       "num": 111670,
       "word": "涉事医院回应家属不献血不给做手术",
@@ -40267,14 +40395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 108694,
-      "num": 108694,
-      "word": "女子被救后举报施救者侵犯肖像权",
-      "onboard_time": 1760869762,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108664,
       "num": 135910,
       "word": "男子开飞机15分钟回老家过国庆",
@@ -40705,14 +40825,6 @@
       "onboard_time": 1760440461,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 107719,
-      "num": 107719,
-      "word": "被拐18年男孩住孙海洋家附近7年",
-      "onboard_time": 1760869101,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107702,
@@ -43307,14 +43419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102270,
-      "num": 102270,
-      "word": "锦州烧烤",
-      "onboard_time": 1760870001,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 102262,
       "num": 102262,
       "word": "王欣瑜挂着labubu想着wakuku",
@@ -44545,6 +44649,14 @@
       "onboard_time": 1760075540,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99549,
+      "num": 99549,
+      "word": "数名蒙面歹徒冲入卢浮宫",
+      "onboard_time": 1760872641,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 99525,
@@ -46923,6 +47035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93860,
+      "num": 93860,
+      "word": "惊天魔盗团",
+      "onboard_time": 1760872761,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93858,
       "num": 93858,
       "word": "当地公安回应主播收到炸弹包裹被炸伤",
@@ -47145,6 +47265,14 @@
       "onboard_time": 1759976299,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93443,
+      "num": 93443,
+      "word": "王安宇一分钟被淘汰两次",
+      "onboard_time": 1760872702,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 93428,
@@ -55491,6 +55619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66295,
+      "num": 134002,
+      "word": "蒙面者从卢浮宫盗走9件珠宝后逃离",
+      "onboard_time": 1760870902,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 66134,
       "num": 156116,
       "word": "园方回应东北虎二埋汰脏出新高度",
@@ -59515,6 +59651,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 39526,
+      "num": 202988,
+      "word": "PSG对战VKS",
+      "onboard_time": 1760872101,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 39518,
       "num": 103050,
       "word": "新凯来子公司全新软件打破国外垄断",
@@ -59713,6 +59857,14 @@
       "onboard_time": 1759361718,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 38093,
+      "num": 205532,
+      "word": "王鹤棣直播超绝镜头感",
+      "onboard_time": 1760870962,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 38083,
@@ -61249,6 +61401,14 @@
       "onboard_time": 1760513600,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 27297,
+      "num": 206008,
+      "word": "北京的秋天有多适合慢跑",
+      "onboard_time": 1760872161,
+      "rank": 14,
+      "category": "运动健身"
     },
     {
       "raw_hot": 27239,
