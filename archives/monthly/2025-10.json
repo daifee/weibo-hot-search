@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760894469209,
+  "endTime": 1760895470786,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -45387,6 +45387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99191,
+      "num": 338703,
+      "word": "双红会",
+      "onboard_time": 1760888122,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99145,
       "num": 145233,
       "word": "陈楚生获奖之作大运河音乐节首唱",
@@ -47921,14 +47929,6 @@
       "onboard_time": 1760024001,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 93393,
-      "num": 338703,
-      "word": "双红会",
-      "onboard_time": 1760888122,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 93373,
@@ -50953,6 +50953,14 @@
       "onboard_time": 1759236802,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86232,
+      "num": 87429,
+      "word": "野人孩子和父母已在管控范围内",
+      "onboard_time": 1760893219,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86226,
@@ -57011,14 +57019,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 63017,
-      "num": 87429,
-      "word": "野人孩子和父母已在管控范围内",
-      "onboard_time": 1760893219,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63016,
       "num": 88643,
       "word": "苏晓彤家里有一柜子辣条",
@@ -60203,6 +60203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 41906,
+      "num": 66134,
+      "word": "把生命力养起来的方法",
+      "onboard_time": 1760894716,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41886,
       "num": 44474,
       "word": "果然任何动物车坐久了都会憔悴",
@@ -62681,6 +62689,14 @@
       "onboard_time": 1760781683,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24501,
+      "num": 65911,
+      "word": "汪苏泷这句喜欢给我哄成胚胎了",
+      "onboard_time": 1760895016,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 24335,

@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760894469209,
+  "endTime": 1760895470786,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -2339,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99191,
+      "num": 338703,
+      "word": "双红会",
+      "onboard_time": 1760888122,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99017,
       "num": 99017,
       "word": "梅西帽子戏法",
@@ -2529,14 +2537,6 @@
       "onboard_time": 1760876602,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 93393,
-      "num": 338703,
-      "word": "双红会",
-      "onboard_time": 1760888122,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 93373,
@@ -2777,6 +2777,14 @@
       "onboard_time": 1760877742,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86232,
+      "num": 87429,
+      "word": "野人孩子和父母已在管控范围内",
+      "onboard_time": 1760893219,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86111,
@@ -3291,14 +3299,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 63017,
-      "num": 87429,
-      "word": "野人孩子和父母已在管控范围内",
-      "onboard_time": 1760893219,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62941,
       "num": 74468,
       "word": "余承恩 交作业",
@@ -3475,6 +3475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41906,
+      "num": 66134,
+      "word": "把生命力养起来的方法",
+      "onboard_time": 1760894716,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40774,
       "num": 64577,
       "word": "每个省都有自己专属应急食物",
@@ -3649,6 +3657,14 @@
       "onboard_time": 1760801243,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24501,
+      "num": 65911,
+      "word": "汪苏泷这句喜欢给我哄成胚胎了",
+      "onboard_time": 1760895016,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 24332,
