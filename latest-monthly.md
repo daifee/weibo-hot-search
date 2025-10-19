@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 14:35:39
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 14:47:00
 </p>
 </blockquote>
 <p>
@@ -4545,6 +4545,12 @@ iPhone天气你可能真的不会用（热度：556452）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E5%8E%BF%E5%B0%8F%E5%90%8312%E5%85%83%E9%B8%A1%E8%85%BF%E9%A5%AD%E5%87%8F%E8%82%A5%E9%A4%90%E7%81%AB%E4%BA%86%23" target="weibo">
+沙县小吃12元鸡腿饭减肥餐火了（热度：548255）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B9%BC%E5%84%BF%E5%9B%AD%E6%97%B6%E6%9C%9F%E7%9A%84%E7%85%A7%E7%89%87%23" target="weibo">
 肖战幼儿园时期的照片（热度：547691）
 </a>
@@ -4953,6 +4959,12 @@ GEN战胜T1（热度：526738）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%9F%8E%E5%A2%99%E5%B7%B2%E5%8F%98%E6%88%90%E5%B7%A8%E5%9E%8B%E7%94%9F%E6%80%81%E7%BC%B8%E4%BA%86%23" target="weibo">
+西安城墙已变成巨型生态缸了（热度：519351）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E5%8F%91%E7%8E%B0%E8%B6%8540%E5%90%A8%E9%87%91%E7%9F%BF%23" target="weibo">
 甘肃发现超40吨金矿（热度：518950）
 </a>
@@ -5111,12 +5123,6 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E5%AE%9E%E4%BD%93%E5%BA%97%E8%A1%A3%E6%9C%8D%E8%BF%99%E4%B9%88%E8%B4%B5%23" target="weibo">
 怪不得实体店衣服这么贵（热度：508199）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%9F%8E%E5%A2%99%E5%B7%B2%E5%8F%98%E6%88%90%E5%B7%A8%E5%9E%8B%E7%94%9F%E6%80%81%E7%BC%B8%E4%BA%86%23" target="weibo">
-西安城墙已变成巨型生态缸了（热度：508120）
 </a>
 </li>
 
@@ -5813,12 +5819,6 @@ TheShy回应上单韦鲁斯（热度：477977）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%89%9B%E6%9D%82%E5%BA%97%E7%8E%B0%E5%9C%BA%E6%89%8B%E5%8A%A8%E6%94%B9%E4%BB%B7%23" target="weibo">
 官方通报牛杂店现场手动改价（热度：466195）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E5%8E%BF%E5%B0%8F%E5%90%8312%E5%85%83%E9%B8%A1%E8%85%BF%E9%A5%AD%E5%87%8F%E8%82%A5%E9%A4%90%E7%81%AB%E4%BA%86%23" target="weibo">
-沙县小吃12元鸡腿饭减肥餐火了（热度：466013）
 </a>
 </li>
 

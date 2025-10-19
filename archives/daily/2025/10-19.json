@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760855739521,
+  "endTime": 1760856420265,
   "band_list": [
     {
       "raw_hot": 2202319,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 548255,
+      "num": 406445,
+      "word": "沙县小吃12元鸡腿饭减肥餐火了",
+      "onboard_time": 1760852422,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 544848,
       "num": 458200,
       "word": "月亮姐姐官宣离开少儿频道",
@@ -139,8 +147,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 508120,
-      "num": 1081299,
+      "raw_hot": 519351,
+      "num": 1083096,
       "word": "西安城墙已变成巨型生态缸了",
       "onboard_time": 1760848699,
       "rank": 31,
@@ -160,14 +168,6 @@
       "word": "请求核查野人男孩父母收入来源",
       "onboard_time": 1760800883,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 466013,
-      "num": 177004,
-      "word": "沙县小吃12元鸡腿饭减肥餐火了",
-      "onboard_time": 1760852422,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 369633,
-      "num": 285568,
+      "num": 322875,
       "word": "陈乔恩辟谣艾伦私生子",
       "onboard_time": 1760850981,
       "rank": 26,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 299788,
-      "num": 193251,
+      "num": 281857,
       "word": "明意纪伯宰圆房",
       "onboard_time": 1760851160,
       "rank": 32,
@@ -369,6 +369,14 @@
       "onboard_time": 1760796982,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 238824,
+      "num": 238824,
+      "word": "男子喝奶茶的黄金吸管骑车时丢失",
+      "onboard_time": 1760855120,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236356,
@@ -515,8 +523,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169539,
+      "num": 1026894,
+      "word": "美国多地爆发反特朗普集会",
+      "onboard_time": 1760850800,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 167955,
+      "num": 167955,
+      "word": "晋A99999劳斯莱斯180万成功拍卖",
+      "onboard_time": 1760853560,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166730,
-      "num": 247166,
+      "num": 692334,
       "word": "我国成功发射力箭一号遥八运载火箭",
       "onboard_time": 1760849120,
       "rank": 15,
@@ -537,6 +561,14 @@
       "onboard_time": 1760850320,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163711,
+      "num": 163711,
+      "word": "先天瘦子和后天瘦子的区别",
+      "onboard_time": 1760852840,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 163660,
@@ -571,14 +603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154246,
-      "num": 154246,
-      "word": "先天瘦子和后天瘦子的区别",
-      "onboard_time": 1760852840,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 153781,
       "num": 153781,
       "word": "任嘉伦NBA最佳全能艺人奖",
@@ -587,24 +611,8 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 153076,
-      "num": 153076,
-      "word": "美国多地爆发反特朗普集会",
-      "onboard_time": 1760850800,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 152816,
-      "num": 152816,
-      "word": "男子喝奶茶的黄金吸管骑车时丢失",
-      "onboard_time": 1760855120,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 152329,
-      "num": 152329,
+      "num": 385526,
       "word": "杨振宁关门弟子翟荟悼念恩师",
       "onboard_time": 1760853260,
       "rank": 26,
@@ -617,6 +625,22 @@
       "onboard_time": 1760787982,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146474,
+      "num": 146474,
+      "word": "马思纯一句话点破旅行真相",
+      "onboard_time": 1760854821,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 145276,
+      "num": 145276,
+      "word": "没有伴郎提醒新郎已经回家装显卡了",
+      "onboard_time": 1760854940,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 144470,
@@ -641,14 +665,6 @@
       "onboard_time": 1760849841,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 137901,
-      "num": 137901,
-      "word": "晋A99999劳斯莱斯180万成功拍卖",
-      "onboard_time": 1760853560,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137675,
@@ -747,20 +763,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125469,
-      "num": 125469,
-      "word": "马思纯一句话点破旅行真相",
-      "onboard_time": 1760854821,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125171,
       "num": 125171,
       "word": "Knight想和T1瑞士轮交手",
       "onboard_time": 1760843001,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124305,
+      "num": 124305,
+      "word": "王影璐偏偏你最争气",
+      "onboard_time": 1760853380,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123575,
+      "num": 123575,
+      "word": "胡锡进谈小米呼吁抵制黑公关和水军",
+      "onboard_time": 1760855422,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122050,
@@ -835,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117383,
+      "num": 117383,
+      "word": "翁帆说杨先生离开的时候一定很欣慰",
+      "onboard_time": 1760856140,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114704,
       "num": 114704,
       "word": "张小斐像是来谈收购的",
@@ -849,14 +881,6 @@
       "onboard_time": 1760790861,
       "rank": 27,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 114123,
-      "num": 114123,
-      "word": "没有伴郎提醒新郎已经回家装显卡了",
-      "onboard_time": 1760854940,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 112636,
@@ -891,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110436,
+      "num": 110436,
+      "word": "十年前买的衣服",
+      "onboard_time": 1760854400,
+      "rank": 40,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 109931,
       "num": 109931,
       "word": "张本智和只怵王楚钦",
@@ -907,20 +939,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109129,
+      "num": 109129,
+      "word": "黄宗泽 做人不要这么八卦啦",
+      "onboard_time": 1760854220,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 108589,
+      "num": 108589,
+      "word": "村民回应2年前初见野人孩子",
+      "onboard_time": 1760854701,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108046,
       "num": 108046,
       "word": "这居然是任敏",
       "onboard_time": 1760777782,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107393,
-      "num": 107393,
-      "word": "胡锡进谈小米呼吁抵制黑公关和水军",
-      "onboard_time": 1760855422,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107282,
@@ -987,20 +1027,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 103337,
-      "num": 103337,
-      "word": "十年前买的衣服",
-      "onboard_time": 1760854400,
-      "rank": 40,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 103167,
       "num": 103167,
       "word": "友人称杨振宁没能二度获诺奖是遗憾",
       "onboard_time": 1760845101,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103057,
+      "num": 103057,
+      "word": "沙县减肥法",
+      "onboard_time": 1760855961,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 102775,
@@ -1011,16 +1051,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102284,
-      "num": 102284,
-      "word": "村民回应2年前初见野人孩子",
-      "onboard_time": 1760854701,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101983,
-      "num": 136045,
+      "num": 146491,
       "word": "HPV科普遇见麦迪校园行",
       "onboard_time": 1760854100,
       "rank": 29,
@@ -1049,6 +1081,22 @@
       "onboard_time": 1760847860,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 100482,
+      "num": 100482,
+      "word": "苏醒居然集齐了快男和偶练人脉",
+      "onboard_time": 1760856260,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99595,
+      "num": 99595,
+      "word": "锦州到底有谁在啊",
+      "onboard_time": 1760856321,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 99017,
@@ -1091,14 +1139,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96608,
-      "num": 96608,
-      "word": "王影璐偏偏你最争气",
-      "onboard_time": 1760853380,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95619,
       "num": 95619,
       "word": "客服回应3万元直角皮鞋争议",
@@ -1129,14 +1169,6 @@
       "onboard_time": 1760828596,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93887,
-      "num": 93887,
-      "word": "黄宗泽 做人不要这么八卦啦",
-      "onboard_time": 1760854220,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 93747,
@@ -1372,7 +1404,7 @@
     },
     {
       "raw_hot": 80810,
-      "num": 161634,
+      "num": 244945,
       "word": "京东2351元补贴",
       "onboard_time": 1760854041,
       "rank": 19,
@@ -1731,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35020,
+      "num": 104675,
+      "word": "男子为女友买万元购物卡被民警猛追",
+      "onboard_time": 1760854760,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32551,
       "num": 42558,
       "word": "侯明昊看姻缘石刻字名场面reaction",
@@ -1760,14 +1800,6 @@
       "word": "日入1元配当花西子竞品吗",
       "onboard_time": 1760848639,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30060,
-      "num": 104675,
-      "word": "男子为女友买万元购物卡被民警猛追",
-      "onboard_time": 1760854760,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1827,7 +1859,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20998,
+      "raw_hot": 21488,
       "num": 152825,
       "word": "物理学者施郁缅怀杨振宁",
       "onboard_time": 1760854341,
@@ -1852,7 +1884,7 @@
     },
     {
       "raw_hot": 18946,
-      "num": 164706,
+      "num": 295088,
       "word": "女王盐E人属性大爆发",
       "onboard_time": 1760853681,
       "rank": 14,
@@ -1883,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 11394,
+      "num": 109320,
+      "word": "姐姐亲自接18年被拐弟弟回家",
+      "onboard_time": 1760856080,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10726,
       "num": 34698,
       "word": "陈芋汐挑战极限",
@@ -1895,6 +1935,14 @@
       "num": 190056,
       "word": "被拐男孩母亲称没有养父母只有买家",
       "onboard_time": 1760848699,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10026,
+      "num": 250382,
+      "word": "湖北一处山体滑坡房屋瞬间被掩埋",
+      "onboard_time": 1760856080,
       "rank": 18,
       "category": "民生新闻"
     },

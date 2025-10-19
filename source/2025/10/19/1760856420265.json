@@ -1,0 +1,410 @@
+{
+  "runTime": 1760856420265,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 519351,
+        "num": 1083096,
+        "word": "西安城墙已变成巨型生态缸了",
+        "onboard_time": 1760848699,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169539,
+        "num": 1026894,
+        "word": "美国多地爆发反特朗普集会",
+        "onboard_time": 1760850800,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5906,
+        "num": 903769,
+        "word": "红星照耀中国",
+        "onboard_time": 1760593821,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241502,
+        "num": 829657,
+        "word": "我家那闺女",
+        "onboard_time": 1760851101,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165505,
+        "num": 692334,
+        "word": "我国成功发射力箭一号遥八运载火箭",
+        "onboard_time": 1760849120,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152233,
+        "num": 542500,
+        "word": "4K修复志愿军跨过鸭绿江影像",
+        "onboard_time": 1760844261,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 521097,
+        "num": 521097,
+        "word": "翁帆发文纪念杨振宁",
+        "onboard_time": 1760839400,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164024,
+        "num": 497044,
+        "word": "入青云",
+        "onboard_time": 1760843721,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160931,
+        "num": 473672,
+        "word": "美国网络攻击我国",
+        "onboard_time": 1760832860,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157124,
+        "num": 441037,
+        "word": "切莫用黑公关污名化公众安全关切",
+        "onboard_time": 1760843839,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 548255,
+        "num": 406445,
+        "word": "沙县小吃12元鸡腿饭减肥餐火了",
+        "onboard_time": 1760852422,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139961,
+        "num": 385526,
+        "word": "杨振宁关门弟子翟荟悼念恩师",
+        "onboard_time": 1760853260,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373856,
+        "num": 373856,
+        "word": "周杰伦新歌灵感与霉霉相撞",
+        "onboard_time": 1760848639,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 322875,
+        "num": 322875,
+        "word": "陈乔恩辟谣艾伦私生子",
+        "onboard_time": 1760850981,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18284,
+        "num": 295088,
+        "word": "女王盐E人属性大爆发",
+        "onboard_time": 1760853681,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281857,
+        "num": 281857,
+        "word": "明意纪伯宰圆房",
+        "onboard_time": 1760851160,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269681,
+        "num": 269681,
+        "word": "杨振宁与二次诺奖失之交臂",
+        "onboard_time": 1760850081,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260033,
+        "num": 260033,
+        "word": "杨紫李现友情",
+        "onboard_time": 1760845221,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10026,
+        "num": 250382,
+        "word": "湖北一处山体滑坡房屋瞬间被掩埋",
+        "onboard_time": 1760856080,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68573,
+        "num": 244945,
+        "word": "京东2351元补贴",
+        "onboard_time": 1760854041,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 242641,
+        "num": 242641,
+        "word": "陈伟霆好友2022年就已知道恋情",
+        "onboard_time": 1760847682,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238824,
+        "num": 238824,
+        "word": "男子喝奶茶的黄金吸管骑车时丢失",
+        "onboard_time": 1760855120,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192541,
+        "num": 192541,
+        "word": "周迅闷声干大事",
+        "onboard_time": 1760847741,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167955,
+        "num": 167955,
+        "word": "晋A99999劳斯莱斯180万成功拍卖",
+        "onboard_time": 1760853560,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164501,
+        "num": 164501,
+        "word": "27岁瞒着家人买了一套房",
+        "onboard_time": 1760837360,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163711,
+        "num": 163711,
+        "word": "先天瘦子和后天瘦子的区别",
+        "onboard_time": 1760852840,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159961,
+        "num": 159961,
+        "word": "北京下雪了",
+        "onboard_time": 1760805440,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155459,
+        "num": 155459,
+        "word": "长期缺乏雌激素的风险",
+        "onboard_time": 1760848881,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103797,
+        "num": 147121,
+        "word": "天地剑心",
+        "onboard_time": 1760844439,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64497,
+        "num": 146491,
+        "word": "HPV科普遇见麦迪校园行",
+        "onboard_time": 1760854100,
+        "rank": 29,
+        "category": "体育,科学科普"
+      },
+      {
+        "raw_hot": 146474,
+        "num": 146474,
+        "word": "马思纯一句话点破旅行真相",
+        "onboard_time": 1760854821,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145276,
+        "num": 145276,
+        "word": "没有伴郎提醒新郎已经回家装显卡了",
+        "onboard_time": 1760854940,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133445,
+        "num": 133445,
+        "word": "多地警方联动寻找野人小孩一家",
+        "onboard_time": 1760846420,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124305,
+        "num": 124305,
+        "word": "王影璐偏偏你最争气",
+        "onboard_time": 1760853380,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123575,
+        "num": 123575,
+        "word": "胡锡进谈小米呼吁抵制黑公关和水军",
+        "onboard_time": 1760855422,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117383,
+        "num": 117383,
+        "word": "翁帆说杨先生离开的时候一定很欣慰",
+        "onboard_time": 1760856140,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21488,
+        "num": 113908,
+        "word": "物理学者施郁缅怀杨振宁",
+        "onboard_time": 1760854341,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112600,
+        "num": 112600,
+        "word": "听女儿说儿子被抢走叶母很绝望",
+        "onboard_time": 1760854580,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110436,
+        "num": 110436,
+        "word": "十年前买的衣服",
+        "onboard_time": 1760854400,
+        "rank": 38,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 11394,
+        "num": 109320,
+        "word": "姐姐亲自接18年被拐弟弟回家",
+        "onboard_time": 1760856080,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109129,
+        "num": 109129,
+        "word": "黄宗泽 做人不要这么八卦啦",
+        "onboard_time": 1760854220,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108589,
+        "num": 108589,
+        "word": "村民回应2年前初见野人孩子",
+        "onboard_time": 1760854701,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103057,
+        "num": 103057,
+        "word": "沙县减肥法",
+        "onboard_time": 1760855961,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 102353,
+        "num": 102353,
+        "word": "家里不乱的可以买回去添乱",
+        "onboard_time": 1760853980,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102293,
+        "num": 102293,
+        "word": "固态电池突破",
+        "onboard_time": 1760837540,
+        "rank": 44,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 100482,
+        "num": 100482,
+        "word": "苏醒居然集齐了快男和偶练人脉",
+        "onboard_time": 1760856260,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99595,
+        "num": 99595,
+        "word": "锦州到底有谁在啊",
+        "onboard_time": 1760856321,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35020,
+        "num": 99480,
+        "word": "男子为女友买万元购物卡被民警猛追",
+        "onboard_time": 1760854760,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99476,
+        "num": 99476,
+        "word": "迪丽热巴粉丝回应上热搜",
+        "onboard_time": 1760849120,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98600,
+        "num": 98600,
+        "word": "翁帆说杨振宁交出了满意答卷",
+        "onboard_time": 1760838320,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的十四五瞩望已然落地生根#"
+    }
+  }
+}
