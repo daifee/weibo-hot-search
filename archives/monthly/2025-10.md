@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 00:29:23
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 00:43:39
 </p>
 </blockquote>
 <p>
@@ -137,6 +137,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E5%BE%97%E5%A5%96%23" target="weibo">
 小S得奖（热度：3017470）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%AD%A9%E5%AD%90%E5%B7%B2%E5%87%BA%E7%8E%B0%E5%8A%A8%E7%89%A9%E5%8C%96%E7%89%B9%E5%BE%81%23" target="weibo">
+野人孩子已出现动物化特征（热度：2943828）
 </a>
 </li>
 
@@ -323,12 +329,6 @@ T1战胜iG（热度：2289458）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iG%E5%AF%B9%E6%88%98T1%23" target="weibo">
 iG对战T1（热度：1886560）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%AD%A9%E5%AD%90%E5%B7%B2%E5%87%BA%E7%8E%B0%E5%8A%A8%E7%89%A9%E5%8C%96%E7%89%B9%E5%BE%81%23" target="weibo">
-野人孩子已出现动物化特征（热度：1885905）
 </a>
 </li>
 
@@ -851,6 +851,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%20%E5%B0%8F%E7%B1%B3%23" target="weibo">
 成都 小米（热度：1327731）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%B0%86%E7%BB%99%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E8%90%BD%E6%88%B7%E5%8C%97%E4%BA%AC%23" target="weibo">
+家属将给野人小孩落户北京（热度：1327192）
 </a>
 </li>
 
@@ -1781,12 +1787,6 @@ GEN抽到TES（热度：1062021）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E8%BF%9E%E7%BB%AD%E4%B8%89%E5%B9%B4%E7%BB%99%E5%AD%9F%E5%AE%B4%E8%87%A3%E5%BA%86%E7%94%9F%23" target="weibo">
 魏大勋连续三年给孟宴臣庆生（热度：968443）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E5%B0%86%E7%BB%99%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E8%90%BD%E6%88%B7%E5%8C%97%E4%BA%AC%23" target="weibo">
-家属将给野人小孩落户北京（热度：967993）
 </a>
 </li>
 
@@ -4413,6 +4413,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8D%A2%E6%98%B1%E6%99%93%20%E6%8E%A5%E4%BA%8C%E6%90%AD%23" target="weibo">
+侯明昊卢昱晓 接二搭（热度：567050）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E4%BB%A3%E5%86%99%E8%AE%BA%E6%96%87%E9%BB%91%E5%B7%A5%E5%8E%82%23" target="weibo">
 央视曝光AI代写论文黑工厂（热度：566048）
 </a>
@@ -5339,12 +5345,6 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%83%E6%B4%9B%E8%8A%AC%E7%8E%87%E5%85%88%E5%8F%91%E7%8E%B0%E4%BA%86%E7%94%B2%E6%B2%9F%E7%82%8E%23" target="weibo">
 布洛芬率先发现了甲沟炎（热度：503879）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8D%A2%E6%98%B1%E6%99%93%20%E6%8E%A5%E4%BA%8C%E6%90%AD%23" target="weibo">
-侯明昊卢昱晓 接二搭（热度：503435）
 </a>
 </li>
 
