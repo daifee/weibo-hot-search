@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 13:40:54
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 14:35:39
 </p>
 </blockquote>
 <p>
@@ -5115,6 +5115,12 @@ GEN战胜T1（热度：526738）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%9F%8E%E5%A2%99%E5%B7%B2%E5%8F%98%E6%88%90%E5%B7%A8%E5%9E%8B%E7%94%9F%E6%80%81%E7%BC%B8%E4%BA%86%23" target="weibo">
+西安城墙已变成巨型生态缸了（热度：508120）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%A4%AB%E4%BA%BA%E8%A2%AB%E8%BF%AB%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E4%B8%8D%E6%98%AF%E7%94%B7%E4%BA%BA%23" target="weibo">
 法国第一夫人被迫证明自己不是男人（热度：508113）
 </a>
@@ -5811,6 +5817,12 @@ TheShy回应上单韦鲁斯（热度：477977）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E5%8E%BF%E5%B0%8F%E5%90%8312%E5%85%83%E9%B8%A1%E8%85%BF%E9%A5%AD%E5%87%8F%E8%82%A5%E9%A4%90%E7%81%AB%E4%BA%86%23" target="weibo">
+沙县小吃12元鸡腿饭减肥餐火了（热度：466013）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E6%91%A7%E6%AF%81%E4%B8%80%E5%A4%A7%E5%9E%8B%E6%BD%9C%E8%89%87%23" target="weibo">
 特朗普称美军摧毁一大型潜艇（热度：465852）
 </a>
@@ -5999,18 +6011,6 @@ UNINE合体（热度：458011）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23K%E7%AD%BE%E8%AF%81%23" target="weibo">
 K签证（热度：453444）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%23" target="weibo">
-枭起青壤（热度：453342）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%AE%B6%E7%A7%B0%E6%9D%80%E4%BA%BA%E6%B2%A1%E4%BB%80%E4%B9%88%E6%84%9F%E5%8F%97%23" target="weibo">
-魏家称杀人没什么感受（热度：453281）
 </a>
 </li>
 

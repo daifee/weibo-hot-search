@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760852454337,
+  "endTime": 1760855739521,
   "band_list": [
     {
       "raw_hot": 2202319,
@@ -139,6 +139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 508120,
+      "num": 1081299,
+      "word": "西安城墙已变成巨型生态缸了",
+      "onboard_time": 1760848699,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 496617,
       "num": 496617,
       "word": "周杰伦新歌灵感与霉霉相撞",
@@ -152,6 +160,14 @@
       "word": "请求核查野人男孩父母收入来源",
       "onboard_time": 1760800883,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 466013,
+      "num": 177004,
+      "word": "沙县小吃12元鸡腿饭减肥餐火了",
+      "onboard_time": 1760852422,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -209,6 +225,14 @@
       "onboard_time": 1760850081,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 369633,
+      "num": 285568,
+      "word": "陈乔恩辟谣艾伦私生子",
+      "onboard_time": 1760850981,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 367254,
@@ -283,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299788,
+      "num": 193251,
+      "word": "明意纪伯宰圆房",
+      "onboard_time": 1760851160,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299049,
       "num": 1021441,
       "word": "切莫用黑公关污名化公众安全关切",
@@ -297,14 +329,6 @@
       "onboard_time": 1760781621,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 285568,
-      "num": 285568,
-      "word": "陈乔恩辟谣艾伦私生子",
-      "onboard_time": 1760850981,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 281414,
@@ -411,14 +435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197771,
-      "num": 1046223,
-      "word": "西安城墙已变成巨型生态缸了",
-      "onboard_time": 1760848699,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195819,
       "num": 195819,
       "word": "75年前的今天志愿军跨过鸭绿江",
@@ -432,14 +448,6 @@
       "word": "成毅新剧开机人气",
       "onboard_time": 1760844921,
       "rank": 21,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 193251,
-      "num": 193251,
-      "word": "明意纪伯宰圆房",
-      "onboard_time": 1760851160,
-      "rank": 32,
       "category": "剧集"
     },
     {
@@ -563,6 +571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154246,
+      "num": 154246,
+      "word": "先天瘦子和后天瘦子的区别",
+      "onboard_time": 1760852840,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153781,
       "num": 153781,
       "word": "任嘉伦NBA最佳全能艺人奖",
@@ -571,20 +587,36 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 153076,
+      "num": 153076,
+      "word": "美国多地爆发反特朗普集会",
+      "onboard_time": 1760850800,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 152816,
+      "num": 152816,
+      "word": "男子喝奶茶的黄金吸管骑车时丢失",
+      "onboard_time": 1760855120,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152329,
+      "num": 152329,
+      "word": "杨振宁关门弟子翟荟悼念恩师",
+      "onboard_time": 1760853260,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147541,
       "num": 185698,
       "word": "新任中国国民党主席郑丽文",
       "onboard_time": 1760787982,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 147219,
-      "num": 147219,
-      "word": "美国多地爆发反特朗普集会",
-      "onboard_time": 1760850800,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 144470,
@@ -609,6 +641,14 @@
       "onboard_time": 1760849841,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137901,
+      "num": 137901,
+      "word": "晋A99999劳斯莱斯180万成功拍卖",
+      "onboard_time": 1760853560,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137675,
@@ -683,19 +723,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 130855,
+      "num": 130855,
+      "word": "家里不乱的可以买回去添乱",
+      "onboard_time": 1760853980,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130787,
       "num": 130787,
       "word": "圆明园复原后长这样",
       "onboard_time": 1760797343,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129599,
-      "num": 129599,
-      "word": "沙县小吃12元鸡腿饭减肥餐火了",
-      "onboard_time": 1760852422,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -705,6 +745,14 @@
       "onboard_time": 1760851700,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125469,
+      "num": 125469,
+      "word": "马思纯一句话点破旅行真相",
+      "onboard_time": 1760854821,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 125171,
@@ -729,6 +777,14 @@
       "onboard_time": 1760852120,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 121082,
+      "num": 121082,
+      "word": "听女儿说儿子被抢走叶母很绝望",
+      "onboard_time": 1760854580,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120537,
@@ -795,6 +851,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 114123,
+      "num": 114123,
+      "word": "没有伴郎提醒新郎已经回家装显卡了",
+      "onboard_time": 1760854940,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 112636,
       "num": 112636,
       "word": "志愿军出国作战75周年",
@@ -849,6 +913,14 @@
       "onboard_time": 1760777782,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107393,
+      "num": 107393,
+      "word": "胡锡进谈小米呼吁抵制黑公关和水军",
+      "onboard_time": 1760855422,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107282,
@@ -915,6 +987,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 103337,
+      "num": 103337,
+      "word": "十年前买的衣服",
+      "onboard_time": 1760854400,
+      "rank": 40,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 103167,
       "num": 103167,
       "word": "友人称杨振宁没能二度获诺奖是遗憾",
@@ -929,6 +1009,22 @@
       "onboard_time": 1760791942,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102284,
+      "num": 102284,
+      "word": "村民回应2年前初见野人孩子",
+      "onboard_time": 1760854701,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101983,
+      "num": 136045,
+      "word": "HPV科普遇见麦迪校园行",
+      "onboard_time": 1760854100,
+      "rank": 29,
+      "category": "体育,科学科普"
     },
     {
       "raw_hot": 101513,
@@ -963,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97136,
+      "num": 97136,
+      "word": "肚腩变大可能是缺雌激素",
+      "onboard_time": 1760853800,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 97081,
       "num": 97081,
       "word": "第一次见到跟小马一样大的狗",
@@ -985,6 +1089,14 @@
       "onboard_time": 1760839940,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96608,
+      "num": 96608,
+      "word": "王影璐偏偏你最争气",
+      "onboard_time": 1760853380,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 95619,
@@ -1017,6 +1129,14 @@
       "onboard_time": 1760828596,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93887,
+      "num": 93887,
+      "word": "黄宗泽 做人不要这么八卦啦",
+      "onboard_time": 1760854220,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 93747,
@@ -1195,6 +1315,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82481,
+      "num": 82481,
+      "word": "沈佳润饭撒天才",
+      "onboard_time": 1760852900,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 82455,
+      "num": 82455,
+      "word": "突然理解班主任为啥总板着脸了",
+      "onboard_time": 1760852721,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81835,
       "num": 81835,
       "word": "刘芸你要对我的爱情负责",
@@ -1233,6 +1369,14 @@
       "onboard_time": 1760815154,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80810,
+      "num": 161634,
+      "word": "京东2351元补贴",
+      "onboard_time": 1760854041,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 79929,
@@ -1619,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30060,
+      "num": 104675,
+      "word": "男子为女友买万元购物卡被民警猛追",
+      "onboard_time": 1760854760,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26033,
       "num": 209129,
       "word": "吕艳婷被配音耽误的方言大师",
@@ -1675,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 20998,
+      "num": 152825,
+      "word": "物理学者施郁缅怀杨振宁",
+      "onboard_time": 1760854341,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20909,
       "num": 34881,
       "word": "肖战刘铮亮白大褂海报",
@@ -1689,6 +1849,14 @@
       "onboard_time": 1760813715,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 18946,
+      "num": 164706,
+      "word": "女王盐E人属性大爆发",
+      "onboard_time": 1760853681,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 17257,
@@ -1731,7 +1899,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 5718,
+      "raw_hot": 6140,
       "num": 937094,
       "word": "红星照耀中国",
       "onboard_time": 1760593821,
