@@ -1,0 +1,410 @@
+{
+  "runTime": 1760839445895,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 691908,
+        "num": 1110705,
+        "word": "美国网络攻击我国",
+        "onboard_time": 1760832860,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 450949,
+        "num": 450949,
+        "word": "固态电池突破",
+        "onboard_time": 1760837540,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 30411,
+        "num": 400569,
+        "word": "网警侦破非法控制计算机信息系统案",
+        "onboard_time": 1760838680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 367254,
+        "num": 367254,
+        "word": "高市早苗首相稳了",
+        "onboard_time": 1760836160,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 317171,
+        "num": 317171,
+        "word": "北京下雪了",
+        "onboard_time": 1760805440,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304852,
+        "num": 304852,
+        "word": "杨振宁在美办公室有人凌晨献花",
+        "onboard_time": 1760799742,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259411,
+        "num": 259411,
+        "word": "特朗普称美军摧毁一大型潜艇",
+        "onboard_time": 1760838800,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246017,
+        "num": 246017,
+        "word": "中国粉碎美方网攻图谋",
+        "onboard_time": 1760833759,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220154,
+        "num": 220154,
+        "word": "凌晨三点叫你出来玩你不出来",
+        "onboard_time": 1760811556,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219134,
+        "num": 219134,
+        "word": "月亮姐姐官宣离开少儿频道",
+        "onboard_time": 1760799203,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1357617,
+        "num": 217665,
+        "word": "陈伟霆 何穗",
+        "onboard_time": 1760835560,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 828124,
+        "num": 215774,
+        "word": "翁帆说杨振宁交出了满意答卷",
+        "onboard_time": 1760838320,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 801691,
+        "num": 210639,
+        "word": "时尚芭莎删除那艺娜物料",
+        "onboard_time": 1760832739,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 459268,
+        "num": 206299,
+        "word": "沙溢曾吃了狗吃过的面发烧三天",
+        "onboard_time": 1760829377,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421803,
+        "num": 203398,
+        "word": "27岁瞒着家人买了一套房",
+        "onboard_time": 1760837360,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 329633,
+        "num": 200059,
+        "word": "金饰克价一夜降17元",
+        "onboard_time": 1760837420,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 250124,
+        "num": 197778,
+        "word": "翁帆发文纪念杨振宁",
+        "onboard_time": 1760839400,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195819,
+        "num": 195819,
+        "word": "75年前的今天志愿军跨过鸭绿江",
+        "onboard_time": 1760833822,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176827,
+        "num": 176827,
+        "word": "杨振宁逝世",
+        "onboard_time": 1760761410,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163660,
+        "num": 163660,
+        "word": "Bin曾说16强就不打了",
+        "onboard_time": 1760829797,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184353,
+        "num": 163207,
+        "word": "网传何穗前夫参加过再见爱人",
+        "onboard_time": 1760799384,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157340,
+        "num": 157340,
+        "word": "李沁去有风的地方",
+        "onboard_time": 1760831118,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136848,
+        "num": 136848,
+        "word": "若不爆冷BLG抽中T1概率第二大",
+        "onboard_time": 1760838800,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119309,
+        "num": 119309,
+        "word": "郑恺苗苗从小共用一张脸",
+        "onboard_time": 1760791704,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118752,
+        "num": 118752,
+        "word": "沈佳润音乐节没报备版美美Sunday",
+        "onboard_time": 1760800763,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114651,
+        "num": 114651,
+        "word": "下一个台风叫风神",
+        "onboard_time": 1760836341,
+        "rank": 25,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 110463,
+        "num": 110463,
+        "word": "工人伐木时误拆了小浣熊的家",
+        "onboard_time": 1760835199,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105660,
+        "num": 105660,
+        "word": "志愿军出国作战75周年",
+        "onboard_time": 1760833822,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77611,
+        "num": 103792,
+        "word": "金钟奖获奖名单",
+        "onboard_time": 1760835501,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 77047,
+        "num": 103044,
+        "word": "入青云热度破9900",
+        "onboard_time": 1760838559,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116702,
+        "num": 102813,
+        "word": "张晚意下水为李沁捡帽子",
+        "onboard_time": 1760838740,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102582,
+        "num": 102582,
+        "word": "寿命长的人脖子一般有5个特征",
+        "onboard_time": 1760796982,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99017,
+        "num": 99017,
+        "word": "梅西帽子戏法",
+        "onboard_time": 1760838800,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95619,
+        "num": 95619,
+        "word": "客服回应3万元直角皮鞋争议",
+        "onboard_time": 1760839400,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93597,
+        "num": 93597,
+        "word": "圆明园复原后长这样",
+        "onboard_time": 1760797343,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92755,
+        "num": 92755,
+        "word": "今年秋冬或形成一次弱拉尼娜事件",
+        "onboard_time": 1760804722,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92678,
+        "num": 92678,
+        "word": "侯明昊卢昱晓回应曾擦身而过",
+        "onboard_time": 1760838261,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89622,
+        "num": 89622,
+        "word": "清华学子说得知杨振宁病逝很震惊",
+        "onboard_time": 1760837900,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85124,
+        "num": 85124,
+        "word": "中国游客去夏威夷被原住民骂",
+        "onboard_time": 1760796803,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84955,
+        "num": 84955,
+        "word": "我上班时就这样",
+        "onboard_time": 1760838500,
+        "rank": 39,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 83938,
+        "num": 83938,
+        "word": "山狮误将家猫当成幼崽",
+        "onboard_time": 1760836220,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82981,
+        "num": 82981,
+        "word": "雄赳赳气昂昂出自44字出征诗",
+        "onboard_time": 1760834359,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81618,
+        "num": 81618,
+        "word": "陈小春复刻与Jasper对话",
+        "onboard_time": 1760834781,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81232,
+        "num": 81232,
+        "word": "杨谨华金钟奖视后",
+        "onboard_time": 1760829377,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78962,
+        "num": 78962,
+        "word": "乘客开门杀撞伤人司机被判赔200万",
+        "onboard_time": 1760796083,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78521,
+        "num": 78521,
+        "word": "烧伤女主播嫌疑人曾刷礼物追求被拒",
+        "onboard_time": 1760837241,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77359,
+        "num": 77359,
+        "word": "断崖式降温让我的懒有了合理性",
+        "onboard_time": 1760838019,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78271,
+        "num": 77048,
+        "word": "曾舜晞送走汤唯牵走白鹿",
+        "onboard_time": 1760797043,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76575,
+        "num": 76575,
+        "word": "外网称杨振宁无需与他人比较",
+        "onboard_time": 1760836821,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56787,
+        "num": 76335,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1760831057,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画中国式现代化新篇章#"
+    }
+  }
+}

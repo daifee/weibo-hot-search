@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 07:36:46
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 10:04:05
 </p>
 </blockquote>
 <p>
@@ -773,6 +773,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E5%8D%95%E6%96%B9%E9%9D%A2%E5%AE%98%E5%AE%A3%E8%A2%AB%E9%BA%A6%E8%BF%AA%E5%A8%9C%E5%85%AC%E5%8F%B8%E5%A9%89%E6%8B%92%E4%BA%86%23" target="weibo">
 姜潮单方面官宣被麦迪娜公司婉拒了（热度：1364560）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%20%E4%BD%95%E7%A9%97%23" target="weibo">
+陈伟霆 何穗（热度：1357617）
 </a>
 </li>
 
@@ -2325,6 +2331,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BF%81%E5%B8%86%E8%AF%B4%E6%9D%A8%E6%8C%AF%E5%AE%81%E4%BA%A4%E5%87%BA%E4%BA%86%E6%BB%A1%E6%84%8F%E7%AD%94%E5%8D%B7%23" target="weibo">
+翁帆说杨振宁交出了满意答卷（热度：828124）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E5%9C%A8%E5%9B%BD%E5%A4%96%E7%BE%8E%E6%88%90%E5%95%A5%E4%BA%86%23" target="weibo">
 赵今麦在国外美成啥了（热度：827159）
 </a>
@@ -2495,6 +2507,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BA%9A%E9%B9%8F%20%E5%85%B1%E5%88%9B%E7%A6%BB%E5%A9%9A%E8%A7%86%E9%A2%91%23" target="weibo">
 李亚鹏 共创离婚视频（热度：802036）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E%E5%88%A0%E9%99%A4%E9%82%A3%E8%89%BA%E5%A8%9C%E7%89%A9%E6%96%99%23" target="weibo">
+时尚芭莎删除那艺娜物料（热度：801691）
 </a>
 </li>
 
@@ -3089,6 +3107,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E7%9C%9F%E4%B8%8D%E8%83%BD%E4%B8%80%E7%9B%B4%E4%BD%8F%E5%A4%AA%E5%B7%AE%E7%9A%84%E6%88%BF%E5%AD%90%23" target="weibo">
 人真不能一直住太差的房子（热度：692550）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E6%88%91%E5%9B%BD%23" target="weibo">
+美国网络攻击我国（热度：691908）
 </a>
 </li>
 
@@ -5817,6 +5841,12 @@ TaylorSwift忘了通知EdSheeran订婚（热度：461697）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E6%9B%BE%E5%90%83%E4%BA%86%E7%8B%97%E5%90%83%E8%BF%87%E7%9A%84%E9%9D%A2%E5%8F%91%E7%83%A7%E4%B8%89%E5%A4%A9%23" target="weibo">
+沙溢曾吃了狗吃过的面发烧三天（热度：459268）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%93%AD%E8%AF%89%E5%9B%BD%E5%AE%B6%E6%B2%A1%E6%9C%89%E5%AD%98%E5%9C%A8%E6%84%9F%23" target="weibo">
 韩国博主哭诉国家没有存在感（热度：459098）
 </a>
@@ -5961,6 +5991,12 @@ K签证（热度：453444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E7%AA%81%E7%A0%B4%23" target="weibo">
+固态电池突破（热度：450949）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%901%E5%8D%83%E5%85%83%E6%89%BE%E4%B8%8D%E5%88%B0%E4%BA%BA%E4%B8%BA%E4%B8%B4%E7%BB%88%E7%88%B6%E4%BA%B2%E7%90%86%E5%8F%91%23" target="weibo">
 女子1千元找不到人为临终父亲理发（热度：450903）
 </a>
@@ -5975,42 +6011,6 @@ K签证（热度：453444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%A4%A7%E7%96%86%E8%A1%A5%E5%81%BF%E6%96%B9%E6%A1%88%23" target="weibo">
 山姆大疆补偿方案（热度：450503）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA5%E4%BA%BA%E8%BF%9B%E5%85%A5%E5%BA%9F%E5%BC%83%E7%9F%BF%E7%A1%90%E9%81%87%E9%9A%BE%23" target="weibo">
-福建5人进入废弃矿硐遇难（热度：450319）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23S15%E7%91%9E%E5%A3%AB%E8%BD%AE%E7%AC%AC%E4%B8%89%E8%BD%AE%E6%8A%BD%E7%AD%BE%23" target="weibo">
-S15瑞士轮第三轮抽签（热度：449595）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%8C%AF%E5%AE%81%E4%B8%80%E7%94%9F%E6%9C%80%E5%A4%A7%E7%9A%84%E8%B4%A1%E7%8C%AE%23" target="weibo">
-杨振宁一生最大的贡献（热度：449554）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%B0%BC%E5%B0%86%E9%87%87%E8%B4%AD%E4%B8%AD%E5%9B%BD%E6%AD%BC10%E6%88%98%E6%9C%BA%23" target="weibo">
-印尼将采购中国歼10战机（热度：449540）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%A6%E9%97%A8%E5%85%AC%E5%AE%89%E6%8E%A5%E5%88%B0%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E4%B8%BE%E6%8A%A5%23" target="weibo">
-厦门公安接到台湾民众举报（热度：449347）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E5%91%A8%E5%B3%BB%E7%BA%AC%23" target="weibo">
-这居然是周峻纬（热度：449072）
 </a>
 </li>
 
