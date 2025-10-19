@@ -1,9 +1,17 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760839445895,
+  "endTime": 1760840756320,
   "band_list": [
     {
-      "raw_hot": 1357617,
+      "raw_hot": 2202319,
+      "num": 197778,
+      "word": "翁帆发文纪念杨振宁",
+      "onboard_time": 1760839400,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1439854,
       "num": 217665,
       "word": "陈伟霆 何穗",
       "onboard_time": 1760835560,
@@ -19,20 +27,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 828124,
-      "num": 215774,
-      "word": "翁帆说杨振宁交出了满意答卷",
-      "onboard_time": 1760838320,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 801691,
+      "raw_hot": 869342,
       "num": 210639,
       "word": "时尚芭莎删除那艺娜物料",
       "onboard_time": 1760832739,
       "rank": 12,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 851419,
+      "num": 215774,
+      "word": "翁帆说杨振宁交出了满意答卷",
+      "onboard_time": 1760838320,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 801334,
@@ -41,6 +49,14 @@
       "onboard_time": 1760799862,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 699962,
+      "num": 203398,
+      "word": "27岁瞒着家人买了一套房",
+      "onboard_time": 1760837360,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 691908,
@@ -65,6 +81,14 @@
       "onboard_time": 1760805440,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 555282,
+      "num": 555282,
+      "word": "固态电池突破",
+      "onboard_time": 1760837540,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 552089,
@@ -107,20 +131,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 450949,
-      "num": 450949,
-      "word": "固态电池突破",
-      "onboard_time": 1760837540,
-      "rank": 1,
-      "category": "汽车"
-    },
-    {
-      "raw_hot": 421803,
-      "num": 203398,
-      "word": "27岁瞒着家人买了一套房",
-      "onboard_time": 1760837360,
-      "rank": 14,
-      "category": "幽默"
+      "raw_hot": 450821,
+      "num": 450821,
+      "word": "特朗普称美军摧毁一大型潜艇",
+      "onboard_time": 1760838800,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 367254,
@@ -139,7 +155,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 329633,
+      "raw_hot": 338995,
       "num": 200059,
       "word": "金饰克价一夜降17元",
       "onboard_time": 1760837420,
@@ -163,20 +179,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 259411,
-      "num": 259411,
-      "word": "特朗普称美军摧毁一大型潜艇",
-      "onboard_time": 1760838800,
+      "raw_hot": 246877,
+      "num": 246877,
+      "word": "水龙吟",
+      "onboard_time": 1760839761,
       "rank": 6,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 250124,
-      "num": 197778,
-      "word": "翁帆发文纪念杨振宁",
-      "onboard_time": 1760839400,
-      "rank": 16,
-      "category": "民生新闻"
+      "category": "剧集"
     },
     {
       "raw_hot": 246017,
@@ -208,6 +216,14 @@
       "word": "凌晨三点叫你出来玩你不出来",
       "onboard_time": 1760811556,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 233625,
+      "num": 176009,
+      "word": "张晚意下水为李沁捡帽子",
+      "onboard_time": 1760838740,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -323,12 +339,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135892,
+      "num": 135892,
+      "word": "猪脚饭饭菜分装顾客给差评",
+      "onboard_time": 1760840060,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135159,
       "num": 456250,
       "word": "猴哥已在南宁小区住5天了",
       "onboard_time": 1760800103,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134122,
+      "num": 134122,
+      "word": "下一个台风叫风神",
+      "onboard_time": 1760836341,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 130787,
@@ -339,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119328,
+      "num": 119328,
+      "word": "侯明昊卢昱晓回应曾擦身而过",
+      "onboard_time": 1760838261,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118737,
       "num": 118737,
       "word": "天蚕土豆锐评BLG",
@@ -347,12 +387,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 116702,
-      "num": 102813,
-      "word": "张晚意下水为李沁捡帽子",
-      "onboard_time": 1760838740,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 118589,
+      "num": 118589,
+      "word": "120秒看懂南天门计划",
+      "onboard_time": 1760840361,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114704,
@@ -363,20 +403,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114651,
-      "num": 114651,
-      "word": "下一个台风叫风神",
-      "onboard_time": 1760836341,
-      "rank": 25,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 114161,
       "num": 114161,
       "word": "回南雀",
       "onboard_time": 1760790861,
       "rank": 27,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 112636,
+      "num": 112636,
+      "word": "志愿军出国作战75周年",
+      "onboard_time": 1760833822,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112472,
@@ -419,12 +459,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 105660,
-      "num": 105660,
-      "word": "志愿军出国作战75周年",
-      "onboard_time": 1760833822,
-      "rank": 27,
-      "category": "国内时政"
+      "raw_hot": 104115,
+      "num": 104115,
+      "word": "网购定制婚礼布幔10天后退回破布",
+      "onboard_time": 1760840000,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102775,
@@ -451,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96716,
+      "num": 96716,
+      "word": "石宇奇回应和安赛龙小摩擦",
+      "onboard_time": 1760839940,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95619,
       "num": 95619,
       "word": "客服回应3万元直角皮鞋争议",
@@ -465,14 +513,6 @@
       "onboard_time": 1760828596,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92678,
-      "num": 92678,
-      "word": "侯明昊卢昱晓回应曾擦身而过",
-      "onboard_time": 1760838261,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 91848,
@@ -499,12 +539,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89570,
+      "num": 107698,
+      "word": "金钟奖获奖名单",
+      "onboard_time": 1760835501,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 87472,
+      "num": 87472,
+      "word": "断崖式降温让我的懒有了合理性",
+      "onboard_time": 1760838019,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85124,
       "num": 85124,
       "word": "中国游客去夏威夷被原住民骂",
       "onboard_time": 1760796803,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 85070,
+      "num": 85070,
+      "word": "外网称杨振宁无需与他人比较",
+      "onboard_time": 1760836821,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85009,
@@ -619,20 +683,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 77611,
-      "num": 103792,
-      "word": "金钟奖获奖名单",
-      "onboard_time": 1760835501,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 77359,
-      "num": 77359,
-      "word": "断崖式降温让我的懒有了合理性",
-      "onboard_time": 1760838019,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 77819,
+      "num": 77819,
+      "word": "不敢想一个宅人住进去有多幸福",
+      "onboard_time": 1760839641,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 77047,
@@ -643,12 +699,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 76575,
-      "num": 76575,
-      "word": "外网称杨振宁无需与他人比较",
-      "onboard_time": 1760836821,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 76717,
+      "num": 76717,
+      "word": "鲁内跟腱断裂",
+      "onboard_time": 1760840599,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76168,
+      "num": 76168,
+      "word": "哈马斯称停火后不参与加沙治理",
+      "onboard_time": 1760839641,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74452,
@@ -665,6 +729,14 @@
       "onboard_time": 1760799263,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 72122,
+      "num": 72122,
+      "word": "勇敢的小朋友先享受世界",
+      "onboard_time": 1760838380,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 70830,
@@ -763,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55094,
+      "num": 86234,
+      "word": "苏州发布9个感叹号",
+      "onboard_time": 1760840599,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53866,
       "num": 53866,
       "word": "高级河灯",
@@ -819,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38947,
+      "num": 482796,
+      "word": "网警侦破非法控制计算机信息系统案",
+      "onboard_time": 1760838680,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37475,
       "num": 42934,
       "word": "汪苏泷又出神图了",
@@ -841,14 +929,6 @@
       "onboard_time": 1760818995,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 30411,
-      "num": 400569,
-      "word": "网警侦破非法控制计算机信息系统案",
-      "onboard_time": 1760838680,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25453,

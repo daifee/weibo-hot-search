@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760839445895,
+  "endTime": 1760840756320,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -337,6 +337,14 @@
       "onboard_time": 1760100322,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2202319,
+      "num": 197778,
+      "word": "翁帆发文纪念杨振宁",
+      "onboard_time": 1760839400,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2187134,
@@ -875,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1439854,
+      "num": 217665,
+      "word": "陈伟霆 何穗",
+      "onboard_time": 1760835560,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1439682,
       "num": 282236,
       "word": "年羹尧的儿子分享生活",
@@ -1017,14 +1033,6 @@
       "onboard_time": 1759460480,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1357617,
-      "num": 217665,
-      "word": "陈伟霆 何穗",
-      "onboard_time": 1760835560,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1352947,
@@ -2803,6 +2811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 869342,
+      "num": 210639,
+      "word": "时尚芭莎删除那艺娜物料",
+      "onboard_time": 1760832739,
+      "rank": 12,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 866855,
       "num": 866855,
       "word": "全红婵水花消失术为祖国庆生",
@@ -2896,6 +2912,14 @@
       "word": "西贝更换门头",
       "onboard_time": 1760067800,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 851419,
+      "num": 215774,
+      "word": "翁帆说杨振宁交出了满意答卷",
+      "onboard_time": 1760838320,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -3089,14 +3113,6 @@
       "onboard_time": 1760350281,
       "rank": 25,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 828124,
-      "num": 215774,
-      "word": "翁帆说杨振宁交出了满意答卷",
-      "onboard_time": 1760838320,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 827159,
@@ -3329,14 +3345,6 @@
       "onboard_time": 1760424381,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 801691,
-      "num": 210639,
-      "word": "时尚芭莎删除那艺娜物料",
-      "onboard_time": 1760832739,
-      "rank": 12,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 801334,
@@ -4033,6 +4041,14 @@
       "onboard_time": 1759236021,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 699962,
+      "num": 203398,
+      "word": "27岁瞒着家人买了一套房",
+      "onboard_time": 1760837360,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 699950,
@@ -5857,6 +5873,14 @@
       "onboard_time": 1759312221,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 555282,
+      "num": 555282,
+      "word": "固态电池突破",
+      "onboard_time": 1760837540,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 554286,
@@ -7971,20 +7995,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 450949,
-      "num": 450949,
-      "word": "固态电池突破",
-      "onboard_time": 1760837540,
-      "rank": 1,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 450903,
       "num": 450903,
       "word": "女子1千元找不到人为临终父亲理发",
       "onboard_time": 1760442561,
       "rank": 5,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 450821,
+      "num": 450821,
+      "word": "特朗普称美军摧毁一大型潜艇",
+      "onboard_time": 1760838800,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 450581,
@@ -8729,14 +8753,6 @@
       "onboard_time": 1760245161,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 421803,
-      "num": 203398,
-      "word": "27岁瞒着家人买了一套房",
-      "onboard_time": 1760837360,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 421519,
@@ -10795,6 +10811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338995,
+      "num": 200059,
+      "word": "金饰克价一夜降17元",
+      "onboard_time": 1760837420,
+      "rank": 15,
+      "category": "财经"
+    },
+    {
       "raw_hot": 338368,
       "num": 181148,
       "word": "金价涨涨涨疯了",
@@ -11081,14 +11105,6 @@
       "onboard_time": 1760350281,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 329633,
-      "num": 200059,
-      "word": "金饰克价一夜降17元",
-      "onboard_time": 1760837420,
-      "rank": 15,
-      "category": "财经"
     },
     {
       "raw_hot": 328345,
@@ -14011,14 +14027,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 259411,
-      "num": 259411,
-      "word": "特朗普称美军摧毁一大型潜艇",
-      "onboard_time": 1760838800,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 259175,
       "num": 259175,
       "word": "小城良方",
@@ -14513,14 +14521,6 @@
       "onboard_time": 1760675123,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 250124,
-      "num": 197778,
-      "word": "翁帆发文纪念杨振宁",
-      "onboard_time": 1760839400,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249798,
@@ -15425,6 +15425,14 @@
       "onboard_time": 1759732822,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 233625,
+      "num": 176009,
+      "word": "张晚意下水为李沁捡帽子",
+      "onboard_time": 1760838740,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 233434,
@@ -29283,6 +29291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135892,
+      "num": 135892,
+      "word": "猪脚饭饭菜分装顾客给差评",
+      "onboard_time": 1760840060,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135796,
       "num": 135796,
       "word": "吴邪私家笔记2立项了",
@@ -29913,6 +29929,14 @@
       "onboard_time": 1760245580,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 134122,
+      "num": 134122,
+      "word": "下一个台风叫风神",
+      "onboard_time": 1760836341,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 134117,
@@ -34659,6 +34683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119328,
+      "num": 119328,
+      "word": "侯明昊卢昱晓回应曾擦身而过",
+      "onboard_time": 1760838261,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119314,
       "num": 119314,
       "word": "为什么运动后感觉皮肤变好了",
@@ -34929,6 +34961,14 @@
       "onboard_time": 1760361682,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118589,
+      "num": 118589,
+      "word": "120秒看懂南天门计划",
+      "onboard_time": 1760840361,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118586,
@@ -35739,14 +35779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116702,
-      "num": 102813,
-      "word": "张晚意下水为李沁捡帽子",
-      "onboard_time": 1760838740,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116677,
       "num": 116677,
       "word": "今年9月新开户数293.72万户",
@@ -36515,14 +36547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114651,
-      "num": 114651,
-      "word": "下一个台风叫风神",
-      "onboard_time": 1760836341,
-      "rank": 25,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 114647,
       "num": 114647,
       "word": "许家印家族信托防线被击穿",
@@ -37289,6 +37313,14 @@
       "onboard_time": 1760499680,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112636,
+      "num": 112636,
+      "word": "志愿军出国作战75周年",
+      "onboard_time": 1760833822,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 112617,
@@ -40779,14 +40811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105660,
-      "num": 105660,
-      "word": "志愿军出国作战75周年",
-      "onboard_time": 1760833822,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 105657,
       "num": 105657,
       "word": "TTG战胜RW",
@@ -41417,6 +41441,14 @@
       "onboard_time": 1759984822,
       "rank": 39,
       "category": "网红"
+    },
+    {
+      "raw_hot": 104115,
+      "num": 104115,
+      "word": "网购定制婚礼布幔10天后退回破布",
+      "onboard_time": 1760840000,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104102,
@@ -44491,6 +44523,14 @@
       "category": "体育,海外新闻"
     },
     {
+      "raw_hot": 96716,
+      "num": 96716,
+      "word": "石宇奇回应和安赛龙小摩擦",
+      "onboard_time": 1760839940,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96712,
       "num": 96712,
       "word": "新中国成立七十六周年",
@@ -46139,14 +46179,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 92678,
-      "num": 92678,
-      "word": "侯明昊卢昱晓回应曾擦身而过",
-      "onboard_time": 1760838261,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 92674,
       "num": 92674,
       "word": "惊天大涅槃",
@@ -47507,6 +47539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89570,
+      "num": 107698,
+      "word": "金钟奖获奖名单",
+      "onboard_time": 1760835501,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 89569,
       "num": 89569,
       "word": "王楚钦为救球奋不顾身",
@@ -48289,6 +48329,14 @@
       "onboard_time": 1760510660,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87472,
+      "num": 87472,
+      "word": "断崖式降温让我的懒有了合理性",
+      "onboard_time": 1760838019,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 87469,
@@ -49185,6 +49233,14 @@
       "onboard_time": 1759562299,
       "rank": 41,
       "category": "美食,民生新闻"
+    },
+    {
+      "raw_hot": 85070,
+      "num": 85070,
+      "word": "外网称杨振宁无需与他人比较",
+      "onboard_time": 1760836821,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85057,
@@ -51619,6 +51675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 77819,
+      "num": 77819,
+      "word": "不敢想一个宅人住进去有多幸福",
+      "onboard_time": 1760839641,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 77762,
       "num": 86531,
       "word": "龚俊李沁各大晚会都需要的气氛组",
@@ -51641,14 +51705,6 @@
       "onboard_time": 1760091981,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 77611,
-      "num": 103792,
-      "word": "金钟奖获奖名单",
-      "onboard_time": 1760835501,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 77562,
@@ -51681,14 +51737,6 @@
       "onboard_time": 1759740380,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 77359,
-      "num": 77359,
-      "word": "断崖式降温让我的懒有了合理性",
-      "onboard_time": 1760838019,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 77344,
@@ -51899,6 +51947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 76717,
+      "num": 76717,
+      "word": "鲁内跟腱断裂",
+      "onboard_time": 1760840599,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76677,
       "num": 76677,
       "word": "王者S41新赛季天元",
@@ -51919,14 +51975,6 @@
       "num": 76662,
       "word": "河南一幼儿园除了上课还上地",
       "onboard_time": 1760491819,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76575,
-      "num": 76575,
-      "word": "外网称杨振宁无需与他人比较",
-      "onboard_time": 1760836821,
       "rank": 48,
       "category": "民生新闻"
     },
@@ -51985,6 +52033,14 @@
       "onboard_time": 1759798758,
       "rank": 47,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 76168,
+      "num": 76168,
+      "word": "哈马斯称停火后不参与加沙治理",
+      "onboard_time": 1760839641,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76037,
@@ -52849,6 +52905,14 @@
       "onboard_time": 1759289299,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72122,
+      "num": 72122,
+      "word": "勇敢的小朋友先享受世界",
+      "onboard_time": 1760838380,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 72008,
@@ -55707,6 +55771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55094,
+      "num": 86234,
+      "word": "苏州发布9个感叹号",
+      "onboard_time": 1760840599,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55034,
       "num": 148778,
       "word": "NI的出行神级搭子",
@@ -58027,6 +58099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38947,
+      "num": 482796,
+      "word": "网警侦破非法控制计算机信息系统案",
+      "onboard_time": 1760838680,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38909,
       "num": 72276,
       "word": "男子扶老人被诬耗时十余日自证清白",
@@ -59145,14 +59225,6 @@
       "onboard_time": 1759500321,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30411,
-      "num": 400569,
-      "word": "网警侦破非法控制计算机信息系统案",
-      "onboard_time": 1760838680,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30400,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1760840756320,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 602360,
+        "num": 1096377,
+        "word": "美国网络攻击我国",
+        "onboard_time": 1760832860,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 555282,
+        "num": 555282,
+        "word": "固态电池突破",
+        "onboard_time": 1760837540,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 38947,
+        "num": 482796,
+        "word": "网警侦破非法控制计算机信息系统案",
+        "onboard_time": 1760838680,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450821,
+        "num": 450821,
+        "word": "特朗普称美军摧毁一大型潜艇",
+        "onboard_time": 1760838800,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 300627,
+        "num": 300627,
+        "word": "高市早苗首相稳了",
+        "onboard_time": 1760836160,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 299410,
+        "num": 299410,
+        "word": "北京下雪了",
+        "onboard_time": 1760805440,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246877,
+        "num": 246877,
+        "word": "水龙吟",
+        "onboard_time": 1760839761,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213665,
+        "num": 213665,
+        "word": "月亮姐姐官宣离开少儿频道",
+        "onboard_time": 1760799203,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201913,
+        "num": 201913,
+        "word": "凌晨三点叫你出来玩你不出来",
+        "onboard_time": 1760811556,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190921,
+        "num": 190921,
+        "word": "中国粉碎美方网攻图谋",
+        "onboard_time": 1760833759,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2202319,
+        "num": 189467,
+        "word": "翁帆发文纪念杨振宁",
+        "onboard_time": 1760839400,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1439854,
+        "num": 188862,
+        "word": "陈伟霆 何穗",
+        "onboard_time": 1760835560,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 869342,
+        "num": 185073,
+        "word": "时尚芭莎删除那艺娜物料",
+        "onboard_time": 1760832739,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 851419,
+        "num": 184629,
+        "word": "翁帆说杨振宁交出了满意答卷",
+        "onboard_time": 1760838320,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 699962,
+        "num": 181632,
+        "word": "27岁瞒着家人买了一套房",
+        "onboard_time": 1760837360,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 440243,
+        "num": 180929,
+        "word": "沙溢曾吃了狗吃过的面发烧三天",
+        "onboard_time": 1760829377,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338995,
+        "num": 177641,
+        "word": "金饰克价一夜降17元",
+        "onboard_time": 1760837420,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 233625,
+        "num": 176009,
+        "word": "张晚意下水为李沁捡帽子",
+        "onboard_time": 1760838740,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174963,
+        "num": 174963,
+        "word": "75年前的今天志愿军跨过鸭绿江",
+        "onboard_time": 1760833822,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135892,
+        "num": 135892,
+        "word": "猪脚饭饭菜分装顾客给差评",
+        "onboard_time": 1760840060,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188692,
+        "num": 135331,
+        "word": "网传何穗前夫参加过再见爱人",
+        "onboard_time": 1760799384,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134122,
+        "num": 134122,
+        "word": "下一个台风叫风神",
+        "onboard_time": 1760836341,
+        "rank": 21,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 154768,
+        "num": 132483,
+        "word": "李沁去有风的地方",
+        "onboard_time": 1760831118,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123695,
+        "num": 123695,
+        "word": "Bin曾说16强就不打了",
+        "onboard_time": 1760829797,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121875,
+        "num": 121875,
+        "word": "郑恺苗苗从小共用一张脸",
+        "onboard_time": 1760791704,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305595,
+        "num": 121320,
+        "word": "杨振宁在美办公室有人凌晨献花",
+        "onboard_time": 1760799742,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119328,
+        "num": 119328,
+        "word": "侯明昊卢昱晓回应曾擦身而过",
+        "onboard_time": 1760838261,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118589,
+        "num": 118589,
+        "word": "120秒看懂南天门计划",
+        "onboard_time": 1760840361,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112636,
+        "num": 112636,
+        "word": "志愿军出国作战75周年",
+        "onboard_time": 1760833822,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89570,
+        "num": 107698,
+        "word": "金钟奖获奖名单",
+        "onboard_time": 1760835501,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104593,
+        "num": 104593,
+        "word": "沈佳润音乐节没报备版美美Sunday",
+        "onboard_time": 1760800763,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104304,
+        "num": 104304,
+        "word": "工人伐木时误拆了小浣熊的家",
+        "onboard_time": 1760835199,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104115,
+        "num": 104115,
+        "word": "网购定制婚礼布幔10天后退回破布",
+        "onboard_time": 1760840000,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98695,
+        "num": 98695,
+        "word": "若不爆冷BLG抽中T1概率第二大",
+        "onboard_time": 1760838800,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96716,
+        "num": 96716,
+        "word": "石宇奇回应和安赛龙小摩擦",
+        "onboard_time": 1760839940,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96572,
+        "num": 96572,
+        "word": "寿命长的人脖子一般有5个特征",
+        "onboard_time": 1760796982,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90087,
+        "num": 90087,
+        "word": "梅西帽子戏法",
+        "onboard_time": 1760838800,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88735,
+        "num": 88735,
+        "word": "圆明园复原后长这样",
+        "onboard_time": 1760797343,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87472,
+        "num": 87472,
+        "word": "断崖式降温让我的懒有了合理性",
+        "onboard_time": 1760838019,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55094,
+        "num": 86234,
+        "word": "苏州发布9个感叹号",
+        "onboard_time": 1760840599,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85070,
+        "num": 85070,
+        "word": "外网称杨振宁无需与他人比较",
+        "onboard_time": 1760836821,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82113,
+        "num": 82113,
+        "word": "客服回应3万元直角皮鞋争议",
+        "onboard_time": 1760839400,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78656,
+        "num": 78656,
+        "word": "曾舜晞送走汤唯牵走白鹿",
+        "onboard_time": 1760797043,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77819,
+        "num": 77819,
+        "word": "不敢想一个宅人住进去有多幸福",
+        "onboard_time": 1760839641,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76717,
+        "num": 76717,
+        "word": "鲁内跟腱断裂",
+        "onboard_time": 1760840599,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76185,
+        "num": 76185,
+        "word": "今年秋冬或形成一次弱拉尼娜事件",
+        "onboard_time": 1760804722,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76168,
+        "num": 76168,
+        "word": "哈马斯称停火后不参与加沙治理",
+        "onboard_time": 1760839641,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73118,
+        "num": 73118,
+        "word": "陈小春复刻与Jasper对话",
+        "onboard_time": 1760834781,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72569,
+        "num": 72569,
+        "word": "我上班时就这样",
+        "onboard_time": 1760838500,
+        "rank": 48,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 72122,
+        "num": 72122,
+        "word": "勇敢的小朋友先享受世界",
+        "onboard_time": 1760838380,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记擘画中国式现代化新篇章#"
+    }
+  }
+}

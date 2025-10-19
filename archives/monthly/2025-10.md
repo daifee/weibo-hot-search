@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 10:04:05
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 10:25:56
 </p>
 </blockquote>
 <p>
@@ -263,6 +263,12 @@ T1战胜iG（热度：2289458）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%BE%97%E4%BA%86%E7%96%91%E9%9A%BE%E6%9D%82%E7%97%87%23" target="weibo">
 白鹿说自己得了疑难杂症（热度：2249773）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BF%81%E5%B8%86%E5%8F%91%E6%96%87%E7%BA%AA%E5%BF%B5%E6%9D%A8%E6%8C%AF%E5%AE%81%23" target="weibo">
+翁帆发文纪念杨振宁（热度：2202319）
 </a>
 </li>
 
@@ -669,6 +675,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%20%E4%BD%95%E7%A9%97%23" target="weibo">
+陈伟霆 何穗（热度：1439854）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E7%BE%B9%E5%B0%A7%E7%9A%84%E5%84%BF%E5%AD%90%E5%88%86%E4%BA%AB%E7%94%9F%E6%B4%BB%23" target="weibo">
 年羹尧的儿子分享生活（热度：1439682）
 </a>
@@ -773,12 +785,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E5%8D%95%E6%96%B9%E9%9D%A2%E5%AE%98%E5%AE%A3%E8%A2%AB%E9%BA%A6%E8%BF%AA%E5%A8%9C%E5%85%AC%E5%8F%B8%E5%A9%89%E6%8B%92%E4%BA%86%23" target="weibo">
 姜潮单方面官宣被麦迪娜公司婉拒了（热度：1364560）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%20%E4%BD%95%E7%A9%97%23" target="weibo">
-陈伟霆 何穗（热度：1357617）
 </a>
 </li>
 
@@ -2115,6 +2121,12 @@ A股（热度：871787）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E%E5%88%A0%E9%99%A4%E9%82%A3%E8%89%BA%E5%A8%9C%E7%89%A9%E6%96%99%23" target="weibo">
+时尚芭莎删除那艺娜物料（热度：869342）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%B0%B4%E8%8A%B1%E6%B6%88%E5%A4%B1%E6%9C%AF%E4%B8%BA%E7%A5%96%E5%9B%BD%E5%BA%86%E7%94%9F%23" target="weibo">
 全红婵水花消失术为祖国庆生（热度：866855）
 </a>
@@ -2183,6 +2195,12 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E6%9B%B4%E6%8D%A2%E9%97%A8%E5%A4%B4%23" target="weibo">
 西贝更换门头（热度：852900）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BF%81%E5%B8%86%E8%AF%B4%E6%9D%A8%E6%8C%AF%E5%AE%81%E4%BA%A4%E5%87%BA%E4%BA%86%E6%BB%A1%E6%84%8F%E7%AD%94%E5%8D%B7%23" target="weibo">
+翁帆说杨振宁交出了满意答卷（热度：851419）
 </a>
 </li>
 
@@ -2327,12 +2345,6 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E8%A8%80%E8%87%AA%E6%9B%9D%E5%88%B7%E7%9F%AD%E8%A7%86%E9%A2%91%E6%88%90%E7%98%BE%23" target="weibo">
 莫言自曝刷短视频成瘾（热度：830534）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BF%81%E5%B8%86%E8%AF%B4%E6%9D%A8%E6%8C%AF%E5%AE%81%E4%BA%A4%E5%87%BA%E4%BA%86%E6%BB%A1%E6%84%8F%E7%AD%94%E5%8D%B7%23" target="weibo">
-翁帆说杨振宁交出了满意答卷（热度：828124）
 </a>
 </li>
 
@@ -2507,12 +2519,6 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BA%9A%E9%B9%8F%20%E5%85%B1%E5%88%9B%E7%A6%BB%E5%A9%9A%E8%A7%86%E9%A2%91%23" target="weibo">
 李亚鹏 共创离婚视频（热度：802036）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E5%B0%9A%E8%8A%AD%E8%8E%8E%E5%88%A0%E9%99%A4%E9%82%A3%E8%89%BA%E5%A8%9C%E7%89%A9%E6%96%99%23" target="weibo">
-时尚芭莎删除那艺娜物料（热度：801691）
 </a>
 </li>
 
@@ -3035,6 +3041,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%A0%B5%E8%BD%A6%E4%BA%BA%E5%A0%B5%E6%88%90%E9%B8%B3%E9%B8%AF%E9%94%85%23" target="weibo">
 第一批堵车人堵成鸳鸯锅（热度：701518）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E7%9E%92%E7%9D%80%E5%AE%B6%E4%BA%BA%E4%B9%B0%E4%BA%86%E4%B8%80%E5%A5%97%E6%88%BF%23" target="weibo">
+27岁瞒着家人买了一套房（热度：699962）
 </a>
 </li>
 
@@ -4403,6 +4415,12 @@ iPhone天气你可能真的不会用（热度：556452）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%97%E4%BD%86%E6%98%AF%E6%9C%88%E5%85%A5%E8%BF%87%E4%B8%87%E7%9A%84%E5%B7%A5%E4%BD%9C%23" target="weibo">
 小众但是月入过万的工作（热度：555369）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E7%AA%81%E7%A0%B4%23" target="weibo">
+固态电池突破（热度：555282）
 </a>
 </li>
 
@@ -5991,26 +6009,8 @@ K签证（热度：453444）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E7%AA%81%E7%A0%B4%23" target="weibo">
-固态电池突破（热度：450949）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%901%E5%8D%83%E5%85%83%E6%89%BE%E4%B8%8D%E5%88%B0%E4%BA%BA%E4%B8%BA%E4%B8%B4%E7%BB%88%E7%88%B6%E4%BA%B2%E7%90%86%E5%8F%91%23" target="weibo">
 女子1千元找不到人为临终父亲理发（热度：450903）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%87%A0%E5%8D%81%E5%B9%B4%E5%90%8E%E6%88%96%E5%B0%86%E7%A7%8D%E4%B8%8D%E4%BA%86%E8%8B%B9%E6%9E%9C%23" target="weibo">
-韩国几十年后或将种不了苹果（热度：450581）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E5%A4%A7%E7%96%86%E8%A1%A5%E5%81%BF%E6%96%B9%E6%A1%88%23" target="weibo">
-山姆大疆补偿方案（热度：450503）
 </a>
 </li>
 
