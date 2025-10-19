@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760884764858,
+  "endTime": 1760887395633,
   "band_list": [
     {
       "raw_hot": 2202319,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1640268,
+      "num": 257698,
+      "word": "入青云破万",
+      "onboard_time": 1760886442,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1617167,
       "num": 1422125,
       "word": "卢浮宫一件被盗文物已损毁",
@@ -65,6 +73,14 @@
       "onboard_time": 1760866221,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1145376,
+      "num": 670143,
+      "word": "入青云",
+      "onboard_time": 1760786302,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 1143673,
@@ -203,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 664752,
+      "num": 254558,
+      "word": "野人小孩家人称采用自然教育法",
+      "onboard_time": 1760885062,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 616626,
       "num": 616626,
       "word": "南通vs无锡",
@@ -244,11 +268,27 @@
     },
     {
       "raw_hot": 565641,
-      "num": 565641,
+      "num": 1049198,
       "word": "BLG签运",
       "onboard_time": 1760880562,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 562051,
+      "num": 320982,
+      "word": "薛之谦大闹沈梦辰直播间",
+      "onboard_time": 1760882301,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 558313,
+      "num": 537312,
+      "word": "入青云热度",
+      "onboard_time": 1760876183,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 552089,
@@ -265,14 +305,6 @@
       "onboard_time": 1760799203,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 537312,
-      "num": 537312,
-      "word": "入青云热度",
-      "onboard_time": 1760876183,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 522750,
@@ -467,14 +499,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 378276,
-      "num": 670143,
-      "word": "入青云",
-      "onboard_time": 1760786302,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 372089,
       "num": 372089,
       "word": "女子被救后举报施救者侵犯肖像权",
@@ -555,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 326562,
+      "num": 241671,
+      "word": "汪苏泷收到老鼠干",
+      "onboard_time": 1760885602,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 324678,
       "num": 246877,
       "word": "水龙吟",
@@ -577,14 +609,6 @@
       "onboard_time": 1760862499,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 320982,
-      "num": 320982,
-      "word": "薛之谦大闹沈梦辰直播间",
-      "onboard_time": 1760882301,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 306454,
@@ -736,6 +760,14 @@
       "word": "卢浮宫暂停开放",
       "onboard_time": 1760870542,
       "rank": 9,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 236927,
+      "num": 236927,
+      "word": "匪徒从卢浮宫逃跑时掉落皇冠",
+      "onboard_time": 1760885183,
+      "rank": 19,
       "category": "海外新闻"
     },
     {
@@ -1043,12 +1075,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173256,
+      "num": 134904,
+      "word": "卢昱晓空降",
+      "onboard_time": 1760886981,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172533,
       "num": 172533,
       "word": "热巴宋佳邝玲玲 恶女追捕团",
       "onboard_time": 1760864061,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172515,
+      "num": 172515,
+      "word": "豆制品是对女性很好的食物",
+      "onboard_time": 1760882842,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 171924,
@@ -1155,6 +1203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161204,
+      "num": 161204,
+      "word": "孟子义我真爬不上去",
+      "onboard_time": 1760885362,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159459,
       "num": 315767,
       "word": "入青云追剧日历呢",
@@ -1211,14 +1267,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 155919,
-      "num": 155919,
-      "word": "豆制品是对女性很好的食物",
-      "onboard_time": 1760882842,
-      "rank": 32,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 154849,
       "num": 154849,
       "word": "罗永浩说易烊千玺是新生代演员旗帜",
@@ -1257,6 +1305,14 @@
       "onboard_time": 1760873181,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 148821,
+      "num": 148821,
+      "word": "邓紫棋直播",
+      "onboard_time": 1760886683,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 147541,
@@ -1547,6 +1603,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 128950,
+      "num": 128950,
+      "word": "林高远好正宗一个广东人",
+      "onboard_time": 1760886981,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128857,
       "num": 175951,
       "word": "TOP披哥总决赛造型",
@@ -1561,6 +1625,22 @@
       "onboard_time": 1760851700,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127782,
+      "num": 127782,
+      "word": "杨振宁曾参观三星堆3小时未歇脚",
+      "onboard_time": 1760882423,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126967,
+      "num": 126967,
+      "word": "女子7万买游乐场设施直呼太疯狂",
+      "onboard_time": 1760887281,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126718,
@@ -1593,6 +1673,14 @@
       "onboard_time": 1760863820,
       "rank": 48,
       "category": "教育"
+    },
+    {
+      "raw_hot": 125519,
+      "num": 125519,
+      "word": "一诺继续朝着目标努力",
+      "onboard_time": 1760886743,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 125344,
@@ -1803,14 +1891,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 114404,
-      "num": 116683,
-      "word": "杨振宁曾参观三星堆3小时未歇脚",
-      "onboard_time": 1760882423,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114161,
       "num": 114161,
       "word": "回南雀",
@@ -1840,6 +1920,14 @@
       "word": "今年冬天会不会更冷",
       "onboard_time": 1760798183,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112409,
+      "num": 112409,
+      "word": "贵州花江峡谷大桥无绳蹦极引热议",
+      "onboard_time": 1760884522,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -2235,14 +2323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 96938,
-      "num": 96938,
-      "word": "贵州花江峡谷大桥无绳蹦极引热议",
-      "onboard_time": 1760884522,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96716,
       "num": 96716,
       "word": "石宇奇回应和安赛龙小摩擦",
@@ -2401,6 +2481,14 @@
       "onboard_time": 1760881523,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93232,
+      "num": 93232,
+      "word": "卢昱晓你快替明意说呀",
+      "onboard_time": 1760886800,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 92969,
@@ -2609,6 +2697,14 @@
       "onboard_time": 1760858361,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85266,
+      "num": 85266,
+      "word": "Karsa说得到Faker认可此生无憾",
+      "onboard_time": 1760886022,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 85124,
@@ -3537,6 +3633,14 @@
       "onboard_time": 1760817555,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13540,
+      "num": 247987,
+      "word": "孙子团BTSZD舞蹈快闪好燃",
+      "onboard_time": 1760886082,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 11940,

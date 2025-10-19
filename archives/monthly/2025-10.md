@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 22:39:24
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 23:23:15
 </p>
 </blockquote>
 <p>
@@ -485,6 +485,12 @@ iG对战T1（热度：1886560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A529%E5%B2%81%E7%94%B7%E5%AD%90%E5%A9%9A%E7%A4%BC%E5%BD%93%E5%A4%A9%E8%B7%B3%E6%B2%B3%23" target="weibo">
 官方通报29岁男子婚礼当天跳河（热度：1648183）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%E7%A0%B4%E4%B8%87%23" target="weibo">
+入青云破万（热度：1640268）
 </a>
 </li>
 
@@ -1181,6 +1187,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%B8%80%E6%A1%90%E7%BE%8E%E4%BA%BA%E4%BD%99%E9%80%A0%E5%9E%8B%E7%96%91%E4%BC%BC%E6%8A%84%E8%A2%AD%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%23" target="weibo">
 李一桐美人余造型疑似抄袭许我耀眼（热度：1146142）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%23" target="weibo">
+入青云（热度：1145376）
 </a>
 </li>
 
@@ -3417,6 +3429,12 @@ AL战胜HLE（热度：684053）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E5%AE%B6%E4%BA%BA%E7%A7%B0%E9%87%87%E7%94%A8%E8%87%AA%E7%84%B6%E6%95%99%E8%82%B2%E6%B3%95%23" target="weibo">
+野人小孩家人称采用自然教育法（热度：664752）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E5%87%BA%E9%81%93%E4%BB%A5%E6%9D%A5%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%91%87%E4%BA%BA%E5%AE%A3%E4%BC%A0%23" target="weibo">
 李沁出道以来第一次摇人宣传（热度：664661）
 </a>
@@ -4419,6 +4437,12 @@ hi6（热度：563954）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%A4%A7%E9%97%B9%E6%B2%88%E6%A2%A6%E8%BE%B0%E7%9B%B4%E6%92%AD%E9%97%B4%23" target="weibo">
+薛之谦大闹沈梦辰直播间（热度：562051）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%A6%E7%9D%80%E9%A5%A5%E9%A5%BF%E6%84%9F%E5%85%A5%E7%9D%A1%E8%84%82%E8%82%AA%E7%87%83%E7%83%A7%E7%9A%84%E5%85%A8%E8%BF%87%E7%A8%8B%23" target="weibo">
 带着饥饿感入睡脂肪燃烧的全过程（热度：562035）
 </a>
@@ -4469,6 +4493,12 @@ miumiu 好多围裙（热度：559985）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA5%E5%BC%80%E6%92%AD%23" target="weibo">
 再见爱人5开播（热度：558560）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%E7%83%AD%E5%BA%A6%23" target="weibo">
+入青云热度（热度：558313）
 </a>
 </li>
 
@@ -4823,12 +4853,6 @@ iPhone天气你可能真的不会用（热度：556452）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E4%BA%BA%E7%9A%84%E7%9F%AD%E8%A2%96%E5%B7%B2%E7%BB%8F%E7%A9%BF%E5%9B%9E%E6%9C%AC%E4%BA%86%23" target="weibo">
 浙江人的短袖已经穿回本了（热度：537428）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E9%9D%92%E4%BA%91%E7%83%AD%E5%BA%A6%23" target="weibo">
-入青云热度（热度：537312）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ Wei龙坑排眼（热度：465191）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A8%B2%E6%96%B0%E7%9A%AE%E8%82%A4%23" target="weibo">
 女娲新皮肤（热度：462878）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TaylorSwift%E5%BF%98%E4%BA%86%E9%80%9A%E7%9F%A5EdSheeran%E8%AE%A2%E5%A9%9A%23" target="weibo">
-TaylorSwift忘了通知EdSheeran订婚（热度：461697）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%B2%E5%8E%86%E8%80%85%E7%A7%B0%E5%86%B0%E5%B2%9B%E4%BE%A7%E7%BF%BB%E5%A4%A7%E5%B7%B4%E4%B8%8A%E5%A4%9A%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%23" target="weibo">
-亲历者称冰岛侧翻大巴上多名中国人（热度：461235）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%20%E4%B8%8D%E8%BE%93%E6%AC%A7%E7%BE%8E%E4%BA%BA%E7%9A%84%E9%AA%A8%E7%9B%B8%23" target="weibo">
-周也 不输欧美人的骨相（热度：460741）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E7%9B%B4%E6%92%AD%23" target="weibo">
-肖战直播（热度：460562）
 </a>
 </li>
 
