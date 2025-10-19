@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760866604015,
+  "endTime": 1760869475950,
   "band_list": [
     {
       "raw_hot": 2202319,
@@ -27,12 +27,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1152492,
+      "num": 1184398,
+      "word": "当年微信可是求着我上线",
+      "onboard_time": 1760866221,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1143673,
       "num": 508359,
       "word": "杨紫李现友情",
       "onboard_time": 1760845221,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1040279,
+      "num": 1040279,
+      "word": "卢浮宫多件藏品被盗",
+      "onboard_time": 1760867780,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 995617,
@@ -120,6 +136,14 @@
       "word": "沙县小吃12元鸡腿饭减肥餐火了",
       "onboard_time": 1760852422,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 637752,
+      "num": 192069,
+      "word": "杨振宁父亲",
+      "onboard_time": 1760868020,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -451,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 255891,
+      "num": 204766,
+      "word": "农商行员工被要求退回三年过节费",
+      "onboard_time": 1760866221,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246017,
       "num": 246017,
       "word": "中国粉碎美方网攻图谋",
@@ -512,6 +544,22 @@
       "word": "北京今天就下雪了",
       "onboard_time": 1760784202,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224441,
+      "num": 1024509,
+      "word": "以色列空袭加沙南部拉法地区",
+      "onboard_time": 1760864061,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 223658,
+      "num": 182263,
+      "word": "野人小孩不是个例",
+      "onboard_time": 1760868382,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -579,14 +627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200145,
-      "num": 1024509,
-      "word": "以色列空袭加沙南部拉法地区",
-      "onboard_time": 1760864061,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 195819,
       "num": 195819,
       "word": "75年前的今天志愿军跨过鸭绿江",
@@ -617,6 +657,22 @@
       "onboard_time": 1760847020,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192083,
+      "num": 192083,
+      "word": "未来3天冷冷冷冷冷",
+      "onboard_time": 1760865801,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191980,
+      "num": 191980,
+      "word": "卢浮宫持械抢劫事件",
+      "onboard_time": 1760866461,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 190509,
@@ -739,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 163917,
+      "num": 163917,
+      "word": "章若楠民国千金",
+      "onboard_time": 1760866041,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163711,
       "num": 163711,
       "word": "先天瘦子和后天瘦子的区别",
@@ -811,14 +875,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 154183,
-      "num": 154183,
-      "word": "章若楠民国千金",
-      "onboard_time": 1760866041,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 153781,
       "num": 153781,
       "word": "任嘉伦NBA最佳全能艺人奖",
@@ -865,6 +921,14 @@
       "onboard_time": 1760862440,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 143116,
+      "num": 143116,
+      "word": "S15瑞士轮第四轮抽签",
+      "onboard_time": 1760868922,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 139537,
@@ -963,6 +1027,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 132898,
+      "num": 132898,
+      "word": "杨坤问十个勤天还在吗",
+      "onboard_time": 1760868621,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132737,
       "num": 132737,
       "word": "黄宗泽 做人不要这么八卦啦",
@@ -1011,12 +1083,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130175,
-      "num": 130175,
-      "word": "未来3天冷冷冷冷冷",
-      "onboard_time": 1760865801,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 129752,
+      "num": 146839,
+      "word": "卢浮宫",
+      "onboard_time": 1760868020,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 128857,
+      "num": 175951,
+      "word": "TOP披哥总决赛造型",
+      "onboard_time": 1760867600,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 128417,
@@ -1035,12 +1115,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 126107,
-      "num": 126107,
-      "word": "卢浮宫持械抢劫事件",
-      "onboard_time": 1760866461,
-      "rank": 32,
-      "category": "海外新闻"
+      "raw_hot": 126123,
+      "num": 126123,
+      "word": "AG对战TTG",
+      "onboard_time": 1760868261,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 125581,
@@ -1139,14 +1219,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 119977,
-      "num": 119977,
-      "word": "当年微信可是求着我上线",
-      "onboard_time": 1760866221,
-      "rank": 34,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 119909,
       "num": 119909,
       "word": "锦州到底有谁在啊",
@@ -1201,6 +1273,14 @@
       "onboard_time": 1760856140,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117058,
+      "num": 117058,
+      "word": "鹤男回关全伊伦",
+      "onboard_time": 1760868141,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 116424,
@@ -1331,6 +1411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106684,
+      "num": 106684,
+      "word": "黄宗泽被开价5亿聘金当女婿",
+      "onboard_time": 1760869400,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106410,
       "num": 154443,
       "word": "学校坍塌前有居民听到异响但未在意",
@@ -1451,6 +1539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 100724,
+      "num": 100724,
+      "word": "王楚钦体能训练",
+      "onboard_time": 1760867722,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100482,
       "num": 100482,
       "word": "苏醒居然集齐了快男和偶练人脉",
@@ -1555,6 +1651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95263,
+      "num": 95263,
+      "word": "孙乐言看到冯琳ootd眼都亮了",
+      "onboard_time": 1760869400,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94219,
       "num": 94219,
       "word": "时尚先生",
@@ -1585,6 +1689,14 @@
       "onboard_time": 1760851461,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 93726,
+      "num": 93726,
+      "word": "外面的东西越来越难吃了",
+      "onboard_time": 1760868862,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 93488,
@@ -1624,6 +1736,22 @@
       "word": "杨振宁曾在百岁生日宴后摔倒",
       "onboard_time": 1760789783,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91793,
+      "num": 91793,
+      "word": "74岁肥猫演员辟谣去世",
+      "onboard_time": 1760867780,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91763,
+      "num": 91763,
+      "word": "被拐18年男孩住孙海洋家附近7年",
+      "onboard_time": 1760869101,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -2227,20 +2355,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 46319,
+      "num": 102020,
+      "word": "闪婚付100余万彩礼闪离判收回大部分",
+      "onboard_time": 1760868441,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46143,
       "num": 46143,
       "word": "王玉雯大衣配凉鞋",
       "onboard_time": 1760830278,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 45753,
-      "num": 204766,
-      "word": "农商行员工被要求退回三年过节费",
-      "onboard_time": 1760866221,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45023,
@@ -2347,6 +2475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27211,
+      "num": 186409,
+      "word": "孟川火锅山河瞎掰王",
+      "onboard_time": 1760868081,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 26033,
       "num": 209129,
       "word": "吕艳婷被配音耽误的方言大师",
@@ -2433,6 +2569,14 @@
       "onboard_time": 1760857281,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 20066,
+      "num": 102556,
+      "word": "利剑玫瑰就是最贴合这部剧的名字",
+      "onboard_time": 1760868681,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 19082,
