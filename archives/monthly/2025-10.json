@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760845796661,
+  "endTime": 1760848215020,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -340,7 +340,7 @@
     },
     {
       "raw_hot": 2202319,
-      "num": 230542,
+      "num": 286123,
       "word": "翁帆发文纪念杨振宁",
       "onboard_time": 1760839400,
       "rank": 16,
@@ -1523,6 +1523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1143673,
+      "num": 216257,
+      "word": "杨紫李现友情",
+      "onboard_time": 1760845221,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1143185,
       "num": 1182909,
       "word": "广东一地发现首例钻石血",
@@ -2384,14 +2392,6 @@
       "word": "杨洋的手机壳一天比一天裂",
       "onboard_time": 1760012721,
       "rank": 10,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 944396,
-      "num": 216257,
-      "word": "杨紫李现友情",
-      "onboard_time": 1760845221,
-      "rank": 11,
       "category": "艺人"
     },
     {
@@ -3905,6 +3905,14 @@
       "onboard_time": 1760250562,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 717000,
+      "num": 183583,
+      "word": "跳河新郎亲属放弃追究新娘方责任",
+      "onboard_time": 1760845161,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 715109,
@@ -5580,7 +5588,7 @@
     },
     {
       "raw_hot": 572649,
-      "num": 224593,
+      "num": 285778,
       "word": "翁帆说有他多年的陪伴我何其有幸",
       "onboard_time": 1760841739,
       "rank": 16,
@@ -8843,6 +8851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 418821,
+      "num": 288132,
+      "word": "天地剑心",
+      "onboard_time": 1760163801,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 418762,
       "num": 356558,
       "word": "桂纶镁41岁状态",
@@ -10329,6 +10345,14 @@
       "onboard_time": 1760542461,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 356756,
+      "num": 180176,
+      "word": "李沁 顶级P人",
+      "onboard_time": 1760845341,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 356347,
@@ -12275,6 +12299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 299049,
+      "num": 299049,
+      "word": "切莫用黑公关污名化公众安全关切",
+      "onboard_time": 1760843839,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299035,
       "num": 172642,
       "word": "迪丽热巴入选美版VOGUE最佳街拍",
@@ -12329,14 +12361,6 @@
       "onboard_time": 1759473561,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 296993,
-      "num": 234063,
-      "word": "天地剑心",
-      "onboard_time": 1760163801,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 296861,
@@ -12793,6 +12817,14 @@
       "onboard_time": 1760660180,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286749,
+      "num": 286749,
+      "word": "4K修复志愿军跨过鸭绿江影像",
+      "onboard_time": 1760844261,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 286717,
@@ -16163,14 +16195,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 221843,
-      "num": 221843,
-      "word": "4K修复志愿军跨过鸭绿江影像",
-      "onboard_time": 1760844261,
-      "rank": 7,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 221770,
       "num": 221770,
       "word": "肖战为新剧小城良方减重15斤",
@@ -19059,6 +19083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192558,
+      "num": 171992,
+      "word": "中国人靠这条虫富了几千年",
+      "onboard_time": 1760847020,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192492,
       "num": 192492,
       "word": "KPL",
@@ -19265,6 +19297,14 @@
       "onboard_time": 1760105784,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 191318,
+      "num": 154417,
+      "word": "陈伟霆好友2022年就已知道恋情",
+      "onboard_time": 1760847682,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 191206,
@@ -19851,14 +19891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 187260,
-      "num": 187260,
-      "word": "切莫用黑公关污名化公众安全关切",
-      "onboard_time": 1760843839,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 187232,
       "num": 160688,
       "word": "赵今麦美拉德造型出发巴黎",
@@ -20169,6 +20201,14 @@
       "onboard_time": 1760503102,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184536,
+      "num": 184536,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1760846780,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 184440,
@@ -21081,14 +21121,6 @@
       "onboard_time": 1759596438,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178186,
-      "num": 164669,
-      "word": "李沁 顶级P人",
-      "onboard_time": 1760845341,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 178098,
@@ -22057,6 +22089,14 @@
       "onboard_time": 1760502382,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171924,
+      "num": 171924,
+      "word": "杨振宁近九十岁时写了首诗",
+      "onboard_time": 1760841681,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 171896,
@@ -23259,6 +23299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 164941,
+      "num": 164941,
+      "word": "周迅闷声干大事",
+      "onboard_time": 1760847741,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164889,
       "num": 164889,
       "word": "王橹杰偷笑",
@@ -23449,14 +23497,6 @@
       "onboard_time": 1760607561,
       "rank": 33,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 163807,
-      "num": 163807,
-      "word": "跳河新郎亲属放弃追究新娘方责任",
-      "onboard_time": 1760845161,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 163760,
@@ -24363,6 +24403,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 158930,
+      "num": 158930,
+      "word": "日本偶遇章子怡带孩子",
+      "onboard_time": 1760846659,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158912,
       "num": 186431,
       "word": "广西一游客坐滑道遇蛇从腿下穿过",
@@ -24947,6 +24995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156034,
+      "num": 156034,
+      "word": "多地警方联动寻找野人小孩一家",
+      "onboard_time": 1760846420,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155811,
       "num": 155811,
       "word": "偷偷藏不住中秋节售后",
@@ -25377,6 +25433,14 @@
       "onboard_time": 1759241541,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153781,
+      "num": 153781,
+      "word": "任嘉伦NBA最佳全能艺人奖",
+      "onboard_time": 1760847440,
+      "rank": 32,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 153777,
@@ -26273,14 +26337,6 @@
       "onboard_time": 1760619082,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 148694,
-      "num": 148694,
-      "word": "杨振宁近九十岁时写了首诗",
-      "onboard_time": 1760841681,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148650,
@@ -27401,6 +27457,14 @@
       "onboard_time": 1760155581,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 143788,
+      "num": 143788,
+      "word": "野人小孩事件家长需答四问",
+      "onboard_time": 1760846059,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 143733,
@@ -28931,6 +28995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 137675,
+      "num": 137675,
+      "word": "这居然是黄觉",
+      "onboard_time": 1760847261,
+      "rank": 37,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137671,
       "num": 137671,
       "word": "张婧仪 女神级别",
@@ -29433,6 +29505,14 @@
       "onboard_time": 1760702002,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 135737,
+      "num": 135737,
+      "word": "Knight赛后发博",
+      "onboard_time": 1760847080,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 135735,
@@ -30753,6 +30833,14 @@
       "onboard_time": 1759240221,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131855,
+      "num": 131855,
+      "word": "那艺娜回应",
+      "onboard_time": 1760847020,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 131838,
@@ -33915,6 +34003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122050,
+      "num": 122050,
+      "word": "小区10个月停水11次最长停10天",
+      "onboard_time": 1760847620,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122044,
       "num": 122044,
       "word": "穆祉丞叫TFBOYS祖师爷",
@@ -34513,6 +34609,14 @@
       "onboard_time": 1759978819,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120218,
+      "num": 120218,
+      "word": "吃着没这么甜但升糖很快的食物",
+      "onboard_time": 1760848160,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 120200,
@@ -40267,6 +40371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107050,
+      "num": 107050,
+      "word": "央视镜头下的李艾",
+      "onboard_time": 1760846180,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107013,
       "num": 107013,
       "word": "只有健身的人才懂她有多厉害",
@@ -40553,6 +40665,14 @@
       "onboard_time": 1759583481,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106410,
+      "num": 154443,
+      "word": "学校坍塌前有居民听到异响但未在意",
+      "onboard_time": 1760846481,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106389,
@@ -41385,6 +41505,14 @@
       "onboard_time": 1759895541,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 104575,
+      "num": 124347,
+      "word": "一路繁花这季的俩男仆是谁",
+      "onboard_time": 1760846841,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 104546,
@@ -43073,6 +43201,14 @@
       "onboard_time": 1760676503,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 101028,
+      "num": 101028,
+      "word": "美方为何攻击国家授时中心",
+      "onboard_time": 1760847860,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 100966,
@@ -46129,6 +46265,14 @@
       "onboard_time": 1760024001,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93373,
+      "num": 136344,
+      "word": "石宇奇安赛龙争执致比赛中断",
+      "onboard_time": 1760848040,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 93362,
@@ -60337,6 +60481,14 @@
       "onboard_time": 1760812756,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 24320,
+      "num": 181498,
+      "word": "大圣和大拿分享坑娃趣事",
+      "onboard_time": 1760846481,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 24223,

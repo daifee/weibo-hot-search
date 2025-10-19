@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 11:49:56
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 12:30:15
 </p>
 </blockquote>
 <p>
@@ -1155,6 +1155,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%E5%8F%8B%E6%83%85%23" target="weibo">
+杨紫李现友情（热度：1143673）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%9C%B0%E5%8F%91%E7%8E%B0%E9%A6%96%E4%BE%8B%E9%92%BB%E7%9F%B3%E8%A1%80%23" target="weibo">
 广东一地发现首例钻石血（热度：1143185）
 </a>
@@ -1799,12 +1805,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%E4%B8%80%E5%A4%A9%E6%AF%94%E4%B8%80%E5%A4%A9%E8%A3%82%23" target="weibo">
 杨洋的手机壳一天比一天裂（热度：945521）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%E5%8F%8B%E6%83%85%23" target="weibo">
-杨紫李现友情（热度：944396）
 </a>
 </li>
 
@@ -2939,6 +2939,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E9%83%A8%E5%A4%A7%E7%94%B7%E4%B8%BB%E5%89%A7%E5%90%8C%E6%9C%9F%E5%BC%80%E6%92%AD%23" target="weibo">
 三部大男主剧同期开播（热度：717562）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%B2%B3%E6%96%B0%E9%83%8E%E4%BA%B2%E5%B1%9E%E6%94%BE%E5%BC%83%E8%BF%BD%E7%A9%B6%E6%96%B0%E5%A8%98%E6%96%B9%E8%B4%A3%E4%BB%BB%23" target="weibo">
+跳河新郎亲属放弃追究新娘方责任（热度：717000）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ K签证（热度：453444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%B7%B4%E5%A8%9C%E6%89%8E%20%E6%96%B0%E7%96%86%E5%8F%8C%E7%BE%8E%E9%97%AA%E8%80%80%E5%B7%B4%E9%BB%8E%23" target="weibo">
 热巴娜扎 新疆双美闪耀巴黎（热度：452020）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E8%80%83%E7%BC%96%E6%94%BE%E5%AE%BD35%E5%B2%81%E9%97%A8%E6%A7%9B%23" target="weibo">
-多地考编放宽35岁门槛（热度：451840）
 </a>
 </li>
 
