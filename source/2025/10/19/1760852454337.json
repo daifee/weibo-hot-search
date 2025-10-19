@@ -1,0 +1,410 @@
+{
+  "runTime": 1760852454337,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 301083,
+        "num": 1048173,
+        "word": "固态电池突破",
+        "onboard_time": 1760837540,
+        "rank": 0,
+        "category": "汽车,民生新闻"
+      },
+      {
+        "raw_hot": 197771,
+        "num": 1046223,
+        "word": "西安城墙已变成巨型生态缸了",
+        "onboard_time": 1760848699,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5718,
+        "num": 917309,
+        "word": "红星照耀中国",
+        "onboard_time": 1760593821,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 350523,
+        "num": 881994,
+        "word": "我家那闺女",
+        "onboard_time": 1760851101,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177049,
+        "num": 746825,
+        "word": "4K修复志愿军跨过鸭绿江影像",
+        "onboard_time": 1760844261,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 170541,
+        "num": 701795,
+        "word": "美国网络攻击我国",
+        "onboard_time": 1760832860,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 668655,
+        "num": 668655,
+        "word": "翁帆发文纪念杨振宁",
+        "onboard_time": 1760839400,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319368,
+        "num": 536864,
+        "word": "天地剑心",
+        "onboard_time": 1760844439,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216686,
+        "num": 500570,
+        "word": "入青云",
+        "onboard_time": 1760843721,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197353,
+        "num": 490770,
+        "word": "翁帆说杨振宁交出了满意答卷",
+        "onboard_time": 1760838320,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 487689,
+        "num": 487689,
+        "word": "周杰伦新歌灵感与霉霉相撞",
+        "onboard_time": 1760848639,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 418315,
+        "num": 418315,
+        "word": "陈伟霆好友2022年就已知道恋情",
+        "onboard_time": 1760847682,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385074,
+        "num": 385074,
+        "word": "杨紫李现友情",
+        "onboard_time": 1760845221,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384557,
+        "num": 384557,
+        "word": "杨振宁与二次诺奖失之交臂",
+        "onboard_time": 1760850081,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32053,
+        "num": 337616,
+        "word": "跟一群电子榨菜面基了",
+        "onboard_time": 1760851402,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 171929,
+        "num": 306962,
+        "word": "切莫用黑公关污名化公众安全关切",
+        "onboard_time": 1760843839,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304727,
+        "num": 304727,
+        "word": "周迅闷声干大事",
+        "onboard_time": 1760847741,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285568,
+        "num": 285568,
+        "word": "陈乔恩辟谣艾伦私生子",
+        "onboard_time": 1760850981,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267410,
+        "num": 267410,
+        "word": "迪丽热巴粉丝回应上热搜",
+        "onboard_time": 1760849120,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267352,
+        "num": 267352,
+        "word": "北京下雪了",
+        "onboard_time": 1760805440,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233392,
+        "num": 233392,
+        "word": "27岁瞒着家人买了一套房",
+        "onboard_time": 1760837360,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166730,
+        "num": 222324,
+        "word": "我国成功发射力箭一号遥八运载火箭",
+        "onboard_time": 1760849120,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218294,
+        "num": 218294,
+        "word": "多地警方联动寻找野人小孩一家",
+        "onboard_time": 1760846420,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217438,
+        "num": 217438,
+        "word": "长期缺乏雌激素的风险",
+        "onboard_time": 1760848881,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196452,
+        "num": 196452,
+        "word": "李沁 顶级P人",
+        "onboard_time": 1760845341,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193251,
+        "num": 193251,
+        "word": "明意纪伯宰圆房",
+        "onboard_time": 1760851160,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154349,
+        "num": 154349,
+        "word": "时尚芭莎删除那艺娜物料",
+        "onboard_time": 1760832739,
+        "rank": 26,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 147219,
+        "num": 147219,
+        "word": "美国多地爆发反特朗普集会",
+        "onboard_time": 1760850800,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138313,
+        "num": 138313,
+        "word": "周深点歌点到中国台湾歌迷",
+        "onboard_time": 1760849841,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128417,
+        "num": 136452,
+        "word": "水龙吟全员开大没有一帧是不燃的",
+        "onboard_time": 1760851700,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134836,
+        "num": 134836,
+        "word": "李现回复杨紫谢谢白菊",
+        "onboard_time": 1760850141,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129599,
+        "num": 129599,
+        "word": "沙县小吃12元鸡腿饭减肥餐火了",
+        "onboard_time": 1760852422,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121147,
+        "num": 121147,
+        "word": "王楚钦25岁职业生涯百冠",
+        "onboard_time": 1760852120,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110147,
+        "num": 110147,
+        "word": "中国粉碎美方网攻图谋",
+        "onboard_time": 1760833759,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109931,
+        "num": 109931,
+        "word": "张本智和只怵王楚钦",
+        "onboard_time": 1760852422,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107282,
+        "num": 107282,
+        "word": "网购金豆含金量为0",
+        "onboard_time": 1760848579,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104310,
+        "num": 104310,
+        "word": "野人小孩事件家长需答四问",
+        "onboard_time": 1760846059,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104032,
+        "num": 104032,
+        "word": "日本偶遇章子怡带孩子",
+        "onboard_time": 1760846659,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99233,
+        "num": 99233,
+        "word": "终于发现冬天减脂快的原因了",
+        "onboard_time": 1760844379,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 44468,
+        "num": 98769,
+        "word": "家属称新郎跳河前曾在车上哭泣",
+        "onboard_time": 1760851340,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98467,
+        "num": 98467,
+        "word": "特朗普称美军摧毁一大型潜艇",
+        "onboard_time": 1760838800,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98327,
+        "num": 98327,
+        "word": "翁帆说有他多年的陪伴我何其有幸",
+        "onboard_time": 1760841739,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93747,
+        "num": 93747,
+        "word": "顶流零食蒟蒻果冻到底是啥",
+        "onboard_time": 1760851461,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 92013,
+        "num": 92013,
+        "word": "51岁大哥摆摊半年一分钱没挣",
+        "onboard_time": 1760850621,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89205,
+        "num": 91650,
+        "word": "其实已经过上了小时候想要的生活了",
+        "onboard_time": 1760849001,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89684,
+        "num": 91463,
+        "word": "王楚钦将捧花扔向观众席",
+        "onboard_time": 1760852001,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91420,
+        "num": 91420,
+        "word": "美方为何攻击国家授时中心",
+        "onboard_time": 1760847860,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 91034,
+        "num": 91034,
+        "word": "白敬亭做家常豆腐被夸成翘嘴",
+        "onboard_time": 1760852300,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87476,
+        "num": 87476,
+        "word": "志愿军出国作战75周年",
+        "onboard_time": 1760833822,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77348,
+        "num": 87164,
+        "word": "水龙吟",
+        "onboard_time": 1760839761,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记的十四五瞩望已然落地生根#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760851496843,
+  "endTime": 1760852454337,
   "band_list": [
     {
       "raw_hot": 2202319,
@@ -187,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418315,
+      "num": 418315,
+      "word": "陈伟霆好友2022年就已知道恋情",
+      "onboard_time": 1760847682,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 411900,
       "num": 205466,
       "word": "侯明昊卢昱晓回应曾擦身而过",
@@ -195,12 +203,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 379957,
-      "num": 379957,
-      "word": "陈伟霆好友2022年就已知道恋情",
-      "onboard_time": 1760847682,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 384557,
+      "num": 384557,
+      "word": "杨振宁与二次诺奖失之交臂",
+      "onboard_time": 1760850081,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 367254,
@@ -225,6 +233,14 @@
       "onboard_time": 1760804722,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350523,
+      "num": 881994,
+      "word": "我家那闺女",
+      "onboard_time": 1760851101,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 338995,
@@ -252,11 +268,19 @@
     },
     {
       "raw_hot": 304915,
-      "num": 734107,
+      "num": 746825,
       "word": "4K修复志愿军跨过鸭绿江影像",
       "onboard_time": 1760844261,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 304727,
+      "num": 304727,
+      "word": "周迅闷声干大事",
+      "onboard_time": 1760847741,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 299049,
@@ -267,20 +291,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 294945,
-      "num": 294945,
-      "word": "杨振宁与二次诺奖失之交臂",
-      "onboard_time": 1760850081,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 291634,
       "num": 262206,
       "word": "杨振宁20年前预言已基本实现",
       "onboard_time": 1760781621,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 285568,
+      "num": 285568,
+      "word": "陈乔恩辟谣艾伦私生子",
+      "onboard_time": 1760850981,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 281414,
@@ -339,14 +363,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 235425,
-      "num": 235425,
-      "word": "周迅闷声干大事",
-      "onboard_time": 1760847741,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227392,
       "num": 816660,
       "word": "北京今天就下雪了",
@@ -363,7 +379,23 @@
       "category": "演出"
     },
     {
-      "raw_hot": 210159,
+      "raw_hot": 218294,
+      "num": 218294,
+      "word": "多地警方联动寻找野人小孩一家",
+      "onboard_time": 1760846420,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217438,
+      "num": 217438,
+      "word": "长期缺乏雌激素的风险",
+      "onboard_time": 1760848881,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 216686,
       "num": 670143,
       "word": "入青云",
       "onboard_time": 1760786302,
@@ -379,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197771,
+      "num": 1046223,
+      "word": "西安城墙已变成巨型生态缸了",
+      "onboard_time": 1760848699,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195819,
       "num": 195819,
       "word": "75年前的今天志愿军跨过鸭绿江",
@@ -392,6 +432,14 @@
       "word": "成毅新剧开机人气",
       "onboard_time": 1760844921,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193251,
+      "num": 193251,
+      "word": "明意纪伯宰圆房",
+      "onboard_time": 1760851160,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -419,36 +467,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 189234,
-      "num": 189234,
-      "word": "多地警方联动寻找野人小孩一家",
-      "onboard_time": 1760846420,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186793,
-      "num": 628493,
-      "word": "我家那闺女",
-      "onboard_time": 1760851101,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 184536,
       "num": 184536,
       "word": "崩坏星穹铁道",
       "onboard_time": 1760846780,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 183737,
-      "num": 183737,
-      "word": "长期缺乏雌激素的风险",
-      "onboard_time": 1760848881,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 183039,
@@ -483,15 +507,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 170220,
-      "num": 170220,
-      "word": "西安城墙已变成巨型生态缸了",
-      "onboard_time": 1760848699,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 166712,
+      "raw_hot": 166730,
       "num": 247166,
       "word": "我国成功发射力箭一号遥八运载火箭",
       "onboard_time": 1760849120,
@@ -563,6 +579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 147219,
+      "num": 147219,
+      "word": "美国多地爆发反特朗普集会",
+      "onboard_time": 1760850800,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 144470,
       "num": 144470,
       "word": "张峻豪见张靓颖社恐到腿软",
@@ -579,12 +603,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 143376,
-      "num": 143376,
-      "word": "陈乔恩辟谣艾伦私生子",
-      "onboard_time": 1760850981,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 138313,
+      "num": 138313,
+      "word": "周深点歌点到中国台湾歌迷",
+      "onboard_time": 1760849841,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 137675,
@@ -627,6 +651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134836,
+      "num": 134836,
+      "word": "李现回复杨紫谢谢白菊",
+      "onboard_time": 1760850141,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134122,
       "num": 134122,
       "word": "下一个台风叫风神",
@@ -659,12 +691,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130071,
-      "num": 130071,
-      "word": "李现回复杨紫谢谢白菊",
-      "onboard_time": 1760850141,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 129599,
+      "num": 129599,
+      "word": "沙县小吃12元鸡腿饭减肥餐火了",
+      "onboard_time": 1760852422,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128417,
+      "num": 136452,
+      "word": "水龙吟全员开大没有一帧是不燃的",
+      "onboard_time": 1760851700,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 125171,
@@ -675,20 +715,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 122619,
-      "num": 122619,
-      "word": "美国多地爆发反特朗普集会",
-      "onboard_time": 1760850800,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 122050,
       "num": 122050,
       "word": "小区10个月停水11次最长停10天",
       "onboard_time": 1760847620,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121147,
+      "num": 121147,
+      "word": "王楚钦25岁职业生涯百冠",
+      "onboard_time": 1760852120,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 120537,
@@ -739,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115699,
-      "num": 115699,
-      "word": "明意纪伯宰圆房",
-      "onboard_time": 1760851160,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114704,
       "num": 114704,
       "word": "张小斐像是来谈收购的",
@@ -795,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109931,
+      "num": 109931,
+      "word": "张本智和只怵王楚钦",
+      "onboard_time": 1760852422,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109365,
       "num": 109365,
       "word": "李兰迪怎么美成这样",
@@ -811,20 +851,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107282,
+      "num": 107282,
+      "word": "网购金豆含金量为0",
+      "onboard_time": 1760848579,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107050,
       "num": 107050,
       "word": "央视镜头下的李艾",
       "onboard_time": 1760846180,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106770,
-      "num": 106770,
-      "word": "网购金豆含金量为0",
-      "onboard_time": 1760848579,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106410,
@@ -915,14 +955,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 99491,
-      "num": 99491,
-      "word": "周深点歌点到中国台湾歌迷",
-      "onboard_time": 1760849841,
-      "rank": 40,
-      "category": "演出"
-    },
-    {
       "raw_hot": 99017,
       "num": 99017,
       "word": "梅西帽子戏法",
@@ -987,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93747,
+      "num": 93747,
+      "word": "顶流零食蒟蒻果冻到底是啥",
+      "onboard_time": 1760851461,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 93373,
       "num": 136344,
       "word": "石宇奇安赛龙争执致比赛中断",
@@ -1011,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91034,
+      "num": 91034,
+      "word": "白敬亭做家常豆腐被夸成翘嘴",
+      "onboard_time": 1760852300,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90617,
       "num": 90617,
       "word": "这曲一响甄嬛来了又要过情关了",
@@ -1020,7 +1068,7 @@
     },
     {
       "raw_hot": 90523,
-      "num": 90523,
+      "num": 91650,
       "word": "其实已经过上了小时候想要的生活了",
       "onboard_time": 1760849001,
       "rank": 49,
@@ -1035,12 +1083,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90137,
-      "num": 90137,
-      "word": "顶流零食蒟蒻果冻到底是啥",
-      "onboard_time": 1760851461,
-      "rank": 48,
-      "category": "美食"
+      "raw_hot": 89684,
+      "num": 91463,
+      "word": "王楚钦将捧花扔向观众席",
+      "onboard_time": 1760852001,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 89622,
@@ -1491,20 +1539,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44468,
+      "num": 104901,
+      "word": "家属称新郎跳河前曾在车上哭泣",
+      "onboard_time": 1760851340,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40774,
       "num": 64577,
       "word": "每个省都有自己专属应急食物",
       "onboard_time": 1760807718,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 40303,
-      "num": 104901,
-      "word": "家属称新郎跳河前曾在车上哭泣",
-      "onboard_time": 1760851340,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39147,
@@ -1553,6 +1601,14 @@
       "onboard_time": 1760818995,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32053,
+      "num": 337616,
+      "word": "跟一群电子榨菜面基了",
+      "onboard_time": 1760851402,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 30488,
@@ -1675,15 +1731,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 9036,
-      "num": 111787,
-      "word": "跟一群电子榨菜面基了",
-      "onboard_time": 1760851402,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 4957,
+      "raw_hot": 5718,
       "num": 937094,
       "word": "红星照耀中国",
       "onboard_time": 1760593821,
