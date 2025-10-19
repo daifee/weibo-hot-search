@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/19 00:28:53 ~ 2025/10/20 06:40:11
+本榜单时间：2025/10/19 00:28:53 ~ 2025/10/20 07:23:17
 </p>
 </blockquote>
 <p>
@@ -501,6 +501,12 @@ S15瑞士轮第四轮抽签（热度：363495）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%AD%A9%E5%AD%90%E5%92%8C%E7%88%B6%E6%AF%8D%E5%B7%B2%E5%9C%A8%E7%AE%A1%E6%8E%A7%E8%8C%83%E5%9B%B4%E5%86%85%23" target="weibo">
+野人孩子和父母已在管控范围内（热度：319592）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%97%E7%AA%83%E8%80%85%E7%94%A8%E5%8D%87%E9%99%8D%E5%90%8A%E7%AF%AE%E8%BF%9B%E5%85%A5%E5%8D%A2%E6%B5%AE%E5%AE%AB%23" target="weibo">
 盗窃者用升降吊篮进入卢浮宫（热度：306454）
 </a>
@@ -687,12 +693,6 @@ Karsa挥手告别（热度：219666）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%AD%A9%E5%AD%90%E5%92%8C%E7%88%B6%E6%AF%8D%E5%B7%B2%E5%9C%A8%E7%AE%A1%E6%8E%A7%E8%8C%83%E5%9B%B4%E5%86%85%23" target="weibo">
-野人孩子和父母已在管控范围内（热度：213568）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E5%B7%B4%E7%BD%9A%E6%AC%BE%E8%B5%B5%E6%A2%A6%E6%BE%88100%E4%B8%87%23" target="weibo">
 辛巴罚款赵梦澈100万（热度：209154）
 </a>
@@ -875,6 +875,12 @@ Crisp给BLG抽个T1吧（热度：181941）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%8C%AF%E5%AE%81%E8%BF%91%E4%B9%9D%E5%8D%81%E5%B2%81%E6%97%B6%E5%86%99%E4%BA%86%E9%A6%96%E8%AF%97%23" target="weibo">
 杨振宁近九十岁时写了首诗（热度：171924）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2350%E5%85%8B%E9%87%91%E6%9D%A1%E8%AE%A2%E5%8D%95%E8%A2%AB%E6%8B%A6%E6%88%AA%E4%B9%B0%E5%AE%B6%E5%8F%91%E5%A3%B0%23" target="weibo">
+50克金条订单被拦截买家发声（热度：170632）
 </a>
 </li>
 
@@ -1139,12 +1145,6 @@ Knight赛后发博（热度：135737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%B4%E5%93%A5%E5%B7%B2%E5%9C%A8%E5%8D%97%E5%AE%81%E5%B0%8F%E5%8C%BA%E4%BD%8F5%E5%A4%A9%E4%BA%86%23" target="weibo">
 猴哥已在南宁小区住5天了（热度：135159）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2350%E5%85%8B%E9%87%91%E6%9D%A1%E8%AE%A2%E5%8D%95%E8%A2%AB%E6%8B%A6%E6%88%AA%E4%B9%B0%E5%AE%B6%E5%8F%91%E5%A3%B0%23" target="weibo">
-50克金条订单被拦截买家发声（热度：134988）
 </a>
 </li>
 
@@ -1457,6 +1457,12 @@ Knight想和T1瑞士轮交手（热度：125171）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%A4%E7%94%B7%E5%9B%9E%E5%85%B3%E5%85%A8%E4%BC%8A%E4%BC%A6%23" target="weibo">
 鹤男回关全伊伦（热度：117058）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%AA%81%E5%8F%91%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%23" target="weibo">
+伊朗突发恐怖袭击（热度：116820）
 </a>
 </li>
 
@@ -2097,6 +2103,12 @@ MRC对战北京WBG（热度：87972）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%8A%E7%94%9F%E5%91%BD%E5%8A%9B%E5%85%BB%E8%B5%B7%E6%9D%A5%E7%9A%84%E6%96%B9%E6%B3%95%23" target="weibo">
+把生命力养起来的方法（热度：86990）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E5%8D%97%E5%8C%97%E6%96%B9%E7%9A%84%E9%A3%9F%E7%89%A9%E5%81%9A%E5%AD%A9%E5%AD%90%E5%B0%8F%E5%90%8D%23" target="weibo">
 用南北方的食物做孩子小名（热度：86972）
 </a>
@@ -2277,6 +2289,12 @@ F1（热度：84778）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23" target="weibo">
+王者荣耀（热度：78886）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%A7%E4%BC%A4%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%AB%8C%E7%96%91%E4%BA%BA%E6%9B%BE%E5%88%B7%E7%A4%BC%E7%89%A9%E8%BF%BD%E6%B1%82%E8%A2%AB%E6%8B%92%23" target="weibo">
 烧伤女主播嫌疑人曾刷礼物追求被拒（热度：78521）
 </a>
@@ -2415,6 +2433,12 @@ Knight称抽T1挺好的（热度：74561）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E7%9C%8B%E5%88%B0%E7%A0%B4%E4%B8%87%E5%90%8E%E6%BF%80%E5%8A%A8%E7%9A%84%E9%A3%9E%E5%A5%94%E5%87%BA%E5%8E%BB%E4%BA%86%23" target="weibo">
+侯明昊看到破万后激动的飞奔出去了（热度：70838）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8B%B3%E7%8E%8B%E5%9C%A8%E6%BE%B3%E9%81%AD%E8%A2%AD%E8%87%B4%E4%B8%A5%E9%87%8D%E5%BF%83%E7%90%86%E5%88%9B%E4%BC%A4%23" target="weibo">
 中国拳王在澳遭袭致严重心理创伤（热度：70830）
 </a>
@@ -2487,6 +2511,12 @@ Bin和Doran迎来生死战（热度：63760）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%9D%92%E5%B9%B4%E5%93%BD%E5%92%BD%E7%BC%85%E6%80%80%E5%90%B4%E7%9F%B3%E5%B0%86%E5%86%9B%23" target="weibo">
+台湾青年哽咽缅怀吴石将军（热度：63106）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E6%81%A9%20%E4%BA%A4%E4%BD%9C%E4%B8%9A%23" target="weibo">
 余承恩 交作业（热度：62941）
 </a>
@@ -2507,6 +2537,12 @@ Bin和Doran迎来生死战（热度：63760）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%9B%9B%E4%BA%94%E6%9C%9F%E9%97%B4%E8%BF%99%E4%BA%9B%E5%A4%A7%E5%9B%BD%E9%87%8D%E5%99%A8%E5%87%BA%E5%9C%88%E4%BA%86%23" target="weibo">
 十四五期间这些大国重器出圈了（热度：62318）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E6%9A%B4%E6%B6%A8%E8%B0%81%E6%98%AF%E6%9C%80%E5%A4%A7%E5%8F%97%E5%AE%B3%E8%80%85%23" target="weibo">
+黄金暴涨谁是最大受害者（热度：60320）
 </a>
 </li>
 
@@ -2547,12 +2583,6 @@ Bin和Doran迎来生死战（热度：63760）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%8A%E7%94%9F%E5%91%BD%E5%8A%9B%E5%85%BB%E8%B5%B7%E6%9D%A5%E7%9A%84%E6%96%B9%E6%B3%95%23" target="weibo">
-把生命力养起来的方法（热度：54825）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%BA%A7%E6%B2%B3%E7%81%AF%23" target="weibo">
 高级河灯（热度：53866）
 </a>
@@ -2589,6 +2619,12 @@ Bin和Doran迎来生死战（热度：63760）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%87%E5%A5%87%E8%8E%B7%E4%B8%B9%E9%BA%A6%E8%B5%9B%E7%94%B7%E5%8D%95%E4%BA%9A%E5%86%9B%23" target="weibo">
+石宇奇获丹麦赛男单亚军（热度：49108）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%95%B0%E7%BA%A2%E5%8C%85%23" target="weibo">
 肖战数红包（热度：48844）
 </a>
@@ -2597,6 +2633,12 @@ Bin和Doran迎来生死战（热度：63760）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23MKOI%E5%AF%B9%E6%88%98FNC%23" target="weibo">
 MKOI对战FNC（热度：47464）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%B9%BE%E8%A7%82%E4%BC%97%E7%9C%8B%E6%B2%89%E9%BB%98%E7%9A%84%E8%8D%A3%E8%80%80%23" target="weibo">
+于和伟回应台湾观众看沉默的荣耀（热度：47085）
 </a>
 </li>
 
@@ -2619,8 +2661,20 @@ MKOI对战FNC（热度：47464）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E5%90%8E%E8%BF%99%E4%B8%89%E7%B1%BB%E9%A3%9F%E7%89%A9%E5%B8%AE%E4%BD%A0%E5%BF%AB%E9%80%9F%E5%9B%9E%E8%A1%80%23" target="weibo">
+熬夜后这三类食物帮你快速回血（热度：44715）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%96%B0%E9%83%8E%E8%B7%B3%E6%B2%B3%E5%89%8D%E6%9B%BE%E5%9C%A8%E8%BD%A6%E4%B8%8A%E5%93%AD%E6%B3%A3%23" target="weibo">
 家属称新郎跳河前曾在车上哭泣（热度：44468）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%A8%A1%E4%BB%BF%E8%82%96%E6%88%98%E8%88%9E%E5%8F%B0%23" target="weibo">
+小朋友模仿肖战舞台（热度：42598）
 </a>
 </li>
 
@@ -2657,6 +2711,12 @@ PSG对战VKS（热度：39526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4%E9%9D%9E%E6%B3%95%E6%8E%A7%E5%88%B6%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E6%A1%88%23" target="weibo">
 网警侦破非法控制计算机信息系统案（热度：38947）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%BD%E7%A6%B9%E6%88%96%E5%B0%86%E5%8A%A0%E5%85%A5%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%23" target="weibo">
+张泽禹或将加入声生不息（热度：38937）
 </a>
 </li>
 
@@ -2745,12 +2805,6 @@ PSG对战VKS（热度：39526）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%E5%9B%9E%E5%BA%94%E5%8F%B0%E6%B9%BE%E8%A7%82%E4%BC%97%E7%9C%8B%E6%B2%89%E9%BB%98%E7%9A%84%E8%8D%A3%E8%80%80%23" target="weibo">
-于和伟回应台湾观众看沉默的荣耀（热度：26455）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%95%E8%89%B3%E5%A9%B7%E8%A2%AB%E9%85%8D%E9%9F%B3%E8%80%BD%E8%AF%AF%E7%9A%84%E6%96%B9%E8%A8%80%E5%A4%A7%E5%B8%88%23" target="weibo">
 吕艳婷被配音耽误的方言大师（热度：26033）
 </a>
@@ -2787,12 +2841,6 @@ PSG对战VKS（热度：39526）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9C%8B%E5%8F%8B%E6%A8%A1%E4%BB%BF%E8%82%96%E6%88%98%E8%88%9E%E5%8F%B0%23" target="weibo">
-小朋友模仿肖战舞台（热度：23952）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8F%A4%E5%81%B6%E5%8F%AF%E9%9D%A0%E4%B8%88%E5%A4%AB%E8%B5%9B%E9%81%93%23" target="weibo">
 侯明昊古偶可靠丈夫赛道（热度：23780）
 </a>
@@ -2801,12 +2849,6 @@ PSG对战VKS（热度：39526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%AE%98%E5%AE%A3%E9%98%B5%E5%AE%B9%23" target="weibo">
 小城良方官宣阵容（热度：22810）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E5%90%8E%E8%BF%99%E4%B8%89%E7%B1%BB%E9%A3%9F%E7%89%A9%E5%B8%AE%E4%BD%A0%E5%BF%AB%E9%80%9F%E5%9B%9E%E8%A1%80%23" target="weibo">
-熬夜后这三类食物帮你快速回血（热度：21691）
 </a>
 </li>
 
