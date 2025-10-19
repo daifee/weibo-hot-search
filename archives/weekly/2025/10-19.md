@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/19 00:28:53 ~ 2025/10/20 02:45:13
+本榜单时间：2025/10/19 00:28:53 ~ 2025/10/20 03:20:21
 </p>
 </blockquote>
 <p>
@@ -2873,6 +2873,12 @@ PSG对战VKS（热度：39526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%87%E8%80%B3%E6%AC%B2%E8%81%8B%E6%B5%B7%E5%A4%96%E5%8F%A3%E7%A2%91%23" target="weibo">
 震耳欲聋海外口碑（热度：14172）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%93%81%E5%BD%B1%E5%93%8D%E5%8A%9B%23" target="weibo">
+星品影响力（热度：12486）
 </a>
 </li>
 
