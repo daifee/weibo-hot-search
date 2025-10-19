@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760844893202,
+  "endTime": 1760845796661,
   "band_list": [
     {
       "raw_hot": 2202319,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1439854,
-      "num": 217665,
+      "num": 219080,
       "word": "陈伟霆 何穗",
       "onboard_time": 1760835560,
       "rank": 10,
@@ -27,8 +27,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 944396,
+      "num": 216257,
+      "word": "杨紫李现友情",
+      "onboard_time": 1760845221,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 869342,
-      "num": 210639,
+      "num": 211487,
       "word": "时尚芭莎删除那艺娜物料",
       "onboard_time": 1760832739,
       "rank": 12,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 699962,
-      "num": 203398,
+      "num": 213504,
       "word": "27岁瞒着家人买了一套房",
       "onboard_time": 1760837360,
       "rank": 14,
@@ -83,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 572649,
+      "num": 224593,
+      "word": "翁帆说有他多年的陪伴我何其有幸",
+      "onboard_time": 1760841739,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 567410,
       "num": 1090785,
       "word": "固态电池突破",
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 522750,
-      "num": 197603,
+      "num": 206481,
       "word": "陆毅鲍蕾50岁夫妻也要睡一张床",
       "onboard_time": 1760841681,
       "rank": 13,
@@ -148,19 +164,11 @@
     },
     {
       "raw_hot": 411900,
-      "num": 195971,
+      "num": 205466,
       "word": "侯明昊卢昱晓回应曾擦身而过",
       "onboard_time": 1760838261,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 396918,
-      "num": 195614,
-      "word": "翁帆说有他多年的陪伴我何其有幸",
-      "onboard_time": 1760841739,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 367254,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 333409,
-      "num": 184247,
+      "num": 202048,
       "word": "猪脚饭饭菜分装顾客给差评",
       "onboard_time": 1760840060,
       "rank": 19,
@@ -203,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296993,
+      "num": 234063,
+      "word": "天地剑心",
+      "onboard_time": 1760844439,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 291634,
       "num": 262206,
       "word": "杨振宁20年前预言已基本实现",
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 267826,
-      "num": 180683,
+      "num": 196475,
       "word": "张晚意下水为李沁捡帽子",
       "onboard_time": 1760838740,
       "rank": 30,
@@ -275,8 +291,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 220638,
-      "num": 220638,
+      "raw_hot": 221843,
+      "num": 221843,
       "word": "4K修复志愿军跨过鸭绿江影像",
       "onboard_time": 1760844261,
       "rank": 7,
@@ -289,14 +305,6 @@
       "onboard_time": 1760791642,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199646,
-      "num": 199646,
-      "word": "天地剑心",
-      "onboard_time": 1760844439,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 195819,
@@ -315,12 +323,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195006,
+      "num": 195006,
+      "word": "成毅新剧开机人气",
+      "onboard_time": 1760844921,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192812,
       "num": 552545,
       "word": "G2战胜BLG",
       "onboard_time": 1760785103,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190251,
+      "num": 190251,
+      "word": "时代峰峻新贴的海报",
+      "onboard_time": 1760845281,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 187260,
+      "num": 187260,
+      "word": "切莫用黑公关污名化公众安全关切",
+      "onboard_time": 1760843839,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183039,
@@ -339,6 +371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 178186,
+      "num": 164669,
+      "word": "李沁 顶级P人",
+      "onboard_time": 1760845341,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173896,
       "num": 173896,
       "word": "郑恺苗苗从小共用一张脸",
@@ -347,20 +387,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172022,
-      "num": 172022,
-      "word": "切莫用黑公关污名化公众安全关切",
-      "onboard_time": 1760843839,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 166518,
       "num": 166518,
       "word": "张柏芝镜头下的邵子恒",
       "onboard_time": 1760844559,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163807,
+      "num": 163807,
+      "word": "跳河新郎亲属放弃追究新娘方责任",
+      "onboard_time": 1760845161,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163660,
@@ -379,6 +419,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156658,
+      "num": 156658,
+      "word": "终于发现冬天减脂快的原因了",
+      "onboard_time": 1760844379,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 148694,
+      "num": 148694,
+      "word": "杨振宁近九十岁时写了首诗",
+      "onboard_time": 1760841681,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147541,
       "num": 185698,
       "word": "新任中国国民党主席郑丽文",
@@ -393,14 +449,6 @@
       "onboard_time": 1760843659,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139764,
-      "num": 139764,
-      "word": "终于发现冬天减脂快的原因了",
-      "onboard_time": 1760844379,
-      "rank": 26,
-      "category": "情感"
     },
     {
       "raw_hot": 137350,
@@ -435,12 +483,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 131306,
+      "num": 131306,
+      "word": "西湖大学临时追加悼念杨振宁环节",
+      "onboard_time": 1760844320,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130787,
       "num": 130787,
       "word": "圆明园复原后长这样",
       "onboard_time": 1760797343,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125171,
+      "num": 125171,
+      "word": "Knight想和T1瑞士轮交手",
+      "onboard_time": 1760843001,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 118737,
@@ -475,14 +539,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 113775,
-      "num": 113775,
-      "word": "Knight想和T1瑞士轮交手",
-      "onboard_time": 1760843001,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 112636,
       "num": 112636,
       "word": "志愿军出国作战75周年",
@@ -507,20 +563,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 110458,
+      "num": 110458,
+      "word": "沈腾王安宇情侣装",
+      "onboard_time": 1760845341,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109365,
       "num": 109365,
       "word": "李兰迪怎么美成这样",
       "onboard_time": 1760801303,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108913,
-      "num": 108913,
-      "word": "西湖大学临时追加悼念杨振宁环节",
-      "onboard_time": 1760844320,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108046,
@@ -547,20 +603,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103167,
+      "num": 103167,
+      "word": "友人称杨振宁没能二度获诺奖是遗憾",
+      "onboard_time": 1760845101,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102775,
       "num": 189305,
       "word": "南京vs泰州",
       "onboard_time": 1760791942,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101871,
-      "num": 101871,
-      "word": "杨振宁近九十岁时写了首诗",
-      "onboard_time": 1760841681,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101513,
@@ -747,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81835,
+      "num": 81835,
+      "word": "刘芸你要对我的爱情负责",
+      "onboard_time": 1760845580,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 81618,
       "num": 81618,
       "word": "陈小春复刻与Jasper对话",
@@ -851,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76325,
+      "num": 76325,
+      "word": "罗云熙新剧每件乐器都是杀器",
+      "onboard_time": 1760845580,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76168,
       "num": 76168,
       "word": "哈马斯称停火后不参与加沙治理",
@@ -939,12 +1011,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67421,
-      "num": 67421,
+      "raw_hot": 67846,
+      "num": 67846,
       "word": "简单三步处理鱼虾扎伤",
       "onboard_time": 1760844199,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66644,
+      "num": 66644,
+      "word": "王源走心点评把冯宸铭感动哭了",
+      "onboard_time": 1760845760,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 65666,
@@ -1083,6 +1163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 35380,
+      "num": 90942,
+      "word": "20米的下坡路装了16条减速带",
+      "onboard_time": 1760844379,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32551,
       "num": 42558,
       "word": "侯明昊看姻缘石刻字名场面reaction",
@@ -1099,16 +1187,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 29580,
-      "num": 90942,
-      "word": "20米的下坡路装了16条减速带",
-      "onboard_time": 1760844379,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26033,
-      "num": 196718,
+      "num": 209129,
       "word": "吕艳婷被配音耽误的方言大师",
       "onboard_time": 1760842880,
       "rank": 14,
@@ -1203,7 +1283,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2993,
+      "raw_hot": 3675,
       "num": 246334,
       "word": "红星照耀中国",
       "onboard_time": 1760593821,

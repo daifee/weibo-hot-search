@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 11:34:53
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 11:49:56
 </p>
 </blockquote>
 <p>
@@ -1799,6 +1799,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E7%9A%84%E6%89%8B%E6%9C%BA%E5%A3%B3%E4%B8%80%E5%A4%A9%E6%AF%94%E4%B8%80%E5%A4%A9%E8%A3%82%23" target="weibo">
 杨洋的手机壳一天比一天裂（热度：945521）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%E5%8F%8B%E6%83%85%23" target="weibo">
+杨紫李现友情（热度：944396）
 </a>
 </li>
 
@@ -4191,6 +4197,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BF%81%E5%B8%86%E8%AF%B4%E6%9C%89%E4%BB%96%E5%A4%9A%E5%B9%B4%E7%9A%84%E9%99%AA%E4%BC%B4%E6%88%91%E4%BD%95%E5%85%B6%E6%9C%89%E5%B9%B8%23" target="weibo">
+翁帆说有他多年的陪伴我何其有幸（热度：572649）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E4%BA%86%E9%9A%90%E7%BF%85%E8%99%AB%23" target="weibo">
 发现了隐翅虫（热度：572264）
 </a>
@@ -5999,18 +6011,6 @@ K签证（热度：453444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9C%B0%E8%80%83%E7%BC%96%E6%94%BE%E5%AE%BD35%E5%B2%81%E9%97%A8%E6%A7%9B%23" target="weibo">
 多地考编放宽35岁门槛（热度：451840）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%B5%B7%E5%9F%9F7.6%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
-菲律宾海域7.6级地震（热度：451660）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%98%E7%8E%B02%E5%85%AC%E6%96%A4%E9%87%91%E6%9D%A1%E5%87%80%E8%B5%9A%E7%99%BE%E4%B8%87%23" target="weibo">
-男子变现2公斤金条净赚百万（热度：451581）
 </a>
 </li>
 
