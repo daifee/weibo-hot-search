@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760877958621,
+  "endTime": 1760878819461,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -459,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1793333,
+      "num": 1793333,
+      "word": "卢浮宫被盗过程仅7分钟",
+      "onboard_time": 1760870842,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1784384,
       "num": 1784384,
       "word": "国考 无岗",
@@ -473,14 +481,6 @@
       "onboard_time": 1759494261,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1781296,
-      "num": 1781296,
-      "word": "卢浮宫被盗过程仅7分钟",
-      "onboard_time": 1760870842,
-      "rank": 1,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1762143,
@@ -3107,6 +3107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 837371,
+      "num": 837371,
+      "word": "卢浮宫一件被盗文物已损毁",
+      "onboard_time": 1760876183,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 835850,
       "num": 274610,
       "word": "何捷用张馨予泡酸萝卜的缸给鱼坐月子",
@@ -4033,6 +4041,14 @@
       "onboard_time": 1760248101,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 712303,
+      "num": 234940,
+      "word": "邵雨轩 复旦学子来也",
+      "onboard_time": 1760875582,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 710643,
@@ -8499,6 +8515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 439799,
+      "num": 439799,
+      "word": "入青云热度",
+      "onboard_time": 1759922780,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 438676,
       "num": 223433,
       "word": "石原里美二胎产后状态",
@@ -8915,14 +8939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 422728,
-      "num": 422728,
-      "word": "卢浮宫一件被盗文物已损毁",
-      "onboard_time": 1760876183,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 422285,
       "num": 422285,
       "word": "父母多次嘱咐走红大学生要低调",
@@ -9041,14 +9057,6 @@
       "onboard_time": 1760847682,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 417960,
-      "num": 417960,
-      "word": "入青云热度",
-      "onboard_time": 1759922780,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 417546,
@@ -10001,14 +10009,6 @@
       "onboard_time": 1759478841,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 377904,
-      "num": 234940,
-      "word": "邵雨轩 复旦学子来也",
-      "onboard_time": 1760875582,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 377485,
@@ -12363,6 +12363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 304827,
+      "num": 304827,
+      "word": "南通vs无锡",
+      "onboard_time": 1760875702,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304727,
       "num": 304727,
       "word": "周迅闷声干大事",
@@ -14561,14 +14569,6 @@
       "onboard_time": 1759288041,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 255794,
-      "num": 255794,
-      "word": "南通vs无锡",
-      "onboard_time": 1760875702,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 255743,
@@ -18251,6 +18251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201446,
+      "num": 201446,
+      "word": "奔跑吧特别季",
+      "onboard_time": 1760876962,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201331,
       "num": 201331,
       "word": "久哲",
@@ -21097,6 +21105,14 @@
       "onboard_time": 1760572459,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181544,
+      "num": 181544,
+      "word": "印度食脑虫感染病例数激增已致死26人",
+      "onboard_time": 1760877200,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 181542,
@@ -24779,6 +24795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159459,
+      "num": 159459,
+      "word": "入青云追剧日历呢",
+      "onboard_time": 1760874141,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159444,
       "num": 159444,
       "word": "上一季姐狗味这一季哥妹味儿",
@@ -25771,6 +25795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154849,
+      "num": 154849,
+      "word": "罗永浩说易烊千玺是新生代演员旗帜",
+      "onboard_time": 1760877082,
+      "rank": 27,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 154837,
       "num": 154837,
       "word": "多家银行就金价紧急提醒",
@@ -26291,14 +26323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152164,
-      "num": 152164,
-      "word": "印度食脑虫感染病例数激增已致死26人",
-      "onboard_time": 1760877200,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 152089,
       "num": 152089,
       "word": "DNA感谢林俊杰",
@@ -26721,6 +26745,14 @@
       "onboard_time": 1759892841,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149832,
+      "num": 149832,
+      "word": "国家安全部发文致敬聂曦烈士",
+      "onboard_time": 1760873181,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149813,
@@ -28507,14 +28539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141742,
-      "num": 141742,
-      "word": "国家安全部发文致敬聂曦烈士",
-      "onboard_time": 1760873181,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 141704,
       "num": 141704,
       "word": "微博视界大会公告",
@@ -28609,14 +28633,6 @@
       "onboard_time": 1760336661,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141221,
-      "num": 141221,
-      "word": "入青云追剧日历呢",
-      "onboard_time": 1760874141,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 141217,
@@ -29089,6 +29105,14 @@
       "onboard_time": 1760274740,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139608,
+      "num": 139608,
+      "word": "AG对战TTG",
+      "onboard_time": 1760868261,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 139607,
@@ -29857,14 +29881,6 @@
       "onboard_time": 1760014762,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136849,
-      "num": 136849,
-      "word": "奔跑吧特别季",
-      "onboard_time": 1760876962,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 136848,
@@ -31139,6 +31155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132979,
+      "num": 132979,
+      "word": "金价上涨后50克金条订单被拦截",
+      "onboard_time": 1760876781,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132935,
       "num": 138248,
       "word": "王曼昱3比0早田希娜",
@@ -31321,6 +31345,14 @@
       "onboard_time": 1760152104,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 132562,
+      "num": 132562,
+      "word": "Supa为Uzi而战",
+      "onboard_time": 1760877742,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 132408,
@@ -33307,14 +33339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126123,
-      "num": 126123,
-      "word": "AG对战TTG",
-      "onboard_time": 1760868261,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 126095,
       "num": 122074,
       "word": "LPL迎接全球总决赛",
@@ -34129,14 +34153,6 @@
       "onboard_time": 1759571180,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123822,
-      "num": 123822,
-      "word": "罗永浩说易烊千玺是新生代演员旗帜",
-      "onboard_time": 1760877082,
-      "rank": 27,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 123816,
@@ -35553,6 +35569,14 @@
       "onboard_time": 1760444421,
       "rank": 33,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 119776,
+      "num": 119776,
+      "word": "卢昱晓内娱新晋哭妃",
+      "onboard_time": 1760875942,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 119766,
@@ -40547,14 +40571,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 108515,
-      "num": 108515,
-      "word": "卢昱晓内娱新晋哭妃",
-      "onboard_time": 1760875942,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108503,
       "num": 108503,
       "word": "杨瀚森球商好高",
@@ -41249,6 +41265,14 @@
       "onboard_time": 1760670921,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 107172,
+      "num": 133262,
+      "word": "余生有涯",
+      "onboard_time": 1760722219,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 107168,
@@ -43243,6 +43267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102985,
+      "num": 102985,
+      "word": "山西大学发文悼念杨振宁",
+      "onboard_time": 1760878401,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102981,
       "num": 102981,
       "word": "宋亚轩的真身是红色塑料袋",
@@ -43305,14 +43337,6 @@
       "onboard_time": 1759482141,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102903,
-      "num": 102903,
-      "word": "Supa为Uzi而战",
-      "onboard_time": 1760877742,
-      "rank": 34,
-      "category": "电竞"
     },
     {
       "raw_hot": 102856,
@@ -45739,14 +45763,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 97185,
-      "num": 97185,
-      "word": "余生有涯",
-      "onboard_time": 1760722219,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97175,
       "num": 97175,
       "word": "李一桐曾素颜参演古装剧",
@@ -46787,6 +46803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94805,
+      "num": 94805,
+      "word": "清清达成2000击杀",
+      "onboard_time": 1760878401,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94757,
       "num": 94757,
       "word": "Tabe承认BP失误",
@@ -46945,6 +46969,14 @@
       "onboard_time": 1759744100,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94217,
+      "num": 94217,
+      "word": "他的名字曾是最高机密",
+      "onboard_time": 1760876541,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94203,
@@ -47633,6 +47665,14 @@
       "onboard_time": 1759476920,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 92969,
+      "num": 96837,
+      "word": "披荆斩棘的饼狗",
+      "onboard_time": 1760877922,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 92953,
@@ -49755,6 +49795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 87861,
+      "num": 87861,
+      "word": "天津直博会12K高清画面",
+      "onboard_time": 1760878522,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
       "raw_hot": 87859,
       "num": 87859,
       "word": "你们可以用指甲剥生鸡蛋吗",
@@ -50209,14 +50257,6 @@
       "onboard_time": 1759829780,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 86862,
-      "num": 84890,
-      "word": "披荆斩棘的饼狗",
-      "onboard_time": 1760877922,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 86856,
@@ -51859,6 +51899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82484,
+      "num": 82484,
+      "word": "与他人建立关系的正确顺序",
+      "onboard_time": 1760878642,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 82481,
       "num": 82481,
       "word": "沈佳润饭撒天才",
@@ -53475,14 +53523,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 77531,
-      "num": 93527,
-      "word": "金价上涨后50克金条订单被拦截",
-      "onboard_time": 1760876781,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77372,
       "num": 131107,
       "word": "社区回应两世仇村迎来世纪大和解",
@@ -53811,6 +53851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 76135,
+      "num": 76135,
+      "word": "聂曦烈士是谁",
+      "onboard_time": 1760874742,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76037,
       "num": 76037,
       "word": "刘些宁扛住了外网镜头",
@@ -53881,6 +53929,14 @@
       "onboard_time": 1759451659,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 75826,
+      "num": 75826,
+      "word": "邵雨轩去复旦上学",
+      "onboard_time": 1760878223,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 75738,
@@ -55907,6 +55963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 65907,
+      "num": 156267,
+      "word": "安世东莞工厂已限制出货",
+      "onboard_time": 1760876660,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65841,
       "num": 108594,
       "word": "王楚钦绝妙手感应对搏杀",
@@ -57017,14 +57081,6 @@
       "onboard_time": 1759488081,
       "rank": 38,
       "category": "网红"
-    },
-    {
-      "raw_hot": 58950,
-      "num": 156267,
-      "word": "安世东莞工厂已限制出货",
-      "onboard_time": 1760876660,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58941,
@@ -62715,6 +62771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19094,
+      "num": 230474,
+      "word": "浪浪友人部落太好玩了",
+      "onboard_time": 1760875280,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 19086,
       "num": 100572,
       "word": "小区9米高大树倾倒砸中七旬老人",
@@ -63161,14 +63225,6 @@
       "onboard_time": 1760693724,
       "rank": 37,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 14981,
-      "num": 230474,
-      "word": "浪浪友人部落太好玩了",
-      "onboard_time": 1760875280,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 14939,

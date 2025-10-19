@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760877958621,
+  "endTime": 1760878819461,
   "band_list": [
     {
       "raw_hot": 2202319,
@@ -11,8 +11,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1781296,
-      "num": 1781296,
+      "raw_hot": 1793333,
+      "num": 1793333,
       "word": "卢浮宫被盗过程仅7分钟",
       "onboard_time": 1760870842,
       "rank": 1,
@@ -91,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 837371,
+      "num": 837371,
+      "word": "卢浮宫一件被盗文物已损毁",
+      "onboard_time": 1760876183,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 801334,
       "num": 455005,
       "word": "野人小孩",
@@ -137,6 +145,14 @@
       "onboard_time": 1760845161,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 712303,
+      "num": 234940,
+      "word": "邵雨轩 复旦学子来也",
+      "onboard_time": 1760875582,
+      "rank": 11,
+      "category": "网红"
     },
     {
       "raw_hot": 699962,
@@ -307,20 +323,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 439799,
+      "num": 439799,
+      "word": "入青云热度",
+      "onboard_time": 1760876183,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 429719,
       "num": 429719,
       "word": "锦州烧烤",
       "onboard_time": 1760870001,
       "rank": 35,
       "category": "美食"
-    },
-    {
-      "raw_hot": 422728,
-      "num": 422728,
-      "word": "卢浮宫一件被盗文物已损毁",
-      "onboard_time": 1760876183,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 418821,
@@ -337,14 +353,6 @@
       "onboard_time": 1760847682,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 417960,
-      "num": 417960,
-      "word": "入青云热度",
-      "onboard_time": 1760876183,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 413662,
@@ -377,14 +385,6 @@
       "onboard_time": 1760850081,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 377904,
-      "num": 234940,
-      "word": "邵雨轩 复旦学子来也",
-      "onboard_time": 1760875582,
-      "rank": 11,
-      "category": "网红"
     },
     {
       "raw_hot": 372089,
@@ -491,6 +491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 304827,
+      "num": 304827,
+      "word": "南通vs无锡",
+      "onboard_time": 1760875702,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304727,
       "num": 304727,
       "word": "周迅闷声干大事",
@@ -585,14 +593,6 @@
       "onboard_time": 1760866221,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 255794,
-      "num": 255794,
-      "word": "南通vs无锡",
-      "onboard_time": 1760875702,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 246017,
@@ -787,6 +787,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 201446,
+      "num": 201446,
+      "word": "奔跑吧特别季",
+      "onboard_time": 1760876962,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195819,
       "num": 195819,
       "word": "75年前的今天志愿军跨过鸭绿江",
@@ -881,6 +889,14 @@
       "onboard_time": 1760801364,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181544,
+      "num": 181544,
+      "word": "印度食脑虫感染病例数激增已致死26人",
+      "onboard_time": 1760877200,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 173896,
@@ -995,6 +1011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159459,
+      "num": 159459,
+      "word": "入青云追剧日历呢",
+      "onboard_time": 1760874141,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158930,
       "num": 158930,
       "word": "日本偶遇章子怡带孩子",
@@ -1043,6 +1067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 154849,
+      "num": 154849,
+      "word": "罗永浩说易烊千玺是新生代演员旗帜",
+      "onboard_time": 1760877082,
+      "rank": 27,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 153781,
       "num": 153781,
       "word": "任嘉伦NBA最佳全能艺人奖",
@@ -1051,20 +1083,20 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 152164,
-      "num": 152164,
-      "word": "印度食脑虫感染病例数激增已致死26人",
-      "onboard_time": 1760877200,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 150804,
       "num": 150804,
       "word": "常华森就该演古装",
       "onboard_time": 1760871561,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 149832,
+      "num": 149832,
+      "word": "国家安全部发文致敬聂曦烈士",
+      "onboard_time": 1760873181,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 147541,
@@ -1107,20 +1139,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 141742,
-      "num": 141742,
-      "word": "国家安全部发文致敬聂曦烈士",
-      "onboard_time": 1760873181,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 141221,
-      "num": 141221,
-      "word": "入青云追剧日历呢",
-      "onboard_time": 1760874141,
-      "rank": 25,
-      "category": "剧集"
+      "raw_hot": 139608,
+      "num": 139608,
+      "word": "AG对战TTG",
+      "onboard_time": 1760868261,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 139537,
@@ -1169,14 +1193,6 @@
       "onboard_time": 1760864720,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 136849,
-      "num": 136849,
-      "word": "奔跑吧特别季",
-      "onboard_time": 1760876962,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 136848,
@@ -1235,6 +1251,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 132979,
+      "num": 132979,
+      "word": "金价上涨后50克金条订单被拦截",
+      "onboard_time": 1760876781,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132898,
       "num": 132898,
       "word": "杨坤问十个勤天还在吗",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1760854220,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132562,
+      "num": 132562,
+      "word": "Supa为Uzi而战",
+      "onboard_time": 1760877742,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 132291,
@@ -1347,14 +1379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126123,
-      "num": 126123,
-      "word": "AG对战TTG",
-      "onboard_time": 1760868261,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 125581,
       "num": 125581,
       "word": "高考报名",
@@ -1385,14 +1409,6 @@
       "onboard_time": 1760853380,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 123822,
-      "num": 123822,
-      "word": "罗永浩说易烊千玺是新生代演员旗帜",
-      "onboard_time": 1760877082,
-      "rank": 27,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 123665,
@@ -1464,6 +1480,14 @@
       "word": "锦州到底有谁在啊",
       "onboard_time": 1760856321,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119776,
+      "num": 119776,
+      "word": "卢昱晓内娱新晋哭妃",
+      "onboard_time": 1760875942,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -1667,14 +1691,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 108515,
-      "num": 108515,
-      "word": "卢昱晓内娱新晋哭妃",
-      "onboard_time": 1760875942,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 108046,
       "num": 108046,
       "word": "这居然是任敏",
@@ -1689,6 +1705,14 @@
       "onboard_time": 1760848579,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107172,
+      "num": 133262,
+      "word": "余生有涯",
+      "onboard_time": 1760877742,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 107050,
@@ -1779,12 +1803,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 102903,
-      "num": 102903,
-      "word": "Supa为Uzi而战",
-      "onboard_time": 1760877742,
+      "raw_hot": 102985,
+      "num": 102985,
+      "word": "山西大学发文悼念杨振宁",
+      "onboard_time": 1760878401,
       "rank": 34,
-      "category": "电竞"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102775,
@@ -1915,14 +1939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97185,
-      "num": 97185,
-      "word": "余生有涯",
-      "onboard_time": 1760877742,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97136,
       "num": 97136,
       "word": "肚腩变大可能是缺雌激素",
@@ -1987,12 +2003,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 94805,
+      "num": 94805,
+      "word": "清清达成2000击杀",
+      "onboard_time": 1760878401,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 94219,
       "num": 94219,
       "word": "时尚先生",
       "onboard_time": 1760849239,
       "rank": 45,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 94217,
+      "num": 94217,
+      "word": "他的名字曾是最高机密",
+      "onboard_time": 1760876541,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93982,
@@ -2072,6 +2104,14 @@
       "word": "路人缘扭转只需要一部综艺",
       "onboard_time": 1760873662,
       "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 92969,
+      "num": 96837,
+      "word": "披荆斩棘的饼狗",
+      "onboard_time": 1760877922,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -2227,6 +2267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 87861,
+      "num": 87861,
+      "word": "天津直博会12K高清画面",
+      "onboard_time": 1760878522,
+      "rank": 43,
+      "category": "军事"
+    },
+    {
       "raw_hot": 87584,
       "num": 87584,
       "word": "宠物店给每个小狗毛巾都写了名字",
@@ -2249,14 +2297,6 @@
       "onboard_time": 1760877742,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 86862,
-      "num": 84890,
-      "word": "披荆斩棘的饼狗",
-      "onboard_time": 1760877922,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 86111,
@@ -2353,6 +2393,14 @@
       "onboard_time": 1760834359,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82484,
+      "num": 82484,
+      "word": "与他人建立关系的正确顺序",
+      "onboard_time": 1760878642,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 82481,
@@ -2515,14 +2563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 77531,
-      "num": 93527,
-      "word": "金价上涨后50克金条订单被拦截",
-      "onboard_time": 1760876781,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77047,
       "num": 103044,
       "word": "入青云热度破9900",
@@ -2553,6 +2593,22 @@
       "onboard_time": 1760839641,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 76135,
+      "num": 76135,
+      "word": "聂曦烈士是谁",
+      "onboard_time": 1760874742,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 75826,
+      "num": 75826,
+      "word": "邵雨轩去复旦上学",
+      "onboard_time": 1760878223,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 74561,
@@ -2683,6 +2739,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 65907,
+      "num": 156267,
+      "word": "安世东莞工厂已限制出货",
+      "onboard_time": 1760876660,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65666,
       "num": 65666,
       "word": "陈建州范玮琪听到小S致辞哭了",
@@ -2729,14 +2793,6 @@
       "onboard_time": 1760793323,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58950,
-      "num": 156267,
-      "word": "安世东莞工厂已限制出货",
-      "onboard_time": 1760876660,
-      "rank": 21,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56787,
@@ -3075,6 +3131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 19094,
+      "num": 230474,
+      "word": "浪浪友人部落太好玩了",
+      "onboard_time": 1760875280,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 19082,
       "num": 34770,
       "word": "汪苏泷在演唱会做俯卧撑",
@@ -3097,14 +3161,6 @@
       "onboard_time": 1760810716,
       "rank": 49,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 14981,
-      "num": 230474,
-      "word": "浪浪友人部落太好玩了",
-      "onboard_time": 1760875280,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 14333,
@@ -3199,6 +3255,9 @@
     },
     {
       "word": "#坚定守护中华民族共同家园#"
+    },
+    {
+      "word": "#跟着总书记看看这五年#"
     }
   ]
 }

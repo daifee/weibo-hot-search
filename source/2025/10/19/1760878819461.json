@@ -1,0 +1,410 @@
+{
+  "runTime": 1760878819461,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1793333,
+        "num": 1793333,
+        "word": "卢浮宫被盗过程仅7分钟",
+        "onboard_time": 1760870842,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 837371,
+        "num": 837371,
+        "word": "卢浮宫一件被盗文物已损毁",
+        "onboard_time": 1760876183,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 13774,
+        "num": 760340,
+        "word": "4K修复志愿军跨过鸭绿江影像",
+        "onboard_time": 1760844261,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 725395,
+        "num": 725395,
+        "word": "惊天魔盗团",
+        "onboard_time": 1760872761,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 439799,
+        "num": 439799,
+        "word": "入青云热度",
+        "onboard_time": 1760876183,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371383,
+        "num": 371383,
+        "word": "卢浮宫找回一件被盗珠宝",
+        "onboard_time": 1760873423,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 368282,
+        "num": 368282,
+        "word": "卢浮宫多件藏品被盗",
+        "onboard_time": 1760867780,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 337837,
+        "num": 337837,
+        "word": "当年微信可是求着我上线",
+        "onboard_time": 1760866221,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 304827,
+        "num": 304827,
+        "word": "南通vs无锡",
+        "onboard_time": 1760875702,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236437,
+        "num": 236437,
+        "word": "杨振宁父亲",
+        "onboard_time": 1760868020,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 712303,
+        "num": 234849,
+        "word": "邵雨轩 复旦学子来也",
+        "onboard_time": 1760875582,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 662108,
+        "num": 233200,
+        "word": "黄宗泽被开价5亿聘金当女婿",
+        "onboard_time": 1760869400,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371703,
+        "num": 232693,
+        "word": "女子被救后举报施救者侵犯肖像权",
+        "onboard_time": 1760869762,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 231471,
+        "num": 231471,
+        "word": "锦州烧烤",
+        "onboard_time": 1760870001,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 19094,
+        "num": 228730,
+        "word": "浪浪友人部落太好玩了",
+        "onboard_time": 1760875280,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 226990,
+        "num": 226990,
+        "word": "印度食脑虫已致26人死亡",
+        "onboard_time": 1760876120,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 211479,
+        "num": 211479,
+        "word": "卢浮宫持械抢劫事件",
+        "onboard_time": 1760866461,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 206240,
+        "num": 206240,
+        "word": "陈乔恩回应看艾伦豪宅变脸",
+        "onboard_time": 1760871500,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201446,
+        "num": 201446,
+        "word": "奔跑吧特别季",
+        "onboard_time": 1760876962,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185780,
+        "num": 198241,
+        "word": "短剧真情侣就是好嗑",
+        "onboard_time": 1760869641,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197211,
+        "num": 197211,
+        "word": "未来3天冷冷冷冷冷",
+        "onboard_time": 1760865801,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181544,
+        "num": 181544,
+        "word": "印度食脑虫感染病例数激增已致死26人",
+        "onboard_time": 1760877200,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 178855,
+        "num": 178855,
+        "word": "辛巴罚款赵梦澈100万",
+        "onboard_time": 1760870962,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159459,
+        "num": 159459,
+        "word": "入青云追剧日历呢",
+        "onboard_time": 1760874141,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156001,
+        "num": 156001,
+        "word": "肖战一个人带火一座城",
+        "onboard_time": 1760862741,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154849,
+        "num": 154849,
+        "word": "罗永浩说易烊千玺是新生代演员旗帜",
+        "onboard_time": 1760877082,
+        "rank": 25,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 149832,
+        "num": 149832,
+        "word": "国家安全部发文致敬聂曦烈士",
+        "onboard_time": 1760873181,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139608,
+        "num": 139608,
+        "word": "AG对战TTG",
+        "onboard_time": 1760868261,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134578,
+        "num": 134578,
+        "word": "卢浮宫暂停开放",
+        "onboard_time": 1760870542,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107172,
+        "num": 133262,
+        "word": "余生有涯",
+        "onboard_time": 1760877742,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132979,
+        "num": 132979,
+        "word": "金价上涨后50克金条订单被拦截",
+        "onboard_time": 1760876781,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132562,
+        "num": 132562,
+        "word": "Supa为Uzi而战",
+        "onboard_time": 1760877742,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119776,
+        "num": 119776,
+        "word": "卢昱晓内娱新晋哭妃",
+        "onboard_time": 1760875942,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114356,
+        "num": 114356,
+        "word": "迪丽热巴卫蓝",
+        "onboard_time": 1760865320,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102985,
+        "num": 102985,
+        "word": "山西大学发文悼念杨振宁",
+        "onboard_time": 1760878401,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99564,
+        "num": 99564,
+        "word": "苏超",
+        "onboard_time": 1760875222,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65907,
+        "num": 99052,
+        "word": "安世东莞工厂已限制出货",
+        "onboard_time": 1760876660,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99036,
+        "num": 99036,
+        "word": "S15瑞士轮第四轮抽签",
+        "onboard_time": 1760868922,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92969,
+        "num": 96837,
+        "word": "披荆斩棘的饼狗",
+        "onboard_time": 1760877922,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94805,
+        "num": 94805,
+        "word": "清清达成2000击杀",
+        "onboard_time": 1760878401,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94217,
+        "num": 94217,
+        "word": "他的名字曾是最高机密",
+        "onboard_time": 1760876541,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93581,
+        "num": 93581,
+        "word": "卢浮宫劫匪用电锯盗窃骑摩托逃走",
+        "onboard_time": 1760876000,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 89227,
+        "num": 89227,
+        "word": "加沙再起硝烟",
+        "onboard_time": 1760876541,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87861,
+        "num": 87861,
+        "word": "天津直博会12K高清画面",
+        "onboard_time": 1760878522,
+        "rank": 43,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 82484,
+        "num": 82484,
+        "word": "与他人建立关系的正确顺序",
+        "onboard_time": 1760878642,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 79641,
+        "num": 79641,
+        "word": "金晨 咋不哄我呢",
+        "onboard_time": 1760874260,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76135,
+        "num": 76135,
+        "word": "聂曦烈士是谁",
+        "onboard_time": 1760874742,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75826,
+        "num": 75826,
+        "word": "邵雨轩去复旦上学",
+        "onboard_time": 1760878223,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 74842,
+        "num": 74842,
+        "word": "西安交大查处多起涉教职工案件",
+        "onboard_time": 1760876183,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73681,
+        "num": 73681,
+        "word": "苏晓彤因说话太直得罪男演员被换掉",
+        "onboard_time": 1760862440,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#跟着总书记看看这五年#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 20:45:58
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 21:00:19
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ iG对战T1（热度：1886560）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E8%A2%AB%E7%9B%97%E8%BF%87%E7%A8%8B%E4%BB%857%E5%88%86%E9%92%9F%23" target="weibo">
+卢浮宫被盗过程仅7分钟（热度：1793333）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%20%E6%97%A0%E5%B2%97%23" target="weibo">
 国考 无岗（热度：1784384）
 </a>
@@ -365,12 +371,6 @@ iG对战T1（热度：1886560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E4%BF%9D%E5%AF%8654%E5%B9%B4%E7%9A%84%E7%82%B8%E9%B8%A1%E9%85%8D%E6%96%B9%E5%B0%86%E8%A2%AB%E5%85%AC%E5%BC%80%23" target="weibo">
 肯德基保密54年的炸鸡配方将被公开（热度：1781382）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E8%A2%AB%E7%9B%97%E8%BF%87%E7%A8%8B%E4%BB%857%E5%88%86%E9%92%9F%23" target="weibo">
-卢浮宫被盗过程仅7分钟（热度：1781296）
 </a>
 </li>
 
@@ -2343,6 +2343,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E4%B8%80%E4%BB%B6%E8%A2%AB%E7%9B%97%E6%96%87%E7%89%A9%E5%B7%B2%E6%8D%9F%E6%AF%81%23" target="weibo">
+卢浮宫一件被盗文物已损毁（热度：837371）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%8D%B7%E7%94%A8%E5%BC%A0%E9%A6%A8%E4%BA%88%E6%B3%A1%E9%85%B8%E8%90%9D%E5%8D%9C%E7%9A%84%E7%BC%B8%E7%BB%99%E9%B1%BC%E5%9D%90%E6%9C%88%E5%AD%90%23" target="weibo">
 何捷用张馨予泡酸萝卜的缸给鱼坐月子（热度：835850）
 </a>
@@ -3035,6 +3041,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%23" target="weibo">
 巴基斯坦（热度：713252）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%B5%E9%9B%A8%E8%BD%A9%20%E5%A4%8D%E6%97%A6%E5%AD%A6%E5%AD%90%E6%9D%A5%E4%B9%9F%23" target="weibo">
+邵雨轩 复旦学子来也（热度：712303）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TaylorSwift忘了通知EdSheeran订婚（热度：461697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23UNINE%E5%90%88%E4%BD%93%23" target="weibo">
 UNINE合体（热度：458011）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E7%97%9B%E6%89%B9%E5%8F%8D%E5%8D%8E%E9%9B%86%E4%BC%9A%E6%9C%89%E6%8D%9F%E5%9B%BD%E6%A0%BC%23" target="weibo">
-李在明痛批反华集会有损国格（热度：457974）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E7%B3%95%E8%AF%95%E5%90%83%E5%91%98%E6%AF%8F%E5%A4%A9%E5%90%8320%E6%A0%B9%E6%9C%88%E8%96%AA%E8%83%BD%E8%BF%87%E4%B8%87%23" target="weibo">
-雪糕试吃员每天吃20根月薪能过万（热度：457863）
 </a>
 </li>
 
