@@ -1,6 +1,6 @@
 {
   "startTime": 1760891363500,
-  "endTime": 1760916197965,
+  "endTime": 1760917035349,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -33,6 +33,14 @@
       "onboard_time": 1760888840,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 531667,
+      "num": 87429,
+      "word": "野人孩子和父母已在管控范围内",
+      "onboard_time": 1760893219,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 443528,
@@ -83,12 +91,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 319592,
-      "num": 87429,
-      "word": "野人孩子和父母已在管控范围内",
-      "onboard_time": 1760893219,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 297182,
+      "num": 857549,
+      "word": "卢浮宫多件藏品被盗",
+      "onboard_time": 1760867780,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 292688,
@@ -96,14 +104,6 @@
       "word": "卢浮宫被盗过程仅7分钟",
       "onboard_time": 1760870842,
       "rank": 6,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 268728,
-      "num": 745710,
-      "word": "卢浮宫多件藏品被盗",
-      "onboard_time": 1760867780,
-      "rank": 19,
       "category": "海外新闻"
     },
     {
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211101,
+      "num": 341478,
+      "word": "50克金条订单被拦截买家发声",
+      "onboard_time": 1760888122,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192903,
       "num": 424337,
       "word": "BLG签运",
@@ -155,12 +163,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 170632,
-      "num": 341478,
-      "word": "50克金条订单被拦截买家发声",
-      "onboard_time": 1760888122,
-      "rank": 42,
+      "raw_hot": 183373,
+      "num": 183373,
+      "word": "伊朗突发恐怖袭击",
+      "onboard_time": 1760915117,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 172842,
+      "num": 172842,
+      "word": "台湾青年哽咽缅怀吴石将军",
+      "onboard_time": 1760915117,
+      "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160783,
+      "num": 91047,
+      "word": "侯明昊看到破万后激动的飞奔出去了",
+      "onboard_time": 1760915539,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 154301,
@@ -171,20 +195,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137882,
+      "num": 137882,
+      "word": "王者荣耀",
+      "onboard_time": 1760915898,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129402,
       "num": 394962,
       "word": "暗河传优酷热度破6000",
       "onboard_time": 1760883202,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116820,
-      "num": 116820,
-      "word": "伊朗突发恐怖袭击",
-      "onboard_time": 1760915117,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 107800,
@@ -251,6 +275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 91390,
+      "num": 91390,
+      "word": "把生命力养起来的方法",
+      "onboard_time": 1760894716,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89511,
       "num": 342308,
       "word": "浏阳烟花节成功挑战两项吉尼斯世界纪录",
@@ -267,14 +299,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 86990,
-      "num": 86990,
-      "word": "把生命力养起来的方法",
-      "onboard_time": 1760894716,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85325,
       "num": 341669,
       "word": "豆制品是对女性很好的食物",
@@ -283,20 +307,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 79414,
+      "raw_hot": 79737,
       "num": 341968,
       "word": "杨振宁在平静安详中从容离开",
       "onboard_time": 1760878882,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 78886,
-      "num": 78886,
-      "word": "王者荣耀",
-      "onboard_time": 1760915898,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 78782,
@@ -313,6 +329,14 @@
       "onboard_time": 1760875582,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 74811,
+      "num": 70260,
+      "word": "羽绒服的寿命",
+      "onboard_time": 1760916378,
+      "rank": 20,
+      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 73971,
@@ -347,12 +371,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 70838,
-      "num": 58837,
-      "word": "侯明昊看到破万后激动的飞奔出去了",
-      "onboard_time": 1760915539,
-      "rank": 20,
-      "category": "剧集"
+      "raw_hot": 70876,
+      "num": 70876,
+      "word": "家人同意不让野人小孩在外赤裸爬行",
+      "onboard_time": 1760916557,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67581,
@@ -371,12 +395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63106,
-      "num": 63106,
-      "word": "台湾青年哽咽缅怀吴石将军",
-      "onboard_time": 1760915117,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 63273,
+      "num": 63273,
+      "word": "石宇奇获丹麦赛男单亚军",
+      "onboard_time": 1760915958,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 63030,
@@ -435,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57104,
+      "num": 57104,
+      "word": "熬夜后这三类食物帮你快速回血",
+      "onboard_time": 1760902753,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 57004,
       "num": 338449,
       "word": "周深学了2年才敢表演的魔术",
@@ -443,32 +475,32 @@
       "category": "演出"
     },
     {
-      "raw_hot": 49108,
-      "num": 49108,
-      "word": "石宇奇获丹麦赛男单亚军",
-      "onboard_time": 1760915958,
-      "rank": 25,
-      "category": "体育"
+      "raw_hot": 56019,
+      "num": 56019,
+      "word": "张泽禹或将加入声生不息",
+      "onboard_time": 1760916077,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 47085,
-      "num": 47085,
+      "num": 49472,
       "word": "于和伟回应台湾观众看沉默的荣耀",
       "onboard_time": 1760911514,
       "rank": 35,
       "category": "剧集"
     },
     {
-      "raw_hot": 44715,
-      "num": 44715,
-      "word": "熬夜后这三类食物帮你快速回血",
-      "onboard_time": 1760902753,
-      "rank": 25,
-      "category": "健康医疗"
+      "raw_hot": 43012,
+      "num": 49484,
+      "word": "35岁陪爬泰山男演员转行再转行",
+      "onboard_time": 1760916620,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 42598,
-      "num": 42598,
+      "num": 49451,
       "word": "小朋友模仿肖战舞台",
       "onboard_time": 1760911217,
       "rank": 41,
@@ -483,12 +515,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38937,
-      "num": 38937,
-      "word": "张泽禹或将加入声生不息",
-      "onboard_time": 1760916077,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 37653,
+      "num": 65933,
+      "word": "歼10将飞抵印尼",
+      "onboard_time": 1760880922,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36682,
@@ -515,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33276,
+      "num": 49383,
+      "word": "卢浮宫",
+      "onboard_time": 1760868020,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 31970,
       "num": 437078,
       "word": "十四五期间这些大国重器出圈了",
@@ -523,12 +563,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31161,
-      "num": 65933,
-      "word": "歼10将飞抵印尼",
-      "onboard_time": 1760880922,
+      "raw_hot": 30609,
+      "num": 49358,
+      "word": "朱志鑫披荆斩棘Xfire",
+      "onboard_time": 1760916979,
       "rank": 46,
-      "category": "国内时政"
+      "category": "综艺"
     },
     {
       "raw_hot": 29148,
@@ -545,14 +585,6 @@
       "onboard_time": 1760893398,
       "rank": 46,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 26284,
-      "num": 37858,
-      "word": "卢浮宫",
-      "onboard_time": 1760868020,
-      "rank": 46,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 24501,

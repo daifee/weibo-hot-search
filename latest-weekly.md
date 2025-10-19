@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/19 00:28:53 ~ 2025/10/20 07:23:17
+本榜单时间：2025/10/19 00:28:53 ~ 2025/10/20 07:37:15
 </p>
 </blockquote>
 <p>
@@ -267,6 +267,12 @@ BLG签运（热度：565641）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%AD%A9%E5%AD%90%E5%92%8C%E7%88%B6%E6%AF%8D%E5%B7%B2%E5%9C%A8%E7%AE%A1%E6%8E%A7%E8%8C%83%E5%9B%B4%E5%86%85%23" target="weibo">
+野人孩子和父母已在管控范围内（热度：531667）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E6%AF%85%E9%B2%8D%E8%95%BE50%E5%B2%81%E5%A4%AB%E5%A6%BB%E4%B9%9F%E8%A6%81%E7%9D%A1%E4%B8%80%E5%BC%A0%E5%BA%8A%23" target="weibo">
 陆毅鲍蕾50岁夫妻也要睡一张床（热度：522750）
 </a>
@@ -501,12 +507,6 @@ S15瑞士轮第四轮抽签（热度：363495）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%AD%A9%E5%AD%90%E5%92%8C%E7%88%B6%E6%AF%8D%E5%B7%B2%E5%9C%A8%E7%AE%A1%E6%8E%A7%E8%8C%83%E5%9B%B4%E5%86%85%23" target="weibo">
-野人孩子和父母已在管控范围内（热度：319592）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%97%E7%AA%83%E8%80%85%E7%94%A8%E5%8D%87%E9%99%8D%E5%90%8A%E7%AF%AE%E8%BF%9B%E5%85%A5%E5%8D%A2%E6%B5%AE%E5%AE%AB%23" target="weibo">
 盗窃者用升降吊篮进入卢浮宫（热度：306454）
 </a>
@@ -693,6 +693,12 @@ Karsa挥手告别（热度：219666）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2350%E5%85%8B%E9%87%91%E6%9D%A1%E8%AE%A2%E5%8D%95%E8%A2%AB%E6%8B%A6%E6%88%AA%E4%B9%B0%E5%AE%B6%E5%8F%91%E5%A3%B0%23" target="weibo">
+50克金条订单被拦截买家发声（热度：211101）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E5%B7%B4%E7%BD%9A%E6%AC%BE%E8%B5%B5%E6%A2%A6%E6%BE%88100%E4%B8%87%23" target="weibo">
 辛巴罚款赵梦澈100万（热度：209154）
 </a>
@@ -819,6 +825,12 @@ AG战胜TTG（热度：185807）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%AA%81%E5%8F%91%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%23" target="weibo">
+伊朗突发恐怖袭击（热度：183373）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%98%AF%E6%88%91%E5%88%B0%E5%85%A8%E5%9B%BD%E7%BB%99%E5%A4%A7%E5%AE%B6%E6%BC%94%23" target="weibo">
 汪苏泷是我到全国给大家演（热度：183365）
 </a>
@@ -861,6 +873,12 @@ Crisp给BLG抽个T1吧（热度：181941）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%9D%92%E5%B9%B4%E5%93%BD%E5%92%BD%E7%BC%85%E6%80%80%E5%90%B4%E7%9F%B3%E5%B0%86%E5%86%9B%23" target="weibo">
+台湾青年哽咽缅怀吴石将军（热度：172842）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E5%B7%B4%E5%AE%8B%E4%BD%B3%E9%82%9D%E7%8E%B2%E7%8E%B2%20%E6%81%B6%E5%A5%B3%E8%BF%BD%E6%8D%95%E5%9B%A2%23" target="weibo">
 热巴宋佳邝玲玲 恶女追捕团（热度：172533）
 </a>
@@ -875,12 +893,6 @@ Crisp给BLG抽个T1吧（热度：181941）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%8C%AF%E5%AE%81%E8%BF%91%E4%B9%9D%E5%8D%81%E5%B2%81%E6%97%B6%E5%86%99%E4%BA%86%E9%A6%96%E8%AF%97%23" target="weibo">
 杨振宁近九十岁时写了首诗（热度：171924）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2350%E5%85%8B%E9%87%91%E6%9D%A1%E8%AE%A2%E5%8D%95%E8%A2%AB%E6%8B%A6%E6%88%AA%E4%B9%B0%E5%AE%B6%E5%8F%91%E5%A3%B0%23" target="weibo">
-50克金条订单被拦截买家发声（热度：170632）
 </a>
 </li>
 
@@ -959,6 +971,12 @@ Bin曾说16强就不打了（热度：163660）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%88%91%E7%9C%9F%E7%88%AC%E4%B8%8D%E4%B8%8A%E5%8E%BB%23" target="weibo">
 孟子义我真爬不上去（热度：161204）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E7%9C%8B%E5%88%B0%E7%A0%B4%E4%B8%87%E5%90%8E%E6%BF%80%E5%8A%A8%E7%9A%84%E9%A3%9E%E5%A5%94%E5%87%BA%E5%8E%BB%E4%BA%86%23" target="weibo">
+侯明昊看到破万后激动的飞奔出去了（热度：160783）
 </a>
 </li>
 
@@ -1097,6 +1115,12 @@ AG对战TTG（热度：139608）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E7%82%B9%E6%AD%8C%E7%82%B9%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%8F%B0%E6%B9%BE%E6%AD%8C%E8%BF%B7%23" target="weibo">
 周深点歌点到中国台湾歌迷（热度：138313）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23" target="weibo">
+王者荣耀（热度：137882）
 </a>
 </li>
 
@@ -1457,12 +1481,6 @@ Knight想和T1瑞士轮交手（热度：125171）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%A4%E7%94%B7%E5%9B%9E%E5%85%B3%E5%85%A8%E4%BC%8A%E4%BC%A6%23" target="weibo">
 鹤男回关全伊伦（热度：117058）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%AA%81%E5%8F%91%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB%23" target="weibo">
-伊朗突发恐怖袭击（热度：116820）
 </a>
 </li>
 
@@ -1989,6 +2007,12 @@ BLG抽到VKS（热度：93239）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%8A%E7%94%9F%E5%91%BD%E5%8A%9B%E5%85%BB%E8%B5%B7%E6%9D%A5%E7%9A%84%E6%96%B9%E6%B3%95%23" target="weibo">
+把生命力养起来的方法（热度：91390）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%81%9A%E5%AE%B6%E5%B8%B8%E8%B1%86%E8%85%90%E8%A2%AB%E5%A4%B8%E6%88%90%E7%BF%98%E5%98%B4%23" target="weibo">
 白敬亭做家常豆腐被夸成翘嘴（热度：91034）
 </a>
@@ -2099,12 +2123,6 @@ MRC对战北京WBG（热度：87972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%AD%E5%B4%96%E5%BC%8F%E9%99%8D%E6%B8%A9%E8%AE%A9%E6%88%91%E7%9A%84%E6%87%92%E6%9C%89%E4%BA%86%E5%90%88%E7%90%86%E6%80%A7%23" target="weibo">
 断崖式降温让我的懒有了合理性（热度：87472）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%8A%E7%94%9F%E5%91%BD%E5%8A%9B%E5%85%BB%E8%B5%B7%E6%9D%A5%E7%9A%84%E6%96%B9%E6%B3%95%23" target="weibo">
-把生命力养起来的方法（热度：86990）
 </a>
 </li>
 
@@ -2289,12 +2307,6 @@ F1（热度：84778）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23" target="weibo">
-王者荣耀（热度：78886）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%A7%E4%BC%A4%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%AB%8C%E7%96%91%E4%BA%BA%E6%9B%BE%E5%88%B7%E7%A4%BC%E7%89%A9%E8%BF%BD%E6%B1%82%E8%A2%AB%E6%8B%92%23" target="weibo">
 烧伤女主播嫌疑人曾刷礼物追求被拒（热度：78521）
 </a>
@@ -2385,6 +2397,12 @@ F1（热度：84778）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%9A%84%E5%AF%BF%E5%91%BD%23" target="weibo">
+羽绒服的寿命（热度：74811）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Knight%E7%A7%B0%E6%8A%BDT1%E6%8C%BA%E5%A5%BD%E7%9A%84%23" target="weibo">
 Knight称抽T1挺好的（热度：74561）
 </a>
@@ -2433,8 +2451,8 @@ Knight称抽T1挺好的（热度：74561）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E7%9C%8B%E5%88%B0%E7%A0%B4%E4%B8%87%E5%90%8E%E6%BF%80%E5%8A%A8%E7%9A%84%E9%A3%9E%E5%A5%94%E5%87%BA%E5%8E%BB%E4%BA%86%23" target="weibo">
-侯明昊看到破万后激动的飞奔出去了（热度：70838）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E4%BA%BA%E5%90%8C%E6%84%8F%E4%B8%8D%E8%AE%A9%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E5%9C%A8%E5%A4%96%E8%B5%A4%E8%A3%B8%E7%88%AC%E8%A1%8C%23" target="weibo">
+家人同意不让野人小孩在外赤裸爬行（热度：70876）
 </a>
 </li>
 
@@ -2511,8 +2529,8 @@ Bin和Doran迎来生死战（热度：63760）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%9D%92%E5%B9%B4%E5%93%BD%E5%92%BD%E7%BC%85%E6%80%80%E5%90%B4%E7%9F%B3%E5%B0%86%E5%86%9B%23" target="weibo">
-台湾青年哽咽缅怀吴石将军（热度：63106）
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%87%E5%A5%87%E8%8E%B7%E4%B8%B9%E9%BA%A6%E8%B5%9B%E7%94%B7%E5%8D%95%E4%BA%9A%E5%86%9B%23" target="weibo">
+石宇奇获丹麦赛男单亚军（热度：63273）
 </a>
 </li>
 
@@ -2559,6 +2577,12 @@ Bin和Doran迎来生死战（热度：63760）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E5%90%8E%E8%BF%99%E4%B8%89%E7%B1%BB%E9%A3%9F%E7%89%A9%E5%B8%AE%E4%BD%A0%E5%BF%AB%E9%80%9F%E5%9B%9E%E8%A1%80%23" target="weibo">
+熬夜后这三类食物帮你快速回血（热度：57104）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E5%AD%A6%E4%BA%862%E5%B9%B4%E6%89%8D%E6%95%A2%E8%A1%A8%E6%BC%94%E7%9A%84%E9%AD%94%E6%9C%AF%23" target="weibo">
 周深学了2年才敢表演的魔术（热度：57004）
 </a>
@@ -2573,6 +2597,12 @@ Bin和Doran迎来生死战（热度：63760）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%A7%92%E8%89%B2%E5%AE%87%E5%AE%99C%E4%BD%8D%E4%BA%89%E5%A4%BA%E6%88%98%23" target="weibo">
 易烊千玺角色宇宙C位争夺战（热度：56473）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%BD%E7%A6%B9%E6%88%96%E5%B0%86%E5%8A%A0%E5%85%A5%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%23" target="weibo">
+张泽禹或将加入声生不息（热度：56019）
 </a>
 </li>
 
@@ -2619,12 +2649,6 @@ Bin和Doran迎来生死战（热度：63760）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%87%E5%A5%87%E8%8E%B7%E4%B8%B9%E9%BA%A6%E8%B5%9B%E7%94%B7%E5%8D%95%E4%BA%9A%E5%86%9B%23" target="weibo">
-石宇奇获丹麦赛男单亚军（热度：49108）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%95%B0%E7%BA%A2%E5%8C%85%23" target="weibo">
 肖战数红包（热度：48844）
 </a>
@@ -2661,14 +2685,14 @@ MKOI对战FNC（热度：47464）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E5%90%8E%E8%BF%99%E4%B8%89%E7%B1%BB%E9%A3%9F%E7%89%A9%E5%B8%AE%E4%BD%A0%E5%BF%AB%E9%80%9F%E5%9B%9E%E8%A1%80%23" target="weibo">
-熬夜后这三类食物帮你快速回血（热度：44715）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%96%B0%E9%83%8E%E8%B7%B3%E6%B2%B3%E5%89%8D%E6%9B%BE%E5%9C%A8%E8%BD%A6%E4%B8%8A%E5%93%AD%E6%B3%A3%23" target="weibo">
+家属称新郎跳河前曾在车上哭泣（热度：44468）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%96%B0%E9%83%8E%E8%B7%B3%E6%B2%B3%E5%89%8D%E6%9B%BE%E5%9C%A8%E8%BD%A6%E4%B8%8A%E5%93%AD%E6%B3%A3%23" target="weibo">
-家属称新郎跳河前曾在车上哭泣（热度：44468）
+<a href="https://s.weibo.com/weibo?q=%2335%E5%B2%81%E9%99%AA%E7%88%AC%E6%B3%B0%E5%B1%B1%E7%94%B7%E6%BC%94%E5%91%98%E8%BD%AC%E8%A1%8C%E5%86%8D%E8%BD%AC%E8%A1%8C%23" target="weibo">
+35岁陪爬泰山男演员转行再转行（热度：43012）
 </a>
 </li>
 
@@ -2711,12 +2735,6 @@ PSG对战VKS（热度：39526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E4%BE%A6%E7%A0%B4%E9%9D%9E%E6%B3%95%E6%8E%A7%E5%88%B6%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E6%A1%88%23" target="weibo">
 网警侦破非法控制计算机信息系统案（热度：38947）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%B3%BD%E7%A6%B9%E6%88%96%E5%B0%86%E5%8A%A0%E5%85%A5%E5%A3%B0%E7%94%9F%E4%B8%8D%E6%81%AF%23" target="weibo">
-张泽禹或将加入声生不息（热度：38937）
 </a>
 </li>
 
@@ -2783,6 +2801,12 @@ PSG对战VKS（热度：39526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8D%89%E6%A0%B9%E7%AF%AE%E7%90%83%E7%8E%8B%E5%B8%88%E5%82%85%E7%8E%B0%E5%9C%BA%E7%82%AB%E6%8A%80%23" target="weibo">
 草根篮球王师傅现场炫技（热度：31207）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98Xfire%23" target="weibo">
+朱志鑫披荆斩棘Xfire（热度：30609）
 </a>
 </li>
 

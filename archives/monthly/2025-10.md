@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 07:23:17
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 07:37:15
 </p>
 </blockquote>
 <p>
@@ -4953,6 +4953,12 @@ iPhone天气你可能真的不会用（热度：556452）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%AD%A9%E5%AD%90%E5%92%8C%E7%88%B6%E6%AF%8D%E5%B7%B2%E5%9C%A8%E7%AE%A1%E6%8E%A7%E8%8C%83%E5%9B%B4%E5%86%85%23" target="weibo">
+野人孩子和父母已在管控范围内（热度：531667）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B6%E4%B8%89%E5%8F%A3%E8%A2%AB%E6%92%9E%E6%AD%BB%E6%A1%88%E7%9B%AE%E5%87%BB%E8%80%85%E5%8F%91%E5%A3%B0%23" target="weibo">
 一家三口被撞死案目击者发声（热度：530300）
 </a>
@@ -6005,12 +6011,6 @@ TheShy回应上单韦鲁斯（热度：477977）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Wei%E9%BE%99%E5%9D%91%E6%8E%92%E7%9C%BC%23" target="weibo">
 Wei龙坑排眼（热度：465191）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E8%8A%82%E4%BF%AD%E4%BA%86%E4%B8%80%E8%BE%88%E5%AD%90%E6%9C%80%E5%90%8E%E6%A0%BD%E8%B1%86%E6%B1%81%E8%BA%AB%E4%B8%8A%E4%BA%86%23" target="weibo">
-奶奶节俭了一辈子最后栽豆汁身上了（热度：464771）
 </a>
 </li>
 
