@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760878819461,
+  "endTime": 1760880505814,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 1762143,
-      "num": 241744,
+      "num": 285920,
       "word": "黄宗泽被开价5亿聘金当女婿",
       "onboard_time": 1760869400,
       "rank": 35,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1759568000,
       "rank": 3,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 1242927,
+      "num": 1242927,
+      "word": "卢浮宫一件被盗文物已损毁",
+      "onboard_time": 1760876183,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1235949,
@@ -3107,14 +3115,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 837371,
-      "num": 837371,
-      "word": "卢浮宫一件被盗文物已损毁",
-      "onboard_time": 1760876183,
-      "rank": 4,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 835850,
       "num": 274610,
       "word": "何捷用张馨予泡酸萝卜的缸给鱼坐月子",
@@ -4044,7 +4044,7 @@
     },
     {
       "raw_hot": 712303,
-      "num": 234940,
+      "num": 289851,
       "word": "邵雨轩 复旦学子来也",
       "onboard_time": 1760875582,
       "rank": 11,
@@ -8083,6 +8083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 454697,
+      "num": 454697,
+      "word": "入青云热度",
+      "onboard_time": 1759922780,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 454179,
       "num": 454179,
       "word": "沈佳润音乐节没报备版美美Sunday",
@@ -8513,14 +8521,6 @@
       "onboard_time": 1760270480,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 439799,
-      "num": 439799,
-      "word": "入青云热度",
-      "onboard_time": 1759922780,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 438676,
@@ -9425,6 +9425,14 @@
       "onboard_time": 1760014522,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 401984,
+      "num": 401984,
+      "word": "南通vs无锡",
+      "onboard_time": 1760875702,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 401979,
@@ -11075,6 +11083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 339798,
+      "num": 339798,
+      "word": "印度食脑虫已致26人死亡",
+      "onboard_time": 1760876120,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 339183,
       "num": 339183,
       "word": "反手发球",
@@ -12363,14 +12379,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 304827,
-      "num": 304827,
-      "word": "南通vs无锡",
-      "onboard_time": 1760875702,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 304727,
       "num": 304727,
       "word": "周迅闷声干大事",
@@ -13361,6 +13369,14 @@
       "onboard_time": 1760175140,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 281118,
+      "num": 281118,
+      "word": "S15瑞士轮第四轮抽签",
+      "onboard_time": 1760868922,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 281077,
@@ -14457,6 +14473,14 @@
       "onboard_time": 1759986800,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 257810,
+      "num": 257810,
+      "word": "奔跑吧特别季",
+      "onboard_time": 1760876962,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 257808,
@@ -16075,14 +16099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 230186,
-      "num": 230186,
-      "word": "印度食脑虫已致26人死亡",
-      "onboard_time": 1760876120,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 229911,
       "num": 183756,
       "word": "股市",
@@ -16137,14 +16153,6 @@
       "onboard_time": 1760570479,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228227,
-      "num": 206495,
-      "word": "S15瑞士轮第四轮抽签",
-      "onboard_time": 1760868922,
-      "rank": 26,
-      "category": "电竞"
     },
     {
       "raw_hot": 227907,
@@ -16337,6 +16345,14 @@
       "onboard_time": 1759802840,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 225760,
+      "num": 225760,
+      "word": "盗窃者用升降吊篮进入卢浮宫",
+      "onboard_time": 1760879481,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 225488,
@@ -17331,6 +17347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210048,
+      "num": 210048,
+      "word": "披荆斩棘总决赛",
+      "onboard_time": 1760879301,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209853,
       "num": 209853,
       "word": "刘晓庆说的不背词演员是谁",
@@ -17673,6 +17697,14 @@
       "onboard_time": 1760674461,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 206779,
+      "num": 206779,
+      "word": "陈梦新发型又飒又美",
+      "onboard_time": 1760878941,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 206764,
@@ -18248,14 +18280,6 @@
       "word": "offer7 现实版许我耀眼",
       "onboard_time": 1760073261,
       "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 201446,
-      "num": 201446,
-      "word": "奔跑吧特别季",
-      "onboard_time": 1760876962,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -21483,6 +21507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178874,
+      "num": 178874,
+      "word": "李耕耘直播",
+      "onboard_time": 1760879421,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178725,
       "num": 141007,
       "word": "王楚钦说自己老了",
@@ -22931,6 +22963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169740,
+      "num": 169740,
+      "word": "杨振宁在平静安详中从容离开",
+      "onboard_time": 1760878882,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169660,
       "num": 162751,
       "word": "时代少年团高鼻梁这一块",
@@ -23457,6 +23497,14 @@
       "onboard_time": 1759552281,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166789,
+      "num": 166789,
+      "word": "刘青松抽签",
+      "onboard_time": 1760880201,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 166768,
@@ -24796,7 +24844,7 @@
     },
     {
       "raw_hot": 159459,
-      "num": 159459,
+      "num": 166907,
       "word": "入青云追剧日历呢",
       "onboard_time": 1760874141,
       "rank": 25,
@@ -28291,6 +28339,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142890,
+      "num": 142890,
+      "word": "VKS战胜PSG",
+      "onboard_time": 1760880082,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142858,
       "num": 142858,
       "word": "失去半个舌头会对面容有影响",
@@ -31777,6 +31833,14 @@
       "onboard_time": 1760502021,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131168,
+      "num": 131168,
+      "word": "王力宏花期也太长了",
+      "onboard_time": 1760879481,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 131154,
@@ -42708,7 +42772,7 @@
     },
     {
       "raw_hot": 104102,
-      "num": 414444,
+      "num": 813159,
       "word": "十四五期间这些大国重器出圈了",
       "onboard_time": 1760664020,
       "rank": 30,
@@ -46171,6 +46235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 96221,
+      "num": 97789,
+      "word": "卢浮宫被盗文物价值无法估量",
+      "onboard_time": 1760880141,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 96213,
       "num": 96213,
       "word": "陈哲远比李沁还甜",
@@ -49041,6 +49113,14 @@
       "onboard_time": 1760186960,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89826,
+      "num": 206855,
+      "word": "贵州失联2岁女童已找到",
+      "onboard_time": 1760880082,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89786,
@@ -53075,6 +53155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 78981,
+      "num": 167264,
+      "word": "卢浮宫持械抢劫案现场画面",
+      "onboard_time": 1760878882,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 78977,
       "num": 78977,
       "word": "网传极氪CBO关海涛已离职",
@@ -53721,6 +53809,14 @@
       "onboard_time": 1760320640,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76801,
+      "num": 96916,
+      "word": "院人庆生闭环达成了",
+      "onboard_time": 1760879541,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 76766,
@@ -60643,6 +60739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34760,
+      "num": 99858,
+      "word": "野人式养娃或构成忽视型虐待",
+      "onboard_time": 1760878882,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34746,
       "num": 115098,
       "word": "普京就中东局势最新表态",
@@ -61801,6 +61905,14 @@
       "onboard_time": 1759309221,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26610,
+      "num": 260197,
+      "word": "德云社嘴皮子有多厉害",
+      "onboard_time": 1760878882,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 26312,

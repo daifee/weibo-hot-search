@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760878819461,
+  "endTime": 1760880505814,
   "band_list": [
     {
       "raw_hot": 2202319,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1762143,
-      "num": 241744,
+      "num": 285920,
       "word": "黄宗泽被开价5亿聘金当女婿",
       "onboard_time": 1760869400,
       "rank": 35,
@@ -41,6 +41,14 @@
       "onboard_time": 1760835560,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1242927,
+      "num": 1242927,
+      "word": "卢浮宫一件被盗文物已损毁",
+      "onboard_time": 1760876183,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1198576,
@@ -89,14 +97,6 @@
       "onboard_time": 1760838320,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 837371,
-      "num": 837371,
-      "word": "卢浮宫一件被盗文物已损毁",
-      "onboard_time": 1760876183,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 801334,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 712303,
-      "num": 234940,
+      "num": 289851,
       "word": "邵雨轩 复旦学子来也",
       "onboard_time": 1760875582,
       "rank": 11,
@@ -299,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 454697,
+      "num": 454697,
+      "word": "入青云热度",
+      "onboard_time": 1760876183,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 454179,
       "num": 454179,
       "word": "沈佳润音乐节没报备版美美Sunday",
@@ -321,14 +329,6 @@
       "onboard_time": 1760873423,
       "rank": 16,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 439799,
-      "num": 439799,
-      "word": "入青云热度",
-      "onboard_time": 1760876183,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 429719,
@@ -377,6 +377,14 @@
       "onboard_time": 1760869641,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 401984,
+      "num": 401984,
+      "word": "南通vs无锡",
+      "onboard_time": 1760875702,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 384557,
@@ -443,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 339798,
+      "num": 339798,
+      "word": "印度食脑虫已致26人死亡",
+      "onboard_time": 1760876120,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 338995,
       "num": 200059,
       "word": "金饰克价一夜降17元",
@@ -489,14 +505,6 @@
       "onboard_time": 1760844261,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 304827,
-      "num": 304827,
-      "word": "南通vs无锡",
-      "onboard_time": 1760875702,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 304727,
@@ -563,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281118,
+      "num": 281118,
+      "word": "S15瑞士轮第四轮抽签",
+      "onboard_time": 1760868922,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 279290,
       "num": 279290,
       "word": "卢浮宫持械抢劫事件",
@@ -585,6 +601,14 @@
       "onboard_time": 1760761410,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257810,
+      "num": 257810,
+      "word": "奔跑吧特别季",
+      "onboard_time": 1760876962,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 255891,
@@ -659,28 +683,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 230186,
-      "num": 230186,
-      "word": "印度食脑虫已致26人死亡",
-      "onboard_time": 1760876120,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 228227,
-      "num": 206495,
-      "word": "S15瑞士轮第四轮抽签",
-      "onboard_time": 1760868922,
-      "rank": 26,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 227392,
       "num": 816660,
       "word": "北京今天就下雪了",
       "onboard_time": 1760784202,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225760,
+      "num": 225760,
+      "word": "盗窃者用升降吊篮进入卢浮宫",
+      "onboard_time": 1760879481,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 224441,
@@ -731,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210048,
+      "num": 210048,
+      "word": "披荆斩棘总决赛",
+      "onboard_time": 1760879301,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209154,
       "num": 209154,
       "word": "辛巴罚款赵梦澈100万",
@@ -763,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206779,
+      "num": 206779,
+      "word": "陈梦新发型又飒又美",
+      "onboard_time": 1760878941,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206664,
       "num": 206664,
       "word": "陈乔恩回应看艾伦豪宅变脸",
@@ -785,14 +817,6 @@
       "onboard_time": 1760871862,
       "rank": 18,
       "category": "体育,作品衍生"
-    },
-    {
-      "raw_hot": 201446,
-      "num": 201446,
-      "word": "奔跑吧特别季",
-      "onboard_time": 1760876962,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 195819,
@@ -899,6 +923,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 178874,
+      "num": 178874,
+      "word": "李耕耘直播",
+      "onboard_time": 1760879421,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173896,
       "num": 173896,
       "word": "郑恺苗苗从小共用一张脸",
@@ -923,6 +955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169740,
+      "num": 169740,
+      "word": "杨振宁在平静安详中从容离开",
+      "onboard_time": 1760878882,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168414,
       "num": 168414,
       "word": "锦州文旅就看你的了",
@@ -937,6 +977,14 @@
       "onboard_time": 1760853560,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166789,
+      "num": 166789,
+      "word": "刘青松抽签",
+      "onboard_time": 1760880201,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 166730,
@@ -1012,7 +1060,7 @@
     },
     {
       "raw_hot": 159459,
-      "num": 159459,
+      "num": 166907,
       "word": "入青云追剧日历呢",
       "onboard_time": 1760874141,
       "rank": 25,
@@ -1137,6 +1185,14 @@
       "onboard_time": 1760862440,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 142890,
+      "num": 142890,
+      "word": "VKS战胜PSG",
+      "onboard_time": 1760880082,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 139608,
@@ -1305,6 +1361,14 @@
       "onboard_time": 1760844320,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131168,
+      "num": 131168,
+      "word": "王力宏花期也太长了",
+      "onboard_time": 1760879481,
+      "rank": 35,
+      "category": "演出"
     },
     {
       "raw_hot": 130855,
@@ -1971,6 +2035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96221,
+      "num": 97789,
+      "word": "卢浮宫被盗文物价值无法估量",
+      "onboard_time": 1760880141,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 95990,
       "num": 95990,
       "word": "母亲徒手入火救3岁烧伤儿",
@@ -2193,6 +2265,14 @@
       "onboard_time": 1760863221,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89826,
+      "num": 206855,
+      "word": "贵州失联2岁女童已找到",
+      "onboard_time": 1760880082,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89684,
@@ -2515,6 +2595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 78981,
+      "num": 167264,
+      "word": "卢浮宫持械抢劫案现场画面",
+      "onboard_time": 1760878882,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 78521,
       "num": 78521,
       "word": "烧伤女主播嫌疑人曾刷礼物追求被拒",
@@ -2569,6 +2657,14 @@
       "onboard_time": 1760838559,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76801,
+      "num": 96916,
+      "word": "院人庆生闭环达成了",
+      "onboard_time": 1760879541,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 76717,
@@ -2979,6 +3075,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34760,
+      "num": 99858,
+      "word": "野人式养娃或构成忽视型虐待",
+      "onboard_time": 1760878882,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32730,
+      "num": 813159,
+      "word": "十四五期间这些大国重器出圈了",
+      "onboard_time": 1760879243,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 32551,
       "num": 42558,
       "word": "侯明昊看姻缘石刻字名场面reaction",
@@ -3033,6 +3145,14 @@
       "onboard_time": 1760868081,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 26610,
+      "num": 260197,
+      "word": "德云社嘴皮子有多厉害",
+      "onboard_time": 1760878882,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 26033,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 21:00:19
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 21:28:25
 </p>
 </blockquote>
 <p>
@@ -941,6 +941,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E8%87%B4%E6%AD%89%23" target="weibo">
 陈震致歉（热度：1249025）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E4%B8%80%E4%BB%B6%E8%A2%AB%E7%9B%97%E6%96%87%E7%89%A9%E5%B7%B2%E6%8D%9F%E6%AF%81%23" target="weibo">
+卢浮宫一件被盗文物已损毁（热度：1242927）
 </a>
 </li>
 
@@ -2339,12 +2345,6 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%23" target="weibo">
 特朗普（热度：837862）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E4%B8%80%E4%BB%B6%E8%A2%AB%E7%9B%97%E6%96%87%E7%89%A9%E5%B7%B2%E6%8D%9F%E6%AF%81%23" target="weibo">
-卢浮宫一件被盗文物已损毁（热度：837371）
 </a>
 </li>
 
