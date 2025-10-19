@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 19:20:11
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 19:37:09
 </p>
 </blockquote>
 <p>
@@ -365,6 +365,12 @@ iG对战T1（热度：1886560）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%E4%BF%9D%E5%AF%8654%E5%B9%B4%E7%9A%84%E7%82%B8%E9%B8%A1%E9%85%8D%E6%96%B9%E5%B0%86%E8%A2%AB%E5%85%AC%E5%BC%80%23" target="weibo">
 肯德基保密54年的炸鸡配方将被公开（热度：1781382）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E8%A2%AB%E7%9B%97%E8%BF%87%E7%A8%8B%E4%BB%857%E5%88%86%E9%92%9F%23" target="weibo">
+卢浮宫被盗过程仅7分钟（热度：1781296）
 </a>
 </li>
 
@@ -1631,12 +1637,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%83%E4%B8%87%E7%98%A6%E5%88%B0%E4%B8%8D%E8%B6%B342kg%23" target="weibo">
 乃万瘦到不足42kg（热度：1000208）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E8%A2%AB%E7%9B%97%E8%BF%87%E7%A8%8B%E4%BB%857%E5%88%86%E9%92%9F%23" target="weibo">
-卢浮宫被盗过程仅7分钟（热度：999296）
 </a>
 </li>
 
@@ -6347,6 +6347,12 @@ UNINE合体（热度：458011）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%94%B5%E8%B4%BA%E9%83%91%E4%B8%BD%E6%96%87%23%23" target="weibo">
 #习近平电贺郑丽文#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%9D%9A%E5%AE%9A%E5%AE%88%E6%8A%A4%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E5%85%B1%E5%90%8C%E5%AE%B6%E5%9B%AD%23%23" target="weibo">
+#坚定守护中华民族共同家园#
 </a>
 </li>
 

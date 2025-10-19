@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760872811236,
+  "endTime": 1760873829055,
   "band_list": [
     {
       "raw_hot": 2202319,
@@ -11,8 +11,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1781296,
+      "num": 1781296,
+      "word": "卢浮宫被盗过程仅7分钟",
+      "onboard_time": 1760870842,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1762143,
-      "num": 216295,
+      "num": 241744,
       "word": "黄宗泽被开价5亿聘金当女婿",
       "onboard_time": 1760869400,
       "rank": 35,
@@ -59,14 +67,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 999296,
-      "num": 999296,
-      "word": "卢浮宫被盗过程仅7分钟",
-      "onboard_time": 1760870842,
-      "rank": 1,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 995617,
       "num": 455383,
       "word": "网传何穗前夫参加过再见爱人",
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 767686,
-      "num": 311247,
+      "num": 425438,
       "word": "杨振宁父亲",
       "onboard_time": 1760868020,
       "rank": 5,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 500773,
-      "num": 213397,
+      "num": 241661,
       "word": "野人小孩不是个例",
       "onboard_time": 1760868382,
       "rank": 17,
@@ -291,6 +291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 429719,
+      "num": 429719,
+      "word": "锦州烧烤",
+      "onboard_time": 1760870001,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 418821,
       "num": 804936,
       "word": "天地剑心",
@@ -323,11 +331,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 409133,
+      "num": 409133,
+      "word": "短剧真情侣就是好嗑",
+      "onboard_time": 1760869641,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384557,
       "num": 384557,
       "word": "杨振宁与二次诺奖失之交臂",
       "onboard_time": 1760850081,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 372089,
+      "num": 372089,
+      "word": "女子被救后举报施救者侵犯肖像权",
+      "onboard_time": 1760869762,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -411,14 +435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 317211,
-      "num": 317211,
-      "word": "短剧真情侣就是好嗑",
-      "onboard_time": 1760869641,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 305060,
       "num": 385526,
       "word": "杨振宁关门弟子翟荟悼念恩师",
@@ -499,12 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 273212,
-      "num": 273212,
-      "word": "锦州烧烤",
-      "onboard_time": 1760870001,
-      "rank": 35,
-      "category": "美食"
+      "raw_hot": 279290,
+      "num": 279290,
+      "word": "卢浮宫持械抢劫事件",
+      "onboard_time": 1760866461,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 267826,
@@ -521,14 +537,6 @@
       "onboard_time": 1760761410,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 257292,
-      "num": 257292,
-      "word": "卢浮宫持械抢劫事件",
-      "onboard_time": 1760866461,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 255891,
@@ -561,6 +569,14 @@
       "onboard_time": 1760796982,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 238934,
+      "num": 238934,
+      "word": "卢浮宫暂停开放",
+      "onboard_time": 1760870542,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 236356,
@@ -596,7 +612,7 @@
     },
     {
       "raw_hot": 228227,
-      "num": 205532,
+      "num": 206495,
       "word": "S15瑞士轮第四轮抽签",
       "onboard_time": 1760868922,
       "rank": 26,
@@ -609,6 +625,14 @@
       "onboard_time": 1760784202,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 226055,
+      "num": 119992,
+      "word": "惊天魔盗团",
+      "onboard_time": 1760872761,
+      "rank": 44,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 224441,
@@ -635,14 +659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218537,
-      "num": 218537,
-      "word": "卢浮宫暂停开放",
-      "onboard_time": 1760870542,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 218294,
       "num": 218294,
       "word": "多地警方联动寻找野人小孩一家",
@@ -667,14 +683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209104,
-      "num": 209104,
-      "word": "女子被救后举报施救者侵犯肖像权",
-      "onboard_time": 1760869762,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207381,
       "num": 202802,
       "word": "孙乐言看到冯琳ootd眼都亮了",
@@ -689,6 +697,14 @@
       "onboard_time": 1760861841,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 207182,
+      "num": 207182,
+      "word": "卢浮宫找回一件被盗珠宝",
+      "onboard_time": 1760873423,
+      "rank": 16,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 206928,
@@ -809,6 +825,22 @@
       "onboard_time": 1760801364,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 179565,
+      "num": 179565,
+      "word": "陈乔恩回应看艾伦豪宅变脸",
+      "onboard_time": 1760871500,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 177465,
+      "num": 177465,
+      "word": "辛巴罚款赵梦澈100万",
+      "onboard_time": 1760870962,
+      "rank": 27,
+      "category": "网红"
     },
     {
       "raw_hot": 173896,
@@ -945,14 +977,6 @@
       "onboard_time": 1760865202,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 157823,
-      "num": 157823,
-      "word": "辛巴罚款赵梦澈100万",
-      "onboard_time": 1760870962,
-      "rank": 27,
-      "category": "网红"
     },
     {
       "raw_hot": 157340,
@@ -1171,14 +1195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131651,
-      "num": 131651,
-      "word": "陈乔恩回应看艾伦豪宅变脸",
-      "onboard_time": 1760871500,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 131306,
       "num": 131306,
       "word": "西湖大学临时追加悼念杨振宁环节",
@@ -1241,6 +1257,22 @@
       "onboard_time": 1760863281,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 126545,
+      "num": 126545,
+      "word": "王安宇一分钟被淘汰两次",
+      "onboard_time": 1760872702,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126453,
+      "num": 126453,
+      "word": "被拐18年男孩住孙海洋家附近7年",
+      "onboard_time": 1760869101,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126123,
@@ -1355,14 +1387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 119838,
-      "num": 119838,
-      "word": "被拐18年男孩住孙海洋家附近7年",
-      "onboard_time": 1760869101,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 119324,
       "num": 119324,
       "word": "珠海无人机表演为全运会加油",
@@ -1435,6 +1459,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 116132,
+      "num": 116132,
+      "word": "国家安全部发文致敬聂曦烈士",
+      "onboard_time": 1760873181,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 114704,
       "num": 114704,
       "word": "张小斐像是来谈收购的",
@@ -1483,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111330,
+      "num": 111330,
+      "word": "广东省22届",
+      "onboard_time": 1760872881,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 111279,
       "num": 111279,
       "word": "广东省考 本来应该从从容容",
@@ -1513,6 +1553,14 @@
       "onboard_time": 1760845341,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110257,
+      "num": 110257,
+      "word": "数名蒙面歹徒冲入卢浮宫",
+      "onboard_time": 1760872641,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 109931,
@@ -1723,20 +1771,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100285,
+      "num": 120028,
+      "word": "谁家剧OST试听能超6分钟",
+      "onboard_time": 1760873061,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99633,
       "num": 105493,
       "word": "河北夫妻自驾到内蒙捡蔬菜一天500斤",
       "onboard_time": 1760865801,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99549,
-      "num": 99549,
-      "word": "数名蒙面歹徒冲入卢浮宫",
-      "onboard_time": 1760872641,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 99017,
@@ -1843,14 +1891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93860,
-      "num": 93860,
-      "word": "惊天魔盗团",
-      "onboard_time": 1760872761,
-      "rank": 44,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 93747,
       "num": 93747,
       "word": "顶流零食蒟蒻果冻到底是啥",
@@ -1875,20 +1915,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93443,
-      "num": 93443,
-      "word": "王安宇一分钟被淘汰两次",
-      "onboard_time": 1760872702,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 93373,
       "num": 136344,
       "word": "石宇奇安赛龙争执致比赛中断",
       "onboard_time": 1760848040,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93278,
+      "num": 102360,
+      "word": "路人缘扭转只需要一部综艺",
+      "onboard_time": 1760873662,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 92116,
@@ -2137,6 +2177,14 @@
       "onboard_time": 1760845580,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81721,
+      "num": 81721,
+      "word": "还是广东人有钱",
+      "onboard_time": 1760870601,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 81618,
@@ -2595,6 +2643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 39839,
+      "num": 207300,
+      "word": "王鹤棣直播超绝镜头感",
+      "onboard_time": 1760870962,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39526,
       "num": 202988,
       "word": "PSG对战VKS",
@@ -2617,14 +2673,6 @@
       "onboard_time": 1760838680,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38093,
-      "num": 205532,
-      "word": "王鹤棣直播超绝镜头感",
-      "onboard_time": 1760870962,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 37475,
@@ -2675,6 +2723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 31974,
+      "num": 210066,
+      "word": "北京的秋天有多适合慢跑",
+      "onboard_time": 1760872161,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 31207,
       "num": 316787,
       "word": "草根篮球王师傅现场炫技",
@@ -2689,14 +2745,6 @@
       "onboard_time": 1760848639,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27297,
-      "num": 206008,
-      "word": "北京的秋天有多适合慢跑",
-      "onboard_time": 1760872161,
-      "rank": 14,
-      "category": "运动健身"
     },
     {
       "raw_hot": 27211,
@@ -2916,6 +2964,9 @@
     },
     {
       "word": "#习近平电贺郑丽文#"
+    },
+    {
+      "word": "#坚定守护中华民族共同家园#"
     }
   ]
 }
