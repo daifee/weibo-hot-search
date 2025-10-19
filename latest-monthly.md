@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 21:39:45
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/19 22:21:56
 </p>
 </blockquote>
 <p>
@@ -507,6 +507,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E4%B8%80%E4%BB%B6%E8%A2%AB%E7%9B%97%E6%96%87%E7%89%A9%E5%B7%B2%E6%8D%9F%E6%AF%81%23" target="weibo">
+卢浮宫一件被盗文物已损毁（热度：1617167）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%B4%A9%E4%BA%86%23" target="weibo">
 小红书崩了（热度：1613573）
 </a>
@@ -725,12 +731,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E6%99%92%E6%A3%80%E6%B5%8B%E6%8A%A5%E5%91%8A%E5%81%A5%E5%BA%B7%E8%AF%81%E5%9B%9E%E5%BA%94%E8%B4%A8%E7%96%91%23" target="weibo">
 鸡排哥晒检测报告健康证回应质疑（热度：1422561）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E4%B8%80%E4%BB%B6%E8%A2%AB%E7%9B%97%E6%96%87%E7%89%A9%E5%B7%B2%E6%8D%9F%E6%AF%81%23" target="weibo">
-卢浮宫一件被盗文物已损毁（热度：1422125）
 </a>
 </li>
 
@@ -2961,6 +2961,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A4%E6%AF%942%E6%97%A0%E9%94%A1%23" target="weibo">
+南通4比2无锡（热度：727909）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E5%A5%96%E9%87%91124%E5%B9%B4%E6%B2%A1%E8%8A%B1%E5%AE%8C%23" target="weibo">
 诺贝尔奖奖金124年没花完（热度：726849）
 </a>
@@ -4983,6 +4989,12 @@ GEN战胜T1（热度：526738）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23BLG%E7%AD%BE%E8%BF%90%23" target="weibo">
+BLG签运（热度：523349）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%BC%8F%E6%81%8B%E7%88%B1%23" target="weibo">
 微信式恋爱（热度：522837）
 </a>
@@ -6002,18 +6014,6 @@ TaylorSwift忘了通知EdSheeran订婚（热度：461697）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E6%9B%BE%E5%90%83%E4%BA%86%E7%8B%97%E5%90%83%E8%BF%87%E7%9A%84%E9%9D%A2%E5%8F%91%E7%83%A7%E4%B8%89%E5%A4%A9%23" target="weibo">
-沙溢曾吃了狗吃过的面发烧三天（热度：459268）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8D%9A%E4%B8%BB%E5%93%AD%E8%AF%89%E5%9B%BD%E5%AE%B6%E6%B2%A1%E6%9C%89%E5%AD%98%E5%9C%A8%E6%84%9F%23" target="weibo">
-韩国博主哭诉国家没有存在感（热度：459098）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6353,6 +6353,12 @@ TaylorSwift忘了通知EdSheeran订婚（热度：461697）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%9D%9A%E5%AE%9A%E5%AE%88%E6%8A%A4%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%E5%85%B1%E5%90%8C%E5%AE%B6%E5%9B%AD%23%23" target="weibo">
 #坚定守护中华民族共同家园#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%80%BB%E4%B9%A6%E8%AE%B0%E9%AB%98%E5%BA%A6%E9%87%8D%E8%A7%86%E6%88%98%E7%95%A5%E8%A7%84%E5%88%92%E5%B7%A5%E4%BD%9C%23%23" target="weibo">
+#习近平总书记高度重视战略规划工作#
 </a>
 </li>
 

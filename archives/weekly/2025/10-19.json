@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760881185508,
+  "endTime": 1760883716567,
   "band_list": [
     {
       "raw_hot": 2202319,
@@ -35,20 +35,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1617167,
+      "num": 1422125,
+      "word": "卢浮宫一件被盗文物已损毁",
+      "onboard_time": 1760876183,
+      "rank": 4,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1439854,
       "num": 219080,
       "word": "陈伟霆 何穗",
       "onboard_time": 1760835560,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1422125,
-      "num": 1422125,
-      "word": "卢浮宫一件被盗文物已损毁",
-      "onboard_time": 1760876183,
-      "rank": 4,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1198576,
@@ -145,6 +145,14 @@
       "onboard_time": 1760872761,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 727909,
+      "num": 1116465,
+      "word": "南通4比2无锡",
+      "onboard_time": 1760882182,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 717000,
@@ -249,6 +257,14 @@
       "onboard_time": 1760799203,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 523349,
+      "num": 523349,
+      "word": "BLG签运",
+      "onboard_time": 1760880562,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 522750,
@@ -403,20 +419,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 396146,
-      "num": 396146,
+      "raw_hot": 406425,
+      "num": 406425,
       "word": "印度食脑虫已致26人死亡",
       "onboard_time": 1760876120,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 391166,
-      "num": 391166,
-      "word": "BLG签运",
-      "onboard_time": 1760880562,
-      "rank": 13,
-      "category": "电竞"
     },
     {
       "raw_hot": 384557,
@@ -467,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 355440,
+      "num": 355440,
+      "word": "披荆斩棘总决赛",
+      "onboard_time": 1760879301,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 352364,
       "num": 204125,
       "word": "百万粉丝吃播网红切胃",
@@ -488,14 +504,6 @@
       "word": "我家那闺女",
       "onboard_time": 1760851101,
       "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 342528,
-      "num": 342528,
-      "word": "披荆斩棘总决赛",
-      "onboard_time": 1760879301,
-      "rank": 17,
       "category": "综艺"
     },
     {
@@ -539,6 +547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 320630,
+      "num": 320630,
+      "word": "贵州失联2岁女童已找到",
+      "onboard_time": 1760880082,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 305060,
       "num": 385526,
       "word": "杨振宁关门弟子翟荟悼念恩师",
@@ -561,6 +577,14 @@
       "onboard_time": 1760847741,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300214,
+      "num": 670143,
+      "word": "入青云",
+      "onboard_time": 1760786302,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 299788,
@@ -611,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290724,
+      "num": 290724,
+      "word": "王俊凯乌镇",
+      "onboard_time": 1760882423,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281655,
       "num": 281655,
       "word": "未来3天冷冷冷冷冷",
@@ -633,6 +665,14 @@
       "onboard_time": 1760866461,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 270243,
+      "num": 270243,
+      "word": "薛之谦大闹沈梦辰直播间",
+      "onboard_time": 1760882301,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 267826,
@@ -665,14 +705,6 @@
       "onboard_time": 1760833759,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 244739,
-      "num": 670143,
-      "word": "入青云",
-      "onboard_time": 1760786302,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 241053,
@@ -763,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219666,
+      "num": 219666,
+      "word": "Karsa挥手告别",
+      "onboard_time": 1760881283,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 218294,
       "num": 218294,
       "word": "多地警方联动寻找野人小孩一家",
@@ -779,20 +819,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 212506,
+      "num": 261857,
+      "word": "暗河传优酷热度破6000",
+      "onboard_time": 1760883202,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209154,
       "num": 209154,
       "word": "辛巴罚款赵梦澈100万",
       "onboard_time": 1760870962,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 207849,
-      "num": 308038,
-      "word": "贵州失联2岁女童已找到",
-      "onboard_time": 1760880082,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207381,
@@ -1099,6 +1139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 159853,
+      "num": 159853,
+      "word": "AG战胜TTG",
+      "onboard_time": 1760883382,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159459,
       "num": 315767,
       "word": "入青云追剧日历呢",
@@ -1153,6 +1201,14 @@
       "onboard_time": 1760844379,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155919,
+      "num": 155919,
+      "word": "豆制品是对女性很好的食物",
+      "onboard_time": 1760882842,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 154849,
@@ -1395,6 +1451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131464,
+      "num": 131464,
+      "word": "苏超南通点球大战淘汰无锡",
+      "onboard_time": 1760882842,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131306,
       "num": 131306,
       "word": "西湖大学临时追加悼念杨振宁环节",
@@ -1433,6 +1497,14 @@
       "onboard_time": 1760862861,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130071,
+      "num": 130071,
+      "word": "蔡天龙两连扑",
+      "onboard_time": 1760883022,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 129752,
@@ -1545,6 +1617,14 @@
       "onboard_time": 1760860040,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 122149,
+      "num": 163081,
+      "word": "开纵横G700越野从从容容游刃有余",
+      "onboard_time": 1760883502,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 122050,
@@ -1667,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116542,
+      "num": 116542,
+      "word": "东方财富实控人父亲累计套现超70亿",
+      "onboard_time": 1760883561,
+      "rank": 42,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 116424,
       "num": 116424,
       "word": "建议你在吃了药以后一定不要吃西柚",
@@ -1681,6 +1769,14 @@
       "onboard_time": 1760800285,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114404,
+      "num": 116683,
+      "word": "杨振宁曾参观三星堆3小时未歇脚",
+      "onboard_time": 1760882423,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114161,
@@ -1859,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106283,
+      "num": 106283,
+      "word": "一诺年总二连mvp",
+      "onboard_time": 1760883622,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105910,
       "num": 105910,
       "word": "51岁大哥摆摊半年一分钱没挣",
@@ -1913,6 +2017,14 @@
       "onboard_time": 1760848579,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 103186,
+      "num": 103186,
+      "word": "杜兰特与火箭续约两年",
+      "onboard_time": 1760881223,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 103167,
@@ -2763,6 +2875,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 75271,
+      "num": 261577,
+      "word": "盗窃者伪装成施工人员进卢浮宫",
+      "onboard_time": 1760882543,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 74561,
       "num": 74561,
       "word": "Knight称抽T1挺好的",
@@ -2947,6 +3067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58629,
+      "num": 117752,
+      "word": "卢浮宫劫案亲历者讲述",
+      "onboard_time": 1760882603,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 56787,
       "num": 76335,
       "word": "喜人奇妙夜",
@@ -2985,6 +3113,14 @@
       "onboard_time": 1760865202,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50808,
+      "num": 1094704,
+      "word": "十四五期间这些大国重器出圈了",
+      "onboard_time": 1760879243,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 50151,
@@ -3065,14 +3201,6 @@
       "onboard_time": 1760851340,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41612,
-      "num": 1094704,
-      "word": "十四五期间这些大国重器出圈了",
-      "onboard_time": 1760879243,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 40774,
@@ -3434,6 +3562,9 @@
     },
     {
       "word": "#跟着总书记看看这五年#"
+    },
+    {
+      "word": "#习近平总书记高度重视战略规划工作#"
     }
   ]
 }
