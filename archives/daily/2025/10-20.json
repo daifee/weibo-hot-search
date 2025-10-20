@@ -1,6 +1,6 @@
 {
   "startTime": 1760891363500,
-  "endTime": 1760964810188,
+  "endTime": 1760965644533,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -185,6 +185,14 @@
       "onboard_time": 1760950944,
       "rank": 16,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 669567,
+      "num": 1107130,
+      "word": "双十一 没便宜",
+      "onboard_time": 1760963481,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 664589,
@@ -491,6 +499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330084,
+      "num": 255504,
+      "word": "赵丽颖直播",
+      "onboard_time": 1760961802,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 326443,
       "num": 173809,
       "word": "王影璐红包",
@@ -547,14 +563,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 295459,
-      "num": 255504,
-      "word": "赵丽颖直播",
-      "onboard_time": 1760961802,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 292688,
       "num": 400174,
       "word": "卢浮宫被盗过程仅7分钟",
@@ -571,7 +579,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 283711,
+      "raw_hot": 284898,
       "num": 253273,
       "word": "黄金饰品调价",
       "onboard_time": 1760960300,
@@ -609,6 +617,14 @@
       "onboard_time": 1760936542,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272047,
+      "num": 253196,
+      "word": "肖战刘铮亮手术服造型路透",
+      "onboard_time": 1760961562,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 268721,
@@ -657,14 +673,6 @@
       "onboard_time": 1760943143,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 253196,
-      "num": 253196,
-      "word": "肖战刘铮亮手术服造型路透",
-      "onboard_time": 1760961562,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 247514,
@@ -811,6 +819,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 203285,
+      "num": 261818,
+      "word": "建议打工人抽空去一趟景德镇",
+      "onboard_time": 1760960300,
+      "rank": 4,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 201298,
       "num": 201298,
       "word": "27岁全款在村里开了一家饭店",
@@ -931,14 +947,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192280,
-      "num": 261818,
-      "word": "建议打工人抽空去一趟景德镇",
-      "onboard_time": 1760960300,
-      "rank": 4,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 192163,
       "num": 192163,
       "word": "洞洞鞋下岗了但没完全下",
@@ -947,12 +955,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 188621,
-      "num": 261081,
-      "word": "双十一 没便宜",
-      "onboard_time": 1760963481,
-      "rank": 5,
-      "category": "互联网"
+      "raw_hot": 190893,
+      "num": 236057,
+      "word": "韩国选手破了孙杨亚洲纪录",
+      "onboard_time": 1760961501,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 187583,
@@ -1035,6 +1043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 176476,
+      "num": 260314,
+      "word": "中方奉劝巴拉圭早日做出正确决断",
+      "onboard_time": 1760961441,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 176069,
       "num": 176069,
       "word": "余承恩闯进阴湿男鬼赛道",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1760958381,
       "rank": 21,
       "category": "艺人,数码"
-    },
-    {
-      "raw_hot": 173660,
-      "num": 260314,
-      "word": "中方奉劝巴拉圭早日做出正确决断",
-      "onboard_time": 1760961441,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 173239,
@@ -1140,7 +1148,7 @@
     },
     {
       "raw_hot": 168839,
-      "num": 418325,
+      "num": 488382,
       "word": "四中全会",
       "onboard_time": 1760948660,
       "rank": 2,
@@ -1153,14 +1161,6 @@
       "onboard_time": 1760963961,
       "rank": 7,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 166048,
-      "num": 236057,
-      "word": "韩国选手破了孙杨亚洲纪录",
-      "onboard_time": 1760961501,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 165201,
@@ -1203,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163373,
+      "num": 235845,
+      "word": "VOGUE",
+      "onboard_time": 1760961022,
+      "rank": 21,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 160598,
       "num": 145780,
       "word": "沈腾一盘土豆丝炒了三年",
@@ -1219,12 +1227,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 157955,
-      "num": 235845,
-      "word": "VOGUE",
-      "onboard_time": 1760961022,
-      "rank": 21,
-      "category": "时尚,作品衍生"
+      "raw_hot": 157582,
+      "num": 203060,
+      "word": "梁靖崑逆转乾崑蛋糕",
+      "onboard_time": 1760965100,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 156360,
@@ -1355,7 +1363,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147837,
+      "raw_hot": 148069,
       "num": 235811,
       "word": "男孩被戳伤失明园长用猪油消肿后续",
       "onboard_time": 1760962881,
@@ -1401,6 +1409,14 @@
       "onboard_time": 1760929101,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144743,
+      "num": 235610,
+      "word": "教育局回应老师上课玩手机麻将",
+      "onboard_time": 1760963481,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144378,
@@ -1467,20 +1483,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 134205,
+      "num": 234388,
+      "word": "入青云偏偏你最争气",
+      "onboard_time": 1760964742,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133356,
       "num": 133356,
       "word": "徐冬冬当年没有被PUA去磨骨是对的",
       "onboard_time": 1760956400,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 133102,
-      "num": 235610,
-      "word": "教育局回应老师上课玩手机麻将",
-      "onboard_time": 1760963481,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131684,
@@ -1809,6 +1825,14 @@
       "onboard_time": 1760955621,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113268,
+      "num": 235104,
+      "word": "真正只需要一杯奶茶钱的化妆",
+      "onboard_time": 1760964500,
+      "rank": 34,
+      "category": "幽默,美妆"
     },
     {
       "raw_hot": 112998,
@@ -2195,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96575,
+      "num": 234596,
+      "word": "越南股市",
+      "onboard_time": 1760960182,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 96502,
       "num": 96502,
       "word": "12306火车免费坐攻略",
@@ -2299,12 +2331,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 91184,
-      "num": 234596,
-      "word": "越南股市",
-      "onboard_time": 1760960182,
-      "rank": 40,
-      "category": "财经"
+      "raw_hot": 91081,
+      "num": 243868,
+      "word": "王者十周年最好的礼物",
+      "onboard_time": 1760960241,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 91062,
@@ -2499,12 +2531,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83403,
+      "num": 202790,
+      "word": "iQOO15首发王者荣耀144FPS",
+      "onboard_time": 1760965521,
+      "rank": 32,
+      "category": "数码,游戏"
+    },
+    {
       "raw_hot": 83178,
       "num": 83178,
       "word": "特朗普提美对华三大议题",
       "onboard_time": 1760958861,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81805,
+      "num": 202687,
+      "word": "十人团战超丝滑MVP稳稳拿",
+      "onboard_time": 1760965581,
+      "rank": 37,
+      "category": "游戏,数码"
     },
     {
       "raw_hot": 81713,
@@ -2547,6 +2595,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 78541,
+      "num": 202536,
+      "word": "泽连斯基与特朗普对骂",
+      "onboard_time": 1760965221,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78469,
       "num": 323887,
       "word": "二十届四中全会开始举行",
@@ -2577,6 +2633,14 @@
       "onboard_time": 1760933781,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 77952,
+      "num": 234318,
+      "word": "多款知名进口药将退出国内市场",
+      "onboard_time": 1760963720,
+      "rank": 47,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 77199,
@@ -2619,22 +2683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 74719,
-      "num": 235104,
-      "word": "真正只需要一杯奶茶钱的化妆",
-      "onboard_time": 1760964500,
-      "rank": 34,
-      "category": "幽默,美妆"
-    },
-    {
-      "raw_hot": 74042,
-      "num": 234388,
-      "word": "入青云偏偏你最争气",
-      "onboard_time": 1760964742,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 73971,
       "num": 340812,
       "word": "印度食脑虫已致26人死亡",
@@ -2659,20 +2707,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 73168,
-      "num": 234318,
-      "word": "多款知名进口药将退出国内市场",
-      "onboard_time": 1760963720,
-      "rank": 47,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 72569,
       "num": 117793,
       "word": "iPhone自制emoji",
       "onboard_time": 1760944942,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 72293,
+      "num": 235471,
+      "word": "喜人奇妙夜神经病赛道也集齐了",
+      "onboard_time": 1760961501,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 72164,
@@ -2723,20 +2771,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67880,
+      "num": 234791,
+      "word": "越来越多本科毕业生回炉技校",
+      "onboard_time": 1760964681,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67581,
       "num": 340784,
       "word": "GEN抽到TES",
       "onboard_time": 1760880562,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 66717,
-      "num": 235471,
-      "word": "喜人奇妙夜神经病赛道也集齐了",
-      "onboard_time": 1760961501,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 65523,
@@ -2833,14 +2881,6 @@
       "onboard_time": 1760868020,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60663,
-      "num": 243868,
-      "word": "王者十周年最好的礼物",
-      "onboard_time": 1760960241,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 60590,
@@ -2953,14 +2993,6 @@
       "onboard_time": 1760931441,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 50207,
-      "num": 234791,
-      "word": "越来越多本科毕业生回炉技校",
-      "onboard_time": 1760964681,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50026,

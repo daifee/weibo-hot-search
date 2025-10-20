@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760964810188,
+  "endTime": 1760965644533,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -4689,6 +4689,14 @@
       "onboard_time": 1759328721,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 669567,
+      "num": 1107130,
+      "word": "双十一 没便宜",
+      "onboard_time": 1760963481,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 669246,
@@ -13755,6 +13763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 284898,
+      "num": 253273,
+      "word": "黄金饰品调价",
+      "onboard_time": 1760960300,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 284858,
       "num": 284858,
       "word": "iG扳平",
@@ -13817,14 +13833,6 @@
       "onboard_time": 1759758744,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 283711,
-      "num": 253273,
-      "word": "黄金饰品调价",
-      "onboard_time": 1760960300,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 283669,
@@ -14417,6 +14425,14 @@
       "onboard_time": 1760936542,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 272047,
+      "num": 253196,
+      "word": "肖战刘铮亮手术服造型路透",
+      "onboard_time": 1760961562,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 272004,
@@ -15433,14 +15449,6 @@
       "onboard_time": 1759484840,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 253196,
-      "num": 253196,
-      "word": "肖战刘铮亮手术服造型路透",
-      "onboard_time": 1760961562,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 253111,
@@ -18867,6 +18875,14 @@
       "category": "体育,作品衍生"
     },
     {
+      "raw_hot": 203285,
+      "num": 261818,
+      "word": "建议打工人抽空去一趟景德镇",
+      "onboard_time": 1760960300,
+      "rank": 4,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 203269,
       "num": 183814,
       "word": "刘宇宁抢票改时间",
@@ -20499,14 +20515,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 192280,
-      "num": 261818,
-      "word": "建议打工人抽空去一趟景德镇",
-      "onboard_time": 1760960300,
-      "rank": 4,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 192166,
       "num": 192166,
       "word": "火树才是来集邮的吧",
@@ -20689,6 +20697,14 @@
       "onboard_time": 1760523142,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 190893,
+      "num": 236057,
+      "word": "韩国选手破了孙杨亚洲纪录",
+      "onboard_time": 1760961501,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 190738,
@@ -21113,14 +21129,6 @@
       "onboard_time": 1759897402,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188621,
-      "num": 261081,
-      "word": "双十一 没便宜",
-      "onboard_time": 1760963481,
-      "rank": 5,
-      "category": "互联网"
     },
     {
       "raw_hot": 188612,
@@ -22947,6 +22955,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 176476,
+      "num": 260314,
+      "word": "中方奉劝巴拉圭早日做出正确决断",
+      "onboard_time": 1760961441,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 176324,
       "num": 169286,
       "word": "37岁交警在执法现场被撞牺牲",
@@ -23361,14 +23377,6 @@
       "onboard_time": 1759921580,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173660,
-      "num": 260314,
-      "word": "中方奉劝巴拉圭早日做出正确决断",
-      "onboard_time": 1760961441,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 173511,
@@ -24236,7 +24244,7 @@
     },
     {
       "raw_hot": 168839,
-      "num": 418325,
+      "num": 488382,
       "word": "四中全会",
       "onboard_time": 1760948660,
       "rank": 2,
@@ -24827,14 +24835,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 166048,
-      "num": 236057,
-      "word": "韩国选手破了孙杨亚洲纪录",
-      "onboard_time": 1760961501,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165973,
       "num": 165973,
       "word": "金饰克价涨到1183元",
@@ -25337,6 +25337,14 @@
       "onboard_time": 1760252479,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163373,
+      "num": 235845,
+      "word": "VOGUE",
+      "onboard_time": 1760961022,
+      "rank": 21,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 163355,
@@ -26427,14 +26435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157955,
-      "num": 235845,
-      "word": "VOGUE",
-      "onboard_time": 1760961022,
-      "rank": 21,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 157949,
       "num": 185620,
       "word": "余生有涯定档1016",
@@ -26513,6 +26513,14 @@
       "onboard_time": 1759664902,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157582,
+      "num": 203060,
+      "word": "梁靖崑逆转乾崑蛋糕",
+      "onboard_time": 1760965100,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 157474,
@@ -28515,6 +28523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148069,
+      "num": 235811,
+      "word": "男孩被戳伤失明园长用猪油消肿后续",
+      "onboard_time": 1760962881,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 148035,
       "num": 148035,
       "word": "敖子逸叫错张集骏名字",
@@ -28553,14 +28569,6 @@
       "onboard_time": 1760598260,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 147837,
-      "num": 235811,
-      "word": "男孩被戳伤失明园长用猪油消肿后续",
-      "onboard_time": 1760962881,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 147830,
@@ -29345,6 +29353,14 @@
       "onboard_time": 1760929101,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144743,
+      "num": 235610,
+      "word": "教育局回应老师上课玩手机麻将",
+      "onboard_time": 1760963481,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144698,
@@ -32307,6 +32323,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 134205,
+      "num": 234388,
+      "word": "入青云偏偏你最争气",
+      "onboard_time": 1760964742,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134198,
       "num": 134198,
       "word": "iPadmini8售价",
@@ -32665,14 +32689,6 @@
       "onboard_time": 1760103741,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133102,
-      "num": 235610,
-      "word": "教育局回应老师上课玩手机麻将",
-      "onboard_time": 1760963481,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133091,
@@ -40169,6 +40185,14 @@
       "onboard_time": 1760238680,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113268,
+      "num": 235104,
+      "word": "真正只需要一杯奶茶钱的化妆",
+      "onboard_time": 1760964500,
+      "rank": 34,
+      "category": "幽默,美妆"
     },
     {
       "raw_hot": 113254,
@@ -48371,6 +48395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 96575,
+      "num": 234596,
+      "word": "越南股市",
+      "onboard_time": 1760960182,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 96560,
       "num": 96560,
       "word": "宋亚轩到底还有多少隐藏技能",
@@ -50851,14 +50883,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 91184,
-      "num": 234596,
-      "word": "越南股市",
-      "onboard_time": 1760960182,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 91181,
       "num": 91181,
       "word": "8种食物最好带皮吃",
@@ -50937,6 +50961,14 @@
       "onboard_time": 1759846823,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91081,
+      "num": 243868,
+      "word": "王者十周年最好的礼物",
+      "onboard_time": 1760960241,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 91068,
@@ -54219,6 +54251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83403,
+      "num": 202790,
+      "word": "iQOO15首发王者荣耀144FPS",
+      "onboard_time": 1760965521,
+      "rank": 32,
+      "category": "数码,游戏"
+    },
+    {
       "raw_hot": 83389,
       "num": 83389,
       "word": "双11一年比一年早",
@@ -54801,6 +54841,14 @@
       "onboard_time": 1759794017,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81805,
+      "num": 202687,
+      "word": "十人团战超丝滑MVP稳稳拿",
+      "onboard_time": 1760965581,
+      "rank": 37,
+      "category": "游戏,数码"
     },
     {
       "raw_hot": 81763,
@@ -55883,6 +55931,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 78541,
+      "num": 202536,
+      "word": "泽连斯基与特朗普对骂",
+      "onboard_time": 1760965221,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78521,
       "num": 78521,
       "word": "烧伤女主播嫌疑人曾刷礼物追求被拒",
@@ -56129,6 +56185,14 @@
       "onboard_time": 1760156541,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77952,
+      "num": 234318,
+      "word": "多款知名进口药将退出国内市场",
+      "onboard_time": 1760963720,
+      "rank": 47,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 77945,
@@ -56963,14 +57027,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 74719,
-      "num": 235104,
-      "word": "真正只需要一杯奶茶钱的化妆",
-      "onboard_time": 1760964500,
-      "rank": 34,
-      "category": "幽默,美妆"
-    },
-    {
       "raw_hot": 74690,
       "num": 73195,
       "word": "北京的秋天",
@@ -57137,14 +57193,6 @@
       "onboard_time": 1760016380,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 74042,
-      "num": 234388,
-      "word": "入青云偏偏你最争气",
-      "onboard_time": 1760964742,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 74008,
@@ -57363,14 +57411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 73168,
-      "num": 234318,
-      "word": "多款知名进口药将退出国内市场",
-      "onboard_time": 1760963720,
-      "rank": 47,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 73083,
       "num": 110577,
       "word": "陈哲远陈飞宇李昀锐祖宗101",
@@ -57545,6 +57585,14 @@
       "onboard_time": 1759540159,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 72293,
+      "num": 235471,
+      "word": "喜人奇妙夜神经病赛道也集齐了",
+      "onboard_time": 1760961501,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 72280,
@@ -58475,6 +58523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67880,
+      "num": 234791,
+      "word": "越来越多本科毕业生回炉技校",
+      "onboard_time": 1760964681,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67859,
       "num": 67859,
       "word": "孙颖莎好奇谁想和王楚钦做男双搭档",
@@ -58697,14 +58753,6 @@
       "onboard_time": 1760591241,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66717,
-      "num": 235471,
-      "word": "喜人奇妙夜神经病赛道也集齐了",
-      "onboard_time": 1760961501,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 66654,
@@ -59745,14 +59793,6 @@
       "onboard_time": 1759981519,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 60663,
-      "num": 243868,
-      "word": "王者十周年最好的礼物",
-      "onboard_time": 1760960241,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 60608,
@@ -61529,14 +61569,6 @@
       "onboard_time": 1759741400,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 50207,
-      "num": 234791,
-      "word": "越来越多本科毕业生回炉技校",
-      "onboard_time": 1760964681,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50141,

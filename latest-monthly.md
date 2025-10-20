@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 20:53:30
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 21:07:24
 </p>
 </blockquote>
 <p>
@@ -3531,6 +3531,12 @@ AL战胜HLE（热度：684053）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%20%E6%B2%A1%E4%BE%BF%E5%AE%9C%23" target="weibo">
+双十一 没便宜（热度：669567）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%96%B9%E6%9A%B4%E9%9B%A8%E5%86%B7%E5%88%B0%E7%A0%B4%E7%BA%AA%E5%BD%95%23" target="weibo">
 北方暴雨冷到破纪录（热度：669246）
 </a>
@@ -6005,12 +6011,6 @@ TheShy回应上单韦鲁斯（热度：477977）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%9A%84%E7%BB%93%E5%A9%9A%E7%8E%B0%E5%9C%BA%E9%9C%87%E6%83%8A%E5%88%B0%E4%BA%86%23" target="weibo">
 被韩国人的结婚现场震惊到了（热度：475427）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%80%B3%E5%85%89%E6%89%93%E8%B5%B0%E5%A5%B3%E5%84%BF%E6%AF%8D%E4%BA%B2%E8%8A%B1%E5%85%89%E7%A7%AF%E8%93%84%E6%89%BE10%E5%B9%B4%23" target="weibo">
-一耳光打走女儿母亲花光积蓄找10年（热度：474998）
 </a>
 </li>
 

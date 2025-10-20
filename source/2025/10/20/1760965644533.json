@@ -1,0 +1,410 @@
+{
+  "runTime": 1760965644533,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 669567,
+        "num": 1107130,
+        "word": "双十一 没便宜",
+        "onboard_time": 1760963481,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 581720,
+        "num": 581720,
+        "word": "解放军正告澳方立即停止侵权挑衅",
+        "onboard_time": 1760954121,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73868,
+        "num": 488382,
+        "word": "四中全会",
+        "onboard_time": 1760948660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 426746,
+        "num": 426746,
+        "word": "红包",
+        "onboard_time": 1760941461,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 241634,
+        "num": 241634,
+        "word": "缅甸政府军突袭KK园区",
+        "onboard_time": 1760950944,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 203285,
+        "num": 203285,
+        "word": "建议打工人抽空去一趟景德镇",
+        "onboard_time": 1760960300,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 176476,
+        "num": 203283,
+        "word": "中方奉劝巴拉圭早日做出正确决断",
+        "onboard_time": 1760961441,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134641,
+        "num": 203256,
+        "word": "双十一 算不明白",
+        "onboard_time": 1760963961,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134205,
+        "num": 203247,
+        "word": "入青云偏偏你最争气",
+        "onboard_time": 1760964742,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124449,
+        "num": 203215,
+        "word": "双11付尾款",
+        "onboard_time": 1760962040,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 330084,
+        "num": 203202,
+        "word": "赵丽颖直播",
+        "onboard_time": 1760961802,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284898,
+        "num": 203187,
+        "word": "黄金饰品调价",
+        "onboard_time": 1760960300,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 272047,
+        "num": 203169,
+        "word": "肖战刘铮亮手术服造型路透",
+        "onboard_time": 1760961562,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211497,
+        "num": 203137,
+        "word": "骑手取走苹果17Promax后失联",
+        "onboard_time": 1760952561,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190893,
+        "num": 203129,
+        "word": "韩国选手破了孙杨亚洲纪录",
+        "onboard_time": 1760961501,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163373,
+        "num": 203115,
+        "word": "VOGUE",
+        "onboard_time": 1760961022,
+        "rank": 15,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 29158,
+        "num": 203086,
+        "word": "电竞圈半壁江山都来了",
+        "onboard_time": 1760962160,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157582,
+        "num": 203060,
+        "word": "梁靖崑逆转乾崑蛋糕",
+        "onboard_time": 1760965100,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148069,
+        "num": 203040,
+        "word": "男孩被戳伤失明园长用猪油消肿后续",
+        "onboard_time": 1760962881,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28268,
+        "num": 203037,
+        "word": "一张图教你用天猫万元大券包",
+        "onboard_time": 1760962221,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118118,
+        "num": 203008,
+        "word": "清融状态",
+        "onboard_time": 1760960121,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144743,
+        "num": 202984,
+        "word": "教育局回应老师上课玩手机麻将",
+        "onboard_time": 1760963481,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140990,
+        "num": 202979,
+        "word": "平台回应退款要扇孩子耳光5分钟",
+        "onboard_time": 1760943561,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136585,
+        "num": 202953,
+        "word": "九寨沟烤肠",
+        "onboard_time": 1760946981,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125841,
+        "num": 202940,
+        "word": "外籍游客扎堆寿衣店试穿购买",
+        "onboard_time": 1760946440,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108786,
+        "num": 202908,
+        "word": "卢远发长文告别心动的信号",
+        "onboard_time": 1760960481,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107208,
+        "num": 202905,
+        "word": "解放军回应澳军机侵闯中国西沙领空",
+        "onboard_time": 1760958260,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96701,
+        "num": 202883,
+        "word": "今年流感毒株与去年不同",
+        "onboard_time": 1760963601,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72293,
+        "num": 202870,
+        "word": "喜人奇妙夜神经病赛道也集齐了",
+        "onboard_time": 1760961501,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29652,
+        "num": 202849,
+        "word": "安卓首颗自研光追芯片",
+        "onboard_time": 1760962221,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113268,
+        "num": 202813,
+        "word": "真正只需要一杯奶茶钱的化妆",
+        "onboard_time": 1760964500,
+        "rank": 30,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 105702,
+        "num": 202800,
+        "word": "Zeus致敬Nuguri",
+        "onboard_time": 1760960962,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83403,
+        "num": 202790,
+        "word": "iQOO15首发王者荣耀144FPS",
+        "onboard_time": 1760965521,
+        "rank": 32,
+        "category": "数码,游戏"
+      },
+      {
+        "raw_hot": 105573,
+        "num": 202774,
+        "word": "南昌大学秋招现露骨女主播招聘海报",
+        "onboard_time": 1760959161,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97970,
+        "num": 202748,
+        "word": "刘宇宁直播",
+        "onboard_time": 1760961321,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97825,
+        "num": 202724,
+        "word": "美国新型毒品兴起",
+        "onboard_time": 1760961261,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96575,
+        "num": 202703,
+        "word": "越南股市",
+        "onboard_time": 1760960182,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81805,
+        "num": 202687,
+        "word": "十人团战超丝滑MVP稳稳拿",
+        "onboard_time": 1760965581,
+        "rank": 37,
+        "category": "游戏,数码"
+      },
+      {
+        "raw_hot": 95797,
+        "num": 202669,
+        "word": "深圳失联70余天小伙遗体已找到",
+        "onboard_time": 1760950460,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67880,
+        "num": 202656,
+        "word": "越来越多本科毕业生回炉技校",
+        "onboard_time": 1760964681,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91081,
+        "num": 202637,
+        "word": "王者十周年最好的礼物",
+        "onboard_time": 1760960241,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94872,
+        "num": 202620,
+        "word": "坐高铁再也不用扛行李了",
+        "onboard_time": 1760943742,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92630,
+        "num": 202593,
+        "word": "女子帮母亲大扫除扔掉50万黄金首饰",
+        "onboard_time": 1760959942,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87738,
+        "num": 202579,
+        "word": "慕雨墨苏暮雨 她只是他的妹妹",
+        "onboard_time": 1760963900,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83789,
+        "num": 202551,
+        "word": "卢远问王乐晨真的有心动过吗",
+        "onboard_time": 1760963541,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78541,
+        "num": 202536,
+        "word": "泽连斯基与特朗普对骂",
+        "onboard_time": 1760965221,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78057,
+        "num": 202531,
+        "word": "陈奕迅 红米",
+        "onboard_time": 1760958381,
+        "rank": 46,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 77952,
+        "num": 202508,
+        "word": "多款知名进口药将退出国内市场",
+        "onboard_time": 1760963720,
+        "rank": 47,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 76992,
+        "num": 202487,
+        "word": "特朗普与泽连斯基再度激烈争吵",
+        "onboard_time": 1760951721,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74471,
+        "num": 202470,
+        "word": "刘宇宁夸李木戈导演会拍",
+        "onboard_time": 1760959821,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全会作工作报告#"
+    }
+  }
+}
