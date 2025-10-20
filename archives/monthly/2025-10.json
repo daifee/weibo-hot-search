@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760953048271,
+  "endTime": 1760953772056,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -7259,6 +7259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504726,
+      "num": 1080756,
+      "word": "缅甸政府军突袭KK园区",
+      "onboard_time": 1760950944,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 504285,
       "num": 504285,
       "word": "梁靖崑vs张本智和",
@@ -7625,6 +7633,14 @@
       "onboard_time": 1759826242,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 488753,
+      "num": 1075513,
+      "word": "摇粒绒怎么穿能不显胖",
+      "onboard_time": 1760949200,
+      "rank": 9,
+      "category": "时尚"
     },
     {
       "raw_hot": 488539,
@@ -8025,14 +8041,6 @@
       "onboard_time": 1759484600,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 471958,
-      "num": 1075513,
-      "word": "摇粒绒怎么穿能不显胖",
-      "onboard_time": 1760949200,
-      "rank": 9,
-      "category": "时尚"
     },
     {
       "raw_hot": 471933,
@@ -9156,7 +9164,7 @@
     },
     {
       "raw_hot": 428776,
-      "num": 375390,
+      "num": 417242,
       "word": "深圳失联70余天小伙遗体已找到",
       "onboard_time": 1760950460,
       "rank": 3,
@@ -11083,14 +11091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 354626,
-      "num": 173899,
-      "word": "缅甸政府军突袭KK园区",
-      "onboard_time": 1760950944,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 354564,
       "num": 354564,
       "word": "高市早苗或成日本首个女首相",
@@ -11937,6 +11937,14 @@
       "onboard_time": 1760885602,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 326443,
+      "num": 173809,
+      "word": "王影璐红包",
+      "onboard_time": 1760952081,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 326376,
@@ -14003,6 +14011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 279807,
+      "num": 173804,
+      "word": "孟佳的红包",
+      "onboard_time": 1760952081,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279497,
       "num": 194309,
       "word": "蔡国庆萨顶顶现场争执",
@@ -15011,6 +15027,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 259356,
+      "num": 169099,
+      "word": "陈汉典lulu登记结婚",
+      "onboard_time": 1760952800,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 259175,
       "num": 259175,
       "word": "小城良方",
@@ -15065,6 +15089,14 @@
       "onboard_time": 1759376360,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 257687,
+      "num": 169057,
+      "word": "再见朋友 于正何晟铭",
+      "onboard_time": 1760952680,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 257534,
@@ -16073,14 +16105,6 @@
       "onboard_time": 1760098760,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 240177,
-      "num": 173809,
-      "word": "王影璐红包",
-      "onboard_time": 1760952081,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 239929,
@@ -17603,6 +17627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 215759,
+      "num": 215759,
+      "word": "中方回应中美即将重返谈判桌",
+      "onboard_time": 1760951061,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 215704,
       "num": 244319,
       "word": "菲律宾棉兰老岛附近7.4级地震",
@@ -17641,14 +17673,6 @@
       "onboard_time": 1759817482,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 214998,
-      "num": 173804,
-      "word": "孟佳的红包",
-      "onboard_time": 1760952081,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 214855,
@@ -18913,14 +18937,6 @@
       "onboard_time": 1760529923,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 202189,
-      "num": 202189,
-      "word": "中方回应中美即将重返谈判桌",
-      "onboard_time": 1760951061,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 202163,
@@ -22659,6 +22675,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177368,
+      "num": 177368,
+      "word": "西游记避火罩真的存在",
+      "onboard_time": 1760952742,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 177324,
       "num": 247880,
       "word": "凤戏阳 夏静炎",
@@ -23931,6 +23955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169651,
+      "num": 173832,
+      "word": "特朗普与泽连斯基再度激烈争吵",
+      "onboard_time": 1760951721,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 169610,
       "num": 149417,
       "word": "王楚钦孙颖莎扔花致谢球迷",
@@ -24051,6 +24083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168991,
+      "num": 168991,
+      "word": "AL和T1并列LOL战力榜第三",
+      "onboard_time": 1760953221,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168983,
       "num": 168983,
       "word": "长佩崩了",
@@ -24068,7 +24108,7 @@
     },
     {
       "raw_hot": 168839,
-      "num": 377622,
+      "num": 418325,
       "word": "四中全会",
       "onboard_time": 1760948660,
       "rank": 2,
@@ -25161,14 +25201,6 @@
       "onboard_time": 1760109622,
       "rank": 20,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 163322,
-      "num": 173832,
-      "word": "特朗普与泽连斯基再度激烈争吵",
-      "onboard_time": 1760951721,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 163307,
@@ -27352,6 +27384,14 @@
       "word": "万鹏素颜状态",
       "onboard_time": 1759562661,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152855,
+      "num": 140926,
+      "word": "何超莲曾回应和窦骁婚后生活",
+      "onboard_time": 1760953401,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -30835,14 +30875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138098,
-      "num": 138098,
-      "word": "再见朋友 于正何晟铭",
-      "onboard_time": 1760952680,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 138065,
       "num": 138065,
       "word": "华晨宇2天带动南京汤山21.3万游客量",
@@ -32801,14 +32833,6 @@
       "onboard_time": 1759997961,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 131960,
-      "num": 131960,
-      "word": "陈汉典lulu登记结婚",
-      "onboard_time": 1760952800,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 131921,
@@ -35043,14 +35067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125376,
-      "num": 125376,
-      "word": "西游记避火罩真的存在",
-      "onboard_time": 1760952742,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125362,
       "num": 125362,
       "word": "翁虹给女儿办中式成人礼",
@@ -36729,6 +36745,14 @@
       "onboard_time": 1760598621,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120946,
+      "num": 135656,
+      "word": "黄景瑜你啥肩宽啊",
+      "onboard_time": 1760951362,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 120855,
@@ -42195,14 +42219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108810,
-      "num": 135656,
-      "word": "黄景瑜你啥肩宽啊",
-      "onboard_time": 1760951362,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 108798,
       "num": 108798,
       "word": "邓超 为了家庭我可以随时退休",
@@ -45161,6 +45177,14 @@
       "onboard_time": 1760434401,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102966,
+      "num": 102966,
+      "word": "再见朋友",
+      "onboard_time": 1760953401,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 102940,
@@ -49795,6 +49819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 92539,
+      "num": 92539,
+      "word": "龚俊暗河传热度破7000",
+      "onboard_time": 1760953341,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92536,
       "num": 92536,
       "word": "广州香港街头好多大湾鸡",
@@ -49897,6 +49929,14 @@
       "onboard_time": 1759726461,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 92371,
+      "num": 92371,
+      "word": "少司缘人间芭比",
+      "onboard_time": 1760953580,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 92360,
@@ -52777,6 +52817,14 @@
       "onboard_time": 1759939820,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85448,
+      "num": 133638,
+      "word": "骑手取走苹果17Promax后失联",
+      "onboard_time": 1760952561,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85440,
@@ -55971,6 +56019,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 76495,
+      "num": 173866,
+      "word": "iQOO15配色",
+      "onboard_time": 1760952022,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 76471,
       "num": 76471,
       "word": "市场价3块4护臀霜美容院卖6万",
@@ -56137,14 +56193,6 @@
       "onboard_time": 1760878223,
       "rank": 47,
       "category": "网红"
-    },
-    {
-      "raw_hot": 75763,
-      "num": 133638,
-      "word": "骑手取走苹果17Promax后失联",
-      "onboard_time": 1760952561,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75738,
@@ -59561,14 +59609,6 @@
       "onboard_time": 1760193023,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58280,
-      "num": 173866,
-      "word": "iQOO15配色",
-      "onboard_time": 1760952022,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 58218,
@@ -64027,6 +64067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28843,
+      "num": 134427,
+      "word": "00后是懂如何有效省钱的",
+      "onboard_time": 1760952022,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 28729,
       "num": 155856,
       "word": "对云南启动防汛四级应急响应",
@@ -64859,12 +64907,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23133,
-      "num": 134427,
-      "word": "00后是懂如何有效省钱的",
-      "onboard_time": 1760952022,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 23130,
+      "num": 173927,
+      "word": "天猫双11百大明星",
+      "onboard_time": 1760949861,
+      "rank": 14,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 23126,
@@ -65705,14 +65753,6 @@
       "onboard_time": 1760785283,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 16329,
-      "num": 173927,
-      "word": "天猫双11百大明星",
-      "onboard_time": 1760949861,
-      "rank": 14,
-      "category": "互联网,艺人"
     },
     {
       "raw_hot": 16276,

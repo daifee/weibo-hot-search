@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760953048271,
+  "endTime": 1760953772056,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -547,6 +547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 504726,
+      "num": 1080756,
+      "word": "缅甸政府军突袭KK园区",
+      "onboard_time": 1760950944,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 500773,
       "num": 241661,
       "word": "野人小孩不是个例",
@@ -561,6 +569,14 @@
       "onboard_time": 1760848639,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 488753,
+      "num": 1075513,
+      "word": "摇粒绒怎么穿能不显胖",
+      "onboard_time": 1760949200,
+      "rank": 9,
+      "category": "时尚"
     },
     {
       "raw_hot": 487490,
@@ -585,14 +601,6 @@
       "onboard_time": 1760924839,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 471958,
-      "num": 1075513,
-      "word": "摇粒绒怎么穿能不显胖",
-      "onboard_time": 1760949200,
-      "rank": 9,
-      "category": "时尚"
     },
     {
       "raw_hot": 467810,
@@ -732,7 +740,7 @@
     },
     {
       "raw_hot": 428776,
-      "num": 375390,
+      "num": 417242,
       "word": "深圳失联70余天小伙遗体已找到",
       "onboard_time": 1760950460,
       "rank": 3,
@@ -923,14 +931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 354626,
-      "num": 173899,
-      "word": "缅甸政府军突袭KK园区",
-      "onboard_time": 1760950944,
-      "rank": 16,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 352811,
       "num": 352811,
       "word": "25省份生育津贴直发至个人",
@@ -1001,6 +1001,14 @@
       "onboard_time": 1760885602,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 326443,
+      "num": 173809,
+      "word": "王影璐红包",
+      "onboard_time": 1760952081,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 324678,
@@ -1155,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279807,
+      "num": 173804,
+      "word": "孟佳的红包",
+      "onboard_time": 1760952081,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279439,
       "num": 197817,
       "word": "香港通报飞机冲出跑道坠海",
@@ -1211,12 +1227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259356,
+      "num": 169099,
+      "word": "陈汉典lulu登记结婚",
+      "onboard_time": 1760952800,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258250,
       "num": 1067091,
       "word": "前三季度中国GDP同比增长5.2%",
       "onboard_time": 1760929160,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 257687,
+      "num": 169057,
+      "word": "再见朋友 于正何晟铭",
+      "onboard_time": 1760952680,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 256326,
@@ -1265,14 +1297,6 @@
       "onboard_time": 1760860341,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 240177,
-      "num": 173809,
-      "word": "王影璐红包",
-      "onboard_time": 1760952081,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 239897,
@@ -1427,12 +1451,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 214998,
-      "num": 173804,
-      "word": "孟佳的红包",
-      "onboard_time": 1760952081,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 215759,
+      "num": 215759,
+      "word": "中方回应中美即将重返谈判桌",
+      "onboard_time": 1760951061,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 209154,
@@ -1537,14 +1561,6 @@
       "onboard_time": 1760886981,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202189,
-      "num": 202189,
-      "word": "中方回应中美即将重返谈判桌",
-      "onboard_time": 1760951061,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 201298,
@@ -1851,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 177368,
+      "num": 177368,
+      "word": "西游记避火罩真的存在",
+      "onboard_time": 1760952742,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176942,
       "num": 195229,
       "word": "短剧霸总男团发红包",
@@ -1955,6 +1979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169651,
+      "num": 173832,
+      "word": "特朗普与泽连斯基再度激烈争吵",
+      "onboard_time": 1760951721,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 169145,
       "num": 169145,
       "word": "杨超越瓜子西施不是白叫的",
@@ -1963,8 +1995,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 168991,
+      "num": 168991,
+      "word": "AL和T1并列LOL战力榜第三",
+      "onboard_time": 1760953221,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168839,
-      "num": 377622,
+      "num": 418325,
       "word": "四中全会",
       "onboard_time": 1760948660,
       "rank": 2,
@@ -2089,14 +2129,6 @@
       "onboard_time": 1760829797,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 163322,
-      "num": 173832,
-      "word": "特朗普与泽连斯基再度激烈争吵",
-      "onboard_time": 1760951721,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 161377,
@@ -2257,6 +2289,14 @@
       "onboard_time": 1760948242,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 152855,
+      "num": 140926,
+      "word": "何超莲曾回应和窦骁婚后生活",
+      "onboard_time": 1760953401,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 152758,
@@ -2483,14 +2523,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 138098,
-      "num": 138098,
-      "word": "再见朋友 于正何晟铭",
-      "onboard_time": 1760952680,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 137882,
       "num": 137882,
       "word": "王者荣耀",
@@ -2641,14 +2673,6 @@
       "onboard_time": 1760872101,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131960,
-      "num": 131960,
-      "word": "陈汉典lulu登记结婚",
-      "onboard_time": 1760952800,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 131855,
@@ -2875,14 +2899,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125376,
-      "num": 125376,
-      "word": "西游记避火罩真的存在",
-      "onboard_time": 1760952742,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125344,
       "num": 125344,
       "word": "孙乐言说offer7熟人太多了",
@@ -3017,6 +3033,14 @@
       "onboard_time": 1760854580,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120946,
+      "num": 135656,
+      "word": "黄景瑜你啥肩宽啊",
+      "onboard_time": 1760951362,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 120537,
@@ -3459,14 +3483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 108810,
-      "num": 135656,
-      "word": "黄景瑜你啥肩宽啊",
-      "onboard_time": 1760951362,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 108589,
       "num": 108589,
       "word": "村民回应2年前初见野人孩子",
@@ -3721,6 +3737,14 @@
       "onboard_time": 1760878401,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102966,
+      "num": 102966,
+      "word": "再见朋友",
+      "onboard_time": 1760953401,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 102775,
@@ -4163,6 +4187,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92539,
+      "num": 92539,
+      "word": "龚俊暗河传热度破7000",
+      "onboard_time": 1760953341,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 92371,
+      "num": 92371,
+      "word": "少司缘人间芭比",
+      "onboard_time": 1760953580,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 92116,
       "num": 92116,
       "word": "赛琳娜婚后首亮相",
@@ -4433,6 +4473,14 @@
       "onboard_time": 1760949382,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 85448,
+      "num": 133638,
+      "word": "骑手取走苹果17Promax后失联",
+      "onboard_time": 1760952561,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85266,
@@ -4819,6 +4867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76495,
+      "num": 173866,
+      "word": "iQOO15配色",
+      "onboard_time": 1760952022,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 76325,
       "num": 76325,
       "word": "罗云熙新剧每件乐器都是杀器",
@@ -4865,14 +4921,6 @@
       "onboard_time": 1760878223,
       "rank": 47,
       "category": "网红"
-    },
-    {
-      "raw_hot": 75763,
-      "num": 133638,
-      "word": "骑手取走苹果17Promax后失联",
-      "onboard_time": 1760952561,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75271,
@@ -5209,14 +5257,6 @@
       "onboard_time": 1760882603,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 58280,
-      "num": 173866,
-      "word": "iQOO15配色",
-      "onboard_time": 1760952022,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 57775,
@@ -5619,6 +5659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 28843,
+      "num": 134427,
+      "word": "00后是懂如何有效省钱的",
+      "onboard_time": 1760952022,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27979,
       "num": 87339,
       "word": "在工位偷偷变美的5个动作",
@@ -5715,12 +5763,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23133,
-      "num": 134427,
-      "word": "00后是懂如何有效省钱的",
-      "onboard_time": 1760952022,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 23130,
+      "num": 173927,
+      "word": "天猫双11百大明星",
+      "onboard_time": 1760949861,
+      "rank": 14,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 22810,
@@ -5825,14 +5873,6 @@
       "onboard_time": 1760897295,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 16329,
-      "num": 173927,
-      "word": "天猫双11百大明星",
-      "onboard_time": 1760949861,
-      "rank": 14,
-      "category": "互联网,艺人"
     },
     {
       "raw_hot": 16007,
