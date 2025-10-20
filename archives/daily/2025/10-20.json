@@ -1,6 +1,6 @@
 {
   "startTime": 1760891363500,
-  "endTime": 1760935564786,
+  "endTime": 1760938028654,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -33,6 +33,14 @@
       "onboard_time": 1760930840,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 960326,
+      "num": 960326,
+      "word": "卢远 王乐晨",
+      "onboard_time": 1760935280,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 919314,
@@ -73,6 +81,14 @@
       "onboard_time": 1760929880,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 584308,
+      "num": 584308,
+      "word": "白鹿 谁能给我一个包场链接",
+      "onboard_time": 1760934202,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 574895,
@@ -131,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 443948,
+      "num": 1051099,
+      "word": "为什么美国人要人均两份工",
+      "onboard_time": 1760933302,
+      "rank": 8,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 443528,
       "num": 344870,
       "word": "野人小孩家人称采用自然教育法",
@@ -160,14 +184,6 @@
       "word": "黄宗泽被开价5亿聘金当女婿",
       "onboard_time": 1760869400,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 426676,
-      "num": 426676,
-      "word": "白鹿 谁能给我一个包场链接",
-      "onboard_time": 1760934202,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -227,12 +243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354556,
+      "num": 354556,
+      "word": "下班后唯一愿意收到的消息",
+      "onboard_time": 1760933480,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 339616,
       "num": 339616,
       "word": "陈乔恩25包除湿剂买成25箱",
       "onboard_time": 1760928260,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 328157,
+      "num": 328157,
+      "word": "减肥十斤就是掉了这么多肉",
+      "onboard_time": 1760935223,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 323164,
@@ -243,20 +275,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320153,
-      "num": 1051099,
-      "word": "为什么美国人要人均两份工",
-      "onboard_time": 1760933302,
-      "rank": 8,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 308991,
       "num": 179879,
       "word": "瘦了26斤的面部折叠度",
       "onboard_time": 1760918360,
       "rank": 21,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 305556,
+      "num": 305556,
+      "word": "孟羽童来offer董明珠知道么",
+      "onboard_time": 1760936781,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 302314,
@@ -299,6 +331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258358,
+      "num": 258358,
+      "word": "老外直勾勾盯着中国农村的魔芋",
+      "onboard_time": 1760936663,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258250,
       "num": 1067091,
       "word": "前三季度中国GDP同比增长5.2%",
@@ -313,6 +353,14 @@
       "onboard_time": 1760927721,
       "rank": 1,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 255458,
+      "num": 1039078,
+      "word": "暗河传",
+      "onboard_time": 1760924839,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 247514,
@@ -337,22 +385,6 @@
       "onboard_time": 1760885602,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 243617,
-      "num": 1039078,
-      "word": "暗河传",
-      "onboard_time": 1760924839,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 242956,
-      "num": 242956,
-      "word": "下班后唯一愿意收到的消息",
-      "onboard_time": 1760933480,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 242291,
@@ -403,11 +435,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 205238,
-      "num": 205238,
-      "word": "卢远 王乐晨",
-      "onboard_time": 1760935280,
-      "rank": 25,
+      "raw_hot": 212387,
+      "num": 976076,
+      "word": "心动的信号8",
+      "onboard_time": 1760936542,
+      "rank": 8,
       "category": "综艺"
     },
     {
@@ -468,7 +500,7 @@
     },
     {
       "raw_hot": 197685,
-      "num": 1021273,
+      "num": 1045436,
       "word": "二十届四中全会",
       "onboard_time": 1760918961,
       "rank": 6,
@@ -547,6 +579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178597,
+      "num": 178597,
+      "word": "李二牛扮演者赵荀转型美男",
+      "onboard_time": 1760936182,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176069,
       "num": 176069,
       "word": "余承恩闯进阴湿男鬼赛道",
@@ -556,7 +596,7 @@
     },
     {
       "raw_hot": 174596,
-      "num": 174596,
+      "num": 322462,
       "word": "无限暖暖",
       "onboard_time": 1760935164,
       "rank": 36,
@@ -635,6 +675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160101,
+      "num": 160101,
+      "word": "认不出这是豆得儿",
+      "onboard_time": 1760936781,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 156360,
       "num": 174784,
       "word": "暗河传开播全员大招开团",
@@ -675,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151207,
+      "num": 151207,
+      "word": "入局官宣郭麒麟宋祖儿",
+      "onboard_time": 1760936723,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149370,
       "num": 181841,
       "word": "奥运冠军丁宁任北京先农坛体校校长",
@@ -689,14 +745,6 @@
       "onboard_time": 1760926700,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144932,
-      "num": 144932,
-      "word": "减肥十斤就是掉了这么多肉",
-      "onboard_time": 1760935223,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 144744,
@@ -715,6 +763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139454,
+      "num": 139454,
+      "word": "胡歌你别这样我害怕",
+      "onboard_time": 1760937562,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137882,
       "num": 137882,
       "word": "王者荣耀",
@@ -728,6 +784,30 @@
       "word": "暗河传优酷热度破6000",
       "onboard_time": 1760883202,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128919,
+      "num": 128919,
+      "word": "九重天",
+      "onboard_time": 1760937801,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125973,
+      "num": 151599,
+      "word": "内娱反派要掀桌了",
+      "onboard_time": 1760937680,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125963,
+      "num": 125963,
+      "word": "卢昱晓第一部破万女主剧",
+      "onboard_time": 1760935883,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -787,6 +867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116599,
+      "num": 116599,
+      "word": "当外国小孩看见中国小孩午餐belike",
+      "onboard_time": 1760936902,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115693,
       "num": 197774,
       "word": "入局阵容官宣",
@@ -811,12 +899,52 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110990,
+      "num": 110990,
+      "word": "周大福黄金涨价12%",
+      "onboard_time": 1760937622,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 110900,
+      "num": 110900,
+      "word": "李沁这下真逮到机会了",
+      "onboard_time": 1760937081,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107800,
       "num": 343724,
       "word": "卢浮宫窃贼恐很难销赃",
       "onboard_time": 1760889021,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 107189,
+      "num": 107189,
+      "word": "任敏九重天路透",
+      "onboard_time": 1760937440,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106939,
+      "num": 106939,
+      "word": "在龚俊新剧吃上豪华餐了",
+      "onboard_time": 1760937861,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 106928,
+      "num": 106928,
+      "word": "许魏洲发了30年前的照片",
+      "onboard_time": 1760937861,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 106074,
@@ -873,6 +1001,14 @@
       "onboard_time": 1760931561,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 100691,
+      "num": 100691,
+      "word": "杨超越瓜子西施不是白叫的",
+      "onboard_time": 1760937981,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 99191,
@@ -1147,6 +1283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63369,
+      "num": 322695,
+      "word": "章若楠把自然感具象化了",
+      "onboard_time": 1760937202,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 63273,
       "num": 63273,
       "word": "石宇奇获丹麦赛男单亚军",
@@ -1331,6 +1475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 36042,
+      "num": 1026944,
+      "word": "成毅冰雪心动瞬间",
+      "onboard_time": 1760933302,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 35430,
       "num": 337899,
       "word": "短剧真情侣就是好嗑",
@@ -1345,14 +1497,6 @@
       "onboard_time": 1760876183,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 33864,
-      "num": 1026944,
-      "word": "成毅冰雪心动瞬间",
-      "onboard_time": 1760933302,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 33276,

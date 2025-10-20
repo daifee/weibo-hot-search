@@ -1,0 +1,410 @@
+{
+  "runTime": 1760938028654,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 338814,
+        "num": 1054210,
+        "word": "郑丽文支持者激动落泪说我是中国人",
+        "onboard_time": 1760924119,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146399,
+        "num": 1045436,
+        "word": "二十届四中全会",
+        "onboard_time": 1760918961,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47625,
+        "num": 1037111,
+        "word": "一张图了解四中全会",
+        "onboard_time": 1760919561,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 443948,
+        "num": 1033243,
+        "word": "为什么美国人要人均两份工",
+        "onboard_time": 1760933302,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 386395,
+        "num": 1020030,
+        "word": "水龙吟定档",
+        "onboard_time": 1760929880,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276458,
+        "num": 1004924,
+        "word": "卢浮宫8件失窃藏品清单",
+        "onboard_time": 1760917639,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140763,
+        "num": 991730,
+        "word": "前三季度中国GDP同比增长5.2%",
+        "onboard_time": 1760929160,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 255458,
+        "num": 982913,
+        "word": "暗河传",
+        "onboard_time": 1760934442,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212387,
+        "num": 976076,
+        "word": "心动的信号8",
+        "onboard_time": 1760936542,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140347,
+        "num": 965616,
+        "word": "台风风神已进入我国南海",
+        "onboard_time": 1760919861,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 960326,
+        "num": 960326,
+        "word": "卢远 王乐晨",
+        "onboard_time": 1760935280,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36042,
+        "num": 771498,
+        "word": "成毅冰雪心动瞬间",
+        "onboard_time": 1760933302,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 693723,
+        "num": 693723,
+        "word": "找同学操办婚礼到现场两眼一黑",
+        "onboard_time": 1760926339,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 584308,
+        "num": 584308,
+        "word": "白鹿 谁能给我一个包场链接",
+        "onboard_time": 1760934202,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524815,
+        "num": 524815,
+        "word": "公务员连续旷工超15个工作日被辞退",
+        "onboard_time": 1760930840,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354556,
+        "num": 354556,
+        "word": "下班后唯一愿意收到的消息",
+        "onboard_time": 1760933480,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 345539,
+        "num": 345539,
+        "word": "迪丽热巴新剧搭档陈昊森",
+        "onboard_time": 1760930481,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328157,
+        "num": 328157,
+        "word": "减肥十斤就是掉了这么多肉",
+        "onboard_time": 1760935223,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55879,
+        "num": 323210,
+        "word": "教科书式羽绒服穿搭模板",
+        "onboard_time": 1760935280,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 63369,
+        "num": 322695,
+        "word": "章若楠把自然感具象化了",
+        "onboard_time": 1760937202,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134473,
+        "num": 322462,
+        "word": "无限暖暖",
+        "onboard_time": 1760935164,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 322352,
+        "num": 322352,
+        "word": "李沁和苏暮雨一起破局",
+        "onboard_time": 1760933121,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305556,
+        "num": 305556,
+        "word": "孟羽童来offer董明珠知道么",
+        "onboard_time": 1760936781,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258358,
+        "num": 258358,
+        "word": "老外直勾勾盯着中国农村的魔芋",
+        "onboard_time": 1760936663,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205284,
+        "num": 205284,
+        "word": "黄金",
+        "onboard_time": 1760925259,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178597,
+        "num": 178597,
+        "word": "李二牛扮演者赵荀转型美男",
+        "onboard_time": 1760936182,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172911,
+        "num": 172911,
+        "word": "结婚请柬在机场88块屏幕连播8天",
+        "onboard_time": 1760933900,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160101,
+        "num": 160101,
+        "word": "认不出这是豆得儿",
+        "onboard_time": 1760936781,
+        "rank": 27,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 158615,
+        "num": 158615,
+        "word": "行李员工资高我是一点都不羡慕",
+        "onboard_time": 1760933241,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125973,
+        "num": 151599,
+        "word": "内娱反派要掀桌了",
+        "onboard_time": 1760937680,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151207,
+        "num": 151207,
+        "word": "入局官宣郭麒麟宋祖儿",
+        "onboard_time": 1760936723,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149146,
+        "num": 149146,
+        "word": "任嘉伦受伤",
+        "onboard_time": 1760928501,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139454,
+        "num": 139454,
+        "word": "胡歌你别这样我害怕",
+        "onboard_time": 1760937562,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133839,
+        "num": 133839,
+        "word": "陈乔恩25包除湿剂买成25箱",
+        "onboard_time": 1760928260,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129301,
+        "num": 129301,
+        "word": "iPhone17pro天猫官旗首次降价",
+        "onboard_time": 1760924301,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 128919,
+        "num": 128919,
+        "word": "九重天",
+        "onboard_time": 1760937801,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125963,
+        "num": 125963,
+        "word": "卢昱晓第一部破万女主剧",
+        "onboard_time": 1760935883,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118531,
+        "num": 118531,
+        "word": "差点没认出来这是闫妮",
+        "onboard_time": 1760935280,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116599,
+        "num": 116599,
+        "word": "当外国小孩看见中国小孩午餐belike",
+        "onboard_time": 1760936902,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110990,
+        "num": 110990,
+        "word": "周大福黄金涨价12%",
+        "onboard_time": 1760937622,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110900,
+        "num": 110900,
+        "word": "李沁这下真逮到机会了",
+        "onboard_time": 1760937081,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110879,
+        "num": 110879,
+        "word": "卢浮宫遭劫已立案调查",
+        "onboard_time": 1760927721,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110431,
+        "num": 110431,
+        "word": "谁跟你在一起都会抑郁的",
+        "onboard_time": 1760932581,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107189,
+        "num": 107189,
+        "word": "任敏九重天路透",
+        "onboard_time": 1760937440,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106939,
+        "num": 106939,
+        "word": "在龚俊新剧吃上豪华餐了",
+        "onboard_time": 1760937861,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106928,
+        "num": 106928,
+        "word": "许魏洲发了30年前的照片",
+        "onboard_time": 1760937861,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106832,
+        "num": 106832,
+        "word": "排队5小时花65元买一个网红煎饼",
+        "onboard_time": 1760932581,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100691,
+        "num": 100691,
+        "word": "杨超越瓜子西施不是白叫的",
+        "onboard_time": 1760937981,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99895,
+        "num": 99895,
+        "word": "印媒惊喜美智库把印空军排中国前",
+        "onboard_time": 1760931381,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98352,
+        "num": 99716,
+        "word": "8至10摄氏度降温继续",
+        "onboard_time": 1760921962,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#为何在中国看到了未来看到了信心#"
+    }
+  }
+}
