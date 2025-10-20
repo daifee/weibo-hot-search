@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760980990870,
+  "endTime": 1760982039879,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -38907,6 +38907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117134,
+      "num": 117134,
+      "word": "卢浮宫被盗藏品可在1小时内被分解",
+      "onboard_time": 1760976440,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 117130,
       "num": 117130,
       "word": "LPL第三轮无内战",
@@ -49257,14 +49265,6 @@
       "onboard_time": 1760167881,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 95322,
-      "num": 95322,
-      "word": "卢浮宫被盗藏品可在1小时内被分解",
-      "onboard_time": 1760976440,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 95313,
@@ -64499,6 +64499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 33404,
+      "num": 65274,
+      "word": "罗永浩为何力挺易烊千玺",
+      "onboard_time": 1760980696,
+      "rank": 40,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 33369,
       "num": 100969,
       "word": "李杰灵谈如何平衡能力和野心",
@@ -65081,14 +65089,6 @@
       "onboard_time": 1760797043,
       "rank": 19,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 29747,
-      "num": 65274,
-      "word": "罗永浩为何力挺易烊千玺",
-      "onboard_time": 1760980696,
-      "rank": 40,
-      "category": "艺人,互联网"
     },
     {
       "raw_hot": 29644,
@@ -66409,6 +66409,14 @@
       "onboard_time": 1760723596,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20391,
+      "num": 48920,
+      "word": "暗河传打戏",
+      "onboard_time": 1760981356,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 20352,

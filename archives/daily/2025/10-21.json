@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1760980990870,
+  "endTime": 1760982039879,
   "band_list": [
     {
       "raw_hot": 1101636,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117134,
+      "num": 117134,
+      "word": "卢浮宫被盗藏品可在1小时内被分解",
+      "onboard_time": 1760976440,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 115162,
       "num": 225911,
       "word": "解放军正告澳方立即停止侵权挑衅",
@@ -193,14 +201,6 @@
       "onboard_time": 1760974402,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95322,
-      "num": 95322,
-      "word": "卢浮宫被盗藏品可在1小时内被分解",
-      "onboard_time": 1760976440,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 94622,
@@ -403,7 +403,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 29747,
+      "raw_hot": 33404,
       "num": 65274,
       "word": "罗永浩为何力挺易烊千玺",
       "onboard_time": 1760980696,
@@ -425,6 +425,14 @@
       "onboard_time": 1760961022,
       "rank": 46,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 20391,
+      "num": 48920,
+      "word": "暗河传打戏",
+      "onboard_time": 1760981356,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 1614,
