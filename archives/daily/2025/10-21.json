@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1760996352965,
+  "endTime": 1760999049460,
   "band_list": [
     {
       "raw_hot": 1101636,
@@ -65,6 +65,14 @@
       "onboard_time": 1760974640,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218380,
+      "num": 71677,
+      "word": "被冻醒",
+      "onboard_time": 1760985853,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 189660,
@@ -139,14 +147,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 141680,
-      "num": 43306,
-      "word": "被冻醒",
-      "onboard_time": 1760985853,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 129587,
       "num": 129587,
       "word": "马龙回复王楚钦",
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 117134,
-      "num": 176208,
+      "num": 372857,
       "word": "卢浮宫被盗藏品可在1小时内被分解",
       "onboard_time": 1760976440,
       "rank": 36,
@@ -427,6 +427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 27256,
+      "num": 27256,
+      "word": "新高铁小桌板有手机支架",
+      "onboard_time": 1760991315,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25048,
       "num": 65031,
       "word": "VOGUE",
@@ -451,14 +459,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 16685,
-      "num": 23725,
-      "word": "新高铁小桌板有手机支架",
-      "onboard_time": 1760991315,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16002,
       "num": 36885,
       "word": "开暖气",
@@ -467,20 +467,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14705,
+      "num": 23679,
+      "word": "卢浮宫盗窃案将寻求以色列安保调查",
+      "onboard_time": 1760991913,
+      "rank": 49,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 13776,
       "num": 36863,
       "word": "宴遇永安",
       "onboard_time": 1760984174,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12731,
-      "num": 23679,
-      "word": "卢浮宫盗窃案将寻求以色列安保调查",
-      "onboard_time": 1760991913,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 1614,
