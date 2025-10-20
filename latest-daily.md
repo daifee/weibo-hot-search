@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/21 00:32:44 ~ 2025/10/21 02:38:07
+本榜单时间：2025/10/21 00:32:44 ~ 2025/10/21 02:52:01
 </p>
 </blockquote>
 <p>
@@ -335,6 +335,12 @@ VOGUE（热度：25048）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%B2%B3%E4%BC%A0%E6%89%93%E6%88%8F%23" target="weibo">
 暗河传打戏（热度：20391）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%86%BB%E9%86%92%23" target="weibo">
+被冻醒（热度：18633）
 </a>
 </li>
 
