@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760942363090,
+  "endTime": 1760943104977,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -251,6 +251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 719341,
+      "num": 1115094,
+      "word": "英国奶奶因汶川地震留中国17年",
+      "onboard_time": 1760939841,
+      "rank": 1,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 717000,
       "num": 247155,
       "word": "跳河新郎亲属放弃追究新娘方责任",
@@ -323,20 +331,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 664589,
+      "num": 584958,
+      "word": "美媒爆特朗普疑似险遭暗杀",
+      "onboard_time": 1760939541,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 616626,
       "num": 616626,
       "word": "南通vs无锡",
       "onboard_time": 1760875702,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 612956,
-      "num": 612956,
-      "word": "英国奶奶因汶川地震留中国17年",
-      "onboard_time": 1760939841,
-      "rank": 1,
-      "category": "正能量"
     },
     {
       "raw_hot": 601734,
@@ -353,14 +361,6 @@
       "onboard_time": 1760859023,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 584958,
-      "num": 584958,
-      "word": "美媒爆特朗普疑似险遭暗杀",
-      "onboard_time": 1760939541,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 584308,
@@ -659,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 416981,
+      "num": 468605,
+      "word": "红包",
+      "onboard_time": 1760941461,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 413662,
       "num": 413662,
       "word": "徐艺洋回复谢可寅",
@@ -731,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 384812,
+      "num": 344812,
+      "word": "卢远王乐晨彻底be",
+      "onboard_time": 1760940082,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384557,
       "num": 384557,
       "word": "杨振宁与二次诺奖失之交臂",
@@ -761,6 +777,14 @@
       "onboard_time": 1760869762,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 372089,
+      "num": 297648,
+      "word": "陈小春和应采儿吵完架把自己哄好了",
+      "onboard_time": 1760938701,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 369633,
@@ -827,14 +851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 344812,
-      "num": 344812,
-      "word": "卢远王乐晨彻底be",
-      "onboard_time": 1760940082,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 339616,
       "num": 339616,
       "word": "陈乔恩25包除湿剂买成25箱",
@@ -857,6 +873,14 @@
       "onboard_time": 1760840060,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 330038,
+      "num": 222050,
+      "word": "麦当劳 粤菜",
+      "onboard_time": 1760941702,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 326562,
@@ -963,14 +987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 297648,
-      "num": 297648,
-      "word": "陈小春和应采儿吵完架把自己哄好了",
-      "onboard_time": 1760938701,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 291634,
       "num": 262206,
       "word": "杨振宁20年前预言已基本实现",
@@ -1051,6 +1067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266107,
+      "num": 440458,
+      "word": "两京十五日",
+      "onboard_time": 1760941042,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262102,
       "num": 457546,
       "word": "杨振宁逝世",
@@ -1104,14 +1128,6 @@
       "word": "利剑玫瑰",
       "onboard_time": 1760860341,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 239396,
-      "num": 440458,
-      "word": "两京十五日",
-      "onboard_time": 1760941042,
-      "rank": 7,
       "category": "剧集"
     },
     {
@@ -1171,14 +1187,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 233419,
-      "num": 468605,
-      "word": "红包",
-      "onboard_time": 1760941461,
-      "rank": 5,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 227553,
       "num": 227553,
       "word": "狗 接完你的接你的",
@@ -1201,6 +1209,14 @@
       "onboard_time": 1760915539,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227028,
+      "num": 227028,
+      "word": "25省份生育津贴直发至个人",
+      "onboard_time": 1760939182,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 224441,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1760881283,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 219449,
+      "num": 219449,
+      "word": "女主马甲掉了男主更爱了",
+      "onboard_time": 1760941221,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 218294,
@@ -1387,14 +1411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198211,
-      "num": 198211,
-      "word": "女主马甲掉了男主更爱了",
-      "onboard_time": 1760941221,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 197685,
       "num": 1045436,
       "word": "二十届四中全会",
@@ -1467,14 +1483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191110,
-      "num": 191110,
-      "word": "麦当劳 粤菜",
-      "onboard_time": 1760941702,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 190509,
       "num": 190509,
       "word": "陈小春谈跟儿子交流太少落泪",
@@ -1505,14 +1513,6 @@
       "onboard_time": 1760875222,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186938,
-      "num": 197153,
-      "word": "25省份生育津贴直发至个人",
-      "onboard_time": 1760939182,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 185807,
@@ -2099,6 +2099,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 147239,
+      "num": 147239,
+      "word": "零下底妆不崩的秘密",
+      "onboard_time": 1760942420,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 146474,
       "num": 146474,
       "word": "马思纯一句话点破旅行真相",
@@ -2155,6 +2163,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 139941,
+      "num": 139941,
+      "word": "新娘回应请柬霸屏机场8天遭质疑",
+      "onboard_time": 1760939182,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139608,
       "num": 139608,
       "word": "AG对战TTG",
@@ -2177,6 +2193,14 @@
       "onboard_time": 1760858361,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138391,
+      "num": 138391,
+      "word": "王者荣耀十周年",
+      "onboard_time": 1760942721,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 138313,
@@ -2329,14 +2353,6 @@
       "onboard_time": 1760872101,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132178,
-      "num": 132178,
-      "word": "新娘回应请柬霸屏机场8天遭质疑",
-      "onboard_time": 1760939182,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 131855,
@@ -2843,6 +2859,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 113804,
+      "num": 113804,
+      "word": "蔡徐坤把奖杯当麦克风",
+      "onboard_time": 1760940021,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113245,
       "num": 113245,
       "word": "十年前买的衣服",
@@ -2873,6 +2897,14 @@
       "onboard_time": 1760798183,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112137,
+      "num": 112137,
+      "word": "卢浮宫大劫案案情披露",
+      "onboard_time": 1760941461,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 111679,
@@ -3171,6 +3203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 103543,
+      "num": 103543,
+      "word": "朱开算TES遇到BLG的概率",
+      "onboard_time": 1760942841,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103186,
       "num": 103186,
       "word": "杜兰特与火箭续约两年",
@@ -3217,14 +3257,6 @@
       "onboard_time": 1760929759,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 102590,
-      "num": 102590,
-      "word": "卢浮宫大劫案案情披露",
-      "onboard_time": 1760941461,
-      "rank": 49,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 102514,
@@ -3355,14 +3387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98124,
-      "num": 103366,
-      "word": "蔡徐坤把奖杯当麦克风",
-      "onboard_time": 1760940021,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 97852,
       "num": 97852,
       "word": "杨振宁晚年在清华缅怀室楼里工作",
@@ -3417,6 +3441,14 @@
       "onboard_time": 1760880141,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96209,
+      "num": 96209,
+      "word": "绘旅人恋恋奇踪",
+      "onboard_time": 1760943021,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 95990,
@@ -4099,6 +4131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78469,
+      "num": 323887,
+      "word": "二十届四中全会开始举行",
+      "onboard_time": 1760940800,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 78415,
       "num": 78415,
       "word": "杨超越是徐志胜的事业粉",
@@ -4299,6 +4339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72164,
+      "num": 300489,
+      "word": "KimJones入职波司登",
+      "onboard_time": 1760940380,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 72122,
       "num": 72122,
       "word": "勇敢的小朋友先享受世界",
@@ -4329,14 +4377,6 @@
       "onboard_time": 1760784802,
       "rank": 19,
       "category": "海外新闻,体育"
-    },
-    {
-      "raw_hot": 70810,
-      "num": 323887,
-      "word": "二十届四中全会开始举行",
-      "onboard_time": 1760940800,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 69624,
@@ -4425,6 +4465,14 @@
       "onboard_time": 1760810356,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64975,
+      "num": 220103,
+      "word": "翁帆大一时认识杨振宁",
+      "onboard_time": 1760942900,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64183,
@@ -4659,6 +4707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50026,
+      "num": 113854,
+      "word": "WTT发文为马龙梁靖崑庆生",
+      "onboard_time": 1760942542,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50007,
       "num": 102433,
       "word": "卖仔青蛙服火爆美国",
@@ -4681,14 +4737,6 @@
       "onboard_time": 1760806340,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 48295,
-      "num": 300489,
-      "word": "KimJones入职波司登",
-      "onboard_time": 1760940380,
-      "rank": 19,
-      "category": "时尚"
     },
     {
       "raw_hot": 47464,
@@ -4755,6 +4803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42070,
+      "num": 331429,
+      "word": "今天的红包抢完他的抢她的",
+      "onboard_time": 1760941042,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 40774,
       "num": 64577,
       "word": "每个省都有自己专属应急食物",
@@ -4793,14 +4849,6 @@
       "onboard_time": 1760828897,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39119,
-      "num": 331429,
-      "word": "今天的红包抢完他的抢她的",
-      "onboard_time": 1760941042,
-      "rank": 14,
-      "category": "互联网"
     },
     {
       "raw_hot": 38947,
@@ -5225,6 +5273,14 @@
       "onboard_time": 1760856080,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8877,
+      "num": 113993,
+      "word": "鞠婧祎剧综人物90花第4个破70万",
+      "onboard_time": 1760943021,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 6140,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1760943104977,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 719341,
+        "num": 1115094,
+        "word": "英国奶奶因汶川地震留中国17年",
+        "onboard_time": 1760939841,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 657472,
+        "num": 657472,
+        "word": "老外直勾勾盯着中国农村的魔芋",
+        "onboard_time": 1760936663,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33514,
+        "num": 492872,
+        "word": "一张图了解四中全会",
+        "onboard_time": 1760919561,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 442239,
+        "num": 442239,
+        "word": "暗河传",
+        "onboard_time": 1760934442,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416981,
+        "num": 416981,
+        "word": "红包",
+        "onboard_time": 1760941461,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 227028,
+        "num": 227028,
+        "word": "25省份生育津贴直发至个人",
+        "onboard_time": 1760939182,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330330,
+        "num": 226627,
+        "word": "水龙吟定档",
+        "onboard_time": 1760929880,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266107,
+        "num": 226539,
+        "word": "两京十五日",
+        "onboard_time": 1760941042,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174545,
+        "num": 225886,
+        "word": "卢浮宫8件失窃藏品清单",
+        "onboard_time": 1760917639,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147081,
+        "num": 225393,
+        "word": "为什么美国人要人均两份工",
+        "onboard_time": 1760933302,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 708231,
+        "num": 225158,
+        "word": "潮玩平台退款要求扇孩子耳光5分钟",
+        "onboard_time": 1760939240,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 705534,
+        "num": 224772,
+        "word": "卢远 王乐晨",
+        "onboard_time": 1760935280,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 664589,
+        "num": 224019,
+        "word": "美媒爆特朗普疑似险遭暗杀",
+        "onboard_time": 1760939541,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 470881,
+        "num": 223655,
+        "word": "减肥十斤就是掉了这么多肉",
+        "onboard_time": 1760935223,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42070,
+        "num": 223433,
+        "word": "今天的红包抢完他的抢她的",
+        "onboard_time": 1760941042,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 384812,
+        "num": 222705,
+        "word": "卢远王乐晨彻底be",
+        "onboard_time": 1760940082,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372089,
+        "num": 222381,
+        "word": "陈小春和应采儿吵完架把自己哄好了",
+        "onboard_time": 1760938701,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330038,
+        "num": 222050,
+        "word": "麦当劳 粤菜",
+        "onboard_time": 1760941702,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 72164,
+        "num": 221358,
+        "word": "KimJones入职波司登",
+        "onboard_time": 1760940380,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 272207,
+        "num": 220863,
+        "word": "白鹿 谁能给我一个包场链接",
+        "onboard_time": 1760934202,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270840,
+        "num": 220528,
+        "word": "找同学操办婚礼到现场两眼一黑",
+        "onboard_time": 1760926339,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64975,
+        "num": 220103,
+        "word": "翁帆大一时认识杨振宁",
+        "onboard_time": 1760942900,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261002,
+        "num": 219840,
+        "word": "下班后唯一愿意收到的消息",
+        "onboard_time": 1760933480,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 219449,
+        "num": 219449,
+        "word": "女主马甲掉了男主更爱了",
+        "onboard_time": 1760941221,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201550,
+        "num": 201550,
+        "word": "迪丽热巴新剧搭档陈昊森",
+        "onboard_time": 1760930481,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75772,
+        "num": 185028,
+        "word": "易烊千玺演活了科技霸总",
+        "onboard_time": 1760938580,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178528,
+        "num": 178528,
+        "word": "公务员连续旷工超15个工作日被辞退",
+        "onboard_time": 1760930840,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165640,
+        "num": 165640,
+        "word": "短剧霸总男团发红包",
+        "onboard_time": 1760941280,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29440,
+        "num": 165622,
+        "word": "今天的微博是懂发红包的",
+        "onboard_time": 1760940380,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 165608,
+        "num": 165608,
+        "word": "孟羽童来offer董明珠知道么",
+        "onboard_time": 1760936781,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147239,
+        "num": 147239,
+        "word": "零下底妆不崩的秘密",
+        "onboard_time": 1760942420,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 139941,
+        "num": 139941,
+        "word": "新娘回应请柬霸屏机场8天遭质疑",
+        "onboard_time": 1760939182,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138391,
+        "num": 138391,
+        "word": "王者荣耀十周年",
+        "onboard_time": 1760942721,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133078,
+        "num": 133078,
+        "word": "前三季度中国GDP同比增长5.2%",
+        "onboard_time": 1760929160,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 132300,
+        "num": 132300,
+        "word": "罗云熙评论区好多人啊",
+        "onboard_time": 1760941641,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130905,
+        "num": 130905,
+        "word": "VOGUE缪斯阵容",
+        "onboard_time": 1760939659,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 126313,
+        "num": 126313,
+        "word": "成毅演技",
+        "onboard_time": 1760938701,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119963,
+        "num": 119963,
+        "word": "李二牛扮演者赵荀转型美男",
+        "onboard_time": 1760936182,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8877,
+        "num": 113993,
+        "word": "鞠婧祎剧综人物90花第4个破70万",
+        "onboard_time": 1760943021,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50026,
+        "num": 113854,
+        "word": "WTT发文为马龙梁靖崑庆生",
+        "onboard_time": 1760942542,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78469,
+        "num": 113811,
+        "word": "二十届四中全会开始举行",
+        "onboard_time": 1760940800,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113804,
+        "num": 113804,
+        "word": "蔡徐坤把奖杯当麦克风",
+        "onboard_time": 1760940021,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112137,
+        "num": 112137,
+        "word": "卢浮宫大劫案案情披露",
+        "onboard_time": 1760941461,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103633,
+        "num": 103633,
+        "word": "郑丽文支持者激动落泪说我是中国人",
+        "onboard_time": 1760924119,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111039,
+        "num": 103589,
+        "word": "卢浮宫遭劫已立案调查",
+        "onboard_time": 1760927721,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103543,
+        "num": 103543,
+        "word": "朱开算TES遇到BLG的概率",
+        "onboard_time": 1760942841,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98439,
+        "num": 98439,
+        "word": "心动的信号8",
+        "onboard_time": 1760936542,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96344,
+        "num": 96344,
+        "word": "黄金",
+        "onboard_time": 1760925259,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96209,
+        "num": 96209,
+        "word": "绘旅人恋恋奇踪",
+        "onboard_time": 1760943021,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93755,
+        "num": 93755,
+        "word": "入局官宣郭麒麟宋祖儿",
+        "onboard_time": 1760936723,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#为何在中国看到了未来看到了信心#"
+    }
+  }
+}
