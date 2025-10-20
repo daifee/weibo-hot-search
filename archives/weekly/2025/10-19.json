@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760967343255,
+  "endTime": 1760968028842,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -483,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 572684,
+      "num": 416220,
+      "word": "男孩被戳伤失明园长用猪油消肿后续",
+      "onboard_time": 1760962881,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 572649,
       "num": 285778,
       "word": "翁帆说有他多年的陪伴我何其有幸",
@@ -659,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 461258,
+      "num": 461258,
+      "word": "韩国选手破了孙杨亚洲纪录",
+      "onboard_time": 1760961501,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 460171,
       "num": 249807,
       "word": "黄磊摔的是手机留的是观剧体验",
@@ -697,14 +713,6 @@
       "onboard_time": 1760800763,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 453119,
-      "num": 453119,
-      "word": "韩国选手破了孙杨亚洲纪录",
-      "onboard_time": 1760961501,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 452513,
@@ -792,14 +800,6 @@
       "word": "深圳失联70余天小伙遗体已找到",
       "onboard_time": 1760950460,
       "rank": 3,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 423060,
-      "num": 416220,
-      "word": "男孩被戳伤失明园长用猪油消肿后续",
-      "onboard_time": 1760962881,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -1275,6 +1275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 278496,
+      "num": 415685,
+      "word": "教育局回应老师上课玩手机麻将",
+      "onboard_time": 1760963481,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272103,
       "num": 998681,
       "word": "心动的信号8",
@@ -1321,6 +1329,14 @@
       "onboard_time": 1760761410,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259452,
+      "num": 416954,
+      "word": "入青云偏偏你最争气",
+      "onboard_time": 1760964742,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 258250,
@@ -1443,20 +1459,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234874,
+      "num": 414019,
+      "word": "9岁男孩患儿童癌症之王",
+      "onboard_time": 1760966421,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 234824,
       "num": 1026894,
       "word": "美国多地爆发反特朗普集会",
       "onboard_time": 1760850800,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 227887,
-      "num": 415685,
-      "word": "教育局回应老师上课玩手机麻将",
-      "onboard_time": 1760963481,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227553,
@@ -1480,14 +1496,6 @@
       "word": "侯明昊看到破万后激动的飞奔出去了",
       "onboard_time": 1760915539,
       "rank": 20,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 227069,
-      "num": 416954,
-      "word": "入青云偏偏你最争气",
-      "onboard_time": 1760964742,
-      "rank": 46,
       "category": "剧集"
     },
     {
@@ -1635,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204637,
+      "num": 416631,
+      "word": "KSG战胜JDG",
+      "onboard_time": 1760966902,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204578,
       "num": 183055,
       "word": "焕新极氪7X开启预售",
@@ -1777,6 +1793,14 @@
       "onboard_time": 1760833822,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 195722,
+      "num": 416501,
+      "word": "暗河传首播反馈",
+      "onboard_time": 1760966240,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 195521,
@@ -1923,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185640,
+      "num": 414581,
+      "word": "男子回应翻妻子手机发现和8人暧昧",
+      "onboard_time": 1760966123,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185558,
       "num": 185558,
       "word": "一个吃饭免排队的邪修方法",
@@ -2025,14 +2057,6 @@
       "onboard_time": 1760877200,
       "rank": 22,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 178997,
-      "num": 416631,
-      "word": "KSG战胜JDG",
-      "onboard_time": 1760966902,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 178874,
@@ -2179,14 +2203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169124,
-      "num": 414581,
-      "word": "男子回应翻妻子手机发现和8人暧昧",
-      "onboard_time": 1760966123,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168991,
       "num": 168991,
       "word": "AL和T1并列LOL战力榜第三",
@@ -2307,14 +2323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164314,
-      "num": 416501,
-      "word": "暗河传首播反馈",
-      "onboard_time": 1760966240,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 164294,
       "num": 164294,
       "word": "司机高速快车道停车逼停大量车",
@@ -2417,14 +2425,6 @@
       "onboard_time": 1760965100,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157397,
-      "num": 414019,
-      "word": "9岁男孩患儿童癌症之王",
-      "onboard_time": 1760966421,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 157340,
@@ -2729,6 +2729,14 @@
       "onboard_time": 1760862440,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 143091,
+      "num": 143091,
+      "word": "KPL",
+      "onboard_time": 1760967500,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 142242,
@@ -3219,6 +3227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 125577,
+      "num": 413084,
+      "word": "张继科杯团体赛昆山站来了",
+      "onboard_time": 1760967261,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125519,
       "num": 125519,
       "word": "一诺继续朝着目标努力",
@@ -3355,6 +3371,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 122268,
+      "num": 122268,
+      "word": "羽绒服推荐",
+      "onboard_time": 1760967862,
+      "rank": 24,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 122149,
       "num": 307178,
       "word": "开纵横G700越野从从容容游刃有余",
@@ -3393,6 +3417,14 @@
       "onboard_time": 1760854580,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121002,
+      "num": 412276,
+      "word": "中国游客拍到卢浮宫盗窃案事发现场",
+      "onboard_time": 1760966059,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 120946,
@@ -3457,6 +3489,14 @@
       "onboard_time": 1760884522,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118760,
+      "num": 118760,
+      "word": "王楚钦祝马龙生日快乐",
+      "onboard_time": 1760967741,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 118737,
@@ -3603,6 +3643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 116383,
+      "num": 411731,
+      "word": "泽连斯基与特朗普对骂",
+      "onboard_time": 1760965221,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115693,
       "num": 197774,
       "word": "入局阵容官宣",
@@ -3673,14 +3721,6 @@
       "onboard_time": 1760955621,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 113386,
-      "num": 413084,
-      "word": "张继科杯团体赛昆山站来了",
-      "onboard_time": 1760967261,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 113268,
@@ -4083,14 +4123,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 104878,
-      "num": 412276,
-      "word": "中国游客拍到卢浮宫盗窃案事发现场",
-      "onboard_time": 1760966059,
-      "rank": 34,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 104575,
       "num": 124347,
       "word": "一路繁花这季的俩男仆是谁",
@@ -4145,6 +4177,14 @@
       "onboard_time": 1760926941,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 103792,
+      "num": 409803,
+      "word": "这哪是水龙吟这是水龙going",
+      "onboard_time": 1760967082,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 103667,
@@ -4297,14 +4337,6 @@
       "onboard_time": 1760951421,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101553,
-      "num": 411731,
-      "word": "泽连斯基与特朗普对骂",
-      "onboard_time": 1760965221,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 101513,
@@ -4595,6 +4627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95255,
+      "num": 410902,
+      "word": "宁德时代第三季度净利润185亿",
+      "onboard_time": 1760967320,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 94995,
       "num": 94995,
       "word": "加沙再起硝烟",
@@ -4761,6 +4801,14 @@
       "onboard_time": 1760953341,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92383,
+      "num": 410419,
+      "word": "卢远问王乐晨真的有心动过吗",
+      "onboard_time": 1760963541,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 92371,
@@ -5027,28 +5075,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 87817,
-      "num": 410419,
-      "word": "卢远问王乐晨真的有心动过吗",
-      "onboard_time": 1760963541,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 87584,
       "num": 87584,
       "word": "宠物店给每个小狗毛巾都写了名字",
       "onboard_time": 1760850441,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 87476,
-      "num": 410902,
-      "word": "宁德时代第三季度净利润185亿",
-      "onboard_time": 1760967320,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 87472,
@@ -5097,6 +5129,14 @@
       "onboard_time": 1760858361,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85922,
+      "num": 125499,
+      "word": "双十一天猫买美妆立省1500",
+      "onboard_time": 1760967622,
+      "rank": 18,
+      "category": "互联网,美妆"
     },
     {
       "raw_hot": 85671,
@@ -5568,14 +5608,6 @@
       "word": "罗云熙新剧每件乐器都是杀器",
       "onboard_time": 1760845580,
       "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 76250,
-      "num": 409803,
-      "word": "这哪是水龙吟这是水龙going",
-      "onboard_time": 1760967082,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -6363,6 +6395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34548,
+      "num": 411926,
+      "word": "找到了戴冷帽不塌头型的方法",
+      "onboard_time": 1760966902,
+      "rank": 36,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 33623,
       "num": 117832,
       "word": "文韬被外国友人搭讪",
@@ -6547,6 +6587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23329,
+      "num": 411398,
+      "word": "当海尔工程师遇见互联网嘴替",
+      "onboard_time": 1760966001,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23130,
       "num": 173927,
       "word": "天猫双11百大明星",
@@ -6561,14 +6609,6 @@
       "onboard_time": 1760815215,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 21645,
-      "num": 411398,
-      "word": "当海尔工程师遇见互联网嘴替",
-      "onboard_time": 1760966001,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21502,
@@ -6601,14 +6641,6 @@
       "onboard_time": 1760857281,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 20394,
-      "num": 411926,
-      "word": "找到了戴冷帽不塌头型的方法",
-      "onboard_time": 1760966902,
-      "rank": 36,
-      "category": "时尚"
     },
     {
       "raw_hot": 20066,

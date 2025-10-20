@@ -1,0 +1,410 @@
+{
+  "runTime": 1760968028842,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2066836,
+        "num": 2066836,
+        "word": "双十一 没便宜",
+        "onboard_time": 1760963481,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 461258,
+        "num": 461258,
+        "word": "韩国选手破了孙杨亚洲纪录",
+        "onboard_time": 1760961501,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67319,
+        "num": 381356,
+        "word": "四中全会",
+        "onboard_time": 1760948660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 360834,
+        "num": 360834,
+        "word": "解放军正告澳方立即停止侵权挑衅",
+        "onboard_time": 1760954121,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 219475,
+        "num": 219475,
+        "word": "红包",
+        "onboard_time": 1760941461,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 259452,
+        "num": 219448,
+        "word": "入青云偏偏你最争气",
+        "onboard_time": 1760964742,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204637,
+        "num": 204637,
+        "word": "KSG战胜JDG",
+        "onboard_time": 1760966902,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195722,
+        "num": 195722,
+        "word": "暗河传首播反馈",
+        "onboard_time": 1760966240,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157723,
+        "num": 157723,
+        "word": "缅甸政府军突袭KK园区",
+        "onboard_time": 1760950944,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143091,
+        "num": 143091,
+        "word": "KPL",
+        "onboard_time": 1760967500,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 572684,
+        "num": 141805,
+        "word": "男孩被戳伤失明园长用猪油消肿后续",
+        "onboard_time": 1760962881,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 278496,
+        "num": 140463,
+        "word": "教育局回应老师上课玩手机麻将",
+        "onboard_time": 1760963481,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257848,
+        "num": 139118,
+        "word": "赵丽颖直播",
+        "onboard_time": 1760961802,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214318,
+        "num": 138575,
+        "word": "肖战刘铮亮手术服造型路透",
+        "onboard_time": 1760961562,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169148,
+        "num": 137304,
+        "word": "VOGUE",
+        "onboard_time": 1760961022,
+        "rank": 14,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 165557,
+        "num": 135295,
+        "word": "黄金饰品调价",
+        "onboard_time": 1760960300,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 134969,
+        "num": 134969,
+        "word": "平台回应退款要扇孩子耳光5分钟",
+        "onboard_time": 1760943561,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125577,
+        "num": 125577,
+        "word": "张继科杯团体赛昆山站来了",
+        "onboard_time": 1760967261,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85922,
+        "num": 125499,
+        "word": "双十一天猫买美妆立省1500",
+        "onboard_time": 1760967622,
+        "rank": 18,
+        "category": "互联网,美妆"
+      },
+      {
+        "raw_hot": 32394,
+        "num": 124610,
+        "word": "十人团战超丝滑MVP稳稳拿",
+        "onboard_time": 1760965581,
+        "rank": 19,
+        "category": "游戏,数码"
+      },
+      {
+        "raw_hot": 234874,
+        "num": 124157,
+        "word": "9岁男孩患儿童癌症之王",
+        "onboard_time": 1760966421,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86531,
+        "num": 123751,
+        "word": "喜人奇妙夜神经病赛道也集齐了",
+        "onboard_time": 1760961501,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90509,
+        "num": 123167,
+        "word": "iQOO15首发王者荣耀144FPS",
+        "onboard_time": 1760965521,
+        "rank": 22,
+        "category": "数码,游戏"
+      },
+      {
+        "raw_hot": 185640,
+        "num": 122653,
+        "word": "男子回应翻妻子手机发现和8人暧昧",
+        "onboard_time": 1760966123,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122268,
+        "num": 122268,
+        "word": "羽绒服推荐",
+        "onboard_time": 1760967862,
+        "rank": 24,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 121002,
+        "num": 121002,
+        "word": "中国游客拍到卢浮宫盗窃案事发现场",
+        "onboard_time": 1760966059,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110702,
+        "num": 119404,
+        "word": "双11付尾款",
+        "onboard_time": 1760962040,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118760,
+        "num": 118760,
+        "word": "王楚钦祝马龙生日快乐",
+        "onboard_time": 1760967741,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113110,
+        "num": 113110,
+        "word": "中方奉劝巴拉圭早日做出正确决断",
+        "onboard_time": 1760961441,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116383,
+        "num": 111888,
+        "word": "泽连斯基与特朗普对骂",
+        "onboard_time": 1760965221,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117725,
+        "num": 110700,
+        "word": "她这一套下来我要躺到明年10月",
+        "onboard_time": 1760966722,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107522,
+        "num": 108998,
+        "word": "购物金 没到账",
+        "onboard_time": 1760965641,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 108636,
+        "num": 108636,
+        "word": "外籍游客扎堆寿衣店试穿购买",
+        "onboard_time": 1760946440,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107915,
+        "num": 107915,
+        "word": "梁靖崑逆转乾崑蛋糕",
+        "onboard_time": 1760965100,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34548,
+        "num": 105883,
+        "word": "找到了戴冷帽不塌头型的方法",
+        "onboard_time": 1760966902,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 104249,
+        "num": 104249,
+        "word": "清融状态",
+        "onboard_time": 1760960121,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103792,
+        "num": 103792,
+        "word": "这哪是水龙吟这是水龙going",
+        "onboard_time": 1760967082,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100046,
+        "num": 103789,
+        "word": "骑手取走苹果17Promax后失联",
+        "onboard_time": 1760952561,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95770,
+        "num": 103787,
+        "word": "建议打工人抽空去一趟景德镇",
+        "onboard_time": 1760960300,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 95255,
+        "num": 103783,
+        "word": "宁德时代第三季度净利润185亿",
+        "onboard_time": 1760967320,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 23329,
+        "num": 103777,
+        "word": "当海尔工程师遇见互联网嘴替",
+        "onboard_time": 1760966001,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94929,
+        "num": 103776,
+        "word": "越来越多本科毕业生回炉技校",
+        "onboard_time": 1760964681,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92383,
+        "num": 103774,
+        "word": "卢远问王乐晨真的有心动过吗",
+        "onboard_time": 1760963541,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88755,
+        "num": 103768,
+        "word": "卢远发长文告别心动的信号",
+        "onboard_time": 1760960481,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88430,
+        "num": 103764,
+        "word": "刘宇宁直播",
+        "onboard_time": 1760961321,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88170,
+        "num": 103761,
+        "word": "坐高铁再也不用扛行李了",
+        "onboard_time": 1760943742,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83977,
+        "num": 103757,
+        "word": "九寨沟烤肠",
+        "onboard_time": 1760946981,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 81656,
+        "num": 103753,
+        "word": "JDG对战KSG",
+        "onboard_time": 1760956941,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80502,
+        "num": 103752,
+        "word": "美国新型毒品兴起",
+        "onboard_time": 1760961261,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 77943,
+        "num": 103744,
+        "word": "南昌大学秋招现露骨女主播招聘海报",
+        "onboard_time": 1760959161,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届四中全会在北京开始举行#"
+    }
+  }
+}
