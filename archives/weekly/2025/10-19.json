@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760989001070,
+  "endTime": 1760992217456,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -7131,6 +7131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16674,
+      "num": 16674,
+      "word": "新高铁小桌板有手机支架",
+      "onboard_time": 1760991315,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16007,
       "num": 32374,
       "word": "清华邻居悼念杨振宁",
@@ -7193,6 +7201,14 @@
       "onboard_time": 1760856080,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11149,
+      "num": 14150,
+      "word": "卢浮宫盗窃案将寻求以色列安保调查",
+      "onboard_time": 1760991913,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11014,

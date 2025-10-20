@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1760989001070,
+  "endTime": 1760992217456,
   "band_list": [
     {
       "raw_hot": 1101636,
@@ -451,6 +451,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 16674,
+      "num": 16674,
+      "word": "新高铁小桌板有手机支架",
+      "onboard_time": 1760991315,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16002,
       "num": 36885,
       "word": "开暖气",
@@ -465,6 +473,14 @@
       "onboard_time": 1760984174,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11149,
+      "num": 14150,
+      "word": "卢浮宫盗窃案将寻求以色列安保调查",
+      "onboard_time": 1760991913,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1614,
