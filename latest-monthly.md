@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 21:07:24
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 21:35:43
 </p>
 </blockquote>
 <p>
@@ -293,6 +293,12 @@ T1战胜iG（热度：2289458）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E5%B0%86%E7%8B%AC%E7%AB%8B%E7%BB%8F%E8%90%A5%E5%A8%83%E5%B0%8F%E5%AE%97%23" target="weibo">
 宗馥莉将独立经营娃小宗（热度：2155622）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%20%E6%B2%A1%E4%BE%BF%E5%AE%9C%23" target="weibo">
+双十一 没便宜（热度：2136335）
 </a>
 </li>
 
@@ -3527,12 +3533,6 @@ AL战胜HLE（热度：684053）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%82%9D%E7%8E%B2%E7%8E%B2Orm%E5%90%8C%E6%A1%86%23" target="weibo">
 迪丽热巴邝玲玲Orm同框（热度：670385）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E5%8D%81%E4%B8%80%20%E6%B2%A1%E4%BE%BF%E5%AE%9C%23" target="weibo">
-双十一 没便宜（热度：669567）
 </a>
 </li>
 
