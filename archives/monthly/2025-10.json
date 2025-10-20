@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760988130087,
+  "endTime": 1760989001070,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -30275,6 +30275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141680,
+      "num": 43306,
+      "word": "被冻醒",
+      "onboard_time": 1760985853,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 141614,
       "num": 141614,
       "word": "陈震暂未回应车祸逆行",
@@ -55281,14 +55289,6 @@
       "onboard_time": 1759317800,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81689,
-      "num": 43306,
-      "word": "被冻醒",
-      "onboard_time": 1760985853,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 81688,
