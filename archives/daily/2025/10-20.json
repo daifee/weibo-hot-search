@@ -1,6 +1,6 @@
 {
   "startTime": 1760891363500,
-  "endTime": 1760934716979,
+  "endTime": 1760935564786,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1891375,
-      "num": 402306,
+      "num": 1018100,
       "word": "找同学操办婚礼到现场两眼一黑",
       "onboard_time": 1760926339,
       "rank": 1,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1143785,
-      "num": 383977,
+      "num": 897057,
       "word": "公务员连续旷工超15个工作日被辞退",
       "onboard_time": 1760930840,
       "rank": 14,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 919314,
-      "num": 473491,
+      "num": 1047767,
       "word": "卢浮宫8件失窃藏品清单",
       "onboard_time": 1760917639,
       "rank": 5,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 721757,
-      "num": 238817,
+      "num": 345595,
       "word": "黄金",
       "onboard_time": 1760925259,
       "rank": 26,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 709833,
-      "num": 367439,
+      "num": 620966,
       "word": "迪丽热巴新剧搭档陈昊森",
       "onboard_time": 1760930481,
       "rank": 41,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 704563,
-      "num": 704563,
+      "num": 1054672,
       "word": "水龙吟定档",
       "onboard_time": 1760929880,
       "rank": 6,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 448289,
+      "num": 448289,
+      "word": "李沁和苏暮雨一起破局",
+      "onboard_time": 1760933121,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 443528,
       "num": 344870,
       "word": "野人小孩家人称采用自然教育法",
@@ -152,6 +160,14 @@
       "word": "黄宗泽被开价5亿聘金当女婿",
       "onboard_time": 1760869400,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 426676,
+      "num": 426676,
+      "word": "白鹿 谁能给我一个包场链接",
+      "onboard_time": 1760934202,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -219,20 +235,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 333270,
-      "num": 333270,
-      "word": "李沁和苏暮雨一起破局",
-      "onboard_time": 1760933121,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 323164,
       "num": 344780,
       "word": "薛之谦大闹沈梦辰直播间",
       "onboard_time": 1760882301,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 320153,
+      "num": 1051099,
+      "word": "为什么美国人要人均两份工",
+      "onboard_time": 1760933302,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 308991,
@@ -283,8 +299,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258250,
+      "num": 1067091,
+      "word": "前三季度中国GDP同比增长5.2%",
+      "onboard_time": 1760929160,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 256326,
-      "num": 783617,
+      "num": 1032745,
       "word": "卢浮宫遭劫已立案调查",
       "onboard_time": 1760927721,
       "rank": 1,
@@ -315,11 +339,35 @@
       "category": "演出"
     },
     {
+      "raw_hot": 243617,
+      "num": 1039078,
+      "word": "暗河传",
+      "onboard_time": 1760924839,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 242956,
+      "num": 242956,
+      "word": "下班后唯一愿意收到的消息",
+      "onboard_time": 1760933480,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 242291,
       "num": 408837,
       "word": "入青云",
       "onboard_time": 1760880201,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 238263,
+      "num": 238263,
+      "word": "龚俊暗河传开播发红包",
+      "onboard_time": 1760934623,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -347,20 +395,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221161,
-      "num": 221161,
-      "word": "下班后唯一愿意收到的消息",
-      "onboard_time": 1760933480,
-      "rank": 22,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 211692,
+      "raw_hot": 218019,
       "num": 196629,
       "word": "行李员工资高我是一点都不羡慕",
       "onboard_time": 1760933241,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 205238,
+      "num": 205238,
+      "word": "卢远 王乐晨",
+      "onboard_time": 1760935280,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 204578,
@@ -372,7 +420,7 @@
     },
     {
       "raw_hot": 204251,
-      "num": 479039,
+      "num": 1030487,
       "word": "iPhone17pro天猫官旗首次降价",
       "onboard_time": 1760924301,
       "rank": 19,
@@ -387,14 +435,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 202582,
-      "num": 470729,
-      "word": "前三季度中国GDP同比增长5.2%",
-      "onboard_time": 1760929160,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 200451,
       "num": 200451,
       "word": "中国人永远记得黄继光",
@@ -404,7 +444,7 @@
     },
     {
       "raw_hot": 200348,
-      "num": 617036,
+      "num": 1060755,
       "word": "一张图了解四中全会",
       "onboard_time": 1760919561,
       "rank": 3,
@@ -428,19 +468,19 @@
     },
     {
       "raw_hot": 197685,
-      "num": 425571,
+      "num": 1021273,
       "word": "二十届四中全会",
       "onboard_time": 1760918961,
       "rank": 6,
       "category": "国际时政"
     },
     {
-      "raw_hot": 196927,
-      "num": 196927,
-      "word": "白鹿 谁能给我一个包场链接",
-      "onboard_time": 1760934202,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 195521,
+      "num": 174756,
+      "word": "迪丽热巴迷你剧特别邀请常华森",
+      "onboard_time": 1760935164,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 195084,
@@ -465,14 +505,6 @@
       "onboard_time": 1760880562,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 187242,
-      "num": 437443,
-      "word": "为什么美国人要人均两份工",
-      "onboard_time": 1760933302,
-      "rank": 8,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 185558,
@@ -507,12 +539,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 181581,
+      "num": 181581,
+      "word": "结婚请柬在机场88块屏幕连播8天",
+      "onboard_time": 1760933900,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176069,
       "num": 176069,
       "word": "余承恩闯进阴湿男鬼赛道",
       "onboard_time": 1760933963,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174596,
+      "num": 174596,
+      "word": "无限暖暖",
+      "onboard_time": 1760935164,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 173239,
@@ -531,20 +579,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 171919,
+      "num": 171919,
+      "word": "蒋敦豪 我锁cp就这样",
+      "onboard_time": 1760934383,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170510,
       "num": 170510,
       "word": "网友拍到一拉布拉多开电动车上路",
       "onboard_time": 1760929821,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168191,
-      "num": 198508,
-      "word": "暗河传",
-      "onboard_time": 1760924839,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 165201,
@@ -563,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164819,
+      "num": 194751,
+      "word": "差点没认出来这是闫妮",
+      "onboard_time": 1760935280,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164294,
       "num": 164294,
       "word": "司机高速快车道停车逼停大量车",
@@ -577,6 +633,14 @@
       "onboard_time": 1760929701,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156360,
+      "num": 174784,
+      "word": "暗河传开播全员大招开团",
+      "onboard_time": 1760935402,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 154421,
@@ -627,12 +691,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144932,
+      "num": 144932,
+      "word": "减肥十斤就是掉了这么多肉",
+      "onboard_time": 1760935223,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144744,
       "num": 144744,
       "word": "苦了丞磊幸福了我",
       "onboard_time": 1760929101,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144378,
+      "num": 144378,
+      "word": "Karsa希望20年TES能弥补遗憾",
+      "onboard_time": 1760935041,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 137882,
@@ -649,14 +729,6 @@
       "onboard_time": 1760883202,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128212,
-      "num": 128212,
-      "word": "蒋敦豪 我锁cp就这样",
-      "onboard_time": 1760934383,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 125824,
@@ -683,14 +755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122415,
-      "num": 197465,
-      "word": "龚俊暗河传开播发红包",
-      "onboard_time": 1760934623,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121429,
       "num": 121429,
       "word": "把生命力养起来的方法",
@@ -705,6 +769,22 @@
       "onboard_time": 1760931200,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118510,
+      "num": 178978,
+      "word": "特朗普专机落地机场现不明狩猎点",
+      "onboard_time": 1760934503,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 117671,
+      "num": 172607,
+      "word": "没有秋天直接入冬",
+      "onboard_time": 1760935103,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115693,
@@ -737,14 +817,6 @@
       "onboard_time": 1760889021,
       "rank": 23,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 106588,
-      "num": 177171,
-      "word": "结婚请柬在机场88块屏幕连播8天",
-      "onboard_time": 1760933900,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106074,
@@ -796,7 +868,7 @@
     },
     {
       "raw_hot": 100691,
-      "num": 238994,
+      "num": 352439,
       "word": "这些人不能乱吃止痛药",
       "onboard_time": 1760931561,
       "rank": 19,
@@ -971,6 +1043,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 77961,
+      "num": 178175,
+      "word": "邵雨轩回应去复旦上学",
+      "onboard_time": 1760933781,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 75877,
       "num": 75877,
       "word": "全伊伦入青云破万红包",
@@ -1019,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68978,
+      "num": 195121,
+      "word": "止痛药怎么选才安全",
+      "onboard_time": 1760933361,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 68761,
       "num": 68761,
       "word": "不会这么冷的天有人没猫陪吧",
@@ -1033,22 +1121,6 @@
       "onboard_time": 1760880562,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 66199,
-      "num": 178978,
-      "word": "特朗普专机落地机场现不明狩猎点",
-      "onboard_time": 1760934503,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 66007,
-      "num": 180181,
-      "word": "止痛药怎么选才安全",
-      "onboard_time": 1760933361,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 65523,
@@ -1163,12 +1235,12 @@
       "category": "综艺,互联网"
     },
     {
-      "raw_hot": 58775,
-      "num": 178175,
-      "word": "邵雨轩回应去复旦上学",
-      "onboard_time": 1760933781,
-      "rank": 38,
-      "category": "网红"
+      "raw_hot": 57775,
+      "num": 373777,
+      "word": "教科书式羽绒服穿搭模板",
+      "onboard_time": 1760935280,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 57571,
@@ -1228,7 +1300,7 @@
     },
     {
       "raw_hot": 40145,
-      "num": 351915,
+      "num": 741245,
       "word": "礼遇季每小时抽1111元",
       "onboard_time": 1760932881,
       "rank": 14,
@@ -1276,7 +1348,7 @@
     },
     {
       "raw_hot": 33864,
-      "num": 401596,
+      "num": 1026944,
       "word": "成毅冰雪心动瞬间",
       "onboard_time": 1760933302,
       "rank": 10,
