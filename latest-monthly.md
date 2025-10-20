@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 13:27:08
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 13:42:33
 </p>
 </blockquote>
 <p>
@@ -1803,6 +1803,12 @@ GEN抽到TES（热度：1062021）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E8%BF%9C%20%E7%8E%8B%E4%B9%90%E6%99%A8%23" target="weibo">
+卢远 王乐晨（热度：967176）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4%23" target="weibo">
 美股跳水（热度：965786）
 </a>
@@ -1829,12 +1835,6 @@ GEN抽到TES（热度：1062021）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%97%85%E9%A6%86%E8%80%81%E6%9D%BF%E4%B8%8B%E8%8D%AF%E6%80%A7%E4%BE%B510%E5%90%8D%E5%A5%B3%E6%88%BF%E5%AE%A2%23" target="weibo">
 日本旅馆老板下药性侵10名女房客（热度：960633）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E8%BF%9C%20%E7%8E%8B%E4%B9%90%E6%99%A8%23" target="weibo">
-卢远 王乐晨（热度：960326）
 </a>
 </li>
 
@@ -5151,6 +5151,12 @@ GEN战胜T1（热度：526738）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%8F%E8%82%A5%E5%8D%81%E6%96%A4%E5%B0%B1%E6%98%AF%E6%8E%89%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E8%82%89%23" target="weibo">
+减肥十斤就是掉了这么多肉（热度：520015）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E5%B8%A6%E8%80%81%E5%A9%86%E4%B8%8A%E6%B5%B7%E7%9C%8B%E6%88%BF%23" target="weibo">
 胡歌带老婆上海看房（热度：519856）
 </a>
@@ -6005,12 +6011,6 @@ TheShy回应上单韦鲁斯（热度：477977）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B8%A9%E6%8C%87%E5%8E%8B%E6%9D%BF20%E5%88%86%E9%92%9F%E8%84%9A%E5%BA%95%E5%96%B7%E8%A1%80%23" target="weibo">
 女子踩指压板20分钟脚底喷血（热度：469044）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%81%E6%AF%92%E5%A4%A7%E9%98%9F%E9%95%BF%E8%A2%AB%E6%8E%A7%E8%B5%B0%E7%A7%81%E6%AF%92%E5%93%81%E8%8E%B7%E5%88%913%E5%B9%B4%E5%8D%8A%23" target="weibo">
-禁毒大队长被控走私毒品获刑3年半（热度：468476）
 </a>
 </li>
 

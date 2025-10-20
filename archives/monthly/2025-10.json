@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760938028654,
+  "endTime": 1760938953557,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -2387,6 +2387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 967176,
+      "num": 967176,
+      "word": "卢远 王乐晨",
+      "onboard_time": 1759319360,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 965786,
       "num": 1154525,
       "word": "美股跳水",
@@ -2425,14 +2433,6 @@
       "onboard_time": 1759641501,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 960326,
-      "num": 960326,
-      "word": "卢远 王乐晨",
-      "onboard_time": 1759319360,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 958335,
@@ -6851,6 +6851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 520015,
+      "num": 520015,
+      "word": "减肥十斤就是掉了这么多肉",
+      "onboard_time": 1760935223,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 519856,
       "num": 179582,
       "word": "胡歌带老婆上海看房",
@@ -10243,6 +10251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 378967,
+      "num": 378967,
+      "word": "下班后唯一愿意收到的消息",
+      "onboard_time": 1760933480,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 378706,
       "num": 258753,
       "word": "华晨宇三天烟花放掉一套别墅",
@@ -10921,14 +10937,6 @@
       "onboard_time": 1759559060,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 354556,
-      "num": 354556,
-      "word": "下班后唯一愿意收到的消息",
-      "onboard_time": 1760933480,
-      "rank": 22,
-      "category": "幽默"
     },
     {
       "raw_hot": 354499,
@@ -11721,14 +11729,6 @@
       "onboard_time": 1760454083,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 328157,
-      "num": 328157,
-      "word": "减肥十斤就是掉了这么多肉",
-      "onboard_time": 1760935223,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 327166,
@@ -14145,6 +14145,14 @@
       "onboard_time": 1759663463,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 272103,
+      "num": 998681,
+      "word": "心动的信号8",
+      "onboard_time": 1760936542,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 272004,
@@ -17587,14 +17595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212387,
-      "num": 976076,
-      "word": "心动的信号8",
-      "onboard_time": 1760936542,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 212278,
       "num": 212278,
       "word": "王乐晨卢远回应",
@@ -19761,6 +19761,14 @@
       "onboard_time": 1759965438,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 194630,
+      "num": 194630,
+      "word": "李二牛扮演者赵荀转型美男",
+      "onboard_time": 1760936182,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 194620,
@@ -22115,14 +22123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178597,
-      "num": 178597,
-      "word": "李二牛扮演者赵荀转型美男",
-      "onboard_time": 1760936182,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178590,
       "num": 178590,
       "word": "樊振东是首位超级金满贯得主",
@@ -23689,6 +23689,14 @@
       "onboard_time": 1760538203,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169145,
+      "num": 169145,
+      "word": "杨超越瓜子西施不是白叫的",
+      "onboard_time": 1760937981,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 169140,
@@ -26459,6 +26467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 155178,
+      "num": 155178,
+      "word": "胡歌你别这样我害怕",
+      "onboard_time": 1760937562,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 155174,
       "num": 155174,
       "word": "假期最耗气血的5个习惯",
@@ -27843,6 +27859,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 148230,
+      "num": 148230,
+      "word": "曾辉发红包",
+      "onboard_time": 1760938161,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 148223,
       "num": 148223,
       "word": "苹果闹钟 只亮不响",
@@ -27985,6 +28009,14 @@
       "onboard_time": 1760091261,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147661,
+      "num": 147661,
+      "word": "谁能扛住李一桐哎呦一摔",
+      "onboard_time": 1760938042,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 147610,
@@ -30017,14 +30049,6 @@
       "onboard_time": 1759490181,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 139454,
-      "num": 139454,
-      "word": "胡歌你别这样我害怕",
-      "onboard_time": 1760937562,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 139405,
@@ -32419,6 +32443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131780,
+      "num": 131780,
+      "word": "陈小春和应采儿吵完架把自己哄好了",
+      "onboard_time": 1760938701,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131758,
       "num": 131758,
       "word": "有事言哥哥 无事言仙君",
@@ -32457,6 +32489,14 @@
       "onboard_time": 1760081721,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131583,
+      "num": 131582,
+      "word": "白鹿给常华森包场不知道链接",
+      "onboard_time": 1760938341,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 131559,
@@ -32625,6 +32665,14 @@
       "onboard_time": 1760191222,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131179,
+      "num": 126201,
+      "word": "成毅演技",
+      "onboard_time": 1760938701,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 131170,
@@ -34147,6 +34195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 126396,
+      "num": 126396,
+      "word": "许魏洲发了30年前的照片",
+      "onboard_time": 1760937861,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126392,
       "num": 126392,
       "word": "9月CPI同比下降0.3%",
@@ -34316,7 +34372,7 @@
     },
     {
       "raw_hot": 125973,
-      "num": 151599,
+      "num": 155354,
       "word": "内娱反派要掀桌了",
       "onboard_time": 1760937680,
       "rank": 29,
@@ -40867,6 +40923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 110036,
+      "num": 110036,
+      "word": "者来女歌手2025后首录综艺",
+      "onboard_time": 1760938402,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 109999,
       "num": 109999,
       "word": "iPhone秒变单反的设置",
@@ -41153,6 +41217,14 @@
       "onboard_time": 1759336339,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109568,
+      "num": 158383,
+      "word": "易烊千玺演活了科技霸总",
+      "onboard_time": 1760938580,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 109549,
@@ -42569,14 +42641,6 @@
       "onboard_time": 1759838302,
       "rank": 41,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 106928,
-      "num": 106928,
-      "word": "许魏洲发了30年前的照片",
-      "onboard_time": 1760937861,
-      "rank": 45,
-      "category": "音乐"
     },
     {
       "raw_hot": 106925,
@@ -45553,14 +45617,6 @@
       "onboard_time": 1760931561,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 100691,
-      "num": 100691,
-      "word": "杨超越瓜子西施不是白叫的",
-      "onboard_time": 1760937981,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 100676,
@@ -54979,6 +55035,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 77115,
+      "num": 131583,
+      "word": "12306回应乘客被困高铁厕所10分钟",
+      "onboard_time": 1760938521,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77101,
       "num": 77101,
       "word": "这猫怎么一亲就响不停",
@@ -56321,6 +56385,14 @@
       "onboard_time": 1760231059,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 71134,
+      "num": 322695,
+      "word": "章若楠把自然感具象化了",
+      "onboard_time": 1760937202,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 71117,
@@ -57867,14 +57939,6 @@
       "category": "体育,民生新闻"
     },
     {
-      "raw_hot": 63369,
-      "num": 322695,
-      "word": "章若楠把自然感具象化了",
-      "onboard_time": 1760937202,
-      "rank": 19,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 63329,
       "num": 104820,
       "word": "全运会乒乓球前八可直通国家队",
@@ -59161,6 +59225,14 @@
       "onboard_time": 1760113099,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 55177,
+      "num": 1026944,
+      "word": "成毅冰雪心动瞬间",
+      "onboard_time": 1760933302,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 55146,
@@ -62083,14 +62155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36042,
-      "num": 1026944,
-      "word": "成毅冰雪心动瞬间",
-      "onboard_time": 1760933302,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 35984,
       "num": 42930,
       "word": "何健麒直播",
@@ -63425,6 +63489,14 @@
       "onboard_time": 1759309221,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26370,
+      "num": 131583,
+      "word": "年轻人为什么开始爱年代剧了",
+      "onboard_time": 1760938821,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 26312,
