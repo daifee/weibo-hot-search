@@ -1,6 +1,6 @@
 {
   "startTime": 1760891363500,
-  "endTime": 1760949696341,
+  "endTime": 1760950438148,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -43,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1056278,
+      "num": 251566,
+      "word": "九寨沟烤肠",
+      "onboard_time": 1760946981,
+      "rank": 10,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1046262,
       "num": 1167402,
       "word": "英国奶奶因汶川地震留中国17年",
@@ -65,14 +73,6 @@
       "onboard_time": 1760917639,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 890231,
-      "num": 251566,
-      "word": "九寨沟烤肠",
-      "onboard_time": 1760946981,
-      "rank": 10,
-      "category": "美食"
     },
     {
       "raw_hot": 883069,
@@ -123,6 +123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 705004,
+      "num": 158714,
+      "word": "曝窦骁掏钱给何超莲装修了新房子",
+      "onboard_time": 1760949801,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 704563,
       "num": 1054672,
       "word": "水龙吟定档",
@@ -136,6 +144,14 @@
       "word": "老外直勾勾盯着中国农村的魔芋",
       "onboard_time": 1760936663,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 696847,
+      "num": 248781,
+      "word": "平台回应退款要扇孩子耳光5分钟",
+      "onboard_time": 1760943561,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -217,6 +233,14 @@
       "onboard_time": 1760924839,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 461796,
+      "num": 461796,
+      "word": "乌镇飞天女演员失控落湖",
+      "onboard_time": 1760948242,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 461311,
@@ -320,14 +344,6 @@
       "word": "香港机场货机与地勤车相撞后坠海",
       "onboard_time": 1760922800,
       "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 385920,
-      "num": 248781,
-      "word": "平台回应退款要扇孩子耳光5分钟",
-      "onboard_time": 1760943561,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -499,14 +515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265912,
-      "num": 265912,
-      "word": "乌镇飞天女演员失控落湖",
-      "onboard_time": 1760948242,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 258250,
       "num": 1067091,
       "word": "前三季度中国GDP同比增长5.2%",
@@ -609,6 +617,14 @@
       "onboard_time": 1760933241,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 206748,
+      "num": 252056,
+      "word": "摇粒绒怎么穿能不显胖",
+      "onboard_time": 1760949200,
+      "rank": 9,
+      "category": "时尚"
     },
     {
       "raw_hot": 204578,
@@ -876,7 +892,7 @@
     },
     {
       "raw_hot": 168839,
-      "num": 271676,
+      "num": 364642,
       "word": "四中全会",
       "onboard_time": 1760948660,
       "rank": 2,
@@ -929,6 +945,14 @@
       "onboard_time": 1760936781,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 160035,
+      "num": 252569,
+      "word": "Lululemon劲敌Alo还没开进中国",
+      "onboard_time": 1760946200,
+      "rank": 41,
+      "category": "民生新闻,时尚"
     },
     {
       "raw_hot": 156360,
@@ -987,14 +1011,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 152808,
-      "num": 252569,
-      "word": "Lululemon劲敌Alo还没开进中国",
-      "onboard_time": 1760946200,
-      "rank": 41,
-      "category": "民生新闻,时尚"
-    },
-    {
       "raw_hot": 152758,
       "num": 143193,
       "word": "0713没有张远的群有20多个",
@@ -1011,8 +1027,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151338,
-      "num": 151338,
+      "raw_hot": 151473,
+      "num": 151473,
       "word": "尚雯婕签了papi公司",
       "onboard_time": 1760948962,
       "rank": 31,
@@ -1123,12 +1139,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 134913,
-      "num": 252056,
-      "word": "摇粒绒怎么穿能不显胖",
-      "onboard_time": 1760949200,
-      "rank": 9,
-      "category": "时尚"
+      "raw_hot": 132178,
+      "num": 132178,
+      "word": "00后不谈恋爱的原因",
+      "onboard_time": 1760949622,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 131583,
@@ -1243,6 +1259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119502,
+      "num": 119502,
+      "word": "马思纯张雅琪扣面膜好好笑",
+      "onboard_time": 1760949682,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118586,
       "num": 118586,
       "word": "马龙说今年生日很特殊",
@@ -1315,6 +1339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113714,
+      "num": 113714,
+      "word": "杨超越给何广智拍出人生照片",
+      "onboard_time": 1760950223,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112482,
       "num": 181624,
       "word": "入局",
@@ -1369,6 +1401,14 @@
       "onboard_time": 1760937081,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110068,
+      "num": 110068,
+      "word": "工资像一场小雨",
+      "onboard_time": 1760948782,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 110036,
@@ -1443,22 +1483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106572,
-      "num": 106572,
-      "word": "00后不谈恋爱的原因",
-      "onboard_time": 1760949622,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 106180,
-      "num": 106180,
-      "word": "马思纯张雅琪扣面膜好好笑",
-      "onboard_time": 1760949682,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 106074,
       "num": 391647,
       "word": "贵州失联2岁女童已找到",
@@ -1529,14 +1553,6 @@
       "onboard_time": 1760946621,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103422,
-      "num": 103422,
-      "word": "工资像一场小雨",
-      "onboard_time": 1760948782,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 103241,
@@ -1619,6 +1635,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95710,
+      "num": 95710,
+      "word": "VOGUE盛典 GQ味儿",
+      "onboard_time": 1760946562,
+      "rank": 48,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 95313,
       "num": 119312,
       "word": "马龙生日发博",
@@ -1684,7 +1708,7 @@
     },
     {
       "raw_hot": 88741,
-      "num": 110004,
+      "num": 113445,
       "word": "河南10月下雪了",
       "onboard_time": 1760949561,
       "rank": 37,
@@ -1756,7 +1780,7 @@
     },
     {
       "raw_hot": 84942,
-      "num": 109938,
+      "num": 113266,
       "word": "王楚钦蹦得快要起飞了",
       "onboard_time": 1760949442,
       "rank": 38,
@@ -1841,6 +1865,14 @@
       "onboard_time": 1760938521,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76163,
+      "num": 247458,
+      "word": "郑丽文 绝不让台湾成麻烦制造者",
+      "onboard_time": 1760949021,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75877,
@@ -2011,6 +2043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 61013,
+      "num": 159749,
+      "word": "缅甸电诈园区查获30套星链设备",
+      "onboard_time": 1760949861,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 60716,
       "num": 339631,
       "word": "杨振宁父亲",
@@ -2115,6 +2155,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 50773,
+      "num": 156388,
+      "word": "53%四十岁女性检出乳腺结节",
+      "onboard_time": 1760949861,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50026,
       "num": 113854,
       "word": "WTT发文为马龙梁靖崑庆生",
@@ -2129,6 +2177,22 @@
       "onboard_time": 1760911514,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 44480,
+      "num": 113184,
+      "word": "充气青蛙涌上美国街头",
+      "onboard_time": 1760950161,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 43672,
+      "num": 121978,
+      "word": "第一次直观感受到省钱的杀伤力",
+      "onboard_time": 1760948242,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 42598,
@@ -2153,14 +2217,6 @@
       "onboard_time": 1760941042,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 41720,
-      "num": 119196,
-      "word": "第一次直观感受到省钱的杀伤力",
-      "onboard_time": 1760948242,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 40145,
@@ -2275,7 +2331,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25396,
+      "raw_hot": 26219,
       "num": 109893,
       "word": "韩国民众在美大使馆前举行反美游行",
       "onboard_time": 1760948962,
@@ -2297,14 +2353,6 @@
       "onboard_time": 1760895016,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 22628,
-      "num": 247458,
-      "word": "郑丽文 绝不让台湾成麻烦制造者",
-      "onboard_time": 1760949021,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 19275,

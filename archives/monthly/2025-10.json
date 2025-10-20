@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760949696341,
+  "endTime": 1760950438148,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -1979,6 +1979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1056278,
+      "num": 251566,
+      "word": "九寨沟烤肠",
+      "onboard_time": 1760946981,
+      "rank": 10,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1055083,
       "num": 239119,
       "word": "陶白白前妻与现任同游西藏",
@@ -2769,14 +2777,6 @@
       "onboard_time": 1760768126,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 890231,
-      "num": 251566,
-      "word": "九寨沟烤肠",
-      "onboard_time": 1760946981,
-      "rank": 10,
-      "category": "美食"
     },
     {
       "raw_hot": 890196,
@@ -4259,6 +4259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 705004,
+      "num": 158714,
+      "word": "曝窦骁掏钱给何超莲装修了新房子",
+      "onboard_time": 1760949801,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 704563,
       "num": 1054672,
       "word": "水龙吟定档",
@@ -4369,6 +4377,14 @@
       "onboard_time": 1760791704,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 696847,
+      "num": 248781,
+      "word": "平台回应退款要扇孩子耳光5分钟",
+      "onboard_time": 1760943561,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 695315,
@@ -8195,6 +8211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 461796,
+      "num": 461796,
+      "word": "乌镇飞天女演员失控落湖",
+      "onboard_time": 1760948242,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 461697,
       "num": 243834,
       "word": "TaylorSwift忘了通知EdSheeran订婚",
@@ -10160,14 +10184,6 @@
       "word": "西南联大五才子仅剩一人",
       "onboard_time": 1760777603,
       "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 385920,
-      "num": 248781,
-      "word": "平台回应退款要扇孩子耳光5分钟",
-      "onboard_time": 1760943561,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -14659,14 +14675,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 265912,
-      "num": 265912,
-      "word": "乌镇飞天女演员失控落湖",
-      "onboard_time": 1760948242,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 265868,
       "num": 265868,
       "word": "麦当劳 没那么灵",
@@ -18305,6 +18313,14 @@
       "onboard_time": 1760151204,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206748,
+      "num": 252056,
+      "word": "摇粒绒怎么穿能不显胖",
+      "onboard_time": 1760949200,
+      "rank": 9,
+      "category": "时尚"
     },
     {
       "raw_hot": 206685,
@@ -23980,7 +23996,7 @@
     },
     {
       "raw_hot": 168839,
-      "num": 271676,
+      "num": 364642,
       "word": "四中全会",
       "onboard_time": 1760948660,
       "rank": 2,
@@ -25691,6 +25707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160035,
+      "num": 252569,
+      "word": "Lululemon劲敌Alo还没开进中国",
+      "onboard_time": 1760946200,
+      "rank": 41,
+      "category": "民生新闻,时尚"
+    },
+    {
       "raw_hot": 160002,
       "num": 160002,
       "word": "惠英红 你看你的女儿很争气",
@@ -27267,14 +27291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 152808,
-      "num": 252569,
-      "word": "Lululemon劲敌Alo还没开进中国",
-      "onboard_time": 1760946200,
-      "rank": 41,
-      "category": "民生新闻,时尚"
-    },
-    {
       "raw_hot": 152758,
       "num": 143193,
       "word": "0713没有张远的群有20多个",
@@ -27499,20 +27515,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151473,
+      "num": 151473,
+      "word": "尚雯婕签了papi公司",
+      "onboard_time": 1760948962,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151354,
       "num": 151354,
       "word": "山东航空回应空姐换穿平底鞋",
       "onboard_time": 1760180902,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 151338,
-      "num": 151338,
-      "word": "尚雯婕签了papi公司",
-      "onboard_time": 1760948962,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 151290,
@@ -31747,14 +31763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134913,
-      "num": 252056,
-      "word": "摇粒绒怎么穿能不显胖",
-      "onboard_time": 1760949200,
-      "rank": 9,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 134892,
       "num": 647430,
       "word": "国庆假期第二天",
@@ -32641,6 +32649,14 @@
       "onboard_time": 1760513360,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132178,
+      "num": 132178,
+      "word": "00后不谈恋爱的原因",
+      "onboard_time": 1760949622,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 132158,
@@ -37067,6 +37083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119502,
+      "num": 119502,
+      "word": "马思纯张雅琪扣面膜好好笑",
+      "onboard_time": 1760949682,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119469,
       "num": 119469,
       "word": "孙颖莎阳光姐妹淘",
@@ -39491,6 +39515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113714,
+      "num": 113714,
+      "word": "杨超越给何广智拍出人生照片",
+      "onboard_time": 1760950223,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113692,
       "num": 113692,
       "word": "WB确定年总胜者组半决赛",
@@ -41297,6 +41329,14 @@
       "onboard_time": 1760592081,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110068,
+      "num": 110068,
+      "word": "工资像一场小雨",
+      "onboard_time": 1760948782,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 110053,
@@ -43219,14 +43259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 106572,
-      "num": 106572,
-      "word": "00后不谈恋爱的原因",
-      "onboard_time": 1760949622,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 106560,
       "num": 106560,
       "word": "鸡排哥说再有黄牛要报警了",
@@ -43393,14 +43425,6 @@
       "onboard_time": 1759656621,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106180,
-      "num": 106180,
-      "word": "马思纯张雅琪扣面膜好好笑",
-      "onboard_time": 1760949682,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 106126,
@@ -44745,14 +44769,6 @@
       "onboard_time": 1759643481,
       "rank": 49,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 103422,
-      "num": 103422,
-      "word": "工资像一场小雨",
-      "onboard_time": 1760948782,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 103397,
@@ -48155,6 +48171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95710,
+      "num": 95710,
+      "word": "VOGUE盛典 GQ味儿",
+      "onboard_time": 1760946562,
+      "rank": 48,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 95690,
       "num": 95690,
       "word": "美国总统破防的原因",
@@ -51324,7 +51348,7 @@
     },
     {
       "raw_hot": 88741,
-      "num": 110004,
+      "num": 113445,
       "word": "河南10月下雪了",
       "onboard_time": 1760949561,
       "rank": 37,
@@ -52916,7 +52940,7 @@
     },
     {
       "raw_hot": 84942,
-      "num": 109938,
+      "num": 113266,
       "word": "王楚钦蹦得快要起飞了",
       "onboard_time": 1760949442,
       "rank": 38,
@@ -55873,6 +55897,14 @@
       "onboard_time": 1760839641,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 76163,
+      "num": 247458,
+      "word": "郑丽文 绝不让台湾成麻烦制造者",
+      "onboard_time": 1760949021,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76135,
@@ -58899,6 +58931,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 61013,
+      "num": 159749,
+      "word": "缅甸电诈园区查获30套星链设备",
+      "onboard_time": 1760949861,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 61002,
       "num": 137321,
       "word": "张晚意的名字里有父母爱情",
@@ -60643,6 +60683,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 50773,
+      "num": 156388,
+      "word": "53%四十岁女性检出乳腺结节",
+      "onboard_time": 1760949861,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50648,
       "num": 168778,
       "word": "西贝部分菜品降幅超20%",
@@ -61539,6 +61587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 44480,
+      "num": 113184,
+      "word": "充气青蛙涌上美国街头",
+      "onboard_time": 1760950161,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44468,
       "num": 104901,
       "word": "家属称新郎跳河前曾在车上哭泣",
@@ -61697,6 +61753,14 @@
       "onboard_time": 1759509919,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43672,
+      "num": 121978,
+      "word": "第一次直观感受到省钱的杀伤力",
+      "onboard_time": 1760948242,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 43617,
@@ -61960,14 +62024,6 @@
       "word": "原来我一直没有被爱过",
       "onboard_time": 1759792397,
       "rank": 35,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 41720,
-      "num": 119196,
-      "word": "第一次直观感受到省钱的杀伤力",
-      "onboard_time": 1760948242,
-      "rank": 34,
       "category": "情感"
     },
     {
@@ -64195,6 +64251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 26219,
+      "num": 109893,
+      "word": "韩国民众在美大使馆前举行反美游行",
+      "onboard_time": 1760948962,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 26095,
       "num": 162091,
       "word": "汕头唯一西贝门店将闭店",
@@ -64305,14 +64369,6 @@
       "onboard_time": 1760812576,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25396,
-      "num": 109893,
-      "word": "韩国民众在美大使馆前举行反美游行",
-      "onboard_time": 1760948962,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 25383,
@@ -64745,14 +64801,6 @@
       "onboard_time": 1759726340,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 22628,
-      "num": 247458,
-      "word": "郑丽文 绝不让台湾成麻烦制造者",
-      "onboard_time": 1760949021,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 22311,
