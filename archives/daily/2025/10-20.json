@@ -1,6 +1,6 @@
 {
   "startTime": 1760891363500,
-  "endTime": 1760953772056,
+  "endTime": 1760956545840,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1717687,
-      "num": 173980,
+      "num": 213628,
       "word": "曝窦骁掏钱给何超莲装修了新房子",
       "onboard_time": 1760949801,
       "rank": 12,
@@ -163,6 +163,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 691513,
+      "num": 1110642,
+      "word": "缅甸政府军突袭KK园区",
+      "onboard_time": 1760950944,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 664589,
       "num": 584958,
       "word": "美媒爆特朗普疑似险遭暗杀",
@@ -225,14 +233,6 @@
       "onboard_time": 1760926999,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 504726,
-      "num": 1080756,
-      "word": "缅甸政府军突袭KK园区",
-      "onboard_time": 1760950944,
-      "rank": 16,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 488753,
@@ -353,6 +353,14 @@
       "onboard_time": 1760927418,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 411230,
+      "num": 212426,
+      "word": "杨洋换了新手机",
+      "onboard_time": 1760955320,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 395956,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 279807,
-      "num": 173804,
+      "num": 211848,
       "word": "孟佳的红包",
       "onboard_time": 1760952081,
       "rank": 24,
@@ -563,8 +571,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 259356,
-      "num": 169099,
+      "raw_hot": 260776,
+      "num": 211062,
       "word": "陈汉典lulu登记结婚",
       "onboard_time": 1760952800,
       "rank": 41,
@@ -659,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232284,
+      "num": 232284,
+      "word": "解放军正告澳方立即停止侵权挑衅",
+      "onboard_time": 1760954121,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 227553,
       "num": 227553,
       "word": "狗 接完你的接你的",
@@ -697,6 +713,22 @@
       "onboard_time": 1760951061,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 214523,
+      "num": 214523,
+      "word": "特朗普与泽连斯基再度激烈争吵",
+      "onboard_time": 1760951721,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 205207,
+      "num": 205207,
+      "word": "骑手取走苹果17Promax后失联",
+      "onboard_time": 1760952561,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 204578,
@@ -779,6 +811,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 197315,
+      "num": 197315,
+      "word": "2025王者荣耀共创之夜",
+      "onboard_time": 1760955980,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 196705,
+      "num": 196705,
+      "word": "何超莲曾回应和窦骁婚后生活",
+      "onboard_time": 1760953401,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196299,
       "num": 253551,
       "word": "西卡预测TES零封GEN",
@@ -843,6 +891,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187583,
+      "num": 187583,
+      "word": "辛云来红包",
+      "onboard_time": 1760955380,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186440,
+      "num": 186440,
+      "word": "陈牧驰发红包",
+      "onboard_time": 1760955380,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186083,
       "num": 252569,
       "word": "Lululemon劲敌Alo还没开进中国",
@@ -900,7 +964,7 @@
     },
     {
       "raw_hot": 177368,
-      "num": 177368,
+      "num": 213938,
       "word": "西游记避火罩真的存在",
       "onboard_time": 1760952742,
       "rank": 43,
@@ -977,14 +1041,6 @@
       "onboard_time": 1760941101,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169651,
-      "num": 173832,
-      "word": "特朗普与泽连斯基再度激烈争吵",
-      "onboard_time": 1760951721,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 169145,
@@ -1115,14 +1171,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 152855,
-      "num": 140926,
-      "word": "何超莲曾回应和窦骁婚后生活",
-      "onboard_time": 1760953401,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 152758,
       "num": 143193,
       "word": "0713没有张远的群有20多个",
@@ -1161,6 +1209,14 @@
       "onboard_time": 1760949622,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149595,
+      "num": 129382,
+      "word": "罗小黑金门三人组出任务啦",
+      "onboard_time": 1760956041,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 149370,
@@ -1273,6 +1329,14 @@
       "onboard_time": 1760938701,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129591,
+      "num": 129591,
+      "word": "日本街头老鼠成群",
+      "onboard_time": 1760953761,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 129402,
@@ -1481,6 +1545,14 @@
       "onboard_time": 1760940021,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113554,
+      "num": 113554,
+      "word": "Elk说爬也要爬到上海",
+      "onboard_time": 1760955621,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 112482,
@@ -1731,6 +1803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101870,
+      "num": 101870,
+      "word": "扇耳光退货谁给你的底气",
+      "onboard_time": 1760956220,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101673,
       "num": 101673,
       "word": "江苏一化工厂突发火灾有刺鼻气味",
@@ -1761,6 +1841,14 @@
       "onboard_time": 1760945181,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98666,
+      "num": 98666,
+      "word": "英国一公司放弃四天工作制",
+      "onboard_time": 1760955440,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 97954,
@@ -1801,6 +1889,14 @@
       "onboard_time": 1760946562,
       "rank": 48,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 95399,
+      "num": 95399,
+      "word": "徐冬冬当年没有被PUA去磨骨是对的",
+      "onboard_time": 1760956400,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 95313,
@@ -1891,6 +1987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88711,
+      "num": 196914,
+      "word": "上淘宝的双11才是真双11",
+      "onboard_time": 1760955740,
+      "rank": 23,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 87964,
       "num": 87964,
       "word": "羽绒服的寿命",
@@ -1915,6 +2019,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 86325,
+      "num": 86325,
+      "word": "始祖鸟大中华区将任命新高管",
+      "onboard_time": 1760953880,
+      "rank": 44,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 86318,
       "num": 86318,
       "word": "还以为出新版家有儿女了",
@@ -1931,20 +2043,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85779,
+      "num": 85779,
+      "word": "i人做梦都想拥有的卫衣",
+      "onboard_time": 1760956519,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85671,
       "num": 160943,
       "word": "没有峰哥玩不转的运动",
       "onboard_time": 1760949382,
       "rank": 29,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 85448,
-      "num": 133638,
-      "word": "骑手取走苹果17Promax后失联",
-      "onboard_time": 1760952561,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85325,
@@ -1993,6 +2105,14 @@
       "onboard_time": 1760948242,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 79781,
+      "num": 79781,
+      "word": "陈哲远克制疯批式演技",
+      "onboard_time": 1760956519,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 79737,
@@ -2235,6 +2355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 61168,
+      "num": 80051,
+      "word": "65岁演员车保罗现身郑州景区打工",
+      "onboard_time": 1760954960,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61092,
       "num": 339528,
       "word": "Karsa说得到Faker认可此生无憾",
@@ -2257,6 +2385,14 @@
       "onboard_time": 1760884522,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60535,
+      "num": 209919,
+      "word": "iQOO15哪哪儿都不基础",
+      "onboard_time": 1760955740,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 60529,
@@ -2451,6 +2587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 34904,
+      "num": 140718,
+      "word": "河南60年一遇烂秋雨背后",
+      "onboard_time": 1760954900,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34690,
       "num": 223864,
       "word": "入青云热度",
@@ -2569,6 +2713,14 @@
       "onboard_time": 1760908274,
       "rank": 48,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 17770,
+      "num": 210374,
+      "word": "百色多个村屯被洪水围成孤岛",
+      "onboard_time": 1760956220,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17227,

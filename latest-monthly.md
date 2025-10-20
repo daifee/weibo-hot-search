@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 17:49:32
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 18:35:45
 </p>
 </blockquote>
 <p>
@@ -3351,6 +3351,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E6%94%BF%E5%BA%9C%E5%86%9B%E7%AA%81%E8%A2%ADKK%E5%9B%AD%E5%8C%BA%23" target="weibo">
+缅甸政府军突袭KK园区（热度：691513）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23CCTV%E8%AE%A4%E8%AF%81%E6%96%AD%E5%B1%82%E7%AC%AC%E4%B8%80%E7%9A%84%E7%94%B5%E8%A7%86%E5%89%A7%23" target="weibo">
 CCTV认证断层第一的电视剧（热度：691065）
 </a>
@@ -5453,12 +5459,6 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%23" target="weibo">
 央视中秋晚会节目单（热度：505052）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E6%94%BF%E5%BA%9C%E5%86%9B%E7%AA%81%E8%A2%ADKK%E5%9B%AD%E5%8C%BA%23" target="weibo">
-缅甸政府军突袭KK园区（热度：504726）
 </a>
 </li>
 
