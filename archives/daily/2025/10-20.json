@@ -1,6 +1,6 @@
 {
   "startTime": 1760891363500,
-  "endTime": 1760931421500,
+  "endTime": 1760934716979,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -27,8 +27,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1143785,
+      "num": 383977,
+      "word": "公务员连续旷工超15个工作日被辞退",
+      "onboard_time": 1760930840,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 919314,
-      "num": 410952,
+      "num": 473491,
       "word": "卢浮宫8件失窃藏品清单",
       "onboard_time": 1760917639,
       "rank": 5,
@@ -44,11 +52,19 @@
     },
     {
       "raw_hot": 721757,
-      "num": 178579,
+      "num": 238817,
       "word": "黄金",
       "onboard_time": 1760925259,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 709833,
+      "num": 367439,
+      "word": "迪丽热巴新剧搭档陈昊森",
+      "onboard_time": 1760930481,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 704563,
@@ -195,11 +211,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 332163,
-      "num": 184906,
-      "word": "迪丽热巴新剧搭档陈昊森",
-      "onboard_time": 1760930481,
-      "rank": 41,
+      "raw_hot": 339616,
+      "num": 339616,
+      "word": "陈乔恩25包除湿剂买成25箱",
+      "onboard_time": 1760928260,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 333270,
+      "num": 333270,
+      "word": "李沁和苏暮雨一起破局",
+      "onboard_time": 1760933121,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -209,14 +233,6 @@
       "onboard_time": 1760882301,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 316535,
-      "num": 316535,
-      "word": "公务员连续旷工超15个工作日被辞退",
-      "onboard_time": 1760930840,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 308991,
@@ -267,12 +283,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 261748,
-      "num": 261748,
-      "word": "陈乔恩25包除湿剂买成25箱",
-      "onboard_time": 1760928260,
-      "rank": 14,
-      "category": "综艺"
+      "raw_hot": 256326,
+      "num": 783617,
+      "word": "卢浮宫遭劫已立案调查",
+      "onboard_time": 1760927721,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 247514,
@@ -315,6 +331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227553,
+      "num": 227553,
+      "word": "狗 接完你的接你的",
+      "onboard_time": 1760931080,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227171,
       "num": 173888,
       "word": "侯明昊看到破万后激动的飞奔出去了",
@@ -323,20 +347,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206461,
-      "num": 783617,
-      "word": "卢浮宫遭劫已立案调查",
-      "onboard_time": 1760927721,
-      "rank": 1,
-      "category": "海外新闻"
+      "raw_hot": 221161,
+      "num": 221161,
+      "word": "下班后唯一愿意收到的消息",
+      "onboard_time": 1760933480,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 211692,
+      "num": 196629,
+      "word": "行李员工资高我是一点都不羡慕",
+      "onboard_time": 1760933241,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 204578,
-      "num": 137830,
+      "num": 183055,
       "word": "焕新极氪7X开启预售",
       "onboard_time": 1760930120,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 204251,
+      "num": 479039,
+      "word": "iPhone17pro天猫官旗首次降价",
+      "onboard_time": 1760924301,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 203974,
@@ -345,6 +385,14 @@
       "onboard_time": 1760919921,
       "rank": 17,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 202582,
+      "num": 470729,
+      "word": "前三季度中国GDP同比增长5.2%",
+      "onboard_time": 1760929160,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 200451,
@@ -356,7 +404,7 @@
     },
     {
       "raw_hot": 200348,
-      "num": 200348,
+      "num": 617036,
       "word": "一张图了解四中全会",
       "onboard_time": 1760919561,
       "rank": 3,
@@ -371,12 +419,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198741,
+      "num": 198741,
+      "word": "迪丽热巴大女主排面",
+      "onboard_time": 1760933661,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197685,
-      "num": 407828,
+      "num": 425571,
       "word": "二十届四中全会",
       "onboard_time": 1760918961,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 196927,
+      "num": 196927,
+      "word": "白鹿 谁能给我一个包场链接",
+      "onboard_time": 1760934202,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 195084,
@@ -387,6 +451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194900,
+      "num": 194900,
+      "word": "印媒惊喜美智库把印空军排中国前",
+      "onboard_time": 1760931381,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 192903,
       "num": 424337,
       "word": "BLG签运",
@@ -395,12 +467,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 190682,
-      "num": 465540,
-      "word": "前三季度中国GDP同比增长5.2%",
-      "onboard_time": 1760929160,
-      "rank": 4,
-      "category": "国内时政"
+      "raw_hot": 187242,
+      "num": 437443,
+      "word": "为什么美国人要人均两份工",
+      "onboard_time": 1760933302,
+      "rank": 8,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 185558,
@@ -409,6 +481,14 @@
       "onboard_time": 1760924960,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183739,
+      "num": 183739,
+      "word": "谁跟你在一起都会抑郁的",
+      "onboard_time": 1760932581,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 183373,
@@ -425,6 +505,14 @@
       "onboard_time": 1760922981,
       "rank": 8,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 176069,
+      "num": 176069,
+      "word": "余承恩闯进阴湿男鬼赛道",
+      "onboard_time": 1760933963,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 173239,
@@ -451,6 +539,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168191,
+      "num": 198508,
+      "word": "暗河传",
+      "onboard_time": 1760924839,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165201,
+      "num": 165201,
+      "word": "秋冬化妆前的护肤公式",
+      "onboard_time": 1760932761,
+      "rank": 41,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 164928,
+      "num": 198433,
+      "word": "X剧场首部女性罪案剧",
+      "onboard_time": 1760933001,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164294,
       "num": 164294,
       "word": "司机高速快车道停车逼停大量车",
@@ -465,14 +577,6 @@
       "onboard_time": 1760929701,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158688,
-      "num": 182798,
-      "word": "iPhone17pro天猫官旗首次降价",
-      "onboard_time": 1760924301,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 154421,
@@ -499,6 +603,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152131,
+      "num": 152131,
+      "word": "排队5小时花65元买一个网红煎饼",
+      "onboard_time": 1760932581,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149370,
+      "num": 181841,
+      "word": "奥运冠军丁宁任北京先农坛体校校长",
+      "onboard_time": 1760933422,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145324,
       "num": 145324,
       "word": "水龙吟江湖因果版预告",
@@ -515,14 +635,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 139192,
-      "num": 186323,
-      "word": "暗河传",
-      "onboard_time": 1760924839,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137882,
       "num": 137882,
       "word": "王者荣耀",
@@ -537,6 +649,14 @@
       "onboard_time": 1760883202,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128212,
+      "num": 128212,
+      "word": "蒋敦豪 我锁cp就这样",
+      "onboard_time": 1760934383,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 125824,
@@ -563,6 +683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122415,
+      "num": 197465,
+      "word": "龚俊暗河传开播发红包",
+      "onboard_time": 1760934623,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121429,
       "num": 121429,
       "word": "把生命力养起来的方法",
@@ -579,12 +707,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114846,
-      "num": 114846,
-      "word": "狗 接完你的接你的",
-      "onboard_time": 1760931080,
-      "rank": 36,
-      "category": "幽默"
+      "raw_hot": 115693,
+      "num": 197774,
+      "word": "入局阵容官宣",
+      "onboard_time": 1760932341,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 112482,
@@ -611,12 +739,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 107657,
-      "num": 107657,
-      "word": "印媒惊喜美智库把印空军排中国前",
-      "onboard_time": 1760931381,
-      "rank": 42,
-      "category": "海外新闻"
+      "raw_hot": 106588,
+      "num": 177171,
+      "word": "结婚请柬在机场88块屏幕连播8天",
+      "onboard_time": 1760933900,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106074,
@@ -667,6 +795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 100691,
+      "num": 238994,
+      "word": "这些人不能乱吃止痛药",
+      "onboard_time": 1760931561,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 99191,
       "num": 338703,
       "word": "双红会",
@@ -681,6 +817,14 @@
       "onboard_time": 1760866461,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 95313,
+      "num": 119312,
+      "word": "马龙生日发博",
+      "onboard_time": 1760934503,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 94293,
@@ -891,6 +1035,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 66199,
+      "num": 178978,
+      "word": "特朗普专机落地机场现不明狩猎点",
+      "onboard_time": 1760934503,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 66007,
+      "num": 180181,
+      "word": "止痛药怎么选才安全",
+      "onboard_time": 1760933361,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 65523,
       "num": 341106,
       "word": "林高远好正宗一个广东人",
@@ -1003,6 +1163,14 @@
       "category": "综艺,互联网"
     },
     {
+      "raw_hot": 58775,
+      "num": 178175,
+      "word": "邵雨轩回应去复旦上学",
+      "onboard_time": 1760933781,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 57571,
       "num": 57571,
       "word": "利物浦1比2曼联",
@@ -1027,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51055,
+      "num": 197113,
+      "word": "三高人群患带状疱疹风险更高",
+      "onboard_time": 1760931441,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 47085,
       "num": 49472,
       "word": "于和伟回应台湾观众看沉默的荣耀",
@@ -1049,6 +1225,14 @@
       "onboard_time": 1760892080,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40145,
+      "num": 351915,
+      "word": "礼遇季每小时抽1111元",
+      "onboard_time": 1760932881,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 38527,
@@ -1089,6 +1273,14 @@
       "onboard_time": 1760876183,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33864,
+      "num": 401596,
+      "word": "成毅冰雪心动瞬间",
+      "onboard_time": 1760933302,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 33276,
@@ -1209,6 +1401,9 @@
     },
     {
       "word": "#跟着总书记看看这五年#"
+    },
+    {
+      "word": "#为何在中国看到了未来看到了信心#"
     }
   ]
 }

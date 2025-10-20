@@ -1,0 +1,410 @@
+{
+  "runTime": 1760934716979,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 422110,
+        "num": 1067537,
+        "word": "郑丽文支持者激动落泪说我是中国人",
+        "onboard_time": 1760924119,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 228613,
+        "num": 675908,
+        "word": "台风风神已进入我国南海",
+        "onboard_time": 1760919861,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 53354,
+        "num": 617036,
+        "word": "一张图了解四中全会",
+        "onboard_time": 1760919561,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 584437,
+        "num": 584437,
+        "word": "水龙吟定档",
+        "onboard_time": 1760929880,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204251,
+        "num": 479039,
+        "word": "iPhone17pro天猫官旗首次降价",
+        "onboard_time": 1760924301,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 473491,
+        "num": 473491,
+        "word": "卢浮宫8件失窃藏品清单",
+        "onboard_time": 1760917639,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 202582,
+        "num": 470729,
+        "word": "前三季度中国GDP同比增长5.2%",
+        "onboard_time": 1760929160,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256326,
+        "num": 458065,
+        "word": "卢浮宫遭劫已立案调查",
+        "onboard_time": 1760927721,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 187242,
+        "num": 437443,
+        "word": "为什么美国人要人均两份工",
+        "onboard_time": 1760933302,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183280,
+        "num": 425571,
+        "word": "二十届四中全会",
+        "onboard_time": 1760918961,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33864,
+        "num": 401596,
+        "word": "成毅冰雪心动瞬间",
+        "onboard_time": 1760933302,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1155545,
+        "num": 397299,
+        "word": "找同学操办婚礼到现场两眼一黑",
+        "onboard_time": 1760926339,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1143785,
+        "num": 383977,
+        "word": "公务员连续旷工超15个工作日被辞退",
+        "onboard_time": 1760930840,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 709833,
+        "num": 367439,
+        "word": "迪丽热巴新剧搭档陈昊森",
+        "onboard_time": 1760930481,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40145,
+        "num": 351915,
+        "word": "礼遇季每小时抽1111元",
+        "onboard_time": 1760932881,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 339616,
+        "num": 339616,
+        "word": "陈乔恩25包除湿剂买成25箱",
+        "onboard_time": 1760928260,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333270,
+        "num": 333270,
+        "word": "李沁和苏暮雨一起破局",
+        "onboard_time": 1760933121,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308521,
+        "num": 308521,
+        "word": "任嘉伦受伤",
+        "onboard_time": 1760928501,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251829,
+        "num": 251829,
+        "word": "于正选择周柯宇赵晴的理由",
+        "onboard_time": 1760927418,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100691,
+        "num": 238994,
+        "word": "这些人不能乱吃止痛药",
+        "onboard_time": 1760931561,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 499450,
+        "num": 238817,
+        "word": "黄金",
+        "onboard_time": 1760925259,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 227553,
+        "num": 227553,
+        "word": "狗 接完你的接你的",
+        "onboard_time": 1760931080,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 221161,
+        "num": 221161,
+        "word": "下班后唯一愿意收到的消息",
+        "onboard_time": 1760933480,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198741,
+        "num": 198741,
+        "word": "迪丽热巴大女主排面",
+        "onboard_time": 1760933661,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168191,
+        "num": 198508,
+        "word": "暗河传",
+        "onboard_time": 1760934442,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164928,
+        "num": 198433,
+        "word": "X剧场首部女性罪案剧",
+        "onboard_time": 1760933001,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151107,
+        "num": 197909,
+        "word": "虽然不能同时拥有一切",
+        "onboard_time": 1760926999,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115693,
+        "num": 197774,
+        "word": "入局阵容官宣",
+        "onboard_time": 1760932341,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122415,
+        "num": 197465,
+        "word": "龚俊暗河传开播发红包",
+        "onboard_time": 1760934623,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51055,
+        "num": 197113,
+        "word": "三高人群患带状疱疹风险更高",
+        "onboard_time": 1760931441,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196927,
+        "num": 196927,
+        "word": "白鹿 谁能给我一个包场链接",
+        "onboard_time": 1760934202,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211692,
+        "num": 196629,
+        "word": "行李员工资高我是一点都不羡慕",
+        "onboard_time": 1760933241,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194900,
+        "num": 194900,
+        "word": "印媒惊喜美智库把印空军排中国前",
+        "onboard_time": 1760931381,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183739,
+        "num": 183739,
+        "word": "谁跟你在一起都会抑郁的",
+        "onboard_time": 1760932581,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91432,
+        "num": 183055,
+        "word": "焕新极氪7X开启预售",
+        "onboard_time": 1760930120,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 149370,
+        "num": 181841,
+        "word": "奥运冠军丁宁任北京先农坛体校校长",
+        "onboard_time": 1760933422,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66007,
+        "num": 180181,
+        "word": "止痛药怎么选才安全",
+        "onboard_time": 1760933361,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 66199,
+        "num": 178978,
+        "word": "特朗普专机落地机场现不明狩猎点",
+        "onboard_time": 1760934503,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58775,
+        "num": 178175,
+        "word": "邵雨轩回应去复旦上学",
+        "onboard_time": 1760933781,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106588,
+        "num": 177171,
+        "word": "结婚请柬在机场88块屏幕连播8天",
+        "onboard_time": 1760933900,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176069,
+        "num": 176069,
+        "word": "余承恩闯进阴湿男鬼赛道",
+        "onboard_time": 1760933963,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165201,
+        "num": 165201,
+        "word": "秋冬化妆前的护肤公式",
+        "onboard_time": 1760932761,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 158469,
+        "num": 158469,
+        "word": "瘦了26斤的面部折叠度",
+        "onboard_time": 1760918360,
+        "rank": 42,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 152131,
+        "num": 152131,
+        "word": "排队5小时花65元买一个网红煎饼",
+        "onboard_time": 1760932581,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139378,
+        "num": 139378,
+        "word": "网友拍到一拉布拉多开电动车上路",
+        "onboard_time": 1760929821,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134332,
+        "num": 134332,
+        "word": "抢一张演唱会票被骗17万",
+        "onboard_time": 1760929280,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128212,
+        "num": 128212,
+        "word": "蒋敦豪 我锁cp就这样",
+        "onboard_time": 1760934383,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121844,
+        "num": 121844,
+        "word": "沈腾一盘土豆丝炒了三年",
+        "onboard_time": 1760929701,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95313,
+        "num": 119312,
+        "word": "马龙生日发博",
+        "onboard_time": 1760934503,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119256,
+        "num": 119256,
+        "word": "原来冬天洗澡的时候不能开换气",
+        "onboard_time": 1760921780,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#为何在中国看到了未来看到了信心#"
+    }
+  }
+}
