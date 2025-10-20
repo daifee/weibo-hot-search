@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1761000040291,
+  "endTime": 1761002624743,
   "band_list": [
     {
       "raw_hot": 1101636,
@@ -9,6 +9,14 @@
       "onboard_time": 1760971041,
       "rank": 10,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 822954,
+      "num": 176365,
+      "word": "被冻醒",
+      "onboard_time": 1760985853,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 450621,
@@ -43,12 +51,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 367203,
-      "num": 108781,
-      "word": "被冻醒",
-      "onboard_time": 1760985853,
-      "rank": 37,
-      "category": "幽默"
+      "raw_hot": 281324,
+      "num": 760445,
+      "word": "卢浮宫被盗藏品可在1小时内被分解",
+      "onboard_time": 1760976440,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 274741,
@@ -76,11 +84,35 @@
     },
     {
       "raw_hot": 189660,
-      "num": 117300,
+      "num": 136668,
       "word": "毕加索名画离奇失踪",
       "onboard_time": 1760976621,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 188211,
+      "num": 252125,
+      "word": "泽连斯基与特朗普对骂",
+      "onboard_time": 1760965221,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 187016,
+      "num": 179433,
+      "word": "黄晓明增减30斤跟玩儿一样",
+      "onboard_time": 1760976021,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 183571,
+      "num": 160270,
+      "word": "拒卖寿衣给老外的店主最新回应",
+      "onboard_time": 1760969182,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181995,
@@ -91,28 +123,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179433,
-      "num": 179433,
-      "word": "黄晓明增减30斤跟玩儿一样",
-      "onboard_time": 1760976021,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 161543,
-      "num": 470291,
-      "word": "卢浮宫被盗藏品可在1小时内被分解",
-      "onboard_time": 1760976440,
-      "rank": 36,
+      "raw_hot": 176093,
+      "num": 228877,
+      "word": "中国游客拍到卢浮宫盗窃案事发现场",
+      "onboard_time": 1760966059,
+      "rank": 7,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 160270,
-      "num": 160270,
-      "word": "拒卖寿衣给老外的店主最新回应",
-      "onboard_time": 1760969182,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151500,
@@ -123,20 +139,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 150849,
-      "num": 252125,
-      "word": "泽连斯基与特朗普对骂",
-      "onboard_time": 1760965221,
-      "rank": 4,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 150344,
       "num": 237380,
       "word": "韩国选手破了孙杨亚洲纪录",
       "onboard_time": 1760961501,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149303,
+      "num": 149303,
+      "word": "多款知名进口药将退出国内市场",
+      "onboard_time": 1760963720,
+      "rank": 37,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 146109,
@@ -147,20 +163,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 144847,
-      "num": 228877,
-      "word": "中国游客拍到卢浮宫盗窃案事发现场",
-      "onboard_time": 1760966059,
-      "rank": 7,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 129587,
       "num": 129587,
       "word": "马龙回复王楚钦",
       "onboard_time": 1760973022,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116704,
+      "num": 116704,
+      "word": "教育局回应老师上课玩手机麻将",
+      "onboard_time": 1760963481,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115162,
@@ -176,6 +192,14 @@
       "word": "男子回应翻妻子手机发现和8人暧昧",
       "onboard_time": 1760966123,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106438,
+      "num": 106438,
+      "word": "300元以下基本买不到真羽绒",
+      "onboard_time": 1760974402,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -201,14 +225,6 @@
       "onboard_time": 1760966240,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100901,
-      "num": 100901,
-      "word": "300元以下基本买不到真羽绒",
-      "onboard_time": 1760974402,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 94622,
@@ -259,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77746,
+      "num": 77746,
+      "word": "静悄悄的流行病正盯上年轻人",
+      "onboard_time": 1761002238,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 77407,
       "num": 77407,
       "word": "男孩被戳伤失明园长用猪油消肿后续",
@@ -267,28 +291,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 75048,
-      "num": 75048,
-      "word": "多款知名进口药将退出国内市场",
-      "onboard_time": 1760963720,
-      "rank": 37,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 74655,
       "num": 74655,
       "word": "68页PPT男子二次举报希望开除博士生",
       "onboard_time": 1760972902,
       "rank": 33,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 71789,
-      "num": 71789,
-      "word": "教育局回应老师上课玩手机麻将",
-      "onboard_time": 1760963481,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71348,
@@ -307,6 +315,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 63730,
+      "num": 55693,
+      "word": "新郎新娘发言惊呆亲友",
+      "onboard_time": 1761002478,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 63158,
       "num": 65487,
       "word": "肖战刘铮亮手术服造型路透",
@@ -316,7 +332,7 @@
     },
     {
       "raw_hot": 62874,
-      "num": 78495,
+      "num": 99351,
       "word": "水龙吟",
       "onboard_time": 1760970561,
       "rank": 29,
@@ -339,20 +355,36 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 59808,
+      "num": 145923,
+      "word": "郑州迎入秋后第一场雪",
+      "onboard_time": 1761002178,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58639,
+      "num": 58639,
+      "word": "总要来趟高淳吧",
+      "onboard_time": 1761002478,
+      "rank": 25,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 58200,
+      "num": 65650,
+      "word": "短裙变长裙这也太美了",
+      "onboard_time": 1760978238,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 57523,
       "num": 65090,
       "word": "樊振东的魔术手",
       "onboard_time": 1760974582,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56913,
-      "num": 65650,
-      "word": "短裙变长裙这也太美了",
-      "onboard_time": 1760978238,
-      "rank": 35,
-      "category": "时尚"
     },
     {
       "raw_hot": 54459,
@@ -369,6 +401,14 @@
       "onboard_time": 1760972602,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 52701,
+      "num": 52701,
+      "word": "广西百色多地严重洪涝直击救援现场",
+      "onboard_time": 1761002118,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51577,
@@ -411,20 +451,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 35693,
-      "num": 35693,
+      "raw_hot": 44693,
+      "num": 44693,
       "word": "新高铁小桌板有手机支架",
       "onboard_time": 1760991315,
       "rank": 32,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33404,
+      "raw_hot": 44532,
       "num": 65274,
       "word": "罗永浩为何力挺易烊千玺",
       "onboard_time": 1760980696,
       "rank": 40,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 37183,
+      "num": 37183,
+      "word": "住酒店被前台安排在尾房",
+      "onboard_time": 1761002358,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28569,
@@ -443,8 +491,8 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 20391,
-      "num": 48920,
+      "raw_hot": 22232,
+      "num": 56074,
       "word": "暗河传打戏",
       "onboard_time": 1760981356,
       "rank": 29,

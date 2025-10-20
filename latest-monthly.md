@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 06:40:40
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 07:23:44
 </p>
 </blockquote>
 <p>
@@ -2537,6 +2537,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%80%E5%A4%9C%E6%9A%B4%E6%B6%A8%E6%9C%89%E6%8A%95%E8%B5%84%E8%80%85%E5%BD%BB%E5%A4%9C%E9%9A%BE%E7%9C%A0%23" target="weibo">
 金价一夜暴涨有投资者彻夜难眠（热度：824200）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%86%BB%E9%86%92%23" target="weibo">
+被冻醒（热度：822954）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TheShy回应上单韦鲁斯（热度：477977）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%9D%87%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%23" target="weibo">
 野人小孩父母均大学毕业（热度：476771）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%9F%E4%B8%80%E5%BF%85%E8%83%9C%E5%8F%B0%E7%8B%AC%E5%BF%85%E4%BA%A1%23" target="weibo">
-统一必胜台独必亡（热度：476626）
 </a>
 </li>
 
