@@ -1,0 +1,410 @@
+{
+  "runTime": 1760949696341,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 517463,
+        "num": 1082794,
+        "word": "英国奶奶因汶川地震留中国17年",
+        "onboard_time": 1760939841,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 283277,
+        "num": 283277,
+        "word": "老外直勾勾盯着中国农村的魔芋",
+        "onboard_time": 1760936663,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168839,
+        "num": 271676,
+        "word": "四中全会",
+        "onboard_time": 1760948660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 426567,
+        "num": 270653,
+        "word": "红包",
+        "onboard_time": 1760941461,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 265912,
+        "num": 265912,
+        "word": "乌镇飞天女演员失控落湖",
+        "onboard_time": 1760948242,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253670,
+        "num": 253670,
+        "word": "12306新增积分兑换座位升席功能",
+        "onboard_time": 1760943143,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196299,
+        "num": 253551,
+        "word": "西卡预测TES零封GEN",
+        "onboard_time": 1760946741,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153582,
+        "num": 253022,
+        "word": "亚马逊崩了",
+        "onboard_time": 1760948242,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 152808,
+        "num": 252569,
+        "word": "Lululemon劲敌Alo还没开进中国",
+        "onboard_time": 1760946200,
+        "rank": 8,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 134913,
+        "num": 252056,
+        "word": "摇粒绒怎么穿能不显胖",
+        "onboard_time": 1760949200,
+        "rank": 9,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 890231,
+        "num": 251566,
+        "word": "九寨沟烤肠",
+        "onboard_time": 1760946981,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 774214,
+        "num": 251016,
+        "word": "外籍游客扎堆寿衣店试穿购买",
+        "onboard_time": 1760946440,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 637432,
+        "num": 250270,
+        "word": "坐高铁再也不用扛行李了",
+        "onboard_time": 1760943742,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 409599,
+        "num": 249807,
+        "word": "黄磊摔的是手机留的是观剧体验",
+        "onboard_time": 1760944521,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130473,
+        "num": 249439,
+        "word": "25省份生育津贴直发至个人",
+        "onboard_time": 1760939182,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 385920,
+        "num": 248781,
+        "word": "平台回应退款要扇孩子耳光5分钟",
+        "onboard_time": 1760943561,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335729,
+        "num": 248256,
+        "word": "卢远 王乐晨",
+        "onboard_time": 1760935280,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317698,
+        "num": 247928,
+        "word": "麦当劳 粤菜",
+        "onboard_time": 1760941702,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 22628,
+        "num": 247458,
+        "word": "郑丽文 绝不让台湾成麻烦制造者",
+        "onboard_time": 1760949021,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81713,
+        "num": 246773,
+        "word": "京东红包助力",
+        "onboard_time": 1760948242,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 273462,
+        "num": 246545,
+        "word": "暗河传 画面暗",
+        "onboard_time": 1760944521,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246164,
+        "num": 246164,
+        "word": "减肥十斤就是掉了这么多肉",
+        "onboard_time": 1760935223,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231283,
+        "num": 231283,
+        "word": "潮玩平台退款要求扇孩子耳光5分钟",
+        "onboard_time": 1760939240,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193300,
+        "num": 193300,
+        "word": "公务员非铁饭碗须遵守基本工作纪律",
+        "onboard_time": 1760944221,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192163,
+        "num": 192163,
+        "word": "洞洞鞋下岗了但没完全下",
+        "onboard_time": 1760948600,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178651,
+        "num": 178651,
+        "word": "刘宇宁vs刘宇宁vs刘宇宁",
+        "onboard_time": 1760944821,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30830,
+        "num": 177584,
+        "word": "短剧霸总男团发红包",
+        "onboard_time": 1760947401,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177067,
+        "num": 177067,
+        "word": "女主马甲掉了男主更爱了",
+        "onboard_time": 1760941221,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126438,
+        "num": 163829,
+        "word": "天猫用AI爆改八方来财",
+        "onboard_time": 1760946262,
+        "rank": 28,
+        "category": "互联网,音乐"
+      },
+      {
+        "raw_hot": 85671,
+        "num": 160943,
+        "word": "没有峰哥玩不转的运动",
+        "onboard_time": 1760949382,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 160352,
+        "num": 160352,
+        "word": "暗河传",
+        "onboard_time": 1760934442,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151338,
+        "num": 151338,
+        "word": "尚雯婕签了papi公司",
+        "onboard_time": 1760948962,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133320,
+        "num": 133320,
+        "word": "27岁全款在村里开了一家饭店",
+        "onboard_time": 1760943262,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123464,
+        "num": 123464,
+        "word": "林更新是成毅新剧出品人",
+        "onboard_time": 1760946802,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41720,
+        "num": 119196,
+        "word": "第一次直观感受到省钱的杀伤力",
+        "onboard_time": 1760948242,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116670,
+        "num": 116670,
+        "word": "身体6个表现说明开始变瘦了",
+        "onboard_time": 1760944102,
+        "rank": 35,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 112144,
+        "num": 112144,
+        "word": "何洛洛红包",
+        "onboard_time": 1760948120,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88741,
+        "num": 110004,
+        "word": "河南10月下雪了",
+        "onboard_time": 1760949561,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84942,
+        "num": 109938,
+        "word": "王楚钦蹦得快要起飞了",
+        "onboard_time": 1760949442,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25396,
+        "num": 109893,
+        "word": "韩国民众在美大使馆前举行反美游行",
+        "onboard_time": 1760948962,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109878,
+        "num": 109878,
+        "word": "美媒爆特朗普疑似险遭暗杀",
+        "onboard_time": 1760939541,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108113,
+        "num": 108113,
+        "word": "多邻国崩了",
+        "onboard_time": 1760946080,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 106572,
+        "num": 106572,
+        "word": "00后不谈恋爱的原因",
+        "onboard_time": 1760949622,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106180,
+        "num": 106180,
+        "word": "马思纯张雅琪扣面膜好好笑",
+        "onboard_time": 1760949682,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105661,
+        "num": 105661,
+        "word": "红包分组",
+        "onboard_time": 1760946020,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 105437,
+        "num": 105437,
+        "word": "徐振轩发红包",
+        "onboard_time": 1760948120,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103241,
+        "num": 103602,
+        "word": "前三季度铁路发送旅客35.4亿人次",
+        "onboard_time": 1760948242,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103522,
+        "num": 103522,
+        "word": "邓莎只给路行送过一个手表盒",
+        "onboard_time": 1760946621,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103422,
+        "num": 103422,
+        "word": "工资像一场小雨",
+        "onboard_time": 1760948782,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102284,
+        "num": 102284,
+        "word": "特朗普称美国或将得20万亿投资",
+        "onboard_time": 1760944161,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届四中全会在北京开始举行#"
+    }
+  }
+}

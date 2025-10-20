@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/20 00:29:23 ~ 2025/10/20 15:46:20
+本榜单时间：2025/10/20 00:29:23 ~ 2025/10/20 16:41:36
 </p>
 </blockquote>
 <p>
@@ -63,8 +63,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%AF%A8%E6%B2%9F%E7%83%A4%E8%82%A0%23" target="weibo">
+九寨沟烤肠（热度：890231）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%BF%AB%E4%B9%90%E5%AE%B6%E6%97%8F%E5%B0%86%E5%BD%95%E5%9B%A2%E7%BB%BC%23" target="weibo">
 网传快乐家族将录团综（热度：883069）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%B1%8D%E6%B8%B8%E5%AE%A2%E6%89%8E%E5%A0%86%E5%AF%BF%E8%A1%A3%E5%BA%97%E8%AF%95%E7%A9%BF%E8%B4%AD%E4%B9%B0%23" target="weibo">
+外籍游客扎堆寿衣店试穿购买（热度：774214）
 </a>
 </li>
 
@@ -243,6 +255,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BA%94%E9%80%80%E6%AC%BE%E8%A6%81%E6%89%87%E5%AD%A9%E5%AD%90%E8%80%B3%E5%85%895%E5%88%86%E9%92%9F%23" target="weibo">
+平台回应退款要扇孩子耳光5分钟（热度：385920）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E8%BF%9C%E7%8E%8B%E4%B9%90%E6%99%A8%E5%BD%BB%E5%BA%95be%23" target="weibo">
 卢远王乐晨彻底be（热度：384812）
 </a>
@@ -369,6 +387,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E9%95%87%E9%A3%9E%E5%A4%A9%E5%A5%B3%E6%BC%94%E5%91%98%E5%A4%B1%E6%8E%A7%E8%90%BD%E6%B9%96%23" target="weibo">
+乌镇飞天女演员失控落湖（热度：265912）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E4%B8%AD%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF5.2%25%23" target="weibo">
 前三季度中国GDP同比增长5.2%（热度：258250）
 </a>
@@ -377,6 +401,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E9%81%AD%E5%8A%AB%E5%B7%B2%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5%23" target="weibo">
 卢浮宫遭劫已立案调查（热度：256326）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2312306%E6%96%B0%E5%A2%9E%E7%A7%AF%E5%88%86%E5%85%91%E6%8D%A2%E5%BA%A7%E4%BD%8D%E5%8D%87%E5%B8%AD%E5%8A%9F%E8%83%BD%23" target="weibo">
+12306新增积分兑换座位升席功能（热度：253670）
 </a>
 </li>
 
@@ -495,14 +525,14 @@ iPhone17pro天猫官旗首次降价（热度：204251）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BA%94%E9%80%80%E6%AC%BE%E8%A6%81%E6%89%87%E5%AD%A9%E5%AD%90%E8%80%B3%E5%85%895%E5%88%86%E9%92%9F%23" target="weibo">
-平台回应退款要扇孩子耳光5分钟（热度：198008）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%23" target="weibo">
+二十届四中全会（热度：197685）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%23" target="weibo">
-二十届四中全会（热度：197685）
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8D%A1%E9%A2%84%E6%B5%8BTES%E9%9B%B6%E5%B0%81GEN%23" target="weibo">
+西卡预测TES零封GEN（热度：196299）
 </a>
 </li>
 
@@ -531,8 +561,20 @@ iPhone17pro天猫官旗首次降价（热度：204251）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8A%A1%E5%91%98%E9%9D%9E%E9%93%81%E9%A5%AD%E7%A2%97%E9%A1%BB%E9%81%B5%E5%AE%88%E5%9F%BA%E6%9C%AC%E5%B7%A5%E4%BD%9C%E7%BA%AA%E5%BE%8B%23" target="weibo">
+公务员非铁饭碗须遵守基本工作纪律（热度：193300）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BLG%E7%AD%BE%E8%BF%90%23" target="weibo">
 BLG签运（热度：192903）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9E%E6%B4%9E%E9%9E%8B%E4%B8%8B%E5%B2%97%E4%BA%86%E4%BD%86%E6%B2%A1%E5%AE%8C%E5%85%A8%E4%B8%8B%23" target="weibo">
+洞洞鞋下岗了但没完全下（热度：192163）
 </a>
 </li>
 
@@ -545,12 +587,6 @@ BLG签运（热度：192903）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%B8%AA%E5%90%83%E9%A5%AD%E5%85%8D%E6%8E%92%E9%98%9F%E7%9A%84%E9%82%AA%E4%BF%AE%E6%96%B9%E6%B3%95%23" target="weibo">
 一个吃饭免排队的邪修方法（热度：185558）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8A%A1%E5%91%98%E9%9D%9E%E9%93%81%E9%A5%AD%E7%A2%97%E9%A1%BB%E9%81%B5%E5%AE%88%E5%9F%BA%E6%9C%AC%E5%B7%A5%E4%BD%9C%E7%BA%AA%E5%BE%8B%23" target="weibo">
-公务员非铁饭碗须遵守基本工作纪律（热度：183913）
 </a>
 </li>
 
@@ -633,6 +669,12 @@ BLG签运（热度：192903）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%23" target="weibo">
+四中全会（热度：168839）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%86%AC%E5%8C%96%E5%A6%86%E5%89%8D%E7%9A%84%E6%8A%A4%E8%82%A4%E5%85%AC%E5%BC%8F%23" target="weibo">
 秋冬化妆前的护肤公式（热度：165201）
 </a>
@@ -705,6 +747,18 @@ LPR（热度：154421）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%B4%A9%E4%BA%86%23" target="weibo">
+亚马逊崩了（热度：153582）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Lululemon%E5%8A%B2%E6%95%8CAlo%E8%BF%98%E6%B2%A1%E5%BC%80%E8%BF%9B%E4%B8%AD%E5%9B%BD%23" target="weibo">
+Lululemon劲敌Alo还没开进中国（热度：152808）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%230713%E6%B2%A1%E6%9C%89%E5%BC%A0%E8%BF%9C%E7%9A%84%E7%BE%A4%E6%9C%8920%E5%A4%9A%E4%B8%AA%23" target="weibo">
 0713没有张远的群有20多个（热度：152758）
 </a>
@@ -713,6 +767,12 @@ LPR（热度：154421）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8E%92%E9%98%9F5%E5%B0%8F%E6%97%B6%E8%8A%B165%E5%85%83%E4%B9%B0%E4%B8%80%E4%B8%AA%E7%BD%91%E7%BA%A2%E7%85%8E%E9%A5%BC%23" target="weibo">
 排队5小时花65元买一个网红煎饼（热度：152131）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E9%9B%AF%E5%A9%95%E7%AD%BE%E4%BA%86papi%E5%85%AC%E5%8F%B8%23" target="weibo">
+尚雯婕签了papi公司（热度：151338）
 </a>
 </li>
 
@@ -795,6 +855,12 @@ Karsa希望20年TES能弥补遗憾（热度：144378）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%91%87%E7%B2%92%E7%BB%92%E6%80%8E%E4%B9%88%E7%A9%BF%E8%83%BD%E4%B8%8D%E6%98%BE%E8%83%96%23" target="weibo">
+摇粒绒怎么穿能不显胖（热度：134913）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%BB%99%E5%B8%B8%E5%8D%8E%E6%A3%AE%E5%8C%85%E5%9C%BA%E4%B8%8D%E7%9F%A5%E9%81%93%E9%93%BE%E6%8E%A5%23" target="weibo">
 白鹿给常华森包场不知道链接（热度：131583）
 </a>
@@ -819,8 +885,8 @@ Karsa希望20年TES能弥补遗憾（热度：144378）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2312306%E6%96%B0%E5%A2%9E%E7%A7%AF%E5%88%86%E5%85%91%E6%8D%A2%E5%BA%A7%E4%BD%8D%E5%8D%87%E5%B8%AD%E5%8A%9F%E8%83%BD%23" target="weibo">
-12306新增积分兑换座位升席功能（热度：128421）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8C%AB%E7%94%A8AI%E7%88%86%E6%94%B9%E5%85%AB%E6%96%B9%E6%9D%A5%E8%B4%A2%23" target="weibo">
+天猫用AI爆改八方来财（热度：126438）
 </a>
 </li>
 
@@ -861,6 +927,12 @@ Karsa希望20年TES能弥补遗憾（热度：144378）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E6%98%AF%E6%88%90%E6%AF%85%E6%96%B0%E5%89%A7%E5%87%BA%E5%93%81%E4%BA%BA%23" target="weibo">
+林更新是成毅新剧出品人（热度：123464）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%9F%A5%E6%94%B6%E9%A9%AC%E9%BE%99%E7%9A%84%E7%94%9F%E6%97%A5%E5%9B%9E%E4%BF%A1%23" target="weibo">
 请查收马龙的生日回信（热度：122864）
 </a>
@@ -869,12 +941,6 @@ Karsa希望20年TES能弥补遗憾（热度：144378）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%8A%E7%94%9F%E5%91%BD%E5%8A%9B%E5%85%BB%E8%B5%B7%E6%9D%A5%E7%9A%84%E6%96%B9%E6%B3%95%23" target="weibo">
 把生命力养起来的方法（热度：121429）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Lululemon%E5%8A%B2%E6%95%8CAlo%E8%BF%98%E6%B2%A1%E5%BC%80%E8%BF%9B%E4%B8%AD%E5%9B%BD%23" target="weibo">
-Lululemon劲敌Alo还没开进中国（热度：119672）
 </a>
 </li>
 
@@ -935,6 +1001,12 @@ Lululemon劲敌Alo还没开进中国（热度：119672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A5%E5%B1%80%23" target="weibo">
 入局（热度：112482）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%B4%9B%E6%B4%9B%E7%BA%A2%E5%8C%85%23" target="weibo">
+何洛洛红包（热度：112144）
 </a>
 </li>
 
@@ -1023,6 +1095,18 @@ Lululemon劲敌Alo还没开进中国（热度：119672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2300%E5%90%8E%E4%B8%8D%E8%B0%88%E6%81%8B%E7%88%B1%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
+00后不谈恋爱的原因（热度：106572）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E5%BC%A0%E9%9B%85%E7%90%AA%E6%89%A3%E9%9D%A2%E8%86%9C%E5%A5%BD%E5%A5%BD%E7%AC%91%23" target="weibo">
+马思纯张雅琪扣面膜好好笑（热度：106180）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%B5%E5%B7%9E%E5%A4%B1%E8%81%942%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%B7%B2%E6%89%BE%E5%88%B0%23" target="weibo">
 贵州失联2岁女童已找到（热度：106074）
 </a>
@@ -1031,6 +1115,12 @@ Lululemon劲敌Alo还没开进中国（热度：119672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%A9%E7%89%A9%E6%B5%A6vs%E6%9B%BC%E8%81%94%23" target="weibo">
 利物浦vs曼联（热度：105991）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%8C%AF%E8%BD%A9%E5%8F%91%E7%BA%A2%E5%8C%85%23" target="weibo">
+徐振轩发红包（热度：105437）
 </a>
 </li>
 
@@ -1061,6 +1151,24 @@ Lululemon劲敌Alo还没开进中国（热度：119672）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BC%80%E7%AE%97TES%E9%81%87%E5%88%B0BLG%E7%9A%84%E6%A6%82%E7%8E%87%23" target="weibo">
 朱开算TES遇到BLG的概率（热度：103543）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%8E%8E%E5%8F%AA%E7%BB%99%E8%B7%AF%E8%A1%8C%E9%80%81%E8%BF%87%E4%B8%80%E4%B8%AA%E6%89%8B%E8%A1%A8%E7%9B%92%23" target="weibo">
+邓莎只给路行送过一个手表盒（热度：103522）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E8%B5%84%E5%83%8F%E4%B8%80%E5%9C%BA%E5%B0%8F%E9%9B%A8%23" target="weibo">
+工资像一场小雨（热度：103422）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E9%93%81%E8%B7%AF%E5%8F%91%E9%80%81%E6%97%85%E5%AE%A235.4%E4%BA%BF%E4%BA%BA%E6%AC%A1%23" target="weibo">
+前三季度铁路发送旅客35.4亿人次（热度：103241）
 </a>
 </li>
 
@@ -1167,8 +1275,8 @@ Lululemon劲敌Alo还没开进中国（热度：119672）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8C%AB%E7%94%A8AI%E7%88%86%E6%94%B9%E5%85%AB%E6%96%B9%E6%9D%A5%E8%B4%A2%23" target="weibo">
-天猫用AI爆改八方来财（热度：88311）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%9710%E6%9C%88%E4%B8%8B%E9%9B%AA%E4%BA%86%23" target="weibo">
+河南10月下雪了（热度：88741）
 </a>
 </li>
 
@@ -1203,6 +1311,12 @@ Lululemon劲敌Alo还没开进中国（热度：119672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E5%B3%B0%E5%93%A5%E7%8E%A9%E4%B8%8D%E8%BD%AC%E7%9A%84%E8%BF%90%E5%8A%A8%23" target="weibo">
+没有峰哥玩不转的运动（热度：85671）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%88%B6%E5%93%81%E6%98%AF%E5%AF%B9%E5%A5%B3%E6%80%A7%E5%BE%88%E5%A5%BD%E7%9A%84%E9%A3%9F%E7%89%A9%23" target="weibo">
 豆制品是对女性很好的食物（热度：85325）
 </a>
@@ -1215,8 +1329,20 @@ Lululemon劲敌Alo还没开进中国（热度：119672）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%B9%A6%E5%BE%97%E5%BF%AB%E8%A6%81%E8%B5%B7%E9%A3%9E%E4%BA%86%23" target="weibo">
+王楚钦蹦得快要起飞了（热度：84942）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E8%83%BD%E8%AE%A9%E5%AE%81%E9%9D%99%E5%AE%81%E9%9D%99%E7%9A%84%E4%BA%BA%E5%87%91%E4%B8%80%E6%A1%8C%E4%BA%86%23" target="weibo">
 内娱能让宁静宁静的人凑一桌了（热度：83484）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E7%BA%A2%E5%8C%85%E5%8A%A9%E5%8A%9B%23" target="weibo">
+京东红包助力（热度：81713）
 </a>
 </li>
 
@@ -1503,6 +1629,12 @@ WTT发文为马龙梁靖崑庆生（热度：50026）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9B%B4%E8%A7%82%E6%84%9F%E5%8F%97%E5%88%B0%E7%9C%81%E9%92%B1%E7%9A%84%E6%9D%80%E4%BC%A4%E5%8A%9B%23" target="weibo">
+第一次直观感受到省钱的杀伤力（热度：41720）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A4%BC%E9%81%87%E5%AD%A3%E6%AF%8F%E5%B0%8F%E6%97%B6%E6%8A%BD1111%E5%85%83%23" target="weibo">
 礼遇季每小时抽1111元（热度：40145）
 </a>
@@ -1587,6 +1719,12 @@ AG战胜TTG（热度：29148）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%B0%91%E4%BC%97%E5%9C%A8%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%89%8D%E4%B8%BE%E8%A1%8C%E5%8F%8D%E7%BE%8E%E6%B8%B8%E8%A1%8C%23" target="weibo">
+韩国民众在美大使馆前举行反美游行（热度：25396）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%A8%E5%8C%97%E4%BA%AC%E8%B7%8C%E7%A0%B4%E5%86%B0%E7%82%B9%23" target="weibo">
 今晨北京跌破冰点（热度：25052）
 </a>
@@ -1595,6 +1733,12 @@ AG战胜TTG（热度：29148）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%BF%99%E5%8F%A5%E5%96%9C%E6%AC%A2%E7%BB%99%E6%88%91%E5%93%84%E6%88%90%E8%83%9A%E8%83%8E%E4%BA%86%23" target="weibo">
 汪苏泷这句喜欢给我哄成胚胎了（热度：24501）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B8%BD%E6%96%87%20%E7%BB%9D%E4%B8%8D%E8%AE%A9%E5%8F%B0%E6%B9%BE%E6%88%90%E9%BA%BB%E7%83%A6%E5%88%B6%E9%80%A0%E8%80%85%23" target="weibo">
+郑丽文 绝不让台湾成麻烦制造者（热度：22628）
 </a>
 </li>
 

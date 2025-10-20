@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 15:46:20
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 16:41:36
 </p>
 </blockquote>
 <p>
@@ -2091,6 +2091,12 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%AF%A8%E6%B2%9F%E7%83%A4%E8%82%A0%23" target="weibo">
+九寨沟烤肠（热度：890231）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E4%BB%8A%E5%A4%A9%E5%B0%B1%E4%B8%8B%E9%9B%AA%E4%BA%86%23" target="weibo">
 北京今天就下雪了（热度：890196）
 </a>
@@ -2789,6 +2795,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E7%BA%AF%E6%8E%80%E6%A1%8C%E4%BA%86%23" target="weibo">
 马思纯掀桌了（热度：777517）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%B1%8D%E6%B8%B8%E5%AE%A2%E6%89%8E%E5%A0%86%E5%AF%BF%E8%A1%A3%E5%BA%97%E8%AF%95%E7%A9%BF%E8%B4%AD%E4%B9%B0%23" target="weibo">
+外籍游客扎堆寿衣店试穿购买（热度：774214）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TheShy回应上单韦鲁斯（热度：477977）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%B0%8F%E6%98%A5%E6%9B%B4%E6%96%B0%E4%B8%A4%E4%B8%AA%E5%84%BF%E5%AD%90%E8%BF%91%E7%85%A7%23" target="weibo">
 陈小春更新两个儿子近照（热度：472237）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%9A%84%E6%8C%87%E7%94%B2%23" target="weibo">
-范丞丞的指甲（热度：471933）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%86%9B%E5%BF%83%E6%88%98%E5%A4%A7%E9%98%9F%23" target="weibo">
-台军心战大队（热度：471535）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760946380028,
+  "endTime": 1760949696341,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1114813,
-      "num": 236168,
+      "num": 250270,
       "word": "坐高铁再也不用扛行李了",
       "onboard_time": 1760943742,
       "rank": 16,
@@ -171,6 +171,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 890231,
+      "num": 251566,
+      "word": "九寨沟烤肠",
+      "onboard_time": 1760946981,
+      "rank": 10,
+      "category": "美食"
+    },
+    {
       "raw_hot": 883069,
       "num": 198617,
       "word": "网传快乐家族将录团综",
@@ -215,6 +223,14 @@
       "num": 344870,
       "word": "野人小孩家人称采用自然教育法",
       "onboard_time": 1760885062,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 774214,
+      "num": 251016,
+      "word": "外籍游客扎堆寿衣店试穿购买",
+      "onboard_time": 1760946440,
       "rank": 11,
       "category": "民生新闻"
     },
@@ -324,7 +340,7 @@
     },
     {
       "raw_hot": 695315,
-      "num": 235958,
+      "num": 247928,
       "word": "麦当劳 粤菜",
       "onboard_time": 1760941702,
       "rank": 31,
@@ -572,7 +588,7 @@
     },
     {
       "raw_hot": 460171,
-      "num": 233159,
+      "num": 249807,
       "word": "黄磊摔的是手机留的是观剧体验",
       "onboard_time": 1760944521,
       "rank": 18,
@@ -779,6 +795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 385920,
+      "num": 248781,
+      "word": "平台回应退款要扇孩子耳光5分钟",
+      "onboard_time": 1760943561,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384812,
       "num": 344812,
       "word": "卢远王乐晨彻底be",
@@ -924,7 +948,7 @@
     },
     {
       "raw_hot": 330738,
-      "num": 240339,
+      "num": 246545,
       "word": "暗河传 画面暗",
       "onboard_time": 1760944521,
       "rank": 21,
@@ -1131,6 +1155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265912,
+      "num": 265912,
+      "word": "乌镇飞天女演员失控落湖",
+      "onboard_time": 1760948242,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262102,
       "num": 457546,
       "word": "杨振宁逝世",
@@ -1160,6 +1192,14 @@
       "word": "农商行员工被要求退回三年过节费",
       "onboard_time": 1760866221,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253670,
+      "num": 253670,
+      "word": "12306新增积分兑换座位升席功能",
+      "onboard_time": 1760943143,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -1475,20 +1515,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198008,
-      "num": 198008,
-      "word": "平台回应退款要扇孩子耳光5分钟",
-      "onboard_time": 1760943561,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197685,
       "num": 1045436,
       "word": "二十届四中全会",
       "onboard_time": 1760918961,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 196299,
+      "num": 253551,
+      "word": "西卡预测TES零封GEN",
+      "onboard_time": 1760946741,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 195819,
@@ -1539,6 +1579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193300,
+      "num": 193300,
+      "word": "公务员非铁饭碗须遵守基本工作纪律",
+      "onboard_time": 1760944221,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192812,
       "num": 552545,
       "word": "G2战胜BLG",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1760847020,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192163,
+      "num": 192163,
+      "word": "洞洞鞋下岗了但没完全下",
+      "onboard_time": 1760948600,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 190509,
@@ -1633,14 +1689,6 @@
       "onboard_time": 1760846780,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 183913,
-      "num": 183913,
-      "word": "公务员非铁饭碗须遵守基本工作纪律",
-      "onboard_time": 1760944221,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183739,
@@ -1825,6 +1873,14 @@
       "onboard_time": 1760937981,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 168839,
+      "num": 271676,
+      "word": "四中全会",
+      "onboard_time": 1760948660,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 168414,
@@ -2099,6 +2155,22 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 153582,
+      "num": 253022,
+      "word": "亚马逊崩了",
+      "onboard_time": 1760948242,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 152808,
+      "num": 252569,
+      "word": "Lululemon劲敌Alo还没开进中国",
+      "onboard_time": 1760946200,
+      "rank": 41,
+      "category": "民生新闻,时尚"
+    },
+    {
       "raw_hot": 152758,
       "num": 143193,
       "word": "0713没有张远的群有20多个",
@@ -2113,6 +2185,14 @@
       "onboard_time": 1760932581,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151338,
+      "num": 151338,
+      "word": "尚雯婕签了papi公司",
+      "onboard_time": 1760948962,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 151207,
@@ -2387,6 +2467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134913,
+      "num": 252056,
+      "word": "摇粒绒怎么穿能不显胖",
+      "onboard_time": 1760949200,
+      "rank": 9,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 134836,
       "num": 134836,
       "word": "李现回复杨紫谢谢白菊",
@@ -2571,14 +2659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128421,
-      "num": 123536,
-      "word": "12306新增积分兑换座位升席功能",
-      "onboard_time": 1760943143,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 128417,
       "num": 136452,
       "word": "水龙吟全员开大没有一帧是不燃的",
@@ -2625,6 +2705,14 @@
       "onboard_time": 1760869101,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126438,
+      "num": 163829,
+      "word": "天猫用AI爆改八方来财",
+      "onboard_time": 1760946262,
+      "rank": 34,
+      "category": "互联网,音乐"
     },
     {
       "raw_hot": 126396,
@@ -2739,6 +2827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123464,
+      "num": 123464,
+      "word": "林更新是成毅新剧出品人",
+      "onboard_time": 1760946802,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122864,
       "num": 122864,
       "word": "请查收马龙的生日回信",
@@ -2825,14 +2921,6 @@
       "onboard_time": 1760875942,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119672,
-      "num": 119672,
-      "word": "Lululemon劲敌Alo还没开进中国",
-      "onboard_time": 1760946200,
-      "rank": 41,
-      "category": "民生新闻,时尚"
     },
     {
       "raw_hot": 119324,
@@ -3049,6 +3137,14 @@
       "onboard_time": 1760798183,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112144,
+      "num": 112144,
+      "word": "何洛洛红包",
+      "onboard_time": 1760948120,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 112137,
@@ -3291,6 +3387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106572,
+      "num": 106572,
+      "word": "00后不谈恋爱的原因",
+      "onboard_time": 1760949622,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106410,
       "num": 154443,
       "word": "学校坍塌前有居民听到异响但未在意",
@@ -3307,12 +3411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106180,
+      "num": 106180,
+      "word": "马思纯张雅琪扣面膜好好笑",
+      "onboard_time": 1760949682,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105910,
       "num": 105910,
       "word": "51岁大哥摆摊半年一分钱没挣",
       "onboard_time": 1760850621,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105437,
+      "num": 105437,
+      "word": "徐振轩发红包",
+      "onboard_time": 1760948120,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 105436,
@@ -3401,6 +3521,30 @@
       "onboard_time": 1760942841,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103522,
+      "num": 103522,
+      "word": "邓莎只给路行送过一个手表盒",
+      "onboard_time": 1760946621,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 103422,
+      "num": 103422,
+      "word": "工资像一场小雨",
+      "onboard_time": 1760948782,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 103241,
+      "num": 103602,
+      "word": "前三季度铁路发送旅客35.4亿人次",
+      "onboard_time": 1760948242,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103186,
@@ -4003,20 +4147,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 88741,
+      "num": 110004,
+      "word": "河南10月下雪了",
+      "onboard_time": 1760949561,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88391,
       "num": 88391,
       "word": "中国短道速滑男子接力犯规无缘决赛",
       "onboard_time": 1760869822,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88311,
-      "num": 135280,
-      "word": "天猫用AI爆改八方来财",
-      "onboard_time": 1760946262,
-      "rank": 34,
-      "category": "互联网,音乐"
     },
     {
       "raw_hot": 88268,
@@ -4123,6 +4267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85671,
+      "num": 160943,
+      "word": "没有峰哥玩不转的运动",
+      "onboard_time": 1760949382,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 85266,
       "num": 339528,
       "word": "Karsa说得到Faker认可此生无憾",
@@ -4177,6 +4329,14 @@
       "onboard_time": 1760838500,
       "rank": 39,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 84942,
+      "num": 109938,
+      "word": "王楚钦蹦得快要起飞了",
+      "onboard_time": 1760949442,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 84778,
@@ -4273,6 +4433,14 @@
       "onboard_time": 1760870601,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81713,
+      "num": 246773,
+      "word": "京东红包助力",
+      "onboard_time": 1760948242,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 81618,
@@ -5067,6 +5235,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 41720,
+      "num": 119196,
+      "word": "第一次直观感受到省钱的杀伤力",
+      "onboard_time": 1760948242,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 40774,
       "num": 64577,
       "word": "每个省都有自己专属应急食物",
@@ -5283,6 +5459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25396,
+      "num": 109893,
+      "word": "韩国民众在美大使馆前举行反美游行",
+      "onboard_time": 1760948962,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 25052,
       "num": 131575,
       "word": "今晨北京跌破冰点",
@@ -5337,6 +5521,14 @@
       "onboard_time": 1760815215,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22628,
+      "num": 247458,
+      "word": "郑丽文 绝不让台湾成麻烦制造者",
+      "onboard_time": 1760949021,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21502,
