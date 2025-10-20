@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 11:23:22
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 11:37:01
 </p>
 </blockquote>
 <p>
@@ -3159,6 +3159,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E9%BE%99%E5%90%9F%E5%AE%9A%E6%A1%A3%23" target="weibo">
+水龙吟定档（热度：704563）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23" target="weibo">
 王楚钦vs张本智和（热度：703308）
 </a>
@@ -5703,6 +5709,12 @@ iG回家（热度：487321）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B8%BD%E6%96%87%E6%94%AF%E6%8C%81%E8%80%85%E6%BF%80%E5%8A%A8%E8%90%BD%E6%B3%AA%E8%AF%B4%E6%88%91%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%23" target="weibo">
+郑丽文支持者激动落泪说我是中国人（热度：482796）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%B7%E5%9B%BD%E6%8F%90%E8%AE%AE%E5%B0%86%E9%80%80%E4%BC%91%E5%B9%B4%E9%BE%84%E6%8F%90%E9%AB%98%E8%87%B373%E5%B2%81%23" target="weibo">
 德国提议将退休年龄提高至73岁（热度：482525）
 </a>
@@ -5999,18 +6011,6 @@ TheShy回应上单韦鲁斯（热度：477977）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%B2%B3%E4%BC%A0%E4%BC%98%E9%85%B7%E7%83%AD%E5%BA%A6%E7%A0%B46000%23" target="weibo">
 暗河传优酷热度破6000（热度：467810）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%A5%A5%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23" target="weibo">
-迪奥巴黎时装周（热度：467123）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E7%89%9B%E6%9D%82%E5%BA%97%E7%8E%B0%E5%9C%BA%E6%89%8B%E5%8A%A8%E6%94%B9%E4%BB%B7%23" target="weibo">
-官方通报牛杂店现场手动改价（热度：466195）
 </a>
 </li>
 

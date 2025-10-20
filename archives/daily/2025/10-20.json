@@ -1,6 +1,6 @@
 {
   "startTime": 1760891363500,
-  "endTime": 1760930602263,
+  "endTime": 1760931421500,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1891375,
-      "num": 304944,
+      "num": 402306,
       "word": "找同学操办婚礼到现场两眼一黑",
       "onboard_time": 1760926339,
       "rank": 1,
@@ -43,12 +43,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 667208,
-      "num": 158948,
+      "raw_hot": 721757,
+      "num": 178579,
       "word": "黄金",
       "onboard_time": 1760925259,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 704563,
+      "num": 704563,
+      "word": "水龙吟定档",
+      "onboard_time": 1760929880,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 574895,
@@ -83,8 +91,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 482796,
+      "num": 1077247,
+      "word": "郑丽文支持者激动落泪说我是中国人",
+      "onboard_time": 1760924119,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 461311,
-      "num": 173989,
+      "num": 397759,
       "word": "迪丽热巴蓝裙背影",
       "onboard_time": 1760927360,
       "rank": 11,
@@ -123,12 +139,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 415611,
-      "num": 1066497,
-      "word": "郑丽文支持者激动落泪说我是中国人",
-      "onboard_time": 1760924119,
-      "rank": 4,
-      "category": "国内时政"
+      "raw_hot": 412081,
+      "num": 398875,
+      "word": "于正选择周柯宇赵晴的理由",
+      "onboard_time": 1760927418,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 395956,
@@ -147,12 +163,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 389670,
-      "num": 171248,
-      "word": "于正选择周柯宇赵晴的理由",
-      "onboard_time": 1760927418,
-      "rank": 12,
-      "category": "剧集"
+      "raw_hot": 378583,
+      "num": 378583,
+      "word": "任嘉伦受伤",
+      "onboard_time": 1760928501,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 374471,
@@ -179,12 +195,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332163,
+      "num": 184906,
+      "word": "迪丽热巴新剧搭档陈昊森",
+      "onboard_time": 1760930481,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 323164,
       "num": 344780,
       "word": "薛之谦大闹沈梦辰直播间",
       "onboard_time": 1760882301,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 316535,
+      "num": 316535,
+      "word": "公务员连续旷工超15个工作日被辞退",
+      "onboard_time": 1760930840,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308991,
@@ -196,7 +228,7 @@
     },
     {
       "raw_hot": 302314,
-      "num": 302314,
+      "num": 404371,
       "word": "马克龙就卢浮宫珠宝失窃案发声",
       "onboard_time": 1760920942,
       "rank": 9,
@@ -219,14 +251,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 290885,
-      "num": 169038,
-      "word": "任嘉伦受伤",
-      "onboard_time": 1760928501,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 279439,
       "num": 197817,
       "word": "香港通报飞机冲出跑道坠海",
@@ -243,20 +267,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 256285,
-      "num": 165635,
+      "raw_hot": 261748,
+      "num": 261748,
       "word": "陈乔恩25包除湿剂买成25箱",
       "onboard_time": 1760928260,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247785,
-      "num": 247785,
-      "word": "水龙吟定档",
-      "onboard_time": 1760929880,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 247514,
@@ -315,6 +331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 204578,
+      "num": 137830,
+      "word": "焕新极氪7X开启预售",
+      "onboard_time": 1760930120,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 203974,
       "num": 186777,
       "word": "原来教科书上的子宫图片是错的",
@@ -348,7 +372,7 @@
     },
     {
       "raw_hot": 197685,
-      "num": 197685,
+      "num": 407828,
       "word": "二十届四中全会",
       "onboard_time": 1760918961,
       "rank": 6,
@@ -371,12 +395,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 184726,
-      "num": 432463,
+      "raw_hot": 190682,
+      "num": 465540,
       "word": "前三季度中国GDP同比增长5.2%",
       "onboard_time": 1760929160,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 185558,
+      "num": 185558,
+      "word": "一个吃饭免排队的邪修方法",
+      "onboard_time": 1760924960,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 183373,
@@ -395,14 +427,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 178981,
-      "num": 122871,
-      "word": "焕新极氪7X开启预售",
-      "onboard_time": 1760930120,
-      "rank": 30,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 173239,
       "num": 173239,
       "word": "8至10摄氏度降温继续",
@@ -416,6 +440,22 @@
       "word": "台湾青年哽咽缅怀吴石将军",
       "onboard_time": 1760915117,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170510,
+      "num": 170510,
+      "word": "网友拍到一拉布拉多开电动车上路",
+      "onboard_time": 1760929821,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164294,
+      "num": 164294,
+      "word": "司机高速快车道停车逼停大量车",
+      "onboard_time": 1760926041,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -451,12 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149674,
-      "num": 149674,
-      "word": "一个吃饭免排队的邪修方法",
-      "onboard_time": 1760924960,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 154277,
+      "num": 154277,
+      "word": "抢一张演唱会票被骗17万",
+      "onboard_time": 1760929280,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 145324,
@@ -473,14 +513,6 @@
       "onboard_time": 1760929101,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 143193,
-      "num": 143193,
-      "word": "司机高速快车道停车逼停大量车",
-      "onboard_time": 1760926041,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 139192,
@@ -507,6 +539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125824,
+      "num": 125824,
+      "word": "李诞要站在全世界对立面保护何炅",
+      "onboard_time": 1760929040,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124205,
       "num": 124205,
       "word": "浙江未来几天最低气温降至15度以下",
@@ -531,36 +571,36 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116918,
-      "num": 116918,
-      "word": "李诞要站在全世界对立面保护何炅",
-      "onboard_time": 1760929040,
+      "raw_hot": 118586,
+      "num": 118586,
+      "word": "马龙说今年生日很特殊",
+      "onboard_time": 1760931200,
       "rank": 34,
-      "category": "综艺"
+      "category": "体育"
     },
     {
-      "raw_hot": 116665,
-      "num": 116665,
-      "word": "抢一张演唱会票被骗17万",
-      "onboard_time": 1760929280,
-      "rank": 35,
-      "category": "民生新闻"
+      "raw_hot": 114846,
+      "num": 114846,
+      "word": "狗 接完你的接你的",
+      "onboard_time": 1760931080,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 112482,
-      "num": 145044,
+      "num": 181624,
       "word": "入局",
       "onboard_time": 1760927539,
       "rank": 24,
       "category": "剧集"
     },
     {
-      "raw_hot": 111134,
-      "num": 111134,
-      "word": "网友拍到一拉布拉多开电动车上路",
-      "onboard_time": 1760929821,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 111509,
+      "num": 111509,
+      "word": "马龙说很快就会在赛场上见面了",
+      "onboard_time": 1760930601,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 107800,
@@ -571,12 +611,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 107363,
-      "num": 107363,
-      "word": "迪丽热巴新剧搭档陈昊森",
-      "onboard_time": 1760930481,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 107657,
+      "num": 107657,
+      "word": "印媒惊喜美智库把印空军排中国前",
+      "onboard_time": 1760931381,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 106074,
@@ -617,6 +657,14 @@
       "onboard_time": 1760926941,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 102710,
+      "num": 102710,
+      "word": "知道黄蓉小时候长什么样了",
+      "onboard_time": 1760929759,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 99191,
@@ -691,6 +739,14 @@
       "category": "科学科普,民生新闻"
     },
     {
+      "raw_hot": 87315,
+      "num": 179384,
+      "word": "头痛睡不着有救了",
+      "onboard_time": 1760929821,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 87270,
       "num": 343056,
       "word": "当年微信可是求着我上线",
@@ -723,12 +779,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 84907,
-      "num": 85718,
-      "word": "知道黄蓉小时候长什么样了",
-      "onboard_time": 1760929759,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 84979,
+      "num": 84979,
+      "word": "卢浮宫被盗窃监控画面",
+      "onboard_time": 1760931321,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 79737,
@@ -835,14 +891,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 65830,
-      "num": 149216,
-      "word": "头痛睡不着有救了",
-      "onboard_time": 1760929821,
-      "rank": 19,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 65523,
       "num": 341106,
       "word": "林高远好正宗一个广东人",
@@ -852,7 +900,7 @@
     },
     {
       "raw_hot": 64066,
-      "num": 513787,
+      "num": 715059,
       "word": "网警侦破非法售卖艺人个人信息案",
       "onboard_time": 1760922620,
       "rank": 2,
@@ -1001,6 +1049,14 @@
       "onboard_time": 1760892080,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38527,
+      "num": 111999,
+      "word": "纽约时报发文缅怀杨振宁",
+      "onboard_time": 1760930961,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37653,
