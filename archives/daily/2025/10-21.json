@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1760977964273,
+  "endTime": 1760978851884,
   "band_list": [
     {
       "raw_hot": 1101636,
@@ -11,20 +11,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 450621,
+      "num": 718783,
+      "word": "双11刚付完尾款快递员就敲门了",
+      "onboard_time": 1760976621,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 445389,
+      "num": 244978,
+      "word": "半个娱乐圈都在看余生有涯",
+      "onboard_time": 1760975002,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 435746,
       "num": 207309,
       "word": "字节跳动100元一天的免费三餐",
       "onboard_time": 1760973621,
       "rank": 11,
       "category": "美食"
-    },
-    {
-      "raw_hot": 421461,
-      "num": 244978,
-      "word": "半个娱乐圈都在看余生有涯",
-      "onboard_time": 1760975002,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 377326,
@@ -52,18 +60,10 @@
     },
     {
       "raw_hot": 257351,
-      "num": 186002,
+      "num": 192200,
       "word": "烤肉店用玉米做燃料被指浪费",
       "onboard_time": 1760974640,
       "rank": 14,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 254118,
-      "num": 254118,
-      "word": "双11刚付完尾款快递员就敲门了",
-      "onboard_time": 1760976621,
-      "rank": 3,
       "category": "民生新闻"
     },
     {
@@ -73,6 +73,14 @@
       "onboard_time": 1760972001,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179433,
+      "num": 179433,
+      "word": "黄晓明增减30斤跟玩儿一样",
+      "onboard_time": 1760976021,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 160270,
@@ -115,14 +123,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 145713,
-      "num": 145713,
-      "word": "黄晓明增减30斤跟玩儿一样",
-      "onboard_time": 1760976021,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 144847,
       "num": 228877,
       "word": "中国游客拍到卢浮宫盗窃案事发现场",
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117300,
+      "num": 117300,
+      "word": "毕加索名画离奇失踪",
+      "onboard_time": 1760976621,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 115162,
       "num": 225911,
       "word": "解放军正告澳方立即停止侵权挑衅",
@@ -153,14 +161,6 @@
       "onboard_time": 1760966123,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102723,
-      "num": 102723,
-      "word": "毕加索名画离奇失踪",
-      "onboard_time": 1760976621,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 102659,
@@ -235,20 +235,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 80592,
+      "num": 80592,
+      "word": "成毅新剧手捧真火",
+      "onboard_time": 1760975780,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77407,
       "num": 77407,
       "word": "男孩被戳伤失明园长用猪油消肿后续",
       "onboard_time": 1760962881,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75945,
-      "num": 75945,
-      "word": "成毅新剧手捧真火",
-      "onboard_time": 1760975780,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 74655,
@@ -337,6 +337,14 @@
       "onboard_time": 1760974582,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55311,
+      "num": 55311,
+      "word": "短裙变长裙这也太美了",
+      "onboard_time": 1760978238,
+      "rank": 35,
+      "category": "时尚"
     },
     {
       "raw_hot": 54459,
