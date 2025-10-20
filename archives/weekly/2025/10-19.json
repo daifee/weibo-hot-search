@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760950438148,
+  "endTime": 1760953048271,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -40,6 +40,14 @@
       "word": "黄宗泽被开价5亿聘金当女婿",
       "onboard_time": 1760869400,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1717687,
+      "num": 173980,
+      "word": "曝窦骁掏钱给何超莲装修了新房子",
+      "onboard_time": 1760949801,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -315,14 +323,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 705004,
-      "num": 158714,
-      "word": "曝窦骁掏钱给何超莲装修了新房子",
-      "onboard_time": 1760949801,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 704563,
       "num": 1054672,
       "word": "水龙吟定档",
@@ -393,6 +393,14 @@
       "onboard_time": 1760939541,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 620826,
+      "num": 461796,
+      "word": "乌镇飞天女演员失控落湖",
+      "onboard_time": 1760948242,
+      "rank": 4,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 616626,
@@ -579,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 471958,
+      "num": 1075513,
+      "word": "摇粒绒怎么穿能不显胖",
+      "onboard_time": 1760949200,
+      "rank": 9,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 467810,
       "num": 394962,
       "word": "暗河传优酷热度破6000",
@@ -593,14 +609,6 @@
       "onboard_time": 1760838800,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 461796,
-      "num": 461796,
-      "word": "乌镇飞天女演员失控落湖",
-      "onboard_time": 1760948242,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 461311,
@@ -721,6 +729,14 @@
       "onboard_time": 1760870001,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 428776,
+      "num": 375390,
+      "word": "深圳失联70余天小伙遗体已找到",
+      "onboard_time": 1760950460,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 421499,
@@ -907,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354626,
+      "num": 173899,
+      "word": "缅甸政府军突袭KK园区",
+      "onboard_time": 1760950944,
+      "rank": 16,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 352811,
       "num": 352811,
       "word": "25省份生育津贴直发至个人",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1760862499,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 321181,
+      "num": 173849,
+      "word": "当地回应江苏一化工厂发生火灾",
+      "onboard_time": 1760950880,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308991,
@@ -1235,6 +1267,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 240177,
+      "num": 173809,
+      "word": "王影璐红包",
+      "onboard_time": 1760952081,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 239897,
+      "num": 239897,
+      "word": "缅甸电诈园区查获30套星链设备",
+      "onboard_time": 1760949861,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 239111,
       "num": 171333,
       "word": "寿命长的人脖子一般有5个特征",
@@ -1379,6 +1427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 214998,
+      "num": 173804,
+      "word": "孟佳的红包",
+      "onboard_time": 1760952081,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209154,
       "num": 209154,
       "word": "辛巴罚款赵梦澈100万",
@@ -1417,14 +1473,6 @@
       "onboard_time": 1760878941,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206748,
-      "num": 252056,
-      "word": "摇粒绒怎么穿能不显胖",
-      "onboard_time": 1760949200,
-      "rank": 9,
-      "category": "时尚"
     },
     {
       "raw_hot": 206664,
@@ -1489,6 +1537,14 @@
       "onboard_time": 1760886981,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202189,
+      "num": 202189,
+      "word": "中方回应中美即将重返谈判桌",
+      "onboard_time": 1760951061,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 201298,
@@ -1657,6 +1713,14 @@
       "onboard_time": 1760875222,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186083,
+      "num": 252569,
+      "word": "Lululemon劲敌Alo还没开进中国",
+      "onboard_time": 1760946200,
+      "rank": 41,
+      "category": "民生新闻,时尚"
     },
     {
       "raw_hot": 185807,
@@ -1851,6 +1915,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 172456,
+      "num": 172456,
+      "word": "快速修复过敏的小妙招",
+      "onboard_time": 1760951900,
+      "rank": 26,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 171924,
       "num": 171924,
       "word": "杨振宁近九十岁时写了首诗",
@@ -1892,7 +1964,7 @@
     },
     {
       "raw_hot": 168839,
-      "num": 364642,
+      "num": 377622,
       "word": "四中全会",
       "onboard_time": 1760948660,
       "rank": 2,
@@ -2019,6 +2091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163322,
+      "num": 173832,
+      "word": "特朗普与泽连斯基再度激烈争吵",
+      "onboard_time": 1760951721,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 161377,
       "num": 161377,
       "word": "没有伴郎提醒新郎已经回家装显卡了",
@@ -2049,14 +2129,6 @@
       "onboard_time": 1760936781,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 160035,
-      "num": 252569,
-      "word": "Lululemon劲敌Alo还没开进中国",
-      "onboard_time": 1760946200,
-      "rank": 41,
-      "category": "民生新闻,时尚"
     },
     {
       "raw_hot": 159459,
@@ -2217,6 +2289,14 @@
       "onboard_time": 1760936723,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151039,
+      "num": 151039,
+      "word": "00后不谈恋爱的原因",
+      "onboard_time": 1760949622,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 150804,
@@ -2403,6 +2483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 138098,
+      "num": 138098,
+      "word": "再见朋友 于正何晟铭",
+      "onboard_time": 1760952680,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137882,
       "num": 137882,
       "word": "王者荣耀",
@@ -2555,12 +2643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132178,
-      "num": 132178,
-      "word": "00后不谈恋爱的原因",
-      "onboard_time": 1760949622,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 131960,
+      "num": 131960,
+      "word": "陈汉典lulu登记结婚",
+      "onboard_time": 1760952800,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 131855,
@@ -2699,6 +2787,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 126985,
+      "num": 126985,
+      "word": "杨超越给何广智拍出人生照片",
+      "onboard_time": 1760950223,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126718,
       "num": 121830,
       "word": "广东国考考完考省考",
@@ -2779,6 +2875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125376,
+      "num": 125376,
+      "word": "西游记避火罩真的存在",
+      "onboard_time": 1760952742,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125344,
       "num": 125344,
       "word": "孙乐言说offer7熟人太多了",
@@ -2817,6 +2921,14 @@
       "onboard_time": 1760920761,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 124172,
+      "num": 131995,
+      "word": "刘轩丞片场路透",
+      "onboard_time": 1760952919,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 123692,
@@ -3035,6 +3147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117859,
+      "num": 132679,
+      "word": "曝小虎S15下一轮抽签",
+      "onboard_time": 1760952561,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117771,
       "num": 117771,
       "word": "天猫双十一",
@@ -3129,14 +3249,6 @@
       "onboard_time": 1760940021,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 113714,
-      "num": 113714,
-      "word": "杨超越给何广智拍出人生照片",
-      "onboard_time": 1760950223,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 113245,
@@ -3345,6 +3457,14 @@
       "onboard_time": 1760944760,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108810,
+      "num": 135656,
+      "word": "黄景瑜你啥肩宽啊",
+      "onboard_time": 1760951362,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 108589,
@@ -3643,6 +3763,14 @@
       "category": "体育,科学科普"
     },
     {
+      "raw_hot": 101673,
+      "num": 101673,
+      "word": "江苏一化工厂突发火灾有刺鼻气味",
+      "onboard_time": 1760951421,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101513,
       "num": 101513,
       "word": "新加坡的印度人",
@@ -3760,6 +3888,14 @@
       "word": "王建华回应节目剧情争议",
       "onboard_time": 1760866401,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 97954,
+      "num": 97954,
+      "word": "音乐缘计划",
+      "onboard_time": 1760952680,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -4371,6 +4507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84359,
+      "num": 173881,
+      "word": "53%四十岁女性检出乳腺结节",
+      "onboard_time": 1760949861,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83938,
       "num": 83938,
       "word": "山狮误将家猫当成幼崽",
@@ -4723,6 +4867,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 75763,
+      "num": 133638,
+      "word": "骑手取走苹果17Promax后失联",
+      "onboard_time": 1760952561,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75271,
       "num": 261577,
       "word": "盗窃者伪装成施工人员进卢浮宫",
@@ -5011,14 +5163,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 61013,
-      "num": 159749,
-      "word": "缅甸电诈园区查获30套星链设备",
-      "onboard_time": 1760949861,
-      "rank": 9,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 60529,
       "num": 60529,
       "word": "35岁男演员回应景区当NPC",
@@ -5065,6 +5209,14 @@
       "onboard_time": 1760882603,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 58280,
+      "num": 173866,
+      "word": "iQOO15配色",
+      "onboard_time": 1760952022,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 57775,
@@ -5153,14 +5305,6 @@
       "onboard_time": 1760931441,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 50773,
-      "num": 156388,
-      "word": "53%四十岁女性检出乳腺结节",
-      "onboard_time": 1760949861,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50151,
@@ -5571,6 +5715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23133,
+      "num": 134427,
+      "word": "00后是懂如何有效省钱的",
+      "onboard_time": 1760952022,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 22810,
       "num": 53551,
       "word": "小城良方官宣阵容",
@@ -5673,6 +5825,14 @@
       "onboard_time": 1760897295,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16329,
+      "num": 173927,
+      "word": "天猫双11百大明星",
+      "onboard_time": 1760949861,
+      "rank": 14,
+      "category": "互联网,艺人"
     },
     {
       "raw_hot": 16007,
@@ -5785,6 +5945,14 @@
       "onboard_time": 1760943021,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 8623,
+      "num": 133346,
+      "word": "运动中的孩子眼里是有光的",
+      "onboard_time": 1760951961,
+      "rank": 38,
+      "category": "运动健身"
     },
     {
       "raw_hot": 6140,
