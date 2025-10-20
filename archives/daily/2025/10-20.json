@@ -1,6 +1,6 @@
 {
   "startTime": 1760891363500,
-  "endTime": 1760943104977,
+  "endTime": 1760945205127,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1046262,
+      "num": 1167402,
+      "word": "英国奶奶因汶川地震留中国17年",
+      "onboard_time": 1760939841,
+      "rank": 1,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 967176,
       "num": 967176,
       "word": "卢远 王乐晨",
@@ -59,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 727330,
+      "num": 468605,
+      "word": "红包",
+      "onboard_time": 1760941461,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 726885,
       "num": 390937,
       "word": "潮玩平台退款要求扇孩子耳光5分钟",
@@ -73,14 +89,6 @@
       "onboard_time": 1760925259,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 719341,
-      "num": 1115094,
-      "word": "英国奶奶因汶川地震留中国17年",
-      "onboard_time": 1760939841,
-      "rank": 1,
-      "category": "正能量"
     },
     {
       "raw_hot": 709833,
@@ -105,6 +113,14 @@
       "onboard_time": 1760936663,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 695315,
+      "num": 222050,
+      "word": "麦当劳 粤菜",
+      "onboard_time": 1760941702,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 664589,
@@ -187,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456864,
+      "num": 372268,
+      "word": "翁帆大一时认识杨振宁",
+      "onboard_time": 1760942900,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 448289,
       "num": 448289,
       "word": "李沁和苏暮雨一起破局",
@@ -233,14 +257,6 @@
       "onboard_time": 1760869400,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 416981,
-      "num": 468605,
-      "word": "红包",
-      "onboard_time": 1760941461,
-      "rank": 5,
-      "category": "互联网"
     },
     {
       "raw_hot": 412081,
@@ -323,6 +339,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 352811,
+      "num": 352811,
+      "word": "25省份生育津贴直发至个人",
+      "onboard_time": 1760939182,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344150,
+      "num": 219449,
+      "word": "女主马甲掉了男主更爱了",
+      "onboard_time": 1760941221,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 339616,
       "num": 339616,
       "word": "陈乔恩25包除湿剂买成25箱",
@@ -331,12 +363,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 330038,
-      "num": 222050,
-      "word": "麦当劳 粤菜",
-      "onboard_time": 1760941702,
-      "rank": 31,
-      "category": "美食"
+      "raw_hot": 338736,
+      "num": 208244,
+      "word": "坐高铁再也不用扛行李了",
+      "onboard_time": 1760943742,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 323164,
@@ -385,6 +417,14 @@
       "onboard_time": 1760870842,
       "rank": 6,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 283303,
+      "num": 283303,
+      "word": "王者荣耀十周年",
+      "onboard_time": 1760942721,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 279439,
@@ -499,28 +539,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227028,
-      "num": 227028,
-      "word": "25省份生育津贴直发至个人",
-      "onboard_time": 1760939182,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 219449,
-      "num": 219449,
-      "word": "女主马甲掉了男主更爱了",
-      "onboard_time": 1760941221,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218019,
       "num": 196629,
       "word": "行李员工资高我是一点都不羡慕",
       "onboard_time": 1760933241,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207408,
+      "num": 207408,
+      "word": "黄磊摔的是手机留的是观剧体验",
+      "onboard_time": 1760944521,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 204578,
@@ -627,6 +659,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188878,
+      "num": 188878,
+      "word": "暗河传 画面暗",
+      "onboard_time": 1760944521,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185759,
       "num": 185759,
       "word": "罗云熙评论区好多人啊",
@@ -672,6 +712,14 @@
       "word": "结婚请柬在机场88块屏幕连播8天",
       "onboard_time": 1760933900,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178657,
+      "num": 178657,
+      "word": "平台回应退款要扇孩子耳光5分钟",
+      "onboard_time": 1760943561,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -747,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166194,
+      "num": 166194,
+      "word": "27岁全款在村里开了一家饭店",
+      "onboard_time": 1760943262,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 165201,
       "num": 165201,
       "word": "秋冬化妆前的护肤公式",
@@ -785,6 +841,14 @@
       "onboard_time": 1760929701,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160221,
+      "num": 160221,
+      "word": "公务员非铁饭碗须遵守基本工作纪律",
+      "onboard_time": 1760944221,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160101,
@@ -833,6 +897,14 @@
       "onboard_time": 1760929280,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152758,
+      "num": 136999,
+      "word": "0713没有张远的群有20多个",
+      "onboard_time": 1760943800,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 152131,
@@ -915,20 +987,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142696,
+      "num": 136822,
+      "word": "身体6个表现说明开始变瘦了",
+      "onboard_time": 1760944102,
+      "rank": 31,
+      "category": "运动健身,健康医疗"
+    },
+    {
       "raw_hot": 139941,
       "num": 139941,
       "word": "新娘回应请柬霸屏机场8天遭质疑",
       "onboard_time": 1760939182,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 138391,
-      "num": 138391,
-      "word": "王者荣耀十周年",
-      "onboard_time": 1760942721,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 137882,
@@ -939,12 +1011,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134323,
+      "num": 134323,
+      "word": "特朗普称美国或将得20万亿投资",
+      "onboard_time": 1760944161,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 131583,
       "num": 131582,
       "word": "白鹿给常华森包场不知道链接",
       "onboard_time": 1760938341,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131296,
+      "num": 131296,
+      "word": "刘宇宁vs刘宇宁vs刘宇宁",
+      "onboard_time": 1760944821,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 131179,
@@ -1043,6 +1131,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 118235,
+      "num": 118235,
+      "word": "闫桉红包",
+      "onboard_time": 1760944700,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117771,
+      "num": 117771,
+      "word": "天猫双十一",
+      "onboard_time": 1760945059,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 117671,
       "num": 172607,
       "word": "没有秋天直接入冬",
@@ -1057,6 +1161,14 @@
       "onboard_time": 1760936902,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116590,
+      "num": 116590,
+      "word": "体操世锦赛",
+      "onboard_time": 1760944821,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 115693,
@@ -1129,6 +1241,22 @@
       "onboard_time": 1760938580,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109403,
+      "num": 109403,
+      "word": "双十一购物车",
+      "onboard_time": 1760945059,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 109088,
+      "num": 109088,
+      "word": "白鹿的小卡是白梦妍的灵魂",
+      "onboard_time": 1760944760,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 107800,
@@ -1211,12 +1339,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103101,
+      "num": 195105,
+      "word": "京东晚8点国补",
+      "onboard_time": 1760944102,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 102710,
       "num": 102710,
       "word": "知道黄蓉小时候长什么样了",
       "onboard_time": 1760929759,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102408,
+      "num": 102408,
+      "word": "多地中小学生11月迎5天小长假",
+      "onboard_time": 1760944341,
+      "rank": 46,
+      "category": "教育"
     },
     {
       "raw_hot": 100691,
@@ -1233,6 +1377,22 @@
       "onboard_time": 1760888122,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98764,
+      "num": 98764,
+      "word": "单依纯御用和声参加芒果音综",
+      "onboard_time": 1760945181,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 97223,
+      "num": 97223,
+      "word": "12306新增积分兑换座位升席功能",
+      "onboard_time": 1760943143,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96230,
@@ -1459,6 +1619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 72569,
+      "num": 117793,
+      "word": "iPhone自制emoji",
+      "onboard_time": 1760944942,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 72164,
       "num": 300489,
       "word": "KimJones入职波司登",
@@ -1523,12 +1691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 64975,
-      "num": 220103,
-      "word": "翁帆大一时认识杨振宁",
-      "onboard_time": 1760942900,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 64629,
+      "num": 104867,
+      "word": "张晚意急得小兔牙都出来了",
+      "onboard_time": 1760943742,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 64066,
@@ -1787,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33623,
+      "num": 117832,
+      "word": "文韬被外国友人搭讪",
+      "onboard_time": 1760944221,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 33276,
       "num": 49383,
       "word": "卢浮宫",
@@ -1932,6 +2108,9 @@
     },
     {
       "word": "#为何在中国看到了未来看到了信心#"
+    },
+    {
+      "word": "#二十届四中全会在北京开始举行#"
     }
   ]
 }
