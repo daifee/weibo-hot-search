@@ -1,0 +1,410 @@
+{
+  "runTime": 1760957125403,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 681658,
+        "num": 1109065,
+        "word": "缅甸政府军突袭KK园区",
+        "onboard_time": 1760950944,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 313492,
+        "num": 313492,
+        "word": "解放军正告澳方立即停止侵权挑衅",
+        "onboard_time": 1760954121,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97753,
+        "num": 270532,
+        "word": "四中全会",
+        "onboard_time": 1760948660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 332527,
+        "num": 267156,
+        "word": "深圳失联70余天小伙遗体已找到",
+        "onboard_time": 1760950460,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331630,
+        "num": 265249,
+        "word": "红包",
+        "onboard_time": 1760941461,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 262162,
+        "num": 262162,
+        "word": "英国奶奶因汶川地震留中国17年",
+        "onboard_time": 1760939841,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 240859,
+        "num": 240859,
+        "word": "摇粒绒怎么穿能不显胖",
+        "onboard_time": 1760949200,
+        "rank": 6,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 206310,
+        "num": 206310,
+        "word": "特朗普与泽连斯基再度激烈争吵",
+        "onboard_time": 1760951721,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196245,
+        "num": 196245,
+        "word": "西游记避火罩真的存在",
+        "onboard_time": 1760952742,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175025,
+        "num": 175025,
+        "word": "JDG对战KSG",
+        "onboard_time": 1760956941,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1223798,
+        "num": 174363,
+        "word": "曝窦骁掏钱给何超莲装修了新房子",
+        "onboard_time": 1760949801,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 807844,
+        "num": 172286,
+        "word": "九寨沟烤肠",
+        "onboard_time": 1760946981,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 576718,
+        "num": 171588,
+        "word": "平台回应退款要扇孩子耳光5分钟",
+        "onboard_time": 1760943561,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450416,
+        "num": 169005,
+        "word": "杨洋换了新手机",
+        "onboard_time": 1760955320,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291166,
+        "num": 168966,
+        "word": "陈汉典lulu登记结婚",
+        "onboard_time": 1760952800,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275755,
+        "num": 166057,
+        "word": "外籍游客扎堆寿衣店试穿购买",
+        "onboard_time": 1760946440,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251786,
+        "num": 165554,
+        "word": "孟佳的红包",
+        "onboard_time": 1760952081,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231277,
+        "num": 163199,
+        "word": "骑手取走苹果17Promax后失联",
+        "onboard_time": 1760952561,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25002,
+        "num": 162609,
+        "word": "百色多个村屯被洪水围成孤岛",
+        "onboard_time": 1760956220,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52691,
+        "num": 160113,
+        "word": "iQOO15哪哪儿都不基础",
+        "onboard_time": 1760955740,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159892,
+        "num": 159892,
+        "word": "中方回应中美即将重返谈判桌",
+        "onboard_time": 1760951061,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220859,
+        "num": 158526,
+        "word": "何超莲曾回应和窦骁婚后生活",
+        "onboard_time": 1760953401,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202692,
+        "num": 156812,
+        "word": "坐高铁再也不用扛行李了",
+        "onboard_time": 1760943742,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193830,
+        "num": 154103,
+        "word": "乌镇飞天女演员失控落湖",
+        "onboard_time": 1760948242,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60103,
+        "num": 152751,
+        "word": "上淘宝的双11才是真双11",
+        "onboard_time": 1760955740,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 150467,
+        "num": 150467,
+        "word": "辛云来红包",
+        "onboard_time": 1760955380,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149164,
+        "num": 149164,
+        "word": "卢远 王乐晨",
+        "onboard_time": 1760935280,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140195,
+        "num": 140195,
+        "word": "2025王者荣耀共创之夜",
+        "onboard_time": 1760955980,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135848,
+        "num": 135848,
+        "word": "刘宇宁vs刘宇宁vs刘宇宁",
+        "onboard_time": 1760944821,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133356,
+        "num": 133356,
+        "word": "徐冬冬当年没有被PUA去磨骨是对的",
+        "onboard_time": 1760956400,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127303,
+        "num": 132211,
+        "word": "京东百亿补贴1元买手机百吋电视",
+        "onboard_time": 1760956941,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131500,
+        "num": 131500,
+        "word": "麦当劳 粤菜",
+        "onboard_time": 1760941702,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 130167,
+        "num": 130167,
+        "word": "i人做梦都想拥有的卫衣",
+        "onboard_time": 1760956519,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122201,
+        "num": 122201,
+        "word": "日本街头老鼠成群",
+        "onboard_time": 1760953761,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121811,
+        "num": 121811,
+        "word": "罗小黑金门三人组出任务啦",
+        "onboard_time": 1760956041,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 119425,
+        "num": 119425,
+        "word": "减肥十斤就是掉了这么多肉",
+        "onboard_time": 1760935223,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114792,
+        "num": 114792,
+        "word": "再见朋友拟邀85姐妹花",
+        "onboard_time": 1760956700,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27673,
+        "num": 110769,
+        "word": "你的城市开始冷冷冷了么",
+        "onboard_time": 1760956881,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39593,
+        "num": 110498,
+        "word": "河南60年一遇烂秋雨背后",
+        "onboard_time": 1760954900,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110457,
+        "num": 110457,
+        "word": "扇耳光退货谁给你的底气",
+        "onboard_time": 1760956220,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110386,
+        "num": 110386,
+        "word": "卢远王乐晨彻底be",
+        "onboard_time": 1760940082,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99966,
+        "num": 99966,
+        "word": "Elk说爬也要爬到上海",
+        "onboard_time": 1760955621,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94462,
+        "num": 94462,
+        "word": "英国一公司放弃四天工作制",
+        "onboard_time": 1760955440,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93532,
+        "num": 93532,
+        "word": "陈哲远克制疯批式演技",
+        "onboard_time": 1760956519,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93167,
+        "num": 93167,
+        "word": "当地回应江苏一化工厂发生火灾",
+        "onboard_time": 1760950880,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89965,
+        "num": 89965,
+        "word": "始祖鸟大中华区将任命新高管",
+        "onboard_time": 1760953880,
+        "rank": 45,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 87064,
+        "num": 87064,
+        "word": "少司缘人间芭比",
+        "onboard_time": 1760953580,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87007,
+        "num": 87007,
+        "word": "尚雯婕签了papi公司",
+        "onboard_time": 1760948962,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85012,
+        "num": 85012,
+        "word": "AL和T1并列LOL战力榜第三",
+        "onboard_time": 1760953221,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84777,
+        "num": 84777,
+        "word": "白鹿 谁能给我一个包场链接",
+        "onboard_time": 1760934202,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全会作工作报告#"
+    }
+  }
+}

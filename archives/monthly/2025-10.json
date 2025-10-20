@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760956545840,
+  "endTime": 1760957125403,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -8547,6 +8547,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 450416,
+      "num": 212426,
+      "word": "杨洋换了新手机",
+      "onboard_time": 1760955320,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 450319,
       "num": 401429,
       "word": "福建5人进入废弃矿硐遇难",
@@ -9633,14 +9641,6 @@
       "onboard_time": 1760838261,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 411230,
-      "num": 212426,
-      "word": "杨洋换了新手机",
-      "onboard_time": 1760955320,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 411158,
@@ -12499,6 +12499,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 313492,
+      "num": 313492,
+      "word": "解放军正告澳方立即停止侵权挑衅",
+      "onboard_time": 1760954121,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 313456,
       "num": 313456,
       "word": "九旬老人将饭店100多斤操作台拖走",
@@ -13481,6 +13489,14 @@
       "onboard_time": 1760862440,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291166,
+      "num": 211062,
+      "word": "陈汉典lulu登记结婚",
+      "onboard_time": 1760952800,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 291036,
@@ -14977,14 +14993,6 @@
       "onboard_time": 1760325021,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 260776,
-      "num": 211062,
-      "word": "陈汉典lulu登记结婚",
-      "onboard_time": 1760952800,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 260708,
@@ -16603,14 +16611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232284,
-      "num": 232284,
-      "word": "解放军正告澳方立即停止侵权挑衅",
-      "onboard_time": 1760954121,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 232261,
       "num": 173974,
       "word": "丁禹兮控停暴冲马匹",
@@ -16689,6 +16689,14 @@
       "onboard_time": 1759986800,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 231277,
+      "num": 205207,
+      "word": "骑手取走苹果17Promax后失联",
+      "onboard_time": 1760952561,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 231146,
@@ -17313,6 +17321,14 @@
       "onboard_time": 1759657702,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 220859,
+      "num": 196705,
+      "word": "何超莲曾回应和窦骁婚后生活",
+      "onboard_time": 1760953401,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 220838,
@@ -18563,14 +18579,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 205207,
-      "num": 205207,
-      "word": "骑手取走苹果17Promax后失联",
-      "onboard_time": 1760952561,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205141,
       "num": 155433,
       "word": "印度老人和35岁女子结婚次日离世",
@@ -19779,14 +19787,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 196705,
-      "num": 196705,
-      "word": "何超莲曾回应和窦骁婚后生活",
-      "onboard_time": 1760953401,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 196662,
       "num": 196662,
       "word": "金毛在宠物馆洗澡后突然死亡",
@@ -19833,6 +19833,14 @@
       "onboard_time": 1759304180,
       "rank": 27,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 196245,
+      "num": 213938,
+      "word": "西游记避火罩真的存在",
+      "onboard_time": 1760952742,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196228,
@@ -22739,14 +22747,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 177368,
-      "num": 213938,
-      "word": "西游记避火罩真的存在",
-      "onboard_time": 1760952742,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177324,
       "num": 247880,
       "word": "凤戏阳 夏静炎",
@@ -23145,6 +23145,14 @@
       "onboard_time": 1760365702,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175025,
+      "num": 175025,
+      "word": "JDG对战KSG",
+      "onboard_time": 1760956941,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 174988,
@@ -32451,6 +32459,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 133356,
+      "num": 133356,
+      "word": "徐冬冬当年没有被PUA去磨骨是对的",
+      "onboard_time": 1760956400,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133327,
       "num": 133327,
       "word": "夜市套圈30元1500个圈",
@@ -33475,6 +33491,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 130167,
+      "num": 130167,
+      "word": "i人做梦都想拥有的卫衣",
+      "onboard_time": 1760956519,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130156,
       "num": 130156,
       "word": "奶皮子拿铁",
@@ -34385,6 +34409,14 @@
       "onboard_time": 1759566381,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127303,
+      "num": 132211,
+      "word": "京东百亿补贴1元买手机百吋电视",
+      "onboard_time": 1760956941,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 127297,
@@ -39299,6 +39331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114792,
+      "num": 114792,
+      "word": "再见朋友拟邀85姐妹花",
+      "onboard_time": 1760956700,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114767,
       "num": 114767,
       "word": "王曼昱蒯曼笑容好甜",
@@ -41297,6 +41337,14 @@
       "onboard_time": 1760845341,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110457,
+      "num": 110457,
+      "word": "扇耳光退货谁给你的底气",
+      "onboard_time": 1760956220,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110456,
@@ -45771,14 +45819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101870,
-      "num": 101870,
-      "word": "扇耳光退货谁给你的底气",
-      "onboard_time": 1760956220,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101859,
       "num": 101859,
       "word": "林志玲舞那几下好灵",
@@ -48555,14 +48595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 95399,
-      "num": 95399,
-      "word": "徐冬冬当年没有被PUA去磨骨是对的",
-      "onboard_time": 1760956400,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 95390,
       "num": 95390,
       "word": "何晟铭担心带女儿出来被说是女朋友",
@@ -49481,6 +49513,14 @@
       "onboard_time": 1760241800,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93532,
+      "num": 93532,
+      "word": "陈哲远克制疯批式演技",
+      "onboard_time": 1760956519,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 93522,
@@ -51123,6 +51163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89965,
+      "num": 89965,
+      "word": "始祖鸟大中华区将任命新高管",
+      "onboard_time": 1760953880,
+      "rank": 44,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 89956,
       "num": 89956,
       "word": "停火后以军仍屠杀难民",
@@ -52651,14 +52699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86325,
-      "num": 86325,
-      "word": "始祖鸟大中华区将任命新高管",
-      "onboard_time": 1760953880,
-      "rank": 44,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 86318,
       "num": 86318,
       "word": "还以为出新版家有儿女了",
@@ -52801,14 +52841,6 @@
       "onboard_time": 1759377860,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 85779,
-      "num": 85779,
-      "word": "i人做梦都想拥有的卫衣",
-      "onboard_time": 1760956519,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 85774,
@@ -55105,14 +55137,6 @@
       "onboard_time": 1759916241,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 79781,
-      "num": 79781,
-      "word": "陈哲远克制疯批式演技",
-      "onboard_time": 1760956519,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 79769,
@@ -62611,6 +62635,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 39593,
+      "num": 140718,
+      "word": "河南60年一遇烂秋雨背后",
+      "onboard_time": 1760954900,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39526,
       "num": 202988,
       "word": "PSG对战VKS",
@@ -63312,14 +63344,6 @@
       "word": "00后患病女孩转卖安眠药被控贩毒",
       "onboard_time": 1760503282,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34904,
-      "num": 140718,
-      "word": "河南60年一遇烂秋雨背后",
-      "onboard_time": 1760954900,
-      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -64387,6 +64411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27673,
+      "num": 110769,
+      "word": "你的城市开始冷冷冷了么",
+      "onboard_time": 1760956881,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27527,
       "num": 136631,
       "word": "屠宰点藏身农家院切开牛胸注水",
@@ -64785,6 +64817,14 @@
       "onboard_time": 1760276421,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 25002,
+      "num": 210374,
+      "word": "百色多个村屯被洪水围成孤岛",
+      "onboard_time": 1760956220,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24952,
@@ -65736,14 +65776,6 @@
       "word": "女游客海拔4700米高反被困求救",
       "onboard_time": 1759559120,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17770,
-      "num": 210374,
-      "word": "百色多个村屯被洪水围成孤岛",
-      "onboard_time": 1760956220,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
