@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761002624743,
+  "endTime": 1761003414817,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -211,6 +211,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 884018,
+      "num": 176365,
+      "word": "被冻醒",
+      "onboard_time": 1760985853,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 883069,
       "num": 198617,
       "word": "网传快乐家族将录团综",
@@ -241,14 +249,6 @@
       "onboard_time": 1760838320,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 822954,
-      "num": 176365,
-      "word": "被冻醒",
-      "onboard_time": 1760985853,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 807914,
@@ -1332,7 +1332,7 @@
     },
     {
       "raw_hot": 281324,
-      "num": 760445,
+      "num": 852967,
       "word": "卢浮宫被盗藏品可在1小时内被分解",
       "onboard_time": 1760976440,
       "rank": 36,
@@ -1427,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261346,
+      "num": 228612,
+      "word": "烤肉店用玉米做燃料被指浪费",
+      "onboard_time": 1760974640,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261327,
       "num": 414019,
       "word": "9岁男孩患儿童癌症之王",
@@ -1457,14 +1465,6 @@
       "onboard_time": 1760952680,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 257351,
-      "num": 228612,
-      "word": "烤肉店用玉米做燃料被指浪费",
-      "onboard_time": 1760974640,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 256326,
@@ -2531,6 +2531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162391,
+      "num": 234318,
+      "word": "多款知名进口药将退出国内市场",
+      "onboard_time": 1760963720,
+      "rank": 47,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 161956,
       "num": 228767,
       "word": "68页PPT男子二次举报希望开除博士生",
@@ -2809,14 +2817,6 @@
       "onboard_time": 1760933422,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149303,
-      "num": 234318,
-      "word": "多款知名进口药将退出国内市场",
-      "onboard_time": 1760963720,
-      "rank": 47,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 148821,
@@ -3707,6 +3707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119057,
+      "num": 228690,
+      "word": "300元以下基本买不到真羽绒",
+      "onboard_time": 1760974402,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118737,
       "num": 118737,
       "word": "天蚕土豆锐评BLG",
@@ -4249,14 +4257,6 @@
       "onboard_time": 1760941461,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 106438,
-      "num": 228690,
-      "word": "300元以下基本买不到真羽绒",
-      "onboard_time": 1760974402,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106410,
@@ -5147,6 +5147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 90525,
+      "num": 145923,
+      "word": "郑州迎入秋后第一场雪",
+      "onboard_time": 1761002178,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90523,
       "num": 91650,
       "word": "其实已经过上了小时候想要的生活了",
@@ -5563,6 +5571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82826,
+      "num": 64458,
+      "word": "国安部发布拍照炫耀泄密案例",
+      "onboard_time": 1761003078,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82484,
       "num": 82484,
       "word": "与他人建立关系的正确顺序",
@@ -5769,6 +5785,14 @@
       "onboard_time": 1760841380,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78305,
+      "num": 78305,
+      "word": "广西百色多地严重洪涝直击救援现场",
+      "onboard_time": 1761002118,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78236,
@@ -6139,6 +6163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66946,
+      "num": 64411,
+      "word": "新郎新娘发言惊呆亲友",
+      "onboard_time": 1761002478,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 66644,
       "num": 66644,
       "word": "王源走心点评把冯宸铭感动哭了",
@@ -6187,6 +6219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 64348,
+      "num": 64348,
+      "word": "住酒店被前台安排在尾房",
+      "onboard_time": 1761002358,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64183,
       "num": 64587,
       "word": "汪苏泷演唱会现场点奶茶都是坑",
@@ -6209,14 +6249,6 @@
       "onboard_time": 1760794105,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 63730,
-      "num": 55693,
-      "word": "新郎新娘发言惊呆亲友",
-      "onboard_time": 1761002478,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 63615,
@@ -6336,14 +6368,6 @@
       "word": "海尔将听劝现场搬到了线下",
       "onboard_time": 1760926220,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59808,
-      "num": 145923,
-      "word": "郑州迎入秋后第一场雪",
-      "onboard_time": 1761002178,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -6491,14 +6515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52701,
-      "num": 52701,
-      "word": "广西百色多地严重洪涝直击救援现场",
-      "onboard_time": 1761002118,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51055,
       "num": 197113,
       "word": "三高人群患带状疱疹风险更高",
@@ -6563,6 +6579,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48020,
+      "num": 48020,
+      "word": "为什么荷兰抢劫行为必须得到惩罚",
+      "onboard_time": 1761003139,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 47587,
+      "num": 65274,
+      "word": "罗永浩为何力挺易烊千玺",
+      "onboard_time": 1760980696,
+      "rank": 40,
+      "category": "艺人,互联网"
+    },
+    {
       "raw_hot": 47464,
       "num": 135770,
       "word": "MKOI对战FNC",
@@ -6603,28 +6635,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 45023,
-      "num": 102440,
-      "word": "被拐儿子回家母亲怕给压力让喊姐",
-      "onboard_time": 1760864961,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44693,
-      "num": 44693,
+      "raw_hot": 45669,
+      "num": 45669,
       "word": "新高铁小桌板有手机支架",
       "onboard_time": 1760991315,
       "rank": 32,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44532,
-      "num": 65274,
-      "word": "罗永浩为何力挺易烊千玺",
-      "onboard_time": 1760980696,
-      "rank": 40,
-      "category": "艺人,互联网"
+      "raw_hot": 45023,
+      "num": 102440,
+      "word": "被拐儿子回家母亲怕给压力让喊姐",
+      "onboard_time": 1760864961,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44480,
@@ -6649,6 +6673,14 @@
       "onboard_time": 1760948242,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 42838,
+      "num": 45668,
+      "word": "你的身体比你想象中还要爱你",
+      "onboard_time": 1761003259,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 42712,
@@ -6777,14 +6809,6 @@
       "onboard_time": 1760961681,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 37183,
-      "num": 37183,
-      "word": "住酒店被前台安排在尾房",
-      "onboard_time": 1761002358,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36682,
@@ -6979,6 +7003,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 25871,
+      "num": 64502,
+      "word": "暗河传打戏",
+      "onboard_time": 1760981356,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25476,
       "num": 188491,
       "word": "谁懂先天省钱圣体的含金量",
@@ -7072,14 +7104,6 @@
       "word": "小城良方官宣阵容",
       "onboard_time": 1760815215,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 22232,
-      "num": 56074,
-      "word": "暗河传打戏",
-      "onboard_time": 1760981356,
-      "rank": 29,
       "category": "剧集"
     },
     {
