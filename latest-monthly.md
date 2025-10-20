@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 13:42:33
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 14:39:23
 </p>
 </blockquote>
 <p>
@@ -3021,6 +3021,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BD%AE%E7%8E%A9%E5%B9%B3%E5%8F%B0%E9%80%80%E6%AC%BE%E8%A6%81%E6%B1%82%E6%89%87%E5%AD%A9%E5%AD%90%E8%80%B3%E5%85%895%E5%88%86%E9%92%9F%23" target="weibo">
+潮玩平台退款要求扇孩子耳光5分钟（热度：726885）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E5%A5%96%E9%87%91124%E5%B9%B4%E6%B2%A1%E8%8A%B1%E5%AE%8C%23" target="weibo">
 诺贝尔奖奖金124年没花完（热度：726849）
 </a>
@@ -3197,6 +3203,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%A0%B5%E8%BD%A6%E4%BA%BA%E5%A0%B5%E6%88%90%E9%B8%B3%E9%B8%AF%E9%94%85%23" target="weibo">
 第一批堵车人堵成鸳鸯锅（热度：701518）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%96%E7%9B%B4%E5%8B%BE%E5%8B%BE%E7%9B%AF%E7%9D%80%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9D%91%E7%9A%84%E9%AD%94%E8%8A%8B%23" target="weibo">
+老外直勾勾盯着中国农村的魔芋（热度：700899）
 </a>
 </li>
 
@@ -3963,6 +3975,12 @@ JDG战胜狼队（热度：630844）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B6%E5%A5%B6%E5%9B%A0%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E7%95%99%E4%B8%AD%E5%9B%BD17%E5%B9%B4%23" target="weibo">
+英国奶奶因汶川地震留中国17年（热度：612956）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%B4%E5%AF%86%E5%A4%A7%E7%A7%80%23" target="weibo">
 维密大秀（热度：612944）
 </a>
@@ -4259,6 +4277,12 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%20%E5%BD%AD%E6%98%B1%E7%95%85%E6%AF%94%E5%BC%A0%E8%89%BA%E5%85%B4%E9%95%BF%E5%BE%97%E5%A5%BD%E7%9C%8B%23" target="weibo">
 黄磊 彭昱畅比张艺兴长得好看（热度：585084）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%AA%92%E7%88%86%E7%89%B9%E6%9C%97%E6%99%AE%E7%96%91%E4%BC%BC%E9%99%A9%E9%81%AD%E6%9A%97%E6%9D%80%23" target="weibo">
+美媒爆特朗普疑似险遭暗杀（热度：584958）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ TheShy回应上单韦鲁斯（热度：477977）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%A6%8D%E6%B2%88%E7%9A%93%E6%98%8E%E4%BA%B2%E7%83%AD%E8%A2%AB%E5%A9%86%E5%A9%86%E6%92%9E%E8%A7%81%23" target="weibo">
 许妍沈皓明亲热被婆婆撞见（热度：470095）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A4%E6%9D%80%E9%9D%924%E4%B8%AA%E6%9C%88%E6%89%8D%E7%BC%93%E8%BF%87%E6%9D%A5%23" target="weibo">
-毛晓彤杀青4个月才缓过来（热度：469813）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AEword%E5%88%A0%E9%99%A4%E7%A9%BA%E7%99%BD%E9%A1%B5%E7%BA%B3%E5%85%A5%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%23" target="weibo">
-建议word删除空白页纳入义务教育（热度：469055）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E6%9D%BE%E5%BC%80%E5%BE%90%E8%89%BA%E6%B4%8B%E6%8C%BD%E5%88%98%E5%AE%87%E5%AE%81%23" target="weibo">
-黄子韬松开徐艺洋挽刘宇宁（热度：469050）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%B8%A9%E6%8C%87%E5%8E%8B%E6%9D%BF20%E5%88%86%E9%92%9F%E8%84%9A%E5%BA%95%E5%96%B7%E8%A1%80%23" target="weibo">
-女子踩指压板20分钟脚底喷血（热度：469044）
 </a>
 </li>
 
