@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760917035349,
+  "endTime": 1760925645924,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -121,6 +121,22 @@
       "onboard_time": 1760799384,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 919314,
+      "num": 196874,
+      "word": "卢浮宫8件失窃藏品清单",
+      "onboard_time": 1760917639,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 883069,
+      "num": 180035,
+      "word": "网传快乐家族将录团综",
+      "onboard_time": 1760920461,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 869342,
@@ -459,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438453,
+      "num": 1070152,
+      "word": "台风风神已进入我国南海",
+      "onboard_time": 1760919861,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 429719,
       "num": 429719,
       "word": "锦州烧烤",
@@ -545,6 +569,14 @@
       "onboard_time": 1760850081,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 374863,
+      "num": 178837,
+      "word": "35岁陪爬泰山男演员转行再转行",
+      "onboard_time": 1760916620,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 372089,
@@ -659,6 +691,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 316624,
+      "num": 176863,
+      "word": "原来行李在飞机肚子里是这样待着的",
+      "onboard_time": 1760919861,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 308991,
+      "num": 173551,
+      "word": "瘦了26斤的面部折叠度",
+      "onboard_time": 1760918360,
+      "rank": 21,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 306454,
       "num": 340160,
       "word": "盗窃者用升降吊篮进入卢浮宫",
@@ -747,6 +795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279439,
+      "num": 175884,
+      "word": "香港通报飞机冲出跑道坠海",
+      "onboard_time": 1760922800,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279290,
       "num": 343276,
       "word": "卢浮宫持械抢劫事件",
@@ -755,12 +811,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 268721,
+      "num": 341478,
+      "word": "50克金条订单被拦截买家发声",
+      "onboard_time": 1760888122,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 267826,
       "num": 196475,
       "word": "张晚意下水为李沁捡帽子",
       "onboard_time": 1760838740,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264242,
+      "num": 174891,
+      "word": "香港机场货机与地勤车相撞后坠海",
+      "onboard_time": 1760922800,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 262102,
@@ -859,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 227171,
+      "num": 173888,
+      "word": "侯明昊看到破万后激动的飞奔出去了",
+      "onboard_time": 1760915539,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 224441,
       "num": 1024509,
       "word": "以色列空袭加沙南部拉法地区",
@@ -905,14 +985,6 @@
       "onboard_time": 1760848881,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 211101,
-      "num": 341478,
-      "word": "50克金条订单被拦截买家发声",
-      "onboard_time": 1760888122,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 209154,
@@ -971,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203974,
+      "num": 174627,
+      "word": "原来教科书上的子宫图片是错的",
+      "onboard_time": 1760919921,
+      "rank": 17,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 203288,
       "num": 203288,
       "word": "2025年聚星名人赛杭州站",
@@ -985,6 +1065,22 @@
       "onboard_time": 1760886981,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200348,
+      "num": 200348,
+      "word": "一张图了解四中全会",
+      "onboard_time": 1760919561,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 197530,
+      "num": 197530,
+      "word": "郑丽文支持者激动落泪说我是中国人",
+      "onboard_time": 1760924119,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 195819,
@@ -1083,6 +1179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 184436,
+      "num": 181415,
+      "word": "马克龙就卢浮宫珠宝失窃案发声",
+      "onboard_time": 1760920942,
+      "rank": 9,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 183373,
       "num": 183373,
       "word": "伊朗突发恐怖袭击",
@@ -1115,12 +1219,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 182427,
+      "num": 182427,
+      "word": "二十届四中全会",
+      "onboard_time": 1760918961,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 181941,
       "num": 169395,
       "word": "Crisp给BLG抽个T1吧",
       "onboard_time": 1760801364,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181867,
+      "num": 181867,
+      "word": "再发台风蓝色预警",
+      "onboard_time": 1760922981,
+      "rank": 8,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 181544,
@@ -1139,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178058,
+      "num": 173282,
+      "word": "原来冬天洗澡的时候不能开换气",
+      "onboard_time": 1760921780,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 173896,
       "num": 173896,
       "word": "郑恺苗苗从小共用一张脸",
@@ -1147,11 +1275,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 173239,
+      "num": 173239,
+      "word": "8至10摄氏度降温继续",
+      "onboard_time": 1760921962,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172842,
       "num": 172842,
       "word": "台湾青年哽咽缅怀吴石将军",
       "onboard_time": 1760915117,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172694,
+      "num": 175172,
+      "word": "中国人永远记得黄继光",
+      "onboard_time": 1760919561,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -1283,14 +1427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160783,
-      "num": 91047,
-      "word": "侯明昊看到破万后激动的飞奔出去了",
-      "onboard_time": 1760915539,
-      "rank": 20,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 159459,
       "num": 315767,
       "word": "入青云追剧日历呢",
@@ -1353,6 +1489,14 @@
       "onboard_time": 1760877082,
       "rank": 27,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 154421,
+      "num": 154421,
+      "word": "LPR",
+      "onboard_time": 1760923941,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 154301,
@@ -1441,6 +1585,14 @@
       "onboard_time": 1760862440,
       "rank": 35,
       "category": "教育"
+    },
+    {
+      "raw_hot": 139658,
+      "num": 174039,
+      "word": "iPhone17pro天猫官旗首次降价",
+      "onboard_time": 1760924301,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 139608,
@@ -1593,6 +1745,14 @@
       "onboard_time": 1760868621,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132780,
+      "num": 174384,
+      "word": "暗河传",
+      "onboard_time": 1760924839,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 132737,
@@ -1795,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124205,
+      "num": 124205,
+      "word": "浙江未来几天最低气温降至15度以下",
+      "onboard_time": 1760920761,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123692,
       "num": 123692,
       "word": "歼10将飞抵印尼",
@@ -1841,6 +2009,14 @@
       "onboard_time": 1760847620,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122002,
+      "num": 122002,
+      "word": "黄金",
+      "onboard_time": 1760925259,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 121147,
@@ -2001,6 +2177,14 @@
       "onboard_time": 1760790861,
       "rank": 27,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 113571,
+      "num": 113571,
+      "word": "把生命力养起来的方法",
+      "onboard_time": 1760894716,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113245,
@@ -2185,6 +2369,14 @@
       "onboard_time": 1760850621,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105436,
+      "num": 92496,
+      "word": "杜兰特生涯总薪资NBA历史第一",
+      "onboard_time": 1760925380,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 105241,
@@ -2611,6 +2803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93231,
+      "num": 93231,
+      "word": "加沙多地遭袭超20死",
+      "onboard_time": 1760924358,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 92969,
       "num": 96837,
       "word": "披荆斩棘的饼狗",
@@ -2659,20 +2859,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91390,
-      "num": 91390,
-      "word": "把生命力养起来的方法",
-      "onboard_time": 1760894716,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91034,
       "num": 91034,
       "word": "白敬亭做家常豆腐被夸成翘嘴",
       "onboard_time": 1760852300,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90776,
+      "num": 90776,
+      "word": "有时候贪小便宜也是一种浪费",
+      "onboard_time": 1760925499,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 90617,
@@ -2705,6 +2905,14 @@
       "onboard_time": 1760863221,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90138,
+      "num": 90138,
+      "word": "加沙难民营遭以军袭击",
+      "onboard_time": 1760919620,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89684,
@@ -2795,6 +3003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 87964,
+      "num": 87964,
+      "word": "羽绒服的寿命",
+      "onboard_time": 1760916378,
+      "rank": 20,
+      "category": "科学科普,民生新闻"
+    },
+    {
       "raw_hot": 87861,
       "num": 87861,
       "word": "天津直博会12K高清画面",
@@ -2825,6 +3041,14 @@
       "onboard_time": 1760877742,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86254,
+      "num": 86254,
+      "word": "郭宇欣新剧上线",
+      "onboard_time": 1760919500,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 86111,
@@ -3043,6 +3267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79481,
+      "num": 79481,
+      "word": "全红婵时隔近半年重返赛场",
+      "onboard_time": 1760918059,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79443,
       "num": 79443,
       "word": "汪苏泷一脚把我从内场踹到看台",
@@ -3073,6 +3305,14 @@
       "onboard_time": 1760841380,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78236,
+      "num": 78236,
+      "word": "熬夜后这三类食物帮你快速回血",
+      "onboard_time": 1760902753,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 77954,
@@ -3163,6 +3403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 76047,
+      "num": 76047,
+      "word": "一个吃饭免排队的邪修方法",
+      "onboard_time": 1760924960,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 75826,
       "num": 75826,
       "word": "邵雨轩去复旦上学",
@@ -3177,14 +3425,6 @@
       "onboard_time": 1760882543,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 74811,
-      "num": 70260,
-      "word": "羽绒服的寿命",
-      "onboard_time": 1760916378,
-      "rank": 20,
-      "category": "科学科普,民生新闻"
     },
     {
       "raw_hot": 74561,
@@ -3291,6 +3531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 68761,
+      "num": 68761,
+      "word": "不会这么冷的天有人没猫陪吧",
+      "onboard_time": 1760925259,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 68407,
       "num": 63212,
       "word": "迈凯伦双车退赛",
@@ -3347,12 +3595,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 64066,
+      "num": 210831,
+      "word": "网警侦破非法售卖艺人个人信息案",
+      "onboard_time": 1760922620,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63760,
       "num": 74449,
       "word": "Bin和Doran迎来生死战",
       "onboard_time": 1760794105,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 63615,
+      "num": 63615,
+      "word": "谈恋爱时间长了粗略化",
+      "onboard_time": 1760918961,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 63273,
@@ -3395,6 +3659,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61269,
+      "num": 61269,
+      "word": "孩子一会练成麒麟臂了",
+      "onboard_time": 1760925439,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 60529,
+      "num": 60529,
+      "word": "35岁男演员回应景区当NPC",
+      "onboard_time": 1760920461,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 60320,
       "num": 58778,
       "word": "黄金暴涨谁是最大受害者",
@@ -3417,14 +3697,6 @@
       "onboard_time": 1760898435,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57104,
-      "num": 57104,
-      "word": "熬夜后这三类食物帮你快速回血",
-      "onboard_time": 1760902753,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 57004,
@@ -3569,14 +3841,6 @@
       "onboard_time": 1760851340,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43012,
-      "num": 49484,
-      "word": "35岁陪爬泰山男演员转行再转行",
-      "onboard_time": 1760916620,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 42598,
