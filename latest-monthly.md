@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 21:47:08
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 22:26:04
 </p>
 </blockquote>
 <p>
@@ -5859,6 +5859,12 @@ iG回家（热度：487321）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E7%A0%B4%E4%BA%86%E5%AD%99%E6%9D%A8%E4%BA%9A%E6%B4%B2%E7%BA%AA%E5%BD%95%23" target="weibo">
+韩国选手破了孙杨亚洲纪录（热度：482077）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A6%A8%E4%BA%88%E7%85%A7%E7%89%87%E6%98%AF%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%8B%8D%E7%9A%84%E5%90%A7%23" target="weibo">
 张馨予照片是迪丽热巴拍的吧（热度：481706）
 </a>
@@ -6005,12 +6011,6 @@ TheShy回应上单韦鲁斯（热度：477977）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%94%A6%E8%B5%9B%20%E9%A2%81%E5%A5%96%23" target="weibo">
 亚锦赛 颁奖（热度：476091）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B3%96%E5%B0%BF%E7%97%85%E7%94%B7%E5%AD%90%E5%89%AA%E8%B6%BE%E7%94%B2%E7%A0%B4%E7%9A%AE%E5%A4%B1%E5%8E%BB10%E6%A0%B9%E8%84%9A%E8%B6%BE%23" target="weibo">
-糖尿病男子剪趾甲破皮失去10根脚趾（热度：475597）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760968028842,
+  "endTime": 1760970364411,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -635,6 +635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 482077,
+      "num": 1077132,
+      "word": "韩国选手破了孙杨亚洲纪录",
+      "onboard_time": 1760961501,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 473432,
       "num": 1039078,
       "word": "暗河传",
@@ -665,14 +673,6 @@
       "onboard_time": 1760927360,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 461258,
-      "num": 461258,
-      "word": "韩国选手破了孙杨亚洲纪录",
-      "onboard_time": 1760961501,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 460171,
@@ -1067,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328940,
+      "num": 412276,
+      "word": "中国游客拍到卢浮宫盗窃案事发现场",
+      "onboard_time": 1760966059,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 326562,
       "num": 344179,
       "word": "汪苏泷收到老鼠干",
@@ -1112,6 +1120,14 @@
       "word": "当地回应江苏一化工厂发生火灾",
       "onboard_time": 1760950880,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317293,
+      "num": 415685,
+      "word": "教育局回应老师上课玩手机麻将",
+      "onboard_time": 1760963481,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -1275,14 +1291,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 278496,
-      "num": 415685,
-      "word": "教育局回应老师上课玩手机麻将",
-      "onboard_time": 1760963481,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 272103,
       "num": 998681,
       "word": "心动的信号8",
@@ -1328,6 +1336,14 @@
       "word": "杨振宁逝世",
       "onboard_time": 1760761410,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261327,
+      "num": 414019,
+      "word": "9岁男孩患儿童癌症之王",
+      "onboard_time": 1760966421,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -1459,14 +1475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234874,
-      "num": 414019,
-      "word": "9岁男孩患儿童癌症之王",
-      "onboard_time": 1760966421,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 234824,
       "num": 1026894,
       "word": "美国多地爆发反特朗普集会",
@@ -1579,12 +1587,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 214802,
+      "num": 411731,
+      "word": "泽连斯基与特朗普对骂",
+      "onboard_time": 1760965221,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 214523,
       "num": 234482,
       "word": "特朗普与泽连斯基再度激烈争吵",
       "onboard_time": 1760951721,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 212265,
+      "num": 212265,
+      "word": "凑单",
+      "onboard_time": 1760968882,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 209154,
@@ -1601,6 +1625,14 @@
       "onboard_time": 1760961022,
       "rank": 21,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 208014,
+      "num": 195690,
+      "word": "王楚钦祝马龙生日快乐",
+      "onboard_time": 1760967741,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 207381,
@@ -1707,6 +1739,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 203099,
+      "num": 414581,
+      "word": "男子回应翻妻子手机发现和8人暧昧",
+      "onboard_time": 1760966123,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202568,
       "num": 341106,
       "word": "林高远好正宗一个广东人",
@@ -1771,6 +1811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 196570,
+      "num": 416501,
+      "word": "暗河传首播反馈",
+      "onboard_time": 1760966240,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196299,
       "num": 253551,
       "word": "西卡预测TES零封GEN",
@@ -1795,20 +1843,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 195722,
-      "num": 416501,
-      "word": "暗河传首播反馈",
-      "onboard_time": 1760966240,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195521,
       "num": 174756,
       "word": "迪丽热巴迷你剧特别邀请常华森",
       "onboard_time": 1760935164,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195254,
+      "num": 195254,
+      "word": "星品影响力",
+      "onboard_time": 1760896396,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195084,
@@ -1947,14 +1995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185640,
-      "num": 414581,
-      "word": "男子回应翻妻子手机发现和8人暧昧",
-      "onboard_time": 1760966123,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185558,
       "num": 185558,
       "word": "一个吃饭免排队的邪修方法",
@@ -2057,6 +2097,14 @@
       "onboard_time": 1760877200,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 180629,
+      "num": 412895,
+      "word": "她这一套下来我要躺到明年10月",
+      "onboard_time": 1760966722,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 178874,
@@ -2369,6 +2417,14 @@
       "onboard_time": 1760885362,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161028,
+      "num": 412639,
+      "word": "购物金 没到账",
+      "onboard_time": 1760965641,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 160598,
@@ -3115,6 +3171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127902,
+      "num": 413354,
+      "word": "越来越多本科毕业生回炉技校",
+      "onboard_time": 1760964681,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127782,
       "num": 127782,
       "word": "杨振宁曾参观三星堆3小时未歇脚",
@@ -3299,14 +3363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124181,
-      "num": 412895,
-      "word": "她这一套下来我要躺到明年10月",
-      "onboard_time": 1760966722,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 124172,
       "num": 131995,
       "word": "刘轩丞片场路透",
@@ -3372,7 +3428,7 @@
     },
     {
       "raw_hot": 122268,
-      "num": 122268,
+      "num": 157155,
       "word": "羽绒服推荐",
       "onboard_time": 1760967862,
       "rank": 24,
@@ -3417,14 +3473,6 @@
       "onboard_time": 1760854580,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121002,
-      "num": 412276,
-      "word": "中国游客拍到卢浮宫盗窃案事发现场",
-      "onboard_time": 1760966059,
-      "rank": 34,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 120946,
@@ -3489,14 +3537,6 @@
       "onboard_time": 1760884522,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118760,
-      "num": 118760,
-      "word": "王楚钦祝马龙生日快乐",
-      "onboard_time": 1760967741,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 118737,
@@ -3611,6 +3651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117225,
+      "num": 160309,
+      "word": "拒卖寿衣给老外的店主最新回应",
+      "onboard_time": 1760969182,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117058,
       "num": 117058,
       "word": "鹤男回关全伊伦",
@@ -3643,14 +3691,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 116383,
-      "num": 411731,
-      "word": "泽连斯基与特朗普对骂",
-      "onboard_time": 1760965221,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 115693,
       "num": 197774,
       "word": "入局阵容官宣",
@@ -3665,14 +3705,6 @@
       "onboard_time": 1760957602,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 114970,
-      "num": 413354,
-      "word": "越来越多本科毕业生回炉技校",
-      "onboard_time": 1760964681,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114839,
@@ -3923,14 +3955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109898,
-      "num": 412639,
-      "word": "购物金 没到账",
-      "onboard_time": 1760965641,
-      "rank": 32,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 109768,
       "num": 109768,
       "word": "全网都在等刘青松抽签",
@@ -3976,6 +4000,14 @@
       "word": "iQOO发布会",
       "onboard_time": 1760959701,
       "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 108834,
+      "num": 159961,
+      "word": "给iPhone17Pro纹了个身",
+      "onboard_time": 1760969780,
+      "rank": 32,
       "category": "数码"
     },
     {
@@ -4220,7 +4252,7 @@
     },
     {
       "raw_hot": 103241,
-      "num": 103602,
+      "num": 212902,
       "word": "前三季度铁路发送旅客35.4亿人次",
       "onboard_time": 1760948242,
       "rank": 46,
@@ -4297,6 +4329,14 @@
       "onboard_time": 1760929759,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102625,
+      "num": 159445,
+      "word": "iQOO15价格",
+      "onboard_time": 1760969422,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 102514,
@@ -4731,6 +4771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93517,
+      "num": 158803,
+      "word": "Ruler火锅蘸料大公开",
+      "onboard_time": 1760969422,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93488,
       "num": 121718,
       "word": "旅综最担心的事情还是出现了",
@@ -5132,7 +5180,7 @@
     },
     {
       "raw_hot": 85922,
-      "num": 125499,
+      "num": 181080,
       "word": "双十一天猫买美妆立省1500",
       "onboard_time": 1760967622,
       "rank": 18,
@@ -5145,6 +5193,14 @@
       "onboard_time": 1760949382,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 85445,
+      "num": 157858,
+      "word": "苹果市值达3.85万亿美元",
+      "onboard_time": 1760970321,
+      "rank": 42,
+      "category": "数码,互联网"
     },
     {
       "raw_hot": 85266,
@@ -5217,6 +5273,14 @@
       "onboard_time": 1760829797,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84581,
+      "num": 157700,
+      "word": "法国司法部长说我们失败了",
+      "onboard_time": 1760970321,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 84359,
@@ -5467,6 +5531,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 78561,
+      "num": 156804,
+      "word": "宇树科技新机器人高一米八重70kg",
+      "onboard_time": 1760970321,
+      "rank": 47,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 78521,
       "num": 78521,
       "word": "烧伤女主播嫌疑人曾刷礼物追求被拒",
@@ -5553,6 +5625,14 @@
       "onboard_time": 1760888181,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77248,
+      "num": 156666,
+      "word": "重庆一小区4户业主偷挖地下室",
+      "onboard_time": 1760970261,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77199,
@@ -6001,6 +6081,14 @@
       "onboard_time": 1760940380,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 59024,
+      "num": 159096,
+      "word": "穿秋裤的人vs不穿秋裤的人",
+      "onboard_time": 1760969422,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 58949,
@@ -6467,6 +6555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30359,
+      "num": 180887,
+      "word": "被喜欢的明星发红包了",
+      "onboard_time": 1760968762,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28843,
       "num": 134427,
       "word": "00后是懂如何有效省钱的",
@@ -6513,6 +6609,14 @@
       "onboard_time": 1760948962,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 26039,
+      "num": 166734,
+      "word": "礼遇季好多明星发红包",
+      "onboard_time": 1760968702,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 26033,
@@ -6643,12 +6747,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 20517,
+      "num": 158468,
+      "word": "谁懂先天省钱圣体的含金量",
+      "onboard_time": 1760969661,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 20066,
       "num": 102556,
       "word": "利剑玫瑰就是最贴合这部剧的名字",
       "onboard_time": 1760868681,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20043,
+      "num": 195261,
+      "word": "今日集猫盒时薪过万",
+      "onboard_time": 1760968882,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 19094,
@@ -6747,20 +6867,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 12486,
-      "num": 36521,
-      "word": "星品影响力",
-      "onboard_time": 1760896396,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 11940,
       "num": 17642,
       "word": "王雷演活了西迁人的家国心",
       "onboard_time": 1760822835,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11667,
+      "num": 181364,
+      "word": "男子上铺跌落砸伤女孩或致长短腿",
+      "onboard_time": 1760969902,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11394,
@@ -6847,6 +6967,14 @@
       "num": 466041,
       "word": "非凡十四五",
       "onboard_time": 1760706502,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1445,
+      "num": 333400,
+      "word": "十四五时期1组令人振奋的数字",
+      "onboard_time": 1760922561,
       "rank": 2,
       "category": "国内时政"
     }

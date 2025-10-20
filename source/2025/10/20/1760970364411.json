@@ -1,0 +1,410 @@
+{
+  "runTime": 1760970364411,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 482077,
+        "num": 1077132,
+        "word": "韩国选手破了孙杨亚洲纪录",
+        "onboard_time": 1760961501,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341985,
+        "num": 341985,
+        "word": "解放军正告澳方立即停止侵权挑衅",
+        "onboard_time": 1760954121,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1445,
+        "num": 333400,
+        "word": "十四五时期1组令人振奋的数字",
+        "onboard_time": 1760922561,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328940,
+        "num": 328940,
+        "word": "中国游客拍到卢浮宫盗窃案事发现场",
+        "onboard_time": 1760966059,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 214802,
+        "num": 214802,
+        "word": "泽连斯基与特朗普对骂",
+        "onboard_time": 1760965221,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 10618,
+        "num": 212902,
+        "word": "前三季度铁路发送旅客35.4亿人次",
+        "onboard_time": 1760948242,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257439,
+        "num": 212875,
+        "word": "入青云偏偏你最争气",
+        "onboard_time": 1760964742,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212265,
+        "num": 212265,
+        "word": "凑单",
+        "onboard_time": 1760968882,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 196570,
+        "num": 196570,
+        "word": "暗河传首播反馈",
+        "onboard_time": 1760966240,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178832,
+        "num": 196467,
+        "word": "红包",
+        "onboard_time": 1760941461,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 444002,
+        "num": 196315,
+        "word": "男孩被戳伤失明园长用猪油消肿后续",
+        "onboard_time": 1760962881,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1292,
+        "num": 195950,
+        "word": "红星照耀中国",
+        "onboard_time": 1760593821,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 317293,
+        "num": 195875,
+        "word": "教育局回应老师上课玩手机麻将",
+        "onboard_time": 1760963481,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208014,
+        "num": 195690,
+        "word": "王楚钦祝马龙生日快乐",
+        "onboard_time": 1760967741,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20043,
+        "num": 195261,
+        "word": "今日集猫盒时薪过万",
+        "onboard_time": 1760968882,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 195254,
+        "num": 195254,
+        "word": "星品影响力",
+        "onboard_time": 1760969542,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182878,
+        "num": 182878,
+        "word": "赵丽颖直播",
+        "onboard_time": 1760961802,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181387,
+        "num": 181387,
+        "word": "肖战刘铮亮手术服造型路透",
+        "onboard_time": 1760961562,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11667,
+        "num": 181364,
+        "word": "男子上铺跌落砸伤女孩或致长短腿",
+        "onboard_time": 1760969902,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56519,
+        "num": 181080,
+        "word": "双十一天猫买美妆立省1500",
+        "onboard_time": 1760967622,
+        "rank": 19,
+        "category": "互联网,美妆"
+      },
+      {
+        "raw_hot": 30359,
+        "num": 180887,
+        "word": "被喜欢的明星发红包了",
+        "onboard_time": 1760968762,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128724,
+        "num": 180634,
+        "word": "iQOO15首发王者荣耀144FPS",
+        "onboard_time": 1760965521,
+        "rank": 21,
+        "category": "数码,游戏"
+      },
+      {
+        "raw_hot": 180629,
+        "num": 180629,
+        "word": "她这一套下来我要躺到明年10月",
+        "onboard_time": 1760966722,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26039,
+        "num": 166734,
+        "word": "礼遇季好多明星发红包",
+        "onboard_time": 1760968702,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261327,
+        "num": 165012,
+        "word": "9岁男孩患儿童癌症之王",
+        "onboard_time": 1760966421,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203099,
+        "num": 164116,
+        "word": "男子回应翻妻子手机发现和8人暧昧",
+        "onboard_time": 1760966123,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161028,
+        "num": 161028,
+        "word": "购物金 没到账",
+        "onboard_time": 1760965641,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127902,
+        "num": 160827,
+        "word": "越来越多本科毕业生回炉技校",
+        "onboard_time": 1760964681,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118159,
+        "num": 160815,
+        "word": "缅甸政府军突袭KK园区",
+        "onboard_time": 1760950944,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61525,
+        "num": 160581,
+        "word": "喜人奇妙夜神经病赛道也集齐了",
+        "onboard_time": 1760961501,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117225,
+        "num": 160309,
+        "word": "拒卖寿衣给老外的店主最新回应",
+        "onboard_time": 1760969182,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110095,
+        "num": 160143,
+        "word": "平台回应退款要扇孩子耳光5分钟",
+        "onboard_time": 1760943561,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108834,
+        "num": 159961,
+        "word": "给iPhone17Pro纹了个身",
+        "onboard_time": 1760969780,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105403,
+        "num": 159760,
+        "word": "黄金饰品调价",
+        "onboard_time": 1760960300,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102625,
+        "num": 159445,
+        "word": "iQOO15价格",
+        "onboard_time": 1760969422,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 100947,
+        "num": 159301,
+        "word": "VOGUE",
+        "onboard_time": 1760961022,
+        "rank": 35,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 59024,
+        "num": 159096,
+        "word": "穿秋裤的人vs不穿秋裤的人",
+        "onboard_time": 1760969422,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 93517,
+        "num": 158803,
+        "word": "Ruler火锅蘸料大公开",
+        "onboard_time": 1760969422,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92342,
+        "num": 158711,
+        "word": "外籍游客扎堆寿衣店试穿购买",
+        "onboard_time": 1760946440,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20517,
+        "num": 158468,
+        "word": "谁懂先天省钱圣体的含金量",
+        "onboard_time": 1760969661,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88845,
+        "num": 158324,
+        "word": "卢远发长文告别心动的信号",
+        "onboard_time": 1760960481,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87632,
+        "num": 158085,
+        "word": "刘宇宁直播",
+        "onboard_time": 1760961321,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85445,
+        "num": 157858,
+        "word": "苹果市值达3.85万亿美元",
+        "onboard_time": 1760970321,
+        "rank": 42,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 84581,
+        "num": 157700,
+        "word": "法国司法部长说我们失败了",
+        "onboard_time": 1760970321,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84298,
+        "num": 157353,
+        "word": "坐高铁再也不用扛行李了",
+        "onboard_time": 1760943742,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79701,
+        "num": 157155,
+        "word": "羽绒服推荐",
+        "onboard_time": 1760967862,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 73633,
+        "num": 157080,
+        "word": "多款知名进口药将退出国内市场",
+        "onboard_time": 1760963720,
+        "rank": 46,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 78561,
+        "num": 156804,
+        "word": "宇树科技新机器人高一米八重70kg",
+        "onboard_time": 1760970321,
+        "rank": 47,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 77248,
+        "num": 156666,
+        "word": "重庆一小区4户业主偷挖地下室",
+        "onboard_time": 1760970261,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76259,
+        "num": 156341,
+        "word": "宁德时代第三季度净利润185亿",
+        "onboard_time": 1760967320,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全会作工作报告#"
+    }
+  }
+}
