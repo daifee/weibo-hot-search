@@ -1,6 +1,6 @@
 {
   "startTime": 1760891363500,
-  "endTime": 1760957125403,
+  "endTime": 1760959413786,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -99,7 +99,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 727330,
+      "raw_hot": 770645,
       "num": 468605,
       "word": "红包",
       "onboard_time": 1760941461,
@@ -209,6 +209,22 @@
       "onboard_time": 1760888840,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 559427,
+      "num": 1089508,
+      "word": "解放军正告澳方立即停止侵权挑衅",
+      "onboard_time": 1760954121,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 539332,
+      "num": 205207,
+      "word": "骑手取走苹果17Promax后失联",
+      "onboard_time": 1760952561,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 531667,
@@ -451,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334357,
+      "num": 140073,
+      "word": "南昌大学致歉",
+      "onboard_time": 1760959161,
+      "rank": 13,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 330738,
       "num": 246545,
       "word": "暗河传 画面暗",
@@ -481,14 +505,6 @@
       "onboard_time": 1760950880,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 313492,
-      "num": 313492,
-      "word": "解放军正告澳方立即停止侵权挑衅",
-      "onboard_time": 1760954121,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 308991,
@@ -673,14 +689,6 @@
       "onboard_time": 1760879301,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 231277,
-      "num": 205207,
-      "word": "骑手取走苹果17Promax后失联",
-      "onboard_time": 1760952561,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 227553,
@@ -1131,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155616,
+      "num": 130846,
+      "word": "陈奕迅 红米",
+      "onboard_time": 1760958381,
+      "rank": 21,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 155178,
       "num": 155178,
       "word": "胡歌你别这样我害怕",
@@ -1347,12 +1363,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 130167,
-      "num": 130167,
+      "raw_hot": 130537,
+      "num": 130537,
       "word": "i人做梦都想拥有的卫衣",
       "onboard_time": 1760956519,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130243,
+      "num": 130243,
+      "word": "再见朋友拟邀85姐妹花",
+      "onboard_time": 1760956700,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 129591,
@@ -1380,7 +1404,7 @@
     },
     {
       "raw_hot": 127303,
-      "num": 132211,
+      "num": 132970,
       "word": "京东百亿补贴1元买手机百吋电视",
       "onboard_time": 1760956941,
       "rank": 30,
@@ -1393,6 +1417,14 @@
       "onboard_time": 1760950223,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126838,
+      "num": 121841,
+      "word": "雪地靴成了东三省省靴",
+      "onboard_time": 1760957842,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 126438,
@@ -1435,12 +1467,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125344,
+      "num": 125344,
+      "word": "香港坠海货机没有求救",
+      "onboard_time": 1760957419,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124516,
       "num": 124516,
       "word": "体操世锦赛",
       "onboard_time": 1760944821,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124458,
+      "num": 124458,
+      "word": "扇耳光退货谁给你的底气",
+      "onboard_time": 1760956220,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124205,
@@ -1457,6 +1505,14 @@
       "onboard_time": 1760952919,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 124131,
+      "num": 122468,
+      "word": "一毛红包",
+      "onboard_time": 1760958561,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 123464,
@@ -1555,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117455,
+      "num": 117455,
+      "word": "也是让龚俊常华森搞上殡葬一条龙了",
+      "onboard_time": 1760958622,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116599,
       "num": 116599,
       "word": "当外国小孩看见中国小孩午餐belike",
@@ -1571,12 +1635,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114792,
-      "num": 114792,
-      "word": "再见朋友拟邀85姐妹花",
-      "onboard_time": 1760956700,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 115297,
+      "num": 144861,
+      "word": "王者十周年农度爆表",
+      "onboard_time": 1760957602,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 113804,
@@ -1593,6 +1657,14 @@
       "onboard_time": 1760955621,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112998,
+      "num": 112998,
+      "word": "王一珩巡演官宣",
+      "onboard_time": 1760958142,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 112482,
@@ -1627,6 +1699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111796,
+      "num": 137819,
+      "word": "iQOO屏幕的含金量谁懂啊",
+      "onboard_time": 1760958320,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 111509,
       "num": 111509,
       "word": "马龙说很快就会在赛场上见面了",
@@ -1649,14 +1729,6 @@
       "onboard_time": 1760937081,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110457,
-      "num": 110457,
-      "word": "扇耳光退货谁给你的底气",
-      "onboard_time": 1760956220,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110068,
@@ -1851,6 +1923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101950,
+      "num": 101950,
+      "word": "彭小苒暗河传怼脸镜头",
+      "onboard_time": 1760958981,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101673,
       "num": 101673,
       "word": "江苏一化工厂突发火灾有刺鼻气味",
@@ -1897,6 +1977,14 @@
       "onboard_time": 1760952680,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97539,
+      "num": 103228,
+      "word": "怎么我已体感入冬了",
+      "onboard_time": 1760958921,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96502,
@@ -1971,6 +2059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 92798,
+      "num": 106345,
+      "word": "解放军回应澳军机侵闯中国西沙领空",
+      "onboard_time": 1760958260,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 92539,
       "num": 92539,
       "word": "龚俊暗河传热度破7000",
@@ -1995,12 +2091,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 91749,
+      "num": 91749,
+      "word": "南昌大学秋招现露骨女主播招聘海报",
+      "onboard_time": 1760959161,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91062,
+      "num": 91062,
+      "word": "寒冷性荨麻疹",
+      "onboard_time": 1760958201,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 90776,
       "num": 90776,
       "word": "有时候贪小便宜也是一种浪费",
       "onboard_time": 1760925499,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90421,
+      "num": 90421,
+      "word": "卢远王乐晨 心动的信号",
+      "onboard_time": 1760935280,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 90138,
@@ -2025,6 +2145,14 @@
       "onboard_time": 1760888301,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89284,
+      "num": 89284,
+      "word": "尚雯婕被冻结93万股权",
+      "onboard_time": 1760957301,
+      "rank": 46,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 88741,
@@ -2137,6 +2265,14 @@
       "onboard_time": 1760948242,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 81580,
+      "num": 81580,
+      "word": "衣服毛球 里面是烟头",
+      "onboard_time": 1760959222,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 79737,
@@ -2459,6 +2595,14 @@
       "category": "综艺,互联网"
     },
     {
+      "raw_hot": 58220,
+      "num": 110769,
+      "word": "你的城市开始冷冷冷了么",
+      "onboard_time": 1760956881,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57775,
       "num": 373777,
       "word": "教科书式羽绒服穿搭模板",
@@ -2497,6 +2641,14 @@
       "onboard_time": 1760933302,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53743,
+      "num": 98785,
+      "word": "今晚8点天猫4折买羽绒服",
+      "onboard_time": 1760958561,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 51055,
@@ -2683,14 +2835,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 27673,
-      "num": 110769,
-      "word": "你的城市开始冷冷冷了么",
-      "onboard_time": 1760956881,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26370,
       "num": 131583,
       "word": "年轻人为什么开始爱年代剧了",
@@ -2705,6 +2849,14 @@
       "onboard_time": 1760948962,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25773,
+      "num": 139647,
+      "word": "今天发红包的明星有哪些",
+      "onboard_time": 1760958082,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 25052,

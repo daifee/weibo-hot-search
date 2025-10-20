@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/20 00:29:23 ~ 2025/10/20 18:45:25
+本榜单时间：2025/10/20 00:29:23 ~ 2025/10/20 19:23:33
 </p>
 </blockquote>
 <p>
@@ -88,7 +88,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%8C%85%23" target="weibo">
-红包（热度：727330）
+红包（热度：770645）
 </a>
 </li>
 
@@ -167,6 +167,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E5%8D%A2%E6%98%B1%E6%99%93%20%E6%8E%A5%E4%BA%8C%E6%90%AD%23" target="weibo">
 侯明昊卢昱晓 接二搭（热度：567050）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E6%AD%A3%E5%91%8A%E6%BE%B3%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E4%BE%B5%E6%9D%83%E6%8C%91%E8%A1%85%23" target="weibo">
+解放军正告澳方立即停止侵权挑衅（热度：559427）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AA%91%E6%89%8B%E5%8F%96%E8%B5%B0%E8%8B%B9%E6%9E%9C17Promax%E5%90%8E%E5%A4%B1%E8%81%94%23" target="weibo">
+骑手取走苹果17Promax后失联（热度：539332）
 </a>
 </li>
 
@@ -351,6 +363,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C%E5%A4%A7%E5%AD%A6%E8%87%B4%E6%AD%89%23" target="weibo">
+南昌大学致歉（热度：334357）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%B2%B3%E4%BC%A0%20%E7%94%BB%E9%9D%A2%E6%9A%97%23" target="weibo">
 暗河传 画面暗（热度：330738）
 </a>
@@ -371,12 +389,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%23" target="weibo">
 当地回应江苏一化工厂发生火灾（热度：321181）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E6%AD%A3%E5%91%8A%E6%BE%B3%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E4%BE%B5%E6%9D%83%E6%8C%91%E8%A1%85%23" target="weibo">
-解放军正告澳方立即停止侵权挑衅（热度：313492）
 </a>
 </li>
 
@@ -515,12 +527,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E6%80%BB%E5%86%B3%E8%B5%9B%23" target="weibo">
 披荆斩棘总决赛（热度：236837）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AA%91%E6%89%8B%E5%8F%96%E8%B5%B0%E8%8B%B9%E6%9E%9C17Promax%E5%90%8E%E5%A4%B1%E8%81%94%23" target="weibo">
-骑手取走苹果17Promax后失联（热度：231277）
 </a>
 </li>
 
@@ -861,6 +867,12 @@ X剧场首部女性罪案剧（热度：164928）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%20%E7%BA%A2%E7%B1%B3%23" target="weibo">
+陈奕迅 红米（热度：155616）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E4%BD%A0%E5%88%AB%E8%BF%99%E6%A0%B7%E6%88%91%E5%AE%B3%E6%80%95%23" target="weibo">
 胡歌你别这样我害怕（热度：155178）
 </a>
@@ -1024,7 +1036,13 @@ Karsa希望20年TES能弥补遗憾（热度：144378）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23i%E4%BA%BA%E5%81%9A%E6%A2%A6%E9%83%BD%E6%83%B3%E6%8B%A5%E6%9C%89%E7%9A%84%E5%8D%AB%E8%A1%A3%23" target="weibo">
-i人做梦都想拥有的卫衣（热度：130167）
+i人做梦都想拥有的卫衣（热度：130537）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E6%9C%8B%E5%8F%8B%E6%8B%9F%E9%82%8085%E5%A7%90%E5%A6%B9%E8%8A%B1%23" target="weibo">
+再见朋友拟邀85姐妹花（热度：130243）
 </a>
 </li>
 
@@ -1059,6 +1077,12 @@ i人做梦都想拥有的卫衣（热度：130167）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E5%9C%B0%E9%9D%B4%E6%88%90%E4%BA%86%E4%B8%9C%E4%B8%89%E7%9C%81%E7%9C%81%E9%9D%B4%23" target="weibo">
+雪地靴成了东三省省靴（热度：126838）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E7%8C%AB%E7%94%A8AI%E7%88%86%E6%94%B9%E5%85%AB%E6%96%B9%E6%9D%A5%E8%B4%A2%23" target="weibo">
 天猫用AI爆改八方来财（热度：126438）
 </a>
@@ -1089,8 +1113,20 @@ i人做梦都想拥有的卫衣（热度：130167）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%9D%A0%E6%B5%B7%E8%B4%A7%E6%9C%BA%E6%B2%A1%E6%9C%89%E6%B1%82%E6%95%91%23" target="weibo">
+香港坠海货机没有求救（热度：125344）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E6%93%8D%E4%B8%96%E9%94%A6%E8%B5%9B%23" target="weibo">
 体操世锦赛（热度：124516）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%87%E8%80%B3%E5%85%89%E9%80%80%E8%B4%A7%E8%B0%81%E7%BB%99%E4%BD%A0%E7%9A%84%E5%BA%95%E6%B0%94%23" target="weibo">
+扇耳光退货谁给你的底气（热度：124458）
 </a>
 </li>
 
@@ -1103,6 +1139,12 @@ i人做梦都想拥有的卫衣（热度：130167）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%BD%A9%E4%B8%9E%E7%89%87%E5%9C%BA%E8%B7%AF%E9%80%8F%23" target="weibo">
 刘轩丞片场路透（热度：124172）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%AF%9B%E7%BA%A2%E5%8C%85%23" target="weibo">
+一毛红包（热度：124131）
 </a>
 </li>
 
@@ -1179,6 +1221,12 @@ i人做梦都想拥有的卫衣（热度：130167）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9F%E6%98%AF%E8%AE%A9%E9%BE%9A%E4%BF%8A%E5%B8%B8%E5%8D%8E%E6%A3%AE%E6%90%9E%E4%B8%8A%E6%AE%A1%E8%91%AC%E4%B8%80%E6%9D%A1%E9%BE%99%E4%BA%86%23" target="weibo">
+也是让龚俊常华森搞上殡葬一条龙了（热度：117455）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%A4%96%E5%9B%BD%E5%B0%8F%E5%AD%A9%E7%9C%8B%E8%A7%81%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%AD%A9%E5%8D%88%E9%A4%90belike%23" target="weibo">
 当外国小孩看见中国小孩午餐belike（热度：116599）
 </a>
@@ -1191,8 +1239,8 @@ i人做梦都想拥有的卫衣（热度：130167）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E6%9C%8B%E5%8F%8B%E6%8B%9F%E9%82%8085%E5%A7%90%E5%A6%B9%E8%8A%B1%23" target="weibo">
-再见朋友拟邀85姐妹花（热度：114792）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E5%8D%81%E5%91%A8%E5%B9%B4%E5%86%9C%E5%BA%A6%E7%88%86%E8%A1%A8%23" target="weibo">
+王者十周年农度爆表（热度：115297）
 </a>
 </li>
 
@@ -1205,6 +1253,12 @@ i人做梦都想拥有的卫衣（热度：130167）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Elk%E8%AF%B4%E7%88%AC%E4%B9%9F%E8%A6%81%E7%88%AC%E5%88%B0%E4%B8%8A%E6%B5%B7%23" target="weibo">
 Elk说爬也要爬到上海（热度：113554）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E7%8F%A9%E5%B7%A1%E6%BC%94%E5%AE%98%E5%AE%A3%23" target="weibo">
+王一珩巡演官宣（热度：112998）
 </a>
 </li>
 
@@ -1233,6 +1287,12 @@ Elk说爬也要爬到上海（热度：113554）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iQOO%E5%B1%8F%E5%B9%95%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E8%B0%81%E6%87%82%E5%95%8A%23" target="weibo">
+iQOO屏幕的含金量谁懂啊（热度：111796）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AF%B4%E5%BE%88%E5%BF%AB%E5%B0%B1%E4%BC%9A%E5%9C%A8%E8%B5%9B%E5%9C%BA%E4%B8%8A%E8%A7%81%E9%9D%A2%E4%BA%86%23" target="weibo">
 马龙说很快就会在赛场上见面了（热度：111509）
 </a>
@@ -1247,12 +1307,6 @@ Elk说爬也要爬到上海（热度：113554）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E8%BF%99%E4%B8%8B%E7%9C%9F%E9%80%AE%E5%88%B0%E6%9C%BA%E4%BC%9A%E4%BA%86%23" target="weibo">
 李沁这下真逮到机会了（热度：110900）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%87%E8%80%B3%E5%85%89%E9%80%80%E8%B4%A7%E8%B0%81%E7%BB%99%E4%BD%A0%E7%9A%84%E5%BA%95%E6%B0%94%23" target="weibo">
-扇耳光退货谁给你的底气（热度：110457）
 </a>
 </li>
 
@@ -1401,6 +1455,12 @@ Elk说爬也要爬到上海（热度：113554）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%B0%8F%E8%8B%92%E6%9A%97%E6%B2%B3%E4%BC%A0%E6%80%BC%E8%84%B8%E9%95%9C%E5%A4%B4%23" target="weibo">
+彭小苒暗河传怼脸镜头（热度：101950）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E4%B8%80%E5%8C%96%E5%B7%A5%E5%8E%82%E7%AA%81%E5%8F%91%E7%81%AB%E7%81%BE%E6%9C%89%E5%88%BA%E9%BC%BB%E6%B0%94%E5%91%B3%23" target="weibo">
 江苏一化工厂突发火灾有刺鼻气味（热度：101673）
 </a>
@@ -1433,6 +1493,12 @@ Elk说爬也要爬到上海（热度：113554）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E7%BC%98%E8%AE%A1%E5%88%92%23" target="weibo">
 音乐缘计划（热度：97954）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E6%88%91%E5%B7%B2%E4%BD%93%E6%84%9F%E5%85%A5%E5%86%AC%E4%BA%86%23" target="weibo">
+怎么我已体感入冬了（热度：97539）
 </a>
 </li>
 
@@ -1491,6 +1557,12 @@ VOGUE盛典 GQ味儿（热度：95710）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9B%9E%E5%BA%94%E6%BE%B3%E5%86%9B%E6%9C%BA%E4%BE%B5%E9%97%AF%E4%B8%AD%E5%9B%BD%E8%A5%BF%E6%B2%99%E9%A2%86%E7%A9%BA%23" target="weibo">
+解放军回应澳军机侵闯中国西沙领空（热度：92798）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BE%9A%E4%BF%8A%E6%9A%97%E6%B2%B3%E4%BC%A0%E7%83%AD%E5%BA%A6%E7%A0%B47000%23" target="weibo">
 龚俊暗河传热度破7000（热度：92539）
 </a>
@@ -1509,8 +1581,26 @@ VOGUE盛典 GQ味儿（热度：95710）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C%E5%A4%A7%E5%AD%A6%E7%A7%8B%E6%8B%9B%E7%8E%B0%E9%9C%B2%E9%AA%A8%E5%A5%B3%E4%B8%BB%E6%92%AD%E6%8B%9B%E8%81%98%E6%B5%B7%E6%8A%A5%23" target="weibo">
+南昌大学秋招现露骨女主播招聘海报（热度：91749）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%92%E5%86%B7%E6%80%A7%E8%8D%A8%E9%BA%BB%E7%96%B9%23" target="weibo">
+寒冷性荨麻疹（热度：91062）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E6%97%B6%E5%80%99%E8%B4%AA%E5%B0%8F%E4%BE%BF%E5%AE%9C%E4%B9%9F%E6%98%AF%E4%B8%80%E7%A7%8D%E6%B5%AA%E8%B4%B9%23" target="weibo">
 有时候贪小便宜也是一种浪费（热度：90776）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E8%BF%9C%E7%8E%8B%E4%B9%90%E6%99%A8%20%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7%23" target="weibo">
+卢远王乐晨 心动的信号（热度：90421）
 </a>
 </li>
 
@@ -1529,6 +1619,12 @@ VOGUE盛典 GQ味儿（热度：95710）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%8F%E9%98%B3%E7%83%9F%E8%8A%B1%E8%8A%82%E6%88%90%E5%8A%9F%E6%8C%91%E6%88%98%E4%B8%A4%E9%A1%B9%E5%90%89%E5%B0%BC%E6%96%AF%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95%23" target="weibo">
 浏阳烟花节成功挑战两项吉尼斯世界纪录（热度：89511）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%9A%E9%9B%AF%E5%A9%95%E8%A2%AB%E5%86%BB%E7%BB%9393%E4%B8%87%E8%82%A1%E6%9D%83%23" target="weibo">
+尚雯婕被冻结93万股权（热度：89284）
 </a>
 </li>
 
@@ -1613,6 +1709,12 @@ VOGUE盛典 GQ味儿（热度：95710）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E7%BA%A2%E5%8C%85%E5%8A%A9%E5%8A%9B%23" target="weibo">
 京东红包助力（热度：81713）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A1%A3%E6%9C%8D%E6%AF%9B%E7%90%83%20%E9%87%8C%E9%9D%A2%E6%98%AF%E7%83%9F%E5%A4%B4%23" target="weibo">
+衣服毛球 里面是烟头（热度：81580）
 </a>
 </li>
 
@@ -1857,6 +1959,12 @@ iQOO15哪哪儿都不基础（热度：60535）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E5%9F%8E%E5%B8%82%E5%BC%80%E5%A7%8B%E5%86%B7%E5%86%B7%E5%86%B7%E4%BA%86%E4%B9%88%23" target="weibo">
+你的城市开始冷冷冷了么（热度：58220）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E7%BE%BD%E7%BB%92%E6%9C%8D%E7%A9%BF%E6%90%AD%E6%A8%A1%E6%9D%BF%23" target="weibo">
 教科书式羽绒服穿搭模板（热度：57775）
 </a>
@@ -1883,6 +1991,12 @@ iQOO15哪哪儿都不基础（热度：60535）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E5%86%B0%E9%9B%AA%E5%BF%83%E5%8A%A8%E7%9E%AC%E9%97%B4%23" target="weibo">
 成毅冰雪心动瞬间（热度：55177）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%99%9A8%E7%82%B9%E5%A4%A9%E7%8C%AB4%E6%8A%98%E4%B9%B0%E7%BE%BD%E7%BB%92%E6%9C%8D%23" target="weibo">
+今晚8点天猫4折买羽绒服（热度：53743）
 </a>
 </li>
 
@@ -2025,12 +2139,6 @@ AG战胜TTG（热度：29148）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E5%9F%8E%E5%B8%82%E5%BC%80%E5%A7%8B%E5%86%B7%E5%86%B7%E5%86%B7%E4%BA%86%E4%B9%88%23" target="weibo">
-你的城市开始冷冷冷了么（热度：27673）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BC%80%E5%A7%8B%E7%88%B1%E5%B9%B4%E4%BB%A3%E5%89%A7%E4%BA%86%23" target="weibo">
 年轻人为什么开始爱年代剧了（热度：26370）
 </a>
@@ -2039,6 +2147,12 @@ AG战胜TTG（热度：29148）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%B0%91%E4%BC%97%E5%9C%A8%E7%BE%8E%E5%A4%A7%E4%BD%BF%E9%A6%86%E5%89%8D%E4%B8%BE%E8%A1%8C%E5%8F%8D%E7%BE%8E%E6%B8%B8%E8%A1%8C%23" target="weibo">
 韩国民众在美大使馆前举行反美游行（热度：26219）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%A4%A9%E5%8F%91%E7%BA%A2%E5%8C%85%E7%9A%84%E6%98%8E%E6%98%9F%E6%9C%89%E5%93%AA%E4%BA%9B%23" target="weibo">
+今天发红包的明星有哪些（热度：25773）
 </a>
 </li>
 
