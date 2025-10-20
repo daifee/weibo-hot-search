@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1760982039879,
+  "endTime": 1760985487613,
   "band_list": [
     {
       "raw_hot": 1101636,
@@ -432,6 +432,30 @@
       "word": "暗河传打戏",
       "onboard_time": 1760981356,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 17303,
+      "num": 36911,
+      "word": "双11付尾款",
+      "onboard_time": 1760962040,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 16002,
+      "num": 36885,
+      "word": "开暖气",
+      "onboard_time": 1760983095,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13776,
+      "num": 36863,
+      "word": "宴遇永安",
+      "onboard_time": 1760984174,
+      "rank": 49,
       "category": "剧集"
     },
     {

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/19 00:28:53 ~ 2025/10/21 01:40:39
+本榜单时间：2025/10/19 00:28:53 ~ 2025/10/21 02:38:07
 </p>
 </blockquote>
 <p>
@@ -5357,6 +5357,12 @@ PSG对战VKS（热度：39526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E9%82%BB%E5%B1%85%E6%82%BC%E5%BF%B5%E6%9D%A8%E6%8C%AF%E5%AE%81%23" target="weibo">
 清华邻居悼念杨振宁（热度：16007）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E6%9A%96%E6%B0%94%23" target="weibo">
+开暖气（热度：16002）
 </a>
 </li>
 
