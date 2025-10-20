@@ -1,0 +1,410 @@
+{
+  "runTime": 1760946380028,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 869073,
+        "num": 1139051,
+        "word": "英国奶奶因汶川地震留中国17年",
+        "onboard_time": 1760939841,
+        "rank": 0,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 345980,
+        "num": 345980,
+        "word": "老外直勾勾盯着中国农村的魔芋",
+        "onboard_time": 1760936663,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25353,
+        "num": 243876,
+        "word": "一张图了解四中全会",
+        "onboard_time": 1760919561,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 579830,
+        "num": 243601,
+        "word": "红包",
+        "onboard_time": 1760941461,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 364275,
+        "num": 243231,
+        "word": "暗河传",
+        "onboard_time": 1760934442,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242838,
+        "num": 242838,
+        "word": "25省份生育津贴直发至个人",
+        "onboard_time": 1760939182,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393296,
+        "num": 242550,
+        "word": "翁帆大一时认识杨振宁",
+        "onboard_time": 1760942900,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330738,
+        "num": 240339,
+        "word": "暗河传 画面暗",
+        "onboard_time": 1760944521,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167030,
+        "num": 239956,
+        "word": "两京十五日",
+        "onboard_time": 1760941042,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142207,
+        "num": 238106,
+        "word": "王者荣耀十周年",
+        "onboard_time": 1760942721,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1114813,
+        "num": 236168,
+        "word": "坐高铁再也不用扛行李了",
+        "onboard_time": 1760943742,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 692763,
+        "num": 235958,
+        "word": "麦当劳 粤菜",
+        "onboard_time": 1760941702,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 590582,
+        "num": 234410,
+        "word": "卢远 王乐晨",
+        "onboard_time": 1760935280,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460171,
+        "num": 233159,
+        "word": "黄磊摔的是手机留的是观剧体验",
+        "onboard_time": 1760944521,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 434870,
+        "num": 230738,
+        "word": "女主马甲掉了男主更爱了",
+        "onboard_time": 1760941221,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408305,
+        "num": 230425,
+        "word": "潮玩平台退款要求扇孩子耳光5分钟",
+        "onboard_time": 1760939240,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405506,
+        "num": 228301,
+        "word": "减肥十斤就是掉了这么多肉",
+        "onboard_time": 1760935223,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 373927,
+        "num": 227217,
+        "word": "美媒爆特朗普疑似险遭暗杀",
+        "onboard_time": 1760939541,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280224,
+        "num": 225441,
+        "word": "卢远王乐晨彻底be",
+        "onboard_time": 1760940082,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82559,
+        "num": 223931,
+        "word": "京东晚8点国补",
+        "onboard_time": 1760944102,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 223703,
+        "num": 223703,
+        "word": "刘宇宁vs刘宇宁vs刘宇宁",
+        "onboard_time": 1760944821,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204527,
+        "num": 204527,
+        "word": "丞磊徐若晗进组玉簟秋",
+        "onboard_time": 1760945481,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202836,
+        "num": 202836,
+        "word": "陈小春和应采儿吵完架把自己哄好了",
+        "onboard_time": 1760938701,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133225,
+        "num": 202014,
+        "word": "前三季度中国GDP同比增长5.2%",
+        "onboard_time": 1760929160,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136595,
+        "num": 201303,
+        "word": "特朗普称美国或将得20万亿投资",
+        "onboard_time": 1760944161,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 201298,
+        "num": 201298,
+        "word": "27岁全款在村里开了一家饭店",
+        "onboard_time": 1760943262,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198008,
+        "num": 198008,
+        "word": "平台回应退款要扇孩子耳光5分钟",
+        "onboard_time": 1760943561,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134424,
+        "num": 189015,
+        "word": "卢浮宫8件失窃藏品清单",
+        "onboard_time": 1760917639,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183913,
+        "num": 183913,
+        "word": "公务员非铁饭碗须遵守基本工作纪律",
+        "onboard_time": 1760944221,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102893,
+        "num": 172771,
+        "word": "孟羽童来offer董明珠知道么",
+        "onboard_time": 1760936781,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171077,
+        "num": 171077,
+        "word": "白鹿 谁能给我一个包场链接",
+        "onboard_time": 1760934202,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154602,
+        "num": 154602,
+        "word": "身体6个表现说明开始变瘦了",
+        "onboard_time": 1760944102,
+        "rank": 31,
+        "category": "运动健身,健康医疗"
+      },
+      {
+        "raw_hot": 143193,
+        "num": 143193,
+        "word": "0713没有张远的群有20多个",
+        "onboard_time": 1760943800,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142242,
+        "num": 142242,
+        "word": "红包分组",
+        "onboard_time": 1760946020,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 88311,
+        "num": 135280,
+        "word": "天猫用AI爆改八方来财",
+        "onboard_time": 1760946262,
+        "rank": 34,
+        "category": "互联网,音乐"
+      },
+      {
+        "raw_hot": 93912,
+        "num": 131017,
+        "word": "水龙吟定档",
+        "onboard_time": 1760929880,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129584,
+        "num": 129584,
+        "word": "找同学操办婚礼到现场两眼一黑",
+        "onboard_time": 1760926339,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124516,
+        "num": 124516,
+        "word": "体操世锦赛",
+        "onboard_time": 1760944821,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128421,
+        "num": 123536,
+        "word": "12306新增积分兑换座位升席功能",
+        "onboard_time": 1760943143,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83484,
+        "num": 122457,
+        "word": "内娱能让宁静宁静的人凑一桌了",
+        "onboard_time": 1760945422,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121814,
+        "num": 121814,
+        "word": "公务员连续旷工超15个工作日被辞退",
+        "onboard_time": 1760930840,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119672,
+        "num": 119672,
+        "word": "Lululemon劲敌Alo还没开进中国",
+        "onboard_time": 1760946200,
+        "rank": 41,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 118496,
+        "num": 118496,
+        "word": "37岁的马龙将六战全运会",
+        "onboard_time": 1760945781,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 54971,
+        "num": 114553,
+        "word": "iPhone自制emoji",
+        "onboard_time": 1760944942,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 112077,
+        "num": 112077,
+        "word": "张子枫演技自来水",
+        "onboard_time": 1760946144,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110028,
+        "num": 110028,
+        "word": "多邻国崩了",
+        "onboard_time": 1760946080,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 104172,
+        "num": 104172,
+        "word": "多地中小学生11月迎5天小长假",
+        "onboard_time": 1760944341,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102003,
+        "num": 102003,
+        "word": "林更新两京十五日开机",
+        "onboard_time": 1760945422,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96502,
+        "num": 96502,
+        "word": "12306火车免费坐攻略",
+        "onboard_time": 1760946200,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94908,
+        "num": 94908,
+        "word": "十个勤天爱是托举具象化",
+        "onboard_time": 1760946321,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向全会作工作报告#"
+    }
+  }
+}
