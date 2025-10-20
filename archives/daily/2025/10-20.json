@@ -1,6 +1,6 @@
 {
   "startTime": 1760891363500,
-  "endTime": 1760971443048,
+  "endTime": 1760974031596,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -33,6 +33,14 @@
       "onboard_time": 1760949801,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1506633,
+      "num": 220465,
+      "word": "68页PPT曝光妻子出轨最新回应",
+      "onboard_time": 1760971041,
+      "rank": 31,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 1327192,
@@ -105,6 +113,14 @@
       "onboard_time": 1760920461,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 862324,
+      "num": 1137971,
+      "word": "凑单",
+      "onboard_time": 1760968882,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 807914,
@@ -267,20 +283,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 514434,
-      "num": 1082309,
-      "word": "凑单",
-      "onboard_time": 1760968882,
-      "rank": 7,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 505856,
       "num": 505856,
       "word": "虽然不能同时拥有一切",
       "onboard_time": 1760926999,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 498176,
+      "num": 220360,
+      "word": "拒卖寿衣给老外的店主最新回应",
+      "onboard_time": 1760969182,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 488753,
@@ -595,6 +611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 301612,
+      "num": 301612,
+      "word": "卢浮宫窃贼作案视频泄露",
+      "onboard_time": 1760970981,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 297182,
       "num": 857549,
       "word": "卢浮宫多件藏品被盗",
@@ -739,6 +763,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 252037,
+      "num": 220249,
+      "word": "给iPhone17Pro纹了个身",
+      "onboard_time": 1760969780,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 251408,
+      "num": 412895,
+      "word": "她这一套下来我要躺到明年10月",
+      "onboard_time": 1760966722,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 247514,
       "num": 707362,
       "word": "女子7万买游乐场设施直呼太疯狂",
@@ -756,7 +796,7 @@
     },
     {
       "raw_hot": 245910,
-      "num": 201911,
+      "num": 217688,
       "word": "支付宝回应内斗传闻",
       "onboard_time": 1760970862,
       "rank": 12,
@@ -809,14 +849,6 @@
       "onboard_time": 1760879301,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230110,
-      "num": 412895,
-      "word": "她这一套下来我要躺到明年10月",
-      "onboard_time": 1760966722,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 227553,
@@ -884,7 +916,7 @@
     },
     {
       "raw_hot": 208014,
-      "num": 201893,
+      "num": 218526,
       "word": "王楚钦祝马龙生日快乐",
       "onboard_time": 1760967741,
       "rank": 27,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1760955380,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187073,
+      "num": 219997,
+      "word": "参观胖东来学费每人2万",
+      "onboard_time": 1760972001,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 186440,
@@ -1331,8 +1371,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161956,
+      "num": 219844,
+      "word": "68页PPT男子二次举报希望开除博士生",
+      "onboard_time": 1760972902,
+      "rank": 15,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 161695,
-      "num": 201934,
+      "num": 219253,
       "word": "水龙吟",
       "onboard_time": 1760970561,
       "rank": 9,
@@ -1388,7 +1436,7 @@
     },
     {
       "raw_hot": 154583,
-      "num": 188577,
+      "num": 219485,
       "word": "iQOO15价格",
       "onboard_time": 1760969422,
       "rank": 34,
@@ -1449,14 +1497,6 @@
       "onboard_time": 1760965521,
       "rank": 32,
       "category": "数码,游戏"
-    },
-    {
-      "raw_hot": 151754,
-      "num": 188573,
-      "word": "拒卖寿衣给老外的店主最新回应",
-      "onboard_time": 1760969182,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 151473,
@@ -1539,14 +1579,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 146125,
-      "num": 188569,
-      "word": "给iPhone17Pro纹了个身",
-      "onboard_time": 1760969780,
-      "rank": 32,
-      "category": "数码"
-    },
-    {
       "raw_hot": 145324,
       "num": 145324,
       "word": "水龙吟江湖因果版预告",
@@ -1627,14 +1659,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 136170,
-      "num": 188537,
-      "word": "68页PPT曝光妻子出轨最新回应",
-      "onboard_time": 1760971041,
-      "rank": 31,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 134917,
       "num": 235713,
       "word": "Zeus致敬Nuguri",
@@ -1649,6 +1673,14 @@
       "onboard_time": 1760956400,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131845,
+      "num": 217858,
+      "word": "曝兮夜担任S15抽签嘉宾",
+      "onboard_time": 1760973922,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 131684,
@@ -1803,6 +1835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 125218,
+      "num": 217585,
+      "word": "字节跳动100元一天的免费三餐",
+      "onboard_time": 1760973621,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 124516,
       "num": 124516,
       "word": "体操世锦赛",
@@ -1889,14 +1929,6 @@
       "onboard_time": 1760949682,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119408,
-      "num": 195933,
-      "word": "卢浮宫窃贼作案视频泄露",
-      "onboard_time": 1760970981,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 118586,
@@ -2017,6 +2049,14 @@
       "onboard_time": 1760964500,
       "rank": 34,
       "category": "幽默,美妆"
+    },
+    {
+      "raw_hot": 113081,
+      "num": 218599,
+      "word": "彭小苒原声",
+      "onboard_time": 1760970801,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 112998,
@@ -2195,6 +2235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106869,
+      "num": 218405,
+      "word": "马龙回复王楚钦",
+      "onboard_time": 1760973022,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106074,
       "num": 391647,
       "word": "贵州失联2岁女童已找到",
@@ -2225,6 +2273,14 @@
       "onboard_time": 1760925380,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104672,
+      "num": 217539,
+      "word": "官方回应香港飞机坠海",
+      "onboard_time": 1760972361,
+      "rank": 33,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 104569,
@@ -2355,20 +2411,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101558,
-      "num": 188515,
-      "word": "彭小苒原声",
-      "onboard_time": 1760970801,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 100691,
       "num": 352439,
       "word": "这些人不能乱吃止痛药",
       "onboard_time": 1760931561,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 100476,
+      "num": 217370,
+      "word": "江苏一化工厂爆炸附近烟雾弥漫PM2.5值飙升",
+      "onboard_time": 1760972842,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100462,
@@ -2385,6 +2441,14 @@
       "onboard_time": 1760888122,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99067,
+      "num": 218180,
+      "word": "法国司法部长说我们失败了",
+      "onboard_time": 1760970321,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 98764,
@@ -2739,14 +2803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84581,
-      "num": 188417,
-      "word": "法国司法部长说我们失败了",
-      "onboard_time": 1760970321,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 84359,
       "num": 173881,
       "word": "53%四十岁女性检出乳腺结节",
@@ -2787,6 +2843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83272,
+      "num": 217951,
+      "word": "卢浮宫削减安保岗曾遭罢工抗议",
+      "onboard_time": 1760973802,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 83178,
       "num": 83178,
       "word": "特朗普提美对华三大议题",
@@ -2817,6 +2881,22 @@
       "onboard_time": 1760959222,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81255,
+      "num": 234318,
+      "word": "多款知名进口药将退出国内市场",
+      "onboard_time": 1760963720,
+      "rank": 47,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 81018,
+      "num": 216480,
+      "word": "以色列炸完加沙后宣布恢复停火",
+      "onboard_time": 1760973621,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79737,
@@ -2881,14 +2961,6 @@
       "onboard_time": 1760933781,
       "rank": 38,
       "category": "网红"
-    },
-    {
-      "raw_hot": 77952,
-      "num": 234318,
-      "word": "多款知名进口药将退出国内市场",
-      "onboard_time": 1760963720,
-      "rank": 47,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 77248,
@@ -2963,6 +3035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 72994,
+      "num": 216134,
+      "word": "现货黄金涨至4293美元",
+      "onboard_time": 1760972602,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 72569,
       "num": 117793,
       "word": "iPhone自制emoji",
@@ -3019,12 +3099,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67959,
+      "num": 215679,
+      "word": "王楚钦叫马龙我的哥",
+      "onboard_time": 1760973860,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67581,
       "num": 340784,
       "word": "GEN抽到TES",
       "onboard_time": 1760880562,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 65808,
+      "num": 215491,
+      "word": "蒙娜丽莎也曾在卢浮宫遭窃",
+      "onboard_time": 1760973321,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 65523,
@@ -3180,7 +3276,7 @@
     },
     {
       "raw_hot": 59024,
-      "num": 188504,
+      "num": 215872,
       "word": "穿秋裤的人vs不穿秋裤的人",
       "onboard_time": 1760969422,
       "rank": 36,
@@ -3241,6 +3337,14 @@
       "onboard_time": 1760960241,
       "rank": 38,
       "category": "作品衍生,汽车"
+    },
+    {
+      "raw_hot": 52685,
+      "num": 216762,
+      "word": "酷似袁隆平面筋爷爷说想大家吃饱",
+      "onboard_time": 1760973922,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51055,
@@ -3337,6 +3441,14 @@
       "onboard_time": 1760962221,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 38715,
+      "num": 216820,
+      "word": "男子给电动车充1.8度电花4元",
+      "onboard_time": 1760973981,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38527,
@@ -3444,7 +3556,7 @@
     },
     {
       "raw_hot": 30359,
-      "num": 192786,
+      "num": 216596,
       "word": "被喜欢的明星发红包了",
       "onboard_time": 1760968762,
       "rank": 20,
@@ -3500,7 +3612,7 @@
     },
     {
       "raw_hot": 26039,
-      "num": 189672,
+      "num": 218898,
       "word": "礼遇季好多明星发红包",
       "onboard_time": 1760968702,
       "rank": 23,
@@ -3643,7 +3755,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2292,
+      "raw_hot": 2342,
       "num": 427049,
       "word": "十四五时期1组令人振奋的数字",
       "onboard_time": 1760922561,

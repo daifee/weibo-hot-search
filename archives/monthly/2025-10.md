@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 22:44:03
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/20 23:27:11
 </p>
 </blockquote>
 <p>
@@ -641,6 +641,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E6%8A%A2%E5%88%B0%E4%BA%86%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9A%84%E8%A5%BF%E5%85%B0%E8%8A%B1%23" target="weibo">
 姜潮抢到了黄子韬的西兰花（热度：1513680）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2368%E9%A1%B5PPT%E6%9B%9D%E5%85%89%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23" target="weibo">
+68页PPT曝光妻子出轨最新回应（热度：1506633）
 </a>
 </li>
 
@@ -2285,6 +2291,12 @@ A股（热度：871787）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%8C%B4%E5%93%A5%E8%AF%B4%E8%BD%A6%E5%AE%98%E5%AE%A3%E7%A6%BB%E5%A9%9A%23" target="weibo">
 网红猴哥说车官宣离婚（热度：863881）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%91%E5%8D%95%23" target="weibo">
+凑单（热度：862324）
 </a>
 </li>
 
@@ -5361,12 +5373,6 @@ GEN战胜T1（热度：526738）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%91%E5%8D%95%23" target="weibo">
-凑单（热度：514434）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%83%E5%A4%8D%E5%90%88%E7%BB%B4%E7%94%9F%E7%B4%A0%E6%98%AF%E6%99%BA%E5%95%86%E7%A8%8E%E4%B9%88%23" target="weibo">
 长期吃复合维生素是智商税么（热度：514076）
 </a>
@@ -5621,6 +5627,12 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E5%9B%9E%E5%BA%94%E8%81%94%E7%B3%BB%E4%B8%8D%E4%B8%8A%E5%BE%97%E8%AF%BA%E5%A5%96%E7%9A%84%E5%91%98%E5%B7%A5%23" target="weibo">
 公司回应联系不上得诺奖的员工（热度：498380）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%92%E5%8D%96%E5%AF%BF%E8%A1%A3%E7%BB%99%E8%80%81%E5%A4%96%E7%9A%84%E5%BA%97%E4%B8%BB%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23" target="weibo">
+拒卖寿衣给老外的店主最新回应（热度：498176）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TheShy回应上单韦鲁斯（热度：477977）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%9F%E4%B8%80%E5%BF%85%E8%83%9C%E5%8F%B0%E7%8B%AC%E5%BF%85%E4%BA%A1%23" target="weibo">
 统一必胜台独必亡（热度：476626）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%E5%89%8D%E6%80%BB%E7%BB%9F%E9%98%BF%E8%90%A8%E5%BE%B7%E7%8E%B0%E6%B2%89%E8%BF%B7%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F%23" target="weibo">
-叙利亚前总统阿萨德现沉迷电子游戏（热度：476284）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91%E5%9C%A8%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%80%80%E9%87%8C%E5%B0%8F%E9%B8%9F%E4%BE%9D%E4%BA%BA%23" target="weibo">
-梁靖崑在王楚钦怀里小鸟依人（热度：476232）
 </a>
 </li>
 
