@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1760986321836,
+  "endTime": 1760988130087,
   "band_list": [
     {
       "raw_hot": 1101636,
@@ -243,6 +243,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 81689,
+      "num": 43306,
+      "word": "被冻醒",
+      "onboard_time": 1760985853,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 80592,
       "num": 80592,
       "word": "成毅新剧手捧真火",
@@ -433,14 +441,6 @@
       "onboard_time": 1760981356,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18633,
-      "num": 35128,
-      "word": "被冻醒",
-      "onboard_time": 1760985853,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 17303,
