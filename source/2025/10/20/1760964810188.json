@@ -1,0 +1,410 @@
+{
+  "runTime": 1760964810188,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 552102,
+        "num": 1088336,
+        "word": "解放军正告澳方立即停止侵权挑衅",
+        "onboard_time": 1760954121,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 265356,
+        "num": 265356,
+        "word": "缅甸政府军突袭KK园区",
+        "onboard_time": 1760950944,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 82360,
+        "num": 265079,
+        "word": "四中全会",
+        "onboard_time": 1760948660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 424139,
+        "num": 263061,
+        "word": "红包",
+        "onboard_time": 1760941461,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 192280,
+        "num": 261818,
+        "word": "建议打工人抽空去一趟景德镇",
+        "onboard_time": 1760960300,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 188621,
+        "num": 261081,
+        "word": "双十一 没便宜",
+        "onboard_time": 1760963481,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 173660,
+        "num": 260314,
+        "word": "中方奉劝巴拉圭早日做出正确决断",
+        "onboard_time": 1760961441,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167641,
+        "num": 258457,
+        "word": "双十一 算不明白",
+        "onboard_time": 1760963961,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141915,
+        "num": 258000,
+        "word": "解放军回应澳军机侵闯中国西沙领空",
+        "onboard_time": 1760958260,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140385,
+        "num": 256667,
+        "word": "清融状态",
+        "onboard_time": 1760960121,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 295459,
+        "num": 255504,
+        "word": "赵丽颖直播",
+        "onboard_time": 1760961802,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283711,
+        "num": 253273,
+        "word": "黄金饰品调价",
+        "onboard_time": 1760960300,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 253196,
+        "num": 253196,
+        "word": "肖战刘铮亮手术服造型路透",
+        "onboard_time": 1760961562,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47488,
+        "num": 243868,
+        "word": "王者十周年最好的礼物",
+        "onboard_time": 1760960241,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 37260,
+        "num": 237770,
+        "word": "谁抢红包手速这么快啊",
+        "onboard_time": 1760961681,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 236200,
+        "num": 236200,
+        "word": "骑手取走苹果17Promax后失联",
+        "onboard_time": 1760952561,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32918,
+        "num": 236191,
+        "word": "电竞圈半壁江山都来了",
+        "onboard_time": 1760962160,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167047,
+        "num": 236109,
+        "word": "九寨沟烤肠",
+        "onboard_time": 1760946981,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 166048,
+        "num": 236057,
+        "word": "韩国选手破了孙杨亚洲纪录",
+        "onboard_time": 1760961501,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46005,
+        "num": 235968,
+        "word": "一张图教你用天猫万元大券包",
+        "onboard_time": 1760962221,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134386,
+        "num": 235911,
+        "word": "双11付尾款",
+        "onboard_time": 1760962040,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157955,
+        "num": 235845,
+        "word": "VOGUE",
+        "onboard_time": 1760961022,
+        "rank": 21,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 147837,
+        "num": 235811,
+        "word": "男孩被戳伤失明园长用猪油消肿后续",
+        "onboard_time": 1760962881,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139303,
+        "num": 235776,
+        "word": "平台回应退款要扇孩子耳光5分钟",
+        "onboard_time": 1760943561,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134917,
+        "num": 235713,
+        "word": "Zeus致敬Nuguri",
+        "onboard_time": 1760960962,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133102,
+        "num": 235610,
+        "word": "教育局回应老师上课玩手机麻将",
+        "onboard_time": 1760963481,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128175,
+        "num": 235571,
+        "word": "外籍游客扎堆寿衣店试穿购买",
+        "onboard_time": 1760946440,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103203,
+        "num": 235534,
+        "word": "今年流感毒株与去年不同",
+        "onboard_time": 1760963601,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66717,
+        "num": 235471,
+        "word": "喜人奇妙夜神经病赛道也集齐了",
+        "onboard_time": 1760961501,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39104,
+        "num": 235404,
+        "word": "安卓首颗自研光追芯片",
+        "onboard_time": 1760962221,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 120245,
+        "num": 235345,
+        "word": "深圳失联70余天小伙遗体已找到",
+        "onboard_time": 1760950460,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114839,
+        "num": 235235,
+        "word": "美国新型毒品兴起",
+        "onboard_time": 1760961261,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111945,
+        "num": 235220,
+        "word": "卢远发长文告别心动的信号",
+        "onboard_time": 1760960481,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108446,
+        "num": 235146,
+        "word": "南昌大学秋招现露骨女主播招聘海报",
+        "onboard_time": 1760959161,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74719,
+        "num": 235104,
+        "word": "真正只需要一杯奶茶钱的化妆",
+        "onboard_time": 1760964500,
+        "rank": 34,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 106061,
+        "num": 235030,
+        "word": "坐高铁再也不用扛行李了",
+        "onboard_time": 1760943742,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100462,
+        "num": 234961,
+        "word": "女子帮母亲大扫除扔掉50万黄金首饰",
+        "onboard_time": 1760959942,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100107,
+        "num": 234916,
+        "word": "刘宇宁直播",
+        "onboard_time": 1760961321,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378931,
+        "num": 234867,
+        "word": "淘宝崩了",
+        "onboard_time": 1760963961,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 50207,
+        "num": 234791,
+        "word": "越来越多本科毕业生回炉技校",
+        "onboard_time": 1760964681,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95460,
+        "num": 234718,
+        "word": "慕雨墨苏暮雨 她只是他的妹妹",
+        "onboard_time": 1760963900,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87817,
+        "num": 234676,
+        "word": "卢远问王乐晨真的有心动过吗",
+        "onboard_time": 1760963541,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86956,
+        "num": 234596,
+        "word": "越南股市",
+        "onboard_time": 1760960182,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81899,
+        "num": 234544,
+        "word": "陈奕迅 红米",
+        "onboard_time": 1760958381,
+        "rank": 43,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 81479,
+        "num": 234482,
+        "word": "特朗普与泽连斯基再度激烈争吵",
+        "onboard_time": 1760951721,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77199,
+        "num": 234414,
+        "word": "朱雀三号进入首飞关键准备阶段",
+        "onboard_time": 1760963362,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 74042,
+        "num": 234388,
+        "word": "入青云偏偏你最争气",
+        "onboard_time": 1760964742,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73168,
+        "num": 234318,
+        "word": "多款知名进口药将退出国内市场",
+        "onboard_time": 1760963720,
+        "rank": 47,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 71508,
+        "num": 234229,
+        "word": "刘宇宁夸李木戈导演会拍",
+        "onboard_time": 1760959821,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 6255,
+        "num": 234148,
+        "word": "有些钱看似是在乱花实则是在救命",
+        "onboard_time": 1760962160,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届四中全会在北京开始举行#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1760891363500,
-  "endTime": 1760960274816,
+  "endTime": 1760964810188,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 574503,
-      "num": 205207,
+      "num": 236200,
       "word": "骑手取走苹果17Promax后失联",
       "onboard_time": 1760952561,
       "rank": 37,
@@ -419,6 +419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 378931,
+      "num": 234867,
+      "word": "淘宝崩了",
+      "onboard_time": 1760963961,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 378583,
       "num": 378583,
       "word": "任嘉伦受伤",
@@ -539,6 +547,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 295459,
+      "num": 255504,
+      "word": "赵丽颖直播",
+      "onboard_time": 1760961802,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292688,
       "num": 400174,
       "word": "卢浮宫被盗过程仅7分钟",
@@ -553,6 +569,14 @@
       "onboard_time": 1760952800,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 283711,
+      "num": 253273,
+      "word": "黄金饰品调价",
+      "onboard_time": 1760960300,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 283303,
@@ -633,6 +657,14 @@
       "onboard_time": 1760943143,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 253196,
+      "num": 253196,
+      "word": "肖战刘铮亮手术服造型路透",
+      "onboard_time": 1760961562,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 247514,
@@ -740,7 +772,7 @@
     },
     {
       "raw_hot": 214523,
-      "num": 214523,
+      "num": 234482,
       "word": "特朗普与泽连斯基再度激烈争吵",
       "onboard_time": 1760951721,
       "rank": 21,
@@ -899,12 +931,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 192280,
+      "num": 261818,
+      "word": "建议打工人抽空去一趟景德镇",
+      "onboard_time": 1760960300,
+      "rank": 4,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 192163,
       "num": 192163,
       "word": "洞洞鞋下岗了但没完全下",
       "onboard_time": 1760948600,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188621,
+      "num": 261081,
+      "word": "双十一 没便宜",
+      "onboard_time": 1760963481,
+      "rank": 5,
+      "category": "互联网"
     },
     {
       "raw_hot": 187583,
@@ -1012,11 +1060,19 @@
     },
     {
       "raw_hot": 174067,
-      "num": 132706,
+      "num": 234544,
       "word": "陈奕迅 红米",
       "onboard_time": 1760958381,
       "rank": 21,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 173660,
+      "num": 260314,
+      "word": "中方奉劝巴拉圭早日做出正确决断",
+      "onboard_time": 1760961441,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 173239,
@@ -1091,6 +1147,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 167641,
+      "num": 258457,
+      "word": "双十一 算不明白",
+      "onboard_time": 1760963961,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 166048,
+      "num": 236057,
+      "word": "韩国选手破了孙杨亚洲纪录",
+      "onboard_time": 1760961501,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165201,
       "num": 165201,
       "word": "秋冬化妆前的护肤公式",
@@ -1116,7 +1188,7 @@
     },
     {
       "raw_hot": 164538,
-      "num": 132379,
+      "num": 234229,
       "word": "刘宇宁夸李木戈导演会拍",
       "onboard_time": 1760959821,
       "rank": 18,
@@ -1145,6 +1217,14 @@
       "onboard_time": 1760936781,
       "rank": 27,
       "category": "网红"
+    },
+    {
+      "raw_hot": 157955,
+      "num": 235845,
+      "word": "VOGUE",
+      "onboard_time": 1760961022,
+      "rank": 21,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 156360,
@@ -1275,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147837,
+      "num": 235811,
+      "word": "男孩被戳伤失明园长用猪油消肿后续",
+      "onboard_time": 1760962881,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147661,
       "num": 147661,
       "word": "谁能扛住李一桐哎呦一摔",
@@ -1300,7 +1388,7 @@
     },
     {
       "raw_hot": 145228,
-      "num": 145228,
+      "num": 258000,
       "word": "解放军回应澳军机侵闯中国西沙领空",
       "onboard_time": 1760958260,
       "rank": 35,
@@ -1331,6 +1419,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 140385,
+      "num": 256667,
+      "word": "清融状态",
+      "onboard_time": 1760960121,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139941,
       "num": 139941,
       "word": "新娘回应请柬霸屏机场8天遭质疑",
@@ -1355,12 +1451,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 134917,
+      "num": 235713,
+      "word": "Zeus致敬Nuguri",
+      "onboard_time": 1760960962,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 134386,
+      "num": 235911,
+      "word": "双11付尾款",
+      "onboard_time": 1760962040,
+      "rank": 20,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 133356,
       "num": 133356,
       "word": "徐冬冬当年没有被PUA去磨骨是对的",
       "onboard_time": 1760956400,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 133102,
+      "num": 235610,
+      "word": "教育局回应老师上课玩手机麻将",
+      "onboard_time": 1760963481,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131684,
@@ -1667,6 +1787,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114839,
+      "num": 235235,
+      "word": "美国新型毒品兴起",
+      "onboard_time": 1760961261,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 113804,
       "num": 113804,
       "word": "蔡徐坤把奖杯当麦克风",
@@ -1721,6 +1849,14 @@
       "onboard_time": 1760946144,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 111945,
+      "num": 235220,
+      "word": "卢远发长文告别心动的信号",
+      "onboard_time": 1760960481,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 111796,
@@ -1811,6 +1947,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 108446,
+      "num": 235146,
+      "word": "南昌大学秋招现露骨女主播招聘海报",
+      "onboard_time": 1760959161,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107800,
       "num": 343724,
       "word": "卢浮宫窃贼恐很难销赃",
@@ -1875,14 +2019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105229,
-      "num": 105229,
-      "word": "清融状态",
-      "onboard_time": 1760960121,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 104396,
       "num": 342909,
       "word": "卢浮宫找回一件被盗珠宝",
@@ -1928,6 +2064,14 @@
       "word": "前三季度铁路发送旅客35.4亿人次",
       "onboard_time": 1760948242,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103203,
+      "num": 235534,
+      "word": "今年流感毒株与去年不同",
+      "onboard_time": 1760963601,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -1987,6 +2131,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 100462,
+      "num": 234961,
+      "word": "女子帮母亲大扫除扔掉50万黄金首饰",
+      "onboard_time": 1760959942,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100107,
+      "num": 234916,
+      "word": "刘宇宁直播",
+      "onboard_time": 1760961321,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99191,
       "num": 338703,
       "word": "双红会",
@@ -2035,14 +2195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96914,
-      "num": 96914,
-      "word": "南昌大学秋招现露骨女主播招聘海报",
-      "onboard_time": 1760959161,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96502,
       "num": 96502,
       "word": "12306火车免费坐攻略",
@@ -2073,6 +2225,14 @@
       "onboard_time": 1760946562,
       "rank": 48,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 95460,
+      "num": 234718,
+      "word": "慕雨墨苏暮雨 她只是他的妹妹",
+      "onboard_time": 1760963900,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 95313,
@@ -2140,7 +2300,7 @@
     },
     {
       "raw_hot": 91184,
-      "num": 91184,
+      "num": 234596,
       "word": "越南股市",
       "onboard_time": 1760960182,
       "rank": 40,
@@ -2225,6 +2385,14 @@
       "onboard_time": 1760916378,
       "rank": 20,
       "category": "科学科普,民生新闻"
+    },
+    {
+      "raw_hot": 87817,
+      "num": 234676,
+      "word": "卢远问王乐晨真的有心动过吗",
+      "onboard_time": 1760963541,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 87315,
@@ -2411,6 +2579,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 77199,
+      "num": 234414,
+      "word": "朱雀三号进入首飞关键准备阶段",
+      "onboard_time": 1760963362,
+      "rank": 45,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77115,
       "num": 131583,
       "word": "12306回应乘客被困高铁厕所10分钟",
@@ -2443,6 +2619,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74719,
+      "num": 235104,
+      "word": "真正只需要一杯奶茶钱的化妆",
+      "onboard_time": 1760964500,
+      "rank": 34,
+      "category": "幽默,美妆"
+    },
+    {
+      "raw_hot": 74042,
+      "num": 234388,
+      "word": "入青云偏偏你最争气",
+      "onboard_time": 1760964742,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73971,
       "num": 340812,
       "word": "印度食脑虫已致26人死亡",
@@ -2465,6 +2657,14 @@
       "onboard_time": 1760881283,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 73168,
+      "num": 234318,
+      "word": "多款知名进口药将退出国内市场",
+      "onboard_time": 1760963720,
+      "rank": 47,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 72569,
@@ -2529,6 +2729,14 @@
       "onboard_time": 1760880562,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 66717,
+      "num": 235471,
+      "word": "喜人奇妙夜神经病赛道也集齐了",
+      "onboard_time": 1760961501,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 65523,
@@ -2628,19 +2836,11 @@
     },
     {
       "raw_hot": 60663,
-      "num": 92538,
+      "num": 243868,
       "word": "王者十周年最好的礼物",
       "onboard_time": 1760960241,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 60637,
-      "num": 131909,
-      "word": "女子帮母亲大扫除扔掉50万黄金首饰",
-      "onboard_time": 1760959942,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60590,
@@ -2755,6 +2955,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 50207,
+      "num": 234791,
+      "word": "越来越多本科毕业生回炉技校",
+      "onboard_time": 1760964681,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50026,
       "num": 113854,
       "word": "WTT发文为马龙梁靖崑庆生",
@@ -2769,6 +2977,14 @@
       "onboard_time": 1760911514,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 46005,
+      "num": 235968,
+      "word": "一张图教你用天猫万元大券包",
+      "onboard_time": 1760962221,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 44480,
@@ -2827,6 +3043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39104,
+      "num": 235404,
+      "word": "安卓首颗自研光追芯片",
+      "onboard_time": 1760962221,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 38527,
       "num": 111999,
       "word": "纽约时报发文缅怀杨振宁",
@@ -2841,6 +3065,14 @@
       "onboard_time": 1760880922,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 37260,
+      "num": 237770,
+      "word": "谁抢红包手速这么快啊",
+      "onboard_time": 1760961681,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 36682,
@@ -2889,6 +3121,14 @@
       "onboard_time": 1760868020,
       "rank": 46,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 32918,
+      "num": 236191,
+      "word": "电竞圈半壁江山都来了",
+      "onboard_time": 1760962160,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 31970,
@@ -3065,6 +3305,14 @@
       "onboard_time": 1760951961,
       "rank": 38,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 6255,
+      "num": 234148,
+      "word": "有些钱看似是在乱花实则是在救命",
+      "onboard_time": 1760962160,
+      "rank": 49,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
