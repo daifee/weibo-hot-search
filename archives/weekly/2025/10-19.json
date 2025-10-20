@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1760926987149,
+  "endTime": 1760930602263,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -16,6 +16,14 @@
       "word": "翁帆发文纪念杨振宁",
       "onboard_time": 1760839400,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1891375,
+      "num": 304944,
+      "word": "找同学操办婚礼到现场两眼一黑",
+      "onboard_time": 1760926339,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 919314,
-      "num": 275700,
+      "num": 410952,
       "word": "卢浮宫8件失窃藏品清单",
       "onboard_time": 1760917639,
       "rank": 5,
@@ -259,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 667208,
+      "num": 158948,
+      "word": "黄金",
+      "onboard_time": 1760925259,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 616626,
       "num": 616626,
       "word": "南通vs无锡",
@@ -379,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 505856,
+      "num": 505856,
+      "word": "虽然不能同时拥有一切",
+      "onboard_time": 1760926999,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 500773,
       "num": 241661,
       "word": "野人小孩不是个例",
@@ -417,6 +441,14 @@
       "onboard_time": 1760838800,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 461311,
+      "num": 173989,
+      "word": "迪丽热巴蓝裙背影",
+      "onboard_time": 1760927360,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 459268,
@@ -579,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389670,
+      "num": 171248,
+      "word": "于正选择周柯宇赵晴的理由",
+      "onboard_time": 1760927418,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387567,
       "num": 391647,
       "word": "贵州失联2岁女童已找到",
@@ -739,14 +779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 304944,
-      "num": 304944,
-      "word": "找同学操办婚礼到现场两眼一黑",
-      "onboard_time": 1760926339,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 304915,
       "num": 925402,
       "word": "4K修复志愿军跨过鸭绿江影像",
@@ -811,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290885,
+      "num": 169038,
+      "word": "任嘉伦受伤",
+      "onboard_time": 1760928501,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281655,
       "num": 340330,
       "word": "未来3天冷冷冷冷冷",
@@ -867,12 +907,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256285,
+      "num": 165635,
+      "word": "陈乔恩25包除湿剂买成25箱",
+      "onboard_time": 1760928260,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255891,
       "num": 204766,
       "word": "农商行员工被要求退回三年过节费",
       "onboard_time": 1760866221,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247785,
+      "num": 247785,
+      "word": "水龙吟定档",
+      "onboard_time": 1760929880,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 247514,
@@ -1059,6 +1115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206461,
+      "num": 783617,
+      "word": "卢浮宫遭劫已立案调查",
+      "onboard_time": 1760927721,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 204379,
       "num": 204379,
       "word": "单依纯同学称她应该拿歌王",
@@ -1211,6 +1275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184726,
+      "num": 432463,
+      "word": "前三季度中国GDP同比增长5.2%",
+      "onboard_time": 1760929160,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 184626,
       "num": 144826,
       "word": "疑似T1队员国服ID",
@@ -1281,6 +1353,14 @@
       "onboard_time": 1760877200,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 178981,
+      "num": 122871,
+      "word": "焕新极氪7X开启预售",
+      "onboard_time": 1760930120,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 178874,
@@ -1443,20 +1523,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160598,
+      "num": 145780,
+      "word": "沈腾一盘土豆丝炒了三年",
+      "onboard_time": 1760929701,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159459,
       "num": 315767,
       "word": "入青云追剧日历呢",
       "onboard_time": 1760874141,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158948,
-      "num": 158948,
-      "word": "黄金",
-      "onboard_time": 1760925259,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 158930,
@@ -1571,6 +1651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 149674,
+      "num": 149674,
+      "word": "一个吃饭免排队的邪修方法",
+      "onboard_time": 1760924960,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148821,
       "num": 148821,
       "word": "邓紫棋直播",
@@ -1601,6 +1689,14 @@
       "onboard_time": 1760926700,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144744,
+      "num": 144744,
+      "word": "苦了丞磊幸福了我",
+      "onboard_time": 1760929101,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 144470,
@@ -2027,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122864,
+      "num": 122864,
+      "word": "请查收马龙的生日回信",
+      "onboard_time": 1760930240,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122520,
       "num": 122520,
       "word": "广东省考公告",
@@ -2179,12 +2283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116918,
+      "num": 116918,
+      "word": "李诞要站在全世界对立面保护何炅",
+      "onboard_time": 1760929040,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116812,
       "num": 340568,
       "word": "利物浦vs曼联",
       "onboard_time": 1760887701,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116665,
+      "num": 116665,
+      "word": "抢一张演唱会票被骗17万",
+      "onboard_time": 1760929280,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116424,
@@ -2235,6 +2355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 112482,
+      "num": 145044,
+      "word": "入局",
+      "onboard_time": 1760927539,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 112472,
       "num": 456100,
       "word": "今年冬天会不会更冷",
@@ -2265,6 +2393,14 @@
       "onboard_time": 1760869522,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 111134,
+      "num": 111134,
+      "word": "网友拍到一拉布拉多开电动车上路",
+      "onboard_time": 1760929821,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110688,
@@ -2353,6 +2489,14 @@
       "onboard_time": 1760889021,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 107363,
+      "num": 107363,
+      "word": "迪丽热巴新剧搭档陈昊森",
+      "onboard_time": 1760930481,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 107282,
@@ -2449,6 +2593,14 @@
       "onboard_time": 1760840000,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103976,
+      "num": 122872,
+      "word": "天猫发1400元降温补贴",
+      "onboard_time": 1760926941,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 103667,
@@ -2851,14 +3003,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92769,
-      "num": 92769,
-      "word": "一个吃饭免排队的邪修方法",
-      "onboard_time": 1760924960,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 92116,
       "num": 92116,
       "word": "赛琳娜婚后首亮相",
@@ -3083,6 +3227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86318,
+      "num": 86318,
+      "word": "还以为出新版家有儿女了",
+      "onboard_time": 1760928022,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86254,
       "num": 86254,
       "word": "郭宇欣新剧上线",
@@ -3145,6 +3297,14 @@
       "onboard_time": 1760838500,
       "rank": 39,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 84907,
+      "num": 85718,
+      "word": "知道黄蓉小时候长什么样了",
+      "onboard_time": 1760929759,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 84778,
@@ -3619,6 +3779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65830,
+      "num": 149216,
+      "word": "头痛睡不着有救了",
+      "onboard_time": 1760929821,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 65666,
       "num": 65666,
       "word": "陈建州范玮琪听到小S致辞哭了",
@@ -3636,7 +3804,7 @@
     },
     {
       "raw_hot": 64066,
-      "num": 303593,
+      "num": 513787,
       "word": "网警侦破非法售卖艺人个人信息案",
       "onboard_time": 1760922620,
       "rank": 2,
@@ -3905,14 +4073,6 @@
       "onboard_time": 1760911217,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 42423,
-      "num": 80426,
-      "word": "天猫发1400元降温补贴",
-      "onboard_time": 1760926941,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 42231,

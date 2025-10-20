@@ -1,6 +1,6 @@
 {
   "startTime": 1760891363500,
-  "endTime": 1760926987149,
+  "endTime": 1760930602263,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -8,6 +8,14 @@
       "word": "野人孩子已出现动物化特征",
       "onboard_time": 1760889441,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1891375,
+      "num": 304944,
+      "word": "找同学操办婚礼到现场两眼一黑",
+      "onboard_time": 1760926339,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 919314,
-      "num": 275700,
+      "num": 410952,
       "word": "卢浮宫8件失窃藏品清单",
       "onboard_time": 1760917639,
       "rank": 5,
@@ -33,6 +41,14 @@
       "onboard_time": 1760920461,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 667208,
+      "num": 158948,
+      "word": "黄金",
+      "onboard_time": 1760925259,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 574895,
@@ -57,6 +73,22 @@
       "onboard_time": 1760893219,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 505856,
+      "num": 505856,
+      "word": "虽然不能同时拥有一切",
+      "onboard_time": 1760926999,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 461311,
+      "num": 173989,
+      "word": "迪丽热巴蓝裙背影",
+      "onboard_time": 1760927360,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 443528,
@@ -115,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389670,
+      "num": 171248,
+      "word": "于正选择周柯宇赵晴的理由",
+      "onboard_time": 1760927418,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 374471,
       "num": 418529,
       "word": "卢浮宫一件被盗文物已损毁",
@@ -155,14 +195,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 304944,
-      "num": 304944,
-      "word": "找同学操办婚礼到现场两眼一黑",
-      "onboard_time": 1760926339,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 302314,
       "num": 302314,
       "word": "马克龙就卢浮宫珠宝失窃案发声",
@@ -187,6 +219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 290885,
+      "num": 169038,
+      "word": "任嘉伦受伤",
+      "onboard_time": 1760928501,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 279439,
       "num": 197817,
       "word": "香港通报飞机冲出跑道坠海",
@@ -201,6 +241,22 @@
       "onboard_time": 1760888122,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256285,
+      "num": 165635,
+      "word": "陈乔恩25包除湿剂买成25箱",
+      "onboard_time": 1760928260,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 247785,
+      "num": 247785,
+      "word": "水龙吟定档",
+      "onboard_time": 1760929880,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 247514,
@@ -249,6 +305,14 @@
       "onboard_time": 1760915539,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206461,
+      "num": 783617,
+      "word": "卢浮宫遭劫已立案调查",
+      "onboard_time": 1760927721,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 203974,
@@ -307,6 +371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184726,
+      "num": 432463,
+      "word": "前三季度中国GDP同比增长5.2%",
+      "onboard_time": 1760929160,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 183373,
       "num": 183373,
       "word": "伊朗突发恐怖袭击",
@@ -321,6 +393,14 @@
       "onboard_time": 1760922981,
       "rank": 8,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 178981,
+      "num": 122871,
+      "word": "焕新极氪7X开启预售",
+      "onboard_time": 1760930120,
+      "rank": 30,
+      "category": "汽车"
     },
     {
       "raw_hot": 173239,
@@ -339,12 +419,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158948,
-      "num": 158948,
-      "word": "黄金",
-      "onboard_time": 1760925259,
-      "rank": 26,
-      "category": "财经"
+      "raw_hot": 160598,
+      "num": 145780,
+      "word": "沈腾一盘土豆丝炒了三年",
+      "onboard_time": 1760929701,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 158688,
@@ -371,12 +451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149674,
+      "num": 149674,
+      "word": "一个吃饭免排队的邪修方法",
+      "onboard_time": 1760924960,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 145324,
       "num": 145324,
       "word": "水龙吟江湖因果版预告",
       "onboard_time": 1760926700,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144744,
+      "num": 144744,
+      "word": "苦了丞磊幸福了我",
+      "onboard_time": 1760929101,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 143193,
@@ -419,11 +515,51 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122864,
+      "num": 122864,
+      "word": "请查收马龙的生日回信",
+      "onboard_time": 1760930240,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121429,
       "num": 121429,
       "word": "把生命力养起来的方法",
       "onboard_time": 1760894716,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116918,
+      "num": 116918,
+      "word": "李诞要站在全世界对立面保护何炅",
+      "onboard_time": 1760929040,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116665,
+      "num": 116665,
+      "word": "抢一张演唱会票被骗17万",
+      "onboard_time": 1760929280,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112482,
+      "num": 145044,
+      "word": "入局",
+      "onboard_time": 1760927539,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 111134,
+      "num": 111134,
+      "word": "网友拍到一拉布拉多开电动车上路",
+      "onboard_time": 1760929821,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -433,6 +569,14 @@
       "onboard_time": 1760889021,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 107363,
+      "num": 107363,
+      "word": "迪丽热巴新剧搭档陈昊森",
+      "onboard_time": 1760930481,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 106074,
@@ -467,6 +611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 103976,
+      "num": 122872,
+      "word": "天猫发1400元降温补贴",
+      "onboard_time": 1760926941,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 99191,
       "num": 338703,
       "word": "双红会",
@@ -497,14 +649,6 @@
       "onboard_time": 1760924358,
       "rank": 29,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 92769,
-      "num": 92769,
-      "word": "一个吃饭免排队的邪修方法",
-      "onboard_time": 1760924960,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 92485,
@@ -555,6 +699,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 86318,
+      "num": 86318,
+      "word": "还以为出新版家有儿女了",
+      "onboard_time": 1760928022,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86254,
       "num": 86254,
       "word": "郭宇欣新剧上线",
@@ -569,6 +721,14 @@
       "onboard_time": 1760882842,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 84907,
+      "num": 85718,
+      "word": "知道黄蓉小时候长什么样了",
+      "onboard_time": 1760929759,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 79737,
@@ -675,6 +835,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 65830,
+      "num": 149216,
+      "word": "头痛睡不着有救了",
+      "onboard_time": 1760929821,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 65523,
       "num": 341106,
       "word": "林高远好正宗一个广东人",
@@ -684,7 +852,7 @@
     },
     {
       "raw_hot": 64066,
-      "num": 303593,
+      "num": 513787,
       "word": "网警侦破非法售卖艺人个人信息案",
       "onboard_time": 1760922620,
       "rank": 2,
@@ -825,14 +993,6 @@
       "onboard_time": 1760911217,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 42423,
-      "num": 80426,
-      "word": "天猫发1400元降温补贴",
-      "onboard_time": 1760926941,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 42231,
