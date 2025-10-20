@@ -1,0 +1,410 @@
+{
+  "runTime": 1761000040291,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 161543,
+        "num": 470291,
+        "word": "卢浮宫被盗藏品可在1小时内被分解",
+        "onboard_time": 1760976440,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 110790,
+        "num": 110790,
+        "word": "双11刚付完尾款快递员就敲门了",
+        "onboard_time": 1760976621,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 979,
+        "num": 109186,
+        "word": "十四五时期1组令人振奋的数字",
+        "onboard_time": 1760922561,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 367203,
+        "num": 108781,
+        "word": "被冻醒",
+        "onboard_time": 1760985853,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108029,
+        "num": 108029,
+        "word": "中国游客拍到卢浮宫盗窃案事发现场",
+        "onboard_time": 1760966059,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 231121,
+        "num": 107763,
+        "word": "半个娱乐圈都在看余生有涯",
+        "onboard_time": 1760975002,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90618,
+        "num": 90618,
+        "word": "泽连斯基与特朗普对骂",
+        "onboard_time": 1760965221,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75048,
+        "num": 75048,
+        "word": "多款知名进口药将退出国内市场",
+        "onboard_time": 1760963720,
+        "rank": 7,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 51207,
+        "num": 51207,
+        "word": "解放军正告澳方立即停止侵权挑衅",
+        "onboard_time": 1760954121,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49852,
+        "num": 49852,
+        "word": "卢浮宫窃贼作案视频泄露",
+        "onboard_time": 1760970981,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 459534,
+        "num": 49568,
+        "word": "68页PPT曝光妻子出轨最新回应",
+        "onboard_time": 1760971041,
+        "rank": 10,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 125709,
+        "num": 48905,
+        "word": "黄晓明增减30斤跟玩儿一样",
+        "onboard_time": 1760976021,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123828,
+        "num": 47685,
+        "word": "烤肉店用玉米做燃料被指浪费",
+        "onboard_time": 1760974640,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108811,
+        "num": 47294,
+        "word": "拒卖寿衣给老外的店主最新回应",
+        "onboard_time": 1760969182,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97643,
+        "num": 46596,
+        "word": "毕加索名画离奇失踪",
+        "onboard_time": 1760976621,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86554,
+        "num": 45652,
+        "word": "字节跳动100元一天的免费三餐",
+        "onboard_time": 1760973621,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 72372,
+        "num": 44978,
+        "word": "300元以下基本买不到真羽绒",
+        "onboard_time": 1760974402,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59256,
+        "num": 44704,
+        "word": "教育局回应老师上课玩手机麻将",
+        "onboard_time": 1760963481,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50319,
+        "num": 43823,
+        "word": "参观胖东来学费每人2万",
+        "onboard_time": 1760972001,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24885,
+        "num": 42798,
+        "word": "水龙吟",
+        "onboard_time": 1760970561,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55900,
+        "num": 41986,
+        "word": "男子回应翻妻子手机发现和8人暧昧",
+        "onboard_time": 1760966123,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51332,
+        "num": 41442,
+        "word": "9岁男孩患儿童癌症之王",
+        "onboard_time": 1760966421,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41133,
+        "num": 41133,
+        "word": "成毅新剧手捧真火",
+        "onboard_time": 1760975780,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37183,
+        "num": 37183,
+        "word": "马龙回复王楚钦",
+        "onboard_time": 1760973022,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35693,
+        "num": 35693,
+        "word": "新高铁小桌板有手机支架",
+        "onboard_time": 1760991315,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35474,
+        "num": 35474,
+        "word": "68页PPT男子二次举报希望开除博士生",
+        "onboard_time": 1760972902,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 34733,
+        "num": 34733,
+        "word": "宋祖儿好久没有真情实感追一部剧了",
+        "onboard_time": 1760974821,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18412,
+        "num": 34621,
+        "word": "暗河传打戏",
+        "onboard_time": 1760981356,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16952,
+        "num": 34557,
+        "word": "入青云偏偏你最争气",
+        "onboard_time": 1760964742,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15731,
+        "num": 34531,
+        "word": "暗河传首播反馈",
+        "onboard_time": 1760966240,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34523,
+        "num": 34523,
+        "word": "澳大利亚军机侵闯中国西沙群岛领空",
+        "onboard_time": 1760977579,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34396,
+        "num": 34396,
+        "word": "她这一套下来我要躺到明年10月",
+        "onboard_time": 1760966722,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 34159,
+        "num": 34159,
+        "word": "男孩被戳伤失明园长用猪油消肿后续",
+        "onboard_time": 1760962881,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33900,
+        "num": 33900,
+        "word": "肖战刘铮亮手术服造型路透",
+        "onboard_time": 1760961562,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31333,
+        "num": 31333,
+        "word": "韩国选手破了孙杨亚洲纪录",
+        "onboard_time": 1760961501,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30378,
+        "num": 30378,
+        "word": "法国司法部长说我们失败了",
+        "onboard_time": 1760970321,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29785,
+        "num": 29785,
+        "word": "给iPhone17Pro纹了个身",
+        "onboard_time": 1760969780,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 29676,
+        "num": 29676,
+        "word": "以色列炸完加沙后宣布恢复停火",
+        "onboard_time": 1760973621,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29525,
+        "num": 29525,
+        "word": "短裙变长裙这也太美了",
+        "onboard_time": 1760978238,
+        "rank": 38,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 28114,
+        "num": 28114,
+        "word": "美国新型毒品兴起",
+        "onboard_time": 1760961261,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27978,
+        "num": 27978,
+        "word": "现货黄金涨至4293美元",
+        "onboard_time": 1760972602,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 27693,
+        "num": 27693,
+        "word": "酷似袁隆平面筋爷爷说想大家吃饱",
+        "onboard_time": 1760973922,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26573,
+        "num": 27693,
+        "word": "官方回应深圳卷尺哥指哪修哪",
+        "onboard_time": 1760974582,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26158,
+        "num": 27689,
+        "word": "黄金饰品调价",
+        "onboard_time": 1760960300,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 23534,
+        "num": 27686,
+        "word": "凑单",
+        "onboard_time": 1760968882,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22526,
+        "num": 27681,
+        "word": "罗永浩为何力挺易烊千玺",
+        "onboard_time": 1760980696,
+        "rank": 45,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 21599,
+        "num": 27680,
+        "word": "缅甸政府军突袭KK园区",
+        "onboard_time": 1760950944,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 20500,
+        "num": 27677,
+        "word": "官方回应香港飞机坠海",
+        "onboard_time": 1760972361,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 17718,
+        "num": 27670,
+        "word": "双11付尾款",
+        "onboard_time": 1760962040,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16198,
+        "num": 27667,
+        "word": "樊振东的魔术手",
+        "onboard_time": 1760974582,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届四中全会开始举行#"
+    }
+  }
+}

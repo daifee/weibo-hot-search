@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1760999049460,
+  "endTime": 1761000040291,
   "band_list": [
     {
       "raw_hot": 1101636,
@@ -43,6 +43,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 367203,
+      "num": 108781,
+      "word": "被冻醒",
+      "onboard_time": 1760985853,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 274741,
       "num": 274741,
       "word": "卢浮宫窃贼作案视频泄露",
@@ -67,14 +75,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218380,
-      "num": 71677,
-      "word": "被冻醒",
-      "onboard_time": 1760985853,
-      "rank": 37,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 189660,
       "num": 117300,
       "word": "毕加索名画离奇失踪",
@@ -97,6 +97,14 @@
       "onboard_time": 1760976021,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161543,
+      "num": 470291,
+      "word": "卢浮宫被盗藏品可在1小时内被分解",
+      "onboard_time": 1760976440,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 160270,
@@ -153,14 +161,6 @@
       "onboard_time": 1760973022,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 117134,
-      "num": 372857,
-      "word": "卢浮宫被盗藏品可在1小时内被分解",
-      "onboard_time": 1760976440,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 115162,
@@ -267,6 +267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 75048,
+      "num": 75048,
+      "word": "多款知名进口药将退出国内市场",
+      "onboard_time": 1760963720,
+      "rank": 37,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 74655,
       "num": 74655,
       "word": "68页PPT男子二次举报希望开除博士生",
@@ -289,14 +297,6 @@
       "onboard_time": 1760961802,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 66319,
-      "num": 66319,
-      "word": "多款知名进口药将退出国内市场",
-      "onboard_time": 1760963720,
-      "rank": 37,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 65143,
@@ -411,6 +411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 35693,
+      "num": 35693,
+      "word": "新高铁小桌板有手机支架",
+      "onboard_time": 1760991315,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33404,
       "num": 65274,
       "word": "罗永浩为何力挺易烊千玺",
@@ -425,14 +433,6 @@
       "onboard_time": 1760950944,
       "rank": 41,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 27256,
-      "num": 27256,
-      "word": "新高铁小桌板有手机支架",
-      "onboard_time": 1760991315,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25048,
@@ -451,7 +451,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17303,
+      "raw_hot": 17718,
       "num": 36911,
       "word": "双11付尾款",
       "onboard_time": 1760962040,

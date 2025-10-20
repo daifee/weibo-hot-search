@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760999049460,
+  "endTime": 1761000040291,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -10931,6 +10931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 367203,
+      "num": 108781,
+      "word": "被冻醒",
+      "onboard_time": 1760985853,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 367094,
       "num": 367094,
       "word": "高通公司承认了相关事实",
@@ -17657,14 +17665,6 @@
       "onboard_time": 1759750941,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218380,
-      "num": 71677,
-      "word": "被冻醒",
-      "onboard_time": 1760985853,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 218294,
@@ -25937,6 +25937,14 @@
       "onboard_time": 1759817779,
       "rank": 39,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 161543,
+      "num": 470291,
+      "word": "卢浮宫被盗藏品可在1小时内被分解",
+      "onboard_time": 1760976440,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 161502,
@@ -38913,14 +38921,6 @@
       "onboard_time": 1760796864,
       "rank": 48,
       "category": "财经"
-    },
-    {
-      "raw_hot": 117134,
-      "num": 372857,
-      "word": "卢浮宫被盗藏品可在1小时内被分解",
-      "onboard_time": 1760976440,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 117130,
@@ -64203,6 +64203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35693,
+      "num": 35693,
+      "word": "新高铁小桌板有手机支架",
+      "onboard_time": 1760991315,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35580,
       "num": 92413,
       "word": "50岁私厨50万买下移动宴会车",
@@ -65465,14 +65473,6 @@
       "onboard_time": 1760513600,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27256,
-      "num": 27256,
-      "word": "新高铁小桌板有手机支架",
-      "onboard_time": 1760991315,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27239,
