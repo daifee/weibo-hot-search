@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1760959413786,
+  "endTime": 1760960274816,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -2667,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 919366,
+      "num": 140073,
+      "word": "南昌大学致歉",
+      "onboard_time": 1760959161,
+      "rank": 13,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 919314,
       "num": 1047767,
       "word": "卢浮宫8件失窃藏品清单",
@@ -3451,6 +3459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 807914,
+      "num": 468605,
+      "word": "红包",
+      "onboard_time": 1760941461,
+      "rank": 5,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 805585,
       "num": 227110,
       "word": "王俊凯 抢票",
@@ -3643,6 +3659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 787803,
+      "num": 1126048,
+      "word": "解放军正告澳方立即停止侵权挑衅",
+      "onboard_time": 1760954121,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 786563,
       "num": 244522,
       "word": "月收入一万以下的理财方法",
@@ -3753,14 +3777,6 @@
       "onboard_time": 1760052378,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 770645,
-      "num": 468605,
-      "word": "红包",
-      "onboard_time": 1760941461,
-      "rank": 5,
-      "category": "互联网"
     },
     {
       "raw_hot": 770502,
@@ -5923,6 +5939,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 574503,
+      "num": 205207,
+      "word": "骑手取走苹果17Promax后失联",
+      "onboard_time": 1760952561,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 572649,
       "num": 285778,
       "word": "翁帆说有他多年的陪伴我何其有幸",
@@ -6145,14 +6169,6 @@
       "onboard_time": 1759361537,
       "rank": 0,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 559427,
-      "num": 1089508,
-      "word": "解放军正告澳方立即停止侵权挑衅",
-      "onboard_time": 1760954121,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 558913,
@@ -6584,14 +6600,6 @@
       "word": "知情人士称宗馥莉正常上班",
       "onboard_time": 1760040494,
       "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 539332,
-      "num": 205207,
-      "word": "骑手取走苹果17Promax后失联",
-      "onboard_time": 1760952561,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -11737,14 +11745,6 @@
       "onboard_time": 1760677882,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 334357,
-      "num": 140073,
-      "word": "南昌大学致歉",
-      "onboard_time": 1760959161,
-      "rank": 13,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 334286,
@@ -23291,6 +23291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174067,
+      "num": 132706,
+      "word": "陈奕迅 红米",
+      "onboard_time": 1760958381,
+      "rank": 21,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 173925,
       "num": 173925,
       "word": "低估了回眸杀的含金量",
@@ -25059,6 +25067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164538,
+      "num": 132379,
+      "word": "刘宇宁夸李木戈导演会拍",
+      "onboard_time": 1760959821,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164450,
       "num": 164450,
       "word": "每天上班我只做三件事",
@@ -26801,14 +26817,6 @@
       "onboard_time": 1760506822,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 155616,
-      "num": 130846,
-      "word": "陈奕迅 红米",
-      "onboard_time": 1760958381,
-      "rank": 21,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 155598,
@@ -29161,6 +29169,14 @@
       "onboard_time": 1760526802,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145228,
+      "num": 145228,
+      "word": "解放军回应澳军机侵闯中国西沙领空",
+      "onboard_time": 1760958260,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 145223,
@@ -33009,6 +33025,14 @@
       "onboard_time": 1759899442,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131684,
+      "num": 131684,
+      "word": "今晚8点天猫4折买羽绒服",
+      "onboard_time": 1760958561,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 131587,
@@ -42323,6 +42347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108997,
+      "num": 108997,
+      "word": "iQOO发布会",
+      "onboard_time": 1760959701,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 108968,
       "num": 136576,
       "word": "申裕斌晒北京烤鸭",
@@ -44257,6 +44289,14 @@
       "onboard_time": 1760880683,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105229,
+      "num": 105229,
+      "word": "清融状态",
+      "onboard_time": 1760960121,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 105221,
@@ -47779,6 +47819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 97615,
+      "num": 97615,
+      "word": "张本智和终于是霸王了",
+      "onboard_time": 1760960060,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97612,
       "num": 119115,
       "word": "让艺人录制十天眼里就没光的节目",
@@ -48041,6 +48089,14 @@
       "onboard_time": 1760433981,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 96914,
+      "num": 96914,
+      "word": "南昌大学秋招现露骨女主播招聘海报",
+      "onboard_time": 1760959161,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96889,
@@ -49923,14 +49979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92798,
-      "num": 106345,
-      "word": "解放军回应澳军机侵闯中国西沙领空",
-      "onboard_time": 1760958260,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 92797,
       "num": 92797,
       "word": "用粘土和桂花留住秋天",
@@ -50467,14 +50515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91749,
-      "num": 91749,
-      "word": "南昌大学秋招现露骨女主播招聘海报",
-      "onboard_time": 1760959161,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91720,
       "num": 91720,
       "word": "F勒布伦认真听王楚钦采访",
@@ -50665,6 +50705,14 @@
       "onboard_time": 1759847903,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 91184,
+      "num": 91184,
+      "word": "越南股市",
+      "onboard_time": 1760960182,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 91181,
@@ -53651,6 +53699,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 84309,
+      "num": 84161,
+      "word": "东北家庭真的很懂怎么养孩子",
+      "onboard_time": 1760959881,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 84291,
       "num": 84291,
       "word": "安徽吴庄收费站约12万辆车通过",
@@ -53675,12 +53731,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 84248,
+      "num": 84248,
+      "word": "其实你已经嫁给学校了",
+      "onboard_time": 1760960001,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 84190,
       "num": 87670,
       "word": "孙颖莎哎呦没踢着",
       "onboard_time": 1759489462,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84161,
+      "num": 84160,
+      "word": "菊乐创始人离世外籍女儿掌管公司",
+      "onboard_time": 1760957419,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84099,
@@ -54089,6 +54161,14 @@
       "onboard_time": 1760607861,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83178,
+      "num": 83178,
+      "word": "特朗普提美对华三大议题",
+      "onboard_time": 1760958861,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83121,
@@ -59275,6 +59355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 61739,
+      "num": 110769,
+      "word": "你的城市开始冷冷冷了么",
+      "onboard_time": 1760956881,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61713,
       "num": 200376,
       "word": "焕新极氪001打造星空音乐厅",
@@ -59465,6 +59553,22 @@
       "onboard_time": 1759981519,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 60663,
+      "num": 92538,
+      "word": "王者十周年最好的礼物",
+      "onboard_time": 1760960241,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 60637,
+      "num": 131909,
+      "word": "女子帮母亲大扫除扔掉50万黄金首饰",
+      "onboard_time": 1760959942,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60608,
@@ -59904,14 +60008,6 @@
       "word": "爸爸辞职带多动症儿子徒步去山东",
       "onboard_time": 1760193023,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58220,
-      "num": 110769,
-      "word": "你的城市开始冷冷冷了么",
-      "onboard_time": 1760956881,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -60539,6 +60635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54547,
+      "num": 91380,
+      "word": "韩东君开OCTA甩飞摄像",
+      "onboard_time": 1760960241,
+      "rank": 38,
+      "category": "作品衍生,汽车"
+    },
+    {
       "raw_hot": 54521,
       "num": 114389,
       "word": "马思纯 你落水了我一定会陪你",
@@ -60713,14 +60817,6 @@
       "onboard_time": 1759274538,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 53743,
-      "num": 98785,
-      "word": "今晚8点天猫4折买羽绒服",
-      "onboard_time": 1760958561,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 53638,
@@ -64459,6 +64555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 28121,
+      "num": 139647,
+      "word": "今天发红包的明星有哪些",
+      "onboard_time": 1760958082,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27985,
       "num": 97654,
       "word": "陕西一小区塌陷滑坡多车被压",
@@ -64825,14 +64929,6 @@
       "onboard_time": 1760725636,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 25773,
-      "num": 139647,
-      "word": "今天发红包的明星有哪些",
-      "onboard_time": 1760958082,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 25728,

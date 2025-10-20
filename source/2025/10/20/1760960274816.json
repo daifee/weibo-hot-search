@@ -1,0 +1,410 @@
+{
+  "runTime": 1760960274816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 787803,
+        "num": 1126048,
+        "word": "解放军正告澳方立即停止侵权挑衅",
+        "onboard_time": 1760954121,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 384148,
+        "num": 384148,
+        "word": "缅甸政府军突袭KK园区",
+        "onboard_time": 1760950944,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 114468,
+        "num": 245643,
+        "word": "四中全会",
+        "onboard_time": 1760948660,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 807914,
+        "num": 244073,
+        "word": "红包",
+        "onboard_time": 1760941461,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 239842,
+        "num": 239842,
+        "word": "深圳失联70余天小伙遗体已找到",
+        "onboard_time": 1760950460,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160418,
+        "num": 160418,
+        "word": "英国奶奶因汶川地震留中国17年",
+        "onboard_time": 1760939841,
+        "rank": 5,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 149375,
+        "num": 149375,
+        "word": "特朗普与泽连斯基再度激烈争吵",
+        "onboard_time": 1760951721,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145228,
+        "num": 145228,
+        "word": "解放军回应澳军机侵闯中国西沙领空",
+        "onboard_time": 1760958260,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143598,
+        "num": 143598,
+        "word": "西游记避火罩真的存在",
+        "onboard_time": 1760952742,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135181,
+        "num": 135181,
+        "word": "摇粒绒怎么穿能不显胖",
+        "onboard_time": 1760949200,
+        "rank": 9,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 919366,
+        "num": 135034,
+        "word": "南昌大学致歉",
+        "onboard_time": 1760959161,
+        "rank": 10,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 574503,
+        "num": 134681,
+        "word": "骑手取走苹果17Promax后失联",
+        "onboard_time": 1760952561,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467782,
+        "num": 134287,
+        "word": "九寨沟烤肠",
+        "onboard_time": 1760946981,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 323152,
+        "num": 133957,
+        "word": "平台回应退款要扇孩子耳光5分钟",
+        "onboard_time": 1760943561,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28121,
+        "num": 133786,
+        "word": "今天发红包的明星有哪些",
+        "onboard_time": 1760958082,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275881,
+        "num": 133479,
+        "word": "外籍游客扎堆寿衣店试穿购买",
+        "onboard_time": 1760946440,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187763,
+        "num": 133062,
+        "word": "坐高铁再也不用扛行李了",
+        "onboard_time": 1760943742,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174067,
+        "num": 132706,
+        "word": "陈奕迅 红米",
+        "onboard_time": 1760958381,
+        "rank": 17,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 164538,
+        "num": 132379,
+        "word": "刘宇宁夸李木戈导演会拍",
+        "onboard_time": 1760959821,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47776,
+        "num": 132176,
+        "word": "京东百亿补贴1元买手机百吋电视",
+        "onboard_time": 1760956941,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 60637,
+        "num": 131909,
+        "word": "女子帮母亲大扫除扔掉50万黄金首饰",
+        "onboard_time": 1760959942,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131684,
+        "num": 131684,
+        "word": "今晚8点天猫4折买羽绒服",
+        "onboard_time": 1760958561,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120616,
+        "num": 120616,
+        "word": "扇耳光退货谁给你的底气",
+        "onboard_time": 1760956220,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120604,
+        "num": 120604,
+        "word": "刘宇宁vs刘宇宁vs刘宇宁",
+        "onboard_time": 1760944821,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118553,
+        "num": 118553,
+        "word": "i人做梦都想拥有的卫衣",
+        "onboard_time": 1760956519,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108997,
+        "num": 108997,
+        "word": "iQOO发布会",
+        "onboard_time": 1760959701,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108084,
+        "num": 108084,
+        "word": "再见朋友拟邀85姐妹花",
+        "onboard_time": 1760956700,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105229,
+        "num": 105229,
+        "word": "清融状态",
+        "onboard_time": 1760960121,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75229,
+        "num": 100945,
+        "word": "iQOO屏幕的含金量谁懂啊",
+        "onboard_time": 1760958320,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 100550,
+        "num": 100550,
+        "word": "卢远王乐晨彻底be",
+        "onboard_time": 1760940082,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31784,
+        "num": 98393,
+        "word": "上淘宝的双11才是真双11",
+        "onboard_time": 1760955740,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 113735,
+        "num": 98105,
+        "word": "雪地靴成了东三省省靴",
+        "onboard_time": 1760957842,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97615,
+        "num": 97615,
+        "word": "张本智和终于是霸王了",
+        "onboard_time": 1760960060,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96914,
+        "num": 96914,
+        "word": "南昌大学秋招现露骨女主播招聘海报",
+        "onboard_time": 1760959161,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94201,
+        "num": 94201,
+        "word": "日本街头老鼠成群",
+        "onboard_time": 1760953761,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93945,
+        "num": 93945,
+        "word": "红包分组",
+        "onboard_time": 1760946020,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 60663,
+        "num": 92538,
+        "word": "王者十周年最好的礼物",
+        "onboard_time": 1760960241,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 61739,
+        "num": 91724,
+        "word": "你的城市开始冷冷冷了么",
+        "onboard_time": 1760956881,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54547,
+        "num": 91380,
+        "word": "韩东君开OCTA甩飞摄像",
+        "onboard_time": 1760960241,
+        "rank": 38,
+        "category": "作品衍生,汽车"
+      },
+      {
+        "raw_hot": 91354,
+        "num": 91354,
+        "word": "一毛红包",
+        "onboard_time": 1760958561,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91184,
+        "num": 91184,
+        "word": "越南股市",
+        "onboard_time": 1760960182,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86742,
+        "num": 86742,
+        "word": "减肥十斤就是掉了这么多肉",
+        "onboard_time": 1760935223,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84248,
+        "num": 84248,
+        "word": "其实你已经嫁给学校了",
+        "onboard_time": 1760960001,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78676,
+        "num": 84228,
+        "word": "王者十周年农度爆表",
+        "onboard_time": 1760957602,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77883,
+        "num": 84209,
+        "word": "怎么我已体感入冬了",
+        "onboard_time": 1760958921,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82862,
+        "num": 84194,
+        "word": "卢远王乐晨 心动的信号",
+        "onboard_time": 1760935280,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84309,
+        "num": 84161,
+        "word": "东北家庭真的很懂怎么养孩子",
+        "onboard_time": 1760959881,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84161,
+        "num": 84160,
+        "word": "菊乐创始人离世外籍女儿掌管公司",
+        "onboard_time": 1760957419,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83178,
+        "num": 83178,
+        "word": "特朗普提美对华三大议题",
+        "onboard_time": 1760958861,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29966,
+        "num": 82911,
+        "word": "iQOO15哪哪儿都不基础",
+        "onboard_time": 1760955740,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届四中全会在北京开始举行#"
+    }
+  }
+}
