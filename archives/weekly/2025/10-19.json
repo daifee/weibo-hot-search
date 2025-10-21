@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761086366850,
+  "endTime": 1761089100708,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -1675,6 +1675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330525,
+      "num": 228323,
+      "word": "女子在直播间买到自己捐的衣服",
+      "onboard_time": 1761048080,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 330084,
       "num": 415979,
       "word": "赵丽颖直播",
@@ -1777,14 +1785,6 @@
       "onboard_time": 1760918360,
       "rank": 21,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 308210,
-      "num": 228323,
-      "word": "女子在直播间买到自己捐的衣服",
-      "onboard_time": 1761048080,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 307970,
@@ -3699,6 +3699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155645,
+      "num": 92743,
+      "word": "金价银价急跌",
+      "onboard_time": 1761088098,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 155178,
       "num": 155178,
       "word": "胡歌你别这样我害怕",
@@ -4643,6 +4651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127794,
+      "num": 92021,
+      "word": "2楼下水道堵死竟掏出12米树根",
+      "onboard_time": 1761088157,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127782,
       "num": 127782,
       "word": "杨振宁曾参观三星堆3小时未歇脚",
@@ -5235,6 +5251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117626,
+      "num": 195802,
+      "word": "特朗普暗示将承诺反对台独",
+      "onboard_time": 1761058043,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 117455,
       "num": 117455,
       "word": "也是让龚俊常华森搞上殡葬一条龙了",
@@ -5673,14 +5697,6 @@
       "onboard_time": 1760880683,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 109655,
-      "num": 195802,
-      "word": "特朗普暗示将承诺反对台独",
-      "onboard_time": 1761058043,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 109568,
@@ -7179,6 +7195,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90753,
+      "num": 90753,
+      "word": "长白山回应天池仿佛煮沸的开水",
+      "onboard_time": 1761088037,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90617,
       "num": 90617,
       "word": "这曲一响甄嬛来了又要过情关了",
@@ -7737,6 +7761,14 @@
       "onboard_time": 1760960001,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84182,
+      "num": 84182,
+      "word": "欧冠",
+      "onboard_time": 1761088758,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 84161,
@@ -8587,6 +8619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70895,
+      "num": 116444,
+      "word": "卢浮宫十年削减190个安保监控岗",
+      "onboard_time": 1761072854,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 70876,
       "num": 70876,
       "word": "家人同意不让野人小孩在外赤裸爬行",
@@ -8601,6 +8641,14 @@
       "onboard_time": 1760784802,
       "rank": 19,
       "category": "海外新闻,体育"
+    },
+    {
+      "raw_hot": 70815,
+      "num": 95807,
+      "word": "S15休赛期终于结束了",
+      "onboard_time": 1761088098,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 70579,
@@ -9283,12 +9331,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54629,
-      "num": 54629,
-      "word": "卢浮宫十年削减190个安保监控岗",
-      "onboard_time": 1761072854,
-      "rank": 40,
-      "category": "海外新闻"
+      "raw_hot": 54609,
+      "num": 66978,
+      "word": "春晚要这么演我可就不困了",
+      "onboard_time": 1761085875,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 54547,
@@ -9425,6 +9473,14 @@
       "onboard_time": 1761035482,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 47751,
+      "num": 66957,
+      "word": "阿森纳4比0马竞",
+      "onboard_time": 1761088817,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 47587,
@@ -9601,6 +9657,14 @@
       "onboard_time": 1760807718,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 40504,
+      "num": 66891,
+      "word": "特朗普说自己对乌克兰够好了",
+      "onboard_time": 1761077053,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 40145,
@@ -10035,14 +10099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24571,
-      "num": 50644,
-      "word": "特朗普说自己对乌克兰够好了",
-      "onboard_time": 1761077053,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 24501,
       "num": 65911,
       "word": "汪苏泷这句喜欢给我哄成胚胎了",
@@ -10337,14 +10393,6 @@
       "onboard_time": 1761071415,
       "rank": 47,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 12698,
-      "num": 50547,
-      "word": "春晚要这么演我可就不困了",
-      "onboard_time": 1761085875,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 11940,
