@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1761054688334,
+  "endTime": 1761056717945,
   "band_list": [
     {
       "raw_hot": 2016406,
@@ -193,6 +193,14 @@
       "onboard_time": 1761020781,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 555893,
+      "num": 209680,
+      "word": "黄金",
+      "onboard_time": 1761054803,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 545113,
@@ -787,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212230,
+      "num": 224395,
+      "word": "吴石将军之子大学档案展出",
+      "onboard_time": 1761049762,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212018,
       "num": 214193,
       "word": "胡连馨还珠女主",
@@ -873,6 +889,14 @@
       "onboard_time": 1760965221,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 191364,
+      "num": 213972,
+      "word": "16岁文淇演的孕妇",
+      "onboard_time": 1761053241,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 190139,
@@ -1219,6 +1243,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 141847,
+      "num": 208928,
+      "word": "林晏孤独终老",
+      "onboard_time": 1761054381,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140993,
       "num": 228732,
       "word": "广东近年发现多个新物种",
@@ -1291,12 +1323,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 136234,
-      "num": 224395,
-      "word": "吴石将军之子大学档案展出",
-      "onboard_time": 1761049762,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 135283,
+      "num": 208851,
+      "word": "金价",
+      "onboard_time": 1761008181,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 135204,
@@ -1539,20 +1571,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 116601,
+      "num": 214013,
+      "word": "河南一老板挣100万给员工分85万",
+      "onboard_time": 1761052341,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116591,
       "num": 116591,
       "word": "第一次见把男主关鸟笼里的",
       "onboard_time": 1761030981,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116256,
-      "num": 116256,
-      "word": "金价",
-      "onboard_time": 1761008181,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 115929,
@@ -1753,14 +1785,6 @@
       "onboard_time": 1761038721,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105931,
-      "num": 213972,
-      "word": "16岁文淇演的孕妇",
-      "onboard_time": 1761053241,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 105634,
@@ -1993,6 +2017,14 @@
       "onboard_time": 1761040761,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97992,
+      "num": 208196,
+      "word": "阿信刘若英新歌",
+      "onboard_time": 1761054803,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 97289,
@@ -2347,6 +2379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86191,
+      "num": 577375,
+      "word": "杨幂一不小心登顶了",
+      "onboard_time": 1761044721,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 86118,
       "num": 562987,
       "word": "正式确诊为烤肠型人格",
@@ -2491,14 +2531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80168,
-      "num": 214013,
-      "word": "河南一老板挣100万给员工分85万",
-      "onboard_time": 1761052341,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79972,
       "num": 79972,
       "word": "国际金银突然下挫",
@@ -2635,6 +2667,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74929,
+      "num": 207726,
+      "word": "新人选择花几百块租金结婚",
+      "onboard_time": 1761056061,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74897,
+      "num": 207631,
+      "word": "女子穿7厘米高跟鞋轻松爬岩壁",
+      "onboard_time": 1761056061,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74828,
       "num": 74828,
       "word": "钱塘江罕见龙鳞潮接好运",
@@ -2689,22 +2737,6 @@
       "onboard_time": 1761011599,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72302,
-      "num": 577375,
-      "word": "杨幂一不小心登顶了",
-      "onboard_time": 1761044721,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 71712,
-      "num": 204927,
-      "word": "林晏孤独终老",
-      "onboard_time": 1761054381,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 71658,
@@ -2915,6 +2947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61008,
+      "num": 207032,
+      "word": "人类正推动自恐龙灭绝后最大灭绝",
+      "onboard_time": 1761055401,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 60985,
       "num": 60985,
       "word": "官方回应香港飞机坠海",
@@ -2929,6 +2969,14 @@
       "onboard_time": 1761035541,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59286,
+      "num": 206785,
+      "word": "多品牌回应产品检出苏丹红",
+      "onboard_time": 1761056602,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 58927,
@@ -2987,6 +3035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57354,
+      "num": 206668,
+      "word": "侯明昊入青云引导型恋人",
+      "onboard_time": 1761055882,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56870,
       "num": 201587,
       "word": "直播间的热销假象调查",
@@ -3011,6 +3067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 54898,
+      "num": 209780,
+      "word": "南极游从20万跌至5万",
+      "onboard_time": 1761056361,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54859,
       "num": 115971,
       "word": "安氏半导体的遭遇史无前例",
@@ -3025,6 +3089,14 @@
       "onboard_time": 1760972602,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 53337,
+      "num": 208235,
+      "word": "当地规劝烤肉店停止玉米做燃料",
+      "onboard_time": 1761056602,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52226,
@@ -3121,6 +3193,14 @@
       "onboard_time": 1761015679,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 45716,
+      "num": 242568,
+      "word": "强国梦从蓝图一步步走向现实",
+      "onboard_time": 1761055521,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 45669,
@@ -3364,6 +3444,9 @@
     },
     {
       "word": "#领航中国式现代化#"
+    },
+    {
+      "word": "#十四五规划你我用奋斗实现#"
     }
   ]
 }
