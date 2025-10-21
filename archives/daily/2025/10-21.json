@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1761043484878,
+  "endTime": 1761045733425,
   "band_list": [
     {
       "raw_hot": 2016406,
@@ -99,6 +99,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 830814,
+      "num": 830814,
+      "word": "VOGUE请假阵容",
+      "onboard_time": 1761042801,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 808731,
       "num": 746996,
       "word": "免费火锅骗走600多名老人4200万",
@@ -177,6 +185,14 @@
       "onboard_time": 1761020781,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 552290,
+      "num": 552290,
+      "word": "江浙沪无法体面入冬",
+      "onboard_time": 1761042921,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 545113,
@@ -267,6 +283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 467629,
+      "num": 1252282,
+      "word": "刘冲 挽尊",
+      "onboard_time": 1761039681,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 453846,
       "num": 1072615,
       "word": "王楚钦多哈夺冠球台运回了先农坛",
@@ -281,14 +305,6 @@
       "onboard_time": 1760976621,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 449469,
-      "num": 1252282,
-      "word": "刘冲 挽尊",
-      "onboard_time": 1761039681,
-      "rank": 44,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 445389,
@@ -547,6 +563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281545,
+      "num": 956541,
+      "word": "孙颖莎长了鲨鱼角",
+      "onboard_time": 1761041181,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280508,
       "num": 1325391,
       "word": "外交部回应特朗普称明年初访华",
@@ -627,14 +651,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 216978,
-      "num": 311811,
-      "word": "孙颖莎长了鲨鱼角",
-      "onboard_time": 1761041181,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215055,
       "num": 537589,
       "word": "暗河传",
@@ -683,14 +699,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 199257,
-      "num": 814888,
-      "word": "VOGUE请假阵容",
-      "onboard_time": 1761042801,
-      "rank": 8,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 197625,
       "num": 197625,
       "word": "她一个人干了一个小厂子的活",
@@ -707,12 +715,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192731,
-      "num": 192731,
-      "word": "江浙沪无法体面入冬",
-      "onboard_time": 1761042921,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 194571,
+      "num": 1101997,
+      "word": "微信三大更新放出",
+      "onboard_time": 1761044421,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 192103,
@@ -915,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159405,
+      "num": 288303,
+      "word": "退役军人去世35位战友陪他女儿长大",
+      "onboard_time": 1761044302,
+      "rank": 15,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 158913,
       "num": 1256047,
       "word": "田曦薇说睡觉没有被子会很不幸福",
@@ -1107,6 +1123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134271,
+      "num": 142897,
+      "word": "杉杉集团重整突变",
+      "onboard_time": 1761044661,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 134119,
       "num": 134119,
       "word": "彭小苒新剧感情线多到可以织毛衣了",
@@ -1209,6 +1233,14 @@
       "onboard_time": 1761023721,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 123379,
+      "num": 123379,
+      "word": "龚俊剧粉去哪了",
+      "onboard_time": 1761045320,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 122062,
@@ -1435,6 +1467,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 107863,
+      "num": 107863,
+      "word": "大豆被中国人开发得好彻底",
+      "onboard_time": 1761045022,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 107634,
       "num": 156235,
       "word": "印海军官兵集体在航母做瑜伽",
@@ -1585,6 +1625,14 @@
       "onboard_time": 1761021621,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101845,
+      "num": 101845,
+      "word": "苏醒边公演边考主持人证",
+      "onboard_time": 1761045202,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 101774,
@@ -1739,6 +1787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95146,
+      "num": 111819,
+      "word": "梅西夺冠奖金分给了足协员工和球员",
+      "onboard_time": 1761042020,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94622,
       "num": 94622,
       "word": "9岁男孩患儿童癌症之王",
@@ -1753,6 +1809,14 @@
       "onboard_time": 1761020121,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 93942,
+      "num": 93942,
+      "word": "原来孕妇不能睡电热毯",
+      "onboard_time": 1761044302,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 93713,
@@ -1907,6 +1971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87535,
+      "num": 87534,
+      "word": "被抢鸡排校长随身带糖和零食给学生",
+      "onboard_time": 1761045561,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87488,
       "num": 87488,
       "word": "第一次在鱼的脸上看到了震惊",
@@ -1993,6 +2065,14 @@
       "onboard_time": 1761013760,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85329,
+      "num": 86342,
+      "word": "女孩子生理期要学的必修课",
+      "onboard_time": 1761044900,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 84856,
@@ -2097,6 +2177,14 @@
       "onboard_time": 1761005240,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79522,
+      "num": 79522,
+      "word": "美拉德色系大多不适合亚洲人",
+      "onboard_time": 1761045681,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 79380,
@@ -2243,6 +2331,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 69999,
+      "num": 87502,
+      "word": "00后拍摄75岁老会计同事走红",
+      "onboard_time": 1761044421,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69699,
       "num": 112670,
       "word": "安世半导体的遭遇史无前例",
@@ -2289,6 +2385,14 @@
       "onboard_time": 1761024200,
       "rank": 39,
       "category": "财经"
+    },
+    {
+      "raw_hot": 67118,
+      "num": 87541,
+      "word": "李在明贴身保镖火了",
+      "onboard_time": 1761044541,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 66946,
@@ -2468,7 +2572,7 @@
     },
     {
       "raw_hot": 55154,
-      "num": 147853,
+      "num": 237281,
       "word": "人生不该被科技硬控",
       "onboard_time": 1761041241,
       "rank": 29,
@@ -2635,6 +2739,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 36702,
+      "num": 87535,
+      "word": "韩国官员手捧遇害大学生骨灰盒回国",
+      "onboard_time": 1761045500,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 36567,
+      "num": 87719,
+      "word": "杨幂一不小心登顶了",
+      "onboard_time": 1761044721,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 36418,
       "num": 178222,
       "word": "原来这些爆款都是KimJones设计的",
@@ -2673,6 +2793,14 @@
       "onboard_time": 1760961022,
       "rank": 46,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 22589,
+      "num": 82294,
+      "word": "长沙地铁献血预防癌症广告引争议",
+      "onboard_time": 1761044302,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18111,

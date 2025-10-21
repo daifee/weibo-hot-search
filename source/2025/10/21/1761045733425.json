@@ -1,0 +1,410 @@
+{
+  "runTime": 1761045733425,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 896389,
+        "num": 1143422,
+        "word": "被学生抢鸡排的校长离世",
+        "onboard_time": 1761034759,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194571,
+        "num": 1101997,
+        "word": "微信三大更新放出",
+        "onboard_time": 1761044421,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37273,
+        "num": 1009571,
+        "word": "中国把不可能变成一定能",
+        "onboard_time": 1761035482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 281545,
+        "num": 956541,
+        "word": "孙颖莎长了鲨鱼角",
+        "onboard_time": 1761041181,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179448,
+        "num": 840174,
+        "word": "官方通报2人破坏为人民服务航标",
+        "onboard_time": 1761029301,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 830814,
+        "num": 830814,
+        "word": "VOGUE请假阵容",
+        "onboard_time": 1761042801,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 575341,
+        "num": 575341,
+        "word": "被抢鸡排校长离世有1千多人送别",
+        "onboard_time": 1761039622,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223840,
+        "num": 573832,
+        "word": "山河枕定档时间",
+        "onboard_time": 1761041540,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222770,
+        "num": 569042,
+        "word": "高市早苗当选首相",
+        "onboard_time": 1761022583,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191757,
+        "num": 559630,
+        "word": "没去VOGUE盛典的明星请假视频",
+        "onboard_time": 1761041420,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 608774,
+        "num": 556760,
+        "word": "韩国大火中国妈妈隔窗送出孩子后坠亡",
+        "onboard_time": 1761040941,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 552290,
+        "num": 552290,
+        "word": "江浙沪无法体面入冬",
+        "onboard_time": 1761042921,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467629,
+        "num": 467629,
+        "word": "刘冲 挽尊",
+        "onboard_time": 1761039681,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 292814,
+        "num": 292814,
+        "word": "降温后的恶心穿搭",
+        "onboard_time": 1761034280,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69448,
+        "num": 291406,
+        "word": "挖到拼多多好评率99%的十年老店",
+        "onboard_time": 1761037581,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 159405,
+        "num": 288303,
+        "word": "退役军人去世35位战友陪他女儿长大",
+        "onboard_time": 1761044302,
+        "rank": 15,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 135268,
+        "num": 285533,
+        "word": "红石榴餐厅定档",
+        "onboard_time": 1761042020,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128260,
+        "num": 282764,
+        "word": "宴遇永安大结局",
+        "onboard_time": 1761042020,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282716,
+        "num": 282716,
+        "word": "发现很多人都不做美甲了",
+        "onboard_time": 1761035841,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 43464,
+        "num": 237281,
+        "word": "人生不该被科技硬控",
+        "onboard_time": 1761041241,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222526,
+        "num": 222526,
+        "word": "越南副部长被爆访韩期间性侵韩公务员",
+        "onboard_time": 1761036441,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149080,
+        "num": 149080,
+        "word": "Faker和Keria给历届S冠排名",
+        "onboard_time": 1761040702,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134271,
+        "num": 142897,
+        "word": "杉杉集团重整突变",
+        "onboard_time": 1761044661,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137253,
+        "num": 137253,
+        "word": "外交部回应特朗普称明年初访华",
+        "onboard_time": 1761034940,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131126,
+        "num": 131126,
+        "word": "标准小猫长相",
+        "onboard_time": 1761039321,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124006,
+        "num": 124006,
+        "word": "金价大涨影响年轻人结婚",
+        "onboard_time": 1761028221,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123501,
+        "num": 123501,
+        "word": "刘冲回应VOGUE阵容",
+        "onboard_time": 1761031882,
+        "rank": 26,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 123379,
+        "num": 123379,
+        "word": "龚俊剧粉去哪了",
+        "onboard_time": 1761045320,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95146,
+        "num": 111819,
+        "word": "梅西夺冠奖金分给了足协员工和球员",
+        "onboard_time": 1761042020,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61918,
+        "num": 109708,
+        "word": "宴遇永安",
+        "onboard_time": 1761042261,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109556,
+        "num": 109556,
+        "word": "减肥主食排名",
+        "onboard_time": 1761039441,
+        "rank": 30,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 107863,
+        "num": 107863,
+        "word": "大豆被中国人开发得好彻底",
+        "onboard_time": 1761045022,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 101845,
+        "num": 101845,
+        "word": "苏醒边公演边考主持人证",
+        "onboard_time": 1761045202,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93942,
+        "num": 93942,
+        "word": "原来孕妇不能睡电热毯",
+        "onboard_time": 1761044302,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92703,
+        "num": 92703,
+        "word": "阴阳师UR",
+        "onboard_time": 1761032061,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90400,
+        "num": 90400,
+        "word": "华为Mate70Air曝光",
+        "onboard_time": 1761036742,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 87986,
+        "num": 87986,
+        "word": "金银双双下跌",
+        "onboard_time": 1761042381,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 36567,
+        "num": 87719,
+        "word": "杨幂一不小心登顶了",
+        "onboard_time": 1761044721,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 67118,
+        "num": 87541,
+        "word": "李在明贴身保镖火了",
+        "onboard_time": 1761044541,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36702,
+        "num": 87535,
+        "word": "韩国官员手捧遇害大学生骨灰盒回国",
+        "onboard_time": 1761045500,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87535,
+        "num": 87534,
+        "word": "被抢鸡排校长随身带糖和零食给学生",
+        "onboard_time": 1761045561,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69999,
+        "num": 87502,
+        "word": "00后拍摄75岁老会计同事走红",
+        "onboard_time": 1761044421,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87480,
+        "num": 87480,
+        "word": "北极地下沉睡4万年古生物正醒来",
+        "onboard_time": 1761039862,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85329,
+        "num": 86342,
+        "word": "女孩子生理期要学的必修课",
+        "onboard_time": 1761044900,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85763,
+        "num": 85763,
+        "word": "其实你不需要买很多冬装",
+        "onboard_time": 1761040941,
+        "rank": 44,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 85649,
+        "num": 85649,
+        "word": "抢鸡排学生想把鸡排还给校长",
+        "onboard_time": 1761040822,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22589,
+        "num": 82294,
+        "word": "长沙地铁献血预防癌症广告引争议",
+        "onboard_time": 1761044302,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80442,
+        "num": 80442,
+        "word": "卢浮宫劫案可能是粉红豹所为",
+        "onboard_time": 1761021562,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79522,
+        "num": 79522,
+        "word": "美拉德色系大多不适合亚洲人",
+        "onboard_time": 1761045681,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 52387,
+        "num": 77730,
+        "word": "短剧还珠先导片谁的DNA动了",
+        "onboard_time": 1761030321,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航中国式现代化#"
+    }
+  }
+}
