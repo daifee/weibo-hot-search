@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761003414817,
+  "endTime": 1761011690850,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -95,6 +95,14 @@
       "num": 219080,
       "word": "陈伟霆 何穗",
       "onboard_time": 1760835560,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1376514,
+      "num": 139644,
+      "word": "陈柏霖修杰楷被警方拘提",
+      "onboard_time": 1761010580,
       "rank": 10,
       "category": "艺人"
     },
@@ -369,6 +377,14 @@
       "onboard_time": 1760930481,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 706946,
+      "num": 139074,
+      "word": "免费火锅骗走600多名老人4200万",
+      "onboard_time": 1761007942,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 704563,
@@ -947,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 394030,
+      "num": 852967,
+      "word": "卢浮宫被盗藏品可在1小时内被分解",
+      "onboard_time": 1760976440,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 390246,
       "num": 198158,
       "word": "香港机场货机与地勤车相撞后坠海",
@@ -1267,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296000,
+      "num": 1047360,
+      "word": "日本石破茂内阁全体辞职",
+      "onboard_time": 1761007942,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 291634,
       "num": 262206,
       "word": "杨振宁20年前预言已基本实现",
@@ -1329,14 +1361,6 @@
       "onboard_time": 1760849120,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 281324,
-      "num": 852967,
-      "word": "卢浮宫被盗藏品可在1小时内被分解",
-      "onboard_time": 1760976440,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 279807,
@@ -1539,6 +1563,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 241639,
+      "num": 165374,
+      "word": "日媒称日本将迎来首位女首相",
+      "onboard_time": 1761006623,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 241053,
       "num": 824267,
       "word": "利剑玫瑰",
@@ -1609,6 +1641,14 @@
       "onboard_time": 1760850800,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 231694,
+      "num": 165081,
+      "word": "金价银价大反攻",
+      "onboard_time": 1761004039,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 227553,
@@ -2307,6 +2347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 173000,
+      "num": 173000,
+      "word": "国安部发布拍照炫耀泄密案例",
+      "onboard_time": 1761003078,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 172842,
       "num": 172842,
       "word": "台湾青年哽咽缅怀吴石将军",
@@ -2723,6 +2771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 153562,
+      "num": 153562,
+      "word": "iOS26液态玻璃效果能关了",
+      "onboard_time": 1761007521,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 152758,
       "num": 143193,
       "word": "0713没有张远的群有20多个",
@@ -2865,6 +2921,14 @@
       "onboard_time": 1760942420,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 146610,
+      "num": 146610,
+      "word": "冷冷冷冷冷如何正确保暖",
+      "onboard_time": 1761011599,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 146474,
@@ -3113,6 +3177,14 @@
       "onboard_time": 1760836341,
       "rank": 25,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 133463,
+      "num": 133463,
+      "word": "护肤品 苏丹红",
+      "onboard_time": 1761003619,
+      "rank": 13,
+      "category": "美妆"
     },
     {
       "raw_hot": 133356,
@@ -3611,11 +3683,27 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 122062,
+      "num": 122062,
+      "word": "住酒店被前台安排在尾房",
+      "onboard_time": 1761002358,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122050,
       "num": 122050,
       "word": "小区10个月停水11次最长停10天",
       "onboard_time": 1760847620,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121792,
+      "num": 109976,
+      "word": "13岁女孩目不斜视逆行闯红灯被撞",
+      "onboard_time": 1761010761,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -4169,6 +4257,14 @@
       "onboard_time": 1760959701,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 108749,
+      "num": 108749,
+      "word": "美国民众烦透了两党之争",
+      "onboard_time": 1761006921,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108589,
@@ -4915,6 +5011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 94074,
+      "num": 94074,
+      "word": "日本自民党维新会基本确认联合执政",
+      "onboard_time": 1761008900,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93982,
       "num": 110584,
       "word": "香港中环突发火灾",
@@ -5291,6 +5395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 88241,
+      "num": 88241,
+      "word": "多款大牌护肤品检出致癌成分",
+      "onboard_time": 1761007162,
+      "rank": 25,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 88214,
       "num": 88214,
       "word": "清华设立杨振宁缅怀室接受吊唁",
@@ -5329,6 +5441,14 @@
       "onboard_time": 1760878522,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 87621,
+      "num": 87621,
+      "word": "冰雪大世界存冰被白雪覆盖",
+      "onboard_time": 1761009261,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87584,
@@ -5571,14 +5691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82826,
-      "num": 64458,
-      "word": "国安部发布拍照炫耀泄密案例",
-      "onboard_time": 1761003078,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 82484,
       "num": 82484,
       "word": "与他人建立关系的正确顺序",
@@ -5601,6 +5713,14 @@
       "onboard_time": 1760852721,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82272,
+      "num": 82272,
+      "word": "男子翻妻子手机发现和8人聊暧昧",
+      "onboard_time": 1760968882,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81835,
@@ -5667,6 +5787,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 81102,
+      "num": 81102,
+      "word": "不运动也能减脂的7个习惯",
+      "onboard_time": 1761005842,
+      "rank": 29,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 81018,
       "num": 228605,
       "word": "以色列炸完加沙后宣布恢复停火",
@@ -5729,6 +5857,14 @@
       "onboard_time": 1760791282,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79591,
+      "num": 79591,
+      "word": "偷拍涉密装备发家庭群被判5年",
+      "onboard_time": 1761005240,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79481,
@@ -5971,6 +6107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 74828,
+      "num": 74828,
+      "word": "钱塘江罕见龙鳞潮接好运",
+      "onboard_time": 1761010281,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74561,
       "num": 74561,
       "word": "Knight称抽T1挺好的",
@@ -5993,6 +6137,14 @@
       "onboard_time": 1760793202,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74097,
+      "num": 74097,
+      "word": "睡前洗澡派 早上洗澡派",
+      "onboard_time": 1761010460,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 73177,
@@ -6033,6 +6185,14 @@
       "onboard_time": 1760944942,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 72466,
+      "num": 72466,
+      "word": "今年哈尔滨准备了20万立方米冰",
+      "onboard_time": 1761011599,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72400,
@@ -6139,6 +6299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68455,
+      "num": 68455,
+      "word": "下班后这样休息比睡觉管用",
+      "onboard_time": 1761005842,
+      "rank": 36,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 68407,
       "num": 63212,
       "word": "迈凯伦双车退赛",
@@ -6161,6 +6329,14 @@
       "onboard_time": 1760844199,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67704,
+      "num": 67704,
+      "word": "暖暖的小猫咪变成了冷冰冰的钱",
+      "onboard_time": 1761004039,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 66946,
@@ -6211,20 +6387,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 65619,
+      "num": 65619,
+      "word": "韩国金店库存告罄",
+      "onboard_time": 1761010281,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 64985,
+      "num": 116736,
+      "word": "两京十五日 水路剧",
+      "onboard_time": 1761011178,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64629,
       "num": 104867,
       "word": "张晚意急得小兔牙都出来了",
       "onboard_time": 1760943742,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 64348,
-      "num": 64348,
-      "word": "住酒店被前台安排在尾房",
-      "onboard_time": 1761002358,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 64183,
@@ -6315,6 +6499,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 61990,
+      "num": 61990,
+      "word": "河南居民楼下3块钱一笼的包子",
+      "onboard_time": 1761011540,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 61739,
       "num": 110769,
       "word": "你的城市开始冷冷冷了么",
@@ -6403,6 +6595,22 @@
       "category": "综艺,互联网"
     },
     {
+      "raw_hot": 58927,
+      "num": 58927,
+      "word": "为什么eSIM这么难落地",
+      "onboard_time": 1761005842,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 58915,
+      "num": 58915,
+      "word": "按一下拿吸管的快乐快消失了",
+      "onboard_time": 1761011480,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 58639,
       "num": 58639,
       "word": "总要来趟高淳吧",
@@ -6427,6 +6635,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 58196,
+      "num": 58196,
+      "word": "麻麻你看我的嘴里空空的",
+      "onboard_time": 1761008181,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 57775,
       "num": 373777,
       "word": "教科书式羽绒服穿搭模板",
@@ -6441,6 +6657,14 @@
       "onboard_time": 1760898435,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57544,
+      "num": 57544,
+      "word": "开电热毯",
+      "onboard_time": 1761010101,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 57004,
@@ -6977,6 +7201,14 @@
       "onboard_time": 1760938821,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26351,
+      "num": 170317,
+      "word": "公安部公布打击整治网络谣言10起案例",
+      "onboard_time": 1761004039,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26219,

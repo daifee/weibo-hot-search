@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 07:36:54
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 09:54:50
 </p>
 </blockquote>
 <p>
@@ -833,6 +833,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%88%96%E6%97%A0%E6%9C%9B%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%23" target="weibo">
 高市早苗或无望日本首相（热度：1378773）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%9F%8F%E9%9C%96%E4%BF%AE%E6%9D%B0%E6%A5%B7%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8F%90%23" target="weibo">
+陈柏霖修杰楷被警方拘提（热度：1376514）
 </a>
 </li>
 
@@ -3233,6 +3239,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%87%BA%E5%8E%BB%E6%97%85%E6%B8%B8%E7%9A%84%E4%BA%BA%E5%B7%B2%E7%BB%8F%E8%80%81%E5%AE%9E%23" target="weibo">
 第一天出去旅游的人已经老实（热度：706971）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%B4%B9%E7%81%AB%E9%94%85%E9%AA%97%E8%B5%B0600%E5%A4%9A%E5%90%8D%E8%80%81%E4%BA%BA4200%E4%B8%87%23" target="weibo">
+免费火锅骗走600多名老人4200万（热度：706946）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TheShy回应上单韦鲁斯（热度：477977）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E8%A1%8C%E8%AF%B4%E9%82%93%E8%8E%8E%E6%9C%80%E5%A4%A7%E7%9A%84%E4%BB%98%E5%87%BA%E6%98%AF%E7%94%9F%E5%84%BF%E5%AD%90%23" target="weibo">
 路行说邓莎最大的付出是生儿子（热度：477010）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E6%9B%9D%E6%AD%8C%E6%89%8B%E5%85%B3%E6%B7%91%E6%80%A1%E7%97%85%E5%8D%B1%23" target="weibo">
-港媒曝歌手关淑怡病危（热度：476795）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%9D%87%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%23" target="weibo">
-野人小孩父母均大学毕业（热度：476771）
 </a>
 </li>
 
