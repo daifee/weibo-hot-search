@@ -1,6 +1,6 @@
 {
   "startTime": 1761064398737,
-  "endTime": 1761064398737,
+  "endTime": 1761065173609,
   "band_list": [
     {
       "raw_hot": 428280,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 358155,
-      "num": 358155,
+      "num": 704695,
       "word": "当地规劝烤肉店停止玉米做燃料",
       "onboard_time": 1761056602,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194890,
+      "num": 134789,
+      "word": "宴遇永安好虐",
+      "onboard_time": 1761062900,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 191967,
@@ -83,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153525,
+      "num": 125155,
+      "word": "鞠婧祎 权谋女主",
+      "onboard_time": 1761061700,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153259,
       "num": 180219,
       "word": "微信三大更新放出",
@@ -129,14 +145,6 @@
       "onboard_time": 1761058642,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 125155,
-      "num": 125155,
-      "word": "鞠婧祎 权谋女主",
-      "onboard_time": 1761061700,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 117612,
@@ -235,14 +243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 74160,
-      "num": 122821,
-      "word": "宴遇永安好虐",
-      "onboard_time": 1761062900,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 72547,
       "num": 116929,
       "word": "高市早苗当选首相",
@@ -299,6 +299,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 45092,
+      "num": 116339,
+      "word": "杨丞琳一天官宣两个大事",
+      "onboard_time": 1761053540,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 44490,
       "num": 116627,
       "word": "及时正向反馈是个好社交习惯",
@@ -347,12 +355,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 37192,
-      "num": 116339,
-      "word": "杨丞琳一天官宣两个大事",
-      "onboard_time": 1761053540,
-      "rank": 45,
-      "category": "音乐"
+      "raw_hot": 36941,
+      "num": 116123,
+      "word": "广东近年发现多个新物种",
+      "onboard_time": 1761053001,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36761,
@@ -361,6 +369,14 @@
       "onboard_time": 1761059241,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 36717,
+      "num": 117190,
+      "word": "宴遇永安",
+      "onboard_time": 1761042261,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 35361,
@@ -379,23 +395,31 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32773,
-      "num": 116123,
-      "word": "广东近年发现多个新物种",
-      "onboard_time": 1761053001,
-      "rank": 49,
-      "category": "民生新闻"
+      "raw_hot": 31448,
+      "num": 84387,
+      "word": "网吧已经进化成这样了吗",
+      "onboard_time": 1761049642,
+      "rank": 44,
+      "category": "情感,休闲"
     },
     {
-      "raw_hot": 32760,
-      "num": 117190,
-      "word": "宴遇永安",
-      "onboard_time": 1761042261,
+      "raw_hot": 29247,
+      "num": 84362,
+      "word": "2026年国考报名人数超百万",
+      "onboard_time": 1761052402,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 29235,
+      "num": 84534,
+      "word": "宴遇永安编剧",
+      "onboard_time": 1761064878,
       "rank": 29,
       "category": "剧集"
     },
     {
-      "raw_hot": 26132,
+      "raw_hot": 27725,
       "num": 226025,
       "word": "强国梦从蓝图一步步走向现实",
       "onboard_time": 1761055521,
