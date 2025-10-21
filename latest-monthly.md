@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 18:29:02
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 18:44:44
 </p>
 </blockquote>
 <p>
@@ -2067,6 +2067,12 @@ Angelababy公主皇冠（热度：925479）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8A%A2%E9%B8%A1%E6%8E%92%E6%A0%A1%E9%95%BF%E7%A6%BB%E4%B8%96%E6%9C%891%E5%8D%83%E5%A4%9A%E4%BA%BA%E9%80%81%E5%88%AB%23" target="weibo">
+被抢鸡排校长离世有1千多人送别（热度：919452）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%98%8C%E5%A4%A7%E5%AD%A6%E8%87%B4%E6%AD%89%23" target="weibo">
 南昌大学致歉（热度：919366）
 </a>
@@ -2879,12 +2885,6 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%9D%92%20%E4%B8%8D%E8%A6%81%E5%9B%A0%E4%B8%BA%E6%88%91%E5%BD%B1%E5%93%8D%E5%86%AF%E5%BB%BA%E5%AE%87%23" target="weibo">
 王青 不要因为我影响冯建宇（热度：781950）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%8A%A2%E9%B8%A1%E6%8E%92%E6%A0%A1%E9%95%BF%E7%A6%BB%E4%B8%96%E6%9C%891%E5%8D%83%E5%A4%9A%E4%BA%BA%E9%80%81%E5%88%AB%23" target="weibo">
-被抢鸡排校长离世有1千多人送别（热度：781251）
 </a>
 </li>
 

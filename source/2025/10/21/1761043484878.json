@@ -1,0 +1,410 @@
+{
+  "runTime": 1761043484878,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1134770,
+        "num": 1181563,
+        "word": "被学生抢鸡排的校长离世",
+        "onboard_time": 1761034759,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 919452,
+        "num": 919452,
+        "word": "被抢鸡排校长离世有1千多人送别",
+        "onboard_time": 1761039622,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42911,
+        "num": 916054,
+        "word": "中国把不可能变成一定能",
+        "onboard_time": 1761035482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210665,
+        "num": 901935,
+        "word": "外交部回应特朗普称明年初访华",
+        "onboard_time": 1761034940,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202189,
+        "num": 885530,
+        "word": "官方通报2人破坏为人民服务航标",
+        "onboard_time": 1761029301,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 317829,
+        "num": 858204,
+        "word": "没去VOGUE盛典的明星请假视频",
+        "onboard_time": 1761041420,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 292258,
+        "num": 846806,
+        "word": "山河枕定档时间",
+        "onboard_time": 1761041540,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267975,
+        "num": 822023,
+        "word": "高市早苗当选首相",
+        "onboard_time": 1761022583,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199257,
+        "num": 814888,
+        "word": "VOGUE请假阵容",
+        "onboard_time": 1761042801,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 176319,
+        "num": 800012,
+        "word": "华为Mate70Air曝光",
+        "onboard_time": 1761036742,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 788046,
+        "num": 788046,
+        "word": "韩国大火中国妈妈隔窗送出孩子后坠亡",
+        "onboard_time": 1761040941,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 507645,
+        "num": 507645,
+        "word": "降温后的恶心穿搭",
+        "onboard_time": 1761034280,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 449469,
+        "num": 449469,
+        "word": "刘冲 挽尊",
+        "onboard_time": 1761039681,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 408742,
+        "num": 408742,
+        "word": "发现很多人都不做美甲了",
+        "onboard_time": 1761035841,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 313062,
+        "num": 313062,
+        "word": "越南副部长被爆访韩期间性侵韩公务员",
+        "onboard_time": 1761036441,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216978,
+        "num": 311811,
+        "word": "孙颖莎长了鲨鱼角",
+        "onboard_time": 1761041181,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147320,
+        "num": 305301,
+        "word": "宴遇永安大结局",
+        "onboard_time": 1761042020,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136327,
+        "num": 302909,
+        "word": "红石榴餐厅定档",
+        "onboard_time": 1761042020,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118911,
+        "num": 294653,
+        "word": "宴遇永安",
+        "onboard_time": 1761042261,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82480,
+        "num": 292639,
+        "word": "国产车已经进化到水陆两栖了",
+        "onboard_time": 1761041060,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 288450,
+        "num": 288450,
+        "word": "高市早苗当选日本首相现场",
+        "onboard_time": 1761036140,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220447,
+        "num": 220447,
+        "word": "Faker和Keria给历届S冠排名",
+        "onboard_time": 1761040702,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192731,
+        "num": 192731,
+        "word": "江浙沪无法体面入冬",
+        "onboard_time": 1761042921,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186117,
+        "num": 186117,
+        "word": "减肥主食排名",
+        "onboard_time": 1761039441,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 179070,
+        "num": 179070,
+        "word": "金价大涨影响年轻人结婚",
+        "onboard_time": 1761028221,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168486,
+        "num": 168486,
+        "word": "标准小猫长相",
+        "onboard_time": 1761039321,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138277,
+        "num": 138277,
+        "word": "抢鸡排学生想把鸡排还给校长",
+        "onboard_time": 1761040822,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134999,
+        "num": 134999,
+        "word": "卢浮宫劫案可能是粉红豹所为",
+        "onboard_time": 1761021562,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156253,
+        "num": 134323,
+        "word": "刘冲回应VOGUE阵容",
+        "onboard_time": 1761031882,
+        "rank": 28,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 55154,
+        "num": 133375,
+        "word": "人生不该被科技硬控",
+        "onboard_time": 1761041241,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133045,
+        "num": 133045,
+        "word": "被学生抢鸡排校长离世儿子发声",
+        "onboard_time": 1761042680,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131003,
+        "num": 131003,
+        "word": "阴阳师UR",
+        "onboard_time": 1761032061,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 130202,
+        "num": 130202,
+        "word": "我下班了不说了",
+        "onboard_time": 1761035841,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122462,
+        "num": 130197,
+        "word": "坚果可可燕麦奶",
+        "onboard_time": 1761041601,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 107003,
+        "num": 130189,
+        "word": "其实你不需要买很多冬装",
+        "onboard_time": 1761040941,
+        "rank": 34,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 101145,
+        "num": 130188,
+        "word": "彭小苒不想困在八年前东宫里",
+        "onboard_time": 1761034640,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100731,
+        "num": 130179,
+        "word": "也是当上王嘉尔的造型师了",
+        "onboard_time": 1761043041,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95781,
+        "num": 130172,
+        "word": "北极地下沉睡4万年古生物正醒来",
+        "onboard_time": 1761039862,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 9268,
+        "num": 130165,
+        "word": "男子偷30万藏备胎里被抓",
+        "onboard_time": 1761043341,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51533,
+        "num": 130158,
+        "word": "高市早苗与丈夫因政治理念离婚后再婚",
+        "onboard_time": 1761041540,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95269,
+        "num": 130148,
+        "word": "中方回应高市早苗当选日本首相",
+        "onboard_time": 1761033140,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 58172,
+        "num": 130147,
+        "word": "酒席单独给小朋友安排两桌肯德基",
+        "onboard_time": 1761042140,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93479,
+        "num": 130134,
+        "word": "金银双双下跌",
+        "onboard_time": 1761042381,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92960,
+        "num": 130131,
+        "word": "王楚钦张百乔互相称哥",
+        "onboard_time": 1761040761,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88742,
+        "num": 130126,
+        "word": "新疆河水一半翡翠一半牛奶",
+        "onboard_time": 1761043341,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88475,
+        "num": 130121,
+        "word": "短剧还珠先导片谁的DNA动了",
+        "onboard_time": 1761030321,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87635,
+        "num": 130110,
+        "word": "他没有教我物理 他教我开车",
+        "onboard_time": 1761038721,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87020,
+        "num": 130104,
+        "word": "王天一",
+        "onboard_time": 1761043402,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86999,
+        "num": 130101,
+        "word": "卢浮宫被盗珠宝同款电商已上架",
+        "onboard_time": 1761040822,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86432,
+        "num": 130093,
+        "word": "新娘金手镯婚前被堂嫂掉包成铜",
+        "onboard_time": 1761026962,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航中国式现代化#"
+    }
+  }
+}
