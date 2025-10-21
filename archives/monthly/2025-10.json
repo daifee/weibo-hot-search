@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761065173609,
+  "endTime": 1761067412459,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -62571,6 +62571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62640,
+      "num": 84534,
+      "word": "宴遇永安编剧",
+      "onboard_time": 1761064878,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62636,
       "num": 213881,
       "word": "今晚猎户座流星雨迎极大",
@@ -63651,6 +63659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57090,
+      "num": 70673,
+      "word": "高级河灯",
+      "onboard_time": 1760829137,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 57004,
       "num": 338449,
       "word": "周深学了2年才敢表演的魔术",
@@ -64265,14 +64281,6 @@
       "onboard_time": 1760101942,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 53866,
-      "num": 53866,
-      "word": "高级河灯",
-      "onboard_time": 1760829137,
-      "rank": 28,
-      "category": "游戏"
     },
     {
       "raw_hot": 53810,
@@ -68171,14 +68179,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 29235,
-      "num": 84534,
-      "word": "宴遇永安编剧",
-      "onboard_time": 1761064878,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 29150,
       "num": 27856,
       "word": "张艺兴五巡闹天宫",
@@ -69777,6 +69777,14 @@
       "onboard_time": 1760173940,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 18404,
+      "num": 70166,
+      "word": "乌镇戏剧节",
+      "onboard_time": 1761066497,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 18311,
