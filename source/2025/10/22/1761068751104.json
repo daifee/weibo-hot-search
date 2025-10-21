@@ -1,0 +1,410 @@
+{
+  "runTime": 1761068751104,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 93742,
+        "num": 331405,
+        "word": "知名痔疮药太宁栓正式注销",
+        "onboard_time": 1761058462,
+        "rank": 0,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 84813,
+        "num": 84813,
+        "word": "当地规劝烤肉店停止玉米做燃料",
+        "onboard_time": 1761056602,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12415,
+        "num": 68180,
+        "word": "强国梦从蓝图一步步走向现实",
+        "onboard_time": 1761055521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67119,
+        "num": 67119,
+        "word": "国乒多人退赛",
+        "onboard_time": 1761048860,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61737,
+        "num": 61737,
+        "word": "微信三大更新放出",
+        "onboard_time": 1761044421,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 102150,
+        "num": 61715,
+        "word": "宴遇永安好虐",
+        "onboard_time": 1761062900,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47187,
+        "num": 61598,
+        "word": "南极游从20万跌至5万",
+        "onboard_time": 1761056361,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67844,
+        "num": 61543,
+        "word": "宴遇永安编剧",
+        "onboard_time": 1761064878,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44254,
+        "num": 61455,
+        "word": "台湾名嘴赖岳谦说期待两岸统一",
+        "onboard_time": 1761057562,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39894,
+        "num": 61281,
+        "word": "短剧还珠格格主演阵容",
+        "onboard_time": 1761057261,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77221,
+        "num": 61193,
+        "word": "女子在直播间买到自己捐的衣服",
+        "onboard_time": 1761048080,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68327,
+        "num": 61128,
+        "word": "iPhone频繁打错字不是你手残",
+        "onboard_time": 1761049821,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 66808,
+        "num": 61097,
+        "word": "鞠婧祎 权谋女主",
+        "onboard_time": 1761061700,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62603,
+        "num": 60932,
+        "word": "江浙沪无法体面入冬",
+        "onboard_time": 1761042921,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60917,
+        "num": 60917,
+        "word": "韩国大火中国妈妈隔窗送出孩子后坠亡",
+        "onboard_time": 1761040941,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 58464,
+        "num": 58464,
+        "word": "明星代言蟹卡差到黄牛都不敢收",
+        "onboard_time": 1761048681,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56732,
+        "num": 56732,
+        "word": "宝妈每天晚来早走上20天班月薪5万",
+        "onboard_time": 1761048501,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45166,
+        "num": 56691,
+        "word": "现货黄金失守4100美元",
+        "onboard_time": 1761058642,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 36998,
+        "num": 56677,
+        "word": "河南一老板挣100万给员工分85万",
+        "onboard_time": 1761052341,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36663,
+        "num": 56609,
+        "word": "VOGUE",
+        "onboard_time": 1761048381,
+        "rank": 19,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 88795,
+        "num": 56591,
+        "word": "男友去世女子生下遗腹子想要赔偿款",
+        "onboard_time": 1761047423,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86512,
+        "num": 56511,
+        "word": "黄金",
+        "onboard_time": 1761054803,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41322,
+        "num": 56501,
+        "word": "被学生抢鸡排的校长离世",
+        "onboard_time": 1761034759,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34359,
+        "num": 56441,
+        "word": "高市早苗当选首相",
+        "onboard_time": 1761022583,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20958,
+        "num": 56400,
+        "word": "天地剑心",
+        "onboard_time": 1761046641,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34058,
+        "num": 56335,
+        "word": "特朗普暗示将承诺反对台独",
+        "onboard_time": 1761058043,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32382,
+        "num": 56323,
+        "word": "油皮摘下来的隐形眼镜",
+        "onboard_time": 1761044541,
+        "rank": 26,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 32179,
+        "num": 56257,
+        "word": "国际金价大跌原因",
+        "onboard_time": 1761046580,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18797,
+        "num": 56197,
+        "word": "宴遇永安",
+        "onboard_time": 1761042261,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29779,
+        "num": 56160,
+        "word": "LPL致敬Karsa",
+        "onboard_time": 1761058222,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29916,
+        "num": 56128,
+        "word": "林晏孤独终老",
+        "onboard_time": 1761054381,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28799,
+        "num": 56072,
+        "word": "网吧已经进化成这样了吗",
+        "onboard_time": 1761049642,
+        "rank": 31,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 25905,
+        "num": 56032,
+        "word": "高级河灯",
+        "onboard_time": 1761065357,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24873,
+        "num": 55998,
+        "word": "突然明白心理咨询师为什么贵了",
+        "onboard_time": 1761059183,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24810,
+        "num": 55960,
+        "word": "三角洲行动",
+        "onboard_time": 1761063319,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23863,
+        "num": 55897,
+        "word": "杨丞琳一天官宣两个大事",
+        "onboard_time": 1761053540,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22819,
+        "num": 55866,
+        "word": "杨幂一不小心登顶了",
+        "onboard_time": 1761044721,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22655,
+        "num": 55798,
+        "word": "及时正向反馈是个好社交习惯",
+        "onboard_time": 1761062660,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 22322,
+        "num": 55769,
+        "word": "吴石将军之子大学档案展出",
+        "onboard_time": 1761049762,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19673,
+        "num": 55730,
+        "word": "暗河传 眠息法",
+        "onboard_time": 1761068417,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21602,
+        "num": 55677,
+        "word": "发现很多人都不做美甲了",
+        "onboard_time": 1761035841,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 21319,
+        "num": 55624,
+        "word": "朋友圈和现实风格差别能有多大",
+        "onboard_time": 1761061520,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 20929,
+        "num": 55573,
+        "word": "李昀锐低眉红眼这一分钟",
+        "onboard_time": 1761060441,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20850,
+        "num": 55522,
+        "word": "金价",
+        "onboard_time": 1761056361,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19623,
+        "num": 55508,
+        "word": "新人选择花几百块租金结婚",
+        "onboard_time": 1761056061,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19567,
+        "num": 55450,
+        "word": "侯明昊的太空愿望",
+        "onboard_time": 1761066557,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18333,
+        "num": 55383,
+        "word": "广东近年发现多个新物种",
+        "onboard_time": 1761053001,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18182,
+        "num": 55331,
+        "word": "暗河传 内娱百灵鸟开会",
+        "onboard_time": 1761060141,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17892,
+        "num": 55299,
+        "word": "chiikawa特别动画",
+        "onboard_time": 1761063738,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 16274,
+        "num": 55241,
+        "word": "2026年国考报名人数超百万",
+        "onboard_time": 1761052402,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四五规划你我用奋斗实现#"
+    }
+  }
+}

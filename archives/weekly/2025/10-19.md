@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/19 00:28:53 ~ 2025/10/22 01:23:32
+本榜单时间：2025/10/19 00:28:53 ~ 2025/10/22 01:45:51
 </p>
 </blockquote>
 <p>
@@ -6561,6 +6561,12 @@ Shad0w 我们会从地狱归来的（热度：69224）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B4%E9%81%87%E6%B0%B8%E5%AE%89%E7%BC%96%E5%89%A7%23" target="weibo">
+宴遇永安编剧（热度：67844）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%96%E6%9A%96%E7%9A%84%E5%B0%8F%E7%8C%AB%E5%92%AA%E5%8F%98%E6%88%90%E4%BA%86%E5%86%B7%E5%86%B0%E5%86%B0%E7%9A%84%E9%92%B1%23" target="weibo">
 暖暖的小猫咪变成了冷冰冰的钱（热度：67704）
 </a>
@@ -6689,12 +6695,6 @@ Bin和Doran迎来生死战（热度：63760）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E4%BA%BA%20%E5%BF%BD%E7%84%B6%E4%BA%BA%23" target="weibo">
 突然人 忽然人（热度：62701）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B4%E9%81%87%E6%B0%B8%E5%AE%89%E7%BC%96%E5%89%A7%23" target="weibo">
-宴遇永安编剧（热度：62640）
 </a>
 </li>
 
@@ -7619,6 +7619,18 @@ PSG对战VKS（热度：39526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E6%97%A5%E9%9B%86%E7%8C%AB%E7%9B%92%E6%97%B6%E8%96%AA%E8%BF%87%E4%B8%87%23" target="weibo">
 今日集猫盒时薪过万（热度：20043）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%B2%B3%E4%BC%A0%20%E7%9C%A0%E6%81%AF%E6%B3%95%23" target="weibo">
+暗河传 眠息法（热度：19673）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E7%9A%84%E5%A4%AA%E7%A9%BA%E6%84%BF%E6%9C%9B%23" target="weibo">
+侯明昊的太空愿望（热度：19567）
 </a>
 </li>
 
