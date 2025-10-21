@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1761032401905,
+  "endTime": 1761035789874,
   "band_list": [
     {
       "raw_hot": 2016406,
@@ -147,6 +147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 579867,
+      "num": 1092778,
+      "word": "被学生抢鸡排的校长离世",
+      "onboard_time": 1761034759,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 545113,
       "num": 415512,
       "word": "13岁女孩目不斜视逆行闯红灯被撞",
@@ -169,6 +177,14 @@
       "onboard_time": 1761018681,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 517070,
+      "num": 517070,
+      "word": "中方回应高市早苗当选日本首相",
+      "onboard_time": 1761033140,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 511799,
@@ -363,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 356984,
+      "num": 292359,
+      "word": "刘冲回应VOGUE阵容",
+      "onboard_time": 1761031882,
+      "rank": 24,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 349639,
       "num": 990097,
       "word": "你好种地少年3定档",
@@ -377,6 +401,22 @@
       "onboard_time": 1761011719,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 331854,
+      "num": 404758,
+      "word": "短剧还珠先导片谁的DNA动了",
+      "onboard_time": 1761030321,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 331220,
+      "num": 331220,
+      "word": "阴阳师UR",
+      "onboard_time": 1761032061,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 302851,
@@ -411,6 +451,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 292390,
+      "num": 292390,
+      "word": "阿迪达斯羽绒服被指雪中飞代工",
+      "onboard_time": 1761032421,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291154,
       "num": 569763,
       "word": "荷兰寻求与中方会面",
@@ -433,14 +481,6 @@
       "onboard_time": 1760970981,
       "rank": 1,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 274032,
-      "num": 404758,
-      "word": "短剧还珠先导片谁的DNA动了",
-      "onboard_time": 1761030321,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 261712,
@@ -499,12 +539,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214350,
-      "num": 214350,
-      "word": "阴阳师UR",
-      "onboard_time": 1761032061,
-      "rank": 16,
-      "category": "游戏"
+      "raw_hot": 213471,
+      "num": 213471,
+      "word": "降温后的恶心穿搭",
+      "onboard_time": 1761034280,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 210501,
+      "num": 210501,
+      "word": "刘宇宁 拍了4个古装男主3部破万了",
+      "onboard_time": 1761033380,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 203763,
@@ -547,14 +595,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192906,
-      "num": 192906,
-      "word": "刘冲回应VOGUE阵容",
-      "onboard_time": 1761031882,
-      "rank": 24,
-      "category": "时尚,作品衍生"
-    },
-    {
       "raw_hot": 191609,
       "num": 252125,
       "word": "泽连斯基与特朗普对骂",
@@ -593,6 +633,14 @@
       "onboard_time": 1760976021,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 186590,
+      "num": 186590,
+      "word": "彭小苒不想困在八年前东宫里",
+      "onboard_time": 1761034640,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 183925,
@@ -667,6 +715,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 168453,
+      "num": 211107,
+      "word": "外交部回应特朗普称明年初访华",
+      "onboard_time": 1761034940,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 167607,
+      "num": 167607,
+      "word": "棒棒堂6人均未服兵役",
+      "onboard_time": 1761032541,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163599,
       "num": 207715,
       "word": "我是一个很幸运的人",
@@ -697,6 +761,14 @@
       "onboard_time": 1761031461,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158913,
+      "num": 158913,
+      "word": "田曦薇说睡觉没有被子会很不幸福",
+      "onboard_time": 1761032061,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 158550,
@@ -736,6 +808,14 @@
       "word": "给iPhone17Pro纹了个身",
       "onboard_time": 1760969780,
       "rank": 17,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 151326,
+      "num": 151326,
+      "word": "真我发布会",
+      "onboard_time": 1761034580,
+      "rank": 30,
       "category": "数码"
     },
     {
@@ -875,6 +955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 132278,
+      "num": 132278,
+      "word": "明日方舟",
+      "onboard_time": 1761034580,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129587,
       "num": 129587,
       "word": "马龙回复王楚钦",
@@ -923,6 +1011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123130,
+      "num": 123130,
+      "word": "美国彩民买错彩票意外中29亿元",
+      "onboard_time": 1761033261,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 122062,
       "num": 122062,
       "word": "住酒店被前台安排在尾房",
@@ -961,14 +1057,6 @@
       "onboard_time": 1760974402,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 118866,
-      "num": 118866,
-      "word": "田曦薇说睡觉没有被子会很不幸福",
-      "onboard_time": 1761032061,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 116807,
@@ -1171,6 +1259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104417,
+      "num": 151498,
+      "word": "深蓝L06安兔兔跑分第一",
+      "onboard_time": 1761034040,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 104118,
       "num": 104118,
       "word": "小城良方制片人20年就见过肖战",
@@ -1251,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101376,
+      "num": 101376,
+      "word": "淘宝 你的消费者不是华罗庚",
+      "onboard_time": 1761034700,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 101184,
       "num": 101184,
       "word": "蔚来单周销量破万",
@@ -1283,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99717,
+      "num": 145765,
+      "word": "陈奕迅代言红米",
+      "onboard_time": 1761035061,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99093,
       "num": 108915,
       "word": "韩男子12小时逃柬电诈园遭使馆拒门",
@@ -1292,7 +1404,7 @@
     },
     {
       "raw_hot": 98940,
-      "num": 199077,
+      "num": 219591,
       "word": "露营是成年人的治愈疗法",
       "onboard_time": 1761032181,
       "rank": 22,
@@ -1371,6 +1483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91084,
+      "num": 91084,
+      "word": "特朗普宣布计划于明年年初访华",
+      "onboard_time": 1761033202,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90525,
       "num": 145923,
       "word": "郑州迎入秋后第一场雪",
@@ -1393,6 +1513,22 @@
       "onboard_time": 1761030381,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 90143,
+      "num": 90143,
+      "word": "日本5年4个首相",
+      "onboard_time": 1761033860,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 88637,
+      "num": 88637,
+      "word": "体重1600斤会发生什么",
+      "onboard_time": 1761035723,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 88241,
@@ -1449,6 +1585,14 @@
       "onboard_time": 1761005842,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 86200,
+      "num": 86200,
+      "word": "日本新首相上台很难终结政治乱局",
+      "onboard_time": 1761032900,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 86068,
@@ -1635,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71359,
+      "num": 116759,
+      "word": "曝Yagao解说GEN和TES",
+      "onboard_time": 1761035241,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 71348,
       "num": 71348,
       "word": "赵丽颖直播",
@@ -1739,6 +1891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63635,
+      "num": 130160,
+      "word": "高市早苗内阁名单公布",
+      "onboard_time": 1761033741,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63607,
       "num": 147681,
       "word": "高市早苗自称安倍继承者",
@@ -1801,6 +1961,14 @@
       "onboard_time": 1760972361,
       "rank": 41,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 59664,
+      "num": 118399,
+      "word": "日本选手模仿王楚钦胜利姿势",
+      "onboard_time": 1761035541,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 58927,
@@ -1995,6 +2163,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 31563,
+      "num": 274415,
+      "word": "用镜头晒个秋",
+      "onboard_time": 1761033680,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 28569,
       "num": 65213,
       "word": "缅甸政府军突袭KK园区",
@@ -2075,6 +2251,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11742,
+      "num": 397830,
+      "word": "中国把不可能变成一定能",
+      "onboard_time": 1761035482,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11723,
       "num": 1013101,
       "word": "全球最快高铁又跑出新纪录",
@@ -2097,6 +2281,14 @@
       "onboard_time": 1760922561,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 994,
+      "num": 152720,
+      "word": "前三季度铁路发送旅客35.4亿人次",
+      "onboard_time": 1760948242,
+      "rank": 28,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2105,6 +2297,9 @@
     },
     {
       "word": "#如何科学谋划十五五#"
+    },
+    {
+      "word": "#领航中国式现代化#"
     }
   ]
 }
