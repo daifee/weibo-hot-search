@@ -1,6 +1,6 @@
 {
   "startTime": 1761064398737,
-  "endTime": 1761089100708,
+  "endTime": 1761089881681,
   "band_list": [
     {
       "raw_hot": 428280,
@@ -9,6 +9,14 @@
       "onboard_time": 1761054803,
       "rank": 20,
       "category": "财经"
+    },
+    {
+      "raw_hot": 390293,
+      "num": 154693,
+      "word": "女子在直播间买到自己捐的衣服",
+      "onboard_time": 1761048080,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 362648,
@@ -20,27 +28,35 @@
     },
     {
       "raw_hot": 358155,
-      "num": 762307,
+      "num": 865152,
       "word": "当地规劝烤肉店停止玉米做燃料",
       "onboard_time": 1761056602,
       "rank": 1,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 330525,
-      "num": 154693,
-      "word": "女子在直播间买到自己捐的衣服",
-      "onboard_time": 1761048080,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198348,
+      "raw_hot": 231831,
       "num": 119253,
       "word": "男友去世女子生下遗腹子想要赔偿款",
       "onboard_time": 1761047423,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214636,
+      "num": 119793,
+      "word": "明星代言蟹卡差到黄牛都不敢收",
+      "onboard_time": 1761048681,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199180,
+      "num": 98279,
+      "word": "金价银价急跌",
+      "onboard_time": 1761088098,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 194890,
@@ -67,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161934,
+      "num": 98068,
+      "word": "2楼下水道堵死竟掏出12米树根",
+      "onboard_time": 1761088157,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160301,
       "num": 160301,
       "word": "宝妈每天晚来早走上20天班月薪5万",
@@ -89,22 +113,6 @@
       "onboard_time": 1761057261,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 155645,
-      "num": 92743,
-      "word": "金价银价急跌",
-      "onboard_time": 1761088098,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 155428,
-      "num": 117459,
-      "word": "明星代言蟹卡差到黄牛都不敢收",
-      "onboard_time": 1761048681,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 153525,
@@ -139,20 +147,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 150808,
+      "num": 170375,
+      "word": "国乒多人退赛",
+      "onboard_time": 1761048860,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150126,
       "num": 150126,
       "word": "林晏孤独终老",
       "onboard_time": 1761054381,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149067,
-      "num": 170375,
-      "word": "国乒多人退赛",
-      "onboard_time": 1761048860,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 148320,
@@ -163,15 +171,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 127794,
-      "num": 92021,
-      "word": "2楼下水道堵死竟掏出12米树根",
-      "onboard_time": 1761088157,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117626,
+      "raw_hot": 143701,
       "num": 164763,
       "word": "特朗普暗示将承诺反对台独",
       "onboard_time": 1761058043,
@@ -179,11 +179,27 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125233,
+      "num": 125233,
+      "word": "欧冠",
+      "onboard_time": 1761088758,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117612,
       "num": 117612,
       "word": "金价",
       "onboard_time": 1761056361,
       "rank": 22,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 111983,
+      "num": 116967,
+      "word": "国际金价大跌原因",
+      "onboard_time": 1761046580,
+      "rank": 33,
       "category": "财经"
     },
     {
@@ -203,28 +219,36 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 96035,
-      "num": 116967,
-      "word": "国际金价大跌原因",
-      "onboard_time": 1761046580,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 90753,
-      "num": 90753,
+      "raw_hot": 104191,
+      "num": 97463,
       "word": "长白山回应天池仿佛煮沸的开水",
       "onboard_time": 1761088037,
       "rank": 25,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 84182,
-      "num": 84182,
-      "word": "欧冠",
-      "onboard_time": 1761088758,
-      "rank": 27,
+      "raw_hot": 101077,
+      "num": 101077,
+      "word": "阿森纳4比0马竞",
+      "onboard_time": 1761088817,
+      "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97088,
+      "num": 97088,
+      "word": "S15休赛期终于结束了",
+      "onboard_time": 1761088098,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 86541,
+      "num": 123107,
+      "word": "卢浮宫十年削减190个安保监控岗",
+      "onboard_time": 1761072854,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 82340,
@@ -267,6 +291,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 74497,
+      "num": 94410,
+      "word": "娶你这件事是我蓄谋已久的浪漫",
+      "onboard_time": 1761089118,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 74370,
       "num": 123754,
       "word": "暗河传 内娱百灵鸟开会",
@@ -283,24 +315,24 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 70895,
-      "num": 116444,
-      "word": "卢浮宫十年削减190个安保监控岗",
-      "onboard_time": 1761072854,
-      "rank": 40,
-      "category": "海外新闻"
+      "raw_hot": 70809,
+      "num": 121511,
+      "word": "吴石将军之子大学档案展出",
+      "onboard_time": 1761049762,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 70815,
-      "num": 95807,
-      "word": "S15休赛期终于结束了",
-      "onboard_time": 1761088098,
-      "rank": 17,
-      "category": "电竞"
+      "raw_hot": 68614,
+      "num": 94129,
+      "word": "春晚要这么演我可就不困了",
+      "onboard_time": 1761085875,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 67844,
-      "num": 84534,
+      "num": 94356,
       "word": "宴遇永安编剧",
       "onboard_time": 1761064878,
       "rank": 29,
@@ -315,12 +347,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 60024,
-      "num": 116787,
-      "word": "吴石将军之子大学档案展出",
-      "onboard_time": 1761049762,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 60566,
+      "num": 116174,
+      "word": "星品",
+      "onboard_time": 1761047001,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 57090,
@@ -331,12 +363,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 54609,
-      "num": 66978,
-      "word": "春晚要这么演我可就不困了",
-      "onboard_time": 1761085875,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 52722,
+      "num": 117242,
+      "word": "天地剑心",
+      "onboard_time": 1761046641,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 48122,
@@ -345,22 +377,6 @@
       "onboard_time": 1761058702,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 47751,
-      "num": 66957,
-      "word": "阿森纳4比0马竞",
-      "onboard_time": 1761088817,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 46283,
-      "num": 117242,
-      "word": "天地剑心",
-      "onboard_time": 1761046641,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 45766,
@@ -379,20 +395,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 45213,
+      "num": 93424,
+      "word": "特朗普说自己对乌克兰够好了",
+      "onboard_time": 1761077053,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45092,
       "num": 116339,
       "word": "杨丞琳一天官宣两个大事",
       "onboard_time": 1761053540,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 44927,
-      "num": 116174,
-      "word": "星品",
-      "onboard_time": 1761047001,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 44490,
@@ -403,19 +419,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 43315,
+      "num": 93369,
+      "word": "网吧已经进化成这样了吗",
+      "onboard_time": 1761049642,
+      "rank": 44,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 40514,
-      "num": 66766,
+      "num": 92585,
       "word": "李在明贴身保镖火了",
       "onboard_time": 1761044541,
       "rank": 41,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 40504,
-      "num": 66891,
-      "word": "特朗普说自己对乌克兰够好了",
-      "onboard_time": 1761077053,
-      "rank": 48,
       "category": "国际时政"
     },
     {
@@ -425,14 +441,6 @@
       "onboard_time": 1761044541,
       "rank": 40,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 39530,
-      "num": 84387,
-      "word": "网吧已经进化成这样了吗",
-      "onboard_time": 1761049642,
-      "rank": 44,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 38776,
@@ -465,6 +473,14 @@
       "onboard_time": 1761034280,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 37420,
+      "num": 92944,
+      "word": "840万凶宅遭退货后重拍价390万",
+      "onboard_time": 1761089598,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36941,
