@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1761051286228,
+  "endTime": 1761052209846,
   "band_list": [
     {
       "raw_hot": 2016406,
@@ -299,6 +299,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 455200,
+      "num": 455200,
+      "word": "孙颖莎退出蒙彼利埃冠军赛",
+      "onboard_time": 1761047241,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 453846,
       "num": 1072615,
       "word": "王楚钦多哈夺冠球台运回了先农坛",
@@ -417,14 +425,6 @@
       "onboard_time": 1760976440,
       "rank": 36,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 393467,
-      "num": 393467,
-      "word": "孙颖莎退出蒙彼利埃冠军赛",
-      "onboard_time": 1761047241,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 385170,
@@ -555,6 +555,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301892,
+      "num": 1060752,
+      "word": "退役军人去世35位战友陪他女儿长大",
+      "onboard_time": 1761044302,
+      "rank": 15,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 300529,
       "num": 1021257,
       "word": "李在明贴身保镖火了",
@@ -643,14 +651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 266134,
-      "num": 1060752,
-      "word": "退役军人去世35位战友陪他女儿长大",
-      "onboard_time": 1761044302,
-      "rank": 15,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 261712,
       "num": 200109,
       "word": "宋祖儿好久没有真情实感追一部剧了",
@@ -699,6 +699,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 236303,
+      "num": 242395,
+      "word": "iPhone频繁打错字不是你手残",
+      "onboard_time": 1761049821,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 235587,
+      "num": 235701,
+      "word": "热剧cp是演出来的不是卖出来的",
+      "onboard_time": 1761046699,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223362,
       "num": 223362,
       "word": "00后对出莫言上联获10万奖金",
@@ -731,8 +747,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212810,
+      "num": 237918,
+      "word": "宝妈每天晚来早走上20天班月薪5万",
+      "onboard_time": 1761048501,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212018,
-      "num": 212018,
+      "num": 212084,
       "word": "胡连馨还珠女主",
       "onboard_time": 1761048080,
       "rank": 24,
@@ -755,20 +779,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 203686,
-      "num": 237918,
-      "word": "宝妈每天晚来早走上20天班月薪5万",
-      "onboard_time": 1761048501,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 202689,
       "num": 1285716,
       "word": "我下班了不说了",
       "onboard_time": 1761035841,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 200540,
+      "num": 212770,
+      "word": "女子在直播间买到自己捐的衣服",
+      "onboard_time": 1761048080,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200273,
@@ -817,14 +841,6 @@
       "onboard_time": 1761036742,
       "rank": 7,
       "category": "数码"
-    },
-    {
-      "raw_hot": 191909,
-      "num": 211988,
-      "word": "女子在直播间买到自己捐的衣服",
-      "onboard_time": 1761048080,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191609,
@@ -883,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183566,
+      "num": 212272,
+      "word": "星品",
+      "onboard_time": 1761047001,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181995,
       "num": 181995,
       "word": "参观胖东来学费每人2万",
@@ -897,14 +921,6 @@
       "onboard_time": 1761031040,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178344,
-      "num": 242395,
-      "word": "iPhone频繁打错字不是你手残",
-      "onboard_time": 1761049821,
-      "rank": 8,
-      "category": "数码"
     },
     {
       "raw_hot": 176914,
@@ -1003,6 +1019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163032,
+      "num": 212003,
+      "word": "孔雪儿有效摘面纱",
+      "onboard_time": 1761049401,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162391,
       "num": 162391,
       "word": "多款知名进口药将退出国内市场",
@@ -1057,6 +1081,14 @@
       "onboard_time": 1761010460,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155848,
+      "num": 212594,
+      "word": "国乒多人退赛",
+      "onboard_time": 1761048860,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 154886,
@@ -1124,7 +1156,7 @@
     },
     {
       "raw_hot": 149796,
-      "num": 211513,
+      "num": 211663,
       "word": "VOGUE",
       "onboard_time": 1760961022,
       "rank": 46,
@@ -1147,20 +1179,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 146093,
+      "num": 211942,
+      "word": "任嘉伦预测NBA总冠军",
+      "onboard_time": 1761051380,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144362,
       "num": 144362,
       "word": "milkyway被曝私联粉丝",
       "onboard_time": 1761022942,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 144252,
-      "num": 210970,
-      "word": "孔雪儿有效摘面纱",
-      "onboard_time": 1761049401,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 142831,
@@ -1228,7 +1260,7 @@
     },
     {
       "raw_hot": 136234,
-      "num": 211360,
+      "num": 211780,
       "word": "吴石将军之子大学档案展出",
       "onboard_time": 1761049762,
       "rank": 28,
@@ -1307,14 +1339,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131858,
-      "num": 211212,
-      "word": "国乒多人退赛",
-      "onboard_time": 1761048860,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 129633,
       "num": 558660,
       "word": "国际金价大跌原因",
@@ -1331,28 +1355,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129321,
-      "num": 235701,
-      "word": "热剧cp是演出来的不是卖出来的",
-      "onboard_time": 1761046699,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129278,
       "num": 129278,
       "word": "冷空气将进一步南下",
       "onboard_time": 1761018021,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128084,
-      "num": 210430,
-      "word": "星品",
-      "onboard_time": 1761047001,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 127096,
@@ -1420,7 +1428,7 @@
     },
     {
       "raw_hot": 119452,
-      "num": 210386,
+      "num": 211354,
       "word": "暗河传4大男主选角审美",
       "onboard_time": 1761050721,
       "rank": 34,
@@ -1460,7 +1468,7 @@
     },
     {
       "raw_hot": 117894,
-      "num": 210090,
+      "num": 210571,
       "word": "现货黄金跌破4220美元",
       "onboard_time": 1761050301,
       "rank": 35,
@@ -1611,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109536,
+      "num": 211301,
+      "word": "流星雨",
+      "onboard_time": 1761047661,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109337,
       "num": 1247071,
       "word": "VOGUE发了吉克隽逸未修图",
@@ -1747,6 +1763,14 @@
       "category": "情感,科学科普"
     },
     {
+      "raw_hot": 103171,
+      "num": 211420,
+      "word": "九号实力造车匠心拍片",
+      "onboard_time": 1761052041,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103052,
       "num": 200260,
       "word": "京东国补来了",
@@ -1777,6 +1801,14 @@
       "onboard_time": 1761005842,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 102200,
+      "num": 211233,
+      "word": "河南一老板招35岁以上宝妈月休10天",
+      "onboard_time": 1761051981,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102084,
@@ -1956,7 +1988,7 @@
     },
     {
       "raw_hot": 95545,
-      "num": 209895,
+      "num": 211161,
       "word": "中国股票突传利好",
       "onboard_time": 1761047841,
       "rank": 36,
@@ -2028,7 +2060,7 @@
     },
     {
       "raw_hot": 93267,
-      "num": 209368,
+      "num": 210519,
       "word": "INFP的恐怖天赋",
       "onboard_time": 1761047781,
       "rank": 39,
@@ -2147,6 +2179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89719,
+      "num": 211035,
+      "word": "故宫角楼与秋叶同框有多惊艳",
+      "onboard_time": 1761052041,
+      "rank": 38,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 88742,
       "num": 130126,
       "word": "新疆河水一半翡翠一半牛奶",
@@ -2225,6 +2265,14 @@
       "onboard_time": 1761020781,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86575,
+      "num": 232870,
+      "word": "水龙吟太有野心了",
+      "onboard_time": 1761049099,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 86330,
@@ -2427,6 +2475,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 79423,
+      "num": 210689,
+      "word": "LGDNBW年总遗憾淘汰",
+      "onboard_time": 1761051501,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79380,
       "num": 163286,
       "word": "京东采销破百吋电视送装难题",
@@ -2499,6 +2555,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 75441,
+      "num": 210467,
+      "word": "长白山天池开锅了",
+      "onboard_time": 1761052102,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75107,
       "num": 75107,
       "word": "按一下拿吸管的快乐快消失了",
@@ -2521,14 +2585,6 @@
       "onboard_time": 1760972902,
       "rank": 33,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 74000,
-      "num": 208212,
-      "word": "流星雨",
-      "onboard_time": 1761047661,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73559,
@@ -2561,6 +2617,14 @@
       "onboard_time": 1761011599,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71658,
+      "num": 210409,
+      "word": "一分钟视频创作季",
+      "onboard_time": 1761051561,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 71348,
@@ -2697,14 +2761,6 @@
       "onboard_time": 1761023360,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 63347,
-      "num": 232870,
-      "word": "水龙吟太有野心了",
-      "onboard_time": 1761049099,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 63158,
@@ -3043,7 +3099,7 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 34509,
+      "raw_hot": 34710,
       "num": 231283,
       "word": "京东品鉴直播间教你选空调",
       "onboard_time": 1761048562,
@@ -3081,6 +3137,14 @@
       "onboard_time": 1760981356,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23669,
+      "num": 210999,
+      "word": "荒野之国创始人乔小刀回应争议",
+      "onboard_time": 1761051621,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22589,

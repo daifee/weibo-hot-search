@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761051286228,
+  "endTime": 1761052209846,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -1019,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 455200,
+      "num": 455200,
+      "word": "孙颖莎退出蒙彼利埃冠军赛",
+      "onboard_time": 1761047241,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 454179,
       "num": 454179,
       "word": "沈佳润音乐节没报备版美美Sunday",
@@ -1321,14 +1329,6 @@
       "onboard_time": 1760976440,
       "rank": 36,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 393467,
-      "num": 393467,
-      "word": "孙颖莎退出蒙彼利埃冠军赛",
-      "onboard_time": 1761047241,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 390246,
@@ -1747,6 +1747,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 301892,
+      "num": 1060752,
+      "word": "退役军人去世35位战友陪他女儿长大",
+      "onboard_time": 1761044302,
+      "rank": 15,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 301612,
       "num": 301612,
       "word": "卢浮宫窃贼作案视频泄露",
@@ -1969,14 +1977,6 @@
       "onboard_time": 1760838740,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266134,
-      "num": 1060752,
-      "word": "退役军人去世35位战友陪他女儿长大",
-      "onboard_time": 1761044302,
-      "rank": 15,
-      "category": "正能量"
     },
     {
       "raw_hot": 266107,
@@ -2203,12 +2203,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236303,
+      "num": 242395,
+      "word": "iPhone频繁打错字不是你手残",
+      "onboard_time": 1761049821,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 235904,
       "num": 204409,
       "word": "嫁到韩国的女子晒婆婆做的家常菜",
       "onboard_time": 1760862560,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 235587,
+      "num": 235701,
+      "word": "热剧cp是演出来的不是卖出来的",
+      "onboard_time": 1761046699,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 235497,
@@ -2355,8 +2371,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 212810,
+      "num": 237918,
+      "word": "宝妈每天晚来早走上20天班月薪5万",
+      "onboard_time": 1761048501,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212018,
-      "num": 212018,
+      "num": 212084,
       "word": "胡连馨还珠女主",
       "onboard_time": 1761048080,
       "rank": 24,
@@ -2483,14 +2507,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 203686,
-      "num": 237918,
-      "word": "宝妈每天晚来早走上20天班月薪5万",
-      "onboard_time": 1761048501,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 203288,
       "num": 203288,
       "word": "2025年聚星名人赛杭州站",
@@ -2545,6 +2561,14 @@
       "onboard_time": 1760943262,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200540,
+      "num": 212770,
+      "word": "女子在直播间买到自己捐的衣服",
+      "onboard_time": 1761048080,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200451,
@@ -2755,14 +2779,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 191909,
-      "num": 211988,
-      "word": "女子在直播间买到自己捐的衣服",
-      "onboard_time": 1761048080,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 190509,
       "num": 190509,
       "word": "陈小春谈跟儿子交流太少落泪",
@@ -2923,6 +2939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 183566,
+      "num": 212272,
+      "word": "星品",
+      "onboard_time": 1761047001,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183373,
       "num": 183373,
       "word": "伊朗突发恐怖袭击",
@@ -3001,14 +3025,6 @@
       "onboard_time": 1760879421,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178344,
-      "num": 242395,
-      "word": "iPhone频繁打错字不是你手残",
-      "onboard_time": 1761049821,
-      "rank": 8,
-      "category": "数码"
     },
     {
       "raw_hot": 176942,
@@ -3387,6 +3403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 163032,
+      "num": 212003,
+      "word": "孔雪儿有效摘面纱",
+      "onboard_time": 1761049401,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162391,
       "num": 234318,
       "word": "多款知名进口药将退出国内市场",
@@ -3553,6 +3577,14 @@
       "onboard_time": 1760935402,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155848,
+      "num": 212594,
+      "word": "国乒多人退赛",
+      "onboard_time": 1761048860,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 155178,
@@ -3835,6 +3867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146093,
+      "num": 211942,
+      "word": "任嘉伦预测NBA总冠军",
+      "onboard_time": 1761051380,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145324,
       "num": 145324,
       "word": "水龙吟江湖因果版预告",
@@ -3881,14 +3921,6 @@
       "onboard_time": 1761022942,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 144252,
-      "num": 210970,
-      "word": "孔雪儿有效摘面纱",
-      "onboard_time": 1761049401,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 143788,
@@ -4076,7 +4108,7 @@
     },
     {
       "raw_hot": 136234,
-      "num": 211360,
+      "num": 211780,
       "word": "吴石将军之子大学档案展出",
       "onboard_time": 1761049762,
       "rank": 28,
@@ -4275,14 +4307,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 131858,
-      "num": 211212,
-      "word": "国乒多人退赛",
-      "onboard_time": 1761048860,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131855,
       "num": 131855,
       "word": "那艺娜回应",
@@ -4435,14 +4459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129321,
-      "num": 235701,
-      "word": "热剧cp是演出来的不是卖出来的",
-      "onboard_time": 1761046699,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129278,
       "num": 129278,
       "word": "冷空气将进一步南下",
@@ -4481,14 +4497,6 @@
       "onboard_time": 1760970801,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128084,
-      "num": 210430,
-      "word": "星品",
-      "onboard_time": 1761047001,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 127902,
@@ -4908,7 +4916,7 @@
     },
     {
       "raw_hot": 119452,
-      "num": 210386,
+      "num": 211354,
       "word": "暗河传4大男主选角审美",
       "onboard_time": 1761050721,
       "rank": 34,
@@ -5036,7 +5044,7 @@
     },
     {
       "raw_hot": 117894,
-      "num": 210090,
+      "num": 210571,
       "word": "现货黄金跌破4220美元",
       "onboard_time": 1761050301,
       "rank": 35,
@@ -5523,6 +5531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 109536,
+      "num": 211301,
+      "word": "流星雨",
+      "onboard_time": 1761047661,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109403,
       "num": 109403,
       "word": "双十一购物车",
@@ -5939,6 +5955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103171,
+      "num": 211420,
+      "word": "九号实力造车匠心拍片",
+      "onboard_time": 1761052041,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 103167,
       "num": 103167,
       "word": "友人称杨振宁没能二度获诺奖是遗憾",
@@ -6033,6 +6057,14 @@
       "onboard_time": 1761005842,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 102200,
+      "num": 211233,
+      "word": "河南一老板招35岁以上宝妈月休10天",
+      "onboard_time": 1761051981,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102084,
@@ -6524,7 +6556,7 @@
     },
     {
       "raw_hot": 95545,
-      "num": 209895,
+      "num": 211161,
       "word": "中国股票突传利好",
       "onboard_time": 1761047841,
       "rank": 36,
@@ -6756,7 +6788,7 @@
     },
     {
       "raw_hot": 93267,
-      "num": 209368,
+      "num": 210519,
       "word": "INFP的恐怖天赋",
       "onboard_time": 1761047781,
       "rank": 39,
@@ -7051,6 +7083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89719,
+      "num": 211035,
+      "word": "故宫角楼与秋叶同框有多惊艳",
+      "onboard_time": 1761052041,
+      "rank": 38,
+      "category": "民生新闻,旅游"
+    },
+    {
       "raw_hot": 89684,
       "num": 91463,
       "word": "王楚钦将捧花扔向观众席",
@@ -7281,6 +7321,14 @@
       "onboard_time": 1761020781,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86575,
+      "num": 232870,
+      "word": "水龙吟太有野心了",
+      "onboard_time": 1761049099,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 86318,
@@ -7827,6 +7875,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79423,
+      "num": 210689,
+      "word": "LGDNBW年总遗憾淘汰",
+      "onboard_time": 1761051501,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79380,
       "num": 163286,
       "word": "京东采销破百吋电视送装难题",
@@ -8091,6 +8147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 75441,
+      "num": 210467,
+      "word": "长白山天池开锅了",
+      "onboard_time": 1761052102,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75271,
       "num": 261577,
       "word": "盗窃者伪装成施工人员进卢浮宫",
@@ -8137,14 +8201,6 @@
       "onboard_time": 1760793202,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 74000,
-      "num": 208212,
-      "word": "流星雨",
-      "onboard_time": 1761047661,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 73559,
@@ -8241,6 +8297,14 @@
       "onboard_time": 1760838380,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 71658,
+      "num": 210409,
+      "word": "一分钟视频创作季",
+      "onboard_time": 1761051561,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 71356,
@@ -8537,14 +8601,6 @@
       "onboard_time": 1761023360,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 63347,
-      "num": 232870,
-      "word": "水龙吟太有野心了",
-      "onboard_time": 1761049099,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 63273,
@@ -9339,20 +9395,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34710,
+      "num": 231283,
+      "word": "京东品鉴直播间教你选空调",
+      "onboard_time": 1761048562,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 34548,
       "num": 411926,
       "word": "找到了戴冷帽不塌头型的方法",
       "onboard_time": 1760966902,
       "rank": 36,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 34509,
-      "num": 231283,
-      "word": "京东品鉴直播间教你选空调",
-      "onboard_time": 1761048562,
-      "rank": 19,
-      "category": "互联网"
     },
     {
       "raw_hot": 33623,
@@ -9593,6 +9649,14 @@
       "onboard_time": 1760813055,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23669,
+      "num": 210999,
+      "word": "荒野之国创始人乔小刀回应争议",
+      "onboard_time": 1761051621,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23329,
