@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761060418903,
+  "endTime": 1761061254668,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -667,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 575295,
+      "num": 1092047,
+      "word": "当地规劝烤肉店停止玉米做燃料",
+      "onboard_time": 1761056602,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 574895,
       "num": 1059642,
       "word": "匪徒从卢浮宫逃跑时掉落皇冠",
@@ -907,14 +915,6 @@
       "category": "海外新闻,财经"
     },
     {
-      "raw_hot": 491039,
-      "num": 1078566,
-      "word": "当地规劝烤肉店停止玉米做燃料",
-      "onboard_time": 1761056602,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 488753,
       "num": 1075513,
       "word": "摇粒绒怎么穿能不显胖",
@@ -993,6 +993,14 @@
       "onboard_time": 1760838800,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 465251,
+      "num": 208851,
+      "word": "金价",
+      "onboard_time": 1760848579,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 461311,
@@ -1123,14 +1131,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 442068,
-      "num": 208851,
-      "word": "金价",
-      "onboard_time": 1760848579,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 441124,
       "num": 441124,
       "word": "卢浮宫找回一件被盗珠宝",
@@ -1180,7 +1180,7 @@
     },
     {
       "raw_hot": 434975,
-      "num": 211887,
+      "num": 221384,
       "word": "林晏孤独终老",
       "onboard_time": 1761054381,
       "rank": 44,
@@ -1531,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362898,
+      "num": 300807,
+      "word": "王楚钦樊振东陪练许昕张继科",
+      "onboard_time": 1761057982,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356984,
       "num": 1288601,
       "word": "刘冲回应VOGUE阵容",
@@ -1875,6 +1883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 298133,
+      "num": 276442,
+      "word": "短剧还珠格格主演阵容",
+      "onboard_time": 1761057261,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 297258,
       "num": 1059333,
       "word": "iOS26液态玻璃效果能关了",
@@ -2025,14 +2041,6 @@
       "onboard_time": 1760866461,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 274039,
-      "num": 274039,
-      "word": "王楚钦樊振东陪练许昕张继科",
-      "onboard_time": 1761057982,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 272127,
@@ -2299,14 +2307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 236363,
-      "num": 236363,
-      "word": "短剧还珠格格主演阵容",
-      "onboard_time": 1761057261,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 236356,
       "num": 227074,
       "word": "李一桐回应美人余造型",
@@ -2403,8 +2403,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 221839,
-      "num": 221839,
+      "raw_hot": 222315,
+      "num": 222315,
       "word": "知名痔疮药太宁栓正式注销",
       "onboard_time": 1761058462,
       "rank": 8,
@@ -4083,6 +4083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140824,
+      "num": 221932,
+      "word": "台湾名嘴赖岳谦说期待两岸统一",
+      "onboard_time": 1761057562,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 140385,
       "num": 413409,
       "word": "清融状态",
@@ -4593,14 +4601,6 @@
       "onboard_time": 1760867600,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128511,
-      "num": 221518,
-      "word": "台湾名嘴赖岳谦说期待两岸统一",
-      "onboard_time": 1761057562,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 128417,
@@ -5673,6 +5673,14 @@
       "onboard_time": 1760938580,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 109532,
+      "num": 175698,
+      "word": "李昀锐低眉红眼这一分钟",
+      "onboard_time": 1761060441,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 109513,
@@ -8739,6 +8747,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 66261,
+      "num": 196028,
+      "word": "暗河传 内娱百灵鸟开会",
+      "onboard_time": 1761060141,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65940,
       "num": 82797,
       "word": "VOGUE回应化妆室在马圈里",
@@ -8777,14 +8793,6 @@
       "onboard_time": 1760943742,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 64618,
-      "num": 196028,
-      "word": "暗河传 内娱百灵鸟开会",
-      "onboard_time": 1761060141,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 64183,
@@ -8865,6 +8873,14 @@
       "onboard_time": 1760962160,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 62701,
+      "num": 174266,
+      "word": "突然人 忽然人",
+      "onboard_time": 1761060681,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 62636,
@@ -8953,6 +8969,14 @@
       "onboard_time": 1761055401,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 60624,
+      "num": 174157,
+      "word": "刘宇宁别看我只是一只羊",
+      "onboard_time": 1761060500,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 60535,
@@ -9171,6 +9195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 55778,
+      "num": 173807,
+      "word": "周雅琴掉木",
+      "onboard_time": 1761061040,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55177,
       "num": 1026944,
       "word": "成毅冰雪心动瞬间",
@@ -9233,6 +9265,14 @@
       "onboard_time": 1760865202,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52757,
+      "num": 173478,
+      "word": "全运会混剪短片主打一个提气",
+      "onboard_time": 1761061040,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 52226,
@@ -9443,6 +9483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44390,
+      "num": 221110,
+      "word": "未来的中国很酷",
+      "onboard_time": 1761059962,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44098,
       "num": 109451,
       "word": "高市早苗曾叫嚣台湾有事日本必入",
@@ -9584,14 +9632,6 @@
       "word": "纽约时报发文缅怀杨振宁",
       "onboard_time": 1760930961,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38360,
-      "num": 216476,
-      "word": "未来的中国很酷",
-      "onboard_time": 1761059962,
-      "rank": 10,
       "category": "民生新闻"
     },
     {

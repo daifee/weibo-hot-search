@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 23:26:58
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 23:40:54
 </p>
 </blockquote>
 <p>
@@ -4617,6 +4617,12 @@ Ning浴室摔伤（热度：586285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E8%A7%84%E5%8A%9D%E7%83%A4%E8%82%89%E5%BA%97%E5%81%9C%E6%AD%A2%E7%8E%89%E7%B1%B3%E5%81%9A%E7%87%83%E6%96%99%23" target="weibo">
+当地规劝烤肉店停止玉米做燃料（热度：575295）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%AA%E5%BE%92%E4%BB%8E%E5%8D%A2%E6%B5%AE%E5%AE%AB%E9%80%83%E8%B7%91%E6%97%B6%E6%8E%89%E8%90%BD%E7%9A%87%E5%86%A0%23" target="weibo">
 匪徒从卢浮宫逃跑时掉落皇冠（热度：574895）
 </a>
@@ -5963,12 +5969,6 @@ iPhone的一生要经历三次死亡（热度：494807）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%A9%AC%E6%80%9D%E7%BA%AF%E8%AF%B4%E7%9A%84%E8%BF%99%E4%B8%AA%E4%BA%BA%E6%98%AF%E6%9D%A8%E7%B4%AB%23" target="weibo">
 原来马思纯说的这个人是杨紫（热度：491167）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E8%A7%84%E5%8A%9D%E7%83%A4%E8%82%89%E5%BA%97%E5%81%9C%E6%AD%A2%E7%8E%89%E7%B1%B3%E5%81%9A%E7%87%83%E6%96%99%23" target="weibo">
-当地规劝烤肉店停止玉米做燃料（热度：491039）
 </a>
 </li>
 
