@@ -1,0 +1,410 @@
+{
+  "runTime": 1761053993664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 342086,
+        "num": 1054733,
+        "word": "微信三大更新放出",
+        "onboard_time": 1761044421,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 368575,
+        "num": 368575,
+        "word": "iPhone频繁打错字不是你手残",
+        "onboard_time": 1761049821,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27564,
+        "num": 300678,
+        "word": "中国把不可能变成一定能",
+        "onboard_time": 1761035482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 443298,
+        "num": 283586,
+        "word": "国乒多人退赛",
+        "onboard_time": 1761048860,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256780,
+        "num": 256780,
+        "word": "孙颖莎退出蒙彼利埃冠军赛",
+        "onboard_time": 1761047241,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225456,
+        "num": 225456,
+        "word": "流星雨",
+        "onboard_time": 1761047661,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214402,
+        "num": 214402,
+        "word": "退役军人去世35位战友陪他女儿长大",
+        "onboard_time": 1761044302,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 180885,
+        "num": 214401,
+        "word": "高市早苗当选首相",
+        "onboard_time": 1761022583,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160818,
+        "num": 214389,
+        "word": "李在明贴身保镖火了",
+        "onboard_time": 1761044541,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229844,
+        "num": 214363,
+        "word": "热剧cp是演出来的不是卖出来的",
+        "onboard_time": 1761046699,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335213,
+        "num": 214356,
+        "word": "江浙沪无法体面入冬",
+        "onboard_time": 1761042921,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287844,
+        "num": 214340,
+        "word": "明星代言蟹卡差到黄牛都不敢收",
+        "onboard_time": 1761048681,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271615,
+        "num": 214323,
+        "word": "韩国大火中国妈妈隔窗送出孩子后坠亡",
+        "onboard_time": 1761040941,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 269684,
+        "num": 214318,
+        "word": "女子在直播间买到自己捐的衣服",
+        "onboard_time": 1761048080,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237782,
+        "num": 214300,
+        "word": "星品",
+        "onboard_time": 1761047001,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199665,
+        "num": 214287,
+        "word": "宝妈每天晚来早走上20天班月薪5万",
+        "onboard_time": 1761048501,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117715,
+        "num": 214272,
+        "word": "天地剑心",
+        "onboard_time": 1761046641,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77261,
+        "num": 214265,
+        "word": "宴遇永安",
+        "onboard_time": 1761042261,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197729,
+        "num": 214250,
+        "word": "降温后的恶心穿搭",
+        "onboard_time": 1761034280,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35524,
+        "num": 214243,
+        "word": "九号实力造车匠心拍片",
+        "onboard_time": 1761052041,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334462,
+        "num": 214226,
+        "word": "男友去世女子生下遗腹子想要赔偿款",
+        "onboard_time": 1761047423,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268599,
+        "num": 214215,
+        "word": "被学生抢鸡排的校长离世",
+        "onboard_time": 1761034759,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157174,
+        "num": 214193,
+        "word": "胡连馨还珠女主",
+        "onboard_time": 1761048080,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151024,
+        "num": 214183,
+        "word": "杨丞琳一天官宣两个大事",
+        "onboard_time": 1761053540,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137198,
+        "num": 214176,
+        "word": "广东近年发现多个新物种",
+        "onboard_time": 1761053001,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135862,
+        "num": 214159,
+        "word": "发现很多人都不做美甲了",
+        "onboard_time": 1761035841,
+        "rank": 25,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 123833,
+        "num": 214140,
+        "word": "李昀锐角色年龄跨度好大",
+        "onboard_time": 1761053121,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121855,
+        "num": 214136,
+        "word": "VOGUE",
+        "onboard_time": 1761048381,
+        "rank": 27,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 115617,
+        "num": 214119,
+        "word": "国际金价大跌原因",
+        "onboard_time": 1761046580,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96576,
+        "num": 214102,
+        "word": "孔雪儿有效摘面纱",
+        "onboard_time": 1761049401,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96498,
+        "num": 214094,
+        "word": "吴石将军之子大学档案展出",
+        "onboard_time": 1761049762,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95981,
+        "num": 214077,
+        "word": "2026年国考报名人数超百万",
+        "onboard_time": 1761052402,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 93553,
+        "num": 214070,
+        "word": "水龙吟太有野心了",
+        "onboard_time": 1761049099,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88229,
+        "num": 214055,
+        "word": "五角大楼延用你妈式回答",
+        "onboard_time": 1761045861,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83473,
+        "num": 214042,
+        "word": "被抢鸡排校长离世有1千多人送别",
+        "onboard_time": 1761039622,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80352,
+        "num": 214022,
+        "word": "中国股票突传利好",
+        "onboard_time": 1761047841,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80168,
+        "num": 214013,
+        "word": "河南一老板挣100万给员工分85万",
+        "onboard_time": 1761052341,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78305,
+        "num": 213996,
+        "word": "孙颖莎长了鲨鱼角",
+        "onboard_time": 1761041181,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71485,
+        "num": 213985,
+        "word": "越南副部长被爆访韩期间性侵韩公务员",
+        "onboard_time": 1761036441,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 38414,
+        "num": 213972,
+        "word": "16岁文淇演的孕妇",
+        "onboard_time": 1761053241,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71000,
+        "num": 213959,
+        "word": "终于有设计师懂我了",
+        "onboard_time": 1761052700,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70748,
+        "num": 213953,
+        "word": "现货黄金跌破4220美元",
+        "onboard_time": 1761050301,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118138,
+        "num": 213934,
+        "word": "暗河传4大男主选角审美",
+        "onboard_time": 1761050721,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64456,
+        "num": 213916,
+        "word": "任嘉伦预测NBA总冠军",
+        "onboard_time": 1761051380,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64246,
+        "num": 213909,
+        "word": "Faker和Keria给历届S冠排名",
+        "onboard_time": 1761040702,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62728,
+        "num": 213892,
+        "word": "网吧已经进化成这样了吗",
+        "onboard_time": 1761049642,
+        "rank": 45,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 62636,
+        "num": 213881,
+        "word": "今晚猎户座流星雨迎极大",
+        "onboard_time": 1761053181,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61761,
+        "num": 213860,
+        "word": "苏暮雨舔一下嘴巴能把自己毒死",
+        "onboard_time": 1761053602,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58600,
+        "num": 213848,
+        "word": "金价大涨影响年轻人结婚",
+        "onboard_time": 1761028221,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54304,
+        "num": 213837,
+        "word": "杨幂一不小心登顶了",
+        "onboard_time": 1761044721,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航中国式现代化#"
+    }
+  }
+}
