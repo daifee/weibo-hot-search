@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761045733425,
+  "endTime": 1761046618394,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -227,6 +227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1000675,
+      "num": 1000675,
+      "word": "VOGUE请假阵容",
+      "onboard_time": 1761042801,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 995617,
       "num": 455383,
       "word": "网传何穗前夫参加过再见爱人",
@@ -329,14 +337,6 @@
       "onboard_time": 1761040941,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 830814,
-      "num": 830814,
-      "word": "VOGUE请假阵容",
-      "onboard_time": 1761042801,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 808731,
@@ -571,6 +571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 686452,
+      "num": 686452,
+      "word": "江浙沪无法体面入冬",
+      "onboard_time": 1761042921,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 686354,
       "num": 100600,
       "word": "任嘉伦",
@@ -729,14 +737,6 @@
       "onboard_time": 1760876183,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 552290,
-      "num": 552290,
-      "word": "江浙沪无法体面入冬",
-      "onboard_time": 1761042921,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 552089,
@@ -1259,6 +1259,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 403248,
+      "num": 1101997,
+      "word": "微信三大更新放出",
+      "onboard_time": 1761044421,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 401419,
       "num": 1284506,
       "word": "阿宽红油面皮里发现印度谷螟幼虫",
@@ -1537,6 +1545,14 @@
       "onboard_time": 1760837420,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 337726,
+      "num": 1045895,
+      "word": "孙颖莎长了鲨鱼角",
+      "onboard_time": 1761041181,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 333409,
@@ -1833,14 +1849,6 @@
       "onboard_time": 1760865801,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 281545,
-      "num": 956541,
-      "word": "孙颖莎长了鲨鱼角",
-      "onboard_time": 1761041181,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 281414,
@@ -2236,7 +2244,7 @@
     },
     {
       "raw_hot": 220447,
-      "num": 220447,
+      "num": 583753,
       "word": "Faker和Keria给历届S冠排名",
       "onboard_time": 1761040702,
       "rank": 22,
@@ -2249,6 +2257,14 @@
       "onboard_time": 1760881283,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 218957,
+      "num": 586755,
+      "word": "龚俊剧粉去哪了",
+      "onboard_time": 1761045320,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 218294,
@@ -2547,6 +2563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 197231,
+      "num": 578996,
+      "word": "WTT蒙彼利埃冠军赛最新参赛名单",
+      "onboard_time": 1761046280,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196299,
       "num": 253551,
       "word": "西卡预测TES零封GEN",
@@ -2627,14 +2651,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 194571,
-      "num": 1101997,
-      "word": "微信三大更新放出",
-      "onboard_time": 1761044421,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 193300,
       "num": 193300,
       "word": "公务员非铁饭碗须遵守基本工作纪律",
@@ -2705,6 +2721,14 @@
       "onboard_time": 1760976621,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 189377,
+      "num": 1060752,
+      "word": "退役军人去世35位战友陪他女儿长大",
+      "onboard_time": 1761044302,
+      "rank": 15,
+      "category": "正能量"
     },
     {
       "raw_hot": 188559,
@@ -2924,7 +2948,7 @@
     },
     {
       "raw_hot": 176914,
-      "num": 305301,
+      "num": 582210,
       "word": "宴遇永安大结局",
       "onboard_time": 1761042020,
       "rank": 9,
@@ -3012,7 +3036,7 @@
     },
     {
       "raw_hot": 173743,
-      "num": 150041,
+      "num": 581618,
       "word": "抢鸡排学生想把鸡排还给校长",
       "onboard_time": 1761040822,
       "rank": 25,
@@ -3363,14 +3387,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 159405,
-      "num": 288303,
-      "word": "退役军人去世35位战友陪他女儿长大",
-      "onboard_time": 1761044302,
-      "rank": 15,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 158930,
       "num": 158930,
       "word": "日本偶遇章子怡带孩子",
@@ -3617,6 +3633,14 @@
       "onboard_time": 1760962040,
       "rank": 20,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 150594,
+      "num": 1026906,
+      "word": "红石榴餐厅定档",
+      "onboard_time": 1761042020,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 150571,
@@ -3963,14 +3987,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 136327,
-      "num": 302909,
-      "word": "红石榴餐厅定档",
-      "onboard_time": 1761042020,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136200,
       "num": 136200,
       "word": "南通替补门将神了",
@@ -4044,7 +4060,7 @@
     },
     {
       "raw_hot": 134271,
-      "num": 142897,
+      "num": 567954,
       "word": "杉杉集团重整突变",
       "onboard_time": 1761044661,
       "rank": 22,
@@ -4380,7 +4396,7 @@
     },
     {
       "raw_hot": 127096,
-      "num": 130189,
+      "num": 560003,
       "word": "其实你不需要买很多冬装",
       "onboard_time": 1761040941,
       "rank": 35,
@@ -4627,14 +4643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123379,
-      "num": 123379,
-      "word": "龚俊剧粉去哪了",
-      "onboard_time": 1761045320,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122864,
       "num": 122864,
       "word": "请查收马龙的生日回信",
@@ -4705,6 +4713,14 @@
       "onboard_time": 1760854580,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121027,
+      "num": 1021257,
+      "word": "李在明贴身保镖火了",
+      "onboard_time": 1761044541,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120946,
@@ -4812,7 +4828,7 @@
     },
     {
       "raw_hot": 118911,
-      "num": 294653,
+      "num": 592341,
       "word": "宴遇永安",
       "onboard_time": 1760876301,
       "rank": 42,
@@ -4953,6 +4969,14 @@
       "onboard_time": 1761011900,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116685,
+      "num": 578144,
+      "word": "大豆被中国人开发得好彻底",
+      "onboard_time": 1761045022,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 116599,
@@ -5459,14 +5483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 107863,
-      "num": 107863,
-      "word": "大豆被中国人开发得好彻底",
-      "onboard_time": 1761045022,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 107800,
       "num": 343724,
       "word": "卢浮宫窃贼恐很难销赃",
@@ -5500,7 +5516,7 @@
     },
     {
       "raw_hot": 107219,
-      "num": 130134,
+      "num": 566035,
       "word": "金银双双下跌",
       "onboard_time": 1761042381,
       "rank": 38,
@@ -6083,6 +6099,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 99927,
+      "num": 573122,
+      "word": "看见一个绝望的射手",
+      "onboard_time": 1761046101,
+      "rank": 36,
+      "category": "游戏,幽默"
+    },
+    {
       "raw_hot": 99717,
       "num": 1262595,
       "word": "陈奕迅代言红米",
@@ -6468,7 +6492,7 @@
     },
     {
       "raw_hot": 93942,
-      "num": 93942,
+      "num": 566933,
       "word": "原来孕妇不能睡电热毯",
       "onboard_time": 1761044302,
       "rank": 33,
@@ -6979,6 +7003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88228,
+      "num": 563776,
+      "word": "被抢鸡排校长随身带糖和零食给学生",
+      "onboard_time": 1761045561,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88214,
       "num": 88214,
       "word": "清华设立杨振宁缅怀室接受吊唁",
@@ -7019,14 +7051,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 87535,
-      "num": 87534,
-      "word": "被抢鸡排校长随身带糖和零食给学生",
-      "onboard_time": 1761045561,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87488,
       "num": 87488,
       "word": "第一次在鱼的脸上看到了震惊",
@@ -7041,6 +7065,14 @@
       "onboard_time": 1760838019,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87393,
+      "num": 593128,
+      "word": "林诗栋全村的希望",
+      "onboard_time": 1761045802,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 87315,
@@ -7121,6 +7153,14 @@
       "onboard_time": 1761032900,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86118,
+      "num": 562987,
+      "word": "正式确诊为烤肠型人格",
+      "onboard_time": 1761043700,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 86111,
@@ -7403,6 +7443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81838,
+      "num": 562480,
+      "word": "冬天洗澡的禁忌",
+      "onboard_time": 1761045982,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 81835,
       "num": 81835,
       "word": "刘芸你要对我的爱情负责",
@@ -7473,6 +7521,14 @@
       "onboard_time": 1760829377,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81230,
+      "num": 561098,
+      "word": "油皮摘下来的隐形眼镜",
+      "onboard_time": 1761044541,
+      "rank": 47,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 81174,
@@ -7801,6 +7857,14 @@
       "onboard_time": 1760952022,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 76340,
+      "num": 558660,
+      "word": "国际金价大跌原因",
+      "onboard_time": 1761046580,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 76325,
@@ -8177,14 +8241,6 @@
       "onboard_time": 1761024200,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 67118,
-      "num": 87541,
-      "word": "李在明贴身保镖火了",
-      "onboard_time": 1761044541,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 66946,
@@ -8635,6 +8691,14 @@
       "category": "作品衍生,汽车"
     },
     {
+      "raw_hot": 54148,
+      "num": 591777,
+      "word": "五角大楼延用你妈式回答",
+      "onboard_time": 1761045861,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53866,
       "num": 53866,
       "word": "高级河灯",
@@ -8753,6 +8817,14 @@
       "onboard_time": 1761035482,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 47668,
+      "num": 577375,
+      "word": "杨幂一不小心登顶了",
+      "onboard_time": 1761044721,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 47587,
@@ -9012,7 +9084,7 @@
     },
     {
       "raw_hot": 36702,
-      "num": 87535,
+      "num": 569457,
       "word": "韩国官员手捧遇害大学生骨灰盒回国",
       "onboard_time": 1761045500,
       "rank": 39,
@@ -9025,14 +9097,6 @@
       "onboard_time": 1760891958,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 36567,
-      "num": 87719,
-      "word": "杨幂一不小心登顶了",
-      "onboard_time": 1761044721,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 36418,
@@ -9193,6 +9257,14 @@
       "onboard_time": 1760893398,
       "rank": 46,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 27532,
+      "num": 570858,
+      "word": "酷似袁隆平走红的面筋爷爷发声",
+      "onboard_time": 1761046280,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27211,

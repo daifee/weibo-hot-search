@@ -1,0 +1,410 @@
+{
+  "runTime": 1761046618394,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 403248,
+        "num": 1064519,
+        "word": "微信三大更新放出",
+        "onboard_time": 1761044421,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 189377,
+        "num": 1060752,
+        "word": "退役军人去世35位战友陪他女儿长大",
+        "onboard_time": 1761044302,
+        "rank": 1,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 35249,
+        "num": 1050352,
+        "word": "中国把不可能变成一定能",
+        "onboard_time": 1761035482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 337726,
+        "num": 1045895,
+        "word": "孙颖莎长了鲨鱼角",
+        "onboard_time": 1761041181,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201643,
+        "num": 1037644,
+        "word": "官方通报2人破坏为人民服务航标",
+        "onboard_time": 1761029301,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 177186,
+        "num": 1034893,
+        "word": "高市早苗当选首相",
+        "onboard_time": 1761022583,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150594,
+        "num": 1026906,
+        "word": "红石榴餐厅定档",
+        "onboard_time": 1761042020,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121027,
+        "num": 1021257,
+        "word": "李在明贴身保镖火了",
+        "onboard_time": 1761044541,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98571,
+        "num": 1011461,
+        "word": "外交部回应特朗普称明年初访华",
+        "onboard_time": 1761034940,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82319,
+        "num": 1002122,
+        "word": "阴阳师UR",
+        "onboard_time": 1761032061,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1000675,
+        "num": 1000675,
+        "word": "VOGUE请假阵容",
+        "onboard_time": 1761042801,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 686452,
+        "num": 686452,
+        "word": "江浙沪无法体面入冬",
+        "onboard_time": 1761042921,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 598569,
+        "num": 598569,
+        "word": "韩国大火中国妈妈隔窗送出孩子后坠亡",
+        "onboard_time": 1761040941,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 879931,
+        "num": 597599,
+        "word": "被学生抢鸡排的校长离世",
+        "onboard_time": 1761034759,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96060,
+        "num": 596496,
+        "word": "挖到拼多多好评率99%的十年老店",
+        "onboard_time": 1761037581,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 293408,
+        "num": 596343,
+        "word": "发现很多人都不做美甲了",
+        "onboard_time": 1761035841,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 275197,
+        "num": 595241,
+        "word": "降温后的恶心穿搭",
+        "onboard_time": 1761034280,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87393,
+        "num": 593128,
+        "word": "林诗栋全村的希望",
+        "onboard_time": 1761045802,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81540,
+        "num": 592341,
+        "word": "宴遇永安",
+        "onboard_time": 1761042261,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54148,
+        "num": 591777,
+        "word": "五角大楼延用你妈式回答",
+        "onboard_time": 1761045861,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 619626,
+        "num": 590660,
+        "word": "被抢鸡排校长离世有1千多人送别",
+        "onboard_time": 1761039622,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394355,
+        "num": 589321,
+        "word": "刘冲 挽尊",
+        "onboard_time": 1761039681,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 230810,
+        "num": 588523,
+        "word": "山河枕定档时间",
+        "onboard_time": 1761041540,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218957,
+        "num": 586755,
+        "word": "龚俊剧粉去哪了",
+        "onboard_time": 1761045320,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204275,
+        "num": 585960,
+        "word": "越南副部长被爆访韩期间性侵韩公务员",
+        "onboard_time": 1761036441,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 170108,
+        "num": 584946,
+        "word": "没去VOGUE盛典的明星请假视频",
+        "onboard_time": 1761041420,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146318,
+        "num": 583753,
+        "word": "Faker和Keria给历届S冠排名",
+        "onboard_time": 1761040702,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128393,
+        "num": 582210,
+        "word": "宴遇永安大结局",
+        "onboard_time": 1761042020,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74294,
+        "num": 581618,
+        "word": "抢鸡排学生想把鸡排还给校长",
+        "onboard_time": 1761040822,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51850,
+        "num": 580251,
+        "word": "短剧还珠先导片谁的DNA动了",
+        "onboard_time": 1761030321,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197231,
+        "num": 578996,
+        "word": "WTT蒙彼利埃冠军赛最新参赛名单",
+        "onboard_time": 1761046280,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116685,
+        "num": 578144,
+        "word": "大豆被中国人开发得好彻底",
+        "onboard_time": 1761045022,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 47668,
+        "num": 577375,
+        "word": "杨幂一不小心登顶了",
+        "onboard_time": 1761044721,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115065,
+        "num": 576654,
+        "word": "金价大涨影响年轻人结婚",
+        "onboard_time": 1761028221,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114005,
+        "num": 575345,
+        "word": "标准小猫长相",
+        "onboard_time": 1761039321,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110914,
+        "num": 573529,
+        "word": "刘冲回应VOGUE阵容",
+        "onboard_time": 1761031882,
+        "rank": 35,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 99927,
+        "num": 573122,
+        "word": "看见一个绝望的射手",
+        "onboard_time": 1761046101,
+        "rank": 36,
+        "category": "游戏,幽默"
+      },
+      {
+        "raw_hot": 97025,
+        "num": 572180,
+        "word": "2人破坏为人民服务航标被立案调查",
+        "onboard_time": 1761031342,
+        "rank": 37,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 27532,
+        "num": 570858,
+        "word": "酷似袁隆平走红的面筋爷爷发声",
+        "onboard_time": 1761046280,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34318,
+        "num": 569457,
+        "word": "韩国官员手捧遇害大学生骨灰盒回国",
+        "onboard_time": 1761045500,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61608,
+        "num": 567954,
+        "word": "杉杉集团重整突变",
+        "onboard_time": 1761044661,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92567,
+        "num": 566933,
+        "word": "原来孕妇不能睡电热毯",
+        "onboard_time": 1761044302,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94033,
+        "num": 566035,
+        "word": "金银双双下跌",
+        "onboard_time": 1761042381,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93455,
+        "num": 565639,
+        "word": "减肥主食排名",
+        "onboard_time": 1761039441,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 88228,
+        "num": 563776,
+        "word": "被抢鸡排校长随身带糖和零食给学生",
+        "onboard_time": 1761045561,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86118,
+        "num": 562987,
+        "word": "正式确诊为烤肠型人格",
+        "onboard_time": 1761043700,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81838,
+        "num": 562480,
+        "word": "冬天洗澡的禁忌",
+        "onboard_time": 1761045982,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 81230,
+        "num": 561098,
+        "word": "油皮摘下来的隐形眼镜",
+        "onboard_time": 1761044541,
+        "rank": 47,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 81101,
+        "num": 560003,
+        "word": "其实你不需要买很多冬装",
+        "onboard_time": 1761040941,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 76340,
+        "num": 558660,
+        "word": "国际金价大跌原因",
+        "onboard_time": 1761046580,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航中国式现代化#"
+    }
+  }
+}

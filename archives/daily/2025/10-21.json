@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1761045733425,
+  "endTime": 1761046618394,
   "band_list": [
     {
       "raw_hot": 2016406,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1000675,
+      "num": 1000675,
+      "word": "VOGUE请假阵容",
+      "onboard_time": 1761042801,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 939572,
       "num": 939572,
       "word": "网传辛芷蕾开场刘亦菲结尾",
@@ -97,14 +105,6 @@
       "onboard_time": 1761040941,
       "rank": 10,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 830814,
-      "num": 830814,
-      "word": "VOGUE请假阵容",
-      "onboard_time": 1761042801,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 808731,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 686452,
+      "num": 686452,
+      "word": "江浙沪无法体面入冬",
+      "onboard_time": 1761042921,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 594355,
       "num": 431735,
       "word": "柯佳嬿老公涉嫌逃兵役",
@@ -185,14 +193,6 @@
       "onboard_time": 1761020781,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 552290,
-      "num": 552290,
-      "word": "江浙沪无法体面入冬",
-      "onboard_time": 1761042921,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 545113,
@@ -371,6 +371,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 403248,
+      "num": 1101997,
+      "word": "微信三大更新放出",
+      "onboard_time": 1761044421,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 401419,
       "num": 1284506,
       "word": "阿宽红油面皮里发现印度谷螟幼虫",
@@ -483,6 +491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 337726,
+      "num": 1045895,
+      "word": "孙颖莎长了鲨鱼角",
+      "onboard_time": 1761041181,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331854,
       "num": 1303116,
       "word": "短剧还珠先导片谁的DNA动了",
@@ -563,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 281545,
-      "num": 956541,
-      "word": "孙颖莎长了鲨鱼角",
-      "onboard_time": 1761041181,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 280508,
       "num": 1325391,
       "word": "外交部回应特朗普称明年初访华",
@@ -644,11 +652,19 @@
     },
     {
       "raw_hot": 220447,
-      "num": 220447,
+      "num": 583753,
       "word": "Faker和Keria给历届S冠排名",
       "onboard_time": 1761040702,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 218957,
+      "num": 586755,
+      "word": "龚俊剧粉去哪了",
+      "onboard_time": 1761045320,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 215055,
@@ -707,20 +723,20 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 197231,
+      "num": 578996,
+      "word": "WTT蒙彼利埃冠军赛最新参赛名单",
+      "onboard_time": 1761046280,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 195578,
       "num": 267893,
       "word": "Peanut说中餐比韩料更好吃",
       "onboard_time": 1761028641,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 194571,
-      "num": 1101997,
-      "word": "微信三大更新放出",
-      "onboard_time": 1761044421,
-      "rank": 1,
-      "category": "互联网"
     },
     {
       "raw_hot": 192103,
@@ -753,6 +769,14 @@
       "onboard_time": 1760976621,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 189377,
+      "num": 1060752,
+      "word": "退役军人去世35位战友陪他女儿长大",
+      "onboard_time": 1761044302,
+      "rank": 15,
+      "category": "正能量"
     },
     {
       "raw_hot": 187449,
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 176914,
-      "num": 305301,
+      "num": 582210,
       "word": "宴遇永安大结局",
       "onboard_time": 1761042020,
       "rank": 9,
@@ -852,7 +876,7 @@
     },
     {
       "raw_hot": 173743,
-      "num": 150041,
+      "num": 581618,
       "word": "抢鸡排学生想把鸡排还给校长",
       "onboard_time": 1761040822,
       "rank": 25,
@@ -923,14 +947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159405,
-      "num": 288303,
-      "word": "退役军人去世35位战友陪他女儿长大",
-      "onboard_time": 1761044302,
-      "rank": 15,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 158913,
       "num": 1256047,
       "word": "田曦薇说睡觉没有被子会很不幸福",
@@ -985,6 +1001,14 @@
       "onboard_time": 1761034580,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 150594,
+      "num": 1026906,
+      "word": "红石榴餐厅定档",
+      "onboard_time": 1761042020,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 150442,
@@ -1099,14 +1123,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 136327,
-      "num": 302909,
-      "word": "红石榴餐厅定档",
-      "onboard_time": 1761042020,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135204,
       "num": 135204,
       "word": "马斯克转发浏阳无人机烟花秀",
@@ -1124,7 +1140,7 @@
     },
     {
       "raw_hot": 134271,
-      "num": 142897,
+      "num": 567954,
       "word": "杉杉集团重整突变",
       "onboard_time": 1761044661,
       "rank": 22,
@@ -1196,7 +1212,7 @@
     },
     {
       "raw_hot": 127096,
-      "num": 130189,
+      "num": 560003,
       "word": "其实你不需要买很多冬装",
       "onboard_time": 1761040941,
       "rank": 35,
@@ -1235,20 +1251,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123379,
-      "num": 123379,
-      "word": "龚俊剧粉去哪了",
-      "onboard_time": 1761045320,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122062,
       "num": 122062,
       "word": "住酒店被前台安排在尾房",
       "onboard_time": 1761002358,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121027,
+      "num": 1021257,
+      "word": "李在明贴身保镖火了",
+      "onboard_time": 1761044541,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120341,
@@ -1292,7 +1308,7 @@
     },
     {
       "raw_hot": 118911,
-      "num": 294653,
+      "num": 592341,
       "word": "宴遇永安",
       "onboard_time": 1760984174,
       "rank": 49,
@@ -1313,6 +1329,14 @@
       "onboard_time": 1760963481,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116685,
+      "num": 578144,
+      "word": "大豆被中国人开发得好彻底",
+      "onboard_time": 1761045022,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 116591,
@@ -1467,14 +1491,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 107863,
-      "num": 107863,
-      "word": "大豆被中国人开发得好彻底",
-      "onboard_time": 1761045022,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 107634,
       "num": 156235,
       "word": "印海军官兵集体在航母做瑜伽",
@@ -1492,7 +1508,7 @@
     },
     {
       "raw_hot": 107219,
-      "num": 130134,
+      "num": 566035,
       "word": "金银双双下跌",
       "onboard_time": 1761042381,
       "rank": 38,
@@ -1699,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99927,
+      "num": 573122,
+      "word": "看见一个绝望的射手",
+      "onboard_time": 1761046101,
+      "rank": 36,
+      "category": "游戏,幽默"
+    },
+    {
       "raw_hot": 99717,
       "num": 1262595,
       "word": "陈奕迅代言红米",
@@ -1812,7 +1836,7 @@
     },
     {
       "raw_hot": 93942,
-      "num": 93942,
+      "num": 566933,
       "word": "原来孕妇不能睡电热毯",
       "onboard_time": 1761044302,
       "rank": 33,
@@ -1971,8 +1995,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 87535,
-      "num": 87534,
+      "raw_hot": 88228,
+      "num": 563776,
       "word": "被抢鸡排校长随身带糖和零食给学生",
       "onboard_time": 1761045561,
       "rank": 40,
@@ -1985,6 +2009,14 @@
       "onboard_time": 1761030861,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87393,
+      "num": 593128,
+      "word": "林诗栋全村的希望",
+      "onboard_time": 1761045802,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 87020,
@@ -2041,6 +2073,14 @@
       "onboard_time": 1761032900,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86118,
+      "num": 562987,
+      "word": "正式确诊为烤肠型人格",
+      "onboard_time": 1761043700,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 86068,
@@ -2123,6 +2163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 81838,
+      "num": 562480,
+      "word": "冬天洗澡的禁忌",
+      "onboard_time": 1761045982,
+      "rank": 46,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 81758,
       "num": 190883,
       "word": "百色一地被泡12天后积水仍有齐腰深",
@@ -2137,6 +2185,14 @@
       "onboard_time": 1761025222,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 81230,
+      "num": 561098,
+      "word": "油皮摘下来的隐形眼镜",
+      "onboard_time": 1761044541,
+      "rank": 47,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 80592,
@@ -2241,6 +2297,14 @@
       "onboard_time": 1761035241,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 76340,
+      "num": 558660,
+      "word": "国际金价大跌原因",
+      "onboard_time": 1761046580,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 75740,
@@ -2385,14 +2449,6 @@
       "onboard_time": 1761024200,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 67118,
-      "num": 87541,
-      "word": "李在明贴身保镖火了",
-      "onboard_time": 1761044541,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 66946,
@@ -2603,6 +2659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 54148,
+      "num": 591777,
+      "word": "五角大楼延用你妈式回答",
+      "onboard_time": 1761045861,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52226,
       "num": 145046,
       "word": "韩民众吐槽炸鸡涨价快吃不起",
@@ -2675,6 +2739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47668,
+      "num": 577375,
+      "word": "杨幂一不小心登顶了",
+      "onboard_time": 1761044721,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 47587,
       "num": 65274,
       "word": "罗永浩为何力挺易烊千玺",
@@ -2740,19 +2812,11 @@
     },
     {
       "raw_hot": 36702,
-      "num": 87535,
+      "num": 569457,
       "word": "韩国官员手捧遇害大学生骨灰盒回国",
       "onboard_time": 1761045500,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 36567,
-      "num": 87719,
-      "word": "杨幂一不小心登顶了",
-      "onboard_time": 1761044721,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 36418,
@@ -2777,6 +2841,14 @@
       "onboard_time": 1760950944,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 27532,
+      "num": 570858,
+      "word": "酷似袁隆平走红的面筋爷爷发声",
+      "onboard_time": 1761046280,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25871,
