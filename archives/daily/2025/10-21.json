@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1761057734202,
+  "endTime": 1761060418903,
   "band_list": [
     {
       "raw_hot": 2016406,
@@ -59,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1016267,
+      "num": 209680,
+      "word": "黄金",
+      "onboard_time": 1761054803,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1000675,
       "num": 1000675,
       "word": "VOGUE请假阵容",
@@ -97,14 +105,6 @@
       "onboard_time": 1761034280,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 847924,
-      "num": 209680,
-      "word": "黄金",
-      "onboard_time": 1761054803,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 845293,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 531791,
-      "num": 283586,
+      "num": 297820,
       "word": "国乒多人退赛",
       "onboard_time": 1761048860,
       "rank": 29,
@@ -289,6 +289,14 @@
       "onboard_time": 1761015800,
       "rank": 28,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 491039,
+      "num": 1078566,
+      "word": "当地规劝烤肉店停止玉米做燃料",
+      "onboard_time": 1761056602,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 486124,
@@ -355,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 442068,
+      "num": 208851,
+      "word": "金价",
+      "onboard_time": 1761008181,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 439965,
       "num": 1070394,
       "word": "冷冷冷冷冷如何正确保暖",
@@ -377,6 +393,14 @@
       "onboard_time": 1760973621,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 434975,
+      "num": 211887,
+      "word": "林晏孤独终老",
+      "onboard_time": 1761054381,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 434443,
@@ -571,6 +595,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 320529,
+      "num": 320529,
+      "word": "南极游从20万跌至5万",
+      "onboard_time": 1761056361,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320217,
       "num": 320217,
       "word": "流星雨",
@@ -585,6 +617,14 @@
       "onboard_time": 1761041420,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 314268,
+      "num": 237918,
+      "word": "宝妈每天晚来早走上20天班月薪5万",
+      "onboard_time": 1761048501,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 308210,
@@ -699,12 +739,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 274039,
+      "num": 274039,
+      "word": "王楚钦樊振东陪练许昕张继科",
+      "onboard_time": 1761057982,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272127,
       "num": 1292503,
       "word": "彭小苒不想困在八年前东宫里",
       "onboard_time": 1761034640,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 270967,
+      "num": 270967,
+      "word": "河南一老板挣100万给员工分85万",
+      "onboard_time": 1761052341,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 261712,
@@ -721,14 +777,6 @@
       "onboard_time": 1760974640,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 258652,
-      "num": 208851,
-      "word": "金价",
-      "onboard_time": 1761008181,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 257701,
@@ -763,6 +811,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 236363,
+      "num": 236363,
+      "word": "短剧还珠格格主演阵容",
+      "onboard_time": 1761057261,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235587,
       "num": 235701,
       "word": "热剧cp是演出来的不是卖出来的",
@@ -779,20 +835,20 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 221839,
+      "num": 221839,
+      "word": "知名痔疮药太宁栓正式注销",
+      "onboard_time": 1761058462,
+      "rank": 8,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 220447,
       "num": 583753,
       "word": "Faker和Keria给历届S冠排名",
       "onboard_time": 1761040702,
       "rank": 22,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 217384,
-      "num": 237918,
-      "word": "宝妈每天晚来早走上20天班月薪5万",
-      "onboard_time": 1761048501,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 215825,
@@ -835,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207293,
-      "num": 214013,
-      "word": "河南一老板挣100万给员工分85万",
-      "onboard_time": 1761052341,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 203763,
       "num": 160270,
       "word": "拒卖寿衣给老外的店主最新回应",
@@ -851,20 +899,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 203368,
-      "num": 208928,
-      "word": "林晏孤独终老",
-      "onboard_time": 1761054381,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202689,
       "num": 1285716,
       "word": "我下班了不说了",
       "onboard_time": 1761035841,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 201830,
+      "num": 201830,
+      "word": "现货黄金失守4100美元",
+      "onboard_time": 1761058642,
+      "rank": 14,
+      "category": "财经"
     },
     {
       "raw_hot": 200273,
@@ -1195,14 +1243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150489,
-      "num": 208235,
-      "word": "当地规劝烤肉店停止玉米做燃料",
-      "onboard_time": 1761056602,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150442,
       "num": 206249,
       "word": "MG4偷换宁德时代电池",
@@ -1257,14 +1297,6 @@
       "onboard_time": 1761051380,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145371,
-      "num": 209780,
-      "word": "南极游从20万跌至5万",
-      "onboard_time": 1761056361,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 144362,
@@ -1451,6 +1483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128511,
+      "num": 221518,
+      "word": "台湾名嘴赖岳谦说期待两岸统一",
+      "onboard_time": 1761057562,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 127096,
       "num": 560003,
       "word": "其实你不需要买很多冬装",
@@ -1483,6 +1523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124192,
+      "num": 195985,
+      "word": "LPL致敬Karsa",
+      "onboard_time": 1761058222,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123833,
       "num": 214140,
       "word": "李昀锐角色年龄跨度好大",
@@ -1513,6 +1561,14 @@
       "onboard_time": 1761037581,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 120268,
+      "num": 195958,
+      "word": "花少7对讲机接通的那一刻",
+      "onboard_time": 1761058702,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 119921,
@@ -1705,6 +1761,14 @@
       "onboard_time": 1761018742,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109655,
+      "num": 195802,
+      "word": "特朗普暗示将承诺反对台独",
+      "onboard_time": 1761058043,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 109513,
@@ -2483,14 +2547,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 83031,
-      "num": 203218,
-      "word": "台湾名嘴赖岳谦说期待两岸统一",
-      "onboard_time": 1761057562,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 82959,
       "num": 86600,
       "word": "高市早苗上台右翼政策将更加右转",
@@ -2657,6 +2713,14 @@
       "onboard_time": 1761002118,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77750,
+      "num": 195637,
+      "word": "突然明白心理咨询师为什么贵了",
+      "onboard_time": 1761059183,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 77746,
@@ -2883,6 +2947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66681,
+      "num": 195490,
+      "word": "秋冬季节这样补气血",
+      "onboard_time": 1761059241,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 65940,
       "num": 82797,
       "word": "VOGUE回应化妆室在马圈里",
@@ -2905,6 +2977,14 @@
       "onboard_time": 1760973621,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 64618,
+      "num": 196028,
+      "word": "暗河传 内娱百灵鸟开会",
+      "onboard_time": 1761060141,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 63635,
@@ -3003,6 +3083,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59626,
+      "num": 195288,
+      "word": "国乒7人出战蒙彼利埃赛",
+      "onboard_time": 1761060082,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 58972,
+      "num": 195283,
+      "word": "全新坦克400动态首测",
+      "onboard_time": 1761059781,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 58927,
       "num": 58927,
       "word": "为什么eSIM这么难落地",
@@ -3067,20 +3163,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57133,
+      "num": 195152,
+      "word": "世界羽联最新世界排名揭晓",
+      "onboard_time": 1761060380,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56870,
       "num": 201587,
       "word": "直播间的热销假象调查",
       "onboard_time": 1761019641,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56522,
-      "num": 203281,
-      "word": "短剧还珠格格主演阵容",
-      "onboard_time": 1761057261,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 55154,
@@ -3212,7 +3308,7 @@
     },
     {
       "raw_hot": 45716,
-      "num": 242568,
+      "num": 361395,
       "word": "强国梦从蓝图一步步走向现实",
       "onboard_time": 1761055521,
       "rank": 2,
@@ -3265,6 +3361,22 @@
       "onboard_time": 1761048562,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 38360,
+      "num": 216476,
+      "word": "未来的中国很酷",
+      "onboard_time": 1761059962,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37174,
+      "num": 195494,
+      "word": "国际体操联合会封面发张博恒",
+      "onboard_time": 1761059901,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 37027,

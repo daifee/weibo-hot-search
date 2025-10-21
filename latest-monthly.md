@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 22:42:14
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 23:26:58
 </p>
 </blockquote>
 <p>
@@ -5967,6 +5967,12 @@ iPhone的一生要经历三次死亡（热度：494807）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E5%9C%B0%E8%A7%84%E5%8A%9D%E7%83%A4%E8%82%89%E5%BA%97%E5%81%9C%E6%AD%A2%E7%8E%89%E7%B1%B3%E5%81%9A%E7%87%83%E6%96%99%23" target="weibo">
+当地规劝烤肉店停止玉米做燃料（热度：491039）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E4%BD%B3%E6%B6%A6%E8%8B%B1%E8%AF%AD%E5%8F%A3%E8%AF%AD%E6%B0%B4%E5%B9%B3%23" target="weibo">
 沈佳润英语口语水平（热度：490467）
 </a>
@@ -6005,12 +6011,6 @@ iPhone的一生要经历三次死亡（热度：494807）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E6%B8%B8%E5%AE%A2%E6%84%9F%E5%8F%B9%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%A5%BD%E5%B9%B8%E7%A6%8F%23" target="weibo">
 马来西亚游客感叹中国人好幸福（热度：488503）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E7%9A%84%E8%84%B8%23" target="weibo">
-戚薇的脸（热度：488328）
 </a>
 </li>
 
