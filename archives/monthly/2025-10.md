@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 11:52:15
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 12:31:02
 </p>
 </blockquote>
 <p>
@@ -3015,6 +3015,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%AE%E6%9D%B0%E6%A5%B7%E6%89%BF%E8%AE%A4%E9%80%83%E5%85%B5%E5%BD%B9%23" target="weibo">
+修杰楷承认逃兵役（热度：753537）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%9A%84%E9%81%93%E6%AD%89%E6%96%B9%E5%BC%8F%E9%83%BD%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
 原来小说里的道歉方式都是真的（热度：752959）
 </a>
@@ -6008,12 +6014,6 @@ KT对战TES（热度：478626）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%94%A6%E8%B5%9B%E6%92%A4%E4%B8%8B%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E4%BC%AA%E6%97%97%23" target="weibo">
-亚锦赛撤下台湾地区伪旗（热度：477999）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6383,6 +6383,12 @@ KT对战TES（热度：478626）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E5%9B%9B%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%BC%80%E5%A7%8B%E4%B8%BE%E8%A1%8C%23%23" target="weibo">
 #二十届四中全会开始举行#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E5%A6%82%E4%BD%95%E7%A7%91%E5%AD%A6%E8%B0%8B%E5%88%92%E5%8D%81%E4%BA%94%E4%BA%94%23%23" target="weibo">
+#如何科学谋划十五五#
 </a>
 </li>
 

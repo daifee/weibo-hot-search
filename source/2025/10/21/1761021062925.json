@@ -1,0 +1,410 @@
+{
+  "runTime": 1761021062925,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 371226,
+        "num": 1059396,
+        "word": "王楚钦多哈夺冠球台运回了先农坛",
+        "onboard_time": 1761014661,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245879,
+        "num": 1053465,
+        "word": "东北网友拍下不少燕子滞留没南飞",
+        "onboard_time": 1761018681,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11723,
+        "num": 1013101,
+        "word": "全球最快高铁又跑出新纪录",
+        "onboard_time": 1761020661,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 484327,
+        "num": 969812,
+        "word": "印度人全球爆买白银",
+        "onboard_time": 1761015800,
+        "rank": 3,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 149641,
+        "num": 936650,
+        "word": "冷冷冷冷冷如何正确保暖",
+        "onboard_time": 1761011599,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310214,
+        "num": 893296,
+        "word": "交换人生官宣",
+        "onboard_time": 1761018200,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216227,
+        "num": 871067,
+        "word": "日本石破茂内阁全体辞职",
+        "onboard_time": 1761007942,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205729,
+        "num": 849841,
+        "word": "卢浮宫被盗藏品可在1小时内被分解",
+        "onboard_time": 1760976440,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18111,
+        "num": 801691,
+        "word": "月球土特产含金量还在上升",
+        "onboard_time": 1761005601,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192600,
+        "num": 756518,
+        "word": "你好种地少年3定档",
+        "onboard_time": 1761013760,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 753537,
+        "num": 753537,
+        "word": "修杰楷承认逃兵役",
+        "onboard_time": 1761019281,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626983,
+        "num": 626983,
+        "word": "免费火锅骗走600多名老人4200万",
+        "onboard_time": 1761007942,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 595501,
+        "num": 595501,
+        "word": "网传辛芷蕾开场刘亦菲结尾",
+        "onboard_time": 1761015559,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 397466,
+        "num": 397466,
+        "word": "曾舜晞张康乐 双男主",
+        "onboard_time": 1761017421,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295383,
+        "num": 295383,
+        "word": "特朗普开始拆除白宫建筑改建宴会厅",
+        "onboard_time": 1761013159,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 288895,
+        "num": 288895,
+        "word": "一群洋娃娃里出了个东方美人",
+        "onboard_time": 1761018681,
+        "rank": 15,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 254609,
+        "num": 254609,
+        "word": "13岁女孩目不斜视逆行闯红灯被撞",
+        "onboard_time": 1761010761,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223362,
+        "num": 223362,
+        "word": "00后对出莫言上联获10万奖金",
+        "onboard_time": 1761018081,
+        "rank": 17,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 134308,
+        "num": 219867,
+        "word": "入青云",
+        "onboard_time": 1761020661,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39851,
+        "num": 215537,
+        "word": "横跨南北扛住风湿雪冷",
+        "onboard_time": 1761019761,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 300831,
+        "num": 213440,
+        "word": "闪耀暖暖 慕夏",
+        "onboard_time": 1761020722,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159148,
+        "num": 209605,
+        "word": "暗河传",
+        "onboard_time": 1761020422,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288056,
+        "num": 203677,
+        "word": "女生误卖奶奶藏13万金首饰旧衣",
+        "onboard_time": 1761017360,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56870,
+        "num": 201587,
+        "word": "直播间的热销假象调查",
+        "onboard_time": 1761019641,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260682,
+        "num": 194648,
+        "word": "张萌新剧官宣曾舜晞张康乐",
+        "onboard_time": 1761013760,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194072,
+        "num": 194072,
+        "word": "印度称捡到未爆中国导弹",
+        "onboard_time": 1761020781,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 174645,
+        "num": 174645,
+        "word": "贾静雯回应修杰楷被拘提",
+        "onboard_time": 1761020781,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78542,
+        "num": 173176,
+        "word": "MG4偷换宁德时代电池",
+        "onboard_time": 1761017781,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 171899,
+        "num": 171899,
+        "word": "日媒称日本将迎来首位女首相",
+        "onboard_time": 1761006623,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 144964,
+        "num": 144964,
+        "word": "女子早起喝隔夜水发现疑似虫卵物",
+        "onboard_time": 1761018622,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279262,
+        "num": 141103,
+        "word": "结婚了但是不熟",
+        "onboard_time": 1761019761,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 175487,
+        "num": 140510,
+        "word": "隔桌不买单到底啥意思",
+        "onboard_time": 1761019341,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38974,
+        "num": 136163,
+        "word": "雷佳音排雷",
+        "onboard_time": 1761019702,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134119,
+        "num": 134119,
+        "word": "彭小苒新剧感情线多到可以织毛衣了",
+        "onboard_time": 1761019821,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134045,
+        "num": 134045,
+        "word": "东北人 黑色羽绒服",
+        "onboard_time": 1761019761,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127835,
+        "num": 127835,
+        "word": "iOS26液态玻璃效果能关了",
+        "onboard_time": 1761007521,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122519,
+        "num": 122519,
+        "word": "金价银价大反攻",
+        "onboard_time": 1761004039,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 111346,
+        "num": 116795,
+        "word": "乱穿衣的季节",
+        "onboard_time": 1761017902,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72892,
+        "num": 116019,
+        "word": "女子高速上开智驾酣睡吓坏路过车主",
+        "onboard_time": 1761020781,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54859,
+        "num": 115971,
+        "word": "安氏半导体的遭遇史无前例",
+        "onboard_time": 1761020781,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115937,
+        "num": 115937,
+        "word": "没认出这是胡歌",
+        "onboard_time": 1761019821,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115929,
+        "num": 115929,
+        "word": "偏爱之恋来了个顶级魅魔",
+        "onboard_time": 1761020422,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112470,
+        "num": 112470,
+        "word": "第五人格",
+        "onboard_time": 1761018622,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111862,
+        "num": 111862,
+        "word": "被女儿带火的兰花干夫妇需重选摊位",
+        "onboard_time": 1761018742,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40780,
+        "num": 104984,
+        "word": "公安部公布打击整治网络谣言10起案例",
+        "onboard_time": 1761004039,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104118,
+        "num": 104118,
+        "word": "小城良方制片人20年就见过肖战",
+        "onboard_time": 1761020301,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97289,
+        "num": 97289,
+        "word": "夏之光马秋元新剧cp感",
+        "onboard_time": 1761016881,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95881,
+        "num": 95881,
+        "word": "王自如入职雷鸟创新",
+        "onboard_time": 1761018021,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 94422,
+        "num": 94422,
+        "word": "正式被确诊为酱油人",
+        "onboard_time": 1761020121,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92181,
+        "num": 92181,
+        "word": "金饰克价一夜大涨36元",
+        "onboard_time": 1761012801,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何科学谋划十五五#"
+    }
+  }
+}

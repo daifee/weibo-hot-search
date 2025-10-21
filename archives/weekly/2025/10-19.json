@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761018735398,
+  "endTime": 1761021062925,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -353,6 +353,14 @@
       "onboard_time": 1760855120,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 753537,
+      "num": 753537,
+      "word": "修杰楷承认逃兵役",
+      "onboard_time": 1761019281,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 733902,
@@ -1043,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397466,
+      "num": 397466,
+      "word": "曾舜晞张康乐 双男主",
+      "onboard_time": 1761017421,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 395956,
       "num": 198346,
       "word": "35岁陪爬泰山男演员转行再转行",
@@ -1331,6 +1347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 310214,
+      "num": 893296,
+      "word": "交换人生官宣",
+      "onboard_time": 1761018200,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 308991,
       "num": 179879,
       "word": "瘦了26斤的面部折叠度",
@@ -1395,6 +1419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 300831,
+      "num": 213440,
+      "word": "闪耀暖暖 慕夏",
+      "onboard_time": 1761020722,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 299788,
       "num": 281857,
       "word": "明意纪伯宰圆房",
@@ -1417,6 +1449,14 @@
       "onboard_time": 1761007521,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 295383,
+      "num": 962984,
+      "word": "特朗普开始拆除白宫建筑改建宴会厅",
+      "onboard_time": 1761013159,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 291634,
@@ -1448,6 +1488,22 @@
       "word": "老年艾滋病患者数量快速增加",
       "onboard_time": 1760857881,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 288895,
+      "num": 288895,
+      "word": "一群洋娃娃里出了个东方美人",
+      "onboard_time": 1761018681,
+      "rank": 42,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 288056,
+      "num": 203677,
+      "word": "女生误卖奶奶藏13万金首饰旧衣",
+      "onboard_time": 1761017360,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -1505,6 +1561,14 @@
       "onboard_time": 1760866461,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 279262,
+      "num": 141103,
+      "word": "结婚了但是不熟",
+      "onboard_time": 1761019761,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 272103,
@@ -1683,6 +1747,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 245879,
+      "num": 1053465,
+      "word": "东北网友拍下不少燕子滞留没南飞",
+      "onboard_time": 1761018681,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241053,
       "num": 824267,
       "word": "利剑玫瑰",
@@ -1793,6 +1865,14 @@
       "onboard_time": 1760944821,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223362,
+      "num": 223362,
+      "word": "00后对出莫言上联获10万奖金",
+      "onboard_time": 1761018081,
+      "rank": 24,
+      "category": "读书作家"
     },
     {
       "raw_hot": 222405,
@@ -1929,14 +2009,6 @@
       "onboard_time": 1760871500,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205136,
-      "num": 962984,
-      "word": "特朗普开始拆除白宫建筑改建宴会厅",
-      "onboard_time": 1761013159,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 204637,
@@ -2161,6 +2233,14 @@
       "onboard_time": 1760936182,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194072,
+      "num": 194072,
+      "word": "印度称捡到未爆中国导弹",
+      "onboard_time": 1761020781,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 193300,
@@ -2435,12 +2515,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175487,
+      "num": 140510,
+      "word": "隔桌不买单到底啥意思",
+      "onboard_time": 1761019341,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175025,
       "num": 411234,
       "word": "JDG对战KSG",
       "onboard_time": 1760956941,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 174645,
+      "num": 174645,
+      "word": "贾静雯回应修杰楷被拘提",
+      "onboard_time": 1761020781,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 174596,
@@ -2664,14 +2760,6 @@
       "word": "刘宇宁夸李木戈导演会拍",
       "onboard_time": 1760959821,
       "rank": 18,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 164410,
-      "num": 164410,
-      "word": "曾舜晞张康乐 双男主",
-      "onboard_time": 1761017421,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -2979,14 +3067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 150974,
-      "num": 150974,
-      "word": "00后对出莫言上联获10万奖金",
-      "onboard_time": 1761018081,
-      "rank": 24,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 150804,
       "num": 150804,
       "word": "常华森就该演古装",
@@ -3012,7 +3092,7 @@
     },
     {
       "raw_hot": 150442,
-      "num": 150442,
+      "num": 173176,
       "word": "MG4偷换宁德时代电池",
       "onboard_time": 1761017781,
       "rank": 25,
@@ -3121,6 +3201,14 @@
       "onboard_time": 1760958260,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 144964,
+      "num": 144964,
+      "word": "女子早起喝隔夜水发现疑似虫卵物",
+      "onboard_time": 1761018622,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 144744,
@@ -3345,6 +3433,22 @@
       "onboard_time": 1760836341,
       "rank": 25,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 134119,
+      "num": 134119,
+      "word": "彭小苒新剧感情线多到可以织毛衣了",
+      "onboard_time": 1761019821,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134045,
+      "num": 134045,
+      "word": "东北人 黑色羽绒服",
+      "onboard_time": 1761019761,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 133463,
@@ -4147,6 +4251,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 115937,
+      "num": 115937,
+      "word": "没认出这是胡歌",
+      "onboard_time": 1761019821,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 115929,
+      "num": 115929,
+      "word": "偏爱之恋来了个顶级魅魔",
+      "onboard_time": 1761020422,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115693,
       "num": 197774,
       "word": "入局阵容官宣",
@@ -4235,14 +4355,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 113024,
-      "num": 113024,
-      "word": "东北网友拍下不少燕子滞留没南飞",
-      "onboard_time": 1761018681,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112998,
       "num": 112998,
       "word": "王一珩巡演官宣",
@@ -4273,6 +4385,14 @@
       "onboard_time": 1760798183,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112470,
+      "num": 112470,
+      "word": "第五人格",
+      "onboard_time": 1761018622,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 112225,
@@ -4315,6 +4435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 111862,
+      "num": 111862,
+      "word": "被女儿带火的兰花干夫妇需重选摊位",
+      "onboard_time": 1761018742,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111796,
       "num": 137819,
       "word": "iQOO屏幕的含金量谁懂啊",
@@ -4339,6 +4467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111346,
+      "num": 116795,
+      "word": "乱穿衣的季节",
+      "onboard_time": 1761017902,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111330,
       "num": 111330,
       "word": "广东省22届",
@@ -4353,14 +4489,6 @@
       "onboard_time": 1760869522,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 111065,
-      "num": 153371,
-      "word": "女生误卖奶奶藏13万金首饰旧衣",
-      "onboard_time": 1761017360,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 110990,
@@ -4705,6 +4833,14 @@
       "onboard_time": 1760944341,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 104118,
+      "num": 104118,
+      "word": "小城良方制片人20年就见过肖战",
+      "onboard_time": 1761020301,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 104115,
@@ -5107,7 +5243,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 97247,
+      "raw_hot": 97289,
       "num": 154433,
       "word": "夏之光马秋元新剧cp感",
       "onboard_time": 1761016881,
@@ -5281,6 +5417,14 @@
       "onboard_time": 1760878401,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 94422,
+      "num": 94422,
+      "word": "正式被确诊为酱油人",
+      "onboard_time": 1761020121,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 94219,
@@ -5475,14 +5619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91970,
-      "num": 149271,
-      "word": "交换人生官宣",
-      "onboard_time": 1761018200,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 91854,
       "num": 91854,
       "word": "羽绒服千万别长期压缩收纳",
@@ -5587,14 +5723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90246,
-      "num": 90246,
-      "word": "一群洋娃娃里出了个东方美人",
-      "onboard_time": 1761018681,
-      "rank": 42,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 90200,
       "num": 90200,
       "word": "苏晓彤朋友爆选秀头部情侣",
@@ -5673,14 +5801,6 @@
       "onboard_time": 1760957301,
       "rank": 46,
       "category": "艺人,财经"
-    },
-    {
-      "raw_hot": 89280,
-      "num": 89280,
-      "word": "乱穿衣的季节",
-      "onboard_time": 1761017902,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88741,
@@ -5857,14 +5977,6 @@
       "onboard_time": 1760949382,
       "rank": 29,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 85414,
-      "num": 85414,
-      "word": "第五人格",
-      "onboard_time": 1761018622,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 85388,
@@ -6475,14 +6587,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74927,
-      "num": 96746,
-      "word": "女子早起喝隔夜水发现疑似虫卵物",
-      "onboard_time": 1761018622,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74828,
       "num": 74828,
       "word": "钱塘江罕见龙鳞潮接好运",
@@ -6545,6 +6649,14 @@
       "onboard_time": 1761010281,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 72892,
+      "num": 116019,
+      "word": "女子高速上开智驾酣睡吓坏路过车主",
+      "onboard_time": 1761020781,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72883,
@@ -7051,6 +7163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 56870,
+      "num": 201587,
+      "word": "直播间的热销假象调查",
+      "onboard_time": 1761019641,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56787,
       "num": 76335,
       "word": "喜人奇妙夜",
@@ -7089,6 +7209,14 @@
       "onboard_time": 1760840599,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54859,
+      "num": 115971,
+      "word": "安氏半导体的遭遇史无前例",
+      "onboard_time": 1761020781,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54547,
@@ -7339,6 +7467,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 39851,
+      "num": 215537,
+      "word": "横跨南北扛住风湿雪冷",
+      "onboard_time": 1761019761,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 39839,
       "num": 207300,
       "word": "王鹤棣直播超绝镜头感",
@@ -7377,6 +7513,14 @@
       "onboard_time": 1760962221,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 38974,
+      "num": 136163,
+      "word": "雷佳音排雷",
+      "onboard_time": 1761019702,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 38947,
@@ -7795,6 +7939,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 18111,
+      "num": 801691,
+      "word": "月球土特产含金量还在上升",
+      "onboard_time": 1761005601,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17552,
       "num": 247987,
       "word": "孙子团BTSZD舞蹈快闪好燃",
@@ -7881,6 +8033,14 @@
       "onboard_time": 1760822835,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11723,
+      "num": 1013101,
+      "word": "全球最快高铁又跑出新纪录",
+      "onboard_time": 1761020661,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11394,
@@ -8009,6 +8169,9 @@
     },
     {
       "word": "#二十届四中全会开始举行#"
+    },
+    {
+      "word": "#如何科学谋划十五五#"
     }
   ]
 }
