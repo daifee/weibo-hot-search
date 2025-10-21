@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 13:26:10
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 13:42:23
 </p>
 </blockquote>
 <p>
@@ -4335,6 +4335,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E4%BD%B3%E5%AC%BF%E8%80%81%E5%85%AC%E6%B6%89%E5%AB%8C%E9%80%83%E5%85%B5%E5%BD%B9%23" target="weibo">
+柯佳嬿老公涉嫌逃兵役（热度：594355）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E9%99%8D%E4%BB%B7%E9%A6%96%E6%97%A5%E4%B8%8D%E5%88%B012%E7%82%B9%E6%BB%A1%E5%BA%A7%23" target="weibo">
 西贝降价首日不到12点满座（热度：594000）
 </a>
@@ -4511,12 +4517,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%90%E5%A6%96%E7%8E%8B%E6%9D%83%E7%AF%87%E6%94%B9%E5%90%8D%E4%BA%86%23" target="weibo">
 狐妖王权篇改名了（热度：578096）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E4%BD%B3%E5%AC%BF%E8%80%81%E5%85%AC%E6%B6%89%E5%AB%8C%E9%80%83%E5%85%B5%E5%BD%B9%23" target="weibo">
-柯佳嬿老公涉嫌逃兵役（热度：577504）
 </a>
 </li>
 

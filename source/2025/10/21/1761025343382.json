@@ -1,0 +1,410 @@
+{
+  "runTime": 1761025343382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 478278,
+        "num": 1076524,
+        "word": "东北网友拍下不少燕子滞留没南飞",
+        "onboard_time": 1761018681,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 451855,
+        "num": 451855,
+        "word": "卢浮宫劫案可能是粉红豹所为",
+        "onboard_time": 1761021562,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 3834,
+        "num": 450675,
+        "word": "前三季度中国GDP同比增长5.2%",
+        "onboard_time": 1760929160,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 232350,
+        "num": 448438,
+        "word": "日本迎来首位女首相",
+        "onboard_time": 1761022883,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180891,
+        "num": 446377,
+        "word": "印度人全球爆买白银",
+        "onboard_time": 1761015800,
+        "rank": 4,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 1538192,
+        "num": 445578,
+        "word": "高市早苗当选首相",
+        "onboard_time": 1761022583,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266842,
+        "num": 442580,
+        "word": "交换人生官宣",
+        "onboard_time": 1761018200,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180059,
+        "num": 440204,
+        "word": "冷冷冷冷冷如何正确保暖",
+        "onboard_time": 1761011599,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170486,
+        "num": 437667,
+        "word": "卢浮宫被盗藏品可在1小时内被分解",
+        "onboard_time": 1760976440,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168339,
+        "num": 435485,
+        "word": "暗河传",
+        "onboard_time": 1761020422,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 606003,
+        "num": 434031,
+        "word": "贾静雯回应修杰楷被拘提",
+        "onboard_time": 1761020781,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594355,
+        "num": 431735,
+        "word": "柯佳嬿老公涉嫌逃兵役",
+        "onboard_time": 1761022342,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545645,
+        "num": 429243,
+        "word": "印度称捡到未爆中国导弹",
+        "onboard_time": 1761020781,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 429054,
+        "num": 429054,
+        "word": "结婚了但是不熟",
+        "onboard_time": 1761019761,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 412818,
+        "num": 412818,
+        "word": "曾舜晞张康乐 双男主",
+        "onboard_time": 1761017421,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369871,
+        "num": 369871,
+        "word": "原研药再次面临全军覆灭",
+        "onboard_time": 1761022822,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 368325,
+        "num": 368325,
+        "word": "陈柏霖已承认逃兵役",
+        "onboard_time": 1761024500,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234916,
+        "num": 234916,
+        "word": "免费火锅骗走600多名老人4200万",
+        "onboard_time": 1761007942,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189434,
+        "num": 189434,
+        "word": "女装店主不建议买300元以下羽绒服",
+        "onboard_time": 1761023122,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79380,
+        "num": 163286,
+        "word": "京东采销破百吋电视送装难题",
+        "onboard_time": 1761023243,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 142660,
+        "num": 142660,
+        "word": "一群洋娃娃里出了个东方美人",
+        "onboard_time": 1761018681,
+        "rank": 20,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 257667,
+        "num": 142637,
+        "word": "陈柏霖称因王大陆案早有准备",
+        "onboard_time": 1761023901,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139883,
+        "num": 139883,
+        "word": "milkyway被曝私联粉丝",
+        "onboard_time": 1761022942,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138752,
+        "num": 138752,
+        "word": "女子变现黄金立马买银镯取悦自己",
+        "onboard_time": 1761021262,
+        "rank": 23,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 130824,
+        "num": 130824,
+        "word": "小伙辞月薪8千工作卖麻糍日入1千",
+        "onboard_time": 1761023003,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130211,
+        "num": 130211,
+        "word": "朋友圈不点赞真的没别的心思",
+        "onboard_time": 1761022763,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126192,
+        "num": 126192,
+        "word": "孙颖莎人如太阳心如太阳",
+        "onboard_time": 1761024562,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86737,
+        "num": 126126,
+        "word": "孔雪儿暗河传蒙面侠女",
+        "onboard_time": 1761022102,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79405,
+        "num": 125997,
+        "word": "入青云",
+        "onboard_time": 1761020661,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78995,
+        "num": 125792,
+        "word": "你好种地少年3定档",
+        "onboard_time": 1761013760,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134445,
+        "num": 125572,
+        "word": "医院说只有这只狗摔了2次",
+        "onboard_time": 1761024381,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121045,
+        "num": 125374,
+        "word": "女生误卖奶奶藏13万金首饰旧衣",
+        "onboard_time": 1761017360,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125353,
+        "num": 125353,
+        "word": "这段写的很好 但需要全部删掉",
+        "onboard_time": 1761023782,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122557,
+        "num": 122557,
+        "word": "高市早苗当选首相之路一波三折",
+        "onboard_time": 1761024741,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71056,
+        "num": 117953,
+        "word": "雷佳音排雷",
+        "onboard_time": 1761019702,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114731,
+        "num": 114731,
+        "word": "檀健次嘉人米兰科莫湖大片",
+        "onboard_time": 1761024741,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 40202,
+        "num": 109126,
+        "word": "高市早苗自称安倍继承者",
+        "onboard_time": 1761023360,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103808,
+        "num": 103808,
+        "word": "猫 你怎么突然长大了",
+        "onboard_time": 1761023721,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95519,
+        "num": 95519,
+        "word": "王楚钦多哈夺冠球台运回了先农坛",
+        "onboard_time": 1761014661,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44098,
+        "num": 91425,
+        "word": "高市早苗曾叫嚣台湾有事日本必入",
+        "onboard_time": 1761024321,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96326,
+        "num": 91329,
+        "word": "居然又让王安宇找到舒适区了",
+        "onboard_time": 1761023423,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90726,
+        "num": 90726,
+        "word": "刘昊然李兰迪新剧开机照",
+        "onboard_time": 1761021501,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90492,
+        "num": 90492,
+        "word": "秋冻并不是适合所有人",
+        "onboard_time": 1761025222,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 89625,
+        "num": 89625,
+        "word": "隔桌不买单到底啥意思",
+        "onboard_time": 1761019341,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86950,
+        "num": 86950,
+        "word": "东北人 黑色羽绒服",
+        "onboard_time": 1761019761,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86451,
+        "num": 86451,
+        "word": "GEN三名教练离队",
+        "onboard_time": 1761024321,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86387,
+        "num": 86387,
+        "word": "00后对出莫言上联获10万奖金",
+        "onboard_time": 1761018081,
+        "rank": 46,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 81334,
+        "num": 81334,
+        "word": "张杰巡演佛山站官宣",
+        "onboard_time": 1761025222,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81042,
+        "num": 81042,
+        "word": "日本石破茂内阁全体辞职",
+        "onboard_time": 1761007942,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66621,
+        "num": 79937,
+        "word": "国乒男女单垄断世界前二",
+        "onboard_time": 1761021621,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何科学谋划十五五#"
+    }
+  }
+}
