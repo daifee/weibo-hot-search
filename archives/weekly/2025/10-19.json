@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761039767616,
+  "endTime": 1761042542698,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -315,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 845293,
+      "num": 176101,
+      "word": "韩国大火中国妈妈隔窗送出孩子后坠亡",
+      "onboard_time": 1761040941,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 808731,
       "num": 746996,
       "word": "免费火锅骗走600多名老人4200万",
@@ -369,6 +377,14 @@
       "onboard_time": 1761007942,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 781251,
+      "num": 1283266,
+      "word": "被抢鸡排校长离世有1千多人送别",
+      "onboard_time": 1761039622,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 780972,
@@ -1179,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412207,
+      "num": 1297286,
+      "word": "发现很多人都不做美甲了",
+      "onboard_time": 1761035841,
+      "rank": 23,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 412081,
       "num": 398875,
       "word": "于正选择周柯宇赵晴的理由",
@@ -1243,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 395492,
+      "num": 1252282,
+      "word": "刘冲 挽尊",
+      "onboard_time": 1761039681,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 394805,
       "num": 288895,
       "word": "一群洋娃娃里出了个东方美人",
@@ -1265,14 +1297,6 @@
       "onboard_time": 1760922800,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 389203,
-      "num": 1297286,
-      "word": "发现很多人都不做美甲了",
-      "onboard_time": 1761035841,
-      "rank": 23,
-      "category": "美妆"
     },
     {
       "raw_hot": 387567,
@@ -2419,6 +2443,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 200161,
+      "num": 200161,
+      "word": "山河枕定档时间",
+      "onboard_time": 1761041540,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200026,
       "num": 360585,
       "word": "外卖点的米饭居然是电饭煲装来的",
@@ -2443,6 +2475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198870,
+      "num": 171415,
+      "word": "孙颖莎长了鲨鱼角",
+      "onboard_time": 1761041181,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198741,
       "num": 198741,
       "word": "迪丽热巴大女主排面",
@@ -2465,6 +2505,14 @@
       "onboard_time": 1761029120,
       "rank": 42,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 197587,
+      "num": 197587,
+      "word": "没去VOGUE盛典的明星请假视频",
+      "onboard_time": 1761041420,
+      "rank": 7,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197315,
@@ -2593,6 +2641,14 @@
       "onboard_time": 1761036742,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 191174,
+      "num": 160776,
+      "word": "Faker和Keria给历届S冠排名",
+      "onboard_time": 1761040702,
+      "rank": 22,
+      "category": "电竞"
     },
     {
       "raw_hot": 190509,
@@ -2835,6 +2891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 176914,
+      "num": 176914,
+      "word": "宴遇永安大结局",
+      "onboard_time": 1761042020,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176476,
       "num": 415611,
       "word": "中方奉劝巴拉圭早日做出正确决断",
@@ -2912,6 +2976,14 @@
       "word": "小伙辞月薪8千工作卖麻糍日入1千",
       "onboard_time": 1761023003,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173743,
+      "num": 150041,
+      "word": "抢鸡排学生想把鸡排还给校长",
+      "onboard_time": 1761040822,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -3097,6 +3169,14 @@
       "onboard_time": 1760932761,
       "rank": 41,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 165191,
+      "num": 1271808,
+      "word": "标准小猫长相",
+      "onboard_time": 1761039321,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 164928,
@@ -3603,6 +3683,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 146690,
+      "num": 1266275,
+      "word": "减肥主食排名",
+      "onboard_time": 1761039441,
+      "rank": 34,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 146474,
       "num": 146474,
       "word": "马思纯一句话点破旅行真相",
@@ -3681,6 +3769,14 @@
       "onboard_time": 1760967500,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142831,
+      "num": 142831,
+      "word": "坚果可可燕麦奶",
+      "onboard_time": 1761041601,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 142242,
@@ -4227,6 +4323,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 127096,
+      "num": 127096,
+      "word": "其实你不需要买很多冬装",
+      "onboard_time": 1761040941,
+      "rank": 35,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 126985,
       "num": 126985,
       "word": "杨超越给何广智拍出人生照片",
@@ -4627,6 +4731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119238,
+      "num": 170634,
+      "word": "红石榴餐厅定档",
+      "onboard_time": 1761042020,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119173,
       "num": 119173,
       "word": "没认出这是胡歌",
@@ -4752,14 +4864,6 @@
       "word": "翁帆说杨先生离开的时候一定很欣慰",
       "onboard_time": 1760856140,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117241,
-      "num": 1283266,
-      "word": "被抢鸡排校长离世有1千多人送别",
-      "onboard_time": 1761039622,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -5019,6 +5123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112139,
+      "num": 112139,
+      "word": "卢浮宫被盗珠宝同款电商已上架",
+      "onboard_time": 1761040822,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112137,
       "num": 112137,
       "word": "卢浮宫大劫案案情披露",
@@ -5219,14 +5331,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 109159,
-      "num": 1271808,
-      "word": "标准小猫长相",
-      "onboard_time": 1761039321,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 109088,
       "num": 109088,
       "word": "白鹿的小卡是白梦妍的灵魂",
@@ -5321,6 +5425,14 @@
       "onboard_time": 1760848579,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107219,
+      "num": 107219,
+      "word": "金银双双下跌",
+      "onboard_time": 1761042381,
+      "rank": 38,
+      "category": "财经"
     },
     {
       "raw_hot": 107189,
@@ -5675,6 +5787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102638,
+      "num": 149047,
+      "word": "宴遇永安",
+      "onboard_time": 1760876301,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102514,
       "num": 102514,
       "word": "绝意回应近期争议",
@@ -5931,14 +6051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98966,
-      "num": 1266275,
-      "word": "减肥主食排名",
-      "onboard_time": 1761039441,
-      "rank": 34,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 98940,
       "num": 275748,
       "word": "露营是成年人的治愈疗法",
@@ -5977,6 +6089,14 @@
       "onboard_time": 1760866401,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98138,
+      "num": 98138,
+      "word": "王楚钦张百乔互相称哥",
+      "onboard_time": 1761040761,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 97954,
@@ -6129,6 +6249,14 @@
       "onboard_time": 1760946562,
       "rank": 48,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 95642,
+      "num": 168046,
+      "word": "国产车已经进化到水陆两栖了",
+      "onboard_time": 1761041060,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 95619,
@@ -6331,6 +6459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93355,
+      "num": 93355,
+      "word": "蒙BA球员单场狂轰101分",
+      "onboard_time": 1761042381,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93278,
       "num": 102360,
       "word": "路人缘扭转只需要一部综艺",
@@ -6472,6 +6608,14 @@
       "word": "南天门计划紫火太火了",
       "onboard_time": 1760870240,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91425,
+      "num": 1260480,
+      "word": "贪官用一等功证书求从轻不予支持",
+      "onboard_time": 1761039441,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -6731,14 +6875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 88166,
-      "num": 91692,
-      "word": "宴遇永安",
-      "onboard_time": 1760876301,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 87972,
       "num": 109828,
       "word": "MRC对战北京WBG",
@@ -6795,6 +6931,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 86989,
+      "num": 86989,
+      "word": "北极地下沉睡4万年古生物正醒来",
+      "onboard_time": 1761039862,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86972,
       "num": 86972,
       "word": "用南北方的食物做孩子小名",
@@ -6817,14 +6961,6 @@
       "onboard_time": 1761022102,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86730,
-      "num": 1252282,
-      "word": "刘冲 挽尊",
-      "onboard_time": 1761039681,
-      "rank": 44,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 86695,
@@ -6969,6 +7105,14 @@
       "onboard_time": 1760949442,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84856,
+      "num": 84856,
+      "word": "前三季度国内居民出游花费4.85万亿元",
+      "onboard_time": 1761041601,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 84778,
@@ -7345,6 +7489,14 @@
       "onboard_time": 1761037822,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 78617,
+      "num": 78617,
+      "word": "王楚钦又有了新名字",
+      "onboard_time": 1761042501,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 78561,
@@ -8475,6 +8627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46051,
+      "num": 168700,
+      "word": "高市早苗与丈夫因政治理念离婚后再婚",
+      "onboard_time": 1761041540,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 46005,
       "num": 235968,
       "word": "一张图教你用天猫万元大券包",
@@ -8555,6 +8715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42213,
+      "num": 147853,
+      "word": "人生不该被科技硬控",
+      "onboard_time": 1761041241,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 42070,
       "num": 331429,
       "word": "今天的红包抢完他的抢她的",
@@ -8577,6 +8745,14 @@
       "onboard_time": 1760932881,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 40021,
+      "num": 101908,
+      "word": "酒席单独给小朋友安排两桌肯德基",
+      "onboard_time": 1761042140,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39851,
@@ -8640,14 +8816,6 @@
       "word": "网警侦破非法控制计算机信息系统案",
       "onboard_time": 1760838680,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 38740,
-      "num": 1260480,
-      "word": "贪官用一等功证书求从轻不予支持",
-      "onboard_time": 1761039441,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
