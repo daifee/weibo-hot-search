@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 16:36:29
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 16:49:33
 </p>
 </blockquote>
 <p>
@@ -863,6 +863,12 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E5%8D%95%E6%96%B9%E9%9D%A2%E5%AE%98%E5%AE%A3%E8%A2%AB%E9%BA%A6%E8%BF%AA%E5%A8%9C%E5%85%AC%E5%8F%B8%E5%A9%89%E6%8B%92%E4%BA%86%23" target="weibo">
 姜潮单方面官宣被麦迪娜公司婉拒了（热度：1364560）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AD%A6%E7%94%9F%E6%8A%A2%E9%B8%A1%E6%8E%92%E7%9A%84%E6%A0%A1%E9%95%BF%E7%A6%BB%E4%B8%96%23" target="weibo">
+被学生抢鸡排的校长离世（热度：1354040）
 </a>
 </li>
 
@@ -4523,12 +4529,6 @@ Ning浴室摔伤（热度：586285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E5%8F%91%E7%BA%A2%E5%8C%85%23" target="weibo">
 陈哲远发红包（热度：580360）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AD%A6%E7%94%9F%E6%8A%A2%E9%B8%A1%E6%8E%92%E7%9A%84%E6%A0%A1%E9%95%BF%E7%A6%BB%E4%B8%96%23" target="weibo">
-被学生抢鸡排的校长离世（热度：579867）
 </a>
 </li>
 

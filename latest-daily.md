@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/21 00:32:44 ~ 2025/10/21 16:36:29
+本榜单时间：2025/10/21 00:32:44 ~ 2025/10/21 16:49:33
 </p>
 </blockquote>
 <p>
@@ -29,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%80%89%E9%A6%96%E7%9B%B8%23" target="weibo">
 高市早苗当选首相（热度：1608487）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AD%A6%E7%94%9F%E6%8A%A2%E9%B8%A1%E6%8E%92%E7%9A%84%E6%A0%A1%E9%95%BF%E7%A6%BB%E4%B8%96%23" target="weibo">
+被学生抢鸡排的校长离世（热度：1354040）
 </a>
 </li>
 
@@ -119,12 +125,6 @@ VOGUE盛典官宣阵容（热度：1089235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E7%A7%B0%E6%8D%A1%E5%88%B0%E6%9C%AA%E7%88%86%E4%B8%AD%E5%9B%BD%E5%AF%BC%E5%BC%B9%23" target="weibo">
 印度称捡到未爆中国导弹（热度：587078）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AD%A6%E7%94%9F%E6%8A%A2%E9%B8%A1%E6%8E%92%E7%9A%84%E6%A0%A1%E9%95%BF%E7%A6%BB%E4%B8%96%23" target="weibo">
-被学生抢鸡排的校长离世（热度：579867）
 </a>
 </li>
 
@@ -243,8 +243,20 @@ VOGUE盛典官宣阵容（热度：1089235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%8D%E6%B8%A9%E5%90%8E%E7%9A%84%E6%81%B6%E5%BF%83%E7%A9%BF%E6%90%AD%23" target="weibo">
+降温后的恶心穿搭（热度：407931）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%AE%BD%E7%BA%A2%E6%B2%B9%E9%9D%A2%E7%9A%AE%E9%87%8C%E5%8F%91%E7%8E%B0%E5%8D%B0%E5%BA%A6%E8%B0%B7%E8%9E%9F%E5%B9%BC%E8%99%AB%23" target="weibo">
 阿宽红油面皮里发现印度谷螟幼虫（热度：401419）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E6%8C%87%E9%9B%AA%E4%B8%AD%E9%A3%9E%E4%BB%A3%E5%B7%A5%23" target="weibo">
+阿迪达斯羽绒服被指雪中飞代工（热度：397236）
 </a>
 </li>
 
@@ -351,12 +363,6 @@ iOS26液态玻璃效果能关了（热度：297258）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%A2%AB%E6%8C%87%E9%9B%AA%E4%B8%AD%E9%A3%9E%E4%BB%A3%E5%B7%A5%23" target="weibo">
-阿迪达斯羽绒服被指雪中飞代工（热度：292390）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0%E5%AF%BB%E6%B1%82%E4%B8%8E%E4%B8%AD%E6%96%B9%E4%BC%9A%E9%9D%A2%23" target="weibo">
 荷兰寻求与中方会面（热度：291154）
 </a>
@@ -369,8 +375,20 @@ iOS26液态玻璃效果能关了（热度：297258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B9%B4%E5%88%9D%E8%AE%BF%E5%8D%8E%23" target="weibo">
+外交部回应特朗普称明年初访华（热度：280508）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E7%AA%83%E8%B4%BC%E4%BD%9C%E6%A1%88%E8%A7%86%E9%A2%91%E6%B3%84%E9%9C%B2%23" target="weibo">
 卢浮宫窃贼作案视频泄露（热度：274741）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%B0%8F%E8%8B%92%E4%B8%8D%E6%83%B3%E5%9B%B0%E5%9C%A8%E5%85%AB%E5%B9%B4%E5%89%8D%E4%B8%9C%E5%AE%AB%E9%87%8C%23" target="weibo">
+彭小苒不想困在八年前东宫里（热度：272127）
 </a>
 </li>
 
@@ -417,12 +435,6 @@ iOS26液态玻璃效果能关了（热度：297258）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%8D%E6%B8%A9%E5%90%8E%E7%9A%84%E6%81%B6%E5%BF%83%E7%A9%BF%E6%90%AD%23" target="weibo">
-降温后的恶心穿搭（热度：213471）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%20%E6%8B%8D%E4%BA%864%E4%B8%AA%E5%8F%A4%E8%A3%85%E7%94%B7%E4%B8%BB3%E9%83%A8%E7%A0%B4%E4%B8%87%E4%BA%86%23" target="weibo">
 刘宇宁 拍了4个古装男主3部破万了（热度：210501）
 </a>
@@ -459,6 +471,12 @@ Peanut说中餐比韩料更好吃（热度：195578）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E7%8E%B0%E5%BE%88%E5%A4%9A%E4%BA%BA%E9%83%BD%E4%B8%8D%E5%81%9A%E7%BE%8E%E7%94%B2%E4%BA%86%23" target="weibo">
+发现很多人都不做美甲了（热度：192250）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%AA%82%23" target="weibo">
 泽连斯基与特朗普对骂（热度：191609）
 </a>
@@ -485,12 +503,6 @@ Peanut说中餐比韩料更好吃（热度：195578）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%A2%9E%E5%87%8F30%E6%96%A4%E8%B7%9F%E7%8E%A9%E5%84%BF%E4%B8%80%E6%A0%B7%23" target="weibo">
 黄晓明增减30斤跟玩儿一样（热度：187016）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%B0%8F%E8%8B%92%E4%B8%8D%E6%83%B3%E5%9B%B0%E5%9C%A8%E5%85%AB%E5%B9%B4%E5%89%8D%E4%B8%9C%E5%AE%AB%E9%87%8C%23" target="weibo">
-彭小苒不想困在八年前东宫里（热度：186590）
 </a>
 </li>
 
@@ -549,12 +561,6 @@ Peanut说中餐比韩料更好吃（热度：195578）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B9%B4%E5%88%9D%E8%AE%BF%E5%8D%8E%23" target="weibo">
-外交部回应特朗普称明年初访华（热度：168453）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A3%92%E6%A3%92%E5%A0%826%E4%BA%BA%E5%9D%87%E6%9C%AA%E6%9C%8D%E5%85%B5%E5%BD%B9%23" target="weibo">
 棒棒堂6人均未服兵役（热度：167607）
 </a>
@@ -575,6 +581,12 @@ Peanut说中餐比韩料更好吃（热度：195578）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%BF%E5%A4%96%E5%A9%86%E4%B8%8D%E5%90%8C%E5%B9%B4%E9%BE%84%E7%9A%84%E8%A1%A3%E6%9C%8D%23" target="weibo">
 穿外婆不同年龄的衣服（热度：161327）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%BD%A9%E6%B0%91%E4%B9%B0%E9%94%99%E5%BD%A9%E7%A5%A8%E6%84%8F%E5%A4%96%E4%B8%AD29%E4%BA%BF%E5%85%83%23" target="weibo">
+美国彩民买错彩票意外中29亿元（热度：160929）
 </a>
 </li>
 
@@ -699,6 +711,18 @@ milkyway被曝私联粉丝（热度：144362）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%80%89%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E7%8E%B0%E5%9C%BA%23" target="weibo">
+高市早苗当选日本首相现场（热度：136475）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%A4%B1%E5%AE%884300%23" target="weibo">
+现货黄金失守4300（热度：136333）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BD%AC%E5%8F%91%E6%B5%8F%E9%98%B3%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%83%9F%E8%8A%B1%E7%A7%80%23" target="weibo">
 马斯克转发浏阳无人机烟花秀（热度：135204）
 </a>
@@ -719,6 +743,12 @@ milkyway被曝私联粉丝（热度：144362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%A4%E8%82%A4%E5%93%81%20%E8%8B%8F%E4%B8%B9%E7%BA%A2%23" target="weibo">
 护肤品 苏丹红（热度：133463）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%A4%AA%E6%BD%AE%E4%BA%86%23" target="weibo">
+樊振东太潮了（热度：133285）
 </a>
 </li>
 
@@ -767,12 +797,6 @@ milkyway被曝私联粉丝（热度：144362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%20%E4%BD%A0%E6%80%8E%E4%B9%88%E7%AA%81%E7%84%B6%E9%95%BF%E5%A4%A7%E4%BA%86%23" target="weibo">
 猫 你怎么突然长大了（热度：123572）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%BD%A9%E6%B0%91%E4%B9%B0%E9%94%99%E5%BD%A9%E7%A5%A8%E6%84%8F%E5%A4%96%E4%B8%AD29%E4%BA%BF%E5%85%83%23" target="weibo">
-美国彩民买错彩票意外中29亿元（热度：123130）
 </a>
 </li>
 
@@ -857,6 +881,12 @@ milkyway被曝私联粉丝（热度：144362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E6%9D%8E%E5%85%B0%E8%BF%AA%E6%96%B0%E5%89%A7%E5%BC%80%E6%9C%BA%E7%85%A7%23" target="weibo">
 刘昊然李兰迪新剧开机照（热度：114417）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8EVOGUE%E5%AE%98%E5%AE%A3%E7%85%A7%23" target="weibo">
+娜扎VOGUE官宣照（热度：114074）
 </a>
 </li>
 
@@ -1119,6 +1149,12 @@ GEN三名教练离队（热度：93057）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%9C%A8%E8%BF%BD%E6%98%9F%E7%9A%84%E6%97%B6%E5%80%99%E9%83%BD%E6%9C%89%E4%B8%80%E4%B8%AA%E8%B6%85%E8%83%BD%E5%8A%9B%23" target="weibo">
+人在追星的时候都有一个超能力（热度：92482）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E8%BF%99%E4%B8%80%E5%A5%97%E4%B8%8B%E6%9D%A5%E6%88%91%E8%A6%81%E8%BA%BA%E5%88%B0%E6%98%8E%E5%B9%B410%E6%9C%88%23" target="weibo">
 她这一套下来我要躺到明年10月（热度：91600）
 </a>
@@ -1305,6 +1341,12 @@ Doinb谈LPL粉丝（热度：79834）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9DYagao%E8%A7%A3%E8%AF%B4GEN%E5%92%8CTES%23" target="weibo">
+曝Yagao解说GEN和TES（热度：76975）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E5%A4%B8%E5%85%8BC%E8%AE%A1%E5%88%92%E6%9B%9D%E5%85%89%E5%AF%B9%E6%A0%87%E8%B1%86%E5%8C%85%23" target="weibo">
 阿里夸克C计划曝光对标豆包（热度：75740）
 </a>
@@ -1343,12 +1385,6 @@ Doinb谈LPL粉丝（热度：79834）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%93%88%E5%B0%94%E6%BB%A8%E5%87%86%E5%A4%87%E4%BA%8620%E4%B8%87%E7%AB%8B%E6%96%B9%E7%B1%B3%E5%86%B0%23" target="weibo">
 今年哈尔滨准备了20万立方米冰（热度：72466）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9DYagao%E8%A7%A3%E8%AF%B4GEN%E5%92%8CTES%23" target="weibo">
-曝Yagao解说GEN和TES（热度：71359）
 </a>
 </li>
 
@@ -1539,6 +1575,12 @@ VOGUE回应化妆室在马圈里（热度：65940）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%8D%B8%E4%BB%BB%E5%90%8E%E7%AC%91%E5%BE%97%E5%90%88%E4%B8%8D%E6%8B%A2%E5%98%B4%23" target="weibo">
+石破茂卸任后笑得合不拢嘴（热度：53611）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%B0%91%E4%BC%97%E5%90%90%E6%A7%BD%E7%82%B8%E9%B8%A1%E6%B6%A8%E4%BB%B7%E5%BF%AB%E5%90%83%E4%B8%8D%E8%B5%B7%23" target="weibo">
 韩民众吐槽炸鸡涨价快吃不起（热度：52226）
 </a>
@@ -1629,8 +1671,20 @@ VOGUE回应化妆室在马圈里（热度：65940）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%B2%E4%B8%8A%E9%A6%96%E5%90%8D%E7%AC%AC%E4%B8%80%E5%85%88%E7%94%9F%23" target="weibo">
+日本史上首名第一先生（热度：36454）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%BA%9B%E7%88%86%E6%AC%BE%E9%83%BD%E6%98%AFKimJones%E8%AE%BE%E8%AE%A1%E7%9A%84%23" target="weibo">
 原来这些爆款都是KimJones设计的（热度：36418）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8A%8A%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%8F%98%E6%88%90%E4%B8%80%E5%AE%9A%E8%83%BD%23" target="weibo">
+中国把不可能变成一定能（热度：32216）
 </a>
 </li>
 
@@ -1683,6 +1737,12 @@ VOGUE（热度：25048）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A1%8C%E8%BF%9B%E7%9C%8B%E4%B8%AD%E5%9B%BD%23" target="weibo">
+行进看中国（热度：15042）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E7%9B%97%E7%AA%83%E6%A1%88%E5%B0%86%E5%AF%BB%E6%B1%82%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%89%E4%BF%9D%E8%B0%83%E6%9F%A5%23" target="weibo">
 卢浮宫盗窃案将寻求以色列安保调查（热度：14705）
 </a>
@@ -1701,14 +1761,14 @@ VOGUE（热度：25048）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8A%8A%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%8F%98%E6%88%90%E4%B8%80%E5%AE%9A%E8%83%BD%23" target="weibo">
-中国把不可能变成一定能（热度：11742）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%9C%80%E5%BF%AB%E9%AB%98%E9%93%81%E5%8F%88%E8%B7%91%E5%87%BA%E6%96%B0%E7%BA%AA%E5%BD%95%23" target="weibo">
+全球最快高铁又跑出新纪录（热度：11723）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E6%9C%80%E5%BF%AB%E9%AB%98%E9%93%81%E5%8F%88%E8%B7%91%E5%87%BA%E6%96%B0%E7%BA%AA%E5%BD%95%23" target="weibo">
-全球最快高铁又跑出新纪录（热度：11723）
+<a href="https://s.weibo.com/weibo?q=%23%E8%88%AA%E5%A4%A9%E6%A3%92%E6%A3%92%E7%B3%96%E9%99%8D%E8%90%BD%E4%BC%9E%E7%9A%84%E5%AE%89%E5%85%A8%E6%84%9F%23" target="weibo">
+航天棒棒糖降落伞的安全感（热度：10843）
 </a>
 </li>
 
