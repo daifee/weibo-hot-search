@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761031604531,
+  "endTime": 1761032401905,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -587,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 590001,
+      "num": 578656,
+      "word": "官方通报2人破坏为人民服务航标",
+      "onboard_time": 1761029301,
+      "rank": 26,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 588046,
       "num": 1094087,
       "word": "广东省考提前",
@@ -609,14 +617,6 @@
       "onboard_time": 1760934202,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 578656,
-      "num": 578656,
-      "word": "官方通报2人破坏为人民服务航标",
-      "onboard_time": 1761029301,
-      "rank": 26,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 574895,
@@ -769,6 +769,14 @@
       "onboard_time": 1761012559,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 506980,
+      "num": 417160,
+      "word": "特朗普称一年后美国稀土将多如牛毛",
+      "onboard_time": 1761028162,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 505856,
@@ -1059,7 +1067,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 433895,
+      "raw_hot": 434443,
       "num": 1067239,
       "word": "日本迎来首位女首相",
       "onboard_time": 1761022883,
@@ -1073,6 +1081,14 @@
       "onboard_time": 1761004039,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 432468,
+      "num": 1069194,
+      "word": "阴阳师",
+      "onboard_time": 1761030201,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 429719,
@@ -1123,14 +1139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 413969,
-      "num": 163463,
-      "word": "阴阳师",
-      "onboard_time": 1761030201,
-      "rank": 20,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 413662,
       "num": 413662,
       "word": "徐艺洋回复谢可寅",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1760876120,
       "rank": 15,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 401419,
+      "num": 401419,
+      "word": "阿宽红油面皮里发现印度谷螟幼虫",
+      "onboard_time": 1761028521,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 397704,
@@ -1267,6 +1283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376724,
+      "num": 376724,
+      "word": "VOGUE官宣了刘亦菲",
+      "onboard_time": 1761030802,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 372089,
       "num": 372089,
       "word": "女子被救后举报施救者侵犯肖像权",
@@ -1297,6 +1321,14 @@
       "onboard_time": 1760850981,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 368248,
+      "num": 368248,
+      "word": "新娘金手镯婚前被堂嫂掉包成铜",
+      "onboard_time": 1761026962,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 368024,
@@ -1395,28 +1427,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 339448,
-      "num": 401787,
-      "word": "特朗普称一年后美国稀土将多如牛毛",
-      "onboard_time": 1761028162,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 338995,
       "num": 200059,
       "word": "金饰克价一夜降17元",
       "onboard_time": 1760837420,
       "rank": 15,
       "category": "财经"
-    },
-    {
-      "raw_hot": 337511,
-      "num": 337511,
-      "word": "阿宽红油面皮里发现印度谷螟幼虫",
-      "onboard_time": 1761028521,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 333409,
@@ -1595,20 +1611,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 296598,
+      "num": 226395,
+      "word": "金价大涨影响年轻人结婚",
+      "onboard_time": 1761028221,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295383,
       "num": 962984,
       "word": "特朗普开始拆除白宫建筑改建宴会厅",
       "onboard_time": 1761013159,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 293325,
-      "num": 226395,
-      "word": "金价大涨影响年轻人结婚",
-      "onboard_time": 1761028221,
-      "rank": 22,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 291634,
@@ -1713,6 +1729,14 @@
       "onboard_time": 1760866461,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 274032,
+      "num": 404758,
+      "word": "短剧还珠先导片谁的DNA动了",
+      "onboard_time": 1761030321,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 272103,
@@ -1923,6 +1947,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 239521,
+      "num": 239521,
+      "word": "2人破坏为人民服务航标被立案调查",
+      "onboard_time": 1761031342,
+      "rank": 24,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 239111,
       "num": 171333,
       "word": "寿命长的人脖子一般有5个特征",
@@ -2083,14 +2115,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 216309,
-      "num": 216309,
-      "word": "新娘金手镯婚前被堂嫂掉包成铜",
-      "onboard_time": 1761026962,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 215759,
       "num": 215759,
       "word": "中方回应中美即将重返谈判桌",
@@ -2107,20 +2131,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 214350,
+      "num": 214350,
+      "word": "阴阳师UR",
+      "onboard_time": 1761032061,
+      "rank": 16,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 209154,
       "num": 209154,
       "word": "辛巴罚款赵梦澈100万",
       "onboard_time": 1760870962,
       "rank": 27,
       "category": "网红"
-    },
-    {
-      "raw_hot": 208631,
-      "num": 208631,
-      "word": "VOGUE官宣了刘亦菲",
-      "onboard_time": 1761030802,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 208305,
@@ -2339,6 +2363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 197625,
+      "num": 197625,
+      "word": "她一个人干了一个小厂子的活",
+      "onboard_time": 1761029120,
+      "rank": 42,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 197315,
       "num": 197315,
       "word": "2025王者荣耀共创之夜",
@@ -2433,6 +2465,14 @@
       "onboard_time": 1760944221,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 192906,
+      "num": 192906,
+      "word": "刘冲回应VOGUE阵容",
+      "onboard_time": 1761031882,
+      "rank": 24,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 192812,
@@ -2683,14 +2723,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 180644,
-      "num": 212311,
-      "word": "短剧还珠先导片谁的DNA动了",
-      "onboard_time": 1761030321,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 178874,
       "num": 178874,
       "word": "李耕耘直播",
@@ -2721,6 +2753,22 @@
       "onboard_time": 1760933963,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175946,
+      "num": 175946,
+      "word": "暗河传女二捆绑男二",
+      "onboard_time": 1761031702,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175663,
+      "num": 175663,
+      "word": "韩国承认游戏被中国反超",
+      "onboard_time": 1761032000,
+      "rank": 27,
+      "category": "游戏"
     },
     {
       "raw_hot": 175487,
@@ -2825,6 +2873,14 @@
       "onboard_time": 1760934383,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171351,
+      "num": 171351,
+      "word": "90后女生高职毕业任教清华",
+      "onboard_time": 1761030381,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170510,
@@ -3035,6 +3091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 161327,
+      "num": 161327,
+      "word": "穿外婆不同年龄的衣服",
+      "onboard_time": 1761031642,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161204,
       "num": 342693,
       "word": "孟子义我真爬不上去",
@@ -3155,14 +3219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156038,
-      "num": 156038,
-      "word": "2人破坏为人民服务航标被立案调查",
-      "onboard_time": 1761031342,
-      "rank": 24,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 155178,
       "num": 155178,
       "word": "胡歌你别这样我害怕",
@@ -3249,14 +3305,6 @@
       "onboard_time": 1760948242,
       "rank": 7,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 153216,
-      "num": 153216,
-      "word": "她一个人干了一个小厂子的活",
-      "onboard_time": 1761029120,
-      "rank": 42,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 152758,
@@ -3369,14 +3417,6 @@
       "onboard_time": 1760933422,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148859,
-      "num": 148859,
-      "word": "90后女生高职毕业任教清华",
-      "onboard_time": 1761030381,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148821,
@@ -4403,6 +4443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119356,
+      "num": 119356,
+      "word": "王曼昱全运会单项大满贯",
+      "onboard_time": 1761032361,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 119324,
       "num": 119324,
       "word": "珠海无人机表演为全运会加油",
@@ -4433,6 +4481,14 @@
       "onboard_time": 1760974402,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118866,
+      "num": 118866,
+      "word": "田曦薇说睡觉没有被子会很不幸福",
+      "onboard_time": 1761032061,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 118737,
@@ -4729,6 +4785,14 @@
       "onboard_time": 1760958142,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 112940,
+      "num": 112940,
+      "word": "龚俊回应暗河传画面暗",
+      "onboard_time": 1761032000,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 112636,
@@ -5499,6 +5563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101184,
+      "num": 101184,
+      "word": "蔚来单周销量破万",
+      "onboard_time": 1761032000,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 101153,
       "num": 191473,
       "word": "两京十五日 水路剧",
@@ -5633,6 +5705,14 @@
       "onboard_time": 1760838800,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98940,
+      "num": 199077,
+      "word": "露营是成年人的治愈疗法",
+      "onboard_time": 1761032181,
+      "rank": 22,
+      "category": "旅游"
     },
     {
       "raw_hot": 98764,
@@ -5817,6 +5897,14 @@
       "onboard_time": 1760843839,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95477,
+      "num": 108882,
+      "word": "王楚钦渐渐长成了马龙的模样",
+      "onboard_time": 1761028641,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 95460,
@@ -6195,6 +6283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90331,
+      "num": 90331,
+      "word": "人和人的关系真的是一期一会",
+      "onboard_time": 1761030381,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90200,
       "num": 90200,
       "word": "苏晓彤朋友爆选秀头部情侣",
@@ -6385,14 +6481,6 @@
       "onboard_time": 1760929821,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 87207,
-      "num": 108882,
-      "word": "王楚钦渐渐长成了马龙的模样",
-      "onboard_time": 1761028641,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 86972,
@@ -7291,6 +7379,14 @@
       "category": "海外新闻,体育"
     },
     {
+      "raw_hot": 70579,
+      "num": 205636,
+      "word": "咖啡机界的劳京东1元拍卖",
+      "onboard_time": 1761030682,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 70114,
       "num": 228640,
       "word": "官方回应深圳卷尺哥指哪修哪",
@@ -7795,14 +7891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55068,
-      "num": 164801,
-      "word": "咖啡机界的劳京东1元拍卖",
-      "onboard_time": 1761030682,
-      "rank": 18,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 54859,
       "num": 115971,
       "word": "安氏半导体的遭遇史无前例",
@@ -8188,7 +8276,7 @@
     },
     {
       "raw_hot": 36418,
-      "num": 156985,
+      "num": 178222,
       "word": "原来这些爆款都是KimJones设计的",
       "onboard_time": 1761029301,
       "rank": 27,
@@ -8596,7 +8684,7 @@
     },
     {
       "raw_hot": 16414,
-      "num": 211654,
+      "num": 240192,
       "word": "随机打开北京秋日美景盲盒",
       "onboard_time": 1761030082,
       "rank": 14,
