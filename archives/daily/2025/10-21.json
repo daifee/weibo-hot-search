@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1761053993664,
+  "endTime": 1761054688334,
   "band_list": [
     {
       "raw_hot": 2016406,
@@ -219,6 +219,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 531791,
+      "num": 283586,
+      "word": "国乒多人退赛",
+      "onboard_time": 1761048860,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 530234,
       "num": 1076524,
       "word": "东北网友拍下不少燕子滞留没南飞",
@@ -337,14 +345,6 @@
       "onboard_time": 1760975002,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 443298,
-      "num": 283586,
-      "word": "国乒多人退赛",
-      "onboard_time": 1761048860,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 439965,
@@ -467,6 +467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 369426,
+      "num": 239360,
+      "word": "明星代言蟹卡差到黄牛都不敢收",
+      "onboard_time": 1761048681,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 368575,
       "num": 368575,
       "word": "iPhone频繁打错字不是你手残",
@@ -505,14 +513,6 @@
       "onboard_time": 1761031882,
       "rank": 24,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 350781,
-      "num": 239360,
-      "word": "明星代言蟹卡差到黄牛都不敢收",
-      "onboard_time": 1761048681,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 349639,
@@ -555,12 +555,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 320217,
+      "num": 320217,
+      "word": "流星雨",
+      "onboard_time": 1761047661,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317829,
       "num": 858204,
       "word": "没去VOGUE盛典的明星请假视频",
       "onboard_time": 1761041420,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 308210,
+      "num": 228323,
+      "word": "女子在直播间买到自己捐的衣服",
+      "onboard_time": 1761048080,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307970,
+      "num": 228172,
+      "word": "星品",
+      "onboard_time": 1761047001,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 302851,
@@ -667,14 +691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 269684,
-      "num": 214318,
-      "word": "女子在直播间买到自己捐的衣服",
-      "onboard_time": 1761048080,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 261712,
       "num": 200109,
       "word": "宋祖儿好久没有真情实感追一部剧了",
@@ -723,28 +739,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 237782,
-      "num": 214300,
-      "word": "星品",
-      "onboard_time": 1761047001,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 235587,
       "num": 235701,
       "word": "热剧cp是演出来的不是卖出来的",
       "onboard_time": 1761046699,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225456,
-      "num": 225456,
-      "word": "流星雨",
-      "onboard_time": 1761047661,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 223362,
@@ -763,6 +763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 217384,
+      "num": 237918,
+      "word": "宝妈每天晚来早走上20天班月薪5万",
+      "onboard_time": 1761048501,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215825,
       "num": 245299,
       "word": "天地剑心",
@@ -777,14 +785,6 @@
       "onboard_time": 1761020422,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 212810,
-      "num": 237918,
-      "word": "宝妈每天晚来早走上20天班月薪5万",
-      "onboard_time": 1761048501,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212018,
@@ -889,6 +889,14 @@
       "onboard_time": 1760976621,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 188325,
+      "num": 214183,
+      "word": "杨丞琳一天官宣两个大事",
+      "onboard_time": 1761053540,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 187449,
@@ -1131,14 +1139,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 151024,
-      "num": 214183,
-      "word": "杨丞琳一天官宣两个大事",
-      "onboard_time": 1761053540,
-      "rank": 23,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 150594,
       "num": 1026906,
       "word": "红石榴餐厅定档",
@@ -1219,6 +1219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 140993,
+      "num": 228732,
+      "word": "广东近年发现多个新物种",
+      "onboard_time": 1761053001,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140192,
       "num": 140192,
       "word": "东北人 黑色羽绒服",
@@ -1259,20 +1267,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137198,
-      "num": 214176,
-      "word": "广东近年发现多个新物种",
-      "onboard_time": 1761053001,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136973,
       "num": 136973,
       "word": "杨紫好绝的演技共情力",
       "onboard_time": 1761021742,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136605,
+      "num": 228294,
+      "word": "TTG晋级年总败者组第二轮",
+      "onboard_time": 1761054022,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 136333,
@@ -1284,7 +1292,7 @@
     },
     {
       "raw_hot": 136234,
-      "num": 214094,
+      "num": 224395,
       "word": "吴石将军之子大学档案展出",
       "onboard_time": 1761049762,
       "rank": 28,
@@ -1651,6 +1659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109513,
+      "num": 214077,
+      "word": "2026年国考报名人数超百万",
+      "onboard_time": 1761052402,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 109337,
       "num": 1247071,
       "word": "VOGUE发了吉克隽逸未修图",
@@ -1739,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105931,
+      "num": 213972,
+      "word": "16岁文淇演的孕妇",
+      "onboard_time": 1761053241,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 105634,
       "num": 153487,
       "word": "乘坐自动扶梯最怕的情况出现了",
@@ -1788,7 +1812,7 @@
     },
     {
       "raw_hot": 103171,
-      "num": 214243,
+      "num": 227664,
       "word": "九号实力造车匠心拍片",
       "onboard_time": 1761052041,
       "rank": 33,
@@ -1985,14 +2009,6 @@
       "onboard_time": 1761038602,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95981,
-      "num": 214077,
-      "word": "2026年国考报名人数超百万",
-      "onboard_time": 1761052402,
-      "rank": 31,
-      "category": "教育"
     },
     {
       "raw_hot": 95781,
@@ -2459,6 +2475,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 80694,
+      "num": 213860,
+      "word": "苏暮雨舔一下嘴巴能把自己毒死",
+      "onboard_time": 1761053602,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80592,
       "num": 80592,
       "word": "成毅新剧手捧真火",
@@ -2635,6 +2659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73379,
+      "num": 213892,
+      "word": "网吧已经进化成这样了吗",
+      "onboard_time": 1761049642,
+      "rank": 45,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 72939,
       "num": 72939,
       "word": "韩国金店库存告罄",
@@ -2657,6 +2689,22 @@
       "onboard_time": 1761011599,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72302,
+      "num": 577375,
+      "word": "杨幂一不小心登顶了",
+      "onboard_time": 1761044721,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 71712,
+      "num": 204927,
+      "word": "林晏孤独终老",
+      "onboard_time": 1761054381,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 71658,
@@ -2835,14 +2883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 62728,
-      "num": 213892,
-      "word": "网吧已经进化成这样了吗",
-      "onboard_time": 1761049642,
-      "rank": 45,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 62636,
       "num": 213881,
       "word": "今晚猎户座流星雨迎极大",
@@ -2857,14 +2897,6 @@
       "onboard_time": 1761011540,
       "rank": 40,
       "category": "美食"
-    },
-    {
-      "raw_hot": 61761,
-      "num": 213860,
-      "word": "苏暮雨舔一下嘴巴能把自己毒死",
-      "onboard_time": 1761053602,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 61411,
@@ -2889,14 +2921,6 @@
       "onboard_time": 1760972361,
       "rank": 41,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 60400,
-      "num": 577375,
-      "word": "杨幂一不小心登顶了",
-      "onboard_time": 1761044721,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 59664,
@@ -3145,14 +3169,6 @@
       "onboard_time": 1761048562,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 38414,
-      "num": 213972,
-      "word": "16岁文淇演的孕妇",
-      "onboard_time": 1761053241,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 37027,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 21:39:53
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 21:51:28
 </p>
 </blockquote>
 <p>
@@ -5271,6 +5271,12 @@ iPhone天气你可能真的不会用（热度：556452）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%A4%9A%E4%BA%BA%E9%80%80%E8%B5%9B%23" target="weibo">
+国乒多人退赛（热度：531791）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8E%E4%BA%BA%E5%AD%A9%E5%AD%90%E5%92%8C%E7%88%B6%E6%AF%8D%E5%B7%B2%E5%9C%A8%E7%AE%A1%E6%8E%A7%E8%8C%83%E5%9B%B4%E5%86%85%23" target="weibo">
 野人孩子和父母已在管控范围内（热度：531667）
 </a>
@@ -6005,12 +6011,6 @@ iPhone的一生要经历三次死亡（热度：494807）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E7%9A%84%E8%84%B8%23" target="weibo">
 戚薇的脸（热度：488328）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%B1%82%E6%A0%B8%E6%9F%A5%E9%87%8E%E4%BA%BA%E7%94%B7%E5%AD%A9%E7%88%B6%E6%AF%8D%E6%94%B6%E5%85%A5%E6%9D%A5%E6%BA%90%23" target="weibo">
-请求核查野人男孩父母收入来源（热度：487490）
 </a>
 </li>
 
