@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761056717945,
+  "endTime": 1761057734202,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -12115,6 +12115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342417,
+      "num": 213972,
+      "word": "16岁文淇演的孕妇",
+      "onboard_time": 1761053241,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 342174,
       "num": 300346,
       "word": "陈震称以车辆EDR数据通告为准",
@@ -19323,6 +19331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 207293,
+      "num": 214013,
+      "word": "河南一老板挣100万给员工分85万",
+      "onboard_time": 1761052341,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207285,
       "num": 207285,
       "word": "王暖暖已拿到判决书",
@@ -19777,6 +19793,14 @@
       "onboard_time": 1760584160,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203368,
+      "num": 208928,
+      "word": "林晏孤独终老",
+      "onboard_time": 1761054381,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 203288,
@@ -21681,14 +21705,6 @@
       "onboard_time": 1760105784,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 191364,
-      "num": 213972,
-      "word": "16岁文淇演的孕妇",
-      "onboard_time": 1761053241,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 191206,
@@ -29243,6 +29259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 150489,
+      "num": 208235,
+      "word": "当地规劝烤肉店停止玉米做燃料",
+      "onboard_time": 1761056602,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150488,
       "num": 192179,
       "word": "现在就出发3先导预告片",
@@ -30507,6 +30531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145371,
+      "num": 209780,
+      "word": "南极游从20万跌至5万",
+      "onboard_time": 1761056361,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145324,
       "num": 145324,
       "word": "水龙吟江湖因果版预告",
@@ -31315,12 +31347,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141847,
-      "num": 208928,
-      "word": "林晏孤独终老",
-      "onboard_time": 1761054381,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 141813,
+      "num": 558660,
+      "word": "国际金价大跌原因",
+      "onboard_time": 1761046580,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 141704,
@@ -35281,14 +35313,6 @@
       "onboard_time": 1759829661,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129633,
-      "num": 558660,
-      "word": "国际金价大跌原因",
-      "onboard_time": 1761046580,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 129618,
@@ -40433,14 +40457,6 @@
       "onboard_time": 1760589205,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116601,
-      "num": 214013,
-      "word": "河南一老板挣100万给员工分85万",
-      "onboard_time": 1761052341,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116599,
@@ -53355,6 +53371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90789,
+      "num": 207631,
+      "word": "女子穿7厘米高跟鞋轻松爬岩壁",
+      "onboard_time": 1761056061,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90784,
       "num": 230730,
       "word": "孙颖莎3比1申裕斌",
@@ -54353,6 +54377,14 @@
       "onboard_time": 1760955740,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 88700,
+      "num": 577375,
+      "word": "杨幂一不小心登顶了",
+      "onboard_time": 1761044721,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 88669,
@@ -55521,14 +55553,6 @@
       "onboard_time": 1761032900,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 86191,
-      "num": 577375,
-      "word": "杨幂一不小心登顶了",
-      "onboard_time": 1761044721,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 86177,
@@ -56899,6 +56923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83031,
+      "num": 203218,
+      "word": "台湾名嘴赖岳谦说期待两岸统一",
+      "onboard_time": 1761057562,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 83027,
       "num": 83027,
       "word": "第一次对糖油混合物有了清晰的认知",
@@ -57457,6 +57489,14 @@
       "onboard_time": 1759394661,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 81612,
+      "num": 207726,
+      "word": "新人选择花几百块租金结婚",
+      "onboard_time": 1761056061,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81593,
@@ -59691,28 +59731,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 74929,
-      "num": 207726,
-      "word": "新人选择花几百块租金结婚",
-      "onboard_time": 1761056061,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74918,
       "num": 89563,
       "word": "全场高呼孙颖莎我爱你",
       "onboard_time": 1759392261,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 74897,
-      "num": 207631,
-      "word": "女子穿7厘米高跟鞋轻松爬岩壁",
-      "onboard_time": 1761056061,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74828,
@@ -60193,6 +60217,14 @@
       "onboard_time": 1760859260,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72850,
+      "num": 206785,
+      "word": "多品牌回应产品检出苏丹红",
+      "onboard_time": 1761056602,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 72795,
@@ -63019,14 +63051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59286,
-      "num": 206785,
-      "word": "多品牌回应产品检出苏丹红",
-      "onboard_time": 1761056602,
-      "rank": 48,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 59152,
       "num": 115924,
       "word": "肖战整晚的音乐纯享版",
@@ -63555,6 +63579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 56522,
+      "num": 203281,
+      "word": "短剧还珠格格主演阵容",
+      "onboard_time": 1761057261,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56521,
       "num": 106561,
       "word": "李昀锐说孟子义拍戏时是开心果",
@@ -63857,14 +63889,6 @@
       "onboard_time": 1760673262,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 54898,
-      "num": 209780,
-      "word": "南极游从20万跌至5万",
-      "onboard_time": 1761056361,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54861,
@@ -64193,14 +64217,6 @@
       "onboard_time": 1760865202,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 53337,
-      "num": 208235,
-      "word": "当地规劝烤肉店停止玉米做燃料",
-      "onboard_time": 1761056602,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53193,

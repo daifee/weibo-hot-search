@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1761056717945,
+  "endTime": 1761057734202,
   "band_list": [
     {
       "raw_hot": 2016406,
@@ -99,6 +99,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 847924,
+      "num": 209680,
+      "word": "黄金",
+      "onboard_time": 1761054803,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 845293,
       "num": 788046,
       "word": "韩国大火中国妈妈隔窗送出孩子后坠亡",
@@ -193,14 +201,6 @@
       "onboard_time": 1761020781,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 555893,
-      "num": 209680,
-      "word": "黄金",
-      "onboard_time": 1761054803,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 545113,
@@ -539,6 +539,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 342417,
+      "num": 213972,
+      "word": "16岁文淇演的孕妇",
+      "onboard_time": 1761053241,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 337726,
       "num": 1045895,
       "word": "孙颖莎长了鲨鱼角",
@@ -715,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258652,
+      "num": 208851,
+      "word": "金价",
+      "onboard_time": 1761008181,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 257701,
       "num": 488541,
       "word": "高市早苗当选首相之路一波三折",
@@ -819,12 +835,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207293,
+      "num": 214013,
+      "word": "河南一老板挣100万给员工分85万",
+      "onboard_time": 1761052341,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203763,
       "num": 160270,
       "word": "拒卖寿衣给老外的店主最新回应",
       "onboard_time": 1760969182,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203368,
+      "num": 208928,
+      "word": "林晏孤独终老",
+      "onboard_time": 1761054381,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 202689,
@@ -889,14 +921,6 @@
       "onboard_time": 1760965221,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 191364,
-      "num": 213972,
-      "word": "16岁文淇演的孕妇",
-      "onboard_time": 1761053241,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 190139,
@@ -1171,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150489,
+      "num": 208235,
+      "word": "当地规劝烤肉店停止玉米做燃料",
+      "onboard_time": 1761056602,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150442,
       "num": 206249,
       "word": "MG4偷换宁德时代电池",
@@ -1227,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145371,
+      "num": 209780,
+      "word": "南极游从20万跌至5万",
+      "onboard_time": 1761056361,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144362,
       "num": 144362,
       "word": "milkyway被曝私联粉丝",
@@ -1243,12 +1283,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 141847,
-      "num": 208928,
-      "word": "林晏孤独终老",
-      "onboard_time": 1761054381,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 141813,
+      "num": 558660,
+      "word": "国际金价大跌原因",
+      "onboard_time": 1761046580,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 140993,
@@ -1323,14 +1363,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 135283,
-      "num": 208851,
-      "word": "金价",
-      "onboard_time": 1761008181,
-      "rank": 33,
-      "category": "财经"
-    },
-    {
       "raw_hot": 135204,
       "num": 135204,
       "word": "马斯克转发浏阳无人机烟花秀",
@@ -1401,14 +1433,6 @@
       "onboard_time": 1761034580,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 129633,
-      "num": 558660,
-      "word": "国际金价大跌原因",
-      "onboard_time": 1761046580,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 129587,
@@ -1569,14 +1593,6 @@
       "onboard_time": 1761045022,
       "rank": 31,
       "category": "美食"
-    },
-    {
-      "raw_hot": 116601,
-      "num": 214013,
-      "word": "河南一老板挣100万给员工分85万",
-      "onboard_time": 1761052341,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116591,
@@ -2219,6 +2235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90789,
+      "num": 207631,
+      "word": "女子穿7厘米高跟鞋轻松爬岩壁",
+      "onboard_time": 1761056061,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90525,
       "num": 145923,
       "word": "郑州迎入秋后第一场雪",
@@ -2281,6 +2305,14 @@
       "onboard_time": 1761043341,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88700,
+      "num": 577375,
+      "word": "杨幂一不小心登顶了",
+      "onboard_time": 1761044721,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 88241,
@@ -2379,14 +2411,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 86191,
-      "num": 577375,
-      "word": "杨幂一不小心登顶了",
-      "onboard_time": 1761044721,
-      "rank": 37,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 86118,
       "num": 562987,
       "word": "正式确诊为烤肠型人格",
@@ -2459,6 +2483,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 83031,
+      "num": 203218,
+      "word": "台湾名嘴赖岳谦说期待两岸统一",
+      "onboard_time": 1761057562,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82959,
       "num": 86600,
       "word": "高市早苗上台右翼政策将更加右转",
@@ -2496,6 +2528,14 @@
       "word": "百色一地被泡12天后积水仍有齐腰深",
       "onboard_time": 1761015619,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81612,
+      "num": 207726,
+      "word": "新人选择花几百块租金结婚",
+      "onboard_time": 1761056061,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2667,22 +2707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 74929,
-      "num": 207726,
-      "word": "新人选择花几百块租金结婚",
-      "onboard_time": 1761056061,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74897,
-      "num": 207631,
-      "word": "女子穿7厘米高跟鞋轻松爬岩壁",
-      "onboard_time": 1761056061,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74828,
       "num": 74828,
       "word": "钱塘江罕见龙鳞潮接好运",
@@ -2721,6 +2745,14 @@
       "onboard_time": 1761010281,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 72850,
+      "num": 206785,
+      "word": "多品牌回应产品检出苏丹红",
+      "onboard_time": 1761056602,
+      "rank": 48,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 72469,
@@ -2971,14 +3003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 59286,
-      "num": 206785,
-      "word": "多品牌回应产品检出苏丹红",
-      "onboard_time": 1761056602,
-      "rank": 48,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 58927,
       "num": 58927,
       "word": "为什么eSIM这么难落地",
@@ -3051,6 +3075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56522,
+      "num": 203281,
+      "word": "短剧还珠格格主演阵容",
+      "onboard_time": 1761057261,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 55154,
       "num": 237281,
       "word": "人生不该被科技硬控",
@@ -3067,14 +3099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 54898,
-      "num": 209780,
-      "word": "南极游从20万跌至5万",
-      "onboard_time": 1761056361,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54859,
       "num": 115971,
       "word": "安氏半导体的遭遇史无前例",
@@ -3089,14 +3113,6 @@
       "onboard_time": 1760972602,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 53337,
-      "num": 208235,
-      "word": "当地规劝烤肉店停止玉米做燃料",
-      "onboard_time": 1761056602,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52226,
