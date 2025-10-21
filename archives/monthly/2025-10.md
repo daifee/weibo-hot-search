@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 16:49:33
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 17:29:23
 </p>
 </blockquote>
 <p>
@@ -861,14 +861,14 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E5%8D%95%E6%96%B9%E9%9D%A2%E5%AE%98%E5%AE%A3%E8%A2%AB%E9%BA%A6%E8%BF%AA%E5%A8%9C%E5%85%AC%E5%8F%B8%E5%A9%89%E6%8B%92%E4%BA%86%23" target="weibo">
-姜潮单方面官宣被麦迪娜公司婉拒了（热度：1364560）
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AD%A6%E7%94%9F%E6%8A%A2%E9%B8%A1%E6%8E%92%E7%9A%84%E6%A0%A1%E9%95%BF%E7%A6%BB%E4%B8%96%23" target="weibo">
+被学生抢鸡排的校长离世（热度：1368155）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AD%A6%E7%94%9F%E6%8A%A2%E9%B8%A1%E6%8E%92%E7%9A%84%E6%A0%A1%E9%95%BF%E7%A6%BB%E4%B8%96%23" target="weibo">
-被学生抢鸡排的校长离世（热度：1354040）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E6%BD%AE%E5%8D%95%E6%96%B9%E9%9D%A2%E5%AE%98%E5%AE%A3%E8%A2%AB%E9%BA%A6%E8%BF%AA%E5%A8%9C%E5%85%AC%E5%8F%B8%E5%A9%89%E6%8B%92%E4%BA%86%23" target="weibo">
+姜潮单方面官宣被麦迪娜公司婉拒了（热度：1364560）
 </a>
 </li>
 
@@ -2393,6 +2393,12 @@ K字签证不能与移民划等号（热度：860737）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E6%9B%B4%E6%8D%A2%E9%97%A8%E5%A4%B4%23" target="weibo">
 西贝更换门头（热度：852900）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%8D%E6%B8%A9%E5%90%8E%E7%9A%84%E6%81%B6%E5%BF%83%E7%A9%BF%E6%90%AD%23" target="weibo">
+降温后的恶心穿搭（热度：852764）
 </a>
 </li>
 
@@ -5451,6 +5457,12 @@ GEN战胜T1（热度：526738）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%97%E5%89%AF%E9%83%A8%E9%95%BF%E8%A2%AB%E7%88%86%E8%AE%BF%E9%9F%A9%E6%9C%9F%E9%97%B4%E6%80%A7%E4%BE%B5%E9%9F%A9%E5%85%AC%E5%8A%A1%E5%91%98%23" target="weibo">
+越南副部长被爆访韩期间性侵韩公务员（热度：517349）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BD%93%E9%80%89%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%23" target="weibo">
 中方回应高市早苗当选日本首相（热度：517070）
 </a>
@@ -5999,18 +6011,6 @@ iG回家（热度：487321）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BD%E6%B1%9F%E4%B8%80%E6%99%AF%E5%8C%BA%E9%83%A8%E5%88%86%E8%AE%BE%E8%AE%A1%E8%A2%AB%E6%8C%87%E8%A7%82%E6%84%9F%E4%B8%8D%E9%80%82%23" target="weibo">
 丽江一景区部分设计被指观感不适（热度：486136）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E5%BC%A0%E5%BA%B7%E4%B9%90%20%E5%8F%8C%E7%94%B7%E4%B8%BB%23" target="weibo">
-曾舜晞张康乐 双男主（热度：486124）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E7%BB%8F%E7%9F%AD%E8%A7%86%E9%A2%91%E5%BC%95%E6%B5%81%E6%B2%BB%E7%96%97%E5%90%8E12%E5%A4%A9%E5%8E%BB%E4%B8%96%23" target="weibo">
-女孩经短视频引流治疗后12天去世（热度：486060）
 </a>
 </li>
 

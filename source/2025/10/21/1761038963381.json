@@ -1,0 +1,410 @@
+{
+  "runTime": 1761038963381,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1368155,
+        "num": 1368155,
+        "word": "被学生抢鸡排的校长离世",
+        "onboard_time": 1761034759,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187613,
+        "num": 1325391,
+        "word": "外交部回应特朗普称明年初访华",
+        "onboard_time": 1761034940,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45332,
+        "num": 1300519,
+        "word": "中国把不可能变成一定能",
+        "onboard_time": 1761035482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307005,
+        "num": 1202751,
+        "word": "特朗普称一年后美国稀土将多如牛毛",
+        "onboard_time": 1761028162,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214398,
+        "num": 1147875,
+        "word": "官方通报2人破坏为人民服务航标",
+        "onboard_time": 1761029301,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 390261,
+        "num": 1084970,
+        "word": "中方回应高市早苗当选日本首相",
+        "onboard_time": 1761033140,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186226,
+        "num": 1049586,
+        "word": "阴阳师UR",
+        "onboard_time": 1761032061,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183056,
+        "num": 979905,
+        "word": "华为Mate70Air曝光",
+        "onboard_time": 1761036742,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 167408,
+        "num": 913973,
+        "word": "短剧还珠先导片谁的DNA动了",
+        "onboard_time": 1761030321,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159635,
+        "num": 883367,
+        "word": "卢浮宫劫案可能是粉红豹所为",
+        "onboard_time": 1761021562,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 852764,
+        "num": 852764,
+        "word": "降温后的恶心穿搭",
+        "onboard_time": 1761034280,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 517349,
+        "num": 517349,
+        "word": "越南副部长被爆访韩期间性侵韩公务员",
+        "onboard_time": 1761036441,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 346827,
+        "num": 346827,
+        "word": "发现很多人都不做美甲了",
+        "onboard_time": 1761035841,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 234135,
+        "num": 234135,
+        "word": "高市早苗当选首相",
+        "onboard_time": 1761022583,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224649,
+        "num": 224649,
+        "word": "金价大涨影响年轻人结婚",
+        "onboard_time": 1761028221,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220974,
+        "num": 220974,
+        "word": "彭小苒不想困在八年前东宫里",
+        "onboard_time": 1761034640,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212450,
+        "num": 212450,
+        "word": "刘冲回应VOGUE阵容",
+        "onboard_time": 1761031882,
+        "rank": 16,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 203763,
+        "num": 203763,
+        "word": "阿迪达斯羽绒服被指雪中飞代工",
+        "onboard_time": 1761032421,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176612,
+        "num": 176612,
+        "word": "高市早苗当选日本首相现场",
+        "onboard_time": 1761036140,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100135,
+        "num": 144247,
+        "word": "挖到拼多多好评率99%的十年老店",
+        "onboard_time": 1761037581,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 178677,
+        "num": 142596,
+        "word": "我下班了不说了",
+        "onboard_time": 1761035841,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129057,
+        "num": 129057,
+        "word": "新娘金手镯婚前被堂嫂掉包成铜",
+        "onboard_time": 1761026962,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128704,
+        "num": 128704,
+        "word": "2人破坏为人民服务航标被立案调查",
+        "onboard_time": 1761031342,
+        "rank": 22,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 127389,
+        "num": 127389,
+        "word": "阿宽红油面皮里发现印度谷螟幼虫",
+        "onboard_time": 1761028521,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126897,
+        "num": 126897,
+        "word": "刘宇宁 拍了4个古装男主3部破万了",
+        "onboard_time": 1761033380,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120742,
+        "num": 120742,
+        "word": "韩国承认游戏被中国反超",
+        "onboard_time": 1761032000,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111196,
+        "num": 111196,
+        "word": "女装店主不建议买300元以下羽绒服",
+        "onboard_time": 1761023122,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109337,
+        "num": 109337,
+        "word": "VOGUE发了吉克隽逸未修图",
+        "onboard_time": 1761037402,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106959,
+        "num": 106959,
+        "word": "美国彩民买错彩票意外中29亿元",
+        "onboard_time": 1761033261,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90802,
+        "num": 99028,
+        "word": "樊振东太潮了",
+        "onboard_time": 1761036021,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98411,
+        "num": 98411,
+        "word": "体重1600斤会发生什么",
+        "onboard_time": 1761035723,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 72317,
+        "num": 96623,
+        "word": "陈奕迅代言红米",
+        "onboard_time": 1761035061,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96375,
+        "num": 96375,
+        "word": "你是说陈瑶演邪恶水蜜桃吗",
+        "onboard_time": 1761038481,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96229,
+        "num": 96229,
+        "word": "石宇奇法国公开赛退赛",
+        "onboard_time": 1761038602,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87841,
+        "num": 92442,
+        "word": "东北网友拍下不少燕子滞留没南飞",
+        "onboard_time": 1761018681,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66201,
+        "num": 91019,
+        "word": "云合",
+        "onboard_time": 1761037522,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89825,
+        "num": 89825,
+        "word": "石宇奇回应退出法国公开赛",
+        "onboard_time": 1761038481,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89690,
+        "num": 89690,
+        "word": "VOGUE官宣了刘亦菲",
+        "onboard_time": 1761030802,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55103,
+        "num": 89238,
+        "word": "内娱明星都开始干农活了",
+        "onboard_time": 1761038781,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79837,
+        "num": 89181,
+        "word": "鱼你有染超芳名远扬",
+        "onboard_time": 1761037941,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89156,
+        "num": 89156,
+        "word": "冷冷冷冷冷如何正确保暖",
+        "onboard_time": 1761011599,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87117,
+        "num": 87117,
+        "word": "田曦薇说睡觉没有被子会很不幸福",
+        "onboard_time": 1761032061,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58801,
+        "num": 84065,
+        "word": "撞名瑞幸的幸运咖居然是蜜雪儿子",
+        "onboard_time": 1761037581,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81207,
+        "num": 81207,
+        "word": "现货黄金失守4300",
+        "onboard_time": 1761036081,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 80423,
+        "num": 80423,
+        "word": "棒棒堂6人均未服兵役",
+        "onboard_time": 1761032541,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80233,
+        "num": 80233,
+        "word": "他没有教我物理 他教我开车",
+        "onboard_time": 1761038721,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79972,
+        "num": 79972,
+        "word": "国际金银突然下挫",
+        "onboard_time": 1761036921,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79583,
+        "num": 79583,
+        "word": "王曼昱全运会单项大满贯",
+        "onboard_time": 1761032361,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78948,
+        "num": 78948,
+        "word": "闻泰科技封涨停",
+        "onboard_time": 1761037822,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 75888,
+        "num": 78471,
+        "word": "石破茂卸任后笑得合不拢嘴",
+        "onboard_time": 1761036502,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航中国式现代化#"
+    }
+  }
+}

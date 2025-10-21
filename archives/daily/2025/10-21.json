@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1761036573871,
+  "endTime": 1761038963381,
   "band_list": [
     {
       "raw_hot": 2016406,
@@ -27,8 +27,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1354040,
-      "num": 1354040,
+      "raw_hot": 1368155,
+      "num": 1368155,
       "word": "被学生抢鸡排的校长离世",
       "onboard_time": 1761034759,
       "rank": 0,
@@ -72,6 +72,14 @@
       "word": "被冻醒",
       "onboard_time": 1760985853,
       "rank": 37,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 852764,
+      "num": 852764,
+      "word": "降温后的恶心穿搭",
+      "onboard_time": 1761034280,
+      "rank": 18,
       "category": "幽默"
     },
     {
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 590001,
-      "num": 578656,
+      "num": 1147875,
       "word": "官方通报2人破坏为人民服务航标",
       "onboard_time": 1761029301,
       "rank": 26,
@@ -179,8 +187,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 517349,
+      "num": 517349,
+      "word": "越南副部长被爆访韩期间性侵韩公务员",
+      "onboard_time": 1761036441,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 517070,
-      "num": 517070,
+      "num": 1084970,
       "word": "中方回应高市早苗当选日本首相",
       "onboard_time": 1761033140,
       "rank": 1,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 506980,
-      "num": 417160,
+      "num": 1202751,
       "word": "特朗普称一年后美国稀土将多如牛毛",
       "onboard_time": 1761028162,
       "rank": 35,
@@ -307,14 +323,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 407931,
-      "num": 279550,
-      "word": "降温后的恶心穿搭",
-      "onboard_time": 1761034280,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 401419,
       "num": 401419,
       "word": "阿宽红油面皮里发现印度谷螟幼虫",
@@ -411,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 346827,
+      "num": 346827,
+      "word": "发现很多人都不做美甲了",
+      "onboard_time": 1761035841,
+      "rank": 23,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 345680,
       "num": 204956,
       "word": "中国女子在韩国住宅楼火灾身亡",
@@ -420,7 +436,7 @@
     },
     {
       "raw_hot": 331854,
-      "num": 404758,
+      "num": 913973,
       "word": "短剧还珠先导片谁的DNA动了",
       "onboard_time": 1761030321,
       "rank": 13,
@@ -428,7 +444,7 @@
     },
     {
       "raw_hot": 331220,
-      "num": 331220,
+      "num": 1049586,
       "word": "阴阳师UR",
       "onboard_time": 1761032061,
       "rank": 16,
@@ -484,7 +500,7 @@
     },
     {
       "raw_hot": 280508,
-      "num": 280508,
+      "num": 1325391,
       "word": "外交部回应特朗普称明年初访华",
       "onboard_time": 1761034940,
       "rank": 19,
@@ -611,14 +627,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 192250,
-      "num": 192250,
-      "word": "发现很多人都不做美甲了",
-      "onboard_time": 1761035841,
-      "rank": 23,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 191609,
       "num": 252125,
       "word": "泽连斯基与特朗普对骂",
@@ -667,6 +675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 183056,
+      "num": 979905,
+      "word": "华为Mate70Air曝光",
+      "onboard_time": 1761036742,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 181995,
       "num": 181995,
       "word": "参观胖东来学费每人2万",
@@ -681,6 +697,22 @@
       "onboard_time": 1761031040,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178677,
+      "num": 142596,
+      "word": "我下班了不说了",
+      "onboard_time": 1761035841,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 176612,
+      "num": 176612,
+      "word": "高市早苗当选日本首相现场",
+      "onboard_time": 1761036140,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 176093,
@@ -929,14 +961,6 @@
       "onboard_time": 1761021742,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136475,
-      "num": 136475,
-      "word": "高市早苗当选日本首相现场",
-      "onboard_time": 1761036140,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 136333,
@@ -1211,6 +1235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109337,
+      "num": 109337,
+      "word": "VOGUE发了吉克隽逸未修图",
+      "onboard_time": 1761037402,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 109304,
       "num": 109304,
       "word": "恋与深空世界深处剧情更新",
@@ -1427,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100135,
+      "num": 144247,
+      "word": "挖到拼多多好评率99%的十年老店",
+      "onboard_time": 1761037581,
+      "rank": 19,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 99717,
       "num": 145765,
       "word": "陈奕迅代言红米",
@@ -1451,12 +1491,36 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 98411,
+      "num": 98411,
+      "word": "体重1600斤会发生什么",
+      "onboard_time": 1761035723,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97289,
       "num": 154433,
       "word": "夏之光马秋元新剧cp感",
       "onboard_time": 1761016881,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96375,
+      "num": 96375,
+      "word": "你是说陈瑶演邪恶水蜜桃吗",
+      "onboard_time": 1761038481,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96229,
+      "num": 96229,
+      "word": "石宇奇法国公开赛退赛",
+      "onboard_time": 1761038602,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 95711,
@@ -1571,12 +1635,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 88637,
-      "num": 88637,
-      "word": "体重1600斤会发生什么",
-      "onboard_time": 1761035723,
-      "rank": 47,
-      "category": "幽默"
+      "raw_hot": 89825,
+      "num": 89825,
+      "word": "石宇奇回应退出法国公开赛",
+      "onboard_time": 1761038481,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 88241,
@@ -1723,6 +1787,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80233,
+      "num": 80233,
+      "word": "他没有教我物理 他教我开车",
+      "onboard_time": 1761038721,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79972,
+      "num": 79972,
+      "word": "国际金银突然下挫",
+      "onboard_time": 1761036921,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 79837,
+      "num": 89181,
+      "word": "鱼你有染超芳名远扬",
+      "onboard_time": 1761037941,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79834,
       "num": 110861,
       "word": "Doinb谈LPL粉丝",
@@ -1745,6 +1833,14 @@
       "onboard_time": 1761023243,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 78948,
+      "num": 78948,
+      "word": "闻泰科技封涨停",
+      "onboard_time": 1761037822,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 78305,
@@ -1777,6 +1873,14 @@
       "onboard_time": 1761035241,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 75888,
+      "num": 129427,
+      "word": "石破茂卸任后笑得合不拢嘴",
+      "onboard_time": 1761036502,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 75740,
@@ -1915,6 +2019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66201,
+      "num": 91019,
+      "word": "云合",
+      "onboard_time": 1761037522,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 65940,
       "num": 82797,
       "word": "VOGUE回应化妆室在马圈里",
@@ -2027,6 +2139,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 58801,
+      "num": 84065,
+      "word": "撞名瑞幸的幸运咖居然是蜜雪儿子",
+      "onboard_time": 1761037581,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58639,
       "num": 58639,
       "word": "总要来趟高淳吧",
@@ -2067,6 +2187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55103,
+      "num": 89238,
+      "word": "内娱明星都开始干农活了",
+      "onboard_time": 1761038781,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54859,
       "num": 115971,
       "word": "安氏半导体的遭遇史无前例",
@@ -2081,14 +2209,6 @@
       "onboard_time": 1760972602,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 53611,
-      "num": 129427,
-      "word": "石破茂卸任后笑得合不拢嘴",
-      "onboard_time": 1761036502,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 52226,
@@ -2179,6 +2299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 45332,
+      "num": 1300519,
+      "word": "中国把不可能变成一定能",
+      "onboard_time": 1761035482,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44098,
       "num": 109451,
       "word": "高市早苗曾叫嚣台湾有事日本必入",
@@ -2225,14 +2353,6 @@
       "onboard_time": 1761029301,
       "rank": 27,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 32216,
-      "num": 397830,
-      "word": "中国把不可能变成一定能",
-      "onboard_time": 1761035482,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 31563,
