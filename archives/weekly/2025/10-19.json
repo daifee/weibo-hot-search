@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761081839360,
+  "endTime": 1761082615225,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -9987,6 +9987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25506,
+      "num": 28405,
+      "word": "卢浮宫十年削减190个安保监控岗",
+      "onboard_time": 1761072854,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 25476,
       "num": 188491,
       "word": "谁懂先天省钱圣体的含金量",
@@ -10033,14 +10041,6 @@
       "onboard_time": 1760895016,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24471,
-      "num": 28405,
-      "word": "卢浮宫十年削减190个安保监控岗",
-      "onboard_time": 1761072854,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 24332,
@@ -10243,20 +10243,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 16989,
+      "num": 25406,
+      "word": "特朗普说自己对乌克兰够好了",
+      "onboard_time": 1761077053,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16414,
       "num": 240192,
       "word": "随机打开北京秋日美景盲盒",
       "onboard_time": 1761030082,
       "rank": 14,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 16052,
-      "num": 20804,
-      "word": "特朗普说自己对乌克兰够好了",
-      "onboard_time": 1761077053,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 16007,
