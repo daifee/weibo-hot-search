@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 11:29:46
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 11:52:15
 </p>
 </blockquote>
 <p>
@@ -1953,6 +1953,12 @@ GEN抽到TES（热度：1062021）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%BC%80%E5%9C%BA%E5%88%98%E4%BA%A6%E8%8F%B2%E7%BB%93%E5%B0%BE%23" target="weibo">
+网传辛芷蕾开场刘亦菲结尾（热度：939572）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E6%B3%BD%E5%90%8E%E7%A7%B0%E6%B0%B4%E5%86%9B%E5%AE%B3%E4%BA%86%E5%AE%97%E9%A6%A5%E8%8E%89%23" target="weibo">
 宗泽后称水军害了宗馥莉（热度：939509）
 </a>
@@ -2655,12 +2661,6 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%BC%80%E5%9C%BA%E5%88%98%E4%BA%A6%E8%8F%B2%E7%BB%93%E5%B0%BE%23" target="weibo">
-网传辛芷蕾开场刘亦菲结尾（热度：806936）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%20%E6%8A%A2%E7%A5%A8%23" target="weibo">
 王俊凯 抢票（热度：805585）
 </a>
@@ -3251,6 +3251,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E7%94%B7%E5%AD%90%E4%BA%B2%E9%99%8C%E7%94%9F%E5%A5%B3%E5%A8%83%E7%A7%B0%E5%A4%AA%E5%8F%AF%E7%88%B1%23" target="weibo">
 高铁上男子亲陌生女娃称太可爱（热度：708860）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3SU7%E5%80%9F%E6%9C%8B%E5%8F%8B%E5%BC%8010%E5%88%86%E9%92%9F%E8%A2%AB%E6%92%9E%E7%83%82%23" target="weibo">
+小米SU7借朋友开10分钟被撞烂（热度：708822）
 </a>
 </li>
 
@@ -5811,6 +5817,12 @@ iPhone的一生要经历三次死亡（热度：494807）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%85%A8%E7%90%83%E7%88%86%E4%B9%B0%E7%99%BD%E9%93%B6%23" target="weibo">
+印度人全球爆买白银（热度：492237）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%A9%AC%E6%80%9D%E7%BA%AF%E8%AF%B4%E7%9A%84%E8%BF%99%E4%B8%AA%E4%BA%BA%E6%98%AF%E6%9D%A8%E7%B4%AB%23" target="weibo">
 原来马思纯说的这个人是杨紫（热度：491167）
 </a>
@@ -5999,18 +6011,6 @@ KT对战TES（热度：478626）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%94%A6%E8%B5%9B%E6%92%A4%E4%B8%8B%E5%8F%B0%E6%B9%BE%E5%9C%B0%E5%8C%BA%E4%BC%AA%E6%97%97%23" target="weibo">
 亚锦赛撤下台湾地区伪旗（热度：477999）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TheShy%E5%9B%9E%E5%BA%94%E4%B8%8A%E5%8D%95%E9%9F%A6%E9%B2%81%E6%96%AF%23" target="weibo">
-TheShy回应上单韦鲁斯（热度：477977）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E9%AB%98%E4%BC%9A%E7%9B%B4%E6%92%AD%23" target="weibo">
-时代少年团高会直播（热度：477899）
 </a>
 </li>
 

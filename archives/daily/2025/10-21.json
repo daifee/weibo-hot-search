@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1761017386371,
+  "endTime": 1761018735398,
   "band_list": [
     {
       "raw_hot": 2016406,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 1043131,
-      "num": 195738,
+      "num": 477867,
       "word": "张萌新剧官宣曾舜晞张康乐",
       "onboard_time": 1761013760,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 939572,
+      "num": 939572,
+      "word": "网传辛芷蕾开场刘亦菲结尾",
+      "onboard_time": 1761015559,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 884018,
@@ -36,19 +44,11 @@
     },
     {
       "raw_hot": 808731,
-      "num": 196436,
+      "num": 746996,
       "word": "免费火锅骗走600多名老人4200万",
       "onboard_time": 1761007942,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 806936,
-      "num": 196943,
-      "word": "网传辛芷蕾开场刘亦菲结尾",
-      "onboard_time": 1761015559,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 786460,
@@ -59,8 +59,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 708822,
+      "num": 708822,
+      "word": "小米SU7借朋友开10分钟被撞烂",
+      "onboard_time": 1761016881,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 545113,
-      "num": 194233,
+      "num": 415512,
       "word": "13岁女孩目不斜视逆行闯红灯被撞",
       "onboard_time": 1761010761,
       "rank": 21,
@@ -76,11 +84,27 @@
     },
     {
       "raw_hot": 511799,
-      "num": 192110,
+      "num": 332250,
       "word": "王大陆逃兵役案持续扩大",
       "onboard_time": 1761012559,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 492237,
+      "num": 1042663,
+      "word": "印度人全球爆买白银",
+      "onboard_time": 1761015800,
+      "rank": 28,
+      "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 453846,
+      "num": 1072615,
+      "word": "王楚钦多哈夺冠球台运回了先农坛",
+      "onboard_time": 1761014661,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 450621,
@@ -116,23 +140,15 @@
     },
     {
       "raw_hot": 432947,
-      "num": 190712,
+      "num": 200216,
       "word": "金价银价大反攻",
       "onboard_time": 1761004039,
       "rank": 4,
       "category": "财经"
     },
     {
-      "raw_hot": 397970,
-      "num": 1061824,
-      "word": "王楚钦多哈夺冠球台运回了先农坛",
-      "onboard_time": 1761014661,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 394030,
-      "num": 852967,
+      "num": 980559,
       "word": "卢浮宫被盗藏品可在1小时内被分解",
       "onboard_time": 1760976440,
       "rank": 36,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 385170,
-      "num": 385170,
+      "num": 953304,
       "word": "国安部发布拍照炫耀泄密案例",
       "onboard_time": 1761003078,
       "rank": 30,
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 349639,
-      "num": 201127,
+      "num": 990097,
       "word": "你好种地少年3定档",
       "onboard_time": 1761013760,
       "rank": 6,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 345680,
-      "num": 191431,
+      "num": 204956,
       "word": "中国女子在韩国住宅楼火灾身亡",
       "onboard_time": 1761011719,
       "rank": 15,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 297258,
-      "num": 297258,
+      "num": 1059333,
       "word": "iOS26液态玻璃效果能关了",
       "onboard_time": 1761007521,
       "rank": 7,
@@ -211,24 +227,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 261253,
-      "num": 209643,
-      "word": "印度人全球爆买白银",
-      "onboard_time": 1761015800,
-      "rank": 28,
-      "category": "海外新闻,财经"
-    },
-    {
-      "raw_hot": 246151,
-      "num": 185052,
-      "word": "小米SU7借朋友开10分钟被撞烂",
-      "onboard_time": 1761016881,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 205136,
-      "num": 190254,
+      "num": 962984,
       "word": "特朗普开始拆除白宫建筑改建宴会厅",
       "onboard_time": 1761013159,
       "rank": 24,
@@ -299,6 +299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 164410,
+      "num": 164410,
+      "word": "曾舜晞张康乐 双男主",
+      "onboard_time": 1761017421,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162391,
       "num": 162391,
       "word": "多款知名进口药将退出国内市场",
@@ -347,12 +355,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 150974,
+      "num": 150974,
+      "word": "00后对出莫言上联获10万奖金",
+      "onboard_time": 1761018081,
+      "rank": 24,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 150442,
+      "num": 150442,
+      "word": "MG4偷换宁德时代电池",
+      "onboard_time": 1761017781,
+      "rank": 25,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 150344,
       "num": 237380,
       "word": "韩国选手破了孙杨亚洲纪录",
       "onboard_time": 1760961501,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148680,
+      "num": 148680,
+      "word": "王自如入职雷鸟创新",
+      "onboard_time": 1761018021,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 146109,
@@ -371,6 +403,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 133246,
+      "num": 133246,
+      "word": "每年的降温都有自己的逻辑",
+      "onboard_time": 1761018142,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129587,
       "num": 129587,
       "word": "马龙回复王楚钦",
@@ -379,12 +419,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129278,
+      "num": 129278,
+      "word": "冷空气将进一步南下",
+      "onboard_time": 1761018021,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122062,
       "num": 122062,
       "word": "住酒店被前台安排在尾房",
       "onboard_time": 1761002358,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119921,
+      "num": 200337,
+      "word": "余生有涯",
+      "onboard_time": 1761013100,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 119057,
@@ -435,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113024,
+      "num": 113024,
+      "word": "东北网友拍下不少燕子滞留没南飞",
+      "onboard_time": 1761018681,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112225,
       "num": 154467,
       "word": "VOGUE 马圈化妆室",
@@ -443,11 +507,27 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 111065,
+      "num": 153371,
+      "word": "女生误卖奶奶藏13万金首饰旧衣",
+      "onboard_time": 1761017360,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108749,
       "num": 154161,
       "word": "美国民众烦透了两党之争",
       "onboard_time": 1761006921,
       "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 107634,
+      "num": 156235,
+      "word": "印海军官兵集体在航母做瑜伽",
+      "onboard_time": 1761017300,
+      "rank": 32,
       "category": "国际时政"
     },
     {
@@ -467,8 +547,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105351,
+      "num": 105351,
+      "word": "田曦薇李昀锐或将合作嫁金钗",
+      "onboard_time": 1761017421,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103052,
-      "num": 190996,
+      "num": 200260,
       "word": "京东国补来了",
       "onboard_time": 1761015920,
       "rank": 18,
@@ -481,6 +569,14 @@
       "onboard_time": 1760973922,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 102444,
+      "num": 102444,
+      "word": "龚俊暗河传配音花絮",
+      "onboard_time": 1761018500,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 102435,
@@ -523,14 +619,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99194,
-      "num": 191392,
-      "word": "余生有涯",
-      "onboard_time": 1761013100,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 97247,
       "num": 154433,
       "word": "夏之光马秋元新剧cp感",
@@ -563,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91970,
+      "num": 149271,
+      "word": "交换人生官宣",
+      "onboard_time": 1761018200,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91600,
       "num": 91600,
       "word": "她这一套下来我要躺到明年10月",
@@ -576,6 +672,22 @@
       "word": "郑州迎入秋后第一场雪",
       "onboard_time": 1761002178,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90246,
+      "num": 90246,
+      "word": "一群洋娃娃里出了个东方美人",
+      "onboard_time": 1761018681,
+      "rank": 42,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 89280,
+      "num": 89280,
+      "word": "乱穿衣的季节",
+      "onboard_time": 1761017902,
+      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -611,12 +723,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 86068,
+      "num": 86068,
+      "word": "谁说内娱没有好的电视剧海报",
+      "onboard_time": 1761018321,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85420,
       "num": 78363,
       "word": "彭小苒原声",
       "onboard_time": 1760970801,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85414,
+      "num": 85414,
+      "word": "第五人格",
+      "onboard_time": 1761018622,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 85388,
@@ -707,6 +835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 74927,
+      "num": 96746,
+      "word": "女子早起喝隔夜水发现疑似虫卵物",
+      "onboard_time": 1761018622,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74828,
       "num": 74828,
       "word": "钱塘江罕见龙鳞潮接好运",
@@ -721,14 +857,6 @@
       "onboard_time": 1760972902,
       "rank": 33,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 73305,
-      "num": 153371,
-      "word": "女生误卖奶奶藏13万金首饰旧衣",
-      "onboard_time": 1761017360,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72939,
@@ -948,7 +1076,7 @@
     },
     {
       "raw_hot": 48884,
-      "num": 315124,
+      "num": 1046288,
       "word": "公安部公布打击整治网络谣言10起案例",
       "onboard_time": 1761004039,
       "rank": 2,
@@ -971,6 +1099,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 47321,
+      "num": 439741,
+      "word": "北京的秋天太适合露营了",
+      "onboard_time": 1761015679,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 45669,
       "num": 45669,
       "word": "新高铁小桌板有手机支架",
@@ -985,22 +1121,6 @@
       "onboard_time": 1760973922,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 40641,
-      "num": 192913,
-      "word": "北京的秋天太适合露营了",
-      "onboard_time": 1761015679,
-      "rank": 14,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 30266,
-      "num": 154821,
-      "word": "印海军官兵集体在航母做瑜伽",
-      "onboard_time": 1761017300,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28569,
