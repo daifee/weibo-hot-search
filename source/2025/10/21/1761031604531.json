@@ -1,0 +1,410 @@
+{
+  "runTime": 1761031604531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 369238,
+        "num": 1059078,
+        "word": "东北网友拍下不少燕子滞留没南飞",
+        "onboard_time": 1761018681,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181975,
+        "num": 673259,
+        "word": "入冬",
+        "onboard_time": 1761031040,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 6494,
+        "num": 583528,
+        "word": "前三季度中国GDP同比增长5.2%",
+        "onboard_time": 1760929160,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 578656,
+        "num": 578656,
+        "word": "官方通报2人破坏为人民服务航标",
+        "onboard_time": 1761029301,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 339448,
+        "num": 401787,
+        "word": "特朗普称一年后美国稀土将多如牛毛",
+        "onboard_time": 1761028162,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 655239,
+        "num": 400031,
+        "word": "卢浮宫劫案可能是粉红豹所为",
+        "onboard_time": 1761021562,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 377762,
+        "num": 377762,
+        "word": "高市早苗当选首相",
+        "onboard_time": 1761022583,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 369618,
+        "num": 369618,
+        "word": "日本迎来首位女首相",
+        "onboard_time": 1761022883,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 291154,
+        "num": 363875,
+        "word": "荷兰寻求与中方会面",
+        "onboard_time": 1761026181,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 200026,
+        "num": 360585,
+        "word": "外卖点的米饭居然是电饭煲装来的",
+        "onboard_time": 1761026841,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 359851,
+        "num": 359851,
+        "word": "女装店主不建议买300元以下羽绒服",
+        "onboard_time": 1761023122,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337511,
+        "num": 337511,
+        "word": "阿宽红油面皮里发现印度谷螟幼虫",
+        "onboard_time": 1761028521,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216309,
+        "num": 216309,
+        "word": "新娘金手镯婚前被堂嫂掉包成铜",
+        "onboard_time": 1761026962,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180644,
+        "num": 212311,
+        "word": "短剧还珠先导片谁的DNA动了",
+        "onboard_time": 1761030321,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16414,
+        "num": 211654,
+        "word": "随机打开北京秋日美景盲盒",
+        "onboard_time": 1761030082,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 211144,
+        "num": 211144,
+        "word": "原研药再次面临全军覆灭",
+        "onboard_time": 1761022822,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 208631,
+        "num": 208631,
+        "word": "VOGUE官宣了刘亦菲",
+        "onboard_time": 1761030802,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165853,
+        "num": 165853,
+        "word": "柯佳嬿老公涉嫌逃兵役",
+        "onboard_time": 1761022342,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55068,
+        "num": 164801,
+        "word": "咖啡机界的劳京东1元拍卖",
+        "onboard_time": 1761030682,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164187,
+        "num": 164187,
+        "word": "冷冷冷冷冷如何正确保暖",
+        "onboard_time": 1761011599,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 413969,
+        "num": 163463,
+        "word": "阴阳师",
+        "onboard_time": 1761030201,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 283683,
+        "num": 162058,
+        "word": "金价大涨影响年轻人结婚",
+        "onboard_time": 1761028221,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160623,
+        "num": 160623,
+        "word": "陈柏霖伪造高血压病例逃兵役",
+        "onboard_time": 1761031461,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160237,
+        "num": 160237,
+        "word": "Peanut说中餐比韩料更好吃",
+        "onboard_time": 1761028641,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156038,
+        "num": 156038,
+        "word": "2人破坏为人民服务航标被立案调查",
+        "onboard_time": 1761031342,
+        "rank": 24,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 153216,
+        "num": 153216,
+        "word": "她一个人干了一个小厂子的活",
+        "onboard_time": 1761029120,
+        "rank": 25,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 36418,
+        "num": 149960,
+        "word": "原来这些爆款都是KimJones设计的",
+        "onboard_time": 1761029301,
+        "rank": 26,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 148859,
+        "num": 148859,
+        "word": "90后女生高职毕业任教清华",
+        "onboard_time": 1761030381,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127412,
+        "num": 127412,
+        "word": "高市早苗当选首相之路一波三折",
+        "onboard_time": 1761024741,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 71453,
+        "num": 121908,
+        "word": "交换人生官宣",
+        "onboard_time": 1761018200,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117146,
+        "num": 117146,
+        "word": "曾舜晞张康乐 双男主",
+        "onboard_time": 1761017421,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116591,
+        "num": 116591,
+        "word": "第一次见把男主关鸟笼里的",
+        "onboard_time": 1761030981,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115128,
+        "num": 115128,
+        "word": "朋友圈不点赞真的没别的心思",
+        "onboard_time": 1761022763,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107361,
+        "num": 107361,
+        "word": "iPhone17系列销量超预期",
+        "onboard_time": 1761031101,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105607,
+        "num": 105607,
+        "word": "李一桐田曦薇财迷到一起去了",
+        "onboard_time": 1761030201,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171733,
+        "num": 105519,
+        "word": "暗河传",
+        "onboard_time": 1761020422,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104897,
+        "num": 104897,
+        "word": "免费火锅骗走600多名老人4200万",
+        "onboard_time": 1761007942,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104050,
+        "num": 104050,
+        "word": "原来十三薪和年终奖是两个东西",
+        "onboard_time": 1761029660,
+        "rank": 37,
+        "category": "情感,科学科普"
+      },
+      {
+        "raw_hot": 102084,
+        "num": 102084,
+        "word": "江浙沪人是先天留学圣体吧",
+        "onboard_time": 1761028401,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99733,
+        "num": 99733,
+        "word": "印度称捡到未爆中国导弹",
+        "onboard_time": 1761020781,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95834,
+        "num": 95834,
+        "word": "小伙辞月薪8千工作卖麻糍日入1千",
+        "onboard_time": 1761023003,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94143,
+        "num": 94143,
+        "word": "milkyway被曝私联粉丝",
+        "onboard_time": 1761022942,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93327,
+        "num": 93327,
+        "word": "辽宁失联女童为何现身10米深山沟",
+        "onboard_time": 1761029120,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92956,
+        "num": 92956,
+        "word": "结婚了但是不熟",
+        "onboard_time": 1761019761,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90829,
+        "num": 90829,
+        "word": "非洲18岁球星遭绑架撕票",
+        "onboard_time": 1761025342,
+        "rank": 44,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 87488,
+        "num": 87488,
+        "word": "第一次在鱼的脸上看到了震惊",
+        "onboard_time": 1761030861,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89066,
+        "num": 87327,
+        "word": "李沁明媚了八秒我想了八分钟",
+        "onboard_time": 1761025342,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82959,
+        "num": 86600,
+        "word": "高市早苗上台右翼政策将更加右转",
+        "onboard_time": 1761030262,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76875,
+        "num": 86047,
+        "word": "王楚钦渐渐长成了马龙的模样",
+        "onboard_time": 1761028641,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57525,
+        "num": 85732,
+        "word": "黄粱梦在葱油饼里",
+        "onboard_time": 1761028641,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何科学谋划十五五#"
+    }
+  }
+}

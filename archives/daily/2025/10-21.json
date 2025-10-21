@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1761029444400,
+  "endTime": 1761031604531,
   "band_list": [
     {
       "raw_hot": 2016406,
@@ -139,6 +139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 578656,
+      "num": 578656,
+      "word": "官方通报2人破坏为人民服务航标",
+      "onboard_time": 1761029301,
+      "rank": 26,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 545113,
       "num": 415512,
       "word": "13岁女孩目不斜视逆行闯红灯被撞",
@@ -267,6 +275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 413969,
+      "num": 163463,
+      "word": "阴阳师",
+      "onboard_time": 1761030201,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 394805,
       "num": 288895,
       "word": "一群洋娃娃里出了个东方美人",
@@ -331,6 +347,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 339448,
+      "num": 401787,
+      "word": "特朗普称一年后美国稀土将多如牛毛",
+      "onboard_time": 1761028162,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 337511,
+      "num": 337511,
+      "word": "阿宽红油面皮里发现印度谷螟幼虫",
+      "onboard_time": 1761028521,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302851,
       "num": 213440,
       "word": "闪耀暖暖 慕夏",
@@ -361,6 +393,14 @@
       "onboard_time": 1761028221,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 291154,
+      "num": 569763,
+      "word": "荷兰寻求与中方会面",
+      "onboard_time": 1761026181,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 288056,
@@ -419,6 +459,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 216309,
+      "num": 216309,
+      "word": "新娘金手镯婚前被堂嫂掉包成铜",
+      "onboard_time": 1761026962,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 215055,
       "num": 537589,
       "word": "暗河传",
@@ -427,12 +475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206321,
-      "num": 569763,
-      "word": "荷兰寻求与中方会面",
-      "onboard_time": 1761026181,
+      "raw_hot": 208631,
+      "num": 208631,
+      "word": "VOGUE官宣了刘亦菲",
+      "onboard_time": 1761030802,
       "rank": 16,
-      "category": "国内时政"
+      "category": "艺人"
     },
     {
       "raw_hot": 203763,
@@ -443,20 +491,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201185,
-      "num": 146290,
-      "word": "特朗普称一年后美国稀土将多如牛毛",
-      "onboard_time": 1761028162,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 200273,
       "num": 257063,
       "word": "星穹铁道大丽花",
       "onboard_time": 1761021742,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 200026,
+      "num": 360585,
+      "word": "外卖点的米饭居然是电饭煲装来的",
+      "onboard_time": 1761026841,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 195578,
@@ -523,20 +571,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 181746,
-      "num": 181746,
-      "word": "新娘金手镯婚前被堂嫂掉包成铜",
-      "onboard_time": 1761026962,
-      "rank": 25,
+      "raw_hot": 181975,
+      "num": 673259,
+      "word": "入冬",
+      "onboard_time": 1761031040,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179278,
-      "num": 200261,
-      "word": "阿宽红油面皮里发现印度谷螟幼虫",
-      "onboard_time": 1761028521,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 180644,
+      "num": 212311,
+      "word": "短剧还珠先导片谁的DNA动了",
+      "onboard_time": 1761030321,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 176093,
@@ -563,14 +611,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 164673,
-      "num": 261854,
-      "word": "外卖点的米饭居然是电饭煲装来的",
-      "onboard_time": 1761026841,
-      "rank": 8,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 163599,
       "num": 207715,
       "word": "我是一个很幸运的人",
@@ -585,6 +625,14 @@
       "onboard_time": 1760963720,
       "rank": 37,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 160623,
+      "num": 160623,
+      "word": "陈柏霖伪造高血压病例逃兵役",
+      "onboard_time": 1761031461,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 158550,
@@ -603,6 +651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156038,
+      "num": 156038,
+      "word": "2人破坏为人民服务航标被立案调查",
+      "onboard_time": 1761031342,
+      "rank": 24,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 154886,
       "num": 154886,
       "word": "31张脸美进了一部剧",
@@ -617,6 +673,14 @@
       "onboard_time": 1761008900,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153216,
+      "num": 153216,
+      "word": "她一个人干了一个小厂子的活",
+      "onboard_time": 1761029120,
+      "rank": 42,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 151500,
@@ -649,6 +713,14 @@
       "onboard_time": 1761023782,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148859,
+      "num": 148859,
+      "word": "90后女生高职毕业任教清华",
+      "onboard_time": 1761030381,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148680,
@@ -763,14 +835,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 132664,
-      "num": 158606,
-      "word": "官方通报2人破坏为人民服务航标",
-      "onboard_time": 1761029301,
-      "rank": 26,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 129587,
       "num": 129587,
       "word": "马龙回复王楚钦",
@@ -865,6 +929,14 @@
       "onboard_time": 1760963481,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116591,
+      "num": 116591,
+      "word": "第一次见把男主关鸟笼里的",
+      "onboard_time": 1761030981,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 116256,
@@ -979,6 +1051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 107361,
+      "num": 107361,
+      "word": "iPhone17系列销量超预期",
+      "onboard_time": 1761031101,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 106933,
       "num": 106933,
       "word": "男子回应翻妻子手机发现和8人暧昧",
@@ -1011,6 +1091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105607,
+      "num": 105607,
+      "word": "李一桐田曦薇财迷到一起去了",
+      "onboard_time": 1761030201,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105351,
       "num": 105351,
       "word": "田曦薇李昀锐或将合作嫁金钗",
@@ -1025,6 +1113,14 @@
       "onboard_time": 1761020301,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104050,
+      "num": 104050,
+      "word": "原来十三薪和年终奖是两个东西",
+      "onboard_time": 1761029660,
+      "rank": 37,
+      "category": "情感,科学科普"
     },
     {
       "raw_hot": 103052,
@@ -1057,6 +1153,14 @@
       "onboard_time": 1761005842,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 102084,
+      "num": 102084,
+      "word": "江浙沪人是先天留学圣体吧",
+      "onboard_time": 1761028401,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 101882,
@@ -1131,14 +1235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95432,
-      "num": 95432,
-      "word": "她一个人干了一个小厂子的活",
-      "onboard_time": 1761029120,
-      "rank": 42,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 94622,
       "num": 94622,
       "word": "9岁男孩患儿童癌症之王",
@@ -1209,6 +1305,14 @@
       "onboard_time": 1761007162,
       "rank": 25,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 87488,
+      "num": 87488,
+      "word": "第一次在鱼的脸上看到了震惊",
+      "onboard_time": 1761030861,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 87207,
@@ -1289,6 +1393,14 @@
       "onboard_time": 1761017241,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 82959,
+      "num": 86600,
+      "word": "高市早苗上台右翼政策将更加右转",
+      "onboard_time": 1761030262,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 82858,
@@ -1643,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55068,
+      "num": 164801,
+      "word": "咖啡机界的劳京东1元拍卖",
+      "onboard_time": 1761030682,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 54859,
       "num": 115971,
       "word": "安氏半导体的遭遇史无前例",
@@ -1779,7 +1899,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 34435,
+      "raw_hot": 36418,
       "num": 156985,
       "word": "原来这些爆款都是KimJones设计的",
       "onboard_time": 1761029301,
@@ -1827,6 +1947,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 16414,
+      "num": 211654,
+      "word": "随机打开北京秋日美景盲盒",
+      "onboard_time": 1761030082,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 16002,
       "num": 36885,
       "word": "开暖气",
@@ -1867,7 +1995,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 5149,
+      "raw_hot": 6494,
       "num": 583561,
       "word": "前三季度中国GDP同比增长5.2%",
       "onboard_time": 1760929160,
