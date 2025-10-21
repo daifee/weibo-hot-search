@@ -1,0 +1,410 @@
+{
+  "runTime": 1761064398737,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 362648,
+        "num": 809134,
+        "word": "知名痔疮药太宁栓正式注销",
+        "onboard_time": 1761058462,
+        "rank": 0,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 358155,
+        "num": 358155,
+        "word": "当地规劝烤肉店停止玉米做燃料",
+        "onboard_time": 1761056602,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26132,
+        "num": 226025,
+        "word": "强国梦从蓝图一步步走向现实",
+        "onboard_time": 1761055521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 182859,
+        "num": 182859,
+        "word": "南极游从20万跌至5万",
+        "onboard_time": 1761056361,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153259,
+        "num": 180219,
+        "word": "微信三大更新放出",
+        "onboard_time": 1761044421,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157328,
+        "num": 179422,
+        "word": "短剧还珠格格主演阵容",
+        "onboard_time": 1761057261,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151444,
+        "num": 176097,
+        "word": "台湾名嘴赖岳谦说期待两岸统一",
+        "onboard_time": 1761057562,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149067,
+        "num": 170375,
+        "word": "国乒多人退赛",
+        "onboard_time": 1761048860,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111467,
+        "num": 168186,
+        "word": "河南一老板挣100万给员工分85万",
+        "onboard_time": 1761052341,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102177,
+        "num": 164763,
+        "word": "特朗普暗示将承诺反对台独",
+        "onboard_time": 1761058043,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185799,
+        "num": 162885,
+        "word": "iPhone频繁打错字不是你手残",
+        "onboard_time": 1761049821,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 160301,
+        "num": 160301,
+        "word": "宝妈每天晚来早走上20天班月薪5万",
+        "onboard_time": 1761048501,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159442,
+        "num": 159442,
+        "word": "江浙沪无法体面入冬",
+        "onboard_time": 1761042921,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154693,
+        "num": 154693,
+        "word": "女子在直播间买到自己捐的衣服",
+        "onboard_time": 1761048080,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152005,
+        "num": 152005,
+        "word": "韩国大火中国妈妈隔窗送出孩子后坠亡",
+        "onboard_time": 1761040941,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150126,
+        "num": 150126,
+        "word": "林晏孤独终老",
+        "onboard_time": 1761054381,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148320,
+        "num": 148320,
+        "word": "现货黄金失守4100美元",
+        "onboard_time": 1761058642,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 125155,
+        "num": 125155,
+        "word": "鞠婧祎 权谋女主",
+        "onboard_time": 1761061700,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74370,
+        "num": 123754,
+        "word": "暗河传 内娱百灵鸟开会",
+        "onboard_time": 1761060141,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74160,
+        "num": 122821,
+        "word": "宴遇永安好虐",
+        "onboard_time": 1761062900,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428280,
+        "num": 120136,
+        "word": "黄金",
+        "onboard_time": 1761054803,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191967,
+        "num": 119253,
+        "word": "男友去世女子生下遗腹子想要赔偿款",
+        "onboard_time": 1761047423,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117612,
+        "num": 117612,
+        "word": "金价",
+        "onboard_time": 1761056361,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117459,
+        "num": 117459,
+        "word": "明星代言蟹卡差到黄牛都不敢收",
+        "onboard_time": 1761048681,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106667,
+        "num": 117446,
+        "word": "突然明白心理咨询师为什么贵了",
+        "onboard_time": 1761059183,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82340,
+        "num": 117354,
+        "word": "LPL致敬Karsa",
+        "onboard_time": 1761058222,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82142,
+        "num": 117304,
+        "word": "被学生抢鸡排的校长离世",
+        "onboard_time": 1761034759,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48122,
+        "num": 117296,
+        "word": "花少7对讲机接通的那一刻",
+        "onboard_time": 1761058702,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46283,
+        "num": 117242,
+        "word": "天地剑心",
+        "onboard_time": 1761046641,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32760,
+        "num": 117190,
+        "word": "宴遇永安",
+        "onboard_time": 1761042261,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80421,
+        "num": 117135,
+        "word": "VOGUE",
+        "onboard_time": 1761048381,
+        "rank": 30,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 79063,
+        "num": 117087,
+        "word": "李昀锐低眉红眼这一分钟",
+        "onboard_time": 1761060441,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75795,
+        "num": 117027,
+        "word": "chiikawa特别动画",
+        "onboard_time": 1761063738,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 74395,
+        "num": 116967,
+        "word": "国际金价大跌原因",
+        "onboard_time": 1761046580,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72547,
+        "num": 116929,
+        "word": "高市早苗当选首相",
+        "onboard_time": 1761022583,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64757,
+        "num": 116846,
+        "word": "杨幂一不小心登顶了",
+        "onboard_time": 1761044721,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47504,
+        "num": 116787,
+        "word": "吴石将军之子大学档案展出",
+        "onboard_time": 1761049762,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45766,
+        "num": 116767,
+        "word": "朋友圈和现实风格差别能有多大",
+        "onboard_time": 1761061520,
+        "rank": 37,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 45479,
+        "num": 116707,
+        "word": "发现很多人都不做美甲了",
+        "onboard_time": 1761035841,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 44490,
+        "num": 116627,
+        "word": "及时正向反馈是个好社交习惯",
+        "onboard_time": 1761062660,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40142,
+        "num": 116609,
+        "word": "油皮摘下来的隐形眼镜",
+        "onboard_time": 1761044541,
+        "rank": 40,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 38776,
+        "num": 116559,
+        "word": "女子穿7厘米高跟鞋轻松爬岩壁",
+        "onboard_time": 1761056061,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38429,
+        "num": 116505,
+        "word": "新人选择花几百块租金结婚",
+        "onboard_time": 1761056061,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37556,
+        "num": 116463,
+        "word": "最想在秋天做的一件仪式感小事",
+        "onboard_time": 1761064039,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37525,
+        "num": 116391,
+        "word": "降温后的恶心穿搭",
+        "onboard_time": 1761034280,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37192,
+        "num": 116339,
+        "word": "杨丞琳一天官宣两个大事",
+        "onboard_time": 1761053540,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 36761,
+        "num": 116259,
+        "word": "秋冬季节这样补气血",
+        "onboard_time": 1761059241,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 35361,
+        "num": 116248,
+        "word": "山东多地开始供暖试压",
+        "onboard_time": 1761062361,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34867,
+        "num": 116174,
+        "word": "星品",
+        "onboard_time": 1761047001,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32773,
+        "num": 116123,
+        "word": "广东近年发现多个新物种",
+        "onboard_time": 1761053001,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四五规划你我用奋斗实现#"
+    }
+  }
+}
