@@ -1,0 +1,410 @@
+{
+  "runTime": 1761021864753,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 333863,
+        "num": 1053418,
+        "word": "东北网友拍下不少燕子滞留没南飞",
+        "onboard_time": 1761018681,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311492,
+        "num": 311492,
+        "word": "王楚钦多哈夺冠球台运回了先农坛",
+        "onboard_time": 1761014661,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3122,
+        "num": 308776,
+        "word": "前三季度中国GDP同比增长5.2%",
+        "onboard_time": 1760929160,
+        "rank": 2,
+        "category": "国内时政,财经"
+      },
+      {
+        "raw_hot": 437684,
+        "num": 265447,
+        "word": "印度人全球爆买白银",
+        "onboard_time": 1761015800,
+        "rank": 3,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 200273,
+        "num": 257063,
+        "word": "星穹铁道大丽花",
+        "onboard_time": 1761021742,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 435868,
+        "num": 215684,
+        "word": "交换人生官宣",
+        "onboard_time": 1761018200,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213032,
+        "num": 213032,
+        "word": "日本石破茂内阁全体辞职",
+        "onboard_time": 1761007942,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207727,
+        "num": 207727,
+        "word": "卢浮宫被盗藏品可在1小时内被分解",
+        "onboard_time": 1760976440,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 173234,
+        "num": 207726,
+        "word": "你好种地少年3定档",
+        "onboard_time": 1761013760,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163599,
+        "num": 207715,
+        "word": "我是一个很幸运的人",
+        "onboard_time": 1761021803,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 807565,
+        "num": 207713,
+        "word": "修杰楷承认逃兵役",
+        "onboard_time": 1761019281,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535269,
+        "num": 207704,
+        "word": "免费火锅骗走600多名老人4200万",
+        "onboard_time": 1761007942,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486124,
+        "num": 207697,
+        "word": "曾舜晞张康乐 双男主",
+        "onboard_time": 1761017421,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 394805,
+        "num": 207693,
+        "word": "一群洋娃娃里出了个东方美人",
+        "onboard_time": 1761018681,
+        "rank": 13,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 158408,
+        "num": 207679,
+        "word": "冷冷冷冷冷如何正确保暖",
+        "onboard_time": 1761011599,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524014,
+        "num": 207675,
+        "word": "贾静雯回应修杰楷被拘提",
+        "onboard_time": 1761020781,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359208,
+        "num": 207669,
+        "word": "结婚了但是不熟",
+        "onboard_time": 1761019761,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160835,
+        "num": 207665,
+        "word": "暗河传",
+        "onboard_time": 1761020422,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139243,
+        "num": 207655,
+        "word": "入青云",
+        "onboard_time": 1761020661,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33367,
+        "num": 207651,
+        "word": "横跨南北扛住风湿雪冷",
+        "onboard_time": 1761019761,
+        "rank": 19,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 12094,
+        "num": 207640,
+        "word": "自带返程票的火箭来了",
+        "onboard_time": 1760970381,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 337062,
+        "num": 207633,
+        "word": "印度称捡到未爆中国导弹",
+        "onboard_time": 1761020781,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 302851,
+        "num": 207629,
+        "word": "闪耀暖暖 慕夏",
+        "onboard_time": 1761020722,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258379,
+        "num": 207619,
+        "word": "女生误卖奶奶藏13万金首饰旧衣",
+        "onboard_time": 1761017360,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207617,
+        "num": 207617,
+        "word": "张萌新剧官宣曾舜晞张康乐",
+        "onboard_time": 1761013760,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73481,
+        "num": 206249,
+        "word": "MG4偷换宁德时代电池",
+        "onboard_time": 1761017781,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 206038,
+        "num": 206038,
+        "word": "13岁女孩目不斜视逆行闯红灯被撞",
+        "onboard_time": 1761010761,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203984,
+        "num": 203984,
+        "word": "00后对出莫言上联获10万奖金",
+        "onboard_time": 1761018081,
+        "rank": 27,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 183925,
+        "num": 183925,
+        "word": "女子早起喝隔夜水发现疑似虫卵物",
+        "onboard_time": 1761018622,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163948,
+        "num": 163948,
+        "word": "隔桌不买单到底啥意思",
+        "onboard_time": 1761019341,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140192,
+        "num": 140192,
+        "word": "东北人 黑色羽绒服",
+        "onboard_time": 1761019761,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139050,
+        "num": 139050,
+        "word": "卢浮宫劫案可能是粉红豹所为",
+        "onboard_time": 1761021562,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136973,
+        "num": 136973,
+        "word": "杨紫好绝的演技共情力",
+        "onboard_time": 1761021742,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135204,
+        "num": 135204,
+        "word": "马斯克转发浏阳无人机烟花秀",
+        "onboard_time": 1761021742,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119173,
+        "num": 119173,
+        "word": "没认出这是胡歌",
+        "onboard_time": 1761019821,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113835,
+        "num": 113835,
+        "word": "乱穿衣的季节",
+        "onboard_time": 1761017902,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36972,
+        "num": 113623,
+        "word": "雷佳音排雷",
+        "onboard_time": 1761019702,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86695,
+        "num": 113443,
+        "word": "女子高速上开智驾酣睡吓坏路过车主",
+        "onboard_time": 1761020781,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107162,
+        "num": 112922,
+        "word": "女子变现黄金立马买银镯取悦自己",
+        "onboard_time": 1761021262,
+        "rank": 38,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 69699,
+        "num": 112670,
+        "word": "安世半导体的遭遇史无前例",
+        "onboard_time": 1761020781,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63090,
+        "num": 112514,
+        "word": "用邪修思路破解空调直吹",
+        "onboard_time": 1761021803,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132892,
+        "num": 112137,
+        "word": "日媒称日本将迎来首位女首相",
+        "onboard_time": 1761006623,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111915,
+        "num": 111915,
+        "word": "彭小苒新剧感情线多到可以织毛衣了",
+        "onboard_time": 1761019821,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53259,
+        "num": 111568,
+        "word": "直播间的热销假象调查",
+        "onboard_time": 1761019641,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114417,
+        "num": 110326,
+        "word": "刘昊然李兰迪新剧开机照",
+        "onboard_time": 1761021501,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114182,
+        "num": 109356,
+        "word": "金价银价大反攻",
+        "onboard_time": 1761004039,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 105257,
+        "num": 108902,
+        "word": "iOS26液态玻璃效果能关了",
+        "onboard_time": 1761007521,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108121,
+        "num": 108121,
+        "word": "被女儿带火的兰花干夫妇需重选摊位",
+        "onboard_time": 1761018742,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101882,
+        "num": 108104,
+        "word": "国乒男女单垄断世界前二",
+        "onboard_time": 1761021621,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101774,
+        "num": 108082,
+        "word": "国考报名热门岗位已两千挑一",
+        "onboard_time": 1761021442,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#如何科学谋划十五五#"
+    }
+  }
+}
