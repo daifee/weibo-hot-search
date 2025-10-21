@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 09:54:50
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 10:16:17
 </p>
 </blockquote>
 <p>
@@ -495,6 +495,12 @@ iG对战T1（热度：1886560）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%9F%8F%E9%9C%96%E4%BF%AE%E6%9D%B0%E6%A5%B7%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8F%90%23" target="weibo">
+陈柏霖修杰楷被警方拘提（热度：1662959）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%90%BD%E6%B0%B4%23" target="weibo">
 景区回应张继科落水（热度：1655850）
 </a>
@@ -833,12 +839,6 @@ G3754次列车因买短乘长超员临停（热度：1628768）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%88%96%E6%97%A0%E6%9C%9B%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%23" target="weibo">
 高市早苗或无望日本首相（热度：1378773）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%9F%8F%E9%9C%96%E4%BF%AE%E6%9D%B0%E6%A5%B7%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8F%90%23" target="weibo">
-陈柏霖修杰楷被警方拘提（热度：1376514）
 </a>
 </li>
 
@@ -2625,6 +2625,12 @@ BLG对战100T（热度：844326）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%B4%B9%E7%81%AB%E9%94%85%E9%AA%97%E8%B5%B0600%E5%A4%9A%E5%90%8D%E8%80%81%E4%BA%BA4200%E4%B8%87%23" target="weibo">
+免费火锅骗走600多名老人4200万（热度：808731）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BF%81%E9%9D%92%E9%9B%85%E7%AD%BE%E5%85%AC%E5%8F%B8%E4%BA%86%23" target="weibo">
 翁青雅签公司了（热度：808506）
 </a>
@@ -2795,6 +2801,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E6%94%B6%E5%85%A5%E4%B8%80%E4%B8%87%E4%BB%A5%E4%B8%8B%E7%9A%84%E7%90%86%E8%B4%A2%E6%96%B9%E6%B3%95%23" target="weibo">
 月收入一万以下的理财方法（热度：786563）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%9F%B3%E7%A0%B4%E8%8C%82%E5%86%85%E9%98%81%E5%85%A8%E4%BD%93%E8%BE%9E%E8%81%8C%23" target="weibo">
+日本石破茂内阁全体辞职（热度：786460）
 </a>
 </li>
 
@@ -3239,12 +3251,6 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E5%A4%A9%E5%87%BA%E5%8E%BB%E6%97%85%E6%B8%B8%E7%9A%84%E4%BA%BA%E5%B7%B2%E7%BB%8F%E8%80%81%E5%AE%9E%23" target="weibo">
 第一天出去旅游的人已经老实（热度：706971）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%B4%B9%E7%81%AB%E9%94%85%E9%AA%97%E8%B5%B0600%E5%A4%9A%E5%90%8D%E8%80%81%E4%BA%BA4200%E4%B8%87%23" target="weibo">
-免费火锅骗走600多名老人4200万（热度：706946）
 </a>
 </li>
 
@@ -5007,6 +5013,12 @@ iPhone天气你可能真的不会用（热度：556452）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E6%97%A5%E6%9C%AC%E5%B0%86%E8%BF%8E%E6%9D%A5%E9%A6%96%E4%BD%8D%E5%A5%B3%E9%A6%96%E7%9B%B8%23" target="weibo">
+日媒称日本将迎来首位女首相（热度：539588）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E6%9C%89%E4%BA%BA600%E5%85%83%E6%97%B6%E5%9B%A4150%E4%B8%87%E9%BB%84%E9%87%91%23" target="weibo">
 杭州有人600元时囤150万黄金（热度：539215）
 </a>
@@ -5999,18 +6011,6 @@ TheShy回应上单韦鲁斯（热度：477977）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%E5%9D%90%E4%B8%8B%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%BC%80%E5%A7%8B%E6%8C%87%E5%AF%BC%23" target="weibo">
 王皓坐下王楚钦开始指导（热度：477416）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A546%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A7%82%E8%B5%9B%E6%9C%9F%E9%97%B4%E5%8F%AB%E5%96%8A%23" target="weibo">
-警方通报46岁女子观赛期间叫喊（热度：477334）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E8%A1%8C%E8%AF%B4%E9%82%93%E8%8E%8E%E6%9C%80%E5%A4%A7%E7%9A%84%E4%BB%98%E5%87%BA%E6%98%AF%E7%94%9F%E5%84%BF%E5%AD%90%23" target="weibo">
-路行说邓莎最大的付出是生儿子（热度：477010）
 </a>
 </li>
 

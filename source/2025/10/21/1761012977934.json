@@ -1,0 +1,410 @@
+{
+  "runTime": 1761012977934,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 786460,
+        "num": 1125833,
+        "word": "日本石破茂内阁全体辞职",
+        "onboard_time": 1761007942,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 385170,
+        "num": 385170,
+        "word": "国安部发布拍照炫耀泄密案例",
+        "onboard_time": 1761003078,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48884,
+        "num": 315124,
+        "word": "公安部公布打击整治网络谣言10起案例",
+        "onboard_time": 1761004039,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 297258,
+        "num": 297258,
+        "word": "iOS26液态玻璃效果能关了",
+        "onboard_time": 1761007521,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 260944,
+        "num": 260944,
+        "word": "冷冷冷冷冷如何正确保暖",
+        "onboard_time": 1761011599,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310397,
+        "num": 254921,
+        "word": "卢浮宫被盗藏品可在1小时内被分解",
+        "onboard_time": 1760976440,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 217188,
+        "num": 217188,
+        "word": "被冻醒",
+        "onboard_time": 1760985853,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168742,
+        "num": 168742,
+        "word": "双11刚付完尾款快递员就敲门了",
+        "onboard_time": 1760976621,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154429,
+        "num": 154429,
+        "word": "日本自民党维新会基本确认联合执政",
+        "onboard_time": 1761008900,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97837,
+        "num": 153948,
+        "word": "美国民众烦透了两党之争",
+        "onboard_time": 1761006921,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1662959,
+        "num": 151991,
+        "word": "陈柏霖修杰楷被警方拘提",
+        "onboard_time": 1761010580,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 808731,
+        "num": 151568,
+        "word": "免费火锅骗走600多名老人4200万",
+        "onboard_time": 1761007942,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539588,
+        "num": 149519,
+        "word": "日媒称日本将迎来首位女首相",
+        "onboard_time": 1761006623,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 419635,
+        "num": 147705,
+        "word": "13岁女孩目不斜视逆行闯红灯被撞",
+        "onboard_time": 1761010761,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75740,
+        "num": 146290,
+        "word": "阿里夸克C计划曝光对标豆包",
+        "onboard_time": 1761012020,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 345680,
+        "num": 144763,
+        "word": "中国女子在韩国住宅楼火灾身亡",
+        "onboard_time": 1761011719,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 223824,
+        "num": 143993,
+        "word": "王大陆逃兵役案持续扩大",
+        "onboard_time": 1761012559,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75030,
+        "num": 142215,
+        "word": "暗河传首播反馈",
+        "onboard_time": 1760966240,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71488,
+        "num": 140953,
+        "word": "两京十五日 水路剧",
+        "onboard_time": 1761011178,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50912,
+        "num": 139685,
+        "word": "水龙吟",
+        "onboard_time": 1760970561,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 432947,
+        "num": 138003,
+        "word": "金价银价大反攻",
+        "onboard_time": 1761004039,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198057,
+        "num": 136913,
+        "word": "字节跳动100元一天的免费三餐",
+        "onboard_time": 1760973621,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 136348,
+        "num": 136348,
+        "word": "睡前洗澡派 早上洗澡派",
+        "onboard_time": 1761010460,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119071,
+        "num": 119071,
+        "word": "烤肉店用玉米做燃料被指浪费",
+        "onboard_time": 1760974640,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116256,
+        "num": 116256,
+        "word": "金价",
+        "onboard_time": 1761008181,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110575,
+        "num": 110575,
+        "word": "男子翻妻子手机发现和8人聊暧昧",
+        "onboard_time": 1760968882,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97081,
+        "num": 97081,
+        "word": "不运动也能减脂的7个习惯",
+        "onboard_time": 1761005842,
+        "rank": 26,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 95711,
+        "num": 95711,
+        "word": "冰雪大世界存冰被白雪覆盖",
+        "onboard_time": 1761009261,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95123,
+        "num": 95123,
+        "word": "住酒店被前台安排在尾房",
+        "onboard_time": 1761002358,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91550,
+        "num": 91550,
+        "word": "拒卖寿衣给老外的店主最新回应",
+        "onboard_time": 1760969182,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136167,
+        "num": 89741,
+        "word": "金饰克价一夜大涨36元",
+        "onboard_time": 1761012801,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86243,
+        "num": 86243,
+        "word": "下班后这样休息比睡觉管用",
+        "onboard_time": 1761005842,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 84510,
+        "num": 84510,
+        "word": "护肤品 苏丹红",
+        "onboard_time": 1761003619,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 82716,
+        "num": 82716,
+        "word": "参观胖东来学费每人2万",
+        "onboard_time": 1760972001,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78362,
+        "num": 78362,
+        "word": "偷拍涉密装备发家庭群被判5年",
+        "onboard_time": 1761005240,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77692,
+        "num": 77692,
+        "word": "中国游客拍到卢浮宫盗窃案事发现场",
+        "onboard_time": 1760966059,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75107,
+        "num": 75107,
+        "word": "按一下拿吸管的快乐快消失了",
+        "onboard_time": 1761011480,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73508,
+        "num": 73508,
+        "word": "多款大牌护肤品检出致癌成分",
+        "onboard_time": 1761007162,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 72939,
+        "num": 72939,
+        "word": "韩国金店库存告罄",
+        "onboard_time": 1761010281,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69347,
+        "num": 69347,
+        "word": "我竟然还没一只小猫咪自律",
+        "onboard_time": 1761011900,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 69057,
+        "num": 69057,
+        "word": "开电热毯",
+        "onboard_time": 1761010101,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21735,
+        "num": 68941,
+        "word": "暗河传打戏",
+        "onboard_time": 1760981356,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68906,
+        "num": 68906,
+        "word": "彭小苒暗河传妆造",
+        "onboard_time": 1761009202,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68391,
+        "num": 68391,
+        "word": "你的身体比你想象中还要爱你",
+        "onboard_time": 1761003259,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65916,
+        "num": 65916,
+        "word": "毕加索名画离奇失踪",
+        "onboard_time": 1760976621,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 64443,
+        "num": 64443,
+        "word": "300元以下基本买不到真羽绒",
+        "onboard_time": 1760974402,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62692,
+        "num": 62692,
+        "word": "今年哈尔滨准备了20万立方米冰",
+        "onboard_time": 1761011599,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61155,
+        "num": 61155,
+        "word": "周琦期待再次入选国家队",
+        "onboard_time": 1761011960,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60074,
+        "num": 60074,
+        "word": "68页PPT男子二次举报希望开除博士生",
+        "onboard_time": 1760972902,
+        "rank": 48,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 59719,
+        "num": 59719,
+        "word": "钱塘江罕见龙鳞潮接好运",
+        "onboard_time": 1761010281,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#二十届四中全会开始举行#"
+    }
+  }
+}
