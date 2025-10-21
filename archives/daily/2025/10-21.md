@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/21 00:32:44 ~ 2025/10/21 10:16:17
+本榜单时间：2025/10/21 00:32:44 ~ 2025/10/21 11:12:04
 </p>
 </blockquote>
 <p>
@@ -16,13 +16,19 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%9F%8F%E9%9C%96%E4%BF%AE%E6%9D%B0%E6%A5%B7%E8%A2%AB%E8%AD%A6%E6%96%B9%E6%8B%98%E6%8F%90%23" target="weibo">
-陈柏霖修杰楷被警方拘提（热度：1662959）
+陈柏霖修杰楷被警方拘提（热度：2016406）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2368%E9%A1%B5PPT%E6%9B%9D%E5%85%89%E5%A6%BB%E5%AD%90%E5%87%BA%E8%BD%A8%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23" target="weibo">
 68页PPT曝光妻子出轨最新回应（热度：1101636）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%90%8C%E6%96%B0%E5%89%A7%E5%AE%98%E5%AE%A3%E6%9B%BE%E8%88%9C%E6%99%9E%E5%BC%A0%E5%BA%B7%E4%B9%90%23" target="weibo">
+张萌新剧官宣曾舜晞张康乐（热度：1043131）
 </a>
 </li>
 
@@ -45,8 +51,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%9B%AE%E4%B8%8D%E6%96%9C%E8%A7%86%E9%80%86%E8%A1%8C%E9%97%AF%E7%BA%A2%E7%81%AF%E8%A2%AB%E6%92%9E%23" target="weibo">
+13岁女孩目不斜视逆行闯红灯被撞（热度：545113）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%A7%B0%E6%97%A5%E6%9C%AC%E5%B0%86%E8%BF%8E%E6%9D%A5%E9%A6%96%E4%BD%8D%E5%A5%B3%E9%A6%96%E7%9B%B8%23" target="weibo">
 日媒称日本将迎来首位女首相（热度：539588）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A4%A7%E9%99%86%E9%80%83%E5%85%B5%E5%BD%B9%E6%A1%88%E6%8C%81%E7%BB%AD%E6%89%A9%E5%A4%A7%23" target="weibo">
+王大陆逃兵役案持续扩大（热度：511799）
 </a>
 </li>
 
@@ -63,6 +81,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B7%E5%86%B7%E5%86%B7%E5%86%B7%E5%86%B7%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E4%BF%9D%E6%9A%96%23" target="weibo">
+冷冷冷冷冷如何正确保暖（热度：439965）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8100%E5%85%83%E4%B8%80%E5%A4%A9%E7%9A%84%E5%85%8D%E8%B4%B9%E4%B8%89%E9%A4%90%23" target="weibo">
 字节跳动100元一天的免费三餐（热度：435746）
 </a>
@@ -75,8 +99,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%9B%AE%E4%B8%8D%E6%96%9C%E8%A7%86%E9%80%86%E8%A1%8C%E9%97%AF%E7%BA%A2%E7%81%AF%E8%A2%AB%E6%92%9E%23" target="weibo">
-13岁女孩目不斜视逆行闯红灯被撞（热度：419635）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%9A%E5%93%88%E5%A4%BA%E5%86%A0%E7%90%83%E5%8F%B0%E8%BF%90%E5%9B%9E%E4%BA%86%E5%85%88%E5%86%9C%E5%9D%9B%23" target="weibo">
+王楚钦多哈夺冠球台运回了先农坛（热度：397970）
 </a>
 </li>
 
@@ -99,6 +123,18 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E6%8D%A2%E4%BA%BA%E7%94%9F%23" target="weibo">
+交换人生（热度：363061）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E7%A7%8D%E5%9C%B0%E5%B0%91%E5%B9%B43%E5%AE%9A%E6%A1%A3%23" target="weibo">
+你好种地少年3定档（热度：349639）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E5%9C%A8%E9%9F%A9%E5%9B%BD%E4%BD%8F%E5%AE%85%E6%A5%BC%E7%81%AB%E7%81%BE%E8%BA%AB%E4%BA%A1%23" target="weibo">
 中国女子在韩国住宅楼火灾身亡（热度：345680）
 </a>
@@ -107,6 +143,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iOS26%E6%B6%B2%E6%80%81%E7%8E%BB%E7%92%83%E6%95%88%E6%9E%9C%E8%83%BD%E5%85%B3%E4%BA%86%23" target="weibo">
 iOS26液态玻璃效果能关了（热度：297258）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%BC%80%E5%9C%BA%E5%88%98%E4%BA%A6%E8%8F%B2%E7%BB%93%E5%B0%BE%23" target="weibo">
+网传辛芷蕾开场刘亦菲结尾（热度：285041）
 </a>
 </li>
 
@@ -129,14 +171,8 @@ iOS26液态玻璃效果能关了（热度：297258）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%B7%E5%86%B7%E5%86%B7%E5%86%B7%E5%86%B7%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E4%BF%9D%E6%9A%96%23" target="weibo">
-冷冷冷冷冷如何正确保暖（热度：260944）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A4%A7%E9%99%86%E9%80%83%E5%85%B5%E5%BD%B9%E6%A1%88%E6%8C%81%E7%BB%AD%E6%89%A9%E5%A4%A7%23" target="weibo">
-王大陆逃兵役案持续扩大（热度：223824）
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E5%A7%8B%E6%8B%86%E9%99%A4%E7%99%BD%E5%AE%AB%E5%BB%BA%E7%AD%91%E6%94%B9%E5%BB%BA%E5%AE%B4%E4%BC%9A%E5%8E%85%23" target="weibo">
+特朗普开始拆除白宫建筑改建宴会厅（热度：205136）
 </a>
 </li>
 
@@ -153,8 +189,20 @@ iOS26液态玻璃效果能关了（热度：297258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E4%B9%8B%E5%85%89%E5%87%BA%E6%BC%94%E4%BA%8E%E6%AD%A3%E9%87%91%E5%90%BE%E4%B8%8D%E7%A6%81%23" target="weibo">
+夏之光出演于正金吾不禁（热度：190139）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%95%E5%8A%A0%E7%B4%A2%E5%90%8D%E7%94%BB%E7%A6%BB%E5%A5%87%E5%A4%B1%E8%B8%AA%23" target="weibo">
 毕加索名画离奇失踪（热度：189660）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E4%B8%80%E5%A4%9C%E5%A4%A7%E6%B6%A836%E5%85%83%23" target="weibo">
+金饰克价一夜大涨36元（热度：187449）
 </a>
 </li>
 
@@ -183,6 +231,30 @@ iOS26液态玻璃效果能关了（热度：297258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%BA%BA%E5%85%A8%E7%90%83%E7%88%86%E4%B9%B0%E7%99%BD%E9%93%B6%23" target="weibo">
+印度人全球爆买白银（热度：162326）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E5%AF%B9%E6%8E%A5%E7%A1%AE%E8%AE%A4%E5%87%BA%E6%BC%94%E6%B5%B7%E5%B2%9B%E8%88%92%E6%9C%8D%E6%97%A5%E5%BF%97%23" target="weibo">
+李兰迪对接确认出演海岛舒服日志（热度：158550）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D%E6%B4%97%E6%BE%A1%E6%B4%BE%20%E6%97%A9%E4%B8%8A%E6%B4%97%E6%BE%A1%E6%B4%BE%23" target="weibo">
+睡前洗澡派 早上洗澡派（热度：157109）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2331%E5%BC%A0%E8%84%B8%E7%BE%8E%E8%BF%9B%E4%BA%86%E4%B8%80%E9%83%A8%E5%89%A7%23" target="weibo">
+31张脸美进了一部剧（热度：154886）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%87%AA%E6%B0%91%E5%85%9A%E7%BB%B4%E6%96%B0%E4%BC%9A%E5%9F%BA%E6%9C%AC%E7%A1%AE%E8%AE%A4%E8%81%94%E5%90%88%E6%89%A7%E6%94%BF%23" target="weibo">
 日本自民党维新会基本确认联合执政（热度：154429）
 </a>
@@ -203,18 +275,6 @@ iOS26液态玻璃效果能关了（热度：297258）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%AD%E7%89%A9%E9%87%91%20%E6%B2%A1%E5%88%B0%E8%B4%A6%23" target="weibo">
 购物金 没到账（热度：146109）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E5%89%8D%E6%B4%97%E6%BE%A1%E6%B4%BE%20%E6%97%A9%E4%B8%8A%E6%B4%97%E6%BE%A1%E6%B4%BE%23" target="weibo">
-睡前洗澡派 早上洗澡派（热度：136348）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E4%B8%80%E5%A4%9C%E5%A4%A7%E6%B6%A836%E5%85%83%23" target="weibo">
-金饰克价一夜大涨36元（热度：136167）
 </a>
 </li>
 
@@ -243,6 +303,12 @@ iOS26液态玻璃效果能关了（热度：297258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%AB%9F%E7%84%B6%E8%BF%98%E6%B2%A1%E4%B8%80%E5%8F%AA%E5%B0%8F%E7%8C%AB%E5%92%AA%E8%87%AA%E5%BE%8B%23" target="weibo">
+我竟然还没一只小猫咪自律（热度：116807）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E8%80%81%E5%B8%88%E4%B8%8A%E8%AF%BE%E7%8E%A9%E6%89%8B%E6%9C%BA%E9%BA%BB%E5%B0%86%23" target="weibo">
 教育局回应老师上课玩手机麻将（热度：116704）
 </a>
@@ -262,7 +328,13 @@ iOS26液态玻璃效果能关了（热度：297258）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%BF%BB%E5%A6%BB%E5%AD%90%E6%89%8B%E6%9C%BA%E5%8F%91%E7%8E%B0%E5%92%8C8%E4%BA%BA%E8%81%8A%E6%9A%A7%E6%98%A7%23" target="weibo">
-男子翻妻子手机发现和8人聊暧昧（热度：110575）
+男子翻妻子手机发现和8人聊暧昧（热度：114723）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23VOGUE%20%E9%A9%AC%E5%9C%88%E5%8C%96%E5%A6%86%E5%AE%A4%23" target="weibo">
+VOGUE 马圈化妆室（热度：112225）
 </a>
 </li>
 
@@ -279,8 +351,20 @@ iOS26液态玻璃效果能关了（热度：297258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%9D%90%E8%87%AA%E5%8A%A8%E6%89%B6%E6%A2%AF%E6%9C%80%E6%80%95%E7%9A%84%E6%83%85%E5%86%B5%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+乘坐自动扶梯最怕的情况出现了（热度：105634）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%85%B7%E4%BC%BC%E8%A2%81%E9%9A%86%E5%B9%B3%E9%9D%A2%E7%AD%8B%E7%88%B7%E7%88%B7%E8%AF%B4%E6%83%B3%E5%A4%A7%E5%AE%B6%E5%90%83%E9%A5%B1%23" target="weibo">
 酷似袁隆平面筋爷爷说想大家吃饱（热度：102659）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%BF%90%E5%8A%A8%E4%B9%9F%E8%83%BD%E5%87%8F%E8%84%82%E7%9A%847%E4%B8%AA%E4%B9%A0%E6%83%AF%23" target="weibo">
+不运动也能减脂的7个习惯（热度：102435）
 </a>
 </li>
 
@@ -291,14 +375,26 @@ iOS26液态玻璃效果能关了（热度：297258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%20%E6%B0%B4%E8%B7%AF%E5%89%A7%23" target="weibo">
+两京十五日 水路剧（热度：101153）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%97%E6%B2%B3%E4%BC%A0%E9%A6%96%E6%92%AD%E5%8F%8D%E9%A6%88%23" target="weibo">
 暗河传首播反馈（热度：101138）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E8%BF%90%E5%8A%A8%E4%B9%9F%E8%83%BD%E5%87%8F%E8%84%82%E7%9A%847%E4%B8%AA%E4%B9%A0%E6%83%AF%23" target="weibo">
-不运动也能减脂的7个习惯（热度：97081）
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%A5%E6%83%85%E8%80%85%E5%9B%9E%E5%BA%94%E6%96%B0%E9%83%8E%E6%8E%A5%E4%BA%B2%E9%A2%91%E9%81%AD%E5%A0%B5%E9%97%A8%E8%A6%81%E7%BA%A2%E5%8C%85%23" target="weibo">
+知情者回应新郎接亲频遭堵门要红包（热度：100458）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E7%94%9F%E6%9C%89%E6%B6%AF%23" target="weibo">
+余生有涯（热度：99194）
 </a>
 </li>
 
@@ -351,6 +447,12 @@ iOS26液态玻璃效果能关了（热度：297258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%BB%99%E9%A9%AC%E9%BE%99%E7%9A%84%E5%9B%9E%E5%A4%8D%E5%A5%BD%E6%9A%96%23" target="weibo">
+王楚钦给马龙的回复好暖（热度：85388）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E9%95%BF%E8%AF%B4%E6%88%91%E4%BB%AC%E5%A4%B1%E8%B4%A5%E4%BA%86%23" target="weibo">
 法国司法部长说我们失败了（热度：82466）
 </a>
@@ -393,6 +495,12 @@ iOS26液态玻璃效果能关了（热度：297258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E8%A2%AB%E6%8B%A6%E8%BD%A6%E8%A6%81%E7%83%9F%E9%AA%91%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%9B%9E%E5%AE%B6%23" target="weibo">
+新人结婚被拦车要烟骑电动车回家（热度：75558）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8C%89%E4%B8%80%E4%B8%8B%E6%8B%BF%E5%90%B8%E7%AE%A1%E7%9A%84%E5%BF%AB%E4%B9%90%E5%BF%AB%E6%B6%88%E5%A4%B1%E4%BA%86%23" target="weibo">
 按一下拿吸管的快乐快消失了（热度：75107）
 </a>
@@ -423,20 +531,8 @@ iOS26液态玻璃效果能关了（热度：297258）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%20%E6%B0%B4%E8%B7%AF%E5%89%A7%23" target="weibo">
-两京十五日 水路剧（热度：71488）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E7%9B%B4%E6%92%AD%23" target="weibo">
 赵丽颖直播（热度：71348）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%AB%9F%E7%84%B6%E8%BF%98%E6%B2%A1%E4%B8%80%E5%8F%AA%E5%B0%8F%E7%8C%AB%E5%92%AA%E8%87%AA%E5%BE%8B%23" target="weibo">
-我竟然还没一只小猫咪自律（热度：69347）
 </a>
 </li>
 
@@ -467,6 +563,12 @@ iOS26液态玻璃效果能关了（热度：297258）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E6%96%B0%E5%A8%98%E5%8F%91%E8%A8%80%E6%83%8A%E5%91%86%E4%BA%B2%E5%8F%8B%23" target="weibo">
 新郎新娘发言惊呆亲友（热度：66946）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23VOGUE%E5%9B%9E%E5%BA%94%E5%8C%96%E5%A6%86%E5%AE%A4%E5%9C%A8%E9%A9%AC%E5%9C%88%E9%87%8C%23" target="weibo">
+VOGUE回应化妆室在马圈里（热度：65940）
 </a>
 </li>
 
@@ -561,6 +663,12 @@ iOS26液态玻璃效果能关了（热度：297258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E5%9B%BD%E8%A1%A5%E6%9D%A5%E4%BA%86%23" target="weibo">
+京东国补来了（热度：51267）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E5%8D%B7%E5%B0%BA%E5%93%A5%E6%8C%87%E5%93%AA%E4%BF%AE%E5%93%AA%23" target="weibo">
 官方回应深圳卷尺哥指哪修哪（热度：51265）
 </a>
@@ -609,6 +717,12 @@ iOS26液态玻璃效果能关了（热度：297258）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E8%89%B2%E4%B8%80%E5%9C%B0%E8%A2%AB%E6%B3%A112%E5%A4%A9%E5%90%8E%E7%A7%AF%E6%B0%B4%E4%BB%8D%E6%9C%89%E9%BD%90%E8%85%B0%E6%B7%B1%23" target="weibo">
+百色一地被泡12天后积水仍有齐腰深（热度：28583）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E6%94%BF%E5%BA%9C%E5%86%9B%E7%AA%81%E8%A2%ADKK%E5%9B%AD%E5%8C%BA%23" target="weibo">
 缅甸政府军突袭KK园区（热度：28569）
 </a>
@@ -623,6 +737,12 @@ iOS26液态玻璃效果能关了（热度：297258）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23VOGUE%23" target="weibo">
 VOGUE（热度：25048）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E7%9A%84%E7%A7%8B%E5%A4%A9%E5%A4%AA%E9%80%82%E5%90%88%E9%9C%B2%E8%90%A5%E4%BA%86%23" target="weibo">
+北京的秋天太适合露营了（热度：18553）
 </a>
 </li>
 
