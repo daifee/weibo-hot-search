@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 19:36:58
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 20:54:46
 </p>
 </blockquote>
 <p>
@@ -5175,6 +5175,12 @@ iPhone天气你可能真的不会用（热度：556452）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E4%B8%89%E5%A4%A7%E6%9B%B4%E6%96%B0%E6%94%BE%E5%87%BA%23" target="weibo">
+微信三大更新放出（热度：537743）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%81%B6%E6%84%8F%E6%93%A6%E7%A2%B0%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E8%88%B9%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91%23" target="weibo">
 菲律宾恶意擦碰中国海警船现场视频（热度：537672）
 </a>
@@ -6005,12 +6011,6 @@ iPhone的一生要经历三次死亡（热度：494807）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%B1%82%E6%A0%B8%E6%9F%A5%E9%87%8E%E4%BA%BA%E7%94%B7%E5%AD%A9%E7%88%B6%E6%AF%8D%E6%94%B6%E5%85%A5%E6%9D%A5%E6%BA%90%23" target="weibo">
 请求核查野人男孩父母收入来源（热度：487490）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iG%E5%9B%9E%E5%AE%B6%23" target="weibo">
-iG回家（热度：487321）
 </a>
 </li>
 

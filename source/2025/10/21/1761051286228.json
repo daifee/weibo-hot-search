@@ -1,0 +1,410 @@
+{
+  "runTime": 1761051286228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 537743,
+        "num": 1086038,
+        "word": "微信三大更新放出",
+        "onboard_time": 1761044421,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 393467,
+        "num": 393467,
+        "word": "孙颖莎退出蒙彼利埃冠军赛",
+        "onboard_time": 1761047241,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31664,
+        "num": 329335,
+        "word": "中国把不可能变成一定能",
+        "onboard_time": 1761035482,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300529,
+        "num": 300529,
+        "word": "李在明贴身保镖火了",
+        "onboard_time": 1761044541,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266134,
+        "num": 266134,
+        "word": "退役军人去世35位战友陪他女儿长大",
+        "onboard_time": 1761044302,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 245362,
+        "num": 245362,
+        "word": "五角大楼延用你妈式回答",
+        "onboard_time": 1761045861,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215825,
+        "num": 245299,
+        "word": "天地剑心",
+        "onboard_time": 1761046641,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191871,
+        "num": 243297,
+        "word": "高市早苗当选首相",
+        "onboard_time": 1761022583,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178344,
+        "num": 242395,
+        "word": "iPhone频繁打错字不是你手残",
+        "onboard_time": 1761049821,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 174583,
+        "num": 241723,
+        "word": "TTG战胜LGDNBW",
+        "onboard_time": 1761050241,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 363748,
+        "num": 241052,
+        "word": "江浙沪无法体面入冬",
+        "onboard_time": 1761042921,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350781,
+        "num": 239360,
+        "word": "明星代言蟹卡差到黄牛都不敢收",
+        "onboard_time": 1761048681,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 338384,
+        "num": 237970,
+        "word": "韩国大火中国妈妈隔窗送出孩子后坠亡",
+        "onboard_time": 1761040941,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 203686,
+        "num": 237918,
+        "word": "宝妈每天晚来早走上20天班月薪5万",
+        "onboard_time": 1761048501,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143327,
+        "num": 235883,
+        "word": "孙颖莎长了鲨鱼角",
+        "onboard_time": 1761041181,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129321,
+        "num": 235701,
+        "word": "热剧cp是演出来的不是卖出来的",
+        "onboard_time": 1761046699,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106966,
+        "num": 234050,
+        "word": "宴遇永安",
+        "onboard_time": 1761042261,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63347,
+        "num": 232870,
+        "word": "水龙吟太有野心了",
+        "onboard_time": 1761049099,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39017,
+        "num": 231984,
+        "word": "魏建军开启去爹味挑战",
+        "onboard_time": 1761048562,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 34509,
+        "num": 231283,
+        "word": "京东品鉴直播间教你选空调",
+        "onboard_time": 1761048562,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 230523,
+        "num": 230523,
+        "word": "发现很多人都不做美甲了",
+        "onboard_time": 1761035841,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 470133,
+        "num": 228394,
+        "word": "被学生抢鸡排的校长离世",
+        "onboard_time": 1761034759,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 447132,
+        "num": 226705,
+        "word": "男友去世女子生下遗腹子想要赔偿款",
+        "onboard_time": 1761047423,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224830,
+        "num": 224830,
+        "word": "降温后的恶心穿搭",
+        "onboard_time": 1761034280,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212018,
+        "num": 212018,
+        "word": "胡连馨还珠女主",
+        "onboard_time": 1761048080,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191909,
+        "num": 211988,
+        "word": "女子在直播间买到自己捐的衣服",
+        "onboard_time": 1761048080,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169514,
+        "num": 211751,
+        "word": "被抢鸡排校长离世有1千多人送别",
+        "onboard_time": 1761039622,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149796,
+        "num": 211513,
+        "word": "VOGUE",
+        "onboard_time": 1761048381,
+        "rank": 27,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 136234,
+        "num": 211360,
+        "word": "吴石将军之子大学档案展出",
+        "onboard_time": 1761049762,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131858,
+        "num": 211212,
+        "word": "国乒多人退赛",
+        "onboard_time": 1761048860,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144252,
+        "num": 210970,
+        "word": "孔雪儿有效摘面纱",
+        "onboard_time": 1761049401,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 60400,
+        "num": 210804,
+        "word": "杨幂一不小心登顶了",
+        "onboard_time": 1761044721,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129633,
+        "num": 210698,
+        "word": "国际金价大跌原因",
+        "onboard_time": 1761046580,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 128084,
+        "num": 210430,
+        "word": "星品",
+        "onboard_time": 1761047001,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119452,
+        "num": 210386,
+        "word": "暗河传4大男主选角审美",
+        "onboard_time": 1761050721,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117894,
+        "num": 210090,
+        "word": "现货黄金跌破4220美元",
+        "onboard_time": 1761050301,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 95545,
+        "num": 209895,
+        "word": "中国股票突传利好",
+        "onboard_time": 1761047841,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 297179,
+        "num": 209717,
+        "word": "龚俊剧粉去哪了",
+        "onboard_time": 1761045320,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95033,
+        "num": 209608,
+        "word": "女子回应生下男友遗腹子想要赔偿款",
+        "onboard_time": 1761050780,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93267,
+        "num": 209368,
+        "word": "INFP的恐怖天赋",
+        "onboard_time": 1761047781,
+        "rank": 39,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 86710,
+        "num": 209148,
+        "word": "Faker和Keria给历届S冠排名",
+        "onboard_time": 1761040702,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85188,
+        "num": 209040,
+        "word": "越南副部长被爆访韩期间性侵韩公务员",
+        "onboard_time": 1761036441,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84544,
+        "num": 208812,
+        "word": "年初不到2万的金镯现卖3.2万",
+        "onboard_time": 1761050901,
+        "rank": 42,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 79329,
+        "num": 208645,
+        "word": "刘冲回应VOGUE阵容",
+        "onboard_time": 1761031882,
+        "rank": 43,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 78644,
+        "num": 208462,
+        "word": "一只金镯还没到手升值两三万",
+        "onboard_time": 1761048260,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78248,
+        "num": 208333,
+        "word": "原来孕妇不能睡电热毯",
+        "onboard_time": 1761044302,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 74000,
+        "num": 208212,
+        "word": "流星雨",
+        "onboard_time": 1761047661,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49037,
+        "num": 208056,
+        "word": "杨瀚森训练时已不需要翻译了",
+        "onboard_time": 1761049220,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71581,
+        "num": 207820,
+        "word": "金价大涨影响年轻人结婚",
+        "onboard_time": 1761028221,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69005,
+        "num": 207649,
+        "word": "刘宇宁舞台演戏两种风格",
+        "onboard_time": 1761050120,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航中国式现代化#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761046618394,
+  "endTime": 1761051286228,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -771,6 +771,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 537743,
+      "num": 1101997,
+      "word": "微信三大更新放出",
+      "onboard_time": 1761044421,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 531667,
       "num": 87429,
       "word": "野人孩子和父母已在管控范围内",
@@ -1067,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 447132,
+      "num": 226705,
+      "word": "男友去世女子生下遗腹子想要赔偿款",
+      "onboard_time": 1761047423,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 445389,
       "num": 244978,
       "word": "半个娱乐圈都在看余生有涯",
@@ -1259,14 +1275,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 403248,
-      "num": 1101997,
-      "word": "微信三大更新放出",
-      "onboard_time": 1761044421,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 401419,
       "num": 1284506,
       "word": "阿宽红油面皮里发现印度谷螟幼虫",
@@ -1313,6 +1321,14 @@
       "onboard_time": 1760976440,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 393467,
+      "num": 393467,
+      "word": "孙颖莎退出蒙彼利埃冠军赛",
+      "onboard_time": 1761047241,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 390246,
@@ -1504,6 +1520,14 @@
       "word": "今年秋冬或形成一次弱拉尼娜事件",
       "onboard_time": 1760804722,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 350781,
+      "num": 239360,
+      "word": "明星代言蟹卡差到黄牛都不敢收",
+      "onboard_time": 1761048681,
+      "rank": 11,
       "category": "民生新闻"
     },
     {
@@ -1731,6 +1755,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 300529,
+      "num": 1021257,
+      "word": "李在明贴身保镖火了",
+      "onboard_time": 1761044541,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 299788,
       "num": 281857,
       "word": "明意纪伯宰圆房",
@@ -1753,6 +1785,14 @@
       "onboard_time": 1761007521,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 297179,
+      "num": 586755,
+      "word": "龚俊剧粉去哪了",
+      "onboard_time": 1761045320,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 296598,
@@ -1931,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266134,
+      "num": 1060752,
+      "word": "退役军人去世35位战友陪他女儿长大",
+      "onboard_time": 1761044302,
+      "rank": 15,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 266107,
       "num": 440458,
       "word": "两京十五日",
@@ -2089,6 +2137,14 @@
       "onboard_time": 1760970862,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 245362,
+      "num": 591777,
+      "word": "五角大楼延用你妈式回答",
+      "onboard_time": 1761045861,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 241053,
@@ -2259,14 +2315,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 218957,
-      "num": 586755,
-      "word": "龚俊剧粉去哪了",
-      "onboard_time": 1761045320,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218294,
       "num": 218294,
       "word": "多地警方联动寻找野人小孩一家",
@@ -2305,6 +2353,14 @@
       "onboard_time": 1760951721,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 212018,
+      "num": 212018,
+      "word": "胡连馨还珠女主",
+      "onboard_time": 1761048080,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 210501,
@@ -2425,6 +2481,14 @@
       "onboard_time": 1760919921,
       "rank": 17,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 203686,
+      "num": 237918,
+      "word": "宝妈每天晚来早走上20天班月薪5万",
+      "onboard_time": 1761048501,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203288,
@@ -2691,6 +2755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 191909,
+      "num": 211988,
+      "word": "女子在直播间买到自己捐的衣服",
+      "onboard_time": 1761048080,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190509,
       "num": 190509,
       "word": "陈小春谈跟儿子交流太少落泪",
@@ -2721,14 +2793,6 @@
       "onboard_time": 1760976621,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 189377,
-      "num": 1060752,
-      "word": "退役军人去世35位战友陪他女儿长大",
-      "onboard_time": 1761044302,
-      "rank": 15,
-      "category": "正能量"
     },
     {
       "raw_hot": 188559,
@@ -2939,6 +3003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178344,
+      "num": 242395,
+      "word": "iPhone频繁打错字不是你手残",
+      "onboard_time": 1761049821,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 176942,
       "num": 195229,
       "word": "短剧霸总男团发红包",
@@ -3009,6 +3081,14 @@
       "onboard_time": 1760935164,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174583,
+      "num": 241723,
+      "word": "TTG战胜LGDNBW",
+      "onboard_time": 1761050241,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 174067,
@@ -3803,6 +3883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144252,
+      "num": 210970,
+      "word": "孔雪儿有效摘面纱",
+      "onboard_time": 1761049401,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143788,
       "num": 143788,
       "word": "野人小孩事件家长需答四问",
@@ -3985,6 +4073,14 @@
       "onboard_time": 1761036081,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136234,
+      "num": 211360,
+      "word": "吴石将军之子大学档案展出",
+      "onboard_time": 1761049762,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136200,
@@ -4179,6 +4275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131858,
+      "num": 211212,
+      "word": "国乒多人退赛",
+      "onboard_time": 1761048860,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131855,
       "num": 131855,
       "word": "那艺娜回应",
@@ -4307,6 +4411,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 129633,
+      "num": 558660,
+      "word": "国际金价大跌原因",
+      "onboard_time": 1761046580,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 129591,
       "num": 129591,
       "word": "日本街头老鼠成群",
@@ -4321,6 +4433,14 @@
       "onboard_time": 1760973022,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129321,
+      "num": 235701,
+      "word": "热剧cp是演出来的不是卖出来的",
+      "onboard_time": 1761046699,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 129278,
@@ -4361,6 +4481,14 @@
       "onboard_time": 1760970801,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128084,
+      "num": 210430,
+      "word": "星品",
+      "onboard_time": 1761047001,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 127902,
@@ -4715,14 +4843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121027,
-      "num": 1021257,
-      "word": "李在明贴身保镖火了",
-      "onboard_time": 1761044541,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 120946,
       "num": 135656,
       "word": "黄景瑜你啥肩宽啊",
@@ -4785,6 +4905,14 @@
       "onboard_time": 1760949682,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119452,
+      "num": 210386,
+      "word": "暗河传4大男主选角审美",
+      "onboard_time": 1761050721,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 119356,
@@ -4905,6 +5033,14 @@
       "onboard_time": 1760862381,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117894,
+      "num": 210090,
+      "word": "现货黄金跌破4220美元",
+      "onboard_time": 1761050301,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 117859,
@@ -6387,6 +6523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95545,
+      "num": 209895,
+      "word": "中国股票突传利好",
+      "onboard_time": 1761047841,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 95477,
       "num": 108882,
       "word": "王楚钦渐渐长成了马龙的模样",
@@ -6425,6 +6569,14 @@
       "onboard_time": 1761042020,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95033,
+      "num": 209608,
+      "word": "女子回应生下男友遗腹子想要赔偿款",
+      "onboard_time": 1761050780,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94995,
@@ -6601,6 +6753,14 @@
       "onboard_time": 1760873662,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 93267,
+      "num": 209368,
+      "word": "INFP的恐怖天赋",
+      "onboard_time": 1761047781,
+      "rank": 39,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 93239,
@@ -7291,6 +7451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84544,
+      "num": 208812,
+      "word": "年初不到2万的金镯现卖3.2万",
+      "onboard_time": 1761050901,
+      "rank": 42,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 84515,
       "num": 153880,
       "word": "黄金白银转跌",
@@ -7683,6 +7851,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 78644,
+      "num": 208462,
+      "word": "一只金镯还没到手升值两三万",
+      "onboard_time": 1761048260,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 78617,
       "num": 78617,
       "word": "王楚钦又有了新名字",
@@ -7859,14 +8035,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 76340,
-      "num": 558660,
-      "word": "国际金价大跌原因",
-      "onboard_time": 1761046580,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 76325,
       "num": 76325,
       "word": "罗云熙新剧每件乐器都是杀器",
@@ -7969,6 +8137,14 @@
       "onboard_time": 1760793202,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74000,
+      "num": 208212,
+      "word": "流星雨",
+      "onboard_time": 1761047661,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73559,
@@ -8171,6 +8347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69005,
+      "num": 207649,
+      "word": "刘宇宁舞台演戏两种风格",
+      "onboard_time": 1761050120,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 68978,
       "num": 195121,
       "word": "止痛药怎么选才安全",
@@ -8355,6 +8539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63347,
+      "num": 232870,
+      "word": "水龙吟太有野心了",
+      "onboard_time": 1761049099,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63273,
       "num": 63273,
       "word": "石宇奇获丹麦赛男单亚军",
@@ -8473,6 +8665,14 @@
       "onboard_time": 1760920461,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60400,
+      "num": 577375,
+      "word": "杨幂一不小心登顶了",
+      "onboard_time": 1761044721,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 60320,
@@ -8691,14 +8891,6 @@
       "category": "作品衍生,汽车"
     },
     {
-      "raw_hot": 54148,
-      "num": 591777,
-      "word": "五角大楼延用你妈式回答",
-      "onboard_time": 1761045861,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 53866,
       "num": 53866,
       "word": "高级河灯",
@@ -8787,6 +8979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49037,
+      "num": 208056,
+      "word": "杨瀚森训练时已不需要翻译了",
+      "onboard_time": 1761049220,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48884,
       "num": 1046288,
       "word": "公安部公布打击整治网络谣言10起案例",
@@ -8817,14 +9017,6 @@
       "onboard_time": 1761035482,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 47668,
-      "num": 577375,
-      "word": "杨幂一不小心登顶了",
-      "onboard_time": 1761044721,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 47587,
@@ -9035,6 +9227,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 39017,
+      "num": 231984,
+      "word": "魏建军开启去爹味挑战",
+      "onboard_time": 1761048562,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 38947,
       "num": 482796,
       "word": "网警侦破非法控制计算机信息系统案",
@@ -9145,6 +9345,14 @@
       "onboard_time": 1760966902,
       "rank": 36,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 34509,
+      "num": 231283,
+      "word": "京东品鉴直播间教你选空调",
+      "onboard_time": 1761048562,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 33623,

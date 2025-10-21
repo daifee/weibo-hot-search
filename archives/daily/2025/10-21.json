@@ -1,6 +1,6 @@
 {
   "startTime": 1760977964273,
-  "endTime": 1761046618394,
+  "endTime": 1761051286228,
   "band_list": [
     {
       "raw_hot": 2016406,
@@ -211,6 +211,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 537743,
+      "num": 1101997,
+      "word": "微信三大更新放出",
+      "onboard_time": 1761044421,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 530234,
       "num": 1076524,
       "word": "东北网友拍下不少燕子滞留没南飞",
@@ -307,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 447132,
+      "num": 226705,
+      "word": "男友去世女子生下遗腹子想要赔偿款",
+      "onboard_time": 1761047423,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 445389,
       "num": 244978,
       "word": "半个娱乐圈都在看余生有涯",
@@ -371,14 +387,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 403248,
-      "num": 1101997,
-      "word": "微信三大更新放出",
-      "onboard_time": 1761044421,
-      "rank": 1,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 401419,
       "num": 1284506,
       "word": "阿宽红油面皮里发现印度谷螟幼虫",
@@ -409,6 +417,14 @@
       "onboard_time": 1760976440,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 393467,
+      "num": 393467,
+      "word": "孙颖莎退出蒙彼利埃冠军赛",
+      "onboard_time": 1761047241,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 385170,
@@ -475,6 +491,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 350781,
+      "num": 239360,
+      "word": "明星代言蟹卡差到黄牛都不敢收",
+      "onboard_time": 1761048681,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349639,
       "num": 990097,
       "word": "你好种地少年3定档",
@@ -531,12 +555,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 300529,
+      "num": 1021257,
+      "word": "李在明贴身保镖火了",
+      "onboard_time": 1761044541,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 297258,
       "num": 1059333,
       "word": "iOS26液态玻璃效果能关了",
       "onboard_time": 1761007521,
       "rank": 7,
       "category": "数码"
+    },
+    {
+      "raw_hot": 297179,
+      "num": 586755,
+      "word": "龚俊剧粉去哪了",
+      "onboard_time": 1761045320,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 296598,
@@ -603,6 +643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266134,
+      "num": 1060752,
+      "word": "退役军人去世35位战友陪他女儿长大",
+      "onboard_time": 1761044302,
+      "rank": 15,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 261712,
       "num": 200109,
       "word": "宋祖儿好久没有真情实感追一部剧了",
@@ -635,6 +683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 245362,
+      "num": 591777,
+      "word": "五角大楼延用你妈式回答",
+      "onboard_time": 1761045861,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 239521,
       "num": 1287902,
       "word": "2人破坏为人民服务航标被立案调查",
@@ -659,11 +715,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 218957,
-      "num": 586755,
-      "word": "龚俊剧粉去哪了",
-      "onboard_time": 1761045320,
-      "rank": 27,
+      "raw_hot": 215825,
+      "num": 245299,
+      "word": "天地剑心",
+      "onboard_time": 1761046641,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -672,6 +728,14 @@
       "word": "暗河传",
       "onboard_time": 1761020422,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 212018,
+      "num": 212018,
+      "word": "胡连馨还珠女主",
+      "onboard_time": 1761048080,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -688,6 +752,14 @@
       "word": "拒卖寿衣给老外的店主最新回应",
       "onboard_time": 1760969182,
       "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203686,
+      "num": 237918,
+      "word": "宝妈每天晚来早走上20天班月薪5万",
+      "onboard_time": 1761048501,
+      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -747,6 +819,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 191909,
+      "num": 211988,
+      "word": "女子在直播间买到自己捐的衣服",
+      "onboard_time": 1761048080,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191609,
       "num": 252125,
       "word": "泽连斯基与特朗普对骂",
@@ -769,14 +849,6 @@
       "onboard_time": 1760976621,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 189377,
-      "num": 1060752,
-      "word": "退役军人去世35位战友陪他女儿长大",
-      "onboard_time": 1761044302,
-      "rank": 15,
-      "category": "正能量"
     },
     {
       "raw_hot": 187449,
@@ -827,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 178344,
+      "num": 242395,
+      "word": "iPhone频繁打错字不是你手残",
+      "onboard_time": 1761049821,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 176914,
       "num": 582210,
       "word": "宴遇永安大结局",
@@ -865,6 +945,14 @@
       "onboard_time": 1761019341,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 174583,
+      "num": 241723,
+      "word": "TTG战胜LGDNBW",
+      "onboard_time": 1761050241,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 173867,
@@ -1035,6 +1123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149796,
+      "num": 211513,
+      "word": "VOGUE",
+      "onboard_time": 1760961022,
+      "rank": 46,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 148680,
       "num": 148680,
       "word": "王自如入职雷鸟创新",
@@ -1057,6 +1153,14 @@
       "onboard_time": 1761022942,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144252,
+      "num": 210970,
+      "word": "孔雪儿有效摘面纱",
+      "onboard_time": 1761049401,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 142831,
@@ -1121,6 +1225,14 @@
       "onboard_time": 1761036081,
       "rank": 33,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136234,
+      "num": 211360,
+      "word": "吴石将军之子大学档案展出",
+      "onboard_time": 1761049762,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 135204,
@@ -1195,6 +1307,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 131858,
+      "num": 211212,
+      "word": "国乒多人退赛",
+      "onboard_time": 1761048860,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129633,
+      "num": 558660,
+      "word": "国际金价大跌原因",
+      "onboard_time": 1761046580,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 129587,
       "num": 129587,
       "word": "马龙回复王楚钦",
@@ -1203,12 +1331,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129321,
+      "num": 235701,
+      "word": "热剧cp是演出来的不是卖出来的",
+      "onboard_time": 1761046699,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129278,
       "num": 129278,
       "word": "冷空气将进一步南下",
       "onboard_time": 1761018021,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128084,
+      "num": 210430,
+      "word": "星品",
+      "onboard_time": 1761047001,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 127096,
@@ -1259,14 +1403,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121027,
-      "num": 1021257,
-      "word": "李在明贴身保镖火了",
-      "onboard_time": 1761044541,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 120341,
       "num": 1301251,
       "word": "挖到拼多多好评率99%的十年老店",
@@ -1280,6 +1416,14 @@
       "word": "余生有涯",
       "onboard_time": 1761013100,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119452,
+      "num": 210386,
+      "word": "暗河传4大男主选角审美",
+      "onboard_time": 1761050721,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1313,6 +1457,14 @@
       "onboard_time": 1760984174,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117894,
+      "num": 210090,
+      "word": "现货黄金跌破4220美元",
+      "onboard_time": 1761050301,
+      "rank": 35,
+      "category": "财经"
     },
     {
       "raw_hot": 116807,
@@ -1803,6 +1955,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 95545,
+      "num": 209895,
+      "word": "中国股票突传利好",
+      "onboard_time": 1761047841,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 95477,
       "num": 108882,
       "word": "王楚钦渐渐长成了马龙的模样",
@@ -1817,6 +1977,14 @@
       "onboard_time": 1761042020,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95033,
+      "num": 209608,
+      "word": "女子回应生下男友遗腹子想要赔偿款",
+      "onboard_time": 1761050780,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94622,
@@ -1857,6 +2025,14 @@
       "onboard_time": 1761042381,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93267,
+      "num": 209368,
+      "word": "INFP的恐怖天赋",
+      "onboard_time": 1761047781,
+      "rank": 39,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 93057,
@@ -2123,6 +2299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 84544,
+      "num": 208812,
+      "word": "年初不到2万的金镯现卖3.2万",
+      "onboard_time": 1761050901,
+      "rank": 42,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 84515,
       "num": 153880,
       "word": "黄金白银转跌",
@@ -2259,6 +2443,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 78644,
+      "num": 208462,
+      "word": "一只金镯还没到手升值两三万",
+      "onboard_time": 1761048260,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 78617,
       "num": 78617,
       "word": "王楚钦又有了新名字",
@@ -2299,14 +2491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 76340,
-      "num": 558660,
-      "word": "国际金价大跌原因",
-      "onboard_time": 1761046580,
-      "rank": 49,
-      "category": "财经"
-    },
-    {
       "raw_hot": 75740,
       "num": 146290,
       "word": "阿里夸克C计划曝光对标豆包",
@@ -2337,6 +2521,14 @@
       "onboard_time": 1760972902,
       "rank": 33,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 74000,
+      "num": 208212,
+      "word": "流星雨",
+      "onboard_time": 1761047661,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73559,
@@ -2419,6 +2611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69005,
+      "num": 207649,
+      "word": "刘宇宁舞台演戏两种风格",
+      "onboard_time": 1761050120,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 68906,
       "num": 68906,
       "word": "彭小苒暗河传妆造",
@@ -2499,6 +2699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63347,
+      "num": 232870,
+      "word": "水龙吟太有野心了",
+      "onboard_time": 1761049099,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63158,
       "num": 65487,
       "word": "肖战刘铮亮手术服造型路透",
@@ -2553,6 +2761,14 @@
       "onboard_time": 1760972361,
       "rank": 41,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 60400,
+      "num": 577375,
+      "word": "杨幂一不小心登顶了",
+      "onboard_time": 1761044721,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 59664,
@@ -2659,14 +2875,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 54148,
-      "num": 591777,
-      "word": "五角大楼延用你妈式回答",
-      "onboard_time": 1761045861,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 52226,
       "num": 145046,
       "word": "韩民众吐槽炸鸡涨价快吃不起",
@@ -2715,6 +2923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49037,
+      "num": 208056,
+      "word": "杨瀚森训练时已不需要翻译了",
+      "onboard_time": 1761049220,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48884,
       "num": 1046288,
       "word": "公安部公布打击整治网络谣言10起案例",
@@ -2737,14 +2953,6 @@
       "onboard_time": 1761035482,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 47668,
-      "num": 577375,
-      "word": "杨幂一不小心登顶了",
-      "onboard_time": 1761044721,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 47587,
@@ -2803,6 +3011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39017,
+      "num": 231984,
+      "word": "魏建军开启去爹味挑战",
+      "onboard_time": 1761048562,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 37027,
       "num": 249516,
       "word": "全明星送免单还能翻倍真香",
@@ -2825,6 +3041,14 @@
       "onboard_time": 1761029301,
       "rank": 27,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 34509,
+      "num": 231283,
+      "word": "京东品鉴直播间教你选空调",
+      "onboard_time": 1761048562,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 31563,
@@ -2857,14 +3081,6 @@
       "onboard_time": 1760981356,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25048,
-      "num": 65031,
-      "word": "VOGUE",
-      "onboard_time": 1760961022,
-      "rank": 46,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 22589,
