@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761072609599,
+  "endTime": 1761074566212,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -70385,6 +70385,14 @@
       "onboard_time": 1759603514,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 13880,
+      "num": 26253,
+      "word": "卢浮宫十年削减190个安保监控岗",
+      "onboard_time": 1761072854,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 13818,

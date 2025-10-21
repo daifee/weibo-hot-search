@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/22 00:33:18 ~ 2025/10/22 02:50:09
+本榜单时间：2025/10/22 00:33:18 ~ 2025/10/22 03:22:46
 </p>
 </blockquote>
 <p>
@@ -365,6 +365,12 @@ chiikawa特别动画（热度：75795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%B4%B4%E8%BA%AB%E4%BF%9D%E9%95%96%E7%81%AB%E4%BA%86%23" target="weibo">
 李在明贴身保镖火了（热度：15917）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%B5%AE%E5%AE%AB%E5%8D%81%E5%B9%B4%E5%89%8A%E5%87%8F190%E4%B8%AA%E5%AE%89%E4%BF%9D%E7%9B%91%E6%8E%A7%E5%B2%97%23" target="weibo">
+卢浮宫十年削减190个安保监控岗（热度：13880）
 </a>
 </li>
 
