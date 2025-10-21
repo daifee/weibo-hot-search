@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 11:12:04
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/21 11:29:46
 </p>
 </blockquote>
 <p>
@@ -2651,6 +2651,12 @@ BLG对战100T（热度：844326）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E5%8C%85%23" target="weibo">
 红包（热度：807914）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E8%BE%9B%E8%8A%B7%E8%95%BE%E5%BC%80%E5%9C%BA%E5%88%98%E4%BA%A6%E8%8F%B2%E7%BB%93%E5%B0%BE%23" target="weibo">
+网传辛芷蕾开场刘亦菲结尾（热度：806936）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TheShy回应上单韦鲁斯（热度：477977）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E9%AB%98%E4%BC%9A%E7%9B%B4%E6%92%AD%23" target="weibo">
 时代少年团高会直播（热度：477899）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%91%84%E5%BD%B1%E5%B8%88%E6%AF%81%E7%BA%A6%E6%95%B010%E5%9C%BA%E5%A9%9A%E7%A4%BC%E5%85%AC%E5%AE%89%E4%BB%8B%E5%85%A5%23" target="weibo">
-摄影师毁约数10场婚礼公安介入（热度：477718）
 </a>
 </li>
 
