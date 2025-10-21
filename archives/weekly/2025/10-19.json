@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761028711438,
+  "endTime": 1761029444400,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1789660,
-      "num": 368325,
+      "num": 469530,
       "word": "陈柏霖已承认逃兵役",
       "onboard_time": 1761024500,
       "rank": 16,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1089235,
+      "num": 553062,
+      "word": "VOGUE盛典官宣阵容",
+      "onboard_time": 1761026841,
+      "rank": 6,
+      "category": "时尚,作品衍生"
+    },
+    {
       "raw_hot": 1062021,
       "num": 1062021,
       "word": "GEN抽到TES",
@@ -217,14 +225,6 @@
       "onboard_time": 1760799384,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 967994,
-      "num": 264554,
-      "word": "VOGUE盛典官宣阵容",
-      "onboard_time": 1761026841,
-      "rank": 6,
-      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 967176,
@@ -772,7 +772,7 @@
     },
     {
       "raw_hot": 505336,
-      "num": 258738,
+      "num": 467894,
       "word": "女装店主不建议买300元以下羽绒服",
       "onboard_time": 1761023122,
       "rank": 24,
@@ -1052,7 +1052,7 @@
     },
     {
       "raw_hot": 433895,
-      "num": 448438,
+      "num": 1067239,
       "word": "日本迎来首位女首相",
       "onboard_time": 1761022883,
       "rank": 8,
@@ -1571,6 +1571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 293325,
+      "num": 226395,
+      "word": "金价大涨影响年轻人结婚",
+      "onboard_time": 1761028221,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 291634,
       "num": 262206,
       "word": "杨振宁20年前预言已基本实现",
@@ -1763,6 +1771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 257701,
+      "num": 488541,
+      "word": "高市早苗当选首相之路一波三折",
+      "onboard_time": 1761024741,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 257687,
       "num": 169057,
       "word": "再见朋友 于正何晟铭",
@@ -1947,14 +1963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 226395,
-      "num": 226395,
-      "word": "金价大涨影响年轻人结婚",
-      "onboard_time": 1761028221,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224441,
       "num": 1024509,
       "word": "以色列空袭加沙南部拉法地区",
@@ -2115,6 +2123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206321,
+      "num": 569763,
+      "word": "荷兰寻求与中方会面",
+      "onboard_time": 1761026181,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 204637,
       "num": 416631,
       "word": "KSG战胜JDG",
@@ -2211,6 +2227,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201185,
+      "num": 146290,
+      "word": "特朗普称一年后美国稀土将多如牛毛",
+      "onboard_time": 1761028162,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 200451,
       "num": 200451,
       "word": "中国人永远记得黄继光",
@@ -2297,6 +2321,14 @@
       "onboard_time": 1760833822,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 195578,
+      "num": 267893,
+      "word": "Peanut说中餐比韩料更好吃",
+      "onboard_time": 1761028641,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 195521,
@@ -2579,6 +2611,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 181746,
+      "num": 181746,
+      "word": "新娘金手镯婚前被堂嫂掉包成铜",
+      "onboard_time": 1761026962,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 181581,
       "num": 181581,
       "word": "结婚请柬在机场88块屏幕连播8天",
@@ -2593,6 +2633,14 @@
       "onboard_time": 1760877200,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 179278,
+      "num": 200261,
+      "word": "阿宽红油面皮里发现印度谷螟幼虫",
+      "onboard_time": 1761028521,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178874,
@@ -2665,14 +2713,6 @@
       "onboard_time": 1760791704,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 173877,
-      "num": 267893,
-      "word": "Peanut说中餐比韩料更好吃",
-      "onboard_time": 1761028641,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 173867,
@@ -3059,14 +3099,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156580,
-      "num": 156580,
-      "word": "新娘金手镯婚前被堂嫂掉包成铜",
-      "onboard_time": 1761026962,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156360,
       "num": 174784,
       "word": "暗河传开播全员大招开团",
@@ -3203,14 +3235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151066,
-      "num": 251113,
-      "word": "荷兰寻求与中方会面",
-      "onboard_time": 1761026181,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 151039,
       "num": 151039,
       "word": "00后不谈恋爱的原因",
@@ -3329,14 +3353,6 @@
       "onboard_time": 1760787982,
       "rank": 15,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 147541,
-      "num": 260614,
-      "word": "高市早苗当选首相之路一波三折",
-      "onboard_time": 1761024741,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 147239,
@@ -3715,6 +3731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132664,
+      "num": 158606,
+      "word": "官方通报2人破坏为人民服务航标",
+      "onboard_time": 1761029301,
+      "rank": 26,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 132562,
       "num": 132562,
       "word": "Supa为Uzi而战",
@@ -3889,14 +3913,6 @@
       "onboard_time": 1760937801,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 128883,
-      "num": 128883,
-      "word": "特朗普称一年后美国稀土将多如牛毛",
-      "onboard_time": 1761028162,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 128857,
@@ -5027,6 +5043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106174,
+      "num": 106174,
+      "word": "辽宁失联女童为何现身10米深山沟",
+      "onboard_time": 1761029120,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105910,
       "num": 105910,
       "word": "51岁大哥摆摊半年一分钱没挣",
@@ -5699,6 +5723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95432,
+      "num": 95432,
+      "word": "她一个人干了一个小厂子的活",
+      "onboard_time": 1761029120,
+      "rank": 42,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 95313,
       "num": 119312,
       "word": "马龙生日发博",
@@ -6161,14 +6193,6 @@
       "onboard_time": 1760955740,
       "rank": 23,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 88436,
-      "num": 139839,
-      "word": "阿宽红油面皮里发现印度谷螟幼虫",
-      "onboard_time": 1761028521,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88391,
@@ -6697,6 +6721,14 @@
       "onboard_time": 1760802923,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 79834,
+      "num": 110861,
+      "word": "Doinb谈LPL粉丝",
+      "onboard_time": 1761027802,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 79769,
@@ -7265,14 +7297,6 @@
       "onboard_time": 1761024200,
       "rank": 39,
       "category": "财经"
-    },
-    {
-      "raw_hot": 67343,
-      "num": 110861,
-      "word": "Doinb谈LPL粉丝",
-      "onboard_time": 1761027802,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 66946,
@@ -7963,6 +7987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39514,
+      "num": 99822,
+      "word": "女子67万奔驰被撞毁保险仅赔24万",
+      "onboard_time": 1761028702,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39147,
       "num": 53765,
       "word": "月亮姐姐回应离开少儿频道",
@@ -8072,6 +8104,14 @@
       "word": "找到了戴冷帽不塌头型的方法",
       "onboard_time": 1760966902,
       "rank": 36,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 34435,
+      "num": 156985,
+      "word": "原来这些爆款都是KimJones设计的",
+      "onboard_time": 1761029301,
+      "rank": 27,
       "category": "时尚"
     },
     {
