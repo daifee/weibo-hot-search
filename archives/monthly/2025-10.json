@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761021864753,
+  "endTime": 1761024370185,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -729,6 +729,14 @@
       "onboard_time": 1759743260,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1608487,
+      "num": 1608487,
+      "word": "高市早苗当选首相",
+      "onboard_time": 1761022583,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1603596,
@@ -4523,6 +4531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 693324,
+      "num": 207675,
+      "word": "贾静雯回应修杰楷被拘提",
+      "onboard_time": 1761020781,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 692929,
       "num": 1110868,
       "word": "鸡排哥上央视了",
@@ -5851,6 +5867,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 587078,
+      "num": 207633,
+      "word": "印度称捡到未爆中国导弹",
+      "onboard_time": 1761020781,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 586645,
       "num": 586645,
       "word": "浴室五杀",
@@ -5977,6 +6001,14 @@
       "onboard_time": 1759984281,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 577504,
+      "num": 152612,
+      "word": "柯佳嬿老公涉嫌逃兵役",
+      "onboard_time": 1761022342,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 576917,
@@ -6899,6 +6931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 530234,
+      "num": 1053465,
+      "word": "东北网友拍下不少燕子滞留没南飞",
+      "onboard_time": 1761018681,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 530172,
       "num": 253280,
       "word": "加微信一定要别人扫我",
@@ -7009,14 +7049,6 @@
       "onboard_time": 1760491041,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 524014,
-      "num": 207675,
-      "word": "贾静雯回应修杰楷被拘提",
-      "onboard_time": 1761020781,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 523746,
@@ -8297,6 +8329,14 @@
       "onboard_time": 1760397198,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 468822,
+      "num": 207669,
+      "word": "结婚了但是不熟",
+      "onboard_time": 1761019761,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 468476,
@@ -11227,6 +11267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 362605,
+      "num": 362605,
+      "word": "卢浮宫劫案可能是粉红豹所为",
+      "onboard_time": 1761021562,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 362369,
       "num": 362369,
       "word": "TES皇子",
@@ -11267,6 +11315,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 360735,
+      "num": 146790,
+      "word": "原研药再次面临全军覆灭",
+      "onboard_time": 1761022822,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 360617,
       "num": 360617,
       "word": "馆长被台湾警方侦办",
@@ -11305,14 +11361,6 @@
       "onboard_time": 1759641022,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 359208,
-      "num": 207669,
-      "word": "结婚了但是不熟",
-      "onboard_time": 1761019761,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 358777,
@@ -11955,14 +12003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 337062,
-      "num": 207633,
-      "word": "印度称捡到未爆中国导弹",
-      "onboard_time": 1761020781,
-      "rank": 25,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 336772,
       "num": 336772,
       "word": "环保少女抵达希腊数百人欢迎",
@@ -12057,14 +12097,6 @@
       "onboard_time": 1759332500,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 333863,
-      "num": 1053465,
-      "word": "东北网友拍下不少燕子滞留没南飞",
-      "onboard_time": 1761018681,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 333715,
@@ -24627,6 +24659,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 169569,
+      "num": 145566,
+      "word": "女装店主不建议买300元以下羽绒服",
+      "onboard_time": 1761023122,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169562,
       "num": 169562,
       "word": "50岁国模公开保养护肤秘籍",
@@ -26673,6 +26713,14 @@
       "onboard_time": 1759485802,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 159204,
+      "num": 159204,
+      "word": "日本迎来首位女首相",
+      "onboard_time": 1761022883,
+      "rank": 8,
+      "category": "国际时政"
     },
     {
       "raw_hot": 159196,
@@ -28723,6 +28771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149836,
+      "num": 135622,
+      "word": "这段写的很好 但需要全部删掉",
+      "onboard_time": 1761023782,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 149832,
       "num": 149832,
       "word": "国家安全部发文致敬聂曦烈士",
@@ -29153,6 +29209,14 @@
       "onboard_time": 1760093241,
       "rank": 41,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 147850,
+      "num": 135232,
+      "word": "陈柏霖称因王大陆案早有准备",
+      "onboard_time": 1761023901,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 147844,
@@ -29915,6 +29979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144934,
+      "num": 144934,
+      "word": "小伙辞月薪8千工作卖麻糍日入1千",
+      "onboard_time": 1761023003,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144925,
       "num": 144925,
       "word": "李禹熹要求荣梓杉道歉",
@@ -30040,6 +30112,14 @@
       "word": "Karsa希望20年TES能弥补遗憾",
       "onboard_time": 1760935041,
       "rank": 44,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 144362,
+      "num": 144362,
+      "word": "milkyway被曝私联粉丝",
+      "onboard_time": 1761022942,
+      "rank": 27,
       "category": "电竞"
     },
     {
@@ -31403,14 +31483,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 139050,
-      "num": 139050,
-      "word": "卢浮宫劫案可能是粉红豹所为",
-      "onboard_time": 1761021562,
-      "rank": 31,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 139019,
       "num": 139019,
       "word": "台湾王氏研创艺术公司宣传台独",
@@ -31497,6 +31569,14 @@
       "onboard_time": 1760615662,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138678,
+      "num": 138678,
+      "word": "朋友圈不点赞真的没别的心思",
+      "onboard_time": 1761022763,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 138661,
@@ -31689,6 +31769,14 @@
       "onboard_time": 1760348422,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 138025,
+      "num": 138025,
+      "word": "完全没认出来是孔雪儿",
+      "onboard_time": 1761022102,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 137929,
@@ -32801,6 +32889,14 @@
       "onboard_time": 1760057541,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134647,
+      "num": 134647,
+      "word": "女子变现黄金立马买银镯取悦自己",
+      "onboard_time": 1761021262,
+      "rank": 38,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 134637,
@@ -36171,6 +36267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125035,
+      "num": 125035,
+      "word": "居然又让王安宇找到舒适区了",
+      "onboard_time": 1761023423,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125012,
       "num": 133523,
       "word": "娜扎古装怎么美成这样",
@@ -36697,6 +36801,14 @@
       "onboard_time": 1760498541,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123572,
+      "num": 123572,
+      "word": "猫 你怎么突然长大了",
+      "onboard_time": 1761023721,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 123561,
@@ -43043,6 +43155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109304,
+      "num": 109304,
+      "word": "恋与深空世界深处剧情更新",
+      "onboard_time": 1761023782,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109303,
       "num": 109303,
       "word": "穿裙子的小小孙颖莎",
@@ -44219,14 +44339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107162,
-      "num": 112922,
-      "word": "女子变现黄金立马买银镯取悦自己",
-      "onboard_time": 1761021262,
-      "rank": 38,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 107148,
       "num": 107148,
       "word": "蒋一侨在家偷偷穿小脚裤",
@@ -44609,6 +44721,14 @@
       "onboard_time": 1759583481,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106414,
+      "num": 148336,
+      "word": "海岛舒服日志",
+      "onboard_time": 1761023601,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 106410,
@@ -51057,6 +51177,14 @@
       "onboard_time": 1760110402,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 93057,
+      "num": 93057,
+      "word": "GEN三名教练离队",
+      "onboard_time": 1761024321,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 93050,
@@ -58291,6 +58419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 74128,
+      "num": 147238,
+      "word": "京东采销破百吋电视送装难题",
+      "onboard_time": 1761023243,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 74126,
       "num": 145703,
       "word": "高市早苗将接手3个烂摊子",
@@ -59795,6 +59931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67631,
+      "num": 109694,
+      "word": "易中天光模块三巨头大涨",
+      "onboard_time": 1761024200,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 67492,
       "num": 67492,
       "word": "张予曦毕雯珺入围年度影视CP",
@@ -60555,6 +60699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 63607,
+      "num": 147681,
+      "word": "高市早苗自称安倍继承者",
+      "onboard_time": 1761023360,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63555,
       "num": 94616,
       "word": "自己国家买不到老外扎堆来沪消费",
@@ -60801,6 +60953,14 @@
       "onboard_time": 1759378219,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62162,
+      "num": 136163,
+      "word": "雷佳音排雷",
+      "onboard_time": 1761019702,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 62081,
@@ -62561,6 +62721,14 @@
       "onboard_time": 1760484319,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52226,
+      "num": 145046,
+      "word": "韩民众吐槽炸鸡涨价快吃不起",
+      "onboard_time": 1761022883,
+      "rank": 25,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 52165,
@@ -64624,14 +64792,6 @@
       "word": "演员洛桑群培去世",
       "onboard_time": 1760394795,
       "rank": 47,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 38974,
-      "num": 136163,
-      "word": "雷佳音排雷",
-      "onboard_time": 1761019702,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -67673,6 +67833,14 @@
       "onboard_time": 1760908274,
       "rank": 48,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 18290,
+      "num": 109451,
+      "word": "高市早苗曾叫嚣台湾有事日本必入",
+      "onboard_time": 1761024321,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18213,
