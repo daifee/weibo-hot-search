@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761075440941,
+  "endTime": 1761078609525,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -10235,20 +10235,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17171,
+      "num": 28405,
+      "word": "卢浮宫十年削减190个安保监控岗",
+      "onboard_time": 1761072854,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 16414,
       "num": 240192,
       "word": "随机打开北京秋日美景盲盒",
       "onboard_time": 1761030082,
       "rank": 14,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 16099,
-      "num": 28405,
-      "word": "卢浮宫十年削减190个安保监控岗",
-      "onboard_time": 1761072854,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 16007,
@@ -10273,6 +10273,14 @@
       "onboard_time": 1761036021,
       "rank": 40,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14851,
+      "num": 28216,
+      "word": "茅台辟谣将新增650家专营店",
+      "onboard_time": 1761074954,
+      "rank": 47,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 14705,
@@ -10339,14 +10347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11399,
-      "num": 28216,
-      "word": "茅台辟谣将新增650家专营店",
-      "onboard_time": 1761074954,
-      "rank": 47,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 11394,
       "num": 109320,
       "word": "姐姐亲自接18年被拐弟弟回家",
@@ -10377,6 +10377,14 @@
       "onboard_time": 1760814495,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 10408,
+      "num": 20029,
+      "word": "特朗普说自己对乌克兰够好了",
+      "onboard_time": 1761077053,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10314,
