@@ -1,0 +1,410 @@
+{
+  "runTime": 1761123026766,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 612045,
+        "num": 1097927,
+        "word": "iPhone17Pro的受害者出现了",
+        "onboard_time": 1761116960,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 278464,
+        "num": 278464,
+        "word": "改名叫夏冬春吧 剪秋也行",
+        "onboard_time": 1761111800,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14535,
+        "num": 259361,
+        "word": "台湾光复是抗战胜利的重要成果",
+        "onboard_time": 1761101781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250971,
+        "num": 250971,
+        "word": "负债1亿的王自如坐绿皮火车出差",
+        "onboard_time": 1761109344,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 174907,
+        "num": 174907,
+        "word": "BLG支持率",
+        "onboard_time": 1761120082,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164376,
+        "num": 164376,
+        "word": "10月就穿羽绒服了",
+        "onboard_time": 1761112642,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154998,
+        "num": 154998,
+        "word": "鸿蒙6",
+        "onboard_time": 1761118160,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153891,
+        "num": 153891,
+        "word": "卢浮宫重新开门",
+        "onboard_time": 1761118041,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134764,
+        "num": 134764,
+        "word": "中方回应朝鲜发射多枚弹道导弹",
+        "onboard_time": 1761122661,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90977,
+        "num": 134662,
+        "word": "国台办回应台湾网红馆长宣布来京",
+        "onboard_time": 1761105142,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 347808,
+        "num": 134403,
+        "word": "女子不慎撞羊被牧民邀请吃羊肉",
+        "onboard_time": 1761119121,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282759,
+        "num": 134286,
+        "word": "金价这轮会跌多久",
+        "onboard_time": 1761119480,
+        "rank": 11,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 188466,
+        "num": 133955,
+        "word": "官方通报女子因开错房掌掴前台被打",
+        "onboard_time": 1761116001,
+        "rank": 12,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 157411,
+        "num": 133806,
+        "word": "冰岛首次发现蚊子",
+        "onboard_time": 1761098600,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156246,
+        "num": 133530,
+        "word": "宿舍的汤臣一品",
+        "onboard_time": 1761113900,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138910,
+        "num": 133288,
+        "word": "吃烤肠和不吃烤肠的都沉默了",
+        "onboard_time": 1761110302,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 56041,
+        "num": 133031,
+        "word": "入青云",
+        "onboard_time": 1761106762,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24130,
+        "num": 132991,
+        "word": "中方回应朝鲜发射短程弹道导弹",
+        "onboard_time": 1761122480,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65932,
+        "num": 132655,
+        "word": "升级鸿蒙6流畅度最高提升40%",
+        "onboard_time": 1761122061,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 42381,
+        "num": 132536,
+        "word": "华为碰一碰支持应用超60个",
+        "onboard_time": 1761119421,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 90447,
+        "num": 132225,
+        "word": "杨戬三星堆新皮肤爆料",
+        "onboard_time": 1761117020,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 296339,
+        "num": 132093,
+        "word": "红霉素软膏千万不能随便用",
+        "onboard_time": 1761108803,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 232481,
+        "num": 131740,
+        "word": "金价大跌有人一夜亏5万",
+        "onboard_time": 1761099320,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190065,
+        "num": 131595,
+        "word": "第一次见四平台加央视一起播的剧",
+        "onboard_time": 1761122902,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140142,
+        "num": 131408,
+        "word": "早期胃癌和普通胃病的区别",
+        "onboard_time": 1761105142,
+        "rank": 24,
+        "category": "科学科普,健康医疗"
+      },
+      {
+        "raw_hot": 55203,
+        "num": 131230,
+        "word": "鸿蒙6支持与苹果设备互传",
+        "onboard_time": 1761119121,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 131078,
+        "num": 131078,
+        "word": "张真源同学上音综被夸能拿格莱美",
+        "onboard_time": 1761118220,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119444,
+        "num": 119444,
+        "word": "谁家音综声乐导师是全明星阵容啊",
+        "onboard_time": 1761122902,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43041,
+        "num": 115125,
+        "word": "CFO对战HLE",
+        "onboard_time": 1761121281,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34475,
+        "num": 115062,
+        "word": "鸿蒙加密分享支持仅可查看一次",
+        "onboard_time": 1761122000,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 150403,
+        "num": 115060,
+        "word": "网红撒盐哥亏损540万英镑",
+        "onboard_time": 1761121341,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115009,
+        "num": 115009,
+        "word": "山姆将改用三轮车运输大件货物",
+        "onboard_time": 1761112642,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110844,
+        "num": 110844,
+        "word": "王自如说创业第一目标是还钱",
+        "onboard_time": 1761122720,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 103475,
+        "num": 103475,
+        "word": "星品影响力",
+        "onboard_time": 1761102260,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100984,
+        "num": 100984,
+        "word": "搭同事车受伤能索赔吗",
+        "onboard_time": 1761122661,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90497,
+        "num": 90497,
+        "word": "大批外省人涌入云南买房",
+        "onboard_time": 1761119063,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89998,
+        "num": 89998,
+        "word": "第一次在综艺里听明星聊抑郁症躯体化",
+        "onboard_time": 1761115040,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86347,
+        "num": 86347,
+        "word": "二手交易平台出现卢浮宫商品",
+        "onboard_time": 1761122300,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84284,
+        "num": 84284,
+        "word": "石凯 走心了",
+        "onboard_time": 1761120261,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12251,
+        "num": 81270,
+        "word": "原来这个表情是刘雨昕",
+        "onboard_time": 1761122061,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81200,
+        "num": 81200,
+        "word": "名创优品80%门店将关闭重开",
+        "onboard_time": 1761122902,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80543,
+        "num": 80543,
+        "word": "微信6大更新详解",
+        "onboard_time": 1761120201,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 79708,
+        "num": 79708,
+        "word": "我愿为这个房子每天爬5楼",
+        "onboard_time": 1761119480,
+        "rank": 42,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 78494,
+        "num": 78494,
+        "word": "爸爸去世的第七年收到了他的来信",
+        "onboard_time": 1761108141,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78691,
+        "num": 78398,
+        "word": "秋天冬天反复横跳",
+        "onboard_time": 1761115160,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4790,
+        "num": 78011,
+        "word": "未来的中国很酷",
+        "onboard_time": 1761059962,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77967,
+        "num": 77967,
+        "word": "后羿的新皮肤总算配得上嫦娥了",
+        "onboard_time": 1761122961,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 77913,
+        "num": 77913,
+        "word": "相亲型社交",
+        "onboard_time": 1761122360,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73918,
+        "num": 73918,
+        "word": "娄艺潇居然拍短剧了",
+        "onboard_time": 1761122841,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72654,
+        "num": 72654,
+        "word": "女子孕早期用电热毯孩子险电没",
+        "onboard_time": 1761117260,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航中国式现代化#"
+    }
+  }
+}

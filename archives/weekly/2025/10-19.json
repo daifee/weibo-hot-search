@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761122247217,
+  "endTime": 1761123026766,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -691,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 612045,
+      "num": 1112545,
+      "word": "iPhone17Pro的受害者出现了",
+      "onboard_time": 1761116960,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 603748,
       "num": 1102608,
       "word": "中国女子盗窃法国博物馆12斤金块",
@@ -721,14 +729,6 @@
       "onboard_time": 1761022342,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 592873,
-      "num": 1112545,
-      "word": "iPhone17Pro的受害者出现了",
-      "onboard_time": 1761116960,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 590001,
@@ -1795,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347808,
+      "num": 190132,
+      "word": "女子不慎撞羊被牧民邀请吃羊肉",
+      "onboard_time": 1761119121,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 346067,
       "num": 1115559,
       "word": "国台办回应台湾网红馆长宣布来京",
@@ -2059,14 +2067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 304701,
-      "num": 190132,
-      "word": "女子不慎撞羊被牧民邀请吃羊肉",
-      "onboard_time": 1761119121,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 302851,
       "num": 213440,
       "word": "闪耀暖暖 慕夏",
@@ -2251,6 +2251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 282759,
+      "num": 190116,
+      "word": "金价这轮会跌多久",
+      "onboard_time": 1761119480,
+      "rank": 11,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 281655,
       "num": 340330,
       "word": "未来3天冷冷冷冷冷",
@@ -2313,14 +2321,6 @@
       "onboard_time": 1761103821,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 277600,
-      "num": 190116,
-      "word": "金价这轮会跌多久",
-      "onboard_time": 1761119480,
-      "rank": 11,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 273038,
@@ -3352,6 +3352,14 @@
       "word": "夏之光出演于正金吾不禁",
       "onboard_time": 1761016100,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 190065,
+      "num": 131595,
+      "word": "第一次见四平台加央视一起播的剧",
+      "onboard_time": 1761122902,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -4507,6 +4515,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 150403,
+      "num": 189762,
+      "word": "网红撒盐哥亏损540万英镑",
+      "onboard_time": 1761121341,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 150302,
       "num": 145131,
       "word": "2025共创之夜全阵容海报",
@@ -5001,6 +5017,14 @@
       "onboard_time": 1760850141,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134764,
+      "num": 134764,
+      "word": "中方回应朝鲜发射多枚弹道导弹",
+      "onboard_time": 1761122661,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 134749,
@@ -5724,7 +5748,7 @@
     },
     {
       "raw_hot": 122334,
-      "num": 122334,
+      "num": 259361,
       "word": "台湾光复是抗战胜利的重要成果",
       "onboard_time": 1761101781,
       "rank": 15,
@@ -5881,6 +5905,14 @@
       "onboard_time": 1761050721,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119444,
+      "num": 119444,
+      "word": "谁家音综声乐导师是全明星阵容啊",
+      "onboard_time": 1761122902,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 119356,
@@ -6473,6 +6505,14 @@
       "onboard_time": 1760937081,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110844,
+      "num": 110844,
+      "word": "王自如说创业第一目标是还钱",
+      "onboard_time": 1761122720,
+      "rank": 32,
+      "category": "互联网"
     },
     {
       "raw_hot": 110688,
@@ -7369,6 +7409,14 @@
       "onboard_time": 1760847860,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 100984,
+      "num": 100984,
+      "word": "搭同事车受伤能索赔吗",
+      "onboard_time": 1761122661,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100737,
@@ -8283,14 +8331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 90941,
-      "num": 189762,
-      "word": "网红撒盐哥亏损540万英镑",
-      "onboard_time": 1761121341,
-      "rank": 36,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 90789,
       "num": 207631,
       "word": "女子穿7厘米高跟鞋轻松爬岩壁",
@@ -8704,6 +8744,14 @@
       "word": "卢浮宫十年削减190个安保监控岗",
       "onboard_time": 1761072854,
       "rank": 40,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 86347,
+      "num": 86347,
+      "word": "二手交易平台出现卢浮宫商品",
+      "onboard_time": 1761122300,
+      "rank": 37,
       "category": "海外新闻"
     },
     {
@@ -9211,6 +9259,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 81200,
+      "num": 81200,
+      "word": "名创优品80%门店将关闭重开",
+      "onboard_time": 1761122902,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81174,
       "num": 81174,
       "word": "痞幼变美了",
@@ -9321,6 +9377,14 @@
       "onboard_time": 1760867001,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79708,
+      "num": 79708,
+      "word": "我愿为这个房子每天爬5楼",
+      "onboard_time": 1761119480,
+      "rank": 42,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 79637,
@@ -9499,6 +9563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 77967,
+      "num": 77967,
+      "word": "后羿的新皮肤总算配得上嫦娥了",
+      "onboard_time": 1761122961,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 77961,
       "num": 178175,
       "word": "邵雨轩回应去复旦上学",
@@ -9513,6 +9585,14 @@
       "onboard_time": 1760796864,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 77913,
+      "num": 77913,
+      "word": "相亲型社交",
+      "onboard_time": 1761122360,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 77819,
@@ -9809,6 +9889,14 @@
       "onboard_time": 1761103821,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 73918,
+      "num": 73918,
+      "word": "娄艺潇居然拍短剧了",
+      "onboard_time": 1761122841,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 73559,
@@ -11699,6 +11787,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 24130,
+      "num": 132991,
+      "word": "中方回应朝鲜发射短程弹道导弹",
+      "onboard_time": 1761122480,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23780,
       "num": 39032,
       "word": "侯明昊古偶可靠丈夫赛道",
@@ -11979,6 +12075,14 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 12251,
+      "num": 189735,
+      "word": "原来这个表情是刘雨昕",
+      "onboard_time": 1761122061,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 11940,
       "num": 17642,
       "word": "王雷演活了西迁人的家国心",
@@ -12081,14 +12185,6 @@
       "onboard_time": 1760951961,
       "rank": 38,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 6724,
-      "num": 189735,
-      "word": "原来这个表情是刘雨昕",
-      "onboard_time": 1761122061,
-      "rank": 38,
-      "category": "演出"
     },
     {
       "raw_hot": 6255,
