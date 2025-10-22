@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761138611038,
+  "endTime": 1761140337596,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -1091,6 +1091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 482457,
+      "num": 808354,
+      "word": "闲鱼回应平台出现卢浮宫珠宝",
+      "onboard_time": 1761135202,
+      "rank": 7,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 482077,
       "num": 1077132,
       "word": "韩国选手破了孙杨亚洲纪录",
@@ -1595,6 +1603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 385183,
+      "num": 1029857,
+      "word": "何赛飞为全场呼唤陈丽君名字激动",
+      "onboard_time": 1761130221,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 385170,
       "num": 953304,
       "word": "国安部发布拍照炫耀泄密案例",
@@ -1899,14 +1915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 333606,
-      "num": 1029857,
-      "word": "何赛飞为全场呼唤陈丽君名字激动",
-      "onboard_time": 1761130221,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 333409,
       "num": 202048,
       "word": "猪脚饭饭菜分装顾客给差评",
@@ -2043,6 +2051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 318244,
+      "num": 609489,
+      "word": "宠物店起火宠物无一生还",
+      "onboard_time": 1761135622,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317829,
       "num": 858204,
       "word": "没去VOGUE盛典的明星请假视频",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1760963481,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315510,
+      "num": 1050481,
+      "word": "美国总统叫板美国前总统",
+      "onboard_time": 1761138322,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 314312,
@@ -2243,6 +2267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 296672,
+      "num": 599257,
+      "word": "Doinb回应小天",
+      "onboard_time": 1761138080,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 296598,
       "num": 1291172,
       "word": "金价大涨影响年轻人结婚",
@@ -2329,14 +2361,6 @@
       "onboard_time": 1761092420,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 286832,
-      "num": 808354,
-      "word": "闲鱼回应平台出现卢浮宫珠宝",
-      "onboard_time": 1761135202,
-      "rank": 7,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 285961,
@@ -3331,6 +3355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 197641,
+      "num": 1026187,
+      "word": "一张图片证明你那里有多冷",
+      "onboard_time": 1761133341,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197625,
       "num": 197625,
       "word": "她一个人干了一个小厂子的活",
@@ -3795,14 +3827,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 182469,
-      "num": 609489,
-      "word": "宠物店起火宠物无一生还",
-      "onboard_time": 1761135622,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 181975,
       "num": 673259,
       "word": "入冬",
@@ -3875,14 +3899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177744,
-      "num": 1026187,
-      "word": "一张图片证明你那里有多冷",
-      "onboard_time": 1761133341,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176942,
       "num": 195229,
       "word": "短剧霸总男团发红包",
@@ -3929,6 +3945,14 @@
       "onboard_time": 1761031702,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175881,
+      "num": 228864,
+      "word": "大乱斗",
+      "onboard_time": 1761139521,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 175663,
@@ -4377,6 +4401,14 @@
       "onboard_time": 1760963720,
       "rank": 47,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 162250,
+      "num": 607901,
+      "word": "第一眼以为是丑东西切开后惊艳我了",
+      "onboard_time": 1761136761,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 161956,
@@ -4915,6 +4947,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 147069,
+      "num": 227510,
+      "word": "常华森特别出演天地剑心",
+      "onboard_time": 1761140242,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147055,
       "num": 944654,
       "word": "娄艺潇居然拍短剧了",
@@ -4993,6 +5033,14 @@
       "onboard_time": 1761022942,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 144211,
+      "num": 236210,
+      "word": "王源演唱会",
+      "onboard_time": 1761138623,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 144163,
@@ -5091,20 +5139,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140537,
+      "num": 224834,
+      "word": "全球超13万汽车人将失业",
+      "onboard_time": 1761139343,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140385,
       "num": 413409,
       "word": "清融状态",
       "onboard_time": 1760960121,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 140299,
-      "num": 603940,
-      "word": "美国总统叫板美国前总统",
-      "onboard_time": 1761138322,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 140192,
@@ -5585,6 +5633,14 @@
       "onboard_time": 1760883022,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130055,
+      "num": 224616,
+      "word": "王俊凯乌镇戏剧节vlog",
+      "onboard_time": 1761139763,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 129940,
@@ -6107,6 +6163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121909,
+      "num": 224147,
+      "word": "G2战胜FLY",
+      "onboard_time": 1761138741,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121429,
       "num": 121429,
       "word": "把生命力养起来的方法",
@@ -6345,6 +6409,14 @@
       "onboard_time": 1760944700,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117992,
+      "num": 599011,
+      "word": "又一名32岁男子徒步深圳望郎归遇难",
+      "onboard_time": 1761138080,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117967,
@@ -6595,6 +6667,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 114121,
+      "num": 601465,
+      "word": "老外又带更多老外来中国",
+      "onboard_time": 1761138262,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114074,
       "num": 114074,
       "word": "娜扎VOGUE官宣照",
@@ -6675,6 +6755,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 112715,
+      "num": 223998,
+      "word": "片仔癀十年增长神话终结",
+      "onboard_time": 1761140302,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 112636,
       "num": 112636,
       "word": "志愿军出国作战75周年",
@@ -6705,14 +6793,6 @@
       "onboard_time": 1761018622,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 112449,
-      "num": 607901,
-      "word": "第一眼以为是丑东西切开后惊艳我了",
-      "onboard_time": 1761136761,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 112407,
@@ -7283,6 +7363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106133,
+      "num": 223900,
+      "word": "微博超有用视频大赛",
+      "onboard_time": 1761140242,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 105910,
       "num": 105910,
       "word": "51岁大哥摆摊半年一分钱没挣",
@@ -7755,14 +7843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101674,
-      "num": 599257,
-      "word": "Doinb回应小天",
-      "onboard_time": 1761138080,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 101673,
       "num": 101673,
       "word": "江苏一化工厂突发火灾有刺鼻气味",
@@ -7793,14 +7873,6 @@
       "onboard_time": 1761034700,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 101196,
-      "num": 599011,
-      "word": "又一名32岁男子徒步深圳望郎归遇难",
-      "onboard_time": 1761138080,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101184,
@@ -7840,6 +7912,14 @@
       "word": "搭同事车受伤能索赔吗",
       "onboard_time": 1761122661,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100974,
+      "num": 223652,
+      "word": "因起火宠物无一生还宠物店致歉",
+      "onboard_time": 1761139343,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -8203,6 +8283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96282,
+      "num": 223324,
+      "word": "无畏哭了",
+      "onboard_time": 1761140002,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96229,
       "num": 1249436,
       "word": "石宇奇法国公开赛退赛",
@@ -8521,14 +8609,6 @@
       "onboard_time": 1760969422,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 93507,
-      "num": 601465,
-      "word": "老外又带更多老外来中国",
-      "onboard_time": 1761138262,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93488,
@@ -8939,6 +9019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89782,
+      "num": 223220,
+      "word": "5种最常被滥用的皮肤药",
+      "onboard_time": 1761140302,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 89719,
       "num": 211035,
       "word": "故宫角楼与秋叶同框有多惊艳",
@@ -9075,6 +9163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 88268,
+      "num": 223150,
+      "word": "你的富贵来了",
+      "onboard_time": 1761138862,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88241,
       "num": 88241,
       "word": "多款大牌护肤品检出致癌成分",
@@ -9177,6 +9273,14 @@
       "onboard_time": 1761045802,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87393,
+      "num": 222877,
+      "word": "但凡在吃药就尽量别吃柚子",
+      "onboard_time": 1761140302,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 87315,
@@ -9401,6 +9505,14 @@
       "onboard_time": 1760949382,
       "rank": 29,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 85664,
+      "num": 223585,
+      "word": "冷冷冷我冷冷冷",
+      "onboard_time": 1761138741,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85388,
@@ -11051,6 +11163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 66317,
+      "num": 605911,
+      "word": "美国公务员排长队领救济",
+      "onboard_time": 1761136882,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 66295,
       "num": 134002,
       "word": "蒙面者从卢浮宫盗走9件珠宝后逃离",
@@ -11169,14 +11289,6 @@
       "onboard_time": 1761021803,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 62985,
-      "num": 605911,
-      "word": "美国公务员排长队领救济",
-      "onboard_time": 1761136882,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 62941,
@@ -11569,6 +11681,14 @@
       "onboard_time": 1760831057,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 56722,
+      "num": 223001,
+      "word": "苏超南京队外籍教练成南京女婿",
+      "onboard_time": 1761139642,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 56473,
@@ -12369,6 +12489,14 @@
       "onboard_time": 1760944221,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33201,
+      "num": 223399,
+      "word": "百人测评团组队为用户验货",
+      "onboard_time": 1761139221,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 32551,

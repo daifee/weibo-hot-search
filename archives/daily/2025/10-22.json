@@ -1,6 +1,6 @@
 {
   "startTime": 1761064398737,
-  "endTime": 1761138611038,
+  "endTime": 1761140337596,
   "band_list": [
     {
       "raw_hot": 1226277,
@@ -147,6 +147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 482457,
+      "num": 808354,
+      "word": "闲鱼回应平台出现卢浮宫珠宝",
+      "onboard_time": 1761135202,
+      "rank": 7,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 452133,
       "num": 1109314,
       "word": "前妻回应男子养了20年的儿子非亲生",
@@ -227,6 +235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 385183,
+      "num": 1029857,
+      "word": "何赛飞为全场呼唤陈丽君名字激动",
+      "onboard_time": 1761130221,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 379619,
       "num": 176093,
       "word": "打开行李箱发现多了8万元",
@@ -283,14 +299,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 333606,
-      "num": 1029857,
-      "word": "何赛飞为全场呼唤陈丽君名字激动",
-      "onboard_time": 1761130221,
-      "rank": 11,
-      "category": "演出"
-    },
-    {
       "raw_hot": 330070,
       "num": 1104726,
       "word": "早期胃癌和普通胃病的区别",
@@ -321,6 +329,22 @@
       "onboard_time": 1761098001,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 318244,
+      "num": 609489,
+      "word": "宠物店起火宠物无一生还",
+      "onboard_time": 1761135622,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315510,
+      "num": 1050481,
+      "word": "美国总统叫板美国前总统",
+      "onboard_time": 1761138322,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 314312,
@@ -363,6 +387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 296672,
+      "num": 599257,
+      "word": "Doinb回应小天",
+      "onboard_time": 1761138080,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 287242,
       "num": 227573,
       "word": "台湾网红馆长官宣北京行",
@@ -377,14 +409,6 @@
       "onboard_time": 1761092420,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 286832,
-      "num": 808354,
-      "word": "闲鱼回应平台出现卢浮宫珠宝",
-      "onboard_time": 1761135202,
-      "rank": 7,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 285961,
@@ -555,6 +579,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 224901,
+      "num": 598262,
+      "word": "金价",
+      "onboard_time": 1761056361,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 224016,
       "num": 1117872,
       "word": "卢浮宫重新开门",
@@ -641,6 +673,14 @@
       "onboard_time": 1761123680,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 197641,
+      "num": 1026187,
+      "word": "一张图片证明你那里有多冷",
+      "onboard_time": 1761133341,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 196819,
@@ -787,14 +827,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 182469,
-      "num": 609489,
-      "word": "宠物店起火宠物无一生还",
-      "onboard_time": 1761135622,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 180887,
       "num": 180887,
       "word": "孟羽童 离职就像情侣分手",
@@ -819,20 +851,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177744,
-      "num": 1026187,
-      "word": "一张图片证明你那里有多冷",
-      "onboard_time": 1761133341,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 176374,
       "num": 1051114,
       "word": "成毅王权富贵定档海报",
       "onboard_time": 1761132081,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175881,
+      "num": 228864,
+      "word": "大乱斗",
+      "onboard_time": 1761139521,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 175292,
@@ -929,6 +961,14 @@
       "onboard_time": 1761115040,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162250,
+      "num": 607901,
+      "word": "第一眼以为是丑东西切开后惊艳我了",
+      "onboard_time": 1761136761,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 161934,
@@ -1115,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147069,
+      "num": 227510,
+      "word": "常华森特别出演天地剑心",
+      "onboard_time": 1761140242,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147055,
       "num": 944654,
       "word": "娄艺潇居然拍短剧了",
@@ -1129,6 +1177,14 @@
       "onboard_time": 1761127460,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 144211,
+      "num": 236210,
+      "word": "王源演唱会",
+      "onboard_time": 1761138623,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 144163,
@@ -1179,12 +1235,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140299,
-      "num": 603940,
-      "word": "美国总统叫板美国前总统",
-      "onboard_time": 1761138322,
-      "rank": 22,
-      "category": "国际时政"
+      "raw_hot": 140537,
+      "num": 224834,
+      "word": "全球超13万汽车人将失业",
+      "onboard_time": 1761139343,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138606,
@@ -1225,6 +1281,14 @@
       "onboard_time": 1761138262,
       "rank": 23,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 130055,
+      "num": 224616,
+      "word": "王俊凯乌镇戏剧节vlog",
+      "onboard_time": 1761139763,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 129940,
@@ -1331,6 +1395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 121909,
+      "num": 224147,
+      "word": "G2战胜FLY",
+      "onboard_time": 1761138741,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121165,
       "num": 121165,
       "word": "终于懂鲁豫为什么是访谈界的神",
@@ -1355,20 +1427,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117992,
+      "num": 599011,
+      "word": "又一名32岁男子徒步深圳望郎归遇难",
+      "onboard_time": 1761138080,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117828,
       "num": 117828,
       "word": "红军长征胜利89周年",
       "onboard_time": 1761091520,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 117612,
-      "num": 598262,
-      "word": "金价",
-      "onboard_time": 1761056361,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 117273,
@@ -1411,6 +1483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114121,
+      "num": 601465,
+      "word": "老外又带更多老外来中国",
+      "onboard_time": 1761138262,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113767,
       "num": 607792,
       "word": "S15封面队伍全败",
@@ -1427,12 +1507,12 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 112449,
-      "num": 607901,
-      "word": "第一眼以为是丑东西切开后惊艳我了",
-      "onboard_time": 1761136761,
-      "rank": 30,
-      "category": "美食"
+      "raw_hot": 112715,
+      "num": 223998,
+      "word": "片仔癀十年增长神话终结",
+      "onboard_time": 1761140302,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 112407,
@@ -1603,6 +1683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106133,
+      "num": 223900,
+      "word": "微博超有用视频大赛",
+      "onboard_time": 1761140242,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 105281,
       "num": 105281,
       "word": "恶语伤咪心",
@@ -1699,22 +1787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 101674,
-      "num": 599257,
-      "word": "Doinb回应小天",
-      "onboard_time": 1761138080,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 101196,
-      "num": 599011,
-      "word": "又一名32岁男子徒步深圳望郎归遇难",
-      "onboard_time": 1761138080,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 101077,
       "num": 101077,
       "word": "阿森纳4比0马竞",
@@ -1728,6 +1800,14 @@
       "word": "搭同事车受伤能索赔吗",
       "onboard_time": 1761122661,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100974,
+      "num": 223652,
+      "word": "因起火宠物无一生还宠物店致歉",
+      "onboard_time": 1761139343,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -1795,6 +1875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96282,
+      "num": 223324,
+      "word": "无畏哭了",
+      "onboard_time": 1761140002,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95520,
       "num": 95520,
       "word": "原神",
@@ -1825,14 +1913,6 @@
       "onboard_time": 1761126381,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 93507,
-      "num": 601465,
-      "word": "老外又带更多老外来中国",
-      "onboard_time": 1761138262,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93398,
@@ -1899,6 +1979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 89782,
+      "num": 223220,
+      "word": "5种最常被滥用的皮肤药",
+      "onboard_time": 1761140302,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 89543,
       "num": 1000211,
       "word": "孙颖莎亮相TVB全运宣传片",
@@ -1923,6 +2011,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 88268,
+      "num": 223150,
+      "word": "你的富贵来了",
+      "onboard_time": 1761138862,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87599,
       "num": 1086313,
       "word": "女子孕早期用电热毯孩子险电没",
@@ -1937,6 +2033,14 @@
       "onboard_time": 1761137962,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 87393,
+      "num": 222877,
+      "word": "但凡在吃药就尽量别吃柚子",
+      "onboard_time": 1761140302,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 86883,
@@ -2041,6 +2145,14 @@
       "onboard_time": 1761120201,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 85664,
+      "num": 223585,
+      "word": "冷冷冷我冷冷冷",
+      "onboard_time": 1761138741,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84051,
@@ -2587,6 +2699,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 66317,
+      "num": 605911,
+      "word": "美国公务员排长队领救济",
+      "onboard_time": 1761136882,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 64757,
       "num": 116846,
       "word": "杨幂一不小心登顶了",
@@ -2609,14 +2729,6 @@
       "onboard_time": 1761134961,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 62985,
-      "num": 605911,
-      "word": "美国公务员排长队领救济",
-      "onboard_time": 1761136882,
-      "rank": 47,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 62816,
@@ -2689,6 +2801,14 @@
       "onboard_time": 1761104902,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 56722,
+      "num": 223001,
+      "word": "苏超南京队外籍教练成南京女婿",
+      "onboard_time": 1761139642,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 56463,
@@ -3025,6 +3145,14 @@
       "onboard_time": 1761107002,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33201,
+      "num": 223399,
+      "word": "百人测评团组队为用户验货",
+      "onboard_time": 1761139221,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 32541,
