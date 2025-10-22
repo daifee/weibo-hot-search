@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761158320206,
+  "endTime": 1761159093996,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -13283,6 +13283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18952,
+      "num": 51167,
+      "word": "谁家音综歌手狠起来连自己都骂",
+      "onboard_time": 1761156195,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18946,
       "num": 295088,
       "word": "女王盐E人属性大爆发",
@@ -13449,14 +13457,6 @@
       "onboard_time": 1761071415,
       "rank": 47,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 12989,
-      "num": 51167,
-      "word": "谁家音综歌手狠起来连自己都骂",
-      "onboard_time": 1761156195,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 12251,

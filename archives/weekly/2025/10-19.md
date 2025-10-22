@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/19 00:28:53 ~ 2025/10/23 02:38:40
+本榜单时间：2025/10/19 00:28:53 ~ 2025/10/23 02:51:33
 </p>
 </blockquote>
 <p>
@@ -9975,6 +9975,12 @@ PSG对战VKS（热度：39526）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E9%9F%B3%E7%BB%BC%E6%AD%8C%E6%89%8B%E7%8B%A0%E8%B5%B7%E6%9D%A5%E8%BF%9E%E8%87%AA%E5%B7%B1%E9%83%BD%E9%AA%82%23" target="weibo">
+谁家音综歌手狠起来连自己都骂（热度：18952）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%8E%8B%E7%9B%90E%E4%BA%BA%E5%B1%9E%E6%80%A7%E5%A4%A7%E7%88%86%E5%8F%91%23" target="weibo">
 女王盐E人属性大爆发（热度：18946）
 </a>
@@ -10097,12 +10103,6 @@ PSG对战VKS（热度：39526）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B0%8F%E7%9A%84%E7%83%A6%E6%81%BC%E4%B9%9F%E8%A2%AB%E5%90%AC%E5%88%B0%E4%BA%86%23" target="weibo">
 小小的烦恼也被听到了（热度：13358）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E9%9F%B3%E7%BB%BC%E6%AD%8C%E6%89%8B%E7%8B%A0%E8%B5%B7%E6%9D%A5%E8%BF%9E%E8%87%AA%E5%B7%B1%E9%83%BD%E9%AA%82%23" target="weibo">
-谁家音综歌手狠起来连自己都骂（热度：12989）
 </a>
 </li>
 
