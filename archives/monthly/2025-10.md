@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/22 13:42:56
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/22 14:38:51
 </p>
 </blockquote>
 <p>
@@ -5991,6 +5991,12 @@ iPhone的一生要经历三次死亡（热度：494807）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E9%9C%89%E7%B4%A0%E8%BD%AF%E8%86%8F%E5%8D%83%E4%B8%87%E4%B8%8D%E8%83%BD%E9%9A%8F%E4%BE%BF%E7%94%A8%23" target="weibo">
+红霉素软膏千万不能随便用（热度：494702）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E9%B2%81%E7%94%B84.4%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 云南鲁甸4.4级地震（热度：494192）
 </a>
@@ -6005,12 +6011,6 @@ iPhone的一生要经历三次死亡（热度：494807）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E4%B8%8D%E5%9C%A8%E5%91%A8%E6%9C%AB%E7%BB%99%E4%B8%80%E7%BA%BF%E5%91%98%E5%B7%A5%E5%8F%91%E5%B7%A5%E4%BD%9C%E4%BF%A1%E6%81%AF%23" target="weibo">
 宗馥莉不在周末给一线员工发工作信息（热度：492874）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%B7%B2%E5%88%B0%E5%AE%B6%E5%90%83%E4%B8%8A%E8%B1%86%E8%85%90%E8%84%91%E4%BA%86%23" target="weibo">
-杨幂已到家吃上豆腐脑了（热度：492607）
 </a>
 </li>
 

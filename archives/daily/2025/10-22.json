@@ -1,10 +1,10 @@
 {
   "startTime": 1761064398737,
-  "endTime": 1761111776283,
+  "endTime": 1761115131629,
   "band_list": [
     {
       "raw_hot": 1226277,
-      "num": 208130,
+      "num": 226701,
       "word": "金价大跌有人一夜亏5万",
       "onboard_time": 1761099320,
       "rank": 29,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1030499,
-      "num": 246138,
+      "num": 277710,
       "word": "冰岛首次发现蚊子",
       "onboard_time": 1761098600,
       "rank": 13,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 634507,
-      "num": 222319,
+      "num": 573393,
       "word": "负债1亿的王自如坐绿皮火车出差",
       "onboard_time": 1761109344,
       "rank": 3,
@@ -83,12 +83,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 477800,
-      "num": 149797,
+      "raw_hot": 494702,
+      "num": 220091,
       "word": "红霉素软膏千万不能随便用",
       "onboard_time": 1761108803,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 452133,
+      "num": 452133,
+      "word": "前妻回应男子养了20年的儿子非亲生",
+      "onboard_time": 1761111261,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 449208,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 409347,
-      "num": 234592,
+      "num": 266981,
       "word": "韩国越南网友疯狂互嘲",
       "onboard_time": 1761106941,
       "rank": 22,
@@ -180,7 +188,7 @@
     },
     {
       "raw_hot": 330070,
-      "num": 207165,
+      "num": 217054,
       "word": "早期胃癌和普通胃病的区别",
       "onboard_time": 1761105142,
       "rank": 44,
@@ -235,6 +243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 278105,
+      "num": 278105,
+      "word": "吃烤肠和不吃烤肠的都沉默了",
+      "onboard_time": 1761110302,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 277845,
       "num": 203903,
       "word": "星品",
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 271066,
-      "num": 255703,
+      "num": 546888,
       "word": "于正官宣金吾不禁阵容",
       "onboard_time": 1761103941,
       "rank": 48,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 266615,
-      "num": 241624,
+      "num": 244038,
       "word": "Uzi说S15抽签没找他",
       "onboard_time": 1761105322,
       "rank": 31,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 238886,
-      "num": 149662,
+      "num": 236530,
       "word": "爸爸去世的第七年收到了他的来信",
       "onboard_time": 1761108141,
       "rank": 23,
@@ -315,11 +331,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 225749,
+      "num": 490066,
+      "word": "学生证的正确打开方式",
+      "onboard_time": 1761112101,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
       "raw_hot": 214636,
       "num": 161974,
       "word": "明星代言蟹卡差到黄牛都不敢收",
       "onboard_time": 1761048681,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212780,
+      "num": 707338,
+      "word": "改名叫夏冬春吧 剪秋也行",
+      "onboard_time": 1761111800,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -329,14 +361,6 @@
       "onboard_time": 1761104961,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207207,
-      "num": 148587,
-      "word": "前妻回应男子养了20年的儿子非亲生",
-      "onboard_time": 1761111261,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 206998,
@@ -372,7 +396,7 @@
     },
     {
       "raw_hot": 194048,
-      "num": 194048,
+      "num": 233152,
       "word": "勇士战胜湖人",
       "onboard_time": 1761109761,
       "rank": 8,
@@ -412,7 +436,7 @@
     },
     {
       "raw_hot": 185406,
-      "num": 237858,
+      "num": 462276,
       "word": "水龙吟还给内娱留了两天时间",
       "onboard_time": 1761104180,
       "rank": 29,
@@ -420,7 +444,7 @@
     },
     {
       "raw_hot": 185180,
-      "num": 248805,
+      "num": 493320,
       "word": "秋季最后一个节气要来了",
       "onboard_time": 1761094701,
       "rank": 7,
@@ -443,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 180887,
+      "num": 180887,
+      "word": "孟羽童 离职就像情侣分手",
+      "onboard_time": 1761112101,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178357,
       "num": 178357,
       "word": "于东来个人交流3小时收费50万元",
@@ -459,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175673,
+      "num": 175673,
+      "word": "宿舍的汤臣一品",
+      "onboard_time": 1761113900,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167522,
       "num": 151582,
       "word": "买了漂亮衣服但不穿的原因",
@@ -467,12 +507,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 166513,
-      "num": 128275,
-      "word": "吃烤肠和不吃烤肠的都沉默了",
-      "onboard_time": 1761110302,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 164950,
+      "num": 164950,
+      "word": "山姆将改用三轮车运输大件货物",
+      "onboard_time": 1761112642,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164456,
@@ -481,6 +521,14 @@
       "onboard_time": 1761103761,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 163973,
+      "num": 163973,
+      "word": "孟子义cos我是认真的",
+      "onboard_time": 1761112882,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 163667,
@@ -699,6 +747,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 129394,
+      "num": 129394,
+      "word": "专家称黄金1年涨幅超50%非常不正常",
+      "onboard_time": 1761114381,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 128546,
+      "num": 514060,
+      "word": "BLG晋级S15八强需两连胜",
+      "onboard_time": 1761111202,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128357,
       "num": 128357,
       "word": "雷霆双加时战胜火箭",
@@ -713,6 +777,14 @@
       "onboard_time": 1761111622,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127521,
+      "num": 127521,
+      "word": "金价暴跌有金店连夜降价",
+      "onboard_time": 1761110241,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 126442,
@@ -761,6 +833,14 @@
       "onboard_time": 1761101781,
       "rank": 15,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121165,
+      "num": 121165,
+      "word": "终于懂鲁豫为什么是访谈界的神",
+      "onboard_time": 1761113719,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 120874,
@@ -819,12 +899,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 114844,
-      "num": 114844,
-      "word": "金价暴跌有金店连夜降价",
-      "onboard_time": 1761110241,
-      "rank": 42,
-      "category": "财经"
+      "raw_hot": 113336,
+      "num": 113336,
+      "word": "第一次在综艺里听明星聊抑郁症躯体化",
+      "onboard_time": 1761115040,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 112407,
@@ -971,6 +1051,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 102941,
+      "num": 102941,
+      "word": "留学生被策反当间谍回国窃密获无期",
+      "onboard_time": 1761113482,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102789,
       "num": 102789,
       "word": "杜兰特6犯离场",
@@ -1075,6 +1163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 86185,
+      "num": 86185,
+      "word": "10月就穿羽绒服了",
+      "onboard_time": 1761112642,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83814,
       "num": 83814,
       "word": "92号汽油或重返6元时代",
@@ -1083,12 +1179,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 83364,
+      "num": 83364,
+      "word": "孙千和出发团在一起全是笑话",
+      "onboard_time": 1761112462,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 82340,
       "num": 117354,
       "word": "LPL致敬Karsa",
       "onboard_time": 1761058222,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 82222,
+      "num": 82222,
+      "word": "走5公里和跑5公里哪个益处更大",
+      "onboard_time": 1761113301,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 82142,
@@ -1115,6 +1227,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 80780,
+      "num": 80780,
+      "word": "喜人奇妙夜2好朋友合作赛",
+      "onboard_time": 1761112701,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80421,
       "num": 117135,
       "word": "VOGUE",
@@ -1131,12 +1251,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79011,
+      "num": 234810,
+      "word": "好羽绒服凭什么不能大众价",
+      "onboard_time": 1761111321,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 78695,
       "num": 78695,
       "word": "一教授每年强制定投100克黄金",
       "onboard_time": 1761094701,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78464,
+      "num": 78464,
+      "word": "Bin谈被波比单杀",
+      "onboard_time": 1761115101,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 78319,
@@ -1161,6 +1297,14 @@
       "onboard_time": 1761096682,
       "rank": 40,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 76908,
+      "num": 129730,
+      "word": "库里超远三分",
+      "onboard_time": 1761114140,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 75795,
@@ -1315,6 +1459,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 54451,
+      "num": 228346,
+      "word": "iPhoneAir京东新品首发",
+      "onboard_time": 1761113182,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 52722,
       "num": 117242,
       "word": "天地剑心",
@@ -1331,12 +1483,12 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 49771,
-      "num": 144795,
-      "word": "好羽绒服凭什么不能大众价",
-      "onboard_time": 1761111321,
-      "rank": 19,
-      "category": "时尚"
+      "raw_hot": 49291,
+      "num": 81264,
+      "word": "山东河北多地夜空惊现不明飞行物",
+      "onboard_time": 1761113482,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48122,
@@ -1401,6 +1553,14 @@
       "onboard_time": 1761062660,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 44228,
+      "num": 221769,
+      "word": "大学生当临时父母3小时收入300元",
+      "onboard_time": 1761114862,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43315,
@@ -1515,20 +1675,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34087,
+      "num": 103541,
+      "word": "起诉银行电话骚扰获赔5000元",
+      "onboard_time": 1761114862,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32541,
-      "num": 261403,
+      "num": 582062,
       "word": "决胜十四五",
       "onboard_time": 1761107181,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32322,
-      "num": 114281,
-      "word": "BLG晋级S15八强需两连胜",
-      "onboard_time": 1761111202,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 29247,
@@ -1553,6 +1713,14 @@
       "onboard_time": 1761063319,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 22218,
+      "num": 104836,
+      "word": "广西百色内涝为何积水难消",
+      "onboard_time": 1761114320,
+      "rank": 37,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 20602,
