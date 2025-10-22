@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761133149641,
+  "endTime": 1761137727331,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -705,6 +705,14 @@
       "onboard_time": 1761116960,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 610106,
+      "num": 610106,
+      "word": "月入一万以下最好的理财方式",
+      "onboard_time": 1761133160,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 603748,
@@ -2099,6 +2107,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 306281,
+      "num": 925828,
+      "word": "小天回应19年FPX兄弟情",
+      "onboard_time": 1761134902,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 305556,
       "num": 305556,
       "word": "孟羽童来offer董明珠知道么",
@@ -2219,6 +2235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 297047,
+      "num": 1029857,
+      "word": "何赛飞为全场呼唤陈丽君名字激动",
+      "onboard_time": 1761130221,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 296598,
       "num": 1291172,
       "word": "金价大涨影响年轻人结婚",
@@ -2233,14 +2257,6 @@
       "onboard_time": 1761013159,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 294957,
-      "num": 1029857,
-      "word": "何赛飞为全场呼唤陈丽君名字激动",
-      "onboard_time": 1761130221,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 292258,
@@ -2312,6 +2328,14 @@
       "word": "泽连斯基称已准备好结束俄乌冲突",
       "onboard_time": 1761092420,
       "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 285961,
+      "num": 1046492,
+      "word": "印度总统直升机降落时停机坪塌陷",
+      "onboard_time": 1761133101,
+      "rank": 7,
       "category": "国际时政"
     },
     {
@@ -2633,6 +2657,14 @@
       "onboard_time": 1760887281,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 247391,
+      "num": 774693,
+      "word": "曝VOGUE盛典拖欠劳务费",
+      "onboard_time": 1761134781,
+      "rank": 6,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 247215,
@@ -3467,6 +3499,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 191355,
+      "num": 711438,
+      "word": "闲鱼回应平台出现卢浮宫珠宝",
+      "onboard_time": 1761135202,
+      "rank": 7,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 190531,
       "num": 190531,
       "word": "陈钰琪金吾不禁官宣",
@@ -3521,6 +3561,14 @@
       "onboard_time": 1760976621,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 189015,
+      "num": 1031784,
+      "word": "王俊凯陈飞宇范丞丞出演陈思诚新片",
+      "onboard_time": 1761132741,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 188764,
@@ -4419,6 +4467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 158778,
+      "num": 609489,
+      "word": "宠物店起火宠物无一生还",
+      "onboard_time": 1761135622,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158550,
       "num": 158550,
       "word": "李兰迪对接确认出演海岛舒服日志",
@@ -4691,6 +4747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150765,
+      "num": 995947,
+      "word": "年轻人为什么不爱喝养乐多了",
+      "onboard_time": 1761130761,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150758,
       "num": 415015,
       "word": "双11付尾款",
@@ -4753,6 +4817,14 @@
       "onboard_time": 1760873181,
       "rank": 32,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 149797,
+      "num": 1026187,
+      "word": "一张图片证明你那里有多冷",
+      "onboard_time": 1761133341,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149595,
@@ -4912,6 +4984,14 @@
       "word": "milkyway被曝私联粉丝",
       "onboard_time": 1761022942,
       "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 144163,
+      "num": 972113,
+      "word": "狼队对战JDG",
+      "onboard_time": 1761130700,
+      "rank": 37,
       "category": "电竞"
     },
     {
@@ -5627,14 +5707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126939,
-      "num": 995947,
-      "word": "年轻人为什么不爱喝养乐多了",
-      "onboard_time": 1761130761,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126838,
       "num": 121841,
       "word": "雪地靴成了东三省省靴",
@@ -5849,6 +5921,14 @@
       "onboard_time": 1760853380,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124271,
+      "num": 1028938,
+      "word": "龚俊第一部大男主剧",
+      "onboard_time": 1761132201,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 124205,
@@ -6595,6 +6675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112449,
+      "num": 607901,
+      "word": "第一眼以为是丑东西切开后惊艳我了",
+      "onboard_time": 1761136761,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 112407,
       "num": 112407,
       "word": "卢浮宫被抢珠宝价值超7.2亿元",
@@ -6643,6 +6731,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 112131,
+      "num": 607792,
+      "word": "S15封面队伍全败",
+      "onboard_time": 1761134902,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112077,
       "num": 112077,
       "word": "张子枫演技自来水",
@@ -6681,6 +6777,14 @@
       "onboard_time": 1760870962,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111548,
+      "num": 977204,
+      "word": "怪不得说肠道是人的第二个大脑",
+      "onboard_time": 1761131000,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 111509,
@@ -6849,14 +6953,6 @@
       "onboard_time": 1760880683,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 109613,
-      "num": 1046492,
-      "word": "印度总统直升机降落时停机坪塌陷",
-      "onboard_time": 1761133101,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 109568,
@@ -7795,6 +7891,14 @@
       "category": "游戏,幽默"
     },
     {
+      "raw_hot": 99867,
+      "num": 1004329,
+      "word": "王鹤棣担任GAI演唱会嘉宾",
+      "onboard_time": 1761132921,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99717,
       "num": 1262595,
       "word": "陈奕迅代言红米",
@@ -8067,6 +8171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96044,
+      "num": 608407,
+      "word": "第一次感受到藏马熊的恐怖",
+      "onboard_time": 1761134902,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96027,
       "num": 188466,
       "word": "苹果市值达3.85万亿美元",
@@ -8179,6 +8291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 95157,
+      "num": 608351,
+      "word": "深圳七娘山80天内三起失联均遇难",
+      "onboard_time": 1761136040,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95146,
       "num": 111819,
       "word": "梅西夺冠奖金分给了足协员工和球员",
@@ -8192,6 +8312,14 @@
       "word": "女子回应生下男友遗腹子想要赔偿款",
       "onboard_time": 1761050780,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95025,
+      "num": 608191,
+      "word": "国务院同意设立全民阅读活动周",
+      "onboard_time": 1761135741,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -8225,14 +8353,6 @@
       "onboard_time": 1761020121,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 94302,
-      "num": 977204,
-      "word": "怪不得说肠道是人的第二个大脑",
-      "onboard_time": 1761131000,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 94257,
@@ -8337,22 +8457,6 @@
       "onboard_time": 1761126381,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 93606,
-      "num": 1028938,
-      "word": "龚俊第一部大男主剧",
-      "onboard_time": 1761132201,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 93555,
-      "num": 1031784,
-      "word": "王俊凯陈飞宇范丞丞出演陈思诚新片",
-      "onboard_time": 1761132741,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 93553,
@@ -8793,14 +8897,6 @@
       "onboard_time": 1761052041,
       "rank": 38,
       "category": "民生新闻,旅游"
-    },
-    {
-      "raw_hot": 89705,
-      "num": 972113,
-      "word": "狼队对战JDG",
-      "onboard_time": 1761130700,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 89684,
@@ -9523,12 +9619,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82516,
-      "num": 1004329,
-      "word": "王鹤棣担任GAI演唱会嘉宾",
-      "onboard_time": 1761132921,
-      "rank": 27,
-      "category": "演出"
+      "raw_hot": 82487,
+      "num": 607406,
+      "word": "归期镜头",
+      "onboard_time": 1761135803,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 82484,
@@ -9971,6 +10067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78480,
+      "num": 607240,
+      "word": "内娱热剧换乘cp",
+      "onboard_time": 1761134841,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78469,
       "num": 323887,
       "word": "二十届四中全会开始举行",
@@ -10371,6 +10475,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 73856,
+      "num": 607017,
+      "word": "第一次见灵珠有点不适应",
+      "onboard_time": 1761134663,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73685,
+      "num": 606904,
+      "word": "金店回应黄金每克暴跌50元",
+      "onboard_time": 1761135981,
+      "rank": 39,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 73559,
       "num": 1272777,
       "word": "云合",
@@ -10409,6 +10529,14 @@
       "onboard_time": 1760843960,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73000,
+      "num": 606781,
+      "word": "女子用最后一丝力气晕倒在消防站",
+      "onboard_time": 1761137480,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72994,
@@ -10779,6 +10907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68211,
+      "num": 606336,
+      "word": "一半秋天一半已到冬天",
+      "onboard_time": 1761133160,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67959,
       "num": 215679,
       "word": "王楚钦叫马龙我的哥",
@@ -10923,6 +11059,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 63939,
+      "num": 606323,
+      "word": "天冷了和小猫咪一起睡",
+      "onboard_time": 1761134961,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 63760,
       "num": 74449,
       "word": "Bin和Doran迎来生死战",
@@ -11049,6 +11193,14 @@
       "onboard_time": 1760974162,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62351,
+      "num": 606110,
+      "word": "食贫道采访的日本专家称日本完了",
+      "onboard_time": 1761137241,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62318,
@@ -11283,6 +11435,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 57900,
+      "num": 605911,
+      "word": "美国公务员排长队领救济",
+      "onboard_time": 1761136882,
+      "rank": 47,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 57775,
       "num": 373777,
       "word": "教科书式羽绒服穿搭模板",
@@ -11425,6 +11585,14 @@
       "onboard_time": 1760840599,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55079,
+      "num": 608048,
+      "word": "这个团喷不了他们真有实绩",
+      "onboard_time": 1761134181,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 54859,
@@ -11780,7 +11948,7 @@
     },
     {
       "raw_hot": 44390,
-      "num": 287411,
+      "num": 848480,
       "word": "未来的中国很酷",
       "onboard_time": 1761059962,
       "rank": 10,
@@ -11793,6 +11961,14 @@
       "onboard_time": 1761024321,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43945,
+      "num": 606651,
+      "word": "乐园保洁大姐cos蟑螂",
+      "onboard_time": 1761136401,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43672,
@@ -12169,6 +12345,14 @@
       "onboard_time": 1760818995,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32104,
+      "num": 606068,
+      "word": "北京供热 冲刺",
+      "onboard_time": 1761136040,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32053,

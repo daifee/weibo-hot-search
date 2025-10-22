@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/10/01 00:31:53 ~ 2025/10/22 19:39:09
+本榜单时间：2025/10/01 00:31:53 ~ 2025/10/22 20:55:27
 </p>
 </blockquote>
 <p>
@@ -4305,6 +4305,12 @@ TF四代出道团成员由公司自主决定（热度：610474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%85%A5%E4%B8%80%E4%B8%87%E4%BB%A5%E4%B8%8B%E6%9C%80%E5%A5%BD%E7%9A%84%E7%90%86%E8%B4%A2%E6%96%B9%E5%BC%8F%23" target="weibo">
+月入一万以下最好的理财方式（热度：610106）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%AB%9F%E7%84%B6%E6%98%AF%E6%BD%98%E7%8E%AE%E6%9F%8F%23" target="weibo">
 这竟然是潘玮柏（热度：609363）
 </a>
@@ -6005,12 +6011,6 @@ GEN战胜T1（热度：526738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%AF%E4%BB%96%E4%B9%9F%E6%89%8D25%E5%B2%81%23" target="weibo">
 王楚钦可他也才25岁（热度：495052）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%80%BC%E4%BA%BA%E8%AE%A9%E5%BA%A7%E8%A2%AB%E8%B8%B9%E8%80%81%E4%BA%BA%E7%AB%9F%E6%98%AF%E9%80%9A%E7%BC%89%E7%8A%AF%23" target="weibo">
-台逼人让座被踹老人竟是通缉犯（热度：494991）
 </a>
 </li>
 

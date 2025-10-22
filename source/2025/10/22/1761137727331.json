@@ -1,0 +1,410 @@
+{
+  "runTime": 1761137727331,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 267826,
+        "num": 1042852,
+        "word": "中方回应朝鲜发射多枚弹道导弹",
+        "onboard_time": 1761122661,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149797,
+        "num": 1026187,
+        "word": "一张图片证明你那里有多冷",
+        "onboard_time": 1761133341,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7817,
+        "num": 963195,
+        "word": "党的二十届四中全会",
+        "onboard_time": 1761107002,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 306281,
+        "num": 925828,
+        "word": "小天回应19年FPX兄弟情",
+        "onboard_time": 1761134902,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 285961,
+        "num": 877702,
+        "word": "印度总统直升机降落时停机坪塌陷",
+        "onboard_time": 1761133101,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2898,
+        "num": 848480,
+        "word": "未来的中国很酷",
+        "onboard_time": 1761059962,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 247391,
+        "num": 774693,
+        "word": "曝VOGUE盛典拖欠劳务费",
+        "onboard_time": 1761134781,
+        "rank": 6,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 191355,
+        "num": 711438,
+        "word": "闲鱼回应平台出现卢浮宫珠宝",
+        "onboard_time": 1761135202,
+        "rank": 7,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 189015,
+        "num": 682699,
+        "word": "王俊凯陈飞宇范丞丞出演陈思诚新片",
+        "onboard_time": 1761132741,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144163,
+        "num": 649576,
+        "word": "狼队对战JDG",
+        "onboard_time": 1761130700,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 610106,
+        "num": 610106,
+        "word": "月入一万以下最好的理财方式",
+        "onboard_time": 1761133160,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143706,
+        "num": 610023,
+        "word": "10月就穿羽绒服了",
+        "onboard_time": 1761112642,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404428,
+        "num": 609974,
+        "word": "乌干达发生严重车祸致63死",
+        "onboard_time": 1761131600,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 297047,
+        "num": 609768,
+        "word": "何赛飞为全场呼唤陈丽君名字激动",
+        "onboard_time": 1761130221,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189502,
+        "num": 609723,
+        "word": "iPhone17Pro的受害者出现了",
+        "onboard_time": 1761116960,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173253,
+        "num": 609540,
+        "word": "锦州是真火了",
+        "onboard_time": 1761128721,
+        "rank": 15,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 158778,
+        "num": 609489,
+        "word": "宠物店起火宠物无一生还",
+        "onboard_time": 1761135622,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124271,
+        "num": 609331,
+        "word": "龚俊第一部大男主剧",
+        "onboard_time": 1761132201,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99867,
+        "num": 609226,
+        "word": "王鹤棣担任GAI演唱会嘉宾",
+        "onboard_time": 1761132921,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53036,
+        "num": 609169,
+        "word": "第一次见四平台加央视一起播的剧",
+        "onboard_time": 1761122902,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191418,
+        "num": 609029,
+        "word": "黄金",
+        "onboard_time": 1761124940,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 150765,
+        "num": 608854,
+        "word": "年轻人为什么不爱喝养乐多了",
+        "onboard_time": 1761130761,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135446,
+        "num": 608826,
+        "word": "名创优品80%门店将关闭重开",
+        "onboard_time": 1761122902,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111548,
+        "num": 608733,
+        "word": "怪不得说肠道是人的第二个大脑",
+        "onboard_time": 1761131000,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109564,
+        "num": 608518,
+        "word": "金价这轮会跌多久",
+        "onboard_time": 1761119480,
+        "rank": 24,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 96044,
+        "num": 608407,
+        "word": "第一次感受到藏马熊的恐怖",
+        "onboard_time": 1761134902,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95157,
+        "num": 608351,
+        "word": "深圳七娘山80天内三起失联均遇难",
+        "onboard_time": 1761136040,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95025,
+        "num": 608191,
+        "word": "国务院同意设立全民阅读活动周",
+        "onboard_time": 1761135741,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91052,
+        "num": 608119,
+        "word": "韩网友制作胡椒喷雾攻击中国游客",
+        "onboard_time": 1761123680,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 55079,
+        "num": 608048,
+        "word": "这个团喷不了他们真有实绩",
+        "onboard_time": 1761134181,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112449,
+        "num": 607901,
+        "word": "第一眼以为是丑东西切开后惊艳我了",
+        "onboard_time": 1761136761,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112131,
+        "num": 607792,
+        "word": "S15封面队伍全败",
+        "onboard_time": 1761134902,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89645,
+        "num": 607595,
+        "word": "美国华人社区发生惨案",
+        "onboard_time": 1761125119,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87749,
+        "num": 607580,
+        "word": "金价大跌有人一夜亏5万",
+        "onboard_time": 1761099320,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82487,
+        "num": 607406,
+        "word": "归期镜头",
+        "onboard_time": 1761135803,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80479,
+        "num": 607291,
+        "word": "星品影响力",
+        "onboard_time": 1761102260,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 78480,
+        "num": 607240,
+        "word": "内娱热剧换乘cp",
+        "onboard_time": 1761134841,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77338,
+        "num": 607129,
+        "word": "追回卢浮宫被抢文物的可能性低",
+        "onboard_time": 1761124281,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73856,
+        "num": 607017,
+        "word": "第一次见灵珠有点不适应",
+        "onboard_time": 1761134663,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 73685,
+        "num": 606904,
+        "word": "金店回应黄金每克暴跌50元",
+        "onboard_time": 1761135981,
+        "rank": 39,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 73000,
+        "num": 606781,
+        "word": "女子用最后一丝力气晕倒在消防站",
+        "onboard_time": 1761137480,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43945,
+        "num": 606651,
+        "word": "乐园保洁大姐cos蟑螂",
+        "onboard_time": 1761136401,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70480,
+        "num": 606504,
+        "word": "他每天赚上千元却不拿一分钱回家",
+        "onboard_time": 1761124639,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68211,
+        "num": 606336,
+        "word": "一半秋天一半已到冬天",
+        "onboard_time": 1761133160,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63939,
+        "num": 606323,
+        "word": "天冷了和小猫咪一起睡",
+        "onboard_time": 1761134961,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62351,
+        "num": 606110,
+        "word": "食贫道采访的日本专家称日本完了",
+        "onboard_time": 1761137241,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32104,
+        "num": 606068,
+        "word": "北京供热 冲刺",
+        "onboard_time": 1761136040,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57900,
+        "num": 605911,
+        "word": "美国公务员排长队领救济",
+        "onboard_time": 1761136882,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 54073,
+        "num": 605774,
+        "word": "红霉素软膏千万不能随便用",
+        "onboard_time": 1761108803,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48876,
+        "num": 605704,
+        "word": "王楚钦多哈夺冠球台已运回北京",
+        "onboard_time": 1761132382,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#领航中国式现代化#"
+    }
+  }
+}
