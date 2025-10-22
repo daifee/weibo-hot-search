@@ -1,0 +1,410 @@
+{
+  "runTime": 1761151844506,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 194376,
+        "num": 664450,
+        "word": "美国总统叫板美国前总统",
+        "onboard_time": 1761138322,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125042,
+        "num": 664213,
+        "word": "无畏哭了",
+        "onboard_time": 1761140002,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 11136,
+        "num": 663983,
+        "word": "十四五时期的智造轰鸣",
+        "onboard_time": 1761141803,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121198,
+        "num": 663912,
+        "word": "原来羽绒服里少穿比多穿更暖和",
+        "onboard_time": 1761138262,
+        "rank": 3,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 110104,
+        "num": 663438,
+        "word": "冷冷冷我冷冷冷",
+        "onboard_time": 1761138741,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142072,
+        "num": 663426,
+        "word": "余生有涯大结局",
+        "onboard_time": 1761148879,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103637,
+        "num": 662969,
+        "word": "纪念台湾光复",
+        "onboard_time": 1761148700,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 71427,
+        "num": 662898,
+        "word": "网剧樊笼开机",
+        "onboard_time": 1761149959,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64509,
+        "num": 662502,
+        "word": "网红小影夫妇涉偷税漏税被查处",
+        "onboard_time": 1761145223,
+        "rank": 8,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 63838,
+        "num": 662383,
+        "word": "一张图片证明你那里有多冷",
+        "onboard_time": 1761133341,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204975,
+        "num": 662054,
+        "word": "女子做美甲咬牙硬扛被疼哭",
+        "onboard_time": 1761151757,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128481,
+        "num": 661809,
+        "word": "印度七旬老人假死测试谁关心他",
+        "onboard_time": 1761144562,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117950,
+        "num": 661484,
+        "word": "月入一万以下最好的理财方式",
+        "onboard_time": 1761133160,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113259,
+        "num": 661271,
+        "word": "乌干达发生严重车祸致63死",
+        "onboard_time": 1761131600,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136317,
+        "num": 660975,
+        "word": "闲鱼回应平台出现卢浮宫珠宝",
+        "onboard_time": 1761135202,
+        "rank": 14,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 109533,
+        "num": 660629,
+        "word": "Doinb回应小天",
+        "onboard_time": 1761138080,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91494,
+        "num": 660437,
+        "word": "女子捐200斤旧衣后收到14岁女孩来信",
+        "onboard_time": 1761143482,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86191,
+        "num": 660262,
+        "word": "年轻人为什么不爱喝养乐多了",
+        "onboard_time": 1761130761,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60101,
+        "num": 659941,
+        "word": "老外又带更多老外来中国",
+        "onboard_time": 1761138262,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40709,
+        "num": 659720,
+        "word": "龚俊第一部大男主剧",
+        "onboard_time": 1761132201,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156454,
+        "num": 659531,
+        "word": "中国国家队回应张博恒银牌",
+        "onboard_time": 1761148519,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93147,
+        "num": 659216,
+        "word": "5类人真的不要染发",
+        "onboard_time": 1761146241,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90806,
+        "num": 659029,
+        "word": "大雨暴雨大雪暴雪即将上线",
+        "onboard_time": 1761142641,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73257,
+        "num": 658743,
+        "word": "林俊杰jj20世界巡回演唱会",
+        "onboard_time": 1761140962,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72582,
+        "num": 658454,
+        "word": "宠物店起火宠物无一生还",
+        "onboard_time": 1761135622,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35596,
+        "num": 658119,
+        "word": "周深抢票",
+        "onboard_time": 1761142223,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64489,
+        "num": 657836,
+        "word": "金价",
+        "onboard_time": 1761138502,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 59857,
+        "num": 657736,
+        "word": "名创优品80%门店将关闭重开",
+        "onboard_time": 1761122902,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47961,
+        "num": 657488,
+        "word": "张博恒世锦赛全能银牌",
+        "onboard_time": 1761141203,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57144,
+        "num": 657280,
+        "word": "何赛飞为全场呼唤陈丽君名字激动",
+        "onboard_time": 1761130221,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71605,
+        "num": 656824,
+        "word": "GEN和TES争夺八强席位",
+        "onboard_time": 1761148399,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 55734,
+        "num": 656544,
+        "word": "齐齐哈尔高速一SUV开远光逆行",
+        "onboard_time": 1761142341,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51603,
+        "num": 656515,
+        "word": "牛骏峰闷声干大事",
+        "onboard_time": 1761140603,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49065,
+        "num": 656260,
+        "word": "全球超13万汽车人将失业",
+        "onboard_time": 1761139343,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49041,
+        "num": 655799,
+        "word": "第一眼以为是丑东西切开后惊艳我了",
+        "onboard_time": 1761136761,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 35491,
+        "num": 655748,
+        "word": "余生有涯大结局好好哭",
+        "onboard_time": 1761145281,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46025,
+        "num": 655243,
+        "word": "2岁男童被充气城堡刮飞",
+        "onboard_time": 1761143842,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36332,
+        "num": 655011,
+        "word": "纪伯宰的爱永远拿的出手",
+        "onboard_time": 1761151156,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32375,
+        "num": 654772,
+        "word": "国务院同意设立全民阅读活动周",
+        "onboard_time": 1761135741,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43444,
+        "num": 654579,
+        "word": "交警回应SUV高速上开远光逆行",
+        "onboard_time": 1761147500,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43286,
+        "num": 654454,
+        "word": "黄金",
+        "onboard_time": 1761124940,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 40725,
+        "num": 654024,
+        "word": "第一次感受到藏马熊的恐怖",
+        "onboard_time": 1761134902,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 38601,
+        "num": 653858,
+        "word": "S15封面队伍全败",
+        "onboard_time": 1761134902,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 37321,
+        "num": 653470,
+        "word": "怪不得说肠道是人的第二个大脑",
+        "onboard_time": 1761131000,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36826,
+        "num": 653336,
+        "word": "曝VOGUE盛典拖欠劳务费",
+        "onboard_time": 1761134781,
+        "rank": 44,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 36156,
+        "num": 653046,
+        "word": "万豪每桌8千8的婚宴被吐槽预制菜",
+        "onboard_time": 1761142822,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35387,
+        "num": 652790,
+        "word": "锦州是真火了",
+        "onboard_time": 1761128721,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 34691,
+        "num": 652643,
+        "word": "小天回应19年FPX兄弟情",
+        "onboard_time": 1761134902,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24063,
+        "num": 652234,
+        "word": "张博恒自由操稳定发挥",
+        "onboard_time": 1761150018,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23777,
+        "num": 652018,
+        "word": "桥本大辉世锦赛摘金",
+        "onboard_time": 1761144622,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#伟大事业成于实干#"
+    }
+  }
+}
