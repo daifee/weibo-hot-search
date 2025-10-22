@@ -1,6 +1,6 @@
 {
   "startTime": 1760804933190,
-  "endTime": 1761115131629,
+  "endTime": 1761115951558,
   "band_list": [
     {
       "raw_hot": 2943828,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 1030499,
-      "num": 277710,
+      "num": 301543,
       "word": "冰岛首次发现蚊子",
       "onboard_time": 1761098600,
       "rank": 13,
@@ -1451,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 396760,
+      "num": 396760,
+      "word": "吃烤肠和不吃烤肠的都沉默了",
+      "onboard_time": 1761110302,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 396509,
       "num": 396509,
       "word": "商家广告泄露国家秘密",
@@ -1697,6 +1705,14 @@
       "onboard_time": 1761058462,
       "rank": 8,
       "category": "健康医疗,民生新闻"
+    },
+    {
+      "raw_hot": 359414,
+      "num": 1057506,
+      "word": "改名叫夏冬春吧 剪秋也行",
+      "onboard_time": 1761111800,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 356984,
@@ -2259,12 +2275,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 278105,
-      "num": 278105,
-      "word": "吃烤肠和不吃烤肠的都沉默了",
-      "onboard_time": 1761110302,
-      "rank": 33,
-      "category": "幽默"
+      "raw_hot": 273038,
+      "num": 490066,
+      "word": "学生证的正确打开方式",
+      "onboard_time": 1761112101,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 272127,
@@ -2332,7 +2348,7 @@
     },
     {
       "raw_hot": 266615,
-      "num": 244038,
+      "num": 450131,
       "word": "Uzi说S15抽签没找他",
       "onboard_time": 1761105322,
       "rank": 31,
@@ -2659,14 +2675,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 225749,
-      "num": 490066,
-      "word": "学生证的正确打开方式",
-      "onboard_time": 1761112101,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 224441,
       "num": 1024509,
       "word": "以色列空袭加沙南部拉法地区",
@@ -2769,14 +2777,6 @@
       "onboard_time": 1760951721,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 212780,
-      "num": 707338,
-      "word": "改名叫夏冬春吧 剪秋也行",
-      "onboard_time": 1761111800,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212230,
@@ -3059,6 +3059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198681,
+      "num": 198681,
+      "word": "专家称黄金1年涨幅超50%非常不正常",
+      "onboard_time": 1761114381,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 197685,
       "num": 1045436,
       "word": "二十届四中全会",
@@ -3188,7 +3196,7 @@
     },
     {
       "raw_hot": 194048,
-      "num": 233152,
+      "num": 405322,
       "word": "勇士战胜湖人",
       "onboard_time": 1761109761,
       "rank": 8,
@@ -3321,6 +3329,22 @@
       "onboard_time": 1761012801,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 187435,
+      "num": 187435,
+      "word": "山姆将改用三轮车运输大件货物",
+      "onboard_time": 1761112642,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187408,
+      "num": 514060,
+      "word": "BLG晋级S15八强需两连胜",
+      "onboard_time": 1761111202,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 187126,
@@ -3867,14 +3891,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 164950,
-      "num": 164950,
-      "word": "山姆将改用三轮车运输大件货物",
-      "onboard_time": 1761112642,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164928,
       "num": 198433,
       "word": "X剧场首部女性罪案剧",
@@ -3977,6 +3993,14 @@
       "onboard_time": 1761049401,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162753,
+      "num": 180782,
+      "word": "第一次在综艺里听明星聊抑郁症躯体化",
+      "onboard_time": 1761115040,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 162391,
@@ -5011,6 +5035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 132136,
+      "num": 132136,
+      "word": "金价暴跌有金店连夜降价",
+      "onboard_time": 1761110241,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 131855,
       "num": 131855,
       "word": "那艺娜回应",
@@ -5163,14 +5195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 129394,
-      "num": 129394,
-      "word": "专家称黄金1年涨幅超50%非常不正常",
-      "onboard_time": 1761114381,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 129278,
       "num": 129278,
       "word": "冷空气将进一步南下",
@@ -5193,14 +5217,6 @@
       "onboard_time": 1760867600,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128546,
-      "num": 514060,
-      "word": "BLG晋级S15八强需两连胜",
-      "onboard_time": 1761111202,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 128417,
@@ -5249,14 +5265,6 @@
       "onboard_time": 1760882423,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127521,
-      "num": 127521,
-      "word": "金价暴跌有金店连夜降价",
-      "onboard_time": 1761110241,
-      "rank": 42,
-      "category": "财经"
     },
     {
       "raw_hot": 127303,
@@ -5585,6 +5593,14 @@
       "onboard_time": 1761111202,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122555,
+      "num": 463827,
+      "word": "10月就穿羽绒服了",
+      "onboard_time": 1761112642,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122520,
@@ -5955,6 +5971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 116906,
+      "num": 116906,
+      "word": "留学生被策反当间谍回国窃密获无期",
+      "onboard_time": 1761113482,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116812,
       "num": 340568,
       "word": "利物浦vs曼联",
@@ -6137,14 +6161,6 @@
       "onboard_time": 1760955621,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 113336,
-      "num": 113336,
-      "word": "第一次在综艺里听明星聊抑郁症躯体化",
-      "onboard_time": 1761115040,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 113268,
@@ -7019,14 +7035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102941,
-      "num": 102941,
-      "word": "留学生被策反当间谍回国窃密获无期",
-      "onboard_time": 1761113482,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102789,
       "num": 102789,
       "word": "杜兰特6犯离场",
@@ -7387,6 +7395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 98605,
+      "num": 98605,
+      "word": "男子剪枝时发现树枝竟是活螳螂",
+      "onboard_time": 1761115160,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98511,
       "num": 98511,
       "word": "杜兰特没暂停喊暂停",
@@ -7721,6 +7737,14 @@
       "onboard_time": 1761020121,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94257,
+      "num": 94257,
+      "word": "周深的仙气没想到这么写实",
+      "onboard_time": 1761115459,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 94219,
@@ -8443,6 +8467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 86868,
+      "num": 86868,
+      "word": "冰岛蚊子或通过跨国运输被带入",
+      "onboard_time": 1761115700,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 86829,
       "num": 154039,
       "word": "新人结婚被拦车要烟骑电动车回家",
@@ -8505,14 +8537,6 @@
       "onboard_time": 1761032900,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 86185,
-      "num": 86185,
-      "word": "10月就穿羽绒服了",
-      "onboard_time": 1761112642,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86118,
@@ -9195,6 +9219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78372,
+      "num": 78372,
+      "word": "把黄金做成这样谁能不爱啊",
+      "onboard_time": 1761115761,
+      "rank": 42,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 78319,
       "num": 185225,
       "word": "双11算不明白让AI算",
@@ -9273,6 +9305,14 @@
       "onboard_time": 1760888181,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77303,
+      "num": 77303,
+      "word": "泰国街头的活鱿鱼小吃",
+      "onboard_time": 1761115459,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 77292,
@@ -9355,6 +9395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76710,
+      "num": 137208,
+      "word": "秋天冬天反复横跳",
+      "onboard_time": 1761115160,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76495,
       "num": 173866,
       "word": "iQOO15配色",
@@ -9393,6 +9441,14 @@
       "onboard_time": 1760874742,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 76102,
+      "num": 76102,
+      "word": "原神千星奇域",
+      "onboard_time": 1761115160,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 75877,
@@ -9728,6 +9784,14 @@
       "word": "官方回应深圳卷尺哥指哪修哪",
       "onboard_time": 1760974582,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70024,
+      "num": 221769,
+      "word": "大学生当临时父母3小时收入300元",
+      "onboard_time": 1761114862,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -10731,14 +10795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44228,
-      "num": 221769,
-      "word": "大学生当临时父母3小时收入300元",
-      "onboard_time": 1761114862,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44098,
       "num": 109451,
       "word": "高市早苗曾叫嚣台湾有事日本必入",
@@ -10833,6 +10889,14 @@
       "onboard_time": 1760870962,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39728,
+      "num": 103541,
+      "word": "起诉银行电话骚扰获赔5000元",
+      "onboard_time": 1761114862,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39593,
@@ -11035,14 +11099,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 34087,
-      "num": 103541,
-      "word": "起诉银行电话骚扰获赔5000元",
-      "onboard_time": 1761114862,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33623,
       "num": 117832,
       "word": "文韬被外国友人搭讪",
@@ -11065,6 +11121,14 @@
       "onboard_time": 1761107181,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32411,
+      "num": 104836,
+      "word": "广西百色内涝为何积水难消",
+      "onboard_time": 1761114320,
+      "rank": 37,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 32169,
@@ -11337,14 +11401,6 @@
       "onboard_time": 1761044302,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22218,
-      "num": 104836,
-      "word": "广西百色内涝为何积水难消",
-      "onboard_time": 1761114320,
-      "rank": 37,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 21502,
