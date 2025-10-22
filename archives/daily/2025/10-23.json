@@ -1,0 +1,411 @@
+{
+  "startTime": 1761150886618,
+  "endTime": 1761150886618,
+  "band_list": [
+    {
+      "raw_hot": 231507,
+      "num": 773777,
+      "word": "美国总统叫板美国前总统",
+      "onboard_time": 1761138322,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 194146,
+      "num": 137841,
+      "word": "印度七旬老人假死测试谁关心他",
+      "onboard_time": 1761144562,
+      "rank": 10,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 170232,
+      "num": 170232,
+      "word": "原来羽绒服里少穿比多穿更暖和",
+      "onboard_time": 1761138262,
+      "rank": 1,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 157547,
+      "num": 113288,
+      "word": "中国国家队回应张博恒银牌",
+      "onboard_time": 1761148519,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 152122,
+      "num": 152122,
+      "word": "闲鱼回应平台出现卢浮宫珠宝",
+      "onboard_time": 1761135202,
+      "rank": 5,
+      "category": "民生新闻,互联网"
+    },
+    {
+      "raw_hot": 136518,
+      "num": 136518,
+      "word": "月入一万以下最好的理财方式",
+      "onboard_time": 1761133160,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 122800,
+      "num": 152130,
+      "word": "无畏哭了",
+      "onboard_time": 1761140002,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 122684,
+      "num": 122684,
+      "word": "女子捐200斤旧衣后收到14岁女孩来信",
+      "onboard_time": 1761143482,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120379,
+      "num": 150689,
+      "word": "余生有涯大结局",
+      "onboard_time": 1761148879,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120215,
+      "num": 113285,
+      "word": "5类人真的不要染发",
+      "onboard_time": 1761146241,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 116378,
+      "num": 113278,
+      "word": "大雨暴雨大雪暴雪即将上线",
+      "onboard_time": 1761142641,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115174,
+      "num": 115174,
+      "word": "Doinb回应小天",
+      "onboard_time": 1761138080,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 113324,
+      "num": 113324,
+      "word": "乌干达发生严重车祸致63死",
+      "onboard_time": 1761131600,
+      "rank": 14,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93420,
+      "num": 147415,
+      "word": "网红小影夫妇涉偷税漏税被查处",
+      "onboard_time": 1761145223,
+      "rank": 7,
+      "category": "网红,民生新闻"
+    },
+    {
+      "raw_hot": 93245,
+      "num": 113323,
+      "word": "年轻人为什么不爱喝养乐多了",
+      "onboard_time": 1761130761,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91328,
+      "num": 113271,
+      "word": "林俊杰jj20世界巡回演唱会",
+      "onboard_time": 1761140962,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 88549,
+      "num": 152124,
+      "word": "冷冷冷我冷冷冷",
+      "onboard_time": 1761138741,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83236,
+      "num": 142894,
+      "word": "纪念台湾光复",
+      "onboard_time": 1761148700,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 82869,
+      "num": 140284,
+      "word": "一张图片证明你那里有多冷",
+      "onboard_time": 1761133341,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80777,
+      "num": 113263,
+      "word": "牛骏峰闷声干大事",
+      "onboard_time": 1761140603,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 78583,
+      "num": 113316,
+      "word": "齐齐哈尔高速一SUV开远光逆行",
+      "onboard_time": 1761142341,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 77823,
+      "num": 113291,
+      "word": "老外又带更多老外来中国",
+      "onboard_time": 1761138262,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72985,
+      "num": 113237,
+      "word": "GEN和TES争夺八强席位",
+      "onboard_time": 1761148399,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 69907,
+      "num": 113257,
+      "word": "金价",
+      "onboard_time": 1761138502,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 69020,
+      "num": 113255,
+      "word": "名创优品80%门店将关闭重开",
+      "onboard_time": 1761122902,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68901,
+      "num": 113248,
+      "word": "宠物店起火宠物无一生还",
+      "onboard_time": 1761135622,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 67191,
+      "num": 113233,
+      "word": "张博恒世锦赛全能银牌",
+      "onboard_time": 1761141203,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61399,
+      "num": 113228,
+      "word": "全球超13万汽车人将失业",
+      "onboard_time": 1761139343,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60201,
+      "num": 113223,
+      "word": "何赛飞为全场呼唤陈丽君名字激动",
+      "onboard_time": 1761130221,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 55284,
+      "num": 113208,
+      "word": "第一次感受到藏马熊的恐怖",
+      "onboard_time": 1761134902,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 52306,
+      "num": 113241,
+      "word": "余生有涯大结局好好哭",
+      "onboard_time": 1761145281,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 51195,
+      "num": 113204,
+      "word": "黄金",
+      "onboard_time": 1761124940,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 50433,
+      "num": 113200,
+      "word": "2岁男童被充气城堡刮飞",
+      "onboard_time": 1761143842,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45715,
+      "num": 113312,
+      "word": "龚俊第一部大男主剧",
+      "onboard_time": 1761132201,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 44327,
+      "num": 113194,
+      "word": "交警回应SUV高速上开远光逆行",
+      "onboard_time": 1761147500,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43410,
+      "num": 113189,
+      "word": "万豪每桌8千8的婚宴被吐槽预制菜",
+      "onboard_time": 1761142822,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40818,
+      "num": 113184,
+      "word": "曝VOGUE盛典拖欠劳务费",
+      "onboard_time": 1761134781,
+      "rank": 40,
+      "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 40751,
+      "num": 113178,
+      "word": "锦州是真火了",
+      "onboard_time": 1761128721,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 40489,
+      "num": 113167,
+      "word": "国务院同意设立全民阅读活动周",
+      "onboard_time": 1761135741,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39903,
+      "num": 113162,
+      "word": "小天回应19年FPX兄弟情",
+      "onboard_time": 1761134902,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 39642,
+      "num": 113160,
+      "word": "第一眼以为是丑东西切开后惊艳我了",
+      "onboard_time": 1761136761,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 37661,
+      "num": 113303,
+      "word": "周深抢票",
+      "onboard_time": 1761142223,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 36862,
+      "num": 113152,
+      "word": "怪不得说肠道是人的第二个大脑",
+      "onboard_time": 1761131000,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 36238,
+      "num": 113297,
+      "word": "网剧樊笼开机",
+      "onboard_time": 1761149959,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 34348,
+      "num": 113148,
+      "word": "S15封面队伍全败",
+      "onboard_time": 1761134902,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 33943,
+      "num": 113141,
+      "word": "但凡在吃药就尽量别吃柚子",
+      "onboard_time": 1761140302,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 33620,
+      "num": 113134,
+      "word": "捐赠200斤旧衣女子发声",
+      "onboard_time": 1761146542,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27706,
+      "num": 113213,
+      "word": "常华森特别出演天地剑心",
+      "onboard_time": 1761140242,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 27299,
+      "num": 113133,
+      "word": "张博恒自由操稳定发挥",
+      "onboard_time": 1761150018,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11189,
+      "num": 158266,
+      "word": "十四五时期的智造轰鸣",
+      "onboard_time": 1761141803,
+      "rank": 2,
+      "category": "国内时政"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#伟大事业成于实干#"
+    }
+  ]
+}
