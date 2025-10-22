@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761099595318,
+  "endTime": 1761103049940,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -2427,6 +2427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 984610,
+      "num": 135855,
+      "word": "金价大跌有人一夜亏5万",
+      "onboard_time": 1761099320,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 980225,
       "num": 1156836,
       "word": "景区回应仙女散的是假花",
@@ -2465,6 +2473,14 @@
       "onboard_time": 1760156782,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 970295,
+      "num": 135632,
+      "word": "冰岛首次发现蚊子",
+      "onboard_time": 1761098600,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 969193,
@@ -7947,14 +7963,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 493317,
-      "num": 135399,
-      "word": "冰岛首次发现蚊子",
-      "onboard_time": 1761098600,
-      "rank": 13,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 492874,
       "num": 492874,
       "word": "宗馥莉不在周末给一线员工发工作信息",
@@ -11539,6 +11547,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 364657,
+      "num": 129824,
+      "word": "北京市市服",
+      "onboard_time": 1761099021,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 364012,
       "num": 196603,
       "word": "男子灌面汤呛死妻子案家属最新发声",
@@ -11577,6 +11593,14 @@
       "onboard_time": 1760868922,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 363086,
+      "num": 121764,
+      "word": "打开行李箱发现多了8万元",
+      "onboard_time": 1761100100,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 363061,
@@ -12827,6 +12851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 322020,
+      "num": 118232,
+      "word": "金饰克价一夜跌了83元",
+      "onboard_time": 1761098901,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 321908,
       "num": 207756,
       "word": "何老师第一次在密逃被吓到",
@@ -13425,6 +13457,14 @@
       "onboard_time": 1760347941,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310537,
+      "num": 310537,
+      "word": "Bin回应输给G2",
+      "onboard_time": 1761098001,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 310519,
@@ -16115,6 +16155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 256990,
+      "num": 117322,
+      "word": "宇树科技决定更名",
+      "onboard_time": 1761100278,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 256896,
       "num": 256896,
       "word": "夏静石死在了大仇得报的那一天",
@@ -17323,6 +17371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237700,
+      "num": 117143,
+      "word": "曝iPhoneAir暂停生产",
+      "onboard_time": 1761101241,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
       "raw_hot": 237665,
       "num": 443802,
       "word": "胡塞武装总参谋长身亡",
@@ -18249,6 +18305,14 @@
       "onboard_time": 1759659384,
       "rank": 24,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 222757,
+      "num": 120554,
+      "word": "妈妈得癌症瞒了儿子两个月",
+      "onboard_time": 1761101781,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 222744,
@@ -19697,14 +19761,6 @@
       "onboard_time": 1760533400,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204931,
-      "num": 126652,
-      "word": "Bin回应输给G2",
-      "onboard_time": 1761098001,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 204834,
@@ -22353,6 +22409,14 @@
       "onboard_time": 1760864901,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188494,
+      "num": 188494,
+      "word": "纪念台湾光复80周年大会邀请台湾同胞",
+      "onboard_time": 1761101841,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 188472,
@@ -25163,6 +25227,14 @@
       "category": "体育,体育"
     },
     {
+      "raw_hot": 171128,
+      "num": 116440,
+      "word": "台湾网红馆长官宣北京行",
+      "onboard_time": 1761100941,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170952,
       "num": 170952,
       "word": "日本派桥本帆乃香打一单",
@@ -25537,6 +25609,14 @@
       "onboard_time": 1760414963,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168897,
+      "num": 116078,
+      "word": "iPhone降价安卓旗舰却卖爆了",
+      "onboard_time": 1761101901,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 168839,
@@ -28627,14 +28707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154435,
-      "num": 114293,
-      "word": "金饰克价一夜跌了83元",
-      "onboard_time": 1761098901,
-      "rank": 30,
-      "category": "财经"
-    },
-    {
       "raw_hot": 154429,
       "num": 154429,
       "word": "日本自民党维新会基本确认联合执政",
@@ -29545,6 +29617,14 @@
       "onboard_time": 1759904240,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150072,
+      "num": 208405,
+      "word": "长征路每300米就有1名红军牺牲",
+      "onboard_time": 1761090738,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 150068,
@@ -31417,6 +31497,14 @@
       "onboard_time": 1760267480,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 142298,
+      "num": 142298,
+      "word": "藏海传飙升值185%",
+      "onboard_time": 1761100100,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 142242,
@@ -33513,14 +33601,6 @@
       "onboard_time": 1760624665,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135210,
-      "num": 208405,
-      "word": "长征路每300米就有1名红军牺牲",
-      "onboard_time": 1761090738,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 135204,
@@ -37427,6 +37507,14 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 124542,
+      "num": 115767,
+      "word": "农业银行14连阳",
+      "onboard_time": 1761102622,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 124539,
       "num": 124539,
       "word": "她是怎么想到在闺蜜婚礼表演这个的",
@@ -38297,6 +38385,14 @@
       "onboard_time": 1759669402,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122334,
+      "num": 122334,
+      "word": "台湾光复是抗战胜利的重要成果",
+      "onboard_time": 1761101781,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 122311,
@@ -40475,6 +40571,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 117273,
+      "num": 117273,
+      "word": "火箭vs雷霆",
+      "onboard_time": 1761092241,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117269,
       "num": 242027,
       "word": "海口实施六停",
@@ -41705,14 +41809,6 @@
       "onboard_time": 1759649360,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 114318,
-      "num": 114318,
-      "word": "金价大跌有人一夜亏5万",
-      "onboard_time": 1761099320,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114243,
@@ -49819,6 +49915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 98818,
+      "num": 98818,
+      "word": "中荷围绕安世半导体问题交换意见",
+      "onboard_time": 1761100041,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 98806,
       "num": 98806,
       "word": "孙颖莎以为王晓彤要暂停",
@@ -55659,14 +55763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86819,
-      "num": 86819,
-      "word": "火箭vs雷霆",
-      "onboard_time": 1761092241,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 86812,
       "num": 86812,
       "word": "刘轩丞到达巴黎",
@@ -56923,20 +57019,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 83919,
-      "num": 83919,
-      "word": "北京市市服",
-      "onboard_time": 1761099021,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 83908,
       "num": 83908,
       "word": "全球坚韧船队覆灭",
       "onboard_time": 1759394601,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 83901,
+      "num": 83901,
+      "word": "一抓一个大河蟹的快乐",
+      "onboard_time": 1761102981,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 83887,
@@ -57185,6 +57281,14 @@
       "onboard_time": 1760459479,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83360,
+      "num": 83360,
+      "word": "等原神开门",
+      "onboard_time": 1761102922,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 83345,
@@ -57513,6 +57617,14 @@
       "onboard_time": 1760782401,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 82524,
+      "num": 113338,
+      "word": "歌手2025综N代的破局",
+      "onboard_time": 1761102861,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 82510,
@@ -57880,6 +57992,14 @@
       "word": "孙颖莎说自己单打水平提升不少",
       "onboard_time": 1759541359,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 81627,
+      "num": 81627,
+      "word": "杜兰特火箭常规赛首秀",
+      "onboard_time": 1761100581,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -59459,6 +59579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77292,
+      "num": 77292,
+      "word": "被除数是7为什么会有这种特性",
+      "onboard_time": 1761098779,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77268,
       "num": 77268,
       "word": "重庆百万粉丝抗癌博主黄三姐离世",
@@ -59929,6 +60057,14 @@
       "onboard_time": 1760408120,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 75718,
+      "num": 75718,
+      "word": "你一周会洗几次头",
+      "onboard_time": 1761092661,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 75705,
@@ -66971,6 +67107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39480,
+      "num": 92766,
+      "word": "一公司招聘前台被BOSS直聘收费",
+      "onboard_time": 1761102561,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39459,
       "num": 112247,
       "word": "留几手吐槽邓莎老公爹味重",
@@ -70361,6 +70505,14 @@
       "onboard_time": 1760781683,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 17046,
+      "num": 90460,
+      "word": "孙颖莎已获102个冠军",
+      "onboard_time": 1761102381,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 16959,
