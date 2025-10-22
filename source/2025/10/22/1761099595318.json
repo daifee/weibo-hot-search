@@ -1,0 +1,410 @@
+{
+  "runTime": 1761099595318,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 666507,
+        "num": 1106641,
+        "word": "台湾人就是中国人无可置疑",
+        "onboard_time": 1761093920,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 364993,
+        "num": 364993,
+        "word": "商家广告泄露国家秘密",
+        "onboard_time": 1761092301,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26847,
+        "num": 231158,
+        "word": "强国梦从蓝图一步步走向现实",
+        "onboard_time": 1761055521,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 223555,
+        "num": 223555,
+        "word": "当地规劝烤肉店停止玉米做燃料",
+        "onboard_time": 1761056602,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213588,
+        "num": 213588,
+        "word": "国防部回应澳军机侵闯西沙领空",
+        "onboard_time": 1761095961,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208222,
+        "num": 208222,
+        "word": "泽连斯基称已准备好结束俄乌冲突",
+        "onboard_time": 1761092420,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178156,
+        "num": 178156,
+        "word": "匪我思存受聘武汉大学文学院导师",
+        "onboard_time": 1761089958,
+        "rank": 6,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 148090,
+        "num": 148090,
+        "word": "秋季最后一个节气要来了",
+        "onboard_time": 1761094701,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139367,
+        "num": 139367,
+        "word": "小可爱给最可爱的人敬礼",
+        "onboard_time": 1761095961,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 135857,
+        "num": 135857,
+        "word": "特朗普暗示将承诺反对台独",
+        "onboard_time": 1761058043,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 658367,
+        "num": 135807,
+        "word": "迪丽热巴 骆驼",
+        "onboard_time": 1761098779,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581104,
+        "num": 135598,
+        "word": "邓莎老公曾向某退休干部行贿",
+        "onboard_time": 1761092061,
+        "rank": 11,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 543408,
+        "num": 135596,
+        "word": "日本人也把日本人当日本人整",
+        "onboard_time": 1761095001,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 493317,
+        "num": 135399,
+        "word": "冰岛首次发现蚊子",
+        "onboard_time": 1761098600,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 281512,
+        "num": 135264,
+        "word": "男子ICU收到兄弟转账哭成孩子",
+        "onboard_time": 1761096500,
+        "rank": 14,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 135210,
+        "num": 135210,
+        "word": "长征路每300米就有1名红军牺牲",
+        "onboard_time": 1761090738,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 277845,
+        "num": 134081,
+        "word": "星品",
+        "onboard_time": 1761047001,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71101,
+        "num": 133172,
+        "word": "宴遇永安编剧",
+        "onboard_time": 1761064878,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50067,
+        "num": 132180,
+        "word": "宴遇永安好虐",
+        "onboard_time": 1761062900,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104338,
+        "num": 130391,
+        "word": "在10级大风里洗热水澡是种什么体验",
+        "onboard_time": 1761097519,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1030335,
+        "num": 128887,
+        "word": "金价银价急跌",
+        "onboard_time": 1761088098,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 248561,
+        "num": 127497,
+        "word": "男子在免费餐馆要求提前开饭",
+        "onboard_time": 1761095181,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204931,
+        "num": 126652,
+        "word": "Bin回应输给G2",
+        "onboard_time": 1761098001,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158994,
+        "num": 125675,
+        "word": "黄金创5年来最大跌幅",
+        "onboard_time": 1761096740,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 153623,
+        "num": 123689,
+        "word": "龙凤胎眼睛差距有多大",
+        "onboard_time": 1761093080,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123549,
+        "num": 123549,
+        "word": "金价银价急跌原因",
+        "onboard_time": 1761096981,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 119065,
+        "num": 119065,
+        "word": "2楼下水道堵死竟掏出12米树根",
+        "onboard_time": 1761088157,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116010,
+        "num": 116010,
+        "word": "女子在直播间买到自己捐的衣服",
+        "onboard_time": 1761048080,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115764,
+        "num": 115764,
+        "word": "不接受与自己不匹配的人生",
+        "onboard_time": 1761098600,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114318,
+        "num": 114318,
+        "word": "金价大跌有人一夜亏5万",
+        "onboard_time": 1761099320,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154435,
+        "num": 114293,
+        "word": "金饰克价一夜跌了83元",
+        "onboard_time": 1761098901,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110563,
+        "num": 110563,
+        "word": "28岁女生车祸脑死亡器官救5人",
+        "onboard_time": 1761093380,
+        "rank": 31,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 107352,
+        "num": 107352,
+        "word": "红军长征胜利89周年",
+        "onboard_time": 1761091520,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106369,
+        "num": 106369,
+        "word": "日警方从女子内衣搜出8公斤黄金",
+        "onboard_time": 1761097640,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102508,
+        "num": 102508,
+        "word": "明星代言蟹卡差到黄牛都不敢收",
+        "onboard_time": 1761048681,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101735,
+        "num": 101735,
+        "word": "卢浮宫被抢珠宝价值超7.2亿元",
+        "onboard_time": 1761097160,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98767,
+        "num": 98767,
+        "word": "俄美总统拟布达佩斯会晤引多方博弈",
+        "onboard_time": 1761099320,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92638,
+        "num": 92638,
+        "word": "原神",
+        "onboard_time": 1761095841,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90416,
+        "num": 90416,
+        "word": "究竟是谁发明了这个穿搭天才",
+        "onboard_time": 1761093680,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86883,
+        "num": 86883,
+        "word": "港股黄金股大面积杀跌",
+        "onboard_time": 1761099260,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 86819,
+        "num": 86819,
+        "word": "火箭vs雷霆",
+        "onboard_time": 1761092241,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83919,
+        "num": 83919,
+        "word": "北京市市服",
+        "onboard_time": 1761099021,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81555,
+        "num": 81555,
+        "word": "92号汽油或重返6元时代",
+        "onboard_time": 1761093563,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81054,
+        "num": 81054,
+        "word": "金秋版大漠胡杨一眼心动",
+        "onboard_time": 1761093501,
+        "rank": 43,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 80915,
+        "num": 80915,
+        "word": "勇士vs湖人",
+        "onboard_time": 1761096081,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74675,
+        "num": 80913,
+        "word": "俄士兵背负战友遗体12天",
+        "onboard_time": 1761097341,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73671,
+        "num": 80912,
+        "word": "江浙沪无法体面入冬",
+        "onboard_time": 1761042921,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72875,
+        "num": 80911,
+        "word": "宋雨琦宁艺卓都去VOGUE盛典",
+        "onboard_time": 1761094641,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 71211,
+        "num": 80911,
+        "word": "宝妈每天晚来早走上20天班月薪5万",
+        "onboard_time": 1761048501,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69817,
+        "num": 80910,
+        "word": "这几个部位一定要保暖",
+        "onboard_time": 1761093263,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#十四五规划你我用奋斗实现#"
+    }
+  }
+}

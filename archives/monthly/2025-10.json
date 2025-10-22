@@ -1,6 +1,6 @@
 {
   "startTime": 1759249913238,
-  "endTime": 1761098288770,
+  "endTime": 1761099595318,
   "band_list": [
     {
       "raw_hot": 29191951,
@@ -5043,6 +5043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 658367,
+      "num": 135807,
+      "word": "迪丽热巴 骆驼",
+      "onboard_time": 1761098779,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 658013,
       "num": 658013,
       "word": "威廉王子说3个孩子都没有配手机",
@@ -7937,6 +7945,14 @@
       "onboard_time": 1759844304,
       "rank": 28,
       "category": "网红"
+    },
+    {
+      "raw_hot": 493317,
+      "num": 135399,
+      "word": "冰岛首次发现蚊子",
+      "onboard_time": 1761098600,
+      "rank": 13,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 492874,
@@ -14779,6 +14795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281512,
+      "num": 207143,
+      "word": "男子ICU收到兄弟转账哭成孩子",
+      "onboard_time": 1761096500,
+      "rank": 14,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 281438,
       "num": 246869,
       "word": "沈佳润事业运",
@@ -16225,14 +16249,6 @@
       "onboard_time": 1759507220,
       "rank": 22,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 255182,
-      "num": 207143,
-      "word": "男子ICU收到兄弟转账哭成孩子",
-      "onboard_time": 1761096500,
-      "rank": 14,
-      "category": "正能量"
     },
     {
       "raw_hot": 255082,
@@ -19681,6 +19697,14 @@
       "onboard_time": 1760533400,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204931,
+      "num": 126652,
+      "word": "Bin回应输给G2",
+      "onboard_time": 1761098001,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 204834,
@@ -26924,7 +26948,7 @@
     },
     {
       "raw_hot": 161934,
-      "num": 113760,
+      "num": 119065,
       "word": "2楼下水道堵死竟掏出12米树根",
       "onboard_time": 1761088157,
       "rank": 23,
@@ -27555,6 +27579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158994,
+      "num": 145068,
+      "word": "黄金创5年来最大跌幅",
+      "onboard_time": 1761096740,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 158972,
       "num": 158972,
       "word": "年轻人旅游基础打卡就不基础",
@@ -27740,7 +27772,7 @@
     },
     {
       "raw_hot": 158093,
-      "num": 112303,
+      "num": 123549,
       "word": "金价银价急跌原因",
       "onboard_time": 1761096981,
       "rank": 30,
@@ -28593,6 +28625,14 @@
       "onboard_time": 1759897881,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154435,
+      "num": 114293,
+      "word": "金饰克价一夜跌了83元",
+      "onboard_time": 1761098901,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 154429,
@@ -30785,14 +30825,6 @@
       "onboard_time": 1759396102,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145068,
-      "num": 145068,
-      "word": "黄金创5年来最大跌幅",
-      "onboard_time": 1761096740,
-      "rank": 23,
-      "category": "财经"
     },
     {
       "raw_hot": 145029,
@@ -33481,6 +33513,14 @@
       "onboard_time": 1760624665,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135210,
+      "num": 208405,
+      "word": "长征路每300米就有1名红军牺牲",
+      "onboard_time": 1761090738,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135204,
@@ -41067,6 +41107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115764,
+      "num": 115764,
+      "word": "不接受与自己不匹配的人生",
+      "onboard_time": 1761098600,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 115737,
       "num": 115737,
       "word": "哈马斯计划重新进入加沙地带",
@@ -41659,6 +41707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114318,
+      "num": 114318,
+      "word": "金价大跌有人一夜亏5万",
+      "onboard_time": 1761099320,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114243,
       "num": 114243,
       "word": "两个宝宝趴着也太犯规了吧",
@@ -41769,14 +41825,6 @@
       "onboard_time": 1759249160,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113990,
-      "num": 208405,
-      "word": "长征路每300米就有1名红军牺牲",
-      "onboard_time": 1761090738,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 113932,
@@ -46931,6 +46979,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 104338,
+      "num": 176488,
+      "word": "在10级大风里洗热水澡是种什么体验",
+      "onboard_time": 1761097519,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 104333,
       "num": 144920,
       "word": "愿你心怀皓月步履不停",
@@ -49785,6 +49841,14 @@
       "onboard_time": 1759628599,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98767,
+      "num": 98767,
+      "word": "俄美总统拟布达佩斯会晤引多方博弈",
+      "onboard_time": 1761099320,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98764,
@@ -55531,6 +55595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86883,
+      "num": 86883,
+      "word": "港股黄金股大面积杀跌",
+      "onboard_time": 1761099260,
+      "rank": 39,
+      "category": "财经"
+    },
+    {
       "raw_hot": 86878,
       "num": 115722,
       "word": "被赵今麦美到了",
@@ -55584,6 +55656,14 @@
       "word": "国乒3人晋级男单四强",
       "onboard_time": 1759576942,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86819,
+      "num": 86819,
+      "word": "火箭vs雷霆",
+      "onboard_time": 1761092241,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -56843,6 +56923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83919,
+      "num": 83919,
+      "word": "北京市市服",
+      "onboard_time": 1761099021,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83908,
       "num": 83908,
       "word": "全球坚韧船队覆灭",
@@ -57987,6 +58075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81054,
+      "num": 81054,
+      "word": "金秋版大漠胡杨一眼心动",
+      "onboard_time": 1761093501,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 81050,
       "num": 94217,
       "word": "真正缓解便秘的3种食物",
@@ -58041,14 +58137,6 @@
       "onboard_time": 1760314159,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80996,
-      "num": 80996,
-      "word": "Bin回应输给G2",
-      "onboard_time": 1761098001,
-      "rank": 38,
-      "category": "电竞"
     },
     {
       "raw_hot": 80943,
@@ -59723,14 +59811,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 76147,
-      "num": 76147,
-      "word": "金秋版大漠胡杨一眼心动",
-      "onboard_time": 1761093501,
-      "rank": 41,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 76135,
       "num": 76135,
       "word": "聂曦烈士是谁",
@@ -60595,12 +60675,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 72852,
-      "num": 76144,
-      "word": "火箭vs雷霆",
-      "onboard_time": 1761092241,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 72875,
+      "num": 80911,
+      "word": "宋雨琦宁艺卓都去VOGUE盛典",
+      "onboard_time": 1761094641,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 72850,
@@ -60995,6 +61075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 71101,
+      "num": 190584,
+      "word": "宴遇永安编剧",
+      "onboard_time": 1761064878,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71081,
       "num": 71081,
       "word": "巴基斯坦同意与阿富汗临时停火",
@@ -61387,6 +61475,14 @@
       "category": "财经,汽车"
     },
     {
+      "raw_hot": 69817,
+      "num": 80910,
+      "word": "这几个部位一定要保暖",
+      "onboard_time": 1761093263,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 69806,
       "num": 90029,
       "word": "iG赛后群像",
@@ -61731,14 +61827,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 68245,
-      "num": 190584,
-      "word": "宴遇永安编剧",
-      "onboard_time": 1761064878,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 68228,
       "num": 68228,
       "word": "荷兰政府将限制闻泰科技子公司",
@@ -61921,14 +62009,6 @@
       "onboard_time": 1759907120,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 67462,
-      "num": 176488,
-      "word": "在10级大风里洗热水澡是种什么体验",
-      "onboard_time": 1761097519,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67403,
@@ -62289,14 +62369,6 @@
       "onboard_time": 1760505021,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 65566,
-      "num": 76116,
-      "word": "宋雨琦宁艺卓都去VOGUE盛典",
-      "onboard_time": 1761094641,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 65558,
@@ -62745,14 +62817,6 @@
       "onboard_time": 1760595981,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63304,
-      "num": 76113,
-      "word": "这几个部位一定要保暖",
-      "onboard_time": 1761093263,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 63281,
